@@ -20,6 +20,9 @@ bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tefeu"]
 bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
 
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_x4jx1"]
+bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
+
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0wfyh"]
 bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
 
@@ -27,6 +30,12 @@ bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
 bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_sugp2"]
+bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_nt7q6"]
+bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_o6xl0"]
 bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
 
 [node name="UI" type="CanvasLayer" unique_id=692594121]
@@ -70,6 +79,20 @@ text = "Auto Advance : Off "
 alignment = 1
 autowrap_mode = 2
 
+[node name="CreditButton" type="Button" parent="." unique_id=981721089]
+custom_maximum_size = Vector2(1080, 450)
+offset_right = 300.0
+offset_bottom = 100.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_pressed_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+theme_override_colors/font_hover_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+theme_override_colors/font_hover_pressed_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+theme_override_font_sizes/font_size = 20
+theme_override_styles/normal = SubResource("StyleBoxFlat_x4jx1")
+text = "By : Cloudbv
+https://cloudbv.itch.io/"
+autowrap_mode = 1
+
 [node name="GameInfoLabel" type="Label" parent="." unique_id=540167658]
 custom_maximum_size = Vector2(1080, 450)
 offset_top = 1800.0
@@ -111,7 +134,20 @@ vertical_alignment = 1
 autowrap_mode = 1
 uppercase = true
 
-[node name="SettingsButton" type="Button" parent="." unique_id=1481602651]
+[node name="TimeControlLabel" type="Label" parent="." unique_id=727309894]
+custom_maximum_size = Vector2(1080, 450)
+offset_left = 300.0
+offset_right = 800.0
+offset_bottom = 100.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_nt7q6")
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 1
+uppercase = true
+
+[node name="CategoriesButton" type="Button" parent="." unique_id=1481602651]
 anchors_preset = 1
 anchor_left = 1.0
 anchor_right = 1.0
@@ -119,9 +155,18 @@ offset_left = -280.0
 offset_bottom = 100.0
 grow_horizontal = 0
 theme_override_font_sizes/font_size = 32
+theme_override_styles/normal = SubResource("StyleBoxFlat_o6xl0")
 text = "Select Categories"
 
-[node name="SettingsMenu" type="Control" parent="." unique_id=416207433]
+[node name="TimeControlButton" type="Button" parent="." unique_id=1808085795]
+visible = false
+offset_right = 299.0
+offset_bottom = 100.0
+theme_override_font_sizes/font_size = 32
+text = "Select TimeControl
+"
+
+[node name="Menu" type="Control" parent="." unique_id=416207433]
 visible = false
 layout_mode = 3
 anchors_preset = 8
@@ -137,7 +182,7 @@ grow_horizontal = 2
 grow_vertical = 2
 mouse_filter = 1
 
-[node name="Background" type="ColorRect" parent="SettingsMenu" unique_id=703615361]
+[node name="MenuBackground" type="ColorRect" parent="Menu" unique_id=703615361]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -147,7 +192,7 @@ grow_vertical = 2
 mouse_filter = 2
 color = Color(0.21568628, 0.21568628, 0.35686275, 0.4862745)
 
-[node name="ScrollContainer" type="ScrollContainer" parent="SettingsMenu" unique_id=747491663]
+[node name="ScrollContainer" type="ScrollContainer" parent="Menu" unique_id=747491663]
 custom_maximum_size = Vector2(400, 400)
 layout_mode = 1
 anchors_preset = 8
@@ -162,10 +207,10 @@ offset_bottom = 200.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="CategoryList" type="VBoxContainer" parent="SettingsMenu/ScrollContainer" unique_id=1651149877]
+[node name="CategoryList" type="VBoxContainer" parent="Menu/ScrollContainer" unique_id=1651149877]
 layout_mode = 2
 
-[node name="CloseButton" type="Button" parent="SettingsMenu" unique_id=1941063979]
+[node name="CloseButton" type="Button" parent="Menu" unique_id=1941063979]
 layout_mode = 1
 anchors_preset = 1
 anchor_left = 1.0

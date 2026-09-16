@@ -10,10 +10,10 @@ config_version=5
 
 [application]
 
-config/name="Chess Tournament Project"
+config/name="Chess Tournament Autoplayer (Learn By Opening)"
 run/main_scene="uid://b6ymqlnef2ii6"
 config/features=PackedStringArray("4.7", "GL Compatibility")
-config/icon="uid://cow7ev10r7aym"
+config/icon="uid://c60n2a0m6g66a"
 
 [display]
 

@@ -12,6 +12,19 @@ extends Node
 
 #const CURRENT_CATEGORY = 'london'
 
+const TIME_CONTROL_DISPLAY_NAMES = {
+	'90+30' : '90 min + 30 s',
+	'3+2' : '3 min + 2 s',
+	'15+10' : '15 min + 10 s',
+	'45+10' : '45 min + 10 s',
+	'60+30' : '60 min + 30 s',
+	'45+15' : '45 min + 15 s',
+	'25+30' : '25 min + 30 s',
+	'1800+3' : '30 min + 3s',
+	'3600+30' : '60 min + 30 s',
+	'10+30' : '10 min + 30s'
+}
+
 const CATEGORY_DISPLAY_NAMES = {
 	'caro_kann' : 'Caro-Kann Defense',
 	'english' : 'English Opening',
@@ -34,6 +47,10 @@ var enabled_categories : Array = [
 'sicilian'
 ]
 
+var enabled_time_controls : Array = TIME_CONTROL_DISPLAY_NAMES.keys()
+enum FilterMode { CATEGORY , TIME_CONTROL}
+var current_filter_mode : FilterMode = FilterMode.CATEGORY
+
 var current_game_data : Dictionary = {}
 
 var moves : Array = []
@@ -55,16 +72,28 @@ func _ready() -> void:
 	ui.restart_pressed.connect(restart_current_game)
 	ui.auto_advance_toggled.connect(_on_auto_advance_toggled)
 	ui.category_toggled.connect(_on_category_toggled)
-	ui.build_category_checkboxes(CATEGORY_DISPLAY_NAMES, enabled_categories)
+	ui.time_control_toggled.connect(_on_time_control_toggled)
+	#ui.build_category_checkboxes(CATEGORY_DISPLAY_NAMES, enabled_categories)
+	
+	#ui.build_time_control_checkboxes(TIME_CONTROL_DISPLAY_NAMES, enabled_time_controls)
+	
+	ui.filter_mode_changed.connect(func(mode):
+		if mode == 'category':
+			current_filter_mode = FilterMode.CATEGORY
+			enabled_time_controls = TIME_CONTROL_DISPLAY_NAMES.keys()
+			ui.build_category_checkboxes(CATEGORY_DISPLAY_NAMES, enabled_categories)
+		else:
+			current_filter_mode = FilterMode.TIME_CONTROL
+			enabled_categories = CATEGORY_DISPLAY_NAMES.keys()
+			ui.build_time_control_checkboxes(TIME_CONTROL_DISPLAY_NAMES, enabled_time_controls)
+		)
+	
 	load_new_game()
 
 func _on_auto_advance_toggled(is_on : bool):
 	auto_advance_enabled = is_on
 	#auto_advance_toggle.text = str('Auto Advance : On') if is_on else str('Auto Advance : Off')
 	ui.set_auto_advance_label(is_on)
-	if is_on and current_move_index >= moves.size():
-		load_new_game()
-
 	if is_on and current_move_index >= moves.size():
 		load_new_game()
 
@@ -78,6 +107,16 @@ func _on_category_toggled(category: String, is_on : bool):
 			return
 		enabled_categories.erase(category) 
 
+func _on_time_control_toggled(tc : String , is_on : bool):
+	if is_on:
+		if not enabled_time_controls.has(tc):
+			enabled_time_controls.append(tc)
+	else:
+		if enabled_time_controls.size() <= 1:
+			ui.build_time_control_checkboxes(TIME_CONTROL_DISPLAY_NAMES , enabled_time_controls)
+			return
+		enabled_time_controls.erase(tc)
+
 func start_game(game_data : Dictionary):
 	move_timer.stop()
 	chess_board.reset_board()
@@ -86,6 +125,7 @@ func start_game(game_data : Dictionary):
 	current_color = 'white'
 	#category_label.text = 'Category : %s' % CATEGORY_DISPLAY_NAMES.get(game_data.get('category' , '') , 'Unknown')
 	ui.set_category_text('Category : %s' % CATEGORY_DISPLAY_NAMES.get(game_data.get('category' , '') , 'Unknown'))
+	ui.set_time_control_text('Time Control : %s' % TIME_CONTROL_DISPLAY_NAMES.get(game_data.get('metadata' , {}).get('TimeControl' , ''), 'Unknown'))
 	update_game_info(game_data['metadata'])
 	update_move_counter()
 	move_timer.start()
@@ -118,10 +158,36 @@ func load_new_game():
 	#var game_data = PGNParser.load_pgn_file('res://assets/games/london/queen_s_pawn_game_accelerated_london_system_steinitz_countergambit_005.txt')
 	#start_game(game_data)
 	#current_game_data = PGNParser.get_random_game_from_category(CURRENT_CATEGORY)
-	current_game_data = PGNParser.get_random_game_from_categories(enabled_categories)
+	
+	#current_game_data = PGNParser.get_random_game_from_categories(enabled_categories)
+	#start_game(current_game_data)
+	
+	#if current_filter_mode == FilterMode.CATEGORY:
+	#	current_game_data = PGNParser.get_random_game_from_categories(enabled_categories)
+	#else:
+	#	current_game_data = PGNParser.get_random_game_by_time_control(TIME_CONTROL_DISPLAY_NAMES.keys() , enabled_time_controls)
+	
+	#if current_game_data.is_empty():
+	#	return
+	
+	#start_game(current_game_data)
+	
+	var new_game_data : Dictionary
+	if current_filter_mode == FilterMode.CATEGORY:
+		new_game_data = PGNParser.get_random_game_from_categories(enabled_categories)
+	else:
+		new_game_data = PGNParser.get_random_game_by_time_control(CATEGORY_DISPLAY_NAMES.keys(), enabled_time_controls)
+	
+	if new_game_data.is_empty() or not new_game_data.has('movetext'):
+		return
+	
+	current_game_data = new_game_data
 	start_game(current_game_data)
 
 func restart_current_game():
+	if current_game_data.is_empty() or not current_game_data.has('movetext'):
+		return
+	
 	start_game(current_game_data)
 
 func _on_move_timer_timeout():

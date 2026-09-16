@@ -270,3 +270,36 @@ static func get_random_game_from_categories(categories : Array) -> Dictionary:
 	var result = load_pgn_file(folder_path + chosen_file)
 	result['category'] = category
 	return result
+
+static func get_random_game_by_time_control(all_categories: Array, selected_time_controls: Array) -> Dictionary:
+	if selected_time_controls.is_empty() or all_categories.is_empty():
+		return{}
+	
+	var max_attempts = 30
+	for attempt in max_attempts:
+		var category = all_categories[randi() % all_categories.size()]
+		var folder_path = 'res://assets/games/%s/' % category
+		var dir = DirAccess.open(folder_path)
+		if dir == null:
+			continue
+		
+		var files = []
+		dir.list_dir_begin()
+		var file_name = dir.get_next()
+		while file_name != '':
+			if not dir.current_is_dir() and file_name.ends_with('.txt'):
+				files.append(file_name)
+			file_name = dir.get_next()
+		dir.list_dir_end()
+		
+		if files.is_empty():
+			continue
+		
+		var chosen_file = files[randi() % files.size()]
+		var result = load_pgn_file(folder_path + chosen_file)
+		var tc = result['metadata'].get('TimeControl','')
+		if selected_time_controls.has(tc):
+			result['category'] = category
+			return result
+			
+	return {}
