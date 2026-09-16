@@ -1,0 +1,14 @@
+[Event "Round 7: Cardoso Cardoso, Jose Gabriel - Martirosyan, Haik M."]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/7A0USlqp"]
+[Date "2026.07.24"]
+[Round "7.6"]
+[White "Cardoso Cardoso, Jose Gabriel"]
+[Black "Martirosyan, Haik M."]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2653"]
+[ECO "E28"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Ne2 Nc6 8.Ng3 Nd7 9.Bd3 f5 10.f4 Nb6 11.O-O Na5 12.Qe2 d5 13.c5 Nbc4 14.e4 b6 15.exf5 exf5 16.Qf2 Qf6 17.Re1 Bd7 18.Ra2 Rae8 19.Rxe8 Rxe8 20.Re2 Rxe2 21.Nxe2 Nb3 22.h3 Bb5 23.Kh2 Nxa3 24.Qf3 Qf7 25.cxb6 axb6 26.Bxb5 Nxb5 27.c4 N5xd4 28.Nxd4 Nxd4 29.Qe3 Ne6 30.cxd5 Nc5 31.Ba3 Ne4 32.d6 Nxd6 33.Bxd6 cxd6 34.Qxb6 Qd7 35.Qd4 d5 36.g4 Qe6 37.gxf5 Qxf5 38.Kg3 h6 39.Qe3 Kf7 40.Qa7+ Kg6 41.Qb6+ Kh5 42.Qd4 Kg6 43.Qb6+ Kh7 44.Qd4 Qe6 45.h4 Kg6 46.Kf3 Qh3+ 47.Ke2 Qg2+ 48.Kd3 Kh5 49.Kc3 Kxh4 50.f5+ Kh3 51.Qd1 Qg3+ 52.Kb2 Qe5+ 53.Kb3 Kh4 54.Qf1 Kg5 55.f6 Qg3+ 0-1

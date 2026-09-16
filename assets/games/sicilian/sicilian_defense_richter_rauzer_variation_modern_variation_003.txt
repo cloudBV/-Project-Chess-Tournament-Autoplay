@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "2.7"]
+[White "Ingebretsen, Jens E"]
+[Black "Lund, Gunnar"]
+[Result "1-0"]
+[WhiteElo "2433"]
+[BlackElo "2346"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Nxc6 Bxc6 8.Bxf6 gxf6 9.Bb5 Bxb5 10.Nxb5 Qa5+ 11.Nc3 e6 12.O-O Be7 13.Qd3 a6 14.a4 Rc8 15.Ra3 h5 16.Rb3 Rc7 17.f4 h4 18.Qh3 Rh5 19.f5 Qe5 20.Rd1 Rh8 21.Kh1 Kd8 22.Rb4 Ke8 23.Rbd4 Rc6 24.b4 Rg8 25.b5 axb5 26.axb5 Rc8 27.R4d3 Rg5 28.Rf1 Rc4 29.Qf3 Rc8 30.Qh3 Rc4 31.Rdf3 Rg8 32.Rd1 Bd8 33.Rdf1 Rc5 34.b6 Rc4 35.Rb1 Rc6 36.fxe6 fxe6 37.Rb5 Rc5 38.Rxc5 dxc5 39.Qxh4 Qg5 40.Qxg5 Rxg5 41.h4 Re5 42.g4 Kf7 43.Nb5 Be7 44.g5 Rxe4 45.Rxf6+ Kg7 46.Rh6 Kf7 47.Rh7+ Ke8 48.Nc7+ Kd7 49.g6 Rg4 50.h5 Rg5 51.g7 Kd6 52.h6 Bf6 53.Ne8+ Kd5 1-0

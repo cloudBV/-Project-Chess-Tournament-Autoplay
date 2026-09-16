@@ -1,0 +1,14 @@
+[Event "Round 7: Grabe, Lutz - Tueckmantel, Rene"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-7/Y1lqTquY/JiuJsvqI"]
+[Date "2026.07.23"]
+[Round "7.14"]
+[White "Grabe, Lutz"]
+[Black "Tueckmantel, Rene"]
+[Result "0-1"]
+[WhiteElo "2085"]
+[BlackElo "2044"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.dxc5 e6 4.Bd6 Bxd6 5.Qxd6 Ne4 6.Qd4 Qg5 7.e3 f5 8.Nf3 Qe7 9.b4 Nc6 10.Qb2 b6 11.Nfd2 bxc5 12.Nxe4 fxe4 13.b5 Nd8 14.Nd2 d5 15.a4 O-O 16.Nb3 c4 17.Nc1 Qf7 18.c3 Nb7 19.Na2 Nc5 20.Nb4 Bd7 21.h4 Rab8 22.Rh3 Rb6 23.f3 e5 24.Rg3 Rh6 25.Qa2 Kh8 26.Rd1 Nd3+ 27.Bxd3 exd3 28.Qa3 Re8 29.Na6 Bc8 30.Nb8 Bb7 31.Nc6 Bxc6 32.bxc6 Rxc6 33.Rb1 d4 34.Rb5 dxe3 35.Rg5 e4 36.Rgf5 Rf6 37.fxe4 g6 0-1

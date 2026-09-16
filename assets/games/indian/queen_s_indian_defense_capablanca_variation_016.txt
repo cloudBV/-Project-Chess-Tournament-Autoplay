@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.19"]
+[White "Sumets, Andrey"]
+[Black "Jordan Martinez, David"]
+[Result "1-0"]
+[WhiteElo "2501"]
+[BlackElo "2134"]
+[ECO "E16"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.O-O d6 9.b3 Nbd7 10.Qc2 c5 11.Rd1 Qe7 12.Nc3 Rfd8 13.d5 e5 14.e4 g6 15.a3 Nh5 16.b4 Rf8 17.Re1 f5 18.exf5 gxf5 19.Nh4 Qf6 20.Bh3 Ng7 21.Rab1 Rf7 22.Nb5 Kh8 23.Nxf5 Nxf5 24.Qxf5 Qxf5 25.Bxf5 Rxf5 26.Nxd6 Raf8 27.Nxb7 Rxf2 28.Rf1 Rc2 29.Rxf8+ Nxf8 30.bxc5 bxc5 31.Nd6 Nd7 32.Rb7 Nb6 33.Rxa7 Nxc4 34.Nxc4 Rxc4 35.d6 1-0

@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.8"]
+[White "Vyom Malhotra"]
+[Black "Sahidi, Samir"]
+[Result "1-0"]
+[WhiteElo "2187"]
+[BlackElo "2485"]
+[ECO "B90"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Nd5 Bxd5 10.exd5 Nbd7 11.Qd2 Rc8 12.Na5 Qc7 13.c4 Be7 14.Be2 O-O 15.O-O g6 16.b4 Nb8 17.Rac1 Nfd7 18.f4 b6 19.Nb3 f5 20.fxe5 Nxe5 21.Nd4 Qb7 22.Ne6 Rf7 23.c5 dxc5 24.d6 Qd7 25.dxe7 Qxe6 26.bxc5 Rxe7 27.cxb6 Rxc1 28.Rxc1 Kh7 29.Bf2 Qf6 30.Rc7 Ned7 31.Bf1 f4 32.Qd5 Kh6 33.Bd4 Qe6 34.Qxe6 Rxe6 35.b7 Rd6 36.Ba7 Nc6 37.Bxa6 Nde5 38.Bf1 f3 39.b8=Q Nxb8 40.Bxb8 fxg2 41.Bxg2 Rd1+ 42.Bf1 Nf3+ 43.Kf2 Nxh2 44.Be2 Rd2 45.Rc4 Ng4+ 46.Rxg4 Rxa2 47.Bf4+ Kh7 48.Rg5 Kg7 49.Ke3 1-0

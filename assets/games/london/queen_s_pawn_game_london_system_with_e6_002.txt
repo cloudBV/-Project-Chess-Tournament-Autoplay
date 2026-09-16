@@ -1,0 +1,15 @@
+[Event "Round 3: Tang, Andrew - Oparin, Grigoriy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-3/CLvlcax5/olSSK2M6"]
+[Date "2026.07.04"]
+[Round "3.5"]
+[White "Tang, Andrew"]
+[Black "Oparin, Grigoriy"]
+[Result "0-1"]
+[WhiteElo "2553"]
+[BlackElo "2670"]
+[ECO "D02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Bd6 4.e3 Ne7 5.h4 c5 6.dxc5 Bxc5 7.c4 Nbc6 8.Nc3 Bb4 9.Qc2 Qa5 10.O-O-O Bxc3 11.Qxc3 Qxc3+ 12.bxc3 Bd7 13.Kb2 Rc8 14.Bd6 dxc4 15.Bxc4 Na5 16.Bb3 f6 17.Nd2 Nxb3 18.axb3 Bc6 19.Ba3 b5 20.c4 a6 21.f3 Kf7 22.Bb4 Rhd8 23.Ra1 Ra8 24.Rhd1 Nf5 25.e4 Nxh4 26.g3 Ng6 27.Kc3 Ne5 28.f4 Nd3 29.Ba5 Rd7 30.Rh1 Nf2 31.Rhe1 Rd3+ 32.Kc2 Rxg3 33.Re2 Nd3 34.Rf1 bxc4 35.Nxc4 Bb5 36.Nd6+ Kg8 37.Nxb5 axb5 38.b4 Rc8+ 39.Kb1 Rc4 40.f5 exf5 41.exf5 h5 42.Re7 Nxb4 43.Rb7 Nd5 44.Rxb5 Nc3+ 45.Bxc3 Rcxc3 46.Kb2 Rcf3 47.Rh1 Rg5 48.Rb8+ Kh7 0-1

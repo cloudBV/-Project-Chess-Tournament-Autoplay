@@ -1,0 +1,15 @@
+[Event "Round 2: Ilamparthi A R - Soham Kamotra"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/BIVPJndt"]
+[Date "2026.07.22"]
+[Round "2.20"]
+[White "Ilamparthi A R"]
+[Black "Soham Kamotra"]
+[Result "1/2-1/2"]
+[WhiteElo "2524"]
+[BlackElo "2412"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.c4 dxc4 7.Nxc6 Qxd1+ 8.Kxd1 bxc6 9.Bxc4 Bf5 10.Ke2 e6 11.Be3 Ne7 12.Nc3 Nd5 13.Nxd5 exd5 14.Bb3 O-O-O 15.Bxa7 Re8 16.f4 f6 17.Rac1 Kb7 18.Bd4 fxe5 19.fxe5 Bd6 20.Ba4 Bd7 21.Kd2 Bxe5 22.Bxe5 Rxe5 23.Rhe1 Rhe8 24.b4 Kb6 25.Rxe5 Rxe5 26.Rf1 Bg4 27.Rf2 c5 28.bxc5+ Kxc5 29.Bc2 h6 30.Bd3 Re7 31.a4 Bd7 32.Bc2 Bc6 33.Rf4 Ra7 34.Kc3 g5 35.Rf6 Bxa4 36.Bxa4 Rxa4 37.Rxh6 Ra3+ 38.Kb2 Re3 39.g4 Kc4 40.h4 gxh4 41.Rxh4 d4 42.Kc2 Rg3 43.Rh8 Rg2+ 44.Kc1 Kc3 45.Rc8+ Kd3 46.Rd8 Rxg4 47.Rd7 Rg1+ 48.Kb2 Rd1 49.Rh7 Re1 50.Rd7 Ke3 51.Kc2 Re2+ 52.Kd1 Rh2 53.Rd8 Kd3 54.Kc1 Rh1+ 55.Kb2 Rf1 56.Rd7 Rf8 57.Kc1 1/2-1/2

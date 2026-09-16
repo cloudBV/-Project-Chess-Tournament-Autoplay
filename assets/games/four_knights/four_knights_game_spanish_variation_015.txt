@@ -1,0 +1,15 @@
+[Event "预选赛8进4"]
+[Site "chengdu, China"]
+[Date "2026.07.17"]
+[Round "3.1"]
+[White "Ma, Qun"]
+[Black "Zhu, Jiner"]
+[Result "0-1"]
+[WhiteElo "2604"]
+[BlackElo "2460"]
+[ECO "C48"]
+[TimeControl "15m+10s"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.d3 O-O 6.a3 Nd4 7.Bc4 c6 8.Ba2 Bc7 9.Bg5 Ne6 10.Bh4 Nf4 11.O-O Ng6 12.Bg3 Re8 13.Re1 d5 14.exd5 cxd5 15.d4 e4 16.Bxc7 Qxc7 17.Nxd5 Qd8 18.Nxf6+ Qxf6 19.Ne5 Nxe5 20.Rxe4 Bg4 21.Qe1 Nf3+ 22.gxf3 Rxe4 23.Qxe4 Bxf3 24.Qe5 Qg6+ 25.Qg3 Qe4 26.h3 Re8 27.Kh2 g6 28.Rg1 Qe2 29.c3 Qxb2 30.Bxf7+ Kxf7 31.Qxf3+ Kg7 32.Kg2 Rf8 33.Qe3 Qxa3 34.Qe5+ Kg8 35.Qe6+ Kg7 36.Rb1 b6 37.Qe5+ Kg8 38.d5 Qc5 39.Rb2 Rf5 40.Qe6+ Kg7 41.d6 Qxc3 42.Re2 Qf3+ 43.Kh2 Rg5 44.Qe7+ Kh6 45.Qe4 Rg2+ 46.Kh1 Qxh3# 0-1

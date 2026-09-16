@@ -1,0 +1,14 @@
+[Event "Round 6: Cao, Qingfeng - Gopal G.N."]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/ZldmcrNI"]
+[Date "2026.07.18"]
+[Round "6.2"]
+[White "Cao, Qingfeng"]
+[Black "Gopal G.N."]
+[Result "1/2-1/2"]
+[WhiteElo "2365"]
+[BlackElo "2529"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc6 6.Nc3 Nc7 7.a3 g6 8.h4 Bg4 9.Qb3 Bg7 10.Qxb7 Bd7 11.Qb3 Rb8 12.Qd1 h6 13.d3 Ne6 14.O-O O-O 15.Nd2 Ne5 16.Nc4 Nxc4 17.dxc4 Nd4 18.Rb1 Bg4 19.Be3 a5 20.Bxd4 cxd4 21.Na4 e5 22.c5 Bf5 23.Rc1 e4 24.Nb6 Rxb6 25.cxb6 Qxb6 26.b4 axb4 27.Qb3 Rb8 28.Qxb4 Qxb4 29.axb4 Rxb4 30.Rb1 Rxb1 31.Rxb1 Bf6 32.Kh2 d3 33.Bh3 Bxh3 34.Kxh3 dxe2 35.Re1 Bd4 36.Rxe2 f5 37.Rd2 e3 38.fxe3 Bxe3 39.Rd3 Bc5 40.h5 gxh5 41.Rd5 Be7 42.Rxf5 Bg5 43.Kg2 h4 44.g4 Kg7 45.Kf3 Kg6 46.Rb5 Bf6 47.Ke4 Be7 48.Rb6+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "20.1"]
+[White "GinkgoHCE 5.71"]
+[Black "Cheese 3.3.2"]
+[Result "1-0"]
+[WhiteElo "3344"]
+[BlackElo "3090"]
+[ECO "B31"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Qb6 6.Ba4 e6 7.d4 cxd4 8.Bxc6 bxc6 9.cxd4 d6 10.Bf4 d5 11.Nc3 Nf6 12.e5 Nd7 13.Qd2 h6 14.h4 a5 15.b3 Ba6 16.Rfc1 Qb4 17.Rc2 Rc8 18.Rac1 c5 19.Na4 c4 20.Nc3 cxb3 21.axb3 Rb8 22.Qe3 Nb6 23.Ra2 Bf8 24.Rca1 Rc8 25.Na4 Nd7 26.Nb2 Rc3 27.Qe1 Rxb3 28.Bd2 Qb7 29.Rxa5 Rb6 30.Na4 Rc6 31.Qd1 Bc4 32.Nc5 Nxc5 33.dxc5 Bxc5 34.Rb1 Qc8 35.Bxh6 Rxh6 36.Qa4 Ke7 37.Ra8 Rh8 38.Rxc8 Rhxc8 39.Rb7+ R6c7 40.Rxc7+ Rxc7 41.Ng5 Kf8 42.h5 gxh5 43.Nh7+ Kg7 44.Nf6 Rc8 45.Nxh5+ Kg8 46.Nf6+ Kg7 47.Qd1 Kf8 48.Qb1 Ba6 49.Qb3 Rd8 50.Nh7+ Ke7 51.Qa4 Bd3 52.Nf6 Kf8 53.Qa5 Rc8 54.Nd7+ Kg7 55.Nxc5 Bg6 56.Qb4 Kg8 57.Nd7 Kg7 58.Qe7 d4 59.f4 d3 60.Kf2 d2 61.Ke2 Ra8 62.g4 Rh8 63.Kxd2 Rh2+ 64.Ke1 Rh1+ 65.Kf2 Rh2+ 66.Kg3 Rh8 67.f5 exf5 68.gxf5 Rc8 69.fxg6 Rc3+ 70.Kf4 Rc4+ 71.Kg5 Rg4+ 72.Kxg4 Kxg6 73.Qg5+ Kh7 74.Nf6+ Kh8 75.Qh6# 1-0

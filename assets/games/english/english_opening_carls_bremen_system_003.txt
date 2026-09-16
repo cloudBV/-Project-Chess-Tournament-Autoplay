@@ -1,0 +1,14 @@
+[Event "Round 3: Ohst, Holger, Dr. - Klundt, Klaus"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/6DlEWtY2"]
+[Date "2026.07.19"]
+[Round "3.8"]
+[White "Ohst, Holger, Dr."]
+[Black "Klundt, Klaus"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2201"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: Carls-Bremen System"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 Bc5 4.Bg2 O-O 5.e3 Nc6 6.a3 a5 7.Nge2 Re8 8.O-O d6 9.d4 Ba7 10.h3 h6 11.b4 exd4 12.exd4 Ne7 13.Bb2 c6 14.d5 cxd5 15.Nxd5 Nexd5 16.cxd5 Bf5 17.Bd4 Bxd4 18.Nxd4 Be4 19.Bxe4 Rxe4 20.Nf5 axb4 21.axb4 Rxa1 22.Qxa1 Re5 23.Ne3 Nxd5 24.Nxd5 Rxd5 25.Rd1 Rxd1+ 26.Qxd1 Qb6 27.Qg4 Qc6 28.Qd4 d5 29.Qe5 b5 30.Kh2 Qd7 31.Qd4 Qf5 32.Qc5 h5 33.h4 Qd3 34.Qe7 Qf3 35.Kg1 Qe4 36.Qc5 Qc4 37.Qe7 d4 38.Qe8+ Kh7 39.Qe4+ g6 40.Qe1 d3 41.Qd2 Qe4 42.Qc3 Qd5 43.Qd2 Kg8 44.Kh2 Qf3 45.Kg1 Qe2 46.Qc3 d2 47.Qc8+ Kh7 0-1

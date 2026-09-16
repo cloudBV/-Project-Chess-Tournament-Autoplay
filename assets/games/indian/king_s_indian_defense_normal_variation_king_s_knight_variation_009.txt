@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "12.3"]
+[White "Cheese 3.3.2"]
+[Black "ice4 6.1.1"]
+[Result "0-1"]
+[WhiteElo "3090"]
+[BlackElo "3156"]
+[ECO "E60"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 d6 4.Nc3 Bf5 5.Nh4 Bd7 6.e4 e5 7.Nf3 Nc6 8.d5 Ne7 9.Bd3 Bg7 10.a4 a5 11.O-O b6 12.h3 Bc8 13.Nb5 Nd7 14.Bc2 O-O 15.Be3 f5 16.exf5 Nxf5 17.Bg5 Bf6 18.Bxf6 Rxf6 19.Ng5 Nc5 20.Qd2 Bd7 21.Ne4 Nxe4 22.Bxe4 Ng7 23.Rae1 Rf7 24.Kh2 Qf6 25.b3 Bf5 26.Bxf5 Qxf5 27.f3 g5 28.g4 Qg6 29.Nc3 h6 30.Rf2 Raf8 31.Ref1 Ne8 32.Ne4 Nf6 33.Ng3 Kh8 34.Kg1 h5 35.Nf5 h4 36.Ne3 Nd7 37.Nf5 Qf6 38.Qc3 Kg8 39.Ra2 Ra8 40.Rb1 Rff8 41.Qe3 Nc5 42.Re2 Kh8 43.Rf1 Rac8 44.Kf2 Rf7 45.Kg2 Ra8 46.Qc3 Raf8 47.Kh2 Rg8 48.Qc2 Ra8 49.Rfe1 Rff8 50.Re3 Kg8 51.Kg1 Nd7 52.Re4 Kh8 53.Kg2 Rf7 54.Ra1 Qg6 55.Re2 Kh7 56.Rf2 Nf6 57.Qc3 Nh5 58.Qc2 Raf8 59.Raf1 Rxf5 60.gxf5 Rxf5 61.Qc3 Kh6 62.Kh2 Qf6 63.Qe3 Rf4 64.Rd1 Kg7 65.Kg2 Kf8 66.Rfd2 Ke8 67.Rf2 Kd8 68.Qe2 Rd4 69.Rxd4 exd4 70.Qe4 Nf4+ 71.Kf1 d3 72.Ra2 Qf7 73.Rd2 Qd7 74.Rh2 Qg7 75.Ra2 Qf6 76.Kf2 Nxh3+ 77.Kg2 Nf4+ 78.Kh2 Qc3 79.Qf5 Qe5 80.Qxe5 dxe5 81.Kg1 Ne2+ 82.Kf1 e4 83.Kf2 h3 84.Ra1 Nc3 85.Ke3 exf3 86.Kxd3 g4 87.Ke3 Ne2 88.Kf2 Kd7 89.Rh1 Kd6 90.Ke1 Ng3 91.Rh2 Ne4 92.Kf1 g3 93.Rxh3 Nd2+ 94.Ke1 f2+ 95.Kxd2 f1=Q 96.c5+ Kxc5 97.b4+ axb4 98.Rxg3 Qf4+ 99.Kd1 Qxg3 100.a5 Qf2 101.d6 Kd4 102.Kc1 Kc3 103.dxc7 Qe1# 0-1

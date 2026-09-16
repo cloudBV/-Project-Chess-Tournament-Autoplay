@@ -1,0 +1,15 @@
+[Event "Round 8: Docampo Beltran, Dexter - Lopez Martinez, Josep Manuel"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-8/M7b2uBBM/ahJqV5XS"]
+[Date "2026.07.11"]
+[Round "8.8"]
+[White "Docampo Beltran, Dexter"]
+[Black "Lopez Martinez, Josep Manuel"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2486"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Nf3 Nc6 4.Bg2 d4 5.O-O Nh6 6.e3 Bc5 7.d3 Nf5 8.e4 Nfe7 9.e5 Ng6 10.Re1 f6 11.exf6 gxf6 12.Bh6 Bf8 13.Bxf8 Kxf8 14.Qd2 Kg7 15.b4 e5 16.Na3 Bf5 17.Nc2 Qd7 18.h4 h5 19.Rab1 Bh3 20.Bh1 Rag8 21.Na1 Nce7 22.Rb3 Kh7 23.Ra3 Nc8 24.Nb3 b6 25.Kh2 Bg4 26.Qc1 Qf5 27.Nbd2 Rg7 28.Rf1 Bh3 29.Rg1 Nd6 30.Ne4 Nxe4 31.dxe4 Qc8 32.Rxa7 Rhg8 33.c5 b5 34.Qa3 c6 35.Rxg7+ Rxg7 36.Nd2 Bg4 37.Bf3 Qe6 38.Bxg4 Qxg4 39.Qf3 Qxf3 40.Nxf3 Ra7 41.Ra1 Ra3 42.Nd2 Rc3 43.Kg2 Rc2 44.Nf3 Ne7 45.a4 bxa4 46.Rxa4 Kg7 47.Ra7 Kf7 48.Ra8 Re2 49.Kf1 Rxe4 50.Rd8 Rg4 51.Nd2 Rg8 52.Rd6 Rg4 53.Ke2 Nd5 54.Rxc6 Nxb4 55.Rd6 Ke7 56.Nb3 d3+ 57.Kf3 Rc4 58.Nd2 Rc2 59.Rb6 Nd5 60.Rb7+ Ke6 61.Ne4 Rc4 62.Rb2 f5 63.Ng5+ Kd7 64.Nf7 e4+ 65.Kg2 Rc2 66.Rb7+ Kc6 67.Nd8+ Kxc5 0-1

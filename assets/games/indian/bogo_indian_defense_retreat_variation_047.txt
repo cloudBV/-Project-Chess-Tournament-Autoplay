@@ -1,0 +1,15 @@
+[Event "Round 2: Triapishko, Alexandr - Matlakov, Maxim"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/8meyTTHi"]
+[Date "2026.07.22"]
+[Round "2.3"]
+[White "Triapishko, Alexandr"]
+[Black "Matlakov, Maxim"]
+[Result "1-0"]
+[WhiteElo "2462"]
+[BlackElo "2599"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qc2 c6 9.Rc1 a5 10.Bf4 a4 11.h4 h6 12.a3 Ne4 13.Nc3 Nxc3 14.Qxc3 g5 15.hxg5 hxg5 16.Be3 Nb6 17.Ne5 f6 18.c5 fxe5 19.cxb6 exd4 20.Bxd4 Bf6 21.e4 dxe4 22.Bxf6 Qxf6 23.Qe3 Ra5 24.Bxe4 Qxb2 25.Rab1 Qe5 26.Rc4 Bd7 27.Re1 Qf6 28.Qd2 Rb5 29.Bc2 Rd5 30.Qe3 c5 31.Be4 Rd4 32.Rxc5 Kf7 33.Bxb7 Ke7 34.Rc7 Rb8 35.Bc6 1-0

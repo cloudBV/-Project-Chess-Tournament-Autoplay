@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "6.3"]
+[White "Kawulski-Chodkiewicz, Alexander"]
+[Black "Lechowski, Witold"]
+[Result "1/2-1/2"]
+[WhiteElo "2135"]
+[BlackElo "2162"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Modern Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6 9.Nc3 O-O 10.Be3 Bg4 11.h3 Bh5 12.Qc2 Ba5 13.O-O Bxc3 14.bxc3 Bxf3 15.gxf3 Ng5 16.Qf5 Ne6 17.f4 Ne7 1/2-1/2

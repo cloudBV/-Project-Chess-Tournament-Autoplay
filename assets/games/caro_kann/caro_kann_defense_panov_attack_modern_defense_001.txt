@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.10"]
+[White "Ghaem Maghami, Ehsan"]
+[Black "Pressman, Leif"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2194"]
+[ECO "B13"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.Bxc4 Qxd4 8.Qxd4 Nxd4 9.O-O-O e5 10.f4 Bg4 11.Nf3 Bxf3 12.gxf3 O-O-O 13.fxe5 Nxf3 14.Rxd8+ Kxd8 15.Bxf6+ gxf6 16.exf6 Ne5 17.Bd5 Kc8 18.Kb1 Bh6 19.Re1 Bf4 20.Ne2 Bg5 21.Ng3 Bxf6 22.Nh5 Nd7 23.Rf1 Be5 24.Rxf7 Rf8 25.Rxh7 Nc5 26.Bf7 Bxh2 27.Kc2 Be5 28.b4 Na6 29.a3 Rh8 30.Rxh8+ Bxh8 31.Nf4 Be5 32.Nd3 Bd6 33.Kb3 Kc7 34.Kc4 Nb8 35.Be8 a5 36.bxa5 Bxa3 37.Kb5 Bd6 38.Nb2 Nc6 39.Nc4 Nd4+ 40.Ka4 Bc5 41.Bb5 Nxb5 42.Kxb5 Bf2 43.Ne5 Be1 44.Nd3 Bd2 45.Ne5 Be1 46.Nc4 Bxa5 47.Nxa5 Kd6 1/2-1/2

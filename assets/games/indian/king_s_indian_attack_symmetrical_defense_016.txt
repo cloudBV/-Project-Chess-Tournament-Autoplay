@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.3"]
+[White "Unhjem, Bjorn Robert Lovoll"]
+[Black "Hoyforsslett, Gard Rye"]
+[Result "1/2-1/2"]
+[WhiteElo "2036"]
+[BlackElo "2057"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 c5 5.Nc3 O-O 6.O-O d6 7.a3 Nc6 8.Rb1 Bf5 9.d3 a5 10.Bd2 Rb8 11.Ne1 Qd7 12.Nc2 Bh3 13.b4 axb4 14.axb4 Nxb4 15.Nxb4 cxb4 16.Rxb4 Bxg2 17.Kxg2 d5 18.cxd5 Nxd5 19.Nxd5 Qxd5+ 20.Kg1 Rfc8 21.Qb3 Qxb3 22.Rxb3 Rc2 23.Rd1 h5 24.Kf1 Ra8 25.Rxb7 Raa2 26.Be3 Bf6 27.Re1 Bc3 28.Reb1 Bf6 29.Ra7 Rxe2 30.Rxa2 Rxa2 31.Kg2 Kg7 32.h3 Ra3 33.Rd1 Be5 34.Rd2 Kf6 35.Kf3 Ke6 36.Bc5 Rc3 37.Be3 Kd5 38.Ke2 Ra3 39.Rc2 Bc3 40.Bc1 Rb3 41.g4 e5 42.Ra2 f5 43.gxf5 gxf5 44.Ra3 Rxa3 45.Bxa3 Ba5 46.Be7 Bb6 47.f3 Ke6 48.Bg5 f4 49.Bh4 Kd5 50.Kd2 Ba5+ 51.Kc2 Bb4 52.Bf2 Ba3 53.Kb3 Bc1 54.Kc2 Be3 55.Be1 Bg1 56.Bc3 Bf2 57.Ba5 Bh4 58.Bb6 Be1 59.Kb3 Bd2 60.Kc2 Be3 61.Bd8 1/2-1/2

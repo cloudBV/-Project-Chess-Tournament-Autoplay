@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.05"]
+[Round "2.1"]
+[White "ULZIIKHISHIG KHISHIG"]
+[Black "Iniyan, Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2318"]
+[BlackElo "2581"]
+[ECO "E70"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Kramer Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 O-O 6.h3 a6 7.g4 b5 8.Bg2 c6 9.e5 Nfd7 10.f4 bxc4 11.O-O a5 12.Be3 Bb7 13.Qd2 Na6 14.exd6 exd6 15.f5 Re8 16.Bg5 f6 17.Bf4 d5 18.g5 Nb4 19.gxf6 Nxf6 20.Bg5 Qd6 21.Bf4 Qe7 22.Bg5 Qd6 23.Bf4 Qd7 24.Bg5 Rf8 25.fxg6 hxg6 26.Nf4 Nh7 27.Nxg6 Rxf1+ 28.Rxf1 Re8 29.Nh4 Nxg5 30.Qxg5 Qe7 31.Qxe7 Bxd4+ 32.Kh1 Rxe7 33.Nf5 Bf6 34.Nxe7+ Bxe7 35.Ne2 Bf8 36.Nf4 Bg7 37.a3 Nd3 38.Nxd3 cxd3 39.Rd1 a4 40.Rxd3 Bxb2 41.Rg3+ Kh8 42.Rg4 c5 43.Rxa4 c4 44.Rb4 c3 45.Rxb7 c2 46.Rc7 c1=Q+ 47.Rxc1 Bxc1 48.a4 Bd2 49.Bxd5 Ba5 50.Kg2 Bb4 51.h4 Be1 52.Kh3 Ba5 1/2-1/2

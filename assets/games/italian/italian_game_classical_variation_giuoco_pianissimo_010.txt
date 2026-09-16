@@ -1,0 +1,15 @@
+[Event "Round 6: Aslanov, Umid - Yardimci, Can"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/OMSs8FdX"]
+[Date "2026.07.02"]
+[Round "6.24"]
+[White "Aslanov, Umid"]
+[Black "Yardimci, Can"]
+[Result "1/2-1/2"]
+[WhiteElo "2342"]
+[BlackElo "2094"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 a6 6.a4 Ba7 7.O-O d6 8.Re1 h6 9.Nbd2 O-O 10.h3 Re8 11.Bb3 Be6 12.Bc2 a5 13.Nf1 d5 14.Qe2 d4 15.Ng3 Bc5 16.Nh4 Ra6 17.Bd2 Rb6 18.Reb1 Nh7 19.Nhf5 Bxf5 20.Nxf5 Qf6 21.Qe1 Qg6 22.b4 dxc3 23.bxc5 cxd2 24.Qxd2 Ng5 25.Qe3 Rb4 26.Rxb4 axb4 27.Bb3 Ne6 28.Bxe6 Qxe6 29.Qd2 Ra8 30.a5 Qb3 31.Qe3 Qc3 1/2-1/2

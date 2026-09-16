@@ -1,0 +1,15 @@
+[Event "Round 9: Belkhodja, Slim - Delorme, Axel"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-9/fVZ5R6SF/O6a2YdGz"]
+[Date "2026.07.05"]
+[Round "9.2"]
+[White "Belkhodja, Slim"]
+[Black "Delorme, Axel"]
+[Result "1/2-1/2"]
+[WhiteElo "2289"]
+[BlackElo "2434"]
+[ECO "A08"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 c5 7.e4 Nc6 8.Re1 b5 9.a4 b4 10.exd5 Nxd5 11.Nc4 Bb7 12.Nfe5 Nxe5 13.Nxe5 Rc8 14.Qe2 Bf6 15.h4 Rc7 16.Bd2 Ne7 17.Bxb7 Rxb7 18.Nc4 Qd5 19.Rad1 Nc6 20.Be3 Rd7 21.b3 Bc3 22.Rf1 Bd4 23.Kh2 h6 24.Rde1 Bc3 25.Rd1 Ne7 26.f4 h5 27.Bc1 Qf5 28.Qe4 Rfd8 29.Ne3 Qh7 30.Kg2 Bd4 31.Qxh7+ Kxh7 32.Nc4 g6 33.Rde1 Nf5 34.Bd2 Kg7 35.Re2 Rd5 36.a5 Nd6 37.Kf3 Nxc4 38.bxc4 R5d6 39.Be3 Ra6 40.Bxd4+ Rxd4 41.Ra1 Kf6 42.Ke3 Ke7 43.Kd2 Kd6 44.c3 bxc3+ 45.Kxc3 Kc7 46.Re5 Kc6 47.Re2 Kc7 48.Re5 Kc6 49.Re2 1/2-1/2

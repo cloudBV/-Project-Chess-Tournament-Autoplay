@@ -1,0 +1,15 @@
+[Event "2026 India Rising Finals"]
+[Site "https://lichess.org/broadcast/india-rising-2026-finals/set-3/8RwFyKXI/wZT9uzGF"]
+[Date "2026.07.04"]
+[Round "1.3.3"]
+[White "Bok, Benjamin"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[WhiteElo "2560"]
+[BlackElo "2697"]
+[ECO "C55"]
+[TimeControl "600"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.c3 Na5 8.Bb5 a6 9.Ba4 b5 10.Bc2 c5 11.Nbd2 Re8 12.Nf1 Bf8 13.Bg5 h6 14.Bh4 Be7 15.Ne3 Nc6 16.Bxf6 Bxf6 17.Bb3 g6 18.a4 Rb8 19.axb5 axb5 20.Bd5 Ne7 21.Bb3 Bg7 22.h4 Rf8 23.h5 Kh7 24.hxg6+ fxg6 25.g3 Qd7 26.Qe2 Bf6 27.Nh2 Kg7 28.Nd5 Nxd5 29.Bxd5 Bd8 30.Nf1 Bb6 31.Ne3 h5 32.Qf1 Qd8 33.Qg2 Qg5 34.c4 b4 35.Rf1 Kh6 36.Rae1 Bd7 37.Kh2 Rf6 38.f3 h4 39.Qf2 Rbf8 40.gxh4 Qf4+ 41.Qg3 b3 42.Qxf4+ Rxf4 43.Kg3 Bd8 44.Ng2 R4f6 45.Ra1 g5 46.hxg5+ Kxg5 47.Ra7 Be8 48.Ne3 Bh5 49.Nf5 Bg6 50.Rg7 Rh8 51.Rg1 Rff8 52.Kf2+ Kf4 53.Rg4# 1-0

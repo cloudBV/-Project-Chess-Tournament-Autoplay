@@ -1,0 +1,14 @@
+[Event "Round 1: Hryzlova, Sofiia - Heinatz, Gundula, Dr."]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-women/round-1/gIj0y0nh/21PG4Rmp"]
+[Date "2026.06.03"]
+[Round "1.1"]
+[White "Hryzlova, Sofiia"]
+[Black "Heinatz, Gundula, Dr."]
+[Result "0-1"]
+[WhiteElo "2300"]
+[BlackElo "2050"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6 5.g4 Be4 6.f3 Bh7 7.e6 fxe6 8.Bd3 Qd6 9.f4 Nf6 10.Nf3 Nbd7 11.Nc3 Ne4 12.Bxe4 Bxe4 13.Nxe4 dxe4 14.Ne5 Nxe5 15.fxe5 Qd5 16.Be3 O-O-O 17.Qe2 g6 18.O-O g5 19.h5 Bg7 20.Rf7 Rhg8 21.Raf1 Qxa2 22.Rxe7 Bf8 23.Ref7 Bb4 24.b3 Qa5 25.Qc4 Rd5 26.Rh7 Bd2 27.Qe2 Bxe3+ 28.Qxe3 Rgd8 29.c3 R8d7 30.b4 Qa3 31.Rh8+ Kc7 32.Qe1 e3 33.Rf3 a5 34.Rxe3 axb4 35.c4 Qxe3+ 36.Qxe3 Rxd4 37.Rf8 Rxg4+ 38.Kf2 Rxc4 39.Qb3 Rdd4 40.Qa2 Kb6 41.Rf7 Rh4 42.Qa8 Rc2+ 43.Kg3 Rc3+ 44.Rf3 Rcc4 45.Qd8+ Kb5 46.Qd3 Rd4 47.Qg6 Rg4+ 48.Kf2 b6 49.Re3 Rcf4+ 50.Ke2 Rg2+ 51.Kd3 b3 52.Kc3 b2 53.Qd3+ Ka5 54.Re1 Rgf2 55.Qb1 R4f3+ 56.Kc4 Ra3 57.Re3 Rf4+ 58.Re4 Ra4+ 59.Kd3 Raxe4 60.Qxb2 Rd4+ 61.Ke3 Rd5 62.Qc3+ Kb5 63.Qa1 c5 64.Qb1+ Kc6 65.Qg6 Rxe5+ 66.Kd3 c4+ 67.Kc3 Re3+ 68.Kd2 Rfe4 69.Qe8+ Kc5 70.Qe7+ Kb5 71.Qd7+ Kb4 72.Qd6+ Ka5 73.Qc6 Re2+ 74.Kc1 b5 75.Qc5 Re1+ 76.Kd2 R4e2+ 77.Kc3 Rc1+ 78.Kd4 Rd1+ 0-1

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "5.18"]
+[White "Felmery, Mate"]
+[Black "Miasik, Adrian"]
+[Result "1-0"]
+[WhiteElo "2164"]
+[BlackElo "2064"]
+[ECO "C55"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.a4 g5 7.O-O g4 8.Ne1 Rg8 9.a5 a6 10.Nc2 Be6 11.Re1 h5 12.Ne3 Bh6 13.Qb3 Qc8 14.Nd5 Rg6 15.Bxh6 Rxh6 16.d4 Kf8 17.Nd2 Rb8 18.Nf1 h4 19.Nxf6 Bxc4 20.Qxc4 Rxf6 21.Ne3 exd4 22.cxd4 Ne7 23.e5 Rg6 24.Rac1 dxe5 25.Qc5 Qe6 26.Nc4 b6 27.Qa3 g3 28.Nxe5 gxf2+ 29.Kxf2 Rf6+ 30.Kg1 Qd6 31.Qxd6 Rxd6 32.Rxc7 Rc8 33.axb6 Rxc7 34.bxc7 Nc8 35.Re4 h3 36.g4 Re6 37.g5 Kg7 38.Re3 Re7 39.Rc3 f6 40.gxf6+ Kxf6 41.Kf2 Ke6 42.Ke3 Kd6 43.Rc6+ Kd5 44.Kd3 a5 45.Rc5+ Kd6 46.Nc4+ Kd7 47.Rxa5 Kxc7 48.Rh5 Na7 49.Rxh3 Nc6 50.d5 Nb4+ 51.Kd4 Rg7 52.Kc5 Na6+ 53.Kb5 Nb8 54.Rh5 Nd7 55.h4 Nf6 56.Rf5 Ne4 57.Rf4 Nd6+ 58.Kc5 Nxc4 59.Rxc4 Rg1 60.b4 Rg2 61.b5 Rd2 62.b6+ Kb7 63.d6 Rd1 64.h5 Rh1 65.Rd4 Rxh5+ 66.Rd5 Rh8 67.d7 Rd8 68.Rd1 Kb8 69.Kc6 Ka8 70.Re1 Rb8 71.Ra1# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 3: Baklan, Vladimir - Babujian, Levon"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/F8KuPnkO"]
+[Date "2026.07.19"]
+[Round "3.2"]
+[White "Baklan, Vladimir"]
+[Black "Babujian, Levon"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2337"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.d3 Nc6 6.g3 h5 7.Qe2 Nge7 8.Bg2 Rb8 9.O-O Nf5 10.Nbd2 h4 11.Ne4 hxg3 12.hxg3 b5 13.Bg5 Qd7 14.g4 Nh6 15.cxd4 cxd4 16.Nfd2 Nxe5 17.Bf4 f6 18.g5 Nhf7 19.gxf6 Bb7 20.Bg3 Bd5 21.Rac1 Rh6 22.f4 Nc6 23.f5 Rd8 24.fxe6 Qxe6 25.fxg7 Bxg7 26.Rxf7 Be5 27.Ng5 Bxg3 28.Nxe6 Bh2+ 29.Kf1 Bxe6 30.Rh7 1-0

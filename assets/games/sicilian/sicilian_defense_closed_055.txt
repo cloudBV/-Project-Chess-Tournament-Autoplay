@@ -1,0 +1,15 @@
+[Event "Round 1: Narciso Dublan, Marc - Chen, Yueyi"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-1/93PU6fmJ/x3MEF9xv"]
+[Date "2026.07.13"]
+[Round "1.10"]
+[White "Narciso Dublan, Marc"]
+[Black "Chen, Yueyi"]
+[Result "1-0"]
+[WhiteElo "2384"]
+[BlackElo "2053"]
+[ECO "B25"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Nge2 e6 7.O-O Nge7 8.Bg5 O-O 9.Qd2 Rb8 10.Bh6 Nd4 11.Bxg7 Kxg7 12.a4 Nec6 13.Nxd4 cxd4 14.Ne2 e5 15.a5 b6 16.a6 b5 17.f4 Qb6 18.f5 f6 19.h4 Ne7 20.g4 h6 21.Rf2 g5 22.Bf3 b4 23.b3 Bxa6 24.Rh2 Rh8 25.Ng3 Rbc8 26.Kf2 Bb7 27.Rah1 Qc5 28.hxg5 hxg5 29.Rxh8 Rxh8 30.Rxh8 Kxh8 31.Nh5 Qc3 32.Qc1 Ng8 33.Nxf6 Nxf6 34.Qxg5 Qxc2+ 35.Kg3 Nxe4+ 36.dxe4 Qxb3 37.Qf6+ Kg8 38.Qg6+ Kh8 39.Qxd6 a5 40.Qxe5+ Kg8 41.Qb8+ Kg7 42.Qxb7+ Kf8 43.f6 Qe6 44.Qb8+ Kf7 45.g5 Kg6 46.Qc7 Qg8 47.Qe5 Qc8 48.Qf5+ Qxf5 49.exf5+ Kf7 50.Bd5+ Kf8 51.g6 a4 52.g7+ 1-0

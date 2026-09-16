@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.03"]
+[Round "7.19"]
+[White "Librelato, Kathie Goulart"]
+[Black "Perez Gormaz, Matias"]
+[Result "0-1"]
+[WhiteElo "2133"]
+[BlackElo "2388"]
+[ECO "B11"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.Be2 Ne7 7.O-O d4 8.Nb1 Ng6 9.d3 h5 10.Bd1 Bd6 11.a4 Nd7 12.Na3 Bc7 13.Bd2 a6 0-1

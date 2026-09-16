@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.17"]
+[White "Pressman, Leif"]
+[Black "Wang, Isaac"]
+[Result "0-1"]
+[WhiteElo "2194"]
+[BlackElo "2349"]
+[ECO "B43"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.Bd3 Bb7 7.O-O Nc6 8.Nxc6 Bxc6 9.Re1 Ne7 10.Bf4 b4 11.Nb1 Ng6 12.Bg3 h5 13.h3 Bc5 14.Nd2 h4 15.Bh2 Qf6 16.Qe2 Qxb2 17.Nc4 Qf6 18.Nd6+ Kf8 19.e5 Qg5 20.Ne4 Qe7 21.Nxc5 Qxc5 22.Bxg6 fxg6 23.Qd3 Kf7 24.Bf4 Rh5 25.a3 bxa3 26.Rxa3 Rf5 27.Rc3 Qa5 28.Qd4 Rb8 29.Bd2 Qd5 30.Qxd5 Bxd5 31.Ra3 Rb2 32.Rc1 Ra2 33.Rxa2 Bxa2 34.Ra1 Bd5 35.Rxa6 Rxe5 36.Be3 Re4 37.Ra7 Bc6 38.Ra5 e5 39.c4 Ke6 40.c5 Kf5 41.Ra3 Rb4 42.Ra1 g5 43.f3 Rb2 44.Re1 Rc2 45.Rc1 Ra2 46.Rc3 e4 47.fxe4+ Bxe4 48.Bf2 g4 49.hxg4+ Kxg4 50.Rc4 Kf4 51.Rc3 g5 52.Be3+ Kf5 53.Bf2 Ra1+ 54.Kh2 Rf1 55.Be3 Re1 56.Bf2 Re2 57.Kg1 Kf4 58.Rb3 Rc2 59.Be3+ Ke5 60.Bf2 g4 61.Bxh4 Rxg2+ 62.Kf1 Rc2 63.Bg3+ Kf5 64.Bd6 Bg2+ 65.Kg1 Bf3 66.Rb8 g3 67.Rf8+ Ke4 68.Re8+ Kd3 69.Re1 Rh2 70.Bxg3 Rg2+ 71.Kf1 Rxg3 72.Kf2 Rh3 73.Ra1 Kc4 74.Rc1+ Kb5 75.Ke3 Bd5+ 76.Kd4 Kc6 77.Rc2 Rh4+ 78.Ke3 Rc4 79.Rh2 Kxc5 80.Rh8 Bc6 81.Rh5+ d5 82.Kd3 Ra4 83.Rg5 Ra3+ 84.Kd2 Kc4 85.Rg6 Bb5 86.Rg8 Ra2+ 87.Kc1 Rh2 88.Rc8+ Kd3 89.Rh8 Rxh8 0-1

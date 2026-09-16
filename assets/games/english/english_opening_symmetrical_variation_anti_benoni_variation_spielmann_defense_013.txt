@@ -1,0 +1,15 @@
+[Event "Round 3: Oskenbay, Alisher - Barmagambetov, Meyrzhan"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-open/round-3/dC2DVhZ7/Jj6Ig1R4"]
+[Date "2026.07.23"]
+[Round "3.4"]
+[White "Oskenbay, Alisher"]
+[Black "Barmagambetov, Meyrzhan"]
+[Result "1/2-1/2"]
+[WhiteElo "2173"]
+[BlackElo "2022"]
+[ECO "A33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 e6 6.a3 d5 7.cxd5 exd5 8.g3 Bc5 9.Nb3 Bb6 10.Bg2 d4 11.Na4 O-O 12.O-O Re8 13.Nbc5 Qe7 14.Nxb6 axb6 15.Nb3 Qxe2 16.Qxe2 Rxe2 17.Bxc6 bxc6 18.Nxd4 Re4 19.Nxc6 Bb7 20.f3 Ree8 21.Nb4 Re2 22.Rf2 Re1+ 23.Rf1 Re2 24.Rf2 Re1+ 25.Rf1 Re2 1/2-1/2

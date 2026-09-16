@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-4/9Kdq1tY4/8xTSuVk9"]
+[Date "2026.07.15"]
+[Round "4.8"]
+[White "Cordeiro, Joao Carlos"]
+[Black "Pereira, Ruben"]
+[Result "0-1"]
+[WhiteElo "2099"]
+[BlackElo "2448"]
+[ECO "C03"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Modern System"]
+
+1.e4 e6 2.d4 d5 3.Nd2 a6 4.Ngf3 c5 5.exd5 exd5 6.dxc5 Bxc5 7.Bd3 Qe7+ 8.Qe2 Nc6 9.c3 Bb6 10.Nb3 Bg4 11.Qxe7+ Ngxe7 12.Nbd4 Nxd4 13.Nxd4 Bxd4 14.cxd4 Bf5 15.Kd2 Kd7 16.Re1 Bg6 17.b3 Nc6 18.Ba3 Bxd3 19.Kxd3 a5 20.Rac1 b6 21.Re3 Rhe8 22.Rf3 f6 23.Rg3 g6 24.Rh3 h5 25.Rg3 Rg8 26.Rf3 f5 27.Re1 a4 28.b4 Rge8 29.Rxe8 Rxe8 30.Re3 Re4 31.Rxe4 fxe4+ 32.Kc3 Na7 33.Bb2 Kc6 34.a3 Nb5+ 35.Kd2 Nd6 36.Bc1 Nf5 37.Kc3 Nh4 38.g3 Nf3 39.h4 Ng1 40.Be3 Kb5 41.Kd2 Kc4 42.f4 Nf3+ 43.Ke2 Nxd4+ 44.Kd1 Kd3 45.Bxd4 Kxd4 46.Ke1 Ke3 47.g4 Kxf4 0-1

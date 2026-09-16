@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.05.19"]
+[Round "3.1"]
+[White "Aczel, Gergely"]
+[Black "Papp, Gellert"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "2239"]
+[ECO "E62"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 Nc6 7.Nc3 e5 8.dxe5 dxe5 9.Bg5 Be6 10.Nd2 h6 11.Bxf6 Bxf6 12.Nde4 Be7 13.Qc1 Kg7 14.Rd1 Qc8 15.Nd5 Rb8 16.Qe3 Re8 17.Nxe7 Rxe7 18.Nc5 Bh3 19.Bxc6 bxc6 20.Rd2 1-0

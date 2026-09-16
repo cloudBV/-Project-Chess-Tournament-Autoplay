@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "5.5"]
+[White "Borischik, Sergey"]
+[Black "Musial, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2271"]
+[BlackElo "2209"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Bd3 Nc6 8.Nf3 e5 9.O-O Bd6 10.Be4 Bf5 11.Qc2 Bxe4 12.Qxe4 Qg6 13.Qxg6 hxg6 14.h3 O-O-O 15.d4 exd4 16.cxd4 Na5 17.c5 Be7 18.Be3 Bf6 19.Rad1 Rd5 20.Rd3 Rhd8 21.Rfd1 Nc6 22.Kf1 Ne7 23.g4 Nc6 24.Ke2 Re8 25.h4 Bd8 26.Kf1 Re4 27.g5 f6 28.Kg2 Ne7 29.Kh3 Nf5 30.Rg1 fxg5 31.Bxg5 Be7 32.Bxe7 Nxe7 33.Re3 Rf4 34.Rg4 Rxg4 35.Kxg4 Nf5 36.Re4 Nh6+ 37.Kf4 Rf5+ 38.Ke3 Kd8 39.Ng5 Kd7 40.Ne6 Rf7 41.d5 Nf5+ 42.Kd3 Ne7 43.Nf4 b6 44.Kc4 bxc5 45.Kxc5 Rf6 46.a4 Ra6 47.Kb5 Rb6+ 48.Kc5 Ra6 49.Kb5 Rb6+ 50.Kc5 Ra6 51.Kb5 Rb6+ 52.Kc5 Ra6 1/2-1/2

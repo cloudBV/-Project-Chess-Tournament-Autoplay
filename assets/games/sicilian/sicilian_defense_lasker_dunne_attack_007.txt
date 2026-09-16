@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "8.3"]
+[White "Khimichenko, Dmytro"]
+[Black "Rosol, Philip"]
+[Result "0-1"]
+[WhiteElo "2013"]
+[BlackElo "2194"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+1.e4 c5 2.g3 Nc6 3.Bg2 g6 4.Ne2 Bg7 5.c3 e5 6.d3 Nge7 7.Be3 d6 8.O-O O-O 9.f4 f5 10.Nd2 Kh8 11.Nf3 b6 12.Qb3 h6 13.Rad1 Na5 14.Qc2 Bb7 15.Nh4 Qc7 16.Qb1 Kh7 17.d4 cxd4 18.cxd4 d5 19.dxe5 dxe4 20.Rc1 Qb8 21.b4 Nd5 22.Bd2 Nc6 23.Rfd1 Rd8 24.g4 Nce7 25.gxf5 gxf5 26.Nxf5 Nxf5 27.Bxe4 Kh8 28.Bxf5 Rg8 29.Ng3 h5 30.Qd3 h4 31.Ne4 Bxe5+ 32.Kf1 Nxf4 33.Bxf4 Bxf4 34.Qc3+ Be5 35.Qh3 Ba6+ 36.Kf2 Bf6 37.Nxf6 Qf4+ 38.Qf3 Qxh2+ 39.Ke3 Qe5+ 40.Ne4 Rg3 41.Rh1 Rxf3+ 42.Kxf3 Qxf5+ 43.Ke3 h3 44.Rcg1 Re8 45.Kd4 0-1

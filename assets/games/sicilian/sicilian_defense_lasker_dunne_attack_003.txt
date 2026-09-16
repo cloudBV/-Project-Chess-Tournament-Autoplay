@@ -1,0 +1,15 @@
+[Event "Round 3: Munoz, Miguel - De Lomas Busquets, Alba"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-3/gxfrWwC7/Wt7Qbkmu"]
+[Date "2026.07.12"]
+[Round "3.5"]
+[White "Munoz, Miguel"]
+[Black "De Lomas Busquets, Alba"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2061"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+1.e4 c5 2.g3 g6 3.Bg2 Bg7 4.Ne2 Nc6 5.c3 d6 6.d4 Nf6 7.h3 O-O 8.O-O Qc7 9.f4 e6 10.g4 Ne8 11.Be3 cxd4 12.cxd4 f5 13.exf5 exf5 14.g5 Ne7 15.Nbc3 Be6 16.d5 Bf7 17.Bd4 Qa5 18.a3 a6 19.b4 Qc7 20.Rc1 Qd7 21.Na4 Nc8 22.Re1 Nc7 23.Nac3 Nb5 24.Bxg7 Kxg7 25.Nxb5 axb5 26.Rc3 Nb6 27.Qd4+ Kg8 28.Qxb6 Rfe8 29.Bf3 Ra6 30.Qf2 Rea8 31.Qe3 Re8 32.Qd2 Rea8 33.Qb2 Qd8 34.Rec1 h6 35.h4 hxg5 36.hxg5 Qe8 37.Kf2 Qd8 38.Re3 Qb6 39.Rh1 Kf8 40.Rh8+ 1-0

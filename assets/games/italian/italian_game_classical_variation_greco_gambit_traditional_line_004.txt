@@ -1,0 +1,15 @@
+[Event "Round 7: Vantorre, Nils - Brienen, Jacob"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/Jf0boByc"]
+[Date "2026.07.21"]
+[Round "7.15"]
+[White "Vantorre, Nils"]
+[Black "Brienen, Jacob"]
+[Result "1-0"]
+[WhiteElo "2236"]
+[BlackElo "2090"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Nbd2 d5 8.exd5 Nxd5 9.O-O O-O 10.a3 Be7 11.Re1 Bg4 12.h3 Bh5 13.g4 Bg6 14.Ba2 Re8 15.Nc4 Nb6 16.Nce5 Nxe5 17.Nxe5 Bd6 18.f4 Bxe5 19.dxe5 Qxd1 20.Rxd1 Be4 21.Rd4 Bd5 22.Rxd5 Nxd5 23.Bxd5 Rad8 24.Bxb7 f6 25.Kf2 fxe5 26.f5 Rd3 27.Ba6 Rd6 28.Bc4+ Kh8 29.Be3 a5 30.a4 g6 31.fxg6 hxg6 32.Kg2 Rf6 33.Rf1 Rxf1 34.Kxf1 Kg7 35.Bd2 Ra8 36.Bc3 Kf6 37.Kf2 Kg5 38.Bxe5 Kh4 39.Kg2 Re8 40.Bf6+ g5 41.Bd4 Rh8 42.Bf2# 1-0

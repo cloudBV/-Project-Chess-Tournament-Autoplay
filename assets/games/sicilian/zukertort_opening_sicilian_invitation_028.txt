@@ -1,0 +1,14 @@
+[Event "Round 6: Hertneck, Gerald - Moeller, Maurin"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/jIJHTC04"]
+[Date "2026.07.22"]
+[Round "7.9"]
+[White "Hertneck, Gerald"]
+[Black "Moeller, Maurin"]
+[Result "1-0"]
+[WhiteElo "2428"]
+[BlackElo "2301"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.e3 Nf6 3.d4 d5 4.c4 cxd4 5.exd4 g6 6.Nc3 Bg7 7.Bg5 O-O 8.Bxf6 Bxf6 9.Nxd5 Bg7 10.Nc3 Nc6 11.d5 Bxc3+ 12.bxc3 Na5 13.Qd4 Qc7 14.Be2 b6 15.O-O Ba6 16.Rfe1 Rac8 17.Qh4 Kg7 18.Bd3 Rce8 19.Re4 f6 20.Rae1 e5 21.dxe6 Bb7 22.e7 Rf7 23.Nd4 Bc8 24.Qg3 Rexe7 25.Rxe7 Rxe7 26.Rxe7+ Qxe7 27.Qb8 Ba6 28.Nb5 Nc6 29.Qc7 Bxb5 30.Qxe7+ Nxe7 31.cxb5 Nd5 32.c4 Nc3 33.a3 Kf7 34.f4 Ke6 35.Kf2 Kd6 36.h4 Kc5 37.f5 gxf5 38.Bxf5 h6 39.Kf3 Kd4 40.Kg4 Ne2 41.g3 Ke3 42.a4 Kf2 43.c5 bxc5 44.a5 Nd4 45.b6 axb6 46.axb6 Nc6 47.Be6 h5+ 48.Kf4 f5 49.b7 1-0

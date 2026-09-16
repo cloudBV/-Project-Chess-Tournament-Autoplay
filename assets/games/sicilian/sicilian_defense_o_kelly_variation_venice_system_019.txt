@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.7"]
+[White "Domanskiy, Mykola"]
+[Black "Korshunov, Sergey And."]
+[Result "1/2-1/2"]
+[WhiteElo "2225"]
+[BlackElo "2362"]
+[ECO "B28"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg4 6.Be2 e6 7.Be3 Nd7 8.O-O Ngf6 9.h3 Bh5 10.c4 Qd6 11.Nc3 cxd4 12.Nxd4 Bxe2 13.Qxe2 Be7 14.Rfd1 Qc7 15.Rac1 O-O 16.b3 Rfd8 17.Bg5 Nf8 18.Ne4 Nxe4 19.Bxe7 Ng3 20.Qe3 Qxe7 21.Qxg3 Rd7 22.Rd2 Rad8 23.Rcd1 h6 24.Qc3 Qf6 25.Qe3 Ng6 26.Nf3 Rxd2 27.Rxd2 Qa1+ 28.Kh2 Rxd2 29.Qxd2 Qf1 30.Qe3 Qb1 31.a4 Qf5 32.Nd4 Qc5 33.g3 h5 34.Nc2 Qf5 35.Nd4 Qf6 36.Nf3 e5 37.Kg2 Qc6 38.Kh2 Qf6 39.h4 Qf5 40.Kg2 f6 41.Nd2 Qg4 42.Kh2 Nf8 43.Qe4 Qd1 44.Qd5+ Kh7 45.Ne4 Qxd5 46.cxd5 a5 47.Nd6 b6 48.Nc4 Nd7 49.Kg2 Kg6 50.Kf3 f5 51.Ke3 Kf6 52.f3 1/2-1/2

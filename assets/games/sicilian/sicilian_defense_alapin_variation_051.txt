@@ -1,0 +1,14 @@
+[Event "Round 8: Schlais, Harald - Marentini, Marcel"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-8/2E3aV6Aw/HuMt91nv"]
+[Date "2026.07.24"]
+[Round "8.14"]
+[White "Schlais, Harald"]
+[Black "Marentini, Marcel"]
+[Result "1/2-1/2"]
+[WhiteElo "2238"]
+[BlackElo "2073"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.d4 cxd4 6.cxd4 Nc6 7.Bc4 dxe5 8.Nxe5 e6 9.O-O Be7 10.Nxc6 bxc6 11.Nc3 O-O 12.Be3 Rb8 13.Na4 Bd6 14.Rc1 f5 15.Bd2 Qh4 16.g3 Qxd4 17.Be3 1/2-1/2

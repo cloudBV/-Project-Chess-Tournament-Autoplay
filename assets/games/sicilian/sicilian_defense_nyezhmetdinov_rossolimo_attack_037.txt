@@ -1,0 +1,15 @@
+[Event "Round 5: Sheehan, Ethan - Gelfand, Boris"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-5/j7TDNqaN/EbPfVjiR"]
+[Date "2026.06.30"]
+[Round "5.1"]
+[White "Sheehan, Ethan"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2416"]
+[BlackElo "2592"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.d4 cxd4 6.Nxd4 Ng6 7.Be2 Be7 8.c4 O-O 9.Nc3 b6 10.Be3 Bb7 11.Qd2 Nxd4 12.Bxd4 f5 13.exf5 Nh4 14.f3 Nxf5 15.Bf2 Bc6 16.Bd3 Bc5 17.Bxc5 bxc5 18.Bxf5 Rxf5 19.Rad1 Qe7 20.Rfe1 Raf8 21.Ne4 Rh5 22.Qd6 Qxd6 23.Rxd6 Re5 24.Re2 Rb8 25.Kf2 Kf8 26.Rdd2 Ke7 27.Nd6 Rxe2+ 28.Kxe2 a5 29.Ke3 a4 30.g3 g5 31.Ne4 Bxe4 32.fxe4 Rf8 33.Rf2 Rxf2 34.Kxf2 Kf6 35.Ke3 Ke5 36.g4 d6 37.h3 h6 38.a3 d5 39.cxd5 exd5 40.exd5 Kxd5 41.Kd3 c4+ 42.Kc3 Kc5 43.Kc2 Kd4 44.Kd2 Kd5 45.Kc3 Kc5 46.Kd2 1/2-1/2

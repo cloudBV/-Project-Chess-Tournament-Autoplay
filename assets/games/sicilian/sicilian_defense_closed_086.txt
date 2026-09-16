@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.24"]
+[White "Sharnarthi Shlok"]
+[Black "Fiedorek, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2134"]
+[BlackElo "2356"]
+[ECO "B24"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 e6 6.Be3 d6 7.Nge2 Nd4 8.O-O Ne7 9.Qd2 O-O 10.Nd1 Rb8 11.c3 Nxe2+ 12.Qxe2 b5 13.d4 cxd4 14.Bxd4 Bxd4 15.cxd4 Qb6 16.d5 exd5 17.exd5 Nf5 18.Re1 b4 19.Ne3 Re8 20.Qd2 Nxe3 21.Rxe3 Rxe3 22.Qxe3 Qxe3 23.fxe3 Bd7 24.a3 bxa3 1/2-1/2

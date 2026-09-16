@@ -1,0 +1,14 @@
+[Event "Round 4: Pranav Anand - Shyam, Sundar M."]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-4/dyKZYB3z/BAhKjtlG"]
+[Date "2026.07.16"]
+[Round "4.1"]
+[White "Pranav Anand"]
+[Black "Shyam, Sundar M."]
+[Result "1/2-1/2"]
+[WhiteElo "2588"]
+[BlackElo "2478"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Bc4 Bd7 9.Bb3 Na5 10.Qd2 Bg7 11.O-O-O Nxb3+ 12.cxb3 Qb8 13.Kb1 b5 14.Rhe1 Qb7 15.Bg5 b4 16.Nd5 Nxd5 17.exd5 O-O 18.Rxe7 Qxd5 19.Rxd7 Bxd4 20.Qxd4 Qf5+ 21.Ka1 Qxg5 22.Rxd6 Qxg2 23.Rg1 Qc2 24.Qxb4 Rad8 25.h4 Qf2 26.Rdd1 Rxd1+ 27.Rxd1 1/2-1/2

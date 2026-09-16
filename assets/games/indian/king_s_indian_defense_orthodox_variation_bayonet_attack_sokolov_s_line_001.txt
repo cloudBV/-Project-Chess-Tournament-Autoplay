@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "4.10"]
+[White "Valenzuela Gomez, Fernando"]
+[Black "Navajas Alvarez, Antoni"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "2041"]
+[ECO "E97"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7 9.b4 Nh5 10.Re1 f5 11.a4 h6 12.Ra3 Nf4 13.Bf1 c6 14.b5 cxd5 15.cxd5 fxe4 16.Nxe4 Bg4 17.h3 Bf5 18.Rc3 Kh8 19.Bxf4 exf4 20.Rc4 Re8 21.Qd2 g5 22.h4 g4 23.Nd4 Bxe4 24.Rxe4 Ng6 25.Rxe8+ Qxe8 26.Ne6 Be5 27.g3 Qe7 28.h5 Nh4 29.gxh4 Qxh4 30.Rxf4 Rg8 31.Bg2 Qxh5 32.Kf1 Bxf4 33.Qxf4 g3 34.Qf6+ Kh7 35.Be4+ 1-0

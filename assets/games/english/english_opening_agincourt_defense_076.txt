@@ -1,0 +1,14 @@
+[Event "Round 13: Ghosh, Diptayan - Arjun Kalyan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-13/22N95Wf4/OKSSAOxX"]
+[Date "2026.07.19"]
+[Round "13.2"]
+[White "Ghosh, Diptayan"]
+[Black "Arjun Kalyan"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2451"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 12: Fogo Esquivel, Levi Kalani Alexander - Dong, Hongfu"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/c9EKXuM1"]
+[Date "2026.07.19"]
+[Round "12.10"]
+[White "Fogo Esquivel, Levi Kalani Alexander"]
+[Black "Dong, Hongfu"]
+[Result "0-1"]
+[WhiteElo "2219"]
+[BlackElo "2290"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 g6 5.O-O Bg7 6.Bb5+ Bd7 7.Bxd7+ Qxd7 8.Re1 Nc6 9.d4 cxd4 10.cxd4 d5 11.e5 Ne4 12.Nc3 Nxc3 13.bxc3 O-O 14.Qe2 Nd8 15.Rb1 Rc8 16.Bd2 a6 17.Rb2 Rc4 18.Reb1 b5 19.Rb4 Nc6 20.Rxc4 dxc4 21.Rd1 Qd5 22.Bc1 a5 23.a3 Rc8 24.Nd2 Nd8 25.Qe4 e6 26.Qc2 Nc6 27.Ne4 Rd8 28.Nd6 Bf8 29.Bg5 Rxd6 30.exd6 Qxg5 31.d7 Qd5 32.Rb1 Qxd7 33.Qb2 b4 34.axb4 axb4 35.cxb4 Bxb4 36.Rd1 c3 37.Qb3 Qd5 38.Qa4 Nxd4 39.h3 c2 40.Rf1 Qc4 41.Kh2 Bd6+ 0-1

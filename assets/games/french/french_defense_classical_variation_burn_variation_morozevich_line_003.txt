@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.24"]
+[White "Mellado Sais, Carles"]
+[Black "Zamengo, Fulvio"]
+[Result "0-1"]
+[WhiteElo "2036"]
+[BlackElo "2365"]
+[ECO "C11"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nc3 Nd7 8.g3 Nb6 9.Bg2 c6 10.Qd3 Nd5 11.Nge2 Qb6 12.b3 Bd7 13.O-O h5 14.Na4 Qa5 15.c4 Nc7 16.h4 O-O-O 17.a3 e5 18.Qc2 Bg4 19.b4 Qa6 20.Nc5 Bxc5 21.dxc5 Bxe2 22.Qxe2 Ne6 23.b5 Nd4 24.Qb2 cxb5 25.Rab1 Qe6 26.cxb5 e4 27.Rfe1 f5 28.a4 Rd5 29.c6 Rhd8 30.Qc3 b6 31.a5 Rc5 32.Qe3 Nc2 33.Qf4 Nxe1 34.axb6 axb6 35.Ra1 Qe5 36.Ra8+ Kc7 37.Ra7+ Kd6 38.Qg5 f6 39.Qg7 Rc1 40.Kh2 Nf3+ 41.Bxf3 exf3 42.Qc7+ Kc5 43.Qxd8 Rh1+ 0-1

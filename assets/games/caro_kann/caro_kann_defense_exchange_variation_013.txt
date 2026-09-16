@@ -1,0 +1,15 @@
+[Event "Round 3: Sheehan, Ethan - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-3/CLvlcax5/Eh7fhRfy"]
+[Date "2026.07.04"]
+[Round "3.10"]
+[White "Sheehan, Ethan"]
+[Black "Suleymanli, Aydin"]
+[Result "0-1"]
+[WhiteElo "2416"]
+[BlackElo "2559"]
+[ECO "B13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Bg4 6.Qb3 Qc7 7.Ne2 Bxe2 8.Bf4 Qd7 9.Bxe2 Nc6 10.Nd2 e6 11.O-O Bd6 12.Bxd6 Qxd6 13.f4 O-O 14.a4 Rab8 15.g3 Ne7 16.Bd3 Nf5 17.Rae1 Qd7 18.Qd1 Nd6 19.g4 Qc6 20.Re3 Nfe4 21.Bxe4 dxe4 22.Rfe1 f5 23.Qb3 Qd5 24.Qb4 a5 25.Qb6 Rbc8 26.g5 Rc6 27.Qb3 Rfc8 28.R3e2 Qxb3 29.Nxb3 Rc4 30.Nc5 Kf7 31.Re3 b6 32.Nd7 R4c7 33.Ne5+ Kg8 34.Rd1 Rd8 35.Kf2 Nc8 36.c4 Ne7 37.Ke1 Nc6 38.Nxc6 Rxc6 39.Rb3 Kf7 40.d5 exd5 41.cxd5 Rcd6 42.Rb5 Rc8 43.b4 axb4 44.Rxb4 Rc2 45.h4 Kg6 46.Rdb1 Kh5 47.Rxb6 Rxd5 48.R6b2 Rc4 49.Rb7 Kg4 50.Rxg7 Rc2 51.Rxh7 Rdd2 52.Re7 Rh2 53.Kd1 Rcg2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Karayayla, Doruk - Pereverzev, Timofei"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/FtZVwtmT"]
+[Date "2026.07.02"]
+[Round "6.32"]
+[White "Karayayla, Doruk"]
+[Black "Pereverzev, Timofei"]
+[Result "1/2-1/2"]
+[WhiteElo "2012"]
+[BlackElo "2300"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Stoltz Attack"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.Bc4 Nb6 6.Bb3 c4 7.Bc2 d5 8.exd6 Qxd6 9.O-O Bg4 10.Re1 e6 11.b3 cxb3 12.axb3 Be7 13.Na3 a6 14.Nc4 Nxc4 15.bxc4 O-O 16.d4 Rfd8 17.Qe2 Bf6 18.Ba3 Qf4 19.Be4 Bf5 20.Nd2 Bg4 21.Nf3 Bf5 22.Nd2 Bg4 23.Nf3 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 4: Kaspereit, Holger - Wichmann, Cliff"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-4/BibKTVzv/tt1M5rlV"]
+[Date "2026.07.20"]
+[Round "4.8"]
+[White "Kaspereit, Holger"]
+[Black "Wichmann, Cliff"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2251"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Ng3 c5 9.c3 Qb6 10.Qd2 Nc6 11.O-O-O cxd4 12.Nxd4 Nxd4 13.Qxd4 Qxd4 14.Rxd4 Bd7 15.f3 O-O-O 16.Be2 Rhg8 17.f4 Bc6 18.Rxd8+ Bxd8 19.Bf3 Bxf3 20.gxf3 Bc7 21.Ne2 Rg2 22.Kd1 Kd7 23.h4 Ke7 24.b4 Rf2 25.Rh3 Rf1+ 26.Kc2 Re1 27.Rh2 Rf1 28.Rh3 Ra1 29.h5 Rxa2+ 30.Kd3 Ra1 31.h6 Rd1+ 32.Kc2 Rf1 33.Kd2 Rf2 34.Ke3 Bb6+ 35.Kd3 Rg2 36.Rh1 Kf6 37.c4 a6 38.c5 Bc7 39.Ke3 Rg8 40.Rb1 b6 41.Nd4 Rd8 42.Rg1 Bxf4+ 0-1

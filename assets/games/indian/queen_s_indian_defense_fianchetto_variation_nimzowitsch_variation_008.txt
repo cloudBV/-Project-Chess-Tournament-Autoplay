@@ -1,0 +1,14 @@
+[Event "Round 6: Thaler, Anton - Bagri, Jaspaul"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-6/29dQsO5d/AAkUkyji"]
+[Date "2026.07.16"]
+[Round "6.5"]
+[White "Thaler, Anton"]
+[Black "Bagri, Jaspaul"]
+[Result "1/2-1/2"]
+[WhiteElo "2100"]
+[BlackElo "2023"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 c5 6.d5 exd5 7.cxd5 Bb7 8.Bg2 Nxd5 9.a3 Nc7 10.O-O Be7 11.Rd1 Nc6 12.Nc3 O-O 13.Qf5 Ne6 14.Nd5 Ned4 15.Nxd4 cxd4 16.b4 Re8 1/2-1/2

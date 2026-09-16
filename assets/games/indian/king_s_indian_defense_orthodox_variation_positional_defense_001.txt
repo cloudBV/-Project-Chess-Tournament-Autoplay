@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-3/aTV140P1/Ph2pDA1R"]
+[Date "2026.07.01"]
+[Round "3.10"]
+[White "Sukhodolskyi, Oleksii"]
+[Black "Gutierrez Toro, Raul"]
+[Result "1/2-1/2"]
+[WhiteElo "2141"]
+[BlackElo "2038"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.O-O e5 8.Qc2 exd4 9.Nxd4 Nc5 10.Be3 Re8 11.f3 a5 12.Rad1 Bd7 13.a3 Ne6 14.b4 axb4 15.axb4 Nxd4 16.Bxd4 Qc8 17.b5 c5 18.Bf2 Ra3 19.Nb1 Ra1 20.Rxd6 Nh5 21.Nc3 Rxf1+ 22.Bxf1 Be6 23.Na4 Qc7 24.Rd1 b6 25.Qd2 Nf4 26.Qd6 Qxd6 27.Rxd6 Be5 28.Rd1 Rb8 29.g3 Nh3+ 30.Bxh3 Bxh3 31.f4 Bc7 32.Nc3 Ra8 33.Nd5 Bd8 34.Ne3 Bf6 35.e5 Be7 36.g4 h5 37.g5 Kg7 38.Be1 Ra2 39.Bd2 Kf8 40.Kf2 Ke8 41.Kg3 Be6 42.Bc3 Ra4 43.Ra1 Rxa1 44.Bxa1 Bd8 45.h4 Bc7 46.Kf3 Bc8 47.Nd5 Bd8 48.Nc3 Ke7 49.Ke3 Ke6 50.Ne4 Be7 51.Ng3 Bd8 52.f5+ Ke7 53.Kf4 Bc7 54.f6+ Ke6 55.Nf1 Bb7 56.Ne3 Ba8 1/2-1/2

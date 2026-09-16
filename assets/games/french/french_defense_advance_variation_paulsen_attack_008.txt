@@ -1,0 +1,15 @@
+[Event "Round 1: Madularea, David - Stefansson, Hannes"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/NJ1GZVwA"]
+[Date "2026.07.04"]
+[Round "1.12"]
+[White "Madularea, David"]
+[Black "Stefansson, Hannes"]
+[Result "0-1"]
+[WhiteElo "2259"]
+[BlackElo "2419"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 Nc6 5.d4 Nh6 6.Bxh6 gxh6 7.Bb5 Bd7 8.Ba4 Qb6 9.Qe2 cxd4 10.Bxc6 bxc6 11.cxd4 c5 12.dxc5 Bxc5 13.Nc3 Rb8 14.Rb1 Bb5 15.Nxb5 Qxb5 16.Qxb5+ Rxb5 17.Ke2 Rg8 18.Ne1 Bd4 19.Nd3 Rxg2 20.Rbg1 Rxb2+ 21.Nxb2 Rxf2+ 22.Kd3 Bxb2 23.Rg8+ Ke7 24.Re1 Rf4 25.Rb8 Bd4 26.Rb7+ Kf8 27.Re2 Bf2 28.a4 Rf3+ 29.Kc2 h5 30.a5 Bd4 31.Rg2 Bxe5 32.Rxa7 Ra3 33.Rd2 Bc3 34.Rd3 Rxa5 35.Rxa5 Bxa5 36.Rh3 Kg7 37.Rxh5 Bc7 38.Rg5+ Kf6 39.Rg2 Bf4 40.Kd3 e5 41.h3 Ke6 42.Ra2 e4+ 43.Kd4 Be5+ 44.Kc5 d4 45.Ra6+ Kf5 46.Kd5 e3 47.Rh6 Kg5 0-1

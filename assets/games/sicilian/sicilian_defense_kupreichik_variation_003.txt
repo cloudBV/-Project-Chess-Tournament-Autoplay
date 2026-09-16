@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.04"]
+[Round "8.19"]
+[White "Whately, Josue Henrique de Freitas"]
+[Black "Jardim, Frederico Rodrigues"]
+[Result "0-1"]
+[WhiteElo "2036"]
+[BlackElo "2312"]
+[ECO "B56"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kupreichik Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bd7 6.f3 e5 7.Nb3 Be7 8.Be3 O-O 9.Qd2 a5 10.a4 Na6 11.Be2 Nb4 12.O-O Rc8 13.Rac1 Be6 14.Bb5 d5 15.exd5 Nfxd5 16.Nxd5 Nxd5 17.g3 Nxe3 18.Qxe3 Bg5 19.f4 exf4 20.gxf4 Bf6 21.Rfd1 Qc7 22.Nd4 Bg4 23.Rd2 Rfd8 24.c3 g6 25.Re1 Kg7 26.Qg3 Bxd4+ 27.cxd4 Bd7 28.Bxd7 Qxd7 29.b3 Qf5 30.Qf3 b6 31.Kf2 Rc2 32.Ree2 Rc1 33.Rd3 Rd6 34.Qe3 Rd5 35.Qe4 Qh5 36.h3 Rc6 37.Qf3 Qh4+ 38.Kg2 Rcd6 39.Re4 Qd8 40.Qe3 Qd7 41.Re7 Qc6 42.Kg3 Qc2 43.Re5 Qb1 44.Kh2 Qf1 45.Rd2 Qc1 46.f5 Qxd2+ 47.Qxd2 Rxe5 48.f6+ Kg8 49.Qc1 Re2+ 50.Kg3 Rxf6 51.d5 Rd6 52.Qc8+ Kg7 53.Qc3+ Kf8 54.Kf3 Re8 55.Qh8+ Ke7 56.Qd4 Kd7 57.Kf4 f6 58.Qc4 Re5 59.Qa6 Rexd5 60.Qb7+ Ke6 61.Qxh7 g5+ 62.Kf3 Rd3+ 63.Ke2 Ke5 64.h4 Kf4 65.Qc7 gxh4 66.Qc4+ Kg3 67.Qg8+ Kh2 68.Qg4 R6d4 69.Qf5 Rd2+ 70.Kf1 h3 71.Qxf6 Rd1+ 72.Kf2 R4d2+ 73.Ke3 Rg2 74.Qh4 Rg3+ 75.Ke2 Rb1 76.Qc4 Rb2+ 0-1

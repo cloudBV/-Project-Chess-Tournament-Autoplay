@@ -1,0 +1,15 @@
+[Event "Round 2: Safranek, William - Lin, Bryan Enming"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-2/MjzRlbHj/8c9LlugK"]
+[Date "2026.07.16"]
+[Round "2.10"]
+[White "Safranek, William"]
+[Black "Lin, Bryan Enming"]
+[Result "0-1"]
+[WhiteElo "2252"]
+[BlackElo "2381"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 b6 4.d4 cxd4 5.Nxd4 Bb7 6.Nd2 Qf6 7.c3 Nc6 8.Nb5 O-O-O 9.Nf3 d5 10.Bg5 dxe4 11.Bxf6 Rxd1+ 12.Rxd1 Nxf6 13.Ng5 Ne5 14.Nxa7+ Kb8 15.Nb5 Bc5 16.b4 Be7 17.Be2 Rf8 18.O-O h6 19.Nh3 Nd5 20.Rc1 g5 21.f3 Ne3 22.Rf2 Nxg2 23.fxe4 Nf4 24.Nxf4 gxf4 25.Nd4 Bh4 26.Rxf4 Rg8+ 27.Kh1 Bg5 28.Rg1 Rc8 29.Rff1 Bxe4+ 30.Nf3 Rxc3 31.Rg3 Bf4 32.Rh3 Rc2 33.Bd1 Rd2 34.Re1 Rxd1 35.Rxd1 Nxf3 36.Rh5 Nd2+ 37.Kg1 Be3# 0-1

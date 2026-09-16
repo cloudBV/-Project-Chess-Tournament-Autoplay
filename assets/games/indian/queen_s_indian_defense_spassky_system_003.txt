@@ -1,0 +1,15 @@
+[Event "Round 2: Bardyk, Artem - Akhmet, Suleiman"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/A3ZMgq8z"]
+[Date "2026.07.22"]
+[Round "2.16"]
+[White "Bardyk, Artem"]
+[Black "Akhmet, Suleiman"]
+[Result "1-0"]
+[WhiteElo "2383"]
+[BlackElo "2163"]
+[ECO "E14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Spassky System"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 d5 6.b3 Nbd7 7.O-O Bd6 8.Bb2 O-O 9.Nbd2 c5 10.cxd5 exd5 11.Ne5 Qe7 12.Nxd7 Nxd7 13.Qc2 h6 14.dxc5 bxc5 15.e4 Qh4 16.g3 Qh5 17.exd5 Bxd5 18.Bh7+ Kh8 19.Qf5 Qxf5 20.Bxf5 Nb6 21.Rfd1 Rad8 22.a4 Na8 23.Bc3 Be7 24.f4 Rb8 25.Rab1 Nc7 26.Be5 Rb7 27.Nc4 Bf3 28.Rd3 Be2 29.Rd7 1-0

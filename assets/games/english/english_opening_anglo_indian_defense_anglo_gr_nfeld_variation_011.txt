@@ -1,0 +1,14 @@
+[Event "Blitz C12"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "6.1"]
+[White "Nakonechnyi, Oleksii"]
+[Black "Buklaho, Ignacy"]
+[Result "1-0"]
+[WhiteElo "2400"]
+[BlackElo "2052"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.Nf3 d5 2.c4 Nf6 3.cxd5 Nxd5 4.Nc3 c6 5.d4 g6 6.e4 Nb6 7.Be2 Bg7 8.h3 O-O 9.O-O N8d7 10.Be3 e5 11.d5 cxd5 12.exd5 Re8 13.Qb3 e4 14.Nh2 Nf6 15.Rad1 Bf5 16.Ng4 Nxg4 17.hxg4 Bd7 18.g3 Rc8 19.Nb5 Bxb5 20.Bxb5 Rf8 21.d6 Kh8 22.a4 Nd7 23.g5 a6 24.Be2 Nc5 25.Qb4 b6 26.a5 bxa5 27.Qa3 Nd3 28.Bxd3 exd3 29.Rxd3 Qd7 30.Qxa5 Rc4 31.Qd5 Rb4 32.b3 Rb5 33.Qc4 Rc8 34.Qe4 Re5 35.Qf3 Re6 36.Rfd1 Rc6 37.Qxc6 Qxc6 38.d7 1-0

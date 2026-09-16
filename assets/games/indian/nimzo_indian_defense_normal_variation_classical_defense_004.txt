@@ -1,0 +1,14 @@
+[Event "Round 2: Xiao, Tong(QD) - Materia, Marco"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-rapid/round-2/lyIyqH9p/Yic7DWnv"]
+[Date "2026.07.12"]
+[Round "2.3"]
+[White "Xiao, Tong(QD)"]
+[Black "Materia, Marco"]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2491"]
+[ECO "E48"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Ne2 dxc4 7.Bxc4 c5 8.a3 Bxc3+ 9.bxc3 Qc7 10.Ba2 b6 11.O-O Rd8 12.Re1 Nc6 13.Ng3 Ba6 14.Rb1 Rac8 15.Rb2 cxd4 16.cxd4 Ne5 17.Rd2 Nd3 18.Rxd3 Qxc1 19.Qxc1 Rxc1 20.Rxc1 Bxd3 21.f3 Kf8 22.Kf2 Ba6 23.Ne2 Rc8 24.Rxc8+ Bxc8 25.e4 Ke7 26.Nc3 Ne8 27.Bc4 f6 28.Ke3 Nd6 29.Bd3 h6 30.g3 Bb7 31.f4 Bc6 32.h4 Ne8 33.g4 Nc7 34.f5 Be8 35.e5 fxe5 36.dxe5 h5 37.Kf4 hxg4 38.Kxg4 exf5+ 39.Bxf5 a5 40.Kf4 b5 41.Ke3 b4 42.axb4 axb4 43.Ne2 b3 44.Kd2 Nd5 45.Nd4 b2 46.Kc2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 9: Thyberg, Andre - Liden, Tommy"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/EOkdoq8A"]
+[Date "2026.07.04"]
+[Round "9.6"]
+[White "Thyberg, Andre"]
+[Black "Liden, Tommy"]
+[Result "1-0"]
+[WhiteElo "2111"]
+[BlackElo "2135"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 g6 5.Nf3 Bg7 6.Nbd2 cxd4 7.Bc4 Qd8 8.Nxd4 Nf6 9.O-O O-O 10.N2f3 Nbd7 11.Qe2 Nb6 12.Bb3 e6 13.Bf4 Nbd5 14.Bg3 Qb6 15.c4 Ne7 16.Nb5 Nf5 17.Be5 Bd7 18.Nbd4 Rfd8 19.Nxf5 exf5 20.Rfd1 Re8 21.Qc2 Bc6 22.c5 Qa5 23.Bxf7+ Kxf7 24.Qc4+ Ke7 25.Ng5 Nd7 26.Qe6+ Kd8 27.Nf7+ 1-0

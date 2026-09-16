@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/GqX1M9qo"]
+[Date "2026.07.04"]
+[Round "8.15"]
+[White "Kusiak, Mateusz"]
+[Black "Khamidov, Abdulla"]
+[Result "1-0"]
+[WhiteElo "2063"]
+[BlackElo "2218"]
+[ECO "C49"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Nimzowitsch Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6 bxc6 7.Nxe5 Bxc3 8.dxc3 Nxe4 9.Qd4 Nd6 10.Bf4 f6 11.Nf3 Nf7 12.Qc5 d6 13.Qxc6 Rb8 14.Qa4 Rxb2 15.Qxa7 Rxc2 16.Qa3 Re2 17.Be3 c5 18.Rfd1 Qe7 19.Kf1 Rxe3 20.fxe3 Qxe3 21.Re1 Qf4 22.Qc1 Qc4+ 23.Kg1 Ne5 24.Nxe5 fxe5 25.Qd2 Rf6 26.Rf1 Bf5 27.a4 d5 28.a5 Bc8 29.Qg5 Qxc3 30.Rxf6 Qxa1+ 31.Rf1 Qxa5 32.Qe7 h6 33.Qe8+ Kh7 34.Qxc8 Qc3 35.Qf5+ Kh8 36.Qg6 Qd4+ 37.Kh1 Kg8 38.Rb1 1-0

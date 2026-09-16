@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.15"]
+[White "Wang, Qibiao"]
+[Black "Uz, Kagan"]
+[Result "0-1"]
+[WhiteElo "2332"]
+[BlackElo "2259"]
+[ECO "E90"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.Nf3 g6 2.c4 Bg7 3.Nc3 d6 4.d4 Nf6 5.e4 O-O 6.Bd3 Nbd7 7.O-O e5 8.d5 a5 9.Re1 Nc5 10.Bf1 Nfd7 11.Bg5 f6 12.Bh4 Rf7 13.b3 Nf8 14.a3 g5 15.Bg3 h5 16.h4 Ng6 17.Rb1 g4 18.Nd2 f5 19.b4 f4 20.bxc5 fxg3 21.fxg3 Nxh4 22.cxd6 cxd6 23.c5 Ng6 24.Bc4 h4 25.Rf1 Bh6 26.Qe1 Rh7 27.Rf5 hxg3 28.Nf1 Bf4 29.Nxg3 Qh4 30.Nce2 Be3+ 31.Kf1 Bxf5 32.exf5 Bxc5 33.fxg6 Qf6+ 0-1

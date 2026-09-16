@@ -1,0 +1,14 @@
+[Event "Round 9: Eroz, Enis - Podolchenko, Evgeniy"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-9/j9WVZqtk/qhDxGn4J"]
+[Date "2026.07.02"]
+[Round "9.12"]
+[White "Eroz, Enis"]
+[Black "Podolchenko, Evgeniy"]
+[Result "1/2-1/2"]
+[WhiteElo "2111"]
+[BlackElo "2287"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Forgacs Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Bc4 Bd6 7.Qe2+ Qe7 8.Qxe7+ Kxe7 9.Ne2 Bf5 10.Bb3 a5 11.a4 Na6 12.Bf4 Rhd8 13.O-O-O Be6 14.d5 cxd5 15.Bxd5 Nc5 16.Bxe6 Bxf4+ 17.Nxf4 fxe6 18.b3 Rdc8 19.Kb2 Rc6 20.Rhe1 Rac8 21.Nd5+ Kf7 22.Ne3 Rb8 23.f3 b5 24.axb5 Rxb5 25.Ka3 g5 26.Nc4 Ke7 27.Rd4 Na6 28.Red1 Rc7 29.Rd8 Nb4 30.c3 Rd5 31.R8xd5 Nxd5 32.Rd3 Rc5 33.Ka4 h5 34.Nxa5 Nxc3+ 35.Kb4 Rb5+ 36.Kxc3 Rxa5 37.Rd2 Rc5+ 38.Kb4 Rc8 39.Ka3 Ra8+ 40.Kb2 Rb8 41.Rd4 e5 42.Rc4 Kd6 43.b4 g4 44.fxg4 hxg4 45.Rxg4 f5 46.Rg6+ Kd5 47.Kc3 e4 48.Rg5 Rc8+ 49.Kd2 Kd4 50.Rxf5 e3+ 51.Kd1 Ke4 52.Rf7 Ra8 53.Re7+ Kd3 54.Rd7+ Ke4 55.b5 Ra1+ 56.Kc2 Ra2+ 57.Kc3 Rxg2 58.h4 Rg6 59.Re7+ Kf3 60.Kd4 e2 61.Kc5 Rg4 62.b6 Re4 63.Rxe4 Kxe4 64.b7 e1=Q 65.b8=Q Qc3+ 66.Kb6 Qb4+ 67.Kc7 Qxb8+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "9.4"]
+[White "Radzimski, Antoni"]
+[Black "Rekuc, Patryk"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2290"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Normal Variation"]
+
+1.c4 c5 2.Nc3 g6 3.Nf3 Nc6 4.e3 Bg7 5.d4 b6 6.Be2 Nf6 7.d5 Na5 8.O-O O-O 9.e4 d6 10.Qc2 e6 11.Bg5 h6 12.Bh4 g5 13.Bg3 e5 14.Nd2 h5 15.h4 g4 16.f3 Bh6 17.f4 exf4 18.Bxf4 Bxf4 19.Rxf4 Ne8 20.g3 Qe7 21.Raf1 Rb8 22.Qd3 a6 23.Qe3 Qe5 24.Kg2 Rb7 25.Nd1 Re7 26.b3 Bd7 27.Nf2 b5 28.Nd3 Qc3 29.Rc1 Qg7 30.Rf2 f5 31.Rcf1 Nf6 32.e5 dxe5 33.d6 Ree8 34.Nxc5 Bc6+ 35.Kh2 f4 36.gxf4 exf4 37.Qxf4 Nh7 38.Qg3 Rxf2+ 39.Rxf2 Qd4 40.d7 Bxd7 41.Nxd7 Qxd7 42.Bd3 Nf8 43.Ne4 Re6 44.Nf6+ Rxf6 45.Rxf6 Qg7 46.Qf4 bxc4 47.Bxc4+ Nxc4 48.Qxc4+ Kh8 49.Qf7 Nd7 50.Qe8+ Kh7 51.Rf7 1-0

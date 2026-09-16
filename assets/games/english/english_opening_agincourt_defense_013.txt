@@ -1,0 +1,15 @@
+[Event "Round 9: Hess, Robert - Heimann, Mark"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/ef5GoPIY"]
+[Date "2026.07.04"]
+[Round "9.23"]
+[White "Hess, Robert"]
+[Black "Heimann, Mark"]
+[Result "0-1"]
+[WhiteElo "2557"]
+[BlackElo "2411"]
+[ECO "A13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nc6 4.cxd5 exd5 5.d3 Nf6 6.Bg5 Be6 7.Nh3 h6 8.Bd2 g5 9.f4 Qd7 10.Nf2 Rg8 11.Qa4 Bc5 12.e3 O-O-O 13.fxg5 hxg5 14.Nc3 Bb6 15.d4 Ne7 16.Qxd7+ Nxd7 17.Na4 Nf5 18.Nd3 Nd6 19.O-O Bf5 20.Ne5 Be6 21.Nxb6+ axb6 22.Nxd7 Rxd7 23.Rac1 Kd8 24.b3 c6 25.a4 Bf5 26.Bb4 Bg6 27.Rf6 Ne4 28.Rff1 Re8 29.Rcd1 Bh5 30.Rc1 Bg6 31.Bh3 f5 32.Bxf5 Bxf5 33.Rxf5 Rh7 34.Rc2 Reh8 35.Rg2 Kd7 36.g4 Rh3 37.Bd2 Nxd2 38.Rxd2 Rxe3 39.Rxg5 Rxb3 40.Rg7+ Ke6 41.Rxb7 Rh4 42.Rg7 Rb4 43.Rg6+ Kf7 44.Rxc6 Rxg4+ 45.Kf2 Rgxd4 46.Re2 Rf4+ 47.Ke1 Rb1+ 48.Kd2 Rxa4 49.Rf2+ Ke7 50.Re2+ Kd7 51.Rc2 Rd4+ 52.Ke3 Re4+ 53.Kf2 Rxe2+ 54.Kxe2 b5 55.Kd3 Kd6 56.Rc8 Rb3+ 57.Kd4 Rb4+ 58.Kd3 Rh4 59.Rd8+ Kc5 60.Rc8+ Kb4 61.Rc2 Kb3 62.Rc3+ Ka4 63.Rc5 d4 64.Rc8 Kb3 65.Rb8 b4 66.Rb7 Rxh2 67.Kxd4 Rd2+ 68.Kc5 Rc2+ 69.Kd4 Ka3 70.Kd3 Rc8 71.Ra7+ Kb2 72.Rb7 b3 73.Rb6 Ka2 74.Ra6+ Kb1 75.Rb6 b2 76.Kd2 Rd8+ 77.Kc3 Kc1 78.Rxb2 Rc8+ 79.Kd4 0-1

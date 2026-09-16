@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-7/78HixM7H/kvu3U3RR"]
+[Date "2026.07.24"]
+[Round "7.12"]
+[White "Ramsdal, Jens Albert"]
+[Black "Veiergang, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo "2328"]
+[BlackElo "2234"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 Bb4 7.O-O Bxc3 8.bxc3 Nxe4 9.Nxc6 dxc6 10.Qxd8+ Kxd8 11.Bf3 Nxc3 12.Bb2 Nd5 13.Bxg7 Rg8 14.Bd4 b5 15.a4 a6 16.Rfc1 Bd7 17.c4 bxc4 18.Rxc4 Rb8 19.Be5 Rb3 20.Bd1 Rb7 21.a5 f6 22.Bd6 e5 23.Be2 Nf4 24.Rxf4 exf4 25.Bxa6 Ra7 26.Bc4 Rg5 27.a6 f3 28.g3 Rg4 29.Bf1 Re4 30.Bd3 Rg4 31.Bc5 Ra8 32.Bxh7 Rc4 33.Bb6+ Kc8 34.h4 Be6 35.h5 Rb4 36.Be3 Rb5 37.Bg6 Bf5 38.Bxf5+ Rxf5 39.g4 Rb5 40.h6 Rb4 41.Kh2 Rxg4 42.Kh3 Rg8 43.a7 Kd7 44.Rb1 Ke6 45.Rb7 Kf5 46.Kh4 Rg4+ 47.Kh3 Rgg8 48.Rb4 Rgc8 49.Rf4+ Ke5 50.Kg4 Ke6 51.Rf5 Rg8+ 52.Kf4 Rh8 53.Rh5 Rh7 54.Ke4 Kf7 55.Kf5 Rd8 56.Rh1 Rd5+ 57.Ke4 Ra5 58.Bb6 Ra6 59.Rh5 Kg6 60.Rh1 Raxa7 61.Bxa7 Rxa7 62.Kxf3 Rh7 63.Rc1 Rc7 64.Rh1 c5 65.Ke4 c4 66.Kd4 c3 67.h7 Rxh7 68.Rxh7 1/2-1/2

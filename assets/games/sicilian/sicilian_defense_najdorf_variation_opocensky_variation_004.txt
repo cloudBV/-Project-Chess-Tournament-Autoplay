@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.22"]
+[White "Zhou, Ivan"]
+[Black "Das, Aditeya"]
+[Result "0-1"]
+[WhiteElo "2186"]
+[BlackElo "2298"]
+[ECO "B92"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.Be3 Be7 9.Nd5 Nxd5 10.exd5 Bf5 11.Qd2 O-O 12.Na5 b6 13.Nc4 Nd7 14.O-O Bg6 15.a4 Rb8 16.f4 exf4 17.Bxf4 Nf6 18.a5 b5 19.Nb6 Ne4 20.Qe3 Bf6 21.c3 Re8 22.Qf3 Ng5 23.Qf2 Ne4 24.Qf3 b4 25.cxb4 Bxb2 26.Rad1 Bc3 27.Bd3 Bxb4 28.Nc4 Bc5+ 29.Kh1 Rb3 30.Bxe4 Rxf3 31.Bxf3 Bc2 32.Rd2 Bb3 33.Nb6 Bb4 34.Rb2 Bxa5 35.Rxb3 Bxb6 36.Rfb1 Bc5 37.h3 a5 0-1

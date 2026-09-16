@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.11"]
+[White "Rasik, Vitezslav"]
+[Black "Toman, Ondrej"]
+[Result "1/2-1/2"]
+[WhiteElo "2381"]
+[BlackElo "2220"]
+[ECO "B10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Bb5+ Nbd7 6.Nc3 g6 7.d4 Bg7 8.d6 exd6 9.Qe2+ Qe7 10.Bf4 d5 11.Bd6 Qxe2+ 12.Ngxe2 a6 13.Ba4 b5 14.Bb3 Nb6 15.O-O Nc4 16.Bc5 Be6 17.Rfe1 Kd7 18.Nf4 Bh6 19.Nd3 Kc7 20.h3 Rhe8 21.a4 Bd2 22.Re2 Bxc3 23.bxc3 Ne4 24.Rc2 Ned2 25.Bxc4 Nxc4 26.Rca2 bxa4 27.Rxa4 a5 28.Bb4 axb4 29.Rxa8 Rxa8 30.Rxa8 b3 31.Ra4 Bf5 32.Rxc4+ dxc4 33.Nb2 Bd3 34.f3 Kd6 35.Kf2 Kd5 36.Ke3 Bf1 37.Kf2 Bd3 38.Ke3 Bf1 39.Kf2 Bd3 40.h4 f5 41.Ke3 Bf1 42.Kf2 Bd3 43.Ke3 Bf1 44.g3 h6 45.Kf2 Bd3 46.Ke3 Bf1 47.Kf2 Bd3 48.Ke3 Bf1 49.Kf2 Bd3 50.Ke3 Bf1 1/2-1/2

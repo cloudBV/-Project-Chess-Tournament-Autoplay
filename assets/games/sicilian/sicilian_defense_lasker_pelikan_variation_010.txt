@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.5"]
+[White "Arvola, Daniel"]
+[Black "Solbu, August"]
+[Result "0-1"]
+[WhiteElo "2204"]
+[BlackElo "2061"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2 O-O 11.O-O Nd7 12.Bd2 a6 13.Na3 f5 14.a5 Nf6 15.Bb4 f4 16.Nc4 Bf5 17.Nb6 Rb8 18.c4 Rf7 19.Ba3 g5 20.c5 dxc5 21.d6 Bxd6 22.Bc4 Qe7 23.Qb3 Bg6 24.Rfd1 e4 25.Rac1 f3 26.g3 Kg7 27.Bxf7 Bxf7 28.Qe3 Ng4 29.Qc3+ Be5 30.Qxc5 Qe6 31.h3 Nf6 32.Kh2 h5 33.Nc8 h4 34.Rd8 Nh7 35.Qe7 e3 36.Qxe6 Bxe6 37.Bc5 e2 38.Be3 Bxb2 39.Rc7+ Kh6 40.Bd2 hxg3+ 41.Kg1 Rxc8 42.Rcxc8 Bxc8 43.Rxc8 Bd4 44.Be1 gxf2+ 0-1

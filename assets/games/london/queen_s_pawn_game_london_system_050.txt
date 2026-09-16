@@ -1,0 +1,14 @@
+[Event "Round 8: Materia, Marco - Xiao, Tong(QD)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-8/k9nWvT8n/Jr8Sz8ym"]
+[Date "2026.07.01"]
+[Round "8.1"]
+[White "Materia, Marco"]
+[Black "Xiao, Tong(QD)"]
+[Result "0-1"]
+[WhiteElo "2509"]
+[BlackElo "2465"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 c5 5.Nbd2 Bd6 6.Bb5+ Nc6 7.dxc5 Bxc5 8.O-O O-O 9.c4 Ne7 10.Rc1 b6 11.cxd5 Nfxd5 12.Ne4 Nxf4 13.exf4 a6 14.Bd3 Nd5 15.Nxc5 bxc5 16.Be4 Rb8 17.Qc2 h6 18.Rfd1 Qf6 19.Qxc5 Nxf4 20.Bh7+ Kxh7 21.Qxf8 Ne2+ 22.Kh1 Nxc1 23.Rxc1 Qxb2 24.Rxc8 Qa1+ 25.Ng1 Rb1 26.h3 Rxg1+ 27.Kh2 Qf1 0-1

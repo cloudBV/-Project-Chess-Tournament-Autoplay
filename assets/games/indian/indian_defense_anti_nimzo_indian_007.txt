@@ -1,0 +1,15 @@
+[Event "Round 5: Gelfand, Boris - Chasin, Nico"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-5/6wa4QNCe/AsEI16o5"]
+[Date "2026.07.03"]
+[Round "5.19"]
+[White "Gelfand, Boris"]
+[Black "Chasin, Nico"]
+[Result "1-0"]
+[WhiteElo "2623"]
+[BlackElo "2448"]
+[ECO "E10"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 O-O 7.Qc1 Nbd7 8.O-O Be7 9.Bf4 c6 10.Rd1 a4 11.Qc2 h6 12.Ne5 Qa5 13.a3 Qa6 14.Nd2 Nxe5 15.Bxe5 b5 16.c5 Nd7 17.Bf4 g5 18.Bd6 Bxd6 19.cxd6 f5 20.Nf3 Nb6 21.Ne5 Nc4 22.h4 g4 23.d7 Bb7 24.Nxg4 Kg7 25.Ne5 Nxe5 26.dxe5 Qb6 27.Rac1 Rad8 28.Qc5 Qxc5 29.Rxc5 f4 30.Rd4 fxg3 31.fxg3 Rf5 32.e4 Rxe5 33.exd5 exd5 34.Bh3 Re2 35.Rc3 Kf6 36.Rf4+ Ke7 37.Rcf3 Rxb2 38.Rf7+ Kd6 39.Rf8 Rxd7 40.Bxd7 Kxd7 41.R3f7+ Kd6 42.Rxb7 Rb3 43.Rf6+ Kc5 44.Rc7 Rxg3+ 45.Kf2 Rxa3 46.Rfxc6+ Kd4 47.Rxh6 b4 48.Rb6 b3 49.h5 Ra2+ 50.Kg3 b2 51.h6 Ra3+ 52.Kg2 Rb3 53.Rxb3 axb3 54.h7 b1=Q 55.h8=Q+ Ke3 56.Rc3+ Ke2 57.Qe5+ Qe4+ 58.Qxe4+ dxe4 59.Rxb3 e3 60.Rb2+ 1-0

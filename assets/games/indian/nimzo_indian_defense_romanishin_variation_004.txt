@@ -1,0 +1,15 @@
+[Event "Round 6: Zol-Uchral Erdenesaikhan - Ebrahimi Rashti, Asal"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g16/round-6/M3AjxD8A/B1pqNeaB"]
+[Date "2026.07.21"]
+[Round "6.16"]
+[White "Zol-Uchral Erdenesaikhan"]
+[Black "Ebrahimi Rashti, Asal"]
+[Result "1/2-1/2"]
+[WhiteElo "2153"]
+[BlackElo "2016"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Romanishin Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Bg2 d5 6.Nf3 Nbd7 7.O-O dxc4 8.Qc2 Nb6 9.e4 h6 10.Rd1 Bd7 11.Ne5 Be8 12.Be3 Nfd7 13.Ng4 h5 14.Ne5 Nxe5 15.dxe5 Qe7 16.Qe2 Bc5 17.Bf4 g6 18.h4 f6 19.exf6 Rxf6 20.Bg5 e5 21.Bxf6 Qxf6 22.Nd5 Nxd5 23.exd5 Bd7 24.Rd2 Rf8 25.Kh2 b5 26.Rf1 Bg4 27.f3 Bf5 28.f4 e4 29.d6 e3 30.Rd5 cxd6 31.b4 Bd3 32.Rxd3 cxd3 33.Qxd3 Bb6 34.Qxb5 Kg7 35.Re1 Qf5 36.Qa6 Rf7 1/2-1/2

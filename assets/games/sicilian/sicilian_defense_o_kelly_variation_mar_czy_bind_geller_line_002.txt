@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "2.10"]
+[White "Zareba, Piotr"]
+[Black "Ptaszynski, Szymon"]
+[Result "1-0"]
+[WhiteElo "2247"]
+[BlackElo "2034"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nf5 d5 7.cxd5 Bxf5 8.exf5 Nd4 9.Nc3 Nf6 10.Bd3 Nxd5 11.O-O Nxc3 12.bxc3 Nc6 13.Rb1 Qc7 14.f6 g6 15.Be4 Bc5 16.Bh6 Rd8 17.Qf3 Rg8 18.Rxb7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 5: Fomkin, Dmitry - Durucay, Uygar"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-5/9Q1lRTRH/2nAWHuG7"]
+[Date "2026.07.17"]
+[Round "5.21"]
+[White "Fomkin, Dmitry"]
+[Black "Durucay, Uygar"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2224"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 Na6 8.c3 Nc7 9.h3 O-O 10.O-O Be6 11.Qc2 g6 12.c4 Qd7 13.Rd1 Rfe8 14.Bf1 Rad8 15.Be3 b5 16.b3 a6 17.Qc3 Kg7 18.Rd2 Qe7 19.Re2 Qd7 20.Rd1 Rb8 21.Qc1 bxc4 22.bxc4 Bf5 23.Qa1 Be4 24.Nd2 Bd3 25.Ree1 Bxf1 26.Nxf1 Qf5 27.Qc1 Red8 28.Bh6+ Kg8 29.Ne3 Qh5 30.Ng4 Qh4 31.c5 Bf8 32.Bf4 Nd5 33.Bg3 Qh5 34.Bxb8 Rxb8 35.Qc4 Qg5 36.Qxa6 f5 37.Ne3 Ne7 38.Nc4 Rd8 39.Ne5 Qf6 40.d5 Nxd5 41.Qxc6 Qe6 42.Qxe6 fxe6 43.c6 Rc8 44.Rc1 Bd6 45.a4 Kg7 46.g3 Kf6 47.Nd7+ Kf7 48.Rc4 Bc7 49.Nc5 Re8 50.Rb1 Ke7 51.Rb7 Ra8 52.Nb3 e5 53.Rc5 Kd6 54.Rxd5+ Kxd5 55.Rxc7 Rxa4 56.Rxh7 Kxc6 57.Rg7 Kd5 58.Rxg6 Rb4 59.Nd2 Rb2 60.Rd6+ 1-0

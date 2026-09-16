@@ -1,0 +1,14 @@
+[Event "Round 7: Stojanovic, Mihajlo - Lou, Vincent"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-7/6jkfPuMd/jRXgztEc"]
+[Date "2026.06.03"]
+[Round "7.1"]
+[White "Stojanovic, Mihajlo"]
+[Black "Lou, Vincent"]
+[Result "1-0"]
+[WhiteElo "2401"]
+[BlackElo "2205"]
+[ECO "E53"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Gligoric System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.cxd5 exd5 8.dxc5 Nc6 9.O-O Bxc5 10.h3 Re8 11.b3 Ne4 12.Bb2 Bf5 13.Rc1 Bb6 14.Na4 Bc7 15.Nc5 Qc8 16.Re1 Bd6 17.Bxe4 dxe4 18.Qxd6 exf3 19.Qg3 Bg6 20.Qxf3 b6 21.Na4 Re6 22.Red1 Qe8 23.Qg3 Rd8 24.Nc3 Nb4 25.e4 f5 26.a3 Nc6 27.Nd5 Qf7 28.exf5 Bxf5 29.Rxc6 Rxc6 30.Ne7+ Kf8 31.Rxd8+ Kxe7 32.Qg5+ Rf6 33.Bxf6+ gxf6 34.Qg8 Be6 35.Qxf7+ Bxf7 36.Ra8 1-0

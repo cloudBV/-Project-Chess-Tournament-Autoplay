@@ -1,0 +1,14 @@
+[Event "Round 4: Ten Dam, Bram - Unuk, Laura"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/iBLas3nK"]
+[Date "2026.07.24"]
+[Round "4.13"]
+[White "Ten Dam, Bram"]
+[Black "Unuk, Laura"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2301"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nh6 6.Bd3 Nf5 7.dxc5 Nh4 8.Nxh4 Qxh4 9.Qe2 Bxc5 10.Nd2 f6 11.Nf3 Qh5 12.exf6 gxf6 13.Be3 Be7 14.Nd4 Qxe2+ 15.Bxe2 Nxd4 16.Bh5+ Kd8 17.Bxd4 e5 18.Be3 Be6 19.f4 Kc7 20.O-O Rhf8 21.Rad1 b6 22.f5 Bg8 23.Bh6 Rfd8 24.g4 Rd6 25.h4 Rad8 26.Be3 R8d7 27.Kh2 Kd8 28.g5 d4 29.cxd4 exd4 30.Bf4 Rc6 31.Rfe1 Bxa2 32.gxf6 Rxf6 33.Bg5 Rfd6 34.f6 Rxf6 35.Rxe7 Kxe7 36.Re1+ Kd6 37.Bxf6 d3 38.Be8 Rb7 39.Bb5 d2 40.Rd1 Kc5 41.Be8 Bf7 42.Ba4 b5 43.Bc2 Rd7 44.Bg5 Bg6 45.Bxg6 hxg6 46.Rxd2 1-0

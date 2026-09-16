@@ -1,0 +1,14 @@
+[Event "Round 1: Klaska, Philipp Leon - Keyser, Robin"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/WhJogxSI"]
+[Date "2026.07.19"]
+[Round "1.14"]
+[White "Klaska, Philipp Leon"]
+[Black "Keyser, Robin"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2181"]
+[ECO "C07"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.Ne4 Qb4+ 8.Nfd2 Nd7 9.c3 dxc3 10.bxc3 Qa5 11.Bb3 Qa6 12.Nc4 Ngf6 13.Ned6+ Bxd6 14.Nxd6+ Ke7 15.Nc4 b5 16.Ne3 Rd8 17.O-O Nc5 18.Qc2 Kf8 19.Bb2 Nce4 20.Rad1 Bb7 21.c4 b4 22.Rxd8+ Rxd8 23.Rd1 Qa5 24.Rxd8+ Qxd8 25.c5 Qc7 26.c6 Qxc6 27.Qxc6 Bxc6 28.Bd4 a5 29.Bb6 a4 30.Bc4 Nd5 31.Ba5 Nec3 32.Bxd5 Nxd5 33.Nxd5 exd5 34.Bxb4+ Ke8 35.Bc3 f6 36.f3 Kd7 37.Kf2 Kd6 38.Bd4 Bb5 39.a3 Ke6 40.Ke3 h5 41.h4 Kf5 42.g3 g5 43.Bc3 Bc4 1/2-1/2

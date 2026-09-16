@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "18.4"]
+[White "Kozlovic, Jernej"]
+[Black "Rekuc, Patryk"]
+[Result "1-0"]
+[WhiteElo "2222"]
+[BlackElo "2290"]
+[ECO "B51"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bxd7+ Qxd7 6.c3 g6 7.d4 cxd4 8.cxd4 Bg7 9.Nc3 b5 10.a4 b4 11.Nd5 Rb8 12.a5 Nf6 13.Nb6 Qb5 14.e5 dxe5 15.dxe5 Nd7 16.Nd5 Qc6 17.Bf4 Bb7 18.e6 fxe6 19.Nxb4 Qe4 20.Bxb8 Nxb8 21.Nd3 Nd7 22.Re1 Qg4 23.h3 Qf5 24.Rc1 O-O 25.Rc7 Qb5 26.Qe2 Bxf3 27.Qxe6+ Kh8 28.Rxd7 Bc6 29.Rxe7 Bd5 30.Qe3 Bc4 31.Ne5 Bg8 32.Qc3 Bf6 33.Qe3 Qxa5 34.Rd7 Re8 35.f4 Rf8 36.Rd6 Bg7 37.Rd7 Qb5 38.Kh2 Qa4 39.Rd4 Qa5 40.Re4 Qb5 41.Nf3 Qb7 42.Re7 Qxb2 43.Ng5 Qf6 44.g3 a5 45.Ra7 Qc6 46.Ne6 Qb5 1-0

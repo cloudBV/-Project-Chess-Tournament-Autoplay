@@ -1,0 +1,14 @@
+[Event "Round 7: Wagner, Hans - Lehmann, Michael"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-7/Y1lqTquY/MqSPdKzf"]
+[Date "2026.07.23"]
+[Round "7.12"]
+[White "Wagner, Hans"]
+[Black "Lehmann, Michael"]
+[Result "1-0"]
+[WhiteElo "2132"]
+[BlackElo "2073"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Bxf6 gxf6 9.Na3 f5 10.exf5 Bxf5 11.Nc4 Nd4 12.Ne3 Be6 13.Bd3 h5 14.Be4 Rb8 15.Bd5 Be7 16.Qd3 Rh6 17.O-O Nc6 18.Qe4 Qd7 19.f4 exf4 20.Qxf4 Rf6 21.Qe4 Rg6 22.Bb3 Ne5 23.Ncd5 Bg5 24.Nf4 Bxf4 25.Qxf4 Bxb3 26.axb3 Kf8 27.Rad1 Qe6 28.Kh1 Rc8 29.h3 Rc5 30.c3 b5 31.b4 Rc8 32.Nf5 Rd8 33.Qh4 Qf6 34.Qxh5 Rg5 35.Qh4 Rg6 36.Qe4 Qg5 37.Nh4 Rf6 38.Rxf6 Qxf6 39.Qd4 Ke7 40.Re1 Re8 41.Nf3 Kf8 42.Qd5 Qh6 43.Nd4 Qg6 44.Rf1 Rd8 45.Ne6+ 1-0

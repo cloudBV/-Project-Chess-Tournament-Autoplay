@@ -1,0 +1,15 @@
+[Event "Round 6: Nuri, Murad - Maruflu, Enes Yusuf"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/CQGkmNTY"]
+[Date "2026.07.16"]
+[Round "6.8"]
+[White "Nuri, Murad"]
+[Black "Maruflu, Enes Yusuf"]
+[Result "1/2-1/2"]
+[WhiteElo "2273"]
+[BlackElo "2204"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 O-O 8.O-O Bg4 9.h3 Bh5 10.Bf5 Na6 11.c3 Nc7 12.Qd3 Bg6 13.Nh4 Re8 14.Bd2 Bf8 15.Rad1 Bxf5 16.Nxf5 g6 17.Nh6+ Bxh6 18.Bxh6 Qd5 19.c4 Qh5 20.Bf4 Ne6 21.Be3 Rad8 22.Qb3 Rd7 23.d5 Red8 24.Bxa7 cxd5 25.Rxd5 Rxd5 26.cxd5 Qxd5 27.Qxd5 Rxd5 28.Be3 f5 29.f4 f6 30.Kf2 g5 31.Ke2 Kg7 32.Rd1 Rb5 33.b3 gxf4 34.Rd7+ Kg6 35.Bd4 Rb4 36.Bc3 Re4+ 37.Kf2 Re3 38.Re7 Rxc3 39.Rxe6 Kg5 40.Re7 Rc2+ 41.Kf3 Rc3+ 42.Kf2 Rc2+ 43.Re2 Rc3 1/2-1/2

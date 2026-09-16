@@ -1,0 +1,14 @@
+[Event "Round 6: Savitha Shri B - Amonatov, Farrukh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-6/V8amVhcr/MkPgN11A"]
+[Date "2026.07.19"]
+[Round "6.4"]
+[White "Savitha Shri B"]
+[Black "Amonatov, Farrukh"]
+[Result "1-0"]
+[WhiteElo "2161"]
+[BlackElo "2585"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.h3 Be7 9.Qf3 Nbd7 10.O-O-O Rc8 11.Nd5 O-O 12.g4 Bxd5 13.exd5 Nb6 14.Kb1 e4 15.Qg2 Nbxd5 16.g5 Nxe3 17.fxe3 Nd7 18.Qxe4 Bxg5 19.Qxb7 Ne5 20.Bxa6 Rc7 21.Qe4 g6 22.Rhf1 Re8 23.Qd4 Bf6 24.Qb4 Bg7 25.Rxd6 Qg5 26.Qf4 Qg2 27.Qf2 Qxh3 28.e4 h5 29.a4 Qg4 30.Bb5 Rec8 31.Rd2 Qxe4 32.a5 Qb4 33.Qb6 Qe4 34.Rc1 Bh6 35.Rd8+ Kg7 36.Rxc8 Rxc8 37.Rf1 Qxc2+ 38.Ka2 Bg5 39.Qb7 Rc7 40.Qd5 Re7 41.a6 Qc7 42.Nd4 Qb6 43.Nc6 Nxc6 44.Qxc6 Qa5+ 45.Kb1 Qb4 46.Bc4 Qa5 47.Qd5 Qb6 48.Rxf7+ Rxf7 49.Qxf7+ Kh6 50.Qf8+ Kh7 51.Bg8+ Kh8 52.Bf7+ Kh7 53.Qg8+ 1-0

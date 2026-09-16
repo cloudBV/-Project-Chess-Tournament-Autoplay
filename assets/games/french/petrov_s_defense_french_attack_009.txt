@@ -1,0 +1,14 @@
+[Event "Round 8: Svane, Rasmus - Kuegel, Tobias"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-8/kI8zp01N/zvQxtmrq"]
+[Date "2026.07.24"]
+[Round "8.2"]
+[White "Svane, Rasmus"]
+[Black "Kuegel, Tobias"]
+[Result "1/2-1/2"]
+[WhiteElo "2624"]
+[BlackElo "2361"]
+[ECO "C42"]
+[Variant "Standard"]
+[Opening "Petrov's Defense: French Attack"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 g6 7.Bb5+ c6 8.Bd3 Bg7 9.Qe2+ Qe7 10.Qxe7+ Kxe7 11.O-O Re8 12.h3 Na6 13.c3 Nc7 14.Na3 b5 15.Re1+ Be6 16.Ng5 Kd7 17.Nxe6 Nxe6 18.Nc2 Nd5 19.Bd2 a6 20.Ne3 Nef4 21.Bc2 Nc7 22.Nf5 Rxe1+ 23.Rxe1 Nfe6 24.Nxg7 Nxg7 25.Kf1 Re8 26.Rxe8 Ncxe8 27.Ke2 d5 28.Bf4 Ne6 29.Be5 Ke7 30.f4 f5 31.g4 Nd6 32.Bxd6+ Kxd6 33.gxf5 Nxf4+ 34.Kf3 Nxh3 35.fxg6 hxg6 36.Bxg6 Ng5+ 37.Kg4 Ne6 38.Bf5 Nd8 39.Kf4 a5 40.Ke3 a4 1/2-1/2

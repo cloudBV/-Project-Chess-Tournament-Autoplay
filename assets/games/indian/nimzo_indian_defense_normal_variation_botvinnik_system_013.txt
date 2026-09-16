@@ -1,0 +1,14 @@
+[Event "Round 6: Merkouropoulos, Dionysios - Lafkidis, Apostolos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/ARfUA5A4"]
+[Date "2026.07.10"]
+[Round "6.19"]
+[White "Merkouropoulos, Dionysios"]
+[Black "Lafkidis, Apostolos"]
+[Result "1-0"]
+[WhiteElo "2096"]
+[BlackElo "2125"]
+[ECO "E49"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Bd3 Nc6 11.f4 b6 12.O-O Ne7 13.e4 Bb7 14.Ng3 cxd4 15.cxd4 Qc3 16.Ra2 Qxd4+ 17.Kh1 Qd7 18.Rd2 Qc6 19.Bb2 Kh8 20.Bxf6 gxf6 21.Qa1 Ng8 22.Nh5 e5 23.fxe5 Qc5 24.Nxf6 Nxf6 25.Rxf6 Rad8 26.e6 Qd4 27.Qf1 Qc5 28.Rdf2 Qd6 29.Rxf7 Rg8 30.e7 Qxd3 31.exd8=Q Rxd8 32.Rf8+ Kg7 33.R2f7+ Kh6 34.Qf6+ 1-0

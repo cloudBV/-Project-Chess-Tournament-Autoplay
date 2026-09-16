@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "12.6"]
+[White "Perucki, Maciej"]
+[Black "Durzynski, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2043"]
+[BlackElo "2069"]
+[ECO "B29"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Advance Variation"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.b3 Nc6 5.Bb2 g6 6.c4 Nc7 7.Bd3 Bg7 8.Be4 O-O 9.O-O d5 10.cxd5 Nxd5 11.Re1 e6 12.a3 b6 13.Nc3 a6 14.Rc1 Bb7 15.Bb1 Nxc3 16.dxc3 Qxd1 17.Rcxd1 Rfd8 18.c4 Ne7 19.Bc2 Kf8 20.Kf1 Ke8 21.Ke2 h6 22.h3 Rxd1 23.Rxd1 Rd8 24.Rxd8+ Kxd8 25.Bc3 g5 26.b4 Nc6 27.bxc5 bxc5 28.Ke3 Kc7 29.Be4 Nd8 30.Ba5+ Kc8 1/2-1/2

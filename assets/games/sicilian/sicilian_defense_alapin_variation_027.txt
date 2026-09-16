@@ -1,0 +1,15 @@
+[Event "Round 6: Torosyan, Volodya - Zakhartsov, Viacheslav V."]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-6/kDkmY1PW/LzYa190s"]
+[Date "2026.07.17"]
+[Round "6.5"]
+[White "Torosyan, Volodya"]
+[Black "Zakhartsov, Viacheslav V."]
+[Result "1/2-1/2"]
+[WhiteElo "2196"]
+[BlackElo "2467"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 c4 6.Bc2 Nc6 7.Nf3 d6 8.exd6 Qxd6 9.O-O Bg4 10.h3 Bh5 11.Re1 Bg6 12.b3 Rd8 13.Na3 Qd5 14.bxc4 Bxc2 15.Qxc2 Nxc4 16.Rb1 Rd7 17.Qa4 Nb6 18.Qc2 e6 19.d4 Bxa3 20.Bxa3 Nc4 21.Qa4 Nxa3 22.Qxa3 Qa5 23.Qxa5 Nxa5 24.Rb5 b6 25.d5 Re7 26.dxe6 Rxe6 27.Rxe6+ fxe6 28.Re5 Kd7 29.Nd4 Re8 30.f4 Nc6 31.Nxc6 Kxc6 32.Kf2 Kd6 33.Ke3 Rc8 34.Ke4 1/2-1/2

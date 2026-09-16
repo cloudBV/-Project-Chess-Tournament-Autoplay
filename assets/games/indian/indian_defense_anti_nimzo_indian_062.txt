@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.24"]
+[Round "29.8"]
+[White "SerendipityHCE 0e3fd4a0"]
+[Black "c4ke 3.0"]
+[Result "0-1"]
+[WhiteElo "3066"]
+[BlackElo "3250"]
+[ECO "E10"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 d6 5.Nc3 Nbd7 6.Bd3 Be7 7.O-O b6 8.d5 exd5 9.cxd5 O-O 10.a4 Ng4 11.Qc2 g6 12.Nd2 f5 13.Be2 Bf6 14.Nb5 Nde5 15.a5 Ba6 16.axb6 axb6 17.Rxa6 Rxa6 18.h3 Nh6 19.Nc7 Qxc7 20.Bxa6 Qe7 21.Qb3 g5 22.Qxb6 g4 23.Be2 gxh3 24.g3 Nhg4 25.b4 Nd7 26.Qb5 Bc3 27.bxc5 Bxd2 28.Bxd2 Nxc5 29.Qb2 Re8 30.Bf3 Ne4 31.Qb4 Rc8 32.Bxe4 Qxe4 33.Qxe4 fxe4 34.Bb4 Rd8 35.Kh1 Kg7 36.Ba3 Kf6 37.Bb2+ Kg6 38.Ba3 Kf5 39.Rc1 Ke5 40.Bb2+ Kxd5 41.Kg1 Rf8 42.Rd1+ Kc4 43.Rd2 h2+ 44.Kh1 Rxf2 45.Rxf2 Nxf2+ 46.Kxh2 Ng4+ 47.Kg1 Nxe3 48.Ba3 d5 49.g4 Nc2 50.Bd6 d4 51.Kf2 e3+ 52.Kf3 d3 53.Kf4 d2 54.Kf5 d1=Q 55.Ke6 e2 56.Bg3 Qg1 57.Bh4 Qh2 58.Kd7 Qxh4 59.g5 Qxg5 60.Ke6 e1=Q+ 61.Kd7 Qee7+ 62.Kc8 Qg8# 0-1

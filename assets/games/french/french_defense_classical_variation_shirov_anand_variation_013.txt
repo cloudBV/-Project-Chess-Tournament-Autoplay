@@ -1,0 +1,15 @@
+[Event "Round 6: Zouaghi, Amir - Dobrosmyslov, Artem"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-6/axe6t87P/X8bKdwwU"]
+[Date "2026.07.10"]
+[Round "6.1"]
+[White "Zouaghi, Amir"]
+[Black "Dobrosmyslov, Artem"]
+[Result "0-1"]
+[WhiteElo "2374"]
+[BlackElo "2255"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 b5 8.a3 a5 9.Nf3 f6 10.f5 exf5 11.e6 Nb6 12.Nf4 c4 13.g3 Bd6 14.Nh4 O-O 15.Nxf5 Bxf4 16.Bxf4 Bxe6 17.g4 Ne7 18.Bh3 Qd7 19.Nxe7+ Qxe7 20.O-O h5 21.Bg2 Bxg4 22.Qc2 Qf7 23.h3 Be6 24.Rae1 Rfe8 25.Re3 Qd7 26.Qg6 Bf7 27.Qg3 Rxe3 28.Bxe3 Kh7 29.Kh1 Re8 30.Rg1 Bg6 31.Kh2 Qf7 32.Bc1 Re2 33.Qd6 Be4 34.Qg3 Qg6 35.Qxg6+ Kxg6 36.Kg3 Rxg2+ 37.Rxg2 Bxg2 38.Kxg2 Kf5 0-1

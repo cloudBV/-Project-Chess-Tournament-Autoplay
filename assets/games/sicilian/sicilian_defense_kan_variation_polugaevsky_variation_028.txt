@@ -1,0 +1,14 @@
+[Event "Round 6: Heinke, Jasper - Pfrommer, Christoph"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/AiKx8lQj"]
+[Date "2026.07.22"]
+[Round "7.17"]
+[White "Heinke, Jasper"]
+[Black "Pfrommer, Christoph"]
+[Result "1/2-1/2"]
+[WhiteElo "2064"]
+[BlackElo "2275"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Ne7 8.c4 d6 9.O-O Nbc6 10.Nc3 O-O 11.Be3 e5 12.Bxa7 Rxa7 13.Qe3 Be6 14.Rfd1 b6 15.Bf1 Rd7 16.Nd5 Nc8 17.Rd2 f6 18.Rad1 Rff7 19.Be2 Ra7 20.h3 Bxd5 21.cxd5 Nb8 22.Rc2 Rfc7 23.Rdc1 Rxc2 24.Rxc2 Rc7 25.Qc1 Rxc2 26.Qxc2 Ne7 27.a4 a5 28.Bb5 Nd7 29.Bxd7 Qxd7 30.Nd2 Kf7 31.Nc4 Nc8 32.Na3 Ke7 33.Kf1 Kd8 34.Ke2 h5 35.Kd3 f5 36.f3 fxe4+ 37.fxe4 Na7 38.Qb3 Kc7 39.Nc4 Nc8 40.Na3 Na7 41.Qc4+ Kb8 42.Nb5 Nxb5 43.axb5 Qf7 44.Qc6 Qf1+ 45.Kc3 Qc1+ 46.Kb3 Qd1+ 47.Ka3 Qa1+ 48.Kb3 Qd1+ 49.Ka3 Qa1+ 50.Kb3 Qd1+ 51.Ka3 1/2-1/2

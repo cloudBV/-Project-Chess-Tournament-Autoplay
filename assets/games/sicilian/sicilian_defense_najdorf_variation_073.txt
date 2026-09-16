@@ -1,0 +1,14 @@
+[Event "Round 3: Georgiadis, Nico - Toktomushev, Teimur"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-3/sP1LYdk1/4qmZyohR"]
+[Date "2026.07.13"]
+[Round "3.4"]
+[White "Georgiadis, Nico"]
+[Black "Toktomushev, Teimur"]
+[Result "1/2-1/2"]
+[WhiteElo "2529"]
+[BlackElo "2388"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e6 7.f4 Be7 8.Qf3 Qc7 9.g4 Nc6 10.Nxc6 bxc6 11.g5 Nd7 12.h4 c5 13.Bd2 Bb7 14.O-O-O O-O-O 15.Rhe1 Kb8 16.Bf1 Ka7 17.Kb1 g6 18.Qf2 Rhe8 19.f5 Bf8 20.Bf4 Nb6 21.f6 Bc6 22.Qh2 Rd7 23.Rd2 Red8 24.Red1 Na4 25.Nxa4 Bxa4 26.b3 Bc6 27.Bg2 Qb7 28.Bxd6 Bxd6 29.Rxd6 Rxd6 30.Rxd6 Qb8 31.e5 Rxd6 32.exd6 Bxg2 33.Qxg2 1/2-1/2

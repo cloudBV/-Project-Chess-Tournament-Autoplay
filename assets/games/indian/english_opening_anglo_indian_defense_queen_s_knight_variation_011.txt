@@ -1,0 +1,14 @@
+[Event "Round 2: Keyser, Robin - Hinrichs, Paul"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-2/LbONws5M/r7a740I5"]
+[Date "2026.07.20"]
+[Round "2.11"]
+[White "Keyser, Robin"]
+[Black "Hinrichs, Paul"]
+[Result "0-1"]
+[WhiteElo "2181"]
+[BlackElo "2307"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 c6 3.d4 d5 4.cxd5 cxd5 5.Nf3 Nc6 6.Bf4 a6 7.Ne5 Qb6 8.Nxc6 bxc6 9.a3 Qxb2 10.Na4 Qb5 11.f3 Nd7 12.Qc2 Qa5+ 13.Kf2 c5 14.e4 e5 15.dxe5 d4 16.Bc4 g5 17.Bg3 Bg7 18.Bd5 Rb8 19.e6 fxe6 20.Bxb8 exd5 21.Bd6 d3 22.Qd1 Bd4+ 23.Kg3 dxe4 24.fxe4 Nf6 25.Qxd3 Nh5+ 26.Kf3 Rf8+ 0-1

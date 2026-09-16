@@ -1,0 +1,15 @@
+[Event "Round 4: Jackson, James P - Gasanov, Eldar"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-4/96mqn1sv/fysLwAQN"]
+[Date "2026.07.23"]
+[Round "4.2"]
+[White "Jackson, James P"]
+[Black "Gasanov, Eldar"]
+[Result "0-1"]
+[WhiteElo "2381"]
+[BlackElo "2443"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 a6 4.Bg2 b5 5.b3 Bb7 6.O-O c5 7.Bb2 Be7 8.d3 d5 9.Nbd2 O-O 10.Rc1 bxc4 11.dxc4 d4 12.b4 Nbd7 13.bxc5 e5 14.c6 Bxc6 15.c5 Qc7 16.Nc4 Rab8 17.Ba1 Rb5 18.Nd6 Rxc5 19.Nf5 Bd8 20.Qd2 Ne4 21.Qb4 Bb5 22.Rxc5 Qxc5 23.Qxc5 Nexc5 24.Re1 g6 25.Nh6+ Kg7 26.Ng4 f6 27.e3 h5 28.Nxf6 Bxf6 29.exd4 exd4 30.Nxd4 Bc4 31.Rc1 Bxa2 32.Bh3 Rb8 33.Bc3 Rb1 34.Rxb1 Bxb1 35.Ne2 Bd3 0-1

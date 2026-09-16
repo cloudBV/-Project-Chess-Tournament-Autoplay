@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.5"]
+[White "Sowinski, Pawel"]
+[Black "Sniadecki, Oskar"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2109"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, with d6"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 d6 5.d3 Be7 6.h3 Be6 7.Nd2 Bxc4 8.dxc4 Bg5 9.Nf1 Bxc1 10.Rxc1 Nge7 11.Ne3 O-O 12.O-O f5 13.exf5 Nxf5 14.Nxf5 Rxf5 15.Ne4 Rf4 16.Qd5+ Kf8 17.g3 Nb4 18.Qxd6+ Qxd6 19.Nxd6 Rf6 20.Nxb7 Rc6 21.a3 Na6 22.Na5 Rd6 23.Rfe1 Re8 24.Nb3 Kf7 25.Re3 Kf6 26.Rce1 h5 27.Kg2 Ree6 28.R3e2 Kf5 29.Nd2 Rd4 30.b3 e4 31.Nf1 Nc7 32.Nd2 g5 33.c3 Rd3 34.Nxe4 Kg6 35.Nxc5 Rxe2 36.Rxe2 Rxc3 37.Re7 1-0

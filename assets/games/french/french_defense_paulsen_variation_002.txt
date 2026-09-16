@@ -1,0 +1,15 @@
+[Event "Round 8: Bin-Suhayl, Ieysaa - Eroz, Enis"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/F4WQTMpr"]
+[Date "2026.07.10"]
+[Round "8.20"]
+[White "Bin-Suhayl, Ieysaa"]
+[Black "Eroz, Enis"]
+[Result "1/2-1/2"]
+[WhiteElo "2305"]
+[BlackElo "2111"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Paulsen Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Be7 4.e5 c5 5.Qg4 g5 6.h4 h5 7.Qg3 g4 8.dxc5 Nd7 9.Nge2 Nxc5 10.Nd4 a6 11.Be2 Bd7 12.Bg5 Bxg5 13.hxg5 Qxg5 14.f4 Qg7 15.Qe3 Ne7 16.a4 f5 17.Ndb5 axb5 18.Qxc5 bxa4 19.Nb5 Kf7 20.Nd6+ Kg6 21.Nxb7 Nc6 22.Qc3 Qe7 23.Nd6 Rhb8 24.Kf2 Qd8 25.Qg3 Rxb2 26.Rxh5 Qb6+ 27.Kf1 Rb1+ 28.Rxb1 Qxb1+ 29.Kf2 Qb6+ 30.Kf1 Kxh5 31.Qh3+ Kg6 32.Bxg4 Qb1+ 33.Kf2 Qxc2+ 34.Be2 Qc5+ 35.Kg3 Qe3+ 36.Bf3 Rg8 37.Qh5+ Kg7 38.Qf7+ Kh8+ 39.Kh3 Nxe5 40.Qf6+ Kh7 41.Qh4+ Kg7 42.Qe7+ Kh8 43.Qh4+ Kg7 44.Qe7+ Kh8 45.Qh4+ Kg7 46.Qe7+ Kh6 47.Qh4+ Kg7 48.Qe7+ Kg6 49.Qg5+ Kh7 50.Qh4+ 1/2-1/2

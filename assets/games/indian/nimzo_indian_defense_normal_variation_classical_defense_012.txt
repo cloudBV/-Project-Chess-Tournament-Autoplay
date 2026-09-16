@@ -1,0 +1,14 @@
+[Event "Round 2: Kozak, Adam - El-Mais, Ibaa"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-2/Fqq497j0/qBmdWSOr"]
+[Date "2026.07.19"]
+[Round "2.4"]
+[White "Kozak, Adam"]
+[Black "El-Mais, Ibaa"]
+[Result "1-0"]
+[WhiteElo "2537"]
+[BlackElo "2012"]
+[ECO "E48"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bd6 7.Nf3 b6 8.O-O Bb7 9.b3 Nbd7 10.cxd5 exd5 11.Bb2 a6 12.Ne2 Ne4 13.Ne5 f6 14.Nxd7 Qxd7 15.f3 Ng5 16.Qd2 Rae8 17.Rae1 Qe7 18.Ng3 Bxa3 19.Bxa3 Qxa3 20.Qc2 h6 21.Qxc7 Qxb3 22.Bg6 Rc8 23.Qxb7 1-0

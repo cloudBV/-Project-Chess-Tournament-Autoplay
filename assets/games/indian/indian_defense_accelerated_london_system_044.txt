@@ -1,0 +1,14 @@
+[Event "Round 2: Durucay, Uygar - Enkhnar, Enkhbaatar"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/3VeBtv0e"]
+[Date "2026.07.14"]
+[Round "2.20"]
+[White "Durucay, Uygar"]
+[Black "Enkhnar, Enkhbaatar"]
+[Result "1/2-1/2"]
+[WhiteElo "2224"]
+[BlackElo "2397"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.c4 e6 5.Nc3 Be7 6.h3 O-O 7.Nf3 d5 8.Qc2 Nbd7 9.cxd5 exd5 10.Be2 c5 11.O-O Rc8 12.Rfd1 Ne4 13.dxc5 Rxc5 14.Qb3 Nxc3 15.bxc3 Qc8 16.Rac1 Nf6 17.Be5 Ne4 18.Bd4 Rc7 19.Be5 Bd6 20.Bxd6 Nxd6 21.Nd4 Rc5 22.Qa3 Ne4 23.Qxa7 Qc7 24.Ba6 Nd6 25.Bxb7 Ra5 26.Qxa5 bxa5 27.Bxd5 a4 28.c4 Qc5 29.Rc2 Rb8 30.Kh1 g6 31.e4 Kg7 32.f3 h5 33.Nc6 Re8 34.Nd4 Kh6 35.Re2 Kg7 36.Rc2 Rc8 37.Ne2 Rb8 38.Nd4 Rb6 39.Re2 h4 40.Red2 Kf8 41.f4 Rb8 42.Re2 Kg7 43.Rc2 Nc8 44.Nc6 Rb7 45.Ne5 Rc7 46.Nd3 Qd4 47.c5 Ne7 48.Nb2 Qe3 49.c6 f5 50.exf5 Nxf5 51.Nd3 Qd4 52.Bf3 Kh6 53.Ne5 Qxf4 54.Ng4+ Kg7 55.Rcd2 Ne7 56.Rd4 Qg3 57.Rd7 Kf8 58.Be4 Nf5 59.Nf6 Qe5 60.Rxc7 Qxc7 61.Rd7 Ng3+ 62.Kh2 Qf4 63.Nh7+ Kg8 64.Nf6+ Kf8 65.Nh7+ Kg8 66.Nf6+ Kf8 67.Nh7+ 1/2-1/2

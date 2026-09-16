@@ -1,0 +1,14 @@
+[Event "Round 7: Kesseler, Heiko - Juhnke, Juergen"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-7/ssrsMeYG/E0eAVxqJ"]
+[Date "2026.07.23"]
+[Round "7.8"]
+[White "Kesseler, Heiko"]
+[Black "Juhnke, Juergen"]
+[Result "1/2-1/2"]
+[WhiteElo "2101"]
+[BlackElo "2219"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.h3 Bxf3 9.Qxf3 e6 10.d3 Be7 11.Bg5 h6 12.Bxf6 Bxf6 13.Nd2 b5 14.Rac1 O-O 15.g3 Rc8 16.Bg2 d5 17.Qe2 c4 18.d4 b4 19.exd5 exd5 20.Qh5 Ne7 21.Nf3 Qa5 22.Ne5 Bxe5 23.Rxe5 Ng6 24.Re2 Qxa2 25.Bxd5 Kh7 26.cxb4 Qb3 27.Qf5 Qd3 28.Qf3 Qxd4 29.Qe4 Qd3 30.Rxc4 1/2-1/2

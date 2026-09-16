@@ -1,0 +1,15 @@
+[Event "Round 7: Tang, Andrew - So, Wesley"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/E13mdx6d"]
+[Date "2026.07.04"]
+[Round "7.9"]
+[White "Tang, Andrew"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteElo "2553"]
+[BlackElo "2772"]
+[ECO "D02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Qb6 5.b3 Bg4 6.Be2 Nc6 7.c3 e6 8.h3 Bh5 9.O-O Rc8 10.a4 a6 11.Nbd2 Be7 12.a5 Qd8 13.dxc5 Bxc5 14.b4 Be7 15.b5 axb5 16.Bxb5 O-O 17.a6 bxa6 18.Bxa6 e5 19.Bg5 e4 20.Bxf6 Bxf6 21.g4 exf3 22.Bxc8 Qxc8 23.gxh5 Bxc3 24.Qxf3 Bxd2 25.Rad1 Ne5 26.Qxd5 Bc3 27.Kg2 Bb2 28.Rb1 Qc2 29.Rbd1 Nc4 30.Qd3 Qa4 31.Qe4 Qb5 32.Rd5 Qc6 33.Rfd1 Bf6 34.h6 gxh6 35.Kh1 Kh8 36.Qf3 Ne5 37.Qe4 Ng6 38.R5d4 Qc8 39.Rd7 Ne5 40.Qf5 Nxd7 41.Rxd7 Bg7 42.Kg2 Qc6+ 43.Kh2 Qg6 44.Qf3 Rg8 45.Rd1 Be5+ 46.Kh1 Qf6 47.Qxf6+ Bxf6 48.Rd6 Bh4 49.Rd2 Rg6 50.Rc2 Kg7 51.Kh2 h5 52.e4 Bg5 53.Kg2 Rf6 54.Rc5 h6 55.Rd5 Bh4 56.f3 Rg6+ 57.Kh2 Rg5 58.Rd3 Bg3+ 59.Kh1 0-1

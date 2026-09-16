@@ -1,0 +1,14 @@
+[Event "Round 7: Rohrer, Christophe - Gloeckler, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/eqa9cXhz"]
+[Date "2026.07.19"]
+[Round "7.9"]
+[White "Rohrer, Christophe"]
+[Black "Gloeckler, Christian"]
+[Result "0-1"]
+[WhiteElo "2216"]
+[BlackElo "2513"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 e6 5.O-O Be7 6.Re1 O-O 7.Nbd2 Nc6 8.a4 a6 9.Bb3 Na5 10.Ba2 b5 11.axb5 axb5 12.c3 Bb7 13.d4 cxd4 14.cxd4 Nc6 15.Nb3 Nb4 16.Bb1 Rxa1 17.Nxa1 Qa8 18.Nb3 Bxe4 19.Bxe4 Nxe4 20.Qe2 Qd5 21.Qxe4 Qxb3 22.Qb7 Nd5 23.Nd2 Qb4 24.Re4 Bf6 25.Nf3 Qc4 26.Re1 Nb4 27.Be3 Nd3 28.Rb1 Qc2 29.Nd2 b4 30.Qe4 d5 31.Qf3 Nxb2 32.Ra1 b3 33.g4 Nc4 34.Nxc4 dxc4 35.g5 b2 36.Rf1 b1=Q 0-1

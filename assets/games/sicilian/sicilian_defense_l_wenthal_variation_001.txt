@@ -1,0 +1,14 @@
+[Event "Round 7: Honcharov, Makar - Andrle, Filip"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-7/7NEQFjwq/lMWRueQk"]
+[Date "2026.07.03"]
+[Round "7.7"]
+[White "Honcharov, Makar"]
+[Black "Andrle, Filip"]
+[Result "1-0"]
+[WhiteElo "2097"]
+[BlackElo "2169"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 a6 6.Nd6+ Bxd6 7.Qxd6 Qe7 8.Qd1 Nf6 9.Nc3 d6 10.Bc4 Be6 11.Bb3 O-O 12.h3 Rac8 13.O-O h6 14.Qd3 Rfd8 15.Nd5 Bxd5 16.exd5 Nb8 17.Be3 Nbd7 18.c4 Nc5 19.Qe2 Qd7 20.Bc2 b5 21.b4 Nb7 22.cxb5 Qxb5 23.Bd3 Qxd5 24.Bxa6 Rd7 25.Rfc1 Rxc1+ 26.Rxc1 Qe6 27.Qb5 Qe7 28.Rc8+ Kh7 29.Rb8 Nd8 30.Bb6 Ne6 31.Bc8 Qe8 32.Be3 Rd8 33.Qxe8 Rxe8 34.Ba7 Nd4 35.Bxd4 exd4 36.Bf5+ Kg8 37.Rxe8+ Nxe8 38.b5 Nc7 39.b6 Na6 40.Bd3 Nb4 41.Bb5 1-0

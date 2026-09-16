@@ -1,0 +1,15 @@
+[Event "Round 1: Mocic, Ivano - Fernandez Borrego, Pablo"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-1/0wHvOVlz/xxKcUHkJ"]
+[Date "2026.07.04"]
+[Round "1.6"]
+[White "Mocic, Ivano"]
+[Black "Fernandez Borrego, Pablo"]
+[Result "0-1"]
+[WhiteElo "2076"]
+[BlackElo "2359"]
+[ECO "A40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Bd3 Bb4+ 5.Nd2 f5 6.d5 fxe4 7.Bxe4 Nf6 8.Bf3 exd5 9.a3 Qe7+ 10.Ne2 Bxd2+ 11.Bxd2 Nc6 12.Bxd5 Nxd5 13.cxd5 Nd4 14.Bc3 Qxe2+ 15.Qxe2+ Nxe2 16.Kxe2 Bxd5 17.Bxg7 Rg8 18.Be5 O-O-O 19.Bg3 Bxg2 20.Rhc1 Rge8+ 21.Kd2 d6 22.Rc3 c5 23.Rg1 Bc6 24.Bh4 Rd7 25.Re3 Rf7 26.Rxe8+ Bxe8 27.Rg8 Kd7 28.Ke3 d5 29.f4 a5 30.Kf3 h5 31.Rg5 d4 32.Re5 Rf8 33.f5 Bf7 34.Kf4 Re8 35.Rxe8 Bxe8 36.Ke5 Bf7 37.Be1 d3 38.h4 b5 39.Bd2 b4 40.axb4 axb4 41.f6 Kc6 42.Ke4 Bg6+ 43.Ke3 Kd6 44.Kf4 Kd5 45.Kg5 Bf7 46.Kh6 Kc4 47.Kg7 Bd5 48.f7 Bxf7 49.Kxf7 Kb3 50.Kg6 c4 51.Kxh5 c3 52.bxc3 bxc3 53.Bf4 d2 54.Kg6 d1=Q 55.h5 c2 56.h6 Qg4+ 0-1

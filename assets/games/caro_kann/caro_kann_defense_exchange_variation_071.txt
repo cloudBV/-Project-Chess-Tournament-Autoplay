@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.19"]
+[White "Jin, Ruijun"]
+[Black "Fiedorek, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2356"]
+[ECO "B13"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Nf3 Nxd3+ 9.Qxd3 Bd6 10.O-O O-O 11.Bg5 h6 12.Bh4 Re8 13.Nbd2 Bd7 14.Nd4 Bf8 15.Rfe1 Qb6 16.Qc2 Rac8 17.Qb3 g5 18.Bg3 Bc5 19.Be5 Ne4 20.Nxe4 dxe4 21.Rxe4 Re7 22.Rae1 Rce8 23.Qxb6 Bxb6 24.R4e3 f5 25.Bd6 Rxe3 26.Rxe3 f4 27.Rxe8+ Bxe8 28.Nf5 Kh7 29.Bf8 h5 30.Nd6 Bc6 31.Nc8 Bd7 32.Nxb6 axb6 33.h4 Kg6 34.hxg5 Kxg5 35.f3 Bb5 36.Be7+ Kf5 37.Bd8 Bc4 38.b3 Bd3 39.Bxb6 Bb1 40.a3 Ba2 41.b4 Bc4 42.a4 Bb3 43.a5 Bc4 44.Kf2 Kg5 45.Bd8+ Kf5 46.Bc7 Kg5 47.g3 fxg3+ 48.Bxg3 h4 49.Bh2 Kf5 50.Ke3 Bd5 51.Kd4 Bxf3 52.Kc5 Ke4 53.c4 Kd3 54.b5 Kc3 55.a6 bxa6 56.bxa6 Ba8 57.a7 Kd3 58.Bg1 h3 59.Bh2 Kc3 60.Kb5 Kd4 61.Bg3 Bb7 62.Bf2+ Ke5 63.Kc5 Ke6 64.Bg3 Kd7 65.Kb6 Ba8 1/2-1/2

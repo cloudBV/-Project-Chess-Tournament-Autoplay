@@ -1,0 +1,14 @@
+[Event "Round 7: Syre, Christian - Namyslo, Holger"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-7/ssrsMeYG/1IMg1Hpr"]
+[Date "2026.07.23"]
+[Round "7.17"]
+[White "Syre, Christian"]
+[Black "Namyslo, Holger"]
+[Result "1-0"]
+[WhiteElo "2147"]
+[BlackElo "2033"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Qb6 5.Qb3 c4 6.Qc2 Bf5 7.Qxf5 Qxb2 8.Qxd5 Qxa1 9.Qb5 a6 10.Qxb7 Nd8 11.Qe4 g5 12.Bg3 Rc8 13.Qc2 h5 14.Nf3 Bg7 15.Be2 h4 16.O-O hxg3 17.Nbd2 gxf2+ 18.Kh1 Qxf1+ 19.Bxf1 e6 20.Nxc4 Kf8 21.Nxg5 Nf6 22.Nh3 Ng4 23.Nxf2 Nxh2 24.Be2 Nf1+ 25.Kg1 Ng3 26.Bd3 Nc6 27.Qd1 Ne7 28.Qf3 Ngf5 29.g4 Nh4 30.Qb7 Bf6 31.Ne4 Rh6 32.Ncd6 Rd8 33.Qc7 Ra8 34.Kf2 Rg6 35.c4 Kg7 36.Nxf6 Rxf6+ 37.Ke2 Neg6 38.Be4 Nf4+ 39.exf4 Rh8 40.g5 1-0

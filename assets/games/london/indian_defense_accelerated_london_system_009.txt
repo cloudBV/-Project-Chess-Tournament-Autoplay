@@ -1,0 +1,15 @@
+[Event "Round 2: Rosen, Eric - Ivanchuk, Vasyl"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/rGp0XW2B"]
+[Date "2026.07.03"]
+[Round "2.14"]
+[White "Rosen, Eric"]
+[Black "Ivanchuk, Vasyl"]
+[Result "0-1"]
+[WhiteElo "2348"]
+[BlackElo "2636"]
+[ECO "A45"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d6 3.Nc3 c6 4.e4 Qa5 5.Bd3 e5 6.Be3 Ng4 7.Ne2 Nxe3 8.fxe3 g6 9.O-O Bh6 10.Rf3 O-O 11.Qe1 Bg4 12.Rg3 Bxe2 13.Nxe2 Qxe1+ 14.Rxe1 Nd7 15.c3 b5 16.Rf3 a5 17.h4 Nb6 18.g4 f6 19.Ref1 Bg7 20.R1f2 a4 21.a3 Ra7 22.Ng3 Rc7 23.Bb1 c5 24.Ba2+ c4 25.d5 Nd7 26.Bb1 Nc5 27.Kf1 Rcf7 28.Ke2 Bh6 29.Bc2 Kg7 30.Rg2 Rb7 31.Nf1 Kf7 32.Nd2 Ke8 33.Nf1 Rbf7 34.Ng3 Rg8 35.Rgf2 Bf8 36.Rh2 Be7 37.Kf2 Bd8 38.Ke2 Bb6 39.Rhf2 Ke7 40.Rf1 Bd8 41.R1f2 Kd7 42.Rh2 Rfg7 43.Rh3 h5 44.gxh5 gxh5 45.Kf2 Rg4 46.Rf5 Nd3+ 47.Bxd3 cxd3 48.Rf3 f5 49.exf5 Bxh4 50.Rxh4 Rxh4 51.Nf1 Rhg4 52.f6 Rg2+ 53.Ke1 h4 54.e4 Re2+ 55.Kd1 Rxe4 56.f7 Rf8 57.Nd2 Rf4 58.Rxd3 R8xf7 59.Rh3 Rg7 60.Rh2 Rg3 61.Ke2 h3 62.Ke1 Rg1+ 0-1

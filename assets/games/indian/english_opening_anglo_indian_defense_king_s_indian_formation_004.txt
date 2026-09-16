@@ -1,0 +1,14 @@
+[Event "Open: Stone, Andrew M - Baker, Chris W"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/aEB5tuBj"]
+[Date "2026.07.04"]
+[Round "1.11"]
+[White "Stone, Andrew M"]
+[Black "Baker, Chris W"]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2154"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Re8 7.Nc3 Bd7 8.e4 e5 9.dxe5 dxe5 10.h3 Na6 11.Qe2 Nc5 12.Rd1 Qc8 13.Kh2 Nh5 14.Be3 Ne6 15.Qd2 Bc6 16.Nd5 b6 17.Rac1 Qb7 18.Qc2 1/2-1/2

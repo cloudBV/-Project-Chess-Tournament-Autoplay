@@ -1,0 +1,14 @@
+[Event "Round 4: Spyropoulos, Nikolaos - Patrelakis, Evaggelos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/owMUISl9"]
+[Date "2026.07.07"]
+[Round "4.3"]
+[White "Spyropoulos, Nikolaos"]
+[Black "Patrelakis, Evaggelos"]
+[Result "1-0"]
+[WhiteElo "2379"]
+[BlackElo "2461"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 g6 6.c4 Bg7 7.Nc3 Nc6 8.Nde2 O-O 9.O-O Ne5 10.b3 Nxd3 11.Qxd3 a6 12.a4 Bd7 13.Bg5 Bc6 14.Rac1 Nd7 15.Nd5 Nc5 16.Qc2 Re8 17.Rfd1 Rc8 18.Nec3 Nd7 19.Qd2 Nc5 20.Qc2 Nd7 21.Qb1 h6 22.Bh4 Nc5 23.f3 Bxc3 24.Rxc3 b5 25.Nxe7+ Rxe7 26.cxb5 g5 27.Bf2 Bxe4 28.Qc1 Bb7 29.Rxc5 dxc5 30.Rxd8+ Rxd8 31.Qc2 axb5 32.axb5 Red7 33.h3 Rd5 34.Qc4 Re5 35.Bg3 Rd1+ 36.Kh2 Red5 37.Qe2 Rd8 38.Bc7 R1d2 39.Qe3 R2d3 40.Qe7 R8d7 41.Qe8+ Kg7 42.Qb8 Bd5 43.Qc8 Re7 44.Qf5 Ree3 45.Be5+ Kf8 46.Qc8+ Ke7 47.Qxc5+ Ke8 48.Bd4 1-0

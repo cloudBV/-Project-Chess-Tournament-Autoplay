@@ -1,0 +1,15 @@
+[Event "Round 3: Hariharan, Shambavi - Verma, Aditya"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-3/w0bZokvS/2taR9cFl"]
+[Date "2026.07.22"]
+[Round "3.15"]
+[White "Hariharan, Shambavi"]
+[Black "Verma, Aditya"]
+[Result "1/2-1/2"]
+[WhiteElo "2025"]
+[BlackElo "2172"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 c6 8.O-O Nbd7 9.Bf4 Re8 10.Nbd2 h6 11.e4 dxe4 12.Nxe4 Nxe4 13.Qxe4 Nf6 14.Qe2 Qb6 15.h3 Bd7 16.Be3 a5 17.Ne5 Qa6 18.Qc2 Rac8 19.c5 Rcd8 20.Qa4 Nd5 21.Bd2 f6 22.Bxd5 exd5 23.Nxd7 Rxd7 24.Qxa5 Qd3 25.Qc3 Qf5 26.Rfe1 Qxh3 27.Re2 Rdd8 28.Rae1 Qd7 29.Qb3 Kf7 30.Bf4 Bf8 31.Rxe8 Rxe8 32.Rxe8 Kxe8 33.Qb6 Be7 34.a4 Bd8 35.Qb3 Qe7 36.Bd6 Qe1+ 37.Kg2 Qe4+ 38.Kg1 Qe1+ 39.Kg2 Qe4+ 40.Kg1 Qe1+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 8: Uzdemir, Ali Poyraz - Gudovanyi, Lev"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/7OlTtJhm"]
+[Date "2026.07.10"]
+[Round "8.14"]
+[White "Uzdemir, Ali Poyraz"]
+[Black "Gudovanyi, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2265"]
+[BlackElo "2151"]
+[ECO "B75"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Bc4 Bg7 9.O-O Bd7 10.Qe2 O-O 11.Rad1 Na5 12.Bd3 a6 13.Nd5 e5 14.Nxf6+ Bxf6 15.Nb3 Nxb3 16.cxb3 b5 17.Bb1 Be7 18.Qf2 Bh4 19.Qd2 Be7 20.f4 Bg4 21.Rde1 exf4 22.Bxf4 Re8 23.Bh6 Bh4 24.Rc1 Re5 25.Rc6 Bg5 26.Bxg5 Qxg5 27.Rxd6 Qxd2 28.Rxd2 Be6 29.Rd6 a5 30.Kf2 a4 31.b4 a3 32.b3 Bxb3 33.axb3 a2 34.Bxa2 Rxa2+ 35.Kf3 Rb2 36.Rfd1 Rxb3+ 37.Kf4 Re7 38.R6d4 Kg7 39.R1d3 Rb2 40.Rd2 Rb1 41.Rc2 Rf1+ 42.Ke3 f5 1/2-1/2

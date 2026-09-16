@@ -1,0 +1,15 @@
+[Event "Round 2: Dicen, Elis Denele - Shearsby, Jude"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-2/JpNu57P9/SJb73R3o"]
+[Date "2026.07.18"]
+[Round "2.4"]
+[White "Dicen, Elis Denele"]
+[Black "Shearsby, Jude"]
+[Result "1-0"]
+[WhiteElo "2091"]
+[BlackElo "2260"]
+[ECO "B00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzowitsch Defense: French Connection"]
+
+1.e4 Nc6 2.Nc3 e6 3.d4 Bb4 4.Nf3 d6 5.Bd3 e5 6.dxe5 dxe5 7.Bd2 Bg4 8.a3 Ba5 9.h3 Bh5 10.Bb5 Qd6 11.g4 Bg6 12.Qe2 a6 13.Bxc6+ bxc6 14.O-O-O Ne7 15.h4 h5 16.g5 Qe6 17.Na4 Bxd2+ 18.Nxd2 O-O 19.Nb3 Rfb8 20.Nac5 Qc8 21.Rd7 Qf8 22.Rhd1 a5 23.a4 Rd8 24.Rxc7 Rxd1+ 25.Qxd1 Rd8 26.Rd7 Rb8 27.f3 Nc8 28.Rd8 1-0

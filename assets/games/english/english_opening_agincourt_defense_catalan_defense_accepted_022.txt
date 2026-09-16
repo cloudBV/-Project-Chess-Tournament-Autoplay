@@ -1,0 +1,15 @@
+[Event "Round 3: Aaditya Dhingra - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-3/i95lKkbg/qwDlHs4J"]
+[Date "2026.07.21"]
+[Round "3.3"]
+[White "Aaditya Dhingra"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "0-1"]
+[WhiteElo "2404"]
+[BlackElo "2300"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 e6 2.g3 Nf6 3.c4 d5 4.Bg2 dxc4 5.Qa4+ c6 6.Qxc4 b5 7.Qc2 Bb7 8.a4 Nbd7 9.O-O a6 10.Nc3 Be7 11.d3 O-O 12.e4 b4 13.Nd1 Nc5 14.Ne1 b3 15.Qc3 Ncxe4 16.Qxb3 Nc5 17.Qc2 a5 18.Ne3 Nd5 19.Bd2 Na6 20.Nc4 Nab4 21.Bxb4 Nxb4 22.Qe2 Ba6 23.Rd1 Rb8 24.Nf3 c5 25.Nfe5 Qc7 26.f4 Bf6 27.Kh1 g6 28.g4 Bg7 29.h4 Rbd8 30.h5 Rd4 31.hxg6 hxg6 32.Be4 Bxe5 33.fxe5 Bxc4 34.dxc4 Qxe5 35.Rxd4 cxd4 36.Qf3 Kg7 37.Kg2 f5 38.Bb1 Rh8 39.Qb7+ Kf6 0-1

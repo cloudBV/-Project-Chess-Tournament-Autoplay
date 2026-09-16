@@ -1,0 +1,15 @@
+[Event "Round 5: Strand, Sixten - Prabu, Dananjey"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-5/pUKTxaHu/SlXMEhgs"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Strand, Sixten"]
+[Black "Prabu, Dananjey"]
+[Result "0-1"]
+[WhiteElo "2115"]
+[BlackElo "2129"]
+[ECO "A46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nc3 c6 4.e4 Qa5 5.Nd2 e5 6.dxe5 dxe5 7.Nc4 Qc7 8.Bg5 Nbd7 9.Ne3 h6 10.Bxf6 Nxf6 11.a3 Bc5 12.Bc4 Bxe3 13.fxe3 Bg4 14.Be2 Be6 15.O-O Qb6 16.Rf3 Ke7 17.Rg3 g5 18.Qe1 Rad8 19.Bd3 g4 20.Na4 Qc7 21.Qb4+ Qd6 22.Qxb7+ Rd7 23.Qb4 Nh5 24.Nc5 Rb8 25.Qc3 Rdd8 26.Nxe6 Qxe6 27.Bc4 Qg6 28.Qxe5+ Kf8 29.Rf1 Rb7 30.Qh8+ Ke7 31.Rxf7+ Qxf7 32.Qxd8+ Kxd8 33.Bxf7 Nxg3 34.Bg6 Ne2+ 35.Kf2 Nc1 36.b3 Rg7 37.Bf5 h5 38.e5 Rg5 39.e4 Ke7 40.Ke3 a5 41.Kd2 Na2 42.c3 a4 43.b4 c5 44.bxc5 Rg8 45.c6 Kd8 46.e6 Kc7 47.e7 Re8 48.Bd7 Rxe7 49.Bf5 Kxc6 50.Kc2 Rb7 51.e5 Kd5 52.Bc8 Rb3 53.e6 Kd6 54.Ba6 Nxc3 55.g3 Nd5 56.Bc4 Rc3+ 0-1

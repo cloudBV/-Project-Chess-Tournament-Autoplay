@@ -1,0 +1,15 @@
+[Event "Round 7: Valiyev, Shahin - Cera Dagariya"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-7/xdqcR2NI/a9yXsXII"]
+[Date "2026.07.02"]
+[Round "7.5"]
+[White "Valiyev, Shahin"]
+[Black "Cera Dagariya"]
+[Result "1-0"]
+[WhiteElo "2363"]
+[BlackElo "2026"]
+[ECO "B33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 a6 10.Na3 Be7 11.Be2 O-O 12.Bd2 f5 13.a5 Nd7 14.Nc4 Nf6 15.Bb4 Re8 16.Nb6 Rb8 17.c4 f4 18.Qb3 Kh8 19.O-O Bf5 20.Rfd1 e4 21.Bd2 e3 22.fxe3 Ne4 23.exf4 Bf6 24.Bb4 Nc5 25.Bxc5 Rxe2 26.Qf3 Rxb2 27.Bd4 Bxd4+ 28.Rxd4 Qf6 29.Rdd1 Re8 30.Re1 Qd4+ 31.Kh1 Rbe2 32.Rg1 R8e3 33.Rad1 Rxf3 34.Rxd4 Rff2 35.Rdd1 Be4 36.Rge1 Rxg2 37.Rxe2 Rxe2+ 38.Kg1 Rg2+ 39.Kf1 Rg4 40.Kf2 Rg2+ 41.Ke3 Bf5 42.c5 Rxh2 43.cxd6 Rh6 44.d7 Rd6 45.Rc1 Bxd7 46.Nxd7 h5 47.Nb6 Kh7 48.Ke4 Kg6 49.Ke5 Rd8 50.d6 1-0

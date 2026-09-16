@@ -1,0 +1,15 @@
+[Event "Round 2: Hambleton, Aman - Sindarov, Javokhir"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/PUI5o99H"]
+[Date "2026.07.04"]
+[Round "2.2"]
+[White "Hambleton, Aman"]
+[Black "Sindarov, Javokhir"]
+[Result "1-0"]
+[WhiteElo "2511"]
+[BlackElo "2680"]
+[ECO "A45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.h3 O-O 5.Nf3 d6 6.c3 b6 7.a4 a6 8.Bh2 Bb7 9.Be2 Nbd7 10.O-O Re8 11.Qb3 e5 12.Nbd2 Qe7 13.Rfd1 Rab8 14.Qa2 e4 15.Ne1 Kh8 16.Nc2 Ng8 17.a5 b5 18.c4 bxc4 19.Bxc4 f5 20.Nb4 Ra8 21.Bd5 Bxd5 22.Nxd5 Qd8 23.Rac1 Ra7 24.Qc4 c5 25.Nb3 cxd4 26.Nxd4 Rb7 27.Qxa6 Rxb2 28.Qxd6 Be5 29.Bxe5+ Nxe5 30.Qa3 Rxf2 31.Kxf2 Qxd5 32.Kg1 Nd3 33.Ra1 f4 34.Qc3 Qe5 35.exf4 Nxf4 36.Kh1 Nf6 37.a6 e3 38.a7 Qg5 39.Qc6 Kg7 40.a8=Q Rxa8 41.Rxa8 N6h5 42.Ra7+ Kh6 43.Qf3 Qe5 44.Ne2 1-0

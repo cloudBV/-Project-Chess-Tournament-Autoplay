@@ -1,0 +1,14 @@
+[Event "Round 2: Sochacki, Christophe - Krawczyk, Wojciech"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-2/ozps01TA/1TnTmTAk"]
+[Date "2026.07.19"]
+[Round "2.8"]
+[White "Sochacki, Christophe"]
+[Black "Krawczyk, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[BlackElo "2169"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.e5 d5 3.d4 Bf5 4.h4 h5 5.c4 e6 6.Nc3 Nd7 7.cxd5 cxd5 8.Bd3 Bxd3 9.Qxd3 a6 10.Nf3 Nb8 11.Bg5 Be7 12.O-O Bxg5 13.hxg5 Ne7 14.Rac1 g6 15.Na4 Nd7 16.Rc2 O-O 17.Rfc1 Qa5 18.Nc3 Rac8 19.g3 Rc4 20.Kg2 Nf5 21.Nd1 Rxc2 22.Rxc2 Nb8 23.Ne3 Nxe3+ 24.Qxe3 Qxa2 25.Rc1 Qxb2 26.g4 h4 27.Rh1 Rc8 28.Qf4 Rc2 29.Ne1 Rd2 30.Rxh4 Nd7 31.Nd3 Rxd3 32.Rh7 Kxh7 33.Qxf7+ Kh8 34.Qe8+ Kg7 35.Qxd7+ Kf8 36.Qd8+ Kg7 37.Qf6+ Kg8 38.Qxe6+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 7: Chylewski, Patryk - Polak, Tomas"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/7uoWwGBG"]
+[Date "2026.07.19"]
+[Round "7.6"]
+[White "Chylewski, Patryk"]
+[Black "Polak, Tomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2303"]
+[BlackElo "2443"]
+[ECO "E29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Bd3 Nc6 8.Ne2 b6 9.e4 Ne8 10.Be3 Ba6 11.dxc5 Ne5 12.cxb6 axb6 13.O-O Nd6 14.Bf4 Ndxc4 15.Bxe5 Nxe5 16.Bxa6 Rxa6 17.Qd4 Qc8 1/2-1/2

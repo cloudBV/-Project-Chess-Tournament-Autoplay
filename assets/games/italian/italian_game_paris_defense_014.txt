@@ -1,0 +1,15 @@
+[Event "Round 8: Aaditya Dhingra - Iskandarov, Misratdin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/ftaGMqSE"]
+[Date "2026.07.18"]
+[Round "8.3"]
+[White "Aaditya Dhingra"]
+[Black "Iskandarov, Misratdin"]
+[Result "1/2-1/2"]
+[WhiteElo "2404"]
+[BlackElo "2520"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 exd4 5.Nxd4 Nf6 6.Nc3 Be7 7.O-O O-O 8.Re1 Nxd4 9.Qxd4 Ng4 10.Nd5 Bh4 11.g3 Ne5 12.Be2 c6 13.Ne3 Bf6 14.Qd1 Re8 15.f4 Nd7 16.Bf3 Nc5 17.Nc4 Nxe4 18.Rxe4 Rxe4 19.Bxe4 d5 20.Bf3 dxc4 21.Qxd8+ Bxd8 22.Be3 Bb6 23.Bxb6 axb6 24.c3 Bf5 25.a3 Kf8 26.Be2 Bd3 27.Bxd3 cxd3 28.Rd1 Rd8 29.Kf2 c5 30.c4 b5 31.cxb5 c4 32.Ke3 Ke7 33.b3 cxb3 34.Rxd3 b2 35.Rb3 Ra8 36.Rxb2 Rxa3+ 37.Kd4 Kd6 38.Kc4 Ra4+ 39.Kb3 Re4 40.Rc2 h5 41.b6 h4 42.gxh4 Rxf4 43.Rc7 g6 44.Kc3 Rf5 45.Kc4 Rf1 46.Kb5 Rf5+ 47.Kc4 Rf1 48.Kb5 Rf5+ 1/2-1/2

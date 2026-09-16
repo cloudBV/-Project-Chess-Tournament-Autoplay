@@ -1,0 +1,14 @@
+[Event "Round 9: Pieri, Pierre-Louis - Minde, Timothe"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-9/b3iktfM7/3vSvhGqk"]
+[Date "2026.07.03"]
+[Round "9.14"]
+[White "Pieri, Pierre-Louis"]
+[Black "Minde, Timothe"]
+[Result "1-0"]
+[WhiteElo "2201"]
+[BlackElo "2045"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 Bb4+ 4.Bd2 c5 5.e3 Nc6 6.a3 Bxd2+ 7.Qxd2 d6 8.Nc3 O-O 9.Be2 e5 10.O-O Bg4 11.dxc5 dxc5 12.Qc2 Qc8 13.Nd5 Bf5 14.Bd3 Bxd3 15.Nxf6+ gxf6 16.Qxd3 Kh8 17.Rfd1 Qg4 18.Qd6 Qf5 19.Qxc5 Rg8 20.Ne1 Rac8 21.Qd5 Qg6 22.c5 e4 23.g3 Rce8 24.Rac1 Re5 25.Qd7 Rh5 26.Qxb7 Ne5 27.Rd4 f5 28.Qe7 Ng4 29.Rd6 f6 30.Rd8 Rxh2 31.Rxg8+ Kxg8 32.Rd1 Rh1+ 33.Kg2 Rh2+ 34.Kf1 Rxf2+ 35.Kg1 Rf1+ 36.Kxf1 Nxe3+ 37.Ke2 Qg4+ 38.Kxe3 Qxd1 39.Kf2 Qd2+ 40.Kf1 e3 41.Qe6+ Kg7 42.Qxf5 Qxb2 43.c6 e2+ 44.Kg2 Qc3 45.Qd7+ Kh6 46.Kf2 Qc5+ 47.Kxe2 Qc4+ 48.Nd3 Qe4+ 49.Kf2 Qa4 50.Qh3+ Kg7 51.Qd7+ Kh6 52.Qd6 Qc2+ 53.Ke3 Kg6 54.c7 Qc3 55.Qc5 Qa1 56.c8=Q Qg1+ 57.Nf2 Qxg3+ 58.Ke2 Qe5+ 59.Qxe5 fxe5 60.Ne4 h5 61.Qe6+ Kg7 62.Qf6+ Kg8 63.Qe7 a5 64.Nf6+ Kh8 65.Qh7# 1-0

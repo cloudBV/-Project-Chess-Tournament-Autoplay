@@ -1,0 +1,15 @@
+[Event "Round 7: Lisenkov, Svyatoslav - Shanava, Konstantine"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-7/ytNNRfaS/AHCGlxID"]
+[Date "2026.07.24"]
+[Round "7.2"]
+[White "Lisenkov, Svyatoslav"]
+[Black "Shanava, Konstantine"]
+[Result "1-0"]
+[WhiteElo "2336"]
+[BlackElo "2430"]
+[ECO "B66"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O Be7 10.Bxf6 gxf6 11.Bc4 h5 12.f4 Qa5 13.Rhe1 Rb8 14.Bb3 Bd7 15.Kb1 Qb4 16.a3 Qa5 17.Re3 Kf8 18.Rd3 Qc7 19.Rh3 Qb7 20.Qe2 h4 21.g3 f5 22.exf5 exf5 23.gxh4 Be6 24.h5 d5 25.h6 Bf6 26.h7 a5 27.Rh6 Bg7 28.Rxe6 fxe6 29.Qxe6 Bxc3 30.bxc3 Rxh7 31.Rg1 Rf7 32.Qd6+ Re7 33.Qg6 Rf7 34.Qd6+ Re7 35.a4 Qc7 36.Qg6 Rf7 37.Qg8+ Ke7 38.Re1+ Kd6 39.Qg6+ Kc5 40.Qg1+ Kd6 41.Qg6+ Kc5 42.Re6 Kb6 43.Bxd5 Ka7+ 44.Bb3 Rb6 45.Ka2 Rf8 46.Qg1 c5 47.Rxb6 Kxb6 48.Qg6+ Qc6 49.Qg7 Rc8 50.c4 Qe6 51.h4 Rg8 52.Qc3 Rg4 53.Qd2 Rxh4 54.Qd8+ Ka7 55.Qxh4 Qe4 56.Qh7+ Ka6 57.Qg6+ Ka7 58.Qg7+ Ka6 59.Qf6+ Ka7 60.Qc3 Ka6 61.Qd2 Qe7 62.c3 Qf6 63.Bc2 Kb6 64.Qd3 Ka6 65.Qxf5 Qxc3 66.Qd3 Qe1 67.Qd6+ Kb7 68.Qxc5 Ka6 69.Qd6+ Ka7 70.Qd4+ Ka6 71.c5 Kb7 72.Qe4+ 1-0

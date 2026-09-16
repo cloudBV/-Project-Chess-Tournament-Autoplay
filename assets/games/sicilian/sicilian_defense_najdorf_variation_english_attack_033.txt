@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.17"]
+[White "Montoliu Cervero, Francisco"]
+[Black "Gomez Anadon, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2176"]
+[ECO "B90"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f4 exf4 9.Bxf4 Nc6 10.Be2 Be7 11.Qd2 O-O 12.O-O-O Ne5 13.Kb1 Rc8 14.Qe3 Qc7 15.Rd2 Rfe8 16.Nd4 Qa5 17.Nb3 Qc7 18.h3 Bf8 19.g4 b5 20.Bxe5 dxe5 21.Nd5 Bxd5 22.exd5 e4 23.g5 Nd7 24.Bg4 Bd6 25.Rf1 Ne5 26.Bxc8 Nc4 27.Qe2 Qxc8 28.Rdd1 Qxh3 29.c3 Qe3 30.Qg2 Re5 31.Qg4 g6 32.Qc8+ Kg7 33.Qd7 Re7 34.Qg4 Re5 35.Qd7 Re7 36.Qg4 Re5 1/2-1/2

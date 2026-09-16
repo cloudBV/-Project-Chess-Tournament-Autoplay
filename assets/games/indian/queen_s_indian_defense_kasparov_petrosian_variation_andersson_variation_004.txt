@@ -1,0 +1,15 @@
+[Event "Round 5: Sanikidze, Tornike - Shapovalovi, Vasiko"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-5/UyYhtUBJ/RqhawluF"]
+[Date "2026.07.16"]
+[Round "5.10"]
+[White "Sanikidze, Tornike"]
+[Black "Shapovalovi, Vasiko"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2158"]
+[ECO "E12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 Ne4 6.Qc2 Nxc3 7.Qxc3 d6 8.e3 Nd7 9.Bd3 Be7 10.e4 a5 11.b3 e5 12.d5 O-O 13.O-O c6 14.Be3 cxd5 15.cxd5 f5 16.exf5 Bxd5 17.Bc4 Bxc4 18.Qxc4+ Kh8 19.Qe4 Qe8 20.b4 Qf7 21.Rfd1 axb4 22.axb4 Rxa1 23.Rxa1 d5 24.Qb1 d4 25.Bg5 Bxg5 26.Nxg5 Qxf5 27.Qxf5 Rxf5 28.Ra7 h6 29.Ne4 Rf4 30.Nd2 Nf6 31.g3 Rf5 32.Ra8+ Kh7 33.Rd8 Ng4 34.Ne4 Rf7 35.Rd6 Nf6 36.Nd2 Rc7 37.Nf3 Rd7 38.Rxb6 d3 39.Nd2 Rc7 40.Rd6 e4 41.h3 Rc2 42.Nf1 Rb2 43.f3 Rxb4 44.fxe4 Rxe4 45.Rxd3 1/2-1/2

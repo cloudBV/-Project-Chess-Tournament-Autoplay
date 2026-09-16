@@ -1,0 +1,14 @@
+[Event "Round 6: Hedin, Gunnar - Aroven, Mikael"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/pqOxNVbp"]
+[Date "2026.07.02"]
+[Round "6.24"]
+[White "Hedin, Gunnar"]
+[Black "Aroven, Mikael"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2084"]
+[ECO "E76"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Four Pawns Attack, Dynamic Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5 Bg4 8.Bd3 e6 9.h3 Bxf3 10.Qxf3 exd5 11.cxd5 a6 12.a4 Qc7 13.O-O c4 14.Bc2 Nbd7 15.Be3 Nc5 16.a5 Rac8 17.g4 h6 18.Kg2 Nd3 19.Bb6 Qe7 20.Bxd3 cxd3 21.Qxd3 h5 22.gxh5 Nxh5 23.Bd4 Bh6 24.Ne2 Rfe8 25.e5 Qh4 26.e6 f5 27.Rf3 Bxf4 28.Raf1 Be5 29.Qe3 Rc4 30.Bxe5 dxe5 31.Rxf5 gxf5 32.Rxf5 Nf4+ 33.Nxf4 Rxf4 34.Rxe5 Ref8 35.Qg3+ Qxg3+ 36.Kxg3 R8f5 37.Re3 Kf8 38.Rc3 Rd4 39.Rc8+ Ke7 40.Rc7+ Ke8 41.Rc8+ Ke7 42.Rc7+ Kd8 43.Rd7+ Ke8 44.d6 Re5 45.Re7+ Kd8 46.Rd7+ Kc8 47.Rc7+ Kb8 0-1

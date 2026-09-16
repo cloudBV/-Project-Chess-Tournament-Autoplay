@@ -1,0 +1,14 @@
+[Event "Round 4: Tueckmantel, Rene - Baumhackel, Mario"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-4/BibKTVzv/LJw2YBt2"]
+[Date "2026.07.20"]
+[Round "4.12"]
+[White "Tueckmantel, Rene"]
+[Black "Baumhackel, Mario"]
+[Result "1/2-1/2"]
+[WhiteElo "2044"]
+[BlackElo "2116"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Ba5 4.Nf3 c6 5.Nc3 Qe7 6.Qc2 d6 7.d3 f5 8.e3 Nf6 9.Bd2 Na6 10.a3 Bd7 11.Be2 O-O 12.O-O Bc7 13.d4 Kh8 14.c5 exd4 15.cxd6 Qxd6 16.exd4 b5 17.g3 Nd5 18.Ne5 Be6 19.Bf3 Rac8 20.b4 Bb6 21.Qd3 Nb8 22.Ne2 Nd7 23.Nxd7 Bxd7 24.Rad1 Rcd8 25.Nf4 Nf6 26.Bc3 Rfe8 27.Rfe1 a6 28.h4 Rxe1+ 29.Rxe1 Re8 30.Rxe8+ Nxe8 31.Qe3 Nf6 32.Qe5 Bc7 33.Qxd6 Bxd6 34.Nd3 Kg8 35.Ne5 Bxe5 36.dxe5 Ne8 37.e6 Bxe6 38.Bxc6 Nd6 39.a4 bxa4 1/2-1/2

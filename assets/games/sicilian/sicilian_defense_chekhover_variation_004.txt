@@ -1,0 +1,15 @@
+[Event "Round 8: Oz, Ege - Preobrazhenskaya, Diana"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/AyqhrAU6"]
+[Date "2026.07.04"]
+[Round "8.40"]
+[White "Oz, Ege"]
+[Black "Preobrazhenskaya, Diana"]
+[Result "1-0"]
+[WhiteElo "2120"]
+[BlackElo "2278"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.Bxc6 Bxc6 8.Bg5 e6 9.O-O-O Be7 10.Rhe1 Qa5 11.Bxf6 Bxf6 12.Qxd6 Rd8 13.Qg3 Bxc3 14.Rxd8+ Qxd8 15.bxc3 O-O 16.Qe5 Qb6 17.Qd4 Qa5 18.Kb2 Rd8 19.Qb4 Qc7 20.Qc5 b6 21.Qe5 Qb7 22.Nd4 b5 23.Re3 Be8 24.Rg3 g6 25.h4 b4 26.c4 Qa6 27.Qf6 Rc8 28.Nf5 Qa3+ 29.Rxa3 bxa3+ 30.Kxa3 exf5 31.exf5 gxf5 32.h5 Rc6 33.Qg5+ Kf8 34.h6 Rg6 35.Qxf5 Rxh6 36.Qc5+ Kg8 37.Qxa7 Rc6 38.Kb4 Rc8 39.Qb7 Rd8 40.a4 Rd1 41.Qe4 Rb1+ 42.Kc5 Kf8 43.a5 Ra1 44.Kb6 Rb1+ 45.Kc7 Ra1 46.Qe5 Rd1 47.a6 Rd7+ 48.Kb6 Rd8 49.Qc5+ 1-0

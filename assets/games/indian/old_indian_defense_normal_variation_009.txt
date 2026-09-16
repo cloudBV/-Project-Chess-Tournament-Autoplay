@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.2"]
+[White "Pechac, Jergus"]
+[Black "Yelisieiev, Yevhenii"]
+[Result "1-0"]
+[WhiteElo "2563"]
+[BlackElo "2402"]
+[ECO "A55"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Normal Variation"]
+
+1.Nf3 d6 2.d4 Nf6 3.c4 Nbd7 4.Nc3 e5 5.e4 Be7 6.Be2 O-O 7.O-O c6 8.Qc2 a6 9.Be3 b5 10.Rad1 Qc7 11.h3 b4 12.Na4 c5 13.d5 Ne8 14.Ne1 g6 15.Nd3 f5 16.exf5 gxf5 17.f4 e4 18.Nf2 Ndf6 19.g4 Kh8 20.Kh2 Rg8 21.Rg1 Bf8 22.g5 Nd7 23.Bh5 Bg7 24.Bf7 Rf8 25.Be6 Nb6 26.Nxb6 Qxb6 27.Nxe4 b3 28.axb3 fxe4 29.Qxe4 Qxb3 30.Rd3 Qxb2+ 31.Rd2 Qc3 32.Rg4 Bd4 33.Rxd4 Ng7 34.Rd3 Qc2+ 35.Rg2 Qb1 36.g6 Bxe6 37.dxe6 Rae8 38.f5 Rxf5 39.Bh6 Qf1 40.Bxg7+ Kxg7 41.Qb7+ Kf6 42.Qf7+ Ke5 43.Rd5+ Ke4 44.Rxf5 Qxf5 45.Re2+ 1-0

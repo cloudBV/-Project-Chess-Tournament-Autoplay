@@ -1,0 +1,15 @@
+[Event "Round 2: Dong, Kyle Qiyu - Pyrih, Roman"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-2/MjzRlbHj/gBXdXrA7"]
+[Date "2026.07.16"]
+[Round "2.15"]
+[White "Dong, Kyle Qiyu"]
+[Black "Pyrih, Roman"]
+[Result "0-1"]
+[WhiteElo "2108"]
+[BlackElo "2390"]
+[ECO "A20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 f5 4.Nc3 Nf6 5.Rb1 a5 6.a3 Bc5 7.d3 O-O 8.Nf3 d6 9.O-O h6 10.e3 Ba7 11.d4 Ne4 12.Nb5 Bb8 13.Qc2 Qf6 14.b3 Nd8 15.dxe5 dxe5 16.Bb2 c6 17.Nc3 Nxc3 18.Qxc3 Nf7 19.Rbd1 Re8 20.c5 a4 21.b4 Be6 22.Nd2 Bc7 23.Qc2 Qe7 24.Qc3 Rad8 25.e4 Rd7 26.exf5 Bxf5 27.Ne4 Red8 28.Qc2 Ng5 29.Rxd7 Qxd7 30.Re1 Nh3+ 31.Kh1 Qd3 32.Qxd3 Rxd3 33.Bf1 Rd1 34.Rxd1 Bxe4+ 35.f3 Bxf3+ 36.Bg2 Nf2+ 0-1

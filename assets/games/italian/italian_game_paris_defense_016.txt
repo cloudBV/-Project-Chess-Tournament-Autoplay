@@ -1,0 +1,15 @@
+[Event "Round 7: Kroulik, Vaclav - Janous, Marek"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/hWGQwact"]
+[Date "2026.07.19"]
+[Round "7.31"]
+[White "Kroulik, Vaclav"]
+[Black "Janous, Marek"]
+[Result "0-1"]
+[WhiteElo "2132"]
+[BlackElo "2291"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 Bg4 5.h3 Bxf3 6.Qxf3 Qf6 7.Qb3 O-O-O 8.d5 Na5 9.Qc3 Nxc4 10.Qxc4 Qg6 11.O-O f5 12.exf5 Qxf5 13.Nc3 a6 14.b4 Nf6 15.b5 axb5 16.Nxb5 Rd7 17.Na7+ Kd8 18.Qb5 g5 19.Qxb7 Ke8 20.Nc6 Kf7 21.a4 g4 22.h4 Be7 23.a5 Nxd5 24.Nb8 Rxb8 25.Qxb8 Kg7 26.a6 Nc3 27.Re1 Bxh4 28.Be3 Rf7 29.g3 Bxg3 30.fxg3 Qf3 31.Qb7 d5 32.Kh2 Ne4 33.Rg1 Qxe3 34.Rg2 Rf5 35.Qxc7+ Kg6 36.Qe7 Nf6 37.Kh1 Rh5+ 38.Rh2 Qf3+ 39.Kg1 Qxg3+ 40.Rg2 Qe3+ 41.Rf2 Rf5 42.Rf1 g3 0-1

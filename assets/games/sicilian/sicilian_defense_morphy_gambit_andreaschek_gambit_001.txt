@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "3.8"]
+[White "Mach, Petr"]
+[Black "Babula, Matej"]
+[Result "0-1"]
+[WhiteElo "2124"]
+[BlackElo "2119"]
+[ECO "B21"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Morphy Gambit, Andreaschek Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3 Nc6 5.Bc4 Nf6 6.O-O Bc5 7.cxd4 exd4 8.e5 d5 9.Bb5 Ne4 10.Nxd4 Qb6 11.Nxc6 Qxb5 12.Nd4 Qb6 13.Be3 Qxb2 14.f3 Qxa1 15.fxe4 O-O 16.exd5 Qxa2 17.Nc3 Qc4 18.Qd2 Bb4 19.Nde2 Bg4 20.Rf4 Bxc3 21.Nxc3 Qc8 22.Bd4 Bh5 23.Qf2 b5 24.g4 Bg6 25.Nxb5 Qc1+ 26.Kg2 Rab8 27.Nxa7 Rb1 28.Nc6 Be4+ 29.Kg3 Rb3+ 30.Kh4 Bg2 31.Ne7+ Kh8 32.Rxf7 Rh3# 0-1

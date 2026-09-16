@@ -1,0 +1,15 @@
+[Event "Round 1: Crump, Alexander J - Hess, Robert"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/pL5fhtEH"]
+[Date "2026.07.03"]
+[Round "1.26"]
+[White "Crump, Alexander J"]
+[Black "Hess, Robert"]
+[Result "0-1"]
+[WhiteElo "2090"]
+[BlackElo "2621"]
+[ECO "A53"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Czech Variation, with Nf3"]
+
+1.Nf3 d6 2.d4 c6 3.c4 Nf6 4.Nc3 Qc7 5.g3 e5 6.Bg2 Be7 7.O-O a6 8.a4 a5 9.b3 O-O 10.Bb2 Re8 11.e3 Na6 12.Rc1 Bg4 13.h3 Bh5 14.g4 Bg6 15.Nh4 exd4 16.exd4 Qb6 17.Nxg6 hxg6 18.Ba3 Nd7 19.Ne4 Nb4 20.Qd2 d5 21.Nc3 dxc4 22.bxc4 Rad8 23.Rfd1 Nf8 24.Bb2 Ne6 25.Ne4 Nd3 26.Qxd3 Qxb2 27.d5 Nf4 28.Qc2 Ne6 29.Qd3 Nf4 30.Qc2 Qe5 31.dxc6 bxc6 32.Rxd8 Bxd8 33.Ng3 Bh4 34.Bf1 Rf8 35.Bg2 Re8 36.Bf1 Bxg3 37.fxg3 Qe3+ 38.Kh2 Rd8 39.gxf4 Rd2+ 40.Bg2 Qxf4+ 41.Kh1 Rxc2 42.Rxc2 Qd4 43.Rc1 c5 44.Bd5 Qe3 45.Rf1 Qxh3+ 46.Kg1 Qxg4+ 47.Kh2 Qd7 48.Kg2 Kf8 49.Rf2 g5 50.Kg3 f5 51.Re2 f4+ 52.Kf3 Qh3+ 53.Ke4 g6 54.Ke5 Ke7 0-1

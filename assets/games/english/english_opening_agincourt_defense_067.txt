@@ -1,0 +1,15 @@
+[Event "Round 2: Bastar Vyprachticky, David - Lindstad, Livia"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/4oSlmKTK"]
+[Date "2026.07.17"]
+[Round "2.19"]
+[White "Bastar Vyprachticky, David"]
+[Black "Lindstad, Livia"]
+[Result "1-0"]
+[WhiteElo "2299"]
+[BlackElo "2014"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 f5 3.g3 Nf6 4.Bg2 d5 5.d4 Be7 6.Nh3 O-O 7.Nf4 dxc4 8.O-O c5 9.d5 e5 10.Ne6 Bxe6 11.dxe6 Nc6 12.Qa4 e4 13.Rd1 Qc8 14.Qxc4 a6 15.Bg5 b5 16.Qb3 Nd4 17.Rxd4 cxd4 18.Bxf6 Bxf6 19.Nd5 Qxe6 20.Ne7+ Kf7 21.Nxf5 Qxb3 22.axb3 Ke6 23.Bxe4 Ra7 24.Rc1 g6 25.Rc6+ Kd7 26.Rd6+ Kc7 27.Rc6+ Kd7 28.Rd6+ Kc8 29.Rc6+ Rc7 30.Nd6+ Kd7 31.Rxa6 b4 32.Nc4 Ke7 33.Nb6 Kf7 34.Nd5 Rc1+ 35.Kg2 Kg7 36.Nxb4 Re1 37.Bd3 Rb8 38.Nd5 Bd8 39.b4 Rc1 40.b3 Rb7 41.Bc4 Be7 42.b5 Rc2 43.Rc6 Ra2 44.b6 Ra8 45.Rc7 Rxc7 46.bxc7 Bd6 47.Nb6 Bxc7 48.Nxa8 Bd8 49.Kf3 Kf6 50.Ke4 Ke7 51.Kxd4 Kd6 52.Bd5 Ba5 53.e4 Be1 54.e5+ Ke7 55.f4 Bf2+ 56.Ke4 Kd7 57.b4 Bg1 58.h3 Bf2 59.g4 h6 60.f5 1-0

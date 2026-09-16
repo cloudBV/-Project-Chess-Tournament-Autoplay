@@ -1,0 +1,15 @@
+[Event "Round 8: Talibov, Shiroghlan - Rasulov, Vugar"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/D6JnCUpK"]
+[Date "2026.07.18"]
+[Round "8.2"]
+[White "Talibov, Shiroghlan"]
+[Black "Rasulov, Vugar"]
+[Result "0-1"]
+[WhiteElo "2471"]
+[BlackElo "2538"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.f3 Be7 9.O-O-O b5 10.g4 O-O 11.g5 Nh5 12.Nce2 Nxd4 13.Nxd4 Bb7 14.Bh3 Rac8 15.Bg4 g6 16.Bxh5 gxh5 17.Rhe1 Rfd8 18.Kb1 Bf8 19.Bf2 e5 20.Nf5 d5 21.Nh6+ Kg7 22.Qe2 Qc4 23.exd5 Qxe2 24.Rxe2 Rxd5 25.Rxd5 Bxd5 26.Rxe5 Bxf3 27.Bd4 Kg6 28.Nf5 f6 29.Nh4+ Kf7 30.Re1 Bg4 31.Rf1 Re8 32.c3 Kg8 33.gxf6 Kf7 34.Rh1 Bh6 35.h3 Bd7 36.a4 bxa4 37.Nf3 Bc6 38.Rf1 Bf4 39.Nh4 Re4 40.Nf3 Re8 41.Nh4 Bd6 42.Nf5 Bf8 43.Ne3 Bd7 44.Rf3 Be6 45.Kc2 Rb8 46.c4 Rc8 47.Kd3 Rb8 48.Kc2 Rb7 49.h4 Rd7 50.Bc3 Rd8 51.Rf1 Rc8 52.Kd3 Bc5 53.Ra1 Rd8+ 54.Nd5 Bf5+ 55.Kd2 Bd7 56.Bb4 Bd4 57.Bc3 Bf2 58.Rh1 Be6 59.Ke2 Bc5 60.Ra1 Bd7 61.Bb4 Bg4+ 62.Kf1 Rxd5 63.cxd5 Bxb4 64.Rxa4 a5 65.Ra1 Kxf6 66.Rc1 Ke5 67.Rc7 Kxd5 68.Kf2 Kd4 69.Rxh7 Kc4 0-1

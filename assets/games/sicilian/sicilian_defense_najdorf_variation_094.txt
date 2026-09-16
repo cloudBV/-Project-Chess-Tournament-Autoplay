@@ -1,0 +1,14 @@
+[Event "Round 7: Peng, Li Min - Federer, Colin"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-7/IK4Cx0nV/IAeqyc0R"]
+[Date "2026.06.03"]
+[Round "7.1"]
+[White "Peng, Li Min"]
+[Black "Federer, Colin"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2337"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h4 e5 7.Nb3 Be6 8.f4 g6 9.Be2 Be7 10.h5 Nxh5 11.Bxh5 Bh4+ 12.Kf1 gxh5 13.Qxh5 Bc4+ 14.Ne2 Bf6 15.Nd2 Bxe2+ 16.Qxe2 exf4 17.Nc4 Be5 18.a4 Nd7 19.Bd2 Rc8 20.Rd1 Qf6 21.b3 Qg6 22.Rh4 h5 23.Rxf4 Bxf4 24.Bxf4 Rxc4 25.Qxc4 O-O 26.Rxd6 Qg4 27.e5 h4 28.Bh6 Qf5+ 29.Qf4 Qxf4+ 30.Bxf4 Nc5 31.Be3 Ne6 32.Rb6 Rc8 33.c4 Rc7 34.Ke2 Kg7 35.Kf3 Kg6 36.Kg4 Rd7 37.Rd6 Re7 38.Bg5 Rc7 39.Bxh4 b5 40.cxb5 axb5 41.a5 Rc2 42.a6 Rxg2+ 43.Bg3 Ra2 44.Bf4 f5+ 45.Kf3 Kf7 46.Be3 Ke7 47.a7 f4 48.Bg1 Ng5+ 49.Kg4 Nf7 50.Rd2 Nxe5+ 51.Kf5 1-0

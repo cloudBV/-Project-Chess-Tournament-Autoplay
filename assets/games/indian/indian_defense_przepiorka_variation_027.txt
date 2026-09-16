@@ -1,0 +1,14 @@
+[Event "Round 8: Vlasov, Igor - Lindam, Ingo"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-8/1J1DUZFK/t8DCDpJh"]
+[Date "2026.07.24"]
+[Round "8.9"]
+[White "Vlasov, Igor"]
+[Black "Lindam, Ingo"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2079"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 d5 7.Re1 c6 8.e4 Nxe4 9.Nxe4 dxe4 10.Rxe4 Nd7 11.Bg5 Nf6 12.Re1 h6 13.Bf4 Bf5 14.c3 Nd5 15.Bd2 a5 16.Ne5 a4 17.c4 Nb6 18.Bb4 f6 19.Nf3 Re8 20.Nh4 Nxc4 21.Nxf5 gxf5 22.Qc2 Nd6 23.d5 c5 24.Qxc5 Rc8 25.Qe3 Qd7 26.Bh3 Qb5 27.Qe6+ Kh8 28.a3 Rcd8 29.Rac1 Ne4 30.Qxf5 Ng5 31.Bg2 e6 32.Qg6 exd5 33.Re7 Rxe7 34.Bxe7 Qe8 35.Qxe8+ Rxe8 36.Rc7 d4 37.Bf1 Nf3+ 38.Kg2 Ne1+ 39.Kh3 d3 40.Rd7 d2 41.Bb4 f5 42.Rxd2 Nf3 43.Rc2 Nd4 44.Rc7 Ne6 45.Rxb7 Bxb2 46.Bb5 Ng5+ 47.Kg2 Rd8 48.Bxa4 f4 49.gxf4 Ne6 50.Be7 Rd2 51.Rxb2 1-0

@@ -1,0 +1,15 @@
+[Event "Round 2: Song, Julien - Mishra, Prateek"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/geLGPWO5"]
+[Date "2026.07.04"]
+[Round "2.16"]
+[White "Song, Julien"]
+[Black "Mishra, Prateek"]
+[Result "0-1"]
+[WhiteElo "2227"]
+[BlackElo "2130"]
+[ECO "E11"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 c6 7.O-O Nbd7 8.Qc2 b6 9.Bf4 Bb7 10.Nbd2 Rc8 11.e4 dxe4 12.Nxe4 Nxe4 13.Qxe4 Nf6 14.Qe2 c5 15.Rfd1 Bxf3 16.Bxf3 cxd4 17.Be5 Bc5 18.Bb7 Rc7 19.Bxc7 Qxc7 20.Bg2 O-O 21.a3 a5 22.Kh1 h6 23.f4 Re8 24.Re1 d3 25.Qxd3 Ng4 26.Re2 Nf2+ 27.Rxf2 Bxf2 28.Rd1 Rc8 29.Be4 f5 30.Bf3 Qxc4 31.Qd7 Rc7 32.Qe8+ Kh7 33.Bh5 Qe4+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 8: Lumachi, Gabriele - Pijpers, Arthur"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/vI5e92qh"]
+[Date "2026.07.10"]
+[Round "8.1"]
+[White "Lumachi, Gabriele"]
+[Black "Pijpers, Arthur"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2486"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 g6 4.e4 Nc6 5.d4 cxd4 6.Nxd4 Nxd4 7.Qxd4 d6 8.Be2 Bg7 9.Be3 O-O 10.Qd1 Bd7 1/2-1/2

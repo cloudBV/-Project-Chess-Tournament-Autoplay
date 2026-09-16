@@ -1,0 +1,15 @@
+[Event "Round 2: Temizer, Umut - Eminov, Orkhan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/vbfRcVpt"]
+[Date "2026.07.14"]
+[Round "2.16"]
+[White "Temizer, Umut"]
+[Black "Eminov, Orkhan"]
+[Result "0-1"]
+[WhiteElo "2084"]
+[BlackElo "2227"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nd5 Nge7 9.c4 Nxd5 10.exd5 Nd4 11.cxb5 g6 12.Bd3 Bg7 13.O-O O-O 14.bxa6 e4 15.Bxe4 Qh4 16.f4 Bg4 17.Bf3 Bxf3 18.gxf3 Rfe8 19.Rf2 Re1+ 20.Qxe1 Nxf3+ 21.Rxf3 Qxe1+ 22.Kg2 Bd4 23.Be3 Qe2+ 24.Bf2 Qxb2 25.Rf1 Rxa6 26.Nc4 Qxa2 27.Rc1 Qe2 28.Ne3 Ra2 29.Rc8+ Kg7 30.Re8 Qb5 31.Re4 Bxe3 32.Rexe3 Qxd5 33.Kg3 h5 34.h3 g5 35.Re1 h4+ 36.Kg2 Ra3 37.Re3 Rxe3 38.Bxe3 g4 39.hxg4 h3+ 40.Kg3 h2 41.Bd4+ Kg8 42.Rc3 Qxd4 43.Rc8+ Kg7 44.Kxh2 Qxf4+ 45.Kh3 Qf3+ 46.Kh4 d5 47.g5 d4 48.Re8 d3 0-1

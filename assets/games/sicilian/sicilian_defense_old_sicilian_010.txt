@@ -1,0 +1,15 @@
+[Event "Round 4: Petriashvili, Nikoloz - Sanchez Saez, Francisco"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-4/1lzdeHzB/FMH8R3su"]
+[Date "2026.07.07"]
+[Round "4.7"]
+[White "Petriashvili, Nikoloz"]
+[Black "Sanchez Saez, Francisco"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2273"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.Bb5 Bg7 5.O-O Nf6 6.Re1 O-O 7.e5 Ng4 8.Bxc6 dxc6 9.d3 b6 10.Bf4 Nh6 11.Qd2 Nf5 12.Ne2 Nd4 13.Nfxd4 cxd4 14.Bh6 Bxe5 15.Bxf8 Qxf8 16.c3 dxc3 17.bxc3 Qg7 18.d4 Bc7 19.Qg5 f6 20.Qe3 Bd7 21.c4 Re8 22.Rad1 Qf7 23.d5 c5 24.Nf4 Be5 25.h4 Bg4 26.Rd2 h6 27.Ne6 Bxe6 28.dxe6 Qxe6 29.Qe4 Qf7 30.Rd7 a5 31.g3 Kg7 32.f4 Bd4+ 33.Kg2 Kf8 34.Qe6 Qh7 35.a4 Qf7 36.Re2 f5 37.Rb7 Qxe6 38.Rxe6 Bf6 39.Rexb6 Kf7 40.Rd7 g5 41.hxg5 hxg5 42.Rd5 e6 43.Rxc5 Bd4 44.Rc7+ Kf6 45.Rd6 Bc3 46.c5 Rb8 47.Rcc6 Rb2+ 48.Kf3 g4+ 49.Ke3 Rg2 50.Rxe6+ Kf7 51.Red6 Rxg3+ 52.Ke2 Rg2+ 53.Kd3 Rg3+ 54.Kc4 Re3 55.Rc7+ Ke8 56.Ra6 Kd8 57.Rh7 1-0

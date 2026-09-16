@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "3.5"]
+[White "Valenzuela Gomez, Fernando"]
+[Black "Plasencia Martinez, Victor"]
+[Result "0-1"]
+[WhiteElo "2407"]
+[BlackElo "2166"]
+[ECO "B57"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Sozin Attack"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Bd7 7.Be3 Rc8 8.Bb3 a6 9.Qe2 e6 10.Nxc6 Bxc6 11.f3 Be7 12.O-O-O Qc7 13.g4 O-O 14.g5 Nd7 15.h4 Nc5 16.h5 Nxb3+ 17.axb3 f5 18.Rhg1 fxe4 19.fxe4 b5 20.Qg4 Bd7 21.Rg2 b4 22.Na4 e5 23.Qe2 Bxa4 24.bxa4 b3 25.Qxa6 bxc2 26.Rdd2 Ra8 27.Qb5 Rab8 28.Qd5+ Kh8 29.Rxc2 Rf1+ 30.Kd2 Qd7 31.Qd3 Rbf8 32.b3 Qh3 33.Re2 d5 34.exd5 Bb4+ 35.Rc3 Rc8 36.Bc5 Bxc3+ 37.Qxc3 Qxc3+ 38.Kxc3 Rxc5+ 39.Kb4 Rxd5 40.a5 Rf4+ 0-1

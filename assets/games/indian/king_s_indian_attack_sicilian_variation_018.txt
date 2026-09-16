@@ -1,0 +1,15 @@
+[Event "Round 9: Domingo Nunez, Ruben - Kucza, Karol"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-9/Ha7f1xuO/c1HjnxMm"]
+[Date "2026.07.11"]
+[Round "9.11"]
+[White "Domingo Nunez, Ruben"]
+[Black "Kucza, Karol"]
+[Result "1/2-1/2"]
+[WhiteElo "2405"]
+[BlackElo "2323"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O e6 5.d3 Nc6 6.Nbd2 e5 7.e4 d4 8.Nc4 Bd6 9.Nh4 Bc7 10.Nf5 O-O 11.Bg5 b5 12.Nd2 Rb8 13.a4 a6 14.axb5 axb5 15.f4 exf4 16.gxf4 Bxf5 17.exf5 Qd6 18.Bxf6 Qxf6 19.Qh5 Ne7 20.Ra7 Bb6 21.Ne4 Qxf5 22.Ng5 Qg6 23.Qxg6 Nxg6 24.Rd7 Rfd8 25.Rxd8+ Bxd8 26.Bd5 Bxg5 27.fxg5 Ne5 28.Re1 Re8 29.Ra1 g6 30.Ra7 Rd8 31.Be4 Rd6 32.Rc7 Nd7 33.Bc6 Nf8 34.Bxb5 Ne6 35.Rc8+ Rd8 36.Rc6 Rd5 37.h4 Re5 38.Bc4 Nf8 39.Kf2 Kg7 40.Rc7 Rf5+ 41.Kg3 Kg8 42.Re7 Kg7 43.c3 dxc3 44.bxc3 Kg8 45.Kg4 Kg7 46.Kg3 Kg8 47.d4 cxd4 48.cxd4 Kg7 49.d5 h6 50.gxh6+ Kxh6 51.d6 Kg7 52.d7 Nxd7 53.Rxd7 Rf6 54.Kg4 Rf2 55.Rc7 Rf6 56.Bd3 Rd6 57.Bc4 Rf6 58.h5 gxh5+ 59.Kxh5 Rf5+ 60.Kg4 Rf6 61.Bd3 Rd6 62.Bc4 Rf6 63.Ra7 Rf2 64.Bd5 Rf6 65.Be4 Re6 66.Kf4 Rf6+ 67.Bf5 Rb6 68.Ra1 Kf6 69.Rh1 Rb4+ 70.Be4 Ra4 71.Rh7 Rb4 72.Rh6+ Kg7 73.Rh1 Kf6 74.Rh7 Ra4 75.Ke3 Ra5 76.Kd4 Ra4+ 77.Kd5 Ra5+ 78.Kd6 Ra6+ 79.Kc5 Ra5+ 80.Kd6 Ra6+ 81.Bc6 Ra1 82.Rh2 Rf1 83.Rg2 Rf4 84.Bd5 Rf5 85.Ra2 Kg7 86.Ra7 Rf1 87.Ke5 Re1+ 88.Be4 Re2 89.Ra1 Rf2 90.Rg1+ Kf8 91.Kd6 Rd2+ 92.Bd5 Rf2 93.Rg3 Rf6+ 94.Ke5 Rf1 95.Be4 Ke7 96.Rg8 Rf6 97.Bd5 Rh6 98.Ra8 Rh5+ 99.Ke4 Rh4+ 100.Ke3 Rh3+ 101.Kf4 Rh7 102.Ra6 Kf8 103.Kg5 Rg7+ 104.Kf5 Rg1 105.Ra8+ Kg7 106.Ra7 Rf1+ 107.Ke5 Rf2 108.Rxf7+ Rxf7 109.Bxf7 Kxf7 1/2-1/2

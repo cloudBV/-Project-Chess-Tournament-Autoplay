@@ -1,0 +1,15 @@
+[Event "Round 4: Nguyen Binh Vy - Nauanova Zhaniya"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-4/cFLuvjuJ/ZhaxIayN"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Nguyen Binh Vy"]
+[Black "Nauanova Zhaniya"]
+[Result "1-0"]
+[WhiteElo "2129"]
+[BlackElo "2039"]
+[ECO "B39"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Breyer Variation"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.c4 Nf6 6.Nc3 Nc6 7.Be3 Ng4 8.Qxg4 Nxd4 9.Qd1 e5 10.Bd3 O-O 11.O-O d6 12.Nd5 Be6 13.Qd2 f5 14.Bxd4 exd4 15.exf5 Bxd5 16.cxd5 gxf5 17.Rae1 Rc8 18.f4 Rc7 19.Re6 a6 20.Rfe1 Rcf7 21.Qb4 a5 22.Qa3 Rf6 23.Qb3 b6 24.Qb5 Rh6 25.g3 Qc7 26.Qc6 Rxe6 27.Rxe6 Qf7 28.Kg2 h5 29.Qxd6 h4 30.Re7 Qh5 31.Be2 h3+ 32.Kf1 Qh7 33.Qe6+ Kh8 34.d6 1-0

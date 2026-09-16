@@ -1,0 +1,15 @@
+[Event "Round 2: Atis, Hasan - Roshantab, Sadra"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/vRe5RcPq"]
+[Date "2026.07.14"]
+[Round "2.26"]
+[White "Atis, Hasan"]
+[Black "Roshantab, Sadra"]
+[Result "1-0"]
+[WhiteElo "2139"]
+[BlackElo "2040"]
+[ECO "B94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qf3 e6 8.O-O-O h6 9.Bd2 Qc7 10.Bd3 Ne5 11.Qg3 Nxd3+ 12.cxd3 e5 13.Nc2 b5 14.Kb1 Be6 15.Rc1 Nh5 16.Qf3 Nf6 17.Nb4 Qd7 18.Ncd5 Nxd5 19.Nxd5 Bxd5 20.exd5 Be7 21.Rc6 O-O 22.Rhc1 Rfc8 23.g4 Rxc6 24.dxc6 Qe6 25.c7 d5 26.Qf5 Rc8 27.Rc6 Qxf5 28.gxf5 Kf8 29.Rxa6 Ke8 30.Rb6 Kd7 31.Rxb5 Kc6 32.a4 Rxc7 33.Bb4 Bxb4 34.Rxb4 Kc5 35.Rb5+ Kd4 36.a5 e4 37.dxe4 Kxe4 38.f6 gxf6 39.a6 Ra7 40.Rb6 Kd3 41.b4 d4 42.b5 Kc3 43.Rb7 Ra8 44.a7 Re8 45.Rc7+ Kb3 46.b6 d3 47.b7 1-0

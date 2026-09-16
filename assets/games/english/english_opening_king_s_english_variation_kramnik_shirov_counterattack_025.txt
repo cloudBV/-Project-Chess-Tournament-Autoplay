@@ -1,0 +1,14 @@
+[Event "Round 8: Malek, Daniel - Malinowsky, Levi"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-8/XL5HPCd1/Aeegismz"]
+[Date "2026.07.24"]
+[Round "8.14"]
+[White "Malek, Daniel"]
+[Black "Malinowsky, Levi"]
+[Result "0-1"]
+[WhiteElo "2312"]
+[BlackElo "2342"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Qb3 a5 4.a3 Bc5 5.Nf3 d6 6.e3 Nd7 7.d4 Ba7 8.Be2 Ngf6 9.O-O O-O 10.Qc2 Re8 11.b4 c6 12.b5 Bb8 13.a4 e4 14.Nd2 d5 15.bxc6 bxc6 16.cxd5 cxd5 17.Ba3 Nf8 18.Rfc1 Ng4 19.Nf1 h5 20.Nb5 Ne6 21.Qd1 Qh4 22.g3 Qh3 23.Bd6 Ng5 24.Rc5 Bxd6 25.Nxd6 Ba6 26.Nb5 Re6 27.Rxd5 Rg6 28.Rf5 Bc8 29.Rf4 f5 30.d5 h4 31.Nd4 hxg3 32.fxg3 Nxh2 33.Nxh2 Qxg3+ 34.Kh1 Nh3 35.Qf1 Qxe3 36.Nxf5 Bxf5 37.Rxf5 Rg1+ 38.Qxg1 Nxg1 39.Rxg1 Qxe2 40.Ng4 Ra6 41.Rg3 Rg6 42.Rf4 Qd1+ 43.Kh2 Rg5 44.d6 Rh5+ 45.Kg2 Qh1+ 46.Kf2 Rh2+ 47.Nxh2 Qxh2+ 48.Ke3 Qxg3+ 49.Kxe4 g5 50.Rf6 Kg7 51.Re6 Kf7 52.Rh6 Ke8 53.Kd5 Qd3+ 54.Ke6 Qe4+ 55.Kf6 Kd7 56.Kxg5 Qxa4 57.Rf6 Qb3 58.Kf5 Qf3+ 0-1

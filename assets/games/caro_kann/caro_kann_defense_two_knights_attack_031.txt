@@ -1,0 +1,15 @@
+[Event "Round 7: Jiang, Andrew - Amburgy, Ryan"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-7/bCaGsiCi/C436Tv2H"]
+[Date "2026.07.18"]
+[Round "7.11"]
+[White "Jiang, Andrew"]
+[Black "Amburgy, Ryan"]
+[Result "1/2-1/2"]
+[WhiteElo "2250"]
+[BlackElo "2321"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Ne5 e6 9.Qe2 b5 10.Bd3 Qc7 11.a4 Bd6 12.Nxc6 b4 13.Nd4 a6 14.Nf5 Bb7 15.Nxd6+ Qxd6 16.O-O h5 17.Qe3 Rd8 18.f3 b3 19.Ra3 bxc2 20.Bxc2 Nd5 21.Qf2 h4 22.d4 h3 23.g3 Nb4 24.Be4 Bxe4 25.fxe4 Qxd4 26.Be3 Qd7 27.Bc5 Nc6 28.Rd3 Qb7 29.Rb3 Qd7 30.Rb6 Rh6 31.Rxa6 Rf6 32.Qe2 Nd4 33.Qh5 Nf3+ 34.Kh1 Qd3 35.Qh8+ Kd7 36.Qxd8+ Kxd8 37.Rd6+ Qxd6 38.Bxd6 e5 39.Rd1 Kc8 40.Bc5 Ra6 41.b3 g6 42.g4 Ng5 43.Re1 Kb7 44.Rf1 f6 45.Re1 Ne6 46.Rc1 Rc6 47.b4 Rc7 48.Be3 Rd7 49.Kg1 Rd3 50.Kf2 Rb3 51.b5 Rb2+ 52.Kg3 Rb3 53.Kf2 Rb2+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 7: Alexakis, Dimitris - Kotronias, Vasilios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/JdqmIKnI"]
+[Date "2026.07.10"]
+[Round "7.2"]
+[White "Alexakis, Dimitris"]
+[Black "Kotronias, Vasilios"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2374"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.a3 a6 7.b4 Nxe5 8.Nbd2 g6 9.Be2 Bg7 10.Nxe5 Bxe5 11.Rb1 Bxe2 12.Qxe2 Qc7 13.Rb3 e6 14.c4 d4 15.O-O Ne7 16.Ne4 Bxh2+ 17.Kh1 Be5 18.Bh6 Nf5 19.f4 Bg7 20.Bxg7 Nxg7 21.Nd6+ Kf8 22.Qe5 h5 23.b5 a5 24.c6 h4 25.cxb7 Rb8 26.b6 Qd8 27.c5 Rh5 28.Qxd4 Rd5 29.Qc3 h3 30.g3 Rxd6 31.cxd6 Qxd6 32.Kh2 Ne8 33.Qxa5 Qc6 34.Qb4+ Kg8 35.Kxh3 Nd6 36.Rc3 Qd5 37.Qc5 Qd2 38.Qe3 1-0

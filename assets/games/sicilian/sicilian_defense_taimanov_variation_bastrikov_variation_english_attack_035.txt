@@ -1,0 +1,15 @@
+[Event "Round 10: Moridi, Mohammad Kia - Daghli, Arash"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-10/vyri0oV3/TvlamPFz"]
+[Date "2026.07.17"]
+[Round "10.2"]
+[White "Moridi, Mohammad Kia"]
+[Black "Daghli, Arash"]
+[Result "0-1"]
+[WhiteElo "2096"]
+[BlackElo "2429"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Bd6 8.Nxc6 bxc6 9.Bd4 Nf6 10.O-O-O Rb8 11.Kb1 c5 12.Be3 Be5 13.Bd2 Bb7 14.Qe3 Bd4 15.Qg3 Qxg3 16.hxg3 Nxe4 17.Bf4 d6 18.Nxe4 Bxe4 19.b3 Rb6 20.f3 Bg6 21.Bd3 Bxd3 22.Rd2 Be2 23.Rxe2 d5 0-1

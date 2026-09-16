@@ -1,0 +1,15 @@
+[Event "Round 4: Benidze, Davit - Aaditya Dhingra"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-4/KzNSk6lm/LqiX0bxq"]
+[Date "2026.07.22"]
+[Round "4.4"]
+[White "Benidze, Davit"]
+[Black "Aaditya Dhingra"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2404"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 dxc4 5.Qa4+ Nbd7 6.Bg2 a6 7.Qxc4 b5 8.Qc2 Bb7 9.O-O c5 10.a4 cxd4 11.Nxd4 Bxg2 12.Kxg2 Rc8 13.Qd1 b4 14.Nd2 Nc5 15.N2b3 Qd5+ 16.f3 Nxb3 17.Nxb3 Be7 18.e4 Qxd1 19.Rxd1 Nd7 20.Be3 Ne5 21.Rac1 Nc4 22.Kh3 O-O 23.Bc5 Bxc5 24.Rxc4 Be7 25.Na5 Rxc4 26.Nxc4 Rc8 27.b3 Rc7 28.Kg2 Kf8 29.Kf1 Ke8 30.Ke2 Bc5 31.Rc1 Be7 32.Rc2 Kd8 33.f4 f6 34.g4 h5 35.gxh5 Rc5 36.Rd2+ Ke8 37.e5 fxe5 38.fxe5 Rc7 39.Kf3 Bc5 40.Ke4 Ke7 41.Rd6 Rd7 42.Rxd7+ Kxd7 43.Nb2 Be7 44.Nd3 Kc6 45.Kd4 a5 46.Kc4 Bd8 47.Nc5 Bc7 48.Nxe6 Bxe5 49.Nd4+ Kd6 50.h3 Bf6 51.h6 gxh6 52.Nf5+ 1-0

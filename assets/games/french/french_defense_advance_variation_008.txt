@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.21"]
+[Round "22.4"]
+[White "StockfishClassical 202007311012"]
+[Black "Potential 426cc351-426cc351"]
+[Result "1-0"]
+[WhiteElo "3552"]
+[BlackElo "3108"]
+[ECO "C02"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 b6 4.c3 Qd7 5.Nf3 Ne7 6.a4 a5 7.h4 h5 8.b4 axb4 9.cxb4 Nf5 10.b5 c5 11.dxc5 Bxc5 12.Bd3 Bb7 13.Bxf5 exf5 14.Ba3 O-O 15.O-O d4 16.Bxc5 bxc5 17.Nbd2 Qd5 18.Qc2 Nd7 19.a5 Rab8 20.Rfc1 Ba8 21.b6 Qe6 22.Re1 Rfe8 23.Rac1 Bb7 24.Nc4 Ra8 25.Qd3 Ba6 26.Nfd2 Qg6 27.f4 Bb7 28.Qe2 Reb8 29.Ra1 d3 30.Qf2 Qe6 31.Qg3 Nf8 32.Qxd3 Qg6 33.Qf1 Ne6 34.Nd6 Ba6 35.Qf2 Qg4 36.g3 Rd8 37.Kh2 Rd7 38.Rac1 Rf8 39.Nf3 Rfd8 40.Rc3 Kh7 41.Rb3 Rb8 42.Rb2 Kg8 43.Rc2 Qg6 44.Rec1 f6 45.Re1 Rf8 46.Rb2 Nd8 47.Rd2 Ne6 48.Rb1 Rb8 49.b7 Qg4 50.Rb6 Nc7 51.exf6 gxf6 52.Ne8 Rxd2 53.Nxf6+ Kh8 54.Qxd2 Qxf3 55.Nd7 Ne6 56.Nxb8 Bxb7 57.Qb2+ Kg8 58.Rxb7 Nd4 59.Qa2+ Kh8 60.Rd7 Ne6 61.a6 c4 62.a7 Ng7 63.a8=Q Qg4 64.Q8a6 Qe2+ 65.Qxe2 Kh7 66.Qf6 c3 67.Qxg7# 1-0

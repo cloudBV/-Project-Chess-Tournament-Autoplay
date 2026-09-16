@@ -1,0 +1,15 @@
+[Event "Round 8: Gomez Ledo, Roberto Carlos - Raja Harshit"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-8/dn7ydIAm/jEybIjGJ"]
+[Date "2026.07.18"]
+[Round "8.2"]
+[White "Gomez Ledo, Roberto Carlos"]
+[Black "Raja Harshit"]
+[Result "1/2-1/2"]
+[WhiteElo "2381"]
+[BlackElo "2499"]
+[ECO "E39"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation, Pirc Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.g3 Nxc5 8.Bd2 d5 1/2-1/2

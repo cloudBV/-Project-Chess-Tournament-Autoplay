@@ -1,0 +1,15 @@
+[Event "Round 8: Allahverdiyeva, Ayan - Ling, Chenxuan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/Uhp0TvjX"]
+[Date "2026.07.04"]
+[Round "8.30"]
+[White "Allahverdiyeva, Ayan"]
+[Black "Ling, Chenxuan"]
+[Result "1-0"]
+[WhiteElo "2254"]
+[BlackElo "2166"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 Nf5 8.Nc2 cxd4 9.cxd4 Be7 10.Bd3 O-O 11.g4 Nh4 12.Nxh4 Bxh4 13.g5 Bxg5 14.Qh5 h6 15.Rg1 Bxc1 16.Rxc1 Kh8 17.Ke2 f5 18.Rg6 Rf7 19.Rcg1 Qf8 20.R6g3 Be8 21.Rh3 Rc8 22.a3 Rfc7 23.Qg5 Nxe5 24.dxe5 Rxc2+ 25.Bxc2 Rxc2+ 26.Kf1 Bb5+ 27.Kg2 d4 28.Rd1 Bc6+ 29.Kg1 Bf3 30.Rd3 Qe7 31.Qf4 Bg4 32.Rhg3 Be2 33.Rxd4 g5 34.Qe3 Qf8 35.f4 g4 36.Rg2 Qc8 37.Rxe2 Rc1+ 38.Re1 1-0

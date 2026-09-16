@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "6.12"]
+[White "Bartodziej, Bartosz"]
+[Black "Kozlovic, Jernej"]
+[Result "1/2-1/2"]
+[WhiteElo "2021"]
+[BlackElo "2222"]
+[ECO "C50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.c3 f5 5.d3 Qf6 6.h4 h6 7.h5 Nge7 8.Nh4 g5 9.hxg6 Nxg6 10.Qh5 Ne7 11.exf5 Bxf5 12.g4 Be6 13.Nd2 Bxc4 14.Nxc4 O-O-O 15.Nxg6 Nxg6 16.Be3 Nf4 17.Bxf4 Qxf4 18.Qf5+ Qxf5 19.gxf5 Be7 20.Ne3 Bg5 21.Ke2 Rdf8 22.Rh5 Rf7 23.Rg1 Rhf8 24.Rg2 c6 25.c4 Kc7 26.Ng4 Rxf5 27.Nxh6 Bxh6 28.Rxh6 R8f7 29.Rhg6 Kb6 30.Rxd6 Kc5 31.Rdg6 a5 32.R6g3 a4 33.Rg7 b5 34.Rxf7 Rxf7 35.cxb5 cxb5 36.Rg5 Kd5 37.Ke3 Rf4 38.a3 Rh4 39.Rg8 Rh3+ 40.Ke2 Rh1 41.Rg4 Rh3 42.Rb4 Kc5 43.Re4 Kd5 44.Rb4 Kc5 45.f3 Rh1 46.Kf2 Rd1 47.Ke2 Rb1 48.Kd2 Rf1 49.Ke3 Re1+ 50.Kf2 Rd1 51.Ke2 Rb1 52.Kd2 Rf1 53.Re4 Kd5 54.Re3 Kd4 55.Re4+ Kd5 56.Re3 Kd4 57.Re4+ 1/2-1/2

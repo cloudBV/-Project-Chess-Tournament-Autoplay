@@ -1,0 +1,15 @@
+[Event "Round 9: Jacobson, Brandon - Berdayes Ason, Dylan Isidro"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-9/zGvTvuUZ/uq5KmLFa"]
+[Date "2026.07.21"]
+[Round "9.2"]
+[White "Jacobson, Brandon"]
+[Black "Berdayes Ason, Dylan Isidro"]
+[Result "1/2-1/2"]
+[WhiteElo "2601"]
+[BlackElo "2477"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Bh7 9.Nxh5 cxd4 10.Bb5+ Nc6 11.Qxd4 Ne7 12.Bg5 a6 13.Bxc6+ Nxc6 14.Qf4 Qa5 15.O-O Bg6 1/2-1/2

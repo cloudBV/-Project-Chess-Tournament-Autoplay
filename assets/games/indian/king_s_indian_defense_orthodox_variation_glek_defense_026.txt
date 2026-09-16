@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.13"]
+[White "Fiorito, Fabian"]
+[Black "Cuenca Jimenez, Jose Fernando"]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2509"]
+[ECO "E94"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.d4 O-O 5.e4 d6 6.Be2 Na6 7.O-O e5 8.Be3 Qe8 9.dxe5 Ng4 10.Bd2 Nxe5 11.Rc1 Bg4 12.Nxe5 Bxe2 13.Qxe2 dxe5 14.Be3 c6 15.Rfd1 f6 16.a3 Nc7 17.b4 Ne6 18.c5 Rf7 19.Na4 f5 20.f3 fxe4 21.fxe4 Nf4 22.Qc4 Qc8 23.Bxf4 exf4 24.Rd3 Be5 25.Rf1 Kg7 26.Nc3 Qc7 27.Ne2 Re8 28.h3 Qe7 29.Rdf3 Ref8 30.Nd4 Rf6 31.R3f2 Rd8 32.Nf3 h6 33.Rd2 Rxd2 34.Nxd2 Qe6 35.Rd1 Kf8 36.Qd3 Rf7 37.Nf3 Bc7 38.e5 Kg7 39.Qe4 Kh7 40.Re1 Qe7 41.Kh1 Qe6 42.a4 Bd8 43.Rd1 Be7 44.Qd4 Bf8 45.a5 a6 46.Kh2 Qf5 47.Qc4 Re7 48.Rd8 Kg7 49.Qd4 Kf7 50.Rb8 Rd7 51.Qc4+ Ke7 52.e6 Rc7 53.Qd4 Kxe6 54.Qd8 Rd7 55.Qxf8 Qxf8 56.Rxf8 g5 57.Rh8 Kd5 58.Rxh6 Kc4 59.Rg6 Kxb4 60.Rxg5 Kxa5 61.Rf5 Kb5 62.h4 a5 63.Rxf4 a4 64.Ne5 Rd8 65.Nf7 Ra8 66.Nd6+ Kxc5 67.Nxb7+ Kd5 68.Na5 a3 69.Ra4 c5 70.Rxa3 Rh8 71.Kh3 Ra8 72.h5 Rb8 73.g4 Ke4 74.Kg3 Rb4 75.Rc3 Kd5 76.h6 Rb6 77.g5 Ke6 78.Rxc5 Kf7 79.Rc7+ Kg8 80.Nc6 1-0

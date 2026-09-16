@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.10"]
+[Round "4.3"]
+[White "Udvardi, Zalan"]
+[Black "Pasztor, Balazs"]
+[Result "1/2-1/2"]
+[WhiteElo "2286"]
+[BlackElo "2404"]
+[ECO "C02"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 Bd7 7.Nc2 Qa5 8.dxc5 Ng6 9.b4 Qc7 10.Be2 Be7 11.Ncd4 Ncxe5 12.Nxe5 Nxe5 13.f4 Nc4 14.O-O b6 15.Bxc4 dxc4 16.Qf3 Rc8 17.cxb6 axb6 18.a4 O-O 19.Be3 Bf6 20.a5 bxa5 21.Rxa5 Rfd8 22.Rfa1 Be8 1/2-1/2

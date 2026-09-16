@@ -1,0 +1,14 @@
+[Event "Round 7: Kovalenko, Igor - Sarana, Alexey"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-7/Le7N8izB/J2VJRxzA"]
+[Date "2026.06.28"]
+[Round "7.1"]
+[White "Kovalenko, Igor"]
+[Black "Sarana, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2664"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O g6 6.Re1 a6 7.c3 c4 8.Bc2 Bg7 9.b3 b5 10.bxc4 bxc4 11.Na3 Nb6 12.e5 dxe5 13.Nxe5 Qc7 14.Qf3 Bb7 15.Qf4 O-O 16.Rb1 Nfd5 17.Qg3 Bxe5 18.Rxe5 Rac8 19.h4 Bc6 20.h5 f6 21.Re1 Qxg3 22.fxg3 gxh5 23.d3 Ba4 24.Bxa4 Nxa4 25.dxc4 Ndxc3 26.Rb3 Nxa2 27.Bh6 Rfe8 28.Bd2 Red8 29.Ba5 Rb8 30.Rxb8 Rxb8 31.Rxe7 Nb4 32.Bc7 Rc8 33.Bf4 Nc6 34.Rd7 Nc3 35.Kf2 Re8 36.Rd3 Ne4+ 37.Kf3 Ng5+ 38.Kf2 Ne4+ 39.Kf3 Ng5+ 40.Kf2 Ne5 41.Bxe5 Rxe5 42.Nb1 Kf7 43.Nd2 Ra5 44.Ke3 Ke7 45.Rb3 Re5+ 46.Kd3 Ne6 47.Rb7+ Kd6 48.Rxh7 a5 49.Nf3 Nc5+ 50.Kd2 Re4 51.Rxh5 Rxc4 52.Rh4 Nb3+ 53.Kd3 Rc8 54.Rh7 a4 55.Ra7 Nc5+ 56.Kc4 Rg8 57.Kb5 Rxg3 58.Rf7 Nd7 59.Kxa4 Rxg2 60.Rh7 Rf2 61.Nh4 Ne5 62.Kb3 Rf4 63.Kc2 Ke6 64.Kd1 Re4 65.Ng2 Kf5 66.Rh5+ Kg6 67.Rh3 Ra4 68.Ke2 f5 69.Nh4+ Kg5 70.Nxf5 Ra2+ 71.Ke3 Ng4+ 72.Kd4 Ra4+ 73.Kc5 Kxf5 74.Rh5+ Ke6 75.Rh4 Rf4 76.Rh8 Nf6 77.Rh6 Ke5 78.Rh8 Rf2 79.Kc4 Ra2 80.Kb3 Ra7 81.Kc4 Rh7 82.Rxh7 Nxh7 1/2-1/2

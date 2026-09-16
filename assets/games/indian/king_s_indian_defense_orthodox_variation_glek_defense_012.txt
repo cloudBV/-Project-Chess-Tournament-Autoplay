@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "3.6"]
+[White "Webb, Laurence E"]
+[Black "Rojas Keim, Luis"]
+[Result "0-1"]
+[WhiteElo "2160"]
+[BlackElo "2401"]
+[ECO "E94"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Na6 7.O-O e5 8.dxe5 dxe5 9.Qxd8 Rxd8 10.Nxe5 Nxe4 11.Nxe4 Bxe5 12.Bg5 Re8 13.Bf3 Kg7 14.Nc3 f6 15.Be3 c6 16.Rfd1 Be6 17.Rac1 Bc7 18.Ne4 Re7 19.b3 Bb6 20.c5 Bc7 21.Bd4 Be5 22.Bxe5 fxe5 23.Ng5 Nc7 24.Be4 Bd5 25.Re1 Rd8 26.g3 Rf8 27.Kg2 Nb5 28.h4 h6 29.Nf3 Ref7 30.Bxd5 cxd5 31.Nxe5 Rxf2+ 32.Kg1 Nd4 33.c6 bxc6 34.Nxc6 Ne2+ 35.Rxe2 Rxe2 36.Nb4 d4 37.Rc7+ Kg8 38.Nd5 Rf7 39.Nf4 Rxc7 40.Nxe2 d3 0-1

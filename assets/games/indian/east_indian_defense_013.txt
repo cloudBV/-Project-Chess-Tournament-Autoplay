@@ -1,0 +1,15 @@
+[Event "26 Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.06"]
+[Round "4.2"]
+[White "Masague Artero, Guerau"]
+[Black "Marin Ripoll, Marti"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2162"]
+[ECO "A48"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 d5 4.b3 Bg7 5.Bb2 O-O 6.e3 c5 7.dxc5 Qa5 8.a3 Qxc5 9.b4 Qc7 10.c4 dxc4 11.Bxc4 e6 12.O-O b6 13.Qe2 Bb7 14.Rfd1 Qe7 15.Nb3 Ne4 16.Bxg7 Kxg7 17.Rac1 a5 18.Qb2+ Kg8 19.Ne5 axb4 20.axb4 Qxb4 21.Nxf7 Kxf7 22.Bxe6+ Kxe6 23.Nd4+ Qxd4 24.Qxd4 Ra6 25.Rc7 Ba8 26.f3 1-0

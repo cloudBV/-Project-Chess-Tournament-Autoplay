@@ -1,0 +1,14 @@
+[Event "Round 2: Heimrath, Reiner - Sicars, Thorsten"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/8h3ulA0G"]
+[Date "2026.07.18"]
+[Round "2.14"]
+[White "Heimrath, Reiner"]
+[Black "Sicars, Thorsten"]
+[Result "1/2-1/2"]
+[WhiteElo "2134"]
+[BlackElo "2020"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nbd2 g6 7.Ne5 Be6 8.f3 Nbd7 9.Nd3 Bh6 10.c3 Be3 11.Kc2 h5 12.h4 O-O 13.Nb3 Bb6 14.Bg5 Bc4 15.Nd2 Bxd3+ 16.Bxd3 Rfe8 17.Be2 Kg7 18.a4 a5 19.Nc4 Bc7 20.Be3 Red8 21.Rad1 b5 22.Na3 bxa4 23.Nc4 Rdb8 24.Ra1 Ne8 25.Rxa4 Nd6 26.Rd1 Kf8 27.Rda1 Nxc4 28.Rxc4 Ne5 29.Rca4 Nd7 30.Bf2 Rb7 31.R1a2 Rd8 32.Ra1 Ke8 33.R4a2 Ne5 34.Bd4 Nd7 35.g4 e5 36.Be3 Ke7 37.gxh5 gxh5 38.Rg1 Rbb8 39.Rg5 Rh8 40.Ra1 Rbg8 41.Rag1 Rxg5 42.Bxg5+ f6 43.Be3 Rh7 44.Rg8 Kd6 45.Kd2 Nc5 46.Rg6 Bd8 47.Bc4 Nd7 48.Rg8 Bb6 49.Re8 Bxe3+ 50.Kxe3 a4 51.Be2 Nc5 52.Kd2 Rb7 53.Kc2 Rg7 54.Rd8+ Kc7 55.Rh8 Ne6 56.Rd8 Nc5 57.Rd2 Ne6 58.Rd8 Nc5 59.Rf8 Rg2 60.Kd1 Rg1+ 61.Kd2 Ne6 62.Rxf6 Nf4 63.Bc4 Rg2+ 64.Kc1 Rg1+ 65.Kc2 Rg2+ 66.Kb1 Rh2 67.Rf5 Rxh4 68.Rxe5 Rh1+ 1/2-1/2

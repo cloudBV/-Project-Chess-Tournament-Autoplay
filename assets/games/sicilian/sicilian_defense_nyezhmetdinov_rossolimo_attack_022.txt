@@ -1,0 +1,15 @@
+[Event "Round 2: Ilijic, Mihajilo - Jain Kashish Manoj"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-2/XMymqsde/vMCBUb3Y"]
+[Date "2026.07.04"]
+[Round "2.5"]
+[White "Ilijic, Mihajilo"]
+[Black "Jain Kashish Manoj"]
+[Result "0-1"]
+[WhiteElo "2164"]
+[BlackElo "2394"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Nd5 5.O-O g6 6.Re1 Nc7 7.Bc4 Bg7 8.Nc3 O-O 9.d3 Ne6 10.Nd5 b6 11.Bf4 Nxf4 12.Nxf4 e6 13.c3 d6 14.exd6 Qxd6 15.Ne2 Bb7 16.Bb3 Rfd8 17.Bc2 Ba6 18.Nc1 Rd7 19.Qd2 Ne5 20.Nxe5 Bxe5 21.Qh6 Rad8 22.Rd1 Bf4 23.Qh3 Qe5 24.a4 Qf6 25.Ne2 Bc7 26.Rab1 Rd5 27.g3 Bxd3 28.Bxd3 Rxd3 29.Qf1 Qf5 30.Rxd3 Qxd3 31.b3 Be5 32.Rc1 Qd5 33.Rb1 Qd2 34.Rc1 Qb2 35.Rb1 Qc2 0-1

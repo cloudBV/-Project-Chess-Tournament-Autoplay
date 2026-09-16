@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.25"]
+[White "Krauchi Romero, Martin"]
+[Black "Moya Gimeno, Raul"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2035"]
+[ECO "B33"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.a4 Ng6 10.Be3 Be7 11.a5 O-O 12.Bxa7 Rxa7 13.Nxa7 f5 14.Nxc8 Qxc8 15.Be2 Nf4 16.O-O Qc5 17.c4 Ra8 18.g3 Ng6 19.Qb3 Rxa5 20.Qxb7 Rxa1 21.Rxa1 f4 22.Ra8+ Kf7 23.Qc8 Bf6 24.Qe6# 1-0

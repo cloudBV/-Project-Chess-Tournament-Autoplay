@@ -1,0 +1,14 @@
+[Event "Round 9: Tekeyev, Zaur - Atalik, Suat"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-9/j9WVZqtk/mTB4uf6o"]
+[Date "2026.07.02"]
+[Round "9.2"]
+[White "Tekeyev, Zaur"]
+[Black "Atalik, Suat"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2399"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.a3 O-O 7.h3 Be6 8.Nd5 a5 9.O-O Qc8 10.Ba2 Bd8 11.c4 Kh8 12.Be3 Ne7 13.d4 Ng6 14.Ng5 exd4 15.Qxd4 c5 16.Qd1 h6 17.Nxe6 Qxe6 18.Nc3 Nxe4 19.Nxe4 Qxe4 20.Qxd6 Be7 21.Qg3 Rad8 22.Rae1 Qc6 23.Bc1 Bd6 24.f4 Rfe8 25.Bb1 Nf8 26.Bd2 Qc7 27.Bc3 f6 28.Be4 b6 29.Bd5 Rxe1 30.Bxe1 Re8 31.Bc3 Qd8 32.Qg4 Re3 33.Bd2 Re7 34.Bc3 Qd7 35.Qh5 Qe8 36.Qf5 Ne6 37.Be4 Qg8 38.Bd5 Qe8 39.Be4 Qg8 40.g3 Nf8 41.Bd3 Qe6 42.Rd1 Qxf5 43.Bxf5 Bc7 44.Kf2 Kg8 45.Kf3 Kf7 46.h4 h5 47.Be4 Ne6 48.Rd5 g6 49.f5 Nf8 50.fxg6+ Nxg6 51.Rxh5 Ne5+ 52.Kg2 Nxc4 53.Rh7+ Kf8 54.Bxf6 Rxh7 55.Bxh7 Be5 56.Bxe5 Nxe5 57.a4 Kg7 58.Be4 Kf6 59.Kf2 Nc4 60.b3 Ne5 61.Ke3 c4 62.bxc4 Nxc4+ 63.Kd4 Ne5 64.Kd5 Ng4 65.Kc6 Ke5 66.Bf3 Ne3 67.Kxb6 Nf5 68.Kxa5 Nxg3 69.Kb6 Nf5 70.a5 Nxh4 71.Bb7 1-0

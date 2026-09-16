@@ -1,0 +1,14 @@
+[Event "Round 4: Tagkaloglou, Savvas Stefanos - Tsamtsouris, Efthymios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/og51o3eI"]
+[Date "2026.07.07"]
+[Round "4.68"]
+[White "Tagkaloglou, Savvas Stefanos"]
+[Black "Tsamtsouris, Efthymios"]
+[Result "1-0"]
+[WhiteElo "2031"]
+[BlackElo "2005"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nf3 Bb7 4.e3 e6 5.Bd3 Be7 6.Nbd2 d5 7.b3 O-O 8.O-O Nbd7 9.Bb2 c5 10.Qe2 Rc8 11.Rfe1 Ne4 12.Rad1 Qc7 13.Ne5 Ndf6 14.cxd5 exd5 15.f3 Nxd2 16.Qxd2 a5 17.Rc1 Qb8 18.Red1 Qa8 19.a4 Ba6 20.Qe2 Bb7 21.Bb5 Rc7 22.Rc2 Rd8 23.Rdc1 Ne8 24.Nd3 Qa7 25.Ba3 c4 26.Bxe7 cxd3 27.Bxd8 Rxc2 28.Qd1 Nd6 29.Bxd3 Rxc1 30.Qxc1 Ba6 31.Bb1 Qd7 32.Bxb6 Nb7 33.Qc7 Qe8 34.Kf2 h5 35.Bf5 g6 36.Bc8 Nc5 37.Bxa6 Nxa6 38.Qd8 Qxd8 39.Bxd8 Nb4 40.Bxa5 Nd3+ 41.Ke2 Nc1+ 42.Kd1 Nd3 43.Bc3 Kf8 44.Kd2 Nf2 45.Ke2 Nh1 46.Kf1 h4 47.Kg1 Ke8 48.Kxh1 Kd7 49.a5 1-0

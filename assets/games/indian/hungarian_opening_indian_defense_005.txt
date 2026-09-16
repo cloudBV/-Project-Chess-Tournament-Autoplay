@@ -1,0 +1,14 @@
+[Event "Round 5: Munoz Triana, Joseph Steve - Ardila, Oscar Humberto"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-5/1PASBFrj/miRpmKjo"]
+[Date "2026.07.11"]
+[Round "5.12"]
+[White "Munoz Triana, Joseph Steve"]
+[Black "Ardila, Oscar Humberto"]
+[Result "1-0"]
+[WhiteElo "2210"]
+[BlackElo "2035"]
+[ECO "A00"]
+[Variant "Standard"]
+[Opening "Hungarian Opening: Indian Defense"]
+
+1.g3 Nf6 2.Bg2 g6 3.d3 Bg7 4.Nc3 d6 5.e4 O-O 6.Nge2 Nbd7 7.O-O e5 8.h3 c6 9.f4 a5 10.a4 exf4 11.Bxf4 Qe7 12.Qd2 Nh5 13.Bh6 Bxh6 14.Qxh6 f6 15.Rf2 Ne5 16.Raf1 Nf7 17.Qe3 Ne5 18.b3 Bd7 19.g4 Ng7 20.d4 Nf7 21.Rxf6 Nh8 22.Rxf8+ Rxf8 23.Rxf8+ Qxf8 24.e5 Qe7 25.Nf4 dxe5 26.dxe5 Nf7 27.Nd3 h5 28.Qe4 Qg5 29.Qd4 Be6 30.Ne4 Qe7 31.Nf6+ Kf8 32.Nf4 Nh8 33.Be4 hxg4 34.hxg4 Bd5 35.Bxd5 cxd5 36.Qxd5 Qf7 37.Qd6+ Qe7 38.Qb8+ Kf7 39.g5 Qc5+ 40.Kf1 Qe3 41.Qg8+ Ke7 42.Qxg7+ Kd8 43.Qd7# 1-0

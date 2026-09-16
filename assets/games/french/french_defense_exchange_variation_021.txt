@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.14"]
+[White "Jin, Ruijun"]
+[Black "Zamengo, Fulvio"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2365"]
+[ECO "C01"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.c3 Bd6 6.Bd3 Nge7 7.O-O Bf5 8.Bxf5 Nxf5 9.Qb3 b6 10.Re1+ Nfe7 11.Bg5 f6 12.Bh4 O-O 13.Nbd2 Qd7 14.Re2 Na5 15.Qc2 Ng6 16.Bg3 Rfe8 17.Rae1 Nb7 18.Nf1 Bxg3 19.hxg3 Nd6 20.Rxe8+ Rxe8 21.Rxe8+ Qxe8 22.Ne3 Ne7 23.Qb3 c6 24.Qa3 Qd7 25.Qa6 Qb7 26.Qd3 b5 27.Nd2 Qa6 28.a3 Qc8 29.Nb3 Qe8 1/2-1/2

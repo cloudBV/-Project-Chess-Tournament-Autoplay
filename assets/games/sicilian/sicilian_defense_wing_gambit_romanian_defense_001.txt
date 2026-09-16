@@ -1,0 +1,14 @@
+[Event "Round 6: Kaspereit, Holger - Zeller, Frank"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-6/3ymlbMxl/MfAjIf50"]
+[Date "2026.07.22"]
+[Round "6.10"]
+[White "Kaspereit, Holger"]
+[Black "Zeller, Frank"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2294"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Wing Gambit, Romanian Defense"]
+
+1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Qxd5 5.Bb2 e5 6.c4 Qe6 7.Nf3 Nc6 8.Be2 Nf6 9.O-O Be7 10.axb4 Bxb4 11.d4 exd4 12.Nxd4 Nxd4 13.Bxd4 O-O 14.Qb3 a5 15.Qb2 Re8 16.Bf3 Qxc4 17.Na3 Qa6 18.Nc2 Bf8 19.Ne3 a4 20.Nd5 Nxd5 21.Bxd5 a3 22.Qb3 Be6 23.Bxe6 Rxe6 24.Rac1 b5 25.Rc7 Qd6 26.Qf3 Qxc7 27.Qxa8 b4 28.Qa4 Qc4 29.Ba1 Ra6 0-1

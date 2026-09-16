@@ -1,0 +1,14 @@
+[Event "Round 4: Lafkidis, Apostolos - Gkavardinas, Antonios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/hTZYrijU"]
+[Date "2026.07.07"]
+[Round "4.9"]
+[White "Lafkidis, Apostolos"]
+[Black "Gkavardinas, Antonios"]
+[Result "1/2-1/2"]
+[WhiteElo "2125"]
+[BlackElo "2304"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 e6 7.c3 Be7 8.a4 b6 9.Bc2 Bb7 10.d4 Qc7 11.Bf4 e5 12.Bg3 c4 13.Nbd2 O-O 14.Nf1 g6 15.Bh4 Rfe8 16.Qd2 b5 17.Ng3 Nf8 18.d5 N8d7 19.h3 Nc5 20.Qh6 Bf8 21.Qe3 Bg7 22.Bg5 Rab8 23.axb5 axb5 24.Bh6 Bc8 25.Nh4 Qe7 26.Qg5 Bxh6 27.Qxh6 Kh8 28.Nf3 Ng8 29.Qe3 Kg7 30.Nd2 Nf6 31.Rf1 Nfd7 32.Kh2 Bb7 33.Nf3 Ra8 34.Ne2 Rxa1 35.Rxa1 Ra8 36.Rxa8 Bxa8 37.Nd2 Nb6 38.f4 exf4 39.Qd4+ Qf6 40.Qxf6+ Kxf6 41.Nd4 Ke7 42.Nxb5 Bb7 43.Nd4 Ba6 44.g3 fxg3+ 45.Kxg3 Nba4 46.Nc6+ Ke8 47.Bxa4 Nxa4 48.e5 dxe5 49.Ne4 1/2-1/2

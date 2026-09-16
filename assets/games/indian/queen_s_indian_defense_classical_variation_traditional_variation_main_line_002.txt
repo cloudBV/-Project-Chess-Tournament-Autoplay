@@ -1,0 +1,15 @@
+[Event "Round 4: Nguyen, Vuong Tung Lam - Demchenko, Maksim Dm"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b16/round-4/28KYqm2g/rbxNUqpt"]
+[Date "2026.07.16"]
+[Round "4.40"]
+[White "Nguyen, Vuong Tung Lam"]
+[Black "Demchenko, Maksim Dm"]
+[Result "1-0"]
+[WhiteElo "2145"]
+[BlackElo "2263"]
+[ECO "E19"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b6 4.Bg2 Bb7 5.O-O Be7 6.c4 O-O 7.Nc3 Ne4 8.Qc2 Nxc3 9.Qxc3 a5 10.Rd1 Bf6 11.Qc2 d5 12.cxd5 exd5 13.Bf4 Na6 14.Rac1 c5 15.dxc5 bxc5 16.a3 Re8 17.h4 h6 18.h5 Qd7 19.e4 d4 20.e5 Be7 21.e6 Qxe6 22.Nxd4 Qb6 23.Bxb7 Qxb7 24.Nf5 Qf3 25.Rd7 Bf6 26.Qc4 Qxh5 27.Nd6 Rf8 28.Ne4 Bxb2 29.Rb1 Bd4 30.Rbb7 Rae8 31.Qd3 f5 32.Qxd4 Rf7 33.Qd5 Rf8 34.Rxf7 Rxf7 35.Nd6 Nc7 36.Rxc7 1-0

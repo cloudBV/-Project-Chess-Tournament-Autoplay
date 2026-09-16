@@ -1,0 +1,15 @@
+[Event "Round 6: Kakavand, Ramtin - Zhu, Harvey (Hanchen)"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-6/dML8kQ2c/3qsVKhnI"]
+[Date "2026.07.21"]
+[Round "6.11"]
+[White "Kakavand, Ramtin"]
+[Black "Zhu, Harvey (Hanchen)"]
+[Result "1-0"]
+[WhiteElo "2087"]
+[BlackElo "2215"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 c4 6.Bc2 Nc6 7.Nf3 d6 8.exd6 Qxd6 9.O-O Bg4 10.h3 Bh5 11.Qe2 Qf6 12.Be4 e6 13.b3 Bd6 14.d4 cxd3 15.Qxd3 Bxf3 16.Bxf3 O-O-O 17.Qc2 Ne5 18.Be2 Nd5 19.Nd2 Bc7 20.Re1 h5 21.Nf3 h4 22.Bd2 Nf4 23.Bxf4 Qxf4 24.Rad1 Bb6 25.c4 Bc5 26.Qb2 Nc6 27.a3 e5 28.b4 Bd4 29.Nxd4 Nxd4 30.Bd3 f5 31.c5 Rh6 32.Kh1 Nf3 33.gxf3 Qxf3+ 34.Kh2 Qf4+ 35.Kg1 Rg6+ 36.Kf1 Rd4 37.Rxe5 Rf6 38.Bxf5+ Rxf5 39.Re8+ Kd7 40.Rxd4+ 1-0

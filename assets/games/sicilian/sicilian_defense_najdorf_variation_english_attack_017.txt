@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.10"]
+[White "Stickler, Florentin"]
+[Black "Witczak, Borys"]
+[Result "1-0"]
+[WhiteElo "2254"]
+[BlackElo "2041"]
+[ECO "B90"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Be6 10.Bxe6 fxe6 11.Na4 Ng4 12.Qd3 Nxe3 13.Qxe3 Nd7 14.Qb3 b5 15.Qxe6+ Kh8 16.Nc3 Nc5 17.Qd5 Qe8 18.Ne2 Rd8 19.Ng3 Rf4 20.Rad1 h5 21.Rfe1 h4 22.Nf5 h3 23.Nxe7 Rxf3 24.gxf3 Qxe7 25.Kh1 Qf6 26.Re3 Ne6 27.Rg1 Nf4 28.Qb7 d5 29.exd5 Rxd5 30.Rc3 Rd8 31.Qe4 g6 32.Rc6 Qg7 33.Rxa6 Kh7 34.Rb6 Kh6 35.Rxb5 Re8 36.a4 Qf6 37.a5 Re6 38.Rb6 Rxb6 39.axb6 Ne6 40.Rxg6+ Qxg6 41.Qxg6+ 1-0

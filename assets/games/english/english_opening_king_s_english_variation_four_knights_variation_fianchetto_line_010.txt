@@ -1,0 +1,14 @@
+[Event "Round 3: Ganguly, Surya Shekhar - Lu, Miaoyi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/tESaqiBP"]
+[Date "2026.07.02"]
+[Round "3.1"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Lu, Miaoyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2578"]
+[BlackElo "2392"]
+[ECO "A29"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Nd5 e4 6.Nxb4 Nxb4 7.Nd4 Ng4 8.Bh3 Qf6 9.Bxg4 Qxd4 10.Qb3 a5 11.O-O h5 12.Bh3 h4 13.Qc3 Nc6 14.Kg2 d6 15.Bxc8 Rxc8 16.b3 Qxc3 17.dxc3 b6 18.a4 h3+ 19.Kg1 f5 20.f3 O-O 21.Bf4 Rce8 22.Kf2 Re6 23.Rg1 Rfe8 24.Ra2 exf3 25.exf3 Ne5 1/2-1/2

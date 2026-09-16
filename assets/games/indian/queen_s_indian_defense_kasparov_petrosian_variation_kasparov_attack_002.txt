@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/LMZnfM5I"]
+[Date "2026.07.02"]
+[Round "6.4"]
+[White "Rzap, Filip"]
+[Black "Obrycki, Tomasz"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2236"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 c5 9.e4 Nd7 10.Bf4 Qc8 11.d5 exd5 12.exd5 Bxd5 13.O-O-O Qc6 14.Rxd5 Qxd5 15.Bb5 Rd8 16.Rd1 Qe6 17.Re1 Qxe1+ 18.Nxe1 Be7 19.Qf5 g6 20.Qd5 O-O 21.Bxd7 Bf6 22.Qc6 Bxc3 23.Nf3 1-0

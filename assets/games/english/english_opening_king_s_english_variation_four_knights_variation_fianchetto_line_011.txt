@@ -1,0 +1,15 @@
+[Event "Round 3: Jagesia Daksh - Singh, Siddharth"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-3/R83bcJKF/Ukg2wGKt"]
+[Date "2026.07.15"]
+[Round "3.7"]
+[White "Jagesia Daksh"]
+[Black "Singh, Siddharth"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2361"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.d3 Bc5 7.Bd2 O-O 8.Bg2 h6 9.O-O Nf6 10.a3 Re8 11.b4 Bb6 12.Rb1 Nd4 13.Nxd4 exd4 14.Na4 Bg4 15.Re1 Rb8 16.h3 Be6 17.Nxb6 axb6 18.Qc2 Qd7 19.Kh2 c6 20.a4 Bd5 21.Bxd5 Qxd5 22.e4 dxe3 23.Bxe3 b5 24.axb5 Qxb5 25.Qc4 Qf5 26.b5 Rxe3 27.fxe3 Qf2+ 28.Kh1 Nh5 29.Rg1 Nxg3+ 30.Rxg3 Qxg3 31.Qg4 Qd6 32.bxc6 Qxc6+ 33.Qg2 Qd7 34.d4 b5 35.Qg4 f5 36.Qf3 b4 37.Rb3 Qe6 38.Qd1 Qd5+ 39.Kh2 Ra8 40.Qb1 Ra3 41.Rxb4 Rxe3 42.Rb2 Qd6+ 0-1

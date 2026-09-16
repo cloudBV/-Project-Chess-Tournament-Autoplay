@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "8.1"]
+[White "Cieslak, Patryk"]
+[Black "Butkiewicz, Jan"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2197"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Knight Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.d4 Nh6 8.O-O Nf5 9.dxc5 Bxc5 10.a4 a5 11.Nbd2 b5 12.Nb3 Bb6 13.Nbd4 Nxd4 14.Nxd4 Bxd4 15.Qxd4 O-O 16.axb5 Bxb5 17.Rd1 Qc7 18.Bf4 Qc4 19.Qe3 Qe4 20.Qc1 Rfc8 21.Bg3 a4 22.h4 h6 23.f3 Qf5 24.Rd4 Rc4 25.Qd2 Rb8 26.Bf4 Rxd4 27.Qxd4 Bc4 28.Qd2 Qd3 29.Qf2 a3 30.bxa3 Qxc3 1-0

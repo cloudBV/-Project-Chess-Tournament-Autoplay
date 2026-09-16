@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "16.5"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Praggnanandhaa R"]
+[Result "0-1"]
+[WhiteElo "2820"]
+[BlackElo "2707"]
+[ECO "B12"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Qxd4 Nc6 6.Qf4 f6 7.Nc3 a6 8.Be2 fxe5 9.Nxe5 Nf6 10.Qg3 Bf5 11.O-O e6 12.Bf4 g6 13.Nxc6 bxc6 14.Be5 Bg7 15.Qe3 O-O 16.Na4 Bxc2 17.Nb6 Ra7 18.Rac1 c5 19.Qxc5 Ne4 20.Qd4 Bxe5 21.Qxe5 Qxb6 22.Rxc2 Nxf2 0-1

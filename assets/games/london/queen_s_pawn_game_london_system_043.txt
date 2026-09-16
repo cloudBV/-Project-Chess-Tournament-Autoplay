@@ -1,0 +1,15 @@
+[Event "Round 9: Zeynalli, Rashad - Akbas, Kaan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/5VzdqQ63"]
+[Date "2026.07.19"]
+[Round "9.12"]
+[White "Zeynalli, Rashad"]
+[Black "Akbas, Kaan"]
+[Result "0-1"]
+[WhiteElo "2269"]
+[BlackElo "2174"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Nbd2 e6 6.c3 cxd4 7.exd4 Nh5 8.Be3 Bd6 9.Ne5 Nf6 10.Ndf3 Qc7 11.Qa4 O-O 12.Bd3 Bxe5 13.dxe5 Nxe5 14.Nxe5 Qxe5 15.O-O-O Bd7 16.Qh4 Qh5 17.Qxh5 Nxh5 18.g4 Nf6 19.g5 Ng4 20.Bc5 Rfc8 21.h3 Ne5 22.Be3 Ba4 23.Bc2 Bxc2 24.Kxc2 Nc4 25.Bc1 b5 26.Kb1 Nd6 27.Bf4 Ne4 28.Rhf1 Rc4 29.Be3 a5 30.Rd4 Rxd4 31.cxd4 Rc8 32.Bf4 f6 33.gxf6 Nxf6 34.a4 bxa4 35.Rc1 Rxc1+ 36.Kxc1 Ne4 37.f3 Nf2 38.Kb1 Nxh3 39.Be3 g5 40.Ka2 h5 41.Ka3 h4 42.Kxa4 Nf4 43.Kxa5 Ne2 44.b4 h3 45.b5 h2 46.b6 h1=Q 47.b7 Qb1 48.Ka6 Qb4 49.Bxg5 Nxd4 0-1

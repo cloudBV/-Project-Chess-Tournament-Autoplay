@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-4/R4lqW8C9/QwkoXYEm"]
+[Date "2026.07.02"]
+[Round "4.1"]
+[White "Villa Tornero, Alex"]
+[Black "Pallares Jover, Adrian"]
+[Result "1-0"]
+[WhiteElo "2448"]
+[BlackElo "2146"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nb3 Bb4 7.Bd3 Nge7 8.O-O O-O 9.Be3 f5 10.exf5 Nxf5 11.Bxf5 Rxf5 12.Nd4 Nxd4 13.Qxd4 Qa5 14.Ne2 e5 15.Qd3 d5 16.a3 Be7 17.c4 Be6 18.cxd5 Qxd5 19.Qxd5 Bxd5 20.Rfd1 Bc6 21.Nc3 a6 22.Nd5 Bf8 23.Rd2 Re8 24.Rad1 Rf7 25.Nb6 Rf6 26.Rd8 Rxd8 27.Rxd8 Rd6 28.Rxf8+ Kxf8 29.Bc5 Ke7 30.Nc4 Ke6 31.Bxd6 Bb5 32.Bxe5 Bxc4 33.Bxg7 a5 34.Bc3 a4 35.f3 b5 36.Kf2 Bd5 37.g4 Kf7 38.Kg3 Bc4 39.f4 Be2 40.f5 Bd3 41.Kf4 Be2 42.Kg5 Bf3 43.h3 Bg2 44.h4 Bf3 45.h5 Bd1 46.h6 Kg8 47.Kf4 Be2 48.g5 Bh5 49.Ke5 Be2 50.Ke6 Bg4 51.Kf6 Bh3 52.g6 Bg4 53.Kg5 Be2 54.f6 Bd3 55.f7+ Kf8 56.Bb4# 1-0

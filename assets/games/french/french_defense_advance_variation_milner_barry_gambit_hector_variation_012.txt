@@ -1,0 +1,15 @@
+[Event "Round 6: Ahmadzada, Ahmad - Hajialiyev, Islam"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-6/R5fskPWN/JSy7PkBd"]
+[Date "2026.07.15"]
+[Round "6.1"]
+[White "Ahmadzada, Ahmad"]
+[Black "Hajialiyev, Islam"]
+[Result "1-0"]
+[WhiteElo "2537"]
+[BlackElo "2220"]
+[ECO "C02"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Rc8 9.Nbd2 dxc3 10.bxc3 Na5 11.Rb1 Qc7 12.c4 dxc4 13.Bc2 Ne7 14.Ne4 Nd5 15.Nfg5 Bc6 16.Qd4 Qd8 17.Nd6+ Bxd6 18.exd6 Qf6 19.Re5 h6 20.Ne4 Qd8 21.Rxe6+ fxe6 22.Qxg7 Rf8 23.Bxh6 Rf5 24.g4 Rf3 25.Bg5 Qd7 26.Qg8+ Rf8 27.Nf6+ Nxf6 28.Bg6+ Qf7 29.Bxf7+ Kd7 30.Qg6 1-0

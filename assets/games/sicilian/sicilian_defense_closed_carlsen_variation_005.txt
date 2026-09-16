@@ -1,0 +1,15 @@
+[Event "Round 5: Colville, Julian - Zhu, Linxi"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-5/iTkQlF0C/qumSQdOe"]
+[Date "2026.07.09"]
+[Round "5.3"]
+[White "Colville, Julian"]
+[Black "Zhu, Linxi"]
+[Result "1/2-1/2"]
+[WhiteElo "2333"]
+[BlackElo "2264"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Carlsen Variation"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 Nf6 6.b3 e6 7.Bb2 d5 8.exd5 exd5 9.O-O-O Be6 10.Nf3 Bb4 11.Qg5 Qe7 12.Bb5 O-O-O 13.Bxc6 bxc6 14.Ne5 Kb7 15.Nd3 Bd6 16.Na4 Nd7 17.Qd2 Rc8 18.Rhe1 Nb6 19.Nc3 Rhd8 20.Kb1 a6 21.a4 Qc7 22.Qg5 g6 23.g3 h5 24.f3 Be7 25.Qc1 g5 26.f4 Bg4 27.a5 Na8 28.Rxe7 Qxe7 29.Re1 Qc7 30.b4 d4 31.Ne4 gxf4 32.gxf4 Ka7 33.Qd2 Qd7 34.Ne5 Qd5 35.Nf6 Qb5 36.Nxf7 c5 37.Re7+ Kb8 38.Nxd8 Rxd8 39.bxc5 Nc7 40.Qd3 Qxc5 41.Re5 Qb4 42.h3 Bc8 43.Kc1 Nb5 44.Nd5 Qxa5 45.Ne7 Bb7 46.f5 Qc7 47.Re1 Re8 48.Qe2 d3 49.Qe5 Nd6 50.Qh2 Rxe7 51.Rxe7 Qxe7 52.Be5 Kc7 53.f6 Qf8 54.f7 Qxf7 55.Bxd6+ Kd7 56.cxd3 Qf1+ 57.Kd2 Qg2+ 58.Ke3 Qg6 59.Bb8 Qe6+ 60.Kd2 Qa2+ 61.Ke3 Qe6+ 62.Kd2 Qa2+ 63.Ke3 Qe6+ 1/2-1/2

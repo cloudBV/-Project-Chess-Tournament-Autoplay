@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.3"]
+[White "Ret, Adam Josef"]
+[Black "Moroni, Luca Jr"]
+[Result "0-1"]
+[WhiteElo "2045"]
+[BlackElo "2524"]
+[ECO "A10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 b6 2.g3 Bb7 3.Nf3 Bxf3 4.exf3 c5 5.d4 cxd4 6.Qxd4 Nc6 7.Qd1 e6 8.Bg2 Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 Nf6 11.Nc3 O-O 12.O-O Rc8 13.f4 Qe7 14.Rad1 Rfd8 15.Qd6 Kf8 16.b3 g6 17.Rd2 Qxd6 18.Rxd6 Ne7 19.Rfd1 Nf5 20.R6d3 Ke7 21.h3 h5 22.Bf3 Ne8 23.Nb5 Rc5 24.Nxa7 Nfd6 25.a4 Rc7 26.Nb5 Nxb5 27.axb5 Ra7 28.Kg2 Rc8 29.R1d2 Rcc7 30.Rd4 Ra3 31.b4 Rb3 32.c5 bxc5 33.Rc4 d5 34.b6 dxc4 35.bxc7 Nxc7 36.bxc5 Rb5 37.c6 Nd5 38.Rc2 Rc5 39.Be4 Kd6 40.Kf3 Rxc6 41.g4 f5 42.Bxd5 exd5 43.gxh5 gxh5 44.Ke3 Kc5 45.Rd2 Re6+ 46.Kf3 c3 0-1

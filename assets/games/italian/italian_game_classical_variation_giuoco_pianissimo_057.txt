@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.8"]
+[White "Warchol, Kamil"]
+[Black "Wilgosz, Szczepan"]
+[Result "1-0"]
+[WhiteElo "2297"]
+[BlackElo "2020"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O Bc5 6.c3 d6 7.Re1 a5 8.Nbd2 O-O 9.Nf1 Be6 10.Bb5 Bb6 11.Ng3 Nh7 12.h3 Ng5 13.Nxg5 hxg5 14.Be3 Bxe3 15.fxe3 Ne7 16.d4 Ng6 17.Qh5 exd4 18.exd4 Nf4 19.Qf3 Qf6 20.Rf1 Qh6 21.Ba4 Bxh3 22.gxh3 Nxh3+ 23.Kg2 Nf4+ 24.Kg1 Nh3+ 25.Kg2 Nf4+ 26.Kf2 Qh2+ 27.Ke3 Qxb2 28.Ne2 c5 29.Bd7 Rfd8 30.Bg4 Re8 31.Rab1 Qxa2 32.Nxf4 cxd4+ 33.cxd4 gxf4+ 34.Qxf4 d5 35.Qxf7+ 1-0

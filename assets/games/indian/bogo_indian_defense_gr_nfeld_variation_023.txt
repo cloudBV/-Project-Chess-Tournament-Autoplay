@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.15"]
+[Round "9.10"]
+[White "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Black "Northphrax 8.0.1_bdded80"]
+[Result "1-0"]
+[WhiteElo "3246"]
+[BlackElo "3248"]
+[ECO "E11"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d5 7.Bd3 dxe4 8.Nxe4 Nc6 9.Nc3 b6 10.O-O Bb7 11.Be3 Bd6 12.c5 bxc5 13.dxc5 Be5 14.Qc2 Bxc3 15.Qxc3 Ne7 16.Rfd1 Qe8 17.Ne5 Nfd5 18.Qc2 Nxe3 19.fxe3 Kh8 20.Rac1 Nc6 21.Bb5 f6 22.Nc4 Qh5 23.Qa4 Ne5 24.c6 Bc8 25.Qb4 Ng6 26.Qa5 Qg5 27.Kh1 Kg8 28.b4 h6 29.Rd2 a6 30.Ba4 Qxa5 31.Nxa5 Ne5 32.Kg1 Kf7 33.h4 g6 34.Bd1 h5 35.Be2 Rb8 36.e4 Rb6 37.Rc3 Ke7 38.Kf2 Nf7 39.Rg3 Ne5 40.Rc2 g5 41.Rc5 g4 42.Rb3 Rd8 43.Ke3 Rf8 44.Rbc3 Rd8 45.g3 Rf8 46.Rb3 Rd8 47.a4 Rb8 48.b5 axb5 49.axb5 Ra8 50.Ra3 Rf8 51.Rc1 f5 52.Raa1 Ra7 53.Nc4 Rxa1 54.Rxa1 Nxc4+ 55.Bxc4 Kd6 56.Rf1 Ke5 57.Bd3 Rf6 58.Be2 Rf8 59.Ra1 Kd6 60.Rd1+ Ke5 61.Rd4 Rg8 62.Ra4 Kd6 63.Bd3 Re8 64.Rd4+ Kc5 65.e5 Kb6 66.Be2 Ka7 67.Kd3 Kb6 68.Kc4 Rf8 69.Kb4 Re8 70.Bc4 Rf8 71.Rd1 f4 72.gxf4 Ka7 73.Ra1+ Kb8 74.Rf1 g3 75.Kc3 Rg8 76.Rg1 g2 77.Be2 Ka7 78.Bxh5 Kb6 79.Be2 Kc5 80.h5 Kb6 81.Kb4 Ba6 82.bxa6 Rb8 83.Rxg2 Rd8 84.h6 Rd4+ 85.Kc3 Rxf4 86.h7 Rh4 87.Bd3 Rh1 88.Rg8 Kc5 89.h8=Q Rxh8 90.Rxh8 Kd5 91.a7 Kxe5 92.a8=Q Kd6 93.Qf8+ Kd5 94.Qb4 Kxc6 95.Rd8 e5 96.Qb5# 1-0

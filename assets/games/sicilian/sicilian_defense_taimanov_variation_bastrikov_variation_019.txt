@@ -1,0 +1,14 @@
+[Event "Round 10: Hernandez Jimenez, Xavi - Munoz Triana, Joseph Steve"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-10/2c9qBSQ6/52M6r7qz"]
+[Date "2026.07.12"]
+[Round "10.6"]
+[White "Hernandez Jimenez, Xavi"]
+[Black "Munoz Triana, Joseph Steve"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2217"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Qc7 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Bd6 9.exd5 cxd5 10.Nb5 Qb8 11.Nxd6+ Qxd6 12.Qf3 Ne7 13.Re1 O-O 14.Bf4 Qb6 15.Qg3 Ng6 16.Bd6 Re8 17.Bc7 Qc6 18.h4 Ba6 19.h5 Bxd3 20.cxd3 Ne7 21.Be5 Nf5 22.Qf3 f6 23.Bc3 Qd7 24.Re2 e5 25.Rae1 Rf8 26.Qg4 Rad8 27.f4 Nd4 28.Qxd7 Nxe2+ 29.Rxe2 Rxd7 30.fxe5 fxe5 31.Bxe5 d4 32.Re4 Rf5 33.h6 gxh6 34.Bxd4 Rfd5 35.Bc3 Rxd3 36.Rh4 Rd1+ 37.Kh2 R1d6 38.Rf4 Rf7 39.Re4 Rb7 40.Rf4 Re6 41.Rg4+ Rg6 42.Re4 a6 43.Re8+ Kf7 44.Re4 Rb5 45.Rf4+ Ke6 46.Re4+ Kd7 47.Rd4+ Rd6 48.Rf4 Rg5 49.Rf7+ Kc6 50.Rf2 h5 51.Rf7 Rdg6 52.Rf2 Rg4 53.Kh3 Rd6 54.Rf5 Rd5 55.Rxh5 Rxh5+ 56.Kxg4 Rh1 57.Kg5 Rg1 58.g4 Kd5 59.Kf5 Rf1+ 60.Kg5 Ke4 61.a3 Rg1 62.Kh6 Rxg4 63.Kxh7 Kd3 64.Kh6 Kc2 65.Kh5 Rg2 66.Kh4 Kb3 0-1

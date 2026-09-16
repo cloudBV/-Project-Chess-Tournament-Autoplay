@@ -1,0 +1,14 @@
+[Event "Round 2: Chanda, Sandipan - Unuk, Laura"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/cMxLIr9G"]
+[Date "2026.07.22"]
+[Round "2.5"]
+[White "Chanda, Sandipan"]
+[Black "Unuk, Laura"]
+[Result "1/2-1/2"]
+[WhiteElo "2468"]
+[BlackElo "2301"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6 7.O-O fxe5 8.Nxe5 Nxe5 9.dxe5 Qc7 10.Re1 O-O-O 11.Bf1 Ne7 12.a4 Nf5 13.Bd3 g6 14.Na3 Kb8 15.Nb5 Bxb5 16.axb5 c4 17.Bxf5 gxf5 18.b3 Bc5 19.Be3 Rhg8 20.bxc4 dxc4 21.Qa4 Bxe3 22.Rxe3 Qc5 23.Re2 1/2-1/2

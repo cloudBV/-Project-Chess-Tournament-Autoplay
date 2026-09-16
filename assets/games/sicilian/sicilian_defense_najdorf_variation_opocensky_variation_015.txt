@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.18"]
+[White "Kossela, Peter"]
+[Black "Csati, Oliver"]
+[Result "0-1"]
+[WhiteElo "2054"]
+[BlackElo "2150"]
+[ECO "B92"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.Nd5 Nbd7 10.Qd3 Rc8 11.a4 Bxd5 12.exd5 Nb6 13.Bd2 e4 14.Qd4 Nbxd5 15.g4 h6 16.O-O-O Qc7 17.c4 Qd7 18.f3 Qxa4 19.fxe4 Nb4 20.Qe3 Nd7 21.e5 Nc5 22.Bxb4 Bg5 23.Bxc5 dxc5 24.Rd3 O-O 25.Qxg5 hxg5 26.h4 Qxc4+ 27.Kd2 Rcd8 28.hxg5 Qxb3 29.e6 Rxd3+ 30.Bxd3 Rd8 31.Rh3 fxe6 0-1

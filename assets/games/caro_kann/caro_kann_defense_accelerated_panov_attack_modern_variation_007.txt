@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-4/e9Y9Yxmi/yvYnX1Mt"]
+[Date "2026.07.12"]
+[Round "4.3"]
+[White "Janik, Marek Tobias"]
+[Black "Oruzinsky, Juraj"]
+[Result "1/2-1/2"]
+[WhiteElo "2163"]
+[BlackElo "2329"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Bc4 Nb6 7.Bb3 g6 8.Qf3 e6 9.Nge2 Bg7 10.d4 Bd7 11.O-O Bc6 12.Qh3 O-O 13.a4 Na6 14.a5 Nd5 15.Bh6 Nac7 16.Ne4 Nf6 17.Nc5 Bd5 18.Bf4 Nb5 19.Be5 Nd7 1/2-1/2

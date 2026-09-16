@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.9"]
+[White "Lakuntza Plazaola, Asier"]
+[Black "Vergara Anton, Diego"]
+[Result "1-0"]
+[WhiteElo "2279"]
+[BlackElo "2417"]
+[ECO "E32"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.e3 O-O 6.Bd3 Re8 7.Ne2 c5 8.O-O Nc6 9.a3 Bxc3 10.Qxc3 e5 11.d5 e4 12.dxc6 exd3 13.cxb7 Bxb7 14.Qxd3 Ba6 15.b4 Ng4 16.b5 Bb7 17.Bb2 Qg5 18.Nf4 Ne5 19.Bxe5 dxe5 20.Nd5 e4 21.Qd2 Rad8 22.Rad1 Bc8 23.Qa5 Bg4 24.Rd2 Rd6 25.Nf4 Rh6 26.Qc7 Qf6 27.a4 Rf8 28.Nd5 Qh4 29.Ne7+ Kh8 30.Rd8 Qxh2+ 31.Qxh2 Rxd8 32.Qc7 Re8 33.a5 Rh5 34.Qf4 Be6 35.Qxe4 h6 36.Nd5 Bd7 37.Qf4 Rf5 38.Qd6 Bc8 39.b6 axb6 40.axb6 Kh7 41.Ne7 Rf6 42.Qd3+ g6 43.Nxc8 Rxc8 44.Qd7 Rb8 45.Rb1 Kg7 46.Qc7 1-0

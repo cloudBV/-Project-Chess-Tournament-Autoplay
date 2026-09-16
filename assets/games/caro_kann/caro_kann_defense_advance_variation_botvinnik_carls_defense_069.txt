@@ -1,0 +1,14 @@
+[Event "Round 11: Xu, Chang(CQ) - Python, Noe"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/4mlOvgmB"]
+[Date "2026.07.19"]
+[Round "11.25"]
+[White "Xu, Chang(CQ)"]
+[Black "Python, Noe"]
+[Result "1-0"]
+[WhiteElo "2049"]
+[BlackElo "2010"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 e6 8.Nd2 a5 9.Qe2 Qb6 10.Nf3 Ba6 11.O-O Ne7 12.Be3 c5 13.c4 d4 14.Bf4 Ng6 15.Bg3 Be7 16.h4 Rb8 17.b3 Nf8 18.h5 h6 19.Rfe1 Nd7 20.Bh4 Qd8 21.Bxe7 Qxe7 22.Qe4 Bb7 23.Qg4 O-O 24.Qg3 Bxf3 25.Qxf3 f5 26.exf6 Nxf6 27.Qh3 e5 28.f3 Rbe8 29.Re2 Qd7 30.Bf5 Qb7 31.Rae1 Qc7 32.Be6+ Kh8 33.Rxe5 Re7 34.f4 Rfe8 35.f5 a4 36.bxa4 Qa5 37.Qa3 Nxh5 38.Qxc5 Qxa4 39.Qxd4 Qa3 40.Qe3 Qa4 41.c5 Qxa2 42.Bxa2 1-0

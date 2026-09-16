@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.14"]
+[Round "7.1"]
+[White "Fiorito, Francisco"]
+[Black "Santos Ruiz, Miguel"]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2604"]
+[ECO "A07"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Nf6 4.Bg2 g6 5.O-O Bg7 6.c4 dxc4 7.Na3 a5 8.Nxc4 a4 9.Nce5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Nd7 12.e6 fxe6 13.Nd4 Kf7 14.Be3 c6 15.Rac1 Nb8 16.Rd2 h6 17.Nf3 Ra5 18.Rc4 e5 19.Bb6 Rb5 20.Ba7 a3 21.b3 Na6 22.Be3 Ra5 23.Bb6 Rb5 24.Be3 Ra5 25.Bb6 Rb5 26.Be3 1/2-1/2

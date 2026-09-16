@@ -1,0 +1,14 @@
+[Event "SA Open 2026 Championship"]
+[Site "https://lichess.org/broadcast/south-african-open-championship-2026-championship/round-8/0EEBTw9y/aRsruqYi"]
+[Date "2026.07.04"]
+[Round "8.2"]
+[White "Dinham, James"]
+[Black "Mnyasta, Charlton"]
+[Result "1/2-1/2"]
+[WhiteElo "2140"]
+[BlackElo "2215"]
+[ECO "B68"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.a3 h6 12.Bh4 b4 13.axb4 Nxb4 14.Kb1 Rc8 15.e5 dxe5 16.Nxe5 Nfd5 17.Nxd5 Nxd5 18.Bxe7 Qxe7 19.Bxa6 Rb8 20.c4 Rb6 21.cxd5 Rxa6 22.Nxd7 Rd6 23.Ne5 O-O 24.Qe3 exd5 25.Rhe1 Ra8 26.Qd4 Qb7 27.Re3 Rda6 28.Rc3 Rb6 29.Nd3 Qa7 30.Kc2 Rab8 31.Qxd5 Rb5 32.Qe4 Qa2 33.Rb1 R5b6 34.Qc4 Qa8 35.Rg1 Qa7 36.Re1 Qb7 37.Re2 Qd7 38.h3 Qf5 39.Qe4 Qb5 40.f5 Rd6 41.g4 Rbd8 42.Re3 Rd4 43.Qc6 Qb8 44.b4 R4d6 45.Qf3 Qb5 46.Kb2 Qa4 47.Ra3 Qb5 48.Ra8 Qc4 49.Rxd8+ Rxd8 50.Qe2 Qd4+ 51.Kb1 Kh7 52.h4 Ra8 53.Nb2 Qd5 54.Re4 Ra3 55.Qc4 Qa8 56.g5 Ra1+ 57.Kc2 Rg1 58.Rg4 Re1 59.g6+ fxg6 60.fxg6+ Kh8 61.Rd4 Re8 62.Rd5 Rf8 63.Qd4 Qc8+ 64.Kb3 Qe6 65.h5 Rd8 66.Kc4 Rc8+ 67.Qc5 Kg8 68.Nd3 Rxc5+ 69.Kxc5 Qc8+ 70.Kd4 Kf8 71.b5 Ke7 72.b6 Qa6 73.Kc5 Qa5+ 74.Kc6 Qa4+ 75.Kc5 Qa5+ 76.Kc6 Qa4+ 77.Kc5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "6.8"]
+[White "Pressler, Tobias"]
+[Black "Svacina, Tobias"]
+[Result "1-0"]
+[WhiteElo "2182"]
+[BlackElo "2225"]
+[ECO "B52"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nf6 6.Re1 Nc6 7.c3 d5 8.e5 Ng8 9.d4 e6 10.a3 c4 11.Nbd2 Na5 12.b4 cxb3 13.Nxb3 Nc4 14.a4 Nh6 15.Nfd2 Rc8 16.Nxc4 Rxc4 17.Bxh6 gxh6 18.Re3 Rxa4 19.Rb1 Rg8 20.f4 Be7 21.Qc2 Rg6 22.Rf3 b6 23.Nd2 Ra3 24.Rbf1 Qc8 25.Nb1 Ra5 26.f5 exf5 27.Rxf5 Rg7 28.Qf2 Qe6 29.h3 Bg5 30.Rf6 Bxf6 31.exf6 Rg6 32.Re1 Rxf6 33.Rxe6+ Rxe6 34.Qc2 b5 35.Nd2 Ra1+ 36.Kh2 Raa6 37.Nf3 Rab6 38.Qxh7 a5 39.Ne5 Rf6 40.Qg8+ Ke7 41.Qc8 Rfd6 42.Qc7+ 1-0

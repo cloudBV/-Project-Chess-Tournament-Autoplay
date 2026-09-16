@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "13.4"]
+[White "Cnejev, Vladimir-Alexandru"]
+[Black "Terkiewicz, Bruno"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2221"]
+[ECO "B53"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 g6 6.c4 Bg7 7.Nc3 Nf6 8.Be2 O-O 9.O-O Bg4 10.Rd1 Nd7 11.b3 a6 12.Bb2 Bxf3 13.Bxf3 b5 14.cxb5 axb5 15.Be2 b4 16.Na4 Bxb2 17.Nxb2 Qb6 18.Qh6 Nd4 19.Bc4 Nf6 20.Rd3 Nc2 21.Rc1 Na3 22.Qf4 Rfc8 23.h3 Kg7 24.Re1 Nc2 25.Rc1 Nd4 26.Qe3 e5 27.Na4 Qd8 28.Rxd4 exd4 29.Qxd4 Rc7 30.Rd1 Qe7 31.f3 Rd8 32.Qb6 Rcd7 33.Qxb4 d5 34.Qxe7 Rxe7 35.exd5 Red7 36.Nc3 Re7 37.Kf2 Ra7 38.a4 Ne8 39.Nb5 Re7 40.Re1 Rxe1 41.Kxe1 Kf6 42.Kd2 Ke5 43.Ke3 g5 44.g3 Nf6 45.f4+ gxf4+ 46.gxf4+ Kf5 47.Bd3+ Ne4 48.Bxe4+ Kf6 49.Kd4 1-0

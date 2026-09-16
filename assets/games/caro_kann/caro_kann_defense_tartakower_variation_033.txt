@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.26"]
+[White "Gomez Pastrana, Juan"]
+[Black "Lucas Vega, Ivan"]
+[Result "1-0"]
+[WhiteElo "2253"]
+[BlackElo "2148"]
+[ECO "B15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Nd7 10.c4 Nf8 11.Qc2 g6 12.Be4 Bg4 13.Bd3 f5 14.Rfe1 Qh4 15.g3 Qh5 16.Nf4 Bxf4 17.Bxf4 Ne6 18.Rxe6 Rxe6 19.d5 Re7 20.Qd2 cxd5 21.cxd5 Bf3 22.d6 Re6 23.Bb5 a6 24.d7 Rd8 25.Rc1 Rc6 26.Bxc6 bxc6 27.Re1 Be4 28.Bc7 Rxd7 29.Qxd7 Qf3 30.Qd8+ Kg7 31.Be5+ Kh6 32.Qh4+ 1-0

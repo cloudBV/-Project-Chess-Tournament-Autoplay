@@ -1,0 +1,15 @@
+[Event "26 Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.04"]
+[Round "7.1"]
+[White "Gines Esteo, Pedro Antonio"]
+[Black "Baron Isanta, Jose Maria"]
+[Result "1-0"]
+[WhiteElo "2470"]
+[BlackElo "2288"]
+[ECO "E73"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 e5 7.d5 Na6 8.h4 Nc5 9.Qc2 h5 10.f3 a5 11.Nh3 c6 12.Nf2 Bd7 13.g4 a4 14.g5 Nh7 15.O-O-O Qa5 16.Kb1 Rfd8 17.Nd3 Nxd3 18.Rxd3 c5 19.a3 Re8 20.Rdd1 Re7 21.Bd2 Qd8 22.Bd3 Kh8 23.Rde1 Qf8 24.Rhg1 Be8 25.Qd1 b6 26.Bc2 Rea7 27.f4 exf4 28.Bxf4 Be5 29.Bxe5+ dxe5 30.Ref1 Qd6 31.Rf2 f6 32.gxf6 Rf7 33.Rxg6 Rf8 34.Rh6 Qd7 35.d6 Qg4 36.Nd5 Rd8 37.Qd2 Rxd6 38.Rg2 Qf4 39.Qxf4 1-0

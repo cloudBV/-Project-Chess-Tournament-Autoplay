@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.04"]
+[Round "3.2"]
+[White "Genov, Petar"]
+[Black "Mitrev, Emil"]
+[Result "0-1"]
+[WhiteElo "2445"]
+[BlackElo "2042"]
+[ECO "B28"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 d6 4.Bg2 Nf6 5.d3 e6 6.O-O Be7 7.Re1 Nbd7 8.c3 O-O 9.Nbd2 d5 10.e5 Ne8 11.Nf1 b5 12.h4 Nc7 13.Bf4 Re8 14.N1h2 Rb8 15.Ng5 Nf8 16.Qh5 Bxg5 17.hxg5 Re7 18.Ng4 Ne8 19.Bf3 c4 20.Rad1 Rd7 21.Kg2 d4 22.cxd4 Rxd4 23.dxc4 Bb7 24.Ne3 Bxf3+ 25.Qxf3 Ng6 26.b3 Rxd1 27.Rxd1 Qc7 28.Qe4 b4 29.Rd4 a5 30.Kg1 a4 31.Qd3 Nxe5 32.Qe4 f6 33.gxf6 gxf6 34.Ng4 Rd8 35.Nxe5 Rxd4 36.Qxd4 fxe5 37.Bxe5 Qc6 38.Qg4+ Kf7 39.Qh5+ Kg8 40.Qg4+ Kf7 41.Kh2 axb3 42.axb3 Qd7 43.Qf3+ Kg8 44.Kg2 Qc8 45.Qe4 Qd7 46.Qg4+ Kf7 47.Qf3+ Kg8 48.c5 Qb5 49.Qe3 Qc6+ 50.Kh2 Qb5 51.Qg5+ Kf7 52.Qf4+ Kg8 53.Bd4 Qc6 54.Qe5 Kf7 55.Qh5+ Kg8 56.Qg4+ Kf7 57.Qf4+ Kg8 58.f3 Qd5 59.Qe3 Kf7 60.Kg2 Kg8 61.g4 Kf7 62.Be5 Kg8 63.Qg5+ Kf7 64.Qh5+ Kf8 65.Qh6+ Kg8 66.Qe3 Kf7 67.Kg3 Kg8 68.Bd4 Kf7 69.Qf4+ Kg8 70.Qe3 Kf7 71.Bb2 Kg8 72.Qe5 Qxb3 73.Qh8+ Kf7 74.Qxh7+ Kf8 75.Bc1 Qc3 76.Bh6+ Ng7 77.c6 Qe5+ 78.Kh3 b3 79.Bxg7+ Qxg7 80.Qxg7+ Kxg7 81.c7 b2 82.c8=Q b1=Q 83.Qxe6 Qh1+ 84.Kg3 Qg1+ 85.Kf4 Qh2+ 86.Kf5 Qc2+ 87.Qe4 Qc8+ 88.Kf4 Qc1+ 89.Qe3 Qc4+ 90.Kg3 Qb5 91.Qe7+ Kg8 92.Kh4 Qb3 93.Qg5+ Kh8 94.Qe5+ Kg8 95.Kg3 Qb1 96.Qg5+ Kh8 97.Qf6+ Kg8 98.Qe6+ Kh8 99.Qe4 Qg1+ 100.Kh4 Qf2+ 101.Kg5 Qd2+ 102.Kf5 Qd7+ 103.Kf4 Qd2+ 104.Ke5 Qc3+ 105.Ke6 Qc8+ 106.Kd5 Qd7+ 107.Kc4 Qa4+ 108.Kd3 Qd1+ 109.Ke3 Qg1+ 110.Ke2 Qg2+ 111.Kd3 Qf1+ 112.Qe2 Qb1+ 113.Ke3 Qb6+ 114.Kf4 Qb4+ 115.Kg3 Qd4 116.Qe8+ Kg7 117.Qe7+ Kg8 118.Qg5+ Kh8 119.Qc1 Kg7 120.Qc7+ Kh8 121.f4 Qe3+ 122.Kh4 Qf2+ 123.Kg5 Qd2 124.Kg6 Qd3+ 125.f5 Qa6+ 126.Kh5 Qa8 127.Qe5+ Kg8 128.Qe6+ Kh8 129.Kg5 Qb8 130.Qd7 Qg8+ 131.Kf6 Qf8+ 132.Qf7 Qd8+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 1: Dziewonski, Dariusz - Fiorito, Francisco"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/HldjdGfZ"]
+[Date "2026.07.04"]
+[Round "1.8"]
+[White "Dziewonski, Dariusz"]
+[Black "Fiorito, Francisco"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2452"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.O-O a4 12.Rad1 Qa5 13.Bd4 Bd7 14.Bxf6 Bxf6 15.Nd5 Qxd2 16.Nxf6+ Kg7 17.Nh5+ gxh5 18.Rxd2 Be6 19.h4 Rfc8 20.b3 axb3 21.axb3 Ra3 22.Rb1 Rc5 23.Kh2 f6 24.f4 Bg4 25.Bf3 Bxf3 26.gxf3 b5 27.cxb5 Rxb5 28.Rd3 Rc5 29.Rb2 Kf7 30.f5 Rc1 31.Kg3 Rh1 32.Rdd2 Rc1 33.Rd3 Rg1+ 34.Kf4 Rh1 35.Kg3 Ra8 36.b4 Rg8+ 37.Kf4 Rxh4+ 38.Ke3 Rh1 39.b5 h4 40.b6 Rb8 41.b7 Rc1 42.Kf4 h3 43.Rdb3 Rh1 44.Rc3 Rg1 45.Rcc2 Rg2 46.Rxg2 hxg2 47.Rxg2 Rxb7 48.Rh2 Kg7 49.Rg2+ Kh8 50.Rh2 Rb8 51.Ke3 Rb3+ 52.Kf4 Rd3 53.Rh1 d5 54.Ra1 dxe4 55.fxe4 Rd7 56.Rh1 Rd8 57.Rh2 Kg7 58.Rg2+ Kf7 59.Rh2 Rh8 60.e5 fxe5+ 61.Kxe5 h5 62.Rh4 Rh6 63.Ke4 Kf6 64.Kf4 Rh8 65.Rh1 h4 66.Rh3 Rh5 67.Kg4 Rh7 68.Kf4 Rh8 69.Kg4 Ra8 70.Re3 Ra4+ 71.Kh3 Rf4 72.Re6+ Kf7 73.Re5 Kf8 74.Re6 Rxf5 75.Kxh4 Kf7 76.Ra6 Rf6 77.Ra1 Rg6 78.Rf1+ Ke8 79.Kh5 Rg7 80.Re1 Kd7 81.Kh6 Rg3 82.Kh5 Kd6 83.Rd1+ Ke5 84.Re1+ Kf5 85.Rf1+ Ke4 86.Re1+ Re3 87.Rf1 Re2 88.Kg4 Rg2+ 89.Kh3 Rg7 90.Ra1 e5 91.Kh2 Kf3 92.Ra3+ Kf4 93.Ra4+ e4 94.Kh1 Kf3 95.Ra2 e3 96.Rg2 e2 0-1

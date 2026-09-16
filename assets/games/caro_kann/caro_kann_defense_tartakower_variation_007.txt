@@ -1,0 +1,15 @@
+[Event "Round 1: Kumar, Prajit Sai - Cukrowski, Filip"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/FRCOUiDJ"]
+[Date "2026.07.04"]
+[Round "1.14"]
+[White "Kumar, Prajit Sai"]
+[Black "Cukrowski, Filip"]
+[Result "0-1"]
+[WhiteElo "2241"]
+[BlackElo "2403"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Na6 9.a3 Re8 10.O-O Nc7 11.c4 f5 12.g3 Qf6 13.Qd2 h6 14.h4 Be6 15.Rad1 Rad8 16.Rfe1 Bc8 17.Qc1 b6 18.Nc3 f4 19.Bxf4 Rxe1+ 20.Rxe1 Bxf4 21.Qxf4 Qxf4 22.gxf4 Rxd4 23.Bb1 Kf8 24.Re4 Rd8 25.Re3 Ne6 26.Be4 Rd6 27.Ne2 Nc5 28.b4 Nxe4 29.Rxe4 Be6 30.Rd4 Rxd4 31.Nxd4 Bxc4 32.Nxc6 a6 33.f3 Bb5 34.Nd4 Bd7 35.Kf2 Ke7 36.Ke3 Kd6 37.Ke4 Bc8 38.Nc2 Bb7+ 39.Ke3 h5 40.Ke2 Kc6 41.a4 a5 42.Ke3 axb4 43.Nxb4+ Kd6 44.Nd3 Bc8 45.Kd4 f6 46.Nb2 Be6 47.Ke4 Kc5 48.Nd3+ Kc4 49.f5 Bd7 50.Nf4 Bxa4 51.Nxh5 b5 52.Nxf6 gxf6 53.h5 b4 54.h6 b3 55.h7 b2 56.h8=Q b1=Q+ 57.Kf4 Qc1+ 58.Kg3 Qg1+ 0-1

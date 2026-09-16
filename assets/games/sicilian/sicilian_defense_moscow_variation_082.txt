@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "14.1"]
+[White "Lynx 1.11.0-dev-edbae92a"]
+[Black "Sirius 3bedea6e"]
+[Result "1-0"]
+[WhiteElo "3332"]
+[BlackElo "3452"]
+[ECO "B51"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 Nf6 5.Nc3 cxd4 6.Qxd4 g6 7.Bg5 Bg7 8.O-O-O O-O 9.e5 Nxe5 10.Nxe5 Ng4 11.Nd5 Bxe5 12.Bxe7 Bxd4 13.Rxd4 Be6 14.Bxd8 Raxd8 15.Nf4 Bf5 16.h3 Nf6 17.Rhd1 Rc8 18.Ba4 h5 19.f3 h4 20.Ne2 b5 21.Bb3 a5 22.a4 Rfe8 23.R1d2 bxa4 24.Rxa4 Re5 25.Rxh4 Be6 26.Bxe6 fxe6 27.Rhd4 Rc6 28.Ra4 Rc7 29.Nc3 Re1+ 30.Rd1 Rxd1+ 31.Kxd1 Rc5 32.Ra3 Kf7 33.Rb3 Nh5 34.Ne4 Rd5+ 35.Ke1 Nf4 36.Rb7+ Kf8 37.Kf2 Rd1 38.g3 Nh5 39.c4 e5 40.Rb6 Rc1 41.b3 Rc2+ 42.Ke1 Ke7 43.Kd1 Rh2 44.h4 Rh1+ 45.Kc2 Ng7 46.Rb7+ Kf8 47.Nxd6 Ne6 48.Kd2 Rf1 49.Rf7+ Kg8 50.Rf6 Nc5 51.Ke2 Rh1 52.Rxg6+ Kh7 53.Rg5 Nxb3 54.Rxe5 Ra1 55.Re7+ Kg8 56.Ra7 a4 57.Nb5 Nc5 58.h5 Rc1 59.Nd6 Ra1 60.h6 Ne6 61.h7+ Kh8 62.Nf7+ Kxh7 63.Ng5+ Kg6 64.Nxe6 Kf6 65.Nc5 Ke5 66.Rxa4 Rb1 67.Nd3+ Kd4 68.c5+ Kd5 69.g4 Kc6 70.Ra6+ Kd5 71.Rd6+ Kc4 72.c6 Rb8 73.Ne5+ Kc3 74.c7 Rc8 75.Rc6+ Kd4 76.f4 Ke4 77.Rc4+ Kd5 78.Ke3 Kd6 79.Rc6+ Ke7 80.f5 Rxc7 81.Rxc7+ Kd6 82.Rc4 Kxe5 83.Rc6 Kd5 84.Rc7 Kd6 85.Rh7 Ke5 86.Re7+ Kd5 87.f6 Kd6 88.Re4 Kc6 89.f7 Kc5 90.f8=Q+ Kc6 91.Re6+ Kb5 92.Qa3 Kc4 93.Rb6 Kd5 94.Qa6 Ke5 95.Rb2 Kd5 96.Qb6 Kc4 97.Qc6# 1-0

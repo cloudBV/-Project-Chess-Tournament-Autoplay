@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.14"]
+[Round "4.9"]
+[White "Belin, Anton"]
+[Black "Krylov, Philippe"]
+[Result "1/2-1/2"]
+[WhiteElo "2206"]
+[BlackElo "2140"]
+[ECO "B19"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bd3 Bxd3 9.Qxd3 Qc7 10.Bd2 e6 11.O-O-O Ngf6 12.Qe2 O-O-O 13.Kb1 Bd6 14.Nf1 Rhe8 15.Ne3 e5 16.dxe5 Nxe5 17.Rhe1 Neg4 18.Qf1 Bf4 19.Nxg4 Rxe1 20.Rxe1 Bxd2 21.Nxd2 Nxg4 22.Qe2 Nf6 23.Nc4 Re8 24.Qd2 Qd7 25.Rxe8+ Nxe8 26.Qe1 Nd6 27.Nxd6+ Qxd6 28.b3 Qf6 29.g3 h5 30.Qe3 b6 31.a4 Kb7 32.f4 Qd6 33.Qe8 Qe6 34.Qf8 g6 35.Kb2 Qf6+ 36.Ka2 c5 37.a5 Qe6 38.Qd8 bxa5 39.Ka3 c4 40.Qxa5 cxb3 41.cxb3 Qa6 42.Kb4 Qxa5+ 43.Kxa5 a6 44.b4 f5 45.b5 1/2-1/2

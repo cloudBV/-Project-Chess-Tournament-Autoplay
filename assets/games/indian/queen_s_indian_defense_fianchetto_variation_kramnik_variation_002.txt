@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-6/0eAyYAIf/rDuF93Xy"]
+[Date "2026.07.03"]
+[Round "6.2"]
+[White "Jimenez Freniche, David"]
+[Black "Herman Gamazo, Isaac"]
+[Result "0-1"]
+[WhiteElo "2185"]
+[BlackElo "2264"]
+[ECO "E17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 d5 8.cxd5 exd5 9.Nc3 Nbd7 10.Bf4 c5 11.Qc2 Rc8 12.Rad1 Ne4 13.dxc5 Bxc5 14.Nd4 Ndf6 15.Bh3 Bxd4 16.Rxd4 Rc5 17.f3 Nxc3 18.bxc3 Bc8 19.Bf1 Be6 20.c4 Rxc4 21.Rxc4 dxc4 22.e4 b5 23.Qc3 a5 24.Bg5 Nxe4 25.Rxe4 Qxg5 26.Qxa5 Rc8 27.Re1 h5 28.Kg2 h4 29.Rb1 h3+ 30.Kf2 Qc5+ 31.Ke1 Qe3+ 32.Be2 Qg1+ 33.Bf1 Qe3+ 34.Be2 c3 35.Qa3 Bc4 0-1

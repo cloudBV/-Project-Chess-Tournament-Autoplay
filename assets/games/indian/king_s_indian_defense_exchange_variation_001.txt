@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-6/ibkEWrNw/watd3eW3"]
+[Date "2026.07.14"]
+[Round "6.6"]
+[White "Bednar, Jan"]
+[Black "Benci, Jozef"]
+[Result "1/2-1/2"]
+[WhiteElo "2031"]
+[BlackElo "2169"]
+[ECO "E92"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Exchange Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.e4 O-O 6.Be2 e5 7.dxe5 dxe5 8.Qxd8 Rxd8 9.Bg5 Re8 10.Nd5 Nxd5 11.cxd5 c6 12.Bc4 cxd5 13.Bxd5 Na6 14.Bd2 Nc7 15.Bb3 Be6 16.Rc1 Bxb3 17.Rxc7 Bxa2 18.Rxb7 Bb1 19.Ng5 f6 20.Ke2 Ba2 21.Nh3 Bc4+ 22.Kf3 Rad8 23.Rc1 Be6 24.Be3 f5 25.Rcc7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.12"]
+[White "Pressler, Tobias"]
+[Black "Polak, Tomas"]
+[Result "0-1"]
+[WhiteElo "2182"]
+[BlackElo "2443"]
+[ECO "B18"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nf6 7.h4 Nh5 8.Nxh5 Bxh5 9.Bc4 e6 10.Be3 Nd7 11.Qd2 Nb6 12.Bb3 Bxf3 13.gxf3 Be7 14.h5 Bf6 15.O-O-O a5 16.a3 a4 17.Ba2 Nd5 18.c4 Nxe3 19.fxe3 c5 20.Bb1 cxd4 21.Bc2 dxe3 22.Qb4 Qa5 23.Qxb7 O-O 24.Qe4 Rfd8 25.Rh2 Rxd1+ 26.Bxd1 Rd8 27.Qc2 Qc7 28.Rg2 Rd4 29.c5 Qc6 30.Kb1 Qd5 31.Rg1 Rd2 0-1

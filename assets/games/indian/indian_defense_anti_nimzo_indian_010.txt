@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "15.2"]
+[White "Praggnanandhaa R"]
+[Black "Gukesh D"]
+[Result "0-1"]
+[WhiteElo "2707"]
+[BlackElo "2655"]
+[ECO "E10"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 b6 5.b3 Bb7 6.Bd3 Nbd7 7.O-O Bd6 8.cxd5 exd5 9.Ba3 c5 10.Nc3 O-O 11.Rc1 Qe7 12.Nb5 Bb8 13.Bb2 a6 14.Nc3 Bd6 15.Ne2 Rac8 16.Ng3 g6 17.Qe2 Ne4 18.Rfd1 h5 19.Nf1 Ndf6 20.h3 a5 21.Ba6 Bxa6 22.Qxa6 a4 23.N1d2 Rfe8 24.dxc5 Bxc5 25.b4 Ra8 26.Qb5 Bxb4 27.Nxe4 dxe4 28.Qxb6 exf3 29.Bxf6 Qe6 30.Rc6 Qe4 31.Bd4 Rab8 32.Qc7 fxg2 33.Rf6 Be7 34.Rf4 Qe6 35.Ba1 Qxh3 36.f3 Qh1+ 37.Kf2 Qxd1 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Gade Sharanya - Munoz, Miguel"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-6/SDE6E1pr/ETdRHdsD"]
+[Date "2026.07.09"]
+[Round "6.6"]
+[White "Gade Sharanya"]
+[Black "Munoz, Miguel"]
+[Result "0-1"]
+[WhiteElo "2084"]
+[BlackElo "2316"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 b5 6.e4 exd5 7.cxd5 c4 8.a4 bxa4 9.Qxa4 a5 10.Bxc4 O-O 11.Be3 d6 12.Ne2 Nbd7 13.Bb5 Nc5 14.Qc2 Bd7 15.O-O Re8 16.Bf2 Rc8 17.Rfc1 Ncxe4 18.Bxd7 Nxf2 19.Bxc8 Qb6 20.Nd4 Bc5 21.Na4 Bxd4 22.Nxb6 Nd1+ 23.Kf1 Ne3+ 24.Ke2 Nxc2+ 25.Kd3 Nxa1 26.Na4 Nb3 27.Rc6 Nc5+ 28.Kxd4 Nxa4 29.Ba6 Rd8 30.b3 Nc5 31.Kc4 Kf8 32.g4 Ke7 33.Bb5 Ne8 34.g5 Rb8 35.Kd4 0-1

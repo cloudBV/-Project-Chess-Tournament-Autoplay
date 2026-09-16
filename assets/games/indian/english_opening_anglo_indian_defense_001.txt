@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/ixhfBIBB"]
+[Date "2026.07.01"]
+[Round "5.11"]
+[White "Kusiak, Mateusz"]
+[Black "Zalega, Maciej"]
+[Result "0-1"]
+[WhiteElo "2063"]
+[BlackElo "2217"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nf6 6.d3 h6 7.Nf3 Nc6 8.O-O Bd6 9.a3 a5 10.Be3 O-O 11.h3 Qe7 12.Rc1 Be6 13.Nd2 Qd7 14.Kh2 Ne7 15.Qa4 Nf5 16.Qxd7 Nxd7 17.Nb5 c6 18.Nxd6 Nxd6 19.Bc5 Nxc5 20.Rxc5 f6 21.f4 exf4 22.Rxf4 Ra6 23.Rd4 Nb5 24.Ra4 Rd8 25.Nc4 Nd4 26.Raxa5 Bxc4 27.dxc4 Rb6 28.b4 Nb3 29.Rf5 Nxa5 30.Rxa5 Rd2 31.Ra8+ Kf7 32.Ra7 Rxe2 33.c5 Ra6 34.Rxb7+ Re7 35.b5 Rxb7 36.bxa6 Ra7 37.Bxc6 Rxa6 38.Be4 Rxa3 39.h4 Ke6 40.Kh3 f5 41.Bh1 f4 42.Kg4 Rxg3+ 43.Kxf4 Rh3 0-1

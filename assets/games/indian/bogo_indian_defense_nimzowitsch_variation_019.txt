@@ -1,0 +1,14 @@
+[Event "Round 5: Maki-Uuro, Miikka - Yankelevich, Lev"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-5/w4Fn0cuf/B263WH90"]
+[Date "2026.07.21"]
+[Round "5.4"]
+[White "Maki-Uuro, Miikka"]
+[Black "Yankelevich, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2194"]
+[BlackElo "2451"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.e3 Bxd2+ 6.Qxd2 d6 7.Nc3 O-O 8.Bd3 e5 9.Bc2 Na6 10.O-O Bg4 11.Ng5 h6 12.Nge4 Nxe4 13.Bxe4 c6 14.f4 f5 15.Bc2 e4 16.Rab1 Bh5 17.b4 Bf7 18.c5 Rfd8 19.Qe1 Bc4 20.Bb3 Qf7 21.Qe2 Bxe2 22.Bxf7+ Kxf7 23.Nxe2 Nc7 24.Nc3 b5 25.cxd6 Rxd6 26.a4 bxa4 27.Ra1 a5 28.Nb1 1/2-1/2

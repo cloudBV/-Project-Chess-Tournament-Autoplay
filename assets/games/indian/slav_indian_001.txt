@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/UHjHEVJy"]
+[Date "2026.07.03"]
+[Round "7.11"]
+[White "Wierzbicki, Dawid"]
+[Black "Backiel, Hubert"]
+[Result "0-1"]
+[WhiteElo "2207"]
+[BlackElo "2253"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Slav Indian"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.Qc2 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Be2 Bb7 9.Bd2 Be7 10.b4 O-O 11.O-O a5 12.bxa5 b4 13.a6 Bxa6 14.Bxa6 Rxa6 15.e4 Qa8 16.Bg5 Rb8 17.Nbd2 h6 18.Bh4 Bf8 19.Rfc1 c5 20.Bxf6 gxf6 21.Nb3 Rc8 22.Qe2 Ra3 23.h4 Rc7 24.dxc5 Nxc5 25.Nxc5 Bxc5 26.Qb2 Kg7 27.e5 f5 28.Nd2 Rg3 0-1

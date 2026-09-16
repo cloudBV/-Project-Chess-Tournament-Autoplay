@@ -1,0 +1,15 @@
+[Event "Round 8: Annaberdiyev, Meylis - Khazhatuly, Alikhan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/ANoZ6pmu"]
+[Date "2026.07.04"]
+[Round "8.12"]
+[White "Annaberdiyev, Meylis"]
+[Black "Khazhatuly, Alikhan"]
+[Result "1/2-1/2"]
+[WhiteElo "2427"]
+[BlackElo "2148"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Nc3 Bb4 7.e5 Ne4 8.O-O Nxc3 9.bxc3 Be7 10.Qd3 d6 11.Bf4 dxe5 12.Bxe5 Bf6 13.Qg3 Bxe5 14.Qxe5 O-O 15.Rfd1 Nd7 16.Qg3 Qe7 17.Bf3 Nf6 18.Rab1 e5 19.Bxb7 Nh5 20.Qf3 Bxb7 21.Rxb7 Qg5 22.Nc6 Rae8 23.Rdd7 e4 24.Qe3 Nf4 25.g3 Nh3+ 26.Kf1 Qg4 27.Qe2 Qe6 28.Nd4 Qf6 29.Kg2 e3 30.fxe3 Ng5 31.Rbc7 Qe5 32.h4 Qe4+ 33.Kh2 Ne6 34.Ra7 Rc8 35.Qd3 Qxd3 36.cxd3 Nc5 37.Rdc7 g6 38.h5 Nxd3 39.Rxc8 Rxc8 40.h6 Kf8 41.Rxa6 Rxc3 42.Ra8+ Ke7 43.Rh8 Ra3 44.Rxh7 Rxa2+ 45.Kg1 Ra1+ 46.Kg2 Ra2+ 47.Kf1 Ne5 48.Rh8 Rh2 49.Kg1 Ng4 50.h7 Kf6 51.Nf3 Rh5 52.Re8 Rxh7 53.Re4 Nh6 54.Rf4+ Kg7 55.g4 Rh8 56.e4 Re8 1/2-1/2

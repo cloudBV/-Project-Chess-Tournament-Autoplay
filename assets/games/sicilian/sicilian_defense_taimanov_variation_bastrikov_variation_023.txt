@@ -1,0 +1,15 @@
+[Event "Round 5: Mohandesi, Shahin - Ipek, Egehan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/76u5iLFD"]
+[Date "2026.07.16"]
+[Round "5.30"]
+[White "Mohandesi, Shahin"]
+[Black "Ipek, Egehan"]
+[Result "0-1"]
+[WhiteElo "2000"]
+[BlackElo "2206"]
+[ECO "B47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Nf6 8.O-O Bc5 9.Be3 Ne5 10.Bf4 d6 11.Nb3 Ba7 12.Qe2 O-O 13.Rad1 b5 14.Kh1 Bb7 15.Bc1 Rac8 16.f4 Nc4 17.Rd3 b4 18.Nd1 a5 19.g4 Nd7 20.Rh3 a4 21.Na1 d5 22.c3 dxe4 23.cxb4 Rfe8 24.Bxe4 Nd6 25.Bxb7 Qxb7+ 26.Qg2 Rxc1 0-1

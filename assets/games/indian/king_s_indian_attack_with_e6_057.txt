@@ -1,0 +1,14 @@
+[Event "Round 3: Bakija, Alan - De Wit, Evan"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/F4BON3L7"]
+[Date "2026.07.23"]
+[Round "3.27"]
+[White "Bakija, Alan"]
+[Black "De Wit, Evan"]
+[Result "1-0"]
+[WhiteElo "2172"]
+[BlackElo "2009"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 d5 4.O-O c5 5.c4 d4 6.e3 Nc6 7.exd4 cxd4 8.d3 Bd6 9.Bg5 h6 10.Bxf6 Qxf6 11.Nbd2 Qe7 12.Re1 O-O 13.a3 a5 14.Nb3 Qf6 15.c5 Bc7 16.Nbd2 e5 17.Nc4 Bg4 18.Rb1 a4 19.Ncd2 Ba5 20.Ne4 Qe7 21.Re2 f5 22.Nd6 e4 23.dxe4 Ne5 24.Nxe5 Qxe5 25.Rc1 fxe4 26.Rxe4 Qxe4 27.Bxe4 Bxd1 28.Rxd1 Bc7 29.Nxb7 Be5 30.Rd3 Ra6 31.f3 Kf7 32.Kf2 Ke7 33.Ke2 g5 34.Rd2 h5 35.Kd3 h4 36.Kc4 Raf6 37.Kd5 Bc7 38.Rxd4 hxg3 39.hxg3 Ra6 40.g4 Rff6 41.Rb4 Bf4 42.Kc4 Bd2 43.Rb5 Be3 44.Nd6 Raxd6 45.cxd6+ Rxd6 46.Bc2 Rd4+ 47.Kc3 Kd6 48.Ra5 Bd2+ 49.Kxd4 Bxa5 50.Bxa4 Bd2 51.Be8 Bf4 52.b4 Be5+ 53.Kc4 Kc7 54.a4 Kb6 55.a5+ Kb7 56.Kb3 Bg3 57.b5 Be1 58.Ka4 Ka7 59.b6+ Ka6 60.Bb5+ Kb7 61.Bd7 1-0

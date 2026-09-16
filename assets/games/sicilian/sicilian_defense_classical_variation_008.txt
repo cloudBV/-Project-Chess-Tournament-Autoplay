@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "15.1"]
+[White "Sobol, Matvii"]
+[Black "Bouska, Jiri"]
+[Result "1/2-1/2"]
+[WhiteElo "2431"]
+[BlackElo "2295"]
+[ECO "B56"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Nb3 g6 7.Bg5 Bg7 8.Qd2 Be6 9.O-O-O O-O 10.h4 h5 11.f3 a5 12.a4 Nb4 13.Kb1 Qb6 14.Be3 Qc7 15.Nd4 Bd7 16.Bh6 d5 17.e5 Bxh6 18.Qxh6 Qxe5 19.Be2 Qg3 20.Bb5 Bxb5 21.Ndxb5 Qxg2 22.Nd4 e5 23.Rhg1 Qh2 24.Ne6 Qxc2+ 25.Ka1 fxe6 26.Rxg6+ Kf7 27.Rxf6+ Ke7 28.Qg7+ Kd6 29.Rxf8 Qb3 30.Ne4+ Kc6 31.Rc1+ Nc2+ 32.Rxc2+ Qxc2 33.Rxa8 Qd1+ 34.Ka2 Qxa4+ 35.Kb1 Qd1+ 1/2-1/2

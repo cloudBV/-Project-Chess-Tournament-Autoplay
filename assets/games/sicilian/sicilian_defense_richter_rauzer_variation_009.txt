@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/GrniibzU"]
+[Date "2026.07.13"]
+[Round "1.11"]
+[White "Albornoz Cabrera, Carlos Daniel"]
+[Black "Almeida, Joao Pedro Dias"]
+[Result "1-0"]
+[WhiteElo "2592"]
+[BlackElo "2156"]
+[ECO "B62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd3 Bd7 8.Ndb5 Nb4 9.Qd1 a6 10.Bxf6 gxf6 11.a3 axb5 12.axb4 Rxa1 13.Qxa1 d5 14.Bxb5 d4 15.O-O dxc3 16.Rd1 Bxb5 17.Rxd8+ Kxd8 18.Qa5+ Kc8 19.Qxb5 cxb2 20.Qc4+ Kb8 21.Qb3 Bd6 22.Qxb2 Be5 23.Qc1 Bc3 24.Qf4+ Be5 25.Qd2 Rc8 26.g3 Rc4 27.b5 b6 28.Qd8+ Kb7 29.Qg8 Rc7 30.Qxh7 1-0

@@ -1,0 +1,15 @@
+[Event "Round 8: Isik, Alparslan - Rostami, Hossein"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/p72cQR69"]
+[Date "2026.07.04"]
+[Round "8.8"]
+[White "Isik, Alparslan"]
+[Black "Rostami, Hossein"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2246"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be2 Nxd4 10.Bxd4 Qa5 11.O-O Be6 12.a3 Rfc8 13.Nd5 Qd8 14.Nxf6+ Bxf6 15.Bxf6 exf6 16.Qd4 Qa5 17.b3 Qe5 18.Rad1 f5 19.exf5 Bxf5 20.Bf3 Qxd4 21.Rxd4 Rab8 22.Rxd6 Bc2 23.Bd1 Bf5 24.Be2 Bc2 25.b4 b6 26.Rc1 Bf5 27.Bf3 Be6 28.c5 bxc5 29.Rxc5 Rxc5 30.bxc5 Rb5 31.c6 Rc5 32.Kf1 Kf8 33.Ke2 Rc3 34.Kd2 Rc5 35.Rd3 Ke7 36.Rc3 Rb5 37.Bg4 f5 38.Be2 Rb2+ 39.Kd3 Kd6 40.f4 Kc7 41.Bf3 a5 42.Kd4 a4 43.Ke5 Rb3 44.Rc1 Bc8 45.Ra1 Ba6 46.Kf6 Re3 47.Kg7 Re7+ 48.Kh6 Bd3 49.Rc1 Be4 50.Rc4 Bxf3 51.gxf3 Re3 52.Rxa4 Rxf3 53.Kxh7 Rg3 54.h4 Kxc6 55.Rd4 Kc5 56.Rd1 Rg4 57.Rf1 Kd5 58.a4 Ke6 59.Kg7 Rxh4 60.a5 Rh2 61.Ra1 Rb2 62.a6 Rb8 63.a7 Ra8 64.Kxg6 Rg8+ 65.Kh7 Ra8 66.Kg7 Kd5 67.Ra4 Ke6 68.Ra5 Kd6 69.Kf6 Kc7 70.Kxf5 Kb7 71.Kg4 Rg8+ 72.Rg5 Rf8 73.Rg7+ Ka8 74.f5 Rf7 75.Rg8+ Kxa7 76.Kg5 Kb6 77.f6 Ra7 78.Kg6 Ra1 79.f7 Rg1+ 80.Kh5 Rh1+ 81.Kg4 1-0

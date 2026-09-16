@@ -1,0 +1,14 @@
+[Event "Round 5: Aponte Castillo, Jose Ernesto - Lopez Rayo, Santiago"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-5/e599Mxte/vGZTuMWj"]
+[Date "2026.07.12"]
+[Round "5.7"]
+[White "Aponte Castillo, Jose Ernesto"]
+[Black "Lopez Rayo, Santiago"]
+[Result "*"]
+[WhiteElo "2079"]
+[BlackElo "2359"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Na6 7.O-O e5 8.Be3 exd4 9.Nxd4 Nc5 10.f3 c6 11.Qd2 a5 12.Rad1 Qe7 13.Bh6 Bxh6 14.Qxh6 Re8 15.Rfe1 Ne6 16.Nc2 Nh5 17.Bf1 Bd7 18.Qd2 Rad8 19.Nd5 cxd5 20.exd5 Qf6 21.dxe6 Bxe6 22.b3 a4 23.Qd4 Qg5 24.b4 Nf4 25.Kh1 b5 26.g3 Nh5 27.Ne3 bxc4 28.Nxc4 Ng7 29.a3 Nf5 30.Qd2 Qh5 31.Kg1 Qxf3 32.Bg2 Qb3 33.Bd5 Bxd5 34.Qxd5 Rc8 35.Nb6 Rxe1+ 36.Rxe1 Rc3 37.Qa8+ Kg7 38.Nd7 Rxg3+ 39.hxg3 Qxg3+ 40.Kf1 Qd3+ 41.Kf2 Qg3+ 42.Kf1 Qf4+ 43.Ke2 Qe3+ 44.Kd1 Qd3+ 45.Kc1 Qxa3+ 46.Kd2 Qxb4+ 47.Kd1 Qd4+ 48.Kc2 Qc4+ 49.Kd2 Qb4+ 50.Kd1 Qb1+ 51.Kd2 Qb2+ 52.Kd1 Qb3+ 53.Kd2 Qb4+ 54.Kd1 Qd4+ 55.Kc2 Qc4+ 56.Kd2 Qf4+ 57.Ke2 Ng3+ 58.Kd1 Qg4+ 59.Kd2 Qxd7 60.Re8 Nf5 61.Rg8+ Kf6 62.Rd8 d5 *

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/cvyq5XB8"]
+[Date "2026.07.02"]
+[Round "6.35"]
+[White "Nowak, Lukasz"]
+[Black "Krysztofiak, Marcin"]
+[Result "0-1"]
+[WhiteElo "2162"]
+[BlackElo "2391"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.c4 e6 2.d4 Nf6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Qc2 O-O 7.Bg2 c5 8.cxd5 cxd4 9.Nxd4 Qb6 10.e3 exd5 11.O-O Nc6 12.Nxc6 bxc6 13.Rc1 Rb8 14.Nc3 Re8 15.b3 Qa7 16.Na4 Ba3 17.Re1 Ne4 18.Bxe4 dxe4 19.Qxc6 Bd7 20.Qd5 Bxa4 21.bxa4 Bb4 22.Bxb4 Rxb4 23.Rac1 Qa8 24.Qd1 Rd8 25.Qc2 g6 26.Red1 Rbb8 27.Rxd8+ Rxd8 28.Rd1 Rc8 29.Qb3 Qc6 30.h4 h5 31.Qb5 Qc2 32.Rd4 Qxa2 33.Rxe4 Rc1+ 34.Kg2 Qa1 35.Qe8+ Kg7 36.Qe5+ Kh7 37.Qxa1 Rxa1 38.Rc4 Ra2 39.Kf3 Kg7 40.e4 Kf6 41.Ke3 Ke6 42.f3 Ra3+ 43.Kf4 f6 44.g4 hxg4 45.Kxg4 Ra1 46.Kg3 Ra2 47.Rc6+ Kf7 48.Rc7+ Ke6 49.Rc4 Kf7 50.Kg4 Ra1 51.f4 Rg1+ 52.Kf3 Rh1 53.Rc5 Rxh4 54.Rxa5 Rh3+ 55.Ke2 Ra3 56.Ra8 g5 57.fxg5 fxg5 58.a5 Ra2+ 59.Kf3 Ra3+ 60.Kg4 Ra4 61.Kf5 g4 62.e5 g3 63.e6+ Ke7 64.Ra7+ Kf8 65.Ra8+ Ke7 66.Ra7+ Kf8 67.Kf6 Rf4+ 68.Ke5 g2 69.Ra8+ Kg7 70.e7 g1=Q 71.Rg8+ Kxg8 72.e8=Q+ Rf8 73.Qe6+ Kg7 74.Qd7+ Rf7 0-1

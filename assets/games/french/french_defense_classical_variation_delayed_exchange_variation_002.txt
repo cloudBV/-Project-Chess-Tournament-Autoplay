@@ -1,0 +1,14 @@
+[Event "Round 5: Kantane, Anna - Pasti, Zsombor"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/OKUc49vM"]
+[Date "2026.07.22"]
+[Round "5.3"]
+[White "Kantane, Anna"]
+[Black "Pasti, Zsombor"]
+[Result "1-0"]
+[WhiteElo "2190"]
+[BlackElo "2113"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bd3 c5 6.Nf3 Nc6 7.O-O cxd4 8.Re1+ Be7 9.Nb5 Bg4 10.Be2 O-O 11.Nbxd4 Ne4 12.Be3 Bf6 13.c3 Re8 14.Qb3 Qd7 15.Rad1 Rad8 16.Qa3 Be7 17.Qb3 Bf6 18.Qa3 Be7 19.Qb3 Qc8 20.Nxc6 bxc6 21.c4 Bf6 22.cxd5 cxd5 23.Bxa7 Qa8 24.Bd4 Bxf3 25.Bxf3 Bxd4 26.Rxd4 Nd2 27.Rxe8+ Rxe8 28.Qd1 Nxf3+ 29.gxf3 Re5 30.f4 Rf5 31.a4 Qc6 32.a5 Qg6+ 33.Kf1 Qc6 34.b4 h6 35.Qd3 Qc1+ 36.Qd1 Qc6 37.h3 Rf6 38.Qd2 Re6 39.Rxd5 Qc4+ 40.Qd3 Qc1+ 41.Kg2 Rg6+ 42.Kf3 Qh1+ 43.Ke2 Qc1 44.a6 Qb2+ 45.Kf3 Qxb4 46.h4 h5 47.Rxh5 Rd6 48.Qh7+ Kf8 49.Qh8+ Ke7 50.Re5+ Kf6 51.Qe8 Rd4 52.Qc6+ Rd6 53.Qc8 Qb1 54.Kg2 Qg6+ 55.Kh2 Qh7 56.h5 g6 57.a7 Qh6 58.Rg5 1-0

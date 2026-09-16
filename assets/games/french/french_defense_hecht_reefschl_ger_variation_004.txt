@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "11.5"]
+[White "Clockwork 20260705-7f4099f"]
+[Black "GinkgoHCE 5.71"]
+[Result "1/2-1/2"]
+[WhiteElo "3354"]
+[BlackElo "3344"]
+[ECO "C10"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.e5 Ne4 6.Ne2 h5 7.c3 Ne7 8.Ng3 c5 9.Bd3 cxd4 10.cxd4 Qa5+ 11.Kf1 Bd7 12.Nxe4 dxe4 13.Bxe4 Bc6 14.Qe2 Rc8 15.h3 Bb5 16.Bd3 Bxd3 17.Qxd3 Nd5 18.g3 h4 19.gxh4 Qa4 20.Rg1 Rc2 21.Rg4 Rh5 22.Ne1 Qc4 23.Qxc4 Rxc4 24.Bg5 f6 25.Rc1 Rxc1 26.Bxc1 f5 27.Rg3 Rxh4 28.Nf3 Rh7 29.Ng5 Rh6 30.h4 Be7 31.Nf3 Rh7 32.Rg1 Kf8 33.Bd2 Kf7 34.Ke2 Rh8 35.a3 a6 36.Rc1 Rh5 37.a4 Rh8 38.Ng5+ Bxg5 39.Bxg5 Rb8 40.Kf3 g6 41.Ke2 Ke8 42.a5 Kf7 43.Bd2 Rh8 44.Rh1 Ke8 45.Bg5 Kf7 46.Kd3 Rc8 47.Bd2 Rh8 48.Rh3 Ne7 49.Bg5 Nd5 50.Ke2 Rc8 51.Rb3 Rc7 52.Kd3 Rd7 53.Bd2 1/2-1/2

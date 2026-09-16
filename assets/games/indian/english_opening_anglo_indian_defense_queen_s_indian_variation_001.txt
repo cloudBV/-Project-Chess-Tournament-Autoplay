@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.4"]
+[White "Bilochenko, Matvii"]
+[Black "Korszanski, Stanislaw"]
+[Result "1-0"]
+[WhiteElo "2036"]
+[BlackElo "2240"]
+[ECO "A17"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Variation"]
+
+1.c4 b6 2.Nc3 Bb7 3.e4 Nf6 4.Bd3 e6 5.Nf3 d6 6.O-O Be7 7.Bc2 c5 8.d4 cxd4 9.Nxd4 O-O 10.Be3 Nbd7 11.f3 Rc8 12.Ndb5 Ne5 13.Nxa7 Ra8 14.Nab5 Nxc4 15.Bf2 d5 16.b3 Ne5 17.Qd4 Ned7 18.e5 Bc5 19.Qf4 Nh5 20.Qg4 g6 21.f4 Ng7 22.Bxc5 bxc5 23.Nd6 Bc6 24.Rfd1 Qa5 25.Qh3 Rab8 26.a4 c4 27.bxc4 Rb2 28.Rac1 Qc5+ 29.Kh1 Nh5 30.Qf3 dxc4 31.Be4 Rf2 32.Bxc6 Rxf3 33.Bxf3 Nxf4 34.Nce4 Qxe5 35.Nxc4 Qc5 36.Nxc5 Nxc5 37.Ne5 Nxa4 38.g3 Nd5 39.Bxd5 exd5 40.Rxd5 Nb6 41.Rb5 Re8 42.Ng4 Re6 43.Rbb1 h5 44.Nf2 Nd5 45.Re1 Rc6 46.Rbc1 Ra6 47.Rc5 Nf6 48.Rc8+ Kg7 49.Rc7 Ra2 50.Kg1 Nh7 51.Nh3 Ra5 52.Nf4 Ng5 53.Rf1 Kh6 54.h4 Ne4 55.Rxf7 Nxg3 56.Ne6 Nxf1 57.Ng5 Rxg5+ 58.hxg5+ Kxg5 59.Rxf1 Kh4 60.Kg2 g5 61.Rh1+ Kg4 62.Ra1 Kh4 63.Ra4+ g4 64.Ra5 g3 65.Ra4+ Kg5 66.Kxg3 Kg6 67.Ra5 1-0

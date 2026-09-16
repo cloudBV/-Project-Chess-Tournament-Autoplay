@@ -1,0 +1,14 @@
+[Event "Round 2: Schunk, Thomas - Brockhoff, Moritz"]
+[Site "https://lichess.org/broadcast/german-amateur-chess-championship-2026-dsam-group-b/round-2/saEWzCTp/nOm3YrQJ"]
+[Date "2026.07.22"]
+[Round "2.1"]
+[White "Schunk, Thomas"]
+[Black "Brockhoff, Moritz"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2125"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 Bb4 4.Bg2 O-O 5.e4 Bxc3 6.dxc3 d6 7.Ne2 Nc6 8.b3 a5 9.h3 a4 10.Rb1 b6 11.O-O Bb7 12.Qd3 axb3 13.axb3 Ra2 14.g4 Qa8 15.Ng3 Nd8 16.b4 Re8 17.Re1 Ne6 18.g5 Nd7 19.h4 Ndf8 20.h5 Qd8 21.Nf5 Nxg5 22.Qg3 Nfe6 23.f3 h6 24.Be3 Ba6 25.Bf1 Nf4 26.Bxf4 exf4 27.Qxf4 Bxc4 28.Qg3 Bxf1 29.Kxf1 Qf6 30.Rbc1 d5 31.Nd4 Nxe4 32.Qg4 c5 33.Qd7 Rd8 0-1

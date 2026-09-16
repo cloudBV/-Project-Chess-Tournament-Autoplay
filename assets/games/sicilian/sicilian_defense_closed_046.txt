@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "4.2"]
+[White "Babula, Vlastimil"]
+[Black "Jun, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2303"]
+[ECO "B26"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 e6 7.Qd2 h6 8.Nge2 Nge7 9.O-O a6 10.h4 Qc7 11.Rae1 b5 12.f4 Bb7 13.h5 f5 14.hxg6 b4 15.Nd1 h5 16.d4 cxd4 17.Nxd4 Nxd4 18.Bxd4 Bxd4+ 19.Qxd4 O-O-O 20.g7 Rh7 21.Qf6 Rg8 22.exf5 Rhxg7 23.Qxe6+ Kb8 24.Re3 Rxg3 25.Rxg3 Rxg3 26.Rf2 Bxg2 27.Rxg2 Rxg2+ 28.Kxg2 Qxc2+ 29.Nf2 Nxf5 30.Qe8+ Kc7 31.Qxh5 Ne3+ 32.Kf3 Nc4 33.b3 Nd2+ 34.Kg2 Nb1 35.Qf7+ Kb6 36.Qd5 Qc6 37.Qxc6+ Kxc6 38.Nd3 a5 39.Kf3 Nc3 40.Nc1 Kd5 41.Ke3 Nd1+ 42.Kd3 Nf2+ 43.Ke3 Nd1+ 44.Kd3 Nc3 45.Ke3 Kc5 46.Kd3 d5 47.f5 Kd6 48.Kd4 Nb5+ 49.Ke3 1/2-1/2

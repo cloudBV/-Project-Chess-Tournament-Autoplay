@@ -1,0 +1,14 @@
+[Event "Round 6: Arman, Deniz - Seo, Jung Min"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-6/e9ef0vgC/B6E9JIKU"]
+[Date "2026.07.08"]
+[Round "6.1"]
+[White "Arman, Deniz"]
+[Black "Seo, Jung Min"]
+[Result "1/2-1/2"]
+[WhiteElo "2370"]
+[BlackElo "2488"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 Qd8 7.Nc2 Nc6 8.Be2 Qc7 9.dxc5 Bxc5 10.Be3 Bxe3 11.Nxe3 O-O 12.O-O b6 13.Qa4 Bd7 14.Rfd1 Rfd8 15.Qa3 Be8 16.Rxd8 Rxd8 17.Rd1 Rxd1+ 18.Bxd1 Ne7 19.c4 a5 20.Ba4 Bxa4 21.Qxa4 g6 22.a3 Nf5 23.Nxf5 gxf5 24.Qc2 Ne4 25.Nd2 Nxd2 26.Qxd2 Qxc4 27.Qg5+ Kf8 28.Qd8+ Kg7 29.Qg5+ Kf8 30.Qd8+ 1/2-1/2

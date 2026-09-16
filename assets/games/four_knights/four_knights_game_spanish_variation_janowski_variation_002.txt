@@ -1,0 +1,15 @@
+[Event "Round 4: Vijayakumar, Rishi - Royal, Shreyas"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-4/6QpH3zvI/WzddXhTM"]
+[Date "2026.07.17"]
+[Round "4.4"]
+[White "Vijayakumar, Rishi"]
+[Black "Royal, Shreyas"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2502"]
+[ECO "C49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Janowski Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d6 8.Re1 Bd7 9.d4 h6 10.Rb1 Re8 11.Bd3 b6 12.h3 Nh7 13.Be3 Qf6 14.Kh2 Ne7 15.Nd2 Ng5 16.Bf1 Nc6 17.d5 Ne7 18.g3 Qg6 19.h4 Nxe4 20.Nxe4 Qxe4 21.Bxb6 Qxd5 22.Bxc7 Qc5 23.Bxd6 Qxf2+ 24.Bg2 Nf5 25.Bxe5 Bc6 26.Re2 Qc5 27.Bd4 Qd6 28.Rxe8+ Rxe8 29.Bf2 Qc7 30.Bxc6 Qxc6 31.Qd3 Re4 32.Re1 Rxe1 33.Bxe1 Nd6 34.a4 a5 35.c4 Nxc4 36.Bxa5 Ne5 37.Qd1 Qe4 38.Bb6 Nf3+ 39.Kh3 f5 40.Qf1 g5 41.hxg5 hxg5 42.Qf2 Ne5 0-1

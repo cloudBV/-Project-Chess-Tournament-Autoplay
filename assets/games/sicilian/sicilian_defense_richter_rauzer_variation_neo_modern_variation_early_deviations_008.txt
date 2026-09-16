@@ -1,0 +1,15 @@
+[Event "Round 9: Mohammadian sechani, Arshia - Eminov, Orkhan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/njfBAYAU"]
+[Date "2026.07.19"]
+[Round "9.6"]
+[White "Mohammadian sechani, Arshia"]
+[Black "Eminov, Orkhan"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2227"]
+[ECO "B66"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6 9.Bf4 Bd7 10.Nxc6 Bxc6 11.f3 e5 12.Be3 b5 13.g4 Qa5 14.Kb1 Be7 15.h4 b4 16.Nd5 Nxd5 17.exd5 Bd7 18.Be2 Qd8 19.f4 exf4 20.Bxf4 Bb5 21.Rde1 Rc8 22.Rh3 O-O 23.g5 Bd7 24.Rg3 h5 25.Re3 Re8 26.Qxb4 Rb8 27.Qa3 Qb6 28.Bxh5 Bf8 29.Rxe8 Bxe8 30.g6 fxg6 31.Bg4 Ba4 32.b3 Qf2 33.Qc1 a5 34.Qe3 Qxh4 35.Be6+ Kh7 36.Qe4 1-0

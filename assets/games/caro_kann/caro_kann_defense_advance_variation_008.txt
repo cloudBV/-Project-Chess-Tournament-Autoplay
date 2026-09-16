@@ -1,0 +1,15 @@
+[Event "Round 2: Casalaspro, Mathias Andre - Domingo Nunez, Ruben"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/DLt4TqOQ"]
+[Date "2026.07.05"]
+[Round "2.8"]
+[White "Casalaspro, Mathias Andre"]
+[Black "Domingo Nunez, Ruben"]
+[Result "0-1"]
+[WhiteElo "2340"]
+[BlackElo "2405"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c4 e6 5.Nc3 Ne7 6.Nge2 dxc4 7.Ng3 b5 8.Be2 Na6 9.O-O Nb4 10.a3 Nd3 11.Nce4 Bxe4 12.Nxe4 Nf5 13.Bxd3 cxd3 14.Be3 Nxd4 15.Nd6+ Bxd6 16.Bxd4 Bc7 17.Qg4 Qd5 18.Rad1 c5 19.Bc3 Bxe5 20.Bxe5 Qxe5 21.Rfe1 Qf6 22.Rxd3 O-O 23.Qh5 Rac8 24.Rc3 b4 25.axb4 cxb4 26.Rb3 Rc2 27.Rf1 Rxb2 28.Rf3 Qd4 29.Rc1 Rc2 0-1

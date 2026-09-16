@@ -1,0 +1,14 @@
+[Event "Round 3: Kelecevic, Nedeljko - Gloeckler, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-3/T68Yzjat/2ZGLz8Fs"]
+[Date "2026.07.19"]
+[Round "3.5"]
+[White "Kelecevic, Nedeljko"]
+[Black "Gloeckler, Christian"]
+[Result "0-1"]
+[WhiteElo "2150"]
+[BlackElo "2513"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d6 6.Bg5 h6 7.Bh4 Nc6 8.O-O-O Bxc3 9.bxc3 e5 10.dxe5 Nxe5 11.f4 Ng6 12.Bg3 Bd7 13.Be2 Qe8 14.Bf3 Ba4 15.Qd3 Bxd1 16.Kxd1 Qa4+ 17.Qc2 Qxc4 18.Nh3 d5 19.e5 Ne4 20.Bxe4 dxe4 21.f5 Rad8+ 22.Kc1 Rd3 23.Kb2 Nxe5 24.Nf2 Rfd8 25.Nxd3 Nxd3+ 26.Ka1 e3 27.f6 Nc5 0-1

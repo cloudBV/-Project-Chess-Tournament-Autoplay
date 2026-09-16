@@ -1,0 +1,14 @@
+[Event "Round 6: Tscharotschkin, Michael - Namyslo, Holger"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-6/Nf3qcMuI/zLXbnOaM"]
+[Date "2026.07.01"]
+[Round "6.3"]
+[White "Tscharotschkin, Michael"]
+[Black "Namyslo, Holger"]
+[Result "1-0"]
+[WhiteElo "2208"]
+[BlackElo "2033"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d5 4.e3 Bd6 5.Bg3 c5 6.c3 Ne4 7.Nbd2 Nxg3 8.hxg3 Nd7 9.Bd3 g6 10.e4 cxd4 11.Nxd4 Nc5 12.Bb5+ Bd7 13.exd5 Bxb5 14.Nxb5 exd5 15.Qe2+ Be7 16.O-O Ne6 17.Nf3 O-O 18.Rad1 Bf6 19.Nbd4 Re8 20.Nxe6 fxe6 21.Rfe1 Qc7 22.Nd4 Bxd4 23.Rxd4 Rad8 24.f4 a6 25.Kh2 Qg7 26.Qf3 Qf6 27.Re5 Kf7 28.c4 b5 29.cxd5 exd5 30.Rdxd5 Rxe5 31.Rxe5 Rd7 32.Qa8 Kg7 33.Qe8 Rf7 34.Qc8 Rf8 35.Qc3 Rf7 36.b4 h6 37.a3 Kh7 38.Qe3 Qg7 39.Qe4 h5 40.Rxh5+ Kg8 41.Qe8+ Rf8 42.Qe6+ Rf7 43.Re5 Qf6 44.Qxf6 Rxf6 45.Kh3 Rc6 46.Re3 Kf7 47.g4 Rc4 48.g3 Rd4 49.g5 Rc4 50.Kg4 Rd4 51.Kf3 Rc4 52.g4 Rd4 53.f5 Rc4 54.f6 Rd4 55.Kg3 Rc4 56.Kh4 Rc1 57.Re7+ Kf8 58.Ra7 Rc6 59.Rg7 Rc3 60.Rxg6 Rxa3 61.Rh6 Kf7 62.Rh7+ 1-0

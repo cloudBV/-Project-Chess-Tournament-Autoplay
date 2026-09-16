@@ -1,0 +1,15 @@
+[Event "Round 5: Williams, Simon K - Kolani, Arjun"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-5/fSrGUwda/Bu6Mb9o6"]
+[Date "2026.07.23"]
+[Round "5.10"]
+[White "Williams, Simon K"]
+[Black "Kolani, Arjun"]
+[Result "1/2-1/2"]
+[WhiteElo "2455"]
+[BlackElo "2137"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 Bg7 4.Nc3 d6 5.e4 Nc6 6.d5 Ne5 7.Be2 h5 8.Nf3 O-O 9.Nxe5 dxe5 10.Be3 e6 11.f3 exd5 12.cxd5 Bd7 13.Qd2 c6 14.Bg5 cxd5 15.Nxd5 Be6 16.Bc4 Rc8 17.Nxf6+ Bxf6 18.Bxe6 fxe6 19.Qxd8 Bxd8 20.Bxd8 Rfxd8 21.Rd1 Rd4 22.Rxd4 exd4 23.Kd2 e5 24.g3 Kf7 25.f4 Ke6 26.Rc1 Rf8 27.Rf1 Rf7 28.Kd3 Rf8 29.a4 b6 30.Rf2 Rf7 1/2-1/2

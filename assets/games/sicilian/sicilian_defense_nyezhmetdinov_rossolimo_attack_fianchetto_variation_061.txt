@@ -1,0 +1,14 @@
+[Event "Round 6: Gontsul, Artem - Stojanovic, Mihajlo"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-6/UBdjhIls/QPdhbWHW"]
+[Date "2026.06.03"]
+[Round "6.1"]
+[White "Gontsul, Artem"]
+[Black "Stojanovic, Mihajlo"]
+[Result "0-1"]
+[WhiteElo "2164"]
+[BlackElo "2401"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.c3 Nge7 7.d3 O-O 8.Be3 d6 9.Nbd2 f5 10.exf5 Nxf5 11.Bg5 Qc7 12.Ne4 Kh8 13.Nh4 Nxh4 14.Bxh4 h6 15.Rc1 Be6 16.Bc4 Qd7 17.Bxe6 Qxe6 18.Qb3 Qxb3 19.axb3 g5 20.Bg3 Rad8 21.Ra1 b6 22.f3 d5 23.Nf2 h5 24.h4 gxh4 25.Bxh4 Rd7 26.Bg3 Kh7 27.Nh3 Bf6 28.f4 exf4 29.Nxf4 h4 30.Ne6 Re8 31.Bf2 Kg6 32.Nf4+ Kf7 33.Rxe8 Kxe8 34.Ng6 h3 35.g3 Rg7 36.Nf4 Be5 37.Ne2 Rf7 38.d4 cxd4 39.Nxd4 Nxd4 40.cxd4 Bd6 41.Re1+ Kd7 42.Re3 h2+ 0-1

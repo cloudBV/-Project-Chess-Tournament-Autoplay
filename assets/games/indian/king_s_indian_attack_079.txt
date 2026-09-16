@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "9.2"]
+[White "Mulawa, Cyprian"]
+[Black "Jasiulewicz, Dawid"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2085"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.g3 d5 2.Nf3 Nd7 3.c4 dxc4 4.Na3 a6 5.Bg2 Ngf6 6.Nxc4 e6 7.O-O Be7 8.b3 O-O 9.Bb2 c5 10.d4 Qc7 11.Rc1 b5 12.Nce5 Rd8 13.Nxf7 Kxf7 14.Ng5+ Kg8 15.Nxe6 Qa7 16.Nxd8 Bxd8 17.Bxa8 Qxa8 18.dxc5 Bb7 19.Qd6 Bc6 20.Rfd1 Qb7 21.Qe6+ Kf8 22.Rd6 Bd5 23.c6 Qb8 24.Rxd5 Nxd5 25.cxd7 Nb6 26.Qe8# 1-0

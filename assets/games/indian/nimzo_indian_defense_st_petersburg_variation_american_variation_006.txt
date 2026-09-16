@@ -1,0 +1,15 @@
+[Event "Round 3: Matviishen, Viktor - Jiang, Lucas"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-3/Ie91q7SG/i9Rvsmsu"]
+[Date "2026.07.15"]
+[Round "3.1"]
+[White "Matviishen, Viktor"]
+[Black "Jiang, Lucas"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2362"]
+[ECO "E44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Bd2 Nxd2 7.Qxd2 d5 8.a3 Be7 9.Nf4 Bb7 10.h4 dxc4 11.Bxc4 Bxh4 12.Qc2 g5 13.Rxh4 gxh4 14.d5 e5 15.Qf5 Nd7 16.Bb5 exf4 17.Qe5+ Kf8 18.Qxh8+ Ke7 19.Qxh7 Nf6 20.Qxh4 fxe3 21.O-O-O exf2 22.Qxf2 Qd6 23.Re1+ Kf8 24.Rf1 1-0

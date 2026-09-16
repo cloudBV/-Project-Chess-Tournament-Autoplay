@@ -1,0 +1,14 @@
+[Event "Round 5: Bagri, Jaspaul - Edoecs, Joseph"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-5/fHlcLKvU/AirCIqQr"]
+[Date "2026.07.15"]
+[Round "5.2"]
+[White "Bagri, Jaspaul"]
+[Black "Edoecs, Joseph"]
+[Result "1-0"]
+[WhiteElo "2023"]
+[BlackElo "2016"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e5 4.Bg2 Nc6 5.a3 a5 6.Nf3 d6 7.O-O Be7 8.d3 O-O 9.Bg5 Be6 10.Nd2 h6 11.Bxf6 Bxf6 12.Nd5 Bg5 13.f4 exf4 14.gxf4 Bf6 15.Rb1 Bd4+ 16.Kh1 Bxd5 17.cxd5 Ne7 18.f5 g6 19.e4 Kh7 20.Nf3 Bf6 21.fxg6+ Nxg6 22.Bh3 b5 23.Bf5 b4 24.Rg1 Rg8 25.Qd2 bxa3 26.bxa3 Qe7 27.Rg3 Rab8 28.Rbg1 Rb2 29.Qc1 Qf8 30.e5 1-0

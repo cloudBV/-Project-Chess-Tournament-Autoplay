@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "6.5"]
+[White "Moreno Martin, Daniel"]
+[Black "Ayats Llobera, Gerard"]
+[Result "0-1"]
+[WhiteElo "2196"]
+[BlackElo "2500"]
+[ECO "B42"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Qc7 6.Qe2 Bc5 7.Nb3 Be7 8.O-O d6 9.c4 Nd7 10.Be3 b6 11.Nc3 Nc5 12.Nd2 Nxd3 13.Qxd3 Nf6 14.Rac1 Bb7 15.Bd4 O-O 16.Qg3 Rac8 17.Na4 e5 18.Bxb6 Qc6 19.b3 Nxe4 20.Nxe4 Qxe4 21.Nc3 Qg6 22.Rcd1 Qxg3 23.hxg3 f5 24.Nd5 Bxd5 25.Rxd5 Kf7 26.Rfd1 Ke6 27.f3 h5 28.Kf2 g5 29.Ba5 Rh8 30.Bb4 Rc6 31.f4 e4 32.Bd2 g4 33.Bc3 Rh7 34.Bb4 Rh6 35.c5 dxc5 36.Re5+ Kf7 37.Bc3 h4 38.gxh4 Bxh4+ 39.g3 Bxg3+ 40.Kxg3 Rh3+ 41.Kg2 Rxc3 42.Rxf5+ Rf6 43.Rd7+ Ke6 44.Rfd5 e3 45.R7d6+ Kf7 46.Rd7+ Kg6 47.Rg5+ Kh6 48.Kg3 e2+ 49.Kxg4 Rg3+ 50.Kh4 e1=Q 51.Rh5+ Kg6 52.f5+ Rxf5 0-1

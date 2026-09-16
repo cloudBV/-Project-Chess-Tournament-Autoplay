@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.16"]
+[White "Zhao, Kevin"]
+[Black "Tang, Zoey"]
+[Result "1/2-1/2"]
+[WhiteElo "2244"]
+[BlackElo "2332"]
+[ECO "B63"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Ivanov Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Qb6 8.Nb3 Be7 9.O-O-O O-O 10.h4 Rd8 11.f4 Bd7 12.Be2 a5 13.a4 Be8 14.Rh3 Nb4 15.Rg3 Rac8 16.Qd4 Qxd4 17.Rxd4 b6 18.f5 Kh8 19.Rd2 h6 20.Be3 Rb8 21.Rh3 Bc6 22.Nd4 Bxe4 23.fxe6 fxe6 24.Nxe6 Rdc8 25.g4 Bh7 26.Bd4 Kg8 27.Bf3 Nc6 28.Bxf6 Bxf6 29.Rxd6 Nb4 30.Bd5 Nxd5 31.Rxd5 Rc6 32.Nf4 Rc4 33.Nh5 Rxg4 34.Nxf6+ gxf6 35.Re3 Rg2 36.Rd7 Rxc2+ 37.Kd1 Rg2 38.Nd5 Rf8 39.Nxf6+ Rxf6 40.Re8+ Rf8 41.Rxf8+ Kxf8 42.Rxh7 Rxb2 43.Rxh6 Kg7 44.Rc6 Rb4 45.h5 b5 46.axb5 Rxb5 47.h6+ Kh7 48.Ra6 1/2-1/2

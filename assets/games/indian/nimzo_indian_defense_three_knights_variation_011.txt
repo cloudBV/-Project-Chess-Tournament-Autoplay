@@ -1,0 +1,15 @@
+[Event "Round 5: Dinh Nho Kiet - Rosh Jain"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-5/xJC51h4A/X0CSOFeZ"]
+[Date "2026.07.16"]
+[Round "5.9"]
+[White "Dinh Nho Kiet"]
+[Black "Rosh Jain"]
+[Result "1/2-1/2"]
+[WhiteElo "2330"]
+[BlackElo "2331"]
+[ECO "E21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 O-O 5.Bg5 c5 6.Rc1 cxd4 7.Nxd4 h6 8.Bh4 d5 9.cxd5 Bxc3+ 10.bxc3 Qxd5 11.Bxf6 gxf6 12.e3 e5 13.Qh5 Qxa2 14.Bd3 exd4 15.Qxh6 f5 1/2-1/2

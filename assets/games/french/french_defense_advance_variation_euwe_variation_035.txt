@@ -1,0 +1,14 @@
+[Event "Round 6: Korneev, Oleg - Keinanen, Toivo"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-6/NUPkV8Lk/skktoayV"]
+[Date "2026.07.16"]
+[Round "6.2"]
+[White "Korneev, Oleg"]
+[Black "Keinanen, Toivo"]
+[Result "1/2-1/2"]
+[WhiteElo "2433"]
+[BlackElo "2495"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 1/2-1/2

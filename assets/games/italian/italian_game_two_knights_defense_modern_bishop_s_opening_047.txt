@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "9.11"]
+[White "Klim, Filip"]
+[Black "Terkiewicz, Bruno"]
+[Result "1-0"]
+[WhiteElo "2014"]
+[BlackElo "2221"]
+[ECO "C55"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.a4 Be7 7.O-O O-O 8.a5 Be6 9.Nbd2 a6 10.Re1 Qd7 11.Qb3 Kh8 12.d4 exd4 13.Bxe6 fxe6 14.Nxd4 e5 15.Nf5 Bd8 16.Ng3 Rb8 17.Nf3 Ne7 18.Be3 Qc8 19.h3 Ng6 20.Rad1 Nh7 21.Nf5 Nf6 22.N3h4 Nxh4 23.Nxh4 Kh7 24.Qc4 Be7 25.Nf5 Bd8 26.g4 h5 27.f3 g6 28.Ng3 hxg4 29.hxg4 Kg7 30.Kg2 Nh7 31.Rh1 Ng5 32.Rdf1 Rf7 33.Bxg5 Bxg5 34.Rh7+ Kxh7 35.Qxf7+ 1-0

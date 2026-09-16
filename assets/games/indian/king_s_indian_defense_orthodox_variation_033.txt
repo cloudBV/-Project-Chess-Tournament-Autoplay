@@ -1,0 +1,15 @@
+[Event "Round 9: Butzen, Robin - Grutter, Tim"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/EpTCMidE"]
+[Date "2026.07.22"]
+[Round "9.8"]
+[White "Butzen, Robin"]
+[Black "Grutter, Tim"]
+[Result "0-1"]
+[WhiteElo "2112"]
+[BlackElo "2390"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O exd4 8.Nxd4 Re8 9.f3 c6 10.Kh1 d5 11.cxd5 cxd5 12.Bg5 Nc6 13.Nxc6 bxc6 14.exd5 cxd5 15.Bb5 Re6 16.Qd2 Bb7 17.Ne2 Qb6 18.Nd4 Ne4 19.fxe4 Bxd4 20.Rad1 Rxe4 21.Bd3 Be3 22.Bxe3 Rxe3 23.Qf2 Qe6 24.Qf4 Re8 25.Bb5 Rf8 26.Qc7 Qe7 27.Qxe7 Rxe7 28.Rd4 Re4 29.Rd2 Rc8 30.b3 f5 31.h3 Kf7 32.Kg1 Kf6 33.Rfd1 Re3 34.Kf2 Rec3 35.Bd3 Rc1 36.Rxc1 Rxc1 37.Re2 Rc3 38.Bb5 d4 39.Bc4 Be4 40.Rd2 Ke5 41.a4 d3 42.Bg8 Kd4 43.Ke1 Ke3 44.Rd1 Rc2 0-1

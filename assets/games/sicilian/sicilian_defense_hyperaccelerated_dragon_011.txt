@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.3"]
+[White "Mulawa, Cyprian"]
+[Black "Ugorek, Kacper"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2229"]
+[ECO "B27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.Nf3 g6 2.e4 c5 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Nbd2 cxd4 7.Bc4 Qd8 8.Nxd4 Nf6 9.O-O O-O 10.N2f3 b6 11.Ne5 Bb7 12.Re1 Nd5 13.Qf3 e6 14.Qg3 Qc7 15.Bxd5 Bxd5 16.Nxg6 Qxg3 17.Ne7+ Kh8 18.hxg3 Bb7 19.Bf4 Re8 20.Bxb8 Rxe7 21.Be5 Rd7 22.Bxg7+ Kxg7 23.Re5 Rad8 24.Rae1 Rd5 25.f4 h6 26.Kf2 a5 27.a3 Rxe5 28.Rxe5 Rd5 29.Rxd5 Bxd5 30.g4 Kf6 31.g3 a4 32.Nf3 Bb3 33.Ne5 Ke7 34.Ke3 Bd1 35.g5 hxg5 36.fxg5 Bh5 37.Nc4 b5 38.Ne5 f6 39.gxf6+ Kxf6 40.Kf4 Be2 41.g4 Bf1 42.Nf3 Be2 43.g5+ Kg6 44.Nd4 Bc4 45.Nc6 Kg7 46.Ne5 Bd5 47.Ke3 Bg2 48.Kd4 Bf1 49.Kc5 Be2 50.Kd6 1-0

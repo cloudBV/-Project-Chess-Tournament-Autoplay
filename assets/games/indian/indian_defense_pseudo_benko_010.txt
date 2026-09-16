@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.23"]
+[Round "26.10"]
+[White "ice4 6.1.1"]
+[Black "WaspHCE 7.16"]
+[Result "1/2-1/2"]
+[WhiteElo "3156"]
+[BlackElo "3194"]
+[ECO "A43"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Indian Defense: Pseudo-Benko"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 Ne4 5.Bh4 Qa5+ 6.Nbd2 g6 7.a4 Nxd2 8.Qxd2 Qxd2+ 9.Nxd2 b4 10.e4 d6 11.f4 Bh6 12.Bb5+ Bd7 13.e5 Bxf4 14.exd6 Bxd6 15.Nc4 O-O 16.O-O Bxb5 17.axb5 Nd7 18.Nxd6 exd6 19.Ra6 Nb6 20.Be7 Rfb8 21.Bxd6 Rb7 22.Rd1 Rc8 23.b3 Rd7 24.Bg3 Nxd5 25.Rxd5 Rxd5 26.Rxa7 Rd1+ 27.Kf2 Rd2+ 28.Kf3 Rxc2 29.b6 Rc3+ 30.Kf2 Rc2+ 31.Kf1 Rc1+ 32.Ke2 Rc2+ 33.Kd1 Rxg2 34.Bc7 c4 35.bxc4 Rg4 36.b7 Rd4+ 37.Ke2 Re8+ 38.Kf1 Rd1+ 39.Kg2 Rd2+ 40.Kh3 Rd3+ 41.Bg3 b3 42.Ra8 Rdd8 43.Ra5 Kg7 44.Rb5 Rd3 45.c5 Rc3 46.Kg2 f6 47.Be1 Rc2+ 48.Bf2 Rb8 49.Rxb3 g5 50.Kf3 Kg6 51.Bd4 Kf7 52.Rb6 Ke8 53.Ke4 Kd7 54.Bxf6 Rxc5 55.Be5 Rxe5+ 56.Kxe5 h5 57.Kf6 g4 58.Kg5 Kc7 59.Rb4 Rxb7 60.Rxb7+ Kxb7 61.Kxh5 Kc6 62.Kg5 Kc5 63.Kxg4 Kd6 64.Kh3 1/2-1/2

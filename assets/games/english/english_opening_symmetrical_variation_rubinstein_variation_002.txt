@@ -1,0 +1,14 @@
+[Event "Round 8: Drazic, Sinisa - Naumov, Petr"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/kC78O4Hq"]
+[Date "2026.07.01"]
+[Round "8.6"]
+[White "Drazic, Sinisa"]
+[Black "Naumov, Petr"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "2229"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7 6.d3 e5 7.f4 exf4 8.Bxf4 Be7 9.Qa4+ Nd7 10.Nf3 O-O 11.O-O Nb6 12.Qa5 Ne6 13.Be3 Nd4 14.Bxd4 cxd4 15.Nb5 Bf6 16.Rac1 Be6 17.b4 Rc8 18.Qxa7 Rxc1 19.Rxc1 Bg5 20.Rc5 Be3+ 21.Kf1 Nd5 22.Qxb7 Nxb4 23.Nc7 Nxa2 24.Nxe6 fxe6 25.Bh3 Qf6 26.Rc6 Nc3 27.Rxe6 Qf7 28.Re7 Qh5 29.Be6+ Kh8 30.Rf7 Rg8 31.Rxg7 Rf8 32.Rf7 Rxf7 33.Qxf7 Qxf7 34.Bxf7 Kg7 35.Bh5 Nb1 36.Kg2 Kf6 37.Bg4 Nc3 38.Ne1 Bd2 39.Nc2 Ke5 40.Na3 Bc1 41.Nc4+ Kd5 42.Kf3 h6 43.h4 Nb1 44.Nb6+ Kc6 45.Nd7 Nd2+ 46.Kg2 Kd6 47.Nf6 Ke5 48.Nh5 Nb1 49.Bf3 Be3 50.Kh3 Nc3 51.Kg4 Nd1 52.Bb7 Bf2 53.Bc8 Be1 54.Kf3 Ne3 55.Bh3 Nd5 56.Ng7 Bd2 57.Bc8 Ne7 58.Bd7 Be1 59.Bh3 Nd5 60.Ne6 Bd2 61.Nc5 Nf6 62.Bc8 Be1 63.Bb7 Kd6 64.Na4 Nd7 65.Bc8 Ne5+ 66.Kg2 Bd2 67.Bf5 Bc1 68.Be4 Ng4 69.Bf3 Ne3+ 70.Kh3 Bd2 71.g4 Ke5 72.Nc5 Kf4 73.Ne6+ Ke5 74.Nd8 Nc2 75.Be4 Nb4 76.Kg2 Be1 77.Nf7+ Kf4 78.Kh3 Na6 79.Nxh6 Nc5 80.g5 Ne6 81.Nf5 Bb4 82.Ng3 Ng7 83.Bg6 Bf8 84.Ne4 Ne6 85.Bh5 Nc5 86.Nd2 Nd7 87.Nc4 Be7 88.Bg4 Nf8 89.Nb6 Bd8 90.Nd5+ Ke5 91.Bf3 Ne6 92.Kg4 Nf8 93.Nf4 Nd7 94.Bc6 Nf8 95.Be8 Nh7 96.Bf7 Nf8 97.Ng6+ Nxg6 98.Bxg6 Be7 99.h5 Bf8 100.Bf7 1-0

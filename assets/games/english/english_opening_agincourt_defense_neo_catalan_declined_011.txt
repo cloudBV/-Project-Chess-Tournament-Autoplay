@@ -1,0 +1,15 @@
+[Event "Round 5: Caruana, Fabiano - Hong, Andrew"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-5/kzSSFnA1/lAAdI0eU"]
+[Date "2026.07.04"]
+[Round "5.5"]
+[White "Caruana, Fabiano"]
+[Black "Hong, Andrew"]
+[Result "0-1"]
+[WhiteElo "2773"]
+[BlackElo "2519"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d3 c5 7.Ne5 Qc7 8.f4 Rd8 9.Nc3 a6 10.Qe1 b5 11.cxd5 exd5 12.a3 Bb7 13.Bd2 Nc6 14.Nxc6 Bxc6 15.Rc1 Qb7 16.e3 Bf8 17.Ne2 d4 18.Bxc6 Qxc6 19.Nxd4 Qd5 20.Nf3 Qxd3 21.Ba5 Re8 22.Ne5 Qe4 23.Rd1 Nd5 24.Qf2 f6 25.Nf3 Nxe3 26.Rde1 Qd3 27.Rc1 Nxf1 28.Qxf1 Re2 29.Rc3 Qe4 30.b3 c4 31.Bb6 Re8 32.bxc4 bxc4 33.a4 Qd5 34.Rc1 Bc5+ 35.Bxc5 Qxc5+ 36.Kh1 Qd5 37.Kg1 Qc5+ 38.Kh1 Qc6 39.Kg1 Qxa4 40.Nd4 R2e4 41.Nf5 Qb4 42.Kg2 Qc5 43.g4 Re2+ 44.Kh3 h5 45.Ng3 hxg4+ 46.Kxg4 Qc8+ 47.f5 R2e4+ 48.Nxe4 Rxe4+ 49.Kh3 Qc5 50.Rd1 Qe3+ 51.Kg2 Rg4+ 52.Kh1 Qe4+ 0-1

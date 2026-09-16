@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.24"]
+[White "Basaric, Srdjan"]
+[Black "Brejnik, Gustav"]
+[Result "0-1"]
+[WhiteElo "2084"]
+[BlackElo "2229"]
+[ECO "B10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bd6 5.d4 exd4 6.exd5 Nf6 7.Bd3 c5 8.O-O O-O 9.c4 dxc3 10.Nc4 h6 11.bxc3 Nxd5 12.Nxd6 Qxd6 13.c4 Qf6 14.cxd5 Qxa1 15.Qb3 Qf6 16.Bb2 Qd6 17.Qc3 f6 18.Re1 Bd7 19.Nd2 b5 20.Ne4 Qxd5 21.Nxc5 Bc6 22.Be4 Qc4 23.Bf5 Qxc3 24.Bxc3 Re8 25.Rd1 Kf7 26.h4 h5 27.g4 Bf3 28.Rd3 Bxg4 29.Be4 Rxe4 30.Nxe4 Nc6 31.Rd6 Rc8 32.Kg2 Ke7 33.Rd5 b4 34.Bb2 Be6 35.Rc5 Bxa2 36.Ng3 Be6 37.Nxh5 a5 38.Nf4 a4 39.h5 a3 40.Bc1 Kd6 41.Rb5 Bc4 42.Rf5 Nd4 43.Ra5 Nb3 44.Bxa3 Nxa5 45.Bxb4+ Ke5 46.Ng6+ Ke4 47.Bxa5 Be2 48.Kg3 Rc5 49.Bd2 Rxh5 50.f4 Rd5 51.Bb4 Rd3+ 52.Kf2 Bh5 53.Nh4 Kxf4 54.Bf8 Rd2+ 55.Kf1 g5 56.Ng2+ Ke4 57.Be7 Bg4 58.Bxf6 Bh3 0-1

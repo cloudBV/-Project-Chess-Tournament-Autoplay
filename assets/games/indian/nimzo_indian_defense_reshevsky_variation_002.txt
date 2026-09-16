@@ -1,0 +1,15 @@
+[Event "Round 2: Daghli, Arash - Dezhdar, Roozbeh"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-2/k0dRbeSr/HcABgV3a"]
+[Date "2026.07.12"]
+[Round "2.1"]
+[White "Daghli, Arash"]
+[Black "Dezhdar, Roozbeh"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "2026"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 Re8 6.a3 Bf8 7.d5 exd5 8.cxd5 c5 9.g3 d6 10.Bg2 Bd7 11.O-O a5 12.a4 Na6 13.Nb5 Bxb5 14.axb5 Nb4 15.Nc3 Nd7 16.Nb1 g6 17.Bd2 Bg7 18.Bc3 Ne5 19.Na3 h5 20.h3 h4 21.g4 Qc7 22.f4 Nd7 23.e4 Nb6 24.g5 c4 25.Bxg7 Kxg7 26.Qd4+ Kg8 27.f5 Re5 28.fxg6 fxg6 29.Rf6 Rxg5 30.Qe3 Rg3 31.Qh6 Nd7 32.Rxg6+ Rxg6 33.Qxg6+ Kh8 34.Qh6+ Kg8 35.Qg5+ Kh8 36.Qxh4+ Kg8 37.Qg5+ Kh8 38.Qh6+ Kg8 39.Kh1 Nf8 40.Rg1 Nh7 41.e5 Nd3 42.Be4+ Kh8 43.Bxh7 1-0

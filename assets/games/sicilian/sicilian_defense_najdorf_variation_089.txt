@@ -1,0 +1,14 @@
+[Event "Round 4: Xu, Chang(CQ) - Kukushkin, Ivan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/aIu3oDCu"]
+[Date "2026.07.16"]
+[Round "4.15"]
+[White "Xu, Chang(CQ)"]
+[Black "Kukushkin, Ivan"]
+[Result "1-0"]
+[WhiteElo "2125"]
+[BlackElo "2257"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 Qa5 8.Bd2 Qc7 9.g4 Qb6 10.Nb3 Ne5 11.h3 Be6 12.Be3 Qc7 13.f4 Nc4 14.O-O-O Nxe3 15.Qxe3 Rc8 16.Qd4 b5 17.Rh2 Bxb3 18.axb3 e5 19.Qe3 h6 20.Kb1 Be7 21.Qf3 exf4 22.Qxf4 Qc5 23.Rf2 O-O 24.Bd3 Qb4 25.Qd2 Bd8 26.Nd5 Nxd5 27.exd5 Qxd2 28.Rdxd2 Bf6 29.b4 Rfe8 30.Rde2 Kf8 31.Ka2 Red8 32.Kb3 Ra8 33.Rf1 a5 34.Bxb5 axb4 35.Bc6 Ra7 36.Re4 Rb8 37.Rff4 Ra1 38.Rxb4 Rd8 39.Rf3 Rb1 40.c3 Kg8 41.Rb7 Re1 42.Kc4 Rb1 43.b4 Rb2 44.Ra7 Rf8 45.b5 Be5 46.Ra4 Bh2 47.Rf1 Rb8 48.Rb4 Rxb4+ 49.Kxb4 g5 50.Ka5 Be5 51.Ka6 Bxc3 52.Ka7 Rf8 53.Kb7 Bd4 54.Kc7 f6 55.Kxd6 Be5+ 56.Kc5 Kf7 57.Rf2 h5 58.Ra2 hxg4 59.hxg4 Rh8 60.Ra7+ Kg6 61.Bd7 f5 62.Bxf5+ Kf6 63.d6 Bf4 64.Kc6 Rh1 65.d7 Rc1+ 66.Kd5 Rd1+ 67.Ke4 Ke7 68.Ra8 Bc7 69.Re8+ Kf7 70.Rc8 Ba5 71.Rc6 Bd8 72.Ke5 Re1+ 73.Kd4 Rd1+ 74.Ke3 Re1+ 75.Kd3 Rb1 76.Rc5 Kf6 77.Kc2 Rb4 78.Kc3 Rf4 79.b6 Rf3+ 80.Kc4 Rf4+ 81.Kb5 Rf2 82.Ka6 Ra2+ 83.Kb7 Ra3 84.Rc6+ Kf7 85.Re6 Be7 86.Kc7 Rc3+ 87.Rc6 Bd8+ 88.Kxd8 Rxc6 89.b7 Rb6 90.Kc7 Rb3 91.d8=Q 1-0

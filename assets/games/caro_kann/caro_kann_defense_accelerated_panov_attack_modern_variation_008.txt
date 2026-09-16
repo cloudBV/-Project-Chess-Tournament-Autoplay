@@ -1,0 +1,14 @@
+[Event "Blitz C14"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.5"]
+[White "Korszanski, Stanislaw"]
+[Black "Kopacki, Aleksander"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2011"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 g6 6.Nf3 Bg7 7.d4 O-O 8.Qb3 Nbd7 9.Be2 Nb6 10.O-O Nfxd5 11.a4 Be6 12.Rd1 Nxc3 13.Qxc3 Rc8 14.Qe1 Nd5 15.Bd2 a6 16.b4 Bf5 17.Rdc1 Rxc1 18.Rxc1 Qd7 19.b5 Rc8 20.bxa6 bxa6 21.a5 Qb7 22.Bc4 e6 23.Qf1 Nc7 24.Bf4 Be4 25.Ng5 Bd5 26.Be3 h6 27.Nf3 Bxf3 28.gxf3 Nb5 29.Bxb5 Rxc1 30.Qxc1 Qxb5 31.Qc5 Qb7 32.Kg2 h5 33.Qb6 Qc8 34.Bf4 Kh7 35.Bd6 Qc4 36.Bc5 Qd3 37.Qc7 Qf5 38.Qg3 Qd3 39.Qf4 Qc4 40.Qxf7 Qd5 41.Bf8 Qg5+ 42.Kh3 Qf5+ 43.Qxf5 gxf5 44.Bxg7 Kxg7 45.f4 Kf6 46.Kh4 Kg6 47.h3 Kh6 48.Kg3 Kg6 49.Kf3 Kf6 50.Ke3 Ke7 51.Kd3 Kd6 52.Kc4 Kc6 53.h4 Kd6 54.d5 exd5+ 55.Kd4 Kc6 56.Ke5 Kc5 57.Kxf5 d4 58.Ke4 Kc4 59.f5 d3 60.Ke3 Kc3 61.f6 d2 62.f7 d1=Q 63.f8=Q Qd4+ 64.Kf3 Qg4+ 65.Ke3 Qd4+ 66.Kf3 Qg4+ 67.Ke3 Qd4+ 68.Kf3 Qg4+ 69.Ke3 1/2-1/2

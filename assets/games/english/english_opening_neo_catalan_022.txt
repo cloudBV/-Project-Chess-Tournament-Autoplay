@@ -1,0 +1,15 @@
+[Event "Round 8: Buyuk, Eymen Eren - Rakhmatullaev, Almas"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/yAXn3vQj"]
+[Date "2026.07.12"]
+[Round "8.1"]
+[White "Buyuk, Eymen Eren"]
+[Black "Rakhmatullaev, Almas"]
+[Result "1/2-1/2"]
+[WhiteElo "2170"]
+[BlackElo "2389"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.Nf3 Nf6 2.g3 d5 3.c4 e6 4.b3 b6 5.Bg2 Bb7 6.O-O Bd6 7.Bb2 O-O 8.Nc3 a6 9.e3 Nbd7 10.d3 Re8 11.Qe2 c5 12.Rfd1 Qc7 13.Rac1 Rad8 14.d4 dxc4 15.Qxc4 Qb8 16.dxc5 Bxc5 17.Qf1 Qa8 18.Nd4 Bxd4 19.exd4 b5 20.d5 Nxd5 21.Nxd5 Bxd5 22.Bxd5 exd5 23.Rd4 Nf8 24.Rd2 Ne6 25.Qg2 Rd6 26.Rcd1 Nf4 27.Qf1 Ne6 28.Be5 Rd7 29.Qg2 Ng5 30.Bd4 Rde7 31.Be3 Ne4 32.Rc2 b4 33.Rd4 a5 34.Qf1 h5 35.Qb5 Nc3 36.Qd3 Re4 37.Rxe4 dxe4 38.Qd7 Rd8 39.Qc7 Rd1+ 40.Kg2 Qa6 41.Kh3 Qf1+ 42.Kh4 Rd5 43.Rd2 Qb5 44.a4 Qe8 45.Rxd5 Nxd5 46.Qxa5 Qd7 47.h3 Kh7 48.g4 Qd6 49.Qa7 Qf6+ 50.Kg3 Qf3+ 51.Kh2 hxg4 52.hxg4 Nf6 53.Qc5 Nxg4+ 54.Kg1 g6 55.Qg5 Qd1+ 56.Kg2 Qf3+ 57.Kg1 Qd1+ 58.Kg2 Qf3+ 59.Kg1 1/2-1/2

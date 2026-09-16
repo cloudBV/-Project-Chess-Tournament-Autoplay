@@ -1,0 +1,15 @@
+[Event "Round 5: Atis, Hasan - Allahverdiyeva, Ayan"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-5/wuLhL5ga/4zs2nmwF"]
+[Date "2026.07.22"]
+[Round "5.9"]
+[White "Atis, Hasan"]
+[Black "Allahverdiyeva, Ayan"]
+[Result "0-1"]
+[WhiteElo "2139"]
+[BlackElo "2254"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a3 e5 7.Nf5 d5 8.Bg5 d4 9.Bxf6 gxf6 10.Nb1 Be6 11.Bd3 h5 12.O-O Nc6 13.Nd2 Ne7 14.Qf3 Ng6 15.g3 h4 16.Rfb1 Qd7 17.b4 b6 18.a4 Qb7 19.Bc4 hxg3 20.hxg3 Rc8 21.Qd3 Rxc4 22.Nxc4 Bxf5 23.f3 Be6 24.Nxb6 Qxb6 25.a5 Qc7 26.b5 Bh6 27.f4 exf4 28.bxa6 f3 29.Qb5+ Kf8 0-1

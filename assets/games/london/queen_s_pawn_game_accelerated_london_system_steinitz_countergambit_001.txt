@@ -1,0 +1,14 @@
+[Event "Round 6: Wernberg, Hugo - Smith, Axel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sverigemastarklassen/round-6/DlUfmM5B/crz0O8L0"]
+[Date "2026.07.01"]
+[Round "6.4"]
+[White "Wernberg, Hugo"]
+[Black "Smith, Axel"]
+[Result "1-0"]
+[WhiteElo "2296"]
+[BlackElo "2439"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Bf5 5.Qb3 Qd7 6.Nf3 e6 7.dxc5 Bxc5 8.Ne5 Nxe5 9.Bxe5 Kf8 10.Bb5 Qc8 11.O-O Ne7 12.Nd2 f6 13.Bg3 h5 14.h3 h4 15.Bh2 e5 16.Rfe1 a6 17.Bf1 Be6 18.c4 d4 19.exd4 Bxd4 20.Nf3 Ba7 21.Re4 Ng6 22.Rae1 Kg8 23.Bd3 Rh6 24.R4e2 Bf7 25.Rd2 Rb8 26.Red1 b5 27.Qc2 bxc4 28.Bf5 Qc5 29.Nxh4 Rxh4 30.Bxg6 Bxg6 31.Qxg6 Rf8 32.Rd7 Rh7 33.Bg3 Kh8 34.R1d5 Qb6 35.R5d6 Qb8 36.Rxa6 Bc5 37.Rc6 Qb4 38.Rdc7 Qe1+ 39.Kh2 Bxf2 40.Bxf2 Qxf2 41.Rc8 Qf4+ 42.Qg3 Qxg3+ 43.Kxg3 Kg8 44.Rxc4 Rxc8 45.Rxc8+ Kf7 46.a4 Ke6 47.b4 g5 48.a5 Rd7 49.a6 Rd3+ 50.Kf2 Ra3 51.b5 Kd7 52.Rf8 Kc7 53.Rxf6 Kb8 54.Re6 Ra2+ 55.Kg1 Ra4 56.Rxe5 g4 57.hxg4 Rxg4 58.b6 Rg8 59.b7 Ka7 60.Rc5 Kxa6 61.Rc8 Rg5 62.b8=R 1-0

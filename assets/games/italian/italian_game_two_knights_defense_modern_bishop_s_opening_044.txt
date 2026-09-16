@@ -1,0 +1,14 @@
+[Event "Round 4: Liu,Tianyi (Jack) - Fava, Lorenzo"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-4/RqcM0dmr/WulenWkg"]
+[Date "2026.07.09"]
+[Round "4.3"]
+[White "Liu,Tianyi (Jack)"]
+[Black "Fava, Lorenzo"]
+[Result "1/2-1/2"]
+[WhiteElo "2120"]
+[BlackElo "2343"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.c3 g6 7.Nbd2 Bg7 8.h3 O-O 9.Bb3 Nd7 10.Nc4 Nc5 11.Bc2 a5 12.d4 Nd7 13.a4 b6 14.Re1 Bb7 15.Be3 exd4 16.cxd4 d5 17.Ncd2 dxe4 18.Bxe4 Nf6 19.Bb1 Nd5 20.Ra3 Nxe3 21.fxe3 Nb4 22.Be4 Bxe4 23.Nxe4 Re8 24.Nc3 Qd7 25.e4 Rad8 26.d5 c6 27.dxc6 Qxc6 28.Qe2 f5 29.e5 Nd3 30.Rd1 Qc5+ 31.Kh2 Nxe5 32.Rxd8 Rxd8 33.Rb3 Nxf3+ 34.Qxf3 Qe5+ 35.Qg3 Rd3 36.Qxe5 Bxe5+ 37.Kg1 Bg3 38.Rxb6 Kf7 39.Kf1 Rd2 40.Rb7+ Kf6 41.Rb6+ Kg5 42.Rb5 Rf2+ 43.Kg1 Kf4 44.Rb3 Rd2 45.Kf1 Ke5 46.Rb5+ Ke6 47.Rb6+ Kf7 48.Rb7+ Ke8 49.Rb6 g5 50.Re6+ Kd7 51.Re2 Rd4 52.Rc2 Rb4 53.Nd5 Rb8 54.Ne3 Ke6 55.Nc4 Rb4 56.Nxa5 Rxa4 57.Nc4 h5 58.Ke2 g4 59.hxg4 hxg4 60.Ne3 Bd6 61.Kd3 Rb4 62.Nc4 Bc5 63.Kc3 Rb8 64.Re2+ Kf6 65.Re5 Bb4+ 66.Kd3 Rd8+ 67.Ke3 Rc8 68.Nb6 Kxe5 69.Nxc8 Bc5+ 70.Kd3 Ke6 71.b4 Bg1 72.Kc4 Kd7 73.Kd5 Kxc8 74.Ke5 g3 75.Kxf5 Kb7 76.Kg4 Bf2 77.Kf3 Kb6 78.Ke2 Kb5 79.Kf1 Kxb4 80.Ke2 Kc3 81.Kf1 Kd2 1/2-1/2

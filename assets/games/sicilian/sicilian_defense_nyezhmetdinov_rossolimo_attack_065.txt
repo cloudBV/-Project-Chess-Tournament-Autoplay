@@ -1,0 +1,14 @@
+[Event "Round 7: Dobboletta, Alex - Pulvirenti, Davide"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-7/0NCq6FGl/aNAMtV75"]
+[Date "2026.07.10"]
+[Round "7.4"]
+[White "Dobboletta, Alex"]
+[Black "Pulvirenti, Davide"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2265"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.c3 a6 6.Bc4 b5 7.Bd5 Nf6 8.d4 cxd4 9.cxd4 Nxd5 10.dxe5 Nc3 11.Qxd6 Nxe4 12.Qd5 f5 13.exf6 Nxf6 14.Re1+ Kf8 15.Qd6+ Kg8 16.Bg5 Qf8 17.Qd3 Bb7 18.Bxf6 Qxf6 19.Qxd7 Qf7 20.Qxf7+ Kxf7 21.Nc3 Rhd8 22.Ne4 Nd4 23.Ne5+ Kg8 24.Rac1 Bxe4 25.Rxe4 Rac8 26.Rxc8 Rxc8 27.g3 Nf5 28.Re2 Rc5 29.Kf1 g6 30.f4 Rc1+ 31.Kf2 Rh1 32.Kg2 Rd1 33.Nf3 Ra1 34.a3 b4 35.axb4 Ra4 36.g4 Nd6 37.Re6 Nb5 38.Kg3 Rxb4 39.Rxa6 Rxb2 40.Rb6 Rb3 41.g5 Nd4 42.Rxb3 Nxb3 43.Ne5 Kg7 44.Ng4 Kf7 45.Kf3 Ke6 46.Ne3 Nc5 47.Kg4 Kf7 48.h4 Kg7 49.h5 gxh5+ 50.Kxh5 Ne6 51.f5 Nf4+ 52.Kg4 Nd3 53.Nd5 Ne5+ 54.Kh5 Nf7 55.Nf4 Nd6 56.Kg4 Ne4 57.Nh5+ Kf7 58.Kf4 Nc5 59.Ke5 Nd3+ 60.Kd6 Nf2 61.Nf6 h6 62.gxh6 Kxf6 63.h7 Ne4+ 64.Kd5 Nc3+ 65.Kc6 Kg7 66.f6+ Kxh7 67.Kd7 Kg6 68.Ke6 Ne4 1/2-1/2

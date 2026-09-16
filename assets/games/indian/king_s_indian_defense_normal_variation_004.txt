@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "7.4"]
+[White "Gibala, Adam"]
+[Black "Kiszkiel, Oskar"]
+[Result "1/2-1/2"]
+[WhiteElo "2360"]
+[BlackElo "2236"]
+[ECO "E70"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.h4 e5 7.d5 Na6 8.h5 Nc5 9.Qc2 a5 10.h6 Bh8 11.Bg5 a4 12.Nf3 c6 13.Nd2 Qa5 14.f3 Bd7 15.Kf2 cxd5 16.cxd5 b5 17.Be3 Rfc8 18.a3 Rab8 19.g4 b4 20.axb4 Qxb4 21.Rhb1 Rc7 22.Qd1 Rbc8 23.Kg2 Rb8 24.Bf2 Rcc8 25.Ra2 Ne8 26.Rba1 Bf6 27.Be3 Nc7 28.Nc4 Nb5 29.Nxb5 Bxb5 30.Nxd6 Bxe2 31.Qxe2 Rc7 32.Qc4 Qxc4 33.Nxc4 Nb3 34.Nb6 Nxa1 35.Rxa1 Rc2+ 36.Kg3 Bd8 37.Rxa4 f5 38.gxf5 gxf5 39.Nd7 f4+ 40.Kg4 fxe3 41.Nxb8 e2 42.Ra1 Ba5 43.Nc6 e1=Q 44.Rxe1 Bxe1 45.Nxe5 Rxb2 46.f4 Bc3 47.Nf3 Kf7 48.Kf5 Rf2 49.Ng5+ Ke7 50.e5 Bd2 51.Ne6 Rh2 52.d6+ Kd7 53.Nc5+ Kc6 54.Ne4 Bb4 55.Kg5 Rg2+ 56.Kf6 Rg6+ 57.Kf7 Rxh6 58.Nf6 Bxd6 59.exd6 Kxd6 60.Ne4+ Kd5 61.Ng5 Ra6 62.Nxh7 Ke4 63.Nf6+ Kxf4 64.Ke7 Kf5 65.Nd7 Rh6 66.Nc5 Rh1 67.Kd6 Rd1+ 68.Kc6 Ke5 69.Nd7+ Kd4 70.Kd6 Rh1 71.Ke6 Rh6+ 72.Nf6 Rh2 73.Nd7 Rf2 74.Nf6 Ra2 75.Kf5 Ra6 76.Ng4 Ra5+ 77.Kf4 Kd5 78.Ne3+ Ke6 79.Ke4 Ra4+ 80.Kd3 Ke5 81.Nc4+ Kf4 82.Kd4 Ra8 83.Kd5 Ra1 84.Kd4 Rd1+ 85.Kc3 Ke4 86.Nd2+ Kd5 87.Kd3 Rh1 88.Ke3 Re1+ 89.Kd3 Re7 90.Nc4 Re8 91.Ne3+ Kc5 92.Nf5 Re5 93.Ne3 Rh5 94.Ke4 Rh4+ 95.Ke5 Rh8 96.Ke4 Re8+ 97.Kd3 Re6 98.Nf5 Kd5 99.Ne3+ Ke5 100.Nc4+ Kf4 101.Kd4 Re1 102.Kd3 Rd1+ 103.Nd2 Ke5 104.Ke3 Re1+ 105.Kd3 Kd5 106.Nf3 Re8 107.Nd2 Re7 108.Nf3 Re6 109.Nd2 Ra6 110.Ke3 Ra3+ 111.Kf4 Ra4+ 112.Ke3 Ra8 113.Nf3 1/2-1/2

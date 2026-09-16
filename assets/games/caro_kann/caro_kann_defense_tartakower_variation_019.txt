@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-7-game-1/WK3QQ8jg/2awV2uFZ"]
+[Date "2026.07.09"]
+[Round "13.6"]
+[White "Buklaho, Ignacy"]
+[Black "Dmytruk, Artem"]
+[Result "1-0"]
+[WhiteElo "2052"]
+[BlackElo "2037"]
+[ECO "B15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 Qc7 8.h3 Be6 9.Ne2 Nd7 10.O-O O-O 11.b3 c5 12.dxc5 Nxc5 13.Bc2 Rad8 14.Nd4 a6 15.Bb2 Be5 16.Rc1 Qc8 17.Qh5 g6 18.Qh4 f5 19.b4 Nd7 20.Nxe6 fxe6 21.Bb3 Rde8 22.Rfe1 Qc6 23.Qc4 Qxc4 24.Bxc4 Kf7 25.Rcd1 Nb6 26.Bb3 Bc7 27.a4 Nd5 28.g3 Nf6 29.c4 Ne4 30.b5 axb5 31.cxb5 Rd8 32.Kg2 Bb6 33.Rxd8 Rxd8 34.Re2 Nc5 35.Bc2 Rd5 36.Bc3 Bc7 37.a5 e5 38.Bb4 e4 39.Bxc5 Rxc5 40.a6 Rxb5 41.a7 Ra5 42.Bb3+ Ke7 43.Ra2 Rxa7 44.Rxa7 Kd7 45.Rxb7 Kc6 46.Ra7 Kb6 47.Ra8 Be5 48.Bg8 h6 49.Bh7 f4 50.gxf4 Bxf4 51.Bxg6 e3 52.fxe3 Bxe3 53.Rc8 Kb7 54.Rc2 Kb6 55.Kf3 Bg5 56.Kg4 Be3 57.Be4 Kb5 58.h4 Kb4 59.h5 Kb3 60.Kf5 Bg5 61.Rc6 Kb4 62.Kg6 Kb5 63.Rc8 Kb6 64.Rh8 Kc7 65.Rxh6 Bxh6 66.Kxh6 Kd7 67.Kg7 Ke6 68.h6 Ke5 69.h7 Kxe4 70.h8=Q Ke3 71.Qh4 Kf3 72.Kf6 Ke2 73.Qg3 Kd2 74.Ke5 Kc2 75.Kd4 Kb2 76.Kc4 Ka1 77.Kb3 Kb1 78.Qg1# 1-0

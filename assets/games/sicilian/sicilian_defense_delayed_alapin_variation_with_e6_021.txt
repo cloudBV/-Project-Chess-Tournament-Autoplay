@@ -1,0 +1,15 @@
+[Event "Round 4: Gotsiridze, Davit - Sanikidze, Tornike"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-4/ZN9WtA8l/aZ21hazA"]
+[Date "2026.07.15"]
+[Round "4.6"]
+[White "Gotsiridze, Davit"]
+[Black "Sanikidze, Tornike"]
+[Result "1-0"]
+[WhiteElo "2152"]
+[BlackElo "2432"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.Bc4 Nc6 6.d4 cxd4 7.cxd4 d6 8.O-O Be7 9.Qe2 Nb6 10.Bb3 O-O 11.Nc3 Bd7 12.Rd1 Rc8 13.Bf4 d5 14.a3 Na5 15.Bc2 Nac4 16.Bd3 Na4 17.Nxa4 Bxa4 18.Rdc1 Qb6 19.b4 a5 20.Bg5 f6 21.exf6 Bxf6 22.Bxf6 gxf6 23.bxa5 Nxa5 24.Nh4 Rxc1+ 25.Rxc1 f5 26.Qe5 Nc4 27.Bxc4 dxc4 28.h3 Qc6 29.Rc3 f4 30.Qg5+ Kh8 31.Qe5+ Kg8 32.Qg5+ Kh8 33.Qh6 Kg8 34.Nf3 Qe4 35.Ng5 Qg6 36.Qxg6+ hxg6 37.Nxe6 Re8 38.Nc5 Re1+ 39.Kh2 Bc6 40.Rxc4 Bd5 41.Nd3 Bxc4 42.Nxe1 Kf7 43.Nf3 Kf6 44.g3 Bd3 45.gxf4 Ke6 46.Kg3 Kd5 47.Ne5 Bf5 48.Kh4 Kxd4 49.Kg5 Bxh3 50.Nxg6 Ke4 51.Nh4 1-0

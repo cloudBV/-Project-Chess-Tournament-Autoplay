@@ -1,0 +1,15 @@
+[Event "Greek Chess Cup F4"]
+[Site "Patras, Greece"]
+[Date "2026.07.02"]
+[Round "1.8"]
+[White "Anagnostopoulos, Panagiotis"]
+[Black "Kalogridis, Themistoklis"]
+[Result "1/2-1/2"]
+[WhiteElo "2058"]
+[BlackElo "2293"]
+[ECO "A30"]
+[TimeControl "90 minutes for 40 moves + 30 minutes + 30sec increment from first move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.b3 e5 4.Nc3 d6 5.e3 g6 6.Bb2 Bg7 7.d3 f5 8.g3 Nh6 9.Bg2 O-O 10.O-O g5 11.Nd5 g4 12.Ne1 Ne7 13.Qd2 Be6 14.d4 cxd4 15.exd4 f4 16.dxe5 f3 17.Nxe7+ Qxe7 18.exd6 Qd7 19.Bh1 Bxb2 20.Qxb2 Qxd6 21.Nc2 Rad8 22.Ne3 Nf7 23.h3 Qe5 24.Qc2 Ng5 25.h4 Ne4 26.Rfe1 Rd2 27.Nxg4 Rxc2 28.Nxe5 Nxf2 29.Bxf3 Nh3+ 30.Kh1 Nf2+ 31.Kg1 Nh3+ 32.Kh1 Nf2+ 33.Kg1 1/2-1/2

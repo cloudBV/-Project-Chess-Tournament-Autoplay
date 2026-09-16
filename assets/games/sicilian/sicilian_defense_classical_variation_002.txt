@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "14.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Saric, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2600"]
+[ECO "B56"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.h3 e5 7.Nf3 Be7 8.Bc4 O-O 9.Bg5 Be6 10.Bb3 Nd7 11.Be3 Na5 12.Nd5 Nxb3 13.axb3 Bxd5 14.Qxd5 Nf6 15.Qxb7 Rb8 16.Qxa7 Nxe4 17.O-O f5 18.Rfe1 Bf6 19.Rad1 Qc8 20.Re2 Qc6 21.Qa5 Ra8 22.Qd5+ Qxd5 23.Rxd5 Ra2 24.Nd2 Nxd2 25.Bxd2 Rxb2 26.Bb4 Kf7 27.Bxd6 Rd8 28.Rdd2 Bg5 29.Rd1 e4 30.Ree1 Rxc2 31.Be5 Rxd1 32.Rxd1 Bd2 33.g3 g5 34.Kf1 Ke6 35.Bb8 f4 36.gxf4 gxf4 37.b4 e3 38.fxe3 Bxe3 39.Rd8 Kf5 40.Re8 Rb2 41.Bd6 h5 42.Re5+ Kg6 43.b5 Rc2 44.h4 Rf2+ 45.Ke1 Rb2 46.Rg5+ Kf7 47.Bxf4 Bxf4 48.Rf5+ Kg6 49.Rxf4 Rxb5 50.Kf2 Rf5 51.Rxf5 Kxf5 52.Kf3 Ke5 53.Ke3 Kf5 54.Kf3 Ke5 55.Ke3 Kf5 56.Kf3 Ke5 57.Ke3 1/2-1/2

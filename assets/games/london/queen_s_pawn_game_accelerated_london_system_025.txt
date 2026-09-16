@@ -1,0 +1,15 @@
+[Event "Round 6: Isik, Tuna - Damya, Aydin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/XRzqqtIj"]
+[Date "2026.07.16"]
+[Round "6.35"]
+[White "Isik, Tuna"]
+[Black "Damya, Aydin"]
+[Result "1/2-1/2"]
+[WhiteElo "2031"]
+[BlackElo "2105"]
+[ECO "D00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.c3 Nc6 5.Nd2 e6 6.Ngf3 cxd4 7.exd4 Nh5 8.Be3 Bd6 9.Ne5 g6 10.g4 Nf6 11.Ndf3 Qc7 12.Bb5 Nd7 13.Bf4 f6 14.Nxd7 Bxd7 15.Bxd6 Qxd6 16.Qe2 Qf4 17.Rg1 g5 18.Qe3 Qxe3+ 19.fxe3 h5 20.gxh5 Ne7 21.Bd3 Rxh5 22.Rg2 Rh3 23.Ke2 g4 24.Nd2 f5 25.Nf1 Kf7 26.Rg3 Rh6 27.Kf2 Rah8 28.Kg1 b5 29.Rc1 Ng6 30.Rc2 Nh4 31.Be2 Ng6 32.Bd3 Ke7 33.Rf2 a5 34.Nd2 b4 35.Nb1 Nh4 36.Be2 Rb8 37.cxb4 axb4 38.h3 gxh3 39.Rxh3 Rg8+ 40.Kh1 Rhg6 41.Bf1 Rg4 42.Nd2 Rc8 43.Be2 Rc1+ 44.Kh2 Rgg1 45.Nf1 Rgxf1 46.Bxf1 Ng6 47.Bd3 Ra1 48.b3 Rd1 49.Bf1 f4 50.Rh7+ Kd6 51.exf4 Rxd4 52.f5 exf5 53.Rh6 Rh4+ 54.Rxh4 Nxh4 55.Rf4 Ng6 56.Rxb4 Kc5 57.Rb8 d4 58.a4 Nf4 59.Kg3 Nd5 60.a5 f4+ 61.Kf2 Nb4 62.a6 Nc6 63.Rb7 Bc8 64.Rc7 Bxa6 65.Bxa6 Kb6 66.Rc8 Na7 67.Rc4 Kxa6 68.Rxd4 Kb5 69.Rxf4 Nc6 70.Rf7 Na5 71.Ke3 Nxb3 72.Rc7 Nc5 73.Rc8 Kc4 74.Kf4 Kd5 75.Kf5 Kd6 1/2-1/2

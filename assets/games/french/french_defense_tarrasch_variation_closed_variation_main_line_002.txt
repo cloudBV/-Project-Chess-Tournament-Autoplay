@@ -1,0 +1,15 @@
+[Event "Round 5: Paseka, Matyas - Lednicky, Martin"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/kXOIRqp4"]
+[Date "2026.07.18"]
+[Round "5.33"]
+[White "Paseka, Matyas"]
+[Black "Lednicky, Martin"]
+[Result "1/2-1/2"]
+[WhiteElo "2319"]
+[BlackElo "2066"]
+[ECO "C06"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6 9.exf6 Qxf6 10.Nf3 h6 11.Qc2 Bb4+ 12.Bd2 O-O 13.O-O Bd6 14.Bc3 Rd8 15.Ng3 Nf8 16.Rfe1 Bd7 17.a3 Be8 18.b4 Rac8 19.Qb3 Bg6 20.Bb2 Bxd3 21.Qxd3 Rc7 22.Re2 Ng6 23.Nh5 Qf5 24.Qxf5 exf5 25.Rc1 a6 26.Kf1 Nf4 27.Nxf4 Bxf4 28.Rcc2 Re7 1/2-1/2

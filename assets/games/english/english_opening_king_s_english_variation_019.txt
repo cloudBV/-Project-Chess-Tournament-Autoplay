@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.4"]
+[White "Engelsen, Teodor Tenfjord"]
+[Black "Maurstad, Astor Moe"]
+[Result "1-0"]
+[WhiteElo "2227"]
+[BlackElo "2054"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 d6 3.Bg2 f5 4.Nc3 Nf6 5.Nf3 Be7 6.O-O O-O 7.b4 a6 8.d3 Qe8 9.e3 h6 10.Nd2 c6 11.a4 Be6 12.Rb1 d5 13.b5 Nbd7 14.Bb2 Qf7 15.Ne2 g5 16.bxc6 bxc6 17.Nf3 Bd6 18.d4 e4 19.Ne5 Bxe5 20.dxe5 Ng4 21.cxd5 cxd5 22.Qd4 Ngxe5 23.Ba1 Kh7 24.Rb7 Rfc8 25.Rfb1 Rc4 26.Qd1 Nd3 27.Nc1 N3c5 28.Rc7 Nd3 29.Rcb7 N3c5 30.R7b4 a5 31.Rb5 Rxa4 32.Bd4 Rc4 33.Bf1 Nd3 34.Nxd3 exd3 35.Bxd3 Rc6 36.Qa4 Rc7 37.Rxa5 Rac8 38.Qa3 Nf6 39.Be5 Rd7 40.Rab5 Ng4 41.Bd4 Qh5 42.h4 gxh4 43.Rb7 Qf7 44.Rxd7 Bxd7 45.Qd6 hxg3 46.fxg3 Rc6 47.Qb8 Rc8 48.Qa7 Kg8 49.Rb8 Qe8 50.Rxc8 Qxc8 51.Kg2 Qc6 52.Qb8+ Qc8 53.Qd6 Be6 54.Be2 Qd7 55.Qb6 Kf7 56.Qb1 h5 57.Bd3 Qc8 58.Qb6 Nf6 59.Qd6 Ng4 60.Qb6 Nf6 61.Qa7+ Qd7 62.Qb8 Kg6 63.Be2 Ng4 64.Qh8 Qh7 65.Qe8+ Qf7 66.Qb8 Qe7 67.Bf3 Bf7 68.Qb6+ Qe6 69.Qc5 Ne5 70.Qf8 Kh7 71.Be2 h4 72.gxh4 Qg6+ 73.Kf1 f4 74.exf4 Qg3 75.Bxe5 Qh3+ 76.Ke1 Qxh4+ 77.Kd2 1-0

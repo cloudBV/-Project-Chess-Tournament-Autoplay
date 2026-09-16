@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.2"]
+[White "Zhou, Jianchao"]
+[Black "Shetty, Anshul"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2244"]
+[ECO "A16"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 Bg7 7.h4 h6 8.Rb1 O-O 9.Nf3 c5 10.O-O Nc6 11.d4 cxd4 12.cxd4 Qa5 13.d5 Rd8 14.e4 Qxa2 15.Bb2 e5 16.Qc2 Nd4 17.Nxd4 exd4 18.Ra1 d3 19.Qc7 Qxb2 20.Qxd8+ Kh7 21.Rac1 Bc3 22.Qc7 Bg7 23.Qd8 Bc3 24.d6 d2 25.Rb1 Qa2 26.d7 Qc4 27.h5 g5 28.e5 Bxe5 29.dxc8=Q 1-0

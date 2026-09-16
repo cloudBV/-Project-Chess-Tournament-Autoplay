@@ -1,0 +1,15 @@
+[Event "Round 8: Casalaspro, Mathias Andre - Larkin, Vladyslav"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-8/M7b2uBBM/dkS22EPS"]
+[Date "2026.07.11"]
+[Round "8.9"]
+[White "Casalaspro, Mathias Andre"]
+[Black "Larkin, Vladyslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2506"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nd2 d6 6.Bd3 a6 7.c4 b6 8.b3 Bb7 9.Bb2 Nbd7 10.Qe2 Qc7 11.Rc1 h5 12.N2f3 Nc5 13.Ng5 Nxd3+ 14.Qxd3 Qc5 15.Ngxe6 fxe6 16.Nxe6 Qc8 17.Nxf8 Rxf8 18.Qxd6 Qc6 19.Qxc6+ Bxc6 20.f3 Rf7 21.O-O Rd8 22.Rfd1 Rfd7 23.Rxd7 Rxd7 24.Bc3 h4 25.Kf2 Nh5 26.Ke3 g5 27.Bd4 Nf4 28.g3 Ng2+ 29.Kd3 b5 30.Rg1 h3 31.a3 a5 32.b4 axb4 33.axb4 Rf7 34.Rf1 bxc4+ 35.Kxc4 Bxe4 36.f4 gxf4 37.gxf4 Rxf4 38.Rxf4 Nxf4 39.Be5 Ne2 40.b5 Kd7 41.b6 Ke6 42.Bc7 Kf5 43.b7 Bxb7 44.Kd3 Ba6+ 45.Ke3 Nc3 46.Bb8 Kg4 47.Be5 Nd5+ 48.Kf2 Kf5 49.Bb8 Ke4 50.Bd6 Nf6 51.Bb8 Ng4+ 52.Kg3 Nh6 53.Kxh3 Kf3 54.Kh4 Nf7 55.Bc7 Bd3 56.Bb8 Bf5 57.Bc7 Bg4 58.Bb8 Nd8 59.Kg5 Ne6+ 1/2-1/2

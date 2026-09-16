@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.16"]
+[White "Xie, Kaifan"]
+[Black "Ribera Veganzones, Serni"]
+[Result "1-0"]
+[WhiteElo "2441"]
+[BlackElo "2303"]
+[ECO "E16"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 c5 7.Bxb4 cxb4 8.O-O O-O 9.Qd3 d6 10.Rd1 Qc7 11.Nbd2 Nbd7 12.Ne1 Bxg2 13.Nxg2 Rfe8 14.e4 e5 15.Ne3 a5 16.Rac1 Rac8 17.f3 g6 18.Nc2 Red8 19.a3 bxa3 20.Nxa3 Nb8 21.Nb5 Qe7 22.Qe3 Nfd7 23.Nb1 Nc6 24.N1c3 Nb4 25.b3 h5 26.Kg2 h4 27.Na4 Rb8 28.Nac3 Rbc8 29.Qh6 exd4 30.Rxd4 Nc5 31.Rb1 Ne6 32.Rd2 hxg3 33.hxg3 Qf6 34.Rbd1 Rc5 35.Rh1 Rg5 36.Rh4 Nf4+ 37.Kh2 Rh5 38.Rxh5 Nxh5 39.Qe3 Qe5 40.f4 Qf6 41.Kg2 g5 42.fxg5 Qe5 43.Rf2 Rd7 44.Rf5 Qe6 45.Qxb6 Nd3 46.Nd4 Qg6 47.Qb8+ Kh7 48.Qe8 Rb7 49.Nd5 Ng7 50.Qf8 1-0

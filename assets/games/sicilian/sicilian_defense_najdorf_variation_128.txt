@@ -1,0 +1,14 @@
+[Event "Round 8: Bicer, Atakan Mert - Gkavardinas, Antonios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/TjZTI8WT"]
+[Date "2026.07.21"]
+[Round "8.24"]
+[White "Bicer, Atakan Mert"]
+[Black "Gkavardinas, Antonios"]
+[Result "0-1"]
+[WhiteElo "2364"]
+[BlackElo "2304"]
+[ECO "B98"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Nbd7 9.O-O-O h6 10.Bxf6 Bxf6 11.g4 Qc7 12.h4 Nb6 13.g5 Bxd4 14.Rxd4 Qc5 15.Qf2 hxg5 16.e5 gxf4 17.Bd3 Kf8 18.Re1 Nd7 19.Ne4 Qa5 20.Nxd6 Nxe5 21.Nc4 Nxc4 22.Bxc4 Rh5 23.Red1 g6 24.Qxf4 Qe5 25.Qd2 Kg7 26.Be2 Rf5 27.Bg4 Rf6 28.Qc3 Qh2 29.Re4 Qxh4 30.Qe5 Qf2 31.Bh3 Kg8 32.Rf1 Qxf1+ 33.Bxf1 Rxf1+ 34.Kd2 Rf5 35.Qh2 Bd7 36.Rh4 Rd5+ 37.Ke3 Re8 38.Rh8+ Kg7 39.Rh7+ Kf6 40.Qf4+ Rf5 41.Qd4+ Ke7 42.Qb4+ Kf6 43.Qxb7 Re5+ 44.Kd2 Rd8 45.Qb6 Rd5+ 46.Kc1 Be8 47.b3 a5 48.Kb2 g5 49.c4 Rd2+ 50.Ka3 a4 51.Qa5 e5 52.Rh2 R2d4 53.Re2 axb3 54.axb3 Kg6 55.Rxe5 f6 56.Re6 Bf7 57.Rb6 R8d7 58.Kb4 Rf4 59.Qa1 Rf3 60.Qb1+ Kg7 61.Kc5 Rc7+ 62.Kd6 Rc8 63.Kd7 Bg6 64.Qe1 Bf5+ 65.Ke7 Rd3 66.Rb7 Rf8 67.Qb4 Rf7+ 68.Ke8 Bd7+ 69.Rxd7 Rdxd7 70.Qc5 Rc7 0-1

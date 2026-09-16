@@ -1,0 +1,14 @@
+[Event "Round 4: Dziewonski, Dariusz - Krallis, Christos"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-4/nGd9thue/e89mTWWb"]
+[Date "2026.07.20"]
+[Round "4.12"]
+[White "Dziewonski, Dariusz"]
+[Black "Krallis, Christos"]
+[Result "1/2-1/2"]
+[WhiteElo "2278"]
+[BlackElo "2424"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nc6 8.Be2 Be7 9.O-O O-O 10.Kh1 b5 11.a4 Bb7 12.axb5 axb5 13.Rxa8 Qxa8 14.Bxb5 Na7 15.Bd3 Nxe4 16.Nxe4 Bxe4 17.Bxe4 Qxe4 18.Re1 Qf5 19.Na5 Rc8 20.c4 h6 21.Be3 Nc6 22.Nxc6 Rxc6 23.Qd5 Qc8 24.b3 Bf6 25.fxe5 Bxe5 26.Bd4 Bxd4 27.Qxd4 1/2-1/2

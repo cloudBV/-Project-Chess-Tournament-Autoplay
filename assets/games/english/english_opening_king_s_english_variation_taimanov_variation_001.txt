@@ -1,0 +1,15 @@
+[Event "Round 1: Sevian, Samuel - Adamson, Robby"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-1/edyv1CkS/4xSTcG7e"]
+[Date "2026.07.04"]
+[Round "1.7"]
+[White "Sevian, Samuel"]
+[Black "Adamson, Robby"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2302"]
+[ECO "A25"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Taimanov Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.e3 d6 6.Nge2 h5 7.h3 h4 8.g4 f5 9.gxf5 gxf5 10.d4 Nf6 11.Rg1 Rg8 12.b3 Bd7 13.Ba3 Qe7 14.dxe5 Qxe5 15.Qc2 O-O-O 16.O-O-O Qa5 17.Bb2 Bh8 18.a3 Ne5 19.Nf4 Bc6 20.Qxf5+ Kb8 21.Bxc6 bxc6 22.Qc2 Ka8 23.Ne6 Rde8 24.Rxg8 Nxg8 25.Qh7 Ne7 26.b4 Qb6 27.c5 Qb7 28.f4 Nc4 29.Qf7 Rc8 30.Qxe7 Nxb2 31.Kxb2 Kb8 32.cxd6 1-0

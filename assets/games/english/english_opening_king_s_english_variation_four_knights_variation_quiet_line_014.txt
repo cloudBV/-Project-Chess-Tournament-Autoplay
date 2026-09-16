@@ -1,0 +1,14 @@
+[Event "Round 3: Sicars, Thorsten - Budzyn, Matthias"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-3/GowbS71k/PotbAdWq"]
+[Date "2026.07.19"]
+[Round "3.14"]
+[White "Sicars, Thorsten"]
+[Black "Budzyn, Matthias"]
+[Result "1-0"]
+[WhiteElo "2020"]
+[BlackElo "2088"]
+[ECO "A28"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 O-O 6.Nd5 Re8 7.Ng5 h6 8.h4 d6 9.Nxf6+ Qxf6 10.Ne4 Qe7 11.a3 Ba5 12.Be2 f5 13.Nc3 Bxc3 14.Qxc3 e4 15.b3 Qe5 16.Bb2 Qxc3 17.Bxc3 Ne5 18.O-O Be6 19.f3 exf3 20.gxf3 Ng6 21.h5 Nf8 22.Kf2 Nh7 23.f4 Kf7 24.Bf3 c6 25.Rg1 Nf6 26.Rg6 Rh8 27.Rag1 Rag8 28.d3 Ne8 29.b4 d5 30.cxd5 cxd5 31.Bd4 b6 32.a4 Nf6 33.a5 bxa5 34.bxa5 a6 35.Ke2 Rh7 36.Be5 1-0

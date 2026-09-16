@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "13.10"]
+[White "Dobrowolski, Kamil"]
+[Black "Lehocz, Jozsef Jr."]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2100"]
+[ECO "B51"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 e5 8.d4 cxd4 9.cxd4 Bg4 10.d5 Nd4 11.Be2 Nxe2+ 12.Qxe2 Be7 13.h3 Bh5 14.Nc3 O-O 15.Be3 b5 16.b4 Rc8 17.Rec1 Rc4 18.g4 Bg6 19.Nd2 Rxb4 20.f3 Nd7 21.a3 Rb2 22.Nd1 Rxd2 23.Qxd2 Nf6 24.Qe2 Nd7 25.Qd2 1-0

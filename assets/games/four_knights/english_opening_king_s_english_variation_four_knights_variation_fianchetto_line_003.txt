@@ -1,0 +1,15 @@
+[Event "Round 9: Woodward, Andy - Sheehan, Ethan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-9/kQYoRblt/bBRNaFYu"]
+[Date "2026.07.05"]
+[Round "9.3"]
+[White "Woodward, Andy"]
+[Black "Sheehan, Ethan"]
+[Result "1/2-1/2"]
+[WhiteElo "2496"]
+[BlackElo "2416"]
+[ECO "A29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.b3 Bd6 8.Bb2 O-O 9.Nc3 Re8 10.Rc1 Bf5 11.d3 Qd7 12.Ne4 Bh3 13.Qc2 Bxg2 14.Kxg2 Rad8 15.Rfd1 f5 16.Nc5 Bxc5 17.Qxc5 Qe6 18.e4 h6 19.Qe3 Rd7 20.Rc5 fxe4 21.Qxe4 Nd5 22.Re1 Nf6 23.Qe2 Qd6 24.Rc3 Nd4 25.Qd1 Qd5 26.Rc4 Nxf3 27.Qxf3 Qxf3+ 28.Kxf3 Rxd3+ 29.Kg2 Rd2 30.Bc1 Rd7 31.Be3 a6 32.h3 c6 33.Bc1 e4 34.Re2 Rde7 35.Rd4 Nd5 36.Bb2 g5 37.Rd1 Kf7 38.Rc1 Kg6 39.Rh1 h5 40.Rd1 e3 41.f3 h4 42.Rd4 hxg3 43.Kxg3 Rh7 44.Re1 Kf5 45.Rc4 Re6 46.Bc1 b6 47.a3 c5 48.b4 cxb4 49.axb4 Nf4 50.Rxe3 Rxh3+ 51.Kf2 Rh2+ 52.Kf1 Rd6 53.Re1 Rh1+ 54.Kf2 Rxe1 55.Kxe1 Nd3+ 56.Ke2 Nxc1+ 57.Rxc1 Rd4 58.b5 axb5 59.Rc6 Rb4 60.Rxb6 Rb3 61.Kf2 b4 62.Ke2 Rb2+ 63.Ke3 Rb3+ 64.Ke2 Rb1 65.Ke3 b3 66.Rb5+ Kg6 67.Kf2 Kf6 68.Kg2 Ke6 69.Rxg5 Kd6 70.Rb5 Kc6 71.Rb8 Kc5 72.f4 Kc4 73.Kf3 Rf1+ 74.Ke4 Kc3 75.Rc8+ Kd2 76.Rd8+ Kc2 77.Rc8+ Kb1 78.f5 b2 79.Rb8 Kc2 80.Ke5 b1=Q 81.Rxb1 Kxb1 82.f6 Rxf6 83.Kxf6 1/2-1/2

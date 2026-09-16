@@ -1,0 +1,14 @@
+[Event "Round 2.2: Kazarian, Anna-Maja - Keetman, Maaike"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-22/RomUl7IN/xPfsQh1j"]
+[Date "2026.07.06"]
+[Round "6.3"]
+[White "Kazarian, Anna-Maja"]
+[Black "Keetman, Maaike"]
+[Result "1/2-1/2"]
+[WhiteElo "2310"]
+[BlackElo "2155"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.Bg5 a6 8.Bxc6 bxc6 9.Qd3 Qa5 10.f4 c5 11.Nb3 Qc7 12.Bxf6 gxf6 13.Nd5 Qd8 14.O-O e6 15.Ne3 Bb5 16.c4 Bc6 17.Rae1 Be7 18.f5 Rg8 19.Rf4 Qc7 20.fxe6 fxe6 21.Nd5 Qd8 22.Qh3 exd5 23.exd5 Ba4 24.Qxh7 Kd7 25.Na5 Re8 26.Nb7 Qc7 27.Rfe4 Kc8 28.Rxe7 Rxe7 29.Rxe7 Bd7 30.Na5 Qxa5 31.Qh8+ Qd8 32.Qxf6 Bg4 33.Qf7 Bd7 34.Qf6 Bg4 35.Qf7 Bd7 36.Qf6 1/2-1/2

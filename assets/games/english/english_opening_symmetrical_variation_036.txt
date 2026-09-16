@@ -1,0 +1,15 @@
+[Event "Round 8: Kazik, Oguz Kagan - Herdem, Talha"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/FMmuvDn1"]
+[Date "2026.07.18"]
+[Round "8.30"]
+[White "Kazik, Oguz Kagan"]
+[Black "Herdem, Talha"]
+[Result "1-0"]
+[WhiteElo "2177"]
+[BlackElo "2067"]
+[ECO "A30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 b6 3.Nc3 Bb7 4.e4 e6 5.a3 d6 6.d4 cxd4 7.Nxd4 Nf6 8.f3 Be7 9.Be2 a6 10.Be3 Nbd7 11.O-O O-O 12.Qd2 Rc8 13.Rac1 Qc7 14.Rfd1 Qb8 15.b4 Rfe8 16.Bf1 h5 17.Qf2 h4 18.Nb3 Ba8 19.Na4 Bd8 20.Bf4 Bc7 21.Qxh4 b5 22.Nb2 bxc4 23.Nxc4 e5 24.Bg5 d5 25.exd5 Bxd5 26.Nc5 Qa8 27.Ne3 Bb6 28.Kh1 Bc6 29.Bxf6 Nxf6 30.Nf5 Bxf3 31.Qg5 g6 32.Qxf6 gxf5 33.gxf3 Bxc5 34.bxc5 Qxf3+ 35.Bg2 Qh5 36.Rg1 Kf8 37.Bd5 Rcd8 38.Qg7+ Ke7 39.Qxe5+ Kf8 40.Qg7+ Ke7 41.Bc6 Rd2 42.Qe5+ Kd8 43.Qxe8+ Kc7 44.Bg2 1-0

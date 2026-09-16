@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.5"]
+[White "Vykouk, Jan"]
+[Black "Iwan, Patryk"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2195"]
+[ECO "B90"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Be6 10.Bxe6 fxe6 11.Na4 Ng4 12.Qe2 Nxe3 13.Qxe3 b5 14.Nb6 Rxf3 15.gxf3 Bg5 16.f4 Bxf4 17.Qh3 Ra7 18.Qxe6+ Rf7 19.Qc8 Qxc8 20.Nxc8 Rc7 21.Nxd6 Rxc2 22.Rfd1 Nc6 23.Nf5 g6 24.Ne3 Rxb2 25.Rd7 Nd4 26.h3 Bxe3 27.fxe3 Nf3+ 28.Kf1 Rh2 29.Rad1 Rxa2 30.R1d6 Rc2 31.Rxa6 Rc8 32.Raa7 Ng5 33.Rg7+ Kh8 34.h4 Ne6 35.Rxh7+ Kg8 36.Rhe7 Rc6 37.Re8+ Nf8 38.Rxe5 Rc1+ 39.Ke2 Rh1 40.Re8 1-0

@@ -1,0 +1,15 @@
+[Event "Round 3: Petkov, Vladimir - Yao, Lan"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-3/87LiEk1V/z3V5b6H3"]
+[Date "2026.07.14"]
+[Round "3.2"]
+[White "Petkov, Vladimir"]
+[Black "Yao, Lan"]
+[Result "1/2-1/2"]
+[WhiteElo "2414"]
+[BlackElo "2308"]
+[ECO "E21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 c5 6.Rc1 cxd4 7.Nxd4 Nc6 8.a3 Be7 9.e3 b6 10.Nxc6 dxc6 11.Qxd8 Rxd8 12.Be2 Bb7 13.Bf3 h6 14.Bf4 Nd7 15.Bc7 Rdc8 16.Bg3 Nc5 17.O-O Nb3 18.Rcd1 Ba6 19.Rd7 Kf8 20.Ne4 Bxc4 21.Nd6 Bxd6 22.Bxd6+ Kg8 23.Rd1 Bb5 24.Be7 Na5 25.Bb4 Ba4 26.R1d3 Bb5 27.Rd1 Ba4 28.R1d3 Bb5 1/2-1/2

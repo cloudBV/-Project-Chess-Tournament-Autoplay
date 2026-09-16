@@ -1,0 +1,15 @@
+[Event "Round 5: Rucek, Kristian - Polak, Tomas"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/NgA4f0Ye"]
+[Date "2026.07.18"]
+[Round "5.14"]
+[White "Rucek, Kristian"]
+[Black "Polak, Tomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2159"]
+[BlackElo "2443"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 g6 5.Nf3 Bg7 6.Nbd2 cxd4 7.Bc4 Qd8 8.Nxd4 Nf6 9.O-O O-O 10.N2f3 Bf5 1/2-1/2

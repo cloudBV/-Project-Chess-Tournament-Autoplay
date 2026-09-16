@@ -1,0 +1,15 @@
+[Event "Round 1: Soham Kamotra - Afanasiev, Nikita"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/jugi8nRk"]
+[Date "2026.07.21"]
+[Round "1.11"]
+[White "Soham Kamotra"]
+[Black "Afanasiev, Nikita"]
+[Result "1/2-1/2"]
+[WhiteElo "2412"]
+[BlackElo "2549"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 e6 4.c4 c6 5.O-O Nd7 6.d3 Bd6 7.cxd5 cxd5 8.Nc3 Ngf6 9.h3 Bxf3 10.Bxf3 O-O 11.d4 Bb4 12.Qb3 Qa5 13.Bd2 Nb6 14.Rfc1 Rfc8 15.Rc2 Rc6 16.Rac1 Rac8 17.a3 Bxc3 18.Rxc3 Rxc3 19.Rxc3 Rxc3 20.Bxc3 Qa4 21.Qb4 Qd7 22.Qa5 Nc8 23.Bb4 b6 24.Qa6 Ne4 25.Bxe4 dxe4 26.a4 f5 27.e3 Kf7 28.b3 Ke8 29.h4 Qc6 30.Kg2 Kd7 31.Ba3 h5 32.Bf8 g6 33.Ba3 Qd5 34.Qc4 a5 35.Kf1 Na7 36.Ke2 Nc6 37.Kd2 Kc7 38.Kc3 Kb7 39.Qb5 Qxb5 40.axb5 Na7 41.Kc4 Kc7 42.d5 Kd7 43.Bb2 exd5+ 44.Kxd5 Nxb5 45.Ke5 Ke7 46.Kd5 Kd7 47.Ke5 Ke7 1/2-1/2

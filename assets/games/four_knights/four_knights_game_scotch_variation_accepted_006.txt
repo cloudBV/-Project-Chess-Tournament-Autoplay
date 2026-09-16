@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.6"]
+[White "Craciun, Sasha-Matei"]
+[Black "Lyakh, Vasiliy"]
+[Result "0-1"]
+[WhiteElo "2256"]
+[BlackElo "2328"]
+[ECO "C47"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5 9.O-O O-O 10.h3 h6 11.Qf3 c6 12.Ne2 Re8 13.Nd4 Bd7 14.c3 Bf8 15.Bf4 c5 16.Nf5 Ne4 17.Ng3 Bc6 18.Rfe1 Qf6 19.Qg4 Rad8 20.Nxe4 dxe4 21.Bc4 Bd6 22.Bxd6 Rxd6 23.Rad1 Red8 24.Rxd6 Rxd6 25.Rd1 Rxd1+ 26.Qxd1 Qe7 27.Qd2 Qf6 28.a3 Kh7 29.b4 cxb4 30.axb4 Qg6 31.Bd5 Bxd5 32.Qxd5 f5 33.Qe5 Qg5 34.Kh2 Kg6 35.g3 Qf6 36.Qe8+ Kh7 37.Qc6 Qxc6 0-1

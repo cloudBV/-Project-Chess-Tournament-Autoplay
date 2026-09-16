@@ -1,0 +1,14 @@
+[Event "Round 1.2: De Boer, Eelke - Tiviakov, Sergei"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-12/Zl2XONUQ/K5JwMzPW"]
+[Date "2026.06.09"]
+[Round "2.7"]
+[White "De Boer, Eelke"]
+[Black "Tiviakov, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2406"]
+[BlackElo "2530"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6 8.Nc3 a6 9.a4 Bb4 10.Bd2 Bxf3 11.Qxf3 c6 12.Rfe1 Qa5 13.h3 O-O 14.g4 Rae8 15.Re2 e5 16.g5 e4 17.Bxe4 Bxc3 18.bxc3 Nxe4 19.Rxe4 Qd5 20.Rae1 f5 21.gxf6 Nxf6 22.Rf4 Rxe1+ 23.Bxe1 Re8 24.Bd2 Qxf3 25.Rxf3 Re2 26.Bg5 Rxc2 27.Bxf6 gxf6 28.Rxf6 Rxc3 29.Rd6 Rxh3 30.Rd8+ Kf7 31.Rd7+ Ke6 32.Rxb7 Ra3 33.Rb6 Rxa4 34.Rxc6+ Kd5 35.Rh6 Rxd4 36.Rxa6 Ke5 1/2-1/2

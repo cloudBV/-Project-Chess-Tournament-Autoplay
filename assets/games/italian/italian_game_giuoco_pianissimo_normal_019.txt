@@ -1,0 +1,14 @@
+[Event "Round 3: Demchenko, Anton - Todorovic, Goran M"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/gpGhTbKB"]
+[Date "2026.07.15"]
+[Round "3.16"]
+[White "Demchenko, Anton"]
+[Black "Todorovic, Goran M"]
+[Result "1/2-1/2"]
+[WhiteElo "2588"]
+[BlackElo "2241"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Bg5 h6 6.Bh4 Be7 7.Bg3 d6 8.a4 O-O 9.h3 Kh8 10.Nc3 Nh7 11.Nd5 f5 12.exf5 Bxf5 13.O-O Qd7 14.c3 Bg5 15.Nxg5 Nxg5 16.f4 exf4 17.Bxf4 Nxh3+ 18.gxh3 Bxh3 19.Rf2 Ne5 20.Bxe5 Rxf2 21.Kxf2 dxe5 22.Qf3 Bg4 23.Qg3 Rf8+ 24.Kg1 Rf5 25.Ne3 Rg5 26.Kf2 Bh5 27.Qh2 Qc6 28.Ke1 Qf3 29.Qf2 Rg1+ 30.Nf1 Rxf1+ 31.Kxf1 Qh1+ 32.Qg1 Qf3+ 33.Qf2 Qh1+ 34.Qg1 Qf3+ 35.Qf2 1/2-1/2

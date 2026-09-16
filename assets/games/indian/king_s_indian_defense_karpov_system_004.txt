@@ -1,0 +1,15 @@
+[Event "Round 2: Skatchkov, Valery - Mitrabha, Guha"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-2/XMymqsde/q3b8bKJN"]
+[Date "2026.07.04"]
+[Round "2.1"]
+[White "Skatchkov, Valery"]
+[Black "Mitrabha, Guha"]
+[Result "0-1"]
+[WhiteElo "2228"]
+[BlackElo "2525"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c5 7.d5 e6 8.Nf3 exd5 9.cxd5 Re8 10.Nd2 Na6 11.Bd3 Nc7 12.a4 Rb8 13.O-O a6 14.a5 Bd7 15.Re1 Bb5 16.Bc2 Nd7 17.f4 b6 18.Nb3 Qc8 19.Qd2 Bc4 20.axb6 Nxb6 21.Na5 Bb5 22.b3 Bd7 23.Rad1 Nb5 24.Ne2 c4 25.bxc4 Na3 26.Bxb6 Rxb6 27.Nc6 Bxc6 28.dxc6 Nxc4 29.Qd3 Nb2 30.Qe3 Rxc6 0-1

@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-8/QCHTNJXG/0J1HtShb"]
+[Date "2026.07.16"]
+[Round "8.7"]
+[White "Kudela, Oliver"]
+[Black "Benci, Jozef"]
+[Result "0-1"]
+[WhiteElo "2021"]
+[BlackElo "2169"]
+[ECO "A43"]
+[Variant "Standard"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 e6 4.Nc3 b5 5.dxe6 fxe6 6.Nxb5 d5 7.e4 Nxe4 8.Bd3 a6 9.Ne5 Nf6 10.Nc3 Bd6 11.f4 Qc7 12.O-O O-O 13.g4 Bb7 14.g5 c4 15.Be2 Bc5+ 16.Kg2 d4+ 17.Nf3 dxc3 18.gxf6 Rxf6 19.Bxc4 Rg6+ 20.Kh1 Qc6 21.h4 Nd7 22.f5 Rf6 23.Bxe6+ Rxe6 24.fxe6 Qxe6 25.Bf4 Qh3+ 26.Bh2 Ne5 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.2"]
+[White "Dubnevych, Maksym"]
+[Black "Mulawa, Cyprian"]
+[Result "1/2-1/2"]
+[WhiteElo "2446"]
+[BlackElo "2245"]
+[ECO "C12"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: McCutcheon Variation, Lasker Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Bc1 c5 9.Bd3 Nxc3 10.Qg4 Kf8 11.dxc5 Nc6 12.Nf3 f5 13.Qh5 Bd7 14.O-O Kg8 15.Be3 Qf8 16.Rfe1 Qf7 17.Qxf7+ Kxf7 18.h4 Rhc8 19.a4 Rc7 20.Ra3 Ne4 21.Bxe4 fxe4 22.Nd2 Nxe5 23.f3 Nc6 24.fxe4 d4 25.Bf2 e5 26.Nc4 Be6 27.Nd6+ Ke7 28.c3 Rd8 29.h5 Rf8 30.Bh4+ Kd7 31.Nb5 Rcc8 32.Nd6 Rb8 33.Bg3 b6 34.cxd4 exd4 35.cxb6 Rxb6 36.Nb5 Bc4 37.Nd6 Bb3 38.a5 Rb4 39.Nf5 d3 40.Re3 Bc2 41.Raxd3+ Bxd3 42.Rxd3+ Kc8 43.Rc3 Kd7 44.Rd3+ Kc8 45.Kh2 Rf6 46.Nd6+ Kd7 47.e5 Rf1 48.Nf5+ Kc8 49.Nxg7 Rg4 50.Ne6 Rf5 51.Rc3 Rxh5+ 52.Kg1 Kd7 53.Nc5+ Ke7 54.a6 Nd4 55.Kf2 Rf5+ 56.Ke1 Rxg3 57.Rxg3 Rxe5+ 58.Kf1 Rxc5 59.Rg7+ Kf6 60.Rxa7 Ra5 61.Rd7 Nf5 62.a7 Ra2 63.Ke1 Ne7 64.Rd6+ Kg5 65.Rd7 Nc8 66.Rh7 Rxa7 67.Rh8 Nd6 68.Rg8+ Kf4 69.Kf2 Ra2+ 70.Kg1 Nf5 71.Kh2 h5 72.Kh3 Ra3+ 73.Kh2 h4 74.Rb8 Ra1 75.Rb4+ Kg5 76.Rb5 Rf1 77.Ra5 Kg4 78.Ra4+ Rf4 79.Ra8 Nh6 80.Ra5 Rd4 81.Ra6 Nf7 82.Rg6+ Ng5 83.Rg8 Rd2 84.Kg1 Kf4 85.Kh1 Ne4 86.Kh2 Nf6 87.Ra8 Rd3 88.Ra4+ Kg5 89.Ra5+ Nd5 90.Ra8 Ne3 91.Rg8+ Kf4 92.Rf8+ Nf5 93.Ra8 Rd4 94.Kh3 Rd1 95.Kh2 Ng3 96.Ra4+ Kg5 97.Rg4+ Kf5 98.Rxh4 Nf1+ 99.Kg1 Ne3+ 100.Kf2 Ng4+ 101.Ke2 Ra1 102.Rh8 Ke4 103.Re8+ Ne5 104.Kf2 Ra3 105.Rg8 Nd3+ 106.Kg3 Nf4+ 107.Kh2 Ra2 108.Rg3 Nd3 109.Rg8 Ne5 110.Re8 Kf4 111.Rf8+ Kg5 112.Rg8+ Kf5 113.Rf8+ Kg6 114.Rg8+ Kf6 115.Rg3 Ra4 116.Kh3 Kf5 117.Rg8 Ra3+ 118.Rg3 Ra1 119.Rg8 Ng6 120.Kh2 Ra3 121.Rb8 Rd3 122.Ra8 Kg4 123.Rg8 Rd6 124.Rg7 Kg5 125.Rg8 Kf5 126.Ra8 Ne5 127.Rf8+ Ke4 128.Rg8 Ke3 129.Kg3 Re6 130.Rg5 Nc6 131.Kh2 Nd4 132.Rg3+ Kf2 133.Rd3 Rh6+ 134.Rh3 Rg6 135.Kh1 Ne2 136.Rf3+ Ke1 137.Kh2 Kd2 138.Kh1 Nd4 139.Rf8 Ke3 140.Re8+ Kf2 141.Rf8+ Ke1 142.Kh2 Ne2 143.Rf3 Kd2 144.Kh1 Ng3+ 145.Kh2 Ne4 146.Kg1 Ke2 147.Kh2 Nf2 148.Rf8 Kf1 149.g4 Rxg4 150.Rg8 Rf4 151.Kg3 Rf7 152.Re8 Nh1+ 153.Kg4 Kf2 154.Kg5 Ng3 155.Kg6 Ra7 156.Rb8 Kf3 157.Rb6 Kf4 158.Rf6+ Kg4 159.Rb6 Ne2 160.Kf6 Nf4 161.Ke5 Ra5+ 162.Ke4 Ra4+ 163.Ke5 Nd3+ 164.Kd5 Kf5 165.Rb8 Ra5+ 166.Kd4 Ne5 167.Rf8+ Ke6 168.Re8+ Kd6 169.Rd8+ Kc7 170.Rh8 Nc6+ 171.Kc4 Kb6 172.Rh6 Rg5 173.Rh4 Ne5+ 174.Kb4 Kc6 175.Rh8 Rg4+ 176.Kc3 Kc5 177.Rc8+ Nc6 178.Kd3 Kd5 179.Kd2 Re4 180.Kd3 Ne5+ 181.Kc3 Re3+ 182.Kd2 Kd4 183.Rd8+ Ke4 184.Kc2 Rh3 185.Ra8 Kd4 186.Rd8+ Ke4 187.Ra8 Nc4 188.Re8+ Kd4 189.Rd8+ Kc5 190.Rc8+ Kd5 191.Rd8+ Nd6 192.Kd2 Kc5 193.Ke2 Ra3 194.Rh8 Kd5 195.Rd8 Ke5 196.Rh8 Nf5 197.Re8+ Kf4 198.Kd2 Nd6 199.Re7 Ne4+ 200.Kc2 Ke3 201.Re8 Rc3+ 202.Kb2 Rc7 203.Rh8 Nf2 204.Re8+ Kd2 205.Kb3 Nd3 206.Rh8 Rc3+ 207.Ka4 Rc4+ 208.Kb5 Kc3 209.Rh3 Rc8 210.Kb6 Kc4 211.Rh4+ Kd5 212.Rh5+ Ne5 213.Rh1 Nc4+ 214.Kb7 Nd6+ 215.Kb6 Rb8+ 216.Ka6 Kc5 217.Rh5+ Kc6 218.Ka5 Ne4 219.Ka4 Nc3+ 220.Ka3 Nd5 221.Rh1 Kc5 222.Rh4 Ne3 223.Rh5+ Kc4 224.Rh4+ Kc3 225.Ka4 1/2-1/2

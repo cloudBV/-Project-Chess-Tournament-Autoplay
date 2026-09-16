@@ -1,0 +1,14 @@
+[Event "Round 8: Arsenie, Cristian Marc - Cervelli, Eduard"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/byQ3ahHS"]
+[Date "2026.07.21"]
+[Round "8.16"]
+[White "Arsenie, Cristian Marc"]
+[Black "Cervelli, Eduard"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2197"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.Be2 Be6 9.O-O O-O 10.Re1 Nbd7 11.a4 Rc8 12.a5 Rxc3 13.bxc3 Nxe4 14.Qd3 f5 15.c4 Qc7 16.Red1 Rc8 17.Nd2 Ndc5 18.Qa3 Nxd2 19.Bxd2 Ne4 20.Bb4 Bxc4 21.Bd3 Bxd3 22.cxd3 Nc5 23.Bxc5 dxc5 24.Qb3+ Kf8 25.Rab1 Rd8 26.Kf1 Rd4 27.Qe6 Qd7 28.Qxe5 Rxd3 29.Re1 Bd6 30.Qe2 Be7 31.Rxb7 Qxb7 32.Qxd3 g6 33.Rb1 Qc7 34.Qxa6 Bd8 35.Rb7 Qe5 36.Qc4 Be7 37.a6 g5 38.a7 Qa1+ 39.Ke2 Qe5+ 40.Kd1 Qd6+ 41.Kc2 1-0

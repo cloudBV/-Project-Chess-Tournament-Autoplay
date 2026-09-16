@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "11.11"]
+[White "Ugorek, Kacper"]
+[Black "Geletka, Tomas"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2018"]
+[ECO "E92"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Nf3 O-O 6.Be2 e5 7.Be3 Nc6 8.d5 Ne7 9.Nd2 Ne8 10.b4 a5 11.a3 f5 12.f3 Nf6 13.c5 f4 14.Bf2 g5 15.Nc4 axb4 16.axb4 Rxa1 17.Qxa1 g4 18.cxd6 cxd6 19.Nb5 gxf3 20.gxf3 Ne8 21.Rg1 Rf6 22.Qa5 Qxa5 23.bxa5 Kh8 24.Bh4 Rg6 25.Rxg6 Nxg6 26.Bf2 Bf8 27.Nb6 Bh3 28.Bf1 Bxf1 29.Kxf1 Be7 30.Be1 Nh4 31.Bxh4 Bxh4 32.Nc8 Bd8 33.Ncxd6 Nxd6 34.Nxd6 Bxa5 35.Nxb7 Bb6 36.d6 Kg7 37.d7 Kg6 38.d8=Q Bxd8 39.Nxd8 Kf6 40.Kg2 h5 41.Kh3 Kg5 42.Nc6 1-0

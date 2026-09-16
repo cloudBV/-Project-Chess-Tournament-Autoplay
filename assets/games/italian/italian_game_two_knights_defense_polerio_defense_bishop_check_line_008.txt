@@ -1,0 +1,14 @@
+[Event "Round 5: Segura Marsa, Andres - Ramirez Maillo, Cristian"]
+[Site "https://lichess.org/broadcast/campeonato-de-canarias-absoluto-y-femenino-2026/round-5/2XOL04Hj/4M3JIJP2"]
+[Date "2026.07.18"]
+[Round "5.2"]
+[White "Segura Marsa, Andres"]
+[Black "Ramirez Maillo, Cristian"]
+[Result "1-0"]
+[WhiteElo "2054"]
+[BlackElo "2074"]
+[ECO "C58"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ Bd7 7.Qe2 Bd6 8.Nc3 c6 9.dxc6 Nxc6 10.Nge4 Nxe4 11.Nxe4 Bc7 12.Nc5 O-O 13.Nxd7 Qxd7 14.Qe4 f5 15.Bxc6 bxc6 16.Qc4+ Kh8 17.b3 Rad8 18.Qc3 Bb6 19.Rb1 e4 20.Ba3 Rf6 21.O-O Bd4 22.Qc4 Rg6 23.Bc5 Bxc5 24.Qxc5 f4 25.Kh1 Qg4 26.g3 f3 27.Qe7 Rb8 28.Qh4 Qe6 29.Rbe1 Rg4 30.Qh3 Re8 31.Re3 Qg6 32.Rfe1 h6 33.d3 Kh7 34.Qf1 Kh8 35.h3 Rg5 36.Rxe4 Rxe4 37.Rxe4 Rc5 38.c4 Rf5 39.Qe1 Qh5 40.Re8+ Kh7 41.Kh2 Qg6 42.Qe4 Qf6 43.g4 Qd6+ 44.Kg1 1-0

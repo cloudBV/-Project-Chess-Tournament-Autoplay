@@ -1,0 +1,15 @@
+[Event "Round 9: Babazada, Khazar - Manafov, Vugar"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-9/jMWFhwss/Ei3NoY9Y"]
+[Date "2026.07.21"]
+[Round "9.2"]
+[White "Babazada, Khazar"]
+[Black "Manafov, Vugar"]
+[Result "1/2-1/2"]
+[WhiteElo "2499"]
+[BlackElo "2448"]
+[ECO "B45"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Ne3 11.Qd3 Bb4+ 12.Bd2 Ba6 1/2-1/2

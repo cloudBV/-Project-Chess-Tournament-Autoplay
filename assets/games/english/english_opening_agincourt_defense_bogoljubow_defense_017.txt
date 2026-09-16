@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-2/VSYgJsUo/XpvRPR5t"]
+[Date "2026.07.21"]
+[Round "2.10"]
+[White "Jogstad, Martin"]
+[Black "Aditya Kunal Patil"]
+[Result "1/2-1/2"]
+[WhiteElo "2349"]
+[BlackElo "2105"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Bd6 5.O-O O-O 6.b3 dxc4 7.bxc4 e5 8.Nc3 Re8 9.d3 Nbd7 10.Nd2 Nc5 11.Nb3 c6 12.Rb1 Qe7 13.Be3 Ne6 14.h3 h5 15.d4 exd4 16.Nxd4 Be5 17.Nf5 Qa3 18.Qb3 Qa5 19.Nd1 g6 20.Nh4 Nd4 21.Bxd4 Bxd4 22.e3 Bb6 23.Nc3 Be6 24.Rfc1 Rad8 25.Na4 Nd7 26.Qb4 Qxb4 27.Rxb4 Ne5 28.Rbb1 Nxc4 29.Nxb6 Nxb6 30.a4 Re7 31.a5 Nc4 32.a6 bxa6 33.Bxc6 Nd2 34.Rb7 Rxb7 35.Bxb7 a5 36.Kg2 Nb3 37.Rc7 a4 38.Bc6 Bd5+ 39.e4 Bxc6 40.Rxc6 a5 41.Nf3 Rd3 42.Ne5 Rd1 43.Nc4 Rc1 44.Nxa5 a3 45.Ra6 Nc5 46.Ra8+ Kg7 47.Nc6 Nxe4 48.Nd4 Rc4 49.Nb5 Rc2 50.Rxa3 Rxf2+ 51.Kg1 Rd2 52.Re3 Nf2 53.h4 Ng4 54.Rf3 f5 55.Nc3 Kf7 56.Ne4 Rc2 57.Ng5+ Kf6 58.Ra3 Ke5 59.Ra5+ Kd4 60.Nf3+ Ke4 61.Ng5+ Ke3 62.Ra3+ Ke2 63.Ra1 Rd2 64.Kg2 Ke3+ 65.Kg1 Nf6 66.Ra3+ Ke2 67.Nh3 Nd5 68.Ra6 Ne3 69.Rxg6 Rd1+ 70.Kh2 Nf1+ 1/2-1/2

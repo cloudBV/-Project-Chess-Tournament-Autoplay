@@ -1,0 +1,14 @@
+[Event "Round 3: Cabiativa, Juan Esteban - Gonzalez Velasco, Leandro"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-3/A0Ql119B/lINSoaEE"]
+[Date "2026.07.11"]
+[Round "3.4"]
+[White "Cabiativa, Juan Esteban"]
+[Black "Gonzalez Velasco, Leandro"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2075"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nc6 5.Nf3 Bf5 6.Be3 Bxb1 7.Rxb1 cxd4 8.Nxd4 e6 9.Qa4 Nf6 10.Rd1 Rd8 11.Be2 Qa5 12.Nxc6 Rxd1+ 13.Bxd1 Qxa4 14.Bxa4 bxc6 15.Bxc6+ Kd8 16.Bxa7 Kc7 17.Bf3 Bd6 18.Ke2 e5 19.Kd3 e4+ 20.Bxe4 Nxe4 21.Kxe4 Ra8 22.Bd4 Rxa2 23.c4 f6 24.c5 Be7 25.Kd5 Ra4 26.Re1 Kd7 27.c6+ Ke8 28.Bc5 1-0

@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.19"]
+[Round "6"]
+[White "Hadzovic, Amir"]
+[Black "Kekic, Armin"]
+[Result "1/2-1/2"]
+[WhiteElo "2374"]
+[BlackElo "2173"]
+[ECO "B10"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bd6 5.g3 Nf6 6.Bg2 O-O 7.O-O Re8 8.b3 Nbd7 9.Re1 dxe4 10.dxe4 Bc5 11.h3 Qc7 12.Bb2 a5 13.a4 Nf8 14.Nh4 Ne6 15.Nf5 Rd8 16.Qc1 Nd4 17.Nc4 h6 18.Nce3 Be6 19.g4 Rd7 20.Bc3 Bb4 21.Qb2 Rad8 22.Kh1 Qb6 1/2-1/2

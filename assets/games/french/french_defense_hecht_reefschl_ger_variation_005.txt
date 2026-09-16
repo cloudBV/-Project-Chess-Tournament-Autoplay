@@ -1,0 +1,14 @@
+[Event "Round 5: Amonatov, Farrukh - Kelecevic, Nedeljko"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/PznYXVGh"]
+[Date "2026.07.19"]
+[Round "5.7"]
+[White "Amonatov, Farrukh"]
+[Black "Kelecevic, Nedeljko"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2150"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.e5 Ne4 6.Bb5 Bd7 7.O-O Nxc3 8.bxc3 Nxe5 9.Nxe5 Bxb5 10.Re1 Be7 11.Qg4 O-O 12.Bh6 Bf6 13.Re3 Bxe5 14.dxe5 g6 15.Bg5 f5 16.exf6 Qd7 17.Rae1 Rae8 18.Qf4 e5 19.Rxe5 Rxe5 20.Rxe5 Re8 21.Re7 Rxe7 22.fxe7 Qe8 23.Qxc7 Bc6 24.h4 Kg7 25.Qe5+ Kg8 26.Qe6+ Qf7 27.Qe5 Qe8 28.f3 a6 29.Be3 Kf7 30.Bc5 b6 31.Bd6 Qd7 32.h5 Qe6 33.Qf4+ Qf5 34.hxg6+ hxg6 35.Qxf5+ gxf5 36.Kf2 Ke6 37.Ba3 f4 38.Bc1 Kf5 39.Kg1 Be8 40.Kh2 Bf7 41.a3 b5 42.Kh3 a5 43.Bd2 Ke6 44.Bxf4 Kxe7 45.Bc7 a4 46.Kg4 Bg6 47.f4 Ke6 48.Kg5 Bxc2 49.g4 b4 50.cxb4 d4 51.f5+ Kf7 52.Bf4 Bd1 53.b5 Ke8 1-0

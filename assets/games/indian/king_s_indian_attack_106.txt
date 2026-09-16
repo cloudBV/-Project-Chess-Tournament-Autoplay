@@ -1,0 +1,14 @@
+[Event "Round 3: Khotenashvili, Bella - Celik, Ali Alper"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/P4uII1HV"]
+[Date "2026.07.19"]
+[Round "3.8"]
+[White "Khotenashvili, Bella"]
+[Black "Celik, Ali Alper"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2250"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.h3 Bxf3 5.Bxf3 e5 6.d4 Nd7 7.c4 dxc4 8.O-O Ngf6 9.Nd2 exd4 10.Nxc4 Nc5 11.e4 Ne6 12.Bg2 Bc5 13.Kh2 h5 14.b4 Bxb4 15.Rb1 Be7 16.Rxb7 O-O 17.e5 Nd5 18.Qxh5 Qc8 19.Na5 g6 20.Qf3 Bd8 21.Nxc6 Qxb7 22.Qxd5 Kg7 23.f4 Bc7 24.f5 gxf5 25.Rxf5 Qb2 1-0

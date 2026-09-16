@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.18"]
+[White "Levine, Owen"]
+[Black "Baron, Tal"]
+[Result "1-0"]
+[WhiteElo "2061"]
+[BlackElo "2410"]
+[ECO "C18"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 cxd4 8.Qxg7 Rg8 9.Qxh7 Qc7 10.Ne2 dxc3 11.f4 Nbc6 12.Qd3 d4 13.Nxd4 Nxd4 14.Qxd4 Bd7 15.Rg1 Nf5 16.Qf2 Qc6 17.Bd3 Qd5 18.Rb1 Bc6 19.Rb3 O-O-O 20.Rxc3 Kb8 21.g4 Nd4 22.Rg3 Qh1+ 23.Bf1 Rxg4 24.Rxg4 Qe4+ 25.Qe3 Nxc2+ 26.Rxc2 Qxc2 27.Be2 b6 28.Rg1 Bb7 29.Bd2 a5 30.Qc3 Qe4 31.Kf2 Qh7 32.h3 Qh4+ 33.Rg3 Rg8 34.Qe3 Rd8 35.Bc3 Rc8 36.Bd4 Rc2 37.Bxb6 Ba6 38.Ba7+ Kc8 39.Kg1 Bxe2 40.Rg8+ Kd7 41.Qd4+ Kc6 42.Rc8+ Kb5 43.a4+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 8: Yudasin, Leonid - Plotkin, Mark"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-8/Bmj8FixY/QdgV6LBj"]
+[Date "2026.07.19"]
+[Round "8.11"]
+[White "Yudasin, Leonid"]
+[Black "Plotkin, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2358"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Bb5+ Nc6 6.Nf3 Bd6 7.dxc5 Bxc5 8.O-O Ne7 9.Nbd2 O-O 10.Nb3 Bb6 11.Bd3 h6 12.h3 Ng6 13.Re1 Qf6 14.Be3 Bc7 15.Bf1 Rd8 16.Nbd4 a6 17.g3 Bd7 18.Rc1 Re8 19.Bg2 Rad8 20.Nxc6 bxc6 21.Qd4 Ne5 22.Nxe5 Bxe5 23.Qd2 Qg6 24.b4 Bf5 25.Bb6 Rc8 26.g4 Bd7 27.c4 h5 28.g5 Bb8 29.Bc5 Be6 30.cxd5 Bxd5 31.Bxd5 cxd5 32.Qd3 1/2-1/2

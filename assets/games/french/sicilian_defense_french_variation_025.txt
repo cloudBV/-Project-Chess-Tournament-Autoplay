@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "3.3"]
+[White "Rey Martinez, Jaime"]
+[Black "Hychkevych, Vitaliy"]
+[Result "1-0"]
+[WhiteElo "2343"]
+[BlackElo "2239"]
+[ECO "B40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 Nc6 4.O-O Nf6 5.Nc3 a6 6.h3 d6 7.b3 Be7 8.d4 cxd4 9.Nxd4 O-O 10.Nxc6 bxc6 11.Bb2 Qc7 12.Bd3 e5 13.Qe2 g6 14.Rae1 Nh5 15.Bc1 Be6 16.Bc4 Qd7 17.Rd1 Rfd8 18.Na4 Bxc4 19.Qxc4 d5 20.Qc3 Qe6 21.Rfe1 dxe4 22.Rxd8+ Rxd8 23.Rxe4 Nf6 24.Re1 Qf5 25.Qe3 Rd5 26.Bb2 Bd6 27.Nb6 Bc5 28.Nxd5 Bxe3 29.Ne7+ 1-0

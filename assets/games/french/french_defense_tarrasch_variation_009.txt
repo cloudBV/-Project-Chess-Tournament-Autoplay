@@ -1,0 +1,15 @@
+[Event "Round 4: Alonso Moyano, Jonathan - Aloma Vidal, Robert"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-4/wj6ogr7g/Fly7mTDE"]
+[Date "2026.07.12"]
+[Round "4.3"]
+[White "Alonso Moyano, Jonathan"]
+[Black "Aloma Vidal, Robert"]
+[Result "0-1"]
+[WhiteElo "2202"]
+[BlackElo "2415"]
+[ECO "C03"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 h6 4.Ngf3 Nf6 5.e5 Nfd7 6.c3 c5 7.Bd3 Nc6 8.O-O g5 9.dxc5 Ndxe5 10.Nxe5 Nxe5 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.b4 Bg7 14.Qc2 O-O 15.f4 Ng6 16.f5 exf5 17.Rxf5 d4 18.Nb3 d3 19.Qf2 Bxc3 20.Rb1 Rae8 0-1

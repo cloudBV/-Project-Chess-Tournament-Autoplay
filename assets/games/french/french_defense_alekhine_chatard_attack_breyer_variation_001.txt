@@ -1,0 +1,15 @@
+[Event "Round 6: Karde, Douglas - Nilsson, Patrik 1978"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-6/eYlqiXfJ/bWPCLYFx"]
+[Date "2026.07.01"]
+[Round "6.5"]
+[White "Karde, Douglas"]
+[Black "Nilsson, Patrik 1978"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2155"]
+[ECO "C13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Alekhine-Chatard Attack, Breyer Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 c5 7.Bxe7 Qxe7 8.f4 O-O 9.Nf3 Nc6 10.dxc5 f6 11.exf6 Qxf6 12.g3 Nxc5 13.Bd3 e5 14.Nxd5 Qd6 15.fxe5 Nxe5 16.Be2 Nxf3+ 17.Bxf3 Qxg3+ 18.Kd2 Qxf3 19.Qxf3 Rxf3 20.Rae1 Be6 21.Nc3 Rd8+ 22.Kc1 Bf7 23.Re5 Ne6 24.Rhe1 Rh3 25.Nd5 Rxh4 26.Ne7+ Kf8 27.Nf5 Rh2 28.c3 Rdd2 29.Ne3 Nf4 30.Kb1 Nd3 0-1

@@ -1,0 +1,15 @@
+[Event "North Island Chess Championships 2026"]
+[Site "https://lichess.org/broadcast/nz-north-island-championship-2026/round-4/TqaMFx6S/RDAzJyeB"]
+[Date "2026.07.06"]
+[Round "04"]
+[White "Liu, William Rui"]
+[Black "Yu, Zachary"]
+[Result "1-0"]
+[WhiteElo "2195"]
+[BlackElo "2059"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O d5 8.Nd2 Bc5 9.Qe2 O-O 10.e5 Nd7 11.Nf3 h6 12.Bd2 a5 13.c4 Ba6 14.b3 Qe7 15.Bc3 Rfc8 16.Rac1 Ba3 17.Rb1 Bb4 18.Bb2 a4 19.Qc2 Nc5 20.Be2 axb3 21.axb3 Bb7 22.h3 Ra2 23.Ra1 Rca8 24.Rxa2 Rxa2 25.Ra1 Rxa1+ 26.Bxa1 Qc7 27.Qa2 Qa5 28.Qxa5 Bxa5 29.cxd5 cxd5 30.Nd4 f6 31.f4 Bd2 32.Kf1 Bxf4 33.exf6 e5 34.b4 Ne4 35.Ne6 gxf6 36.Nxf4 exf4 37.Bg4 Ba6+ 38.Ke1 Kf7 39.Bd4 Bb5 40.Be2 Nd6 41.Bc5 Nc4 42.Kf2 Ke6 43.Bf8 Na3 44.Bxh6 Kf5 45.Bxb5 Nxb5 46.Bf8 d4 47.Ke2 Ke4 48.Be7 Nc3+ 49.Kd2 Nd5 50.Bc5 Nc3 51.h4 Nb5 52.h5 Kf5 53.h6 Kg6 54.Bf8 Kh7 55.Kd3 Kg8 56.Bg7 Kf7 57.Kc4 Kg6 58.Bf8 Nc7 59.Bd6 Ne6 60.b5 Kxh6 61.b6 d3 62.Kxd3 Nd8 63.Bxf4+ Kh5 64.Bc7 Nb7 65.Kd4 Kg6 66.Kd5 Kf7 67.Kc6 Na5+ 68.Kb5 Nb7 69.Ka6 Nc5+ 70.Ka7 Ke6 71.b7 Nxb7 72.Kxb7 Kf5 73.g3 Kg4 74.Bf4 1-0

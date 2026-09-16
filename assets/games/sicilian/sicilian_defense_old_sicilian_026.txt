@@ -1,0 +1,15 @@
+[Event "Round 4: Polak, Michal - Soucek, Petr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/zalai7Ws"]
+[Date "2026.07.18"]
+[Round "4.23"]
+[White "Polak, Michal"]
+[Black "Soucek, Petr"]
+[Result "1-0"]
+[WhiteElo "2123"]
+[BlackElo "2273"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.d3 e6 5.Nbd2 Nf6 6.g3 g6 7.Bg2 Bg7 8.O-O O-O 9.Qe2 a5 10.Nh4 b6 11.e5 Nd7 12.f4 a4 13.Ndf3 Bb7 14.Bd2 Qc7 15.Rf2 b5 16.d4 b4 17.cxb4 Nxb4 18.Bxb4 cxb4 19.g4 f6 20.Qe3 Qb6 21.Re1 fxe5 22.fxe5 Rac8 23.Bf1 Ba6 24.Bxa6 Qxa6 25.Ng2 a3 26.Qb3 axb2 27.Qxb2 Rc3 28.Ne3 Rfc8 29.Qxb4 Bf8 30.Qb2 Ba3 31.Qe2 Qa4 32.g5 Bc1 33.Ng4 Rc2 34.Qd1 Bf4 35.Nf6+ Nxf6 36.exf6 Qxa2 37.Rfe2 Kf8 38.Qd3 Qb2 39.Qa6 Qb3 40.Qxe6 R2c7 41.Qg4 Bd6 42.h4 Qd3 43.Re3 Qf5 44.Qxf5 gxf5 45.Re6 Bg3 46.R1e2 Rb8 47.h5 Bf4 48.g6 hxg6 49.hxg6 Ra8 50.Kg2 Rd7 51.Nh4 Rc7 52.Nxf5 Rd7 53.Kf3 Bg5 54.f7 Rdd8 55.Kg4 Bc1 56.Re7 Bh6 57.Nxh6 Kg7 58.Kg5 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Willstedt, Lukas - Muntean, Victor"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/Tla4fRqX"]
+[Date "2026.07.02"]
+[Round "6.1"]
+[White "Willstedt, Lukas"]
+[Black "Muntean, Victor"]
+[Result "1/2-1/2"]
+[WhiteElo "2118"]
+[BlackElo "2170"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.dxc5 Nc6 5.Bb5 e6 6.b4 a5 7.c3 Bd7 8.Qb3 Ne4 9.f3 e5 10.fxe4 exf4 11.exf4 dxe4 12.Nd2 axb4 13.cxb4 Qf6 14.Rd1 Be7 15.Ne2 Be6 16.Nxe4 Qg6 17.Qf3 O-O 18.Bxc6 bxc6 19.O-O Bg4 20.Qe3 Rfe8 21.Rde1 Bh4 22.N2g3 Bxg3 23.Qxg3 Rxe4 24.Rxe4 Qxe4 25.Qxg4 Qxb4 26.Qg5 Qd4+ 27.Kh1 Rxa2 28.Qe7 Ra8 29.h3 h6 30.Qb7 Ra1 31.Qc8+ Kh7 32.Qf5+ Kg8 1/2-1/2

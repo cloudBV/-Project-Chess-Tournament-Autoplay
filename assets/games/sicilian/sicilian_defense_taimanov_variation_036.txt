@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.25"]
+[White "Conon, Catalin"]
+[Black "Garrigue, Julian"]
+[Result "0-1"]
+[WhiteElo "2139"]
+[BlackElo "2275"]
+[ECO "B45"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.g4 Nge7 7.h4 Nxd4 8.Qxd4 Nc6 9.Qd3 a6 10.g5 Be7 11.Bf4 Ne5 12.Qg3 Qc7 13.h5 b5 14.a3 Bb7 15.Bh3 Rc8 16.g6 hxg6 17.Bxe5 dxe5 18.hxg6 f5 19.O-O Bh4 20.Qe3 Qc6 21.f3 Bg3 22.Kg2 Bf4 23.Qe1 Rh6 24.Rh1 Rxg6+ 25.Kf1 a5 26.Bg2 Qc4+ 27.Kg1 b4 28.Rh8+ Kf7 29.Rxc8 Bxc8 30.axb4 axb4 31.exf5 exf5 32.Ne2 Be3+ 33.Kf1 Ba6 34.Qd1 Rd6 35.Qe1 Rd2 36.Rxa6 Qxa6 37.f4 e4 38.Bh3 Qh6 39.Kg2 Qh5 0-1

@@ -1,0 +1,14 @@
+[Event "Round 1: Apostolakakis, Konstantinos - Kazakos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/d0BIVevX"]
+[Date "2026.07.10"]
+[Round "1.53"]
+[White "Apostolakakis, Konstantinos"]
+[Black "Kazakos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2071"]
+[BlackElo "2149"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bf4 Nf6 5.Bd3 Be7 6.h3 Nbd7 7.Nf3 O-O 8.Nbd2 c5 9.c3 c4 10.Bc2 b5 11.a3 Bb7 12.O-O a5 13.Re1 Re8 14.Ne5 Ra6 15.Qf3 Qa8 16.Nxd7 Nxd7 17.Re3 Bf8 18.Rxe8 Qxe8 19.a4 Rf6 20.axb5 Bd6 21.Qe3 Re6 22.Qg3 Re1+ 23.Rxe1 Qxe1+ 24.Nf1 Be7 25.Bd2 Qa1 26.Qc7 Nf8 27.Qxe7 Qxb2 28.Qxb7 Qxc2 29.Qa8 Qb3 30.Qxa5 1-0

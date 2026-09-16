@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-8/QCHTNJXG/mWSWaEv2"]
+[Date "2026.07.09"]
+[Round "8.1"]
+[White "Kalisky, Vladimir"]
+[Black "Pechac, Jergus"]
+[Result "1-0"]
+[WhiteElo "2179"]
+[BlackElo "2539"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 a6 6.f3 e6 7.Be3 b5 8.Qd2 b4 9.Nce2 e5 10.Nf5 d5 11.O-O-O Bxf5 12.exf5 Be7 13.f4 Qa5 14.Kb1 d4 15.Bg1 Nc6 16.fxe5 Ne4 17.Qe1 Nc3+ 18.Nxc3 bxc3 19.Bxd4 Nxd4 20.Rxd4 O-O 21.f6 gxf6 22.Bd3 fxe5 23.Rg4+ Kh8 24.Rf1 f5 25.Rxf5 Rxf5 26.Bxf5 Rd8 27.Be6 Qc5 28.bxc3 Rf8 29.Bb3 Qb5 30.Qg3 Qb8 31.a4 Bf6 32.Ka2 a5 33.h3 Qc8 34.Rc4 Qd7 35.Qd3 Qe7 36.Qe4 Bg5 37.Kb2 Rd8 38.Qg4 Bf6 39.Rc8 Bg7 40.Qe6 Qf8 41.Rxd8 Qxd8 42.Qd5 Qc8 43.Bc4 Bf6 44.Kb3 Qb8+ 45.Bb5 Qc7 46.Qc6 Qf7+ 47.Bc4 Qf8 48.Bd5 Qb8+ 49.Qb7 Qd6 50.Be4 Be7 51.Qc6 Qb8+ 52.Kc4 Kg7 53.Qd7 Qf8 54.Qf5 Qg8+ 55.Bd5 Qd8 56.Qf7+ Kh6 57.Kd3 Bf6 58.Ke2 Kg5 59.g3 Qe7 60.Qg8+ Qg7 61.Kf3 Qg6 62.Qxg6+ hxg6 63.Ke4 Bg7 64.c4 Kf6 65.c5 Ke7 66.Bg8 Kd7 67.Kd5 e4 68.c6+ Kc7 69.Kxe4 Kxc6 70.Bf7 g5 71.Kf5 1-0

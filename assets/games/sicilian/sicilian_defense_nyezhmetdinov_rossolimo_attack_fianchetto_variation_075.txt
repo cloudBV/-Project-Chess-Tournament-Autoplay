@@ -1,0 +1,14 @@
+[Event "Round 7: Schweizer, Simon - Ling, Chenxuan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/R3EodkYy"]
+[Date "2026.07.19"]
+[Round "7.10"]
+[White "Schweizer, Simon"]
+[Black "Ling, Chenxuan"]
+[Result "0-1"]
+[WhiteElo "2182"]
+[BlackElo "2235"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Nc3 e5 6.d3 Nge7 7.a3 d6 8.h3 O-O 9.Rb1 a6 10.Bc4 b5 11.Ba2 h6 12.b4 cxb4 13.axb4 Kh7 14.Nd5 f5 15.c4 bxc4 16.Bxc4 Rb8 17.Bd2 Nxd5 18.Bxd5 Ne7 19.Ba2 Bd7 20.Bc3 Bc6 21.Re1 Qd7 22.Nd2 Rbe8 23.Nc4 Qc7 24.Rc1 Qb8 25.Na5 Bb5 26.d4 fxe4 27.dxe5 d5 28.e6 Qb6 29.Qd2 d4 30.Ba1 e3 31.fxe3 Nf5 32.exd4 Nxd4 33.Kh1 Nxe6 34.Bxg7 Nxg7 35.Rxe8 Rxe8 36.Bb1 Re2 37.Qf4 Qe6 38.Qg3 Nh5 39.Qc7+ Ng7 40.Qg3 Nh5 41.Qc3 Qd5 42.Rg1 Qd6 43.Rc1 Ng3+ 44.Kg1 Re7 45.Qc5 Ne2+ 46.Kh1 Ng3+ 47.Kg1 Qxc5+ 48.Rxc5 Re1+ 49.Kh2 Nf1+ 50.Kg1 Rxb1 51.Rc7+ Kg8 52.Rc8+ Kf7 53.Rc7+ Ke6 54.Rg7 Kf6 55.Rh7 h5 56.Rb7 Kg5 57.Kf2 Nd2 58.Rb6 Rxb4 59.Nc6 Rb2 60.Nd4 Nc4+ 0-1

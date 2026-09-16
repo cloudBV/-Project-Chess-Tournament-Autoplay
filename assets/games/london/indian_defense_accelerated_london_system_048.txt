@@ -1,0 +1,15 @@
+[Event "Round 7: Zeynalli, Rashad - Omonov, Asrorjon"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/dyhnjjd1"]
+[Date "2026.07.17"]
+[Round "7.10"]
+[White "Zeynalli, Rashad"]
+[Black "Omonov, Asrorjon"]
+[Result "1-0"]
+[WhiteElo "2269"]
+[BlackElo "2347"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 4.Na3 d6 5.Nc4 Qc7 6.a4 Be6 7.Nd2 g6 8.Ngf3 Bg7 9.Bb5+ Bd7 10.O-O O-O 11.h3 a6 12.Be2 cxd4 13.exd4 Nc6 14.Bh2 Rab8 15.c4 Rbd8 16.Re1 Nb4 17.Qb3 a5 18.c5 Bc6 19.Bb5 Bd5 20.Qc3 Nc6 21.Rad1 Qc8 22.cxd6 exd6 23.Nc4 Ne4 24.Qc1 Bxc4 25.Bxc4 d5 26.Bb5 Nb4 27.Bc7 Na2 28.Qf4 Rd7 29.Bxa5 Re7 30.Ra1 Qc2 31.Re2 Qb3 32.Qe3 Qxe3 33.Rxe3 Ra8 34.Be1 Bh6 35.Rxa2 Bxe3 36.fxe3 Rc7 37.Ra1 Rc2 38.b4 Rb2 39.Ne5 Nd6 40.Bd3 Re8 41.Bg3 Rc8 42.Nd7 Ne8 43.Be1 Rd8 44.Nc5 1-0

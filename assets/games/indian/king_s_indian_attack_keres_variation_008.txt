@@ -1,0 +1,14 @@
+[Event "Round 3: Ersoz, Teoman Guney - Kalezic, Blazo"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/AfeksOFR"]
+[Date "2026.07.05"]
+[Round "3.21"]
+[White "Ersoz, Teoman Guney"]
+[Black "Kalezic, Blazo"]
+[Result "1/2-1/2"]
+[WhiteElo "2123"]
+[BlackElo "2400"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.d4 e6 5.O-O Ngf6 6.c4 c6 7.cxd5 exd5 8.Nc3 Be7 9.Ng5 h6 10.Nh3 g5 11.f3 Bh5 12.g4 Bg6 13.e4 dxe4 14.fxe4 h5 15.Bxg5 Nxg4 16.Qd2 Nf8 17.e5 Ne6 18.Bxe7 Qxe7 1/2-1/2

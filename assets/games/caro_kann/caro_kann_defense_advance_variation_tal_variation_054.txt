@@ -1,0 +1,14 @@
+[Event "Round 4: Arman, Deniz - Lundin, Jan"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-4/bqHwICkI/5c3CItUW"]
+[Date "2026.07.20"]
+[Round "4.5"]
+[White "Arman, Deniz"]
+[Black "Lundin, Jan"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2172"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 Qb6 5.Nc3 h5 6.Na4 Qc7 7.Bd3 Bxd3 8.Qxd3 e6 9.Nf3 Qa5+ 10.Nc3 Qa6 11.Qd1 Ne7 12.Ne2 c5 13.c3 Nd7 14.O-O Nc6 15.Bg5 cxd4 16.cxd4 Nb6 17.Nf4 Rc8 18.Qb1 Ne7 19.a4 Qc4 20.a5 Nd7 21.Ng6 fxg6 22.Rc1 Nf5 23.Rxc4 Rxc4 24.Qd3 Be7 25.b3 Rc7 26.Rc1 Rxc1+ 27.Bxc1 a6 28.Qc3 Bd8 29.Qc8 Rf8 30.b4 Rf7 31.Bg5 1-0

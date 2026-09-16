@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "8.6"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Bouska, Jiri"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2298"]
+[ECO "B30"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.Re1 a6 6.Bf1 Nge7 7.c3 O-O 8.d4 cxd4 9.cxd4 Nxd4 10.Nxd4 exd4 11.Qxd4 Qc7 12.h3 b5 13.Nc3 Bh2+ 14.Kh1 Be5 15.Qd2 Bb7 16.f4 Bf6 17.Bd3 Bh4 18.Rf1 f5 19.e5 Qc6 20.a3 Qg6 21.Bc2 Rad8 22.Bb3+ Kh8 23.Nd5 d6 24.Nxe7 Bxe7 25.e6 Qg3 26.Bd5 Bc8 27.Rf3 Qg6 28.Qe2 Rde8 29.Bc6 Rd8 30.Re3 d5 31.Bd2 d4 32.Re5 d3 33.Qe3 Rd6 34.Rc1 Rxe6 35.Rxe6 Bxe6 36.Re1 Bh4 37.Rc1 Bc4 38.Bf3 Re8 39.Qc5 Qe6 40.Bc3 Be7 41.Qa7 Bf6 42.Re1 Qc8 43.Rd1 Bxc3 44.bxc3 Qe6 45.Qd4 Qe7 46.Kh2 Qxa3 47.Bc6 Rc8 48.Qd7 Qf8 49.Bf3 Rd8 50.Qa7 Qd6 51.g3 d2 52.Rb1 Bb3 53.Rxb3 d1=Q 54.Bxd1 Qd2+ 55.Kh1 Qxd1+ 56.Qg1 Qxb3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 4: Castillo Rodriguez, Edward Andres - Arrieta Hernandez, Cristian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-4/Q9fLbdxj/0lbkyMb0"]
+[Date "2026.07.12"]
+[Round "4.7"]
+[White "Castillo Rodriguez, Edward Andres"]
+[Black "Arrieta Hernandez, Cristian"]
+[Result "*"]
+[WhiteElo "2096"]
+[BlackElo "2339"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.d4 a6 5.Bg2 dxc4 6.a4 c5 7.O-O Nc6 8.Na3 cxd4 9.Nxc4 Bc5 10.Bg5 h6 11.Bf4 O-O 12.Rc1 Ba7 13.Bd6 Re8 14.Ba3 e5 15.Nd6 Re6 16.Nxc8 Rxc8 17.Bh3 e4 18.Nh4 Qd5 19.Ng2 g5 20.Bxe6 Qxe6 21.Bc5 Bb8 22.Bxd4 Rd8 23.e3 Ne5 24.f4 exf3 25.Rxf3 Nxf3+ 26.Qxf3 Ne4 27.Qh5 Be5 28.Bxe5 Qxe5 29.Qxh6 Qxb2 30.Rf1 Qe2 31.Qh3 Nd2 32.Qf5 Qxf1+ 33.Qxf1 Nxf1 34.Kxf1 Rd2 35.h4 f6 36.Ne1 gxh4 37.gxh4 Ra2 38.Nf3 Rxa4 39.Ke1 *

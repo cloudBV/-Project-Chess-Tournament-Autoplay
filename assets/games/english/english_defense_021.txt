@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.5"]
+[White "Babula, Vlastimil"]
+[Black "Blatny, Pavel"]
+[Result "0-1"]
+[WhiteElo "2511"]
+[BlackElo "2314"]
+[ECO "A40"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 b6 2.e4 Bb7 3.Bd3 e6 4.Nf3 d6 5.c4 Nd7 6.Nc3 g6 7.h4 h6 8.Qe2 Bg7 9.Bf4 Ne7 10.O-O-O Nc6 11.e5 dxe5 12.dxe5 Qe7 13.a3 Nc5 14.Bc2 a5 15.Qe3 a4 16.Kb1 Na5 17.Nxa4 Nxc4 18.Qd4 Bd5 19.Nc3 c6 20.Bc1 Nd7 21.Rde1 b5 22.Nd2 Bxg2 23.Nxc4 bxc4 24.Rhg1 Bd5 25.h5 g5 26.f4 Qc5 27.Qxc5 Nxc5 28.fxg5 hxg5 29.Bxg5 Nd7 30.Bf4 Bf8 31.Bd1 Rb8 32.Ka2 Nc5 33.Bg5 Nd3 34.Nxd5 exd5 35.Ba4 Rxb2+ 36.Ka1 Rb6 37.Rb1 Ra6 38.Bf6 Rxh5 39.Rg8 Rxa4 40.Rxf8+ Kd7 41.Rxf7+ Ke6 42.Re7+ Kf5 43.Rf1+ Ke4 44.Rb7 Rxa3+ 45.Kb1 Nxe5 46.Re7 Re3 47.Bg7 d4 48.Rd1 d3 49.Rc1 Kd5 50.Re8 Re2 51.Rd8+ Ke6 52.Bxe5 Kxe5 53.Rxc4 Rh1+ 54.Rc1 Rxc1+ 55.Kxc1 Ke4 56.Kd1 Rc2 57.Re8+ Kd4 58.Rd8+ Kc4 59.Rc8 c5 0-1

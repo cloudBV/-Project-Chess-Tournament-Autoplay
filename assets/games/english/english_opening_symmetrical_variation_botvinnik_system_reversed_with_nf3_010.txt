@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/VS4ZYSWq"]
+[Date "2026.07.18"]
+[Round "8.11"]
+[White "Antunes, Antonio"]
+[Black "Almeida, Joao Pedro Dias"]
+[Result "1/2-1/2"]
+[WhiteElo "2496"]
+[BlackElo "2156"]
+[ECO "A37"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.Nf3 c5 2.c4 Nc6 3.g3 g6 4.Bg2 Bg7 5.O-O e5 6.Nc3 Nge7 7.d3 O-O 8.a3 d6 9.Rb1 a5 10.Bd2 Rb8 11.Ne1 Be6 12.Nc2 d5 13.cxd5 Nxd5 14.Nxd5 Bxd5 15.Bxd5 Qxd5 16.b4 axb4 17.axb4 cxb4 18.Nxb4 Nxb4 19.Rxb4 b5 20.Qb3 Qxb3 21.Rxb3 Rfc8 22.Bc3 f6 23.Ra1 Bf8 24.Bb4 Bxb4 25.Rxb4 Rb7 26.f4 Kf7 27.fxe5 fxe5 28.Ra6 Rd8 29.Kf2 Rd4 30.Rb3 Ke7 31.Kf3 Rd6 32.Ra5 Rdb6 33.Ke4 Kd6 34.Ra8 Rb8 35.Ra7 R8b7 36.Ra5 Rb8 37.e3 R8b7 38.g4 h6 39.h4 Rb8 40.Ra7 R8b7 41.Ra1 Rb8 42.Ra2 b4 43.Ra5 Rb5 44.Ra6+ R8b6 45.Ra8 Rb8 46.Ra6+ R8b6 47.Ra4 Rb8 48.Ra1 R8b6 49.Rf1 Ke7 50.Ra1 Kd6 51.Ra8 Rb8 52.Ra6+ 1/2-1/2

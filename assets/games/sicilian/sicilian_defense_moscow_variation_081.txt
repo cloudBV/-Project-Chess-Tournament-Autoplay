@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.17"]
+[Round "7.4"]
+[White "Margarido, Jose Miguel Teixeira"]
+[Black "Belin, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2206"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 a6 6.Bf1 Nf6 7.c3 Bg4 8.h3 Bxf3 9.Qxf3 g6 10.Qd1 Bh6 11.d3 Bxc1 12.Qxc1 O-O 13.Nd2 e5 14.Nf3 Nd7 15.d4 cxd4 16.cxd4 Qa5 17.Qe3 Rac8 18.dxe5 Ndxe5 19.Red1 Nxf3+ 20.Qxf3 Qe5 21.Rd2 Nd4 22.Qd3 Ne6 23.Qxd6 Qxe4 24.Bd3 Qh4 25.Rad1 Rfd8 26.Qe5 Rc5 27.Qe3 Rcd5 28.Bf1 Nd4 29.Rd3 Qf6 30.b3 Kg7 31.Qg3 Rg5 32.Qe3 Re5 33.Qg3 Rg5 34.Qe3 Rgd5 1/2-1/2

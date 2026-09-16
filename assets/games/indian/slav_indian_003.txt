@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-9/GBcHgeQz/PzXamMI4"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Roshka, Yevgeniy"]
+[Black "Dhruva Thota"]
+[Result "1-0"]
+[WhiteElo "2497"]
+[BlackElo "2397"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Slav Indian"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.cxd5 cxd5 5.Bf4 Nc6 6.e3 Bg4 7.Qb3 Na5 8.Qa4+ Bd7 9.Qc2 e6 10.Bd3 Rc8 11.Nf3 Bb4 12.O-O h6 13.Ne5 O-O 14.h3 a6 15.Rfc1 Bb5 16.Bxb5 axb5 17.Qd3 Bxc3 18.Rxc3 Nc4 19.Rc2 Qa5 20.Qe2 Nb6 21.Rcc1 b4 22.Nd3 Rc4 23.b3 Rxc1+ 24.Rxc1 Ne4 25.Rc7 Qa6 26.Qc2 Na8 27.Rc8 Rxc8 28.Qxc8+ Kh7 29.Qc2 g5 30.Be5 Qc6 31.Qxc6 bxc6 32.Nxb4 c5 33.dxc5 Nxc5 34.Nc6 Kg6 35.Bd4 Nd3 36.b4 f6 37.b5 Nc7 38.b6 Na6 39.b7 e5 40.Ba7 Nc1 41.a3 1-0

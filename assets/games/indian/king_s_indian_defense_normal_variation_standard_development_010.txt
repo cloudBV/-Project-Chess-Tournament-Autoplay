@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/9SCsCn4M"]
+[Date "2026.07.07"]
+[Round "8.17"]
+[White "Del Rio De Angelis, Salvador Gabriel"]
+[Black "Veiga, Jose Francisco R P Neves"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2417"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h3 e5 7.d5 a5 8.h4 Nfd7 9.h5 Nc5 10.Be3 Nba6 11.g4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.3"]
+[White "Cardoso Cardoso, Jose Gabriel"]
+[Black "De La Villa Garcia, Jesus Maria"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2420"]
+[ECO "B12"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.c4 e6 6.Nc3 dxc4 7.Bxc4 Nd7 8.Nge2 Be7 9.Ng3 Bg6 10.Be2 Qb6 11.Be3 O-O-O 12.O-O Qxb2 13.Nge4 Bxe4 14.Nxe4 Nxe5 15.Rb1 Qa3 16.Rb3 Qa4 17.Qb1 Nd7 18.Rxb7 Nb6 19.Rxe7 Nxe7 20.Nc5 Qa3 21.Ba6+ Kc7 22.Bc1 Qc3 23.Bf4+ Rd6 24.Bxd6+ 1-0

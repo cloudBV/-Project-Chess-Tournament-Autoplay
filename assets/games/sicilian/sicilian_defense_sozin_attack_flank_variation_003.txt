@@ -1,0 +1,15 @@
+[Event "Round 5: Dushyant Sharma - Lyutsinger, Iren"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-5/tz20dT0c/2f6Soji2"]
+[Date "2026.07.09"]
+[Round "5.3"]
+[White "Dushyant Sharma"]
+[Black "Lyutsinger, Iren"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2258"]
+[ECO "B87"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 e6 4.Nc3 Nf6 5.d4 cxd4 6.Nxd4 a6 7.Bb3 b5 8.O-O Be7 9.Qf3 Qc7 10.Qg3 Rg8 11.Re1 g5 12.Bd2 h5 13.Nd5 exd5 14.exd5 h4 15.Qe3 Ng4 16.Ba5 Qb7 17.Qe4 Ne5 18.Qh7 Rf8 19.Ne6 Bxe6 20.Rxe5 dxe5 21.dxe6 Bc5 22.Rd1 h3 23.exf7+ Ke7 24.Bd8+ 1-0

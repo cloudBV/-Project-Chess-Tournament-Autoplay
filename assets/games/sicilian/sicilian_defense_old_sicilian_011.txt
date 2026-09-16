@@ -1,0 +1,15 @@
+[Event "Round 4: Majumder Shrayan - Bhoir Paras Dilip"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-4/JBi8BWpT/ayMQaU8T"]
+[Date "2026.07.07"]
+[Round "4.4"]
+[White "Majumder Shrayan"]
+[Black "Bhoir Paras Dilip"]
+[Result "0-1"]
+[WhiteElo "2122"]
+[BlackElo "2236"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.g3 Nf6 4.d3 g6 5.Bg2 Bg7 6.O-O O-O 7.c3 d5 8.e5 Nd7 9.d4 cxd4 10.cxd4 Nb6 11.h3 f6 12.Re1 Bf5 13.Nc3 Qd7 14.g4 Be6 15.Bf4 g5 16.Bg3 h5 17.gxh5 Bxh3 18.Nb5 Bg4 19.e6 Qd8 20.Bc7 Qc8 21.a4 Bxh5 22.b3 Nxa4 23.bxa4 a6 24.Bb6 axb5 25.axb5 Rxa1 26.Qxa1 Nb4 27.Qb1 Nc2 28.Re2 Na3 29.Qb4 Qc4 30.Qxc4 dxc4 31.Bc5 Nxb5 32.Rb2 c3 33.Rxb5 c2 34.Ba3 Ra8 35.Bb2 Ra2 36.Rc5 Rxb2 37.Kh2 Bh6 38.Ne1 Bg6 39.d5 g4 40.Rc8+ Kg7 41.Kg3 c1=Q 42.Rxc1 Bxc1 43.d6 exd6 0-1

@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.16"]
+[Round "4.1"]
+[White "Niemann, Hans Moke"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2749"]
+[ECO "C10"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be3 Bd7 8.Bd3 Nd5 9.Ne5 Nxe3 10.fxe3 Bd6 11.Nxd7 Qxd7 12.Qf3 c6 13.O-O-O O-O-O 14.c3 Kb8 15.Kb1 Qc7 16.h3 h5 17.Rhf1 f6 18.Bc2 Qe7 19.Bb3 h4 20.e4 Bg3 21.Rd3 Rd6 22.Rfd1 Rhd8 23.a3 a6 24.Ka2 Ka8 25.Rf1 Kb8 26.Rdd1 Qd7 27.Qh5 Qc7 28.Qg4 Qe7 29.Qf3 Qd7 30.Qh5 Qc7 31.Qc5 R8d7 32.a4 Rd8 33.Rf3 Qd7 34.Rfd3 Qc7 35.a5 Re8 36.Qb4 Rdd8 37.Kb1 Ka7 38.c4 c5 39.dxc5 Rxd3 40.Rxd3 Rc8 41.Qb6+ Kb8 42.Ba2 Qxc5 43.Rd7 Qc6 44.Qxc6 Rxc6 45.Rxg7 Rc5 46.Rg8+ Kc7 47.Rg7+ Kb8 48.Re7 Rxa5 49.Rxe6 Re5 50.Rxe5 1/2-1/2

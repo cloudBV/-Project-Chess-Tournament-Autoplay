@@ -1,0 +1,14 @@
+[Event "Round 4: Lumsdon, Andrew - Fogo Esquivel, Levi Kalani Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/8fA3UBEQ"]
+[Date "2026.07.16"]
+[Round "4.26"]
+[White "Lumsdon, Andrew"]
+[Black "Fogo Esquivel, Levi Kalani Alexander"]
+[Result "0-1"]
+[WhiteElo "2033"]
+[BlackElo "2125"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Glek System"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 Nxe4 5.Nxe4 d5 6.Bb5 dxe4 7.Nxe5 Qd5 8.Nxc6 Qxb5 9.Nd4 Qd5 10.c3 Bc5 11.Qb3 Qe5 12.O-O O-O 13.Ne2 Be6 14.Qc2 Bc4 15.Re1 Bd3 16.Qb3 Qh5 17.Nf4 Qf3 18.Nxd3 exd3 19.Rf1 Rae8 20.Qc4 Bxf2+ 0-1

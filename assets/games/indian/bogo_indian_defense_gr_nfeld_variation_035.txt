@@ -1,0 +1,15 @@
+[Event "Round 9: Yu,Shi - Rosh Jain"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-9/nAmhapDR/1DmyzuIM"]
+[Date "2026.07.24"]
+[Round "9.13"]
+[White "Yu,Shi"]
+[Black "Rosh Jain"]
+[Result "1/2-1/2"]
+[WhiteElo "2168"]
+[BlackElo "2331"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Bxd2 Bb7 7.e3 d6 8.Qc2 Nbd7 9.Be2 O-O 10.Rd1 Ne4 11.Bc1 f5 12.O-O Qe7 13.Ne1 a5 14.f3 Nef6 15.b3 Rae8 16.Bb2 Nh5 17.Nd3 Qg5 18.Rf2 Rc8 19.Qc1 Qe7 20.Re1 Nhf6 21.Bf1 e5 22.Qc3 Rfe8 23.dxe5 dxe5 24.Nc1 c5 25.Qc2 e4 26.f4 Nf8 27.g3 Rcd8 28.h3 Ne6 29.Rd1 h5 30.Be2 Qf7 31.Kh2 Qg6 32.a4 Kf7 33.Rg2 Bc6 1/2-1/2

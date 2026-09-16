@@ -1,0 +1,14 @@
+[Event "Round 10: Savitha Shri B - Rappazzo, Johannes"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-10/fuSt1AT1/VCrEQCdF"]
+[Date "2026.07.19"]
+[Round "10.5"]
+[White "Savitha Shri B"]
+[Black "Rappazzo, Johannes"]
+[Result "1-0"]
+[WhiteElo "2161"]
+[BlackElo "2032"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.h3 Be7 9.g4 d5 10.exd5 Nxd5 11.Nxd5 Qxd5 12.Qxd5 Bxd5 13.Rg1 O-O 14.O-O-O Bc6 15.Bc4 b5 16.Bd5 Bxd5 17.Rxd5 Nc6 18.Bc5 Bg5+ 19.Kb1 Rfd8 20.Rgd1 Rxd5 21.Rxd5 Rd8 22.Rxd8+ Nxd8 23.Bd6 Nc6 24.Nc5 a5 25.Ne4 Bd8 26.Nc3 Bb6 27.Nxb5 Bxf2 28.Nc3 f6 29.Ne4 Bb6 30.c4 Kf7 31.a3 Ke6 32.b4 f5 33.gxf5+ Kxf5 34.c5 Bd8 35.b5 Kxe4 36.bxc6 Kd5 37.c7 Bxc7 38.Bxc7 Kxc5 39.Bxe5 g5 40.Bf6 h6 41.Bc3 Kb5 42.Bd2 a4 43.Kc2 Kc4 44.Be3 Kd5 45.Kd3 Ke5 46.Bc1 Kd5 47.Kc3 Kc5 48.Bd2 Kb5 49.Kd4 Kb6 50.Ke5 Kc5 51.Kf5 Kc4 52.Kg6 Kd3 53.Bb4 Ke4 54.Kxh6 Kf4 55.Kg6 Kg3 56.Kxg5 Kxh3 57.Kf5 Kg3 58.Ke5 Kf3 59.Kd5 Kf4 60.Bd6+ Kf5 61.Be5 Kg6 62.Kc5 Kf7 63.Kb5 Ke6 64.Kc6 1-0

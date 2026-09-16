@@ -1,0 +1,14 @@
+[Event "Round 4: Duquesnoy, Jean-Philippe - Kavutskiy, Kostya"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/vHsFJEWc"]
+[Date "2026.07.21"]
+[Round "4.2"]
+[White "Duquesnoy, Jean-Philippe"]
+[Black "Kavutskiy, Kostya"]
+[Result "0-1"]
+[WhiteElo "2105"]
+[BlackElo "2315"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 d6 4.Nc3 Bg7 5.e4 Nc6 6.Nge2 h5 7.f3 Bd7 8.Bg5 a6 9.Rb1 Na5 10.Nc1 c5 11.d5 b5 12.cxb5 axb5 13.Nxb5 O-O 14.Qd2 Qb6 15.Nc3 e6 16.Be2 exd5 17.Bxf6 Bxf6 18.Nxd5 Qd8 19.Nxf6+ Qxf6 20.Qg5 Qxg5 21.hxg5 Nc6 22.Bb5 Rfb8 23.Bxc6 Bxc6 24.Kf2 d5 25.exd5 Bxd5 26.b3 c4 27.Rb2 Be6 28.Rc2 cxb3 29.axb3 Ra5 30.f4 Rb4 31.g3 Kg7 32.Rc3 Bd5 33.Rh4 Be4 34.Ke3 Bf5 35.Rh2 Re4+ 36.Kf3 Re1 37.Rd2 Ra1 38.Ne2 Bg4+ 39.Ke3 Ra7 40.Kf2 Rh1 41.Rcc2 Re7 42.b4 Bh3 43.g4 Rf1+ 44.Kg3 Re3+ 45.Kh2 Rf2+ 46.Kg1 Rf1+ 47.Kh2 Bxg4 48.Nd4 h4 49.Rf2 Rh3+ 50.Kg2 Rfh1 0-1

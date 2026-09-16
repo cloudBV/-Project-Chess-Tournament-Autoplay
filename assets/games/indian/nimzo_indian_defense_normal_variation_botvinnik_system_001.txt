@@ -1,0 +1,15 @@
+[Event "Round 4: Vaidyanathan, Kannan - Aleksandrov, Aleksej"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-4/2N5Ezhl4/3LVvhWbL"]
+[Date "2026.07.03"]
+[Round "4.3"]
+[White "Vaidyanathan, Kannan"]
+[Black "Aleksandrov, Aleksej"]
+[Result "0-1"]
+[WhiteElo "2364"]
+[BlackElo "2449"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Ba2 b6 11.O-O Ba6 12.Bb2 Rd8 13.Rc1 Nc6 14.c4 cxd4 15.exd4 b5 16.d5 bxc4 17.Bxf6 Rxd5 18.Bd4 Nxd4 19.Nxd4 Qb6 20.Rb1 Qxd4 21.Qa4 Qd2 22.Bxc4 Bxc4 23.Qxc4 h5 24.h3 Rad8 25.Rb7 a5 26.Rc7 Rf5 27.Qc2 Rd3 28.Qxd2 Rxd2 29.Rc4 g5 30.g4 hxg4 31.hxg4 Rfd5 32.Rb1 Kg7 33.Kg2 R5d4 34.Rxd4 Rxd4 35.f3 Kf6 36.Rb3 a4 37.Rc3 Ke5 38.Rc7 f6 39.Ra7 Kf4 40.Ra6 Rd2+ 41.Kh3 Rd3 42.Kg2 Rd2+ 43.Kh3 Re2 44.Rxa4+ Kxf3 45.Rb4 Re1 46.Kh2 Re4 47.Rb2 Kxg4 48.Ra2 Ra4 49.Kg2 e5 50.Rf2 f5 51.Ra2 e4 52.Kf2 f4 53.Ra1 Kf5 54.Ke2 g4 55.Kf2 g3+ 56.Kg2 Kg4 57.Ra2 f3+ 58.Kf1 e3 59.Rb2 Rc4 60.Rb1 g2+ 0-1

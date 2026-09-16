@@ -1,0 +1,15 @@
+[Event "Round 7: Rostami, Mohsen - Khazhatuly, Alikhan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/KDrqCW9o"]
+[Date "2026.07.03"]
+[Round "7.30"]
+[White "Rostami, Mohsen"]
+[Black "Khazhatuly, Alikhan"]
+[Result "0-1"]
+[WhiteElo "2010"]
+[BlackElo "2148"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 Nc6 4.O-O Nf6 5.Nc3 d5 6.exd5 Nxd5 7.Bb5 Be7 8.Ne5 Qc7 9.Re1 O-O 10.Nxc6 bxc6 11.Bc4 Rb8 12.Qe2 Bd6 13.h3 f5 14.d3 Bd7 15.Bd2 Rf6 16.Na4 Re8 17.Bc3 Nf4 18.Qf3 Rg6 19.g3 Nxh3+ 20.Kf1 Bxg3 21.Ke2 Nxf2 22.Rg1 Nh3 23.Rh1 Nf4+ 24.Kd2 Nd5 25.Nxc5 Bf4+ 26.Kd1 Ne3+ 27.Ke2 Rg2+ 28.Qxg2 Nxg2 29.Rag1 Be5 30.Na6 Qb6 31.Rxg2 Bxc3 32.bxc3 Bc8 33.Rhg1 g6 34.Nb4 c5 35.a3 cxb4 36.axb4 Bb7 37.Rh2 Qxg1 0-1

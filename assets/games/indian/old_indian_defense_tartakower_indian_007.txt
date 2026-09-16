@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.24"]
+[Round "29.7"]
+[White "Stash 37.24"]
+[Black "GinkgoHCE 5.71"]
+[Result "1/2-1/2"]
+[WhiteElo "3244"]
+[BlackElo "3344"]
+[ECO "A54"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Tartakower-Indian"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 Bg4 4.Nc3 Bxf3 5.gxf3 g6 6.Qb3 Qc8 7.Bh3 Nbd7 8.e4 c5 9.e5 cxd4 10.exf6 dxc3 11.Qxc3 e6 12.Bxe6 fxe6 13.f7+ Kxf7 14.Qxh8 Qxc4 15.Qxh7+ Bg7 16.Bh6 Qb4+ 17.Kf1 Rg8 18.Rc1 Qb6 19.Rc8 Nf8 20.Rxf8+ Kxf8 21.Kg2 Bxh6 22.Qxh6+ Kf7 23.Rc1 Qd8 24.Qf4+ Kg7 25.Rd1 d5 26.Qd4+ Qf6 27.Qxa7 Qxb2 28.Qe3 Qf6 29.Rb1 Qe7 30.Rb6 Re8 31.Qe5+ Kf7 32.h4 Kg8 33.a4 Qg7 34.Qg5 Kh7 35.a5 Re7 36.Rd6 Qf7 37.Qe5 Qf5 38.Rxd5 Rf7 39.Qxf5 Rxf5 40.Rxf5 exf5 41.Kf1 Kg7 42.Ke2 Kf6 43.Kd3 Ke5 44.Kc4 Kf4 45.Kc5 Kxf3 46.Kb6 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/YA7dzbJh"]
+[Date "2026.07.02"]
+[Round "6.11"]
+[White "Janeczko, Jakub"]
+[Black "Zajac, Szymon"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2117"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 h6 8.Qd2 g5 9.fxg5 cxd4 10.Nxd4 Ndxe5 11.Be2 Bd7 12.O-O hxg5 13.Bxg5 Be7 14.Be3 Qc7 15.Ncb5 Qb8 16.h3 a6 17.Nc3 Qc7 18.Nb3 O-O-O 19.Na4 d4 20.Bf4 Bb4 21.c3 dxc3 22.bxc3 Ba3 23.Qe3 f6 24.Nb6+ Kb8 25.Nc5 Bxc5 26.Qxc5 Na7 27.Qe3 Bc6 28.Nc4 Rhg8 29.g4 Qh7 30.Bh2 Rd5 31.Rxf6 Qc2 32.Bxe5+ 1-0

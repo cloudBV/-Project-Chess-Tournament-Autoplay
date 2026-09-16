@@ -1,0 +1,14 @@
+[Event "Round 5: Hozda, Max - Vitak, Jiri"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-5/cQk1QlWD/AS3T6XkU"]
+[Date "2026.06.23"]
+[Round "5.1"]
+[White "Hozda, Max"]
+[Black "Vitak, Jiri"]
+[Result "1-0"]
+[WhiteElo "2237"]
+[BlackElo "2373"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 Bg7 4.e4 d6 5.Bd3 O-O 6.O-O c5 7.dxc5 dxc5 8.Re1 Nc6 9.Bf1 Qc7 10.c3 Rd8 11.Qc2 b6 12.a4 Nh5 13.g3 Bg4 14.Bg2 Rac8 15.Nc4 Qd7 16.Ne3 Nd4 17.cxd4 cxd4 18.Qb3 dxe3 19.Bxe3 Be6 20.Qa3 Rc2 21.e5 Bg4 22.Qb3 Rcc8 23.Ng5 Qe8 24.h3 Bd7 25.g4 Bxe5 26.gxh5 h6 27.Nf3 Be6 28.Qb5 Qxb5 29.axb5 Bxb2 30.Rxa7 Rd5 31.hxg6 Rxb5 32.gxf7+ Kxf7 33.Nd4 Bxd4 34.Bxd4 Rg8 35.Kh2 Rbg5 36.Bf3 b5 37.Be3 Re5 38.Rb7 Bc4 39.Rd1 Be6 40.Rd4 Rc8 41.Rf4+ Ke8 42.Rh4 Rc2 43.Bd4 Rc4 44.Bxe5 Rxh4 45.Bg2 b4 46.f4 b3 47.Kg3 Rh5 48.h4 1-0

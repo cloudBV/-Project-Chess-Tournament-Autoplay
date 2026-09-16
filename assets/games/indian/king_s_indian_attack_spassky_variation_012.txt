@@ -1,0 +1,14 @@
+[Event "Round 3: Davies, Nigel R - Cave, Iwan"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-3/AvsFowvJ/xul2EgtR"]
+[Date "2026.07.08"]
+[Round "3.3"]
+[White "Davies, Nigel R"]
+[Black "Cave, Iwan"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2097"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.b3 Be7 6.c4 b4 7.d3 d6 8.e4 c5 9.Nbd2 O-O 10.Bb2 Nbd7 11.Re1 Re8 12.d4 cxd4 13.Nxd4 Nc5 14.Qc2 Qb6 15.Nf1 a5 16.Rad1 Red8 17.h3 h6 18.g4 a4 19.Ng3 axb3 20.axb3 Ra2 21.Re2 Nfd7 22.Qb1 Rda8 23.Bc1 Qa5 24.Be3 Bh4 25.Kh2 Ra1 26.Qxa1 Qxa1 27.Rxa1 Rxa1 28.Nb5 Rd1 29.Rd2 Rxd2 30.Bxd2 Bxg3+ 31.Kxg3 Bxe4 32.Bxb4 Bxg2 33.Kxg2 d5 34.cxd5 exd5 35.Bxc5 Nxc5 36.Nd4 Nd3 37.Kf3 g6 38.Nc6 Kf8 39.Ke3 Nc5 40.b4 Ne6 41.b5 Ke8 42.b6 d4+ 43.Nxd4 Nc5 44.Nc6 Kd7 45.Ne5+ Ke6 46.Kd4 Nb3+ 47.Kc4 Na5+ 48.Kb5 Nb7 49.Nd3 Kd5 50.Ka6 Nd6 51.b7 Nxb7 52.Kxb7 Ke4 53.Ne1 f5 54.gxf5 Kxf5 55.Kc6 Ke4 56.Kd6 g5 57.Ke6 h5 58.Kf6 g4 59.h4 1-0

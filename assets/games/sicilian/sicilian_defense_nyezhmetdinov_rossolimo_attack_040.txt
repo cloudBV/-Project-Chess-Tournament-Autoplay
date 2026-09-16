@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.11"]
+[White "Bjornstad, Hallvard Foss"]
+[Black "Digernes, Magnus"]
+[Result "1-0"]
+[WhiteElo "2065"]
+[BlackElo "2023"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.c3 Nge7 6.d4 cxd4 7.cxd4 exd4 8.Nxd4 a6 9.Bxc6 dxc6 10.Nc3 O-O 11.Be3 c5 12.Nf3 Nc6 13.h3 Re8 14.Qd2 Be6 15.Rfd1 Bf8 16.Na4 Qxd2 17.Rxd2 c4 18.Nb6 Rad8 19.Rxd8 Rxd8 20.Ng5 Nd4 21.Nxe6 fxe6 22.Nxc4 b5 23.Ne5 Nc2 24.Bb6 Rc8 25.Rc1 Bd6 26.Nd3 Rc6 27.Bc5 1-0

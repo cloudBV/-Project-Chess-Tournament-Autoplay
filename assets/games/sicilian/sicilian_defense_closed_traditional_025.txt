@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.2"]
+[White "Rozanski, Mateusz"]
+[Black "Butkiewicz, Jan"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2197"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 Nxb5 5.Nxb5 d6 6.d4 a6 7.Nc3 cxd4 8.Qxd4 e5 9.Qd3 Be6 10.O-O Be7 11.Rd1 Qc7 12.Bg5 Rd8 13.Rd2 Bxg5 14.Nxg5 Nf6 15.Rad1 Bg4 16.Nf3 Rd7 17.h3 Be6 18.Qe3 h6 19.Nh4 O-O 20.g4 Rfd8 21.Qf3 b5 22.a3 Qc6 23.Nf5 Bxf5 24.Qxf5 a5 25.h4 b4 26.axb4 axb4 27.Nd5 Nxd5 28.exd5 Qc4 29.b3 Qc3 30.g5 g6 31.Qe4 h5 32.Re2 Rc7 33.Kg2 Ra8 34.f4 Ra2 35.Rd3 Qc5 36.Rdd2 Ra1 37.Re3 Rc1 38.fxe5 dxe5 39.d6 Rxc2 40.Ree2 Rxd2 41.Rxd2 Rd7 42.Rd5 Qc3 43.Rd3 Qc2+ 44.Kh3 Kh7 45.Qd5 e4 46.Re3 Qf2 47.Rxe4 Qf3+ 48.Kh2 Ra7 0-1

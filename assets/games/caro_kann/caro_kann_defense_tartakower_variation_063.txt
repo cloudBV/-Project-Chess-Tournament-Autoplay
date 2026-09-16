@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.10"]
+[White "Vykouk, Jan"]
+[Black "Sevcikova, Lucia"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2130"]
+[ECO "B15"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Qc7 10.h3 Nd7 11.c4 b6 12.Re1 Nf8 13.Qd2 Ng6 14.Nc3 f5 15.c5 Bh2+ 16.Kh1 f4 17.Bxg6 hxg6 18.d5 fxe3 19.d6 Qd8 20.Rxe3 Rxe3 21.Qxe3 bxc5 22.Rd1 Bxd6 23.Ne4 Be6 24.Rxd6 Qb6 25.Ng5 Bxa2 26.Qe7 Rf8 27.Kh2 Bd5 28.h4 Qb8 29.f3 Re8 30.Qd7 f6 31.Ne4 Bxe4 32.fxe4 Rxe4 33.Kh3 Re3+ 34.g3 Qb3 35.Qg4 Qf7 36.Kg2 f5 37.Qxg6 Qxg6 38.Rxg6 Re2+ 39.Kf3 Rxb2 40.Rxc6 Rb5 41.Kf4 a5 42.Kxf5 a4 43.Kg6 Rb8 44.Rxc5 Rb6+ 45.Kf5 Ra6 46.Rc2 a3 47.Ra2 g6+ 48.Ke4 Kg7 49.Kd4 g5 50.hxg5 Kg6 51.Kc4 Kxg5 52.Kb4 Kg4 53.Rxa3 Rxa3 54.Kxa3 Kxg3 1/2-1/2

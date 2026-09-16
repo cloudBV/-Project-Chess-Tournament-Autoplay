@@ -1,0 +1,15 @@
+[Event "Round 5: Maruflu, Enes Yusuf - Roshantab, Sadra"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/FjFNkVsA"]
+[Date "2026.07.16"]
+[Round "5.17"]
+[White "Maruflu, Enes Yusuf"]
+[Black "Roshantab, Sadra"]
+[Result "1-0"]
+[WhiteElo "2204"]
+[BlackElo "2040"]
+[ECO "E97"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4 Nd7 10.a4 a5 11.bxa5 f5 12.Ba3 Nc5 13.Nd2 g5 14.Bxc5 dxc5 15.Nb3 Rf6 16.exf5 Nxf5 17.Ne4 Rg6 18.Nexc5 g4 19.g3 Qg5 20.Kg2 Qh5 21.h4 gxh3+ 22.Kh2 Qg5 23.Ne4 Qe7 24.c5 Bd7 25.a6 bxa6 26.d6 Qf7 27.dxc7 Bc6 28.Qd8+ Qf8 29.Bc4+ Kh8 30.Ng5 Rxg5 31.Qxg5 Bh6 32.Qg4 Qf6 33.Rab1 Rf8 34.Nd2 Bxd2 35.Rb8 Nh6 36.Rxf8+ Qxf8 37.Qe6 Bb7 38.Qxe5+ Qg7 39.Qe8+ Ng8 40.Qxg8+ Qxg8 41.Bxg8 Ba5 42.Rb1 1-0

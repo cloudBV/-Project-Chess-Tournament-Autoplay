@@ -1,0 +1,15 @@
+[Event "Round 4: Aarit Kapil - Sharnarthi Shlok"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/MBDKvLFo"]
+[Date "2026.07.06"]
+[Round "4.17"]
+[White "Aarit Kapil"]
+[Black "Sharnarthi Shlok"]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2134"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 e6 4.c4 b6 5.Be2 Bb7 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.Nxd4 Ne4 10.Nd2 Bf6 11.Nxe4 Bxe4 12.Bf3 Bxf3 13.Qxf3 Nc6 14.Nxc6 dxc6 15.Rad1 Bxb2 16.Rxd8 Rfxd8 17.Qxc6 Ba3 18.g3 Bc5 19.Kg2 a5 20.Rd1 g6 21.Rd7 h5 22.Rc7 Rab8 23.Qf3 Rf8 24.Qf6 Rbc8 25.Rd7 a4 26.h4 Bb4 27.f4 Rc5 28.e4 b5 29.Rb7 a3 30.Rxb5 Rxb5 31.cxb5 Rc8 32.b6 Rb8 33.Qd4 Bf8 34.Kf3 Kh7 35.Ke2 Kg8 36.Kd3 Be7 37.e5 Rd8 38.b7 1-0

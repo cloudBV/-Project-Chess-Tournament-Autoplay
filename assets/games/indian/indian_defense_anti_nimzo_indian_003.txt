@@ -1,0 +1,15 @@
+[Event "Round 8: Crevatin, Leo - Sanchez, Sebastian Felipe"]
+[Site "https://lichess.org/broadcast/v-magistral-internacional-ciudad-de-sant-joan-de-alacant/round-8/cMuKDsu4/7io7evvl"]
+[Date "2026.06.25"]
+[Round "8.1"]
+[White "Crevatin, Leo"]
+[Black "Sanchez, Sebastian Felipe"]
+[Result "1/2-1/2"]
+[WhiteElo "2242"]
+[BlackElo "2396"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Nc6 5.Bg2 Bd6 6.O-O O-O 7.e3 b6 8.Nbd2 Bb7 9.Qe2 Ne7 10.b3 a5 11.a3 c5 12.Bb2 a4 13.dxc5 bxc5 14.e4 Nxe4 15.Nxe4 dxe4 16.Ng5 Nf5 17.Nxe4 Bxe4 18.Bxe4 axb3 19.Bxa8 Qxa8 20.Rfd1 Be7 21.Rd3 Rb8 22.Qf3 Qxf3 23.Rxf3 Bf6 24.Bxf6 gxf6 25.Rb1 Nd4 26.Rd3 e5 27.Kf1 f5 28.Ke1 e4 29.Rc3 Kg7 30.Kd1 Kf6 31.Re3 Ra8 32.Rexb3 Nxb3 33.Rxb3 Ra4 34.Rb6+ Ke5 35.Rh6 Rxa3 36.Rxh7 Ra2 37.Ke1 Ra1+ 38.Ke2 Ra2+ 39.Ke1 Kd4 40.Rxf7 Kd3 41.Rd7+ Kxc4 42.h4 Kb4 43.h5 e3 44.fxe3 Rh2 45.Rd5 c4 46.Rxf5 c3 47.Kd1 Kc4 48.Rf8 Kd3 49.Rd8+ Kxe3 50.Re8+ Kf3 51.Rc8 Kxg3 52.Rxc3+ 1/2-1/2

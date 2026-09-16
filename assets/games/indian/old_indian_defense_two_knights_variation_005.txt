@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.14"]
+[Round "6.3"]
+[White "Sirius 3bedea6e"]
+[Black "Clockwork 20260705-7f4099f"]
+[Result "1/2-1/2"]
+[WhiteElo "3452"]
+[BlackElo "3354"]
+[ECO "A54"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 e4 5.Ng5 Bf5 6.g4 Bxg4 7.Bg2 Bf5 8.Ngxe4 Nxe4 9.Nxe4 Nc6 10.O-O Qd7 11.f4 Bxe4 12.Bxe4 Be7 13.Bg2 Bf6 14.Be3 Ne7 15.Bf2 Ng6 16.Bg3 h5 17.Qd3 Rb8 18.Be1 O-O 19.Rd1 b5 20.cxb5 Rxb5 21.b3 d5 22.Bh3 Qc6 23.e3 Re8 24.Kh1 Re7 25.Bf2 Qe8 26.Rc1 Nh4 27.Rg1 Rb6 28.Qe2 g6 29.Qxh5 Rxe3 30.Bxe3 Qxe3 31.Qg4 Qxd4 32.f5 Qxg4 33.Bxg4 Bd4 34.Rgf1 c5 35.Rce1 Kg7 36.fxg6 Nxg6 37.Re8 Ra6 38.a4 Rd6 39.Bh5 Rb6 40.Ra8 Rb7 41.a5 Kh6 42.Bxg6 fxg6 43.Rd8 Rxb3 44.Rxd5 Ra3 45.Rf4 Kg7 46.h4 Kh6 47.Rg4 Bf6 48.Rxc5 Bd8 49.Rd5 Bxa5 50.Rd6 Kh5 51.Rgxg6 Kxh4 52.Rg8 Kh5 53.Rd1 Kh6 54.Kg2 Ra2+ 55.Kf3 Kh7 56.Rdg1 Bc3 57.R8g3 Ra6 58.Ke4 Bh8 59.Rh1+ Rh6 60.Rxh6+ Kxh6 61.Rh3+ Kg7 62.Kf5 Kg8 63.Rd3 Bb2 64.Rd8+ Kg7 65.Rd7+ Kf8 66.Rxa7 Bc3 67.Ke6 Kg8 68.Rb7 Kf8 69.Rb3 Bd4 70.Rb7 Kg8 71.Rb4 Ba1 72.Ra4 Bc3 73.Ra7 Bd4 74.Rd7 Bb2 75.Rd2 Bc3 76.Rd3 Bb4 77.Kf6 Ba5 78.Rb3 Bd8+ 79.Kf5 Ba5 80.Kg6 Kf8 81.Kf6 Bd8+ 82.Ke6 Kg7 83.Rb1 Kg6 84.Rg1+ Kh5 85.Kf5 Kh4 86.Rg4+ Kh3 87.Kf4 Kh2 88.Kf3 Kh1 89.Rd4 Bf6 90.Rd5 Kh2 91.Rd6 Be5 92.Rg6 Bd4 93.Ra6 Kg1 94.Rg6+ Kh1 95.Rg5 Bb6 96.Re5 Bd4 97.Re6 Kg1 98.Ra6 Be5 99.Rc6 Bd4 100.Rg6+ Kh2 101.Ra6 Bc5 102.Rh6+ Kg1 103.Re6 Kh2 104.Rc6 Bd4 105.Rd6 Ba7 106.Rd7 Bb6 107.Re7 Bd4 108.Re2+ Kg1 109.Rg2+ Kh1 1/2-1/2

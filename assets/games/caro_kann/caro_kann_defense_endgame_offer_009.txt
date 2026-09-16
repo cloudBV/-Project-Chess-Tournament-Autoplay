@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.04.27"]
+[Round "9.1"]
+[White "Plat, Vojtech"]
+[Black "Castillo Dalmau, Albert"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2329"]
+[ECO "B10"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 c5 5.d4 cxd4 6.Nxd4 e6 7.c4 Nc6 8.cxd5 Qxd5 9.Nxc6 Qxc6 10.Nc3 Bb4 11.Bd2 Bxc3 12.Bxc3 Bd7 13.Qd4 Ne7 14.Bd3 Qd5 15.f3 Qxd4 16.Bxd4 Bc6 17.Bc5 h5 18.Kf2 a6 19.Rhd1 Bd5 20.Be2 Nc6 21.f4 O-O-O 22.b4 g5 23.fxg5 Rhg8 24.h4 Nxe5 25.Be7 Rd7 26.Bf6 Ng4+ 27.Bxg4 hxg4 28.Rac1+ Rc7 29.h5 Be4 30.Ke3 Bf5 31.Kf4 Rxc1 32.Rxc1+ Kd7 33.Ke5 Rc8 34.Rxc8 Kxc8 35.Kd6 g3 36.Ke7 Be4 37.Be5 Bxg2 38.g6 fxg6 39.h6 Be4 40.h7 1-0

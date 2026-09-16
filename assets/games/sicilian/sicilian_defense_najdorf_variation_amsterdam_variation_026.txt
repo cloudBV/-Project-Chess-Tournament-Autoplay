@@ -1,0 +1,14 @@
+[Event "Round 7: Bergman, Nils - Ten Kate, Gustav"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-7/tnq1pFFy/kOXQSGGr"]
+[Date "2026.07.23"]
+[Round "7.15"]
+[White "Bergman, Nils"]
+[Black "Ten Kate, Gustav"]
+[Result "1-0"]
+[WhiteElo "2137"]
+[BlackElo "2019"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Qc7 9.Bd3 Be7 10.O-O O-O 11.Kh1 Nc5 12.Qe1 Re8 13.Bd2 Be6 14.fxe5 dxe5 15.Qg3 Bd6 16.Bg5 Nh5 17.Qh4 g6 18.g4 Nf4 19.Bxf4 Nxd3 20.Bg5 Nf4 21.Bf6 Be7 22.Nxe5 Qxe5 23.Bxe7 Rxe7 24.Qxe7 Rc8 25.Rad1 Kg7 26.g5 Nh5 27.Rxf7+ Kg8 28.Rdf1 Nf6 29.R7xf6 1-0

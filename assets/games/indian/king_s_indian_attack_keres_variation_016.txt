@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "5.7"]
+[White "Majcher, Igor"]
+[Black "Masnyak, Yuriy"]
+[Result "*"]
+[WhiteElo "2116"]
+[BlackElo "2025"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.O-O Nd7 5.c4 e6 6.d3 Ngf6 7.Qc2 Be7 8.h3 Bxf3 9.Bxf3 dxc4 10.dxc4 Qc7 11.Bg2 h5 12.h4 Bc5 13.Bf4 e5 14.Bd2 Ng4 15.Nc3 O-O-O 16.Ne4 Be7 17.b4 Nb6 18.a4 Rd4 19.c5 Nd7 20.e3 Rxd2 21.Qxd2 f6 22.Nd6+ Kb8 23.Rfd1 Rd8 24.Qc2 g5 25.Nf5 Bf8 26.Ra3 gxh4 27.Nxh4 Qc8 28.Rad3 e4 29.Bxe4 Nge5 30.Rd4 Qc7 31.Bf5 b6 32.cxb6 axb6 33.Bxd7 Rxd7 34.Rxd7 Nxd7 35.Qh7 Kc8 36.Nf5 Bxb4 37.Qg8+ Kb7 38.Rb1 Bc5 39.Qf7 Ka6 40.Qc4+ Kb7 41.a5 Ne5 42.axb6 Bxb6 43.Qf4 Qd7 44.Nd4 h4 45.Nb3 Qd5 46.e4 Qc4 47.Na5+ Ka6 48.Nxc4 Nxc4 49.Qc1 Ne5 50.Qa3+ Kb7 51.Qb2 Nc4 52.Qxf6 hxg3 53.Rxb6+ Kxb6 54.Qd4+ Kb5 55.fxg3 c5 56.Qc3 Nd6 57.Qd3+ Kc6 58.Qd5+ Kc7 59.Qxc5+ Kd7 60.Qd5 Ke7 61.e5 *

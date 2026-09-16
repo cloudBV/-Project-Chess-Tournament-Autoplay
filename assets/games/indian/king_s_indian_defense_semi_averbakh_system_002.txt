@@ -1,0 +1,14 @@
+[Event "Round 9: Maltezeanu, Stefan - Roebers, Jan"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-9/b3iktfM7/M9fK4PXD"]
+[Date "2026.07.03"]
+[Round "9.10"]
+[White "Maltezeanu, Stefan"]
+[Black "Roebers, Jan"]
+[Result "1-0"]
+[WhiteElo "2199"]
+[BlackElo "2101"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Be2 O-O 6.Be3 Nc6 7.d5 Ne5 8.f4 Neg4 9.Bd2 h5 10.h3 Nh6 11.Nf3 c6 12.Be3 cxd5 13.cxd5 e6 14.dxe6 Bxe6 15.Ng5 Re8 16.Qd2 d5 17.e5 Nh7 18.Nxe6 fxe6 19.g4 h4 20.O-O-O Nf7 21.g5 b5 22.Bxb5 Re7 23.Kb1 Rb8 24.Bd3 Nh8 25.Bc5 Reb7 26.b3 Bf8 27.Na4 Qd7 28.Ka1 Rc7 29.Rc1 Bg7 30.Bd6 Rxc1+ 31.Rxc1 Rc8 32.Rxc8+ Qxc8 33.Qc2 Qe8 34.Qc7 Nf8 35.Nc3 Nf7 36.Bb5 1-0

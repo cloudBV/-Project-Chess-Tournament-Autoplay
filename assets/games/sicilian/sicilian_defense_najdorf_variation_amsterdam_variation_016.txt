@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.14"]
+[White "Martin Cabeza, Nicolas"]
+[Black "Hernandez, Cristian Andres"]
+[Result "1/2-1/2"]
+[WhiteElo "2183"]
+[BlackElo "2348"]
+[ECO "B93"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Be7 8.fxe5 dxe5 9.Qxd8+ Bxd8 10.Be3 O-O 11.Be2 Nbd7 12.O-O-O b5 13.Bf3 Bb7 14.g4 b4 15.Na4 Bc6 16.Nac5 Bb6 17.Rhe1 Rfd8 18.g5 Ne8 19.Nxd7 Bxe3+ 20.Rxe3 Rxd7 21.Rxd7 Bxd7 22.Nc5 Bb5 23.Be2 Nd6 24.Bxb5 Nxb5 25.Nd3 a5 26.Nxe5 Nd6 27.Nc6 Ra6 28.Ne7+ Kf8 29.Nf5 Nb7 30.Rd3 g6 31.Nh6 Nc5 32.Rf3 f6 33.gxf6 Nxe4 34.Ng4 Re6 35.c3 bxc3 36.bxc3 h5 37.Nf2 Nxf6 38.Kc2 Kg7 39.Kd3 Rd6+ 40.Kc4 g5 41.Kb5 Rd2 42.c4 g4 43.Rf4 Rxa2 44.c5 Nd5 45.Rf5 Ne7 46.Rxh5 Rxf2 47.Rg5+ Kf6 48.Rxg4 Rxh2 49.Kxa5 Rb2 50.Ka4 Nc6 51.Re4 Kf5 52.Re8 Rb4+ 53.Ka3 Rb5 54.Ka4 Rxc5 55.Kb3 Ne5 56.Kb4 Rc7 57.Rh8 Ke4 58.Rh4+ Kd5 59.Kb3 Nf3 60.Rh8 Nd4+ 61.Kb2 Rc2+ 62.Ka3 Rc6 63.Kb4 Rc4+ 64.Ka3 Rc3+ 65.Ka2 Nc6 66.Rh4 Nd4 67.Rh8 Rc6 68.Rh1 Rg6 69.Rh8 Kc4 70.Rc8+ Kb4 71.Kb2 Rg2+ 72.Kc1 Kb3 73.Kd1 Nc2 74.Rc7 Na3 75.Ke1 Nc4 76.Kf1 Rd2 77.Ke1 Rh2 78.Kf1 Kc3 79.Rd7 Nd2+ 80.Kg1 Nf3+ 81.Kf1 Nd4 82.Rd8 Kd3 83.Ra8 Nf5 84.Re8 Ne3+ 85.Kg1 Rg2+ 86.Kh1 Rg5 87.Kh2 Ke2 88.Kh3 Kf3 89.Kh4 Rf5 90.Rh8 Ng2+ 91.Kh3 Nf4+ 92.Kh2 Ra5 93.Rf8 Rg5 94.Rf7 Rg4 95.Rf8 Kf2 96.Rh8 Ng6 97.Rh7 Rg2+ 98.Kh1 Rg4 99.Rh2+ Kf1 100.Rg2 Rh4+ 101.Rh2 Re4 102.Ra2 Nf4 103.Ra8 Kf2 104.Rf8 Kf3 105.Kh2 Re5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: So, Wesley - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-3/oGKz2wxm/hfQrQB8D"]
+[Date "2026.07.05"]
+[Round "3.5"]
+[White "So, Wesley"]
+[Black "Woodward, Andy"]
+[Result "0-1"]
+[WhiteElo "2772"]
+[BlackElo "2496"]
+[ECO "B54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Prins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 d5 7.Bg5 d4 8.c3 Nc6 9.Bb5 h6 10.Bxf6 Qxf6 11.cxd4 Bb4+ 12.Nc3 O-O 13.O-O Nxd4 14.Nd5 Qd6 15.Nxb4 Qxb4 16.Nxd4 Rd8 17.Qe2 Rxd4 18.a3 Qc5 19.Kh1 Be6 20.Rac1 Qd6 21.Rfd1 Rd8 22.Ba4 Qb6 23.Rxd4 Rxd4 24.Qb5 Qd6 25.Bb3 Rd2 26.h4 Bxb3 27.Qxb3 Qg6 28.g4 Qf6 0-1

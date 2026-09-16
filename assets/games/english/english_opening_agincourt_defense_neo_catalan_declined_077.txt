@@ -1,0 +1,15 @@
+[Event "Round 11: Khademi, Mohammad Miran - Tahmasebi, Hamidreza"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-11/Xwlna9Hz/InqZd0et"]
+[Date "2026.07.18"]
+[Round "11.3"]
+[White "Khademi, Mohammad Miran"]
+[Black "Tahmasebi, Hamidreza"]
+[Result "1-0"]
+[WhiteElo "2127"]
+[BlackElo "2375"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.b3 a5 7.d4 a4 8.Ba3 Bxa3 9.Nxa3 Qe7 10.c5 Nc6 11.Nb5 Ra5 12.Nc3 axb3 13.axb3 b6 14.Na4 Nd7 15.cxb6 cxb6 16.Qd2 Bb7 17.Rac1 Raa8 18.Rc2 Na5 19.Rc7 Rfc8 20.Rxd7 Qxd7 21.Nxb6 Qb5 22.Nxa8 Rxa8 23.Rb1 Nc4 24.Qd3 Na3 25.Qxb5 Nxb5 26.Bf1 Ra3 27.b4 Kf8 28.e3 Nc3 29.Rb2 Ke7 30.b5 Na4 31.Rc2 Nc3 32.Ne5 Bc8 33.b6 Bb7 34.Nd3 Kd6 35.Nc5 Kc6 36.Rb2 g5 37.Ba6 Bxa6 38.Nxa6 Ra1+ 39.Kg2 Rb1 40.Nb8+ Kb7 41.Rxb1 Nxb1 42.Nd7 Nd2 43.Ne5 f6 44.Nd7 Ne4 45.f3 Nc3 46.Nxf6 h6 47.Ng4 h5 48.Nf6 Nd1 49.e4 Ne3+ 50.Kf2 Nc2 51.exd5 Nxd4 52.Ke3 Nf5+ 53.Ke4 Ng7 54.dxe6 Nxe6 55.Nxh5 Kxb6 56.Ke5 Nc5 57.Kf5 Kc6 58.Nf6 Nd3 59.Ne4 Kd7 60.Nxg5 Ke7 61.h4 Kf8 62.h5 Kg7 63.Ne6+ Kh6 64.g4 Nc1 65.Nf4 Nb3 66.g5+ Kh7 67.Ne6 Nd2 68.g6+ Kh6 69.g7 Kh7 70.h6 Nxf3 71.Ng5+ 1-0

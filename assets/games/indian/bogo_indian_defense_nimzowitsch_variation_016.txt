@@ -1,0 +1,15 @@
+[Event "Round 5: Jiang, Liu - Baisalbekov, Maksat"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-5/lc7iCFEc/DbWiKASt"]
+[Date "2026.07.19"]
+[Round "5.13"]
+[White "Jiang, Liu"]
+[Black "Baisalbekov, Maksat"]
+[Result "1/2-1/2"]
+[WhiteElo "2323"]
+[BlackElo "2053"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Qxd2 Nc6 7.Nc3 d5 8.Bg2 dxc4 9.Ne5 Nxe5 10.dxe5 Nd7 11.Qd4 O-O 12.O-O Qc5 13.Qxc5 Nxc5 14.Rfc1 Bd7 15.Ne4 Nxe4 16.Bxe4 c6 17.Rxc4 Rfd8 18.f4 Be8 19.Kf2 Kf8 20.Ke3 h5 21.Rac1 Rac8 22.h3 Rc7 23.g4 hxg4 24.hxg4 g6 25.Rd4 Rdc8 26.f5 gxf5 27.gxf5 exf5 28.Bxf5 Rb8 29.Rh1 Ke7 30.Rh8 Rd8 31.Rd6 c5 32.Kf4 Rc6 33.Rxd8 Kxd8 34.Be4 Rb6 35.Bd5 Ke7 36.b3 Bc6 37.e4 Bd7 38.Rb8 Be6 39.Rxb7+ Rxb7 40.Bxb7 c4 41.Bd5 cxb3 42.axb3 Bd7 43.Ke3 a5 44.Kd4 Be8 45.Kc5 Bd7 46.Bc4 a4 47.b4 a3 1/2-1/2

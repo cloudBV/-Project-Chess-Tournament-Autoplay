@@ -1,0 +1,14 @@
+[Event "Round 4: Cieslak, Patryk - Nepomniachtchi, Ian"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/FbfuDYOs"]
+[Date "2026.07.21"]
+[Round "4.6"]
+[White "Cieslak, Patryk"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteElo "2498"]
+[BlackElo "2735"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nf5 d5 7.exd5 Bxf5 8.dxc6 Qxd1+ 9.Nxd1 bxc6 10.Ne3 Be6 11.Nc4 Nd7 12.Be3 f6 13.O-O-O Bc5 14.Na5 Rc8 15.Bxc5 Nxc5 16.Bc4 Ke7 17.Bxe6 Nxe6 18.Rhe1 g5 19.Re4 h5 20.Rc4 c5 21.Ra4 Rhd8 22.Rxd8 Nxd8 23.Nc4 Nc6 24.Ra6 Rc7 25.Ne3 Ke6 26.c4 e4 27.Nd5 Rc8 28.b4 cxb4 29.Nxb4 Kd7 30.Nxc6 Rxc6 31.Rxa7+ Kd6 32.Ra4 Kc5 33.Kd2 Kd4 34.g3 f5 35.Ra5 Rxc4 36.Rxf5 Ra4 37.Rxg5 Rxa2+ 38.Ke1 h4 39.Rg8 h3 40.Rd8+ Kc3 41.Rc8+ Kd3 42.Rd8+ Kc3 43.Kf1 e3 44.Rc8+ Kd3 45.Rd8+ Kc3 46.fxe3 Rxh2 47.Kg1 Rg2+ 48.Kh1 Rxg3 49.Kh2 Rxe3 50.Rh8 Kc2 51.Rxh3 Rxh3+ 52.Kxh3 1/2-1/2

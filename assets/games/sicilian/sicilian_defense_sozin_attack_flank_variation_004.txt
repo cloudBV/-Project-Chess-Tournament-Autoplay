@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.18"]
+[White "Garcia Brion, Eduardo"]
+[Black "Vergara Jofre, Felipe"]
+[Result "0-1"]
+[WhiteElo "2173"]
+[BlackElo "2304"]
+[ECO "B87"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 b5 8.Be3 Be7 9.Qe2 O-O 10.O-O-O b4 11.Na4 Qa5 12.c3 Bd7 13.cxb4 Qxb4 14.Nc3 a5 15.Ndb5 Rc8 16.Kb1 Nxe4 17.Rd4 Nxc3+ 18.Nxc3 Qb7 19.Bd2 Nc6 20.Rg4 Ne5 21.Rg3 a4 22.f4 Ng6 23.Bc2 Bf6 24.h4 Rab8 25.b3 axb3 26.Bxb3 Qa7 27.h5 Nxf4 28.Bxf4 Bxc3 29.Rxc3 Rxc3 30.Bc1 Bb5 0-1

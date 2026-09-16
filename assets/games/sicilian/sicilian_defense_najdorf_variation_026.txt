@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/KgU9ckDG"]
+[Date "2026.07.04"]
+[Round "8.9"]
+[White "Debmisra, Ariv"]
+[Black "Obrycki, Tomasz"]
+[Result "0-1"]
+[WhiteElo "2094"]
+[BlackElo "2236"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.O-O Qa5 11.Nd5 Qd8 12.Qc3 e6 13.Bxf6 gxf6 14.Ne3 Qc7 15.f4 Be7 16.Qd2 Nc5 17.Bd3 Bd7 18.Nc4 b5 19.Ne3 Rc8 20.Qe2 Qb6 21.f5 Na4 22.fxe6 fxe6 23.Nb3 h5 24.Rbe1 Nc3 25.Qf3 Nxa2 26.Kh1 Nb4 27.Nd5 Nxd5 28.exd5 e5 29.Qg3 Kd8 30.Qg7 Rf8 31.Qh7 a5 32.Ra1 a4 33.Nd2 Qd4 34.Ne4 f5 35.Ng3 e4 36.Rae1 Qxd5 37.Nxh5 Qg8 38.Qh6 Qh8 39.Qg6 Be8 40.Qe6 Qxh5 41.Bxe4 fxe4 42.Rxf8 Bxf8 43.Rxe4 Qf7 0-1

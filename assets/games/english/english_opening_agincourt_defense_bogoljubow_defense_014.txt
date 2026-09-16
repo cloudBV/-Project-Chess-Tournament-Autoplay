@@ -1,0 +1,14 @@
+[Event "Round 2: Svane, Rasmus - Hagner, Bennet"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-2/Myf83mrs/NVED02fV"]
+[Date "2026.07.18"]
+[Round "2.5"]
+[White "Svane, Rasmus"]
+[Black "Hagner, Bennet"]
+[Result "1/2-1/2"]
+[WhiteElo "2624"]
+[BlackElo "2451"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Bd6 5.O-O O-O 6.d4 h6 7.Qc2 b6 8.cxd5 exd5 9.Nc3 Re8 10.Rd1 Bb7 11.Nh4 a6 12.Nf5 Bf8 13.Bf4 Nbd7 14.Rac1 Rc8 15.Qb3 c6 16.Nd6 Bxd6 17.Bxd6 Ne4 18.Nxe4 dxe4 19.Bh3 Ra8 20.d5 cxd5 21.Bc7 Qe7 22.Bxb6 Nxb6 23.Qxb6 e3 24.f3 Bc8 25.Bxc8 Rexc8 26.Rxc8+ Rxc8 27.Rxd5 Rc1+ 28.Kg2 Rc2 29.Qxa6 Rxb2 30.Rd4 Rd2 31.Re4 Qc5 32.a4 Kh7 33.h4 Rd1 34.Qb5 Qxb5 35.axb5 Rb1 36.Re5 f6 37.Rc5 Rb2 38.f4 Rxe2+ 39.Kf3 Re1 40.h5 Kg8 41.Rc8+ Kh7 42.Rc5 Kg8 43.f5 Kf8 44.b6 Rb1 45.Rc8+ Ke7 46.Rc7+ Kd6 47.Rxg7 Rxb6 48.Rh7 Rb3 49.g4 e2+ 50.Kxe2 Rg3 51.Rxh6 Rxg4 52.Kf3 Rh4 53.Rxf6+ Ke5 54.Rf8 Rxh5 55.Kg4 Rh1 56.Rf7 Rg1+ 57.Kh5 Rh1+ 58.Kg6 Rg1+ 59.Kh6 Rh1+ 60.Kg7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/HRfdDDoV"]
+[Date "2026.07.12"]
+[Round "7.3"]
+[White "Ter-Avetisjana, Agnesa Stepania"]
+[Black "Sivuk, Vitaly"]
+[Result "0-1"]
+[WhiteElo "2246"]
+[BlackElo "2510"]
+[ECO "B51"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.c3 e5 7.Bc2 Be7 8.d4 O-O 9.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8 Rxd8 12.a4 Be6 13.a5 c4 14.Be3 Nd7 15.Rd1 Rac8 16.Kf1 Kf8 17.Na3 Bc5 18.Ba4 Bxe3 19.Bxd7 Rxd7 20.Rxd7 Bxd7 21.fxe3 Ba4 22.Re1 Rc5 23.Re2 Bc6 24.Rd2 Ke7 25.Kf2 Bxe4 26.g4 f6 27.h4 g6 28.Kg3 h6 29.Rd1 Bd5 30.g5 hxg5 31.hxg5 f5 32.Rd2 Rxa5 33.Rh2 Rc5 34.Rh8 Be6 35.Rb8 Bc8 0-1

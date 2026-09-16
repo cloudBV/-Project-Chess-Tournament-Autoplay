@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.5"]
+[White "Pasztor, Balazs"]
+[Black "Ronai, Akos Balazs"]
+[Result "1-0"]
+[WhiteElo "2404"]
+[BlackElo "2209"]
+[ECO "B32"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be7 7.Bd3 f5 8.exf5 Nf6 9.O-O O-O 10.Bg5 a6 11.N5c3 Nd4 12.Nd2 Nxf5 13.Bxf5 Bxf5 14.Bxf6 Rxf6 15.Nde4 Rg6 16.Qd5+ Be6 17.Qd3 Bf8 18.Nd5 b5 19.cxb5 axb5 20.Rfd1 Qh4 21.b3 Rh6 22.h3 Rg6 23.Ng3 Ra7 24.Rd2 Rf7 25.a4 bxa4 26.Rxa4 Qh6 27.Re4 Rxg3 28.fxg3 Bf5 29.Rd1 Qg6 30.Rde1 Bxe4 31.Rxe4 Qf5 32.b4 Ra7 33.Kh2 Ra1 34.Qe2 Rb1 35.Qa2 Qf7 36.Qxb1 Qxd5 37.b5 Qb7 38.b6 g6 1-0

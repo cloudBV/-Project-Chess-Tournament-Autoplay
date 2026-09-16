@@ -1,0 +1,15 @@
+[Event "Round 1: Asis Gargatagli, Hipolito - Garcia Gil, Javier"]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-1/zhVCSXfG/tMucAWD0"]
+[Date "2026.07.22"]
+[Round "1.5"]
+[White "Asis Gargatagli, Hipolito"]
+[Black "Garcia Gil, Javier"]
+[Result "1-0"]
+[WhiteElo "2463"]
+[BlackElo "2123"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 c5 7.Bb2 Nc6 8.e3 b6 9.Nc3 Bb7 10.cxd5 exd5 11.d4 Re8 12.dxc5 Bxc5 13.a3 Qd7 14.b4 Bf8 15.Qb3 Rad8 16.Rfd1 Qe6 17.Ne2 Bd6 18.Nc3 Be5 19.Nxe5 Nxe5 20.Nb5 Qf5 21.Bxe5 Qxe5 22.Nxa7 Ne4 23.Nb5 Re6 24.Rac1 Rf6 25.f4 Qb8 26.a4 Rc6 27.Rxc6 Bxc6 28.Nd4 Ba8 29.Nf5 Re8 30.Qb2 f6 31.Qc2 Rc8 32.Ne7+ 1-0

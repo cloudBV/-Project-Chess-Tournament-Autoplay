@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "3.2"]
+[White "Cnejev, Vladimir-Alexandru"]
+[Black "Panda, Barnabas"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2046"]
+[ECO "C02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 Rc8 10.a3 a6 11.b4 dxc3 12.Nxc3 Nxb4 13.Be3 Qd8 14.axb4 Rxc3 15.Qd2 Rc8 16.Rab1 Bb5 17.Bxb5+ axb5 18.Qd3 Qd7 19.Nd4 Nc6 20.Nxb5 Bxb4 21.Rec1 Be7 22.h5 O-O 23.Bf4 Nb4 24.Qg3 Qxb5 25.Bh6 g6 26.hxg6 fxg6 27.Qh3 Qd7 28.Bxf8 Rxf8 29.Qc3 Nc6 30.Qb2 Qc7 31.Qxb7 Rc8 32.Rxc6 Qxc6 33.Qxe7 Re8 34.Qa7 Qc2 35.Re1 Qd2 36.Rb1 Qc2 37.Re1 Qd2 38.Rb1 Qc2 39.Qb7 Qf5 40.Re1 Rf8 41.Qb2 Qf4 42.Qe2 d4 43.g3 Qf5 44.Qd2 Rd8 45.Kg2 Rd5 46.Qb4 d3 47.Rc1 Qxe5 48.Rc8+ Kg7 49.Qf8# 1-0

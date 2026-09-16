@@ -1,0 +1,15 @@
+[Event "Round 4: Molner, Mackenzie - Korley, Kassa"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-4/U5p4vRB1/pKf6hbU6"]
+[Date "2026.07.17"]
+[Round "4.3"]
+[White "Molner, Mackenzie"]
+[Black "Korley, Kassa"]
+[Result "1/2-1/2"]
+[WhiteElo "2458"]
+[BlackElo "2425"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Knight Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.d4 b6 8.O-O Ne7 9.Re1 Nf5 10.Nbd2 Be7 11.Nf1 h5 12.Ng3 g6 13.Nxf5 gxf5 14.dxc5 bxc5 15.b4 d4 16.bxc5 dxc3 17.Nd4 c2 18.Nxc2 Qxd1 19.Rxd1 Rg8 20.g3 Ba4 21.Rd2 Bxc5 22.Ba3 Rc8 23.Bxc5 Rxc5 24.Rb1 Kf8 25.Nd4 Rxe5 26.Rb7 a5 27.f4 Rd5 28.Kf2 h4 29.Nf3 Rxd2+ 30.Nxd2 hxg3+ 31.hxg3 Bc6 32.Ra7 Bd5 33.Nf3 Bxf3 34.Kxf3 1/2-1/2

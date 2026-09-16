@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/tNDKY2B3"]
+[Date "2026.07.04"]
+[Round "8.7"]
+[White "Krysa, Leandro"]
+[Black "Alboredo, Julia"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2179"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.Nf3 d6 5.a3 Bc5 6.e3 c6 7.d4 Ba7 8.Nc3 Nd7 9.Be2 Ngf6 10.O-O O-O 11.Qc2 Re8 12.d5 e4 13.Nd4 Qc7 14.Rd1 Bxd4 15.exd4 cxd5 16.Nb5 Qc6 17.Bf4 Nf8 18.Rac1 Ng6 19.Bg3 dxc4 20.Nxd6 Rd8 21.d5 Nxd5 22.Qxc4 Be6 23.Qxe4 Nf6 24.Qxc6 bxc6 25.Rxc6 Rab8 26.Nc4 Rxd1+ 27.Bxd1 Rd8 28.Rd6 Ra8 29.Bf3 Rc8 30.Nxa5 h5 31.Nc6 Bd7 32.h4 Kf8 33.b4 Ne7 34.b5 Nf5 35.Rd3 Nxg3 36.fxg3 1-0

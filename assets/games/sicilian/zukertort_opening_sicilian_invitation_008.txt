@@ -1,0 +1,14 @@
+[Event "Round 5: Collutiis, Duilio - Maglioni, Leonardo"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-5/XlfTK1mi/NGR1X6Pu"]
+[Date "2026.07.09"]
+[Round "5.7"]
+[White "Collutiis, Duilio"]
+[Black "Maglioni, Leonardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2165"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nxc6 dxc6 6.Qxd8+ Kxd8 7.e4 Be6 8.Nd2 Bc5 9.Bc4 Ke7 10.Ke2 Nf6 11.f3 b5 12.Bxe6 Kxe6 13.a4 a6 14.Nb3 Bb6 15.Rd1 Nd7 16.Be3 Bxe3 17.Kxe3 Rhc8 18.Rd3 Ke7 19.Ke2 c5 20.Rd5 bxa4 21.Na5 f6 22.Nc4 Rab8 23.Rxa4 Nb6 24.Nxb6 Rxb6 25.b3 Rcc6 26.Kd3 Rb5 27.Kc3 h5 28.Kb2 g5 29.h4 gxh4 30.gxh4 c4 31.Rxc4 Rxc4 32.Rxb5 Rxc2+ 33.Kxc2 axb5 34.b4 1/2-1/2

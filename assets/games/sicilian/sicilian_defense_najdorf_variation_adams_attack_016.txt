@@ -1,0 +1,14 @@
+[Event "Round 9: Vairo, Rocco Enrico - Unterweger, Jonas"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/oMY1ADd5"]
+[Date "2026.07.12"]
+[Round "9.11"]
+[White "Vairo, Rocco Enrico"]
+[Black "Unterweger, Jonas"]
+[Result "1-0"]
+[WhiteElo "2083"]
+[BlackElo "2088"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 Qc7 8.a4 Be6 9.Be2 Nbd7 10.O-O Be7 11.Be3 h6 12.Nh4 Nxe4 13.Nxe4 d5 14.Nc3 d4 15.Bxd4 Bxh4 16.Be3 O-O 17.a5 Rfd8 18.Qc1 Be7 19.Na4 Bb4 20.Nb6 Rab8 21.Nxd7 Rxd7 22.Bb6 Qc6 23.c3 Bc5 24.Bxc5 Qxc5 25.b4 Qc7 26.Qe3 Rc8 27.Rac1 f6 28.Rfd1 Rxd1+ 29.Bxd1 Qc4 30.Bf3 Bd5 31.Rd1 Bxf3 32.Qxf3 Qc7 33.Rd5 Qe7 34.Qd3 Qe6 35.c4 f5 36.Rd6 Qe7 37.c5 Rf8 38.Rd7 Qf6 39.Qd5+ Kh8 40.Qxb7 e4 41.Qd5 Qc3 42.Qd4 Qe1+ 43.Kh2 Rg8 44.c6 f4 45.c7 Qc1 46.Qxe4 f3 47.Qxf3 Qc4 48.Qf7 Qh4 49.c8=Q 1-0

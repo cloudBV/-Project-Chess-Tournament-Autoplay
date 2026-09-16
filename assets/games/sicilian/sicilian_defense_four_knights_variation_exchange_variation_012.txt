@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.5"]
+[White "Rajlich, Vaclav"]
+[Black "Uhryn, Lukasz"]
+[Result "1-0"]
+[WhiteElo "2094"]
+[BlackElo "2036"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Bb4+ 11.Ke2 f5 12.exf6 Nxf6 13.Be3 Qd8 14.Nd6+ Ke7 15.c5 Nd5 16.Qd4 Qf8 17.f5 Qf6 18.Bf2 Qxd4 19.Bxd4 e5 20.Bf2 Rb8 21.Kf3 Ba5 22.b3 Bc3 23.Rd1 Rb4 24.Bc4 Nf6 25.Rd3 Bd4 26.Bxd4 exd4 27.Re1+ Kf8 28.Nxc8 1-0

@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.17"]
+[Round "2"]
+[White "Trkulja, Zoran"]
+[Black "Klukin, Kirill"]
+[Result "0-1"]
+[WhiteElo "2050"]
+[BlackElo "2400"]
+[ECO "B75"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Qd2 Nxd4 9.Qxd4 Bg7 10.Bb5+ Bd7 11.a4 O-O 12.Qd2 Be6 13.O-O a6 14.Be2 Rc8 15.a5 Nd7 16.Bh6 Qc7 17.Bxg7 Kxg7 18.f4 Bc4 19.Kh1 Bxe2 20.Qxe2 Qc4 21.Qf3 Nf6 22.h3 h4 23.Kh2 Qe6 24.Ra4 Rc5 25.Rb4 Rb8 26.e5 dxe5 27.f5 e4 28.fxe6 exf3 29.Rxf3 fxe6 30.Rxh4 Rd8 31.Re3 e5 32.Ne4 Rxc2 33.b4 Rd4 34.Nxf6 Rxh4 35.Ng4 Rxg4 36.hxg4 Kf6 37.Rb3 Kg5 38.b5 Rc5 39.bxa6 bxa6 40.Ra3 Kxg4 41.Ra4+ Kf5 42.Kg3 Rc3+ 43.Kf2 e4 44.Rd4 Rc5 45.Ra4 Rc2+ 46.Kg3 Rc3+ 47.Kf2 Kf4 48.Rb4 Rc2+ 49.Kf1 Rc5 50.Rb6 Ke3 51.Rb3+ Kd2 52.Rb2+ Ke3 53.Rb3+ Rc3 54.Rb7 Rc1# 0-1

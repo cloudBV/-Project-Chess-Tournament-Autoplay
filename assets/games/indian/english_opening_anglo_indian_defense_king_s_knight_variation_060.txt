@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-1/MSVcfeDQ/85JEQDIr"]
+[Date "2026.07.20"]
+[Round "1.16"]
+[White "Strom-Engdahl, Alexander"]
+[Black "Snedker, Oliver Kaehne"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2105"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 Be7 5.b3 O-O 6.Bb2 b6 7.cxd5 exd5 8.d4 Bb7 9.Bd3 Re8 10.O-O Nbd7 11.Rc1 Nf8 12.Ne5 c6 13.Ne2 Qd6 14.Ng3 g6 15.f4 N6d7 16.Qg4 Nf6 17.Qh3 N8d7 18.Rf3 Bf8 19.Nf5 Qe6 20.Rg3 Ne4 21.Nxd7 Nxg3 22.Nxf8 Rxf8 23.Qxg3 Kh8 24.Nh4 Rfe8 25.Re1 f5 26.Nf3 a5 27.a4 Ba6 28.Bc2 b5 29.Ne5 bxa4 30.bxa4 Kg8 31.Ba3 Rab8 32.Qg5 Bc4 33.g4 Kh8 34.gxf5 gxf5 35.Bxf5 Qg8 36.Bd6 Rbd8 37.Nxc4 Qxg5+ 38.fxg5 dxc4 39.Be5+ Kg8 40.Rc1 Rf8 41.Be6+ 1-0

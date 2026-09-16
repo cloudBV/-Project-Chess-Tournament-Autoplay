@@ -1,0 +1,14 @@
+[Event "Round 9: Carbonell Bofill, Carlos Eloy - Sriram, Jha"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-9/yz1Rzq0C/JrC08TdV"]
+[Date "2026.07.19"]
+[Round "9.4"]
+[White "Carbonell Bofill, Carlos Eloy"]
+[Black "Sriram, Jha"]
+[Result "1/2-1/2"]
+[WhiteElo "2093"]
+[BlackElo "2308"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 e6 4.Nbd2 d5 5.e3 Nc6 6.Bd3 cxd4 7.exd4 g6 8.O-O Bg7 9.Re1 O-O 10.Nf1 Qc7 11.Bg5 h6 12.Bh4 Nh5 13.g4 Nf6 14.g5 hxg5 15.Bxg5 Bd7 16.Ng3 Ne7 17.Ne5 Nf5 18.Qf3 Bc6 19.Ng4 Nxg4 20.Qxg4 Rfe8 21.Re2 Qd7 22.Rae1 Bb5 23.Bxb5 Qxb5 24.h4 Qd7 25.h5 f6 26.Bd2 Nxg3 27.fxg3 gxh5 28.Qxh5 Qf7 29.Qh3 e5 30.Qf5 Qe6 31.Qg6 Qf7 32.Qf5 Qe6 33.Qg6 Qf7 1/2-1/2

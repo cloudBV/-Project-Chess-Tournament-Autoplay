@@ -1,0 +1,14 @@
+[Event "Round 4: Moeller, Maurin - Poetsch, Hagen"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/eaf64oFM"]
+[Date "2026.07.21"]
+[Round "4.5"]
+[White "Moeller, Maurin"]
+[Black "Poetsch, Hagen"]
+[Result "1/2-1/2"]
+[WhiteElo "2301"]
+[BlackElo "2444"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Nd5 Nxd5 10.exd5 Bf5 11.Bd3 Bxd3 12.Qxd3 Nd7 13.O-O-O Rc8 14.Rhe1 Be7 15.Kb1 Qc7 16.f4 O-O 17.f5 Qc4 18.Qxc4 Rxc4 19.Na5 Ra4 20.Bd2 Rb8 21.b3 Rg4 22.Rg1 Nf6 23.h3 Rd4 24.Bg5 Nxd5 25.Rxd4 exd4 26.Bxe7 Nxe7 27.g4 hxg4 28.hxg4 Nc6 29.Nc4 Rd8 30.Re1 d5 31.Nb6 f6 32.Na4 Ne5 33.Nc5 Nxg4 34.Nxb7 Rc8 35.Rd1 Ne3 36.Rxd4 Nxf5 37.Rxd5 Ne3 38.Rd6 f5 39.Rd3 f4 40.Nd6 Rd8 41.Kc1 Kf8 42.Kd2 Ke7 43.Ne4 Rh8 44.c4 Rh2+ 45.Kc3 Rxa2 46.Kd4 Ke6 47.c5 Rc2 48.Nc3 Nf5+ 49.Ke4 g5 50.c6 Nd6+ 51.Kf3 Nb5 52.Ne4 Ke5 53.Nxg5 Nd4+ 54.Kg4 Rg2+ 55.Kh4 Nxc6 56.Rc3 Nd4 57.Rc5+ Kf6 58.Ne4+ Kg6 59.Ra5 f3 60.Kh3 Ne2 61.Kh4 Nf4 62.Rxa6+ Kf5 63.Ng3+ Ke5 64.Ra5+ Nd5 65.Kg4 f2 66.Kf3 Rxg3+ 67.Kxf2 Rxb3 68.Ra4 Nc3 69.Ra8 Kd4 70.Rd8+ Nd5 71.Ke2 Re3+ 72.Kf2 Re5 73.Ra8 Rf5+ 74.Kg3 Nc3 75.Kg4 Rf7 76.Rd8+ Ke3 77.Ra8 Rf4+ 78.Kg5 Ne4+ 79.Kg6 Rf6+ 80.Kg7 Rb6 81.Ra5 Kf4 82.Kf7 Nc3 83.Rh5 Ke4 84.Rh4+ Ke5 85.Rh5+ Kd6 86.Rh6+ Kc7 87.Rxb6 Kxb6 1/2-1/2

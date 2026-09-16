@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "16.1"]
+[White "Firouzja, Alireza"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[WhiteElo "2796"]
+[BlackElo "2687"]
+[ECO "E71"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nfd7 7.Nf3 e5 8.Qd2 exd4 9.Nxd4 Nc6 10.Be2 Re8 11.Rd1 Nxd4 12.Bxd4 b6 13.Bxg7 Kxg7 14.Qd4+ Kg8 15.O-O Bb7 16.Rfe1 Qf6 17.Qxf6 Nxf6 18.f3 Kg7 19.Kf2 a5 20.Nd5 Rac8 21.Bd3 Nd7 22.b3 Nc5 23.Bc2 Bxd5 24.cxd5 b5 25.h4 Re7 26.a3 b4 27.axb4 axb4 28.Rd4 Rb8 29.Ra1 f5 30.exf5 gxf5 31.Re1 Rxe1 32.Kxe1 Kf6 33.Rf4 Re8+ 34.Kf2 Re5 35.g4 Rxd5 36.Bxf5 Rd2+ 37.Kg3 Rb2 38.Rxb4 h6 39.Rf4 Ke5 40.g5 hxg5 41.hxg5 Rxb3 42.Bh7 Rb8 43.g6 Ne6 44.Rf7 Nc5 45.g7 Kd5 1-0

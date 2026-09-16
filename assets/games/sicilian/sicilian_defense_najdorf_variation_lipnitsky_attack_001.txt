@@ -1,0 +1,15 @@
+[Event "Round 9: Vingris,Mikelis - Iwan, Patryk"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-9/bSIGoQdg/qJgZgSX2"]
+[Date "2026.07.03"]
+[Round "9.12"]
+[White "Vingris,Mikelis"]
+[Black "Iwan, Patryk"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2195"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 b5 8.Bb3 Be7 9.a3 O-O 10.Qe2 Qc7 11.g4 Bb7 12.f3 Nc6 13.O-O-O Rac8 14.g5 Nxd4 15.Rxd4 Nh5 16.Kb1 g6 17.Rhd1 Rfd8 18.R4d2 Bf8 19.Qf2 Rd7 20.Bb6 Qb8 21.Bd4 d5 22.exd5 exd5 23.Re1 Qf4 24.Be3 Qf5 25.Ne2 Bg7 26.Nd4 Bxd4 27.Bxd4 Ng7 28.Qg3 Ne6 29.Bf6 a5 30.Rde2 Rf8 31.a4 b4 32.Re5 Qf4 33.Qh3 h5 34.Qg2 Kh7 35.Qf2 d4 36.Bxe6 fxe6 37.Rxe6 d3 38.cxd3 Qf5 39.Re7+ Rf7 40.Re8 Rxf6 41.gxf6 Rxd3 42.Ka1 Qxf6 43.R8e7+ Kh6 44.Rxb7 Ra3+ 45.Kb1 Qf5+ 46.Re4 Qd5 47.bxa3 Qd1+ 48.Kb2 bxa3+ 49.Kxa3 Qa1+ 50.Kb3 Qb1+ 51.Kc3 Qc1+ 52.Qc2 Qa3+ 53.Rb3 Qa1+ 54.Qb2 1-0

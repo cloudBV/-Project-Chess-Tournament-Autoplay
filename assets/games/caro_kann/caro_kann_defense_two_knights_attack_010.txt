@@ -1,0 +1,14 @@
+[Event "Round 2.2: De Mie, Mariska - Peng, Zhaoqin"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-22/RomUl7IN/aSwQsAIz"]
+[Date "2026.07.06"]
+[Round "6.2"]
+[White "De Mie, Mariska"]
+[Black "Peng, Zhaoqin"]
+[Result "0-1"]
+[WhiteElo "2086"]
+[BlackElo "2351"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Ng3 g6 6.d4 Bg7 7.Bc4 O-O 8.O-O Bg4 9.c3 Nbd7 10.h3 Bxf3 11.Qxf3 e5 12.Be3 Qc7 13.h4 exd4 14.cxd4 Nb6 15.Bb3 h5 16.Bg5 Nbd5 17.Rac1 Qd7 18.Rfe1 Rfe8 19.Qd3 Rxe1+ 20.Rxe1 Re8 21.Re5 Nh7 22.Rxe8+ Qxe8 23.Bd2 Qe7 24.Qf3 Qxh4 25.Ne2 Nhf6 26.Nf4 Nxf4 27.Bxf4 Nd5 28.Be5 Qd8 29.Qe4 Qd7 30.g3 a5 31.a4 Qe6 32.Kg2 Bxe5 33.dxe5 Nf4+ 34.gxf4 Qxb3 35.f5 Qd5 36.Qxd5 cxd5 37.f6 Kf8 0-1

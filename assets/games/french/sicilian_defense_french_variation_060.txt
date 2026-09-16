@@ -1,0 +1,15 @@
+[Event "Round 8: Akbas, Kaan - Alpin, Maxim"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/YVdVpaOs"]
+[Date "2026.07.18"]
+[Round "8.17"]
+[White "Akbas, Kaan"]
+[Black "Alpin, Maxim"]
+[Result "1-0"]
+[WhiteElo "2174"]
+[BlackElo "2315"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 d5 6.exd5 Nxd5 7.O-O Be7 8.Rd1 e5 9.c3 Bg4 10.h3 Bh5 11.d3 Qc7 12.g4 Bg6 13.Na3 O-O-O 14.Nb5 Qb6 15.a4 f6 16.d4 a6 17.dxe5 Rhe8 18.Nh4 axb5 19.Nxg6 hxg6 20.Bxd5 Nxe5 21.Qxb5 Qc7 22.a5 Rh8 23.a6 Rxd5 24.axb7+ Qxb7 25.Qxb7+ Kxb7 26.Rxd5 Kc6 27.Rd1 c4 28.Kg2 Bc5 29.Be3 Bxe3 30.fxe3 Rb8 31.Ra6+ 1-0

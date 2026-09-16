@@ -1,0 +1,15 @@
+[Event "Round 3: Wu, Tony (dongze) - Rodrigue-Lemieux, Shawn"]
+[Site "https://lichess.org/broadcast/quebec-open-championship-coq-2026/round-3/bJyzDHx6/7t0PIOxO"]
+[Date "2026.07.26"]
+[Round "3.1"]
+[White "Wu, Tony (dongze)"]
+[Black "Rodrigue-Lemieux, Shawn"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2534"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Re8 7.Nc3 Bd7 8.Ne1 Nc6 9.Nc2 a6 10.e4 e5 11.d5 Nd4 12.Be3 Nxc2 13.Qxc2 Ng4 14.Bd2 f5 15.Bh3 f4 16.Bg2 Rf8 17.f3 Nf6 18.Ne2 g5 19.h3 h5 20.gxf4 gxf4 21.Be1 Nh7 22.Nc3 Bf6 23.Kf2 Kh8 24.Rh1 Rg8 25.Kf1 Qe7 26.Qf2 Rg6 27.Rh2 Rag8 28.Ke2 Qg7 29.Bf1 Rg3 30.Qa7 Rxf3 31.Rg2 Ng5 32.h4 Rxf1 33.Rxg5 Bxg5 34.Kxf1 f3 35.hxg5 Qxg5 36.Bf2 Qd2 0-1

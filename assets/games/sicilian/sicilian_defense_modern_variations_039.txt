@@ -1,0 +1,15 @@
+[Event "Round 9: Medovoy, Yaniv - Ribstein, Orel"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-9/AS2EnOQA/7Cn1Iias"]
+[Date "2026.07.21"]
+[Round "9.5"]
+[White "Medovoy, Yaniv"]
+[Black "Ribstein, Orel"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[BlackElo "2190"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nf6 7.Re1 e5 8.c3 O-O 9.a3 a5 10.a4 h6 11.Na3 Re8 12.Nb5 d5 13.exd5 Nxd5 14.Nd2 Be6 15.Nc4 Re7 16.Qb3 Rd7 17.Qa3 Rb8 18.f4 exf4 19.Qxc5 Ne3 20.Bxe3 fxe3 21.Be4 Bxc4 22.dxc4 Ne5 23.Bd5 Ng4 24.Rad1 b6 25.Qa3 Qf6 26.Re2 Rxd5 27.cxd5 Qf3 0-1

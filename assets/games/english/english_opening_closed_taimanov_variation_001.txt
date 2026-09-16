@@ -1,0 +1,14 @@
+[Event "Round 3: Seibold, Hubert, Dr. - Polster, Wolfgang, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/TgZkK1MO"]
+[Date "2026.07.19"]
+[Round "3.11"]
+[White "Seibold, Hubert, Dr."]
+[Black "Polster, Wolfgang, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2026"]
+[BlackElo "2120"]
+[ECO "A25"]
+[Variant "Standard"]
+[Opening "English Opening: Closed, Taimanov Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Nh6 7.O-O O-O 8.a3 Be6 9.Nd5 Qd7 10.d3 Bh3 11.e4 Bxg2 12.Kxg2 f5 13.Bxh6 Bxh6 14.f3 Nd8 15.Ndc3 Qf7 16.Ng1 Ne6 17.Nce2 Be3 18.Nc3 c6 19.Qe1 Bxg1 20.Kxg1 Nd4 21.Qd1 Qc7 22.Ne2 Qb6 23.Nxd4 Qxd4+ 24.Rf2 Rf7 25.Qe2 a5 1/2-1/2

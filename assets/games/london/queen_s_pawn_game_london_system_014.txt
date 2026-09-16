@@ -1,0 +1,14 @@
+[Event "Round 1: Tadic, Stefan - Skvortsova, Alena"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-1/HpSVQtBg/qOHPri4L"]
+[Date "2026.07.04"]
+[Round "1.17"]
+[White "Tadic, Stefan"]
+[Black "Skvortsova, Alena"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2169"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Be2 Bf5 6.O-O e6 7.Nbd2 cxd4 8.Nxd4 Nxd4 9.exd4 Be7 10.a4 O-O 11.a5 Ne4 12.Nb3 Qd7 13.c3 Qc6 14.Bd3 Bg6 15.Re1 Nd6 16.Bxg6 hxg6 17.Nc5 b6 18.Nd3 bxa5 19.Rxa5 Nc4 20.Ra2 a5 21.Qa4 Qxa4 22.Rxa4 g5 23.Bg3 Rfc8 24.Rea1 Ra7 25.b4 Bd8 26.Nc5 Bb6 27.Kf1 Rca8 28.Ke2 Kf8 29.Nb3 axb4 30.Rxa7 Rxa7 31.Rxa7 Bxa7 32.cxb4 Ke7 33.Kd3 Kd7 34.Nc5+ Kc6 35.f3 Bb6 36.h4 1/2-1/2

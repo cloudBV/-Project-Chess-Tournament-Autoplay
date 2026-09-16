@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "1.3"]
+[White "Skypala, Ondrej"]
+[Black "Bokhnak, Tymofii"]
+[Result "1-0"]
+[WhiteElo "2234"]
+[BlackElo "2147"]
+[ECO "A14"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Bf6 9.d4 cxd4 10.Nxd4 Nc6 11.Nxc6 bxc6 12.Bxf6 Qxf6 13.Na3 Ba6 14.Qc2 Rac8 15.Nc4 Rfd8 16.a3 Nb6 17.Na5 c5 18.Rfd1 c4 19.Rxd8+ Rxd8 20.Rd1 Rxd1+ 21.Qxd1 c3 22.Be4 g6 23.Nc6 Bb7 24.Qd6 Bxc6 25.Qxc6 Qd4 26.Bd3 Nd5 27.Kf1 Kg7 28.Qc4 Qf6 29.Kg2 Qg5 30.Qd4+ Kg8 31.f4 Qg4 32.Qe5 f6 33.Qb8+ Kg7 34.h3 c2 35.Qxa7+ Kh6 36.hxg4 c1=Q 37.Qf7 Qxa3 38.Qxe6 Qc5 39.Kf3 Qc1 40.Ke4 Nc3+ 41.Kd4 Qb2 42.g5+ fxg5 43.Qh3+ Kg7 44.Qd7+ Kh6 45.fxg5+ Kxg5 46.Qe7+ Kh6 47.Qf8+ Kh5 48.Qc5+ Kh6 49.Qxc3 Qa3 50.b4 Qa7+ 51.Qc5 Qa1+ 52.Kc4 Qc1+ 53.Kb5 Qd2 54.Qe5 Qe1 55.Ka5 Qg1 56.b5 Qa7+ 57.Kb4 Qb6 58.Qc5 Qf6 59.b6 Qb2+ 60.Ka5 Qa2+ 61.Kb5 Qb3+ 62.Kc6 Qe6+ 63.Qd6 Qc8+ 64.Qc7 Qe6+ 65.Kc5 Qe3+ 66.Kd5 Qg5+ 67.Ke4 1-0

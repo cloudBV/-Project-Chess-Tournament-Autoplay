@@ -1,0 +1,14 @@
+[Event "Round 1: Gallas, Noel - Malinowsky, Levi"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/YE0Zd3fT"]
+[Date "2026.07.19"]
+[Round "1.13"]
+[White "Gallas, Noel"]
+[Black "Malinowsky, Levi"]
+[Result "1-0"]
+[WhiteElo "2188"]
+[BlackElo "2342"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 g6 5.Nf3 Bg7 6.Nxd4 cxd4 7.Qf3 Nh6 8.Ne2 O-O 9.d3 d6 10.h3 Qa5+ 11.Bd2 Qb6 12.Rb1 Kh8 13.Qg3 Ng8 14.O-O Nf6 15.f4 d5 16.exd5 Rd8 17.Qf3 Qc5 18.b4 Qc7 19.Nxd4 Nxd5 20.Nb5 Qb6+ 21.Qf2 Qc6 22.Nd4 Qd7 23.Nf3 b6 24.Ne5 Qe8 25.Rbe1 e6 26.Qh4 Bf6 27.Qg3 Bb7 28.Ng4 Bg7 29.b5 Ne7 30.Ne5 Nf5 31.Qf2 Bf6 32.Nf3 Rac8 33.g4 Nd6 34.Ne5 Qe7 35.Bc3 Kg8 36.g5 Bg7 37.Bb4 Qc7 38.Bxd6 Qxd6 39.Kh2 Rc5 40.Nxf7 Kxf7 41.Rxe6 Qxe6 42.Bxe6+ Kxe6 43.Qe2+ Kf7 44.Re1 Kg8 45.Qe6+ Kh8 46.Qf7 Rxc2+ 47.Kg3 Rg2+ 48.Kh4 Bd5 49.Re8+ Rxe8 50.Qxe8+ Bg8 51.Qe4 Rxa2 52.Kg3 Rb2 53.Qc6 Rb4 54.Kf3 Rb3 55.Ke3 Rb2 56.Qd7 Ra2 57.Qc6 Ra3 58.h4 Rc3 59.Qd7 Rc5 60.h5 Rd5 61.Qxa7 gxh5 62.Qxb6 h4 63.Qc6 h3 64.Qc2 Rxb5 65.d4 Rb3+ 66.Ke4 Rb4 67.f5 Rxd4+ 68.Ke3 Be5 69.Qc5 Rd5 70.Qe7 Bd4+ 71.Kf4 Ra5 72.f6 Ra7 73.Qb4 Rc7 74.Qd6 Rc4 75.Kf5 Rc5+ 76.Kg4 h2 77.f7 Bxf7 78.Qxd4+ Kg8 79.Qd8+ Kg7 80.Qd4+ Kg8 81.Qd8+ 1-0

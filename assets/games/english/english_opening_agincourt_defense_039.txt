@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-7-game-1/K8oOJzFp/ggf4MP2o"]
+[Date "2026.07.09"]
+[Round "13.6"]
+[White "Radzimski, Antoni"]
+[Black "Hyron, Artem"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2036"]
+[ECO "A13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 e6 2.c4 f5 3.b3 Nf6 4.Bb2 b6 5.g3 Bb7 6.Bg2 Be7 7.O-O O-O 8.Nc3 Ne4 9.d3 Nxc3 10.Bxc3 Bf6 11.Qd2 a5 12.d4 Na6 13.a3 Qe7 14.Rfd1 Rad8 15.Bb2 g5 16.Rac1 g4 17.Ne1 Bg5 18.e3 Bxg2 19.Nxg2 h5 20.Nf4 Bxf4 21.exf4 d5 22.Re1 Qf7 23.Re5 Nb8 24.cxd5 exd5 25.Qc2 Nd7 26.Re3 Rc8 27.Rce1 Rfe8 28.Rxe8+ Rxe8 29.Rxe8+ Qxe8 30.Qxf5 Qe2 31.Qxd5+ Kf8 32.Bc3 Nf6 33.Qd8+ Kf7 34.Qxc7+ Kf8 35.Qc8+ Kf7 36.Qc4+ Qxc4 37.bxc4 Ne4 38.Be1 Ke6 39.Kf1 Nd6 40.c5 bxc5 41.dxc5 Nc4 42.Ke2 Kd5 43.f5 Kxc5 44.f6 Kd6 45.Kd3 Nxa3 46.Bxa5 Nb5 47.Bc3 Kd5 48.Bb2 Ke6 49.Ke4 Nd6+ 50.Kf4 Nc4 51.Bd4 Nd2 52.Bc3 Nf1 53.Kg5 Nxh2 54.Kg6 Nf3 55.f7 Kd5 1-0

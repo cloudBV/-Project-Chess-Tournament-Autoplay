@@ -1,0 +1,14 @@
+[Event "Round 7: Halegua, Dani - Hautot, Stephane"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-7/3t3aaHmO/3HUt6NAQ"]
+[Date "2026.07.24"]
+[Round "7.8"]
+[White "Halegua, Dani"]
+[Black "Hautot, Stephane"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2321"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O e6 5.c4 d4 6.e3 Nc6 7.exd4 cxd4 8.d3 Be7 9.Na3 O-O 10.Nc2 a5 11.Re1 Re8 12.b3 Bc5 13.Ne5 Nxe5 14.Rxe5 Qc7 15.Bf4 Bd6 16.Qe2 Bxe5 17.Bxe5 Qe7 18.Re1 Nd7 19.Bxd4 e5 20.f4 f6 21.Bd5+ Kh8 22.Bc3 Qd6 23.fxe5 fxe5 24.d4 e4 25.Bxe4 Nf6 26.Qg2 Rxe4 27.Rxe4 Nxe4 28.Qxe4 Bh3 29.d5 Rf8 30.Ne3 Qc5 31.Qd4 Qe7 32.Ng2 Bxg2 33.Kxg2 Qe2+ 34.Kh3 Rf6 35.Qd2 Qh5+ 36.Kg2 Qf3+ 37.Kh3 Rf5 38.Qh6 Rh5+ 39.Qxh5 Qxh5+ 40.Kg2 Qe2+ 41.Kh1 Qf1# 0-1

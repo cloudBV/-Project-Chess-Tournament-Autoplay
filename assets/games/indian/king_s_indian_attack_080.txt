@@ -1,0 +1,15 @@
+[Event "Round 1: Salci, Aytug Celal - Nuri, Murad"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/F5nePtSb"]
+[Date "2026.07.13"]
+[Round "1.17"]
+[White "Salci, Aytug Celal"]
+[Black "Nuri, Murad"]
+[Result "1-0"]
+[WhiteElo "2141"]
+[BlackElo "2273"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.c4 d4 4.Bg2 e6 5.O-O Nc6 6.d3 Be7 7.Na3 O-O 8.Nc2 a5 9.e3 e5 10.exd4 exd4 11.Re1 h6 12.a3 Bg4 13.h3 Be6 14.Rb1 Rb8 15.b4 axb4 16.Nxb4 Na5 17.Nc2 c5 18.a4 Nc6 19.g4 Ne8 20.Na3 Nc7 21.Nb5 Nxb5 22.axb5 Nb4 23.Ra1 Re8 24.Ba3 Qb6 25.Qb3 Rbd8 26.Re2 Bf8 27.Rae1 Qd6 28.Re4 Qb6 29.Bf1 Ra8 30.Qb2 Rxa3 31.Qxa3 Nc2 32.Qc1 Nxe1 33.Qxe1 Ra8 34.Bg2 Ra3 35.Bf1 Be7 36.Ne5 Bh4 37.Ng6 Qd8 38.Rxe6 fxe6 39.Qxe6+ Kh7 40.Qf5 Kg8 41.Bg2 Ra1+ 42.Kh2 Qc7+ 43.f4 Bf6 44.Bd5+ Kh7 45.Nf8+ 1-0

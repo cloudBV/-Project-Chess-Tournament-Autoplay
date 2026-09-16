@@ -1,0 +1,15 @@
+[Event "Round 5: Sahin, Ata Sarp - Neshan, Arshiya"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/uSqJeDO9"]
+[Date "2026.07.16"]
+[Round "5.26"]
+[White "Sahin, Ata Sarp"]
+[Black "Neshan, Arshiya"]
+[Result "0-1"]
+[WhiteElo "2031"]
+[BlackElo "2109"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.h3 h6 8.Re1 a5 9.d4 Ba7 10.Bb3 Re8 11.Bc2 b5 12.Be3 Bb7 13.Nbd2 exd4 14.Bxd4 Nxd4 15.cxd4 Nh5 16.Nf1 c5 17.N1h2 Nf4 18.Qd2 Ng6 19.Rad1 c4 20.Bb1 b4 21.Qc2 Rc8 22.e5 Bd5 23.h4 c3 24.b3 Qd7 25.h5 Nf8 26.Re3 Bb8 27.Rde1 Bc7 28.Nh4 dxe5 29.dxe5 Be6 30.Qe4 Bb6 31.Rd3 Qc6 32.Rd6 Qxe4 33.Bxe4 Bc7 34.Ra6 Bxe5 35.Rxa5 Bf6 36.N4f3 Red8 37.Bc2 Ra8 38.Rxa8 Rxa8 39.Ra1 Nd7 40.Ne1 Nc5 41.Nd3 Nxd3 42.Bxd3 Bxb3 43.Rb1 c2 44.Re1 Bc3 0-1

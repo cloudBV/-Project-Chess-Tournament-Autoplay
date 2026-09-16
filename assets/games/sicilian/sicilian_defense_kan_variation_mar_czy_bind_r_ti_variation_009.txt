@@ -1,0 +1,14 @@
+[Event "Round 11: Cardona Duque, Juan Esteban - Rodriguez Velasco, German Enrique"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-11/3AgRxUoN/zaTv8ciu"]
+[Date "2026.07.11"]
+[Round "11.3"]
+[White "Cardona Duque, Juan Esteban"]
+[Black "Rodriguez Velasco, German Enrique"]
+[Result "0-1"]
+[WhiteElo "2193"]
+[BlackElo "2166"]
+[ECO "B41"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Bd3 Nc6 7.Nxc6 dxc6 8.O-O e5 9.Qe2 Bc5 10.Be3 Qe7 11.Nd2 O-O 12.Nb3 Bxe3 13.Qxe3 a5 14.Rad1 a4 15.Nc1 Qb4 16.Qe2 Be6 17.Kh1 Rfd8 18.a3 Qb6 19.Qc2 Rd7 20.f3 Nh5 21.Ne2 Rad8 22.Qc3 Qe3 23.Nc1 Nf4 24.Rde1 Qc5 25.Bc2 Qxc4 26.Bxa4 Rd2 27.g3 Nh3 28.Rd1 Rxd1 29.Bxd1 Qxf1# 0-1

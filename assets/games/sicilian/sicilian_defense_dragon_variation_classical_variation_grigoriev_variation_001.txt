@@ -1,0 +1,15 @@
+[Event "Round 5: Durarbayli, Vasif - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-5/6wa4QNCe/qkvH98IV"]
+[Date "2026.07.03"]
+[Round "5.3"]
+[White "Durarbayli, Vasif"]
+[Black "Woodward, Andy"]
+[Result "0-1"]
+[WhiteElo "2560"]
+[BlackElo "2521"]
+[ECO "B72"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation, Grigoriev Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 g6 7.Be3 Bg7 8.Qd2 O-O 9.O-O-O Bd7 10.h4 Nxd4 11.Bxd4 Qa5 12.h5 Rfc8 13.hxg6 hxg6 14.Kb1 Be6 15.a3 b5 16.Bxf6 exf6 17.Nd5 Qxd2 18.Rxd2 Kf8 19.Bxb5 Rab8 20.c4 f5 21.f3 fxe4 22.fxe4 Be5 23.Rhd1 Kg7 24.Ne7 Rc7 25.Nc6 Rb6 26.Nxe5 dxe5 27.Rd6 Bxc4 28.Rxb6 axb6 29.Bxc4 Rxc4 30.Rd6 Rxe4 31.Rxb6 Rd4 32.Kc2 e4 33.Rb4 Rxb4 34.axb4 Kf8 35.Kc3 Ke7 36.Kd4 f5 37.g4 Kd6 38.g5 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Hernandez Jimenez, Xavi - Mora Munoz, Alejandro"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-6/Hgm43mtH/bmLksGhD"]
+[Date "2026.07.11"]
+[Round "6.12"]
+[White "Hernandez Jimenez, Xavi"]
+[Black "Mora Munoz, Alejandro"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2154"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.Bb5+ Bd7 5.Qe2 e5 6.O-O Be7 7.Bxd7+ Qxd7 8.d3 h6 9.h3 O-O 10.Be3 Nc6 11.Rfe1 a6 12.a4 Nd4 13.Qd1 b5 14.Bxd4 cxd4 15.Ne2 Rfc8 16.c3 dxc3 17.Nxc3 b4 18.Ne2 a5 19.Ng3 g6 20.d4 Qe6 21.Qd2 Kh7 22.Rad1 Rc4 23.Rc1 Rac8 24.Rxc4 Rxc4 25.Qd3 Rc8 26.Qb5 exd4 27.Qxa5 Qc4 28.e5 dxe5 29.Nxe5 Qd5 30.Qa7 Re8 31.Nf3 Bc5 32.Qa6 Rxe1+ 33.Nxe1 Nd7 34.Nd3 Bf8 35.Qb5 Qd6 36.Ne4 Qe6 37.Qxd7 Qxe4 38.Qxf7+ Bg7 39.Qc4 Qe2 40.a5 h5 41.g3 h4 42.gxh4 Qd1+ 43.Kg2 Qh5 44.a6 Qxh4 45.Qd5 Qe7 46.Nf4 Be5 47.Nd3 Bg7 48.Qb7 Qg5+ 49.Kf1 Qd2 50.Qf3 b3 51.a7 1-0

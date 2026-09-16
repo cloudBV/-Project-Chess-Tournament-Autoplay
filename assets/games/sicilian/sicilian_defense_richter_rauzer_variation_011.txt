@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "11.2"]
+[White "Stash 37.24"]
+[Black "IgelHCE 3.6.13"]
+[Result "1/2-1/2"]
+[WhiteElo "3244"]
+[BlackElo "3223"]
+[ECO "B60"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6 7.Nb3 e6 8.Bf4 e5 9.Bg5 Be6 10.Bxf6 gxf6 11.Nd5 Qd8 12.Bc4 Rg8 13.Qf3 Rg6 14.h4 Bg4 15.Qd3 Bh6 16.c3 Be6 17.g3 Rc8 18.Rd1 Kf8 19.Nd2 Bg4 20.f3 Be6 21.g4 Na5 22.Bb3 Rc5 23.Ne3 Nxb3 24.axb3 Bxe3 25.Qxe3 a5 26.Nc4 Rc6 27.Rh2 Bxc4 28.bxc4 Rxc4 29.Rd5 b6 30.h5 Rg8 31.Rhd2 Rc6 32.Qh6+ Ke7 33.Qxh7 Qf8 34.Kf2 Rg5 35.Kg3 a4 36.c4 Kd7 37.f4 exf4+ 38.Kxf4 Qe8 39.Rxg5 fxg5+ 40.Ke3 Qe6 41.Qf5 Rxc4 42.e5 Qxf5 43.gxf5 Ke7 44.Rxd6 Rb4 45.h6 Rxb2 46.Rc6 Kd7 47.e6+ fxe6 48.f6 Rh2 49.Rc8 Rxh6 50.f7 Rh3+ 51.Kd4 Kxc8 52.f8=Q+ Kd7 53.Qg7+ Kc6 54.Qxg5 Rb3 55.Qc1+ Kb5 56.Qc4+ Ka5 57.Qxe6 Rb5 58.Qe1+ Ka6 59.Qe8 Rb4+ 60.Kc3 Rb3+ 61.Kc4 b5+ 62.Kd5 Rd3+ 63.Ke4 Rd1 64.Qh5 Rd7 65.Qc5 Ka5 66.Ke3 Rd1 67.Ke4 Rd7 68.Qc3+ Kb6 69.Qe3+ Ka6 70.Qf4 Ka5 71.Qg3 Ka6 72.Qc3 Kb6 73.Qe3+ Ka6 74.Qf4 Ka5 75.Qg3 Ka6 76.Qg8 Ka5 77.Qa8+ Kb4 78.Qf8+ Ka5 79.Qc5 Rd1 80.Ke5 Rd3 81.Qc2 Rh3 82.Kd6 a3 83.Kc7 Ka6 84.Kc8 Kb6 85.Qc7+ Ka6 86.Qc2 Kb6 87.Kd7 Ka5 88.Kc7 Ka6 89.Qc6+ Ka5 90.Qb6+ Kb4 91.Qd4+ Kb3 92.Qd5+ Kc3 93.Qc6+ Kb4 94.Qd6+ Ka4 95.Qd1+ Rb3 96.Qc2 Kb4 97.Kb6 Rb2 98.Qe4+ Kc3 99.Qe3+ Kb4 100.Qd4+ Kb3 101.Kxb5 Kc2+ 102.Kc5 Kb1 103.Qe4+ Ka2 104.Qd5+ Rb3 105.Qe6 Kb2 106.Qe5+ Ka2 107.Qe6 Kb2 108.Qe2+ Ka1 109.Qd1+ Rb1 110.Qd5 Rb8 111.Qe5+ Rb2 112.Qe4 Rb1 113.Qd5 Rb8 114.Qd4+ Rb2 115.Qe5 Ka2 116.Qe3 Rb3 117.Qf2+ Rb2 118.Qg3 Rb7 119.Qg2+ Rb2 120.Qg8+ Rb3 121.Qf7 Kb2 122.Kc4 Ka2 123.Qf2+ Rb2 124.Qd4 Rb8 125.Qf2+ Rb2 126.Qf6 Rb8 127.Kd4 Rb4+ 128.Kd3 Rb8 129.Kd4 Rb4+ 130.Kc5 Rb3 131.Qe5 Rb1 132.Qd5+ Rb3 133.Qc4 Kb2 134.Qd4+ Ka2 135.Qd5 Kb2 136.Kc4 Ka2 137.Qg2+ Rb2 138.Qe4 Rb3 139.Qg2+ Rb2 140.Qd5 Ka1 141.Kc3 Rb1 142.Qg8 Rb2 143.Kc4 Ka2 144.Kd3+ Ka1 145.Qg5 Rb6 146.Kd4 Ka2 147.Qg3 Kb2 148.Qf2+ Kb3 149.Qe1 Ka2 150.Qa5 Rb8 151.Qd5+ 1/2-1/2

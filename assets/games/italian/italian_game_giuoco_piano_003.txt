@@ -1,0 +1,15 @@
+[Event "Round 7: Yildiz, Talat - Aliyev, Elnur"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/IT4pucLm"]
+[Date "2026.07.03"]
+[Round "7.40"]
+[White "Yildiz, Talat"]
+[Black "Aliyev, Elnur"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2108"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Piano"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 d6 5.Na4 Bg4 6.Nxc5 dxc5 7.h3 Bh5 8.d3 f6 9.g4 Bf7 10.Bxf7+ Kxf7 11.Be3 b6 12.g5 h6 13.gxf6 Qxf6 14.Nh2 Nge7 15.Ng4 Qe6 16.Qf3+ Ke8 17.Qg3 c4 18.O-O-O cxd3 19.Rxd3 h5 20.Nh2 Nb4 21.Rb3 Nxc2 22.Rg1 Nxe3 23.Qxe3 Rd8 24.Rxg7 Rg8 25.Rxg8+ Qxg8 26.Qe2 Qg5+ 27.Re3 Nc6 28.Nf3 Qf4 29.Kb1 Rd6 30.Ne1 Kd8 31.Nd3 Qh6 32.Rg3 Kc8 33.Rg8+ Rd8 34.Rxd8+ Kxd8 35.Qf3 Kc8 36.Qf5+ Kb7 37.Qd7 Qf6 38.Qd5 a5 39.b4 Qd6 40.bxa5 bxa5 41.f4 Kc8 42.fxe5 Qg6 43.Kb2 Nb4 44.Nxb4 axb4 45.e6 Qg2+ 46.Kb3 Qg3+ 47.Kxb4 Qe1+ 48.Kc4 Qc1+ 49.Kd4 Qd2+ 50.Kc5 Qa5+ 51.Kc4 Qxa2+ 52.Kc3 Qa3+ 53.Kc2 Qa4+ 54.Kb1 Qb4+ 55.Kc2 Qa4+ 56.Kd2 Qb4+ 57.Ke3 Qe1+ 58.Kf3 Qf1+ 59.Kg3 Qe1+ 60.Kf4 Qh4+ 61.Kf5 Qxh3+ 62.Kg6 Qg4+ 63.Kh7 Kb8 64.e7 Qc8 65.Qd8 1-0

@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.15"]
+[Round "5.2"]
+[White "De Boer, Eelke"]
+[Black "Den Hartog, Marijn"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2209"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 O-O 6.O-O d5 7.exd5 Nxd5 8.Re1 Nb6 9.Bb3 Bg4 10.h3 Bh5 11.Nbd2 Qxd3 12.Nxe5 Qg3 13.Qxh5 Qxf2+ 14.Kh2 Bd6 15.Nf3 Nxe5 16.Rxe5 Nd7 17.Bf4 Nxe5 18.Bxe5 Qxb2 19.Bxd6 cxd6 20.Ng5 h6 21.Nxf7 Rxf7 22.Qxf7+ Kh8 23.Re1 1-0

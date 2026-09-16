@@ -1,0 +1,14 @@
+[Event "Round 5: Gautier, Anand - Stefan, Romulus-Cristian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/FGG8uZ8E"]
+[Date "2026.07.19"]
+[Round "5.18"]
+[White "Gautier, Anand"]
+[Black "Stefan, Romulus-Cristian"]
+[Result "1-0"]
+[WhiteElo "2198"]
+[BlackElo "2048"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.a4 a5 7.Nc3 d6 8.h3 Be6 9.Re1 Qd7 10.Nd5 Bxd5 11.exd5 Nb4 12.d4 e4 13.Nd2 c6 14.dxc6 bxc6 15.c3 d5 16.Bf1 Na6 17.f3 exf3 18.Nxf3 Bd6 19.Bd3 Rfe8 20.Bd2 Ne4 21.Ng5 Nxg5 22.Bxg5 h6 23.Bd2 Nc7 24.Qf3 Rxe1+ 25.Rxe1 Re8 26.Rxe8+ Qxe8 27.Qf5 g6 28.Qg4 h5 29.Qe2 Qxe2 30.Bxe2 Ne6 31.Kf2 Kg7 32.Bf1 f5 33.h4 Kf6 34.c4 Nxd4 35.cxd5 Bc5 36.Ke1 cxd5 37.Bxa5 Ke5 38.Bc3 Ke4 39.a5 Nc2+ 40.Kd1 Ne3+ 41.Ke2 d4 42.Bd2 d3+ 43.Ke1 Nc2+ 44.Kd1 Nd4 45.b4 Ba7 46.g3 Nb5 47.Bg2+ Kd4 48.Bc6 Kc4 49.Be8 Bf2 50.Bxg6 Bxg3 51.Bxf5 Bxh4 52.Be6+ Kd4 53.Bf7 Be7 54.Bxh5 Kc4 55.Bf7+ Kd4 56.Be8 Kc4 57.Bf7+ Kd4 58.Kc1 Bf8 1-0

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.9"]
+[White "Di Benedetto, Edoardo"]
+[Black "Tafall Villanueva, Iker"]
+[Result "1/2-1/2"]
+[WhiteElo "2470"]
+[BlackElo "2070"]
+[ECO "A53"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Old Indian Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bf5 5.Bg2 Bg7 6.Nc3 Ne4 7.Qb3 Nxc3 8.bxc3 Be4 9.Nh4 Bxg2 10.Nxg2 b6 11.O-O O-O 12.c5 bxc5 13.dxc5 Nd7 14.Be3 Nxc5 15.Bxc5 dxc5 16.Rad1 Qb8 17.Qc4 Qb2 18.Rd5 Qxc3 19.Qxc3 Bxc3 20.Rxc5 Bb4 21.Rxc7 Bd6 22.Rb7 Rfc8 23.Ne3 Rc5 24.Rd1 Ra5 25.Rd2 Rc8 26.Kg2 Rcc5 27.Rbb2 Kf8 28.Rbc2 Rxc2 29.Rxc2 h5 30.Nc4 Ra6 31.e4 e6 32.e5 Bc7 33.f4 Rc6 34.Kf3 Rc5 35.Ke4 Bb6 36.Ne3 Rxc2 37.Nxc2 Bf2 38.Na3 Ke7 39.Nc4 Bc5 40.Nd2 Kd7 41.Nf3 Be7 42.Kd4 Kc6 43.Kc4 a6 44.Nd2 Kb6 45.Ne4 Kc6 46.h3 Kb6 47.g4 hxg4 48.hxg4 Kc6 49.Kd4 Kc7 50.Kd3 Kc6 51.Kc4 Kc7 52.Nd2 Kc6 53.Nf3 Kc7 54.Nd4 Ba3 55.f5 gxf5 56.gxf5 exf5 57.Nxf5 Kd7 58.Kd5 a5 59.Ne3 Bb2 60.Nc4 Bc3 61.Nd6 Ke7 62.a4 Bb4 63.Nb5 Be1 64.Nd4 Kd7 65.Ke4 Bc3 66.Nb5 Bb2 67.Kd5 Ke7 68.Na7 Bc3 69.Nc8+ Kd7 70.Nd6 Ke7 71.Ne4 Bb4 72.Nf6 Be1 73.Nh5 Bb4 74.Ke4 Bc3 75.Nf4 Kd7 76.Kd5 Bb4 77.Nd3 Bd2 78.Nb2 Bc3 79.Nc4 Bb4 80.Ne3 Bd2 81.Nf5 Bb4 82.Ng7 Bd2 83.Nh5 Be1 84.Nf6+ Ke7 85.Ke4 Ke6 86.Nh5 Bc3 87.Nf4+ Kd7 88.Ne2 Bb2 89.Kd5 Ke7 90.Ng3 Bc3 91.Nf5+ Kd7 92.Nd6 Ke7 93.Nc4 Bb4 94.Kc6 f6 95.exf6+ Kxf6 96.Kb5 Ke6 97.Nxa5 Be1 98.Nb3 Kd7 99.Nc5+ Kc7 100.Nd3 Bd2 101.a5 Bxa5 1/2-1/2

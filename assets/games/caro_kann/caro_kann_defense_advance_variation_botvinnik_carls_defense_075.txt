@@ -1,0 +1,15 @@
+[Event "Round 3: Buckley, Graeme N - Kilambi, Venkata Ananth Akshay"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-3/w0bZokvS/DC1VJnag"]
+[Date "2026.07.22"]
+[Round "3.2"]
+[White "Buckley, Graeme N"]
+[Black "Kilambi, Venkata Ananth Akshay"]
+[Result "1/2-1/2"]
+[WhiteElo "2261"]
+[BlackElo "2021"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Qxd4 Nc6 6.Qf4 f6 7.Bb5 g5 8.Qa4 g4 9.Nd4 fxe5 10.Nxc6 bxc6 11.Bxc6+ Bd7 12.h3 Rc8 13.Bxd7+ Qxd7 14.Qxg4 Qxg4 15.hxg4 Rxc2 16.Na3 Rc6 17.g5 Bg7 18.Be3 a6 19.Rc1 Rxc1+ 20.Bxc1 e6 21.Rh3 Ne7 22.Nc2 Kf7 23.Ra3 Ra8 24.b4 Rc8 25.Kd1 Rc6 26.Rb3 e4 27.a4 Rc3 28.Rxc3 Bxc3 29.b5 axb5 30.axb5 Nc8 31.Be3 Ba5 32.f4 exf3 33.gxf3 e5 34.Bc5 Bb6 35.Be3 Kg6 36.Bc1 Bc5 37.Ne3 Nb6 38.Ng4 Bd4 39.Ke2 Kf5 1/2-1/2

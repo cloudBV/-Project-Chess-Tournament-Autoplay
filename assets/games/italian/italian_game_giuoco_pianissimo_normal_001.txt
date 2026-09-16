@@ -1,0 +1,14 @@
+[Event "Round 5: Carlstrom, Niklas - Thyberg, Andre"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-5/JTTwQAOc/7p4eJRCH"]
+[Date "2026.07.01"]
+[Round "5.9"]
+[White "Carlstrom, Niklas"]
+[Black "Thyberg, Andre"]
+[Result "1/2-1/2"]
+[WhiteElo "2112"]
+[BlackElo "2111"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Bg5 h6 6.Bh4 g5 7.Bg3 d6 8.c3 Be6 9.Nbd2 Bb6 10.a4 Qe7 11.b4 a5 12.Bxe6 Qxe6 13.Nc4 axb4 14.Nxb6 cxb6 15.cxb4 g4 16.Nh4 Nd4 17.O-O Nh5 18.Nf5 Nxf5 19.exf5 Qxf5 20.d4 Rd8 21.dxe5 dxe5 22.Qc1 Nf4 23.Bxf4 Qxf4 24.Qc7 Qd4 25.Rad1 Qxd1 26.Qxe5+ Kf8 27.Qxh8+ Ke7 28.Qe5+ Kf8 29.Qh8+ Ke7 30.Qxh6 Rd6 31.Qg5+ Kf8 32.h3 Qd4 33.Rc1 Rc6 34.Rxc6 bxc6 35.Qxg4 Qa1+ 36.Kh2 Qxa4 37.Qd4 Qb5 38.h4 c5 39.Qd8+ Kg7 40.Qg5+ Kh7 41.bxc5 bxc5 42.Qf5+ Kg7 43.h5 Qc6 44.Qg5+ Kh7 45.Kg3 c4 46.h6 Qd6+ 47.Kf3 Qd1+ 48.Kg3 Qd6+ 49.Kf3 Qd1+ 50.Kg3 Qd6+ 1/2-1/2

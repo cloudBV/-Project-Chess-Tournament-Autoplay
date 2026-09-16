@@ -1,0 +1,15 @@
+[Event "Round 9: Novik, Maxim - Rohde, Michael"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/WHFjjLDr"]
+[Date "2026.07.19"]
+[Round "9.10"]
+[White "Novik, Maxim"]
+[Black "Rohde, Michael"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2204"]
+[ECO "E39"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation, Pirc Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5 9.b4 Nce4 10.Qc2 a5 11.b5 d5 12.e3 Ng4 13.Be2 Ngxf2 14.O-O Ng4 15.h3 Ngf6 16.Bb2 Ng3 17.Ng5 Nfe4 18.Nxe4 dxe4 19.Rf4 Qc7 20.Rxe4 Nxe2+ 21.Qxe2 f6 22.c5 e5 23.Rc4 Be6 24.Rcc1 a4 25.Bc3 Rfd8 26.Bb4 Bb3 27.c6 Rac8 28.Rc3 bxc6 29.bxc6 Qb6 30.Rac1 Rc7 31.Rc5 Ra8 32.Qd2 h6 33.Ba5 Qa7 34.Bxc7 Qxc7 35.Rb5 Ra7 36.Qb4 Kh7 37.Rb7 Ra8 1-0

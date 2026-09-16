@@ -1,0 +1,15 @@
+[Event "Round 2: Korobov, Anton - Kostka, Vit"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/vmSPeDUl"]
+[Date "2026.07.17"]
+[Round "2.13"]
+[White "Korobov, Anton"]
+[Black "Kostka, Vit"]
+[Result "1-0"]
+[WhiteElo "2621"]
+[BlackElo "2229"]
+[ECO "A19"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls, Sicilian"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.Nf3 Nc6 5.Be2 d5 6.exd5 exd5 7.d4 cxd4 8.Nxd4 Be7 9.O-O dxc4 10.Nxc6 Qxd1 11.Rxd1 bxc6 12.Bxc4 O-O 13.Be3 Bf5 14.h3 a5 15.Bb3 Rab8 16.Rac1 Rfd8 17.Rxd8+ Bxd8 18.Na4 Be4 19.Nc3 Bf5 20.g4 Bg6 21.Rd1 Be7 22.f4 h5 23.f5 Bh7 24.g5 Bxf5 25.gxf6 Bxf6 26.Kg2 Rb4 27.Bf2 g5 28.Rd6 Kg7 29.Rxc6 a4 30.Rxf6 1-0

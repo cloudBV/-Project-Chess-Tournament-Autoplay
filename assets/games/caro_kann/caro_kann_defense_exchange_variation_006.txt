@@ -1,0 +1,14 @@
+[Event "Round 7: Carlsson, Ludvig - Akesson, Ralf"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-7/KAvlPL4o/NOTYRkQk"]
+[Date "2026.07.02"]
+[Round "7.5"]
+[White "Carlsson, Ludvig"]
+[Black "Akesson, Ralf"]
+[Result "1/2-1/2"]
+[WhiteElo "2427"]
+[BlackElo "2317"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 e6 7.Nf3 Bd6 8.O-O Bd7 9.Re1 Nge7 10.a3 h6 11.Nbd2 O-O 12.Qe2 f6 13.c4 Nf5 14.Bb1 Ncxd4 15.Nxd4 Nxd4 16.Qd3 Nf5 17.cxd5 Rad8 18.Nf3 Rfe8 19.g4 exd5 20.Qxd5+ Kh8 21.Rxe8+ Rxe8 22.Bxf5 Bc6 23.Qd1 Bc5 24.Kg2 Qb6 25.Qc2 Re1 26.b3 Bd4 27.Bb2 Rxa1 28.Bxd4 Qxd4 29.Qxc6 Qxf2+ 30.Kxf2 bxc6 31.a4 Rc1 32.Ke2 Rc3 33.Be6 g6 34.Bc4 c5 35.Bd5 Rc1 36.Ne1 Rc3 37.Nd3 Rc2+ 38.Kf3 Kg7 39.Bc4 Rc3 40.a5 f5 41.gxf5 gxf5 42.a6 Kf6 43.Kf4 h5 44.h4 Rc2 45.Nxc5 Rf2+ 46.Kg3 Rd2 47.Nd3 Rd1 48.b4 Rg1+ 49.Kf3 Rg4 50.Bb3 Rxh4 51.b5 Rd4 52.Nc5 Rd8 53.Be6 Ke5 54.Bb3 Rc8 55.Na4 Kd4 56.Be6 Rh8 57.Bxf5 Kc4 58.b6 axb6 59.Bd7 Kb4 60.Bc6 Rh7 61.Bb7 Kxa4 62.a7 1/2-1/2

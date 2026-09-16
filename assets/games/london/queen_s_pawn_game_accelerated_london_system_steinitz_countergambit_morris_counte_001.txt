@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.30"]
+[White "Docampo Fuertes, Marcelo Inaki"]
+[Black "Cereijo Suarez, Alejandro"]
+[Result "1-0"]
+[WhiteElo "2028"]
+[BlackElo "2240"]
+[ECO "D00"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit Accepted"]
+
+1.d4 d5 2.Bf4 c5 3.e4 dxe4 4.d5 Nf6 5.Nc3 a6 6.Qe2 e6 7.O-O-O exd5 8.Nxd5 Nxd5 9.Qxe4+ Be6 10.c4 Nd7 11.cxd5 Nf6 12.Qe5 Ng4 13.dxe6 Qxd1+ 14.Kxd1 Nxe5 15.Bxe5 fxe6 16.Bc4 Rd8+ 17.Kc2 Ke7 18.a4 Rg8 19.h4 g6 20.Nf3 b5 21.axb5 axb5 22.Bxb5 Bg7 23.Ra1 Bxe5 24.Nxe5 Kf6 25.Ng4+ Ke7 26.Ra7+ Kd6 27.Rxh7 Rh8 28.Rxh8 Rxh8 29.g3 Kd5 30.Kd3 Rd8 31.b3 Kd6 32.Bc4 Ra8 33.Ke4 Rf8 34.f4 Ke7 35.Ne5 Kf6 36.Nd7+ 1-0

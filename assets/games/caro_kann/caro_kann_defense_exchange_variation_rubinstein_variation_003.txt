@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "7.7"]
+[White "Babula, Matej"]
+[Black "Juhanak, Daniel"]
+[Result "0-1"]
+[WhiteElo "2119"]
+[BlackElo "2210"]
+[ECO "B13"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Nc6 6.Bf4 Bg4 7.Qb3 Qd7 8.Nd2 e6 9.Ngf3 Bxf3 10.Nxf3 a6 11.O-O Be7 12.Ne5 Qc8 13.a4 O-O 14.Rfe1 Rd8 15.h3 Nxe5 16.Bxe5 Ne8 17.Qc2 h6 18.Qe2 Bd6 19.a5 Qc7 20.Bxd6 Nxd6 21.Qe5 Rdc8 22.Re3 Ne8 23.f4 b5 24.axb6 Qxb6 25.f5 exf5 26.Qxf5 Nf6 27.Rf1 Qxb2 28.Rg3 Rc6 29.Qe5 Re8 30.Qf4 Kf8 31.Rgf3 Qb8 32.Qh4 Qd8 33.g4 Kg8 34.g5 Ne4 35.Bxe4 Rxe4 36.Rxf7 Rxh4 0-1

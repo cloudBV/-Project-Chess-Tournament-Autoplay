@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.2"]
+[White "Martin, Sam B"]
+[Black "Zhou, Jianchao"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2605"]
+[ECO "B30"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 d6 6.e5 Ne7 7.O-O Ng6 8.Bb2 f6 9.exd6 e5 10.d3 Bxd6 11.Nc3 Nf4 12.Ne2 Ne6 13.Ng3 O-O 14.Re1 Nf4 15.Nd2 Be7 16.Nc4 Rf7 17.Qd2 Be6 18.Ba3 a5 19.Ne3 Bd5 20.Qc3 Ne6 21.Nef5 Bf8 22.Qd2 Nf4 23.f3 a4 24.Qc3 Rfa7 25.Bb2 Qb6 26.Kh1 axb3 27.axb3 Rxa1 28.Rxa1 Rxa1+ 29.Bxa1 c4 30.d4 Bb4 31.Qe3 Qa5 32.Bb2 c3 33.Bc1 Qa2 34.Ne2 Qxc2 35.Nxf4 Qd1+ 36.Qg1 Qxg1+ 37.Kxg1 exf4 38.Bxf4 Ba3 39.Ng3 Bxb3 40.Ne2 Bb2 41.Kf2 Bc4 42.Nc1 c2 43.Be3 Kf7 44.Ke1 Bc3+ 0-1

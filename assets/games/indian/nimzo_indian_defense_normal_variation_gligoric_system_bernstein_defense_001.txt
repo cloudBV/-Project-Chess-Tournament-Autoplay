@@ -1,0 +1,15 @@
+[Event "Greek Chess Cup F4"]
+[Site "Patras, Greece"]
+[Date "2026.07.03"]
+[Round "2.2"]
+[White "Theodorou, Nikolas"]
+[Black "Gouloutis, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2628"]
+[BlackElo "2277"]
+[ECO "E56"]
+[TimeControl "90 minutes for 40 moves + 30 minutes + 30sec increment from first move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Gligoric System, Bernstein Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O Nc6 8.a3 Ba5 9.h3 dxc4 10.Bxc4 cxd4 11.exd4 h6 12.Bd3 Bb6 13.Be3 Ne7 14.Bc2 Nfd5 15.Qd3 f5 16.Bb3 Bc7 17.Rfe1 b6 18.Rac1 Bb7 19.Bxh6 gxh6 20.Rxe6 Kg7 21.Ne5 Nf6 22.Qg3+ Kh8 23.Qh4 Bxe5 24.dxe5 Neg8 25.Rd1 Qc7 26.exf6 Rad8 27.Re7 Rxd1+ 28.Bxd1 Qc6 29.Bf3 1-0

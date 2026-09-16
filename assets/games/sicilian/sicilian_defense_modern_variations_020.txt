@@ -1,0 +1,14 @@
+[Event "CE SUB10.Vicar 26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u10/round-6/7CItB42N/7bXgxaNB"]
+[Date "2026.06.24"]
+[Round "6.1"]
+[White "Demchenko, Timofei"]
+[Black "Barcelo Melnyk, Marc"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2215"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.d3 Nc6 4.g3 Nf6 5.Bg2 g6 6.c3 Bg7 7.Nbd2 O-O 8.O-O e5 9.h3 h6 10.Ne1 d5 11.Qe2 Be6 12.f4 Nh5 13.Qf3 dxe4 14.dxe4 exf4 15.gxf4 f5 16.Qf2 fxe4 17.Nxe4 Bc4 18.Nxc5 Bxf1 19.Bxf1 Qe7 20.Bc4+ Kh8 21.Ne6 Rf6 22.Nxg7 Kxg7 23.Be3 Re8 24.Ng2 Kh7 25.Bc5 Qc7 26.Be3 Ne7 27.Bb5 Rd8 28.Bd4 Nxf4 29.Nxf4 Rxf4 30.Qe2 Nf5 31.Bf2 Nd6 32.Bg3 Qc5+ 33.Kh1 Qd5+ 34.Qg2 Qxg2+ 35.Kxg2 Rf5 36.Ba4 Ne4 37.Rd1 Rxd1 38.Bxd1 Rd5 39.Bb3 Rd2+ 40.Kf3 Nxg3 41.Kxg3 Rxb2 42.c4 Kg7 43.Kf4 Kf6 44.h4 b6 45.Ke4 g5 46.hxg5+ hxg5 47.Kf3 Ke5 48.Kg4 Kd4 49.Kxg5 Kc3 50.Kf4 Rxb3 51.axb3 Kxb3 52.Ke3 Kxc4 53.Kd2 Kb3 54.Kc1 Ka2 55.Kc2 b5 56.Kc3 a5 57.Kc2 b4 58.Kc1 b3 59.Kd2 b2 60.Kc3 b1=Q 61.Kc4 a4 62.Kc5 a3 63.Kc4 Kb2 64.Kb4 a2 65.Kc4 a1=Q 66.Kc5 Qd3 67.Kb6 Qaa6+ 68.Kc5 Qdc4# 0-1

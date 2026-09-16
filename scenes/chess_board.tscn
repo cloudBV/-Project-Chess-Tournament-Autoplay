@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://cggcr4ephbtmj"]
+
+[ext_resource type="Script" uid="uid://c57xry4iqm7t1" path="res://scripts/chess_board.gd" id="1_5nm6w"]
+
+[node name="ChessBoard" type="Control" unique_id=919491016]
+layout_mode = 3
+anchors_preset = 0
+offset_left = 14.0
+offset_top = 688.0
+offset_right = 14.0
+offset_bottom = 688.0
+script = ExtResource("1_5nm6w")
+
+[node name="Board" type="GridContainer" parent="." unique_id=1877233802]
+layout_mode = 0
+columns = 8

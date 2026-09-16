@@ -1,0 +1,14 @@
+[Event "Round 4: Rodriguez Velasco, German Enrique - Munoz Triana, Joseph Steve"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-4/RdktgqsA/kizf7Jit"]
+[Date "2026.07.11"]
+[Round "4.6"]
+[White "Rodriguez Velasco, German Enrique"]
+[Black "Munoz Triana, Joseph Steve"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2210"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 Bb7 5.O-O a5 6.a4 b4 7.c4 d6 8.Re1 Nbd7 9.Nbd2 c5 10.e4 cxd4 11.Nxd4 Be7 12.Nb5 O-O 13.e5 Bxg2 14.exf6 Bb7 15.fxe7 Qxe7 16.Ne4 d5 17.Ned6 Nc5 18.Nxb7 Qxb7 19.cxd5 exd5 20.Bf4 Rfd8 21.Rc1 Rac8 22.Nd6 Rc6 23.Nxb7 1-0

@@ -1,0 +1,15 @@
+[Event "Round 3: Usov, Aleksandr E. - Afanasiev, Nikita"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/jsT3ajgn"]
+[Date "2026.07.23"]
+[Round "3.9"]
+[White "Usov, Aleksandr E."]
+[Black "Afanasiev, Nikita"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2549"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.c3 Nc6 5.e3 d5 6.Nbd2 Nh5 7.Bg5 f6 8.Bh4 g6 9.dxc5 Bxc5 10.b4 Be7 11.Be2 O-O 12.O-O e5 13.b5 Na5 14.c4 g5 15.Bg3 g4 16.Ne1 Nxg3 17.hxg3 dxc4 18.Nxc4 Qxd1 19.Rxd1 Nxc4 20.Bxc4+ Kg7 21.e4 f5 22.Bd5 fxe4 23.Bxe4 Be6 24.Nd3 Bc4 25.Rfe1 Bxb5 26.Nxe5 Bb4 27.Re3 Bc5 28.Rb3 Bxf2+ 29.Kh2 a6 30.Nxg4 Bc5 31.Rd5 Rae8 32.Bd3 b6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/X781EBCT"]
+[Date "2026.07.18"]
+[Round "8.8"]
+[White "Alsina Leal, Daniel"]
+[Black "Grieve, Harry"]
+[Result "1/2-1/2"]
+[WhiteElo "2488"]
+[BlackElo "2505"]
+[ECO "B44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.a3 Nf6 6.Nc3 d6 7.Be3 Be7 8.h3 O-O 9.g4 d5 10.Bg2 dxe4 11.Nxc6 bxc6 12.Qxd8 Rxd8 13.Nxe4 Ba6 14.Nc5 Bc4 15.Nb7 Rdb8 16.Na5 Bd5 17.Bxd5 cxd5 18.Nc6 Rb7 19.Nxe7+ Rxe7 20.O-O-O Rc7 21.Kb1 a5 22.f3 Nd7 23.Rhe1 Rc6 24.Bd4 f6 25.f4 Kf7 26.f5 Raa6 27.fxe6+ Rxe6 28.Rf1 Re4 29.g5 Ke6 30.gxf6 gxf6 31.c3 a4 32.Rd2 Ra8 33.Rdf2 Rf8 34.Rf5 Rh4 35.R1f3 Re4 36.Rh5 Rf7 37.Rf2 Ne5 38.Rhf5 Nd7 39.Ka2 Rh4 40.R2f3 Re4 41.Rf2 Rh4 42.R2f3 Re4 1/2-1/2

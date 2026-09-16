@@ -1,0 +1,14 @@
+[Event "Round 4: Smirin, Ilia - Mendonca, Leon Luke"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/i9OHXsLu"]
+[Date "2026.06.25"]
+[Round "4.1"]
+[White "Smirin, Ilia"]
+[Black "Mendonca, Leon Luke"]
+[Result "1/2-1/2"]
+[WhiteElo "2568"]
+[BlackElo "2616"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.Bd3 Nb4 6.Bb5+ c6 7.Ba4 Bd6 8.c3 Na6 9.O-O Ne7 10.Bc2 O-O 11.Re1 Bf5 12.Bg5 Bxc2 13.Qxc2 Nc7 14.Bh4 Ne6 15.Nbd2 Qc7 16.Bg3 Rae8 17.Bxd6 Qxd6 18.Ne5 Ng6 19.Ndf3 Re7 20.Nxg6 hxg6 21.Re3 Rfe8 22.Rae1 Nf8 23.Rxe7 Rxe7 24.Qd2 f6 25.h4 Re6 26.Kf1 Rxe1+ 27.Kxe1 Qe6+ 28.Kf1 Qe4 29.Qd1 Ne6 30.g3 Kf7 31.Ne1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Cools, Gorik - Zouaghi, Amir"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/XvO3dD9F"]
+[Date "2026.07.21"]
+[Round "7.5"]
+[White "Cools, Gorik"]
+[Black "Zouaghi, Amir"]
+[Result "0-1"]
+[WhiteElo "2174"]
+[BlackElo "2374"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 d5 4.Nbd2 Nf6 5.g3 Nc6 6.Bg2 Be7 7.O-O O-O 8.Re1 b5 9.e5 Nd7 10.Nf1 a5 11.h4 a4 12.a3 Bb7 13.N1h2 Qb6 14.h5 h6 15.Bf4 Rfc8 16.Qd2 Qd8 17.g4 b4 18.Re2 bxa3 19.bxa3 Ba6 20.c3 Rab8 21.g5 hxg5 22.Nxg5 Nf8 23.Ng4 Nh7 24.Nxh7 Kxh7 25.Kh2 Rb3 26.Bh6 Qf8 27.Bg5 Bxg5 28.Qxg5 Qe7 29.Nf6+ gxf6 30.exf6 Qd6+ 31.f4 Rg8 32.Qh4 Bxd3 33.Re3 Bf5 34.Rg1 Rg4 0-1

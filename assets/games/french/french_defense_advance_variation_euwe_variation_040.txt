@@ -1,0 +1,15 @@
+[Event "Round 1: Willow, Jonah B - Dicen, Elis Denele"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-1/m5gtRjwj/AagQJDeT"]
+[Date "2026.07.18"]
+[Round "1.2"]
+[White "Willow, Jonah B"]
+[Black "Dicen, Elis Denele"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2091"]
+[ECO "C02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6 7.O-O fxe5 8.Nxe5 Nxe5 9.dxe5 Qc7 10.Re1 Bc6 11.Nd2 Ne7 12.Nf3 h6 13.b4 Nf5 14.b5 Bd7 15.c4 d4 16.Nd2 Be7 17.Bh5+ Kd8 18.a4 g5 19.Ne4 Be8 20.Bf3 Bf7 21.a5 Nh4 22.a6 bxa6 23.Nd6 Bxd6 24.exd6 Qb8 25.Rxa6 Nf5 26.Bd2 Rg8 27.Qa4 Qc8 28.Bxa8 Qxa8 29.Rxa7 1-0

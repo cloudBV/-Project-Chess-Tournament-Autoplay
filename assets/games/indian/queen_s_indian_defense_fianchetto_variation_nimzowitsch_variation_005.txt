@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "4.5"]
+[White "Grzebieniowski, Michal"]
+[Black "Rekuc, Patryk"]
+[Result "1/2-1/2"]
+[WhiteElo "2092"]
+[BlackElo "2315"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 c5 7.dxc5 bxc5 8.O-O Be7 9.b3 d5 10.cxd5 exd5 11.Bb2 O-O 12.Ne5 Nbd7 13.Ndc4 Rc8 14.Nxd7 Qxd7 15.Ne5 Qe6 16.Rc1 Rfe8 17.Nd3 Qa6 18.Rc2 Ne4 19.Nf4 d4 20.Qd3 f5 21.Qxa6 Bxa6 22.Rfc1 Bf8 23.Nd3 g6 24.f3 Nc3 25.Bxc3 dxc3 26.Rxc3 Rxe2 27.Bf1 Rxa2 28.Nb4 cxb4 29.Rxc8 Bxc8 30.Rxc8 Kg7 31.Bc4 Bd6 32.f4 Rc2 33.Rc6 Be7 34.Rc7 Kf6 35.Rc6+ Kg7 36.Rc7 Rc1+ 37.Kf2 Kf8 38.Rc8+ 1/2-1/2

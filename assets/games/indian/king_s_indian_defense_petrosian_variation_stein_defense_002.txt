@@ -1,0 +1,15 @@
+[Event "Round 7: Kavutskiy, Kostya - Caruana, Fabiano"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-7/2q8QHmt1/4A1URvGv"]
+[Date "2026.07.03"]
+[Round "7.19"]
+[White "Kavutskiy, Kostya"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteElo "2414"]
+[BlackElo "2716"]
+[ECO "E92"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.d5 a5 8.h3 Na6 9.Qc2 Nh5 10.Be3 Nf4 11.Bf1 f5 12.g3 fxe4 13.Nxe4 Nxd5 14.cxd5 Rxf3 15.Be2 Rf8 16.a3 Bf5 17.h4 b6 18.h5 Nc5 19.Bxc5 bxc5 20.hxg6 hxg6 21.O-O-O Bxe4 22.Qxe4 Qg5+ 23.Kb1 Rxf2 24.Rdf1 Raf8 25.Rd1 Qf5 26.Qxf5 gxf5 27.Rd2 e4 28.Rc2 Rg2 29.g4 fxg4 30.Bd1 Rxc2 31.Bxc2 Rf4 32.Re1 g3 33.Bxe4 Rf2 34.Rg1 Rxb2+ 35.Kc1 Rb3 36.a4 Be5 37.Rg2 Kg7 0-1

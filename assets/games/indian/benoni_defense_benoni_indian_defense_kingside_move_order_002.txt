@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.11"]
+[Round "1.3"]
+[White "IgelHCE 3.6.13"]
+[Black "Lynx 1.11.0-dev-edbae92a"]
+[Result "0-1"]
+[WhiteElo "3223"]
+[BlackElo "3332"]
+[ECO "A43"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 e6 4.Nc3 exd5 5.Nxd5 Nxd5 6.Qxd5 d6 7.Ng5 Qe7 8.Bf4 Be6 9.Nxe6 fxe6 10.Qb3 g5 11.Bg3 Nc6 12.O-O-O O-O-O 13.h4 d5 14.e4 c4 15.Qe3 g4 16.h5 d4 17.Qe2 c3 18.Qc4 e5 19.Kb1 Bh6 20.Be2 cxb2 21.Bxg4+ Kb8 22.f3 a6 23.Qe6 Qg7 24.Rd3 Rhe8 25.Qc4 Re7 26.Bh4 Bg5 27.Be1 Rc7 28.Qa4 Ka7 29.g3 Rd6 30.Qa3 Qh6 31.Qa4 Qf6 32.Qc4 Qd8 33.Rh2 b6 34.Qa4 Bh6 35.Qa3 Rf6 36.Rg2 Qg8 37.Qa4 Qg5 38.Bd2 Qg7 39.Be1 Nb8 40.c3 Rfc6 41.Rxb2 a5 42.Qb5 Na6 43.Rd1 Be3 44.c4 Qf6 45.Rc2 Nc5 46.a3 d3 47.Rh2 Bd4 48.Bf5 Nb7 49.Bf2 Nd6 50.Qb3 Nxc4 51.Bxd4 exd4 52.Rxd3 Ne5 53.Rd1 Qe7 54.Rb2 Nc4 55.e5 Nxb2 56.Qxb2 Qxe5 57.Be4 Rc3 58.Rd3 Rxd3 59.Bxd3 Rc3 60.Qe2 Qc5 61.Bc2 Qxa3 62.Qe6 Qb4+ 63.Kc1 Qc5 64.Qd7+ Ka6 65.Kd2 Rxc2+ 66.Kd3 Qc3+ 67.Ke4 Qe3+ 68.Kf5 Qxf3+ 69.Ke5 Re2+ 70.Kd6 Qf8+ 71.Kc7 Rc2+ 72.Qc6 Rxc6+ 73.Kxc6 d3 74.Kd5 d2 75.Ke4 d1=Q 76.Ke5 Qe2+ 77.Kd5 Qc5# 0-1

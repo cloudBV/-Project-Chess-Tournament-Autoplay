@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.18"]
+[Round "16.10"]
+[White "Stash 37.24"]
+[Black "4k.c 9.15.1"]
+[Result "1-0"]
+[WhiteElo "3244"]
+[BlackElo "3017"]
+[ECO "C11"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 b5 7.f4 b4 8.cxb4 cxb4 9.Nf3 Be7 10.Be3 O-O 11.Rc1 Nb6 12.b3 a5 13.Ng3 a4 14.h4 f6 15.exf6 gxf6 16.Bd3 f5 17.Nh5 axb3 18.axb3 Kh8 19.g4 Rg8 20.Ne5 Qe8 21.g5 N8d7 22.Bb5 Ba6 23.Bc6 Rc8 24.Ra1 Rxc6 25.Nxc6 Bb5 26.Na7 Nb8 27.Nxb5 Qxb5 28.Qe2 Qc6 29.O-O N6d7 30.Rfc1 Qb6 31.Rc2 Qd6 32.Bf2 Re8 33.Rac1 Kg8 34.Rc8 Rf8 35.Rxf8+ Bxf8 36.Rc8 Qa6 37.Qxa6 Nxa6 38.Rc6 Nab8 39.Rxe6 Kf7 40.Re1 Bd6 41.Be3 Nf8 42.Ng3 Ne6 43.Rf1 Ng7 44.h5 Nc6 45.Ra1 Ne6 46.Ra6 Bxf4 47.Bxf4 Ncxd4 48.Be3 Nb5 49.Nxf5 d4 50.Rxe6 Kxe6 51.Nxd4+ Nxd4 52.Bxd4 Kf5 53.g6 hxg6 54.h6 Ke4 55.Ba1 Kd3 56.h7 Kc2 57.h8=Q Kxb3 58.Qg8+ Ka3 59.Qc4 g5 60.Qc2 b3 61.Qc5+ Ka4 62.Bc3 b2 63.Qb4# 1-0

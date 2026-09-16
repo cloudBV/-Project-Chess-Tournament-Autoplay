@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.5"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Musial, Igor"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2175"]
+[ECO "B21"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 g6 5.Nc3 Bg7 6.Nf3 d6 7.Be2 Nf6 8.O-O O-O 9.Nd5 Be6 10.c3 Nd7 11.Bg5 Nc5 12.Qc2 f5 13.Nf4 fxe4 14.Nxe6 Nxe6 15.Qxe4 Nxg5 16.Nxg5 Ne5 17.Ne6 Qb6 18.Nxf8 Rxf8 19.b3 e6 20.Qb4 Qxb4 21.cxb4 Nc6 22.Rad1 Nd4 23.Bd3 d5 24.f4 Kf7 25.Rc1 Re8 26.Rc7+ Re7 27.Rfc1 Nc6 28.Rxe7+ Kxe7 29.b5 Nb4 30.Rc7+ Kf8 31.Bb1 d4 32.a3 Nd5 33.Rxb7 Nxf4 34.g3 Ne2+ 35.Kf2 Nc3 36.Bd3 e5 37.Kf3 Bh6 38.Rxa7 e4+ 39.Bxe4 Nxb5 40.Rxh7 Bc1 41.a4 Nd6 42.Bxg6 1-0

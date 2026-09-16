@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "5.6"]
+[White "Svacina, Tobias"]
+[Black "Juhanak, Daniel"]
+[Result "0-1"]
+[WhiteElo "2225"]
+[BlackElo "2210"]
+[ECO "B40"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Bb4 7.Nxc6 bxc6 8.Bd3 e5 9.O-O O-O 10.Qc2 Bc5 11.Na4 Bd4 12.Be3 c5 13.Bxd4 cxd4 14.c5 Bb7 15.b4 Nh5 16.Nb2 Nf4 17.Nc4 Qg5 18.g3 f5 19.Nd6 fxe4 20.Bxe4 Bxe4 21.Qxe4 Rab8 22.b5 Rf6 23.Kh1 Ne6 24.c6 dxc6 25.bxc6 Rbf8 26.Qd5 Kh8 27.Ne4 Qf5 28.Nxf6 Qxf6 29.Rae1 Ng5 30.Rxe5 Nf3 31.Rh5 g6 32.Rh3 d3 33.Qxd3 Qxc6 34.g4 Ne1+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Dobrosmyslov, Artem - Lumachi, Gabriele"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/4GbU4Yl0"]
+[Date "2026.07.21"]
+[Round "7.1"]
+[White "Dobrosmyslov, Artem"]
+[Black "Lumachi, Gabriele"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2465"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.a3 Bxc3+ 6.Qxc3 O-O 7.Bg5 h6 8.Bh4 Nbd7 9.e3 b6 10.Ne2 Bb7 11.Qc2 c5 12.Rd1 d5 13.dxc5 bxc5 14.Nc3 Qb6 15.Be2 d4 16.exd4 cxd4 17.Na4 Qc6 18.Bf3 Qa6 19.Bxb7 Qxb7 20.O-O e5 21.b4 Nh5 22.Bg3 Nxg3 23.hxg3 Rfc8 24.f4 a5 25.fxe5 axb4 26.Qf5 Nf8 27.Nb2 bxa3 28.Nd3 Rxc4 29.Nf4 Re8 30.Nh5 Ng6 31.e6 Rxe6 32.Rb1 Qe7 33.Rb8+ Nf8 34.Nf4 Rc5 35.Rxf8+ Qxf8 36.Nxe6 Rxf5 37.Nxf8 Rxf1+ 38.Kxf1 a2 0-1

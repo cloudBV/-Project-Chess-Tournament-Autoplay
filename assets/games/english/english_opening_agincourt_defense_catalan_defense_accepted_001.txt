@@ -1,0 +1,15 @@
+[Event "Round 6: Sanchez, Sebastian Felipe - Fuentes Guinot, Alejandro"]
+[Site "https://lichess.org/broadcast/v-magistral-internacional-ciudad-de-sant-joan-de-alacant/round-6/uPgD5mOz/2jJ2n2qK"]
+[Date "2026.07.01"]
+[Round "6.2"]
+[White "Sanchez, Sebastian Felipe"]
+[Black "Fuentes Guinot, Alejandro"]
+[Result "1/2-1/2"]
+[WhiteElo "2396"]
+[BlackElo "2292"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6 7.Qb3 c5 8.a4 Be7 9.d3 O-O 10.Nc3 Nb8 11.Ne5 Qc7 12.Nc4 Nc6 13.Qb6 Qd7 14.Bxc6 bxc6 15.Ne5 Qd6 16.Nxc6 Bd8 17.Bf4 Bxb6 18.Bxd6 Bb7 19.a5 Bxc6 20.axb6 Bxh1 21.f3 Nd7 22.Kf2 Bxf3 23.Kxf3 Nxb6 24.Bxf8 Kxf8 25.Ra5 c4 26.d4 Ke7 27.Na4 Nxa4 28.Rxa4 Rb8 29.Rxc4 Rxb2 30.Rc7+ Kf6 31.Ra7 Ra2 32.h4 Ra3+ 33.e3 h5 34.Kf4 Ra4 35.Kf3 Ra5 36.e4 Ra3+ 37.Kf4 Rd3 38.Rxa6 Rxd4 39.Ra5 g6 40.Ke3 Rb4 41.Kf3 Rb3+ 42.Kf2 Rc3 43.Rb5 Kg7 44.Rb7 Rc6 45.Kf3 Kf6 46.Ra7 Rb6 47.Ke3 e5 48.Ra8 Re6 49.Kf3 Kg7 50.Ra7 Kf6 51.Ra8 Re7 52.Ra6+ Kg7 53.Ra5 f6 54.Ke3 Kh6 55.Ra6 Rf7 56.Kf3 g5 57.hxg5+ Kxg5 58.Ra8 Rb7 59.Rg8+ Kh6 60.Kf2 Kh7 61.Ra8 Rb2+ 62.Kf3 Rb3+ 63.Kf2 h4 64.gxh4 Rh3 65.Rb8 Rxh4 66.Kf3 Rh3+ 67.Kf2 Ra3 68.Rc8 Kg6 69.Rg8+ Kf7 70.Rb8 Ra6 71.Kf3 Re6 72.Ra8 Re8 73.Ra7+ Kg6 74.Ra1 Rb8 75.Rg1+ Kf7 76.Ra1 Rb3+ 77.Kf2 f5 78.exf5 Kf6 79.Ke2 Kxf5 80.Ra4 1/2-1/2

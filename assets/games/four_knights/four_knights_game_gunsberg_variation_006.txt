@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.7"]
+[White "Portelli, Matthew"]
+[Black "Pycinski, Wladyslaw"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2191"]
+[ECO "C47"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 g6 5.d4 exd4 6.Nxd4 Bg7 7.Be3 O-O 8.Qd2 Re8 9.f3 d5 10.Nxc6 bxc6 11.O-O-O Bb7 12.exd5 cxd5 13.Bh6 c5 14.Bxg7 Kxg7 15.h4 d4 16.Ne2 Nd5 17.h5 Ne3 18.hxg6 hxg6 19.Re1 Qg5 20.Kb1 Rad8 21.Nc1 Qd5 22.Bb5 Re6 23.Bd3 Qd7 24.Qf2 c4 25.Be4 Bxe4 26.fxe4 Rxe4 27.Rh3 Kf8 28.Qf6 1-0

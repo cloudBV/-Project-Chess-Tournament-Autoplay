@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "4.4"]
+[White "Gines Esteo, Pedro Antonio"]
+[Black "Hernandez Leon, Alberto"]
+[Result "1-0"]
+[WhiteElo "2431"]
+[BlackElo "2218"]
+[ECO "A15"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 Be7 5.e3 O-O 6.Nc3 c5 7.cxd5 Nxd5 8.Qc2 Nc6 9.h4 b6 10.a3 Nxc3 11.Ng5 f5 12.Bxc3 h6 13.Nf3 Bf6 14.Bc4 Na5 15.Ne5 Nxc4 16.bxc4 Bb7 17.h5 Qd6 18.Qb2 Rad8 19.f3 Ba6 20.Rc1 Rfe8 21.a4 Qc7 22.Rd1 Bb7 23.d3 Bc6 24.Ke2 Bxe5 25.Bxe5 Qf7 26.Rh3 Bxa4 27.Ra1 Bc6 28.Rg3 Kf8 29.Bxg7+ Ke7 30.Rxa7+ Rd7 31.Bf6+ Kf8 32.Bg7+ Ke7 33.Bf6+ Kf8 34.Bh4 Rxa7 35.Qh8+ 1-0

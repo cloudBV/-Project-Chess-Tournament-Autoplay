@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "4.8"]
+[White "Warchol, Kamil"]
+[Black "Kowalski, Witold"]
+[Result "1-0"]
+[WhiteElo "2297"]
+[BlackElo "2044"]
+[ECO "C55"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.a4 g5 7.Nc3 Bg7 8.Ne2 O-O 9.Ng3 Be6 10.a5 a6 11.Re1 Qd7 12.h4 g4 13.Nh2 Ne7 14.Bxe6 Qxe6 15.f3 gxf3 16.Qxf3 c6 17.Be3 Kh7 18.Rf1 Rg8 19.Kh1 Raf8 20.Rf2 Ne8 21.Ng4 f6 22.Raf1 Rf7 23.d4 Rgf8 24.Nh5 f5 25.Nxg7 Nxg7 26.Nxh6 Rf6 27.Nxf5 Nexf5 28.exf5 Rxf5 29.Qg3 Rxf2 30.Rxf2 Rxf2 31.Qxf2 Qg4 32.dxe5 dxe5 33.Bg5 Nf5 34.Kh2 Kg6 35.c3 e4 36.Kg1 Qd1+ 37.Qf1 Qg4 38.Qe1 Kh5 39.Qf2 Kg6 40.Kh2 Kh5 41.Kg1 Kg6 42.Qe1 Kh5 43.Bd8 e3 44.Bg5 Qe4 45.Qe2+ Kg6 46.g4 Ng3 47.Qxe3 Qxg4 48.Qe8+ Kg7 49.Qe7+ Kg8 50.Qd8+ Kg7 51.Qf6+ Kg8 52.Qd8+ Kf7 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Babiarz, Arkadiusz - Redzisz, Michal"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/pmfrGnpX"]
+[Date "2026.07.19"]
+[Round "6.27"]
+[White "Babiarz, Arkadiusz"]
+[Black "Redzisz, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2150"]
+[BlackElo "2272"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.h4 Nf6 5.d4 e4 6.Ng5 Be7 7.Nh3 Be6 8.e3 c6 9.Nf4 Bf7 10.d5 O-O 11.Be2 Nbd7 12.g3 Ne5 13.Kf1 Rc8 14.Kg2 Qd7 15.b3 c5 16.Bb2 Nfg4 17.Qd2 Bf6 18.Rad1 Rfd8 19.a4 g6 20.a5 Kg7 21.Nb5 a6 22.Nc3 h6 23.Na4 Qe7 24.Qc1 Rh8 25.Nb6 Rcd8 26.Qa1 g5 27.hxg5 hxg5 28.Ne6+ Bxe6 29.dxe6 Qxe6 30.Nd5 Kg6 31.Bc3 Nh6 32.Qb1 Rh7 33.Qa1 Nhf7 34.Rxh7 Kxh7 35.f4 exf3+ 36.Bxf3 Bg7 37.e4 g4 38.Be2 fxe4 39.Rh1+ Kg8 40.Rh5 Rd7 41.Nf4 Qe7 42.Nd5 Qe6 43.Nf4 Qe7 44.Nd5 1/2-1/2

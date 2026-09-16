@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.2"]
+[White "Radzimski, Antoni"]
+[Black "Grot, Blazej"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2213"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 Bd6 5.b3 O-O 6.Bb2 Re8 7.g3 c5 8.Bg2 Nc6 9.cxd5 exd5 10.d4 Bg4 11.dxc5 Bxc5 12.O-O Bb6 13.Na4 Ne4 14.Nxb6 axb6 15.Qd3 Bxf3 16.Bxf3 Ne5 17.Bxe5 Rxe5 18.Qd4 Re6 19.Rfd1 Nf6 20.Bxd5 Rd6 21.Bxf7+ Kxf7 22.Qxd6 Qc8 23.Rac1 Qf5 24.Rc7+ Kg6 25.Qe7 Rxa2 26.Qxg7+ Kh5 27.g4+ Qxg4+ 28.Qxg4+ Nxg4 29.Rf1 Rb2 30.Rxh7+ Kg6 31.Rxb7 Rxb3 32.Kg2 Rb2 33.Kg3 Nf6 34.f3 Rb3 35.Rd1 Nh5+ 36.Kh3 Rxe3 37.Rxb6+ Kf7 38.Rd7+ Ke8 39.Rh7 Rxf3+ 40.Kg2 1-0

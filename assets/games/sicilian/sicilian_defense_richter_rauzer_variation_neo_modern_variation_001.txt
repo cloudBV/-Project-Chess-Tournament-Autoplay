@@ -1,0 +1,15 @@
+[Event "Chess Festival Ceske Budejovice 2026 - GM"]
+[Site "Clarion Congress Hotel Ceske Budejovice, Czech Republic"]
+[Date "2026.06.30"]
+[Round "1.1"]
+[White "Haring, Filip"]
+[Black "Korobov, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2446"]
+[BlackElo "2621"]
+[ECO "B67"]
+[TimeControl "2x 90 minutes / 40 moves + 30 minutes + 30 second / move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Nxd4 10.Qxd4 Be7 11.f4 Bc6 12.Bc4 h6 13.Bh4 O-O 14.e5 dxe5 15.Qxe5 Nd7 16.Bxe7 Qxe7 17.Qe2 Qf6 18.Rhf1 b5 19.Bd3 Nc5 20.Ne4 Bxe4 21.Bxe4 Rad8 22.Qe3 Nxe4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Mohammadian sechani, Arshia - Dogan, Umut Anil"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/Fdsktt4x"]
+[Date "2026.07.13"]
+[Round "1.8"]
+[White "Mohammadian sechani, Arshia"]
+[Black "Dogan, Umut Anil"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2195"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.h3 Nd7 12.Be3 Nf8 13.Rad1 Bd7 14.c4 Rc8 15.Nc3 Bb8 16.Qd2 Qc7 17.f4 b6 18.d5 c5 19.Rde1 f5 20.Qc2 g6 21.b3 Qd6 22.Qf2 Qf6 23.Ne2 Qb2 24.Rb1 Qxa2 25.Bc1 Bd6 26.Bb2 Nh7 27.Bc3 Qa6 28.Qxh4 Be7 29.Qf2 Qb7 30.Rbe1 Bf6 31.Bxf6 Nxf6 32.Qh4 Kg7 33.Ng3 Nh7 34.Re5 f6 35.Re2 Rxe2 36.Nxe2 Re8 37.Rf3 b5 38.Qf2 bxc4 39.bxc4 Qb4 40.h4 a5 41.h5 g5 42.Ng3 Qe1+ 43.Qxe1 Rxe1+ 44.Kf2 Rd1 45.Bxf5 gxf4 46.Rxf4 Bxf5 47.Nxf5+ Kf8 48.Re4 Rd2+ 49.Kg1 a4 50.Re3 Rd1+ 51.Kh2 Ng5 52.Ra3 Rf1 53.Nh4 Kg7 54.Rxa4 Ne4 55.Ra8 Nd6 56.g4 Rf2+ 57.Kh3 Nxc4 58.Nf5+ Kh7 59.Ra7+ Kh8 60.Ra8+ Kh7 61.Rf8 Rd2 62.Rxf6 Rxd5 63.Rh6+ 1-0

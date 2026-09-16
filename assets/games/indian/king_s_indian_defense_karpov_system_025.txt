@@ -1,0 +1,14 @@
+[Event "Round 2: Huhndorf, Arnold - Daemering, Katrin"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/o0gQgJCG"]
+[Date "2026.07.18"]
+[Round "2.12"]
+[White "Huhndorf, Arnold"]
+[Black "Daemering, Katrin"]
+[Result "1-0"]
+[WhiteElo "2157"]
+[BlackElo "2022"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nbd7 7.Nf3 e5 8.d5 h6 9.g4 Ne8 10.Bd3 c6 11.Nd2 Nc5 12.Bc2 cxd5 13.cxd5 b6 14.h4 a5 15.h5 g5 16.f3 Ba6 17.Nf1 Rc8 18.Ng3 f6 19.Qd2 Rf7 20.Kf2 Rfc7 21.Rhc1 Bf8 22.Nce2 Rb7 23.b3 Bb5 24.a3 Ra7 25.b4 axb4 26.axb4 Rxa1 27.Rxa1 Nd7 28.Bd3 Bc4 29.Rc1 Bxd3 30.Rxc8 Qxc8 31.Qxd3 Nc7 32.Qc4 b5 33.Qc3 Qd8 34.Qc6 Qc8 35.Nf5 Nb8 36.Qb6 Nd7 37.Qa5 Qb7 38.Nc1 Nb8 39.Kg3 Nba6 40.Nb3 Kf7 41.Qa3 Ke8 42.Na5 Qa8 43.Nc6 Qb7 44.Qa5 Kd7 45.Kf2 Ke8 46.Ke2 Kd7 47.Kd2 Ke8 48.Kc3 Kd7 49.Kb3 Ke8 50.Ng3 Kd7 51.Ne2 Nb8 52.Qa7 Kc8 53.Na5 Qxa7 54.Bxa7 Nba6 55.Bb6 Na8 56.Be3 N8c7 57.Nc3 Nb8 58.Nc6 Kb7 59.Nxb8 Kxb8 60.Bb6 Na8 61.Bd8 Kc8 62.Ba5 Nc7 63.Bxc7 Kxc7 64.Nxb5+ Kb6 65.Nc3 Be7 66.Ka4 Bd8 67.Ne2 Be7 68.Ng3 Ka6 69.Nf5 Bf8 70.b5+ Kb6 71.Kb4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 3: Hartofylakas, Spyros - Vlachos, Anatole"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/gbnbdGJe"]
+[Date "2026.07.06"]
+[Round "3.22"]
+[White "Hartofylakas, Spyros"]
+[Black "Vlachos, Anatole"]
+[Result "0-1"]
+[WhiteElo "2218"]
+[BlackElo "2493"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Be3 Nd7 7.Be2 Ne7 8.dxc5 Qxd1+ 9.Bxd1 Nd5 10.b4 Nxe3 11.fxe3 b6 12.cxb6 Nxb6 13.Kf2 Bb7 14.Nbd2 Rc8 15.Be2 Rxc3 16.Rhc1 Rxc1 17.Rxc1 Bxb4 18.Rb1 Bc5 19.Nb3 Be4 20.Rd1 Ba3 21.Bxa6 Ke7 22.Ne5 Ra8 23.Bd3 Bd5 24.Rd2 Bb4 25.Rc2 Ra3 26.Nd4 Kf6 27.Nec6 Bf8 28.e4 Bxc6 29.e5+ Kg5 30.Rxc6 Rxd3 31.Nf3+ Kh6 32.Ke2 Nd5 33.Rc4 Re3+ 34.Kf2 Be7 35.a4 Ra3 36.h4 Ra2+ 37.Kg3 Rxg2+ 0-1

@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "25.3"]
+[White "Deac, Bogdan-Daniel"]
+[Black "Gukesh D"]
+[Result "0-1"]
+[WhiteElo "2649"]
+[BlackElo "2655"]
+[ECO "E47"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 d5 7.cxd5 cxd4 8.exd4 Qxd5 9.O-O Qh5 10.Ne4 Nbd7 11.Bf4 b6 12.Qa4 Be7 13.N2g3 Qg4 14.Nxf6+ Nxf6 15.Be5 Bd7 16.Qd1 Qh4 17.Rc1 Ng4 18.h3 Nxe5 19.dxe5 Rad8 20.Rc7 Bb5 21.Rxe7 Qxe7 0-1

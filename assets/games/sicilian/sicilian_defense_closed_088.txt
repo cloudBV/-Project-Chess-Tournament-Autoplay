@@ -1,0 +1,15 @@
+[Event "Round 9: Narciso Dublan, Marc - Villa Tornero, Alex"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-9/zGvTvuUZ/SA3H5AJn"]
+[Date "2026.07.21"]
+[Round "9.3"]
+[White "Narciso Dublan, Marc"]
+[Black "Villa Tornero, Alex"]
+[Result "1/2-1/2"]
+[WhiteElo "2384"]
+[BlackElo "2448"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nge2 Be7 6.O-O O-O 7.d3 Rb8 8.a4 a6 9.f4 d5 10.e5 Nd7 11.g4 b5 12.axb5 axb5 13.Ng3 c4 14.Nce2 cxd3 15.cxd3 Qb6+ 16.d4 b4 17.b3 Ba6 18.Bb2 Bh4 19.Bf3 Ra8 20.Kg2 Bb5 21.Qd2 Rxa1 22.Rxa1 Rc8 23.Ng1 Na5 1/2-1/2

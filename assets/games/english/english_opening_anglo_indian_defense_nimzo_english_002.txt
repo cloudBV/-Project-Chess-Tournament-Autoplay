@@ -1,0 +1,14 @@
+[Event "Round 2: Marie, Maxime - Ikonnikov, Vyacheslav"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-2/vaQgyEpD/M9KyYO54"]
+[Date "2026.07.19"]
+[Round "2.2"]
+[White "Marie, Maxime"]
+[Black "Ikonnikov, Vyacheslav"]
+[Result "0-1"]
+[WhiteElo "2165"]
+[BlackElo "2461"]
+[ECO "A17"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Nimzo-English"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Ba5 6.e3 O-O 7.b3 d6 8.Bb2 e5 9.Be2 Re8 10.O-O Bg4 11.h3 Bh5 12.d3 Nc6 13.Rfd1 a6 14.Nh2 Bg6 15.Ne4 h6 16.Nxf6+ Qxf6 17.Bf3 Qe7 18.Bc3 Bxc3 19.Qxc3 f5 20.Bd5+ Bf7 21.Nf1 Qd7 22.Bxc6 Qxc6 23.d4 cxd4 24.exd4 f4 25.dxe5 dxe5 26.Qb4 a5 27.Qb5 a4 28.Qxc6 bxc6 29.b4 Bxc4 30.Rac1 Bb5 31.Nd2 e4 32.Nc4 e3 33.fxe3 fxe3 34.Re1 e2 35.Nd6 Re3 36.Nxb5 cxb5 37.Rc5 Rxa3 38.Rxe2 Rb3 39.Re7 Kh8 40.Rcc7 Rg3 41.Rb7 Ra6 42.Re8+ Kh7 43.Rbb8 Kg6 44.h4 Rb3 45.h5+ Kxh5 46.Rxb5+ g5 47.Ree5 a3 48.Ra5 Rxa5 49.Rxa5 Kh4 50.Kh2 g4 51.Kg1 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Sevian, Samuel - Sheehan, Ethan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-7/kwLWCMdV/qQw1xIQi"]
+[Date "2026.07.05"]
+[Round "7.2"]
+[White "Sevian, Samuel"]
+[Black "Sheehan, Ethan"]
+[Result "0-1"]
+[WhiteElo "2677"]
+[BlackElo "2416"]
+[ECO "C54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Bg5 a6 7.Nbd2 Ba7 8.O-O h6 9.Bh4 Qe7 10.b4 g5 11.Bg3 h5 12.h4 g4 13.Ng5 Nd8 14.Kh1 Nd7 15.f4 f6 16.a4 Be3 17.d4 exf4 18.Bxf4 Bxf4 19.Rxf4 fxg5 20.hxg5 Qxg5 21.Qf1 Nb6 22.e5 Nxc4 23.Ne4 Qh4+ 24.Kg1 Ne6 25.g3 Qh3 26.Qxc4 Nxf4 27.Ra2 d5 28.Nf6+ Kd8 29.Qc5 Qxg3+ 30.Kf1 0-1

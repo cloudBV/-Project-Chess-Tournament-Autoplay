@@ -1,0 +1,15 @@
+[Event "Round 5: Zakhartsov, Viacheslav V. - Tabatadze, Erekle"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-5/UyYhtUBJ/idwRV7H7"]
+[Date "2026.07.16"]
+[Round "5.3"]
+[White "Zakhartsov, Viacheslav V."]
+[Black "Tabatadze, Erekle"]
+[Result "1/2-1/2"]
+[WhiteElo "2467"]
+[BlackElo "2305"]
+[ECO "E12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Nd7 8.Nxd5 exd5 9.Bg5 Qc8 10.g3 Bd6 11.Bh3 O-O 12.Bf4 Bxf4 13.gxf4 Qd8 14.Rc1 c5 15.Qa4 Nf6 16.O-O Ne4 17.e3 Qd6 18.Rfd1 1/2-1/2

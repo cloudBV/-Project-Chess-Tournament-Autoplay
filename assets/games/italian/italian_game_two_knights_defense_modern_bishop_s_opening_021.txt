@@ -1,0 +1,14 @@
+[Event "Round 2: Deveci, Huseyin Said - Arnaudov, G. Petar"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/FxDgafSF"]
+[Date "2026.07.05"]
+[Round "2.17"]
+[White "Deveci, Huseyin Said"]
+[Black "Arnaudov, G. Petar"]
+[Result "1-0"]
+[WhiteElo "2250"]
+[BlackElo "2399"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Be6 8.Nbd2 h6 9.a5 a6 10.c3 Bxc4 11.Nxc4 Re8 12.Qb3 Rb8 13.d4 exd4 14.cxd4 d5 15.Nce5 Nxe5 16.Nxe5 Bf8 17.Bf4 Re6 18.Rac1 dxe4 19.Nxf7 Qd5 20.Nxh6+ gxh6 21.Qg3+ Kh8 22.Rxc7 Qxd4 23.Qh3 Re5 24.Rf7 Rh5 25.Qg3 Rc8 26.Qg6 Rh4 27.Rxf6 Bg7 28.Rf7 Rc6 29.Qf5 Rf6 30.Rxf6 Qxf6 31.Qxf6 Bxf6 32.Rxe4 Rh5 33.b4 Rd5 34.g3 h5 35.Kg2 Kg7 36.Rc4 Kg6 37.Be3 Be7 38.Kf3 Rd3 39.Ke4 Rb3 40.Bc5 Bf6 41.h4 Rb1 42.Kd5 Rd1+ 43.Ke6 Rd2 44.Be3 Rb2 45.Kd7 Kf5 46.Rf4+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 4: Lapshun, Yury - Lin, Bryan Enming"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-4/U5p4vRB1/my6x8556"]
+[Date "2026.07.17"]
+[Round "4.8"]
+[White "Lapshun, Yury"]
+[Black "Lin, Bryan Enming"]
+[Result "1/2-1/2"]
+[WhiteElo "2272"]
+[BlackElo "2381"]
+[ECO "E92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Exchange Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d6 5.e4 O-O 6.Be2 e5 7.dxe5 dxe5 8.Qxd8 Rxd8 9.Nd5 Nxd5 10.cxd5 c6 11.Bc4 b5 12.Bb3 a5 13.Bg5 Rd7 14.Rc1 Bb7 15.Ke2 a4 16.dxc6 Nxc6 17.Bd5 Na5 18.Bxb7 Rxb7 19.Rhd1 f6 20.Be3 Nc4 21.Rc2 Bf8 22.Rd5 Kf7 23.Ne1 Rc8 24.Bd2 Rcc7 25.b3 Nxd2 26.Rdxd2 axb3 27.axb3 Ke6 28.Rxc7 Rxc7 29.Rc2 Ra7 30.Nd3 Bd6 31.b4 Ra4 32.Rc6 Kd7 33.Rb6 Bxb4 34.Rxb5 Bd6 35.f3 Kc6 36.Rb2 f5 37.Rc2+ Kd7 38.exf5 gxf5 39.Nc5+ Bxc5 40.Rxc5 Ra2+ 41.Kf1 Kd6 42.Rb5 h5 43.f4 Ra1+ 1/2-1/2

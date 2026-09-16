@@ -1,0 +1,15 @@
+[Event "Round 7: Sanglas Clariana, Josep - Verhoeven, Robin"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-grup-a/round-7/4YZSos7G/tplnQLzU"]
+[Date "2026.07.01"]
+[Round "7.9"]
+[White "Sanglas Clariana, Josep"]
+[Black "Verhoeven, Robin"]
+[Result "1/2-1/2"]
+[WhiteElo "2201"]
+[BlackElo "2012"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Qc7 6.Ne2 Bg4 7.O-O e6 8.Qe1 Bd6 9.f3 Bh5 10.Qh4 Bg6 11.Bxg6 fxg6 12.Nf4 Bxf4 13.Bxf4 Qb6 14.b3 Nbd7 15.Nd2 Rc8 16.Qe1 Kf7 17.Be3 Rxc3 18.Nc4 dxc4 19.Qxc3 Nd5 20.Qd2 c3 21.Qe2 N7f6 22.g3 Nxe3 23.Qxe3 Nd5 24.Qe4 Rd8 25.Rad1 Qa6 26.Rfe1 Rd6 27.Re2 b5 28.h4 b4 29.Kf2 Qb6 30.h5 gxh5 31.Qxh7 Nf6 32.Qd3 g6 33.a3 a5 34.axb4 axb4 35.Kg2 Qa6 36.Qc2 Qa7 37.Qd3 Qa6 38.Qe3 Nd5 39.Qe5 Nf6 40.Rde1 Qb6 41.g4 Qxd4 42.Qxd4 Rxd4 43.Rxe6 Nd5 44.Kg3 hxg4 45.fxg4 c2 46.Rc6 Rd1 47.Re5 c1=Q 48.Rc5 Qc2 49.Rxc2 Rc1 1/2-1/2

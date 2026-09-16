@@ -1,0 +1,15 @@
+[Event "Round 4: Elena, Eduardo - Ribeiro, Matheus Mendes Domingues"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-4/HZm6ua9Z/NUIY0amW"]
+[Date "2026.07.22"]
+[Round "4.3"]
+[White "Elena, Eduardo"]
+[Black "Ribeiro, Matheus Mendes Domingues"]
+[Result "0-1"]
+[WhiteElo "2116"]
+[BlackElo "2345"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Nxd4 Be7 11.c3 O-O 12.Nf3 Qc7 13.Qe2 b6 14.Ba6 Rd8 15.Bg5 h6 16.Bh4 Nd5 17.Bxe7 Qxe7 18.Bxc8 Raxc8 19.Rad1 Qf6 20.g3 b5 21.Ne5 a6 22.Rd3 Qe7 23.Rfd1 Re8 24.Qf3 Rc7 25.Rd4 Rec8 26.a4 Rc5 27.Qe4 Qc7 28.f4 bxa4 29.c4 Nb6 30.R1d3 Qe7 31.Rd6 Rd5 32.Rxb6 Qc5+ 33.Qe3 Rxd3 34.Qf2 Qxf2+ 35.Kxf2 Rb3 36.Rxa6 Rxb2+ 37.Kf3 f6 38.Nc6 Kh7 39.h4 h5 40.Ke4 a3 41.c5 a2 42.Nd4 Rxc5 43.Nxe6 Rc1 44.Kd4 0-1

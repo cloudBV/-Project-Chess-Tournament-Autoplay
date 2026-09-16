@@ -1,0 +1,15 @@
+[Event "Round 5: Verhaeren, Gertjan - Dgebuadze, Alexandre"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-5/GNSlVflY/TCVjHSkO"]
+[Date "2026.07.20"]
+[Round "5.6"]
+[White "Verhaeren, Gertjan"]
+[Black "Dgebuadze, Alexandre"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2399"]
+[ECO "A36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System"]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.e4 Nf6 6.Nge2 O-O 7.O-O Ne8 8.d3 Nc7 9.Be3 Nd4 10.Qd2 e5 11.Bh6 d6 12.Bxg7 Kxg7 13.Nd5 Nxe2+ 14.Qxe2 Ne6 15.f4 Nd4 16.Qd2 Be6 17.Ne3 Bd7 18.f5 f6 19.h4 gxf5 20.exf5 Rb8 21.Be4 Kh8 22.Kh2 Qe7 23.g4 Qg7 24.Rg1 Qh6 25.Kh3 Bc6 26.Qf2 Rg8 27.Rg3 Rg7 28.Bd5 Qf4 29.Rf1 Qxf2 30.Rxf2 h6 31.g5 hxg5 32.hxg5 fxg5 33.Bxc6 bxc6 34.f6 Rh7+ 35.Kg4 Rf8 36.a3 Rh4+ 37.Kxg5 Rh7 38.Nf5 Ne6+ 39.Kg6 Rg8+ 40.Ng7 Nxg7 41.f7 Rf8 42.Rff3 Nh5 0-1

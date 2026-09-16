@@ -1,0 +1,14 @@
+[Event "Round 4: Gajdzica, Maciej - Luukkonen, Tommi"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-4/QbASiENr/FoE0JPKQ"]
+[Date "2026.07.14"]
+[Round "4.16"]
+[White "Gajdzica, Maciej"]
+[Black "Luukkonen, Tommi"]
+[Result "0-1"]
+[WhiteElo "2110"]
+[BlackElo "2230"]
+[ECO "B67"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Be7 10.h4 b5 11.Nxc6 Bxc6 12.Ne2 Qc7 13.Nd4 Bd7 14.Kb1 h6 15.Be3 h5 16.Bd3 d5 17.e5 Qxe5 18.Bxb5 Qc7 19.Bf4 Qb6 20.Bxd7+ Nxd7 21.c4 Nf6 22.Rhe1 O-O 23.g4 Bb4 24.Qe2 Bxe1 25.Qxe1 dxc4 26.Be5 Rab8 27.Rd2 c3 28.Rg2 hxg4 29.Qxc3 Rbc8 30.Qd2 Rfd8 31.Qf4 Qa5 32.a3 Qe1+ 33.Ka2 Nh5 34.Qh2 g3 35.Bxg3 Nxg3 36.Nc2 Qe5 37.f4 Qd5+ 38.b3 Ne4 39.Ne3 Nc3+ 40.Kb2 Qd4 41.Nc4 Rxc4 42.bxc4 Rb8+ 43.Kc2 Qd1+ 44.Kxc3 Rb3# 0-1

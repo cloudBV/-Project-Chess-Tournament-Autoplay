@@ -1,0 +1,15 @@
+[Event "Round 7: Vingris,Mikelis - Aishwin Daniel"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-7/cOUdY2gl/jFiJMVqV"]
+[Date "2026.07.01"]
+[Round "7.10"]
+[White "Vingris,Mikelis"]
+[Black "Aishwin Daniel"]
+[Result "0-1"]
+[WhiteElo "2295"]
+[BlackElo "2222"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.Nf3 Be7 8.a3 Qa5 9.Nf4 Nxd4 10.Nxd4 cxd4 11.b4 Qc7 12.cxd4 Qc3+ 13.Bd2 Qxd4 14.Ne2 Qe4 15.Be3 O-O 16.Ng3 Qxe5 17.Be2 Bf6 18.Ra2 d4 19.Bc1 a5 20.b5 Nc5 21.O-O Qd5 22.Rd2 e5 23.Bb2 Nb3 24.Rd3 Nc5 25.Rd2 Rd8 26.Qb1 Nb3 27.Rdd1 Bg5 28.Ne4 Be7 29.Ng3 a4 30.Rfe1 g6 31.f4 exf4 32.Bf3 Qc5 33.Ne4 Qxb5 34.Bc1 Bf5 35.Bxf4 Bxe4 36.Qxe4 Bxa3 37.Be5 Bd6 38.Qf4 Bxe5 39.Rxe5 Qc4 40.Rf1 Ra5 41.Bd5 Qxf1+ 42.Kxf1 Raxd5 43.Rxd5 Rxd5 44.Qb8+ Kg7 45.Qxb7 Rf5+ 46.Ke1 d3 47.Qe4 d2+ 48.Ke2 a3 49.Qc2 Nd4+ 0-1

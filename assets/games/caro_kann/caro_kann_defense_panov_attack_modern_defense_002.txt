@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/fh6jAN5v"]
+[Date "2026.07.05"]
+[Round "9.14"]
+[White "Deszczynski, Adam"]
+[Black "Zajac, Szymon"]
+[Result "0-1"]
+[WhiteElo "2267"]
+[BlackElo "2117"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Be6 7.a3 g6 8.Bxf6 exf6 9.Be2 Bg7 10.Nf3 f5 11.c5 g5 12.Bb5 g4 13.Ne5 Bxe5 14.dxe5 d4 15.Bxc6+ bxc6 16.Ne2 d3 17.Nf4 Qd4 18.Qd2 Rb8 19.O-O Rxb2 20.Nxe6 fxe6 21.Qh6 Qxe5 22.Rad1 d2 23.Rxd2 Rxd2 24.Qxd2 Kf7 25.Qd7+ Kf6 26.Qxc6 h5 27.g3 h4 28.Rd1 Rd8 29.Rf1 h3 30.Qb7 Qxc5 31.Qh7 Qd5 32.Qh6+ Ke7 33.Qg7+ Kd6 34.f3 Qd2 35.Rf2 Qe1+ 36.Rf1 Qe3+ 37.Kh1 Qd2 0-1

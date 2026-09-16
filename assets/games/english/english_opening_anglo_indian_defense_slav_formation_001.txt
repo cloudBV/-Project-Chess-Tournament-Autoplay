@@ -1,0 +1,14 @@
+[Event "Round 7: Vassis, Michail - Mylonakis, Ioannis"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-7/b2O1BmYX/9lYT6vdl"]
+[Date "2026.07.16"]
+[Round "7.1"]
+[White "Vassis, Michail"]
+[Black "Mylonakis, Ioannis"]
+[Result "1/2-1/2"]
+[WhiteElo "2353"]
+[BlackElo "2126"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Slav Formation"]
+
+1.c4 Nf6 2.g3 c6 3.Nf3 g6 4.b3 Bg7 5.Bb2 d5 6.Bg2 O-O 7.O-O a5 8.cxd5 cxd5 9.Nc3 Nc6 10.Rc1 Ne4 11.Na4 Bxb2 12.Nxb2 Bg4 13.d3 Nf6 14.h3 Bxf3 15.Bxf3 Rc8 16.Qd2 Qd6 17.Na4 Qb4 18.Qb2 Qd4 19.Nc3 Qe5 20.Qd2 Nd4 21.Kg2 Nxf3 22.exf3 b6 23.d4 Qd6 24.Na4 Nd7 25.Qd3 Qb4 26.Nc3 e6 27.Nb5 a4 28.Na7 Rxc1 29.Rxc1 axb3 30.axb3 Ra8 31.Rc7 Qa5 32.Nc6 Qe1 33.Qf1 Qxf1+ 34.Kxf1 Nf6 35.Ne5 Ne8 36.Rxf7 Ra1+ 37.Kg2 Nd6 38.Re7 Nf5 39.Rxe6 Nxd4 40.Rxb6 Rb1 41.Rb8+ Kg7 42.Rb7+ Kf6 43.Ng4+ Ke6 44.Rxh7 Nc2 45.h4 d4 46.Rh8 Ke7 47.Ne5 Ne1+ 48.Kh3 d3 49.Nc4 Nxf3 50.Kg4 d2 51.Nxd2 Nxd2 52.Kg5 Ne4+ 53.Kxg6 Nxf2 54.Rh7+ Ke6 55.Rf7 Ng4 56.Rf4 Ne5+ 57.Kg5 1/2-1/2

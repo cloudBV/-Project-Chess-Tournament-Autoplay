@@ -1,0 +1,15 @@
+[Event "Round 8: Cera Dagariya - Uzdemir, Ali Poyraz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/x5kmqLiP"]
+[Date "2026.07.18"]
+[Round "8.13"]
+[White "Cera Dagariya"]
+[Black "Uzdemir, Ali Poyraz"]
+[Result "0-1"]
+[WhiteElo "2026"]
+[BlackElo "2265"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 a6 3.g3 Nc6 4.Bg2 g6 5.f4 Bg7 6.d3 d6 7.Nf3 e6 8.Be3 Nge7 9.O-O O-O 10.Qd2 Nd4 11.e5 Nef5 12.Bf2 Nxf3+ 13.Bxf3 Nd4 14.Bg2 dxe5 15.fxe5 Bxe5 16.Ne4 f5 17.c3 fxe4 18.cxd4 Bxd4 19.Bxe4 e5 20.Be3 Bh3 21.Rxf8+ Kxf8 22.Kh1 Qd7 23.Bxd4 cxd4 24.Qg5 Re8 25.g4 Kg7 26.Rg1 Qf7 27.Qh4 Bf1 28.Qg3 Qf6 29.g5 Qf7 30.Qg4 Rf8 31.Rg3 Qxa2 32.Rf3 Rxf3 33.Qxf3 Qf7 34.Qg3 Qe7 35.Kg1 Be2 36.h4 b6 37.Qf2 Bg4 38.Qc2 Qc5 39.Qf2 Qd6 40.Qc2 Be6 41.Qf2 Bd7 42.Qc2 Qc5 43.Qf2 Qd6 44.Qc2 a5 45.b3 b5 46.Qd2 Qb6 47.Qh2 Qe6 48.h5 Qg4+ 49.Bg2 Qxg5 50.h6+ Kf6 51.b4 a4 52.Kf2 Qe3+ 53.Kf1 Qxd3+ 54.Ke1 Qe3+ 55.Kd1 Bg4+ 56.Kc2 Qc3+ 57.Kb1 Bf5+ 0-1

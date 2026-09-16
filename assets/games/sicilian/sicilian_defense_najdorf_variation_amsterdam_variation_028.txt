@@ -1,0 +1,15 @@
+[Event "Round 4: Ilamparthi A R - Faizrakhmanov, Ramil"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/FSzIX0gk"]
+[Date "2026.07.24"]
+[Round "4.14"]
+[White "Ilamparthi A R"]
+[Black "Faizrakhmanov, Ramil"]
+[Result "1-0"]
+[WhiteElo "2524"]
+[BlackElo "2433"]
+[ECO "B93"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nc6 8.f5 Be7 9.Be3 O-O 10.Bd3 a5 11.a3 g6 12.fxg6 hxg6 13.Nd5 Nxd5 14.exd5 Nd4 15.Nd2 Bh4+ 16.g3 Bg5 17.Bxg5 Qxg5 18.O-O Bf5 19.Bxf5 Nxf5 20.Rf2 Kg7 21.Qf3 Qe3 22.Ne4 Qxf3 23.Rxf3 Nd4 24.Rf2 Rfd8 25.Rf6 Nxc2 26.Raf1 Rd7 27.Ng5 Rf8 28.Ne6+ fxe6 29.dxe6 Rfd8 30.exd7 Rxd7 31.Re6 Nd4 32.Re8 Nf5 33.Rc1 Ne7 34.b4 axb4 35.axb4 Kf7 36.Rh8 d5 37.Kf2 Ke6 38.g4 d4 39.h4 e4 40.h5 gxh5 41.gxh5 Nd5 42.h6 Rf7+ 43.Ke1 d3 44.Re8+ Kf5 45.Rc5 Kf4 46.Rxd5 Ke3 47.Rg8 Rc7 48.Rg3+ Kf4 49.Rh3 1-0

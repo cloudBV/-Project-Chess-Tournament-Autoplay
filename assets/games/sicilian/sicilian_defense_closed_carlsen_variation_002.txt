@@ -1,0 +1,15 @@
+[Event "Round 3: Sutormin, Danila - Sahbudak, Baris Cinar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-3/maOrUxVC/kWHjCWvT"]
+[Date "2026.07.04"]
+[Round "3.8"]
+[White "Sutormin, Danila"]
+[Black "Sahbudak, Baris Cinar"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2137"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Carlsen Variation"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 Nf6 6.b3 g6 7.Bb2 Bg7 8.O-O-O O-O 9.f3 Be6 10.Nge2 Rc8 11.Kb1 Qb6 12.Nd5 Bxd5 13.exd5 Ne5 14.Nc3 a6 15.Be2 Qf2 16.f4 Rxc3 17.Qxc3 Qxf4 18.Qd4 Qg5 19.g3 Rc8 20.Qf4 Qxf4 21.gxf4 Neg4 22.Bd4 Nh6 23.c4 Nf5 24.Bxf6 Bxf6 25.Bg4 b5 26.Bxf5 gxf5 27.Rhg1+ Kh8 28.cxb5 axb5 29.Rc1 Rb8 30.b4 h6 31.a3 Kh7 32.Rc7 h5 33.Kc2 h4 34.Kb3 Kh6 35.h3 Kh5 36.a4 bxa4+ 37.Kxa4 Ra8+ 38.Kb3 Rb8 39.Rg2 Ra8 40.Rg1 Rb8 41.Rb1 Rg8 42.b5 Bd4 43.Kc4 Bb6 44.Rb7 Be3 45.Rxe7 Bxf4 46.b6 Bg3 47.b7 Rb8 48.Ra1 f4 49.Ra8 Rxb7 50.Rxb7 Kg6 51.Rg8+ 1-0

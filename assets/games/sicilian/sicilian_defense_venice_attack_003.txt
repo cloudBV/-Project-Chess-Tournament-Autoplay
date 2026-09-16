@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.3"]
+[White "Czopor, Maciej"]
+[Black "Daaevik Wadhawan"]
+[Result "1/2-1/2"]
+[WhiteElo "2458"]
+[BlackElo "2360"]
+[ECO "B56"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Venice Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+ Nbd7 7.Nf5 a6 8.Bxd7+ Qxd7 9.Bg5 Nxe4 10.Nxg7+ Bxg7 11.Nxe4 O-O 12.Nf6+ Bxf6 13.Bxf6 Qf5 14.Qf3 Qg6 15.Qg3 Re8 16.Qxg6+ 1/2-1/2

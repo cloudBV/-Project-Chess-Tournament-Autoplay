@@ -1,0 +1,14 @@
+[Event "Round 2: Andersen, Jonathan - Bub, Volker"]
+[Site "https://lichess.org/broadcast/german-cup-championship-2026-dpem/round-2/l1g0hJN4/qKzFjA78"]
+[Date "2026.07.22"]
+[Round "2.1"]
+[White "Andersen, Jonathan"]
+[Black "Bub, Volker"]
+[Result "1-0"]
+[WhiteElo "2085"]
+[BlackElo "2103"]
+[ECO "E90"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 Nf6 5.Nf3 O-O 6.g3 e5 7.Bg2 Bg4 8.dxe5 Bxf3 9.Qxf3 dxe5 10.Bg5 c6 11.Rd1 Qe7 12.O-O h6 13.Be3 Nbd7 14.Qe2 Rfd8 15.f3 Nf8 16.Bh3 N6h7 17.Rxd8 Qxd8 18.Rd1 Qe7 19.Qd2 Ng5 20.Bxg5 hxg5 21.Qd6 Bf6 22.c5 Rd8 23.Qxe7 Rxd1+ 24.Nxd1 Bxe7 25.b4 b6 26.cxb6 axb6 27.a3 Kg7 28.Ne3 b5 29.Kf2 f6 30.Bc8 Bd6 31.Nc2 Kf7 32.Bb7 c5 33.Bc6 cxb4 34.axb4 Ne6 35.Bxb5 Ke7 36.Bc4 Nd4 37.Nxd4 exd4 38.b5 Bc5 39.Ke2 f5 40.e5 Bb6 41.h3 Bc5 42.Kd3 Bb6 43.Bd5 Ba7 44.Bg8 Kf8 45.Be6 Ke7 46.Bc8 Kd8 47.Be6 Ke7 48.Bd5 Bb6 49.g4 Ba7 50.Bg8 Bb6 51.Bd5 Ba7 52.Bc4 Bb6 53.Bg8 Ba7 54.Kc4 Bb6 55.Kd5 d3 56.Kc6 d2 57.Bb3 Bd4 58.e6 d1=Q 59.Bxd1 Kxe6 60.b6 Ke5 61.b7 Ba7 62.Kc7 Kf4 63.b8=Q Bxb8+ 64.Kxb8 Kg3 65.Kc7 Kxh3 66.Kd6 Kg3 67.Ke5 fxg4 68.fxg4 1-0

@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.14"]
+[Round "4.6"]
+[White "Margarido, Jose Miguel Teixeira"]
+[Black "Riemersma, Li"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2433"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 e5 6.d3 Nge7 7.Be3 d6 8.d4 exd4 9.cxd4 O-O 10.Nc3 Qb6 11.Bxc6 Nxc6 12.Rb1 Qa5 13.h3 Re8 14.Qd2 b6 15.Rfe1 Bb7 16.a3 cxd4 17.Nxd4 Qe5 18.Ndb5 Rad8 19.Nc7 Rf8 20.Rbd1 Na5 21.Bd4 Qxd4 22.Qxd4 Bxd4 23.Rxd4 Nb3 24.Rdd1 a6 25.f3 b5 26.N7d5 1/2-1/2

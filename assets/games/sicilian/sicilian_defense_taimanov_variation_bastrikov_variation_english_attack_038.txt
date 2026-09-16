@@ -1,0 +1,15 @@
+[Event "Round 8: Ucoluk, Umut - Zeyrek, Ayaz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/8f5bNumU"]
+[Date "2026.07.18"]
+[Round "8.34"]
+[White "Ucoluk, Umut"]
+[Black "Zeyrek, Ayaz"]
+[Result "1/2-1/2"]
+[WhiteElo "2094"]
+[BlackElo "2021"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O Be7 9.Be2 O-O 10.g4 d6 11.Nxc6 Qxc6 12.g5 Nd7 13.h4 b5 14.a3 Bb7 15.Qg3 Rac8 16.f3 Nb6 17.Rd2 Rfd8 18.h5 Nc4 19.Bxc4 Qxc4 20.Bb6 Rf8 21.h6 g6 22.Kb1 f5 23.Rhd1 1/2-1/2

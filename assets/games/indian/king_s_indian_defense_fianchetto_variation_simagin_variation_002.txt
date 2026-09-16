@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-2/mZo2y8ia/IJrrkOvi"]
+[Date "2026.07.09"]
+[Round "16.3"]
+[White "Pleimer, Noah"]
+[Black "Radzimski, Antoni"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2213"]
+[ECO "E62"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Simagin Variation"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O Bg4 8.b3 e5 9.dxe5 dxe5 10.Bb2 e4 11.Nd2 e3 12.fxe3 Qe7 13.Rxf6 Qxf6 14.Nde4 Qe6 15.Kh1 Bf5 16.Nc5 Qxe3 17.N5a4 Ne7 18.Qf1 Rad8 19.Bc1 Qe6 20.Nc5 Qe5 21.N5a4 Qa5 22.Bb2 Rd2 23.Qc1 Rfd8 24.b4 Qe5 25.Nd5 Rxb2 26.Qxb2 0-1

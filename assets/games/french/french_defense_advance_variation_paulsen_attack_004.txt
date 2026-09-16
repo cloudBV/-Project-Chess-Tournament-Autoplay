@@ -1,0 +1,15 @@
+[Event "Round 5: Szpar, Milosz - Omonov, Asrorjon"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/sDR9TfMp"]
+[Date "2026.07.02"]
+[Round "5.8"]
+[White "Szpar, Milosz"]
+[Black "Omonov, Asrorjon"]
+[Result "1-0"]
+[WhiteElo "2518"]
+[BlackElo "2347"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qc7 6.Na3 f6 7.Nb5 Qd7 8.exf6 gxf6 9.Bf4 Kd8 10.Bc7+ Ke8 11.Bg3 Kd8 12.Bc7+ Ke8 13.Bf4 Kd8 14.g3 a6 15.Nc7 Ra7 16.Bh3 Qf7 17.Qe2 e5 18.dxe5 Bxh3 19.e6 Qxc7 20.Bxc7+ Kxc7 21.O-O-O Nge7 22.Nh4 Bh6+ 23.f4 Raa8 24.Qh5 Bg7 25.g4 Rhg8 26.Rd3 Ng6 27.Nxg6 Bg2 28.Re1 hxg6 29.Qxg6 Ne7 30.Qh7 f5 31.Rg3 Be4 32.gxf5 Bxf5 33.Rxg7 Bxh7 34.Rxe7+ Kd6 35.Rxh7 Rae8 36.Rxb7 Kc6 37.Rf7 Rg2 38.f5 d4 39.cxd4 cxd4 40.Rd7 Rb8 41.Rxd4 Rgxb2 42.Re5 1-0

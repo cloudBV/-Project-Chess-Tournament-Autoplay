@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.04"]
+[Round "1.4"]
+[White "Brion Lacherest, Nathan"]
+[Black "Aronyak Ghosh"]
+[Result "1/2-1/2"]
+[WhiteElo "2174"]
+[BlackElo "2549"]
+[ECO "B17"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.c3 Ngf6 6.Nxf6+ Nxf6 7.Bd3 Bg4 8.Ne2 e6 9.Bf4 Nd5 10.Bg3 h5 11.h3 Bxe2 12.Qxe2 h4 13.Be5 Bd6 14.Bc4 Bxe5 15.Qxe5 Qf6 16.Bxd5 Qxe5+ 17.dxe5 cxd5 18.O-O Ke7 19.Rad1 Rh5 20.Rfe1 Rf5 21.Rd4 g5 22.g4 hxg3 23.fxg3 f6 24.exf6+ Kxf6 25.Rf1 Rd8 26.h4 gxh4 27.Rxh4 Rxf1+ 28.Kxf1 Rd7 29.Kf2 Ke5 30.Ke3 Rf7 31.c4 Rg7 32.cxd5 exd5 33.Kf3 Rc7 34.Rh2 Rf7+ 35.Ke2 a5 36.Rg2 Rg7 37.g4 Kf4 38.Rf2+ Ke4 39.Rg2 Rg5 40.Rg3 Kf4 41.Rf3+ Ke4 42.Re3+ Kd4 43.Rd3+ Ke5 44.Re3+ Kd4 45.Rd3+ Ke5 46.Re3+ 1/2-1/2

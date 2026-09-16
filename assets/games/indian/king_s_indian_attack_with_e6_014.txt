@@ -1,0 +1,14 @@
+[Event "Round 2: Kalogridis, Themistoklis - Tagkaloglou, Savvas Stefanos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/s7yeGxNh"]
+[Date "2026.07.06"]
+[Round "2.48"]
+[White "Kalogridis, Themistoklis"]
+[Black "Tagkaloglou, Savvas Stefanos"]
+[Result "1-0"]
+[WhiteElo "2293"]
+[BlackElo "2031"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 c5 7.e4 Nc6 8.e5 Nd7 9.Re1 b5 10.Nf1 Qc7 11.Bf4 Bb7 12.h4 Rfc8 13.h5 h6 14.N1h2 Bf8 15.Qd2 Nd4 16.Nxd4 cxd4 17.Re2 Qd8 18.Nf3 Qb6 19.Kh1 Rc7 20.g4 Rac8 21.Rc1 Kh7 22.g5 a5 23.Bh3 a4 24.Ree1 b4 25.b3 Rc3 26.Rg1 Qc5 27.g6+ Kg8 28.Bxh6 gxh6 29.g7 Bxg7 30.Qxh6 Kf8 31.Rxg7 Ke8 1-0

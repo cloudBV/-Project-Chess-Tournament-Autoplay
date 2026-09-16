@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.20"]
+[White "Syrov, Arkadi"]
+[Black "Rughani, Mahin"]
+[Result "1-0"]
+[WhiteElo "2321"]
+[BlackElo "2054"]
+[ECO "D00"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.Nf3 Nc6 5.Nbd2 Nh5 6.Bg5 h6 7.Bh4 g5 8.Ne5 Nxe5 9.dxe5 Ng7 10.Bg3 Nf5 11.e4 dxe4 12.Bb5+ Bd7 13.Qe2 e3 14.Nb3 Bxb5 15.Qxb5+ Qd7 16.Qxd7+ Kxd7 17.Nxc5+ Kc6 18.Nd3 h5 19.fxe3 Nxe3 20.Kf2 Nf5 21.Kf3 g4+ 22.Ke4 e6 23.Rhd1 Be7 24.Nf2 Bc5 25.Nd3 Be7 26.Bf2 Rac8 27.c4 b5 28.Rac1 a6 29.cxb5+ Kxb5 30.Rxc8 Rxc8 31.Rc1 Rxc1 32.Nxc1 Bh4 33.Bxh4 Nxh4 34.g3 Nf3 35.h4 Ng1 36.Ke3 Kc4 37.Nd3 Kd5 38.Nb4+ Kxe5 39.Nxa6 Nf3 40.Nc5 Kd5 41.Nd7 e5 42.Nf6+ Ke6 43.Nxh5 f5 44.Ng7+ Kf6 45.Ne8+ Kg6 46.a4 Nd4 47.Nc7 Nc6 48.Nd5 Kh5 49.b4 f4+ 50.Kf2 fxg3+ 51.Kxg3 e4 52.b5 Na5 53.b6 Nb7 54.Ne3 Na5 55.Nxg4 Nb7 56.Nf6+ Kg6 57.Nxe4 Kh5 58.Nd2 Na5 59.Nf3 Nb7 60.Kf4 1-0

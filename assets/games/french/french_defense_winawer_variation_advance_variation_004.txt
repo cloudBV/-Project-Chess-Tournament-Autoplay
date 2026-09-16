@@ -1,0 +1,14 @@
+[Event "Round 2.1: Den Heijer, Rolinde - Roebers, Eline"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-21/k73ffgP6/Sn7GbGZ4"]
+[Date "2026.06.09"]
+[Round "5.1"]
+[White "Den Heijer, Rolinde"]
+[Black "Roebers, Eline"]
+[Result "1/2-1/2"]
+[WhiteElo "2086"]
+[BlackElo "2389"]
+[ECO "C18"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Qg4 g6 8.Qd1 Qa5 9.Bd2 Bd7 10.Nf3 Nge7 11.Bd3 b6 12.O-O Qa4 13.Qb1 c4 14.Be2 O-O-O 15.Bg5 h6 16.Bf6 Rh7 17.h3 Re8 18.Nh2 Ng8 19.Bh4 Nce7 20.Ng4 Qa5 21.Qe1 Ba4 22.Qd2 Nf5 23.Nf6 Nxf6 24.Bxf6 Qb5 25.Rab1 Qd7 26.Rb4 Ne7 27.Rc1 Kc7 28.Qf4 Bc6 29.Ra1 Bb7 30.Rab1 Nc6 31.R4b2 Rg8 32.Qe3 Qe8 33.Qg3 Nb8 34.Rb4 Bc6 35.Qe3 Qf8 36.Ra1 Nd7 37.Bh4 Kb7 38.Bg3 Qe7 39.Bf4 Nb8 40.Rbb1 Ba4 1/2-1/2

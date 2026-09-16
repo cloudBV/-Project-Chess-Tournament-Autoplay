@@ -1,0 +1,15 @@
+[Event "Round 5: Fava, Lorenzo - Siva Mahadevan"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-5/r70CQOpY/XxaW45zn"]
+[Date "2026.07.18"]
+[Round "5.5"]
+[White "Fava, Lorenzo"]
+[Black "Siva Mahadevan"]
+[Result "0-1"]
+[WhiteElo "2343"]
+[BlackElo "2448"]
+[ECO "B60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Nxc6 bxc6 8.Bc4 h6 9.Bxf6 exf6 10.Qd3 Be7 11.O-O O-O 12.Bb3 Qa5 13.Rfe1 Rac8 14.Rad1 Rfe8 15.Qf3 Bf8 16.Ne2 h5 17.h3 h4 18.c3 Qe5 19.Nd4 d5 20.Bc2 Bd6 21.Re3 Qh2+ 22.Kf1 c5 23.Nf5 Bf4 24.exd5 Bxf5 25.Bxf5 Bxe3 26.fxe3 Rb8 27.b3 Qe5 28.c4 Rbd8 29.Re1 g6 30.Bb1 a5 31.Qg4 Qc3 32.Kf2 a4 33.Qxh4 axb3 34.axb3 Rb8 35.Ba2 Ra8 36.Bb1 Ra1 37.Qg3 Rxb1 0-1

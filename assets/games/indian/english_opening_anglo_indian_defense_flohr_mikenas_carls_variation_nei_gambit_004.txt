@@ -1,0 +1,14 @@
+[Event "Round 8: Englert, Luca - Suder, Jakub"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-8/JY4vi7xh/YmC7DfrU"]
+[Date "2026.07.24"]
+[Round "8.13"]
+[White "Englert, Luca"]
+[Black "Suder, Jakub"]
+[Result "1/2-1/2"]
+[WhiteElo "2291"]
+[BlackElo "2384"]
+[ECO "A19"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit"]
+
+1.c4 e6 2.Nc3 Nf6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.d4 cxd4 7.Nxd4 Nxe5 8.Ndb5 f6 9.Be3 a6 10.Nd6+ Bxd6 11.Qxd6 Ne7 12.Bb6 Nf5 13.Qb4 Nc6 14.Qc5 d6 15.Bxd8 dxc5 16.Bb6 Ne5 17.Bxc5 g5 18.Ne4 Kf7 19.O-O-O Bd7 20.Kb1 Bc6 21.f3 Bxe4+ 22.fxe4 Rac8 23.exf5 Rxc5 24.fxe6+ Kxe6 25.b4 Rcc8 26.c5 Rhd8 27.Be2 a5 28.a3 axb4 29.axb4 Rxd1+ 30.Rxd1 Nc6 31.Rd6+ Ke5 32.Rd7 Nxb4 33.Rxh7 Nd5 34.Kb2 Rxc5 35.Rxb7 Nf4 36.Bf3 Kd4 37.Rf7 Nd3+ 38.Kb3 Rb5+ 39.Ka4 Rb6 40.Ka5 Rd6 41.Rh7 Ne5 42.Bb7 Nc4+ 43.Ka4 Rb6 44.Bc8 Kc3 45.Rh3+ Kd4 46.Rh7 Rb2 47.g4 Rb6 48.Bf5 Rb2 49.Rd7+ Ke3 50.h4 Nb6+ 51.Ka3 Nc4+ 52.Ka4 gxh4 53.Rd3+ Kf2 54.Rh3 Ne3 55.Rxh4 Kg3 56.Rh6 Nxf5 57.Rxf6 Kxg4 58.Rf8 Kf4 59.Re8 Nd6 60.Re1 Ne4 61.Ka3 Rb8 62.Ka4 Ke5 63.Ka5 Kd5 64.Rh1 Nc3 65.Rh5+ Kc6 66.Rh6+ Kc5 67.Rh5+ Nd5 68.Ka4 Rb1 69.Ka3 Kc4 70.Rh4+ Kd3 71.Rh3+ Ne3 72.Ka4 Kd4 73.Rh4+ Kc5 74.Rh5+ Nd5 75.Ka3 Rb8 76.Ka4 Rb4+ 77.Ka3 Rg4 78.Kb3 Rg3+ 79.Kc2 Rf3 80.Rh8 Kd4 81.Kb2 Nb6 82.Kc2 Rc3+ 83.Kd2 Nc4+ 84.Ke2 Rc2+ 85.Kf3 Ne5+ 86.Kg3 Ke4 87.Rh4+ Ke3 88.Ra4 Rc3 89.Ra8 Rc4 90.Ra3+ Ke4 91.Ra8 Rb4 92.Rh8 Rb3+ 93.Kg2 Ng6 94.Re8+ Kf4 95.Kf2 Ne5 96.Rf8+ Ke4 97.Re8 Ra3 98.Kg2 Ra7 99.Kf2 Rg7 100.Ke2 Rg2+ 101.Kd1 Kd4 102.Ke1 Nf3+ 103.Kf1 Ra2 104.Rd8+ Ke3 105.Re8+ 1/2-1/2

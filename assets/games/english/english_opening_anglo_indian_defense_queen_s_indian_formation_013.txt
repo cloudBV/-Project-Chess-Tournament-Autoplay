@@ -1,0 +1,15 @@
+[Event "Round 2: Kazimova, Narmin - Dhulipalla Bala Chandra Prasad"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/531ga5A3"]
+[Date "2026.07.14"]
+[Round "2.30"]
+[White "Kazimova, Narmin"]
+[Black "Dhulipalla Bala Chandra Prasad"]
+[Result "0-1"]
+[WhiteElo "2128"]
+[BlackElo "2426"]
+[ECO "A17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 b6 4.e4 Bb7 5.e5 Ne4 6.Qc2 Ng5 7.Nxg5 Qxg5 8.d4 Qg6 9.Qxg6 hxg6 10.Be3 Bb4 11.Rc1 Nc6 12.Be2 Ne7 13.O-O Bxc3 14.Rxc3 Nf5 15.Rd1 f6 16.f4 Ne7 17.Bf2 O-O-O 18.exf6 gxf6 19.b4 Rdg8 20.Bf3 Bxf3 21.Rxf3 Nf5 22.d5 Rh7 23.dxe6 dxe6 24.Rfd3 Nd6 25.c5 Ne4 26.h3 Kb7 27.a4 g5 28.cxb6 axb6 29.fxg5 Rxg5 30.Be1 Rhg7 31.g4 f5 32.Rd4 e5 33.Rxe4 fxe4 34.Bg3 Kc6 35.Rc1+ Kd5 36.b5 e3 37.Kf1 Ke4 38.Ke2 Rd7 39.Be1 Rd4 40.Rc3 Rxa4 41.Rxe3+ Kd5 42.Rd3+ Rd4 43.Rc3 Rg7 44.Bf2 Rb4 45.Be3 Ke4 46.Rc2 Rh7 0-1

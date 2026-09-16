@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-3/kmDO33LG/rYF8SYIL"]
+[Date "2026.07.11"]
+[Round "3.14"]
+[White "Jefimovs, Akims"]
+[Black "Tolmacevs, Romans"]
+[Result "0-1"]
+[WhiteElo "2050"]
+[BlackElo "2208"]
+[ECO "B15"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h6 10.Be3 Nd7 11.O-O-O Nf8 12.c4 Bg4 13.Rhe1 Rc8 14.h3 Bh5 15.g4 Bg6 16.Nc3 Qa5 17.a3 a6 18.c5 Bb8 19.Re2 Rcd8 20.Na4 Qc7 21.h4 Bxd3 22.Qxd3 Ng6 23.Kb1 Nxh4 24.Nb6 Ng6 25.d5 cxd5 26.Nxd5 Qc8 27.Qd4 Be5 28.Qc4 b5 29.Qb4 Bf4 30.Rdd2 Bxe3 31.Rxe3 Rxe3 32.fxe3 Qe6 33.Qd4 Kh8 34.Kc1 Ne7 35.e4 Nc6 36.Qf2 Qxe4 37.Nxf6 Qc4+ 38.Rc2 Qd4 39.Qxd4 Rxd4 40.Nh5 Rxg4 41.Rd2 Rc4+ 42.Rc2 Rxc2+ 43.Kxc2 g6 44.Nf4 h5 45.Kd3 h4 46.Nh3 f5 47.Ke3 Kg7 48.Kf4 Kf6 49.Ng5 Nd8 50.Nh7+ Ke7 51.Ke5 h3 52.Nf6 h2 53.Nd5+ Kd7 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.9"]
+[White "Dobrowolski, Kamil"]
+[Black "Meszaros, Casey Ryan"]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2233"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 Ne7 6.Bb2 Ng6 7.d3 d6 8.Nbd2 e5 9.Nc4 Be6 10.h4 Ne7 11.h5 h6 12.Qd2 Ng8 13.O-O-O Nf6 14.Ne3 Ng4 15.Nxg4 Bxg4 16.Rdg1 Be7 17.Kb1 Bxf3 18.gxf3 Bg5 19.Qe1 Qf6 20.Bc1 Bxc1 21.Qxc1 a5 22.a4 d5 23.Qa3 c4 24.dxc4 dxc4 25.Qc5 cxb3 26.cxb3 Rb8 27.Ka2 Qe6 28.Rb1 Rd8 29.Rhd1 Rxd1 30.Rxd1 f6 31.Rd6 Qe7 32.Qxc6+ Kf8 33.Qa8+ Kf7 34.Qd5+ Ke8 35.Re6 1-0

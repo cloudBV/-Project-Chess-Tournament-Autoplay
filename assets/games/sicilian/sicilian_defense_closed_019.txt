@@ -1,0 +1,14 @@
+[Event "Round 8: Krivka, Matej - Formanek, Martin"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-8/ctJ0lJT8/LIawbl91"]
+[Date "2026.07.04"]
+[Round "8.8"]
+[White "Krivka, Matej"]
+[Black "Formanek, Martin"]
+[Result "1-0"]
+[WhiteElo "2052"]
+[BlackElo "2195"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.d4 cxd4 5.Qxd4 Nf6 6.e5 Nc6 7.Bb5 dxe5 8.Qxd8+ Kxd8 9.Nf3 Bd7 10.Bxc6 Bxc6 11.Nxe5 Ke8 12.Nxc6 bxc6 13.Be3 Nd5 14.Bd4 Rg8 15.O-O Nxc3 16.bxc3 c5 17.Bxc5 e6 18.Bd4 Kd7 19.a4 Kc6 20.Rab1 Bd6 21.g3 Rgd8 22.Rb5 Rdb8 23.Rfb1 a6 24.Rb6+ Rxb6 25.Rxb6+ Kd5 26.Rb7 Rb8 27.Rd7 Kc6 28.Rxd6+ 1-0

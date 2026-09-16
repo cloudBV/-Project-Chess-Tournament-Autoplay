@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.13"]
+[White "Atares Buisan, Sergio"]
+[Black "Krauchi Romero, Martin"]
+[Result "1/2-1/2"]
+[WhiteElo "2220"]
+[BlackElo "2362"]
+[ECO "B10"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Bg4 6.Nxf6+ gxf6 7.Qe3 e6 8.b3 Nd7 9.Bb2 Qa5 10.Be2 Rg8 11.a3 f5 12.b4 Qc7 13.h3 Bxf3 14.Bxf3 Bg7 15.Bxg7 Rxg7 16.O-O Ne5 17.Rab1 O-O-O 18.Kh1 Nxf3 1/2-1/2

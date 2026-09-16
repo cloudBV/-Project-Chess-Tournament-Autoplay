@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "10.1"]
+[White "Sowinski, Pawel"]
+[Black "Stepinski, Piotr"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2281"]
+[ECO "E46"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.Nf3 c5 7.cxd5 cxd4 8.Nxd4 Nxd5 9.Nxd5 Bxd2+ 10.Qxd2 Qxd5 11.Be2 e5 12.Nf3 Qxd2+ 13.Nxd2 Nc6 14.Bf3 Bd7 15.Nc4 Rfd8 16.O-O Be6 17.Rfc1 Bd5 18.Kf1 Bxf3 19.gxf3 Rd5 20.Ke2 Rad8 21.Rd1 Rxd1 22.Rxd1 Rxd1 23.Kxd1 Kf8 24.Kc2 Ke7 25.Kc3 Ke6 26.b4 b5 27.Nd2 Ne7 28.Ne4 h6 29.Kb3 Kd5 30.a4 bxa4+ 31.Kxa4 f5 32.Nc3+ Kc4 33.Nb5 Kd3 34.Nxa7 Nd5 35.b5 Nc3+ 36.Kb4 Nxb5 37.Nxb5 Ke2 38.e4 f4 39.Kc4 Kxf2 40.Kd5 Kxf3 41.Kxe5 Ke3 42.Nd4 g5 43.Kd5 g4 44.e5 f3 45.Nf5+ Kd3 46.e6 f2 47.Ng3 h5 48.e7 h4 49.e8=Q hxg3 50.Qb5+ Ke3 51.hxg3 Kf3 52.Qf1 Kxg3 53.Ke4 1-0

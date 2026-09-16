@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "6.5"]
+[White "Nytra, Ondrej"]
+[Black "Stary, Simon"]
+[Result "0-1"]
+[WhiteElo "2127"]
+[BlackElo "2171"]
+[ECO "B92"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nf3 Be7 8.Bg5 Nbd7 9.a4 h6 10.Be3 Ng4 11.Bc1 Ngf6 12.O-O Nc5 13.Nd2 Be6 14.Re1 O-O 15.Bf3 Rc8 16.Nf1 Qc7 17.Ne3 Qb8 18.a5 Rfe8 19.b4 Nb3 20.cxb3 Rxc3 21.Rb1 b5 22.Bd2 Rc7 23.Qe2 Rec8 24.Qd3 Qb7 25.g3 Nh7 26.Bg2 Bg5 27.h4 Bxe3 28.Bxe3 Rc6 29.f4 Qe7 30.f5 Rc3 31.Qd1 Bd7 32.Rc1 Rxc1 33.Bxc1 Nf6 34.Be3 Bc6 35.Bb6 Bb7 36.g4 Ne8 37.Bf2 Rc3 38.Qd2 Qc7 39.g5 Rc2 40.Qd1 hxg5 41.hxg5 Qc3 42.Qh5 Qxb4 43.Re3 Qd2 44.Qh4 Rc3 45.Rxc3 Qxc3 46.Qh5 Qxb3 47.Bh4 Qb1+ 48.Kh2 Qc1 49.g6 Qf4+ 50.Bg3 fxg6 51.fxg6 Qh6 52.Qh4 Qxh4+ 53.Bxh4 Nf6 54.Kh3 Bxe4 0-1

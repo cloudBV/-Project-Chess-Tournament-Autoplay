@@ -1,0 +1,15 @@
+[Event "Round 1: Faizrakhmanov, Ramil - Aditya Mittal"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/S5SlG6QY"]
+[Date "2026.07.21"]
+[Round "1.5"]
+[White "Faizrakhmanov, Ramil"]
+[Black "Aditya Mittal"]
+[Result "1-0"]
+[WhiteElo "2433"]
+[BlackElo "2602"]
+[ECO "E18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 f5 9.Ne5 d6 10.Nxe4 Bxe4 11.Nd3 Qe8 12.Qb3 Bf6 13.Bc3 Nc6 14.d5 Na5 15.Bxa5 bxa5 16.dxe6 Rb8 17.Qa3 Qxe6 18.Qxa5 c5 19.Rad1 Bxg2 20.Kxg2 Qxc4 21.b3 Qe4+ 22.Kg1 Qxe2 23.Nf4 Qe7 24.Nd5 Qb7 25.Rfe1 f4 26.Re6 Bd4 27.Rxd4 cxd4 28.Ne7+ Kh8 29.Qh5 Rfe8 30.Qf7 Rf8 31.Qh5 Rfe8 32.Qf7 Qf3 33.Nf5 Rg8 34.Nh6 Qb7 35.Re7 Qc8 36.Rc7 Qf8 37.Qd7 d3 38.Nf7+ Qxf7 39.Qxf7 1-0

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.10"]
+[Round "4.4"]
+[White "Berczes, David"]
+[Black "Kovacs, Kristof"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2284"]
+[ECO "A47"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Pseudo Queen's Indian Defense"]
+
+1.d4 Nf6 2.Nf3 b6 3.e3 Bb7 4.Bd3 g6 5.Nbd2 d5 6.O-O Bg7 7.b3 O-O 8.a4 a6 9.Bb2 Nbd7 10.c4 c5 11.a5 b5 12.Qe2 cxd4 13.cxb5 dxe3 14.fxe3 Nc5 15.b6 Nfe4 16.Bxg7 Kxg7 17.Rfc1 Qd6 18.b4 Nxd3 19.Qxd3 Qxb4 20.Rc7 Rab8 21.Nxe4 dxe4 22.Qd4+ Qxd4 23.Nxd4 Rfc8 24.Rac1 e5 25.Ne6+ 1-0

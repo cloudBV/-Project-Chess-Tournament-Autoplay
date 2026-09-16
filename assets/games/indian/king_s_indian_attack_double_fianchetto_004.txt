@@ -1,0 +1,14 @@
+[Event "Round 2: Stratigos, Spiros - Bozinakis, Pavlos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/iBXv1YV1"]
+[Date "2026.07.06"]
+[Round "2.63"]
+[White "Stratigos, Spiros"]
+[Black "Bozinakis, Pavlos"]
+[Result "0-1"]
+[WhiteElo "2113"]
+[BlackElo "2161"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.O-O e5 5.d3 Nc6 6.e4 Nge7 7.Nc3 dxe4 8.Nxe4 O-O 9.Re1 h6 10.Be3 Nd5 11.Bd2 a5 12.a3 Re8 13.h3 Kh7 14.Rb1 a4 15.Qe2 f5 16.Nc3 Be6 17.Qd1 Qd7 18.h4 Nxc3 19.Bxc3 Bd5 20.h5 g5 21.Nd2 Rad8 22.Bxd5 Qxd5 23.f3 Bf8 24.g4 Bc5+ 25.Kh2 Rf8 26.gxf5 Rxf5 27.Re4 Qf7 28.Kg2 Qxh5 29.Qe2 Bd4 30.Rh1 Qg6 31.Rg4 Rf4 32.Ne4 Rxg4+ 33.fxg4 Rf8 34.Bd2 Kg7 35.c3 Bb6 36.Be1 Qe6 37.Bg3 Ne7 38.Rf1 Rxf1 39.Qxf1 Nd5 40.Qf3 Ne3+ 41.Kf2 Nxg4+ 42.Ke2 Ne3 43.Bh2 Kg6 44.Nf2 Nd5 45.Ng4 Nf4+ 46.Kd2 Qf5 47.Qe4 Qxe4 48.dxe4 h5 49.Nxe5+ Kf6 50.Nf3 Ne6 51.Kd3 g4 52.e5+ Kf7 53.Nh4 Bf2 54.Nf5 Kg6 55.Ke4 Kg5 56.Bg3 Bxg3 57.Nxg3 h4 58.Nf1 g3 59.Kf3 Kf5 60.Ne3+ Kxe5 61.Kg4 Ke4 62.Ng2 h3 63.Kxh3 Nf4+ 64.Kxg3 Nxg2 65.Kxg2 Kd3 66.Kf3 Kc2 67.Ke2 Kxb2 68.Kd2 Kxa3 69.Kc2 b5 0-1

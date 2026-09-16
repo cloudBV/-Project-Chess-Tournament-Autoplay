@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.13"]
+[White "Kresz, Tamas"]
+[Black "Apro, Barnabas"]
+[Result "1/2-1/2"]
+[WhiteElo "2101"]
+[BlackElo "2168"]
+[ECO "C01"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 Nf6 5.Nc3 Be7 6.Nf3 O-O 7.Be2 c6 8.Be3 h6 9.Ne5 Be6 10.Qc2 dxc4 11.Nxc4 Nd5 12.O-O Nd7 13.Rad1 N7f6 14.Bc1 Qc8 15.Rfe1 Re8 16.Ne5 Bd6 17.Bf3 Bf5 18.Qb3 Be6 19.Qc2 Bf5 20.Qb3 Be6 21.Qc2 Bf5 1/2-1/2

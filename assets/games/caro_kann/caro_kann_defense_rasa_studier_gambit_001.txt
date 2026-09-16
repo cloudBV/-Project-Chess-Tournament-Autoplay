@@ -1,0 +1,14 @@
+[Event "Round 7: Anagnostopoulos, Konstantinos - Kalodoukas, Odysseas"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/SR3wHoKU"]
+[Date "2026.07.10"]
+[Round "7.53"]
+[White "Anagnostopoulos, Konstantinos"]
+[Black "Kalodoukas, Odysseas"]
+[Result "0-1"]
+[WhiteElo "2298"]
+[BlackElo "2203"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Rasa-Studier Gambit"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.Nc3 e5 5.dxe5 Qxd1+ 6.Nxd1 exf3 7.Nxf3 Be6 8.Nf2 Nd7 9.Bf4 Ne7 10.Nd4 Ng6 11.Nxe6 fxe6 12.Bg3 Ngxe5 13.O-O-O Be7 14.Ne4 O-O 15.Be2 Rad8 16.h4 h6 17.Nd2 Bd6 18.Ne4 Bb8 19.Kb1 Nf7 20.Bf2 Nfe5 21.Be3 b6 22.a4 Bc7 23.a5 Nf6 24.Rxd8 Bxd8 25.Nxf6+ Rxf6 26.a6 Bc7 27.Rd1 Rf8 28.Rd4 Kf7 29.Bf4 Kf6 30.g4 g5 31.hxg5+ hxg5 32.Be3 c5 33.Rd1 Rh8 34.b4 cxb4 35.Bd4 Ke7 36.Re1 Rh3 37.Bxe5 Bxe5 38.Bc4 Kf6 39.Rd1 Ra3 40.c3 Rxc3 41.Bb5 b3 42.Rf1+ Ke7 43.Re1 Bd4 44.Bc4 e5 45.Rf1 b2 46.Bd5 Kd6 47.Bg8 e4 48.Ba2 Rc5 49.Bb3 e3 50.Bc2 e2 51.Re1 Ra5 0-1

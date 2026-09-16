@@ -1,0 +1,14 @@
+[Event "Round 5: Barrientos, Sergio E - Dominguez, Ramiro"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-5/1PASBFrj/f8D7ULbN"]
+[Date "2026.07.11"]
+[Round "5.2"]
+[White "Barrientos, Sergio E"]
+[Black "Dominguez, Ramiro"]
+[Result "1-0"]
+[WhiteElo "2408"]
+[BlackElo "2187"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 b6 5.Bg2 Bb7 6.O-O Nbd7 7.Nc3 Be7 8.cxd5 Nxd5 9.Re1 Nxc3 10.bxc3 Be4 11.Bf1 O-O 12.Nd2 Bb7 13.e4 c5 14.Bb2 Rc8 15.Bg2 Qc7 16.Qb3 Rfd8 17.Rac1 Nf6 18.h3 Qb8 19.a4 Qa8 20.Qa2 cxd4 21.cxd4 Rxc1 22.Bxc1 Rxd4 23.a5 bxa5 24.Nb3 Bb4 25.Nxd4 Bxe1 26.Nc2 Bb4 27.Nxb4 axb4 28.f3 a5 29.Bb2 Qa7+ 30.Kh2 a4 31.Qc4 a3 32.Ba1 Qb6 33.Bd4 Qa5 1-0

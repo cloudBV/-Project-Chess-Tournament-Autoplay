@@ -1,0 +1,15 @@
+[Event "Round 9: Ilinca, Felix-Antonio - Bogdanov, Egor"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-9/Ha7f1xuO/OcvEh71q"]
+[Date "2026.07.11"]
+[Round "9.2"]
+[White "Ilinca, Felix-Antonio"]
+[Black "Bogdanov, Egor"]
+[Result "0-1"]
+[WhiteElo "2495"]
+[BlackElo "2493"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Bd3 Qc7 10.Bb2 Rd8 11.Nf3 Nc6 12.O-O e5 13.Qc2 Bg4 14.Nxe5 Nxe5 15.dxe5 Qxe5 16.h3 Bh5 17.c4 Qd6 18.Bf5 Bg6 19.Rad1 Qe7 20.Rfe1 a6 21.a4 Rxd1 22.Rxd1 Rd8 23.Rxd8+ Qxd8 24.g4 b6 25.e4 Ne8 26.Kg2 Bxf5 27.gxf5 Qg5+ 28.Kf1 Qf4 29.Kg2 Nd6 30.f3 h5 31.Bc1 Qe5 32.Bb2 Qe7 33.Bc1 Qe5 34.Bb2 Nxc4 35.Qxc4 Qxb2+ 36.Kg3 Qd2 37.h4 Qe1+ 38.Kh3 Qf2 39.Qd3 c4 40.Qc3 b5 41.axb5 axb5 42.Qa3 Kh7 43.e5 Qe2 44.e6 fxe6 45.f6 b4 46.Qa8 gxf6 47.Qa7+ Kg6 48.Qg1+ Kh6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 1: Sooraj M R - Kjartansson, Gudmundur"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-1/IZm7gMRo/VlLMsTV3"]
+[Date "2026.07.21"]
+[Round "1.4"]
+[White "Sooraj M R"]
+[Black "Kjartansson, Gudmundur"]
+[Result "1/2-1/2"]
+[WhiteElo "2198"]
+[BlackElo "2395"]
+[ECO "B24"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Rb8 6.Be3 b5 7.a3 d6 8.Nge2 Nf6 9.h3 a5 10.Qd2 h5 11.f4 b4 12.axb4 axb4 13.Na4 Bd7 14.e5 dxe5 15.Nxc5 O-O 16.Nxd7 Qxd7 17.fxe5 Nxe5 18.Ra7 Qd6 19.Nd4 Ned7 20.O-O Nd5 21.Bf2 Rfc8 22.Rfa1 Nc5 23.R1a5 e6 24.Nb5 Qd8 25.Bxd5 Qxd5 26.Nc7 Rxc7 27.Rxc7 Ne4 28.Qf4 Ng5 29.Rxd5 Nxh3+ 30.Kf1 Nxf4 31.Rdc5 Nd5 32.Rc8+ Rxc8 33.Rxc8+ Kh7 34.d4 g5 35.c4 bxc3 36.bxc3 Kg6 37.c4 Ne7 38.Re8 Bf6 39.Kg2 g4 40.d5 exd5 41.Bc5 Nc6 42.cxd5 Ne5 43.Bd6 Kf5 44.Be7 Bxe7 45.Rxe7 Kf6 46.Re8 Nc4 47.Kf2 Nd6 48.Re2 Nf5 49.Re8 Nd6 50.Re3 Nf5 51.Re2 Nd6 52.Ke1 Nf5 53.Kf2 Nd6 54.Re1 Nf5 55.Re4 Nd6 56.Re1 Nf5 57.Re4 1/2-1/2

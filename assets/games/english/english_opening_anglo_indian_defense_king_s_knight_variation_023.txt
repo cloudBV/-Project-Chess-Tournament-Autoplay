@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.8"]
+[White "Skaslien, Ingrid"]
+[Black "Ytrestoyl, Sindre Lyngsaunet"]
+[Result "0-1"]
+[WhiteElo "2015"]
+[BlackElo "2013"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.c4 Nf6 2.Nf3 c5 3.e3 Nc6 4.Nc3 e5 5.b3 g6 6.Bb2 Bg7 7.Nd5 d6 8.Be2 Nxd5 9.cxd5 Ne7 10.e4 O-O 11.O-O f5 12.d3 h6 13.Nd2 g5 14.a3 Kh7 15.b4 b6 16.h3 Ng6 17.bxc5 bxc5 18.Nc4 Rb8 19.Bc3 Nf4 20.Bf3 g4 21.hxg4 fxg4 22.Bxg4 Qg5 23.Ne3 Bxg4 24.Nxg4 h5 25.f3 hxg4 26.fxg4 Rb3 27.Rc1 Rxa3 28.Bd2 Rxd3 29.Bxf4 Rxd1 30.Bxg5 0-1

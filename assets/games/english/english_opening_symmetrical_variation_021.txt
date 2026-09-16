@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.7"]
+[White "Uber Gracia, Hugo"]
+[Black "Pasti, Aron"]
+[Result "1/2-1/2"]
+[WhiteElo "2298"]
+[BlackElo "2428"]
+[ECO "A30"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 b6 3.Nc3 Bb7 4.e4 d6 5.d4 cxd4 6.Nxd4 Nf6 7.f3 e6 8.Be2 Be7 9.O-O O-O 10.Be3 Nc6 11.Qd2 Rc8 12.Rfd1 Qc7 13.Ncb5 Qb8 14.Nxc6 Rxc6 15.a4 a6 16.Nc3 Rd8 17.Qe1 Nd7 18.Qf2 Bf6 19.Bd4 Bxd4 20.Qxd4 Nc5 21.Qe3 a5 22.Rab1 h6 23.f4 Rd7 24.Bf3 Qd8 25.b3 Rc8 26.Rd2 Qe7 27.Nb5 Rcd8 28.Rbd1 g5 29.fxg5 hxg5 30.Nd4 Qf6 31.g3 Qe5 32.Re2 f6 33.Bg2 Rh7 34.h3 Kf7 35.Rf1 Ke7 36.Qf2 Nd3 37.Qe3 Nc5 38.Qf2 Nd7 39.g4 Qc5 40.Kh2 Ba8 41.Kg1 Rh6 42.Rd1 Ne5 43.Nb5 Bc6 44.Qxc5 bxc5 45.Red2 Nf7 46.e5 Nxe5 47.Rxd6 Rxd6 48.Nxd6 Rh8 49.Nb5 Bxg2 50.Kxg2 Ng6 51.Nc7 Nf4+ 52.Kg1 Rxh3 53.Na6 Nd3 54.Kg2 Re3 55.Rh1 Kd6 56.Rh8 Ke5 57.Rf8 f5 58.gxf5 exf5 59.Rc8 Kf4 60.Nxc5 Nxc5 61.Rxc5 Rxb3 62.Rxa5 Rb2+ 63.Kg1 g4 64.Rb5 Ra2 65.a5 g3 66.c5 Kg4 67.c6 f4 68.Rb4 g2 69.Rb8 Kg3 70.Rg8+ Kf3 71.Kh2 Rxa5 72.Rxg2 Rc5 73.Ra2 Rc3 74.c7 Kg4 75.Kg2 Rxc7 76.Ra3 f3+ 1/2-1/2

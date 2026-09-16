@@ -1,0 +1,15 @@
+[Event "Round 8: Yin, Andrew - Vyas, Miransh Purven"]
+[Site "https://lichess.org/broadcast/4th-annual-independence-day-open/round-8/f3zNrbX6/doMVXjr9"]
+[Date "2026.07.09"]
+[Round "8.8"]
+[White "Yin, Andrew"]
+[Black "Vyas, Miransh Purven"]
+[Result "1/2-1/2"]
+[WhiteElo "2010"]
+[BlackElo "2120"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Ne2 Bg4 7.O-O Nf6 8.Qe1 e6 9.f3 Bh5 10.Qh4 Bg6 11.Bxg6 fxg6 12.Nf4 Kf7 13.Nd3 Bd6 14.Be3 Rae8 15.f4 Rhf8 16.Nd2 Qb6 17.Rae1 Qb5 18.Ne5+ Kg8 19.Rf2 Bxe5 20.fxe5 Nd7 21.Nf3 Re7 22.Ref1 h6 23.Qg4 Qd3 24.Bc1 Nd8 25.Ne1 Qb1 26.Rc2 Rxf1+ 27.Kxf1 Rf7+ 28.Kg1 g5 29.b3 a5 30.Qe2 a4 31.bxa4 Qb6 32.Qb5 Qc7 33.c4 dxc4 34.Rxc4 Nc6 35.Bd2 Qd8 36.Be3 Nb6 37.Rc1 Nxd4 38.Qb2 Rd7 39.Bxd4 Rxd4 40.a5 Nc4 41.Qxb7 Qxa5 42.Nf3 Qa3 43.Re1 Rf4 44.Qc8+ Kh7 45.Qxe6 Qc5+ 46.Kh1 Qf2 47.Rc1 Ne3 48.Qh3 Nxg2 49.Nxg5+ Kg6 50.Rc6+ Kxg5 51.Qxg2+ Qxg2+ 52.Kxg2 Ra4 53.Rc2 Re4 54.Kf3 Rxe5 55.Rc4 Re1 56.Ra4 Ra1 57.Kg3 Rg1+ 58.Kf2 Ra1 59.Ra8 Kh4 60.Kg2 g5 61.Ra4+ g4 62.h3 h5 63.hxg4 1/2-1/2

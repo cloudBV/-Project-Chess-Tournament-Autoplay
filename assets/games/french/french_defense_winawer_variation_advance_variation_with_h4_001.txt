@@ -1,0 +1,14 @@
+[Event "Round 6: Malli, Suvirr - Hasenohr, Benedict"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/9sznwfHY"]
+[Date "2026.07.18"]
+[Round "6.18"]
+[White "Malli, Suvirr"]
+[Black "Hasenohr, Benedict"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2247"]
+[ECO "C18"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation, with h4"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.h4 Nbc6 8.h5 h6 9.Qg4 Nf5 10.Bd3 O-O 11.Nf3 Qa5 12.Bd2 Qa4 13.Qh3 f6 14.g4 Nfe7 15.exf6 Rxf6 16.g5 e5 17.Qg2 hxg5 18.Bxg5 Rxf3 19.Qxf3 e4 20.Qg2 Qa5 21.Bd2 Bf5 22.Rg1 g6 23.Be2 Rf8 24.hxg6 Nxg6 25.Bg4 Nce7 26.Bxf5 Rxf5 27.Qh3 Kf7 28.Qh7+ Kf6 29.Qh2 Ke6 30.Qh6 Rf6 31.Qh3+ Nf5 32.c4 Qd8 33.Bg5 Qa5+ 34.Kd1 cxd4 35.cxd5+ Qxd5 36.Bxf6 Kxf6 37.Qb3 Qc5 38.Qb4 Qc7 39.Rb1 Qh2 40.Rf1 Qf4 41.Ke1 Ne5 42.Rh1 e3 43.Qf8+ Nf7 44.Rf1 d3 45.Qb4 dxc2 46.Qc3+ Nd4 47.Ra1 e2 48.Rg1 Ne5 49.Rg3 Qh4 50.Kd2 Qh6+ 51.Re3 Kf5 52.Qc8+ Kf4 53.Qc7 Nf3+ 54.Kxe2 Qa6+ 0-1

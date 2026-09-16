@@ -1,0 +1,15 @@
+[Event "Round 4: Ibrahimli, Suat - Babazada, Khazar"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-4/5vp20QZH/JvNPwYvQ"]
+[Date "2026.07.18"]
+[Round "4.2"]
+[White "Ibrahimli, Suat"]
+[Black "Babazada, Khazar"]
+[Result "0-1"]
+[WhiteElo "2250"]
+[BlackElo "2499"]
+[ECO "E91"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 a5 7.O-O Na6 8.Re1 Bg4 9.Be3 Nd7 10.Qd2 Bxf3 11.Bxf3 e5 12.Rad1 Re8 13.dxe5 Bxe5 14.Bg4 Nf6 15.Bg5 Qb8 16.Bxf6 Bxf6 17.f4 Bg7 18.g3 Nc5 19.Bf3 a4 20.Kg2 Qd8 21.Qc2 Qb8 22.h4 Qa7 23.h5 Qa5 24.hxg6 hxg6 25.Nb5 Re7 26.Re2 Rae8 27.Rde1 Qb4 28.b3 axb3 29.axb3 Bf6 30.Re3 Kg7 31.R1e2 g5 32.Re1 gxf4 33.gxf4 Ne6 34.Rg1 Nxf4+ 35.Kf1+ Ng6 36.Re2 Ra8 37.e5 Ra1+ 38.Kf2 Qc5+ 0-1

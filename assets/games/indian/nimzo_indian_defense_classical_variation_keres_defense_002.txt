@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "4.1"]
+[White "Machlik, Monika"]
+[Black "Bjerke, Silje"]
+[Result "1/2-1/2"]
+[WhiteElo "2085"]
+[BlackElo "2147"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Keres Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.f3 d6 9.Nh3 Nbd7 10.e4 c5 11.dxc5 bxc5 12.Bd3 Ne5 13.O-O h6 14.Bh4 Rb8 15.Rae1 Ng6 16.Bf2 Qc7 17.b4 Nd7 18.b5 e5 19.a4 Rfe8 20.Be3 Ndf8 21.Nf2 Ne6 22.Qc1 Qd8 23.Bb1 Rc8 24.Nd3 Qc7 25.Qd2 Ngf8 26.Nf2 Qd8 27.Nh3 Qe7 28.Bd3 Ng6 29.Rd1 Red8 30.Rde1 Rc7 31.Rb1 Bc8 32.Rbd1 Nd4 33.Nf2 Ne6 34.Nh3 Nd4 35.Nf2 Ne6 36.Nh3 Kf8 1/2-1/2

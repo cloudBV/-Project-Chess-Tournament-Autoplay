@@ -1,0 +1,14 @@
+[Event "Round 7: Saminskij, Jan - Koehalmi-Szabo, Mihaly"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-7/6jkfPuMd/sEW4oBSY"]
+[Date "2026.07.17"]
+[Round "7.3"]
+[White "Saminskij, Jan"]
+[Black "Koehalmi-Szabo, Mihaly"]
+[Result "1/2-1/2"]
+[WhiteElo "2301"]
+[BlackElo "2174"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be7 7.N5c3 Nf6 8.Be2 O-O 9.Be3 Be6 10.O-O Qd7 11.Na3 Rac8 12.Nc2 Bd8 13.Qd2 Ba5 14.f3 Nb4 15.Na3 a6 16.Rfd1 Rfd8 17.Qe1 b5 18.cxb5 Nxa2 19.Bd2 Nxc3 20.Bxc3 Bxc3 21.bxc3 Qa7+ 22.Kh1 axb5 23.Nxb5 Qb6 24.c4 Bxc4 25.Bxc4 Rxc4 26.Rxd6 Rc6 27.Rxd8+ Qxd8 28.Rd1 Qe7 29.Qa5 g6 30.h3 Kg7 31.Qd2 Qc5 32.Nd6 Qc2 33.Qxc2 Rxc2 34.g4 Kf8 35.h4 Ke7 36.Kg1 Rc6 37.Nb5 Rc5 38.Rb1 Nd7 39.Kf2 Rc2+ 40.Kg1 Nf8 41.Ra1 Ne6 42.Ra7+ Kf8 43.Nd6 Rc7 44.Ra8+ Ke7 45.Nc8+ Kf8 46.Nd6+ Ke7 47.Nc8+ Kf8 48.g5 Rc1+ 49.Kf2 Rc2+ 50.Kf1 Nd4 51.Nb6+ Ke7 52.Nd5+ Ke6 53.Re8+ Kd6 54.Ne3 Rh2 55.Ng4 Rxh4 56.Nxe5 Rf4 57.Kf2 Ne6 58.Nd3 Rh4 59.Kg3 Rh5 60.f4 h6 61.gxh6 Rxh6 62.Ra8 Rh1 63.Ra6+ Ke7 64.Ra7+ Ke8 65.Ne5 Nd8 66.Nd7 Ne6 67.Nf6+ Kf8 68.Nd7+ Kg8 69.Nf6+ Kf8 70.Ra8+ Kg7 71.Ne8+ Kh7 72.e5 Rg1+ 73.Kf2 Rb1 74.Nf6+ Kg7 75.Ne8+ Kh7 76.Ra4 Rb8 77.Nd6 Kg8 78.Kf3 Rb1 79.Ne4 Rf1+ 80.Nf2 Kg7 81.Rb4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.14"]
+[Round "6.10"]
+[White "Komodo 14.1"]
+[Black "IgelHCE 3.6.13"]
+[Result "1/2-1/2"]
+[WhiteElo "3449"]
+[BlackElo "3223"]
+[ECO "A16"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qb3 Nb6 6.d4 Bg7 7.e4 c6 8.Be3 O-O 9.Be2 Be6 10.Qc2 N8d7 11.h3 Bc4 12.a4 a5 13.O-O e6 14.Rfe1 Qc7 15.Rac1 Rfc8 16.b3 Bxe2 17.Qxe2 Qd8 18.h4 Qe7 19.h5 gxh5 20.Qc2 Qf6 21.Ne2 Bh6 22.Bxh6 Qxh6 23.g3 Nf8 24.Kg2 c5 25.Qd3 cxd4 26.Qb5 Nbd7 27.Rxc8 Rxc8 28.Qxb7 Rb8 29.Qc7 Rxb3 30.Nexd4 Rd3 31.Qc2 Ra3 32.Rh1 Qg6 33.Nb5 Rxf3 34.Kxf3 Qg4+ 35.Kg2 Ng6 36.Nc3 Nf4+ 37.Kf1 Qf3 38.Rh2 Ng6 39.Ne2 Nf6 40.Ng1 Qa3 41.Qd1 Qa2 42.Ne2 Nxe4 43.Rxh5 e5 44.Rf5 h6 45.f3 Ng5 46.f4 Ne4 47.Qd3 Qxa4 48.fxe5 Ng5 49.Qd5 Qa1+ 50.Kg2 a4 51.Qd8+ Nf8 52.e6 Nxe6 53.Qf6 Qxf6 54.Rxf6 Kg7 55.Rf5 Nd7 56.Ra5 Ndc5 57.Nf4 Nxf4+ 1/2-1/2

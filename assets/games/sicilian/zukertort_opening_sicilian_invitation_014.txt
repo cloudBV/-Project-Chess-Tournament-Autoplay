@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "6.4"]
+[White "Gnojek, Petr"]
+[Black "Jun, Rudolf"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2303"]
+[ECO "A04"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.e3 d5 3.b3 Nc6 4.Bb2 Nf6 5.Bb5 Bd7 6.O-O a6 7.Bxc6 Bxc6 8.Ne5 Rc8 9.d3 Nd7 10.Nxc6 Rxc6 11.c4 Nf6 12.Qf3 e6 13.Bxf6 Qxf6 14.Qxf6 gxf6 15.cxd5 exd5 16.Nc3 d4 17.exd4 cxd4 18.Ne2 Bc5 19.Rac1 Kd7 20.Rc4 b5 21.Rc2 Bb6 22.Rxc6 Kxc6 23.Rc1+ Kd5 24.Nf4+ Kd6 25.Nh5 f5 26.Kf1 Ba5 27.Ng3 Bc3 28.Nxf5+ Ke5 29.Ng3 a5 30.Ne4 Rc8 31.a4 f5 32.Nd2 Rb8 33.Rc2 Kd5 34.Ke2 bxa4 35.bxa4 Bxd2 36.Kxd2 Rb4 37.Ra2 Rb3 38.f4 Kd6 39.g3 Kd5 40.h3 h5 41.Ke2 Rb4 42.Kf3 Rb3 43.Rd2 Kc5 44.Rc2+ Rc3 45.Rd2 Rb3 46.g4 fxg4+ 47.hxg4 hxg4+ 48.Ke4 Kd6 49.Rg2 Rb4 50.Rxg4 Rxa4 51.Rg5 Ra1 52.Kxd4 a4 53.Ra5 a3 54.Ra6+ Ke7 55.Ke5 a2 56.Ra7+ Ke8 57.Kf5 Kd8 58.d4 Ke8 59.d5 Kd8 60.Kf6 Ke8 61.f5 Kd8 62.Kf7 Rf1 63.Rxa2 Rxf5+ 64.Ke6 Rh5 65.Ra8+ Kc7 66.d6+ Kb7 67.d7 Rh6+ 68.Kf5 Kxa8 69.d8=Q+ Kb7 70.Qe7+ Ka6 71.Qe2+ Kb7 72.Ke5 Rh8 73.Qb5+ Kc7 74.Qc5+ Kb7 75.Qe7+ Ka8 76.Kd6 Rh2 77.Qe4+ Kb8 78.Kd7 Ka7 79.Kc7 Ka6 1-0

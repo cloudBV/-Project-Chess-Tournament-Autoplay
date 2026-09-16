@@ -1,0 +1,14 @@
+[Event "Round 6: Ansat, Aldiyar - Donchenko, Alexander"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-6/KOO5y7mV/AM1y7hmb"]
+[Date "2026.07.05"]
+[Round "6.2"]
+[White "Ansat, Aldiyar"]
+[Black "Donchenko, Alexander"]
+[Result "0-1"]
+[WhiteElo "2500"]
+[BlackElo "2635"]
+[ECO "B11"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4 Nf6 7.Be2 dxe4 8.Nxe4 Qxd4 9.Nxf6+ Qxf6 10.Qb3 Bc5 11.Qxb7 Qxf2+ 12.Kd1 O-O 13.Rf1 Qxg2 14.Qxa8 Rd8+ 15.Bd2 Be3 16.Qxb8 Rxb8 17.Bxe3 Qxh3 18.Bd2 Rd8 19.a4 Qh4 20.Ra3 Qb4 21.Rd3 Rxd3 22.Bxd3 Qxb2 23.Rf4 Qa1+ 24.Ke2 h5 25.Be3 Qe5 26.Rd4 Qc7 27.a5 Qxa5 28.Rd7 g6 29.Kf3 h4 30.Bd4 h3 31.Kg3 e5 32.Bf2 Qd2 0-1

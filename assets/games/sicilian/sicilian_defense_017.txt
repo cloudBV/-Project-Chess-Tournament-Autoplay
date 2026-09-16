@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.8"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Sawicki, Dorian"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2059"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 Nc6 3.d3 e6 4.f4 a6 5.Nf3 b5 6.O-O Bb7 7.c3 Nge7 8.Be3 d6 9.d4 cxd4 10.cxd4 d5 11.e5 Qb6 12.Bf2 h5 13.Nbd2 Nf5 14.Nb3 Na5 15.Nc5 Nxd4 16.Nxd4 Bxc5 17.b4 Bxb4 18.Nxb5 Bc5 19.Nd6+ Ke7 20.Rb1 Bxf2+ 21.Rxf2 Qc7 22.f5 Rhf8 23.Qd2 f6 24.Qb4 Kd7 25.Nxb7 Rab8 26.Bxa6 Nc6 27.Bb5 fxe5 28.Bxc6+ Qxc6 29.fxe6+ Kxe6 30.Rxf8 1-0

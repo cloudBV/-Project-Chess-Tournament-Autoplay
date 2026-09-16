@@ -1,0 +1,14 @@
+[Event "Round 7: Hillarp Persson, Tiger - Ostlund, Joar"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-7/tnq1pFFy/RXuO6BfS"]
+[Date "2026.07.23"]
+[Round "7.2"]
+[White "Hillarp Persson, Tiger"]
+[Black "Ostlund, Joar"]
+[Result "1/2-1/2"]
+[WhiteElo "2418"]
+[BlackElo "2390"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+
+1.c4 Nf6 2.Nc3 e5 3.a3 d5 4.cxd5 Nxd5 5.e4 Nf4 6.Nf3 Bd6 7.d4 exd4 8.Nxd4 O-O 9.Ndb5 Ng6 10.Nxd6 cxd6 11.Be2 Re8 12.O-O Nc6 13.Be3 Be6 14.Rc1 Nge5 15.Nd5 Rc8 16.b4 a6 17.Nb6 Rb8 18.f3 Qe7 19.Qd2 Rbd8 20.Rfd1 h6 21.Nd5 Bxd5 22.Qxd5 Kh8 23.Bb6 Rd7 24.Bf1 Qg5 25.Kh1 Ne7 26.Qd2 Qf6 27.Be3 d5 28.f4 Ng4 29.e5 Qh4 30.g3 Qh5 31.Bg1 Nf5 32.Kg2 d4 33.Re1 Red8 34.Bd3 Nge3+ 35.Bxe3 dxe3 36.Qe2 Qg6 37.Bxf5 Qxf5 38.Qxe3 Rd3 39.Qf2 h5 40.e6 fxe6 41.Re5 Qg6 42.Rce1 h4 43.Rxe6 Qg4 44.Re8+ Rxe8 45.Rxe8+ Kh7 46.Qe2 Qxe2+ 47.Rxe2 hxg3 48.hxg3 Rxa3 49.Re6 b5 50.Kh3 Ra4 51.Kh4 Kg8 52.Kg5 Kf7 53.f5 Rxb4 54.Rxa6 Rc4 55.Ra7+ Kf8 56.Rb7 Rc5 57.g4 Kg8 58.Kh5 Rd5 59.Ra7 Rc5 60.Ra6 Kf7 61.Kg5 Rc7 62.Rb6 Rc5 63.Rb7+ Kg8 64.Rd7 Rc6 65.Rb7 Rc5 66.Kh5 Rd5 67.Kh4 Rc5 68.Kg5 Rd5 69.Kf4 Rd4+ 70.Kf3 Rd5 71.Ke4 Rc5 72.g5 g6 73.Rb8+ Kf7 74.Rb7+ Kg8 1/2-1/2

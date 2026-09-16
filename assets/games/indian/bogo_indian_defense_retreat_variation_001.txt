@@ -1,0 +1,15 @@
+[Event "Round 7: Anton Guijarro, David - Jacobson, Brandon"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-7/cOUdY2gl/Qh0kkLWc"]
+[Date "2026.07.01"]
+[Round "7.1"]
+[White "Anton Guijarro, David"]
+[Black "Jacobson, Brandon"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2601"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Be7 5.Nc3 O-O 6.Bf4 Nh5 7.g3 d5 8.e3 dxc4 9.Bxc4 c5 10.dxc5 Nxf4 11.exf4 Qxd1+ 12.Rxd1 Bxc5 13.Ne5 Nc6 14.Nxc6 bxc6 15.O-O Be7 16.Rd2 Rd8 17.Rxd8+ Bxd8 18.Rc1 Bb6 19.Na4 Kf8 20.Bd3 Bd7 21.Be4 Rc8 22.b4 Ke7 23.a3 h6 24.h4 Kd6 25.Nc5 Be8 26.Kg2 a5 27.Na4 Rb8 28.Rd1+ Ke7 29.Rc1 axb4 30.axb4 Kd6 31.Nb2 Bd4 32.Nd3 Rb5 33.Rc2 g5 34.Rc4 Ba7 35.fxg5 hxg5 36.hxg5 1/2-1/2

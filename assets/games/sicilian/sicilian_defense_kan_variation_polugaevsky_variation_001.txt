@@ -1,0 +1,14 @@
+[Event "Round 7: Maltezeanu, Stefan - Thibous, Mathis"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-7/cmwhUTf4/XnGPIyfI"]
+[Date "2026.07.01"]
+[Round "7.10"]
+[White "Maltezeanu, Stefan"]
+[Black "Thibous, Mathis"]
+[Result "1-0"]
+[WhiteElo "2199"]
+[BlackElo "2195"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.Bf4 d6 8.Nc3 Nf6 9.Qe2 Nc6 10.O-O-O Bd7 11.g4 e5 12.g5 exf4 13.gxf6 Bxf6 14.Nd5 Be5 15.c3 Ne7 16.Nd4 Nxd5 17.exd5 O-O 18.Bc2 Qf6 19.Qd3 g6 20.Rhg1 Rac8 21.Nf3 Rfe8 22.h4 Kh8 23.Kb1 b5 24.h5 Bf5 25.Qd2 b4 26.Nxe5 Qxe5 27.Rge1 bxc3 28.Rxe5 cxd2 29.Rxe8+ Rxe8 30.Bxf5 gxf5 31.Rxd2 Re1+ 32.Kc2 Rh1 33.Rd4 Rxh5 34.Rxf4 Kg7 35.Kd3 Kf6 36.Ra4 Rh2 37.Ke2 h5 38.Rxa6 Ke5 39.Ra7 f6 40.b4 Kxd5 41.b5 Kc5 42.a4 Rh4 43.Rc7+ Kb6 44.Rc6+ Kb7 45.a5 Rb4 46.a6+ Ka7 47.Rxd6 Rxb5 48.Rxf6 Rb6 49.Rxf5 Rh6 50.Ra5 h4 51.Ra1 h3 52.Kf3 h2 53.Kg2 Rh4 54.Rh1 Kxa6 55.Rxh2 Rb4 56.Rh1 Kb5 57.Rc1 Rc4 58.Rxc4 Kxc4 59.Kg3 Kd5 60.Kg4 Ke6 61.Kg5 Kf7 62.Kf5 Kg7 63.Ke6 Kg6 64.f4 Kg7 65.f5 Kf8 66.Kf6 1-0

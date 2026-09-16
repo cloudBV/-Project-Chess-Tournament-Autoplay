@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.22"]
+[Round "25.3"]
+[White "RubiChessHCE 20260308"]
+[Black "Northphrax 8.0.1_bdded80"]
+[Result "1/2-1/2"]
+[WhiteElo "3397"]
+[BlackElo "3248"]
+[ECO "B12"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.Be3 Qb6 8.f4 Nc6 9.f5 exf5 10.Bg2 fxg4 11.Nxd5 Qa5+ 12.Bd2 Qd8 13.O-O Nge7 14.Nef4 cxd4 15.Qxg4 Nxe5 16.Qg3 Nf5 17.Qh3 Bd6 18.Nh5 O-O 19.Rxf5 Bxf5 20.Qxf5 Kh8 21.Rf1 Ng6 22.Nxg7 Qh4 23.h3 Kxg7 24.Nf6 Ne7 25.Qb5 h6 26.Nh5+ Kg8 27.Rf6 a6 28.Qe2 Rae8 29.Qf3 Be5 30.Rxh6 Ng6 31.Qd5 Re6 32.Rxg6+ Rxg6 33.Qxe5 Qd8 34.Qe2 Re8 35.Qf2 Qd6 36.Nf4 Rg7 37.Nh5 Rg6 38.Nf4 Rg7 39.Kh1 Qe5 40.Bf1 b5 41.Kh2 Re6 42.Qf3 Kh8 43.Bd3 Rf6 44.Kh1 Rh6 45.Kh2 Rf6 46.Kh1 Rh6 47.a3 Rh4 48.Kh2 Rgg4 49.Qe2 Qd6 50.Qxg4 Rxg4 51.hxg4 Kg8 52.Kg3 Qh6 53.Bc1 Qh1 54.Ne2 f6 55.g5 fxg5 56.Bxg5 Qd5 57.Bc1 Qd6+ 58.Nf4 Qh6 59.Bd2 Qg7+ 60.Ng6 Qf7 61.Bb4 Qf6 62.Ne7+ Kf7 63.Nf5 Ke6 64.Bd2 Qe5+ 65.Kg2 Kd7 66.b3 Qc5 67.Bb4 Qe5 68.Bd6 Qe1 69.Bc5 Qc1 70.Kf3 Kc6 71.b4 Qxa3 72.Nxd4+ Kc7 73.Nb3 Qb2 74.Bd4 Qa3 75.Nc5 Kd8 76.c3 Ke7 77.Be4 Qa1 78.Nd3 Qa2 79.Nf2 Qd2 80.Kg4 Qe1 81.Kf3 Kd6 82.Kf4 Qc1+ 83.Kf5 Qh6 84.Nd3 Qh4 85.Be5+ Ke7 86.Nf4 Qh7+ 87.Ng6+ Kd7 88.Kg5 Kc8 89.Bd3 Qf7 90.Nf4 Qg8+ 91.Kf5 Qd8 92.Bf6 Qd7+ 93.Kg5 Qc7 94.Bf5+ Kb8 95.Be4 a5 96.bxa5 Qxa5 97.Nd5 Qa2 98.Be7 Qh2 99.Kf6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "6.1"]
+[White "Ratajczak, Hubert"]
+[Black "Raczek, Krzysztof"]
+[Result "1/2-1/2"]
+[WhiteElo "2243"]
+[BlackElo "2428"]
+[ECO "C00"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Qe2 Nc6 4.Nf3 Nf6 5.e5 Nd7 6.g3 f6 7.exf6 Qxf6 8.Bg2 Bd6 9.O-O O-O 10.c4 Nde5 11.Nbd2 Ng6 12.h4 h6 13.Rb1 Nb4 14.a3 Na2 15.d4 c6 16.Re1 Bd7 17.h5 Nh8 18.Ne5 Bxe5 19.dxe5 Qf5 20.Ra1 Nxc1 21.Raxc1 Nf7 22.f4 g5 23.hxg6 Qxg6 24.cxd5 cxd5 25.Rc7 Bc6 26.Kh2 Rac8 27.Re7 Rfe8 28.Rxe8+ Bxe8 29.Nf3 Rc2 30.Qe3 Rxb2 31.Nh4 Qh7 32.Rc1 Bc6 33.Qc3 Ra2 34.Qb3 Rd2 35.Qc3 Qd3 36.Qxd3 Rxd3 37.Ng6 Nd8 38.a4 Kf7 39.Nh4 Ra3 40.Bf3 Ke7 41.Kh3 d4 42.Bxc6 Nxc6 43.Kg4 h5+ 44.Kxh5 Rxg3 45.Rb1 b6 46.Rc1 Kd7 47.Ng6 Nd8 48.Nf8+ Ke8 49.Ng6 Rc3 50.Rd1 Nc6 51.Kg5 Kf7 52.f5 exf5 53.Kxf5 Re3 54.Rc1 Rc3 55.e6+ Kg7 56.Rg1 Rf3+ 57.Ke4 Re3+ 58.Kd5 Nb4+ 59.Kd6 Kf6 60.e7 Kf7 61.Ne5+ Rxe5 62.Kxe5 Kxe7 63.Rg7+ Kf8 64.Rd7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.14"]
+[White "Kubicki, Marek"]
+[Black "Akesson, Ralf"]
+[Result "0-1"]
+[WhiteElo "2038"]
+[BlackElo "2351"]
+[ECO "B23"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Bb5 Nd4 5.Nf3 Bg7 6.e5 Nxb5 7.Nxb5 Nh6 8.O-O O-O 9.a4 d6 10.Re1 Nf5 11.g4 a6 12.Nc3 Nd4 13.exd6 Qxd6 14.Ne5 f6 15.Ne4 Qc7 16.Nd3 c4 17.Ndf2 Qxf4 18.Kg2 f5 19.d3 Qc7 20.gxf5 gxf5 21.Ng5 cxd3 22.Qxd3 Nxc2 23.Qd5+ e6 24.Rxe6 Bxe6 25.Nxe6 Qf7 26.Rb1 Rfe8 27.Nc7 Qxd5+ 28.Nxd5 Rad8 29.Nc7 Re1 30.Bg5 Rxb1 31.Bxd8 Rxb2 32.Nd5 Kf7 33.a5 Bd4 34.Nd3 Ne1+ 0-1

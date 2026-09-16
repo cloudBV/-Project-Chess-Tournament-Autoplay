@@ -1,0 +1,14 @@
+[Event "Round 8: Svadlenka, Dominik - Slovak, Kilian"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-8/ctJ0lJT8/XNtEeH1o"]
+[Date "2026.07.04"]
+[Round "8.4"]
+[White "Svadlenka, Dominik"]
+[Black "Slovak, Kilian"]
+[Result "1-0"]
+[WhiteElo "2157"]
+[BlackElo "2307"]
+[ECO "E99"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System, Traditional Line"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5 11.Nd3 f4 12.b4 g5 13.c5 Nf6 14.a4 Ng6 15.a5 Kh8 16.Nf2 h5 17.Kh1 Rg8 18.Rg1 Bh6 19.g3 fxg3 20.hxg3 Qf8 21.c6 bxc6 22.dxc6 g4 23.fxg4 Nxg4 24.Nxg4 Bxg4 25.Bxg4 hxg4 26.Rg2 Bxc1 27.Rxc1 Rg7 28.Rh2+ Rh7 29.Rxh7+ Kxh7 30.Kg2 Qh6 31.Qh1 Ne7 32.Qxh6+ Kxh6 33.Nb5 Rb8 34.Nxc7 Rxb4 35.Nd5 Rb2+ 36.Kf1 Nc8 37.Rc4 Kg7 38.Rb4 Rxb4 39.Nxb4 Kf7 40.Ke2 Ke8 41.Kd3 Ne7 42.Kc4 a6 43.c7 Kd7 44.Nxa6 d5+ 45.exd5 Nf5 46.Kb5 Nxg3 47.d6 Ne4 48.Nb8+ Kc8 49.Kc6 1-0

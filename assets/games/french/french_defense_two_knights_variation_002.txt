@@ -1,0 +1,15 @@
+[Event "Round 5: Christiansen, Johan-Sebastian - Greet, Andrew N"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-5/CL0FrXFI/JW16m9tB"]
+[Date "2026.07.05"]
+[Round "5.2"]
+[White "Christiansen, Johan-Sebastian"]
+[Black "Greet, Andrew N"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2413"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Two Knights Variation"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.d4 c5 6.Ne2 cxd4 7.Nexd4 Nc6 8.Bf4 Qb6 9.Rb1 Nc5 10.c3 Bd7 11.h4 Ne4 12.Bd3 Bc5 13.O-O Qd8 14.Nb3 Be7 15.Qc2 Na5 16.Nbd4 g5 17.hxg5 Nxg5 18.Nh2 Nc6 19.Nb3 Rg8 20.Kh1 h5 21.Rbd1 Qc7 22.Qe2 O-O-O 23.Nd4 f6 24.Bxg5 fxg5 25.Bb5 g4 26.Bxc6 bxc6 27.b4 Rg5 28.f4 gxf3 29.Nhxf3 Rg3 30.c4 Rdg8 31.cxd5 exd5 32.e6 Be8 33.Rf2 Bxb4 34.Qa6+ Qb7 35.Qxb7+ Kxb7 36.Rb2 c5 37.Nf5 Kc7 38.Nxg3 Rxg3 39.Rxd5 Bc6 40.e7 Rg8 41.Rxh5 Re8 42.Re2 a5 43.Re3 c4 44.Nd4 Bd7 45.Nc2 Bd2 46.Re4 c3 47.Rxa5 Bc6 48.Rc4 Kb6 49.Re5 Kb7 50.Nb4 Ba4 51.Nd3 1-0

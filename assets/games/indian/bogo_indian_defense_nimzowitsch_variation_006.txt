@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.08"]
+[Round "5.8"]
+[White "Mica, Marek"]
+[Black "Stary, Simon"]
+[Result "1-0"]
+[WhiteElo "2284"]
+[BlackElo "2004"]
+[ECO "E11"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Bg2 Bxd2+ 7.Nbxd2 d6 8.O-O O-O 9.e3 e5 10.d5 Nb8 11.Ne1 a5 12.Qc2 Na6 13.a3 Nc5 14.b3 h5 15.h3 h4 16.g4 Nh7 17.e4 Re8 18.Rb1 Nd7 19.Nd3 Nhf8 20.Rfc1 Ng6 21.c5 Nxc5 22.Nxc5 dxc5 23.Qxc5 Nf4 24.Qxe7 Rxe7 25.Bf1 g6 26.Rc3 f5 27.f3 fxg4 28.fxg4 b6 29.Rbc1 Ba6 30.Bxa6 Rxa6 31.Rxc7 Ra7 32.Rxa7 Rxa7 33.Rc8+ Kf7 34.Nf3 Nxh3+ 35.Kh2 Nf2 36.Nxe5+ Kf6 37.Nc6 Rf7 38.e5+ Kg5 39.e6 Nxg4+ 40.Kg1 Rf3 41.e7 h3 42.Rh8 Rg3+ 43.Kf1 Rf3+ 44.Ke2 Re3+ 45.Kd2 h2 46.d6 Nh6 47.Kxe3 h1=Q 48.e8=Q Nf5+ 49.Kd2 Qd5+ 50.Ke1 1-0

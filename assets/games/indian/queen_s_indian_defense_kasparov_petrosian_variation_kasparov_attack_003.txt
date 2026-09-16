@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "2.4"]
+[White "Rzap, Filip"]
+[Black "Rekuc, Patryk"]
+[Result "0-1"]
+[WhiteElo "2072"]
+[BlackElo "2315"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Be7 8.e4 Nxc3 9.bxc3 O-O 10.Bd3 c5 11.O-O Nc6 12.Bb2 Rc8 13.Qe2 Rc7 14.Rad1 Rd7 15.d5 exd5 16.exd5 Rxd5 17.Bxh7+ Kh8 18.c4 Rd6 19.Bc2 f5 20.Ne5 Qe8 21.Rfe1 Nd4 22.Bxd4 cxd4 23.Nf3 Bxf3 24.Qxf3 Qd7 25.Bd3 g6 26.Qf4 Kg7 27.Re2 Bf6 28.Rde1 Rc6 29.h4 Qd6 30.Qxd6 Rxd6 31.g3 Rc8 32.f4 b5 33.cxb5 Rc3 34.Rd1 Rxa3 35.Kf2 Rd7 36.h5 gxh5 37.Bxf5 Rd5 38.Bd3 h4 39.g4 Rc5 40.g5 Bd8 41.Re6 Rcc3 42.Ke2 Ra2+ 43.Rd2 Rxd2+ 44.Kxd2 Bc7 45.f5 Bf4+ 46.Ke2 h3 47.f6+ Kf8 48.Ra6 h2 49.Ra1 Bxg5 50.Rh1 Bf4 51.Rf1 Ra3 52.Rh1 Be3 53.Be4 Bg1 54.Bd5 Ra5 55.Bc4 Ra4 56.Bd5 Rb4 57.Bc6 Kf7 58.Kd3 Kxf6 59.Bd7 Ke5 60.Bc6 Rb3+ 61.Kd2 Kd6 62.Be8 Kc5 63.Bd7 Rb1 64.Kd3 Re1 65.Kd2 Re7 66.Bc6 a6 0-1

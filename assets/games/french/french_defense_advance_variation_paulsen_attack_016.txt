@@ -1,0 +1,14 @@
+[Event "Round 2: Adzic, Slobodan - Rueetschi, Urs"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-2/n5yxqcyI/k4tyG3gH"]
+[Date "2026.06.03"]
+[Round "2.1"]
+[White "Adzic, Slobodan"]
+[Black "Rueetschi, Urs"]
+[Result "1/2-1/2"]
+[WhiteElo "2051"]
+[BlackElo "2268"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 cxd4 7.cxd4 Nf5 8.Nc2 Bd7 9.Bd3 Nb4 10.Nxb4 Bxb4+ 11.Bd2 Qb6 12.Bxb4 Qxb4+ 13.Qd2 Qxd2+ 14.Kxd2 O-O 15.Rhc1 Rac8 16.Bxf5 exf5 17.Rxc8 Rxc8 18.Rc1 Rxc1 19.Kxc1 1/2-1/2

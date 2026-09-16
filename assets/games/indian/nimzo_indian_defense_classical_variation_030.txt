@@ -1,0 +1,15 @@
+[Event "预选赛8进4"]
+[Site "chengdu, China"]
+[Date "2026.07.24"]
+[Round "4.1"]
+[White "Zhu, Jiner"]
+[Black "Ma, Qun"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2604"]
+[ECO "E32"]
+[TimeControl "15m+10s"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 O-O 6.e3 Nbd7 7.Bd2 c6 8.a3 Ba5 9.Bd3 e5 10.b4 Bc7 11.d5 Re8 12.O-O Nf8 13.e4 Ng6 14.h3 Nh5 15.Rfe1 Nhf4 16.Bf1 Qf6 17.Nh2 Bd7 18.Be3 Rac8 19.Qd2 h5 20.g3 Bxh3 21.gxf4 Bxf1 22.f5 Nf4 23.Bxf4 exf4 24.Rxf1 Bb6 25.Nf3 g5 26.fxg6 fxg6 27.Kh1 g5 28.Nxg5 f3 29.Rg1 Kh8 30.e5 Rxe5 31.Nce4 Qf5 32.Rg3 Rg8 33.Rag1 Rg6 34.Nf7+ Kh7 1-0

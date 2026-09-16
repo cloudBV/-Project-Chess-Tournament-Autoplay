@@ -1,0 +1,15 @@
+[Event "Round 7: Kanyamarala, Trisha - Perez Marimon, Jorge De Jesus"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-7/cOUdY2gl/AwoCO6xY"]
+[Date "2026.07.01"]
+[Round "7.5"]
+[White "Kanyamarala, Trisha"]
+[Black "Perez Marimon, Jorge De Jesus"]
+[Result "0-1"]
+[WhiteElo "2178"]
+[BlackElo "2406"]
+[ECO "A31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e5 5.Nb5 d5 6.cxd5 Bc5 7.e3 O-O 8.Be2 e4 9.N5c3 Re8 10.Nd2 Nbd7 11.O-O Nb6 12.Nb3 Bd6 13.Nb5 Be5 14.d6 Nbd5 15.Bd2 a6 16.N5d4 Qxd6 17.g3 Bh3 18.Re1 g6 19.Na5 Qd7 20.Nc4 Bc7 21.a4 h5 22.b4 h4 23.b5 Kg7 24.b6 Bb8 25.Ra3 Rh8 26.Bc1 hxg3 27.fxg3 Bg2 28.Bf1 Bxf1 29.Rxf1 Qh3 30.Qe2 Bxg3 31.hxg3 Qh1+ 32.Kf2 Rh2+ 33.Ke1 Rxe2+ 34.Nxe2 Qh2 35.Bb2 Rc8 36.Rf2 Qh1+ 37.Rf1 Qh3 38.Nd6 Rc2 39.Ne8+ Kf8 40.Bxf6 Kxe8 41.Bd4 Nb4 0-1

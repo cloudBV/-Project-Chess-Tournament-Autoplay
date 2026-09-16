@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.2"]
+[White "Unneland, Mathias"]
+[Black "Fossheim, Yngve"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2230"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be2 Nxd4 10.Bxd4 a5 11.b3 Bd7 12.O-O Bc6 13.Qc2 Qc7 14.Bd3 Nd7 15.Bxg7 Kxg7 16.Nd5 Bxd5 17.exd5 e5 18.dxe6 fxe6 19.Rad1 Rad8 20.Rd2 Qc5 21.Be4 b6 22.Rfd1 Nf6 23.Bf3 Rd7 24.Re1 Re8 25.Qc3 Kf7 26.Qd3 d5 27.cxd5 exd5 28.Rxe8 Kxe8 29.Rc2 Qb4 30.g4 Qf4 31.Rc6 b5 32.Kg2 b4 33.Ra6 Kf7 34.Qb5 Re7 35.Bxd5+ Kg7 36.Bf3 Re5 37.Qb7+ Kh6 38.Qb8 Nh5 39.h4 Re7 40.Qa8 Re5 41.Qd8 Re3 42.g5+ 1-0

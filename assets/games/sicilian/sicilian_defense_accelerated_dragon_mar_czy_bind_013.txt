@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.4"]
+[White "Khoo-Thwe, Louis"]
+[Black "Rustan, Elias Buschmann"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2061"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.f3 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.b3 a4 12.b4 Be6 13.Rc1 a3 14.Be2 Nd7 15.O-O Nb6 16.Nd5 Nxd5 17.exd5 Bd7 18.Bd4 Bxd4+ 19.Qxd4 Re8 20.f4 Ra4 21.Rb1 Bf5 22.Rb3 e5 23.dxe6 Rxe6 24.Bf3 Qe7 25.Qc3 Be4 26.f5 Bxf5 27.Bd5 Re5 28.Rxa3 Rxa3 29.Qxa3 Re1 30.Qc3 Rxf1+ 31.Kxf1 Be4 32.Bxe4 Qxe4 33.a3 h5 34.Kg1 h4 35.h3 g5 36.a4 f5 37.Qd2 Qe7 38.a5 Kg7 39.b5 Kg6 40.Qc3 Qf7 41.b6 Qe7 42.Qd2 Kh7 43.Kf2 g4 44.hxg4 fxg4 45.Qd3+ Kg8 46.Qg6+ Kf8 47.Qf5+ Kg8 48.Qc8+ 1-0

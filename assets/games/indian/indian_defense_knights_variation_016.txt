@@ -1,0 +1,15 @@
+[Event "Round 2: Bartos, Jan - Haring, Filip"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/sqtMPRcU"]
+[Date "2026.07.17"]
+[Round "2.29"]
+[White "Bartos, Jan"]
+[Black "Haring, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2446"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 d5 4.c4 c5 5.dxc5 Bxc5 6.e3 O-O 7.a3 a5 8.Be2 dxc4 9.Bxc4 Nc6 10.O-O Qe7 11.Qc2 Bd7 12.b3 Rfc8 13.Bb2 Bd6 14.Ne4 Nxe4 15.Qxe4 Rab8 16.Bb5 f5 17.Qd3 Rd8 18.Rfd1 Be8 19.Qf1 Bh5 20.Be2 Rbc8 21.Nd4 Bxe2 22.Qxe2 Nxd4 23.Rxd4 Bc5 24.Rxd8+ Rxd8 25.g3 Rd5 26.a4 Bb4 27.Rc1 Qd7 28.Qc4 Rc5 29.Qf1 Rxc1 30.Qxc1 h6 31.Qc4 Kf7 1/2-1/2

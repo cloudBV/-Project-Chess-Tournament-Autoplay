@@ -1,0 +1,15 @@
+[Event "Round 2: Heimann, Mark - Sevian, Samuel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/WtW1ITaG"]
+[Date "2026.07.04"]
+[Round "2.6"]
+[White "Heimann, Mark"]
+[Black "Sevian, Samuel"]
+[Result "0-1"]
+[WhiteElo "2411"]
+[BlackElo "2677"]
+[ECO "B90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.h3 Nbd7 9.g4 h6 10.Qf3 Nf8 11.O-O-O Ng6 12.Bc4 b5 13.Bd5 Rb8 14.Ba7 Nxd5 15.Bxb8 Ndf4 16.Nd5 Nxd5 17.exd5 Qb6 18.Bxd6 Bxd6 19.Nd2 Bb7 20.Ne4 Nf4 21.Rhe1 O-O 22.g5 hxg5 23.Nxg5 Be7 24.Rxe5 Ng6 25.Qh5 Bxg5+ 26.Rxg5 Qxf2 27.Rf5 Nf4 28.Qg4 Rc8 29.c3 Qe3+ 30.Kb1 Ng6 31.Rdf1 Re8 32.R5f3 Qe5 33.Qd7 Bxd5 34.R3f2 Qe6 35.Rxf7 Qe4+ 36.Kc1 Bxf7 37.Qxf7+ Kh7 38.Qf2 Qe3+ 39.Qxe3 Rxe3 40.Rd1 Nf4 41.Rd6 Re6 42.Rd7 Nxh3 0-1

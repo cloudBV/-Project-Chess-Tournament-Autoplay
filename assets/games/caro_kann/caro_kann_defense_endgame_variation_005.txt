@@ -1,0 +1,15 @@
+[Event "Round 3: Villa Tornero, Alex - Bhoir Paras Dilip"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-3/R83bcJKF/i9goKgBS"]
+[Date "2026.07.15"]
+[Round "3.4"]
+[White "Villa Tornero, Alex"]
+[Black "Bhoir Paras Dilip"]
+[Result "1-0"]
+[WhiteElo "2448"]
+[BlackElo "2236"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nbd2 g6 7.Ne5 Bg7 8.Nd3 O-O 9.c3 Rd8 10.Kc2 b6 11.f3 c5 12.a4 Nc6 13.Nc4 Nd7 14.Be3 Bb7 15.Rd1 Rac8 16.b3 a6 17.Nf4 b5 18.axb5 axb5 19.Rxd7 Rxd7 20.Nb6 Rdd8 21.Nxc8 Rxc8 22.Bxb5 Nd4+ 23.Bxd4 cxd4 24.c4 Ra8 25.Ba4 f5 26.Re1 Bh6 27.Ne6 fxe4 28.fxe4 d3+ 29.Kxd3 Ra6 30.Nd4 Rf6 31.b4 Rf2 32.Re2 Rf1 33.c5 Ra1 34.Bb3+ Kg7 35.c6 Bc8 36.e5 Bg4 37.Rf2 Re1 38.Rf7+ Kh8 39.Rxe7 Re3+ 40.Kc4 Bf4 41.h3 Bxe5 42.hxg4 Bxd4 43.Rxe3 Bxe3 44.c7 1-0

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.28"]
+[White "Pogorelskiy, Boris"]
+[Black "Brejnik, Gustav"]
+[Result "1-0"]
+[WhiteElo "2002"]
+[BlackElo "2229"]
+[ECO "B15"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.h3 Nd7 12.Bd2 Nf8 13.Rae1 Be6 14.c4 Rc8 15.Nc3 Bb8 16.Be3 f5 17.Ne2 Ng6 18.Bxf5 Qd6 19.f4 Bxf5 20.Qxf5 Rcd8 21.Qd3 a6 22.Rf3 b5 23.b3 Re7 24.Qc3 Rde8 25.f5 b4 26.Qd2 Qh2+ 27.Kf2 Bg3+ 28.Nxg3 hxg3+ 29.Rxg3 Nh4 30.Bf4 Rxe1 31.Rxg7+ Kxg7 32.Bxh2 f6 33.Be5 fxe5 34.Qxe1 Nxf5 35.dxe5 Nd4 36.Qe4 c5 37.Qg4+ Kh6 38.Qf4+ Kg7 39.Qf6+ Kg8 40.Qg6+ Kf8 41.Qxa6 Rxe5 42.Qf6+ 1-0

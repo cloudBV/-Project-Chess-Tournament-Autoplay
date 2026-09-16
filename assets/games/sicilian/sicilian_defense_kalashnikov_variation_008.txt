@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.2"]
+[White "Mroczkowski, Adam"]
+[Black "Karvatskyi, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2412"]
+[ECO "B32"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.Nc4 Rb8 9.Ne3 Nf6 10.f3 Be7 11.Bc4 O-O 12.Bd5 Nd4 13.O-O b5 14.a3 Qc7 15.f4 Qa7 16.f5 Bxd5 17.Ncxd5 Nxe4 18.Nxe7+ Qxe7 19.c3 Qa7 20.cxd4 exd4 21.Ng4 Rfe8 22.f6 h5 23.Nh6+ gxh6 24.h3 Qc5 25.Bxh6 Re6 26.Rc1 Qe5 27.Bf4 Qd5 28.Qd3 Rbe8 29.Rcd1 Rxf6 30.Qxd4 Qxd4+ 31.Rxd4 Kh7 32.Bh2 Rxf1+ 33.Kxf1 Re6 34.g4 hxg4 35.hxg4 Kg6 36.Kg2 f6 37.Bf4 Kf7 38.Kf3 Nc5 39.Bxd6 Na4 40.b3 Nb6 41.Bb4 Rc6 42.Ba5 Nc8 43.a4 bxa4 44.bxa4 Ne7 45.Bb4 Ng6 46.a5 Ne5+ 47.Kf4 Ke6 48.Bd2 Rc2 49.Bb4 Rc6 50.Bd2 Nc4 51.Bb4 Ne5 52.Bd2 Ng6+ 53.Ke4 Ne7 54.Bb4 Nc8 55.Kf4 Na7 56.Bd2 Nb5 57.Rb4 Rc2 58.Be3 Ra2 59.Bb6 Nc3 60.Rb3 Ra4+ 61.Kf3 Nd5 62.Bd8 Kd6 63.g5 fxg5 64.Bxg5 Rxa5 65.Ke4 Ra4+ 66.Kd3 Rg4 67.Bd2 Kc5 68.Kc2 Rg2 69.Kc1 Nc7 70.Rc3+ Kb6 71.Rb3+ Nb5 72.Be3+ Kb7 73.Bd2 Kc6 74.Rh3 Kc5 75.Rh4 Rg1+ 76.Kb2 Rg2 77.Kc1 Rg8 78.Kc2 Nd4+ 79.Kc1 Rg1+ 80.Kb2 Rg2 81.Kc3 Rg3+ 82.Kb2 Kc4 83.Bh6 a5 84.Rh2 a4 85.Bf8 Rg8 86.Be7 Rg3 87.Bf8 Rf3 88.Be7 Nc6 89.Ba3 Rf4 90.Rc2+ Kb5 91.Rc5+ Kb6 92.Rc2 Ne5 93.Bc5+ Kb5 94.Ka2 Nd3 95.Ba3 Rf5 96.Rd2 Kc4 97.Rc2+ Kd4 98.Bb2+ Ke3 99.Bc1+ Kd4 100.Bb2+ Ke4 101.Rc4+ Ke3 102.Bd4+ Kd2 103.Rxa4 Rb5 104.Bg7 Nc1+ 105.Ka1 Nd3 106.Ka2 Nb4+ 107.Ka1 Kc2 108.Bb2 Rb7 109.Ra3 Rf7 110.Rc3+ Kd2 111.Rc1 Nd3 112.Rh1 Kc2 113.Rh2+ Kb3 114.Rh1 Rf5 115.Kb1 Rf3 116.Bc1 Rf2 117.Rd1 Kc3 118.Rd2 Rf1 119.Rc2+ Kb3 120.Rc8 Nb4 121.Rb8 Rh1 122.Rb7 Kc4 123.Rc7+ Kd3 124.Kb2 Kd4 125.Bg5 Nd5 126.Rc2 Rh5 127.Bd2 Rh7 128.Bc3+ Kd3 129.Rd2+ Kc4 130.Rd4+ Kc5 131.Rd2 Rb7+ 132.Kc2 Rf7 133.Be5 Rf5 134.Bg7 Rf3 135.Rh2 Ne3+ 136.Kb2 Nc4+ 137.Kc2 Kb4 138.Bc3+ Rxc3+ 139.Kb1 Kb3 140.Rh1 Nd2+ 141.Ka1 Rc6 142.Rh3+ Kc2 143.Ra3 Rb6 144.Ra2+ Kc3 145.Rb2 Re6 146.Rb3+ Nxb3+ 147.Ka2 Ra6+ 148.Kb1 Ra1# 0-1

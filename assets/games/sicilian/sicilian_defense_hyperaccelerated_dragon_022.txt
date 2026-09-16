@@ -1,0 +1,14 @@
+[Event "Round 2: Georgescu, Lena - Sasikiran, Krishnan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/OVXc0Bla"]
+[Date "2026.07.14"]
+[Round "2.5"]
+[White "Georgescu, Lena"]
+[Black "Sasikiran, Krishnan"]
+[Result "1-0"]
+[WhiteElo "2253"]
+[BlackElo "2546"]
+[ECO "B27"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.e5 a6 5.h3 Nc6 6.d4 Bg7 7.Be2 f6 8.O-O fxe5 9.dxe5 Nh6 10.Re1 Nf7 11.Bf4 Nfxe5 12.Bxe5 Bxe5 13.Nxe5 Nxe5 14.Bxa6 Nc6 15.Bb5 O-O 16.Nd2 Na7 17.Bf1 Nc6 18.Bb5 e5 19.Bxc6 bxc6 20.Rxe5 Qf6 21.Qe1 Bf5 22.Re3 Rab8 23.b3 d4 24.cxd4 cxd4 25.Re7 Rf7 26.Qe5 Qxe7 27.Qxb8+ Rf8 28.Qg3 Qe2 29.Nc4 Bc2 30.f3 Bd3 31.Re1 Qxa2 32.Ne5 Bc2 33.Nxc6 d3 34.Ne7+ Kg7 35.Qe5+ Kh6 36.Re4 Qa7+ 37.Kf1 g5 38.h4 1-0

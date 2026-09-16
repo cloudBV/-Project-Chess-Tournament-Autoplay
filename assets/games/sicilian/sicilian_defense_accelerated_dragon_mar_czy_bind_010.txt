@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/FTKcIEM6"]
+[Date "2026.07.05"]
+[Round "9.10"]
+[White "Rudnev, Andrei"]
+[Black "Janeczko, Jakub"]
+[Result "0-1"]
+[WhiteElo "2188"]
+[BlackElo "2229"]
+[ECO "B38"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.d4 g6 2.e4 Bg7 3.c4 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Be3 Qb6 7.Nb3 Qd8 8.Nc3 Bxc3+ 9.bxc3 Nf6 10.f3 d6 11.Bh6 Be6 12.Nd4 Qa5 13.Nxe6 fxe6 14.Qb3 Nd7 15.Kf2 Nc5 16.Qc2 Qa4 17.Qd2 Ne5 18.Be2 Ng4+ 19.Kg3 Nxh6 20.Qxh6 O-O-O 21.Qe3 e5 22.Kf2 h6 23.h4 Kc7 24.Rad1 Qa3 25.Rd2 Rdf8 26.Rc2 Ne6 27.g3 g5 28.Kg2 Rfg8 29.Kf2 Rf8 30.Kg2 Rfg8 31.Kf2 Kb8 32.Rh2 gxh4 33.Rxh4 Rg6 34.Rh3 h5 35.c5 Qa4 36.Rc1 Nxc5 37.Rch1 Rhg8 38.Qd2 h4 39.gxh4 Rg2+ 40.Kf1 Ne6 41.R3h2 Nf4 42.Rxg2 Rxg2 43.Qxf4 exf4 44.Kxg2 Qxa2 45.Kf2 Qe6 46.h5 Qh6 47.Ke1 Kc7 48.Kd2 e6 49.Rh2 Kd7 50.Rh1 Ke7 51.Rh2 Kf6 52.Rh1 Kg7 53.Rh2 Kh8 54.Rh1 Qg5 55.h6 Qc5 56.Rh2 Qg1 57.Rh4 Qe3+ 58.Kd1 Kh7 0-1

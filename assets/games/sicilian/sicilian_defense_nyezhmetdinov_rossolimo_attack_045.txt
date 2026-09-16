@@ -1,0 +1,15 @@
+[Event "Round 4: Yang, Lanqin - Jain Kashish Manoj"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/saVeCQLZ"]
+[Date "2026.07.06"]
+[Round "4.6"]
+[White "Yang, Lanqin"]
+[Black "Jain Kashish Manoj"]
+[Result "0-1"]
+[WhiteElo "2131"]
+[BlackElo "2394"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 Qc7 6.b3 g6 7.Bb2 Bh6 8.O-O O-O 9.Nbd2 Nh5 10.a4 f6 11.e5 f5 12.Re1 Be6 13.Nc4 Ng7 14.a5 Bd5 15.Nfd2 Rad8 16.Nf1 f4 17.f3 Rf5 18.Qe2 Ne6 19.Qf2 Bxc4 20.bxc4 Bg7 21.Nd2 Bxe5 22.Rxe5 Rxe5 23.Bxe5 Qxe5 24.Re1 Qf5 25.Nb3 Kf7 26.Re4 b6 27.Qe1 Qf6 28.Qc1 g5 29.axb6 axb6 30.Qa3 Rg8 31.h3 h5 32.Qa4 g4 33.fxg4 hxg4 34.h4 Qxh4 35.Qxc6 Rg6 36.Qd5 f3 37.Nd2 f2+ 38.Kf1 Rf6 39.Ke2 f1=Q+ 0-1

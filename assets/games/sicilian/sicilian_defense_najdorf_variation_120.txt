@@ -1,0 +1,14 @@
+[Event "Round 7: Demchenko, Anton - Alexiadis, Hristos"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-7/3Kmor2SN/OGpCZPE5"]
+[Date "2026.07.20"]
+[Round "7.6"]
+[White "Demchenko, Anton"]
+[Black "Alexiadis, Hristos"]
+[Result "1-0"]
+[WhiteElo "2588"]
+[BlackElo "2365"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Nb3 e6 7.a4 Nc6 8.f4 Be7 9.Be2 O-O 10.O-O Re8 11.Kh1 b6 12.Be3 Qc7 13.Qe1 Na5 14.Nxa5 bxa5 15.Bd3 Nd7 16.Qg3 Nc5 17.f5 Kh8 18.fxe6 Bxe6 19.Nd5 Bxd5 20.exd5 Bh4 21.Qh3 Nxd3 22.cxd3 Qe7 23.Bd4 Rab8 24.Bc3 Bg5 25.Rae1 Qb7 26.Rxe8+ Rxe8 27.Qh5 Qe7 28.h4 Bf6 29.Rxf6 gxf6 30.Qh6 1-0

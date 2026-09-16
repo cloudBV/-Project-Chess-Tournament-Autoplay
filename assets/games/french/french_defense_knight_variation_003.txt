@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "16.2"]
+[White "Pankiv, Maksym"]
+[Black "Shevchenko, Yaroslav"]
+[Result "1-0"]
+[WhiteElo "2315"]
+[BlackElo "2310"]
+[ECO "C00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Knight Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.d4 Bb5 8.a4 Bd7 9.O-O Rc8 10.Be3 cxd4 11.Nxd4 Ne7 12.Nd2 a6 13.f4 Nc6 14.Kh1 Nxd4 15.Bxd4 Be7 16.a5 Bc5 17.Nb3 Bxd4 18.Nxd4 O-O 19.Rf3 Rc5 20.b4 Rc4 21.Rh3 g6 22.Qe1 f6 23.Re3 fxe5 24.Rxe5 Rxf4 25.Nxe6 Bxe6 26.Rxe6 Rce4 27.Rxe4 Rxe4 28.Qd2 Qd6 29.Rd1 Kg7 30.g3 Qe5 31.Rf1 Re2 32.Qf4 Qe4+ 33.Qxe4 dxe4 34.Rd1 Rc2 35.Re1 Rxc3 36.Rxe4 Kf6 37.Rd4 Rc7 38.Rd6+ Ke5 39.Rb6 Rf7 40.Kg2 Ke4 41.Kh3 Kf5 42.Kh4 h5 43.h3 Rg7 44.g4+ hxg4 45.hxg4+ Kf4 46.Rf6+ Ke5 47.Kg5 Rc7 48.Rxg6 Ke4 49.Kh6 Rc1 50.Rf6 Rh1+ 51.Kg6 Ke5 52.Rb6 Rg1 53.g5 Kf4 54.Rf6+ Ke5 55.Rf7 Rg4 56.Rxb7 Kf4 57.Rf7+ Ke5 58.Rf6 Rxb4 59.Rxa6 Rg4 60.Kh6 Rh4+ 61.Kg7 Kf5 62.g6 Rb4 63.Rb6 Rc4 64.Rb5+ Ke6 65.Kh7 Rh4+ 66.Kg8 1-0

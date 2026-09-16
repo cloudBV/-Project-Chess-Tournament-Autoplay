@@ -1,0 +1,15 @@
+[Event "Round 5: Maxwell, Daniel - Patton, Zachary"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-5/CL0FrXFI/uh58qY1U"]
+[Date "2026.07.05"]
+[Round "5.3"]
+[White "Maxwell, Daniel"]
+[Black "Patton, Zachary"]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2001"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O c6 6.b3 Nbd7 7.Bb2 O-O 8.d4 Ne4 9.Ne1 f5 10.Nd3 b6 11.cxd5 exd5 12.Nd2 Rf6 13.Nf3 1/2-1/2

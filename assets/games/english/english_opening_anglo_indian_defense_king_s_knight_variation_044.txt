@@ -1,0 +1,15 @@
+[Event "Round 1: Ramirez Gonzalez, Juan Alberto - Janzelj, Tim"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-1/93PU6fmJ/ms9x8d87"]
+[Date "2026.07.13"]
+[Round "1.9"]
+[White "Ramirez Gonzalez, Juan Alberto"]
+[Black "Janzelj, Tim"]
+[Result "1/2-1/2"]
+[WhiteElo "2053"]
+[BlackElo "2394"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 Nc6 4.Bg2 d5 5.cxd5 Nxd5 6.d4 cxd4 7.Nxd4 Ndb4 8.Nxc6 Qxd1+ 9.Kxd1 Nxc6 10.Nc3 Bf5 11.Be3 O-O-O+ 12.Kc1 Kb8 13.Rd1 Rc8 14.Bxc6 Rxc6 15.Bf4+ Kc8 16.Kd2 f6 17.e4 Bg4 18.Nb5 Kd7 19.Nd4 Rc4 20.Kd3 Bxd1 21.Kxc4 Bh5 22.e5 e6 23.h4 h6 24.Re1 Be7 25.b4 f5 26.Nb5 a6 27.Nc3 Rc8+ 28.Kb3 b5 29.Re3 Rc4 30.Rd3+ Kc6 31.a3 g5 32.hxg5 hxg5 33.Bc1 f4 34.gxf4 gxf4 35.f3 Bg6 36.Rd2 Kc7 37.Rg2 Bh5 38.Rf2 Be8 39.Ne2 Bh4 40.Rf1 Bg5 41.Rg1 Bh6 42.Rh1 Bg5 43.Rg1 Bh4 44.Rg4 Bf2 45.Rxf4 Bc6 46.Rf7+ Kb6 47.Bg5 a5 48.Bd8+ Ka6 49.Bxa5 Bd5 50.Kb2 Rh4 51.Rd7 Rh2 52.Rd6+ Kb7 53.Rd7+ Kc8 54.Rd8+ Kb7 55.Rd7+ Kb8 56.Rd8+ Ka7 57.Rd7+ Ka8 58.Rd8+ Ka7 59.Rd7+ Bb7 60.Kc3 Kb8 61.Rd8+ Ka7 62.Rd7 Kb8 63.Rd8+ Ka7 64.Rd7 Kb8 65.Rd8+ 1/2-1/2

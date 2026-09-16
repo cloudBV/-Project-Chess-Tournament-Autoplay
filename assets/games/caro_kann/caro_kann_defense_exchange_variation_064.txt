@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-4/3msR4DZj/1DU7mjxh"]
+[Date "2026.06.25"]
+[Round "4.1"]
+[White "Bru Montoya, Pau"]
+[Black "Torres Rebolledo, Alvaro"]
+[Result "0-1"]
+[WhiteElo "2017"]
+[BlackElo "2333"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Bg4 6.Qb3 Qc7 7.Ne2 Bxe2 8.Bxe2 e6 9.Nd2 Bd6 10.Nf3 Nc6 11.Be3 O-O 12.h3 h6 13.Bd3 a6 14.O-O b5 15.Rae1 b4 16.Ne5 bxc3 17.Nxc6 Qxc6 18.Rc1 Rfb8 19.Rxc3 Rxb3 20.Rxc6 Rxd3 21.Rxd6 Ne4 22.Rc6 g5 23.Rfc1 Rb8 24.b3 e5 25.Kf1 exd4 26.Ke2 dxe3 27.Kxd3 exf2 28.Rf1 Rb5 29.Kd4 a5 30.Rc2 Kf8 31.a4 Rxb3 32.Kxd5 Rb4 33.Ke5 Rxa4 34.g4 Rb4 35.Rd1 a4 36.Rdc1 Kg7 37.Ra2 a3 38.Rxa3 Nd2 39.Raa1 Re4+ 40.Kd5 Rf4 41.Rf1 Nxf1 42.Rxf1 Kg6 43.Ke5 Rf3 44.Ke4 Rxh3 45.Rxf2 Rg3 46.Ke5 Rxg4 47.Rf6+ Kg7 48.Rf1 Ra4 49.Kf5 Rf4+ 0-1

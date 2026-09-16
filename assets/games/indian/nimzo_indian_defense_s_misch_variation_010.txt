@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "3.7"]
+[White "Gusain, Himal"]
+[Black "Gaikwad, Siddhant"]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2111"]
+[ECO "E28"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d5 7.cxd5 exd5 8.Bd3 Nbd7 9.Ne2 Re8 10.f3 Nf8 11.O-O Nh5 12.e4 c5 13.e5 g6 14.g4 Ng7 15.h3 h5 16.Kg2 Nfe6 17.Be3 c4 18.Bc2 f5 19.gxf5 gxf5 20.f4 Rf8 21.Kh2 Kh8 22.Ng3 Qe8 23.Qf3 h4 24.Ne2 Bd7 25.Bf2 Qe7 26.Qxd5 Bc6 27.Qxc4 Qd7 28.Qd3 Nh5 29.Rg1 Nc5 30.dxc5 Nxf4 31.Nxf4 Qd5 1-0

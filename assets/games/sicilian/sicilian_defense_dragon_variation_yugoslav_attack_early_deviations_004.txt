@@ -1,0 +1,14 @@
+[Event "Round 5: Liu, Bei - Elmi, Saad Abobaker"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/vZh5Di4f"]
+[Date "2026.07.17"]
+[Round "5.9"]
+[White "Liu, Bei"]
+[Black "Elmi, Saad Abobaker"]
+[Result "1-0"]
+[WhiteElo "2175"]
+[BlackElo "2399"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 a6 8.Qd2 h5 9.Bc4 b5 10.Bb3 Bb7 11.a4 bxa4 12.Bxa4+ Nbd7 13.O-O O-O 14.Bb3 Rc8 15.Kh1 Ne5 16.Bh6 Nc4 17.Bxc4 Rxc4 18.Bxg7 Kxg7 19.b3 Rc8 20.Nd5 e6 21.Ne3 Nd7 22.c4 Qf6 23.Ne2 Nc5 24.Rab1 Rfd8 25.b4 Nd7 26.Qxd6 Ne5 27.Qb6 Rb8 28.Qa7 Nc6 29.Qc5 Rd2 30.b5 axb5 31.cxb5 Ne5 32.Qc7 Rbd8 33.Nc1 Qf4 34.Nb3 R8d7 35.Qb8 R2d6 36.Nc5 Rd8 37.Qxb7 Qxe3 38.Qc7 Qd4 39.h3 h4 40.f4 Nc4 41.f5 exf5 42.exf5 Ne5 43.Ne6+ 1-0

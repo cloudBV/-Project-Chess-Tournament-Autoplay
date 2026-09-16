@@ -1,0 +1,14 @@
+[Event "Round 9: Marzocchi, Tommaso - Brozzi, Danilo"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/t7ck8CJ2"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Marzocchi, Tommaso"]
+[Black "Brozzi, Danilo"]
+[Result "1/2-1/2"]
+[WhiteElo "2305"]
+[BlackElo "2249"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 b6 4.Bb2 Bb7 5.Nc3 Nf6 6.e5 Ne4 7.Nxe4 Bxe4 8.Be2 Nc6 9.d3 Bf5 10.Qd2 Be7 11.a3 Qc7 12.h3 O-O-O 13.O-O-O d6 14.exd6 Bxd6 15.Kb1 e5 16.Nh4 Be6 17.Bg4 Qd7 18.Bxe6 Qxe6 19.g4 f6 20.Qe2 Qd7 21.Qe4 Kc7 22.Nf5 g6 23.Ne3 Rhf8 24.Nd5+ Kb8 25.c4 f5 26.Qg2 Qb7 27.Rhe1 Rde8 28.Ka2 a6 29.Re2 Ka7 30.Rde1 Rb8 31.Bc3 b5 32.Rb2 a5 33.a4 b4 34.Bd2 Rbe8 35.Bh6 Rf7 36.Be3 Kb8 37.Rbe2 e4 38.Bc1 Nd4 39.Rb2 Nf3 40.Ree2 Be5 41.Bf4 Bxf4 42.Nxf4 Nd4 43.Re1 Rfe7 44.Nd5 Re5 45.gxf5 gxf5 46.dxe4 fxe4 47.Re3 Nf5 48.Re1 Nd4 49.Re3 Nf5 50.Re1 1/2-1/2

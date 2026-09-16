@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "2.2"]
+[White "Apro, Barnabas"]
+[Black "Manea, Alexandru"]
+[Result "1/2-1/2"]
+[WhiteElo "2168"]
+[BlackElo "2304"]
+[ECO "B38"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.c4 Nc6 6.Be3 Qb6 7.Nb3 Qd8 8.Nd4 Qb6 9.Nb3 Qd8 10.Nd4 1/2-1/2

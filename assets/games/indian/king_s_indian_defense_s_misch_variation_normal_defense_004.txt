@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.12"]
+[Round "9.4"]
+[White "Gelas, Christophe"]
+[Black "Mattenberger, Matthias"]
+[Result "1/2-1/2"]
+[WhiteElo "2321"]
+[BlackElo "2347"]
+[ECO "E81"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Normal Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 a6 7.Qd2 c6 8.a4 Qa5 9.Ra3 c5 10.d5 e6 11.Nge2 exd5 12.cxd5 Nbd7 13.Nc1 Ne5 14.Be2 Ne8 15.O-O f5 16.f4 Nf7 17.e5 dxe5 18.Nb3 Qc7 19.Bxc5 Ned6 20.a5 Re8 21.Rf2 Qd8 22.fxe5 Bxe5 23.Bd4 Bd7 24.Nc5 Rc8 25.b4 Rc7 26.Ra1 Bc8 27.Rd1 Rce7 28.Bf1 Bxd4 29.Qxd4 Re5 30.Nd3 Re3 31.Re2 Rxe2 32.Bxe2 Ng5 33.Nc5 Qe7 34.Bf1 Qg7 35.Qxg7+ Kxg7 36.b5 axb5 37.Nxb5 Ngf7 38.Rc1 Re5 39.Nc7 Re3 40.Na8 f4 41.Nb6 Bf5 42.Nxb7 Nxb7 43.a6 Nbd6 44.a7 Ra3 45.a8=Q Rxa8 46.Nxa8 Kf6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.21"]
+[White "Joseph Benher, Savio"]
+[Black "Padhya Saumil"]
+[Result "1-0"]
+[WhiteElo "2210"]
+[BlackElo "2293"]
+[ECO "B92"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.f4 Be7 9.f5 Bd7 10.Bg5 Bc6 11.Bxf6 Bxf6 12.Qd3 Bg5 13.Nd2 Nd7 14.Qxd6 h5 15.Nf3 Be7 16.Qd3 Qa5 17.O-O-O Nf6 18.Nd2 b5 19.Nb3 Qc7 20.Bf3 O-O 21.Kb1 Rac8 22.a3 a5 23.Nd5 Bxd5 24.exd5 Rfd8 25.Nd2 a4 26.c3 Qa5 27.Ka2 Rc7 28.Rhe1 Rcd7 29.Rxe5 Qc7 30.Rde1 Bd6 31.R5e2 Bxh2 32.Qxb5 Bg3 33.Rh1 h4 34.c4 Qa7 35.c5 Nxd5 36.Bxd5 Rxd5 37.Re8+ Kh7 38.Rxd8 Rxd8 39.Ne4 Rb8 40.Qe2 Qb7 41.Nxg3 Qb3+ 42.Ka1 Qxg3 43.Qh5+ Kg8 44.Qxh4 Qxh4 45.Rxh4 Rc8 46.Rc4 Kf8 47.c6 Ke7 48.c7 Kd6 49.Kb1 Rxc7 50.Rxc7 Kxc7 51.Kc2 g5 52.fxg6 fxg6 53.Kc3 g5 54.Kb4 Kd6 55.Kxa4 Ke5 56.b4 1-0

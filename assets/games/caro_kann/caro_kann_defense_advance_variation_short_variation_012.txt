@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "4.1"]
+[White "Schouten, Mathias Lind"]
+[Black "Nielsen, Andre"]
+[Result "0-1"]
+[WhiteElo "2294"]
+[BlackElo "2300"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 a5 6.a4 Nd7 7.O-O f6 8.c4 fxe5 9.dxe5 Bc5 10.cxd5 exd5 11.Nd4 Ne7 12.Bh5+ g6 13.Bg4 Bxg4 14.Qxg4 Nxe5 15.Qh4 Qd6 16.Nc3 O-O 17.Bh6 Rf7 18.Rae1 Nf5 19.Nxf5 Rxf5 20.Be3 Bxe3 21.Rxe3 Raf8 22.Rfe1 d4 23.Ne4 dxe3 24.Nxd6 exf2+ 25.Kf1 fxe1=Q+ 26.Kxe1 Nd3+ 27.Ke2 Nf4+ 28.Kf3 Rh5 29.Qg4 Ne6+ 30.Ke3 Re5+ 0-1

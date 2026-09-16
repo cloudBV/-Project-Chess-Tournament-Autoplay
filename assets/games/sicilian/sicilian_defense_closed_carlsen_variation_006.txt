@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.8"]
+[White "Sanz Gorospe, Ibai"]
+[Black "Hagner, Bennet"]
+[Result "0-1"]
+[WhiteElo "2317"]
+[BlackElo "2451"]
+[ECO "B23"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Carlsen Variation"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 g6 6.b3 Bh6 7.f4 Nf6 8.Bb2 e5 9.g3 O-O 10.O-O-O exf4 11.gxf4 Nh5 12.Nd5 Be6 13.Ne2 Qh4 14.Qc3 Ne5 15.Kb1 Bxd5 16.exd5 Rac8 17.Qb4 Bg7 18.Qxd6 Ng4 19.Rc1 Rfd8 20.Qb4 Bxb2 21.Kxb2 Rxd5 22.Bg2 a5 23.Qb6 Rd2 24.Bxb7 Rb8 25.Qc7 Re8 26.Nc3 Nf2 27.Qxa5 Nxh1 28.Bxh1 Nxf4 29.Kb1 Re1 30.Bf3 Rxc1+ 31.Kxc1 Qe1+ 32.Kb2 Nd3+ 33.Ka3 Qe7+ 34.b4 Rxc2 35.Nd5 Qe5 36.Qd8+ Kg7 37.Bg4 Rxa2+ 38.Kb3 Qb2+ 39.Kc4 Ne5+ 0-1

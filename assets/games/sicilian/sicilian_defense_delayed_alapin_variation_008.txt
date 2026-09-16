@@ -1,0 +1,15 @@
+[Event "Round 3: Pang, Qi - Moor, Nathaniel Philip"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-3/KHjzK7Tr/cHoHJoJm"]
+[Date "2026.07.08"]
+[Round "3.5"]
+[White "Pang, Qi"]
+[Black "Moor, Nathaniel Philip"]
+[Result "1/2-1/2"]
+[WhiteElo "2304"]
+[BlackElo "2205"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be3 cxd4 7.Nxd4 Nc6 8.Nxc6 Qxc6 9.Qb3 Bd7 10.Na3 Bc5 11.Nc4 O-O 12.Ne5 Qe4 13.Nxd7 Nxd7 14.Qc4 Qe5 15.Qf4 Bxe3 16.Qxe3 Qxe3+ 17.fxe3 Rad8 18.O-O-O Ne5 19.Be2 f5 20.Rhf1 g5 21.Rd4 Kg7 22.Ra4 a6 23.Rb4 b5 24.Rd4 Nc6 25.Rxd8 Rxd8 26.Kc2 Ne7 27.c4 bxc4 28.Bxc4 Nd5 29.Bxd5 Rxd5 30.b4 Re5 31.Kd3 Rd5+ 32.Ke2 Kf6 33.a4 Ke7 34.Rc1 Re5 35.Rc3 Re4 36.Rb3 Kd6 37.Kd3 a5 38.bxa5 Rxa4 39.Rb6+ Ke5 40.Rb5+ Kf6 41.Kc3 Ra2 42.Kb3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 4: Gucer, Gunes - Akbas, Kaan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/3GxkaAix"]
+[Date "2026.07.15"]
+[Round "4.17"]
+[White "Gucer, Gunes"]
+[Black "Akbas, Kaan"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2174"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O b5 12.d5 c5 13.Bxb5 Rb8 14.Bc6 Re7 15.Ng3 Ne5 16.Ne4 Nc4 17.b3 Qa5 18.bxc4 Rxe4 19.Qxe4 Qxc3+ 20.Qc2 Qa3+ 21.Kd2 Rb2 22.Qxb2 Qxb2+ 23.Ke1 Qc3+ 24.Kf1 Qxc4+ 25.Kg1 Qe2 26.Rc1 h4 27.h3 Bf5 28.Bxc5 Bf4 29.Ra1 Bc2 30.a4 a6 31.Bb7 Qe5 32.Rf1 Bd3 33.Rd1 Qe2 34.Ra1 Qb2 0-1

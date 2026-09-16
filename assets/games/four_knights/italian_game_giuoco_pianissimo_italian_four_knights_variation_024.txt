@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.7"]
+[White "Vykouk, Jan"]
+[Black "Vrana, Jan"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "2266"]
+[ECO "C50"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Na4 Bb6 7.Nxb6 axb6 8.a3 O-O 9.h3 Be6 10.Bxe6 fxe6 11.O-O Qe8 12.c3 Nh5 13.d4 Rd8 14.d5 exd5 15.exd5 Ne7 16.Ng5 Rd7 17.Ne6 Rf6 18.c4 h6 19.Be3 Qg6 20.Qa4 Qe8 21.Nxc7 Qc8 22.Ne6 Nf5 23.g4 Nh4 24.gxh5 Nf3+ 25.Kg2 Rdf7 26.Rh1 Rxe6 27.dxe6 Qxe6 28.Qc2 e4 29.Kf1 Qf5 30.Rd1 Rf6 31.Rd5 Qe6 32.Ke2 1-0

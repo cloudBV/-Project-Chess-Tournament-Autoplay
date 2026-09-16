@@ -1,0 +1,15 @@
+[Event "Round 5: Manukyan, Sargis A. - Sleeckx, Alexander"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-5/GNSlVflY/nX4FiKVO"]
+[Date "2026.07.20"]
+[Round "5.14"]
+[White "Manukyan, Sargis A."]
+[Black "Sleeckx, Alexander"]
+[Result "1-0"]
+[WhiteElo "2376"]
+[BlackElo "2052"]
+[ECO "E28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Ne2 c5 8.Ng3 Nc6 9.Be2 b6 10.O-O Ba6 11.e4 d5 12.cxd5 Bxe2 13.Qxe2 exd5 14.e5 Ne8 15.Qd3 cxd4 16.cxd4 Nc7 17.f4 Ne6 18.f5 Ng5 19.f6 Ne6 20.fxg7 Nxg7 21.Bh6 Ne7 22.Bxg7 Kxg7 23.Nh5+ Kh8 24.Nf6 Ng6 25.Qh3 1-0

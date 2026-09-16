@@ -1,0 +1,14 @@
+[Event "Round 3: Suder, Jakub - Golenia, Wojciech"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/vipvgi3U"]
+[Date "2026.07.19"]
+[Round "3.11"]
+[White "Suder, Jakub"]
+[Black "Golenia, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2384"]
+[BlackElo "2224"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.cxd5 exd5 5.Nc3 c6 6.Qc2 Na6 7.Bg5 Be7 8.e3 Nc7 9.Bd3 Nh5 10.Bxe7 Qxe7 11.h3 Nf4 12.Bf1 O-O 13.O-O-O Nfe6 14.Bd3 g6 15.Kb1 c5 16.dxc5 Nxc5 17.Nd4 Rd8 18.Rc1 N7e6 19.Nce2 Qf6 20.Rhf1 Bd7 21.Qd2 Nxd4 22.Nxd4 Ne6 23.Nxe6 Bxe6 24.f4 Bf5 25.g4 Be4 26.f5 Qa6 27.Rcd1 Qxd3+ 28.Qxd3 Rac8 29.Rf4 Bxd3+ 30.Rxd3 Kg7 31.g5 gxf5 32.Rxf5 Rc5 33.a3 a5 34.h4 Rd7 35.Rf6 Rc6 36.Rf5 Rc5 37.Rd4 Rd6 38.h5 b6 39.Rdf4 Rc7 40.Rf6 Rcd7 41.Kc2 d4 42.h6+ Kf8 43.exd4 Rxf6 44.Rxf6 Rxd4 45.Rxb6 Rd5 46.Rb8+ Ke7 47.Rg8 Rc5+ 48.Kb3 Rb5+ 49.Ka4 Rxb2 50.Kxa5 Rh2 51.Rg7 Rg2 52.a4 Kf8 53.Kb6 Rb2+ 54.Ka6 Ra2 55.a5 Re2 56.Rxh7 Re6+ 57.Kb7 Re7+ 58.Kc6 Re6+ 59.Kd5 Rg6 60.Rh8+ Ke7 61.h7 Rxg5+ 62.Kc6 Rxa5 63.Rg8 Ra6+ 64.Kb5 Rh6 65.h8=Q Rxh8 66.Rxh8 Ke6 67.Kc4 1-0

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/ej1zcsBl"]
+[Date "2026.07.14"]
+[Round "2.8"]
+[White "Vassallo Barroche, Mauricio"]
+[Black "Alsina Leal, Daniel"]
+[Result "0-1"]
+[WhiteElo "2318"]
+[BlackElo "2488"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 d5 4.Bd3 c4 5.Be2 b5 6.Ne5 e6 7.Nd2 Nbd7 8.f4 Bb7 9.O-O Be7 10.Bf3 O-O 11.Qe1 Rc8 12.c3 Nxe5 13.fxe5 Ne4 14.Nxe4 dxe4 15.Bg4 Qd5 16.Qg3 Kh8 17.Qh3 Bc6 18.Bd2 Bd7 19.Qh5 Kg8 20.Be1 f5 21.exf6 Qxh5 22.Bxh5 gxf6 23.Bg3 b4 24.Be2 Rc6 25.Rac1 Rfc8 26.Bh4 bxc3 27.bxc3 Kg7 28.Rc2 Rb6 29.Bg4 Ba4 30.Rcf2 Rf8 31.Be2 Bd8 32.Rf4 f5 33.Bxd8 Rxd8 34.g4 Bd7 35.gxf5 exf5 36.Bxc4 Rc8 37.Bb3 Rxc3 38.Kf2 a5 39.Rg1+ Rg6 0-1

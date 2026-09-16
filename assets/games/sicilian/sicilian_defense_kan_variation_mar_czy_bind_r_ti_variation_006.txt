@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/Pac7oFiC"]
+[Date "2026.07.11"]
+[Round "2.3"]
+[White "Ligotnis, Maksims"]
+[Black "Miezis, Normunds"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2386"]
+[ECO "B41"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Bd3 Nc6 7.Nxc6 dxc6 8.O-O e5 9.Nc3 Bc5 10.Rb1 Bg4 11.Qc2 a5 12.Kh1 Be6 13.Bg5 h6 14.Bh4 g5 15.Bg3 Nd7 16.a3 Qe7 17.f3 O-O 18.Rbe1 Rfd8 19.Nd5 Qd6 20.Qd2 a4 21.h4 f6 22.Rd1 cxd5 23.exd5 Bf7 24.Qe2 Nf8 25.hxg5 hxg5 26.Bh2 Bg6 27.f4 exf4 28.Qg4 Qd7 29.Qf3 Qh7 30.g3 fxg3 31.Qxg3 Bd6 32.Bxg6 Nxg6 33.Qf2 Bxh2 34.Qxh2 Qxh2+ 35.Kxh2 Nf4 36.Rfe1 Kf7 37.d6 Rd7 38.Rd4 b6 39.Kg3 Rad8 40.c5 bxc5 41.Rxa4 Rxd6 42.Ra7+ Kg6 43.b4 Rd3+ 44.Kf2 Rd2+ 45.Kf3 cxb4 46.axb4 Rb2 47.Ree7 Rd3+ 48.Re3 Rxe3+ 49.Kxe3 Rxb4 50.Kf3 Rb3+ 51.Kf2 g4 52.Ra5 g3+ 53.Ke1 Rb1+ 54.Kd2 g2 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.3"]
+[White "Arakelyan, Manvel"]
+[Black "Karvatskyi, Oleksii"]
+[Result "1-0"]
+[WhiteElo "2269"]
+[BlackElo "2412"]
+[ECO "B40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.d3 Bd7 6.g3 Bc6 7.Bg2 Ne7 8.O-O Ng6 9.Re1 Nd7 10.h4 h5 11.Na3 Be7 12.Nc4 b5 13.Nd6+ Bxd6 14.exd6 Nb6 15.cxd4 cxd4 16.Ng5 Bxg2 17.Kxg2 Qxd6 18.Qf3 Qd5 19.Re4 Rf8 20.Qxh5 O-O-O 21.Qf3 Ne5 22.Rxe5 Qxe5 23.Qc6+ Qc7 24.Qxb5 Kb7 25.Bf4 Qc6+ 26.Qxc6+ Kxc6 27.Rc1+ Kd5 28.Ne4 Rc8 29.Bc7 Nd7 30.b4 f5 31.Nd2 e5 32.Nb3 Rfe8 33.b5 Re6 34.a4 a6 35.f4 exf4 36.Rc4 f3+ 37.Kf1 axb5 38.axb5 Re4 39.b6 Ra8 40.b7 Ra3 41.Rc5+ Ke6 42.dxe4 Rxb3 43.exf5+ Ke7 44.Rd5 Rxb7 45.Bd6+ Kf7 46.Rxd4 Rb3 47.Kf2 Nf6 48.g4 g6 49.fxg6+ Kxg6 50.Be5 Ne8 51.h5+ Kf7 52.h6 Kg6 53.Rd8 Kxh6 54.Rxe8 Kg5 55.Rg8+ Kh4 56.Bf4 Ra3 57.Be3 Ra6 58.Kxf3 Rf6+ 59.Bf4 1-0

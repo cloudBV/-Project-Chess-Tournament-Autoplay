@@ -1,0 +1,14 @@
+[Event "Round 2: Galopoulos, Nikolaos - Skaperdas, Kostantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/B9NbiN9f"]
+[Date "2026.07.06"]
+[Round "2.13"]
+[White "Galopoulos, Nikolaos"]
+[Black "Skaperdas, Kostantinos"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "2080"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit Accepted"]
+
+1.d4 d5 2.Bf4 c5 3.dxc5 e6 4.e4 Bxc5 5.Bb5+ Bd7 6.Bxd7+ Qxd7 7.exd5 Nf6 8.Nc3 Nxd5 9.Nxd5 Qxd5 10.Qxd5 exd5 11.Rd1 d4 12.Bxb8 Rxb8 13.Nf3 Rd8 14.Ke2 O-O 15.Kd3 Rd5 16.Rhe1 f6 17.Re4 Rfd8 18.Rde1 Kf7 19.a3 a5 20.Rf4 g5 21.Rfe4 h5 22.h3 a4 23.R1e2 b5 24.Re6 Bd6 25.g4 h4 26.R2e4 b4 27.axb4 Bxb4 28.Ra6 a3 29.bxa3 Bd6 30.Ra7+ Kg6 31.Re6 Bf8 32.Ke4 d3 33.cxd3 Bc5 34.Raa6 Rxd3 35.Ne5+ Kh7 36.Nxd3 Rd4+ 37.Ke3 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Sochacki, Christophe - Zakarian, David"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-4/nGd9thue/DJhvt2iv"]
+[Date "2026.07.20"]
+[Round "4.9"]
+[White "Sochacki, Christophe"]
+[Black "Zakarian, David"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[BlackElo "2305"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d6 4.d4 Nf6 5.d5 Nb8 6.Bd3 g6 7.h3 Bg7 8.c4 O-O 9.Nc3 e6 10.O-O exd5 11.exd5 a6 12.Re1 b6 13.Bf4 Ra7 14.Qd2 Re8 15.Bg5 Rxe1+ 16.Rxe1 Qf8 17.Qf4 Nbd7 18.Qh2 b5 19.Bf4 Ne8 20.Ne4 Ne5 21.Nxe5 dxe5 22.Bxe5 Re7 23.Bxg7 Qxg7 24.Qb8 Bd7 25.Qd8 f5 26.Nf6+ 1-0

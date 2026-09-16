@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.6"]
+[White "Myny, Sigur H"]
+[Black "Maurstad, Astor Moe"]
+[Result "0-1"]
+[WhiteElo "2026"]
+[BlackElo "2054"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 g6 4.O-O Bg7 5.d4 cxd4 6.Nxd4 e5 7.Nb3 Ne7 8.e4 d4 9.c3 Nbc6 10.f4 exf4 11.Bxf4 O-O 12.cxd4 Nxd4 13.Nc3 Be6 14.Nxd4 Qxd4+ 15.Qxd4 Bxd4+ 16.Kh1 Rfd8 17.Rfd1 Rd7 18.Ne2 Bb6 19.Rxd7 Bxd7 20.Nc3 Rc8 21.Bd6 Bc5 22.e5 Nf5 23.Bxc5 Rxc5 24.Ne4 Rc7 25.Rd1 Bc6 26.Rd2 Kg7 27.Nd6 Bxg2+ 28.Kxg2 Nxd6 29.exd6 Rd7 30.Kf3 Kf6 31.Ke3 Ke5 32.Rc2 Kxd6 33.Rc8 Rc7 34.Rd8+ Ke7 35.Rd2 Ke6 36.Ke4 Rc4+ 37.Ke3 f5 38.b3 Rc7 39.Kf4 h6 40.h4 a6 41.Rd3 Rc2 42.a4 Rc1 43.Rd4 Rc3 44.Rb4 g5+ 45.hxg5 hxg5+ 46.Kxg5 Rxg3+ 47.Kh5 Rg7 48.Rc4 Ke5 49.Rc8 f4 50.Rf8 Ke4 51.Kh4 f3 52.Kh3 Ke3 53.Kh2 f2 54.Re8+ Kf3 55.Rf8+ Ke2 56.Re8+ Kf1 57.Rh8 Rg5 58.Rh7 Re5 59.Rf7 Re8 60.Rxb7 Rh8+ 61.Kg3 0-1

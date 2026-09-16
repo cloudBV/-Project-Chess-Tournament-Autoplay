@@ -1,0 +1,14 @@
+[Event "Round 6: Merkos, Thomas - Tsamtsouris, Efthymios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-6/xbD8EBx0/Y27T77in"]
+[Date "2026.07.15"]
+[Round "6.4"]
+[White "Merkos, Thomas"]
+[Black "Tsamtsouris, Efthymios"]
+[Result "1/2-1/2"]
+[WhiteElo "2089"]
+[BlackElo "2005"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O Nf8 12.c4 Be6 13.Nc3 Bb4 14.Kb1 Bxc3 15.Qxc3 b5 16.Ka1 bxc4 17.Bxc4 Bxc4 18.Qxc4 Qd5 19.Qxd5 cxd5 20.Rhe1 Ne6 21.Rc1 Rec8 22.b3 Kf8 23.Kb2 Ke7 24.g3 Kd7 25.a3 f5 26.b4 a6 27.h4 Rxc1 28.Rxc1 Rc8 29.Rc3 Rxc3 30.Kxc3 Kc6 31.Bf4 Kb5 32.Bd6 Ka4 33.Kd3 Kb3 34.Bc5 f4 35.Bd6 f5 36.gxf4 g6 37.f3 Ng7 38.Be5 Ne8 39.Kd2 Kxa3 40.Kc3 Ka4 41.Kc2 Kxb4 42.Kb2 a5 43.Ka2 Kc4 44.Ka3 Kd3 45.Ka4 Ke3 46.Kxa5 Kxf3 47.Kb5 Kg4 48.Kc5 Kxh4 49.Kxd5 Kg3 50.Ke6 h4 51.Ke7 h3 52.Kxe8 h2 53.d5 h1=Q 54.d6 Qd5 55.d7 Qe6+ 56.Kd8 g5 57.Kc7 Qc4+ 58.Kd6 Qb4+ 59.Ke6 Qb6+ 60.Ke7 gxf4 61.d8=Q Qxd8+ 62.Kxd8 Kg4 63.Ke7 f3 64.Bd4 f4 65.Kf6 Kg3 66.Kf5 f2 67.Bxf2+ Kxf2 68.Kxf4 1/2-1/2

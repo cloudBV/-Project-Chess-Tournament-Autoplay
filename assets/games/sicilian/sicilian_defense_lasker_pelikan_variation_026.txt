@@ -1,0 +1,14 @@
+[Event "Round 2: Xiao, Tong(QD) - Materia, Marco"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-final/round-2/vDdNvRZP/z7gPsd5t"]
+[Date "2026.07.02"]
+[Round "2.1"]
+[White "Xiao, Tong(QD)"]
+[Black "Materia, Marco"]
+[Result "1/2-1/2"]
+[WhiteElo "2599"]
+[BlackElo "2508"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2 O-O 11.O-O Nd7 12.b4 b6 13.c3 f5 14.f4 a6 15.Na3 Bf6 16.Nc4 Qc7 17.Ra3 Rb8 18.Be3 exf4 19.Bxf4 Ne5 20.Qb3 Re8 21.Ra2 Kh8 22.Kh1 b5 23.axb5 axb5 24.Nxe5 Bxe5 25.h3 Bxf4 26.Rxf4 Bd7 27.c4 bxc4 28.Qxc4 Qb6 29.Qd4 Qxd4 30.Rxd4 g5 31.Kh2 Re3 32.Ra7 Rxe2 33.Rxd7 f4 34.Rc4 f3 35.Rcc7 Rxg2+ 36.Kh1 Ra8 37.Rxh7+ Kg8 38.Rhg7+ Kh8 39.Rh7+ Kg8 40.Rhg7+ Kh8 41.Rh7+ 1/2-1/2

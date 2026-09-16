@@ -1,0 +1,14 @@
+[Event "Round 1: Morrison, Joseph - Lu, Miaoyi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/asLUA2Av"]
+[Date "2026.07.13"]
+[Round "1.12"]
+[White "Morrison, Joseph"]
+[Black "Lu, Miaoyi"]
+[Result "0-1"]
+[WhiteElo "2048"]
+[BlackElo "2392"]
+[ECO "A28"]
+[Variant "Standard"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 5.d3 d6 6.h3 Bc5 7.a3 a6 8.b4 Ba7 9.Bb2 Nd4 10.Nxd4 Bxd4 11.Qd2 c6 12.g3 a5 13.b5 a4 14.Bg2 Qa5 15.Rb1 Be6 16.Rf1 Qa7 17.Ne2 Bc5 18.f4 Be3 19.Qc3 Bb6 20.Qc2 cxb5 21.fxe5 dxe5 22.Bxe5 bxc4 23.Rxf6 gxf6 24.Bxf6 cxd3 25.Qxd3 O-O 26.Rb5 Rfd8 27.Qb1 Ba5+ 28.Kf1 Rd2 29.Rxb7 Qe3 30.Rb8+ Bd8 31.Rxd8+ Raxd8 0-1

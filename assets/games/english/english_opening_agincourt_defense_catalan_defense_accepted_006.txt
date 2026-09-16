@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/aFTPr3WO"]
+[Date "2026.07.04"]
+[Round "8.5"]
+[White "Garcia Palermo, Carlos Horacio"]
+[Black "Delgado Ramirez, Neuris"]
+[Result "1/2-1/2"]
+[WhiteElo "2396"]
+[BlackElo "2519"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.d3 Nc6 9.Nxd7 Qxd7 10.Nd2 Rc8 11.Qa4 Nd5 12.Ne4 Be7 13.Bd2 O-O 14.Rc1 b6 15.O-O Rfd8 16.Rfd1 Qb7 17.Nc3 a6 18.Nxd5 exd5 19.e3 b5 20.Qg4 g6 21.b3 Qb8 22.Qe2 Bf8 23.Bc3 d4 24.Bb2 dxe3 25.fxe3 Qd6 26.Qf2 Bh6 27.Bxc6 Rxc6 28.Rc2 Qe7 29.e4 c4 30.bxc4 bxc4 31.Qf3 Bg7 32.Bxg7 Kxg7 33.d4 Qa7 34.Kg2 Kg8 35.d5 Rc5 36.Qf6 Qd7 37.Rc3 Re8 38.Qd4 Rec8 39.Rd2 h5 40.Rdc2 Qc7 41.Rf2 Rb5 42.Qf6 Rb6 43.Qd4 Qc5 44.Qxc5 Rxc5 45.Rfc2 Kg7 46.Kf3 Kf6 47.Kf4 Rb4 48.a3 Ra4 49.e5+ Ke7 50.Ke4 f5+ 51.exf6+ Kxf6 52.Rf2+ Ke7 53.Kd4 Raa5 54.Re3+ Kd7 55.Rf7+ Kd8 56.Rf8+ Kd7 57.Rf7+ Kd8 58.Rf8+ 1/2-1/2

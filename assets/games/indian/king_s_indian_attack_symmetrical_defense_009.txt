@@ -1,0 +1,14 @@
+[Event "Open: Babu, Rahul - Rida, Ruqayyah"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/vtoxUzqF"]
+[Date "2026.07.04"]
+[Round "1.8"]
+[White "Babu, Rahul"]
+[Black "Rida, Ruqayyah"]
+[Result "0-1"]
+[WhiteElo "2128"]
+[BlackElo "2046"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.b3 c5 6.Bb2 d5 7.d3 Nc6 8.Nbd2 Re8 9.Ne5 Qd6 10.Nxc6 bxc6 11.e3 a5 12.a4 h5 13.c4 e5 14.Re1 Be6 15.Qc2 Nd7 16.Rac1 Rac8 17.Nf3 Bf6 18.Bc3 Qc7 19.h4 d4 20.Bd2 dxe3 21.Rxe3 Bf5 22.Rce1 Bg7 23.Bc3 f6 24.Qd2 Bh6 25.Bxa5 Qb7 26.Qd1 Bxe3 27.Rxe3 Nf8 28.Nd2 Ne6 29.Kh2 Kg7 30.Bc3 Rb8 31.a5 Red8 32.Qf1 Nd4 33.Qd1 Nxb3 34.a6 Qxa6 35.Nxb3 Qa4 36.Qe1 Qxb3 37.Rxe5 Qb1 38.Re7+ Kf8 39.Qe3 Rxd3 40.Qxc5 Qb6 41.Qxb6 Rxb6 42.Bxf6 c5 43.Bg5 Rb2 44.Rc7 Rxf2 45.Be7+ Kg8 46.Kg1 Re2 47.Kf1 Re5 48.Bf6 Rd1+ 49.Kf2 Rd2+ 50.Kf3 Bg4+ 51.Kf4 Rf5+ 0-1

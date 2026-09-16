@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "9.1"]
+[White "Pankiv, Maksym"]
+[Black "Balint, Peter"]
+[Result "1-0"]
+[WhiteElo "2410"]
+[BlackElo "2308"]
+[ECO "B51"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 Nf6 5.O-O cxd4 6.Qxd4 a6 7.Bxd7+ Bxd7 8.Bg5 e6 9.Nbd2 Bb5 10.Rfe1 Be7 11.a4 Bc6 12.Nc4 O-O 13.a5 Nxe4 14.Bxe7 Qxe7 15.Nb6 e5 16.Qb4 Ng5 17.Nxe5 Be4 18.f4 f5 19.Nxa8 Rxa8 20.Rad1 Rd8 21.Nc4 Ne6 22.Nxd6 g5 23.Qb6 gxf4 24.Nxe4 Rxd1 25.Nf6+ Qxf6 26.Rxd1 f3 27.gxf3 Qe5 28.Kh1 Qe2 29.Rg1+ Kf7 30.Qxb7+ Kf6 31.Qb3 h5 32.Qc3+ Kf7 33.Re1 Qf2 34.Qe3 1-0

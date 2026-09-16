@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.20"]
+[Round "21.7"]
+[White "StockfishClassical 202007311012"]
+[Black "IgelHCE 3.6.13"]
+[Result "1-0"]
+[WhiteElo "3552"]
+[BlackElo "3223"]
+[ECO "B12"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.Nc3 h5 7.Nf3 Qb6 8.O-O a5 9.Bg5 Ne7 10.Ne2 Qa6 11.Qd2 a4 12.Rab1 Nd7 13.h3 b5 14.b3 Rc8 15.c3 c5 16.Rfc1 c4 17.bxa4 bxa4 18.Nf4 a3 19.Qe2 Nb6 20.Nh4 g6 21.g4 hxg4 22.hxg4 Na4 23.Nf3 Qa7 24.Qc2 Nc6 25.Kg2 Rb8 26.Rxb8+ Nxb8 27.Bf6 Rh6 28.Ng5 Nb2 29.Ngxe6 fxe6 30.g5 Rh7 31.Qxg6+ Qf7 32.Qxf7+ Rxf7 33.g6 Nd3 34.gxf7+ Kxf7 35.Nxd3 cxd3 36.Rd1 d2 37.Rxd2 Nc6 38.Rd3 Bh6 39.Kh3 Kg6 40.Kg4 Nb8 41.f4 Nd7 42.Rh3 Nb8 43.c4 Nd7 44.cxd5 Nxf6+ 45.exf6 Bf8 46.dxe6 Kxf6 47.f5 Ke7 48.Rh8 Bg7 49.Rh7 Kf8 50.d5 Bd4 51.Rd7 Bf6 52.Kh5 Bd8 53.d6 Ke8 54.Rb7 Kf8 55.Kg6 Kg8 56.Rb8 Kh8 57.Rxd8# 1-0

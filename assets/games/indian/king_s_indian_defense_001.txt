@@ -1,0 +1,14 @@
+[Event "Round 2: Stamatiou, Rodolfos - Raptis, Filippos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/1c3qCEBH"]
+[Date "2026.07.06"]
+[Round "2.38"]
+[White "Stamatiou, Rodolfos"]
+[Black "Raptis, Filippos"]
+[Result "0-1"]
+[WhiteElo "2324"]
+[BlackElo "2276"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.g3 d6 6.Bg2 c6 7.e4 Be6 8.Qe2 Bg4 9.h3 Bxf3 10.Bxf3 Nfd7 11.Be3 c5 12.d5 Ne5 13.Bg2 Qb6 14.O-O-O Qb4 15.Bf1 b5 16.cxb5 a6 17.f4 Ned7 18.Bd2 axb5 19.Qxb5 Ra5 20.a3 Rxb5 21.axb4 Rxb4 22.Kc2 Nf6 23.b3 Rb6 24.Bc4 Na6 25.Ra1 Nb4+ 26.Kb1 Rb7 27.Ra5 Rfb8 28.g4 h6 29.Rc1 Kf8 30.Re1 Kg8 31.Na2 Nxa2 32.Kxa2 Nd7 33.Rb1 Bd4 34.Ra3 f6 35.h4 Kg7 36.Bc1 g5 37.hxg5 hxg5 38.fxg5 fxg5 39.Bxg5 Rh8 40.Bf4 Rh4 41.Be2 Be5 42.Bxe5+ Nxe5 43.Rb2 Kf6 44.Ra4 Kg5 45.Bd1 Rh1 46.Bc2 Kxg4 47.Bb1 Kf4 48.Ra3 Rh3 49.Rf2+ Rf3 50.Rxf3+ Nxf3 51.Kb2 Nd2 52.Bd3 c4 53.Kc3 Rxb3+ 54.Rxb3 Nxb3 55.Bxc4 Nc5 56.Kd4 Nxe4 57.Ba6 Ng5 58.Be2 Nf3+ 59.Kd3 Nh4 60.Bh5 Ke5 61.Bf7 Nf3 62.Ke3 Ng5 63.Bg8 Ne4 64.Kd3 Nf6 65.Bf7 Nxd5 66.Kc4 Nf6 0-1

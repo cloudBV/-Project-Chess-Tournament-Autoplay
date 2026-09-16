@@ -1,0 +1,15 @@
+[Event "Round 1: Yudasin, Leonid - Yue, Tariq"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-1/kGTUmcu3/1JtW1FZw"]
+[Date "2026.07.02"]
+[Round "1.1"]
+[White "Yudasin, Leonid"]
+[Black "Yue, Tariq"]
+[Result "1-0"]
+[WhiteElo "2255"]
+[BlackElo "2141"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 d4 4.Bg2 c5 5.e3 Nc6 6.exd4 cxd4 7.d3 Bd6 8.O-O h6 9.Na3 Nf6 10.Nc2 e5 11.b4 O-O 12.Re1 Re8 13.c5 Bc7 14.b5 Nb8 15.Nb4 a5 16.Nc2 Nbd7 17.Ba3 a4 18.b6 Bb8 19.Nd2 Ra5 20.Nc4 Rxc5 21.Bxc5 Nxc5 22.Nb4 Bg4 23.f3 Bf5 24.Rc1 Nfd7 25.Qc2 Re6 26.Bf1 Kh7 27.Rcd1 Nxb6 28.Nxe5 Qe7 29.f4 Ncd7 30.Qd2 Nxe5 31.fxe5 Bxe5 32.Bg2 Qd7 33.Rf1 Bg4 34.Rde1 Bf6 35.Qf4 Rxe1 36.Rxe1 Bg5 37.Qe4+ Bf5 38.Qxf5+ Qxf5 39.Be4 Qxe4 40.Rxe4 Bf6 41.Kf1 Kg6 42.Ke2 Nd7 43.Nd5 Nc5 44.Nxf6 Kxf6 45.Rxd4 Ke5 46.Rb4 Kd5 47.Ke3 f5 48.d4 Ne4 49.Rxa4 b5 50.Ra7 g5 51.Rf7 Ke6 52.Rh7 Kd5 53.Rxh6 g4 54.Kd3 Nf2+ 55.Kc3 Ne4+ 56.Kb4 Kxd4 57.a3 1-0

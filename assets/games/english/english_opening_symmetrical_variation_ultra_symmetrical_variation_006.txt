@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "3.7"]
+[White "Svacina, Tobias"]
+[Black "Stary, Simon"]
+[Result "1-0"]
+[WhiteElo "2225"]
+[BlackElo "2171"]
+[ECO "A36"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.d3 d6 6.Qd2 e6 7.b3 Nge7 8.Bb2 O-O 9.h4 h5 10.Nh3 b6 11.Nf4 Bb7 12.g4 hxg4 13.h5 g5 14.h6 Be5 15.Nh5 Ng6 16.Ne4 f6 17.Bxe5 dxe5 18.Nhxf6+ Rxf6 19.Qxg5 Kf7 20.h7 Rf5 21.h8=Q Qxh8 22.Nd6+ Kg7 23.Nxf5+ exf5 24.Rxh8 Rxh8 25.Qxf5 Bc8 26.Qg5 Ne7 27.Kd2 1-0

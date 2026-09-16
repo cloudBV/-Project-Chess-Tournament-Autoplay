@@ -1,0 +1,15 @@
+[Event "Round 7: Dargali, Hakan - Dalgar, Hakki Berat"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/LWs1oPvf"]
+[Date "2026.07.17"]
+[Round "7.33"]
+[White "Dargali, Hakan"]
+[Black "Dalgar, Hakki Berat"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2012"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Qa4+ Nbd7 6.Nc3 g6 7.Nf3 Bg7 8.Bc4 O-O 9.d3 a6 10.O-O b5 11.Bxb5 Nb6 12.Qh4 axb5 13.Bh6 Nbxd5 14.Ne4 Re8 15.Nfg5 Bh8 16.Rfc1 b4 17.Rc5 Ra5 18.Rac1 Rxc5 19.Rxc5 Ba6 20.Qg3 Nxe4 21.Nxe4 Nf6 22.Nxf6+ Bxf6 23.h3 Qxd3 24.Be3 Bxb2 25.Kh2 Qd6 26.f4 Bd4 27.Ra5 Bb7 28.Qf2 Qb6 29.Re5 Bxe3 30.Rxe3 Ra8 31.Qd2 Rxa2 0-1

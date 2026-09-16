@@ -1,0 +1,15 @@
+[Event "预选赛8进4"]
+[Site "chengdu, China"]
+[Date "2026.07.24"]
+[Round "1.3"]
+[White "Xu, Xiangyu"]
+[Black "Xu, Yinglun"]
+[Result "1-0"]
+[WhiteElo "2600"]
+[BlackElo "2512"]
+[ECO "A50"]
+[TimeControl "15m+10s"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 d5 4.cxd5 exd5 5.Nc3 c6 6.e3 Bf5 7.Nf3 Nbd7 8.h3 h6 9.g4 Bh7 10.Bd3 Bxd3 11.Qxd3 Bb4 12.Nd2 Qe7 13.f3 Bd6 14.Bxd6 Qxd6 15.O-O-O O-O-O 16.Kb1 Kb8 17.Nb3 Qg3 18.e4 dxe4 19.fxe4 Qxd3+ 20.Rxd3 Rhe8 21.Rf3 c5 22.dxc5 Rc8 23.Rf5 g6 24.Rf4 g5 25.Rf5 Nxe4 26.Nxe4 Rxe4 27.Rd1 Re7 28.a3 Ne5 29.Rd6 Nc4 30.Rd4 Ne5 31.Re4 Rce8 32.Rf6 Nd3 33.Rd4 Re3 34.Rxh6 Rc8 35.Rc4 Ne5 36.Rc3 Rxc3 37.bxc3 Nc4 38.Rf6 Re8 39.Nd4 Re3 40.Rxf7 Rxc3 41.Rf8+ 1-0

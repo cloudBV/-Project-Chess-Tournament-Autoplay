@@ -1,0 +1,15 @@
+[Event "Round 9: Khazhatuly, Alikhan - Bukreev, Stanislav"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/LDOtgWAr"]
+[Date "2026.07.05"]
+[Round "9.15"]
+[White "Khazhatuly, Alikhan"]
+[Black "Bukreev, Stanislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2148"]
+[BlackElo "2385"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.O-O O-O 6.d3 h6 7.h3 Re8 8.a4 Ne7 9.Nxe5 Bxe5 10.d4 Bxd4 11.Qxd4 a6 12.Bc4 Nc6 13.Qd1 d6 14.Re1 Be6 15.Bf1 Nd7 16.Bf4 Nde5 17.Bh2 Bc4 18.Bxe5 Nxe5 19.Bxc4 Nxc4 20.Qd5 Ne5 21.Qxb7 c6 22.Qb3 Rb8 23.Qa2 Re6 24.Re3 Rg6 25.Rd1 Qf6 26.b3 Nf3+ 27.Kf1 Nh2+ 28.Kg1 Nf3+ 29.Kf1 Nh2+ 1/2-1/2

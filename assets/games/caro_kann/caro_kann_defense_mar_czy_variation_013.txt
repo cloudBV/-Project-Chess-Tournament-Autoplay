@@ -1,0 +1,14 @@
+[Event "Round 10: Lopez Rayo, Santiago - Cadena M, Gustavo Adolfo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-10/EGR1f4HB/MloYQgvb"]
+[Date "2026.07.11"]
+[Round "10.7"]
+[White "Lopez Rayo, Santiago"]
+[Black "Cadena M, Gustavo Adolfo"]
+[Result "*"]
+[WhiteElo "2306"]
+[BlackElo "2278"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 g6 4.Nc3 Bg7 5.e5 f6 6.f4 fxe5 7.fxe5 Nh6 8.Nf3 O-O 9.Be2 Bg4 10.Ng5 Bxe2 11.Qxe2 Qd7 12.Be3 e6 13.O-O-O Na6 14.g4 Rac8 15.h3 c5 16.Kb1 cxd4 17.Bxd4 Rc4 18.Nce4 Rxd4 19.Rxd4 Bxe5 20.Nc5 Qd6 21.Nxb7 Qb8 22.Qxa6 Bxd4 23.Qxe6+ Kh8 24.Qxd5 Bg7 25.Re1 Qg3 26.Rd1 Rb8 27.Ne6 Bf6 28.g5 Qxh3 29.gxf6 Nf7 30.Qd7 Qg4 31.Rc1 Kg8 32.Nd6 Nxd6 *

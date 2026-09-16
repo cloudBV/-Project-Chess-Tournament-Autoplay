@@ -1,0 +1,15 @@
+[Event "I Torneo de Ajedrez Ciudad de Águilas"]
+[Site "Águilas (Murcia), Spain"]
+[Date "2026.07.18"]
+[Round "4.1"]
+[White "Morales Carmona, Jose Manuel"]
+[Black "Plaskett, H James"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2391"]
+[ECO "B46"]
+[TimeControl "15'+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Nge7 7.O-O b5 8.Bf3 Bb7 9.Nce2 Ne5 10.Bf4 Nxf3+ 11.gxf3 d5 12.e5 Ng6 13.Bg3 h5 14.h3 h4 15.Bh2 Nxe5 16.f4 Nd7 17.Nc1 Qf6 18.Re1 Bd6 19.Qd2 O-O 20.c3 e5 21.fxe5 Nxe5 22.f4 Nc4 23.Qf2 Rae8 24.Ncb3 Re4 25.Nd2 Nxd2 26.Qxd2 Bxf4 27.Bxf4 Rxf4 28.Re2 g6 29.Rae1 Kg7 30.Re7 Bc8 31.R7e3 Re4 32.Rf3 Qe5 33.Ref1 Bd7 34.Qg2 Re1 35.Qf2 Rxf1+ 36.Kxf1 Qg5 37.Ne2 Bf5 38.Nf4 Be4 39.Qd4+ Kg8 40.Rf2 Re8 41.Qa7 Qg3 42.Qd4 g5 43.Ne2 Bd3 44.Qf6 Bxe2+ 45.Rxe2 Qxh3+ 46.Rg2 Re1+ 47.Kxe1 Qxg2 48.Kd1 h3 49.Qe7 h2 50.Qe8+ Kg7 51.Qe5+ Kg6 52.Qd6+ f6 0-1

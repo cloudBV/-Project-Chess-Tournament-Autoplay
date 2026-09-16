@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.33"]
+[White "Vinal Gutierrez, Pedro"]
+[Black "Bravo De La Vega, Alvaro"]
+[Result "0-1"]
+[WhiteElo "2039"]
+[BlackElo "2268"]
+[ECO "B23"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 a6 3.a4 Nc6 4.f4 g6 5.Nf3 Bg7 6.Bc4 e6 7.O-O Nge7 8.d3 d5 9.Bb3 O-O 10.Qe1 Nd4 11.Nxd4 cxd4 12.Nd1 dxe4 13.Qxe4 Qc7 14.Bd2 Bd7 15.Nf2 Bc6 16.Qe2 Bd5 17.Bb4 Bxb3 18.cxb3 Rfc8 19.Bxe7 Qxe7 20.Qd2 Qd6 21.Rfc1 Qb6 22.Qd1 f5 23.Rc4 Qd6 24.Qf3 Qd5 25.Qxd5 exd5 26.Rcc1 Kf7 27.Nh3 Bf6 28.Kf2 Ke6 29.Ng1 Rc6 30.Rxc6+ bxc6 31.Nf3 Rb8 32.Nd2 Bd8 33.Rc1 Kd6 34.b4 Rxb4 35.b3 Ba5 36.Nf3 c5 37.Ne5 Rxb3 38.h4 Bd2 0-1

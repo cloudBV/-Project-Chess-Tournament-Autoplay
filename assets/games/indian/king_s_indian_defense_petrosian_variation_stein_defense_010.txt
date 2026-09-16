@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.15"]
+[Round "5.11"]
+[White "Grooten, Tommy"]
+[Black "Vroombout, Enrico"]
+[Result "1-0"]
+[WhiteElo "2294"]
+[BlackElo "2066"]
+[ECO "E92"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+
+1.c4 g6 2.Nc3 Bg7 3.d4 Nf6 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5 8.Be3 Ng4 9.Bg5 f6 10.Bh4 Na6 11.Nd2 h5 12.h3 Nh6 13.f3 Nc5 14.b3 Bd7 15.a3 Qe8 16.b4 axb4 17.axb4 Na4 18.Nxa4 Bxa4 19.Qc1 Bd7 20.O-O g5 21.Bf2 g4 22.Rxa8 Qxa8 23.hxg4 hxg4 24.c5 Qa2 25.c6 Bc8 26.cxb7 Bxb7 27.fxg4 Bc8 28.Qc3 Qa4 29.b5 Bxg4 30.Bd3 Ra8 31.Nb3 1-0

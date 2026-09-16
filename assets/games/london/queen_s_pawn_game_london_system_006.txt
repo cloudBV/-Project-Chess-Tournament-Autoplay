@@ -1,0 +1,15 @@
+[Event "Round 4: Aswath, S - Nitish Belurkar"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-4/2N5Ezhl4/UnFj2WiC"]
+[Date "2026.06.30"]
+[Round "4.1"]
+[White "Aswath, S"]
+[Black "Nitish Belurkar"]
+[Result "1-0"]
+[WhiteElo "2517"]
+[BlackElo "2466"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Nh5 6.Be5 f6 7.c4 e6 8.Bg3 cxd4 9.Nxd4 Nxg3 10.hxg3 Qb6 11.N4b3 Bd7 12.cxd5 exd5 13.Qh5+ g6 14.Qxd5 O-O-O 15.Be2 Bb4 16.Qb5 Qc7 17.Rc1 h5 18.a3 Bxd2+ 19.Nxd2 Kb8 20.Nb3 a6 21.Qc4 Qb6 22.Rc3 Rhe8 23.O-O Be6 24.Qc5 Ka7 25.Qxb6+ Kxb6 26.Rfc1 Bd5 27.Nc5 Ne5 28.b4 Bc6 29.Nb3 Bd5 30.Nc5 Bc6 31.R3c2 Nd7 32.Nxa6 Ba4 33.Nc7 Re5 34.f4 Bxc2 35.fxe5 Kxc7 36.Rxc2+ Kb6 37.Rd2 fxe5 38.Rd6+ Kc7 39.Rxg6 e4 40.Re6 Ra8 41.Bb5 Nb6 42.Re7+ Kd6 43.Rxb7 Nd5 44.Rd7+ Ke6 45.Bc6 1-0

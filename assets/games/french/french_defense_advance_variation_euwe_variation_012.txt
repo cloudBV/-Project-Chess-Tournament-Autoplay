@@ -1,0 +1,14 @@
+[Event "Round 5: Kalezic, Blazo - Lodici, Lorenzo"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/bXSpDueV"]
+[Date "2026.07.07"]
+[Round "5.6"]
+[White "Kalezic, Blazo"]
+[Black "Lodici, Lorenzo"]
+[Result "0-1"]
+[WhiteElo "2400"]
+[BlackElo "2576"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6 7.O-O fxe5 8.Nxe5 Nxe5 9.dxe5 Qc7 10.Re1 O-O-O 11.Bg4 h6 12.b4 Kb8 13.bxc5 Bxc5 14.Be3 Ne7 15.Nd2 Bxe3 16.Rxe3 Nc6 17.Nf3 Rde8 18.Qe1 h5 19.Bh3 Qd8 20.g3 g5 21.Nd4 g4 22.Bg2 h4 23.Rb1 hxg3 24.hxg3 Na5 25.Rb4 Qc7 26.c4 Nxc4 27.Rc3 Qxe5 28.Qb1 Qxd4 29.Rcxc4 dxc4 30.Rxc4 Qb6 31.Rb4 Qd6 32.Rxb7+ Kc8 33.Qc1+ Kd8 34.Rxa7 Rh5 35.Qa1 e5 36.Qc1 Rf8 37.a4 Rhf5 38.Ra8+ Ke7 39.Rxf8 Kxf8 40.a5 e4 41.Qe1 Rd5 42.Bf1 Bb5 43.Qxe4 Bxf1 0-1

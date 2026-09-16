@@ -1,0 +1,14 @@
+[Event "Round 2: Magkalakis, Stefanos - Anagnostopoulos, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/V0JN07uP"]
+[Date "2026.07.06"]
+[Round "2.73"]
+[White "Magkalakis, Stefanos"]
+[Black "Anagnostopoulos, Konstantinos"]
+[Result "1/2-1/2"]
+[WhiteElo "2343"]
+[BlackElo "2298"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 e6 3.Bg2 c5 4.O-O Nf6 5.c4 d4 6.d3 Nc6 7.e3 Bd6 8.exd4 cxd4 9.Bg5 h6 10.Bxf6 Qxf6 11.Nbd2 Qe7 12.a3 a5 13.Re1 O-O 14.Rc1 a4 15.Ne4 Bc7 16.c5 e5 17.Nfd2 f5 18.Nd6 Bxd6 19.cxd6 Qxd6 20.Nc4 Qf6 21.Bxc6 bxc6 22.Nxe5 f4 23.Rxc6 Qf5 24.Ng6 Qh3 25.Re7 fxg3 26.hxg3 Bd7 27.Rc7 Rxf2 28.Kxf2 Qh2+ 29.Ke1 Qxg3+ 30.Kd2 Qxc7 31.Qf3 Qa5+ 32.Kd1 Bf5 33.Re5 Bxg6 34.Rxa5 Rxa5 35.Qf4 Rd5 36.Kd2 Kh7 37.Qh4 Bf5 38.Qf4 g5 39.Qc7+ Rd7 40.Qa5 Kg6 41.Qxa4 g4 42.Qc6+ Kg5 43.b4 Ra7 44.Qc5 Rxa3 45.Qe7+ Kf4 46.Qd6+ Kg5 47.Qe7+ Kh5 48.Qf7+ Bg6 49.Qd5+ Kh4 50.Qh1+ Kg5 51.Qd5+ Bf5 52.Qd8+ Kh5 53.Qxd4 Rxd3+ 54.Qxd3 Bxd3 55.Kxd3 Kh4 56.Ke2 Kh3 57.b5 g3 58.b6 g2 59.b7 g1=Q 60.b8=Q Qg2+ 61.Ke1 h5 62.Qc8+ Kh2 63.Qc7+ Kh1 64.Qh7 Qg3+ 65.Ke2 h4 66.Qb1+ Kh2 67.Qh7 Qg2+ 68.Ke1 h3 69.Qf5 Kg1 70.Qc5+ Kh1 71.Qf5 Qg3+ 72.Kf1 Qg1+ 73.Ke2 Qg2+ 74.Ke1 Kg1 75.Qc5+ Kh2 76.Qf2 Kh1 77.Qf1+ Qg1 78.Ke2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 3: Raitza, Olaf - Himmel, Hansjoerg"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/ID69KfNU"]
+[Date "2026.07.19"]
+[Round "3.6"]
+[White "Raitza, Olaf"]
+[Black "Himmel, Hansjoerg"]
+[Result "1-0"]
+[WhiteElo "2045"]
+[BlackElo "2210"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O h5 9.Qg3 Qxg3 10.hxg3 Ng4 11.Be2 Nxe3 12.fxe3 g6 13.Nxc6 bxc6 14.g4 h4 15.Rh3 Bg7 16.g5 Ke7 17.Rdh1 c5 18.Rxh4 Rxh4 19.Rxh4 Rb8 20.Na4 d6 21.b3 Bb7 22.Bf3 Be5 23.Nb2 Bc3 24.Nd3 Rc8 25.e5 d5 26.e4 a5 27.exd5 exd5 28.Rh7 c4 29.Nf4 Bxe5 30.Nxg6+ Kd6 31.Rxf7 Ba8 32.Nxe5 Kxe5 33.g6 Rf8 1-0

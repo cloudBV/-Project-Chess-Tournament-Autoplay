@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/D43dRbPb"]
+[Date "2026.07.07"]
+[Round "8.5"]
+[White "Romanishin, Oleg M"]
+[Black "Dobosiewicz, Dawid"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2282"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 e6 5.c3 Be7 6.Nbd2 Nf6 7.O-O O-O 8.Nb3 h6 9.Bf4 a5 10.a4 Ne4 11.Nfd2 Nf6 12.Nf3 Ne4 13.Nfd2 Nf6 1/2-1/2

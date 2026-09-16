@@ -1,0 +1,14 @@
+[Event "Round 6: Tamas, Christian-Arrydan - Lu, Maximillian"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/8eAAdiJE"]
+[Date "2026.07.19"]
+[Round "6.16"]
+[White "Tamas, Christian-Arrydan"]
+[Black "Lu, Maximillian"]
+[Result "1-0"]
+[WhiteElo "2328"]
+[BlackElo "2458"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2 O-O 11.O-O a6 12.Na3 f5 13.Nc4 f4 14.a5 Nd7 15.Bd2 Qe8 16.Bb4 Rf6 17.Bh5 g6 18.Bg4 Nf8 19.Nb6 Bxg4 20.Qxg4 Rd8 21.Ra3 h5 22.Qe2 g5 23.f3 Rg6 24.Rc3 Rb8 25.Qc4 Bd8 26.Kh1 Qf7 27.Qe4 Nh7 28.Rc8 Rxc8 29.Nxc8 Rh6 30.Nxd6 Qd7 31.Qxe5 Bxa5 32.Bxa5 Rxd6 33.c4 Rf6 34.Re1 b5 35.c5 Rf5 36.c6 1-0

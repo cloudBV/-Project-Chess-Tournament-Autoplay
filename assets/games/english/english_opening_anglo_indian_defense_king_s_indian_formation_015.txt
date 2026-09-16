@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.14"]
+[White "Romero Pallares, Daniel"]
+[Black "Cifuentes Parada, Roberto"]
+[Result "0-1"]
+[WhiteElo "2270"]
+[BlackElo "2397"]
+[ECO "A15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 O-O 5.g3 d6 6.Bg2 e5 7.d3 Nc6 8.O-O h6 9.Nc3 Be6 10.Rc1 Qd7 11.Nd2 Bh3 12.a3 Bxg2 13.Kxg2 Nd4 14.Nd5 Nh7 15.e3 Ne6 16.b4 c6 17.Nc3 Rae8 18.a4 f5 19.a5 f4 20.Nce4 Neg5 21.Kh1 f3 22.a6 b6 23.b5 c5 24.Nxg5 Nxg5 25.Ne4 Kh7 26.Rg1 Nh3 27.Rf1 Rd8 28.Nc3 Qg4 29.e4 h5 30.Nd5 Bh6 31.Rc2 h4 32.Bc1 Bxc1 33.Rxc1 hxg3 34.fxg3 Rf7 35.Rc2 Rdf8 36.Rcf2 Kg7 37.Ne3 Qg5 38.Nd5 Nxf2+ 39.Rxf2 Rh8 40.Kg1 Rff8 41.Qf1 Qh5 42.Nc7 Rf6 43.Nd5 Rf7 44.Qa1 Qg4 45.Qd1 Rh3 46.Ne3 Qh5 47.Qf1 Kg8 48.Nd5 Kh8 49.Qd1 Kg7 50.Qf1 Kf8 51.Qd1 Rxh2 0-1

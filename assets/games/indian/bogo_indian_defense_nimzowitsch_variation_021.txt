@@ -1,0 +1,15 @@
+[Event "Round 9: De Reese, Elias - Van der Stricht, Geert"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/uQoIbg5k"]
+[Date "2026.07.22"]
+[Round "9.9"]
+[White "De Reese, Elias"]
+[Black "Van der Stricht, Geert"]
+[Result "1/2-1/2"]
+[WhiteElo "2106"]
+[BlackElo "2274"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Qxd2 d6 7.Bg2 e5 8.Nc3 O-O 9.O-O Bg4 10.h3 Bxf3 11.Bxf3 e4 12.Bg2 Nbd7 13.f3 e3 14.Qe1 c5 15.Rd1 Nb6 16.b3 d5 17.cxd5 Nbxd5 18.dxc5 Qxc5 19.Rc1 Qb6 20.f4 Rad8 21.Nxd5 Nxd5 22.Rc4 a5 23.f5 Nf6 24.g4 h6 25.Bf3 Nh7 26.h4 Rd2 27.Qg3 Rxa2 28.g5 Rd2 29.f6 g6 30.gxh6 Qd6 31.Rf4 Rd1 32.Rxd1 Qxd1+ 33.Kg2 Qxb3 34.h5 g5 35.Rf5 Kh8 36.Be4 Qe6 37.Bd3 a4 38.Ra5 Qxf6 39.Rxa4 Qc6+ 40.Be4 Qe6 41.Rb4 f5 42.Bd3 Qd5+ 43.Qf3 Qxf3+ 44.Kxf3 Nf6 45.Rxb7 Ng4 46.Rg7 Ne5+ 47.Kxe3 f4+ 48.Kd4 Nxd3 49.Kxd3 f3 50.exf3 Rxf3+ 51.Ke4 Rf4+ 52.Ke5 Ra4 53.Kf5 g4 54.Rxg4 Rxg4 55.Kxg4 Kg8 1/2-1/2

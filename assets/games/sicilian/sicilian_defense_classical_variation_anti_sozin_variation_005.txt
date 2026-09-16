@@ -1,0 +1,15 @@
+[Event "Round 3: Van den Bosch, Arno - Molitor, Milo"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-3/AI650Rh4/RSSbYatX"]
+[Date "2026.07.18"]
+[Round "3.18"]
+[White "Van den Bosch, Arno"]
+[Black "Molitor, Milo"]
+[Result "0-1"]
+[WhiteElo "2024"]
+[BlackElo "2164"]
+[ECO "B57"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 7.Nb3 e6 8.Bf4 Qd8 9.f3 a6 10.a4 Be7 11.Qd2 O-O 12.Qf2 Ne5 13.Be2 b6 14.O-O Qc7 15.Kh1 Rd8 16.Be3 Rb8 17.Nd2 d5 18.exd5 exd5 19.Rac1 Bd6 20.Rfd1 Nc6 21.Nf1 Be5 22.Bg5 Ne7 23.Rd3 h6 24.Bh4 Bf5 25.Rd2 d4 26.Ne4 Bxe4 27.Bxf6 Bxf6 28.fxe4 Bg5 29.Bxa6 Bxd2 30.Nxd2 Ng6 31.Nf3 Qf4 32.Qe2 0-1

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.22"]
+[White "Ligotnis, Maksims"]
+[Black "Bujnoch, Radek"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2197"]
+[ECO "C54"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Dubov Italian"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.b4 Be7 7.e5 Ng4 8.cxd4 Bxb4+ 9.Bd2 Bxd2+ 10.Qxd2 d5 11.Bd3 O-O 12.h3 Nh6 13.O-O f6 14.Re1 fxe5 15.dxe5 Rxf3 16.gxf3 Qh4 17.Bf1 Nd4 18.Bg2 Bxh3 19.Nc3 Rf8 20.Rad1 Bxg2 21.Qxd4 Qh1# 0-1

@@ -1,0 +1,14 @@
+[Event "Round 8: Loew, Gerald - Wichmann, Cliff"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-8/1J1DUZFK/DgOT3oV4"]
+[Date "2026.07.24"]
+[Round "8.2"]
+[White "Loew, Gerald"]
+[Black "Wichmann, Cliff"]
+[Result "1/2-1/2"]
+[WhiteElo "2170"]
+[BlackElo "2251"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 dxc4 4.Qa4+ Nd7 5.Qxc4 Ngf6 6.Nf3 a6 7.Qc2 c5 8.Nc3 Qc7 9.d4 b6 10.Bf4 1/2-1/2

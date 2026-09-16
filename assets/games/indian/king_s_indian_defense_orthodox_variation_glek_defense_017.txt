@@ -1,0 +1,14 @@
+[Event "Round 1: Citak, Selim - Tabatabaei, M. Amin"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/BQsJknKv"]
+[Date "2026.07.18"]
+[Round "1.2"]
+[White "Citak, Selim"]
+[Black "Tabatabaei, M. Amin"]
+[Result "0-1"]
+[WhiteElo "2310"]
+[BlackElo "2722"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Nf6 4.Nc3 Bg7 5.e4 O-O 6.Be2 Na6 7.O-O e5 8.Be3 Qe7 9.Bg5 Qe8 10.c5 exd4 11.Bxf6 Bxf6 12.Nd5 Bd8 13.Bxa6 bxa6 14.cxd6 Qxe4 15.Ne7+ Bxe7 16.Re1 Qxe1+ 17.Qxe1 Bxd6 18.Qe4 Rb8 19.Qxd4 Rb4 20.Qc3 Re8 21.Re1 Rxe1+ 22.Nxe1 Be6 23.b3 a5 24.Nd3 Rb5 25.h4 a4 26.b4 Bxa2 27.Nc5 a5 28.Nd7 axb4 29.Qc6 Rf5 30.g4 Rf4 31.g5 Rg4+ 32.Kh1 Rxh4+ 33.Kg2 Rg4+ 34.Kh3 Rf4 35.Qa8+ Kg7 36.Nf6 Be6+ 37.Kg2 Rxf6 38.gxf6+ Kxf6 39.Qxa4 h5 40.f3 b3 41.f4 Kg7 42.f5 gxf5 43.Qa1+ f6 44.Kh3 Be5 45.Qg1+ Kf7 46.Kh4 b2 47.Qb1 Ke7 48.Kxh5 Bd5 49.Qd3 Be4 50.Qa3+ Kd7 51.Qa4+ Kd8 0-1

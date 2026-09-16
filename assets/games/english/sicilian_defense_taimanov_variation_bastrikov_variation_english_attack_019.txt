@@ -1,0 +1,15 @@
+[Event "Round 4: Narayanan, Samrug - Adewumi, Tanitoluwa"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-4/qxpSPQyX/ndPsHsR6"]
+[Date "2026.07.09"]
+[Round "4.5"]
+[White "Narayanan, Samrug"]
+[Black "Adewumi, Tanitoluwa"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2467"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.a3 b5 8.Nxc6 Qxc6 9.Bd3 Bb7 10.Qd2 Nf6 11.e5 Ng4 12.Bd4 f5 13.f3 Nh6 14.O-O-O Nf7 15.Rhg1 g6 16.f4 b4 17.axb4 Bxb4 18.h3 h5 19.Qe3 Be7 20.g3 g5 21.Ne2 g4 22.h4 Rc8 23.Nc3 O-O 24.Bf1 Nd8 25.Bb6 Rb8 26.Ba7 Ra8 27.Bb6 Rb8 28.Ba7 Ra8 29.Bd4 Rc8 30.Kb1 Bb4 31.Bg2 Qc4 32.Qd3 Bxg2 33.Rxg2 Qc6 34.Re2 Nb7 35.Na2 Be7 36.b3 Rfd8 37.Nc3 Kf7 38.Na4 d6 39.Qe3 d5 40.Bb6 Rd7 41.Qd4 Qb5 42.Qd3 Rc4 43.Nb2 Rc6 44.Bf2 Nc5 45.Qxb5 axb5 46.Bxc5 Bxc5 47.c4 bxc4 48.bxc4 d4 49.Nd3 Ba3 50.Ra2 Rb7+ 51.Ka1 Rb3 52.Rc2 Rc3 53.Rxc3 dxc3 54.Kb1 Rxc4 55.Kc2 Re4 56.Kxc3 Re3 57.Rg1 Ke8 58.Kd2 Rf3 59.Ke2 Kd7 60.Ne1 Rc3 61.Nd3 Rc2+ 62.Ke3 Be7 63.Kd4 Kc6 64.Ra1 Kb7 65.Rb1+ Kc7 66.Rc1 Rxc1 67.Nxc1 Kc6 68.Nd3 Kb5 69.Ke3 Kc4 70.Ke2 Kc3 71.Ne1 Kd4 72.Nd3 Bf8 73.Ne1 Bc5 74.Nd3 Ba3 75.Ne1 Kc3 76.Nd3 Be7 77.Ke3 Bd8 78.Ke2 Bb6 79.Ne1 Bg1 80.Nd3 Kc4 81.Nb2+ Kb3 82.Nd3 Kc3 83.Nc1 Kd4 84.Nb3+ Kd5 85.Kf1 Be3 86.Ke2 Bg1 87.Kf1 Bd4 88.Ke2 Bc3 89.Nc1 Kc4 90.Nd3 Bd4 91.Ne1 Kc3 92.Nd3 Bb6 93.Nc1 Bg1 94.Nd3 Kc4 95.Nb2+ Kd4 96.Na4 Kd5 97.Nb2 Bd4 98.Nd3 Kc4 99.Ne1 Bg1 100.Kf1 Bb6 101.Ke2 Kc3 102.Nd3 Ba7 103.Ne1 Bb6 104.Nd3 Bd4 105.Ne1 Kc4 106.Nd3 Bg1 1/2-1/2

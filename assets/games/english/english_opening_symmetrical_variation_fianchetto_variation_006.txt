@@ -1,0 +1,14 @@
+[Event "Round 7: Mohammad Nubairshah Shaikh - Aronyak Ghosh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/45TibaeL"]
+[Date "2026.07.19"]
+[Round "7.2"]
+[White "Mohammad Nubairshah Shaikh"]
+[Black "Aronyak Ghosh"]
+[Result "1/2-1/2"]
+[WhiteElo "2316"]
+[BlackElo "2488"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Nf3 Nc6 5.Bg2 d5 6.cxd5 Nxd5 7.O-O Nf6 8.b3 Be7 9.Ba3 Bd7 10.Na4 b6 11.d4 Rc8 12.Rc1 O-O 13.Qd3 cxd4 14.Bxe7 Qxe7 15.Nxd4 1/2-1/2

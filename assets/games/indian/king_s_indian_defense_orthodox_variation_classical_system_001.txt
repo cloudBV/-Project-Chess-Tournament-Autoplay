@@ -1,0 +1,14 @@
+[Event "Round 8: Joly, Julien - Stevens, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/8Ur0vCHh"]
+[Date "2026.07.21"]
+[Round "8.28"]
+[White "Joly, Julien"]
+[Black "Stevens, Christian"]
+[Result "1-0"]
+[WhiteElo "2257"]
+[BlackElo "2014"]
+[ECO "E98"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.Nd3 f5 11.f3 Rf7 12.b4 a5 13.bxa5 Rxa5 14.a4 Kh8 15.Bd2 Ng8 16.Nb5 Ra6 17.Qc1 Ndf6 18.c5 Bf8 19.a5 Rg7 20.Qc4 c6 21.Nxd6 cxd5 22.exd5 Rxd6 23.cxd6 Bxd6 24.Rac1 Rc7 25.Qh4 Kg7 26.Be3 Qd7 27.Rfd1 Nxd5 28.Nc5 Bxc5 29.Rxc5 Rxc5 30.Bxc5 Ngf6 31.Qc4 Qc6 32.a6 1-0

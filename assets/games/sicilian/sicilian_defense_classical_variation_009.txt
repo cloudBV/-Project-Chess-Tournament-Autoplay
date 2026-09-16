@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.10"]
+[Round "9.7"]
+[White "Dreelinck, Jacob"]
+[Black "Eugene, Floryan"]
+[Result "0-1"]
+[WhiteElo "2312"]
+[BlackElo "2510"]
+[ECO "B56"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f3 e5 7.Nb3 Be6 8.Nd5 Be7 9.Be3 Bxd5 10.exd5 Nb4 11.c4 a5 12.Nd2 Nd7 13.Ne4 f5 14.Nc3 Bg5 15.Bf2 O-O 16.a3 Na6 17.Bd3 Nac5 18.Bc2 a4 19.O-O Qa5 20.Kh1 Qa6 21.Qe2 Rac8 22.Nb5 g6 23.Rg1 e4 24.fxe4 Nxe4 25.Bxe4 Rfe8 26.Bd4 Rxe4 27.Qd3 Nc5 28.Qc3 Nb3 29.Bh8 Bh6 30.Rae1 Rcxc4 31.Rxe4 Rxc3 32.Re8+ Kf7 33.Bxc3 Qxb5 34.Rh8 Bd2 35.Rxh7+ Ke8 36.Bxd2 Nxd2 37.Rc1 Kd8 38.h4 Qxb2 39.Rcc7 Qb1+ 40.Kh2 Nf1+ 41.Kh1 Ne3+ 42.Kh2 Ng4+ 43.Kh3 Qd3+ 44.g3 Qf1# 0-1

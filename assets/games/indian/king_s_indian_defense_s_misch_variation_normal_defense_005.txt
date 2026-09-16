@@ -1,0 +1,14 @@
+[Event "Round 11: Soto, Cristian Camilo - Narvaez, Zamir"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-11/1k0zGiFk/tRWJbG1G"]
+[Date "2026.07.12"]
+[Round "11.7"]
+[White "Soto, Cristian Camilo"]
+[Black "Narvaez, Zamir"]
+[Result "0-1"]
+[WhiteElo "2230"]
+[BlackElo "2086"]
+[ECO "E81"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Normal Defense"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c6 7.Qd2 a6 8.a4 Nbd7 9.Bd3 e5 10.d5 Nc5 11.b4 Nb3 12.Qd1 Nxa1 13.Qxa1 Nh5 14.Nge2 Nf4 15.Nxf4 exf4 16.Bxf4 cxd5 17.cxd5 Qb6 18.Qa3 f5 19.a5 Qc7 20.Bd2 fxe4 21.Nxe4 Bd4 22.Ke2 Bf5 23.Rc1 Qe7 24.Rc4 Bg1 25.h3 Rac8 26.Rxc8 Rxc8 27.Bg5 Qe5 28.Be3 Bxe4 29.Bxe4 Rc3 30.Qa4 Rxe3+ 31.Kf1 Qg3 32.Qe8+ Kg7 33.Qe7+ Kh6 34.Qf8+ Kh5 35.Bxg6+ Qxg6 36.Kxg1 Re2 37.g4+ Kh4 38.Kf1 Rb2 39.Qe7+ Kxh3 40.Qe1 Qd3+ 41.Kg1 Rg2+ 42.Kh1 Qxf3 0-1

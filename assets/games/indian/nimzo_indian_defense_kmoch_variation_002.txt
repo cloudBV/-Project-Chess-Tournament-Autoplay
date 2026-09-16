@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "1.4"]
+[White "Firouzja, Alireza"]
+[Black "Saric, Ivan"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2595"]
+[ECO "E20"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 d6 6.e4 O-O 7.Ne2 b5 8.Nf4 e5 9.Ne2 bxc4 10.Ng3 Kh8 11.Bxc4 Ng8 12.O-O Ne7 13.f4 exf4 14.Bxf4 Ng6 15.Qf3 Nd7 16.Nce2 Nde5 17.Qb3 a5 18.Qc2 Nxf4 19.Rxf4 Qb6 20.Rd1 a4 21.Nf5 Bxf5 22.exf5 a3 23.b3 Rae8 24.f6 g6 25.Qc1 Qd8 26.Ng3 Nxc4 27.bxc4 Re5 28.Rdf1 Qe8 29.R4f3 Rg8 30.h3 Qf8 31.Kh2 g5 32.Nf5 g4 33.Rg3 Rg6 34.Ne7 Rxf6 35.Rxf6 Qxe7 36.Qf4 Re4 37.Qxd6 Qxd6 38.Rxd6 f5 39.hxg4 fxg4 40.Rd7 h5 41.d6 h4 42.Rd3 Kg8 43.Rd8+ Kf7 44.d7 Ba5 45.Rc8 g3+ 46.Kh3 1-0

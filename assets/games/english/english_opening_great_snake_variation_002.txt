@@ -1,0 +1,15 @@
+[Event "Round 6: Heimann, Mark - Ramirez Vido, Robert Yorisan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/dUD8Y3Hq"]
+[Date "2026.07.03"]
+[Round "6.21"]
+[White "Heimann, Mark"]
+[Black "Ramirez Vido, Robert Yorisan"]
+[Result "1-0"]
+[WhiteElo "2436"]
+[BlackElo "2087"]
+[ECO "A10"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.Nc3 Bg7 3.d4 c5 4.d5 Bxc3+ 5.bxc3 e5 6.h4 h5 7.d6 Nc6 8.Nf3 Nh6 9.Bxh6 Rxh6 10.Qd5 Qf6 11.Qxc5 b6 12.Qe3 Rh8 13.g3 Qxd6 14.Bg2 f6 15.O-O Qc5 16.Qxc5 bxc5 17.Nd2 f5 18.Nb3 Ba6 19.Nxc5 Bxc4 20.Rfd1 e4 21.Rxd7 Rd8 22.Rc7 Ne5 23.f4 exf3 24.exf3 Bd5 25.Re1 1-0

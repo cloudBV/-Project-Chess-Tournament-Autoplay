@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "8.1"]
+[White "Fedorchuk, Sergey A."]
+[Black "Milliet, Sophie"]
+[Result "1-0"]
+[WhiteElo "2593"]
+[BlackElo "2362"]
+[ECO "C55"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.c3 g5 7.Be3 Bg7 8.Nbd2 O-O 9.Bb3 Ne7 10.Re1 Ng6 11.Nf1 g4 12.N3d2 Nh5 13.h3 Nhf4 14.Bxf4 Nxf4 15.hxg4 Nxd3 16.Re3 Nf4 17.Rg3 Bf6 18.Nf3 Kh7 19.Ne3 Be6 20.Nf5 Rg8 21.Kh2 Rg6 22.Qd2 Qg8 23.Rh1 Rf8 24.Qe1 Bxf5 25.gxf5 Rg4 26.Kg1 Qg7 27.Rh2 Rg8 28.Rxg4 Qxg4 29.Qe3 Rg7 30.g3 Bg5 31.Kf1 Ne6 32.Qe2 Nc5 33.Bc2 a5 34.b4 axb4 35.cxb4 Nd7 36.a4 Rg8 37.a5 Nf6 38.b5 Ra8 39.a6 bxa6 40.bxa6 Kg7 41.Bd3 Nd7 42.Nxg5 Qxe2+ 43.Kxe2 hxg5 44.Rh1 Nc5 45.Ra1 Ra7 46.Ke3 Kf6 47.Bc4 c6 48.Rh1 Kg7 49.f3 d5 50.exd5 cxd5 51.Bb5 d4+ 52.Kf2 d3 53.Ke3 Ra8 54.f6+ Kg6 55.g4 Kxf6 56.Bxd3 Ke6 57.Bc4+ Ke7 58.Rh6 Ne6 59.Ke4 f6 60.Rh7+ Kd6 61.Rf7 Rc8 62.Bb5 Nd4 63.Rxf6+ Ke7 64.Rb6 Ra8 65.Bc4 Kd7 66.Bd5 Rf8 67.a7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 3: Namyslo, Holger - Rosen, Bernd"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/CT099lMd"]
+[Date "2026.07.19"]
+[Round "3.9"]
+[White "Namyslo, Holger"]
+[Black "Rosen, Bernd"]
+[Result "1-0"]
+[WhiteElo "2033"]
+[BlackElo "2165"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 O-O 8.Nxf6+ Qxf6 9.Bd3 c5 10.Qe2 Nc6 11.Qe4 g6 12.dxc5 Qxb2 13.O-O Qf6 14.Rab1 Rd8 15.Qe3 Kg7 16.Be4 a5 17.c3 e5 18.Rb6 Bf5 19.Rxb7 Bxe4 20.Qxe4 Rac8 21.h3 h6 22.Re1 Re8 23.Rd1 Nd8 24.Rd6 Qf4 25.Qxg6+ Kh8 26.Qxh6+ Qxh6 27.Rxh6+ Kg7 28.Rbb6 Rxc5 29.Rhd6 Re6 30.Ng5 Rg6 31.Rxg6+ fxg6 32.Rd6 Kh6 33.h4 Nc6 34.Rd7 Kh5 35.Rh7+ 1-0

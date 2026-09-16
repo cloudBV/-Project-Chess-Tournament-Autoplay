@@ -1,0 +1,15 @@
+[Event "Round 5: Rostami, Hossein - Gholami, Aryan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/4fDgufSS"]
+[Date "2026.07.02"]
+[Round "5.10"]
+[White "Rostami, Hossein"]
+[Black "Gholami, Aryan"]
+[Result "1-0"]
+[WhiteElo "2246"]
+[BlackElo "2462"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Be2 Nc6 4.O-O Nf6 5.Nc3 d5 6.exd5 exd5 7.d4 Be6 8.Bg5 h6 9.Bh4 g5 10.Bg3 Ne4 11.Nxe4 dxe4 12.Ne5 Nxd4 13.c3 Nxe2+ 14.Qxe2 Qb6 15.Rad1 Bg7 16.Ng6 fxg6 17.Rd6 O-O 18.Rxb6 axb6 19.Qxe4 Bxa2 20.Qxg6 Rf6 21.Qc2 Bc4 22.Re1 Re6 23.Qd2 Rxe1+ 24.Qxe1 b5 25.h3 Bf7 26.Qe7 b6 27.Qb7 Ra1+ 28.Kh2 Ra2 29.Qc8+ Kh7 30.Qd7 Kg8 31.Qxb5 c4 32.Qxb6 Ra8 33.Bb8 Bd5 34.Qd8+ Kh7 35.Qxd5 Rxb8 36.Qe4+ Kh8 37.Qxc4 Rxb2 38.Qc8+ Kh7 39.Qf5+ Kh8 40.c4 Re2 41.c5 Be5+ 42.g3 Kg7 43.c6 1-0

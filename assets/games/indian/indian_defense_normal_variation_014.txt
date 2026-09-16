@@ -1,0 +1,15 @@
+[Event "Round 6: Triger, Eitan - Sason, Noam"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-6/Ukm9jNHu/Fj21j0w2"]
+[Date "2026.07.19"]
+[Round "6.13"]
+[White "Triger, Eitan"]
+[Black "Sason, Noam"]
+[Result "1/2-1/2"]
+[WhiteElo "2052"]
+[BlackElo "2379"]
+[ECO "A50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 c5 4.d5 b5 5.Nf3 bxc4 6.Nc3 d6 7.e4 e5 8.Bd2 Be7 9.Bxc4 O-O 10.h3 1/2-1/2

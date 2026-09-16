@@ -1,0 +1,15 @@
+[Event "Round 8: Varyemez, Ali - Suleymanli, Suleyman"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/zlRkJ70t"]
+[Date "2026.07.04"]
+[Round "8.10"]
+[White "Varyemez, Ali"]
+[Black "Suleymanli, Suleyman"]
+[Result "1/2-1/2"]
+[WhiteElo "2105"]
+[BlackElo "2414"]
+[ECO "E40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Taimanov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Nc6 5.Bd2 O-O 6.Nf3 d6 7.a3 Bxc3 8.Bxc3 Ne4 9.Qc2 Nxc3 10.Qxc3 Qf6 11.Be2 e5 12.dxe5 Nxe5 13.Nxe5 Qxe5 14.Qxe5 dxe5 15.Kd2 Be6 16.Kc3 Rfd8 17.Rhd1 1/2-1/2

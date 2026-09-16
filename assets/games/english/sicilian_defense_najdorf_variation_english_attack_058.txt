@@ -1,0 +1,14 @@
+[Event "Round 5: Samant Aditya S - Amar, Elham"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/2Nh4hzy8"]
+[Date "2026.07.22"]
+[Round "5.5"]
+[White "Samant Aditya S"]
+[Black "Amar, Elham"]
+[Result "1/2-1/2"]
+[WhiteElo "2516"]
+[BlackElo "2581"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Nc6 8.Bc4 Be6 9.Bb3 h6 10.O-O Na5 11.Nd5 Nxb3 12.Bb6 Qd7 13.Nc7+ Qxc7 14.Bxc7 Nxa1 15.Qxa1 Rc8 16.Ba5 Nxe4 17.b3 Be7 18.Bb4 Nc5 19.Nd2 O-O 20.Rd1 b5 21.Nf1 Rc6 22.Ne3 Rfc8 23.h3 f5 24.c4 bxc4 25.Nxc4 e4 26.Qd4 Bf6 27.Qe3 d5 28.Nd6 Rxd6 29.Bxc5 d4 30.Rxd4 Bxd4 31.Bxd4 Rc2 32.Kh2 Bf7 33.a3 Kh7 34.b4 Bc4 35.Be5 Rg6 36.Bg3 Bd3 37.Qf4 Rf6 38.h4 Be2 39.Qe3 Bh5 40.Be5 Re2 41.Qf4 Rf7 42.a4 Re1 43.Bc3 Rd1 44.b5 axb5 45.axb5 Rd5 46.b6 Rb7 47.Be5 Rxe5 48.Qxe5 Rxb6 49.Qxf5+ Bg6 50.Qc5 Re6 51.g4 Kg8 52.Qc8+ Re8 53.Qc6 Bf7 54.Qb6 Re6 55.Qd4 h5 56.g5 Re8 57.Qd6 Kh7 58.Qd7 Bg6 59.Qd6 Rc8 60.Kg2 Rc2 61.Qd4 Re2 62.Kg3 Ra2 63.Kg2 Ra3 64.Qb4 Rd3 65.Qc5 Rf3 66.Qd6 Bf5 67.Qe5 g6 68.Qe7+ 1/2-1/2

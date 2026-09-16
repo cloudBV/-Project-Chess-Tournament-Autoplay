@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.22"]
+[White "Farzaneh-Far, Marcus"]
+[Black "Atwell, Rose"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2386"]
+[ECO "C11"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.a3 Qb6 9.dxc5 Bxc5 10.Na4 Qa5+ 11.b4 Qxa4 12.bxc5 Qa5+ 13.Qd2 Qxd2+ 14.Kxd2 O-O 15.Bd3 Rd8 16.Rab1 f6 17.Nd4 Ndb8 18.Rhe1 fxe5 19.fxe5 Nxd4 20.Bxd4 Nc6 21.c3 Rf8 22.Ke3 Nd8 23.Rb6 Bd7 24.Be2 Bc6 25.Bg4 Kf7 26.h4 Ke7 27.Reb1 Rc8 28.Bf3 Rc7 29.g4 Kd7 30.g5 Kc8 31.Bg4 Rcf7 32.R6b2 Rf4 33.Rg2 Kd7 34.Kd2 Bb5 35.Be2 Bxe2 36.Kxe2 Rxh4 37.Rb6 Kc8 38.Rd6 g6 39.c6 bxc6 40.Bb6 Re4+ 41.Kd3 Rxe5 42.Rb2 Rf3+ 43.Kd2 Nf7 44.Rxc6+ Kd7 45.Rc7+ Kd6 46.Ra7 Rxg5 47.Bc7+ Kc6 48.Rb6+ Kc5 49.Raxa6 Rg2+ 50.Ke1 Rxc3 51.Bf4 Ne5 52.Bh6 Rf3 53.Bd2 Rh3 54.Bb4+ Kd4 55.Kf1 Ra2 0-1

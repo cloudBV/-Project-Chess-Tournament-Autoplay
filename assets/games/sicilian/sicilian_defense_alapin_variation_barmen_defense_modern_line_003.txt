@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "7.2"]
+[White "Martirosyan, David"]
+[Black "Gnojek, Petr"]
+[Result "0-1"]
+[WhiteElo "2153"]
+[BlackElo "2406"]
+[ECO "B22"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.dxc5 Qxc5 7.Be3 Qc7 8.h3 Bxf3 9.Qxf3 e6 10.Nd2 Nd5 11.Bb5+ Nc6 12.O-O a6 13.Ba4 Be7 14.c4 Nxe3 15.Qxe3 O-O 16.Nf3 Bf6 17.Rab1 Rfd8 18.a3 Nd4 19.Rfc1 g6 20.Bd1 Kg7 21.c5 a5 22.Nxd4 Bxd4 23.Qe4 a4 24.Rc4 Bxc5 25.Bxa4 Rd2 26.Kh1 Rxf2 27.Bb5 Qd6 28.b4 Bb6 29.a4 Rd2 30.Rcc1 Bc7 31.Rxc7 Qxc7 32.Qe3 Rad8 0-1

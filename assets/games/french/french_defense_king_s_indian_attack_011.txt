@@ -1,0 +1,15 @@
+[Event "Round 4: Havelka, Josef - Nagly, Wojciech"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/qDqxfGVW"]
+[Date "2026.07.18"]
+[Round "4.19"]
+[White "Havelka, Josef"]
+[Black "Nagly, Wojciech"]
+[Result "0-1"]
+[WhiteElo "2346"]
+[BlackElo "2175"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 c5 4.g3 e5 5.exd5 Qxd5 6.Ngf3 Nc6 7.Bg2 Be6 8.O-O Qd7 9.Re1 f6 10.Ne4 Rc8 11.c3 Rd8 12.Be3 b6 13.Qa4 Nge7 14.Bxc5 bxc5 15.Nxc5 Qc8 16.Nxe6 Qxe6 17.Nd4 Rxd4 18.cxd4 Qd7 19.dxe5 Nxe5 20.Qa6 Kf7 21.Be4 h5 22.f4 Qd4+ 23.Kh1 Ng4 24.Qc4+ Qxc4 25.dxc4 h4 26.h3 Nf2+ 27.Kg2 Nxe4 28.Rxe4 hxg3 29.Rd1 Nf5 30.Rd7+ Be7 31.b4 Rb8 32.c5 a5 33.a3 axb4 34.axb4 Ra8 35.c6 Ra2+ 36.Kg1 Ke8 37.b5 Rc2 38.Ra7 Kf8 39.Ra8+ Kf7 40.Ra7 Rc5 41.Rb7 g5 42.fxg5 fxg5 43.Kg2 Rc2+ 44.Kg1 Kf6 45.Rbxe7 Nxe7 46.Rb4 Nd5 47.b6 Nxb4 48.c7 Na6 0-1

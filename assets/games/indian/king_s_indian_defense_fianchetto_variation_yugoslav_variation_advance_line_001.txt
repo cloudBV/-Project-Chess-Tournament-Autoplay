@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.04"]
+[Round "1.5"]
+[White "Sonis, Francesco"]
+[Black "Iwanesko, Alexandre"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2168"]
+[ECO "E66"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 c5 7.O-O Nc6 8.d5 Na5 9.Nd2 e6 10.Qc2 exd5 11.cxd5 Bd7 12.b3 b5 13.Bb2 Re8 14.Rfe1 Rc8 15.Rac1 Bf5 16.e4 Bd7 17.h3 Qb6 18.Qb1 Nh5 19.Ne2 b4 20.g4 Bxb2 21.Qxb2 Ng7 22.Ng3 Bb5 23.g5 Ba6 24.e5 c4 25.bxc4 Nxc4 26.Nxc4 Rxc4 27.Rxc4 Bxc4 28.Ne4 Rxe5 29.Nf6+ Kh8 30.Rxe5 dxe5 31.Qxe5 Qd8 32.d6 Bxa2 33.d7 Ne6 34.h4 Bc4 35.Bh3 Kg7 36.Nd5+ Kg8 37.Bxe6 Bxd5 38.Qf6 1-0

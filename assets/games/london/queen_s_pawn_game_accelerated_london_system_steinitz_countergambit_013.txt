@@ -1,0 +1,14 @@
+[Event "Round 2: Gutkind, Kedem - Leenhouts, Koen"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/l16zifYn"]
+[Date "2026.07.22"]
+[Round "2.20"]
+[White "Gutkind, Kedem"]
+[Black "Leenhouts, Koen"]
+[Result "1/2-1/2"]
+[WhiteElo "2137"]
+[BlackElo "2459"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Nf6 5.Nd2 Bf5 6.Bb5 Qb6 7.Qa4 e6 8.Ngf3 a6 9.Bxc6+ bxc6 10.Ne5 Rc8 11.dxc5 Bxc5 12.Nb3 Ne4 13.g4 Bg6 14.Nxc5 Nxc5 15.Qb4 Qa7 16.O-O f6 17.Nxg6 hxg6 18.Rfd1 e5 19.Bg3 Ne6 20.Kg2 Kf7 21.Rd2 Ng5 22.Rad1 Ne4 23.Rc2 a5 24.Qa3 Qd7 25.f3 Nxg3 26.Kxg3 g5 27.e4 Rh4 28.h3 Qa7 29.Qd6 Rch8 30.Rh2 dxe4 31.Qxc6 Kg6 32.Qxe4+ Kh6 33.Rhd2 Qb6 34.b3 Rf8 35.Rd6 Qc5 36.c4 a4 37.Qd5 Qe3 38.Qd2 Rxh3+ 39.Kxh3 Qxf3+ 40.Kh2 Rh8 41.Qd3 Qxg4 42.Rg1 Qf4+ 43.Kg2 e4 44.Qg3 Rb8 45.Rh1+ Kg6 46.Qxf4 gxf4 47.Re1 axb3 48.axb3 Kf5 49.Rd5+ Kg4 50.Rxe4 Rxb3 51.Rd2 Rc3 52.Kf2 g5 53.Red4 Rc1 54.Ke2 Kg3 55.R2d3+ Kg2 56.Kd2 Ra1 57.Rd6 f3 58.Rxf6 f2 59.Rdf3 Ra2+ 60.Ke3 Ra3+ 61.Ke2 Ra2+ 62.Ke3 Ra3+ 63.Ke2 Ra2+ 64.Ke3 Ra3+ 65.Ke2 Ra2+ 66.Kd3 Ra3+ 67.Ke2 1/2-1/2

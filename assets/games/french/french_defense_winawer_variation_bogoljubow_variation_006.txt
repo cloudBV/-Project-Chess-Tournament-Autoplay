@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "11.3"]
+[White "Sobol, Matvii"]
+[Black "Dobrowolski, Kamil"]
+[Result "1-0"]
+[WhiteElo "2431"]
+[BlackElo "2040"]
+[ECO "C17"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3 b6 8.h4 Ba6 9.Bxa6 Nxa6 10.h5 h6 11.Qe2 Nc7 12.Nf3 Qd7 13.a4 Nf5 14.g4 Nxd4 15.Bxd4 cxd4 16.Nxd4 Qe7 17.c3 Qc5 18.Rg1 Ke7 19.g5 hxg5 20.Rxg5 g6 21.O-O-O gxh5 22.Qf3 Ne8 23.Rxh5 Rxh5 24.Qxh5 Qc4 25.Qg5+ Kd7 26.Qf4 f5 27.exf6 Qxa4 28.f7 Nd6 29.f8=Q Rxf8 30.Qxf8 Qa1+ 31.Kc2 Qa4+ 32.Nb3 Qe4+ 33.Rd3 Qe2+ 34.Nd2 Ne4 35.Qf7+ Kd6 36.Qf4+ e5 37.Qxe4 1-0

@@ -1,0 +1,15 @@
+[Event "Round 1: Sagar, Shah - Bartholomew, John"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-1/W7ePJZtK/cdmPjBK2"]
+[Date "2026.07.05"]
+[Round "1.4"]
+[White "Sagar, Shah"]
+[Black "Bartholomew, John"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2416"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.d4 c6 5.O-O Ngf6 6.Nbd2 e6 7.Re1 Bd6 8.e4 dxe4 9.Nxe4 Nxe4 10.Rxe4 Nf6 11.Re1 O-O 12.c3 h6 13.Qb3 Bxf3 14.Bxf3 Qc7 15.a4 Rfe8 16.a5 a6 17.Be3 Nd5 18.Bd2 Rad8 19.c4 Nf6 20.Bc3 Nd7 21.Qc2 e5 22.c5 Bf8 23.b4 exd4 24.Bxd4 Ne5 25.Bxe5 Rxe5 26.Rxe5 Qxe5 27.Rd1 Rxd1+ 28.Qxd1 Qc3 29.Bh5 g6 30.Bg4 Qxb4 31.Qd7 Bxc5 32.Bf3 Qe1+ 33.Kg2 Qxf2+ 34.Kh3 Qxf3 35.Qe8+ Bf8 0-1

@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "3.4"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Durzynski, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2004"]
+[ECO "B29"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Advance Variation"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Bc4 e6 5.Nc3 Nb6 6.d3 Nc6 7.Bg5 Be7 8.Bxe7 Qxe7 9.Ne4 O-O 10.Qd2 Nxe5 11.Nxe5 d5 12.Qe3 dxc4 13.Qxc5 Qxc5 14.Nxc5 cxd3 15.Nexd3 Nd7 16.O-O-O Nxc5 17.Nxc5 b6 18.Nd7 Re8 19.Ne5 f6 20.Nc4 Ba6 21.Ne3 Rad8 22.b3 Kf7 23.Kb2 Bb7 24.c4 f5 25.f3 h5 26.Kc3 g5 27.Rhe1 f4 28.Nc2 g4 29.Rxd8 Rxd8 30.Nb4 gxf3 31.gxf3 Rg8 32.Nd3 Rg2 33.Nxf4 Rxh2 34.Nxe6 Kf6 35.b4 Bxf3 36.Nd4 Bb7 37.c5 bxc5 38.bxc5 Rxa2 39.c6 Bxc6 40.Nxc6 h4 1/2-1/2

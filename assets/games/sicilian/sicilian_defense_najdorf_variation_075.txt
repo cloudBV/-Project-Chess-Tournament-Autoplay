@@ -1,0 +1,14 @@
+[Event "Round 1: Magold, Filip - Sunyuktha C M N"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-1/9hUY5sN7/rRkhazvd"]
+[Date "2026.07.13"]
+[Round "1.9"]
+[White "Magold, Filip"]
+[Black "Sunyuktha C M N"]
+[Result "1-0"]
+[WhiteElo "2501"]
+[BlackElo "2159"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be7 8.Be3 Be6 9.Qd2 h5 10.Be2 a5 11.a4 O-O 12.Nd5 Nxd5 13.exd5 Bf5 14.O-O Nd7 15.Bb5 Nf6 16.Rad1 Bd7 17.Qd3 Bxb5 18.axb5 a4 19.Nd2 Qa5 20.Ra1 Nd7 21.c3 Rfc8 22.g4 e4 23.Nxe4 Ne5 24.Qe2 hxg4 25.fxg4 Rc4 26.Bd4 Qxb5 27.b3 Rxd4 28.Qxb5 Rxe4 29.Qxb7 Rxg4+ 30.Kh1 Re8 31.Rxa4 Rg6 32.Ra8 Rxa8 33.Qxa8+ Kh7 34.b4 Bf6 35.Qc8 Ng4 36.b5 Rg5 37.b6 Ne3 38.Qh3+ 1-0

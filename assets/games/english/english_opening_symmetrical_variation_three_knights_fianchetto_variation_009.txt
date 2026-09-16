@@ -1,0 +1,14 @@
+[Event "Round 4: Brozzi, Danilo - Lucchi, Alessandro"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-4/8RdQdxH9/f36qzQPi"]
+[Date "2026.07.08"]
+[Round "4.9"]
+[White "Brozzi, Danilo"]
+[Black "Lucchi, Alessandro"]
+[Result "1-0"]
+[WhiteElo "2249"]
+[BlackElo "2135"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.Nf3 c5 2.c4 g6 3.Nc3 Bg7 4.g3 Nc6 5.Bg2 d6 6.O-O Bf5 7.d3 Qd7 8.e4 Bg4 9.Qa4 Nf6 10.Be3 O-O 11.a3 Ne8 12.Rab1 Nc7 13.Nd5 Nxd5 14.exd5 Ne5 15.Qxd7 Nxd7 16.h3 Bxf3 17.Bxf3 b5 18.b4 bxc4 19.dxc4 Rab8 20.Rfc1 Rfc8 21.Bg4 f5 22.Be2 Rb7 23.Bd2 Rcb8 24.b5 a6 25.a4 axb5 26.cxb5 Nb6 27.a5 Nxd5 28.Bc4 e6 29.b6 Kf7 30.Kg2 Nxb6 31.Ba6 Ra7 32.Rxb6 Rxb6 33.axb6 Rxa6 34.Rb1 d5 35.b7 Be5 36.Bf4 1-0

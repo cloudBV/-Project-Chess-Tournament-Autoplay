@@ -1,0 +1,15 @@
+[Event "Round 7: Kauth, Lukas - Soucek, Jan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/fXiL5cxT"]
+[Date "2026.07.19"]
+[Round "7.18"]
+[White "Kauth, Lukas"]
+[Black "Soucek, Jan"]
+[Result "1-0"]
+[WhiteElo "2151"]
+[BlackElo "2324"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Bg4 10.c4 Nd7 11.Qc2 Nf8 12.h3 Bh5 13.Rfe1 Bg6 14.Rad1 Bxd3 15.Qxd3 g6 16.Nc3 Nd7 17.c5 Bf8 18.b4 a5 19.a3 axb4 20.axb4 b6 21.b5 Nb8 22.d5 cxb5 23.c6 Bb4 24.Qd4 Bc5 25.Qd2 Bb4 26.Qb2 Na6 27.Re2 Rc8 28.Nxb5 Rxc6 29.Qa1 Rc5 30.Qxa6 Rxd5 31.Rxd5 Qxd5 32.Qa4 Qd3 33.Nc3 Rc8 34.Qxb4 Qxc3 35.Qxc3 Rxc3 36.Bxb6 Rc6 37.Rb2 Kg7 38.Be3 Rd6 39.Rb6 Rd1+ 40.Kh2 h5 41.Bc5 Rd5 42.Rc6 g5 43.g3 Rf5 44.Bd4 Kg6 45.Kg2 Kg7 46.f4 gxf4 47.g4 hxg4 48.hxg4 f3+ 49.Kg3 f2 50.Bxf2 Rd5 51.Be1 Rd3+ 52.Kh4 Rf3 53.Bc3 Kg6 54.g5 Rf4+ 55.Kg3 Ra4 56.Bd2 Ra3+ 57.Kf2 Ra2 58.Rxf6+ Kg7 59.Rd6 Ra3 60.Be3 1-0

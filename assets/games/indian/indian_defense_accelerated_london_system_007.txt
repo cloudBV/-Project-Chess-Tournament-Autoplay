@@ -1,0 +1,15 @@
+[Event "Greek Chess Cup F4"]
+[Site "Patras, Greece"]
+[Date "2026.07.02"]
+[Round "1.3"]
+[White "Galopoulos, Nikolaos"]
+[Black "Alexakis, Dimitris"]
+[Result "0-1"]
+[WhiteElo "2426"]
+[BlackElo "2525"]
+[ECO "A45"]
+[TimeControl "90 minutes for 40 moves + 30 minutes + 30sec increment from first move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d6 3.Nc3 Nbd7 4.e4 e5 5.Be3 c6 6.g4 d5 7.exd5 Bb4 8.dxc6 bxc6 9.Bg2 O-O 10.Bxc6 Ba6 11.g5 Rc8 12.Bf3 exd4 13.Qxd4 Qa5 14.Bd2 Rc4 15.Qxa7 Bc5 16.Qxa6 Qxa6 17.gxf6 Qb6 18.O-O-O Ba3 19.bxa3 Rb8 20.Nb5 Qxb5 21.Bb4 Qg5+ 22.Rd2 Rbxb4 23.axb4 Rd4 0-1

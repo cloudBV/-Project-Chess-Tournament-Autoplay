@@ -1,0 +1,15 @@
+[Event "Round 6: Poltorak, Sebastian - Raahul V S"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-6/oAPnuQgO/ydMQzvdR"]
+[Date "2026.07.19"]
+[Round "6.1"]
+[White "Poltorak, Sebastian"]
+[Black "Raahul V S"]
+[Result "1/2-1/2"]
+[WhiteElo "2401"]
+[BlackElo "2402"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.exd5 Qxd5 6.Bc4 Qd7 7.Nb3 Nc6 8.Nbxd4 Bc5 9.Nxc6 Qxd1+ 10.Kxd1 bxc6 11.Ke2 Ne7 12.Be3 Bxe3 13.Kxe3 f6 14.Kd4 e5+ 15.Kc5 Bf5 16.c3 O-O-O 17.Rhe1 Kc7 18.Nd4 Rhe8 19.Nxf5 Nxf5 20.Rad1 Nd6 21.Bb3 Rb8 22.Ba4 Red8 23.b4 Rb6 24.f4 e4 25.Rd4 g5 26.Red1 Nb7+ 27.Kc4 Nd6+ 28.Kc5 Nb7+ 29.Kc4 Nd6+ 30.Kc5 Nb7+ 1/2-1/2

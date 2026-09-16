@@ -1,0 +1,14 @@
+[Event "Round 3: Maltsevskaya, Aleksandra - Celik, Hasan Huseyin"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/ScRzXEpH"]
+[Date "2026.07.05"]
+[Round "3.5"]
+[White "Maltsevskaya, Aleksandra"]
+[Black "Celik, Hasan Huseyin"]
+[Result "1/2-1/2"]
+[WhiteElo "2360"]
+[BlackElo "2490"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 e6 3.e5 d6 4.Bb2 dxe5 5.Bxe5 Nf6 6.Nf3 Nc6 7.Bb5 Bd7 8.Qe2 Nxe5 9.Nxe5 a6 10.Nxd7 Nxd7 11.Bd3 g6 12.O-O Bg7 13.c3 O-O 14.Na3 b5 15.Be4 Ra7 16.Nc2 Nf6 17.Bf3 Rd7 18.Rfd1 Nd5 19.Bxd5 Rxd5 20.a4 Qd7 21.axb5 axb5 22.Ne3 Rd3 23.Ra5 Rd8 24.c4 Rb8 25.cxb5 Rxb3 26.b6 R3xb6 27.Rxc5 h5 28.h4 Bd4 29.Rc4 Rb1 30.Rxb1 Rxb1+ 31.Kh2 Be5+ 32.g3 Qb7 33.Ng2 Bf6 34.Rf4 Kg7 35.Qf3 Qxf3 36.Rxf3 Bd4 37.Ne3 e5 38.Nc4 Rb4 39.Nd6 f5 40.Kg2 Bb2 41.Rd3 Kf6 42.Ne8+ Ke7 43.Nc7 Rb7 44.Nd5+ Ke6 45.Ne3 Bd4 46.Ra3 Rb2 47.Ra6+ Kf7 48.Nc4 Rc2 49.Rc6 Ra2 50.Kf1 Ra1+ 1/2-1/2

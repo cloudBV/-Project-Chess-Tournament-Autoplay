@@ -1,0 +1,15 @@
+[Event "Round 5: Nilsson, Patrik 1978 - Dingertz, Filip"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-5/pUKTxaHu/3X8mzr97"]
+[Date "2026.07.01"]
+[Round "5.2"]
+[White "Nilsson, Patrik 1978"]
+[Black "Dingertz, Filip"]
+[Result "1-0"]
+[WhiteElo "2155"]
+[BlackElo "2115"]
+[ECO "A45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nd2 Qb6 6.Qb3 c4 7.Qc2 g6 8.e4 Nxe4 9.Nxe4 Bf5 10.f3 Bxe4 11.fxe4 dxe4 12.Bxc4 Rc8 13.Qb3 Qxb3 14.Bxb3 h5 15.Nh3 Bg7 16.O-O e5 17.dxe5 Bxe5 18.Bxf7+ Kd7 19.Rad1+ Kc7 20.Bxg6 Bxf4 21.Nxf4 e3 22.Bxh5 Rcf8 23.Ne6+ Kb6 24.Rxf8 Rxh5 25.Nd4 Kc5 26.Nxc6 bxc6 27.Re8 a5 28.Rxe3 a4 29.b3 axb3 30.axb3 Rh8 31.Rf1 Ra8 32.Rf5+ Kb6 33.h4 Ra3 34.b4 Ra2 35.h5 c5 36.Re6+ Kc7 37.Rf7+ Kd8 38.Rg6 Ke8 39.Rb7 Kf8 40.h6 cxb4 41.h7 bxc3 42.Rg8# 1-0

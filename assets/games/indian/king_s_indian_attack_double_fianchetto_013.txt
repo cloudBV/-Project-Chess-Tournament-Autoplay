@@ -1,0 +1,14 @@
+[Event "Round 7: Khotenashvili, Bella - Gumularz, Szymon"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/JHhy5SkL"]
+[Date "2026.07.16"]
+[Round "7.1"]
+[White "Khotenashvili, Bella"]
+[Black "Gumularz, Szymon"]
+[Result "0-1"]
+[WhiteElo "2413"]
+[BlackElo "2618"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 c6 5.O-O Nf6 6.c4 dxc4 7.a4 Ne4 8.Nc3 Nd6 9.e4 Bg4 10.h3 Bxf3 11.Bxf3 O-O 12.Bg5 Qd7 13.Bg2 Na6 14.Qd2 c5 15.d5 Nb4 16.Bh6 Bxh6 17.Qxh6 e5 18.dxe6 Qxe6 19.Rad1 Rad8 20.Rd2 f6 21.Rfd1 Nf7 22.Qe3 b6 23.Nd5 Nxd5 24.Rxd5 Rxd5 25.Rxd5 Rd8 26.Qc3 Rxd5 27.exd5 Qe5 28.Qxc4 Qxb2 29.Qa6 Qd4 30.Qc8+ Kg7 31.Qb7 Qxa4 32.d6 Qd1+ 33.Kh2 Qxd6 34.Bd5 Qf8 35.Qxa7 Qe8 36.Qxb6 Qe7 37.Qb5 Qc7 38.Qa6 h5 39.h4 Qe7 40.Kg2 Nd6 41.Qc6 Ne8 42.Qc8 f5 43.Kf1 Nf6 44.Bc4 Qd6 45.Qb7+ Qd7 46.Qa8 f4 47.Qf3 Qd4 48.Qxf4 Qxf4 49.gxf4 Ne4 50.Ke2 Kf6 51.Ke3 Nd6 52.Bf1 Nf5+ 53.Ke4 Nxh4 54.Bh3 Nf5 55.Kd5 Nd4 56.Bc8 h4 57.Bg4 Ne6 58.Kc4 Nxf4 59.Kxc5 Ke5 60.Kc4 h3 0-1

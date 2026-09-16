@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-7/N0mFXvpc/p8jgzdXm"]
+[Date "2026.07.03"]
+[Round "7.12"]
+[White "Starke, Bruno Orlando"]
+[Black "Garcia Palermo, Carlos Horacio"]
+[Result "0-1"]
+[WhiteElo "2193"]
+[BlackElo "2396"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4 7.O-O O-O 8.Qc2 Re8 9.d3 h6 10.a3 Bf8 11.b4 c6 12.Ne4 Nh7 13.c5 d5 14.cxd6 f5 15.Nc5 Qxd6 16.Bb2 b6 17.Nb3 Bd7 18.Bg2 Rac8 19.f4 exf4 20.gxf4 Qe6 21.e4 c5 22.bxc5 Ba4 0-1

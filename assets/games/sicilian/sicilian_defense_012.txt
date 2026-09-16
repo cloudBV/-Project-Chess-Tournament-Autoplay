@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "3.12"]
+[White "Smolinski, Wojciech"]
+[Black "Pankiv, Maksym"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2410"]
+[ECO "B20"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 Nc6 3.d3 e6 4.f4 d5 5.Nf3 Bd6 6.c3 Nge7 7.O-O O-O 8.e5 Bc7 9.d4 cxd4 10.Bd3 f6 11.cxd4 Bd7 12.Nc3 Be8 13.Be3 Bg6 14.Bf2 Qe8 15.Be2 fxe5 16.fxe5 Nf5 17.g4 Nfe7 18.Qd2 Rd8 19.Rae1 Bb6 20.h3 Be4 21.Be3 Bxf3 22.Bxf3 Nxe5 23.Be2 N5c6 24.Rxf8+ Qxf8 25.Rf1 Qe8 26.Bf2 Ng6 27.Bf3 Qd7 28.h4 Rf8 29.Bh1 Qf7 30.Bg2 Qe7 31.h5 Nh4 32.Bh1 Qf6 33.Qe1 Nxd4 34.Nxd5 0-1

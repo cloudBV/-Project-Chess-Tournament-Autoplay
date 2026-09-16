@@ -1,0 +1,14 @@
+[Event "Round 5: Gopal G.N. - Acs, Peter"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/3ducKFjm"]
+[Date "2026.07.02"]
+[Round "5.1"]
+[White "Gopal G.N."]
+[Black "Acs, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2529"]
+[BlackElo "2561"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Ne7 8.Be3 O-O 9.Nc3 b5 10.f4 b4 11.Bxa7 Rxa7 12.Qe3 Nbc6 13.Ne2 Qc7 14.O-O Rd8 15.Kh1 a5 16.a4 bxa3 17.Rxa3 Nb4 18.Nc3 Ra8 19.Rfa1 Nec6 20.Nb5 Qb8 21.N5d4 Nxd4 22.Nxd4 Nxd3 23.cxd3 Qxb2 24.h3 Qb6 25.Nc2 Qc7 26.Qd2 Bb7 27.Rxa5 1/2-1/2

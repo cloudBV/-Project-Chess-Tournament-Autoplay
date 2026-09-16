@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "4.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2686"]
+[ECO "B90"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack, Anti-English"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5 9.Bg3 Bg7 10.Qd2 Nc6 11.Nb3 b5 12.h4 gxh4 13.Rxh4 Nge5 14.O-O-O Rb8 15.Nd4 Nxd4 16.Qxd4 Rg8 17.Bxe5 Bxe5 18.Qa7 Rg4 19.Rxg4 Bxg4 20.Be2 Bxe2 21.Nxe2 Qb6 22.Qxb6 Rxb6 23.Rh1 Bg7 24.b3 e6 25.Kd2 Rc6 26.Rh5 Kd7 27.Kd3 Rc8 28.f4 Ke7 29.b4 Kd7 30.c3 Kc6 31.g4 Rg8 32.g5 Rh8 33.Nd4+ Kd7 34.gxh6 Rxh6 35.Rxh6 Bxh6 36.f5 Bg7 37.fxe6+ fxe6 38.Nb3 Kc6 39.Nd4+ Kd7 40.Nb3 Kc6 41.Nd4+ Kd7 42.Nb3 Kc6 1/2-1/2

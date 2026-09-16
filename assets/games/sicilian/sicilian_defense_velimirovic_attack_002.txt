@@ -1,0 +1,15 @@
+[Event "Round 9: Pham Tran Gia Phuc - Efimov, Leonid"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-9/L65Z31Eb/w6oDBO3Z"]
+[Date "2026.07.24"]
+[Round "9.3"]
+[White "Pham Tran Gia Phuc"]
+[Black "Efimov, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2331"]
+[ECO "B89"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Velimirovic Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 Be7 8.Qe2 a6 9.O-O-O Qc7 10.Nxc6 Qxc6 11.Bd3 Nd7 12.f4 b5 13.e5 d5 14.Qf3 b4 15.Ne2 Nc5 16.Kb1 Nxd3 17.cxd3 b3 18.axb3 a5 19.Nd4 Qa6 20.Kc2 a4 21.Ra1 Bd7 22.Kd2 Qb7 23.Rhc1 O-O 24.Ke2 f6 25.Qg4 Ra6 26.Rc3 Bb4 27.Rcc1 Be7 28.Rc3 Bb4 29.Rcc1 1/2-1/2

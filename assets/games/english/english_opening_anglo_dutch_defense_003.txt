@@ -1,0 +1,15 @@
+[Event "Round 6: Koehler, Gerhard, Dr. - Farrand, Tom"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-6/rzZuj9bq/Va8S5LNI"]
+[Date "2026.07.04"]
+[Round "6.1"]
+[White "Koehler, Gerhard, Dr."]
+[Black "Farrand, Tom"]
+[Result "1/2-1/2"]
+[WhiteElo "2179"]
+[BlackElo "2077"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+
+1.c4 f5 2.g3 Nf6 3.Bg2 e6 4.Nc3 Bb4 5.Qb3 a5 6.a3 Bxc3 7.Qxc3 a4 8.d3 O-O 9.Nf3 Qe7 10.O-O d6 11.Qc2 Bd7 12.Bd2 Bc6 13.Rae1 Nbd7 14.e4 fxe4 15.dxe4 e5 16.Nh4 Nc5 17.Nf5 Qd7 18.f3 Kh8 19.Bb4 b6 20.Rd1 Rae8 21.Rf2 Qf7 22.Ne3 Qh5 23.Bxc5 bxc5 24.Rb1 Ra8 25.b4 axb3 26.Qxb3 Qf7 27.Ra2 Ra4 28.Nd5 g6 29.Rf1 Qd7 30.f4 Bxd5 31.exd5 e4 32.Re1 Raa8 33.Bxe4 Rfe8 34.Qc3 Qg7 35.Bf3 Rxe1+ 36.Qxe1 Nd7 37.Kg2 Qd4 38.Re2 Nf6 39.Re7 Rxa3 40.Qe6 Ra2+ 41.Kh3 Ng8 42.Re8 Qg7 43.Rxg8+ Qxg8 44.Qf6+ Qg7 45.Qd8+ Qg8 1/2-1/2

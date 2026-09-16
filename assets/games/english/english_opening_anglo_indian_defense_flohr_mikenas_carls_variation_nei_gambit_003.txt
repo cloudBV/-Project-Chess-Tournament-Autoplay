@@ -1,0 +1,14 @@
+[Event "Round 10: Kozak, Adam - Gloeckler, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/3Z6G9Cnu"]
+[Date "2026.07.02"]
+[Round "10.1"]
+[White "Kozak, Adam"]
+[Black "Gloeckler, Christian"]
+[Result "1-0"]
+[WhiteElo "2531"]
+[BlackElo "2506"]
+[ECO "A19"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.d4 cxd4 6.Qxd4 Nc6 7.Qf4 d6 8.Nf3 Nh6 9.Bd2 dxe5 10.Nxe5 Bd6 11.Nxc6 Bxf4 12.Nxd8 Bxd2+ 13.Kxd2 Kxd8 14.Rg1 Bd7 15.g4 Kc7 16.Bd3 Rad8 17.Ke3 Bc6 18.Rad1 Rhe8 19.g5 Ng8 20.Bxh7 Rxd1 21.Rxd1 Ne7 22.Be4 Rh8 23.Bxc6 Kxc6 24.Nb5 Nf5+ 25.Kf3 Kb6 26.Nd4 Ne7 27.Kg2 Ng6 28.Nf3 e5 29.Kg3 Kc7 30.h4 e4 31.Nd4 Rxh4 32.Nb5+ Kb6 33.b4 Ka6 34.Rd6+ b6 35.Rd7 Rg4+ 36.Kh2 Rh4+ 37.Kg1 Rg4+ 38.Kf1 1-0

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.10"]
+[Round "7.3"]
+[White "Mahir Taneja"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[WhiteElo "2318"]
+[BlackElo "2292"]
+[ECO "B42"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.O-O Ne7 8.c4 Nbc6 9.Nc3 O-O 10.Kh1 f5 11.f4 fxe4 12.Bxe4 Nf5 13.Bxf5 Rxf5 14.Ne4 d5 15.Ng3 Rf7 16.cxd5 Qxd5 1/2-1/2

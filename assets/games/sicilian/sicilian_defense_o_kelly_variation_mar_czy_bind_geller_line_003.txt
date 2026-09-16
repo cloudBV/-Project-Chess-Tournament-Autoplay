@@ -1,0 +1,15 @@
+[Event "Round 8: Herman Gamazo, Isaac - Alonso Moyano, Jonathan"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-8/Juvl8T5x/uJwdBPTj"]
+[Date "2026.07.10"]
+[Round "8.1"]
+[White "Herman Gamazo, Isaac"]
+[Black "Alonso Moyano, Jonathan"]
+[Result "1-0"]
+[WhiteElo "2094"]
+[BlackElo "2202"]
+[ECO "B32"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nc2 Bc5 7.Nc3 d6 8.Be3 Nge7 9.Be2 O-O 10.O-O Be6 11.h3 Bxe3 12.Nxe3 f5 13.exf5 Nxf5 14.Nxf5 Bxf5 15.Bf3 Kh8 16.b3 Rb8 17.Qd2 Nd4 18.Bd5 b5 19.Ne2 Nxe2+ 20.Qxe2 Qg5 21.Kh1 Rf6 22.Qe3 Qh4 23.f4 Rbf8 24.fxe5 dxe5 25.Rf3 bxc4 26.bxc4 e4 27.Rf4 Qh6 28.Qg3 g5 29.Rff1 Qg7 30.Rae1 Bg6 31.Rxf6 Qxf6 32.Bxe4 Re8 33.Bxg6 Rxe1+ 34.Qxe1 hxg6 35.c5 Kh7 36.Qe4 Qa1+ 37.Kh2 Qxa2 38.c6 Qf7 39.Qe5 Kh6 40.Qh8+ 1-0

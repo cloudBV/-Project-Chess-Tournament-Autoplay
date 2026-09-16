@@ -1,0 +1,15 @@
+[Event "Round 6: Titus, Andrew - Venkatesh, Narayan"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-6/JihCbeVE/8llsFNX1"]
+[Date "2026.07.02"]
+[Round "6.1"]
+[White "Titus, Andrew"]
+[Black "Venkatesh, Narayan"]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2270"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.exd5 Qxd5 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Qxd4 Qxd4 11.Nxd4 Bc5 12.Nb3 Bb6 13.Re1 Bd7 14.Be3 Bxe3 15.Rxe3 O-O 16.Nd4 Rac8 17.Bf1 Rfd8 18.c4 Bc6 19.Rd1 Be4 20.Ree1 a6 21.f3 e5 22.Ne2 Bc6 23.Nc3 Rxd1 24.Rxd1 e4 25.fxe4 Nxe4 26.Nxe4 Bxe4 27.Kf2 f5 28.Rd7 Bc6 29.Rd6 Kf7 30.c5 Be4 31.b4 Ke7 32.Bd3 Bc6 33.Ke3 g6 34.g3 Kf7 35.Kd4 Rc7 36.Bc4+ Kg7 37.a3 Kh6 38.Bd5 Bxd5 39.Rxd5 Kg5 40.h3 h5 41.a4 h4 42.g4 Kf4 43.gxf5 gxf5 44.b5 axb5 45.axb5 Kg3 46.Rxf5 Kxh3 47.Rg5 Kh2 48.c6 bxc6 49.b6 Rf7 50.Kc5 h3 51.Kxc6 Kh1 52.b7 Rxb7 53.Kxb7 h2 54.Ka8 1/2-1/2

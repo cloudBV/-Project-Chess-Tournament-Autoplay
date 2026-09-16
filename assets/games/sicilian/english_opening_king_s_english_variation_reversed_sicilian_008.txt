@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "2.7"]
+[White "Wnuk, Piotr"]
+[Black "Sawicki, Dorian"]
+[Result "0-1"]
+[WhiteElo "2054"]
+[BlackElo "2278"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 f5 3.d4 e4 4.h4 Nf6 5.Nh3 Be7 6.Bg5 O-O 7.e3 c6 8.Nf4 Ng4 9.Bxe7 Qxe7 10.Be2 Nh6 11.Qc2 d6 12.g4 fxg4 13.Qxe4 Qf6 14.Qc2 Bf5 15.Bd3 Nd7 16.O-O-O a6 17.Rdg1 Rae8 18.Ne4 Qe7 19.Ng5 g6 20.e4 Bxe4 21.Bxe4 Rxf4 22.Bxg6 Ref8 23.Bxh7+ Kh8 24.Re1 Qg7 25.Re2 g3 26.f3 Rxh4 27.Nh3 Qxh7 28.Qxh7+ Kxh7 29.Ng5+ Kg6 30.Rxh4 Kxg5 31.Rh3 Rxf3 0-1

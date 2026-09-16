@@ -1,0 +1,14 @@
+[Event "Round 10: Gloeckler, Christian - Xu, Chang(CQ)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-10/fuSt1AT1/3uVh0Exv"]
+[Date "2026.07.19"]
+[Round "10.11"]
+[White "Gloeckler, Christian"]
+[Black "Xu, Chang(CQ)"]
+[Result "1-0"]
+[WhiteElo "2513"]
+[BlackElo "2049"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Qc7 8.a4 Be7 9.Be2 O-O 10.O-O h6 11.a5 Be6 12.Nd5 Nxd5 13.exd5 Bc8 14.Bb6 Qd7 15.c4 f5 16.b4 Bf6 17.Rc1 Qe7 18.c5 Nd7 19.Bc7 dxc5 20.bxc5 Re8 21.c6 bxc6 22.dxc6 Nf8 23.Bd6 Qf7 24.c7 Ng6 25.Re1 Nf4 26.Bc4 Be6 27.Bxe6 Qxe6 28.Bxe5 Bxe5 29.Rxe5 Qc8 30.g3 Ne6 31.Qd5 Kh8 32.Rxe6 Rxe6 33.Qxa8 Qxa8 34.c8=Q+ Qxc8 35.Rxc8+ Kh7 36.Rc5 g6 37.Ne5 Kg7 38.Rc7+ Kf8 39.f4 g5 40.Rc6 Rxc6 41.Nxc6 g4 42.Nb4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 3: Arrieta Hernandez, Cristian - Londono Lopez, Donaldo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-3/A0Ql119B/XDcuSen9"]
+[Date "2026.07.11"]
+[Round "3.1"]
+[White "Arrieta Hernandez, Cristian"]
+[Black "Londono Lopez, Donaldo"]
+[Result "1-0"]
+[WhiteElo "2464"]
+[BlackElo "2106"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.a3 d5 4.e3 Be7 5.Nc3 O-O 6.d4 Nbd7 7.c5 Re8 8.b4 c6 9.Bd3 a5 10.Bb2 Nf8 11.Ne5 axb4 12.axb4 Rxa1 13.Qxa1 N6d7 14.Nxd7 Nxd7 15.Ne2 f6 16.O-O Qc7 17.f4 Bf8 18.b5 g6 19.b6 Qd8 20.Qb1 Bg7 21.h4 e5 22.h5 e4 23.Bc2 gxh5 24.f5 Bh6 25.Nf4 Kh8 26.Qe1 Rg8 27.Ne6 Qe7 28.Nf4 Rg5 29.Nh3 Rg4 30.Bd1 Rg8 31.Bxh5 Qg7 32.g4 Nf8 33.Kh2 Bd7 34.Rg1 Bg5 35.Bc1 Qh6 36.Qf2 Qg7 37.Bd2 Qe7 38.Be1 Be8 39.Bxe8 Qxe8 40.Nxg5 fxg5 41.Qg3 Rg7 42.Qd6 Nd7 43.Bg3 Qf7 44.Ra1 Rg8 45.Ra7 Nf6 46.Be5 1-0

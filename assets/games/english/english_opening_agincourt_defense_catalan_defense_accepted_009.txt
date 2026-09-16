@@ -1,0 +1,14 @@
+[Event "Round 4: Anagnostopoulos, Panagiotis - Pitsakis, Ilias"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/Tj3kpg3S"]
+[Date "2026.07.07"]
+[Round "4.49"]
+[White "Anagnostopoulos, Panagiotis"]
+[Black "Pitsakis, Ilias"]
+[Result "1-0"]
+[WhiteElo "2058"]
+[BlackElo "2028"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.c4 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Nc3 Bc6 8.O-O Nbd7 9.e4 b5 10.Qe2 b4 11.e5 bxc3 12.exf6 cxb2 13.Bxb2 Nxf6 14.Bxf6 gxf6 15.Nh4 Bxg2 16.Nxg2 Be7 17.Rab1 Qd7 18.d4 cxd4 19.Qg4 Bc5 20.Qf3 O-O 21.Qxf6 Qe7 22.Qf3 Rad8 23.Nf4 Bb6 24.Rb5 e5 25.Re1 f6 26.a4 Qd6 27.Qg4+ Kh8 28.Ne6 Rg8 29.Nxd8 Rxd8 30.Qf3 a6 31.Rd5 Qxd5 32.Qxf6+ Kg8 33.Rxe5 Qxe5 34.Qxe5 Kf7 35.a5 1-0

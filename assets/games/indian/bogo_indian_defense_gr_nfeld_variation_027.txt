@@ -1,0 +1,14 @@
+[Event "Round 8: Thaler, Anton - Rueetschi, Urs"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-8/JGg5v7xk/PQaqwyli"]
+[Date "2026.07.18"]
+[Round "8.4"]
+[White "Thaler, Anton"]
+[Black "Rueetschi, Urs"]
+[Result "0-1"]
+[WhiteElo "2100"]
+[BlackElo "2268"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d6 7.Be2 Nbd7 8.O-O e5 9.b4 c5 10.d5 Ne8 11.Qc2 g6 12.Bd3 Ng7 13.Nb3 b6 14.Bh6 Nf6 15.h3 Nfh5 16.g4 Nf4 17.Kh2 f6 18.Rab1 Rf7 19.Qd2 g5 20.Bxg7 Rxg7 21.Rh1 h5 22.Kg3 Rh7 23.gxh5 Rxh5 24.h4 Qd7 0-1

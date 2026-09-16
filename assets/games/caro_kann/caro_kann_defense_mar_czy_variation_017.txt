@@ -1,0 +1,14 @@
+[Event "Round 5: Cervelli, Eduard - Al Ibrahim, Abdulrahman"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/HLyknG0R"]
+[Date "2026.07.17"]
+[Round "5.25"]
+[White "Cervelli, Eduard"]
+[Black "Al Ibrahim, Abdulrahman"]
+[Result "1-0"]
+[WhiteElo "2197"]
+[BlackElo "2016"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 Qb6 4.Nc3 dxe4 5.fxe4 e5 6.Nf3 exd4 7.Nxd4 h5 8.Be2 Bg4 9.Bxg4 hxg4 10.Qd3 Nd7 11.Bf4 Bc5 12.Nf5 g6 13.Ng7+ Ke7 14.O-O-O Kf8 15.Ne6+ fxe6 16.Qxd7 1-0

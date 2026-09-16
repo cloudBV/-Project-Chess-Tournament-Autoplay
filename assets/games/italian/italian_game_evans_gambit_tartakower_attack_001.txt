@@ -1,0 +1,15 @@
+[Event "Round 7: Pham Tran Gia Phuc - Fedosov, Alexander"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-7/0HMZweox/gkOeFA2A"]
+[Date "2026.07.22"]
+[Round "7.3"]
+[White "Pham Tran Gia Phuc"]
+[Black "Fedosov, Alexander"]
+[Result "1-0"]
+[WhiteElo "2452"]
+[BlackElo "2306"]
+[ECO "C52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Evans Gambit, Tartakower Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3 Nxd4 8.Nxd4 exd4 9.Bxf7+ Kf8 10.O-O dxc3 11.Nxc3 Nf6 12.Bb2 c6 13.e5 d5 14.e6 Bc7 15.Ne2 Qd6 16.Qh3 Qe7 17.Nd4 c5 18.Nf5 Bxe6 19.Bxe6 Qxe6 20.Rae1 Qb6 21.Re7 Qxb2 22.Rxc7 Ne8 23.Rxc5 Qe5 24.Qa3 Kf7 25.Qb3 Nf6 26.Qxb7+ Kg6 27.Qxg7+ Kxf5 28.Rc6 Raf8 29.f4 Qd4+ 30.Kh1 Qd2 31.Qg5+ 1-0

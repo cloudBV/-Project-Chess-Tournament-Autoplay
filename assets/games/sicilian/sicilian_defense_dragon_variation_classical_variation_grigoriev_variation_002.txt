@@ -1,0 +1,15 @@
+[Event "Round 1: Gunduz, Umut Erdem - Annaberdiyev, Meylis"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/CKQKKQzL"]
+[Date "2026.07.13"]
+[Round "1.5"]
+[White "Gunduz, Umut Erdem"]
+[Black "Annaberdiyev, Meylis"]
+[Result "1/2-1/2"]
+[WhiteElo "2206"]
+[BlackElo "2427"]
+[ECO "B72"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation, Grigoriev Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.Be2 Bg7 8.Qd2 O-O 9.O-O-O Nxd4 10.Bxd4 Be6 11.Kb1 Qa5 12.Bxf6 exf6 13.Nd5 Qa4 14.c4 Bxd5 15.Qxd5 Rfe8 16.Bd3 Qb4 17.Qb5 Qc5 18.Qxc5 dxc5 19.Rhe1 Rad8 20.Bc2 Rxd1+ 21.Rxd1 f5 22.exf5 Bd4 23.Bd3 Bxf2 24.Kc2 Bd4 25.b3 Kg7 26.Rd2 Re1 27.Rd1 Re5 28.fxg6 hxg6 29.Rd2 Rh5 30.h3 Re5 31.Be2 b6 32.Bf3 Re1 33.Rd1 Re7 34.Rd2 f5 35.Re2 Be5 36.Rd2 Kf6 37.Re2 Kg5 38.Bd5 Kf6 39.Bf3 Re8 40.Rd2 Bd4 41.Re2 Rh8 42.Bd5 Be5 43.Bf3 Rh4 44.Rd2 Bd4 45.Re2 Be5 46.Rd2 1/2-1/2

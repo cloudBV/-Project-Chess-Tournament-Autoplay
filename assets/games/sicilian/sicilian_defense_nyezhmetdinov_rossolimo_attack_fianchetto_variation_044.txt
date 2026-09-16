@@ -1,0 +1,15 @@
+[Event "Round 9: Casalaspro, Mathias Andre - Martinez Duany, Lelys Stanley"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-9/Ha7f1xuO/FBwcawMa"]
+[Date "2026.07.11"]
+[Round "9.9"]
+[White "Casalaspro, Mathias Andre"]
+[Black "Martinez Duany, Lelys Stanley"]
+[Result "0-1"]
+[WhiteElo "2340"]
+[BlackElo "2438"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.d3 d6 6.Bxc6+ bxc6 7.e5 dxe5 8.Qe1 f6 9.Be3 Nh6 10.Bxc5 O-O 11.Nc3 Re8 12.Qe4 Qd7 13.Rfe1 Nf7 14.Qc4 Qe6 15.Qa4 Qd7 16.Rad1 f5 17.Re2 Rb8 18.b3 Rb6 19.Bxb6 axb6 20.Ree1 b5 21.Qa5 Qd6 22.Nb1 g5 23.Nfd2 Bd7 24.Nf1 h5 25.Qd2 g4 26.Qe2 Ng5 27.h4 Ne6 28.Qd2 c5 29.Ng3 Nf4 30.Ne2 Bc6 31.Nxf4 exf4 32.Qe2 e5 33.Nd2 Qd8 34.f3 e4 35.Nxe4 Bd4+ 36.Kf1 Qxh4 37.Nf6+ Qxf6 38.Qd2 Be3 0-1

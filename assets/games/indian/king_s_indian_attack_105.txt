@@ -1,0 +1,15 @@
+[Event "Round 5: Wang, Yinuo(LN) - Nguyen, Manh Duc"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-5/xJC51h4A/n0GHd4Rx"]
+[Date "2026.07.19"]
+[Round "5.14"]
+[White "Wang, Yinuo(LN)"]
+[Black "Nguyen, Manh Duc"]
+[Result "1/2-1/2"]
+[WhiteElo "2136"]
+[BlackElo "2236"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Ngf6 4.Bg2 Nb6 5.Nc3 Bf5 6.Nh4 Bg6 7.Nxg6 hxg6 8.e4 e6 9.exd5 exd5 10.Bg5 Be7 11.Qd3 Qd7 12.h4 O-O 13.O-O-O Rfe8 14.Bh3 Qc6 15.Qb5 a5 16.Bg2 Bb4 17.Qxc6 bxc6 18.Bxf6 gxf6 19.Rd3 Nc4 20.Nxd5 cxd5 21.Bxd5 Nb6 22.Bxa8 Rxa8 23.h5 a4 24.hxg6 fxg6 25.g4 Bd6 26.Rdh3 Kf7 27.Rh7+ Ke6 28.Re1+ Kd5 29.c3 Nc4 30.Kc2 Rb8 31.Reh1 1/2-1/2

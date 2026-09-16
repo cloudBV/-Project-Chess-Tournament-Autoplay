@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.21"]
+[Round "5.1"]
+[White "Pechac, Jergus"]
+[Black "Babula, Vlastimil"]
+[Result "1-0"]
+[WhiteElo "2563"]
+[BlackElo "2511"]
+[ECO "A20"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Bc5 4.Nc3 d6 5.e3 a6 6.d4 Ba7 7.Nge2 O-O 8.O-O Nc6 9.h3 h6 10.b3 Re8 11.dxe5 dxe5 12.Bb2 Bf5 13.Nd5 Ne4 14.Kh2 Nc5 15.f3 Ne6 16.g4 Bg6 17.f4 exf4 18.exf4 Qd6 19.b4 f5 20.c5 Qf8 21.Qc2 Rad8 22.Rad1 Rxd5 23.Bxd5 Nxb4 24.Bxe6+ Rxe6 25.Qc4 Bf7 26.Nd4 Rb6 27.Qc3 Nd5 28.cxb6 Nxc3 29.bxa7 Nxd1 30.Rxd1 Qa8 31.Nxf5 Qxa7 32.Rd8+ Kh7 33.Bd4 c5 34.Bxg7 Bxa2 35.Be5 Kg6 36.Rd7 1-0

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.3"]
+[White "Povshednyi, Ivan"]
+[Black "Petkov, Momchil"]
+[Result "1/2-1/2"]
+[WhiteElo "2393"]
+[BlackElo "2528"]
+[ECO "E73"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 Na6 7.h3 e5 8.d5 Nc5 9.Qc2 a5 10.Nf3 b6 11.g4 Bd7 12.O-O-O a4 13.a3 c6 14.dxc6 Bxc6 15.Bd3 Qb8 16.Kb1 Rc8 17.Ka2 Qb7 18.Bxc5 bxc5 19.Nd2 Nd7 20.Nb5 Qb8 21.Be2 Nf8 22.Nb1 Ne6 23.N1c3 Nd4 24.Qd3 Ra6 25.g5 Rb6 26.Rc1 h5 27.h4 Qa8 28.f3 Rcb8 29.Qd1 Bf8 30.Bd3 Ra6 31.Rh2 Rb7 32.Kb1 Ra5 33.Qf1 Qb8 34.Rf2 Qd8 35.Rg2 Ra8 36.Rd1 Qa5 37.Rc1 Qd8 38.Rd1 Qd7 39.Rf2 Bg7 40.Rc1 Qe6 41.Rd1 Rab8 42.Rc1 Ra8 43.Rd1 Bf8 44.Rc1 Qd7 45.Rd1 Qd8 46.Rc1 Bg7 47.Rd1 Qb8 48.Rc1 Bf8 49.Rd1 Be7 50.Rc1 Bd8 51.Nxd4 cxd4 52.Nb5 Bb6 53.f4 exf4 54.Rxf4 Bc5 55.Rf6 Qe8 56.Qf4 Rab8 57.Ka1 Bd7 58.Rf1 Be6 59.e5 Bh3 60.Re1 Re7 1/2-1/2

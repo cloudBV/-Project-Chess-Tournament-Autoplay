@@ -1,0 +1,15 @@
+[Event "Round 3: Coppola, Claudio - Ocampos, Ian"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-3/TMdKWHt0/NTjN4FoO"]
+[Date "2026.07.22"]
+[Round "3.5"]
+[White "Coppola, Claudio"]
+[Black "Ocampos, Ian"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2325"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Anti-Alapin Gambit"]
+
+1.e4 c5 2.c3 d5 3.exd5 Nf6 4.Bb5+ Nbd7 5.c4 g6 6.Nc3 Bg7 7.Nf3 O-O 8.d3 a6 9.Bxd7 Bxd7 10.O-O e6 11.Be3 Qc7 12.h3 exd5 13.cxd5 Qd6 14.d4 c4 15.Nd2 Rac8 16.Qf3 Bf5 17.Bf4 Qb6 18.Be5 Qxb2 19.Rfd1 Bc2 20.Rdc1 Bd3 21.Bxf6 Qxd2 22.d6 Rcd8 23.Bxd8 Rxd8 24.Qe3 Qxe3 25.fxe3 Rxd6 26.Na4 b5 27.Nc5 Rxd4 28.exd4 Bxd4+ 29.Kh1 Bxc5 30.Re1 Ba3 31.Re8+ Kg7 32.Rd1 Bf5 33.g4 Be6 34.g5 h6 35.h4 hxg5 36.hxg5 Bb2 37.Rdd8 b4 38.Rh8 f6 39.Rhe8 Bf7 40.Re7 fxg5 41.Rdd7 Kf6 42.Rxf7+ Ke5 43.Rfe7+ Kf5 44.Ra7 c3 45.Re2 Bc1 46.Rxa6 Bd2 47.Rxd2 cxd2 48.Rd6 1-0

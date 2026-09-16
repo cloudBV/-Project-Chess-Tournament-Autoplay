@@ -1,0 +1,15 @@
+[Event "Round 9: Ronneland, Daniel - Liden, Tommy"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-9/YdJ04lmV/Qc0M5tpi"]
+[Date "2026.07.01"]
+[Round "9.4"]
+[White "Ronneland, Daniel"]
+[Black "Liden, Tommy"]
+[Result "1-0"]
+[WhiteElo "2104"]
+[BlackElo "2135"]
+[ECO "B94"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 Qb6 8.Bb3 e6 9.Qd2 Be7 10.O-O-O Nc5 11.Rhe1 Qc7 12.f4 h6 13.Bh4 Nfxe4 14.Nxe4 Bxh4 15.g3 Be7 16.f5 Nxe4 17.Rxe4 Bg5 18.Rf4 e5 19.Kb1 Bxf4 20.gxf4 exd4 21.Qxd4 O-O 22.Rg1 g6 23.Rxg6+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 1: Van t Hoff, Tom - Dovgaliuk, Oleksandr"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/57PpeQmk"]
+[Date "2026.07.21"]
+[Round "1.24"]
+[White "Van t Hoff, Tom"]
+[Black "Dovgaliuk, Oleksandr"]
+[Result "0-1"]
+[WhiteElo "2056"]
+[BlackElo "2305"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.Nf3 Bg7 3.d4 d6 4.Nc3 Nc6 5.g3 e5 6.dxe5 dxe5 7.Bg5 f6 8.Qxd8+ Nxd8 9.Bd2 c6 10.O-O-O Nf7 11.h3 Be6 12.e4 O-O-O 13.Be3 Bh6 14.Rxd8+ Kxd8 15.Bxh6 Ngxh6 16.Be2 Ke7 17.Nd2 f5 18.f3 Ng8 19.exf5 gxf5 20.f4 exf4 21.gxf4 Kf6 22.Nf3 Ne7 23.Nd4 Ng6 24.Rf1 Rd8 25.Nc2 Nh4 26.Rg1 Nh8 27.Rf1 Rg8 28.Nd4 Bf7 29.Nf3 Nxf3 30.Rxf3 Ng6 31.Kd2 Nh4 32.Rd3 Ng2 33.Rd7 Rb8 34.Rd4 c5 35.Nd5+ Bxd5 36.Rxd5 Nxf4 37.Rxc5 Rd8+ 38.Ke3 Nxh3 39.Rc7 f4+ 40.Kf3 Ng5+ 41.Kg4 Rd2 42.Rc5 h5+ 43.Kh4 Rxe2 44.Ra5 Rh2# 0-1

@@ -1,0 +1,14 @@
+[Event "Round 1: Unuk, Laura - Frederiks, Jesse"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/0eMlPoBe"]
+[Date "2026.07.21"]
+[Round "1.25"]
+[White "Unuk, Laura"]
+[Black "Frederiks, Jesse"]
+[Result "1-0"]
+[WhiteElo "2301"]
+[BlackElo "2043"]
+[ECO "E17"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Polugaevsky Gambit"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d5 exd5 8.Nh4 c6 9.cxd5 Nxd5 10.Nf5 Nc7 11.Re1 d5 12.e4 Bf6 13.Nc3 Bc8 14.Qf3 Re8 15.Bf4 Nba6 16.Nd6 Rf8 17.exd5 Nxd5 18.Nxd5 cxd5 19.Qxd5 Be6 20.Qxa8 Qxa8 21.Bxa8 Rxa8 22.Be5 Bxe5 23.Rxe5 Nc5 24.Nb5 Bd7 25.Nc3 Bg4 26.Rae1 Kf8 27.Rd5 Bf3 28.Rd6 g5 29.h3 h5 30.Re3 g4 31.Rh6 Kg7 32.Rxh5 Kg6 33.hxg4 Bxg4 34.Rd5 Be6 35.Rd4 1-0

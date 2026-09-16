@@ -1,0 +1,14 @@
+[Event "Round 2: Lampart, Alfons - Tureshbayev, Anuar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-biel-hospital-centertri-rapid/round-2/7fcmJ6nf/npJcwm3A"]
+[Date "2026.07.21"]
+[Round "2.1"]
+[White "Lampart, Alfons"]
+[Black "Tureshbayev, Anuar"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2246"]
+[ECO "E51"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Sämisch Deferred"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.O-O Qc7 10.Qe2 Nbd7 11.Bb2 e5 12.h3 b6 13.Rfd1 Bb7 14.Ba2 Rac8 15.Rac1 c4 16.Bb1 e4 17.Nd2 b5 18.Nf1 Nb6 19.Ng3 Na4 20.Ba1 Qd6 21.Rd2 Qxa3 22.Bb2 Nxb2 23.Rxb2 a6 24.Qd2 Qd6 25.Qe2 g6 26.Qd2 Rfe8 27.Ne2 Nd5 28.Ng3 f5 29.Qe2 Bc6 30.Ra2 Bd7 31.Ra1 0-1

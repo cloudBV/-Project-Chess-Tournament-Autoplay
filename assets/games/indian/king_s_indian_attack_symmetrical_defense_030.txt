@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.28"]
+[White "Torres Rebolledo, Victor"]
+[Black "Gallardo Retortillo, Enrique"]
+[Result "1-0"]
+[WhiteElo "2234"]
+[BlackElo "2046"]
+[ECO "A05"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 O-O 5.O-O d6 6.d4 Nc6 7.d5 Na5 8.Nfd2 c5 9.Nc3 a6 10.Qc2 Rb8 11.b3 b5 12.Bb2 bxc4 13.bxc4 e5 14.e4 Nh5 15.Nd1 Bh6 16.Bc3 Bd7 17.Qd3 f5 18.f4 exf4 19.e5 dxe5 20.Bxe5 fxg3 21.Bxb8 Qxb8 22.hxg3 Nxg3 23.Re1 Bg7 24.Rb1 Bd4+ 25.Qxd4 cxd4 26.Rxb8 Rxb8 27.c5 Re8 28.Rxe8+ Bxe8 29.Kf2 f4 30.c6 Kf8 31.Nb2 Ke7 32.Nd3 g5 33.Nc5 Nf5 34.Nb7 Nxc6 35.dxc6 Bxc6 36.Bxc6 g4 37.Be4 Ne3 38.Bxh7 Nd1+ 39.Kg1 Nc3 40.a3 Nb5 41.a4 Nc3 42.a5 Kd7 43.Bd3 Kc6 44.Bxa6 d3 45.Nd8+ Kc7 46.Ne6+ Kb8 47.Nxf4 Na4 48.Nxd3 Ka7 49.Bc4 Nc3 50.Kf2 g3+ 51.Kxg3 Ne2+ 52.Kf2 Nd4 53.Nb4 Nf5 54.Ne4 Ne7 55.Ke3 1-0

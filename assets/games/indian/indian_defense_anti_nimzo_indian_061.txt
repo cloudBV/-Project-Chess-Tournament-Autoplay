@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.24"]
+[Round "9.4"]
+[White "Xu, Xiangyu"]
+[Black "Zhu, Jiner"]
+[Result "1-0"]
+[WhiteElo "2552"]
+[BlackElo "2415"]
+[ECO "E10"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.Nc3 cxd4 5.Nxd4 a6 6.e4 Qc7 7.a3 Be7 8.Be3 O-O 9.g4 d5 10.exd5 exd5 11.g5 Ng4 12.Nxd5 Qd8 13.h4 Nxe3 14.fxe3 Bd6 15.Bd3 Bg3+ 16.Kd2 Be5 17.Qf3 Nd7 18.Qe4 g6 19.h5 Bxd4 20.Qxd4 Qxg5 21.hxg6 fxg6 22.Bxg6 Rf2+ 23.Kc3 hxg6 24.Rh8+ Kf7 25.Rh7+ Ke8 26.Nc7+ Kd8 27.Ne6+ 1-0

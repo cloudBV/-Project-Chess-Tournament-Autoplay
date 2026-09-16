@@ -1,0 +1,15 @@
+[Event "Round 6: Cerny, Michal - Seidl, Jan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/VcYqO3aA"]
+[Date "2026.07.19"]
+[Round "6.23"]
+[White "Cerny, Michal"]
+[Black "Seidl, Jan"]
+[Result "0-1"]
+[WhiteElo "2115"]
+[BlackElo "2303"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Kh1 Nc6 10.f4 Re8 11.a4 h6 12.Be3 exf4 13.Rxf4 Bf8 14.a5 Ne5 15.Bb6 Qe7 16.Nd4 Ng6 17.Rxf6 Qxf6 18.Nd5 Qe5 19.Nc7 Bd7 20.Bc4 Rac8 21.Bd5 Re7 22.Bxb7 Rxc7 23.Bxc7 Bh3 24.Nf3 Qb5 25.Bxd6 Rxb7 26.Bxf8 Nxf8 27.gxh3 Qxb2 28.Ra4 Qc3 29.Qd3 Qc6 30.Ra1 Re7 31.Re1 Ne6 32.c4 Qc5 33.Qd5 Qf2 34.Qd3 Nf4 35.Qf1 Qc5 36.Nh4 Qxa5 37.Nf5 Re8 38.Qg1 Ng6 39.h4 Qc3 40.Qg3 Qxg3 41.hxg3 Ne5 42.Nd6 Rd8 43.Nb7 Rd2 44.Rf1 Nxc4 45.Ra1 Rb2 46.Nc5 a5 47.Ra4 Rb4 48.Kg2 Rxa4 49.Nxa4 f6 50.Kf3 Kf7 51.Ke2 Ne5 52.Nc5 h5 53.Ke3 g5 54.Kf2 Ke7 55.Kg2 Nc4 56.g4 hxg4 57.hxg5 fxg5 58.Kg3 Kd6 59.Nb7+ Ke5 60.Kxg4 a4 61.Nc5 a3 62.Nd3+ Kxe4 63.Nc1 Ne5+ 64.Kxg5 Nd3 65.Na2 Kd4 66.Kf5 Kc4 67.Ke4 Nc5+ 0-1

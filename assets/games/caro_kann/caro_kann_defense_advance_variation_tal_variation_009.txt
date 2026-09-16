@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/b0RVPJ05"]
+[Date "2026.07.04"]
+[Round "8.18"]
+[White "Nimay Agrawal"]
+[Black "Kucewicz, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2243"]
+[BlackElo "2044"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bg5 Qb6 6.Bd3 Qxd4 7.Nf3 Qg4 8.Bxf5 Qxf5 9.O-O Qd7 10.Re1 e6 11.c4 Be7 12.Nc3 Nh6 13.Nd4 Ng4 14.Qd2 dxc4 15.Rad1 Na6 16.f3 Nh6 17.Qf4 Qc7 18.Ne4 O-O-O 19.Bxe7 Qxe7 20.Nd6+ Kb8 21.Nxc6+ bxc6 22.Qxc4 Nf5 23.Nxf5 exf5 24.Qxa6 Rxd1 25.Rxd1 Rd8 26.Rc1 Qxh4 27.Qe2 Qd4+ 28.Kf1 Kb7 29.e6 fxe6 30.Qxe6 Qd3+ 31.Kg1 Qd4+ 32.Kf1 Qd3+ 33.Kg1 Qd4+ 1/2-1/2

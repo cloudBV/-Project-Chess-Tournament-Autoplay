@@ -1,0 +1,15 @@
+[Event "Round 10: Stenman, Christoffer - Malm Lindberg, Henrik"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-10/4rqvbItp/27h8jjbY"]
+[Date "2026.07.01"]
+[Round "10.6"]
+[White "Stenman, Christoffer"]
+[Black "Malm Lindberg, Henrik"]
+[Result "0-1"]
+[WhiteElo "2012"]
+[BlackElo "2141"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Wing Gambit"]
+
+1.e4 c5 2.b4 cxb4 3.d4 e6 4.Nf3 d6 5.Bd3 Nf6 6.O-O Nc6 7.a3 bxa3 8.Nxa3 Be7 9.Re1 O-O 10.c3 b6 11.Bg5 Bb7 12.Qe2 g6 13.Rad1 Re8 14.e5 dxe5 15.Bxf6 Bxf6 16.dxe5 Be7 17.Nb5 Qb8 18.h4 Rd8 19.Ng5 Rd5 20.f4 Ba6 21.Nxh7 Kxh7 22.h5 Qe8 23.hxg6+ fxg6 24.Qh5+ Kg7 25.Qg4 Bc5+ 26.Kf1 Rxd3 0-1

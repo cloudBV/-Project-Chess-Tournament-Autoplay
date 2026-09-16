@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.11"]
+[Round "1.4"]
+[White "Potential 426cc351-426cc351"]
+[Black "StockfishClassical 202007311012"]
+[Result "1/2-1/2"]
+[WhiteElo "3108"]
+[BlackElo "3552"]
+[ECO "C02"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 b6 4.c3 Qd7 5.Nf3 Ne7 6.a4 a5 7.Na3 Ba6 8.Bxa6 Nxa6 9.h4 h5 10.O-O Nb8 11.Nc2 Nf5 12.Ne3 Nxe3 13.fxe3 f5 14.Qe2 c5 15.b3 Nc6 16.Rd1 Be7 17.c4 O-O 18.Ba3 Rad8 19.dxc5 Bxc5 20.Bxc5 bxc5 21.cxd5 exd5 22.Rac1 Rfe8 23.Rxc5 Nxe5 24.Nxe5 Rxe5 25.Rxa5 Qe6 26.Qf2 Rxe3 27.Raxd5 Rxd5 28.Rxd5 Rxb3 29.Rxf5 Rb1+ 30.Kh2 Rb4 31.Rxh5 Rxa4 32.Qg3 Rc4 33.Rg5 Qe7 34.Rg4 Rxg4 35.Qxg4 Qc5 36.Kh3 Qe3+ 37.g3 Qe5 38.Qc4+ Kh7 39.Kg4 Qd6 40.Kf3 Kh6 41.Kg2 g6 42.Kh3 1/2-1/2

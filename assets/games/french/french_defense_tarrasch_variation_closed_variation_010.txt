@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "10.10"]
+[White "Potential 426cc351-426cc351"]
+[Black "EtherealHCE 14.40"]
+[Result "1/2-1/2"]
+[WhiteElo "3108"]
+[BlackElo "3317"]
+[ECO "C05"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Ne4 5.Bd3 Nxd2 6.Bxd2 c5 7.dxc5 Nc6 8.Nf3 Bxc5 9.O-O Nb4 10.Be2 Nc6 11.c4 h6 12.Rc1 d4 13.Bd3 Qc7 14.b4 Bxb4 15.Bxb4 Nxb4 16.Qa4+ Nc6 17.Nxd4 Qa5 18.Qxa5 Nxa5 19.Nb5 O-O 20.Nd6 Bd7 21.c5 Bc6 22.f4 Bd5 23.Be4 Bxe4 24.Nxe4 Nc6 25.Rfd1 Rfd8 26.Rd6 Rac8 27.h4 Rc7 28.Rxd8+ Nxd8 29.Rd1 Nc6 30.h5 Kf8 31.g4 Ke7 32.Rb1 b6 33.cxb6 axb6 34.Rxb6 Nd8 35.a3 Ra7 36.g5 hxg5 37.fxg5 Ra4 38.Rb4 Rxa3 39.h6 gxh6 40.gxh6 Rh3 41.Nf6 Nc6 42.Rb7+ Kf8 43.Nd7+ Kg8 44.Rc7 Nxe5 45.Rc8+ Kh7 46.Nxe5 Rxh6 47.Nxf7 Rg6+ 48.Kh2 e5 49.Ra8 e4 50.Ne5 Rg7 51.Kh3 e3 52.Ra3 e2 53.Re3 e1=Q 54.Rxe1 Kg8 55.Rf1 Rg5 56.Nc4 Rd5 57.Re1 Kg7 58.Kg3 Kf7 59.Ne3 Re5 60.Kf4 Rc5 61.Kg4 Kf6 62.Kf4 Kg6 63.Ke4 Rg5 64.Kf3 Kf7 65.Kf4 Rb5 66.Kg4 Re5 67.Kf4 Ra5 68.Kg4 Re5 69.Kf4 1/2-1/2

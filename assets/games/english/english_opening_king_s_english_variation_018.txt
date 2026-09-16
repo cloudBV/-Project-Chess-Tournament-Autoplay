@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.08"]
+[Round "1.5"]
+[White "Manea, Alexandru"]
+[Black "Sochorova, Petra"]
+[Result "1-0"]
+[WhiteElo "2304"]
+[BlackElo "2067"]
+[ECO "A20"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Bc5 4.Nc3 a6 5.a3 Ba7 6.d3 d6 7.Nf3 h6 8.b4 Nf6 9.Bb2 O-O 10.O-O Be6 11.Rc1 Qd7 12.Qd2 Rfe8 13.Kh1 Bh3 14.e4 Nd4 15.Nxd4 Bxd4 16.Nd5 Nxd5 17.cxd5 Bxg2+ 18.Kxg2 Bxb2 19.Qxb2 f5 20.Rc4 c6 21.dxc6 bxc6 22.Qc2 d5 23.Rxc6 fxe4 24.dxe4 d4 25.Qc4+ Kh8 26.Rc7 Qg4 27.f3 Qg5 28.Qc1 Qg6 29.Qc6 Qg5 30.Qc1 Qg6 31.h4 Rad8 32.Qd2 Rc8 33.Rfc1 Rxc7 34.Rxc7 Qb6 35.Rc5 Qe6 36.Qc2 Rf8 37.Qc4 Qf6 38.Qb3 g5 39.hxg5 Qxg5 40.Qe6 d3 41.f4 Qg7 42.f5 Rg8 43.Qg6 Qxg6 44.fxg6 Rxg6 45.Rd5 a5 46.bxa5 Ra6 47.Kf3 d2 48.Ke2 Rg6 49.a4 Rxg3 50.a6 Rg7 51.Rb5 Rd7 52.Kd1 Rd6 53.a7 Kg7 54.a8=Q 1-0

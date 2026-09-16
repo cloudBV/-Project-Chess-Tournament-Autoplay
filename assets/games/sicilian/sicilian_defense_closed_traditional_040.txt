@@ -1,0 +1,15 @@
+[Event "Round 4: Welling, Zac - Verbytski, Oleg"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-4/96mqn1sv/ENm3YvGK"]
+[Date "2026.07.23"]
+[Round "4.12"]
+[White "Welling, Zac"]
+[Black "Verbytski, Oleg"]
+[Result "1/2-1/2"]
+[WhiteElo "2004"]
+[BlackElo "2273"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 g6 5.Nf3 Bg7 6.Nxd4 cxd4 7.Qf3 e6 8.Nb5 Be5 9.c3 dxc3 10.d4 a6 11.dxe5 axb5 12.Bb3 cxb2 13.Bxb2 Ne7 14.O-O Nc6 15.Rad1 O-O 16.Qg3 b6 17.Rd6 Bb7 18.Rfd1 Nb8 19.f3 Kg7 20.Bc1 h6 21.Be3 Bc6 22.h4 Kh7 23.Qf4 g5 24.Qg4 Rg8 25.Qh5 Rg6 26.hxg5 Qg8 27.Kf2 Na6 28.Bxb6 Rxg5 29.Qh2 Qg7 30.Be3 Rg6 31.Rh1 b4 32.Rd2 Nc7 33.Bc5 Na6 34.Be3 Nc7 1/2-1/2

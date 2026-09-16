@@ -1,0 +1,15 @@
+[Event "Round 5: Docampo Beltran, Dexter - Larkin, Vladyslav"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/Bt0ipbRD"]
+[Date "2026.07.08"]
+[Round "5.4"]
+[White "Docampo Beltran, Dexter"]
+[Black "Larkin, Vladyslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2353"]
+[BlackElo "2506"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Bd6 5.b3 O-O 1/2-1/2

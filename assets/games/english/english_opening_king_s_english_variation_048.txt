@@ -1,0 +1,15 @@
+[Event "Round 5: Straka, Vojtech - Rybka, Simon"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/QGmhZbRM"]
+[Date "2026.07.18"]
+[Round "5.10"]
+[White "Straka, Vojtech"]
+[Black "Rybka, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2350"]
+[ECO "A20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.Bg2 d5 4.cxd5 cxd5 5.d4 e4 6.a3 h6 7.Nc3 Nf6 8.f3 exf3 9.Nxf3 Be7 10.O-O O-O 11.Nh4 Nc6 12.Nf5 Be6 13.Qd3 Re8 14.b4 a6 15.Bb2 Bf8 16.Na4 g6 17.Nh4 Bg7 18.Nc5 Bc8 19.e3 Qd6 20.Rae1 b6 21.Na4 Bb7 22.Nc3 Nb8 23.Rf3 Nbd7 24.Ref1 Re7 25.b5 Nh7 26.bxa6 Bxa6 27.Nb5 Ng5 28.R3f2 Bxb5 29.Qxb5 Rxe3 30.Bc1 Bxd4 31.Kh1 Ra5 32.Qb4 Bc5 33.Qg4 Re7 34.Nf5 gxf5 35.Rxf5 Ne5 36.Qh4 Bxa3 37.Bxg5 hxg5 38.Qxg5+ Ng6 39.Rf6 Qe5 40.Qh6 Rea7 41.Rxb6 Bf8 42.Rxg6+ Bg7 43.Rg5 Ra1 44.Rxe5 Rxf1+ 45.Bxf1 Bxh6 46.Rxd5 Ra2 47.Rf5 Rc2 48.Bd3 Rc3 49.Be4 Kf8 50.Bd5 Rc7 51.g4 Be3 52.Kg2 Kg7 53.Kf3 Bd2 54.g5 Bc3 55.h4 f6 56.Be4 fxg5 57.Rxg5+ Kh6 58.Rd5 Rf7+ 59.Kg4 Re7 60.Rd6+ Kg7 61.Bf5 Re1 62.Rd7+ Kf6 63.Bd3 Rg1+ 64.Kf3 Rh1 65.Rh7 Rh3+ 66.Ke2 Rh2+ 67.Kf1 Rh3 68.Be2 Rh2 69.h5 Bd2 70.Rd7 Be3 71.Rd3 Bf4 72.Bf3 Rd2 73.Rb3 Rh2 74.Rb5 Be3 75.Bg2 Bg5 76.Bf3 Be3 77.Be4 Rh4 78.Bg6 Rh2 79.Rf5+ Kg7 80.Rf3 Rf2+ 81.Rxf2 Bxf2 82.Kxf2 1/2-1/2

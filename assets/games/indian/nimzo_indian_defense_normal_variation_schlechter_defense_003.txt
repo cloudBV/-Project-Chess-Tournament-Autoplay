@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.11"]
+[Round "8.4"]
+[White "Lazarne Vajda, Szidonia"]
+[Black "Kiraly, Lilla Virag"]
+[Result "1/2-1/2"]
+[WhiteElo "2295"]
+[BlackElo "2080"]
+[ECO "E52"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Schlechter Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.e3 Bb7 6.Bd3 O-O 7.O-O d5 8.Bd2 c5 9.cxd5 cxd4 10.exd4 exd5 11.Bg5 h6 12.Bh4 Be7 13.Re1 Re8 14.Bxf6 Bxf6 15.Rxe8+ Qxe8 16.Qb3 Qc6 17.Re1 Nd7 18.Bb5 Qd6 19.Qa4 Nf8 20.Ba6 Bc6 21.Bb5 Bb7 22.Ba6 Bc6 23.Bb5 Bb7 24.Ba6 Bc6 1/2-1/2

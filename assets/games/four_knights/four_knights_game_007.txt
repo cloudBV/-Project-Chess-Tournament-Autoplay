@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "3.1"]
+[White "Stepinski, Piotr"]
+[Black "Dubnevych, Maksym"]
+[Result "0-1"]
+[WhiteElo "2281"]
+[BlackElo "2446"]
+[ECO "C47"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a4 d5 5.exd5 Nxd5 6.Bb5 Nxc3 7.bxc3 Bd6 8.d4 exd4 9.O-O O-O 10.cxd4 Bg4 11.c3 Qf6 12.a5 Ne7 13.a6 b6 14.h3 Bxf3 15.Qxf3 Qxf3 16.gxf3 c6 17.Bd3 Nd5 18.c4 Nb4 19.Bb1 c5 20.dxc5 Bxc5 21.Bd2 Rad8 22.Bxb4 Bxb4 23.Be4 Rd2 24.Rfd1 Rfd8 25.Bd5 Kf8 26.Rxd2 Bxd2 27.Rd1 Bb4 28.Kf1 Rd6 29.Ke2 Ke7 30.Rg1 g6 31.Rd1 Bc5 32.Bb7 Rf6 33.Rd5 Rf4 34.Re5+ Kd7 35.Re4 Rf5 36.Rh4 h5 37.Re4 Rg5 38.Kf1 Rf5 39.Ke2 Bd6 40.Rd4 Re5+ 41.Kf1 Ra5 42.Bd5 f6 43.Bb7 Ra2 44.Re4 Rc2 45.Bd5 Ra2 46.Bb7 Ra1+ 47.Re1 Ra4 48.Re4 f5 49.Rd4 Ke7 50.Bc8 b5 51.Ke2 bxc4 52.Rd5 Ra2+ 53.Ke1 c3 54.Rd4 Bc5 55.Rc4 Bxf2+ 56.Kf1 c2 0-1

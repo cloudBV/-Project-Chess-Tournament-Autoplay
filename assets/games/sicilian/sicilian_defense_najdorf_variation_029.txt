@@ -1,0 +1,14 @@
+[Event "Round 2: Ivanovic, Bozidar - Petrov, Nikita"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/mKt74DZf"]
+[Date "2026.07.05"]
+[Round "2.2"]
+[White "Ivanovic, Bozidar"]
+[Black "Petrov, Nikita"]
+[Result "0-1"]
+[WhiteElo "2321"]
+[BlackElo "2555"]
+[ECO "B95"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.g3 Be7 8.Qd2 b5 9.a3 Bb7 10.f3 Nbd7 11.Be2 Rc8 12.O-O O-O 13.Rad1 Ne5 14.Be3 Qc7 15.Rf2 Rfd8 16.Qe1 h6 17.Bf1 Nc4 18.Bxc4 Qxc4 19.Nb3 Qc7 20.Rfd2 d5 21.exd5 Nxd5 22.Nxd5 Rxd5 23.Qf2 Rxd2 24.Rxd2 e5 25.c3 Qc6 26.Na5 Qxf3 27.Nxb7 Qxb7 28.Qf5 Rc4 29.Rd7 Qc8 30.Qd3 Rc7 31.Rd5 Bf6 32.Rd6 h5 33.Qe4 h4 34.Qf3 Be7 35.Rd5 hxg3 36.hxg3 Qe6 37.Qd1 g6 38.Bf2 Rc6 39.Qd3 Rd6 40.Rxd6 Qxd6 41.Qe2 Qd5 42.a4 e4 43.axb5 axb5 44.b3 Qxb3 45.Qxe4 Bf6 46.Qc6 Bxc3 47.Qe8+ Kg7 48.Bc5 Qd1+ 0-1

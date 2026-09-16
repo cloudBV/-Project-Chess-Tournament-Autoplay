@@ -1,0 +1,14 @@
+[Event "Round 5: Markidis, Konstantinos - Spyratos, Nikolaos"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/p4iJGSeG"]
+[Date "2026.07.21"]
+[Round "5.17"]
+[White "Markidis, Konstantinos"]
+[Black "Spyratos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2200"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Nxd4 Nf6 6.Bd3 g6 7.c4 Nc5 8.Nc3 Nxd3+ 9.Qxd3 Bg7 10.O-O O-O 11.b3 a6 12.f3 Bd7 13.Be3 Qa5 14.a4 Rfc8 15.Kh1 e6 16.Rfc1 Re8 17.Qd2 Rad8 18.Bg5 Qc5 19.Rd1 Bc6 20.Rac1 Kh8 21.Nd5 exd5 22.cxd5 Bxd5 23.Rxc5 dxc5 24.Ne2 Bxb3 25.Qxd8 Rxd8 26.Rxd8+ Ng8 27.a5 Bc4 28.Rd2 Bb5 29.Be3 c4 30.Bd4 Ne7 31.Bxg7+ Kxg7 32.Nd4 Kf6 33.Rb2 Ke5 34.Nxb5 axb5 35.Rxb5+ Kd4 36.Rxb7 Nc6 37.Rd7+ Kc5 38.a6 c3 39.Rd1 Kc4 40.f4 c2 41.Rc1 Kd3 42.g4 Kd2 43.Rxc2+ Kxc2 44.e5 Kd3 45.f5 Nxe5 46.a7 Nxg4 47.a8=Q gxf5 48.Qd5+ 1-0

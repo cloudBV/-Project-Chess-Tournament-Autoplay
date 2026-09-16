@@ -1,0 +1,14 @@
+[Event "Round 1: Brankovic, Uros - Pranav Anand"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-1/9hUY5sN7/lJEMOdZK"]
+[Date "2026.07.13"]
+[Round "1.2"]
+[White "Brankovic, Uros"]
+[Black "Pranav Anand"]
+[Result "0-1"]
+[WhiteElo "2172"]
+[BlackElo "2588"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.d4 Nc6 6.exd6 cxd4 7.Nxd4 Qxd6 8.Be2 e6 9.O-O Bd7 10.Nxc6 Bxc6 11.Na3 a6 12.Nc4 Qc7 13.Qd4 b5 14.Ne5 Bb7 15.Nf3 Rd8 16.Rd1 f6 17.a4 Bc5 18.Qg4 Kf7 19.axb5 axb5 20.Re1 Qb6 21.Qg3 e5 22.Rf1 Rhe8 23.Qh4 Kg8 24.Ne1 e4 25.Nc2 e3 26.fxe3 Nxe3 27.Bxe3 Bxe3+ 28.Nxe3 Rxe3 29.Qf2 Rd2 30.Rfe1 Bd5 31.Ra6 Rexe2 32.Qxb6 Rxe1# 0-1

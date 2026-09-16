@@ -1,0 +1,14 @@
+[Event "Round 2: Bicer, Atakan Mert - Fisher, Timofey"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/GUZ2EcHo"]
+[Date "2026.07.05"]
+[Round "2.21"]
+[White "Bicer, Atakan Mert"]
+[Black "Fisher, Timofey"]
+[Result "1-0"]
+[WhiteElo "2364"]
+[BlackElo "2192"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Bb4+ 11.Ke2 f5 12.exf6 Nxf6 13.Be3 Qd8 14.Nd6+ Bxd6 15.Qxd6 Bb7 16.Rg1 Ne4 17.Qe5 c5 18.Qxg7 Qh4 19.b4 Rf8 20.bxc5 Rxf4 21.Kd3 Rf7 22.Qh8+ Rf8 23.Qd4 Qxh2 24.Be2 Ng3 25.Rae1 Be4+ 26.Kc3 Bg6 27.Bd3 Bxd3 28.Qxd3 Qh4 29.Bd4 Rf4 30.c6 dxc6 31.Rxe6+ Kf7 32.Rge1 Rd8 33.Re7+ Kg8 34.Rxh7 Qg5 35.Rh8+ Kf7 36.Qh7+ 1-0

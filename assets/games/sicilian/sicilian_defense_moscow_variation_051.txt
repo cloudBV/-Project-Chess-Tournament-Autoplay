@@ -1,0 +1,14 @@
+[Event "Round 8: Risteski, Emil - Tsirilman, Guy"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/xvJoa2Lo"]
+[Date "2026.07.10"]
+[Round "8.16"]
+[White "Risteski, Emil"]
+[Black "Tsirilman, Guy"]
+[Result "1/2-1/2"]
+[WhiteElo "2408"]
+[BlackElo "2213"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.h3 Bh5 9.d4 cxd4 10.cxd4 Bxf3 11.gxf3 e5 12.Be3 Be7 13.Nc3 O-O 14.f4 Rc8 15.dxe5 dxe5 16.Qxd8 Rfxd8 17.Red1 Bb4 18.Nd5 Nxd5 19.exd5 Ne7 20.fxe5 Nxd5 21.Bg5 Be7 22.Bxe7 Nxe7 23.Bg2 Nc6 24.f4 Kf8 25.a3 Nd4 26.Bxb7 Rc2 27.Kf1 Rxb2 28.Be4 Ke7 29.Rac1 Rd7 30.Rc3 Rb3 31.Rxb3 Nxb3 32.Rxd7+ Kxd7 33.Bxh7 Nd2+ 34.Ke2 Nc4 35.Bd3 Nxa3 36.Bxa6 Nc2 37.Bc4 Ke7 38.Kd3 Nb4+ 39.Kc3 Nc6 40.Bd5 Nb8 41.Kd4 g6 42.Be4 Nd7 43.Kd5 f6 44.Bxg6 fxe5 45.f5 Kf6 46.h4 Nb6+ 47.Kc5 Nc8 48.Kd5 Ne7+ 49.Ke4 Nxg6 50.fxg6 Kxg6 51.h5+ Kxh5 52.Kxe5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.07"]
+[Round "4.2"]
+[White "Papp, Petra"]
+[Black "Kiraly, Lilla Virag"]
+[Result "1/2-1/2"]
+[WhiteElo "2290"]
+[BlackElo "2080"]
+[ECO "B48"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.Qe2 Bb4 9.O-O O-O 10.f4 d6 11.Kh1 Bd7 12.Nb3 b5 13.Bd2 Rfe8 14.Rae1 Bxc3 15.Bxc3 e5 16.a3 Qd8 17.Qf3 exf4 18.Qxf4 Ne5 19.Nd4 Rc8 20.Nf3 Qe7 21.Bb4 Rc6 22.Nd4 Rcc8 23.Nf3 Rc6 24.Nd4 Rcc8 25.Qh4 Ng6 26.Qg3 Qe5 27.Qf2 Qh5 28.Bxd6 Ne5 29.Qg3 Nfg4 30.h3 Qh6 31.Bxe5 Nxe5 32.Nf3 Qe6 33.Qf4 Re7 34.Rd1 Bc6 35.Nd4 Qg6 36.Nf5 Re6 37.Be2 h6 38.Rd6 Rce8 39.Rfd1 Qg5 40.Qxg5 hxg5 41.Bf3 Kh7 42.b3 Bb7 43.Kg1 g6 44.Ne3 Kg7 45.Kf2 Rxd6 46.Rxd6 Rc8 47.Rd4 Rc3 48.a4 Rc7 49.axb5 axb5 50.c4 bxc4 51.Nxc4 Rc5 52.Nxe5 Rxe5 53.Ke3 Rb5 54.b4 Kf6 55.Be2 Rb6 56.Bd3 Ke5 57.g4 f6 58.b5 f5 59.exf5 gxf5 60.gxf5 Bg2 61.Rg4 Bxh3 62.Rxg5 Rd6 63.Rg8 Bxf5 64.Be2 Be6 65.Rg5+ Kf6 66.Rh5 Bd5 67.b6 Bb7 68.Rb5 Ke6 69.Bg4+ Ke7 70.Rb4 Rg6 71.Kf4 Kd6 72.Rc4 Rg7 73.Rc1 Bd5 74.Rd1 Kc5 75.Bf5 Rb7 76.Ke5 Bb3 77.Rc1+ Kxb6 78.Kd6 Ka5 79.Bd7 Kb4 80.Bc6 Rh7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "3.1"]
+[White "Komodo 14.1"]
+[Black "GinkgoHCE 5.71"]
+[Result "1/2-1/2"]
+[WhiteElo "3449"]
+[BlackElo "3344"]
+[ECO "E11"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 O-O 6.Bg2 Bxd2+ 7.Qxd2 d6 8.Nc3 c5 9.dxc5 dxc5 10.Ne5 Nbd7 11.Nxd7 Qxd7 12.Rd1 Qxd2+ 13.Rxd2 Rb8 14.O-O e5 15.Rfd1 g6 16.b3 Kg7 17.Nb5 a6 18.Nd6 b6 19.Bc6 Rg8 20.f3 Be6 21.a4 h5 22.Kf2 Kf8 23.Bb7 a5 24.Bd5 Bxd5 25.cxd5 Ke7 26.Nc4 Nd7 27.Kg2 Rbf8 28.e4 h4 29.Rh1 Rb8 30.Rdd1 f6 31.Kf2 Rh8 32.Ke3 f5 33.g4 f4+ 34.Kd3 g5 35.Na3 Rb7 36.Kc4 Rf8 37.Kb5 Rbb8 38.Nc4 Kd8 39.Rd3 Kc7 40.Rf1 Kb7 41.d6 Rfe8 42.Rd2 Re6 43.Rh1 Rc8 44.Rdd1 Ka7 45.Rd5 Kb7 46.Rd2 Ka7 47.Rb1 Kb7 48.Rc1 Ka7 49.Re2 Kb7 50.Rb2 Ka7 51.Rf2 Rb8 52.Rc3 Ree8 53.Rcc2 Re6 54.Rfd2 Kb7 55.Re2 Rd8 56.Rcd2 Rc8 57.Rg2 Rf6 58.Rd5 Re6 59.Rc2 Rb8 60.Rd1 Rc8 61.Rcd2 Rh8 62.Rd3 Rg8 63.h3 Rc8 64.Re1 Rb8 65.Rc1 Rc8 66.Rcc3 Rce8 67.Rd5 Rf8 68.Rc2 Rc8 69.Rd1 Rg6 70.Rcd2 Re6 71.Rh2 Rg6 72.Rg2 Re6 73.Ra2 Ka7 74.Rb2 Kb7 75.Rg1 Rd8 76.Rd2 Rc8 77.Rgd1 Rd8 78.Rh1 Rc8 79.Rd5 Rd8 80.Rf1 Nf6 81.Rd3 Nd7 82.Rdd1 Rc8 83.Rb1 Rh8 84.Rbc1 Rc8 85.Rfd1 Rf6 86.Rd5 Re6 87.Rd2 Rg6 88.Rf1 Re6 89.Rb1 Rd8 90.Rd3 Rb8 91.Rd5 Rd8 92.Rdd1 Rc8 93.Rb2 Rce8 94.Rf2 Rc8 95.Rc1 Rg6 96.Rh2 Rb8 97.Rhh1 Rc8 98.Rcd1 Re6 99.Rhg1 Rd8 100.Rge1 Rc8 101.Re2 Rd8 102.Rf1 Nb8 103.Rd2 Nd7 104.Rb1 Rc8 105.Rdd1 Rg8 106.Re1 Rd8 107.Rg1 Nf6 108.Nxb6 Ne8 109.Nc4 Nxd6+ 110.Kxc5 Nxc4 111.bxc4+ Kc7 112.Rgd1 Rde8 113.Rf1 Rc6+ 114.Kd5 Rd6+ 1/2-1/2

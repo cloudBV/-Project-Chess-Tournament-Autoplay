@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.19"]
+[Round "9.5"]
+[White "De Boer, Eelke"]
+[Black "Belin, Anton"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2206"]
+[ECO "B84"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.Be3 Be7 8.Qd2 b5 9.Bf3 Nfd7 10.e5 d5 11.Nxd5 exd5 12.Bxd5 Nb6 13.Bxa8 Nxa8 14.Rd1 O-O 15.O-O Bb7 16.Nf5 Qc7 17.Qd4 Re8 18.Qg4 g6 19.e6 Bf8 20.Bf4 Qxc2 21.Nd6 Bxd6 22.Bxd6 Qc8 23.Bxb8 Qxb8 24.exf7+ Kxf7 25.Rd7+ Re7 26.Re1 Rxd7 27.Qxd7+ 1-0

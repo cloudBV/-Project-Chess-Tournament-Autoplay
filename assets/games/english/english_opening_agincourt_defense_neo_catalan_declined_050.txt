@@ -1,0 +1,14 @@
+[Event "Round 1: Georgiadis, Nico - Kurmann, Oliver"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-1/VL8Eatva/e5M8o9Zm"]
+[Date "2026.07.11"]
+[Round "1.5"]
+[White "Georgiadis, Nico"]
+[Black "Kurmann, Oliver"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2354"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Nc6 9.d4 cxd4 10.Nxd4 Nxd4 11.Qxd4 Bf6 12.Qd2 Nf4 13.gxf4 Qxd2 14.Nxd2 Bxb2 15.Rad1 Rb8 16.Nc4 Bf6 17.b4 Rd8 18.Rxd8+ Bxd8 19.Rd1 Bc7 20.Nd6 Bd7 21.Nxb7 Be8 22.e3 Kf8 23.Rc1 Bb6 24.a3 Ke7 25.Kf1 h6 26.h4 g5 27.fxg5 hxg5 28.hxg5 Bb5+ 29.Ke1 Rg8 30.f4 f6 31.gxf6+ Kxf6 32.Kf2 Bxe3+ 33.Kxe3 Rxg2 34.Nd6 a6 35.Nxb5 axb5 36.Kd4 Rg8 37.Rc6 Rb8 38.Kc5 Kf5 39.Rd6 Ra8 40.Kxb5 Rxa3 41.Rd4 1-0

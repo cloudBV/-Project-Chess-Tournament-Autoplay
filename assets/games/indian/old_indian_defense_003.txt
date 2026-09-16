@@ -1,0 +1,15 @@
+[Event "Round 4: Karimi, Setayesh - Asgharzadeh, Mitra"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-4/t0goMACL/9tu3rrXu"]
+[Date "2026.07.13"]
+[Round "4.3"]
+[White "Karimi, Setayesh"]
+[Black "Asgharzadeh, Mitra"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2111"]
+[ECO "A53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Old Indian Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.Nc3 Nbd7 5.e4 e5 6.d5 Nc5 7.Qc2 a5 8.h3 h5 9.Be3 b6 10.Be2 Bh6 11.Bxh6 Rxh6 12.Nd2 Kf8 13.O-O-O Kg7 14.g3 h4 15.g4 Nh7 16.Nf3 Ng5 17.Ne1 Qe7 18.f3 Bd7 19.Nd3 Rhh8 20.Nxc5 bxc5 21.Rd3 Rhb8 22.Nd1 Rb4 23.Ra3 Qf6 24.Qd2 Rab8 25.Qe3 a4 26.Rc3 Bc8 27.Rc2 Ba6 28.Nf2 Nh7 29.Rd1 Qg5 30.Qd2 Rf8 31.a3 Rb3 32.Qxg5 Nxg5 33.Rd3 Rxd3 34.Bxd3 Nxf3 35.Rc3 Nd4 36.Nd1 Bc8 37.Ne3 Kh6 38.Kd2 Nf3+ 39.Kd1 Ng5 40.Bc2 Bd7 41.Ng2 Nxh3 42.Nxh4 Nf2+ 43.Ke2 Nxg4 44.Kf3 f5 45.exf5 gxf5 0-1

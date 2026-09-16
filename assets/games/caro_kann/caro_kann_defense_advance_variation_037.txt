@@ -1,0 +1,14 @@
+[Event "Round 4: Alexakis, Dimitris - Pleschke, Julius Jonas"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/N7kr6Atp"]
+[Date "2026.07.16"]
+[Round "4.6"]
+[White "Alexakis, Dimitris"]
+[Black "Pleschke, Julius Jonas"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2280"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 Ne7 7.Be2 Ng6 8.O-O f6 9.Ne1 h5 10.f4 h4 11.a4 Qc7 12.a5 a6 13.c4 Ne7 14.Bd2 Be4 15.Bb4 Nf5 16.Bh5+ Kd8 17.Bxf8 Nxf8 18.Qe2 h3 19.Bf3 hxg2 20.Rf2 g5 21.Bxe4 Qh7 22.Rxg2 dxe4 23.d5 Nh4 24.Rf2 g4 25.Qd1 g3 26.dxc6+ Ke8 27.Rd2 gxh2+ 28.Rxh2 e3 29.Qc2 Qg7+ 30.Kf1 Qg3 31.cxb7 Rb8 32.Nc5 Rg8 33.Rxh4 Qxh4 34.Ne4 Qxf4+ 35.Ke2 Qxe5 36.c5 f5 37.c6 fxe4 38.c7 Qb5+ 39.Kxe3 Qxb7 40.cxb8=Q+ Qxb8 41.Qxe4 Qb3+ 42.Kd2 Qxb2+ 43.Nc2 Rg5 44.Ra3 Rd5+ 1/2-1/2

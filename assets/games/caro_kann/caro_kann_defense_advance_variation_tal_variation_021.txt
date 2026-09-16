@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "16.1"]
+[White "Bouska, Jiri"]
+[Black "Sobol, Matvii"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2431"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.Nc3 c5 6.dxc5 d4 7.g4 Be6 8.Ne4 Nc6 9.f4 h5 10.gxh5 Nh6 11.Bg2 Nf5 12.Bd2 Qd7 13.Qe2 f6 14.O-O-O O-O-O 15.Nf3 Bd5 16.Rhe1 Kb8 17.Bh3 Rxh5 18.Bg4 Rh8 19.Qd3 g6 20.exf6 exf6 21.Nxf6 Qf7 22.Nxd5 Qxd5 23.Kb1 Bxc5 24.h5 Nh6 25.Be6 Qd6 26.hxg6 Qc7 27.f5 Ng8 28.Bg5 Be7 29.Qd2 Bf6 30.Bf4 Ne5 31.Nxe5 Ka8 32.Nf7 Qb6 33.Qd3 Rb8 34.Bxb8 Kxb8 35.Nxh8 Ne7 36.Bb3 Nc6 37.Re6 Bxh8 38.Re8+ Ka7 39.Rxh8 Qc7 40.f6 Qf4 41.f7 Ne5 42.Qxd4+ Qxd4 43.Rxd4 Nxg6 44.Rg8 Ne7 45.Re8 Nc6 46.Rd7 Kb6 47.f8=B a5 48.a4 Ka6 49.Bc4+ Kb6 50.Bd6 Nd4 51.Bc7+ Kc6 52.Rxd4 Kxc7 53.Re7+ Kc6 54.Bb5+ Kc5 55.Rc4+ Kb6 56.Rcc7 Ka7 57.Rxb7+ Ka8 58.Rbd7 1-0

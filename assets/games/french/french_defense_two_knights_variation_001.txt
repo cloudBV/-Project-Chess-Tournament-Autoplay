@@ -1,0 +1,15 @@
+[Event "Round 1: Sindarov, Javokhir - Oberoi, Shelev"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/xpQI2aBk"]
+[Date "2026.07.03"]
+[Round "1.2"]
+[White "Sindarov, Javokhir"]
+[Black "Oberoi, Shelev"]
+[Result "1-0"]
+[WhiteElo "2718"]
+[BlackElo "2228"]
+[ECO "C00"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "French Defense: Two Knights Variation"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Nc6 4.Bb5 dxe4 5.Nxe4 Nf6 6.Nxf6+ gxf6 7.d4 Qd6 8.c3 Bd7 9.O-O O-O-O 10.Qe2 Ne7 11.a4 Rg8 12.Re1 Ng6 13.b4 Qd5 14.Bxd7+ Rxd7 15.a5 Bd6 16.a6 b5 17.g3 h5 18.Qe4 Qxe4 19.Rxe4 c6 20.Bd2 Rdd8 21.Kf1 Kd7 22.Ne1 h4 23.Nd3 Rh8 24.Ree1 hxg3 25.hxg3 Rh2 26.Be3 Rg8 27.d5 cxd5 28.Bxa7 Ne5 29.Nxe5+ fxe5 30.Be3 f5 31.a7 Ra8 32.Ra6 Bc7 33.Kg1 Rh7 34.Kg2 Rg7 35.Kf3 e4+ 36.Ke2 Be5 37.Rc1 Ke7 38.Ra5 Kf6 39.Bc5 Rb7 40.Be3 Ke7 41.Rh1 Kf7 42.Rh7+ Bg7 43.Bd4 Kg6 44.Rxg7+ Rxg7 45.Bxg7 Kxg7 46.Ke3 e5 47.Rxb5 Rxa7 48.Rxd5 Ra3 49.Rc5 Kf6 50.b5 Ke6 51.g4 fxg4 52.Kxe4 Ra4+ 53.c4 Ra2 54.Rxe5+ Kd6 55.c5+ Kd7 56.Rd5+ Kc7 57.Rf5 1-0

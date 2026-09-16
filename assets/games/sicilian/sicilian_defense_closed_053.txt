@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "8.5"]
+[White "Tallada Serret, Gerard"]
+[Black "Masague Artero, Guerau"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2343"]
+[ECO "B24"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Rb8 6.Be3 d6 7.Qd2 b5 8.Nge2 b4 9.Nd1 Nd4 10.c3 bxc3 11.bxc3 Nxe2 12.Qxe2 Ba6 13.O-O Nf6 14.e5 dxe5 15.Bxc5 O-O 16.Nb2 e4 17.Rad1 Nd5 18.Na4 Bxd3 19.Rxd3 exd3 20.Qe4 Nf6 21.Qxe7 Qa5 22.Bc6 Qa6 0-1

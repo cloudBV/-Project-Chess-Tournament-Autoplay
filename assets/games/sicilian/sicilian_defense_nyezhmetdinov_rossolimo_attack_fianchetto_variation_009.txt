@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-3/OiFNQ5NA/zy8av1RL"]
+[Date "2026.07.02"]
+[Round "3.29"]
+[White "Patlolla Indra Reddy"]
+[Black "Hertlein, Irena"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2054"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 dxc6 7.d3 Qe7 8.a3 Nf6 9.b4 O-O 10.Nbd2 Rd8 11.Nc4 Nd7 12.Bd2 f6 13.Qb1 Bf8 14.Ne3 Nb6 15.h4 Qf7 16.Nh2 h5 17.g4 hxg4 18.Nexg4 c4 19.Re3 cxd3 20.cxd3 Nc4 21.dxc4 Rxd2 22.Qc1 Rd6 23.Rg3 Kh7 24.c5 Rd4 25.Qe3 Bxg4 26.Nxg4 Rad8 27.Qf3 Kg7 28.h5 Rd3 29.h6+ Kh7 30.Qxd3 Rxd3 31.Rxd3 Qe6 32.f3 f5 33.exf5 gxf5 34.Rd7+ Kh8 35.Rd8 fxg4 36.Rxf8+ Kh7 37.Rf1 g3 38.Kg2 Qe7 39.Rf5 Kg6 40.Rh1 e4 41.h7 Kxf5 42.h8=Q exf3+ 43.Kxg3 Qg5+ 44.Kxf3 Qf4+ 45.Ke2 Qc4+ 46.Kd2 Qa2+ 47.Kc1 Qxa3+ 48.Qb2 Qe3+ 49.Qd2 Qa3+ 50.Kb1 Qf3 51.Qd7+ Kf6 52.Rh6+ Ke5 53.Re6+ 1-0

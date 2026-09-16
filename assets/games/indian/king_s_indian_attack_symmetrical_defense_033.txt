@@ -1,0 +1,14 @@
+[Event "Round 5: Elgar, Tim - Niemi, Kalle"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-5/Wp9Hv3Cf/itblAggP"]
+[Date "2026.07.15"]
+[Round "5.8"]
+[White "Elgar, Tim"]
+[Black "Niemi, Kalle"]
+[Result "0-1"]
+[WhiteElo "2166"]
+[BlackElo "2301"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 c5 6.c4 d5 7.cxd5 Qxd5 8.O-O Qh5 9.d4 Rd8 10.Qc1 cxd4 11.Nxd4 e5 12.Nf3 e4 13.Qc7 Nc6 14.Ne5 Bd7 15.Nxc6 Bxc6 16.Nc3 Rd2 17.Rab1 Ne8 18.Qf4 Rxb2 19.Rxb2 Bxc3 20.Rc2 Be5 21.Qe3 Nf6 22.Qc5 a6 23.Rd1 Re8 24.Rcd2 Bc7 25.Qxh5 Nxh5 26.Rc2 f5 27.Bh3 Nf6 28.e3 Ng4 29.Bf1 Ne5 30.Be2 Re7 31.Kg2 g5 32.h3 Rf7 33.Rc5 Kg7 34.Kf1 f4 35.Bh5 Rf8 36.gxf4 gxf4 37.Kg2 Kh6 38.Bg4 Rg8 39.Kf1 Nxg4 40.hxg4 Rxg4 41.Ke2 fxe3 42.Rh1+ Kg6 43.fxe3 Rg2+ 44.Kd1 Rxa2 45.Rh4 Ra5 46.Rc2 Rg5 47.Rf2 Bg3 0-1

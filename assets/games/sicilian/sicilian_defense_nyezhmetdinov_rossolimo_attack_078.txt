@@ -1,0 +1,14 @@
+[Event "Round 3: Avinash Ramesh - Travadon, Loic"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/nJlL8qHC"]
+[Date "2026.07.15"]
+[Round "3.6"]
+[White "Avinash Ramesh"]
+[Black "Travadon, Loic"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2513"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Nd5 5.Nc3 Nc7 6.Bxc6 dxc6 7.Ne4 c4 8.b3 Qd5 9.Nc3 Qa5 10.bxc4 g5 11.O-O g4 12.Ng5 Bf5 13.Re1 Rd8 14.Nge4 Ne6 15.d3 Bg7 16.Bd2 Qc7 17.Rb1 h5 18.f4 gxf3 19.Qxf3 Nd4 20.Qf2 Bxe5 21.Ng3 Bg6 22.Rxe5 Qxe5 23.Re1 Qg7 24.Nce4 O-O 25.c3 h4 26.Nh5 Bxh5 27.cxd4 h3 28.Ng3 Bg6 29.Bc3 c5 30.gxh3 Rfe8 31.Kh1 cxd4 32.Bb4 Qf6 33.Qg2 Qc6 34.Ne4 f5 35.Nc5 Qxg2+ 36.Kxg2 e5 37.Nxb7 Rb8 38.Nd6 Rxb4 39.Nxe8 Bxe8 40.Rxe5 Bg6 41.Rd5 Rb2+ 42.Kg3 Rxa2 43.Rxd4 Kf7 44.Rd6 a5 45.c5 a4 46.c6 Rc2 47.Rd7+ Ke6 48.Ra7 Rxc6 49.Rxa4 Kf6 50.Kf4 Bf7 51.Ra5 Be6 52.d4 Rc4 53.Ke3 Rc3+ 54.Kf4 Rd3 55.d5 Bxd5 56.Ra6+ Be6 57.Ra5 Rd4+ 58.Kg3 Bd5 0-1

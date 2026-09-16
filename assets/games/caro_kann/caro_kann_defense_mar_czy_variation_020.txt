@@ -1,0 +1,14 @@
+[Event "Round 5: Macias Pino, Diego - Sadhwani, Raunak"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/f0p4VGX9"]
+[Date "2026.07.22"]
+[Round "5.14"]
+[White "Macias Pino, Diego"]
+[Black "Sadhwani, Raunak"]
+[Result "1/2-1/2"]
+[WhiteElo "2494"]
+[BlackElo "2634"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Bd3 Qb6 5.Ne2 c5 6.c3 Nc6 7.O-O Nge7 8.Kh1 Bd7 9.dxc5 Qxc5 10.Nd2 Rd8 11.Nf4 Ng6 12.Nb3 Qd6 13.Nh5 dxe4 14.Bxe4 Qxd1 15.Rxd1 f5 16.Bxc6 Bxc6 17.Bg5 Rxd1+ 18.Rxd1 h6 19.Rd8+ Kf7 20.Be3 a6 21.Na5 Be7 22.Rxh8 Nxh8 23.Bd4 Bf8 24.Nf4 Bd6 25.Nd3 Ng6 26.Nc4 Bc7 27.Nce5+ Nxe5 28.Nxe5+ Bxe5 29.Bxe5 g5 30.Kg1 f4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Virtanen, Teemu - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/4Exoiqd6"]
+[Date "2026.07.03"]
+[Round "1.24"]
+[White "Virtanen, Teemu"]
+[Black "Woodward, Andy"]
+[Result "0-1"]
+[WhiteElo "2224"]
+[BlackElo "2521"]
+[ECO "A16"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 Nc6 3.g3 e5 4.Bg2 Bb4 5.Nd5 Bc5 6.e3 d6 7.Ne2 Nxd5 8.cxd5 Ne7 9.O-O O-O 10.a3 a5 11.b3 Bg4 12.h3 Bh5 13.g4 Bg6 14.d4 exd4 15.Nxd4 c6 16.dxc6 bxc6 17.Nxc6 Nxc6 18.Bxc6 Rc8 19.Bd5 Kh8 20.Bb2 f5 21.b4 Ba7 22.Bd4 Bxd4 23.Qxd4 fxg4 24.hxg4 Qg5 25.Rac1 Rce8 26.Rc7 Bh5 27.Bg2 Bxg4 28.Qxd6 Be2 29.Re1 Rxf2 30.Qh2 Ref8 31.Qh3 Bf3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: De La Riva Aguado, Oscar - Lodici, Lorenzo"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/JrikfHsN"]
+[Date "2026.07.09"]
+[Round "6.2"]
+[White "De La Riva Aguado, Oscar"]
+[Black "Lodici, Lorenzo"]
+[Result "0-1"]
+[WhiteElo "2431"]
+[BlackElo "2576"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.g3 b6 6.Bg2 Bb7 7.O-O Nc6 8.Re1 Qc7 9.Na3 a6 10.Nc2 d6 11.exd6 Bxd6 12.d4 cxd4 13.Nfxd4 Nce7 14.Qe2 Rc8 15.Bg5 e5 16.Bxe7 Nxe7 17.Bxb7 Qxb7 18.Nf3 f6 19.Rad1 Rd8 20.Nh4 O-O 21.Ne3 g6 22.b4 b5 23.a3 Bb8 24.c4 Nc6 25.Qf3 f5 26.cxb5 axb5 27.Rxd8 Rxd8 28.Rd1 e4 29.Rxd8+ Nxd8 30.Qd1 Nf7 31.a4 Bd6 32.Nd5 bxa4 33.Nf6+ Kf8 34.Qxa4 Bxb4 35.Qa1 Nd8 36.Qd4 Be7 37.Nxh7+ Kf7 38.Qe5 Qd7 39.Kg2 Ne6 40.Nxf5 gxf5 41.Qxf5+ Kg7 42.Qxe4 Nc5 43.Qe5+ Kxh7 44.h4 Nd3 45.Qe4+ Kg7 46.f3 Bd8 47.f4 Qd6 48.Qb7+ Be7 49.Qe4 Nc5 50.Qe2 Qd5+ 51.Kh2 Ne4 52.Qg4+ Kh6 53.Qf3 Qd2+ 54.Kh3 Qe1 55.Qb3 Qh1+ 56.Kg4 Nf6+ 57.Kf5 Qe4# 0-1

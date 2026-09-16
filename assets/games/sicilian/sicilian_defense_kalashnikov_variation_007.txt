@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.8"]
+[White "Bjornstad, Hallvard Foss"]
+[Black "Hoyforsslett, Gard Rye"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2057"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be7 8.Be3 Nf6 9.Nc4 b5 10.Nb6 Rb8 11.Nxc8 Qxc8 12.Be2 O-O 13.O-O b4 14.Nd5 Nxe4 15.Qd3 Nf6 16.Nxe7+ Nxe7 17.Qxd6 Nf5 18.Qd3 Rd8 19.Qc4 Qxc4 20.Bxc4 Nxe3 21.fxe3 Rbc8 22.Bb3 a5 23.Rad1 Kf8 24.Kf2 Ne4+ 25.Ke2 f6 26.Rxd8+ Rxd8 27.Rd1 Rxd1 28.Kxd1 Ke7 29.Ke2 Nc5 30.Bg8 h6 31.c3 bxc3 32.bxc3 Kd6 33.h3 f5 34.Bh7 Ke6 35.Bg8+ Kd6 36.Bh7 Ke6 37.Bg8+ Kf6 38.Bd5 g5 39.g3 Ke7 40.Kd2 Kd6 41.Bg2 e4 42.Bf1 Nd7 43.Be2 Ne5 44.h4 Kc5 45.Ke1 Ng6 46.hxg5 hxg5 47.Kd2 Ne5 48.Kc2 Nd7 49.Ba6 Nb6 50.Kd2 Kd5 51.Kc2 Ke5 52.Kd2 Nd5 53.Bc4 Nf6 54.Be2 Kd5 55.Kc2 g4 56.Kb3 Kc5 57.Ka4 Kb6 58.c4 Nh5 59.c5+ Kxc5 60.Kxa5 Nxg3 61.Bb5 Nh5 62.a4 g3 63.Bf1 f4 64.exf4 Nxf4 65.Ka6 g2 66.Bxg2 Nxg2 67.a5 Kc6 68.Ka7 Ne3 69.a6 Nd5 70.Kb8 Nb6 71.a7 e3 72.a8=Q+ Nxa8 0-1

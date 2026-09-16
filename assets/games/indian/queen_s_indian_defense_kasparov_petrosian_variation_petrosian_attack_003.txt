@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "Unneland, Mathias"]
+[Black "Skotheim, Andreas"]
+[Result "1/2-1/2"]
+[WhiteElo "2192"]
+[BlackElo "2234"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Petrosian Attack"]
+
+1.d4 Nf6 2.c4 b6 3.Nf3 Bb7 4.Nc3 e6 5.a3 d5 6.cxd5 Nxd5 7.e3 Nd7 8.Bd3 Nxc3 9.bxc3 c5 10.e4 Qc7 11.O-O Be7 12.Qe2 cxd4 13.cxd4 O-O 14.a4 Rfc8 15.Bd2 Qd8 16.a5 Nf8 17.Rfb1 Bf6 18.Be3 Bc6 19.axb6 axb6 20.Rxa8 Bxa8 21.Rb3 Nd7 22.Qa2 Qc7 23.Qb1 h6 24.h3 Bd8 25.Qb2 Nf6 26.Qb1 Nd7 27.Qb2 Nf6 28.Qb1 Nd7 1/2-1/2

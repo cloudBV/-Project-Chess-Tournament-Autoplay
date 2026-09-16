@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-7/iCL7Nk5B/zXFQR5Xc"]
+[Date "2026.07.06"]
+[Round "7.2"]
+[White "Simek, Petr"]
+[Black "Prokofiev, Valentyn"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2421"]
+[ECO "B61"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.f3 Nxd4 9.Qxd4 Qa5 10.h4 e5 11.Qd2 Nh5 12.Bd3 Ng3 13.Rh2 f5 14.Be3 Be7 15.Nd5 Qxd2+ 16.Kxd2 a6 17.Nb6 Rd8 18.Nxd7 fxe4 19.fxe4 Rxd7 20.Rh3 Nh5 21.Rf1 Nf6 22.h5 Rf8 23.Ke2 Rc7 24.c3 h6 25.Bd2 Nh7 26.Rxf8+ Kxf8 27.Be1 Bg5 28.a4 Bc1 29.b4 Ng5 30.Rg3 Bb2 31.Bb1 b6 32.Kd3 a5 33.Bd2 Ne6 34.Ba2 axb4 35.Bxe6 bxc3 36.Bxh6 c2 37.Rxg7 c1=N+ 38.Bxc1 Rc3+ 39.Kd2 Bxc1+ 40.Kxc3 Kxg7 1/2-1/2

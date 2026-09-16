@@ -1,0 +1,15 @@
+[Event "Round 4: Ilgaz, Yusuf Kerem - Kara, Goktan Can"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/PUi7hYyQ"]
+[Date "2026.07.15"]
+[Round "4.30"]
+[White "Ilgaz, Yusuf Kerem"]
+[Black "Kara, Goktan Can"]
+[Result "0-1"]
+[WhiteElo "2166"]
+[BlackElo "2015"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 dxc6 7.d3 Qc7 8.a3 a5 9.Be3 b6 10.Nbd2 Ne7 11.b4 axb4 12.axb4 Rxa1 13.Qxa1 cxb4 14.Qa4 O-O 15.Qxb4 c5 16.Qb2 Be6 17.Rb1 Rb8 18.Ng5 Bc8 19.Nc4 Nc6 20.Na3 h6 21.Nf3 Nd4 22.Nd2 Bd7 23.c3 Ne2+ 24.Kf1 Nf4 25.Bxf4 exf4 26.d4 b5 27.Kg1 b4 28.Nc2 Rc8 29.cxb4 cxd4 30.Nxd4 Rd8 31.N2b3 Qb6 32.Nc5 Bg4 33.Ncb3 Bxd4 34.Nxd4 Qxd4 35.Qxd4 Rxd4 36.b5 Bc8 37.f3 Bb7 38.Rc1 Rb4 39.Rc5 Kf8 40.h4 h5 41.g3 fxg3 42.Kg2 Ke8 43.Kxg3 Kd7 44.Kf4 Kd6 45.Rg5 Bc8 46.Rd5+ Ke7 47.Re5+ Kf6 48.Rd5 Be6 49.Rc5 Bd7 50.Rc7 Bxb5 51.Rb7 Rb3 52.Rb6+ Kg7 53.Rb7 Bc4 54.Rc7 Be2 0-1

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "8.14"]
+[White "Baron, Tal"]
+[Black "Clasby, Derek"]
+[Result "1/2-1/2"]
+[WhiteElo "2410"]
+[BlackElo "2331"]
+[ECO "E49"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5 9.Ne2 b6 10.O-O Ba6 11.Ng3 Bxd3 12.Qxd3 Qc8 13.Rd1 Nc6 14.f3 Rd8 15.Ra2 Na5 16.Re2 Nb3 17.Bb2 c4 18.Qc2 Ne8 19.e4 Nc7 20.e5 Ne6 21.Bc1 Nxc1 22.Qxc1 g6 23.Qh6 Ng7 24.f4 Qg4 25.Rf1 Kh8 26.Re3 Rg8 27.Ref3 Qe6 28.f5 Nxf5 29.Nxf5 gxf5 30.Qh3 f4 31.Qh5 Qg4 32.Qxg4 Rxg4 33.h3 Rg7 34.Rxf4 Kg8 35.Rf6 Rd8 36.h4 Rd7 37.h5 Rg3 38.Rd6 Re7 39.Rf3 Rg5 40.h6 Kf8 41.Rxd5 Ke8 42.Rd6 Re6 43.Rxe6+ fxe6 44.a4 Rg6 45.Rh3 Kd7 46.Kf2 Kc6 47.Kf3 b5 48.axb5+ Kxb5 49.Rh1 a5 50.d5 exd5 51.Re1 Rxh6 52.e6 Rf6+ 53.Kg4 Rf8 54.Kg5 Kc5 55.e7 Re8 56.Kf6 d4 57.Re5+ Kd6 58.Re6+ Kd5 59.Re5+ Kd6 60.Kf7 Rxe7+ 61.Rxe7 dxc3 62.Re3 Kc5 63.Rxc3 Kb4 64.Rh3 a4 65.g4 a3 66.Rxh7 a2 67.Rh1 Kb3 68.g5 Kb2 69.g6 a1=Q 70.Rxa1 Kxa1 71.g7 c3 72.g8=Q c2 73.Qg5 Kb1 74.Qb5+ Ka1 75.Qc4 Kb1 76.Qb3+ Ka1 77.Qxc2 1/2-1/2

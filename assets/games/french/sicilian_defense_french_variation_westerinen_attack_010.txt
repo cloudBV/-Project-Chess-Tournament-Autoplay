@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.11"]
+[White "Bochniak, Franciszek"]
+[Black "Zieba, Hubert"]
+[Result "0-1"]
+[WhiteElo "2260"]
+[BlackElo "2198"]
+[ECO "B40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.g3 d5 5.exd5 exd5 6.Bg2 Qe7+ 7.Qe2 Qxe2+ 8.Kxe2 Bg4 9.Bb2 O-O-O 10.Re1 Nf6 11.d3 Bd6 12.a3 Rhe8+ 13.Kf1 Rxe1+ 14.Kxe1 Re8+ 15.Kf1 Bxf3 16.Bxf3 Be5 17.Bxe5 Rxe5 18.c3 Kc7 19.Nd2 Kd6 20.c4 Nd4 21.Bg2 Re2 22.Ra2 Ng4 23.Bxd5 Rxf2+ 24.Ke1 Re2+ 25.Kd1 Nf2+ 26.Kc1 Nxd3+ 0-1

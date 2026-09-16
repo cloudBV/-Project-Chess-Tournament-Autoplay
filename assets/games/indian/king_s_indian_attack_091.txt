@@ -1,0 +1,15 @@
+[Event "Round 5: Gungor, Cihan Akif - Oktem, Ege Tuna"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/zkBi3RTA"]
+[Date "2026.07.16"]
+[Round "5.21"]
+[White "Gungor, Cihan Akif"]
+[Black "Oktem, Ege Tuna"]
+[Result "1-0"]
+[WhiteElo "2062"]
+[BlackElo "2359"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Nc3 Bf5 5.Nh4 Bg4 6.f3 Bh5 7.Ng2 f6 8.Nf4 Bf7 9.Bh3 Qd6 10.e4 Rd8 11.exd5 Nxd5 12.Nfxd5 Bxd5 13.Bf4 e5 14.Qe2 g5 15.dxe5 Qc6 16.Nxd5 Qxd5 17.Bd2 Kf7 18.Bc3 Bc5 19.Rd1 Qxd1+ 20.Qxd1 Rxd1+ 21.Kxd1 Ne7 22.Bd2 Rd8 23.Kc1 Bd4 24.exf6 Bxf6 25.c3 h5 26.Re1 Ng6 27.Be6+ Kg7 28.f4 gxf4 29.gxf4 Bh4 30.Re4 Bf6 31.Kc2 c6 32.a4 b6 33.Re3 h4 34.Rd3 Rxd3 35.Kxd3 Be7 36.Ke4 Kf6 37.Bd7 c5 38.Kd5 Bd8 39.Kd6 Ne7 40.Bg4 Nf5+ 41.Kd7 Nh6 42.Be6 Be7 43.Be1 1-0

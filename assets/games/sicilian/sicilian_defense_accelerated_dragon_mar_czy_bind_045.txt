@@ -1,0 +1,14 @@
+[Event "Round 6: Klundt, Klaus - Seibold, Hubert, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/HzXpw3Kn"]
+[Date "2026.07.22"]
+[Round "6.9"]
+[White "Klundt, Klaus"]
+[Black "Seibold, Hubert, Dr."]
+[Result "1-0"]
+[WhiteElo "2201"]
+[BlackElo "2026"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Bg5 O-O 10.Qd2 Be6 11.Rc1 Rc8 12.b3 Qa5 13.f3 Rfe8 14.Nd5 Qxd2+ 15.Kxd2 Nxd5 16.cxd5 Bd7 17.g4 Kf8 18.a4 a6 19.Be3 Bb2 20.Rc2 Rxc2+ 21.Kxc2 Bg7 22.a5 e6 23.Bc4 exd5 24.Bxd5 Rc8+ 25.Bc4 f5 26.h3 fxe4 27.fxe4 Be6 28.Kd3 Ke7 29.Bd4 Bxd4 30.Kxd4 Rc5 31.Ra1 h5 32.gxh5 Rxh5 33.Rg1 Bxc4 34.bxc4 g5 35.Rb1 Rxh3 36.Rxb7+ Ke6 37.Rg7 Kf6 38.Ra7 g4 39.Rxa6 Ra3 40.e5+ Kf7 41.Rxd6 g3 42.Rf6+ Ke7 43.Rg6 Kf7 44.Rg5 Ke7 45.a6 Rxa6 46.Rg7+ Ke8 47.Rxg3 Ke7 48.Rg7+ Ke8 49.Kd5 Ra1 50.c5 Rd1+ 51.Ke6 Kd8 52.Ra7 Rc1 53.Kd6 Rd1+ 54.Kc6 Re1 55.Rd7+ Ke8 56.Rd5 Ke7 57.Kc7 Ke6 58.Rd8 Rh1 59.c6 Kxe5 60.Kb8 Rb1+ 61.Kc8 Ke6 62.c7 Rc1 63.Kb7 Kf6 1-0

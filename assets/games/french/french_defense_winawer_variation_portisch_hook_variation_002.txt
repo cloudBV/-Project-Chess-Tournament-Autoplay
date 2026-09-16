@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-1/XUUyCB30/uYoSKZQc"]
+[Date "2026.07.09"]
+[Round "15.2"]
+[White "Gibala, Adam"]
+[Black "Chiszko, Oskar"]
+[Result "1-0"]
+[WhiteElo "2267"]
+[BlackElo "2304"]
+[ECO "C18"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Portisch-Hook Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qa5 7.Bd2 Qa4 8.Qb1 c4 9.h4 Nc6 10.h5 h6 11.Be3 Nge7 12.g4 Bd7 13.Kd2 O-O-O 14.Bh3 f6 15.f4 Rdf8 16.Ne2 f5 17.Qb2 Rf7 18.Rag1 fxg4 19.Bxg4 Rg8 20.Bh3 Nf5 21.Bf2 Nce7 22.Rg2 b6 23.Rhg1 Kc7 24.Be3 Qc6 25.Rg4 Bc8 26.Bf2 Qe8 27.Qb4 Qf8 28.Bh4 a5 29.Bxe7 axb4 30.Bxf8 bxc3+ 31.Kxc3 Rgxf8 32.Rg6 Rg8 33.Bxf5 Rxf5 34.Rxg7+ Rxg7 35.Rxg7+ Kc6 36.Ng3 Rxf4 37.Rg6 Kb5 38.Ne2 Rf2 39.Kd2 Kc6 40.Rxh6 Rh2 41.Rh8 c3+ 42.Kxc3 Ba6 43.Nf4 Kd7 44.h6 Rh4 45.Ng6 Rh3+ 46.Kb2 Bc4 47.h7 1-0

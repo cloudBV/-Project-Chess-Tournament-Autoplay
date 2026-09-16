@@ -1,0 +1,14 @@
+[Event "Round 9: Urbani, Gabriel - Tripodi, Enzo"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/d21TXGDl"]
+[Date "2026.07.12"]
+[Round "9.9"]
+[White "Urbani, Gabriel"]
+[Black "Tripodi, Enzo"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2238"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.c4 e6 7.Nc3 Bb4 8.Nxc6 bxc6 9.Bd3 dxc4 10.Bxc4 Qxd1+ 11.Kxd1 Ne7 12.Ke2 O-O 13.Rd1 Nd5 14.Bd2 a5 15.a3 Be7 16.Rac1 Ba6 17.Bxa6 Rxa6 18.Nxd5 cxd5 19.Rc7 Bd8 20.Rd7 f6 21.Rc1 fxe5 22.Rc8 Bb6 23.Rc6 Rxf2+ 24.Ke1 Rf8 25.Be3 d4 26.Bg5 a4 27.Bd2 d3 28.Rc4 Bf2+ 29.Kd1 Ra7 30.Rxd3 Bd4 31.Be3 Rb7 32.Bxd4 exd4 33.Rd2 e5 34.Rxa4 Rf1+ 35.Ke2 Rb1 36.b4 Rb3 37.Ra8+ Kf7 38.Rd3 Rb2+ 39.Kf3 Ke6 40.Rd1 Rf7+ 41.Ke4 Re2+ 42.Kd3 Re3+ 43.Kc4 Rc3+ 44.Kb5 Rb7+ 45.Ka6 Rd7 46.a4 d3 47.Re8+ Kd5 48.b5 e4 49.b6 Rb3 50.a5 Kd4 51.Re1 d2 52.R8xe4+ Kc3 53.R1e3+ Kc2 54.Rc4+ Kb2 55.Re2 Ka3 56.Rxd2 Rxd2 57.Kb7 Rd6 58.Kc7 Rf6 59.g4 Rb5 60.a6 Rbxb6 61.a7 Ra6 62.Kb7 Rfb6+ 63.Kc7 Rb3 0-1

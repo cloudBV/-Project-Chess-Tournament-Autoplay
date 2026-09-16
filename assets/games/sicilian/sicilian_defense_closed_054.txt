@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "9.7"]
+[White "Garcia Jimenez, Francisco Javier"]
+[Black "Navajas Alvarez, Antoni"]
+[Result "1-0"]
+[WhiteElo "2265"]
+[BlackElo "2041"]
+[ECO "B26"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 Rb8 7.Qd2 b5 8.Nd1 a5 9.c3 b4 10.d4 cxd4 11.cxd4 Bd7 12.Ne2 h5 13.h3 Nf6 14.O-O O-O 15.Bh6 Qb6 16.Bxg7 Kxg7 17.Ne3 h4 18.g4 Rh8 19.Kh1 e5 20.dxe5 dxe5 21.g5 Nxe4 22.Bxe4 Bxh3 23.Rfc1 Nd4 24.Nxd4 exd4 25.Nd5 Qe6 26.Qxd4+ 1-0

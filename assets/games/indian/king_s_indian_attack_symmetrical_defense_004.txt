@@ -1,0 +1,15 @@
+[Event "WR Women's Chess Tour 2026 - Dom. Rep. Rapid session"]
+[Site "Punta Cana, La Altagracia, Dominican Republic"]
+[Date "2026.07.01"]
+[Round "5.1"]
+[White "Cori T., Deysi"]
+[Black "Lee, Alice"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2415"]
+[ECO "A05"]
+[TimeControl "15 minutos para la partida con incrementos de 10 segundos desde el primer movimiento."]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.b3 d5 6.Bb2 c5 7.e3 Nc6 8.Ne5 Qd6 9.Nxc6 bxc6 10.d3 e5 11.Nd2 Bg4 12.Qe1 Nd7 13.e4 Rae8 14.a4 Qe6 15.exd5 cxd5 16.c4 d4 17.Ne4 Rb8 18.Ra3 Rb6 19.Qa5 Rfb8 20.Qxa7 Rxb3 21.Bc1 h6 22.Rxb3 Rxb3 23.Nxc5 Nxc5 24.Qxc5 Be2 25.Re1 Bxd3 26.Bd5 Qd7 27.Qa5 Bf8 28.Qa6 Kg7 29.Rxe5 Rb1 30.Re1 Qxd5 31.Bxh6+ Kxh6 32.Rxb1 Qxc4 33.Qxc4 Bxc4 34.a5 Be2 35.Rb8 Bc5 36.Rc8 Bb4 37.Rd8 Bc3 38.Rd5 d3 39.a6 d2 40.a7 Bf3 41.Rd8 Kg7 42.h4 Bd4 43.Rxd4 d1=Q+ 44.Rxd1 f5 45.a8=Q Kh6 1-0

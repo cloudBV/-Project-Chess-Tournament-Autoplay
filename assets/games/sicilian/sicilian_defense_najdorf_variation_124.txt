@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-2/VSYgJsUo/fCfqw8Hi"]
+[Date "2026.07.21"]
+[Round "2.19"]
+[White "Snedker, Oliver Kaehne"]
+[Black "Slavensky, Asbjorn Vesterkar"]
+[Result "0-1"]
+[WhiteElo "2105"]
+[BlackElo "2193"]
+[ECO "B96"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Nbd7 8.Qf3 Qc7 9.O-O-O b5 10.g4 b4 11.Nce2 Bb7 12.Bxf6 Nxf6 13.Ng3 Be7 14.g5 Nd7 15.f5 Bxg5+ 16.Kb1 exf5 17.Qh5 Bf6 18.Ne6 Qb6 19.Qxf5 g6 20.Qg4 h5 21.Qh3 h4 22.Ne2 Bxe4 23.Bg2 Bf5 24.Qf3 h3 25.Bxh3 Bxh3 26.Qxa8+ Ke7 27.N6f4 Rxa8 28.Nd5+ Kf8 29.Nxb6 Nxb6 30.Rxd6 Nd7 31.Rhd1 Re8 32.Nc1 a5 33.Nd3 Kg7 34.Rd5 Ne5 35.Nxe5 Rxe5 36.Rxe5 Bxe5 37.Re1 Kf6 38.Re3 Be6 39.h3 Bf4 40.Rd3 Kg5 41.a3 b3 42.Rf3 a4 43.cxb3 Bxb3 44.Rc3 Kh4 45.Rd3 g5 46.Rc3 f5 47.Rc5 Kxh3 48.Rxf5 Kg4 49.Rxg5+ Kxg5 50.Ka1 Kf5 51.Kb1 Ke4 52.Ka1 Kd3 53.Kb1 Bd1 54.Ka2 Kc4 55.Kb1 Kb3 56.Ka1 Be5 57.Kb1 Bc2+ 58.Ka1 Bxb2# 0-1

@@ -1,0 +1,14 @@
+[Event "Round 8: Shi, Sebastian - Engqvist, Thomas"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-8/Uzk59lx2/AKfFEpD4"]
+[Date "2026.07.24"]
+[Round "8.12"]
+[White "Shi, Sebastian"]
+[Black "Engqvist, Thomas"]
+[Result "0-1"]
+[WhiteElo "2011"]
+[BlackElo "2311"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 g6 6.Nf3 Nh6 7.O-O Bg7 8.Bf4 O-O 9.Nbd2 f6 10.Re1 Nf7 11.Bb5 Re8 12.c4 a6 13.cxd5 axb5 14.dxc6 bxc6 15.Nb3 Qd5 16.Qc2 g5 17.Bc7 Bf5 18.Qc5 Be4 19.Qxd5 Bxd5 20.Nfd2 Ra4 21.Bb6 f5 22.a3 g4 23.Re2 Ng5 24.Rae1 Kf7 25.Bc5 Ne6 26.Bb4 Ra7 27.g3 Nxd4 28.Nxd4 Bxd4 29.Nb1 Rd7 30.Rc1 Bf3 31.Rec2 Be4 32.Rd2 e5 33.Nc3 Bf3 34.Ne2 Red8 35.Kf1 Bb6 36.Rcd1 Ke6 37.Rxd7 Rxd7 38.Rxd7 Kxd7 39.Bd2 Kd6 40.Nc3 Bd4 41.b4 h5 42.Ke1 Ke6 43.Kf1 f4 44.Ke1 Kf5 45.Kf1 Kg5 46.Ke1 h4 47.Kf1 h3 48.Ke1 Kf5 49.Kf1 fxg3 50.fxg3 e4 51.Ne2 Bxe2+ 52.Kxe2 Ke6 53.Bf4 Kd5 54.Bc1 Kc4 55.Bd2 Bg1 56.Kf1 Kd3 57.Bf4 Bxh2 58.Kf2 e3+ 59.Ke1 Bg1 60.Kf1 h2 61.Kg2 e2 0-1

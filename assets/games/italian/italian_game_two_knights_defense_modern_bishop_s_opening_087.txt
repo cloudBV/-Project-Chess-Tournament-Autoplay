@@ -1,0 +1,15 @@
+[Event "Round 2: Brodsky, David - Tanenbaum, Zachary"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-2/MjzRlbHj/jMXR1gbI"]
+[Date "2026.07.16"]
+[Round "2.3"]
+[White "Brodsky, David"]
+[Black "Tanenbaum, Zachary"]
+[Result "1-0"]
+[WhiteElo "2518"]
+[BlackElo "2310"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a3 h6 8.h3 Be6 9.Nbd2 Bxc4 10.Nxc4 Re8 11.b4 a6 12.Bb2 Bf8 13.Ne3 Qd7 14.c4 Ne7 15.Nh4 Rad8 16.Qf3 Nh7 17.Qg3 Ng5 18.Ng4 f5 19.exf5 Nxf5 20.Nxf5 Qxf5 21.h4 Nf7 22.Re3 Kh7 23.Rae1 Re6 24.Rf3 Qg6 25.Qh3 h5 26.Ne3 c6 27.Rg3 Qh6 28.Bc1 Qf6 29.Nf5 g6 30.Nd4 Ree8 31.Rf3 Qe7 32.Ne6 Qxe6 33.Qxe6 Rxe6 34.Rxf7+ Kg8 35.Rxb7 d5 36.Bg5 Ra8 37.a4 Ree8 38.Rb6 dxc4 39.dxc4 Rac8 40.a5 Rb8 41.Rxc6 Bxb4 42.Rd1 Be7 43.Rd7 Kf8 44.Rxg6 Rbc8 45.Rh6 Kg7 46.Re6 1-0

@@ -1,0 +1,15 @@
+[Event "Round 2: Kothari, Jai - Hariharan, Shambavi"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/PWmQQ4eh"]
+[Date "2026.07.22"]
+[Round "2.13"]
+[White "Kothari, Jai"]
+[Black "Hariharan, Shambavi"]
+[Result "1/2-1/2"]
+[WhiteElo "2160"]
+[BlackElo "2025"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 d5 5.Bb5 Nxe4 6.Qe2 Qd6 7.Nxe4 dxe4 8.Qxe4 Bd7 9.d4 O-O-O 10.dxe5 Nxe5 11.Bxd7+ Rxd7 12.O-O Nxf3+ 13.Qxf3 Qd5 14.Qh3 Bc5 15.Bf4 f5 16.Rae1 g6 17.Qg3 Qf7 18.h4 Rhd8 19.Re2 Bd6 20.Bxd6 Rxd6 21.Rfe1 R6d7 22.Qg5 Qc4 23.c3 b6 24.h5 Rd1 25.Kh2 Rxe1 26.Rxe1 Qc5 27.Kg1 Qd6 28.Qe7 Qd2 29.Qe2 Qg5 30.Qf3 Kb8 31.a4 Qd2 32.Qe2 Qd5 33.Qe5 Qd2 34.b4 Rd5 35.Qe3 Qa2 36.hxg6 hxg6 37.b5 Rd8 38.Qg5 Rg8 39.Qf4 Rd8 40.Qg5 Rg8 41.Qf4 Rd8 42.Qb4 Qd2 43.Qe7 Rh8 44.Qe3 Qd6 45.Qe5 Qf8 46.Qf4 Qg7 47.c4 Qh7 48.f3 Qd7 49.Qe5 Qh7 50.Qf4 Qd7 51.Qe5 Qh7 52.Qd4 Qh1+ 53.Kf2 Qh2 54.Qf6 Qh6 55.Re2 Rf8 56.Qe7 g5 57.Rd2 Qh4+ 58.Kg1 Rc8 59.Qe6 Qf4 60.Rd1 Rh8 61.a5 Qh2+ 62.Kf2 Qh4+ 63.Ke2 Qh2 64.Kf2 Qh4+ 65.Ke2 Qh2 66.Kf2 Qh4+ 1/2-1/2

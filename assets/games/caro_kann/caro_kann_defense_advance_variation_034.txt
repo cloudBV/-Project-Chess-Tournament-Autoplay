@@ -1,0 +1,15 @@
+[Event "Round 8: Yu, Xiangbo - Liu, Hanzhong"]
+[Site "https://lichess.org/broadcast/2026/round-8/d3FFFA2C/eTE2ZbF9"]
+[Date "2026.07.14"]
+[Round "8.2"]
+[White "Yu, Xiangbo"]
+[Black "Liu, Hanzhong"]
+[Result "1/2-1/2"]
+[WhiteElo "2128"]
+[BlackElo "2071"]
+[ECO "B12"]
+[TimeControl "45+10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Be2 e6 5.Nf3 c5 6.Be3 cxd4 7.Nxd4 Ne7 8.Nd2 Nbc6 9.f4 Nxd4 10.Bxd4 Nc6 11.Nf3 Rc8 12.c3 Be7 13.Be3 O-O 14.O-O f6 15.exf6 Bxf6 16.Nd4 Nxd4 17.Bxd4 b6 18.Re1 Be4 19.Bg4 Qe8 20.g3 Bxd4+ 21.Qxd4 Qg6 22.Qd1 Rf6 23.Bh5 Qf5 24.Bg4 Qg6 25.Bh5 Qf5 26.Bg4 Qg6 1/2-1/2

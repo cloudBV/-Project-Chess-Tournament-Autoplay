@@ -1,0 +1,14 @@
+[Event "Round 6: Stefanou, Konstantinos - Stefanou, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/MTLo864p"]
+[Date "2026.07.10"]
+[Round "6.18"]
+[White "Stefanou, Konstantinos"]
+[Black "Stefanou, Dimitrios"]
+[Result "1/2-1/2"]
+[WhiteElo "2260"]
+[BlackElo "2358"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.c4 Bb4+ 6.Nbd2 Ne7 7.Qb3 a5 8.a3 dxc4 9.Bxc4 Bxd2+ 10.Bxd2 Nd7 11.Qxb7 Rb8 12.Qa6 Ra8 13.Qb7 Rb8 14.Qa6 Ra8 15.Qb7 Rb8 16.Qa6 Ra8 17.Qb7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Farrand, Tom - Babrikowski, Peter, Dr."]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-7/KlirSnWo/1yryd1qo"]
+[Date "2026.07.04"]
+[Round "7.1"]
+[White "Farrand, Tom"]
+[Black "Babrikowski, Peter, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2077"]
+[BlackElo "2156"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 c6 4.Nf3 e4 5.Nd4 d5 6.cxd5 cxd5 7.O-O Bc5 8.Nb3 Bb6 9.d4 O-O 10.Nc3 Be6 1/2-1/2

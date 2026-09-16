@@ -1,0 +1,15 @@
+[Event "Round 3: Yessengali, Adizhan - Bakhrillaev, Bakhrom"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/FT8pXGtR"]
+[Date "2026.07.23"]
+[Round "3.10"]
+[White "Yessengali, Adizhan"]
+[Black "Bakhrillaev, Bakhrom"]
+[Result "1/2-1/2"]
+[WhiteElo "2252"]
+[BlackElo "2435"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 c5 5.Nc3 cxd4 6.Nxd4 Nc6 7.Bg2 h5 8.h3 Nxd4 9.Qxd4 O-O 10.O-O d6 11.Qd3 Be6 12.Nd5 Nxd5 13.cxd5 Bf5 14.e4 Bd7 15.Bg5 Qb6 16.Qd2 Rfe8 17.Rac1 a5 18.Be3 Qxb2 19.Qxb2 Bxb2 20.Rc7 Ba4 21.Rb1 Bf6 22.Rbxb7 Reb8 23.h4 Rxb7 24.Rxb7 Rc8 25.Ra7 Rc2 26.Rxa5 Rxa2 27.Bf1 Ra1 28.Kg2 Bc2 29.Rxa1 Bxa1 30.f3 f5 31.exf5 Bxf5 32.Bb5 Kf7 33.Bg5 Bf6 34.Be3 e6 35.Bc4 exd5 36.Bxd5+ Be6 37.Bc6 d5 38.Kf2 1/2-1/2

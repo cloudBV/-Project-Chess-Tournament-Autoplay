@@ -1,0 +1,15 @@
+[Event "Round 9: Iglesias Ferreira, Andres - Alcala Gonzalez, Cesar"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-9/EPfgx8Ax/KqI5ln8c"]
+[Date "2026.07.03"]
+[Round "9.3"]
+[White "Iglesias Ferreira, Andres"]
+[Black "Alcala Gonzalez, Cesar"]
+[Result "0-1"]
+[WhiteElo "2228"]
+[BlackElo "2297"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 Ng6 7.O-O f6 8.exf6 Qxf6 9.Bg5 Qf7 10.Nbd2 Bd6 11.Bh4 O-O 12.Bg3 Nf4 13.Re1 Nd7 14.Nh4 Rae8 15.Nxf5 Qxf5 16.Bg4 Qf7 17.Qf3 Qg6 18.Kh1 h5 19.Bxf4 hxg4 0-1

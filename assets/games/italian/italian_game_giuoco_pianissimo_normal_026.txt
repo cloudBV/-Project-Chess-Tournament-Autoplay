@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.24"]
+[White "Valle Luis, Leo"]
+[Black "Saxena, Vihaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2372"]
+[BlackElo "2085"]
+[ECO "C50"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nbd2 a6 6.h3 h6 7.a4 Ba7 8.Qe2 d6 9.c3 O-O 10.g4 Nh7 11.Rg1 Be6 12.Nf1 d5 13.Ba2 dxe4 14.dxe4 Bxa2 15.Rxa2 Ng5 16.Bxg5 hxg5 17.Ne3 g6 18.b4 f6 19.Qc4+ Kg7 20.Rd2 Qe7 21.Nd5 Qf7 22.Ke2 Rac8 23.Rgd1 Ne7 24.Qa2 Rfd8 25.Nxe7 Qxe7 26.Qc4 Rxd2+ 27.Rxd2 Rd8 28.Rxd8 Qxd8 29.Ne1 Qd7 30.b5 axb5 31.axb5 Bb6 32.Nd3 Qd6 33.Nb4 Ba5 34.Nd5 Bb6 35.Qb4 Qxb4 36.Nxb4 Kf7 37.Nd5 Ba5 38.Kd3 Ke6 39.Kc4 c6 40.bxc6 bxc6 41.Ne3 Kd6 42.Nd1 Bb6 43.Kb4 Kd7 44.f3 Kd6 45.Nb2 Bd8 46.Nc4+ Kd7 47.Kc5 Kc7 48.Ne3 Be7+ 49.Kc4 Kb6 50.Ng2 Bc5 51.h4 gxh4 52.Nxh4 g5 53.Nf5 Bf8 54.Ne3 Bc5 55.Nd1 Ba3 56.Nf2 Bc5 57.Nd3 Be7 58.Nb2 Ka5 59.Nd3 Kb6 60.Nc1 Bd6 61.Kb3 Be7 62.Ne2 Bc5 63.Ng3 Bd6 64.Nh5 Be7 65.Kc4 Ka6 66.Ng7 Kb6 67.Ne6 Bd6 68.Nd8 Be7 69.Nf7 Bf8 70.Nd8 Be7 71.Ne6 Bd6 72.Kb3 Be7 73.Ka4 Bd6 74.Ng7 Be7 75.Nf5 Bf8 76.Kb3 Kb5 77.Ne3 Kb6 78.Ka4 Be7 79.Nc4+ Ka6 80.Nb2 Kb6 81.Kb3 Bf8 82.Kc4 Ka5 83.Nd3 Kb6 84.Nb4 Be7 85.Nc2 Bc5 86.Ne1 Bf8 87.Nd3 Be7 88.Nf2 Bc5 89.Nd1 Ba3 90.Ne3 Bc5 91.Nf5 Bf8 92.Ng3 Bd6 93.Nh5 Be7 94.Ng7 Bf8 95.Nf5 Ka6 96.Kb3 Kb5 97.c4+ Kb6 98.Ne3 Bc5 99.Nf5 Bf8 100.Kc3 Ka6 101.Ng3 Kb6 102.Nf1 Bc5 103.Nd2 Bf8 104.Nb3 Be7 105.Nc1 Bf8 106.Ne2 Bc5 107.Ng3 Bd6 108.Nh5 Be7 109.Ng7 Bf8 110.Ne6 Be7 111.Kd3 Bd6 112.Nd8 Be7 113.Nf7 Bf8 114.Nd8 Be7 115.Nf7 Bf8 116.Nd8 1/2-1/2

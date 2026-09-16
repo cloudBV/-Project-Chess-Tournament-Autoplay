@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.01.28"]
+[Round "6.1"]
+[White "Fernandez, Daniel Howard"]
+[Black "MORONI, Luca Jr"]
+[Result "0-1"]
+[WhiteElo "2529"]
+[BlackElo "2551"]
+[ECO "A10"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 b6 2.b3 Bb7 3.Bb2 Nf6 4.Nf3 e6 5.g3 Bxf3 6.exf3 c5 7.Bg2 Nc6 8.f4 Rc8 9.Nc3 Be7 10.Ne2 O-O 11.d4 cxd4 12.Nxd4 Bb4+ 13.Kf1 d5 14.cxd5 Nxd5 15.Nxc6 Rxc6 16.Bxd5 Qxd5 17.Qxd5 exd5 18.Kg2 Rc2 19.Bd4 Ba3 20.Kf3 f6 21.Rhe1 Kf7 22.Re2 Rfc8 23.f5 Bb2 24.Rxc2 Rxc2 25.Bxb2 Rxb2 26.g4 Ke7 27.Re1+ Kd7 28.Re2 Rxe2 29.Kxe2 Kd6 30.Ke3 Kc5 31.f4 a5 32.a3 a4 33.bxa4 Kc4 34.Kd2 Kd4 35.h3 h6 36.Ke2 Kc3 37.h4 d4 38.Kd1 h5 39.gxh5 Kd3 0-1

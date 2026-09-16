@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-3/j8fQQG3m/upLaHkqd"]
+[Date "2026.07.21"]
+[Round "3.15"]
+[White "Berling, Egil"]
+[Black "Veiergang, Oscar"]
+[Result "1-0"]
+[WhiteElo "2121"]
+[BlackElo "2234"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 g6 3.c4 Bg7 4.Bg2 Nf6 5.d4 cxd4 6.Nxd4 O-O 7.Nc3 Nc6 8.O-O a6 9.c5 Qc7 10.Na4 Rd8 11.Nb6 Rb8 12.Nxc6 dxc6 13.Bf4 1-0

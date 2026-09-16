@@ -1,0 +1,14 @@
+[Event "Round 7: Dong, Hongfu - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-7/XL83IlpS/p1MZU7RM"]
+[Date "2026.07.20"]
+[Round "7.4"]
+[White "Dong, Hongfu"]
+[Black "Alexakis, Dimitris"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2525"]
+[ECO "B68"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O e6 9.f4 Be7 10.Nf3 b5 11.e5 b4 12.exf6 bxc3 13.Qxc3 gxf6 14.Bh4 d5 15.a3 Rc8 16.Nd4 Rg8 17.Nxc6 Rxc6 18.Qd3 f5 19.Bxe7 Kxe7 20.g3 Qa5 21.Qd4 Rb8 22.Bd3 Rcb6 23.Rhe1 Rxb2 24.Qxb2 Rxb2 25.Kxb2 d4 26.Re5 Qc3+ 27.Kb1 Qxa3 28.Bxf5 Qb4+ 29.Kc1 a5 30.Be4 f6 31.Rh5 a4 32.Rxh7+ Kd6 33.Rh8 a3 34.Bg6 Qb2+ 35.Kd2 Qc3+ 36.Ke2 Bb5+ 37.Bd3 Qxc2+ 0-1

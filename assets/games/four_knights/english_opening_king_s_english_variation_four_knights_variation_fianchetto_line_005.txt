@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "9.2"]
+[White "Raczek, Krzysztof"]
+[Black "Warchol, Kamil"]
+[Result "1/2-1/2"]
+[WhiteElo "2458"]
+[BlackElo "2277"]
+[ECO "A29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ng5 Bxc3 8.bxc3 Re8 9.d3 e3 10.fxe3 h6 11.Nf3 d5 12.cxd5 Nxd5 13.e4 Nxc3 14.Qc2 Nd4 15.Nxd4 Qxd4+ 16.Kh1 Nxe4 17.dxe4 Qxa1 18.Bxh6 Qd4 19.Bc1 c6 20.Bb2 Qe3 21.Bc1 Qb6 22.Bb2 Qb4 23.a3 Qe7 24.h4 Bg4 25.Rf4 Qe6 26.Qc3 f6 27.e5 f5 28.e4 Rad8 29.Kh2 Rd7 30.Bf1 Kh8 31.Bc4 Qg6 32.e6 Rde7 33.exf5 Bxf5 34.h5 Qg5 35.h6 Bxe6 36.hxg7+ Kg8 37.Rh4 Rxg7 38.Bxe6+ Rxe6 39.Qb3 Qd5 40.Qxd5 cxd5 41.Bxg7 Kxg7 42.Ra4 a6 43.Rb4 b6 44.a4 Rd6 45.Kg2 Kf6 46.Kf3 Ke5 47.Ke3 d4+ 48.Kd3 Rg6 49.g4 Rxg4 50.Rxb6 Rg3+ 51.Kd2 Ke4 52.Re6+ Kd5 53.Rxa6 1/2-1/2

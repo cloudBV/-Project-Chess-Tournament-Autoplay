@@ -1,0 +1,15 @@
+[Event "Round 5: Banh Gia Huy - Kao, Jamison Edrich"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-5/ZNuoIZMc/3UEjv1Vl"]
+[Date "2026.07.19"]
+[Round "5.4"]
+[White "Banh Gia Huy"]
+[Black "Kao, Jamison Edrich"]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2242"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 e5 7.d4 Nc6 8.dxe5 dxe5 9.Bg5 Be6 10.Qc1 Qc8 11.Rd1 Nd7 12.b3 Re8 13.Bh6 f6 14.h4 Nd8 15.Bxg7 Kxg7 16.Qe3 Nf7 17.c5 h6 18.c6 bxc6 19.Nd2 Qa6 20.Qe4 c5 21.Qa4 Qxa4 22.Nxa4 Rab8 23.Rac1 Red8 24.Bc6 f5 25.Bxd7 Bxd7 26.Nxc5 Bc8 27.f3 Kf6 28.Kf2 c6 29.Nd3 Bb7 30.Nc4 Rd5 31.e4 Rdd8 32.Nc5 Bc8 33.Rxd8 Nxd8 34.Rd1 Nf7 35.Nd7+ Bxd7 36.Rxd7 fxe4 37.fxe4 Ra8 38.Rc7 Nd8 39.Ke3 g5 40.hxg5+ hxg5 41.Kf3 Rb8 42.Rxa7 Ne6 43.Ra5 Nd4+ 44.Kg4 Re8 45.Ra7 Nb5 46.Rh7 Nd4 47.Rh6+ Kg7 48.Rd6 c5 49.Kxg5 Nf3+ 50.Kg4 Nd4 51.Ra6 Kh7 52.Kh3 Ne2 53.Rc6 Ra8 54.a4 Nd4 55.Rb6 Nf3 56.Kg4 Rf8 57.a5 Nh2+ 58.Kh3 Nf3 59.a6 Ng5+ 60.Kg2 Nxe4 61.a7 Rf2+ 62.Kg1 Ra2 63.Rb7+ Kg6 64.Nb6 Ra1+ 65.Kg2 Ra2+ 66.Kf3 1-0

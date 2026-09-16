@@ -1,0 +1,14 @@
+[Event "Round 1: Cassam-Chenai, Antoine - Dudin, Gleb"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/tuORHMLS"]
+[Date "2026.07.18"]
+[Round "1.16"]
+[White "Cassam-Chenai, Antoine"]
+[Black "Dudin, Gleb"]
+[Result "0-1"]
+[WhiteElo "2296"]
+[BlackElo "2577"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.a4 Nf6 5.Nc3 a6 6.Be2 g6 7.O-O Bg7 8.d4 cxd4 9.Nxd4 b6 10.f4 Bb7 11.Bf3 e5 12.Nb3 Qc7 13.g3 O-O 14.Be3 Rfe8 15.Qd3 Rad8 16.Rad1 exf4 17.gxf4 Nc5 18.Nxc5 dxc5 19.Nd5 Nxd5 20.exd5 Bxb2 21.c4 Bc8 22.Qd2 Qe7 23.Bf2 Qf6 24.a5 Bc3 25.Bh4 Qxh4 26.Qxc3 bxa5 27.Qxa5 Bh3 28.Rf2 Re3 29.Bg2 Bxg2 0-1

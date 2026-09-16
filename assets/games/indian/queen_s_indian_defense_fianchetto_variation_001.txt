@@ -1,0 +1,15 @@
+[Event "Ronda 5: Alvarez Lee, Felix - Badia Berthelot, Luca"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u14/ronda-5/d21rKUOx/5Sz1NxaO"]
+[Date "2026.07.03"]
+[Round "5.2"]
+[White "Alvarez Lee, Felix"]
+[Black "Badia Berthelot, Luca"]
+[Result "1-0"]
+[WhiteElo "2116"]
+[BlackElo "2169"]
+[ECO "E15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Bb7 7.Bg2 O-O 8.Nc3 Ne4 9.Qc2 Nxc3 10.bxc3 f5 11.Rd1 Be4 12.Qc1 Qe7 13.O-O Nc6 14.Qf4 d6 15.h4 Na5 16.Nd2 Bxg2 17.Kxg2 Qd7 18.d5 Rae8 19.e3 Qa4 20.Qd4 e5 21.Qd3 f4 22.g4 fxe3 23.fxe3 b5 24.Kg3 bxc4 25.Qe4 Qa3 26.Nf3 h6 27.g5 Kh8 28.gxh6 gxh6 29.Ng5 hxg5 30.Qg6 Qc5 31.Qh6+ Kg8 32.Qxg5+ Kh7 33.Kh3 Qb5 34.Qh5+ Kg7 35.Rg1+ Kf6 36.Qg5+ Kf7 37.Rdf1# 1-0

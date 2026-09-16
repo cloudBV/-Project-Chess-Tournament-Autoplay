@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-9/Yar24TEc/dqYeSOQF"]
+[Date "2026.07.05"]
+[Round "9.8"]
+[White "Alonso, Salvador"]
+[Black "Melian, Juan Sebastian"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2377"]
+[ECO "B43"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nf3 a6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 b5 6.Bd3 Bb7 7.O-O Nc6 8.Nxc6 Bxc6 9.Qe2 Bc5 10.a4 b4 11.Nb1 a5 12.Nd2 d6 13.Nb3 Bb6 14.Be3 Ne7 15.Nd4 O-O 16.Nxc6 Nxc6 17.f4 Bxe3+ 18.Qxe3 Qf6 19.e5 Qh6 20.exd6 Rfd8 21.Rad1 Nb8 22.Be4 Ra6 23.Qc5 1-0

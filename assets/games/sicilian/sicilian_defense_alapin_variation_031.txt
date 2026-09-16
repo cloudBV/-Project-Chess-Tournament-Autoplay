@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.11"]
+[Round "6.1"]
+[White "Nogerbek, Kazybek"]
+[Black "Muradli, Mahammad"]
+[Result "1/2-1/2"]
+[WhiteElo "2494"]
+[BlackElo "2642"]
+[ECO "B22"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 d6 6.exd6 Qxd6 7.Na3 Qd3 8.Qf3 Bf5 9.Bc2 Qxf3 10.Nxf3 Bxc2 11.Nxc2 c4 12.b3 N8d7 13.Ne3 Rc8 14.Rb1 cxb3 15.axb3 e5 16.Bb2 Nc5 17.Nxe5 Nxb3 18.Ba1 Na5 19.Ke2 f6 20.Nf3 Nbc4 21.Rb5 b6 22.d3 Nd6 23.Rd5 Nc6 24.Bb2 Be7 25.Ra1 O-O 26.Nd4 Nxd4+ 27.Rxd4 Rf7 28.Nd5 Bf8 29.Rda4 Nb5 30.c4 Nc7 31.Nxc7 1/2-1/2

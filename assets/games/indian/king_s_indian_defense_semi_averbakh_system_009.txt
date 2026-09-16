@@ -1,0 +1,14 @@
+[Event "Round 3: Katsanis, Vasileios Dim - Papakonstantinou, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/819B036W"]
+[Date "2026.07.06"]
+[Round "3.32"]
+[White "Katsanis, Vasileios Dim"]
+[Black "Papakonstantinou, Dimitrios"]
+[Result "0-1"]
+[WhiteElo "2363"]
+[BlackElo "2351"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 e5 7.d5 Na6 8.h4 Nc5 9.Qc2 c6 10.h5 cxd5 11.cxd5 Qa5 12.h6 Bh8 13.f3 Bd7 14.a3 Na4 15.b4 Qc7 16.Rc1 Rfc8 17.Kd2 Qd8 18.Qd1 Rxc3 19.Rxc3 Nxc3 20.Kxc3 a5 21.b5 a4 22.b6 Nh5 23.Kb2 f5 24.Bd3 Ng3 25.Rh2 fxe4 26.fxe4 Nf5 27.exf5 e4+ 28.Ka2 Qf6 29.g4 exd3 30.fxg6 Qxg6 31.Bc1 Bxg4 32.Qd2 Rc8 33.Qe3 Qf5 34.Bb2 Qxd5+ 35.Kb1 d2 36.Qxd2 Bf5+ 37.Ka1 Qxd2 38.Rxd2 Rc1+ 0-1

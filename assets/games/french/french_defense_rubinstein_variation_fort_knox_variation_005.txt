@@ -1,0 +1,14 @@
+[Event "Round 3.1: Van den Doel, Erik - Tiviakov, Sergei"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-31/sHCHS6pF/MBQ9zwNi"]
+[Date "2026.07.07"]
+[Round "11.2"]
+[White "Van den Doel, Erik"]
+[Black "Tiviakov, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2549"]
+[BlackElo "2530"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6 8.Ng3 Be7 9.Re1 O-O 10.c3 Bxf3 11.Qxf3 c6 12.Bd2 Re8 13.Nf1 Qc7 14.Ne3 c5 15.Nc4 cxd4 16.cxd4 Nd5 17.Rac1 Qd8 18.Ne5 Nxe5 19.dxe5 Qb6 20.b3 Bb4 21.Bxb4 Nxb4 22.Bb1 Rac8 23.h4 Rxc1 24.Rxc1 Nc6 25.h5 Qa5 26.Rd1 Rd8 27.Rxd8+ Qxd8 28.h6 Qd2 29.Be4 Qc1+ 30.Kh2 Qxh6+ 31.Kg1 Qc1+ 32.Kh2 Nxe5 33.Qg3 Qc7 34.Bxb7 h5 35.Kh3 f6 36.Bf3 Qc2 37.Kh2 Qxa2 38.Bxh5 Qd2 39.Qh3 Qd6 40.Kg1 g6 41.Be2 Kg7 42.Qe3 Qb6 43.Qc3 g5 44.Qc8 Qc6 45.Qd8 Qc1+ 46.Bf1 Qc5 47.b4 Qb6 48.Qe7+ Kg6 49.Be2 a6 50.Bh5+ Kxh5 51.Qh7+ Kg4 52.Qe4+ Kh5 53.Qh7+ Kg4 54.Qe4+ 1/2-1/2

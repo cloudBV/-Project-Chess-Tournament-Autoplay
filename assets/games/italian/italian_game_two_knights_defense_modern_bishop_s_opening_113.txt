@@ -1,0 +1,14 @@
+[Event "Round 10: Liu, Bei - Balabayeva, Xeniya"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/7fjrAmPr"]
+[Date "2026.07.23"]
+[Round "10.11"]
+[White "Liu, Bei"]
+[Black "Balabayeva, Xeniya"]
+[Result "1/2-1/2"]
+[WhiteElo "2175"]
+[BlackElo "2302"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 a5 8.h3 Be6 9.Nd5 Nb4 10.Ne3 h6 11.c3 Na6 12.Bxe6 fxe6 13.Nc4 b6 14.Re1 Qe8 15.d4 d5 16.Ncxe5 Nxe4 17.Nd2 Nxf2 18.Qe2 Bd6 19.Nef3 Ne4 20.Nxe4 dxe4 21.Qxe4 Rf6 22.b3 Rd8 23.Bb2 Qh5 24.Ba3 Qd5 25.Qe2 Nb8 26.c4 Qh5 27.Bb2 Rg6 28.Qe4 Rf8 29.Rf1 Rgf6 30.Rae1 Nd7 31.Kh1 Qf7 32.Qe2 Qg6 33.c5 Bg3 34.Rd1 Rf5 35.c6 Nb8 36.Ba3 R8f6 37.Rc1 Qh5 38.Rc3 g5 39.Rd1 Qf7 40.Rcc1 Bf4 41.Ne5 Qe8 42.Rc3 h5 43.Kg1 g4 44.hxg4 hxg4 45.Bc1 Qh5 46.Qxg4+ Qxg4 47.Nxg4 Rg6 48.Bxf4 Rxf4 49.Ne5 Rg5 50.Rdd3 Kg7 51.Rg3 Rxg3 52.Rxg3+ Kf6 53.Rd3 Na6 54.g3 Rf5 55.g4 Rf4 56.Kg2 Nb4 57.Rd2 Kg5 58.Kg3 Re4 59.Nf3+ Kg6 60.Ne5+ Kg5 61.Kf3 Re1 62.Rh2 Nd5 63.Rh5+ Kf6 64.Rh6+ Kg7 65.Rxe6 Re3+ 66.Kf2 Re4 67.Re8 Rxd4 68.Rd8 Kf6 69.Nf3 Rd1 70.Rd7 Ke6 71.g5 Kf5 72.Rf7+ Kg6 73.Ne5+ Kxg5 74.Nc4 Rd3 75.Rd7 Kf6 76.Nxb6 cxb6 77.c7 Rc3 78.Rxd5 Rxc7 79.Rd6+ Ke5 80.Rxb6 Kd4 81.Ke2 Kc3 82.Rb5 Re7+ 83.Kd1 Re4 84.Rb8 Re6 85.Rb7 Re5 86.Rb5 Re4 87.Rxa5 Kxb3 88.Ra8 Rxa4 89.Rxa4 Kxa4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 5: Kollars, Dmitrij - Donchenko, Alexander"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-5/yzzoZ1jd/kaJc1PYu"]
+[Date "2026.07.07"]
+[Round "5.1"]
+[White "Kollars, Dmitrij"]
+[Black "Donchenko, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2634"]
+[BlackElo "2635"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nf3 c5 8.c3 Nc6 9.O-O Rc8 10.a3 cxd4 11.cxd4 Nge7 12.Bg5 Qd7 13.Nc3 Nf5 14.Ne2 Be7 15.Ng3 Bxg5 16.Nxf5 Be7 17.Ne3 g6 18.Rac1 Kf8 19.Rc3 Kg7 20.Rfc1 a6 21.Qc2 Na7 22.Rc7 Qb5 23.Kh2 Qb6 24.g3 Nc6 25.Rxc8 Rxc8 26.Kg2 Na7 27.Qd2 Rxc1 28.Qxc1 Nc6 29.Qd2 Qd8 30.Qc2 Qb6 31.Qd2 Qd8 32.Qc2 Qb6 33.Qd2 1/2-1/2

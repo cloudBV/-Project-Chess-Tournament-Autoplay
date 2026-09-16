@@ -1,0 +1,14 @@
+[Event "Round 1: McPhillips, Joseph - Vihaan Dumir"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-1/HpSVQtBg/sQfBrJKC"]
+[Date "2026.07.04"]
+[Round "1.31"]
+[White "McPhillips, Joseph"]
+[Black "Vihaan Dumir"]
+[Result "1/2-1/2"]
+[WhiteElo "2382"]
+[BlackElo "2132"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+
+1.d4 e6 2.e4 d5 3.Nd2 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.Qe2 Bxe4 8.Bxe4 c6 9.c3 Ngf6 10.Bc2 Qc7 11.a4 a5 12.O-O Bd6 13.Re1 Bf4 14.g3 Bxc1 15.Raxc1 O-O 16.b4 Rfc8 17.Qd3 Nf8 18.Ne5 Nd5 19.bxa5 Rxa5 20.Bb3 Nb6 21.c4 Rd8 22.c5 Nbd7 23.Qc3 Nxe5 24.dxe5 Nd7 25.Qe3 Rb8 26.f4 b6 27.cxb6 Qxb6 28.Bd1 Nc5 29.Rc4 Nd3 30.Qxb6 Rxb6 31.Rf1 Nb2 32.Rc3 Nxd1 33.Rxd1 g6 34.Rc4 c5 35.Rdc1 Rb4 36.Rxc5 1/2-1/2

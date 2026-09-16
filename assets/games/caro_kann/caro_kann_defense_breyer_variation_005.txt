@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-7/N0mFXvpc/EwOelmu9"]
+[Date "2026.07.03"]
+[Round "7.7"]
+[White "Delgado Ramirez, Neuris"]
+[Black "Arias Gaviria, Mario Alexis"]
+[Result "1-0"]
+[WhiteElo "2519"]
+[BlackElo "2301"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Qe2 d4 5.g3 h5 6.h4 a5 7.Bh3 a4 8.a3 b5 9.f4 Nf6 10.Bxc8 Qxc8 11.fxe5 Ng4 12.Ndf3 c5 13.Nh3 Nc6 14.Nf4 Ncxe5 15.Nxe5 Nxe5 16.Nxh5 Ra6 17.Nf4 g5 18.Nd5 g4 19.Rf1 Nf3+ 20.Rxf3 gxf3 21.Qxf3 Bh6 22.Bf4 Bxf4 23.Qxf4 Kf8 24.O-O-O Rhh6 25.Rf1 Qd7 26.h5 Rxh5 27.Nf6 Rxf6 28.Qxf6 Qe7 29.Qb6 Qd7 30.Kb1 Kg8 31.g4 Re5 32.Rh1 Qe6 33.Qd8+ Qe8 34.Qf6 1-0

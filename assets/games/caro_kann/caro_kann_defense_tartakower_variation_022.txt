@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.4"]
+[White "Pasti, Aron"]
+[Black "Avila Pavas, Santiago"]
+[Result "1/2-1/2"]
+[WhiteElo "2428"]
+[BlackElo "2502"]
+[ECO "B15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5 9.Be3 Qc7 10.dxc5 Bxc5 11.Nd4 Nd7 12.Qh5 g6 13.Qh4 a6 14.O-O Ne5 15.Be2 Be7 16.Rad1 Re8 17.c4 b6 18.Qg3 Bd6 19.Qh4 Be7 20.Qg3 Bd6 21.Qh4 1/2-1/2

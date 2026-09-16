@@ -1,0 +1,14 @@
+[Event "Round 6: Guerrero Orihuela, Jose Luis - Lopez Pereyra, Antonio"]
+[Site "https://lichess.org/broadcast/campeonato-de-canarias-absoluto-y-femenino-2026/round-6/Ie69hIl5/rNT3t4CE"]
+[Date "2026.07.18"]
+[Round "6.6"]
+[White "Guerrero Orihuela, Jose Luis"]
+[Black "Lopez Pereyra, Antonio"]
+[Result "1-0"]
+[WhiteElo "2048"]
+[BlackElo "2078"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 a6 6.Bf1 Bg4 7.c3 Nf6 8.d4 cxd4 9.cxd4 Bxf3 10.gxf3 e5 11.d5 Ne7 12.Nc3 Ng6 13.Qb3 Be7 14.Qxb7 O-O 15.Be3 Rb8 16.Qxa6 Nh5 17.Ba7 Bh4 18.Bh3 Ra8 19.Qb7 Nhf4 20.Bf1 Qg5+ 21.Kh1 Qh5 22.Be3 Qxf3+ 23.Kg1 Rab8 24.Qa7 Rxb2 25.Rab1 Rxb1 26.Rxb1 Bd8 27.Bxf4 exf4 28.Rb3 Qg4+ 29.Kh1 Nh4 30.Ne2 h5 31.f3 Qg5 32.Nd4 Bf6 33.Nc6 Ng6 34.Qg1 Qh4 35.a4 Qe1 36.a5 Qd1 37.Bc4 Qc2 38.Qf1 Nh4 39.Qe2 Qc1+ 40.Qf1 Qc2 41.a6 Ra8 42.Qe2 Qc1+ 43.Qf1 Qd2 44.a7 Kh7 45.Qe2 Qc1+ 46.Qf1 Qd2 47.Rb8 Rxa7 48.Nxa7 Bd4 49.Nc6 Bf2 50.Rb1 g5 51.Qd3 Qxd3 52.Bxd3 g4 53.fxg4 hxg4 54.e5+ Kh6 55.exd6 g3 56.hxg3 fxg3 1-0

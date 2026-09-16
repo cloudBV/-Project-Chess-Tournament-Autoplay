@@ -1,0 +1,14 @@
+[Event "Round 9: Geronimi, Jean-Thomas - Kanana, Ziad"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-9/b3iktfM7/83TgKjs2"]
+[Date "2026.07.03"]
+[Round "9.9"]
+[White "Geronimi, Jean-Thomas"]
+[Black "Kanana, Ziad"]
+[Result "1/2-1/2"]
+[WhiteElo "2147"]
+[BlackElo "2249"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Nd7 10.Ng3 g6 11.Bh6 f5 12.Qd2 Bf8 13.Rae1 Rxe1 14.Rxe1 Bxh6 15.Qxh6 Nf8 16.Re3 Be6 17.h4 Qc7 18.f4 c5 19.d5 c4 20.dxe6 cxd3 21.e7 Qc5 22.exf8=Q+ Rxf8 23.Nh5 Qxe3+ 24.Kh2 gxh5 25.Qg5+ Kh8 26.Qf6+ Kg8 27.Qg5+ Kh8 28.Qf6+ Kg8 29.Qg5+ 1/2-1/2

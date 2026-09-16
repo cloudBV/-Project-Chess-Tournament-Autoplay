@@ -1,0 +1,14 @@
+[Event "Round 4: Kantans, Toms - Kacprzak, Kacper"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/GUH5rvSd"]
+[Date "2026.07.06"]
+[Round "4.3"]
+[White "Kantans, Toms"]
+[Black "Kacprzak, Kacper"]
+[Result "1/2-1/2"]
+[WhiteElo "2559"]
+[BlackElo "2361"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Chigorin Variation"]
+
+1.e4 e6 2.Qe2 Nc6 3.Nf3 e5 4.g3 Nf6 5.Bg2 Bc5 6.c3 d6 7.O-O O-O 8.b4 Bb6 9.Na3 a6 10.Nc4 Ba7 11.d3 Re8 12.Ne3 Bxe3 13.fxe3 d5 14.Ng5 dxe4 15.Nxe4 Nxe4 16.Bxe4 Be6 17.c4 Nxb4 18.Rb1 a5 19.a3 Na6 20.Qh5 h6 21.Rb5 Qg5 22.Qxg5 hxg5 23.Bxb7 Ra7 24.Be4 Bh3 25.Rf2 Nb8 26.Bd2 a4 27.Bc3 Nd7 28.Rfb2 Ra6 29.Bb4 Nf6 30.Bg2 Bf5 31.d4 Bd3 32.Rxe5 Rxe5 33.dxe5 Ng4 34.Rd2 Bxc4 35.Rd8+ Kh7 36.Be4+ g6 37.Bc3 Be6 38.Bd4 Ra5 1/2-1/2

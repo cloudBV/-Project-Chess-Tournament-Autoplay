@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.05"]
+[Round "9.18"]
+[White "Piccoli, Lucas Fonseca"]
+[Black "Kayser, Gustavo Warmling"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2176"]
+[ECO "B33"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.Qd3 a6 10.Nc3 Be7 11.Qg3 Bf5 12.Qxg7 Bf6 13.Qg3 Bxc2 14.Bd3 Bxd3 15.Qxd3 Nd7 16.Bh6 Nf8 17.Bxf8 Kxf8 18.O-O h6 19.Qf5 Rg8 20.Ne4 Rg6 21.Rac1 Kg8 22.Rc3 Bg5 23.g3 Qb6 24.Rb3 Qd4 25.Qf3 b5 26.Rc3 Ra7 27.Rd1 Qb4 28.b3 1-0

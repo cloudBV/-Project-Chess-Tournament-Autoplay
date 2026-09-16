@@ -1,0 +1,14 @@
+[Event "Round 8: Kisic, Bozidar - Ramaj, Ergit"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/qzCCbGMA"]
+[Date "2026.07.10"]
+[Round "8.30"]
+[White "Kisic, Bozidar"]
+[Black "Ramaj, Ergit"]
+[Result "0-1"]
+[WhiteElo "2197"]
+[BlackElo "2333"]
+[ECO "E43"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd2 Bb7 6.Nf3 O-O 7.Bd3 c5 8.a3 Bxc3 9.Bxc3 cxd4 10.exd4 d5 11.c5 bxc5 12.dxc5 Nbd7 13.b4 e5 14.Bb5 d4 15.Bd2 e4 16.Nxd4 Nxc5 17.bxc5 Qxd4 18.c6 e3 19.Bb4 exf2+ 20.Kf1 Qe5 21.a4 Bxc6 22.Bxc6 Rad8 23.Qc1 Ng4 24.Bf3 Rc8 25.Qa3 Ne3+ 26.Kxf2 Nc2 27.Bxf8 Nxa3 0-1

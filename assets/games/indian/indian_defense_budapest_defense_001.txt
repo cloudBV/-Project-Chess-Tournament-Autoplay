@@ -1,0 +1,14 @@
+[Event "Round 9: Lad Mandar Pradip - Chernikov, Vladimir"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-9/yz1Rzq0C/gZ2q1S4d"]
+[Date "2026.07.09"]
+[Round "9.1"]
+[White "Lad Mandar Pradip"]
+[Black "Chernikov, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2391"]
+[BlackElo "2215"]
+[ECO "A52"]
+[Variant "Standard"]
+[Opening "Indian Defense: Budapest Defense"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e3 Nxe5 5.f4 Nec6 6.Nc3 g6 7.Bd3 Bg7 8.Nge2 Na6 9.a3 Nc5 10.Bc2 a5 11.Rb1 Qh4+ 12.g3 Qh3 13.Nd5 O-O 14.Nxc7 Rb8 15.b4 axb4 16.axb4 Ne6 17.Nd5 b5 18.c5 Bb7 19.Kf2 Rfe8 20.Ng1 Qh6 21.Nf3 Ncd4 22.Bb3 Nxb3 23.Rxb3 Nd4 24.exd4 Bxd5 25.Re3 Rxe3 26.Bxe3 Ra8 27.Re1 Ra2+ 28.Re2 Be4 0-1

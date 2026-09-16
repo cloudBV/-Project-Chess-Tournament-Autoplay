@@ -1,0 +1,15 @@
+[Event "Round 5: Tezcan, Alper - Rostami, Mohsen"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/DCaQ5fie"]
+[Date "2026.07.02"]
+[Round "5.25"]
+[White "Tezcan, Alper"]
+[Black "Rostami, Mohsen"]
+[Result "1-0"]
+[WhiteElo "2285"]
+[BlackElo "2010"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Na6 7.O-O e5 8.Re1 Bg4 9.Be3 exd4 10.Nxd4 Bxe2 11.Qxe2 Re8 12.f3 c6 13.Rad1 Qe7 14.Qc2 Nc7 15.Qb3 Ne6 16.Qa3 Bf8 17.Rd2 Nh5 18.Red1 Nhf4 19.Nxe6 Nxe6 20.Qb3 Red8 21.g3 Ng7 22.Re2 Re8 23.Bf2 Ne6 24.Kg2 h5 25.f4 Bg7 26.Qa3 Bf8 27.Red2 Qf6 28.Qb3 b6 29.Qc2 h4 30.Qd3 Rad8 31.Qe2 Bg7 32.Qg4 Qe7 33.Re2 hxg3 34.hxg3 Nf8 35.Bd4 Qe6 36.Qxe6 Nxe6 37.Bxg7 Kxg7 38.Red2 Nc5 39.Kf3 Nb7 40.Ne2 Rc8 41.g4 a6 42.g5 b5 43.b3 Rc7 44.f5 f6 45.Nf4 Rce7 46.Ne6+ Rxe6 47.fxe6 Rxe6 48.c5 Nxc5 49.Rxd6 Rxe4 50.Rxc6 Re5 51.Rc7+ Kf8 52.Rd8+ Re8 53.Rxe8+ Kxe8 54.Rxc5 1-0

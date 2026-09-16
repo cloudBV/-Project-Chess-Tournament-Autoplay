@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.8"]
+[White "Haladaj, Adam"]
+[Black "Shevchenko, Yaroslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2285"]
+[ECO "E46"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.Rc1 Re8 7.Nf3 b6 8.cxd5 exd5 9.Ne5 Bb7 10.Bd3 Bd6 11.f4 c5 12.O-O Nc6 13.Ne2 Rc8 14.b3 Ne4 15.Bxe4 dxe4 16.Nxc6 Bxc6 17.dxc5 Bxc5 18.b4 Bf8 19.Nd4 Qd5 20.a3 Bd7 21.Qb3 Qxb3 22.Nxb3 Bb5 23.Rxc8 Rxc8 24.Rc1 Rxc1+ 25.Bxc1 a6 26.Bb2 Ba4 27.Nd2 Bc2 28.Nc4 b5 29.Ne5 f6 30.Nc6 Bd6 31.Kf2 Bb3 32.Ke1 Kf7 33.Nd4 Bc4 34.Kd2 g6 35.g3 Bc7 36.Bc3 Ke7 37.Nc6+ Kd6 38.Na5 Ke6 39.Nb7 g5 40.Nc5+ Kf5 41.Nxa6 Bb6 42.Nc5 gxf4 43.exf4 Bxc5 44.bxc5 Ke6 45.c6 f5 46.c7 Kd7 47.Ba5 Be6 48.Ke3 Kd6 49.h3 h5 50.Kd4 Bd7 1/2-1/2

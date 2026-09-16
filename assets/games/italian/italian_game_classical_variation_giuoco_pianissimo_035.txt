@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.9"]
+[White "Vestby-Ellingsen, Mads"]
+[Black "Elsness, Frode"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2410"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 a5 6.Bg5 h6 7.Bh4 d6 8.Nbd2 Ba7 9.Qe2 Be6 10.Bb5 Bd7 11.Nc4 g5 12.Bg3 Nh5 13.O-O-O Qf6 14.Kb1 Nf4 15.Bxf4 gxf4 16.g3 O-O 17.gxf4 Qxf4 18.Ne3 Be6 19.Rhg1+ Kh8 20.Rg3 Rg8 21.Rdg1 Ne7 22.Bc4 Bxc4 23.Nxc4 a4 24.Ne3 Rg6 25.Ng2 Qf6 26.Ngh4 Rgg8 27.Qd2 Kh7 28.d4 Bb6 29.Qd3 c6 30.Ng2 Rg6 31.Ne3 Rxg3 32.Rxg3 Rg8 33.dxe5 dxe5 34.Ng4 Qe6 35.Nfxe5 Bxf2 36.Rf3 Bh4 37.Rxf7+ Rg7 38.Rxg7+ Kxg7 39.Qd7 Qxd7 40.Nxd7 h5 41.Nge5 Bf2 42.Kc2 Ng6 43.Kd2 Nh4 44.Ke2 Bg1 45.h3 Ba7 46.Nd3 Kh6 47.N7c5 b5 48.Ne6 Ng6 49.Nd4 Ne7 50.Ne5 Bxd4 51.cxd4 Kg5 52.Kf3 b4 53.b3 axb3 54.axb3 Kh4 55.Kg2 Kg5 56.Kg3 1-0

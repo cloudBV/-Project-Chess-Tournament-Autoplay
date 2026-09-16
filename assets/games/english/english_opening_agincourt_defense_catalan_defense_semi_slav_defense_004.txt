@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.10"]
+[Round "9.8"]
+[White "Llari, Marc"]
+[Black "Rohith Krishna S"]
+[Result "*"]
+[WhiteElo "2305"]
+[BlackElo "2489"]
+[ECO "A13"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.c4 c6 5.d4 Be7 6.O-O O-O 7.Nbd2 a5 8.Qc2 b6 9.Rd1 Ba6 10.b3 Nbd7 11.Bb2 Rc8 12.e4 Qc7 13.e5 Ne8 14.Rac1 Qa7 15.Nf1 Nc7 16.Ne3 Bb7 17.cxd5 cxd5 18.Qb1 a4 19.h4 Rfd8 20.Rc2 a3 21.Bc3 Ba6 22.Be1 Bb5 23.Bf1 Bxf1 24.Kxf1 Qa6+ 25.Kg2 Ne8 26.Rdc1 Ra8 27.Rc3 Qb7 28.Qd3 b5 29.R3c2 Ra6 30.Ng5 Nf8 31.Bd2 f6 32.exf6 gxf6 33.Nh3 Bd6 34.Qe2 Raa8 35.Ng4 b4 36.Nf4 Qe7 37.Nh5 Kh8 38.Bh6 Nd7 39.Re1 Qf7 40.Nf4 e5 41.dxe5 fxe5 42.Nh3 Rac8 43.Bg5 Rxc2 44.Qxc2 Rb8 45.Nh6 Qf8 46.Qc6 Ndf6 47.Bxf6+ Qxf6 48.Ng5 Kg7 49.Qd7+ Be7 50.Nf5+ Kh8 51.Nxe7 Ng7 52.Nxd5 Qf5 53.Nf7+ Kg8 54.Nh6+ *

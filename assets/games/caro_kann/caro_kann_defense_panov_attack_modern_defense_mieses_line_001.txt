@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.11"]
+[Round "1.8"]
+[White "Zhang, Xiheng"]
+[Black "Han, Qixiang"]
+[Result "0-1"]
+[WhiteElo "2069"]
+[BlackElo "2311"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3 Bxf3 9.gxf3 Nb6 10.d5 Nd4 11.Bb5+ Nd7 12.Qa4 Nxb5 13.Nxb5 a6 14.Nc3 g6 15.O-O Bg7 16.Bg5 O-O 17.d6 Bf6 18.dxe7 Bxe7 19.Bxe7 Qxe7 20.Rfe1 Ne5 21.Qf4 Qg5+ 22.Qxg5 Nxf3+ 23.Kg2 Nxg5 24.Re7 b5 25.Nd5 Rad8 26.Nf6+ Kg7 27.Nd7 Rfe8 28.Rxe8 Rxe8 29.Nc5 Re2 30.b4 f5 31.Nxa6 Ne4 32.Rf1 Rxa2 33.Nc7 Rb2 34.Nxb5 Rxb4 35.Nc7 Rb2 36.Nd5 g5 37.Ne3 f4 38.Nd1 Rc2 39.Re1 Nf6 40.Kf3 Kg6 41.h4 h6 42.hxg5 hxg5 43.Kg2 Kf5 44.Re3 Rd2 45.Re1 Ne4 46.Kg1 g4 47.Kf1 Rc2 48.Re2 Nd2+ 49.Kg2 f3+ 50.Kg3 Nf1+ 51.Kh4 fxe2 0-1

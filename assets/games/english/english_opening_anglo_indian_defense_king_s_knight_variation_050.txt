@@ -1,0 +1,15 @@
+[Event "Round 3: Jacobson, Brandon - Herman Gamazo, Isaac"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-3/R83bcJKF/6RQO0zM0"]
+[Date "2026.07.15"]
+[Round "3.2"]
+[White "Jacobson, Brandon"]
+[Black "Herman Gamazo, Isaac"]
+[Result "1-0"]
+[WhiteElo "2601"]
+[BlackElo "2264"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 Bd6 5.g3 b6 6.cxd5 exd5 7.Bg2 O-O 8.O-O Bb7 9.Nc3 Nbd7 10.Rc1 c5 11.d4 Rc8 12.Nh4 Re8 13.Nf5 Bf8 14.Qd2 cxd4 15.Qxd4 Nc5 16.Rfd1 Nce4 17.Bxe4 Bc5 18.Qd2 Rxe4 19.Qg5 Qf8 20.Nxg7 Rg4 21.Qxf6 Rg6 22.Nxd5 Bxd5 23.Nh5 1-0

@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.16"]
+[Round "6.3"]
+[White "Schilstra, Laurens"]
+[Black "Grooten, Tommy"]
+[Result "0-1"]
+[WhiteElo "2194"]
+[BlackElo "2294"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.Bxc6+ bxc6 5.e5 dxe5 6.d3 g6 7.O-O Bg7 8.Be3 e4 9.Ng5 exd3 10.Re1 Bxb2 11.Nd2 dxc2 12.Qxc2 Bxa1 13.Bxc5 h6 14.Nge4 Bg7 15.Nc4 Be6 16.Ned6+ Kf8 17.Rxe6 fxe6 18.Qxg6 exd6 19.Nxd6 Qe7 20.Ne4 Rd8 21.g3 Rd5 22.Bxe7+ Nxe7 23.Qxe6 Re5 24.Qc4 Rd5 25.Nc5 Bf6 26.Ne6+ Kf7 27.Nf4 Rd8 28.Kg2 Ng6 29.Nxg6 Kxg6 30.Qxc6 R8d7 31.h4 Kf7 32.a4 h5 33.Qc4 Bd4 34.Kh3 Ke7 35.f4 Bb6 36.Qe4+ Kd8 37.f5 R5d6 38.Qe5 Bd4 39.Qe2 Rh6 40.Qd2 Rdd6 41.Qa5+ Bb6 42.Qe5 Bc7 43.Qe4 Rc6 44.Qd4+ Kc8 45.Qe3 a6 46.Qe8+ Kb7 47.Qe4 Rh8 48.Qf3 Rh6 49.Qe4 Rd6 50.Qf3 Kc8 51.Qe3 Rd8 52.Qb3 Rf8 53.Qf3 Rg8 0-1

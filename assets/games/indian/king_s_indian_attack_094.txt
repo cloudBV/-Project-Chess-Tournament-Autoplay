@@ -1,0 +1,15 @@
+[Event "Round 6: Torun, Kagan - Kara, Goktan Can"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/imRo5q1z"]
+[Date "2026.07.16"]
+[Round "6.18"]
+[White "Torun, Kagan"]
+[Black "Kara, Goktan Can"]
+[Result "1/2-1/2"]
+[WhiteElo "2117"]
+[BlackElo "2015"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.c4 c6 4.d4 Ngf6 5.Bg2 dxc4 6.Qc2 b5 7.O-O Qb6 8.e4 e6 9.Be3 Be7 10.b3 cxb3 11.axb3 Bb7 12.Rc1 O-O 13.Nc3 Ng4 14.Bf4 e5 15.Bh3 exf4 16.Bxg4 Nf6 17.Bh3 fxg3 18.hxg3 c5 1/2-1/2

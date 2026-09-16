@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.18"]
+[Round "15.3"]
+[White "Clockwork 20260705-7f4099f"]
+[Black "Potential 426cc351-426cc351"]
+[Result "1/2-1/2"]
+[WhiteElo "3354"]
+[BlackElo "3108"]
+[ECO "B17"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation, Modern Variation, Ivanchuk Defense"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ndf6 6.Bc4 Nd5 7.N1f3 g6 8.O-O Bg7 9.Re1 Ngf6 10.Ne5 O-O 11.a4 Nd7 12.h3 Nxe5 13.dxe5 h6 14.Nf3 a5 15.Qe2 Bd7 16.c3 e6 17.h4 c5 18.h5 gxh5 19.Bd3 Bc6 20.Bc2 f5 21.exf6 Qxf6 22.Ne5 Be8 23.Bd2 Rd8 24.Rad1 Nb6 25.f4 Bxa4 26.Bxa4 Nxa4 27.Be3 Rxd1 28.Qxd1 Nb6 29.Qb3 Nd5 30.Nd7 Qh4 31.Bf2 Qg4 32.Nxf8 Nxf4 33.Qxb7 Nh3+ 34.Kf1 Qc4+ 35.Re2 Nf4 36.Qe4 Qxe2+ 37.Qxe2 Nxe2 38.Nxe6 Nc1 39.Nxc5 Bf8 40.b4 axb4 41.cxb4 Kf7 42.b5 Bxc5 43.Bxc5 Ke6 44.Bf8 Nd3 45.Bxh6 Kd5 46.Be3 Ne5 47.Ke2 Nc4 48.Bg1 Nd6 49.b6 Kc6 50.Bf2 Ne4 51.Bd4 Nd6 52.Kf3 Nb5 53.Be3 Nc3 54.Bg1 Nb5 55.Kf4 Nc3 56.Bd4 Nb5 57.Bc5 Nc3 58.Bd4 Nb5 59.Ke5 Nd6 60.Bg1 Nb5 61.Kf5 Nc3 62.Kg6 Ne2 63.Be3 Nc3 64.Kf5 Ne2 65.Kg5 Nc3 66.Kh4 Nd5 67.Bf2 Nf4 68.Kg3 Ne2+ 69.Kh2 Nf4 70.Bc5 Nd5 71.Bd4 Nf4 72.Be3 Nd5 73.Bc5 Nf4 74.Bg1 Nd5 75.Kg3 Nc3 76.Kh4 Ne2 77.Bf2 Nf4 78.Kg3 Ne2+ 79.Kf3 Nc3 80.Kf4 Ne2+ 81.Kf3 Nc3 82.Be3 Nb5 83.Kf4 Nc3 84.Kf5 Ne2 85.Ke6 Nc3 86.Ke5 Nb5 87.Kf4 Nc3 88.Bc5 Ne2+ 89.Kg5 Kb7 90.Bf2 Kc6 91.Kf5 Nc3 92.Kg6 Ne2 93.Be3 Nc3 94.Kg5 Kb7 95.Kxh5 Nd5 96.Bd2 Nxb6 97.Kg6 Kc6 98.g4 Kd6 99.Kf7 Ke5 100.g5 Nc4 101.Bc3+ Kf5 102.g6 Nd6+ 103.Kg7 Ne8+ 104.Kh6 Ke6 105.Bd4 Kf5 106.Bh8 Ke6 107.Bb2 Kf5 108.Ba1 Ke6 109.Bc3 Kf5 110.Bb2 Ke6 111.Bh8 Kf5 112.Bd4 Ke6 113.Bc3 Kf5 114.Ba5 Ke6 115.Bb4 Kf5 116.Bf8 Ke6 117.Bc5 Kf5 118.Bb6 Ke6 119.Bc7 Ke7 120.Be5 Ke6 121.Bd4 Kf5 122.Be3 Ke6 123.Bf4 Kf6 124.Bh2 Ke6 125.Bg1 Kf5 126.Bc5 Ke6 127.Ba3 Ke5 128.Be7 Ke6 129.Bb4 Kf5 130.Bd2 Ke6 131.Be3 Kf5 132.Bg1 Ke6 133.Be3 Kf5 134.Bf2 Ke6 135.Kh7 Ke7 136.Be1 Ke6 137.Kh6 Nf6 138.Bc3 Ne8 139.Bb2 Kf5 140.Kh7 1/2-1/2

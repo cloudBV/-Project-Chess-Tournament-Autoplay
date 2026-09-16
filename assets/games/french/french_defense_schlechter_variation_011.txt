@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.10"]
+[White "Bogdanov, Egor"]
+[Black "Casadio, Niccolo`"]
+[Result "1/2-1/2"]
+[WhiteElo "2493"]
+[BlackElo "2336"]
+[ECO "C00"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bf3 c5 6.Ne2 Nc6 7.Be3 Nd5 8.Bxd5 Qxd5 9.Nbc3 Qxg2 10.Rg1 Qxh2 11.Bf4 Qh5 12.Nb5 f6 13.Nc7+ Kf7 14.Nxa8 cxd4 15.c3 Qf3 16.cxd4 Bb4+ 17.Bd2 Bd6 18.Rc1 Bd7 19.Rc3 Qh5 20.Rb3 b5 21.Bf4 Bxf4 22.Nxf4 Qxd1+ 23.Kxd1 Rxa8 24.Rxb5 Nxd4 25.Rb7 Rd8 26.Nd3 Nf5 27.Nc5 Ke8 28.Rxa7 Bc6+ 29.Kc1 Bd5 30.a4 h5 31.Rgxg7 Nxg7 32.Rxg7 e5 33.b4 Rb8 34.Nd7 Rxb4 35.Nxf6+ Kf8 36.Rg5 Bf7 37.Nd7+ Ke7 38.Nxe5 Rxa4 39.Nxf7 Kxf7 40.Rxh5 Ra2 41.Rh2 Kf6 42.Kd1 Kf5 43.Ke1 Kf6 44.Kf1 Kg6 45.Rh4 Kg5 46.Rd4 Kf5 47.Kg2 Ra3 48.f3 Ra1 49.Rb4 Rc1 50.Rb8 Ra1 51.Rf8+ Kg5 52.Kh3 Ra3 53.Kg3 Rb3 54.Ra8 Rb4 55.f4+ Kf5 56.Ra5+ Kf6 57.Kg4 Kg6 58.Ra6+ Kf7 59.Kg5 Rb7 60.f5 Kg7 61.Rg6+ Kf7 62.Rh6 Rb1 63.Rh7+ Kg8 64.Re7 Rb6 65.Re6 Rb7 66.Rh6 Kg7 67.f6+ Kg8 68.Kg6 Rg7+ 69.Kf5 Ra7 70.Rh1 Ra2 71.Re1 Kf7 72.Re7+ Kf8 73.Ke4 1/2-1/2

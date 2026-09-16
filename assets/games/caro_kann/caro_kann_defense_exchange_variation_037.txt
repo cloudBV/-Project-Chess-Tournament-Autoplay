@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.3"]
+[White "Kvaloy, Aksel Bu"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1/2-1/2"]
+[WhiteElo "2483"]
+[BlackElo "2574"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 e6 6.Bf4 Nge7 7.Nd2 Ng6 8.Bg3 Bd6 9.Ngf3 Nf4 10.Bxf4 Bxf4 11.O-O g6 12.Re1 O-O 13.Nf1 f6 14.c4 Qb6 15.cxd5 exd5 16.Bc2 Bg4 17.Bb3 Rad8 18.h3 Bf5 19.Ne3 Be4 20.Nd2 Nxd4 21.Nxe4 Nxb3 22.Nxd5 Nxa1 23.Nxb6 Rxd1 24.Rxd1 axb6 25.Rxa1 f5 26.Nc3 Be5 27.Rd1 Bxc3 28.bxc3 Rc8 29.Rd7 Rxc3 30.Rxb7 Rc1+ 31.Kh2 Rc2 32.Kg3 Rxa2 33.Rxb6 1/2-1/2

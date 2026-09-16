@@ -1,0 +1,14 @@
+[Event "Round 1: Hagner, Bennet - Braun, Georg, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-1/vBaOuYrN/BJFzQloT"]
+[Date "2026.07.18"]
+[Round "1.2"]
+[White "Hagner, Bennet"]
+[Black "Braun, Georg, Dr."]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2374"]
+[ECO "C17"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Retreat Variation, Armenian Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Kf8 8.Nb5 Bb6 9.Nf3 Nc6 10.Qf4 a6 11.Nbxd4 Nxd4 12.Nxd4 Ne7 13.Bd3 Bd7 14.O-O Kg8 15.Bb2 Bxd4 16.Bxd4 Bb5 17.Bc5 h5 18.Rfc1 Bxd3 19.Bxe7 Qxe7 20.cxd3 Kh7 21.Rc3 Rhc8 22.Rac1 Rxc3 23.Rxc3 g6 24.h4 Kg7 25.g3 Rd8 26.a4 Rd7 27.b5 axb5 28.axb5 f5 29.b6 Qd8 30.Qb4 d4 31.Rc4 f4 32.Qa5 fxg3 33.fxg3 g5 34.Rc7 Rf7 35.Qd2 gxh4 36.Qf4 Qe8 37.Qxh4 Kg6 38.Qxd4 Qb5 39.Kh2 Rxc7 40.bxc7 Qc6 41.Qe4+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Huettemann, Karl-Heinz - Syre, Christian"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/S5oMrFdS"]
+[Date "2026.07.20"]
+[Round "4.11"]
+[White "Huettemann, Karl-Heinz"]
+[Black "Syre, Christian"]
+[Result "1/2-1/2"]
+[WhiteElo "2016"]
+[BlackElo "2147"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.g3 Bg7 1/2-1/2

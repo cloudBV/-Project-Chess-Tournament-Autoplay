@@ -1,0 +1,15 @@
+[Event "Round 7: Sanchez Saez, Francisco - Niedbala, Bartlomiej"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-7/wtefqve1/4Zjedllu"]
+[Date "2026.07.10"]
+[Round "7.12"]
+[White "Sanchez Saez, Francisco"]
+[Black "Niedbala, Bartlomiej"]
+[Result "1-0"]
+[WhiteElo "2273"]
+[BlackElo "2388"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Ne2 Bg4 7.O-O e6 8.Qe1 Nf6 9.Bg5 Bxe2 10.Qxe2 Be7 11.Nd2 g6 12.Nf3 Nh5 13.g3 Bxg5 14.Nxg5 Qe7 15.f4 Ng7 16.Rae1 O-O-O 17.b4 Qc7 18.b5 Na5 19.Qe5 f5 20.Qxc7+ Kxc7 21.Nf7 Kd7 22.Rc1 Rhf8 23.Nxd8 Rxd8 24.c4 dxc4 25.Bxc4 Ke7 26.Rfd1 Ne8 27.Bf1 Kd6 28.d5 e5 29.fxe5+ Kxe5 30.d6 Nxd6 31.Rc5+ Ke6 32.Rcd5 Rd7 33.Bg2 Nac4 34.R5d4 Ke7 35.a4 Rd8 36.Bxb7 Rb8 37.Bc6 Rd8 38.Rc1 Ne5 39.Re1 Kf6 40.Red1 Ke6 41.Bg2 Rd7 42.h3 g5 43.Bc6 Rd8 44.a5 Nxb5 45.Rxd8 Nxc6 46.Re1+ Kf6 47.Rf8+ Kg6 48.Re6+ Kg7 49.Rxf5 1-0

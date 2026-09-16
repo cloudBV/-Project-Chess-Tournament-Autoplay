@@ -1,0 +1,15 @@
+[Event "Round 6: Kjartansson, Gudmundur - Collins, Adam"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-6/MCkQ2beZ/FuwJPQuU"]
+[Date "2026.07.23"]
+[Round "6.4"]
+[White "Kjartansson, Gudmundur"]
+[Black "Collins, Adam"]
+[Result "1-0"]
+[WhiteElo "2367"]
+[BlackElo "2231"]
+[ECO "C07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.exd5 Qxd5 6.Bc4 Qd7 7.Nb3 Nc6 8.Nbxd4 Nxd4 9.Nxd4 a6 10.O-O Qc7 11.Bb3 Bd7 12.Qf3 Nf6 13.Bg5 O-O-O 14.Rfe1 Bd6 15.h3 Kb8 16.Rad1 e5 17.Bxf6 gxf6 18.Nf5 Bc6 19.Bd5 Bxd5 20.Rxd5 Bc5 21.Red1 Rxd5 22.Rxd5 Rd8 23.c3 Rxd5 24.Qxd5 Qb6 25.Qd2 a5 26.Qc2 Qe6 27.a4 e4 28.g4 e3 29.fxe3 Bxe3+ 30.Nxe3 Qxe3+ 31.Kg2 h6 32.Qf2 Qe4+ 33.Kg3 Qxa4 34.Qf4+ Qxf4+ 35.Kxf4 Kc7 36.Kf5 Kc6 37.Kxf6 Kb5 38.h4 Kc4 39.g5 hxg5 40.hxg5 Kb3 41.Kxf7 Kxb2 42.g6 a4 43.g7 a3 44.g8=Q a2 45.Qg2+ Ka1 46.Qh1+ Kb2 47.Qg2+ Ka1 48.Qf1+ Kb2 49.Qe2+ Kb3 50.Qd1+ Kxc3 51.Qa1+ Kb3 52.Ke6 b5 53.Kd5 b4 54.Kc5 Ka3 55.Kc4 b3 56.Kc3 Ka4 57.Kb2 Kb4 58.Qe1+ 1-0

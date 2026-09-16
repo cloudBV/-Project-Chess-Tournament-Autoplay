@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "6.4"]
+[White "Craciun, Sasha-Matei"]
+[Black "Warchol, Kamil"]
+[Result "1-0"]
+[WhiteElo "2275"]
+[BlackElo "2277"]
+[ECO "B60"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Nxc6 Bxc6 8.Bxf6 gxf6 9.Bb5 Bxb5 10.Nxb5 Qa5+ 11.Nc3 f5 12.exf5 Bg7 13.O-O Bxc3 14.bxc3 Qxf5 15.Re1 Qd7 16.Rb1 O-O-O 17.Qd4 Kb8 18.a4 Rhg8 19.Rb4 Rg5 20.Reb1 Qc6 21.g3 Rc8 22.Rxb7+ Qxb7 23.Rxb7+ Kxb7 24.Qe4+ 1-0

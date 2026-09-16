@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.4"]
+[White "Lahlum, Hans Olav"]
+[Black "Ytrestoyl, Sindre Lyngsaunet"]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2013"]
+[ECO "E35"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 c5 7.Nf3 Nc6 8.e3 cxd4 9.Nxd4 Nxd4 10.exd4 O-O 11.Be2 Be6 12.O-O 1/2-1/2

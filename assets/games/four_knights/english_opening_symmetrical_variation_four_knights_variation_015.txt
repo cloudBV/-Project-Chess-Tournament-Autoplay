@@ -1,0 +1,15 @@
+[Event "Round 1: Polak, Tomas - Popczynska, Michalina"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-1/w7EFVbhM/LDJnGkwa"]
+[Date "2026.07.16"]
+[Round "1.1"]
+[White "Polak, Tomas"]
+[Black "Popczynska, Michalina"]
+[Result "1-0"]
+[WhiteElo "2443"]
+[BlackElo "2094"]
+[ECO "A35"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.e3 e5 5.d4 exd4 6.exd4 d6 7.dxc5 dxc5 8.Qxd8+ Nxd8 9.Nb5 Ne6 10.Ng5 Ke7 11.Be3 Nxg5 12.Bxg5 Be6 13.O-O-O h6 14.Be3 b6 15.Be2 a6 16.Bf3 Rd8 17.Na7 Rxd1+ 18.Rxd1 Bxc4 19.b3 Bb5 20.Nc8+ Ke6 21.a4 Bd7 22.Nxb6 Be7 23.g4 Rd8 24.Re1 Ng8 25.Bg5+ Kd6 26.Bf4# 1-0

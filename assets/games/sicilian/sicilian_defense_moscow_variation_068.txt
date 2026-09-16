@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.6"]
+[White "Grot, Blazej"]
+[Black "Rekuc, Patryk"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2290"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O Nf6 5.Re1 a6 6.Bxd7+ Bxd7 7.c3 e6 8.d4 cxd4 9.cxd4 Be7 10.Nc3 O-O 11.Bf4 Bc6 12.d5 Bd7 13.dxe6 Bxe6 14.Nd4 Rc8 15.Nxe6 fxe6 16.e5 Nd7 17.exd6 Rxf4 18.dxe7 Qe8 19.Rxe6 Nc5 20.Re1 Rf7 21.Qd5 Kh8 22.Qd6 Rf6 23.Qd4 Ne6 24.Qe4 Nc5 25.Qg4 Rfc6 26.Rad1 h6 27.b4 Ne6 28.Rxe6 Rxc3 29.Ree1 R3c7 30.Qe6 Rc6 31.Qd7 Kg8 32.Qd5+ Kh8 33.h3 R6c7 34.Qe6 Rc6 35.Rd6 Rc2 36.Qd5 Rc1 37.Re6 R1c7 38.Qd6 Rc6 39.Qe5 Kg8 40.Rxc6 Rxc6 41.Qd5+ Kh7 42.Qd8 Rc8 43.Qxc8 1-0

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.15"]
+[White "Erenburg, Sergey"]
+[Black "Willy, Stephen"]
+[Result "1-0"]
+[WhiteElo "2481"]
+[BlackElo "2294"]
+[ECO "C03"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 h6 4.c3 c5 5.exd5 exd5 6.Bb5+ Nc6 7.Ngf3 Bd6 8.dxc5 Bxc5 9.Nb3 Bb6 10.O-O Ne7 11.Re1 O-O 12.Be3 Bc7 13.Bc5 Re8 14.Bxc6 Nxc6 15.Rxe8+ Qxe8 16.Qxd5 Be6 17.Qe4 Qd7 18.Nfd4 Bd5 19.Qf5 Qxf5 20.Nxf5 a5 21.Nbd4 Kh7 22.Ne3 Be4 23.Nb5 Bf4 24.Nd6 Bg6 25.Nec4 a4 26.Nxb7 Rb8 27.Nbd6 Bd3 28.Ba3 Kg6 29.g3 Bg5 30.Re1 Bf6 31.f4 Kh7 32.Rd1 Be2 33.Rd2 Bg4 34.Ne4 Bd8 35.Nc5 Be7 36.Nxa4 Bf6 37.Nc5 Re8 38.Kf2 g5 39.Nd6 Rb8 40.Nde4 Bd8 41.Rxd8 Rxd8 42.Nf6+ 1-0

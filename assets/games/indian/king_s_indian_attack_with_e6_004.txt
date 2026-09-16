@@ -1,0 +1,15 @@
+[Event "Ronda 6: Torres Rebolledo, Alvaro - Jaso Escudero, Julen"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u14/ronda-6/buHufvu2/XbVtQyLu"]
+[Date "2026.07.03"]
+[Round "6.1"]
+[White "Torres Rebolledo, Alvaro"]
+[Black "Jaso Escudero, Julen"]
+[Result "1-0"]
+[WhiteElo "2333"]
+[BlackElo "2036"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Bd6 5.c4 O-O 6.d4 h6 7.b3 b6 8.Bb2 Bb7 9.Nc3 c5 10.cxd5 Nxd5 11.Nb5 Be7 12.dxc5 Ba6 13.Nc3 bxc5 14.Nxd5 exd5 15.Nh4 Bxh4 16.Qxd5 Qxd5 17.Bxd5 Nd7 18.Bxa8 Rxa8 19.gxh4 Bxe2 20.Rfe1 Bf3 21.Re3 Bc6 22.Rd1 Nb6 23.Rg3 g6 24.h5 Be4 25.hxg6 Bxg6 26.f4 Kf8 27.Ba3 Rc8 28.Rc3 Kg7 29.Bxc5 Re8 30.Bd4+ Kf8 31.Bf6 1-0

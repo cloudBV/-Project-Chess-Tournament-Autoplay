@@ -1,0 +1,14 @@
+[Event "Round 3: Wolter, Kai, Dr. - Jansen, Dirk Norbert"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-3/GowbS71k/W1AWMKxV"]
+[Date "2026.07.19"]
+[Round "3.5"]
+[White "Wolter, Kai, Dr."]
+[Black "Jansen, Dirk Norbert"]
+[Result "1/2-1/2"]
+[WhiteElo "2209"]
+[BlackElo "2116"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.Nf3 d5 3.exd5 exd5 4.d4 Nc6 5.Bb5 Bd6 6.c4 dxc4 7.d5 a6 8.Ba4 b5 9.dxc6 bxa4 10.O-O Ne7 11.Qxa4 Be6 12.Nbd2 c3 13.bxc3 Bd5 14.Nd4 O-O 15.c4 Bxc6 16.Nxc6 Nxc6 17.Nf3 Qf6 18.Bb2 Qd4 19.Bc3 Qxc3 20.Qxc6 Qb2 1/2-1/2

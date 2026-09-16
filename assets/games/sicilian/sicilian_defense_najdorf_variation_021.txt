@@ -1,0 +1,14 @@
+[Event "Round 5: Nurman, Alua - Sarana, Alexey"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-5/PWFnNuqB/jde1vAFS"]
+[Date "2026.06.28"]
+[Round "5.1"]
+[White "Nurman, Alua"]
+[Black "Sarana, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2664"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 e6 8.Qe2 b5 9.Bb3 h6 10.Bh4 Qc7 11.O-O-O b4 12.Na4 Be7 13.Kb1 Bb7 14.f3 O-O 15.g4 Nc5 16.Rhg1 Nh7 17.Be1 a5 18.h4 Ba6 19.Qe3 Rac8 20.Bf2 Nxb3 21.cxb3 Bf6 22.Rc1 Qb7 23.Rce1 Qe7 24.f4 Bxd4 25.Qxd4 e5 26.Qd2 exf4 27.Nb6 f3 28.Nxc8 Rxc8 29.g5 hxg5 30.hxg5 Be2 31.Qd5 Qe6 32.g6 Nf6 33.gxf7+ Qxf7 34.Qf5 Rf8 35.Rxg7+ Qxg7 36.Rg1 Bd3+ 37.Ka1 Qxg1+ 38.Bxg1 Bxe4 39.Qe6+ Kg7 40.Bd4 d5 41.Qd6 Rf7 42.Qg3+ Kh7 43.Qg5 Ng8 44.Qh4+ Kg6 45.Qg4+ Kh7 46.Qe6 Rf5 47.Qd7+ Kg6 48.Qe8+ Kh7 49.Qd7+ Kg6 50.Qe8+ Kh7 51.Qd7+ 1/2-1/2

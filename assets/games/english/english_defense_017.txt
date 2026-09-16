@@ -1,0 +1,15 @@
+[Event "Round 3: Verkooyen, Frank - Sarkisian, Arman"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-3/AI650Rh4/tND550b8"]
+[Date "2026.07.18"]
+[Round "3.13"]
+[White "Verkooyen, Frank"]
+[Black "Sarkisian, Arman"]
+[Result "1/2-1/2"]
+[WhiteElo "2062"]
+[BlackElo "2224"]
+[ECO "A40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Bb7 6.f3 f5 7.Nh3 Nf6 8.e3 O-O 9.Bd3 d6 10.O-O Nbd7 11.Qe2 Qe7 12.Bd2 Rae8 13.a4 a5 14.Nf2 Nh5 15.g3 e5 16.e4 f4 17.g4 Nhf6 18.c5 dxc5 19.d5 h5 20.g5 Nh7 21.h4 Nxg5 22.hxg5 Qxg5+ 23.Kh1 Qh4+ 24.Kg2 Rf6 25.Rh1 Rg6+ 26.Kf1 Qg3 27.Nh3 Qh4 28.Be1 Qe7 29.Ra2 Nf6 30.Bh4 Bc8 31.Ng5 Qd6 32.Ba6 Bd7 33.Bb5 Nh7 34.Ne6 Nf8 35.Nxf8 Rxf8 36.Qd3 Rf7 37.Rah2 Rh6 38.Bg5 Rh7 39.Qe2 g6 40.Bxd7 Qxd7 41.Qb5 Qxb5+ 42.axb5 Rf8 43.c4 Rd7 44.Rd2 Kf7 45.Kg2 Ra8 46.Ra1 Rh8 47.Kh3 Ra8 48.Kh4 Re8 49.Rad1 1/2-1/2

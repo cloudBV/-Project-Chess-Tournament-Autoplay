@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "13.6"]
+[White "Rozanski, Mateusz"]
+[Black "Chuiko, Maksym"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2103"]
+[ECO "A18"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 Be7 8.Nf3 h6 9.Bd3 O-O 10.h4 c5 11.Bg5 hxg5 12.hxg5 Qf4 13.g3 Qd6 14.Ne5 Bxg5 1-0

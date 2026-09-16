@@ -1,0 +1,14 @@
+[Event "Round 5: Krallis, Christos - Kazantzoglou, Stefanos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/nAyPDUrM"]
+[Date "2026.07.08"]
+[Round "5.21"]
+[White "Krallis, Christos"]
+[Black "Kazantzoglou, Stefanos"]
+[Result "0-1"]
+[WhiteElo "2424"]
+[BlackElo "2345"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.O-O Nd7 5.d3 Ngf6 6.h3 Bh5 7.g4 Bg6 8.Bf4 e6 9.Nh4 e5 10.Bg3 Bd6 11.e4 dxe4 12.dxe4 Qe7 13.Nf5 Bxf5 14.exf5 O-O-O 15.Nc3 g5 16.Qe2 h5 17.Rad1 hxg4 18.hxg4 Bc7 19.a4 Qb4 20.a5 Bxa5 21.Ra1 Bb6 22.Ra4 Qxb2 23.Qc4 Bd4 24.Bxc6 Qxc3 25.Bxd7+ Kb8 26.Qxc3 Bxc3 27.Bb5 Nd5 28.Rb1 f6 29.Rb3 Rc8 30.Bd3 Nb6 31.Ra2 Rhd8 32.Kg2 Rd4 33.f3 Rb4 34.Rba3 a6 35.Bf2 Nd5 36.Bg3 Bd4 37.c4 Ne3+ 0-1

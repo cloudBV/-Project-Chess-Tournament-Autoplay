@@ -1,0 +1,15 @@
+[Event "Round 2: Induwara, T H D Thisarindu - Madhvendra Pratap Sharma"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-2/c8awiXfc/z1EroIRZ"]
+[Date "2026.07.18"]
+[Round "2.7"]
+[White "Induwara, T H D Thisarindu"]
+[Black "Madhvendra Pratap Sharma"]
+[Result "0-1"]
+[WhiteElo "2123"]
+[BlackElo "2339"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O cxd4 8.cxd4 Nf5 9.Nc3 Be7 10.a3 h5 11.Be3 g5 12.Bd3 Nxe3 13.fxe3 g4 14.Ne1 Qb6 15.Na4 Qc7 16.Rc1 Bg5 17.Qe2 Rf8 18.Rc3 Ke7 19.Bc2 Rac8 20.Nd3 f6 21.exf6+ Rxf6 22.Rxf6 Bxf6 23.Nf4 Be8 24.Qd3 Bf7 25.Qh7 Rg8 26.Ng6+ Ke8 27.Nc5 g3 28.h3 Qb6 29.Rb3 Qa5 30.Rc3 Qb5 31.Nf4 Qxb2 32.Ne2 Nxd4 33.exd4 Bxd4+ 34.Kf1 Bxc3 35.Na4 Qa1+ 36.Bb1 Bf6 37.Nc5 Rg6 0-1

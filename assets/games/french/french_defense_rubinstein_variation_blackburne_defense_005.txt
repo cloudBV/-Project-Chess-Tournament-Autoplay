@@ -1,0 +1,14 @@
+[Event "Round 2: Urbani, Gabriel - Dobboletta, Alex"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-2/oA9G6M43/bWItNjho"]
+[Date "2026.07.07"]
+[Round "2.4"]
+[White "Urbani, Gabriel"]
+[Black "Dobboletta, Alex"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2143"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Nxf6+ Nxf6 8.Be3 Bd6 9.Bd3 O-O 10.Qe2 b6 11.O-O-O Bb7 12.Rhg1 Nd5 13.Kb1 Nxe3 14.Qxe3 c5 15.c3 cxd4 16.cxd4 a5 17.Ne5 a4 18.g4 f6 19.Ng6 Re8 20.f4 a3 21.g5 axb2 22.gxh6 Bd5 23.Ne5 Bxa2+ 24.Kxb2 g5 25.Qe4 f5 26.Qb7 Bxe5 27.dxe5 0-1

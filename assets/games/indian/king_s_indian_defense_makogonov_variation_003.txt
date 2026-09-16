@@ -1,0 +1,15 @@
+[Event "Round 5: Chasin, Nico - Lin, Bryan Enming"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-5/iTkQlF0C/YCb7Rakc"]
+[Date "2026.07.09"]
+[Round "5.4"]
+[White "Chasin, Nico"]
+[Black "Lin, Bryan Enming"]
+[Result "1-0"]
+[WhiteElo "2479"]
+[BlackElo "2381"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 Nbd7 6.Be3 e5 7.d5 h5 8.Nf3 a5 9.a3 Bh6 10.Bxh6 Rxh6 11.b4 Kf8 12.h4 Kg7 13.Be2 Rh8 14.Rc1 Qe7 15.Qd3 axb4 16.axb4 c5 17.dxc6 bxc6 18.O-O Rd8 19.Rfd1 Nf8 20.c5 Ne8 21.b5 Bb7 22.b6 dxc5 23.Qc2 Ne6 24.Rxd8 Qxd8 25.Na4 Ra5 26.Bd1 Nd4 27.Nxd4 cxd4 28.Qd2 Ra8 29.Qb2 Qxh4 30.Nc5 Qe7 31.Ba4 Nf6 32.Nxb7 Rxa4 33.Nc5 Ra8 34.b7 Rb8 35.Qb6 Ng4 36.Qxc6 Qh4 37.Nd3 Qe7 38.Rb1 Qh4 39.Rb3 Qh2+ 40.Kf1 Qh1+ 41.Ke2 Qxg2 42.Qc7 Qxe4+ 43.Kd2 Qd5 44.Qxb8 Qxb3 45.Qc8 Qa2+ 46.Qc2 Qa5+ 47.Ke2 Qa7 48.Qb2 Qb8 49.Nc5 Kh6 50.Nd7 d3+ 51.Ke1 Qd6 52.b8=Q Qxd7 53.f3 Ne3 54.Qh8+ Kg5 55.Qhxe5+ Nf5 56.Qd2+ 1-0

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.23"]
+[White "Jurek, Josef"]
+[Black "Stocek, Martin"]
+[Result "1-0"]
+[WhiteElo "2168"]
+[BlackElo "2050"]
+[ECO "E11"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Ne4 8.Nc3 f5 9.e3 c6 10.Qc2 Bd7 11.Ne2 Be8 12.Nf4 Bf7 13.Nd3 Bh5 14.Bb4 Bxb4 15.Nxb4 Qa5 16.a3 Bxf3 17.Bxf3 Na6 18.Bxe4 fxe4 19.Nxa6 Qxa6 20.Rac1 Rf3 21.Rfe1 Raf8 22.Re2 h5 23.Qc3 Qb6 24.cxd5 exd5 25.Qc5 Qc7 26.Qxd5+ cxd5 27.Rxc7 R8f7 28.Rxf7 Rxf7 29.Rc2 g5 30.Rc8+ Rf8 31.Rxf8+ Kxf8 32.g4 h4 33.f3 b5 34.Kf2 Ke7 35.f4 Kf6 36.Kg2 gxf4 37.exf4 a5 38.Kh3 Kg6 39.Kxh4 Kf6 40.Kg3 Kg6 41.h4 Kg7 42.f5 Kf6 43.Kf4 Kg7 44.g5 Kf7 45.h5 Kg7 46.f6+ Kf7 47.Kg4 a4 48.Kg3 Kg8 49.g6 1-0

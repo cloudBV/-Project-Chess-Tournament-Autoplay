@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/3lhw1bvE"]
+[Date "2026.07.08"]
+[Round "9.6"]
+[White "Simek, Petr"]
+[Black "Sokolovsky, Jakub"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2088"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.h4 Bg7 6.g3 Nxc3 7.bxc3 c5 8.Bg2 Nc6 9.h5 O-O 10.Rb1 Qc7 11.Qa4 Bf5 12.Rb5 b6 13.hxg6 Bxg6 14.Nh4 a6 15.Rb2 b5 16.Qg4 b4 17.Nxg6 hxg6 18.cxb4 Rab8 19.Qh4 Rfc8 20.Qh7+ Kf8 21.d4 Bxd4 22.Bh6+ Ke8 23.Qg8+ Kd7 24.Qxf7 Qd6 25.Rb3 Ne5 26.Bh3+ Kc7 27.Qf4 c4 28.Rb1 Bc3+ 29.Kf1 Rd8 30.a3 a5 31.Bg7 axb4 32.Bxe5 Bxe5 33.Qxc4+ Qc6 34.Qxc6+ Kxc6 35.axb4 Rd2 36.Bg2+ Kc7 37.Be4 g5 38.b5 Kb6 39.Bd3 Rf8 40.Rh6+ Kc5 41.Rc6+ Kd5 42.Kg2 Bd6 43.Rc4 Bc5 44.f3 Rb8 45.Rg4 Be3 46.Re4 Bc5 47.Bc4+ Kd6 48.Re6+ Kd7 49.Re5 Rc8 50.Rxg5 Be3 51.Re5 Bd4 52.Rd5+ Kc7 53.Bd3 e5 54.Rc1+ Kb8 55.Rxc8+ Kxc8 56.f4 1-0

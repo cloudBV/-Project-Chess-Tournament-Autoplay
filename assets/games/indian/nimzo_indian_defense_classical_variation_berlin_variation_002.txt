@@ -1,0 +1,14 @@
+[Event "Round 8: Wiedenkeller, Michael - Lindgren, Philip"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-8/RwNKLsOW/thgAaBkg"]
+[Date "2026.07.03"]
+[Round "8.3"]
+[White "Wiedenkeller, Michael"]
+[Black "Lindgren, Philip"]
+[Result "1/2-1/2"]
+[WhiteElo "2393"]
+[BlackElo "2358"]
+[ECO "E38"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Nc6 7.Bg5 h6 8.Bh4 b6 9.e3 Bb7 10.Be2 O-O 11.O-O Be7 12.Rfd1 d6 13.Rd2 Qb8 14.Rad1 Rd8 15.h3 Rd7 16.a3 Qd8 17.b4 Rc8 18.Qb3 Ba8 19.Bg3 Qf8 20.Nd4 Nxd4 21.Rxd4 Bc6 22.Rc1 Rcc7 23.Rdd1 Qa8 24.f3 Rc8 25.Nb5 Bxb5 26.cxb5 Rdc7 27.Rxc7 Rxc7 28.Bxd6 Bxd6 29.Rxd6 Rc1+ 30.Kf2 Nd5 31.Qb2 Qc8 32.Bd3 Rc3 33.Rc6 Rxc6 34.bxc6 Qxc6 35.Be4 Qc4 36.Qe5 Qc7 37.Qxc7 Nxc7 38.Ke2 Nb5 39.Bd3 Nc7 40.f4 Kf8 41.e4 Ke7 42.e5 Kd7 43.b5 Nd5 44.Kf3 Nc3 45.Ke3 Nd5+ 46.Ke4 g6 47.Bc4 Nc7 48.Kf3 Ke7 49.Kg4 Kf8 50.Kh4 Kg7 51.g4 Kh7 52.Kg3 Kg7 53.Kf3 Kf8 54.Ke4 Ke7 55.f5 g5 56.Kf3 Kd7 57.Kg3 Ke7 58.h4 Kd7 59.hxg5 hxg5 60.Kf3 1/2-1/2

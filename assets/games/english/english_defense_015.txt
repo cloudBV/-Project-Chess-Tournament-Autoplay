@@ -1,0 +1,15 @@
+[Event "Round 4: Kodiri, Pairavi - Puzyrevsky, Semyon"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b16/round-4/28KYqm2g/FNWkmDNx"]
+[Date "2026.07.15"]
+[Round "4.37"]
+[White "Kodiri, Pairavi"]
+[Black "Puzyrevsky, Semyon"]
+[Result "0-1"]
+[WhiteElo "2323"]
+[BlackElo "2376"]
+[ECO "A40"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.f3 d5 4.Nc3 c5 5.Be3 Nc6 6.cxd5 exd5 7.dxc5 d4 8.Qa4 Bd7 9.Bxd4 Qh4+ 10.Bf2 Qxa4 11.Nxa4 Nb4 12.Rc1 Bxa4 13.a3 Na6 14.b4 bxc5 15.e4 Nc7 16.bxc5 Bc6 17.Bc4 Nf6 18.Ne2 Ne6 19.O-O Rc8 20.Rfd1 Be7 21.Bxe6 fxe6 22.Nf4 Kf7 23.Nd3 Rhd8 24.Ne5+ Ke8 25.Nc4 Rxd1+ 26.Rxd1 Ba4 27.Nd6+ Bxd6 28.Rxd6 Rc6 29.Rd4 Ra6 30.g4 Nd7 31.Rd3 Bb5 32.Rb3 Bc6 33.Kg2 Ra4 34.Rc3 Ne5 35.Rb3 Kd7 36.Bg3 Nc4 37.Rb8 Rxa3 38.Rg8 g6 39.Rg7+ Ke8 40.Rxh7 Nd2 41.Rc7 Bb5 42.Rc8+ Kd7 43.Rf8 Be2 44.Rf7+ Ke8 45.Rf6 Bxf3+ 46.Kg1 Nxe4 47.Rxe6+ Kf7 0-1

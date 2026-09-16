@@ -1,0 +1,15 @@
+[Event "Round 9: Sagi, Bence - Romero Pallares, Daniel"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-9/bSIGoQdg/qQi2IHAp"]
+[Date "2026.07.03"]
+[Round "9.9"]
+[White "Sagi, Bence"]
+[Black "Romero Pallares, Daniel"]
+[Result "0-1"]
+[WhiteElo "2206"]
+[BlackElo "2270"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Bd3 Bg4 7.Be2 e5 8.d5 a5 9.h3 Bd7 10.O-O Na6 11.Be3 Ne8 12.Qd2 f5 13.exf5 gxf5 14.Bg5 Nf6 15.b3 Nc5 16.Rab1 Qe8 17.Bxf6 Bxf6 18.a3 Qg6 19.Nh2 a4 20.Nxa4 Bxa4 21.bxa4 Rxa4 22.Kh1 Rxa3 23.Qc2 Kh8 24.Ra1 Rg8 25.g3 Rxa1 26.Rxa1 e4 27.Ra3 h5 28.f4 Nd3 29.g4 Nxf4 30.Bf1 Be5 31.Qf2 hxg4 32.Qh4+ Qh5 33.Qxh5+ Nxh5 34.hxg4 fxg4 35.Nxg4 Ng3+ 36.Rxg3 Bxg3 37.Be2 Kg7 38.Kg2 Bf4 0-1

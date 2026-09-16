@@ -1,0 +1,14 @@
+[Event "Round 2: Kosteniuk, Alexandra - Finek, Vaclav"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-rapid/round-2/lyIyqH9p/qXY4Lynu"]
+[Date "2026.07.12"]
+[Round "2.1"]
+[White "Kosteniuk, Alexandra"]
+[Black "Finek, Vaclav"]
+[Result "1/2-1/2"]
+[WhiteElo "2431"]
+[BlackElo "2454"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 Nc6 6.d4 cxd4 7.cxd4 d5 8.Nc3 Bf5 9.h4 h6 10.g4 Bh7 11.Nge2 e6 12.Nf4 Be7 13.g5 Qd7 14.gxh6 gxh6 15.Be3 O-O-O 16.Bc2 Bxc2 17.Qxc2 Nc4 18.O-O-O Kb8 19.Kb1 Rc8 20.Qe2 Qd8 21.h5 Qa5 22.Rc1 Rhg8 23.Rhd1 Rc7 24.Nd3 Rgc8 25.b3 Na3+ 26.Kb2 b6 27.Nb1 Nb5 28.a4 Ncxd4 29.Qd2 Rc2+ 30.Rxc2 Rxc2+ 31.Qxc2 Nxc2 32.Kxc2 d4 33.Bd2 Nc3 34.Nxc3 dxc3 35.Bxh6 Qd5 36.Be3 Qf3 37.Re1 Qxh5 38.Kxc3 Qf3 39.Rg1 Kb7 40.Kd2 Qc6 41.Rg7 Qe8 42.Ke2 Qf8 43.Rg4 Qc8 44.Rc4 Qd7 45.Rd4 Qc6 46.Rc4 Qe8 47.Rg4 Qh8 48.Rc4 f6 49.exf6 Bxf6 50.Re4 Qh5+ 51.f3 Qd5 52.Rc4 e5 53.Nf2 Be7 54.Ne4 a6 55.Rc3 Bb4 56.Rd3 Qe6 57.Bd2 Be7 58.Be3 Bb4 59.Bd2 Bxd2 60.Kxd2 Qh6+ 61.Kc2 Qh2+ 62.Kc3 Qe2 63.Nd6+ Kc7 64.Nc4 Qe1+ 65.Kc2 b5 66.axb5 axb5 67.Nd2 Qa1 68.Rd5 Kc6 69.Rd3 Kc5 70.Re3 Kd5 71.Rd3+ Ke6 72.Re3 Kf5 73.Re4 Qa2+ 74.Kd1 Qb2 75.Rb4 Qc3 76.Re4 Qd3 77.Rb4 Ke6 78.Re4 Kd5 79.Kc1 Qc3+ 80.Kd1 Qd3 81.Kc1 Qc3+ 82.Kd1 1/2-1/2

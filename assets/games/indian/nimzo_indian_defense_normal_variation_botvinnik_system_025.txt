@@ -1,0 +1,15 @@
+[Event "Round 7: Gaybullayev, Sanjar - Hong, Mingren"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-7/0HMZweox/RBmNwp9E"]
+[Date "2026.07.22"]
+[Round "7.6"]
+[White "Gaybullayev, Sanjar"]
+[Black "Hong, Mingren"]
+[Result "0-1"]
+[WhiteElo "2022"]
+[BlackElo "2344"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Bd3 Nc6 11.O-O e5 12.Bb2 Rd8 13.Qc2 Be6 14.f4 c4 15.Bf5 Bxf5 16.Qxf5 exd4 17.exd4 Ne7 18.Qe5 Ned5 19.Qxc7 Nxc7 20.Ng3 Re8 21.Rae1 Nfd5 22.Ne4 b5 23.g3 f5 24.Nd6 Rxe1 25.Rxe1 g6 26.Kf2 Rd8 27.Nb7 Re8 28.Rxe8+ Nxe8 29.Kf3 Kf7 30.h3 Ke7 31.Nc5 Nd6 32.Ba1 Nf6 33.a4 Nfe4 34.Nxe4 fxe4+ 35.Ke3 bxa4 36.d5 a3 37.g4 Kf6 38.Kd4 h6 39.Ke3 g5 40.f5 Ke5 41.Ke2 Kxd5 0-1

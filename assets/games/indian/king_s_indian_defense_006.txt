@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "7.1"]
+[White "Rekuc, Patryk"]
+[Black "Raczek, Krzysztof"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2458"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 Bd7 7.O-O Re8 8.Nd2 Qc8 9.Re1 a5 10.b3 e5 11.e3 Nc6 12.d5 Nb4 13.Nf1 e4 14.Qd2 Bh3 15.f4 exf3 16.Bxf3 Bf5 17.Bb2 Nd3 18.Re2 Nxb2 19.Qxb2 Be4 20.Nd2 Bd3 21.Ree1 Ng4 22.Rac1 Nxe3 23.Ndb1 Nc2 24.Red1 Nb4 25.a3 Bf5 26.axb4 axb4 27.Qf2 bxc3 28.Nxc3 Qd7 29.Nb5 Bh6 30.Rc3 Qe7 31.Kg2 Be3 32.Qe2 Bb6 33.Qxe7 Rxe7 34.Rd2 Ra1 35.g4 Rg1+ 36.Kh3 Bc8 37.Rg2 Rge1 38.b4 R1e3 39.Rgc2 h5 40.Kg2 hxg4 41.Bd1 Bf5 42.Rf2 Rxc3 43.Nxc3 Bxf2 44.Kxf2 Kg7 45.Nb5 Kf6 46.c5 Ke5 47.Bb3 f6 48.Na3 dxc5 49.bxc5 Kd4 50.d6 cxd6 51.cxd6 Rd7 52.Ba4 Rxd6 53.Nb5+ Ke5 54.Nxd6 Kxd6 55.Ke3 Ke5 56.Be8 Be6 57.Bxg6 f5 58.Be8 f4+ 59.Ke2 Bd5 0-1

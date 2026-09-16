@@ -1,0 +1,15 @@
+[Event "Round 3: Swiercz, Dariusz - Rachels, Stuart"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/QGrQOYEo"]
+[Date "2026.07.03"]
+[Round "3.15"]
+[White "Swiercz, Dariusz"]
+[Black "Rachels, Stuart"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2431"]
+[ECO "A28"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.d3 d6 6.a3 Bc5 7.b4 Bb6 8.Na4 h6 9.Be2 O-O 10.O-O Nd4 11.Nxb6 Nxe2+ 12.Qxe2 axb6 13.d4 Bg4 14.dxe5 dxe5 15.Bb2 Qe7 16.h3 Bxf3 17.Qxf3 Rad8 18.Rad1 Qe6 19.Qe2 Rfe8 20.Rfe1 Nd7 21.Rd5 c6 22.Rd2 Nf8 23.Red1 Rxd2 24.Rxd2 Ng6 25.Qd3 Rf8 26.Kh2 Nf4 27.Qd6 f6 28.Qxe6+ Nxe6 29.Rd7 Rf7 30.Rd6 Re7 31.Bc1 Nd4 32.a4 Kf7 33.Be3 Nc2 34.Bxb6 Nxb4 35.Rd8 Na6 36.a5 Ke6 37.h4 Rd7 38.Rg8 Kf7 39.Rc8 h5 40.f3 g6 41.Ra8 Kg7 42.Kh3 Kh6 43.Kg3 Kg7 44.Kf2 Nb4 45.g3 Kf7 46.Ke2 Na6 47.g4 Nb4 48.gxh5 gxh5 49.Rh8 Kg6 50.Rg8+ Rg7 51.Rxg7+ Kxg7 52.Bc5 Na6 53.Bb6 Kf7 54.Ke3 Ke6 55.f4 Nb8 56.f5+ Kd7 57.Kd3 Na6 58.Kc3 Nb8 59.Ba7 Na6 60.Bb6 Nb8 61.Bc5 Na6 62.Bb6 1/2-1/2

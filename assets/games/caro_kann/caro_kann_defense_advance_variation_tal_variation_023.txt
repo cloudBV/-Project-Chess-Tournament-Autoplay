@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "18.3"]
+[White "Shevchenko, Yaroslav"]
+[Black "Sobol, Matvii"]
+[Result "0-1"]
+[WhiteElo "2310"]
+[BlackElo "2431"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.h5 c5 6.g4 Bd7 7.Be3 Nc6 8.c3 Qb6 9.Qd2 cxd4 10.cxd4 Bxg4 11.Nc3 e6 12.Bd3 Nge7 13.Na4 Qc7 14.Rc1 Nf5 15.f3 Nxe3 16.Qxe3 Bf5 17.Bxf5 exf5 18.Ne2 Bb4+ 19.Kf2 Qa5 20.Nc5 Bxc5 21.Rxc5 Qd8 22.h6 g6 23.Qb3 Ne7 24.Qxb7 O-O 25.Nf4 Rb8 26.Qxa6 Rxb2+ 27.Kg3 Rb6 28.Qa5 Nc6 29.Qc3 Qg5+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 7: Lindgren, Philip - Olsson, Linus"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-7/KAvlPL4o/wRtDaAx0"]
+[Date "2026.07.02"]
+[Round "7.4"]
+[White "Lindgren, Philip"]
+[Black "Olsson, Linus"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2232"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 h6 8.Bc4 Qc7 9.Bb3 Be6 10.O-O Be7 11.Nh2 Nbd7 12.Ng4 O-O 13.Qf3 Kh7 14.Ne3 g6 15.Ng4 Nxg4 16.hxg4 Kg7 17.g3 Bg5 18.Bxg5 hxg5 19.Bxe6 fxe6 20.Qe3 Qb6 21.Rfe1 Rac8 22.Rab1 Rc6 23.Qe2 Rfc8 24.Kg2 Rh8 25.Qd2 Qd8 26.Rh1 Rxh1 27.Rxh1 Qe7 28.f3 Rc8 29.Nd1 Rh8 30.Re1 Nb8 31.Nf2 Nc6 32.c3 Nd8 33.Rd1 Nf7 34.Qe3 Rc8 35.Nh3 Rh8 36.a3 Rc8 37.Nf2 Rh8 38.Nh3 Rc8 39.Ra1 Rh8 40.Nf2 Rc8 41.Qa7 Qd7 42.Qe3 Qe7 43.Qd2 Rh8 44.Rd1 Rc8 45.Qc1 Rh8 46.Rd3 Rf8 47.Nh3 Rh8 48.c4 Rc8 49.Rc3 Rc7 50.Qe3 Rc8 51.Nf2 Rc7 52.Rc1 Rc8 53.Nd3 Rc6 54.b3 Rc8 55.Qd2 Nd8 56.Nf2 Nf7 57.Qb2 Qf6 58.Nd3 Rf8 59.c5 Nd8 60.Rf1 Nc6 61.cxd6 Rd8 62.Nc5 b6 63.Nxa6 Rxd6 64.Nb4 Nd4 65.Qc3 Rd7 66.Rf2 Rf7 67.Nc2 Rf8 68.a4 Rf7 69.Ne3 Nxf3 70.Nd1 Qd8 71.Rxf3 Qxd1 72.Rxf7+ Kxf7 73.Qf3+ Qxf3+ 74.Kxf3 Ke7 75.Ke3 Kd6 76.Kd3 Kc5 77.Kc3 Kd6 78.Kb4 Kc6 79.Kc4 Kc7 80.Kb5 Kb7 81.b4 Kc7 82.a5 bxa5 83.bxa5 Kb7 84.Kc5 Ka6 85.Kd6 Kxa5 86.Kxe5 Kb6 87.Kxe6 Kc5 88.Kf6 Kd4 89.e5 Kd5 90.e6 1-0

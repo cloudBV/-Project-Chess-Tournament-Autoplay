@@ -1,0 +1,15 @@
+[Event "Round 1: Pacher, Milan - Bagaturov, Giorgi"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/GLew7ppm"]
+[Date "2026.07.24"]
+[Round "1.6"]
+[White "Pacher, Milan"]
+[Black "Bagaturov, Giorgi"]
+[Result "1/2-1/2"]
+[WhiteElo "2304"]
+[BlackElo "2297"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Bc5 5.d3 O-O 6.Be3 Bb6 7.O-O d6 8.Nd2 Ne7 9.Nf3 Nc6 10.Nd2 Ne7 11.Nf3 Nc6 1/2-1/2

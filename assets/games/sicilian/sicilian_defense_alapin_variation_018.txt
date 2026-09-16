@@ -1,0 +1,14 @@
+[Event "Round 10: Hernandez Jimenez, Jeronimo - Arrieta Hernandez, Cristian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-10/2c9qBSQ6/uzgQZNif"]
+[Date "2026.07.12"]
+[Round "10.2"]
+[White "Hernandez Jimenez, Jeronimo"]
+[Black "Arrieta Hernandez, Cristian"]
+[Result "0-1"]
+[WhiteElo "2244"]
+[BlackElo "2339"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Nf3 Nf6 6.Bb5+ Bd7 7.Qe2+ Be7 8.O-O O-O 9.Ne5 Bf5 10.Bd3 Qc8 11.Nd2 Bd6 12.Ndf3 Nc6 13.Nxc6 bxc6 14.Be3 Re8 15.Qc2 Bg4 16.Ne5 c4 17.Nxg4 Qxg4 18.Be2 Qh4 19.g3 Qh3 20.Bf3 h5 21.Bg2 Qd7 22.Rae1 h4 23.Bg5 Nh7 24.Bc1 a5 25.a4 Rab8 26.Rxe8+ Qxe8 27.Qd1 Qe6 28.Qh5 hxg3 29.hxg3 Nf6 30.Qf3 c5 31.Qd1 Re8 32.Bg5 Ne4 33.Bxe4 Qxe4 34.Bc1 cxd4 35.Qxd4 Qf3 36.Bf4 Bf8 37.Qd1 Re2 38.Be3 Bd6 39.Re1 Rxe3 40.fxe3 Qxg3+ 41.Kf1 Qh3+ 42.Kg1 Bh2+ 43.Kf2 Bg3+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Nidhish Shyamal - Arizmendi Martinez, Julen Luis"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-6/bVyM4zuT/TOrJooHP"]
+[Date "2026.07.09"]
+[Round "6.14"]
+[White "Nidhish Shyamal"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "0-1"]
+[WhiteElo "2187"]
+[BlackElo "2465"]
+[ECO "E81"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Steiner Attack"]
+
+1.d4 Nf6 2.c4 g6 3.f3 Bg7 4.e4 O-O 5.Nc3 d6 6.Bg5 Nc6 7.Nge2 a6 8.Qd2 Na5 9.Ng3 b5 10.cxb5 axb5 11.Rc1 b4 12.Nd1 Bd7 13.Be2 e5 14.dxe5 dxe5 15.O-O Nc6 16.Bc4 Rb8 17.Ne2 Na5 18.Ne3 Nxe4 19.fxe4 Qxg5 20.Bxf7+ Kh8 21.Nc4 Qxd2 22.Nxd2 Bh6 23.Rc2 Be3+ 24.Kh1 Bxd2 25.Rxd2 Be8 26.Rd5 Nb7 27.Rxe5 Bxf7 28.Re7 Bc4 29.Rxf8+ Rxf8 30.Ng3 Rf7 31.Re8+ Kg7 32.Rb8 c5 0-1

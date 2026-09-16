@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-3/N830nnms/g3JicAOs"]
+[Date "2026.07.11"]
+[Round "3.4"]
+[White "Skreko, Igor"]
+[Black "Bednar, Jan"]
+[Result "1-0"]
+[WhiteElo "2217"]
+[BlackElo "2031"]
+[ECO "E42"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.Bd2 Nxd2 9.Qxd2 Bd7 10.a3 Bxc3 11.Nxc3 a5 12.Bd3 b6 13.b3 bxc5 14.dxc5 Na6 15.Bxa6 Rxa6 16.O-O Qa8 17.Rab1 Ra7 18.b4 axb4 19.axb4 Rc7 20.Qd4 O-O 21.b5 e5 22.Qb4 d4 23.b6 Rb7 24.Nb5 Bc6 25.Nd6 Bxg2 26.Ra1 Qd8 27.Kxg2 1-0

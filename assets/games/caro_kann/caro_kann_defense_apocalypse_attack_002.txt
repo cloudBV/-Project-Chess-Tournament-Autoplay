@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-5/wUsb6suP/BSx1bnsw"]
+[Date "2026.07.11"]
+[Round "5.4"]
+[White "Kengis, Edvins"]
+[Black "Tolmacevs, Romans"]
+[Result "1/2-1/2"]
+[WhiteElo "2329"]
+[BlackElo "2208"]
+[ECO "B10"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Apocalypse Attack"]
+
+1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.Ne5 Nc6 5.d4 Nf6 6.Bb5 Bd7 7.Nxd7 Qxd7 8.c3 e6 9.O-O a6 10.Ba4 h6 11.Nd2 Bd6 12.Nf3 Qc7 13.Re1 b5 14.Bc2 O-O 15.Bd2 Rfc8 16.Rc1 Rab8 17.Bb1 a5 18.Qe2 Nd7 19.Qd3 Nf6 20.Qe2 Nd7 21.Qd3 Nf6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.21"]
+[White "Burdalev, Kirill"]
+[Black "Chaika, Vitalii"]
+[Result "0-1"]
+[WhiteElo "2276"]
+[BlackElo "2054"]
+[ECO "A53"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Czech Variation, with Nf3"]
+
+1.d4 d6 2.Nf3 c6 3.c4 Nf6 4.Nc3 Nbd7 5.e4 e5 6.h3 Be7 7.Be3 a5 8.Be2 a4 9.O-O O-O 10.Qc2 Qa5 11.d5 Nc5 12.Bxc5 Qxc5 13.Nxa4 Qa5 14.Nc3 Bd7 15.a3 cxd5 16.cxd5 Rfc8 17.Qb3 b5 18.Ne1 b4 19.Na2 bxa3 20.Nc3 Rcb8 21.Qc2 Rxb2 22.Qxb2 axb2 23.Rxa5 Rxa5 24.Nd3 Ra3 25.Nb1 Ra1 26.Nd2 Rxf1+ 27.Kxf1 Nxe4 28.Nb1 Bf5 29.g4 Bg6 30.Nxb2 Nxf2 31.Kxf2 Bxb1 32.Bd3 Ba2 33.Bc4 Bb1 34.Bd3 Bxd3 35.Nxd3 g6 36.Kf3 f5 37.Nb4 Bg5 38.gxf5 gxf5 39.Nc6 Kf7 40.Na7 e4+ 41.Kg3 Kf6 42.Nc6 h5 43.h4 f4+ 44.Kh3 Bh6 45.Nd8 Kf5 46.Nf7 Bf8 47.Kg2 Kg4 48.Ng5 Kf5 49.Nf7 Be7 50.Kh3 Kg6 51.Nh8+ Kg7 0-1

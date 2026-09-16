@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-5/gwYuF2XU/mDBidFEz"]
+[Date "2026.07.23"]
+[Round "5.5"]
+[White "Strom-Engdahl, Alexander"]
+[Black "Hald Falkesgaard, Jeppe"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2271"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.b3 Bb7 4.Bb2 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O e6 8.Nc3 Qe7 9.e3 d5 10.cxd5 exd5 11.Rc1 Nbd7 12.Re1 a6 13.d3 c5 14.d4 Rfe8 15.Re2 Rad8 16.Ba3 Ne4 17.Rec2 Qe6 18.Ne2 g5 19.Qe1 a5 20.Bb2 Ba6 21.Rd1 Qg6 22.Rcc1 c4 23.Nc3 Nxc3 24.Bxc3 Qf5 25.Nd2 Rc8 26.bxc4 Bxc4 27.Nxc4 Rxc4 28.Bf1 Rc7 29.Bb2 Rec8 30.Bd3 Qh3 31.Ba6 Rxc1 32.Rxc1 Rxc1 33.Qxc1 Nf6 34.Bc8 Ng4 35.Bxg4 Qxg4 36.Qc6 Qe4 37.Qc8+ Bf8 38.Ba3 Qb1+ 39.Kg2 Qe4+ 40.f3 1-0

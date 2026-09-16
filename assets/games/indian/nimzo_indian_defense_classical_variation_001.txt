@@ -1,0 +1,15 @@
+[Event "Round 8: Kiriakov, Petr - Ilkhanipour, Ramtin"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-8/GUsARlGX/kls0RYa5"]
+[Date "2026.07.03"]
+[Round "8.5"]
+[White "Kiriakov, Petr"]
+[Black "Ilkhanipour, Ramtin"]
+[Result "1/2-1/2"]
+[WhiteElo "2453"]
+[BlackElo "2156"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 b6 5.a3 Bxc3+ 6.Qxc3 Bb7 7.Bg5 d6 8.f3 Nbd7 9.e4 e5 10.dxe5 Nxe5 11.Nh3 Qe7 12.Be2 h6 13.Be3 g5 14.Nf2 O-O-O 15.O-O-O Rhg8 16.Kb1 Rde8 17.Ka1 Nh5 18.Rhe1 Nf4 19.Bf1 Ne6 20.Nh1 h5 21.Ng3 Ng7 22.Qc1 f6 23.Ne2 Ne6 24.Nc3 Qf7 25.Qc2 Rgf8 26.Nb5 Kb8 27.Nd4 Nxd4 28.Bxd4 1/2-1/2

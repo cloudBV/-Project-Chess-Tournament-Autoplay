@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.12"]
+[White "Deviprasath, Sharvesh"]
+[Black "Sanchez Alvares, Kelvin Antonio"]
+[Result "1/2-1/2"]
+[WhiteElo "2422"]
+[BlackElo "2160"]
+[ECO "B50"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5 dxe5 5.Nxe5 a6 6.a4 Be6 7.g3 Qd6 8.Nf3 Nc6 9.Bg2 Bg4 10.d3 Rd8 11.O-O e6 12.h3 Bxf3 13.Qxf3 Qc7 14.Re1 Nd4 15.Qd1 h6 16.Ne4 Be7 17.Bf4 Qd7 18.Nxf6+ gxf6 19.c3 Nc6 20.Qh5 e5 21.Be3 Qxd3 22.Rad1 Qg6 23.Bxc6+ bxc6 24.Rxd8+ Bxd8 25.Qe2 O-O 26.Qxa6 f5 27.Bxc5 Re8 28.Rd1 f4 29.Qd3 f5 30.g4 e4 31.Qd7 e3 32.Rd6 Qf7 33.Qxf7+ Kxf7 34.fxe3 fxe3 35.Bxe3 Rxe3 36.Rxd8 fxg4 37.hxg4 Rg3+ 38.Kf2 Rxg4 39.Rd4 Rg6 40.b4 Ke7 41.a5 Re6 42.Kf3 Rf6+ 43.Ke3 Rf8 44.Rh4 Rf6 45.Kd4 Kd6 46.c4 c5+ 47.bxc5+ Kc6 48.Rh5 Kb7 49.Kd5 Kc7 50.Re5 Rf7 51.a6 Rd7+ 52.Ke4 Kc6 53.Rh5 Rd1 54.a7 Kb7 55.Rxh6 Kxa7 56.Rb6 Rh1 57.Kd5 Rh4 58.Rb2 Rh5+ 59.Kc6 Rh6+ 60.Kb5 Kb7 61.Rd2 Kc7 62.Ra2 Rh1 63.Ra7+ Kb8 64.Re7 Rh6 65.Rd7 Kc8 66.Rd6 Rh4 67.Rd5 Rh1 68.Rg5 Rh7 69.Kb6 Rb7+ 70.Ka6 Rb4 71.Rg7 Rxc4 72.Kb6 Rc1 73.Kb5 Rc2 74.Kc6 Kb8 75.Rg8+ Ka7 76.Rg1 Rh2 77.Rd1 Rh6+ 78.Rd6 Rh1 79.Kc7 Rb1 80.Rd7 Rc1 81.Kc6+ Kb8 82.Rd8+ Ka7 83.Rd3 Kb8 84.Rf3 Rh1 85.Rf6 Rd1 86.Rd6 Rc1 87.Rd8+ Ka7 88.Kd6 Kb7 89.Rd7+ Kc8 90.Rh7 Rd1+ 91.Kc6 Kb8 92.Rh8+ Ka7 93.Kc7 Rg1 94.Rh7 Rg6 95.c6 Rg8 96.Kd7 Kb6 97.c7 Kb7 98.Re7 Rh8 99.c8=N Rxc8 100.Re8 Rxe8 101.Kxe8 1/2-1/2

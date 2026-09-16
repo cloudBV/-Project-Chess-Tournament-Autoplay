@@ -1,0 +1,14 @@
+[Event "Round 1: Materia, Marco - Finek, Vaclav"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-qualifier/round-1/aAuPzi1B/NIvKqHpf"]
+[Date "2026.07.14"]
+[Round "1.1"]
+[White "Materia, Marco"]
+[Black "Finek, Vaclav"]
+[Result "1/2-1/2"]
+[WhiteElo "2508"]
+[BlackElo "2593"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.e3 O-O 7.Nbd2 d6 8.Bd3 a5 9.O-O b6 10.Re1 Bb7 11.e4 Re8 12.Nf1 e5 13.Bc2 Na6 14.Ng3 g6 15.Qd2 exd4 16.Rad1 Nc5 17.Qxd4 a4 18.h3 b3 19.axb3 axb3 20.Bb1 Rc8 21.Kh2 Qe7 22.Re3 h5 23.Qxd6 Qxd6 24.Rxd6 Nfxe4 25.Bxe4 Bxe4 26.Nxe4 Rxe4 27.Rxe4 Nxe4 28.Rxb6 Rxc4 29.Rxb3 Nxf2 30.Ne5 Rc5 31.Nd3 Nxd3 32.Rxd3 Rc2 33.b3 Rb2 34.h4 Kg7 35.Kg3 Kh6 36.Kf3 f6 37.g3 g5 38.hxg5+ Kxg5 39.Rd5+ f5 40.Rb5 Rc2 1/2-1/2

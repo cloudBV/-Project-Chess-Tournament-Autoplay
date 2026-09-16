@@ -1,0 +1,15 @@
+[Event "Round 4: Atis, Hasan - Cera Dagariya"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/jT147pKa"]
+[Date "2026.07.15"]
+[Round "4.18"]
+[White "Atis, Hasan"]
+[Black "Cera Dagariya"]
+[Result "1/2-1/2"]
+[WhiteElo "2139"]
+[BlackElo "2026"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Ne7 6.b3 d5 7.Bb2 Ng6 8.Nbd2 Qc7 9.O-O d4 10.c3 e5 11.cxd4 cxd4 12.Rc1 Bg4 13.h3 Bd7 14.Nc4 Bd6 15.Rc2 O-O 16.Qc1 Be7 17.Ba3 Rae8 18.Bxe7 Rxe7 19.Qa3 Re6 20.Qc5 Rfe8 21.Kh2 Nf4 22.Rd1 Rg6 23.g3 Rh6 24.Ncxe5 Nxh3 25.Kg2 Rh5 26.Qxd4 Rhxe5 27.Nxe5 Rxe5 28.f4 Rh5 29.Rc5 Nxf4+ 30.gxf4 Rxc5 31.Qxc5 Qxf4 32.Qxa7 Qg4+ 33.Kf2 h5 34.Qb8+ Kh7 35.Rg1 Qh4+ 36.Ke3 Qe7 37.Qg3 g6 38.Rf1 Qc5+ 39.Kd2 Qa5+ 40.Ke3 Qc5+ 41.Kf3 Qc2 42.Ke3 1/2-1/2

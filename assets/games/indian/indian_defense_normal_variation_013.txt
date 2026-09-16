@@ -1,0 +1,15 @@
+[Event "Round 6: Magen, Ofek - Zakin, Ilay"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-6/Ukm9jNHu/PaDHL5ks"]
+[Date "2026.07.19"]
+[Round "6.6"]
+[White "Magen, Ofek"]
+[Black "Zakin, Ilay"]
+[Result "0-1"]
+[WhiteElo "2115"]
+[BlackElo "2371"]
+[ECO "A50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 c5 4.d5 b5 5.Nf3 bxc4 6.Nc3 d6 7.e4 e5 8.Bd2 Be7 9.Bxc4 O-O 10.h3 Nfd7 11.a4 Nb6 12.Bd3 Na6 13.a5 Nb4 14.Be2 Nd7 15.O-O Nb8 16.Ne1 f5 17.Nc2 Nxc2 18.Qxc2 f4 19.f3 Qe8 20.Be1 Qh5 21.Bb5 Na6 22.Qe2 Nc7 23.Bc4 Rf6 24.Nd1 Rg6 25.Kh2 Bh4 26.b4 cxb4 27.Rc1 Bd7 28.Bd3 Ne8 29.Bb5 Bxb5 30.Qxb5 Qg5 31.Qe2 Bg3+ 32.Kg1 Nf6 33.Bxb4 Nh5 34.Rc7 Rb8 35.Rxa7 Bh2+ 36.Kxh2 Ng3 37.Qf2 Nxf1+ 38.Qxf1 Rxb4 39.Ra8+ Kf7 40.Nf2 Qg3+ 41.Kh1 Rb1 42.Ra7+ Kf6 43.Ng4+ Rxg4 0-1

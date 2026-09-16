@@ -1,0 +1,15 @@
+[Event "Round 5: Rensch, Daniel - Rosen, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-5/bVLy8HmZ/9ONoUSU4"]
+[Date "2026.07.05"]
+[Round "5.3"]
+[White "Rensch, Daniel"]
+[Black "Rosen, Eric"]
+[Result "0-1"]
+[WhiteElo "2401"]
+[BlackElo "2327"]
+[ECO "C11"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.a3 c6 7.h4 Nd7 8.Nf3 Qd8 9.Bd3 Be7 10.Qe2 b5 11.g3 a5 12.Kf1 O-O 13.Kg2 Re8 14.Qe3 Ba6 15.Ne2 b4 16.Bxa6 Rxa6 17.axb4 Bxb4 18.Ra2 Bf8 19.Rha1 Qb6 20.b3 Rea8 21.Nc3 Qb4 22.Ra4 Qb7 23.Qd3 Nf6 24.e5 Nd7 25.R4a2 Qb6 26.Na4 Qb4 27.Nd2 c5 28.dxc5 Nxe5 29.Qe3 Nc6 30.c4 d4 31.Qd3 Bxc5 32.Nxc5 Qxc5 33.Ne4 Qe5 34.f4 Qf5 35.Qf3 h5 36.Rd2 f6 37.Nd6 Qc5 38.Ne4 Qb4 39.Rd3 a4 40.bxa4 Rxa4 41.Rxa4 Rxa4 42.Rb3 Ra2+ 43.Kh3 Qe1 44.Rb7 Qg1 45.Qxh5 0-1

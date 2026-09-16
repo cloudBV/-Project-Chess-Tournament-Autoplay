@@ -1,0 +1,14 @@
+[Event "Round 5: Gyurjinyan, Valter - Bryakin, Mikhail"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-5/9Q1lRTRH/l5aHkz8h"]
+[Date "2026.07.17"]
+[Round "5.23"]
+[White "Gyurjinyan, Valter"]
+[Black "Bryakin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo "2185"]
+[BlackElo "2483"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Qa5 4.Be2 Bg4 5.O-O Nf6 6.h3 Bxf3 7.Bxf3 e6 8.d4 Bb4 9.e5 Nfd7 10.Ne2 Be7 11.Ng3 Na6 12.c3 Nc7 13.Re1 O-O-O 14.a4 a6 15.b4 Qb6 16.Ba3 Qa7 17.Qb3 b5 18.Bc1 Nb6 19.axb5 cxb5 20.Re2 Nc4 21.Rea2 Qb6 22.Be2 Qc6 23.Nh5 Rdg8 24.Qd1 Kb7 25.Qd3 f5 26.exf6 gxf6 27.Qf3 e5 28.Bxc4 dxc4 29.Qxc6+ Kxc6 30.dxe5 fxe5 31.Bh6 Rg6 32.Bg7 Re8 33.Bxe5 Bxb4 34.Bxc7 Bxc3 35.Ba5 Bxa1 36.Rxa1 Kc5 37.f4 Rf8 38.g4 b4 39.Rb1 Rb8 40.f5 Rc6 41.Nf4 c3 42.Nd3+ Kd4 43.Nxb4 Kc4 44.Rf1 Rcc8 45.Na2 c2 46.Bd2 Rd8 47.Bh6 Rd1 48.f6 Rb7 49.h4 Rf7 50.g5 a5 51.h5 Kb3 52.Nc1+ Kb2 53.Kg2 Rxf1 54.Kxf1 a4 55.Ke2 Kb1 56.Kf3 a3 57.Kg4 a2 58.Nxa2 Kxa2 59.g6 hxg6 60.hxg6 Rxf6 61.Kh5 Rf5+ 62.Kg4 Rf6 63.Kh5 Kb1 64.Be3 Rf3 65.Bd2 Rh3+ 66.Kg5 Rd3 67.Bf4 Rd4 68.Be3 Re4 69.Bd2 Re2 70.Bf4 Rg2+ 71.Kh6 Rh2+ 72.Kg5 Rf2 73.Be3 Re2 74.Bf4 Re5+ 75.Kh6 Re6 76.Kg5 Re7 77.Kf5 Re1 78.Kg5 Rf1 79.Be3 Rg1+ 80.Kh6 Rh1+ 81.Kg5 Re1 82.Bf4 Re7 83.Kf5 Kb2 84.Bg5 Rd7 85.Bf4 Rd4 86.Be3 Rd3 87.Bh6 Rh3 88.Bd2 Rh2 89.Be3 Rg2 90.Kf6 Rf2+ 91.Kg5 Rf3 92.Bd2 Rd3 93.Bf4 Rd7 94.Kh6 Rd4 95.Be3 Re4 96.Bd2 Re2 97.Bf4 Rh2+ 98.Kg5 Rf2 99.Be3 Kc3 100.g7 Kd3 101.Bc1 Rf1 102.Bb2 Rb1 103.Ba3 Kc3 104.Kf6 Rf1+ 105.Ke7 Rg1 106.Kf8 Kb3 107.Bc1 Rf1+ 108.Ke7 Re1+ 109.Kf8 Rf1+ 110.Ke7 Re1+ 1/2-1/2

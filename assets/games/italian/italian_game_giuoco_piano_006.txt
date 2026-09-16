@@ -1,0 +1,15 @@
+[Event "Round 1: Sindarov, Javokhir - Sindarov, Islombek"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-1/edyv1CkS/7WCPby3H"]
+[Date "2026.07.04"]
+[Round "1.3"]
+[White "Sindarov, Javokhir"]
+[Black "Sindarov, Islombek"]
+[Result "1-0"]
+[WhiteElo "2680"]
+[BlackElo "2322"]
+[ECO "C50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Piano"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 d6 5.d3 Nf6 6.Be3 Bb6 7.h3 Be6 8.Bb3 h6 9.d4 Bxb3 10.axb3 exd4 11.Nxd4 O-O 12.O-O Re8 13.Nf5 Nxe4 14.Qg4 Ng5 15.h4 Ne5 16.Qg3 Ne6 17.Nxh6+ Kf8 18.Nf5 Qf6 19.Qh3 Qg6 20.Ra4 Nc5 21.h5 Qh7 22.Rh4 Ncd7 23.Nd5 Rac8 24.Bxb6 axb6 25.f4 Nc6 26.h6 g6 27.Nxd6 f5 28.Nxc8 Rxc8 29.Qc3 Re8 30.Rh3 1-0

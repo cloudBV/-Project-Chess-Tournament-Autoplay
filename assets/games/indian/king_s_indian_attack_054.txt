@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/dEBQdYV6"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Romanishin, Oleg M"]
+[Black "Sahidi, Samir"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2485"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 g6 4.d4 Bg7 5.c4 c6 6.cxd5 cxd5 7.Ne5 O-O 8.Nc3 Nc6 9.O-O e6 10.Nxc6 bxc6 11.Na4 Nd7 12.Bf4 Ba6 13.Rc1 Qa5 14.b3 Rfc8 15.Bd2 Qb5 16.Nc3 Qb6 17.Be3 Bb5 1/2-1/2

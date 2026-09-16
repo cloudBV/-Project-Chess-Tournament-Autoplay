@@ -1,0 +1,14 @@
+[Event "Round 8: Mammadov, Zaur - Ristic, Luka"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/OCVbv952"]
+[Date "2026.07.10"]
+[Round "8.15"]
+[White "Mammadov, Zaur"]
+[Black "Ristic, Luka"]
+[Result "0-1"]
+[WhiteElo "2420"]
+[BlackElo "2312"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 c5 5.Nbd2 Nc6 6.c3 cxd4 7.exd4 Nh5 8.Be3 Bd6 9.Ne5 g6 10.Ndf3 f6 11.g4 Ng7 12.Nxc6 bxc6 13.h4 e5 14.h5 gxh5 15.gxh5 Nf5 16.Qa4 Bd7 17.dxe5 fxe5 18.O-O-O Nxe3 19.fxe3 Qb6 20.e4 Rb8 21.Rh2 Rf8 22.Nh4 Rf2 23.Rxf2 Qxf2 24.Qc2 Qxh4 25.exd5 Qf4+ 26.Kb1 cxd5 27.Ka1 Bg4 28.Be2 Bf5 29.Bd3 e4 30.Be2 e3 31.Bd3 Bxd3 32.Qxd3 Qf2 33.Rb1 e2 0-1

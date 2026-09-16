@@ -1,0 +1,14 @@
+[Event "Round 3: Chitlange Sakshi - Riechenberg, Sebastian"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/q2inlpDd"]
+[Date "2026.07.23"]
+[Round "3.24"]
+[White "Chitlange Sakshi"]
+[Black "Riechenberg, Sebastian"]
+[Result "1-0"]
+[WhiteElo "2220"]
+[BlackElo "2130"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Qc2 a6 5.Nbd2 Nbd7 6.g3 c5 7.cxd5 Nxd5 8.Bg2 cxd4 9.Nxd4 N7f6 10.O-O Bd7 11.Nc4 Rc8 12.Qb3 Qc7 13.Ne3 Bc5 14.Nxd5 Nxd5 15.Bxd5 exd5 16.Qxd5 O-O 17.Bf4 Qb6 18.Qxd7 Rfd8 19.Qf5 Bxd4 20.Rab1 h6 21.b3 g5 22.Bc1 Rc5 23.Qe4 Qc6 24.Qg4 Qe6 25.Qxe6 fxe6 26.a4 Rc2 27.e3 Be5 28.Ba3 Kf7 29.Rfd1 Rdd2 30.Rxd2 Rxd2 31.g4 b5 32.axb5 axb5 33.Bc5 Kg6 34.Kg2 Rc2 35.b4 Rc4 36.h3 h5 37.Kf3 hxg4+ 38.hxg4 Kg7 39.Rd1 Kf6 40.Rd2 Kg6 41.Ra2 Kf6 42.Ra5 Rc2 43.Rxb5 Bc3 44.Rb8 Be1 45.e4 Bd2 46.Bd4+ 1-0

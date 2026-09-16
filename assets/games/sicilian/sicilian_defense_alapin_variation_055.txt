@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.13"]
+[White "Haug, Havard"]
+[Black "Ivanytska, Liudmyla"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2180"]
+[ECO "B22"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 e6 5.d4 cxd4 6.cxd4 d6 7.Bc4 Nc6 8.O-O Be7 9.Qe2 O-O 10.Rd1 a6 11.Nc3 Nxc3 12.bxc3 d5 13.Bd3 b5 14.h4 Bxh4 15.g3 Be7 16.Kg2 f5 17.exf6 Bxf6 18.Rh1 g6 19.Bf4 Ra7 20.Qe3 b4 21.cxb4 Nxb4 22.Rh6 Nxd3 23.Qxd3 e5 24.dxe5 Bg7 25.Rhh1 Bf5 26.Qe3 Be4 27.Qxa7 g5 28.Qxa6 gxf4 29.Qe6+ Kh8 30.Rxh7+ Bxh7 31.Rh1 fxg3 32.Qg6 Bh6 33.Qxh6 Qe7 34.Ng5 Rxf2+ 35.Kxg3 Qxe5+ 36.Kxf2 Qd4+ 37.Kg3 Qe5+ 38.Kg4 Qe2+ 39.Nf3 1-0

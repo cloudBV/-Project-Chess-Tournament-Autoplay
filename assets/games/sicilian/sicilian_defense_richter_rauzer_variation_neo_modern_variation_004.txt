@@ -1,0 +1,14 @@
+[Event "Round 8: Tronsson, Martin - Tiger-Norqvist, Axel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/iGwnsWcn"]
+[Date "2026.07.03"]
+[Round "8.12"]
+[White "Tronsson, Martin"]
+[Black "Tiger-Norqvist, Axel"]
+[Result "0-1"]
+[WhiteElo "2080"]
+[BlackElo "2168"]
+[ECO "B68"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bd3 h6 12.Bh4 Qc7 13.Kb1 b4 14.Ne2 a5 15.Nc1 a4 16.Rhe1 O-O 17.g4 Rfb8 18.g5 hxg5 19.Bxg5 Na5 20.Rg1 b3 21.cxb3 axb3 22.a3 Nc4 23.Bxc4 Qxc4 24.Qe2 Qc5 25.e5 Nd5 26.Rxd5 exd5 27.Bxe7 Bf5+ 28.Nd3 Qc4 29.Rd1 Rc8 30.Ne1 dxe5 31.fxe5 Bg4 32.Qd2 Bxd1 33.Qxd1 Rc6 34.Bb4 Rac8 35.Bd2 Rg6 36.Qe2 Rg1 37.e6 Qc2+ 38.Ka1 Rxe1+ 39.Qxe1 Qxd3 40.exf7+ Kxf7 41.Bb4 Qe4 42.Qd1 Qc4 43.Bd2 d4 44.h4 Kg8 45.h5 Rf8 46.h6 Rf1 47.h7+ Kh8 0-1

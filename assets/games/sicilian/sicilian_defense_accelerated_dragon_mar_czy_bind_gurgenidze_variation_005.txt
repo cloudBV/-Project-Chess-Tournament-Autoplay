@@ -1,0 +1,14 @@
+[Event "Round 5: Sahib Singh - Kantans, Toms"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/C84vThjg"]
+[Date "2026.07.07"]
+[Round "5.5"]
+[White "Sahib Singh"]
+[Black "Kantans, Toms"]
+[Result "1-0"]
+[WhiteElo "2347"]
+[BlackElo "2559"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be3 Bg7 9.Be2 O-O 10.Qd2 a5 11.O-O a4 12.Rad1 Qa5 13.Bd4 Be6 14.f4 Rfc8 15.b3 axb3 16.axb3 Bg4 17.e5 Bxe2 18.Qxe2 Nd7 19.Nd5 Kf8 20.exd6 Bxd4+ 21.Rxd4 e6 22.b4 Qa2 23.Qxa2 Rxa2 24.Nc7 b6 25.Rdd1 Ra4 26.Rb1 Nb8 27.c5 bxc5 28.bxc5 Rc4 29.Rfc1 Rxf4 30.c6 Rd4 31.Nb5 Ra4 32.d7 Nxd7 33.cxd7 Rxc1+ 34.Rxc1 Ke7 35.Rd1 Ra8 36.Na7 1-0

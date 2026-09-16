@@ -1,0 +1,14 @@
+[Event "Round 9: Willstedt, Lukas - Bodemar, Jonathan"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/Z0YhrKFI"]
+[Date "2026.06.24"]
+[Round "9.1"]
+[White "Willstedt, Lukas"]
+[Black "Bodemar, Jonathan"]
+[Result "1-0"]
+[WhiteElo "2118"]
+[BlackElo "2124"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 c6 8.h4 Ne4 9.Bg5 f5 10.Bxe7 Qxe7 11.Nc3 Nd7 12.e3 b6 13.cxd5 exd5 14.O-O Bb7 15.Ne2 Qd6 16.Nf4 Rac8 17.Rfd1 g6 18.Rac1 Kg7 19.Qa4 a5 20.Qb3 Ba6 21.Ne5 Nef6 22.Rc2 Rfe8 23.Rdc1 a4 24.Qxa4 Bb5 25.Qb3 Nxe5 26.dxe5 Rxe5 27.a4 Bc4 28.Qxb6 Rb8 29.Qd4 c5 30.Qd2 Qe7 31.Rc3 Ne4 32.Bxe4 fxe4 33.Ra3 h6 34.Qc3 g5 35.Ng2 Qf6 36.b3 Bd3 1-0

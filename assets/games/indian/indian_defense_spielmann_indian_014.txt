@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.28"]
+[White "Prymula, Roman"]
+[Black "Ligotnis, Maksims"]
+[Result "0-1"]
+[WhiteElo "2176"]
+[BlackElo "2053"]
+[ECO "A46"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 e6 4.Bg5 Be7 5.e3 b6 6.Nbd2 Bb7 7.Bd3 O-O 8.O-O cxd4 9.exd4 d6 10.Qe2 Nbd7 11.Rfe1 Re8 12.Rad1 a6 13.h3 Qc7 14.Bb1 Bf8 15.Qd3 g6 16.Bh4 Bg7 17.a3 Rac8 18.Ba2 b5 19.Bg3 Nb6 20.Ng5 Qc6 21.f3 d5 22.h4 h6 23.Nh3 Nh5 24.Bh2 Na4 25.Rb1 Bf6 26.g3 Ng7 27.Bb3 e5 28.Bxa4 bxa4 29.Kg2 exd4 30.cxd4 Nf5 31.Bg1 a5 32.Rbc1 Qd6 33.Bf2 Ba6 34.Rxc8 Rxc8 35.Qb1 Bxd4 36.f4 Bxf2 37.Nxf2 Bb7 38.Kh2 Nxh4 39.Ng4 Nf5 40.Ne5 Qc5 41.Re2 Ba6 42.Rg2 Qe3 43.Nf1 Bxf1 44.Qxf1 Rc1 45.Qb5 Qa7 46.Qxd5 Ne3 47.Qd2 Nf1+ 0-1

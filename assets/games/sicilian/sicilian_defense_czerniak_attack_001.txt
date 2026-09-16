@@ -1,0 +1,14 @@
+[Event "Round 5: Muntean, Victor - Cibo, Faris"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-5/JTTwQAOc/SUqKSLCj"]
+[Date "2026.07.01"]
+[Round "5.1"]
+[White "Muntean, Victor"]
+[Black "Cibo, Faris"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2150"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 g6 3.Bb2 Nf6 4.e5 Nd5 5.Qf3 Nc7 6.Bc4 Ne6 7.h4 Nc6 8.Ne2 Bg7 9.h5 Nxe5 10.Bxe5 Bxe5 11.hxg6 hxg6 12.Rxh8+ Bxh8 13.Nbc3 Rb8 14.O-O-O d6 15.Rh1 Bg7 16.Rh7 Kf8 17.Nf4 Nxf4 18.Qxf4 e6 19.Ne4 Qe7 20.Nxd6 Ra8 21.g4 g5 22.Qh2 Kg8 23.Bd3 Qf6 24.c3 Bd7 25.Ne4 Qe7 26.Ng3 Qd8 27.Nh5 Bh8 28.Rxh8+ Kxh8 29.Qe5+ f6 30.Nxf6 Qb8 31.Qxg5 Qh2 32.Nh5 1-0

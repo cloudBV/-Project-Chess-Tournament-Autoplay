@@ -1,0 +1,14 @@
+[Event "Round 10: Yip, Carissa - Xiao, Tong(QD)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-10/ehG0yFP7/CPB44SWG"]
+[Date "2026.07.01"]
+[Round "10.1"]
+[White "Yip, Carissa"]
+[Black "Xiao, Tong(QD)"]
+[Result "0-1"]
+[WhiteElo "2369"]
+[BlackElo "2465"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 g6 5.Bg5 f6 6.Be3 Bg7 7.c3 b6 8.Bg2 Nge7 9.O-O O-O 10.d4 cxd4 11.Nxd4 Nxd4 12.Bxd4 Bb7 13.Qe2 e5 14.Be3 f5 15.Bg5 h6 16.Qc4+ Kh8 17.Bxe7 Qxe7 18.exf5 Bxg2 19.Kxg2 gxf5 20.Nd2 Rac8 21.Qe2 f4 22.Qe4 d5 23.Qg6 e4 24.Rae1 Qd7 25.Qh5 Rf5 26.Qh3 b5 27.Kg1 Rcf8 28.Nb3 Qf7 29.Rd1 Rh5 30.Qg4 Rg5 31.Qh3 Kh7 32.Nc5 Re8 33.Qd7 Re7 34.Qh3 f3 35.Rfe1 Rge5 36.Re3 Qg6 37.Nd7 Rh5 38.Qf1 Rxd7 39.Qxb5 Qf5 40.Qf1 Rc7 41.h4 Qg4 42.Kh2 Be5 43.Kg1 Rxh4 44.Rxd5 Bxg3 0-1

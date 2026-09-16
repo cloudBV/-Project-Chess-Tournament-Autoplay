@@ -1,0 +1,14 @@
+[Event "Round 5: Naumov, Petr - Damljanovic, Branko"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-5/9Q1lRTRH/4eodtVSO"]
+[Date "2026.07.17"]
+[Round "5.19"]
+[White "Naumov, Petr"]
+[Black "Damljanovic, Branko"]
+[Result "1/2-1/2"]
+[WhiteElo "2229"]
+[BlackElo "2362"]
+[ECO "E69"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Main Line"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Nc3 e5 8.h3 c6 9.e4 exd4 10.Nxd4 Qb6 11.Nde2 Ne8 12.Qc2 Nc5 13.Be3 f5 14.Rab1 Qc7 15.Rbd1 Qe7 16.Rfe1 fxe4 17.Nf4 Nf6 18.b4 Ncd7 19.Nxe4 Nxe4 20.Bxe4 Ne5 21.Bd4 Bf5 22.Kg2 Rae8 23.Bxf5 Rxf5 24.Nd3 Qf8 25.Nxe5 dxe5 26.Bc5 Qf7 27.Bxa7 Bf8 28.Bc5 Bxc5 29.bxc5 Qe7 30.Rd6 e4 31.Qd2 Ref8 32.Re2 Rxc5 33.Qd4 Re5 34.c5 Qf7 35.Qxe5 Qf3+ 36.Kg1 Qxe2 37.Qd4 e3 38.Qxe3 Qxe3 39.fxe3 Ra8 40.Rd7 Rxa2 41.Rxb7 Rc2 42.e4 h5 43.h4 Rxc5 44.Kf2 Rc3 45.Rc7 Kf8 46.e5 Rc5 47.Kf3 Rxe5 48.Rxc6 1/2-1/2

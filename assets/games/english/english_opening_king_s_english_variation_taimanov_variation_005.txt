@@ -1,0 +1,14 @@
+[Event "Round 3: Erne, Raphael - Elmi, Saad Abobaker"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-3/T68Yzjat/WMaHZCzl"]
+[Date "2026.07.19"]
+[Round "3.9"]
+[White "Erne, Raphael"]
+[Black "Elmi, Saad Abobaker"]
+[Result "0-1"]
+[WhiteElo "2128"]
+[BlackElo "2409"]
+[ECO "A25"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Taimanov Variation"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 e5 4.Nc3 Nc6 5.Nf3 d6 6.d3 Bd7 7.Rb1 Qc8 8.h3 a5 9.a3 Nge7 10.b4 axb4 11.axb4 O-O 12.b5 Nd8 13.Kf1 Ne6 14.Kg1 c6 15.Kh2 d5 16.bxc6 bxc6 17.Qc2 Qa6 18.Rd1 Nd4 19.Qd2 Rfb8 20.Rxb8+ Rxb8 21.cxd5 Nb3 22.Qa2 Qxa2 23.Nxa2 cxd5 24.Bd2 Nxd2 25.Rxd2 d4 26.Ng5 Bh6 27.f4 exf4 28.gxf4 f6 29.h4 fxg5 30.fxg5 Bg7 31.Rc2 Be5+ 32.Kg1 Rb1+ 33.Bf1 Bh3 34.Rc1 Rxc1 35.Nxc1 Bxf1 0-1

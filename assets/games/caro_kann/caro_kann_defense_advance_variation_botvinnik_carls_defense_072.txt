@@ -1,0 +1,15 @@
+[Event "Round 9: Mond, Omri - Vagman, Roy"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-9/AS2EnOQA/2awv5KCC"]
+[Date "2026.07.21"]
+[Round "9.2"]
+[White "Mond, Omri"]
+[Black "Vagman, Roy"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2374"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c4 Nc6 5.cxd5 Qxd5 6.Nc3 Qxd4 7.Be3 Qxd1+ 8.Rxd1 Bd7 9.f4 e6 10.g4 Nh6 11.h3 Be7 12.Nf3 Nb4 13.Kf2 O-O-O 14.Rc1 Bc6 15.Nb5 Kb8 16.Bxc5 Bxc5+ 17.Rxc5 Rd1 18.Rg1 Rb1 19.Nbd4 Rxb2+ 20.Kg3 Rxa2 21.Nxc6+ Nxc6 22.Bg2 Rb2 23.Rd1 a5 24.Rd7 a4 25.Nd4 Nxd4 26.Rxd4 a3 27.Ra4 Rb3+ 28.Kh2 Rc8 29.Rca5 Rcc3 30.f5 Rb2 31.fxe6 fxe6 32.Rxa3 Rxa3 33.Rxa3 Nf7 34.Kg3 Nxe5 35.Re3 Rb5 36.Be4 h6 37.h4 g5 38.h5 Kc7 39.Bd3 Rb3 40.Rxe5 Rxd3+ 41.Kf2 Kd6 42.Ra5 Rd4 43.Kg3 Rf4 44.Ra8 Rf6 45.Rd8+ Kc5 46.Rg8 e5 47.Rg6 Rd6 48.Kf3 Kd5 49.Rg7 b5 50.Rb7 Kc4 51.Ke4 Rc6 52.Kxe5 b4 53.Ke4 b3 0-1

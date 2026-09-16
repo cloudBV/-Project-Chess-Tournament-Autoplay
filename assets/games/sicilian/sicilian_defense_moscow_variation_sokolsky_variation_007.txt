@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/2mPs3ubx"]
+[Date "2026.07.13"]
+[Round "1.17"]
+[White "Veiga, Jose Francisco R P Neves"]
+[Black "Silva, Miguel Antonio Neto"]
+[Result "1-0"]
+[WhiteElo "2417"]
+[BlackElo "2147"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Bg7 9.f3 O-O 10.Nde2 Rc8 11.b3 b5 12.Nxb5 Nxe4 13.Rb1 a6 14.Na3 Nc3 15.Nxc3 Bxc3+ 16.Kf2 Nc6 17.Be3 Qf5 18.Nc2 Rab8 19.Qe2 Ne5 20.Rhd1 Ng4+ 21.Kg1 Nxe3 22.Nxe3 Qc5 23.Rd5 Qb6 24.Rbd1 Bg7 25.Kh1 Rc5 26.f4 a5 27.f5 Re8 28.Qf3 Be5 29.Rf1 Rf8 30.Rxc5 dxc5 31.g3 Qd6 32.Kg2 Kg7 33.h4 Bd4 34.h5 Qe5 35.h6+ Kg8 36.Nd5 gxf5 37.Qxf5 Qe2+ 38.Kh3 e6 39.Qg5+ Kh8 40.Rxf7 Rg8 41.Ne7 Rxg5 42.Rf8+ Rg8 43.Rxg8# 1-0

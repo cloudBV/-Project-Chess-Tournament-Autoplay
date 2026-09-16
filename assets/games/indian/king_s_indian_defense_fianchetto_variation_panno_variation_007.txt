@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/DQgHn3JC"]
+[Date "2026.07.22"]
+[Round "4.12"]
+[White "Jogstad, Martin"]
+[Black "Larsen, Karsten"]
+[Result "1-0"]
+[WhiteElo "2349"]
+[BlackElo "2190"]
+[ECO "E63"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Panno Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 Nc6 7.d4 a6 8.e4 Bg4 9.Be3 Re8 10.Qd2 e5 11.d5 Bxf3 12.Bxf3 Nd4 13.Bd1 c5 14.dxc6 bxc6 15.f3 Rb8 16.Rb1 d5 17.cxd5 cxd5 18.Bg5 dxe4 19.fxe4 h6 20.Bxh6 Ng4 21.Bxg4 1-0

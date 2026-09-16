@@ -1,0 +1,14 @@
+[Event "Round 5: Boutikos, Eleftherios - Merkos, Thomas"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-5/U5UZiPYs/6hoiYIZ4"]
+[Date "2026.07.14"]
+[Round "5.3"]
+[White "Boutikos, Eleftherios"]
+[Black "Merkos, Thomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2189"]
+[BlackElo "2089"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.d3 Bd7 6.g3 Bc6 7.Bg2 Ne7 8.O-O Ng6 9.Re1 Nd7 10.Qe2 Be7 11.Nbd2 dxc3 12.bxc3 Qc7 13.h4 h5 14.a4 b6 15.Nc4 a6 16.Bg5 b5 17.axb5 axb5 18.Rxa8+ Bxa8 19.Bxe7 Kxe7 20.Ncd2 Rb8 21.Qe3 b4 22.Rc1 b3 23.Rb1 b2 24.d4 Bd5 25.c4 Bxf3 26.Nxf3 cxd4 27.Nxd4 Ngxe5 28.Rxb2 Rxb2 29.Qa3+ Qc5 30.Qxb2 Nxc4 31.Qc3 Nce5 32.Qd2 Nf6 33.Qe3 Neg4 34.Qf4 e5 35.Nf5+ Kf8 36.Qd2 Kg8 37.Bf3 g6 38.Bxg4 Nxg4 39.Nh6+ Nxh6 40.Qxh6 Qd4 41.Qc1 Kg7 42.Qe1 f5 43.Qc1 f4 44.Qc7+ Kf6 45.Qc6+ Kf7 46.Qc7+ Kf6 47.Qc6+ Kf7 48.Qc7+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 5: Petkov, Vladimir - Longueira Alonso, Breixo"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-5/kmsEEmHH/iQpXuemN"]
+[Date "2026.07.16"]
+[Round "5.2"]
+[White "Petkov, Vladimir"]
+[Black "Longueira Alonso, Breixo"]
+[Result "1-0"]
+[WhiteElo "2414"]
+[BlackElo "2209"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 c6 5.b3 Bd6 6.Bb2 Qe7 7.d4 Nbd7 8.O-O O-O 9.Qc2 dxc4 10.bxc4 e5 11.e3 Re8 12.Nc3 Ba3 13.Rab1 Bxb2 14.Rxb2 exd4 15.exd4 Nb6 16.Ne5 Be6 17.Na4 Nfd7 18.Nxd7 Qxd7 19.Nxb6 axb6 20.d5 cxd5 21.cxd5 Bf5 22.Qb3 Be4 23.Rd1 Bxg2 24.Kxg2 Re5 25.Rd4 g6 26.h4 Rd8 27.Rbd2 Qd6 28.Kh2 h5 29.a4 Rde8 30.Qb5 Re4 31.Kg2 Kg7 32.Qb2 Kh7 33.R2d3 R8e7 34.Rb3 Re2 35.Qc1 R7e4 36.Rdd3 Rxa4 37.Rb5 Ra5 38.Qc4 Rxb5 39.Qxb5 Qc5 40.Qxc5 bxc5 41.Kf3 Re7 42.d6 Rd7 43.Ke4 c4 44.Rd4 Kg7 45.Kd5 Rd8 46.Rxc4 Kf8 47.Rc7 Rb8 48.d7 1-0

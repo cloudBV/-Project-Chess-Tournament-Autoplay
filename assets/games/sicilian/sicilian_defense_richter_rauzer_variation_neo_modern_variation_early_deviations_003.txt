@@ -1,0 +1,15 @@
+[Event "Round 5: Alsina Leal, Daniel - Berdayes Ason, Dylan Isidro"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-5/VJW5TtEy/Skk7spFA"]
+[Date "2026.07.08"]
+[Round "5.3"]
+[White "Alsina Leal, Daniel"]
+[Black "Berdayes Ason, Dylan Isidro"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2477"]
+[ECO "B66"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Be7 9.Kb1 Nxd4 10.Qxd4 h6 11.Be3 Qc7 12.Rg1 b5 13.g4 Rb8 14.f3 b4 15.Ne2 e5 16.Qd2 Be6 17.h4 d5 18.g5 hxg5 19.hxg5 Nh5 20.exd5 Bxd5 21.Qe1 Rd8 22.Nc1 Bxf3 23.Rxd8+ Qxd8 24.Bxa6 O-O 25.Bc4 g6 26.Nd3 Bd5 27.Nxe5 Bxc4 28.Nxc4 Re8 29.Qd2 Qxd2 30.Bxd2 Bc5 31.Rg2 Re4 32.b3 Ng7 33.c3 bxc3 34.Bxc3 Ne6 35.a4 Kf8 36.a5 Ke7 37.Bf6+ Kd7 38.Ne5+ Kc7 39.Nxf7 Kb7 40.Nd8+ Ka6 41.Nxe6 Rxe6 42.Bc3 Be7 43.Kb2 Re4 44.Kc2 Kb5 45.Rd2 Kc6 46.Rg2 Kb5 47.Bd2 Re5 48.Rg4 Rd5 49.b4 Rf5 50.Kd3 Rf3+ 51.Ke2 Rf5 52.Re4 Bxg5 53.Re6 Bd8 54.Rxg6 Rd5 55.Kd1 Bc7 56.Kc2 Bd8 57.Bc3 Bc7 58.Kb3 Bd8 59.Rh6 Rf5 60.Rh7 Rd5 61.Rf7 Rh5 62.Rd7 Bh4 63.Rb7+ Kc6 64.Rb6+ Kc7 65.Rg6 Bf2 66.Rf6 Bg1 67.Rf4 Bh2 68.Rg4 Bd6 69.Kc4 Rf5 70.Bd4 Rf4 71.Rxf4 Bxf4 72.b5 Kc8 73.Kd5 Bd2 74.a6 Ba5 75.Kc6 Kb8 76.Bb6 1-0

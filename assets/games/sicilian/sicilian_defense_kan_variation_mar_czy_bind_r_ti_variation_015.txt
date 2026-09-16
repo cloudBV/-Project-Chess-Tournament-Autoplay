@@ -1,0 +1,15 @@
+[Event "Round 1: Goodrich, Elliott - Barbosa, Oliver"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-1/MAzV5jxu/WrFfEamT"]
+[Date "2026.07.15"]
+[Round "1.15"]
+[White "Goodrich, Elliott"]
+[Black "Barbosa, Oliver"]
+[Result "1/2-1/2"]
+[WhiteElo "2120"]
+[BlackElo "2367"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Qd3 d5 8.exd5 exd5 9.Be2 O-O 10.O-O Nc6 11.Nxc6 bxc6 12.cxd5 cxd5 13.Bg5 Be6 14.Bf3 h6 15.Bxf6 Qxf6 16.Nxd5 Bxd5 17.Qxd5 Rad8 18.Qc4 Rd4 19.Qc6 Rd6 20.Qc4 Rd4 21.Qc6 Rd6 22.Qc4 1/2-1/2

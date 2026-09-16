@@ -1,0 +1,15 @@
+[Event "Round 9: Vardanyan, Armen Art. - Godde, Matthias"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/ZJ2Esefo"]
+[Date "2026.07.22"]
+[Round "9.18"]
+[White "Vardanyan, Armen Art."]
+[Black "Godde, Matthias"]
+[Result "1-0"]
+[WhiteElo "2038"]
+[BlackElo "2155"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h4 h5 7.Bg5 Nc6 8.Nf3 Bg4 9.d5 Nb8 10.Qc2 Nbd7 11.O-O Nh7 12.Be3 e5 13.Ng5 Ndf6 14.f3 Bd7 15.b4 Ne8 16.Bd3 Nxg5 17.hxg5 f6 18.gxf6 Bxf6 19.c5 Bg5 20.Bxg5 Qxg5 21.Qc1 Qg3 22.Ne2 Qh4 23.Qe1 Qg5 24.Qc1 Qf6 25.Qe3 Rf7 26.Rac1 Rh7 27.f4 Bg4 28.fxe5 Qxe5 29.Qf2 Qg7 30.Nd4 h4 31.Ne6 Bxe6 32.dxe6 Qe7 33.e5 dxe5 34.Bxg6 Rg7 35.Bf7+ Kh8 36.Rc4 Rh7 37.Bg6 Rh6 38.Qf7 Qxf7 39.exf7 Nf6 40.Rxf6 Kg7 41.f8=Q+ Rxf8 42.Rxf8 Kxf8 43.Be4 Ra6 44.Bxb7 Rxa2 45.Rxh4 Rb2 46.Bc6 Ke7 47.Rh7+ Kf6 48.b5 e4 49.Bxe4 Rxb5 50.Rxc7 Ke5 51.Bf3 a5 52.c6 a4 53.Ra7 Rb4 54.c7 1-0

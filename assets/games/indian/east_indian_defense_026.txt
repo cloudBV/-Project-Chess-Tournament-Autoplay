@@ -1,0 +1,15 @@
+[Event "Round 7: Fernandez Hernandez, Arturo A. - Asis Gargatagli, Hipolito"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-7/YFC1RWfd/3L5jFN5e"]
+[Date "2026.07.19"]
+[Round "7.4"]
+[White "Fernandez Hernandez, Arturo A."]
+[Black "Asis Gargatagli, Hipolito"]
+[Result "0-1"]
+[WhiteElo "2320"]
+[BlackElo "2463"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.e3 Bg7 4.Be2 O-O 5.O-O d6 6.b4 e5 7.Bb2 e4 8.Nfd2 Re8 9.c4 Bf5 10.Nc3 h5 11.Qb3 c6 12.Rfe1 Nbd7 13.Nf1 h4 14.h3 Nf8 15.Nh2 N8h7 16.Bf1 Bf8 17.d5 c5 18.bxc5 dxc5 19.d6 Qxd6 20.Red1 Qc7 21.Be2 Rad8 22.Ng4 Bxg4 23.hxg4 Bg7 24.Nd5 Nxd5 25.cxd5 Bxb2 26.Qxb2 Rd6 27.Rab1 b6 28.Rd2 Qe7 29.Rbd1 Red8 30.a4 Nf6 31.a5 Nxd5 32.Bc4 Nf6 33.g5 Nh7 34.axb6 Rxd2 35.Rxd2 Rxd2 36.Qxd2 axb6 37.Qd5 Nxg5 38.Qc6 Kg7 39.Qxb6 Qe5 40.Be2 h3 41.gxh3 Nxh3+ 42.Kg2 Ng5 43.Bg4 Nf3 44.Bxf3 exf3+ 0-1

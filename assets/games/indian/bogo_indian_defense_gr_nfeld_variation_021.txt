@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.12"]
+[Round "11.1"]
+[White "Gnojek, Petr"]
+[Black "Skypala, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2234"]
+[ECO "E11"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d5 7.e5 Nfd7 8.cxd5 exd5 9.Bd3 c5 10.O-O Nc6 11.Re1 Qc7 12.dxc5 Nxc5 13.Nb3 Nxd3 14.Qxd3 Be6 15.Bg5 Bxg5 16.Nxg5 g6 17.Rac1 Qb6 18.Nc5 Qxb2 19.Ncxe6 fxe6 20.Rc2 Qd4 21.Qh3 h5 22.Qxe6+ Kg7 23.Qd7+ Kh6 24.Ne6 Qd3 25.Qg7# 1-0

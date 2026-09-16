@@ -1,0 +1,15 @@
+[Event "Round 3: Skettos, Nicolas - Grant, Jonathan I M"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-3/M8Ejnb0x/zTCOEA46"]
+[Date "2026.07.04"]
+[Round "3.9"]
+[White "Skettos, Nicolas"]
+[Black "Grant, Jonathan I M"]
+[Result "1/2-1/2"]
+[WhiteElo "2002"]
+[BlackElo "2115"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 Bg4 6.c3 Nd7 7.Be2 Ngf6 8.Nbd2 Qc7 9.O-O Bd6 10.Nc4 O-O 11.Nxd6 Qxd6 12.dxe5 Qc5+ 13.Qd4 Nxe4 14.Be3 Qxd4 15.cxd4 Nb6 16.Bd3 f5 17.Ng5 Nxg5 18.Bxg5 h6 19.Be7 Rfe8 20.Bd6 Rad8 21.h3 Bh5 22.Bxf5 Nc4 23.g4 Nxd6 24.exd6 Bf7 25.Bh7+ Kxh7 26.Rxf7 Rxd6 27.Rd1 b5 28.Rxa7 Re2 29.b3 Kg6 30.a4 Re3 31.axb5 cxb5 32.Kg2 Rxb3 33.d5 Rc3 34.Ra2 Rc5 35.Rad2 b4 36.h4 b3 37.Rb1 Rc3 38.Rdb2 Rxd5 39.Rxb3 Rd2+ 40.Kg1 Rcc2 41.Rg3 Rh2 42.Rb6+ Kf7 43.Rc6 Rce2 44.Rc7+ Kg8 45.Rc8+ Kh7 46.g5 hxg5 47.hxg5 g6 48.Rc7+ Kg8 49.Rd3 Rhg2+ 50.Kf1 Ref2+ 51.Ke1 Rf7 52.Rdd7 Rxd7 53.Rxd7 Rxg5 54.Kf2 Rf5+ 55.Kg3 Rf7 56.Rxf7 Kxf7 57.Kg4 Kf6 58.Kf4 g5+ 59.Kg4 Kg6 60.Kg3 Kf5 61.Kf3 g4+ 62.Kg3 Kg5 63.Kg2 Kf4 64.Kf2 Kf5 65.Kg3 Kg5 66.Kg2 Kh4 67.Kh2 g3+ 68.Kg2 Kg4 69.Kg1 Kh3 70.Kh1 g2+ 71.Kg1 Kg3 1/2-1/2

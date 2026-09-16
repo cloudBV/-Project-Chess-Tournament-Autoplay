@@ -1,0 +1,15 @@
+[Event "Round 6: Miller, Rachel - Dushyant Sharma"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-6/JihCbeVE/j4c7WMRc"]
+[Date "2026.07.10"]
+[Round "6.4"]
+[White "Miller, Rachel"]
+[Black "Dushyant Sharma"]
+[Result "0-1"]
+[WhiteElo "2010"]
+[BlackElo "2353"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 d5 5.Bb5 Nxe4 6.Qe2 Qd6 7.Nxe4 dxe4 8.Qxe4 Bd7 9.d4 O-O-O 10.dxe5 Nxe5 11.Bxd7+ Rxd7 12.Be3 Nxf3+ 13.Qxf3 Qa6 14.Qe2 Qc6 15.O-O Bd6 16.Rad1 Re8 17.Rd2 f5 18.Qh5 g6 19.Qh4 Rxe3 20.Rxd6 Qxd6 21.fxe3 Qb6 22.b3 Qxe3+ 23.Qf2 Qxf2+ 24.Kxf2 Rd2+ 25.Kf3 Rxc2 26.g4 fxg4+ 27.Kg3 h5 28.Rf6 Rc3+ 29.Kg2 Rxb3 30.Rxg6 Rxa3 31.Rg5 Rh3 32.Rg7 b6 33.Rg5 a5 34.Rf5 a4 35.Rb5 Kb7 36.Rb4 a3 37.Rb1 c5 38.Rc1 Kc6 39.Rf1 b5 0-1

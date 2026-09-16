@@ -1,0 +1,14 @@
+[Event "Round 9: Tomasi, Albert - Kjartansson, Gudmundur"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-9/b3iktfM7/sURLaHRd"]
+[Date "2026.07.03"]
+[Round "9.5"]
+[White "Tomasi, Albert"]
+[Black "Kjartansson, Gudmundur"]
+[Result "0-1"]
+[WhiteElo "2328"]
+[BlackElo "2395"]
+[ECO "B91"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Zagreb Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Be7 8.Bg2 h5 9.h3 b5 10.Nd5 Nxd5 11.Qxd5 Ra7 12.Be3 Rb7 13.O-O Nd7 14.Qd2 Nf6 15.Nc3 Rd7 16.Bg5 Bb7 17.Bxf6 Bxf6 18.h4 g5 19.Bh3 Rc7 20.Nd5 Bxd5 21.Qxd5 gxh4 22.c3 Rg8 23.a4 b4 24.cxb4 hxg3 25.b5 gxf2+ 26.Kh1 Rg3 27.Ra3 Rxa3 28.bxa3 Rc3 29.Bg2 Bh4 30.Qd2 Qc8 31.Rxf2 Bxf2 32.Qxf2 axb5 33.Qf6 Rc1+ 34.Kh2 Qc5 0-1

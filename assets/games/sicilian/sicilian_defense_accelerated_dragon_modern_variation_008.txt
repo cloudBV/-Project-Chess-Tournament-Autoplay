@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-6-game-2/BnR4RmvQ/RENFyHgF"]
+[Date "2026.07.09"]
+[Round "12.7"]
+[White "Gappa, Adam"]
+[Black "Nerubatskyi, Danylo"]
+[Result "1-0"]
+[WhiteElo "2003"]
+[BlackElo "2030"]
+[ECO "B34"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 d6 7.Nb3 Nf6 8.Qd2 Be6 9.f3 h5 10.O-O-O Bxb3 11.cxb3 Qa5 12.Kb1 a6 13.Be2 Nd7 14.Nd5 Qxd2 15.Rxd2 O-O 16.Rc1 Kh7 17.a3 Bh6 18.Bxh6 Kxh6 19.Ka2 Nc5 20.b4 Ne6 21.Rcd1 Rfe8 22.b5 axb5 23.Bxb5 Rac8 24.f4 Nc7 25.Bxc6 bxc6 26.Nc3 Ne6 27.g3 Nc5 28.b4 Nd7 29.Kb3 Rb8 30.Ne2 Nc5+ 31.Ka2 Nxe4 32.Rc2 Rec8 33.Rdc1 c5 34.Nc3 Nf6 35.Na4 Ne4 36.bxc5 dxc5 37.Nxc5 Nxc5 38.Rxc5 Rxc5 39.Rxc5 Rd8 40.Rc2 Kg7 41.a4 Rd5 42.Kb3 f6 43.Kb4 g5 44.fxg5 fxg5 45.a5 e5 46.a6 Kf6 47.a7 Rd8 48.Rc6+ Kf5 49.Ra6 Ra8 50.Ra5 Ke4 51.Kb5 Kd4 52.Kc6 e4 53.Kb7 Re8 54.a8=Q Rxa8 55.Rxa8 Ke3 56.Rf8 Kd2 57.Rd8+ Kc2 58.Kc6 e3 59.Re8 Kd2 60.Rd8+ Kc2 61.Re8 Kd2 62.Kd6 e2 63.Rxe2+ Kxe2 64.Ke5 Kf3 65.Kf5 Kg2 66.Kxg5 Kxh2 67.Kh4 Kg2 68.Kxh5 Kxg3 1-0

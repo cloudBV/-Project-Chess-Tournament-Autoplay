@@ -1,0 +1,15 @@
+[Event "Round 2: Volkov, Maksim - Batbaatar, Baatar"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-2/c8awiXfc/F555tRus"]
+[Date "2026.07.18"]
+[Round "2.3"]
+[White "Volkov, Maksim"]
+[Black "Batbaatar, Baatar"]
+[Result "1-0"]
+[WhiteElo "2437"]
+[BlackElo "2212"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.a4 Be7 8.O-O O-O 9.Be3 Qc7 10.Qe2 Nc6 11.Nxc6 Qxc6 12.Bd3 e5 13.f4 Bg4 14.Qe1 exf4 15.Rxf4 Be6 16.Bd4 Rfe8 17.Rf1 Nd7 18.Qg3 Ne5 19.Kh1 h5 20.Bxe5 dxe5 21.Qxe5 h4 22.Nd5 Bd8 23.Qh5 Qd7 24.Rf4 g6 25.Qh6 h3 26.Nf6+ Bxf6 27.Rxf6 hxg2+ 28.Kxg2 Qd4 29.Raf1 Qxb2 30.Qf4 Bf5 31.Rd6 Be6 32.Rxe6 1-0

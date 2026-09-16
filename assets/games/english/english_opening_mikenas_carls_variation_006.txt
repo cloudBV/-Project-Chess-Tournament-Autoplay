@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-9/GBcHgeQz/9ZX82EjV"]
+[Date "2026.07.08"]
+[Round "9.4"]
+[White "Ernst, Robert"]
+[Black "Ermitsch, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2401"]
+[BlackElo "2411"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 Nfd7 6.d4 c5 7.Nf3 Nc6 8.Bb5 cxd4 9.Nxd4 Bc5 10.Bxc6 bxc6 11.e6 fxe6 12.Nxe6 Qe7 13.Qh5+ g6 14.Qe2 Kf7 15.Nxc5 Qxe2+ 16.Kxe2 Nxc5 17.b4 Re8+ 18.Kd2 Ne4+ 19.Nxe4 Rxe4 20.a3 a5 21.f3 Rc4 22.Bb2 axb4 23.axb4 Rxa1 24.Rxa1 Rxb4 25.Ra7+ Bb7 26.Ba3 Rb5 27.Kd3 Ke6 28.Kd4 Kd7 29.Bc5 Rb2 30.Kc3 Rb5 31.Kd4 Rb1 32.Ra3 Kc7 33.g4 Rd1+ 34.Rd3 Rc1 35.Rc3 Rh1 36.Re3 Rd1+ 37.Rd3 Ra1 38.Ra3 Rxa3 39.Bxa3 Kb6 40.h4 Ba6 1/2-1/2

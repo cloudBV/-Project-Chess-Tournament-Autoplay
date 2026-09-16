@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.2"]
+[White "Grave, Jacob Templen"]
+[Black "Amar, Elham"]
+[Result "0-1"]
+[WhiteElo "2392"]
+[BlackElo "2581"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Nf6 9.Be3 Be7 10.dxc5 Qxd1 11.Rxd1 Ng4 12.Bf4 Bxc5 13.Bg3 h5 14.Rd2 f5 15.Nc3 b5 16.Re1 O-O 17.Bd6 Bxd6 18.Rxd6 Nd8 19.Rb6 Nf6 20.Ne5 Nf7 21.Nxf7 Rxf7 22.a4 bxa4 23.Nxa4 Rc7 24.c4 Bd7 25.Nc3 a5 26.Ra1 Rcc8 27.f3 Kf8 28.h4 Ke7 29.Rb3 Rcb8 30.Nb5 Bxb5 31.cxb5 Nd5 32.Rba3 Rc8 33.b4 Nxb4 34.Rxa5 Rab8 35.Ra7+ Kf6 36.Rb1 Nd5 37.g3 Rc3 38.Be2 Re3 39.Rb2 Nc3 40.Kf2 Rxb5 41.Bxb5 Nd1+ 42.Kg2 Nxb2 43.f4 e5 44.Ra6+ Kf7 45.Ra7+ Kg8 46.fxe5 Rxe5 47.Bf1 g6 48.Kf3 Re4 49.Rd7 Na4 50.Rc7 Nb2 51.Rd7 Kf8 52.Bb5 Rb4 53.Be2 Na4 54.Rc7 Nb2 55.Rd7 Re4 56.Bb5 Rg4 57.Rd2 Rb4 58.Be2 Kg7 59.Rd8 Na4 60.Rc8 Rb3+ 61.Kf2 Nc3 62.Bf3 Ra3 63.Rc7+ Kh6 64.Rc5 Rb3 65.Rc8 Nb1 66.Rd8 Rb2+ 67.Ke3 Na3 68.Rh8+ Kg7 69.Rd8 Nc4+ 70.Kf4 Rf2 71.Rd3 Kf6 72.Rd4 Nd2 73.Rd6+ Ke7 74.Rd3 Ke6 75.Re3+ Kd6 76.Rd3+ Kc5 77.Ke3 Rxf3+ 78.Kxd2 Rxd3+ 79.Kxd3 Kd5 80.Ke3 Ke5 81.Kf3 f4 82.gxf4+ Kf5 83.Ke3 Kg4 0-1

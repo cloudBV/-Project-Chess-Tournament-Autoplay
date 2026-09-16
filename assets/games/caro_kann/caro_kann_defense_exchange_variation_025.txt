@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.6"]
+[White "Arakelyan, Manvel"]
+[Black "Sobol, Matvii"]
+[Result "1/2-1/2"]
+[WhiteElo "2269"]
+[BlackElo "2324"]
+[ECO "B13"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 e6 6.Nf3 Bd6 7.O-O Nge7 8.b3 O-O 9.c4 f6 10.Nc3 Qe8 11.Re1 Qh5 12.h3 a6 13.Qe2 Bd7 14.Na4 dxc4 15.Bxc4 Nd5 16.Nc5 Bxc5 17.dxc5 Rac8 18.Bd2 Kh8 19.Rad1 Rce8 20.Qe4 Nd8 21.Nd4 Nc6 22.Nf3 Nd8 23.Qg4 Qf7 24.Qg3 Nc6 25.a3 Rd8 26.Bf4 Nce7 27.Bd6 Nf5 28.Qh2 Rfe8 29.Nd4 Nxd4 30.Rxd4 Bb5 31.Qg3 Bxc4 32.bxc4 Ne7 33.Qb3 Nc6 34.Rd2 h6 35.Qf3 e5 36.Qe4 Rd7 37.a4 Na5 38.Rc2 Nc6 39.Rb2 Rc8 40.Reb1 Nd8 41.Rb6 Qe8 42.Qd5 Rf7 43.R1b4 Rc6 44.a5 Qd7 45.Rb1 Qf5 46.Rd1 Rd7 47.f3 Kh7 48.Rb2 Qg6 49.Kh2 Qe8 50.Rdb1 Rc8 51.Qe4+ Kh8 52.f4 Nf7 53.Rxb7 Nxd6 54.cxd6 Rxd6 55.fxe5 fxe5 56.Qg4 Rg6 57.Qf5 e4 58.Re1 Rxc4 59.Rf7 Qb8+ 60.Kh1 Qg3 61.Rg1 Rc1 62.Qxe4 Rxg1+ 63.Kxg1 Qd6 64.Rf5 Re6 65.Rf8+ Qxf8 66.Qxe6 Qc5+ 67.Kh1 Qxa5 68.Qe8+ Kh7 69.Qe4+ 1/2-1/2

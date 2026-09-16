@@ -1,0 +1,15 @@
+[Event "Round 9: Isik, Tuna - Eracar, Ali Arda"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/3zfqPp45"]
+[Date "2026.07.19"]
+[Round "9.37"]
+[White "Isik, Tuna"]
+[Black "Eracar, Ali Arda"]
+[Result "1/2-1/2"]
+[WhiteElo "2031"]
+[BlackElo "2059"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.c3 Qb6 6.Qc2 g6 7.Nbd2 Bg7 8.Be2 Bf5 9.dxc5 Qxc5 10.Qb3 Na5 11.Bb5+ Bd7 12.Bxd7+ Nxd7 13.Qa4 Nc6 14.e4 Nb6 15.Qd1 dxe4 16.Ng5 Qf5 17.Be3 Nd5 18.Ngxe4 Nxe3 19.fxe3 O-O 20.Qe2 b5 21.Qf3 b4 22.O-O Qxf3 23.Nxf3 bxc3 24.bxc3 Rac8 25.Rad1 Rfd8 26.c4 Na5 27.Rxd8+ Rxd8 28.Rc1 h6 29.c5 f5 30.Ned2 Nc6 31.Nb3 e5 32.Nfd2 e4 33.Nc4 Kf7 34.Nba5 Nxa5 35.Nxa5 Ke6 36.Rb1 1/2-1/2

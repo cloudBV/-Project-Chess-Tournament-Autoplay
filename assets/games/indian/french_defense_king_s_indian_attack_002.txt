@@ -1,0 +1,15 @@
+[Event "Round 3: Sorbe, Stephane - Marchais, Antoine"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-3/jAiagyLS/7kg6AdfG"]
+[Date "2026.07.05"]
+[Round "3.6"]
+[White "Sorbe, Stephane"]
+[Black "Marchais, Antoine"]
+[Result "1/2-1/2"]
+[WhiteElo "2217"]
+[BlackElo "2146"]
+[ECO "C00"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 c5 3.g3 Nc6 4.Bg2 g6 5.f4 Bg7 6.Nf3 Nge7 7.O-O O-O 8.c3 d5 9.Qe2 b6 10.e5 Bb7 11.a4 a6 12.Be3 Qc7 13.Bf2 Rac8 14.Nbd2 Rfd8 15.g4 Qd7 16.Bh4 Re8 17.Qf2 Kh8 18.Bf6 Ng8 19.Qh4 Nxf6 20.exf6 Bf8 21.Rae1 b5 22.axb5 axb5 23.Ng5 h6 24.Ndf3 Kg8 25.Nh3 d4 26.Nf2 dxc3 27.bxc3 b4 28.c4 Ra8 29.Ra1 Rxa1 30.Rxa1 Ra8 31.Rb1 Ra2 32.Qg3 Nd4 33.Nxd4 Bxg2 34.Kxg2 Qxd4 35.g5 hxg5 36.fxg5 Bd6 37.Qf3 Qh4 38.h3 Qxg5+ 39.Kh1 Qe5 40.Ng4 Qf4 41.Qxf4 Bxf4 42.d4 cxd4 43.c5 Rc2 44.Rxb4 Rxc5 45.Rxd4 Bg5 46.Rd8+ Kh7 47.Rf8 Rc7 48.Kg2 Bxf6 49.Nxf6+ Kg7 50.Ne8+ Kxf8 51.Nxc7 Kg7 52.Ne8+ Kh6 53.Kg3 Kg5 54.h4+ Kf5 55.Kf3 e5 56.Nd6+ Ke6 57.Ne4 f5 58.Ng5+ Kd5 59.Ke3 Kd6 60.Kd3 Kd5 61.Ke3 Kd6 62.Nf3 Kd5 63.Ng5 1/2-1/2

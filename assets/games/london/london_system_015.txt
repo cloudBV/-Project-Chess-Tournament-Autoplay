@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.13"]
+[White "Vasicek, Martin"]
+[Black "Jansa, Vlastimil"]
+[Result "1/2-1/2"]
+[WhiteElo "2023"]
+[BlackElo "2387"]
+[ECO "A48"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.e3 O-O 5.h3 d6 6.Be2 Nbd7 7.O-O b6 8.Bh2 Bb7 9.a4 a6 10.Nbd2 Re8 11.c3 e5 12.Nc4 e4 13.Nfd2 Nd5 14.Qb3 Rb8 15.Na3 Kh8 16.Rac1 f5 17.c4 N5f6 18.Nab1 Qe7 19.Rfd1 g5 20.Nf1 Qf7 21.Nc3 Qg6 22.Nd5 Nxd5 23.cxd5 Rbc8 24.Rc2 Nf6 25.Rdc1 Qf7 26.Bc4 Nh5 27.Rc3 f4 28.Qd1 Rf8 29.R1c2 Rce8 30.b4 Bc8 31.Bb3 Re7 32.Qc1 g4 33.Rxc7 Rxc7 34.Rxc7 Bd7 35.hxg4 Nf6 36.Bxf4 Nxg4 37.Qd1 Bh6 38.Qxg4 Bxg4 39.Rxf7 Rxf7 40.Bxh6 Rc7 41.Bf4 Rc3 42.Ba2 Rc1 43.Bxd6 Be2 44.Be5+ Kg8 45.d6+ Kf8 46.d7 Ke7 47.Be6 Rxf1+ 48.Kh2 Rxf2 49.Bc7 Rf8 50.d8=Q+ Rxd8 51.Bxd8+ Kxd8 52.Bd5 Bd3 53.Kg3 a5 54.bxa5 bxa5 55.Kf4 Bc2 56.Bxe4 Bxa4 57.Bxh7 Bb3 58.Bb1 a4 59.Ke5 a3 60.e4 a2 61.Bxa2 Bxa2 62.g4 Ke7 63.g5 Bf7 64.d5 Bg6 65.d6+ Kd7 66.Kf6 Bxe4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Rasulov, Vugar - Rostami, Hossein"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/YBFXTYIh"]
+[Date "2026.07.03"]
+[Round "7.4"]
+[White "Rasulov, Vugar"]
+[Black "Rostami, Hossein"]
+[Result "1-0"]
+[WhiteElo "2538"]
+[BlackElo "2246"]
+[ECO "E74"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 h6 8.Be3 e6 9.Nf3 exd5 10.cxd5 b5 11.Bxb5 Qb6 12.a4 Bg4 13.O-O a6 14.a5 Qb7 15.Be2 Bxf3 16.Bxf3 Nbd7 17.Qd2 Rfe8 18.Rfb1 g5 19.h3 c4 20.Qc2 Rac8 21.Ne2 Nc5 22.Ng3 Qb3 23.Qxb3 cxb3 24.Ra3 Rb8 25.Bxc5 dxc5 26.Ra4 Rb4 27.Rxb4 cxb4 28.d6 Nd7 29.Nf5 Be5 30.Be2 Nc5 31.Rc1 Ne6 32.Rc4 Rb8 33.d7 Rd8 34.Ne7+ Kg7 35.Nc6 Rxd7 36.Nxe5 Rd2 37.Bf1 Rxb2 38.Rxb4 Rb1 39.Nd3 Kf6 40.g3 h5 41.Kg2 Ke7 42.e5 Kd8 43.Be2 h4 44.gxh4 gxh4 45.Bg4 1-0

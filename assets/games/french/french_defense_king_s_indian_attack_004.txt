@@ -1,0 +1,14 @@
+[Event "Round 4: Raptis, Filippos - Stefanou, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/MpLLYsat"]
+[Date "2026.07.07"]
+[Round "4.18"]
+[White "Raptis, Filippos"]
+[Black "Stefanou, Dimitrios"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2358"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Bd2 Nc6 4.g3 dxe4 5.dxe4 Nf6 6.Nc3 Bc5 7.Bb5 O-O 8.Nf3 e5 9.Bxc6 bxc6 10.Qe2 Qe7 11.h3 a5 12.Na4 Rd8 13.Kf1 Ba6 14.c4 Bd4 15.Re1 c5 16.Nh4 Qe6 17.b3 Bb7 18.f3 Nh5 19.Kg2 g6 20.Nc3 c6 21.Na4 Qf6 22.Kh2 Nf4 23.gxf4 Qxh4 24.f5 Bf2 25.Reg1 Rxd2 26.Qxd2 Rd8 27.Qg5 Qxg5 28.Rxg5 Be3 29.Rhg1 Rd3 30.R5g3 Kf8 31.Kh1 Ke7 32.Rf1 gxf5 33.exf5 Bd4 34.Rg8 e4 35.fxe4 Be5 36.Nxc5 Rxh3+ 37.Kg2 Rh2+ 38.Kg1 Bd4+ 39.Kxh2 Bxc5 40.e5 Bd4 41.Re1 c5 42.Kg3 Bc3 43.Re2 h5 44.Rh8 1-0

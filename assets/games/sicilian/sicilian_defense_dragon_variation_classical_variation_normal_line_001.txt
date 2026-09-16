@@ -1,0 +1,14 @@
+[Event "CE Sub12.Vicar 26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u12/round-9/mWX4X1Kl/7SmoFgBw"]
+[Date "2026.07.18"]
+[Round "9.3"]
+[White "Lema Fernandez, Javier"]
+[Black "Giraldez Requena, Hugo"]
+[Result "1/2-1/2"]
+[WhiteElo "2028"]
+[BlackElo "2027"]
+[ECO "B74"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation, Normal Line"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.Nc3 Nc6 6.Be3 Nf6 7.Nb3 d6 8.Be2 O-O 9.O-O Be6 10.f4 Qd7 11.Qd2 Bg4 12.h3 Bxe2 13.Qxe2 e5 14.f5 Ne7 15.g4 gxf5 16.exf5 Nfd5 17.Nxd5 Nxd5 18.Rad1 Nxe3 19.Qxe3 f6 20.Nc5 Qc6 21.Ne6 Rf7 22.Qb3 Bh6 23.Rd5 e4 24.Rfd1 e3 25.Kf1 Rc8 26.c3 a5 27.Qb5 Bf8 28.Nxf8 Rcxf8 29.Qxc6 bxc6 30.Rxd6 Rb7 31.b3 a4 32.Re6 axb3 33.axb3 Rxb3 34.Rxe3 Ra8 35.h4 Ra4 36.Rd8+ Kf7 37.Red3 Rb7 38.R8d7+ Rxd7 39.Rxd7+ Ke8 40.Rd4 Ra5 41.Re4+ Kf7 42.Kf2 h5 43.Kf3 Rc5 44.c4 Ra5 45.Kf4 hxg4 46.Kxg4 Ra1 47.Re6 Rg1+ 48.Kh5 Rf1 49.Rxc6 Rxf5+ 50.Kh6 Rf4 51.h5 Rf1 52.c5 Ke7 53.Kh7 f5 54.Kg7 Rg1+ 55.Rg6 Rxg6+ 56.Kxg6 f4 57.h6 f3 58.h7 f2 59.h8=Q f1=Q 60.Qe5+ Kd7 61.Qd5+ Kc7 62.Qd6+ Kc8 1/2-1/2

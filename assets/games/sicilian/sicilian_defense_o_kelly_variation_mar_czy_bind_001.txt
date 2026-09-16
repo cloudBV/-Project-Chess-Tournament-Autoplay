@@ -1,0 +1,15 @@
+[Event "Round 3: Malm Lindberg, Henrik - Kingsley, Elias"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-3/L5aBn2mL/hPVmvRlT"]
+[Date "2026.07.01"]
+[Round "3.6"]
+[White "Malm Lindberg, Henrik"]
+[Black "Kingsley, Elias"]
+[Result "0-1"]
+[WhiteElo "2141"]
+[BlackElo "2087"]
+[ECO "B28"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 a6 3.c4 b6 4.Nc3 Bb7 5.d4 cxd4 6.Nxd4 e6 7.Be2 Bb4 8.f3 Ne7 9.O-O O-O 10.Bf4 d5 11.exd5 exd5 12.Kh1 Nd7 13.Rc1 dxc4 14.Bxc4 b5 15.Bb3 Nb6 16.Ncxb5 Nbd5 17.Bc7 Qd7 18.a3 axb5 19.axb4 Ne3 20.Rb1 0-1

@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-4/QNxIC5eL/8zeTYvVk"]
+[Date "2026.07.11"]
+[Round "4.14"]
+[White "Kuznecova, Marija"]
+[Black "Otrohovs, Maksims"]
+[Result "0-1"]
+[WhiteElo "2237"]
+[BlackElo "2012"]
+[ECO "B12"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e5 4.dxe5 Bc5 5.Nc3 Qb6 6.Na4 Bf2+ 7.Ke2 Qd4 8.Qxd4 Bxd4 9.Bf4 dxe4 10.c3 Bxg1 11.Rxg1 Nd7 12.c4 Ne7 13.Bg3 Nf5 14.Bf4 g5 15.Bxg5 Rg8 16.Bf4 Nd4+ 17.Kf2 exf3 18.gxf3 Rxg1 19.Kxg1 Nxf3+ 20.Kf2 Nfxe5 21.Be2 Ng6 22.Bg5 f6 23.Bd2 Nde5 24.Nc5 b6 25.Ne4 Ke7 26.c5 Bg4 27.Ba6 Rd8 28.Be3 Bf5 29.Ng3 Ng4+ 30.Ke2 Nxe3 31.Kxe3 Be6 32.Bd3 bxc5 33.Rc1 Rd5 34.Ne4 Ne5 35.Nxc5 Nxd3 36.Nxd3 Kd6 37.Nf4 Re5+ 38.Kf3 Bxa2 39.Rg1 Bd5+ 40.Nxd5 cxd5 41.Ra1 Rh5 42.Rxa7 Rxh2 43.b4 Ke5 44.Re7+ Kd4 45.Kf4 Rf2+ 46.Kg4 Rb2 47.Rxh7 Rxb4 48.Kf5 Kc3 49.Rh3+ Kc4 50.Kxf6 Rb3 51.Rh8 Re3 52.Rc8+ Kd3 53.Kf5 d4 54.Kf4 Re7 55.Ra8 Kd2 56.Ra2+ Kc3 57.Ra3+ Kc2 58.Ra2+ Kb3 59.Ra8 d3 60.Rb8+ Kc2 61.Rc8+ Kd1 62.Rd8 d2 0-1

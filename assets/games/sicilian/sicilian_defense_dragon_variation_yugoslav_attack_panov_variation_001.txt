@@ -1,0 +1,15 @@
+[Event "Round 1: Zhu, Linxi - Movsziszian, Karen"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-1/6tvMnTPk/I0BvEXtK"]
+[Date "2026.07.02"]
+[Round "1.1"]
+[White "Zhu, Linxi"]
+[Black "Movsziszian, Karen"]
+[Result "1-0"]
+[WhiteElo "2264"]
+[BlackElo "2386"]
+[ECO "B76"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.g4 Nxd4 10.Bxd4 e5 11.Be3 Be6 12.O-O-O Qa5 13.a3 Rfc8 14.h4 a6 15.h5 Rc6 16.hxg6 fxg6 17.Bh3 Bf7 18.g5 Nh5 19.Nd5 Qxd2+ 20.Rxd2 Bxd5 21.Rxd5 Bf8 22.Bg4 Nf4 23.Rd2 Rc7 24.Rdh2 Re8 25.c3 Rg7 26.Rg1 Kh8 27.Kc2 Be7 28.Bxf4 exf4 29.Bd7 Rf8 30.Be6 Re8 31.Bd5 Bd8 32.Rg4 Rc7 33.Rxf4 Bxg5 34.Rf7 Rxf7 35.Bxf7 Rf8 36.Bxg6 h6 37.Bh5 Kg7 38.Rh1 Kf6 39.Bg4 b6 40.a4 a5 41.Kd3 Ke5 42.Kc4 Be3 43.Rd1 Rf6 44.Rd5+ Kf4 45.Kb5 Rg6 46.Rf5+ Kg3 47.b4 axb4 48.cxb4 Rg8 49.Rd5 Rg6 50.Kc6 Kf4 51.Rxd6 Rxd6+ 52.Kxd6 Kg5 53.e5 Bd2 54.Kc6 Bxb4 55.Kxb6 h5 56.Bxh5 Kxh5 57.a5 Bc3 58.f4 Kg4 59.a6 Kxf4 60.e6 1-0

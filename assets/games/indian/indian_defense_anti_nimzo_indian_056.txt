@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-5/gwYuF2XU/jsTswETV"]
+[Date "2026.07.23"]
+[Round "5.9"]
+[White "Slavensky, Asbjorn Vesterkar"]
+[Black "Haubro-Suppanz, Martin"]
+[Result "0-1"]
+[WhiteElo "2193"]
+[BlackElo "2375"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Bd6 6.Bg2 O-O 7.Qc2 c6 8.O-O Nbd7 9.Rd1 Qe7 10.b3 Re8 11.Bc1 e5 12.dxe5 Nxe5 13.cxd5 Nxd5 14.Bb2 Bg4 15.Nc3 Nxf3+ 16.exf3 Be6 17.f4 Nxc3 18.Qxc3 f6 19.a3 Rad8 20.Re1 Qf7 21.Rad1 Bc7 22.b4 Bb6 23.Bc1 Bb3 24.Rxd8 Rxd8 25.Be3 Qc4 26.Qxc4+ Bxc4 27.Bxb6 axb6 28.Be4 g6 29.Kg2 Kf7 30.Bf3 Bd5 31.Re3 c5 32.Rc3 Bxf3+ 33.Kxf3 Rd5 34.Ke4 Ke6 35.Rb3 f5+ 36.Ke3 c4 37.Rc3 b5 38.a4 bxa4 39.Rxc4 b5 40.Rc7 Rd7 41.Rc6+ Rd6 42.Rc7 Ra6 43.Kd4 Kd6 44.Rc2 Rc6 45.Rb2 Rc1 46.h4 h5 47.Rd2 Rc4+ 48.Ke3+ Kc6 49.Rb2 Rc3+ 50.Kd4 Rb3 51.Rd2 Kd6 0-1

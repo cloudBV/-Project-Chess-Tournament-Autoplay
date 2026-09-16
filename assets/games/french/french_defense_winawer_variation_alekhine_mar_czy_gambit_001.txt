@@ -1,0 +1,14 @@
+[Event "Round 1: Stevens, Christian - Haimovich, Tal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/W5Okk8oz"]
+[Date "2026.07.13"]
+[Round "1.16"]
+[White "Stevens, Christian"]
+[Black "Haimovich, Tal"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2310"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Alekhine-Maróczy Gambit"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Be7 6.Nxe4 Nc6 7.c3 Nf6 8.N2g3 e5 9.Nxf6+ Bxf6 10.d5 Ne7 11.Bc4 Ng6 12.Nh5 O-O 13.Nxf6+ Qxf6 14.O-O Bd7 15.Be3 Rad8 16.Qb3 b6 17.Rad1 Nh4 18.f4 Qg6 19.Rf2 Bg4 20.Be2 Bxe2 21.Rxe2 Nf3+ 22.Kh1 Nxh2 23.Qc2 Qh5 24.Kg1 Ng4 25.fxe5 Qxe5 0-1

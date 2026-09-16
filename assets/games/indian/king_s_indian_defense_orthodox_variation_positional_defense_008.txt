@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/dLdr45Qs"]
+[Date "2026.07.18"]
+[Round "8.20"]
+[White "Sarabando, Rodrigo Andias"]
+[Black "Vassallo Barroche, Mauricio"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2318"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Qc2 c6 9.d5 c5 10.Bg5 Kh8 11.g3 h6 12.Bd2 Ng8 13.Kh1 Ndf6 14.Nh4 Bh3 15.Rfb1 b6 16.a3 Nd7 17.b4 h5 18.Qc1 Bf6 19.Nf3 Bg4 20.Ng1 Bxe2 21.Ngxe2 Bg7 22.Nb5 Qe7 23.Bg5 f6 24.Be3 Rfc8 25.a4 f5 26.Qc2 Qf6 27.Qd2 cxb4 28.Bg5 Qf8 29.Rxb4 Ngf6 30.exf5 Ne4 31.Qe3 Qxf5 32.Be7 Nxf2+ 33.Kg2 Ng4 0-1

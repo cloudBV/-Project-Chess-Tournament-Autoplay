@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.18"]
+[White "Grebeniuk, Semen"]
+[Black "Pogorelskiy, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2227"]
+[BlackElo "2002"]
+[ECO "B23"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Korchnoi Defense"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.Bg2 Nf6 5.d3 Nc6 6.Bg5 d4 7.Nce2 Be7 8.Bxf6 gxf6 9.f4 Rb8 10.Nf3 b5 11.O-O O-O 12.f5 Ne5 13.fxe6 Bxe6 14.h3 Qd7 15.Kh2 Kh8 16.Nh4 Rg8 17.Nf5 Rg5 18.Nf4 Rbg8 19.g4 Bd6 20.Kh1 Bxf5 21.exf5 Nxg4 22.hxg4 Rxg4 23.Ng6+ R8xg6 24.fxg6 Rh4+ 25.Kg1 Bh2+ 26.Kf2 Qd6 27.g7+ Kg8 28.Ke2 Qe5+ 29.Be4 Bg3 30.Qc1 Bf4 31.Rxf4 Rxf4 32.Qh1 f5 33.Qh5 Qe6 34.Rh1 h6 35.Qh2 Rg4 36.Qxh6 Qxh6 37.Rxh6 fxe4 38.dxe4 Rxe4+ 39.Kd2 Kxg7 40.Rh5 c4 41.Rxb5 Rh4 42.Rc5 Rh2+ 43.Kd1 d3 44.Rxc4 dxc2+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-4/9zGO8wij/N1bMx4Qz"]
+[Date "2026.07.03"]
+[Round "4.23"]
+[White "Korsa, Jindrich"]
+[Black "Patlolla Indra Reddy"]
+[Result "1-0"]
+[WhiteElo "2061"]
+[BlackElo "2098"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Grob Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.g4 e6 4.Bg2 Nge7 5.f4 d5 6.d3 dxe4 7.dxe4 Qxd1+ 8.Nxd1 Ng6 9.c3 Nh4 10.Bf1 f5 11.Nf2 b6 12.Bd2 Bb7 13.O-O-O fxe4 14.Be3 e5 15.Ne2 Ne7 16.c4 Neg6 17.fxe5 Nxe5 18.Nf4 Rd8 19.Nd5 Bxd5 20.cxd5 Nhf3 21.Bb5+ Kf7 22.Nxe4 h5 23.g5 Kg6 24.h4 Ng4 25.Bd3 Rxd5 26.Nc3+ Rxd3 27.Rxd3 c4 28.Rd8 Nfe5 29.Bd2 Nf7 30.Rc8 Nf2 31.Rf1 Nd3+ 32.Kb1 Nde5 33.Bf4 Bd6 34.Rxh8 Nxh8 35.Nb5 Bb8 36.Nxa7 Nhf7 37.Nc8 Kh7 38.Nxb6 Ba7 39.Nd5 Ng6 40.Bg3 1-0

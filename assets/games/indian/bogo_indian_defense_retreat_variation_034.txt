@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.17"]
+[Round "4.1"]
+[White "Chacon Salinas, Cesar"]
+[Black "Villanueva, Mario"]
+[Result "0-1"]
+[WhiteElo "2187"]
+[BlackElo "2466"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 Nbd7 9.Bf4 a5 10.Rd1 a4 11.Nc3 dxc4 12.Nxa4 b5 13.Nc5 Nd5 14.Ne5 Nxe5 15.Bxe5 f6 16.Bf4 e5 17.Be3 Qb6 18.Ne4 f5 19.Nc3 Nxe3 20.fxe3 e4 21.Nxe4 fxe4 22.Qxe4 Bg5 23.h4 Bf5 24.Qxc6 Bxe3+ 25.Kh2 Qxc6 26.Bxc6 Rab8 27.a4 bxa4 28.Bd5+ Kh8 29.Bxc4 h5 30.Rf1 Bc2 31.d5 Bd4 32.Rac1 Rxf1 33.Rxf1 Bxb2 34.d6 Bb3 35.Bxb3 axb3 36.e4 Be5 37.d7 b2 38.Kh3 Rd8 39.g4 Rxd7 40.gxh5 Rb7 41.Rb1 Rc7 0-1

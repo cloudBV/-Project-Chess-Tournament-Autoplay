@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "4.6"]
+[White "Skotheim, Andreas"]
+[Black "Simonsen, David Mindestrommen"]
+[Result "1-0"]
+[WhiteElo "2234"]
+[BlackElo "2138"]
+[ECO "E41"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Bxc3+ 6.bxc3 Nc6 7.Ne2 d6 8.O-O e5 9.Ng3 O-O 10.d5 Ne7 11.Qc2 h6 12.a4 Ne8 13.f4 exf4 14.exf4 f5 15.Bd2 g6 16.Ne2 Nf6 17.h3 Kf7 18.Kh2 Rh8 19.Ng1 Qc7 20.Nf3 Bd7 21.Be1 Rae8 22.Bh4 Rhg8 23.Kh1 Rg7 24.Rae1 Neg8 25.Rxe8 Kxe8 26.g4 Qc8 27.Ne5 dxe5 28.fxe5 g5 29.exf6 Nxf6 30.Bxf5 gxh4 31.Bg6+ Kd8 32.Rxf6 Qc7 33.Qf2 Re7 34.Rf8+ Be8 35.Qxh4 Kd7 36.Bxe8+ 1-0

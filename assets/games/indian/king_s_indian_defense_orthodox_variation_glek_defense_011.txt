@@ -1,0 +1,15 @@
+[Event "Round 9: Podolchenko, Evgeniy - Tekeyev, Zaur"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/rZz4vwmD"]
+[Date "2026.07.11"]
+[Round "9.8"]
+[White "Podolchenko, Evgeniy"]
+[Black "Tekeyev, Zaur"]
+[Result "0-1"]
+[WhiteElo "2287"]
+[BlackElo "2432"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6 8.Re1 exd4 9.Nxd4 Nc5 10.Bf1 Ne6 11.Nc2 b6 12.g3 Nd7 13.Bg2 Ba6 14.Nb5 h5 15.f4 Bb7 16.Nc3 Re8 17.Ne3 a6 18.Ned5 c6 19.Ne3 Qc7 20.Qc2 b5 21.Rb1 b4 22.Ncd1 Nd4 23.Qd2 Nc5 24.Nf2 b3 25.a3 f5 26.exf5 gxf5 27.Qd1 Qf7 28.Bd2 h4 29.Bc3 hxg3 30.hxg3 Nce6 31.c5 dxc5 32.Nd3 Rad8 33.Qd2 Nf8 34.Qf2 Nd7 35.Rbd1 Bf6 36.g4 fxg4 37.Nxg4 Bg7 38.Rxe8+ Rxe8 39.Nxc5 Ne2+ 40.Kh1 Qh5+ 41.Nh2 Qxc5 0-1

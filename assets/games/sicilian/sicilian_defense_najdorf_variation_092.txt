@@ -1,0 +1,15 @@
+[Event "Round 7: Mohammadian sechani, Arshia - Buyuk, Eymen Eren"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/LQEIQlqs"]
+[Date "2026.07.17"]
+[Round "7.5"]
+[White "Mohammadian sechani, Arshia"]
+[Black "Buyuk, Eymen Eren"]
+[Result "0-1"]
+[WhiteElo "2390"]
+[BlackElo "2170"]
+[ECO "B94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 Qc7 8.Qf3 b5 9.Nd5 Nxd5 10.exd5 Bb7 11.O-O-O g6 12.Nc6 Nb6 13.Bd3 Nxd5 14.Qxd5 Bxc6 15.Qd4 Rg8 16.Rhe1 O-O-O 17.Kb1 f6 18.Bh4 Bh6 19.Re6 Rd7 20.Bf2 Kb8 21.c4 Rc8 22.cxb5 Bxb5 23.a4 Bxd3+ 24.Rxd3 Qc2+ 25.Ka2 Rc4 26.Rb3+ Kc8 27.Qe3 Rxa4+ 28.Ra3 Qc4+ 29.Ka1 Bxf4 30.Qf3 Rxa3+ 31.bxa3 Qc1+ 32.Ka2 Rb7 0-1

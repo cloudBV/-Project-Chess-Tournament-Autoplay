@@ -1,0 +1,14 @@
+[Event "Round 2: Hugentobler, Patrick - Nazarenus, Olaf"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-2/n5yxqcyI/p9oA0sGG"]
+[Date "2026.07.12"]
+[Round "2.2"]
+[White "Hugentobler, Patrick"]
+[Black "Nazarenus, Olaf"]
+[Result "1/2-1/2"]
+[WhiteElo "2162"]
+[BlackElo "2050"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 g6 3.f4 Bg7 4.Nf3 Nc6 5.a4 d6 6.Bb5 Bd7 7.d3 Nf6 8.O-O O-O 9.Bxc6 Bxc6 10.Qe1 e6 11.f5 exf5 12.exf5 h6 13.Qg3 g5 14.h4 g4 15.Nh2 Kh7 16.Ne4 Bxe4 17.dxe4 Nxe4 18.Qf4 d5 19.Nxg4 Bd4+ 20.Be3 Bxe3+ 21.Nxe3 Nf6 22.Rfe1 Qb8 23.Qf3 Qd6 24.Rad1 Rae8 25.Ng4 Rxe1+ 26.Rxe1 Nxg4 27.Qxg4 Rg8 28.Qf3 Rg3 29.Qf2 Rg4 30.b3 b6 31.Re3 Qf6 32.g3 Qxh4 33.Kg2 Qg5 34.f6 Re4 1/2-1/2

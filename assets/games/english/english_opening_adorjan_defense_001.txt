@@ -1,0 +1,14 @@
+[Event "Round 8: Akesson, Ralf - Olsson, Linus"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-8/RwNKLsOW/PkGxCq2d"]
+[Date "2026.07.03"]
+[Round "8.5"]
+[White "Akesson, Ralf"]
+[Black "Olsson, Linus"]
+[Result "0-1"]
+[WhiteElo "2317"]
+[BlackElo "2232"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Adorjan Defense"]
+
+1.c4 g6 2.e4 e5 3.Nf3 Bg7 4.d4 exd4 5.Nxd4 Nf6 6.Bd3 O-O 7.O-O Re8 8.Re1 d5 9.exd5 Rxe1+ 10.Qxe1 Nxd5 11.cxd5 Bxd4 12.Nc3 Nd7 13.Bf4 Nc5 14.Bc2 Bd7 15.Rd1 Bg7 16.b4 Qf6 17.Bd2 Re8 18.Qf1 Na6 19.a3 Bf5 20.Ba4 Rd8 21.Qc4 Rc8 22.h3 Nb8 23.Bb3 Nd7 24.Ne4 Bxe4 25.Qxe4 Qb2 26.Qd3 Ne5 27.Qe3 b5 28.Bc1 Qb1 29.Qg3 Qe4 30.Bd2 Nc4 31.Bxc4 Qxc4 32.Be3 a6 33.Qg4 Qxg4 34.hxg4 Be5 35.f4 Bb2 36.Rb1 Bg7 37.Rc1 Bb2 38.Rc2 Bxa3 39.d6 Bxb4 40.Rxc7 Rd8 41.d7 Kf8 42.f5 Ke7 43.Bd4 Kd6 44.Ra7 Rxd7 45.Rxa6+ Kd5 0-1

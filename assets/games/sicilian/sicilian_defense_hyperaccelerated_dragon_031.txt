@@ -1,0 +1,14 @@
+[Event "Round 6: Yip, Carissa - Finek, Vaclav"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-6/E4HKKZ3g/injaJdU4"]
+[Date "2026.07.19"]
+[Round "6.3"]
+[White "Yip, Carissa"]
+[Black "Finek, Vaclav"]
+[Result "0-1"]
+[WhiteElo "2369"]
+[BlackElo "2504"]
+[ECO "B27"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Nbd2 Nf6 7.Bc4 Qd6 8.O-O O-O 9.Nb3 cxd4 10.Nbxd4 a6 11.Qe2 b5 12.Bb3 Bb7 13.Rd1 Qc7 14.a4 bxa4 15.Bxa4 Ne4 16.Bc2 Nd6 17.Bf4 Nc6 18.Nxc6 Bxc6 19.Nd4 Bb7 20.Be5 Bxe5 21.Qxe5 Rfc8 22.Bd3 Ne8 23.Qxc7 Nxc7 24.Ra5 Rab8 25.h3 Ba8 26.Rd2 Rb6 27.Re2 Kf8 28.Rae5 Nd5 29.g3 Rd8 30.Be4 e6 31.Bg2 a5 32.Rd2 Rc8 33.Kh2 a4 34.h4 Nf6 35.Kh3 Bxg2+ 36.Kxg2 Rcb8 37.Ree2 Rc8 38.Nf3 a3 39.bxa3 Rxc3 40.Ra2 Ra6 41.a4 Rc4 42.a5 Rc5 43.Rec2 Rxc2 44.Rxc2 Rxa5 45.Kf1 h6 46.Ke2 Nd5 47.Rd2 Kg7 48.Nd4 Nc3+ 49.Kf3 Rd5 50.Ke3 Re5+ 51.Kf3 Ra5 52.Kg2 Ne4 53.Re2 Nf6 54.Nf3 g5 55.hxg5 hxg5 56.Re5 Rxe5 57.Nxe5 Nd5 58.f3 Kf6 59.Ng4+ Ke7 60.Kf2 f5 61.Ne5 f4 62.gxf4 gxf4 63.Ke2 Kd6 64.Nf7+ Ke7 65.Ne5 Kf6 66.Nd7+ Kf5 67.Kf2 e5 68.Nc5 Ne7 69.Nd3 Ke6 70.Nc5+ Kd5 71.Ne4 Nf5 72.Ng5 Kd4 73.Nf7 Ne7 74.Ng5 Nc6 75.Ne4 Nb4 76.Ng5 Kd3 77.Nf7 Nc6 78.Nd6 Kc3 79.Nf7 Kd2 80.Nd6 Nb4 81.Nc4+ Kc3 82.Nd6 Kd4 83.Ke2 Kd5 84.Ne4 Nc2 85.Nf6+ Kc4 86.Ne4 Nd4+ 87.Kf2 Ne6 88.Nf6 Nc5 89.Ng4 Kd4 90.Ke2 Nd7 91.Kf2 Kd3 92.Nh6 Nf6 93.Nf7 Kd4 94.Ng5 Nd5 95.Ne6+ Kc4 96.Ng5 Nc3 97.Ne6 Kd3 98.Nc5+ Kd4 99.Ne6+ Kc4 100.Ng5 Kd3 101.Ne6 Kd2 102.Nc5 Nd1+ 103.Kf1 Nb2 104.Nd7 Nd3 105.Nf6 Ke3 106.Kg2 Ne1+ 107.Kh3 Kxf3 108.Nd5 e4 0-1

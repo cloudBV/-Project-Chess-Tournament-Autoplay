@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.3"]
+[White "Ugorek, Kacper"]
+[Black "Mulawa, Cyprian"]
+[Result "1/2-1/2"]
+[WhiteElo "2229"]
+[BlackElo "2324"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.d4 exd4 4.Qxd4 Nf6 5.Bg2 d5 6.Nf3 dxc4 7.Qxc4 Be6 8.Qc2 Na6 9.a3 Qa5+ 10.Bd2 Qf5 11.Qxf5 Bxf5 12.Nc3 Nc5 13.O-O O-O-O 14.Bg5 Be7 15.Rad1 h6 16.Be3 Nb3 17.Nd4 Nxd4 18.Bxd4 Kb8 19.Be5+ Ka8 20.b4 a6 21.e4 Bg4 22.f3 Be6 23.Rxd8+ Rxd8 24.Rd1 Rxd1+ 25.Nxd1 c5 26.Bc3 Ka7 27.Kf2 g5 28.Ke3 Nd7 29.f4 Nb6 30.Nb2 f5 31.exf5 Bxf5 32.bxc5 Nd7 33.c6 bxc6 34.Bxc6 Bxa3 35.Bd4+ Kb8 36.fxg5 hxg5 37.h4 gxh4 38.gxh4 Kc7 39.Be4 Bg4 40.Kf4 Be2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 9: Stojanovic, Mihajlo - Saminskij, Jan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-9/mTfqix40/52sGt6pe"]
+[Date "2026.06.03"]
+[Round "9.1"]
+[White "Stojanovic, Mihajlo"]
+[Black "Saminskij, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2401"]
+[BlackElo "2301"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.Nc3 Nd4 5.d3 Ne7 6.Nxd4 cxd4 7.Ne2 Nc6 8.a3 a5 9.b3 Rb8 10.g3 h5 11.f4 Bc5 12.Bg2 d6 13.O-O e5 14.Bd2 b5 15.Qc2 bxc4 16.bxc4 Bd7 17.f5 g5 18.Rfb1 Rxb1+ 19.Qxb1 f6 20.Nc1 Ke7 21.Bf3 Qc7 22.Bd1 h4 23.Ba4 hxg3 24.hxg3 Bxf5 25.exf5 Nb4 26.Bxg5 fxg5 27.Qb2 Qb7 28.Qg2 Qxg2+ 29.Kxg2 Na6 30.Nb3 Bb6 31.Bb5 1/2-1/2

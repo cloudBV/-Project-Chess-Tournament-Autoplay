@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "8.3"]
+[White "Radzimski, Antoni"]
+[Black "Zieba, Hubert"]
+[Result "1/2-1/2"]
+[WhiteElo "2336"]
+[BlackElo "2198"]
+[ECO "A38"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Full Symmetry Line"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 g6 5.Bg2 Bg7 6.d4 cxd4 7.Nxd4 O-O 8.O-O d6 9.Nxc6 bxc6 10.Bxc6 Rb8 11.Bg2 Qa5 12.Qc2 Bf5 13.e4 Be6 14.Bd2 Bxc4 15.Nd5 Qb5 16.Nxe7+ Kh8 17.Rfc1 Bd3 18.Qc6 Qxc6 19.Nxc6 Rxb2 20.Bc3 Nxe4 21.Bxb2 Bxb2 22.Nxa7 Ra8 23.Bxe4 Bxe4 24.Nb5 1/2-1/2

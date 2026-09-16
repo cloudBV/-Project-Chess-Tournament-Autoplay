@@ -1,0 +1,15 @@
+[Event "Round 1: Banerjee, Supratit - Shearsby, Jude"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-1/5xtgFQdm/DArseKn2"]
+[Date "2026.07.16"]
+[Round "1.2"]
+[White "Banerjee, Supratit"]
+[Black "Shearsby, Jude"]
+[Result "1-0"]
+[WhiteElo "2347"]
+[BlackElo "2243"]
+[ECO "B75"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 a6 8.Qd2 h5 9.h3 Nbd7 10.Be2 Qc7 11.a4 O-O 12.Bh6 Bxh6 13.Qxh6 d5 14.O-O-O Qg3 15.exd5 Nc5 16.Bc4 b5 17.Nc6 Re8 18.Qe3 Nb7 19.Ba2 Nd6 20.Qe5 Qxe5 21.Nxe5 b4 22.Ne2 Bb7 23.g4 h4 24.Rd4 a5 25.Nf4 Rac8 26.Re1 Rc7 27.Bb3 Rec8 28.Nc6 e6 29.Na7 Re8 30.dxe6 Bxf3 31.Rxd6 1-0

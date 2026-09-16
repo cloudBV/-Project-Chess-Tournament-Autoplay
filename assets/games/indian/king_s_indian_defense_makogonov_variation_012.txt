@@ -1,0 +1,14 @@
+[Event "Round 3: Mavridis, Emmanouil - Gaal, Zsoka"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/XDJPwyDy"]
+[Date "2026.07.19"]
+[Round "3.13"]
+[White "Mavridis, Emmanouil"]
+[Black "Gaal, Zsoka"]
+[Result "0-1"]
+[WhiteElo "2090"]
+[BlackElo "2376"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 e5 6.d5 a5 7.Be3 Na6 8.Bd3 h5 9.Qd2 h4 10.Bg5 Nc5 11.Bc2 Bf8 12.f4 exf4 13.Qxf4 Be7 14.Nf3 Rh5 15.O-O-O Nfd7 16.Bxe7 Qxe7 17.Nb5 Ne5 18.Nxe5 Rxe5 19.Rhf1 Kf8 20.Rde1 Kg7 21.Rf2 Bd7 22.Ref1 Be8 23.Nd4 a4 24.Nf3 Rh5 25.Nh2 Qg5 26.Ng4 Nd7 27.Kd1 Qxf4 28.Rxf4 Ra5 29.Kd2 Ne5 30.Nxe5 dxe5 31.R4f2 Rg5 32.Bd1 Rc5 33.Kc3 Rg3+ 34.Kb4 b6 35.Bg4 Re3 36.Bd7 Bxd7 37.Rxf7+ Kh6 38.Rxd7 Rxe4 39.b3 Re2 40.Kxa4 c6 41.d6 Ra5+ 42.Kb4 c5+ 43.Kc3 Raxa2 44.Rd1 Rac2+ 45.Kd3 e4# 0-1

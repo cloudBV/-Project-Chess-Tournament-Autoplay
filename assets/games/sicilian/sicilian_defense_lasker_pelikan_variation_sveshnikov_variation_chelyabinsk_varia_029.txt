@@ -1,0 +1,14 @@
+[Event "Round 7: Voigt, Anastasia - Wagenschuetz, Evelyn"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-women/round-7/BM134HKm/8jXu3rHh"]
+[Date "2026.07.23"]
+[Round "6.4"]
+[White "Voigt, Anastasia"]
+[Black "Wagenschuetz, Evelyn"]
+[Result "0-1"]
+[WhiteElo "2042"]
+[BlackElo "2040"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Rb8 13.Be2 O-O 14.O-O a5 15.b4 axb4 16.Ncxb4 Nxb4 17.Nxb4 Qc7 18.Nd5 Qc5 19.Qd3 f5 20.Bf3 g6 21.Rab1 Be6 22.Rb2 Bxd5 23.Qxd5+ Qxd5 24.exd5 Rfc8 25.Be2 Rxc3 26.Bxb5 Bc1 27.Rb1 Ba3 28.Ba4 Rb4 29.Rxb4 Bxb4 30.g3 Bc5 31.Rd1 Kg7 32.Rd2 e4 33.Kg2 Kf6 34.Bb5 Ke5 35.a4 Bd4 36.Bc6 Ra3 37.h4 h6 38.Re2 g5 39.hxg5 hxg5 40.Rd2 f4 41.gxf4+ gxf4 42.Rd1 Ra2 43.Rf1 Rb2 44.Kg1 f3 45.Ba8 Rb8 46.Bc6 Rg8+ 47.Kh1 Rg2 48.a5 Bxf2 49.a6 Ba7 50.Re1 Rg7 51.Kh2 Kf4 52.Rf1 Rh7# 0-1

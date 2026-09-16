@@ -1,0 +1,14 @@
+[Event "Round 5: Nikolovski, Nikola - Deveci, Huseyin Said"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/1SgjRdPq"]
+[Date "2026.07.07"]
+[Round "5.21"]
+[White "Nikolovski, Nikola"]
+[Black "Deveci, Huseyin Said"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2250"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 Nc6 3.f4 d5 4.d3 e6 5.Nf3 Nf6 6.e5 Ng4 7.O-O Be7 8.c3 d4 9.Na3 f6 10.Nc4 b5 11.exf6 gxf6 12.Na3 dxc3 13.bxc3 b4 14.cxb4 cxb4 15.Nc2 Rg8 16.d4 Bb7 17.f5 Qb6 18.h3 Nge5 19.Be3 O-O-O 20.fxe6 Qc7 21.Rc1 Kb8 22.Qe1 Ng6 23.Rf2 Nf4 24.Kh1 Nxe2 25.Qxe2 Qa5 26.Bf4+ Ka8 27.Qc4 Qf5 28.Bh2 Na5 29.Qc7 Rge8 30.Ne3 Qxe6 31.Re1 Qa6 32.Nf5 Bf8 33.Rfe2 Qb5 34.Rxe8 Rxe8 35.Rxe8+ Qxe8 36.Qxa5 Qc8 37.Bf4 Be4 38.N3h4 a6 39.Kh2 Kb7 40.Nd6+ Bxd6 41.Bxd6 Qc2 42.Qxb4+ Kc6 43.Qc5+ 1-0

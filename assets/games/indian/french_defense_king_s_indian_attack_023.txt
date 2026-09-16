@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.11"]
+[White "Krivenko, Dion"]
+[Black "Guidarelli, Laurent"]
+[Result "1/2-1/2"]
+[WhiteElo "2311"]
+[BlackElo "2458"]
+[ECO "C00"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Qe2 Be7 4.Nf3 Nf6 5.g3 c5 6.Bg2 Nc6 7.O-O h6 8.e5 Nh7 9.c4 O-O 10.h4 f5 11.exf6 Nxf6 12.Bf4 Ng4 13.Ne5 Ngxe5 14.Bxe5 Bf6 15.Bxf6 Qxf6 16.Nc3 Nd4 17.Qh5 dxc4 18.dxc4 Nf3+ 19.Bxf3 Qxf3 20.Qxf3 Rf7 21.Qf4 Rxf4 22.Rad1 Rf3 23.Nb5 b6 24.Rd4 e5 25.Rd8+ Rf8 26.Rxf8+ Kxf8 27.Re1 Bb7 28.Rxe5 Rd8 29.Nc3 Rd2 30.Re2 Rd4 31.b3 Rd3 32.Re3 Rd2 33.Kf1 g5 34.hxg5 hxg5 35.Ke1 Rc2 36.a4 g4 37.Nd5 Rb2 38.a5 bxa5 39.Nf6 a4 40.bxa4 Rc2 41.Nd7+ Kg8 42.Nf6+ Kf8 43.Nxg4 Rxc4 44.Ne5 Rxa4 45.Nd7+ Kf7 46.Nxc5 Ra1+ 47.Kd2 Ra2+ 48.Kc3 Bc6 49.f4 a5 50.Nd3 Bg2 51.g4 Bf1 52.Kd4 Ra4+ 53.Ke5 Rc4 54.Kf5 Bxd3+ 55.Rxd3 Rc5+ 56.Ke4 Rc7 57.Rd4 Ra7 58.Ra4 Kf6 59.Kd5 Rg7 60.g5+ Kf5 61.Rxa5 Kxf4 62.Ke6 Ke4 1/2-1/2

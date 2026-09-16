@@ -1,0 +1,15 @@
+[Event "Round 6: Zharas, Aldiyar - Siddhanth Poonja"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-6/dML8kQ2c/ySC32pfA"]
+[Date "2026.07.21"]
+[Round "6.10"]
+[White "Zharas, Aldiyar"]
+[Black "Siddhanth Poonja"]
+[Result "1/2-1/2"]
+[WhiteElo "2241"]
+[BlackElo "2164"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 b6 9.Ne5 Nfd7 10.Nd3 Ba6 11.b3 Nf6 12.Rd1 Nbd7 13.Bc3 Rc8 14.Nd2 c5 15.dxc5 Nxc5 16.Nxc5 Bxc5 17.Ne4 Be7 18.Rac1 Nxe4 19.Bxe4 f5 20.Bf3 Bf6 21.Bb4 Rf7 22.Qb1 d4 23.e4 Bb7 24.Qd3 Bxe4 25.Bxe4 fxe4 26.Qxe4 Qd7 27.Re1 e5 28.Qd3 g6 29.Re4 Qf5 30.Rc2 Bg7 31.Kg2 h5 32.h4 Rc6 33.Rce2 g5 34.hxg5 Qxg5 35.Rh4 Rf5 36.Qe4 Rg6 37.Rh3 Rf7 38.Bd2 Qg4 39.Rh4 Qxe4+ 40.Rexe4 Rf5 41.Rh3 Rgf6 42.f4 exf4 43.gxf4 b5 44.cxb5 Rxb5 45.Re7 Rf7 46.Re8+ Rf8 47.Rxf8+ Kxf8 48.Kf3 Kf7 49.Ke4 Rc5 50.a4 Rc2 51.Ba5 Re2+ 52.Kd3 Rb2 53.Kc4 Kg6 54.Rg3+ Kh6 55.Bd8 Rc2+ 56.Kb4 Rc3 57.Bg5+ Kg6 58.Rg2 Bf8+ 59.Be7+ Kf7 60.Bxf8 Kxf8 61.Rh2 a5+ 62.Kxa5 Rxb3 63.Rxh5 d3 64.Rd5 Ke7 65.Ka6 Rb4 66.a5 Rxf4 67.Rxd3 Rb4 68.Ka7 Rb5 69.a6 Rb1 70.Rd5 Rb2 71.Rd1 Rb3 72.Ka8 Rb6 73.Ka7 Rb3 74.Rh1 Kd7 75.Rh8 Kc7 76.Rh7+ Kc8 77.Rb7 Rc3 78.Kb6 Rb3+ 79.Kc6 1/2-1/2

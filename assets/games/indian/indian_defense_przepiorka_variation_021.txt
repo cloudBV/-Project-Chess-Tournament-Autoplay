@@ -1,0 +1,15 @@
+[Event "Round 6: Tsay, Vincent - Zhu, Linxi"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/mTM2ZdQe"]
+[Date "2026.07.18"]
+[Round "6.12"]
+[White "Tsay, Vincent"]
+[Black "Zhu, Linxi"]
+[Result "1/2-1/2"]
+[WhiteElo "2305"]
+[BlackElo "2264"]
+[ECO "A49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.a4 a5 7.Re1 Nc6 8.d5 Nb4 9.e4 e5 10.dxe6 Bxe6 11.Nd4 Bd7 12.h3 Re8 13.Nb5 Bc6 14.N1c3 h6 15.f4 b6 16.Re2 Re7 17.Nd4 Bb7 18.e5 dxe5 19.Bxb7 exd4 20.Bxa8 Rd7 21.Ne4 Qxa8 22.Nxf6+ Bxf6 23.Ra3 c5 24.f5 g5 25.h4 c4 26.hxg5 hxg5 27.Rae3 Rd8 28.Re6 fxe6 29.Rxe6 Nd5 30.Bxg5 Bxg5 31.Qg4 Rd7 32.Qxg5+ Rg7 33.Rg6 Qf8 34.Rxg7+ Qxg7 35.Qd8+ Kh7 36.Qxd5 Qxg3+ 37.Kf1 Qf4+ 38.Kg2 Qg5+ 39.Kf3 Qe3+ 40.Kg4 Qg1+ 41.Kh5 Qh2+ 42.Kg4 Qg1+ 1/2-1/2

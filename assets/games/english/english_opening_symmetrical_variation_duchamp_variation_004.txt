@@ -1,0 +1,14 @@
+[Event "Round 7: Enkhnar, Enkhbaatar - Tamas, Christian-Arrydan"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-7/3Kmor2SN/NLtyz49B"]
+[Date "2026.07.20"]
+[Round "7.13"]
+[White "Enkhnar, Enkhbaatar"]
+[Black "Tamas, Christian-Arrydan"]
+[Result "1-0"]
+[WhiteElo "2397"]
+[BlackElo "2328"]
+[ECO "A38"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Duchamp Variation"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.c4 c5 6.Nc3 Nc6 7.d3 d5 8.cxd5 Nxd5 9.Nxd5 Qxd5 10.Be3 Qd6 11.Rc1 Nd4 12.Nxd4 cxd4 13.Bd2 Qb6 14.Qb3 Qxb3 15.axb3 Bg4 16.Rfe1 Rac8 17.Bxb7 Rxc1 18.Bxc1 Be6 19.Bf4 Bxb3 20.Ra1 e5 21.Bd2 Rb8 22.Rxa7 Bf8 23.Ra8 Rxa8 24.Bxa8 f5 25.Bc6 Kg7 26.Kf1 Kf6 27.e3 dxe3 28.fxe3 Bd6 29.Ke2 h5 30.Ba5 g5 31.Bd8+ Be7 32.Bxe7+ Kxe7 33.h4 Kf6 34.Be8 g4 35.Bxh5 Ba4 36.e4 Bd7 37.exf5 Bxf5 38.Be8 Ke7 39.Bc6 Bg6 40.Be4 Bh5 41.Ke3 Kf6 42.d4 Be8 43.Bb7 Bd7 44.b4 Ba4 45.Bc8 1-0

@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.4"]
+[White "Engelsen, Teodor Tenfjord"]
+[Black "Elsness, Fredrik Valstad"]
+[Result "1/2-1/2"]
+[WhiteElo "2227"]
+[BlackElo "2113"]
+[ECO "A35"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.e3 e5 5.d4 e4 6.d5 exf3 7.dxc6 dxc6 8.Qxd8+ Kxd8 9.gxf3 g6 10.b3 Bg7 11.Bb2 b6 12.O-O-O+ Kc7 13.Bd3 Rd8 14.Rhg1 Be6 15.Ne2 Nh5 16.Ng3 Bxb2+ 17.Kxb2 Ng7 18.Kc3 Rd7 19.Ne4 h6 20.Nf6 Rd6 21.Bc2 Rad8 22.Rxd6 Rxd6 23.Ne4 Rd8 24.Ng3 b5 25.Rd1 Rxd1 26.Bxd1 Nf5 27.f4 Nd6 28.Be2 h5 29.h4 Kb6 30.Bd3 Bc8 31.e4 f5 32.f3 b4+ 33.Kd2 Be6 34.Nf1 a5 35.Ne3 Kc7 36.Kc2 Bd7 37.Kb2 Kb6 38.a4 Be6 39.Kc2 Kc7 40.Kd2 Kd7 41.Nf1 Kc7 42.Ng3 Kb6 43.Ke3 Kc7 44.Ne2 Kd7 45.Nc1 Kc7 46.Bc2 Kb6 47.Nd3 Bf7 48.Nf2 Be6 49.Bd3 Bd7 50.Nh1 Be6 51.Ng3 Bd7 52.exf5 Bxf5 53.Be4 Kc7 54.Ne2 Nxe4 55.fxe4 Bg4 56.Nc1 Kb6 57.Nd3 Bd1 58.Nc1 Bc2 59.e5 Bf5 60.Nd3 Bg4 61.Nf2 Bf5 62.Ne4 Bg4 63.Kd2 Bf5 64.Nf2 Kc7 65.Nd3 Kb6 66.Ke3 Bg4 67.Nf2 Be6 68.Ne4 Bf5 69.Kd3 Bg4 70.Kd2 Be6 71.Ng3 Bf5 72.Kd1 Bg4+ 73.Kc1 Bf5 74.Kd2 Kc7 75.Nf1 Kb6 76.Ne3 Kc7 77.Kc1 Kb6 78.Nxf5 gxf5 79.e6 Kc7 80.e7 Kd7 81.e8=N Kxe8 1/2-1/2

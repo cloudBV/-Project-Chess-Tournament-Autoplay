@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.9"]
+[White "Hansen, Torbjorn Ringdal"]
+[Black "Agdestein, Simen"]
+[Result "1/2-1/2"]
+[WhiteElo "2383"]
+[BlackElo "2525"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bc5 7.Nd6+ Ke7 8.Bf4 e5 9.Nf5+ Kf8 10.Bg5 d6 11.Ne3 h6 12.Bxf6 Qxf6 13.Bc4 Be6 14.O-O Kg8 15.Ncd5 Qd8 16.c3 a6 17.Qe2 Kh7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.8"]
+[White "Garcia Martin, Marta"]
+[Black "Larkin, Vladyslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2334"]
+[BlackElo "2506"]
+[ECO "A13"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.c4 Bd6 5.O-O O-O 6.d4 Nc6 7.e3 Re8 8.Qe2 b6 9.Nc3 Ba6 10.b3 Na5 11.Rd1 Qe7 12.Nd2 c5 13.Nb5 Bxb5 14.cxb5 cxd4 15.exd4 Ba3 16.Nf1 Rac8 17.Bf4 Nb7 18.g4 Rc3 19.Ng3 Nd7 20.Rd3 Rxd3 21.Qxd3 Nf8 22.Nf1 Rc8 23.Rd1 Ng6 24.Bg3 Bd6 25.Qe3 Qc7 26.a4 Qc3 27.Rd3 Qc1 28.Bf3 Bf4 29.Bxf4 Nxf4 30.Rd1 Qc7 31.Ng3 Na5 32.Ne2 Nxe2+ 33.Bxe2 Qc3 34.Rd3 Qc1+ 35.Qxc1 Rxc1+ 36.Kg2 g5 37.Kf3 Nb7 38.Ke3 Kg7 39.Kd2 Rc7 40.h4 h6 41.hxg5 hxg5 42.Rh3 Rc8 43.Rh5 f6 44.Rh1 Nd6 45.f3 f5 46.Bd3 Kg6 47.Re1 Kf6 48.Rh1 Nf7 49.Ra1 f4 50.Rh1 Ke7 51.Bg6 Rh8 52.Rxh8 Nxh8 53.Bh5 Nf7 54.Bxf7 Kxf7 55.Kd3 Ke7 56.Kc3 Kd6 57.Kd3 e5 58.dxe5+ Kxe5 1/2-1/2

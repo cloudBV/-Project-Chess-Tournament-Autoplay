@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/5tr5dFF6"]
+[Date "2026.06.25"]
+[Round "6.1"]
+[White "Roinos, Ilias"]
+[Black "Kazakouski, Valery"]
+[Result "0-1"]
+[WhiteElo "2229"]
+[BlackElo "2594"]
+[ECO "B87"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 b5 8.Bg5 Be7 9.Qf3 Qb6 10.O-O-O Nbd7 11.Rhe1 O-O 12.Qg3 Nh5 13.Qh4 Bxg5+ 14.Qxg5 Nhf6 15.Re3 h6 16.Qh4 Nc5 17.Rf3 Nh7 18.Rg3 Kh8 19.f4 Bd7 20.f5 Qd8 21.Nf3 b4 22.Ne2 Qxh4 23.Nxh4 Nxe4 24.Re3 exf5 25.g4 Nhf6 26.gxf5 Rae8 27.Nf4 a5 28.Bc4 Kh7 29.Rd4 Ng5 30.Rdd3 Bc8 31.b3 Nge4 32.Rd4 Nc3 33.Nfg2 d5 34.Bd3 Nxa2+ 35.Kd2 Nc3 36.Nf3 Nce4+ 37.Bxe4 dxe4 38.Ng1 Bxf5 0-1

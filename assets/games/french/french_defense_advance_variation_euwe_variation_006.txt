@@ -1,0 +1,14 @@
+[Event "Round 2: Karaca, Yigit - Maltsevskaya, Aleksandra"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/MUU3xczC"]
+[Date "2026.07.05"]
+[Round "2.24"]
+[White "Karaca, Yigit"]
+[Black "Maltsevskaya, Aleksandra"]
+[Result "0-1"]
+[WhiteElo "2141"]
+[BlackElo "2360"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Na3 cxd4 7.cxd4 Bb4+ 8.Bd2 Qa5 9.Nc2 Bxd2+ 10.Qxd2 Qxd2+ 11.Kxd2 f6 12.Bd3 Ke7 13.Rae1 Rf8 14.Rhf1 Nh6 15.h3 Nf7 16.b4 a5 17.b5 Nb4 18.a4 Nxd3 19.Kxd3 Rc8 20.Ne3 fxe5 21.Nxe5 Nxe5+ 22.dxe5 Rhf8 23.f4 Rc5 24.Ra1 Rfc8 25.g4 Rc3+ 26.Kd4 g6 27.Rfd1 Rb3 28.Rdb1 Rbc3 29.f5 R8c4+ 30.Nxc4 Rxc4+ 31.Ke3 exf5 32.gxf5 Bxf5 33.Rc1 d4+ 34.Kf4 Bc2 35.Re1 Ke6 36.Ra3 h6 37.Kg3 d3 38.Raa1 d2 39.Rf1 Rxa4 40.Rad1 Bxd1 41.Rxd1 Rd4 0-1

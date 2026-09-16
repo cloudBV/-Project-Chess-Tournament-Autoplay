@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.32"]
+[White "Vasicek, Martin"]
+[Black "Temirov, Bakhyt"]
+[Result "0-1"]
+[WhiteElo "2023"]
+[BlackElo "2124"]
+[ECO "A48"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.h3 d6 5.e3 O-O 6.Be2 b6 7.O-O Bb7 8.Bh2 Nbd7 9.a4 Ne4 10.Nbd2 c5 11.c3 Ndf6 12.a5 Rb8 13.axb6 axb6 14.Ra7 Bd5 15.Qc2 Rb7 16.Rxb7 Bxb7 17.Ra1 Qc7 18.Qb3 Ra8 19.Rxa8+ Bxa8 20.Qa4 Bc6 21.Bb5 Bxb5 22.Qxb5 Qa7 23.Nxe4 Qa1+ 24.Qf1 Qxf1+ 25.Kxf1 Nxe4 26.Ke2 Kf8 27.Ne1 Ke8 28.f3 Nf6 29.Kd3 Kd7 30.e4 Kc6 31.Nc2 Bh6 32.d5+ Kb5 33.Na3+ Ka4 34.Kc2 b5 35.Nb1 c4 36.Bg1 Nd7 37.Bd4 e6 38.dxe6 fxe6 39.Na3 Nb8 40.Bb6 Nc6 41.Bc7 d5 42.exd5 exd5 43.f4 d4 44.cxd4 Nxd4+ 45.Kc3 Ne2+ 46.Kd2 Nxf4 47.Bxf4 Bxf4+ 48.Kc2 h5 49.g4 hxg4 50.hxg4 Bd6 51.Nb1 Bb4 52.g5 Ka5 53.Nc3 Bxc3 54.Kxc3 Ka4 55.Kd4 Kb3 0-1

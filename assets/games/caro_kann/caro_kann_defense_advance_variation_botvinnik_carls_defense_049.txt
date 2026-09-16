@@ -1,0 +1,14 @@
+[Event "Blitz C14"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.2"]
+[White "Gibala, Adam"]
+[Black "Chiszko, Oskar"]
+[Result "1-0"]
+[WhiteElo "2267"]
+[BlackElo "2304"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Qh5 Bxc5 6.Bd3 Nc6 7.Nf3 Nb4 8.O-O Nxd3 9.cxd3 Ne7 10.d4 Bb6 11.Nc3 Bd7 12.Bg5 h6 13.Qh4 Rg8 14.Bxe7 Qxe7 15.Qf4 O-O-O 16.Rfc1 Bc6 17.Rab1 Kb8 18.b4 Ka8 19.a4 a5 20.bxa5 Bxa5 21.Nb5 f5 22.Qe3 g5 23.Nd2 f4 24.Qd3 Bxd2 25.Qxd2 Bxb5 26.axb5 b6 27.Rc6 Qa7 28.Qb2 Kb8 29.Ra1 Qb7 30.Ra6 1-0

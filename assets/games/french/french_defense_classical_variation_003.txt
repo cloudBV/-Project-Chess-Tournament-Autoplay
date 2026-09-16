@@ -1,0 +1,15 @@
+[Event "Round 6: Liang, Awonder - Rosen, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/3KtBNAtW"]
+[Date "2026.07.04"]
+[Round "6.14"]
+[White "Liang, Awonder"]
+[Black "Rosen, Eric"]
+[Result "1/2-1/2"]
+[WhiteElo "2588"]
+[BlackElo "2327"]
+[ECO "C11"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.a3 c6 7.h4 Nd7 8.Nf3 Qd8 9.Bd3 Be7 10.Ne2 dxe4 11.Bxe4 Nf6 12.Bd3 c5 13.Qd2 Bd7 14.Ne5 Qc7 15.O-O-O cxd4 16.Nxd7 Nxd7 17.Nxd4 a6 18.Kb1 Nc5 19.Nb3 O-O-O 20.Nxc5 Qxc5 21.Qe2 Bf6 22.c3 Rd6 23.Be4 Rhd8 24.Bf3 Rxd1+ 25.Rxd1 Rxd1+ 26.Qxd1 Bxh4 27.Qa4 Qe7 28.g3 Bf6 29.Ka2 Kb8 30.Qf4+ Qc7 31.Qe4 Ka7 32.Kb1 Qb6 33.Qc2 Be7 34.Be4 Bxa3 35.Qd2 Bd6 36.f4 f5 37.Bc2 g6 38.Ka2 e5 39.fxe5 Qa5+ 40.Kb1 Qxe5 41.Qxh6 Qxg3 42.Qg7 Bc7 43.Bb3 Qd6 44.Qf7 Qd3+ 45.Ka2 Qd6 46.Be6 f4 47.Qxg6 f3 48.Qf5 Bb6 49.Bd5 f2 50.Bg2 Qe7 51.Qf3 Qe6+ 52.Kb1 Qd7 53.Ka2 Qc7 54.Kb1 Qe7 55.Ka2 Qg7 56.Kb1 Qd7 57.Ka2 Qh7 58.Ka1 Qg7 59.Ka2 Qc7 60.Ka1 Qd7 61.Ka2 Bc5 62.Kb1 Qc7 63.Ka2 Qb6 64.Ka1 Qb5 65.Ka2 a5 66.Qd5 a4 67.Ka1 Qb6 68.Ka2 Qb5 69.Qf3 Qb3+ 70.Ka1 a3 71.bxa3 Qxa3+ 72.Kb1 Qb3+ 73.Kc1 Qb5 74.Kc2 Qa4+ 75.Kd3 Qb5+ 76.Kc2 Qb6 77.Kd3 Qa6+ 78.Kc2 Bb6 79.Kb2 Qb5+ 80.Kc2 Bc5 81.Qd5 Qa4+ 82.Kd2 Qb5 83.Qa2+ Kb8 84.Qg8+ Ka7 85.Qa2+ Kb6 86.Qe6+ Kc7 87.Qf7+ Kb8 88.Qg8+ Kc7 89.Qf7+ Qd7+ 90.Qxd7+ Kxd7 91.c4 b6 92.Ke2 Kd6 93.Kf1 Ke5 94.Bc6 Kf4 95.Bb5 Ke3 96.Ba6 Kd4 97.Bb5 Kc3 98.Ba6 Kb4 99.Bb5 Ka5 100.Ke2 Bd4 101.Kf1 Kb4 102.Ke2 Kc5 103.Kf1 Kd6 104.Ke2 Ke5 105.Kf1 Kf4 106.Ba6 Kg3 107.Bb5 Bc5 108.Ba6 1/2-1/2

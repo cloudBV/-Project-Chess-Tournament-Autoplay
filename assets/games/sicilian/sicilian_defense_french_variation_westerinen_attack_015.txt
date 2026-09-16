@@ -1,0 +1,14 @@
+[Event "Round 8: Montalto, Davide - Vairo, Rocco Enrico"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-8/P7hb5l6K/3sO5mfec"]
+[Date "2026.07.11"]
+[Round "8.12"]
+[White "Montalto, Davide"]
+[Black "Vairo, Rocco Enrico"]
+[Result "0-1"]
+[WhiteElo "2013"]
+[BlackElo "2083"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.Bb2 d5 5.exd5 exd5 6.Qe2+ Be6 7.g3 Nc6 8.Bg2 Nh6 9.O-O Nf5 10.Re1 Be7 11.Na3 O-O 12.c3 Qd7 13.d4 cxd4 14.Nxd4 Nfxd4 15.cxd4 Rfe8 16.Nc2 Bf6 17.Qd2 Rac8 18.Rac1 h6 19.Ne3 Bd8 20.Bc3 Bb6 21.Red1 Rc7 22.Qd3 Rec8 23.Rc2 Ne7 24.Rdc1 Nf5 25.Qd2 Nxe3 26.Qxe3 Rc6 27.a3 Bf5 28.Re2 Qc7 29.Qe5 Qxe5 30.Rxe5 Be6 31.Bxd5 Bxd5 32.Rxd5 Rxc3 0-1

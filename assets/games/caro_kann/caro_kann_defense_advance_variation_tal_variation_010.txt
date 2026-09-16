@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.3"]
+[White "Petkov, Momchil"]
+[Black "Torres Rebolledo, Marcos"]
+[Result "1-0"]
+[WhiteElo "2528"]
+[BlackElo "2086"]
+[ECO "B12"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nf3 Qa5+ 8.Nbd2 Qa6 9.c4 c5 10.Qe2 Nc6 11.dxc5 Bxc5 12.cxd5 Qxe2+ 13.Kxe2 exd5 14.Nb3 Bb6 15.Bg5 Nh6 16.Rac1 Ng4 17.Nc5 Ngxe5 18.Nxe5 Nxe5 19.Nxb7 O-O 20.Rhd1 Ng4 21.Nc5 f6 22.Bf4 Rfd8 23.Nd3 Rd7 24.b4 Rad8 25.a4 Re7+ 26.Kf1 Ne5 27.Nxe5 fxe5 28.Bg5 Red7 29.Bxd8 Rxd8 30.a5 Bd4 31.b5 Rb8 32.Rxd4 exd4 33.Rc5 Kf7 34.Ke2 Ke6 35.Kd3 Ke5 36.g3 g6 37.f4+ Kf5 38.Rxd5+ 1-0

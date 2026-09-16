@@ -1,0 +1,14 @@
+[Event "Round 12: Kukushkin, Ivan - Erne, Raphael"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/4lhteS8Y"]
+[Date "2026.07.19"]
+[Round "12.11"]
+[White "Kukushkin, Ivan"]
+[Black "Erne, Raphael"]
+[Result "1/2-1/2"]
+[WhiteElo "2265"]
+[BlackElo "2128"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Apocalypse Attack"]
+
+1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.Ne5 Nc6 5.Bb5 Bd7 6.Nxd7 Qxd7 7.d4 Nf6 8.c3 e6 9.O-O Bd6 10.Re1 O-O 11.Nd2 a6 12.Bd3 e5 13.dxe5 Nxe5 14.Nf3 Rfe8 15.Be3 Nc4 16.Bxc4 dxc4 17.Bd4 Rxe1+ 18.Qxe1 Re8 19.Qf1 Nd5 20.Qxc4 Nf4 21.Be3 b5 22.Qf1 Nd5 23.Bd2 Qg4 24.Re1 Rd8 25.h3 Qg6 26.Qe2 h6 27.Nd4 Nb6 28.Qf3 Nc4 29.Bc1 Bc5 30.Nc6 Rc8 31.Ne7+ Bxe7 32.Rxe7 Rd8 33.Re1 Qd6 34.b3 Ne5 35.Qg3 Ng6 36.Qe3 Rc8 37.Bb2 Qc6 38.Qd4 Qc7 39.c4 f6 40.cxb5 axb5 41.Qd5+ Kh7 42.Qxb5 Rd8 43.Qe2 Qa5 44.a3 Rd2 45.Qe3 Rxb2 46.b4 Qb5 47.Qe4 Rb3 48.Ra1 Qa4 49.h4 h5 50.Qf5 Rxa3 51.Qxh5+ Kg8 52.Rxa3 Qxa3 53.Qxg6 Qxb4 54.Qh5 1/2-1/2

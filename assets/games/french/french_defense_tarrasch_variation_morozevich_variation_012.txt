@@ -1,0 +1,14 @@
+[Event "Round 1: Burri, Quentin - Batteux, Mickael"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-1/S7wEOhJJ/9om7V4Ln"]
+[Date "2026.07.18"]
+[Round "1.6"]
+[White "Burri, Quentin"]
+[Black "Batteux, Mickael"]
+[Result "1-0"]
+[WhiteElo "2387"]
+[BlackElo "2035"]
+[ECO "C03"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Morozevich Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.c3 c5 5.dxc5 Nf6 6.Bb5+ Bd7 7.Bd3 Bc6 8.e5 Nfd7 9.Ngf3 Nxc5 10.Nb3 Nbd7 11.O-O Nxd3 12.Qxd3 a6 13.Re1 Bb5 14.Qe3 a5 15.Nfd4 Bc4 16.Qg3 g6 17.Bh6 Bxb3 18.axb3 Nc5 19.Qh3 Qb6 20.b4 Nd7 21.Bg7 Rg8 22.Qxh7 O-O-O 23.Rxa5 1-0

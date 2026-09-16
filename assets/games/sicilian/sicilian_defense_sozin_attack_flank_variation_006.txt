@@ -1,0 +1,14 @@
+[Event "Round 6: Czaeczine, Paula - Bardorz, Jana"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-women/round-6/NyU0zehL/Y3olxveh"]
+[Date "2026.07.22"]
+[Round "7.2"]
+[White "Czaeczine, Paula"]
+[Black "Bardorz, Jana"]
+[Result "1-0"]
+[WhiteElo "2057"]
+[BlackElo "2083"]
+[ECO "B87"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 b5 8.Bg5 Be7 9.Qf3 Nfd7 10.Bxe7 Qxe7 11.O-O-O O-O 12.Rhe1 Bb7 13.Qg3 Rd8 14.f4 Nc5 15.f5 b4 16.Na4 Nxe4 17.Rxe4 Bxe4 18.fxe6 d5 19.Nb6 Ra7 20.Bxd5 Bg6 21.exf7+ Bxf7 22.Nf5 Qf6 23.Bxf7+ Rxf7 24.Rxd8+ Qxd8 25.Nh6+ Kf8 26.Nxf7 Qxb6 27.Ne5 Qg1+ 28.Kd2 Qd4+ 29.Nd3 Qb6 30.Qf4+ Ke8 31.Qe4+ Kd8 32.Qxh7 Qf6 33.Qg8+ Kc7 34.Qc4+ Nc6 35.Qf4+ Qxf4+ 36.Nxf4 Kd6 37.Ke3 Ke5 38.g3 g5 39.Nd3+ Kd5 40.h4 gxh4 41.gxh4 Nd4 42.Nxb4+ 1-0

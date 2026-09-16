@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "2.10"]
+[White "Elmi, Saad Abobaker"]
+[Black "Hansen, Torbjorn Ringdal"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2383"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nbd2 g6 7.Ne1 Bh6 8.f3 O-O 9.Nc4 Bxc1 10.Kxc1 Be6 11.Ne3 Rd8 12.a4 Nbd7 13.Nd3 g5 14.a5 c5 15.Be2 Rac8 16.Rd1 h6 17.g3 Nb8 18.Ne5 Rxd1+ 19.Kxd1 Nc6 20.Nxc6 Rxc6 21.Ke1 Rc7 22.b3 Kf8 23.Bd3 Rd7 24.Ke2 Rd4 25.c3 Rd8 26.Bc4 Bxc4+ 27.bxc4 e6 28.Rb1 Rd7 29.e5 Ng8 30.Ng4 h5 31.Nf2 Ne7 32.Ne4 Ng6 33.Rb5 Rc7 34.Nd6 Nxe5 35.f4 gxf4 36.gxf4 Nd7 37.Rxb7 Rxb7 38.Nxb7 Ke7 39.Ke3 f5 40.h4 a6 41.Kf3 Kf6 42.Ke3 Ke7 43.Kf3 Kf6 44.Ke3 Ke7 1/2-1/2

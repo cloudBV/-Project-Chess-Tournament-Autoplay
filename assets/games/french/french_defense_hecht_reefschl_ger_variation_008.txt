@@ -1,0 +1,14 @@
+[Event "Round 8: Werner, Clemens - Rudolf, Matthias, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-8/2E3aV6Aw/5XAE9nJk"]
+[Date "2026.07.24"]
+[Round "8.6"]
+[White "Werner, Clemens"]
+[Black "Rudolf, Matthias, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2232"]
+[BlackElo "2085"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.Bd3 Nb4 6.Bg5 Be7 7.e5 Nd7 8.Bxe7 Nxd3+ 9.Qxd3 Qxe7 10.Nb5 Nb8 11.O-O a6 12.Na3 b5 13.c3 c5 14.dxc5 Qxc5 15.Rfe1 O-O 16.Ng5 g6 17.Qh3 h5 18.Qg3 Qe7 19.Nc2 Nc6 20.h4 Bd7 21.Qd3 Kg7 22.Nd4 b4 23.Rac1 Rfc8 24.Qd2 bxc3 25.Qxc3 Nxd4 26.Qxd4 Qd8 27.g3 Be8 28.Red1 Rc7 29.Qf4 Rac8 30.Rxc7 Qxc7 31.Kh2 Kg8 32.Rd3 Qc4 33.Qxc4 Rxc4 34.Rc3 Rxc3 35.bxc3 Kf8 36.f4 Ke7 37.Kg1 Kd7 38.Kf2 Kc6 39.Ke3 Kc5 40.Nf3 Kc4 41.Kd2 Bd7 42.Kc2 Ba4+ 43.Kd2 Bd7 44.Nd4 Ba4 45.Nf3 1/2-1/2

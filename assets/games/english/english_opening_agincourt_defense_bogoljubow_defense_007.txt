@@ -1,0 +1,14 @@
+[Event "Round 6: Ristic, Luka - Arnaudov, G. Petar"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/mYUqT7l5"]
+[Date "2026.07.09"]
+[Round "6.13"]
+[White "Ristic, Luka"]
+[Black "Arnaudov, G. Petar"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2399"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.c4 Bd6 5.O-O O-O 6.d4 Nc6 7.Bg5 h6 8.Bxf6 Qxf6 9.cxd5 exd5 10.Nc3 Ne7 11.Qb3 Rd8 12.Nb5 c6 13.Nxd6 Qxd6 14.e3 Qc7 15.Rfc1 Qb6 16.Qc3 a5 17.a4 Bf5 18.Nd2 Nc8 19.Ra3 Rd7 20.Rb3 Qd8 21.Qc5 Nd6 22.Rbc3 h5 23.h4 g5 24.hxg5 Qxg5 25.Nf3 Qg7 26.Nh4 Be6 27.Re1 Re8 28.Qxa5 Nf5 29.Nxf5 Bxf5 30.e4 Qxd4 31.Rce3 Bxe4 32.Bxe4 dxe4 33.Qxh5 Rd6 34.Qh4 Rf6 35.R1e2 Kg7 36.Rxe4 Qd1+ 37.Re1 Qxe1+ 38.Rxe1 Rxe1+ 39.Kg2 Re5 40.Qg4+ Kh7 41.Qh4+ Kg7 42.Qb4 c5 43.Qg4+ 1/2-1/2

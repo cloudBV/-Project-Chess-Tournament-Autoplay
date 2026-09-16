@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "3.8"]
+[White "Arpan Das (Jr)"]
+[Black "Vedmediuc, Serghei"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2425"]
+[ECO "B12"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c4 e6 5.Nc3 Nd7 6.cxd5 cxd5 7.h4 h5 8.Bd3 Bxd3 9.Qxd3 Be7 10.Bg5 Nh6 11.Nf3 Nb8 12.Qb5+ Qd7 13.Bxe7 Kxe7 14.Qc5+ Kd8 15.Rc1 Nf5 16.O-O Na6 17.Qa5+ Nc7 18.Rc2 b6 19.Qa3 Re8 20.Rfc1 Re7 21.Nd1 Ne8 22.Ne3 Nh6 23.Rc6 Rb8 24.Ne1 f6 25.Nd3 Nf7 26.f4 Qb7 27.f5 1-0

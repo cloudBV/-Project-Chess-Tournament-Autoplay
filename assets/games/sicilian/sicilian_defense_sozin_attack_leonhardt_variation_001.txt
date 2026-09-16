@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.12"]
+[White "Baghdasaryan, Vahe"]
+[Black "Le, Quang Long"]
+[Result "1/2-1/2"]
+[WhiteElo "2257"]
+[BlackElo "2380"]
+[ECO "B88"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Leonhardt Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.O-O Bd7 8.a4 Be7 9.Be3 O-O 10.f3 Qc7 11.Ndb5 Qb8 12.Qe2 a6 13.Nd4 Ne5 14.Bb3 Rc8 15.g4 Qc7 16.g5 Ne8 17.f4 Nc4 18.f5 Nxe3 19.Qxe3 Qc5 20.fxe6 Bxe6 21.h4 Nc7 22.Rae1 Bxb3 23.cxb3 g6 24.Qf2 Rf8 25.Nd5 Nxd5 26.exd5 Rae8 27.Re4 Qxd5 28.Rf4 Bd8 29.Qf3 Qxf3 30.Nxf3 Re2 31.Rb4 b5 32.axb5 Bb6+ 33.Kh1 Bc5 34.Rf4 axb5 35.Nh2 h5 36.gxh6 Kh7 37.b4 Bb6 38.Rxf7+ Rxf7 39.Rxf7+ Kxh6 40.Rb7 Bd8 41.Rxb5 Bxh4 42.Ng4+ Kg7 43.Rb7+ Be7 44.Nf2 Kf7 45.Nd3 g5 46.b5 Rd2 47.Nb4 Ke6 48.Nc6 Bf6 49.b4 g4 50.Rb8 g3 51.Rg8 Rd5 52.Rg6 Kf7 53.Rxg3 Rxb5 54.Rd3 d5 55.Kg2 Rb6 56.Na7 Ke6 57.b5 d4 58.Ra3 Kd5 59.Ra6 Bd8 60.Rxb6 Bxb6 61.Nc6 d3 62.Nb4+ Kc4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Sanchez Saez, Francisco - Martinez Duany, Lelys Stanley"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/LOpuYv3A"]
+[Date "2026.07.04"]
+[Round "1.10"]
+[White "Sanchez Saez, Francisco"]
+[Black "Martinez Duany, Lelys Stanley"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "2438"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O a5 8.Bc3 Ne4 9.Nfd2 Nxc3 10.Nxc3 c6 11.Qc2 Na6 12.a3 Rb8 13.Rfd1 b5 14.c5 e5 15.dxe5 Nxc5 16.Nde4 Ne6 17.Rac1 Bb7 18.e3 Qb6 19.Nd6 Bxd6 20.exd6 Rbd8 21.b4 Rxd6 22.Ne4 Rdd8 23.Nc5 Nxc5 24.bxc5 Qc7 25.Rd4 Bc8 26.Rcd1 Be6 27.Rh4 h6 28.Rdd4 Qe7 29.Bf1 Rb8 30.Bd3 Qf6 31.Rhf4 Qe5 32.Rh4 Rb7 33.Qe2 b4 34.axb4 Rxb4 35.Rxb4 axb4 36.Rxb4 Qc3 37.Rb1 Qxc5 38.h4 Qc3 39.Kh2 c5 40.Rb6 c4 41.Bb1 Re8 42.Rb7 Qc1 43.Bc2 Kf8 44.Bh7 Ra8 45.Rb1 Qc3 46.Qf3 Qf6 47.Qxf6 gxf6 48.Bc2 Ra2 49.Rc1 Ke7 50.Kg2 Kd6 51.Kf3 Kc5 52.Ke2 Bf5 53.Kd1 Bxc2+ 54.Rxc2 Rxc2 55.Kxc2 d4 56.e4 Kb4 57.g4 d3+ 58.Kd2 Kb3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Ljepic, Andrej - Deveci, Huseyin Said"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/r81ZYdez"]
+[Date "2026.07.05"]
+[Round "3.8"]
+[White "Ljepic, Andrej"]
+[Black "Deveci, Huseyin Said"]
+[Result "1/2-1/2"]
+[WhiteElo "2428"]
+[BlackElo "2250"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a3 h6 8.h3 Be6 9.Nd5 Re8 10.Ba2 Bf8 11.c4 g6 12.Be3 Bg7 13.Qd2 Kh7 14.Nxf6+ Qxf6 15.Ng5+ Kg8 16.Nxe6 Rxe6 17.c5 Re7 18.Rac1 dxc5 19.Rxc5 Rd8 20.Rfc1 Rdd7 21.Bd5 Nd8 22.R5c3 c6 23.Ba2 Kh7 24.Bxa7 Ne6 25.Bxe6 Qxe6 26.Qe2 f5 27.Bb6 h5 28.a4 Bh6 29.Rd1 Qf7 30.a5 Re6 31.f3 Qf6 32.Rc4 Bf8 33.Kh1 Qf7 34.Rf1 Red6 35.Rc3 Rf6 36.Qc2 fxe4 37.dxe4 Bb4 38.Rd3 Rxd3 39.Qxd3 Rd6 40.Qe3 Rd2 1/2-1/2

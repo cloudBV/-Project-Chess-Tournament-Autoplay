@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.9"]
+[White "Romero Pallares, Daniel"]
+[Black "Marrujo Pardo, Mauricio Emmanuel"]
+[Result "0-1"]
+[WhiteElo "2270"]
+[BlackElo "2427"]
+[ECO "A15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 b6 5.g3 Bb7 6.Bg2 c5 7.O-O O-O 8.d4 d6 9.d5 e6 10.dxe6 fxe6 11.Nc3 Qe7 12.Re1 Nc6 13.e3 Rad8 14.Qe2 Ng4 15.Rf1 d5 16.Rad1 dxc4 17.Rxd8 Rxd8 18.Qxc4 Nce5 19.Nxe5 Nxe5 20.Qe2 Bf3 21.Qa6 Qf7 22.Ne2 Bxg2 23.Kxg2 Qf3+ 24.Kg1 Ng4 25.Bxg7 Rd1 26.Qc8+ Kxg7 27.Qc7+ Kf6 28.Qf4+ Qxf4 29.Nxf4 Rxf1+ 30.Kxf1 Nxh2+ 31.Ke2 Ng4 32.f3 Ne5 33.Nh3 Nc6 34.Nf2 Nb4 35.a3 Nc2 36.a4 Nb4 37.Kd2 Nc6 38.Kd3 h5 39.f4 e5 40.Ke4 exf4 41.gxf4 Na5 42.Kd5 Nxb3 43.e4 Ke7 44.Nd3 h4 45.Ne5 h3 46.Ng4 Nd2 47.Nh2 c4 48.Kd4 c3 49.Kxc3 Nxe4+ 50.Kc4 Nc5 51.a5 Kf6 52.Kd4 0-1

@@ -1,0 +1,14 @@
+[Event "Round 4: Papaux, Jérémie - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-biel-hospital-centertristandard/round-4/lczb42MS/42krFbku"]
+[Date "2026.07.10"]
+[Round "4.1"]
+[White "Papaux, Jérémie"]
+[Black "Cherniaev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2102"]
+[BlackElo "2275"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O Nc6 7.Nc3 e5 8.Bg5 h6 9.Bxf6 Qxf6 10.dxe5 dxe5 11.e3 Be6 12.Nd2 Qd8 13.Qe2 f5 14.Bd5 Qe7 15.Nb3 Nd8 16.e4 f4 17.Qg4 Qf7 18.Bxe6 Nxe6 19.f3 h5 20.Qh4 Bf6 21.Qh3 c6 22.g4 Ng5 23.Qg2 hxg4 24.Qxg4 Qe6 25.Qg2 Kg7 26.Rad1 Rad8 27.c5 Rh8 28.Qe2 Be7 29.Kh1 Qf7 30.Rxd8 Rxd8 31.Rd1 Rxd1+ 32.Nxd1 Qe6 33.Nf2 Qd7 34.Kg2 Ne6 35.Qd3 Qxd3 36.Nxd3 Kf6 37.Na5 Nd8 38.Nc4 Nf7 39.b4 Ke6 40.Na5 Nd8 41.Nc4 Nf7 42.a4 a6 43.Na5 Nd8 44.Kh3 Bf6 45.Kg4 Be7 46.h4 Kf6 47.Nc4 Nf7 48.Na5 Nd8 49.h5 gxh5+ 50.Kxh5 Bf8 51.Nc4 Nf7 52.Nf2 Be7 53.Ng4+ Ke6 54.Kg6 Bh4 55.Na5 Nd8 56.Nc4 Nf7 57.Nd6 Nxd6 58.cxd6 b6 59.d7 a5 60.bxa5 bxa5 61.Nf2 c5 62.Nd3 c4 63.Nc5+ Kd6 64.Nb7+ Kxd7 65.Nxa5 c3 66.Nb3 c2 67.Kf5 Kd6 68.a5 Bf2 69.a6 Bd4 70.Kf6 Kc7 71.Ke6 Kb6 72.Kd5 Bb2 73.Ke6 Bc3 74.Kd5 Bb2 75.Ke6 Kxa6 76.Nc5+ Kb5 77.Nd3 Kb6 78.Kd6 Kb7 79.Kd5 Kc7 80.Ke6 Kd8 81.Kd6 Ke8 82.Ke6 Kf8 83.Kf6 Kg8 84.Ke6 Kg7 0-1

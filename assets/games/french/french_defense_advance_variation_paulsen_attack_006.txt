@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Praggnanandhaa R"]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2690"]
+[ECO "C02"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Be2 cxd4 7.cxd4 Nh6 8.Bd3 Nf5 9.Bxf5 exf5 10.Nc3 Be6 11.h4 h6 12.Ne2 Be7 13.O-O O-O 14.Nf4 a5 15.Re1 a4 16.Re3 Rfc8 17.Rd3 Rc7 18.a3 Qb5 19.Bd2 Rac8 20.b3 axb3 21.Qxb3 Qa6 22.Qb2 Nd8 23.Rb1 Ra8 24.Bb4 Bxb4 25.Qxb4 Nc6 26.Qb6 Qxb6 27.Rxb6 Ra4 28.h5 Kf8 29.g3 Ke7 30.Rb5 Rd7 31.Kf1 Kd8 32.Ke2 Kc8 33.Rc3 Kd8 34.Kd3 Na5 35.Nd2 Rc7 36.Rxc7 Kxc7 37.Nb1 Nc6 38.Nxd5+ Bxd5 39.Rxd5 Kc8 40.Kc3 b6 41.f4 Kc7 42.Rd6 Na5 43.Kb2 Nc4+ 44.Kb3 b5 45.Rd5 Kc6 46.Rc5+ Kb6 47.Rc8 Na5+ 48.Kc3 Nc4 49.d5 Nxa3 50.Rc6+ Kb7 51.Nd2 b4+ 52.Kb3 Ra5 53.Rd6 Nb5 54.Rd7+ Kc8 55.Rxf7 Nd4+ 56.Kc4 1-0

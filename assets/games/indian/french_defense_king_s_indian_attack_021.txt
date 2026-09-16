@@ -1,0 +1,15 @@
+[Event "Round 9: Xie, Jiaxiang - Akhilbay, Imangali"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-9/L65Z31Eb/21hFgK6h"]
+[Date "2026.07.24"]
+[Round "9.5"]
+[White "Xie, Jiaxiang"]
+[Black "Akhilbay, Imangali"]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2357"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Be7 5.g3 a5 6.Bg2 a4 7.O-O c5 8.e5 Nfd7 9.Re1 Nc6 10.Nf1 Qc7 11.Bf4 b5 12.Ne3 Qb6 13.h4 Bb7 14.Rb1 O-O 15.Ng4 Rfc8 16.h5 h6 17.c3 Bf8 18.Qd2 Qd8 19.Ne3 Nb6 20.Nc2 d4 21.g4 Nd5 22.Bg3 dxc3 23.bxc3 b4 24.c4 Nc3 25.Ra1 Qd7 26.g5 Rd8 27.Bf1 Ne7 28.Nh4 Nf5 29.Nxf5 exf5 30.f4 hxg5 31.fxg5 Qc6 32.Qh2 b3 33.Na3 b2 34.Rab1 Nxb1 35.Rxb1 Be7 36.Rxb2 Bxg5 37.Bg2 Be3+ 38.Kf1 Qd7 39.Bxb7 Qxd3+ 40.Qe2 Qxa3 41.Bxa8 Rxa8 42.e6 fxe6 43.Bb8 Kh8 44.Kg2 Qc3 45.Rb6 Qd2 46.Qxd2 Bxd2 47.Be5 Kh7 48.Rxe6 Bh6 49.Rc6 Rd8 50.Rxc5 Rd2+ 51.Kf3 Rxa2 52.Ra5 Ra3+ 53.Kg2 f4 54.Bd4 Rd3 55.Bf2 a3 56.c5 f3+ 57.Kg3 Bd2 58.Ra4 Bc3 59.Kf4 Bb2 60.c6 Rc3 61.Ra6 Kh6 62.c7+ Kxh5 63.Ra5+ Kh6 64.Rc5 g5+ 65.Kf5 Rxc5+ 66.Bxc5 a2 67.c8=Q a1=Q 68.Qc6+ Bf6 69.Qxf6+ Qxf6+ 70.Kxf6 g4 71.Bf2 Kh5 72.Kf5 g3 73.Bxg3 f2 74.Bxf2 1/2-1/2

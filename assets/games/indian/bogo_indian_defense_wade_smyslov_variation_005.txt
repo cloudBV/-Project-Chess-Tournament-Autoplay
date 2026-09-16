@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.34"]
+[White "Bravo De La Vega, Alvaro"]
+[Black "Garcia Acin, Pablo"]
+[Result "1/2-1/2"]
+[WhiteElo "2268"]
+[BlackElo "2088"]
+[ECO "E11"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.g3 O-O 6.Bg2 d5 7.Qc2 c5 8.dxc5 d4 9.O-O Bxc5 10.Ne5 Bd6 11.Nd3 e5 12.e4 Qc7 13.Rc1 b6 14.c5 Ba6 15.Na3 Bxd3 16.Qxd3 Bxc5 17.Nb5 Qe7 18.Bg5 h6 19.Bxf6 Qxf6 20.Nc7 Ra7 21.Nd5 Qd6 22.Qb5 Na6 23.Bf1 Nc7 24.Nxc7 Rxc7 25.Bc4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Ammar, Sedrani - Steiners, Emils"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/2UYLUvKL"]
+[Date "2026.07.22"]
+[Round "2.9"]
+[White "Ammar, Sedrani"]
+[Black "Steiners, Emils"]
+[Result "1/2-1/2"]
+[WhiteElo "2238"]
+[BlackElo "2115"]
+[ECO "B33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.c4 Be7 10.Bd3 O-O 11.O-O f5 12.f3 Nd7 13.Kh1 a6 14.Nc3 Bg5 15.b4 b6 16.Qe2 Bxc1 17.Raxc1 Bb7 18.Bc2 Rc8 19.Bb3 Re8 20.Rc2 Kh8 21.Rfc1 Qe7 22.Qe3 h6 23.a3 Qg5 24.Qxg5 hxg5 25.Ba4 Rc7 26.Bxd7 Rxd7 27.Na4 b5 28.Nb6 Rdd8 29.cxb5 axb5 30.Rc7 Ba8 31.Rf7 Rb8 32.Nxa8 Rxa8 33.Rxf5 Rxa3 34.h3 Rd3 35.Rc7 Kh7 36.Rxg5 Rg8 37.Kh2 Rxd5 38.Kg3 Kh6 39.h4 Rd4 40.Rd7 g6 41.Rg4 Rd2 42.Rb7 Rd5 43.Re7 Rd2 44.Kh3 Rd3 45.Re6 Rg7 46.Rg5 Rd4 47.g4 Kh7 48.Kg3 Rd3 49.h5 gxh5 50.Rxh5+ Kg8 51.Rhh6 Rf7 52.Rhg6+ Kf8 53.Kh4 Rdxf3 54.Rxd6 e4 55.Rd8+ Ke7 56.Rd5 e3 57.Rxb5 R3f4 58.Re5+ Kf8 59.b5 Rb4 60.b6 Re7 61.Rxe7 Kxe7 62.Kg3 Re4 63.Kf3 e2 64.Kxe4 e1=Q+ 65.Kf5 Qf2+ 66.Kg5 Qe3+ 67.Kh4 Kf7 68.Rc6 Qe1+ 69.Kg5 Qd2+ 70.Kh4 Qb2 71.Rc7+ Ke6 72.Rc6+ Kd5 73.Rg6 Ke4 74.Kg5 Qd2+ 75.Kf6 Qd7 76.Kg5 Qf7 77.Kh6 Kf4 78.g5 Qf8+ 79.Kh7 Kg4 80.b7 Qf7+ 81.Rg7 Qh5+ 82.Kg8 Qe8+ 83.Kh7 Kh5 84.g6 Qf8 85.Rd7 Qh6+ 86.Kg8 Qxg6+ 87.Kf8 Qf5+ 88.Ke8 Qe5+ 89.Kd8 Qb8+ 90.Ke7 Qe5+ 91.Kd8 Qb8+ 92.Ke7 Qe5+ 1/2-1/2

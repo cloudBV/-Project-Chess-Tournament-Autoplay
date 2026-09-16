@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/hYzrMFiQ"]
+[Date "2026.07.13"]
+[Round "1.6"]
+[White "Volokitin, Andrei"]
+[Black "Carnicelli, Valerio"]
+[Result "1/2-1/2"]
+[WhiteElo "2617"]
+[BlackElo "2436"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Bb7 9.Be2 c5 10.O-O Qc7 11.Nd6+ Bxd6 12.exd6 Qc6 13.f3 e5 14.c4 Nf4 15.Bxf4 exf4 16.Qd2 O-O 17.Qxf4 Rae8 18.Bd3 Re6 19.Bf5 Qxd6 20.Qxd6 Rxd6 21.Rfd1 Rb6 22.Bxd7 Rxb2 23.Rab1 Rxb1 24.Rxb1 Ba6 25.Bb5 Bc8 26.Rb3 a6 27.Bc6 Be6 28.Bd5 Bxd5 29.cxd5 Rd8 30.Rb6 f6 31.d6 a5 32.a4 Kf7 33.Rc6 c4 34.Rxc4 Rxd6 35.Rc5 Rd1+ 36.Kf2 Rd2+ 37.Kg3 Ra2 38.Rxa5 g5 39.Ra8 Kg6 40.h4 h5 41.a5 Ra4 42.a6 gxh4+ 43.Kh3 Kg5 44.Rg8+ Kf5 45.Ra8 Kg5 46.a7 Kf5 47.Rh8 Rxa7 48.Rxh5+ Kg6 49.Rxh4 Ra5 50.Rb4 Rc5 51.f4 Ra5 52.g4 Ra6 53.Kh4 Ra7 54.Rb6 Kg7 55.Kh5 Ra5+ 56.f5 Ra7 57.Rc6 Rb7 58.Ra6 Rc7 59.g5 fxg5 60.Kxg5 Rb7 61.Rg6+ Kf8 62.Rh6 Rg7+ 63.Kf6 Rf7+ 64.Ke5 Re7+ 65.Re6 Ra7 66.Kf6 Rf7+ 67.Kg5 Rg7+ 68.Rg6 Ra7 69.Rf6+ Kg7 70.Rh6 Ra1 71.f6+ Kg8 72.Rg6+ Kf7 73.Rg7+ Kf8 74.Kg6 Rg1+ 75.Kf5 Rxg7 76.fxg7+ Kxg7 77.Ke4 1/2-1/2

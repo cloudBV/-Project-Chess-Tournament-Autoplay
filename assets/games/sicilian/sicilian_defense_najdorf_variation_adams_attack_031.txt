@@ -1,0 +1,14 @@
+[Event "Round 5: Angst, Oliver - Arsenie, Cristian Marc"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/nyKKbLRG"]
+[Date "2026.07.17"]
+[Round "5.18"]
+[White "Angst, Oliver"]
+[Black "Arsenie, Cristian Marc"]
+[Result "0-1"]
+[WhiteElo "2121"]
+[BlackElo "2300"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 g6 7.Be3 Bg7 8.Qd2 Nbd7 9.g4 b5 10.f3 Bb7 11.a3 Ne5 12.h4 h5 13.g5 Nxf3+ 14.Nxf3 Nxe4 15.Nxe4 Bxe4 16.Bg2 Bxb2 17.Bd4 Bxa1 18.Bc3 Bb2 19.Bxb2 e5 20.Ba1 Bxf3 21.Qe3 O-O 22.Bxf3 0-1

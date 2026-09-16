@@ -1,0 +1,14 @@
+[Event "Open: Osborne, Marcus E - Pedersen, Carsten"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/KjWRLXrb"]
+[Date "2026.07.04"]
+[Round "1.14"]
+[White "Osborne, Marcus E"]
+[Black "Pedersen, Carsten"]
+[Result "1-0"]
+[WhiteElo "2115"]
+[BlackElo "2009"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Taimanov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Nc6 4.e3 Bb4 5.Bd3 O-O 6.Ne2 d6 7.a3 Bxc3+ 8.Nxc3 e5 9.d5 Nb8 10.e4 h6 11.O-O c6 12.b4 a5 13.Bb2 Na6 14.Qb3 Nh5 15.Ne2 Bg4 16.c5 Re8 17.f3 Bc8 18.dxc6 dxc5 19.Bc4 Be6 20.b5 Nb8 21.Rfd1 Qb6 22.cxb7 Ra7 23.Nc3 Rxb7 24.Nd5 Bxd5 25.Rxd5 Qf6 26.Rad1 Nf4 27.Rd6 Qe7 28.g3 Nh5 29.Bd5 1-0

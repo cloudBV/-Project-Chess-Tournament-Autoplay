@@ -1,0 +1,14 @@
+[Event "Round 8: Nikcevic, Nebojsa - Djukic, Nikola"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/OY8Jdbzj"]
+[Date "2026.07.10"]
+[Round "8.12"]
+[White "Nikcevic, Nebojsa"]
+[Black "Djukic, Nikola"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2470"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.h3 O-O 6.Bg5 c5 7.d5 e6 8.Bd3 exd5 9.exd5 Nbd7 10.Nf3 Re8+ 11.Kf1 a6 12.a4 Ne5 13.Nxe5 Rxe5 14.Qd2 Qf8 15.Bf4 Re8 16.g4 Nd7 17.Kg2 Ne5 18.Be2 h6 19.Bg3 f5 20.f4 Nd7 21.gxf5 gxf5 22.Bh5 Re7 23.Rhe1 Nf6 24.Rxe7 Qxe7 25.Re1 Ne4 26.Nxe4 fxe4 27.Bg6 Qf6 28.Bxe4 b5 29.b3 bxa4 30.bxa4 Bd7 31.Bc2 Rb8 32.Qd3 Rb2 33.Re2 Bf5 34.Qd1 Qd4 35.Qxd4 cxd4 36.Bd3 Rxe2+ 37.Bxe2 d3 38.Bd1 d2 39.Bf2 Bc3 40.c5 Be4+ 41.Kg3 dxc5 42.d6 c4 43.d7 Ba5 44.Bd4 Bc6 45.Bc3 Bc7 46.Bxd2 Bxd7 47.Be2 Be6 48.a5 Kf7 49.Bf3 Bd8 50.Be4 Ke7 51.Bb4+ Kd7 52.f5 Bf7 53.Bb7 Bf6 54.Bxa6 c3 55.Bb5+ Kc7 56.Ba4 Bc4 57.Bc2 Kc6 58.Bf8 h5 59.Kf4 Kb5 60.Bd6 Kxa5 61.Be5 Bxe5+ 62.Kxe5 Kb4 63.Kd4 h4 64.f6 Bf7 65.Bd1 Bg8 66.Ke5 Ka3 67.Kf5 Kb2 68.Kg6 c2 69.Bxc2 Kxc2 70.Kg5 Kd3 71.Kxh4 Ke4 72.Kg5 Bf7 73.h4 Ke5 74.h5 Bxh5 75.Kxh5 Kxf6 1/2-1/2

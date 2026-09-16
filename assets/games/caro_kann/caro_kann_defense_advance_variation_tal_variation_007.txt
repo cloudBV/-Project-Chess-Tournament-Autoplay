@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.6"]
+[White "Prraneeth Vuppala"]
+[Black "Rostomyan, Mikayel"]
+[Result "1-0"]
+[WhiteElo "2502"]
+[BlackElo "2293"]
+[ECO "B12"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.c3 e6 8.a4 Qa6 9.Qd1 Ne7 10.b4 b6 11.Qf3 c5 12.b5 Qb7 13.Ne2 Nf5 14.Bg5 a6 15.Na3 cxd4 16.Nxd4 Nxd4 17.cxd4 Bb4+ 18.Kf1 axb5 19.Nxb5 O-O 20.Rh3 Rc8 21.Kg1 Qd7 22.Rg3 Bf8 23.Bf6 g6 24.Qxh5 Bg7 25.Qg5 Rxa4 26.Rxa4 Qxb5 27.Ra8 Qc6 28.Bxg7 Kxg7 29.Ra7 Qc1+ 30.Qxc1 Rxc1+ 31.Kh2 Nc6 32.Rc7 Rc4 33.Rb3 Nxe5 34.Rxc4 Nxc4 35.f3 Kf6 36.g4 Kg7 37.Kg3 Kh7 38.Kf2 Kg7 39.Ke2 Kf6 40.Kd3 Ke7 41.Rb4 Kd6 42.Rxc4 dxc4+ 43.Kxc4 e5 44.h5 1-0

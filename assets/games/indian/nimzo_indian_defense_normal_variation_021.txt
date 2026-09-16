@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "11.1"]
+[White "Kawka, Milena"]
+[Black "Piddubna, Bozhena"]
+[Result "0-1"]
+[WhiteElo "2032"]
+[BlackElo "2193"]
+[ECO "E46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 c5 6.a3 Bxc3 7.Bxc3 Ne4 8.Rc1 b6 9.Bd3 Nxc3 10.Rxc3 Bb7 11.Nf3 Qf6 12.d5 exd5 13.cxd5 d6 14.O-O Nd7 15.Bc2 a6 16.Re1 Rfe8 17.Qd2 b5 18.e4 g6 19.h3 Re7 20.Bb1 Rae8 21.Rce3 Nb6 22.Bd3 Nd7 23.Bb1 Kg7 24.Nh2 h5 25.Rf3 Qd4 26.Qxd4+ cxd4 27.Rd1 Ne5 28.Rb3 Rc7 29.f4 Nd7 30.Rf3 Nc5 31.Rxd4 Na4 32.b3 Rc1+ 33.Rf1 Rxf1+ 34.Nxf1 Nc3 35.Bd3 f5 36.exf5 gxf5 37.Bxf5 Ne2+ 38.Kf2 Nxd4 39.Bd7 Re7 40.Bc6 Bxc6 41.dxc6 Nxc6 42.Ne3 Nd4 43.Nd5 Re2+ 44.Kg3 Ra2 0-1

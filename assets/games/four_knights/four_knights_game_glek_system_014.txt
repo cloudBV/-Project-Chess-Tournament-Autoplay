@@ -1,0 +1,14 @@
+[Event "Round 11: Schweizer, Simon - El-Mais, Ibaa"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/75c2U987"]
+[Date "2026.07.19"]
+[Round "11.19"]
+[White "Schweizer, Simon"]
+[Black "El-Mais, Ibaa"]
+[Result "1-0"]
+[WhiteElo "2182"]
+[BlackElo "2012"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Glek System"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 Nxe4 5.Nxe4 d5 6.Nc3 d4 7.Bg2 dxc3 8.bxc3 Bg4 9.Qe2 Qd5 10.h3 Be6 11.O-O f6 12.d4 O-O-O 13.Re1 Bd6 14.Nxe5 fxe5 15.Bxd5 Bxd5 16.Be3 Rhf8 17.c4 Bf3 18.Qf1 exd4 19.Bg5 Rd7 20.h4 h6 21.Bd2 Rdf7 22.a4 Bg4 23.a5 Bxg3 24.fxg3 Rxf1+ 25.Rxf1 Rd8 26.Rf7 g6 27.Bxh6 Bf5 28.a6 bxa6 29.Rxa6 Ne5 30.Rg7 Bxc2 31.Rxa7 Be4 32.Rgxc7+ Kb8 33.Bf4 Re8 34.Re7 1-0

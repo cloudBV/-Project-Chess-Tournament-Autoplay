@@ -1,0 +1,15 @@
+[Event "Round 5: Assylkhan, Asiya - Mu, Wangxueyao"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g16/round-5/b72aGYHQ/IEOFpNcd"]
+[Date "2026.07.19"]
+[Round "5.17"]
+[White "Assylkhan, Asiya"]
+[Black "Mu, Wangxueyao"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2055"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.Nc3 Bf5 5.g3 Bg7 6.Bg2 O-O 7.O-O c6 8.Nh4 Bd7 9.e4 e5 10.Be3 Ng4 11.Nf3 Nxe3 12.fxe3 a5 13.Qe2 Na6 14.Rad1 Qc7 15.Kh1 Rae8 16.Qd2 Bc8 17.a3 Bh6 18.Qd3 f5 19.Nh4 f4 20.exf4 exf4 21.gxf4 Bxf4 22.Ne2 Bh6 23.Qg3 Kh8 24.Rde1 Qe7 25.Nf3 Qe6 26.Qh4 Kg7 27.e5 dxe5 28.Nxe5 Qe7 29.Qg3 Qg5 30.Qb3 Qd2 31.c5 Nxc5 32.dxc5 Rxe5 33.Rxf8 Qxe1+ 34.Rf1 Qxe2 35.Qf7+ Kh8 36.Rf2 Qe3 37.Rf3 Qe1+ 38.Rf1 Qe2 39.Rf2 Qd1+ 40.Rf1 Re1 41.Qf6+ Bg7 42.Qf2 Rxf1+ 43.Bxf1 Bh3 0-1

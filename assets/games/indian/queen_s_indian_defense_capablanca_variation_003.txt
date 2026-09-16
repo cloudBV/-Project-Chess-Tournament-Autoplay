@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/BTItN4Pt"]
+[Date "2026.07.11"]
+[Round "2.10"]
+[White "Rogule, Laura"]
+[Black "Ozolins,Kristaps"]
+[Result "1-0"]
+[WhiteElo "2274"]
+[BlackElo "2030"]
+[ECO "E16"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 c5 7.d5 exd5 8.Nh4 O-O 9.Nc3 Re8 10.Nf5 Ba6 11.Nxd5 Nc6 12.Nde3 g6 13.Bxb4 cxb4 14.Nd6 Re6 15.Qd2 Qc7 16.Rd1 Bb7 17.O-O a5 18.Nb5 Qd8 19.Nd5 Rc8 20.Nf4 Re7 21.Nd6 Rb8 22.Nxb7 Rxb7 23.Bxc6 1-0

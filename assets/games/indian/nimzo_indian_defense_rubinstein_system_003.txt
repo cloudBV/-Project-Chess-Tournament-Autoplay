@@ -1,0 +1,14 @@
+[Event "Round 5: Milanovic, Danilo - Lauda, Alexandr"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/KZMQLsVh"]
+[Date "2026.07.07"]
+[Round "5.25"]
+[White "Milanovic, Danilo"]
+[Black "Lauda, Alexandr"]
+[Result "1-0"]
+[WhiteElo "2364"]
+[BlackElo "2224"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Bxc3+ 5.bxc3 c5 6.Bd3 d6 7.Ne2 Nc6 8.e4 e5 9.O-O O-O 10.d5 Ne7 11.Ng3 h6 12.Be3 Ng6 13.f3 Nf4 14.Bc2 g5 15.Nf5 Bxf5 16.exf5 Nd7 17.g3 f6 18.gxf4 exf4 19.Bd2 Ne5 20.Qe2 Qd7 21.Rfb1 Rf7 22.Rb5 Rg7 23.Kh1 Qf7 24.Rab1 b6 25.Rg1 Qh5 26.Be4 Kh8 27.Rbb1 Rag8 28.Rbf1 Qh3 29.Rg2 Qh5 30.Rfg1 Qe8 31.Bc2 Qh5 32.Be4 Qe8 33.Bc2 Qh5 34.Bd1 Qh3 35.Qe4 Qh5 36.h3 Re8 37.Rh2 Ree7 38.Qe2 Qe8 39.Qf1 Qc8 40.Bc2 Qa6 41.h4 Rh7 42.Bb3 Qc8 43.Bc1 Reg7 44.Qh3 Qe8 45.Qf1 Re7 46.Bc2 Reg7 47.Rgg2 Re7 48.Rg1 Reg7 49.Rh3 Re7 50.Rh2 Reg7 51.Bd1 Re7 52.Rh3 Reg7 53.Rg2 Re7 54.Re2 Nxc4 55.Re6 b5 56.Be2 Qg8 57.Rh2 Ne5 58.Bxb5 Rb7 59.Re8 1-0

@@ -1,0 +1,14 @@
+[Event "Round 8: Lopez Rayo, Santiago - Arrieta Hernandez, Cristian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-8/SeFM0pWE/Wy4xllr4"]
+[Date "2026.07.11"]
+[Round "8.1"]
+[White "Lopez Rayo, Santiago"]
+[Black "Arrieta Hernandez, Cristian"]
+[Result "0-1"]
+[WhiteElo "2306"]
+[BlackElo "2464"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Paulsen Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 a6 4.Nf3 Nf6 5.Bd3 c5 6.dxc5 dxe4 7.Nxe4 Nxe4 8.Bxe4 Qxd1+ 9.Kxd1 Bxc5 10.Ke2 f5 11.Bd3 Nc6 12.Bf4 O-O 13.Ne5 Bd6 14.Nxc6 Bxf4 15.Ne7+ Kf7 16.Nxc8 Raxc8 17.g3 Bb8 18.Rhe1 Kf6 19.f4 g5 20.Kf3 gxf4 21.gxf4 Rfd8 22.Rf1 Rd4 23.Ke3 Ba7 24.Kf3 Rg8 25.h3 Rb4 26.b3 Bb8 27.Bc4 Rb6 28.Rg1 Rg6 29.Rad1 Rc6 30.Rxg6+ hxg6 31.Rd8 Bd6 32.Re8 Be7 33.Rb8 b5 34.Bd3 g5 35.fxg5+ Kxg5 36.Rg8+ Kf6 37.Rh8 Kg7 38.Re8 Kf7 39.Rh8 Bf6 40.Ra8 Kg6 41.Rg8+ Kh7 42.Re8 Kg7 43.Kg3 Kf7 44.Ra8 Kg6 45.h4 Be5+ 46.Kf3 Bg7 47.Rg8 Rc7 48.Re8 Kf6 49.Ra8 Rc6 50.Ra7 Bf8 51.a4 e5 52.axb5 e4+ 53.Kg2 exd3 54.Rxa6 Rxa6 55.bxa6 dxc2 56.a7 c1=Q 57.a8=Q Qc2+ 58.Kf1 Qd1+ 59.Kg2 Qe2+ 60.Kh3 Qg4+ 61.Kh2 Bd6+ 62.Kh1 Qh3+ 0-1

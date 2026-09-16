@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.08"]
+[Round "4.3"]
+[White "Jing, Andrew"]
+[Black "Petkov, Momchil"]
+[Result "0-1"]
+[WhiteElo "2298"]
+[BlackElo "2528"]
+[ECO "B51"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.a4 Nf6 5.Nc3 a6 6.Be2 b6 7.d4 cxd4 8.Qxd4 Bb7 9.O-O e6 10.Rd1 Qc7 11.h3 Be7 12.b3 Rc8 13.Bb2 Qc5 14.Rac1 Qxd4 15.Rxd4 Ne5 16.Ne1 g5 17.Rcd1 Rg8 18.Nf3 h5 19.Rb4 Nfd7 20.Nxe5 dxe5 21.Rc4 Rxc4 22.Bxc4 Bc5 23.Kf1 Bd4 24.Re1 Nc5 25.Re2 Ke7 26.Bd3 Rd8 27.Rd2 Rc8 28.Ke2 a5 29.Bb5 Nxe4 30.Nxe4 Bxe4 31.f3 Bxc2 32.Bxd4 exd4 33.Bc4 d3+ 34.Bxd3 Bxb3 35.Rb2 Bxa4 36.Rxb6 Bc2 37.Bb5 Rc5 38.Rb7+ Kf6 39.Be8 Bg6 40.g4 h4 41.Ra7 Rc2+ 42.Ke3 Rh2 43.Rxa5 Rxh3 44.Bc6 Rh2 45.Ra3 Rc2 46.Ba8 Rc4 47.Ra5 Rb4 48.Kf2 Bd3 49.Ke3 Bb5 50.Be4 Rb3+ 51.Kf2 Rb2+ 52.Kg1 Bc4 53.Rc5 Ba2 54.Bc6 Rd2 55.Be8 Ke7 56.Bxf7 Kxf7 57.Rxg5 Bd5 58.Rh5 Bxf3 59.Rxh4 Rg2+ 60.Kf1 Rxg4 0-1

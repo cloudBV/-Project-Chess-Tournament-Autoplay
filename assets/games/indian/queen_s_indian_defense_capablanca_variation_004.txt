@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.04.27"]
+[Round "7.1"]
+[White "Cruz, Cristhian"]
+[Black "Castillo Dalmau, Albert"]
+[Result "1/2-1/2"]
+[WhiteElo "2537"]
+[BlackElo "2329"]
+[ECO "E16"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.O-O d6 9.Re1 Nbd7 10.Nc3 Ne4 11.Nxe4 Bxe4 12.Qf4 Nf6 13.Rad1 Qe7 14.Bf1 Rfe8 15.Qc1 c5 16.dxc5 dxc5 17.Ne5 Rad8 18.Qf4 Ba8 19.Bg2 Rxd1 20.Rxd1 Rd8 21.Rxd8+ Qxd8 22.Bxa8 Qxa8 23.Qd2 h5 24.f3 Qb8 25.Nc6 Qc7 26.Qd8+ Qxd8 27.Nxd8 Nd7 28.Nc6 a5 29.e4 f6 30.f4 Kf7 31.Kf2 g6 32.Ke3 e5 33.h4 Ke6 34.Na7 Kd6 35.Nb5+ Kc6 36.Nc3 Kd6 37.Nd5 Ke6 38.Nc7+ Kd6 39.Nd5 Ke6 40.b3 f5 41.fxe5 Kxe5 42.exf5 Kxf5 43.Kf3 Ne5+ 44.Kg2 Nd7 45.Kf3 Ne5+ 46.Ke3 Nd7 47.Ne7+ Kf6 48.Nd5+ Kf5 49.Kf3 1/2-1/2

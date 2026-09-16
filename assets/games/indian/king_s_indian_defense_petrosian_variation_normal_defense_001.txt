@@ -1,0 +1,14 @@
+[Event "Round 7: Hernandez Jimenez, Jeronimo - Figueroa Rincon, Cesar Fabian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-7/orI7JSma/JXDbiNtP"]
+[Date "2026.07.11"]
+[Round "7.10"]
+[White "Hernandez Jimenez, Jeronimo"]
+[Black "Figueroa Rincon, Cesar Fabian"]
+[Result "1-0"]
+[WhiteElo "2207"]
+[BlackElo "2014"]
+[ECO "E93"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Normal Defense"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Be2 O-O 6.Nf3 e5 7.d5 Nbd7 8.Be3 Ne8 9.Nd2 f5 10.f3 Nef6 11.b4 a5 12.a3 Nh5 13.g3 b6 14.Bf2 Bh6 15.Nb3 axb4 16.axb4 Bb7 17.O-O f4 18.g4 Nhf6 19.Rxa8 Qxa8 20.Qa1 Bg7 21.c5 bxc5 22.bxc5 dxc5 23.Nxc5 Nxc5 24.Bxc5 Rd8 25.Rb1 Bf8 26.Bxf8 Kxf8 27.Qb2 Rb8 28.Nd1 Qa7+ 29.Kg2 Nd7 30.Qc3 Qc5 31.Rc1 Qxc3 32.Rxc3 Rc8 33.Nb2 Nb6 34.Nd3 Ba6 35.Kf2 Bxd3 36.Bxd3 Ke7 37.Rc6 Kd7 38.g5 Rf8 39.Bb5 Kd8 40.Re6 Rg8 41.Rxe5 Nd7 42.Bxd7 Kxd7 43.Re6 Rf8 44.Kg2 Ra8 45.Kh3 Ra3 46.Kg4 Ra2 47.h4 Rh2 48.Rf6 Rg2+ 49.Kxf4 Rh2 50.Kg3 Rh1 51.Rf7+ Kd6 52.Rxh7 Ke5 53.Rxc7 Rh3+ 54.Kxh3 1-0

@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-4/R4lqW8C9/kjuhKBGI"]
+[Date "2026.07.02"]
+[Round "4.9"]
+[White "Truter, Maximilian"]
+[Black "Vecillas Rey, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2193"]
+[BlackElo "2165"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.h3 Bxf3 9.Qxf3 g6 10.d3 Bg7 11.Nd2 O-O 12.Qd1 e6 13.Nf3 d5 14.e5 Nd7 15.d4 b5 16.Bg5 Qb6 17.Qd2 Rfc8 18.Rad1 b4 19.Qf4 bxc3 20.bxc3 cxd4 21.cxd4 Na5 22.Bh6 Qd8 23.Nh2 Bxh6 24.Qxh6 Qf8 25.Qf4 Rc3 26.Qd2 Ra3 27.Rc1 Rc8 28.Bxa6 Nc4 29.Bxc4 dxc4 30.Re3 Nb6 31.Ng4 Nd5 32.Rxa3 Qxa3 33.Qh6 Qf8 34.Nf6+ Nxf6 35.Qxf8+ Kxf8 36.exf6 Ke8 37.Kf1 Kd7 38.Ke2 Kd6 39.Ke3 1/2-1/2

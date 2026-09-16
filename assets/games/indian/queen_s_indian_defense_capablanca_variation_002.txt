@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.4"]
+[White "Stanford, Sheila Barth"]
+[Black "Aamodt, Peder Marcus"]
+[Result "1-0"]
+[WhiteElo "2149"]
+[BlackElo "2178"]
+[ECO "E16"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 c5 7.dxc5 Bxc5 8.O-O O-O 9.Nc3 Ne4 10.Nxe4 Bxe4 11.Bf4 d5 12.cxd5 Qxd5 13.Qxd5 Bxd5 14.Ne5 Bxg2 15.Kxg2 f6 16.Nd3 Nd7 17.Nxc5 Nxc5 18.b4 Na6 19.a3 e5 20.Be3 Kf7 21.Rfd1 Ke6 22.Ra2 Rad8 23.Rc1 Rc8 24.Rac2 Rxc2 25.Rxc2 Rf7 26.b5 Rc7 27.Rb2 Nc5 28.Rb4 Nb7 29.Kf1 Nd6 30.Ke1 Rc4 31.Rb3 Rc2 32.Kd1 Rc4 33.f3 f5 34.Bd2 Rc5 35.a4 Rc4 36.Bb4 f4 37.gxf4 exf4 38.e4 Nf7 39.a5 Ne5 40.axb6 axb6 41.Be1 g5 42.h3 Ra4 43.Bf2 Ra1+ 44.Ke2 Nc4 45.Rc3 Ra2+ 46.Kf1 Ra4 47.Bxb6 Rb4 48.Bf2 Rb1+ 49.Kg2 Rb4 50.h4 h6 51.hxg5 hxg5 52.Kh3 Ne5 53.b6 Kf6 54.Bc5 Rb5 55.Bd4 Ke6 56.Bxe5 Kxe5 57.Kg4 Rxb6 58.Rd3 Rg6 59.Rd5+ Ke6 60.Rxg5 Rf6 61.Rf5 Rg6+ 62.Kxf4 Rg1 63.Ra5 Rf1 64.Ra6+ Ke7 65.Kg4 Kf7 66.f4 Ke7 67.Kf5 Rh1 68.Ra7+ Ke8 69.e5 Rh5+ 70.Kg6 Rh1 71.f5 Rh2 72.f6 Rf2 73.f7+ Kd8 74.Ra8+ Ke7 75.Re8+ 1-0

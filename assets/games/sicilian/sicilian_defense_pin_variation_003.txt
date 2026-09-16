@@ -1,0 +1,14 @@
+[Event "Round 8: Kacprzak, Karol - Celik, Hasan Huseyin"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/1DzwdC08"]
+[Date "2026.07.10"]
+[Round "8.7"]
+[White "Kacprzak, Karol"]
+[Black "Celik, Hasan Huseyin"]
+[Result "1/2-1/2"]
+[WhiteElo "2345"]
+[BlackElo "2490"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Pin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nb5 O-O 7.a3 Bxc3+ 8.Nxc3 d5 9.exd5 exd5 10.Bd3 Re8+ 11.Ne2 Nc6 12.O-O Qb6 13.h3 h6 14.Rb1 d4 15.c3 dxc3 16.Nxc3 Be6 17.Be3 Qa5 18.Qc2 Ne5 19.Be2 Rac8 20.Bd4 Nfd7 1/2-1/2

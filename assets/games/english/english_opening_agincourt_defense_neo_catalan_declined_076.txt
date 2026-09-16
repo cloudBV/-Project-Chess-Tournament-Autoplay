@@ -1,0 +1,15 @@
+[Event "Round 8: Torun, Kagan - Ozcan, Alp Orcun"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/b7HTDrNt"]
+[Date "2026.07.18"]
+[Round "8.27"]
+[White "Torun, Kagan"]
+[Black "Ozcan, Alp Orcun"]
+[Result "1-0"]
+[WhiteElo "2117"]
+[BlackElo "2027"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 d4 7.Bb2 c5 8.e3 Nc6 9.exd4 cxd4 10.Re1 Re8 11.d3 Bc5 12.Ne5 Nxe5 13.Rxe5 Bd6 14.Re1 e5 15.Nd2 Bg4 16.Qc2 Qd7 17.a3 a5 18.Rac1 Rac8 19.Nf3 Qf5 20.Nh4 Qd7 21.Qd2 b6 22.Nf3 h6 23.Rc2 Rc7 24.Ra1 Qe7 25.Nh4 g5 26.Nf3 Bf5 27.Re1 Qf8 28.Nxg5 hxg5 29.Qxg5+ Bg6 30.Qxf6 Bxd3 31.Qg5+ Qg7 32.Qxg7+ Kxg7 33.Rd2 Bf5 34.Bxd4 exd4 35.Rxe8 d3 36.Be4 Bd7 37.Rd8 Be7 38.Rb8 Bxa3 39.Rxb6 a4 40.Rxd3 axb3 41.Rbxb3 Bc5 42.Rb7 1-0

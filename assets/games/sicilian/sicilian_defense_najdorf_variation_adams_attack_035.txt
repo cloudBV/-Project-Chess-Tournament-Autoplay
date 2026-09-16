@@ -1,0 +1,14 @@
+[Event "Round 2: Garifullina, Leya - Iniyan, Pa"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/PL3hyo01"]
+[Date "2026.07.19"]
+[Round "2.9"]
+[White "Garifullina, Leya"]
+[Black "Iniyan, Pa"]
+[Result "0-1"]
+[WhiteElo "2423"]
+[BlackElo "2581"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 Nfd7 8.g5 Nc6 9.Be3 Nde5 10.Be2 Bd7 11.h4 b5 12.Nxc6 Bxc6 13.a3 Rb8 14.f4 Nd7 15.Bf3 a5 16.h5 b4 17.axb4 Rxb4 18.Ra2 h6 19.g6 fxg6 20.hxg6 Be7 21.Qe2 Nc5 22.e5 Bxf3 23.Qxf3 O-O 24.exd6 Bxd6 25.Rh5 Bxf4 26.Qh3 Bxe3 27.Qxe3 Qf6 28.Rxc5 Qh4+ 29.Ke2 Qg4+ 30.Ke1 Rbf4 31.Raxa5 Qh4+ 32.Ke2 Rf2+ 33.Kd3 R2f3 0-1

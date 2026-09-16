@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-9/BACu8Amk/LA1zBnNC"]
+[Date "2026.07.24"]
+[Round "9.2"]
+[White "Gonzalez Lopez, Lucas 2013"]
+[Black "Badia Berthelot, Luca"]
+[Result "0-1"]
+[WhiteElo "2183"]
+[BlackElo "2169"]
+[ECO "E47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 Re8 6.Nf3 d6 7.O-O Bxc3 8.bxc3 e5 9.dxe5 dxe5 10.Nxe5 Qe7 11.Nf3 Bg4 12.Be2 c5 13.Ne1 Be6 14.f3 Nc6 15.Nc2 Rad8 16.Qe1 Ne5 17.e4 Bxc4 18.Bg5 h6 19.Bh4 Bxe2 20.Qxe2 Ng6 21.Bg3 Nd5 22.Qc4 Nb6 23.Qe2 Qf6 24.Qe3 Na4 25.c4 Ne5 26.Qb3 Nb6 27.Bxe5 Qxe5 28.Rad1 f5 29.exf5 Qxf5 30.Ne3 Qf4 31.Rxd8 Rxd8 32.g3 Qe5 33.Rd1 Rxd1+ 34.Nxd1 Qe1+ 35.Kg2 Qe2+ 36.Nf2 Qxc4 37.Qe3 Kh7 38.Qe7 Qd5 39.Ng4 Nd7 40.a3 b5 41.Ne3 Qd3 42.g4 Qd2+ 43.Kh3 Qd3 44.Kg3 Qd4 45.Kg2 Ne5 46.Nf5 Qb2+ 47.Kh3 Nxf3 48.Kg3 Nd2 49.Ne3 Qxa3 50.Kh4 Qc3 51.Nd5 Nf3+ 52.Kg3 Qe5+ 53.Kxf3 Qxd5+ 54.Kg3 a5 55.h4 c4 56.g5 hxg5 57.hxg5 Kg6 58.Qe8+ Kxg5 59.Qe7+ Kg6 60.Qe8+ Kh7 61.Qc8 Qe5+ 62.Kf2 Qf4+ 63.Ke2 Qe4+ 64.Kf2 Qc2+ 65.Ke1 Qd3 66.Qe8 Qd5 67.Qc8 Qe5+ 68.Kf2 a4 69.Qh3+ Kg6 70.Qg2+ Kf6 71.Qc6+ Qe6 72.Qc7 Qf5+ 73.Kg2 g6 74.Qd6+ Kg5 75.Qe7+ Kf4 76.Qd6+ Ke4 77.Qe7+ Kd4 78.Qa7+ Kd3 79.Qc7 c3 80.Qd6+ Kc4 81.Qc7+ Kb3 82.Qe7 c2 83.Qe3+ Kb2 84.Qd4+ Ka2 85.Qd2 Qg4+ 86.Kh2 Qd1 87.Qf2 Kb1 88.Qc5 c1=Q 89.Qxb5+ Qb2+ 90.Qxb2+ Kxb2 0-1

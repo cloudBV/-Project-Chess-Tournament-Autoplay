@@ -1,0 +1,15 @@
+[Event "Round 5: Haznedaroglu, Kivanc - Kosakowski, Jakub"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/F6iUo7xV"]
+[Date "2026.07.02"]
+[Round "5.4"]
+[White "Haznedaroglu, Kivanc"]
+[Black "Kosakowski, Jakub"]
+[Result "0-1"]
+[WhiteElo "2362"]
+[BlackElo "2543"]
+[ECO "B95"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qe2 Be7 8.f4 h6 9.Bxf6 Bxf6 10.O-O-O Qb6 11.Qd2 O-O 12.Be2 Nc6 13.Nb3 Rd8 14.Kb1 Qf2 15.Bf3 Qxd2 16.Rxd2 Rb8 17.h4 Be7 18.g4 g5 19.hxg5 hxg5 20.Rdh2 Bf6 21.e5 Bg7 22.Bxc6 bxc6 23.Ne4 gxf4 24.exd6 f5 25.gxf5 exf5 26.Nec5 Rxd6 27.Nd3 a5 28.Rg1 f3 29.Nbc5 Be6 30.Nxe6 Rxe6 31.Rf2 Re3 32.Rgf1 c5 33.b3 c4 34.Nc1 Rbe8 35.a4 Re1 36.Rxf3 Bh6 37.Rxf5 Bxc1 38.Rxe1 Rxe1 39.bxc4 Bd2+ 40.Kb2 Re3 41.Rd5 Bc3+ 42.Kb3 Bb4+ 43.Rd3 Bc5 44.Rxe3 Bxe3 45.c5 Bxc5 46.Kc4 Bb6 47.Kb5 Bd8 48.Kc6 Kf7 49.c4 Ke6 50.c5 Ke5 51.Kd7 Kd5 52.c6 Bb6 0-1

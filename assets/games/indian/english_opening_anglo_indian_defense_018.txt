@@ -1,0 +1,14 @@
+[Event "Round 9: Carbone, Diego - Nunez de la Rosa, Matias"]
+[Site "https://lichess.org/broadcast/campeonato-uruguayo-2026-blitz/round-9/9EYpheN9/E8dOuwIx"]
+[Date "2026.07.18"]
+[Round "9.3"]
+[White "Carbone, Diego"]
+[Black "Nunez de la Rosa, Matias"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2068"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Bg7 6.O-O c5 7.Nc3 Nc6 8.Nxd5 Qxd5 9.d3 Qh5 10.Qa4 O-O 11.Rb1 Bg4 12.Be3 Nd4 13.Bxd4 cxd4 14.Rbc1 e5 15.Rc7 e4 16.dxe4 d3 17.Qc4 Rad8 18.Rd1 Be6 19.Qc5 dxe2 20.Re1 Qxc5 21.Rxc5 Bxb2 22.Rxe2 Rd1+ 23.Re1 Rfd8 24.Rc2 Bg7 25.Bf1 Rxe1 26.Nxe1 Rd1 27.Re2 Bc3 28.Nc2 Bc4 29.Ne3 Bxe2 30.Nxd1 Bxd1 31.Bc4 a6 32.Kf1 b5 33.Bd5 a5 34.f4 b4 35.Kf2 a4 36.Ke3 b3 37.axb3 Bxb3 38.Bc6 a3 39.Kd3 a2 0-1

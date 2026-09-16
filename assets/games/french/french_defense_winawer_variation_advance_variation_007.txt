@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.7"]
+[White "Craciun, Sasha-Matei"]
+[Black "Jasiulewicz, Dawid"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2085"]
+[ECO "C18"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.a4 Qa5 8.Bd2 c4 9.Nf3 Bd7 10.h4 O-O-O 11.g3 f6 12.Bh3 Kb8 13.O-O Ka8 14.Re1 f5 15.Bc1 Nge7 16.Qd2 f4 17.Ba3 fxg3 18.fxg3 h6 19.Rf1 Rdf8 20.Bc5 Rf7 21.h5 Rhf8 22.Qe3 Re8 23.Nh4 Ref8 24.Ng6 Rxf1+ 25.Bxf1 Nf5 26.Qd2 Rf7 27.g4 Ng3 28.Bg2 b6 29.Bb4 Qa6 30.Bd6 Qb7 31.Kh2 Ne4 32.Bxe4 dxe4 33.Re1 Nd8 34.Qe3 Bc6 35.Kg2 Rf3 36.Qd2 e3 37.Qd1 Rf2+ 38.Kg3 Bf3 39.Qc1 Be2 40.Nh4 Qe4 41.Rxe2 Qf4+ 42.Kh3 Qh2# 0-1

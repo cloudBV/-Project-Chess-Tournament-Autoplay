@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.15"]
+[Round "5.3"]
+[White "Albers, Sasa"]
+[Black "Duijker, Rick"]
+[Result "1/2-1/2"]
+[WhiteElo "2365"]
+[BlackElo "2195"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 c5 3.Bg2 Nc6 4.Nc3 g6 5.a3 Bg7 6.Rb1 a5 7.d3 O-O 8.Nh3 e6 9.O-O h6 10.Bd2 d6 11.Qc1 Kh7 12.Nf4 Bd7 13.e3 Qe7 14.Qc2 Rfb8 15.b3 Ne8 16.Rfc1 Nc7 17.h4 Kg8 18.Nb5 Nxb5 19.cxb5 Ne5 20.a4 g5 21.hxg5 hxg5 22.Nh5 Bh8 23.Bc3 f5 24.d4 cxd4 25.exd4 Ng4 26.f3 Ne3 27.Qd2 Nd5 28.g4 Be8 29.Ng3 f4 30.Ne4 b6 31.Bb2 Nb4 32.Bf1 Bg6 33.Ra1 d5 34.Nf2 Bf6 35.Nd3 Bxd3 36.Bxd3 Rc8 37.Kg2 Nxd3 38.Qxd3 Qh7 39.Qe2 Kf7 40.Rh1 Qc2 41.Rae1 Rc7 42.Kg1 Qxe2 43.Rxe2 1/2-1/2

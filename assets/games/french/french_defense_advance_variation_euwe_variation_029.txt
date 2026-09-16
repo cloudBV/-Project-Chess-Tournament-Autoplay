@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.14"]
+[Round "5.2"]
+[White "Tsaknakis, Zisis"]
+[Black "Townsend, M Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2292"]
+[BlackElo "2151"]
+[ECO "C02"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 Rc8 10.O-O Qb6 11.Kh1 Na5 12.Nce1 Bb5 13.Bxb5+ Qxb5 14.Qd3 Qxd3 15.Nxd3 Nc6 16.Be3 Be7 17.Rfc1 O-O 18.Rc3 a6 19.Rac1 Na7 20.Rc7 Rxc7 21.Rxc7 Rb8 22.g4 Nxe3 23.fxe3 Kf8 24.a4 Ke8 25.Nc5 Bxc5 26.dxc5 Nc6 27.b4 Nxb4 28.Ng5 b5 29.axb5 axb5 30.Rxf7 Nc6 31.Rc7 Nd8 32.Rxg7 b4 33.c6 Nxc6 34.Nxe6 b3 35.Nc7+ Kf8 36.Ne6+ Ke8 37.Nc7+ Kf8 38.Ne6+ 1/2-1/2

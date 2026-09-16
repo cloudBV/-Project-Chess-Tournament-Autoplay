@@ -1,0 +1,15 @@
+[Event "Round 1: Domingo Nunez, Ruben - Sanchez Botella, Luis Javier"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/KfGgGY4f"]
+[Date "2026.07.04"]
+[Round "1.13"]
+[White "Domingo Nunez, Ruben"]
+[Black "Sanchez Botella, Luis Javier"]
+[Result "1-0"]
+[WhiteElo "2405"]
+[BlackElo "2258"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 Bg4 4.h3 Bh5 5.O-O Nbd7 6.d3 e5 7.Qe1 Bc5 8.e4 dxe4 9.dxe4 Bxf3 10.Bxf3 O-O 11.Qe2 Qe7 12.Nd2 a5 13.a4 Rfd8 14.Bg2 Qe6 15.Kh2 Qa6 16.Qxa6 Rxa6 17.Nc4 Re8 18.Bd2 Bb4 19.c3 Bf8 20.b4 b6 21.bxa5 Nc5 22.axb6 cxb6 23.f3 Nb3 24.Rab1 Nxd2 25.Nxd2 Bc5 26.Nc4 Nd7 27.Nb2 Ba3 28.Rfd1 Bxb2 29.Rxb2 Nc5 30.Bf1 Ra7 31.Rxb6 Rxa4 32.Bb5 Ra2+ 33.Kg1 Rea8 34.Bc6 Rc8 35.Bd5 Rc2 36.c4 h6 37.Ra1 Rc7 38.Ra8+ Kh7 39.h4 h5 40.f4 g6 41.Rbb8 exf4 42.Rh8+ Kg7 43.e5 Rc1+ 44.Kg2 Rc2+ 45.Kh3 1-0

@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "1.5"]
+[White "Moen, Ole Christian"]
+[Black "Moen, Andreas G.R."]
+[Result "1/2-1/2"]
+[WhiteElo "2168"]
+[BlackElo "2279"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 g6 6.b3 Bg7 7.Bb2 O-O 8.O-O Bg4 9.h3 Bxf3 10.Qxf3 Qc7 11.Re1 Rad8 12.a4 e5 13.Nd2 Nh5 14.Nc4 Nf4 15.a5 Ne6 16.Qg3 f6 17.Qg4 Qf7 18.g3 h5 19.Qe2 Bh6 20.Kg2 Kh7 21.a6 b6 22.Rf1 Qc7 23.Nd2 b5 24.Bc3 Qc8 25.Nf3 Rd7 26.Bd2 Bxd2 1/2-1/2

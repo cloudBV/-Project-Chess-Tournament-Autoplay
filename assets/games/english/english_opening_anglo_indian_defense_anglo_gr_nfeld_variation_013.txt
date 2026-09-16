@@ -1,0 +1,14 @@
+[Event "Round 5: Meneses Gonzalez, Kevin Moises - Rodriguez Melian, Jose Luis"]
+[Site "https://lichess.org/broadcast/campeonato-de-canarias-absoluto-y-femenino-2026/round-5/2XOL04Hj/vMSST95X"]
+[Date "2026.07.18"]
+[Round "5.3"]
+[White "Meneses Gonzalez, Kevin Moises"]
+[Black "Rodriguez Melian, Jose Luis"]
+[Result "1-0"]
+[WhiteElo "2293"]
+[BlackElo "2029"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 Nxc3 5.bxc3 g6 6.h4 h6 7.d4 c5 8.e3 Bg7 9.Be2 Qc7 10.O-O O-O 11.Ba3 Nd7 12.e4 b6 13.e5 Bb7 14.Rc1 Rfd8 15.Qb3 e6 16.h5 g5 17.Nh2 Be4 18.f4 Qc6 19.fxg5 Bxg2 20.Rf2 Be4 21.Bb5 Qd5 22.Bc4 Qc6 23.g6 Nf8 24.Rxf7 Bh1 25.Rf2 cxd4 26.cxd4 Qe4 27.Rcf1 Rxd4 28.Bxe6+ Kh8 29.Bxf8 Bxe5 30.g7+ Bxg7 31.Bxg7+ Kxg7 32.Qg3+ 1-0

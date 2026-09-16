@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.07"]
+[Round "3.3"]
+[White "Korszanski, Stanislaw"]
+[Black "Kobal, Nazarij"]
+[Result "1-0"]
+[WhiteElo "2240"]
+[BlackElo "2024"]
+[ECO "C55"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.a4 d5 7.exd5 Nxd5 8.Re1 Bg4 9.h3 Bh5 10.g4 Bg6 11.Nxe5 Nxe5 12.Rxe5 c6 13.Bxd5 cxd5 14.Nc3 d4 15.Rd5 Qc7 16.Rxd4 Qb6 17.Rc4 Rad8 18.Be3 Qe6 19.Qe2 f5 20.Bc5 Qxe2 21.Nxe2 Rfe8 22.Bxe7 Rxe7 23.Ng3 fxg4 24.hxg4 Bf7 25.Nf5 Re2 26.Rc7 Rde8 27.Nd6 Re1+ 28.Rxe1 Rxe1+ 29.Kh2 Be6 30.Re7 g5 31.Ne4 Rc1 32.Rxe6 Rxc2 33.b4 Rb2 34.b5 Ra2 35.Re7 Rxa4 36.Rxb7 Ra2 37.Kg3 h6 38.f4 Ra3 39.fxg5 hxg5 40.Nxg5 Rxd3+ 41.Kh4 Ra3 42.Kh5 Kf8 43.Ne4 Rb3 44.Nf6 a5 45.Kg6 Rxb5 46.Rxb5 a4 47.Rb7 a3 48.g5 a2 49.Ra7 a1=N 50.Rf7# 1-0

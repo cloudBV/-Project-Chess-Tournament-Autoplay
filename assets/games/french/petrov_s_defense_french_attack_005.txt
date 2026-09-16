@@ -1,0 +1,15 @@
+[Event "Round 2: Jiang, Lucas - Xue, Tianhao"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-2/MjzRlbHj/oRY9SuZz"]
+[Date "2026.07.16"]
+[Round "2.12"]
+[White "Jiang, Lucas"]
+[Black "Xue, Tianhao"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2100"]
+[ECO "C42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Petrov's Defense: French Attack"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 g6 7.Bd3 Bg7 8.O-O O-O 9.h3 c5 10.Nc3 b6 11.d5 Bb7 12.Bc4 Na6 13.Bg5 Nc7 14.Qd3 Qd7 15.a4 a6 16.Rab1 b5 17.axb5 axb5 18.Nxb5 Nfxd5 19.Rfd1 Ba6 20.Na3 Rfb8 21.c3 Bb7 22.Nb5 Ba6 23.Na3 Bb7 24.Nb5 Ba6 25.Nxc7 Nxc7 26.Bf4 Bxc4 27.Qxc4 Qb5 28.Qxb5 Nxb5 29.c4 Nd4 30.Bxd6 Nxf3+ 31.gxf3 Rxb2 32.Bxc5 Rc8 33.Be3 Rxb1 34.Rxb1 Bf8 35.c5 f5 36.Rc1 Kf7 37.c6 Bd6 38.Bb6 Ke6 39.Kf1 Kd5 40.c7 Ke6 41.Ke2 Kd7 42.Ke3 Bxc7 43.Bxc7 Rxc7 44.Rxc7+ Kxc7 45.Kf4 Kd6 46.Kg5 Ke5 47.h4 Ke6 48.Kh6 f4 49.Kxh7 Kf7 50.Kh6 Kf6 51.h5 g5 52.Kh7 Kf7 53.h6 1-0

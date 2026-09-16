@@ -1,0 +1,15 @@
+[Event "Round 8: Prabu, Dananjey - Odell Johansson, Leo"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-8/GO3zCEkj/9VNszR1X"]
+[Date "2026.07.01"]
+[Round "8.2"]
+[White "Prabu, Dananjey"]
+[Black "Odell Johansson, Leo"]
+[Result "1-0"]
+[WhiteElo "2129"]
+[BlackElo "2053"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Nge7 5.c3 g6 6.d4 cxd4 7.cxd4 exd4 8.Nxd4 Bg7 9.Be3 O-O 10.Nc3 a6 11.Bc4 b5 12.Bb3 Na5 13.Nd5 Nxb3 14.Nxb3 Nxd5 15.Qxd5 Rb8 16.Bf4 Bb7 17.Qd3 Rc8 18.Rad1 Bxb2 19.e5 Re8 20.Rfe1 Bc6 21.Re2 Ba3 22.Nd4 Bf8 23.Red2 Qb6 24.Qg3 Bg7 25.h4 Be4 26.h5 b4 27.h6 Bh8 28.Re1 Bd5 29.Qh4 Be6 30.Bg5 Rc5 31.Bf6 Bxf6 32.Qxf6 Kf8 1-0

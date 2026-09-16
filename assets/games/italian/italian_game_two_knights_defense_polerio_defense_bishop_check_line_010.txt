@@ -1,0 +1,14 @@
+[Event "Round 6: Amar, Elham - Rozen, Eytan"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-6/tmWKDGFl/XiBTTNfb"]
+[Date "2026.07.23"]
+[Round "6.7"]
+[White "Amar, Elham"]
+[Black "Rozen, Eytan"]
+[Result "1/2-1/2"]
+[WhiteElo "2581"]
+[BlackElo "2498"]
+[ECO "C58"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Bd3 Nd5 9.Nf3 Bd6 10.Nc3 O-O 11.Be2 Nf4 12.O-O c5 13.d3 Nxe2+ 14.Qxe2 Bb7 15.Ne4 Re8 16.Be3 Rc8 17.Nfg5 h6 18.Nxd6 Qxd6 19.Ne4 Qe7 20.Qe1 Qd8 21.f3 c4 22.b4 Nc6 23.dxc4 Nd4 24.Rd1 Bxe4 25.fxe4 Rxc4 26.Bxd4 exd4 27.Rxf7 Rxc2 28.Qf1 Qg5 29.Qf3 Rc1 30.Rf1 Rxf1+ 31.Qxf1 Qe3+ 32.Qf2 Qxe4 33.h3 Qb1+ 34.Kh2 Qxb4 35.Qf4 Qb8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 6: Gavrilin, Roman - Kavutskiy, Kostya"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/uyhbYkjg"]
+[Date "2026.07.04"]
+[Round "6.21"]
+[White "Gavrilin, Roman"]
+[Black "Kavutskiy, Kostya"]
+[Result "0-1"]
+[WhiteElo "2165"]
+[BlackElo "2278"]
+[ECO "B45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d6 7.Be3 Be7 8.f3 e5 9.Nb3 O-O 10.Qd2 a5 11.Bb5 Na7 12.Be2 Be6 13.O-O Nc6 14.Nd5 a4 15.Bb6 Qd7 16.Nc1 Bd8 17.Be3 Bxd5 18.exd5 Ne7 19.c4 Nf5 20.Bf2 e4 21.Qf4 Re8 22.g4 exf3 23.Bxf3 Ne7 24.Nd3 Ng6 25.Qg3 Rc8 26.Rac1 Ne4 27.Qg2 Nd2 28.c5 Nxf1 29.c6 Qc7 30.Kxf1 Bg5 31.Re1 Rxe1+ 32.Nxe1 Nf4 33.Qg3 Ng6 34.Bd4 Bf4 35.Qf2 Be5 36.Bb6 Qe7 37.Nd3 Rb8 38.c7 Rc8 39.Be4 Nf8 40.Bf5 Nd7 41.Qe3 Nxb6 42.Bxc8 Nxc8 43.Nxe5 Qxe5 44.Qd3 g6 45.Qb5 Qf6+ 0-1

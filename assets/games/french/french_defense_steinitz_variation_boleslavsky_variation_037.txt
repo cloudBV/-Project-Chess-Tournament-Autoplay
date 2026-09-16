@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-3/jrpV8ikM/HD2d0UZt"]
+[Date "2026.07.14"]
+[Round "3.2"]
+[White "Volokitin, Andrei"]
+[Black "Martins, Bruno Andre Leite"]
+[Result "0-1"]
+[WhiteElo "2617"]
+[BlackElo "2409"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 h6 8.Qd2 g5 9.dxc5 gxf4 10.Bxf4 Nxc5 11.O-O-O a6 12.Bd3 Bd7 13.Kb1 Qa5 14.Bg3 Be7 15.Rhf1 O-O-O 16.Nd4 Nxd3 17.Nb3 Qc7 18.cxd3 Be8 19.Ne2 Kb8 20.Ned4 Nxd4 21.Nxd4 Bg5 22.Bf4 Rg8 23.Rc1 Qb6 24.Qe3 Bxf4 25.Nc6+ Qxc6 26.Rxf4 Qb5 27.a4 d4 28.Rxd4 Qb6 29.Rc5 Rxd4 30.Qxd4 Bc6 31.g3 Rd8 0-1

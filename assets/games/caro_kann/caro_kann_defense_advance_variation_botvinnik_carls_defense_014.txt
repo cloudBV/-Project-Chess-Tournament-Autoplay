@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "27.2"]
+[White "Van Foreest, Jorden"]
+[Black "Gukesh D"]
+[Result "1-0"]
+[WhiteElo "2687"]
+[BlackElo "2655"]
+[ECO "B12"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.f4 Nh6 6.Be3 g5 7.Bb5 Nf5 8.Bf2 gxf4 9.Nf3 e6 10.Qd2 Bh6 11.O-O Rg8 12.Nc3 Bd7 13.Kh1 Nxe5 14.Bxd7+ Nxd7 15.Nxd5 Ne5 16.Nxe5 f3 17.Nf6+ Qxf6 18.Qd7+ Kf8 19.Nxf3 Qxb2 20.Nd4 Rg4 21.Nxf5 exf5 22.Qd6+ Kg7 23.Rad1 Qxc2 24.Rde1 Qxa2 25.Bd4+ Kg8 26.Rf2 Qa5 27.Rfe2 Bf8 28.Qf6 Rg7 29.Re8 Rxe8 30.Rxe8 1-0

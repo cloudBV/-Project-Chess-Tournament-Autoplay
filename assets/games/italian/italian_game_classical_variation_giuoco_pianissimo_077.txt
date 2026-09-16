@@ -1,0 +1,14 @@
+[Event "Round 2: Degraeve, Jean-Marc - Garrido, Mihai"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-2/vaQgyEpD/YwL5beCu"]
+[Date "2026.07.17"]
+[Round "2.1"]
+[White "Degraeve, Jean-Marc"]
+[Black "Garrido, Mihai"]
+[Result "1/2-1/2"]
+[WhiteElo "2500"]
+[BlackElo "2157"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a6 7.d4 Ba7 8.dxe5 Nxe5 9.Nxe5 dxe5 10.Qxd8+ Kxd8 11.Nd2 Ke7 12.Nf3 Nxe4 13.Nxe5 Nd6 14.Bb3 f6 15.Nc4 Nxc4 16.Bxc4 Rd8 17.a4 a5 18.Re1+ Kf8 19.b4 axb4 20.cxb4 Bd4 21.Be3 Bxe3 22.Rxe3 Rd4 23.Rc3 Bd7 24.a5 c6 25.h3 Re8 26.Rac1 Be6 27.a6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.8"]
+[White "Molina Gil, Noah"]
+[Black "Zoler, Dan"]
+[Result "0-1"]
+[WhiteElo "2073"]
+[BlackElo "2487"]
+[ECO "B25"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Nge2 Rb8 7.O-O Nf6 8.Nd5 Nd7 9.f4 e6 10.Ne3 f5 11.c3 O-O 12.d4 fxe4 13.Bxe4 d5 14.Bg2 cxd4 15.cxd4 Qb6 16.Nc2 Nf6 17.Nc3 Ne8 18.Na4 Qa5 19.b3 Nd6 20.Ba3 Rd8 21.Bxd6 Rxd6 22.Rf2 Qc7 23.Rc1 Qe7 24.Rd2 g5 25.fxg5 Qxg5 26.Qe1 b6 27.Nc3 Ba6 28.Rcd1 Rf8 29.Ne2 Re8 30.Nf4 Re7 31.Bh3 Kh8 32.Qf2 Bh6 33.Ne3 Rf7 34.Neg2 Qf6 35.Kh1 Ne7 36.Re1 Nf5 37.Qg1 Rc6 38.Nh5 Qd8 39.Ngf4 Qc8 40.Bf1 Bxf1 41.Qxf1 Nd6 42.Qh3 Ne4 43.Rde2 Rf5 44.Qg2 Rc3 45.Re3 Rxe3 46.Rxe3 Rf7 47.Re2 Rc7 48.h3 Rc1+ 49.Kh2 Bf8 50.Nd3 Rc3 51.Ne5 Qe8 52.g4 Bd6 53.Rc2 Qc8 54.Rxc3 Qxc3 55.Qg1 Bxe5+ 56.dxe5 Qxe5+ 57.Kh1 Qb2 58.Qe3 Qb1+ 59.Kg2 Qxa2+ 60.Kf3 Qxb3 61.Qxb3 Nd2+ 62.Ke3 Nxb3 63.Nf4 Nc5 64.Kd4 a5 65.h4 a4 66.g5 a3 67.Kc3 b5 68.Kc2 b4 0-1

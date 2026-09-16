@@ -1,0 +1,15 @@
+[Event "Round 9: Levin, Guy - Kanyamarala, Trisha"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-9/bSIGoQdg/JyzTRrvS"]
+[Date "2026.07.03"]
+[Round "9.6"]
+[White "Levin, Guy"]
+[Black "Kanyamarala, Trisha"]
+[Result "1/2-1/2"]
+[WhiteElo "2471"]
+[BlackElo "2178"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Bf5 3.Bg2 c6 4.O-O Nd7 5.d3 e5 6.Nbd2 Ngf6 7.Qe1 h6 8.e4 dxe4 9.Nh4 Be6 10.dxe4 Bc5 11.Nf5 Bxf5 12.exf5 O-O 13.Nc4 Re8 14.b4 Bf8 15.Na5 e4 16.a3 Qc8 17.Bb2 Ne5 18.Bxe5 Rxe5 19.Nc4 Re8 20.Ne3 Nd5 21.Rd1 Nxe3 22.fxe3 Be7 23.Rd4 Bg5 24.Qe2 Qc7 25.Rfd1 Rad8 26.Rxd8 Bxd8 27.Rd4 Bf6 28.Rxe4 Rd8 29.Bf1 Qd7 30.Rf4 Qd5 31.Rf3 a5 32.e4 Qd4+ 33.Kg2 axb4 34.Rd3 Qe5 35.Rxd8+ Bxd8 36.axb4 Be7 37.Qc4 Qb2 38.b5 Qxb5 39.Qa2 Qe5 40.Qa8+ Kh7 41.Bd3 h5 42.Qe8 h4 43.Qxf7 Qf6 44.Qe8 Bd6 45.Bc4 hxg3 46.hxg3 g6 47.g4 gxf5 48.exf5 Qg5 49.Bg8+ Kh8 50.Be6+ Kh7 51.Qd7+ Be7 52.Kf3 Qh4 53.Bc4 Qh3+ 54.Kf4 Qh2+ 55.Kf3 Qh3+ 56.Kf2 Qh2+ 57.Ke1 Qg3+ 58.Kd2 Qd6+ 59.Qxd6 Bxd6 60.Be6 Kg7 61.Bc8 b6 62.Bd7 c5 63.Kd3 Kf6 64.Kc4 Bf4 65.Kb5 Be5 66.Kxb6 Bd4 67.Kc6 Bf2 68.Kd5 Bd4 69.Ke4 Bc3 70.Bc8 Bb2 71.Kd5 Bd4 72.Ba6 Be3 73.Ke4 Bd4 74.Kf4 Be5+ 75.Kf3 Bd4 76.Bd3 Bc3 77.Ke4 Bd4 78.Kd5 Be3 79.Be4 Bd4 80.Kd6 Be3 81.Bf3 Bd4 82.Be2 Be3 83.Kd5 Bd4 84.Bd3 Be3 85.c3 Bd2 86.Kc4 Be3 87.Bc2 Bd2 88.Kd3 Bf4 89.Ba4 Be5 90.Bd7 Kg5 91.Kc4 Kf6 92.Bc6 Kg5 93.Bf3 Kf6 94.Bd1 Kg5 95.Kd3 Kf6 96.Kd2 Kg5 97.Be2 Kf6 98.Kd3 Kg5 99.Bd1 Kf6 100.c4 Bd4 101.Ke4 Kg5 102.Be2 Kf6 103.Kd5 Be3 104.Bd3 Bd4 105.Kd6 Be3 106.Bb1 Bd4 107.Kd5 Be3 108.Ke4 Bd4 109.Ba2 Kg5 110.Kd5 Kf6 111.Bb1 Be3 112.g5+ Kxg5 113.Ke6 Bd4 114.f6 Bxf6 115.Be4 1/2-1/2

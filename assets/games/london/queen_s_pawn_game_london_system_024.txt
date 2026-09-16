@@ -1,0 +1,15 @@
+[Event "Round 8: Rosen, Eric - Belenkaya, Dina"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-8/AQLWkv6n/fSqZ6lFL"]
+[Date "2026.07.05"]
+[Round "8.2"]
+[White "Rosen, Eric"]
+[Black "Belenkaya, Dina"]
+[Result "0-1"]
+[WhiteElo "2327"]
+[BlackElo "2120"]
+[ECO "D02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 c5 4.e3 Nc6 5.Nbd2 cxd4 6.exd4 Bg4 7.c3 e6 8.Bd3 Bd6 9.Bxd6 Qxd6 10.O-O O-O 11.Re1 Bh5 12.Qb1 Bg6 13.Bxg6 hxg6 14.Ne5 b5 15.a3 a5 16.Qd3 b4 17.cxb4 axb4 18.a4 Rfc8 19.Nb3 Ne4 20.Nxc6 Qxc6 21.f3 Nd6 22.Nc5 Nf5 23.Rec1 Qd6 24.b3 Qf4 25.Rd1 e5 26.Rac1 Nxd4 27.Kf2 Rc6 28.g3 Qg5 29.Qe3 Qxe3+ 30.Kxe3 Rac8 31.Rxd4 exd4+ 32.Kxd4 Rd8 33.a5 f6 34.a6 Kf7 35.Ra1 Rdc8 36.Ra5 Ke7 37.Kxd5 Rd6+ 38.Kc4 Rd1 39.Kxb4 Rb8+ 40.Nb7 Kd7 41.Kb5 Rd5+ 42.Kb6 0-1

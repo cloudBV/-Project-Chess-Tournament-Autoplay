@@ -1,0 +1,14 @@
+[Event "Round 9: Boraso, Alessio - Colonetti, Fabio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/oHgNQZne"]
+[Date "2026.07.12"]
+[Round "9.6"]
+[White "Boraso, Alessio"]
+[Black "Colonetti, Fabio"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2128"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.Bg5 e6 8.Qd3 Be7 9.O-O-O Nxd4 10.Bxd7+ Nxd7 11.Bxe7 Kxe7 12.Qxd4 Qb6 13.Qd2 Rhd8 14.f4 Nc5 15.f5 h6 16.Rhf1 Nd7 17.Qf4 Nf6 18.Rd3 e5 19.Qh4 Kf8 20.Rfd1 Rac8 21.g4 Qc6 22.Qe1 b5 23.R1d2 b4 24.Nd5 Qc4 25.Nxf6 Qxa2 26.Rd1 Qa1+ 27.Kd2 Qxb2 28.Nd5 Rxc2+ 29.Ke3 Rxh2 30.R1d2 Rh3+ 31.Ke2 Rh2+ 32.Kf3 Rxd2 33.Qxd2 Qxd2 34.Rxd2 Rb8 35.Ke2 a5 36.Kd3 a4 37.Kc2 Rc8+ 38.Kb2 Rc4 39.Re2 b3 40.Nc3 f6 41.Rd2 Ke7 42.Rd5 Rd4 43.Ra5 Rd2+ 44.Ka3 Rc2 45.Nd5+ Kf7 46.Ra7+ Kg8 47.Rxa4 b2 48.Ka2 Rg2 49.Ne7+ Kf7 50.Ng6 Ke8 51.Rb4 Kd7 52.Rb7+ Kc6 53.Rxg7 Kc5 54.Nf8 Kd4 55.Nd7 Kxe4 56.Nxf6+ Kd3 57.Nh5 Rf2 58.Rd7 Kc2 59.Rc7+ Kd1 60.f6 Rc2 61.f7 Kc1 62.Ka3 b1=Q 63.Rxc2+ Kxc2 0-1

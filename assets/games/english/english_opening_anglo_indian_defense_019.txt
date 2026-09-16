@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-9/YQmBQu1P/uvsGRXeH"]
+[Date "2026.07.19"]
+[Round "9.8"]
+[White "Ribeiro, Gustavo"]
+[Black "Sarabando, Rodrigo Andias"]
+[Result "1-0"]
+[WhiteElo "2217"]
+[BlackElo "2101"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nf6 6.b3 Nc6 7.Bb2 Bd6 8.Nf3 Qe7 9.d3 O-O 10.O-O Bf5 11.Nd2 Rad8 12.Nc4 Rfe8 13.Ne3 Bc8 14.Rc1 Nd4 15.Ncd5 Nxd5 16.Nxd5 Qd7 17.Qd2 c6 18.Ne3 Qe7 19.Nc2 Bc5 20.e3 Nxc2 21.Qxc2 Ba3 22.Rfd1 Bg4 23.Rd2 Bb4 24.Bc3 Bf5 25.Bf3 Rd7 26.Rcd1 Red8 27.Be2 Qc5 28.Bxb4 Qxb4 29.Qb2 Qe7 30.Qc3 c5 31.Bf3 b6 32.a3 a5 33.Be2 h6 34.Qc4 Be6 35.Qb5 Qd6 36.Rb2 Ra7 37.b4 cxb4 38.axb4 Bd7 39.Qc4 Rc8 40.Qa2 Be6 41.Qa4 b5 42.Qa1 a4 43.d4 Bc4 44.dxe5 Qxe5 45.Rc2 Qxa1 46.Rxa1 Rac7 47.Rac1 a3 48.Bg4 Ra8 49.Ra1 Rca7 50.Be2 Bxe2 51.Rxe2 Rc8 52.Rea2 Rc3 53.Kf1 Ra4 54.Ke1 Rxb4 55.Rxa3 Rxa3 56.Rxa3 Rb2 57.Rd3 Kf8 58.Kf1 Ke7 59.Kg2 Ke6 60.Kf3 g6 61.g4 b4 62.h4 Rc2 63.Kg3 Rc4 64.Rd8 b3 65.Rb8 Rc3 66.Rb6+ Ke5 67.h5 gxh5 68.gxh5 f6 69.Kf3 Kf5 70.Rb5+ Ke6 71.Kg3 Rd3 72.Kg2 Rd5 73.Rb6+ Kf7 74.Rxb3 Rxh5 75.Kg3 Kg6 76.e4 Rh1 77.Rb6 Re1 78.f3 Kg5 79.f4+ Kh5 80.Kf3 Rf1+ 81.Ke3 Re1+ 82.Kf3 Rf1+ 83.Kg3 Re1 84.Re6 Ra1 85.Rxf6 Ra3+ 86.Kf2 Kg4 87.e5 h5 88.e6 Ra6 89.f5 h4 90.Rf8 Ra2+ 91.Ke3 Ra1 92.Kd2 Ra2+ 93.Kd3 Ra3+ 94.Kd4 Ra4+ 95.Kd5 h3 96.e7 h2 97.Rh8 Ra8 98.Rxh2 Kxf5 99.Rf2+ Kg6 100.Rf8 1-0

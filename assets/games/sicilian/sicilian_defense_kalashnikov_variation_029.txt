@@ -1,0 +1,15 @@
+[Event "Round 6: Roshantab, Sadra - Asgari, Morteza"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/f3rN8G5v"]
+[Date "2026.07.16"]
+[Round "6.25"]
+[White "Roshantab, Sadra"]
+[Black "Asgari, Morteza"]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2169"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be7 7.Be2 Nf6 8.N1c3 O-O 9.O-O a6 10.Na3 Be6 11.Be3 Rc8 12.f3 Nh5 13.Nd5 Bxd5 14.cxd5 Nb8 15.g3 Nd7 16.Qb3 b5 17.Nc2 Nc5 18.Qa3 g6 19.Nb4 Qe8 20.Nc6 Ng7 21.Bxc5 dxc5 22.Qxa6 b4 23.Qxc8 Qd8 1-0

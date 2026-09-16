@@ -1,0 +1,14 @@
+[Event "Round 8: Berrocal, Jorge - Buenafe Moya, Javier"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-8/aWvwmo2y/LqdXnKMg"]
+[Date "2026.07.18"]
+[Round "8.7"]
+[White "Berrocal, Jorge"]
+[Black "Buenafe Moya, Javier"]
+[Result "1-0"]
+[WhiteElo "2073"]
+[BlackElo "2196"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 c5 4.d5 d6 5.Nc3 Bg7 6.e4 O-O 7.Be2 b5 8.cxb5 a6 9.b6 Nbd7 10.O-O Nxb6 11.h3 e6 12.dxe6 Bxe6 13.Bg5 Qd7 14.Qc2 Rfb8 15.Rfd1 Ne8 16.Rab1 Bxc3 17.Qxc3 Bxa2 18.Ne5 Qe6 19.Nc6 f6 20.Bg4 Qf7 21.Nxb8 Bxb1 22.Rxb1 Rxb8 23.Bf4 Kg7 24.b3 Nd7 25.Be2 Rb6 26.Be3 Ne5 27.f4 Nc6 28.Bc4 Qe7 29.Re1 Nc7 30.Qd2 Nb4 31.e5 d5 32.exf6+ Rxf6 33.f5 Qf7 34.Bxc5 Nc6 35.fxg6 hxg6 36.Bd3 Ne6 37.Ba3 Ned4 38.Bb2 Kg8 39.Qg5 a5 40.Qh4 Rf4 41.Qh6 Rf6 42.Re3 Qg7 43.Qh4 g5 44.Qh5 Rf7 45.Re8+ Rf8 46.Bh7+ Kh8 47.Be4+ 1-0

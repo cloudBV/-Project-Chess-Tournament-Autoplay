@@ -1,0 +1,15 @@
+[Event "Round 3: Nakamura, Hikaru - Ashwin, Jayaram"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-3/CLvlcax5/8rjTlijw"]
+[Date "2026.07.04"]
+[Round "3.11"]
+[White "Nakamura, Hikaru"]
+[Black "Ashwin, Jayaram"]
+[Result "1-0"]
+[WhiteElo "2838"]
+[BlackElo "2461"]
+[ECO "A08"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d3 Bg7 6.Nbd2 O-O 7.e4 Nc6 8.Re1 dxe4 9.dxe4 Qc7 10.c3 Rd8 11.Qc2 Ng4 12.Nc4 Be6 13.Bf4 Qc8 14.Ne3 h6 15.h4 Nxe3 16.Bxe3 b6 17.Rad1 Qa6 18.b3 Rac8 19.Kh2 Nd4 20.Bxd4 cxd4 21.c4 b5 22.e5 bxc4 23.bxc4 Rxc4 24.Qb2 d3 25.Bf1 Ra4 26.Rd2 Rxa2 27.Qc3 Ra3 28.Qc7 Rd7 29.Qb8+ Kh7 30.Red1 Qb6 31.Qxb6 axb6 32.Rxd3 Raxd3 33.Rxd3 Rxd3 34.Bxd3 Bd5 35.Kg2 Bxe5 36.Be2 Bf6 37.Kf1 Kg7 38.Ke1 Bc3+ 39.Kd1 Bb4 40.Kc2 Bc5 1-0

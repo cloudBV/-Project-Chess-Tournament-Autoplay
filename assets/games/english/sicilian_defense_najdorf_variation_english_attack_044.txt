@@ -1,0 +1,14 @@
+[Event "Round 8: Fischer, Daniel - Toktomushev, Teimur"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-8/CUozdTFU/eGqQbGuw"]
+[Date "2026.07.18"]
+[Round "8.2"]
+[White "Fischer, Daniel"]
+[Black "Toktomushev, Teimur"]
+[Result "0-1"]
+[WhiteElo "2366"]
+[BlackElo "2388"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.a3 h5 8.f4 Qc7 9.Bd3 Nbd7 10.Qe2 Be7 11.O-O-O b5 12.Rhf1 Nc5 13.Nf3 Rb8 14.Bxc5 Qxc5 15.e5 b4 16.Na4 Qa5 17.axb4 Qxa4 18.exf6 Bxf6 19.c3 a5 20.b5 Bd7 21.Nd2 Bxb5 22.Bxb5+ Rxb5 23.Nb1 O-O 24.Rxd6 Rfb8 25.Rd2 Bxc3 0-1

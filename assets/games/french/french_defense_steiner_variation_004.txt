@@ -1,0 +1,14 @@
+[Event "Round 2: Tueckmantel, Rene - Vlasov, Igor"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/8lNWJU2w"]
+[Date "2026.07.18"]
+[Round "2.9"]
+[White "Tueckmantel, Rene"]
+[Black "Vlasov, Igor"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2181"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Steiner Variation"]
+
+1.c4 e6 2.e4 d5 3.cxd5 exd5 4.exd5 Nf6 5.Bb5+ Nbd7 6.Nc3 a6 7.Be2 Nb6 8.Nf3 Be7 9.O-O O-O 10.d4 Nfxd5 11.a4 a5 12.Ne4 Nb4 13.Bf4 N6d5 14.Be3 Bf5 15.Ng3 Nxe3 16.fxe3 Bc2 17.Qd2 Bd6 18.Bc4 Qe7 19.Rae1 Bxg3 20.hxg3 Bxa4 21.Ne5 Be8 22.Rf3 b5 23.Be2 f6 24.Ref1 Bh5 25.g4 fxe5 26.gxh5 Rxf3 27.Rxf3 c6 28.dxe5 Qxe5 29.Qd7 Rf8 30.Rxf8+ Kxf8 31.Qc8+ Ke7 32.Bg4 Qxe3+ 33.Kh1 Qe1+ 34.Kh2 Qe5+ 35.Kh3 Qd6 36.Qg8 Qe5 37.Qxh7 Nd5 38.g3 Kd6 39.Qg8 Qxb2 40.Qf8+ Kc7 41.Qc8+ Kb6 42.Qd8+ Kc5 43.Qxa5 Qc3 44.Qa7+ Kb4 45.Qb7 Nf4+ 46.Kh4 Qf6# 0-1

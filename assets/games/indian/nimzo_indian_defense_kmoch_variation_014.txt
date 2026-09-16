@@ -1,0 +1,15 @@
+[Event "Round 3: Gade Sharanya - Gormally, Daniel W"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-3/R83bcJKF/oAXrflIO"]
+[Date "2026.07.15"]
+[Round "3.5"]
+[White "Gade Sharanya"]
+[Black "Gormally, Daniel W"]
+[Result "0-1"]
+[WhiteElo "2084"]
+[BlackElo "2397"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Be7 6.e4 dxe4 7.fxe4 c5 8.d5 exd5 9.exd5 O-O 10.Be2 Bd6 11.Nf3 Bg4 12.O-O Nbd7 13.Bg5 h6 14.Bh4 Re8 15.Nd2 Bxe2 16.Nxe2 Qc7 17.Ng3 Bf4 18.Bxf6 Nxf6 19.Rf3 Be3+ 20.Kh1 Ng4 21.Nde4 Rxe4 22.d6 Qc6 23.Nxe4 Qxe4 24.Qe1 Qe5 25.Qh4 Qd4 26.Qe7 Rf8 27.Raf1 Bg5 28.Qxb7 Qxd6 29.Rg3 Ne3 30.Rg1 Nxc4 31.Rc3 Ne5 32.h3 Nd3 33.Rf1 Bf6 34.Rc2 Bd4 35.Qf3 c4 36.b3 Qg6 37.Rd2 Qg5 38.Re2 Qb5 39.bxc4 Qxc4 40.Rd1 Ne5 41.Qe4 f5 42.Qc2 Qxc2 43.Rxc2 Bb6 44.Re2 Ng6 45.a4 f4 46.Rd6 Nh4 47.Rd7 f3 48.gxf3 Rxf3 49.Kh2 Ra3 50.Ree7 Ra2+ 51.Kh1 Ra1+ 52.Kh2 Bg1+ 0-1

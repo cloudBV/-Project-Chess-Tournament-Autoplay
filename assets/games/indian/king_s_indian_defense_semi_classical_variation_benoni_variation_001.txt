@@ -1,0 +1,14 @@
+[Event "Round 2.Tiebreaks: Vrolijk, Liam - Ernst, Sipke"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-2tiebreaks/XwXm2O74/VdexMasW"]
+[Date "2026.07.07"]
+[Round "8.3"]
+[White "Vrolijk, Liam"]
+[Black "Ernst, Sipke"]
+[Result "1/2-1/2"]
+[WhiteElo "2519"]
+[BlackElo "2540"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Classical Variation, Benoni Variation"]
+
+1.Nf3 Nf6 2.c4 c6 3.e3 d6 4.d4 g6 5.Nc3 Bg7 6.Be2 O-O 7.O-O Bf5 8.Nh4 Be6 9.b3 d5 10.Nf3 Ne4 11.Nxe4 dxe4 12.Nd2 c5 13.Nxe4 cxd4 14.exd4 Nc6 15.Be3 Nxd4 16.Rc1 Bf5 17.Bf3 Nxf3+ 18.Qxf3 Qc7 19.Rfd1 Rad8 20.h3 Qc6 21.Ng5 Qa6 22.Rxd8 Rxd8 23.g4 Be6 24.Nxe6 fxe6 25.Qe4 Kf7 26.a4 Qa5 27.Qxb7 Rd3 28.Qf3+ Kg8 29.c5 Rxb3 30.Qe4 Kf7 31.c6 Rc3 32.Rxc3 Qxc3 33.Bxa7 Be5 34.Be3 Bd6 35.Kg2 Ke8 36.Qf3 Qb4 37.Bh6 Kd8 38.Be3 Kc7 39.Qf7 Qxa4 40.Qxe6 Qxc6+ 41.f3 Qc2+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.7"]
+[White "Kaewpitakkun, Pantham"]
+[Black "Valvag, Torbjorn"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2104"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 e5 6.d4 cxd4 7.cxd4 exd4 8.Bf4 a6 9.Ba4 Nge7 10.Bd6 b5 11.Bb3 Bb7 12.e5 Nf5 13.Re1 Nxd6 14.exd6+ Kf8 15.Nbd2 f5 16.Rc1 Bf6 17.Bd5 Rc8 18.h4 Kg7 19.Nb3 Na5 20.Rxc8 Qxc8 21.Re7+ Bxe7 22.dxe7 Nxb3 23.axb3 Bxd5 24.Qxd4+ Kh6 25.Qxd5 Qc1+ 26.Kh2 Qf4+ 27.g3 Qe4 28.Qd2+ f4 29.Qc3 Re8 30.g4 b4 31.Qf6 Qxe7 32.g5+ Kh5 33.Qxf4 Rf8 34.Qg3 Qe4 0-1

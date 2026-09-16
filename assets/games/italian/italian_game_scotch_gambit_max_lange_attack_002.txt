@@ -1,0 +1,14 @@
+[Event "Round 7: Ketzetzis, Georgios - Nikolaidis, Ioannis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/kCN3dMoq"]
+[Date "2026.07.10"]
+[Round "7.81"]
+[White "Ketzetzis, Georgios"]
+[Black "Nikolaidis, Ioannis"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2449"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.Be3 O-O 9.Nxc6 bxc6 10.Bxc5 Nxc5 11.Bxc6 Rb8 12.Qxd5 Qe7 13.O-O Rxb2 14.Nc3 Rxc2 15.Qd4 Ne6 16.Qd3 Rb2 17.Nd5 Qc5 18.Rac1 Qd4 19.Qa3 Bb7 20.Rcd1 Qxe5 21.f4 Qe2 22.Ne7+ Kh8 23.Rde1 Qxg2+ 0-1

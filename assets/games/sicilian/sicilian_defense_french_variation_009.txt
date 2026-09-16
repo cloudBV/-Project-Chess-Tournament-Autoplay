@@ -1,0 +1,14 @@
+[Event "Open: Onslow, Alfie - Price, Gwilym"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/drzxNngx"]
+[Date "2026.07.04"]
+[Round "1.3"]
+[White "Onslow, Alfie"]
+[Black "Price, Gwilym"]
+[Result "1/2-1/2"]
+[WhiteElo "2199"]
+[BlackElo "2186"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 d5 4.exd5 exd5 5.d4 Nc6 6.Bg2 Bg4 7.O-O cxd4 8.Nbd2 Bc5 9.Nb3 Bb6 10.a4 a5 11.Qd3 Bxf3 12.Qxf3 Nge7 13.Re1 O-O 14.Bg5 f6 15.Bf4 Qd7 16.Rad1 Ne5 17.Qe2 Qxa4 18.Bxe5 fxe5 19.Qxe5 Nc6 20.Qxd5+ Kh8 21.Be4 Rf6 22.Bd3 Raf8 23.Qh5 h6 24.Qg4 Qb4 25.Nd2 Bc7 26.f4 Ne7 27.Qd7 Bd8 28.Nc4 Nf5 29.Re8 Rxe8 30.Qxe8+ Qf8 31.Qe4 g6 32.Ne5 Qg7 33.Re1 Kh7 34.Nf3 Rd6 35.Qe8 Qd7 36.Qe2 Ne3 37.Ne5 Qg7 38.h4 Kg8 39.Qf3 Bb6 40.Qe4 Nf5 41.Nc4 Rf6 42.Qe8+ Qf8 43.Qb5 Qc5 44.Re8+ Kg7 45.Qd7+ Rf7 46.Qe6 Bc7 47.Qc8 Ne7 48.Qxb7 Qc6 49.Qxc6 Nxc6 50.Rc8 Nb4 51.Ra8 Nd5 52.Nxa5 g5 53.hxg5 hxg5 54.Bc4 Nb6 55.Ra7 Nxc4 56.Nxc4 gxf4 57.gxf4 d3 58.cxd3 Bb6+ 59.Nxb6 Rxa7 60.Kf2 Kf6 61.Ke3 Rb7 62.Nc4 Re7+ 63.Kd4 Kf5 64.Ne3+ Ke6 65.f5+ Kd6 66.b4 Rh7 67.Nc4+ Kc6 68.Ke5 Kb5 69.Nd6+ Kxb4 70.Ne4 Rh3 71.f6 Rxd3 72.Nd6 Rh3 73.Nf5 Rh8 74.Ke6 Rf8 75.f7 Rxf7 76.Kxf7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "1.8"]
+[White "Svacina, Tobias"]
+[Black "Mach, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "2225"]
+[BlackElo "2124"]
+[ECO "A16"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Grünfeld Defense"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.e3 g6 5.d4 Bg7 6.Nf3 O-O 7.Bc4 Nb6 8.Bb3 c5 1/2-1/2

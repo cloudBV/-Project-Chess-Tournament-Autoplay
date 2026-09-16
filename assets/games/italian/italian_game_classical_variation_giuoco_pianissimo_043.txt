@@ -1,0 +1,15 @@
+[Event "Round 7: Gyurjinyan, Valter - Sargsyan, Sargis Vach."]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/hahRKGCx"]
+[Date "2026.07.09"]
+[Round "7.3"]
+[White "Gyurjinyan, Valter"]
+[Black "Sargsyan, Sargis Vach."]
+[Result "0-1"]
+[WhiteElo "2185"]
+[BlackElo "2417"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 O-O 7.O-O a5 8.h3 Be6 9.Re1 Bxc4 10.Nxc4 h6 11.a4 Re8 12.Be3 Bxe3 13.Nxe3 Qd7 14.Qb3 b6 15.Rad1 Rad8 16.Nd5 Nxd5 17.Qxd5 Ne7 18.Qb3 Ng6 19.Qb5 Qxb5 20.axb5 d5 21.g3 f6 22.h4 h5 23.d4 dxe4 24.Rxe4 Kf7 25.Kf1 exd4 26.Rexd4 Rxd4 27.Rxd4 Ne5 28.Nd2 Re7 29.Nc4 Nf3 30.Rd5 g6 31.Ne3 Ne5 32.Rd8 Rd7 33.Rxd7+ Nxd7 34.Nd5 Ke6 35.Nf4+ Kf5 36.Ke2 Nc5 37.Nd5 Na4 38.b3 Ke5 39.Nxc7 Nxc3+ 40.Kd3 Nd5 41.Na8 g5 42.Kc4 g4 43.Kd3 f5 44.Kc4 Ke4 45.Nxb6 Nxb6+ 46.Kc5 a4 47.bxa4 Nxa4+ 48.Kb4 Nb6 49.Kc5 Nc8 0-1

@@ -1,0 +1,15 @@
+[Event "Round 9: Boix Redorta, Roc - Silva Cerda, Mark Valentin"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-9/EPfgx8Ax/olnAioLM"]
+[Date "2026.06.21"]
+[Round "9.1"]
+[White "Boix Redorta, Roc"]
+[Black "Silva Cerda, Mark Valentin"]
+[Result "1/2-1/2"]
+[WhiteElo "2159"]
+[BlackElo "2166"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.d4 cxd4 5.Qxd4 Nf6 6.e5 Nc6 7.Bb5 Nh5 8.e6 Bg7 9.exf7+ Kxf7 10.Qa4 Qa5 11.Qxa5 Nxa5 12.Nf3 Bxc3+ 13.bxc3 Bf5 14.Bd3 Rhc8 15.O-O Nf6 16.Rb1 b6 17.Ng5+ Ke8 18.Re1 Kd7 19.Bb5+ Nc6 20.Ba4 Rab8 21.c4 h6 22.Nf3 Kd8 23.Bb2 Nh5 24.Rbd1 Nxf4 25.Bg7 h5 26.Ng5 Rb7 27.Bxc6 Rxc6 28.Rd4 Kc8 29.Rxf4 e5 30.Bxe5 dxe5 31.Rxe5 Rbc7 32.Ne4 Rd7 33.Rd5 Bxe4 34.Rxd7 Kxd7 35.Rxe4 Rd6 36.c3 Rd1+ 37.Kf2 Ra1 38.Re2 Kd6 39.Ke3 Kc5 40.Kf4 Rd1 41.Kg5 Rd6 42.Re7 Kxc4 43.Rc7+ Kd3 44.Rxa7 Kxc3 45.h4 b5 46.Rc7+ Kb4 47.Ra7 Rc6 48.g3 Kc3 49.Ra3+ Kc4 50.Kh6 b4 51.Rf3 Ra6 52.Rf8 Kc3 53.Rc8+ Kb2 54.Rb8 Kc3 55.Rc8+ Kb2 56.Rb8 Ka3 57.Kg5 Rc6 58.Ra8+ Kb2 59.Rb8 Ka3 60.Ra8+ Kb2 61.Rb8 Kc3 62.Kh6 Ra6 63.Rc8+ Kd4 64.Rb8 Ke3 65.Rxb4 Kf3 66.Rb3+ Kg4 67.Kg7 g5 68.Rb4+ Kxg3 69.hxg5 h4 70.g6 h3 71.Kf7 h2 72.Rb1 Ra7+ 73.Kf8 Ra8+ 74.Kf7 1/2-1/2

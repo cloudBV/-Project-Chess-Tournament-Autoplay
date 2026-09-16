@@ -1,0 +1,14 @@
+[Event "Round 1.1: Ten Hertog, Hugo - L'Ami, Erwin"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-11/0px5I3Oy/XOC4TjtV"]
+[Date "2026.06.09"]
+[Round "1.2"]
+[White "Ten Hertog, Hugo"]
+[Black "L'Ami, Erwin"]
+[Result "0-1"]
+[WhiteElo "2518"]
+[BlackElo "2592"]
+[ECO "A35"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 e5 5.d4 cxd4 6.exd4 e4 7.Ne5 Bd6 8.f4 Bb4 9.d5 Ne7 10.d6 Ng6 11.a3 Bxc3+ 12.bxc3 O-O 13.Be2 Qa5 14.Qd4 b6 15.g4 Bb7 16.g5 Ne8 17.Rb1 Nxe5 18.fxe5 Bc6 19.h4 g6 20.h5 Ng7 21.hxg6 fxg6 22.c5 Ne6 23.Qe3 Qxc5 24.Qxc5 bxc5 25.Bg4 Nf4 26.Bxf4 Rxf4 27.Be2 Re8 28.e6 dxe6 29.Rh3 Rf5 30.d7 Rd8 31.Bc4 Rxg5 32.Ke2 Kg7 33.Bxe6 Re5 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Costantino, Claudio Emanuele - Perossa, Nicolas"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-3/GTgm6lvH/DgfKuAt3"]
+[Date "2026.07.07"]
+[Round "3.2"]
+[White "Costantino, Claudio Emanuele"]
+[Black "Perossa, Nicolas"]
+[Result "1/2-1/2"]
+[WhiteElo "2222"]
+[BlackElo "2325"]
+[ECO "C48"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.d3 a6 6.Bc4 h6 7.a3 Bc5 8.O-O d6 9.Be3 O-O 10.h3 b5 11.Ba2 Bb7 12.Nd5 Ba7 13.c3 1/2-1/2

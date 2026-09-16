@@ -1,0 +1,14 @@
+[Event "Round 3: Dolzhykova, Kateryna - Babiy, Olga"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-3/Ckshw7Z0/2MgkOt1W"]
+[Date "2026.07.19"]
+[Round "3.2"]
+[White "Dolzhykova, Kateryna"]
+[Black "Babiy, Olga"]
+[Result "1/2-1/2"]
+[WhiteElo "2290"]
+[BlackElo "2294"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e6 7.f4 Nbd7 8.Qf3 g6 9.Be3 Bg7 10.O-O O-O 11.a4 Re8 12.Nb3 Qc7 13.a5 Kh8 14.Bf2 Nb8 15.Na4 Nbd7 16.Rfd1 e5 17.h3 d5 18.Nb6 Nxb6 19.axb6 Qb8 20.fxe5 dxe4 21.Bxe4 Nxe4 22.Qxe4 Bf5 23.Qc4 Be6 24.Qb4 Qxe5 25.Bd4 Qg5 26.Ra5 Bf5 27.Qd2 Qxd2 28.Rxd2 Rac8 29.Bxg7+ Kxg7 30.Nd4 Be4 31.c3 f5 32.Ra1 Kf6 33.Rad1 Red8 34.Nb3 Rxd2 35.Nxd2 Bc2 36.Rc1 Bd3 37.c4 Rd8 38.Kf2 Re8 39.Kf3 Re6 40.c5 Bb5 41.Nb3 Bc6+ 1/2-1/2

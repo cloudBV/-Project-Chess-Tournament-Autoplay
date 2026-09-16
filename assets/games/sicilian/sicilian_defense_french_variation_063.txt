@@ -1,0 +1,14 @@
+[Event "Round 5: Yip, Carissa - Materia, Marco"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-5/6HhuU95w/pDD8NU5Y"]
+[Date "2026.07.19"]
+[Round "5.3"]
+[White "Yip, Carissa"]
+[Black "Materia, Marco"]
+[Result "0-1"]
+[WhiteElo "2369"]
+[BlackElo "2509"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 d5 5.Nbd2 Nf6 6.Bg2 Be7 7.O-O h6 8.Re1 O-O 9.h4 b5 10.e5 Nh7 11.Nf1 a5 12.h5 a4 13.Bf4 a3 14.b3 Bb7 15.Ne3 d4 16.Ng4 Nb4 17.Qc1 Kh8 18.Nd2 Bxg2 19.Kxg2 Rc8 20.Kg1 Bg5 21.Ne4 Bxf4 22.Qxf4 Nxc2 23.Nd6 Rc7 24.Nxb5 Rd7 25.Rac1 Nxe1 26.Rxe1 Ng5 27.Kh2 Qa8 28.Rc1 Qd5 29.Nd6 f5 30.Nc4 Nf3+ 0-1

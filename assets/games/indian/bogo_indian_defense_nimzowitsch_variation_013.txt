@@ -1,0 +1,15 @@
+[Event "Round 1: Biyiksiz, Ali Batuhan - Oz, Ege"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/mYVpkrny"]
+[Date "2026.07.13"]
+[Round "1.24"]
+[White "Biyiksiz, Ali Batuhan"]
+[Black "Oz, Ege"]
+[Result "1-0"]
+[WhiteElo "2241"]
+[BlackElo "2120"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Bg2 Bxd2+ 7.Qxd2 Ne4 8.Qc2 Qb4+ 9.Kf1 d5 10.e3 O-O 11.Nbd2 Nxd2+ 12.Nxd2 dxc4 13.a3 Qe7 14.Nxc4 Bd7 15.f4 Nd8 16.Kf2 c5 17.Ne5 cxd4 18.Qc7 dxe3+ 19.Kg1 Nc6 20.Qxd7 Qc5 21.Bxc6 Rad8 22.Qxb7 Qc2 23.Ng4 e2 24.Re1 Rb8 25.Qa6 1-0

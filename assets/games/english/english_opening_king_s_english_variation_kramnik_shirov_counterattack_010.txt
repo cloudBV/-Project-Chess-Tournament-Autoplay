@@ -1,0 +1,15 @@
+[Event "Round 4: Yudasin, Leonid - Jiang, Andrew"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-4/Hgx3Jw9l/wtybxNPU"]
+[Date "2026.07.09"]
+[Round "4.4"]
+[White "Yudasin, Leonid"]
+[Black "Jiang, Andrew"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2250"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 Bxc3 4.bxc3 d6 5.Bg2 Nc6 6.d3 Nge7 7.Nf3 O-O 8.O-O f6 9.Ne1 Be6 10.Nc2 Qd7 11.Re1 Bh3 12.e4 Bxg2 13.Kxg2 f5 14.f3 Rf7 15.Rb1 b6 16.Nb4 Raf8 17.Nxc6 Qxc6 18.Rb2 Ng6 19.Qe2 h5 20.exf5 Rxf5 21.Qe4 Qd7 22.Rf2 c6 23.h4 d5 24.cxd5 cxd5 25.Qb4 Qf7 26.Ref1 Kh7 27.Qb3 Qb7 28.d4 Qc6 29.Be3 e4 30.fxe4 Rxf2+ 31.Rxf2 Rxf2+ 32.Kxf2 dxe4 1/2-1/2

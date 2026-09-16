@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-7/djRlwqVj/25deEcW9"]
+[Date "2026.07.09"]
+[Round "7.1"]
+[White "Pechac, Jergus"]
+[Black "Jares, Michal"]
+[Result "1-0"]
+[WhiteElo "2539"]
+[BlackElo "2310"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.g3 d4 4.Bg2 Nf6 5.O-O c5 6.e3 Nc6 7.d3 dxe3 8.Bxe3 Be7 9.Nc3 O-O 10.h3 Bd7 11.d4 cxd4 12.Nxd4 Nxd4 13.Qxd4 Qc8 14.Nb5 a6 15.Nd6 Bxd6 16.Qxd6 Bc6 17.Bxc6 Qxc6 18.Qxc6 bxc6 19.Rfd1 Rfd8 20.Rac1 Kf8 21.Rxd8+ Rxd8 22.Rc3 Rb8 23.Ra3 Rxb2 24.Rxa6 Nd7 25.Rxc6 Rxa2 26.Rc8+ Ke7 27.c5 Rc2 28.c6 Ne5 29.c7 Kd7 30.Rg8 Rxc7 31.Rxg7 Ke7 32.Rxh7 Rc2 33.Bg5+ Ke8 34.Bf6 Ng6 35.h4 Rc5 36.h5 Ne5 37.Rh8+ Kd7 38.h6 Ng6 39.Rd8+ Kc7 40.h7 Rf5 41.Rg8 Rh5 42.Rxg6 1-0

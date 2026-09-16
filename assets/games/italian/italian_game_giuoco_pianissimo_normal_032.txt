@@ -1,0 +1,15 @@
+[Event "Round 4: Bakhrillaev, Bakhrom - Sadubayev, Airat"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/TWWTnhOu"]
+[Date "2026.07.24"]
+[Round "4.4"]
+[White "Bakhrillaev, Bakhrom"]
+[Black "Sadubayev, Airat"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2249"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a5 7.Re1 O-O 8.h3 h6 9.Nbd2 Be6 10.Bb5 Qb8 11.Nf1 Qa7 12.d4 exd4 13.Bxc6 dxc3 14.Ba4 Bxf2+ 15.Kh2 Bxe1 16.Qxe1 d5 17.Be3 Qa6 18.e5 Ne4 19.bxc3 f6 20.Ng3 fxe5 21.Nxe4 dxe4 22.Nxe5 Qd6 23.Qg3 Rf5 24.Ng4 Qxg3+ 25.Kxg3 Rd8 26.Nf2 b5 27.Bc2 b4 28.Nxe4 Rf7 29.cxb4 axb4 30.Bc5 Ra8 31.Rd1 Bxa2 32.Bxb4 Kh8 33.Nc5 c6 34.Be4 Bd5 35.Rxd5 cxd5 36.Bxd5 Rb8 37.Bxf7 Rxb4 38.Nd3 Rb5 39.Kf4 Ra5 40.Ne5 Kh7 41.Bc4 Ra4 42.Kf5 Ra8 43.Ke6 Re8+ 44.Kd6 Ra8 45.Bd5 Ra7 46.Ke6 Kh8 47.Nc6 Ra1 48.Be4 Re1 49.Ke5 Kg8 50.Ne7+ Kf7 51.Nf5 Kg8 52.Nd6 Ra1 53.Nc4 Re1 54.Kf5 Rf1+ 55.Bf3 Kh7 56.Ne5 Ra1 57.Be4 Ra6 58.Nc6 Ra1 59.Ne7 Ra6 60.Ke5+ Kh8 61.h4 Rb6 62.g4 Ra6 63.h5 Rb6 64.Nc6 Rb2 65.Bf5 Rb7 66.Kd6 Rb6 67.Be4 Ra6 68.Ke7 Ra4 69.Bf5 Ra6 70.Ne5 Ra7+ 71.Kf8 Ra8+ 72.Kf7 Ra7+ 73.Nd7 Rc7 74.Kf8 Rc8+ 75.Ke7 Rc7 76.Kd6 Ra7 77.Be6 Ra6+ 78.Ke5 Ra5+ 79.Bd5 Ra4 80.Kf5 Ra5 81.Ke6 Ra4 82.Ne5 Ra7 83.Ng6+ Kh7 84.Be4 Kg8 85.Ne7+ Kf8 86.Ng6+ Kg8 87.Bd5 Kh7 88.Kd6 Ra4 89.Be6 Ra7 90.Ne7 Kh8 91.Bf5 Rb7 92.Ke6 Rb6+ 93.Kf7 Rf6+ 94.Ke8 Ra6 95.Bc2 Rb6 96.Be4 Re6 97.Bd5 Rb6 98.Bc6 Rb4 99.Bd7 Rb6 100.Nd5 Ra6 101.Nf4 Kh7 102.Ne6 Kg8 103.Ke7 Ra7 104.Nf8 Rb7 105.Ng6 Ra7 106.Ne5 Rb7 107.Nc6 Kh8 108.Ke8 Rb6 109.Kf8 Ra6 110.Ne5 Ra8+ 111.Be8 Kh7 112.Nc6 Kh8 113.Kf7 Kh7 114.Bd7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 8: Vandan Alankar Sawai - Ninov, Nikolai"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/VVNGoP2X"]
+[Date "2026.07.10"]
+[Round "8.19"]
+[White "Vandan Alankar Sawai"]
+[Black "Ninov, Nikolai"]
+[Result "1/2-1/2"]
+[WhiteElo "2113"]
+[BlackElo "2324"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.Nbd2 g6 7.O-O Bg7 8.b4 O-O 9.a4 d5 10.exd5 Nxd5 11.Ne4 Nce7 12.Re1 a5 13.b5 b6 14.Qb3 Bb7 15.Ng3 Nf4 16.Nxe5 Nxg2 17.Nxf7 Rxf7 18.Bxf7+ Kh7 19.Re4 Bxe4 20.dxe4 Nh4 21.Be3 Qf8 22.Rd1 Nf3+ 23.Kg2 Ne5 24.Be6 Qf3+ 25.Kg1 h5 26.Bh3 Bh6 27.Bg2 Qf6 28.Bd4 Rf8 29.Bxe5 Qxe5 30.Rd7 Qc5 31.Qa2 Bg5 32.Qe2 Kh6 33.Rd3 Bf4 34.Nf1 Qc4 35.Qc2 Qe6 1/2-1/2

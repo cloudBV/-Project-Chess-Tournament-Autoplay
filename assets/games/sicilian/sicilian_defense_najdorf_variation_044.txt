@@ -1,0 +1,14 @@
+[Event "Round 4: Papaioannou, Dimitrios - Stamatiou, Rodolfos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/o9czMPok"]
+[Date "2026.07.07"]
+[Round "4.58"]
+[White "Papaioannou, Dimitrios"]
+[Black "Stamatiou, Rodolfos"]
+[Result "0-1"]
+[WhiteElo "2348"]
+[BlackElo "2324"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 g6 8.Qe2 Bg7 9.O-O-O O-O 10.f4 Qc7 11.Kb1 e5 12.Nf3 h6 13.Bxf6 Nxf6 14.f5 gxf5 15.exf5 Bxf5 16.g4 Bxg4 17.Rhg1 Kh8 18.Rxg4 Nxg4 19.Ng5 Ne3 20.Qxe3 Qxc4 21.Nge4 f5 22.Nxd6 Qc6 23.Qg3 e4 24.Nd5 Rad8 25.Nf4 Rxd6 26.Rxd6 Qxd6 27.Ng6+ Qxg6 28.Qxg6 f4 29.Qxe4 f3 30.Qe1 f2 31.Qf1 Bd4 32.c3 Rg8 0-1

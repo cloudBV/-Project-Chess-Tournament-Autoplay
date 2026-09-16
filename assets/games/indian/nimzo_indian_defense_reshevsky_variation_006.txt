@@ -1,0 +1,14 @@
+[Event "Round 2: Korten, Lando - Bosselmann, Tom Linus"]
+[Site "https://lichess.org/broadcast/german-cup-championship-2026-dpem/round-2/l1g0hJN4/ec2UGJbf"]
+[Date "2026.07.23"]
+[Round "2.3"]
+[White "Korten, Lando"]
+[Black "Bosselmann, Tom Linus"]
+[Result "1/2-1/2"]
+[WhiteElo "2256"]
+[BlackElo "2182"]
+[ECO "E46"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 c6 6.a3 Ba5 7.b4 Bc7 8.c5 e5 9.Bb2 d5 10.dxe5 Bxe5 11.Nd4 Re8 12.Be2 Nbd7 13.O-O Ne4 14.Rc1 Ndf6 15.Nf3 Bxc3 16.Bxc3 Nxc3 17.Rxc3 Ne4 18.Rc1 Bg4 19.Qd4 a6 20.Rfd1 Qe7 21.a4 Bxf3 22.Bxf3 1/2-1/2

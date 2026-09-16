@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "4.4"]
+[White "Skypala, Ondrej"]
+[Black "Gnojek, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "2285"]
+[BlackElo "2406"]
+[ECO "A21"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Ne7 5.e3 c5 6.e4 O-O 7.Nge2 f5 8.d3 d6 9.Bg5 h6 10.Bxe7 Qxe7 11.Nd5 Qd8 12.O-O Nc6 13.Rb1 a5 14.a4 Nb4 15.Nxb4 axb4 16.b3 f4 17.f3 h5 18.Kh1 Be6 19.Ng1 Qd7 20.Rf2 g5 21.Qf1 Rf6 22.gxf4 exf4 23.h4 Rg6 24.Ne2 Qe7 25.hxg5 Qxg5 26.Bh3 Re8 27.Bxe6+ Rexe6 28.Qh3 Kh7 29.Rg2 Qxg2+ 30.Qxg2 Rxg2 31.Kxg2 Rg6+ 32.Kh3 Bd4 33.Rh1 Be3 34.Rh2 Kh6 35.Rg2 Rxg2 36.Kxg2 b6 1/2-1/2

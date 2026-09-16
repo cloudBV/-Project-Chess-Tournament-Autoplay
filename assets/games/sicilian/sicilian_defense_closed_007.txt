@@ -1,0 +1,14 @@
+[Event "Round 6: Lindvall, Johannes - Tiger-Norqvist, Axel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/n7l6yUiD"]
+[Date "2026.07.02"]
+[Round "6.13"]
+[White "Lindvall, Johannes"]
+[Black "Tiger-Norqvist, Axel"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2168"]
+[ECO "B25"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7 8.O-O O-O 9.Bd2 Nd4 10.Rb1 Rb8 11.Ne2 b5 12.g4 Nxf3+ 13.Bxf3 d5 14.Ng3 f5 15.h3 d4 16.Kh2 Rf7 17.Qe2 Qc7 18.Rg1 Bb7 19.gxf5 exf5 20.e5 Bxf3 21.Qxf3 Qb7 22.Qxb7 Rxb7 23.h4 Nd5 24.Ne2 Rb6 25.c3 dxc3 26.bxc3 Rd7 27.Rb2 Bf8 28.Rgb1 Nc7 29.d4 c4 30.a4 a6 31.Kg3 Nd5 32.Kf3 Rdb7 33.axb5 axb5 34.Rc2 Ra7 35.Bc1 Kf7 36.Ng3 Ke6 37.Nf1 Be7 38.Kg3 Ra4 39.Ne3 Nxe3 40.Bxe3 Kd5 41.Kf3 b4 42.cxb4 Rbxb4 43.Rh1 Rb3 44.h5 g5 45.fxg5 Bxg5 46.Re2 Raa3 47.Rhe1 h6 48.Kf2 Bh4+ 0-1

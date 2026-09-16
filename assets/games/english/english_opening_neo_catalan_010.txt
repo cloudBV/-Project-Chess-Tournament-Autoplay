@@ -1,0 +1,14 @@
+[Event "Round 7: Arnaudov, G. Petar - Kazakov, Vadim"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/ArVS1w6m"]
+[Date "2026.07.09"]
+[Round "7.21"]
+[White "Arnaudov, G. Petar"]
+[Black "Kazakov, Vadim"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2097"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 d4 5.d3 Bb4+ 6.Nbd2 a5 7.O-O O-O 8.Ne5 Bd6 9.f4 c5 10.Ndf3 Qc7 11.e4 dxe3 12.Bxe3 Nbd7 13.Nxd7 Bxd7 14.Bd2 Bc6 15.Bc3 Nd7 16.Qe2 Be7 17.f5 Bxf3 18.Qxf3 exf5 19.Qxb7 Qxb7 20.Bxb7 Ra7 21.Bc6 g6 22.Bxd7 Rxd7 23.Rfe1 a4 24.Rad1 Rfd8 25.Rxe7 Rxe7 26.Bf6 Kf8 27.Kf2 Rb8 28.Bxe7+ Kxe7 29.Rd2 Kf6 30.Ke3 Re8+ 31.Kf2 Rb8 32.Ke3 1/2-1/2

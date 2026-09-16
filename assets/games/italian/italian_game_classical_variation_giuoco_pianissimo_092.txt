@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.25"]
+[White "Kovalskyi, Roman"]
+[Black "Bujnoch, Radek"]
+[Result "0-1"]
+[WhiteElo "2060"]
+[BlackElo "2197"]
+[ECO "C54"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d5 7.exd5 Nxd5 8.Re1 Bg4 9.Nbd2 Nb6 10.h3 Bh5 11.Bb3 Qxd3 12.Nxe5 Qf5 13.Nef3 Rad8 14.Qe2 Nd5 15.Ne4 Bxf3 16.Qxf3 Qxf3 17.gxf3 Bb6 18.a4 h6 19.Bxh6 Nxc3 20.Nf6+ Kh8 21.Bg5 Rd6 22.Ne8 Rg6 23.h4 Nd4 24.bxc3 Nxb3 25.Rad1 f6 26.Re6 Nc5 27.Re7 fxg5 28.h5 Re6 29.Re1 Rxe1+ 30.Rxe1 Kg8 31.Re5 Nd3 32.Re7 Rf7 33.Re6 Nf4 34.Re5 Bxf2+ 35.Kf1 Kf8 36.Re4 Bb6 37.Re5 Nxh5 38.a5 Rxf3+ 39.Ke2 Re3+ 40.Rxe3 Bxe3 41.Nxc7 Bf4 42.Ne6+ Ke7 43.Nc5 b6 44.axb6 axb6 45.Na4 Bc7 46.Kd3 0-1

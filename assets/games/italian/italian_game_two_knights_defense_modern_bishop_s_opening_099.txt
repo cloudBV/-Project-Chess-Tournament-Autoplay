@@ -1,0 +1,14 @@
+[Event "Round 6: Fernandes Barbosa Dos Santos, Gabriel - Ghosh, Diptayan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-6/V8amVhcr/4SumTgOi"]
+[Date "2026.07.19"]
+[Round "6.6"]
+[White "Fernandes Barbosa Dos Santos, Gabriel"]
+[Black "Ghosh, Diptayan"]
+[Result "0-1"]
+[WhiteElo "2167"]
+[BlackElo "2530"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.a4 Bc5 6.c3 a6 7.O-O d6 8.h3 O-O 9.Re1 Ba7 10.Nbd2 Ne7 11.Nh4 c6 12.Bb3 Qc7 13.Nf1 d5 14.Qf3 dxe4 15.dxe4 Nd7 16.Ng3 Nc5 17.Bc2 Be6 18.Bxh6 Ng6 19.Nhf5 gxh6 20.Qh5 Nf4 21.Qg4+ Ng6 22.Qh5 Nf4 23.Qg4+ Ng6 24.Qh5 Qd8 25.Nxh6+ Kg7 26.Ngf5+ Bxf5 27.Nxf5+ Kf6 28.Rad1 Qc8 29.Rd6+ Ne6 30.Qf3 Rh8 31.Rd2 Ngf4 32.g3 Qg8 33.Kf1 Rxh3 34.Bb3 Qh7 35.Kg1 Rh8 36.Nh4 Qxh4 0-1

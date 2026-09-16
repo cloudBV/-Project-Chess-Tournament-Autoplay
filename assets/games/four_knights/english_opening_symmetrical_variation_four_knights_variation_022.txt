@@ -1,0 +1,14 @@
+[Event "Round 5: Khotenashvili, Bella - Badelka, Olga"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/kTdklZnQ"]
+[Date "2026.07.16"]
+[Round "5.1"]
+[White "Khotenashvili, Bella"]
+[Black "Badelka, Olga"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2406"]
+[ECO "A35"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 Nf6 4.e4 d6 5.h3 e5 6.d3 Be7 7.Be2 O-O 8.a3 a6 9.O-O Rb8 10.b4 cxb4 11.axb4 Nxb4 12.Be3 Nd7 13.d4 exd4 14.Nxd4 Nc5 15.Qb1 a5 16.Rd1 Bd7 17.Ndb5 Bxb5 18.Nxb5 Qb6 19.Bd4 Rfd8 20.Ra3 Bf8 21.Rg3 Nc6 22.Be3 Na7 23.h4 Nc6 24.h5 Ne5 25.Rd5 f6 26.Qa1 Qc6 27.f3 b6 28.Qb1 Qe8 29.f4 Nf7 30.Bf3 Kh8 31.Rh3 Rd7 32.Nc3 a4 33.Bf2 Ra7 34.Rd2 a3 35.Ra2 Ra5 36.Qc2 Rc8 37.Be2 Nh6 38.Re3 Ne6 39.Nd5 Nd4 40.Qd2 Nxe2+ 41.Qxe2 Qc6 42.Rc3 f5 43.Raxa3 Re8 44.Rxa5 bxa5 45.Qa2 Rxe4 46.Qxa5 Ng4 47.Ne3 Rxf4 48.Bg3 Nxe3 49.Rxe3 Re4 50.Qxf5 Re8 51.Rf3 h6 52.Qf7 Qe4 53.Rf4 Qe7 54.Qg6 Qe3+ 55.Kh2 Rc8 56.Qf5 Re8 57.Qf7 Rc8 58.Bf2 Qe8 59.Qd5 Qe5 60.Qxe5 dxe5 61.Re4 Bd6 62.c5 Bc7 63.Kh3 Kh7 64.Ra4 g6 65.g4 gxh5 66.gxh5 Bd8 67.Ra7+ Kg8 68.Ra6 Bg5 69.Re6 Bf4 70.Kg4 Kf7 71.Ra6 Ke7 72.Kf5 Kd7 73.Ke4 Kc7 74.Be1 Kb7 75.Rb6+ Ka7 76.Bf2 Ka8 77.c6 Rd8 78.Ra6+ Kb8 79.Ba7+ Kc8 80.Bb6 1-0

@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.06"]
+[Round "3.4"]
+[White "Toth, Lili"]
+[Black "Papp, Petra"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[BlackElo "2290"]
+[ECO "B10"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Na6 6.Nxf6+ gxf6 7.a3 Qd5 8.h3 h5 9.g3 h4 10.g4 Nc7 11.d3 Ne6 12.Be3 f5 13.gxf5 Qxf5 14.O-O-O Bg7 15.Kb1 Bd7 16.Rg1 Bf6 17.Rg4 c5 18.d4 Bc6 19.Bg2 O-O-O 20.dxc5 Rxd1+ 21.Qxd1 Rd8 22.Qe2 Nxc5 23.Bxc5 Qxc5 24.Nxh4 Bb5 25.Qe4 Rd1+ 26.Ka2 Ra1+ 27.Kb3 Rxa3+ 28.bxa3 Qc3+ 29.Ka2 Qb2# 0-1

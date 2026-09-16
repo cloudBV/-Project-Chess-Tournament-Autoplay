@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.10"]
+[Round "4.17"]
+[White "Bokorovics, Bertalan"]
+[Black "Kolednjak, Tomislav"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2057"]
+[ECO "C11"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.a4 Nc6 10.Qd2 Bf6 11.O-O-O Bd7 12.d5 Ne5 13.Nxe5 Bxe5 14.f4 Bf6 15.Bc4 b5 16.dxe6 fxe6 17.Bb3 c5 18.Bxe6 Bxe6 19.Qe2 Qe7 20.Rhe1 Kf7 21.Nd5 Qd6 22.Nxf6 Qxf4+ 23.Rd2 Kxf6 24.Qxe6+ Kg5 25.Qe7+ Kh5 26.Re3 Qf1+ 27.Rd1 Qf4 28.Kb1 1-0

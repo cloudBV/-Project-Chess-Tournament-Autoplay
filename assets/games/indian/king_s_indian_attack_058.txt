@@ -1,0 +1,14 @@
+[Event "Round 6: Saraci, Nderim - Mamikonyan, Artem T"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/lUCCeg1t"]
+[Date "2026.07.09"]
+[Round "6.11"]
+[White "Saraci, Nderim"]
+[Black "Mamikonyan, Artem T"]
+[Result "1/2-1/2"]
+[WhiteElo "2466"]
+[BlackElo "2210"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O Nc6 5.d3 e5 6.e4 dxe4 7.dxe4 Bg4 8.Nbd2 Be7 9.c3 O-O 10.Qe2 Qc7 11.Nc4 Rfd8 12.Ne3 Bc8 13.Nf5 h6 14.Nxe7+ Nxe7 15.Nd2 b6 16.Re1 a5 17.Nf1 Ba6 18.Qf3 Rd3 19.Ne3 Rd7 20.Ng4 Nxg4 21.Qxg4 Kh7 22.Be3 Rad8 23.Red1 Bc4 24.b3 Be6 25.Qe2 c4 26.Rxd7 Rxd7 27.Qb2 b5 28.h4 Qd8 29.Bf3 Ng8 30.bxc4 Bxc4 31.a4 Rb7 32.axb5 Rxb5 33.Qa3 Nf6 34.Qa4 Qc8 35.Rc1 Qc6 36.Kg2 Bd3 37.c4 Rc5 38.Qa3 Rxc4 39.Rxc4 Qxc4 40.Qxa5 Bf1+ 1/2-1/2

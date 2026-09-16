@@ -1,0 +1,14 @@
+[Event "Round 9: Rappazzo, Johannes - Gloeckler, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-9/Py4tbrrf/8a0rkYGX"]
+[Date "2026.07.19"]
+[Round "9.5"]
+[White "Rappazzo, Johannes"]
+[Black "Gloeckler, Christian"]
+[Result "1-0"]
+[WhiteElo "2032"]
+[BlackElo "2513"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 b5 8.Bb3 Be7 9.Qf3 Qc7 10.g4 b4 11.Nce2 Bb7 12.Nf4 Bxe4 13.Qh3 Nc6 14.Ndxe6 fxe6 15.Nxe6 Qb7 16.Nxg7+ Kd8 17.Ne6+ Kc8 18.g5 Nd7 19.Rg1 Nce5 20.O-O-O Kb8 21.f4 a5 22.fxe5 a4 23.exd6 axb3 24.dxe7 bxa2 25.Qg3+ Kc8 26.Kd2 Ra6 27.Nf8 Qd5+ 28.Ke1 Qxd1+ 29.Kxd1 a1=Q+ 30.Ke2 Rxf8 31.exf8=Q+ Nxf8 32.Rxa1 Rxa1 33.Qd6 Nd7 34.Qxb4 Bg6 35.Qc4+ Kd8 36.Bd4 Ra5 37.Bf6+ Nxf6 38.gxf6 Re5+ 39.Kf2 Rf5+ 40.Kg3 Rxf6 41.b4 Kd7 42.b5 Bf7 43.Qd4+ Rd6 44.Qa7+ Ke8 45.b6 Rg6+ 46.Kf2 Bd5 47.b7 Rg2+ 48.Ke3 Bxb7 49.Qxb7 Rxc2 50.Qxh7 Rc6 51.Qg8+ Ke7 52.Qg7+ Ke6 53.h4 Rc5 54.Qg6+ Ke7 55.h5 Re5+ 56.Kf4 Re6 57.Qg7+ Kd6 58.h6 Re1 59.h7 Rf1+ 60.Ke3 Re1+ 61.Kd2 Re7 62.Qxe7+ Kd5 1-0

@@ -1,0 +1,15 @@
+[Event "Round 4: Tekeyev, Zaur - Mitrabha, Guha"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/JqJUIZce"]
+[Date "2026.07.03"]
+[Round "4.1"]
+[White "Tekeyev, Zaur"]
+[Black "Mitrabha, Guha"]
+[Result "0-1"]
+[WhiteElo "2432"]
+[BlackElo "2525"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 a5 7.Bd3 Na6 8.Ne2 Bd6 9.O-O O-O 10.Ng3 Re8 11.Qc2 g6 12.Bh6 f5 13.Qd2 Be6 14.Rfe1 Nc7 15.Bg5 Be7 16.Bxe7 Rxe7 17.a3 Rd7 18.Ne2 Qh4 19.Bc2 Bc4 20.Qf4 Qf6 21.Ng3 Ne6 22.Qh6 Qg7 23.Qxg7+ Kxg7 24.Nf1 Rad8 25.Nd2 Bd5 26.Rac1 Nf4 27.f3 Be6 28.g3 Nd5 29.f4 Nf6 30.Nf3 b6 31.Ba4 Rd6 32.Rcd1 b5 33.Bc2 b4 34.axb4 axb4 35.Ra1 Rb8 36.Bd3 bxc3 37.bxc3 Rb3 38.Rec1 Nd5 39.Bc4 Rb2 40.Ne5 f6 41.Ra7+ Kh6 42.Nd3 Rd2 43.Ba6 Ne3 44.Nf2 Ra2 45.Re1 Nc2 46.Rc1 c5 47.dxc5 Rd2 48.Bd3 Rxa7 49.Rxc2 Ra1+ 50.Kg2 Bd5+ 0-1

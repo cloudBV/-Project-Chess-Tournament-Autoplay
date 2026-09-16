@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "5.4"]
+[White "Zielonka, Adam"]
+[Black "Warchol, Kamil"]
+[Result "1/2-1/2"]
+[WhiteElo "2180"]
+[BlackElo "2277"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.e3 Nf6 3.Nc3 Nc6 4.a3 d5 5.cxd5 Nxd5 6.Qc2 Nxc3 7.bxc3 Qg5 8.Nf3 Qg6 9.Qxg6 hxg6 10.d4 Bd6 11.g3 Bf5 12.Bg2 Be4 13.O-O O-O 14.a4 a5 15.Ba3 Bxa3 16.Rxa3 Rfe8 17.Rd1 1/2-1/2

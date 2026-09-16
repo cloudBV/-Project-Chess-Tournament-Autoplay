@@ -1,0 +1,14 @@
+[Event "Round 3.Tiebreaks: Peng, Zhaoqin - Van Foreest, Machteld"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-3tiebreaks/HDYBdlkm/c8fX7tdK"]
+[Date "2026.06.09"]
+[Round "9.1"]
+[White "Peng, Zhaoqin"]
+[Black "Van Foreest, Machteld"]
+[Result "1-0"]
+[WhiteElo "2351"]
+[BlackElo "2294"]
+[ECO "E70"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O e5 8.d5 Nd4 9.Nxd4 exd4 10.Ne2 Re8 11.Qc2 c5 12.h3 Qe7 13.Ng3 h5 14.Re1 h4 15.Nf1 Nh5 16.Bd2 g5 17.Qc1 Bf6 18.Nh2 Kh8 19.Qd1 Ng7 20.Ng4 Be5 21.Rb1 Bd7 22.Qc1 f6 23.f4 gxf4 24.Bxf4 Bxg4 25.hxg4 Rg8 26.Bxe5 Nh5 27.Qh6+ Qh7 28.Qxh7+ Kxh7 29.Bxd6 Rxg4 30.e5+ Kh8 31.Be2 1-0

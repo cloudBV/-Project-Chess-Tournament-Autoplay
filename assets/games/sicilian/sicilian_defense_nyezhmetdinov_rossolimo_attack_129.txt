@@ -1,0 +1,15 @@
+[Event "Round 2: Kaldarova, Ayaulym - Suleymenov, Alisher"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/BbFoGSMQ"]
+[Date "2026.07.22"]
+[Round "2.12"]
+[White "Kaldarova, Ayaulym"]
+[Black "Suleymenov, Alisher"]
+[Result "0-1"]
+[WhiteElo "2029"]
+[BlackElo "2476"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.h3 Bxf3 9.Qxf3 e6 10.Qg3 h5 11.d3 h4 12.Qe3 d5 13.exd5 Qd7 14.d6 Qxd6 15.Nd2 Qd5 16.Nf3 Be7 17.Bd2 Rd8 18.Rac1 Qf5 19.Rcd1 Kf8 20.Qg5 Qxg5 21.Bxg5 Nd5 22.Bxe7+ Ndxe7 23.Re4 Nf5 24.Ne5 Nxe5 25.Rxe5 b6 26.Rde1 g6 27.Kh2 Ke7 28.a4 a5 29.R5e4 Kf6 30.Rb1 Rd6 31.g4 hxg3+ 32.fxg3 Rd5 33.Kg2 Kg7 34.Kf2 Ne7 35.b4 cxb4 36.cxb4 Rf5+ 37.Rf4 Rxf4+ 38.gxf4 Nd5 39.bxa5 bxa5 40.Rb5 Rh4 41.Rxa5 Rxf4+ 42.Ke1 Nc3 43.Rc5 Nxa4 44.Rc7 Nb6 45.Bg2 Rf5 46.Ke2 Ra5 47.Rc2 Nd7 48.Ke3 Rg5 49.Kf2 Nf6 50.Bf3 Rf5 51.Rc4 Nd7 52.d4 Rf4 53.Ke3 Rh4 54.Bg2 Nf6 55.Kf2 e5 56.Ke3 Nh5 57.Bf1 Ng3 58.Bd3 e4 59.Bb1 Nf5+ 60.Kf2 e3+ 61.Ke2 Nxd4+ 62.Kxe3 Nf5+ 63.Kd3 Rxh3+ 64.Kd2 Rh2+ 65.Kd3 Rh1 66.Rb4 Re1 67.Kd2 Re5 68.Bd3 Ne7 0-1

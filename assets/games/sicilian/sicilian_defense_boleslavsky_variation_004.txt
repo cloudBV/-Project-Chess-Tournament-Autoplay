@@ -1,0 +1,15 @@
+[Event "Round 7: Bakhmatskyi, Vladyslav - Verkholantcev, Andrei"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-7/wtefqve1/VyVtmKf7"]
+[Date "2026.07.10"]
+[Round "7.4"]
+[White "Bakhmatskyi, Vladyslav"]
+[Black "Verkholantcev, Andrei"]
+[Result "1-0"]
+[WhiteElo "2436"]
+[BlackElo "2200"]
+[ECO "B58"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nf3 Be6 8.Bg5 Be7 9.O-O O-O 10.Bxf6 Bxf6 11.Nd5 g6 12.Bc4 Bg7 13.Ne3 Qd7 14.Qd3 Kh8 15.Rad1 Rad8 16.c3 f5 17.Bxe6 Qxe6 18.Nd5 Ne7 19.Rfe1 Nxd5 20.Qxd5 Qe7 21.exf5 gxf5 22.Nd4 Rf6 23.f4 Qf7 24.Nb5 Qxd5 25.Rxd5 e4 26.Red1 e3 27.Nxd6 Rd7 28.Nc4 Re7 29.Re5 1-0

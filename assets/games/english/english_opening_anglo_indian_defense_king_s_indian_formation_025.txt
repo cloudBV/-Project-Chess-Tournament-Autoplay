@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-6/1Djz4Ac6/63V86s8p"]
+[Date "2026.07.23"]
+[Round "6.2"]
+[White "Strom-Engdahl, Alexander"]
+[Black "Ostensen, Nicolai Maxime"]
+[Result "0-1"]
+[WhiteElo "2308"]
+[BlackElo "2407"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.O-O e5 7.d3 Nc6 8.Rb1 a6 9.b4 Rb8 10.a4 a5 11.bxa5 Nxa5 12.Bd2 Bd7 13.Nd5 Nxd5 14.cxd5 b6 15.Bxa5 bxa5 16.Qd2 Rxb1 17.Rxb1 Qa8 18.e4 Qa7 19.Qc3 Ra8 20.Qc2 Rb8 21.Rxb8+ Qxb8 22.Bf1 Qb6 23.Be2 Bh6 24.Bd1 Kf8 25.Kg2 Ke7 26.h4 Kd8 27.Ng5 Bxg5 28.hxg5 Ke7 29.Kg1 Qb4 30.Kg2 Qe1 31.Bf3 Kd8 32.g4 Qb4 33.Bd1 Qb6 34.Kf1 Ke7 35.Ke1 Kf8 36.Kf1 Kg8 37.Kg2 Kg7 38.Qc1 Kf8 39.Qc2 Ke7 40.Kf1 Kd8 41.Ke1 Kc8 42.Kf1 Qb4 43.f3 Qb6 44.Ke2 Kd8 45.Qb3 Ke7 46.Qxb6 cxb6 47.d4 f6 48.dxe5 dxe5 49.d6+ Kf7 50.Bb3+ Kg7 51.f4 exf4 52.Kf3 fxg5 53.e5 Bc6+ 54.Kf2 h5 55.Bd5 Bxa4 56.gxh5 gxh5 57.Bb3 Be8 58.e6 Kf6 59.d7 Ke7 60.dxe8=Q+ Kxe8 61.Kf3 b5 62.Bd5 Ke7 63.Ke4 a4 64.Kd4 b4 65.Ke4 b3 66.Kd4 0-1

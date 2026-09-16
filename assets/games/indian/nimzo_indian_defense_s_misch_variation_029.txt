@@ -1,0 +1,15 @@
+[Event "Round 4: Anciaux, Adrien - De Reese, Elias"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/yXoiEJtH"]
+[Date "2026.07.19"]
+[Round "4.9"]
+[White "Anciaux, Adrien"]
+[Black "De Reese, Elias"]
+[Result "1-0"]
+[WhiteElo "2202"]
+[BlackElo "2106"]
+[ECO "E26"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3 d6 7.Bd3 e5 8.Ne2 Nc6 9.O-O O-O 10.d5 Ne7 11.e4 Ng6 12.f3 Nh5 13.g3 Qd7 14.Kh1 h6 15.Ng1 Kh7 16.f4 Nf6 17.f5 Ne7 18.g4 g5 19.h4 gxh4 20.Bxh6 Kxh6 21.g5+ Kg7 22.gxf6+ Kxf6 23.Qh5 Ng8 24.Qxh4+ Kg7 25.Qg5+ Kh7 26.Ra2 Qd8 1-0

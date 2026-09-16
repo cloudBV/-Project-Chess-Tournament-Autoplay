@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.08"]
+[Round "5.4"]
+[White "Gusain, Himal"]
+[Black "Reyan Md."]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2161"]
+[ECO "A49"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 c5 7.c4 d5 8.Nbd2 cxd4 9.Bb2 Nc6 10.Nxd4 Bd7 11.cxd5 Nxd5 12.Nc4 Ndb4 13.a3 Bxd4 14.Bxd4 Nxd4 15.axb4 Bc6 16.e3 Bxg2 17.Kxg2 Nb5 18.Qf3 Qc7 19.Rac1 Rac8 20.Na5 Nc3 21.Rc2 b6 22.Nc4 Nb5 23.Rd1 Qc6 24.Qxc6 Rxc6 25.Rd7 Nd6 26.Rxe7 Nxc4 27.bxc4 Rfc8 28.Rxa7 Rxc4 29.Rb2 R8c6 30.Rd7 Re6 31.Rd5 Kg7 32.Kf3 Kf6 33.h4 Re5 34.Rd4 Rc6 35.Ke2 Ke6 36.Kd3 Rf5 37.Re4+ Re5 38.Rxe5+ Kxe5 39.Rc2 Rxc2 1-0

@@ -1,0 +1,15 @@
+[Event "Round 7: Moor, Nathaniel Philip - Yudasin, Leonid"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-7/NJJYVIrT/qDE9XBub"]
+[Date "2026.07.11"]
+[Round "7.4"]
+[White "Moor, Nathaniel Philip"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2255"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.h3 Be6 9.Qf3 O-O 10.O-O-O Nbd7 11.g4 Nb6 12.g5 Nfd7 13.h4 Rc8 14.Nd5 Nc4 15.Bh3 b5 16.Rdg1 Bxd5 17.exd5 Qc7 18.Bf5 g6 19.Bd3 f5 20.gxf6 Nxf6 21.Bh6 Nxb2 22.Kxb2 Qc3+ 23.Kb1 e4 24.Bxe4 Nxe4 25.Qxe4 Bf6 26.Bc1 1-0

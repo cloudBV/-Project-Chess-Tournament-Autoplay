@@ -1,0 +1,15 @@
+[Event "Round 7: Bortnyk, Mykola - OSUNFUYI, Abimbola"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-7/bCaGsiCi/SpxXq8rW"]
+[Date "2026.07.18"]
+[Round "7.7"]
+[White "Bortnyk, Mykola"]
+[Black "OSUNFUYI, Abimbola"]
+[Result "1-0"]
+[WhiteElo "2440"]
+[BlackElo "2140"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Portsmouth Gambit"]
+
+1.e4 c5 2.Nf3 Nc6 3.b4 cxb4 4.d4 g6 5.a3 Bg7 6.axb4 d5 7.exd5 Qxd5 8.c3 Nf6 9.b5 Na5 10.Rxa5 Qe4+ 11.Be2 Qxb1 12.Bd3 1-0

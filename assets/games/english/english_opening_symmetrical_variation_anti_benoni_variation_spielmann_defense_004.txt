@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "15.11"]
+[White "Brzezina, Piotr"]
+[Black "Karakhanyan, Vazgen"]
+[Result "1-0"]
+[WhiteElo "2203"]
+[BlackElo "2043"]
+[ECO "A33"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.Nc3 cxd4 5.Nxd4 Nc6 6.e4 Bb4 7.Qd3 d5 8.exd5 exd5 9.Be2 dxc4 10.Qe3+ Qe7 11.Nxc6 bxc6 12.Bxc4 Qxe3+ 13.Bxe3 O-O 14.O-O Bf5 15.Rfd1 a5 16.Rac1 Rfd8 17.f3 h6 18.Kf2 g5 19.h4 Nh7 20.hxg5 hxg5 21.Ne2 Kg7 22.Nd4 Bd7 23.Bd3 c5 24.Nf5+ Bxf5 25.Bxf5 Rxd1 26.Rxd1 c4 27.Rh1 Rh8 28.Bd4+ f6 29.Bxh7 Rxh7 30.Bxf6+ Kg6 31.Rxh7 Kxh7 32.Bxg5 Kg6 33.Be3 a4 34.Bd4 Kf5 35.Ke3 Kg5 36.Ke4 Be1 37.Kd5 Kf4 38.Be5+ Kf5 39.Bd4 Kf4 40.Kxc4 Kg3 41.Bc3 a3 42.bxa3 Bf2 43.a4 Kxg2 44.f4 Kf3 45.f5 Ke4 46.f6 Bh4 47.Kc5 Kf5 48.a5 Ke6 49.Kc6 Bf2 50.a6 Kf7 51.Kb7 1-0

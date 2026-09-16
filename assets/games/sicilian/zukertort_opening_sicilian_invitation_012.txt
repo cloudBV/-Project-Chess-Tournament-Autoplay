@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-7-game-1/WK3QQ8jg/3OiTsh77"]
+[Date "2026.07.06"]
+[Round "13.1"]
+[White "Nakonechnyi, Oleksii"]
+[Black "Chen, Chicheng Leon"]
+[Result "1-0"]
+[WhiteElo "2400"]
+[BlackElo "2288"]
+[ECO "A04"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 e5 4.d3 d5 5.O-O Nf6 6.c4 d4 7.e3 Be7 8.exd4 cxd4 9.Re1 Nd7 10.a3 a5 11.Qc2 O-O 12.Nbd2 Qc7 13.b3 Nc5 14.Ne4 f5 15.Nxc5 Bxc5 16.Bd2 h6 17.Qb2 b6 18.Nxe5 Nxe5 19.Rxe5 Qxe5 20.Bxa8 f4 21.Bd5+ Kh8 22.Bxf4 Rxf4 23.gxf4 Qxf4 24.Qe2 Bd6 25.Qe8+ Kh7 26.Bg8+ 1-0

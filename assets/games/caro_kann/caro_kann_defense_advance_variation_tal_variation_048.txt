@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.19"]
+[Round "9.14"]
+[White "Titus, Branco"]
+[Black "Grooten, Herman"]
+[Result "1-0"]
+[WhiteElo "2102"]
+[BlackElo "2198"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nf3 c5 8.dxc5 Bxc5 9.c4 Ne7 10.Nc3 Bb4 11.O-O Bxc3 12.bxc3 Nbc6 13.Ba3 dxc4 14.Qxc4 Qd5 15.Qe2 Ng6 16.Rfd1 Qa5 17.Bd6 Nf4 18.Qe4 Nd5 19.Ng5 Nde7 20.Rab1 Qa6 21.Rb3 Nf5 22.Rdb1 Nd8 23.Rxb7 Rc8 24.Qxf5 exf5 25.Re7+ Kf8 26.Rxf7+ Ke8 27.Re7+ Kf8 28.Rxa7+ Qxd6 29.exd6 Rh6 30.d7 Rxc3 31.Rb8 Ke7 32.Rxd8 1-0

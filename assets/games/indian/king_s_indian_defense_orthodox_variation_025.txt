@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.17"]
+[Round "14.4"]
+[White "GinkgoHCE 5.71"]
+[Black "ice4 6.1.1"]
+[Result "1-0"]
+[WhiteElo "3344"]
+[BlackElo "3156"]
+[ECO "E91"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Bg4 7.Be3 Nc6 8.O-O Re8 9.d5 Bxf3 10.Bxf3 Ne5 11.Be2 e6 12.f4 Ned7 13.dxe6 Rxe6 14.Bf3 c6 15.Bf2 Qa5 16.Rb1 Qc7 17.Qc2 Ree8 18.Rbd1 Rad8 19.g3 h5 20.Kh1 Ng4 21.Bg1 Nf8 22.a3 Qe7 23.Bxa7 Bxc3 24.Qxc3 c5 25.Bb6 Ra8 26.Qd2 Ra6 27.Ba5 Rxa5 28.Bxg4 Ra6 29.Bf3 Ne6 30.e5 Nd4 31.Bd5 Kh7 32.Qd3 Qd7 33.b4 Ra7 34.e6 Rxe6 35.g4 hxg4 36.f5 Re7 37.fxg6+ fxg6 38.Rf8 b6 39.Rdf1 Nf3 40.R1xf3 gxf3 41.Qxf3 Ra8 42.Rxa8 Re8 43.Rxe8 Qxe8 44.Qf7+ Qxf7 45.Bxf7 cxb4 46.Bxg6+ Kxg6 47.axb4 Kf5 48.Kg2 d5 49.cxd5 Ke5 50.h4 Kxd5 51.h5 Ke5 52.Kf2 Kf6 53.Ke3 Kg5 54.Kd4 Kxh5 55.Kc4 Kg5 56.Kb5 Kg6 57.Kxb6 Kf5 58.b5 Kg6 59.Kc5 Kf5 60.Kd5 Kf4 61.b6 Kf3 62.b7 Kg2 63.Ke4 Kf1 64.Ke3 Kg2 65.b8=Q Kh3 66.Kf3 Kh4 67.Qe5 Kh3 68.Qg3# 1-0

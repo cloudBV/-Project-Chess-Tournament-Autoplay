@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.5"]
+[White "Di Benedetto, Edoardo"]
+[Black "Castellanos Gomez, Alejandro"]
+[Result "1-0"]
+[WhiteElo "2470"]
+[BlackElo "2298"]
+[ECO "C11"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.h4 Bb7 10.Ne2 Qc7 11.h5 h6 12.Rh3 O-O-O 13.c3 Kb8 14.Kf2 cxd4 15.cxd4 Nb6 16.b3 Rc8 17.a3 b4 18.a4 Na5 19.Rc1 Qd7 20.Rxc8+ Qxc8 21.Qd1 Bc6 22.Nc1 Bd7 23.Bd2 Ka7 24.Nd3 Nxb3 25.Qxb3 Bxa4 26.Qa2 b3 27.Qa1 Qc2 28.Nb2 Qc6 29.Ne1 Bb5 30.Rxb3 Bxf1 31.Kxf1 Be7 32.Qd1 g6 33.hxg6 fxg6 34.Qc2 Nc4 35.Nxc4 dxc4 36.Rc3 Rc8 37.Qxg6 Bb4 38.Rc2 c3 39.Be3 Qd5 40.Qg3 a5 41.Qf3 Qb5+ 42.Kf2 Ka6 43.Qe2 a4 44.Nd3 Ka5 45.Nc5 a3 46.Nb3+ Ka4 47.Nc1 Qc6 48.Na2 Rg8 49.Kf1 Rg3 50.Qd3 Kb3 51.Re2 Ka4 52.Nc1 Qd5 53.Na2 Qb3 54.Kf2 Rg7 55.Qa6+ Ba5 56.Qc6+ Qb5 57.Qe4 Qc4 58.g3 h5 59.Qc2+ Kb5 60.Qb1+ Ka4 61.Qd1+ Kb5 62.Rc2 h4 63.gxh4 Kc6 64.Nxc3 Bxc3 65.Qc1 Kb7 66.Rxc3 Rg2+ 67.Kxg2 1-0

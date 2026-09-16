@@ -1,0 +1,14 @@
+[Event "Round 4: Hasenohr, Benedict - Iafelice, Vincenzo"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/UL7Bw14f"]
+[Date "2026.07.16"]
+[Round "4.17"]
+[White "Hasenohr, Benedict"]
+[Black "Iafelice, Vincenzo"]
+[Result "1-0"]
+[WhiteElo "2247"]
+[BlackElo "2086"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.d4 c5 5.O-O Nc6 6.c4 dxc4 7.Qa4 Bd7 8.Qxc4 b5 9.Qc3 b4 10.Qe3 c4 11.Ne5 Nxe5 12.Bxa8 Qxa8 13.dxe5 Nd5 14.Qd4 Qc8 15.Nd2 Bc5 16.Qg4 Kf8 17.Qxc4 h5 18.Kh1 Nb6 19.Qc2 Ba4 20.Nb3 Qa8+ 21.f3 Be7 22.Be3 h4 23.g4 Nd7 24.Rac1 Nxe5 25.Qc8+ Qxc8 26.Rxc8+ Be8 27.Rfc1 f5 28.Bd4 Ng6 29.Nc5 Kf7 30.e4 Nf4 31.exf5 exf5 32.Re1 fxg4 33.Re4 Bd6 34.Nb7 1-0

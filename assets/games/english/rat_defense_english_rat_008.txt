@@ -1,0 +1,14 @@
+[Event "Round 3: Ruether, Rudolf - Werner, Clemens"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/3ZS32elf"]
+[Date "2026.07.19"]
+[Round "3.19"]
+[White "Ruether, Rudolf"]
+[Black "Werner, Clemens"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2232"]
+[ECO "A41"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.Nc3 exd4 4.Qxd4 Nc6 5.Qd2 Nf6 6.b3 a5 7.Bb2 a4 8.Nd5 Be7 9.e3 a3 10.Bxf6 Bxf6 11.Nxf6+ Qxf6 12.Rd1 O-O 13.Nf3 Bf5 14.Be2 Be4 15.O-O Rfe8 16.Nd4 Qg6 17.f3 Nxd4 18.Qxd4 Bc6 19.Bd3 Qh6 20.e4 Ra5 21.Rf2 Bd7 1/2-1/2

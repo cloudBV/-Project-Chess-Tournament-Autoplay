@@ -1,0 +1,14 @@
+[Event "Round 4: Arjun Kalyan - Amonatov, Farrukh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-4/6fOXA5mh/3KmvFqyv"]
+[Date "2026.07.12"]
+[Round "4.1"]
+[White "Arjun Kalyan"]
+[Black "Amonatov, Farrukh"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2593"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.O-O O-O 10.Re1 Nbd7 11.a4 Rc8 12.a5 Rxc3 13.bxc3 Nxe4 14.Qd3 f5 15.c4 Qc7 16.Rab1 Rc8 17.Nd2 Nec5 18.Qa3 h6 19.h3 Bd8 20.Red1 Be7 21.Nb3 Ne4 22.Nd2 Nec5 23.Nb3 Ne4 24.Nd2 Ndf6 25.Nxe4 Nxe4 26.Qb2 f4 27.Ba7 Ra8 28.Qxb7 Qxb7 29.Rxb7 Bh4 30.Bf3 Ng5 31.Rxg7+ Kxg7 32.Bxa8 Bxc4 33.Rxd6 e4 34.Rd4 Be2 35.Bxe4 Ne6 36.Rd6 1-0

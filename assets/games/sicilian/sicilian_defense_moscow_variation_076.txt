@@ -1,0 +1,14 @@
+[Event "Round 4: Keinanen, Anastasia - Odner, Aarni"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-4/QbASiENr/Pe52e34V"]
+[Date "2026.07.14"]
+[Round "4.15"]
+[White "Keinanen, Anastasia"]
+[Black "Odner, Aarni"]
+[Result "1-0"]
+[WhiteElo "2259"]
+[BlackElo "2067"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 g6 7.a4 Bg7 8.c3 O-O 9.Bc2 e5 10.d4 Re8 11.dxe5 Nxe5 12.Nxe5 dxe5 13.a5 Qc7 14.c4 Be6 15.Qe2 Red8 16.Nc3 Ne8 17.Be3 Nd6 18.Bd3 f5 19.f3 f4 20.Bf2 Nc8 21.Nd5 Qd6 22.b4 cxb4 23.c5 Qf8 24.Nc7 1-0

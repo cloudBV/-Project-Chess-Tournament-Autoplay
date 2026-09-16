@@ -1,0 +1,15 @@
+[Event "Round 7: Hess, Robert - Hambleton, Aman"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/Ta7ofwVS"]
+[Date "2026.07.04"]
+[Round "7.7"]
+[White "Hess, Robert"]
+[Black "Hambleton, Aman"]
+[Result "0-1"]
+[WhiteElo "2557"]
+[BlackElo "2511"]
+[ECO "A30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.g3 e6 3.Bg2 d5 4.cxd5 exd5 5.d4 cxd4 6.Nf3 Bb4+ 7.Bd2 Bc5 8.O-O Nc6 9.Bf4 Nge7 10.Nbd2 Nf5 11.Nb3 Bb6 12.Qd3 O-O 13.Rfc1 Re8 14.a3 Qe7 15.Rc2 h6 16.g4 Nh4 17.Nxh4 Qxh4 18.h3 Qe7 19.Bxd5 Be6 20.Bg2 Rad8 21.Nd2 h5 22.gxh5 Qh4 23.Bg3 Qxh5 24.Qf3 Qg6 0-1

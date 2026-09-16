@@ -1,0 +1,15 @@
+[Event "Round 4: Umarov, Bekhruz - Damya, Aydin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/mbfxKNFT"]
+[Date "2026.07.15"]
+[Round "4.24"]
+[White "Umarov, Bekhruz"]
+[Black "Damya, Aydin"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2105"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.d4 cxd4 5.Qxd4 Nc6 6.Bb5 Bd7 7.Bxc6 bxc6 8.e5 dxe5 9.Nxe5 e6 10.Bg5 c5 11.Qh4 Bd6 12.Nxd7 Qxd7 13.Bxf6 gxf6 14.Qxf6 Rg8 15.O-O-O Qc6 16.Rhe1 Rg6 17.Qh8+ Ke7 18.Qxh7 Qxg2 19.Rxd6 Kxd6 20.Qxf7 Kc6 21.Rd1 Rg7 22.Qxe6+ Kb7 23.Ne4 Rc7 24.Nd6+ Kb6 25.Qb3+ 1-0

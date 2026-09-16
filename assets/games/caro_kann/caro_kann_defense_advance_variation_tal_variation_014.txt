@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.6"]
+[White "Bouska, Jiri"]
+[Black "Masnyak, Yuriy"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2052"]
+[ECO "B12"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Bg5 Qa5+ 8.Nd2 Qa6 9.c4 Bb4 10.b3 c5 11.Nf3 Nc6 12.dxc5 Bxc5 13.O-O Nge7 14.a3 dxc4 15.Nxc4 O-O 16.b4 Bb6 17.Qb3 Nf5 18.b5 Ncd4 19.Nxd4 Nxd4 20.bxa6 Nxb3 21.axb7 Rab8 22.Rab1 Rxb7 23.Nd6 Rbb8 24.Rxb3 Bxf2+ 25.Rxf2 Rxb3 26.Be7 Rfb8 27.Kh2 a5 28.a4 Ra8 29.Rxf7 Re3 30.Bg5 Rxe5 31.Re7 Rd5 32.Rxe6 Rd4 33.Nf5 Rxa4 34.Re7 Ra2 35.Rxg7+ Kh8 36.Bf6 Ra6 37.Bd4 Ra4 38.Ra7+ Rxd4 39.Rxa6 Rf4 40.Rxa5 Kh7 41.Kh3 Kg6 42.Ng3 Rb4 43.Ra6+ Kh7 44.Nxh5 Rc4 45.g3 Rb4 46.Nf4 Rb5 47.Kg4 Kg8 48.h5 Rc5 49.Ra7 Rb5 50.h6 Rb6 51.Rg7+ Kh8 52.Ng6+ Rxg6+ 53.Rxg6 Kh7 54.Kg5 Kh8 55.Ra6 1-0

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.8"]
+[White "Bokorovics, Bertalan"]
+[Black "Markovic, Franjo-Josip"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2190"]
+[ECO "B10"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Ne5 e6 9.Qe2 b5 10.Bd3 Qc7 11.a4 Bd6 12.Nxc6 b4 13.Nd4 a6 14.Nf5 Bb7 15.Nxg7+ Kf8 16.Nh5 Nxh5 17.Qxh5 Rg8 18.b3 Be5 19.Ra2 Rxg2 20.Bb2 Bxb2 21.Rxb2 Qf4 22.Qc5+ Ke8 23.Qe3 Qxe3+ 24.dxe3 Rxf2 25.Kxf2 Bxh1 26.e4 f5 27.exf5 exf5 28.Bxf5 Ke7 29.Bd3 Bb7 30.Rb1 Kd6 31.Rg1 Rf8+ 32.Ke2 Re8+ 33.Kd2 h6 34.a5 Re5 35.Rg6+ Kc7 36.Rxh6 Rxa5 37.h4 Re5 38.Rh8 a5 39.h5 Be4 40.h6 Bxd3 41.cxd3 Rh5 42.d4 Kb7 43.h7 Rh2+ 44.Kd3 a4 45.bxa4 b3 46.Rg8 b2 47.Rg1 Rxh7 48.Rb1 Rh3+ 49.Kc4 Rh2 50.Kc3 Rh3+ 51.Kxb2 Kc6 52.Kc2 Kd5 53.Rb4 Rg3 54.Kb2 Rh3 55.a5 Rh2+ 56.Kb3 Rh3+ 57.Ka4 Kc6 58.Rc4+ Kb7 59.Kb5 Rh5+ 60.Rc5 Rh1 61.a6+ Ka7 62.d5 Rb1+ 63.Kc6 Kxa6 64.d6 Rb6+ 65.Kc7 Rb7+ 66.Kc8 Rh7 67.d7 Kb6 68.Rc1 1-0

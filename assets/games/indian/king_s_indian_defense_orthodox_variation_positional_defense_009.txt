@@ -1,0 +1,15 @@
+[Event "Round 8: Vijayakumar, Rishi - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-8/vHhrrP3r/zZmdA45G"]
+[Date "2026.07.16"]
+[Round "8.1"]
+[White "Vijayakumar, Rishi"]
+[Black "Badacsonyi, Stanley"]
+[Result "1/2-1/2"]
+[WhiteElo "2392"]
+[BlackElo "2476"]
+[ECO "E94"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 Nbd7 7.O-O e5 8.dxe5 dxe5 9.b4 c6 10.Qc2 a5 11.b5 Qc7 12.Rd1 Re8 13.Ba3 Bf8 14.Qb2 Nc5 15.Bxc5 Bxc5 16.Na4 Bf8 17.bxc6 bxc6 18.Qc2 Bg4 19.c5 Rad8 20.h3 Bxf3 21.Bxf3 Rd4 22.Rxd4 exd4 23.Rd1 Qe5 24.Qc4 Rd8 25.Qa6 Nxe4 26.Qxa5 Rb8 27.Qa6 Nc3 28.Rf1 Nxa2 29.Qxc6 Nc3 30.Nxc3 dxc3 31.Qd5 Qxd5 32.Bxd5 Bxc5 33.Rc1 Bd4 34.Rc2 Rb5 35.Bc4 Rb4 36.Ba2 Kf8 37.g3 Ke7 38.Re2+ Kd6 39.Bxf7 Rb2 40.Rxb2 cxb2 41.Ba2 Kc5 42.Kf1 Kb4 43.Ke2 Kc3 44.Bb1 Bc5 45.f4 Bd4 46.g4 1/2-1/2

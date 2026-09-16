@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "15.4"]
+[White "Van Foreest, Jorden"]
+[Black "Saric, Ivan"]
+[Result "0-1"]
+[WhiteElo "2687"]
+[BlackElo "2600"]
+[ECO "B58"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.Be2 Nc6 5.d4 cxd4 6.Nxd4 e5 7.Nf3 Be7 8.O-O O-O 9.Re1 h6 10.Bf1 Bg4 11.h3 Bh5 12.Be2 Rc8 13.Be3 Bg6 14.Bd3 a6 15.Nh4 Bh7 16.Nd5 Nxd5 17.exd5 Bxd3 18.cxd3 Bxh4 19.dxc6 Rxc6 20.d4 Bf6 21.dxe5 dxe5 22.Qg4 Qc8 23.Qf3 Rd8 24.Rac1 Rdd6 25.g4 Qe6 26.b3 e4 27.Qe2 Be5 28.Bc5 Rd5 29.b4 f5 30.Rcd1 Rxd1 31.Rxd1 b6 32.Bd4 fxg4 33.hxg4 Bc7 34.Bb2 h5 35.Rd4 Qxg4+ 36.Qxg4 hxg4 37.Rxe4 Rc2 38.Be5 Bxe5 39.Rxe5 Rxa2 40.Re6 b5 41.Kg2 Ra4 42.Kg3 Kf7 43.Rb6 Ke7 44.Rg6 Kf7 45.Rb6 g6 46.Rc6 Kg7 47.Kxg4 Rxb4+ 48.Kg5 a5 49.Rxg6+ Kf7 50.Ra6 a4 51.f4 Rb1 52.Ra7+ Ke6 53.Ra6+ Kd5 54.f5 Rg1+ 55.Kf4 Rf1+ 56.Kg5 Kc4 57.f6 Kb3 58.Kg6 a3 59.f7 a2 60.Kg7 b4 61.f8=Q Rxf8 62.Kxf8 Kb2 0-1

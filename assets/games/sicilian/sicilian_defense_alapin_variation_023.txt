@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-4/9Kdq1tY4/mXolW8Ye"]
+[Date "2026.07.15"]
+[Round "4.11"]
+[White "Almeida, Joao Pedro Dias"]
+[Black "Sismeiro, Miguel"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2341"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 e6 5.d4 cxd4 6.cxd4 d6 7.Bc4 Be7 8.O-O O-O 9.Qe2 b6 10.Bd2 Bb7 11.Nc3 Nxc3 12.Bxc3 Nd7 13.Rad1 dxe5 14.d5 exd5 15.Bxd5 Qc8 16.Nxe5 Bxd5 17.Rxd5 Nxe5 18.Rxe5 Bf6 19.Re3 Bxc3 20.Rxc3 Qf5 21.Rfc1 Rfe8 22.Qa6 h6 23.Qb7 Qa5 24.a3 Rad8 25.g3 Qb5 26.b4 Rd7 27.Qc6 Qxc6 28.Rxc6 Rd3 29.Ra1 Re7 30.Rc4 g6 31.Ra2 Kg7 32.a4 Rb3 33.a5 b5 34.Rd4 Rc7 35.a6 g5 36.Ra5 Rc4 37.Rd7 Rbxb4 38.Rxa7 g4 39.Ra1 Ra4 40.Re1 Rc6 41.Rb7 Rcxa6 42.Rxb5 Ra1 43.Rxa1 Rxa1+ 44.Kg2 Kg6 45.h3 gxh3+ 1/2-1/2

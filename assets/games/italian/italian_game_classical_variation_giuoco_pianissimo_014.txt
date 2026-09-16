@@ -1,0 +1,15 @@
+[Event "Round 3: Sevian, Samuel - Madaminov, Mukhiddin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/6Qz5lHsp"]
+[Date "2026.07.03"]
+[Round "3.3"]
+[White "Sevian, Samuel"]
+[Black "Madaminov, Mukhiddin"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2501"]
+[ECO "C54"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.a4 d5 7.exd5 Nxd5 8.a5 a6 9.O-O Bf5 10.Nbd2 Nf6 11.Qc2 Qd7 12.Ne4 Bxe4 13.dxe4 Qg4 14.Re1 Rad8 15.b4 Ba7 16.b5 axb5 17.Bxb5 Ne7 18.a6 bxa6 19.Rxa6 Bb6 20.Ba3 Ng6 21.h3 Qf4 22.Bc1 Nxe4 23.Bxf4 Bxf2+ 24.Kh2 1-0

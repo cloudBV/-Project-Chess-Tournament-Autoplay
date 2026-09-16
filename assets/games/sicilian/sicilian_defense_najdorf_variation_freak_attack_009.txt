@@ -1,0 +1,15 @@
+[Event "Round 3: Kabinazar, Nurmukhammed - Serikbay, Assel"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/rjEQ908U"]
+[Date "2026.07.23"]
+[Round "3.16"]
+[White "Kabinazar, Nurmukhammed"]
+[Black "Serikbay, Assel"]
+[Result "1-0"]
+[WhiteElo "2310"]
+[BlackElo "2219"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Freak Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 e5 7.Nb3 Be6 8.g4 h6 9.Be3 Nbd7 10.h4 Nc5 11.Nxc5 dxc5 12.Qf3 h5 13.g5 Ng4 14.Bd2 Nh2 15.Qg3 Nxf1 16.Rxf1 Qc7 17.f4 exf4 18.Bxf4 Qa5 19.Bc7 Qb4 20.O-O-O Qc4 21.Qe5 Be7 22.Qxg7 Rf8 23.Qe5 1-0

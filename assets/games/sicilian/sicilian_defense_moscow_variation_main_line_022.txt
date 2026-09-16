@@ -1,0 +1,15 @@
+[Event "Round 7: Leiva, Gianmarco - Berdayes Ason, Dylan Isidro"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-7/l06Qp43p/1HtM3pVB"]
+[Date "2026.07.10"]
+[Round "7.4"]
+[White "Leiva, Gianmarco"]
+[Black "Berdayes Ason, Dylan Isidro"]
+[Result "1/2-1/2"]
+[WhiteElo "2332"]
+[BlackElo "2477"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.c3 Ngf6 6.Qe2 e6 7.d4 Be7 8.e5 dxe5 9.dxe5 Nd5 10.a3 Qa5 11.Bd2 Qb6 12.c4 Qxb2 13.cxd5 Qxa1 14.O-O Qb2 15.Nc3 Qc2 16.Qb5 Rb8 17.Rc1 Qf5 18.Qa4 a6 19.Re1 h6 20.h3 b5 21.Qxa6 O-O 22.d6 Bg5 23.Bxg5 hxg5 24.Nxb5 Qd3 25.a4 Nb6 26.Nxg5 Nxa4 27.Qxa4 Rxb5 28.Re3 Rb1+ 29.Kh2 Qf5 30.Qh4 Rb4 31.g4 Qg6 32.Nf3 f6 33.exf6 Qxf6 34.Qxf6 gxf6 35.Rxe6 Rb7 36.Nd2 Kf7 37.Re4 Re8 38.Rxe8 Kxe8 39.Ne4 c4 40.Nxf6+ Kd8 41.Ne4 Rb3 42.h4 c3 43.Nxc3 Rxc3 44.h5 Ke8 45.f4 Rf3 46.f5 Kf7 47.h6 Rd3 48.g5 Rxd6 49.Kg3 Rd4 50.Kf3 Ra4 51.Kg3 Rd4 52.Kh2 1/2-1/2

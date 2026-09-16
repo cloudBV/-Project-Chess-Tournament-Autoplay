@@ -1,0 +1,14 @@
+[Event "Round 10: Erne, Raphael - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/lWD24pLf"]
+[Date "2026.07.23"]
+[Round "10.13"]
+[White "Erne, Raphael"]
+[Black "Cherniaev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2166"]
+[BlackElo "2275"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 g6 4.d4 Bg7 5.Nf3 Ne7 6.O-O Nbc6 7.e3 O-O 8.Nc3 b6 9.cxd5 exd5 10.Re1 a5 11.b3 Ba6 12.a3 Bc8 13.Bb2 h6 14.Rc1 Be6 15.Nb5 Qd7 16.a4 Rfc8 17.e4 dxe4 18.Rxe4 Rab8 19.Rxe6 fxe6 20.Qe2 Nd5 21.Nh4 Nce7 22.Bh3 Kf7 23.Re1 Nf5 24.Qg4 Nde7 25.d5 Qxd5 26.Rd1 Qxb3 27.Bxg7 Kxg7 28.Nd4 Nxd4 29.Qxd4+ Kh7 30.Re1 Qb4 31.Qe5 Rg8 32.Bxe6 Rg7 33.Nf3 Rf8 34.Kg2 Nc6 35.Qe3 Re7 0-1

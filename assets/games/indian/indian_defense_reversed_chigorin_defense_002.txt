@@ -1,0 +1,14 @@
+[Event "Round 6: Ask, Josef - Bellon Lopez, Juan Manuel"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-6/e9ef0vgC/TaXduniv"]
+[Date "2026.07.22"]
+[Round "6.9"]
+[White "Ask, Josef"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[WhiteElo "2021"]
+[BlackElo "2262"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Reversed Chigorin Defense"]
+
+1.d4 Nf6 2.Nc3 c5 3.d5 e5 4.e4 d6 5.h3 g6 6.Nf3 h5 7.Nd2 b6 8.a4 a6 9.Nc4 Nbd7 10.f4 Rb8 11.Qf3 Qe7 12.Bd3 Bh6 13.O-O Kf8 14.fxe5 dxe5 15.d6 Qe8 16.Rf2 Bxc1 17.Rxc1 Kg7 18.Ne3 Bb7 19.Rcf1 Rf8 20.Qg3 Ng8 21.Nf5+ Kh7 22.Nh4 f6 23.Bc4 Nh6 24.Qd3 Rd8 25.Rd1 Nb8 26.Qg3 g5 27.Nf5 Nxf5 28.exf5 Nc6 29.Bd5 h4 30.Qg4 Kh6 31.Bf3 Qf7 32.d7 Na5 33.Bxb7 Nxb7 34.Rfd2 Na5 35.b3 Nc6 36.Rd6 Nd4 37.Nd5 Qg7 38.c3 Rxd7 39.Rxd7 Qxd7 40.Ne3 b5 41.cxd4 cxd4 42.Qe4 bxa4 43.Ng4+ Kg7 44.bxa4 Qxa4 45.Rb1 Rf7 46.Kh2 Qa3 47.Qf3 Qd6 48.Kh1 a5 49.Qa8 Qa3 50.Qe8 Qd3 51.Rg1 Qb3 52.Nh6 Rb7 53.Qg6+ Kh8 54.Qxf6+ Kh7 55.Qg6+ Kh8 56.Rc1 1-0

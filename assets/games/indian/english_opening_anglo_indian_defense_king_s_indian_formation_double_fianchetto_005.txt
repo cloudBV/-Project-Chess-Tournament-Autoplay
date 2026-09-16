@@ -1,0 +1,14 @@
+[Event "Round 1: Llari, Marc - Sadhwani, Raunak"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/9iinK8P3"]
+[Date "2026.07.18"]
+[Round "1.6"]
+[White "Llari, Marc"]
+[Black "Sadhwani, Raunak"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2634"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation, Double Fianchetto"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 g6 5.O-O Bg7 6.b3 O-O 7.Bb2 d6 8.d4 Nbd7 9.Nbd2 Ne4 10.Ne1 Nxd2 11.Qxd2 Bxg2 12.Nxg2 e6 13.e4 Qe7 14.Rfe1 Rad8 15.Rad1 Rfe8 16.Qe2 e5 17.Ne3 Qf8 18.f3 Nb8 19.d5 a5 20.Qc2 Nd7 21.a3 Ra8 22.Bc3 h5 23.Re2 Nc5 24.b4 Nd7 25.Rb1 axb4 26.axb4 Bh6 27.Ng2 Ra3 28.Ree1 Rea8 29.Ra1 Qb8 30.Qb2 R3a4 31.Rxa4 Rxa4 32.Ra1 Qa7 33.Kf1 Qa6 34.b5 Qa8 35.Ke2 Nc5 36.Ne1 Qc8 37.Rxa4 Nxa4 38.Qc2 Nxc3+ 39.Qxc3 Qh3 40.Kf2 Qxh2+ 41.Ng2 Bg5 42.Qc2 h4 43.gxh4 Bxh4+ 44.Ke3 Qg1+ 45.Kd3 Qd4+ 46.Ke2 Qf2+ 0-1

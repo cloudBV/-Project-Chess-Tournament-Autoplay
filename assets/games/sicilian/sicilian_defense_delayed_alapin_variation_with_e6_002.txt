@@ -1,0 +1,15 @@
+[Event "Round 8: Mierins, Emils Janis - Singh, Siddharth"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-8/pzqS4f9A/esu5jJSO"]
+[Date "2026.07.01"]
+[Round "8.8"]
+[White "Mierins, Emils Janis"]
+[Black "Singh, Siddharth"]
+[Result "0-1"]
+[WhiteElo "2246"]
+[BlackElo "2361"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.d3 Nc6 6.g3 dxc3 7.bxc3 Qd5 8.Bf4 Nge7 9.Bg2 Ng6 10.O-O Nxf4 11.gxf4 Qd7 12.Na3 Be7 13.Nc4 O-O 14.Ng5 b5 15.Ne3 Bxg5 16.fxg5 Bb7 17.f4 Ne7 18.Bxb7 Qxb7 19.Qh5 Rfd8 20.Rad1 c4 21.d4 Rac8 22.f5 Nxf5 23.Nxf5 exf5 24.Rf4 b4 25.Rh4 h6 26.gxh6 g6 27.h7+ Kh8 28.Qg5 Qb6 29.Qe7 bxc3 30.Kg2 c2 31.Rc1 Rxd4 32.Rxc2 c3 33.e6 Rxh4 34.Qf6+ Kxh7 35.Qxh4+ Kg7 36.exf7 Qc6+ 37.Kg1 Qc5+ 38.Kg2 Qd5+ 39.Kf2 Qxf7 40.Qd4+ Kg8 41.Rxc3 Qxa2+ 42.Kg3 Rxc3+ 43.Qxc3 Qf7 44.Kf4 Qe7 45.Qb2 Qh4+ 46.Ke3 Qh3+ 47.Kf4 Qh4+ 48.Ke3 Qe4+ 49.Kf2 Kh7 50.Qf6 Qf4+ 51.Kg2 Qd2+ 52.Kg1 Qd7 53.Qe5 a6 54.Kf2 Qa7+ 55.Kg3 a5 56.Kh4 a4 57.Kg5 Qd7 58.Qc5 f4 59.Kh4 Qf5 0-1

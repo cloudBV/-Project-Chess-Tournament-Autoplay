@@ -1,0 +1,14 @@
+[Event "Round 3: Kovacevic, Blazimir - Kantans, Toms"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/VcCVQjAj"]
+[Date "2026.07.04"]
+[Round "3.1"]
+[White "Kovacevic, Blazimir"]
+[Black "Kantans, Toms"]
+[Result "1/2-1/2"]
+[WhiteElo "2380"]
+[BlackElo "2559"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.Nf3 Nf6 2.d4 g6 3.Bf4 Bg7 4.e3 d6 5.h3 O-O 6.Be2 b6 7.O-O Bb7 8.c4 Ne4 9.Bh2 c5 10.Nbd2 Nxd2 11.Qxd2 cxd4 12.Nxd4 Nd7 13.Rfd1 Rc8 14.Rac1 Nc5 15.Bf1 Qd7 16.f3 Rfd8 17.Nb5 a6 18.Nc3 Qe8 19.e4 Bc6 20.Nd5 Nd7 21.Bf4 a5 22.Bg5 Bxd5 23.exd5 Rc7 24.Re1 Bf6 25.Bxf6 Nxf6 26.Rc3 Nd7 27.Rce3 Nc5 28.b3 Qf8 29.f4 e6 30.g3 Re7 31.dxe6 Rxe6 32.Bg2 Rde8 33.Bd5 Rxe3 34.Rxe3 Rxe3 35.Qxe3 Qd8 36.Qd4 Qd7 37.Qf6 a4 38.bxa4 Nxa4 39.h4 Nc5 40.h5 gxh5 41.Qg5+ Kf8 42.Qxh5 Qe7 43.Qxh7 Qf6 44.Kg2 Na4 45.Qb1 Kg7 46.Qb4 Nc3 47.Qxb6 Nxa2 48.Bxf7 Kxf7 49.Qa7+ Qe7 50.Qxa2 Qe4+ 51.Kh2 Qh7+ 52.Kg1 Qd3 53.Qa7+ Kf6 54.Qf2 Qxc4 55.Qe3 d5 56.Qe5+ Kf7 57.Kf2 d4 58.Qf5+ Kg7 59.Qe5+ Kf7 60.Qf5+ Kg7 61.g4 Qa2+ 62.Kg3 Qa3+ 63.Kg2 Qa2+ 64.Kg3 Qa3+ 65.Kg2 1/2-1/2

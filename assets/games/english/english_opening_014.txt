@@ -1,0 +1,15 @@
+[Event "Round 3: Pektas, Yigit - Aydin, Gulenay"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/MaP68a2G"]
+[Date "2026.07.14"]
+[Round "3.18"]
+[White "Pektas, Yigit"]
+[Black "Aydin, Gulenay"]
+[Result "0-1"]
+[WhiteElo "2105"]
+[BlackElo "2241"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 d6 2.Nc3 e5 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.d3 O-O 7.O-O a5 8.Rb1 Re8 9.e4 h6 10.Ne1 Nc6 11.a3 Nd4 12.Be3 Ng4 13.Bxd4 exd4 14.Ne2 c5 15.Nf4 a4 16.Bh3 h5 17.b4 axb3 18.Rxb3 Ra7 19.Neg2 Bd7 20.f3 Nf6 21.Bxd7 Qxd7 22.Qb1 Bf8 23.Qb2 Be7 24.Rb1 Rb8 25.Ne1 Bd8 26.Nc2 Kg7 27.Re1 Bc7 28.Nd5 Nxd5 29.exd5 Bd8 30.Qc1 Bf6 31.Qf4 Raa8 32.Rb6 Be5 33.Qd2 Ra6 34.Reb1 Rxb6 35.Rxb6 h4 36.g4 Qd8 37.Rb1 Qf6 38.Ne1 Bf4 39.Qe2 h3 40.Qf1 Qe5 41.Kh1 Bxh2 42.Nc2 Bg3 43.f4 Bxf4 44.Re1 Qg5 45.Re4 Be5 46.Ne1 Ra8 47.Nf3 Qf6 48.Qe2 Rxa3 49.Nxe5 dxe5 50.Kh2 Ra1 51.d6 Rf1 52.g5 Qf5 53.Kg3 Rg1+ 0-1

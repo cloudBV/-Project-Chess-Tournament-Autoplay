@@ -1,0 +1,14 @@
+[Event "Round 2: Hernandez Montes, Jhon Sebastian - Velasquez, Andres Felipe"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-2/T2G4VuYH/182iamtZ"]
+[Date "2026.07.11"]
+[Round "2.2"]
+[White "Hernandez Montes, Jhon Sebastian"]
+[Black "Velasquez, Andres Felipe"]
+[Result "0-1"]
+[WhiteElo "2438"]
+[BlackElo "2036"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d3 d6 6.Nbd2 c5 7.e4 Nc6 8.h3 Rb8 9.Re1 Qc7 10.Nf1 b5 11.Rb1 a5 12.Bf4 e5 13.Bg5 h6 14.Bd2 Be6 15.Ne3 Bxa2 16.Ra1 Be6 17.Nh2 a4 18.c3 Qd7 19.Nhg4 Nxg4 20.hxg4 Na5 21.f4 exf4 22.gxf4 Nb3 23.f5 Nxa1 24.fxe6 fxe6 25.Qxa1 Qe7 26.Re2 Qh4 27.Be1 Qg5 28.Qd1 Be5 29.Bd2 Bf4 30.Re1 Qh4 31.Nf1 Be5 32.Be3 a3 33.d4 Rxf1+ 34.Kxf1 Rf8+ 35.Ke2 Qxg4+ 36.Kd3 c4+ 37.Kd2 Qxg2+ 38.Re2 Qxe4 39.dxe5 Qd3+ 40.Kc1 a2 0-1

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.14"]
+[White "Markovic, Franjo-Josip"]
+[Black "Kresz, Tamas"]
+[Result "1-0"]
+[WhiteElo "2190"]
+[BlackElo "2101"]
+[ECO "A43"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Indian Defense: Pseudo-Benko"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.c3 b4 5.Bg5 g6 6.Nbd2 bxc3 7.bxc3 Bg7 8.e4 O-O 9.Be2 d6 10.Rc1 h6 11.Be3 e5 12.h3 Nh7 13.g4 f5 14.gxf5 gxf5 15.exf5 Bxf5 16.Nf1 e4 17.N3d2 Qe7 18.Ng3 Bg6 19.Bg4 Ng5 20.h4 Nf3+ 21.Nxf3 exf3 22.Be6+ Bf7 23.Nf5 Qf6 24.Rg1 Bxe6 25.Nxg7 Qxg7 26.Rxg7+ Kxg7 27.dxe6 Nc6 28.Qxd6 Rac8 29.Bxh6+ Kxh6 30.e7+ 1-0

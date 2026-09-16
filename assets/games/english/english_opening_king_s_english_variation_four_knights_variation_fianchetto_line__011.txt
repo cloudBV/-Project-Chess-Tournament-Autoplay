@@ -1,0 +1,15 @@
+[Event "Round 5: Gonzalez Gonzalez, Alfonso 1979 - Espinoza Palomino, Willyam"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-5/kmsEEmHH/Pg1mE8v5"]
+[Date "2026.07.16"]
+[Round "5.7"]
+[White "Gonzalez Gonzalez, Alfonso 1979"]
+[Black "Espinoza Palomino, Willyam"]
+[Result "0-1"]
+[WhiteElo "2069"]
+[BlackElo "2335"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d3 O-O 9.Be3 Re8 10.Na4 Bf8 11.Rc1 Nd4 12.Nc5 g6 13.Qd2 Nf5 14.d4 exd4 15.Bxd4 Nxd4 16.Qxd4 Qxd4 17.Nxd4 c6 18.e3 Nd7 19.Ne4 Kg7 20.Rfd1 Nf6 21.Nc5 a5 22.Na4 Be6 23.Nxe6+ Rxe6 24.Nb6 Ra6 25.Nc4 b5 26.Nd2 a4 27.Nf3 c5 28.Rd8 Be7 29.Rb8 Reb6 30.Rc8 a3 31.b3 Nd5 32.e4 Nb4 33.Ra1 Rc6 34.Rb8 c4 35.bxc4 bxc4 36.Bf1 c3 37.Rb7 Rab6 38.Rxe7 c2 39.e5 Nd5 40.Rd7 Rb1 0-1

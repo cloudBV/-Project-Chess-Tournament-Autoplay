@@ -1,0 +1,14 @@
+[Event "Round 4: Wernberg, Hugo - Grahn, Vidar"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-4/bqHwICkI/npRGaE7L"]
+[Date "2026.07.20"]
+[Round "4.7"]
+[White "Wernberg, Hugo"]
+[Black "Grahn, Vidar"]
+[Result "1-0"]
+[WhiteElo "2296"]
+[BlackElo "2245"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Na6 6.a3 Nxe4 7.Qxe4 Nc7 8.Bc4 Be6 9.b3 Bd5 10.Qe3 Qd6 11.Bb2 Qe6 12.Be5 Bxc4 13.bxc4 Na6 14.Rb1 b6 15.d3 f6 16.Bg3 Qxe3+ 17.fxe3 e5 18.d4 exd4 19.exd4 Bxa3 20.c3 Be7 21.Ra1 Nb8 22.Bxb8 Rxb8 23.Rxa7 Kd8 24.Kd2 Re8 25.Re1 Bf8 26.Rxe8+ Kxe8 27.Kc2 c5 28.Kb3 cxd4 29.cxd4 Be7 30.Ka4 g5 31.g4 Kf7 32.d5 Rc8 33.Kb3 Kf8 34.Nd4 Bc5 35.Ne6+ Kg8 36.Rg7+ Kh8 37.Rf7 Bd6 38.Rxf6 Bxh2 39.Nxg5 Rg8 40.Nf3 Bc7 41.g5 Bd8 42.Rf5 Be7 43.Ka4 Rc8 44.Ne5 Rc5 45.d6 Bxd6 46.Nf7+ 1-0

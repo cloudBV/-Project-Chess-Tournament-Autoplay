@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "12.6"]
+[White "Borischik, Sergey"]
+[Black "Musial, Igor"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2175"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 d5 4.O-O Bd6 5.d3 O-O 6.Nbd2 h6 7.e4 Nc6 8.Re1 dxe4 9.dxe4 e5 10.c3 Be6 11.Qe2 Qe7 12.Nh4 Qd7 13.Nc4 Rad8 14.Be3 Bh3 15.Bh1 Bg4 16.Bf3 Bxf3 17.Qxf3 Qe6 18.b3 b5 19.Nd2 Ne7 20.Rad1 a5 21.c4 Bb4 22.cxb5 Rd3 23.Nc4 Rxd1 24.Rxd1 a4 25.Nf5 axb3 26.axb3 Nxf5 27.exf5 Qe7 28.Qc6 Rd8 29.Rxd8+ Qxd8 30.Nxe5 Qd1+ 31.Kg2 Qxb3 32.Bxh6 gxh6 33.Qxf6 Qd5+ 34.Nf3 Qxb5 35.Qd8+ Bf8 36.f6 c5 37.Qd5 Qb6 38.Qf5 c4 39.Ne5 Qb7+ 40.Kg1 c3 41.Qg4+ Kh8 42.Qc4 Qb1+ 43.Kg2 c2 44.Qxf7 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "8.1"]
+[White "Wu, Chenshan"]
+[Black "Nakonechnyi, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2059"]
+[BlackElo "2278"]
+[ECO "B21"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 g6 5.Nc3 Bg7 6.Nf3 d6 7.Be2 Bg4 8.O-O Nf6 9.Nd5 O-O 10.c3 Nd7 11.h3 Bxf3 12.Bxf3 e6 13.Ne3 Nde5 14.Qd1 f5 15.exf5 gxf5 16.Re1 d5 17.Nf1 Qh4 18.Be2 Rad8 19.Nh2 d4 20.cxd4 Nxd4 21.Bd2 Bh6 22.Bc3 Ndf3+ 23.Nxf3 Nxf3+ 24.Bxf3 Rxd1 25.Raxd1 Bg7 26.Bxg7 Kxg7 27.Rxe6 Rf7 28.Red6 b6 29.Rd7 Qa4 30.Rxf7+ Kxf7 31.Rd2 Ke7 32.a3 Qf4 33.Re2+ Kf6 34.Rc2 b5 35.Rc6+ Kg7 36.Rc2 a5 37.Re2 Kf6 38.Rc2 b4 39.axb4 Qxb4 40.Re2 Qb5 41.Rd2 Kg5 42.Re2 Qd3 43.Kh2 h5 44.Kg1 h4 45.Kh2 Kf4 46.Kg1 Qb1+ 47.Kh2 Qc1 48.b3 Qc3 49.Re3 Qd4 50.Re2 Qc5 51.Re3 Qc2 52.Kg1 Kg5 53.Kf1 Qb1+ 54.Ke2 Kf4 55.Kd2 Qf1 56.Re2 Kg5 57.Kc2 Qa1 58.Kd3 Qa3 59.Kc2 Qc5+ 60.Kb2 Kf4 61.Kb1 Qc3 62.Ka2 Qc1 0-1

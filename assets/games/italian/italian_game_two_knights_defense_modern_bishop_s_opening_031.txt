@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.6"]
+[White "Bartodziej, Bartosz"]
+[Black "Cnejev, Vladimir-Alexandru"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2327"]
+[ECO "C55"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.a4 Be6 7.Bxe6 fxe6 8.O-O Be7 9.a5 a6 10.Nh4 g5 11.Ng6 Rg8 12.Nxe7 Qxe7 13.Nd2 d5 14.Re1 O-O-O 15.b4 g4 16.Qb3 Na7 17.Nf1 h5 18.exd5 Nxd5 19.Be3 Nxe3 20.Rxe3 Qf6 21.Rae1 Rgf8 22.R1e2 Nc6 23.Ng3 h4 24.Ne4 Qe7 25.Nc5 Rd5 26.Qc4 Rf4 27.Re4 Nxa5 28.Qa2 Rxe4 29.Rxe4 b6 30.Rxg4 bxc5 31.Qxa5 Qd6 32.h3 e4 33.bxc5 Rxc5 34.Rg8+ Kd7 35.Qa4+ Qc6 36.Rg7+ Kc8 37.Rg8+ Kd7 38.Qd4+ Qd5 39.dxe4 Qxd4 40.cxd4 Rc4 41.Ra8 Rxd4 42.Rxa6 Rxe4 43.g3 c5 44.Kg2 c4 45.Kf3 Rd4 46.Ra3 Kc6 47.Ke3 e5 48.g4 Kb5 49.g5 Kb4 50.Ra1 c3 51.g6 Rd6 52.Rg1 c2 53.g7 Rg6 54.Rc1 Kc3 55.Ke4 Rxg7 56.Kxe5 Kd2 57.Ra1 c1=Q 58.Rxc1 Kxc1 59.f4 Rg3 60.f5 Rxh3 61.Kf4 Rh1 0-1

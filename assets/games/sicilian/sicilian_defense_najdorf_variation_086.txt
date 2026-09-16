@@ -1,0 +1,15 @@
+[Event "Round 8: Mosadeghpour, Masoud - Dezhdar, Roozbeh"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-8/R1nNuo53/l5Wd4kiB"]
+[Date "2026.07.16"]
+[Round "8.2"]
+[White "Mosadeghpour, Masoud"]
+[Black "Dezhdar, Roozbeh"]
+[Result "1-0"]
+[WhiteElo "2416"]
+[BlackElo "2026"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Nb3 Nbd7 7.g4 h6 8.h4 b5 9.Bg2 b4 10.Nd5 Ne5 11.g5 hxg5 12.hxg5 Rxh1+ 13.Bxh1 Bg4 14.f3 Nxd5 15.exd5 Bh5 16.Be3 Qc8 17.Bg2 Qc4 18.Qe2 Qh4+ 19.Qf2 Qxf2+ 20.Kxf2 Rc8 21.Rc1 Bg6 22.Bf1 Rxc2+ 23.Rxc2 Bxc2 24.Nc1 e6 25.Bxa6 exd5 26.Bb7 Be7 27.Bxd5 f6 28.Bd2 fxg5 29.Bxb4 g4 30.f4 Ng6 31.Bd2 Bh4+ 32.Kg2 Ne7 33.Be6 Be4+ 34.Kg1 Nf5 35.Ne2 Bd8 36.Be1 g6 37.Bf2 d5 38.Nc3 g3 39.Bc5 Ne7 40.Nxe4 dxe4 41.Kg2 Bc7 42.Be3 Nf5 43.Bxf5 gxf5 44.b4 Kd7 45.a4 Kc6 46.b5+ Kb7 47.Kxg3 Bd8 48.Kf2 Bb6 49.Ke2 Bxe3 50.Kxe3 Kb6 51.Kd4 Ka5 52.Kc4 Kb6 53.Kb4 Kb7 54.a5 Kc7 55.b6+ Kc6 56.Kc4 Kb7 57.Kb5 e3 58.a6+ Kb8 59.Kc6 e2 60.a7+ Ka8 61.Kc7 1-0

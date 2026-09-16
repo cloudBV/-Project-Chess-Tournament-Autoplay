@@ -1,0 +1,15 @@
+[Event "Round 1: Castrillon Gomez, Melissa - Fedorchuk, Sergey A."]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-1/zhVCSXfG/mxdTTQRm"]
+[Date "2026.07.22"]
+[Round "1.2"]
+[White "Castrillon Gomez, Melissa"]
+[Black "Fedorchuk, Sergey A."]
+[Result "0-1"]
+[WhiteElo "2141"]
+[BlackElo "2593"]
+[ECO "E12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 Ne4 6.Nxe4 Bxe4 7.Nd2 Bb7 8.e4 Qf6 9.e5 Qg6 10.Nf3 c5 11.Be3 cxd4 12.Bxd4 Be7 13.Be2 Nc6 14.O-O Nxd4 15.Qxd4 Rd8 16.Bd3 f5 17.exf6 Qxf6 18.Qxf6 gxf6 19.Rfe1 f5 20.Nd4 Rg8 21.Bf1 f4 22.Rad1 h5 23.Rd3 h4 24.h3 Rc8 25.b3 Bxa3 26.Nf3 Bb4 27.Re5 Be7 28.Kh2 Rc5 29.Rxc5 Bxc5 30.Nxh4 Bxf2 31.Nf3 Ke7 32.Ne5 d6 33.Ng4 Bg3+ 34.Kg1 e5 35.Nh6 Rf8 36.b4 a5 37.bxa5 bxa5 38.Ra3 Be1 39.Be2 Bb4 40.Ra2 e4 41.Bg4 Kf6 42.Nf5 Bc8 43.Nd4 Bc5 0-1

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.3"]
+[White "Bokorovics, Bertalan"]
+[Black "Papp, Gellert"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2239"]
+[ECO "B94"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 e6 8.f4 Qc7 9.O-O-O b5 10.a3 Rb8 11.Nd5 Qb7 12.Nxf6+ gxf6 13.Bh4 Be7 14.g3 b4 15.a4 b3 16.c3 Nc5 17.e5 fxe5 18.Bxe7 Kxe7 19.fxe5 d5 20.Bg2 Qd7 21.Qf2 Ke8 22.Nf5 exf5 23.Qxc5 Qxa4 24.Bxd5 Bd7 25.Qd4 Qa1+ 26.Kd2 Qxb2+ 27.Ke3 Rf8 28.Bf3 Bb5 29.e6 Rc8 30.exf7+ Kxf7 31.Qa7+ Kg6 32.Rd6+ Rf6 33.Bh5+ Kxh5 34.Qxh7+ Kg4 35.Qh4# 1-0

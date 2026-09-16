@@ -1,0 +1,15 @@
+[Event "Round 5: Moor, Nathaniel Philip - Gauri, Shankar"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-5/fqiT2mw0/Mlc1208X"]
+[Date "2026.07.09"]
+[Round "5.5"]
+[White "Moor, Nathaniel Philip"]
+[Black "Gauri, Shankar"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2382"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O O-O 6.Re1 h6 7.c3 d6 8.h3 a5 9.Nbd2 Be6 10.Bb5 Qb8 11.Nf1 Qa7 12.Re2 a4 13.Ng3 Qa5 14.Bxc6 bxc6 15.Rc2 Rfe8 16.Nh4 d5 17.Qf3 Nh7 18.Nhf5 Bf8 19.Nh5 Kh8 20.Nhxg7 Bxg7 21.Nxg7 Kxg7 22.Qg3+ Kf8 23.Qh4 f6 24.Bxh6+ Ke7 25.c4 Nf8 26.cxd5 cxd5 27.Rac1 Nd7 28.Bd2 Qb5 29.Qh7+ Kd8 30.Rxc7 Rf8 31.a3 Qxb2 32.Bb4 Re8 33.Qg7 1-0

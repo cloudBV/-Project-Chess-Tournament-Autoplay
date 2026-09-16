@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.06.27"]
+[Round "8.1"]
+[White "Szczesniak, Konrad"]
+[Black "Cap, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2077"]
+[BlackElo "2074"]
+[ECO "D00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 e6 3.e3 c5 4.c3 Bd6 1/2-1/2

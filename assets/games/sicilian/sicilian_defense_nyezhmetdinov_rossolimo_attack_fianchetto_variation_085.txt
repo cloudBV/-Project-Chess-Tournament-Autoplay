@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/jK8w4Wqj"]
+[Date "2026.07.22"]
+[Round "4.14"]
+[White "Hansen, Soren Bech"]
+[Black "Mocic, Ivano"]
+[Result "1-0"]
+[WhiteElo "2284"]
+[BlackElo "2076"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.d4 cxd4 6.Qxd4 Nf6 7.e5 Nd5 8.e6 f6 9.exd7+ Bxd7 10.O-O Bg7 11.c4 Nb6 12.b3 O-O 13.Bb2 Qc7 14.Nbd2 e5 15.Qe3 Rfe8 16.Ne4 f5 17.Nc5 e4 18.Bxg7 Kxg7 19.Qd4+ Kg8 20.Ng5 h6 21.Qf6 hxg5 22.Qxg6+ Kf8 23.Qf6+ Kg8 24.Qg6+ Kf8 25.Rad1 Re7 26.Rd6 Rg7 27.Rxd7 Qxh2+ 28.Kxh2 Rxg6 29.Rh7 Kg8 30.Re7 Rd6 31.g4 fxg4 32.Nxe4 Rd4 33.Nf6+ Kf8 34.Rfe1 Rf4 35.Nh7+ Kg8 36.Nxg5 Rxf2+ 37.Kg3 Rxa2 38.R1e6 1-0

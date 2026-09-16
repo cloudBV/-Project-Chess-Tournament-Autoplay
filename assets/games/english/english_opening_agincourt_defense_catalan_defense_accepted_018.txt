@@ -1,0 +1,14 @@
+[Event "Round 6: Loetscher, Roland - Carre, Sylvain"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-6/UBdjhIls/vsTxvah4"]
+[Date "2026.07.16"]
+[Round "6.3"]
+[White "Loetscher, Roland"]
+[Black "Carre, Sylvain"]
+[Result "1-0"]
+[WhiteElo "2340"]
+[BlackElo "2168"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Qd3 Nc6 9.Nxd7 Nxd7 10.Nc3 Be7 11.b3 O-O 12.Bb2 Rd8 13.Rc1 Nf6 14.Qb1 Qd7 15.d3 Rac8 16.O-O b6 17.Rfd1 h5 18.e3 h4 19.Ne2 hxg3 20.hxg3 Ne8 21.a3 Bf6 22.b4 cxb4 23.axb4 Ne7 24.Nc3 Nc7 25.Bb7 Rb8 26.Bf3 Rbc8 27.d4 Ncd5 28.b5 Nxc3 29.Bxc3 Rc7 30.Qb3 Rdc8 31.Bb2 Rxc1 32.Rxc1 Rxc1+ 33.Bxc1 Qc7 34.Ba3 Nf5 35.Kg2 Bh4 36.g4 Bxf2 37.Kxf2 Qh2+ 38.Ke1 Qg1+ 39.Kd2 Qf2+ 40.Be2 Ng3 41.Qd1 f5 42.Kd3 Qg2 43.Bf3 Qa2 44.Bd6 Ne4 45.Bxe4 fxe4+ 46.Kc3 Qd5 47.Be5 Qxb5 48.Qb3 Qd3+ 49.Kb4 Qd2+ 50.Kb5 Qd3+ 51.Kb4 Qd2+ 52.Qc3 a5+ 53.Kb3 Qd1+ 54.Ka3 Kh7 55.d5 exd5 56.Qc7 Qxg4 57.Qxb6 Qg1 58.Qc5 Kh6 59.Bd4 Qb1 60.Qxa5 Qc1+ 61.Ka4 Qc2+ 62.Kb5 Qc4+ 63.Kb6 g5 64.Qe1 Kh5 65.Qg3 Qc8 66.Be5 Kg6 67.Bc7 Qf5 68.Kc5 Qf7 69.Be5 Qb7 70.Bd4 Qb1 71.Kxd5 Qb7+ 72.Kc5 Qa7+ 73.Kc6 Qa8+ 74.Kc7 Qa5+ 75.Bb6 Qc3+ 76.Kb7 Qb3 77.Qe5 Qf7+ 78.Kc6 Qf3 79.Kd5 Qd1+ 80.Bd4 Qb3+ 81.Kxe4 Qb1+ 82.Kd5 Qb7+ 83.Kc5 Qa7+ 84.Kc6 Qa8+ 85.Kc7 g4 86.e4 Qa4 87.Qf5+ Kh6 88.Be3+ Kg7 89.Qxg4+ Kf8 90.Qc8+ Ke7 91.Bg5+ Kf7 92.Qd7+ 1-0

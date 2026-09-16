@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "2.4"]
+[White "Borocz, Lorinc"]
+[Black "Haszon, David"]
+[Result "1/2-1/2"]
+[WhiteElo "2167"]
+[BlackElo "2301"]
+[ECO "B15"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 h5 9.Ne2 Re8 10.O-O Qc7 11.h3 Nd7 12.Bd2 b5 13.Rfe1 Nf8 14.Rad1 Be6 15.b3 g5 16.f4 g4 17.h4 g3 18.Nxg3 Bg4 19.Rxe8 Rxe8 20.Rf1 b4 21.Bf5 bxc3 22.Bxg4 hxg4 23.Qxc3 Qd7 24.Rc1 Bc7 25.Nh5 Re6 26.f5 Rd6 27.Bf4 Qxf5 28.Bxd6 Bxd6 29.Qxc6 Qxh5 30.Qxd6 Qxh4 31.g3 Qg5 32.Qf4 Qg6 33.Rf1 Kg7 34.Qf5 Qh6 35.Qxg4+ Ng6 36.Qf5 Qe3+ 37.Qf2 Qg5 38.Rd1 f5 39.Rf1 f4 40.a4 f5 41.d5 fxg3 42.Qd4+ Kh7 43.d6 Qh6 44.Qxa7+ Kh8 45.Qa8+ Kh7 46.Qb7+ Kh8 47.Qa8+ Kh7 48.Qb7+ Kh8 49.Qa8+ Kh7 50.Qb7+ Kh8 51.Qh1 Nh4 1/2-1/2

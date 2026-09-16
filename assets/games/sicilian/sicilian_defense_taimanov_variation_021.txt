@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.7"]
+[White "Solbu, August"]
+[Black "Krbacevic, Mateja"]
+[Result "1-0"]
+[WhiteElo "2061"]
+[BlackElo "2045"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nb3 Bb4 7.Qd3 Nf6 8.Bd2 O-O 9.O-O-O a6 10.a3 Be7 11.f4 b5 12.e5 b4 13.axb4 Nxb4 14.Qf3 Nfd5 15.Nxd5 exd5 16.Bxb4 Bxb4 17.Qxd5 Rb8 18.c3 Be7 19.Na5 Qb6 20.Nc4 Qb3 21.Bd3 Bb7 22.Qxd7 Ba3 23.Nxa3 Bc6 24.Bxh7+ Kxh7 25.Qd3+ Kg8 26.Qc2 Qa2 27.Rd4 Rfc8 28.Rhd1 Bxg2 29.R1d3 Bf1 30.Rg3 g6 31.f5 Rc6 32.f6 Kf8 33.Rh4 Ke8 34.Rh8+ Kd7 35.Rxb8 Kc7 36.Re8 Qd5 37.Qd2 Bd3 38.Rxd3 Qh1+ 39.Kc2 Qe4 40.b4 a5 41.Kb2 axb4 42.Rd7+ Kb6 43.Rb8+ Kc5 44.Qd4+ Qxd4 45.cxd4# 1-0

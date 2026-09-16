@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.40"]
+[White "Sevcikova, Lucia"]
+[Black "Stinka, Jakub"]
+[Result "1/2-1/2"]
+[WhiteElo "2134"]
+[BlackElo "2352"]
+[ECO "E20"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 O-O 5.Nf3 d5 6.e3 b6 7.Rc1 Ba6 8.Qa4 c5 9.a3 Bxc3 10.Bxc3 Ne4 11.Be2 Nd6 12.cxd5 Bxe2 13.Kxe2 exd5 14.dxc5 bxc5 15.Rhd1 Ne4 16.Kf1 Nd7 17.Rxd5 Nb6 18.Rxd8 Nxa4 19.Rxa8 Rxa8 20.Be5 Nb6 21.Ke2 f6 22.Bg3 Rd8 23.Rc2 Na4 24.Rc4 Nxg3+ 25.hxg3 Nxb2 26.Rxc5 Rd7 27.Nd4 Na4 28.Rc6 Nb6 29.Nb5 Kf7 30.e4 Ke7 31.g4 Rb7 32.Nd4 g6 33.f4 Nd7 34.Rc2 Nf8 35.f5 Nd7 36.Ne6 Ne5 37.g5 fxg5 38.Nxg5 Kf6 39.Nf3 gxf5 40.Nxe5 Kxe5 41.exf5 Kxf5 42.Kf2 Ke4 43.Rc4+ Kd3 44.Ra4 Kc3 45.g3 Kd3 1/2-1/2

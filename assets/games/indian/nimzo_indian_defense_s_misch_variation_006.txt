@@ -1,0 +1,14 @@
+[Event "Round 1: Bulatov, Ramil - Romanov, Evgeny"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-1/HpSVQtBg/9joPPfiq"]
+[Date "2026.07.04"]
+[Round "1.4"]
+[White "Bulatov, Ramil"]
+[Black "Romanov, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2202"]
+[BlackElo "2548"]
+[ECO "E24"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 d6 6.f3 e5 7.e4 Nh5 8.Be3 Nc6 9.c5 O-O 10.Ne2 Qf6 11.d5 Na5 12.Qa4 b6 13.c6 Ba6 14.Ng3 Bxf1 15.Nxh5 Qh4+ 16.Kxf1 Qxh5 17.g4 Qh3+ 18.Kf2 h5 19.Rag1 hxg4 20.Rxg4 f5 21.exf5 Rxf5 22.Rg3 Qh7 23.Rhg1 Rf7 24.Kg2 Qd3 25.Bh6 Nc4 26.Kh1 Kh7 27.Bxg7 Rxf3 28.Rg4 Rf4 29.Rxf4 exf4 30.Bd4 Qe4+ 31.Rg2 Ne3 0-1

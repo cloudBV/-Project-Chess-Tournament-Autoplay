@@ -1,0 +1,15 @@
+[Event "Round 4: Berdayes Ason, Dylan Isidro - Nissinen, Niilo Man"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-4/01eidbFQ/onclCNXb"]
+[Date "2026.07.16"]
+[Round "4.3"]
+[White "Berdayes Ason, Dylan Isidro"]
+[Black "Nissinen, Niilo Man"]
+[Result "1/2-1/2"]
+[WhiteElo "2477"]
+[BlackElo "2331"]
+[ECO "A18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 e6 2.Nc3 Nf6 3.e4 d5 4.cxd5 exd5 5.e5 d4 6.exf6 dxc3 7.Bb5+ Nc6 8.Qe2+ Be6 9.dxc3 Qxf6 10.Nf3 Bd6 11.Nd4 Kd7 12.Be3 a6 13.Ba4 Rhb8 14.Nxe6 Qxe6 15.Bb3 Qg6 16.O-O-O Re8 17.Rhe1 Rad8 18.Qf3 f5 19.h4 Re5 20.Bg5 Rde8 21.Rxe5 Rxe5 22.Bc2 Qf7 23.Bf4 Ra5 24.Bb3 Qf6 25.g3 h6 26.Kb1 g5 27.hxg5 hxg5 28.Bxd6 cxd6 29.Bd5 Qe5 30.Qd3 Kc7 31.Qd2 f4 32.c4 fxg3 33.fxg3 b6 34.Rf1 Ne7 35.Rf7 Kd8 36.Bg2 Rc5 37.Qf2 Qe6 38.Rf6 Qe5 39.a3 Nf5 40.Rf8+ Ke7 41.Rb8 Qxg3 42.Rb7+ Kf6 43.Qxg3 Nxg3 44.Rxb6 Nf5 45.Rxa6 Rxc4 46.Ra8 g4 47.Re8 g3 48.Rg8 Rc7 49.a4 Ra7 50.b3 Ke5 51.Bh3 Rg7 52.Rxg7 Nxg7 53.a5 Ne8 54.b4 Nc7 55.Kc2 Ke4 56.Kd2 Kd4 57.Bf1 g2 58.Bxg2 Kc4 59.a6 Nxa6 1/2-1/2

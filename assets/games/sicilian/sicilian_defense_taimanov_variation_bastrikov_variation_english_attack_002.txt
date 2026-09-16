@@ -1,0 +1,15 @@
+[Event "Round 4: Akkara, Omer - Topuz, Mirac Melih"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/IN8HnDwH"]
+[Date "2026.07.01"]
+[Round "4.36"]
+[White "Akkara, Omer"]
+[Black "Topuz, Mirac Melih"]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2082"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Bd6 8.O-O-O Be5 9.Nxc6 bxc6 10.Bd4 Nf6 11.Bxe5 Qxe5 12.Qg3 Qxg3 13.hxg3 d5 14.Bd3 Ke7 15.Rde1 a5 16.f3 h6 17.g4 Rd8 18.exd5 cxd5 19.Nb5 Ba6 20.Kd2 Rab8 21.Nd4 Bxd3 22.Kxd3 Kd6 23.b3 a4 24.Re3 Rdc8 25.Rhe1 Nd7 26.c3 axb3 27.axb3 g6 28.b4 e5 29.Nb3 f6 30.Rd1 Ra8 31.Na5 Nb6 32.Ke2 Ke6 33.Red3 Na4 34.Rc1 d4 35.c4 Nc3+ 36.Rdxc3 dxc3 37.Kd3 f5 38.gxf5+ gxf5 39.Rh1 Kf6 40.Rxh6+ Kg5 41.Rh1 Kf4 42.Rh4+ Kg3 43.Rh5 Kf4 44.g3+ Kxg3 45.Rxf5 Rf8 46.Rxe5 Rxf3+ 47.Kc2 Kf2 48.c5 Rd8 49.Nb3 Ra8 50.Nc1 Rd8 51.Re2+ Kf1 52.c6 Rb8 53.Re4 Rf6 54.Rc4 Rxb4 55.Rxb4 Rxc6 56.Na2 Kf2 57.Nxc3 Rc8 58.Rd4 Ke3 59.Rd3+ Kf4 60.Kd2 Rh8 61.Rd4+ Ke5 62.Re4+ Kf5 63.Re7 Rh6 64.Ra7 Ke5 65.Ra5+ Kd4 66.Kc2 Rc6 67.Rd5+ Kc4 68.Rh5 Kb4 69.Rh3 Rc8 70.Kb2 Kc4 71.Rh7 Rg8 72.Rc7+ Kd4 73.Kc2 Rb8 74.Rh7 Rg8 75.Rh4+ Kc5 76.Ne4+ Kb5 77.Kb3 Rg1 78.Rh5+ Kc6 79.Kc4 Rc1+ 80.Nc3 Kd6 81.Kd4 Ke6 82.Nd5 Rd1+ 83.Ke4 Re1+ 84.Ne3 Kd6 85.Rh6+ Kc5 86.Rh8 Ra1 87.Rc8+ Kd6 88.Nc4+ Kd7 89.Rh8 Re1+ 90.Kd5 Rd1+ 91.Kc5 Ke6 92.Re8+ Kf6 93.Ne3 Ra1 94.Nd5+ Kf5 95.Ne3+ Kf6 96.Nc4 Rd1 97.Rf8+ Ke6 98.Re8+ Kf6 99.Re2 Rd8 100.Nb6 Kf5 101.Nd5 Ra8 102.Rf2+ Ke5 103.Nb6 Ra5+ 104.Kb4 Ra1 105.Nc4+ Ke6 106.Re2+ Kf5 107.Kc5 Kf6 1/2-1/2

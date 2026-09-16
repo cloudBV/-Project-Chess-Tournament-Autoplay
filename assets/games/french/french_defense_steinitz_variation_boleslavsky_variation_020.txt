@@ -1,0 +1,15 @@
+[Event "Rapid Boys 10"]
+[Site "Rzeszow"]
+[Date "2026.07.07"]
+[Round "5.1"]
+[White "Savchuk, Oleksandr"]
+[Black "Netrebka, Myron"]
+[Result "1-0"]
+[WhiteElo "2101"]
+[BlackElo "2005"]
+[ECO "C11"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Nc3 Nf6 5.e5 Nfd7 6.f4 c5 7.Nf3 Nc6 8.Be3 a6 9.Ne2 b5 10.c3 Bb7 11.Kf2 Rc8 12.Rc1 b4 13.f5 Qb6 14.fxe6 fxe6 15.Nf4 Nd8 16.Ng5 Nf7 17.Ngxe6 g5 18.Nxg5 Nxg5 19.Qh5+ Kd8 20.Qxg5+ Be7 21.Qf5 Rf8 22.Qb1 cxd4 23.cxd4 Rxc1 24.Qxc1 Nxe5 25.dxe5 Rxf4+ 26.Kg1 Rd4 27.Be2 Bc5 28.Kf1 Rd1+ 29.Qxd1 Bxe3 30.h4 a5 31.Rh3 Qh6 32.Qd3 Bc5 33.Qc2 Bb6 34.Ke1 Qf4 35.Qd2 Qxe5 36.Qg5+ Qxg5 37.hxg5 Bc8 38.Rxh7 Bf5 39.Rf7 Bb1 40.Rf3 Bd4 41.b3 Be4 42.Rf7 Be3 43.Bf3 Bb1 44.Bxd5 Bxg5 45.Ra7 Bxa2 46.Rxa5 Bb1 47.Ke2 Bf6 48.Bc4 Bc2 49.g4 Ke7 50.g5 Bc3 51.Ra2 Bf5 52.Bd3 Be6 53.Ra7+ Kf8 54.Bc4 Bg4+ 55.Ke3 Bh3 56.g6 Bg4 57.Rf7+ 1-0

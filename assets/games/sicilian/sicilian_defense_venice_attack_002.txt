@@ -1,0 +1,14 @@
+[Event "Round 2: Alexakis, Dimitris - Tsarsitalidis, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/lLZ7Hq1b"]
+[Date "2026.07.06"]
+[Round "2.2"]
+[White "Alexakis, Dimitris"]
+[Black "Tsarsitalidis, Konstantinos"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2230"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Venice Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+ Nbd7 7.Nf5 a6 8.Ba4 b5 9.Bb3 Nc5 10.Bg5 Bxf5 11.exf5 Be7 12.Bxf6 Bxf6 13.Qd5 O-O 14.O-O-O a5 15.Qc6 a4 16.Rxd6 Qb8 17.Bxf7+ Rxf7 18.Qxc5 Bg5+ 19.f4 Bxf4+ 20.Kb1 b4 21.Ne4 b3 22.Rhd1 bxc2+ 23.Qxc2 Rc7 24.Rc6 Rxc6 25.Qxc6 a3 26.b3 Qf8 27.f6 Ra7 28.Qb6 Ra8 29.g3 Bh6 30.Qc6 gxf6 31.Nxf6+ Kh8 32.Rd7 Bg7 33.Qe4 Qxf6 34.Qxa8+ Bf8 35.Qe4 Qf1+ 36.Kc2 Qf2+ 37.Rd2 Qf6 38.Re2 Bd6 39.Qa8+ Bf8 40.Qd5 e4 41.Qxe4 Qb2+ 42.Kd3 Qb1+ 43.Ke3 Qf1 44.Qf4 Qc1+ 45.Kf2 Qc5+ 46.Kg2 Qc6+ 47.Qf3 Qd6 48.Qe4 1-0

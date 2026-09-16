@@ -1,0 +1,15 @@
+[Event "Gambitul Calului Editia 7 - Clasic"]
+[Site "CalCool, Romania"]
+[Date "2026.07.16"]
+[Round "6.1"]
+[White "Moraru, Marius"]
+[Black "Tampea, Radu"]
+[Result "0-1"]
+[WhiteElo "2321"]
+[BlackElo "2157"]
+[ECO "B42"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Nc6 8.Be3 Nge7 9.O-O d6 10.N1d2 O-O 11.Rad1 e5 12.c3 Ng6 13.g3 Bb8 14.Qh5 Nce7 15.f4 f5 16.Nf3 exf4 17.Bc4+ d5 18.Rxd5 Nxd5 19.Bxd5+ Kh8 20.Bd4 Ba7 21.Nc5 0-1

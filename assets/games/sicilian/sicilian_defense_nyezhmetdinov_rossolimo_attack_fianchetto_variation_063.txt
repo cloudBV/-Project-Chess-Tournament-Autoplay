@@ -1,0 +1,15 @@
+[Event "Round 6: Dirikolu, Deniz - Eminov, Orkhan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/Hj7uSO84"]
+[Date "2026.07.16"]
+[Round "6.7"]
+[White "Dirikolu, Deniz"]
+[Black "Eminov, Orkhan"]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2227"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nh6 7.c3 O-O 8.h3 f5 9.e5 Nf7 10.d3 d6 11.Bf4 g5 12.Nxg5 Nxg5 13.Bxg5 dxe5 14.Nd2 Qxd3 15.Nb3 c4 16.Na5 Qd5 17.Qa4 Qf7 18.Nxc4 e4 19.Bf4 Be6 20.Ne5 Bxe5 21.Bxe5 Bd5 22.c4 Bxc4 23.Re3 Qe6 24.Rg3+ Kf7 25.Rg7+ Ke8 26.Bf4 Bb5 27.Qa3 Rg8 28.Qxe7+ Qxe7 29.Rxg8+ Qf8 30.Rxf8+ Kxf8 31.Rd1 Bd3 32.Rc1 e3 33.Bxe3 Be4 34.Rc4 Kf7 35.Rb4 Rg8 36.g4 Ke6 37.Kh2 Ke5 38.Kg3 h5 39.f3 Bd5 40.g5 Bxa2 41.Ra4 Bb3 42.Ra5+ Bd5 43.Bf4+ Ke6 44.Rxa7 h4+ 45.Kxh4 Bxf3 46.Kg3 Be4 47.h4 Rd8 48.g6 Rd3+ 49.Kh2 Kf6 50.g7 Bd5 51.Rd7 1-0

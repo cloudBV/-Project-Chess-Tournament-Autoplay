@@ -1,0 +1,14 @@
+[Event "Round 8: Wernberg, Hugo - Seo, Jung Min"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sverigemastarklassen/round-8/vhZYmqSj/Af3jVBMi"]
+[Date "2026.07.03"]
+[Round "8.2"]
+[White "Wernberg, Hugo"]
+[Black "Seo, Jung Min"]
+[Result "0-1"]
+[WhiteElo "2296"]
+[BlackElo "2488"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.d3 Nc6 3.Be2 g6 4.f4 Bg7 5.Nf3 d5 6.O-O Nf6 7.e5 Ng8 8.d4 cxd4 9.Nxd4 Nh6 10.Nc3 O-O 11.Bf3 Nxd4 12.Qxd4 e6 13.Ne2 Nf5 14.Qf2 Bd7 15.c4 dxc4 16.Bxb7 Rb8 17.Be4 Qc7 18.g4 Ne7 19.Be3 Rxb2 20.Bd4 c3 21.Rab1 Rxa2 22.Ra1 Rxa1 23.Rxa1 Nc6 24.Nxc3 Nxd4 25.Qxd4 a5 26.Ne2 Bb5 27.Rc1 Qd8 28.Qe3 Bxe2 29.Qxe2 Qd4+ 30.Kg2 Rb8 31.Rc4 Qd8 32.Qc2 Bf8 33.g5 Qb6 34.h4 Qe3 35.Qf2 Qb3 36.Rc1 Qb4 37.Qe3 Qa4 38.h5 gxh5 39.Bc2 Qc6+ 40.Kg3 Qd5 41.Rd1 Qc4 42.Qd3 Qxd3+ 43.Rxd3 Rb4 44.Rd8 h4+ 45.Kg4 h3 46.Rd3 Rb2 47.Ba4 h2 48.Rh3 Bc5 49.Bc6 Bg1 50.Ra3 Rc2 51.Bh1 Rc1 52.Ra2 a4 53.Ba8 Rc4 54.Kg3 Be3 55.f5 Bf4+ 56.Kg4 Bxe5+ 57.Kh5 exf5 58.Re2 Rc1 59.Rxe5 h1=R+ 60.Bxh1 Rxh1# 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/g0d7MmVW"]
+[Date "2026.07.08"]
+[Round "9.4"]
+[White "Velicka, Petr"]
+[Black "Nguyen Thi Mai Hung"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2260"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 g6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.f3 Bg7 9.Be3 O-O 10.Qd2 Be6 11.Rc1 a5 12.Na4 Nd7 13.b3 Qc7 14.Be2 Nc5 15.Nc3 Rfc8 16.O-O Qd8 17.Rfd1 Qf8 18.Re1 Rc6 19.Bf1 h5 20.Bf2 Kh7 21.f4 f5 22.exf5 Bxf5 23.Bd4 e5 24.fxe5 dxe5 25.Bxe5 Nxb3 26.axb3 Qc5+ 27.Kh1 Bxe5 28.Nd5 Qd6 29.c5 Qe6 30.Rxe5 Qxe5 31.Re1 Be4 32.Nc3 Rf8 33.Qd7+ Kh8 34.Qd2 Kg7 35.Bc4 Rcf6 36.Nxe4 Qxe4 37.h3 Qf4 38.Re7+ Kh6 39.Qxa5 Qc1+ 40.Re1 Qg5 41.Qc7 Rf2 42.Qxb7 Qxc5 43.Qe4 Qg5 44.Rd1 Qg3 45.Rg1 Rd8 46.Bd5 Rd2 47.Bc4 Rd1 48.Qe2 R1d2 49.Qe4 Rf8 50.Ra1 Re8 51.Qf3 Qxf3 52.gxf3 Rf2 53.Rf1 Rxf1+ 54.Bxf1 Re3 55.Kg2 Rxb3 56.h4 Kg7 57.Kg3 Kf6 58.Bc4 Rc3 59.Bb5 Ra3 60.Bc6 Ke5 61.Be8 Ra6 62.Bd7 Rf6 63.Bb5 Kd4 64.Kf2 Rb6 65.Be8 Rb2+ 66.Kg3 Rb8 67.Bf7 Rf8 68.Bb3 Ke3 69.Bd5 Rf4 70.Bc6 Rc4 71.Be8 Rc1 72.Kg2 Rc8 73.Bd7 Rc7 74.Bb5 Kf4 75.Bd3 Rd7 76.Be4 Re7 77.Bd3 Rd7 78.Be4 Rd6 79.Bb1 Rd2+ 80.Kh3 Rf2 81.Bxg6 Rxf3+ 82.Kh2 Kg4 83.Kg2 Rb3 84.Kf2 Rb2+ 85.Ke3 Kxh4 86.Kf3 Rb3+ 87.Kf4 Rb5 88.Be8 Rb8 89.Bd7 Rf8+ 0-1

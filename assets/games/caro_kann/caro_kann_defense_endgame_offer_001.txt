@@ -1,0 +1,15 @@
+[Event "Ronda 3: Alvarez Gonzalez, David - Torres Rebolledo, Alvaro"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u14/ronda-3/dtwtp9K6/ihwVpEkB"]
+[Date "2026.07.01"]
+[Round "3.1"]
+[White "Alvarez Gonzalez, David"]
+[Black "Torres Rebolledo, Alvaro"]
+[Result "0-1"]
+[WhiteElo "2127"]
+[BlackElo "2333"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 e6 4.Nbd2 Nf6 5.g3 Qc7 6.Bg2 dxe4 7.Nxe4 Nxe4 8.dxe4 e5 9.Be3 f6 10.c3 Be6 11.Nd2 Nd7 12.Bh3 Bf7 13.Qc2 Be7 14.O-O O-O 15.b4 Rfd8 16.a3 c5 17.Qb2 Nb6 18.Rfc1 a5 19.Rab1 Na4 20.Qc2 b5 21.Bf1 c4 22.Ra1 Rd7 23.Be2 Qc6 24.Nf1 Rad8 25.Rd1 Be6 26.Rxd7 Rxd7 27.Rd1 Rxd1 28.Bxd1 axb4 29.axb4 Qd7 30.Be2 f5 31.f3 g5 32.Qd2 f4 33.Qxd7 Bxd7 34.Bd2 Bh3 35.Kf2 Bd8 36.Bd1 Nb2 37.Bc2 Bb6+ 38.Ke1 Bg2 39.Ke2 Nd3 40.Be1 Bxf3+ 41.Kd2 Be3+ 42.Nxe3 fxe3+ 43.Kxe3 Nxe1 44.Bb1 Bg4 45.Kf2 Nd3+ 46.Bxd3 cxd3 47.Ke3 Be2 48.c4 bxc4 49.b5 Bg4 0-1

@@ -1,0 +1,15 @@
+[Event "Round 4: Poormosavi, Seyed Kian - Kopylov, Alexander A."]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-4/ZN9WtA8l/LxURsZ44"]
+[Date "2026.07.14"]
+[Round "4.1"]
+[White "Poormosavi, Seyed Kian"]
+[Black "Kopylov, Alexander A."]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2376"]
+[ECO "E16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b6 4.Bg2 Bb7 5.c4 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 d6 8.O-O Nbd7 9.d5 e5 10.Nc3 a5 11.Ne1 Nc5 12.Nd3 Nxd3 13.exd3 O-O 14.f4 Re8 15.b3 Bc8 16.fxe5 Rxe5 17.d4 Re8 18.h3 Bd7 19.g4 h6 20.Rf3 Ne4 21.Nxe4 Rxe4 22.Rxf7 Rxg4 23.Raf1 Rg5 24.Qe3 a4 25.b4 a3 26.Kh2 Qe8 27.Qxe8+ Rxe8 28.Rxd7 Re2 29.Rg1 Rxa2 30.Rxc7 Rb2 31.Ra7 a2 32.c5 dxc5 33.bxc5 bxc5 34.d6 cxd4 35.d7 Rb8 36.Rxa2 Rd8 37.Ra8 Rxg2+ 38.Rxg2 Rxa8 39.Rc2 Kf7 40.Rc8 Ra2+ 41.Kg1 1-0

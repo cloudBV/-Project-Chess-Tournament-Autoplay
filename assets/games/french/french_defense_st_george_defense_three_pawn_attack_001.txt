@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/2Fs80EAD"]
+[Date "2026.07.04"]
+[Round "8.24"]
+[White "Farkash, Denys"]
+[Black "Rajbharath, Harjith"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2017"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: St. George Defense, Three Pawn Attack"]
+
+1.e4 e6 2.d4 a6 3.c4 d5 4.cxd5 exd5 5.e5 c5 6.Bd3 Nc6 7.Ne2 cxd4 8.f4 Qh4+ 9.g3 Qh3 10.Kf2 Nh6 11.Qf1 Ng4+ 12.Kg1 Qxf1+ 13.Kxf1 Nb4 0-1

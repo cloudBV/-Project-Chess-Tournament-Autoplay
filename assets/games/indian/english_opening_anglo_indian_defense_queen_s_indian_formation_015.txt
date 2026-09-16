@@ -1,0 +1,15 @@
+[Event "Round 4: Ftacnik, Lubomir - Redzisz, Michal"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/cq5T73V2"]
+[Date "2026.07.18"]
+[Round "4.7"]
+[White "Ftacnik, Lubomir"]
+[Black "Redzisz, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2408"]
+[BlackElo "2272"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 c5 4.Bg2 Bb7 5.O-O g6 6.Nc3 Bg7 7.d4 Ne4 8.Nxe4 Bxe4 9.d5 e6 10.Bh3 exd5 11.Ng5 h6 12.Nxe4 dxe4 13.Qd5 Nc6 14.Qxe4+ Qe7 15.Qxe7+ Kxe7 16.Rd1 Rhd8 17.Bg2 Rab8 18.Bf4 Ne5 19.Rac1 d6 20.h4 b5 21.cxb5 Rxb5 22.b3 Rb4 23.Bd2 Rb5 24.Bd5 Nd7 25.Rc2 Rbb8 26.Bg2 Rbc8 27.Bf4 Ne5 28.Rcd2 Rb8 29.Rc2 Rbc8 30.Rdc1 Rb8 31.Bd2 Nd7 32.Ba5 Nb6 33.b4 cxb4 34.Rc7+ Rd7 35.Bxb4 Bd4 36.Bh3 f5 37.h5 gxh5 38.R1c6 Be5 39.Bxf5 Rxc7 40.Rxc7+ Kf6 41.Be4 Rg8 42.Rh7 Rg4 43.f3 Rxg3+ 44.Kf2 Rg5 45.Rxh6+ Ke7 46.Bd2 Bd4+ 47.e3 Bc5 48.f4 Rg4 49.Ke2 Nc4 50.Rxh5 Nxd2 51.Kxd2 Rg3 52.f5 1/2-1/2

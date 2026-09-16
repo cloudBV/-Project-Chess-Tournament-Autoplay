@@ -1,0 +1,14 @@
+[Event "Round 5: Gkoumas, Georgios - Papaioannou, Ioannis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/ITj1igwm"]
+[Date "2026.07.08"]
+[Round "5.31"]
+[White "Gkoumas, Georgios"]
+[Black "Papaioannou, Ioannis"]
+[Result "1/2-1/2"]
+[WhiteElo "2439"]
+[BlackElo "2611"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.O-O O-O 10.Qd3 Nbd7 11.a4 Rc8 12.a5 Qc7 13.Rfd1 Rfe8 14.Bf3 Bc4 15.Qd2 Be6 16.Qd3 h6 17.h3 Bc4 18.Qd2 Be6 19.Qd3 Bc4 20.Qd2 Be6 21.Qd3 1/2-1/2

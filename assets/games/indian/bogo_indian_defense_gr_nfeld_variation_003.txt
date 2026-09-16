@@ -1,0 +1,15 @@
+[Event "Round 6: Yilmaz, Baver - Salci, Aytug Celal"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/fzFZ32eZ"]
+[Date "2026.07.02"]
+[Round "6.36"]
+[White "Yilmaz, Baver"]
+[Black "Salci, Aytug Celal"]
+[Result "1-0"]
+[WhiteElo "2320"]
+[BlackElo "2141"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7 7.e3 O-O 8.Be2 d6 9.O-O Nbd7 10.b4 Ne4 11.Qc2 f5 12.c5 Ndf6 13.c6 Bc8 14.Bb2 Nd5 15.Nd2 Ng5 16.h4 Nf7 17.g3 Nf6 18.e4 e5 19.exf5 e4 20.f3 e3 21.Nc4 Nh5 22.Kh2 Qe7 23.Qe4 Qd8 24.Qc2 Qe7 25.d5 b5 26.Qe4 Qd8 27.Nxe3 Nh6 28.Qd4 Re8 29.Bd3 Re5 30.Rae1 Bxf5 31.Ng4 Bxg4 32.fxg4 Nf6 33.g5 Nhg4+ 34.Kg1 Rxd5 35.Qc3 Qb8 36.gxf6 Qb6+ 37.Kg2 Re5 38.Qb3+ Kh8 39.fxg7+ Kxg7 40.Qf7+ Kh8 41.Qxh7# 1-0

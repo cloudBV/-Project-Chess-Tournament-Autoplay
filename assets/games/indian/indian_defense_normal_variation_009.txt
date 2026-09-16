@@ -1,0 +1,14 @@
+[Event "Round 2: Herrera Jimenez, Mateo - Castro Lombana, Juan Pablo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-2/T2G4VuYH/kh3W8rup"]
+[Date "2026.07.11"]
+[Round "2.5"]
+[White "Herrera Jimenez, Mateo"]
+[Black "Castro Lombana, Juan Pablo"]
+[Result "1-0"]
+[WhiteElo "2025"]
+[BlackElo "2317"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 a6 4.e4 d6 5.Bd3 Be7 6.Nge2 e5 7.O-O O-O 8.f4 exd4 9.Nxd4 Nbd7 10.Be3 Re8 11.Nf5 Bf8 12.Qf3 g6 13.Ng3 Nc5 14.Bc2 Bg4 15.Qf2 Bd7 16.h3 Bc6 17.Bxc5 dxc5 18.Rad1 Qe7 19.e5 Nd7 20.Nge4 Bg7 21.Nd5 Bxd5 22.cxd5 b6 23.Bb3 Kh8 24.d6 cxd6 25.Nxd6 Rf8 26.Rfe1 Nb8 27.Qf3 Ra7 28.Kh1 b5 29.Bd5 Nd7 30.Nxf7+ Rxf7 31.Bxf7 Qxf7 32.e6 Qg8 33.exd7 Ra8 34.Qxa8 Qxa8 35.d8=Q+ Qxd8 36.Rxd8+ Bf8 37.Rxf8+ Kg7 38.Rc8 c4 39.Re7+ Kf6 40.Ra7 1-0

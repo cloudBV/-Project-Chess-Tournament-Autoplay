@@ -1,0 +1,14 @@
+[Event "Round 5: Tureshbayev, Anuar - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-biel-hospital-centertri-blitz/round-5/DMBVMJn9/i2nU2GYb"]
+[Date "2026.07.10"]
+[Round "5.1"]
+[White "Tureshbayev, Anuar"]
+[Black "Cherniaev, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2328"]
+[BlackElo "2603"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Gurgenidze System"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 f6 5.exf6 exf6 6.Nf3 Bg7 7.Be3 Nh6 8.Qd2 Nf5 9.Bd3 Nxe3 10.fxe3 f5 11.O-O-O Be6 12.h3 Qe7 13.Ne2 Nd7 14.Nf4 O-O-O 15.Nxe6 Qxe6 16.Rde1 Rde8 17.h4 h5 18.Kb1 Kb8 19.Qc1 Bf8 20.c4 Bd6 21.Ng5 Qe7 22.cxd5 cxd5 23.Qc3 Rc8 24.Qb3 Nf6 25.Nf3 Rhg8 26.Ne5 1/2-1/2

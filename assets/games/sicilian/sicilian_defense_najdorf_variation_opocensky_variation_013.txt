@@ -1,0 +1,14 @@
+[Event "Round 6: Kourkoulos-Arditis, Stamatis - Koutoukidis, Panagiotis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/y7SP09ND"]
+[Date "2026.07.10"]
+[Round "6.71"]
+[White "Kourkoulos-Arditis, Stamatis"]
+[Black "Koutoukidis, Panagiotis"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2373"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.O-O O-O 10.Bf3 Nbd7 11.a4 Nb6 12.Nd2 Rc8 13.a5 Nc4 14.Nxc4 Bxc4 15.Re1 Be6 16.Qd2 Qc7 17.Rec1 Rfe8 18.Nd5 Bxd5 19.exd5 Qd7 20.h3 h6 21.c4 Nh7 22.Bd1 Rf8 23.Ba4 Qd8 24.Bb6 Bg5 25.Qe2 Qe7 26.Re1 f5 27.c5 e4 28.c6 Bf4 29.Rad1 Ng5 30.h4 Nh7 31.g3 Be5 32.f4 exf3 33.Qxf3 f4 34.gxf4 Qxh4 35.Bf2 Ng5 36.Qg3 Rxf4 37.Qxh4 Nf3+ 38.Kh1 Nxh4 39.Rxe5 dxe5 40.d6 Rxf2 41.d7 Rcf8 42.d8=Q Nf3 43.Bb3+ Kh7 44.Bc2+ Kg8 45.Bb3+ 1/2-1/2

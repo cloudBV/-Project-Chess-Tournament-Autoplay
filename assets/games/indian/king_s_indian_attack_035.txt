@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.05"]
+[Round "2.3"]
+[White "Senthil Maran K"]
+[Black "MORONI, Luca Jr"]
+[Result "0-1"]
+[WhiteElo "2295"]
+[BlackElo "2551"]
+[ECO "A07"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Nc3 Nf6 5.Bg2 Bf5 6.Nh4 Bg4 7.h3 Bh5 8.g4 Bg6 9.Nxg6 hxg6 10.e4 e6 11.Qe2 c6 12.a4 Bb4 13.a5 Nc4 14.a6 b5 15.e5 Nd7 16.O-O g5 17.Nd1 Nf8 18.c3 Be7 19.b3 Nb6 20.Nb2 Ng6 21.Nd3 Nd7 22.f4 gxf4 23.Nxf4 Nxf4 24.Bxf4 Nf8 25.c4 Rb8 26.cxd5 cxd5 27.Bd2 Ng6 28.Ba5 Qd7 29.Rac1 O-O 30.Rc7 Qe8 31.b4 Bg5 32.Rf3 Rc8 33.Qc2 Nh4 34.Rfc3 Rxc7 35.Bxc7 f5 36.Bd6 Be7 37.Rc7 Bxd6 38.exd6 fxg4 39.hxg4 Qd8 40.Re7 Qxd6 41.Qc7 Qxc7 42.Rxc7 Nxg2 43.Kxg2 Rf4 44.Rb7 Rxg4+ 45.Kf3 Rxd4 46.Rxa7 Rxb4 47.Re7 Ra4 48.Rxe6 b4 49.Kf4 b3+ 50.Ke5 Re4+ 51.Kxd5 Rxe6 52.Kxe6 b2 53.a7 b1=Q 54.a8=Q+ Kh7 55.Ke5 Qe1+ 56.Kf5 Qh4 57.Qe8 Qf6+ 0-1

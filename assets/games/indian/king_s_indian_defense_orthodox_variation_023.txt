@@ -1,0 +1,15 @@
+[Event "Round 5: Meirovich, Ilay - Ribstein, Orel"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-5/MpEuSFMD/UWnCXrrw"]
+[Date "2026.07.17"]
+[Round "5.2"]
+[White "Meirovich, Ilay"]
+[Black "Ribstein, Orel"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2190"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 e5 7.O-O h6 8.Re1 Nbd7 9.Rb1 exd4 10.Nxd4 Re8 11.Bf1 c6 12.Bf4 Nc5 13.f3 Nh5 14.Be3 Be5 15.Nde2 f5 16.Qd2 fxe4 17.Bxc5 exf3 18.Ng3 Bxg3 19.Re5 Re7 20.Rxe7 Qe8 0-1

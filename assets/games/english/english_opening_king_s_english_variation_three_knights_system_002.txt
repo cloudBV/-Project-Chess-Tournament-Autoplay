@@ -1,0 +1,15 @@
+[Event "Round 2: Khanbutaev, Artemii - Madaminov, Mukhiddin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/I0ZLGZEQ"]
+[Date "2026.07.04"]
+[Round "2.12"]
+[White "Khanbutaev, Artemii"]
+[Black "Madaminov, Mukhiddin"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2540"]
+[ECO "A27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Three Knights System"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 exd4 5.Nd5 Bg7 6.Bg5 f6 7.Bf4 d6 8.Nxd4 Nge7 9.e3 O-O 10.Be2 Nf5 11.Nb5 Rf7 12.h4 a6 13.Nbc3 Nfe7 14.h5 g5 15.h6 Bh8 16.Bg3 f5 17.Bh5 Ng6 18.Bxg6 hxg6 19.f4 Kh7 20.Qd3 Be6 21.O-O-O b5 22.fxg5 Ne5 23.Bxe5 Bxe5 24.g4 Qxg5 25.gxf5 Bxf5 26.Qd2 bxc4 27.Rdg1 Qd8 28.e4 Be6 29.Qg2 g5 30.Kb1 c6 31.Ne3 Rb8 32.Ka1 Qf6 33.Ned1 d5 34.exd5 cxd5 35.Rf1 Qe7 36.Nxd5 Bxd5 37.Qxd5 Rbf8 38.Qe4+ Kh8 39.Qxc4 Rxf1 40.Rxf1 Rxf1 41.Qxf1 Qf6 42.Qxf6+ Bxf6 43.Kb1 Kh7 44.Kc2 Kxh6 45.Kd3 Kh5 46.Ke4 g4 47.b4 Kh4 1/2-1/2

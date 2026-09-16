@@ -1,0 +1,15 @@
+[Event "Round 5: Munkhgal, Gombosuren - Akdogan, Alperen"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/JPQ9kAxK"]
+[Date "2026.07.16"]
+[Round "5.31"]
+[White "Munkhgal, Gombosuren"]
+[Black "Akdogan, Alperen"]
+[Result "1/2-1/2"]
+[WhiteElo "2351"]
+[BlackElo "2137"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.e4 Nbd7 6.a3 Bxc3+ 7.bxc3 O-O 8.Bd3 c5 9.Ne2 b6 10.f4 cxd4 11.cxd4 e5 12.O-O Bb7 13.Ng3 Qc7 14.Bb2 Rfe8 15.fxe5 dxe5 16.d5 Rf8 17.Qe2 g6 18.Bc1 Kg7 19.Bg5 Ng8 20.h4 f6 21.Be3 Nc5 22.h5 Bc8 23.Rf2 Qd7 24.Bxc5 bxc5 25.Qe3 Qd6 26.Rb2 Ba6 27.Rab1 Nh6 28.Be2 f5 29.Qg5 Qf6 30.Rb7+ Bxb7 31.Rxb7+ Rf7 32.Rxf7+ Qxf7 33.hxg6 hxg6 34.Nh5+ Kh7 35.Nf6+ Kg7 36.Nh5+ Kh7 37.Nf6+ 1/2-1/2

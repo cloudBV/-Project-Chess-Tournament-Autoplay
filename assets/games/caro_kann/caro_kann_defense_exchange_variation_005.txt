@@ -1,0 +1,14 @@
+[Event "Round 7: Kingsley, Elias - Joensson, Oscar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/4zhUjkiS"]
+[Date "2026.07.02"]
+[Round "7.20"]
+[White "Kingsley, Elias"]
+[Black "Joensson, Oscar"]
+[Result "0-1"]
+[WhiteElo "2087"]
+[BlackElo "2114"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nf6 5.Be2 Bg4 6.O-O e6 7.Re1 Be7 8.Nbd2 O-O 9.c3 Nc6 10.h3 Bf5 11.Nh4 Be4 12.f3 Bg6 13.Nxg6 hxg6 14.f4 a6 15.a4 Rc8 16.Bd3 Na5 17.Nf3 Nc4 18.Qe2 Nd6 19.Bxg6 fxg6 20.Qxe6+ Rf7 21.Ne5 Bf8 22.f5 gxf5 23.Nxf7 Nxf7 24.Qxf5 Qd7 25.Qxd7 Nxd7 26.Bf4 Nf6 27.Re6 Ne4 28.Rb6 Bd6 29.Be3 Rc7 30.Rc1 Bg3 31.Rg6 Nfd6 32.Rc2 Nf5 33.Rxg3 Nfxg3 34.Bf4 Rc4 35.Bxg3 Nxg3 36.a5 Ne4 37.Kf1 Ra4 38.b3 Rxa5 39.c4 Ra3 40.cxd5 Rxb3 41.Rc8+ Kf7 42.Rc7+ Kf6 43.Ke2 Nc3+ 44.Kd2 Nxd5 45.Rd7 Nf4 46.d5 Rb5 47.d6 Nxg2 48.Rc7 Rd5+ 49.Ke2 Rxd6 50.Rxb7 Nf4+ 51.Kf3 Nxh3 52.Kg4 Ng5 53.Rb4 Ne6 54.Kh5 Rd4 55.Ra4 g6+ 56.Kh6 Rxa4 57.Kh7 Kf7 58.Kh8 Rh4# 0-1

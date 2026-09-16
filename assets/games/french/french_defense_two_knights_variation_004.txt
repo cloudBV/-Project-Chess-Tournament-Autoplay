@@ -1,0 +1,15 @@
+[Event "Round 4: Aldar Burentegsh - Akhilbay, Imangali"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b18/round-4/gdamaPvY/KPiOTusI"]
+[Date "2026.07.16"]
+[Round "4.21"]
+[White "Aldar Burentegsh"]
+[Black "Akhilbay, Imangali"]
+[Result "0-1"]
+[WhiteElo "2021"]
+[BlackElo "2345"]
+[ECO "C00"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "French Defense: Two Knights Variation"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 d4 4.Ne2 Nf6 5.Ng3 h5 6.h4 c5 7.Bb5+ Bd7 8.Bxd7+ Nbxd7 9.d3 Bd6 10.Ne2 Ng4 11.Bf4 Bxf4 12.Nxf4 Qf6 13.g3 O-O-O 14.Qe2 Kb8 15.a4 Nde5 16.Nd2 g5 17.hxg5 Qxg5 18.Ng2 Ng6 19.O-O-O c4 20.dxc4 Qa5 21.Nb3 Qxa4 22.Kb1 e5 23.f3 Nf6 24.c5 Ne7 25.Ne1 Nc6 26.Nd3 Rhg8 27.Qe1 Rg6 28.f4 Rg4 29.Rf1 Re8 0-1

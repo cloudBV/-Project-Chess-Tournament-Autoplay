@@ -1,0 +1,14 @@
+[Event "Round 2: Dubiel, Jacek - Daverkausen, Bernd"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/z42gIDyh"]
+[Date "2026.07.07"]
+[Round "2.1"]
+[White "Dubiel, Jacek"]
+[Black "Daverkausen, Bernd"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2108"]
+[ECO "B63"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Ivanov Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.Qd2 Qb6 8.Bxf6 gxf6 9.Nb3 Bd7 10.O-O-O O-O-O 11.f4 Kb8 12.Be2 h5 13.Rhf1 Ne7 14.Kb1 f5 15.Bd3 fxe4 16.Nxe4 d5 17.Ng5 Be8 18.Qc3 Rg8 19.Bh7 Bg7 20.Qg3 h4 21.Qxh4 Rh8 22.Qg3 Bf6 23.Bd3 a5 24.Nh7 Rxh7 25.Bxh7 Bb5 26.Bd3 a4 27.f5+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 8: Scheglov, Gleb - Kodiri, Pairavi"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-8/iLKv8oM1/9lDVDJr1"]
+[Date "2026.07.23"]
+[Round "8.13"]
+[White "Scheglov, Gleb"]
+[Black "Kodiri, Pairavi"]
+[Result "1-0"]
+[WhiteElo "2342"]
+[BlackElo "2190"]
+[ECO "A50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Slav Indian"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.g3 g6 5.Bg2 Bg7 6.b3 O-O 7.O-O b5 8.Ne5 Bb7 9.Nc3 Nfd7 10.f4 Nxe5 11.fxe5 b4 12.Na4 Nd7 13.Bf4 e6 14.Qd2 c5 15.Nxc5 Nxc5 16.dxc5 Qa5 17.Qd4 h6 18.cxd5 Bxd5 19.Bxd5 exd5 20.Qxd5 Rad8 21.Qc4 g5 22.Be3 Bxe5 23.Rad1 Qc7 24.Bf2 a5 25.e4 h5 26.Rd5 h4 27.gxh4 Bxh2+ 28.Kg2 Rxd5 29.Qxd5 Be5 30.Bg3 Re8 31.hxg5 Re6 32.Bxe5 Rxe5 33.Rxf7 Rxg5+ 34.Qxg5+ Kxf7 35.Qd5+ Kg7 36.c6 1-0

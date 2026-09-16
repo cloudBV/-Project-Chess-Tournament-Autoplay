@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.08"]
+[Round "5.7"]
+[White "Lissillour, Baptiste"]
+[Black "Solodovnichenko, Yuri"]
+[Result "1/2-1/2"]
+[WhiteElo "2264"]
+[BlackElo "2515"]
+[ECO "B44"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Bf4 d6 6.Nxc6 bxc6 7.Bd3 Ne7 8.c4 Ng6 9.Be3 e5 10.O-O Be7 11.Nc3 O-O 12.c5 dxc5 13.Na4 Nf4 14.Bc4 Qa5 15.Qc2 Be6 16.Rac1 Bxc4 17.Qxc4 Rab8 18.b3 Rb4 19.Qc2 c4 20.Rfd1 Qb5 21.Rd2 cxb3 22.axb3 Rxb3 23.g3 Bb4 24.Qxb3 Bxd2 25.Rb1 Ne2+ 26.Kg2 Bxe3 27.fxe3 Rb8 28.Qxb5 Rxb5 29.Rd1 g6 30.Kf3 Ra5 31.Nb2 Ra2 32.Nd3 a5 33.Re1 Nc3 34.Rc1 Nb5 35.Rxc6 a4 36.Rc5 Nd6 37.Rd5 Nc4 38.Nxe5 Nxe5+ 39.Rxe5 Rxh2 40.Ra5 Ra2 41.Ra8+ Kg7 42.e5 h6 43.Kf4 a3 44.Ra7 Kf8 45.Ke4 g5 46.Ra8+ Kg7 47.Ra7 Kg6 48.g4 Rg2 49.Ra6+ Kg7 50.Kf3 Ra2 51.Ra7 Kf8 52.Ra8+ Ke7 53.Ra7+ Ke8 54.Ke4 Ra1 55.Ra8+ Ke7 56.Ra7+ Kf8 57.Ra8+ Kg7 58.Ra7 Kg6 59.Ra6+ Kg7 60.Ra7 Kf8 61.Ra8+ Ke7 62.Ra7+ Ke6 63.Ra6+ Kd7 64.Ra7+ Kc6 65.Rxf7 Rg1 66.Ra7 Rxg4+ 67.Kf5 Rg3 68.Rxa3 Rf3+ 69.Kg4 Rf8 70.Ra6+ Kd5 71.Rxh6 Kxe5 72.Kxg5 Rf3 73.Rh8 Rg3+ 74.Kh4 Rxe3 75.Re8+ Kf4 76.Rxe3 Kxe3 1/2-1/2

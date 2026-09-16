@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.18"]
+[White "Sanchez Aguilar, Arnau"]
+[Black "Montoliu Cervero, Francisco"]
+[Result "1/2-1/2"]
+[WhiteElo "2229"]
+[BlackElo "2362"]
+[ECO "B90"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.a3 b5 8.g4 Bb7 9.Bg2 h6 10.Qe2 Nbd7 11.O-O Rc8 12.Rfe1 e5 13.Nf5 g6 14.Ng3 h5 15.g5 h4 16.gxf6 hxg3 17.fxg3 Nxf6 18.Rf1 Be7 19.h3 Rh7 20.Rad1 Qd7 21.Nd5 Nxd5 22.exd5 Rxh3 23.Bxh3 Qxh3 24.Rf2 Qxg3+ 25.Rg2 Qh3 26.Rh2 Qg3+ 27.Rg2 Rxc2 28.Qxc2 Qxe3+ 29.Qf2 Qe4 30.Qd2 Bd8 31.Qd3 Bb6+ 32.Kh2 Qa4 33.b4 Bd4 34.Rxg6 fxg6 35.Qxg6+ Kd7 36.Rc1 Bc5 37.Qf7+ Kc8 38.Qf8+ Kc7 39.Rxc5+ dxc5 40.Qe7+ Kb8 41.Qd6+ Ka7 42.Qxc5+ Ka8 43.Qf8+ Ka7 1/2-1/2

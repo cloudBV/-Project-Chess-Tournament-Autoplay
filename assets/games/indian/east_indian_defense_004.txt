@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "12.3"]
+[White "Praggnanandhaa R"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[WhiteElo "2707"]
+[BlackElo "2687"]
+[ECO "A48"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 Bg7 4.e4 d6 5.Bd3 O-O 6.O-O Nc6 7.c3 e5 8.h3 a5 9.a4 Re8 10.Re1 Nh5 11.Nb3 b6 12.Bg5 Nf6 13.Nbd2 Bd7 14.dxe5 Nxe5 15.Nxe5 dxe5 16.Qc2 h6 17.Be3 Nh5 18.Bb5 Bxb5 19.axb5 Qd7 20.c4 Nf4 21.Nf3 Ne6 22.Rad1 Qe7 23.Rd5 Nf4 24.Bxf4 exf4 25.e5 Rad8 26.b3 Qb4 27.e6 f5 28.Qd3 Rd6 29.e7 Bf6 30.Rxd6 Qxd6 31.Qxd6 cxd6 32.Re6 Bxe7 33.Rxg6+ Kf7 34.Rxh6 Bf6 35.Rh7+ Bg7 36.Nh4 Re5 37.Rh5 Kf6 38.Kf1 d5 39.g3 dxc4 40.gxf4 Rxb5 41.bxc4 Rc5 42.Rg5 a4 43.Rg6+ Kf7 44.Rxb6 Ra5 45.Nf3 a3 46.Ng5+ Ke8 47.Rb8+ Kd7 48.Rb7+ Kc6 49.Rxg7 a2 50.Kg2 a1=Q 51.Rg6+ Kd7 52.Nf3 Ra2 53.Ne5+ Ke7 54.Rg7+ Kf8 55.Rf7+ Ke8 56.Rxf5 Qe1 57.Kg3 Qg1+ 58.Kh4 Rxf2 59.Ng4 Re2 60.c5 Re7 61.c6 Qe1+ 62.Kg5 Rg7+ 63.Kh6 Qe6+ 64.Rf6 Qg8 65.Kh5 Rh7+ 66.Nh6 Qd5+ 67.Kg6 Rc7 68.Nf5 Rxc6 69.Rxc6 Qxc6+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 5: McPhillips, Joseph - Odegov, Artem"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/5fcxKYg8"]
+[Date "2026.07.07"]
+[Round "5.23"]
+[White "McPhillips, Joseph"]
+[Black "Odegov, Artem"]
+[Result "1/2-1/2"]
+[WhiteElo "2382"]
+[BlackElo "2244"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.b3 dxc4 5.Bxc4 c5 6.Bb2 Nc6 7.Bb5 Bd7 8.O-O Be7 9.Nc3 O-O 10.Rc1 Rc8 11.Qe2 Qa5 12.Bd3 Rfd8 13.Bb1 h6 14.d4 cxd4 15.exd4 Nb4 16.Ne5 Be8 17.Rfd1 Qa6 18.Qf3 Bc6 19.Nxc6 Rxc6 20.a3 Nbd5 21.Bd3 Qb6 22.Na4 Qc7 23.b4 Rxc1 24.Rxc1 Qf4 25.Qxf4 Nxf4 26.Bf1 N4d5 27.Nc5 Rb8 28.g3 Kf8 29.Nd3 Bd6 30.Ne5 Nb6 31.Bg2 Ke7 32.f4 g6 33.Nd3 Nfd5 34.Nc5 h5 35.Kf2 Nd7 36.Re1 N7f6 37.Rc1 Ng4+ 38.Kg1 Ngf6 39.Kf2 Ng4+ 40.Kg1 Ngf6 1/2-1/2

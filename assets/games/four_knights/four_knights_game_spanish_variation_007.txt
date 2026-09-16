@@ -1,0 +1,15 @@
+[Event "Round 4: Titus, Andrew - Kozower, Ethan"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-4/XhDm5Mcf/axJYLh3r"]
+[Date "2026.07.02"]
+[Round "4.1"]
+[White "Titus, Andrew"]
+[Black "Kozower, Ethan"]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2041"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.a3 O-O 6.d3 Ne7 7.Bc4 c6 8.d4 Ng6 9.dxe5 Nxe5 10.Qxd6 Nxc4 11.Qd4 d5 12.e5 Nd7 13.O-O Qb6 14.Qf4 Qc7 15.Re1 Re8 16.Qg3 f6 17.exf6 Rxe1+ 18.Nxe1 Qxg3 19.hxg3 Nxf6 20.b3 Nd6 21.f3 Bf5 22.Bf4 Nf7 23.Rd1 Re8 24.Kf2 Nd8 25.g4 Bg6 26.Bg5 Rf8 27.Kg3 Ne6 28.Bxf6 Rxf6 29.Ne2 Rf8 30.Nd3 Bxd3 31.Rxd3 Re8 32.Re3 Kf7 33.Nf4 Nd4 34.Rxe8 Kxe8 35.c4 dxc4 36.bxc4 b5 37.cxb5 cxb5 38.Kf2 Nc2 39.Ne6 Kf7 40.Nd8+ Kf6 41.Nc6 Nxa3 42.Ke2 a6 43.f4 Nc4 44.Kd3 a5 45.Na7 Nd6 46.Kd4 a4 47.Nc6 a3 48.Nb4 Nc4 49.Na2 Nb2 50.Ke3 Nd1+ 51.Ke2 b4 52.Nxb4 Nc3+ 53.Kd3 a2 54.Nc2 Nd5 55.Ke4 Nb4 56.Na1 Ke6 57.g5 Nc6 58.g4 g6 59.Nb3 Kf7 60.Na1 Nd8 61.Ke5 Ne6 62.Ke4 Ke7 63.Ke5 Nc5 64.Kd5 Na4 65.Kc4 Ke6 66.Kd4 Nb6 67.Ke4 Nc8 68.Nb3 Nd6+ 69.Kd4 Nb5+ 70.Ke4 Nc3+ 71.Kd3 Nb1 72.Kc2 Kd5 73.f5 Na3+ 74.Kb2 gxf5 75.gxf5 Nc4+ 76.Kxa2 Nd6 77.g6 hxg6 78.fxg6 Ke6 79.Nd2 Kf6 80.Ne4+ Nxe4 81.g7 Kf7 82.g8=R Kxg8 1/2-1/2

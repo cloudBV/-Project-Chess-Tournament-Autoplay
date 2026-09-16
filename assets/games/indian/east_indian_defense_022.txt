@@ -1,0 +1,15 @@
+[Event "Round 5: Heravi, Mohammad Hossein - Mosadeghpour, Masoud"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-5/BolrQd0O/DABDPLJ2"]
+[Date "2026.07.14"]
+[Round "5.4"]
+[White "Heravi, Mohammad Hossein"]
+[Black "Mosadeghpour, Masoud"]
+[Result "0-1"]
+[WhiteElo "2149"]
+[BlackElo "2416"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.e3 Bg7 4.Bd3 O-O 5.O-O d6 6.h3 Nbd7 7.Nbd2 e5 8.dxe5 dxe5 9.e4 Nc5 10.Nxe5 Re8 11.f4 Nh5 12.Ndf3 f6 13.Bc4+ Be6 14.Bxe6+ Rxe6 15.Qd5 fxe5 16.Qxc5 exf4 17.Qc4 Qd7 18.c3 Re8 19.Nd4 Bxd4+ 20.cxd4 b5 21.Qb3 Qxd4+ 22.Kh2 g5 23.Qxb5 c5 24.Qb3 c4 25.Qf3 Ng3 26.Re1 Rxe4 27.Bd2 Qxd2 28.Rxe4 Nxe4 29.Rd1 Qf2 30.Qh5 Qg3+ 31.Kh1 Nf6 0-1

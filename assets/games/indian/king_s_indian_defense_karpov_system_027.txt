@@ -1,0 +1,14 @@
+[Event "Round 9: Panda, Barnabas - Niemi, Kalle"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-9/oOGinc0i/SzI22L9d"]
+[Date "2026.07.18"]
+[Round "9.8"]
+[White "Panda, Barnabas"]
+[Black "Niemi, Kalle"]
+[Result "1-0"]
+[WhiteElo "2187"]
+[BlackElo "2301"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 Na6 8.g4 Nc5 9.f3 a5 10.Qd2 c6 11.Nge2 a4 12.Ng3 h5 13.Bg5 h4 14.Nf5 gxf5 15.gxf5 Re8 16.Rg1 Kf8 17.O-O-O a3 18.b3 Qb6 19.Rg2 Rd8 20.Bxh4 Bh8 21.Bd3 Bd7 22.Qh6+ Ke7 23.Rg7 Bxg7 24.Qxg7 Be8 25.Qxf6+ Kd7 26.Qe7+ Kc8 27.Bc2 Bd7 28.Qxd8+ Qxd8 29.Bxd8 Kxd8 30.dxc6 bxc6 31.Rxd6 Ke7 32.Rd1 Rg8 33.b4 Na6 34.b5 Nb4 35.Bb3 f6 36.bxc6 Bxc6 37.c5 Rg2 38.Nd5+ Bxd5 39.exd5 Nxa2+ 40.Bxa2 Rxa2 41.d6+ Kd7 42.Kb1 Rb2+ 43.Ka1 Rb8 44.Ka2 Kc6 45.d7 Rd8 46.h4 Kxc5 47.h5 Kc6 48.h6 Kc7 49.h7 1-0

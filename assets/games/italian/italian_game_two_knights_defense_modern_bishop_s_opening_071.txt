@@ -1,0 +1,14 @@
+[Event "Round 3: Arjun Kalyan - Menzi, Jonas"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-3/ouxGQVoQ/NxjouP6n"]
+[Date "2026.07.12"]
+[Round "3.11"]
+[White "Arjun Kalyan"]
+[Black "Menzi, Jonas"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2114"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5 9.c3 Nc6 10.Na3 h6 11.h3 a6 12.Bd2 Rb8 13.Nc4 Be6 14.Ne3 Bxa2 15.Rxa2 d5 16.Nf5 d4 17.c4 Qd7 18.g4 Nh7 19.Qc1 Bd8 20.Kh2 Qe6 21.Rg1 Ba5 22.Bxa5 Nxa5 23.g5 hxg5 24.Nxg5 Nxg5 25.Qxg5 g6 26.Qh6 Qf6 27.Rg4 Rfd8 28.Rh4 Qxh4 29.Qg7# 1-0

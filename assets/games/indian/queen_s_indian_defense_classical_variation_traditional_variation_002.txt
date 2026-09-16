@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.6"]
+[White "Jasiulewicz, Dawid"]
+[Black "Krasniewski, Maciej"]
+[Result "1-0"]
+[WhiteElo "2085"]
+[BlackElo "2321"]
+[ECO "E18"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 d6 9.Rc1 Nd7 10.Re1 a5 11.d5 Nxd2 12.Nxd2 e5 13.e4 Nc5 14.Qe2 g6 15.b3 Bc8 16.Rf1 f5 17.f4 Bf6 18.fxe5 Bxe5 19.Nf3 Bxc3 20.Rxc3 Nxe4 21.Re3 Qf6 22.Qd3 Bd7 23.Nd4 Nc5 24.Qd1 Rae8 25.Ree1 h5 26.a3 Kf7 27.b4 axb4 28.axb4 Ba4 29.Qa1 Nb3 30.Nxb3 Bxb3 31.Qa7 Qd4+ 32.Kh1 Rxe1 33.Rxe1 Qxc4 34.Qa1 Qxb4 35.Re6 1-0

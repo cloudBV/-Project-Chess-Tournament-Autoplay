@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-3/aTV140P1/HTp10H49"]
+[Date "2026.07.01"]
+[Round "3.6"]
+[White "Sanz Pueyo, Adrian"]
+[Black "Plazas Ros, Juan Jose"]
+[Result "1-0"]
+[WhiteElo "2029"]
+[BlackElo "2033"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Apocalypse Attack"]
+
+1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.Ne5 Nc6 5.d4 Nf6 6.c3 Bf5 7.Bb5 Qb6 8.c4 dxc4 9.Na3 Bd7 10.Nxd7 Nxd7 11.d5 Nce5 12.O-O a6 13.Bxd7+ Nxd7 14.Nxc4 Qc7 15.Qe2 b5 16.Ne3 g6 17.Rd1 Qd6 18.a4 Rb8 19.axb5 axb5 20.Ra5 Qb6 21.b4 Bg7 22.d6 e5 23.Nd5 Qxd6 24.Ra6 Nb6 25.Nxb6 Qxb4 26.Ba3 Qb3 27.Qd2 Qe6 28.Nc4 Qg4 29.Nd6+ Kf8 30.Nf5+ Kg8 31.Ne7+ Kf8 32.Nc6+ b4 33.Nxb8 Bf6 34.Rxf6 bxa3 35.Qd8+ Kg7 36.Rxf7+ Kxf7 37.Rd7+ Ke6 38.Rd6+ Kf5 39.Qf6+ 1-0

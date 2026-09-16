@@ -1,0 +1,15 @@
+[Event "Round 9: Herdem, Talha - Kazimova, Narmin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/ntwOy7fu"]
+[Date "2026.07.19"]
+[Round "9.34"]
+[White "Herdem, Talha"]
+[Black "Kazimova, Narmin"]
+[Result "1-0"]
+[WhiteElo "2067"]
+[BlackElo "2128"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 1-0

@@ -1,0 +1,15 @@
+[Event "Round 4: Birka, Elia - Magen, Ofek"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-4/2mDZshgk/25e8cyL6"]
+[Date "2026.07.16"]
+[Round "4.10"]
+[White "Birka, Elia"]
+[Black "Magen, Ofek"]
+[Result "1/2-1/2"]
+[WhiteElo "2264"]
+[BlackElo "2115"]
+[ECO "B75"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Bc4 Bd7 9.Bb3 a6 10.Nxc6 Bxc6 11.Qd2 Bg7 12.O-O-O Qc7 13.Kb1 a5 14.a4 Rb8 15.h3 h4 16.Rhe1 Kf8 17.Ba7 Rc8 18.Bf2 Rh5 19.Qe2 Nd7 20.Nd5 Bxd5 21.Rxd5 Rxd5 22.Bxd5 Nc5 23.Bb3 b5 24.axb5 a4 25.Ba2 Nd7 26.Rd1 Bxb2 27.Kxb2 Qc3+ 28.Kb1 Qb4+ 29.Ka1 Qc3+ 30.Kb1 Qb4+ 31.Ka1 Qc3+ 1/2-1/2

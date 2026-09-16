@@ -1,0 +1,15 @@
+[Event "Round 2: Hayrapetyan, Hovik - Sharajyan, Garik"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/d25prgtN"]
+[Date "2026.07.14"]
+[Round "2.10"]
+[White "Hayrapetyan, Hovik"]
+[Black "Sharajyan, Garik"]
+[Result "1-0"]
+[WhiteElo "2412"]
+[BlackElo "2066"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 Na6 8.g4 Nc5 9.Bg2 a5 10.Nge2 Ne8 11.Ng3 Qe7 12.Qd2 Bd7 13.O-O-O Rb8 14.Bf1 Kh8 15.Be2 Na4 16.Nxa4 Bxa4 17.b3 Bd7 18.Qxa5 f5 19.gxf5 gxf5 20.Nxf5 Bxf5 21.exf5 Rxf5 22.Rhg1 c5 23.Qd2 e4 24.Qc2 Qe5 25.Bg4 Rf8 26.a4 Nc7 27.Kd2 Na6 28.Ke1 Nb4 29.Qe2 Nd3+ 30.Rxd3 exd3 31.Qxd3 Rbe8 32.Be6 Qa1+ 33.Qd1 Bc3+ 34.Ke2 Qb2+ 35.Kd3 Bd4 36.Qc2 Qxc2+ 37.Kxc2 Bxe3 38.fxe3 Rf2+ 39.Kd3 Ref8 40.b4 cxb4 41.Rb1 Ra2 42.Rxb4 Rd8 43.Rxb7 Rxa4 44.Bf5 h5 45.Rh7+ Kg8 46.Rxh5 Kg7 47.Rh7+ Kf6 48.Bg4 Re8 49.Kd4 Ra6 50.e4 Kg5 51.Rg7+ Kf4 52.Rf7+ Kg3 53.Bd7 Re5 54.c5 Rg5 55.cxd6 Rxd6 56.Bf5 Ra6 57.Ke5 Rg8 58.d6 Ra5+ 59.Ke6 Re8+ 60.Re7 Rh8 61.Rg7+ Kf4 62.Rg4+ Ke3 63.d7 Kd4 64.e5+ Kc5 65.Rg1 Ra6+ 1-0

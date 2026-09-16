@@ -1,0 +1,14 @@
+[Event "Round 5: Penades Ordaz, Victor - Zrikem, Nassim"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-5/yh0MgNLa/Jdbgyb41"]
+[Date "2026.07.15"]
+[Round "5.3"]
+[White "Penades Ordaz, Victor"]
+[Black "Zrikem, Nassim"]
+[Result "1/2-1/2"]
+[WhiteElo "2078"]
+[BlackElo "2179"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Steiner Variation"]
+
+1.c4 e6 2.e4 d5 3.cxd5 exd5 4.exd5 Qxd5 5.Nc3 Qd6 6.Bc4 Be7 7.Qf3 Nf6 8.Nge2 c6 9.h3 Nbd7 10.d4 Nb6 11.Bb3 Be6 12.Bf4 Qd7 13.Bxe6 Qxe6 14.O-O O-O 15.Rfe1 Qd7 16.Ng3 Nfd5 17.Re4 f5 18.Re2 Nxf4 19.Qxf4 Bd6 20.Qh4 Bxg3 21.fxg3 f4 22.gxf4 Qxd4+ 23.Rf2 Rae8 24.Rd1 Qc4 25.Qg3 Rf5 26.Kh2 Ref8 27.b3 Qb4 28.Rdf1 h6 29.Qe3 Kh8 30.g4 Nd5 31.Nxd5 Rxd5 32.f5 Qd6+ 33.Qg3 Qf6 34.Re1 Rfd8 35.Re6 Qf7 36.Rfe2 Rd2 37.Qe5 Rxe2+ 38.Qxe2 Qc7+ 39.Kg2 Qa5 40.Re8+ Kh7 41.Rxd8 Qxd8 42.Qe6 c5 43.h4 Kh8 44.Kf3 b5 45.Kf4 a5 46.g5 Qd4+ 47.Kf3 Qd3+ 48.Kg4 Qd1+ 49.Kf4 hxg5+ 50.hxg5 Qd4+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/dFlThGR4"]
+[Date "2026.07.22"]
+[Round "4.3"]
+[White "Hector, Jonny"]
+[Black "Solodovnichenko, Yuri"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2515"]
+[ECO "B99"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 h6 11.h4 hxg5 12.hxg5 Rxh1 13.Qxh1 Nxg4 14.Qh5 Ndf6 15.gxf6 Nxf6 16.Bb5+ axb5 17.Qh8+ Kd7 18.Qxg7 b4 19.Ncb5 Qc5 20.e5 Ne8 21.Qg3 Rxa2 22.Kb1 Ra5 23.Nxd6 Qd5 24.Nxc8 Kxc8 25.Qg8 Qd7 26.Qxf7 Rd5 27.Rd3 Bc5 28.Qxd7+ Kxd7 29.Nb3 b6 30.Rxd5+ exd5 31.Nc1 Ng7 32.Ka2 Nf5 33.Nd3 Nd4 34.c3 b3+ 35.Kb1 Nf5 36.Kc1 Be3+ 37.Kd1 Ng3 0-1

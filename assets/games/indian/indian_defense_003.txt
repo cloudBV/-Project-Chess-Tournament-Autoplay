@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.10"]
+[White "Khimichenko, Dmytro"]
+[Black "Stickler, Florentin"]
+[Result "0-1"]
+[WhiteElo "2013"]
+[BlackElo "2210"]
+[ECO "A45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense"]
+
+1.d4 Nf6 2.Nc3 e6 3.Bf4 Be7 4.Nf3 O-O 5.e4 d5 6.e5 Nfd7 7.h4 c5 8.Ne2 cxd4 9.Nexd4 Nc6 10.c3 Qb6 11.b4 a5 12.b5 Nxd4 13.cxd4 f6 14.exf6 Nxf6 15.Bg5 Bb4+ 16.Bd2 Ne4 17.Bxb4 axb4 18.Bd3 e5 19.Nxe5 Qxd4 20.Bxe4 Qxf2# 0-1

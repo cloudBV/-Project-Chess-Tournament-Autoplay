@@ -1,0 +1,14 @@
+[Event "Round 3: Papasimakopoulos, Alexandros - Koutlas, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/BfXdFY2o"]
+[Date "2026.07.06"]
+[Round "3.41"]
+[White "Papasimakopoulos, Alexandros"]
+[Black "Koutlas, Nikolaos"]
+[Result "1/2-1/2"]
+[WhiteElo "2353"]
+[BlackElo "2368"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bg7 6.e4 d6 7.Be2 O-O 8.Be3 a5 9.O-O a4 10.f3 a3 11.b4 Nc6 12.Rb1 Nxd4 13.Bxd4 Nh5 14.Bxg7 Kxg7 15.f4 Nf6 16.Qd4 e5 17.Qf2 exf4 18.Qxf4 Qe7 19.Rbd1 Qe5 20.Rxd6 Qxc3 21.Qxf6+ Qxf6 22.Rfxf6 Ra4 23.Rb6 Rd8 24.Rf1 Rd2 25.Bd1 Ra6 26.Rxa6 bxa6 27.Bb3 Be6 28.e5 Kf8 29.Rf2 Rd4 30.Rc2 Rd8 31.Kf2 Rb8 32.Ke3 Rxb4 33.Kd4 a5 34.Kc3 Ke7 35.Rd2 Rb6 36.Rd4 Rc6 37.Re4 g5 38.Ba4 Rb6 39.Bb5 h5 40.Re3 Bd7 41.Kd4 Bxb5 42.Kc5 Bxc4 43.Kxb6 Bxa2 44.Rxa3 Bd5 45.Kc5 Ke6 46.Kd4 a4 47.Rxa4 Bxg2 48.Ra6+ Ke7 49.Rh6 Bf3 50.Ke3 Bd1 51.Rf6 h4 52.Ke4 Bc2+ 53.Kf3 Bd1+ 54.Ke3 Bg4 55.Ke4 Be6 56.Rh6 h3 57.Kf3 Bf5 58.Rf6 Bd7 59.Ke4 Kf8 60.Kf3 Kg7 1/2-1/2

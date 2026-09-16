@@ -1,0 +1,14 @@
+[Event "Round 5: Eren, Ataberk - Pogorelskikh, Sofia"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-5/9Q1lRTRH/ppmMtsAf"]
+[Date "2026.07.17"]
+[Round "5.18"]
+[White "Eren, Ataberk"]
+[Black "Pogorelskikh, Sofia"]
+[Result "1-0"]
+[WhiteElo "2367"]
+[BlackElo "2280"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 Be7 7.Nxc6 bxc6 8.e5 Nd5 9.Qg4 g6 10.Qg3 Nxc3 11.Qxc3 a5 12.Bd2 O-O 13.h4 f6 14.Qg3 fxe5 15.Bd3 Bc5 16.O-O-O Qf6 17.h5 Bxf2 18.Qg4 d5 19.Bg5 Qg7 20.hxg6 e4 21.Rxh7 Qxg6 22.Rh6 Be3+ 23.Kb1 Qg7 24.Qh5 Bxg5 25.Rg6 Bf6 26.Rh1 Ra7 27.Qh7+ Kf7 28.Rxg7+ Bxg7 29.Be2 Ke8 30.Qg6+ Kd8 31.Rh7 Rff7 32.Bh5 Rfe7 33.Qg5 Bf8 34.Rh8 1-0

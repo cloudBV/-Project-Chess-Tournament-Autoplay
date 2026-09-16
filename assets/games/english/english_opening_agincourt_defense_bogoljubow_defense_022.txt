@@ -1,0 +1,14 @@
+[Event "Round 7: Windmueller, Simon - Keyser, Robin"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/uDDf6HLv"]
+[Date "2026.07.23"]
+[Round "6.17"]
+[White "Windmueller, Simon"]
+[Black "Keyser, Robin"]
+[Result "1/2-1/2"]
+[WhiteElo "2088"]
+[BlackElo "2181"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Bd6 5.O-O O-O 6.b3 Nc6 7.d3 d4 8.e3 e5 9.exd4 exd4 10.Bg5 h6 11.Bxf6 Qxf6 12.Nbd2 Qg6 13.Ne4 Be7 14.Re1 f5 15.Ned2 Bf6 16.c5 a5 17.Nc4 Re8 18.Qd2 Be6 19.Nfe5 Nxe5 20.Nxe5 Bxe5 21.Rxe5 c6 22.Rae1 Qf6 23.Bh3 Kf7 24.R1e2 g5 25.Qe1 Bd7 26.Rxe8 Bxe8 27.Bg2 Bd7 28.Bf3 g4 29.Bg2 Kf8 30.Qd2 Qg5 31.Qb2 Qf6 32.Qd2 Qg5 33.Qb2 Qf6 34.Qd2 1/2-1/2

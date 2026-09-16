@@ -1,0 +1,14 @@
+[Event "Round 1: Benjamin Wagner - Hertneck, Gerald"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/pljKqL5S"]
+[Date "2026.07.19"]
+[Round "1.4"]
+[White "Benjamin Wagner"]
+[Black "Hertneck, Gerald"]
+[Result "1-0"]
+[WhiteElo "2285"]
+[BlackElo "2428"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nc6 6.a3 Be7 7.Be3 Bg5 8.Qf3 Bxe3 9.fxe3 Nf6 10.Nge2 Ne7 11.e4 Bg4 12.Qg3 Bxe2 13.Qxg7 Ng6 14.Bxe2 Rg8 15.Qh6 dxe4 16.Rf1 Qe7 17.Qg5 Nd7 18.Qxe7+ Nxe7 19.Bh5 Rxg2 20.Bxf7+ Kd8 21.O-O-O Rxh2 22.Be6 e3 23.Rde1 a5 24.Rxe3 Ra6 25.Rf7 Rh1+ 26.Kd2 Rh2+ 27.Kd3 Rxe6 28.Rxe6 Nc8 29.Rg7 c6 30.Ne4 Ncb6 31.Nf6 Rh3+ 32.Ke2 Rh6 33.Rg8+ 1-0

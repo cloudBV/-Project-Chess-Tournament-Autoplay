@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "2.1"]
+[White "Raghav V"]
+[Black "Solodovnichenko, Yuri"]
+[Result "1/2-1/2"]
+[WhiteElo "2307"]
+[BlackElo "2515"]
+[ECO "C56"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Invitation Declined"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 Nf6 5.dxe5 dxe5 6.Nbd2 Bc5 7.O-O O-O 8.h3 Qe7 9.c3 a5 10.a4 Be6 11.Bxe6 Qxe6 12.Re1 h6 13.Qb3 Qxb3 14.Nxb3 Bb6 15.Nfd2 Nb8 16.Nc4 Nbd7 17.Be3 Bxe3 18.Rxe3 b6 19.Rd1 Rfb8 20.Red3 b5 21.axb5 Rxb5 22.Nbxa5 Rbxa5 23.Nxa5 Rxa5 24.Rxd7 Nxd7 25.Rxd7 c5 26.Rd8+ Kh7 27.Rd5 f6 28.Kf1 Ra2 29.b3 Rb2 30.Rxc5 Rxb3 31.Ke2 Rb2+ 32.Ke3 g5 33.Rc7+ Kg6 34.g3 h5 35.c4 h4 36.gxh4 gxh4 37.Kf3 Kg5 38.Rg7+ Kh6 39.Rc7 Kg5 40.Rg7+ Kh6 41.Rg8 Rc2 42.Rc8 Kg5 43.Rg8+ Kh5 44.Rh8+ Kg5 45.Rg8+ Kh5 46.Rc8 Rc3+ 47.Kg2 Kg5 48.c5 Kf4 49.Rf8 Kxe4 50.Rxf6 Rxc5 51.Rh6 Rc3 52.Rxh4+ Kf5 53.Rg4 Ra3 54.Rg3 Ra4 55.Rf3+ Kg5 56.Kg3 Ra1 57.Re3 Kf5 58.Rf3+ Kg5 59.Rf8 Ra3+ 60.Kg2 e4 61.Rg8+ Kh5 62.Rg4 Ra4 63.Kf1 Ra1+ 64.Kg2 Ra4 65.Rg8 Ra2 66.Kf1 Kh6 67.Ke1 Kh7 68.Rg4 Ra1+ 69.Ke2 Ra2+ 70.Kf1 Ra4 71.h4 Kh6 72.Ke2 Kh5 73.Rf4 Ra2+ 74.Ke3 Ra3+ 75.Kxe4 Ra4+ 76.Kf3 Ra3+ 77.Kg2 Ra2 78.Rb4 Ra3 79.Rc4 Ra1 80.Kg3 Rg1+ 81.Kf3 Ra1 82.Re4 Ra3+ 83.Re3 Ra1 84.Re4 Ra3+ 85.Kg2 Ra1 86.Rc4 Ra3 87.f3 Ra1 88.Rg4 Rb1 89.Kg3 Rg1+ 90.Kf4 Ra1 91.Rg8 Ra4+ 92.Kg3 Ra1 93.Rg5+ Kh6 94.Kg4 Rg1+ 95.Kf5 Rh1 96.Rg6+ Kh7 97.Rg4 Rh3 98.f4 Kh6 99.Rg8 Kh7 100.Rg4 Kh6 101.Kf6 Ra3 102.Rg8 Ra6+ 103.Kf5 Ra5+ 104.Kg4 Ra1 105.Rg5 Rg1+ 106.Kf5 Ra1 107.Rg6+ Kh7 108.Re6 Rh1 109.Kg5 Rg1+ 110.Kf5 Rh1 111.Kg4 Rg1+ 112.Kh5 Kg7 113.Rb6 Rf1 114.Kg5 Rg1+ 115.Kf5 Rh1 116.Rb7+ Kh6 117.Rb8 Kg7 118.Rb7+ Kh6 119.Rb6+ Kg7 120.Rg6+ Kh7 121.Rg4 Kh6 122.Kf6 Ra1 123.Rg5 Ra6+ 124.Kf5 Ra5+ 125.Kg4 Ra1 126.h5 Rg1+ 127.Kf5 Ra1 128.Rg8 Ra5+ 129.Kg4 Ra1 130.Rg6+ Kh7 131.Kg5 Rg1+ 132.Kf6 Rh1 133.Rg5 Kh6 134.Rg8 Kh7 135.Rg5 Kh6 136.Re5 Ra1 137.Rg5 Rh1 1/2-1/2

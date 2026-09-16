@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.18"]
+[Round "4"]
+[White "Osmanagic, Ivor"]
+[Black "Hadzic, Sabahet"]
+[Result "1/2-1/2"]
+[WhiteElo "2059"]
+[BlackElo "2107"]
+[ECO "C10"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bd3 Ngf6 6.Qe2 Be7 7.Nf3 c5 8.Nxf6+ Nxf6 9.dxc5 Qa5+ 10.Bd2 Qxc5 11.O-O-O a6 12.Ne5 Bd7 13.g4 Bb5 14.g5 Nd7 15.Nxd7 Bxd7 16.f4 Bb5 17.Bc3 Bxd3 18.Rxd3 O-O 19.Kb1 Rad8 20.Rhd1 Rfe8 21.Qe4 Rxd3 22.Qxd3 Rc8 23.a3 Qc7 24.Qd7 Kf8 25.Qxc7 Rxc7 26.Be5 Rc6 27.Rd7 b5 28.Bxg7+ Kxg7 29.Rxe7 Rc4 30.Ra7 Rxf4 31.Rxa6 Kg6 32.Kc1 Kxg5 33.Ra5 Rd4 34.Rxb5+ f5 35.Rb4 Rd8 36.h4+ Kf6 37.a4 e5 38.Rb6+ Kf7 39.a5 f4 40.a6 f3 1/2-1/2

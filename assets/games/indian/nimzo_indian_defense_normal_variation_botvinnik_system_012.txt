@@ -1,0 +1,15 @@
+[Event "Round 7: Postnikov, Artem - Dahale, Atul"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/XoR6osCZ"]
+[Date "2026.07.09"]
+[Round "7.14"]
+[White "Postnikov, Artem"]
+[Black "Dahale, Atul"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2188"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5 9.Ne2 Be6 10.O-O cxd4 11.cxd4 Nc6 12.f3 Rc8 13.Ra2 Re8 14.g4 g6 15.Nf4 Nd7 16.Qe1 Nf8 17.h4 Qd7 18.Rh2 Ne7 19.Qf2 Qd6 20.Ne2 f5 21.h5 Rc7 22.gxf5 Nxf5 23.e4 Ng7 24.Bf4 Qxa3 25.Bxc7 Qxd3 26.Nf4 Qc3 27.Be5 g5 28.Ne2 Qc6 29.h6 1-0

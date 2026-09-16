@@ -1,0 +1,15 @@
+[Event "Round 4: Farrand, Tom - Okrajek, Alexander"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-4/22FzUfmv/RQgIzxoM"]
+[Date "2026.07.09"]
+[Round "4.2"]
+[White "Farrand, Tom"]
+[Black "Okrajek, Alexander"]
+[Result "1-0"]
+[WhiteElo "2077"]
+[BlackElo "2199"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Qa5 11.a3 Be6 12.O-O-O Nd7 13.Ng3 c5 14.Bh7+ Kh8 15.Ne4 Bf8 16.d5 Bg4 17.f3 g6 18.fxg4 hxg4 19.h4 Rxe4 20.Qxe4 f5 21.Qf4 Re8 22.h5 Rxe3 23.Qxe3 Kxh7 24.Qe8 1-0

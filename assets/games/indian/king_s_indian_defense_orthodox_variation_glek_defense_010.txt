@@ -1,0 +1,15 @@
+[Event "Round 8: Buyankhishig, Batpelden - Sivakumar, Shaashwath"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/dKtPQf7N"]
+[Date "2026.07.10"]
+[Round "8.16"]
+[White "Buyankhishig, Batpelden"]
+[Black "Sivakumar, Shaashwath"]
+[Result "0-1"]
+[WhiteElo "2145"]
+[BlackElo "2194"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 Na6 7.O-O e5 8.Be3 Qe7 9.dxe5 dxe5 10.Nd5 Qd8 11.Qc2 Nd7 12.Bg5 f6 13.Bd2 c6 14.Ne3 Bh6 15.Rfd1 b6 16.a4 Bb7 17.Ng4 Bg7 18.c5 Naxc5 19.Bc4+ Kh8 20.b4 Na6 21.Nh4 f5 22.Nxg6+ hxg6 23.exf5 gxf5 24.Nh6 f4 25.Nf7+ Rxf7 26.Bxf7 Qf6 27.Bc4 Nf8 28.Ra3 Bc8 29.b5 cxb5 30.Bd5 Bf5 31.Be4 b4 32.Rh3+ Bxh3 33.Bxa8 Bg4 34.f3 Be6 35.Qc6 Qe7 36.Rc1 b3 37.Qb5 Nc7 38.Qc6 b2 39.Rb1 Bd5 0-1

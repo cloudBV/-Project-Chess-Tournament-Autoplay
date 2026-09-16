@@ -1,0 +1,14 @@
+[Event "Round 6: Zrikem, Nassim - Valmana Canto, Jaime"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-6/jqKzHLPy/SUeXd76k"]
+[Date "2026.07.16"]
+[Round "6.2"]
+[White "Zrikem, Nassim"]
+[Black "Valmana Canto, Jaime"]
+[Result "1-0"]
+[WhiteElo "2179"]
+[BlackElo "2366"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.Nf3 c5 2.e4 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Bb7 9.Be2 c5 10.O-O Qc7 11.c4 Ne3 12.Nd6+ Bxd6 13.exd6 Qc6 14.Bf3 Nxd1 15.Bxc6 Bxc6 16.Rxd1 O-O 17.Re1 f6 18.b3 Rfc8 19.Ba3 Bb7 20.f4 Rc6 21.Rad1 Rac8 22.Re2 Kf7 23.Kf2 h5 24.Rd3 a5 25.f5 e5 26.Rd5 a4 27.Rb2 Ra6 28.Rxc5 axb3 29.Rxc8 Rxa3 30.Rc7 Rxa2 31.Rxd7+ Ke8 32.Re7+ Kd8 33.Re2 Ba6 34.Rxg7 Bxc4 35.Rxa2 bxa2 36.Ra7 Bd3 37.Rxa2 Kd7 38.Ra7+ Kxd6 39.Rf7 1-0

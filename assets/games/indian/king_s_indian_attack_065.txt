@@ -1,0 +1,14 @@
+[Event "Round 7: Kelires, Andreas - Petkidis, Anthony"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/Sam0Afnp"]
+[Date "2026.07.10"]
+[Round "7.21"]
+[White "Kelires, Andreas"]
+[Black "Petkidis, Anthony"]
+[Result "1/2-1/2"]
+[WhiteElo "2533"]
+[BlackElo "2420"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Nc3 Bf5 5.Nh4 Bg4 6.h3 Bh5 7.Ng2 Bg6 8.Nf4 e6 9.Nxg6 hxg6 10.Bg2 Nf6 11.O-O c5 12.a4 Nbd7 13.e4 cxd4 14.Qxd4 Bc5 15.Qd3 d4 16.Ne2 e5 17.a5 a6 18.Bd2 O-O 19.b4 Bd6 20.Rfb1 Qe7 21.Qb3 Rfc8 22.c3 dxc3 23.Nxc3 Nf8 24.Na4 N6d7 25.h4 Ne6 26.Be3 Nd4 27.Bxd4 exd4 28.Ra2 Rc7 29.Rd2 Rac8 30.Rxd4 Rc1+ 31.Rd1 Rxb1 32.Qxb1 Nf6 33.b5 Rc4 34.bxa6 bxa6 35.Qa2 Qc7 36.Qd2 Bxg3 37.fxg3 Rxa4 38.Qd8+ Qxd8 39.Rxd8+ Kh7 40.Rf8 Ra1+ 41.Kh2 Ng4+ 42.Kh3 Nf2+ 43.Kh2 Ng4+ 44.Kh3 Nf2+ 45.Kh2 f6 46.e5 Ng4+ 47.Kh3 Nf2+ 48.Kh2 Ng4+ 49.Kh3 Nxe5 50.Bd5 Rxa5 51.Bg8+ Kh6 52.Be6 Kh7 53.Bg8+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 6: Cankurt, Arda - Akbas, Kaan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/9OTQYmlK"]
+[Date "2026.07.16"]
+[Round "6.15"]
+[White "Cankurt, Arda"]
+[Black "Akbas, Kaan"]
+[Result "1-0"]
+[WhiteElo "2079"]
+[BlackElo "2174"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Horwitz Attack, Papa-Ticulat Gambit"]
+
+1.e4 e6 2.b3 d5 3.Bb2 Nc6 4.exd5 exd5 5.Nf3 Nf6 6.Be2 Bd6 7.O-O O-O 8.d3 Re8 9.Re1 a5 10.a3 d4 11.Nbd2 Bc5 12.Ng5 Nd5 13.Bh5 Rxe1+ 14.Qxe1 g6 15.Nge4 Bf8 16.Bf3 Bg7 17.Nc5 Nc3 18.Bxc6 bxc6 19.Nc4 Bf5 20.Bxc3 dxc3 21.a4 Bd4 22.Ne4 Qh4 23.Rd1 Bg4 24.Rb1 f5 25.Nxc3 f4 26.Ne4 f3 27.g3 Qh3 28.Qf1 Qh5 29.c3 Bg7 30.Ne3 Bf5 31.b4 Kh8 32.bxa5 Bxe4 33.dxe4 Qxa5 34.Qc4 Bxc3 35.Qxc6 Bd4 36.h4 Rf8 37.Qb5 Qa7 38.Rb3 c5 39.Nc4 Qf7 40.Nd2 Qc7 41.Kf1 c4 42.Rxf3 Rc8 43.Qd5 Bg7 44.Rf7 Qc5 45.Qd7 Rf8 46.Rxf8+ Bxf8 47.Qd5 Qa7 48.Qxc4 Bc5 49.Qc3+ Kg8 50.Qf3 Qd7 51.Nb3 Bb4 52.a5 Qh3+ 53.Kg1 Qd7 54.a6 Qa4 55.Qd3 Be7 56.Qd5+ Kf8 57.Qb7 1-0

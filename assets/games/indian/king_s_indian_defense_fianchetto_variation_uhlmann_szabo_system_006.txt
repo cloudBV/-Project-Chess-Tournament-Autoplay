@@ -1,0 +1,15 @@
+[Event "Round 5: Kovchan, Alexander - Shearsby, Jude"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-5/r70CQOpY/sGNWZOA5"]
+[Date "2026.07.18"]
+[Round "5.4"]
+[White "Kovchan, Alexander"]
+[Black "Shearsby, Jude"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2243"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O e5 8.dxe5 dxe5 9.Bg5 h6 10.Qxd8 Rxd8 11.Bxf6 Bxf6 12.Nd5 Bg7 13.Nxc7 Rb8 14.e4 Bf8 15.Nd5 Bc5 16.Ne1 Bd4 17.Nd3 Kg7 18.Rac1 a5 19.b3 Be6 20.Rc2 h5 21.h4 f6 22.Kh2 Rf8 23.f4 f5 24.Rcc1 Rbd8 25.Rce1 Bc8 26.exf5 Bxf5 27.Nxe5 Bxe5 28.fxe5 Rde8 29.Nf4 Nxe5 30.Bxb7 Re7 31.Bd5 Ng4+ 32.Kh1 Ne3 33.Bc6 Rc8 34.Rf3 Nd5 35.Ne6+ Rxe6 36.Ree3 Re5 37.Rxe5 Nb4 38.Re6 1-0

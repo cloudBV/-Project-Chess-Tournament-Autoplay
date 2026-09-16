@@ -1,0 +1,14 @@
+[Event "Round 2: Rappazzo, Johannes - Ghosh, Diptayan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/rD1K6Ib1"]
+[Date "2026.07.14"]
+[Round "2.3"]
+[White "Rappazzo, Johannes"]
+[Black "Ghosh, Diptayan"]
+[Result "0-1"]
+[WhiteElo "2268"]
+[BlackElo "2554"]
+[ECO "C17"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Retreat Variation, Armenian Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Kf8 8.Nb5 Bb6 9.Nf3 Nc6 10.Bb2 f6 11.Nbxd4 Nxe5 12.Nxe5 fxe5 13.Nxe6+ Bxe6 14.Qxe6 Qf6 15.Qxf6+ gxf6 16.f4 e4 17.c4 Rd8 18.Rd1 Kf7 19.g4 Be3 20.cxd5 Bxf4 21.Bc4 h5 22.d6+ Kg6 23.Rg1 h4 24.g5 Bxh2 25.Rg4 Bg3+ 26.Kf1 Kf5 27.Be2 Rxd6 28.Rc1 Rc6 29.Rd1 Rc2 30.Ba1 Rxe2 31.Kxe2 Kxg4 32.gxf6 Nxf6 33.Bxf6 Rf8 34.Bd4 h3 35.Bxa7 h2 0-1

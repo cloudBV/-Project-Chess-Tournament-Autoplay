@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.6"]
+[White "Notkevich, Benjamin Arvola"]
+[Black "Fiskaaen, Martin Holten"]
+[Result "1/2-1/2"]
+[WhiteElo "2453"]
+[BlackElo "2368"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Bf4 Nbd7 9.Nc3 dxc4 10.e4 b5 11.d5 b4 12.d6 bxc3 13.dxe7 Qxe7 14.Bd6 Qd8 15.Bxf8 cxb2 16.Rb1 Qxf8 17.Rxb2 Ba6 18.Re1 Nb6 19.Rd2 Bb5 20.Qa1 Na4 21.Qd4 c3 22.Rdd1 Nb2 23.Ra1 Nd3 24.Re3 Rd8 25.Qxc3 Ng4 26.Re2 Nf4 27.Rb2 Ne2+ 28.Rxe2 Bxe2 29.Nd4 Ba6 30.Nxc6 Rc8 31.e5 Bb7 32.Rc1 h5 33.Qd4 Bxc6 34.Rxc6 Rxc6 35.Bxc6 Qb8 36.Bf3 Nxe5 37.Bxh5 g6 38.Be2 Qb1+ 39.Kg2 Qb7+ 40.Kh3 Qc7 41.f4 Nd7 42.Bc4 Nf8 43.Kg2 Nh7 44.h4 Qe7 45.Be2 Nf6 46.Bf3 Ne8 47.a4 Qc7 48.Qe4 Kf8 49.Qc6 Qa5 50.Qd7 Qc5 51.Qb5 Qc2+ 52.Kh3 Qf2 53.Bc6 Nf6 54.Qb8+ Kg7 55.Qe5 Qc2 56.Bf3 Qb3 57.Kg2 Qa2+ 58.Kh3 Qb3 59.Bg2 Qxa4 60.h5 Qc2 61.g4 gxh5 62.g5 Qg6 63.Bc6 a6 64.Kh4 a5 65.Ba4 Kh7 66.Bc6 Ng8 67.Be4 Ne7 68.Kh3 Nf5 69.Qxa5 Kg7 70.Qe5+ Kh7 71.Bd3 Kg8 72.Bxf5 Qxf5+ 73.Qxf5 exf5 74.Kh4 Kg7 75.Kxh5 Kh7 76.Kh4 Kg6 77.Kh3 f6 78.gxf6 Kxf6 79.Kg3 Kg6 80.Kh3 Kh5 81.Kg3 Kg6 82.Kh3 Kh5 83.Kg3 1/2-1/2

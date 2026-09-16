@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.4"]
+[White "Feng, Eric"]
+[Black "Belous, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2261"]
+[BlackElo "2471"]
+[ECO "E11"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Bb4+ 5.Bd2 Be7 6.Qc2 O-O 7.Bg2 Nbd7 8.O-O c6 9.cxd5 exd5 10.Nc3 Re8 11.a3 a5 12.Bf4 Nf8 13.Rad1 Ng6 14.Ne5 Nxf4 15.gxf4 Bd6 16.e3 Ng4 17.Nxg4 Bxg4 18.f3 Bd7 19.Qd2 Qh4 20.Ne2 Re6 21.Ng3 Rh6 22.Bh1 Re8 23.Rfe1 c5 24.Nf1 cxd4 25.Qxd4 g5 26.Bg2 gxf4 27.e4 dxe4 28.Rxe4 Rxe4 0-1

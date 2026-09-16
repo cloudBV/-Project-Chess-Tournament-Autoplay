@@ -1,0 +1,14 @@
+[Event "Round 4: Ghosh, Diptayan - Tkhoruk, Roman"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-4/6fOXA5mh/6qWa3JK6"]
+[Date "2026.07.12"]
+[Round "4.10"]
+[White "Ghosh, Diptayan"]
+[Black "Tkhoruk, Roman"]
+[Result "1-0"]
+[WhiteElo "2480"]
+[BlackElo "2076"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 Bb4 4.e5 Ng8 5.Qg4 Bf8 6.Nf3 d5 7.d4 h6 8.Be2 Ne7 9.O-O dxc4 10.Bxc4 Nd5 11.Rd1 c6 12.Bb3 Na6 13.Ne4 Nac7 14.Nd6+ Bxd6 15.Qxg7 Rf8 16.exd6 Qxd6 17.Bxh6 b6 18.Ng5 Bb7 19.Nh7 O-O-O 20.Nxf8 Ne8 21.Qxf7 1-0

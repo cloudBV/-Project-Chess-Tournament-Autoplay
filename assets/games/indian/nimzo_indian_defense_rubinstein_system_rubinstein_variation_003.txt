@@ -1,0 +1,15 @@
+[Event "Round 6: Badacsonyi, Stanley - Siva Mahadevan"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-6/qHZ5TeCS/mmJLL7we"]
+[Date "2026.07.07"]
+[Round "6.1"]
+[White "Badacsonyi, Stanley"]
+[Black "Siva Mahadevan"]
+[Result "0-1"]
+[WhiteElo "2312"]
+[BlackElo "2448"]
+[ECO "E42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 d6 6.a3 Ba5 7.Rb1 Nc6 8.b4 Bb6 9.dxc5 dxc5 10.Qxd8+ Bxd8 11.b5 Ne5 12.Ng3 Ba5 13.Bd2 b6 14.f4 Neg4 15.e4 Bb7 16.h3 Ne3 17.e5 Bxc3 18.Bxc3 Ne4 19.Nxe4 Bxe4 20.Rb2 O-O-O 21.Bd2 Nxf1 22.Kxf1 Rd4 23.Kf2 Rhd8 24.Be3 Rxc4 25.Ra1 Rd3 26.a4 Rcc3 27.Re2 Bd5 28.a5 Ra3 29.Ree1 Rxe3 0-1

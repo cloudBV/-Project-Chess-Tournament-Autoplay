@@ -1,0 +1,14 @@
+[Event "Blitz D18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "3.1"]
+[White "Sprzeczka, Emilia"]
+[Black "Szczotka, Klara"]
+[Result "0-1"]
+[WhiteElo "2011"]
+[BlackElo "2130"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O a5 7.a4 Be7 8.c3 h6 9.Na3 Rc8 10.Nc2 b6 11.Bd3 Bxd3 12.Qxd3 h5 13.Be3 Nh6 14.Bxh6 Rxh6 15.Ne3 c5 16.Nd2 c4 17.Qc2 g6 18.f4 Bf8 19.b3 cxb3 20.Qxb3 Be7 21.c4 dxc4 22.Ndxc4 Kf8 23.Kh1 Kg7 24.Rab1 Bb4 25.Rfd1 Qc7 26.Rbc1 Qb7 27.Nc2 Be7 28.Rb1 Rb8 29.Qb5 Nf8 30.N4e3 Qe4 31.Rb2 Qxf4 32.Rf1 Qe4 33.Qe2 Nh7 34.Qf2 Ng5 35.h4 Rf8 36.hxg5 Bxg5 37.Rb3 h4 38.Qf3 Qxf3 39.Rxf3 h3 40.Rxh3 Rfh8 41.Rxh6 Bxh6 42.Kg1 Rc8 43.Kf2 Rc6 44.Ke2 Bf4 45.Kd3 f6 46.exf6+ Kxf6 47.d5 Rd6 48.Rb5 Bg3 49.Ke4 exd5+ 50.Nxd5+ Kg7 51.Rxb6 Rd8 52.Nd4 Re8+ 53.Ne6+ Kh6 54.Nc7 Bxc7 55.Rc6 Bg3 56.Kf3 Be1 57.Nf4 Rg8 58.Rc5 Bb4 59.Rc6 Kh7 60.Rc7+ Kh6 61.g4 Rf8 62.Rc6 Bd2 63.g5+ Kxg5 64.Rxg6+ Kh4 65.Rh6+ Kg5 66.Rh5+ Kf6 67.Rb5 Ke7 68.Rb7+ Kd6 69.Rb6+ Kc7 70.Rb5 Bxf4 71.Ke4 Bd2 72.Kd4 Bb4 73.Kc4 Rf4+ 74.Kb3 Rf3+ 75.Kb2 Kc6 76.Rh5 Rf6 77.Kb3 Kb6 78.Rg5 Rc6 79.Rh5 Rc3+ 80.Kb2 Ra3 81.Rh6+ Kc7 82.Rh7+ Kd6 83.Rh6+ Ke7 84.Rh7+ Kf6 85.Rh6+ Kg5 86.Rh1 Rxa4 87.Rh2 Bd6 88.Rh3 Be5+ 0-1

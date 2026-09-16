@@ -1,0 +1,15 @@
+[Event "Round 6: Anushka Bapu Kutwal - Kleymenova, Valeria"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-6/3k5D8HpF/XbQMrVsM"]
+[Date "2026.07.21"]
+[Round "6.2"]
+[White "Anushka Bapu Kutwal"]
+[Black "Kleymenova, Valeria"]
+[Result "1-0"]
+[WhiteElo "2064"]
+[BlackElo "2262"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Freak Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 h5 7.Bg5 Nc6 8.Qd2 e6 9.O-O-O Qb6 10.Nb3 Be7 11.h3 h4 12.Kb1 Bd7 13.Bf4 Ne5 14.Be3 Qc7 15.f4 Nc6 16.g4 hxg3 17.Rxg3 g6 18.Bg2 b5 19.e5 dxe5 20.fxe5 Nh5 21.Bb6 Qc8 22.Rd3 Rb8 23.Bc7 Qxc7 24.Rxd7 Qb6 25.Bxc6 Qxc6 26.Na5 Qb6 27.Ne4 Rd8 28.Nc6 Rxd7 29.Qd4 Kf8 30.Qxd7 Kg7 31.Qxe7 1-0

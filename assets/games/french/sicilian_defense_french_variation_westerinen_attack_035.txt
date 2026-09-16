@@ -1,0 +1,14 @@
+[Event "Round 9: Bernadskiy, Vitaliy - Vasilkov, Nikolay"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/taT1hc0V"]
+[Date "2026.07.22"]
+[Round "9.17"]
+[White "Bernadskiy, Vitaliy"]
+[Black "Vasilkov, Nikolay"]
+[Result "1/2-1/2"]
+[WhiteElo "2507"]
+[BlackElo "2294"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.b3 e6 3.Nf3 b6 4.c4 Bb7 5.Nc3 Nc6 6.g3 Be7 7.Bg2 Bf6 8.O-O d6 9.Rb1 Nge7 10.Ne1 h5 11.h4 g5 12.hxg5 Bxg5 13.Bb2 Bf6 14.Ne2 Bxb2 15.Rxb2 Ng6 16.d4 cxd4 17.Nxd4 Nxd4 18.Qxd4 Qe7 19.Nd3 h4 20.Qe3 O-O-O 21.b4 Ne5 22.Nxe5 dxe5 23.c5 Rd4 24.Rc1 bxc5 25.bxc5 Bc6 26.Rcb1 Rhd8 27.Qe2 Kc7 28.Qa6 Qxc5 29.Rb7+ Kd6 30.R7b5 Qc3 31.R5b3 Qc5 32.Rb5 Qc3 33.R5b3 Qc5 1/2-1/2

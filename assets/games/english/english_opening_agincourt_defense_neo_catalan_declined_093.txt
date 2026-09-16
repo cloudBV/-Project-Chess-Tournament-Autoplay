@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.22"]
+[White "Kogan, Arthur"]
+[Black "Kumbharathi, Vedansh"]
+[Result "1-0"]
+[WhiteElo "2477"]
+[BlackElo "2137"]
+[ECO "A14"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.cxd5 exd5 9.e3 Nbd7 10.Nc3 Ba6 11.d3 Nc5 12.Ne5 Bd6 13.Nc6 Qd7 14.Nb4 c6 15.Nxa6 Nxa6 16.Ne2 Be7 17.e4 dxe4 18.dxe4 Rfd8 19.Nd4 Bc5 20.Nf5 Qe6 21.Qc1 h6 22.Bh3 Kh7 23.e5 Nd5 24.a3 Nac7 25.Kg2 Qe8 26.e6 Nxe6 27.Bxg7 Ndf4+ 28.Kh1 Nxg7 29.Qxf4 Nxf5 30.Bxf5+ Kg7 31.Rae1 Qf8 32.Qe5+ f6 33.Qc7+ Qf7 34.Qxc6 Rab8 35.b4 Bd6 36.Qf3 a5 37.Re4 axb4 38.Be6 Qb7 39.Bd5 Qxd5 40.Rg4+ Qg5 41.axb4 Bxb4 42.h4 1-0

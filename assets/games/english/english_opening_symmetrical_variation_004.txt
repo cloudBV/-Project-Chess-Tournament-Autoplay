@@ -1,0 +1,15 @@
+[Event "Round 1: Robson, Ray - Johnson, Donald"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/qMCnPvDw"]
+[Date "2026.07.03"]
+[Round "1.10"]
+[White "Robson, Ray"]
+[Black "Johnson, Donald"]
+[Result "1-0"]
+[WhiteElo "2637"]
+[BlackElo "2224"]
+[ECO "A30"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 Nc6 3.Nc3 g6 4.e3 Nf6 5.d4 cxd4 6.exd4 d5 7.h3 Bg7 8.c5 O-O 9.Bb5 Bf5 10.O-O Be4 11.Ne5 Rc8 12.Bf4 Nh5 13.Bh2 Nxe5 14.dxe5 Bh6 15.b4 Nf4 16.Qg4 Ne6 17.Nxe4 dxe4 18.Rad1 Qc7 19.Rd7 Qb8 20.Bc4 e3 21.Bxe6 fxe6 22.Qxe6+ Rf7 23.fxe3 Bxe3+ 24.Kh1 Rf8 25.Rxe7 Qc8 26.Rfxf7 Qxe6 27.Rg7+ 1-0

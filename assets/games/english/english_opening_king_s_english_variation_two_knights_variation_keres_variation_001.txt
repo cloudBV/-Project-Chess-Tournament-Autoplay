@@ -1,0 +1,15 @@
+[Event "Round 6: Robson, Ray - Nakamura, Hikaru"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/qozS2sTV"]
+[Date "2026.07.04"]
+[Round "6.3"]
+[White "Robson, Ray"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteElo "2620"]
+[BlackElo "2838"]
+[ECO "A23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Keres Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Nf3 e4 5.Nd4 Qb6 6.Nb3 a5 7.d3 a4 8.Nd2 exd3 9.Bg2 Bb4 10.O-O O-O 11.exd3 Qa5 12.Nce4 Nxe4 13.Nxe4 d5 14.a3 dxe4 15.axb4 Qxb4 16.Bxe4 Be6 17.Qc2 Nd7 18.Bd2 Qb3 19.Qxb3 axb3 20.Bb4 Rfe8 21.Rxa8 Rxa8 22.Rc1 Bh3 23.Ba3 Re8 24.Bg2 Bf5 25.d4 Bc2 26.Bf1 h5 27.f3 g5 28.Kf2 g4 29.fxg4 hxg4 30.Re1 Ra8 31.Bb4 Nf6 32.Bg2 Kg7 33.Bc3 Kg6 34.Re7 Rb8 35.d5 cxd5 36.cxd5 Rc8 37.Rxb7 Ne4+ 38.Bxe4+ Bxe4 39.Rb6+ Kf5 40.d6 Ke6 41.Rxb3 Kxd6 42.Rb6+ Kd7 43.Ke3 Bd5 44.Kf4 Be6 45.Rb7+ Kc6 46.Ra7 Kd5 47.Ra5+ Rc5 48.Ra8 Kc4 49.Rd8 Rf5+ 50.Ke3 Rh5 51.Rd4+ Kb3 52.Rd2 Rf5 53.Rf2 Rxf2 54.Kxf2 Kc4 55.Ke3 Kd5 56.b4 Kc6 57.Kd4 Kb5 58.Ke5 Kc6 59.Be1 Kb5 60.Kd6 Bc4 61.Ke7 Be6 62.Kd6 Bc4 1/2-1/2

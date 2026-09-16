@@ -1,0 +1,14 @@
+[Event "Round 2: Habig, Bryan - Goldkuhle, Collin"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/tQk12aDa"]
+[Date "2026.07.22"]
+[Round "2.29"]
+[White "Habig, Bryan"]
+[Black "Goldkuhle, Collin"]
+[Result "1-0"]
+[WhiteElo "2077"]
+[BlackElo "2181"]
+[ECO "A35"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Two Knights Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 e5 4.e3 Nf6 5.d4 exd4 6.exd4 d5 7.Bg5 Be7 8.Bxf6 Bxf6 9.cxd5 Nxd4 10.Nxd4 Bxd4 11.Bb5+ Kf8 12.O-O a6 13.Be2 b5 14.a3 h5 15.Rc1 Bb7 16.Bf3 h4 17.b4 Qb6 18.Ne2 Rd8 19.Nxd4 cxd4 20.Rc5 h3 21.g3 Qf6 22.Re1 Rh6 23.Re4 Re8 24.Rxe8+ Kxe8 25.Rc7 Bxd5 26.Bxd5 Qe5 27.Bxf7+ Kf8 28.Rc5 Qf6 29.Bd5 d3 30.Qxd3 Qa1+ 31.Qf1 Qe5 32.Bf3 Qe7 33.Qe2 Qd7 34.Qd1 Qe8 35.Qc1 Qe6 36.Qf4+ Rf6 37.Qb8+ Ke7 38.Rc7+ 1-0

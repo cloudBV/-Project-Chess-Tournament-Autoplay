@@ -1,0 +1,15 @@
+[Event "Round 6: Shen, Fuyan - Alaghehmand, Arshia"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-6/nTpH1yCB/bqs95uFO"]
+[Date "2026.07.21"]
+[Round "6.11"]
+[White "Shen, Fuyan"]
+[Black "Alaghehmand, Arshia"]
+[Result "1/2-1/2"]
+[WhiteElo "2337"]
+[BlackElo "2237"]
+[ECO "A16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.h4 Bg7 6.h5 Nc6 7.d4 Nb6 8.e3 Bg4 9.h6 Bf6 10.Be2 O-O 11.O-O Bxf3 12.Bxf3 e5 13.d5 Ne7 14.a4 a5 15.Qb3 Nf5 16.Rd1 Nd6 17.Nb5 Nd7 18.Bd2 b6 19.Qc2 Nc5 20.Be2 Nxb5 21.Bxb5 Qxd5 22.Bb4 Qb3 23.Qxb3 Nxb3 24.Bxf8 Nxa1 25.Ba3 Nc2 26.Rd7 Nxa3 27.bxa3 Bg5 28.Rxc7 Bxh6 29.Bc4 Bf8 30.Rxf7 Kh8 31.Rf6 Bxa3 32.Rxb6 Re8 33.g3 Kg7 34.Kg2 Bb4 35.Rc6 Kh6 36.Kf3 Rf8+ 37.Ke2 Re8 38.Rc7 Rd8 39.Kf3 Be1 40.Ke2 Bb4 41.Bd3 Re8 42.Rd7 Re7 43.Rd8 Rc7 44.Rd5 Re7 45.Be4 Kg7 46.Rb5 Kf6 47.Kf3 Be1 48.Bd5 Rc7 49.Rb6+ Kg7 50.Ke2 Bb4 51.Re6 Re7 52.Rc6 Kh6 53.Kf3 Be1 54.Rc1 Bb4 55.Ke4 Kg7 56.f3 Kf6 57.Rc6+ Kg7 58.g4 Kh6 59.Be6 Bd2 60.Kxe5 Bxe3 61.f4 Kg7 62.Rc4 Bd2 63.f5 Bg5 64.Rc8 Bf6+ 65.Kd6 Rb7 66.Ra8 gxf5 67.gxf5 Bc3 1/2-1/2

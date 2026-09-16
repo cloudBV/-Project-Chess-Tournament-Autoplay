@@ -1,0 +1,15 @@
+[Event "Round 1: Maruflu, Enes Yusuf - Atis, Hasan"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/1Rh7hwG4"]
+[Date "2026.07.24"]
+[Round "1.10"]
+[White "Maruflu, Enes Yusuf"]
+[Black "Atis, Hasan"]
+[Result "1/2-1/2"]
+[WhiteElo "2204"]
+[BlackElo "2139"]
+[ECO "E15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5 8.O-O c6 9.Bc3 O-O 10.Nbd2 Nbd7 11.Re1 c5 12.e4 dxe4 13.Nxe4 Bb7 14.Nxf6+ Bxf6 15.Ne5 Bxg2 16.Kxg2 cxd4 17.Bxd4 Nxe5 18.Bxe5 Bxe5 19.Qxd8 Rfxd8 20.Rxe5 Rd2 21.a4 Rb2 22.Rb5 Rd8 23.a5 bxa5 24.Rd1 Rf8 25.Rd7 a6 26.Rb6 a4 27.c5 Rxb3 28.Rxa6 Rc3 29.c6 a3 30.h4 g6 31.Rc7 1/2-1/2

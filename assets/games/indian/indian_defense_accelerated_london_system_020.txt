@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.05"]
+[Round "1.10"]
+[White "Karthick Raja P"]
+[Black "Padmini, Rout"]
+[Result "1/2-1/2"]
+[WhiteElo "2116"]
+[BlackElo "2341"]
+[ECO "A45"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.Nf3 Be7 5.Ne5 Nbd7 6.Nd2 Nxe5 7.dxe5 Nd7 8.c3 b6 9.Bd3 a5 10.O-O Ba6 11.Bxa6 Rxa6 12.Qe2 Ra8 13.e4 Nc5 14.Rfd1 O-O 15.exd5 exd5 16.Nf3 Qd7 17.Be3 Qe6 18.Nd4 Qxe5 19.Nc6 Qe6 20.Nxe7+ Qxe7 21.Rxd5 Rad8 22.Rad1 Rxd5 23.Rxd5 Ne6 24.Qf3 Rd8 25.h3 h6 26.Qd1 Rxd5 1/2-1/2

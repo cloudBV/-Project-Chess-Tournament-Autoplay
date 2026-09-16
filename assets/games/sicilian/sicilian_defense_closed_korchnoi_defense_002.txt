@@ -1,0 +1,15 @@
+[Event "Round 6: Alonso Moyano, Jonathan - Lorenzo De La Riva, Lazaro"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-6/QsPBXMwO/mGKqVFA2"]
+[Date "2026.07.12"]
+[Round "6.2"]
+[White "Alonso Moyano, Jonathan"]
+[Black "Lorenzo De La Riva, Lazaro"]
+[Result "1-0"]
+[WhiteElo "2202"]
+[BlackElo "2324"]
+[ECO "B23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Korchnoi Defense"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.exd5 exd5 5.Bg2 Nf6 6.d3 h6 7.Nge2 d4 8.Ne4 Nxe4 9.Bxe4 Bd6 10.O-O O-O 11.Bf4 Nc6 12.Qd2 Be7 13.h4 Be6 14.Bxh6 gxh6 15.Qxh6 f5 16.Qxe6+ Kh8 17.Qh6+ Kg8 18.Qg6+ Kh8 19.Bxf5 1-0

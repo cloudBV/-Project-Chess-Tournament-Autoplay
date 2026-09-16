@@ -1,0 +1,15 @@
+[Event "Round 3: Postupa, Pavel - Soucek, Petr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-3/Wrjl6evm/FTmJnNjy"]
+[Date "2026.07.17"]
+[Round "3.22"]
+[White "Postupa, Pavel"]
+[Black "Soucek, Petr"]
+[Result "0-1"]
+[WhiteElo "2165"]
+[BlackElo "2273"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.c3 b5 7.Bc2 c4 8.b4 Bb7 9.Re1 g6 10.d4 cxd3 11.Bxd3 Bg7 12.a4 O-O 13.Nbd2 d5 14.e5 Ng4 15.axb5 Ndxe5 16.Nxe5 Nxe5 17.Bf1 axb5 18.Rxa8 Bxa8 19.Bxb5 d4 20.cxd4 Qxd4 21.Nf1 Qxb4 22.Be2 e6 23.Be3 Qb7 24.f3 Ng4 25.Qb1 Nxe3 26.Qxb7 Bxb7 27.Nxe3 Bd4 28.Bd3 Ra8 29.Kf2 Ra3 30.Ke2 Bxe3 31.Rb1 Bd5 32.Kxe3 Bc4 33.Rd1 e5 34.Ke4 f5+ 0-1

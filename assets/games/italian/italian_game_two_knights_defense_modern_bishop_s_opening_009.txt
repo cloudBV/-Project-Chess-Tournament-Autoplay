@@ -1,0 +1,14 @@
+[Event "Round 8: Liden, Tommy - Tornberg, Carlos"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/DYzHeE3t"]
+[Date "2026.07.03"]
+[Round "8.9"]
+[White "Liden, Tommy"]
+[Black "Tornberg, Carlos"]
+[Result "1-0"]
+[WhiteElo "2135"]
+[BlackElo "2159"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Kh8 8.a5 a6 9.h3 Ng8 10.Nc3 f5 11.Nd5 fxe4 12.dxe4 Nf6 13.Nxe7 Qxe7 14.Ra3 Nh5 15.Ng5 Qe8 16.Bf7 Rxf7 17.Qxh5 g6 18.Nxf7+ Qxf7 19.Rf3 Qg7 20.Qh4 Be6 21.Bh6 Qe7 22.Bg5 Qd7 23.c3 Nxa5 24.Bh6 Qd8 25.Rf8+ 1-0

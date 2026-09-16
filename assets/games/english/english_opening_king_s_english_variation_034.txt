@@ -1,0 +1,14 @@
+[Event "Round 9: Contin, Daniel - Martire, Ruggiero"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/o5NP0Zhl"]
+[Date "2026.07.12"]
+[Round "9.10"]
+[White "Contin, Daniel"]
+[Black "Martire, Ruggiero"]
+[Result "1-0"]
+[WhiteElo "2212"]
+[BlackElo "2150"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.d4 e4 4.Nc3 Bb4 5.Qb3 a5 6.Nh3 d5 7.cxd5 cxd5 8.Bg5 f6 9.Be3 Nc6 10.Nf4 Nge7 11.a3 a4 12.Qc2 Ba5 13.O-O-O Bxc3 14.Qxc3 Na5 15.Kb1 O-O 16.f3 exf3 17.exf3 Bf5+ 18.Bd3 Qd7 19.g4 Rfc8 20.Qe1 Bxd3+ 21.Rxd3 Ng6 22.Rc3 Nc4 23.Nd3 Re8 24.Nb4 f5 25.Qc1 fxg4 26.fxg4 Qxg4 27.Ka1 Qe4 28.Re1 b5 29.Bf2 Qf5 30.Bg3 Rac8 31.Rf1 Qe4 32.Rd1 Qf5 33.Rf1 Qe4 34.Nc6 Qe6 35.Na7 Rcd8 36.Nxb5 Qb6 37.Nc7 Re2 38.Rxc4 Re7 39.Rc5 1-0

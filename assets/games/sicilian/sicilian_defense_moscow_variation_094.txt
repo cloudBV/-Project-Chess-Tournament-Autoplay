@@ -1,0 +1,14 @@
+[Event "Round 8: Alexiadis, Hristos - Makridis, Dimitrios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/GA05FTaK"]
+[Date "2026.07.21"]
+[Round "8.23"]
+[White "Alexiadis, Hristos"]
+[Black "Makridis, Dimitrios"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2311"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Be2 Ngf6 6.d3 e6 7.a4 b6 8.Nfd2 Be7 9.f4 Qc7 10.Nc3 Bb7 11.Bf3 O-O 12.g4 Nb8 13.g5 Nfd7 14.Bg2 Nc6 15.h4 Nb4 16.Nc4 f5 17.Ne3 g6 18.Ne2 Rf7 19.c3 Nc6 20.Qb3 Nf8 21.Ng3 Kh8 22.Rf2 Na5 23.Qd1 Rd8 24.b4 Nc6 25.b5 axb5 26.axb5 Na5 27.c4 d5 28.exd5 Bd6 29.Bb2+ Kg8 30.Qc2 e5 31.Ne4 exf4 32.Ng4 fxg4 33.Qc3 Be5 34.Qxe5 Qxe5 35.Bxe5 f3 36.Nf6+ Rxf6 37.Bxf6 Re8 38.Bf1 Nd7 39.Bc3 Bc8 40.Bxa5 bxa5 41.Kh2 h5 42.Rxa5 Ne5 43.Kg3 Nf7 44.d4 Nd6 45.Bd3 Bf5 46.dxc5 Nb7 47.c6 Nxa5 48.Bxf5 gxf5 49.d6 Nxc4 50.d7 f4+ 51.Kh2 Rf8 52.c7 Ne3 1-0

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.06.30"]
+[Round "5.1"]
+[White "Bokhnak, Tymofii"]
+[Black "Gnojek, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "2147"]
+[BlackElo "2402"]
+[ECO "B13"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Ne2 Nf6 7.Bf4 Qb6 8.Qb3 e6 9.Nd2 Be7 10.O-O Bd7 11.Nf3 Qxb3 12.axb3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/P4Sz03We"]
+[Date "2026.07.13"]
+[Round "1.4"]
+[White "Pereira, Ruben"]
+[Black "Martinez Duany, Lelys Stanley"]
+[Result "1/2-1/2"]
+[WhiteElo "2448"]
+[BlackElo "2438"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.a4 b6 6.Bc4 e6 7.Nb5 d6 8.d4 cxd4 9.e5 dxe5 10.fxe5 Nxe5 11.Nxe5 Bxe5 12.Qf3 Bd7 13.O-O f6 14.Re1 a6 15.Rxe5 axb5 16.Bxe6 Bxe6 17.Qc6+ Kf8 18.Rxe6 Rxa4 19.Rxa4 bxa4 20.Rd6 Qe8 21.Qxe8+ Kxe8 22.Rxb6 Kf7 23.Rb8 g5 24.Rd8 h5 25.Rxd4 Nh6 26.Rxa4 Rd8 27.Kf2 Ng4+ 28.Ke2 Re8+ 29.Kd3 Re1 30.Bd2 Ne5+ 31.Kc3 Re2 32.b4 Rxg2 33.b5 Nd7 34.Rd4 Ke6 35.h4 Nb6 36.Kd3 Rg3+ 37.Ke2 Ke5 38.Rd8 Nc4 39.Be1 Re3+ 40.Kf2 Ra3 41.Rc8 Kd5 42.Ke2 Re3+ 43.Kd1 gxh4 44.Bxh4 Nd6 45.b6 Re7 46.Rd8 Kc6 47.Bxf6 Re8 48.Rxe8 Nxe8 49.Bd4 Nd6 1/2-1/2

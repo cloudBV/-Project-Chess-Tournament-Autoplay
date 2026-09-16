@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.7"]
+[White "Andreev, Eduard"]
+[Black "Cvek, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2295"]
+[BlackElo "2449"]
+[ECO "B46"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6 9.Re1 Be7 10.e5 Nd7 11.Qg4 Kf8 12.Na4 c5 13.b3 Bb7 14.c4 d4 15.Qh5 g6 16.Bh6+ Kg8 17.Qe2 Qc7 18.Be4 Bf8 19.Bxb7 Qxb7 20.Bxf8 Kxf8 21.Nb2 h5 22.h4 a5 23.Nd3 Kg7 24.Rab1 Rab8 25.Qd2 Qc7 26.Qg5 Rb6 27.Nf4 Rbb8 28.Qe7 Qc6 29.Rbd1 Rbe8 30.Qg5 Qc7 31.Rd3 Qd8 32.Qg3 Nb8 33.Rf3 Qe7 34.Nh3 Nc6 35.Ng5 Ref8 36.Ne4 Rd8 37.Ng5 Rhf8 38.Ne4 Rd7 39.Nf6 Rdd8 40.Nxh5+ Kh7 41.Nf6+ Kg7 42.h5 Rh8 43.Qf4 d3 44.Qe4 d2 45.Rd1 Qc7 46.Re3 Rd4 47.h6+ Kf8 48.Qc2 Rxh6 49.Rxd2 Rdh4 50.Kf1 Nd4 51.Rxd4 cxd4 52.Re4 Qc6 53.Ke2 Kg7 54.Qd3 Qc5 55.g3 Rxe4+ 56.Qxe4 Rh2 57.Ng4 Rh5 58.Qf4 Qa3 59.Qf6+ Kg8 60.Qd8+ Kg7 61.Qf6+ Kg8 62.Qd8+ 1/2-1/2

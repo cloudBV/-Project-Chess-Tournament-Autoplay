@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "17.5"]
+[White "Ugorek, Kacper"]
+[Black "Jasiulewicz, Dawid"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2085"]
+[ECO "A34"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.c4 c5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nc7 6.Nf3 Nc6 7.O-O e5 8.d3 Be7 9.Nd2 Bd7 10.Nc4 f6 11.f4 exf4 12.Bxf4 O-O 13.Bxc7 Qxc7 14.Nd5 Qd8 15.Rc1 Kh8 16.Qd2 Rc8 17.Nce3 Be6 18.Nxe7 Qxe7 19.Nd5 Bxd5 20.Bxd5 Rfe8 21.Rfe1 Qd6 22.Bxc6 Rxc6 23.Qf4 Qd5 24.b3 Rce6 25.Qf2 b6 26.Rc2 Re5 27.Qg2 Qd4+ 28.Qf2 Qd5 29.Qg2 Qd4+ 30.Qf2 Qb4 31.Kg2 h5 32.e4 a5 33.Re3 a4 34.Rc4 Qb5 35.Rxa4 Qc6 36.Rc4 Qd6 37.Rf3 Rd8 38.Rc3 Qe6 39.Rf5 Rd4 40.Rxe5 Qxe5 41.Qf4 Rxe4 42.Qxe4 Qxc3 43.Qe8+ Kh7 44.Qxh5+ Kg8 45.Qe8+ Kh7 46.Qe4+ Kg8 47.Qe8+ Kh7 48.Qe2 Qc1 49.h4 Qc3 50.h5 Kh6 51.g4 Qd4 52.Qe4 Qb2+ 53.Kh3 1-0

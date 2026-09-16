@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/ujs6N7Og"]
+[Date "2026.07.03"]
+[Round "7.4"]
+[White "Tytynnik, Artem"]
+[Black "Rozentalis, Eduardas"]
+[Result "0-1"]
+[WhiteElo "2225"]
+[BlackElo "2446"]
+[ECO "E24"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 d6 6.f3 Nh5 7.Nh3 e5 8.Bg5 f6 9.Bh4 Bxh3 10.gxh3 Qe7 11.Bf2 O-O 12.e3 f5 13.Be2 Nd7 14.O-O f4 15.e4 Qe6 16.Re1 Qxh3 17.Bf1 Qe6 18.Ra2 Rf6 19.Bh4 Rg6+ 20.Kh1 Rf8 21.Qa4 Rh6 22.c5 Kh8 23.Qc4 Qxc4 24.Bxc4 Ng3+ 25.hxg3 fxg3 26.cxd6 Rxh4+ 27.Kg2 cxd6 28.Kxg3 Rhf4 29.Re3 g5 30.Bd5 b6 31.a4 Nf6 32.Be6 g4 33.Bxg4 Rg8 34.Kh3 Nxg4 35.fxg4 Rgxg4 36.Rae2 Kg7 37.dxe5 dxe5 38.Rd2 Kh6 39.Rd6+ Rg6 40.Rd5 Rg5 41.Rd7 a5 42.Rb7 Rf6 43.Rd3 Rfg6 44.Kh2 Rh5+ 45.Rh3 Rxh3+ 46.Kxh3 Kg5 47.Kg3 h5 48.Rf7 h4+ 49.Kh3 Rf6 50.Rg7+ Kf4 51.Rg4+ Ke3 52.Rxh4 Kd3 53.Kg3 Kxc3 54.Rh5 Kd4 55.Rf5 Rc6 0-1

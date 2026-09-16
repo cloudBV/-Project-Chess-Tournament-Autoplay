@@ -1,0 +1,14 @@
+[Event "Round 4: Dominguez, Ramiro - Barrientos, Sergio E"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-4/Q9fLbdxj/HbSr7NPJ"]
+[Date "2026.07.12"]
+[Round "4.6"]
+[White "Dominguez, Ramiro"]
+[Black "Barrientos, Sergio E"]
+[Result "*"]
+[WhiteElo "2135"]
+[BlackElo "2414"]
+[ECO "B59"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3 Be7 8.f4 O-O 9.g4 a5 10.a4 exf4 11.Bxf4 Be6 12.g5 Nd7 13.h4 Qb6 14.Nb5 Rfe8 15.N3d4 Nc5 16.Bf3 Ne5 17.Bg2 Bg4 18.Qd2 Nc4 19.Qc3 d5 20.O-O Ne6 21.Kh1 Nxd4 22.Qxd4 Qxd4 23.Nxd4 dxe4 24.Nb5 Rad8 25.Nc7 Rf8 26.Bxe4 Nd2 27.Bxd2 Rxd2 28.Nd5 Bd6 29.Ne3 Rh2+ 30.Kg1 Rxh4 31.Rae1 Bc5 32.Rf4 Re8 33.Kg2 Bh3+ 34.Kg3 Rh5 35.Nd5 Bd6 36.Bxh7+ Kf8 37.Rxe8+ Kxe8 38.Be4 Be6 39.Kf3 Rxg5 40.Rh4 Bxd5 *

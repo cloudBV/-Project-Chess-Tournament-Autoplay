@@ -1,0 +1,14 @@
+[Event "Round 4.Tiebreaks: Vrolijk, Liam - Tiviakov, Sergei"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-4tiebreaks/LLiWXZe6/t5KIGHYA"]
+[Date "2026.07.11"]
+[Round "20.1"]
+[White "Vrolijk, Liam"]
+[Black "Tiviakov, Sergei"]
+[Result "0-1"]
+[WhiteElo "2519"]
+[BlackElo "2530"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 exd4 5.Qxd4 Na6 6.Nf3 Bc5 7.Qd3 d5 8.O-O O-O 9.a3 dxc4 10.Qxc4 Qd5 11.Qc2 Bf5 12.Qa4 Qe4 13.Nc3 Qxa4 14.Nxa4 Be7 15.Nd4 Bd7 16.Nc3 Rfd8 17.b4 Nc7 18.Rd1 a5 19.Bf4 Ne6 20.Nxe6 Bxe6 21.Rxd8+ Bxd8 22.b5 Bd7 23.Rd1 Be7 24.Be5 Be8 25.bxc6 Bxc6 26.Bxc6 bxc6 27.a4 Kf8 28.Rb1 Bb4 29.Nd1 Re8 30.Bxf6 gxf6 31.Ne3 Bc5 32.Nf5 Rxe2 33.Rb8+ Re8 34.Rb2 h5 35.Rc2 Re5 36.Nh4 Ke7 37.Kg2 Kd7 38.Nf3 Rd5 39.Nd2 Be7 40.Nc4 Rc5 41.Rd2+ Kc7 42.Ne3 Rc3 43.Rd4 Bb4 44.Rf4 Be7 45.Rf5 Rc5 46.Rf4 Re5 47.h4 Kd7 48.Nc4 Rc5 49.Rd4+ Ke8 50.Kf3 Bf8 51.Ke4 f5+ 52.Kd3 Bg7 53.Rf4 Rd5+ 54.Kc2 Ke7 55.Ne3 Rc5+ 56.Rc4 Bd4 57.Kd3 Bxe3 58.fxe3 Rd5+ 59.Ke2 Kd6 60.Kf3 Re5 61.Kf4 f6 62.Kf3 Rd5 63.Kf4 Re5 64.Kf3 Rd5 65.Rc2 Rd1 66.Rb2 Ra1 67.Rd2+ Ke6 68.Rd4 c5 69.Rc4 Kd5 70.Rf4 Ke5 71.Ke2 Ra2+ 72.Kd3 Ra3+ 73.Kc4 Rxa4+ 0-1

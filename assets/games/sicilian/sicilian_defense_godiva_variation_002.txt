@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "4.19"]
+[White "Wilson, Ronen"]
+[Black "Shlyakhtenko, Robert"]
+[Result "0-1"]
+[WhiteElo "2214"]
+[BlackElo "2446"]
+[ECO "B32"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb5 a6 6.Be3 Qd8 7.N5c3 e6 8.f4 Nge7 9.Nd2 d5 10.Nb3 g6 11.Qd2 Bg7 12.O-O-O O-O 13.g4 Qc7 14.g5 dxe4 15.Nxe4 Rd8 16.Bd3 Nd5 17.Kb1 e5 18.Rdf1 Bf5 19.Qc1 Nce7 20.Bd2 a5 21.Nf6+ Nxf6 22.gxf6 Bxf6 23.Bxf5 Nxf5 24.Bc3 Ne7 25.Qe1 Nc6 26.Nd2 Bg7 27.f5 b5 28.Ne4 b4 29.f6 Bf8 30.Bd2 Nd4 31.c3 Nb5 32.Rf3 bxc3 33.Bxc3 Qb7 34.Qh4 Rac8 35.Rg1 Rc4 36.Re1 a4 37.Rh3 h6 38.Rg3 Rb8 39.Re2 Qd5 40.Kc1 Nxc3 41.Rxc3 Rbb4 42.Rxc4 Qxc4+ 43.Kd1 Qxa2 44.Ke1 Rxb2 45.Nd2 Rb4 46.Ne4 Qa1+ 47.Kf2 Qd4+ 48.Kg2 a3 49.Qh3 a2 50.Rxa2 Qxe4+ 51.Kf2 Bc5+ 52.Kf1 Rb1# 0-1

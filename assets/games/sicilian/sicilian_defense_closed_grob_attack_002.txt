@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/TXxrgd1T"]
+[Date "2026.07.07"]
+[Round "8.7"]
+[White "Korsa, Jindrich"]
+[Black "Bartos, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2061"]
+[BlackElo "2156"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Grob Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.g4 h5 4.g5 g6 5.Bg2 Bg7 6.Nge2 e6 7.d3 Nge7 8.h4 O-O 9.Ng3 b6 10.O-O Bb7 11.f4 Nd4 12.Nce2 d5 13.c3 Nxe2+ 14.Qxe2 Qd7 15.f5 exf5 16.exf5 Nxf5 17.Nxf5 gxf5 18.Bh3 d4 19.Bxf5 Qd5 20.Be4 Qe6 21.Bd2 Rae8 22.Rae1 Qxa2 23.Qxh5 Bxe4 24.Rxe4 Rxe4 25.dxe4 Qxb2 26.g6 fxg6 27.Qd5+ Kh7 28.Rxf8 Bxf8 29.h5 Qxd2 30.Qf7+ Bg7 31.Qxg6+ Kg8 32.Qe6+ Kf8 33.Qd6+ Kf7 34.Qg6+ Kf8 35.Qd6+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "23.4"]
+[White "Praggnanandhaa R"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[WhiteElo "2707"]
+[BlackElo "2796"]
+[ECO "E10"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 b6 5.b3 Bd6 6.Bd3 O-O 7.O-O a6 8.cxd5 exd5 9.Ba3 Bxa3 10.Nxa3 Bg4 11.Rc1 Qd6 12.Nb1 Nc6 13.Nbd2 Nb4 14.Bb1 a5 15.Rc3 c5 16.dxc5 bxc5 17.a3 Na6 18.h3 Bh5 19.e4 d4 20.Rc1 Qe7 21.Re1 Nc7 22.Qc2 Nd7 23.Nxd4 cxd4 24.Qxc7 Rfe8 25.Bd3 Ne5 26.Bb5 Qg5 27.Bxe8 Rxe8 28.Rf1 Nd3 29.Qd7 f6 30.Rc8 Rxc8 31.Qxc8+ Kf7 32.Qc4+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Kallen, Jonas - Strand, Sixten"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/jswmcLHp"]
+[Date "2026.07.02"]
+[Round "6.10"]
+[White "Kallen, Jonas"]
+[Black "Strand, Sixten"]
+[Result "1/2-1/2"]
+[WhiteElo "2086"]
+[BlackElo "2115"]
+[ECO "B62"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3 Bd7 8.O-O-O a6 9.g4 Ne5 10.Qg3 Nexg4 11.f4 h6 12.Bxf6 Nxf6 13.Be2 Qc7 14.e5 Nh7 15.Kb1 d5 16.f5 O-O-O 17.fxe6 fxe6 18.Bg4 Re8 19.Nxd5 exd5 20.e6 Bc6 21.e7+ Kb8 22.Qxc7+ Kxc7 23.Ne6+ Kb6 24.exf8=Q Nxf8 25.Nxg7 Re5 26.Nh5 Rg8 27.h3 Nh7 28.Rhe1 Rge8 29.Rxe5 Rxe5 30.Kc1 Be8 31.Nf4 Nf6 32.Bf3 Rf5 33.Nxd5+ Nxd5 34.Bxd5 Bh5 35.Be6 Re5 36.Rd5 Rxe6 37.Rxh5 Rd6 38.c4 Kc6 39.Kc2 b6 40.Kc3 a5 41.h4 Kc7 42.Rb5 Kc6 43.a4 Rg6 44.Rf5 Kd6 45.h5 Rg3+ 46.Kc2 Ke7 47.b3 Rg2+ 48.Kc3 Rg3+ 49.Kb2 Rg8 50.Rb5 Rg2+ 51.Kc3 Rh2 52.Kd4 Rh4+ 53.Ke3 Kd7 54.Rxb6 Rxh5 55.Rb5 Rh1 56.Kd4 Rh3 57.Ke4 Kc6 58.Kd4 Rg3 59.Rxa5 Rxb3 60.Ra6+ Kb7 61.Rxh6 Ra3 62.Kc5 Rxa4 63.Kb5 Ra1 64.Rh7+ Kb8 65.c5 Rb1+ 66.Kc6 Rg1 67.Rh8+ Ka7 68.Rd8 Rc1 69.Re8 Rc2 70.Re7+ Kb8 71.Rb7+ Kc8 72.Rh7 Kb8 73.Rh5 Rg2 74.Rh8+ Ka7 75.Rh6 Rc2 76.Kd6 Kb7 77.Rh7+ Kb8 78.c6 Rd2+ 1/2-1/2

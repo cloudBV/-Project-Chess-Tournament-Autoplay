@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.20"]
+[White "Zamengo, Fulvio"]
+[Black "Benseny Martinez, Guerau"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2050"]
+[ECO "A04"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.b3 Nc6 3.Bb2 e6 4.e3 Nf6 5.c4 Be7 6.Be2 O-O 7.O-O b6 8.d4 d5 9.cxd5 Nxd5 10.dxc5 Bxc5 11.Nbd2 Bb7 12.Qb1 Be7 13.Ne4 Rc8 14.Rd1 Qc7 15.Neg5 g6 16.Qe4 Bf6 17.Qh4 h5 18.Bxf6 Nxf6 19.Rac1 Qe7 20.Bb5 e5 21.Qa4 Rfd8 22.Bc4 Rxd1+ 23.Rxd1 Nd8 24.Qxa7 e4 25.Nd4 Nd7 26.Nxf7 Nxf7 27.Qxb7 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.4"]
+[White "Pycinski, Wladyslaw"]
+[Black "Ochedzan, Filip"]
+[Result "0-1"]
+[WhiteElo "2298"]
+[BlackElo "2122"]
+[ECO "B23"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 g6 5.Bc4 Bg7 6.Nxd4 cxd4 7.Qf3 e6 8.Nb5 d6 9.Qa3 Ke7 10.c3 dxc3 11.dxc3 a6 12.Nd4 Qc7 13.Bd3 Qc5 14.Qb3 Nf6 15.Be3 Qc7 16.h3 Re8 17.O-O Kf8 18.f4 Kg8 19.Rae1 Nd7 20.Qd1 Nc5 21.Bb1 b5 22.f5 e5 23.Nb3 Bb7 24.Nxc5 dxc5 25.Qe2 Rad8 26.Qf2 Rc8 27.Qh4 Qc6 28.Rf3 Bf6 29.Qg4 Rcd8 30.Ref1 Bc8 31.Qg3 Bg7 32.Qf2 c4 33.Qh4 Bf6 34.Qg3 Bg7 35.h4 h5 36.fxg6 Qxg6 37.Qxg6 fxg6 38.Rf7 Rf8 39.Rxf8+ Bxf8 40.Bg5 Rd6 41.Bc2 Bg4 42.Kh2 Bg7 43.a4 Be2 44.Re1 Bg4 45.axb5 axb5 46.Ra1 Kh7 47.Ra5 Bh6 48.Rxb5 Bxg5 49.hxg5 Rd2 50.Ba4 Bf3 51.Kg3 Bxe4 52.Rxe5 Rxg2+ 53.Kf4 Bf5 54.Re7+ Kh8 55.Bc6 Rxb2 56.Ra7 h4 57.Bd5 h3 58.Ke5 Rb5 59.Kd6 Rxd5+ 60.Kxd5 h2 61.Ra1 Bh3 62.Kxc4 Bg2 63.Kd4 h1=Q 64.Rxh1+ Bxh1 65.Ke5 Kg7 66.c4 Kf7 67.Kd6 Be4 68.c5 Bf3 69.Kd7 Bg2 70.Kd6 Be4 71.Kd7 Bf5+ 72.Kd6 Ke8 73.Kc6 Ke7 74.Kd5 Kd7 75.Kc4 Kc6 76.Kd4 Bg4 77.Kc4 Bf3 78.Kd4 Bd5 79.Ke5 Kxc5 80.Kf6 Be4 81.Ke5 Bf5 82.Kf4 Kd4 83.Kf3 Ke5 84.Kg3 Be6 85.Kf3 Kf5 86.Kg3 Kxg5 87.Kf2 Kf4 88.Kg1 Kg3 89.Kf1 Kh2 90.Kf2 g5 91.Kf3 g4+ 92.Kf4 g3 93.Ke5 g2 94.Kxe6 g1=Q 95.Kf5 Qg3 96.Kf6 Qg4 97.Kf7 Qg5 98.Ke8 Qg7 99.Kd8 Kg3 100.Kc8 Kf4 101.Kb8 Ke5 102.Ka8 0-1

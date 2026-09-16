@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "22.1"]
+[White "Deac, Bogdan-Daniel"]
+[Black "Praggnanandhaa R"]
+[Result "0-1"]
+[WhiteElo "2649"]
+[BlackElo "2707"]
+[ECO "A07"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.Bg2 e6 4.O-O Ngf6 5.d3 b6 6.c4 Bb7 7.cxd5 Nxd5 8.Nc3 Be7 9.Nxd5 Bxd5 10.Bd2 O-O 11.Bc3 c5 12.a4 Rc8 13.Qd2 Qc7 14.Rfc1 Qb8 15.h4 Rfd8 16.b4 c4 17.dxc4 Rxc4 18.Qb2 Qb7 19.Bf1 Rdc8 20.Nd2 R4c7 21.e3 h6 22.Kh2 Nf6 23.Kg1 Nd7 24.Kh2 Bf6 25.Bxf6 Nxf6 26.Kg1 Rc6 27.Bb5 R6c7 28.Bf1 a6 29.Rxc7 Rxc7 30.Rc1 Rd7 31.Qc3 Ne4 32.Nxe4 Bxe4 33.Qc4 a5 34.Qb5 axb4 35.Qxb4 Bf3 36.a5 bxa5 37.Qxa5 Qb2 38.Qe1 Rd2 39.Rb1 Qa2 40.Ra1 Qd5 41.Rc1 Qd6 42.Ra1 g5 43.hxg5 hxg5 44.Bg2 g4 45.Bxf3 gxf3 46.Qf1 Qd5 47.Rb1 e5 48.Ra1 Kg7 49.Rb1 Qe4 50.Rd1 Rb2 51.Rc1 Qf5 52.Rd1 Rb6 53.e4 Qh5 0-1

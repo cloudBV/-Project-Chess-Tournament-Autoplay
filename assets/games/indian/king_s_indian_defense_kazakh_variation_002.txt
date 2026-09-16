@@ -1,0 +1,14 @@
+[Event "Round 8: Malm, Simon 1995 - Kingsley, Elias"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/kjBnyJqn"]
+[Date "2026.07.03"]
+[Round "8.21"]
+[White "Malm, Simon 1995"]
+[Black "Kingsley, Elias"]
+[Result "0-1"]
+[WhiteElo "2077"]
+[BlackElo "2087"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Kazakh Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 7.Bf4 Nd7 8.Bg5 h6 9.Be3 e5 10.d5 f5 11.exf5 gxf5 12.g3 Qe7 13.Qd2 Rf6 14.O-O-O Nf8 15.h4 Bd7 16.h5 Nc5 17.Nh4 Na4 18.Nxa4 Bxa4 19.Rde1 Bd7 20.Kb1 c5 21.Ng6 Nxg6 22.hxg6 f4 23.gxf4 exf4 24.Bxc5 dxc5 25.Bg4 Qd6 26.Bxd7 Qxd7 27.Re4 Qf5 28.Re1 Qxg6 29.Qc2 Raf8 30.f3 Rb6 31.b3 Qf6 32.Re5 Rd6 33.a4 Qg6 34.R5e4 Bf6 35.R1e2 Bg5 36.Ka2 Rdd8 37.Qc3 Rde8 38.Re6 Rxe6 39.dxe6 Re8 40.Qe5 b6 41.Qd6 Re7 42.Qb8+ Kh7 43.Qd8 Qf5 44.Re4 h5 45.Qd5 Qf6 46.Re5 Bh6 47.Qe4+ Qg6 48.Qe2 Bg7 49.Re4 Qf6 50.Kb1 Qa1+ 51.Kc2 Qb2+ 52.Kd1 Qxb3+ 53.Ke1 Qb1+ 54.Kf2 Bd4+ 55.Rxd4 cxd4 56.Qe5 Qc2+ 57.Ke1 Qc1+ 0-1

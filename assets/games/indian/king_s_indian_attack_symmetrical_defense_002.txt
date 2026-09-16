@@ -1,0 +1,14 @@
+[Event "Round 5: Kriz, Daniel - Vilimek, Vit"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-5/cQk1QlWD/pdZYriPN"]
+[Date "2026.07.01"]
+[Round "5.9"]
+[White "Kriz, Daniel"]
+[Black "Vilimek, Vit"]
+[Result "1/2-1/2"]
+[WhiteElo "2024"]
+[BlackElo "2229"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 c5 6.c4 Nc6 7.Ne5 Qc7 8.Nxc6 bxc6 9.O-O e5 10.Nc3 d6 11.f4 exf4 12.Rxf4 Nh5 13.Rf1 f5 14.Nb5 Qd7 15.Bxg7 Nxg7 16.d4 Bb7 17.Nc3 Qe7 18.e4 fxe4 19.Rxf8+ Rxf8 20.Nxe4 Nf5 21.dxc5 Qe5 22.Rb1 d5 23.Nd6 Nxd6 24.cxd6 Qxd6 1/2-1/2

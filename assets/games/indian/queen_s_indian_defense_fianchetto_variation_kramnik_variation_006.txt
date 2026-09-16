@@ -1,0 +1,15 @@
+[Event "New Zealand Seniors Chess Championship 2026"]
+[Site "https://lichess.org/broadcast/nz-seniors-veterans-chess-championships-2026/round-4/cZVuMZQA/z4ThOK2r"]
+[Date "2026.07.16"]
+[Round "04"]
+[White "Lukey, Stephen G"]
+[Black "McLaren, Leonard J"]
+[Result "0-1"]
+[WhiteElo "2023"]
+[BlackElo "2011"]
+[ECO "E17"]
+[TimeControl "5400+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 a5 8.Bg5 d6 9.e4 Nxe4 10.Bxe7 Qxe7 11.Nh4 f5 12.f3 Nf6 13.Nxf5 Qf7 14.Ne3 Nbd7 15.Nc3 Kh8 16.Nb5 Ne8 17.d5 e5 18.b3 Nc5 19.Qc2 Nf6 20.a3 a4 21.b4 Nb3 22.Rad1 Ba6 23.Bh3 Bxb5 24.Be6 Qh5 25.g4 Qg5 26.cxb5 Nd4 27.Rxd4 exd4 28.Nf5 Rae8 29.Qxc7 Nxd5 30.Qxd6 Rxf5 31.Qd7 Rff8 32.Re4 Nf6 0-1

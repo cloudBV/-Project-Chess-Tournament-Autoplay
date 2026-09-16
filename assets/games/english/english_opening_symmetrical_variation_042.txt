@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.19"]
+[White "Konopka, Michal"]
+[Black "Kroulik, Vaclav"]
+[Result "1-0"]
+[WhiteElo "2342"]
+[BlackElo "2086"]
+[ECO "A30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.e3 Nf6 5.d4 cxd4 6.exd4 d5 7.cxd5 Nxd5 8.Qb3 Nxc3 9.Bc4 Nd5 10.Bxd5 e6 11.Bxc6+ bxc6 12.O-O Bg7 13.Be3 O-O 14.Rfc1 Qd6 15.Rc5 Rb8 16.Qc3 Rb6 17.Rc1 Bd7 18.Ne5 Bxe5 19.dxe5 Qb8 20.b3 Rb5 21.Rd1 Bc8 22.Bh6 Re8 23.h4 Bb7 24.a4 Rxc5 25.Qxc5 Rd8 26.Rxd8+ Qxd8 27.Qxa7 Bc8 28.Qb8 Qd1+ 29.Kh2 Qd8 30.Bg5 Qd7 31.Bf6 Qb7 32.Qd6 Qb6 33.Qe7 1-0

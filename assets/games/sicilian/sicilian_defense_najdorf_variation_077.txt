@@ -1,0 +1,14 @@
+[Event "Round 2: Asikainen, Eeli - Sivuk, Vitaly"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-2/VxANujWG/X2R8j5zY"]
+[Date "2026.07.14"]
+[Round "2.3"]
+[White "Asikainen, Eeli"]
+[Black "Sivuk, Vitaly"]
+[Result "1/2-1/2"]
+[WhiteElo "2142"]
+[BlackElo "2499"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Nd5 Bxd5 10.exd5 Nbd7 11.Be2 g6 12.Qd2 Bg7 13.O-O O-O 14.c4 b6 15.Rac1 a5 16.Na1 Nc5 17.Nc2 Qd7 18.Na3 e4 19.Nb5 exf3 20.Bxf3 Rae8 21.Rce1 Nh7 22.Bf4 Nb7 23.Qf2 Qd8 24.b3 h4 25.Bd1 Rxe1 26.Rxe1 Bf6 27.Bc2 Re8 28.Rxe8+ Qxe8 29.Qe3 Qd8 30.Na7 Bg5 31.Nc6 Qf6 32.Bxg5 Nxg5 33.Qd4 Kg7 34.Qxf6+ Kxf6 35.Kf2 Nh7 36.Kf3 Kg5 37.Ne7 Nf6 38.Nc8 Nd7 39.Ke3 f5 40.h3 Kf6 41.Kd4 Kg5 42.Ke3 Kf6 43.Kd4 Kg5 44.Ke3 Kf6 45.Kd4 1/2-1/2

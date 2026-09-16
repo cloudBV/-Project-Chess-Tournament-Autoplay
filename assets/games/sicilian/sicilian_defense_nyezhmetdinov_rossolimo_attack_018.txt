@@ -1,0 +1,15 @@
+[Event "Round 2: Sheehan, Ethan - Aravindh, Chithambaram VR."]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/cNJNuM5U"]
+[Date "2026.07.03"]
+[Round "2.6"]
+[White "Sheehan, Ethan"]
+[Black "Aravindh, Chithambaram VR."]
+[Result "0-1"]
+[WhiteElo "2348"]
+[BlackElo "2584"]
+[ECO "B30"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 a6 6.Bxc6 Bxc6 7.d4 cxd4 8.Nxd4 Rc8 9.b3 Nf6 10.Nxc6 Rxc6 11.Bb2 e6 12.c4 Be7 13.Nc3 O-O 14.Qe2 Qa5 15.Rad1 Rfc8 16.Nd5 exd5 17.exd5 R6c7 18.Bxf6 gxf6 19.Qg4+ Kf8 20.Re3 b5 21.Rde1 bxc4 22.Rxe7 cxb3 23.axb3 Qxd5 24.Qh3 h5 25.Rxc7 Rxc7 26.Qe3 Qg5 27.Qb6 Rc1 28.Qxd6+ Kg7 29.Rd1 h4 30.h3 Rc3 31.Kh2 Qe5+ 32.Qxe5 fxe5 33.Rd6 Rxb3 34.Rxa6 f5 35.Ra4 e4 36.Ra6 Rb2 37.Kg1 Rb1+ 38.Kh2 Rf1 39.f3 e3 40.Re6 f4 41.Re4 Kg6 42.Re6+ Kf5 43.Re8 Rd1 44.Rf8+ Kg5 45.Rg8+ Kf6 46.Rf8+ Kg6 47.Re8 Rc1 48.Re6+ Kf5 49.Re8 Rc6 50.Kg1 Rc1+ 51.Kh2 Rb1 52.Re4 Rb6 53.Ra4 Re6 54.Ra1 Ke5 55.Kg1 Rc6 56.Kf1 Rc2 57.Ra4 Rf2+ 58.Kg1 Rd2 59.Re4+ Kf5 60.Kf1 Rd1+ 61.Ke2 Rg1 62.Re8 Rxg2+ 63.Ke1 Rf2 64.Rf8+ Ke5 65.Re8+ Kd6 66.Rd8+ Ke7 67.Rh8 Rxf3 68.Rxh4 Kf6 69.Ke2 Rf2+ 70.Kd3 Rd2+ 0-1

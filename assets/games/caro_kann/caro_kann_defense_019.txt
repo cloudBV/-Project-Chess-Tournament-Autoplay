@@ -1,0 +1,14 @@
+[Event "Round 6: Schulz, Lukas - Herrmann, Jakob"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/J4wdjjwa"]
+[Date "2026.07.22"]
+[Round "7.18"]
+[White "Schulz, Lukas"]
+[Black "Herrmann, Jakob"]
+[Result "1-0"]
+[WhiteElo "2349"]
+[BlackElo "2197"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.Nf3 d5 3.e5 Bf5 4.g3 e6 5.Bg2 h6 6.O-O Nd7 7.Re1 Ne7 8.d4 c5 9.c4 Rc8 10.Nc3 dxc4 11.Nh4 Bd3 12.d5 exd5 13.Nxd5 Nxd5 14.Bxd5 Nb6 15.Bxb7 Rc7 16.Qf3 Qd7 17.Be4 Bxe4 18.Rxe4 Qe6 19.a4 g6 20.Ng2 Bg7 21.Nf4 Qc6 22.a5 Nd7 23.Qe2 O-O 24.Bd2 Re8 25.Bc3 Kh7 26.Re1 Nf8 27.Qxc4 Ne6 28.Nxe6 Rxe6 29.Rd1 Rce7 30.Rd5 Rc7 31.Re1 a6 32.Red1 Bf8 33.Qf4 c4 34.Rd8 Bc5 35.R1d6 Qb7 36.Rh8+ 1-0

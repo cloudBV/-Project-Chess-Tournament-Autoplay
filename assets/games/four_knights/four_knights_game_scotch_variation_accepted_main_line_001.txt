@@ -1,0 +1,15 @@
+[Event "Round 2: Aarav Dengla - Dominguez Perez, Leinier"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/cVxAr9Ch"]
+[Date "2026.07.04"]
+[Round "2.4"]
+[White "Aarav Dengla"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteElo "2303"]
+[BlackElo "2591"]
+[ECO "C47"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5 9.exd5 cxd5 10.Bg5 c6 11.Qf3 Rb8 12.Bxf6 Qxf6 13.Qxf6 gxf6 14.Ne2 Bd6 15.b3 c5 16.Rad1 Be6 17.Ng3 Rfd8 18.Nf5 Bf8 19.Ne3 a5 20.c4 d4 21.Nd5 Kg7 22.f4 a4 23.Rb1 axb3 24.axb3 Bd6 25.Rf3 f5 26.Rg3+ Kh8 27.Rg5 Bxd5 28.cxd5 Bxf4 29.Rxf5 Be3+ 30.Kf1 Rd7 31.Ke2 Kg7 32.Bc4 Rb6 33.Ra1 Re7 34.Kd3 Bh6 35.Rf3 Rf6 36.Rxf6 Re3+ 37.Kc2 Kxf6 38.d6 Re8 39.Rf1+ Kg5 40.Rxf7 Rd8 41.d7 Kg6 42.Re7 Bg5 43.Bd3+ Kf6 44.Rxh7 Ke6 45.h4 Be7 46.Bb5 Rb8 47.Bc6 Kd6 48.Rh6+ Kc7 49.Ba4 Rb4 50.Rh7 Bd8 51.Rh6 Be7 52.g4 d3+ 53.Kxd3 Rxg4 54.Rc6+ Kb7 55.Rc8 Rd4+ 56.Ke3 Bxh4 57.Rxc5 Rd6 58.Ke4 Bf6 59.Rf5 Bd8 60.Rc5 Rd2 61.Rc8 Bh4 62.b4 Bf6 63.Bc6+ Kb6 64.b5 Bh4 65.Rb8+ Kc7 66.Rb7+ Kd6 67.d8=Q+ 1-0

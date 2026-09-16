@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-4/bLDEfpjh/pdtYEz6u"]
+[Date "2026.07.03"]
+[Round "4.3"]
+[White "Janous, Marek"]
+[Black "Ajay Santhosh Parvathareddy"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "2476"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.d4 cxd4 5.Qxd4 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6 9.O-O-O Be7 10.Rhe1 O-O 11.e5 dxe5 12.Qh4 Qc7 13.Nxe5 h6 14.Bxh6 gxh6 15.Qxh6 Ne4 16.f4 Qxe5 17.Qxf8+ Kxf8 18.fxe5 Nxc3 19.bxc3 Bxg2 20.c4 Rc8 21.Rg1 Be4 22.Rg3 Rxc4 23.c3 Rc5 24.Rdg1 Bg6 25.Re3 Rb5 26.Rg4 Ba3+ 27.Kd2 Rb2+ 28.Ke1 Rb1+ 0-1

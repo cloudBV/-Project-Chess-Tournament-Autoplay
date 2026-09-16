@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "6.7"]
+[White "Mach, Petr"]
+[Black "Stary, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2004"]
+[ECO "B21"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.c3 dxc3 5.Nxc3 e6 6.Bc4 Bb4 7.O-O Nge7 8.h4 O-O 9.h5 h6 10.e5 a6 11.Ne4 b5 12.Bb3 Nf5 13.Bc2 d5 14.exd6 Nxd6 15.a3 f5 16.axb4 Nxe4 17.Qe2 Bb7 18.Bxe4 fxe4 19.Qxe4 Qe7 20.Re1 Nxb4 21.Qxe6+ Qxe6 22.Rxe6 Bxf3 23.gxf3 Rxf3 24.Bd2 Nd3 25.Rg6 Ne5 26.Rgxa6 Rxa6 27.Rxa6 Rf5 28.Bc3 Rxh5 29.Bxe5 Rxe5 30.Rb6 h5 31.Kg2 Kh7 32.Kg3 g6 33.Rb8 Rd5 34.Rb6 Kh6 35.Rb8 Rf5 36.Kg2 Kg5 37.Rb6 h4 38.Rb8 Kg4 39.Rb6 g5 40.b4 h3+ 41.Kg1 Kf3 42.Re6 Rf4 43.Re3+ Kg4 44.Rb3 Kh4 45.Rb2 Rc4 46.Kh2 g4 47.Kg1 Kg5 48.Rb3 Kf4 49.Kh2 Rc2 50.Kg1 Rc1+ 51.Kh2 Rf1 52.Rb2 Rxf2+ 53.Rxf2+ Ke5 1/2-1/2

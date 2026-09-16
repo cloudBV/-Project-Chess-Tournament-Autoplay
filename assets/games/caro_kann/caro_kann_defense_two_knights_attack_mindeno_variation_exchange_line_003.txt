@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-4/9zGO8wij/r7FPTIXM"]
+[Date "2026.07.03"]
+[Round "4.3"]
+[White "Nagy, Ladislav"]
+[Black "Sahidi, Samir"]
+[Result "0-1"]
+[WhiteElo "2181"]
+[BlackElo "2485"]
+[ECO "B11"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 Nf6 6.Be2 e6 7.O-O d4 8.Nb1 Bd6 9.c3 Bc7 10.d3 O-O 11.g3 c5 12.Bg5 Nc6 13.Bxf6 Qxf6 14.Qxf6 gxf6 15.c4 f5 16.exf5 exf5 17.Rd1 f4 18.g4 Rfe8 19.Bf3 Ne5 20.Kg2 Ba5 21.Na3 Re7 22.Nb5 Rd7 23.Be4 a6 24.Na3 Re8 25.f3 Rb8 26.Rac1 Kg7 27.Nb1 Rc7 28.a4 b5 29.axb5 axb5 30.cxb5 Rxb5 31.Rc2 c4 32.Na3 cxd3 33.Bxd3 Rxc2+ 34.Bxc2 Rxb2 35.Rxd4 Bb4 36.Rxb4 Rxb4 37.Be4 Rb2+ 38.Nc2 Nc4 39.Kg1 Nd2 40.Ne1 Nxe4 41.fxe4 Re2 42.Ng2 Rxe4 43.Kf2 Kf6 0-1

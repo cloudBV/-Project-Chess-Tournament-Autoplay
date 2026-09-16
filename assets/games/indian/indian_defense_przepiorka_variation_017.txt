@@ -1,0 +1,14 @@
+[Event "Blitz C14"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.2"]
+[White "Chiszko, Oskar"]
+[Black "Kiszkiel, Oskar"]
+[Result "1/2-1/2"]
+[WhiteElo "2304"]
+[BlackElo "2229"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.Nf3 Nf6 2.d4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O 1/2-1/2

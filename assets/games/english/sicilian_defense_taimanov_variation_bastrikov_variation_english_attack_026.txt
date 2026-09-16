@@ -1,0 +1,14 @@
+[Event "Round 8: Fernandes Barbosa Dos Santos, Gabriel - Savitha Shri B"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-8/6GvLkLx7/HQoMCNxa"]
+[Date "2026.07.12"]
+[Round "8.8"]
+[White "Fernandes Barbosa Dos Santos, Gabriel"]
+[Black "Savitha Shri B"]
+[Result "0-1"]
+[WhiteElo "2199"]
+[BlackElo "2317"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.f4 b5 8.Nb3 Bb7 9.Bd3 d6 10.O-O Nf6 11.Qf3 h5 12.Rae1 Ng4 13.Kh1 Nxe3 14.Rxe3 Be7 15.Qh3 Qb6 16.Rfe1 Nb4 17.Qg3 g6 18.f5 Nxd3 19.Rxd3 gxf5 20.exf5 O-O-O 21.Qe3 Qxe3 22.Rexe3 Rhg8 23.Re2 b4 24.Ne4 Rg4 25.Ned2 Rdg8 26.Nf3 e5 27.Rde3 Bg5 28.h3 Rg3 29.Nxg5 R3xg5 30.Kg1 Rxg2+ 31.Rxg2 Rxg2+ 32.Kf1 Rxc2 33.Re2 Rxe2 34.Kxe2 Bd5 35.Nc1 Bg2 36.h4 Be4 37.f6 Kd7 38.Ke3 Bb1 39.a3 bxa3 40.bxa3 Ke6 41.Ne2 d5 42.Ng3 Bg6 43.Ne2 d4+ 44.Kd2 Kxf6 45.a4 0-1

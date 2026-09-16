@@ -1,0 +1,15 @@
+[Event "Round 6: Oktem, Ege Tuna - Azimi, Amir Mohammad"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/PRkH9JoD"]
+[Date "2026.07.16"]
+[Round "6.20"]
+[White "Oktem, Ege Tuna"]
+[Black "Azimi, Amir Mohammad"]
+[Result "0-1"]
+[WhiteElo "2359"]
+[BlackElo "2148"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 b6 4.Bb2 Bb7 5.Qe2 Nc6 6.g3 Nf6 7.Bg2 d6 8.O-O e5 9.d3 Be7 10.c4 O-O 11.Nc3 a6 12.Nd5 b5 13.Nd2 Nxd5 14.exd5 Nd4 15.Bxd4 exd4 16.Rfe1 Re8 17.Bh3 g6 18.f4 Kg7 19.Qf2 f5 20.Nf3 Bc8 21.Re2 Bd7 22.Rae1 a5 23.Kg2 h6 24.Kh1 Rb8 25.cxb5 Bxb5 26.g4 fxg4 27.Bxg4 Bf6 28.Rxe8 Bxe8 29.Nd2 Bh4 30.Rxe8 Bxf2 31.Rxd8 Rxd8 32.Nc4 Be3 33.a4 Bxf4 34.Nxa5 h5 35.Be6 Rb8 36.Bd7 g5 37.Bb5 g4 38.Kg2 h4 39.Bd7 g3 40.hxg3 hxg3 41.Bg4 Kf6 42.Be6 Kg5 43.Bd7 Kh4 44.Bf5 Be5 45.Be4 Rf8 46.Nc4 Rf2+ 47.Kg1 Bf4 0-1

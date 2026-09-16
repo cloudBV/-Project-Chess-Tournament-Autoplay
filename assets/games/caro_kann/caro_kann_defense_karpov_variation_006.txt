@@ -1,0 +1,15 @@
+[Event "Round 4: Ozkan, Kaan - Yermolinsky, Alex"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/aU9CFOFV"]
+[Date "2026.07.15"]
+[Round "4.6"]
+[White "Ozkan, Kaan"]
+[Black "Yermolinsky, Alex"]
+[Result "0-1"]
+[WhiteElo "2049"]
+[BlackElo "2363"]
+[ECO "B17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Qe2 Ndf6 6.Nf3 Bg4 7.Bf4 Nxe4 8.Qxe4 Nf6 9.Qd3 Bxf3 10.gxf3 g6 11.O-O-O Bg7 12.Qb3 Qb6 13.Qxb6 axb6 14.Bc4 b5 15.Bb3 Nd5 16.Bd2 Bxd4 17.Bxd5 cxd5 18.Bb4 Rxa2 19.c3 Ra1+ 20.Kc2 Rxd1 21.Rxd1 Bxf2 22.Rxd5 e6 23.Rxb5 b6 24.c4 Kd7 25.Bc3 Ra8 26.Re5 Ra1 27.Kd3 Bh4 28.Re4 Be7 29.Re2 Bd6 30.b4 Rd1+ 31.Ke3 Rb1 32.Ra2 Bxb4 33.Ra7+ Kd6 34.Bg7 Bc5+ 35.Kf4 e5+ 36.Bxe5+ Ke6 37.Bc7 Rb4 38.Ra6 Rxc4+ 0-1

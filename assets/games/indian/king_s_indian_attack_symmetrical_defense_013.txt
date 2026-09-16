@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.07"]
+[Round "4.3"]
+[White "Terbe, Julianna"]
+[Black "Toth, Lili"]
+[Result "1-0"]
+[WhiteElo "2252"]
+[BlackElo "2118"]
+[ECO "A05"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 d6 6.d4 b5 7.O-O Bb7 8.Qd3 a6 9.c4 Nbd7 10.Nbd2 Rb8 11.Qc2 Re8 12.c5 Nd5 13.Rac1 dxc5 14.dxc5 e5 15.c6 Nb4 16.cxd7 Nxc2 17.dxe8=Q+ Qxe8 18.Rxc2 e4 19.Nd4 Rc8 20.Rfc1 Be5 21.e3 f5 22.Bf1 Bd6 23.Nc6 Qe6 24.a4 Qd5 25.axb5 axb5 26.Na7 Ra8 27.Nxb5 Kf8 28.Bc4 Qc5 29.Bd4 Qb4 30.Nb1 c6 31.Nxd6 Qxd6 32.b4 Qd7 33.Bc5+ Kg7 34.Rd2 Qe8 35.Rcd1 Ba6 36.Rd7+ Kh6 37.Bxa6 Rxa6 38.Nc3 Ra1 39.Rxh7+ Kxh7 40.Rxa1 Qe6 41.Ne2 g5 42.Nd4 Qd5 43.Ra7+ Kg8 44.Ra8+ Kh7 45.Rf8 f4 46.exf4 gxf4 47.Rxf4 Qa2 48.Nf5 Qe2 49.Kg2 Kg6 50.h4 1-0

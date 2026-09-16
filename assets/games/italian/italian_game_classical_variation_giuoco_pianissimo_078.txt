@@ -1,0 +1,14 @@
+[Event "Round 7: Dong, Hongfu - Kozak, Adam"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/vM6UaeNh"]
+[Date "2026.07.19"]
+[Round "7.3"]
+[White "Dong, Hongfu"]
+[Black "Kozak, Adam"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2537"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O a5 7.Re1 Ba7 8.Nbd2 O-O 9.h3 Be6 10.Bb5 Ne7 11.d4 Ng6 12.Ba4 Nh5 13.Nf1 Nhf4 14.Ng3 Qf6 15.Bc2 Rfe8 16.Nh5 Qe7 17.Nxf4 Nxf4 18.Bxf4 exf4 19.e5 dxe5 20.Rxe5 Qf6 21.Qd3 g6 22.Rae1 c6 23.Rxa5 b5 24.Ne5 Bd5 25.Bb3 Qe6 26.Ra6 Bxb3 27.axb3 Qxb3 1-0

@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.13"]
+[Round "3.10"]
+[White "Goudriaan, Rafael"]
+[Black "Vroombout, Enrico"]
+[Result "1-0"]
+[WhiteElo "2262"]
+[BlackElo "2066"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 g6 6.h3 Bg7 7.Nc3 O-O 8.O-O Re8 9.a4 a5 10.Be3 b6 11.Qd2 e5 12.Bh6 Bh8 13.Nh2 Be6 14.f4 exf4 15.Qxf4 Nh5 16.Qf3 Bd4+ 17.Be3 Bxe3+ 18.Qxe3 Qd4 19.Qxd4 cxd4 20.Ne2 Rad8 21.Nf3 c5 22.Nd2 Kg7 23.b3 Nf6 24.Nc4 Bxc4 25.bxc4 Rd6 26.Rab1 Re5 27.Kh2 h5 28.Ng1 Nd7 29.g4 hxg4 30.hxg4 Ree6 31.Kg3 Ne5 32.Nh3 g5 33.Nxg5 Rg6 34.Rf5 f6 35.Nf3 Nxg4 36.Nh4 Rg5 37.Rxg5+ fxg5 38.Nf5+ 1-0

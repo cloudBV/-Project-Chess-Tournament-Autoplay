@@ -1,0 +1,14 @@
+[Event "Round 7: Schmit, Vincent - Krush, Irina"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/0pFPyl0j"]
+[Date "2026.07.23"]
+[Round "7.15"]
+[White "Schmit, Vincent"]
+[Black "Krush, Irina"]
+[Result "0-1"]
+[WhiteElo "2266"]
+[BlackElo "2401"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 Qa5 8.Qf3 h6 9.Bxf6 Nxf6 10.f5 g5 11.fxg6 fxg6 12.Qg3 Ng4 13.O-O-O Qg5+ 14.Rd2 Bg7 15.Nf3 Qa5 16.Nd4 Be5 17.Qe1 Bf4 18.Kb1 Bxd2 19.Qxd2 Qg5 0-1

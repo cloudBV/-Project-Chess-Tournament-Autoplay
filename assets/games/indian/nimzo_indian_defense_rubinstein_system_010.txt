@@ -1,0 +1,14 @@
+[Event "Round 5: Krueger, Erich - Schlais, Harald"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-5/Vg6Z0Oa2/EpcBf04y"]
+[Date "2026.07.21"]
+[Round "5.10"]
+[White "Krueger, Erich"]
+[Black "Schlais, Harald"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2238"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Bxc3+ 5.bxc3 Qe7 6.a4 d6 7.Nf3 c5 8.Qc2 e5 9.dxc5 dxc5 10.e4 Nc6 11.Be2 O-O 12.O-O b6 13.Bg5 Ba6 14.Nh4 h6 15.Nf5 Qe6 16.Bxf6 Qxf6 17.Rad1 Rad8 18.Rd5 Na5 19.Ne3 Bb7 20.Ng4 Qg6 21.Nxe5 Qe6 22.f4 Bxd5 23.cxd5 Qe7 24.c4 Rfe8 25.Bd3 Qf6 26.Qf2 Kh8 27.Kh1 Re7 28.Qg3 Rde8 29.h3 h5 30.Nxf7+ Rxf7 31.e5 Qh6 32.Bg6 Rff8 33.Bxe8 Rxe8 34.f5 Nxc4 35.e6 Qf6 36.Qf3 Nd6 37.Qxh5+ Kg8 38.Rf4 Qa1+ 39.Kh2 Qe5 40.Qg5 Rf8 41.Kg1 Qxd5 42.Qg6 Rf6 43.e7 Qe5 0-1

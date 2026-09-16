@@ -1,0 +1,14 @@
+[Event "Round 13: Rappazzo, Johannes - Shukhman, Anna"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-13/22N95Wf4/qJhEQz36"]
+[Date "2026.07.19"]
+[Round "13.5"]
+[White "Rappazzo, Johannes"]
+[Black "Shukhman, Anna"]
+[Result "1-0"]
+[WhiteElo "2032"]
+[BlackElo "2392"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Bc4 Bd7 9.Bb3 Bg7 10.O-O h4 11.h3 Qa5 12.f4 Rc8 13.Qf3 Qh5 14.Qf2 a6 15.Rae1 O-O 16.Nf3 b5 17.Ng5 Nh7 18.Nxh7 Kxh7 19.Nd5 Na5 20.Bd4 Nxb3 21.cxb3 Rce8 22.Bxg7 Kxg7 23.Qa7 Be6 24.Qd4+ f6 25.Nc7 Kf7 26.Nxe8 Rxe8 27.f5 Bd7 28.Qd5+ Kg7 29.fxg6 Qxg6 30.Kh1 Rc8 31.Rc1 Rxc1 32.Rxc1 Qg3 33.Rc3 Qe1+ 34.Kh2 Qf2 35.Rf3 Qe2 36.Qb7 Qxe4 37.Qxe4 1-0

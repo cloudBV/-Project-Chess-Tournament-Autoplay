@@ -1,0 +1,14 @@
+[Event "Round 8: Habibi, Ali - Lu, Miaoyi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-8/6GvLkLx7/VttgUMMe"]
+[Date "2026.07.12"]
+[Round "8.9"]
+[White "Habibi, Ali"]
+[Black "Lu, Miaoyi"]
+[Result "0-1"]
+[WhiteElo "2187"]
+[BlackElo "2309"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.Qc2 d4 7.d3 Nc6 8.a3 a5 9.b3 e5 10.Nbd2 h6 11.Bb2 Bf5 12.Rfc1 Qd7 13.Qd1 Rad8 14.Ne1 Rfe8 15.Nc2 Bc5 16.f3 h5 17.Ne4 Bxe4 18.fxe4 h4 19.Qf1 hxg3 20.hxg3 Qg4 21.Qf3 Qg6 22.Rf1 Nh5 23.g4 Nf4 24.Bc1 Bd6 25.Rb1 Ra8 26.Bd2 Nd8 27.Rf2 Nde6 28.Qg3 Be7 29.b4 Qh6 30.Qh2 Bh4 31.Bf1 Bxf2+ 32.Qxf2 Nh3+ 33.Bxh3 Qxd2 34.Ne1 Nf4 35.Bf1 axb4 36.axb4 Ra2 37.Nf3 Qc2 38.Qe1 f6 39.g5 Rea8 40.gxf6 gxf6 41.Kh1 Kf7 42.Rc1 Rh8+ 43.Nh2 Qd2 44.Qxd2 Rxd2 45.Re1 Nxd3 46.Ra1 Nf4 47.Ra7 d3 0-1

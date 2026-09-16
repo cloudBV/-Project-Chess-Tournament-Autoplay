@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.33"]
+[White "Manukyan, Sargis A."]
+[Black "Biedenkopf, Philipp"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2144"]
+[ECO "E61"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.h3 O-O 6.Bf4 Nfd7 7.e3 e5 8.Bg3 Nc6 9.Be2 f5 10.Bh4 Bf6 11.Bxf6 Nxf6 12.dxe5 dxe5 13.Qb3 Qe7 14.Nd5 Qg7 15.Nxf6+ Qxf6 16.Rd1 Rb8 17.Qc3 a5 18.c5 Be6 19.a3 Rbd8 20.O-O Kg7 21.Bb5 e4 22.Bxc6 Qxc3 23.bxc3 bxc6 24.Rxd8 Rxd8 25.Nd4 Kf6 26.Rb1 Rd5 27.Rb7 Rxc5 28.Rxc7 Rxc3 29.Rxh7 Rxa3 30.Nxc6 Ra1+ 31.Kh2 a4 32.Ra7 a3 33.Nd4 Bf7 34.Nc2 Ra2 35.Nxa3 Rxf2 36.Nb5 Rd2 37.Ra6+ Ke5 38.Nd4 g5 39.Nc6+ Kf6 40.Nd4+ Ke5 41.Ra7 Bc4 42.Rc7 Bd5 43.Re7+ Kf6 44.Rd7 Ke5 45.Rg7 Kf6 46.Rd7 Ke5 47.Rg7 Kf6 48.Rd7 Ke5 1/2-1/2

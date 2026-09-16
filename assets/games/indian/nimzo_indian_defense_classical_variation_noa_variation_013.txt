@@ -1,0 +1,14 @@
+[Event "Round 2: Ivana Maria, Furtado - Gopal G.N."]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/OXTc8Wzp"]
+[Date "2026.07.14"]
+[Round "2.7"]
+[White "Ivana Maria, Furtado"]
+[Black "Gopal G.N."]
+[Result "1/2-1/2"]
+[WhiteElo "2182"]
+[BlackElo "2529"]
+[ECO "E36"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 O-O 7.Nf3 b6 8.Bg5 Nbd7 9.cxd5 exd5 10.e3 c5 11.dxc5 bxc5 12.Bxf6 Qxf6 13.Qxf6 Nxf6 14.b4 c4 15.Nd4 Bd7 16.Be2 Rfb8 17.Bf3 a5 18.Kd2 g5 19.h3 h5 20.g3 g4 21.hxg4 hxg4 22.Bg2 axb4 23.axb4 Rxa1 24.Rxa1 Rxb4 25.Kc3 Rb6 26.f4 gxf3 27.Bxf3 Bg4 28.Bg2 Kg7 29.Ra5 Rd6 30.Nb5 Rd7 31.Kd4 Be6 32.Nc3 Rd8 33.Bf3 Kh6 34.Rc5 Kg7 35.Ra5 Kh6 36.Rc5 Rg8 37.Nxd5 Rxg3 38.Nxf6 Rxf3 39.Nh5 Rf1 40.Nf4 Rd1+ 41.Ke4 1/2-1/2

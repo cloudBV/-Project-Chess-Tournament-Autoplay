@@ -1,0 +1,14 @@
+[Event "Round 6: Ernst, Thomas - Landgren, Andreas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-6/ZSzYxBoH/NMH06r7L"]
+[Date "2026.07.02"]
+[Round "6.2"]
+[White "Ernst, Thomas"]
+[Black "Landgren, Andreas"]
+[Result "1/2-1/2"]
+[WhiteElo "2247"]
+[BlackElo "2213"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 h6 8.Bh4 g6 9.f4 e5 10.fxe5 dxe5 11.O-O-O Qc7 12.Nb3 b5 13.Rxd7 Nxd7 14.Nd5 Qb8 15.Na5 Bg7 16.Qd2 O-O 17.Be7 Re8 18.Nc6 1/2-1/2

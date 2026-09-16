@@ -1,0 +1,14 @@
+[Event "Round 6: Braun, Georg, Dr. - Costa, Leonardo"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-6/dZsn6hpU/NnSfCraA"]
+[Date "2026.07.22"]
+[Round "6.3"]
+[White "Braun, Georg, Dr."]
+[Black "Costa, Leonardo"]
+[Result "0-1"]
+[WhiteElo "2374"]
+[BlackElo "2540"]
+[ECO "B89"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Velimirovic Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 Be7 8.Qe2 O-O 9.O-O-O d5 10.exd5 exd5 11.Bb3 Re8 12.Nf3 Be6 13.Qb5 a6 14.Qxb7 Qd6 15.Ba4 Rec8 16.Bxc6 Rab8 17.Nxd5 Nxd5 18.Bxd5 Rxb7 19.Bxb7 Rxc2+ 20.Kb1 Rxb2+ 21.Kxb2 Qa3+ 22.Kc2 Qxa2+ 23.Kc3 Bb4+ 24.Kd4 0-1

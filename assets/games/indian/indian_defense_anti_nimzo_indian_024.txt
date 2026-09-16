@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "3.3"]
+[White "Rekuc, Patryk"]
+[Black "Musial, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2209"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 d5 4.e3 b6 5.b3 Bd6 6.Bd3 Nbd7 7.cxd5 exd5 8.O-O O-O 9.Ba3 c5 10.Nbd2 Bb7 11.Rc1 Rc8 12.Qe2 Ne4 13.Ba6 Bxa6 14.Qxa6 Nxd2 15.Nxd2 Qe7 16.Nf3 Nb8 17.Qb5 Qd7 18.Qe2 cxd4 19.Bxd6 Qxd6 20.Nxd4 Rc5 21.Qg4 Nc6 22.Qxg7+ Kxg7 23.Nf5+ Kf6 24.Nxd6 Ke6 25.Nb5 Rc8 26.Rxc5 bxc5 27.Rc1 a6 28.Nc3 Ne5 29.Kf1 d4 30.Na4 dxe3 31.fxe3 Ng4 32.Ke2 Kd6 33.b4 Re8 34.bxc5+ Kc6 35.Rc3 Nf6 36.Rd3 Nd5 37.Kf3 Re6 38.a3 Rf6+ 39.Ke2 Re6 40.g3 f5 41.Nc3 Nf6 42.Kf3 Ne4 43.Ne2 Kxc5 44.Nf4 Ng5+ 45.Ke2 Rb6 46.Rd5+ Kc4 47.Rd4+ Kc5 48.Nd3+ Kc6 49.Ne5+ Kc7 50.Rd7+ Kc8 51.Rg7 h6 52.Rg6 Rb2+ 53.Kd1 Rxh2 54.Rxa6 Ne4 55.Rg6 Kb7 56.Nf3 Nc3+ 57.Ke1 Re2+ 58.Kf1 Rxe3 59.Nd4 Rd3 60.Ne6 Ne4 61.Kg2 Rxa3 62.Nd4 Rxg3+ 63.Rxg3 Nxg3 1/2-1/2

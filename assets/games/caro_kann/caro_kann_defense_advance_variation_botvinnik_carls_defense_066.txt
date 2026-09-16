@@ -1,0 +1,14 @@
+[Event "Round 7: Matsumura, Cocoro - Python, Noe"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/vuQcG3OT"]
+[Date "2026.07.19"]
+[Round "7.20"]
+[White "Matsumura, Cocoro"]
+[Black "Python, Noe"]
+[Result "1-0"]
+[WhiteElo "2131"]
+[BlackElo "2010"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.c3 Bxc5 6.Qg4 g6 7.h4 h5 8.Qg3 Nh6 9.Bg5 Be7 10.Bd3 Nc6 11.Nf3 Bd7 12.Nbd2 Nf5 13.Bxf5 gxf5 14.Qf4 Qc7 15.O-O-O f6 16.exf6 Qxf4 17.f7+ Kxf7 18.Bxf4 Bf6 19.Rhe1 Rhe8 20.Nb3 b6 21.Bg3 Rg8 22.Rg1 Rg4 23.Nh2 Ra4 24.Nf3 Rxa2 25.Rge1 Rg8 26.Re2 Ra4 27.Rg1 Rag4 28.Nh2 Rc4 29.Nd2 Ra4 30.Nhf3 Ra1+ 31.Nb1 Rc8 32.Nd2 b5 33.Nb3 Ra4 34.Rge1 Bxh4 35.Nc5 Bxg3 36.fxg3 Ke7 37.Nxa4 bxa4 38.Na3 Nb4 39.Kd2 Nc6 40.Nb5 a6 41.Na3 e5 42.Nc2 Kf6 43.Ne3 Be6 44.Rh1 Kg5 45.Nc2 Na5 46.Kc1 Nc4 47.Nd4 exd4 48.Rxe6 dxc3 49.bxc3 Na3 50.Rxa6 Rxc3+ 51.Kb2 Rxg3 52.Rxa4 Nc4+ 53.Kc2 Rxg2+ 54.Kc3 h4 55.Kd4 Rd2+ 56.Kc3 Rg2 57.Ra8 Rg4 58.Rg8+ Kf4 59.Rf8 Rg3+ 60.Kd4 h3 61.Kxd5 Ne3+ 62.Kd4 Ng4 63.Rf1+ Kg5 64.R8xf5+ Kh4 65.Rf8 Nh6 66.Rh8 Kh5 67.Rf6 Rg6 68.Rxg6 Kxg6 69.Ra8 Ng4 70.Ra1 Nf2 71.Ke3 Ng4+ 72.Kf4 Nf6 73.Kg3 Ne4+ 74.Kxh3 Kf5 75.Kg2 Ke5 76.Ra5+ Kd4 77.Kf3 Nd2+ 78.Kf4 Nc4 79.Ra4 Kd5 80.Ra1 Kd4 81.Rd1+ Kc3 82.Ke4 Nd6+ 83.Rxd6 1-0

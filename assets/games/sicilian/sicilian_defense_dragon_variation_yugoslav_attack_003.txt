@@ -1,0 +1,14 @@
+[Event "Round 10: Fernandes Barbosa Dos Santos, Gabriel - Dong, Hongfu"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-10/fuSt1AT1/YGFS9Hc2"]
+[Date "2026.07.19"]
+[Round "10.13"]
+[White "Fernandes Barbosa Dos Santos, Gabriel"]
+[Black "Dong, Hongfu"]
+[Result "0-1"]
+[WhiteElo "2167"]
+[BlackElo "2290"]
+[ECO "B77"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.h4 h5 11.O-O-O Ne5 12.Bb3 Rc8 13.g4 hxg4 14.h5 Nxh5 15.Bh6 e6 16.Bxg7 Kxg7 17.fxg4 Nxg4 18.Rdg1 Nhf6 19.Qg5 Rc5 20.Qd2 Rh8 21.Nf3 Rxh1 22.Rxh1 Rh5 23.Rxh5 Nxh5 24.Qxd6 Qf6 25.Qxd7 Qxf3 26.Qd4+ Nhf6 27.e5 Nh5 28.Ne4 Nf4 29.Kd2 Qg2+ 30.Kd1 Qe2+ 31.Kc1 Qe1+ 32.Qd1 Ne2+ 0-1

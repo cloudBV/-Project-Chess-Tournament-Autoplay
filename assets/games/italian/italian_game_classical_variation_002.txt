@@ -1,0 +1,15 @@
+[Event "Round 6: Chavez Suarez, Carlos Alberto - Nissinen, Niilo Man"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-6/B5vAUn6Q/n3aUhQaw"]
+[Date "2026.07.18"]
+[Round "6.3"]
+[White "Chavez Suarez, Carlos Alberto"]
+[Black "Nissinen, Niilo Man"]
+[Result "1/2-1/2"]
+[WhiteElo "2325"]
+[BlackElo "2331"]
+[ECO "C53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d4 Bb6 6.dxe5 Bg4 7.exd6 Nf6 8.O-O O-O 9.Bg5 h6 10.Bh4 g5 11.Bg3 Nxe4 12.Qd3 Bf5 13.Qd5 Nxg3 14.hxg3 Be6 15.Qe4 Bxc4 16.Qxc4 Qxd6 17.Qg4 Kg7 18.Kh2 f5 19.Qh5 Qe7 20.Na3 g4 21.Rae1 Qf6 22.Nd2 Qg5 23.Qxg5+ hxg5 24.Ndc4 f4 25.Nxb6 axb6 26.gxf4 gxf4 27.Re4 Ra5 28.Rfe1 Kg6 29.Re6+ Rf6 30.g3 Rd5 31.gxf4 Rxe6 32.Rxe6+ Kf5 33.Re8 Kxf4 34.Rf8+ Kg5 35.Rf7 Ne5 36.Rxc7 Rd2 37.Kg3 Rxb2 38.Nc4 Nxc4 39.Rxc4 Rxa2 40.Rxg4+ Kf5 41.Rb4 Ra3 42.Rb5+ Ke6 43.Rxb6+ Kd5 44.f4 Rxc3+ 45.Kg4 Rc7 46.f5 Kc5 47.Rb1 b5 48.f6 Rb7 49.Kf5 b4 50.Kg6 b3 51.f7 Rxf7 52.Kxf7 Kc4 53.Ke6 Kc3 54.Kd5 Kc2 55.Rh1 b2 56.Ke4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.13"]
+[White "Andriasian, Zaven"]
+[Black "Aaron, Deepak"]
+[Result "1-0"]
+[WhiteElo "2538"]
+[BlackElo "2276"]
+[ECO "B33"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c4 b4 13.Nc2 O-O 14.g3 Bg5 15.Bg2 a5 16.O-O Ne7 17.h4 Bh6 18.Nde3 Qb6 19.Nf5 Nxf5 20.exf5 Rb8 21.Be4 g6 22.Qf3 b3 23.Na3 bxa2 24.Nb5 d5 25.Bxd5 gxf5 26.Rxa2 Bd7 27.Rd1 Qg6 28.h5 Qg7 29.Nd6 f4 30.Nxf7 Rxf7 31.Rxa5 Bg4 32.Bxf7+ Qxf7 33.Qxg4+ Kh8 34.Rd7 Qxc4 35.Raa7 Qc1+ 36.Kg2 Qc6+ 37.Qf3 1-0

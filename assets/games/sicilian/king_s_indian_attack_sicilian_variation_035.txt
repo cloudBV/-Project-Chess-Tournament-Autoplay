@@ -1,0 +1,15 @@
+[Event "Round 2: Gluckman, David - Giahos, Gerasimos"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/delxYjn0"]
+[Date "2026.07.22"]
+[Round "2.12"]
+[White "Gluckman, David"]
+[Black "Giahos, Gerasimos"]
+[Result "1-0"]
+[WhiteElo "2161"]
+[BlackElo "2036"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d4 cxd4 6.Nxd4 Bg7 7.Nb3 O-O 8.Nc3 e6 9.e4 Nxe4 10.Nxe4 dxe4 11.Qxd8 Rxd8 12.Bxe4 Nc6 13.c3 e5 14.Bg5 f6 15.Be3 Be6 16.Rfd1 f5 17.Bg2 e4 18.f3 Bd5 19.Bg5 exf3 20.Bxd8 Rxd8 21.Bf1 Ne5 22.c4 f2+ 23.Kxf2 Ng4+ 24.Kg1 Ne3 25.Rxd5 Nxd5 26.Rd1 Bxb2 27.cxd5 Be5 28.Na5 Rd7 29.Bb5 Rc7 30.d6 Bxd6 31.Rxd6 Rc5 32.Rd8+ Kf7 33.Rd7+ Ke6 34.Rxb7 a6 35.Nb3 Rxb5 36.Nd4+ Kd5 1-0

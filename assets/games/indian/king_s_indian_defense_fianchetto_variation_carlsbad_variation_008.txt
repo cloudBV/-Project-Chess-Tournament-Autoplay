@@ -1,0 +1,14 @@
+[Event "Round 3: Han, Qixiang - Botter, Simon"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/mfLLf6MJ"]
+[Date "2026.07.23"]
+[Round "3.18"]
+[White "Han, Qixiang"]
+[Black "Botter, Simon"]
+[Result "1-0"]
+[WhiteElo "2311"]
+[BlackElo "2170"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Carlsbad Variation"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O Rb8 8.Bf4 a6 9.Rc1 Bd7 10.Qd2 Re8 11.Rfd1 b5 12.Nd5 bxc4 13.Nxf6+ Bxf6 14.Rxc4 Rb5 15.a4 Na5 16.Rc3 Rb8 17.Qc2 c5 18.dxc5 Bxc3 19.Qxc3 Rb3 20.Qd2 Bxa4 21.cxd6 exd6 22.Ng5 Rb5 23.Bd5 Re7 24.Ne4 Rxe4 25.Bxe4 Bxd1 26.Qxd1 Qf6 27.Bxd6 Nc4 28.Bf4 Nxb2 29.Qd7 Kg7 30.h4 Qe6 31.Qd4+ Qf6 32.Bh6+ Kxh6 33.Qxf6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Yankelevich, Lev - Cederstam, Carl"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-6/e9ef0vgC/0uKeWk9V"]
+[Date "2026.07.22"]
+[Round "6.4"]
+[White "Yankelevich, Lev"]
+[Black "Cederstam, Carl"]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2365"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Bf4 c5 7.e4 b5 8.e5 Nfd7 9.h4 Nc6 10.Qe2 Bb7 11.Re1 Qc7 12.Nbd2 Rfc8 13.c3 a5 14.a4 bxa4 15.Rxa4 Nb6 16.Raa1 Qd8 17.Nf1 a4 18.N1h2 Bf8 19.h5 h6 20.g4 Be7 21.Kh1 Nd7 22.Qc2 d4 23.c4 Nf8 24.Bd2 Qb6 25.g5 hxg5 26.Bxg5 Nh7 27.Bxe7 Nxe7 28.Qd2 Nf5 29.Rg1 Kh8 30.Bh3 Rg8 31.Qf4 Qxb2 32.Bxf5 exf5 33.Rab1 Bxf3+ 34.Nxf3 Qe2 35.Qxf5 a3 36.Rbe1 Qxf2 37.Rg2 Qxe1+ 38.Nxe1 a2 39.Nc2 a1=Q+ 40.Nxa1 Rxa1+ 41.Kh2 Re1 42.h6 gxh6 43.e6 fxe6 44.Qxc5 Ng5 45.Qxd4+ Kh7 46.Qf4 Rg7 47.Rf2 Ra7 48.c5 Raa1 49.Qc7+ Kg6 50.Qc6 Kh5 51.Kg3 Rg1+ 52.Rg2 Rxg2+ 53.Qxg2 Ra4 54.Qe2+ Kg6 55.c6 Ra8 56.Qe5 Rg8 57.c7 Kf7 58.Qb5 Ne4+ 59.Kf3 Nd2+ 60.Ke3 Ke7 61.Kxd2 Rc8 62.Qc6 1-0

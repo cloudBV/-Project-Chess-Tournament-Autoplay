@@ -1,0 +1,15 @@
+[Event "Round 6: Jagesia Daksh - Leiva, Gianmarco"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-6/SDE6E1pr/id2paAqH"]
+[Date "2026.07.09"]
+[Round "6.3"]
+[White "Jagesia Daksh"]
+[Black "Leiva, Gianmarco"]
+[Result "1/2-1/2"]
+[WhiteElo "2044"]
+[BlackElo "2332"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ne1 Re8 8.Nd5 Nxd5 9.cxd5 Nd4 10.e3 Nf5 11.d3 exd3 12.Nxd3 Bf8 13.e4 Ne7 14.b3 Ng6 15.Bb2 c6 16.h4 d6 17.dxc6 bxc6 18.h5 Ne5 19.Nxe5 dxe5 20.Qxd8 Rxd8 21.Bxe5 Bg4 22.Bf4 Bxh5 23.Rac1 c5 24.e5 Rab8 25.e6 Rb4 26.Be3 Rb5 27.Rfe1 fxe6 28.Bf1 Ra5 29.a4 Bf3 30.Bc4 Rd5 31.Bxd5 exd5 32.Bd2 Ra6 33.Re3 Rf6 34.b4 cxb4 35.a5 a6 36.Rb3 Be2 37.Bxb4 Bc4 38.Rb2 h5 39.Bxf8 Rxf8 40.Rb6 h4 41.gxh4 Rf4 42.Kg2 Rxh4 43.Kg3 Re4 44.Rc3 Re7 45.f4 Rd7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "16.8"]
+[White "Kozlovic, Jernej"]
+[Black "Sawicki, Dorian"]
+[Result "1-0"]
+[WhiteElo "2222"]
+[BlackElo "2059"]
+[ECO "B40"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 b6 4.d4 Bb7 5.Bd3 Qc7 6.O-O d6 7.a4 Nd7 8.Re1 e5 9.Na3 a6 10.Bc4 h6 11.dxe5 Nxe5 12.Bd5 Nf6 13.Bxb7 Qxb7 14.Bf4 Qc7 15.Bxe5 dxe5 16.Nc4 Nd7 17.Qd5 Rd8 18.Rad1 Be7 19.Ncxe5 Nxe5 20.Qxe5 Qxe5 21.Nxe5 Bd6 22.Nc4 Bc7 23.Rxd8+ Kxd8 24.Ne3 Kd7 25.Nd5 Re8 26.g4 Kc6 27.f3 Be5 28.Kg2 Ra8 29.f4 Bc7 30.Rd1 Re8 31.Kf3 Bb8 32.h4 b5 33.axb5+ axb5 34.h5 f6 35.Ra1 Bd6 36.Ra6+ Kd7 37.Ra7+ Kc6 38.Rxg7 b4 39.cxb4 cxb4 40.Nxf6 Ra8 41.e5 Bc5 42.e6 Bd4 43.Rg6 Bxb2 44.e7 Bxf6 45.Rxf6+ Kc5 46.Rf8 Ra3+ 47.Ke4 1-0

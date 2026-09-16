@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "2.1"]
+[White "Sowinski, Pawel"]
+[Black "Futyma, Dawid"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2057"]
+[ECO "C07"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nc6 6.Bb5 Bd7 7.Nxc6 Bxc6 8.Bxc6+ bxc6 9.O-O Nf6 10.e5 Nd7 11.Re1 Bc5 12.Qg4 O-O 13.Nf3 Kh8 14.Be3 Bxe3 15.Rxe3 h6 16.Rd1 c5 17.c4 d4 18.Re2 a5 19.Ne1 Qg5 20.Qe4 Rfc8 21.Nd3 Rab8 22.f4 Qe7 23.Rf1 Nb6 24.Rc2 Qb7 25.Qe2 Qd7 26.g4 Qe7 27.Rf3 Nd7 28.Qf2 Re8 29.h4 f5 30.exf6 gxf6 31.Re2 Qg7 32.g5 Qg6 33.Rg3 f5 34.gxh6 Qxh6 35.Rg5 Rg8 36.Qf3 Rg7 37.Kf1 Kg8 38.Qc6 Rxg5 39.fxg5 Qh7 40.Qxe6+ Kh8 41.Nf4 Rg8 42.h5 Rxg5 43.Ng6+ Rxg6 44.Qxg6 Qxg6 45.hxg6 Nf6 46.Re5 Ne4 47.Ke2 Kg7 48.Re6 Ng5 49.Ra6 f4 50.Rxa5 f3+ 51.Kf2 Kxg6 52.Ra3 Kf5 53.Rxf3+ Ke5 54.Rf8 Ne4+ 55.Ke2 Kd6 56.Kd3 Ng5 57.Rf6+ Kc7 58.Rf5 Ne6 59.a3 Kd7 60.b4 Kd6 61.Rf6 cxb4 62.axb4 Ke5 63.Rxe6+ Kxe6 64.Kxd4 1-0

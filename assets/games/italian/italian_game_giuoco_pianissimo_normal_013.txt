@@ -1,0 +1,15 @@
+[Event "Round 5: Sutormin, Danila - Pogorelskikh, Sergey"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/Tb7FWzws"]
+[Date "2026.07.07"]
+[Round "5.10"]
+[White "Sutormin, Danila"]
+[Black "Pogorelskikh, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2368"]
+[BlackElo "2190"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a5 7.Nbd2 Ba7 8.Re1 Be6 9.Bb5 O-O 10.h3 Ne7 11.d4 Ng6 12.Ba4 c6 13.Bc2 Nh5 14.Nf1 Nhf4 15.Ng3 f6 16.Ne2 Nxe2+ 17.Qxe2 Re8 18.Be3 b5 19.a4 b4 20.cxb4 axb4 21.dxe5 Bxe3 22.Qxe3 dxe5 23.Bb3 Nf4 24.Red1 Qe7 25.a5 c5 26.Bxe6+ Nxe6 27.Qb3 Rec8 28.Qc4 Kf8 29.Rd3 Nd4 30.Nd2 Rc7 31.a6 Qf7 32.Ra5 Qxc4 33.Nxc4 Rc6 34.Rd1 Raxa6 35.Rda1 Rxa5 36.Rxa5 Ne6 37.h4 Rc7 38.Ra6 Ke7 39.Nb6 Kf7 40.Nd5 Rd7 41.g3 h5 42.Kf1 Rb7 43.Ne3 b3 44.Nf5 Rd7 45.Nd6+ Ke7 46.Nf5+ Kf7 47.Nd6+ Kf8 48.Ke1 g6 49.Nc8 Kf7 50.Nd6+ Ke7 51.Nc8+ Kf7 1/2-1/2

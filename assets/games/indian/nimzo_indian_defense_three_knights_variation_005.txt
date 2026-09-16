@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.01.28"]
+[Round "7.1"]
+[White "MORONI, Luca Jr"]
+[Black "Iniyan, Pa"]
+[Result "0-1"]
+[WhiteElo "2551"]
+[BlackElo "2581"]
+[ECO "E21"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 h6 6.Bh4 c5 7.e3 cxd4 8.exd4 Qa5 9.Bd3 d5 10.O-O dxc4 11.Bxc4 Bxc3 12.bxc3 Ne4 13.Ne5 Nd7 14.Bd3 Nxc3 15.Qh5 Qd5 16.Bc2 Qxd4 17.Ng4 f5 18.Nxh6+ gxh6 19.Qg6+ Qg7 20.Qxe6+ Kh8 21.Rae1 Nc5 22.Qc4 b6 23.Re7 Ba6 24.Qb4 Ne2+ 25.Kh1 Qd4 26.a3 Qxb4 27.axb4 Nd4 28.Rd1 Nce6 29.Bb3 Nxb3 30.Rxe6 Rac8 31.Bf6+ Kg8 32.Bb2 Rfd8 33.Rg6+ Kf7 34.Rf6+ Ke7 35.Re1+ Kd7 36.Rxh6 Rc2 37.Be5 Kc8 38.h4 Nc1 39.Bf6 Nd3 40.Bxd8 Nxe1 41.Rh8 Kd7 42.h5 f4 43.h6 f3 44.Rh7+ Kxd8 45.Rh8+ Kc7 46.h7 Rxf2 47.g4 Re2 48.Rf8 f2 49.Rf7+ Kd6 50.Rxf2 Re8 51.g5 Bb7+ 52.Kg1 Nf3+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 5: Ocelak, Jakub - Frank, Adam"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/lPmWf5vD"]
+[Date "2026.07.18"]
+[Round "5.19"]
+[White "Ocelak, Jakub"]
+[Black "Frank, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2230"]
+[BlackElo "2358"]
+[ECO "E93"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Normal Defense"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Nd7 5.e4 e5 6.d5 Ngf6 7.Be2 O-O 8.Bg5 a5 9.Nd2 Nc5 10.g4 h6 11.Be3 Ne8 12.Rg1 Kh8 13.Qc2 f5 14.gxf5 gxf5 15.O-O-O f4 16.Bxc5 dxc5 17.Bg4 Nd6 18.Bxc8 Rxc8 19.Qd3 Kh7 20.Rg4 Rg8 21.Rdg1 Qd7 22.Qh3 Bf6 23.Qh5 Rxg4 24.Rxg4 Qf7 25.Qh3 Rg8 26.Qg2 Rxg4 27.Qxg4 Qg8 28.Qxg8+ Kxg8 29.Kd1 Kf7 30.Nb5 Bd8 31.Ke2 Kf6 32.Kf3 h5 33.Kg2 Nxb5 34.cxb5 b6 35.a4 Be7 36.b3 Kg6 37.Kh3 Bd6 38.Nf3 Kh6 39.Nh4 Kg5 40.Nf5 Bf8 41.f3 Kg6 42.Kg2 1/2-1/2

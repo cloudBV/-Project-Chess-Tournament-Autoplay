@@ -1,0 +1,15 @@
+[Event "Silvertown (London City Airport Docklands) FIDE Congress 11th-12th July 2026 - Under 2400"]
+[Site "The Tate Institute, 1 Wythes Road, London E16 2DN, United Kingdom"]
+[Date "2026.07.11"]
+[Round "2.2"]
+[White "Shevkunov, Vladyslav"]
+[Black "Bansal, Saahil"]
+[Result "1-0"]
+[WhiteElo "2164"]
+[BlackElo "2026"]
+[ECO "A13"]
+[TimeControl "G: 60 minutes + 30 seconds incr. from move 1"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 d4 5.d3 Be7 6.O-O Nc6 7.e3 e5 8.b4 Bxb4 9.Nxe5 Nxe5 10.Qa4+ c6 11.Qxb4 Nxd3 12.Qd2 Nxc1 13.exd4 Be6 14.Rxc1 Qd7 15.Qc3 Rd8 16.d5 cxd5 17.cxd5 Bxd5 18.Bxd5 Qxd5 19.Qb4 Qd6 20.Re1+ Kf8 21.Qxb7 Qd7 22.Qb4+ Qd6 23.Qa4 g6 24.Qxa7 Kg7 25.Nc3 Ra8 26.Qe3 Rhe8 27.Qf3 Rec8 28.Rad1 Qc5 29.Rd3 Qb4 30.Qxf6+ 1-0

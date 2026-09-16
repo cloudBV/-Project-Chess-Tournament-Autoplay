@@ -1,0 +1,14 @@
+[Event "Round 2: Caku, Kler - Hulka, Valentyn"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/Ihfm8ua2"]
+[Date "2026.07.05"]
+[Round "2.28"]
+[White "Caku, Kler"]
+[Black "Hulka, Valentyn"]
+[Result "1/2-1/2"]
+[WhiteElo "2034"]
+[BlackElo "2344"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Nd2 Ng4 9.Nc4 Nxe3 10.Nxe3 O-O 11.Ncd5 Bg5 12.a4 Be6 13.Bc4 Nd7 14.O-O Rc8 15.Qe2 Bxe3 16.Nxe3 Nf6 17.Qd3 Qc7 18.b3 Qc6 19.f3 Qc5 20.Kh1 Bxc4 21.Nxc4 Rfd8 22.Rad1 d5 23.Nxe5 h6 24.Ng4 Nxg4 25.fxg4 Qxc2 26.exd5 Qxd3 27.Rxd3 f6 28.h3 Kf7 29.Kh2 Re8 30.d6 Re5 31.d7 Rd8 32.Rc1 b5 33.Rc6 bxa4 34.bxa4 a5 35.Rcd6 Re4 36.R3d5 Rxa4 37.Ra6 Ra1 38.Raxa5 Rxa5 39.Rxa5 Rxd7 1/2-1/2

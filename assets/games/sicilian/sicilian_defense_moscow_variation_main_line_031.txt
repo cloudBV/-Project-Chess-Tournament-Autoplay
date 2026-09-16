@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/pQwtWLJv"]
+[Date "2026.07.14"]
+[Round "2.19"]
+[White "Carnicelli, Valerio"]
+[Black "Albornoz Cabrera, Carlos Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2592"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.d3 g6 7.c4 Bg7 8.Nc3 O-O 9.Rb1 a6 10.a3 Rc8 11.h3 e6 12.Bg5 Qc7 13.Qd2 Rfe8 14.Bh6 Qc6 15.Rfc1 Ne5 16.Ne1 b5 17.b3 bxc4 18.bxc4 Rb8 19.Bxg7 Kxg7 20.f4 Ned7 21.Nf3 Rxb1 22.Rxb1 Rb8 23.Rxb8 Nxb8 24.Qb2 1/2-1/2

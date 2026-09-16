@@ -1,0 +1,15 @@
+[Event "Round 3: Alaverdyan, Gevorg - Hayrapetyan, Hovik"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-3/ENOyEKsM/lumtcoa5"]
+[Date "2026.07.14"]
+[Round "3.7"]
+[White "Alaverdyan, Gevorg"]
+[Black "Hayrapetyan, Hovik"]
+[Result "0-1"]
+[WhiteElo "2266"]
+[BlackElo "2412"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Be6 10.a4 Nbd7 11.a5 Rc8 12.Qd2 Ng4 13.Bxg4 Bxg4 14.Nd5 Nf6 15.Ra4 Nxd5 16.exd5 Bd7 17.Rb4 Bb5 18.Rc1 Rc4 19.Rxc4 Bxc4 20.Na1 f5 21.b3 Bb5 22.c4 Bd7 23.f4 g5 24.fxe5 dxe5 25.Bb6 Qe8 26.Nc2 Bf6 27.d6 Qe6 28.Nb4 f4 29.Qd5 Qxd5 30.Nxd5 e4 31.h3 Be5 32.Bc5 Kf7 33.b4 e3 34.Kf1 Ke6 35.b5 Bxd6 36.Nc7+ Bxc7 37.Bxf8 axb5 38.a6 bxa6 39.Ra1 a5 40.cxb5 Bxb5+ 41.Kg1 Bb6 42.Bg7 e2+ 43.Kh1 Bf2 44.Bc3 a4 45.Rb1 Bc6 46.Rb2 f3 47.gxf3 Bxf3+ 48.Kh2 h5 49.Ra2 g4 50.hxg4 hxg4 51.Ra1 g3+ 52.Kh3 g2 53.Kh2 a3 54.Rb1 a2 55.Ra1 g1=Q+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Caruana, Fabiano - Kevlishvili, Robby"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/3W6Lb8mM"]
+[Date "2026.07.03"]
+[Round "2.1"]
+[White "Caruana, Fabiano"]
+[Black "Kevlishvili, Robby"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2523"]
+[ECO "A13"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 dxc4 4.Qa4+ Nd7 5.Qxc4 Ngf6 6.Qc2 c5 7.Nc3 Be7 8.Nf3 e5 9.O-O O-O 10.d3 Rb8 11.Nh4 b5 12.Nf5 Bb7 13.Bg5 Bxg2 14.Kxg2 a6 15.a4 Re8 16.axb5 axb5 17.Ra7 h6 18.Bh4 b4 19.Ne4 Bf8 20.Nxh6+ gxh6 21.Rxd7 Nxd7 22.Bxd8 Rexd8 23.g4 b3 24.Qc3 Bg7 25.Ra1 Nf8 26.Ra3 Ne6 27.e3 1-0

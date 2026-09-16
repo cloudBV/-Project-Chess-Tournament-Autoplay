@@ -1,0 +1,15 @@
+[Event "Round 9: Zhu, Linxi - Karthik Venkataraman"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/JQC4lD51"]
+[Date "2026.07.19"]
+[Round "9.3"]
+[White "Zhu, Linxi"]
+[Black "Karthik Venkataraman"]
+[Result "0-1"]
+[WhiteElo "2264"]
+[BlackElo "2566"]
+[ECO "B93"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Qc7 7.f5 h6 8.Be2 Nc6 9.g4 Nxd4 10.Qxd4 e5 11.fxe6 Bxe6 12.g5 hxg5 13.Bxg5 Be7 14.O-O-O Qc5 15.Qd2 Nd7 16.Bxe7 Kxe7 17.h4 g6 18.Rhf1 Rac8 19.Rf4 Ne5 20.Rdf1 Kd8 21.Nd5 Bxd5 22.exd5 Rc7 23.Rb4 Kc8 24.a3 Qa7 25.Kb1 Kb8 26.Rf6 Rd8 27.c3 Qg1+ 28.Ka2 Qg2 29.Qd1 a5 30.Rb5 Qe4 31.Rxa5 Qxh4 32.Rf1 Rc5 33.Ra4 Qh2 34.Rff4 Qg2 35.Rfd4 f5 36.Rab4 Rd7 37.Bb5 Rh7 38.Qb3 Rcc7 39.a4 Nf3 40.Rd3 Nd2 41.Qc2 Rh2 42.Re3 Qxd5+ 43.c4 Qc5 44.Re8+ Ka7 45.Qc3 Ne4 46.Qe1 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Thaler, Anton - Bodmer, Marcel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-3/GKNtLENx/JrNUoci7"]
+[Date "2026.07.13"]
+[Round "3.2"]
+[White "Thaler, Anton"]
+[Black "Bodmer, Marcel"]
+[Result "1-0"]
+[WhiteElo "2100"]
+[BlackElo "2046"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Alekhine Variation"]
+
+1.d4 Nf6 2.c4 g6 3.f3 Nc6 4.e4 e5 5.Ne2 exd4 6.Nxd4 Bg7 7.Be3 O-O 8.Nc3 Re8 9.Be2 d6 10.Qd2 Bd7 11.O-O Nxd4 12.Bxd4 Bc6 13.Rac1 Qd7 14.Rfd1 Rad8 15.Bf1 Qe7 16.Nd5 Bxd5 17.cxd5 Rc8 18.Bb5 Rf8 19.Rc2 a6 20.Bf1 Rfd8 21.Rdc1 Ne8 22.Bxg7 Kxg7 23.b4 Ra8 24.a4 h6 25.a5 Qe5 26.b5 f5 27.bxa6 bxa6 28.exf5 gxf5 29.f4 Qf6 30.Rc6 Rdb8 31.Bxa6 Rb2 32.Qd3 Kg8 33.Bc4 Qg7 34.g3 Rxa5 35.Ra6 Rxa6 36.Bxa6 Qe7 37.Qc3 Rb6 38.Re1 Qf7 39.Bc8 Kh7 40.Be6 Qf8 41.Qc2 Ng7 42.Qxc7 Rb2 43.Qf7 Qb8 44.Bxf5+ Kh8 45.Qg6 Qa7+ 46.Kh1 1-0

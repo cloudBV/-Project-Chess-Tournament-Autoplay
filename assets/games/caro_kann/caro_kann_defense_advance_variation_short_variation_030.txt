@@ -1,0 +1,15 @@
+[Event "Round 2: Moor, Nathaniel Philip - Novik, Maxim"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-2/MjzRlbHj/Vz6Bu4n7"]
+[Date "2026.07.16"]
+[Round "2.11"]
+[White "Moor, Nathaniel Philip"]
+[Black "Novik, Maxim"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2362"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O a6 7.a4 c5 8.c3 Ne7 9.dxc5 Nxc5 10.Nd4 Bg6 11.Be3 Nf5 12.Nxf5 Bxf5 13.Nd2 Bg6 14.f4 Rc8 15.Nf3 Be7 16.Nd4 O-O 17.a5 Nd7 18.g3 Bc5 19.Bf3 Nb8 20.Kg2 Qd7 21.Qa4 Bd3 22.Rfe1 Qe7 23.Rad1 Bxd4 24.Bxd4 Bb5 25.Qc2 Nc6 26.Bb6 Kh8 27.Qf2 Rg8 28.h4 Qe8 29.Kh2 Ne7 30.g4 Rc4 31.Rd4 h5 32.Rxc4 Bxc4 33.gxh5 Bd3 34.Qd4 Bh7 35.c4 Nf5 36.Qf2 Qa4 37.cxd5 Qxf4+ 38.Kh3 g5 39.Bg4 Qc4 40.d6 gxh4 41.Rg1 Ng3 42.Qd4 Rxg4 43.Qxc4 Rxc4 44.d7 Bf5+ 45.Kh2 Rc2+ 46.Rg2 Nf1+ 47.Kg1 1-0

@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.10"]
+[White "Rolvag, Mikael"]
+[Black "Strand, Andreas"]
+[Result "1-0"]
+[WhiteElo "2099"]
+[BlackElo "2009"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 d6 4.e3 Bg4 5.h3 Bh5 6.Be2 Be7 7.b3 Nbd7 8.d4 O-O 9.Bb2 c6 10.O-O e4 11.Nd2 Bxe2 12.Qxe2 d5 13.f4 a6 14.Rac1 b5 15.Rc2 Nb6 16.cxd5 cxd5 17.Rfc1 Qd7 18.Nd1 Rfc8 19.Nb1 Rxc2 20.Rxc2 Rc8 21.Qd2 h5 22.Rxc8+ Qxc8 23.Bc3 h4 24.Ba5 Nbd7 25.Qc3 Qb7 26.Bb4 Bxb4 27.Qxb4 Qc6 28.Nbc3 Nh5 29.a4 bxa4 30.Qxa4 Qd6 31.Qa5 Ndf6 32.Qc5 Qb8 33.b4 g6 34.Ne2 Ng3 35.Nxg3 hxg3 36.Kf1 Qb7 37.Nc3 Nd7 38.Qxd5 Qxb4 39.Nxe4 Nf8 40.Nxg3 a5 41.Ne4 a4 42.Nf6+ Kg7 43.Qe5 Qb1+ 44.Ke2 Ne6 45.Ne4+ Kg8 46.d5 Qb5+ 47.Kf3 Ng7 48.d6 Qc6 49.d7 Ne6 50.Qxe6 Qxe6 51.d8=Q+ Kg7 52.Qd4+ f6 53.Qxa4 Qd5 54.Qd4 Qh5+ 55.Kf2 Qh4+ 56.Kg1 Qe1+ 57.Kh2 Kh7 58.Nxf6+ Kh6 59.Ng4+ Kh7 60.Qd7+ 1-0

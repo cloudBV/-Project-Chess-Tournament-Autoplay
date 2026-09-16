@@ -1,0 +1,14 @@
+[Event "Round 3: Sai Krishna G V - Ivanovic, Marko"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/cLK3vnGU"]
+[Date "2026.07.05"]
+[Round "3.15"]
+[White "Sai Krishna G V"]
+[Black "Ivanovic, Marko"]
+[Result "1-0"]
+[WhiteElo "2450"]
+[BlackElo "2291"]
+[ECO "B96"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Bxf6 gxf6 9.Qf3 b5 10.O-O-O b4 11.Nce2 Bb7 12.Qh5 Qc5 13.e5 Bd5 14.f5 Bxa2 15.fxe6 Ra7 16.b3 dxe5 17.exf7+ Rxf7 18.Ne6 Qa5 19.Ng3 Bxb3 20.cxb3 Qa3+ 21.Kd2 Qxb3 22.Rc1 Bh6+ 23.Qxh6 Rd7+ 24.Ke1 Qxe6 25.Ne4 Rd4 26.Nxf6+ Kf7 27.Rc7+ Nd7 28.Bc4 1-0

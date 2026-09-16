@@ -1,0 +1,14 @@
+[Event "Round 8: Aronyak Ghosh - Baenziger, Fabian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/4NEwLs3s"]
+[Date "2026.07.21"]
+[Round "8.4"]
+[White "Aronyak Ghosh"]
+[Black "Baenziger, Fabian"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2435"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 a6 6.Bf1 Bg4 7.c3 e6 8.h3 Bxf3 9.Qxf3 Nf6 10.d3 Be7 11.Qd1 O-O 12.Nd2 d5 13.g3 Qc7 14.Nf3 b5 15.Bf4 e5 16.Bg5 Rad8 17.Qc2 Rfe8 18.Rad1 dxe4 19.dxe4 Nd7 20.Be3 c4 21.b3 Na5 22.Rd2 Nf6 23.Red1 cxb3 24.axb3 Rc8 25.Ra1 Nc6 26.Rxa6 Nb4 27.cxb4 Qxc2 28.Rxc2 Rxc2 29.Bxb5 Rec8 30.Nxe5 Bxb4 31.Bc4 Nxe4 32.Ra4 R2xc4 33.Nxc4 Bc5 34.Nb6 Bxb6 35.Bxb6 Nd2 36.b4 h6 37.Be3 Nc4 38.Bc5 Kh7 39.Kg2 Kg6 40.Kf3 Nd2+ 41.Ke2 Ne4 42.Ra5 Rd8 43.Ke3 Nxc5 44.Rxc5 Rd1 45.b5 Rb1 46.Kd4 Rb2 47.Kd5 Rxf2 48.b6 Rb2 49.Kc6 1-0

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.2"]
+[White "Antipov, Mikhail Al."]
+[Black "Marrujo Pardo, Mauricio Emmanuel"]
+[Result "1-0"]
+[WhiteElo "2626"]
+[BlackElo "2427"]
+[ECO "B52"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nf6 5.Nc3 g6 6.Bxd7+ Qxd7 7.d4 cxd4 8.Qxd4 Nc6 9.Qd3 Ng4 10.O-O Bg7 11.Bd2 O-O 12.Rad1 Nge5 13.Nxe5 Nxe5 14.Qe2 Qc6 15.b3 a5 16.Nd5 Rfe8 17.Bg5 f6 18.Be3 e6 19.Nc3 Red8 20.Bd4 Nf7 21.Qb2 Ng5 22.Rfe1 e5 23.Be3 Ne6 24.Nd5 Re8 25.Qd2 f5 26.exf5 gxf5 27.Bg5 Kf8 28.Bf6 Kf7 29.Qd3 Nd4 30.Bxg7 Kxg7 31.Qg3+ Kh8 32.Qh4 Qd7 33.Nf6 Rg8 34.Rxd4 Qg7 35.Nxg8 Rxg8 36.g3 exd4 37.Re7 Qg6 38.Qxd4+ Rg7 39.Rxb7 1-0

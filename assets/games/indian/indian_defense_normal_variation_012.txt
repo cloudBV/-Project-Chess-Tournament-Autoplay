@@ -1,0 +1,14 @@
+[Event "Round 2: Donchenko, Alexander - Wagner, Dennis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-2/Myf83mrs/HzMnv6Kt"]
+[Date "2026.07.07"]
+[Round "2.1"]
+[White "Donchenko, Alexander"]
+[Black "Wagner, Dennis"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2589"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 Bb4+ 4.Nd2 c5 5.dxc5 Bxc5 6.e3 O-O 7.Ngf3 Nc6 8.a3 b6 9.Be2 Bb7 10.O-O Nh5 11.Bg5 Be7 12.Bxe7 Nxe7 13.Rc1 Nf6 14.Qa4 Qc7 15.Nd4 a6 16.Rfd1 Rfd8 17.h3 h6 18.b4 d6 19.Qb3 Rac8 20.Qb1 Qd7 21.Bd3 Ba8 22.N4f3 Qb7 23.Qb2 a5 24.Bf1 axb4 25.axb4 d5 26.b5 Qb8 27.Qe5 dxc4 28.Qxb8 Rxb8 29.Bxc4 Rd6 30.Be2 Bxf3 31.Bxf3 Rbd8 32.Nc4 Rxd1+ 33.Rxd1 Rxd1+ 34.Bxd1 Ned5 35.Bf3 Kf8 36.Bxd5 Nxd5 37.Kf1 Ke7 38.Ke2 Nc3+ 39.Kd3 Nxb5 40.Nxb6 g5 41.Ke4 1/2-1/2

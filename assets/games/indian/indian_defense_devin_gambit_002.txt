@@ -1,0 +1,15 @@
+[Event "Round 4: Bastanov, Murat - Manafov, Vugar"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-4/D8Mz6sXW/KJhMU85e"]
+[Date "2026.07.18"]
+[Round "4.3"]
+[White "Bastanov, Murat"]
+[Black "Manafov, Vugar"]
+[Result "0-1"]
+[WhiteElo "2089"]
+[BlackElo "2399"]
+[ECO "E00"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Devin Gambit"]
+
+1.d4 Nf6 2.c4 e6 3.g4 d5 4.g5 Ne4 5.Bg2 Bb4+ 6.Kf1 O-O 7.h4 Be7 8.Nh3 c5 9.cxd5 exd5 10.Nf4 cxd4 11.Nxd5 Qxd5 12.Nc3 Nxc3 13.bxc3 Qb5 14.cxd4 Be6 15.Kg1 Nc6 16.d5 Rad8 17.e4 Ne5 18.Bf4 Bg4 19.f3 Qc5+ 20.Kf1 Bd7 21.a4 Bd6 22.Rc1 Qa3 23.Kg1 Nxf3+ 24.Qxf3 Qxf3 25.Bxf3 Bxf4 26.Rb1 Rc8 27.Rxb7 Rc1+ 28.Kf2 Rc2+ 29.Be2 Bg4 30.Re1 f6 31.Kf1 Bh3+ 32.Kg1 Bg3 0-1

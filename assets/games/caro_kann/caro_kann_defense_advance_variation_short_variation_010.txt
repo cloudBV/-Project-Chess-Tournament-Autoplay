@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "8.9"]
+[White "Huston, Gus"]
+[Black "Erenburg, Sergey"]
+[Result "0-1"]
+[WhiteElo "2345"]
+[BlackElo "2481"]
+[ECO "B12"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 h6 7.O-O Nd7 8.Nbd2 Bh7 9.a4 Nf5 10.a5 Be7 11.g4 Nh4 12.Nxh4 Bxh4 13.f4 f5 14.exf6 Nxf6 15.a6 b6 16.Nf3 Ne4 17.Ne5 Qc7 18.Qa4 b5 19.Qa5 Qxa5 20.Rxa5 Rc8 21.g5 Bf5 22.Bh5+ Ke7 23.Bg6 hxg5 24.fxg5 Bxg5 25.Bxg5+ Nxg5 26.Bxf5 exf5 27.Rxf5 Rh5 28.Rf1 Ke6 29.Raa1 Ne4 30.Rae1 Rg5+ 31.Kh1 Rh5 32.Rg1 Nf2+ 33.Kg2 Ne4 34.h3 c5 35.Nf3 Kd6 36.Kh2 g5 37.Re3 b4 38.dxc5+ Kxc5 39.c4 Rch8 40.Ne5 Kd4 41.Ng4 Nf2 42.Rf3 Rxh3+ 43.Kg2 Rxf3 44.Kxf3 Rf8+ 45.Ke2 Nh3 46.Rd1+ Kxc4 47.Ne5+ Kb3 48.Rd3+ Kc2 49.Ke3 Nf4 50.Rd2+ Kc1 51.Rh2 Rf6 52.Kd4 Rxa6 53.Kc5 b3 54.Kb4 Rb6+ 55.Kc3 Kb1 56.Rh7 a6 57.Rh2 a5 58.Nf3 g4 59.Nd2+ Ka2 60.Rh4 Rb4 61.Nf1 g3 0-1

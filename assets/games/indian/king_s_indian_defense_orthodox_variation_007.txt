@@ -1,0 +1,15 @@
+[Event "Round 8: Kavutskiy, Kostya - Jasinski, Alexander"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-8/fKPSQ5CP/yCIwsISM"]
+[Date "2026.07.04"]
+[Round "8.21"]
+[White "Kavutskiy, Kostya"]
+[Black "Jasinski, Alexander"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2127"]
+[ECO "E91"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 c5 7.d5 e6 8.h3 exd5 9.exd5 Bf5 10.O-O Ne4 11.Nxe4 Bxe4 12.Bd3 Bxf3 13.Qxf3 Nd7 14.Qd1 a6 15.a4 Ne5 16.Be2 f5 17.f4 Nf7 18.Bf3 Qf6 19.Qb3 Rab8 20.Rb1 Rfe8 21.Kh1 b5 22.axb5 axb5 23.cxb5 Qd4 24.b6 c4 25.Qa4 Rec8 26.Rd1 Qxb6 27.Bd2 Qb3 28.Qd7 Rd8 29.Qc6 Rdc8 30.Qd7 Rd8 31.Qe7 Re8 32.Qa7 Bxb2 33.Bc1 c3 34.Bxb2 cxb2 35.Qd4 Qc2 36.h4 Rec8 37.h5 Qxb1 38.Rxb1 Rc1+ 39.Kh2 Rxb1 40.hxg6 Rh1+ 41.Kg3 hxg6 42.Qf6 Rh6 43.Bg4 b1=Q 44.Bf3 Qe1# 0-1

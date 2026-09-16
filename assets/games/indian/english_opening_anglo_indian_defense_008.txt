@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.04"]
+[Round "1.2"]
+[White "Maltezeanu, Stefan"]
+[Black "Ghosh, Diptayan"]
+[Result "0-1"]
+[WhiteElo "2199"]
+[BlackElo "2554"]
+[ECO "A15"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 d4 5.e3 c5 6.exd4 cxd4 7.d3 Nc6 8.O-O h6 9.Bf4 Nd7 10.Re1 Bb4 11.Bd2 Bc5 12.Na3 O-O 13.Nc2 a5 14.a3 a4 15.Nb4 Ne7 16.b3 axb3 17.Qxb3 Ra7 18.h4 b6 19.Ne5 Bb7 20.Bxb7 Rxb7 21.a4 Nxe5 22.Rxe5 Qd7 23.Na6 Nc6 24.Ree1 Bd6 25.Bb4 Ra8 26.Bxd6 Qxd6 27.c5 Qd5 28.Qb5 Na7 29.Nb4 Qxc5 30.Qxc5 bxc5 31.Na6 c4 32.dxc4 Nc6 33.Nc5 Rb4 34.Rac1 Ra5 35.Nd3 Rbxa4 36.Kg2 Ra3 37.Rcd1 Rc3 38.c5 Ra2 39.Ne5 Nxe5 40.Rxe5 Rcc2 41.Rf1 Kf8 42.Re4 Rd2 43.Ree1 Rac2 44.Re5 Ke7 45.g4 f6 46.Rh5 e5 47.g5 hxg5 48.hxg5 f5 49.Kg3 Kf7 50.Rh8 Kg6 51.Rc8 Kxg5 52.c6 Rc3+ 53.f3 Rdc2 54.Re8 e4 55.c7 Rxc7 56.fxe4 R7c3+ 57.Rf3 f4+ 0-1

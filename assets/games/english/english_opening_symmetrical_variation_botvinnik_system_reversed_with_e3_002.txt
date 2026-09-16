@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-6-game-1/TspUZRQ3/vN4w5ZwQ"]
+[Date "2026.07.09"]
+[Round "11.7"]
+[White "Nerubatskyi, Danylo"]
+[Black "Gappa, Adam"]
+[Result "1-0"]
+[WhiteElo "2030"]
+[BlackElo "2003"]
+[ECO "A36"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with e3"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.e3 e5 6.Nge2 Nge7 7.O-O O-O 8.Nd5 d6 9.Nec3 Be6 10.Nxe7+ Qxe7 11.Nd5 Qd8 12.e4 Nd4 13.d3 Qd7 14.Be3 Bh3 15.Bxd4 exd4 16.Bxh3 Qxh3 17.Qf3 Qd7 18.Qg2 Rae8 19.a3 f5 20.f3 b6 21.b4 Bh6 22.b5 Rf7 23.a4 Ref8 24.Rae1 Bg7 25.exf5 gxf5 26.f4 Kh8 27.Re2 Re8 28.Rfe1 Re3 29.Nxe3 dxe3 30.Rxe3 Bd4 31.Kf1 Bxe3 32.Rxe3 Re7 33.Qe2 Rxe3 34.Qxe3 Qg7 35.Qe8+ Qg8 36.Qxg8+ Kxg8 37.Ke2 Kf7 38.Ke3 Ke6 39.h3 h6 40.g4 fxg4 41.hxg4 Kf6 42.Ke4 Ke6 43.g5 h5 44.f5+ Kf7 45.Kf4 1-0

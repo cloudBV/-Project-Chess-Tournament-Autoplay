@@ -1,0 +1,15 @@
+[Event "Round 4: Grutter, Tim - Cools, Gorik"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/EPWsxvjy"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Grutter, Tim"]
+[Black "Cools, Gorik"]
+[Result "0-1"]
+[WhiteElo "2390"]
+[BlackElo "2174"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O d6 5.d4 Nbd7 6.Re1 O-O 7.e4 e5 8.Nc3 Re8 9.h3 c6 10.a4 a5 11.Be3 Qc7 12.d5 Nb6 13.Nd2 cxd5 14.Nb5 Qd8 15.Bxb6 Qxb6 16.exd5 Qc5 17.Ra3 Bd7 18.Rc3 Qb4 19.Nc7 Qxb2 20.Rb3 Qd4 21.Nxa8 Rxa8 22.c3 Qxa4 23.Rxb7 Qa3 24.Qa1 Qc5 25.Reb1 h5 26.Nb3 Qc8 27.Nxa5 Bxh3 28.c4 Bxg2 29.Kxg2 e4 30.Nc6 Qxb7 31.Ne7+ Kf8 32.Rxb7 Rxa1 33.Nc8 Ne8 34.Rb8 Be5 35.Nb6 Ra7 36.Kf1 Rc7 37.Ke2 f5 38.Kd2 Kf7 39.Kc2 Bd4 40.Kb3 Bxf2 41.Na4 Bxg3 42.Nc3 h4 43.Nb5 Rd7 0-1

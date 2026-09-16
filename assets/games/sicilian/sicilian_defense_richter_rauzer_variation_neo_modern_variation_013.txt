@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "18.6"]
+[White "Craciun, Sasha-Matei"]
+[Black "Musial, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2175"]
+[ECO "B67"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Be7 10.Nxc6 Bxc6 11.f3 h6 12.Be3 h5 13.Ne2 Bb5 14.Nd4 Bxf1 15.Rhxf1 d5 16.e5 Nd7 17.f4 g6 18.g3 Nc5 19.h3 Ne4 20.Qe1 Bc5 21.g4 hxg4 22.hxg4 Qh4 23.Qa5 Qd8 24.Qe1 Qh4 25.Qa5 Qd8 26.Qxd8+ Rxd8 27.f5 gxf5 28.gxf5 Ke7 29.c3 Rdg8 30.fxe6 fxe6 31.Rh1 Ng3 32.Rxh8 Rxh8 33.Kc2 Rh2+ 34.Kb3 Bxd4 35.cxd4 Nf5 36.Bg5+ Kd7 37.Rd3 Rg2 38.Bd2 Rg3 39.Rxg3 Nxg3 40.a4 Kc6 41.Kc2 Nf5 42.Kc3 b5 43.axb5+ Kxb5 44.Bg5 Ng3 45.Kb3 Ne4 46.Be3 Ng3 47.Bg5 a5 48.Be7 Ne2 49.Bc5 a4+ 50.Ka3 Nc1 51.Bb4 Ne2 52.Bc5 Nf4 53.b3 axb3 54.Kxb3 Nd3 55.Bf8 Nf2 56.Kc3 Ka4 57.Be7 Ne4+ 58.Kc2 Ng3 59.Bf8 Nf5 60.Bc5 Nh6 61.Kc3 Nf7 62.Be7 Nh6 63.Bc5 Ng4 64.Bf8 Nf2 65.Be7 Kb5 66.Kb3 Ne4 67.Bf8 Nd2+ 68.Kc3 Nf3 69.Be7 Ka4 70.Bf8 Ng1 71.Be7 Ne2+ 72.Kd3 Nf4+ 73.Kc3 Ng6 74.Bg5 Nf8 75.Be7 Nd7 76.Bd8 Nb8 77.Be7 Nc6 78.Bc5 Nb8 79.Bd6 Nd7 80.Be7 Nb6 81.Bc5 Nc4 82.Bf8 Ne3 83.Be7 Nd1+ 84.Kc2 Nf2 85.Kc3 Ne4+ 86.Kc2 Nc3 87.Kxc3 1/2-1/2

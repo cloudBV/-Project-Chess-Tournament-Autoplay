@@ -1,0 +1,14 @@
+[Event "Round 7: Costantino, Claudio Emanuele - Palozza, Christian"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-7/0NCq6FGl/mkZtckP7"]
+[Date "2026.07.10"]
+[Round "7.3"]
+[White "Costantino, Claudio Emanuele"]
+[Black "Palozza, Christian"]
+[Result "1/2-1/2"]
+[WhiteElo "2222"]
+[BlackElo "2282"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 Qc7 4.Nc3 dxe4 5.dxe4 e5 6.Bc4 b5 7.Bb3 h6 8.Qe2 Nd7 9.a4 b4 10.Nd1 a5 11.Ne3 Ngf6 12.O-O Nc5 13.Nc4 Ba6 14.Re1 Nfd7 15.Be3 Be7 16.Rad1 O-O 17.Bxc5 Bxc5 18.Nh4 Nb6 19.Nf5 Bc8 20.Qg4 Bxf5 21.exf5 Be7 22.Nxb6 Qxb6 23.Rd7 Qc5 24.Qg6 Ra7 25.Red1 Kh8 26.Qg4 Rxd7 27.Rxd7 Rd8 28.f6 Bxf6 29.Rxd8+ Bxd8 30.Qd7 Qe7 1/2-1/2

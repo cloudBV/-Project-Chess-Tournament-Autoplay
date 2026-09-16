@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.05.19"]
+[Round "7.1"]
+[White "Kiss, Inez"]
+[Black "Biro, Beata"]
+[Result "0-1"]
+[WhiteElo "2078"]
+[BlackElo "2084"]
+[ECO "B40"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 a6 4.Bg2 b5 5.O-O Bb7 6.Re1 Nc6 7.c3 Nge7 8.d4 cxd4 9.cxd4 d5 10.e5 Nf5 11.a3 Qb6 12.Be3 Be7 13.Qd3 a5 14.Nc3 Nxe3 15.Qxe3 O-O 16.h4 a4 17.Bf1 b4 18.axb4 Qxb4 19.Bd3 Rfc8 20.Qf4 a3 21.Kg2 h6 22.Rh1 axb2 23.Rxa8 Rxa8 24.Ng5 Nd8 25.Ne2 Ra1 26.Bh7+ Kh8 27.Nxf7+ Kxh7 28.Ng5+ Bxg5 29.hxg5 Rxh1 30.g6+ Kg8 0-1

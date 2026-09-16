@@ -1,0 +1,14 @@
+[Event "Round 5: Tsarsitalidis, Christos - Korniotis, Filippos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/OqAAJKUc"]
+[Date "2026.07.08"]
+[Round "5.44"]
+[White "Tsarsitalidis, Christos"]
+[Black "Korniotis, Filippos"]
+[Result "1-0"]
+[WhiteElo "2184"]
+[BlackElo "2127"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.f4 a6 7.Nxc6 Qxc6 8.Bd3 Bc5 9.Qe2 b5 10.Bd2 Bb7 11.a3 Ne7 12.O-O-O h5 13.Rhe1 O-O-O 14.Kb1 Kb8 15.Na2 d5 16.exd5 Nxd5 17.Rc1 Nc7 18.Bb4 Bb6 19.g3 h4 20.Bc3 hxg3 21.hxg3 Rdg8 22.Be5 Rh3 23.c4 Rxg3 24.cxb5 Qf3 25.Qxf3 Rxf3 26.Be2 Re3 27.bxa6 Be4+ 28.Ka1 f6 29.Bxc7+ Bxc7 30.a7+ Kb7 31.Ba6+ Kxa6 32.Rxe3 Bxf4 33.Rxe4 Bxc1 34.a8=Q+ Rxa8 35.Rxe6+ Kb5 36.Nxc1 Rf8 37.Re7 g6 38.Rg7 f5 39.Rxg6 f4 40.Ne2 f3 41.Nd4+ Kc4 42.Nxf3 Rxf3 43.Rb6 Rf2 44.Ka2 Rh2 45.a4 Rh3 46.b3+ Kc5 47.Rb5+ Kc6 48.Ka3 Rh1 49.Kb4 Rh4+ 50.Ka5 Rh8 51.Rb6+ Kc7 52.b4 Ra8+ 53.Kb5 Rxa4 54.Rc6+ Kb7 55.Kxa4 Kxc6 56.Ka5 Kc7 57.Ka6 Kb8 58.b5 Ka8 59.b6 Kb8 60.b7 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Gnojek, Petr - Gibala, Adam"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/JszYnwYK"]
+[Date "2026.07.19"]
+[Round "6.9"]
+[White "Gnojek, Petr"]
+[Black "Gibala, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2406"]
+[BlackElo "2386"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c5 4.d5 b5 5.cxb5 a6 6.bxa6 d6 7.Bg2 Bg7 8.Nf3 O-O 9.O-O Nxa6 10.Nc3 Bf5 11.Nd2 Nb4 12.e4 Bc8 13.a3 Nd3 14.Qc2 Ba6 15.Bf3 Qb6 16.Be2 Nxc1 17.Rfxc1 Bxe2 18.Nxe2 Rfb8 19.Rab1 Nd7 20.b4 Qa6 21.Nc4 cxb4 22.axb4 Qa4 23.b5 Nc5 24.e5 dxe5 25.Nxe5 Qxc2 26.Rxc2 Bxe5 27.Rxc5 Ra5 28.Nc3 Bxc3 29.Rxc3 Raxb5 30.Rxb5 Rxb5 31.Rd3 Rb6 32.Kg2 f5 33.Re3 Kf7 34.h4 Kf6 35.f4 Rb2+ 36.Kf3 Rd2 37.Re6+ Kf7 38.Re5 Rd3+ 39.Kf2 Ke8 40.h5 Kf7 41.hxg6+ hxg6 42.Kg2 Ra3 43.Kf2 Ra6 44.g4 fxg4 1/2-1/2

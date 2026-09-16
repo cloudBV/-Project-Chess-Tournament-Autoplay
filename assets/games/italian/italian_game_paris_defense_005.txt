@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.07"]
+[Round "4.1"]
+[White "Degraeve, Jean-Marc"]
+[Black "Boyer, Mahel"]
+[Result "1/2-1/2"]
+[WhiteElo "2500"]
+[BlackElo "2492"]
+[ECO "C50"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.O-O Be7 5.a4 Nf6 6.d3 O-O 7.Nc3 a5 8.h3 Be6 9.Nd5 Bxd5 10.exd5 Nb4 11.d4 e4 12.Nd2 Nbxd5 13.Nxe4 Nb6 14.Bd3 Nxe4 15.Bxe4 d5 16.Bd3 Bg5 17.Qh5 h6 18.f4 Bf6 19.c3 Re8 20.Bd2 Nc4 21.Bxc4 dxc4 22.Qc5 Re2 23.Rf2 Qe7 24.Qxc4 Re8 25.Rxe2 Qxe2 26.Qxe2 Rxe2 27.Rd1 Bh4 28.c4 b6 29.d5 Re4 30.c5 Bf6 31.Kh1 Rd4 32.d6 Bd8 33.Re1 Rxd2 34.Re8+ Kh7 35.Rxd8 cxd6 36.cxb6 Rxb2 37.Rxd6 Rb4 38.Rd5 Rxb6 39.Rxa5 Rb4 40.f5 h5 41.f6 g6 42.Ra7 g5 43.Rxf7+ Kg6 44.Ra7 Kxf6 45.a5 Ra4 46.Kg1 g4 47.hxg4 hxg4 48.Kf2 Ra3 1/2-1/2

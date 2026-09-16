@@ -1,0 +1,15 @@
+[Event "Round 2: Gonzalez Alonso, Marti - Valenzuela Gomez, Fernando"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-2/Zrs9zMY7/ZEYieUGp"]
+[Date "2026.07.14"]
+[Round "2.10"]
+[White "Gonzalez Alonso, Marti"]
+[Black "Valenzuela Gomez, Fernando"]
+[Result "1-0"]
+[WhiteElo "2121"]
+[BlackElo "2346"]
+[ECO "B26"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 Rb8 7.Qd2 b5 8.a3 a5 9.Nf3 b4 10.Nd1 Nd4 11.O-O e6 12.axb4 axb4 13.Bxd4 cxd4 14.c3 dxc3 15.bxc3 Ne7 16.d4 Bb7 17.Re1 bxc3 18.Nxc3 O-O 19.Reb1 Ba8 20.Qd3 Rxb1+ 21.Rxb1 Qa5 22.Nb5 Rd8 23.Nd2 Bc6 24.d5 exd5 25.exd5 Bxb5 26.Rxb5 Qa1+ 27.Rb1 Qa7 28.h4 Nf5 29.Bh3 Nd4 30.Nf3 Qa2 31.Rd1 Ne2+ 32.Kg2 Nc3 33.Rd2 Qa5 34.h5 Re8 35.hxg6 hxg6 36.Be6 fxe6 37.Qxg6 Re7 38.dxe6 Qa8 39.Rxd6 Ne4 40.Rd7 Rxd7 41.exd7 Nf6 42.Qd3 Nd5 43.Qe4 Kf8 44.Ng5 Bf6 45.Nh7+ Kg7 46.Nxf6 Kxf6 47.d8=Q+ 1-0

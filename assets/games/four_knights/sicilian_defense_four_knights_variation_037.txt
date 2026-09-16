@@ -1,0 +1,14 @@
+[Event "Round 3: Tureshbayev, Anuar - Neboisa, Illijin"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-biel-hospital-centertri-rapid/round-3/hwdyMnjR/5gvlV1Bs"]
+[Date "2026.07.22"]
+[Round "3.1"]
+[White "Tureshbayev, Anuar"]
+[Black "Neboisa, Illijin"]
+[Result "1-0"]
+[WhiteElo "2246"]
+[BlackElo "2076"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 a6 7.Nxc6 dxc6 8.Qxd8+ Kxd8 9.e5 Nd7 10.Bf4 Kc7 11.O-O-O Be7 12.Ne4 b5 13.Nd6 Bxd6 14.Rxd6 Bb7 15.Be2 h6 16.Rhd1 Rad8 17.Bd2 Nb6 18.Ba5 1-0

@@ -1,0 +1,14 @@
+[Event "Round 7: Ntounias, Ioannis - Merkouropoulos, Dionysios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/FVZ6JmVE"]
+[Date "2026.07.10"]
+[Round "7.19"]
+[White "Ntounias, Ioannis"]
+[Black "Merkouropoulos, Dionysios"]
+[Result "1-0"]
+[WhiteElo "2109"]
+[BlackElo "2096"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c3 Bg5 13.g3 Ne7 14.h4 Bh6 15.Nxe7 Qxe7 16.Bg2 O-O 17.Nc2 Bb7 18.O-O Rac8 19.Qd3 f5 20.exf5 e4 21.Qe2 Rxf5 22.Bh3 Rff8 23.Bxc8 Bxc8 24.Rfe1 d5 25.Ne3 Qc5 26.Rad1 Be6 27.Qh5 Bxe3 28.Rxe3 Qc8 29.Rxd5 Bg4 30.Qe5 Bf3 31.Rd6 Qh3 32.Qe6+ Qxe6 33.Rxe6 Rd8 34.R6xe4 Bxe4 35.Rxe4 Rd2 36.Rb4 Kf7 37.Kg2 Ke6 38.a4 bxa4 39.Rxa4 Rxb2 40.Rxa6+ Ke7 41.Ra7+ Kf6 42.c4 Rc2 43.Rc7 h5 44.Kf3 g6 45.Ke3 Rc1 46.Kf4 Re1 47.c5 Rd1 48.Rc6+ Kg7 49.Rd6 Rc1 50.c6 Kh6 51.Ke5 Rc5+ 52.Ke6 1-0

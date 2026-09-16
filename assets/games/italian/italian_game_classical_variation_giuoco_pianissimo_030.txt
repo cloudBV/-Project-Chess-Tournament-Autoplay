@@ -1,0 +1,14 @@
+[Event "Round 4: Risteski, Emil - Postny, Evgeny"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/xKVNFhPT"]
+[Date "2026.07.06"]
+[Round "4.4"]
+[White "Risteski, Emil"]
+[Black "Postny, Evgeny"]
+[Result "1-0"]
+[WhiteElo "2408"]
+[BlackElo "2528"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 h6 7.Re1 O-O 8.h3 Bb6 9.Nbd2 Ne7 10.d4 Nc6 11.a4 a5 12.Ra3 Re8 13.Ba2 Ba7 14.Bb1 Bd7 15.Nf1 Nh7 16.Ng3 Qe7 17.Be3 Kh8 18.Qd2 Rad8 19.Rb3 exd4 20.cxd4 Nb4 21.e5 Qf8 22.Nh5 dxe5 23.Nxg7 Qxg7 24.Bxh6 Qg8 25.Bg5 Nxg5 26.Nxg5 f5 27.Rg3 f4 28.Qe2 Qg7 29.Qh5+ Kg8 30.Ne6 fxg3 31.Nxg7 Kxg7 32.Qg5+ Kf8 33.Qh6+ 1-0

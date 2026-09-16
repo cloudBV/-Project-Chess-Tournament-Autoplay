@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.12"]
+[Round "3.10"]
+[White "RenegadeHCE 1.3.1"]
+[Black "WaspHCE 7.16"]
+[Result "1-0"]
+[WhiteElo "3310"]
+[BlackElo "3194"]
+[ECO "C10"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Paulsen Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Be7 4.Nf3 Nf6 5.Bd3 b6 6.e5 Nfd7 7.Ne2 Ba6 8.Bxa6 Nxa6 9.O-O O-O 10.c3 c5 11.Nf4 b5 12.h3 b4 13.Qe2 c4 14.Qc2 Rb8 15.Qa4 Rb6 16.Qc2 bxc3 17.bxc3 Qc7 18.h4 Rfb8 19.h5 Qb7 20.h6 g6 21.Ne2 Nc7 22.g4 a5 23.Kg2 Nb5 24.a4 Na7 25.g5 Nc6 26.Ra2 Bf8 27.Re1 Be7 28.Qd1 Bf8 29.Nd2 Qa7 30.Nf1 Qc7 31.Bf4 Rb3 32.Qa1 Ne7 33.Neg3 R8b7 34.Nd2 Nf5 35.Nxf5 gxf5 36.Be3 R3b6 37.Qc1 Rb8 38.Qc2 Be7 39.Rea1 Qb7 40.Kg1 Rb2 41.Qc1 Bd8 42.f4 Be7 43.Kf1 Kf8 44.Ke2 Rb6 45.Bg1 Kg8 46.Rc2 Qc8 47.Kf2 R8b7 48.Kf3 Qb8 49.Raa2 Bd8 50.Be3 Nf8 51.Qd1 Ng6 52.Nf1 Rb1 53.Bc1 Be7 54.Nd2 R1b6 55.Qg1 Qf8 56.Qg3 Kh8 57.Kg2 Rb8 58.Qe3 Qe8 59.Qf2 Qd7 60.Kg1 Qc6 61.Qe3 Qc7 62.Nf3 Rd8 63.Rg2 Qd7 64.Nd2 Rdb8 65.Ra1 Kg8 66.Kh1 Kf8 67.Kh2 R8b7 68.Re2 Ke8 69.Ra2 Qc8 70.Nf1 Rb8 71.Bb2 Rb3 72.Rf2 Qd7 73.Qd2 Kd8 74.Bc1 Kc8 75.Qe1 Bd8 76.Rfc2 Qc7 77.Be3 Kd7 78.Qf2 Be7 79.Bc1 Ra8 80.Qe3 Ke8 81.Nd2 Rab8 82.Ra1 R3b7 83.Ba3 Bxa3 84.Rxa3 Kf8 85.Raa2 Rb3 86.Kg2 Qa7 87.Nf1 Rb1 88.Nd2 R1b3 89.Kf3 Kg8 90.Qg1 R8b7 91.Ke3 R3b6 92.Qc1 Rb8 93.Ra1 Qd7 94.Qa3 R6b7 95.Qc5 Ra8 96.Rcc1 Rb2 97.Qa3 Qb7 98.Rab1 Rb8 99.Qc5 Ra8 100.Kf3 Nh4+ 101.Kg3 Ng6 102.Rd1 Kh8 103.Re1 Kg8 104.Qa3 Rb8 105.Red1 Qb6 106.Rf1 Rb7 107.Rg1 Rb8 108.Rgf1 Rb7 109.Rfe1 Rb8 110.Rg1 Rb7 111.Qc5 Qxc5 112.dxc5 Ne7 113.Rxb2 Rxb2 114.Nf3 Kf8 115.g6 Nxg6 116.Ng5 Rc2 117.c6 Ke7 118.Nxh7 Kd8 119.Ng5 Rxc3+ 120.Kf2 Kc7 121.Nxf7 Nxf4 122.h7 Rh3 123.Rg7 Kxc6 124.h8=Q Rxh8 125.Nxh8 d4 126.Ng6 Nxg6 127.Rxg6 Kd5 128.Ke2 Kxe5 129.Kd2 Kd5 130.Rf6 Ke5 131.Rf8 f4 132.Rc8 Kd5 133.Ra8 c3+ 134.Kd3 e5 135.Rxa5+ Kd6 136.Ra8 f3 137.Rd8+ Ke6 138.Kc2 Ke7 139.Rb8 f2 140.Rb1 Kd6 141.a5 Kd5 142.a6 Kc4 143.Rh1 d3+ 144.Kc1 c2 145.Kd2 e4 146.a7 e3+ 147.Kxe3 f1=Q 148.Rxf1 d2 149.Kxd2 c1=Q+ 150.Rxc1+ Kd5 151.a8=Q+ Ke5 152.Qd8 Ke6 153.Qb6+ Kf5 154.Rg1 Ke4 155.Rg5 Kf3 156.Qe3# 1-0

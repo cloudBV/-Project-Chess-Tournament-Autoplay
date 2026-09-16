@@ -1,0 +1,14 @@
+[Event "Round 5: Proutsalis, Marios Alexandros - Raptis, Filippos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/SNw5MABa"]
+[Date "2026.07.08"]
+[Round "5.28"]
+[White "Proutsalis, Marios Alexandros"]
+[Black "Raptis, Filippos"]
+[Result "1/2-1/2"]
+[WhiteElo "2010"]
+[BlackElo "2276"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be6 7.Bd3 g6 8.O-O a6 9.N5c3 Bg7 10.Nd5 Nge7 11.Nbc3 O-O 12.Bg5 h6 13.Be3 Nd4 14.Qd2 Kh7 15.Nxe7 Qxe7 16.Nd5 Qd8 17.Rfe1 Rc8 18.Rac1 Bxd5 19.cxd5 Qb6 20.Rc3 Rc5 21.Bxd4 exd4 22.Rxc5 Qxc5 23.Rc1 Qb6 24.Rc4 Re8 25.g3 Re7 26.Kg2 Rc7 27.Qb4 Qxb4 28.Rxb4 Kg8 29.Kf3 Kf8 30.Rc4 Rxc4 31.Bxc4 d3 32.Bxd3 Bxb2 33.h4 Bd4 34.Ke2 Ke7 35.f4 Kf6 36.Kf3 g5 37.hxg5+ hxg5 38.Kg4 gxf4 39.gxf4 Be3 40.Kf3 Bd2 41.Kg4 Bc3 42.Be2 Ke7 43.Kf5 f6 44.Bf1 Kd7 45.Be2 Bd2 46.e5 fxe5 47.fxe5 dxe5 48.Kxe5 Bc3+ 49.Ke4 Kd6 50.Kd3 Bf6 51.Bf3 Kc5 52.Kc2 Kb4 53.d6 b5 54.d7 a5 55.Bd5 a4 56.Bg8 Kc5 57.Be6 Kd6 58.Bh3 b4 59.Bg4 Kd5 60.Be2 Kc5 1/2-1/2

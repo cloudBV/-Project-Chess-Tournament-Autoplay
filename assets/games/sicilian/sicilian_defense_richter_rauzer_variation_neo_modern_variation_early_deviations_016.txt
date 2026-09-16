@@ -1,0 +1,14 @@
+[Event "Round 4: Vlieger, Olaf - Bus, Tom"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/4g54GMez"]
+[Date "2026.07.24"]
+[Round "4.31"]
+[White "Vlieger, Olaf"]
+[Black "Bus, Tom"]
+[Result "1-0"]
+[WhiteElo "2115"]
+[BlackElo "2056"]
+[ECO "B66"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O h6 10.Bf4 d5 11.Qe3 Be7 12.Be2 O-O 13.h4 Kh8 14.g4 Qa5 15.g5 Bc5 16.Qg3 Nxe4 17.Nxe4 dxe4 18.gxh6 g6 19.Be5+ Kh7 20.h5 Bxf2 21.Qxf2 Qxe5 22.hxg6+ Kxg6 23.h7 f5 24.Rhg1+ Kf7 25.Bh5+ Ke7 26.Qh4+ Qf6 27.Rg7+ 1-0

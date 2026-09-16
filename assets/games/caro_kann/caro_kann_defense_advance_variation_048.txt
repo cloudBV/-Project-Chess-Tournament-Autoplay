@@ -1,0 +1,15 @@
+[Event "Round 7: Zuo, Junyu - Le Phan Hoang Quan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-7/zeEGIHSu/Y3ovIWVe"]
+[Date "2026.07.22"]
+[Round "7.26"]
+[White "Zuo, Junyu"]
+[Black "Le Phan Hoang Quan"]
+[Result "0-1"]
+[WhiteElo "2062"]
+[BlackElo "2110"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Ne7 6.Nf3 h6 7.Be2 g5 8.O-O Bg7 9.Ne1 Qc7 10.a4 Nd7 11.Bd2 c5 12.c3 a6 13.Kh1 Bg6 14.Rc1 Nf5 15.c4 dxc4 16.Rxc4 b5 17.Rc1 c4 18.axb5 axb5 19.Bb4 Bf8 20.Qd2 Qb6 21.Bxf8 Rxf8 22.Nc5 Nxc5 23.dxc5 Qxc5 24.Rd1 Rh8 25.b3 cxb3 26.Nd3 Qd4 27.Qc1 Kf8 28.Qb1 Qc3 29.Rc1 Qd2 30.Bf3 Rd8 31.Rcd1 Qc2 32.Nf4 Rxd1 33.Nxg6+ fxg6 34.Qxd1 Qxd1 35.Rxd1 Ke7 36.g4 Nh4 37.Be4 Rc8 38.Kg1 b2 39.Kf1 Nf3 40.Ke2 Rc1 41.Bxg6 Nxe5 42.Be4 Nc4 43.h3 Rxd1 44.Kxd1 Na3 0-1

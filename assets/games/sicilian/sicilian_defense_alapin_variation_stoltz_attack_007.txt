@@ -1,0 +1,15 @@
+[Event "Round 3: Martirosyan, David - Ftacnik, Lubomir"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-3/Wrjl6evm/CNRq1sNW"]
+[Date "2026.07.17"]
+[Round "3.7"]
+[White "Martirosyan, David"]
+[Black "Ftacnik, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2153"]
+[BlackElo "2408"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Stoltz Attack"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.Bc4 Nb6 6.Bb3 d5 7.exd6 c4 8.Bc2 Qxd6 9.O-O Bg4 10.Re1 Ne5 11.Rxe5 Bxf3 12.Qe1 Bd5 13.b3 e6 14.Na3 Be7 15.Nxc4 Nxc4 16.bxc4 Bxc4 17.d4 O-O 18.a4 Qd7 19.Bf4 Rac8 20.Rd1 Bd6 21.Re4 Bxf4 22.Rxf4 f5 23.Rf3 Bd5 24.Rg3 Qd6 25.Qd2 Rf6 26.Re1 Rg6 27.Rxg6 hxg6 28.Re3 g5 29.h3 Kf7 30.Re5 Qc6 31.Qxg5 Qxc3 32.Rxd5 exd5 33.Qxf5+ Ke7 34.Qe5+ Kf8 35.Qf5+ Ke7 36.Qe5+ Kf8 37.Qd6+ Kg8 38.Qxd5+ Kf8 39.Qd6+ Kg8 40.Qd5+ Kf8 41.Qd6+ Kg8 42.Qd5+ 1/2-1/2

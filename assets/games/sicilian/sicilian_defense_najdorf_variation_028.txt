@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.11"]
+[White "Chirilov, James A"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "0-1"]
+[WhiteElo "2254"]
+[BlackElo "2445"]
+[ECO "B95"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qf3 Nbd7 8.O-O-O Qc7 9.Bd3 Be7 10.Rhe1 h6 11.Qh3 Ne5 12.Kb1 Bd7 13.Bd2 Nc4 14.Bxc4 Qxc4 15.Nb3 b5 16.f4 b4 17.e5 bxc3 18.exf6 Bxf6 19.Bxc3 Bxc3 20.bxc3 Qxf4 21.Qd3 Bb5 22.Qxd6 Qxd6 23.Rxd6 Ke7 24.Rd4 Rac8 25.a4 Bc6 26.g3 Rhd8 27.Rb4 Rb8 28.a5 Bd5 29.Nc5 Rbc8 30.Nxa6 Ra8 31.Rb6 Rd6 32.c4 Bxc4 33.Nc5 Rxb6+ 34.axb6 Rb8 35.Kb2 Rxb6+ 36.Kc3 Bd5 37.Nd3 Kd6 38.Nb4 Kc5 39.Nxd5 Kxd5 40.Rd1+ Kc6 41.Rd8 Rb7 42.Kc4 Rd7 43.Rf8 Kd6 44.Kb5 Rb7+ 45.Kc4 f5 46.h4 Ke5 47.Kd3 Rb4 48.Ke3 Rg4 49.Kf3 Rc4 50.h5 Rc3+ 51.Kg2 Rxc2+ 52.Kf3 Rc4 53.Rg8 Kf6 54.Rf8+ Ke7 0-1

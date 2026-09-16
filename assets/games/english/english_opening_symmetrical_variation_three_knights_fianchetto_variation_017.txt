@@ -1,0 +1,15 @@
+[Event "Round 7: Ozturk, Efe Hakan - Odeev, Handszar"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/3UTYd61B"]
+[Date "2026.07.17"]
+[Round "7.36"]
+[White "Ozturk, Efe Hakan"]
+[Black "Odeev, Handszar"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2219"]
+[ECO "A37"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.Nf3 c5 2.c4 g6 3.Nc3 Bg7 4.g3 Nc6 5.Bg2 d6 6.O-O Bf5 7.d3 Qd7 8.Bd2 Nf6 9.Qc1 h5 10.h4 Bh3 11.Rb1 Rc8 12.a3 Nd4 13.Nxd4 cxd4 14.Nb5 Bxg2 15.Kxg2 Qc6+ 16.Kg1 Qb6 17.e3 d5 18.Nxd4 e5 19.Nf3 e4 20.dxe4 dxe4 21.Ng5 O-O 22.b3 Bh6 23.Nh3 Ng4 24.Qc3 Rfd8 25.Rfd1 Rd3 26.Qc2 Rcd8 27.c5 Qc7 28.Be1 Bxe3 29.Kg2 Qd7 30.Rxd3 exd3 31.Qc3 d2 32.fxe3 Qd5+ 33.Kg1 Qf3 34.Ng5 Qe2 35.e4 Ne3 36.Bf2 d1=Q+ 37.Rxd1 Rxd1+ 0-1

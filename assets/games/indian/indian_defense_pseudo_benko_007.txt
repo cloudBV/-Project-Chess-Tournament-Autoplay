@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "16.1"]
+[White "Cheese 3.3.2"]
+[Black "StockfishClassical 202007311012"]
+[Result "1/2-1/2"]
+[WhiteElo "3090"]
+[BlackElo "3552"]
+[ECO "A43"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Indian Defense: Pseudo-Benko"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 Bb7 5.Bxf6 exf6 6.a4 a6 7.e3 Qb6 8.Be2 Be7 9.Nc3 b4 10.a5 Qd6 11.Na4 Qxd5 12.Qxd5 Bxd5 13.Nb6 Bxf3 14.Bxf3 Ra7 15.O-O-O f5 16.Rd5 g6 17.Rhd1 O-O 18.Nxd7 Nxd7 19.Rxd7 Rxd7 20.Rxd7 Bd8 21.Be2 Bxa5 22.Bxa6 Kg7 23.Bc4 h5 24.g3 h4 25.gxh4 Kh6 26.Bxf7 Bd8 27.h5 Kxh5 28.Kd2 Bf6 29.b3 Rd8 30.Rxd8 Bxd8 31.Kd3 Bh4 32.f3 Kg5 33.Kc4 Kf6 34.Be8 g5 35.Kxc5 Be1 36.f4 Bd2 37.fxg5+ Kxg5 38.Bb5 Kg6 39.Kc4 Kg5 40.Bd7 Bc3 41.h4+ Kf6 42.h5 Be1 43.Be8 Ke7 44.Bb5 Kf6 45.Kd5 Kg5 46.Be8 Bc3 47.Kc4 Bd2 48.Kd4 Kh6 49.Kc5 Kg5 50.Bg6 Bc3 51.Bf7 Kf6 52.Be8 Kg5 53.Bg6 Be1 54.Kc4 Bc3 55.Kd5 Bd2 56.e4 fxe4 57.Kxe4 Bc3 58.Bf7 Bf6 59.Kd5 Bc3 60.Kd6 Bg7 61.Bg6 Bf8+ 62.Ke6 Bc5 63.Kf7 Bd4 64.Ke7 Kg4 65.Kd6 Kg5 66.Kd7 Be3 67.Kc6 Bd2 68.Kd5 Bf4 69.Ke6 Bd2 70.Ke7 Bc3 71.Ke6 Bd4 72.Kd5 Bc3 73.Bf7 Kh6 74.Be8 Kg5 75.Ke6 Bg7 76.Ke7 Bf6+ 77.Kd7 Bd4 78.Kc6 Bc3 79.Kb5 Be1 80.Kc5 Bd2 81.Bg6 Bc3 82.Kc4 Bd2 83.Bf7 Be1 84.Bg6 Bd2 85.Kd4 Be1 86.Ke5 Bc3+ 87.Kd5 Be1 88.Kd6 Bc3 89.Ke7 Bd2 90.Ke6 Bc3 91.Kd7 Bd4 92.Bf7 Bc3 93.Kc7 Bf6 94.Kb6 Be7 95.Kb7 Bf6 96.Be8 Kh6 97.Kc6 Bc3 98.Kb5 Kg5 99.Bg6 Be1 100.Ka4 Bd2 101.Ka5 Be1 102.Kb5 Bc3 103.Kc6 1/2-1/2

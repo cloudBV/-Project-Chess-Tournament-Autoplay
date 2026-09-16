@@ -1,0 +1,15 @@
+[Event "Round 2: Aydin, Gulenay - Akbas, Kaan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/USykmg8T"]
+[Date "2026.07.14"]
+[Round "2.34"]
+[White "Aydin, Gulenay"]
+[Black "Akbas, Kaan"]
+[Result "0-1"]
+[WhiteElo "2241"]
+[BlackElo "2174"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.e5 Ne4 6.a3 f5 7.exf6 Qxf6 8.Bb5 Nxc3 9.bxc3 Bd6 10.Bg5 Qf7 11.O-O O-O 12.Bh4 Ne7 13.Bg3 Nf5 14.Be5 Bd7 15.Bd3 Rae8 16.Qe2 Qh5 17.Kh1 Nh6 18.h3 Re7 19.Bg3 Nf5 20.Bh2 Ref7 21.Ne5 Qxe2 22.Bxe2 Bxe5 23.Bxe5 Ba4 24.Bd3 c6 25.Rab1 Bb5 26.Rfe1 a6 27.f3 Rc8 28.Kh2 Nh6 29.Re2 Re7 30.Bd6 Ree8 31.a4 Bxd3 32.cxd3 b5 33.Ra1 Nf7 34.Bc5 Nd8 35.axb5 axb5 36.Ra7 Rb8 37.Ra6 Kf7 38.f4 Nb7 39.Rxc6 Nxc5 40.dxc5 b4 41.cxb4 Rxb4 42.Kg3 Rb3 43.Re3 d4 44.Rf3 Rd8 45.f5 e5 46.f6 gxf6 47.Rcxf6+ Ke7 48.Rf7+ Ke6 49.Rxh7 Rg8+ 50.Kh4 Rxg2 51.c6 Rc3 52.c7 Rgc2 53.Rff7 Rxd3 54.Re7+ Kd5 55.Rh8 Rdc3 56.Rh5 Re2 57.Rd7+ Ke6 58.Rg7 Kf6 59.Rg4 Rxc7 60.Rh6+ Kf5 61.Rg5+ Ke4 62.Re6 Rh7+ 63.Kg3 Re3+ 64.Kg2 Kd5 65.Ra6 Rhxh3 66.Ra5+ Kc4 67.Ra4+ Kd3 68.Rxe5 Rxe5 69.Kxh3 Rg5 70.Kh4 Rg8 71.Ra3+ Ke2 72.Ra2+ Ke3 73.Ra7 d3 74.Re7+ Kd2 75.Rd7 Ke2 76.Re7+ Kd1 77.Rd7 d2 78.Rd6 Re8 79.Kg3 Ke2 0-1

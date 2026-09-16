@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.16"]
+[White "Le, Quang Long"]
+[Black "Foisor, Sabina-Francesca"]
+[Result "1-0"]
+[WhiteElo "2380"]
+[BlackElo "2150"]
+[ECO "A05"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 Bg4 4.c4 e6 5.Ne5 c6 6.cxd5 exd5 7.Nxg4 Nxg4 8.e4 Nf6 9.e5 Nfd7 10.O-O Be7 11.d4 Nf8 12.Nc3 Na6 13.Be3 Ne6 14.f4 f5 15.g4 fxg4 16.Qxg4 Nac7 17.f5 Bg5 18.Rae1 h5 19.Qd1 Nf8 20.Qd2 Bxe3+ 21.Qxe3 Nh7 22.f6 O-O 23.Qg3 Ne6 24.Bh3 Neg5 25.Bf5 gxf6 26.exf6 Kh8 27.Bxh7 Rxf6 28.Bf5 Qg8 29.Kh1 Raf8 30.Bd3 Nf3 31.Qxg8+ Kxg8 32.Re7 Rf4 33.Ne2 Rh4 34.Rf2 Rf6 35.Ng1 Rhf4 36.Nh3 Rh4 37.Ng5 Rxd4 38.Re3 1-0

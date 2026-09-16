@@ -1,0 +1,14 @@
+[Event "Round 5: Nikolaou, Spiridon - Kyparissopoulos, Spyridon"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/0nWpf3p5"]
+[Date "2026.07.08"]
+[Round "5.84"]
+[White "Nikolaou, Spiridon"]
+[Black "Kyparissopoulos, Spyridon"]
+[Result "1-0"]
+[WhiteElo "2124"]
+[BlackElo "2119"]
+[ECO "E49"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d5 7.Bd3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Ba2 Nc6 11.O-O Rd8 12.Ng3 b5 13.Qe2 a5 14.Bb2 b4 15.cxb4 axb4 16.dxc5 bxa3 17.Bxf6 gxf6 18.Qg4+ Kf8 19.Nh5 Ke7 20.f4 Qa5 21.Nxf6 Qc3 22.Nxh7 Bb7 23.Qg5+ Kd7 24.f5 Kc7 25.Nf6 Ne5 26.c6 Bxc6 27.fxe6 Rd2 28.e4 Ra5 29.Nd5+ Bxd5 30.Rac1 Rc2 31.Rxc2 Qxc2 32.Qxe5+ Kb6 33.Bxd5 a2 34.Qb8+ 1-0

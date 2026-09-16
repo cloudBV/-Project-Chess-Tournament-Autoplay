@@ -1,0 +1,14 @@
+[Event "Round 8: Gypser, Andreas, Dr. - Hochgraefe, Markus, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-8/1J1DUZFK/4Z7kZjXg"]
+[Date "2026.07.24"]
+[Round "8.3"]
+[White "Gypser, Andreas, Dr."]
+[Black "Hochgraefe, Markus, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2113"]
+[BlackElo "2324"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Nd7 10.Ng3 Nf8 11.f4 g6 12.f5 Bxg3 13.hxg3 Kg7 14.fxg6 hxg6 15.Qd2 g5 16.Qf2 Be6 17.Be3 Nd7 18.Rad1 Nb6 19.b3 Nd5 20.Bd2 b5 21.c4 bxc4 22.bxc4 Nb6 23.d5 cxd5 24.Bc3 Nd7 25.Qe3 Kf8 26.Qf2 dxc4 27.Bb1 Qb6 28.Bd4 Qd8 29.Qc2 Qa5 30.Qh7 Red8 31.Qh8+ Ke7 32.Bxf6+ Nxf6 33.Qxf6+ Ke8 34.Qh8+ Ke7 35.Qf6+ Ke8 36.Qh8+ 1/2-1/2

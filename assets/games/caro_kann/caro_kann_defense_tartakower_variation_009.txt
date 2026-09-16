@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-9/Yar24TEc/TzhGIG93"]
+[Date "2026.07.05"]
+[Round "9.10"]
+[White "Flores Quillas, Diego Saul Rodri"]
+[Black "Fraga, Heitor Carneiro"]
+[Result "1/2-1/2"]
+[WhiteElo "2420"]
+[BlackElo "2098"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Na6 10.c4 g6 11.Qd2 Be6 12.b3 f5 13.Rad1 Nc7 14.Bf4 a5 15.Bxd6 Qxd6 16.a4 b6 17.Bc2 Na6 18.h4 Qe7 19.Qf4 Bxc4 20.bxc4 Qxe2 21.Bxf5 gxf5 22.Qg5+ Kh8 23.Qf6+ Kg8 24.Qg5+ Kh8 25.Qf6+ Kg8 26.Qg5+ 1/2-1/2

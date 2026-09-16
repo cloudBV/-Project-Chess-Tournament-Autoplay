@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Normoria, Kristiansund"]
+[Date "2026.06.28"]
+[Round "5.1"]
+[White "Lund, Terje"]
+[Black "Gullaksen, Eirik"]
+[Result "1/2-1/2"]
+[WhiteElo "2016"]
+[BlackElo "2274"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Benjamin Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.g3 d6 6.Bg2 c6 7.O-O Qb6 8.c5 dxc5 9.Na4 Qd8 10.Nxc5 Nbd7 11.Nd3 Nb6 12.a4 a5 13.Re1 Bf5 14.Nc5 Nbd7 15.e4 Nxc5 16.exf5 Na6 17.fxg6 hxg6 18.Qb3 Nb4 19.Ne5 Nfd5 20.Bd2 Qd6 21.Nc4 Qd8 22.Ne5 Qd6 23.Nc4 Qd8 1/2-1/2

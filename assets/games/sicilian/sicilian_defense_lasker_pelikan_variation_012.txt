@@ -1,0 +1,14 @@
+[Event "Round 2: Soukarie, Zorz - Boutikos, Eleftherios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-2/v969Ghb2/CCsOZeVX"]
+[Date "2026.07.12"]
+[Round "2.3"]
+[White "Soukarie, Zorz"]
+[Black "Boutikos, Eleftherios"]
+[Result "0-1"]
+[WhiteElo "2011"]
+[BlackElo "2189"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Bd2 a6 11.Na3 a5 12.Bb5+ Nd7 13.O-O O-O 14.Nc4 f5 15.Qe1 b6 16.b4 axb4 17.Bxb4 Qc7 18.Qc3 Nf6 19.Qb3 Bb7 20.Rfd1 Kh8 21.Qe3 Nxd5 22.Rxd5 Bxd5 23.Nxb6 Qb7 24.Nxa8 Qxa8 25.f3 f4 26.Qd2 e4 27.Rd1 Rf5 28.fxe4 Bxe4 29.Bxd6 Rd5 30.Qxd5 Bxd5 31.Bxe7 Qa7+ 32.Kf1 Bxg2+ 33.Kxg2 Qb7+ 34.Kf2 Qxe7 35.Rd3 h5 36.h3 g5 37.c4 g4 38.hxg4 hxg4 39.a5 Qh4+ 40.Kf1 f3 41.a6 Qh2 42.Rd8+ Kg7 43.Rd7+ Kf6 0-1

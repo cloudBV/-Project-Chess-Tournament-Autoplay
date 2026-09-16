@@ -1,0 +1,15 @@
+[Event "Round 7: Huseyinoglu, Alihan - Citak, Selim"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/tImO2NVP"]
+[Date "2026.07.03"]
+[Round "7.15"]
+[White "Huseyinoglu, Alihan"]
+[Black "Citak, Selim"]
+[Result "1-0"]
+[WhiteElo "2395"]
+[BlackElo "2310"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d3 c5 7.Ne5 Nbd7 8.Nxd7 Bxd7 9.e4 Bc6 10.Qe2 Qd7 11.Nc3 d4 12.Nd1 b5 13.cxb5 Bxb5 14.b3 a5 15.Nb2 a4 16.bxa4 Bxa4 17.Nc4 Rfb8 18.Bf4 Rb7 19.g4 Bb5 20.g5 Ne8 21.Rfc1 Bxc4 22.Rxc4 Ra4 23.Qc2 Rba7 24.Rxa4 Qxa4 25.Qxa4 Rxa4 26.Kf1 f6 27.gxf6 gxf6 28.e5 fxe5 29.Bxe5 Bd6 30.Bc6 Ra3 31.Bxe8 Bxe5 32.Bb5 Bxh2 33.Bc4 Kf8 34.Ke2 Bc7 35.Bxe6 h5 36.Bc4 h4 37.Rh1 Bd8 38.Rg1 Bf6 39.Rg6 Ke7 40.f4 Rc3 41.Kf3 Rc1 42.Ke4 h3 43.Rh6 Rh1 44.Kf5 Bg7 45.Rh7 Kf8 46.Bd5 Rh2 47.a4 Rb2 48.a5 Rb5 49.a6 c4 50.dxc4 Ra5 51.Rxh3 Rxa6 52.Rb3 Rf6+ 53.Ke4 Bh6 54.f5 Ke7 55.c5 Ra6 56.Rb7+ Kd8 57.c6 Bg5 58.Rg7 1-0

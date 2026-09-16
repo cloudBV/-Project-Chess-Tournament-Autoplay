@@ -1,0 +1,14 @@
+[Event "Round 6: Kouvidis, Ioannis - Patrelakis, Evaggelos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/z1l6d1GJ"]
+[Date "2026.07.10"]
+[Round "6.4"]
+[White "Kouvidis, Ioannis"]
+[Black "Patrelakis, Evaggelos"]
+[Result "0-1"]
+[WhiteElo "2068"]
+[BlackElo "2461"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f3 g6 7.Be3 h5 8.Bc4 Bd7 9.Qd2 Nxd4 10.Bxd4 Bh6 11.Be3 Bxe3 12.Qxe3 Qa5 13.O-O-O Rc8 14.Bb3 Qc5 15.Qf4 Bc6 16.Rhe1 Qe5 17.Qxe5 dxe5 18.h4 e6 19.Ba4 Ke7 20.Rd2 Bxa4 21.Nxa4 Rhg8 22.b3 g5 23.hxg5 Rxg5 24.Rh1 Nd7 25.Nb2 Nf8 26.Nd3 Ng6 27.c4 Rd8 28.Rh2 h4 29.Kc2 Rg3 30.b4 f5 31.Re2 Kf6 32.c5 Rd4 33.exf5 exf5 34.Rh3 e4 35.Ne1 Rxh3 36.gxh3 Rxb4 37.Kc3 exf3 38.Nxf3 Re4 39.Rxe4 fxe4 40.Nd2 Ke5 41.Nc4+ Kf4 42.Nd6 e3 43.Nxb7 Kf3 0-1

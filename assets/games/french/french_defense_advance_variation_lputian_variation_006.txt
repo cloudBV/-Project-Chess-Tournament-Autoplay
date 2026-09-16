@@ -1,0 +1,15 @@
+[Event "Round 7: Adams, Michael - Willow, Jonah B"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-7/ruPHE0Ga/Ce0dqvRv"]
+[Date "2026.07.19"]
+[Round "7.2"]
+[White "Adams, Michael"]
+[Black "Willow, Jonah B"]
+[Result "1/2-1/2"]
+[WhiteElo "2622"]
+[BlackElo "2450"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Lputian Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Nh6 7.Bd3 cxd4 8.cxd4 Nf5 9.Bxf5 exf5 10.Nc3 Be6 11.O-O h6 12.Na4 Qb5 13.Nc3 Qb6 14.Na4 Qb5 15.Nc3 1/2-1/2

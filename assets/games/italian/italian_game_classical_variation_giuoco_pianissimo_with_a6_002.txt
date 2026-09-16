@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/nwn6Ev4u"]
+[Date "2026.07.04"]
+[Round "8.28"]
+[White "Lisowski, Krzysztof"]
+[Black "Warcaba, Jakub"]
+[Result "1-0"]
+[WhiteElo "2058"]
+[BlackElo "2018"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with a6"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.Nbd2 O-O 7.Bb3 Ba7 8.O-O d6 9.h3 Be6 10.Re1 h6 11.Nf1 d5 12.exd5 Nxd5 13.Ng3 Re8 14.Nh2 Qh4 15.Qf3 Rad8 16.Ng4 Nf4 17.d4 Ng6 18.Nf5 Bxf5 19.Qxf5 Nh8 20.Nxe5 Nxe5 21.Rxe5 c5 22.dxc5 g6 23.Qf4 Qxf4 24.Bxf4 Rxe5 25.Bxe5 Bxc5 26.Rd1 Rxd1+ 27.Bxd1 g5 28.b4 Ng6 29.Bc7 Be7 30.Bf3 Bf6 31.c4 b5 32.cxb5 axb5 33.Be2 Bc3 34.Bd6 Nf4 35.Bxb5 Nd5 36.a3 Bb2 37.Bc6 1-0

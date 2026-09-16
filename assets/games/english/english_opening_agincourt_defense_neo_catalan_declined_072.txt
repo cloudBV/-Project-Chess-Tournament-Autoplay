@@ -1,0 +1,15 @@
+[Event "Round 5: Korley, Kassa - Dushyant Sharma"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-5/Y7Gtnbzm/2JLX12bK"]
+[Date "2026.07.17"]
+[Round "5.5"]
+[White "Korley, Kassa"]
+[Black "Dushyant Sharma"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2353"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 e6 3.Bg2 Nf6 4.O-O Be7 5.c4 O-O 6.d3 b6 7.cxd5 Nxd5 8.d4 Bb7 9.Re1 c5 10.e4 Nf6 11.Nc3 cxd4 12.Nxd4 Bc5 13.Be3 Nbd7 14.e5 Bxg2 15.Kxg2 Nxe5 16.Nxe6 fxe6 17.Bxc5 bxc5 18.Rxe5 Qb6 19.Qe2 Ng4 20.Qxg4 Qxb2 21.Qxe6+ Kh8 22.Rf1 Qxc3 23.Re3 Qb4 24.Rd1 Qb7+ 25.f3 Qb2+ 26.Re2 Qa3 27.f4 Rac8 28.Rd7 c4 29.Qg4 Qc3 30.Ree7 Rg8 31.Rxg7 Rxg7 32.Rxg7 Rd8 33.Rxa7 Qd4 34.Qg5 Rc8 35.Qe7 Qd5+ 36.Kf2 Qd2+ 37.Kf3 Qd3+ 38.Kg4 Qg6+ 39.Kf3 Qd3+ 40.Kg4 Qg6+ 41.Kf3 Qd3+ 42.Kg2 Qd5+ 43.Kf1 Qh1+ 44.Kf2 Qxh2+ 45.Kf3 Qh5+ 46.Kf2 Qh2+ 47.Kf3 Qh5+ 48.Ke4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.2"]
+[White "Stanford, Sheila Barth"]
+[Black "Schouten, Mathias Lind"]
+[Result "0-1"]
+[WhiteElo "2149"]
+[BlackElo "2294"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Nh6 8.Bxh6 gxh6 9.Qd2 Bd7 10.Re1 O-O-O 11.a3 Kb8 12.b4 dxc3 13.Nxc3 Nd4 14.Qf4 Nxf3+ 15.Qxf3 f5 16.exf6 Bd6 17.Rad1 Rdf8 18.Bc2 Rf7 19.Ba4 Bc8 20.Nb5 Rhf8 21.Nxd6 Qxd6 22.Qd3 Rxf6 23.f3 Rf5 24.Bc2 Rh5 25.g3 Qb6+ 26.Qe3 Rxf3 27.Qxb6 axb6 28.a4 Rg5 29.Bxh7 Bd7 30.b5 Rg4 31.Bc2 Rc3 32.Rd2 Rg7 33.Bd1 Kc7 34.Rf2 Rc4 35.Rf6 h5 36.Bxh5 Rxa4 37.Be2 Kd6 38.Kf2 Ke7 39.Rh6 Rf7+ 40.Kg1 Re4 41.Rh4 Rxh4 42.gxh4 e5 43.Kg2 e4 44.h5 Kd6 45.Kg3 d4 46.h6 Ke5 47.Bh5 Rf6 48.Kh4 Rxh6 49.Kg5 Rxh5+ 50.Kxh5 d3 0-1

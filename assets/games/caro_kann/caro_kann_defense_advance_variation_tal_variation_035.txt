@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "4.3"]
+[White "Warchol, Kamil"]
+[Black "Rzap, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2036"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.c4 e6 6.Nc3 dxc4 7.Bxc4 Nd7 8.Nge2 Be7 9.g3 b5 10.Bb3 b4 11.Nb1 Nb6 12.Nd2 Nh6 13.Nc4 Nxc4 14.Bxc4 Be4 15.O-O Nf5 16.Bd3 Bxd3 17.Qxd3 g5 18.hxg5 Bxg5 19.Qe4 Rc8 20.Bxg5 Qxg5 21.Rac1 Kd7 22.Rc4 h4 23.g4 Rhg8 24.Rxb4 Qxg4+ 25.Qxg4 Rxg4+ 26.Kh2 Re4 27.Nc3 Rxd4 28.Rxd4+ Nxd4 29.Rd1 c5 30.Nb5 Rb8 31.Nxd4 cxd4 32.Rxd4+ Ke7 33.b3 Rb5 34.Rxh4 Rxe5 35.Ra4 a5 36.Kg3 Rc5 37.Rh4 1/2-1/2

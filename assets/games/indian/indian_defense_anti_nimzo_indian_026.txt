@@ -1,0 +1,15 @@
+[Event "Round 8: Sriram, Jha - Ilinca, Felix-Antonio"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-8/M7b2uBBM/Kedtdgus"]
+[Date "2026.07.11"]
+[Round "8.5"]
+[White "Sriram, Jha"]
+[Black "Ilinca, Felix-Antonio"]
+[Result "0-1"]
+[WhiteElo "2308"]
+[BlackElo "2495"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Bd6 6.Bg2 O-O 7.O-O Nbd7 8.c5 Be7 9.Nc3 Ne4 10.Nxe4 dxe4 11.Ne1 f5 12.f3 Nf6 13.Nc2 b6 14.b4 Bb7 15.Bf4 h6 16.Rc1 a5 17.c6 Bxc6 18.Ne3 exf3 19.exf3 Qd7 20.b5 Bxb5 21.Rxc7 Qe8 22.Rf2 Bd8 23.Rc1 Kh8 24.Be5 Qd7 25.g4 Rc8 26.gxf5 exf5 27.Bh3 Nh7 28.f4 Rxc1 29.Qxc1 Bd3 30.Qd1 Be4 31.Qh5 Kg8 32.Bf1 Bc7 33.d5 Nf6 34.Qd1 Bd6 35.Bd4 b5 36.Qb3 b4 37.Bb6 a4 38.Qd1 Kh7 39.Bd4 Nxd5 40.Nxd5 Bxd5 41.Bg2 Bxg2 42.Rxg2 Bc5 43.Rd2 Rd8 0-1

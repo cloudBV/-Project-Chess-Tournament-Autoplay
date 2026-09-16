@@ -1,0 +1,15 @@
+[Event "Round 4: Ribstein, Orel - Brezis, Ari"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-4/2mDZshgk/OiHjqCnT"]
+[Date "2026.07.16"]
+[Round "4.1"]
+[White "Ribstein, Orel"]
+[Black "Brezis, Ari"]
+[Result "1-0"]
+[WhiteElo "2190"]
+[BlackElo "2143"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 d4 5.d3 c5 6.e4 Nc6 7.e5 Nd7 8.Qe2 Be7 9.h4 O-O 10.O-O Kh8 11.Bh3 h6 12.Bf4 f6 13.exf6 Nxf6 14.Ne5 Nxe5 15.Bxe5 Nd7 16.Bxe6 Bf6 17.Bxf6 Qxf6 18.Bd5 Ne5 19.Nd2 Bg4 20.f3 Bh3 21.Rfe1 Rae8 22.Be4 g5 23.Qh2 Bd7 24.hxg5 Qxg5 25.Kh1 Qg7 26.Qh5 Re7 27.Re2 Ng4 28.fxg4 Bxg4 29.Qh2 Re5 30.Bf3 Bxf3+ 31.Nxf3 Rxf3 32.Rxe5 Qxe5 33.Qxh6+ Kg8 34.Qg6+ Kf8 35.Kg2 Qe2+ 36.Kh3 Rxd3 37.Qf5+ Ke7 38.Qxc5+ Kd7 39.Qd5+ Kc7 40.Qf7+ Kb6 41.Rf1 Ka6 42.Qf5 b6 43.Qc8+ 1-0

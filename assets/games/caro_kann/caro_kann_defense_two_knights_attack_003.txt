@@ -1,0 +1,14 @@
+[Event "Open: Shaw, Dashiell L - Carroll, Thomas"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/hx00njgq"]
+[Date "2026.07.04"]
+[Round "1.5"]
+[White "Shaw, Dashiell L"]
+[Black "Carroll, Thomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2022"]
+[BlackElo "2184"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Qa5 7.Bc4 Bf5 8.Qe5 Qxe5+ 9.Nxe5 e6 10.c3 Be7 11.d4 h5 12.Be3 g5 13.Bd3 Bxd3 14.Nxd3 Nd7 15.f4 Rg8 16.O-O gxf4 17.Bxf4 Bg5 18.Bd6 Be7 19.Bf4 c5 20.Ne5 1/2-1/2

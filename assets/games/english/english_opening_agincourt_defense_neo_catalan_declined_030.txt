@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "3.8"]
+[White "Lecki, Leonard"]
+[Black "Chuiko, Maksym"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2060"]
+[ECO "A14"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.Ne5 Nbd7 9.exd4 cxd4 10.Nxd7 Qxd7 11.d3 Rb8 12.Bf4 Bd6 13.Bg5 Ne8 14.Re1 b5 15.Qg4 e5 16.Qxd7 Bxd7 17.c5 Bxc5 18.Rxe5 Bd6 19.Rd5 Be6 20.Rxd6 Nxd6 21.Be7 Rfc8 22.Bxd6 Rc1+ 23.Bf1 Rbc8 24.Bf4 Rd1 25.Kg2 Bd5+ 26.Kg1 Re8 27.Bd2 Bf3 0-1

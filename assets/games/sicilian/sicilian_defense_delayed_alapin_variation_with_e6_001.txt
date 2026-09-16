@@ -1,0 +1,15 @@
+[Event "Chess Festival Ceske Budejovice 2026 - GM"]
+[Site "Clarion Congress Hotel Ceske Budejovice, Czech Republic"]
+[Date "2026.06.30"]
+[Round "1.3"]
+[White "Pap, Misa"]
+[Black "Ernst, Robert"]
+[Result "0-1"]
+[WhiteElo "2438"]
+[BlackElo "2401"]
+[ECO "B40"]
+[TimeControl "2x 90 minutes / 40 moves + 30 minutes + 30 second / move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.Bc4 Be7 8.O-O O-O 9.Qe2 dxe5 10.dxe5 Bd7 11.Bd2 Bc6 12.Nc3 Nb6 13.Bd3 N8d7 14.Ne4 Qc7 15.Bf4 Nd5 16.Bg3 Nb4 17.Bb1 Qb6 18.Rd1 Rfd8 19.a3 Nd5 20.Nd4 Ba4 21.Rd2 Nc5 22.Nxc5 Bxc5 23.Nf3 Ne7 24.b4 Bd4 25.Nxd4 Rxd4 26.Be4 Rad8 27.Rxd4 Qxd4 28.Re1 Bc6 29.Bc2 Qc3 30.Bh4 Rd2 31.Rd1 Rxd1+ 32.Qxd1 Nd5 33.Bg3 Qxa3 34.Qb1 Nc3 35.Bxh7+ Kh8 36.Qe1 Kxh7 37.h4 Qc1 38.Qxc1 Ne2+ 39.Kf1 Nxc1 40.f3 Nd3 41.Ke2 Nxb4 42.Ke3 a5 43.Kd4 a4 44.Kc3 a3 45.Kb3 a2 46.Kb2 Bd5 47.Bf2 Nd3+ 48.Ka1 Nxf2 49.g4 Nd3 50.h5 b5 51.f4 b4 52.g5 b3 53.g6+ Kh6 0-1

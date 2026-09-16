@@ -1,0 +1,15 @@
+[Event "Round 8: Dauw, Sterre - Manukyan, Sargis A."]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/HQh49J7W"]
+[Date "2026.07.21"]
+[Round "8.2"]
+[White "Dauw, Sterre"]
+[Black "Manukyan, Sargis A."]
+[Result "1/2-1/2"]
+[WhiteElo "2297"]
+[BlackElo "2376"]
+[ECO "B29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Closed Variation"]
+
+1.e4 c5 2.Nf3 Nf6 3.Nc3 d6 4.e5 dxe5 5.Nxe5 Nbd7 6.Nc4 e6 7.g3 Nb6 8.Ne3 Bd7 9.Bg2 Qc8 10.O-O Bc6 11.Re1 Be7 12.a4 Bxg2 13.Kxg2 Qc6+ 14.Qf3 Qxf3+ 15.Kxf3 Kd7 16.a5 Nbd5 17.Ncxd5 Nxd5 18.Nxd5 exd5 19.d3 Bf6 20.Rb1 Rhe8 21.Bd2 Kc6 22.b3 d4 23.g4 Be5 24.h4 Bd6 25.h5 Rxe1 26.Rxe1 b5 27.Bf4 Bf8 28.Re5 g6 29.Re1 a6 30.Rh1 Ra7 31.Bg5 Bd6 32.Re1 Ra8 33.Bf4 gxh5 34.gxh5 Rg8 35.Bg3 Kd7 36.Re4 Bxg3 37.fxg3 Rg5 38.Rh4 h6 39.g4 b4 40.Rh2 f5 41.gxf5 Rxf5+ 42.Ke4 Rg5 43.Rf2 Ke6 44.Rf8 Rxh5 45.Ra8 Rh4+ 46.Kf3 Rh2 47.Rxa6+ Kd5 48.Ra8 Rxc2 49.a6 Kc6 50.Rb8 Ra2 51.Rh8 Ra3 52.Ke4 Kb5 53.Rb8+ Kc6 54.Rh8 Rxa6 55.Rxh6+ Kb5 56.Rxa6 Kxa6 57.Kd5 Kb5 58.Kd6 c4 59.bxc4+ Ka4 60.c5 b3 61.c6 b2 62.c7 b1=Q 63.c8=Q Qxd3 64.Kd5 Kb3 65.Qb8+ Kc2 66.Qh2+ Kc3 67.Qc7+ Kd2 68.Qf4+ Kc3 69.Qc7+ Kb3 70.Qb6+ 1/2-1/2

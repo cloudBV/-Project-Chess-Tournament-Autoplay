@@ -1,0 +1,14 @@
+[Event "Rapid D16"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "11.1"]
+[White "Smietanska, Wiktoria"]
+[Black "Malicka, Magdalena"]
+[Result "1-0"]
+[WhiteElo "2135"]
+[BlackElo "2017"]
+[ECO "A28"]
+[Variant "Standard"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bc5 5.Nxe5 Nxe5 6.d4 Bd6 7.c5 Bxc5 8.dxc5 Qe7 9.Be3 Neg4 10.Bd4 Nxe4 11.Nd5 Nexf2+ 12.Nxe7 Nxd1 13.Nd5 c6 14.Nc7+ Kd8 15.Nxa8 Nde3 16.Bxe3 Nxe3 17.Kd2 Nxf1+ 18.Rhxf1 f6 19.Rae1 1-0

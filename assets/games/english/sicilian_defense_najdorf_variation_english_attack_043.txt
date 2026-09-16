@@ -1,0 +1,15 @@
+[Event "Round 4: Demski, Michal - Domanskiy, Mykola"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/AWIaNzAV"]
+[Date "2026.07.18"]
+[Round "4.26"]
+[White "Demski, Michal"]
+[Black "Domanskiy, Mykola"]
+[Result "1/2-1/2"]
+[WhiteElo "2183"]
+[BlackElo "2311"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Be6 10.Qe2 b5 11.Bb3 Nc6 12.Rfd1 Qc8 13.Bg5 b4 14.Nd5 Bxd5 15.Bxd5 Nxd5 16.Rxd5 Bxg5 17.Nxg5 Nd4 18.Qd3 Qxc2 19.Qxc2 Nxc2 20.Rad1 Nd4 21.Rxd6 Rfd8 22.Rxd8+ Rxd8 23.Kf1 Rc8 24.Nf3 Nxf3 25.gxf3 f6 26.Rd6 Rc2 27.Rxa6 Rxb2 28.a4 Ra2 29.a5 b3 30.Rb6 b2 31.Kg2 Kf7 32.a6 Kg6 33.a7 Rxa7 34.Rxb2 Kg5 35.Kg3 Ra1 36.Kg2 h5 37.Rb7 g6 38.Rg7 h4 39.Rh7 Rb1 40.Rh8 Rb7 41.Kh3 Rb3 42.Kg2 Rb7 43.Kh3 f5 44.exf5 gxf5 45.Rxh4 Rb3 46.Ra4 e4 47.Kg2 Rxf3 48.Rb4 Ra3 49.Rb8 Kf4 50.Re8 Ra6 51.Rg8 Rh6 52.Rg7 Rh4 53.Ra7 Rg4+ 54.Kf1 Rg8 55.Ra3 Rg7 56.Rb3 Rg4 57.Rb8 Rh4 58.Kg2 Rh7 59.Rb3 Rg7+ 60.Kf1 Rd7 61.Kg2 Rd5 62.Rb8 Rd2 63.Re8 Ra2 64.Re7 Ra8 65.Rg7 Re8 66.Rg3 Re7 67.Rb3 Re8 68.Rg3 Rd8 69.Rg7 Rd6 70.Rg8 Ra6 71.Rg7 Ra8 72.Rb7 Rg8+ 73.Kf1 Kg4 74.Rb4 Rg5 75.Ke2 Rh5 76.f3+ Kf4 77.fxe4 fxe4 78.Rb3 Rxh2+ 79.Ke1 Ra2 80.Rc3 Ke5 81.Rb3 Kd4 82.Rh3 Ke5 1/2-1/2

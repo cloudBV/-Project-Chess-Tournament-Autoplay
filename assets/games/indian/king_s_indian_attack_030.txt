@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/0FR4jNND"]
+[Date "2026.07.04"]
+[Round "8.9"]
+[White "Fraga, Heitor Carneiro"]
+[Black "Rojas Salas, Steven"]
+[Result "1/2-1/2"]
+[WhiteElo "2098"]
+[BlackElo "2419"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 Nf6 5.Ne5 Bf5 6.cxd5 cxd5 7.Nc3 Nc6 8.Qa4 Bd7 9.Nxd7 Qxd7 10.d4 e6 11.O-O Be7 12.Bg5 O-O 13.e3 a6 14.Rfc1 Rfc8 15.Bxf6 Bxf6 16.b4 Qe7 17.Rab1 b5 18.Qb3 Rab8 19.Bf1 Qf8 20.a3 Nd8 21.a4 Be7 22.axb5 axb5 23.Nxb5 Nc6 24.Rc3 Nxb4 25.Rbc1 Rxc3 26.Rxc3 Qe8 27.Qa4 Ra8 28.Qd1 Ra5 29.Qc1 Na2 30.Rc8 Nxc1 31.Rxe8+ Bf8 32.Rc8 Nb3 33.Rc2 Ra4 34.Rb2 Rb4 35.Kg2 Na5 36.Rxb4 Bxb4 37.Na7 f6 38.Bb5 Bc3 39.Nc6 Nb7 40.Ba6 Nd6 41.Nd8 e5 42.Nb7 Nf5 43.dxe5 fxe5 44.Nc5 Ne7 45.Bb7 Bb4 46.Nd3 Bd6 47.e4 d4 48.f4 Ng6 49.fxe5 Bxe5 50.Kf3 Kf7 51.Bd5+ Kf6 52.Nf2 h5 53.Nd3 Nf8 54.Ne1 g5 55.Ke2 g4 56.Nc2 h4 57.gxh4 Ng6 58.Kd3 Bxh2 59.Kxd4 Bg1+ 60.Kd3 Nf4+ 61.Kd2 Ke5 62.Ke1 g3 63.Kf1 Bf2 64.Ne1 Bxe1 65.Kxe1 Ng2+ 66.Kf1 Nxh4 67.Bb7 Nf3 68.Kg2 Kf4 69.e5 Nxe5 70.Ba8 Kg4 71.Bb7 Ng6 72.Ba8 Nf4+ 73.Kg1 Kh3 74.Bb7 Ne2+ 75.Kh1 Kg4 76.Kg2 Nd4 77.Ba8 Nf5 78.Bb7 Kf4 79.Ba8 Nh4+ 80.Kg1 Ke3 81.Bb7 Ke2 82.Ba8 Nf5 83.Kg2 Ke3 84.Bb7 Kf4 85.Ba8 Nh4+ 86.Kg1 Nf3+ 87.Kg2 Ne1+ 88.Kg1 g2 89.Bxg2 Nxg2 1/2-1/2

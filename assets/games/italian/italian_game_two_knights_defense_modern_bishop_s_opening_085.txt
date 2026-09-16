@@ -1,0 +1,15 @@
+[Event "Round 6: Umarov, Bekhruz - Gungor, Cihan Akif"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/CQHDpYcN"]
+[Date "2026.07.16"]
+[Round "6.22"]
+[White "Umarov, Bekhruz"]
+[Black "Gungor, Cihan Akif"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2062"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Kh8 8.a5 a6 9.h3 Ng8 10.Nc3 f5 11.Nd5 fxe4 12.dxe4 Nf6 13.Ng5 Nxd5 14.Nxh7 Rf4 15.g3 Qe8 16.Qxd5 Nd4 17.Bxf4 c6 18.Qf7 Qxf7 19.Bxf7 exf4 20.Red1 Nf3+ 21.Kg2 Ne5 22.Bh5 fxg3 23.f4 Kxh7 24.fxe5 dxe5 25.Kxg3 Be6 26.Bg4 Bxg4 27.Kxg4 Rf8 28.Rf1 Bf6 29.Rad1 Kg6 30.h4 Rh8 31.Rh1 Rb8 32.h5+ Kh6 33.Rd6 b6 34.axb6 Rxb6 35.b3 Rb4 36.Kf5 Rb6 37.Rxf6+ gxf6 38.Kxf6 Rb5 39.Rh3 a5 40.Ke6 Rc5 41.c4 a4 42.Kd6 Ra5 43.b4 Ra6 44.Ra3 Kxh5 45.Kc7 c5 46.b5 Rg6 47.b6 Kg4 48.b7 Rg8 49.b8=Q Rxb8 50.Kxb8 Kf4 51.Kc7 Kxe4 52.Kc6 Kd4 53.Kb5 e4 54.Rxa4 e3 55.Ra2 Kd3 56.Kxc5 Kc3 57.Kd5 Kb3 58.Re2 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Rosen, Willy - Sandner, Gunter"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/O9kW98Aa"]
+[Date "2026.07.20"]
+[Round "4.18"]
+[White "Rosen, Willy"]
+[Black "Sandner, Gunter"]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2236"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Chameleon Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 g6 4.d3 Bg7 5.g3 d6 6.Bg2 e6 7.O-O Nge7 8.Be3 Nd4 9.Qd2 O-O 10.Nd1 Rb8 11.c3 Nxe2+ 12.Qxe2 e5 13.Qd2 Nc6 14.c4 Be6 15.Nc3 Qd7 16.Rab1 a6 17.Nd5 b5 18.b3 Rb7 19.h4 Nd4 20.Bxd4 cxd4 21.Rbc1 Rc8 22.cxb5 axb5 23.Rxc8+ Qxc8 24.Rc1 Qd8 25.Rc6 Bf8 26.Qb4 Qa8 27.Rc2 Qb8 28.Kh2 Kg7 29.Qd2 Bxd5 30.exd5 Be7 31.Bh3 Rc7 32.Bg2 Rc5 33.b4 Rxc2 34.Qxc2 Qa7 35.Kg1 Qa3 36.Qc7 Bf8 37.Qa5 Qxd3 38.Bf1 Qb1 39.Qxb5 Qxa2 40.Qc4 Qxc4 41.Bxc4 Be7 42.f3 f5 43.Bd3 Kf6 44.Kg2 Bd8 45.Bc2 h5 46.Bd3 g5 47.hxg5+ Kxg5 48.Kh3 e4 49.fxe4 f4 50.Bf1 fxg3 51.Kxg3 h4+ 52.Kf3 Bb6 53.b5 Ba5 54.Bh3 Bc7 55.Bf1 1/2-1/2

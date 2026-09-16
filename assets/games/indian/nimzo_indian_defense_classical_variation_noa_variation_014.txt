@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/gdKM5rm7"]
+[Date "2026.07.14"]
+[Round "2.10"]
+[White "Pipiras, Filipa Fortuna"]
+[Black "Galaviz Medina, Sion Radamantys"]
+[Result "1/2-1/2"]
+[WhiteElo "2323"]
+[BlackElo "2505"]
+[ECO "E35"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bf4 c5 7.dxc5 Ne4 8.e3 Nd7 9.O-O-O Nxc3 10.bxc3 Ba3+ 11.Kb1 Nxc5 12.Bb5+ Bd7 13.Bxd7+ Qxd7 14.c4 O-O 15.Rxd5 Qc6 16.Nf3 Rfc8 17.Nd4 Qa6 18.Rd1 Ne6 19.Nxe6 fxe6 20.Rb5 Rc6 21.Qb3 Rac8 22.Rd4 Bc5 23.Rd7 Bf8 24.Rd4 Rc5 25.a4 Qc6 26.f3 b6 27.Be5 Qe8 28.Qd3 Qc6 29.Qb3 Rxc4 30.Rxc4 Qxc4 31.Qxc4 Rxc4 32.a5 Bc5 33.axb6 Bxb6 34.Rb3 Kf7 35.Rd3 Rc5 36.Bd4 Rd5 37.Ra3 Bxd4 38.exd4 a5 39.Kc2 Kf6 40.Kc3 h5 41.Kc4 h4 42.Re3 Rg5 43.Re2 Ke7 44.Re4 Rxg2 45.Rxh4 Kd6 46.Rh5 a4 47.Kb4 Rd2 48.Kxa4 Rxd4+ 49.Kb3 Rd3+ 50.Kc4 Rxf3 51.Rg5 Rh3 52.Rxg7 Ke5 53.Rg3 Rxh2 54.Re3+ Kf5 55.Kd3 Ra2 56.Rf3+ Ke5 57.Rf8 Ra3+ 58.Ke2 Ke4 59.Rb8 Ra2+ 60.Ke1 e5 61.Rb3 Kf4 62.Rc3 e4 63.Rb3 Rg2 64.Ra3 Rh2 65.Rb3 Rc2 66.Ra3 Rb2 67.Rc3 Ke5 68.Ra3 Kd4 69.Ra4+ Kd3 70.Ra3+ Kd4 71.Ra4+ Ke3 72.Ra3+ Kf4 73.Rc3 Ke5 74.Ra3 Kf5 75.Ra5+ Kf4 76.Ra3 Rb4 77.Ke2 Rb8 78.Ra2 Rh8 79.Ra3 Rc8 80.Ke1 Rd8 81.Ke2 Rc8 82.Ke1 Rg8 83.Rb3 Rg3 84.Rxg3 Kxg3 85.Ke2 Kf4 86.Kf2 e3+ 87.Ke2 Ke4 88.Ke1 Ke5 89.Ke2 Kd4 90.Ke1 Kd3 91.Kd1 Kc3 92.Ke2 Kd4 93.Ke1 Ke5 94.Ke2 Kf4 95.Ke1 Kg3 96.Ke2 Kf4 97.Ke1 Kf3 98.Kf1 e2+ 99.Ke1 Ke3 1/2-1/2

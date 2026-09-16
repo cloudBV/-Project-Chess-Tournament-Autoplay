@@ -1,0 +1,15 @@
+[Event "Round 8: Gilfanov, Marat I - Primbetov, Kazbek"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/kTmwfQA5"]
+[Date "2026.07.04"]
+[Round "8.36"]
+[White "Gilfanov, Marat I"]
+[Black "Primbetov, Kazbek"]
+[Result "0-1"]
+[WhiteElo "2301"]
+[BlackElo "2106"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Freak Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 Nc6 7.g4 Nxd4 8.Qxd4 Nxg4 9.Nd5 Be6 10.Bf4 Rc8 11.Qb4 g5 12.Bxg5 Rg8 13.Bf4 Ne3 14.Nxe3 Rxg1 15.O-O-O Qd7 16.Bg3 Bh6 17.f4 Qc6 18.a3 Kf8 19.Qd4 Bg7 20.e5 dxe5 21.fxe5 Rxg3 22.hxg3 Bh6 23.Bd3 Qc5 24.Qxc5 Rxc5 25.Kd2 Rxe5 26.Re1 Kg7 27.Bf1 Bf5 28.Bg2 b6 29.c4 a5 30.b4 axb4 31.axb4 Bg5 32.Bc6 h5 33.Bf3 Bg6 34.Bc6 Kf8 35.Bf3 Ke8 36.Bc6+ Kd8 37.Bf3 Kc7 38.Bg2 f6 39.Bd5 b5 40.Bg8 e6 41.c5 Kc6 42.Re2 Kd7 43.Re1 Ke7 44.Re2 Bh6 45.Re1 Kf8 46.c6 Ke7 0-1

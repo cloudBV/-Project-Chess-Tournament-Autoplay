@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "8.4"]
+[White "Kiszkiel, Oskar"]
+[Black "Achinovich, Oleg"]
+[Result "1-0"]
+[WhiteElo "2236"]
+[BlackElo "2126"]
+[ECO "C10"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bd3 Be7 8.Qe2 c5 9.Bf4 Nd5 10.Be5 f6 11.Bg3 Qa5+ 12.Qd2 Qxd2+ 13.Kxd2 Bd7 14.Rhe1 Kf7 15.Rad1 Rac8 16.c3 Rhd8 17.Be4 Ba4 18.Bc2 Bxc2 19.Kxc2 g5 20.dxc5 Bxc5 21.a3 h5 22.h4 g4 23.Nd2 f5 24.Nc4 f4 25.Rxd5 Rxd5 26.Bxf4 Bxf2 27.Re4 Bxh4 28.Nd6+ Rxd6 29.Bxd6 Rd8 30.Be5 Bf6 31.Rf4 1-0

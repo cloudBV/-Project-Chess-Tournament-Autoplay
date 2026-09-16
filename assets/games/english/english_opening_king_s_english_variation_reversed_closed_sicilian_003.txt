@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-8/VWY2fZWa/wG9c6lrg"]
+[Date "2026.07.12"]
+[Round "8.3"]
+[White "Miezis, Normunds"]
+[Black "Valdats, Reinis"]
+[Result "1-0"]
+[WhiteElo "2386"]
+[BlackElo "2342"]
+[ECO "A25"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+1.c4 e5 2.Nc3 Nc6 3.e3 Bc5 4.Nf3 d6 5.d4 exd4 6.exd4 Bb6 7.Bg5 Nge7 8.b4 h6 9.Be3 a6 10.c5 dxc5 11.dxc5 Qxd1+ 12.Rxd1 Ba7 13.a3 Be6 14.Bf4 Rc8 15.h4 O-O 16.Be2 a5 17.Rb1 Ng6 18.Be3 Bf5 19.Rb2 axb4 20.axb4 Nce5 21.Nxe5 Nxe5 22.O-O c6 23.Rd1 Rfd8 24.Rbd2 Rxd2 25.Rxd2 Bb8 26.Rd4 Kf8 27.Ne4 Ke7 28.Nd6 Bxd6 29.Rxd6 Be6 30.Bd4 Ng6 31.Bxg7 Nxh4 32.Be5 Ng6 33.Bg3 Bd5 34.Bh5 Rg8 35.b5 Rg7 36.b6 Rg8 37.Kh2 Rg7 38.f3 Rg8 39.Be1 Nf4 40.Bh4+ Kf8 41.Bf6 Ne6 42.Rxd5 cxd5 43.c6 Ke8 44.cxb7 Kd7 45.Be5 Ng7 1-0

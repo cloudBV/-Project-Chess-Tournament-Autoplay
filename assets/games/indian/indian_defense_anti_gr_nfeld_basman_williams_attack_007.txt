@@ -1,0 +1,15 @@
+[Event "Round 3: Kornienko, Konstantin - Ilamparthi A R"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/xFTResxk"]
+[Date "2026.07.23"]
+[Round "3.18"]
+[White "Kornienko, Konstantin"]
+[Black "Ilamparthi A R"]
+[Result "0-1"]
+[WhiteElo "2401"]
+[BlackElo "2524"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 Bg7 4.Nc3 c5 5.Nf3 O-O 6.dxc5 Qa5 7.Bd2 Qxc5 8.e3 b6 9.Rc1 Bb7 10.Be2 Nc6 11.O-O Qf5 12.Re1 Rac8 13.Nd4 Qe5 14.Bf3 h5 15.b3 Rfd8 16.Nde2 Qb8 17.Nf4 e6 18.Qe2 Ba6 19.Qd1 Ne5 20.Ne4 Nxf3+ 21.Qxf3 Ng4 22.Ng5 Bb7 23.e4 Bd4 24.Be3 Bxe3 25.fxe3 Rf8 26.Qg3 f6 27.Nf3 Bxe4 28.Nh2 Nxh2 29.Kxh2 Kh7 30.Rcd1 Rf7 31.Rd4 Bf5 32.Rd2 Bg4 33.e4 b5 34.cxb5 Qxb5 35.Rf2 Rff8 36.Re3 Qe5 37.Rd3 d6 38.Rfd2 Qa1 39.Rxd6 Rc1 40.Qe3 Rh1+ 41.Kg3 g5 42.hxg5 fxg5 43.Nd3 Qf1 44.Rd7+ Kh6 45.Nf2 h4+ 0-1

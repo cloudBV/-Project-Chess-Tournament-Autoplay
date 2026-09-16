@@ -1,0 +1,14 @@
+[Event "Round 1: Bagri, Jaspaul - Hugentobler, Patrick"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-1/c2xJGOXA/0Iso5MVw"]
+[Date "2026.07.11"]
+[Round "1.4"]
+[White "Bagri, Jaspaul"]
+[Black "Hugentobler, Patrick"]
+[Result "1/2-1/2"]
+[WhiteElo "2023"]
+[BlackElo "2162"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.exd4 cxd4 9.d3 Nc6 10.Re1 Re8 11.a3 a5 12.Ne5 Nxe5 13.Rxe5 Bd6 14.Rb5 Ra7 15.Bg5 h6 16.Bxf6 Qxf6 17.Nd2 Qe7 18.b4 axb4 19.axb4 Rxa1 20.Qxa1 Bxb4 21.Nb3 e5 22.Qa7 Be1 23.Nc5 Qf6 24.Ne4 Qa6 25.Qb6 Qxb6 26.Rxb6 Ba5 27.Rb5 Bc7 28.c5 Rd8 29.Nd2 Kf8 30.Bxb7 Bd7 31.Rb1 Rb8 32.c6 Bf5 33.Rb3 Be6 34.Rb5 Ke7 35.Kf1 g5 36.Ne4 Bd6 37.Ke2 f5 38.Nd2 g4 39.Nb3 Bxb3 40.Rxb3 1/2-1/2

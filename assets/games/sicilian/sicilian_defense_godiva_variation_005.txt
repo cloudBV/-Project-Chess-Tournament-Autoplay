@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.19"]
+[White "Lohia, Sohum"]
+[Black "Kaplan, Avi Harrison"]
+[Result "1/2-1/2"]
+[WhiteElo "2404"]
+[BlackElo "2251"]
+[ECO "B32"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nxc6 dxc6 6.Nd2 e5 7.Bc4 Nf6 8.O-O Bg4 9.Nf3 Rd8 10.Qe2 Qc7 11.Bg5 Be7 12.h3 Bxf3 13.Qxf3 O-O 14.Rfd1 b5 15.Bb3 Rxd1+ 16.Rxd1 Rd8 17.Rxd8+ Qxd8 18.g3 c5 19.Bxf6 Bxf6 20.Bd5 g6 21.h4 Kg7 22.h5 Qe7 23.Qe2 b4 24.a4 Bg5 25.c3 a5 26.Kg2 Qc7 27.Qc4 Qe7 28.hxg6 hxg6 29.cxb4 cxb4 30.Qc6 Qa7 31.Qb7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Kornienko, Konstantin - Bocharov, Dmitry"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/EcmIxLvR"]
+[Date "2026.07.21"]
+[Round "1.13"]
+[White "Kornienko, Konstantin"]
+[Black "Bocharov, Dmitry"]
+[Result "1-0"]
+[WhiteElo "2401"]
+[BlackElo "2534"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.Nc3 O-O 6.Qc2 Nbd7 7.Be2 b6 8.O-O Bb7 9.Rd1 c5 10.dxc5 bxc5 11.b3 Qc7 12.Bb2 Rfd8 13.Rac1 Rac8 14.cxd5 exd5 15.Qf5 Nf8 16.Na4 Qd6 17.Bd3 g6 18.Qh3 Ne6 19.Bb1 d4 20.Bd3 Nd5 21.Bc4 Bf6 22.Qg3 Qe7 23.exd4 Ndf4 24.Ba3 Qd6 25.Kh1 Nxd4 26.Nxc5 Bxf3 27.gxf3 Be5 28.Nd3 Qxa3 29.Nxe5 Nde2 30.Qg5 Rd5 31.Qf6 1-0

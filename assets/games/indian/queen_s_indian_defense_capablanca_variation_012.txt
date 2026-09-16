@@ -1,0 +1,15 @@
+[Event "Round 7: Hakobyan, Menua - Hayrapetyan, Hovik"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-7/YvfATwku/1dfqi4gR"]
+[Date "2026.07.18"]
+[Round "7.6"]
+[White "Hakobyan, Menua"]
+[Black "Hayrapetyan, Hovik"]
+[Result "0-1"]
+[WhiteElo "2228"]
+[BlackElo "2412"]
+[ECO "E16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.Qc2 d6 9.Nc3 Nbd7 10.e4 c5 11.O-O cxd4 12.Nxd4 a6 13.Rfd1 Qc7 14.b3 Rac8 15.Rac1 Rfd8 16.Rd2 Qb8 17.Rcd1 Qa8 18.Nde2 Ne8 19.Qb1 Nc5 20.Nf4 Bc6 21.b4 Na4 22.Nfe2 Nxc3 23.Nxc3 Qb8 24.b5 Bb7 25.Qb4 a5 26.Qb3 Qc7 27.Bf1 Nf6 28.f3 Nd7 29.Rxd6 Ne5 30.Rxd8+ Rxd8 31.Na4 g5 32.Be2 h6 33.Kf2 Rxd1 34.Qxd1 Nd7 35.Qd4 e5 36.Qd2 Kf8 37.h4 f6 38.Nc3 Nc5 39.Qe3 Qd7 40.Bf1 Kg7 41.hxg5 hxg5 42.Ke1 Kg6 43.Qd2 Qxd2+ 44.Kxd2 g4 45.Ke3 gxf3 46.Bh3 f2 47.Bf5+ Kf7 48.Kxf2 Nd3+ 49.Ke3 Nb2 50.c5 bxc5 51.g4 Ke7 52.Bh7 Nc4+ 53.Kd3 Nb6 54.Bg8 Kd6 55.a3 Bc8 56.Nd5 Nxd5 57.Bxd5 Bxg4 58.b6 Bh3 59.Kc3 Bf1 60.Kb3 Bb5 61.Kc3 a4 62.Kc2 Ba6 63.Kc3 Bb5 64.Kc2 Be2 65.Kc3 Bf1 66.Ba8 Bg2 67.Kc4 Bf1+ 68.Kc3 Bb5 69.Bd5 Ba6 70.Kc2 Bf1 71.Kc3 Be2 72.Ba8 Bf3 73.Kc4 Be2+ 74.Kc3 Bf1 75.Bd5 Bb5 76.Kc2 Bd7 77.Kc3 Bb5 78.Kc2 Ba6 79.Kc3 Bf1 80.Ba8 Bg2 81.Kc4 Bf1+ 82.Kc3 Bb5 83.Bd5 Be2 84.Ba8 Bf3 85.Kc4 f5 86.b7 Be2+ 87.Kc3 Kc7 88.exf5 Kb8 89.f6 Bh5 90.Kd3 Bg6+ 91.Kd2 c4 92.Kc3 Bf7 93.Kc2 e4 94.Kd2 Bg8 95.Kd1 Bf7 96.Kd2 Bh5 97.Kc2 e3 98.Kc3 e2 0-1

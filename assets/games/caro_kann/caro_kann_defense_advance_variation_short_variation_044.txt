@@ -1,0 +1,15 @@
+[Event "Round 2: Marrujo Pardo, Mauricio Emmanuel - England, Max"]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-2/cGYpNscz/7wTqsc6h"]
+[Date "2026.07.23"]
+[Round "2.6"]
+[White "Marrujo Pardo, Mauricio Emmanuel"]
+[Black "England, Max"]
+[Result "1/2-1/2"]
+[WhiteElo "2427"]
+[BlackElo "2253"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.c3 Nc6 7.O-O cxd4 8.cxd4 Nge7 9.Nc3 Bg4 10.Ne1 Bxe2 11.Nxe2 Nf5 12.Nf3 Be7 13.g4 Nh4 14.Nxh4 Bxh4 15.f4 Be7 16.Be3 Qb6 17.Rb1 h5 18.g5 1/2-1/2

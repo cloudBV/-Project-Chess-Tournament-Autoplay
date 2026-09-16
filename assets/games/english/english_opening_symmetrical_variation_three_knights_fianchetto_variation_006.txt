@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.07"]
+[Round "3.18"]
+[White "Xu, Yang"]
+[Black "Serrano Ruiz, Lope"]
+[Result "1/2-1/2"]
+[WhiteElo "2288"]
+[BlackElo "2066"]
+[ECO "A37"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.Nf3 g6 2.g3 c5 3.c4 Bg7 4.Nc3 Nc6 5.Bg2 d6 6.d3 e5 7.a3 Nge7 8.Rb1 b6 9.b4 Bb7 10.e4 O-O 11.h4 f5 12.Ng5 Qd7 13.Nd5 h6 14.Nh3 Nd4 15.Be3 Nxd5 16.cxd5 a5 17.Qd2 axb4 18.axb4 f4 19.Bxd4 cxd4 20.gxf4 Qg4 21.Kf1 Ra3 22.Qe2 Qd7 23.b5 exf4 24.Ng1 Qc7 25.Nf3 Rfa8 26.Ne1 Ra1 27.Rxa1 Rxa1 28.Bh3 Bc8 29.Be6+ Bxe6 30.dxe6 h5 31.Rg1 Kh7 32.Kg2 Bf6 33.Qb2 Qc3 34.Qe2 Qb3 35.Qf3 Qxe6 36.Qxf4 Be5 37.Qg5 Bf6 38.Qg3 Be5 39.f4 Bg7 40.Kh1 Qg4 41.Qh2 Qd7 42.Qg3 Qg4 43.Qxg4 hxg4 44.Nc2 Ra2 45.Rg2 Rb2 46.Na3 Rb3 47.Nc4 Rxd3 48.Nxd6 g3 49.e5 Rf3 50.e6 Re3 51.Nc4 Re1+ 52.Rg1 Rxe6 53.Rxg3 Re1+ 54.Kg2 Rb1 55.Nd6 Bf8 56.Nc4 Rxb5 57.Ne5 Bh6 58.Nxg6 d3 59.h5 Rxh5 60.Rxd3 Kxg6 61.Rd6+ Kf5 62.Rxb6 Bxf4 63.Rb7 Rh6 64.Kf3 Rh3+ 65.Kg2 Ra3 66.Kf2 Be5 67.Rb4 Bc3 68.Rc4 Ke5 69.Rg4 Bd2 70.Rg8 Bc3 71.Ke2 Bd4 72.Rh8 Kd5 73.Rh5+ Kc4 74.Rh4 Re3+ 75.Kd2 Rf3 76.Rh2 Ra3 77.Re2 Ra1 78.Kc2 Rh1 79.Rg2 Rh3 80.Re2 Rc3+ 81.Kd2 Ra3 82.Kc2 Rd3 83.Rg2 Rc3+ 84.Kd2 Ra3 85.Re2 Ra2+ 86.Kd1 Ra3 87.Kc2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.10"]
+[Round "7.8"]
+[White "Boyer, Mahel"]
+[Black "Raghav V"]
+[Result "0-1"]
+[WhiteElo "2492"]
+[BlackElo "2307"]
+[ECO "A45"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Indian Defense"]
+
+1.d4 Nf6 2.c3 e6 3.Bg5 d5 4.Nd2 c5 5.e3 Nc6 6.Bd3 Bd6 7.f4 O-O 8.Ngf3 Qb6 9.b3 Ng4 10.Qe2 f6 11.Bh4 cxd4 12.cxd4 e5 13.h3 Nh6 14.fxe5 fxe5 15.Bg3 Nf5 16.Bxf5 Bxf5 17.O-O Rae8 18.Kh1 Bb8 19.dxe5 Nxe5 20.Nxe5 Bxe5 21.Bxe5 Rxe5 22.Rae1 Rfe8 23.Rf3 Bg6 24.Qf2 h6 25.Rg3 Kh7 26.Nf3 Rf5 27.Qd2 Qd6 28.Rg4 Rf6 29.Nd4 Re4 30.Nb5 Qe5 31.Rxe4 Bxe4 32.Nc3 Bxg2+ 33.Kxg2 Rg6+ 34.Kh1 Qg3 35.Nxd5 Qxh3+ 0-1

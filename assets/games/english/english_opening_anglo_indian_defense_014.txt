@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.3"]
+[White "Diachek, Andrii"]
+[Black "Bilochenko, Matvii"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2036"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 Nc6 4.Nc3 Bb4 5.Nd5 O-O 6.Nxb4 Nxb4 7.d3 Re8 8.Nf3 d6 9.O-O a5 10.a3 Nc6 11.b3 Bg4 12.Bb2 Qd7 13.Re1 Rab8 14.Qc2 Bxf3 15.Bxf3 Nd4 16.Bxd4 exd4 17.b4 b6 18.Rab1 axb4 19.axb4 c5 20.Qb2 Qc7 21.Qa3 Nd7 22.Rb2 Ne5 23.Bg2 Nc6 24.Bxc6 Qxc6 25.Reb1 Ra8 26.Qb3 g6 27.bxc5 bxc5 28.Qc2 Re6 29.Rb8+ Rxb8 30.Rxb8+ Re8 31.Qb2 Rxb8 32.Qxb8+ Kg7 33.Qd8 Qa4 34.Qe7 Qa1+ 35.Kg2 Qa8+ 36.f3 Qa2 37.g4 h6 38.Kf2 Qa6 39.h4 Qb6 40.Qd7 Qa6 41.h5 g5 42.Qe7 Qc6 43.Qd8 Qa6 44.f4 gxf4 45.g5 d5 46.cxd5 hxg5 47.Qxg5+ Kh7 48.h6 Qxh6 49.Qxh6+ Kxh6 50.d6 Kg6 51.d7 1-0

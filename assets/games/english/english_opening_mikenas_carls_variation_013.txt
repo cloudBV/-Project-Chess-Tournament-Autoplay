@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.18"]
+[White "Garcia Brion, Eduardo"]
+[Black "Rubio Tent, Francisco"]
+[Result "1/2-1/2"]
+[WhiteElo "2173"]
+[BlackElo "2349"]
+[ECO "A18"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 e5 8.Qe2 Nc6 9.f4 e4 10.Qxe4+ Be7 11.Bd3 Bg4 12.Ne2 O-O-O 13.h3 Bxe2 14.Qf5+ Kb8 15.Qxf6 Bxd3 16.Qxf7 Bf6 17.Qh5 Nxd4 18.cxd4 Bxd4 19.Bb2 Rhe8+ 20.Qxe8 Rxe8+ 21.Kd2 Bxb2 22.Kxd3 Bxa1 23.Rxa1 c5 24.Rf1 Kc7 25.f5 Rd8+ 26.Kc3 Rd6 27.Rf3 a6 28.a4 Kd7 29.Rg3 g6 30.fxg6 hxg6 31.Rg5 Kc6 32.a5 b6 33.axb6 Kxb6 34.Kc2 Rf6 35.Kc3 Rd6 36.Kc2 Re6 37.Kd3 a5 38.Rg3 a4 39.Kc3 1/2-1/2

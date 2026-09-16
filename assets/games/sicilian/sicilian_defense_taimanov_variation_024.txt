@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Mulawa, Cyprian"]
+[Black "Raczek, Krzysztof"]
+[Result "1/2-1/2"]
+[WhiteElo "2245"]
+[BlackElo "2428"]
+[ECO "B46"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.g4 h6 8.Qd2 Nf6 9.f3 b5 10.O-O-O b4 11.Nce2 Ne5 12.Ng3 Bb7 13.h4 Nxf3 14.Nxf3 Qxg3 15.Bg2 Qc7 16.Bf4 Qc8 17.g5 Nxe4 18.Qd4 hxg5 19.hxg5 Rxh1 20.Bxh1 d6 21.Qxb4 Nf2 22.Ne5 Bxh1 23.Qa4+ Bc6 24.Nxc6 Qd7 25.g6 f6 26.Rd2 Nh3 27.Bg3 Rc8 28.Qh4 Ng5 29.Bxd6 Rxc6 30.Bb4 Qc7 31.Bxf8 Nf3 32.Qh8 Rxc2+ 33.Rxc2 Qf4+ 34.Kb1 Nd2+ 35.Rxd2 Qf1+ 36.Kc2 Qc4+ 1/2-1/2

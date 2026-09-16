@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.2"]
+[White "Pankiv, Maksym"]
+[Black "Karvatskyi, Oleksii"]
+[Result "1/2-1/2"]
+[WhiteElo "2410"]
+[BlackElo "2412"]
+[ECO "B30"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Qc7 6.O-O e5 7.Nh4 d5 8.f4 Bd6 9.exd5 cxd5 10.Nc3 Ne7 11.Nb5 Qc6 12.Nxd6+ Qxd6 13.Qe1 O-O 14.Qxe5 Qxe5 15.fxe5 Nc6 16.b3 Re8 17.Bb2 Nxe5 18.Rfe1 f6 19.Bxe5 fxe5 20.Nf3 e4 21.dxe4 dxe4 22.Nd2 Bf5 23.Nc4 Rad8 24.Re3 Rd4 25.Rae1 Red8 26.h3 h5 27.Rc3 Be6 28.Ne3 Rc8 29.Kf2 Kf7 30.Nf1 h4 31.Ke3 Kf6 32.Nd2 Ke5 33.Rf1 Bd5 34.Rf2 g5 35.Ke2 Re8 36.Rxc5 Rxd2+ 37.Kxd2 e3+ 38.Kxe3 Kd6+ 39.Kd4 Re4+ 40.Kd3 Kxc5 41.Rf5 Kd6 42.c4 Bc6 43.Rxg5 Re1 44.Rg4 Ra1 45.a4 Rb1 46.Kc3 Rh1 47.a5 Rh2 48.Rxh4 Bxg2 49.Rh6+ Kc7 50.h4 Rh3+ 51.Kb4 Bf3 52.Kc5 Be4 53.b4 Rf3 54.Re6 Rf5+ 55.Kd4 Bc6 56.b5 Bd7 57.Rh6 Rf4+ 58.Kc5 Rf5+ 59.Kb4 Rf4 60.a6 Be8 61.Rh7+ Bf7 62.Ka5 Kd6 63.Rh6+ Kc5 64.Rc6+ Kd4 65.c5 Rf2 66.Rc7 Ra2+ 67.Kb4 Rb2+ 68.Ka5 Ra2+ 69.Kb4 Rb2+ 70.Ka5 Ke5 1/2-1/2

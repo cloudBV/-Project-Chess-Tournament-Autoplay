@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.23"]
+[Round "27.3"]
+[White "Clockwork 20260705-7f4099f"]
+[Black "Sirius 3bedea6e"]
+[Result "1/2-1/2"]
+[WhiteElo "3354"]
+[BlackElo "3452"]
+[ECO "A54"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 e4 5.Ng5 Bf5 6.g4 Bxg4 7.Bg2 Bf5 8.Ngxe4 Nxe4 9.Nxe4 Nc6 10.O-O Qd7 11.f4 Bxe4 12.Bxe4 Be7 13.Bg2 Bf6 14.Be3 Ne7 15.Bf2 Ng6 16.e3 O-O 17.Qh5 c6 18.Rad1 Qe7 19.Rd3 Rad8 20.Bh1 Bh4 21.f5 Bxf2+ 22.Rxf2 Qh4 23.Qxh4 Nxh4 24.Rf4 g5 25.fxg6 Nxg6 26.Rf5 Ne7 27.Rg5+ Kh8 28.Bg2 f5 29.Bf3 Rf6 30.Kf2 Rh6 31.Kg3 Rf6 32.Rh5 Kg7 33.Kf2 d5 34.b3 dxc4 35.bxc4 b6 36.Rd1 Ng6 37.h3 Rd7 38.Rg1 f4 39.Rg4 c5 40.d5 fxe3+ 41.Kxe3 Re7+ 42.Re4 Ref7 43.Bg4 Rf1 44.Be2 R1f4 45.Rxf4 Rxf4 46.a4 Rd4 47.Rf5 Nh4 48.Rf2 Ng6 49.Bf1 1/2-1/2

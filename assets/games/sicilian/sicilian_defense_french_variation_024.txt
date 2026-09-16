@@ -1,0 +1,14 @@
+[Event "Round 2: Giordani, Luca - Collutiis, Duilio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-2/oA9G6M43/07kMA9J9"]
+[Date "2026.07.07"]
+[Round "2.3"]
+[White "Giordani, Luca"]
+[Black "Collutiis, Duilio"]
+[Result "1-0"]
+[WhiteElo "2156"]
+[BlackElo "2312"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Qxd4 Nc6 6.Qe3 d6 7.b3 Be7 8.Bb2 Nf6 9.h3 O-O 10.O-O-O Qc7 11.g4 b5 12.g5 Nd7 13.h4 Bb7 14.Rg1 Rfe8 15.h5 Rac8 16.g6 fxg6 17.Bh3 Bf6 18.Ng5 Nf8 19.hxg6 hxg6 20.Kb1 Nd8 21.Rd3 Nf7 22.Nxf7 Kxf7 23.a3 Rcd8 24.f4 Qc5 25.Qg3 Rc8 26.Re1 Be7 27.Rf1 Rcd8 28.f5 exf5 29.exf5 Bf6 30.fxg6+ Nxg6 31.Bg4 Qg5 32.Rf5 Qh4 33.Bh5 Re1+ 34.Ka2 Qxg3 35.Rxg3 Rc8 36.Bxg6+ Ke6 37.Rf2 Rc5 38.Re2+ Re5 39.Rxe1 Rxe1 40.Bh5 Be5 41.Rd3 g5 42.Bg4+ Kf7 43.a4 bxa4 44.Nxa4 Be4 45.Rd1 Rxd1 46.Bxd1 Kf6 47.Nc3 Bb7 48.Bg4 Bg2 49.Kb1 Ke7 50.Kc1 Kd8 51.Ne2 Bxb2+ 52.Kxb2 Ke7 53.Kc3 Be4 54.Ng3 Bg2 55.Kd4 1-0

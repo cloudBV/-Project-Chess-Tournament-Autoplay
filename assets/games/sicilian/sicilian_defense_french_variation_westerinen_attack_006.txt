@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "3.6"]
+[White "Lu, Maximillian"]
+[Black "Van Volsem, Merlijn"]
+[Result "1-0"]
+[WhiteElo "2458"]
+[BlackElo "2332"]
+[ECO "B40"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 a6 5.g3 Nf6 6.e5 Ng4 7.h3 Nh6 8.Bg2 Be7 9.O-O O-O 10.d4 cxd4 11.Nxd4 f6 12.Nxc6 bxc6 13.Nd2 fxe5 14.Bxe5 d5 15.c4 Nf7 16.Bb2 Bf6 17.Bxf6 Qxf6 18.Rc1 Bb7 19.b4 Nd6 20.cxd5 cxd5 21.Nb3 Rad8 22.Na5 Ba8 23.Qd3 Nc4 24.Nxc4 dxc4 25.Qe2 Bd5 26.Rc2 Rb8 27.a3 Rb5 28.Qe1 Qf5 29.Qc3 Ra8 30.Re1 a5 31.Re5 Qd3 32.Bxd5 exd5 33.Qxd3 cxd3 34.Rc5 d2 35.Rexd5 Rab8 36.Rxb5 Rxb5 37.Rxd2 axb4 38.Rb2 b3 39.Kg2 Kf7 40.Kf3 Ke6 41.Ke4 g5 42.g4 Rb8 43.Kd4 Rd8+ 44.Kc4 Rf8 45.a4 Rf4+ 46.Kxb3 Kd6 47.Rc2 Rf3+ 48.Kb4 Rxh3 49.a5 Rh1 50.Kb5 Rb1+ 51.Ka6 Rb4 52.f3 Rb3 53.Rh2 Rxf3 54.Rh5 Rf7 55.Rxg5 Kc6 56.Rg8 Rc7 57.g5 Kc5 58.Rf8 Kc6 59.Rf6+ Kc5 60.Rf5+ Kc6 61.Rf6+ Kc5 62.Rf5+ Kc6 63.Rf1 Rg7 64.Rc1+ Kd6 65.Kb6 Rxg5 66.Rc6+ Kd7 67.a6 Rg1 68.Kb7 Ra1 69.Rb6 1-0

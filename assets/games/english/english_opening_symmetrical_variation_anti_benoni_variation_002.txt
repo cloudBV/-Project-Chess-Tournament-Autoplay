@@ -1,0 +1,14 @@
+[Event "Round 8: Meier, Thomas, Dr. - Zimmer, Rolf"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-8/cM3nWZDC/0yGw9JkJ"]
+[Date "2026.07.03"]
+[Round "8.6"]
+[White "Meier, Thomas, Dr."]
+[Black "Zimmer, Rolf"]
+[Result "1-0"]
+[WhiteElo "2174"]
+[BlackElo "2021"]
+[ECO "A31"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e5 5.Nb5 Bc5 6.Nd6+ Kf8 7.Nc3 Nc6 8.e3 Qe7 9.Nde4 Nxe4 10.Nxe4 Bb4+ 11.Bd2 f5 12.Nc3 d6 13.Nd5 Bxd2+ 14.Qxd2 Qf7 15.O-O-O Be6 16.Be2 g6 17.h3 Kg7 18.g4 Rhd8 19.Kb1 Rac8 20.g5 e4 21.Nf4 Bxc4 22.Bxc4 Qxc4 23.Rc1 Qf7 24.h4 Qe7 25.Qc3+ Ne5 26.Qxc8 Rxc8 27.Rxc8 Qd7 28.Rc7 1-0

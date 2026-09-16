@@ -1,0 +1,15 @@
+[Event "Round 9: Rasulov, Vugar - Shubin, Kirill"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/yXRSR2QC"]
+[Date "2026.06.29"]
+[Round "9.1"]
+[White "Rasulov, Vugar"]
+[Black "Shubin, Kirill"]
+[Result "1/2-1/2"]
+[WhiteElo "2538"]
+[BlackElo "2490"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 b6 3.g3 c5 4.Bg2 Bb7 5.O-O g6 6.Nc3 Bg7 7.d4 cxd4 8.Qxd4 d6 9.Rd1 Nbd7 10.b3 O-O 11.Bb2 Ne4 12.Qe3 Nxc3 13.Bxc3 Bxc3 14.Qxc3 Qc7 15.Rac1 Nf6 16.Qe3 Rad8 17.h3 Kg7 18.b4 Rc8 19.g4 h6 20.Qa3 a5 21.bxa5 bxa5 22.Qe3 Rfe8 23.Qb3 Rb8 24.Qc3 Qc5 25.Ne1 Bxg2 26.Nxg2 Rec8 27.Ne3 Qb4 28.Qd3 Qb2 29.Rb1 Qxa2 30.Ra1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.08"]
+[Round "4.29"]
+[White "Pascual Garcia, Martin"]
+[Black "Di Benedetto, Edoardo"]
+[Result "0-1"]
+[WhiteElo "2125"]
+[BlackElo "2470"]
+[ECO "E49"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Bd3 Nc6 11.f4 b6 12.O-O Bb7 13.Ng3 Rfd8 14.Bb2 Nd5 15.Qh5 f5 16.Rae1 cxd4 17.cxd4 Nce7 18.Qf3 Ng6 19.Qe2 Nh4 20.Rf2 Rac8 21.Ref1 Nc3 22.Qe1 Ne4 23.Rc2 Qxc2 24.Bxc2 Rxc2 25.Nxe4 Rxg2+ 26.Kh1 Bxe4 0-1

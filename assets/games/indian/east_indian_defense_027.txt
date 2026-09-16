@@ -1,0 +1,14 @@
+[Event "Round 9: Daakshin Arun - Kalogridis, Antonios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/sLQaN0Qi"]
+[Date "2026.07.22"]
+[Round "9.13"]
+[White "Daakshin Arun"]
+[Black "Kalogridis, Antonios"]
+[Result "1/2-1/2"]
+[WhiteElo "2327"]
+[BlackElo "2399"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 Bg7 4.e4 O-O 5.Bd3 d6 6.O-O c5 7.c3 cxd4 8.cxd4 e5 9.dxe5 dxe5 10.Nc4 Nc6 11.Ncxe5 Nxe5 12.Nxe5 Qe7 13.Nf3 Rd8 14.Qe2 h6 15.h3 Nd7 16.Be3 Nc5 17.Bxc5 Qxc5 18.Rac1 Qb4 19.b3 Bd7 20.e5 b5 21.Rfd1 Rab8 22.Qe3 Be6 23.Be4 Rxd1+ 24.Rxd1 Re8 25.Bd5 a5 26.Bxe6 Rxe6 27.Rd4 Qa3 28.Rd8+ Kh7 29.Qf4 Re7 30.g3 Qc5 31.Qd4 Qxd4 32.Rxd4 f6 33.Rd5 fxe5 34.Rxb5 e4 35.Nd2 e3 36.fxe3 Rxe3 37.Kf2 Rd3 38.Nc4 a4 39.bxa4 Rc3 40.Ne5 Ra3 41.a5 Rxa2+ 42.Kf3 Ra3+ 43.Kf2 Ra2+ 44.Ke3 Ra3+ 45.Nd3 h5 46.Ke4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 2: Finek, Vaclav - Kosteniuk, Alexandra"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-qualifier/round-2/lolqObcM/o5niNbWy"]
+[Date "2026.07.01"]
+[Round "2.1"]
+[White "Finek, Vaclav"]
+[Black "Kosteniuk, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2593"]
+[BlackElo "2508"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 b6 6.Bg2 Bb7 7.O-O Bxd2 8.Qxd2 d6 9.Nc3 Ne4 10.Nxe4 Bxe4 11.Qe3 Bb7 12.Qd3 Nd7 13.e4 e5 14.Rfe1 O-O 15.Rad1 a5 16.b3 Rae8 17.Qd2 Qd8 18.dxe5 Nxe5 19.Nd4 Nc6 20.Nb5 Qc8 21.Nc3 Nb4 22.a3 Na6 23.Rb1 Nc5 24.b4 axb4 25.axb4 Nd7 26.f4 Rd8 27.Ra1 Qb8 28.g4 Rfe8 29.Re3 Nf8 30.Rf1 b5 31.cxb5 Qa7 32.Re1 Ne6 33.Qf2 Nf8 34.Rf3 Qa8 35.Rg3 Rb8 36.g5 Rbc8 37.h4 c5 38.bxc6 Bxc6 39.h5 Qb8 40.b5 Bb7 41.h6 Qc7 42.hxg7 Kxg7 43.Ne2 Qc2 44.Nd4 Qxf2+ 45.Kxf2 Red8 46.Rd3 Ng6 47.Nf5+ Kf8 48.Kg3 d5 49.e5 Rc2 50.Bf3 Ne7 51.Nxe7 Kxe7 52.Rh1 Bc8 53.Bg4 d4 54.Bxc8 Rcxc8 55.Kg4 Ke6 56.Rxh7 Rb8 57.b6 Rd7 58.Rh6+ Kd5 59.Kf5 Ra8 60.Rd6+ Rxd6 61.exd6 1-0

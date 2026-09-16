@@ -1,0 +1,15 @@
+[Event "Round 8: Umarov, Bekhruz - Jafarli, Babak"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/HDU3utqf"]
+[Date "2026.07.18"]
+[Round "8.19"]
+[White "Umarov, Bekhruz"]
+[Black "Jafarli, Babak"]
+[Result "1/2-1/2"]
+[WhiteElo "2268"]
+[BlackElo "2054"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5 9.Qd2 h6 10.O-O Qe7 11.Nh2 b6 12.f4 exf4 13.Bxf4 Ne5 14.a4 a5 15.Nd1 Be6 16.Rb1 O-O-O 17.Ne3 Kb7 18.b3 Rd7 19.Qe1 g5 20.Bg3 h5 21.Nf5 Bxf5 22.Rxf5 g4 23.Qe2 Ng6 24.Rbf1 h4 25.Be1 gxh3 26.gxh3 Qe6 27.Kh1 Rh7 28.Qg2 Bd4 29.Nf3 Bf6 30.Bc3 Bd8 31.Nh2 Qd6 32.Ng4 Qg3 33.Be5 Qxg2+ 34.Kxg2 Kc8 35.Bf6 Ra7 36.Bxd8 Kxd8 37.Ne3 Re7 38.Ng4 Rg7 39.Kf2 Re6 40.Ke3 Ke7 41.c3 Nf8 42.Rh5 Rh7 43.Rxh7 Nxh7 44.Rf5 Nf8 45.Ne5 f6 46.Nc4 Nd7 47.Rh5 f5 48.Rxh4 Kd8 49.Rh8+ Kc7 50.Rh7 fxe4 51.dxe4 Kd8 52.h4 Nf6 53.Rh8+ Kc7 54.e5 b5 55.axb5 cxb5 56.Nxa5 Rxe5+ 57.Kd3 Rd5+ 58.Ke3 Re5+ 59.Kd3 Rd5+ 60.Kc2 Ne4 61.Re8 Nd6 62.Rh8 Ne4 63.Rh7+ Kb6 64.b4 Rd2+ 65.Kc1 cxb4 66.cxb4 Rd4 67.Rh6+ Kc7 68.Rh7+ Kb6 69.Rh6+ Kc7 70.h5 Rxb4 71.Rc6+ Kd7 72.h6 Nd6 73.h7 Rh4 74.Ra6 Nf7 75.Ra7+ Ke6 1/2-1/2

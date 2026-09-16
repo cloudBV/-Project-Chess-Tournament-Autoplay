@@ -1,0 +1,15 @@
+[Event "Round 1: Park, Sihoo - Pham Tran Gia Phuc"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-1/nVdvyBmj/iQt1LJN3"]
+[Date "2026.07.14"]
+[Round "1.1"]
+[White "Park, Sihoo"]
+[Black "Pham Tran Gia Phuc"]
+[Result "0-1"]
+[WhiteElo "2021"]
+[BlackElo "2452"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: St. George Defense"]
+
+1.e4 e6 2.d4 a6 3.Nf3 d5 4.exd5 exd5 5.Bd3 Bd6 6.O-O Ne7 7.Re1 Nc6 8.c3 Bg4 9.Nbd2 Qd7 10.Qc2 h6 11.h3 Be6 12.b4 O-O 13.Ne5 Bxe5 14.dxe5 d4 15.Be4 Rad8 16.Nf3 dxc3 17.Qxc3 Nd5 18.Bxd5 Bxd5 19.a3 Qf5 20.Bb2 Rfe8 21.Rad1 Bxf3 22.Qxf3 Qxf3 23.gxf3 Kf8 24.f4 g6 25.Kf1 Ke7 26.Ke2 Ke6 27.Kf3 Kf5 28.Bc3 Rxd1 29.Rxd1 Rd8 30.Rxd8 Nxd8 31.Bd2 Ne6 32.Kg3 Ke4 33.Be3 b6 34.a4 c5 35.a5 bxa5 36.bxc5 a4 37.f5 gxf5 38.Bxh6 f4+ 0-1

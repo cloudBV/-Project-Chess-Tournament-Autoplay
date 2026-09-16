@@ -1,0 +1,14 @@
+[Event "Round 10: Mogollon Tobar, Nicolle Julieth - Moncada Correa, Sara"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-femenino/round-10/2nCK6MMT/eUpOaONR"]
+[Date "2026.07.12"]
+[Round "10.2"]
+[White "Mogollon Tobar, Nicolle Julieth"]
+[Black "Moncada Correa, Sara"]
+[Result "0-1"]
+[WhiteElo "2040"]
+[BlackElo "2077"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.c3 e6 8.Ne2 c5 9.O-O Nc6 10.Be3 Nge7 11.Nd2 cxd4 12.cxd4 Nf5 13.Nf3 Be7 14.g3 O-O 15.a3 Rac8 16.Rac1 Qd8 17.b4 Qd7 18.Nf4 g6 19.Ne2 Nb8 20.Bg5 Rxc1 21.Rxc1 Bxg5 22.Nxg5 Rc8 23.Qd2 Rc4 24.Rxc4 dxc4 25.Ne4 Qd8 26.b5 Nd7 27.Qc3 Nb6 28.a4 Nxa4 29.Qxc4 Nb6 30.Qc5 Qc8 31.Nd6 Qd7 32.Nc3 Ne7 33.Nce4 Ned5 34.Qa3 Qc7 35.Nc5 a6 36.bxa6 bxa6 37.Qxa6 Qb8 38.Qb5 Qa8 39.Kg2 Ne3+ 0-1

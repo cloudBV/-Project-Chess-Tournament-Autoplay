@@ -1,0 +1,15 @@
+[Event "Round 4: Movsziszian, Karen - Tanenbaum, Zachary"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-4/U5p4vRB1/o6IdjlID"]
+[Date "2026.07.17"]
+[Round "4.7"]
+[White "Movsziszian, Karen"]
+[Black "Tanenbaum, Zachary"]
+[Result "1-0"]
+[WhiteElo "2386"]
+[BlackElo "2310"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.g3 d5 2.Nf3 c5 3.Bg2 Nf6 4.O-O g6 5.d3 Bg7 6.Nbd2 O-O 7.e4 Nc6 8.Re1 dxe4 9.dxe4 Qc7 10.c3 e5 11.Qe2 Rd8 12.Nf1 h6 13.N3d2 Bg4 14.Bf3 Bxf3 15.Qxf3 Rd7 16.Nc4 b5 17.Na3 b4 18.Nc4 Kh7 19.Be3 bxc3 20.bxc3 Na5 21.Nfd2 Nxc4 22.Nxc4 Rad8 23.Qg2 Rd3 24.Rac1 Qe7 25.f3 Qe6 26.Nb2 R3d7 27.Na4 Bf8 28.c4 Rd3 29.Qe2 Qa6 30.Nxc5 Bxc5 31.Bxc5 Rd2 32.Qf1 Rxa2 33.Be3 Qa3 34.Re2 Rxe2 35.Qxe2 Rd3 36.Kf2 Rd6 37.Rc2 Rc6 38.Ra2 Qb3 39.Rxa7 Kg7 40.c5 Qe6 41.Qd2 g5 42.g4 Ra6 43.Rxa6 Qxa6 44.Qc3 Qa2+ 45.Kg3 Qe2 46.c6 h5 47.Bxg5 h4+ 48.Bxh4 Qf1 49.Qe3 Nh7 50.c7 Qc4 51.Bd8 Qc2 52.h4 Kg8 53.h5 Kg7 54.g5 Nf8 55.Bf6+ Kh7 56.Bxe5 Ne6 57.g6+ fxg6 58.hxg6+ Kxg6 59.Qb6 Kh7 60.Qd6 Qc1 61.Qe7+ Kg6 62.Qxe6+ Kh5 63.Qg4+ Kh6 64.Bf4+ 1-0

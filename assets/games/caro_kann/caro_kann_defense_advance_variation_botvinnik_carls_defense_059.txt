@@ -1,0 +1,15 @@
+[Event "Round 9: Dirikolu, Deniz - Maruflu, Enes Yusuf"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/eltyk4Ed"]
+[Date "2026.07.19"]
+[Round "9.10"]
+[White "Dirikolu, Deniz"]
+[Black "Maruflu, Enes Yusuf"]
+[Result "1/2-1/2"]
+[WhiteElo "2373"]
+[BlackElo "2204"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Be2 Bf5 6.Nf3 e6 7.O-O Bg4 8.Nbd2 cxd4 9.Nxd4 Bxe2 10.Qxe2 Nxd4 11.cxd4 Ne7 12.Nf3 Nc6 13.Be3 Be7 14.Ne1 O-O 15.f4 f5 16.Kh1 Rc8 17.Rg1 g6 18.a3 Na5 19.b4 Nc4 20.Bf2 Qd7 21.g4 fxg4 22.Rxg4 b6 23.Ng2 a5 24.Rg1 Rf7 25.Bh4 Kh8 26.Qd3 Rg8 27.Bxe7 Qxe7 28.Nh4 Rfg7 29.Qh3 Qf7 30.Qd3 a4 31.R1g3 Rc8 32.Rh3 Rcg8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Zrust, Lukas - Gazik, Viktor"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-1/w7EFVbhM/baYdTFrB"]
+[Date "2026.07.16"]
+[Round "1.5"]
+[White "Zrust, Lukas"]
+[Black "Gazik, Viktor"]
+[Result "0-1"]
+[WhiteElo "2081"]
+[BlackElo "2544"]
+[ECO "E68"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.d4 Nf6 2.Nf3 d6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 Nbd7 7.Nc3 e5 8.e4 Re8 9.Re1 exd4 10.Nxd4 Nc5 11.h3 Bd7 12.Rb1 Qc8 13.Kh2 a6 14.b4 Ne6 15.Be3 a5 16.a3 axb4 17.axb4 h5 18.f4 Nh7 19.f5 Nef8 20.Nd5 Qd8 21.Qd3 c6 22.Nf4 Nf6 23.c5 dxc5 24.bxc5 g5 25.Nfe2 g4 26.h4 Bc8 27.Bf4 N6d7 28.Bd6 Be5 29.Nf4 Ra2 30.Kh1 Nxc5 31.Bxc5 Bxf4 32.Qb3 Rd2 33.Rbd1 Nd7 34.Ba3 Rxd1 35.Rxd1 Be5 36.Ne6 Qb6 37.Qxb6 Nxb6 38.Nf4 Na4 39.Nxh5 b5 40.Bf1 Nc3 41.Re1 Bd4 42.Bd3 Bxf5 43.Bc5 Bh8 44.Nf4 Bxe4+ 45.Kg1 f5 46.Ng6 Bf6 47.h5 Ra8 48.Bxe4 Nxe4 49.Be7 Bd4+ 0-1

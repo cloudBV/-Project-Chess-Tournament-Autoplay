@@ -1,0 +1,14 @@
+[Event "Round 1: Fischer, Daniel - Federer, Colin"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-1/VL8Eatva/H3m59qXj"]
+[Date "2026.06.03"]
+[Round "1.1"]
+[White "Fischer, Daniel"]
+[Black "Federer, Colin"]
+[Result "1-0"]
+[WhiteElo "2366"]
+[BlackElo "2337"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 g6 6.c4 Bg7 7.Nc3 Nc6 8.Nde2 O-O 9.O-O Bd7 10.h3 Rc8 11.Be3 Ne5 12.b3 a6 13.a4 Nxd3 14.Qxd3 Bc6 15.Bd4 Nd7 16.Bxg7 Kxg7 17.Nd4 Nc5 18.Qe3 e5 19.Nxc6 bxc6 20.b4 Nb3 21.Rab1 Nd4 22.Rb2 Qd7 23.f4 f6 24.b5 Rb8 25.Rfb1 axb5 26.cxb5 Qa7 27.Kh1 Qc5 28.fxe5 fxe5 29.Ne2 Nxe2 30.Qxe2 cxb5 31.axb5 Rf7 32.Rc2 Qb6 33.Qd3 Rc7 34.Rxc7+ Qxc7 35.Qd5 Qf7 36.Qc6 Qb7 37.Qxd6 Qxe4 38.Rf1 Ra8 39.Qe7+ Kh6 40.Rf7 Rh8 41.b6 Qc4 42.b7 Qc1+ 43.Kh2 Qg5 44.Rxh7+ Rxh7 45.Qxg5+ Kxg5 46.b8=Q Re7 47.Qd8 Kf6 48.Kg3 e4 49.Kf2 e3+ 50.Ke2 Kf7 51.Qd5+ Kf6 52.h4 Re5 53.Qd4 Kf5 54.g4+ Ke6 55.Qf4 Ra5 56.Kxe3 Ra3+ 57.Kd2 Ra2+ 58.Kc3 Ra3+ 59.Kb2 Rh3 60.g5 Kd5 1-0

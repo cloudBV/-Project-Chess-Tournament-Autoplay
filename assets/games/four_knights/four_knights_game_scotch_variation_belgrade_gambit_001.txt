@@ -1,0 +1,15 @@
+[Event "Round 4: Baitleu, Syrym - Atalik, Suat"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/O841cX8h"]
+[Date "2026.07.06"]
+[Round "4.8"]
+[White "Baitleu, Syrym"]
+[Black "Atalik, Suat"]
+[Result "0-1"]
+[WhiteElo "2245"]
+[BlackElo "2399"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation, Belgrade Gambit"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5 Be7 6.Bd3 d6 7.h3 O-O 8.O-O Nxd5 9.exd5 Ne5 10.Nxd4 Nxd3 11.Qxd3 Bf6 12.Be3 Re8 13.Rfe1 Bd7 14.c3 Qc8 15.Bf4 a6 16.Qd2 h6 17.Rxe8+ Qxe8 18.Re1 Qf8 19.Kh2 Re8 20.Rxe8 Qxe8 21.Qe3 Qxe3 22.Bxe3 Kf8 23.Kg3 Bxd4 24.Bxd4 Bb5 25.Kf3 Bc4 26.Ke4 Bxa2 27.g4 Bb1+ 28.Ke3 b6 29.f4 f5 30.gxf5 Bxf5 31.h4 Bc2 32.Kf3 h5 33.Ke3 Kg8 34.Kf3 Kf7 35.Ke3 Kg6 36.Kf3 Kf5 37.Bxg7 Be4+ 38.Ke3 Bxd5 39.Bf8 Bb3 40.Be7 Ke6 41.Bd8 Kd7 42.Bg5 Bc2 43.Bf6 a5 44.Kd2 Bf5 45.c4 a4 46.Kc3 c5 47.Bg5 Kc6 48.Bd8 b5 49.cxb5+ Kxb5 50.Be7 d5 51.Bf8 d4+ 52.Kd2 Kc4 53.Be7 Kd5 54.Bf8 a3 55.bxa3 c4 56.a4 c3+ 57.Kc1 d3 0-1

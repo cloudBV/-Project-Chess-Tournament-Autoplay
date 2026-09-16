@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.10"]
+[White "Hilby, Craig"]
+[Black "Wang, Ted"]
+[Result "1/2-1/2"]
+[WhiteElo "2416"]
+[BlackElo "2195"]
+[ECO "B33"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.h4 g6 14.g3 Be6 15.Bg2 Bg7 16.Qd3 a5 17.a3 Ne7 18.Nce3 Bh6 19.Rd1 Bxe3 20.Nxe3 b4 21.cxb4 axb4 22.O-O bxa3 23.Qxa3 Rb3 24.Rxd6 Qb8 25.Qc5 Rb5 26.Qa3 Rb3 27.Qc5 Rb5 1/2-1/2

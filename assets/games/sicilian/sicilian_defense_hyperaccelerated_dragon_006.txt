@@ -1,0 +1,15 @@
+[Event "Round 1: Kejna, Piotr - Petriashvili, Nikoloz"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/UlVltCZt"]
+[Date "2026.07.04"]
+[Round "1.2"]
+[White "Kejna, Piotr"]
+[Black "Petriashvili, Nikoloz"]
+[Result "1/2-1/2"]
+[WhiteElo "2328"]
+[BlackElo "2510"]
+[ECO "B27"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.Qa4+ Bd7 5.Qb3 Bc6 6.Ne5 Nf6 7.Nxc6 bxc6 8.Qb7 Nbd7 9.Qxc6 dxe4 10.d3 exd3 11.Bxd3 Bg7 12.O-O O-O 13.Bc2 Qb6 14.Qa4 Rfd8 15.Na3 Qb7 16.Re1 Nb6 17.Qh4 Rd7 18.Be3 Rc8 19.Rad1 e6 20.Rxd7 Qxd7 21.Rd1 Qc6 22.c4 a6 23.Nb1 Ne8 24.b3 Nd6 25.Nd2 Nd7 1/2-1/2

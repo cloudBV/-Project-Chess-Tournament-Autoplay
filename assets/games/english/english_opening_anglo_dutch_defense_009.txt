@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.22"]
+[Round "25.4"]
+[White "4k.c 9.15.1"]
+[Black "Sirius 3bedea6e"]
+[Result "1/2-1/2"]
+[WhiteElo "3017"]
+[BlackElo "3452"]
+[ECO "A10"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+
+1.c4 f5 2.g3 Nf6 3.Bg2 g6 4.Nc3 e5 5.d4 exd4 6.Qxd4 Nc6 7.Qe3+ Qe7 8.Nf3 Qxe3 9.Bxe3 Bb4 10.Rc1 Ne4 11.h4 h6 12.Nd4 Nxd4 13.Bxd4 O-O 14.Bxe4 fxe4 15.Be3 h5 16.O-O Bxc3 17.Rxc3 d6 18.c5 dxc5 19.Rxc5 c6 20.Rc4 Bf5 21.Bg5 Rfe8 22.Rd1 Re5 23.Kf1 Rc8 24.Ke1 Rd5 25.a4 Rxd1+ 26.Kxd1 c5 27.a5 Kf7 28.Be3 b6 29.axb6 axb6 30.b4 Ke6 31.bxc5 bxc5 32.Rxc5 Rxc5 33.Bxc5 Ke5 34.Kd2 Bd7 35.Bb4 Kf6 36.Kd1 Ke5 37.Bc5 Bc6 38.Kd2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.10"]
+[White "Kierulf, Villum Brevick"]
+[Black "Riisem, Oyvind"]
+[Result "1-0"]
+[WhiteElo "2187"]
+[BlackElo "2165"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O b5 9.e5 b4 10.Ndb5 axb5 11.Nxb5 Qb8 12.exf6 Rxa2 13.Kb1 b3 14.cxb3 Nb4 15.fxg7 Bxg7 16.Nd6+ Qxd6 17.Rxd6 Bxb2 18.Bc5 1-0

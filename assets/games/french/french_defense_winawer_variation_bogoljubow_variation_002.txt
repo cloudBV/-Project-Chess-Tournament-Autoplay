@@ -1,0 +1,14 @@
+[Event "Round 8: KHASCHULUU, Sergelenbaatar - Eriksson, Jorgen"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/fp6HgCOa"]
+[Date "2026.07.03"]
+[Round "8.19"]
+[White "KHASCHULUU, Sergelenbaatar"]
+[Black "Eriksson, Jorgen"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2144"]
+[ECO "C17"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3 cxd4 8.Bxd4 O-O 9.Bd3 Nbc6 10.c3 Bd7 11.Nf3 Ng6 12.O-O Rc8 13.g3 f5 14.h4 Nxd4 15.cxd4 h6 16.Qb3 Qb6 17.Qxb6 axb6 18.Rfd1 Ne7 19.Ne1 Ba4 20.Rd2 Rc7 21.Ng2 g5 22.hxg5 hxg5 23.f4 g4 24.Kf2 Kg7 25.Ne3 Rh8 26.b3 Bxb3 27.Rb1 Rc3 28.Rdb2 Rh2+ 29.Ng2 Rxd3 30.Kg1 Rxg2+ 31.Kxg2 Ba4 32.Rxb6 Bc6 33.a4 Rd2+ 34.Kg1 Rxd4 35.a5 Ra4 36.a6 Rxa6 37.Rxa6 bxa6 38.Rb6 a5 39.Kf2 d4 40.Ke2 Bd5 41.Kd3 Nc6 42.Rb7+ Kf8 0-1

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.1"]
+[White "Paszewski, Mateusz"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[WhiteElo "2244"]
+[BlackElo "2614"]
+[ECO "B90"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 Be7 8.Bb3 O-O 9.g4 Nfd7 10.h4 Nc5 11.g5 b5 12.Rg1 Bb7 13.h5 b4 14.Na4 Nxb3 15.axb3 Bxe4 16.Qg4 d5 17.f3 e5 18.fxe4 exd4 19.Bxd4 Nc6 20.O-O-O Nxd4 21.Rxd4 Qc7 22.exd5 Bd6 23.Kb1 Rfe8 24.g6 fxg6 25.hxg6 h6 26.Rc4 Qe7 27.Rc6 Rad8 28.Nb6 Qe4 29.Qxe4 Rxe4 30.Nc4 Bh2 31.Rh1 Bb8 32.Rh5 Re1+ 33.Ka2 Re2 34.Rf5 Rxc2 35.d6 Re2 36.Rxa6 Re6 37.Ra8 Bc7 38.Rxd8+ Bxd8 39.Re5 Rxe5 40.Nxe5 h5 41.Kb1 h4 42.Kc2 h3 43.Nf3 Kf8 44.Kd3 Ke8 45.Ke4 Kd7 46.Kd5 Bf6 47.Kc5 Bxb2 48.Kd5 Bf6 49.Kc5 Bh4 50.Kxb4 Bg3 51.Kc4 Kxd6 52.Kd3 h2 53.Nxh2 Bxh2 54.Ke4 Ke6 0-1

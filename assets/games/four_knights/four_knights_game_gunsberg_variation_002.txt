@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "7.1"]
+[White "Karvatskyi, Oleksii"]
+[Black "Sowinski, Pawel"]
+[Result "1/2-1/2"]
+[WhiteElo "2412"]
+[BlackElo "2432"]
+[ECO "C47"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 d5 5.Bb5 Nxe4 6.Qe2 Nxc3 7.Qxe5+ Qe7 8.Qxe7+ Bxe7 9.dxc3 Bd7 10.Be3 a6 11.Ba4 b5 12.Bb3 Be6 13.a4 O-O 14.O-O-O Rfd8 15.Rhe1 h6 16.Bf4 Bd6 17.Bxd6 Rxd6 18.Nd4 Nxd4 19.cxd4 b4 20.Re5 a5 21.Rde1 Kf8 22.h3 Re8 23.Kd2 f6 24.R5e3 Bd7 25.Rxe8+ Bxe8 26.Rc1 Rb6 27.Re1 c6 28.Re6 Bd7 29.Re3 Kf7 30.Ba2 Bc8 31.Rb3 Ba6 32.Re3 Rb8 33.h4 1/2-1/2

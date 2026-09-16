@@ -1,0 +1,15 @@
+[Event "2026. gada Latvijas sieviešu čempionāts"]
+[Site "Rīga, Aspāzijas bulvāris 32- 302, Latvia"]
+[Date "2026.07.18"]
+[Round "8.3"]
+[White "Jansone, Melanija Luize"]
+[Black "Golsta, Madara"]
+[Result "1-0"]
+[WhiteElo "2065"]
+[BlackElo "2047"]
+[ECO "B38"]
+[TimeControl "90 minūtes katrai dalībniecei + 30 sekundes par katru izdarīto gājienu"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.c4 Nc6 6.Be3 Qb6 7.Nb3 Qd8 8.Qd2 Nf6 9.f3 a5 10.a4 O-O 11.Nc3 d6 12.Be2 Be6 13.Rc1 b6 14.Nd4 Nxd4 15.Bxd4 Nd7 16.Nb5 Bxd4 17.Nxd4 Nc5 18.b3 Bd7 19.Qc3 e5 20.Nc2 Qg5 21.O-O Bh3 22.Ne1 Ne6 23.Rf2 Nf4 24.Kh1 Be6 25.Nd3 Nh5 26.Rcf1 f5 27.exf5 Bxf5 28.f4 Nxf4 29.Nxf4 exf4 30.Rxf4 Rae8 31.Bf3 Be4 32.Rxf8+ Rxf8 33.h3 Qe5 34.Qxe5 dxe5 35.Kg1 Bc2 36.c5 e4 37.Rc1 bxc5 38.Rxc2 exf3 39.Rxc5 fxg2 40.Rxa5 Rf3 41.Rb5 Rxh3 42.a5 Rh1+ 43.Kxg2 Ra1 44.b4 Kf7 45.Rb7+ Ke6 46.Rxh7 Ra4 47.Rb7 Kd6 48.Rb6+ Kc7 49.Kf3 Ra1 50.Rxg6 Kb7 51.Rb6+ Ka7 52.Ke3 Rd1 53.Ke4 Rd2 54.Rb5 Ka6 55.Rd5 Rb2 56.Rd6+ Ka7 57.Rd4 Ka6 58.Kd5 Rh2 59.Kc4 Rc2+ 60.Kb3 Rc1 61.Rd6+ Ka7 62.Ka4 Rh1 63.Rd7+ Ka8 64.a6 Ra1+ 65.Kb5 Rf1 66.Ka5 Rf5+ 67.b5 Rg5 68.Kb6 Rg6+ 69.Kc5 Rg5+ 70.Rd5 Rg8 71.b6 Rc8+ 72.Kb5 Rf8 73.a7 Rc8 74.Ka6 Rc5 75.b7# 1-0

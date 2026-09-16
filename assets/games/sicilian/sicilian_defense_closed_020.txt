@@ -1,0 +1,15 @@
+[Event "Round 4: Marchais, Antoine - Belkhodja, Slim"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-4/ZGNaFB22/mSmhbrnc"]
+[Date "2026.07.05"]
+[Round "4.3"]
+[White "Marchais, Antoine"]
+[Black "Belkhodja, Slim"]
+[Result "1-0"]
+[WhiteElo "2146"]
+[BlackElo "2289"]
+[ECO "B26"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 e5 7.Qd2 h6 8.Nge2 Nd4 9.f4 Ne7 10.O-O exf4 11.Nxf4 O-O 12.Nfd5 Nxd5 13.Nxd5 Kh7 14.c3 Nc6 15.Rf2 f5 16.Raf1 Be6 17.exf5 Rxf5 18.Nf4 Qe7 19.Nxg6 Kxg6 20.Be4 Rf8 21.g4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 7: Ghosh, Diptayan - Schnell, Simon"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-7/XL83IlpS/1HwdV2Xk"]
+[Date "2026.07.20"]
+[Round "7.7"]
+[White "Ghosh, Diptayan"]
+[Black "Schnell, Simon"]
+[Result "1-0"]
+[WhiteElo "2554"]
+[BlackElo "2211"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 c5 6.e4 O-O 7.Qe2 Nc6 8.e5 Nd7 9.c4 d4 10.h4 a6 11.Bf4 Rb8 12.Nh2 Re8 13.Nd2 Qc7 14.Ng4 Kh8 15.Qf3 Nd8 16.Ne4 b5 17.Ngf6 Bxf6 18.exf6 e5 19.Bg5 Rb6 20.fxg7+ Kxg7 21.Bh3 Nf8 22.Nf6 Rbe6 23.Nxe8+ Rxe8 24.Qf6+ Kg8 25.Bh6 1-0

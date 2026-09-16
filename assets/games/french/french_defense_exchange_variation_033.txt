@@ -1,0 +1,15 @@
+[Event "Round 4: Dicen, Elis Denele - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-4/zITroG65/gQcqU3Uv"]
+[Date "2026.07.18"]
+[Round "4.4"]
+[White "Dicen, Elis Denele"]
+[Black "Badacsonyi, Stanley"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2476"]
+[ECO "C01"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Ne7 6.O-O Nbc6 7.c3 Bg4 8.Nbd2 f6 9.h3 Bh5 10.Re1 O-O 11.a4 Qd7 12.Nf1 Rae8 13.Be3 Nd8 14.N1d2 c6 15.Qc2 Bg6 16.b4 Ne6 17.Nb3 Bxd3 18.Qxd3 Ng6 19.Nc5 Bxc5 20.bxc5 Re7 21.Bd2 Rfe8 22.a5 a6 23.Rab1 Qc8 24.g3 Nc7 25.Kg2 Nb5 26.Rxe7 Rxe7 27.Re1 Rxe1 28.Bxe1 Qe6 29.Bd2 Qe4 30.Qxe4 dxe4 31.Ne1 Na3 32.f3 Nc4 33.Bc1 f5 34.fxe4 fxe4 35.Nc2 Ne7 36.Nb4 Nd5 37.Nxd5 cxd5 38.Kf2 Kf7 39.Ke2 Ke6 40.Bf4 Nxa5 41.g4 Nc4 42.Kd1 Kd7 43.h4 b6 44.cxb6 Nxb6 45.Kc2 Kc6 46.Kb3 Kb5 47.g5 g6 48.Be3 Nc4 49.Bf2 a5 50.Kc2 a4 51.Be1 Kc6 52.Bf2 Kd7 53.Kb1 Ke6 54.Ka2 Kf5 55.Be1 e3 56.Kb1 Ke4 57.Kc2 a3 58.Kb3 Kd3 59.Ka2 Kc2 60.Ka1 e2 61.Ka2 Kd1 0-1

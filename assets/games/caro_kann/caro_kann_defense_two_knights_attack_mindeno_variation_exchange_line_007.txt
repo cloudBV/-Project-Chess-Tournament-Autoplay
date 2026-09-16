@@ -1,0 +1,14 @@
+[Event "Round 2: Drakoulakos, Grigorios - Tsarsitalidis, Christos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/pPFVnEnZ"]
+[Date "2026.07.06"]
+[Round "2.4"]
+[White "Drakoulakos, Grigorios"]
+[Black "Tsarsitalidis, Christos"]
+[Result "1-0"]
+[WhiteElo "2248"]
+[BlackElo "2184"]
+[ECO "B11"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 Nf6 6.d4 dxe4 7.Qe3 Nbd7 8.Nxe4 Nxe4 9.Qxe4 Nf6 10.Qd3 e6 11.Be2 Qc7 12.O-O Be7 13.Qf3 O-O-O 14.Be3 Rhg8 15.Bf4 Bd6 16.Bg5 h6 17.Bxf6 gxf6 18.Rfd1 Bh2+ 19.Kh1 Rd5 20.c4 Rf5 21.Qe3 Bf4 22.Qb3 Bd6 23.Bf3 Qe7 24.Rd2 Bf4 25.Re2 Bb8 26.d5 Qd6 27.g3 Qc5 28.Rg1 h5 29.Qe3 Qxe3 30.Rxe3 Be5 31.Rd3 c5 32.Kg2 Bd4 33.Re1 Kd7 34.h4 Kd6 35.Re2 Rg7 36.Be4 Rf4 37.Kf1 Rfg4 38.Bf3 e5 39.Bxg4 hxg4 40.Rd1 f5 41.Red2 b5 42.cxb5 Kxd5 43.b3 Rg6 44.a4 Rb6 45.Kg2 Rb8 46.h5 Rh8 47.Rh1 Rh6 48.a5 Kd6 49.Rh4 Kc7 50.Kf1 Bc3 1-0

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.05.19"]
+[Round "7.1"]
+[White "Kresz, Adam"]
+[Black "Miszler, Levente"]
+[Result "1/2-1/2"]
+[WhiteElo "2250"]
+[BlackElo "2303"]
+[ECO "C01"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation, Svenonius Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bg5 Be7 6.Qd2 O-O 7.O-O-O c6 8.Bd3 b5 9.Re1 a5 10.Nf3 a4 11.Qf4 Re8 12.g4 Nbd7 13.Ne5 Nxe5 14.Rxe5 Be6 15.Ne2 Nd7 16.Bxe7 Qxe7 17.Rh5 g6 18.Qh6 Nf6 19.Rh4 Qf8 20.Qf4 Qg7 21.g5 Ne4 22.Ng3 a3 23.Bxe4 axb2+ 24.Kb1 dxe4 25.Nxe4 Bxa2+ 26.Kxb2 Rxe4 27.Qxe4 Bd5 28.Ra1 Rc8 29.Qe7 c5 30.Re1 cxd4 31.Qe8+ Qf8 32.Qxf8+ Kxf8 33.Rxd4 Bc4 34.h4 Kg7 35.Ka3 h6 36.Kb4 Ra8 37.Re3 Ra4+ 38.Kc3 Ra8 39.Rd7 Ra3+ 40.Kd2 Ra8 41.Re5 Ra3 42.Re3 Ra8 43.f4 hxg5 44.hxg5 Rh8 45.Kc3 Rh4 46.Re4 Rh3+ 47.Kb4 Rf3 48.Rdd4 Rf2 49.c3 Rb2+ 50.Kc5 Rc2 51.Rxc4 bxc4 52.Kxc4 Rf2 53.Kd5 f6 54.c4 Rd2+ 55.Kc5 Kf7 56.Rd4 Rg2 57.Rd7+ Ke8 58.Rd5 Rg4 59.Kd6 Rxf4 60.c5 fxg5 61.Rxg5 Rf6+ 62.Kc7 Kf7 63.c6 Re6 64.Rd5 Re1 65.Kd6 Re6+ 66.Kd7 Re7+ 67.Kd6 Re6+ 68.Kd7 Re7+ 69.Kc8 Re8+ 70.Kb7 Ke6 71.Rd1 Kf5 72.c7 g5 73.Rd8 Re7 74.Kc6 Rxc7+ 75.Kxc7 g4 76.Kd6 g3 77.Kd5 Kf4 78.Kd4 g2 79.Rg8 Kf3 80.Kd3 Kf2 81.Rf8+ Kg3 82.Rg8+ Kf2 83.Rxg2+ Kxg2 84.Ke4 1/2-1/2

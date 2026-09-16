@@ -1,0 +1,14 @@
+[Event "Round 2: Tripodi, Enzo - Tondi, Aurelio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-2/oA9G6M43/hp7Odf6k"]
+[Date "2026.07.07"]
+[Round "2.11"]
+[White "Tripodi, Enzo"]
+[Black "Tondi, Aurelio"]
+[Result "1-0"]
+[WhiteElo "2238"]
+[BlackElo "2076"]
+[ECO "C12"]
+[Variant "Standard"]
+[Opening "French Defense: McCutcheon Variation, Lasker Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Bc1 c5 9.Ne2 Qa5 10.f3 Nxc3 11.Qd2 cxd4 12.Nxd4 Nc6 13.Nb3 Qb4 14.a3 Qh4+ 15.g3 Qd8 16.Qxc3 d4 17.Qc5 1-0

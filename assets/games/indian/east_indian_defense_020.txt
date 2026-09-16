@@ -1,0 +1,14 @@
+[Event "Round 9: Davies, Nigel R - Stubbs, Oliver"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-9/sXIIwQlY/ZjVMjsYF"]
+[Date "2026.07.12"]
+[Round "9.6"]
+[White "Davies, Nigel R"]
+[Black "Stubbs, Oliver"]
+[Result "1/2-1/2"]
+[WhiteElo "2276"]
+[BlackElo "2187"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 d5 4.b3 Bg7 5.Bb2 O-O 6.e3 Bf5 7.Be2 Ne4 8.Nxe4 Bxe4 9.O-O c5 10.c3 cxd4 11.cxd4 Nc6 12.Rc1 1/2-1/2

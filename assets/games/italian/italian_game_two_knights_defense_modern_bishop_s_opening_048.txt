@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.6"]
+[White "Nawalaniec, Adam"]
+[Black "Dubnevych, Maksym"]
+[Result "0-1"]
+[WhiteElo "2246"]
+[BlackElo "2464"]
+[ECO "C55"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.c3 d5 7.exd5 Nxd5 8.h3 Nb6 9.Bb3 Kh8 10.Re1 f6 11.Be3 Nd5 12.Qe2 Nxe3 13.Qxe3 Bf5 14.d4 Bd6 15.Nbd2 exd4 16.Nxd4 Nxd4 17.Qxd4 Qd7 18.Ne4 Bxe4 19.Rxe4 f5 20.Re2 Rad8 21.Rae1 a5 22.Be6 Qc6 23.Kh1 Bc5 24.Qf4 Bd6 25.Qd4 a4 26.Bd5 Qb5 27.c4 Qa5 28.b3 axb3 29.axb3 c6 30.Be6 Bb4 31.Qe3 Bxe1 32.Rxe1 f4 33.Qe2 f3 34.gxf3 Qc3 35.Bg4 Qxb3 36.Qe7 Qxc4 37.Qxb7 c5 38.Re7 Qd4 39.Kg2 c4 40.Qc7 c3 41.Bd7 c2 42.Bf5 Rxf5 43.Re4 Rg5+ 0-1

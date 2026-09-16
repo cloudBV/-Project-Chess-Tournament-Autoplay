@@ -1,0 +1,15 @@
+[Event "Round 9: Vyas, Miransh Purven - Vaibhav Kalpaka"]
+[Site "https://lichess.org/broadcast/4th-annual-independence-day-open/round-9/ipOtOy1h/4wtLIAgY"]
+[Date "2026.07.09"]
+[Round "9.5"]
+[White "Vyas, Miransh Purven"]
+[Black "Vaibhav Kalpaka"]
+[Result "1/2-1/2"]
+[WhiteElo "2120"]
+[BlackElo "2203"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.g3 O-O 7.Bg2 Nc6 8.O-O d6 9.Nxc6 bxc6 10.Bxc6 Bh3 11.Bxa8 Qxa8 12.f3 Bxf1 13.Kxf1 Rc8 14.Qd3 Qc6 15.Be3 Qxc4 16.Qxc4 Rxc4 17.Bxa7 d5 18.Rd1 e6 19.e4 h5 20.exd5 Nxd5 21.Nxd5 exd5 22.Rxd5 Bxb2 23.Ke2 Ra4 24.Bb6 Bc3 25.Kd3 Ra3 26.Kc4 Bf6 27.Ra5 Rxf3 28.Ra8+ Kg7 29.a4 h4 30.gxh4 Bxh4 31.a5 Bf2 1/2-1/2

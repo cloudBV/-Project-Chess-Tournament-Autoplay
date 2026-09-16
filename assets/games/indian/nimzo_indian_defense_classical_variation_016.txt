@@ -1,0 +1,14 @@
+[Event "Round 1: Monteverde, Jonathan - Aronyak Ghosh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/wx7URdcl"]
+[Date "2026.07.13"]
+[Round "1.4"]
+[White "Monteverde, Jonathan"]
+[Black "Aronyak Ghosh"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2549"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 d6 6.Bd2 c5 7.dxc5 Bxc5 8.e3 e5 9.Be2 h6 10.O-O Qe7 11.Rfd1 Nc6 12.Be1 Re8 13.a3 e4 14.Nd2 Bf5 15.b4 Bb6 16.Nf1 Ne5 17.Ng3 Bg6 18.Nd5 Nxd5 19.Rxd5 Rac8 20.Qb3 Nd3 21.Bg4 Rc6 22.Nf5 Qc7 23.c5 dxc5 24.Rd7 c4 25.Qc3 Qe5 26.Rd5 Qxc3 27.Bxc3 Bc7 28.Nd4 Rd6 29.Nb5 Rxd5 30.Nxc7 Rdd8 31.Nxe8 Rxe8 32.Be2 f6 33.Kf1 Rd8 34.Rd1 Rd5 35.Bxd3 exd3 36.Bd2 Rd6 37.Rc1 Bf7 38.e4 Ra6 39.Rc3 Kf8 40.f3 Ke8 41.Kf2 Kd7 42.Ke3 Kc6 43.Be1 Kb5 44.Bd2 Rd6 45.g4 Ka4 46.h4 h5 47.gxh5 Rd8 48.h6 gxh6 49.Rc1 Rg8 50.Kf2 Kb3 51.Bc3 f5 52.Bd4 d2 0-1

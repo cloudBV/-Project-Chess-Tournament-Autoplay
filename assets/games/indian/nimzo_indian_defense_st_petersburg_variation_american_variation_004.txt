@@ -1,0 +1,14 @@
+[Event "Round 1: Stojanovic, Mihajlo - Schoenbaechler, Anselm"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-1/dEgFuk79/2Iq6ZWhC"]
+[Date "2026.07.11"]
+[Round "1.2"]
+[White "Stojanovic, Mihajlo"]
+[Black "Schoenbaechler, Anselm"]
+[Result "1-0"]
+[WhiteElo "2401"]
+[BlackElo "2062"]
+[ECO "E44"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Bd2 Nxd2 7.Qxd2 d5 8.a3 Bxc3 9.Nxc3 Bb7 10.cxd5 exd5 11.b4 O-O 12.Be2 Nd7 13.O-O a5 14.b5 Nf6 15.Rfc1 Re8 16.Rc2 Qd6 17.Qc1 Re7 18.h3 h5 19.Bd3 g6 20.a4 Kg7 21.Ne2 Rf8 22.Ra3 Ne8 23.Rac3 f5 24.Nf4 h4 25.Rc6 Bxc6 26.Rxc6 Qb4 27.Nxd5 1-0

@@ -1,0 +1,15 @@
+[Event "Round 7: Sarkisian, Arman - Lux,Hugo de Melo"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/PyqrLH1u"]
+[Date "2026.07.21"]
+[Round "7.7"]
+[White "Sarkisian, Arman"]
+[Black "Lux,Hugo de Melo"]
+[Result "1/2-1/2"]
+[WhiteElo "2224"]
+[BlackElo "2334"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O h6 5.c4 Bd6 6.d4 O-O 7.Nc3 Nc6 8.b3 dxc4 9.bxc4 e5 10.Nxe5 Nxe5 11.c5 1/2-1/2

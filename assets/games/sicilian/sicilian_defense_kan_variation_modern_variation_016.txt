@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "18.9"]
+[White "Stash 37.24"]
+[Black "Clockwork 20260705-7f4099f"]
+[Result "1/2-1/2"]
+[WhiteElo "3244"]
+[BlackElo "3354"]
+[ECO "B42"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 dxc6 7.O-O Qc7 8.a4 a5 9.Be3 Nf6 10.Nd2 e5 11.h3 Bb4 12.c3 Be7 13.f4 Nd7 14.f5 O-O 15.Qe2 Rd8 16.Rfd1 Rb8 17.Nf3 b5 18.axb5 cxb5 19.b4 Bb7 20.bxa5 Ba6 21.Rdb1 Qc6 22.Kh2 h6 23.Ba7 Rb7 24.Bf2 Nc5 25.Bxc5 Bxc5 26.Rb3 Ba7 27.Rab1 Kh7 28.h4 f6 29.Kh3 Kh8 30.Ne1 Rbd7 31.Qf3 Kh7 32.Bxb5 Bxb5 33.Rxb5 Rd1 34.Rxd1 Rxd1 35.Qxd1 Qxb5 36.Nc2 Bc5 37.Nb4 Bxb4 38.Qb1 Qxa5 39.cxb4 Qa3+ 40.Kh2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-4/R4lqW8C9/AA3fU4qu"]
+[Date "2026.07.02"]
+[Round "4.6"]
+[White "Gutierrez Toro, Raul"]
+[Black "Beneyto De Ramon, Guillermo"]
+[Result "1/2-1/2"]
+[WhiteElo "2038"]
+[BlackElo "2081"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Ngf6 4.Bg2 b5 5.O-O e6 6.b3 Bb7 7.Bb2 Be7 8.Nbd2 b4 9.a3 a5 10.Ne5 O-O 11.Nxd7 Qxd7 12.Nf3 c5 13.dxc5 Qc7 14.axb4 axb4 15.Qd3 Qxc5 16.Ng5 h6 17.Bxf6 hxg5 18.Bxe7 Qxe7 19.e4 dxe4 20.Bxe4 Bxe4 21.Qxe4 Rab8 22.Rfd1 Rfc8 23.Rd4 Qf6 24.Rad1 g6 25.R1d2 Qf5 26.Rxb4 Rxb4 27.Qxb4 Rxc2 28.Rxc2 Qxc2 29.Qb7 g4 30.b4 e5 31.b5 e4 32.Qd5 Qe2 33.Qd8+ Kh7 34.Qd7 Kg8 35.b6 e3 36.Qe8+ Kg7 37.Qxe3 Qd1+ 38.Kg2 Qd5+ 39.Kf1 Qc4+ 40.Ke1 Qb4+ 41.Kd1 Qb1+ 42.Kd2 Qb2+ 43.Kd3 Qb3+ 44.Ke2 Qc2+ 45.Kf1 Qd1+ 46.Qe1 Qb3 47.Qe5+ Kh7 48.Qd4 Qb1+ 49.Ke2 Qc2+ 50.Ke3 Qc1+ 51.Ke4 Qc6+ 52.Kd3 Kg8 53.Qd8+ Kg7 54.Qc7 Qb5+ 55.Kd4 Qb2+ 56.Kd5 Qxf2 57.b7 Qf3+ 58.Kd6 Qf6+ 59.Kd7 Qe6+ 60.Kd8 Qd5+ 61.Kc8 Qe6+ 62.Qd7 Qc4+ 63.Kd8 Qb3 64.Qd4+ Kg8 65.Qe4 Qb6+ 66.Kc8 Qc5+ 67.Kd8 Qd6+ 68.Kc8 Qc5+ 69.Kd7 Qb5+ 70.Qc6 Qf5+ 71.Kc7 Qe5+ 72.Qd6 Qa5+ 73.Kc8 Qf5+ 74.Kd8 Qa5+ 75.Ke7 Qg5+ 76.Kd7 Qb5+ 77.Kc7 Qa5+ 78.Kb8 Kh7 79.Qd4 Kg8 80.Qf6 Qc5 81.Qa6 Qf8+ 82.Ka7 Qc5+ 83.Ka8 Qd5 84.Qa4 Kg7 85.Qxg4 Qa5+ 86.Kb8 Qe5+ 87.Kc8 Qc5+ 88.Kb8 Qe5+ 89.Kc8 Qc5+ 90.Kd7 Qb5+ 91.Kc7 Qc5+ 92.Kd8 Qb6+ 93.Kc8 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 1: Galanis, Nikolaos-Panagiotis - Mozharov, Mikhail"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-1/TwX2gwr1/IC7d7i1Y"]
+[Date "2026.07.18"]
+[Round "1.3"]
+[White "Galanis, Nikolaos-Panagiotis"]
+[Black "Mozharov, Mikhail"]
+[Result "1-0"]
+[WhiteElo "2005"]
+[BlackElo "2527"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 a6 6.O-O Bg6 7.c3 c5 8.Be3 Nd7 9.Nbd2 Nh6 10.c4 cxd4 11.Nxd4 dxc4 12.Nxc4 Be7 13.Bf3 Rc8 14.Nd6+ Bxd6 15.exd6 Rb8 16.Bxh6 gxh6 17.Re1 O-O 18.Rc1 Qb6 19.Nb3 Rfd8 20.Qd2 Nf6 21.Qf4 Kg7 22.Red1 Rbc8 23.Rxc8 Rxc8 24.d7 Rd8 25.Qe5 Bc2 26.Rd4 Bf5 27.g4 Bb1 28.Rf4 Rxd7 29.Qxf6+ Kg8 30.Rd4 Rxd4 31.Qxd4 Qc7 32.a3 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Botez, Alexandra - Bartholomew, John"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-6/wr4a8dEJ/VnCSpKLJ"]
+[Date "2026.07.05"]
+[Round "6.2"]
+[White "Botez, Alexandra"]
+[Black "Bartholomew, John"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2416"]
+[ECO "A41"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.d5 Be7 4.e4 Bg5 5.Nc3 a5 6.Nf3 Bxc1 7.Qxc1 Na6 8.Bd3 Nc5 9.Bc2 Nf6 10.h3 O-O 11.O-O Nh5 12.Qg5 Nf4 13.Qxd8 Rxd8 14.Nb5 Rd7 15.b3 b6 16.a3 Ba6 17.b4 Nb7 18.Ba4 Re7 19.Rfc1 Ne2+ 20.Kh2 Nxc1 21.Rxc1 Bxb5 22.Bxb5 axb4 23.axb4 Ra2 24.Kg1 g6 25.g4 Kg7 26.Ne1 Rb2 27.Ba6 Nd8 28.Nd3 Rb3 29.c5 bxc5 30.bxc5 f6 31.c6 Nf7 32.Bc4 Ra3 33.Rb1 Rc3 34.Rb4 Ng5 35.Ba6 Nxh3+ 36.Kg2 Rxd3 37.Bxd3 Nf4+ 38.Kf3 Nxd3 39.Rb7 Nc5 40.Ra7 f5 41.gxf5 gxf5 42.exf5 Kf6 43.Ke3 Kxf5 44.f3 e4 45.f4 Rg7 46.Kd4 Kxf4 47.Ra8 Rf7 48.Ra2 e3 49.Rc2 Kf3 50.Rc3 Re7 0-1

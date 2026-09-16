@@ -1,0 +1,14 @@
+[Event "Round 1: Finek, Vaclav - Yip, Carissa"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-1/G7Gk1xaR/oKQjij7G"]
+[Date "2026.07.19"]
+[Round "1.3"]
+[White "Finek, Vaclav"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2369"]
+[ECO "E17"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 h6 8.h4 d5 9.cxd5 exd5 10.Nc3 Nbd7 11.Bf4 Ne4 12.Rc1 Bd6 13.Bxd6 Nxd6 14.Ne5 Nf6 15.Qb3 Nde4 16.Nxe4 Nxe4 17.Nd3 Re8 18.e3 a6 19.Rc2 Rc8 20.Rec1 Qd6 21.Qb4 Qd7 22.Ne5 Qf5 23.Bxe4 Qxe4 24.Rxc7 Rxc7 25.Rxc7 Rxe5 26.Rxb7 Qb1+ 27.Kg2 Rf5 28.Qd2 b5 29.a3 Qe4+ 30.Kh2 g5 31.f4 gxh4 32.gxh4 Kh7 33.Qf2 Rf6 34.Rc7 Qf5 35.Qc2 Kg6 36.Kg3 Qxc2 37.Rxc2 Kf5 38.Kf3 Kg6 39.Rc5 Rd6 40.e4 dxe4+ 41.Kxe4 Re6+ 42.Kf3 Rd6 43.Ke4 Re6+ 44.Re5 Rd6 45.d5 Kf6 46.Kd4 Rd8 47.b3 Rc8 48.d6 Rd8 49.Kd5 a5 50.Kc6 b4 51.axb4 axb4 52.d7 1-0

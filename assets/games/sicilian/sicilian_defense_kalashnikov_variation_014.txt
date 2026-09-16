@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.8"]
+[White "Ingebretsen, Jens E"]
+[Black "Hansen, Torbjorn Ringdal"]
+[Result "1-0"]
+[WhiteElo "2433"]
+[BlackElo "2383"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be7 7.N1c3 a6 8.Na3 f5 9.exf5 Bxf5 10.Nc2 Nf6 11.Ne3 Be6 12.Bd3 O-O 13.O-O Qd7 14.b3 Rae8 15.Ne4 Kh8 16.Nxf6 Bxf6 17.Be4 g6 18.Bb2 Bg7 19.Qd3 Rd8 20.Rad1 Qe7 21.Rd2 Qg5 22.Rfd1 Rf7 23.Qe2 Rfd7 24.Bd5 Bf5 25.Nxf5 gxf5 26.Bxc6 bxc6 27.c5 Qg6 28.cxd6 e4 29.Bxg7+ Kxg7 30.Qxa6 Rxd6 31.Rxd6 Rxd6 32.Qa7+ 1-0

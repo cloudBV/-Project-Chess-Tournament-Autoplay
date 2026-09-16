@@ -1,0 +1,14 @@
+[Event "Round 9: Gaehwiler, Gabriel - Fischer, Daniel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-9/zQNzsYa2/WwFaatiH"]
+[Date "2026.07.19"]
+[Round "9.5"]
+[White "Gaehwiler, Gabriel"]
+[Black "Fischer, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2384"]
+[BlackElo "2366"]
+[ECO "C48"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 Bc5 9.Qe2+ Qe6 10.O-O Qxe2 11.Bxe2 d5 12.Bf4 c6 13.Rfe1 O-O 14.Bd3 Be6 15.a4 a5 16.Kf1 Rfd8 17.f3 Bd6 18.Bxd6 Rxd6 19.Kf2 c5 20.Bb5 d4 21.Rad1 Rad8 22.cxd4 Rxd4 23.Rxd4 Rxd4 24.Re5 b6 25.c3 Rd2+ 26.Re2 Rd8 27.Ke3 Kf8 28.Rd2 Rxd2 29.Kxd2 Ke7 30.Ke3 Kd6 31.h4 Ke5 1/2-1/2

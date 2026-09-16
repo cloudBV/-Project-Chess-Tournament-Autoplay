@@ -1,0 +1,15 @@
+[Event "Round 6: Pedzich, Dominik - Juhanak, Daniel"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/Y4lFMCiS"]
+[Date "2026.07.19"]
+[Round "6.33"]
+[White "Pedzich, Dominik"]
+[Black "Juhanak, Daniel"]
+[Result "0-1"]
+[WhiteElo "2373"]
+[BlackElo "2210"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Rb8 8.a3 a6 9.Qd2 b5 10.dxc5 Bxc5 11.Ne2 Bxe3 12.Qxe3 Qb6 13.Ned4 b4 14.Bd3 bxa3 15.bxa3 Qa5+ 16.Kf2 Bb7 17.Rhb1 Nxd4 18.Qxd4 O-O 19.Rb4 Rfc8 20.Qa7 Qc5+ 21.Qxc5 Nxc5 22.Rab1 Rc7 23.Ke3 Rbc8 24.g4 Bc6 25.Rb8 g6 26.Nd4 Ba4 27.R1b6 Kg7 28.Rxc8 Rxc8 29.h4 a5 30.f5 Nd7 31.Rb7 exf5 32.gxf5 Nxe5 33.Ra7 Nc6 34.Nxc6 Rxc6 35.fxg6 hxg6 36.Kd4 Bxc2 37.Kxd5 Rc3 38.Bxc2 Rxc2 39.Rxa5 Rh2 40.Ra4 Rh3 41.Kd6 f5 42.Ke5 Kh6 43.Ra8 Rxh4 44.Rh8+ Kg5 45.Rxh4 Kxh4 46.a4 Kg3 47.a5 f4 48.a6 f3 49.a7 f2 50.a8=Q f1=Q 51.Qa3+ Kg4 52.Qb4+ Kh5 53.Qd2 Qf5+ 54.Kd6 Qf6+ 55.Kc7 Qe5+ 56.Kb7 g5 57.Qd1+ g4 58.Qh1+ Kg5 59.Qc1+ Kh5 60.Qh1+ Kg5 61.Qc1+ Qf4 62.Qc5+ Kh4 63.Qe7+ Kh3 64.Qh7+ Kg2 65.Kc8 Qc4+ 66.Kb8 Qb3+ 67.Kc7 Qc3+ 68.Kb8 Qe5+ 69.Kc8 Qe6+ 70.Kc7 Qe5+ 71.Kc8 g3 72.Qc2+ Kh3 73.Qh7+ Kg4 74.Qg8+ Qg5 75.Qc4+ Qf4 76.Qg8+ Kh3 77.Qh7+ Qh4 78.Qd3 Kh2 79.Qd6 Qc4+ 80.Kb8 Qb3+ 81.Kc7 Qf7+ 82.Kb8 Qf3 83.Qe5 Kg1 84.Qd4+ Kf1 85.Qc4+ Qe2 86.Qc1+ Kf2 87.Qf4+ Kg2 88.Kc7 Qd3 89.Qe5 Qc4+ 90.Kb8 Kf3 91.Qh5+ Qg4 92.Qd5+ Qe4 93.Qd1+ Kf2 94.Qd2+ Kf1 95.Qd1+ Qe1 96.Qd3+ Kg1 97.Qd4+ Kg2 98.Qd5+ Kf2 99.Qf5+ Kg1 100.Qc5+ Qf2 101.Qc1+ Qf1 102.Qe3+ Kh2 103.Qh6+ Qh3 104.Qf4 Qh8+ 105.Kc7 Qg7+ 106.Kb8 Qb2+ 107.Kc7 Qc3+ 108.Kb8 Kg1 109.Qe4 g2 110.Qb1+ Kh2 111.Qh7+ Qh3 112.Qc2 Qh8+ 113.Ka7 Qg7+ 114.Ka8 Qh8+ 115.Kb7 Qg7+ 116.Ka8 Qf8+ 117.Kb7 Qe7+ 118.Ka8 Qd8+ 119.Kb7 Qd5+ 120.Kb8 Qe5+ 121.Ka8 Kg3 122.Qd3+ Kf2 123.Qc2+ Qe2 124.Qc5+ Qe3 125.Qc2+ Kf3 126.Qd1+ Kg3 127.Qd6+ Kf2 0-1

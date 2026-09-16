@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.14"]
+[Round "4"]
+[White "Burovic, Rijad"]
+[Black "Muratovic, Efim"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2323"]
+[ECO "B40"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.d3 Nc6 6.g3 Nge7 7.Bg2 Ng6 8.Qe2 Qc7 9.Na3 Ncxe5 10.Nxe5 Qxe5 11.Be4 dxc3 12.h4 f5 13.Nc4 Qf6 14.Bf3 Be7 15.h5 Nf8 16.O-O Nd7 17.bxc3 Nb6 18.Bf4 O-O 19.Rab1 Nd5 20.Be5 Qg5 21.Ne3 Nb6 22.d4 f4 23.Ng2 fxg3 24.fxg3 cxd4 25.cxd4 Bf6 26.Kh2 Bxe5 27.dxe5 Nd7 28.Rbe1 Rb8 29.Bg4 Re8 30.Qf2 Qe7 31.Qxa7 b6 32.Nf4 Nxe5 33.Qxb8 Nxg4+ 34.Kg1 Bb7 35.Qxe8+ Qxe8 36.Nxe6 Nf6 37.Nxg7 Qc6 38.Re2 Kxg7 39.Re7+ Kh6 40.Rxb7 Qxb7 41.Rxf6+ Kg5 42.Rf4 b5 43.Rb4 Qd5 44.a3 Kxh5 45.Kh2 Kg5 46.Rb2 Qd3 47.Kh3 h5 48.Rb4 Qe2 49.a4 Qf1+ 50.Kh2 Qf2+ 51.Kh3 Qf5+ 0-1

@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-7/N0mFXvpc/uz5owkuu"]
+[Date "2026.07.03"]
+[Round "7.15"]
+[White "Becker, Rogerio Sperb"]
+[Black "Ribeiro, Matheus Mendes Domingues"]
+[Result "0-1"]
+[WhiteElo "2173"]
+[BlackElo "2345"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.Bc4 b5 10.Bb3 c5 11.dxc5 Qxd1+ 12.Rxd1 Bb7 13.Ke2 Nd7 14.c6 Bxc6 15.Rhg1 Rg8 16.g3 Rc8 17.Nd4 Nc5 18.Nxc6 Rxc6 19.Nb1 Bf6 20.c3 Ke7 21.Bc2 Nd7 22.f4 Nb6 23.Bb3 Rb8 24.Rd2 a5 25.a3 Nd7 26.Bc2 Nc5 27.b4 Nd7 28.Bd3 Bg7 29.Rb2 axb4 30.Rxb4 Rcb6 31.c4 bxc4 32.Rxc4 Rb2+ 33.Nd2 Ra2 34.Rgc1 Rbb2 35.R1c2 Rxc2 36.Rxc2 Rxa3 37.Nf3 Ra7 38.Rc6 Nf6 39.Nd4 Rd7 40.Nb5 Nd5 41.Bc4 Bf6 42.Ra6 Kf8 43.Kf3 Nb4 44.Ra8+ Bd8 45.h3 Nc2 46.g4 fxg4+ 47.hxg4 Nd4+ 48.Nxd4 Rxd4 49.Ba2 Kg7 50.f5 exf5 51.gxf5 Rd7 52.Bb1 Bg5 53.Be4 h5 54.Rb8 Bd8 55.Rb7 Bc7 56.Ra7 Kf6 57.Ra6+ Kg5 58.Ra1 h4 59.Ra8 Bg3 60.Rg8+ Kf6 61.Rh8 Ra7 62.Rh7 Ke5 63.Bc2 Ra2 64.Bd3 Ra3 65.Ke3 Kf6 66.Ke4 Ra4+ 67.Kf3 Rf4+ 68.Kg2 Rd4 69.Bb5 Rd2+ 70.Kf3 Rf2+ 71.Kg4 Rf4+ 72.Kh3 Re4 73.Bc6 Re2 74.Bd5 Kg5 75.Rg7+ Kf4 76.Bg2 f6 77.Rb7 Kxf5 78.Rb5+ Be5 79.Rb3 Kg5 80.Rd3 Bf4 81.Rd5+ f5 82.Rd3 Re5 83.Bf3 Be3 84.Bg2 Re7 85.Rb3 Bd2 86.Rd3 Re2 87.Bf3 Rf2 88.Bg2 Bf4 89.Rb3 Rd2 90.Ra3 Rd6 91.Rb3 Be5 92.Re3 Bd4 93.Rd3 f4 94.Be4 Kf6 95.Bf3 Kf5 96.Bg4+ Ke5 97.Rb3 Bf2 98.Rb5+ Ke4 99.Rb4+ Bd4 100.Rb3 Rg6 101.Ra3 Rb6 102.Kxh4 Be3 103.Ra8 Rh6+ 104.Bh5 f3 105.Ra4+ Bd4 106.Rb4 f2 107.Rb1 Kf4 108.Kh3 Kf5 0-1

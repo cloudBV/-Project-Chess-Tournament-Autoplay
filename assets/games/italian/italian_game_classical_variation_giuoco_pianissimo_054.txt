@@ -1,0 +1,15 @@
+[Event "Round 8: Yudasin, Leonid - Gauri, Shankar"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-8/5RchrVuD/hWR34wRi"]
+[Date "2026.07.11"]
+[Round "8.2"]
+[White "Yudasin, Leonid"]
+[Black "Gauri, Shankar"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2382"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 O-O 6.b4 Bb6 7.a4 a6 8.Bg5 d6 9.Nbd2 h6 10.Bh4 g5 11.Bg3 Ne7 12.O-O Ng6 13.d4 Qe7 14.Re1 h5 15.h3 h4 16.Bh2 g4 17.hxg4 Nxg4 18.Bf1 Kg7 19.Nc4 Rh8 20.Ne3 Nxe3 21.fxe3 Bg4 22.Ra2 a5 23.b5 Rag8 24.Rf2 Kf8 25.Qb3 Rg7 26.Qd5 Rh5 27.Qxb7 Kg8 28.Kh1 Kh7 29.Nd2 h3 30.gxh3 Qh4 31.Ree2 Bxe2 32.Rxe2 Qf6 33.Rg2 Rxh3 34.Qc8 Rxe3 35.Bg1 Rg8 36.Rh2+ Kg7 37.Qf5 Qxf5 38.exf5 Rxc3 39.fxg6 fxg6 40.dxe5 dxe5 41.Bxb6 cxb6 42.Nc4 Rf8 43.Kg1 e4 44.Rf2 Rg3+ 45.Bg2 e3 46.Re2 Rf6 47.Nxe3 Rf4 48.Nd5 Rxa4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-6/TDdeBJvE/fAAmo7O4"]
+[Date "2026.07.17"]
+[Round "6.16"]
+[White "Vassallo Barroche, Mauricio"]
+[Black "Martinez Duany, Lelys Stanley"]
+[Result "1/2-1/2"]
+[WhiteElo "2318"]
+[BlackElo "2438"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O a5 8.Qc2 c6 9.Bf4 Nbd7 10.Nc3 Nh5 11.Bc1 Nhf6 12.b3 b6 13.e4 Ba6 14.Bb2 Rc8 15.Rfd1 Bb4 16.e5 Bxc3 17.Qxc3 Ne4 18.Qe3 f5 19.Rac1 Qe7 20.Nd2 b5 21.f3 Ng5 22.Nb1 b4 23.a3 Nb6 24.c5 Na8 25.axb4 axb4 26.Rc2 Nc7 27.Bc1 h6 28.Qe1 Rb8 29.Ra2 Rb7 30.Be3 Rfb8 31.Nd2 Bd3 32.Nf1 Bxf1 33.Qxf1 Nb5 34.Rda1 Na3 35.Qd3 Rb5 36.Qd1 Qe8 37.Bf1 R5b7 38.Bd3 Qh5 39.h4 Qxf3 40.Qxf3 Nxf3+ 41.Kg2 f4 42.Kxf3 fxe3 43.Kxe3 Rf8 44.Rf2 Rxf2 45.Kxf2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 8: Larino Nieto, David - Ruiz Gomez, Alejandro"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-8/dn7ydIAm/qlsn493o"]
+[Date "2026.07.13"]
+[Round "8.1"]
+[White "Larino Nieto, David"]
+[Black "Ruiz Gomez, Alejandro"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2364"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Glek System"]
+
+1.g3 e5 2.Nf3 Nc6 3.e4 Nf6 4.Nc3 d5 5.exd5 Nxd5 6.Bg2 Nxc3 7.bxc3 Bd6 8.O-O Bg4 9.h3 Bh5 10.Rb1 Rb8 11.d3 O-O 12.g4 Bg6 13.Ng5 Qd7 14.Ne4 Be7 15.Rb5 f6 16.Be3 b6 17.Ng3 Nd8 18.c4 c6 19.Rb2 Ne6 20.Qf3 Rbc8 21.Nf5 Bc5 22.Rd1 Nd4 23.Bxd4 Bxd4 24.Rb3 Rfd8 25.a4 Bc5 26.Rdb1 Rc7 27.Ng3 Qe6 28.Qe2 Bf7 29.Be4 g6 30.Kg2 Kh8 31.Qf3 Rf8 32.a5 bxa5 33.Rb7 Rfc8 34.Rxc7 Rxc7 35.Rb8+ Bg8 36.h4 a4 37.h5 gxh5 38.Nxh5 Be7 39.Bxh7 Kxh7 40.Qh3 f5 41.Nf6+ 1-0

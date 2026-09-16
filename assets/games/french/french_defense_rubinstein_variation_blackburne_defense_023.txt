@@ -1,0 +1,14 @@
+[Event "Round 9: Haitin, Ilja - Harikrishnan.A.Ra"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-9/oOGinc0i/Rd78xAkO"]
+[Date "2026.07.18"]
+[Round "9.3"]
+[White "Haitin, Ilja"]
+[Black "Harikrishnan.A.Ra"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "2519"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Bxf6 Nxf6 8.Bd3 Nxe4 9.Bxe4 c5 10.Qe2 Qa5+ 11.c3 Be7 12.O-O-O cxd4 13.Nxd4 Qxa2 14.Qb5+ Bd7 15.Qxb7 Rc8 16.Ne2 Rd8 17.Rxd7 Rxd7 18.Bc6 O-O 19.Qxd7 Bg5+ 20.f4 Rd8 21.Qxd8+ Bxd8 22.Rd1 Bb6 23.Kc2 Qc4 24.Bf3 Qa4+ 25.Kd2 Be3+ 26.Ke1 Bf2+ 27.Kd2 Qb3 28.Rb1 a5 29.Nc1 Qb6 30.Nd3 Be3+ 31.Kc2 a4 32.Ra1 Qb3+ 33.Kb1 Qc4 34.Kc2 Bxf4 35.Nxf4 Qxf4 36.Rd1 e5 37.Bd5 e4 38.c4 e3 39.Kd3 Qf2 40.Bf3 Qxb2 41.c5 Qb5+ 42.Kxe3 Qxc5+ 43.Ke2 a3 44.Bd5 Qe7+ 45.Kf1 Qf6+ 46.Ke1 Qe5+ 47.Kf1 Qb2 0-1

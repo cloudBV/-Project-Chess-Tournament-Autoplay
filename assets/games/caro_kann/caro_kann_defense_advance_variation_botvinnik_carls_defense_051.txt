@@ -1,0 +1,15 @@
+[Event "Round 3: Abdurakhmonov, Mukhammadali - Ipek, Egehan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/wOZSADmF"]
+[Date "2026.07.14"]
+[Round "3.14"]
+[White "Abdurakhmonov, Mukhammadali"]
+[Black "Ipek, Egehan"]
+[Result "1-0"]
+[WhiteElo "2383"]
+[BlackElo "2206"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.Nf3 Bg4 6.Bb5 Qa5+ 7.Nc3 e6 8.Be3 Ne7 9.a3 Nf5 10.b4 Nxe3 11.fxe3 Qc7 12.O-O Be7 13.e4 d4 14.Nd5 exd5 15.exd5 Bg5 16.Qxd4 Bxf3 17.Rxf3 O-O 18.dxc6 bxc6 19.Bc4 Rad8 20.Qe4 Rde8 21.Rf5 h6 22.Raf1 1-0

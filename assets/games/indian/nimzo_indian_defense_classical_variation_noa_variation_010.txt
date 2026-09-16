@@ -1,0 +1,14 @@
+[Event "Round 5: Trimitzios, Petros - Poupalos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/jPoxHyCd"]
+[Date "2026.07.08"]
+[Round "5.72"]
+[White "Trimitzios, Petros"]
+[Black "Poupalos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2204"]
+[BlackElo "2230"]
+[ECO "E34"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.c4 e6 2.d4 Nf6 3.Nc3 Bb4 4.Qc2 d5 5.Bg5 h6 6.Bxf6 Qxf6 7.Nf3 O-O 8.a3 Bxc3+ 9.Qxc3 dxc4 10.Qxc4 c6 11.e3 Nd7 12.Qc3 c5 13.Rc1 b6 14.Bb5 cxd4 15.exd4 Rd8 16.Qc7 Rb8 17.O-O Rb7 18.Qg3 Nb8 19.Bd3 b5 20.Be4 Rb6 21.Qc7 Ba6 22.Qxa7 Rbd6 23.Rfe1 g5 24.h3 h5 25.Rc5 Kf8 26.Nxg5 Qe7 27.Qxe7+ Kxe7 28.Nf3 h4 29.Rh5 Nc6 30.d5 1-0

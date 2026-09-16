@@ -1,0 +1,14 @@
+[Event "Round 2: Ospina Castro, Santiago - Arrieta Hernandez, Cristian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-2/yxyTbyuD/MhT8Hw41"]
+[Date "2026.07.11"]
+[Round "2.3"]
+[White "Ospina Castro, Santiago"]
+[Black "Arrieta Hernandez, Cristian"]
+[Result "1/2-1/2"]
+[WhiteElo "2030"]
+[BlackElo "2339"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Nf3 Bd6 6.O-O O-O 7.Bg5 c5 8.c3 Nc6 9.Nbd2 cxd4 10.Nxd4 Nxd4 11.cxd4 Be6 12.Nf3 Rc8 13.Ne5 h6 14.Bh4 Qb6 15.Bxf6 gxf6 16.Qh5 Kg7 17.Ng4 Rh8 18.Ne3 Qxd4 19.Nf5+ Bxf5 20.Bxf5 Rce8 21.Rad1 Qe5 22.g3 Bc5 23.Qg4+ Kf8 24.Qf3 Qxb2 25.Rxd5 b6 26.Bd7 Rd8 27.a4 Rg8 28.Rfd1 Rg5 29.Kg2 Rxd5 30.Rxd5 a6 31.h4 Kg7 32.Bc6 Rxd5 33.Bxd5 Qd4 34.Bb3 b5 35.axb5 axb5 36.Bd1 b4 37.Bb3 h5 38.Bd1 Qb2 39.Be2 Qd4 40.Bd1 Qd2 41.Bb3 Bd4 42.Bc4 Kf8 43.Qa8+ Kg7 44.Qf3 Kf8 45.Qa8+ Kg7 46.Qf3 Bb6 47.Bb3 Ba7 48.Bc4 Qb2 49.Bd5 Qd2 50.Bb3 Qb2 51.Bd5 b3 52.Bxb3 Bxf2 53.Qxf2 Qxb3 54.Qe2 Qd5+ 55.Kh2 Kg6 56.Qc2+ f5 57.Qf2 Qb5 58.Qd2 f6 59.Qa2 Qe8 60.Qc2 Qe4 61.Qa2 Kg7 62.Qf2 Qg4 63.Qa7+ Kg6 64.Qf2 Qc4 65.Qd2 f4 66.gxf4 Kf5 67.Kg3 Qb3+ 68.Kg2 Qb7+ 69.Kh2 Kg4 70.Qf2 Qf3 71.Qg1+ Kxh4 72.Qe1+ Kg4 73.Qe6+ f5 74.Qg6+ Kxf4 75.Qd6+ Ke3 76.Qc5+ Ke2 77.Qc2+ Ke1 78.Qb1+ Kf2 79.Qc2+ Ke1 80.Qb1+ Kd2 81.Qb2+ Kd3 82.Qb3+ Ke4 83.Qc4+ Ke5 84.Qc7+ Kd4 85.Qb6+ Kc4 86.Qe6+ Qd5 87.Qe2+ Kd4 88.Qxh5 Qa2+ 89.Kg1 Qb1+ 90.Kf2 Qc2+ 91.Kf1 Qd3+ 92.Kf2 Qd2+ 93.Kf1 Qf4+ 94.Ke2 Qe4+ 95.Kf2 Qc2+ 96.Kf1 Ke5 1/2-1/2

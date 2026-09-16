@@ -1,0 +1,14 @@
+[Event "54th annual World Open - 2026"]
+[Site "Washington DC, USA"]
+[Date "2026.07.05"]
+[Round "8.115"]
+[White "Muratov, Sergei"]
+[Black "Fedorov, Svetoslav Borisovich"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2158"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 d5 4.c3 Nc6 5.Nd2 a6 6.Ngf3 cxd4 7.exd4 g6 8.Be2 Bg7 9.O-O O-O 10.h3 Bd7 11.Re1 Rc8 12.Bf1 b5 13.a4 Na5 14.b4 Nc4 15.Nxc4 dxc4 16.axb5 axb5 17.Qd2 Bc6 18.Ne5 Bb7 19.Ra5 Qd5 20.Qe3 Rfe8 21.Bh6 Bxh6 22.Qxh6 Ne4 23.Be2 Nd2 24.Bf3 Nxf3+ 25.Nxf3 f6 26.Qf4 Kg7 27.Re3 e6 28.Ne1 Re7 29.Qf3 Qd7 30.Qe2 Rce8 31.f4 Bc6 32.Qf2 e5 33.dxe5 fxe5 34.Rxe5 Rxe5 35.fxe5 Rxe5 36.Ra7 Bb7 37.Rxb7 Qxb7 38.Nf3 Rd5 39.Qe3 Qc7 40.Ng5 Qd7 41.Ne6+ Kg8 42.h4 Rd1+ 43.Kh2 Qe7 44.Qe4 Rd8 45.Qg4 Qd7 46.Qg5 Qd6+ 47.Kh1 Re8 48.Nf4 Re4 49.g3 Qd2 50.Qd5+ Qxd5 51.Nxd5 Re5 0-1

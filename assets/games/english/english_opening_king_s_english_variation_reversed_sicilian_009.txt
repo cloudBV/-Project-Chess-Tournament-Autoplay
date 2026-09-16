@@ -1,0 +1,14 @@
+[Event "Round 6: Moran, Daniel Steven - Dominguez, Ramiro"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-6/Hgm43mtH/LAxAL4wN"]
+[Date "2026.07.11"]
+[Round "6.11"]
+[White "Moran, Daniel Steven"]
+[Black "Dominguez, Ramiro"]
+[Result "0-1"]
+[WhiteElo "2090"]
+[BlackElo "2187"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 Bc5 3.g3 d6 4.Bg2 a6 5.e3 Ba7 6.Nge2 Nc6 7.d3 Nf6 8.Rb1 O-O 9.b4 Rb8 10.a4 a5 11.bxa5 Nxa5 12.O-O Bd7 13.Nb5 Bb6 14.Bd2 Bc6 15.e4 Bd7 16.Nec3 c6 17.Na3 Bc7 18.Qe2 Bg4 19.f3 Bd7 20.Kh1 Qe7 21.Nc2 b6 22.Ne3 Nb7 23.Rg1 Nc5 24.g4 Ne6 25.Nf5 Qd8 26.Be3 g6 27.Ng3 Re8 28.Qf2 Bc8 29.Bh3 d5 30.cxd5 cxd5 31.Nb5 d4 32.Bd2 Nc5 33.Qe2 Ba6 34.Rgc1 Bd6 35.Bb4 Be7 36.Qa2 Qd7 37.Kg2 Bc8 38.Rd1 h5 39.Qe2 Nxa4 40.Bxe7 Qxe7 41.Rbc1 Ba6 42.Nc7 Nc3 43.Rxc3 dxc3 44.Nxa6 Rbc8 45.Nb4 Qxb4 46.g5 Nh7 47.f4 exf4 48.Nxh5 gxh5 49.Qxh5 c2 50.Rc1 Qd2+ 51.Kf3 Qe3+ 52.Kg4 Qxc1 53.Kf5 Qa3 54.g6 Qc5+ 55.Kg4 Qxh5+ 56.Kxh5 fxg6+ 0-1

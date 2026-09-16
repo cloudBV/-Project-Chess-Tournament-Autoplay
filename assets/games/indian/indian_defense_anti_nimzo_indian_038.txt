@@ -1,0 +1,15 @@
+[Event "Round 8: Atanejhad, Sahebali - Salci, Aytug Celal"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/Jl0KFUKV"]
+[Date "2026.07.18"]
+[Round "8.24"]
+[White "Atanejhad, Sahebali"]
+[Black "Salci, Aytug Celal"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2141"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 cxd4 5.exd4 d5 6.Nc3 dxc4 7.Bxc4 Nbd7 8.O-O Be7 9.Re1 O-O 10.Bg5 Nb6 11.Bb3 Bd7 12.Ne5 Bc6 13.Qd3 Nbd5 14.Qh3 Nc7 15.Rad1 Nfd5 16.Bc2 f5 17.Nxc6 bxc6 18.Bxe7 Qxe7 19.Bb3 Rf6 20.Qf3 Qd6 21.Re5 Rb8 22.g3 Rb4 23.Qd3 Rg6 24.Nxd5 cxd5 25.Rc1 Rf6 26.Re2 Nb5 27.Rc8+ Rf8 28.Rxf8+ Kxf8 29.Rc2 Nxd4 30.Rc8+ Kf7 31.Qd1 Kg6 32.Ba4 Rc4 33.Be8+ Kf6 34.Rxc4 dxc4 35.Qh5 Qd5 36.Qf7+ Ke5 37.Qxg7+ Ke4 38.Bh5 Kd3 39.Qxa7 Kc2 40.Qa3 Kb1 41.Qc3 Kxa2 42.Qa3+ Kb1 43.Qc3 Qe4 44.h4 Qd3 45.Kg2 h6 46.Kg1 Nb3 47.Bf7 Nc5 48.Qb4 Qd4 49.Qc3 Qxc3 50.bxc3 Kc2 51.f3 Kxc3 52.g4 Kd2 53.gxf5 c3 54.fxe6 c2 55.e7 0-1

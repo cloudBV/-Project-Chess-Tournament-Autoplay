@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "2.6"]
+[White "Stepinski, Piotr"]
+[Black "Borowik, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2047"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.a4 Nf6 5.Nc3 g6 6.a5 a6 7.Bc4 Bg7 8.Bxf7+ Kf8 9.Ng5 Ne5 10.Ne6+ Bxe6 11.Bxe6 Nc6 12.O-O Nd4 13.Bc4 e6 14.d3 Kf7 15.Ne2 Re8 16.Nxd4 cxd4 17.Bb3 Rc8 18.f4 Kf8 19.f5 exf5 20.exf5 Rc5 21.fxg6 hxg6 22.Qg4 Re1 23.Qxg6 Qe7 24.Bd2 Rxa1 25.Rxa1 Re5 26.Rf1 d5 27.Bh6 Kg8 28.Bxg7 Qxg7 29.Qxf6 1-0

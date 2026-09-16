@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.24"]
+[White "Fiedorek, Michal"]
+[Black "Valle Luis, Liam"]
+[Result "1/2-1/2"]
+[WhiteElo "2356"]
+[BlackElo "2107"]
+[ECO "B40"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.a3 b6 6.d4 cxd4 7.Nxd4 d6 8.Bb5+ Bd7 9.c4 Nc7 10.exd6 Bxd6 11.Nc3 O-O 12.O-O Be5 13.Be3 Bxb5 14.Ndxb5 Nxb5 15.Nxb5 Nc6 16.Qc2 Qf6 17.Rab1 Rfc8 18.f4 Bd4 19.Nxd4 Nxd4 20.Qd3 Nf5 21.Bf2 Rd8 22.Qe4 Nd6 23.Qe2 Rac8 24.b3 Nf5 25.Rbd1 Qc3 26.Qa2 Ne3 27.Rc1 Qd3 28.Rfe1 Ng4 29.Bg3 Rd4 30.Qe2 Nf6 31.Qxd3 Rxd3 32.Rb1 Rcd8 33.Bf2 Rc3 34.Red1 Rxd1+ 35.Rxd1 h5 36.Rb1 Ne4 37.Be1 Re3 38.Kf1 Kf8 39.a4 Ke8 40.a5 bxa5 41.Bxa5 h4 42.Be1 h3 43.gxh3 Rxh3 1/2-1/2

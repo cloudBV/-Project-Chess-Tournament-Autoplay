@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.2"]
+[White "Venkatesh, Narayan"]
+[Black "Zhou, Jianchao"]
+[Result "1/2-1/2"]
+[WhiteElo "2270"]
+[BlackElo "2605"]
+[ECO "E75"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Averbakh Variation, Main Line"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 e6 8.Qc1 exd5 9.exd5 Qb6 10.Nf3 Bf5 11.Nh4 Bc8 12.O-O Re8 13.Bd3 Nbd7 14.Nf3 Ng4 15.Qd2 h6 16.Bf4 Nde5 17.Nxe5 Nxe5 18.Be2 h5 19.h3 Bf5 20.b3 Qd8 21.Rac1 h4 22.Be3 1/2-1/2

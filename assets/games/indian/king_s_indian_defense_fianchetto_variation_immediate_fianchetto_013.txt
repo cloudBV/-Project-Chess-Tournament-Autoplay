@@ -1,0 +1,15 @@
+[Event "Round 5: Kodiri, Pairavi - Prokhorov, Aleksey"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-5/xJC51h4A/MGqkOQRW"]
+[Date "2026.07.19"]
+[Round "5.12"]
+[White "Kodiri, Pairavi"]
+[Black "Prokhorov, Aleksey"]
+[Result "1/2-1/2"]
+[WhiteElo "2190"]
+[BlackElo "2277"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 c5 6.d5 d6 7.Nf3 e6 8.O-O exd5 9.cxd5 Re8 10.Re1 Bf5 11.Nd2 Qe7 12.Nc4 Ng4 13.Nb5 Rd8 14.e4 Bc8 15.h3 Ne5 16.Nxe5 dxe5 17.d6 Qf8 18.Nc7 Na6 19.Nxa8 Be6 20.Qa4 Rxd6 21.Nc7 Nxc7 22.Qxa7 Qc8 23.Qxc5 Rc6 24.Qe7 Bxh3 25.Be3 Bxg2 26.Kxg2 Bf6 27.Qb4 Ne6 28.Rac1 h5 29.Rxc6 Qxc6 30.Rc1 Qd7 31.Qc4 Kg7 32.Qd5 Qa4 33.Rc4 Qa6 34.Rb4 h4 35.Rb6 Qe2 36.Rxb7 h3+ 37.Kxh3 Qf1+ 38.Kh2 Ng5 1/2-1/2

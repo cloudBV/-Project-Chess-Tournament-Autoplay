@@ -1,0 +1,14 @@
+[Event "Round 9: Vargas Sanchez, Daniel Jose - Londono Lopez, Donaldo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-9/L7TSgSRN/dw1TNd0p"]
+[Date "2026.07.11"]
+[Round "9.12"]
+[White "Vargas Sanchez, Daniel Jose"]
+[Black "Londono Lopez, Donaldo"]
+[Result "0-1"]
+[WhiteElo "2147"]
+[BlackElo "2106"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 Bb7 5.a4 b4 6.Nbd2 c5 7.O-O Be7 8.dxc5 Bxc5 9.Nb3 Be7 10.a5 O-O 11.Bf4 d6 12.Bd2 Na6 13.Qe1 Rb8 14.e3 Qc7 15.Nbd4 Ne4 16.Bxb4 Nxb4 17.Qxb4 Ba6 18.Qa3 d5 19.Qa2 Bc4 20.b3 Bxf1 21.Bxf1 Rfc8 22.Bd3 Nc5 23.Bf1 Ne4 24.Bd3 Bf6 25.Rc1 e5 26.Ne2 Nxf2 27.Bxh7+ 0-1

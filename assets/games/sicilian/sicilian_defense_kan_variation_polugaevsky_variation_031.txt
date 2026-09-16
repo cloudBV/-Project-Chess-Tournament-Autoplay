@@ -1,0 +1,14 @@
+[Event "Round 7: Sadhwani, Raunak - Tiglon, Bryce"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/XnIG040Q"]
+[Date "2026.07.24"]
+[Round "7.7"]
+[White "Sadhwani, Raunak"]
+[Black "Tiglon, Bryce"]
+[Result "1-0"]
+[WhiteElo "2634"]
+[BlackElo "2510"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Ne7 8.Nc3 O-O 9.Be3 b5 10.O-O-O b4 11.Na4 d6 12.Qd2 a5 13.Nd4 Ba6 14.Nb5 Qd7 15.Nxa7 Qxa4 16.Kb1 Bxd3 17.Qxd3 Qd7 18.Qxd6 Qb7 19.Qb6 Qxb6 20.Bxb6 Nc8 21.Nxc8 Rxc8 22.b3 Nc6 23.Rd7 Rab8 24.Be3 Ne5 25.Rd2 h6 26.Rhd1 Kh7 27.h3 g5 28.Rd6 Rb5 29.Ra6 Rc7 30.Kb2 Ng6 31.g3 Ne5 32.Rd8 Nf3 33.Raa8 Re5 34.Rh8+ Kg6 35.Rag8+ Kf6 36.Bb6 Rd7 37.Bd8+ Rxd8 38.Rxd8 Rxe4 39.Rd3 Ng1 40.Rxh6+ Kg7 41.Rh5 Kg6 42.Rh8 Kg7 43.Ra8 Nxh3 44.f3 Re5 45.a3 Rf5 46.Re3 Rd5 47.c4 bxc3+ 48.Kxc3 Nf2 49.Kc4 g4 50.f4 1-0

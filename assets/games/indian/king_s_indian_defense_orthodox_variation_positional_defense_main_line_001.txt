@@ -1,0 +1,15 @@
+[Event "Round 5: Arizmendi Martinez, Julen Luis - Roselli Mailhe, Bernardo"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/VIhSpusV"]
+[Date "2026.07.08"]
+[Round "5.9"]
+[White "Arizmendi Martinez, Julen Luis"]
+[Black "Roselli Mailhe, Bernardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2310"]
+[ECO "E96"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense, Main Line"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6 9.Bf1 a5 10.dxe5 dxe5 11.Qc2 Re8 12.Be3 Qc7 13.h3 b6 14.Na4 Ba6 15.Rad1 Qb7 16.g4 h6 17.Qd2 b5 18.Nc3 bxc4 19.Bxh6 Nc5 20.Bxg7 Kxg7 21.Qe3 Nd3 22.Bxd3 cxd3 23.Na4 Rad8 24.Nc5 Qc8 25.Nh4 Rd6 26.Rd2 Nd7 27.Nxa6 Qxa6 28.Red1 Rh8 29.Rxd3 Rxd3 30.Rxd3 Nf8 31.Nf3 Rxh3 32.Kg2 Ne6 33.Kxh3 Nf4+ 34.Kg3 Nxd3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: Vojta, Jakub - Sindler, Michal"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-3/Wrjl6evm/5Wc0KEoC"]
+[Date "2026.07.17"]
+[Round "3.23"]
+[White "Vojta, Jakub"]
+[Black "Sindler, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2314"]
+[BlackElo "2142"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Nf6 5.e5 Nd5 6.Nc3 Nxc3 7.dxc3 d5 8.exd6 Bxd6 9.Bb5 Qc7 10.c4 O-O 11.Bxc6 Qxc6 12.Qe2 f6 13.O-O-O Bf4+ 14.Kb1 Bd7 15.g3 Bc7 16.Nd2 Rad8 17.h4 e5 18.h5 h6 19.Ne4 Be6 20.f3 Rxd1+ 21.Rxd1 Rd8 22.Rxd8+ Bxd8 23.g4 b6 24.Nc3 Bc8 25.Qd3 Qd7 26.Nd5 Kh8 27.a4 Bb7 28.Bc1 Bc6 29.Be3 a5 30.Kc1 Qe6 31.Kd2 Bd7 32.Qe4 Bc6 33.Ke2 Kg8 34.Kf2 Kf8 35.Kg3 Ke8 36.Qh7 Qf7 37.Qh8+ Qf8 38.Qh7 Qf7 39.Qh8+ Qf8 40.Qh7 1/2-1/2

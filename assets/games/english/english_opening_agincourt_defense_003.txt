@@ -1,0 +1,15 @@
+[Event "Round 8: Kingsley, Elias - Johnson, Daniel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-8/GO3zCEkj/Gw67Fyzc"]
+[Date "2026.07.01"]
+[Round "8.5"]
+[White "Kingsley, Elias"]
+[Black "Johnson, Daniel"]
+[Result "0-1"]
+[WhiteElo "2087"]
+[BlackElo "2194"]
+[ECO "A13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.cxd5 exd5 4.g3 Nf6 5.Bg2 Be7 6.O-O O-O 7.a3 a5 8.b3 c6 9.Bb2 h6 10.d3 Re8 11.Nbd2 Bf8 12.Re1 Na6 13.Qc2 Bf5 14.Rad1 Nc5 15.Qb1 Bh7 16.Qa1 Be7 17.Bh3 Qb6 18.Bd4 Qa6 19.Nh4 Ne6 20.Bxe6 fxe6 21.Ndf3 c5 22.Be5 a4 23.bxa4 Qxa4 24.Bb2 b5 25.Ne5 b4 26.axb4 Qxb4 27.Qc1 Ra2 28.Bc3 Qb3 29.Nhg6 Rc2 30.Qb1 Rxc3 31.d4 cxd4 32.Rxd4 Bc5 33.Rd3 Rxd3 34.Qxd3 Qxd3 35.exd3 Bd4 36.Kg2 Bxg6 37.Nxg6 Ng4 38.Re2 Nxf2 39.Nf4 Kf7 40.Rxf2 Bxf2 41.Kxf2 Rd8 42.Ke3 e5 43.Nh5 g6 0-1

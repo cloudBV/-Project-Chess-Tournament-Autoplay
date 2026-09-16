@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.05"]
+[Round "1.2"]
+[White "Hutois, Mickael"]
+[Black "Degraeve, Jean-Marc"]
+[Result "0-1"]
+[WhiteElo "2174"]
+[BlackElo "2500"]
+[ECO "B32"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.a4 Be7 7.N1c3 a6 8.Na3 Nf6 9.Nc4 Nxe4 10.Nxe4 d5 11.Nxe5 Nxe5 12.Ng3 Bc5 13.Be2 O-O 14.O-O Be6 15.Kh1 Qh4 16.f4 Ng4 17.Bxg4 Bxg4 18.Qxd5 Rac8 19.c3 Be6 20.Qg5 Qxg5 21.fxg5 Bc4 22.Rd1 Bb3 23.Rd7 Rfd8 24.Rxd8+ Rxd8 25.Bf4 Bxa4 26.h4 Bc6 27.Re1 Re8 28.Rxe8+ Bxe8 29.Ne4 Be7 30.Nd6 Bc6 31.Nf5 Bd8 32.Bd6 f6 33.Bf4 Kf7 34.gxf6 Bxf6 35.h5 Ke6 36.Ne3 a5 37.Kg1 a4 38.Kf2 b5 39.Nc2 Kf5 40.Bd6 Ke4 41.Nb4 Be8 42.g4 Bh4+ 43.Kg2 Bd7 44.Kh3 Bg5 45.Nc2 Bc1 46.Ba3 Kf4 47.Bd6+ Kf3 48.Nd4+ Ke4 49.Ba3 b4 0-1

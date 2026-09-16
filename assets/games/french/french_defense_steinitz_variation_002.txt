@@ -1,0 +1,14 @@
+[Event "Round 5: Aronian, Levon - Bluebaum, Matthias"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-rapid/round-5/SDBzKbs9/SnKzHPwT"]
+[Date "2026.07.12"]
+[Round "5.1"]
+[White "Aronian, Levon"]
+[Black "Bluebaum, Matthias"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2587"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Bd3 a6 8.O-O b5 9.f5 cxd4 10.fxe6 fxe6 11.Nxd4 Qb6 12.Be3 Nxd4 13.Kh1 Kd8 14.Qg4 Bc5 15.b4 Bxb4 16.Ne2 Bc5 17.Nxd4 Re8 18.Rf7 Ra7 19.Raf1 h6 20.Qh5 g5 21.c3 Nxe5 22.Rxa7 Qxa7 23.Qxh6 Kc7 24.Bxb5 Bd7 25.Bxd7 Nxd7 26.Nxe6+ Kc8 27.Nxc5 Rxe3 28.Qc6+ Kd8 29.Nb7+ Ke7 30.Qd6+ Ke8 31.Qg6+ 1-0

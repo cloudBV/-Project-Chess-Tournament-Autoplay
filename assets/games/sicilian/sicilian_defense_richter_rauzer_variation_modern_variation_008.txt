@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.7"]
+[White "Klim, Filip"]
+[Black "Warchol, Kamil"]
+[Result "0-1"]
+[WhiteElo "2100"]
+[BlackElo "2297"]
+[ECO "B61"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.O-O-O Nxd4 9.Qxd4 Qa5 10.Bxf6 gxf6 11.Kb1 Rg8 12.f4 Qc5 13.Qd2 h5 14.g3 Bh6 15.Be2 h4 16.Qd3 a6 17.Nd5 Bb5 18.Qd2 Ba4 19.Bd3 Bd7 20.Be2 f5 21.Bf3 Bg7 22.Rhe1 fxe4 23.Bxe4 e6 24.Nb4 a5 25.Nd3 Qb6 26.Ne5 Ke7 27.Re3 Ba4 28.Ra3 dxe5 29.Rxa4 Rgd8 30.Bd3 e4 31.c4 Rxd3 0-1

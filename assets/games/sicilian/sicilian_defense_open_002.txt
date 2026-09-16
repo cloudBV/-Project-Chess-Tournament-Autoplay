@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.04"]
+[Round "3.1"]
+[White "Mihaylov, Boyan"]
+[Black "Tilicheev, Viacheslav"]
+[Result "0-1"]
+[WhiteElo "2054"]
+[BlackElo "2447"]
+[ECO "B33"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Open"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 h5 6.Bg5 Qa5 7.Bxf6 gxf6 8.Be2 e6 9.Nb5 a6 10.Nd6+ Bxd6 11.Qxd6 Qb4 12.Qxb4 Nxb4 13.O-O-O Ke7 14.f4 Nc6 15.Na4 b5 16.Nb6 Rb8 17.Nxc8+ Rbxc8 18.Kb1 h4 19.Rd2 Rc7 20.Rhd1 Rg8 21.Bf3 Na5 22.Rd6 Ra7 23.c3 Nc4 24.R6d3 Rc7 25.b3 Na5 26.Kb2 Nc6 27.R3d2 a5 28.Rg1 b4 29.c4 Nb8 30.g4 Na6 31.g5 fxg5 32.Rxg5 Rxg5 33.fxg5 Nc5 34.Kc2 Ra7 35.Rg2 a4 36.bxa4 Rxa4 37.Kb1 Ra3 38.Bh5 Nxe4 39.Rg4 Nc3+ 40.Kb2 Rxa2+ 41.Kb3 Rxh2 42.Rf4 Rg2 43.Rxf7+ Kd6 44.g6 h3 45.Rf3 h2 46.Rh3 Rg3 47.Rxh2 Nd5+ 48.Ka4 Kc5 49.Ra2 Nc3+ 0-1

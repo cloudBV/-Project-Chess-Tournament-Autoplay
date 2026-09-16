@@ -1,0 +1,15 @@
+[Event "Round 6: Khazhatuly, Alikhan - Khalafvand, Dorsa Sadat"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/grTu6piY"]
+[Date "2026.07.02"]
+[Round "6.30"]
+[White "Khazhatuly, Alikhan"]
+[Black "Khalafvand, Dorsa Sadat"]
+[Result "1/2-1/2"]
+[WhiteElo "2148"]
+[BlackElo "2072"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.Bd3 Bxd3 6.Qxd3 e6 7.Nf3 c5 8.c3 Nc6 9.h5 Rc8 10.dxc5 Bxc5 11.Nbd2 h6 12.Nb3 Ba7 13.Be3 Bb8 14.Bd4 Nge7 15.g4 Nxd4 16.Nbxd4 Nc6 17.Nxc6 Rxc6 18.O-O-O Ba7 19.Rd2 Rc4 20.Qxc4 dxc4 21.Rxd8+ Kxd8 22.Nd2 b5 23.Ne4 Ke7 24.Rd1 Rd8 25.Rxd8 Kxd8 26.Kd2 Bb8 27.f4 Ke7 28.Ke3 Ba7+ 29.Kf3 f6 30.exf6+ gxf6 31.g5 f5 32.Nf6 Bb6 33.Nh7 b4 34.cxb4 Bd4 35.b3 c3 36.Ke2 e5 37.gxh6 c2 38.Kd2 Be3+ 39.Kxc2 Bxf4 40.a4 Bxh6 41.b5 axb5 42.axb5 Kd6 43.Nf6 Kc5 44.Ng8 Bg7 1/2-1/2

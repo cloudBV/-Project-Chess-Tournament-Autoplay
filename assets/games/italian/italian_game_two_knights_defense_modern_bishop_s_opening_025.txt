@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-6/evaZ4OoL/WscfE9hi"]
+[Date "2026.07.05"]
+[Round "6.4"]
+[White "Ermitsch, Magnus"]
+[Black "Ajay Santhosh Parvathareddy"]
+[Result "1-0"]
+[WhiteElo "2411"]
+[BlackElo "2476"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nbd2 d5 7.exd5 Nxd5 8.Re1 f6 9.d4 exd4 10.Nb3 Bg4 11.Nbxd4 Nxd4 12.Qxd4 Bxf3 13.gxf3 c6 14.Bd2 Kh8 15.Bb3 f5 16.Rad1 b6 17.Bxd5 Bc5 18.Qf4 Bd6 19.Qg5 cxd5 20.Qxd8 Rfxd8 21.Be3 Rd7 22.Kg2 Re8 23.Rxd5 f4 24.Bd2 Rxe1 25.Bxe1 Rd8 26.Bd2 Bc7 27.Rxd8+ Bxd8 28.Bxf4 Kg8 29.c4 Kf7 30.b4 a6 31.a4 Ke6 32.b5 axb5 33.axb5 h5 34.Be3 Bc7 35.f4 Kf5 36.Kf3 g6 37.h3 Bd8 38.c5 bxc5 39.Bxc5 Bc7 40.Be3 Bd6 41.b6 Ke6 42.b7 1-0

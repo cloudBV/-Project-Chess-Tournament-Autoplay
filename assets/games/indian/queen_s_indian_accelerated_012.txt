@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "5.1"]
+[White "Nagly, Wojciech"]
+[Black "Raczek, Krzysztof"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2458"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nf3 Bb7 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 Nxc3 9.bxc3 Nc6 10.Bb2 Na5 11.Nd2 Bxg2 12.Kxg2 c5 13.e4 cxd4 14.cxd4 Rc8 15.Qd3 d6 16.Rac1 Qd7 17.f4 Qa4 18.Rc2 b5 19.Rfc1 bxc4 20.Nxc4 Qb5 21.Ba1 Nxc4 22.Rxc4 d5 23.exd5 Qxd5+ 24.Kf2 Rxc4 25.Qxc4 Qd7 26.d5 Bxa1 27.Rxa1 Rc8 28.Qd3 Qa4 29.d6 Qc2+ 30.Qxc2 Rxc2+ 31.Ke3 exd6 32.h4 Kf8 33.a4 h5 34.Rb1 Ra2 35.Rb8+ Kg7 36.Rd8 Rxa4 37.Rxd6 Ra3+ 38.Kf2 a6 39.Rd7 Kf6 40.Ra7 Ke6 41.Rb7 f6 42.Rg7 Kf5 43.Kg2 a5 44.Kf2 a4 45.Rf7 Rb3 46.Ra7 a3 47.Kg2 Kg4 48.Ra6 Rb2+ 49.Kf1 a2 0-1

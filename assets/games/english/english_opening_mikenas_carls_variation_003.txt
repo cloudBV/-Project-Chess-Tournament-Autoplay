@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/uX4BqjnG"]
+[Date "2026.07.04"]
+[Round "8.4"]
+[White "Mekhitarian, Krikor Sevag"]
+[Black "Flores Quillas, Diego Saul Rodri"]
+[Result "1/2-1/2"]
+[WhiteElo "2544"]
+[BlackElo "2420"]
+[ECO "A18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 d4 6.exf6 dxc3 7.Bb5+ c6 8.Qe2+ Be6 9.Bc4 cxd2+ 10.Bxd2 Qxf6 11.Bc3 Qh6 12.Nf3 Be7 13.Bxe6 Qxe6 14.Qxe6 fxe6 15.Bxg7 Rg8 16.Be5 Nd7 17.Bg3 Bf6 18.O-O-O O-O-O 19.Kc2 a5 20.Nd2 h5 21.Ne4 Be7 22.Nd6+ Bxd6 23.Rxd6 Rg4 24.f3 Rc4+ 25.Kb1 Nb6 26.Rxd8+ Kxd8 27.Be1 Rc5 28.Bf2 Rb5 29.Bxb6+ Rxb6 30.Re1 Ke7 31.Re5 h4 32.Rxa5 Rb4 33.Kc2 b5 34.Ra7+ Kd6 35.b3 Rf4 36.Rh7 c5 37.Rh5 e5 38.Rh6+ Kd5 39.Rh8 e4 40.Rd8+ Kc6 41.fxe4 Rxe4 42.Rd2 Rg4 43.Kc3 Kb6 44.Rf2 Ka5 45.a3 Kb6 46.Rf6+ Kc7 47.Rf2 Kc6 48.Kd3 Kd5 49.Ke3 Re4+ 50.Kd3 Rd4+ 51.Kc3 Rg4 52.Ra2 c4 53.Rd2+ Kc5 54.b4+ Kc6 55.Rf2 Re4 56.Rf6+ Kb7 57.Rf3 Re2 58.Rh3 Rxg2 59.Rxh4 Ra2 60.Rh7+ Kc6 61.Rh6+ Kd5 62.Rh5+ Kc6 63.Rh6+ Kd5 64.Rh5+ Kc6 65.Rh6+ 1/2-1/2

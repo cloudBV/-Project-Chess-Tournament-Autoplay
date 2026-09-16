@@ -1,0 +1,15 @@
+[Event "Round 7: Romero S, Juan Sebastian - Castillo Rodriguez, Edward Andres"]
+[Site "https://lichess.org/broadcast/irt-centro-comercial-av-chile-2026-7mo/round-7/C3KUFkMc/qFLwbCPw"]
+[Date "2026.07.18"]
+[Round "7.3"]
+[White "Romero S, Juan Sebastian"]
+[Black "Castillo Rodriguez, Edward Andres"]
+[Result "*"]
+[WhiteElo "2025"]
+[BlackElo "2096"]
+[ECO "A07"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.b3 c5 5.Bb2 Bd6 6.O-O Nc6 7.d4 O-O 8.e3 b6 9.Re1 Bb7 10.Nbd2 Ne7 11.Ne5 Ng6 12.Nxg6 hxg6 13.c4 cxd4 14.exd4 Rc8 15.Rc1 Ba8 16.Qe2 Bb4 17.a3 Bxd2 18.Qxd2 dxc4 19.bxc4 Bxg2 20.Kxg2 Rxc4 21.Rxc4 Qd5+ 22.f3 Qxc4 23.Rc1 Qa4 24.Qd3 Nd5 25.Kf2 Rd8 26.Rc2 a5 27.Qc4 Qd7 28.Qc6 Qe7 29.Qc4 Qg5 30.Qb3 Qf5 31.Kg1 Ne3 32.Rc3 Nd5 33.Rc1 g5 34.Kg2 g4 35.fxg4 Qe4+ 36.Qf3 Ne3+ 37.Kf2 Nxg4+ 38.Kg2 Qg6 39.Qf4 Rd5 40.h3 Nh6 41.Rc8+ Kh7 42.g4 Qd3 43.Qf3 Qd2+ 44.Qf2 Qxf2+ 45.Kxf2 e5 46.Rc4 Rb5 47.Bc1 exd4 48.Rxd4 f6 49.Be3 Rb2+ 50.Kf3 Nf7 51.Ke4 Rb3 52.a4 Ne5 53.g5 fxg5 54.Bxg5 Nf3 55.Rd5 Nxg5+ 56.Rxg5 Rb4+ 57.Kd5 Rxa4 58.Rg3 Rb4 59.Kc6 a4 60.Rg2 Rb3 61.h4 b5 62.Kc5 a3 63.Ra2 b4 64.Kc4 Rb2 65.Ra1 a2 66.Kd4 *

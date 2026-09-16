@@ -1,0 +1,14 @@
+[Event "Round 7: Ushenina, Anna - Hutois, Mickael"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-7/3t3aaHmO/tnk2j3Nx"]
+[Date "2026.07.24"]
+[Round "7.6"]
+[White "Ushenina, Anna"]
+[Black "Hutois, Mickael"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2174"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Qd3 Nc6 9.Nxd7 Qxd7 10.Qxd7+ Kxd7 11.Nc3 Be7 12.b3 Rhd8 13.Bb2 Rac8 14.O-O Ke8 15.d3 b6 16.Rac1 Kf8 17.Rfd1 Ne8 18.Ne4 Nd6 19.Nxd6 Rxd6 20.Kf1 Rdd8 21.e3 Nb4 22.Ke2 Nd5 23.a3 Bf6 24.Bxf6 Nxf6 25.Rc2 Ne8 26.Bb7 Rc7 27.Ba6 Ke7 28.Rdc1 Rcd7 29.Bb5 Rd5 30.Bxe8 Kxe8 31.Rc3 Ke7 32.b4 cxb4 33.axb4 R8d7 34.h4 Rb5 35.Rc4 a5 36.bxa5 bxa5 37.R1c2 Rbd5 38.R2c3 Rb5 39.Ra3 Ra7 40.e4 e5 41.Ke3 f6 42.f4 Kd6 43.d4 exd4+ 44.Kxd4 h5 45.Rac3 Rb6 46.Kd3 Rb1 47.Ra3 Rb5 48.Rac3 Rb1 49.Ra3 Rb5 50.Rac3 1/2-1/2

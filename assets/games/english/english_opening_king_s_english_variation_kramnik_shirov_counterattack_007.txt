@@ -1,0 +1,15 @@
+[Event "Round 9: Primbetov, Kazbek - Omonova, Umida"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/m4GxPyUO"]
+[Date "2026.07.05"]
+[Round "9.26"]
+[White "Primbetov, Kazbek"]
+[Black "Omonova, Umida"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2328"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 Bxc3 4.dxc3 d6 5.Bg2 Nf6 6.Nf3 O-O 7.O-O a5 8.a4 h6 9.b3 Be6 10.Ba3 Qc8 11.c5 e4 12.Nd4 d5 13.Nxe6 Qxe6 14.c6 Rd8 15.cxb7 Ra7 16.b4 Rxb7 17.Rb1 Nbd7 18.bxa5 Ra7 19.c4 Ne5 20.cxd5 Rxd5 21.Rb8+ Kh7 22.Qb1 Nc4 23.Bb4 Nd2 24.Bxd2 Rxd2 25.f3 Rxa5 26.fxe4 Qe5 27.Rb5 Rxb5 28.Qxb5 Qd4+ 29.Kh1 c5 30.Qb3 c4 31.Qb5 Rd1 32.Qf5+ g6 33.Qf4 c3 34.e3 Qd8 35.Qf2 Rd2 36.Qe1 c2 37.Qc1 Qd3 38.Qb2 Qe2 39.Rg1 Rd1 0-1

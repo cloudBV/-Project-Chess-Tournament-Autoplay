@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.16"]
+[Round "5.4"]
+[White "Zhang, Di"]
+[Black "Muradli, Mahammad"]
+[Result "1-0"]
+[WhiteElo "2427"]
+[BlackElo "2642"]
+[ECO "B22"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.cxd4 d6 6.Nf3 Nc6 7.Bc4 dxe5 8.dxe5 Be6 9.O-O g6 10.Qe2 Nc7 11.Nc3 Bxc4 12.Qxc4 Bg7 13.Qh4 Ne6 14.Rd1 Qa5 15.Be3 Qb4 16.Ne4 Rd8 17.Rxd8+ Kxd8 18.Rc1 Re8 19.b3 Kc7 20.Nd6 Qxh4 21.Nxe8+ Kd8 22.Nxh4 Bxe5 23.Nf3 Bb2 24.Rb1 Bc3 25.b4 Bxb4 26.Ne5 Nxe5 27.Rxb4 b6 28.Re4 Nc6 29.Rxe6 fxe6 30.Ng7 Kd7 31.h4 Nb4 32.a3 Nc2 33.Bc1 e5 34.Bb2 e6 35.h5 b5 36.Kf1 a5 37.Ke2 Nd4+ 38.Kd3 Nc6 39.Ke4 a4 40.g4 Ke7 41.Bc3 Kf7 42.h6 Ke7 43.g5 Kf7 44.f3 Ne7 45.Kxe5 Nd5 46.Kd4 Nb6 47.Kc5 Nc4 48.Kb4 Nd6 49.Be5 Nc4 50.f4 1-0

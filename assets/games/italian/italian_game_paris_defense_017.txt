@@ -1,0 +1,15 @@
+[Event "Round 7: Siva Mahadevan - Shearsby, Jude"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-7/ruPHE0Ga/H4AXRV0n"]
+[Date "2026.07.19"]
+[Round "7.5"]
+[White "Siva Mahadevan"]
+[Black "Shearsby, Jude"]
+[Result "0-1"]
+[WhiteElo "2448"]
+[BlackElo "2243"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.c3 f5 5.d3 Qf6 6.Qb3 Nge7 7.Bg5 Qg6 8.Nbd2 h6 9.Bxe7 Bxe7 10.exf5 Qxf5 11.O-O g5 12.Ne4 Nd8 13.Rae1 c6 14.Ng3 Qg6 15.d4 e4 16.Nxe4 d5 17.Ne5 Qg7 18.Be2 O-O 19.Ng3 g4 20.Bxg4 Bxg4 21.Nxg4 Bd6 22.Ne5 Ne6 23.Nh5 Qg5 24.Qd1 Rf5 25.Qg4 Raf8 26.h4 Qxg4 27.Nxg4 Rxh5 28.Rxe6 Rxh4 29.Nf6+ Rxf6 0-1

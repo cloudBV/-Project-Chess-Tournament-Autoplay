@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.06.30"]
+[Round "8.1"]
+[White "Pressler, Tobias"]
+[Black "Mica, Marek"]
+[Result "0-1"]
+[WhiteElo "2070"]
+[BlackElo "2284"]
+[ECO "C03"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Morozevich Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Ngf3 Nf6 5.Bd3 c5 6.e5 Nfd7 7.c3 Nc6 8.O-O a5 9.Re1 cxd4 10.cxd4 Qb6 11.Qa4 g5 12.Nb3 g4 13.Ng5 Nf8 14.Be2 Bd7 15.Nc5 h6 0-1

@@ -1,0 +1,15 @@
+[Event "WR Women's Chess Tour 2026 - Dom. Rep. Rapid session"]
+[Site "Punta Cana, La Altagracia, Dominican Republic"]
+[Date "2026.06.30"]
+[Round "1.4"]
+[White "Paragua, Megan Althea"]
+[Black "Cori T., Deysi"]
+[Result "1/2-1/2"]
+[WhiteElo "2258"]
+[BlackElo "2281"]
+[ECO "C05"]
+[TimeControl "15 minutos para la partida con incrementos de 10 segundos desde el primer movimiento."]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Botvinnik Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 b6 7.h4 cxd4 8.cxd4 Nc6 9.Ne2 Nb4 10.Bb1 Ba6 11.Rh3 Bxe2 12.Qxe2 Rc8 13.Nb3 a5 14.a4 Qc7 15.Bd2 Qc4 16.Rc3 Qxe2+ 17.Kxe2 Kd8 18.Bd3 Be7 19.g3 f6 20.f4 fxe5 21.fxe5 Nxd3 22.Kxd3 Rf8 23.Ke2 Nb8 24.Rac1 Kd7 25.Rxc8 Rxc8 26.Rxc8 Kxc8 27.Nc1 Nc6 28.Bc3 Kd7 29.Nd3 Ke8 30.Ke3 Kf7 31.Kf3 g6 32.Nf2 Bb4 33.Nd3 Be7 34.Nf2 h5 35.Nh3 Bb4 36.Ke3 Be7 37.Kd3 Bb4 38.Ng5+ Ke7 39.Nh3 Kf7 40.Ng5+ Ke7 41.Nh3 1/2-1/2

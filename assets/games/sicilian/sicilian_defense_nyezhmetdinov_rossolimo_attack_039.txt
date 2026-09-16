@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.07.06"]
+[Round "9.3"]
+[White "KOWALCZUK, Wojciech"]
+[Black "Mielczarski, Miroslaw"]
+[Result "0-1"]
+[WhiteElo "2020"]
+[BlackElo "2038"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Qxd5 8.Nc3 Qd8 9.d3 Nf5 10.g3 Be7 11.Bg2 O-O 12.Ne5 Nxe5 13.Rxe5 Ra7 14.a4 b6 15.Re1 Bb7 16.Ne4 Qa8 17.f3 Bc6 18.b3 Rd7 19.Bb2 Nd4 20.c3 Nf5 21.Qc2 Qb7 22.Ba3 Rfd8 23.Bf1 Qc7 24.Qf2 a5 25.Qc2 Bb7 26.Rad1 Bf8 27.Bc1 h6 28.Bg2 Ba6 29.Bf1 Qc6 30.Kg2 Ne7 31.Be2 Nd5 32.Nf2 f5 33.Bd2 Bb7 34.c4 Nb4 35.Bxb4 cxb4 36.Rf1 Bc5 37.Qc1 Bd4 38.h4 Rf8 39.Nh3 e5 40.Qd2 Qf6 41.Qe1 g5 42.hxg5 hxg5 43.Rh1 g4 44.Ng1 Rg7 45.Kf1 Bxg1 46.Kxg1 gxf3 0-1

@@ -1,0 +1,33 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.12"]
+[Round "3.5"]
+[White "SerendipityHCE 0e3fd4a0"]
+[Black "StockfishClassical 202007311012"]
+[Result "0-1"]
+[WhiteElo "3066"]
+[BlackElo "3552"]
+[ECO "A43"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[TimeControl "1800+3"]
+[Termination "Black mates"]
+[Variant "Standard"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+[UTCDate "2026.07.12"]
+[UTCTime "18:27:34"]
+[BroadcastName "TCEC S30: HCE Competition 1"]
+[BroadcastURL "https://lichess.org/broadcast/tcec-s30-hce-competition-1/round-3/yJPVWKUk"]
+[GameURL "https://lichess.org/broadcast/tcec-s30-hce-competition-1/round-3/yJPVWKUk/kgyua2N4"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.Nc3 d6 5.e4 Bg7 6.Be2 O-O 7.O-O Bg4 8.h3 Bxf3 
+9.Bxf3 Na6 10.Be3 Nc7 11.a4 b6 12.b3 a6 13.Qd2 b5 14.Rac1 Rb8 15.Rfd1 Nd7 
+16.g3 Nb6 17.axb5 axb5 18.Ne2 b4 19.c4 bxc3 20.Nxc3 Nd7 21.Rb1 Qc8 22.Bg2 
+Nb5 23.Nxb5 Rxb5 24.Bf1 Rb6 25.b4 Qb7 26.b5 Ra8 27.Rdc1 Ra4 28.f3 Qa8 29.
+Kg2 Rb7 30.Rc2 Nb6 31.h4 h5 32.Be2 Rba7 33.Rbc1 Ra3 34.Bg5 Bd4 35.Rd1 Rb3 
+36.Rf1 f6 37.Bh6 Raa3 38.Bf4 Na4 39.b6 Rxb6 40.Rfc1 Rbb3 41.Kh2 Kh7 42.Rh1
+Nc3 43.Bc4 Rb4 44.Bf1 Qa4 45.Bg2 Rbb3 46.Bh3 Na2 47.Qg2 Nb4 48.Re2 Nd3 49.
+Rf1 c4 50.e5 dxe5 51.d6 exd6 52.Bc1 Nxc1 53.Rxc1 Rxf3 54.Be6 d5 55.Rf1 e4 
+56.Bxd5 Rxg3 57.Qxg3 Rxg3 58.Kxg3 Qd7 59.Rxe4 Qxd5 60.Rfe1 c3 61.Re7+ Kh6 
+62.R7e4 c2 63.Re8 f5 64.R8e2 Qc4 65.Re8 c1=Q 66.Rh8+ Bxh8 67.Rxc1 Qxc1 68.
+Kf3 Qe1 69.Kg2 Bd4 70.Kh2 Qf1 71.Kg3 Be5# 0-1

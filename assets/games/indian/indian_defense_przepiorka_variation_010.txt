@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-4-game-2/VVj3efEK/VWC3Dc3r"]
+[Date "2026.07.06"]
+[Round "8.1"]
+[White "Ilko-Toth, Andras"]
+[Black "Nakonechnyi, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2069"]
+[BlackElo "2400"]
+[ECO "A49"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Re1 Nc6 7.d5 Nb8 8.c4 e5 9.dxe6 Bxe6 10.Nd4 Bc8 11.Nc3 Nbd7 12.b3 Re8 13.Bb2 Nc5 14.e4 Nfd7 15.b4 Na6 16.a3 Ne5 17.Qe2 c5 18.Ndb5 Be6 19.Nd5 Bxd5 20.cxd5 cxb4 21.f4 Nd7 22.Bxg7 Kxg7 23.axb4 Qb6+ 24.Kh1 Kg8 25.Bh3 Nf6 26.e5 dxe5 27.fxe5 Nxd5 28.Nd6 Re7 29.b5 Nac7 30.Qc4 Rf8 31.Qh4 Rxe5 32.Rxe5 Qxd6 33.Rae1 Kg7 34.Bg2 Nf6 35.Bxb7 Ne6 36.Qc4 Rd8 37.Bg2 Rd7 38.Bh3 Rc7 39.Qe2 Nd4 40.Qd3 Rc5 41.Re7 Nxb5 42.Qxd6 Nxd6 43.Rxa7 h5 44.Rd1 Nde4 45.Rf1 Re5 46.Kg1 Nd6 47.Ra6 Nde4 48.Bg2 Re7 49.Re1 h4 50.gxh4 Re8 51.Ra4 Nd6 52.Rd1 Nf5 53.Rf4 Re2 54.Bh3 Ne3 55.Rf2 Rxf2 56.Kxf2 0-1

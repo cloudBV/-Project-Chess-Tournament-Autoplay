@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "7.6"]
+[White "Bilochenko, Matvii"]
+[Black "Diachek, Andrii"]
+[Result "0-1"]
+[WhiteElo "2036"]
+[BlackElo "2181"]
+[ECO "A25"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Taimanov Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 h5 7.h3 h4 8.g4 f5 9.gxf5 gxf5 10.Rg1 f4 11.d4 Nf6 12.dxe5 dxe5 13.Nd5 Be6 14.Bd2 Qd7 15.Bc3 O-O-O 16.Qd3 Qf7 17.O-O-O Nd7 18.b4 Kb8 19.Kb1 Nd4 20.Nxd4 exd4 21.Bxd4 Bxd4 22.Qxd4 c6 23.Nc3 Nb6 24.Qe5+ Ka8 25.Rxd8+ Rxd8 26.Bf1 Bxc4 27.Qc5 Bxa2+ 28.Nxa2 Qb3+ 29.Ka1 Rd1+ 30.Nc1 Nd7 31.Be2 0-1

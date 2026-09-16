@@ -1,0 +1,14 @@
+[Event "Round 6: Kourousis, Epameinondas - Papakonstantinou, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/NmrCTG5P"]
+[Date "2026.07.10"]
+[Round "6.42"]
+[White "Kourousis, Epameinondas"]
+[Black "Papakonstantinou, Dimitrios"]
+[Result "0-1"]
+[WhiteElo "2328"]
+[BlackElo "2351"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.Nf3 Nf6 2.d4 g6 3.Nbd2 Bg7 4.e4 O-O 5.Bd3 d6 6.c3 e5 7.O-O Nc6 8.d5 Ne7 9.Re1 Ne8 10.Nf1 h6 11.h3 f5 12.exf5 gxf5 13.Bc2 Nf6 14.Ng3 f4 15.Ne4 Nfxd5 16.Bb3 Be6 17.c4 Nb4 18.c5 d5 19.Nc3 Nbc6 20.Bd2 Qd7 21.Ba4 Ng6 22.Qc2 e4 23.Nxe4 dxe4 24.Rxe4 Bf5 25.Rd1 Rad8 26.Qb3+ Qf7 27.Rc4 Be6 0-1

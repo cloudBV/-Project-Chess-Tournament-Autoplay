@@ -1,0 +1,14 @@
+[Event "Round 4: Haub, Thorsten Michael - Colin, Vincent"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-4/phLVbaKj/pMaNxve9"]
+[Date "2026.07.21"]
+[Round "4.4"]
+[White "Haub, Thorsten Michael"]
+[Black "Colin, Vincent"]
+[Result "0-1"]
+[WhiteElo "2308"]
+[BlackElo "2208"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 e5 4.d3 d5 5.O-O Be7 6.e4 d4 7.c3 g5 8.cxd4 cxd4 9.Na3 g4 10.Ne1 Be6 11.f4 h5 12.fxe5 Qd7 13.Bf4 Bxa3 14.bxa3 Nge7 15.Nc2 O-O-O 16.Qd2 Kb8 17.Nb4 Nxb4 18.Qxb4 Nc6 19.Qd6+ Ka8 20.Bg5 Qxd6 21.exd6 Rxd6 22.Rfc1 Rc8 23.Bf4 Rdd8 24.Rc5 b6 25.Rxh5 Na5 26.Bd2 Nb7 27.a4 Rc2 28.Be1 Nc5 29.a5 Nxd3 30.axb6 axb6 31.Rb5 Ka7 32.Bf1 Nxe1 33.Rxe1 d3 34.Rd1 d2 35.Rb4 Rxa2 36.Be2 Rc8 37.Kf2 Rc1 38.Ke3 Rxd1 39.Bxd1 Kb7 40.Rd4 Kc6 41.Kf4 Kc5 42.Rd8 Kc4 43.Bxg4 Bxg4 44.Kxg4 Kc3 45.Kf3 Ra1 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "13.10"]
+[White "Krawczyk, Flawian"]
+[Black "Jablonski, Wojciech"]
+[Result "1/2-1/2"]
+[WhiteElo "2260"]
+[BlackElo "2014"]
+[ECO "A05"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.a4 b4 4.c4 a5 5.Bg2 Bb7 6.d3 g6 7.e4 d6 8.O-O Bg7 9.Ra2 O-O 10.b3 c5 11.Re2 Nfd7 12.d4 cxd4 13.Nxd4 Nc6 14.Bb2 Nxd4 15.Bxd4 Bxd4 16.Qxd4 Qb6 17.Qxb6 Nxb6 18.Nd2 Nd7 19.f4 Nc5 20.Re3 Rad8 21.h4 Kg7 22.g4 e6 23.Kh2 Rd7 24.Kg3 f5 25.gxf5 gxf5 26.exf5 Rxf5 27.Bxb7 Rxb7 28.Nf3 Kf7 29.Nd4 Rf6 30.Nb5 Rd7 31.Rd1 d5 32.cxd5 Rxd5 33.Rxd5 exd5 34.Nd4 Ne4+ 35.Kf3 Rg6 36.Ne2 Rh6 37.Rd3 Nf6 38.Kg3 Ne4+ 39.Kf3 Nf6 40.Kg3 Rg6+ 41.Kf3 Rg8 42.Ng3 Rc8 43.Nf5 Rc3 44.Ke3 Rxd3+ 45.Kxd3 Ke6 46.Ne3 Nh5 47.Ng2 Kf5 48.Kd4 Nxf4 49.Ne3+ Ke6 50.Kc5 Ke5 51.Kb5 d4 52.Nc4+ Kd5 53.Kxa5 d3 54.Kxb4 Kd4 55.a5 Nd5+ 56.Ka3 Ne3 57.Nd2 Kc3 58.Nf3 Nc2+ 59.Ka4 Nd4 60.Ng5 d2 61.Ne4+ Kd3 62.Nxd2 Kxd2 63.a6 Nc6 64.Kb5 Na7+ 65.Kb6 Nc8+ 66.Kc7 Na7 67.Kb7 Nb5 68.b4 Kc3 69.Kc6 Kxb4 70.Kd5 Na7 71.Ke6 Kc5 72.Kf6 Kd6 73.h5 Kd7 74.h6 Ke8 75.Kg7 Ke7 76.Kxh7 Kf7 77.Kh8 Kf8 78.Kh7 Kf7 79.Kh8 Kf8 1/2-1/2

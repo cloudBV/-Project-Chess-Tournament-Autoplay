@@ -1,0 +1,15 @@
+[Event "Round 7: Dannhauer, Frank - Zschischang, Marine"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-50/round-7/fVAdT3cK/LdXI6ppf"]
+[Date "2026.07.12"]
+[Round "7.3"]
+[White "Dannhauer, Frank"]
+[Black "Zschischang, Marine"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2068"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense"]
+
+1.e4 e6 2.d4 d5 1/2-1/2

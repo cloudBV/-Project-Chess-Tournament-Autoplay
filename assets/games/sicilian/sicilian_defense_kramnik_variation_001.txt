@@ -1,0 +1,15 @@
+[Event "Round 5: Kasparov, Sergey - Kenzheyev, Serik"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/0LsHIQqJ"]
+[Date "2026.07.02"]
+[Round "5.28"]
+[White "Kasparov, Sergey"]
+[Black "Kenzheyev, Serik"]
+[Result "1-0"]
+[WhiteElo "2427"]
+[BlackElo "2150"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Bb4 7.Nxc6 dxc6 8.Qxd8+ Kxd8 9.e5 Nd7 10.Bf4 f6 11.O-O-O Bxc3 12.bxc3 Ke7 13.exf6+ gxf6 14.Bd6+ Kf7 15.Be2 Nb6 16.c5 Nd7 17.Rhe1 Nf8 18.f4 f5 19.Bh5+ Ng6 20.h3 Kg7 21.g4 Kh6 22.Bxg6 hxg6 23.gxf5 exf5 24.Be7 g5 25.Bxg5+ Kh5 26.Rd6 b6 27.Re8 1-0

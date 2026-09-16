@@ -1,0 +1,14 @@
+[Event "Round 12: Shukhman, Anna - Safarli, Eltaj"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/tcUl5hwD"]
+[Date "2026.07.19"]
+[Round "12.2"]
+[White "Shukhman, Anna"]
+[Black "Safarli, Eltaj"]
+[Result "1/2-1/2"]
+[WhiteElo "2392"]
+[BlackElo "2619"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nb3 Bb6 7.Qg4 Nf6 8.Qg3 O-O 9.Bg5 Qc7 10.Bf4 Qd8 11.Bg5 Qc7 12.Bf4 Qd8 13.Bd6 Re8 14.O-O-O a5 15.e5 Nh5 16.Qg4 g6 17.Ne4 a4 18.Nbd2 a3 19.b3 f5 20.exf6 Nxf6 21.Qf3 Bd4 22.c3 Nxe4 23.Nxe4 Bg7 24.h4 Qa5 25.h5 Qf5 26.hxg6 hxg6 27.Qe3 Ne5 28.f3 Nf7 29.g4 Qa5 30.Bb4 Qc7 31.g5 d5 32.Nf6+ Bxf6 33.gxf6 Qe5 34.Qxe5 Nxe5 35.f4 Ng4 36.Bd3 Kf7 37.Rh7+ Kxf6 38.Rg1 e5 39.fxe5+ Nxe5 40.Rf1+ Bf5 41.Bxf5 gxf5 42.Rh6+ Kg5 43.Rb6 Nd3+ 44.Kd2 Nxb4 45.Rxb4 Re7 46.Rd4 Rae8 47.Rf2 Re5 48.Rg2+ Kf6 49.Rf2 Ke6 50.Rb4 Re7 51.Rb6+ Kf7 52.Rh2 Kg7 53.Rg2+ Kf7 54.Rh2 f4 55.Rh7+ Ke8 56.Rh8+ Kf7 57.Rh7+ Kg8 58.Rxe7 Rxe7 59.Rf6 Rf7 60.Rg6+ Rg7 61.Rf6 Rg2+ 62.Kd3 Rxa2 63.Rxf4 Ra1 64.Kc2 Ra2+ 65.Kd3 b5 66.Rg4+ Kf7 67.Rf4+ Ke6 68.Rf8 Rb2 69.b4 Ra2 70.Ra8 Ra1 71.Kc2 Ke5 72.Ra7 Ke4 73.Re7+ Kf5 74.Ra7 Ke5 75.Re7+ Kf4 76.Ra7 Ke4 77.Re7+ Kf5 78.Ra7 Ke5 79.Re7+ Kd6 80.Ra7 Kc6 81.Kb3 Rb1+ 82.Kc2 Rb2+ 83.Kc1 Rb3 84.Kc2 Rb2+ 85.Kc1 Rh2 86.Rxa3 d4 87.cxd4 Kd5 88.Rg3 Kxd4 89.Kb1 Kc4 90.Rf3 Kxb4 91.Rf1 Ka4 92.Ka1 b4 93.Re1 Ka3 94.Rf1 b3 95.Re1 Rc2 96.Rf1 Rc1+ 97.Rxc1 b2+ 98.Kb1 bxc1=R+ 99.Kxc1 1/2-1/2

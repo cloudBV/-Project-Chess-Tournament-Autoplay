@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.8"]
+[White "Rozanski, Mateusz"]
+[Black "Rey Martinez, Jaime"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2343"]
+[ECO "B23"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 a6 5.Bc4 e6 6.Nxd4 cxd4 7.Ne2 Bc5 8.c3 dxc3 9.dxc3 Nf6 10.Ng3 h5 11.f3 d5 12.Bd3 Qc7 13.exd5 Nxd5 14.Ne4 Ba7 15.Qe2 Bd7 16.Bg5 f6 17.Bh4 Nf4 18.Bg3 h4 19.Bxf4 Qxf4 20.Nf2 O-O-O 21.O-O Bb8 22.Rfd1 Qxh2+ 23.Kf1 h3 24.gxh3 Ba7 25.Bc4 Kb8 26.Rd2 e5 27.Ke1 Bxh3 28.Nxh3 Qxh3 29.Kd1 Qh1+ 30.Qf1 Rxd2+ 31.Kxd2 Qh2+ 32.Qe2 Qf4+ 33.Kc2 Rh2 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Rodriguez Velasco, German Enrique - Cabiativa, Juan Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-6/Hgm43mtH/51PifozM"]
+[Date "2026.07.11"]
+[Round "6.6"]
+[White "Rodriguez Velasco, German Enrique"]
+[Black "Cabiativa, Juan Esteban"]
+[Result "0-1"]
+[WhiteElo "2166"]
+[BlackElo "2290"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 Bb7 5.O-O c5 6.a4 b4 7.dxc5 Bxc5 8.Nbd2 a5 9.Nb3 Bb6 10.Nbd4 O-O 11.c4 bxc3 12.bxc3 Nc6 13.Nb5 d5 14.Ba3 Re8 15.Rb1 Ne4 16.Nd2 Nxd2 17.Qxd2 Ne5 18.Nd6 Re7 19.Qf4 Ng6 20.Qd2 Bc6 21.Nb5 Rd7 22.Qc2 Ne5 23.Nd4 Rc8 24.Qb3 Nc4 25.Nxc6 Rxc6 26.Rfd1 Qf6 27.e3 h5 28.Bf1 Nxa3 29.Qxa3 Rxc3 30.Qb2 Bc5 31.Qb5 Qd8 32.Bd3 Bb4 33.Be2 g6 34.Rd3 Rdc7 35.Rxc3 Rxc3 36.Rd1 Qe7 37.Qb8+ Kg7 38.Qf4 Qf6 39.Qxf6+ Kxf6 40.Bb5 Ke5 41.Kg2 Rc2 42.h3 g5 43.Kf3 f5 44.Be8 g4+ 45.hxg4 hxg4+ 46.Kg2 Bc5 47.Kg1 Kd6 48.Bb5 Rb2 49.Kf1 Bb4 50.Rc1 Bc5 51.Kg1 Rd2 52.Kf1 d4 53.exd4 Bxd4 54.Be2 Ra2 55.f3 gxf3 56.Bxf3 Rf2+ 0-1

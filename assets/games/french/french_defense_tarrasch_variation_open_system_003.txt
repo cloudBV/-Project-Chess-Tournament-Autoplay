@@ -1,0 +1,15 @@
+[Event "Round 9: Wettach, Michel - Leenen, Boyd"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/OX7dahwj"]
+[Date "2026.07.22"]
+[Round "9.14"]
+[White "Wettach, Michel"]
+[Black "Leenen, Boyd"]
+[Result "1/2-1/2"]
+[WhiteElo "2048"]
+[BlackElo "2195"]
+[ECO "C08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nf6 6.Be2 Nc6 7.O-O Be7 8.dxc5 Bxc5 9.Nb3 Bb6 10.c3 h6 11.Nbd4 O-O 12.Bf4 Bg4 13.h3 Bh5 14.Nxc6 bxc6 15.Nd4 Bxe2 16.Qxe2 Re8 17.Qf3 c5 18.Nf5 Qd7 19.g4 Ne4 20.Rad1 Rad8 21.Kg2 Re6 22.Rfe1 Qe8 23.Re2 Qa4 24.b3 Qe8 25.Ng3 Ba5 26.b4 cxb4 27.cxb4 Bxb4 28.Nxe4 dxe4 29.Qb3 Rxd1 30.Qxd1 Qc6 31.Rc2 Qe8 32.Qd5 Bf8 33.Rc7 Re7 34.Rc6 Rd7 35.Qc4 Kh7 36.Rc8 Qe7 37.Qc6 Kg8 38.Be3 Rd8 39.Rxd8 Qxd8 40.Qxe4 a6 1/2-1/2

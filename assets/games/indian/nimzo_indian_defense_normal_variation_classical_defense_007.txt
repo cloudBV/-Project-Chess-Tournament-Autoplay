@@ -1,0 +1,15 @@
+[Event "Round 9: Karimi, Setayesh - Mahdian, Anousha"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-9/nhdOdRkd/iyABUhUF"]
+[Date "2026.07.17"]
+[Round "9.1"]
+[White "Karimi, Setayesh"]
+[Black "Mahdian, Anousha"]
+[Result "1/2-1/2"]
+[WhiteElo "2066"]
+[BlackElo "2078"]
+[ECO "E48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.a3 Bd6 8.Nge2 c6 9.Qc2 Re8 10.Bd2 a5 11.f3 c5 12.Nb5 c4 13.Bf5 Nc6 14.Nxd6 Qxd6 15.O-O b5 16.Rad1 b4 17.Bc1 Rb8 18.Bxc8 Rbxc8 19.Ng3 Nd7 20.e4 Nb6 21.e5 Qg6 22.Qf2 Ne7 23.Ne2 Na4 24.Nf4 Qc6 25.Rde1 b3 26.Ne2 c3 27.Nxc3 Nxc3 28.bxc3 Qxc3 29.Bd2 Qb2 30.Rb1 Qxa3 31.Ra1 Qb2 32.Rab1 Qa2 33.Ra1 Qc2 34.Bxa5 Qxf2+ 35.Rxf2 Rc4 36.Rb2 Rxd4 37.Rxb3 Nc6 38.Bc7 h6 39.Rba3 Kh7 40.Ra4 Rxa4 1/2-1/2

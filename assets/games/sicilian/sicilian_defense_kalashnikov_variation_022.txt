@@ -1,0 +1,15 @@
+[Event "Silvertown (London City Airport Docklands) FIDE Congress 11th-12th July 2026 - Under 2400"]
+[Site "The Tate Institute, 1 Wythes Road, London E16 2DN, United Kingdom"]
+[Date "2026.07.12"]
+[Round "4.2"]
+[White "Stoica, Savas Marin"]
+[Black "Rushbrooke, Remy"]
+[Result "1-0"]
+[WhiteElo "2149"]
+[BlackElo "2158"]
+[ECO "B32"]
+[TimeControl "G: 60 minutes + 30 seconds incr. from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be7 8.Nc4 b5 9.Ne3 Nf6 10.g3 h5 11.Bg2 h4 12.O-O Rb8 13.Ncd5 h3 14.Bh1 Be6 15.a4 b4 16.c3 a5 17.Nc4 Rc8 18.Nxf6+ gxf6 19.Ne3 Qd7 20.Qd3 Bd8 21.Bd2 bxc3 22.bxc3 Ne7 23.Rfb1 Bc7 24.Rb5 f5 25.exf5 Nxf5 26.Nd5 Bd8 27.Rb7 Qxb7 28.Nf6+ Bxf6 29.Bxb7 Rc5 30.Be4 Rh5 31.g4 d5 32.Bxf5 1-0

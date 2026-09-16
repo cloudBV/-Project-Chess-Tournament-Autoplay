@@ -1,0 +1,15 @@
+[Event "Round 8: Oparin, Grigoriy - Sheehan, Ethan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-8/fKPSQ5CP/1kqe7SGB"]
+[Date "2026.07.04"]
+[Round "8.8"]
+[White "Oparin, Grigoriy"]
+[Black "Sheehan, Ethan"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2416"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.d4 d6 4.Bg2 Nf6 5.Nc3 Be7 6.e4 O-O 7.Nge2 Re8 8.O-O Nbd7 9.h3 h6 10.Be3 Bf8 11.Qc2 Qc7 12.Rad1 a6 13.b3 Rb8 14.g4 b5 15.Ng3 bxc4 16.bxc4 Rb4 17.Nb1 Qb8 18.Nd2 c5 19.dxe5 dxe5 20.a3 Rb2 21.Qc3 Rb7 22.Nb1 Nb6 23.Qc2 Be6 24.Nd2 Nc8 25.Rb1 Rd8 26.Qc3 Na7 27.Rxb7 Qxb7 28.Qxe5 Bd6 29.Qc3 Bxg3 30.fxg3 Qc7 31.g5 Nh5 32.gxh6 Qxg3 33.Rf3 Qe1+ 34.Kh2 Nc6 35.e5 Nd4 36.Bxd4 Rxd4 37.Nf1 Qxe5+ 38.Kg1 Nf4 39.Qe3 Qg5 40.Rg3 Qxh6 41.Kh2 Bxc4 42.Qe8+ Kh7 43.Ne3 Be6 44.Qe7 Ne2 45.Rg5 f6 46.Rxc5 Qf4+ 47.Kh1 Ng3+ 48.Kh2 Nf5+ 0-1

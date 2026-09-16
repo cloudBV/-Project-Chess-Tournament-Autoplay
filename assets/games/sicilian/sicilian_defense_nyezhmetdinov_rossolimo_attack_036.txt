@@ -1,0 +1,15 @@
+[Event "Round 3: Madaminov, Mukhiddin - Gelfand, Boris"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-3/oGKz2wxm/gJXeQExB"]
+[Date "2026.06.30"]
+[Round "3.1"]
+[White "Madaminov, Mukhiddin"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2592"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 cxd4 9.Nxd4 Ndb4 10.Nxc6 Qxd1 11.Rxd1 bxc6 12.Na3 a5 13.Bd2 Ba6 14.Nc4 Bxc4 15.Bxc4 Nxc2 16.Rac1 Nb4 17.Be2 Bd6 18.a3 Nd5 19.Rxc6 Ke7 20.g3 Rhb8 21.Rc2 Be5 22.Bc1 a4 23.Kg2 Rb7 24.Bf3 Rb5 25.Be2 Rb7 26.Bc4 Rd8 27.Re1 Bf6 28.Ba2 Kf8 29.Re4 Ra8 30.h4 h6 31.Rec4 Rab8 32.Rxa4 Bxb2 33.Bd2 Be5 34.Rac4 Ra7 35.a4 Nb6 36.Re4 Bc7 37.Be3 Bd8 38.Rc6 Raa8 39.Bb3 Nd7 40.Bd1 Nf6 41.Rec4 Nd5 42.Bc5+ Kg8 43.Bf3 Bf6 44.Rd6 Rc8 45.Bxd5 exd5 46.Rxd5 Be7 47.a5 Bf8 48.Rc3 Rc6 49.Bd4 Re6 50.Re3 Rxe3 51.Bxe3 Bb4 52.Bb6 g6 53.Kf3 h5 54.Rb5 Bc3 55.Ke4 Kf8 56.Kd5 Ke7 57.Kc6 g5 58.Rxg5 Ke6 59.Kb7 Bxa5 60.Rxa5 Rh8 61.Rc5 Rh7 62.Kc6 Rh8 1-0

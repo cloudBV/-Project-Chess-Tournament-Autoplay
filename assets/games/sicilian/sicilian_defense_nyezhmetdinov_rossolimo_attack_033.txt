@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "3.3"]
+[White "Urkedal, Frode Olav Olsen"]
+[Black "Ingebretsen, Jens E"]
+[Result "1-0"]
+[WhiteElo "2567"]
+[BlackElo "2433"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 d6 6.e5 dxe5 7.Nxe5 Qd5 8.Nf3 Qe4+ 9.Kf1 Nf6 10.d3 Qf5 11.Nbd2 Ba6 12.Qe2 h5 13.Bb2 h4 14.Ne5 h3 15.g4 Qf4 16.Re1 Bd6 17.Ndc4 Bxc4 18.Nxc4 Bc7 19.Be5 Bxe5 20.Qxe5 Qf3 21.Rg1 Nxg4 22.Qg3 Qxg3 23.Rxg3 Nh6 24.Rxg7 Nf5 25.Rg5 Nd4 26.Re3 Nxc2 27.Rxh3 Ke7 28.Rxh8 Rxh8 29.Rxc5 Nb4 30.Ra5 a6 31.Ke2 Rxh2 32.Ne3 f5 33.a3 Na2 34.Rc5 Rh1 35.Nd1 f4 36.Rc2 f3+ 37.Kd2 1-0

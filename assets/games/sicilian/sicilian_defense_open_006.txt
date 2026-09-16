@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.12"]
+[White "Nawalaniec, Adam"]
+[Black "Skrzypinski, Jan"]
+[Result "1-0"]
+[WhiteElo "2072"]
+[BlackElo "2274"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Open"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 h5 6.Be2 e5 7.Ndb5 d6 8.Nd5 Nxd5 9.exd5 Ne7 10.c4 a6 11.Qa4 axb5 12.Qxa8 g6 13.c5 Nxd5 14.Bxb5+ Ke7 15.O-O dxc5 16.Rd1 Bg7 17.Be3 Be6 18.Qxb7+ Kf6 19.Bc4 Nxe3 20.Rxd8 Nxc4 21.Rxh8 Bxh8 22.a4 Kf5 23.h4 e4 24.Rc1 Bd4 25.Qb5 Ne5 26.Rxc5 f6 27.a5 Kf4 28.a6 e3 29.fxe3+ Bxe3+ 30.Kh1 Ng4 31.Qb8+ Ke4 32.Qb7+ Kd4 33.Qb4+ Kd3 34.Rc3+ Ke2 35.Rxe3+ Nxe3 36.a7 Bd5 37.Qb5+ 1-0

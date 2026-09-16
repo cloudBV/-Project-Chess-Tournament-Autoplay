@@ -1,0 +1,15 @@
+[Event "Round 6: Omonov, Asrorjon - Iskandarov, Misratdin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/uMT40Jj6"]
+[Date "2026.07.16"]
+[Round "6.2"]
+[White "Omonov, Asrorjon"]
+[Black "Iskandarov, Misratdin"]
+[Result "0-1"]
+[WhiteElo "2347"]
+[BlackElo "2520"]
+[ECO "E26"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3 Nc6 7.Bd3 d6 8.Ne2 e5 9.f3 h5 10.e4 h4 11.Be3 b6 12.h3 Nh5 13.f4 cxd4 14.cxd4 Nxd4 15.Bxd4 exd4 16.O-O Qc7 17.Qe1 Qe7 18.Rb1 Bb7 19.Nxd4 Ng3 20.Rf3 Kf8 21.Re3 Qf6 22.Nf5 Nxf5 23.exf5 Bc6 24.Qe2 Re8 25.Rxe8+ Bxe8 26.Qf3 g6 27.fxg6 fxg6 28.Re1 Bf7 29.Kh1 Kg7 30.Qb7 Qc3 31.Re7 Qc1+ 32.Kh2 Qxf4+ 33.Kh1 Rf8 34.Qxa7 Qd4 35.Be4 Qxc4 36.Qxb6 Qc1+ 37.Qg1 Qxg1+ 38.Kxg1 Kf6 39.Rb7 Re8 40.Bf3 Re1+ 41.Kf2 Ra1 42.Ra7 Bc4 43.Ke3 Ra2 44.Ra8 Bf1 45.Rd8 Bxg2 46.Bxg2 Rxg2 47.Rxd6+ Ke5 48.Ra6 Rg3+ 49.Kf2 g5 50.Ra5+ Kf4 51.Ra4+ Kf5 52.Ra5+ Kg6 53.Ra8 Rxh3 54.a4 Ra3 55.a5 Kh5 56.a6 Kg4 57.a7 Ra2+ 58.Ke3 h3 59.Kd3 h2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Panjwani, Raja - Ponomariov, Ruslan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/BkYUIOaN"]
+[Date "2026.07.04"]
+[Round "2.9"]
+[White "Panjwani, Raja"]
+[Black "Ponomariov, Ruslan"]
+[Result "0-1"]
+[WhiteElo "2395"]
+[BlackElo "2609"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bf5 4.O-O e6 5.d3 h6 6.c4 dxc4 7.dxc4 Qxd1 8.Rxd1 Nd7 9.Nc3 Ngf6 10.b3 Be7 11.Bb2 O-O-O 12.Nd4 Bg6 13.a3 Nc5 14.b4 Rxd4 15.Rxd4 Nb3 16.Rad1 Nxd4 17.Rxd4 c5 18.bxc5 Bxc5 19.Rd2 Ng4 20.Nd1 f6 21.h3 Ne5 22.Bxe5 fxe5 23.a4 b6 24.Ra2 Rd8 25.Nc3 Rd4 26.Nb5 Rd1+ 27.Bf1 a6 28.Nc3 Rc1 0-1

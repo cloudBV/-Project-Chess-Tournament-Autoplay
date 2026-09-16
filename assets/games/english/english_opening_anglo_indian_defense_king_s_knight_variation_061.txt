@@ -1,0 +1,15 @@
+[Event "Round 2: Kilambi, Venkata Ananth Akshay - Verma, Aditya"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/KwEQa4nb"]
+[Date "2026.07.22"]
+[Round "2.11"]
+[White "Kilambi, Venkata Ananth Akshay"]
+[Black "Verma, Aditya"]
+[Result "1-0"]
+[WhiteElo "2021"]
+[BlackElo "2172"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 c6 3.Nc3 d5 4.e3 h6 5.Be2 a6 6.d4 e6 7.b3 Bb4 8.Bd2 Nbd7 9.O-O Qe7 10.Qc2 O-O 11.h3 b6 12.Na4 Bd6 13.Nxb6 Nxb6 14.c5 Bxc5 15.Qxc5 Qxc5 16.dxc5 Nbd7 17.Nd4 Ne4 18.Be1 Bb7 19.b4 g6 20.Nb3 Bc8 21.Na5 Nb8 22.f3 Nf6 23.Bg3 Bd7 24.Rad1 Re8 25.Be5 Nh7 26.e4 f6 27.Bc3 Ra7 28.Bd3 Kf7 29.e5 f5 30.f4 Bc8 31.a4 g5 32.b5 axb5 33.axb5 cxb5 34.Bxb5 Rg8 35.c6 gxf4 36.Ra1 f3 37.Rxf3 Ng5 38.Rff1 Ne4 39.Bd4 Re7 40.Rfc1 Kg6 41.c7 Nd7 42.Nc6 Reg7 43.Na7 Kh7 44.Rc2 Ndc5 45.Bxc5 Rxc7 46.Rac1 Nxc5 47.Rxc5 Rxa7 48.Rxc8 Rgg7 49.Re8 Rab7 50.Bd3 Rb3 51.Rd1 Rb2 52.Bf1 Rb6 53.Kf2 Ra7 54.Ke3 Kg7 55.Kd4 Rc7 56.Bd3 Kf7 57.Rd8 f4 58.Be2 Rb4+ 59.Kd3 Re4 60.Rf1 Rcc4 61.Kd2 Rcd4+ 62.Bd3 Rxe5 63.Ra8 Rg5 64.Kc3 e5 65.Ra7+ Kf6 66.Ra6+ Kg7 67.Rb1 1-0

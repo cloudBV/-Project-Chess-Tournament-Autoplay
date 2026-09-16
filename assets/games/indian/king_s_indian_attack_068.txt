@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.10"]
+[Round "7.9"]
+[White "Degraeve, Remy"]
+[Black "Vincenti, Leonardo"]
+[Result "1-0"]
+[WhiteElo "2463"]
+[BlackElo "2241"]
+[ECO "A07"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Ngf6 4.Bg2 Nb6 5.Nc3 h6 6.Qd3 g6 7.Nh4 Bg7 8.O-O O-O 9.a4 Be6 10.a5 Nc4 11.a6 bxa6 12.e4 dxe4 13.Nxe4 Bd5 14.Nxf6+ Bxf6 15.b3 Bxg2 16.Nxg2 Qxd4 17.Qxd4 Bxd4 18.Bxh6 Bxa1 19.Rxa1 Ne5 20.Bxf8 Nf3+ 21.Kf1 Kxf8 22.Ne3 e5 23.Rxa6 e4 24.h4 Kg7 25.Kg2 Ne1+ 26.Kf1 Nf3 27.Ra1 a5 28.Kg2 c5 29.Kh3 f5 30.Kg2 Kf6 31.Kf1 Ke6 32.Ke2 Ne5 33.Kd2 c4 34.bxc4 Nc6 35.Kc3 Rd8 36.Nd5 Ke5 37.Rb1 Rb8 38.Ra1 Ra8 39.Nb6 Rd8 40.c5 f4 41.Nc4+ Kf5 42.Nd6+ Kg4 43.gxf4 Kxh4 44.Re1 Kg4 45.Rxe4 Kf3 46.Re6 Rf8 47.Nc4 Nb4 48.Ne5+ Kxf2 49.Nxg6 Rc8 50.Kc4 Nxc2 51.f5 Ne3+ 52.Kb5 a4 53.f6 a3 54.f7 Nd5 55.Kc4 Nc7 56.Rf6+ Ke2 57.Kb3 Rb8+ 58.Rb6 a2 59.Kxa2 Ra8+ 60.Kb3 Nd5 61.f8=Q Nxb6 62.cxb6 Rxf8 63.Nxf8 1-0

@@ -1,0 +1,14 @@
+[Event "Round 3: Kacprzak, Kacper - Tashkinova, Sofiia"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/YRXE4TqR"]
+[Date "2026.07.05"]
+[Round "3.22"]
+[White "Kacprzak, Kacper"]
+[Black "Tashkinova, Sofiia"]
+[Result "1-0"]
+[WhiteElo "2361"]
+[BlackElo "2094"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Qf3 Be7 7.O-O-O a5 8.Kb1 a4 9.a3 c6 10.h4 h6 11.Nxf6+ Nxf6 12.Bc1 Qd5 13.Be2 b5 14.c3 Bd7 15.Nh3 Qxf3 16.Bxf3 Nd5 17.Nf4 Bd6 18.Nd3 O-O-O 19.Rhe1 h5 20.Bg5 Rde8 21.Re2 Kc7 22.Rc1 Bc8 23.Be4 Ba6 24.Kc2 f6 25.Bd2 f5 26.Bf3 g6 27.Rce1 Kd7 28.Bg5 Rhg8 29.g3 Rgf8 30.Bxd5 cxd5 31.Bf4 Rg8 32.Re3 Bc8 33.Bxd6 Kxd6 34.Nf4 Rg7 35.Re5 Ree7 36.Kd2 Bd7 37.R1e3 Bc8 38.Ke2 Bd7 39.Kf3 Bc8 40.Nh3 Bd7 41.Kf4 Rgf7 42.Kg5 Rh7 43.Nf4 Rhg7 44.f3 Bc8 45.Re2 Bd7 46.Re1 Bc8 47.R1e3 Bd7 48.Re2 Bc8 49.Nxg6 Re8 50.Rxf5 exf5 51.Rxe8 Be6 52.Kh6 Rf7 53.Nf4 Bd7 54.Re5 Bc6 55.Kxh5 Rf8 56.Kg5 Rg8+ 57.Ng6 Be8 58.h5 1-0

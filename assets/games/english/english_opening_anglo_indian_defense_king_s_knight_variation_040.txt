@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.2"]
+[White "Mulawa, Cyprian"]
+[Black "Zareba, Piotr"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2247"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 Be7 5.b3 O-O 6.Bb2 Nbd7 7.cxd5 exd5 8.g3 Nc5 9.b4 Nce4 10.a3 Bg4 11.h3 Bh5 12.Bg2 a5 13.b5 Bd6 14.O-O Qe7 15.Ne2 a4 16.Qc2 Bg6 17.d3 Nc5 18.Rfd1 h6 19.Nfd4 Bh7 20.Nf4 Rfd8 21.Qc3 Qf8 22.Rac1 Bxf4 23.gxf4 b6 24.Kh1 Rd6 25.f5 Qc8 26.Nc6 Kh8 27.e4 Nb3 28.e5 Nxc1 29.exd6 Na2 30.Qxf6 gxf6 31.Bxf6+ Kg8 32.Ne7+ Kf8 33.Nxc8 Bxf5 34.Ne7 Bxh3 35.Bxh3 cxd6 36.Rg1 Nc3 37.Rg8# 1-0

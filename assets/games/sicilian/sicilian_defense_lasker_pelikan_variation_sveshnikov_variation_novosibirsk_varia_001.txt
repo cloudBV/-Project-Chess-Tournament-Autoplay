@@ -1,0 +1,14 @@
+[Event "Round 9: Agopov, Mikael - Valli, Frans"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-9/oOGinc0i/FBh2m6se"]
+[Date "2026.07.18"]
+[Round "9.10"]
+[White "Agopov, Mikael"]
+[Black "Valli, Frans"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2227"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 Bg7 11.c3 f5 12.exf5 Bxf5 13.Nc2 O-O 14.Nce3 Be6 15.Bd3 f5 16.O-O e4 17.Bc2 f4 18.Bxe4 fxe3 19.Qh5 exf2+ 20.Rxf2 Rxf2 21.Qxh7+ Kf8 22.Kxf2 Ra7 23.Qh5 Rf7+ 24.Kg1 Ne5 25.h3 Qc8 26.Rd1 Qc4 27.Qh4 Ke8 28.Qe1 Qc5+ 29.Kh1 Kd7 30.Nb4 Bc4 31.Qd2 a5 32.Nc2 Bxa2 33.Nd4 Nc4 34.Qe2 Bxd4 35.Qg4+ Kc7 36.cxd4 Qb4 37.Qg8 Re7 38.Qa8 Rxe4 39.Qxe4 Qxb2 40.Rf1 a4 41.Rf7+ Kb6 42.Qa8 Na5 43.Qb8+ Kc6 44.Rc7+ Kd5 45.Qg8+ Ke4 46.Qg4+ Kd5 47.Qf5+ 1-0

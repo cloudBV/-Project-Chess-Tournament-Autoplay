@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "12.4"]
+[White "Kraczek, Cezary"]
+[Black "Niezhentsev, Kyrylo"]
+[Result "0-1"]
+[WhiteElo "2111"]
+[BlackElo "2244"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 e5 7.Nf5 d5 8.cxd5 Bxf5 9.exf5 Nd4 10.Bd3 Be7 11.O-O O-O 12.Re1 Nxd5 13.Qg4 Bf6 14.Bh6 Nb4 15.Be4 Kh8 16.Be3 Nbc2 17.Bxc2 Nxc2 18.Rad1 Nxe3 19.Rxe3 Qb6 20.Re2 Rad8 21.Rde1 Rd4 22.Qh3 Rfd8 23.Qh5 Kg8 24.Ne4 R4d5 25.h3 h6 26.Re3 Rb5 27.b3 Ra5 28.a4 Rad5 29.Rg3 Kf8 30.Qf3 Rd3 31.Qxd3 Rxd3 32.Rxd3 Qb4 33.Kf1 Be7 34.f3 Kg8 35.Rc1 Qb6 36.Ke2 Bb4 37.Rc4 Be7 38.Rc2 Qg1 39.Kd2 Qxg2+ 40.Kc3 Qxh3 41.Rd7 Qxf3+ 42.Kb2 Qxe4 43.Rxe7 Qxf5 44.Rxb7 h5 45.b4 h4 46.b5 axb5 47.a5 Qe4 48.a6 Qb4+ 49.Kc1 Qa3+ 50.Kb1 Qxa6 51.Rb8+ Kh7 52.Rh2 g5 53.Rf2 Qa7 0-1

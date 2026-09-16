@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.5"]
+[White "Portelli, Matthew"]
+[Black "Sobol, Matvii"]
+[Result "1/2-1/2"]
+[WhiteElo "2098"]
+[BlackElo "2431"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Ne5 e6 9.Qe2 b5 10.Bd3 Bd6 11.a4 Qc7 12.Nxc6 b4 13.Nd4 a6 14.Nf5 Bb7 15.Nxd6+ Qxd6 16.f3 Nd5 17.Be4 b3 18.Bxd5 Qxd5 19.c3 O-O 20.O-O a5 21.Re1 Ba6 22.Qe4 Qd7 23.d4 Rac8 24.Qe5 Qd8 25.Bf4 Rc4 26.Qd6 Qc8 27.Qb6 Bb7 28.Qxb3 Bd5 29.Qb6 Qa8 30.Rec1 Rfc8 31.Qd6 h6 32.Qe5 Qb7 33.Qe2 Qc6 34.Qd1 Qb7 35.Qe2 Qb3 36.Ra3 Qb7 37.Bd2 R4c6 38.Qd1 Qxb2 39.Raa1 Qb6 40.Rcb1 Qa6 41.Kh1 Bc4 42.Qe1 Rb6 43.Rxb6 Qxb6 44.Rb1 Qc6 45.Qd1 Rd8 46.Bf4 f6 47.Rb8 Rxb8 48.Bxb8 Qb7 49.Bd6 Qb2 50.h3 Qxc3 51.Bc5 Qb2 52.Qe1 Qa2 53.Qxa5 Bf1 54.Qa8+ Kh7 55.f4 f5 56.Qf3 Bc4 57.Qg3 Bd5 58.Kh2 Qxa4 59.Qf2 Qc6 60.Qe2 Be4 61.Qf2 Qd7 62.Qe2 Qf7 63.Qf2 Bd5 64.Bd6 Qb7 65.Be5 Qd7 66.Qg3 Qf7 67.Qf2 Qg6 68.Qg3 Qf7 69.Qf2 Qa7 70.Qg3 Qb7 71.Qf2 Be4 72.Qg3 Qf7 73.Qf2 g5 74.Qb2 Kg6 75.Qb6 Bd5 76.Qc7 Qxc7 77.Bxc7 g4 78.Kg3 h5 79.hxg4 fxg4 80.Be5 Kf5 81.Kh4 Bxg2 82.Kxh5 Bf3 83.Kh4 Ke4 84.Kg3 Ke3 85.Bf6 Ke4 86.Be5 Kf5 87.Bd6 Be2 88.Be5 Bb5 89.Bd6 Be8 90.Be5 Bh5 91.Bd6 Ke4 92.Be5 Ke3 93.Bf6 Ke4 94.Be5 Kf5 95.Bd6 Be8 96.Be5 1/2-1/2

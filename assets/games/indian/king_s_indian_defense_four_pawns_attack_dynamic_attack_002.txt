@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "7.2"]
+[White "Hernandez Riera, Jose"]
+[Black "Valdes Berdichewsky, Lucas Gaspar"]
+[Result "1-0"]
+[WhiteElo "2163"]
+[BlackElo "2205"]
+[ECO "E76"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Four Pawns Attack, Dynamic Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5 e6 8.dxe6 fxe6 9.Bd3 d5 10.O-O d4 11.Ne2 Nc6 12.e5 Ne8 13.Bd2 Rb8 14.h4 Ne7 15.Qe1 b5 16.b3 Ba6 17.Ng5 bxc4 18.bxc4 Qc8 19.h5 h6 20.Ne4 g5 21.fxg5 Rxf1+ 22.Qxf1 Bxe5 23.Nf6+ Nxf6 24.gxf6 Nf5 25.Qf3 Bxf6 26.Bxh6 Qd7 27.Bxf5 exf5 28.Qg3+ Kf7 29.Qxb8 d3 30.Qf8+ Ke6 31.Nf4+ 1-0

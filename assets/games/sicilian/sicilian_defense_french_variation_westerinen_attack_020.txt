@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "8.8"]
+[White "Martin Barcelo, Carles"]
+[Black "Chalmeta Ugas, Ramon"]
+[Result "1-0"]
+[WhiteElo "2246"]
+[BlackElo "2167"]
+[ECO "B40"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Qc7 5.c4 b6 6.g3 Bb7 7.Bg2 d6 8.d4 cxd4 9.Nxd4 Nf6 10.Nc3 a6 11.O-O Be7 12.Rc1 Ne5 13.h3 O-O 14.f4 Ned7 15.Kh2 Rac8 16.Qe2 Qb8 17.Rce1 Bd8 18.f5 exf5 19.Nxf5 Nc5 20.Nxg7 Kxg7 21.Nd5 Bxd5 22.Qg4+ Kh8 23.Rxf6 Be6 24.Rxf7+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 3: Slovak, Kilian - Kusa, Jakub"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-3/Wrjl6evm/RXxktpk4"]
+[Date "2026.07.17"]
+[Round "3.2"]
+[White "Slovak, Kilian"]
+[Black "Kusa, Jakub"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2414"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Bh7 9.Nxh5 Nc6 10.dxc5 Bxc5 11.Bg5 Qb6 12.Qd2 Qxb2 13.Rb1 Qxc2 14.Qxc2 Bxc2 15.Rc1 d4 16.Nd5 Be4 17.Nc7+ Kd7 18.Rxc5 Rc8 19.Rh3 Rxc7 20.Nxg7 b6 21.Rc1 Rh7 22.Nh5 Nxe5 23.Rxc7+ Kxc7 24.Bf4 Kd6 25.Ra3 f6 26.Be2 Kd5 27.g5 Nd3+ 28.Bxd3 Rxh5 29.gxf6 Nxf6 30.Bg5 Bxd3 31.Bxf6 Rf5 32.Bg5 Re5+ 33.Kd1 Be2+ 34.Kd2 Bc4 35.Rxa7 Re2+ 36.Kd1 Rxf2 37.a4 Rh2 38.a5 bxa5 39.Rxa5+ Ke4 40.Bf6 Bd5 41.Ra7 d3 42.Bg5 Bb3+ 43.Ke1 Re2+ 44.Kf1 d2 0-1

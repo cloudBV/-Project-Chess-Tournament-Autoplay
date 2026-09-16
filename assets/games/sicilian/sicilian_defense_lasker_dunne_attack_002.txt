@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.30"]
+[White "Serrano Ruiz, Lope"]
+[Black "Alfaro Garcia del Cerro, Juan L"]
+[Result "1-0"]
+[WhiteElo "2066"]
+[BlackElo "2273"]
+[ECO "B20"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+1.e4 c5 2.g3 d5 3.exd5 Qxd5 4.Nf3 Bg4 5.Bg2 Qe6+ 6.Kf1 Nc6 7.h3 Bh5 8.d3 Nf6 9.g4 Bg6 10.Be3 Qd6 11.Nc3 e5 12.Nd2 Qd7 13.Nc4 Be7 14.g5 Nh5 15.Nd5 O-O 16.Qg4 Qd8 17.Re1 Kh8 18.Nxe7 Qxe7 19.Bxc6 bxc6 20.Bd2 f5 21.Qh4 e4 22.Bf4 Qd7 23.Ne5 Qd5 24.dxe4 fxe4 25.Nxg6+ hxg6 26.Be3 Rf5 27.Kg2 Re8 28.Rd1 Qe5 29.Rd7 Kg8 30.Rhd1 Rf4 31.Bxf4 Nxf4+ 32.Kh1 e3 33.f3 e2 34.Re1 Qe3 35.Qg3 Re5 36.h4 Nh5 37.Qg2 Qf4 38.Qf2 Re3 39.Rd3 Re5 40.Kg1 Ng3 41.Kg2 Nf5 42.Rxe2 Nxh4+ 43.Kf1 Rxe2 44.Kxe2 Qxg5 45.f4 Qg4+ 46.Kd2 g5 47.fxg5 Qxg5+ 48.Kd1 Qg4+ 49.Kc1 c4 50.Rd4 Qg5+ 51.Kb1 Ng6 52.Rxc4 Qd5 53.Qf1 Ne5 54.Rf4 Nd7 55.a3 Nf6 56.Qc4 Kf7 57.Qxd5+ cxd5 58.Kc1 g5 59.Ra4 g4 60.Kd2 Kg6 61.Ke3 Kg5 62.Rxa7 d4+ 63.Kxd4 Kh4 64.Rf7 Nh5 65.Rh7 g3 66.Ke3 Kg4 67.Rxh5 g2 68.Kf2 g1=R 69.Kxg1 Kxh5 70.a4 Kg4 71.Kg2 Kf5 72.a5 Kf6 73.Kg1 Kg6 1-0

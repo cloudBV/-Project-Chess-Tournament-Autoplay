@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.11"]
+[White "Antoneac Antoneac, Pablo Silviu"]
+[Black "Marrujo Pardo, Mauricio Emmanuel"]
+[Result "1-0"]
+[WhiteElo "2152"]
+[BlackElo "2427"]
+[ECO "E92"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Na6 8.O-O c6 9.h3 Qe7 10.d5 c5 11.Qd2 Ne8 12.Nh2 f5 13.Bg5 Qf7 14.g4 f4 15.f3 h6 16.Bh4 g5 17.Bf2 Bf6 18.Rfb1 Kg7 19.a3 Rh8 20.b4 b6 21.bxc5 bxc5 22.Qd1 h5 23.Bf1 Bd8 24.Be1 Nf6 25.Qa4 Nb8 26.Rb2 a6 27.Rab1 Bc7 28.Qc2 Qg6 29.Bg2 Rh6 30.Qd3 Qh7 31.Na4 Nbd7 32.Rb3 Kf7 33.Nb2 Ke7 34.a4 a5 35.Nd1 Ba6 36.Nc3 Qf7 37.Nb5 Bd8 38.Bc3 Ne8 39.Qd2 Bc8 40.Qd3 Nc7 41.Nxd6 Rxd6 42.gxh5 Qxh5 43.Ng4 Qh8 44.Qd2 Rda6 45.h4 Ne8 46.Qb2 Bc7 47.hxg5 Qg7 48.Kf2 Qxg5 49.Rh1 Nef6 50.Nxf6 Nxf6 51.Kf1 Nh5 52.Be1 Rh6 53.Rb7 Bxb7 54.Qxb7 Ng3+ 55.Bxg3 Rxh1+ 56.Bxh1 fxg3 57.Qxc7+ Kf8 58.Qxc5+ Kg8 59.Qc7 Qd2 60.Qb6 Kh7 61.Qc7+ Kg8 62.Qb6 Qg5 63.Qe6+ Kf8 64.Qd6+ Qe7 65.Qh6+ Kg8 66.Qg6+ Qg7 67.Qe6+ Kh8 68.Qh3+ Kg8 69.Qe6+ Kf8 70.Qd6+ Qe7 71.Qh6+ Kg8 72.Qg6+ Kh8 73.Qh6+ Qh7 74.Qxh7+ Kxh7 75.c5 Kg7 76.Kg2 Kf6 77.Kxg3 Rb8 78.Bg2 Rb4 79.Bf1 Rxa4 80.c6 Ra1 81.c7 Rc1 82.d6 Ke6 83.Bh3+ Kxd6 84.c8=Q Rxc8 85.Bxc8 a4 86.Bb7 a3 87.Bd5 Kc5 88.Kg4 1-0

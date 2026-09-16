@@ -1,0 +1,15 @@
+[Event "Round 8: Nguyen Tung Quan - Baisalbekov, Maksat"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-8/ncxfT7DT/0H9ViBi2"]
+[Date "2026.07.23"]
+[Round "8.12"]
+[White "Nguyen Tung Quan"]
+[Black "Baisalbekov, Maksat"]
+[Result "1/2-1/2"]
+[WhiteElo "2175"]
+[BlackElo "2053"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 g6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be2 Bg7 9.O-O O-O 10.Qe3 Bd7 11.Bd2 a5 12.Rac1 Bc6 13.b3 Nd7 14.Rfd1 Nc5 15.Bf3 Qb6 16.Nd5 Bxd5 17.exd5 Rfe8 18.Bc3 Bxc3 19.Qxc3 Qb4 20.Re1 Qxc3 21.Rxc3 Ra6 22.Rce3 Kf8 23.a3 b6 24.Be2 Ra7 25.f4 f5 26.g4 e5 27.gxf5 exf4 28.Rxe8+ Kxe8 29.fxg6 hxg6 30.Bd3+ Kd8 31.Bc2 g5 32.Kf2 Re7 33.Rg1 Re5 34.Rg4 Re3 35.Rxg5 Nxb3 36.Rg8+ Ke7 37.Rg7+ Kd8 38.Rg8+ 1/2-1/2

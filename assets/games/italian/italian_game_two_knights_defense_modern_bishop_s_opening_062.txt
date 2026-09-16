@@ -1,0 +1,14 @@
+[Event "Round 7: Vairo, Rocco Enrico - Bonassi, Tommaso"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-7/0NCq6FGl/OPmonkQf"]
+[Date "2026.07.10"]
+[Round "7.12"]
+[White "Vairo, Rocco Enrico"]
+[Black "Bonassi, Tommaso"]
+[Result "1-0"]
+[WhiteElo "2083"]
+[BlackElo "2071"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.a4 g6 7.Nc3 Bg7 8.h3 O-O 9.Be3 Kh7 10.d4 Nd7 11.a5 a6 12.Re1 f5 13.exf5 gxf5 14.dxe5 dxe5 15.Nd5 e4 16.Nd4 Nde5 17.Bb3 Nxa5 18.Rxa5 c6 19.Qd2 cxd5 20.Rxd5 Qh4 21.Bf4 Ng6 22.Bd6 Rf6 23.Bc7 Rf8 24.Qa5 e3 25.fxe3 b5 26.Qd2 Ra7 27.Bh2 f4 28.Nf3 fxe3 29.Rxe3 Qf6 30.c3 Kh8 31.Rd6 Qf5 32.Bc2 Qc5 33.Rxg6 Rd7 34.Qf2 Rdf7 35.Bd6 1-0

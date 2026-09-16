@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "6.2"]
+[White "Navarro Guerrero, Simon"]
+[Black "Aravena Navarro, Alexis Andres"]
+[Result "0-1"]
+[WhiteElo "2093"]
+[BlackElo "2162"]
+[ECO "B26"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 b6 7.f4 Bb7 8.Nf3 Qd7 9.Qd2 Nh6 10.h3 f5 11.Ng5 O-O 12.O-O Nd4 13.a4 e6 14.Kh2 Rad8 15.Rab1 Nf7 16.Nxf7 Rxf7 17.b3 d5 18.exd5 exd5 19.Bg1 Re7 20.Rfe1 Ne6 21.a5 d4 22.Na4 Bxg2 23.Qxg2 b5 24.Nb2 Rde8 25.Bf2 Nc7 26.Rxe7 Rxe7 27.Re1 Rxe1 28.Bxe1 Qd5 29.Qe2 Kf7 30.Nd1 Qe6 31.Qxe6+ Kxe6 32.c3 dxc3 33.Nxc3 b4 34.Na4 Kd5 35.Bf2 Ne6 36.a6 Kc6 37.Kg2 Bd4 38.Be1 Kb5 39.Kf3 Kxa6 40.g4 Kb5 41.gxf5 gxf5 42.Bh4 Bg7 43.Bf2 Kc6 44.Kg3 Bf6 45.Kf3 Kd5 46.Bg1 Nd4+ 47.Kf2 Nxb3 48.Ke1 Nd4 49.Kd1 Ne6 50.Be3 Kc6 51.Kc2 Kb5 52.Nb2 Bxb2 53.Kxb2 a5 54.h4 a4 55.h5 h6 56.Kc2 Kc6 57.Kb2 Kd5 58.Kc2 Ng7 59.Bc1 Nxh5 0-1

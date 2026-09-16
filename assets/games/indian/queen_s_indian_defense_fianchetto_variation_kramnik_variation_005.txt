@@ -1,0 +1,14 @@
+[Event "Round 4: Bukreev, Stanislav - Magold, Filip"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-4/dyKZYB3z/UpHZce6C"]
+[Date "2026.07.16"]
+[Round "4.6"]
+[White "Bukreev, Stanislav"]
+[Black "Magold, Filip"]
+[Result "0-1"]
+[WhiteElo "2385"]
+[BlackElo "2501"]
+[ECO "E17"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 d5 8.cxd5 exd5 9.Nc3 c5 10.Bf4 Na6 11.Qa4 Nc7 12.dxc5 bxc5 13.Rad1 Qc8 14.e3 h6 15.Qa5 Ne6 16.Be5 Rd8 17.Nb5 Rd7 18.Rc1 Bc6 19.Nc3 Qb7 20.Bxf6 Bxf6 21.Nd2 Qxb2 22.Nb3 c4 23.Re2 Bxc3 24.Rxb2 Bxa5 25.Nxa5 Rc8 26.e4 dxe4 27.Rxc4 Rd1+ 28.Bf1 Nd4 29.Kg2 Kh7 30.Nxc6 Rxc6 31.Rxc6 Nxc6 32.Bc4 Ne5 33.Bb3 Re1 34.Rd2 Nf3 35.Rd1 Rxd1 36.Bxd1 Nd2 37.Bc2 f5 38.g4 f4 39.f3 Kg6 40.h4 Kf6 41.fxe4 g5 42.hxg5+ hxg5 43.Kf2 Ke5 44.Ke2 Nc4 45.Kf3 Kd4 46.Bd1 a5 47.Kf2 Ne5 48.a4 Kxe4 49.Bc2+ Kd4 50.Bf5 Nd3+ 51.Ke2 Nc5 52.Bc2 Kc3 53.Bd1 Kb4 54.Bc2 Nxa4 55.Kd3 Nc5+ 56.Kd4 Nb3+ 57.Ke4 Kc3 0-1

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.17"]
+[White "Piesik, Piotr"]
+[Black "Basaric, Srdjan"]
+[Result "1-0"]
+[WhiteElo "2335"]
+[BlackElo "2084"]
+[ECO "A05"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O h6 5.c4 d4 6.d3 Bf5 7.b4 e6 8.Bb2 c5 9.bxc5 Nc6 10.Qa4 Bxc5 11.Nxd4 Bxd4 12.Bxc6+ bxc6 13.Qxc6+ Kf8 14.Bxd4 Rc8 15.Bc5+ Kg8 16.Qd6 Qa5 17.Bb4 Qa4 18.Nc3 Qc2 19.Rfc1 Qd2 20.Qf4 Qxf4 21.gxf4 Kh7 22.Nb5 Rb8 23.Rab1 Rb6 24.Bc5 Rc6 25.Bxa7 Ra8 26.a3 Ne8 27.Nd4 Rc7 28.Bb6 Rcc8 29.Rc3 Nd6 30.Rb4 f6 31.c5 e5 32.cxd6 exd4 33.Rxc8 Bxc8 34.a4 Bd7 35.a5 Re8 36.Kf1 Bh3+ 37.Ke1 Bg4 38.f3 Bd7 39.Rxd4 1-0

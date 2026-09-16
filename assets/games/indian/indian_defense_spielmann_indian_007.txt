@@ -1,0 +1,14 @@
+[Event "Round 6: Nunez de la Rosa, Matias - Coppola, Claudio"]
+[Site "https://lichess.org/broadcast/campeonato-uruguayo-2026-blitz/round-6/7CLXvc3X/GPbskLxr"]
+[Date "2026.07.17"]
+[Round "6.3"]
+[White "Nunez de la Rosa, Matias"]
+[Black "Coppola, Claudio"]
+[Result "1-0"]
+[WhiteElo "2068"]
+[BlackElo "2198"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 cxd4 4.exd4 d5 5.g3 Nc6 6.Bg2 Bf5 7.O-O e6 8.c4 dxc4 9.Qa4 Bd6 10.Qxc4 O-O 11.Nc3 Nb4 12.Ne5 Rc8 13.Qb5 b6 14.Bg5 Re8 15.Rad1 a6 16.Qe2 Be7 17.a3 Nbd5 18.Nxd5 Nxd5 19.Bxe7 Qxe7 20.Qxa6 Rc2 21.b4 Nc3 22.Qxb6 Nxd1 23.Rxd1 h6 24.a4 Rec8 25.b5 Rc1 26.Rf1 Rxf1+ 27.Bxf1 Rc1 28.Kg2 Qb4 29.Qd8+ Kh7 30.Nxf7 Qe1 31.Qh8+ Kg6 32.Ne5+ Kh5 33.Qe8+ g6 34.g4+ Kh4 35.Qe7+ g5 36.Nf3+ Kxg4 37.Nxe1 Rxe1 38.f3+ Kh4 39.Qf8 Bh3+ 40.Kf2 Rxf1+ 41.Ke3 Bg2 42.Qxh6# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 8: Ashwath Kaushik - Ragavan, Samarth Rajesh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/FkVM81eN"]
+[Date "2026.07.21"]
+[Round "8.11"]
+[White "Ashwath Kaushik"]
+[Black "Ragavan, Samarth Rajesh"]
+[Result "1-0"]
+[WhiteElo "2278"]
+[BlackElo "2106"]
+[ECO "E14"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Spassky System"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 Be7 6.O-O O-O 7.b3 d5 8.cxd5 exd5 9.Ba3 Nbd7 10.Bxe7 Qxe7 11.Nc3 c5 12.Rc1 Rad8 13.Qe2 Ne4 14.Rfd1 Qf6 15.Ba6 Ba8 16.Na4 Rfe8 17.Bb5 Bc6 18.dxc5 bxc5 19.Nd4 Bxb5 20.Nxb5 d4 21.Nc7 Re5 22.f4 Rf5 23.g4 Qg6 24.Qg2 Rf6 25.f5 Qg5 26.Qxe4 Rh6 27.Qf4 Qxf4 28.exf4 Rh4 29.h3 Rxh3 30.Kg2 Re3 31.Nxc5 Nf6 32.Rc4 Nxg4 33.Rcxd4 Rxd4 34.Rxd4 h5 35.Nd5 Re2+ 36.Kg3 Rxa2 37.Nd7 f6 38.Re4 Rd2 39.Re8+ Kh7 40.Nf8+ Kh6 41.Ng6 Rd3+ 42.Kh4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2: Xu, Chang(CQ) - Dong, Hongfu"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/HN6SljJx"]
+[Date "2026.07.14"]
+[Round "2.15"]
+[White "Xu, Chang(CQ)"]
+[Black "Dong, Hongfu"]
+[Result "0-1"]
+[WhiteElo "2125"]
+[BlackElo "2353"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 h6 8.Bh4 g6 9.O-O-O e5 10.Nb3 Be7 11.f3 b5 12.Bf2 Bb7 13.a3 Rc8 14.Qd2 Qc7 15.Kb1 Bc6 16.g4 Nb6 17.Na5 Bd7 18.Be3 Na4 19.Nxa4 bxa4 20.Nc4 Be6 21.Nb6 Rb8 22.Nd5 Bxd5 23.exd5 a5 24.Ka1 Qb7 25.c4 Nd7 26.Qc3 Bg5 27.Bf2 Qc7 28.Bd3 Rb3 29.Qc2 Nc5 30.Bxc5 Qxc5 31.Ka2 Ke7 32.Rb1 Rhb8 33.h4 Be3 34.Rh2 Bd4 35.Qd1 Bxb2 0-1

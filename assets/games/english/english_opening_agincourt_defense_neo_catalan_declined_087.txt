@@ -1,0 +1,15 @@
+[Event "Round 8: Hania, Jan - Thienpondt, Mardoek"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/WZz6jJg2"]
+[Date "2026.07.21"]
+[Round "8.17"]
+[White "Hania, Jan"]
+[Black "Thienpondt, Mardoek"]
+[Result "0-1"]
+[WhiteElo "2155"]
+[BlackElo "2053"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.Ne5 Nfd7 9.d4 Nxe5 10.dxe5 c6 11.Qc2 Na6 12.a3 dxc4 13.Qxc4 b5 14.Qc2 Qb6 15.Nd2 c5 16.Ne4 Kh8 17.Rad1 Rfd8 18.h4 c4 19.b4 Nc7 20.h5 h6 21.Qc1 Kg8 22.Qf4 Ne8 23.Bf3 Rxd1 24.Rxd1 Bxe4 25.Qxe4 Rd8 26.e3 Rxd1+ 27.Bxd1 f5 28.exf6 Nxf6 29.Qg6 Qc6 30.Bd4 a6 31.Bc2 Qe8 32.Kf1 Qxg6 33.hxg6 Kf8 34.Ke2 Ke8 35.f3 Kd7 36.g4 Ne8 37.e4 Kc6 38.f4 a5 39.Bc3 axb4 40.axb4 e5 41.f5 Kd6 42.Kf3 Bg5 43.Be1 Ke7 44.Bf2 Bd2 45.Bc5+ Kf6 46.Ke2 Bc3 47.Kf3 Bd4 48.Bxd4 exd4 49.Kf4 d3 50.e5+ Ke7 51.Bxd3 cxd3 52.Ke3 Nc7 53.Kxd3 Nd5 54.Kd4 Nxb4 55.Kc5 Nd3+ 0-1

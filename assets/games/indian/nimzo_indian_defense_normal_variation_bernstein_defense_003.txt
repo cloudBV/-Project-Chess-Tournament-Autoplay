@@ -1,0 +1,14 @@
+[Event "Round 10: Nguyen Thi Mai Hung - Ling, Chenxuan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/zLu8FrCE"]
+[Date "2026.07.23"]
+[Round "10.15"]
+[White "Nguyen Thi Mai Hung"]
+[Black "Ling, Chenxuan"]
+[Result "1-0"]
+[WhiteElo "2260"]
+[BlackElo "2166"]
+[ECO "E59"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bernstein Defense"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Bb4 5.e3 O-O 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4 Qc7 11.Qe2 e5 12.h3 h6 13.Ba2 Rd8 14.Bb2 Qe7 15.Rfd1 cxd4 16.cxd4 e4 17.Ne5 Be6 18.Nxc6 bxc6 19.Rdc1 Bxa2 20.Rxa2 Qe6 21.Bc3 Rd5 22.Bb4 Rg5 23.Kh1 Rh5 24.Rac2 c5 25.Rxc5 Rh4 26.Kg1 Nd5 27.Qc4 Rh5 28.Rc8+ Rxc8 29.Qxc8+ Qxc8 30.Rxc8+ Kh7 31.Bc5 a6 32.Rc6 f5 33.Rxa6 f4 34.Re6 fxe3 35.fxe3 Nxe3 36.Rxe4 Nd5 37.Re5 Rxe5 38.dxe5 Kg6 39.e6 1-0

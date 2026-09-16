@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "5.2"]
+[White "Zareba, Piotr"]
+[Black "Radzimski, Antoni"]
+[Result "1/2-1/2"]
+[WhiteElo "2247"]
+[BlackElo "2336"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Nc3 Bb4 5.Bd2 Ne7 6.h4 b6 7.h5 h6 8.a3 Bxc3 9.Bxc3 Ba6 10.Bxa6 Nxa6 11.Qe2 Nc7 12.O-O-O a5 13.g4 b5 14.b3 b4 15.axb4 Nb5 16.Qd3 a4 17.Bb2 axb3 18.cxb3 Qd6 19.Qd2 Qc7 20.Ne2 Ra2 21.Nc3 Nxc3 22.Qxc3 dxe4 23.fxe4 O-O 24.Rdf1 f6 25.Kb1 Rfa8 26.Rf2 Nc8 27.g5 Nd6 28.Qg3 fxg5 29.Rhf1 Qe7 30.Qe5 Rxb2+ 31.Rxb2 Nb5 32.Qc5 Qb7 33.Rbf2 Qa6 34.Rf8+ Kh7 35.Rxa8 Qxa8 36.Rf7 Na3+ 37.Kb2 Nb5 38.Kb1 Na3+ 39.Kb2 1/2-1/2

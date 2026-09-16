@@ -1,0 +1,14 @@
+[Event "Round 6: Fodor, Tamas Jr. - Salonen, Aku"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-6/NUPkV8Lk/J2CdN68k"]
+[Date "2026.07.16"]
+[Round "6.4"]
+[White "Fodor, Tamas Jr."]
+[Black "Salonen, Aku"]
+[Result "1-0"]
+[WhiteElo "2494"]
+[BlackElo "2247"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nd2 Bd6 5.Ngf3 O-O 6.Bd3 c5 7.c3 Bxf4 8.exf4 Qd6 9.g3 b6 10.Qe2 a5 11.a4 Ba6 12.Bb5 Bxb5 13.axb5 Nbd7 14.O-O Rac8 15.Rfe1 g6 16.Rad1 Rfd8 17.dxc5 Qxc5 18.Nd4 Re8 19.Nc6 Nb8 20.Ne5 Nbd7 21.Nb3 Qc7 22.Nc6 a4 23.Nbd4 Nc5 24.Qf3 h5 25.h3 Kg7 26.Kg2 Rh8 27.Ne5 Nce4 28.Ra1 Ra8 29.Ra3 Qb7 30.Ndc6 Ne8 31.c4 N8d6 32.cxd5 exd5 33.Rd3 Nf6 34.Nxg6 Kxg6 35.Rxd5 Nxd5 36.Qxd5 f6 37.Re7 Qc8 38.Qxd6 Rf8 39.Ne5+ Kh6 40.Qd3 1-0

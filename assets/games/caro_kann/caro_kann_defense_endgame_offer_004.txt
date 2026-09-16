@@ -1,0 +1,15 @@
+[Event "Round 5: Leiva, Gianmarco - Escoriza Pons, Xavier"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-5/VJW5TtEy/9Qy0MlL2"]
+[Date "2026.07.08"]
+[Round "5.6"]
+[White "Leiva, Gianmarco"]
+[Black "Escoriza Pons, Xavier"]
+[Result "1-0"]
+[WhiteElo "2332"]
+[BlackElo "2071"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 Qc7 4.Qe2 dxe4 5.Qxe4 Nf6 6.Qe2 Bg4 7.h3 Bxf3 8.Qxf3 e5 9.g4 Bd6 10.g5 Nd5 11.h4 Qe7 12.Nd2 Nd7 13.Ne4 Nc5 14.Bh3 Ne6 15.Be3 Ndf4 16.O-O-O Nxh3 17.Rxh3 Bc5 18.Qf5 Bxe3+ 19.fxe3 Nc5 20.Nxc5 Qxc5 21.h5 Qe7 22.g6 hxg6 23.hxg6 Rxh3 24.gxf7+ Qxf7 25.Qxh3 Ke7 26.b3 Rf8 27.Rg1 Kd6 28.Kb2 Re8 29.Qg4 Re7 30.Qb4+ c5 31.Qa4 b6 32.Qe4 Re6 33.Qa8 Re8 34.Qg2 Re7 35.Rf1 Qe8 36.Rf5 g6 37.Rf6+ Re6 38.Rf2 e4 39.Qg3+ Kd7 40.dxe4 Rxe4 41.Ka3 Rxe3 42.Qg4+ Re6 43.Qa4+ Kc8 44.Qxa7 Qe7 45.Rf8+ Qxf8 46.Qa8+ Kd7 47.Qxf8 Rd6 48.Ka4 Kc6 49.Qf3+ Kc7 50.Kb5 Rd4 51.Qf7+ Rd7 52.Qxg6 1-0

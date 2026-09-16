@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.14"]
+[White "John Veny Akkarakaran"]
+[Black "Kogan, Arthur"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2477"]
+[ECO "A46"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nbd2 Bf5 4.e3 g6 5.Be2 Bg7 6.Nf1 c5 7.Ng3 Bd7 8.c4 h5 9.h4 Nc6 10.O-O Ng4 11.Rb1 e5 12.d5 Ne7 13.e4 f5 14.exf5 gxf5 15.Ng5 e4 16.Ne6 Bxe6 17.dxe6 Bf6 18.Bf4 d5 19.cxd5 Qxd5 20.Bb5+ Kf8 21.Qxd5 Nxd5 22.Bd6+ Be7 23.Nxf5 Bxd6 24.Nxd6 e3 25.fxe3+ Ke7 26.Nxb7 Ngxe3 27.Rf2 Rab8 28.Bc6 Nb4 29.Be4 c4 30.Re1 Ng4 31.Rf4 Nf6 32.Ref1 Rh6 33.Bf3 Nbd5 34.Rxc4 Rxb7 35.Bxd5 Rxb2 36.Rc7+ Kd6 37.e7 Re2 38.Bf3 Rxe7 39.Rc6+ Kd7 40.Rb1 Ke8 41.a4 Kf7 42.a5 Rh8 43.Rb5 Rh6 44.Bxh5+ Kg7 45.Rg5+ Kh7 46.Bf3 Nd7 47.Rc7 Rhe6 48.Rxa7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 5: Martinez Alcantara, Jose Eduardo - Erdogmus, Yagiz Kaan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-rapid/round-5/SDBzKbs9/uwINwO8B"]
+[Date "2026.07.12"]
+[Round "5.2"]
+[White "Martinez Alcantara, Jose Eduardo"]
+[Black "Erdogmus, Yagiz Kaan"]
+[Result "0-1"]
+[WhiteElo "2620"]
+[BlackElo "2493"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 d6 7.Nc3 O-O 8.e4 b5 9.dxe5 dxe5 10.Qxd8 Rxd8 11.Nf3 b4 12.Na4 Nbd7 13.O-O-O Bb7 14.Nd2 c5 15.b3 Bc6 16.Nb2 Nf8 17.f3 Ne6 18.Nb1 Nd4 19.Nd3 Nd7 20.f4 a5 21.Kb2 a4 22.Nd2 Ne2 23.Nb1 exf4 24.gxf4 axb3 25.axb3 Ra5 26.Rhe1 Rda8 27.Nc1 Nxf4 28.Bf1 Ne5 29.Re3 Kf8 30.h4 Ke7 31.Be2 Ne6 32.Rg1 g6 33.Rf1 Nd4 34.Bd1 h5 35.Nd2 f6 36.Bc2 Rd8 37.Bd3 Ne6 38.Kc2 Ra1 39.Rg3 Nd4+ 40.Kb2 Ra3 41.Rf2 Bd7 42.Bc2 Bg4 43.Nf1 Nxc2 44.Kxc2 Bd1+ 45.Kb2 Rda8 46.Ne3 Bxb3 47.Nd5+ Kd8 48.Nb6 Ra2+ 49.Nxa2 0-1

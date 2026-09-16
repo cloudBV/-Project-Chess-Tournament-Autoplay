@@ -1,0 +1,15 @@
+[Event "Round 7: Nissinen, Niilo Man - Christiansen, Johan-Sebastian"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-7/YFC1RWfd/BbMIrs8m"]
+[Date "2026.07.19"]
+[Round "7.1"]
+[White "Nissinen, Niilo Man"]
+[Black "Christiansen, Johan-Sebastian"]
+[Result "0-1"]
+[WhiteElo "2331"]
+[BlackElo "2647"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.e5 Ne4 6.a3 Be7 7.Bd3 Nxc3 8.bxc3 Na5 9.h4 h6 10.h5 Bd7 11.O-O c5 12.dxc5 Qc7 13.Be3 Bxc5 14.Bd4 Bxd4 15.cxd4 O-O-O 16.Nh4 Kb8 17.Qg4 Rdg8 18.Rae1 Nc6 19.Re3 Ne7 20.Rg3 f5 21.Qe2 Be8 22.Bb5 g5 23.hxg6 Bxg6 24.Nxg6 Nxg6 25.Qh5 Qh7 26.Rb1 Ka8 27.Bf1 Ne7 28.Rgb3 Rb8 29.c4 Nc6 30.cxd5 exd5 31.Rd1 Rhg8 32.Rb5 Rbd8 33.Be2 Rg5 34.Qh4 Qe7 35.Qxh6 a6 36.Rb6 Na5 37.Bxa6 Rdg8 38.Bf1 f4 39.Re6 Qd7 40.Rb1 Nc4 41.Rf6 Ka7 42.Rxf4 R5g6 43.Qh2 Nd2 44.Rd1 Qc7 45.g3 Qc2 46.Qh5 Rxg3+ 47.fxg3 Rxg3+ 48.Bg2 Ne4 49.Qh2 Qxd1+ 50.Rf1 Qxd4+ 51.Kh1 Rg5 0-1

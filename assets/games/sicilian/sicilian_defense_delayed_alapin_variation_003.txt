@@ -1,0 +1,15 @@
+[Event "Round 4: Rachels, Stuart - Liang, Awonder"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-4/p37tSfIq/HNW3ek3T"]
+[Date "2026.07.03"]
+[Round "4.10"]
+[White "Rachels, Stuart"]
+[Black "Liang, Awonder"]
+[Result "0-1"]
+[WhiteElo "2431"]
+[BlackElo "2556"]
+[ECO "B22"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Bd3 Be7 7.O-O O-O 8.dxc5 Bxc5 9.Qe2 Nc6 10.Nbd2 Rd8 11.Bc2 Qh5 12.Ne4 Nxe4 13.Bxe4 Bd7 14.Bf4 Bb6 15.Rad1 Na5 16.b3 Bc6 17.c4 Qg4 18.Bxc6 Qxf4 19.Be4 Nc6 20.Bxc6 bxc6 21.Rxd8+ Rxd8 22.Rd1 Rxd1+ 23.Qxd1 h6 24.g3 Qe4 25.Kf1 e5 26.Qe2 Qb1+ 27.Kg2 e4 28.Ne5 e3 29.fxe3 Qe4+ 30.Nf3 Bxe3 31.Qd1 g5 32.h3 h5 33.Qd8+ Kg7 34.Qd6 Qc2+ 35.Kh1 Qb1+ 36.Kg2 Qxa2+ 37.Kh1 Qa1+ 38.Kg2 Qb2+ 39.Kh1 Qf6 40.Qxf6+ Kxf6 41.g4 hxg4 42.hxg4 Ke6 43.Kg2 f5 44.Kh3 a5 45.Ne1 Ke5 46.b4 axb4 47.Nd3+ Ke4 48.Nxb4 Kf3 49.gxf5 g4+ 50.Kh4 g3 51.Nd3 g2 52.Ne1+ Kf2 53.Nxg2 Kxg2 54.f6 Kf3 55.f7 Bc5 56.Kg5 Ke4 57.Kf6 Kd4 58.Ke6 Kxc4 59.Kd7 Kd5 60.f8=N Ke5 0-1

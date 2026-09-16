@@ -1,0 +1,15 @@
+[Event "Round 1: Cera Dagariya - Herdem, Talha"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/Dd8osKPr"]
+[Date "2026.07.13"]
+[Round "1.39"]
+[White "Cera Dagariya"]
+[Black "Herdem, Talha"]
+[Result "1-0"]
+[WhiteElo "2026"]
+[BlackElo "2067"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 a6 5.Bd3 g6 6.Nxd4 cxd4 7.Ne2 Bg7 8.c3 dxc3 9.bxc3 d5 10.O-O Nf6 11.e5 Ne4 12.Bxe4 dxe4 13.Qa4+ Bd7 14.Qxe4 Bc6 15.Qd4 Qa5 16.f4 O-O 17.Qf2 f6 18.exf6 Bxf6 19.d4 Bb5 20.Bd2 Rac8 21.Rfe1 Bc4 22.Ng3 Bh4 23.Qf3 Bf6 24.Ne4 Bg7 25.Qe3 Rc6 26.Nc5 b5 27.a4 Qd8 28.axb5 axb5 29.Ra7 b4 30.Rd7 Qe8 31.Rxe7 Qd8 32.Nd7 bxc3 33.Bxc3 Bf7 34.Ba1 Rd6 35.Nxf8 Bxf8 36.Ra7 Qb8 37.Ra5 Bg7 38.Qe7 Bf6 39.Qe4 Qb4 40.Ra8+ Kg7 41.f5 Qb6 42.Ra4 Bd5 43.Qf4 Bxg2 44.Kxg2 Qc6+ 45.d5 Qc2+ 46.Kh1 Bxa1 47.Ra7+ Kf8 48.Qxd6+ 1-0

@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.5"]
+[White "Simonsen, David Mindestrommen"]
+[Black "Aamodt, Peder Marcus"]
+[Result "1-0"]
+[WhiteElo "2138"]
+[BlackElo "2178"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.a3 O-O 7.Be3 Na5 8.Ba2 c5 9.b4 Nc6 10.Rb1 cxb4 11.axb4 d5 12.Nxd5 Nxd5 13.Bxd5 Bxb4+ 14.Bd2 Bxd2+ 15.Qxd2 Qd6 16.Qc3 Ne7 17.O-O Nxd5 18.exd5 Qxd5 19.Qxe5 Be6 20.Qxd5 Bxd5 21.Nd4 Rfd8 22.Rfd1 b6 23.Nf5 Rd7 24.Ne3 Be6 25.f4 g6 26.Rb5 Rc8 27.Rb4 Rd6 28.Kf2 a5 29.Rb2 Ra8 30.c4 a4 31.d4 h5 32.d5 Bd7 33.g3 Ra5 34.Rd3 Rc5 35.Rdd2 b5 36.cxb5 Bxb5 37.Rbc2 Rxc2 38.Rxc2 Ra6 39.Ra2 a3 40.Nc2 Bc4 41.Rxa3 Rxa3 42.Nxa3 Bxd5 43.Ke3 Kg7 44.Kd4 Be6 45.Ke5 Bb3 46.Nb5 f6+ 47.Kd6 Bc2 48.Nd4 Bd3 49.Ke7 Bb1 50.Ne6+ Kh6 51.Kxf6 Bf5 52.h4 Bb1 53.Ng5 Bc2 54.Kf7 Bb3+ 55.Kf6 Bc2 56.Nf3 Bb1 57.Nd4 Bd3 58.f5 gxf5 59.Nxf5+ Kh7 60.Kg5 Be2 61.Ne7 Bd1 62.Ng6 Bc2 63.Nf4 Bb1 64.Nxh5 Bc2 65.g4 Bb1 66.Kf6 Bc2 67.Ng3 Bd3 68.g5 Bc2 69.Nf5 Bb3 70.g6+ Kh8 71.h5 Bd1 72.h6 Be2 73.Nd6 1-0

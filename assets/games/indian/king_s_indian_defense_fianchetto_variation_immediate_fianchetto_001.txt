@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/TSTFVbLm"]
+[Date "2026.07.05"]
+[Round "9.5"]
+[White "Sriram, Jha"]
+[Black "Fiszer, Bartosz"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2344"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Bf5 7.O-O Ne4 8.Nb1 Nf6 9.Nh4 Be4 10.Nf3 Bf5 11.Qb3 Qc8 12.Nc3 Nc6 13.d5 Nb8 14.Re1 Na6 15.e4 Nc5 16.Qc2 Bh3 17.Be3 Bxg2 18.Kxg2 Ncd7 19.h3 c6 20.Rac1 Re8 21.Qd2 a6 22.Bh6 Bh8 23.Bf4 Nh5 24.Bg5 Qc7 25.Ne2 Rac8 26.g4 Nhf6 27.Ng3 e5 28.Be3 Red8 29.Bh6 Ne8 30.Bg5 f6 31.Be3 cxd5 32.cxd5 Qb8 33.Ne2 Rxc1 34.Rxc1 Rc8 35.Ne1 Rxc1 36.Nxc1 Bg7 37.Nb3 Qc7 38.f3 f5 39.Qc2 Bf6 40.Qxc7 Nxc7 41.Na5 b5 42.Nd3 Kf7 43.Nb7 Be7 44.Bd2 Nf6 45.Ba5 Nfe8 46.Nb4 Kf6 47.Nc6 Bf8 48.Bb4 Kf7 49.g5 Kg8 50.b3 Kg7 51.h4 Kg8 52.Na7 Be7 53.Nc8 Kf8 54.Nbxd6 Nxd6 55.Bxd6 Bxd6 56.Nxd6 f4 57.Nb7 Ke8 58.Kf2 Kd7 59.Ke2 b4 60.Ke1 Nb5 61.Nc5+ Kd6 62.Nxa6 Nd4 63.Kf2 Nc2 64.Kf1 Kd7 65.Nc5+ Kd6 66.Nd3 Nd4 67.Kg2 1-0

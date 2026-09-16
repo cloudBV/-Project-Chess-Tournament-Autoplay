@@ -1,0 +1,15 @@
+[Event "Round 6: Zylka, Stanislaw - Larkin, Vladyslav"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-6/bVyM4zuT/xgtn5y2i"]
+[Date "2026.07.09"]
+[Round "6.5"]
+[White "Zylka, Stanislaw"]
+[Black "Larkin, Vladyslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2343"]
+[BlackElo "2506"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Nc6 5.O-O Bd6 6.d4 1/2-1/2

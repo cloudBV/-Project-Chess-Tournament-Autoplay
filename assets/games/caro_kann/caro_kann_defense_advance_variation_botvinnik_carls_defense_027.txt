@@ -1,0 +1,14 @@
+[Event "Round 6: Sandalakis, Nikolaos - Kalodoukas, Odysseas"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/h2a4lKlq"]
+[Date "2026.07.10"]
+[Round "6.53"]
+[White "Sandalakis, Nikolaos"]
+[Black "Kalodoukas, Odysseas"]
+[Result "0-1"]
+[WhiteElo "2231"]
+[BlackElo "2203"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.b4 Be7 7.Nf3 a5 8.b5 f6 9.c4 fxe5 10.Nxe5 Nf6 11.Bd3 O-O 12.O-O Nbd7 13.Nxd7 Nxd7 14.Ra2 Nc5 15.Re2 Bf6 16.Bf4 b6 17.Bc2 Bb7 18.cxd5 exd5 19.Nd2 d4 20.Ree1 Qd5 21.Bb3 Nxb3 22.Qxb3 Rac8 23.Rc1 Rc3 24.Qxd5+ Bxd5 25.Nb1 Rcc8 26.Bc7 Bg5 27.f4 Rxc7 28.Rxc7 Bxf4 29.Rxf4 Rf7 30.Rf5 Rxf5 31.Nd2 Re5 32.Rd7 Rg5 33.g3 Re5 34.Kf2 d3 35.Kf1 Kf8 36.Rd6 Ke7 37.Rxb6 Re2 38.Nb1 Bg2+ 39.Kg1 Bf3 40.Nc3 Rc2 0-1

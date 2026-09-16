@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.24"]
+[Round "28.6"]
+[White "Lynx 1.11.0-dev-edbae92a"]
+[Black "RubiChessHCE 20260308"]
+[Result "1-0"]
+[WhiteElo "3332"]
+[BlackElo "3397"]
+[ECO "B61"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Nxd4 8.Qxd4 e6 9.Nb5 Rc8 10.c3 a6 11.Bxf6 Qxf6 12.Nxd6+ Bxd6 13.Qxd6 Qe7 14.Qxe7+ Kxe7 15.Bd3 Rhd8 16.Ke2 e5 17.Rhd1 Bg4+ 18.f3 Be6 19.Bc2 Rxd1 20.Rxd1 Rc5 21.a4 a5 22.h4 Rc6 23.Bd3 Bb3 24.Ra1 Rg6 25.Kf2 Rd6 26.Ra3 Be6 27.Ke3 h6 28.b4 b6 29.Ra1 Rc6 30.Kd2 Kd6 31.Rb1 Rc7 32.Bc2 Bd7 33.Bb3 Be8 34.b5 f6 35.Kc2 Kc5 36.Be6 Re7 37.Bh3 Kd6 38.Rd1+ Kc7 39.c4 Bf7 40.Kc3 Bg8 41.h5 Bf7 42.Bg4 Bg8 43.Kb2 Bf7 44.Kb3 Bg8 45.Bf5 Bf7 46.Kc3 Bg8 47.Rd2 Bf7 48.Bg4 Bg8 49.Kb2 Bf7 50.Rd1 Bg8 51.Kc3 Bf7 52.Rd3 Bg8 53.Kb3 Bf7 54.Kb2 g6 55.hxg6 Bxg6 56.c5 bxc5 57.Rd5 Be8 58.Bf5 h5 59.Bh3 h4 60.Bg4 Rg7 61.Kc3 Rg6 62.Rd2 f5 63.Bxf5 Rd6 64.Rd5 Bf7 65.Rxc5+ Kb6 66.Rxe5 Rd8 67.Re7 Bg8 68.Rg7 Rf8 69.Rg4 Kb7 70.Rxh4 Rf7 71.Rh8 Rc7+ 72.Kb2 Rg7 73.g4 Kc7 74.f4 Kb6 75.Rh6+ Kb7 76.Rg6 Rh7 77.Rxg8 Rh2+ 78.Kc3 Kb6 79.Rg6+ Kb7 80.e5 Ra2 81.Be4+ Kc8 82.b6 Ra3+ 83.Kc2 Ra2+ 84.Kb3 Re2 85.b7+ Kd7 86.b8=Q Re3+ 87.Kc2 Re2+ 88.Kd3 Rd2+ 89.Kxd2 Ke7 90.Rg8 Kf7 91.Qe8# 1-0

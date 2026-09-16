@@ -1,0 +1,15 @@
+[Event "Round 9: Chubakov, Sultan - Rostami, Mohsen"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/cYgg3CUg"]
+[Date "2026.07.05"]
+[Round "9.46"]
+[White "Chubakov, Sultan"]
+[Black "Rostami, Mohsen"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2010"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 e5 7.d3 Nc6 8.e3 h6 9.Rb1 Be6 10.Qb3 Rb8 11.Nd2 Qd7 12.Nd5 Bh3 13.Qa4 Bxg2 14.Kxg2 Rfd8 15.Nxf6+ Bxf6 16.b4 a6 17.Ne4 Bg7 18.Nc3 f5 19.Nd5 Qf7 20.Qb3 Rbc8 21.b5 Nb8 22.Bd2 b6 23.c5 dxc5 24.Ne7+ Kf8 25.Nxc8 Rxc8 26.bxa6 Nxa6 27.Qxf7+ Kxf7 28.Kf3 Nb8 29.a4 Nc6 30.a5 bxa5 31.Rfc1 Nb4 32.Rxc5 Nxd3 33.Rxa5 Rd8 34.Ke2 Nxf2 35.Ra7 Rd7 36.Rc1 Ne4 37.Rcxc7 Rxc7 38.Rxc7+ Kf6 39.Bb4 h5 40.Ra7 g5 41.Be7+ Kg6 42.Kd3 Kh7 43.Bf8 Kg6 44.Rxg7+ Kf6 45.Ra7 g4 46.Rh7 Kg6 47.Rh6+ Kg5 48.Rc6 h4 49.Be7+ Kh5 50.Bxh4 Nf2+ 51.Ke2 Nh3 52.Rf6 e4 53.Rxf5+ Kg6 54.Re5 Ng1+ 55.Kf2 Nf3 56.Rxe4 Kh5 57.h3 Nd2 58.hxg4+ 1-0

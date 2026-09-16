@@ -1,0 +1,14 @@
+[Event "Round 2: Yuffa, Daniil - Vantika Agrawal"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/HjGw4oOz"]
+[Date "2026.07.19"]
+[Round "2.12"]
+[White "Yuffa, Daniil"]
+[Black "Vantika Agrawal"]
+[Result "1/2-1/2"]
+[WhiteElo "2574"]
+[BlackElo "2393"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 Bd6 5.Ne5 O-O 6.Nd2 c5 7.c3 c4 8.h4 Nc6 9.h5 h6 10.Qf3 Bxe5 11.dxe5 Nd7 12.Qg3 Kh8 13.Be2 b5 14.Nf3 Nc5 15.Nd4 Bd7 16.f3 Rb8 17.a3 a5 18.Rh4 Na4 19.Rg4 Rg8 20.Kf2 Nxb2 21.Rh1 b4 22.axb4 axb4 23.cxb4 Nxb4 24.Kg1 N2d3 25.Rh3 Nxf4 26.Qxf4 Qe7 27.Rhg3 Ba4 28.e4 c3 29.exd5 Nxd5 30.Qc1 c2 31.Kh2 Nc3 1/2-1/2

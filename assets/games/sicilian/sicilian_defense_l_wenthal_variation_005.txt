@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-5/K9LFd4OC/pTCCtbLs"]
+[Date "2026.07.21"]
+[Round "5.2"]
+[White "Macias Verano, Jose Maria"]
+[Black "Badia Berthelot, Luca"]
+[Result "1/2-1/2"]
+[WhiteElo "2043"]
+[BlackElo "2169"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 a6 6.Nd6+ Bxd6 7.Qxd6 Qe7 8.Qd1 Nf6 9.Nc3 Nd4 10.Bd3 b5 11.Nd5 Nxd5 12.exd5 e4 13.Bf1 Qc5 14.c3 Nf5 15.Be2 Bb7 16.Bg4 Nh4 17.Bxd7+ Kf8 18.Bh3 Qxd5 19.Qxd5 Bxd5 20.Bg5 Ng6 21.O-O-O Bxa2 22.Rhe1 f6 23.Be3 Ne5 24.Bc5+ Kf7 25.Rxe4 Rhd8 26.Red4 Rxd4 27.cxd4 Ng6 28.Kc2 Bd5 1/2-1/2

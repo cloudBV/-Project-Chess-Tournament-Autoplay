@@ -1,0 +1,15 @@
+[Event "Round 8: Yilmaz, Kerem Tuna - Yalcinkaya, Efe"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/jP7cqFtr"]
+[Date "2026.07.04"]
+[Round "8.18"]
+[White "Yilmaz, Kerem Tuna"]
+[Black "Yalcinkaya, Efe"]
+[Result "1/2-1/2"]
+[WhiteElo "2061"]
+[BlackElo "2318"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 g6 5.O-O Bg7 6.Bb5+ Nc6 7.Qe2 O-O 8.h3 e5 9.d3 h6 10.a4 Na5 11.Nbd2 a6 12.Bc4 Nxc4 13.Nxc4 Be6 14.a5 Qc7 15.Nb6 Rad8 16.d4 exd4 17.cxd4 Rfe8 18.Bf4 Bf5 19.e5 cxd4 20.exd6 Qc5 21.Qc4 Qxc4 22.Nxc4 Bd3 23.Rfc1 Bxc4 24.Rxc4 Ne4 25.Rc7 g5 26.Bh2 Nxd6 27.Bxd6 Rxd6 28.Rxb7 Re2 29.Rb6 Rxb6 30.axb6 Rxb2 31.Rxa6 f5 32.Ra8+ Kh7 33.Rd8 Rb1+ 34.Kh2 Rxb6 35.Nxd4 Kg6 36.g3 Bf6 37.Rd7 Rb2 38.Kg2 Rd2 39.Ne6 Rxd7 40.Nf8+ Kf7 41.Nxd7 Bd4 42.Nb8 Ke6 43.Na6 Kd6 44.Nb4 Kc5 45.Nc2 Kc4 46.Kf3 Kd3 47.Nb4+ Kc4 48.Nc2 Kd3 49.Nb4+ 1/2-1/2

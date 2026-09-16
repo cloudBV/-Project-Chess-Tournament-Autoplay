@@ -1,0 +1,15 @@
+[Event "2026 India Rising Finals"]
+[Site "https://lichess.org/broadcast/india-rising-2026-finals/set-1/GQKCdOy4/4iUKmY1p"]
+[Date "2026.07.04"]
+[Round "1.1.5"]
+[White "Bok, Benjamin"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[WhiteElo "2560"]
+[BlackElo "2697"]
+[ECO "C54"]
+[TimeControl "600"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Bg5 h6 7.Bh4 a6 8.Nbd2 Ba7 9.a4 g5 10.Bg3 O-O 11.O-O Kg7 12.Re1 g4 13.Nh4 Nh5 14.Nf1 Qg5 15.Ne3 Bxe3 16.Rxe3 Nf4 17.Qe1 Be6 18.f3 h5 19.Qf2 Na5 20.Ba2 Nc6 21.b4 Ne7 22.Rae1 Neg6 23.Bb1 Nxh4 24.Bxh4 Qh6 25.d4 Ng6 26.fxg4 Nxh4 27.Qxh4 hxg4 28.Qg3 f6 29.Bc2 Rh8 30.Bd1 Qg5 31.Qf2 Rh4 32.h3 Rah8 33.Rg3 Kf7 34.Rf1 Ke7 35.Bxg4 Bxg4 36.Rxg4 Rxg4 37.hxg4 Rh4 38.dxe5 dxe5 39.Qc5+ Ke8 40.Rd1 Rxg4 41.Qa7 Rxg2+ 42.Kf1 Kf7 43.Rd7+ Kg6 44.Rd8 Kf7 45.Qc5 Rc2 46.Qd5+ Kg6 47.Rg8+ Kh5 48.Rxg5+ Kxg5 49.Qd3 Rc1+ 50.Ke2 Kf4 51.Qe3+ Kg4 52.Qxc1 f5 53.Qg1+ Kf4 54.Qe3+ Kg4 55.Qf3+ Kg5 56.Qxf5+ Kh6 57.Qxe5 Kg6 58.Qf5+ Kg7 59.e5 1-0

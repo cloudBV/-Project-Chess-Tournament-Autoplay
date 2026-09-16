@@ -1,0 +1,14 @@
+[Event "Round 3: Reichel, Jonathan - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-biel-hospital-centertri-blitz/round-3/4lfH2go3/m4BU0KaU"]
+[Date "2026.07.22"]
+[Round "3.2"]
+[White "Reichel, Jonathan"]
+[Black "Cherniaev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2081"]
+[BlackElo "2603"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense"]
+
+1.d4 Nf6 2.c3 d6 3.e3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 c5 7.O-O Nc6 8.Nbd2 b6 9.Qe2 Bb7 10.e4 cxd4 11.cxd4 Nb4 12.Bb1 Ba6 13.Nc4 Rc8 14.b3 d5 15.a3 Nc6 16.exd5 Nxd5 17.Bd3 Nxd4 18.Nxd4 Bxd4+ 19.Be3 Nxe3 20.Nxe3 Bxd3 21.Qxd3 Bxa1 22.Qxd8 Rfxd8 23.Rxa1 Rd3 24.Kf2 Rxb3 25.a4 e6 26.Ng4 Rc2+ 27.Kf1 Rcb2 28.Nf6+ Kg7 29.Ne8+ Kf8 30.Nd6 Rb1+ 31.Rxb1 Rxb1+ 0-1

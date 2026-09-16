@@ -1,0 +1,15 @@
+[Event "Round 9: Gur, Ali - Akturk, Mustafa Deniz"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/ioB168We"]
+[Date "2026.07.05"]
+[Round "9.29"]
+[White "Gur, Ali"]
+[Black "Akturk, Mustafa Deniz"]
+[Result "1-0"]
+[WhiteElo "2286"]
+[BlackElo "2143"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Nd5 5.O-O Nc7 6.a4 g6 7.Nc3 Bg7 8.Bxc6 dxc6 9.Re1 O-O 10.d3 Bf5 11.h3 c4 12.dxc4 Qxd1 13.Rxd1 Bxc2 14.Rd7 Rac8 15.Rxe7 Rfe8 16.Rxe8+ Rxe8 17.Bf4 Bd3 18.b3 Bc2 19.Rc1 Bd3 20.Rd1 Bc2 21.Rd7 Ne6 22.Be3 Bxb3 23.Rxb7 Bxc4 24.Rxa7 Bd3 25.a5 Bf8 26.Rd7 Rd8 27.Rxd8 Nxd8 28.e6 fxe6 29.Ne5 Ba6 30.Ne4 Nb7 31.Nf6+ Kg7 32.Ne8+ Kg8 33.Nc7 Bd6 34.Nxa6 Bxe5 35.Bb6 Bd6 36.Nb4 Nxa5 37.Bxa5 c5 38.Nd3 Kf7 39.Kf1 e5 40.Bb6 c4 41.Nb2 c3 42.Nc4 Bb8 43.Ke2 g5 44.Ba5 c2 45.Bd2 Kg6 46.Ne3 h5 47.g4 hxg4 48.hxg4 e4 49.Nxc2 Kf6 50.Bc3+ Ke6 51.Ke3 Kd5 52.Nb4+ Kc4 53.Be1 1-0

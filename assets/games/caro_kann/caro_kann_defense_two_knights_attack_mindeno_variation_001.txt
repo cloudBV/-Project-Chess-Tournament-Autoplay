@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.06.27"]
+[Round "6.1"]
+[White "Mulet, Piotr"]
+[Black "Cap, Piotr"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2074"]
+[ECO "B11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.Be2 e6 5.O-O Nf6 6.e5 Nfd7 7.d4 c5 8.dxc5 Bxc5 9.Ng5 Bf5 10.Bd3 Bg6 11.Qe2 Nc6 12.Bf4 Nd4 13.Qg4 Bxd3 14.cxd3 h5 15.Qd1 Be7 16.h4 Nf5 17.g3 Qb6 18.b3 Qa5 19.Ne2 d4 20.Nf3 Qd5 21.Kg2 f6 22.exf6 gxf6 23.Ng1 Kf7 24.Qe2 e5 25.Bd2 Rhg8 26.Kh2 Rg4 27.Nh3 Rag8 28.Rg1 Bd6 29.Rae1 a5 30.Bc1 Nc5 31.Qc2 Qxf3 32.Qc4+ Kg7 33.Ba3 b6 34.Bxc5 Bxc5 35.Qe6 Ne7 36.Rxe5 fxe5 37.Qxe5+ Kh6 38.Ng5 R4xg5 39.hxg5+ Rxg5 40.Qh8+ Kg6 41.Qe8+ 0-1

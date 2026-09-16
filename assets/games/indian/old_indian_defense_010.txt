@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/Db8VGNIP"]
+[Date "2026.07.22"]
+[Round "4.8"]
+[White "Hald Falkesgaard, Jeppe"]
+[Black "Pandey Srishti"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2220"]
+[ECO "A53"]
+[Variant "Standard"]
+[Opening "Old Indian Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.e4 e5 5.Be3 a5 6.h3 exd4 7.Bxd4 g6 8.g4 Bg7 9.g5 Nh5 10.Be2 O-O 11.Bxh5 Bxd4 12.Qxd4 gxh5 13.Nge2 Ne5 14.O-O-O Be6 15.Nd5 Bxd5 16.exd5 c5 17.dxc6 Rc8 18.f4 Nxc6 19.Qc3 b5 20.Kb1 Nb4 21.Rd4 h4 22.f5 Re8 23.g6 Qg5 24.gxh7+ Kxh7 25.Rg1 Qf6 26.Rxh4+ 1-0

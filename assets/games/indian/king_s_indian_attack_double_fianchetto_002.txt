@@ -1,0 +1,15 @@
+[Event "Round 8: Cruz, Jonathan - Vergara Jofre, Felipe"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-8/7Yb3gPsX/pG7a1KVi"]
+[Date "2026.07.02"]
+[Round "8.2"]
+[White "Cruz, Jonathan"]
+[Black "Vergara Jofre, Felipe"]
+[Result "1/2-1/2"]
+[WhiteElo "2323"]
+[BlackElo "2304"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d3 e5 5.O-O Nc6 6.Nbd2 Nge7 7.e4 O-O 8.exd5 Nxd5 9.Re1 Re8 10.Nc4 h6 11.Bd2 a5 12.Qc1 Kh7 13.Ne3 Be6 14.Nxd5 Bxd5 15.Bc3 Qd6 16.a4 Re7 17.b3 Rae8 18.Qb2 b6 19.Re3 f5 20.Rae1 g5 21.Nd2 Bxg2 22.Kxg2 Nb4 23.Nc4 Qc6+ 24.Kg1 Nd5 25.R3e2 Nxc3 26.Qxc3 e4 27.Qd2 Rd7 28.Qc1 Bc3 29.Rf1 Bg7 30.Qd2 1/2-1/2

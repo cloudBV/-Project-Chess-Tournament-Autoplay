@@ -1,0 +1,15 @@
+[Event "Round 7: Srdanovic, Jovana - Radovanovic, Nikola"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/x0LzRkGB"]
+[Date "2026.07.09"]
+[Round "7.5"]
+[White "Srdanovic, Jovana"]
+[Black "Radovanovic, Nikola"]
+[Result "1/2-1/2"]
+[WhiteElo "2286"]
+[BlackElo "2433"]
+[ECO "A41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.d5 a5 4.Nc3 g6 5.h4 h5 6.Nf3 Na6 7.Qc2 Nc5 8.Bg5 Nf6 9.e4 Bg7 10.Be2 O-O 11.Nd2 Qe8 12.f3 Nh7 13.Be3 f5 14.O-O-O Nf6 15.Kb1 Bd7 16.Rhg1 a4 17.a3 Qe7 18.g3 Rf7 19.Ka2 Raf8 20.Rdf1 Qe8 21.Bg5 Nh7 22.Be3 Nf6 23.Bg5 1/2-1/2

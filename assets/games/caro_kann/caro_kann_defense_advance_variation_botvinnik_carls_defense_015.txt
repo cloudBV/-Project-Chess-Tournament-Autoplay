@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.19"]
+[White "Jiang, Lucas"]
+[Black "Wilson, Ronen"]
+[Result "0-1"]
+[WhiteElo "2362"]
+[BlackElo "2214"]
+[ECO "B12"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.Nf3 Nd7 7.b4 Be7 8.c4 dxc4 9.Bxc4 Qc7 10.Qe2 b5 11.Nbd2 bxc4 12.O-O a5 13.b5 Nb6 14.Ne4 Bb7 15.Rd1 Rd8 16.Bd2 c3 17.Nxc3 Qc4 18.Qe3 Bc5 19.Qg5 Ne7 0-1

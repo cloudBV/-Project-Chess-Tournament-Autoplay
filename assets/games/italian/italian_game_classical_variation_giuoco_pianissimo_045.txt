@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-1/XUUyCB30/yj7PtBfM"]
+[Date "2026.07.09"]
+[Round "15.4"]
+[White "Achinovich, Oleg"]
+[Black "Korszanski, Stanislaw"]
+[Result "0-1"]
+[WhiteElo "2077"]
+[BlackElo "2267"]
+[ECO "C54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.c3 Nf6 6.O-O h6 7.Re1 a6 8.Bb3 O-O 9.h3 Ba7 10.Nbd2 Ne7 11.Nf1 Ng6 12.Ng3 Be6 13.Bc2 Nf4 14.d4 Ng6 15.Be3 c6 16.Nf5 d5 17.exd5 Bxf5 18.Bxf5 Nxd5 19.Bxg6 fxg6 20.Nxe5 Qd6 21.Qg4 g5 22.h4 gxh4 23.Qxh4 Rae8 24.Rad1 Rf5 25.Bc1 Ref8 26.Re2 Nf4 27.Bxf4 Rxf4 28.Qg3 R4f6 29.Rde1 c5 30.dxc5 Bxc5 31.Qd3 Rxf2 32.Rxf2 Bxf2+ 33.Kh2 Qxd3 34.Nxd3 Bxe1 35.Nxe1 Rf2 36.Nd3 Rd2 0-1

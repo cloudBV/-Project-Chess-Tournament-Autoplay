@@ -1,0 +1,14 @@
+[Event "Round 8: Rosen, Willy - Babrikowski, Peter, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-8/2E3aV6Aw/QJwph2Gs"]
+[Date "2026.07.24"]
+[Round "8.17"]
+[White "Rosen, Willy"]
+[Black "Babrikowski, Peter, Dr."]
+[Result "0-1"]
+[WhiteElo "2045"]
+[BlackElo "2156"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Nf3 Bg7 5.O-O e6 6.Bxc6 dxc6 7.e5 Qc7 8.Re1 f5 9.exf6 Nxf6 10.d3 O-O 11.Be3 b6 12.Qd2 Ng4 13.h3 Nxe3 14.Qxe3 Bd7 15.Ne5 Rae8 16.Re2 Rf5 17.f4 g5 18.g3 Ref8 19.Rae1 gxf4 20.gxf4 Rxf4 21.Rg2 Kh8 22.Kh1 Rf1+ 23.Rg1 Rxg1+ 24.Kxg1 Rf5 0-1

@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/9AlQoV7F"]
+[Date "2026.07.09"]
+[Round "-"]
+[White "Kiolbasa, Oliwia"]
+[Black "Nurgaliyeva, Zarina"]
+[Result "1/2-1/2"]
+[WhiteElo "2322"]
+[BlackElo "2278"]
+[ECO "C55"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.a3 h6 7.Be3 Be6 8.Bxe6 fxe6 9.d4 exd4 10.Nxd4 Nxd4 11.Qxd4 O-O 12.O-O-O Ng4 13.Kb1 Bf6 14.Qc4 Nxe3 15.Qxe6+ Kh8 16.fxe3 Bxc3 17.bxc3 Qg5 18.Rde1 Rae8 19.Qc4 Qa5 20.Rhf1 Rxf1 21.Rxf1 Qb6+ 22.Ka2 Qxe3 23.Qxc7 Qxe4 24.Rf2 Qe1 25.Qd7 Rg8 26.Rf3 Qd2 27.Qf5 Qxg2 28.h4 a6 29.h5 b5 30.Qd3 Qg4 31.Rg3 Qxh5 32.Qxd6 Qe2 33.Qg6 Qc4+ 34.Kb2 Qc7 35.Rh3 Qf4 36.Rh5 Rc8 37.Qxa6 Qc4 38.Qa5 Rc5 39.Qa8+ Kh7 40.Rxc5 Qxc5 41.Qe4+ Kg8 42.Qe8+ Kh7 43.Qe4+ Kg8 44.Qe8+ Kh7 45.Qe4+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 6: Buchal, Stephan - Rudolf, Matthias, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/7UNlkPNR"]
+[Date "2026.07.22"]
+[Round "6.3"]
+[White "Buchal, Stephan"]
+[Black "Rudolf, Matthias, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2241"]
+[BlackElo "2085"]
+[ECO "A11"]
+[Variant "Standard"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+
+1.c4 c6 2.g3 d5 3.Nf3 Bg4 4.Bg2 e6 5.cxd5 Bxf3 6.Bxf3 cxd5 7.O-O Nf6 8.d3 Nc6 9.Nc3 Be7 10.Bf4 O-O 11.Qa4 a6 12.Rfc1 b5 13.Qd1 Qb6 14.Bg2 Rac8 15.a3 h6 16.Bd2 Rc7 17.Na2 Rfc8 1/2-1/2

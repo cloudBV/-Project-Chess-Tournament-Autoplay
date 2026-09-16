@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.14"]
+[White "Klys, Kacper"]
+[Black "Annaberdiyev, Meylis"]
+[Result "1/2-1/2"]
+[WhiteElo "2178"]
+[BlackElo "2427"]
+[ECO "B30"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 d6 6.e5 dxe5 7.Nxe5 Bd6 8.Nc4 Ne7 9.Nc3 O-O 10.Ne4 Bc7 11.O-O e5 12.Nxc5 Ng6 13.Qf3 Qd5 14.Qxd5 cxd5 15.Ne3 Bd6 16.b4 Rd8 17.Bd2 Bxc5 18.bxc5 Be6 19.Rfb1 d4 20.Nd1 Rdc8 21.Rb5 Bd5 22.c4 Bc6 23.Rb4 Bd7 24.f3 Rxc5 25.Rab1 Rcc8 26.Nf2 f5 27.R4b3 Ba4 28.Ra3 Rcb8 29.Re1 Bc6 30.Rb3 Re8 31.Bb4 Re6 32.Bc5 Nh4 33.Kf1 Rg6 34.Rxe5 Nxg2 35.Bxd4 Nh4 36.Bc3 Nxf3 37.Rxf5 Re8 38.Ne4 Nxh2+ 39.Kf2 h6 40.Rf4 Ng4+ 41.Kf3 Ne5+ 42.Bxe5 Rxe5 43.d4 Rh5 44.d5 Ba4 45.Rb8+ Kh7 46.Rff8 Rh3+ 47.Kf4 Rg1 48.c5 Rh4+ 49.Ke5 Bc2 50.Rf4 Rh5+ 51.Kd6 Bxe4 52.Rxe4 Rg6+ 53.Re6 Rgg5 54.c6 Rxd5+ 55.Ke7 Rc5 56.Kd7 Rhd5+ 57.Rd6 Rf5 58.Rb7 Rf7+ 59.Kc8 Rf8+ 60.Kd7 1/2-1/2

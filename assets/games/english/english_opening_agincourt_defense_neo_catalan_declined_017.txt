@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.05"]
+[Round "28.1"]
+[White "Firouzja, Alireza"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2686"]
+[ECO "A14"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.e3 c5 9.Qe2 Nc6 10.Rd1 Rc8 11.d3 d4 12.exd4 cxd4 13.Na3 Re8 14.Ne5 Bxa3 15.Bxa3 Qc7 16.Re1 Nxe5 17.Qxe5 Qxe5 18.Rxe5 Bxg2 19.Kxg2 Nd7 20.Re4 e5 21.Rae1 f5 22.R4e2 Re6 23.Bb2 Rg6 24.b4 a5 25.bxa5 bxa5 26.Rxe5 Nxe5 27.Rxe5 f4 28.Rxa5 Rf8 29.Bxd4 fxg3 30.hxg3 Rd8 31.Be3 Rxd3 32.a4 Rf6 33.Rb5 Ra3 34.a5 Ra4 35.Rc5 h6 36.Rc8+ Rf8 37.Rc5 Rf7 38.Rc8+ Rf8 39.Rc5 Kh7 40.Bd2 Ra2 41.Be3 Ra4 42.Bd4 Rf7 43.Be3 Rb7 44.Bd4 Rf7 45.Be3 Kg8 46.Bd2 Kh7 47.Be3 1/2-1/2

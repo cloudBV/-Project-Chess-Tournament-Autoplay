@@ -1,0 +1,15 @@
+[Event "Round 1: Haring, Filip - Rogos, Jan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-1/w7EFVbhM/zxPZKH9f"]
+[Date "2026.07.16"]
+[Round "1.33"]
+[White "Haring, Filip"]
+[Black "Rogos, Jan"]
+[Result "1-0"]
+[WhiteElo "2446"]
+[BlackElo "2094"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 bxc6 5.O-O d5 6.d3 Bg4 7.Nc3 e6 8.h3 Bh5 9.Qe2 Nf6 10.Na4 Be7 11.c4 O-O 12.b3 Nd7 13.Bf4 Bxf3 14.Qxf3 e5 15.Bd2 d4 16.Qg3 Kh8 17.f4 exf4 18.Bxf4 Nf6 19.Bc7 Qe8 20.Rf5 Nd7 21.Raf1 f6 22.e5 Nxe5 23.Bxe5 fxe5 24.Qxe5 Rxf5 25.Rxf5 Qg6 26.Nxc5 Bd6 27.Qe6 Qg3 28.Rf3 Qh2+ 29.Kf2 Bf4 30.Qg4 Be3+ 31.Ke2 Qe5 32.Qf5 Qe7 33.Ne6 Qb4 34.Qf8+ Rxf8 35.Rxf8+ Qxf8 36.Nxf8 Kg8 37.Ne6 1-0

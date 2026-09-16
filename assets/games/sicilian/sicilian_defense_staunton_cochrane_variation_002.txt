@@ -1,0 +1,15 @@
+[Event "Round 5: Banas, Kamil - Rabatin, Jakub"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/0BVKO6tg"]
+[Date "2026.07.18"]
+[Round "5.34"]
+[White "Banas, Kamil"]
+[Black "Rabatin, Jakub"]
+[Result "0-1"]
+[WhiteElo "2132"]
+[BlackElo "2324"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+
+1.e4 c5 2.c4 Nc6 3.Ne2 Nf6 4.Nbc3 e6 5.d4 cxd4 6.Nxd4 Bb4 7.Nxc6 bxc6 8.Bd3 e5 9.O-O O-O 10.Qe2 Re8 11.Rd1 d6 12.Na4 Bg4 13.f3 Be6 14.a3 Ba5 15.b4 Bc7 16.Qc2 h6 17.Bf1 Qe7 18.Be3 Rec8 19.Qf2 d5 20.Nc5 d4 21.Bd2 a5 22.Bd3 Nd7 23.Nxe6 Qxe6 24.c5 Bd8 25.Qf1 Bg5 26.Bxg5 hxg5 27.Bc4 Qe7 28.g3 Rcb8 29.Qe1 Ra7 30.Kg2 g6 31.Rdc1 Kg7 32.Qd2 Rba8 33.Qe1 Rb8 34.Qd2 g4 35.fxg4 Nf6 36.Qe2 axb4 37.g5 Nd7 38.axb4 Rxa1 39.Rxa1 Rxb4 40.Rf1 Rxc4 41.Qxc4 Nxc5 42.h4 Nxe4 43.Qxc6 Nd6 44.g4 Qe6 45.Qf3 Kg8 46.h5 e4 47.Qf4 d3 48.hxg6 Qxg6 49.Qe5 Qe6 50.Qf4 e3 51.g6 e2 52.gxf7+ Nxf7 53.Rc1 e1=Q 54.Rxe1 0-1

@@ -1,0 +1,14 @@
+[Event "Round 1: Katopodis, Dimitrios - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/ChK9WG3d"]
+[Date "2026.07.10"]
+[Round "1.2"]
+[White "Katopodis, Dimitrios"]
+[Black "Alexakis, Dimitris"]
+[Result "0-1"]
+[WhiteElo "2264"]
+[BlackElo "2525"]
+[ECO "A43"]
+[Variant "Standard"]
+[Opening "Indian Defense: Pseudo-Benko"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 Ne4 5.Bf4 Bb7 6.a4 b4 7.Qd3 Nf6 8.e4 e6 9.c4 d6 10.Be2 Be7 11.O-O e5 12.Bc1 Nbd7 13.Ne1 h5 14.Nd2 h4 15.b3 Nf8 16.Qc2 g5 17.Qd1 Ng6 18.Nc2 Nf4 19.Ne3 Nxe2+ 20.Qxe2 Bc8 21.g4 hxg3 22.fxg3 Bh3 23.Rf2 Qd7 24.Nf5 O-O-O 25.Nf1 Rdg8 26.Qf3 Ng4 27.Re2 Nh6 28.N1e3 Bxf5 29.Nxf5 Nxf5 30.exf5 g4 31.Qe4 Bg5 32.Bb2 Rh3 33.Rf1 f6 34.Rff2 Qh7 35.Rg2 Kc7 36.Rgf2 Qh5 37.Rg2 Rh8 38.Rc2 Kd7 39.Rce2 Ke7 40.Rgf2 Kf7 41.Rg2 Rg8 42.Rgf2 Qh6 43.Rf1 Bd2 44.Rff2 Bc1 45.Bxc1 Qxc1+ 46.Rf1 Qc3 47.Qe3 Qd4 48.Qxd4 cxd4 49.Kg2 Rh5 50.Kg1 Ke7 51.Kg2 Rgg5 52.Ref2 a5 0-1

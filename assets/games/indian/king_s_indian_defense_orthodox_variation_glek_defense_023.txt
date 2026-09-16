@@ -1,0 +1,14 @@
+[Event "Round 8: Kalogridis, Antonios - Vaz, Ethan"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/7L2Pc16a"]
+[Date "2026.07.21"]
+[Round "8.4"]
+[White "Kalogridis, Antonios"]
+[Black "Vaz, Ethan"]
+[Result "0-1"]
+[WhiteElo "2399"]
+[BlackElo "2529"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 7.O-O e5 8.Be3 Qe7 9.d5 Ng4 10.Bg5 f6 11.Bh4 g5 12.Bg3 f5 13.exf5 Bxf5 14.h3 Nh6 15.Re1 g4 16.hxg4 Bxg4 17.Ne4 Nf5 18.Rc1 Nxg3 19.fxg3 Bh6 20.Rc3 Bf5 21.Bd3 Qg7 22.Nh4 Bd7 23.Be2 b6 24.Qc2 Kh8 25.Rf1 Rxf1+ 26.Bxf1 Rf8 27.Rf3 Bg4 28.Rxf8+ Qxf8 29.Be2 Be3+ 30.Kh2 Bd7 31.Bd3 Qh6 32.a3 Nc5 33.Nxc5 Bxc5 34.Bf5 Be8 35.Kh3 a5 36.a4 Bh5 37.Bg4 Bg6 38.Bf5 Bh5 39.Bg4 Bg6 40.Bf5 Kg7 41.Bxg6 hxg6 42.Qe4 Qg5 43.b3 Bf2 44.Qf3 Be1 45.Qg4 Qxg4+ 46.Kxg4 e4 47.Kf4 g5+ 48.Kxg5 Bd2+ 49.Kh5 Kf6 50.Ng6 Bc1 51.g4 Bd2 52.g3 Bc1 53.Nh4 e3 54.g5+ Kf7 55.g6+ Kg8 56.Nf3 e2 57.Kg4 Bd2 58.Kf5 e1=Q 59.Nxe1 Bxe1 60.Ke6 Bxg3 61.Kd7 Bf2 62.Kxc7 Bc5 0-1

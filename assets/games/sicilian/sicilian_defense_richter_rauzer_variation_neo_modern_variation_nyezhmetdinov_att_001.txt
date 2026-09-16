@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-6/0eAyYAIf/WhgPgHSs"]
+[Date "2026.07.03"]
+[Round "6.6"]
+[White "Gutierrez Toro, Raul"]
+[Black "Bocancea, Cristian Andrei"]
+[Result "1-0"]
+[WhiteElo "2038"]
+[BlackElo "2161"]
+[ECO "B69"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6 gxf6 12.f5 b4 13.Ne2 e5 14.Kb1 h5 15.Nc1 Qb6 16.Rg1 a5 17.g4 hxg4 18.Rxg4 a4 19.Qg2 O-O-O 20.Bc4 Be8 21.Rg7 Rf8 22.Bd5 Na7 23.Qg1 Qa5 24.Nd2 a3 25.Nc4 Qc5 26.Nd3 Qxg1 27.Rdxg1 Nc6 28.h4 Rh8 29.R1g4 Kc7 30.Ne3 Rh5 31.Rg8 Nd4 32.Nxb4 axb2 33.Kxb2 Rb8 34.c3 Nf3 35.Bb3 Kb7 36.Ned5 Nh2 37.Rg2 Rxh4 38.Nxe7 Nf3 39.Ned5 Rh6 40.a4 Ne1 41.Re2 Nf3 42.a5 Bb5 43.Rxb8+ Kxb8 44.Rf2 Ng5 45.c4 Bd7 46.Bc2 Ka7 47.Rg2 Nf3 48.Rg7 Be8 49.Rg8 Bd7 50.Rd8 1-0

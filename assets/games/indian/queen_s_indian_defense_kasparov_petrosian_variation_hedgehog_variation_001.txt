@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "18.8"]
+[White "SerendipityHCE 0e3fd4a0"]
+[Black "RenegadeHCE 1.3.1"]
+[Result "0-1"]
+[WhiteElo "3066"]
+[BlackElo "3310"]
+[ECO "E12"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Hedgehog Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 g6 6.Qc2 Bxf3 7.exf3 Nc6 8.Qd3 Bg7 9.d5 Ne7 10.g3 O-O 11.Bh3 exd5 12.cxd5 c6 13.d6 Ned5 14.O-O Nxc3 15.bxc3 Nd5 16.Bd2 b5 17.Rac1 Nb6 18.Be3 Re8 19.f4 f5 20.Qc2 Nd5 21.Qb3 Kf8 22.Bd2 Nb6 23.Rfd1 Nc4 24.Bf1 Nxd2 25.Rxd2 Qa5 26.Rdd1 Rab8 27.Qb2 Qb6 28.Qa2 Bf6 29.Rc2 a5 30.c4 b4 31.axb4 Qxb4 32.Be2 a4 33.Kf1 Qb3 34.Bd3 c5 35.Kg2 Bb2 36.Qxb3 Rxb3 37.Rcd2 a3 38.Bb1 Bd4 39.h3 Reb8 40.Ba2 Rb2 41.Kf3 Bc3 42.Rd3 Rc2 43.Rf1 Rbb2 44.Bb1 Rxb1 45.Rxb1 a2 46.Rb8+ Kg7 47.Rd1 Rd2 48.Rh1 a1=Q 49.Rxa1 Bxa1 50.Rb7 Rxd6 51.g4 Kf6 52.Kg2 Ke7 53.Rb1 Bd4 54.Kg3 Ra6 55.gxf5 gxf5 56.Re1+ Kf7 57.Rb1 Ra3+ 58.Kg2 Rc3 59.Rb7 Ke7 60.h4 Rxc4 61.Kf1 Rc2 62.Ke1 Rxf2 63.h5 c4 64.Rc7 Rxf4 65.Rc8 c3 66.Ke2 Ke6 67.Rd8 Rf2+ 68.Ke1 c2 69.Rc8 Kd5 70.Rc7 Ke4 71.Rc4 Rg2 72.Kf1 Kf3 73.Ke1 Be3 74.Rf4+ Bxf4 75.Kf1 c1=Q# 0-1

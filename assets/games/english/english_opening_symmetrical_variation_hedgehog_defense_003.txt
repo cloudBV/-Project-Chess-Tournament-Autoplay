@@ -1,0 +1,14 @@
+[Event "Round 5: Stoimenidis, Dimitrios - Bozinakis, Pavlos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/H7pOdclp"]
+[Date "2026.07.08"]
+[Round "5.83"]
+[White "Stoimenidis, Dimitrios"]
+[Black "Bozinakis, Pavlos"]
+[Result "1/2-1/2"]
+[WhiteElo "2133"]
+[BlackElo "2161"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Hedgehog Defense"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 b6 4.Bg2 Bb7 5.O-O c5 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 Nc6 9.Qf4 O-O 10.Rd1 a6 11.b3 Rc8 12.Bb2 Qc7 13.Rac1 Qxf4 14.gxf4 d6 15.f5 exf5 16.Nd4 g6 17.Nc2 Nd8 18.Nb4 a5 19.Bxb7 Nxb7 20.Ncd5 Nxd5 21.Nxd5 Bd8 22.Bd4 Rc6 23.b4 axb4 24.Nxb4 Rc8 25.Nd5 Re8 26.e3 Na5 27.Bxb6 Bxb6 28.Nf6+ Kf8 29.Nxe8 Kxe8 30.Rxd6 Nxc4 31.Rxc4 Rxc4 32.Rxb6 Rc2 33.a4 Ra2 34.Rb4 Ke7 1/2-1/2

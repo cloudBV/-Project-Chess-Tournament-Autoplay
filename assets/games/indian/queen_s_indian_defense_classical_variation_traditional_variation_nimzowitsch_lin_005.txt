@@ -1,0 +1,15 @@
+[Event "Round 6: Podolchenko, Evgeniy - Eroz, Enis"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-6/343OmIpb/opIv6OQh"]
+[Date "2026.07.08"]
+[Round "6.19"]
+[White "Podolchenko, Evgeniy"]
+[Black "Eroz, Enis"]
+[Result "1-0"]
+[WhiteElo "2287"]
+[BlackElo "2111"]
+[ECO "E18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 d5 6.O-O Be7 7.Nc3 O-O 8.Ne5 Qc8 9.cxd5 exd5 10.Bg5 c6 11.e4 dxe4 12.Nxe4 Qe6 13.Bxf6 Bxf6 14.Nxf6+ Qxf6 15.Rc1 Qd6 16.Re1 Nd7 17.Nxc6 Rfe8 18.Qa4 Nf6 19.Rxe8+ Nxe8 20.Re1 Kf8 21.b4 a6 22.b5 Nc7 23.Qc2 g6 24.bxa6 Nxa6 25.d5 Qf6 26.Qb3 Nc5 27.Qxb6 Qc3 28.Qb4 Qxb4 29.Nxb4 Ra4 30.Rb1 Ke7 31.Nd3 Nxd3 32.Rxb7+ Kf6 33.Rb6+ Ke5 34.f4+ Kd4 35.d6 Ra7 36.Bb7 Nc5 37.d7 Nxb7 38.Rxb7 Ra8 39.a4 Kc5 40.Rc7+ Kd5 1-0

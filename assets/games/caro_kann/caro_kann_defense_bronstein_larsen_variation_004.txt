@@ -1,0 +1,15 @@
+[Event "Round 9: Eroz, Enis - Kilic, Cihan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/Y5Zhpjkb"]
+[Date "2026.07.19"]
+[Round "9.35"]
+[White "Eroz, Enis"]
+[Black "Kilic, Cihan"]
+[Result "1-0"]
+[WhiteElo "2111"]
+[BlackElo "2044"]
+[ECO "B16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Ne2 e6 8.Ng3 Bg6 9.Bf4 Bd6 10.Qf3 Bxf4 11.Qxf4 Nd7 12.Be2 h5 13.h4 Qb8 14.Qxb8+ Rxb8 15.O-O-O b5 16.f4 f5 17.Bf3 Rc8 18.Rhe1 Nf6 19.a4 O-O 20.Re5 Nd7 21.Ree1 Nf6 22.Kc2 a6 23.b4 Rfd8 24.Ra1 Rd6 25.Kb2 Kf8 26.axb5 axb5 27.Ra6 Ke7 28.Ne2 Ne4 29.Nc1 f6 30.Nd3 Rc7 31.Kc2 Rd8 32.Nc5 Nxc5 33.bxc5 Kd7 34.Kb3 Re8 35.Kb4 Bf7 36.Rea1 Rec8 37.Ra8 Be8 38.Rxc8 Rxc8 39.Ra7+ Rc7 40.Ra8 Bf7 41.Rh8 e5 42.Rh7 Kd8 43.fxe5 fxe5 44.dxe5 Be8 45.Rxc7 Kxc7 46.c4 bxc4 47.Kxc4 Kd7 48.Kd4 Bf7 49.Ke3 Ke6 50.Kf4 Be8 51.g3 Bd7 52.Bxh5 Kd5 53.Bf7+ 1-0

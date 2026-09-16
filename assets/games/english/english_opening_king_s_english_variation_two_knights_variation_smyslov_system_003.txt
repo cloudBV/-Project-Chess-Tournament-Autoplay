@@ -1,0 +1,15 @@
+[Event "Round 8: Jagesia Daksh - Singh, Siddharth"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-8/2T9Qhdgr/cFzgmb6F"]
+[Date "2026.06.29"]
+[Round "8.1"]
+[White "Jagesia Daksh"]
+[Black "Singh, Siddharth"]
+[Result "1/2-1/2"]
+[WhiteElo "2044"]
+[BlackElo "2361"]
+[ECO "A22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.e4 Bxc3 6.bxc3 c6 7.Ne2 d5 8.cxd5 cxd5 9.exd5 Nxd5 10.d4 exd4 11.Qxd4 Be6 12.O-O Nc6 13.Qc5 Qb6 14.Ba3 Rfd8 15.Rfd1 Qa6 16.c4 Nb6 17.Bxc6 bxc6 18.Nd4 Qxc4 19.Nxc6 Rxd1+ 20.Rxd1 Qxa2 21.Ne7+ Kh8 22.Qd4 f6 23.Bb2 Qa4 24.Ra1 Qxd4 25.Bxd4 Rd8 26.Nc6 Rd6 27.Bxb6 Rxc6 28.Bxa7 Bh3 29.Be3 h6 30.Ra2 Rd6 31.Rd2 Ra6 32.f3 Ra1+ 33.Kf2 Rf1+ 34.Ke2 Rh1 35.Kd3 Kh7 36.g4 Kg6 37.Ke4 h5 38.gxh5+ Kxh5 39.Kf4 Re1 40.Bf2 Re5 41.Kg3 Be6 42.h4 Rb5 43.Rd6 Bf5 44.Rd8 Kg6 45.Kf4 Rb3 46.Be3 Be6 47.Rd6 Rb4+ 48.Rd4 Rb5 49.Rd6 Kf7 50.Rb6 Rf5+ 51.Kg3 Bd5 52.f4 Be4 53.Rb4 Bh1 54.Rb1 Bc6 55.Rc1 Bd5 56.Rc7+ Kg8 57.Rc5 Kf7 58.Rc7+ Kg6 59.Rc5 Rh5 60.Bf2 Kf7 61.Rc7+ Kg6 62.Rc5 1/2-1/2

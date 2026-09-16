@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.2"]
+[White "Pechac, Jergus"]
+[Black "Stocek, Martin"]
+[Result "1-0"]
+[WhiteElo "2563"]
+[BlackElo "2050"]
+[ECO "B10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.e5 Nc6 5.d4 Bf5 6.Nc3 e6 7.Nf3 Bg4 8.Be3 Qb6 9.Bb5 Ne7 10.O-O a6 11.Bd3 Nf5 12.Na4 Qd8 13.Bxf5 Bxf5 14.Rc1 Be7 15.Nc5 Bxc5 16.Rxc5 Bg4 17.Qb3 Qd7 18.Nd2 O-O 19.h3 Bh5 20.f4 b6 21.Qxb6 Rfc8 22.Rfc1 Ne7 23.Qd6 Qxd6 24.exd6 Rxc5 25.Rxc5 Nf5 26.g4 Nxd6 27.gxh5 h6 28.Kf2 Rb8 29.b3 Rb6 30.Ke2 Nf5 31.Bf2 Kh7 32.Kd3 g6 33.hxg6+ Kxg6 34.Nf3 f6 35.Nh4+ Nxh4 36.Bxh4 Kf5 37.Rc7 Kxf4 38.Bxf6 Kg3 39.Be5+ Kxh3 40.Rh7 Kg4 41.Rxh6 Kf5 42.Kc3 Rc6+ 43.Kb4 Rc2 44.a4 Rc8 45.Rf6+ Ke4 46.Rxe6 Ra8 47.Ka5 1-0

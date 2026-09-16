@@ -1,0 +1,15 @@
+[Event "Round 8: Perez Marimon, Jorge De Jesus - Anton Guijarro, David"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-8/pzqS4f9A/9oCXaSKa"]
+[Date "2026.07.01"]
+[Round "8.2"]
+[White "Perez Marimon, Jorge De Jesus"]
+[Black "Anton Guijarro, David"]
+[Result "0-1"]
+[WhiteElo "2406"]
+[BlackElo "2642"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.Ne2 c5 7.c3 Nc6 8.O-O Qb6 9.Nd2 cxd4 10.cxd4 Nb4 11.Qb3 Nc6 12.Qd3 Nb4 13.Qb3 Rc8 14.Nf3 Nc2 15.Qxb6 axb6 16.Rb1 Nb4 17.Bd2 Kd7 18.Bxb4 Bxb4 19.Rfc1 Rc6 20.Nf4 h5 21.h4 g6 22.Kf1 Nh6 23.Ke2 Rhc8 24.Rxc6 bxc6 25.Rc1 Ra8 26.a3 Be7 27.Nh3 Nf5 28.g3 c5 29.Nhg5 Bxg5 30.hxg5 Kc6 31.Rc3 Ra4 32.dxc5 bxc5 33.Rb3 Nd4+ 34.Nxd4+ Rxd4 35.Rf3 Re4+ 36.Kd2 Rxe5 37.Rxf7 Rxg5 38.Re7 Kd6 39.Rg7 c4 40.b3 cxb3 41.Kc3 Rf5 42.Rxg6 Rf3+ 43.Kb2 d4 44.a4 Kd5 45.a5 Kc4 46.Rxe6 Rxf2+ 47.Kb1 d3 48.Rc6+ Kb4 0-1

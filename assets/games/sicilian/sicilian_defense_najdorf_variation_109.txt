@@ -1,0 +1,14 @@
+[Event "Round 1: Heinke, Jasper - Moeller, Maurin"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/pCSxq9uy"]
+[Date "2026.07.19"]
+[Round "1.19"]
+[White "Heinke, Jasper"]
+[Black "Moeller, Maurin"]
+[Result "1-0"]
+[WhiteElo "2064"]
+[BlackElo "2301"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 Qc7 8.Qe2 e6 9.O-O-O b5 10.g4 Be7 11.Bg2 Bb7 12.e5 dxe5 13.fxe5 Nd5 14.Bxe7 Nxc3 15.bxc3 Kxe7 16.Bxb7 Qxb7 17.Qe3 h6 18.g5 Rac8 19.Rhf1 Qc7 20.Qf4 Nxe5 21.Kb1 Rhf8 22.gxh6 f6 23.hxg7 Rf7 24.Nc6+ 1-0

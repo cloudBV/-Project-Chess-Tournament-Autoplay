@@ -1,0 +1,15 @@
+[Event "Round 7: Darvishi, Mohammad Hossein - Primbetov, Kazbek"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/yGk5gOHv"]
+[Date "2026.07.17"]
+[Round "7.24"]
+[White "Darvishi, Mohammad Hossein"]
+[Black "Primbetov, Kazbek"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2106"]
+[ECO "C16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Bd2 Ne7 6.Nf3 Ba6 7.Ne2 Bxd2+ 8.Qxd2 c5 9.c3 Nbc6 10.g3 Rc8 11.h4 O-O 12.Nf4 Bxf1 13.Kxf1 Ng6 14.Nxg6 fxg6 15.Ng5 Qe7 16.Kg2 h6 17.Nh3 Qf7 18.f4 Qf5 19.Nf2 cxd4 20.cxd4 g5 21.hxg5 hxg5 22.Rh5 Na5 23.Rc1 Nc4 24.Qe2 Na5 25.Qe1 Rc2 26.Rxg5 Qh7 27.f5 Rxf5 28.Rxc2 Rxg5 29.Rc8+ Kf7 30.Nh3 Rf5 31.g4 Qg6 32.Qg3 Nc4 33.gxf5 Ne3+ 34.Kf3 Qxf5+ 35.Kxe3 Qe4+ 36.Kf2 Qxd4+ 37.Kg2 1-0

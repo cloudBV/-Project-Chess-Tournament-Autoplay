@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.16"]
+[Round "7.2"]
+[White "Meng, Yihan"]
+[Black "Huang, Renjie"]
+[Result "1-0"]
+[WhiteElo "2479"]
+[BlackElo "2490"]
+[ECO "B36"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.f3 Bg7 8.Be3 O-O 9.Be2 Nh5 10.Nxc6 bxc6 11.Rc1 Rb8 12.b3 c5 13.O-O Bb7 14.f4 Qa5 15.Bd2 Bd4+ 16.Kh1 Nf6 17.Bd3 Qd8 18.Qe1 Bc6 19.Ne2 Bb2 20.Rc2 Ba3 21.Nc3 Bb4 22.Qh4 Bxc3 23.Rxc3 Bxe4 24.f5 d5 25.Bxe4 dxe4 26.Bh6 Re8 27.Rh3 Rb6 28.Be3 h5 29.Qg5 Ng4 30.fxg6 fxg6 31.Rxh5 Nxe3 32.Qxe3 gxh5 33.Qg5+ Kh8 34.Qxh5+ Kg8 35.Qg4+ Kh8 36.Rf7 1-0

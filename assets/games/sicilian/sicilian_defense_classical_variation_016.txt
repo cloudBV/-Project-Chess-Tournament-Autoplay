@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "12.2"]
+[White "Lynx 1.11.0-dev-edbae92a"]
+[Black "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Result "1-0"]
+[WhiteElo "3332"]
+[BlackElo "3246"]
+[ECO "B56"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f3 e5 7.Nb3 Be6 8.Be3 g6 9.Qe2 Bg7 10.O-O-O O-O 11.Kb1 Qb8 12.g4 Re8 13.h4 h5 14.Bg5 hxg4 15.Bxf6 Bxf6 16.fxg4 a5 17.g5 Be7 18.Bh3 Bxh3 19.Rxh3 Kg7 20.Nd5 Rh8 21.h5 a4 22.Nd2 Qc8 23.h6+ Kg8 24.Nxe7+ Nxe7 25.Rf3 Qg4 26.Nc4 Rh7 27.Qe3 Re8 28.Rxd6 Nc6 29.Rf1 Re6 30.Qb6 Rxd6 31.Nxd6 Qh3 32.Qb5 Kf8 33.a3 Qd7 34.Nxb7 Nb8 35.Qb6 Kg8 36.Nc5 Qe8 37.Rd1 Rxh6 38.gxh6 Nc6 39.Nd7 Qe6 40.Qc7 Qe7 41.Qxc6 f6 42.Nxf6+ Kf7 43.Rf1 Qe6 44.Qc7+ Qe7 45.Ng8+ Kxg8 46.Qxe7 Kh8 47.Qg7# 1-0

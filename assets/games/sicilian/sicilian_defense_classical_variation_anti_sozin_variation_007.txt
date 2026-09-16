@@ -1,0 +1,15 @@
+[Event "Round 9: Dgebuadze, Alexandre - Colonetti, Fabio"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/Zu4L2QX7"]
+[Date "2026.07.22"]
+[Round "9.7"]
+[White "Dgebuadze, Alexandre"]
+[Black "Colonetti, Fabio"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2128"]
+[ECO "B57"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 7.Nb3 e6 8.O-O Be7 9.Be3 Qc7 10.Be2 O-O 11.f4 a6 12.Qe1 b5 13.a3 Bb7 14.Kh1 b4 15.axb4 Nxb4 16.Nd4 Kh8 17.Bd3 d5 18.e5 Nd7 19.Rf3 Nc5 20.Qe2 g6 21.Rh3 Ncxd3 22.cxd3 Nc6 23.Qg4 Nxd4 24.Bxd4 Rg8 25.Rf1 Bc5 26.Ne2 Bxd4 27.Nxd4 Qb6 28.Nf3 Rg7 29.Rh6 d4 30.Ng5 Qxb2 31.Qh3 Kg8 32.Kg1 Kf8 33.Nxh7+ Ke7 34.Qg4 Qxg2+ 35.Qxg2 Bxg2 36.Kxg2 Rh8 37.Ra1 Rgxh7 38.Rxh7 Rxh7 39.Rxa6 g5 40.Ra7+ Kf8 41.Rd7 gxf4 42.Rxd4 Rh5 43.Re4 f3+ 44.Kxf3 Rxh2 45.d4 Ke7 46.Re1 f6 47.Ra1 fxe5 48.dxe5 Rh4 49.Ra7+ Ke8 50.Rg7 Ra4 51.Rg4 Ra1 52.Kf4 Rf1+ 53.Ke4 Re1+ 54.Kd4 Rd1+ 55.Ke4 Re1+ 1/2-1/2

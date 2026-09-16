@@ -1,0 +1,15 @@
+[Event "Round 9: Sukhiashvili, Alexander - Yudasin, Leonid"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/Ius0RnrO"]
+[Date "2026.07.19"]
+[Round "9.13"]
+[White "Sukhiashvili, Alexander"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2105"]
+[BlackElo "2255"]
+[ECO "B65"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4 10.Qxd4 Qa5 11.h4 e5 12.Qe3 exf4 13.Bxf4 Be6 14.Bxd6 Bxd6 15.Rxd6 Rac8 16.a3 h6 17.Be2 Rfe8 18.Rd4 a6 19.Rg1 h5 20.Qd2 Qe5 21.Rd1 Ng4 22.Bf3 b5 23.Qg5 Qxg5+ 24.hxg5 Rc5 25.Nd5 Kf8 26.R1d3 Ne5 27.Rd1 Bg4 28.Rf1 Rc6 29.Nf4 Rec8 30.c3 Ke7 31.Bxg4 hxg4 32.Rh1 Rc4 33.Nd5+ Ke6 34.Nf4+ Ke7 35.Nd5+ Ke6 36.Rhd1 Rxd4 37.Rxd4 Nc4 38.b3 Ne5 39.Nf4+ Ke7 40.Kc2 Nc6 41.Rd3 a5 42.Kd2 a4 43.bxa4 bxa4 44.Nd5+ Ke8 45.Nb6 Rb8 46.Nxa4 Ra8 47.Rd6 Rxa4 48.Rxc6 Rxa3 49.Ke3 Kd7 50.Rc4 Ke6 51.Kf4 Ra2 52.Kxg4 Rxg2+ 53.Kf4 g6 54.Rc5 Rg1 55.Ke3 Re1+ 56.Kd4 Rd1+ 57.Kc4 Re1 58.Kd3 Rd1+ 59.Ke2 Rg1 60.Kd2 Kd6 61.Rd5+ Kc6 62.Kd3 Rd1+ 63.Ke3 Rd2 64.Rd3 Rxd3+ 1/2-1/2

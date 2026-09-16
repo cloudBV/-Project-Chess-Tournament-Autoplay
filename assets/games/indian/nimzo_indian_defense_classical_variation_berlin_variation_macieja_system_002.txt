@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-7/ts4Tbc2j/JbMua0J0"]
+[Date "2026.07.23"]
+[Round "7.3"]
+[White "Fernandez Sabajanes, Nicolas"]
+[Black "Alvarez Lee, Felix"]
+[Result "0-1"]
+[WhiteElo "2119"]
+[BlackElo "2116"]
+[ECO "E39"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation, Macieja System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bg5 h6 9.Bh4 Bb7 10.e4 Be7 11.Rd1 Nh5 12.Bxe7 Qxe7 13.g3 d6 14.Bg2 Nf6 15.O-O Nc6 16.Nd4 a6 17.Rfe1 Rac8 18.Nxc6 Bxc6 19.Nd5 Bxd5 20.exd5 e5 21.Bh3 Rc5 22.b4 Rc7 23.f4 e4 24.Bg2 Rfc8 25.Bf1 Qd7 26.Qe2 h5 27.Rd4 b5 28.cxb5 Rc3 29.Kg2 axb5 30.Rd2 h4 31.Qxb5 Qg4 32.Qe2 Rf3 33.Kh1 hxg3 34.Bg2 Qh4 35.h3 Rf2 36.Qd1 Qxf4 37.Ree2 Ng4 38.Kg1 Rxe2 39.Qxe2 Rc1+ 40.Bf1 Ne3 0-1

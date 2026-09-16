@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.14"]
+[White "Atwell, Rose"]
+[Black "Xu, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2386"]
+[BlackElo "2157"]
+[ECO "B23"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nf6 4.Bg2 Nc6 5.d3 g6 6.Nge2 Bg7 7.O-O O-O 8.h3 Rb8 9.a4 a6 10.f4 Bd7 11.g4 b5 12.axb5 axb5 13.Ng3 b4 14.Nce2 Ne8 15.f5 Ra8 16.Rxa8 Qxa8 17.c3 Qa1 18.Qc2 Qa2 19.Bg5 Nc7 20.Bxe7 Nxe7 21.f6 Bh8 22.fxe7 Re8 23.Qc1 Qe6 24.d4 bxc3 25.bxc3 Qc4 26.d5 Rxe7 27.Qg5 f6 28.Qf4 Re5 29.Ra1 Qb5 30.Qc1 Bg7 31.Kh2 Re8 32.Qf4 Qb6 33.h4 Bb5 34.Ng1 Bd3 35.h5 Qb2 36.Rd1 Qc2 37.Rc1 Qb2 38.Rd1 Qc2 39.Rc1 Qb2 40.hxg6 hxg6 41.Rd1 Qc2 42.Rc1 Qb2 43.Rd1 1/2-1/2

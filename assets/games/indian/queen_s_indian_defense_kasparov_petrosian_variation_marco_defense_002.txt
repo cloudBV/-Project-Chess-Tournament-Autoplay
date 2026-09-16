@@ -1,0 +1,14 @@
+[Event "Round 6: Palozza, Christian - Alfo`, Diego Christian"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-6/aejqOp8M/tF7VQ2Sj"]
+[Date "2026.07.09"]
+[Round "6.6"]
+[White "Palozza, Christian"]
+[Black "Alfo`, Diego Christian"]
+[Result "1-0"]
+[WhiteElo "2282"]
+[BlackElo "2160"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Marco Defense"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Nf3 e6 5.a3 Be7 6.Bf4 O-O 7.e3 d5 8.cxd5 Nxd5 9.Nxd5 Bxd5 10.Be2 c5 11.O-O Nd7 12.Rc1 cxd4 13.Bc7 Qe8 14.Nxd4 f5 15.Bf3 Bxf3 16.Qxf3 Bc5 17.Nb3 Rc8 18.Bg3 Rf7 19.Rfd1 Nf6 20.Be5 Ne4 21.Qe2 Rd7 22.f3 Ng5 23.Nxc5 Rxc5 24.Rxc5 bxc5 25.Rxd7 Qxd7 26.Qc2 Qd5 27.Qc3 c4 28.Bxg7 Qd3 29.Bh8 Qxc3 30.Bxc3 Kf8 31.Kf2 Ke7 32.e4 fxe4 33.f4 Nf7 34.Ke3 Kd6 35.Kxe4 Kc5 36.Bd4+ Kb5 37.Bxa7 Ka4 38.Bd4 Kb3 39.g4 Nh6 40.f5 exf5+ 41.gxf5 Nf7 42.f6 h5 43.h4 Nh6 44.Kf4 1-0

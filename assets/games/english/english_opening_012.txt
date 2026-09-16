@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.13"]
+[White "Marrujo Pardo, Mauricio Emmanuel"]
+[Black "Gomez Pastrana, Juan"]
+[Result "1/2-1/2"]
+[WhiteElo "2427"]
+[BlackElo "2253"]
+[ECO "A10"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 d6 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e3 e5 6.Nge2 Nge7 7.O-O Be6 8.b3 Qd7 9.d4 Bh3 10.dxe5 Nxe5 11.Bxh3 Qxh3 12.Nf4 Qd7 13.Bb2 h5 14.Ncd5 Nxd5 15.cxd5 h4 16.g4 g5 17.Nh3 Rg8 18.Bxe5 Bxe5 19.Rc1 f5 20.f3 O-O-O 21.Rc4 Rdf8 22.Qe2 Rf7 23.Kh1 Kb8 24.gxf5 Qxf5 25.Rg4 Rfg7 26.Rfg1 Bf6 27.e4 Qe5 28.Qd2 a6 29.a4 Qd4 30.Qxd4 Bxd4 31.R1g2 Bf6 32.Rd2 Ka7 33.Nf2 Rf8 34.Rd3 Be5 35.Nh3 Rfg8 36.Kg2 Kb6 37.Nf2 Rf8 38.h3 Rf4 39.Kf1 Rgf7 40.Ke2 Rxg4 41.Nxg4 Bg7 42.Ne3 Kc5 43.Nc2 Rf8 44.Rd1 Bf6 45.Kd3 Be5 46.b4+ Kb6 47.Ke2 a5 48.Rb1 axb4 49.Rxb4+ Ka6 50.Ne3 b6 51.Nf5 Kb7 52.Ne7 Ra8 53.Nc6 Bc3 54.Rc4 Bf6 55.Ke3 b5 56.Rb4 Rxa4 57.Rxb5+ Ka6 58.Rb3 Ra1 59.Kd3 Rh1 60.Kc4 Rxh3 61.Nb8+ Ka7 62.Nc6+ Ka6 63.Nb8+ Ka7 64.Nc6+ Ka6 65.Nb8+ 1/2-1/2

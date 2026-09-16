@@ -1,0 +1,15 @@
+[Event "Round 8: Hambleton, Aman - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-8/fKPSQ5CP/qwySL4lI"]
+[Date "2026.07.04"]
+[Round "8.7"]
+[White "Hambleton, Aman"]
+[Black "Woodward, Andy"]
+[Result "0-1"]
+[WhiteElo "2511"]
+[BlackElo "2496"]
+[ECO "A45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.h3 c5 5.Nf3 g6 6.c3 Bg7 7.Nbd2 d6 8.Bd3 O-O 9.O-O a6 10.a4 Nc6 11.Bh2 Re8 12.Qe2 cxd4 13.exd4 e5 14.dxe5 dxe5 15.Ne4 Nh5 16.Bc4 Na5 17.Rad1 Qc7 18.Bd5 Bc6 19.Nd6 Re7 20.Bxc6 Qxc6 21.g4 Nf6 22.Nxe5 Qxa4 23.Rd4 Qb3 24.Qf3 Rf8 25.g5 Nd7 26.Rb4 Qc2 27.Nxd7 Rxd7 28.Rxb6 Re7 29.Rxa6 Nb3 30.Nc4 Nc5 31.Rc6 Ne4 32.h4 Rfe8 33.Bf4 Qa4 34.Rb6 Qxc4 35.Rb4 Qc8 36.Rd1 Qf5 37.Kg2 f6 38.c4 fxg5 39.hxg5 Rf7 40.Rd5 Qxf4 41.Qxf4 Rxf4 42.f3 Bf8 43.c5 Nf6 44.Rxf4 Nxd5 45.Re4 Rxe4 46.fxe4 Ne3+ 47.Kf3 Bxc5 0-1

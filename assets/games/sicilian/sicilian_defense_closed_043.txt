@@ -1,0 +1,14 @@
+[Event "Round 3: Wilson, Dion A - Yu, Zachary"]
+[Site "https://lichess.org/broadcast/peter-stuart-memorial-open-2026/round-3/HX8JQTlp/6mIMHJKg"]
+[Date "2026.07.10"]
+[Round "3.2"]
+[White "Wilson, Dion A"]
+[Black "Yu, Zachary"]
+[Result "1/2-1/2"]
+[WhiteElo "2024"]
+[BlackElo "2059"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.Nge2 Nc6 4.g3 d5 5.exd5 exd5 6.d3 Nf6 7.Bg2 Be7 8.Bg5 d4 9.Bxf6 Bxf6 10.Ne4 O-O 11.O-O Be7 12.h3 Bd7 13.Nf4 b5 14.Nd5 Rc8 15.Qh5 f5 16.Nxe7+ Qxe7 17.Ng5 g6 18.Bd5+ Kh8 19.Qh4 Nb4 20.Rae1 Qg7 21.Be6 Nxc2 22.Re2 Rce8 23.Rxc2 Bxe6 24.Rxc5 Bxa2 25.Rfc1 Re7 26.Rxb5 f4 27.gxf4 Qf6 28.Re5 Rd7 29.Ra1 Bb3 30.Rea5 Qxf4 31.Qxf4 Rxf4 32.Rxa7 Rxa7 33.Rxa7 Rf5 34.h4 Kg8 35.Kg2 h6 36.Ne4 Bc2 37.Rd7 Bxd3 38.Rxd4 Rf4 39.f3 Bxe4 40.Rxe4 Rf5 41.Kf2 Kf7 42.Ke3 g5 43.h5 Kf6 44.b4 Kf7 45.Rc4 Ke7 46.Rc6 Rb5 47.Rc4 Kd6 48.Kd3 Rf5 49.Ke3 Rb5 50.Re4 Rf5 51.Rd4+ Kc6 52.Rc4+ Kd6 53.Rc3 Rb5 54.Rb3 Ke5 55.Rb2 Kf5 56.Kd4 Kf4 57.Kc4 Rb8 58.Rb3 g4 59.fxg4 Kxg4 60.b5 Kxh5 61.Rg3 Kh4 62.Rg7 h5 63.Kc5 Kh3 64.Kc6 h4 65.b6 Kh2 66.Kc7 Rxb6 67.Kxb6 h3 68.Kc5 Kh1 69.Kd4 h2 70.Ke4 1/2-1/2

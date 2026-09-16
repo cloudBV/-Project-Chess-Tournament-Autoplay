@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "5.3"]
+[White "Portelli, Matthew"]
+[Black "Karvatskyi, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2276"]
+[ECO "B33"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.a4 Ng6 10.Be2 Be7 11.O-O O-O 12.a5 a6 13.Nc3 f5 14.Be3 f4 15.Bb6 Qd7 16.Ne4 Qf5 17.Bd3 f3 18.Ng3 Qg5 19.Bxg6 Qxg6 20.gxf3 Bh3 21.Re1 Rac8 22.b3 h5 23.Qd3 Bf5 24.Qe3 h4 25.c4 hxg3 26.fxg3 Bh3 27.c5 dxc5 28.Rad1 Bd6 29.g4 Rf4 30.Kh1 Rcf8 31.Qf2 Rxf3 32.Qh4 Rf1+ 33.Rxf1 Qe4+ 0-1

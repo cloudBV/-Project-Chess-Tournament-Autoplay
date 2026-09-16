@@ -1,0 +1,14 @@
+[Event "Round 7: Lonnqvist, Henrik - Korneev, Oleg"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-7/fymOfFBu/3H4LQlJF"]
+[Date "2026.07.16"]
+[Round "7.3"]
+[White "Lonnqvist, Henrik"]
+[Black "Korneev, Oleg"]
+[Result "0-1"]
+[WhiteElo "2001"]
+[BlackElo "2433"]
+[ECO "B44"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.Bd3 d5 7.O-O Nf6 8.e5 Nd7 9.Re1 Be7 10.Qg4 Kf8 11.Qh5 Nc5 12.Re3 g6 13.Qh6+ Kg8 14.h4 Bxh4 15.Rf3 Be7 16.Qf4 Qf8 17.Qh2 Nxd3 18.cxd3 h6 19.Rh3 g5 20.Nd2 c5 21.Nf1 Qg7 22.Ne3 Qg6 23.Nf1 Ba6 24.Qg3 g4 25.Rh1 h5 26.Bd2 Bxd3 27.Rc1 h4 28.Qf4 Qe4 29.Nh2 Qxf4 30.Bxf4 Bf5 31.Nf1 Kg7 32.Ne3 Kg6 33.Kf1 c4 34.b3 Ba3 35.Rc3 Bb2 0-1

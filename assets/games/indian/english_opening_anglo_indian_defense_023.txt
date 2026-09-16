@@ -1,0 +1,15 @@
+[Event "Round 6: Pacher, Milan - Atis, Hasan"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-6/oAPnuQgO/DLxP0qza"]
+[Date "2026.07.23"]
+[Round "6.8"]
+[White "Pacher, Milan"]
+[Black "Atis, Hasan"]
+[Result "1-0"]
+[WhiteElo "2304"]
+[BlackElo "2139"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Nbd7 5.b3 Bd6 6.Bb2 O-O 7.O-O b6 8.cxd5 exd5 9.Nd4 Nc5 10.Nc3 Bb7 11.Nf5 d4 12.Nb5 Bxg2 13.Kxg2 d3 14.Nbxd6 cxd6 15.e3 Qd7 16.Qf3 Qe6 17.Qf4 Ne8 18.Rac1 f6 19.h4 Rf7 20.h5 a5 21.Rc4 Rc7 22.h6 g6 23.Nd4 Qd7 24.a4 d5 25.Rc3 Rac8 26.Nb5 Rc6 27.Rfc1 Kf7 28.Nd4 R6c7 29.Ba3 Ne4 30.Nf3 Kg8 31.Ne5 Qf5 32.Qxf5 gxf5 33.Rxc7 Rxc7 34.Nxd3 Nxd2 35.Rd1 Ne4 36.Bb2 Kf7 37.Bd4 Rc6 38.b4 N8d6 39.b5 Rc2 40.Bxb6 Nc4 41.Bd4 Ncd6 42.Rc1 Rc4 43.b6 Nb7 44.f3 Ned6 45.Rxc4 dxc4 46.Nc5 Nxc5 47.Bxc5 Ke6 48.Kf2 Nb7 49.Bd4 Kd5 50.Bxf6 Kc5 51.Bd4+ Kb4 52.g4 fxg4 53.fxg4 c3 54.Ke2 c2 55.Kd2 Kb3 56.g5 Nd6 57.b7 Nxb7 58.g6 Nd6 59.g7 1-0

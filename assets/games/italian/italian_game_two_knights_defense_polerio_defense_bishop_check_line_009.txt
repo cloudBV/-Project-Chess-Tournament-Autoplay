@@ -1,0 +1,15 @@
+[Event "Round 3: Bowcott-Terry, Finlay - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-3/wa2JQgVB/75DYWCOW"]
+[Date "2026.07.18"]
+[Round "3.2"]
+[White "Bowcott-Terry, Finlay"]
+[Black "Badacsonyi, Stanley"]
+[Result "1-0"]
+[WhiteElo "2247"]
+[BlackElo "2476"]
+[ECO "C58"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Bd3 Nd5 9.Nf3 Bd6 10.O-O O-O 11.Re1 f5 12.Rxe5 Bxe5 13.Nxe5 Qf6 14.Nf3 g5 15.Nc3 g4 16.Ne1 Re8 17.Bf1 Be6 18.Rb1 Rad8 19.Nxd5 Bxd5 20.b3 Qd6 21.Bb2 Nb7 22.d3 Qg6 23.Qd2 Nd6 24.c4 Bf7 25.Nc2 c5 26.Qc3 Be6 27.b4 cxb4 28.Nxb4 Rc8 29.Qd4 Nf7 30.Re1 h5 31.g3 Ng5 32.Bg2 Kh7 33.Qxa7+ Qf7 34.Qd4 Bxc4 35.Rf1 Be6 36.Qf4 Qg6 37.h4 gxh3 38.Bh1 Bf7 39.Nd5 Bxd5 40.Bxd5 Re2 41.Qd4 Rd8 42.Qa7+ Kh6 43.Bh1 Rxd3 44.Bc1 Rdd2 45.Bxd2 Rxd2 46.a4 Ne4 47.Bxe4 fxe4 48.Qe3+ Qg5 49.Qxe4 Rd6 50.Kh2 Qg4 51.Qe3+ Kg6 52.f3 Qf5 53.Rf2 Re6 54.Qd4 Rf6 55.Qh4 Ra6 56.Qxh3 Qxh3+ 57.Kxh3 Rxa4 58.Re2 Kf5 59.Rb2 Kg5 60.Rb5+ Kg6 61.f4 Ra1 62.Rb6+ Kg7 63.Kh4 Ra5 64.Rd6 Rb5 65.Re6 Kf7 66.Re5 Rxe5 67.fxe5 1-0

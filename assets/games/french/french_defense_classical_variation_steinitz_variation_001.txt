@@ -1,0 +1,15 @@
+[Event "Round 4: Ribiere, Damien - Ghoreishi Amiri, Seyed Kian"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-4/ZGNaFB22/RsA0Wv17"]
+[Date "2026.07.05"]
+[Round "4.5"]
+[White "Ribiere, Damien"]
+[Black "Ghoreishi Amiri, Seyed Kian"]
+[Result "1-0"]
+[WhiteElo "2159"]
+[BlackElo "2444"]
+[ECO "C11"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Steinitz Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nf3 c5 6.dxc5 Bxc5 7.Bd3 Nc6 8.Bf4 Bb4 9.O-O Bxc3 10.bxc3 Nc5 11.h4 h6 12.h5 Bd7 13.Re1 Qa5 14.Bd2 Qa4 15.Qe2 Qg4 16.Nd4 Qxe2 17.Rxe2 Nxd4 18.cxd4 Nxd3 19.cxd3 O-O 20.a4 Rfc8 21.Bb4 f5 22.exf6 gxf6 23.f3 Kf7 24.Kf2 Rc7 25.g4 Rac8 26.a5 Bb5 27.Bc5 Rxc5 28.dxc5 Bxd3 29.Rb2 Rc7 30.Ke3 Ba6 31.Kd4 Rd7 32.f4 Re7 33.Re1 Rd7 34.Rb3 Rd8 35.Rbe3 Re8 36.Rg3 Rg8 37.Reg1 Bc4 38.R1g2 Re8 39.Re3 Rg8 40.g5 hxg5 41.fxg5 e5+ 42.Rxe5 fxe5+ 43.Kxe5 Re8+ 44.Kf4 Re4+ 45.Kf5 Bd3 46.g6+ Kg7 47.h6+ Kxh6 48.Kf6 Rf4+ 49.Ke5 Re4+ 50.Kf6 Rf4+ 51.Ke5 Rf8 52.g7 Rg8 53.Kf6 Kh5 54.Kf7 Rc8 55.g8=Q Rxg8 56.Rxg8 d4 57.Rd8 Bc4+ 58.Kf6 d3 59.Ke5 Kg6 60.Kd4 Ba6 61.Ke5 Kf7 62.Kd6 Kf6 63.Rf8+ Kg5 64.Ke5 Kg4 65.Ke4 Kg5 66.Ke3 Bb5 67.Rf7 Bc6 68.Kxd3 Kg6 69.Rf2 a6 70.Kd4 Kg5 71.Ke5 Kg4 72.Kd6 Kg3 73.Rf7 Kg4 74.Kc7 Kg5 75.Kb6 1-0

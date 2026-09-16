@@ -1,0 +1,15 @@
+[Event "Round 5: Sevian, Samuel - Cordova, Emilio"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-5/6wa4QNCe/cti05BDF"]
+[Date "2026.07.03"]
+[Round "5.7"]
+[White "Sevian, Samuel"]
+[Black "Cordova, Emilio"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2610"]
+[ECO "B40"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Open"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Bg5 f6 5.Bh4 Qa5+ 6.c3 dxc3 7.Nxc3 Bb4 8.Rc1 Nc6 9.a3 Be7 10.Bc4 Nh6 11.O-O Nf7 12.Bg3 a6 13.Nd5 exd5 14.exd5 Nce5 15.d6 Nxd6 16.Nxe5 fxe5 17.b4 Qb6 18.Qh5+ Kd8 19.Bb3 Bf6 20.Bxe5 Ne8 21.Bf4 Rf8 22.Be3 Qb5 23.Rc5 Qd3 24.Bc2 Qxa3 25.Ra5 Qxb4 26.Rb1 Qh4 27.Qd5 Nc7 28.Bb6 Qxf2+ 29.Kxf2 Bd4+ 30.Ke1 Bxb6 31.Qg5+ 1-0

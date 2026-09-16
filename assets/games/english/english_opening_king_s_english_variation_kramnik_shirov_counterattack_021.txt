@@ -1,0 +1,14 @@
+[Event "Round 5: Nepomniachtchi, Ian - Kvaloy, Aksel Bu"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/9kRHtdMa"]
+[Date "2026.07.22"]
+[Round "5.10"]
+[White "Nepomniachtchi, Ian"]
+[Black "Kvaloy, Aksel Bu"]
+[Result "0-1"]
+[WhiteElo "2735"]
+[BlackElo "2483"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.Nf3 d6 5.a3 Bc5 6.e3 c6 7.d4 Ba7 8.Nc3 Nd7 9.Qc2 Ngf6 10.Bd2 O-O 11.O-O-O b5 12.cxb5 Bb7 13.Kb1 cxb5 14.Bxb5 Qe7 15.Ka1 Rfc8 16.Qf5 Rab8 17.a4 e4 18.Ng5 Nb6 19.Rc1 h6 20.h4 g6 21.Qh3 Nc4 22.Ncxe4 Nxd2 23.Nxd2 Rxc1+ 24.Rxc1 hxg5 25.hxg5 Nh5 26.g4 Ng7 27.Nf3 Qe4 28.Nd2 Qe7 29.f4 Rc8 30.Nc4 Be4 31.Qf1 Qd8 32.Rc3 Ne6 33.Nd2 Bb7 34.Ba6 Rxc3 35.bxc3 Qc8 36.Bxb7 Qxc3+ 37.Kb1 Qxd2 38.Qc1 Qb4+ 39.Qb2 Qe1+ 40.Qc1 Qb4+ 41.Qb2 Qxa4 42.f5 gxf5 43.g6 f4 44.gxf7+ Kxf7 45.Bd5 Qb4 46.Bb3 fxe3 47.Qc2 Qe1+ 0-1

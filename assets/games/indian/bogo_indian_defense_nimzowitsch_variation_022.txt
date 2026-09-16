@@ -1,0 +1,14 @@
+[Event "Round 7: Brock, Friedemann - Rosen, Willy"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-7/ssrsMeYG/wzcWJ6et"]
+[Date "2026.07.23"]
+[Round "7.15"]
+[White "Brock, Friedemann"]
+[Black "Rosen, Willy"]
+[Result "1/2-1/2"]
+[WhiteElo "2154"]
+[BlackElo "2045"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Nc3 d5 7.a3 Bxc3 8.Bxc3 Ne4 9.Qc2 O-O 10.e3 f5 11.Bd3 Bd7 12.O-O Be8 13.Bb4 Nxb4 14.axb4 Qxb4 15.cxd5 exd5 16.Qxc7 Bc6 17.Ne5 Rac8 18.Nxc6 bxc6 19.Qxa7 Qxb2 20.Ra2 Qc3 21.Qa3 Qxa3 22.Rxa3 Ra8 23.Rfa1 Rxa3 24.Rxa3 g6 25.f3 Ng5 26.Kf2 Ne6 27.Ra6 Rc8 28.h4 Kf7 29.Ra7+ Rc7 30.Rxc7+ Nxc7 31.Ke2 Kf6 32.Kd2 h6 33.Kc3 g5 34.hxg5+ hxg5 35.f4 gxf4 36.gxf4 Ne6 37.Kb4 Kg6 38.Bc2 Kf6 39.Ba4 Ke7 40.Bxc6 Kd6 41.Bb5 Ng7 42.Bd3 Ke6 43.Bb5 Nh5 44.Ba6 Ng3 45.Kc5 Ne4+ 46.Kc6 Nc3 47.Bc8+ Kf6 48.Kd6 Nd1 49.Kxd5 Nxe3+ 50.Kc6 Ke7 51.d5 Kd8 52.Be6 Ng2 53.Bxf5 Nxf4 54.d6 Nh5 55.Bg6 Nf6 56.Bf7 Nd7 57.Kd5 Nb6+ 58.Kc5 Nc8 1/2-1/2

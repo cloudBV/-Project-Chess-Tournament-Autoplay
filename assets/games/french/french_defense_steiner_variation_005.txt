@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.19"]
+[White "Starcevic, Ante Leon"]
+[Black "Toman, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2111"]
+[BlackElo "2220"]
+[ECO "C00"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "French Defense: Steiner Variation"]
+
+1.c4 e6 2.e4 d5 3.exd5 exd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Nf3 Be7 7.d4 O-O 8.Bd3 Nc6 9.O-O Bg4 10.h3 Bh5 11.Bxh7+ Kxh7 12.Ng5+ Kg6 13.Qd3+ f5 14.Ne6 Qd6 15.Nxd5 Kf7 16.Qxf5+ Kg8 17.Qxh5 Qxe6 18.Nxc7 Qc4 19.Nxa8 Nxd4 20.Be3 Ne2+ 21.Kh1 Rxa8 22.Rae1 Qxa2 23.Rxe2 Qa5 24.Qxa5 1-0

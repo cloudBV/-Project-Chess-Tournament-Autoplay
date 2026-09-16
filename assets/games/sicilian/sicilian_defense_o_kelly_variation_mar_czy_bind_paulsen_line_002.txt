@@ -1,0 +1,14 @@
+[Event "Round 6: Bin-Suhayl, Ieysaa - Enkhnar, Enkhbaatar"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/7iLBmuk5"]
+[Date "2026.07.19"]
+[Round "6.19"]
+[White "Bin-Suhayl, Ieysaa"]
+[Black "Enkhnar, Enkhbaatar"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2397"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Paulsen Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 e6 4.Nc3 d6 5.d4 cxd4 6.Nxd4 Nf6 7.Be2 Be7 8.O-O O-O 9.Be3 Qc7 10.Qd2 b6 11.Rac1 Bb7 12.f3 Nbd7 13.Rfd1 Rac8 14.Bf1 Qb8 15.Qf2 Rfe8 16.Nc2 Bd8 17.h3 Bc7 18.b4 h6 19.g4 d5 20.cxd5 Bg3 21.Qd2 Ne5 22.Kg2 exd5 23.Nxd5 Nxf3 24.Nxf6+ gxf6 25.Kxf3 Bxe4+ 26.Ke2 Bxc2 27.Rxc2 Rxe3+ 28.Qxe3 Rxc2+ 29.Kd3 Qc8 30.Qd4 Bf2 31.Qd5 Qc3+ 32.Ke4 Qe3+ 33.Kf5 Bg3 0-1

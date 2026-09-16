@@ -1,0 +1,14 @@
+[Event "Round 5: Gallego, Julian Andres - Castro Lombana, Juan Pablo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-5/e599Mxte/Frj8WRF9"]
+[Date "2026.07.12"]
+[Round "5.6"]
+[White "Gallego, Julian Andres"]
+[Black "Castro Lombana, Juan Pablo"]
+[Result "1/2-1/2"]
+[WhiteElo "2199"]
+[BlackElo "2275"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation, Alburt-Miles Variation"]
+
+1.Nf3 a6 2.d4 Nf6 3.g3 b5 4.a4 b4 5.Bg2 Bb7 6.O-O e6 7.Nbd2 Be7 8.Nb3 a5 9.Bg5 O-O 10.e3 d6 11.Nfd2 Bxg2 12.Kxg2 d5 13.Bxf6 Bxf6 14.Nc5 e5 15.Ndb3 Nc6 16.Qd3 Qd6 17.Rad1 exd4 18.exd4 Nxd4 19.Nxd4 Qxc5 20.Nb3 Qc6 21.Qxd5 Qxa4 22.Ra1 Qe8 23.Rfe1 Qd8 24.Qxd8 Rfxd8 25.Rxa5 Bxb2 26.Re7 Rxa5 27.Nxa5 g6 28.Rxc7 Bc3 29.Nb3 Rd1 30.Re7 Kg7 31.Re2 Kf6 32.Kf3 Rh1 33.h4 Rd1 34.Nc5 Kg7 35.Ne4 Bf6 36.Rd2 Rb1 37.Rd7 b3 38.cxb3 Rxb3+ 39.Kg2 Rb8 40.Nd6 Rf8 41.f4 Kg8 42.Kf3 Rd8 43.Ne4 Bxh4 44.gxh4 Ra8 45.Ng5 Ra3+ 46.Ke4 Ra4+ 47.Rd4 Ra7 48.Kf3 Ra3+ 49.Kg2 Ra7 50.Nf3 Ra2+ 51.Rd2 Ra3 52.Ne5 Ra4 53.Kg3 Ra3+ 54.Rd3 Ra6 55.Rd8+ Kg7 56.Rd7 Ra3+ 57.Kg2 Ra2+ 58.Kf3 Ra3+ 59.Ke2 Ra2+ 60.Kd3 Ra3+ 61.Kc2 Ra2+ 62.Kb3 Rh2 63.Nxf7 Rxh4 64.Ng5+ Kg8 65.Kc3 Rxf4 66.Rd8+ Rf8 67.Rd7 h6 68.Ne6 Rf6 69.Rg7+ Kh8 70.Re7 h5 71.Kd4 h4 72.Ng5 h3 73.Nxh3 Rf5 74.Ke4 Kg8 75.Nf4 Ra5 76.Ne6 Rf5 77.Rg7+ Kh8 78.Rxg6 Rf1 79.Ke5 Kh7 80.Rg3 Kh6 81.Rg8 Kh7 82.Rg4 Kh6 83.Nf4 Ra1 84.Rg6+ Kh7 85.Rg2 Ra6 86.Ne6 Ra1 87.Nd4 Ra6 88.Kf5 Rb6 89.Ne6 Rb1 90.Rh2+ Kg8 91.Nf4 Rf1 92.Rh4 Kg7 93.Ke6 Re1+ 94.Kd6 Rf1 95.Ke7 Re1+ 96.Ne6+ Kg6 97.Rf4 Rd1 98.Rf2 Re1 99.Rf6+ Kh5 100.Kd6 Kg4 101.Rf4+ Kg3 102.Rf7 Rd1+ 103.Ke5 Re1+ 104.Kd5 Rd1+ 105.Nd4 Re1 106.Rf3+ Kg4 107.Rf2 Kg3 108.Rf8 Rd1 109.Ke4 Re1+ 110.Kd3 Kg4 111.Rg8+ Kh5 112.Nf3 Re7 113.Kd4 Ra7 114.Ke4 Ra4+ 115.Kf5 Ra5+ 116.Ne5 Kh4 117.Rg1 Kh3 118.Rc1 Kg3 119.Rc3+ Kf2 120.Kf4 Ra4+ 121.Nc4 Ke2 122.Ke4 Ra8 123.Rc2+ Ke1 124.Nd6 Ra3 125.Nf5 Ra8 126.Nd4 Kd1 127.Rb2 Kc1 128.Rh2 Ra7 129.Nb3+ Kb1 130.Nc5 Ra3 131.Kd4 Rg3 132.Nd3 Rg8 133.Rb2+ Ka1 134.Rb5 Rc8 135.Nc5 Rh8 136.Kc3 Rh3+ 137.Nd3 Ka2 138.Rf5 Rg3 139.Ra5+ Kb1 140.Rb5+ Ka2 141.Rb2+ Ka1 142.Rd2 Rg1 143.Kb3 Rb1+ 144.Ka3 Rf1 145.Nc5 Kb1 146.Nb3 Rf2 147.Rd8 Ra2+ 148.Kb4 Rf2 149.Nd2+ Kc2 150.Nc4 Kb1 151.Rd3 Kc1 152.Kb3 Re2 153.Rc3+ Kd1 154.Nb2+ 1/2-1/2

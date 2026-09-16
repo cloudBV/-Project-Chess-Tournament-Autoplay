@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "9.2"]
+[White "Stary, Simon"]
+[Black "Mach, Petr"]
+[Result "0-1"]
+[WhiteElo "2004"]
+[BlackElo "2124"]
+[ECO "B12"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Be2 Bf5 6.Nf3 e6 7.O-O Qb6 8.dxc5 Bxc5 9.b4 Be7 10.Be3 Qc7 11.a3 Nh6 12.h3 Rg8 13.Bd4 g5 14.Qd2 g4 15.hxg4 Nxg4 16.Qf4 f6 17.Bb5 fxe5 18.Bxe5 Qb6 19.Bxc6+ bxc6 20.Nbd2 Nxe5 21.Nxe5 Bd6 22.Ndf3 Qc7 23.Rfe1 O-O-O 24.Qd4 Be4 25.c4 Bxf3 26.Nxf3 Rg7 27.cxd5 exd5 28.Rac1 Rdg8 29.g3 Bxg3 30.fxg3 Qxg3+ 31.Kf1 Qg2# 0-1

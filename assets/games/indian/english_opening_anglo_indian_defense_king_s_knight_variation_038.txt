@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.12"]
+[Round "2.3"]
+[White "Wunnink, Michael"]
+[Black "Elgersma, Onno"]
+[Result "1-0"]
+[WhiteElo "2187"]
+[BlackElo "2356"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 Nc6 4.Bg2 d5 5.O-O e5 6.cxd5 Nxd5 7.Nc3 Nc7 8.d3 Be7 9.Nd2 O-O 10.Nc4 f6 11.f4 exf4 12.gxf4 Be6 13.f5 Bf7 14.Bxc6 bxc6 15.Ne4 Nd5 16.b3 Kh8 17.Qe1 g6 18.Bb2 gxf5 19.Rxf5 Bg6 20.Rf3 Bh5 21.Rf5 Rg8+ 22.Kh1 Bg6 23.Rf3 Bh5 24.Rf5 Bg4 25.Ne5 Qf8 26.Nxg4 Rxg4 27.Qf2 Rg6 28.Rf1 Re8 29.Ng3 Qh6 30.Nh5 Bd8 31.e4 Ne3 32.Nxf6 Bxf6 33.Rxf6 Rxf6 34.Bxf6+ Kg8 35.Rg1+ Kf7 36.Bg5+ 1-0

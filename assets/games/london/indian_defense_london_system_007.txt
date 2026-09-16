@@ -1,0 +1,15 @@
+[Event "Round 8: Gholami, Aryan - Yermolinsky, Alex"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/6AOVrmRf"]
+[Date "2026.07.04"]
+[Round "8.7"]
+[White "Gholami, Aryan"]
+[Black "Yermolinsky, Alex"]
+[Result "1/2-1/2"]
+[WhiteElo "2462"]
+[BlackElo "2363"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Bb7 5.h3 Bd6 6.Bxd6 cxd6 7.Nbd2 d5 8.a4 Nc6 9.Bb5 O-O 10.O-O Ne7 11.Qe2 Ne4 12.Bd3 a5 13.Rfc1 d6 14.c4 Nxd2 15.Nxd2 Rc8 16.cxd5 Nxd5 17.Be4 Rc7 18.Bxd5 Bxd5 19.e4 Bb7 20.Qb5 f5 21.Qb3 Re7 22.exf5 Rxf5 23.Nc4 Ref7 24.Rc2 Rg5 25.Ne3 Qf6 26.Rac1 h5 27.h4 Rg6 28.Qd3 Kh7 29.d5 exd5 30.Rd2 Qxh4 31.Qd4 Qg5 32.Rcd1 Rf4 33.Qxb6 d4 34.Qxb7 dxe3 35.fxe3 Rxa4 36.Qf3 Rg4 37.Re2 Rg3 38.Qe4 Rg4 39.Qc2 d5 40.Rf1 Qe5 41.Rf5 Qe6 42.Rxh5+ Kg8 43.Qd2 R6g5 44.Rxg5 Rxg5 45.Qxa5 Qg4 46.Qe1 Re5 47.b4 d4 48.e4 Qe6 49.Qb1 Qc4 50.Rc2 Qb5 51.Qb3+ Kh7 52.Qh3+ Rh5 53.Rc5 Rxh3 54.Rxb5 Rb3 55.Kf2 Kg6 56.Ke2 Re3+ 57.Kd2 Rxe4 58.Rd5 Rg4 59.b5 Rxg2+ 60.Kd3 Rb2 61.Kxd4 Kf6 62.Kc5 g5 63.Kc6 g4 64.b6 g3 65.Rd3 g2 66.Rg3 Rc2+ 67.Kd6 Rd2+ 68.Kc6 Rc2+ 69.Kd6 Rd2+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 4: Shogdzhiev, Roman - Aradhya, Garg"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/TeBG0HXs"]
+[Date "2026.07.24"]
+[Round "4.18"]
+[White "Shogdzhiev, Roman"]
+[Black "Aradhya, Garg"]
+[Result "1/2-1/2"]
+[WhiteElo "2446"]
+[BlackElo "2440"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.O-O Nb6 7.Bb5 Bd6 8.Bxc6+ bxc6 9.Nxe5 Bxe5 10.Re1 f6 11.d4 Kf7 12.dxe5 Qxd1 13.Rxd1 fxe5 14.b3 Bf5 15.c4 Rhd8 16.Re1 a5 17.Nc3 a4 18.c5 Nd5 19.Nxa4 Nb4 20.Bg5 Rd5 21.Re2 h6 22.Bh4 Bd3 23.Rb2 Bb5 24.Nc3 Rxc5 25.Nxb5 cxb5 26.h3 Rc2 27.Rxc2 Nxc2 28.Rd1 Ke6 29.Bg3 c5 30.a4 c4 31.bxc4 bxa4 32.Rd5 a3 33.Bxe5 g5 34.h4 gxh4 35.Bc3 a2 36.Rh5 Ra3 37.Bh8 Ra8 38.Bc3 a1=Q+ 39.Bxa1 Rxa1+ 40.Kh2 Kf6 41.Rxh6+ Kg5 42.Rh8 Nd4 43.g3 hxg3+ 44.fxg3 Ra2+ 45.Kh3 Rc2 46.Rg8+ Kf5 47.Rf8+ Ke4 48.Re8+ Kf3 49.Rf8+ Ke3 50.Re8+ Kf2 51.Rf8+ Nf3 52.Kg4 Rxc4+ 53.Kf5 Rc5+ 54.Ke4 Rc4+ 55.Kf5 Ra4 56.Rc8 Ra5+ 57.Kf4 Nd4 58.Ke4 Ne6 59.Rc6 Ng5+ 60.Kf4 Nh3+ 61.Kg4 Kg2 62.Rc2+ Nf2+ 63.Kf4 Ra4+ 64.Kf5 Ra5+ 65.Kf4 Ra4+ 66.Kf5 Kxg3 67.Rc3+ Kh4 68.Rc8 Ng4 69.Rf8 Kg3 70.Ke6 Ra5 71.Kd6 Ne5 72.Rc8 Kf4 73.Rc1 Nd3 74.Rc8 Nf2 75.Rf8+ Ke3 76.Rb8 Ne4+ 77.Ke6 Rh5 78.Rb1 Nc5+ 79.Kd6 Nd3 80.Ra1 Nb4 81.Re1+ Kd4 82.Rd1+ Nd3 83.Rd2 Rh6+ 84.Kd7 Ke4 85.Ke7 Nf4 86.Kd7 Ke5 87.Rd1 Ne6 88.Re1+ Kd5 89.Rd1+ Nd4 90.Rd3 Rh7+ 91.Kd8 Kc5 92.Ke8 Nf5 93.Rd1 Kc6 94.Rc1+ Kd6 95.Rd1+ Ke6 96.Re1+ Kf6 97.Kd8 Nd4 98.Ke8 Ra7 99.Rf1+ Nf5 100.Kd8 Rh7 101.Rf2 Ke6 102.Re2+ Kd5 103.Rd2+ Nd4 104.Rd1 Ke5 105.Kc8 Ne6 106.Re1+ Kd6 107.Rd1+ Kc6 108.Rc1+ Nc5 109.Kd8 Ra7 110.Rc2 Kd6 111.Rd2+ Ke5 112.Re2+ Ne4 113.Ke8 Rh7 114.Re1 Kd5 115.Kf8 Nf6 116.Rd1+ Ke5 117.Re1+ 1/2-1/2

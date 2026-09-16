@@ -1,0 +1,14 @@
+[Event "Round 8: Eklund, Joel - Willstedt, Lukas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/LvHxjLFw"]
+[Date "2026.07.03"]
+[Round "8.2"]
+[White "Eklund, Joel"]
+[Black "Willstedt, Lukas"]
+[Result "0-1"]
+[WhiteElo "2134"]
+[BlackElo "2118"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.dxc5 Nxc5 9.Be2 O-O 10.O-O a6 11.Nd4 Qc7 12.Qd2 Nd7 13.a3 b5 14.Bd3 Nb6 15.b3 f6 16.Nce2 fxe5 17.Nxc6 Qxc6 18.fxe5 Qc7 19.Rxf8+ Bxf8 20.Bd4 Nd7 21.Qf4 Bb7 22.b4 Re8 23.Rf1 Nb8 24.h4 Nc6 25.h5 Qd7 26.Rf3 a5 27.c3 axb4 28.axb4 Nd8 29.Qe3 Nf7 30.g4 Bc6 31.g5 h6 32.gxh6 gxh6 33.Bg6 Ng5 34.Rg3 Ra8 35.Rxg5 hxg5 36.Qxg5 Qe7 37.Qg4 Bh6 38.Bf5+ Kh8 39.Bxe6 Bd7 40.Bf5 Bxf5 41.Qxf5 Rg8+ 42.Kh2 Qh4+ 43.Qh3 Bf4+ 44.Nxf4 Qxf4+ 45.Kh1 Qe4+ 46.Kh2 Qe2+ 47.Kh1 Rg4 48.Bf2 Qe4+ 49.Kh2 Qxe5+ 50.Kh1 Qf5 51.Bg3 Qf3+ 52.Kh2 Kh7 53.h6 Qe4 54.Kg1 Qe2 55.Kh1 Qd1+ 56.Kg2 Qc2+ 57.Kf3 Qf5+ 58.Kg2 Qf4 59.Kh2 Qf3 60.Qg2 Qxg2+ 61.Kxg2 Re4 62.Kf3 Kxh6 63.Bf2 Kg5 64.Be3+ Kf5 65.Bd4 Rh4 66.Ke3 Rh3+ 67.Kd2 Ke4 68.Kc2 Rh2+ 69.Kb3 Kd3 70.Be5 Rg2 71.Bd4 Kd2 72.Kb2 Kd1+ 73.Kb3 Kc1 74.Be5 Rb2+ 75.Ka3 Kc2 76.c4 Rb3+ 0-1

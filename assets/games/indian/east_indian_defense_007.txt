@@ -1,0 +1,14 @@
+[Event "Round 3: Georgiev, Kiril - Charvi A"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/VkxPJoSc"]
+[Date "2026.07.05"]
+[Round "3.27"]
+[White "Georgiev, Kiril"]
+[Black "Charvi A"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2204"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.c3 Bg7 4.Bg5 O-O 5.Nbd2 d5 6.b4 b6 7.b5 a6 8.a4 Nbd7 9.e3 Bb7 10.Be2 axb5 11.axb5 Rxa1 12.Qxa1 Qa8 13.O-O Qxa1 14.Rxa1 Ra8 15.Rxa8+ Bxa8 16.Bf4 c6 17.bxc6 Bxc6 18.Ne1 e6 19.Bd6 Bf8 20.Bxf8 Kxf8 21.f3 Ke7 22.Kf2 Ne8 23.Nc2 Nd6 24.Nb4 Bb7 25.Bd3 f5 26.h4 Nf6 27.Nb1 h6 28.Na3 g5 29.hxg5 hxg5 30.Nb5 Nxb5 31.Bxb5 g4 32.Nd3 gxf3 33.gxf3 Bc8 34.Ne5 Kd6 35.Kg3 Ke7 36.Kf4 Nd7 37.Bxd7 Bxd7 38.Kg5 Be8 39.Kh6 Kf6 40.f4 Ke7 41.Kg7 Bh5 42.Kh6 Be8 43.Kg5 Bb5 44.Ng6+ Kf7 45.Kh6 Be8 46.Kh7 Kf6 47.Ne5 Ke7 48.Nf3 Bh5 49.Ng5 Be8 50.Kg7 Bh5 51.Nh7 Be8 52.Nf8 Bh5 53.Nh7 Be8 54.Nf6 Bf7 55.Nh7 Be8 1/2-1/2

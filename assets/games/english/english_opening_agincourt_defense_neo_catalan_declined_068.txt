@@ -1,0 +1,14 @@
+[Event "Round 3: Magold, Filip - Pashikyan, Rudolf"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/ntxo02Jp"]
+[Date "2026.07.15"]
+[Round "3.7"]
+[White "Magold, Filip"]
+[Black "Pashikyan, Rudolf"]
+[Result "1-0"]
+[WhiteElo "2501"]
+[BlackElo "2308"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.e3 c5 9.Nc3 dxc4 10.bxc4 Nc6 11.Qe2 Rc8 12.d3 Qc7 13.Ne1 Rfd8 14.f4 Nb4 15.Rd1 Bxg2 16.Qxg2 a6 17.g4 b5 18.g5 Ne8 19.f5 Qc6 20.Qe2 bxc4 21.dxc4 Rxd1 22.Nxd1 Nxa2 23.f6 Bd6 24.fxg7 Nb4 25.Qh5 Rc7 26.Nf2 Nxg7 27.Bxg7 Kxg7 28.Ng4 Kf8 29.Qh6+ Ke8 30.Qxh7 Bf8 31.Nf3 Qd6 32.Nfe5 Qd2 33.Nxf7 Qe2 34.Nd6+ Bxd6 35.Nf6+ 1-0

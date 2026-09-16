@@ -1,0 +1,14 @@
+[Event "Round 7: Daverkausen, Bernd - Piotraschke, Jens, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-7/Y1lqTquY/1ekUjKbv"]
+[Date "2026.07.23"]
+[Round "7.13"]
+[White "Daverkausen, Bernd"]
+[Black "Piotraschke, Jens, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2108"]
+[BlackElo "2042"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bd6 5.O-O O-O 6.b3 b6 7.d4 h6 8.Nc3 Bb7 9.Bb2 Nbd7 10.Ne1 a6 11.Nc2 Ra7 12.cxd5 exd5 13.Ne3 c6 14.Nf5 Qb8 15.e4 dxe4 16.Nxe4 Nxe4 17.Bxe4 Nf6 18.Bg2 Bc8 19.Ne3 Bd7 20.d5 Nxd5 21.Nxd5 cxd5 22.Qd4 f6 23.Qxd5+ Kh8 24.Bd4 Rc8 25.Rac1 Rxc1 26.Rxc1 Rc7 27.Rxc7 Qxc7 28.Qa8+ Kh7 29.Qxa6 b5 30.Be3 Be5 31.Qb7 Qd6 32.Qd5 Qe7 33.h4 Qe8 34.Bd4 Bb8 35.Qe4+ f5 36.Qxe8 Bxe8 37.Kf1 Bd6 38.Ke2 b4 39.f4 g5 40.hxg5 hxg5 41.Be3 Bb5+ 42.Kd2 Kg6 43.Bf3 gxf4 44.Bxf4 Bc5 45.Bd5 Kf6 46.Bc7 Kg5 47.Bf3 Kf6 48.Bd8+ Kg6 49.Be2 Bd7 50.Bd3 Kh5 51.Be2+ Kg6 52.Bh4 Bc6 53.Bd3 Bf3 54.Bc2 Bg4 55.Kd3 Bf2 56.Kc4 Kf7 57.Kxb4 f4 58.gxf4 Bxh4 59.Be4 Ke7 60.Kc4 Kd6 61.Bd3 Be6+ 62.Kb5 Bf2 63.Bc4 Bd7+ 64.Kb4 Be3 1/2-1/2

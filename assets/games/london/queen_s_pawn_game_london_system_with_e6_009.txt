@@ -1,0 +1,15 @@
+[Event "Round 7: Studnicka, Tomas - Benes, Miroslav"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/RH0OF9f7"]
+[Date "2026.07.19"]
+[Round "7.16"]
+[White "Studnicka, Tomas"]
+[Black "Benes, Miroslav"]
+[Result "1-0"]
+[WhiteElo "2252"]
+[BlackElo "2103"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Nf6 4.e3 Bd6 5.Ne5 O-O 6.Bd3 c5 7.c3 Qc7 8.Bg3 Nbd7 9.f4 Ne4 10.Nd2 Nxd2 11.Qxd2 f6 12.Nxd7 Bxd7 13.O-O e5 14.fxe5 fxe5 15.dxe5 Bxe5 16.Bc4 Bxg3 17.Bxd5+ Kh8 18.hxg3 Rae8 19.Rf4 Qd6 20.Raf1 Rxf4 21.gxf4 Bb5 22.Rd1 Rd8 23.b3 b6 24.c4 Be8 25.e4 Bg6 26.e5 Qe7 27.Qe3 Bf5 28.Re1 Be6 29.Qf3 Rf8 30.Bxe6 Qxe6 31.Qd5 Qf5 32.Re4 h5 33.e6 Qg6 34.e7 Re8 35.Re5 Qb1+ 36.Kh2 g6 37.Qf7 1-0

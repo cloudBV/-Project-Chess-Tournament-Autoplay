@@ -1,0 +1,14 @@
+[Event "Round 7: Nurgaliyev, Sauat - Amar, Elham"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/zX2Vm2qy"]
+[Date "2026.07.24"]
+[Round "7.10"]
+[White "Nurgaliyev, Sauat"]
+[Black "Amar, Elham"]
+[Result "1/2-1/2"]
+[WhiteElo "2490"]
+[BlackElo "2581"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2 O-O 11.O-O Nd7 12.Bd2 a6 13.Na3 a5 14.Nb5 f5 15.f4 Nf6 16.Be3 exf4 17.Bxf4 Ne4 18.Bf3 Bd7 19.Qe2 Bxb5 20.axb5 Ng5 21.c3 Nf7 22.Rfe1 Bf6 23.Qe6 g6 24.Kh1 Kg7 25.g3 b6 26.Qe2 Be5 27.Be3 Bf6 28.Qf2 Rb8 29.Bd4 Bxd4 30.Qxd4+ Ne5 31.Rxe5 dxe5 32.Qxe5+ Qf6 33.Qc7+ Kh8 34.Re1 Rbc8 35.Qd7 f4 36.g4 Rcd8 37.Qc6 Rd6 38.Qb7 Rf7 39.Qc8+ Kg7 40.Qe8 Rdd7 41.Re6 Qg5 42.c4 Rfe7 43.Qb8 Rxe6 44.dxe6 Re7 45.Qxb6 Qe5 46.Bd5 Qxb2 47.Qxa5 Qf2 48.Qa1+ Kh6 49.Qg1 Qb2 50.g5+ Kg7 51.Qc5 Qa1+ 52.Qg1 Qe5 53.b6 Rxe6 54.Bxe6 1/2-1/2

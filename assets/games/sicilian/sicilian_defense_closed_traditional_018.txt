@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/JEmBT5zW"]
+[Date "2026.07.07"]
+[Round "8.11"]
+[White "Motyl, Tomasz"]
+[Black "Rybackova, Lucie"]
+[Result "1/2-1/2"]
+[WhiteElo "2024"]
+[BlackElo "2154"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 g6 5.Ba4 Bg7 6.O-O a6 7.Nxd4 cxd4 8.Ne2 e6 9.c3 b5 10.Bb3 Bb7 11.d3 dxc3 12.bxc3 Ne7 13.Bg5 O-O 14.Qd2 Re8 15.Rac1 d5 16.f3 Qd7 17.Qf4 e5 18.Qh4 Nc8 19.f4 dxe4 20.fxe5 Bd5 21.d4 1/2-1/2

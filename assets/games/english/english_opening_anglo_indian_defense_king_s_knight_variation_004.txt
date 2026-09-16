@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-7/N0mFXvpc/5bxEKdXa"]
+[Date "2026.07.03"]
+[Round "7.4"]
+[White "Quintiliano, Renato R."]
+[Black "Proudian, Armen"]
+[Result "1-0"]
+[WhiteElo "2496"]
+[BlackElo "2401"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 b6 5.cxd5 exd5 6.g3 Bd6 7.Bg2 O-O 8.O-O Re8 9.Re1 Nbd7 10.d3 Bb7 11.b3 c5 12.Bb2 a6 13.d4 Ne4 14.dxc5 Ndxc5 15.Re2 Be7 16.Rc1 Bf6 17.Nd4 h5 18.Rec2 h4 19.Nce2 hxg3 20.hxg3 a5 21.Nf4 Be5 22.Nde6 Qd6 23.Bxe5 Qxe5 24.Nxc5 Nxc5 25.Nd3 Nxd3 26.Qxd3 Rad8 27.Qb5 Qd6 28.Rd2 Re5 29.Rd4 f5 30.b4 axb4 31.Rxb4 d4 32.Qc4+ Bd5 33.Qxd4 Bxa2 34.Qb2 Bf7 35.Rxb6 Qd2 36.Qxd2 Rxd2 37.Rc7 Ra5 38.Rb8+ Kh7 39.Rxf7 Ra1+ 40.Bf1 Kg6 41.Rbb7 Rdd1 42.Rxg7+ Kf6 43.Rbf7+ Ke6 44.Ra7 Rxf1+ 45.Kg2 Rab1 46.Rg6+ Kd5 47.Rd7+ Kc4 48.Rd4+ Kc5 49.Rf6 Rg1+ 50.Kf3 1-0

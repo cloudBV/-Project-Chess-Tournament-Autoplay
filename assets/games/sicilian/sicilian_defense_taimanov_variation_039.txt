@@ -1,0 +1,14 @@
+[Event "Round 4: Gontsul, Artem - Radeva, Viktoria"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-4/haUh3hFS/9oF9Qd2H"]
+[Date "2026.07.14"]
+[Round "4.4"]
+[White "Gontsul, Artem"]
+[Black "Radeva, Viktoria"]
+[Result "1-0"]
+[WhiteElo "2164"]
+[BlackElo "2214"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6 9.e5 Nd7 10.Qg4 g6 11.Qg3 O-O 12.Bh6 Re8 13.Kh1 Bf8 14.Bxf8 Kxf8 15.f4 Rb8 16.b3 Qa5 17.Nd1 Ba6 18.Qh4 Bxd3 19.Qh6+ Kg8 20.cxd3 Rxb3 21.Nf2 Rb2 22.Ng4 Qb4 23.Rac1 Rc8 24.a3 Qf8 25.Qg5 Kh8 26.Rf3 Rcb8 27.h4 Rb1 28.Rxb1 Rxb1+ 29.Kh2 h5 30.Nf6 Nxf6 31.Qxf6+ Kg8 32.Rg3 Qg7 33.Qd8+ Qf8 34.Qf6 Qc5 35.d4 Qc2 36.Qd8+ Kg7 37.Qf6+ Kg8 38.Qd8+ Kh7 39.f5 exf5 40.Qe7 Kg8 41.e6 1-0

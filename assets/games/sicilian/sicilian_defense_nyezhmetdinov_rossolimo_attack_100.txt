@@ -1,0 +1,14 @@
+[Event "Round 1: Minde, Timothe - Tirard, Hugo"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-1/S7wEOhJJ/JKFdFw4C"]
+[Date "2026.07.18"]
+[Round "1.5"]
+[White "Minde, Timothe"]
+[Black "Tirard, Hugo"]
+[Result "0-1"]
+[WhiteElo "2045"]
+[BlackElo "2396"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nd4 5.Nxd4 cxd4 6.d3 a6 7.Ba4 b5 8.Bb3 Ne7 9.f4 f5 10.Nd2 Bb7 11.Qe2 g6 12.exf5 gxf5 13.Nf3 Rg8 14.Ng5 Qb6 15.Qh5+ Rg6 16.Rf2 Bg7 17.Bd2 a5 18.a4 b4 19.Re1 O-O-O 20.Qe2 Rg8 21.h4 Bf6 22.h5 R6g7 23.h6 Rg6 24.Bc1 Rxh6 25.Nxe6 Bh4 26.Ng5 Bxf2+ 27.Qxf2 Rg7 28.Re5 Qc6 29.c3 Rhg6 30.Bd2 d6 31.Re1 h6 32.cxd4 Kb8 33.d5 Nxd5 34.Bxd5 Qxd5 35.Re8+ Kc7 36.Be3 hxg5 37.Bb6+ Kd7 38.Rd8+ Ke7 39.fxg5 Rxg5 40.Qe3+ Qe5 41.Qxe5+ dxe5 0-1

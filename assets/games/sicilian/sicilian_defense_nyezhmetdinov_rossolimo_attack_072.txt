@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.30"]
+[White "Tafall Villanueva, Iker"]
+[Black "Moreno Estebanez, Patxi"]
+[Result "0-1"]
+[WhiteElo "2070"]
+[BlackElo "2283"]
+[ECO "B30"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.d3 e6 9.h3 Bxf3 10.Qxf3 Be7 11.Nd2 O-O 12.g3 Rc8 13.Qe2 Qc7 14.f4 b5 15.Nf3 b4 16.g4 bxc3 17.bxc3 Qa5 18.Qc2 Nd7 19.Bd2 Rb8 20.a3 Rfc8 21.Qa2 Bf6 22.Rac1 g6 23.Be2 Rb7 24.f5 exf5 25.exf5 Bg7 26.Ng5 Nde5 27.d4 cxd4 28.cxd4 Qb6 29.Bxa6 Qxa6 30.dxe5 Bxe5 31.fxg6 hxg6 32.Be3 Rf8 33.Qd5 Ne7 34.Qe4 Rb3 35.Rc7 Qa5 36.Rec1 Rxe3 37.Qxe3 Nd5 38.Ra7 Qb5 39.Qf2 Bf4 40.Qh4 Bxg5 41.Qxg5 Qb6+ 42.Kg2 Qxa7 43.Qxd5 Qxa3 44.Rf1 Qa8 45.Rd1 Qxd5+ 46.Rxd5 Rd8 47.g5 Kf8 48.Kf3 Ke7 49.h4 Ke6 50.Ra5 Rb8 51.Ra3 Rb4 52.Kg3 Re4 53.Ra6 Rc4 54.Rb6 Rc1 55.Kg2 Rc5 56.Kg3 Rf5 57.Kg4 Rf1 58.Rb2 d5 59.Rb7 d4 60.h5 gxh5+ 61.Kxh5 d3 62.Rb2 Kd5 63.Kh6 Kd4 64.Rb7 Rf5 65.Rb1 d2 66.Kg7 Rxg5+ 0-1

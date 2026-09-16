@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/H7My7geV"]
+[Date "2026.07.04"]
+[Round "8.8"]
+[White "Backiel, Hubert"]
+[Black "Rudnev, Andrei"]
+[Result "1-0"]
+[WhiteElo "2253"]
+[BlackElo "2188"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Bh7 9.g5 cxd4 10.Nb5 Be4 11.f3 Bf5 12.Nxd4 Ne7 13.Nxf5 Nxf5 14.Bd3 Qc7 15.Ne2 Qxe5 16.Bf4 Qxb2 17.Rb1 Qa3 18.Bxf5 exf5 19.Qxd5 Nc6 20.Rxb7 Qa5+ 21.Qxa5 Nxa5 22.Rc7 Be7 23.Bd2 Bd6 24.Bxa5 Bxc7 25.Bxc7 Rc8 26.Be5 Rxc2 27.Bxg7 Rg8 28.Be5 Rxa2 29.Kf2 Kd7 30.Ke3 Re8 31.Rd1+ Kc6 32.Nd4+ Kc5 33.Kf4 a5 34.Kxf5 a4 35.Rc1+ Kb6 36.Bc7+ Ka6 37.Rb1 Rc8 38.Rb6+ Ka7 39.Nb5+ Ka8 40.Be5 Rf2 41.f4 Ra2 42.Nd6 Rf8 43.Ra6+ Kb8 44.Ne4+ 1-0

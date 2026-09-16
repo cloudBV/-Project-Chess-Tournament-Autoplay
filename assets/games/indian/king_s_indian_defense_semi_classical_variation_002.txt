@@ -1,0 +1,14 @@
+[Event "Round 4: De Jong, Migchiel - Bakija, Alan"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/4aI5pMlR"]
+[Date "2026.07.24"]
+[Round "4.19"]
+[White "De Jong, Migchiel"]
+[Black "Bakija, Alan"]
+[Result "0-1"]
+[WhiteElo "2252"]
+[BlackElo "2172"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Classical Variation"]
+
+1.Nf3 d6 2.d4 Nf6 3.c4 g6 4.e3 Bg7 5.Be2 O-O 6.Nc3 Bf5 7.Nh4 Bd7 8.O-O e5 9.Nf3 e4 10.Nd2 Re8 11.b4 h5 12.b5 Bf5 13.a4 a6 14.Ba3 Nbd7 15.Rc1 Nf8 16.bxa6 bxa6 17.Nb3 h4 18.d5 h3 19.g3 Qd7 20.c5 Bg4 21.cxd6 cxd6 22.Na5 Rac8 23.Bxg4 Nxg4 24.Nc6 Nh7 25.Nb1 Ng5 26.Nd2 Kh7 27.Qe2 Ne5 28.Nxe5 dxe5 29.Nc4 Rxc4 30.Rxc4 Qxd5 31.Rd1 Qe6 32.Rd6 Nf3+ 33.Kh1 Qg4 34.Rxa6 Rb8 35.Rac6 Rd8 36.Rd6 Rb8 37.Rd1 Bf8 38.Bc1 Rb1 39.Rc7 Kg8 40.a5 Ra1 41.Rd8 Kg7 42.a6 Rxa6 43.Rcc8 Ra2 44.Qf1 Bb4 45.Rg8+ Kf6 46.Rc6+ Kg5 47.Rh8 Be1 48.Qxh3 Qxh3 49.Rxh3 Rxf2 50.Rh7 Kg4 0-1

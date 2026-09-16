@@ -1,0 +1,14 @@
+[Event "Round 9: Elgar, Tim - Moisio, Miska"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-9/oOGinc0i/9GKPz7ib"]
+[Date "2026.07.18"]
+[Round "9.17"]
+[White "Elgar, Tim"]
+[Black "Moisio, Miska"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2025"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.Nf3 d6 2.d4 Nf6 3.g3 g6 4.b3 Bg7 5.Bg2 O-O 6.Bb2 c6 7.O-O Bf5 8.Nbd2 Na6 9.Nh4 Bd7 10.e4 c5 11.e5 dxe5 12.dxe5 Ng4 13.Bxb7 Nb4 14.Bxa8 Qxa8 15.Nc4 Be6 16.Qe2 h5 17.a3 Nc6 18.Nf3 Nh6 19.Ng5 Bc8 20.Ne4 Bh3 21.Rfe1 f6 22.exf6 exf6 23.Qf3 Ne5 24.Nxf6+ Bxf6 25.Qxa8 Rxa8 26.Bxe5 1-0

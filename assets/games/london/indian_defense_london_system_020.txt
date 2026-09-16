@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "3.2"]
+[White "Sowinski, Pawel"]
+[Black "Zielonka, Adam"]
+[Result "0-1"]
+[WhiteElo "2355"]
+[BlackElo "2180"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.c3 Be7 5.e3 Nh5 6.Bg3 Nc6 7.Nbd2 d5 8.Bd3 Bd7 9.Qe2 g6 10.a3 Rc8 11.dxc5 Nxg3 12.hxg3 Bxc5 13.e4 O-O 14.Rd1 Bb6 15.Nb3 Qc7 16.e5 f6 17.exf6 Rxf6 18.Nbd4 e5 19.Nxc6 bxc6 20.Bc2 Rcf8 21.O-O Bg4 22.c4 e4 23.Bxe4 dxe4 24.Qxe4 Bxf3 25.gxf3 Qxg3+ 26.Kh1 Qxf3+ 0-1

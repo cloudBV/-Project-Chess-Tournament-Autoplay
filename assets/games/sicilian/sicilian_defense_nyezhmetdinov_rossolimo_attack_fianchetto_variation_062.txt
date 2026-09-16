@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.16"]
+[Round "3.3"]
+[White "Arancibia Guzman, Eduardo"]
+[Black "Guerrero Cataldo, Juan Andres"]
+[Result "1/2-1/2"]
+[WhiteElo "2278"]
+[BlackElo "2123"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 O-O 8.Be3 b6 9.Qd2 Ne8 10.Bh6 Nc7 11.O-O-O Ne6 12.Ne2 Nd4 13.Nexd4 cxd4 14.h4 Bg4 15.h5 Bh8 16.Qf4 Bxf3 17.Qxf3 Re8 18.Rh3 e5 19.Qg4 Qc8 20.Qg3 Qe6 21.Kb1 Rac8 22.Rdh1 Rc7 23.f4 exf4 24.Bxf4 Be5 25.Rf1 c5 26.Qh4 Bxf4 27.Qxf4 Qe5 28.Qh6 Qg7 29.Qd2 c4 30.hxg6 fxg6 31.Qb4 Qe7 32.Qa4 Qd7 1/2-1/2

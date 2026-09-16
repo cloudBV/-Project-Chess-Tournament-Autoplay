@@ -1,0 +1,14 @@
+[Event "Round 1: Utsab Chatterjee - Lara-Golliot, Celian"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-1/S7wEOhJJ/ncXC9wwe"]
+[Date "2026.07.18"]
+[Round "1.10"]
+[White "Utsab Chatterjee"]
+[Black "Lara-Golliot, Celian"]
+[Result "1-0"]
+[WhiteElo "2317"]
+[BlackElo "2025"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Qc7 7.Nc3 e5 8.Be3 b6 9.Nd2 Be6 10.O-O Nf6 11.f4 Bh6 12.Qf3 Nh5 13.f5 Bxe3+ 14.Qxe3 Bd7 15.Ne2 O-O-O 16.Qh6 Rdf8 17.a4 a6 18.Nc4 Be8 19.f6 b5 20.axb5 cxb5 21.Ne3 Qd6 22.Nd5 Qe6 23.g4 Rhg8 24.Qe3 1-0

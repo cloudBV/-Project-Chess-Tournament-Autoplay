@@ -1,0 +1,15 @@
+[Event "Round 9: Vitier Vazquez, Cristian - Macias Pino, Diego"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-9/Ha7f1xuO/w479T6rb"]
+[Date "2026.07.11"]
+[Round "9.3"]
+[White "Vitier Vazquez, Cristian"]
+[Black "Macias Pino, Diego"]
+[Result "1/2-1/2"]
+[WhiteElo "2375"]
+[BlackElo "2494"]
+[ECO "A28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Flexible Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d3 d5 5.cxd5 Nxd5 6.g3 Bc5 7.Bg2 O-O 8.O-O h6 9.Nxd5 Qxd5 10.b3 Qd6 11.Bb2 Rd8 1/2-1/2

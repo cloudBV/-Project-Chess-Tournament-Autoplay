@@ -1,0 +1,15 @@
+[Event "Round 2: Shearsby, Jude - Willow, Jonah B"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-2/UHkOekZU/9q16qVA7"]
+[Date "2026.07.16"]
+[Round "2.4"]
+[White "Shearsby, Jude"]
+[Black "Willow, Jonah B"]
+[Result "0-1"]
+[WhiteElo "2243"]
+[BlackElo "2450"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 e6 7.d4 cxd4 8.Nxd4 Be7 9.c4 O-O 10.b3 Qa5 11.Bb2 Rfc8 12.Nc3 a6 13.Rad1 Ne8 14.f4 Bf6 15.Kh1 Qb6 16.Nf3 Qc7 17.Rd3 Nc5 18.Re3 Be7 19.Nd4 Bf8 20.f5 e5 21.Nd5 Qd8 22.Nc2 Nd7 23.Rh3 b5 24.cxb5 axb5 25.Ncb4 Nef6 26.Bc1 Be7 27.Nxe7+ Qxe7 28.Bg5 Qf8 29.Bh4 Rc5 30.Nd3 Rc7 31.Nb4 Qc8 32.Rd3 Rc1 33.Rdd1 Rxd1 34.Rxd1 Qc5 35.Nd3 Qa7 36.Nb4 Qc5 37.Nd3 Qa3 38.Rd2 Rc8 39.h3 h6 40.Nf2 Qb4 41.Kh2 Ra8 42.Qd3 d5 43.Bxf6 Nxf6 44.exd5 e4 45.Qd4 Qd6+ 46.Kg1 Re8 47.Ng4 Nxg4 48.hxg4 Qg3 49.d6 Qe1+ 50.Kh2 e3 51.d7 Rd8 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/x9SyU3aN"]
+[Date "2026.07.08"]
+[Round "9.5"]
+[White "Patil Harshal"]
+[Black "Prokofiev, Valentyn"]
+[Result "0-1"]
+[WhiteElo "2121"]
+[BlackElo "2421"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 e6 6.cxd4 d6 7.Bc4 Be7 8.O-O O-O 9.Qe2 Bd7 10.Rd1 Nb6 11.Bd3 d5 12.Bc2 Nc6 13.Qd3 g6 14.a3 f6 15.Nc3 Rc8 16.Re1 fxe5 17.dxe5 Qc7 18.Bh6 Rf5 19.Qe2 Rxf3 20.Nb5 Qxe5 21.Qxf3 Qxb2 22.Qd3 Ne5 23.Qg3 Nf7 24.Bxg6 Nxh6 25.Be8+ Kh8 26.Rab1 Qf6 27.Bxd7 Nxd7 28.Nxa7 Rg8 29.Qh3 Ne5 30.Rf1 Nf3+ 31.Kh1 Nd2 32.Nb5 Nxb1 33.Rxb1 Ng4 0-1

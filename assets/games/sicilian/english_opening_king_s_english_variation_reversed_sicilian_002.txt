@@ -1,0 +1,15 @@
+[Event "Round 10: Dingertz, Filip - Muntean, Victor"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-10/4rqvbItp/vpurWKIm"]
+[Date "2026.07.01"]
+[Round "10.1"]
+[White "Dingertz, Filip"]
+[Black "Muntean, Victor"]
+[Result "0-1"]
+[WhiteElo "2115"]
+[BlackElo "2170"]
+[ECO "A21"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 c6 3.d4 exd4 4.Qxd4 Nf6 5.Bg5 Be7 6.e4 d6 7.f4 h6 8.Bh4 O-O 9.O-O-O Na6 10.e5 dxe5 11.Qxd8 Bxd8 12.Rxd8 Rxd8 13.fxe5 g5 14.Bxg5 hxg5 15.exf6 Bf5 16.Nf3 Rd6 17.Nxg5 Rxf6 18.Be2 Rd8 19.Rf1 Kg7 20.Bf3 Nb4 21.Nce4 Rg6 22.Bh5 Rxg5 23.Nxg5 Nxa2# 0-1

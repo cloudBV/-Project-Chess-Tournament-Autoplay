@@ -1,0 +1,14 @@
+[Event "Round 8: Mylonakis, Ioannis - Boutikos, Eleftherios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-8/oct1YwP0/8MFwx2ow"]
+[Date "2026.07.16"]
+[Round "8.2"]
+[White "Mylonakis, Ioannis"]
+[Black "Boutikos, Eleftherios"]
+[Result "0-1"]
+[WhiteElo "2126"]
+[BlackElo "2189"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 b5 6.e4 d6 7.Ne2 bxc4 8.Nf4 g5 9.Ne2 exd5 10.exd5 Qe7 11.Kf2 Nbd7 12.a3 Ba5 13.Qa4 Bxc3 14.Nxc3 O-O 15.Qxc4 Ne5 16.Qe2 Nh5 17.Qd2 f6 18.Be2 Re8 19.g3 Bh3 20.f4 Ng4+ 21.Bxg4 Bxg4 22.h3 Bd7 23.Qd1 Ng7 24.Bd2 Qf7 25.b4 cxb4 26.axb4 Qg6 27.Qf1 Qc2 28.Ra2 Qb3 29.Qd3 Qxb4 30.Rb1 Qc5+ 31.Be3 Bf5 32.Bxc5 Bxd3 33.Rd1 Bc4 34.Bxd6 Bxa2 35.Nxa2 Nf5 36.Ba3 gxf4 37.gxf4 Re4 38.d6 Rxf4+ 39.Kg1 Kf7 40.Rc1 Rg8+ 41.Kh1 Ng3+ 0-1

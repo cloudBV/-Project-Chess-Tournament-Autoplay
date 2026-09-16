@@ -1,0 +1,15 @@
+[Event "Round 6: Oparin, Grigoriy - Hong, Andrew"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/31NFYaDJ"]
+[Date "2026.07.04"]
+[Round "6.6"]
+[White "Oparin, Grigoriy"]
+[Black "Hong, Andrew"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2519"]
+[ECO "B56"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.Be3 e6 8.Qe2 a6 9.Nxc6 bxc6 10.Ba4 Qa5 11.O-O-O Nxe4 12.Nxe4 Qxa4 13.Nxd6+ Bxd6 14.Rxd6 Qxa2 15.Rhd1 Qa1+ 16.Kd2 Qa5+ 17.c3 c5 18.Qg4 O-O-O 19.Ke1 Bb5 20.Qe4 Rxd6 21.Rxd6 Kb8 22.Qe5 Ka8 23.Qxc5 Kb7 24.Qa7+ Kc8 25.Bb6 Qa1+ 26.Rd1 Qxd1+ 27.Kxd1 Rd8+ 28.Bxd8 Kxd8 29.Qxf7 Be8 30.Qxg7 1-0

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-4/9Kdq1tY4/hThwavGU"]
+[Date "2026.07.15"]
+[Round "4.14"]
+[White "Spraggett, Kevin"]
+[Black "Droin, Augustin"]
+[Result "0-1"]
+[WhiteElo "2414"]
+[BlackElo "2525"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 b6 4.d4 cxd4 5.Nxd4 Bb7 6.f3 d6 7.e4 e6 8.Be2 a6 9.O-O Be7 10.Be3 O-O 11.Qd2 Nbd7 12.Rfd1 Rc8 13.Rac1 Qc7 14.Bf1 Qb8 15.Kh1 Rfe8 16.Bg1 h5 17.h4 Ne5 18.Na4 Nfd7 19.Nb3 Bc6 20.Nc3 Ba8 21.Bh2 Red8 22.Bg3 Nf8 23.Na4 Bc6 24.Nc3 Be8 25.Nb1 Nfg6 26.Qe1 Qb7 27.Nd4 Bf6 28.b3 Qe7 29.f4 Ng4 30.Nf3 Qb7 31.Ng5 Bc6 32.Nc3 b5 33.Bd3 b4 34.Nb1 a5 35.Nd2 Bd4 36.Nf1 Qa7 37.Nh3 e5 38.fxe5 dxe5 39.Nh2 Ne3 40.Qe2 Nxd1 41.Rxd1 Nf4 42.Bxf4 exf4 43.Qxh5 g6 44.Qf3 Qe7 45.h5 g5 46.Ng4 Rd6 47.Bc2 Rcd8 48.Rxd4 Rxd4 49.Nh6+ Kf8 50.Nf5 Bxe4 51.Bxe4 Qxe4 52.Qg4 Rd1+ 53.Kh2 Qe1 0-1

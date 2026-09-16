@@ -1,0 +1,14 @@
+[Event "Round 3: Tkhoruk, Roman - Kukushkin, Ivan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-3/T68Yzjat/K5GPkCuR"]
+[Date "2026.07.19"]
+[Round "3.15"]
+[White "Tkhoruk, Roman"]
+[Black "Kukushkin, Ivan"]
+[Result "0-1"]
+[WhiteElo "2055"]
+[BlackElo "2265"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 Qc7 6.O-O e5 7.a4 a5 8.h3 Be6 9.Nc3 h6 10.Nd2 Be7 11.Nc4 O-O-O 12.Qe2 g5 13.Bd2 g4 14.h4 Nh5 15.g3 Bxc4 16.dxc4 Qd7 17.Be3 Ng7 18.Rad1 Qe6 19.b3 h5 20.Qe1 b6 21.Qe2 Qg6 22.Rxd8+ Rxd8 23.Rd1 Rxd1+ 24.Qxd1 Ne6 25.Ne2 Nd4 26.Bxd4 cxd4 27.Nc1 Qxe4 28.Nd3 f6 29.Qd2 Kd7 30.Qh6 Qf5 31.Qg7 e4 32.Nf4 e3 33.Ng6 Qxf2+ 34.Kh1 Qe1+ 35.Kg2 Qd2+ 36.Kg1 Qd1+ 37.Kg2 Qxc2+ 38.Kg1 Qe4 39.Nf8+ Kd6 40.Qf7 e2 0-1

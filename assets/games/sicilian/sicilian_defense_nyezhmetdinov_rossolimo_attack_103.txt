@@ -1,0 +1,15 @@
+[Event "Round 9: Banerjee, Supratit - Richardson, Alex"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-9/8rkRHm6d/H81qlljt"]
+[Date "2026.07.18"]
+[Round "9.3"]
+[White "Banerjee, Supratit"]
+[Black "Richardson, Alex"]
+[Result "1-0"]
+[WhiteElo "2343"]
+[BlackElo "2154"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 g6 6.e5 Nd5 7.O-O Bg7 8.Re1 O-O 9.Nbd2 Qc7 10.a4 Bf5 11.a5 b6 12.Ne4 Rfd8 13.h3 c4 14.Ng3 Be6 15.d4 c5 16.c3 cxd4 17.Nxd4 Bxe5 18.Nxe6 fxe6 19.axb6 Nxb6 20.Qe2 Bf6 21.Qxe6+ Kg7 22.Be3 Rd6 23.Qg4 Kf7 24.Bf4 Rad8 25.Bxd6 Rxd6 26.Ne4 Re6 27.Ng5+ Bxg5 28.Qxe6+ Kf8 29.Qe5 Qxe5 30.Rxe5 Bf6 31.Re4 1-0

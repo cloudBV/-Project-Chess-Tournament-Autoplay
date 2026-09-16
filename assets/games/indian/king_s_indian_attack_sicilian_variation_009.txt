@@ -1,0 +1,14 @@
+[Event "Round 5: Gonzalez Zharikov, Andrey - Vasquez Jimenez, Cristhian"]
+[Site "https://lichess.org/broadcast/viii-campeonato-nacional-abierto-de-ajedrez-de-verano-ezequiel-montes-2026/round-5/KtiudKVW/2a3aPi4E"]
+[Date "2026.07.05"]
+[Round "5.4"]
+[White "Gonzalez Zharikov, Andrey"]
+[Black "Vasquez Jimenez, Cristhian"]
+[Result "1/2-1/2"]
+[WhiteElo "2181"]
+[BlackElo "2064"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.c4 Bg7 6.d4 cxd4 7.cxd5 Nxd5 8.Nxd4 O-O 9.Nb5 Be6 10.Bxd5 Bxd5 11.N1c3 Bxc3 12.Nxc3 Be6 13.Qa4 Nc6 14.Bh6 Re8 15.Qh4 Qd4 16.e4 Rad8 17.Rad1 Qb4 18.Ra1 Qd4 19.Kg2 f6 20.f4 Bf7 21.Rf2 Qb4 1/2-1/2

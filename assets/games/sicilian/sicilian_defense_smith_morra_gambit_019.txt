@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.16"]
+[White "Horak, Martin"]
+[Black "Pisk, Petr"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2344"]
+[ECO "B21"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 e6 5.Nc3 Nf6 6.Bf4 d5 7.exd5 Nxd5 8.Nxd5 Qxd5 9.Qxd5 exd5 10.O-O-O Be6 11.Nf3 Bc5 12.Rd2 O-O 13.Bb5 h6 14.h4 Rac8 15.Ne5 a6 16.Ba4 b5 17.Bb3 Nd4 18.Nd3 Be7 19.Be5 Nc6 20.Bg3 Na5 21.Nf4 Nc4 22.Bxc4 dxc4 23.Nxe6 fxe6 24.c3 Rfd8 25.Rhd1 h5 26.Rd7 Bf6 27.R1d6 Rxd7 28.Rxd7 Rc6 29.Rb7 Kh7 30.Kd2 Kg6 31.Ke3 Kf5 32.f3 e5 33.Rd7 Ke6 34.Ra7 Kf5 35.Rd7 Ke6 36.Ra7 Rd6 37.Ke4 Rd2 38.Rxa6+ Kf7 39.Kf5 Rxg2 40.Ra7+ Kg8 41.Bxe5 Bxe5 42.Kxe5 Rxb2 43.Kf5 Rf2 44.Kg6 Rg2+ 45.Kxh5 Kh7 46.Rb7 b4 0-1

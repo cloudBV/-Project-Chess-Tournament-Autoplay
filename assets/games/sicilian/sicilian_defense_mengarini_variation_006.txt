@@ -1,0 +1,15 @@
+[Event "Round 2: Botoyan, Smbat - kiladze, Luka"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/jItnMvXI"]
+[Date "2026.07.14"]
+[Round "2.12"]
+[White "Botoyan, Smbat"]
+[Black "kiladze, Luka"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2373"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+
+1.e4 c5 2.a3 g6 3.b4 Bg7 4.Nc3 d6 5.Bc4 Nc6 6.Nf3 e6 7.h4 h6 8.Bb2 Nge7 9.bxc5 dxc5 10.Qe2 e5 11.Nd5 Be6 12.Nf4 Bxc4 13.Qxc4 Nd4 14.Nd3 b5 15.Qxc5 Rc8 16.Bxd4 Rxc5 17.Bxc5 f5 18.Nb4 fxe4 19.Nh2 a5 20.Bxe7 Qxe7 21.Nd5 Qxh4 22.O-O O-O 23.Rab1 Qg5 24.Rfd1 Rb8 25.c4 Qd8 26.Ng4 bxc4 27.Nge3 Rb3 28.a4 h5 29.Rbc1 Bh6 30.Rxc4 Bxe3 31.Nxe3 Qd3 32.Rc5 Rb1 33.Rxa5 Rxd1+ 34.Nxd1 Qb1 0-1

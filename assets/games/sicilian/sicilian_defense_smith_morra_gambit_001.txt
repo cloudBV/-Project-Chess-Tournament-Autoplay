@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-3/aTV140P1/dPFrtl2D"]
+[Date "2026.07.01"]
+[Round "3.9"]
+[White "Prieto Rol, Esther"]
+[Black "Jimenez Freniche, David"]
+[Result "0-1"]
+[WhiteElo "2082"]
+[BlackElo "2185"]
+[ECO "B21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 g6 5.Nc3 Bg7 6.Nf3 d6 7.Be2 Bg4 8.Be3 Nf6 9.h3 Bxf3 10.Bxf3 Nd7 11.Be2 O-O 12.Qd2 Qa5 13.Nd5 Qxd2+ 14.Kxd2 Nc5 15.f3 Bxb2 16.Rab1 Be5 17.Bxc5 dxc5 18.f4 Bd4 19.c3 Bg7 20.Rxb7 e6 21.Ne7+ Nxe7 22.Rxe7 Rab8 23.Kc2 Rb6 24.Rb1 Rxb1 25.Kxb1 Bxc3 26.Kc2 Bd4 27.Bc4 a5 28.a4 Kg7 29.Ra7 Rb8 30.Bb5 Be3 31.g3 Rd8 32.Bd7 Kf8 33.Kc3 h5 34.Kc4 h4 35.gxh4 Bxf4 36.Rb7 Ke7 37.Bb5+ Kf6 38.Kxc5 Be3+ 39.Kc4 Bf2 40.Bc6 Bxh4 41.Kb5 Be1 42.Kc4 Rc8 43.Kb5 Rh8 44.e5+ Kg7 45.Bg2 Rh5 46.Kc6 Rh4 47.Rb1 Bc3 48.Kb5 Rh5 49.Kc4 Bxe5 50.Rb5 Rg5 51.Rxa5 Rxg2 52.Rxe5 Rg3 53.a5 Rxh3 54.Kb4 Kf6 55.Rc5 g5 56.Rc8 Rh1 57.Rc3 g4 58.a6 Rh8 59.Kc4 Ra8 60.Ra3 Ke5 61.Kd3 Ra7 62.Ke3 Kf5 63.Kf2 e5 64.Kg3 Kg5 65.Ra5 f5 66.Kf2 Kf4 67.Ra4+ e4 68.Kg2 Kg5 69.Kf2 f4 70.Rxe4 Rxa6 71.Re5+ Kh4 72.Re2 Ra3 73.Rb2 Rh3 74.Rb4 Rh2+ 75.Kg1 Kg3 76.Ra4 Rb2 77.Ra1 f3 0-1

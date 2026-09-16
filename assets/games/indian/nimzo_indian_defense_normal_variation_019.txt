@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "5.8"]
+[White "Liskiewicz, Jakub"]
+[Black "Rekuc, Patryk"]
+[Result "*"]
+[WhiteElo "2010"]
+[BlackElo "2290"]
+[ECO "E46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 Re8 6.Nf3 b6 7.Bd3 Bb7 8.O-O c5 9.a3 Ba5 10.Rb1 Bxc3 11.Bxc3 Ne4 12.Be1 d5 13.cxd5 Qxd5 14.Qa4 Rd8 15.Qc4 Qh5 16.dxc5 Nxc5 17.Be2 Qg6 18.Bc3 Ba6 19.Qh4 f6 20.Bxa6 Nbxa6 21.Rbd1 Nd3 22.Rd2 Nac5 23.Rfd1 Nb3 24.Re2 Ndc5 25.Ree1 Qc2 26.Rxd8+ Rxd8 27.Qg3 Ne4 28.Qc7 Rf8 29.Qc4 Nbc5 30.Nd4 Qd3 31.Qxd3 Nxd3 32.Re2 e5 33.Nb5 a6 34.Nc7 Nxc3 35.bxc3 Rc8 36.Rd2 Rxc7 37.Rxd3 e4 38.Rd8+ Kf7 39.g3 Rxc3 40.Rd7+ Ke6 41.Rxg7 Rxa3 42.Rxh7 b5 43.h4 b4 44.Rb7 a5 45.h5 Rc3 46.Rb5 Ra3 47.h6 Kf7 48.Rb7+ Kg8 49.Kg2 Ra1 50.Rb5 Kh7 51.Rb6 Kxh6 52.Rxf6+ Kg7 53.Rb6 *

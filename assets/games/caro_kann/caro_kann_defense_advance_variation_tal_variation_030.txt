@@ -1,0 +1,14 @@
+[Event "Round 7: Mogollon Tobar, Nicolle Julieth - Moncada Correa, Sara"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-femenino/round-7/MpYuiRoX/oDi2L2z5"]
+[Date "2026.07.11"]
+[Round "7.3"]
+[White "Mogollon Tobar, Nicolle Julieth"]
+[Black "Moncada Correa, Sara"]
+[Result "0-1"]
+[WhiteElo "2033"]
+[BlackElo "2088"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Nf3 e6 6.Bd3 Bxd3 7.Qxd3 Qc7 8.O-O Nh6 9.Nbd2 Nf5 10.c4 Be7 11.g3 g6 12.a3 dxc4 13.Nxc4 Nd7 14.Bf4 Nb6 15.Ne3 Nd5 16.Nxd5 cxd5 17.Rac1 Qd7 18.Rc2 O-O 19.Rfc1 Rac8 20.Bg5 Bxg5 21.Nxg5 Kg7 22.Nf3 Rxc2 23.Qxc2 Qb5 24.b4 Ne7 25.Qd2 Nc6 26.Rc3 Qb6 27.Rd3 Rc8 28.Qg5 Qd8 29.Qf4 Ne7 30.Qf6+ Kg8 31.Ng5 Qf8 32.Rf3 Nf5 33.Rf4 Rc1+ 34.Kg2 Rc4 35.Nf3 Qe7 36.Qxe7 Nxe7 37.g4 hxg4 38.Rxg4 Kf8 39.Rf4 Nf5 40.Kh3 Ke7 41.Kg4 Rc3 42.h5 gxh5+ 43.Kxh5 Rxa3 44.Kg5 Rb3 45.Nh4 Nxh4 46.Kxh4 Rxb4 47.Kg5 a5 48.Kh6 Rb1 49.Rf3 b5 50.Kg7 Rg1+ 51.Kh6 b4 52.Rb3 Rg4 53.Rf3 0-1

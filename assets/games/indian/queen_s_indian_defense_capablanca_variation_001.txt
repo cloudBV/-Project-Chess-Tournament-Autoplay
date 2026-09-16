@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.7"]
+[White "Verbin, Valentina"]
+[Black "Aamodt, Peder Marcus"]
+[Result "0-1"]
+[WhiteElo "2110"]
+[BlackElo "2178"]
+[ECO "E16"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 c5 7.O-O O-O 8.Bxb4 cxb4 9.a3 Qc7 10.Nbd2 bxa3 11.Rxa3 d6 12.Qa1 Nc6 13.Rc1 a5 14.e4 e5 15.d5 Nb4 16.Ne1 Nd7 17.Nc2 Nc5 18.Qb1 Qe7 19.Nxb4 axb4 20.Rxa8 Rxa8 21.Qc2 Bc8 22.Rf1 Bd7 23.f4 Qf6 24.Kh1 h5 25.f5 Ra5 26.Qd1 Qh6 27.Qe2 b5 28.b3 Ra2 29.Rd1 Nxb3 30.cxb5 Rxd2 31.Rxd2 Qxd2 32.Qc4 Qe1+ 33.Bf1 Nd2 34.Qe2 Qxf1+ 0-1

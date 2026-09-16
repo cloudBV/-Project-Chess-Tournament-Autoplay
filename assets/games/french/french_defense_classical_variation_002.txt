@@ -1,0 +1,14 @@
+[Event "Round 1: Christodoulou, Panagiotis - Tsakiris, Haralambos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/yuKG48g7"]
+[Date "2026.07.10"]
+[Round "1.52"]
+[White "Christodoulou, Panagiotis"]
+[Black "Tsakiris, Haralambos"]
+[Result "1-0"]
+[WhiteElo "2383"]
+[BlackElo "2159"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.a3 c6 7.Qd2 Qd8 8.f4 Be7 9.Nf3 Nd7 10.Bd3 dxe4 11.Nxe4 Nf6 12.O-O-O a5 13.g4 Qd5 14.c4 Nxe4 15.Qe3 Qd6 16.Bxe4 Bd7 17.Kb1 Qc7 18.Ne5 Bd6 19.c5 Be7 20.h4 Bf6 21.Nc4 Rd8 22.h5 Kf8 23.Rhg1 Be8 24.g5 Be7 25.Bf3 f6 26.gxf6 Bxf6 27.Ne5 b6 28.Rc1 bxc5 29.Rxc5 Qd6 30.Rd1 Bxe5 31.dxe5 Qc7 32.Rdc1 Qb6 33.Qc3 Ke7 34.Bxc6 Bxh5 35.Rb5 Bg6+ 36.Ka1 Qf2 37.Qxa5 Be8 38.Qc7+ Bd7 39.Qd6+ 1-0

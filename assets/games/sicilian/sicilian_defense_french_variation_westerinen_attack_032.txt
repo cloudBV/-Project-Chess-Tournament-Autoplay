@@ -1,0 +1,14 @@
+[Event "Round 9: Fogo Esquivel, Levi Kalani Alexander - Ashwath Kaushik"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-9/Py4tbrrf/lI3yYSNT"]
+[Date "2026.07.19"]
+[Round "9.14"]
+[White "Fogo Esquivel, Levi Kalani Alexander"]
+[Black "Ashwath Kaushik"]
+[Result "1-0"]
+[WhiteElo "2219"]
+[BlackElo "2122"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Nf6 5.Nc3 d5 6.exd5 exd5 7.d4 cxd4 8.Nxd4 Bb4 9.Qe2+ Qe7 10.Qxe7+ Kxe7 11.O-O-O Be6 12.Nxe6 fxe6 13.Bd3 Rad8 14.a3 Bc5 15.f3 Rhe8 16.Rhe1 Kf7 17.g4 h6 18.h4 Bf2 19.Rh1 Be3+ 20.Kb1 a6 21.Rde1 Bd2 22.Re2 Bxc3 23.Bxc3 d4 24.Bd2 Nd5 25.Kb2 e5 26.Rhe1 b5 27.f4 Nf6 28.fxe5 Nxg4 29.e6+ Kg8 30.Rg1 Nce5 31.Bf5 h5 32.Bf4 g6 33.Rxe5 gxf5 34.Rxf5 Rxe6 35.Rxh5 Rg6 36.Rg5 Kf7 37.Rxg6 1-0

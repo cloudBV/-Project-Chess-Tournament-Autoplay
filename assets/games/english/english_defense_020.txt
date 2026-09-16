@@ -1,0 +1,14 @@
+[Event "Round 5: Seibold, Hubert, Dr. - Himmel, Hansjoerg"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-5/Vg6Z0Oa2/pSNyZUAk"]
+[Date "2026.07.21"]
+[Round "5.12"]
+[White "Seibold, Hubert, Dr."]
+[Black "Himmel, Hansjoerg"]
+[Result "1-0"]
+[WhiteElo "2026"]
+[BlackElo "2210"]
+[ECO "A40"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.c4 b6 2.d4 e6 3.Nf3 Bb7 4.g3 Bb4+ 5.Bd2 Bxf3 6.exf3 Bxd2+ 7.Nxd2 d5 8.Bg2 Nc6 9.f4 Nge7 10.cxd5 exd5 11.Nf3 Qd6 12.O-O O-O 13.Rc1 a5 14.Ne5 Nd8 15.Qc2 Ra7 16.Rfe1 c6 17.a3 Rc7 18.Qd3 Ne6 19.Bh3 c5 20.Nxf7 Nxf4 21.gxf4 Kxf7 22.Be6+ Ke8 23.f5 c4 24.Qg3 Qxg3+ 25.fxg3 b5 26.g4 g6 27.Re5 gxf5 28.gxf5 Nc6 29.Rxd5 Ke7 30.Rc5 Kd6 31.Rxb5 Rg7+ 32.Kf2 Rg4 33.Rxc4 Rxd4 34.Rxd4+ Nxd4 35.Rd5+ 1-0

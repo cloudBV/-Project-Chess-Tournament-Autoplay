@@ -1,0 +1,15 @@
+[Event "Round 8: Munoz, Miguel - Sosa, Tomas"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-8/Juvl8T5x/Qh1T0K51"]
+[Date "2026.07.12"]
+[Round "8.4"]
+[White "Munoz, Miguel"]
+[Black "Sosa, Tomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2563"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+1.e4 c5 2.g3 d5 3.exd5 Qxd5 4.Nf3 Bg4 5.Be2 Nc6 6.h3 Bh5 7.Nc3 Qd7 8.g4 Bg6 9.Bb5 f6 10.d4 cxd4 11.Nxd4 e5 12.Nxc6 bxc6 13.Qxd7+ Kxd7 14.Ba4 Bc5 15.Bd2 Ne7 16.O-O-O Kc7 17.f4 Nd5 18.fxe5 fxe5 19.Rhe1 Rad8 20.Rxe5 Nxc3 21.Bxc3 Rxd1+ 22.Kxd1 Bd6 23.Ba5+ Kd7 24.Re2 Rf8 25.Bd2 Rf1+ 26.Re1 Rf3 27.Re3 Rf1+ 28.Ke2 Rh1 29.Rf3 Rh2+ 30.Kd1 Be4 31.Rf7+ Ke8 32.Rf1 Bg3 33.Bf4 Bxf4 34.Rxf4 Rh1+ 35.Ke2 Rh2+ 36.Ke3 Bxc2 37.Bxc6+ Ke7 38.Rc4 Rxh3+ 39.Kf4 Bb1 40.Ra4 Kd6 41.Bg2 Rd3 42.Be4 Rd1 43.Bxb1 Rxb1 44.b3 Rf1+ 45.Kg5 Rf7 46.Ra5 Kc6 47.b4 Rb7 48.a3 Rd7 49.Kh4 Kb6 50.Re5 Rf7 51.a4 Kc6 52.Rc5+ Kb6 53.Rc8 Rf4 54.Rg8 Rxb4 55.Rxg7 Rxa4 56.Rxh7 Ra1 57.Rf7 a5 1/2-1/2

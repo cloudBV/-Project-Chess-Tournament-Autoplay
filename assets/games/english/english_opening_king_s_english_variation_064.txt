@@ -1,0 +1,15 @@
+[Event "Round 9: Duong Vu Anh - Hong, Mingren"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-9/L65Z31Eb/L6oAh9t6"]
+[Date "2026.07.24"]
+[Round "9.6"]
+[White "Duong Vu Anh"]
+[Black "Hong, Mingren"]
+[Result "1-0"]
+[WhiteElo "2354"]
+[BlackElo "2344"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.g3 Nf6 5.d4 e4 6.Nh4 Be7 7.Bg5 O-O 8.e3 c6 9.Be2 h6 10.Bxf6 Bxf6 11.Ng6 Re8 12.Bh5 Qc7 13.g4 fxg4 14.Nf4 Re7 15.Ng6 Re8 16.Nf4 Re7 17.Bxg4 Na6 18.a3 Bd7 19.Rg1 Rae8 20.Nfd5 cxd5 21.Nxd5 Bxg4 22.Rxg4 Qxc4 23.Nxf6+ Kh8 24.Nxe8 Rxe8 25.Rc1 Qd5 26.Rg2 Nc7 27.Rxc7 1-0

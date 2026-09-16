@@ -1,0 +1,14 @@
+[Event "Round 4: Tsirilman, Guy - Kracht, Raphael"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/6vl5dadO"]
+[Date "2026.07.06"]
+[Round "4.25"]
+[White "Tsirilman, Guy"]
+[Black "Kracht, Raphael"]
+[Result "1/2-1/2"]
+[WhiteElo "2213"]
+[BlackElo "2329"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 Nf6 3.Bg2 Nc6 4.O-O e5 5.d3 g6 6.a4 Bg7 7.e4 O-O 8.Na3 h6 9.Be3 b6 10.Nc4 Qc7 11.Nh4 d6 12.h3 Be6 13.f4 exf4 14.gxf4 Bxc4 15.dxc4 Rae8 16.c3 Na5 17.Qd3 Qe7 18.Rae1 Nh5 19.Nf3 Ng3 20.Nd2 Nxf1 21.Rxf1 Nb7 22.Qd5 Nd8 23.Bf2 Ne6 24.Bg3 Nc7 25.Qd3 f5 26.Kh2 Kh8 27.exf5 gxf5 28.Nf3 Bf6 29.Qxf5 Bh4 30.Nxh4 Rxf5 31.Ng6+ Kg8 32.Nxe7+ Rxe7 33.Bf3 h5 34.Bh4 Re3 35.Bg5 Ne6 36.h4 Nxg5 37.hxg5 h4 38.Bg4 Rf8 39.f5 Rg3 40.Rf4 Kg7 41.Re4 Rf7 42.Rf4 a6 43.Bh5 Rxg5 44.Bxf7 Kxf7 45.Rxh4 Rxf5 46.Kg3 Ke6 47.Rh7 Rf1 48.Rb7 Ra1 49.b3 Rc1 50.Rxb6 Ke5 51.Kf3 a5 52.Ke3 Rxc3+ 53.Kd2 Rh3 54.Kc2 d5 55.cxd5 Kxd5 56.Rb5 Kd4 57.Rxa5 Rh2+ 58.Kb1 c4 59.bxc4 Kxc4 1/2-1/2

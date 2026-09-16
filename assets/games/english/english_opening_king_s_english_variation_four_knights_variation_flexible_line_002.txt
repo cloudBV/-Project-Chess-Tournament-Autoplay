@@ -1,0 +1,15 @@
+[Event "Round 3: Dunnington, Angus J - Giulian, Philip M"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-3/M8Ejnb0x/FkoGdknR"]
+[Date "2026.07.04"]
+[Round "3.3"]
+[White "Dunnington, Angus J"]
+[Black "Giulian, Philip M"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2003"]
+[ECO "A28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Flexible Line"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d3 h6 5.g3 d5 6.cxd5 Nxd5 7.Bg2 Bc5 8.Nxd5 Qxd5 9.O-O O-O 10.b3 Bg4 11.Bb2 Qe6 12.Rc1 Bb6 13.Rxc6 bxc6 14.Nxe5 Bh3 15.Bxh3 Qxh3 16.Nxc6 f5 17.e3 Rae8 18.Qf3 Kh7 19.Be5 Re6 20.d4 h5 21.b4 h4 22.a4 Rh6 23.Re1 hxg3 24.hxg3 1-0

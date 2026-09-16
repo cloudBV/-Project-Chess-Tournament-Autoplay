@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.06.27"]
+[Round "4.1"]
+[White "Sokolowski, Ryszard"]
+[Black "Szczesniak, Konrad"]
+[Result "0-1"]
+[WhiteElo "2051"]
+[BlackElo "2077"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 e5 7.d5 Nbd7 8.g4 Nc5 9.f3 c6 10.b4 Na6 11.a3 c5 12.b5 Nb8 13.h4 h5 14.Nh3 a6 15.Nf2 Nbd7 16.a4 Re8 17.Rg1 Nf8 18.Qd2 Qa5 19.Rc1 Bd7 20.Nfd1 Kh8 21.Bh6 N8h7 22.Bxg7+ Kxg7 23.g5 Ng8 24.f4 exf4 25.Qxf4 Re5 26.Nf2 f5 27.gxf6+ Ngxf6 28.Kd1 Rae8 29.Qg3 Nf8 30.Bf3 Qb4 31.Nd3 Qxc4 32.Nxe5 Rxe5 33.Be2 Qd4+ 34.Kc2 Nxe4 35.Nxe4 Qxa4+ 36.Qb3 Qxe4+ 37.Bd3 Qxh4 38.Rg2 axb5 39.Qc3 c4 40.Bf1 Bf5+ 41.Kb2 Nd7 42.Ka3 Qd8 43.Re1 Qa8+ 44.Kb2 Nc5 45.Kc1 b4 0-1

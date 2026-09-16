@@ -1,0 +1,14 @@
+[Event "Round 6: Jun, Rudolf - Svadlenka, Dominik"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-6/qShzz9eM/F1U8rwZN"]
+[Date "2026.07.02"]
+[Round "6.3"]
+[White "Jun, Rudolf"]
+[Black "Svadlenka, Dominik"]
+[Result "1-0"]
+[WhiteElo "2303"]
+[BlackElo "2157"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d3 e5 4.Bg2 Ngf6 5.O-O Bd6 6.c4 c6 7.Nc3 d4 8.Nb1 O-O 9.b3 Re8 10.Nbd2 h6 11.a3 a5 12.Bb2 c5 13.e4 Nf8 14.h3 g6 15.a4 Ne6 16.Nb1 Ng5 17.Kh2 Nxf3+ 18.Bxf3 Kh7 19.Bc1 Ng8 20.Bg2 Qe7 21.Nd2 Qc7 22.Re1 Rb8 23.Nf3 Be6 24.Bd2 Re7 25.Nh4 Rbe8 26.Rf1 Bc8 27.Kg1 f6 28.f4 Rf7 29.f5 g5 30.Ng6 Kg7 31.h4 Bf8 32.Qh5 Qd8 33.Kf2 Ne7 34.hxg5 fxg5 35.Bxg5 Nxf5 36.Bxd8 1-0

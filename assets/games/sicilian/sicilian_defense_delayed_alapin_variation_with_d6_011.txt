@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.2"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Warchol, Kamil"]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2277"]
+[ECO "B50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.h3 Nc6 5.Bd3 e5 6.Bc2 d5 7.exd5 Qxd5 8.Qe2 Be6 9.d3 h6 10.Na3 Be7 11.O-O Rd8 12.Re1 Bf5 13.Nxe5 Nxe5 14.Qxe5 Qxe5 15.Rxe5 Bxd3 16.Bxd3 Rxd3 17.Be3 Rd5 18.Bf4 Rxe5 19.Bxe5 Kd7 20.Nc4 Rd8 21.a4 b6 22.Kf1 Kc6 23.Bg3 Nd7 24.Re1 Bf6 25.Rd1 Nf8 26.Ne5+ Kb7 27.Rxd8 Bxd8 28.Nxf7 Bf6 29.Ke2 Kc6 30.Kd3 Kd5 31.Nd6 Nd7 32.Nc4 a6 33.Ne3+ Kc6 34.Ke4 b5 35.axb5+ axb5 36.Ng4 Bd8 37.Ne5+ Nxe5 38.Bxe5 g6 39.b3 Be7 40.c4 bxc4 41.bxc4 Bf8 42.g4 Be7 43.f4 Bd8 44.Bg7 h5 45.Bf8 hxg4 46.hxg4 Bb6 47.f5 gxf5+ 48.Kxf5 Kd7 49.g5 Ke8 50.Bd6 Kf7 51.g6+ Kg8 52.Be5 Ba5 53.Ke6 Be1 54.Kf5 Bf2 55.Bc3 Be3 56.Ba5 Bf2 57.Bd8 Kg7 58.Bf6+ Kg8 59.Bg5 Kg7 60.Bf4 Bg1 61.Be5+ Kg8 62.Bd6 Kg7 63.Be5+ Kg8 64.Ke6 Bf2 65.Kd5 Be3 66.Bf6 Bf2 67.Ke6 Be3 68.Kf5 Bf2 69.Be5 Be3 70.Bf4 Bf2 71.Ke4 Kg7 72.Kf5 Kg8 73.Ke4 Kg7 74.Kf5 Kg8 75.Ke4 Kg7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.10"]
+[Round "4.9"]
+[White "Papp, Gellert"]
+[Black "Csati, Oliver"]
+[Result "1-0"]
+[WhiteElo "2239"]
+[BlackElo "2150"]
+[ECO "B51"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 b5 6.c4 b4 7.Bc2 e5 8.a3 Rb8 9.axb4 Rxb4 10.Nc3 Ngf6 11.Qe2 Be7 12.Nh4 O-O 13.Nf5 Nb8 14.Ba4 Bxf5 15.exf5 Qc8 16.g4 h6 17.d3 Nc6 18.Bxc6 Qxc6 19.f4 Re8 20.g5 Nh7 21.Nd5 Rb3 22.Rf3 h5 23.Rh3 g6 24.fxg6 fxg6 25.f5 Bxg5 26.fxg6 1-0

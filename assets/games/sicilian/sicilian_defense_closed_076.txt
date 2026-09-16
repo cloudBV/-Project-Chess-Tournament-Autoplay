@@ -1,0 +1,15 @@
+[Event "Round 6: Gazik, Viktor - Ponizil, Cyril"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/TbBAyH7t"]
+[Date "2026.07.19"]
+[Round "6.1"]
+[White "Gazik, Viktor"]
+[Black "Ponizil, Cyril"]
+[Result "1-0"]
+[WhiteElo "2544"]
+[BlackElo "2452"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 a6 4.g3 Nc6 5.Bg2 Qc7 6.O-O Nge7 7.d3 Ng6 8.h4 Nge5 9.Nh2 d6 10.f4 Nd7 11.a4 h5 12.f5 Nf6 13.fxe6 Bxe6 14.Nd5 Bxd5 15.exd5 Ne5 16.c3 Be7 17.Bg5 Kf8 18.Qe2 Re8 19.Rae1 Qd7 20.b3 Bd8 21.Qd1 Kg8 22.Kh1 Neg4 23.Rxe8+ Qxe8 24.Nxg4 Nxg4 25.Bf4 Qd7 26.d4 cxd4 27.Qxd4 Bf6 28.Qb4 Ne5 29.c4 g6 30.c5 dxc5 31.Qxc5 Kg7 32.Qb6 Re8 33.d6 Nc6 34.Qc7 Qe6 35.Qxb7 Nb8 36.b4 Rd8 37.a5 Nd7 38.Qxa6 Rb8 39.b5 Ne5 40.b6 Qxd6 41.Qb5 Qe6 42.b7 1-0

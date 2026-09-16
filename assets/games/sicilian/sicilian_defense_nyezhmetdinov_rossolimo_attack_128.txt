@@ -1,0 +1,14 @@
+[Event "Round 9: Melnikov, Fedor - Mohamed Anees M"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/a7w7bCmV"]
+[Date "2026.07.22"]
+[Round "9.19"]
+[White "Melnikov, Fedor"]
+[Black "Mohamed Anees M"]
+[Result "1/2-1/2"]
+[WhiteElo "2294"]
+[BlackElo "2415"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 cxd4 5.O-O a6 6.Bc4 e6 7.d3 Bc5 8.Qg4 Qf6 9.Qg3 Ne7 10.Bf4 Nc6 11.Nd2 O-O 12.Nf3 Qg6 13.Qh4 Be7 14.Qg3 Qxg3 15.Bxg3 d6 16.a4 Bd7 17.Nd2 Rfc8 18.a5 Bd8 19.b4 Bc7 20.Rfb1 Ne5 21.Bxe5 dxe5 22.b5 Bd8 23.bxa6 bxa6 24.g3 Kf8 25.Kg2 Bc7 26.Kf3 h5 27.Ke2 Ke7 28.h4 Bc6 29.Bb3 Rab8 30.Bc4 Ra8 31.Nb3 Bd6 32.Nd2 Bc7 33.Bb3 Rcb8 34.Nc4 Rb4 35.Rf1 f5 36.f3 Rf8 37.Kd2 Rf6 38.Ke2 Rg6 39.Rg1 Rf6 40.Nd2 Rf8 41.Bc4 Ra8 42.Rgc1 Ra4 43.Rxa4 Bxa4 44.Ra1 Bd7 45.Nf1 Rb8 46.Bxa6 Ra8 47.Bc4 Rxa5 48.Rxa5 Bxa5 49.Nh2 Be8 50.Bb3 Kd6 51.f4 exf4 52.gxf4 fxe4 53.dxe4 e5 54.Nf3 exf4 55.e5+ Ke7 56.Nxd4 Bc7 57.Nf5+ Kf8 58.e6 Bb5+ 59.c4 Bc6 60.c5 Be5 61.Kd3 f3 62.Ke3 g6 63.Nd6 Bg3 64.Ne4 Bxh4 65.Kxf3 Be7 66.Kf4 Bxe4 67.Kxe4 Bxc5 68.Bd1 Ke7 69.Bxh5 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/S5wmLorB"]
+[Date "2026.07.01"]
+[Round "5.16"]
+[White "Zajac, Szymon"]
+[Black "Bartodziej, Bartosz"]
+[Result "1-0"]
+[WhiteElo "2117"]
+[BlackElo "2311"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 g6 6.h3 Bg7 7.Be3 Nd7 8.Nc3 e5 9.Qd2 h6 10.Nh2 b6 11.a3 Nf8 12.b4 Ne6 13.bxc5 f5 14.f3 f4 15.Bf2 O-O 16.cxb6 axb6 17.O-O b5 18.Ne2 Rf7 19.Qc3 Bb7 20.a4 Rc8 21.Rfb1 h5 22.Ra2 bxa4 23.Rxa4 c5 24.Qc4 Bc6 25.Ra6 Qd7 26.Rba1 Bf8 27.Ra7 Qd6 28.Nc3 Rb8 29.Nf1 Rb4 30.Qa2 Rxa7 31.Qa3 Ra6 32.Qxa6 Nd4 33.Qa7 Qe6 34.Nd2 Qc8 35.Qa2+ 1-0

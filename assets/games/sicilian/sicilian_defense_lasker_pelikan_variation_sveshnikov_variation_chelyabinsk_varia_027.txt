@@ -1,0 +1,14 @@
+[Event "Round 5: Hovhannisyan, Robert - Gorshtein, Ido"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/ksRzzr2D"]
+[Date "2026.07.22"]
+[Round "5.2"]
+[White "Hovhannisyan, Robert"]
+[Black "Gorshtein, Ido"]
+[Result "1/2-1/2"]
+[WhiteElo "2628"]
+[BlackElo "2546"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Rb8 13.a3 O-O 14.h4 Bh6 15.g4 f6 16.Ncb4 Bb7 17.Bd3 Kh8 18.Nxc6 Bxc6 19.Bc2 Bxd5 20.Qxd5 Bf4 21.Bb3 Qd7 22.Qe6 Qb7 23.Qd5 Qd7 24.Qd1 h5 25.Rg1 hxg4 26.Qxg4 Qxg4 27.Rxg4 f5 28.exf5 Rxf5 29.Ke2 e4 30.Rag1 Rb7 31.Be6 Rf6 32.Bc8 Ra7 33.Rg6 a5 34.Rxf6 gxf6 35.Bf5 Re7 36.Rg6 Bc1 37.b4 axb4 38.axb4 Bb2 39.Rxf6 Bxc3 40.Rxd6 Re5 41.Bg6 Bxb4 42.Rd7 Be7 43.h5 Bg5 44.Rd4 Kg7 45.Bxe4 Be7 46.f4 Bc5 47.fxe5 Bxd4 48.e6 Bf6 49.Kf3 b4 50.Bd5 b3 51.Bxb3 Kh8 52.Kg4 Be7 53.h6 Bd6 54.Kf5 Bc5 55.Kf6 Bd6 56.Bc2 Bc5 57.e7 Bxe7+ 58.Kxe7 Kg8 59.Bg6 Kh8 60.Kf7 1/2-1/2

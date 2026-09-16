@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "8.1"]
+[White "Sowinski, Pawel"]
+[Black "Balint, Peter"]
+[Result "0-1"]
+[WhiteElo "2432"]
+[BlackElo "2308"]
+[ECO "B50"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 e6 5.O-O Be7 6.Nbd2 O-O 7.Re1 Nc6 8.a4 a6 9.c3 Rb8 10.Bb3 b5 11.axb5 axb5 12.d4 e5 13.d5 Na5 14.Bc2 c4 15.Nf1 Nd7 16.Be3 g6 17.Ng3 Nb7 18.Qd2 Nbc5 19.Ra2 Qc7 20.Rea1 Nb6 21.h4 Nba4 22.h5 Bg4 23.Nh2 Bd7 24.Rf1 Nb3 25.Qd1 b4 26.Ne2 Qd8 27.Nf3 f5 28.exf5 gxf5 29.cxb4 Rxb4 30.Nc3 Nxc3 31.bxc3 Rb7 32.Nxe5 dxe5 33.d6 Bc6 34.Ra6 Qc8 35.dxe7 Rxe7 36.Rb6 f4 37.Bxb3 cxb3 38.Bc5 f3 39.Bxe7 Qg4 40.Qxb3+ Rf7 41.Rb8+ Kg7 42.g3 Qh3 43.h6+ Kxh6 44.Bg5+ Kxg5 45.Rg8+ Kf6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 3: White, Stuart A - Lumachi, Gabriele"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-3/AI650Rh4/rs52dnoX"]
+[Date "2026.07.18"]
+[Round "3.2"]
+[White "White, Stuart A"]
+[Black "Lumachi, Gabriele"]
+[Result "1/2-1/2"]
+[WhiteElo "2091"]
+[BlackElo "2465"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Nc3 Qc7 7.O-O Nc6 8.Be3 Bb4 9.Na4 Rb8 10.c4 Be7 11.Nc3 O-O 12.Rc1 Bb4 13.f3 Re8 14.a3 Bf8 15.b4 d6 16.Kh1 h5 17.Bg1 h4 18.Qe1 h3 19.g4 g6 20.Qg3 Bg7 21.Rfd1 Ne5 22.Qxh3 Bd7 23.Qg3 Nxc4 24.Bxc4 Qxc4 25.Nce2 Qa2 26.Ra1 Qb2 27.Be3 e5 28.Rdb1 exd4 29.Rxb2 dxe3 30.Rbb1 Bc6 31.Nc3 Nxg4 32.Qxg4 Bxc3 33.Ra2 d5 34.Rc2 Bd2 35.Kg1 Ba4 36.Ra2 d4 37.Qg2 Bc3 38.Qg5 Rbd8 39.Kg2 Rc8 40.h4 Bb5 41.h5 Re6 42.a4 Bd3 43.Rc1 e2 44.Kf2 e1=Q+ 45.Rxe1 Bxe1+ 46.Kxe1 b5 47.axb5 Bxb5 48.Rh2 d3 49.Qe3 Rec6 50.Rd2 Rc1+ 51.Kf2 R1c2 52.Kg3 gxh5 53.Qg5+ Kf8 54.Qh6+ Ke7 55.Qg5+ Kf8 56.Qh6+ Ke8 57.Qh8+ Kd7 58.Qd4+ Kc6 59.Rd1 Rc7 60.e5 Kb7 61.Qd5+ Ka7 62.Qd4+ Kb7 1/2-1/2

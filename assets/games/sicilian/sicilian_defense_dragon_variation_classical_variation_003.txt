@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.2"]
+[White "Raczek, Krzysztof"]
+[Black "Zareba, Piotr"]
+[Result "1-0"]
+[WhiteElo "2458"]
+[BlackElo "2228"]
+[ECO "B73"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 g6 7.Be3 Bg7 8.O-O O-O 9.h3 d5 10.exd5 Nxd5 11.Nxd5 Nxd4 12.Bxd4 Qxd5 13.Bxg7 Qxd1 14.Raxd1 Kxg7 15.Bf3 Be6 16.b3 Rab8 17.c4 b6 18.Rd4 Rfc8 19.Rfd1 b5 20.cxb5 Rxb5 21.Ra4 a5 22.Rd2 h5 23.h4 Rc3 24.Be2 Re5 25.f3 Kf6 26.Kf2 Rec5 27.Bf1 Rc1 28.Be2 R1c3 29.Rad4 Kg7 30.R4d3 Rc1 31.Rd4 Bf5 32.Bc4 a4 33.g4 hxg4 34.fxg4 Bc8 35.g5 Rf5+ 36.Ke3 axb3 37.axb3 Bb7 38.Rf2 Re1+ 39.Kd2 Rd1+ 40.Kxd1 Rxf2 41.Rd7 Bf3+ 42.Ke1 Rh2 43.Rxe7 Rxh4 44.Rxf7+ Kh8 45.Rxf3 1-0

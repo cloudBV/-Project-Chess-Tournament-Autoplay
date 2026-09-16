@@ -1,0 +1,14 @@
+[Event "Round 5: Vaz, Ethan - Ioannidis, Evgenios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-5/9Q1lRTRH/jqmA6BKy"]
+[Date "2026.07.17"]
+[Round "5.2"]
+[White "Vaz, Ethan"]
+[Black "Ioannidis, Evgenios"]
+[Result "1/2-1/2"]
+[WhiteElo "2529"]
+[BlackElo "2473"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.exd5 Bb4 7.Bc4 O-O 8.Ne2 exd5 9.Bxd5 Rd8 10.O-O Bxc3 11.Nxc3 Nc6 12.Bxc6 bxc6 13.Ne4 Qxd4 14.c3 Qxd1 15.Rfxd1 Bf5 16.Ng3 Be6 17.b3 a5 18.Ne4 Rxd1+ 19.Rxd1 a4 20.Nc5 axb3 21.axb3 Ra5 22.Nxe6 fxe6 23.g3 Rb5 24.b4 c5 25.Rd7 cxb4 26.cxb4 c6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.27"]
+[White "Cerveny, Martin"]
+[Black "Ligotnis, Maksims"]
+[Result "1/2-1/2"]
+[WhiteElo "2402"]
+[BlackElo "2053"]
+[ECO "A38"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Full Symmetry Line"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.Ne1 e5 8.Nc2 d6 9.d3 Re8 10.a3 a5 11.Rb1 a4 12.Ne3 Nd4 13.Re1 Qd7 14.Ned5 Nxd5 15.Nxd5 Ra6 16.e3 Nb3 17.Bd2 b6 18.Bc3 Bb7 19.h4 h5 20.Kh2 Kh7 21.f4 f5 22.Rf1 Bxd5 23.Bxd5 exf4 24.exf4 Ra7 25.Re1 Rxe1 26.Qxe1 Qd8 27.Qf2 Re7 28.Re1 Bd4 29.Qf1 Qe8 30.Rxe7+ Qxe7 31.Bg2 Qe3 32.Qd1 Bxc3 33.bxc3 Nc1 34.Bf1 Kg7 35.Kh3 Nb3 1/2-1/2

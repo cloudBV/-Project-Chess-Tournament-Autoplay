@@ -1,0 +1,15 @@
+[Event "Round 6: Gucer, Gunes - Gunduz, Umut Erdem"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/v7BBoaeG"]
+[Date "2026.07.02"]
+[Round "6.29"]
+[White "Gucer, Gunes"]
+[Black "Gunduz, Umut Erdem"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2206"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Nf6 5.e5 Ng4 6.Re1 Bg7 7.Bxc6 dxc6 8.h3 Nh6 9.d3 Nf5 10.Nc3 Nd4 11.Ne4 b6 12.Nf6+ Kf8 13.Ne4 h6 14.Bf4 Be6 15.a4 a5 16.Nxd4 Qxd4 17.Bd2 Kg8 18.Bc3 Qd5 19.Nd2 Kh7 20.Nc4 Qd8 21.b3 Qc7 22.f4 Rhe8 23.g4 f5 24.Ne3 fxg4 25.hxg4 Rf8 26.Rf1 g5 27.f5 Bxe5 28.Bxe5 Qxe5 29.Qf3 Bg8 30.Rae1 Rf6 31.Nc4 Qc7 32.Re3 Re8 33.Rfe1 e6 34.Ne5 exf5 35.Nd7 Qxd7 36.Rxe8 Qd4+ 37.Qe3 Qxg4+ 38.Kf1 Bd5 39.Qf2 f4 40.c4 Be6 41.d4 cxd4 42.Qxd4 Qf3+ 43.Kg1 Qg3+ 44.Kf1 Bh3+ 45.Ke2 f3+ 46.Kd1 Rd6 47.R1e7+ Kg6 48.Rg8+ Kh5 49.Rxg5+ hxg5 50.Rh7+ Kg6 51.Rg7+ Kh6 0-1

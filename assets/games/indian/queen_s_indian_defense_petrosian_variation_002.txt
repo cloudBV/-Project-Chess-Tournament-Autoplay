@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.12"]
+[Round "2.10"]
+[White "GinkgoHCE 5.71"]
+[Black "c4ke 3.0"]
+[Result "1/2-1/2"]
+[WhiteElo "3344"]
+[BlackElo "3250"]
+[ECO "E12"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Petrosian Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 c5 5.d5 Ba6 6.Qc2 exd5 7.cxd5 d6 8.Nc3 Be7 9.e4 Bxf1 10.Kxf1 O-O 11.g3 Nbd7 12.Kg2 Re8 13.a4 a6 14.Re1 Bf8 15.Qe2 Qc8 16.Bf4 Rb8 17.Nd2 h6 18.Be3 b5 19.f3 Nb6 20.axb5 axb5 21.b4 cxb4 22.Na2 b3 23.Nxb3 Nc4 24.Ba7 Rb7 25.Nb4 Nh7 26.g4 h5 27.h3 g6 28.Bd4 hxg4 29.hxg4 f5 30.gxf5 gxf5 31.Rg1 Ne5 32.Kf1+ Rg7 33.Bxe5 dxe5 34.Rxg7+ Bxg7 35.Rc1 Qd8 36.Qg2 fxe4 37.fxe4 Qh4 38.Ke2 Nf6 39.Nd2 Nh5 40.Nd3 Ng3+ 41.Kd1 Qg4+ 42.Kc2 Rc8+ 43.Kb2 Rxc1 44.Nxc1 Qf4 45.Ncb3 Kf7 46.Qh3 Nxe4 47.Nxe4 Qxe4 48.Qe6+ Kf8 49.Qc8+ Kf7 50.Qd7+ Kg6 51.Qxb5 1/2-1/2

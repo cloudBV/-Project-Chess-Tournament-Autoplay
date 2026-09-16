@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.07.06"]
+[Round "9.2"]
+[White "MOJZIS, Jaroslav"]
+[Black "Szczesniak, Konrad"]
+[Result "*"]
+[WhiteElo "2031"]
+[BlackElo "2077"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Carlsbad Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.g3 d6 6.Bg2 Nc6 7.d5 Na5 8.Qd3 c5 9.O-O a6 10.Rb1 b5 11.cxb5 c4 12.Qc2 axb5 13.e4 b4 14.Ne2 Nxe4 15.Nfd4 Nc5 16.Bd2 b3 17.axb3 cxb3 18.Qd1 Ba6 19.Bc3 Na4 20.Re1 Nxc3 21.Nxc3 Qb6 22.Nde2 Nc4 23.Nf4 Ra7 24.h4 Bd4 25.Re2 Na3 26.bxa3 Bxe2 27.Nfxe2 Bxf2+ 28.Kh2 Rxa3 29.Rb2 Rb8 30.Qd3 Ra1 31.Nd1 Bc5 32.Ndc3 Ba3 33.Rb1 b2 34.Nd4 Bc5 35.Ndb5 Rxb1 36.Qxb1 Bd4 37.Ne2 Be5 38.Nbc3 Qb3 39.Ne4 Qe3 40.Ng5 Qxe2 41.Kh3 Qe3 42.Bf3 h6 43.Nxf7 *

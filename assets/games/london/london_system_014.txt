@@ -1,0 +1,14 @@
+[Event "Round 4: Klaska, Philipp Leon - Uphoff, Lennart"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/TXPhtfBQ"]
+[Date "2026.07.21"]
+[Round "4.8"]
+[White "Klaska, Philipp Leon"]
+[Black "Uphoff, Lennart"]
+[Result "1-0"]
+[WhiteElo "2315"]
+[BlackElo "2288"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.Nbd2 O-O 5.e3 d6 6.h3 c5 7.Be2 Nbd7 8.O-O b6 9.a4 a6 10.c4 Bb7 11.Qc2 cxd4 12.exd4 Rc8 13.a5 Nd5 14.Bg3 Nb4 15.Qd1 bxa5 16.Rc1 Qb6 17.Qa4 Nc6 18.Nb3 Qb4 19.Qxb4 Nxb4 20.Rfd1 a4 21.Nbd2 Nc6 22.Nb1 Na5 23.Nbd2 h6 24.Rc2 Nb6 25.Rdc1 Bxf3 26.Nxf3 Nb3 27.Rd1 Rc6 28.c5 dxc5 29.d5 Rcc8 30.Bxa6 Rcd8 31.Bb5 Nd4 32.Nxd4 Bxd4 33.Bc7 Rxd5 34.Bxb6 Rb8 35.Bc4 Bxf2+ 36.Kxf2 Rxd1 37.Bxc5 Rd7 38.Ba3 Kg7 39.Be2 e6 40.Rc4 Rd2 41.Bb4 Rxb2 42.Bc3+ Kf8 43.Bxb2 Rxb2 44.Rxa4 Rb7 45.Ke3 Rd7 46.Bb5 Rb7 47.Ra5 Ke7 48.Kd4 Rc7 49.Ra6 Rc2 50.Bc6 Kf6 51.Be4 Rc7 52.Rb6 Rd7+ 53.Kc5 Ke5 54.Bc6 Re7 55.Rb2 f5 56.Rb8 Ra7 57.Rh8 h5 58.Rg8 Kf6 59.Kd6 Ra6 60.Re8 e5 61.Re6+ Kg5 62.Kxe5 h4 63.Be8 Rxe6+ 64.Kxe6 Kf4 65.Bxg6 Kg3 66.Kxf5 Kxg2 67.Kg4 1-0

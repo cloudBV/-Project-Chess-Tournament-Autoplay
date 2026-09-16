@@ -1,0 +1,15 @@
+[Event "Round 2: Langreck, John - Belenkaya, Dina"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/Gyh8qK1x"]
+[Date "2026.07.03"]
+[Round "2.17"]
+[White "Langreck, John"]
+[Black "Belenkaya, Dina"]
+[Result "0-1"]
+[WhiteElo "2001"]
+[BlackElo "2168"]
+[ECO "B14"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3 O-O 9.O-O h6 10.Re1 Nc6 11.a3 Bf6 12.Bc2 Be7 13.Qd3 f5 14.Nxd5 exd5 15.Bf4 Bf6 16.Ne5 Ne7 17.Rad1 Bd7 18.Bd2 Re8 19.Re2 a6 20.a4 Nc6 21.Nxc6 bxc6 22.Rde1 Rxe2 23.Rxe2 Qb6 24.Bc3 Kf7 25.h3 g6 26.Qd2 Bg5 27.Qd3 Re8 28.Rxe8 Bxe8 29.g4 Bd7 30.Qf3 Qd8 31.gxf5 gxf5 32.Bxf5 Kg7 33.Bxd7 Qxd7 34.Qg3 Kf7 35.Kg2 Bf6 36.Qg4 Qe7 37.Bd2 Qa7 38.Be3 Qb7 39.Bxh6 Qxb2 0-1

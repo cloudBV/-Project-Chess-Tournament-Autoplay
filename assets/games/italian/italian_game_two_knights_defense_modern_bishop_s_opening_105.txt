@@ -1,0 +1,15 @@
+[Event "Round 1: Begmuratov, Khumoyun - Bardyk, Artem"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/Dyqvlhp2"]
+[Date "2026.07.21"]
+[Round "1.16"]
+[White "Begmuratov, Khumoyun"]
+[Black "Bardyk, Artem"]
+[Result "1-0"]
+[WhiteElo "2514"]
+[BlackElo "2383"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a3 Bg4 8.h3 Bxf3 9.Qxf3 Nd4 10.Qd1 c6 11.Ba2 Ne6 12.Ne2 d5 13.Ng3 Bc5 14.b4 Bd4 15.Rb1 Qc7 16.Qf3 Rad8 17.Nf5 dxe4 18.dxe4 Ne8 19.h4 Nd6 20.h5 h6 21.Qg4 Nxf5 22.exf5 Ng5 23.Bxg5 hxg5 24.Qxg5 Rd6 25.c3 Bb6 26.Rbd1 Rfd8 27.h6 Rxh6 28.Rxd8+ Qxd8 29.Qxd8+ Bxd8 30.Rd1 Be7 31.Rd7 Kf8 32.Rxb7 Rd6 33.Rxa7 e4 34.Kf1 Bf6 35.Ke2 Rd3 36.Bb1 Rxc3 37.Bxe4 Bd4 38.Rd7 Bb6 39.Rb7 Bd4 40.a4 c5 41.b5 Ra3 42.Bd5 Rxa4 43.b6 Rb4 44.Rxf7+ Ke8 45.b7 Be5 46.f4 Rxf4 47.Rxg7 Rxf5 48.Rh7 Rf6 49.g4 Rb6 50.g5 Rb2+ 51.Kf3 Kf8 52.Rf7+ Ke8 53.g6 1-0

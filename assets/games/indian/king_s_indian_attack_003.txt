@@ -1,0 +1,15 @@
+[Event "Round 7: Kozak, Adam - Krivenko, Dion"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-7/cOUdY2gl/1AbBJPrT"]
+[Date "2026.07.01"]
+[Round "7.4"]
+[White "Kozak, Adam"]
+[Black "Krivenko, Dion"]
+[Result "1-0"]
+[WhiteElo "2531"]
+[BlackElo "2311"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.b3 Bg7 5.Bb2 O-O 6.c4 dxc4 7.bxc4 c5 8.O-O Nc6 9.d3 Rb8 10.Nbd2 b5 11.Ne5 Nxe5 12.Bxe5 Rb6 13.cxb5 Rxb5 14.Qa4 Qd7 15.Rac1 Bh6 16.Rfd1 Bb7 17.Bxf6 Bxg2 18.Kxg2 Bxd2 19.Bxe7 Qxe7 20.Rxd2 Rfb8 21.Qf4 Rb4 22.Qf3 h5 23.Rdc2 Rb2 24.h4 Kg7 25.Qd5 Qb7 26.Qxb7 R8xb7 27.Kf3 Kf6 28.Ke3 Ke6 29.Kd2 Kd6 30.Ke3 Ke6 31.Kf3 Kd6 32.e4 R7b5 33.Ke3 a5 34.a4 Rxc2 35.Rxc2 Rb4 36.Rc4 Rb3 37.f3 Ra3 38.g4 Ra1 39.gxh5 gxh5 40.d4 cxd4+ 41.Rxd4+ Ke6 42.Kf4 f6 43.Rc4 Ra3 44.Rc7 Rxa4 45.Rc6+ Ke7 46.Kf5 Ra3 47.f4 Rh3 48.Re6+ Kd7 49.Rxf6 Rxh4 50.Ra6 Rh1 51.Rxa5 h4 52.e5 h3 53.Ra7+ Kc6 54.Rh7 Kd5 55.Rd7+ Kc6 56.Rh7 Kd5 57.e6 h2 58.e7 Re1 59.Rxh2 Kd6 60.Rh7 Kd7 61.Kf6 Re6+ 62.Kf7 Rxe7+ 63.Kg6 Rxh7 64.Kxh7 Ke6 65.Kg6 Ke7 66.f5 1-0

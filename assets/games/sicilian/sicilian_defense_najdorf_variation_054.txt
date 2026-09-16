@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.5"]
+[White "Schouten, Mathias Lind"]
+[Black "Simonsen, David Mindestrommen"]
+[Result "0-1"]
+[WhiteElo "2294"]
+[BlackElo "2138"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 d6 4.Nxd4 Nf6 5.Nc3 a6 6.Qf3 g6 7.h3 Bg7 8.Be3 Bd7 9.g4 Nc6 10.O-O-O Rc8 11.g5 Nh5 12.Nd5 Nxd4 13.Bxd4 Bxd4 14.Rxd4 e5 15.Rd2 Be6 16.h4 Bxd5 17.Rxd5 Nf4 18.Rd2 b5 19.Bh3 Rc6 20.Rhd1 Qc7 21.Bg4 O-O 22.Kb1 a5 23.Qb3 Rb8 24.f3 Ra6 25.Rh1 a4 26.Qb4 a3 27.b3 Ra4 28.bxa4 bxa4 29.c3 Rxb4+ 30.cxb4 Qc3 31.Rhd1 Nd3 32.Bh3 Qxb4+ 33.Kc2 Nf4 34.Rb1 Qc5+ 0-1

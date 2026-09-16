@@ -1,0 +1,15 @@
+[Event "Round 4: Bagaturov, Giorgi - Dirikolu, Deniz"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-4/KzNSk6lm/NOsiElvu"]
+[Date "2026.07.22"]
+[Round "4.1"]
+[White "Bagaturov, Giorgi"]
+[Black "Dirikolu, Deniz"]
+[Result "1/2-1/2"]
+[WhiteElo "2297"]
+[BlackElo "2373"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 b5 6.e4 bxc4 7.Bxc4 exd5 8.exd5 Bxc3+ 9.bxc3 O-O 10.Ne2 d6 11.O-O Nbd7 12.Ng3 Nb6 13.Bd3 Nbxd5 14.Qc2 Be6 15.a3 c4 16.Bxc4 Rc8 17.Bxd5 Nxd5 18.Bd2 Qf6 19.Rac1 Qg6 20.Qa4 Qd3 21.Qd4 Qxd4+ 22.cxd4 Nb6 23.Bb4 Nc4 24.Ne4 Rfd8 25.Nd2 Nxd2 26.Bxd2 Rxc1 27.Rxc1 Rc8 28.Rb1 Bc4 29.Rb7 a6 30.Bb4 d5 31.Re7 Bb5 32.h4 Re8 33.Rxe8+ 1/2-1/2

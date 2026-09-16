@@ -1,0 +1,14 @@
+[Event "Round 4: Rahmanidis, Petros - Sidiropoulos, Nikolaos K."]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/RhqH3pD7"]
+[Date "2026.07.07"]
+[Round "4.43"]
+[White "Rahmanidis, Petros"]
+[Black "Sidiropoulos, Nikolaos K."]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2191"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 g6 6.Bf4 Bg7 7.Nf3 Nf6 8.O-O O-O 9.Nbd2 Bf5 10.Bxf5 gxf5 11.Ne1 Ne4 12.f3 Nxd2 13.Qxd2 Kh8 14.Nd3 e6 15.Kh1 Ne7 16.Bg5 Qe8 17.Bxe7 Qxe7 18.g4 fxg4 19.fxg4 f6 20.Rae1 e5 21.Nf4 Qd7 22.dxe5 fxe5 23.Qxd5 Qxg4 24.Ne6 Rxf1+ 25.Rxf1 Re8 26.Nd8 h6 27.Rg1 Qe2 28.Qxb7 Re7 29.Qg2 Qc4 30.b3 Qxc3 31.Ne6 e4 32.Nxg7 Rxg7 33.Qxg7+ Qxg7 34.Rxg7 Kxg7 35.Kg2 Kf6 36.Kf2 Ke5 37.Ke3 Kd5 38.a3 a6 39.h3 h5 40.h4 a5 41.b4 axb4 42.axb4 Kc4 43.Kxe4 Kxb4 44.Kf5 Kc5 45.Kg5 Kd6 46.Kxh5 Ke7 47.Kg6 Kf8 48.Kh7 Kf7 49.h5 Kf8 50.Kh8 Kf7 51.h6 Kf8 52.h7 Kf7 1/2-1/2

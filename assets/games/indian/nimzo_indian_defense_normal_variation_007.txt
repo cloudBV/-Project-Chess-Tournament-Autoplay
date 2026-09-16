@@ -1,0 +1,14 @@
+[Event "Round 9: Ollen, Martin - Cibo, Faris"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/rdtOSPpN"]
+[Date "2026.07.04"]
+[Round "9.4"]
+[White "Ollen, Martin"]
+[Black "Cibo, Faris"]
+[Result "1-0"]
+[WhiteElo "2184"]
+[BlackElo "2150"]
+[ECO "E47"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 Re8 6.Nf3 Bxc3+ 7.bxc3 d6 8.Qc2 e5 9.Ng5 h6 10.Ne4 Nbd7 11.Ng3 Nf8 12.O-O Qe7 13.f3 c5 14.Rb1 b6 15.d5 g6 16.Bd2 Bd7 17.a4 Kg7 18.Ra1 Rab8 19.Kf2 Qd8 20.Rh1 Ng8 21.e4 Nh7 22.Rhf1 h5 23.Kg1 h4 24.Ne2 g5 25.g3 hxg3 26.hxg3 f6 27.Kf2 Nh6 28.Rh1 Rh8 29.g4 Nf8 30.Ng3 Ng6 31.Be2 Nf4 32.Qa2 a6 33.Rab1 Qc7 34.Qc2 Rh7 35.Bxf4 gxf4 36.Nh5+ Kf7 37.Nxf4 Rbh8 38.Nh5 Ke7 39.Qb2 Rb8 40.Nxf6 Kxf6 41.g5+ Kxg5 42.Qd2+ Kg6 43.Rbg1+ Ng4+ 44.fxg4 Rf8+ 45.Kg3 Bxa4 46.Rh5 Rxh5 47.gxh5+ Kh7 48.Kh3 Rf4 49.Qe1 Bd7+ 50.Kh2 Qd8 51.Qg3 Qf8 52.Qg6+ Kh8 53.Rg2 a5 54.Kg1 Rf6 55.Qg5 a4 56.h6 Rxh6 57.Bh5 a3 58.Bg6 a2 59.Rxa2 Qf4 60.Qd8+ Kg7 61.Qxd7+ Kxg6 62.Rg2+ 1-0

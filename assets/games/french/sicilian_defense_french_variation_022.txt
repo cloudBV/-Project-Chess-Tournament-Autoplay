@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.35"]
+[White "Lorente Melcon, Maximo"]
+[Black "Campo Millan, Diego"]
+[Result "1-0"]
+[WhiteElo "2255"]
+[BlackElo "2022"]
+[ECO "B40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 d5 4.Qe2 Nf6 5.g3 Nc6 6.Bg2 Be7 7.O-O O-O 8.e5 Nd7 9.c4 Rb8 10.Bf4 d4 11.h4 Re8 12.Nbd2 h6 13.h5 a6 14.g4 Qc7 15.Bg3 b5 16.b3 Bb7 17.Rae1 Nb4 18.a3 Nc2 19.Rc1 Nxa3 20.Nh2 Bxg2 21.Kxg2 a5 22.Kh3 a4 23.bxa4 bxa4 24.Ra1 Nc2 25.Rxa4 Rb2 26.Nhf3 Reb8 27.Bf4 Nb6 28.Ra6 Nb4 29.Raa1 Nc2 30.Rfb1 Rxb1 31.Rxb1 Nb4 32.Rg1 Na4 33.g5 Nc3 34.Qf1 hxg5 35.Bxg5 Nc6 36.Qg2 Kf8 37.Bxe7+ Nxe7 38.Qxg7+ Ke8 39.Ng5 Kd7 40.f4 Ne2 41.Rg4 Qc6 42.Nge4 Rb2 43.Qxf7 Rxd2 44.Rg7 Rxd3+ 45.Kh4 Nxf4 46.Qxe7+ 1-0

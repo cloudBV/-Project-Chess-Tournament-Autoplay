@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.29"]
+[White "Prymula, Roman"]
+[Black "Mimkes, Antal"]
+[Result "1-0"]
+[WhiteElo "2176"]
+[BlackElo "2039"]
+[ECO "A47"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Pseudo Queen's Indian Defense"]
+
+1.d4 Nf6 2.Nf3 b6 3.c3 Bb7 4.Bg5 e6 5.Nbd2 d5 6.Ne5 Be7 7.e3 h6 8.Bh4 Nbd7 9.f4 c5 10.Bb5 O-O 11.O-O Rc8 12.Qe2 Nxe5 13.fxe5 Ne4 14.Bxe7 Qxe7 15.Nxe4 dxe4 16.Rf4 f6 17.exf6 Rxf6 18.Rxf6 Qxf6 19.Rf1 Qg5 20.Bd7 Rd8 21.Bxe6+ Kh8 22.Rf7 Qg6 23.Qg4 Qxg4 24.Bxg4 Bd5 25.Rxa7 cxd4 26.cxd4 Bc4 27.b3 Bd3 28.Rc7 Ba6 29.Bf5 Rf8 30.g4 h5 31.h3 hxg4 32.hxg4 g6 33.Bxe4 Rf1+ 34.Kg2 Re1 35.Kf2 Re2+ 36.Kf3 Rxa2 37.Bxg6 Bf1 38.Kf4 Rb2 39.Kg5 Kg8 40.Kf6 Rf2+ 41.Bf5 Ba6 42.Rd7 1-0

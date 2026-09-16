@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-4-game-2/The0Nfin/srQRKn3h"]
+[Date "2026.07.09"]
+[Round "8.3"]
+[White "Gibala, Adam"]
+[Black "Golis, Wiktor"]
+[Result "0-1"]
+[WhiteElo "2267"]
+[BlackElo "2291"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d3 Re8 7.b3 d4 8.e3 c5 9.exd4 cxd4 10.Ne5 Qc7 11.Re1 Bd6 12.Qe2 Nfd7 13.f4 Nc6 14.Nxc6 bxc6 15.Bb2 Bb7 16.Bxd4 e5 17.Bf2 exf4 18.Qxe8+ Rxe8 19.Rxe8+ Nf8 20.Nd2 fxg3 21.hxg3 Bxg3 22.Ne4 Bxf2+ 23.Nxf2 Bc8 24.Re3 Be6 25.d4 Qf4 26.Re4 Qg3 27.Rae1 g6 28.R1e3 Qg5 29.Re5 Qf4 30.R5e4 Qg5 31.Re5 Qf4 32.d5 cxd5 33.cxd5 Bf5 34.Re1 Nd7 35.R5e3 Kg7 36.a4 Qd4 37.Kf1 Nf6 38.Re5 h5 39.a5 h4 40.Bf3 h3 41.Kg1 Qf4 42.R1e3 Qg3+ 43.Kh1 Qxf2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Caruana, Fabiano - Kevlishvili, Robby"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/iCjKPttP"]
+[Date "2026.07.04"]
+[Round "7.8"]
+[White "Caruana, Fabiano"]
+[Black "Kevlishvili, Robby"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2549"]
+[ECO "C50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 d6 6.Na4 Bb6 7.a3 h6 8.O-O O-O 9.Re1 Be6 10.Bxe6 fxe6 11.c3 Ne7 12.b4 Qe8 13.Ra2 Ng6 14.h3 Kh7 15.g3 Qf7 16.Kg2 Kh8 17.Nh2 c6 18.Nxb6 axb6 19.Ng4 b5 20.h4 Ne7 21.Nxf6 Qxf6 22.Be3 Qf7 23.Qe2 Ng8 24.Rea1 Ra4 25.Rf1 Nf6 26.Bc1 Raa8 27.Rh1 Nh5 28.Qg4 Kh7 29.Be3 Nf6 30.Qd1 Nh5 31.Kh2 Qg6 32.Rg1 Rf7 33.f3 Raf8 34.Rf2 Ra8 35.Bc1 Raf8 36.d4 exd4 37.cxd4 Nf6 38.Re2 d5 39.e5 Nd7 40.Rf2 Nb6 41.g4 Nc4 42.h5 Qb1 43.Qe2 Qb3 44.f4 Qb1 45.f5 Qe4 46.Qxe4 dxe4 47.Rgf1 e3 48.Rf3 exf5 49.e6 Rf6 50.gxf5 e2 51.Re1 Rxf5 52.Rxf5 Rxf5 53.Rxe2 Rf8 54.Kg3 Nd6 55.Kg4 g6 56.hxg6+ Kg7 57.Bf4 Nc4 58.Rh2 Re8 59.Kf5 Rf8+ 60.Ke4 Re8 61.Kf5 Rf8+ 62.Kg4 Rf6 63.Rxh6 Rxe6 64.Rh7+ Kxg6 65.Rxb7 Nxa3 66.Be5 Nc2 67.Rg7+ Kh6 68.Rg8 Ne3+ 69.Kf4 Nd5+ 70.Kf5 Re7 71.Rg6+ Kh5 72.Rxc6 Nxb4 73.Rc1 Rf7+ 74.Ke6 Rf3 75.Rb1 Nc6 76.d5 Nd8+ 77.Ke7 Nf7 78.Bf6 Nh6 79.Rh1+ Kg6 80.Be5 Nf5+ 81.Ke6 Ne3 82.d6 Nc4 83.d7 Rd3 84.Bc7 Re3+ 85.Kd5 Rd3+ 86.Kc6 b4 87.d8=Q Rxd8 88.Bxd8 b3 89.Rb1 Nd2 90.Rb2 Nc4 91.Rxb3 1-0

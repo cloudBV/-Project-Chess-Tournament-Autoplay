@@ -1,0 +1,14 @@
+[Event "Round 5: Mylonakis, Ioannis - Papaioannou, Dimitrios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-5/U5UZiPYs/yQBu73nS"]
+[Date "2026.07.14"]
+[Round "5.1"]
+[White "Mylonakis, Ioannis"]
+[Black "Papaioannou, Dimitrios"]
+[Result "1-0"]
+[WhiteElo "2126"]
+[BlackElo "2348"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.Bg5 O-O 6.e3 Nc6 7.Be2 h6 8.Bh4 g5 9.Bg3 Nh5 10.d5 Nb4 11.a3 Na6 12.Qc2 f5 13.Nd4 Qe8 14.h4 g4 15.Bd3 Qf7 16.Nce2 Bd7 17.b4 c5 18.dxc6 bxc6 19.c5 e5 20.Bxa6 exd4 21.O-O-O dxc5 22.Qxc5 Nxg3 23.fxg3 Kh7 24.Qc2 dxe3 25.Rd6 Qe7 26.Rhd1 Rad8 27.Qc5 Rf6 28.R6d3 Rf7 29.Qxe7 Rxe7 30.a4 Bc8 31.Rxd8 Bxa6 32.b5 cxb5 33.R1d6 Bb7 34.R6d7 Rxd7 35.Rxd7 Bc6 36.Rc7 Be8 37.Nd4 Kg8 38.Nxf5 Bf8 39.Nxe3 bxa4 40.Nxg4 Bf7 41.Rxa7 a3 42.Ra8 Be6 43.Nxh6+ Kg7 44.g4 Bc5 45.Nf5+ Kf6 46.h5 a2 47.Ra6 Bb6 48.h6 Kg6 49.Kb2 1-0

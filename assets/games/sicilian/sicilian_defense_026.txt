@@ -1,0 +1,15 @@
+[Event "Round 7: Svoboda, Svatopluk - Cagasik, Tomas"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/ZCScLU6A"]
+[Date "2026.07.19"]
+[Round "7.14"]
+[White "Svoboda, Svatopluk"]
+[Black "Cagasik, Tomas"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2190"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 d6 3.d3 Nc6 4.f4 e6 5.Nf3 Nf6 6.O-O Be7 7.Kh1 h5 8.Be3 d5 9.Nbd2 d4 10.Bg1 h4 11.Ng5 e5 12.c3 dxc3 13.bxc3 exf4 14.Qb3 Ne5 15.Rxf4 Qb6 16.d4 Qxb3 17.Nxb3 Ng8 18.dxe5 Bxg5 19.Bb5+ Kf8 20.Bxc5+ Ne7 21.Rff1 h3 22.g3 b6 23.Bc6 Ba6 24.Bxa8 Bxf1 25.Rxf1 bxc5 26.Nxc5 Be3 27.Nd3 Rh6 28.Rf3 Bd2 29.Nf2 Ra6 30.Rd3 Ng6 31.Rxd2 Nxe5 32.Nxh3 Ra3 33.Rc2 Nc4 34.Bd5 Ne3 35.Rc1 Ke7 36.Bb3 a5 37.Nf4 Ng4 38.Nd5+ Kd6 39.Nb6 Ne5 40.Nc4+ Nxc4 41.Bxc4 1-0

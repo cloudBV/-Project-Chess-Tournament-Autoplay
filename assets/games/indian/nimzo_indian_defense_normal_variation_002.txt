@@ -1,0 +1,15 @@
+[Event "Round 8: Alvarez Fernandez, Carlos Rene - Martinez Ramirez, Lennis"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-8/pzqS4f9A/M5VB78iJ"]
+[Date "2026.07.01"]
+[Round "8.6"]
+[White "Alvarez Fernandez, Carlos Rene"]
+[Black "Martinez Ramirez, Lennis"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "2415"]
+[ECO "E47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Nxd5 9.O-O Nc6 10.Qc2 h6 11.Rd1 Bd6 12.Nxd5 exd5 13.Bf4 Bxf4 14.Nxf4 Qg5 15.g3 Bg4 16.Be2 Bxe2 17.Qxe2 Rad8 18.h4 Qf6 19.Qg4 Rfe8 20.Nh5 Qg6 21.Qxg6 fxg6 22.Nf4 Kf7 23.Rd2 Re4 24.Rad1 Kf6 25.f3 Re7 26.Re2 g5 27.Rxe7 Nxe7 28.hxg5+ hxg5 29.Ne2 Re8 30.Nc3 Rc8 31.Rd3 a6 32.Kf2 b5 33.a3 Rc4 34.Rd2 Ke6 35.Ne2 Kd6 36.Ke1 Rc8 37.Kf2 Rh8 38.Kg2 Nf5 39.Rd3 Rc8 40.Nc3 Rc4 41.g4 Rxd4 42.Rxd4 Nxd4 43.Kf2 Kc5 44.Ke3 Kc4 45.Nd1 Ne6 46.Kd2 Kb3 47.Kc1 d4 48.Nf2 Nc5 49.Ne4 Nd3+ 50.Kd2 Ne5 51.Nxg5 Kxb2 52.f4 Nxg4 53.Ne6 Kxa3 54.Nc7 b4 55.Nxa6 b3 56.f5 b2 0-1

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.15"]
+[Round "8.4"]
+[White "Lynx 1.11.0-dev-edbae92a"]
+[Black "Clockwork 20260705-7f4099f"]
+[Result "1-0"]
+[WhiteElo "3332"]
+[BlackElo "3354"]
+[ECO "E65"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.d4 O-O 5.c4 d6 6.O-O c5 7.Nc3 Qa5 8.d5 Na6 9.e4 e5 10.a3 Qd8 11.Rb1 Nb8 12.Be3 Nbd7 13.Re1 h6 14.Qc2 b6 15.b4 Ba6 16.Bf1 Qe7 17.b5 Bc8 18.a4 a5 19.bxa6 Rxa6 20.Rb3 Bb7 21.Reb1 Rb8 22.Qc1 h5 23.R1b2 Qd8 24.h4 Bc8 25.Bh3 Nf8 26.Bxc8 Qxc8 27.Bg5 Qg4 28.Nh2 Qc8 29.Nf1 Ne8 30.f3 Bf6 31.Bh6 Bg7 32.Be3 Kh7 33.Rg2 Nd7 34.g4 Ndf6 35.Qd1 Raa8 36.Rbb2 Qd7 37.Bg5 Kg8 38.Nd2 Rb7 39.Ndb1 Qc8 40.Na3 Kh8 41.Nab5 Rd7 42.Qf1 Kh7 43.Rg3 Rd8 44.Rbg2 Qd7 45.Kh2 Kg8 46.Qe2 Rdb8 47.Qd1 Rd8 48.Be3 Kh7 49.Qg1 Kh8 50.Bg5 Kg8 51.Qd1 Ra5 52.Qd2 Raa8 53.Qf2 Kh7 54.Qe1 Kh8 55.Qb1 Kg8 56.Na3 Rdb8 57.Kg1 Kh7 58.Nab5 Rc8 59.Kh2 Rcb8 60.Rg1 Ra5 61.Qd1 Rd8 62.Qb3 Rb8 63.R1g2 Kg8 64.Qc2 Rd8 65.Be3 Rda8 66.Bc1 Rd8 67.Bg5 Rb8 68.Qf2 Raa8 69.Qe2 Kh7 70.Rg1 Kg8 71.Kh1 Ra5 72.Be3 Qe7 73.Qd1 Rc8 74.Rf1 Rd8 75.Kh2 Raa8 76.Qc2 Qb7 77.Rg2 Qe7 78.Kg1 Rdb8 79.Bg5 Qd7 80.Bc1 Rb7 81.Ne2 Nc7 82.Nxc7 Rxc7 83.Nc3 Kh7 84.Bg5 Rb7 85.Qf2 Rbb8 86.Rb1 Ra7 87.Qe2 Ra6 88.Bxf6 Bxf6 89.gxh5 Bxh4 90.hxg6+ fxg6 91.Rh2 g5 92.Qg2 Kh6 93.Nd1 Rf8 94.Ne3 Rf4 95.Kh1 Qf7 96.Ng4+ Kh7 97.Nf2 Kg6 98.Rg1 Qf6 99.Nd3 Rxa4 100.Nxf4+ Qxf4 101.Qh3 Ra7 102.Qe6+ Kg7 103.Rf1 Ra3 104.Qh3 Kg6 105.Rb2 Kh5 106.Rxb6 g4 107.fxg4+ Kg5 108.Qg2 Bf2 109.Rxd6 Qf7 110.Rh6 Kxh6 111.Rxf2 Qe7 112.Qh2+ Kg7 113.Qh5 Ra1+ 114.Kg2 Ra6 115.Qf5 Ra8 116.d6 Qxd6 117.Qf7+ Kh8 118.Qh5+ Kg8 119.Qg5+ Kh8 120.Rf6 Ra2+ 121.Kg3 Qd3+ 122.Rf3 Qxf3+ 123.Kxf3 Ra3+ 124.Kg2 Ra2+ 125.Kg3 Ra3+ 126.Kh4 Ra7 127.Qxe5+ Kh7 128.g5 Ra3 129.Qc7+ Kg6 130.Qb6+ Kh7 131.g6+ Kh6 132.g7+ Kh7 133.Qb8 Kxg7 134.Qb2+ Kf8 135.Qxa3 Kf7 136.Qb3 Kf6 137.Qd3 Ke5 138.Qe3 Kd6 139.Qg5 Kc6 140.Qg3 Kd7 141.Qf4 Kc6 142.Qe5 Kd7 143.Qh8 Kc7 144.e5 Kd7 145.Qf8 Ke6 146.Qf6+ Kd7 147.Kg3 Kc7 148.Qd6+ Kc8 149.Qxc5+ Kd7 150.Qd6+ Ke8 151.Qf6 Kd7 152.Qf5+ Kc7 153.Qe6 Kb7 154.Qe7+ Kb6 155.Qa3 Kc6 156.Qd6+ Kb7 157.Qc5 Kb8 158.e6 Kb7 159.Kf4 Kb8 160.Qc6 Ka7 161.Qb5 Ka8 162.Kf3 Ka7 163.Kg3 Ka8 164.Qc6+ Kb8 165.Qd7 Ka8 166.e7 Kb8 167.e8=Q# 1-0

@@ -1,0 +1,15 @@
+[Event "Round 5: Zhao, George - Bezuidenhout, Roland"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-5/fSrGUwda/jTIljnFc"]
+[Date "2026.07.23"]
+[Round "5.13"]
+[White "Zhao, George"]
+[Black "Bezuidenhout, Roland"]
+[Result "1/2-1/2"]
+[WhiteElo "2079"]
+[BlackElo "2284"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 c6 7.O-O Bf5 8.b3 Re8 9.Bb2 Na6 10.Re1 Ne4 11.Nh4 Nxc3 12.Bxc3 Bd7 13.e4 Qc8 14.e5 dxe5 15.dxe5 Qc7 16.Qc2 Rad8 17.Rad1 Bg4 18.Rxd8 Rxd8 19.h3 Be6 20.Nf3 Bf5 21.Qe2 Nc5 22.Nd4 Bc8 23.Kh2 Ne6 24.Nc2 h5 25.h4 Qd7 26.Ba5 b6 27.Bc3 Bb7 28.Ne3 Bh6 29.Rd1 Qe8 30.Rxd8 Qxd8 31.f4 a5 32.a3 Ng7 33.b4 axb4 34.axb4 Qd7 35.Bh3 e6 36.Bg2 c5 37.Bxb7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Bastar Vyprachticky, David - Pisar, Tomas"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-1/w7EFVbhM/dZ054ZwY"]
+[Date "2026.07.16"]
+[Round "1.22"]
+[White "Bastar Vyprachticky, David"]
+[Black "Pisar, Tomas"]
+[Result "1-0"]
+[WhiteElo "2299"]
+[BlackElo "2033"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d6 5.Ng5 Be6 6.Nxe6 fxe6 7.Bxe6 Qe7 8.Bb3 O-O-O 9.Nc3 Nd4 10.O-O h5 11.Bg5 Qe8 12.Nd5 Qg6 13.Bh4 Kb8 14.f4 c6 15.fxe5 dxe5 16.Nxf6 Be7 17.Bf7 Qh6 18.Ng8 1-0

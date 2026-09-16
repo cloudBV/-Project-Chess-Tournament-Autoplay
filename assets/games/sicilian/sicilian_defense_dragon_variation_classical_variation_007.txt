@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.21"]
+[Round "3.1"]
+[White "Korobov, Anton"]
+[Black "Bouska, Jiri"]
+[Result "1-0"]
+[WhiteElo "2614"]
+[BlackElo "2298"]
+[ECO "B73"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 g6 7.O-O Bg7 8.Be3 O-O 9.a4 d5 10.exd5 Nb4 11.d6 Qxd6 12.Ndb5 Qxd1 13.Raxd1 Bf5 14.Nd4 Bxc2 15.Nxc2 Nxc2 16.Bc5 Rac8 17.Bxa7 Nb4 18.Bf3 Nc6 19.Bb6 Ne5 20.Bxb7 Rb8 21.Bc7 Rxb7 22.Bxe5 Rxb2 23.Rb1 Rxb1 24.Rxb1 Ra8 25.Kf1 Ne4 26.Nxe4 Bxe5 27.Rb4 f5 28.Ng5 Rc8 29.Nf3 Bf6 30.Nd4 Bxd4 31.Rxd4 Rc2 32.a5 Ra2 33.Rd5 Kf7 34.Rb5 Kg7 35.g3 Kf7 36.h4 Ke8 37.h5 Kd7 38.h6 Kc6 39.Rb6+ Kc7 40.Rxg6 Rxa5 41.Rg7 Kd7 42.Rxh7 Ke6 43.Rh8 Kf7 44.Kg2 Kg6 45.Kf3 Ra4 46.h7 Kg7 47.Rf8 Kxh7 48.Rxf5 Kg6 49.g4 Ra3+ 50.Kf4 Ra4+ 51.Kg3 Ra3+ 52.Kh4 Ra1 53.Rb5 Rh1+ 54.Kg3 Rg1+ 55.Kf4 Rf1 56.Rb6+ Kf7 57.f3 Rf2 58.Rb3 Rc2 59.Re3 Rc4+ 60.Kf5 Rc5+ 61.Re5 e6+ 62.Kf4 Rc4+ 63.Kg5 Rc3 64.f4 Rc8 65.Ra5 Rg8+ 66.Kh4 Rh8+ 67.Kg3 Rc8 68.Ra6 Rc1 69.Kh4 Rc8 70.Ra7+ Kg6 71.g5 Rc1 72.Re7 Re1 73.Kg3 Re3+ 74.Kg4 Re1 75.Rxe6+ 1-0

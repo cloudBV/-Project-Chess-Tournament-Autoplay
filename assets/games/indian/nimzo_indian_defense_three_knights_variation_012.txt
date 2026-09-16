@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "18.10"]
+[White "4k.c 9.15.1"]
+[Black "RubiChessHCE 20260308"]
+[Result "1/2-1/2"]
+[WhiteElo "3017"]
+[BlackElo "3397"]
+[ECO "E21"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.Qb3 a5 6.g3 Nc6 7.Bg2 a4 8.Qc2 Ba6 9.O-O Bxc4 10.Ne5 Nxd4 11.Qd1 Nxe2+ 12.Nxe2 Bd5 13.Bg5 Bxg2 14.Kxg2 Be7 15.Rc1 h6 16.Bxf6 Bxf6 17.f4 Ra5 18.Rc2 Bxe5 19.fxe5 a3 20.bxa3 O-O 21.Rd2 Qa8+ 22.Kg1 Rxe5 23.Rxd7 Qxa3 24.Rxc7 Qxa2 25.Nd4 Rd5 26.Qe2 Qxe2 27.Nxe2 Rd2 28.Nc3 Rc2 29.Rf2 Rxf2 30.Kxf2 g5 31.Rb7 Rc8 32.Ne2 Ra8 33.Rxb6 Kg7 34.h4 Kg6 35.Rb7 Ra4 36.h5+ Kxh5 37.Rxf7 Kg4 38.Rf6 h5 39.Rxe6 h4 40.gxh4 gxh4 41.Re8 h3 42.Rf8 Ra1 43.Rg8+ Kf5 44.Rc8 h2 45.Ng3+ Kf4 46.Rc4+ Ke5 47.Kg2 h1=Q+ 48.Nxh1 Rb1 49.Nf2 Ra1 50.Kg3 Ra3+ 51.Kh4 Rb3 52.Ng4+ Kd5 53.Rc1 Ke6 54.Re1+ Kd5 55.Nf6+ Kc4 56.Rc1+ Rc3 57.Rh1 Kb5 58.Ne8 Kc6 59.Rg1 Kd7 60.Ng7 Rc2 61.Kg5 Rd2 62.Kh6 Kd8 63.Nh5 Re2 64.Nf6 Rf2 65.Rg8+ Kc7 66.Rg7+ Kb6 67.Rg6 Rf1 68.Nh5+ Kc7 69.Ng3 Rb1 70.Kh7 Ra1 71.Nf5 Rb1 72.Rg5 Ra1 73.Rg6 Rb1 74.Rf6 Ra1 75.Kg6 Rc1 76.Ne7 Rc5 77.Rf2 Rc1 78.Kf7 Ra1 79.Kg7 Rb1 80.Rf7 Ra1 81.Nf5+ Kb6 82.Rf6+ Ka5 83.Rc6 Rb1 84.Kh7 Ra1 85.Kg8 Rb1 86.Rh6 Ra1 87.Kg7 Rb1 88.Rh3 Ra1 89.Kh8 Rb1 90.Nh6 Ra1 91.Ng8 Rb1 92.Nf6 Ra1 93.Nh7 Rb1 94.Rh4 Ra1 95.Kg8 Rb1 96.Kf7 Ra1 97.Nf6 Rb1 98.Nd5 1/2-1/2

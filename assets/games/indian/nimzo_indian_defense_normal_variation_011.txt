@@ -1,0 +1,14 @@
+[Event "Round 6: Sandoval Mercado, Carlos - Lopez Garcia, Miguel Angel"]
+[Site "https://lichess.org/broadcast/viii-campeonato-nacional-abierto-de-ajedrez-de-verano-ezequiel-montes-2026/round-6/eQxMJGBT/PWF82Lnc"]
+[Date "2026.07.05"]
+[Round "6.2"]
+[White "Sandoval Mercado, Carlos"]
+[Black "Lopez Garcia, Miguel Angel"]
+[Result "1/2-1/2"]
+[WhiteElo "2434"]
+[BlackElo "2217"]
+[ECO "E46"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 Re8 6.a3 Bxc3 7.Bxc3 Ne4 8.Bd3 Nxc3 9.Qc2 h6 10.Qxc3 d6 11.Ne2 a5 12.O-O e5 13.Ng3 Nd7 14.Rad1 Qh4 15.Nf5 Qf6 16.Bc2 Nf8 17.Ng3 Bd7 18.d5 b6 19.f4 Qe7 20.f5 Nh7 21.Ne4 Nf6 22.a4 Nxe4 23.Bxe4 Qf6 24.b3 Kf8 25.Rf3 Ke7 26.Rdf1 Rg8 27.Qe1 Raf8 28.Rh3 Ra8 29.Qe2 Kd8 30.Rh5 Kc8 31.Rf2 Kb7 32.Kf1 Rh8 33.Rh3 Rag8 34.Qh5 Be8 35.Rg3 Ka7 36.Ke1 Kb7 37.h3 Qd8 38.Kd2 f6 39.Qd1 Bf7 40.Kc3 Qd7 41.Kb2 Rh7 42.Ka3 Re8 43.Rgf3 h5 44.g3 Reh8 45.Qb1 Be8 46.Qg1 Bf7 47.Rg2 Be8 48.Rff2 Qe7 49.Qe1 Rh6 50.Rf1 Ka7 51.Qf2 g5 52.Ka2 1/2-1/2

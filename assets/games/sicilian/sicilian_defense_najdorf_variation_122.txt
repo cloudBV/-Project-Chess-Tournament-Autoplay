@@ -1,0 +1,15 @@
+[Event "Round 1: Dumanuly, Sultanbeibarys - Kezin, Roman"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/uFinhRzp"]
+[Date "2026.07.21"]
+[Round "1.13"]
+[White "Dumanuly, Sultanbeibarys"]
+[Black "Kezin, Roman"]
+[Result "1/2-1/2"]
+[WhiteElo "2139"]
+[BlackElo "2460"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h4 e5 7.Nb3 Be7 8.Be2 b5 9.g4 b4 10.Nd5 Nxd5 11.Qxd5 Ra7 12.Bc4 O-O 13.Be3 Rc7 14.Qd3 Rxc4 15.Qxc4 Bxg4 16.h5 Nd7 17.Nd2 Be6 18.Qe2 d5 19.Rg1 Kh8 20.exd5 Bxd5 21.O-O-O Qc7 22.Qd3 Be6 23.Rxg7 Kxg7 24.Rg1+ Kh8 25.Bh6 Bf6 26.Qg3 Bf5 27.Qg7+ Bxg7 28.Bxg7+ Kg8 29.Bxe5+ Bg6 30.Bxc7 Rc8 31.Bd6 Rc5 32.Kd1 Rxc2 33.hxg6 Rxb2 34.gxh7+ 1/2-1/2

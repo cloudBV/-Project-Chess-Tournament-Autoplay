@@ -1,0 +1,14 @@
+[Event "Round 6: Degardin, Sylvain - Ushenina, Anna"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-6/TfCvIPio/53Muj7Xt"]
+[Date "2026.07.23"]
+[Round "6.6"]
+[White "Degardin, Sylvain"]
+[Black "Ushenina, Anna"]
+[Result "1/2-1/2"]
+[WhiteElo "2209"]
+[BlackElo "2426"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nf5 d5 7.cxd5 Bxf5 8.exf5 Nd4 9.Nc3 Nf6 10.Bd3 Be7 11.O-O O-O 12.Re1 Nxd5 13.Nxd5 Qxd5 14.Be4 Qd7 15.Be3 Rad8 16.Qg4 Bf6 17.h4 Kh8 18.g3 Qb5 19.b3 Rc8 20.Kg2 Nc2 21.Bxc2 Rxc2 22.Qe4 Rfc8 23.Rac1 Rxc1 24.Rxc1 Rxc1 25.Bxc1 h6 1/2-1/2

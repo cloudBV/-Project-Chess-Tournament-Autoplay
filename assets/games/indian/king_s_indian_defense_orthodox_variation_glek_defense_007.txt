@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Normoria, Kristiansund"]
+[Date "2026.06.28"]
+[Round "3.1"]
+[White "Hole, Oystein"]
+[Black "Gullaksen, Eirik"]
+[Result "0-1"]
+[WhiteElo "2221"]
+[BlackElo "2274"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 Na6 7.O-O e5 8.Be3 Qe7 9.d5 Ng4 10.Bg5 f6 11.Bh4 Nh6 12.Nd2 g5 13.Bg3 f5 14.f3 f4 15.Bf2 Rf6 16.a3 Rg6 17.h3 Nf7 18.b4 h5 19.Rc1 Nh6 20.c5 g4 21.cxd6 cxd6 22.fxg4 hxg4 23.Bxg4 Nxg4 24.hxg4 Bxg4 25.Nf3 Bf6 26.Qd3 Kf7 27.Rc2 Qd7 28.Rfc1 Bh3 29.Ne1 Rag8 30.Bxa7 Bh4 31.Qb5 Qe7 32.Qd3 Rg3 33.Qf1 Qg5 34.Kh1 Qg4 35.Nb5 Bxg2+ 36.Rxg2 Qh3+ 37.Kg1 Rxg2+ 38.Nxg2 Bg3 39.Nxd6+ Kf6 40.Ne8+ Kf7 41.Nd6+ Kf6 42.Ne8+ Rxe8 43.Qf3 Rg8 44.Kf1 Qh1+ 45.Bg1 Bh2 46.Qf2 Bxg1 47.Qxg1 Qxg1+ 48.Kxg1 f3 49.Rf1 Rxg2+ 50.Kh1 Re2 51.Rxf3+ Ke7 52.Rh3 Rxe4 53.Rh7+ Kd6 54.Rxb7 Nc7 55.Rb6+ Kxd5 56.a4 Re2 57.a5 Ra2 58.Kg1 e4 59.Kf1 e3 60.Ke1 Ne6 61.a6 Nd4 0-1

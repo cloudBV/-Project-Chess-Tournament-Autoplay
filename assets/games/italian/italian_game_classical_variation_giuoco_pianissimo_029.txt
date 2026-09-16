@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "7.3"]
+[White "Aravena Navarro, Alexis Andres"]
+[Black "Jaque Gutierrez, Matias"]
+[Result "1/2-1/2"]
+[WhiteElo "2162"]
+[BlackElo "2223"]
+[ECO "C54"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 O-O 6.Nbd2 d5 7.Bb3 h6 8.Qe2 Re8 9.Nf1 a5 10.Ng3 a4 11.Bc2 d4 12.O-O Nh7 13.h3 Nf8 14.Nh2 Ng6 15.Qf3 Be7 16.Nf5 Bg5 17.a3 Bxc1 18.Raxc1 Nh4 19.Nxh4 Qxh4 20.Qg3 Qxg3 21.fxg3 Be6 22.c4 Nb8 23.Bd1 Nd7 24.Kf2 Nc5 25.Ke2 Reb8 26.Nf3 f6 27.Nd2 Kf8 28.Bc2 Ke7 29.Bb1 Kd6 30.Rc2 Ra5 31.g4 Bd7 32.Ba2 b6 33.Rcc1 Be6 34.Ra1 Ke7 35.Rac1 Rb7 36.Rc2 Nd7 37.Ra1 Ra8 38.Rcc1 Bf7 39.Kf3 Nc5 40.Ke2 Ne6 41.g3 h5 42.c5 Nxc5 43.Bxf7 Kxf7 44.gxh5 Rh8 45.g4 Ne6 46.Nf3 Nf4+ 47.Kd2 Nxh3 48.Rf1 Nf4 49.Nxd4 Rd8 50.Rxf4 exf4 51.Nc6 Re8 52.Ke2 b5 53.Kf3 Rb6 54.Rc1 Ke6 55.d4 Kd7 56.d5 Ra6 57.Kxf4 Raa8 58.Rc5 Rg8 59.Rxb5 g6 60.hxg6 Rxg6 61.Kf5 Rag8 62.Rb8 Rg5+ 63.Kxf6 R8g6+ 64.Kf7 Rg7+ 65.Kf6 R7g6+ 66.Kf7 Rg7+ 67.Kf6 R5g6+ 68.Kf5 Rg8 69.Rb6 Rg5+ 1/2-1/2

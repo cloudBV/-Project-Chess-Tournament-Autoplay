@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.11"]
+[Round "8.2"]
+[White "Duboue, Peio"]
+[Black "Degraeve, Jean-Marc"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2500"]
+[ECO "B22"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 e6 6.Na3 Nc6 7.Be3 cxd4 8.Nb5 Qd8 9.Nbxd4 Nd5 10.Nxc6 bxc6 11.Bd2 Qb6 12.Bd3 Qxb2 13.Rb1 Qa3 14.Rb3 Qa4 15.O-O Be7 16.c4 Nf6 17.Qc2 Nd7 18.Bxh7 Nc5 19.Ne5 Nxb3 20.axb3 Qa3 21.Bg6 Rf8 22.Bxf7+ Kd8 23.Ba5+ 1-0

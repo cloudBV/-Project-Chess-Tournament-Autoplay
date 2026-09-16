@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.24"]
+[Round "9.3"]
+[White "Li, Di"]
+[Black "Lu, Shanglei"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2705"]
+[ECO "C01"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Bg5 Bg4 8.Nbd2 Nbd7 9.h3 Bxf3 10.Nxf3 c6 11.Re1 Qc7 12.c3 h6 13.Bxf6 Nxf6 14.Qc2 Rfe8 15.g3 Rxe1+ 16.Rxe1 Re8 17.Rxe8+ Nxe8 18.Kg2 Kf8 19.a4 a5 20.Nh2 Nf6 21.Ng4 Nxg4 22.hxg4 Qe7 23.Qd1 g6 24.Qe2 Qxe2 25.Bxe2 Ke7 1/2-1/2

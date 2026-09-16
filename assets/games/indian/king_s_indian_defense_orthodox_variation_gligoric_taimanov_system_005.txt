@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.5"]
+[White "Esbensen, Kai Inge"]
+[Black "Skramstad, Oda Kofoed"]
+[Result "0-1"]
+[WhiteElo "2003"]
+[BlackElo "2022"]
+[ECO "E92"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 e5 7.Be3 Nc6 8.O-O h6 9.h3 Nh5 10.dxe5 dxe5 11.Qxd8 Nxd8 12.Nd5 Ne6 13.Rfd1 Re8 14.Bf1 c6 15.Nc3 Kh7 16.Rab1 f5 17.b4 Nf6 18.a3 f4 19.Bc1 g5 20.Bb2 Nd7 21.Rd2 h5 22.Rbd1 Re7 23.c5 g4 24.hxg4 hxg4 25.Ne1 Ng5 26.Bc4 Nf8 27.f3 Nfe6 28.Ne2 g3 29.Nc2 Kg6 30.Nc1 Bf6 31.Kf1 Rh7 32.Ke2 Rh2 33.Kd3 b6 34.cxb6 axb6 35.Kc3 b5 36.Bf1 Ba6 37.Nb3 Rc8 38.a4 Ra8 39.a5 Rc8 40.Nc5 Nxc5 41.bxc5 Be7 42.Nb4 Ra8 43.Nxc6 Bf6 44.Kb4 Nf7 45.Bc3 Rc8 46.Bxb5 Bb7 47.Na7 Ra8 48.c6 Rxa7 49.cxb7 Rxb7 50.a6 Rb8 51.a7 Ra8 52.Rd7 Nd8 53.R1d2 Rh1 54.Rc2 Rb1+ 55.Ka5 Ne6 56.Bc6 Bd8+ 57.Rxd8 Rxa7# 0-1

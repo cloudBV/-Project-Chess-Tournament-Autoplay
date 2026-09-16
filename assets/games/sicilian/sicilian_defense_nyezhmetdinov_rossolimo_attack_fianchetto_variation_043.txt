@@ -1,0 +1,14 @@
+[Event "Rapid D18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.2"]
+[White "Sprzeczka, Emilia"]
+[Black "Salamon, Julia"]
+[Result "1-0"]
+[WhiteElo "2061"]
+[BlackElo "2022"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.d3 d6 7.c3 e5 8.d4 cxd4 9.cxd4 exd4 10.Nxd4 Ne7 11.Bg5 Qb6 12.Nb3 Qc7 13.Nc3 Ba6 14.Re1 O-O 15.Qd2 Rad8 16.Rac1 f6 17.Bf4 Bc4 18.Red1 Bxb3 19.axb3 Qb6 20.Qc2 d5 21.Na4 Qb4 22.Nc5 Kf7 23.Bd2 Qb6 24.Be3 Qb5 25.Ra1 Nc8 26.Bd2 Rfe8 27.Ra5 Qb8 28.Be3 Nb6 29.Rda1 Re7 30.Na6 Qb7 31.Nb4 d4 32.Bf4 Qc8 33.Rxa7 c5 34.Nd3 g5 35.Bg3 c4 36.Rxe7+ Kxe7 37.Ra7+ Rd7 38.Rxd7+ Kxd7 39.bxc4 Qxc4 40.Qxc4 Nxc4 41.f3 Bf8 42.Bf2 Ne5 43.Nxe5+ fxe5 44.Kf1 Kc6 45.Ke2 Kb5 46.Kd3 Kb4 47.h4 h6 48.h5 Bc5 49.g3 Bd6 50.Be1+ Kc5 51.Ba5 Be7 52.Bc7 Bf6 53.f4 gxf4 54.gxf4 exf4 55.Bxf4 Bg7 56.Bd2 Kb5 57.b3 Kc5 58.Bc1 Kb4 59.Bb2 Kc5 60.Ba3+ Kb5 61.Be7 Kb6 62.Kc4 Kc6 63.b4 Be5 64.Bf8 Bf4 65.Kxd4 1-0

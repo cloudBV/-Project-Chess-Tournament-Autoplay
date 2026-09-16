@@ -1,0 +1,14 @@
+[Event "Round 2: David, Alberto - Gimenez Menchon, Cesar"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-2/ozps01TA/vcUEDfsO"]
+[Date "2026.07.19"]
+[Round "2.9"]
+[White "David, Alberto"]
+[Black "Gimenez Menchon, Cesar"]
+[Result "1-0"]
+[WhiteElo "2457"]
+[BlackElo "2159"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 d6 2.Nc3 e5 3.g3 f5 4.d4 Be7 5.Bg2 Nf6 6.Nf3 e4 7.Ng5 h6 8.Nh3 c6 9.Nf4 g5 10.Ng6 Rg8 11.Nxe7 Qxe7 12.b4 Nbd7 13.f3 Nb6 14.fxe4 fxe4 15.O-O Nxc4 16.b5 d5 17.bxc6 bxc6 18.Qa4 Bd7 19.Rb1 h5 20.Rb7 h4 21.Rxf6 Qxf6 22.Nxd5 Qxd4+ 23.Ne3 Rd8 24.Qxc4 Qxc4 25.Nxc4 Bc8 26.Rb1 Rd1+ 27.Kf2 Be6 28.Ne5 Rf8+ 29.Ke3 Rf5 30.Rb8+ Rd8 31.Rxd8+ Kxd8 32.Kxe4 Kc7 33.Bf3 hxg3 34.hxg3 Rf8 35.Bxg5 Bxa2 36.Kd4 Bd5 37.Bxd5 cxd5 38.Bf4 Kb7 39.Kxd5 Rd8+ 40.Kc4 Rc8+ 41.Kb3 Kc7 42.e4 Kd6 43.Nd3+ Ke6 44.Kb4 Rc2 45.Be3 Ra2 46.Kb3 Ra1 47.Bf4 a5 48.Nc5+ Kf7 49.Bd6 Kg6 50.Kb2 Rd1 51.Bf4 Re1 52.Kb3 Ra1 53.Kb2 Re1 54.e5 Kf5 55.Nb3 a4 56.Nc5 a3+ 57.Kxa3 Rb1 58.Nb3 Ke6 59.Ka2 Rh1 60.Kb2 Kd5 61.Kc3 Rh8 62.Kd3 Ra8 63.Nd2 Ra3+ 64.Ke2 Ra2 65.Kf3 Ra8 66.Nf1 Ke6 67.Ne3 Ra1 68.Kg4 Ra8 69.Ng2 Rg8+ 70.Kf3 Ra8 71.Nh4 Ra3+ 72.Kg4 Ra8 73.Nf3 Ke7 74.Kf5 Rf8+ 75.Ke4 Ra8 76.Nd4 Ra4 77.Be3 Ra1 78.Kf5 Rf1+ 79.Bf4 Rd1 80.Nf3 Rf1 81.Nh4 Ke8 82.Kf6 Ra1 83.e6 Ra6 84.Nf5 Kf8 85.Bd6+ Kg8 86.e7 Ra8 87.Kg6 1-0

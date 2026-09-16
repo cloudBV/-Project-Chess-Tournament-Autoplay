@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "6.3"]
+[White "Gines Esteo, Pedro Antonio"]
+[Black "Rojas Keim, Luis"]
+[Result "1-0"]
+[WhiteElo "2431"]
+[BlackElo "2401"]
+[ECO "E71"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 Na6 6.Be3 O-O 7.g4 e5 8.d5 Nc5 9.f3 a5 10.Qd2 c6 11.Nge2 cxd5 12.cxd5 Rb8 13.Ng3 Bd7 14.h4 b5 15.h5 b4 16.Nd1 Bb5 17.g5 Nfd7 18.Qh2 Re8 19.Nf2 Bxf1 20.Kxf1 Nf8 21.Ng4 Qd7 22.Qe2 Qb5 23.Qxb5 Rxb5 24.Rh2 Rc8 25.Rc1 Nfd7 26.b3 Rbb8 27.Rhc2 Ra8 28.Nf2 Rcb8 29.Ke2 a4 30.Nd3 axb3 31.axb3 Nxb3 32.Rb1 Ndc5 33.Bxc5 Nxc5 34.Rxb4 Nb3 35.Rxb8+ Rxb8 36.Ra2 h6 37.hxg6 fxg6 38.gxh6 Bxh6 39.Kf2 Nd4 40.Ne2 Rb3 41.Nxd4 exd4 42.Ke2 Be3 43.f4 Rb1 44.e5 dxe5 45.fxe5 Rh1 46.Ra7 Rh2+ 47.Kf3 Rh3+ 48.Kg4 Rh7 49.Ra8+ Kf7 50.Ra7+ Kg8 51.Rxh7 Kxh7 52.d6 Bd2 53.Nc5 d3 54.Nxd3 1-0

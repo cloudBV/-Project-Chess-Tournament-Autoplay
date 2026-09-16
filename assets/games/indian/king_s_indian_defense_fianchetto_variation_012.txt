@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.8"]
+[White "Leonov, Leonid"]
+[Black "Garcia Martin, Marta"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2334"]
+[ECO "E60"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Qc2 Re8 8.Rd1 c6 9.Nc3 e5 10.e4 exd4 11.Nxd4 a5 12.Bf4 Ne5 13.b3 Bg4 14.Rd2 Qc8 15.f3 Bh3 16.Bh1 Qc7 17.Re1 Rad8 18.Be3 h5 19.Bg2 Bxg2 20.Kxg2 Qc8 21.f4 Ned7 22.Nf3 Qc7 23.Red1 Nf8 24.h3 Rd7 25.Bd4 Rde7 26.c5 dxc5 27.Bxf6 Bxf6 28.e5 Bg7 29.Rd6 b6 30.Ng5 Bh6 31.Nge4 Nh7 32.Qd3 h4 33.Qf3 hxg3 34.Qg4 Qc8 35.Qh4 Bf8 36.R1d3 Re6 37.Rd8 Qa6 38.Rxg3 Rxd8 39.Qxd8 Qa7 40.f5 Qe7 41.Qxe7 Rxe7 42.e6 Kg7 43.exf7 g5 44.Kf3 Re5 45.Kg4 Be7 46.Rd3 b5 47.Ng3 Kxf7 48.Nce4 Rd5 49.Re3 a4 50.bxa4 b4 51.a3 Rd4 52.a5 Nf6+ 53.Kf3 Nd5 54.a6 Nxe3 55.Kxe3 b3 56.a7 Ra4 57.f6 Bxf6 58.Nxc5 Bd4+ 0-1

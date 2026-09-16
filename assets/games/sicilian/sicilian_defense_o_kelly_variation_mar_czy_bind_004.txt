@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-6/u1B0IeJU/tgenT4Hm"]
+[Date "2026.07.22"]
+[Round "6.4"]
+[White "Gamez Matamoros, Andres"]
+[Black "Cortijo Tocino, David"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2006"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 e5 7.Nf5 d5 8.cxd5 Nxe4 9.Ne3 Nxc3 10.bxc3 Ne7 11.g3 Nf5 12.Bg2 Qc7 13.Qd3 Nxe3 14.Bxe3 Bd7 15.c4 Bb4+ 16.Ke2 Rc8 17.Rhc1 Qd6 18.Kf1 Bc5 19.Be4 g6 20.Bh6 f5 21.Bg2 Kf7 22.Kg1 Rc7 23.Re1 Rhc8 24.Rac1 Bb4 25.Re2 b5 26.Qe3 bxc4 27.Qxe5 Qxe5 28.Rxe5 c3 29.Bf4 g5 30.Bxg5 c2 31.Re3 Kg6 32.Rb3 a5 33.Bf4 Rc3 34.Rb2 Ba3 35.Rb6+ Kf7 36.Bf1 Bxc1 37.Bxc1 R3c5 38.Rb7 Rxd5 39.Kg2 Rd1 40.h4 Ke8 41.Rb6 Rxc1 0-1

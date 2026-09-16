@@ -1,0 +1,15 @@
+[Event "Round 7: Royal, Shreyas - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-7/ruPHE0Ga/ySyJls93"]
+[Date "2026.07.07"]
+[Round "7.1"]
+[White "Royal, Shreyas"]
+[Black "Badacsonyi, Stanley"]
+[Result "1-0"]
+[WhiteElo "2502"]
+[BlackElo "2312"]
+[ECO "C13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Nxf6+ Bxf6 7.Bxf6 Qxf6 8.Nf3 O-O 9.Qd3 Rd8 10.O-O-O c5 11.Qe4 Nc6 12.Bd3 Qh6+ 13.Kb1 cxd4 14.h4 Qg6 15.Qe2 Qf6 16.Ng5 h6 17.f4 Bd7 18.a3 Ne7 19.Rdf1 Nf5 20.Ne4 Qe7 21.g4 Ne3 22.g5 Bc6 23.Rfg1 Kf8 24.gxh6 gxh6 25.Qh5 Nf5 26.Rh3 Bxe4 27.Bxe4 Qf6 28.Bxf5 exf5 29.Rb3 d3 30.cxd3 Rd7 31.Rb5 Re8 32.Rxf5 Qh8 33.Ka2 Re6 34.Rc1 Qd4 35.Rc8+ Kg7 36.Rd8 Red6 37.Qg4+ Rg6 38.Rxf7+ Rxf7 39.Qxg6+ Kxg6 40.Rxd4 Kh5 41.f5 Rxf5 42.Kb3 Rf7 43.Kc3 Rc7+ 44.Kd2 Re7 45.Rf4 Re6 46.d4 Rb6 47.Kc3 Rc6+ 48.Kd2 Rb6 49.Kc3 Rc6+ 50.Kd3 Kg6 51.d5 Rc1 52.Kd4 Rc2 53.b4 Ra2 54.d6 Ra1 55.Kd5 Rd1+ 56.Ke6 Re1+ 57.Kd7 1-0

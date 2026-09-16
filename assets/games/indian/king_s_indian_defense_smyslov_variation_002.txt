@@ -1,0 +1,15 @@
+[Event "Round 1: Song, Julien - Botez, Alexandra"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-1/W7ePJZtK/96pJx7xy"]
+[Date "2026.07.05"]
+[Round "1.2"]
+[White "Song, Julien"]
+[Black "Botez, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2227"]
+[BlackElo "2066"]
+[ECO "E61"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 d6 5.Bg5 h6 6.Bh4 Bf5 7.Nd2 g5 8.Bg3 O-O 9.e3 Nbd7 10.Be2 c5 11.d5 a6 12.a4 Qb6 13.Qc1 Ne5 14.Bxe5 dxe5 15.e4 Bg6 16.O-O Ne8 17.Ra3 Nd6 18.Rb3 Qc7 19.Qd1 Rab8 20.Re1 Qd7 21.Bg4 f5 22.exf5 Bxf5 23.Bxf5 Qxf5 24.Nce4 b6 25.Ree3 g4 26.Qe2 Bf6 27.Rg3 h5 28.h3 Bh4 29.hxg4 Qf4 30.Rh3 Bf6 31.Rbf3 Qh6 32.g5 Bxg5 33.Nxg5 Rxf3 34.Rxf3 Rf8 35.Rg3 Nf5 36.Nge4+ Nxg3 37.Nxg3 Qf4 38.Nge4 h4 39.Qh5 Rf5 40.Qg6+ Kf8 41.d6 exd6 42.Qxd6+ Kg7 43.Qe7+ Rf7 44.Qg5+ Qxg5 45.Nxg5 Rd7 46.Nge4 Rd4 47.b3 Kg6 48.f3 Kf5 49.Kf2 Kf4 50.Ke2 Rd8 51.Nf1 Rg8 52.Ne3 Rh8 53.Nd5+ Kf5 54.Nxb6 Rb8 55.a5 Rg8 56.Kf2 Rb8 57.Nxc5 Rd8 58.Nd5 Rb8 59.b4 Rh8 60.Nxa6 e4 61.fxe4+ Kxe4 62.b5 Rf8+ 63.Ke2 Rg8 1-0

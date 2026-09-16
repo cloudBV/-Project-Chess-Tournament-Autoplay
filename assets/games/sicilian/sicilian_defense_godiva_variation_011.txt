@@ -1,0 +1,14 @@
+[Event "Round 10: Velasquez, Andres Felipe - Munoz Triana, Joseph Steve"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-10/EGR1f4HB/UA2HCeWt"]
+[Date "2026.07.11"]
+[Round "10.11"]
+[White "Velasquez, Andres Felipe"]
+[Black "Munoz Triana, Joseph Steve"]
+[Result "0-1"]
+[WhiteElo "2036"]
+[BlackElo "2210"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.g3 Bb4 8.Bg2 a5 9.O-O a4 10.Nd2 Qc7 11.Nb5 Qa5 12.Qe2 O-O 13.a3 Bc5 14.c4 Nd4 15.Nxd4 Bxd4 16.Qd3 e5 17.Nf3 Bc5 18.Bd2 Qc7 19.Bc3 d6 20.Bb4 Be6 21.Rac1 Rfd8 22.Rfd1 h6 23.h3 Rac8 24.Nd2 Bd4 25.Bc3 Ba7 26.Bb4 Bd4 27.Rc2 Nd7 28.Nf3 Nc5 29.Qe2 Nb3 30.Bf1 b5 31.Kg2 Bxc4 32.Qe1 Bxf1+ 33.Qxf1 Qxc2 34.Re1 Qc4 35.Re2 Bc5 36.Bc3 b4 37.axb4 Bxb4 38.Nd2 Nxd2 39.Rxd2 Qxf1+ 0-1

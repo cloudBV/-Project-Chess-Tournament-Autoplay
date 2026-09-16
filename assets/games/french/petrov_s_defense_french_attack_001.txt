@@ -1,0 +1,14 @@
+[Event "Round 6: Roubal, Matyas - Kriz, Daniel"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-6/qShzz9eM/LCuZlO6X"]
+[Date "2026.07.02"]
+[Round "6.12"]
+[White "Roubal, Matyas"]
+[Black "Kriz, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2109"]
+[BlackElo "2024"]
+[ECO "C42"]
+[Variant "Standard"]
+[Opening "Petrov's Defense: French Attack"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 d5 7.Bd3 Bg4 8.O-O Be7 9.Bf4 O-O 10.Nbd2 Re8 11.c3 Nbd7 12.Qb3 Qc8 13.Ne5 Be6 14.Qd1 Nf8 15.h3 Bf5 16.Bxf5 Qxf5 17.Bh2 Bd6 18.g4 Qc8 19.f4 Ng6 20.Qf3 c6 21.Rae1 Nd7 22.Bg3 Qc7 23.h4 f6 24.Nd3 a5 25.Kg2 a4 26.g5 fxg5 27.hxg5 Rxe1 28.Rxe1 Rf8 29.Rf1 Ne7 30.Qg4 Nf5 31.Bf2 g6 32.Re1 Ng7 33.Bg3 Nb6 34.a3 Nc8 35.Nf3 Ne7 36.Nfe5 Nef5 37.Bf2 Nh5 38.Rh1 b6 1/2-1/2

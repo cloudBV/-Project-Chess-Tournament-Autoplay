@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.10"]
+[White "Dubinski, Mateusz"]
+[Black "Zanan, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2183"]
+[BlackElo "2484"]
+[ECO "E45"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, Fischer Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6 6.a3 Bxc3+ 7.Nxc3 d5 8.Qa4+ c6 9.b3 O-O 10.Be2 Bb7 11.O-O a5 12.b4 dxc4 13.b5 cxb5 14.Nxb5 Qd7 15.Qxc4 Rc8 16.Qb3 Bd5 17.Qa4 Be4 18.Qd1 a4 19.Bd2 Bc2 20.Qe1 Nc6 21.Rc1 Bb3 22.Bc3 Nd5 23.Qd2 f5 24.Bd3 Na7 25.Nxa7 Rxa7 26.Bb2 Rac7 27.Rxc7 Rxc7 28.Rc1 Qc8 29.Rxc7 Qxc7 30.Qc1 Qd7 31.f3 b5 32.e4 Nb6 33.Qc5 Nc4 34.Bxc4 Bxc4 35.Qe5 h6 36.h4 fxe4 37.fxe4 Qf7 38.h5 Kh7 39.Kh2 1/2-1/2

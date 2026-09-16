@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-9/aPBxlkPe/OlZVS9fM"]
+[Date "2026.07.17"]
+[Round "9.4"]
+[White "Skreko, Igor"]
+[Black "Jares, Michal"]
+[Result "0-1"]
+[WhiteElo "2217"]
+[BlackElo "2310"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.O-O Bg4 5.d3 e6 6.Nbd2 Be7 7.e4 O-O 8.h3 Bh5 9.e5 Nfd7 10.g4 Bg6 11.Re1 c5 12.Nf1 Nc6 13.Bf4 f6 14.Bg3 fxe5 15.N1d2 Bd6 16.Qe2 Qc7 17.c4 Rae8 18.a3 Kh8 19.Qe3 e4 20.Bxd6 Qxd6 21.dxe4 d4 22.Qb3 b6 23.e5 Ncxe5 24.Nxe5 Nxe5 25.Qg3 Nf7 26.f4 Nd8 27.Rf1 Nc6 28.Rf2 d3 29.Re1 Nd4 30.Bf1 Nc2 31.Re5 Qd4 32.h4 h6 33.h5 Bh7 34.Kh2 Qxb2 35.Ne4 Qd4 36.Nd2 Nxa3 37.g5 hxg5 38.Rxg5 Re7 39.Rg6 Ref7 40.Rg4 Rf5 41.Rh4 e5 42.Rg2 exf4 43.Qf3 Nc2 44.Nb3 Qf6 45.Rh3 Ne1 0-1

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.12"]
+[White "Moya Gimeno, Raul"]
+[Black "Povshednyi, Ivan"]
+[Result "0-1"]
+[WhiteElo "2035"]
+[BlackElo "2393"]
+[ECO "B12"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6 5.g4 Be4 6.f3 Bh7 7.e6 c5 8.exf7+ Kxf7 9.f4 Nc6 10.Nf3 e6 11.Ne5+ Nxe5 12.fxe5 Be4 13.Rh2 Ne7 14.Nc3 Nc6 15.Be3 cxd4 16.Bxd4 Bb4 17.Qd2 Nxd4 18.Qxd4 Qb6 19.Qd2 Rhc8 20.Rh3 Kg8 21.a3 Bxc3 22.bxc3 Rf8 23.O-O-O Qc5 24.Kb2 Rxf1 0-1

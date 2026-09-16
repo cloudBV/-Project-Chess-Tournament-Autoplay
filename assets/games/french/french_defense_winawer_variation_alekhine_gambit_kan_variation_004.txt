@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "6.10"]
+[White "Stickler, Florentin"]
+[Black "Dobrowolski, Kamil"]
+[Result "1-0"]
+[WhiteElo "2210"]
+[BlackElo "2040"]
+[ECO "C15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Alekhine Gambit, Kan Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6 7.d5 exd5 8.Qxd5 Be6 9.Qxd8+ Rxd8 10.Bf4 Nf6 11.Bxc7 Rd7 12.Bf4 Nd4 13.O-O-O O-O 14.Be5 Rfd8 15.h3 Bf5 16.g4 Bg6 17.Bg2 b6 18.Rhe1 Kf8 19.Bxf6 gxf6 20.Bxe4 Bxe4 21.Rxe4 f5 22.gxf5 Nxf5 23.Rxd7 Rxd7 24.b4 h5 25.Re5 Nd4 26.Rxh5 Rc7 27.Kb2 f5 28.Rh4 Rc4 29.Rh7 a5 30.bxa5 bxa5 31.Ra7 Nc6 32.Rc7 f4 33.Nd5 f3 34.Nb6 Rh4 35.Rxc6 Rxh3 36.Nc4 a4 37.Rf6+ Ke7 38.Rf4 Ke6 39.Nd2 Kd5 40.Rxf3 Rh2 41.Rd3+ Kc5 42.f4 Rh4 43.f5 Rf4 44.Rf3 Rd4 45.f6 Rd8 46.f7 Rf8 47.Ne4+ Kd5 48.Ng5 Ke5 49.Nh7 Rb8+ 50.Ka2 1-0

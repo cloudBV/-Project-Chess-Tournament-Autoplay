@@ -1,0 +1,15 @@
+[Event "Round 5: Stern, Robert - Babrikowski, Peter, Dr."]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-5/TDq4OB2t/YnbQtE3K"]
+[Date "2026.07.10"]
+[Round "5.3"]
+[White "Stern, Robert"]
+[Black "Babrikowski, Peter, Dr."]
+[Result "0-1"]
+[WhiteElo "2028"]
+[BlackElo "2156"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 d6 4.Bb2 Nf6 5.e5 dxe5 6.Nxe5 Be7 7.Bd3 O-O 8.O-O b6 9.Qf3 Qd5 10.Qxd5 exd5 11.Re1 Bd6 12.Nc3 Bxe5 13.Rxe5 Nc6 14.Re2 Nb4 15.Rae1 Nxd3 16.cxd3 Ba6 17.Re5 d4 18.Ne4 Ng4 19.Re7 Bxd3 20.Nd6 Nf6 21.h3 Nd5 22.Rd7 Rad8 23.Rxd8 Rxd8 24.Re5 Nf6 25.Nc4 Re8 26.Rxe8+ Nxe8 27.Ne5 Be4 28.b4 f6 29.Nd7 cxb4 30.Bxd4 Bd5 31.Nb8 Nc7 32.Kf1 Kf7 33.f3 Ke7 34.Ke2 Kd8 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Hochgraefe, Markus, Dr. - Huhndorf, Arnold"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-3/GowbS71k/37PZK8QV"]
+[Date "2026.07.19"]
+[Round "3.2"]
+[White "Hochgraefe, Markus, Dr."]
+[Black "Huhndorf, Arnold"]
+[Result "1/2-1/2"]
+[WhiteElo "2324"]
+[BlackElo "2157"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.Nf3 c5 2.c4 g6 3.e4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 d6 7.f3 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.Nd5 Qxa2 13.Nxe7+ Kh8 14.Be2 Ng8 15.Nd5 Bxd5 16.cxd5 Qxb2 17.Qxb2 Bxb2 18.Rc7 f5 19.exf5 Rxf5 20.Rxb7 Bc3+ 21.Kf2 Rxd5 22.Rxa7 Rxa7 23.Bxa7 Bd4+ 24.Bxd4+ Rxd4 25.Ra1 Nf6 26.Ra6 Kg7 27.g3 d5 28.Ra7+ Kf8 29.Ke3 Rb4 30.Bd3 Ke8 31.g4 Nd7 32.Ra5 Nb6 33.Rc5 Nc4+ 34.Kf2 Rb2+ 35.Kg3 Nb6 36.h4 Ke7 37.Rc7+ Nd7 38.Ra7 Kd6 39.h5 gxh5 40.Bxh7 hxg4 41.fxg4 Nf6 42.Bf5 Ne4+ 43.Kf4 Rf2+ 44.Ke3 Rg2 45.Rd7+ Kc6 46.Rxd5 Re2+ 47.Kxe2 Kxd5 48.Kf3 Ng5+ 49.Kf4 Nh3+ 50.Kg3 Ng5 51.Kh4 Nf3+ 52.Kh5 Ke5 53.Kh6 Kf4 54.Be6 Ng5 55.Bd7 Nf7+ 56.Kh5 Ne5 1/2-1/2

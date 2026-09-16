@@ -1,0 +1,15 @@
+[Event "Round 4: Safranek, William - Vidyarthi, Omya"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-4/Hgx3Jw9l/EnsedN1U"]
+[Date "2026.07.09"]
+[Round "4.3"]
+[White "Safranek, William"]
+[Black "Vidyarthi, Omya"]
+[Result "1-0"]
+[WhiteElo "2252"]
+[BlackElo "2134"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.h3 d5 5.Bb5 d4 6.Ne2 Bd6 7.d3 O-O 8.Bxc6 bxc6 9.O-O h6 10.Nh2 c5 11.b3 Ne8 12.Ng3 Qf6 13.Qh5 Qg6 14.Qf3 Nf6 15.Nf5 Nh7 16.Re1 Kh8 17.Nf1 Ng5 18.Qg4 Qf6 19.Bxg5 Qxg5 20.Qf3 g6 21.h4 Qf6 22.Nxd4 Qxh4 23.Ne2 f5 24.exf5 Bxf5 25.Neg3 Rae8 26.Nxf5 gxf5 27.g3 Qh3 28.Qh1 Qxh1+ 29.Kxh1 f4 30.g4 h5 31.Nh2 hxg4 32.Nxg4 f3 33.Re4 Rf5 34.Kh2 Rf4 35.Kg3 Ref8 36.Rae1 R4f5 37.Rh1+ Kg7 38.Rh4 Be7 39.Rh3 Rg5 40.Kh2 Bd6 41.Ne3 Kg6 42.Rhh4 Rf4 43.Rg4 Rfxg4 44.Nxg4 c4 45.bxc4 c5 46.Kg3 Rh5 47.Nh2 Kf5 48.Nxf3 Rh1 49.Ne1 Rg1+ 50.Kf3 Bc7 51.Ke2 Ba5 52.Nf3 Rc1 53.Rxe5+ Kf4 54.Re4+ Kf5 55.Ke3 Rxc2 56.Re5+ Kf6 57.a4 Ra2 58.Ke4 Bb6 59.Rf5+ Ke7 60.Kd5 Rxf2 61.Nd4 Ra2 62.Nc6+ Kd7 63.a5 Bc7 64.Rf7+ Kc8 65.Nxa7+ Kb8 66.Nc6+ Kc8 67.Kxc5 Bh2 68.d4 Rd2 69.a6 Bd6+ 70.Kxd6 Rxd4+ 71.Nxd4 1-0

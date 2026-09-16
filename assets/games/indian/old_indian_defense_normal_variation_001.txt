@@ -1,0 +1,14 @@
+[Event "Round 7: Svadlenka, Dominik - Hacha, Ales"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-7/7NEQFjwq/BbJBKHR3"]
+[Date "2026.07.03"]
+[Round "7.8"]
+[White "Svadlenka, Dominik"]
+[Black "Hacha, Ales"]
+[Result "1-0"]
+[WhiteElo "2157"]
+[BlackElo "2073"]
+[ECO "A55"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Normal Variation"]
+
+1.d4 d6 2.Nf3 Nd7 3.c4 e5 4.Nc3 Ngf6 5.e4 Be7 6.Be2 O-O 7.O-O Re8 8.Re1 Nf8 9.h3 Ng6 10.Bf1 c6 11.Rb1 a6 12.b4 b5 13.a4 c5 14.bxc5 exd4 15.Qxd4 dxc5 16.Qxd8 Bxd8 17.cxb5 Ba5 18.Bd2 Bxc3 19.Bxc3 Nxe4 20.Nd2 Bf5 21.Nxe4 Bxe4 22.Rb2 Bd5 23.Rxe8+ Rxe8 24.bxa6 Ra8 25.Rb5 Bc6 26.Rxc5 Bxa4 27.Rc7 Nf4 28.Bc4 Ne6 29.Bxe6 fxe6 30.Rxg7+ Kf8 31.a7 1-0

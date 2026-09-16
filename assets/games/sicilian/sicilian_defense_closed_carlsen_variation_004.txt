@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.5"]
+[White "Gjersvik, Aksel Elias"]
+[Black "Oksendal, Martin"]
+[Result "0-1"]
+[WhiteElo "2072"]
+[BlackElo "2240"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Carlsen Variation"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 g6 6.b3 Bh6 7.f4 Nf6 8.Bb2 O-O 9.O-O-O e5 10.g3 exf4 11.gxf4 Nh5 12.Nge2 Qh4 13.Nd5 Be6 14.Kb1 Bxd5 15.Qxd5 Nxf4 16.Nxf4 Bxf4 17.Bc4 Be5 18.Rhf1 Qe7 19.Bc1 Rae8 20.Ba3 Qc7 21.Bxd6 Bxd6 22.Qxd6 Qxd6 23.Rxd6 Rxe4 24.Bd5 Re7 25.Bxc6 bxc6 26.Rxc6 f5 27.a4 f4 28.Rd6 Re2 29.c4 f3 30.c5 f2 31.Rdd1 Rf3 32.Rc1 Rxb3+ 33.Ka1 Rbb2 34.Rc4 Ra2+ 35.Kb1 Reb2+ 36.Kc1 Rb8 37.Kd1 Rb1+ 0-1

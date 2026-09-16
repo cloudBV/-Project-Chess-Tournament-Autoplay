@@ -1,0 +1,14 @@
+[Event "Round 3: Huschenbeth, Niclas - Braun, Georg, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-3/SAJ7dRjf/qVCwgFeR"]
+[Date "2026.07.19"]
+[Round "3.3"]
+[White "Huschenbeth, Niclas"]
+[Black "Braun, Georg, Dr."]
+[Result "1-0"]
+[WhiteElo "2586"]
+[BlackElo "2374"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 Bg4 5.Nbd2 c5 6.h3 Bxf3 7.Nxf3 Nc6 8.g3 e6 9.Bg2 Qc7 10.Bf4 Bh6 11.Qd2 Bxf4 12.Qxf4 h6 13.Qe3 Qa5+ 14.c3 Nge7 15.O-O Nf5 16.Qc1 g5 17.a3 Qc7 18.Re1 Rc8 19.Qd1 Nfe7 20.b4 b6 21.Qd2 Ng6 22.d4 Nce7 23.Rac1 c4 24.Nh2 Kd7 25.Bf3 Rcf8 26.Bh5 Kc8 27.b5 Kb7 28.a4 a5 29.bxa6+ Ka7 30.Ng4 Nc6 31.Nf6 Nge7 32.Bd1 Ng8 33.Nh5 Nge7 34.Bc2 Na5 35.Rb1 Nec6 36.Qc1 Qe7 37.Qb2 Rb8 38.Nf6 Rhc8 39.Kg2 Rc7 40.Rh1 Nb3 41.Bxb3 cxb3 42.Qxb3 Na5 43.Qb4 Kxa6 44.h4 Nc4 45.Qb5+ Ka7 46.a5 Nxa5 47.Ra1 gxh4 48.Rxh4 Rbb7 49.Ne8 Rd7 50.Nd6 Rxd6 51.exd6 Qxd6 52.Rxh6 Qc7 53.Ra3 Qd6 54.Qb4 Qd8 55.Rh1 Kb8 56.Qb5 Nc4 57.Ra2 Kc7 58.Qb1 Nd6 59.Qh7 Qg5 60.Ra8 Qd2 61.Qh6 Qc2 62.Qf4 Kc6 63.Rd8 Rd7 64.Rxd7 Kxd7 65.Qf3 Kc6 66.Rh8 Kb5 67.Rd8 Nc4 68.Qxf7 Ne3+ 69.Kh3 Nf5 70.Qxe6 Nd6 71.Qxd5+ Ka4 72.Ra8# 1-0

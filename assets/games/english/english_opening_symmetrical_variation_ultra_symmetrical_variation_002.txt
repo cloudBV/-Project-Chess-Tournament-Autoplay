@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/lgmyZ4gu"]
+[Date "2026.07.05"]
+[Round "9.8"]
+[White "Obrycki, Tomasz"]
+[Black "Futyma, Dawid"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2099"]
+[ECO "A36"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.d3 d6 6.e3 e6 7.Nge2 Nge7 8.O-O O-O 9.b3 d5 10.Rb1 a6 11.Ba3 b6 12.d4 cxd4 13.exd4 Re8 14.Nf4 Nxd4 15.cxd5 Nxd5 16.Ncxd5 exd5 17.Bb2 Nb5 18.a4 Bxb2 19.axb5 Bg7 20.Qxd5 Rb8 21.Qxd8 Rxd8 22.Rbd1 Rf8 23.Nd5 1/2-1/2

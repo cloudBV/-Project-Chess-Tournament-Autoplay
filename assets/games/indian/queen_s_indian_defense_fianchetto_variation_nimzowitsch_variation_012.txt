@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.24"]
+[White "Lihotsky, Lukas"]
+[Black "Korshunov, Sergey And."]
+[Result "0-1"]
+[WhiteElo "2159"]
+[BlackElo "2404"]
+[ECO "E15"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 c5 6.e4 cxd4 7.e5 Ng4 8.h3 Nh6 9.Bg2 Bb7 10.O-O Nf5 11.Nb3 Bxf3 12.Qxf3 Nc6 13.h4 Rc8 14.Bf4 h6 15.h5 Bc5 16.Qg4 O-O 17.Rad1 f6 18.exf6 Qxf6 19.Rfe1 Bd6 20.Nd2 Bxf4 21.Qxf4 Qe7 22.Qg4 Qb4 23.b3 Qa3 24.Qe2 Qxa2 25.Ra1 Qb2 26.Bxc6 Rxc6 27.Rxa7 d3 28.Qd1 Nd4 29.Kg2 Nxb3 30.Qxb3 Qxd2 31.Rf1 Qc2 32.Qb5 Qxc4 33.Qxc4 Rxc4 34.Rxd7 Rc3 35.Rd6 b5 36.Rd1 Rc2 37.Rf1 Rf5 38.Rxd3 Rxh5 39.Rd7 Rf5 40.Rb7 h5 41.Kg1 Rb2 42.Kg2 Kh7 43.Kg1 Kg6 44.Kg2 e5 45.Kg1 e4 46.Re7 Re2 47.Rb7 Kh6 48.Re7 g6 49.Rb7 Kg5 50.Rb6 Kh6 51.Re6 Rf3 52.Kg2 Rb3 53.Kg1 e3 54.fxe3 Rbxe3 55.Rxe3 Rxe3 56.Kf2 Re6 57.Rb1 Rb6 58.Rb4 Kg5 0-1

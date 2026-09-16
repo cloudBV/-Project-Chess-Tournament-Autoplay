@@ -1,0 +1,15 @@
+[Event "Round 9: Darsadze, Nikoloz - Kviriashvili, Andria"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-9/FKixVmya/5lA3GUfO"]
+[Date "2026.07.20"]
+[Round "9.10"]
+[White "Darsadze, Nikoloz"]
+[Black "Kviriashvili, Andria"]
+[Result "1-0"]
+[WhiteElo "2125"]
+[BlackElo "2305"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.e3 c5 5.c3 d5 6.Nbd2 Qb6 7.Qb3 c4 8.Qa3 Qa6 9.Qxa6 Nxa6 10.b3 b5 11.a4 b4 12.Rc1 bxc3 13.Rxc3 cxb3 14.Bb5+ Bd7 15.Bxa6 Bxa4 16.O-O O-O 17.Ra1 Bd7 18.Rxb3 Bc8 19.Rba3 h6 20.h3 Rd8 21.Bxc8 Raxc8 22.Be5 Bf8 23.Bxf6 exf6 24.Rxa7 Bd6 25.g3 1-0

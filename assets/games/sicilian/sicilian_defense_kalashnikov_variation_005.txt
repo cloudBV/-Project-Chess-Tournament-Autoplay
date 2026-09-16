@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/u1Gpy8Po"]
+[Date "2026.07.05"]
+[Round "9.15"]
+[White "Korszanski, Stanislaw"]
+[Black "Serafin, Franciszek"]
+[Result "1/2-1/2"]
+[WhiteElo "2225"]
+[BlackElo "2004"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.Nc4 b5 9.Ne3 Nf6 10.Bd3 g6 11.a4 b4 12.Ncd5 Bg7 13.O-O O-O 14.c3 bxc3 15.bxc3 Bxd5 16.exd5 Ne7 17.Qb3 Qc7 18.Ba3 Rfc8 19.Rfd1 Nd7 20.Bf1 Nc5 21.Qc2 f5 22.Nc4 Rcb8 23.a5 Nc8 24.Rab1 e4 25.Bxc5 Qxc5 26.Qa4 Qa7 27.Qc6 Bf8 28.Nb6 Nxb6 29.axb6 Qb7 30.Rd4 Be7 31.g3 e3 32.Rc4 exf2+ 33.Kg2 a5 34.Ra4 Kg7 35.c4 Bf8 36.Kxf2 Qe7 37.Bg2 Ra6 38.c5 dxc5 39.Bf1 Raa8 40.b7 Ra7 41.Ba6 Qd8 42.Rd1 Qd6 43.Rxa5 Rbxb7 44.Bxb7 Rxa5 45.Re1 Ra2+ 46.Kf3 1/2-1/2

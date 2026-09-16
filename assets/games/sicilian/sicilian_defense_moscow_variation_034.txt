@@ -1,0 +1,15 @@
+[Event "Blitz Boys 10"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "9.1"]
+[White "Huzela, Lukian"]
+[Black "Petrenko, Tymofii"]
+[Result "1/2-1/2"]
+[WhiteElo "2091"]
+[BlackElo "2145"]
+[ECO "B51"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O Nf6 5.Re1 g6 6.b3 Bg7 7.Bb2 O-O 8.a4 a6 9.Bf1 b6 10.d3 Bb7 11.Nbd2 b5 12.Rb1 Qa5 13.g3 Qc7 14.Bg2 e5 15.Nf1 Rab8 16.Qd2 bxa4 17.bxa4 Bc6 18.a5 c4 19.Ne3 cxd3 20.cxd3 Nc5 21.Ba3 Bb5 22.Rec1 Qe7 23.Bxc5 dxc5 24.Qc3 Nd7 25.Nd5 Qd6 26.Bh3 f5 27.Rd1 Nf6 28.Nxf6+ Rxf6 29.Qxe5 Qd8 30.Qxc5 Rc8 31.Qd5+ Qxd5 32.exd5 Rd6 33.Bg2 Rxd5 34.Rbc1 Rcd8 35.Ne1 R5d6 36.Bf1 h6 37.Rb1 Bc3 38.h4 Bxa5 39.Nf3 Bxd3 40.Bxd3 Rxd3 41.Rxd3 Rxd3 42.Rb8+ Rd8 43.Rb7 Bc3 44.Rb3 Bg7 45.Rb6 a5 46.Ra6 Rd5 47.Rxg6 Kf7 48.Ra6 Rb5 49.Ra7+ Kg6 50.Kg2 h5 51.Ra6+ Kh7 52.Ng5+ Kg8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.35"]
+[White "Stary, Simon"]
+[Black "Migalko, Dmitriy"]
+[Result "1-0"]
+[WhiteElo "2004"]
+[BlackElo "2097"]
+[ECO "B48"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O Ne5 9.Qg3 b5 10.f4 Neg4 11.e5 Nxe3 12.Qxe3 b4 13.exf6 bxc3 14.fxg7 cxb2+ 15.Kb1 Bxg7 16.Nf5 Bf6 17.Nd6+ Ke7 18.Qa3 Kd8 19.Nxf7+ Ke8 20.Nxh8 Bxh8 21.Be2 Bg7 22.f5 1-0

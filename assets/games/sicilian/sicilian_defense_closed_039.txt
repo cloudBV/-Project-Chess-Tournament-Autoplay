@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "3.12"]
+[White "Ronai, Akos Balazs"]
+[Black "Kulich, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2209"]
+[BlackElo "2122"]
+[ECO "B24"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nge2 d6 6.d3 e6 7.Be3 Nge7 8.Qd2 a6 9.O-O O-O 10.Bh6 Rb8 11.Bxg7 Kxg7 12.d4 e5 13.d5 Nd4 14.Nxd4 cxd4 15.Ne2 Bg4 16.f3 Bd7 17.c3 dxc3 18.Nxc3 b5 19.b4 Nc8 20.Rfc1 Nb6 21.Bf1 f5 22.Rc2 Rc8 23.Rac1 Nc4 24.Bxc4 Rxc4 25.Nd1 Qb6+ 26.Qf2 Rd4 27.exf5 Rxf5 28.Ne3 Rf7 29.Kg2 Qa7 30.a3 Rd3 31.Rc3 Qd4 32.Rxd3 Qxd3 33.g4 Qxa3 34.Qd2 a5 35.bxa5 b4 36.Rc7 Qxa5 37.Rb7 Qd8 38.Qxb4 Qf6 39.Qe4 Be8 40.Rxf7+ Bxf7 41.Kg3 Qd8 42.h4 Qa5 43.Nc4 Qc5 44.Ne3 Qa5 1/2-1/2

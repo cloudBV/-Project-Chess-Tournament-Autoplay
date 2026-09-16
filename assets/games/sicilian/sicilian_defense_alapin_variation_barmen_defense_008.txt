@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "2.2"]
+[White "Bokhnak, Tymofii"]
+[Black "Jun, Rudolf"]
+[Result "1-0"]
+[WhiteElo "2252"]
+[BlackElo "2303"]
+[ECO "B22"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nc6 5.Nf3 e5 6.Nxe5 Nxe5 7.dxe5 Qxe5+ 8.Be2 Bd7 9.O-O O-O-O 10.Bf3 Bb5 11.Qb3 c4 12.Qc2 Bc5 13.Nd2 Nf6 14.a4 Ba6 15.g3 h5 16.Ne4 Nxe4 17.Bxe4 g6 18.Bf4 Qf6 19.h4 Rd7 20.Rad1 Rxd1 21.Rxd1 b6 22.Bg2 Qe6 23.Bd5 Qe7 24.a5 b5 25.b4 cxb3 26.Qxb3 Rd8 27.c4 Qe2 28.Rd2 Qe1+ 29.Kg2 Rxd5 30.cxd5 Kd7 31.Qd3 Qa1 32.Rc2 Qa3 33.Qxa3 Bxa3 34.Rc7+ Ke8 35.d6 b4 36.d7+ Kd8 37.Rxa7 1-0

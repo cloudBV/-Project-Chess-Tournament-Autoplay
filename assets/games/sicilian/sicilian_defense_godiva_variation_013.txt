@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.19"]
+[White "Blazquez Sanz, Oscar"]
+[Black "Vesga Izeta, Markel"]
+[Result "0-1"]
+[WhiteElo "2155"]
+[BlackElo "2312"]
+[ECO "B32"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.a3 Qc7 8.Be3 a6 9.Be2 Be7 10.O-O b5 11.f4 d6 12.Bf3 Bb7 13.Qe1 O-O 14.g4 b4 15.axb4 Nxb4 16.Qf2 d5 17.e5 Ne4 18.Bxe4 dxe4 19.Na5 Bd5 20.Bb6 Qc8 21.Nxd5 Nxd5 22.Bd4 f5 23.exf6 Bxf6 24.Bxf6 Rxf6 25.Qe2 Qc5+ 26.Kh1 Nxf4 27.Qxe4 Raf8 28.Nb3 Qg5 29.Rxa6 h5 30.Ra5 Qh4 31.Ra8 Rxa8 32.Qxa8+ Rf8 33.Qe4 Qxg4 34.Nc5 e5 35.Rg1 Qc8 36.b4 Nh3 37.Qd5+ Kh8 38.Rg3 Rf1+ 0-1

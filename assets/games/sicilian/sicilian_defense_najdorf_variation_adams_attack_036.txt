@@ -1,0 +1,14 @@
+[Event "Round 6: Alexakis, Dimitris - Gautier, Anand"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-6/V8amVhcr/VMdsLlse"]
+[Date "2026.07.19"]
+[Round "6.7"]
+[White "Alexakis, Dimitris"]
+[Black "Gautier, Anand"]
+[Result "0-1"]
+[WhiteElo "2459"]
+[BlackElo "2198"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 g6 7.g4 Bg7 8.Be3 b5 9.Bg2 Bb7 10.g5 Nfd7 11.h4 Nc5 12.b4 Ne6 13.Nd5 Nc6 14.Nxe6 fxe6 15.Bb6 Qd7 16.Nc7+ Kf7 17.Bh3 Nd8 18.Nxa8 Bxe4 19.O-O Bxa8 20.Bd4 Qc6 21.f3 Rf8 22.Bg2 Bxd4+ 23.Qxd4 e5 24.Qd2 Ne6 25.Bh3 Nf4 26.Bg4 Kg7 27.a4 bxa4 28.c4 Qxc4 29.Kh2 Qb5 30.Rfc1 Bd5 31.Rc7 Rf7 32.Qc2 Bb3 33.Qd2 h6 34.gxh6+ Kxh6 35.Rac1 a3 36.R7c3 Bd5 37.Rxa3 Kg7 38.Ra5 Qb7 39.Ra3 Ne6 40.Rd3 Nd4 41.Rxd4 exd4 42.h5 Bxf3 43.Qg5 Qe4 44.Re1 Qxe1 45.Qxg6+ Kf8 46.Qh6+ Rg7 47.Qh8+ Kf7 48.Bxf3 Qf2+ 0-1

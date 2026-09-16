@@ -1,0 +1,14 @@
+[Event "Round 1: Sasikiran, Krishnan - Schmidt, Florian Pascal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/8P0hNrvu"]
+[Date "2026.07.13"]
+[Round "1.5"]
+[White "Sasikiran, Krishnan"]
+[Black "Schmidt, Florian Pascal"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2095"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 Be7 8.g4 h6 9.Rg1 b5 10.g5 hxg5 11.Nxg5 Bb7 12.Be3 Nbd7 13.a4 b4 14.Bc4 O-O 15.Nd5 Nxd5 16.exd5 Nf6 17.a5 Qc7 18.Bb3 Bc8 19.Qf3 Ne8 20.h4 Bd7 21.h5 Qc8 22.h6 Bf5 23.hxg7 Nxg7 24.Ne4 Bxe4 25.Qxe4 f5 26.Qxb4 Rb8 27.Bb6 Qb7 28.O-O-O Rf6 29.Rg2 Kf7 30.Rdg1 Bf8 31.Qh4 Rc8 32.Qh7 Ke8 33.Ba4+ 1-0

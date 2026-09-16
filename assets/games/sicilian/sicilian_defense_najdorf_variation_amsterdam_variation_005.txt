@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/YXLrT6ZS"]
+[Date "2026.07.04"]
+[Round "8.10"]
+[White "Janeczko, Jakub"]
+[Black "Klim, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2229"]
+[BlackElo "2202"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nbd7 8.Be2 Be7 9.g4 h6 10.O-O exf4 11.Bxf4 Ne5 12.h3 h5 13.g5 Bxh3 14.gxf6 Bxf6 15.Nd5 Bxf1 16.Qxf1 Bg5 17.Nd4 Ng6 18.Bh2 Ne7 19.Nf5 Nxf5 20.exf5 h4 21.Bd3 Kf8 22.Re1 Rh6 23.Re4 Qa5 24.Qg2 Qc5+ 25.Kf1 h3 26.Qxg5 Qxd5 27.Rg4 Qh1+ 28.Rg1 Qf3+ 29.Ke1 Re8+ 30.Kd2 Qf2+ 31.Kc3 Rc8+ 32.Kb3 Qb6+ 33.Ka3 Qc5+ 34.Kb3 Qd5+ 35.Ka3 1/2-1/2

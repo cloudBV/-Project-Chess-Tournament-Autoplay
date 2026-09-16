@@ -1,0 +1,15 @@
+[Event "Round 8: Nathan, Nitish - Rosen, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-8/fKPSQ5CP/tIL9wIA2"]
+[Date "2026.07.04"]
+[Round "8.14"]
+[White "Nathan, Nitish"]
+[Black "Rosen, Eric"]
+[Result "0-1"]
+[WhiteElo "2188"]
+[BlackElo "2327"]
+[ECO "D00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.Nf3 Nf6 5.Nbd2 cxd4 6.exd4 a6 7.Bd3 Nb4 8.Nb3 Nxd3+ 9.Qxd3 Bd7 10.a4 e6 11.O-O Be7 12.Rfe1 O-O 13.Ne5 Rc8 14.a5 Bb5 15.Qd1 Ne4 16.c3 Bd6 17.Be3 Qh4 18.g3 Qh3 19.Qg4 Qxg4 20.Nxg4 Rfd8 21.f3 Nf6 22.Nxf6+ gxf6 23.Nc5 Rc7 24.b4 Kf8 25.Bh6+ Ke7 26.Bf4 Bxf4 27.gxf4 Rg8+ 28.Kf2 f5 29.Rg1 Rg6 30.Rxg6 hxg6 31.h4 Rc8 32.Kg3 Bc6 33.Re1 Rh8 34.Re3 Kd6 35.Re1 Kc7 36.Ra1 Bb5 37.Re1 Bc4 38.Ra1 Kc6 39.Ra3 Bf1 40.Ra1 Bb5 41.Ra3 Kc7 42.Ra1 Bd7 43.Re1 Bc8 44.Ra1 Kc6 45.Re1 Kb5 46.Re3 Kc4 47.Na4 Kb3 48.Nb6 Kc2 49.c4 Kd2 50.Ra3 Rd8 51.c5 Bd7 52.Rb3 Bb5 53.Ra3 Rh8 54.Rb3 Bd3 55.Nd7 Bb5 56.Ne5 Rh7 57.Ra3 Kc2 58.Re3 Be8 59.Nd3 Kd2 60.Kf2 Rxh4 61.Ne1 Rh2+ 62.Ng2 Rxg2+ 0-1

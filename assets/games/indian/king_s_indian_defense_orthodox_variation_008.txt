@@ -1,0 +1,15 @@
+[Event "Round 9: Robson, Ray - Sindarov, Javokhir"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/i8uajf9U"]
+[Date "2026.07.04"]
+[Round "9.6"]
+[White "Robson, Ray"]
+[Black "Sindarov, Javokhir"]
+[Result "0-1"]
+[WhiteElo "2620"]
+[BlackElo "2680"]
+[ECO "E91"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Nf3 O-O 6.Be2 c5 7.dxc5 dxc5 8.Be3 b6 9.Qc2 Nc6 10.Rd1 Qc7 11.Nd5 Qb7 12.O-O Bg4 13.h3 Bxf3 14.Bxf3 Nd7 15.g3 e6 16.Nf4 Nde5 17.Bg2 Rfd8 18.b3 Qa6 19.a4 Qb7 20.Rxd8+ Rxd8 21.Rd1 Qc7 22.Qb1 Rd7 23.Kf1 Qd8 24.Ke2 Nd4+ 25.Bxd4 Rxd4 26.Rxd4 Qxd4 27.Qd1 Nc6 28.Qc2 Qa1 29.Qd2 Nd4+ 30.Ke3 Bf6 31.Ne2 Nxb3 32.Qd7 Nd4 33.Nxd4 Bxd4+ 34.Kf4 Qc1+ 35.Kg4 h5+ 36.Kf3 Qd1+ 37.Kf4 Be3+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Papp, Sarah - Safarli, Josefine"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-3/Ckshw7Z0/JUY9mUOv"]
+[Date "2026.07.19"]
+[Round "3.4"]
+[White "Papp, Sarah"]
+[Black "Safarli, Josefine"]
+[Result "1/2-1/2"]
+[WhiteElo "2282"]
+[BlackElo "2267"]
+[ECO "C49"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Nimzowitsch Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6 bxc6 7.Nxe5 Re8 8.Nd3 Bxc3 9.dxc3 Nxe4 10.f3 Nf6 11.Bg5 h6 12.Bh4 d6 13.Re1 Be6 14.b3 c5 15.f4 Bf5 16.Qf3 Bxd3 17.cxd3 Rxe1+ 18.Rxe1 Rb8 19.Re3 d5 20.Re5 c4 21.dxc4 dxc4 22.b4 Rb6 23.Bf2 Ra6 24.Bd4 Rxa2 25.h3 Ra6 26.Qe2 Rc6 27.b5 Rd6 28.Re7 Kf8 29.Re3 Rxd4 30.cxd4 Qxd4 31.Kh1 Qxf4 32.Qf3 Qxf3 33.gxf3 Ne8 34.Re5 Nd6 35.Rc5 c3 36.Kg2 g6 37.Kf2 c2 38.Rxc7 Nxb5 39.Rxc2 Nd4 40.Ra2 Ne6 41.Rxa7 Nf4 42.h4 g5 43.hxg5 1/2-1/2

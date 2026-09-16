@@ -1,0 +1,14 @@
+[Event "Round 1: Savitha Shri B - Lumsdon, Andrew"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/xmNvH29a"]
+[Date "2026.07.13"]
+[Round "1.13"]
+[White "Savitha Shri B"]
+[Black "Lumsdon, Andrew"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2033"]
+[ECO "B16"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Nf3 Bg4 7.Be2 e6 8.h3 Bh5 9.O-O Bd6 10.c4 Qc7 11.d5 e5 12.Be3 c5 13.Nh4 Bg6 14.Bg4 Nd7 15.Qa4 b6 16.a3 O-O-O 17.b4 Kb8 18.Rfd1 Rhg8 19.Qb3 h5 20.Bf5 Rg7 21.Ra2 Ka8 22.Rb2 Rdg8 23.Qd3 Nf8 24.bxc5 bxc5 25.Bh6 Bxf5 26.Qxf5 Rg6 27.Bxf8 Bxf8 28.Nxg6 1-0

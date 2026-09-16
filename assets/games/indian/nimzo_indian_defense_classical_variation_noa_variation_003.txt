@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.22"]
+[White "Jammalamadaka, Vihaan"]
+[Black "Clasby, Derek"]
+[Result "1-0"]
+[WhiteElo "2109"]
+[BlackElo "2331"]
+[ECO "E34"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.Nf3 h6 6.a3 Bxc3+ 7.bxc3 O-O 8.g3 c5 9.Bg2 dxc4 10.O-O Nc6 11.dxc5 e5 12.Nd2 Qa5 13.a4 Be6 14.Ba3 Rfd8 15.Rfd1 Bd5 16.Bh3 e4 17.Nf1 Ne5 18.Bb4 Qc7 19.Ne3 Bc6 20.Rd4 a5 21.Ba3 g6 22.Rad1 Qe7 23.Qd2 Re8 24.Qb2 Qc7 25.Rd6 Kg7 26.R1d4 Qe7 27.Qc1 h5 28.Qd2 h4 29.Bc1 Rh8 30.g4 Bxa4 31.g5 Ne8 32.Nd5 Qf8 33.Qf4 Nc6 34.Rxe4 Nxd6 35.Qf6+ Kg8 36.cxd6 Qg7 37.Qf4 Qf8 38.d7 Kh7 39.Re8 1-0

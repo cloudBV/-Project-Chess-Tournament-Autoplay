@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.8"]
+[White "Prokofiev, Valentyn"]
+[Black "Zichenkov, Oleksandr"]
+[Result "1-0"]
+[WhiteElo "2434"]
+[BlackElo "2037"]
+[ECO "E97"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4 b6 10.Rb1 Nd7 11.c5 bxc5 12.bxc5 Nxc5 13.Be3 f5 14.Bxc5 dxc5 15.Bc4 Kh8 16.Nd2 c6 17.Nb3 fxe4 18.d6 Nf5 19.Nxe4 Nd4 20.Nbxc5 Bf5 21.Rb7 Bxe4 22.Nxe4 Rf4 23.f3 Rb8 24.Qb1 Nb5 25.Rxb8 Qxb8 26.Bxb5 cxb5 27.Rd1 Qb6+ 28.Kh1 Bf8 29.Qd3 a6 30.Qd5 Rf5 31.d7 Qd8 32.Qe6 Be7 33.Qxe7 Qxe7 34.d8=Q+ 1-0

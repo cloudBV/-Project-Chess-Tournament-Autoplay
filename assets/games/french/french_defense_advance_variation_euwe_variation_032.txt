@@ -1,0 +1,14 @@
+[Event "Round 6: Schmelowszky, David - Curien, Nicolas"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-6/UBdjhIls/ch9puJj9"]
+[Date "2026.07.16"]
+[Round "6.8"]
+[White "Schmelowszky, David"]
+[Black "Curien, Nicolas"]
+[Result "1/2-1/2"]
+[WhiteElo "2004"]
+[BlackElo "2133"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 Be7 10.O-O O-O 11.Bd3 f6 12.Bf4 Be8 13.Bxf5 exf5 14.exf6 Bxf6 15.Qd2 Bh5 16.Ne5 g5 17.Nxc6 bxc6 18.Be5 f4 19.Rfe1 f3 20.Bxf6 Qxf6 21.Re5 h6 22.Rae1 Rae8 23.Rxe8 Bxe8 24.Re5 fxg2 25.Qe3 Bd7 26.Ne1 Rf7 27.Nd3 Kg7 28.Kxg2 Bg4 29.Nc5 Qg6 30.Re7 Bf3+ 31.Kg3 Be4 32.Rxf7+ Kxf7 33.f3 Qd6+ 34.Kg2 Bf5 35.Nd3 Bxd3 36.Qxd3 Qg6 37.Qb3 Qe6 38.Qd3 Kg7 39.Qd2 Kg6 40.Qc2+ Kh5 41.Qf2 Kg6 42.Qc2+ Kh5 43.Qf2 1/2-1/2

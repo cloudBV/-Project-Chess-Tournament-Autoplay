@@ -1,0 +1,15 @@
+[Event "Round 5: Walentukiewicz, Michal - Jankowiak, Piotr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/LsfCdHDy"]
+[Date "2026.07.18"]
+[Round "5.32"]
+[White "Walentukiewicz, Michal"]
+[Black "Jankowiak, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2068"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.g3 d5 2.Bg2 Nf6 3.c4 e6 4.Nf3 Be7 5.O-O O-O 6.cxd5 exd5 7.d3 c5 8.Nc3 Nc6 9.e4 d4 10.Ne2 a6 11.Nf4 Rb8 12.Re1 Bg4 13.e5 Nd5 14.h3 Nxf4 15.Bxf4 Be6 16.a3 Qd7 17.Kh2 Rbe8 18.Rc1 Bd5 19.h4 h6 20.Bh3 Be6 21.Bxe6 fxe6 1/2-1/2

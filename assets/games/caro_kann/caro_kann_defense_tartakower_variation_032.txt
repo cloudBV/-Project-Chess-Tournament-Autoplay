@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/tNrInxVU"]
+[Date "2026.07.13"]
+[Round "1.18"]
+[White "Vasques, Antonio Pedro Freixial"]
+[Black "Pipiras, Filipa Fortuna"]
+[Result "1-0"]
+[WhiteElo "2218"]
+[BlackElo "2323"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O b5 12.d5 c5 13.Bxb5 Rb8 14.Bc6 Re7 15.Kb1 Ne5 16.Ka1 g6 17.Ng3 Ng4 18.Bc1 h4 19.Ne4 Bf5 20.f3 Bxe4 21.fxe4 Nxh2 22.e5 Bxe5 23.d6 Re6 24.Bd5 Qxd6 25.Bxe6 Qxe6 26.Qe4 g5 27.Qd5 Qg4 28.Rde1 Qg3 29.Re3 Qf2 30.Rxe5 fxe5 31.Qxe5 Qg3 32.Qxg5+ Qxg5 33.Bxg5 Ng4 34.Rxh4 f5 35.Rh1 Re8 36.Rf1 Re2 37.a4 Nf2 38.Bh4 Nd3 39.Rxf5 Nxb2 40.a5 Na4 41.Bf6 Rxg2 42.Rf4 Nb2 43.Rf5 Nd3 44.Rd5 c4 45.Bd4 Rc2 46.Rd8+ Kf7 47.Rd7+ Ke6 48.Rxa7 Kd5 1-0

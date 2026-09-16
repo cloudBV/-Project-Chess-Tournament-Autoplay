@@ -1,0 +1,14 @@
+[Event "Round 7: Kacprzak, Kacper - Saraci, Korab"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/7LWMdKrI"]
+[Date "2026.07.09"]
+[Round "7.26"]
+[White "Kacprzak, Kacper"]
+[Black "Saraci, Korab"]
+[Result "1/2-1/2"]
+[WhiteElo "2361"]
+[BlackElo "2226"]
+[ECO "B76"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O d5 10.Nxc6 bxc6 11.Bc4 Bf5 12.exf5 dxc4 13.Qxd8 Rfxd8 14.fxg6 hxg6 15.Bc5 Nd5 16.Nxd5 Rxd5 17.Rxd5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Advik Amit Agrawal - Nitish Belurkar"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-7/oIu1XrnK/8WsfWMXf"]
+[Date "2026.07.06"]
+[Round "7.4"]
+[White "Advik Amit Agrawal"]
+[Black "Nitish Belurkar"]
+[Result "1-0"]
+[WhiteElo "2318"]
+[BlackElo "2466"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 a6 5.g3 d5 6.exd5 exd5 7.Qe2+ Qe7 8.Qxe7+ Ngxe7 9.Bg2 Bf5 10.d3 f6 11.Nc3 O-O-O 12.O-O-O d4 13.Ne4 Nd5 14.Rde1 g5 15.Nfd2 h5 16.Ba3 Ncb4 17.Bxb4 cxb4 18.Nf3 Nc3 19.Nfd2 Nd5 20.Nf3 Bxe4 21.Rxe4 g4 22.Nh4 Bh6+ 23.Kb2 Bd2 24.Nf5 Nc7 25.h3 gxh3 26.Rxh3 Nb5 27.Bf3 Rh7 28.Rxh5 Rc7 29.Re7 Kb8 30.Rxc7 Nxc7 31.Be4 Rd7 32.f4 Nb5 33.Rh2 Be3 34.Bf3 Rc7 35.Re2 Na3 36.Rh2 Ka7 37.Nd6 Rg7 38.Nf5 Rc7 39.Bd1 Nb5 40.Rh6 Rc5 41.Bg4 Nc3 42.Rh1 Ra5 43.Ra1 Nd5 44.Nxe3 Nxe3 45.Bf3 Rc5 46.Rc1 Rc7 47.g4 Rh7 48.g5 Rh3 49.Be2 fxg5 50.fxg5 Rg3 51.a3 a5 52.axb4 axb4 53.Rh1 Rxg5 54.Bf3 Rf5 55.Rh3 Rf7 56.Kc1 Kb6 57.Kd2 Kc5 58.Rh5+ Kd6 59.Rh3 Nf1+ 60.Ke2 Ne3 61.Kd2 Kc7 62.Kc1 Kb6 63.Kd2 Rf5 64.Rh6+ Ka7 65.Rh3 Rf8 66.Kc1 Rf6 67.Kd2 Rf5 68.Kc1 Rc5 69.Rh2 Rf5 70.Rh3 Ka6 71.Rh6+ b6 72.Rh3 Rc5 73.Rh2 Rc7 74.Kb2 Rg7 75.Rh1 Rc7 76.Rh2 Rf7 77.Rh3 Rf5 78.Kc1 Rg5 79.Kd2 Rc5 80.Bd1 Rg5 81.Bf3 Rf5 82.Kc1 Rf7 83.Kd2 Rf8 84.Kc1 Rf6 85.Kd2 b5 86.Kc1 Ka5 87.Kd2 Rf8 88.Kc1 Rf7 89.Kd2 Rf5 90.Kc1 Rc5 91.Rh2 Rc7 92.Kb2 Rf7 93.Rh3 Rg7 94.Rh1 Rg8 95.Ra1+ Kb6 96.Rh1 Rg6 97.Kc1 Rf6 98.Rh3 Re6 99.Kb2 Rf6 100.Kc1 Rf7 101.Rh6+ Ka5 102.Rh3 Rc7 103.Rh2 Rg7 104.Rh1 Rg3 105.Be4 Kb6 106.Kd2 Rg5 107.Rh6+ Kc7 108.Ke2 Rc5 109.Rh7+ Kd6 110.Rh6+ Kd7 111.Rh7+ Kd8 112.Rh8+ Ke7 113.Rh7+ Kf8 114.Rh8+ Kg7 115.Rh7+ Kg8 116.Rd7 Nxc2 117.Rd5 Rxd5 118.Bxd5+ Kf8 119.Bc6 Na3 120.Kf3 Ke7 121.Ke4 Kd6 122.Be8 Kc5 123.Bf7 Nb1 124.Bg8 Nd2+ 125.Ke5 Nb1 126.Bf7 Nc3 127.Bg8 Na4 128.Bf7 Nb6 129.Be6 Na8 130.Bd5 Nc7 131.Bg8 Na6 132.Bd5 Nb8 133.Ke6 Na6 134.Ke5 Nc7 135.Bf7 Na8 136.Bd5 Nb6 137.Be6 Na4 138.Bf7 Nb2 139.Bg6 Nd1 140.Bh7 Ne3 141.Be4 Ng4+ 142.Kf4 Nf2 143.Ke5 Nh3 144.Bf5 Ng1 145.Bg4 Kc6 146.Kxd4 Kd6 147.Ke4 1-0

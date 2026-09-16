@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.2"]
+[White "Grave, Jacob Templen"]
+[Black "Kvaloy, Aksel Bu"]
+[Result "1/2-1/2"]
+[WhiteElo "2392"]
+[BlackElo "2483"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 f6 10.O-O fxe5 11.dxe5 Bc5 12.Bd3 O-O 13.Bf4 Be8 14.Qd2 Bg6 15.b4 Bb6 16.Bxf5 Bxf5 17.Ncd4 Ne7 18.Nb5 Ng6 19.Bg3 Qd7 20.Nd6 Ne7 21.Nd4 Bg6 22.Rac1 a5 1/2-1/2

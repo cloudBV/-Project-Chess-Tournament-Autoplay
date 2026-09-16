@@ -1,0 +1,15 @@
+[Event "North Island Chess Championships 2026"]
+[Site "https://lichess.org/broadcast/nz-north-island-championship-2026/round-5/jushsamG/7qPrDU9d"]
+[Date "2026.07.06"]
+[Round "05"]
+[White "Mao, Daqi"]
+[Black "Van Der Hoorn, Thomas"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2009"]
+[ECO "E12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Miles Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Bf4 Bb7 5.e3 Be7 6.Nc3 Nh5 7.Bg3 d6 8.Bd3 O-O 9.O-O Nxg3 10.hxg3 Nd7 11.Qc2 g6 12.Rfd1 c5 13.Be2 a6 14.a3 Rc8 15.d5 e5 16.e4 Bf6 17.g4 Qe7 18.g3 Bg7 19.Kg2 Rce8 20.Rh1 Nf6 21.Nd2 Bc8 22.Qd1 h6 23.Nf1 Nh7 24.Ne3 Ng5 25.Qc2 Bd7 26.a4 Qd8 27.Bd3 a5 28.Rae1 Nh7 29.Ref1 Nf6 30.Be2 Qc8 31.Rh4 Qd8 32.Rhh1 Qc8 33.Rh4 Qd8 34.Rg1 Nh7 35.Kf1 Bf6 36.Rxh6 Bg5 37.Rhh1 Bxe3 38.fxe3 Qg5 39.Qd2 Bxg4 40.Bxg4 Qxg4 41.Qh2 Qh5 42.Qxh5 gxh5 43.Rxh5 f6 44.Nb5 Rd8 45.Ke2 Ng5 46.Kd3 Kg7 47.Rgh1 Rg8 48.Nc3 Kf7 49.Ne2 Rgf8 50.g4 Rb8 51.Ng3 Rbc8 52.Rf1 Kg6 53.Nf5 Rcd8 54.Rh6+ Kf7 55.Ng3 Ke7 56.Nh5 Rf7 57.Rhxf6 Rdf8 58.Rxf7+ Rxf7 59.Rf5 Nh3 60.Ke2 Ng1+ 61.Kf2 Nh3+ 62.Kg2 Rxf5 63.exf5 Ng5 64.Ng3 Kf6 65.e4 Kf7 66.Kf2 Kf6 67.Ke3 Kf7 68.Nf1 Nh3 69.Nh2 Nf4 70.g5 Ng2+ 71.Kd2 Nh4 72.Ke2 Ng2 73.Ng4 Nf4+ 74.Ke3 Ng2+ 75.Kd2 Nh4 76.Ke2 Ng2 77.Nh6+ Kg7 78.f6+ Kg6 79.Nf5 Nf4+ 80.Ke3 Kxg5 81.f7 Ng6 82.Nxd6 Kf6 83.Nc8 Kxf7 84.Nxb6 Ke7 85.Nc8+ Kd7 86.Na7 Ne7 87.Nc6 Nxc6 88.dxc6+ Kxc6 89.Kf3 Kd7 90.Kg4 1-0

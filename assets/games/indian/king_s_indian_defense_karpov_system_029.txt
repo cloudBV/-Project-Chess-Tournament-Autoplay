@@ -1,0 +1,14 @@
+[Event "Round 6: Karmanova, Olga Dm. - Pingin, Artem"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/Zd0kV3hs"]
+[Date "2026.07.19"]
+[Round "6.8"]
+[White "Karmanova, Olga Dm."]
+[Black "Pingin, Artem"]
+[Result "1-0"]
+[WhiteElo "2212"]
+[BlackElo "2477"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.c4 g6 2.d4 Nf6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nbd7 7.g4 a6 8.Bg2 e5 9.d5 b5 10.b3 bxc4 11.bxc4 Rb8 12.Nge2 Nb6 13.Rb1 Nfd7 14.Qd3 Bf6 15.a4 a5 16.Rb5 Ra8 17.h4 Ba6 18.g5 Bxb5 19.cxb5 Be7 20.Ng3 Nc5 21.Qc2 f6 22.h5 fxg5 23.Bh3 Kg7 24.Qd1 Qe8 25.Bg4 Rf4 26.f3 Qf7 27.Qe2 Bf6 28.Rh3 Kf8 29.Bxc5 dxc5 30.Be6 Qg7 31.Bg4 Ke7 32.Nf1 Rd8 33.Ne3 Rd6 34.Nc4 Qf8 35.Nxa5 Bg7 36.Nc6+ Kf6 37.a5 Nc8 38.hxg6 h6 39.Bh5 Ne7 40.Nxe5 Kxe5 41.Qb2 Nf5 42.exf5 Qxf5 43.Rh2 Rb4 44.Re2+ Kd4 45.Re4+ Qxe4+ 46.Ne2+ Kc4 47.Qa2+ Kxb5 48.fxe4 Rxe4 49.Bf3 Rb4 50.Qc2 c4 51.Qf5 Rb3 52.Qf7 Ba1 53.g7 Rxf3 54.Qe8+ Kb4 55.g8=Q 1-0

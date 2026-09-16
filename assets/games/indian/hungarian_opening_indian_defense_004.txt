@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.3"]
+[White "Sowinski, Pawel"]
+[Black "Perucki, Maciej"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2043"]
+[ECO "A00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Hungarian Opening: Indian Defense"]
+
+1.g3 Nf6 2.Bg2 e6 3.Nf3 Be7 4.O-O O-O 5.b3 d5 6.Bb2 c5 7.e3 b6 8.d3 Bb7 9.Nbd2 Nbd7 10.Re1 Qc7 11.a4 Rfd8 12.e4 dxe4 13.dxe4 Rac8 14.Qe2 Nb8 15.Be5 Qd7 16.Rad1 Qe8 17.Bb2 Na6 18.Ne5 Nb4 19.Ndc4 Rxd1 20.Rxd1 Rd8 21.Re1 Nc6 22.Nxc6 Bxc6 23.h4 h6 24.f4 Ba8 25.g4 Qd7 26.g5 hxg5 27.hxg5 Nh7 28.Qh5 Nf8 29.Ne5 Qe8 30.Re3 f6 31.Qxe8 Rxe8 32.gxf6 gxf6 33.Rg3+ Kh7 34.Ng4 Ng6 35.f5 exf5 36.exf5 Nf4 37.Bxa8 Ne2+ 38.Kf2 Nxg3 39.Bc6 Rc8 40.Bd7 Rd8 41.Be6 Ne4+ 42.Ke3 Ng5 43.Nxf6+ Bxf6 44.Bxf6 Nxe6 45.fxe6 Re8 46.e7 Kg6 47.Bh4 Kf5 48.Kd3 Ke6 49.Kc4 Kd7 50.Kb5 Rh8 51.Bf6 Rh6 52.Be5 Re6 53.Bb8 a5 54.Ba7 Kc7 55.e8=Q Rxe8 56.Bxb6+ Kd6 57.Bxc5+ Kd5 58.c4+ Ke6 59.Bb6 Kd7 60.Kxa5 Re5+ 61.c5 Kc6 62.b4 Re8 63.b5+ Kd5 64.c6 Ra8+ 65.Kb4 Rb8 66.c7 Ra8 67.a5 Kd6 68.a6 Kd5 69.Ba5 Kd6 70.b6 Kc6 71.b7 1-0

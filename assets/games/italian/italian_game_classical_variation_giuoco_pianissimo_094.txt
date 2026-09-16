@@ -1,0 +1,14 @@
+[Event "Round 3: Den Heijer, Rolinde - Schoorl, Rob"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/Emp9DU3s"]
+[Date "2026.07.23"]
+[Round "3.30"]
+[White "Den Heijer, Rolinde"]
+[Black "Schoorl, Rob"]
+[Result "0-1"]
+[WhiteElo "2086"]
+[BlackElo "2284"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O Bc5 6.c3 d6 7.Nbd2 a5 8.Bb3 Bd7 9.Nc4 O-O 10.h3 b5 11.Ne3 a4 12.Bc2 Bb6 13.Re1 Re8 14.b3 axb3 15.Bxb3 Ne7 16.Nh4 Be6 17.Bxe6 fxe6 18.Ng4 Rf8 19.Nxf6+ Rxf6 20.Be3 Bxe3 21.Rxe3 Qd7 22.Rf3 Rxf3 23.Nxf3 c5 24.Qd2 Ng6 25.g3 d5 26.Qc2 Qf7 27.Nh2 c4 28.dxc4 bxc4 29.a4 Nf8 30.Qe2 Qc7 31.Ng4 d4 32.Qd2 Qa5 33.Ra2 Rd8 34.Qc2 h5 35.Nh2 dxc3 36.Nf3 Rd3 37.Kg2 h4 38.Qe2 Ng6 39.Ng5 Qd8 40.Qg4 Qf6 41.a5 hxg3 42.fxg3 Rd2+ 43.Rxd2 cxd2 44.a6 Nf8 45.a7 Qd8 46.Nxe6 Nxe6 47.Qxe6+ Kh7 48.Qd5 Qxd5 49.exd5 d1=Q 50.a8=Q Qe2+ 51.Kg1 c3 52.Qc8 c2 53.g4 Qe3+ 54.Kh2 Qf4+ 55.Kg2 c1=Q 0-1

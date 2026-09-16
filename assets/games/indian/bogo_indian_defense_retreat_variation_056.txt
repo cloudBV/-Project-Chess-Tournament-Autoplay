@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-7/78HixM7H/Eg91h1xq"]
+[Date "2026.07.24"]
+[Round "7.6"]
+[White "Rajaram, Rohan"]
+[Black "Matthiesen, Martin"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2330"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Qc2 Nbd7 9.Rc1 b6 10.a4 a5 11.cxd5 cxd5 12.Nc3 Ba6 13.Nb5 Bxb5 14.axb5 Rc8 15.Qd3 Ne4 16.Rxc8 Qxc8 17.Rc1 Qb7 18.Rc6 Nb8 19.Rc2 Rc8 20.Ne5 Rxc2 21.Qxc2 Nxd2 22.Qxd2 Bd6 23.Nc4 Qc7 24.Nxd6 Qxd6 25.Qc2 h5 26.Qc8+ Kh7 27.e4 dxe4 28.Bxe4+ g6 29.Bc6 Kg7 30.Qb7 Qd8 31.b3 Kf8 32.h4 Kg7 33.Kg2 Kf8 34.Kg1 Kg7 35.Kf1 Kf8 36.Ke2 Kg7 37.Kd3 Kf8 38.f3 Kg7 39.g4 Nxc6 40.bxc6 e5 41.Qd7 Qf6 42.Qd5 Qxh4 43.Qxe5+ Kh7 44.c7 Qh1 45.c8=Q Qd1+ 46.Ke4 1-0

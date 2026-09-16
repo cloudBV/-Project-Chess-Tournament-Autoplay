@@ -1,0 +1,14 @@
+[Event "Round 2: Kalogridis, Antonios - Naumov, Petr"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/I9XMj1pe"]
+[Date "2026.07.14"]
+[Round "2.19"]
+[White "Kalogridis, Antonios"]
+[Black "Naumov, Petr"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2229"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 e5 6.Ne2 Be7 7.c4 Be6 8.Nbc3 Nbd7 9.O-O O-O 10.f4 exf4 11.Nxf4 Ne5 12.Qe2 Nxd3 13.Qxd3 Ng4 14.Nfd5 Bg5 15.Bxg5 Qxg5 16.Qg3 Qe5 17.Qxe5 Nxe5 18.b3 a6 19.Rad1 Rad8 20.h3 Bxd5 21.Rxd5 f6 22.Rfd1 Nf7 23.a4 Rfe8 24.a5 Rb8 25.b4 Rbc8 26.R1d4 Ne5 27.Rxd6 Nxc4 28.R6d5 Ne5 29.Na4 Rc1+ 30.Rd1 Rxd1+ 31.Rxd1 Nc6 32.Nc5 Nxb4 33.Nxb7 Re5 34.Rd8+ Kf7 35.Rc8 Re7 36.Nd6+ Kg6 37.Rc4 Re6 38.e5 fxe5 39.Rg4+ Kf6 40.Ne4+ Ke7 41.Rxg7+ Kf8 42.Rxh7 Nc6 43.Nc5 Rd6 44.Nxa6 Nxa5 45.Nc5 Nc4 46.Rc7 Ne3 47.Nd7+ Kg8 48.Kf2 Nd1+ 49.Kf3 Rd3+ 50.Ke4 Rg3 51.Nf6+ Kf8 52.Kf5 Rg7 53.Rc8+ Kf7 54.Ng4 e4 55.Ne5+ Ke7 56.Rc7+ Kf8 57.Ng6+ Kg8 58.Rc8+ 1-0

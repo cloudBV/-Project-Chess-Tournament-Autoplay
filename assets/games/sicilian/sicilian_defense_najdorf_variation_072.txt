@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "7.9"]
+[White "Mompel Ferruz, Xavier"]
+[Black "Navajas Alvarez, Antoni"]
+[Result "1/2-1/2"]
+[WhiteElo "2319"]
+[BlackElo "2041"]
+[ECO "B90"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O 9.Ng3 b5 10.a4 b4 11.Na2 d5 12.exd5 Qxd5 13.Nf5 Bc5 14.Be3 Bb7 15.f3 Bxe3+ 16.Nxe3 Qd4 17.Re1 Nd5 18.Qd2 f5 19.c3 bxc3 20.bxc3 Qc5 21.Bc4 Rd8 22.Nb4 f4 23.Nxd5 Kh8 24.Qf2 fxe3 25.Nxe3 Nc6 26.Rad1 Na5 27.Bd5 Bxd5 28.Qh4 Nc4 29.Rxd5 Rxd5 30.Qxc4 Qxc4 31.Nxc4 Rc5 32.Re4 Kg8 33.Kf2 Rac8 34.Nxe5 Rxc3 35.Rd4 R3c5 36.f4 Rc2+ 37.Kf3 g6 38.g4 Rxh2 39.g5 Rhc2 40.Rd7 R2c7 41.Rd6 a5 42.Ng4 Rc3+ 43.Ke2 R3c7 44.Kf3 Rc3+ 45.Ke4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 6: Shitiz Prasad - Vehi Bach, Victor Manuel"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-6/SDE6E1pr/Gn0hWe8o"]
+[Date "2026.07.09"]
+[Round "6.9"]
+[White "Shitiz Prasad"]
+[Black "Vehi Bach, Victor Manuel"]
+[Result "0-1"]
+[WhiteElo "2012"]
+[BlackElo "2201"]
+[ECO "B43"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.a3 Bb7 7.Bd3 d6 8.O-O Nf6 9.Be3 Nbd7 10.f4 Be7 11.f5 e5 12.Nb3 O-O 13.Qf3 Rc8 14.g4 h6 15.g5 hxg5 16.Bxg5 Nh7 17.Be3 Bg5 18.Bf2 Ndf6 19.Rad1 Qe7 20.Be2 Rfe8 21.Qd3 Rxc3 22.bxc3 Nxe4 23.Bg4 Bf4 24.h3 Qg5 25.Be1 Rc8 26.Bd2 Nhf6 27.Bxf4 exf4 28.Qf3 Rxc3 29.Qxf4 Rg3+ 30.Kh2 Nxg4+ 31.Qxg4 Rxg4 32.hxg4 Qh4+ 33.Kg1 Qg3+ 34.Kh1 Nf2# 0-1

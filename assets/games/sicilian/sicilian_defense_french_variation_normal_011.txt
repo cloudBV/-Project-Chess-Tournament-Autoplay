@@ -1,0 +1,15 @@
+[Event "Round 2: Cave, Iwan - Straka, Vojtech"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/5D2m1ObE"]
+[Date "2026.07.17"]
+[Round "2.18"]
+[White "Cave, Iwan"]
+[Black "Straka, Vojtech"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2399"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nb3 d5 7.exd5 Nxd5 8.O-O Be7 9.a3 O-O 10.c4 Nf6 11.Nc3 e5 12.Bg5 Bg4 13.Qc2 h6 14.Bxf6 Bxf6 15.Nd5 Be6 16.Rad1 Bxd5 17.Bh7+ Kh8 18.Rxd5 Qc7 19.Be4 Rad8 20.Qd3 Ne7 21.Rxd8 Rxd8 22.Qf3 Qxc4 23.Na5 Qd4 24.Nxb7 Rc8 25.g3 Kg8 26.Rd1 Qxb2 27.Kg2 Qa2 28.Rd6 Bg5 29.Ra6 f5 30.Nd6 fxe4 31.Qxe4 Rf8 32.Qc4+ Qxc4 33.Nxc4 e4 34.Rxa7 Nd5 35.h4 Bf6 36.Rd7 Rd8 37.Rxd8+ Bxd8 38.Nd6 Nc3 39.Nf5 Bb6 40.g4 Bc5 41.g5 hxg5 42.hxg5 g6 43.Nh6+ Kg7 44.Ng4 Bxa3 45.f3 Bc1 46.fxe4 Nxe4 47.Ne5 Nxg5 48.Kg3 Kf6 49.Nc4 Ne4+ 50.Kg4 g5 51.Nb6 Ke6 52.Nc4 Nf6+ 53.Kf3 Kd5 54.Na5 g4+ 55.Kg3 Ke4 56.Nc4 Bf4+ 57.Kg2 Nd5 58.Nb2 Be5 59.Na4 Bd4 60.Kg3 Kf5 0-1

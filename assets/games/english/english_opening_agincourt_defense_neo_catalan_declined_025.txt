@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.27"]
+[White "Lakuntza Plazaola, Asier"]
+[Black "Abella Vazquez, Cesar"]
+[Result "1/2-1/2"]
+[WhiteElo "2279"]
+[BlackElo "2109"]
+[ECO "A14"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.exd4 cxd4 9.d3 Nc6 10.Ba3 e5 11.b4 Nd7 12.b5 Ncb8 13.Re1 Bxa3 14.Nxa3 f6 15.Nh4 g6 16.Nc2 a5 17.f4 Qc7 18.Nf3 exf4 19.gxf4 Qxf4 20.Re4 Qc7 21.Qe2 Nc5 22.Re7 Qd6 23.Ncxd4 Bg4 24.Re3 Nbd7 25.Re1 Ne5 26.Qd2 Rad8 27.Nxe5 Qxd4 28.Nxg4 Qxg4 29.Kh1 Qxc4 30.dxc4 Rxd2 31.Bd5+ Kg7 32.Re7+ Kh6 33.Rc7 Nd3 34.Ree7 Nf4 35.Rxh7+ Kg5 36.Kg1 Re8 37.Rhe7 Rxe7 38.Rxe7 Nxd5 39.cxd5 Rxd5 40.a4 Rd4 41.Rxb7 Rxa4 42.Ra7 f5 43.b6 Rb4 44.Rxa5 Rxb6 45.Kg2 Rb4 46.Ra6 Rb2+ 47.Kg3 Rb3+ 48.Kg2 Kh5 49.h3 f4 50.Ra8 Rg3+ 51.Kh2 g5 52.Rf8 Kg6 53.h4 gxh4 54.Rxf4 Rg5 55.Rxh4 Rh5 56.Rxh5 Kxh5 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 4: Van Roon, Sjoerd - Pavlovic, Milos"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/7POfT0X2"]
+[Date "2026.07.24"]
+[Round "4.11"]
+[White "Van Roon, Sjoerd"]
+[Black "Pavlovic, Milos"]
+[Result "0-1"]
+[WhiteElo "2308"]
+[BlackElo "2406"]
+[ECO "C58"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ Bd7 7.Qe2 Be7 8.Nf3 Nxd5 9.Bxd7+ Qxd7 10.Nxe5 Qf5 11.d4 Nb4 12.Na3 O-O-O 13.c3 f6 14.Qg4 Nd3+ 15.Ke2 Qxg4+ 16.Nxg4 Nxc1+ 17.Raxc1 Bxa3 18.bxa3 Nc4 19.Ne3 Nxa3 20.c4 b5 21.Rc3 b4 22.Rd3 f5 23.Rc1 Rhe8 24.Kf3 g6 25.d5 h5 26.c5 Re4 27.c6 Nb5 28.Rc4 Nd6 29.Rcd4 Rde8 30.g3 a5 31.Rd2 Kb8 32.h4 Ka7 33.Rxe4 Rxe4 34.Nc2 Kb6 35.Nd4 a4 36.Ne6 Nc4 37.Rc2 b3 38.axb3 axb3 39.Rc3 Nd2+ 40.Kg2 b2 0-1

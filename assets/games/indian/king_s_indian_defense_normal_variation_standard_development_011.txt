@@ -1,0 +1,15 @@
+[Event "Round 6: Karthik Venkataraman - Lin, Bryan Enming"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/ADs7zdAh"]
+[Date "2026.07.18"]
+[Round "6.3"]
+[White "Karthik Venkataraman"]
+[Black "Lin, Bryan Enming"]
+[Result "1/2-1/2"]
+[WhiteElo "2566"]
+[BlackElo "2381"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h3 Nc6 7.d5 Ne5 8.Be3 e6 9.Nf3 Nxf3+ 10.Bxf3 exd5 11.cxd5 Nd7 12.O-O f5 13.exf5 gxf5 14.Qd2 Ne5 15.Be2 Ng6 16.f4 a6 17.Bd4 Qe7 18.g3 Bd7 19.Bf3 Rae8 20.Bxg7 Qxg7 21.Kh2 Re7 22.Rf2 Rfe8 23.Ne2 c5 24.dxc6 Bxc6 25.Bxc6 bxc6 26.Nd4 Qf6 27.Nxc6 Re4 28.Rd1 R8e6 29.Nd4 Re7 30.Nf3 Rd7 31.Qd5+ Kg7 32.Qc6 Re6 1/2-1/2

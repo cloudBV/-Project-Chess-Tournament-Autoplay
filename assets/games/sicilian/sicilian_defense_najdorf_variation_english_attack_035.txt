@@ -1,0 +1,14 @@
+[Event "Round 4: Karttunen, Mika - Seppala, Joni"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-4/QbASiENr/TbknT7rw"]
+[Date "2026.07.14"]
+[Round "4.11"]
+[White "Karttunen, Mika"]
+[Black "Seppala, Joni"]
+[Result "1-0"]
+[WhiteElo "2497"]
+[BlackElo "2005"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.h3 Be7 9.Qf3 O-O 10.g4 Nbd7 11.g5 Ne8 12.Rg1 Rc8 13.O-O-O Rxc3 14.bxc3 Qc7 15.Qg3 Qxc3 16.Bd2 Qc6 17.Qc3 Qa4 18.Qa5 Qc6 19.Qb4 Nc5 20.Be3 b5 21.f3 Na4 22.c4 Nb6 23.Na5 Qc7 24.Rg2 Nxc4 25.Nxc4 Bxc4 26.Qc3 d5 27.exd5 Nd6 28.Rc2 Nf5 29.Bxc4 bxc4 30.Kd2 Rc8 31.Ke2 Nxe3 32.Qxe3 Bc5 33.Rxc4 Bxe3 34.Rxc7 Rxc7 35.d6 Rd7 36.Kxe3 f5 37.gxf6 gxf6 38.Ke4 Kf7 39.Kd5 a5 40.Rc1 a4 41.Rc7 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.10"]
+[White "Nagly, Wojciech"]
+[Black "Krawczyk, Flawian"]
+[Result "1/2-1/2"]
+[WhiteElo "2138"]
+[BlackElo "2226"]
+[ECO "A46"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 b6 4.Bd3 Bb7 5.b3 g6 6.Bb2 Bg7 7.O-O O-O 8.Nbd2 d6 9.c4 Nbd7 10.Qc2 Qc7 11.Rad1 Rac8 12.d5 e5 13.dxe6 fxe6 14.Ne4 d5 15.cxd5 exd5 16.Nxf6+ Nxf6 17.Be5 Qe7 18.Rfe1 Kh8 19.e4 dxe4 20.Bxf6 Qxf6 21.Bxe4 Bxe4 22.Qxe4 Rcd8 23.h4 h6 1/2-1/2

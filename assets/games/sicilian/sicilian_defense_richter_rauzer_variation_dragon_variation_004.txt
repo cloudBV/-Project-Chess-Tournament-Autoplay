@@ -1,0 +1,14 @@
+[Event "Round 1: Hovhannisyan, Robert - Hollan, Martin"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/tg91u6v5"]
+[Date "2026.07.18"]
+[Round "1.7"]
+[White "Hovhannisyan, Robert"]
+[Black "Hollan, Martin"]
+[Result "1-0"]
+[WhiteElo "2628"]
+[BlackElo "2303"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Dragon Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6 7.Bb5 Bd7 8.Bxf6 exf6 9.Nde2 Be6 10.O-O Bg7 11.Nd5 O-O 12.c3 f5 13.exf5 Bxf5 14.Ne3 Be6 15.Nf4 Kh8 16.Bc4 Bxc4 17.Nxc4 b5 18.Ne3 b4 19.Qa4 Qb6 20.Nfd5 Qb7 21.cxb4 Bxb2 22.Rad1 Rab8 23.a3 Bg7 24.Rd2 Nd4 25.Rfd1 Nb5 26.Qb3 Rfc8 27.Rd3 f5 28.a4 Nc7 29.Nxc7 Qxc7 30.Rxd6 f4 31.Nf1 Rd8 32.Rxd8+ Rxd8 33.Rxd8+ Qxd8 34.Qf7 Qd6 35.Qxa7 Qxb4 36.Qa8+ Bf8 37.a5 Kg7 38.a6 Bc5 39.Qb7+ Qxb7 40.axb7 Ba7 41.Nd2 Kf6 42.Ne4+ Ke7 43.Nc5 1-0

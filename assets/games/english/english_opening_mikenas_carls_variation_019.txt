@@ -1,0 +1,15 @@
+[Event "Round 7: Raahul V S - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-7/ytNNRfaS/UzzOL6MS"]
+[Date "2026.07.24"]
+[Round "7.5"]
+[White "Raahul V S"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "1/2-1/2"]
+[WhiteElo "2402"]
+[BlackElo "2300"]
+[ECO "A18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Bd3 e5 8.Nf3 Nc6 9.O-O Bd6 10.Qc2 g6 11.Be4 O-O 12.h3 Re8 13.d3 Qg7 14.Rb1 f5 15.Bd5+ Kh8 16.d4 e4 17.Ng5 Nd8 18.c5 Be7 19.Qb3 c6 20.Nf7+ Nxf7 21.Bxf7 Rf8 22.Be6 Bxe6 23.Qxe6 Bf6 24.Qb3 Rf7 25.Bh6 Qg8 26.f3 exf3 27.Rxf3 Bg7 28.Bf4 Re8 29.Rf2 Re4 30.Qc4 Rd7 31.Qxg8+ Kxg8 32.Kf1 a6 33.g3 Bf6 34.Rfb2 Ree7 35.Bd6 Rf7 36.Re2 Be7 37.Re6 Bxd6 38.cxd6 b5 39.c4 bxc4 40.Rb6 Rb7 41.Re8+ Kg7 42.Rxc6 Rfd7 43.d5 Kf7 44.Re3 Kf6 45.a4 Rb1+ 46.Ke2 Rb2+ 47.Ke1 c3 48.Re6+ Kf7 49.Rc7 Rb7 50.Rxd7+ Rxd7 51.Kd1 Rd8 52.Kc2 Re8 53.d7 Rd8 54.Kxc3 Rxd7 55.Kd4 a5 56.Ra6 Rb7 57.Rxa5 Rb3 58.Rc5 Rxg3 59.Rc3 Rg1 60.Ra3 Rd1+ 61.Ke5 Ke7 62.a5 Re1+ 63.Kf4 Kd6 64.a6 Re4+ 65.Kg5 Re8 66.a7 Ra8 67.Kh6 Kxd5 68.Kxh7 Ke4 69.Kxg6 f4 70.Ra4+ Ke3 71.Kf5 f3 72.Ra3+ Ke2 73.Ra2+ Ke1 74.Ra1+ Ke2 75.Ra2+ Ke1 76.Ke4 1/2-1/2

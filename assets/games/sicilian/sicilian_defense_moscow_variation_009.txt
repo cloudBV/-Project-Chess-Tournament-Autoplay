@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/tUQClRPN"]
+[Date "2026.07.03"]
+[Round "7.17"]
+[White "Kazmierowski, Tymon"]
+[Black "Wasiluk, Mateusz"]
+[Result "1-0"]
+[WhiteElo "2125"]
+[BlackElo "2009"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Be2 e5 7.Qe3 Ngf6 8.c4 Be7 9.O-O O-O 10.h3 b6 11.Nc3 Bb7 12.Rd1 Nc5 13.Nd2 Qc7 14.b4 Ncd7 15.a3 Bc6 16.Bb2 Qb8 17.Rac1 b5 18.cxb5 axb5 19.Qd3 Qb7 20.Nxb5 Nxe4 21.Nxe4 Bxe4 22.Nxd6 Bxd3 23.Nxb7 Bxe2 24.Rxd7 Bf6 25.Nd6 Bd3 26.Rcc7 Bd8 27.Rb7 Bf6 28.b5 e4 29.Bxf6 gxf6 30.Nxf7 e3 31.Nh6+ Kh8 32.Rxd3 e2 33.Re3 Rfe8 34.Rbe7 Red8 35.Nf7+ Kg8 36.Nxd8 Rxd8 37.Re8+ Rxe8 38.Rxe8+ Kf7 39.Rxe2 f5 40.b6 Kg6 41.b7 1-0

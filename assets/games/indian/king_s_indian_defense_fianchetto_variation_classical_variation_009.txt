@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.13"]
+[Round "4.1"]
+[White "Kesoglou, Konstantinos"]
+[Black "Tsaknakis, Zisis"]
+[Result "1/2-1/2"]
+[WhiteElo "2015"]
+[BlackElo "2292"]
+[ECO "E68"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nbd7 7.Nc3 e5 8.e4 exd4 9.Nxd4 Re8 10.Re1 Nc5 11.Rb1 Ng4 12.Nb3 Nxb3 13.axb3 Qf6 14.Re2 Ne5 15.Nd5 Qd8 16.h3 Be6 17.f4 Nc6 18.Be3 Qd7 19.Bf2 f5 20.Re1 fxe4 21.g4 Qf7 22.Bxe4 Kh8 23.Qd2 Rf8 24.Bg2 Rae8 25.Bg3 Nd4 26.Qd3 c6 27.Ne3 Bc8 28.Rbd1 Rd8 29.Rf1 Qf6 30.Rf2 Rfe8 31.Nc2 Ne6 32.b4 Nf8 33.b3 d5 34.cxd5 cxd5 35.Bxd5 Be6 36.Qf3 Qc3 37.Rd3 Bxd5 38.Rxc3 Bxf3 39.Rcxf3 Ne6 40.Re2 Rd1+ 41.Kh2 Rc8 42.Rfe3 Nf8 1/2-1/2

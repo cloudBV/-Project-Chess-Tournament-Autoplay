@@ -1,0 +1,14 @@
+[Event "Round 9: Stopa, Jacek - Zlatkov, Anton"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/Pm2eceAZ"]
+[Date "2026.07.11"]
+[Round "9.9"]
+[White "Stopa, Jacek"]
+[Black "Zlatkov, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2360"]
+[BlackElo "2388"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Bd6 5.d4 Nc6 6.c4 O-O 7.b3 dxc4 8.bxc4 e5 9.c5 Be7 10.dxe5 Qxd1 11.Rxd1 Ne4 12.Be3 Bxc5 13.Bxc5 Nxc5 14.Nc3 Bg4 15.Nb5 1/2-1/2

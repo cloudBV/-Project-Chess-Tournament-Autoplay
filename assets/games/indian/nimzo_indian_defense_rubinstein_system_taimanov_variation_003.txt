@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.26"]
+[White "Bals Hernandez, Jordi"]
+[Black "Moreno Estebanez, Patxi"]
+[Result "0-1"]
+[WhiteElo "2108"]
+[BlackElo "2283"]
+[ECO "E40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Taimanov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Nc6 5.Bd3 e5 6.d5 Ne7 7.Ne2 a5 8.a3 Bc5 9.h4 d6 10.Qc2 Ng4 11.Ng3 h6 12.Ke2 O-O 13.f3 Nf6 14.h5 c6 15.e4 Bd7 16.a4 Qb6 17.Nf1 Nh7 18.g4 Rac8 19.Ne3 Ng5 20.Nf5 Nxf5 21.exf5 Bg1 22.Kf1 Be3 23.Kg2 Rfe8 24.Re1 Bf4 25.Bxf4 exf4 26.Qf2 Re3 27.Nd1 Rce8 28.Nxe3 fxe3 29.Qe2 Qd4 30.Rad1 Qf4 31.b3 Re5 32.Bb1 g6 33.fxg6 f5 34.Bxf5 Bxf5 35.gxf5 Qxf5 36.Rh1 Qf4 37.dxc6 Nxf3 38.Rh3 Qg4+ 39.Rg3 Nh4+ 0-1

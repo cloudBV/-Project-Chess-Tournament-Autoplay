@@ -1,0 +1,14 @@
+[Event "Round 8: Born, Mario - Herrmann, Jakob"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-8/XL5HPCd1/4tps7xTx"]
+[Date "2026.07.24"]
+[Round "8.19"]
+[White "Born, Mario"]
+[Black "Herrmann, Jakob"]
+[Result "0-1"]
+[WhiteElo "2093"]
+[BlackElo "2197"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.c4 dxc4 7.Bxc4 Bb4+ 8.Nc3 Nb6 9.Qb3 Bxc3+ 10.bxc3 Nxc4 11.Qxc4 Qd5 12.Qb4 O-O-O 13.O-O Bd3 14.Re1 Nh6 15.Bg5 Rd7 16.Rac1 a5 17.Qa4 b5 18.Qxa5 Kb7 19.Nd2 Ra8 20.Qb4 c5 21.c4 cxb4 22.cxd5 Rxd5 23.Nb3 Bc4 24.Rc2 Nf5 25.Be3 Bxb3 26.axb3 Rc8 27.Rxc8 Kxc8 28.Rd1 Rd7 29.Kf1 Rc7 30.Ke2 Rc3 31.Rd3 Kd7 32.Bd2 Rxb3 33.g4 Rxd3 34.Kxd3 Ne7 35.Bxb4 Nd5 36.Bd2 Kc6 37.f4 g6 38.h3 Kb6 39.h4 h5 40.gxh5 gxh5 41.Ke4 b4 42.f5 Kb5 43.fxe6 fxe6 44.Kd3 b3 45.Bh6 b2 46.Kc2 Kc4 47.Kxb2 Kxd4 48.Bg7 Ne7 49.Kc2 Ng6 50.Bf6 Nxe5 51.Kd2 Ke4 52.Ke2 Kf4 53.Bg5+ Kg4 54.Ke3 Nf3 55.Bd8 Nxh4 56.Ke4 Ng6 0-1

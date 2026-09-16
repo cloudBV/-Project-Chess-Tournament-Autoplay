@@ -1,0 +1,15 @@
+[Event "Round 4: Demchenko, Maksim Dm - Cheng, Gongpu"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-4/P2eNT3v3/HaQ36WIq"]
+[Date "2026.07.19"]
+[Round "4.16"]
+[White "Demchenko, Maksim Dm"]
+[Black "Cheng, Gongpu"]
+[Result "1-0"]
+[WhiteElo "2214"]
+[BlackElo "2119"]
+[ECO "B47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Nf6 8.O-O d6 9.Re1 Bd7 10.Nxc6 bxc6 11.Na4 Be7 12.c4 O-O 13.Be3 Rab8 14.c5 dxc5 15.Nxc5 Bc8 16.b3 e5 17.h3 Nd7 18.Rc1 Rd8 19.Qc2 Nxc5 20.Bxc5 Bg5 21.Be3 Bxe3 22.Rxe3 Bb7 23.Bf1 Kh8 24.Rd3 Rxd3 25.Bxd3 Rd8 26.Qc5 Kg8 27.Rc3 g6 28.Bc4 Kg7 29.Rd3 Rxd3 30.Bxd3 Bc8 31.b4 f6 32.Bf1 Qd7 33.a4 Qb7 34.a5 Qd7 35.h4 Qc7 36.Kh2 Qd7 37.Qb6 Qd4 38.Qc7+ Bd7 39.Kg1 Qd1 40.Qa7 Kh6 41.Qxa6 Bh3 42.Qd3 Qa1 43.a6 Kg7 44.f3 Bxf1 45.Qxf1 Qd4+ 46.Kg2 Qxb4 47.Qa1 Qd2+ 48.Kh1 Qd7 49.Kg2 Qd2+ 50.Kh3 Qd7+ 51.g4 Qa7 52.Kg2 Kf7 53.Qa4 Qe3 54.Qa2+ Kg7 55.Qa1 Qa7 56.g5 1-0

@@ -1,0 +1,14 @@
+[Event "Round 8: Di Liberto, Michele - Maglioni, Leonardo"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-8/P7hb5l6K/ys6XDLd1"]
+[Date "2026.07.11"]
+[Round "8.10"]
+[White "Di Liberto, Michele"]
+[Black "Maglioni, Leonardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2318"]
+[BlackElo "2165"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Re8 7.Nc3 Bd7 8.e4 e5 9.h3 Nc6 10.Be3 exd4 11.Nxd4 Nxd4 12.Bxd4 c5 13.Be3 Qc8 14.Kh2 Bc6 15.Qxd6 Nxe4 16.Nxe4 Bxe4 17.Bxe4 Rxe4 18.Rab1 Rxc4 19.Rbc1 Rxc1 20.Rxc1 b6 21.b4 c4 22.Qd5 c3 23.Bd4 Qd8 24.Qxd8+ Rxd8 25.Bxc3 Bxc3 26.Rxc3 Rd2 27.Kg2 Rxa2 28.b5 Rb2 29.Ra3 Rxb5 30.Rxa7 g5 31.Rb7 h5 32.Kh2 Kg7 33.Kg2 Kg6 34.Rb8 Kg7 35.Rb7 Rb1 36.Kh2 b5 37.Kg2 b4 38.Rb5 Kg6 39.g4 h4 40.Rb6+ Kg7 41.Kh2 b3 42.Kg2 Kf8 43.Rb7 Ke8 44.Kf3 Rb2 45.Ke3 f6 46.f3 Rh2 47.Rxb3 Rxh3 48.Ke4 Rg3 49.Kf5 h3 50.Ke6 Kd8 51.Kxf6 h2 52.Rb8+ Kd7 53.Rh8 Rxf3+ 54.Kxg5 Rf2 55.Kg6 Ke7 56.g5 Rg2 57.Rh7+ Kf8 58.Rh8+ 1/2-1/2

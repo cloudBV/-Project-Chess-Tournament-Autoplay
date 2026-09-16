@@ -1,0 +1,14 @@
+[Event "Round 7: Arsovic, Zoran - Charvi A"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/Mwvhefou"]
+[Date "2026.07.09"]
+[Round "7.29"]
+[White "Arsovic, Zoran"]
+[Black "Charvi A"]
+[Result "1/2-1/2"]
+[WhiteElo "2317"]
+[BlackElo "2204"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Old Indian Formation"]
+
+1.Nf3 d6 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.Nc3 Nbd7 7.d3 e5 8.Rb1 a5 9.e4 h6 10.h3 Kh7 11.Be3 Ng8 12.Qd2 f5 13.exf5 gxf5 14.d4 Ne7 15.Rbd1 Qe8 16.Nb5 Qd8 17.Nh4 Rf6 18.dxe5 Nxe5 19.Qc2 c6 20.Nd4 Kh8 21.Rfe1 Qg8 22.b3 N5g6 23.Nxg6+ Nxg6 24.Ne2 Qf8 25.Qd2 Kh7 26.Nf4 Bd7 27.Nxg6 Rxg6 28.Bf4 Re8 29.Rxe8 Qxe8 30.Bxd6 a4 31.Bf4 Be6 32.Bf3 Rf6 33.Re1 axb3 34.axb3 Qc8 35.Be5 Rf7 36.Bxg7 Rxg7 37.Qf4 b5 38.Qe5 Bf7 39.cxb5 cxb5 40.Qxb5 f4 41.Be4+ Kh8 42.Ra1 Qc3 43.Ra8+ Bg8 44.Qc6 Qe1+ 45.Kg2 Rxg3+ 46.fxg3 Qe2+ 47.Kg1 Qe1+ 48.Kg2 Qe2+ 49.Kg1 Qe1+ 50.Kg2 Qe2+ 51.Kh1 Qe1+ 52.Kg2 Qe2+ 53.Kg1 Qe1+ 1/2-1/2

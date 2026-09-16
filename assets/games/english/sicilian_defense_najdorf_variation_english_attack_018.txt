@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.09"]
+[Round "8.8"]
+[White "Mathieu, Phileas"]
+[Black "Petrovskiy, Vadym"]
+[Result "1/2-1/2"]
+[WhiteElo "2384"]
+[BlackElo "2469"]
+[ECO "B90"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.f3 Be6 9.Qd2 Nbd7 10.Nd5 Bxd5 11.exd5 Qc7 12.c4 a5 13.Rc1 O-O 14.Be2 Nc5 15.Nxc5 dxc5 16.O-O Ne8 17.f4 Bf6 18.g4 exf4 19.Bxf4 Be5 20.Bd3 Bxf4 21.Rxf4 Nd6 22.g5 Rae8 23.Re1 Rxe1+ 24.Qxe1 Re8 25.Qh4 g6 26.Rf3 Qe7 27.Qf4 Qe5 28.Qxe5 Rxe5 29.h4 Kf8 30.Kf2 Ke7 31.Re3 Rxe3 32.Kxe3 f6 33.Kf4 Kf7 34.b3 Kg7 35.Bc2 b6 36.Bd3 Kf7 37.a4 Kg7 38.Bc2 h6 39.gxf6+ Kxf6 40.Bxg6 Kxg6 41.Ke5 Nf5 42.d6 Nd4 43.d7 Kf7 44.Kd6 Ne6 45.Kc6 Ke7 46.Kxb6 Kxd7 47.Kxa5 Kc6 48.b4 cxb4 49.Kxb4 Nd4 50.a5 Nf5 51.h5 Ng7 52.Kc3 Nxh5 53.Kd4 Ng7 54.Ke5 Kb7 55.c5 Kb8 56.Kf6 Kb7 57.Kg6 Kc6 58.Kxh6 Kxc5 59.Kxg7 Kb5 60.Kg6 Kxa5 1/2-1/2

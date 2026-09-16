@@ -1,0 +1,14 @@
+[Event "Round 8: Kaliski, Erwin - Ruether, Rudolf"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-8/2E3aV6Aw/qQAiRVlq"]
+[Date "2026.07.24"]
+[Round "8.19"]
+[White "Kaliski, Erwin"]
+[Black "Ruether, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo "2151"]
+[BlackElo "2050"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 Be7 7.Bd3 O-O 8.O-O b6 9.Qe2 Bb7 10.Rd1 c5 11.c3 Qc7 12.Be3 Rfe8 13.Rd2 Rad8 14.Rad1 e5 15.Nxe5 Nxe5 16.dxe5 Qxe5 17.Bb5 Rf8 18.f3 g6 19.Bh6 Qxe2 20.Nxe2 Rxd2 21.Rxd2 Rd8 22.Rxd8+ Bxd8 23.Kf2 Nd5 24.Bc4 Bf6 25.Ng3 Be7 26.Ne4 Nc7 27.Bf4 Nd5 28.Bd6 Kf8 29.Bb8 a6 30.Nd6 Bxd6 31.Bxd6+ Ke8 32.g4 Kd7 33.Bb8 Kc6 34.a4 b5 35.Bb3 c4 36.Bc2 Bc8 37.Be5 Be6 38.h4 f5 39.g5 Kb6 40.Bf6 Kc6 41.Bd4 Nf4 42.axb5+ axb5 43.Bf6 Nd3+ 44.Bxd3 1/2-1/2

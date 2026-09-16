@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.4"]
+[White "Butkiewicz, Jan"]
+[Black "Obrycki, Tomasz"]
+[Result "0-1"]
+[WhiteElo "2129"]
+[BlackElo "2099"]
+[ECO "E16"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 O-O 8.O-O d6 9.Qc2 Nbd7 10.Rfd1 Qe7 11.e4 e5 12.d5 a5 13.b3 Ne8 14.a3 g6 15.Nh4 Ng7 16.Bh3 Rfb8 17.b4 Nf8 18.Rdc1 Bc8 19.Bxc8 Rxc8 20.c5 Qd8 21.Nc4 axb4 22.axb4 Rxa1 23.Rxa1 Nd7 24.c6 Nf6 25.f3 Ra8 26.Qb2 Qb8 27.Rxa8 Qxa8 28.Qa3 Qxa3 29.Nxa3 Kf8 30.Nb5 Nge8 31.Ng2 Ke7 32.Ne3 Kd8 33.Kf2 Kc8 34.Nc3 Kb8 35.Nc4 Kc8 36.Ke3 h5 37.h4 Ng8 38.Kd3 Ne7 39.Kc2 f5 40.Ne3 Nf6 41.Kd3 Kd8 42.Ne2 Kc8 43.Nc1 Kd8 44.Ne2 Kc8 45.Ng1 fxe4+ 46.fxe4 Ng4 47.Nxg4 hxg4 48.Ne2 Ng8 49.Ke3 Nf6 50.Nc3 Kb8 51.Nd1 Kc8 52.Nf2 Kb8 53.Nd3 Kc8 54.Nb2 Kb8 55.Nc4 Kc8 56.Nd2 Kb8 57.Kd3 Nh5 58.Nf1 Kc8 59.Ne3 Nf6 60.Nf1 Kb8 61.Nd2 Kc8 62.Kc4 Kb8 63.Kb5 Ka7 64.Kc4 Kb8 65.Kb5 Ka7 66.Kc4 Kb8 67.Kd3 Kc8 68.Ke3 Kd8 69.Nf1 Kc8 70.Kd3 Kd8 71.Ne3 Kc8 72.Nc4 Kb8 73.Ke3 Kc8 74.Kd3 Nh5 75.Ne3 Nf6 76.Kc4 Kb8 77.Kb5 Ka7 78.Kc4 Kb8 79.Kd3 Kc8 80.b5 Kd8 81.Ke2 Ke7 82.Kd3 Kd8 83.Nc2 Nh5 84.Ne3 Nf6 85.Nf1 Ke7 86.Nh2 Kd8 87.Ke3 Ke7 88.Nf1 Kd8 89.Nd2 Ke7 90.Kf2 Kd8 91.Ke3 Ke7 92.Nc4 Kd8 93.Kd3 Ke7 94.Ne3 Kd8 95.h5 Nxh5 96.Nxg4 Nxg3 97.Nf6 Nh5 98.Ng4 Nf4+ 99.Ke3 Ke7 100.Nf2 g5 101.Nd1 g4 102.Nc3 g3 103.Na4 Kd8 104.Nc3 Ke7 105.Kf3 g2 106.Kf2 Kf6 107.Nd1 Ke7 108.Ne3 Nd3+ 109.Kxg2 Nc1 110.Kf3 Nd3 111.Kg4 Nf2+ 112.Kf5 Nd3 113.Kg6 Nf2 114.Nf5+ Kd8 115.Ng3 Ke7 116.Kg7 Nd1 117.Nf5+ Kd8 118.Kf6 Nc3 119.Nxd6 cxd6 120.Ke6 Nxe4 121.Kf5 Nc3 122.Ke6 Kc7 0-1

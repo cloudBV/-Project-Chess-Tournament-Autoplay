@@ -1,0 +1,15 @@
+[Event "Round 6: Emmenecker, Pierre-Antoine - Sorbe, Stephane"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-6/oZBwMY6t/m7mhC0pO"]
+[Date "2026.06.29"]
+[Round "6.1"]
+[White "Emmenecker, Pierre-Antoine"]
+[Black "Sorbe, Stephane"]
+[Result "0-1"]
+[WhiteElo "2288"]
+[BlackElo "2217"]
+[ECO "B19"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 Ngf6 12.O-O-O e6 13.Ne4 O-O-O 14.g3 Nxe4 15.Qxe4 Bd6 16.Kb1 Rhe8 17.Qg4 Rg8 18.Rhe1 c5 19.dxc5 Bxc5 20.Rf1 Nf6 21.Qh4 Rd5 22.Bf4 Qb6 23.Rxd5 Nxd5 24.Ne5 Nc3+ 25.Ka1 Qa6 26.bxc3 Qxf1+ 27.Kb2 Rd8 0-1

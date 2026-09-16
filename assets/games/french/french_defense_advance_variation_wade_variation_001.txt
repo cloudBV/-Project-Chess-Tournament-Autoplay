@@ -1,0 +1,15 @@
+[Event "Round 4: Seo, Jung Min - Fransson, Patrick"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-4/1NYPKUcj/Ju2dlh9H"]
+[Date "2026.07.01"]
+[Round "4.2"]
+[White "Seo, Jung Min"]
+[Black "Fransson, Patrick"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2102"]
+[ECO "C02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Wade Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Bd7 6.Be2 Bb5 7.c4 Bxc4 8.Bxc4 dxc4 9.d5 exd5 10.Qxd5 Ne7 11.Qxc4 Nbc6 12.O-O Ng6 13.e6 fxe6 14.Qxe6+ Nce7 15.Qc4 O-O-O 16.Nc3 Kb8 17.Ng5 Rd4 18.Qe2 Qc6 19.Be3 Rd7 20.Rad1 Nf5 21.Qg4 Nge7 22.Bf4+ Ka8 23.Nf7 h5 24.Qf3 Qc8 25.Rxd7 Qxd7 26.Nxh8 Nh4 27.Qd1 Qc6 28.Qd8+ Nc8 29.Qd5 Qg6 1-0

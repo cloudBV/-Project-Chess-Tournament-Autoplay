@@ -1,0 +1,15 @@
+[Event "Round 10: Neretljak, Nedzad - Ravik, Andreas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-10/4rqvbItp/NuEAtbhN"]
+[Date "2026.07.01"]
+[Round "10.11"]
+[White "Neretljak, Nedzad"]
+[Black "Ravik, Andreas"]
+[Result "1-0"]
+[WhiteElo "2068"]
+[BlackElo "2007"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Wing Gambit"]
+
+1.e4 c5 2.b4 cxb4 3.d4 g6 4.h4 Bg7 5.h5 d6 6.h6 Bf8 7.Bb2 Nf6 8.Nd2 Nc6 9.e5 dxe5 10.dxe5 Nd5 11.e6 Nf6 12.exf7+ Kxf7 13.Ngf3 Bg4 14.Bc4+ e6 15.Qe2 Qe7 16.O-O-O Bh5 17.Ng5+ Ke8 18.Rxh5 gxh5 19.Nxe6 Bxh6 20.Kb1 Bxd2 21.Rxd2 Rc8 22.Qe3 Nd8 23.Bxf6 Qxf6 1-0

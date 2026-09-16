@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-9/9GLG8yoU/3KdNPi86"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Lavendelis, Egons"]
+[Black "Paikens, Reinis"]
+[Result "1/2-1/2"]
+[WhiteElo "2194"]
+[BlackElo "2370"]
+[ECO "B51"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 1/2-1/2

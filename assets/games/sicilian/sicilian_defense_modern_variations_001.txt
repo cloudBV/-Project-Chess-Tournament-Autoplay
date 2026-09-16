@@ -1,0 +1,14 @@
+[Event "Round 6: Schumacher, Gottfried - Roos, Jean-Luc"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-6/Nf3qcMuI/kM1SEBVs"]
+[Date "2026.06.22"]
+[Round "6.1"]
+[White "Schumacher, Gottfried"]
+[Black "Roos, Jean-Luc"]
+[Result "1-0"]
+[WhiteElo "2151"]
+[BlackElo "2211"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nc6 4.a3 g6 5.d3 Bg7 6.Nc3 e6 7.Bf4 Nge7 8.Qd2 h6 9.O-O e5 10.Be3 f5 11.g3 Nd4 12.Ne1 f4 13.gxf4 Bh3 14.fxe5 dxe5 15.f3 Bxf1 16.Kxf1 a6 17.Kg2 Qd6 18.b4 cxb4 19.axb4 Ne6 20.Kh1 Rc8 21.b5 axb5 22.Nxb5 Qd7 23.Qg2 Nd4 24.Rb1 g5 25.c3 Nxb5 26.Bxb5 Nc6 27.Bc4 Bf6 28.Qa2 Qe7 29.Be6 Rb8 30.Qc4 Qc7 31.Bb6 Qd6 32.Bf7+ Kd7 33.Bc5 b5 34.Rxb5 Qc7 35.Qe6+ Kd8 36.Qxf6+ Qe7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Bonassi, Tommaso - Pilo, Sergio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-4/8RdQdxH9/D7uiaDzP"]
+[Date "2026.07.08"]
+[Round "4.13"]
+[White "Bonassi, Tommaso"]
+[Black "Pilo, Sergio"]
+[Result "1-0"]
+[WhiteElo "2071"]
+[BlackElo "2019"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 e5 6.O-O Be7 7.c3 d6 8.d3 h6 9.h3 O-O 10.Na3 Re8 11.Nc4 b5 12.Ne3 Bf8 13.Nh2 a5 14.Nhg4 Nxg4 15.hxg4 a4 16.f4 b4 17.f5 f6 18.g5 fxg5 19.Nd5 Be7 20.Qh5 Bf6 21.Nxf6+ gxf6 22.Qg6+ Kf8 23.Qxh6+ Kg8 24.Qg6+ Kf8 25.Bxg5 fxg5 26.f6 Re6 27.Qg7+ Ke8 28.f7+ 1-0

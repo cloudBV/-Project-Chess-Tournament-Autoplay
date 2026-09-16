@@ -1,0 +1,15 @@
+[Event "Round 8: Bowcott-Terry, Finlay - Dicen, Elis Denele"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-8/vHhrrP3r/s1u11wVW"]
+[Date "2026.07.18"]
+[Round "8.2"]
+[White "Bowcott-Terry, Finlay"]
+[Black "Dicen, Elis Denele"]
+[Result "0-1"]
+[WhiteElo "2247"]
+[BlackElo "2091"]
+[ECO "B53"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6 9.O-O-O Be7 10.Kb1 O-O 11.Qd3 Qa5 12.h4 Rac8 13.Nd4 a6 14.f4 h6 15.e5 dxe5 16.fxe5 Qxe5 17.Rhe1 Qa5 18.Bc1 Bb4 19.Nb3 Qc7 20.Qd4 Bxc3 21.Qxc3 Be4 22.Qxc7 Rxc7 23.Re2 Rfc8 24.Rdd2 Bf5 25.Nd4 Bg6 26.Rd1 Bh5 27.Nf3 Rc4 28.Rh1 Bg6 29.Ne5 Bxc2+ 30.Ka1 R4c7 31.Bf4 Nd5 32.Bd2 f6 33.Nf3 Kf7 34.Nd4 Bf5 35.Rhe1 Bg4 36.Re4 Bf5 37.R4e2 b5 38.a3 Nb6 39.Ba5 Rb7 40.Bxb6 Rxb6 41.h5 Rc7 42.Nxf5 exf5 43.Ka2 Rd6 44.Re8 Rd2 45.g3 Rd6 46.Ra8 Re7 47.Rc1 Rd3 48.Rcc8 Rxg3 49.Rf8+ Ke6 50.Ra7 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Kaufman, David - Mitrabha, Guha"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/gdK0MtGN"]
+[Date "2026.07.06"]
+[Round "6.1"]
+[White "Kaufman, David"]
+[Black "Mitrabha, Guha"]
+[Result "1/2-1/2"]
+[WhiteElo "2477"]
+[BlackElo "2525"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Nf3 e6 5.a3 Ne4 6.Nxe4 Bxe4 7.Nd2 Bb7 8.e4 g6 9.Bd3 Bg7 10.Nf3 d6 11.O-O O-O 12.Bg5 Qe8 13.Rc1 Nd7 14.b4 c5 15.Bc2 h6 16.Bh4 Nf6 17.d5 Qc8 18.Nd2 cxb4 19.axb4 a5 20.Qf3 g5 21.Bg3 e5 22.Rb1 Qc7 23.Rfc1 axb4 24.Rxb4 h5 25.h4 g4 26.Qe3 Ra6 27.Rcb1 Rfa8 28.Bd3 Bc8 29.Rxb6 Rxb6 30.Qxb6 Qxb6 31.Rxb6 Bf8 32.f3 Nd7 33.Rb2 Ra1+ 1/2-1/2

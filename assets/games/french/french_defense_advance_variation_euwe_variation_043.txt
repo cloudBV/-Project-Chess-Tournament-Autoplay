@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.21"]
+[Round "6.2"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2749"]
+[ECO "C02"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 Be7 10.O-O O-O 11.Bd3 f6 12.exf6 Bxf6 13.Re1 Qb6 14.Bxf5 exf5 15.Bg5 Bxg5 16.Nxg5 f4 17.b4 Bf5 18.a4 Nxb4 19.a5 Qd6 20.Nxb4 Qxb4 21.Ne6 Bxe6 22.Rxe6 Rae8 23.Re5 Rxe5 24.dxe5 Qe4 25.Qb3 Qxe5 26.Rd1 Rf7 27.Qb5 g6 28.Rxd5 Qe1+ 29.Qf1 Qxf1+ 30.Kxf1 f3 31.gxf3 Rxf3 32.h4 Rf5 33.Rd8+ Kg7 34.Kg2 a6 35.Kg3 Rf7 36.Rd6 Rf5 37.Rd7+ Kh6 38.Rxb7 Rxa5 39.Ra7 Ra1 40.f3 a5 41.Kg2 a4 1/2-1/2

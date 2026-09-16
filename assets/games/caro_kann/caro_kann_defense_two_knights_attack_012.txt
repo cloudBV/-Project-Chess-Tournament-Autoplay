@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.2"]
+[White "Skaar, Ben Samuel Groth"]
+[Black "Myny, Sigur H"]
+[Result "1-0"]
+[WhiteElo "2134"]
+[BlackElo "2026"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Qa5 7.b4 Qd5 8.Qe3 Bf5 9.c4 Qe4 10.Be2 Qxe3 11.fxe3 e6 12.b5 cxb5 13.cxb5 Nd7 14.O-O Be7 15.Bb2 O-O 16.Rac1 Rac8 17.h3 h5 18.a4 Rfd8 19.Bc3 Nc5 20.Ba5 b6 21.Bb4 Bf6 22.d4 Ne4 23.Bc4 Rc7 24.Bb3 Rdc8 25.Rxc7 Rxc7 26.Ra1 g5 27.Ne5 Bxe5 28.dxe5 Nc3 29.Kf1 Be4 30.Bd6 Rd7 31.Rc1 Nd5 32.Kf2 Kg7 33.Bd1 a6 34.bxa6 Bd3 35.Bxh5 Bxa6 36.Bd1 Bd3 37.Rc8 Ra7 38.Bb3 Be4 39.Rc4 Bxg2 40.h4 Kg6 41.Rg4 Bh3 42.Rxg5+ Kh7 43.Kg3 Bf1 44.Bc2+ Kh8 45.Kf2 Bc4 46.h5 Ra8 47.Rg4 b5 48.h6 Rc8 49.Rg7 bxa4 50.Rh7+ Kg8 51.Rg7+ Kh8 52.Rxf7 Bb3 53.Be4 Bc2 54.Bxd5 exd5 55.e6 Bg6 56.Be5+ 1-0

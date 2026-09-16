@@ -1,0 +1,15 @@
+[Event "Round 9: Ozen, Ilhami Goktug - Ilgaz, Yusuf Kerem"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/4yODsBsL"]
+[Date "2026.07.19"]
+[Round "9.33"]
+[White "Ozen, Ilhami Goktug"]
+[Black "Ilgaz, Yusuf Kerem"]
+[Result "1/2-1/2"]
+[WhiteElo "2097"]
+[BlackElo "2166"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a5 7.Bb3 O-O 8.Nbd2 Be6 9.Re1 Bxb3 10.axb3 Re8 11.h3 h6 12.Nf1 d5 13.Qe2 Qd7 14.Ng3 Qe6 15.Qc2 Rad8 16.Nf5 Bf8 17.g4 dxe4 18.dxe4 Nd7 19.Be3 b6 20.Kh2 Bc5 21.Rg1 Bxe3 22.Nxe3 Nc5 23.Nd5 Qg6 24.Nxc7 Re7 25.Nb5 Nd3 26.Ra4 Qf6 27.Rg3 Red7 28.Nbd4 Ndb4 29.cxb4 Nxd4 30.Qc3 axb4 31.Rxb4 Rd6 32.Kg2 Ne2 33.Qxe5 Nxg3 34.Kxg3 Re6 35.Qxf6 Rxf6 36.Nd4 Rfd6 37.Nf5 Re6 38.f3 Rd2 39.Ne3 Rc6 40.Nc4 Re2 41.Nxb6 Rcc2 42.Nd5 g5 43.f4 Rg2+ 44.Kf3 Rcf2+ 45.Ke3 Rxb2 46.Rb8+ Kg7 47.f5 Rg3+ 48.Kd4 Rgxb3 49.f6+ Kh7 50.Rf8 Rb7 51.Kc5 1/2-1/2

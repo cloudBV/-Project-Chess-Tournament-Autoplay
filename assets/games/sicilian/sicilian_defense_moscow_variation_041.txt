@@ -1,0 +1,14 @@
+[Event "Round 6: Tellarini, Lorenzo - Di Liberto, Michele"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-6/aejqOp8M/2qLF9u1D"]
+[Date "2026.07.09"]
+[Round "6.9"]
+[White "Tellarini, Lorenzo"]
+[Black "Di Liberto, Michele"]
+[Result "1/2-1/2"]
+[WhiteElo "2078"]
+[BlackElo "2318"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Qxd7 7.c4 e5 8.Qd3 f5 9.Nc3 Nf6 10.Bg5 fxe4 11.Nxe4 Nxe4 12.Qxe4 h6 13.Bh4 Qg4 14.Qxg4 Bxg4 15.O-O Bxf3 16.gxf3 Be7 17.Bxe7 Kxe7 18.Rfe1 Rhf8 19.c5 Rxf3 20.Rad1 Rd8 21.cxd6+ Ke6 22.Rc1 Rxd6 23.Rc7 Rf7 24.Rxe5+ Kxe5 25.Rxf7 Rg6+ 26.Kf1 b5 1/2-1/2

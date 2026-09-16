@@ -1,0 +1,14 @@
+[Event "Round 3: Balabayeva, Xeniya - Piazza, Carlo"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-3/ouxGQVoQ/G8Qg2iGR"]
+[Date "2026.07.12"]
+[Round "3.17"]
+[White "Balabayeva, Xeniya"]
+[Black "Piazza, Carlo"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2076"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.c3 c6 7.a4 a5 8.Nbd2 Bf5 9.Re1 Ne4 10.Nh4 Nxd2 11.Nxf5 gxf5 12.Bxd2 Nd7 13.Qc2 e6 14.f3 c5 15.dxc5 Nxc5 16.Be3 Qc7 17.Bf2 Rfd8 18.Rec1 Na6 19.Qb3 Rd7 20.Qb5 Qc6 21.Qxa5 Nc7 22.Qb6 Qxb6 23.Bxb6 Ra6 24.Bf2 e5 25.Bh3 Rf6 26.Rd1 Rdd6 27.Bc5 Rc6 28.Be7 1-0

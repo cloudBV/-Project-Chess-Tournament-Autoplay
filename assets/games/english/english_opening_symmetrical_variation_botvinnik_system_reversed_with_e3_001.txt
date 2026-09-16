@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "8.3"]
+[White "Obukhava, Anastasiya"]
+[Black "Petrenko, Maryna"]
+[Result "0-1"]
+[WhiteElo "2063"]
+[BlackElo "2052"]
+[ECO "A36"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with e3"]
+
+1.c4 c5 2.g3 Nc6 3.Nc3 g6 4.Bg2 Bg7 5.e3 e5 6.Nge2 Nge7 7.d3 d6 8.O-O Be6 9.a3 d5 10.cxd5 Nxd5 11.Ne4 b6 12.Qa4 Qd7 13.N2c3 Rc8 14.Nb5 O-O 15.Ned6 Ra8 16.Nc4 a6 17.Nc3 Nxc3 18.Qxc6 Qxc6 19.Bxc6 Ne2+ 20.Kg2 Rad8 21.Bf3 Nxc1 22.Rfxc1 b5 23.Nd2 Rxd3 24.Ne4 c4 25.Nc5 Rd6 26.Nb7 Rd2 27.Nc5 Rxb2 28.Nxa6 Rc8 29.Nb4 f5 30.Bb7 Rd8 31.Rd1 Rdd2 32.Rxd2 Rxd2 33.Bc6 e4 34.Rb1 c3 35.Rc1 Bb3 36.Bxb5 c2 37.Nxc2 Rxc2 38.Rb1 Bd5 39.a4 Ra2 40.Rd1 Bb3 41.Rd8+ Kf7 42.Rd7+ Kf6 43.Rd6+ Kg5 44.h4+ Kh6 45.Ra6 Bc3 46.Kf1 Bb4 47.Ra7 Ra1+ 48.Kg2 Bd2 49.Rd7 Bb4 50.Rd4 Bc5 51.Rd7 Ra2 52.Kf1 Bxa4 53.Bxa4 Rxa4 54.Rd5 Ra1+ 55.Ke2 Bb4 56.f3 Ra2+ 57.Kf1 exf3 58.Rd4 Bc5 59.Rf4 Bxe3 60.Rxf3 Bc5 61.Rc3 Bd6 62.Rd3 Bb8 63.Rb3 Ba7 64.Rf3 Rh2 65.Ra3 Bc5 66.Rc3 Bd6 67.Kg1 Rd2 68.Kf1 Kh5 69.Ke1 Rg2 70.Kf1 Rxg3 71.Rc6 Bf4 72.Rc4 Rg4 73.Ra4 h6 74.Ra6 Kxh4 75.Ra3 Rg3 76.Ra4 g5 77.Kf2 Kg4 78.Kf1 Rb3 79.Kf2 Rb2+ 80.Kf1 h5 81.Rc4 Kf3 82.Rc3+ Be3 0-1

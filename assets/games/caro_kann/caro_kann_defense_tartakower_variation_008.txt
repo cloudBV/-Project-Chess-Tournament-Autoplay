@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.8"]
+[White "Elsness, Fredrik Valstad"]
+[Black "Myny, Sigur H"]
+[Result "1-0"]
+[WhiteElo "2113"]
+[BlackElo "2026"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Nd7 10.c4 c5 11.Qc2 g6 12.Rad1 Qc7 13.h3 f5 14.Nc3 a6 15.Nd5 Qc6 16.Rfe1 b6 17.Be2 Bb7 18.Bf3 Qc8 19.dxc5 bxc5 20.Bg5 Re6 21.Rxe6 fxe6 22.Nb6 Nxb6 23.Bxb7 Bh2+ 24.Kxh2 Qxb7 25.Bf4 Re8 26.Be5 Nd7 27.Qa4 Re7 28.Bd6 Nb6 29.Qa5 Re8 30.Qxc5 Rc8 31.Qe3 Qd7 1-0

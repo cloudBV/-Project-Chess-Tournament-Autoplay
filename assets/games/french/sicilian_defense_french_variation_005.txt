@@ -1,0 +1,15 @@
+[Event "Round 6: Oz, Ege - Neverov, Valeriy"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/l7F2e3k8"]
+[Date "2026.07.02"]
+[Round "6.34"]
+[White "Oz, Ege"]
+[Black "Neverov, Valeriy"]
+[Result "1-0"]
+[WhiteElo "2120"]
+[BlackElo "2364"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 d5 5.Qe2 Nge7 6.Bg2 dxe4 7.dxe4 Nd4 8.Nxd4 cxd4 9.e5 Bd7 10.O-O Bc6 11.Nd2 Bxg2 12.Kxg2 Nc6 13.Nf3 Bc5 14.Rd1 Qc7 15.a3 O-O-O 16.b4 Bb6 17.Bb2 Rd5 18.c4 dxc3 19.Bxc3 Rxd1 20.Rxd1 Rd8 21.Rc1 Kb8 22.Bd2 Qd7 23.b5 Nd4 24.Nxd4 Bxd4 25.Bf4 Qd5+ 26.Kg1 h6 27.h4 Qb3 28.Kg2 Qxa3 29.h5 Bb6 30.Qg4 Qf8 31.Qf3 Rd5 32.Qxd5 exd5 33.e6+ Ka8 34.Bd6 1-0

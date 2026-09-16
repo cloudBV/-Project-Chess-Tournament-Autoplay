@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/zArlhP0m"]
+[Date "2026.07.03"]
+[Round "7.15"]
+[White "Nimay Agrawal"]
+[Black "Matskevich, Varvara"]
+[Result "1/2-1/2"]
+[WhiteElo "2243"]
+[BlackElo "2031"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.Qf3 a6 10.Qa3 Be7 11.Bg5 Bf5 12.Bxe7 Kxe7 13.c4 Qb6 14.Nc3 Nd7 15.Be2 a5 16.Nb5 Nc5 17.O-O Bd7 18.Qg3 Bxb5 19.Qg5+ Kf8 20.cxb5 h6 21.Qf5 g6 22.Qf6 Rg8 23.a4 Qd8 24.Qxd8+ Rxd8 25.Rfb1 Nb3 26.Ra3 Nd4 27.Bd3 Rc8 28.f3 Ke7 29.b4 axb4 30.Rxb4 Rc5 31.a5 Ra8 32.a6 b6 33.Rc4 Kd7 34.h4 f5 35.Rac3 Kc7 36.Kf2 Re8 37.Ra3 Rxc4 38.Bxc4 Kb8 39.Ra4 Rc8 40.g3 Rc5 41.Rb4 g5 42.hxg5 hxg5 43.g4 f4 44.Bd3 Rxd5 45.Rb1 Rc5 46.Rh1 Nxb5 47.Rh7 Nc7 48.Rg7 Ka7 49.Rxg5 e4 50.Rxc5 e3+ 51.Ke2 bxc5 52.g5 Ne6 53.g6 d5 54.Bb5 Kb6 55.Ke1 Ng7 56.Kd1 1/2-1/2

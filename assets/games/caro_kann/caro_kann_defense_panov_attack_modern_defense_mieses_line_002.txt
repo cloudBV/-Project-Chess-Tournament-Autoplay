@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.15"]
+[Round "5.14"]
+[White "Labruyere, Roger"]
+[Black "Han, Qixuan"]
+[Result "1-0"]
+[WhiteElo "2202"]
+[BlackElo "2058"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.Be3 e6 8.c5 Be7 9.Be2 O-O 10.O-O b6 11.Qa4 Rc8 12.Bb5 Qc7 13.Bxc6 Bxf3 14.gxf3 Qxc6 15.Qxa7 Nd7 16.cxb6 e5 17.Ne2 Qe6 18.b7 Rc6 19.dxe5 Qxe5 20.Ng3 Rg6 21.Qa4 Nc5 22.Qf4 Qxf4 23.Bxf4 Nxb7 24.Rfd1 Rd8 25.Rac1 Nc5 26.Be3 Na6 27.a3 Bf6 28.Bd4 Bg5 29.Rc2 Nb8 30.Kf1 Ra6 31.Nf5 Nc6 32.Bxg7 Na5 33.Bd4 Nc6 34.Be3 Bf6 35.Nh6+ Kf8 36.Bc5+ Kg7 37.Ng4 Bg5 38.b4 Na7 39.Bd4+ Kg8 40.f4 Bh4 41.a4 h5 42.Ne5 Rxa4 43.Bxa7 Rxa7 44.Nc6 Rc7 45.b5 Rd6 46.Rcd2 Rf6 47.Rxd5 Rxf4 48.R1d2 f5 49.h3 Rf3 50.R5d3 Rf4 51.Rd4 Rxd4 52.Rxd4 Bg5 53.Rb4 Bd2 54.Rb2 Bf4 55.Rb4 Bd2 56.Rd4 Bg5 57.f4 Bh6 58.Ke2 Kf7 59.Kd3 Ke6 60.Nd8+ Ke7 61.b6 Rc1 62.b7 Rd1+ 63.Kc3 Rxd4 64.Nc6+ Kd7 65.b8=Q Rxf4 66.Ne5+ Ke6 67.Qe8+ Kd5 68.Nd3 Rc4+ 69.Kb3 Kd4 70.Qd7+ 1-0

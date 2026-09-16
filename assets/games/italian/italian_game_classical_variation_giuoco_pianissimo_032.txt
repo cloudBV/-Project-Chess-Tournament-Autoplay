@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "3.1"]
+[White "Mahir Taneja"]
+[Black "Degraeve, Jean-Marc"]
+[Result "0-1"]
+[WhiteElo "2318"]
+[BlackElo "2500"]
+[ECO "C54"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.d4 exd4 8.cxd4 Ba7 9.h3 O-O 10.Nc3 Nxe4 11.Nxe4 d5 12.Bg5 Qd7 13.Bxd5 Qxd5 14.Nc3 Qf5 15.Be3 Rd8 16.d5 Bxe3 17.fxe3 Ne5 18.Qd4 Re8 19.Rac1 Bd7 20.e4 Nxf3+ 21.Rxf3 Qe5 22.Qxe5 Rxe5 23.Rd1 Rae8 24.Kf2 f6 25.b4 Kf7 26.Rd4 c6 27.Re3 cxd5 28.Rxd5 Bc6 29.Rxe5 Rxe5 30.g4 h5 31.Kf3 hxg4+ 32.hxg4 Re8 33.a4 Rh8 34.b5 axb5 35.axb5 Rh3+ 36.Kf2 Rxe3 37.Kxe3 Bd7 38.g5 fxg5 39.Kd4 g4 40.Ke3 Ke6 41.Kf4 Kd6 42.e5+ Kc5 43.Ne4+ Kxb5 44.Ng5 Kc6 45.e6 Bc8 46.Kxg4 Kd5 47.Kf5 b5 48.Kg6 Bxe6 49.Kxg7 b4 50.Nf3 Ke4 51.Ng5+ Kf5 52.Nf3 Bd5 53.Nd2 Kf4 54.Kf6 Ke3 0-1

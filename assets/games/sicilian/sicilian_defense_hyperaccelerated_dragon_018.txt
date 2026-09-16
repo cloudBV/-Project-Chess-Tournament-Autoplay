@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.10"]
+[White "Borischik, Sergey"]
+[Black "Szlod, Wiktor"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2078"]
+[ECO "B27"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.exd5 Qxd5 5.Na3 Nc6 6.Bc4 Qd6 7.O-O Bg7 8.Re1 Nf6 9.d4 cxd4 10.Nb5 Qb8 11.cxd4 a6 12.Nc3 b5 13.Bb3 O-O 14.h3 e6 15.Bg5 Na5 16.Ne5 Nxb3 17.Qxb3 Nd7 18.Nc6 Qb6 19.d5 Nc5 20.Qc2 Bb7 21.b4 Na4 22.Nxa4 bxa4 23.Be3 Qb5 24.Rad1 exd5 25.Ne7+ Kh8 26.Bd4 Qd7 27.Qb2 f6 28.Re2 Rf7 29.Rde1 Raf8 30.Qc3 Bc8 31.f3 Qd8 32.Re3 Bd7 33.Nxd5 Bxh3 34.Nf4 Bf5 35.g4 Bc8 36.Bc5 f5 37.Qc2 Bd4 38.Qh2 Qg5 39.Bxd4+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 5: Tezcan, Alper - Bagaturov, Giorgi"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-5/wuLhL5ga/GLmaMzE4"]
+[Date "2026.07.22"]
+[Round "5.6"]
+[White "Tezcan, Alper"]
+[Black "Bagaturov, Giorgi"]
+[Result "1-0"]
+[WhiteElo "2285"]
+[BlackElo "2297"]
+[ECO "B57"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 7.Nb3 e6 8.Bf4 Ne5 9.Be2 a6 10.g4 Qc7 11.g5 Nfd7 12.a4 b6 13.Bg3 Bb7 14.Qd4 h6 15.gxh6 Rxh6 16.f4 Nc6 17.Qe3 Nc5 18.O-O-O Rc8 19.Kb1 Be7 20.f5 Ne5 21.Nd4 Bc6 22.fxe6 fxe6 23.Bf4 Rh7 24.Rhf1 Bf6 25.Bxe5 dxe5 26.Nxc6 Qxc6 27.Qg3 Ke7 28.Rd2 Rch8 29.Bf3 b5 30.axb5 axb5 31.b4 Ra8 32.Na2 Na4 33.Be2 Nb6 34.Rfd1 Nc4 35.Bxc4 Qxc4 36.Qb3 Qxb3+ 37.cxb3 Bg5 38.Rg2 Bf4 39.Nc3 g5 40.Nxb5 Rb8 41.Rc2 Kf6 42.Nc7 Rb7 43.Ne8+ Ke7 44.Nd6 Rxb4 45.Rc7+ 1-0

@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.03"]
+[Round "1.11"]
+[White "Haug, Havard"]
+[Black "Gandrud, Vegar Koi"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2283"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 a6 6.Bf1 Bg4 7.h3 Bxf3 8.Qxf3 e6 9.d3 Nf6 10.c3 Be7 11.Nd2 O-O 12.Qe2 Qb6 13.Nf3 Ne5 14.Nh2 Rad8 15.Be3 Nc6 16.Nf3 Ne5 17.b4 Nxf3+ 18.Qxf3 Qc7 19.bxc5 dxc5 20.d4 cxd4 21.cxd4 Qc2 22.Bg5 Rxd4 23.e5 Nd5 24.Bxe7 Nxe7 25.Qxb7 Ng6 26.Qxa6 Ra4 27.Bd3 Rxa6 28.Bxc2 Ra5 29.Bxg6 hxg6 30.a4 Rd8 31.Re4 g5 32.g3 Rd2 33.Rc1 Ra2 34.Rcc4 Rd5 35.Re3 Ra5 36.Rc8+ Kh7 37.Rc7 Kg6 38.Re7 R2xa4 39.Rf3 f6 40.exf6 gxf6 41.Rxe6 Rf5 42.Rxf5 Kxf5 43.Rb6 Rc4 44.Kg2 Ra4 45.Rb7 Kg6 46.Re7 Rb4 47.Ra7 Rc4 48.Ra5 Rb4 49.Rc5 Ra4 50.Rb5 Rc4 51.g4 Ra4 52.Rd5 Rb4 53.Ra5 Rc4 54.Kg3 Rc3+ 55.f3 Rb3 56.Rc5 Ra3 57.Rb5 Rc3 58.Rf5 Rb3 59.h4 gxh4+ 60.Kxh4 Ra3 61.Kg3 Rb3 62.Ra5 Rc3 63.Ra8 Rb3 64.Ra7 Rc3 65.Ra1 Rb3 66.Ra2 Rc3 67.Rb2 Ra3 68.Rb4 Rc3 69.Kf4 Ra3 70.Re4 Rb3 71.Re3 Rb4+ 72.Kg3 Ra4 73.Rb3 Rc4 74.f4 Rc1 75.Rb6 Kg7 76.Rb7+ Kg8 77.Rb8+ Kg7 78.Rb7+ Kg8 79.Kf3 Rg1 80.Ra7 Kf8 81.Rc7 Kg8 82.Rd7 Kf8 83.f5 Re1 84.Ra7 Kg8 85.Ra4 Kf7 86.Kg2 Kg7 87.Ra6 Kf7 88.Ra7+ Kg8 89.Kh2 Kf8 90.Kh3 Kg8 91.g5 Rh1+ 92.Kg2 Rh5 93.Ra8+ Kg7 94.Kf3 Rxg5 95.Ke4 1/2-1/2

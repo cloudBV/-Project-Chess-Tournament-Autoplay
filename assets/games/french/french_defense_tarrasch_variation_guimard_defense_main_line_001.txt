@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.05"]
+[Round "2.6"]
+[White "Nayak Rajesh"]
+[Black "Peng, Li Min"]
+[Result "1/2-1/2"]
+[WhiteElo "2268"]
+[BlackElo "2529"]
+[ECO "C04"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Guimard Defense, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nf6 5.e5 Nd7 6.c3 f6 7.exf6 Nxf6 8.Bd3 Bd6 9.O-O O-O 10.Re1 Qe8 11.Nf1 h6 12.Ne5 Ne7 13.Ng3 c5 14.dxc5 Bxc5 15.Be3 Bd6 16.Bd4 Nc6 17.Bc2 Nxd4 18.cxd4 Qd8 19.Qd3 Bd7 20.Re3 Rc8 21.Ng4 Rxc2 22.Nxf6+ Qxf6 23.Rf3 Qxf3 24.gxf3 Rxb2 25.Rb1 Rxf3 26.Qxf3 Rxb1+ 27.Kg2 Rb4 28.Qa3 Ba4 29.Qe3 Bd7 30.Qa3 Ba4 1/2-1/2

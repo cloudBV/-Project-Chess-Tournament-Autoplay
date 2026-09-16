@@ -1,0 +1,15 @@
+[Event "Round 6: Shabalov, Alexander - Akturk, Mustafa Deniz"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/pcHiHBfH"]
+[Date "2026.07.02"]
+[Round "6.33"]
+[White "Shabalov, Alexander"]
+[Black "Akturk, Mustafa Deniz"]
+[Result "1-0"]
+[WhiteElo "2428"]
+[BlackElo "2143"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.Nf3 c5 2.e4 e6 3.Bd3 d5 4.exd5 exd5 5.O-O Nf6 6.Bb5+ Bd7 7.Bxd7+ Qxd7 8.d4 Be7 9.dxc5 O-O 10.Nc3 Nc6 11.Bg5 Rad8 12.Re1 Qf5 13.Bxf6 Bxf6 14.Qd2 Nb4 15.Rac1 Na6 16.Rcd1 d4 17.Ne4 Nxc5 18.Nxf6+ Qxf6 19.Nxd4 Ne6 20.Re4 Qg6 21.Qe2 Nc5 22.Re3 Qb6 23.c3 Na4 24.Rd2 Qg6 25.h4 Nb6 26.Rd1 Nd5 27.Re5 f6 28.Re4 f5 29.Re5 Rfe8 30.Nxf5 Nf4 31.Qc4+ Kh8 32.Rxe8+ Rxe8 33.Qxf4 1-0

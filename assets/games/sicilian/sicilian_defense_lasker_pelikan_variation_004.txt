@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.04"]
+[Round "8.16"]
+[White "Alonso, Raphael V. P. Patricio"]
+[Black "Matsuura, Everaldo"]
+[Result "1-0"]
+[WhiteElo "2183"]
+[BlackElo "2351"]
+[ECO "B33"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nf5 d5 7.exd5 Bxf5 8.dxc6 bxc6 9.Qf3 Qd7 10.Bc4 Bxc2 11.Qe2 Bg6 12.Qxe5+ Be7 13.O-O O-O 14.Rd1 Qb7 15.b3 Rfe8 16.Qg3 Bd8 17.Bb2 Bc7 18.Qh3 Re5 19.g3 Rh5 20.Qf1 Bb6 21.Na4 Ne4 22.Nxb6 axb6 23.Qd3 h6 24.Qd4 Nf6 25.a4 1-0

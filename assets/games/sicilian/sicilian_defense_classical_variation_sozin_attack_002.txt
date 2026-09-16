@@ -1,0 +1,15 @@
+[Event "Round 8: White, Stuart A - Dgebuadze, Alexandre"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/IVix2JqU"]
+[Date "2026.07.21"]
+[Round "8.14"]
+[White "White, Stuart A"]
+[Black "Dgebuadze, Alexandre"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2399"]
+[ECO "B57"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Sozin Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Bd7 7.Nxc6 bxc6 8.Bb3 e6 9.Bf4 d5 10.e5 Ng8 11.h4 h5 12.Ne2 Ne7 13.Bg5 Qb8 14.Rh3 Nf5 15.Bf4 Be7 16.Qd2 a5 17.c3 a4 18.Bc2 Qxb2 19.Rb1 Qxa2 20.Nd4 Nxd4 21.cxd4 Qc4 22.Rg3 a3 23.Rgb3 a2 24.Ra1 c5 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Bowcott-Terry, Finlay - Willow, Jonah B"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-2/JpNu57P9/TdAnXA43"]
+[Date "2026.07.18"]
+[Round "2.2"]
+[White "Bowcott-Terry, Finlay"]
+[Black "Willow, Jonah B"]
+[Result "0-1"]
+[WhiteElo "2247"]
+[BlackElo "2368"]
+[ECO "B27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 Nc6 6.Qa4 d6 7.e5 dxe5 8.Nxe5 Bd7 9.Nxd7 Qxd7 10.Bf4 Bg7 11.Bd3 Qe6+ 12.Be2 Rd8 13.O-O Rd4 14.Qb5 Rxf4 15.Qxb7 O-O 16.Rad1 Rb4 17.Qc7 Rc8 18.Qg3 Rxb2 19.Rfe1 Qf5 20.Nd5 Rbb8 21.Bf3 Nxd5 22.Bxd5 Nb4 23.Bb3 e6 24.Rd7 Nxc2 25.Red1 Nd4 26.R7xd4 Bxd4 27.Rxd4 Rc1+ 28.Rd1 Rxd1+ 29.Bxd1 Rb1 0-1

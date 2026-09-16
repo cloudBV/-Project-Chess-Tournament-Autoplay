@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.04"]
+[Round "2.3"]
+[White "Vasquez Toledo, Cristian"]
+[Black "Valdes Berdichewsky, Lucas Gaspar"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2205"]
+[ECO "B92"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 h5 9.h3 Be6 10.Nd5 Bxd5 11.exd5 Nbd7 12.c4 b6 13.O-O g6 14.f4 O-O 15.f5 Kg7 16.Bd3 b5 17.cxb5 Nxd5 18.Bf2 axb5 19.Be4 N5f6 20.Bxa8 Qxa8 21.fxg6 fxg6 22.Qe2 Qa4 23.Nd2 Rc8 24.b3 Qa5 25.Ne4 Nxe4 26.Qxe4 Qa8 27.Qxa8 Rxa8 28.Rfc1 Kf7 29.Rc7 Ke6 30.Rb7 e4 31.Rxb5 d5 32.a4 Bg5 33.Rd1 e3 34.Re1 1-0

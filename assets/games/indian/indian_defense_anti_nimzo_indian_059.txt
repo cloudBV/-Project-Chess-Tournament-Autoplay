@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.6"]
+[White "Prokofiev, Valentyn"]
+[Black "Piesik, Piotr"]
+[Result "1-0"]
+[WhiteElo "2434"]
+[BlackElo "2335"]
+[ECO "E10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.e3 b6 5.Nc3 Bb7 6.cxd5 exd5 7.Bb5+ c6 8.Bd3 Bd6 9.Ne5 O-O 10.O-O Nbd7 11.f4 c5 12.Qf3 Rc8 13.Qh3 Bxe5 14.dxe5 Ne4 15.Rd1 Bc6 16.Bc2 f5 17.Nxd5 Qe8 18.Bxe4 fxe4 19.e6 Nf6 20.e7 Bxd5 21.exf8=Q+ Kxf8 22.Bd2 Be6 23.f5 Bf7 24.Bc3 Rc6 25.Rd2 Bc4 26.g4 h6 27.Rad1 Bd3 28.Rg2 Nh7 29.Qg3 Ng5 30.Rf2 c4 31.Rf4 Kg8 32.f6 g6 33.h4 Nf3+ 34.Kf2 Kf7 35.Rxf3 exf3 36.Qf4 Qf8 37.e4 Qc5+ 38.Kxf3 Re6 39.e5 Qf8 40.Kg3 b5 41.a3 Qc5 42.Re1 g5 43.hxg5 Qd5 44.gxh6 Bg6 45.Qd4 Qb7 46.Rd1 Bd3 47.h7 Re8 48.e6+ Kg6 49.f7 Qc7+ 50.Qf4 1-0

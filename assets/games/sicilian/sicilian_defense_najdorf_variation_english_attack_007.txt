@@ -1,0 +1,15 @@
+[Event "Round 10: Sevian, Samuel - Caruana, Fabiano"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-10/IfXYzAOl/POIF230l"]
+[Date "2026.07.04"]
+[Round "10.3"]
+[White "Sevian, Samuel"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2773"]
+[ECO "B90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7 9.g4 b5 10.a4 bxa4 11.Rxa4 Be7 12.Rxa6 O-O 13.Rxa8 Qxa8 14.Bb5 Rd8 15.O-O d5 16.exd5 Nxd5 17.Nxd5 Bxd5 18.Qe2 Nf6 19.Ra1 Qb8 20.Bc4 e4 21.Bxd5 Nxd5 22.Bd4 exf3 23.Qxf3 Bg5 24.Ra5 Qb7 25.c4 Qb4 26.Rxd5 Re8 27.Rxg5 Qxc4 28.Rxg7+ Kf8 29.Rxh7 Re1+ 30.Kg2 Qc2+ 31.Bf2 1-0

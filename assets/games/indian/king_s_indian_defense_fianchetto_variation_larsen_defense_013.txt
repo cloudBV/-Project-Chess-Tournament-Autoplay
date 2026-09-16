@@ -1,0 +1,15 @@
+[Event "XIº USCIAMO DALLO STALLO"]
+[Site "Falconara Marittima (AN), Italy"]
+[Date "2026.07.18"]
+[Round "3.1"]
+[White "Di Giacinto, Gaudio"]
+[Black "Albini, Federico"]
+[Result "0-1"]
+[WhiteElo "2104"]
+[BlackElo "2009"]
+[ECO "E62"]
+[TimeControl "90' + 30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.c4 d6 6.d4 c6 7.Nc3 Bf5 8.Re1 Ne4 9.Nh4 Nxc3 10.bxc3 Be6 11.Qd3 Qa5 12.e4 Nd7 13.Nf3 Nb6 14.Nd2 Na4 15.Re3 Qxc3 16.Qxc3 Nxc3 17.Rxc3 Bxd4 18.Bb2 Bxc3 19.Bxc3 f6 20.Rb1 Rab8 21.a4 b6 22.Bf1 Kf7 23.Nf3 Bd7 24.Bd3 c5 25.Bc2 g5 26.Rd1 Bg4 27.Kg2 h6 28.h3 Bh5 29.g4 Bg6 30.h4 Ke6 31.h5 Be8 32.Nd2 Bc6 33.f3 Kd7 34.Nf1 e6 35.Ng3 a6 36.Kh3 Ke7 37.Ne2 b5 38.axb5 axb5 39.Ba5 Rfc8 40.cxb5 Bxb5 41.Ng3 Ra8 42.Be1 Rcb8 43.Bb1 Ra3 44.Kg2 Ba6 45.e5 fxe5 46.Bg6 Rb2+ 47.Rd2 Rxd2+ 48.Bxd2 Ra2 49.Ne4 Bd3 0-1

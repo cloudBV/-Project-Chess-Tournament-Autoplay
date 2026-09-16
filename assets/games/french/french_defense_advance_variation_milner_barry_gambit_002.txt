@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.27"]
+[White "Andreev, Eduard"]
+[Black "Ayaan Phutane"]
+[Result "1-0"]
+[WhiteElo "2397"]
+[BlackElo "2154"]
+[ECO "C02"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 Bd7 7.dxc5 Bxc5 8.O-O a6 9.Qe2 Qc7 10.Nbd2 f6 11.Nb3 Be7 12.Bf4 g5 13.Bg3 g4 14.exf6 Bd6 15.Ng5 Nd8 16.f7+ Nxf7 17.Nxe6 Bxe6 18.Qxe6+ Qe7 19.Qxg4 Nf6 20.Qf5 O-O 21.Rae1 Qd8 22.Re6 Ne4 23.Bxd6 Nfxd6 24.Qxd5 Nf7 25.Bxe4 Qxd5 26.Bxd5 Rad8 27.c4 b5 28.Re7 bxc4 29.Bxc4 Kg7 30.Nc5 Rc8 31.b4 a5 32.a3 axb4 33.axb4 Rce8 34.Rfe1 Rxe7 35.Rxe7 Kf6 36.Rxf7+ Rxf7 37.Bxf7 Kxf7 38.b5 Ke7 39.b6 Kd6 40.b7 Kc7 41.f4 h6 42.f5 h5 43.f6 Kb6 44.f7 Kxc5 45.f8=B+ Kc6 46.b8=Q Kd5 47.Qd6+ Ke4 48.Qe6+ Kd4 49.Bg7+ Kc5 50.Be5 Kb4 51.Qc6 Kb3 52.Qc3+ Ka4 53.Qb2 Ka5 54.Bd6 Ka6 55.Bc5 Ka5 56.Qb4+ Ka6 57.g4 1-0

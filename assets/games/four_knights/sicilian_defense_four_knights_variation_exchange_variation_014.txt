@@ -1,0 +1,14 @@
+[Event "Round 5: Mesa Baez, Samuel - Hernandez Montes, Jhon Sebastian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-5/e599Mxte/SfPj7d0f"]
+[Date "2026.07.12"]
+[Round "5.5"]
+[White "Mesa Baez, Samuel"]
+[Black "Hernandez Montes, Jhon Sebastian"]
+[Result "*"]
+[WhiteElo "2111"]
+[BlackElo "2338"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Bb4+ 11.Ke2 f5 12.exf6 Nxf6 13.Be3 Qa5 14.Nxf6+ gxf6 15.Kf2 h5 16.Bd3 Bc5 17.Qe2 Qb6 18.Rab1 a5 19.b3 Rb8 20.Bxc5 Qxc5+ 21.Qe3 Qxe3+ 22.Kxe3 c5 23.Be4 Ke7 24.Rhd1 Ba6 25.Rd2 f5 26.Bc2 Bb7 27.Kf2 h4 28.Re1 Rbg8 29.Kf1 h3 30.g3 Rxg3 31.hxg3 h2 32.Rxh2 Rxh2 33.Re2 Rh1+ 34.Kf2 d6 35.Bd3 Kf6 36.Rd2 e5 37.Bf1 Ke6 38.Re2 Be4 39.Rd2 Bc6 40.Re2 e4 41.Bg2 Rd1 42.Bh3 d5 43.cxd5+ Bxd5 44.g4 fxg4 45.Bxg4+ Kf6 46.Rc2 Bb7 47.Bxd1 *

@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.7"]
+[White "Borischik, Sergey"]
+[Black "Krawczyk, Flawian"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2260"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 g6 6.c3 Bg7 7.Bc2 e5 8.d4 Ne7 9.h3 O-O 10.Be3 b6 11.a4 Bb7 12.Nbd2 Nc6 13.Nc4 Qc7 14.d5 Ne7 15.Nfd2 f5 16.f3 f4 17.Bf2 g5 18.b4 h5 19.bxc5 bxc5 20.Rb1 Rab8 21.Nxd6 Qxd6 22.Nc4 Qg6 23.d6 Nc6 24.Rxb7 Rxb7 25.Qd5+ Qf7 26.Qxc6 Nb8 27.Qd5 Qxd5 28.exd5 Nd7 29.Bd3 Rd8 30.Na5 Rb6 31.Nc6 Rf8 32.a5 Rb3 33.Rb1 Rxc3 34.Bxa6 g4 35.hxg4 hxg4 36.Ne7+ Kf7 37.Bb5 Nb8 38.fxg4 e4 39.a6 e3 40.Be1 Ra3 41.Nf5 Bd4 42.Kf1 Rh8 43.d7 Ra2 44.Bh4 Bf6 45.g5 Bxg5 46.Bc4 Bxh4 47.Bxa2 Nxd7 48.a7 Re8 49.Nxh4 Ne5 50.Nf3 Nd3 51.d6+ Kf6 52.Ke2 Nb4 53.d7 Rd8 54.Bc4 Nc6 55.Rb7 Na5 56.Rb6+ 1-0

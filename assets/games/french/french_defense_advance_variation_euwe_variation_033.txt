@@ -1,0 +1,14 @@
+[Event "Round 4: Acs, Peter - Ganguly, Surya Shekhar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/ktpxPgMJ"]
+[Date "2026.07.02"]
+[Round "4.1"]
+[White "Acs, Peter"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1-0"]
+[WhiteElo "2561"]
+[BlackElo "2578"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 Be7 10.O-O O-O 11.Bd2 f6 12.exf6 Bxf6 13.Bc3 Be8 14.Re1 a6 15.h3 Qd7 16.Nb4 Bg6 17.Nxc6 Qxc6 18.Bf1 Qd7 19.Qe2 Rae8 20.Rac1 Nd6 21.Bb4 Be4 22.Ne5 Qd8 23.f3 Bf5 24.Red1 h6 25.Qe1 Bg5 26.Ba5 b6 27.Bd2 Bh4 28.g3 Bf6 29.Bb4 a5 30.Ba3 Bh7 31.Rc6 Be7 32.Rc3 Bf6 33.Kg2 h5 34.Rdc1 b5 35.Bxd6 Qxd6 36.Bxb5 Rb8 37.a4 Qb4 38.b3 Qxd4 39.Nd7 Bf5 40.Nxb8 Rxb8 41.g4 Bg6 42.Qxe6+ Kh7 43.Qe2 Qf4 44.Bd3 Bxc3 45.Rxc3 Rb6 46.Bxg6+ Rxg6 47.Qe3 Qd6 48.Rc8 hxg4 49.fxg4 Re6 50.Qd3+ Re4 51.Re8 Qc6 52.Rxe4 dxe4 53.Qc4 Qe8 54.Qd5 e3 55.Qh5+ Qxh5 56.gxh5 Kh6 57.Kf3 Kxh5 58.b4 axb4 59.Kxe3 1-0

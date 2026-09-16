@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.19"]
+[White "De La Villa Garcia, Jesus Maria"]
+[Black "Siscar Conill, Aitor"]
+[Result "1-0"]
+[WhiteElo "2420"]
+[BlackElo "2128"]
+[ECO "B10"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Ne5 e6 9.Qf4 Be7 10.d4 O-O 11.O-O Nd5 12.Qg3 f5 13.c3 Bf6 14.Re1 a5 15.a4 Bd7 16.Nd3 b6 17.Bf4 Ra7 18.Re2 Bh4 19.Qh3 g5 20.Bg3 Bxg3 21.hxg3 Qf6 22.Rae1 Qg7 23.g4 f4 24.Qf3 Rf6 25.Ne5 Be8 26.Nxc6 Bxc6 27.Rxe6 Rxe6 28.Rxe6 Bd7 29.Rxb6 Qe7 30.Qxd5+ 1-0

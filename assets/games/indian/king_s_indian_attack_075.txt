@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "2.4"]
+[White "Stepinski, Piotr"]
+[Black "Dobosiewicz, Dawid"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2283"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 e6 5.O-O Nb4 6.Na3 Nc6 7.Nb1 Nb4 8.Na3 Be7 9.c3 Nc6 10.c4 Bxa3 11.bxa3 Nge7 12.cxd5 exd5 13.a4 O-O 14.Ba3 Re8 15.e3 h6 16.Nd2 Qc8 17.Re1 Qe6 18.Nb3 b6 19.a5 Be4 20.Rc1 Bxg2 21.Kxg2 Rac8 22.Qd2 h5 23.h4 Nf5 24.axb6 cxb6 25.Rc2 Qe4+ 26.Kg1 Ncxd4 27.Nxd4 Nxd4 28.Qxd4 Rxc2 29.Qd1 Rxa2 30.Bd6 d4 31.Bf4 d3 32.Qb3 Rc2 33.Rd1 d2 34.f3 Qc6 35.Qd3 Rc8 36.Kg2 Qc4 37.Qd7 Qe2+ 38.Kh3 Qxd1 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Muthukumaran, Gurru - Lazaro Pujol, Abel"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-2/Zrs9zMY7/H7d9nRiI"]
+[Date "2026.07.14"]
+[Round "2.7"]
+[White "Muthukumaran, Gurru"]
+[Black "Lazaro Pujol, Abel"]
+[Result "0-1"]
+[WhiteElo "2129"]
+[BlackElo "2396"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 e6 4.O-O Nf6 5.d3 a6 6.e5 Ng4 7.Qe2 d6 8.exd6 Bxd6 9.h3 Nge5 10.Nxe5 Bxe5 11.a4 O-O 12.Nd2 b6 13.Nf3 Bc7 14.Qe4 Bb7 15.Bf4 Na5 16.Bxc7 Qxc7 17.Qe5 Qe7 18.Qf4 Rad8 19.Rfe1 Nxc4 20.dxc4 a5 21.Rad1 f6 22.h4 e5 23.Qe3 Qe6 24.Rd2 Qg4 25.Red1 Rd4 26.Rxd4 cxd4 27.Qb3 Rf7 28.Rd2 Qe6 29.Re2 Rd7 30.Qb5 Qd6 31.Rd2 h5 32.c3 Bxf3 33.gxf3 d3 34.b4 axb4 35.cxb4 Qd4 36.c5 bxc5 37.bxc5 f5 38.Qb3+ Kh7 39.Qe6 g6 40.c6 Rg7 41.a5 e4 42.f4 Qc3 43.Ra2 Qc1+ 44.Kg2 d2 45.Rxd2 Qxd2 46.Qe5 Qc1 47.Qd6 Qc4 48.Qf6 Rc7 49.Qe5 Qxc6 50.a6 Ra7 51.Qb8 Qxa6 0-1

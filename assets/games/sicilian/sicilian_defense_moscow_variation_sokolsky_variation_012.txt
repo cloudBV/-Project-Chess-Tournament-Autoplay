@@ -1,0 +1,15 @@
+[Event "Round 2: Darvishi, Mohammad Hossein - Konstantine Shanava"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-2/EoTkmXdk/KJtlMfFR"]
+[Date "2026.07.21"]
+[Round "2.4"]
+[White "Darvishi, Mohammad Hossein"]
+[Black "Konstantine Shanava"]
+[Result "1/2-1/2"]
+[WhiteElo "2300"]
+[BlackElo "2430"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 e5 6.Nc3 Nc6 7.O-O Be7 8.d3 Bd8 9.Ne1 Nge7 10.Nc2 O-O 11.Ne3 f5 12.exf5 Nxf5 13.Nxf5 Qxf5 14.Ne4 Be7 15.Be3 Rad8 16.Qb3 Qd7 17.Rae1 b6 18.Nc3 Bf6 19.f3 Ne7 20.Bf2 h6 21.a4 Nc6 22.Nd5 Ne7 23.Nc3 Nc6 24.Nd5 Ne7 25.Nc3 Nc6 1/2-1/2

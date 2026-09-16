@@ -1,0 +1,14 @@
+[Event "Round 5: Shearsby, Jude - Rami,Talab"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-5/8WAcNPak/71u42S96"]
+[Date "2026.07.02"]
+[Round "5.1"]
+[White "Shearsby, Jude"]
+[Black "Rami,Talab"]
+[Result "0-1"]
+[WhiteElo "2243"]
+[BlackElo "2286"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Bh7 9.Nxh5 Nc6 10.dxc5 Qa5 11.Bb5 Ne7 12.a3 O-O-O 13.Bxc6 Nxc6 14.Bg5 Rd7 15.b4 Qa6 16.Bf4 Qc4 17.Bd2 Nd4 18.Rc1 Bxc2 19.Rxc2 Qd3 20.Ne2 Nxc2+ 21.Kf1 Nxa3 22.Nf4 Qe4 23.Ng3 Qxe5 24.Qa4 Nc4 25.Bc1 Qb8 26.c6 bxc6 27.Qxc6+ Rc7 28.Qe8+ Kb7 29.Qa4 Nb6 30.Qa1 Bd6 31.Nd3 f6 32.Kg2 Ka8 33.Be3 Nc4 34.Bc5 Qb5 35.Re1 Bxg3 36.fxg3 e5 37.Qd1 Rd8 38.g5 d4 39.Kh2 Ne3 40.Qb1 Qc6 41.Re2 Qf3 42.Ra2 Nf1+ 43.Kg1 Nxg3 44.Nf2 Ne2+ 45.Kf1 Nc3 46.Qb3 Qd5 47.Qxd5+ Rxd5 48.Ra6 fxg5 49.hxg5 d3 50.Ra3 d2 51.Rxc3 Rf7 52.Kg2 Rxf2+ 53.Bxf2 d1=Q 54.Rc8+ Kb7 55.Rf8 Qg4+ 56.Bg3 Rd2+ 57.Kf1 Qe2+ 0-1

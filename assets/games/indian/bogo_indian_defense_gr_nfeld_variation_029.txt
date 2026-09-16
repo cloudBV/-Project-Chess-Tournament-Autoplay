@@ -1,0 +1,15 @@
+[Event "Round 9: Okur, Batin - Kazik, Oguz Kagan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/53iR8vCt"]
+[Date "2026.07.19"]
+[Round "9.20"]
+[White "Okur, Batin"]
+[Black "Kazik, Oguz Kagan"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2177"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.g3 d6 7.Bg2 a5 8.e4 Nc6 9.b3 e5 10.d5 Nb8 11.O-O Na6 12.Ne1 Bg4 13.f3 Bd7 14.Nd3 c6 15.dxc6 Bxc6 16.Qe2 Nd7 17.Bb2 b5 18.Rac1 Rb8 19.cxb5 Bxb5 20.Nc4 Nac5 21.b4 Nxd3 22.Qxd3 Nb6 23.Rf2 axb4 24.axb4 Nxc4 25.Rxc4 Qb6 26.Bh3 Bxc4 27.Qxc4 Qxb4 28.Qc7 Bd8 0-1

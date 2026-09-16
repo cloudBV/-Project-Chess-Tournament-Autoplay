@@ -1,0 +1,15 @@
+[Event "Round 5: Vismay Sachar - Chyndygyr, Tamerlan"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/falB4CkL"]
+[Date "2026.07.07"]
+[Round "5.16"]
+[White "Vismay Sachar"]
+[Black "Chyndygyr, Tamerlan"]
+[Result "1/2-1/2"]
+[WhiteElo "2020"]
+[BlackElo "2244"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.Nc4 b5 9.Ne3 Nf6 10.Bd3 g6 11.a4 b4 12.Ncd5 Bg7 13.O-O O-O 14.Bd2 a5 15.c3 bxc3 16.bxc3 Nd7 17.Nc4 f5 18.Be3 Ne7 19.Nxd6 Bxd5 20.exd5 f4 21.Bc1 Nc5 22.Ne4 Nxd3 23.Qxd3 Qxd5 24.Qxd5+ Nxd5 25.Rd1 Rfd8 26.Ba3 Rac8 27.f3 Kf7 28.Ng5+ Kf6 29.Ne4+ Kf7 30.Ng5+ Kf6 31.Ne4+ Kf7 1/2-1/2

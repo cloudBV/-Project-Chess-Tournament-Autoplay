@@ -1,0 +1,14 @@
+[Event "Round 8: Vernersson, Per - Ollen, Martin"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/pEoHT32y"]
+[Date "2026.07.03"]
+[Round "8.3"]
+[White "Vernersson, Per"]
+[Black "Ollen, Martin"]
+[Result "1/2-1/2"]
+[WhiteElo "2282"]
+[BlackElo "2184"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 O-O 8.Nc3 d5 9.cxd5 exd5 10.O-O Re8 11.Ne5 Bb7 12.Bg5 Nbd7 13.Bxf6 Nxf6 14.Rc1 c6 15.e4 a6 16.exd5 cxd5 17.Re1 Ba3 18.Rc2 Rc8 19.Ree2 Bf8 20.Na4 Bd6 21.Nc4 Bc7 22.Rxe8+ Nxe8 23.Ne3 Qd7 24.Qh5 Rd8 25.Bh3 Qe7 26.Re2 Qf6 27.Nxd5 Qxd4 28.Ne7+ Kh8 29.Qxf7 Nd6 30.Qh5 Qd1+ 31.Bf1 Ne4 32.Ng6+ Kg8 33.Ne7+ Kh8 34.Ng6+ Kg8 35.Ne7+ 1/2-1/2

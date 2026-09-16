@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.6"]
+[White "Garrido Piriz, Pablo"]
+[Black "Gkoumas, Georgios"]
+[Result "0-1"]
+[WhiteElo "2130"]
+[BlackElo "2439"]
+[ECO "B94"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Ne2 Nf6 3.Nbc3 d6 4.d4 cxd4 5.Nxd4 a6 6.Bg5 Nbd7 7.Qd2 h6 8.Bh4 e6 9.a4 Nxe4 10.Qf4 Nef6 11.O-O-O g5 12.Qe3 gxh4 13.Nxe6 fxe6 14.Qxe6+ Qe7 15.Qa2 Ne5 16.f4 Be6 17.Qa3 O-O-O 18.Nb5 axb5 19.axb5 Kb8 20.b6 Nc6 21.Bb5 d5 22.Qa1 Qc5 23.Bxc6 Qxb6 24.Bxb7 Kxb7 25.b4 Bf5 0-1

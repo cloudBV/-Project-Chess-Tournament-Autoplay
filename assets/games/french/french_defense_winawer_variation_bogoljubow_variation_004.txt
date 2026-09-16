@@ -1,0 +1,15 @@
+[Event "Round 9: Unat, Can Haktan - Ozen, Metehan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/C8SvHLFm"]
+[Date "2026.07.05"]
+[Round "9.20"]
+[White "Unat, Can Haktan"]
+[Black "Ozen, Metehan"]
+[Result "1-0"]
+[WhiteElo "2270"]
+[BlackElo "2152"]
+[ECO "C17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3 b6 8.h4 Ba6 9.Bxa6 Nxa6 10.h5 h6 11.Qe2 Nb8 12.f4 Nf5 13.Rh3 cxd4 14.Bd2 Nd7 15.Nf3 Nc5 16.g4 Ne7 17.Nxd4 Qd7 18.O-O-O Ne4 19.Be3 O-O-O 20.f5 Kb7 21.Rf3 Nc6 22.Nxc6 Qxc6 23.Bd4 Rd7 24.b3 Rc8 25.Kb2 Rdc7 26.Rc1 Ka8 27.a4 Qd7 28.Qb5 Qd8 29.fxe6 fxe6 30.a5 bxa5 31.Qa6 Qd7 32.Qxa5 Qe7 33.Re3 Qh4 34.c4 Rb7 35.c5 Qxg4 36.c6 Rbc7 37.Bb6 Qf4 38.Rxe4 Qxe4 39.Bxc7 Qd4+ 40.Ka3 Qe3 41.Re1 Qd4 42.Rf1 Qe3 43.Qb4 1-0

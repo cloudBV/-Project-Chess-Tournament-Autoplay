@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.4"]
+[White "Radnaev, Nomin"]
+[Black "Aswath, S"]
+[Result "0-1"]
+[WhiteElo "2197"]
+[BlackElo "2517"]
+[ECO "E60"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 Bg7 4.Nc3 d6 5.e4 Nc6 6.d5 Ne5 7.Be2 c6 8.Nf3 Nxf3+ 9.gxf3 cxd5 10.cxd5 O-O 11.Be3 e6 12.dxe6 Bxe6 13.Qd2 Qa5 14.Bh6 Bxh6 15.Qxh6 Rac8 16.Kf1 Qb4 17.Qd2 Rfd8 18.Rd1 a6 19.a3 Qb6 20.h5 Nxh5 21.f4 Nf6 22.f5 Bb3 23.Re1 Re8 24.Qg5 Qd4 25.Bd1 Nxe4 26.Rxe4 Bc4+ 27.Kg2 Rxe4 28.Nxe4 Qxe4+ 29.Bf3 Qxf5 30.Qh6 Bd5 31.Qxh7+ Kf8 32.Qh6+ Ke7 33.Qh4+ g5 34.Re1+ Kd7 0-1

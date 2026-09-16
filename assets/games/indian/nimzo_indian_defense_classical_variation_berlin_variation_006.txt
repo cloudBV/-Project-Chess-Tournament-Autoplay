@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.20"]
+[Round "20.6"]
+[White "EtherealHCE 14.40"]
+[Black "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Result "1-0"]
+[WhiteElo "3317"]
+[BlackElo "3246"]
+[ECO "E38"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 Qb6 7.e3 Be7 8.a3 d6 9.b3 O-O 10.Bb2 a5 11.Be2 Bd7 12.O-O Na6 13.Rab1 e5 14.Nd2 g6 15.Kh1 Bc6 16.Ba1 Rfe8 17.e4 Qd8 18.f4 Nc5 19.Nd5 b6 20.Rbd1 Rc8 21.Qb1 Ncd7 22.Qd3 exf4 23.Qf3 Bxd5 24.cxd5 Rc2 25.Qxf4 Rf8 26.Qf3 Ra2 27.Bb5 Rxa3 28.Bc3 Ne8 29.Qd3 Bg5 30.Bxd7 Qxd7 31.Bb2 Ra2 32.Qb1 Rxb2 33.Qxb2 Qb5 34.e5 dxe5 35.Ne4 Bh4 36.Qxe5 Bd8 37.Rf3 Qd7 38.d6 f5 39.Qd5+ Rf7 40.Nc3 Nf6 41.Qc4 h6 42.h3 Kh7 43.Re3 h5 44.Re5 Ne8 45.Kg1 Kh6 46.Nb5 Nf6 47.Nd4 Ne4 48.Ne6 Bf6 49.Rxe4 fxe4 50.Qxe4 Bh4 51.Kh2 b5 52.Rd5 a4 53.Qxh4 Qxe6 54.Qd4 Qd7 55.Qh8+ Rh7 56.Qe5 Rf7 57.Rxb5 a3 58.Rb8 Qf5 59.Rh8+ Rh7 60.Qxf5 gxf5 61.Rxh7+ Kxh7 62.d7 a2 63.d8=Q a1=Q 64.Qe7+ Kg6 65.Qe6+ Kg7 66.Qxf5 Qd4 67.Qg5+ Kf8 68.Qxh5 Qf4+ 69.Kg1 Qe3+ 70.Kf1 Kg7 71.b4 Qc1+ 72.Kf2 Qa1 73.h4 Kf8 74.b5 Qd4+ 75.Kg3 Qd6+ 76.Kh3 Qd7+ 77.Qg4 Qxb5 78.h5 Qb1 79.h6 Qh1+ 80.Kg3 Qxh6 81.Qf4+ Kg7 82.Qxh6+ Kxh6 83.Kh4 Kg6 84.Kg4 Kf6 85.Kh5 Kg7 86.Kg5 Kf7 87.Kh6 Kf6 88.g4 Ke5 89.g5 Ke6 90.g6 Kd6 91.g7 Kc5 92.g8=Q Kb4 93.Kg5 Kc3 94.Qd5 Kb4 95.Kf4 Kc3 96.Ke4 Kc2 97.Qc4+ Kb2 98.Kd3 Ka3 99.Qb5 Ka2 100.Kc3 Ka1 101.Qb2# 1-0

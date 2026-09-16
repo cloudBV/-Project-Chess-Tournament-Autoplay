@@ -1,0 +1,15 @@
+[Event "Round 2: Fiorito, Francisco - Vitier Vazquez, Cristian"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/olpKNNeC"]
+[Date "2026.07.05"]
+[Round "2.4"]
+[White "Fiorito, Francisco"]
+[Black "Vitier Vazquez, Cristian"]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2375"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.b3 g6 4.Bb2 Bg7 5.d4 O-O 6.e3 c5 7.Be2 Bb7 8.O-O cxd4 9.Qxd4 d6 10.Qd3 Nbd7 11.Qc2 Rc8 12.Nc3 d5 13.Rad1 1/2-1/2

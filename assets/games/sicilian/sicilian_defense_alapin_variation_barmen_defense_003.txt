@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.06.22"]
+[Round "2.1"]
+[White "Martin Cabeza, Nicolas"]
+[Black "Antipov, Mikhail Al."]
+[Result "0-1"]
+[WhiteElo "2183"]
+[BlackElo "2626"]
+[ECO "B22"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 g6 5.dxc5 Qxc5 6.Be3 Qc7 7.Na3 a6 8.Bc4 Bg7 9.Qb3 e6 10.Rd1 Nf6 11.Bb6 Qe5+ 12.Be2 O-O 13.Nf3 Qe4 14.Bc5 Re8 15.Nc4 Qc6 16.Bd4 Nbd7 17.O-O b5 18.Nce5 Nxe5 19.Nxe5 Qc7 20.Bf3 Bb7 21.Bxb7 Qxb7 22.Rfe1 Red8 23.Nf3 Rac8 24.a4 Rd5 25.Ra1 Nd7 26.axb5 Rxb5 27.Qa3 Bxd4 28.cxd4 a5 29.Qe7 Nc5 30.Qh4 Nd3 31.Rf1 Kg7 32.Ra3 Rh5 33.Qg3 Nc1 34.Re3 Qxb2 35.Qd6 Ne2+ 36.Rxe2 Qxe2 37.Qd7 Rc2 38.Qa7 Rf5 39.d5 exd5 40.Qxa5 Rxf3 41.gxf3 Qxf3 42.Qa1+ Kh6 43.Qe5 Rc4 44.Qe3+ Qxe3 45.fxe3 Kg7 46.Rd1 Rc5 47.Kf2 Rc2+ 48.Kg3 Re2 49.Kf3 Rxh2 50.Rxd5 Ra2 51.Kg3 Ra3 52.Kf4 h6 53.Rb5 g5+ 54.Kf3 Kg6 55.Rc5 h5 56.Rc6+ f6 57.Rb6 Ra4 58.Rc6 g4+ 59.Kf2 h4 60.Rc8 Ra2+ 0-1

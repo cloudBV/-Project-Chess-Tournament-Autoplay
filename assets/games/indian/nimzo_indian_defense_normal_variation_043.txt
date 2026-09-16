@@ -1,0 +1,15 @@
+[Event "Round 4: Amreyev, Azat - Bardyk, Artem"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/C1lPH1GZ"]
+[Date "2026.07.24"]
+[Round "4.13"]
+[White "Amreyev, Azat"]
+[Black "Bardyk, Artem"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2383"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 b6 6.Bd3 Bb7 7.Nf3 d5 8.cxd5 exd5 9.Rc1 Re8 10.O-O Bf8 11.Ne5 c5 12.f4 Nc6 13.Ne2 Rc8 14.Bc3 Rc7 15.h3 Ne4 16.Bxe4 dxe4 17.f5 Ba6 18.Qe1 Nxd4 19.exd4 cxd4 20.Nxd4 Bc5 21.Qe3 Bxf1 22.Rxf1 Rxe5 23.b4 Bxd4 24.Bxd4 Rd5 25.Ba1 Rd1 26.Qf4 Rxf1+ 27.Qxf1 Rd7 28.Bc3 Rd1 29.Be1 Qd3 30.Qf2 Qd4 31.Qxd4 Rxd4 32.Kf2 Rd3 33.a4 f6 34.Ke2 Kf7 35.a5 bxa5 36.bxa5 a6 37.Bb4 g6 38.fxg6+ hxg6 39.Bc5 g5 40.Be3 Kg6 41.Bd2 f5 42.Be3 f4 43.Bb6 Ra3 44.Bc7 Ra2+ 45.Kf1 Kf5 46.Bd8 g4 47.hxg4+ Kxg4 48.Bb6 Kg3 0-1

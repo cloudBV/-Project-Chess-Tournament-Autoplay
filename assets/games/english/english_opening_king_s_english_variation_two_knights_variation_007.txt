@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.21"]
+[Round "6.1"]
+[White "Korobov, Anton"]
+[Black "Pechac, Jergus"]
+[Result "1/2-1/2"]
+[WhiteElo "2614"]
+[BlackElo "2563"]
+[ECO "A22"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+
+1.c4 Nf6 2.Nc3 e5 3.e3 Nc6 4.a3 d5 5.cxd5 Nxd5 6.Qc2 Nxc3 7.bxc3 Bd6 8.d4 O-O 9.Nf3 f5 10.Be2 Qe7 11.O-O Nd8 12.Nxe5 Bxe5 13.dxe5 Qxe5 14.c4 Bd7 15.Bb2 Qe7 16.Bf3 Bc6 17.Bd5+ Ne6 18.e4 Bxd5 19.cxd5 Nf4 20.g3 Nh3+ 21.Kg2 Ng5 22.exf5 Rad8 23.Rac1 Rd7 24.Rfe1 Qf7 25.Re5 Qh5 26.Qe2 Qh3+ 27.Kg1 Nf7 28.Re8 Qxf5 29.Re1 Nd6 30.Re5 Qf3 31.Qc2 Nc4 32.Re7 Rxe7 33.Rxe7 Nxb2 34.Qxb2 Qd1+ 35.Kg2 Qxd5+ 36.Kg1 Qd1+ 1/2-1/2

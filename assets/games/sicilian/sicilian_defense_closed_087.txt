@@ -1,0 +1,14 @@
+[Event "Round 8: Ivanisevic, Ivan - Zerey, Demhat"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/EKQ5q1kO"]
+[Date "2026.07.21"]
+[Round "8.9"]
+[White "Ivanisevic, Ivan"]
+[Black "Zerey, Demhat"]
+[Result "0-1"]
+[WhiteElo "2517"]
+[BlackElo "2338"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd3 Nf6 6.Bf4 Bb4 7.O-O-O O-O 8.Nge2 d5 9.exd5 exd5 10.Nxd5 Nxd5 11.Qxd5 Qb6 12.Be3 Qc7 13.Nf4 Rd8 14.Qe4 Rxd1+ 15.Kxd1 g6 16.Bd3 Bf8 17.Bd2 Bf5 18.Qc4 b5 19.Qxb5 Rb8 20.Qc4 Rxb2 21.Bxf5 Rb1+ 22.Ke2 Qe7+ 23.Be4 Ne5 24.Qd4 Rxh1 25.Bc3 Bg7 26.Nd5 Qf8 27.Qxa7 Nc6 28.Qd7 Bxc3 29.Nxc3 Ne5 30.Qd4 Qe7 31.h3 Nc6 32.Qe3 Qd6 33.Bd5 Ne7 34.Be4 Ra1 35.Qd2 Qf6 36.Qd3 Qe5 37.f4 Qc5 38.Qd2 Kg7 39.Qd3 Qb6 40.Qb5 Qxb5+ 41.Nxb5 Rxa2 42.Kd3 f5 43.Bf3 Kf6 44.c4 Ke6 45.c5 Ra1 46.Nd4+ Kd7 47.Kc4 Rb1 48.Kc3 Ng8 49.g4 Ne7 50.gxf5 gxf5 51.Kc4 Rf1 52.Kb5 Ng6 53.Kb6 Rb1+ 54.Ka6 Nxf4 55.c6+ Kd8 56.h4 Nd3 57.Nxf5 Kc7 58.Nd4 Nc5+ 59.Ka5 Nb3+ 60.Nxb3 Rxb3 61.Be4 h5 62.Bg6 Re3 63.Kb4 Rh3 64.Kc4 Rxh4+ 65.Kd3 Rh3+ 66.Ke2 h4 67.Kf2 Kxc6 68.Be8+ Kd5 69.Kg2 Re3 70.Bd7 Ke4 71.Kh2 Kf3 72.Bc6+ Kf2 73.Bd7 Rg3 74.Be6 h3 75.Bd7 Rg7 76.Be6 Rg3 77.Bd7 Rd3 78.Bf5 Rf3 79.Bg4 Rf6 80.Bc8 Kf3 81.Bd7 Rd6 82.Bc8 Rb6 83.Bd7 Rb8 84.Be6 Rd8 85.Bf5 Kf4 86.Be6 Rd3 87.Bc8 Rd8 88.Be6 Kf3 89.Bf5 Rg8 90.Be6 Rg3 91.Bd7 Rg5 92.Bc8 Rg7 93.Be6 Kf4 94.Bc8 Rh7 95.Be6 Kg5 96.Bxh3 Kh4 97.Bf5 Rf7 98.Be4 Rf2+ 99.Kg1 Kg3 100.Bg6 Rf6 101.Bh5 Rh6 102.Bd1 Rd6 103.Bh5 Rd5 0-1

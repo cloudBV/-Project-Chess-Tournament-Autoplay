@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.09"]
+[Round "6.5"]
+[White "Lazarne Vajda, Szidonia"]
+[Black "Kiss, Inez"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2078"]
+[ECO "D00"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nf6 4.Nf3 Nc6 5.Nbd2 cxd4 6.exd4 Bf5 7.c3 e6 8.Bb5 Qb6 9.Qb3 a6 10.Bxc6+ Qxc6 11.Ne5 Qb5 12.Qxb5+ axb5 13.Ke2 Nd7 14.Nxd7 Kxd7 15.a3 Bd6 16.Bxd6 Kxd6 17.Nf1 Bg6 18.Ne3 Rhc8 19.h4 h6 20.f3 Re8 21.Rad1 Rac8 22.Kf2 Kc6 23.Rhe1 Rcd8 24.Re2 f6 25.Nf1 Kd6 26.Ng3 Re7 27.Re3 Rde8 28.Ne2 Bc2 29.Rd2 Bh7 30.Nf4 Kc6 31.g4 Kd6 32.Re1 Rf8 33.Kg3 Rfe8 34.Rde2 Kd7 35.g5 hxg5 36.hxg5 Bf5 37.gxf6 gxf6 38.Rh2 Rh7 39.Rxh7+ Bxh7 40.Rh1 Bf5 41.Rh6 Ke7 42.Nh5 Rf8 43.Kf2 b4 44.axb4 Ra8 45.Ng3 Bc2 46.Ke3 Ra2 47.Rh2 Rxb2 48.Nh5 Ra2 49.Rg2 b5 50.Rg7+ Kf8 51.Rb7 Ba4 52.Nxf6 Rc2 53.Kd3 Rf2 54.Nd7+ Ke8 55.Ne5 Rb2 56.Nf7 Rf2 57.Nd6+ Kd8 58.Nxb5 Rxf3+ 59.Ke2 Rh3 60.Nc7 Rxc3 61.Nxe6+ Kc8 62.Rb6 Rc6 63.Rxc6+ Bxc6 64.Kd3 Kd7 65.Nc5+ Kd6 66.Kc3 Bb5 67.Nb3 Kc6 68.Na1 Ba4 69.Nc2 Kb6 70.Ne3 Kc6 71.Kb2 Bb5 72.Ka3 Kd6 73.Nd1 Be8 74.Nc3 Kc6 75.b5+ Kb6 76.Kb4 Bf7 77.Na4+ Kb7 78.Kc5 Kc7 79.Nc3 Kb7 80.Nxd5 Be8 81.Nf6 Bf7 82.d5 Kc7 83.d6+ Kc8 84.b6 Be6 85.Kc6 Kd8 86.b7 Bd5+ 87.Nxd5 1-0

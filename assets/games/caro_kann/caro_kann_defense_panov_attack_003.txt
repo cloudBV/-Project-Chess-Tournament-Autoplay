@@ -1,0 +1,14 @@
+[Event "Round 9: Dobboletta, Alex - Palozza, Christian"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/yT3v955Z"]
+[Date "2026.07.12"]
+[Round "9.5"]
+[White "Dobboletta, Alex"]
+[Black "Palozza, Christian"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2282"]
+[ECO "B14"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.c5 b6 7.b4 a5 8.Na4 bxc5 9.bxc5 Nfd7 10.Bf4 Nc6 11.Bb5 Bb7 12.Nf3 Be7 13.O-O g5 14.Ne5 Ndxe5 15.Bxe5 O-O 16.Bg3 Bf6 17.Bd6 Nxd4 18.Bd3 Re8 19.Qh5 Nf5 20.Bxf5 exf5 21.Rab1 Ba6 22.Rb3 Be2 23.Qh3 Bxf1 24.Kxf1 Qc8 25.Nb6 Qa6+ 26.Qd3 a4 27.Nxa8 axb3 28.Qxa6 Bc3 29.g4 b2 30.Qb7 Re1+ 31.Kg2 b1=Q 32.Qc8+ Kg7 33.Qxf5 Rg1+ 0-1

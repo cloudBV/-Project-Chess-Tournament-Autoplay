@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "3.1"]
+[White "Mulawa, Cyprian"]
+[Black "Sowinski, Pawel"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2432"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Be3 e6 7.a3 b5 8.g4 Bb7 9.Bg2 Nfd7 10.g5 Be7 11.f4 Nc6 12.Nxc6 Bxc6 13.Qe2 Nb6 14.O-O-O Nc4 15.Bd4 O-O 16.Rd3 e5 17.Bxe5 Bxg5 18.Kb1 Bh6 19.Bxd6 Nxd6 20.e5 Bxg2 21.Qxg2 Bxf4 22.exd6 Be5 23.Ne4 Rc8 24.Rd5 f6 25.Rhd1 Qb6 26.Qh3 Qc6 27.Qe6+ Kh8 28.Rc5 Qb7 29.Rxc8 Qxc8 30.d7 Qd8 31.Nc5 Rg8 32.Nb7 Qb8 33.d8=Q 1-0

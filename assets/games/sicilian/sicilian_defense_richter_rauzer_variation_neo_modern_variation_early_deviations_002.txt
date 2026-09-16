@@ -1,0 +1,15 @@
+[Event "Round 5: Niharika Challa - Aarit Kapil"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/rmTm9H6M"]
+[Date "2026.07.07"]
+[Round "5.11"]
+[White "Niharika Challa"]
+[Black "Aarit Kapil"]
+[Result "1-0"]
+[WhiteElo "2193"]
+[BlackElo "2331"]
+[ECO "B66"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Be7 9.f3 O-O 10.g4 Nxd4 11.Qxd4 b5 12.h4 Bb7 13.Kb1 Rc8 14.Qd2 b4 15.Bxf6 Bxf6 16.Ne2 Qc7 17.g5 Be5 18.Rh3 g6 19.Bg2 Bg7 20.h5 d5 21.Nc1 dxe4 22.fxe4 Rfd8 23.Rd3 Rxd3 24.Nxd3 a5 25.h6 Bd4 26.Nf2 a4 27.Ng4 e5 28.Bh3 Rb8 29.Nf6+ Kh8 30.Qd3 a3 31.Qb3 Qe7 32.Bd7 Bxe4 33.Nxe4 Qxd7 34.Rf1 Rb7 35.Qc4 Qc7 36.Qe6 Qd8 37.Rxf7 Bxb2 38.Nd6 b3 39.Rxb7 bxc2+ 40.Kxc2 Qf8 41.Rf7 Qd8 42.Rxh7+ Kxh7 43.Qf7+ Kh8 44.Qg7# 1-0

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.05"]
+[Round "6.1"]
+[White "Babula, Vlastimil"]
+[Black "Winter, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2376"]
+[BlackElo "2360"]
+[ECO "B26"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 e6 7.Qd2 Nd4 8.Nge2 Bd7 9.O-O Ne7 10.Nf4 O-O 11.h4 h5 12.Rae1 Rb8 13.Nd1 e5 14.Nd5 Nxd5 15.exd5 b5 16.Bg5 f6 17.Bh6 b4 18.Bxg7 Kxg7 19.Ne3 Qe7 20.f4 a5 21.Kh2 a4 22.Rf2 Rbe8 23.fxe5 fxe5 24.Ref1 Rxf2 25.Rxf2 Rf8 26.c3 bxc3 27.bxc3 Nf5 28.Be4 Nxe3 29.Qxe3 Rb8 30.Kg2 Be8 31.Qc1 Rb6 32.Qe3 Rb8 33.Qc1 Rb7 34.Rb2 Rxb2+ 35.Qxb2 Qa7 36.a3 Bf7 37.Qb5 Qa8 38.c4 Qa7 39.Bf3 Qa8 40.Qb6 Qf8 41.Bd1 Be8 42.Bxa4 Bxa4 43.Qa7+ Kh6 44.Qxa4 Qf5 45.Qd1 e4 46.Qd2+ Kh7 47.Qf4 Qd7 48.dxe4 Qa7 49.Qf3 Qa6 50.Qd3 Qa4 51.e5 dxe5 52.d6 Qd7 53.Qd5 Qf5 54.d7 Qc2+ 55.Kh3 Qf5+ 56.Kh2 Qc2+ 57.Kg1 Qc1+ 58.Kf2 Qc2+ 59.Ke3 Qc3+ 60.Ke4 Qe1+ 61.Kd3 e4+ 62.Kc2 Qf2+ 63.Kb3 Qxg3+ 64.Ka4 1-0

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/8ZbPR1iT"]
+[Date "2026.07.04"]
+[Round "8.13"]
+[White "Bartodziej, Bartosz"]
+[Black "Kazmierowski, Tymon"]
+[Result "1/2-1/2"]
+[WhiteElo "2311"]
+[BlackElo "2125"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.Nbd2 g5 7.Nf1 g4 8.N3d2 d5 9.exd5 Nxd5 10.Ne4 Be6 11.Bxd5 Bxd5 12.Qxg4 Be6 13.Qf3 f5 14.Qh5+ Kd7 15.Ng5 Qe8 16.Qxe8+ Rxe8 17.Nxe6 Kxe6 18.Ng3 h5 19.f4 Rd8 20.fxe5 Rxd3 21.O-O Bc5+ 22.Kh1 Nxe5 23.Nxf5 Ng4 24.Nd4+ Bxd4 25.cxd4 Rxd4 26.Bf4 Rf8 27.Bxc7 Rxf1+ 28.Rxf1 Rd2 29.h3 Nf2+ 30.Kg1 Nd3 31.Rf3 Nxb2 32.Rb3 Nc4 33.Rxb7 Ne3 34.Bf4 Rxg2+ 35.Kh1 Re2 36.Rxa7 Nd5 37.Bg3 Kf5 38.Ra4 Rc2 39.Kg1 Nc3 40.Rf4+ Kg6 41.Rf2 Rxf2 1/2-1/2

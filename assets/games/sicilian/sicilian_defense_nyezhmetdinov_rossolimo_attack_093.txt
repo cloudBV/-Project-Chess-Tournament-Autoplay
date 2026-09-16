@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.18"]
+[Round "5.7"]
+[White "Ramirez Camilla, Agustin"]
+[Black "Castro Salgado, Pablo"]
+[Result "1-0"]
+[WhiteElo "2044"]
+[BlackElo "2184"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 cxd4 9.Nxd4 Bd7 10.Nf5 Nf6 11.Nd6+ Bxd6 12.Qxd6 Qe7 13.Qg3 O-O 14.Bh6 Ne8 15.Nc3 Kh8 16.Be3 f6 17.Rad1 b5 18.Ne4 Rf7 19.Bc5 Qd8 20.Bd3 Kg8 21.Qh4 h6 22.Be2 f5 23.Qxd8 Rxd8 24.Nd6 Nxd6 25.Rxd6 Ne5 26.Rxa6 Rc8 27.b4 Bc6 28.Bf1 Nd7 29.Rxc6 Rxc6 30.Bxb5 Rc7 31.Bxd7 Rfxd7 32.a4 Rd2 33.Rc1 Rd5 34.Ra1 Rdxc5 35.bxc5 Rxc5 36.Ra2 Ra5 37.Kf1 Kf7 38.Ke2 Ke7 39.Kd3 Kd6 40.Kc4 Kc6 41.Kb4 Kb6 42.c4 Re5 43.a5+ Ka6 44.Rd2 Re1 45.Rd6+ Kb7 46.Rb6+ Kc7 47.Kb5 Rb1+ 48.Ka6 Rc1 49.Rxe6 Rxc4 50.Re7+ Kc6 51.Rxg7 Rc2 52.f4 h5 53.Ka7 Ra2 54.a6 h4 55.Rg6+ Kc7 56.h3 Ra4 57.Rg7+ Kc6 58.Kb8 Rb4+ 59.Rb7 Re4 60.Rc7+ Kb6 61.a7 Re8+ 62.Rc8 Rxc8+ 63.Kxc8 Kxa7 64.Kd7 Kb7 65.Ke6 1-0

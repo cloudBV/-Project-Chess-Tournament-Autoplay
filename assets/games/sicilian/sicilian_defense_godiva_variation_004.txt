@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL B"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.04"]
+[Round "3.3"]
+[White "Fica Cruz, Joaquin"]
+[Black "Henriquez Hidalgo, Camilo Alonso"]
+[Result "0-1"]
+[WhiteElo "2110"]
+[BlackElo "2148"]
+[ECO "B32"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nxc6 bxc6 6.Nc3 e5 7.Bd3 Nf6 8.Qe2 Be7 9.O-O O-O 10.Rb1 d6 11.b4 Be6 12.a4 Qc7 13.f4 exf4 14.Bxf4 Nd7 15.Bc4 Qb6+ 16.Kh1 Qd4 17.Bxe6 fxe6 18.Qd3 Qxd3 19.cxd3 d5 20.d4 g5 21.Bg3 Rxf1+ 22.Rxf1 Bxb4 23.Na2 Ba5 24.exd5 cxd5 25.Rc1 Bb6 26.Rc6 Rf8 27.h4 gxh4 28.Bxh4 Rf4 29.Bg5 Rg4 30.Be3 Kf7 31.Nc3 Bxd4 32.Bxd4 Rxd4 33.Rc7 Ke7 34.Rxa7 Rc4 35.Ne2 Re4 36.Nc3 Re1+ 37.Kh2 d4 38.Nb5 d3 39.Nc3 d2 40.Rb7 Rc1 41.Rb2 Rxc3 42.Rxd2 Ra3 43.Rd4 e5 44.Rc4 Nf6 45.g3 Kd6 46.Kg2 e4 47.Kf2 Ke5 48.Rb4 Ng4+ 49.Kg2 Ne3+ 50.Kf2 Nd5 51.Rb7 Ra2+ 52.Ke1 Kd4 53.Rxh7 e3 54.Rd7 Ke4 55.g4 Ra1+ 0-1

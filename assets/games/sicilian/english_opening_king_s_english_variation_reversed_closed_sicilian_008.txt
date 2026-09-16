@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.21"]
+[White "Starcevic, Ante Leon"]
+[Black "Winter, Ondrej"]
+[Result "0-1"]
+[WhiteElo "2111"]
+[BlackElo "2286"]
+[ECO "A25"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 d6 5.e3 a6 6.Nge2 h5 7.h3 Ba7 8.Rb1 h4 9.g4 f5 10.gxf5 Bxf5 11.d3 Nf6 12.b4 Qd7 13.a4 Rb8 14.b5 axb5 15.cxb5 Na5 16.Ba3 O-O 17.Bb4 Bb6 18.Qd2 Ra8 19.Ng1 Qf7 20.Qe2 Qg6 21.Bf1 Rfe8 22.Nf3 Qh6 23.e4 Be6 24.Rg1 Nh5 25.Nd1 Nf4 26.Qd2 Nb3 27.Qc2 Nc5 28.Ng5 Rxa4 29.Bxc5 Ra2 30.Nxe6 Rxc2 31.Nxg7 Ng2+ 32.Bxg2 Qd2+ 33.Kf1 Qe2# 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Penades Ordaz, Victor - Buenafe Moya, Javier"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-6/jqKzHLPy/WCDkY7G4"]
+[Date "2026.07.16"]
+[Round "6.4"]
+[White "Penades Ordaz, Victor"]
+[Black "Buenafe Moya, Javier"]
+[Result "1/2-1/2"]
+[WhiteElo "2078"]
+[BlackElo "2196"]
+[ECO "A25"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 h5 4.Nf3 Be7 5.d4 exd4 6.Nxd4 d6 7.Bg2 Ne5 8.Nd5 c6 9.Nxe7 Nxe7 10.b3 h4 11.Bb2 Qa5+ 12.Qd2 Qxd2+ 13.Kxd2 Nf5 14.Be4 Ne7 15.Bg2 h3 16.Be4 c5 17.Bc2 f5 18.Nb5 Kd7 19.Ke1 1/2-1/2

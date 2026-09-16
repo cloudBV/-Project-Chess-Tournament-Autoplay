@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/icrpzRPD"]
+[Date "2026.07.03"]
+[Round "7.18"]
+[White "Rajbharath, Harjith"]
+[Black "Debmisra, Ariv"]
+[Result "0-1"]
+[WhiteElo "2017"]
+[BlackElo "2094"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 d5 4.cxd5 exd5 5.Nc3 Bd6 6.Bxd6 Qxd6 7.e3 c6 8.Bd3 O-O 9.Nge2 Re8 10.O-O Nbd7 11.Ng3 Nf8 12.a3 g6 13.Re1 Ne6 14.Bc2 Ng5 15.f3 h5 16.e4 dxe4 17.fxe4 Bg4 18.Qd2 Ne6 19.Nge2 Rad8 20.Rad1 Bxe2 21.Nxe2 Ng4 22.g3 Qe7 23.Qc3 Qg5 24.Rd3 Nc7 25.Rf3 Nb5 26.Qc4 Nd6 27.Qb3 Qd2 28.Qc3 Qxc3 29.Nxc3 Nc4 30.h3 Nh6 31.Ne2 Nd2 32.Rf4 g5 33.Rf6 Kg7 34.e5 c5 35.Rd1 Nc4 36.Bb3 Ne3 37.Rd3 cxd4 38.Rd6 Nef5 39.Rxd8 Rxd8 40.e6 fxe6 41.Bxe6 Kf6 42.Bxf5 Nxf5 43.g4 hxg4 44.hxg4 Nh4 45.Kf2 Ke5 46.Rb3 b6 47.a4 Ke4 48.Rb4 Kd3 49.Nc1+ Kc2 50.Ne2 Rf8+ 51.Ke1 Ng2# 0-1

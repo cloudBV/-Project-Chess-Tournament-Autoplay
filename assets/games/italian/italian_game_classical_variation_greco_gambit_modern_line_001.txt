@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "7.1"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Gukesh D"]
+[Result "1/2-1/2"]
+[WhiteElo "2686"]
+[BlackElo "2684"]
+[ECO "C54"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Modern Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6 9.Nc3 O-O 10.Be3 Bg4 11.Qc2 Nxc3 12.bxc3 f6 13.Bxc6 Bxf3 14.gxf3 bxc6 15.f4 Qe7 16.a4 Ba5 17.Rg1 c5 18.Kf1 fxe5 19.fxe5 cxd4 20.cxd4 c5 21.Qxc5 Qxc5 22.dxc5 Bc3 23.Rd1 Bxe5 24.Rxd5 Bxh2 25.Rg4 Rf7 26.c6 Rc8 27.Kg2 Bb8 28.Rb4 Rf6 29.c7 Bxc7 30.Rc5 Rb8 31.Rxb8+ Bxb8 32.Rb5 Bf4 33.Bxa7 Ra6 34.Bb8 Rxa4 35.Bxf4 Rxf4 36.Kg3 Rf6 37.f4 Kf7 38.Kg4 Rd6 39.Rf5+ Ke7 40.Re5+ Re6 41.Ra5 Kf7 42.Rf5+ Kg8 43.Ra5 h6 44.Rb5 Kh7 45.Ra5 Rg6+ 46.Kf3 Rd6 47.Kg4 Kg6 48.Rb5 Kf7 49.Rf5+ Ke7 50.Re5+ Re6 51.Ra5 Rg6+ 52.Kf3 Rg1 53.Kf2 Rd1 54.Kf3 g6 55.Kg4 Rg1+ 56.Kf3 Rd1 57.Kg4 Rd6 58.Ra3 Kf6 59.Rb3 h5+ 60.Kg3 Rd5 61.Ra3 Kf5 62.Kf3 Rb5 63.Rc3 Kf6 64.Rc6+ Kg7 65.Rc7+ Kh6 66.Rc6 Rb3+ 67.Kg2 Kg7 68.Ra6 Rd3 69.Rb6 h4 70.Ra6 Rg3+ 71.Kf2 Rg4 72.Kf3 Rg1 73.Kf2 Rb1 74.Kg2 Rb3 75.Rc6 h3+ 76.Kh2 Rf3 77.Ra6 Kh7 78.Rb6 Kh6 79.f5 Rxf5 80.Kxh3 Rh5+ 81.Kg3 Rg5+ 82.Kh3 Rh5+ 83.Kg3 Rg5+ 84.Kh3 1/2-1/2

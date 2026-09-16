@@ -1,0 +1,14 @@
+[Event "Round 3: Cifuentes, John Jairo - Lopez Rayo, Santiago"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-3/0mvRyt4P/8G4eJ4N1"]
+[Date "2026.07.11"]
+[Round "3.2"]
+[White "Cifuentes, John Jairo"]
+[Black "Lopez Rayo, Santiago"]
+[Result "0-1"]
+[WhiteElo "2166"]
+[BlackElo "2359"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 b5 8.O-O-O Bb7 9.f4 Rc8 10.Nd5 Nxd5 11.exd5 Nb6 12.Qe1 h6 13.Bh4 Nxd5 14.Nxb5 Qd7 15.Nd4 Nxf4 16.Bg3 Nd5 17.Kb1 g6 18.c4 Nf6 19.Nb3 Bg7 20.Rxd6 Be4+ 21.Bd3 Bxd3+ 22.Ka1 Qf5 23.Nd4 Qe4 24.Qb4 O-O 25.Re1 Qg4 26.Rxa6 Rxc4 27.Qxe7 Qxd4 28.Be5 Qe3 0-1

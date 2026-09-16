@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "3.4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Keymer, Vincent"]
+[Result "0-1"]
+[WhiteElo "2686"]
+[BlackElo "2627"]
+[ECO "A21"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Be7 4.Nf3 d6 5.d4 e4 6.Nd2 f5 7.e3 Nf6 8.Nxe7 Qxe7 9.b4 O-O 10.Be2 a6 11.O-O Nc6 12.Rb1 Bd7 13.a4 Nd8 14.d5 Nf7 15.Bb2 Ne5 16.a5 Rae8 17.Qb3 Nfg4 18.h3 Qh4 19.f4 exf3 20.Bxf3 Nf6 21.Qc3 g5 22.Be2 g4 23.Qd4 Nh5 24.Nf3 Ng3 25.Nxh4 Nxe2+ 26.Kh2 Nxd4 27.Bxd4 Nxc4 28.Rfc1 Bb5 29.hxg4 fxg4 30.Kg3 Rf7 31.Re1 Nd2 32.Rbc1 Ne4+ 33.Kh2 Ref8 34.Kg1 Ng3 35.e4 Re8 36.e5 dxe5 37.Bxe5 Ne2+ 38.Rxe2 Bxe2 39.Bxc7 Re4 40.Bg3 Rc4 41.Re1 Rc2 42.d6 Kf8 43.Rb1 Rd2 44.Kh2 Ke8 45.Rc1 Rd1 46.Rc5 Rff1 47.Rc8+ Kd7 48.Rc7+ Ke6 49.Re7+ Kd5 50.Be5 Bb5 51.Kg3 Rfe1 52.Nf5 Rxe5 53.d7 Rd3+ 54.Kh4 Bxd7 55.Rxd7+ Kc4 56.Rc7+ Kb3 57.Kxg4 h5+ 58.Kf4 Rb5 59.Ne3 Kxb4 60.Ke4 Rd2 61.Rc1 Rd8 62.Nc4 0-1

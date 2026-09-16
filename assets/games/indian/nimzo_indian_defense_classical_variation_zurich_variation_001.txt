@@ -1,0 +1,15 @@
+[Event "Round 3: Damodaran, Patrick - Golding, Alex"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-3/w0bZokvS/QsQE7Xy0"]
+[Date "2026.07.22"]
+[Round "3.3"]
+[White "Damodaran, Patrick"]
+[Black "Golding, Alex"]
+[Result "1/2-1/2"]
+[WhiteElo "2002"]
+[BlackElo "2389"]
+[ECO "E33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Zurich Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.e3 O-O 6.Nf3 d6 7.Bd2 e5 8.dxe5 dxe5 9.a3 Bxc3 10.Bxc3 Re8 11.Be2 a5 12.b3 e4 13.Nd4 Ne5 14.O-O-O Qe7 15.Nb5 Bg4 16.Bxe5 Qxe5 17.Bxg4 Nxg4 18.Kb1 c6 19.Nd6 Re6 20.c5 b6 21.Rd4 bxc5 22.Rxe4 Qxd6 23.Rxg4 a4 24.Rxa4 Rxa4 25.bxa4 Re8 26.Ka1 h6 27.g3 Qe5+ 28.Qb2 Qd5 29.Rc1 Ra8 30.Qc2 Rb8 31.Rb1 Qe5+ 32.Ka2 Qe6+ 33.Ka1 Qf6+ 34.Ka2 Rd8 35.Rb3 Qe6 36.Kb2 c4 37.Rc3 Rb8+ 38.Ka2 c5 39.a5 Rb5 40.Rxc4 Rxa5 41.Qb3 Qa6 42.Rf4 c4 43.Qxc4 Rxa3+ 44.Kb2 Qxc4 45.Rxc4 Ra6 46.Kc3 Ra3+ 47.Kd2 Ra2+ 48.Rc2 Ra4 49.Ke2 g6 50.f4 h5 51.Kf3 Kg7 52.h3 Ra3 53.g4 hxg4+ 54.hxg4 Kf6 55.Rc6+ Ke7 56.Rc4 Ke6 57.Ke4 f5+ 58.gxf5+ gxf5+ 59.Kd4 Ra6 60.Rc5 Rd6+ 1/2-1/2

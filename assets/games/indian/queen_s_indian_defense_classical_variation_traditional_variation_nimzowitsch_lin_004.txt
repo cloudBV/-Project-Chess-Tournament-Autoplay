@@ -1,0 +1,14 @@
+[Event "Round 2.Tiebreaks: L'Ami, Erwin - Tiviakov, Sergei"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-2tiebreaks/XwXm2O74/zHKbSEHH"]
+[Date "2026.07.07"]
+[Round "8.2"]
+[White "L'Ami, Erwin"]
+[Black "Tiviakov, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2592"]
+[BlackElo "2530"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line"]
+
+1.Nf3 Nf6 2.g3 b6 3.Bg2 Bb7 4.c4 e6 5.O-O Be7 6.Nc3 O-O 7.d4 d5 8.cxd5 Nxd5 9.Re1 Nxc3 10.bxc3 Be4 11.Bh3 c5 12.Nd2 Bb7 13.Bb2 Nc6 14.Nf3 Na5 15.e4 cxd4 16.cxd4 Nc4 17.Bc3 b5 18.Qd3 a5 19.Rad1 Ba6 20.Ba1 b4 21.Qb3 Qb6 22.d5 exd5 23.Rxd5 Bc5 24.Bd4 Bxd4 25.Nxd4 Rad8 26.Nf5 Rxd5 27.exd5 g6 28.Nh6+ Kg7 29.Bf1 a4 30.Qd1 Kxh6 31.Bxc4 Bxc4 32.Qc1+ Kg7 33.Qxc4 b3 34.Qxa4 b2 35.Qc2 Rb8 36.Rb1 Qd4 37.d6 h5 38.h4 Rb7 39.Kh2 Kf6 40.d7 Rxd7 41.Rxb2 Kg7 42.a4 Ra7 43.Ra2 Ra5 44.Qb3 Kg8 45.Kg1 Kg7 46.Kg2 Qe4+ 47.Kh2 Qd4 48.Kg1 Kg8 49.Re2 Rxa4 50.Qb8+ Kg7 51.Qe5+ 1/2-1/2

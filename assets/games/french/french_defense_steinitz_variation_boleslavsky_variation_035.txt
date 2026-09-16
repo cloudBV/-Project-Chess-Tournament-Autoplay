@@ -1,0 +1,15 @@
+[Event "Round 2: Quparadze, Giga - Hakobyan, Menua"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/7f1htvNi"]
+[Date "2026.07.14"]
+[Round "2.2"]
+[White "Quparadze, Giga"]
+[Black "Hakobyan, Menua"]
+[Result "1/2-1/2"]
+[WhiteElo "2491"]
+[BlackElo "2228"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 h6 8.Qd2 g5 9.fxg5 cxd4 10.Nxd4 Ndxe5 11.O-O-O hxg5 12.Kb1 Be7 13.Be2 Bd7 14.g3 Na5 15.b3 Rc8 16.Ndb5 a6 17.Na7 Nac4 18.bxc4 Nxc4 19.Qd4 e5 20.Qxd5 Nxe3 21.Qxe5 Qb6+ 22.Kc1 f6 23.Nxc8 Bxc8 24.Qe4 Bf5 25.Qa4+ Kf7 26.Nd5 Nxd5 27.Rxd5 Qe3+ 28.Rd2 Be6 29.Bd3 b5 30.Qa5 Bd5 31.Rd1 Bf3 32.Kb1 Bxd1 33.Rxd1 Rxh2 34.Qxa6 Qxg3 35.Qxb5 Rh8 36.Bc4+ Kg7 37.Qd5 Rf8 38.Bb3 Qe5 39.Qf3 Rh8 40.a4 f5 41.Qc6 g4 42.Rd7 Rd8 43.a5 Rxd7 44.Qxd7 g3 45.Bd5 Qe1+ 46.Kb2 Qb4+ 47.Kc1 Qe1+ 48.Kb2 Qb4+ 49.Kc1 1/2-1/2

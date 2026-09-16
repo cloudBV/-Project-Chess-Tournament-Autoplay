@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "6.7"]
+[White "Van Volsem, Merlijn"]
+[Black "Sonis, Francesco"]
+[Result "1/2-1/2"]
+[WhiteElo "2332"]
+[BlackElo "2540"]
+[ECO "E32"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 h6 5.Nf3 d5 6.a3 Bxc3+ 7.bxc3 c5 8.e3 Qa5 9.Bd3 O-O 10.O-O dxc4 11.Bxc4 b6 12.Be2 Bb7 13.c4 cxd4 14.exd4 Be4 15.Qb3 Nc6 16.Bb2 Rac8 17.Rac1 Qf5 18.Qe3 Na5 19.Nd2 Rfd8 20.Nb3 Nxb3 21.Qxb3 Qg5 22.f3 Bb7 23.Rfd1 h5 24.Qb4 Qe3+ 25.Kf1 Qf4 26.Kg1 b5 27.d5 exd5 28.cxb5 Qe3+ 29.Kf1 Re8 30.Bd3 Rxc1 31.Bxc1 Qb6 32.Bb2 Nd7 33.Qd4 Qxd4 34.Bxd4 Nb6 35.a4 Nc4 36.Bxc4 dxc4 37.Bxa7 Ra8 38.b6 c3 39.Rc1 Rc8 40.Ke2 Ba6+ 41.Ke3 Rc4 42.a5 f6 43.Rc2 Kf7 44.Kd3 Ra4+ 45.Kxc3 Rxa5 46.Kb4 Rb5+ 47.Kc3 Rc5+ 48.Kd2 Rxc2+ 49.Kxc2 Ke6 1/2-1/2

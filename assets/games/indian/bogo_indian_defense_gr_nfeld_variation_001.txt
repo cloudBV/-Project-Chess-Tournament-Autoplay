@@ -1,0 +1,14 @@
+[Event "Round 3: Nogerbek, Kazybek - Chigaev, Maksim"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-3/W7lBwswB/OKG2XZ0V"]
+[Date "2026.07.02"]
+[Round "3.4"]
+[White "Nogerbek, Kazybek"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[WhiteElo "2494"]
+[BlackElo "2648"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Nxd2 d6 7.b4 e5 8.dxe5 dxe5 9.Bb2 Qe7 10.e3 Rd8 11.Qc2 b6 12.Be2 Bb7 13.O-O Nbd7 14.Rfd1 a5 15.Bc3 Qe6 16.h3 h6 17.Qb2 a4 18.Qc2 Nf8 19.Nf3 Rxd1+ 20.Rxd1 Ng6 21.Bb2 Be4 22.Qc3 Re8 23.Nd2 Bb7 24.Nf3 Be4 25.Nd2 Bb7 26.Nf3 Be4 27.Nd2 Bb7 1/2-1/2

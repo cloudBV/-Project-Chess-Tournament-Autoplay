@@ -1,0 +1,15 @@
+[Event "Round 6: Richvalsky, Patrik - Delgerdalai, Bayarjavkhlan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/UN6IIFmC"]
+[Date "2026.07.19"]
+[Round "6.21"]
+[White "Richvalsky, Patrik"]
+[Black "Delgerdalai, Bayarjavkhlan"]
+[Result "1/2-1/2"]
+[WhiteElo "2215"]
+[BlackElo "2385"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.e3 b6 6.Bd3 Bb7 7.O-O d5 8.a3 Bd6 9.b4 Ne4 10.Qc2 f5 11.c5 Be7 12.Ne5 bxc5 13.dxc5 Nd7 14.Ndf3 c6 15.Bb2 Nxe5 16.Bxe5 Qd7 17.Qb2 Bf6 18.Rfc1 Rac8 19.Rab1 Qe7 20.Qd4 h6 21.a4 Kh7 22.Rc2 Rfd8 23.Rbc1 Qf8 24.b5 Be7 25.Bd6 Bxd6 26.cxd6 c5 27.Rxc5 Nxc5 28.Rxc5 Qxd6 29.Rxc8 Rxc8 30.Qxa7 Rc1+ 31.Bf1 Qc7 32.h3 Ra1 33.Nh2 e5 34.f3 f4 35.exf4 d4 36.fxe5 d3 37.Qd4 Qc2 38.e6 d2 39.e7 d1=Q 40.Qxd1 Qxd1 41.e8=Q Qd4+ 42.Kh1 Rxa4 43.Ng4 Ra1 44.Qe2 Bd5 45.Ne3 Bf7 46.Nc2 Bc4 47.Nxd4 Bxe2 48.Nxe2 Rxf1+ 49.Kh2 Rb1 50.Nc3 Rb3 51.Ne4 Rxb5 52.g4 g5 53.Kg3 Rb3 54.Nd6 Kg6 55.Ne4 Kf7 56.Nd6+ Kf6 57.Nc4 Ke6 58.Nd2 Rd3 59.Ne4 Ke5 60.Nf2 Ra3 61.Ne4 Re3 62.Nd2 Kd4 63.Ne4 Kd3 64.Kf2 Re2+ 65.Kg3 Re1 66.Kf2 Rh1 67.Nd6 Ra1 68.Nf5 1/2-1/2

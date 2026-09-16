@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.36"]
+[White "Stocek, Martin"]
+[Black "Smolik, Jachym"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2373"]
+[ECO "E11"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d5 7.e5 Nfd7 8.Bd3 c5 9.h4 h6 10.Bb1 Re8 11.cxd5 exd5 12.Qc2 Nf8 13.dxc5 Nc6 14.O-O Bg4 15.g3 a5 16.b3 Rc8 17.Bb2 b6 18.cxb6 Nxe5 19.Qd1 Nxf3+ 20.Nxf3 Bf6 21.b7 Rb8 22.Bxf6 Qxf6 23.Kg2 Re4 24.Bd3 Rxb7 25.b4 g6 26.bxa5 Rd4 27.a6 Ra7 28.Nxd4 Bxd1 29.Raxd1 Qxd4 30.Bxg6 Qc3 31.Bd3 Qxa3 32.Be2 Qa2 33.Bf3 Qxa6 34.Rxd5 Qf6 35.Bg4 Ra4 36.Bf3 Ng6 37.Rfd1 Ne5 38.Be2 Ra2 39.R5d2 Rxd2 40.Rxd2 Qc6+ 41.Kg1 Kg7 42.Rd4 Qc3 43.Re4 Qb2 44.Re3 f5 45.Kg2 Kf6 46.Kg1 Qd4 47.Kg2 f4 48.gxf4 Qxf4 49.h5 Qh4 50.Rg3 Qe4+ 51.Kf1 Qh1+ 52.Rg1 Qh3+ 53.Ke1 Qc3+ 54.Kf1 Qc1+ 55.Kg2 Qd2 56.Kf1 Qc1+ 57.Kg2 Qc6+ 58.Kf1 Kf5 59.Rg3 Qh1+ 60.Rg1 Qh3+ 61.Ke1 Kf4 62.Rg3 Qh1+ 63.Kd2 Qa1 64.Bd1 Qd4+ 65.Ke2 Qc4+ 66.Ke1 Qb4+ 67.Kf1 Qb5+ 68.Ke1 Nd3+ 69.Kd2 Nb2 70.Rf3+ Ke4 71.Re3+ Kd4 72.Be2 Qb4+ 73.Kc2 Nc4 74.Bxc4 Qxc4+ 75.Kd2 Qf1 76.Rf3 Ke4 77.Rf8 Qd3+ 78.Ke1 Qb1+ 79.Ke2 Qb5+ 80.Kd1 Qxh5+ 81.Ke1 Qb5 82.Rd8 Qa5+ 83.Rd2 Kf3 0-1

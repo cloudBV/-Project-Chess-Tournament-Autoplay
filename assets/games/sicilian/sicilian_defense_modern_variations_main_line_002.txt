@@ -1,0 +1,15 @@
+[Event "Round 7: Kaldarova, Ayaulym - Allahverdiyeva, Ayan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/CDHnEiFO"]
+[Date "2026.07.03"]
+[Round "7.28"]
+[White "Kaldarova, Ayaulym"]
+[Black "Allahverdiyeva, Ayan"]
+[Result "1/2-1/2"]
+[WhiteElo "2029"]
+[BlackElo "2254"]
+[ECO "B54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O g6 8.b3 Bg7 9.Bb2 O-O 10.c4 c5 11.Qc2 Ne8 12.Nc3 Nc7 13.Ne2 Bxb2 14.Qxb2 Na6 15.e5 Rb8 16.exd6 Qxd6 17.Rad1 Qc7 1/2-1/2

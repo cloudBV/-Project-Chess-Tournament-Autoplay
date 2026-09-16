@@ -1,0 +1,14 @@
+[Event "Round 2: Braun, Georg, Dr. - Kollars, Dmitrij"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-2/Myf83mrs/FinNz5TR"]
+[Date "2026.07.18"]
+[Round "2.4"]
+[White "Braun, Georg, Dr."]
+[Black "Kollars, Dmitrij"]
+[Result "1/2-1/2"]
+[WhiteElo "2374"]
+[BlackElo "2634"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bc5 7.Bf4 O-O 8.Bc7 Qe7 9.Bd6 Bxd6 10.Qxd6 Qd8 11.Nd4 Ne8 12.Nxc6 bxc6 13.Qd2 d5 14.Bd3 Rb8 15.b3 Nc7 16.O-O e5 17.Rfe1 d4 18.Ne2 c5 19.Qa5 Qd6 20.c3 Qb6 21.Qa3 Bg4 22.f3 Bd7 23.cxd4 cxd4 24.Rac1 Bb5 25.b4 Bxd3 26.Qxd3 Qxb4 27.f4 Ne6 28.fxe5 Qa5 29.Rf1 Rb2 30.Nf4 Qxa2 31.Qh3 Nxf4 32.Rxf4 g6 33.Rc2 1/2-1/2

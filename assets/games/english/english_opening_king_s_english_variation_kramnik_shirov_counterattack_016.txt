@@ -1,0 +1,14 @@
+[Event "Round 7: Kurmann, Oliver - Collin, Moritz Valentin"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-7/IK4Cx0nV/n9RQwPZ9"]
+[Date "2026.07.17"]
+[Round "7.3"]
+[White "Kurmann, Oliver"]
+[Black "Collin, Moritz Valentin"]
+[Result "1-0"]
+[WhiteElo "2354"]
+[BlackElo "2342"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.Nf3 d6 5.a3 Bc5 6.e3 c6 7.d4 Ba7 8.Nc3 Nd7 9.dxe5 dxe5 10.b4 Ngf6 11.Bd3 O-O 12.O-O Qe7 13.Qc2 h6 14.h3 Bb8 15.Rb1 Rd8 16.Rd1 Nf8 17.Nd2 Bc7 18.c5 Ne6 19.Nc4 axb4 20.axb4 Nd5 21.Ne4 Ng5 22.Ned6 b5 23.Nxc8 Raxc8 24.Nd2 e4 25.Nxe4 Nxe4 26.Bxe4 Nc3 27.Rxd8+ Rxd8 28.Bf3 Nxb1 29.Qxb1 Qe5 30.g3 Qc3 31.Kg2 Be5 32.h4 g6 33.h5 g5 34.Bxc6 Rd1 35.Qf5 Rxc1 36.Bd5 Bf6 37.Qg6+ Kh8 38.Qxf7 1-0

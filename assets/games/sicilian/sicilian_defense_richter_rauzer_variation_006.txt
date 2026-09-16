@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.19"]
+[White "Asensio Asensio, Nicolas"]
+[Black "Krauchi Romero, Martin"]
+[Result "0-1"]
+[WhiteElo "2232"]
+[BlackElo "2362"]
+[ECO "B62"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd3 Be7 8.O-O-O O-O 9.f4 Qb6 10.Be2 h6 11.Nxc6 bxc6 12.Bh4 Rb8 13.b3 Qa5 14.Kb2 d5 15.e5 Ba3+ 16.Kb1 Nd7 17.g4 c5 18.Qh3 c4 19.Bf2 Nc5 20.Bxc5 Bxc5 21.g5 hxg5 22.fxg5 g6 23.Rhf1 Qc7 24.Qg3 Ba6 25.Qf4 cxb3 26.axb3 Rb4 27.Qg3 Bxe2 28.Nxe2 a5 29.Nc1 Rfb8 30.h4 Bd4 31.Rd3 Bxe5 32.Qh3 a4 33.h5 axb3 34.Nxb3 Ra4 35.Kc1 Bf4+ 36.Kd1 Qe5 0-1

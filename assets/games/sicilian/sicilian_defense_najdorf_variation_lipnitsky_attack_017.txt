@@ -1,0 +1,15 @@
+[Event "Round 5: Ocampos, Ian - Kulik, Nicolas"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-5/a21qWrzU/4cGjVwZ8"]
+[Date "2026.07.23"]
+[Round "5.5"]
+[White "Ocampos, Ian"]
+[Black "Kulik, Nicolas"]
+[Result "1-0"]
+[WhiteElo "2325"]
+[BlackElo "2128"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O Be7 8.a4 O-O 9.Be3 Bd7 10.f4 Nc6 11.h3 Qc7 12.Ba2 Rfe8 13.f5 e5 14.Nf3 Nb4 15.Bb3 Bc6 16.Ng5 Rf8 17.Qd2 Rad8 18.Nd5 Nbxd5 19.exd5 Bd7 20.a5 Qc8 21.Qd3 Rde8 22.Ne4 Kh8 23.g4 Qd8 24.Bb6 Qc8 25.c4 Rg8 26.Bc2 Qb8 27.Be3 Qd8 28.Bb6 Qb8 29.Kh1 Nxe4 30.Qxe4 g6 31.f6 Bf8 32.Be3 Qc8 33.Rf3 Qd8 34.b4 Qc8 35.Bd3 Qd8 36.Rg1 Re6 37.Bb6 Qe8 38.Kh2 Bh6 39.g5 Bf8 40.Re3 h5 41.dxe6 Bc6 42.exf7 Qxf7 43.Qh4 e4 44.Rxe4 Bxe4 45.Qxe4 d5 46.Qxd5 Qh7 47.f7 Rg7 48.Bd4 h4 49.Qd8 1-0

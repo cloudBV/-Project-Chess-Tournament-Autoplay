@@ -1,0 +1,14 @@
+[Event "Round 4: Florez Salazar, Luis Angel - Gallego, Julian Andres"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-4/RdktgqsA/FfIiRRLC"]
+[Date "2026.07.11"]
+[Round "4.4"]
+[White "Florez Salazar, Luis Angel"]
+[Black "Gallego, Julian Andres"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2250"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.h3 Nd7 12.Be3 Nf8 13.Rad1 Bc7 14.Qc1 Be6 15.c4 Rc8 16.b3 Ng6 17.Bxg6 fxg6 18.Rfe1 g5 19.Qa3 Bb8 20.d5 cxd5 21.cxd5 Bd7 22.Rc1 b6 23.Red1 g4 24.hxg4 Bxg4 25.Rxc8 Qxc8 26.Rd2 h3 27.gxh3 Bxh3 28.Qa4 Bd7 29.Qc4 Qd8 30.d6+ Be6 31.Qh4 Qd7 32.Nf4 Bf7 33.Qg3 Bxd6 34.Ne2 Bxg3 35.Rxd7 Bb8 36.Kf1 Be6 37.Rd1 Bh3+ 38.Ke1 g5 39.Kd2 Kf7 40.Rh1 Bf5 41.Nd4 Bg6 42.Rc1 Be5 43.Nc6 Bb2 44.Rd1 Ra8 45.Bd4 Ba3 46.Ke1 Be4 0-1

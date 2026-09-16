@@ -1,0 +1,15 @@
+[Event "Round 8: Bagaturov, Giorgi - Allahverdiyeva, Ayan"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-8/k8YeBLVp/5oX6esM9"]
+[Date "2026.07.24"]
+[Round "8.6"]
+[White "Bagaturov, Giorgi"]
+[Black "Allahverdiyeva, Ayan"]
+[Result "1/2-1/2"]
+[WhiteElo "2297"]
+[BlackElo "2254"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O e6 5.c4 d4 6.e3 Nc6 7.exd4 cxd4 8.d3 Bd6 9.Bg5 h6 10.Bxf6 Qxf6 11.Nbd2 Qe7 12.a3 a5 13.Nb3 e5 14.Re1 Be6 15.c5 Bc7 16.Rc1 O-O 17.Nbd2 a4 18.Nc4 f6 19.Nfd2 Qd7 20.Ne4 Ra6 21.Ned6 b6 22.cxb6 Bxd6 23.Nxd6 Rxb6 24.Ne4 Ne7 25.Nc5 Qd6 26.Qd2 Bd7 27.Rc2 Bb5 28.Rec1 Nc6 29.Ne4 Qe7 30.Nc5 Qf7 31.Qe2 f5 32.Bxc6 Bxc6 33.Qxe5 Bf3 34.Re1 Qh5 35.Ne6 Rxe6 36.Qxe6+ Kh7 37.h4 Ba8 38.Qe2 Bf3 39.Qe5 Qg4 40.Qf4 Qh5 41.Rc7 Ba8 42.Kh2 Rg8 43.Re5 Kh8 44.Rxf5 Qd1 45.Rc1 Qxd3 46.Rf8 Bd5 47.Rxg8+ Kxg8 48.Rc8+ Kh7 49.Rd8 Be4 50.Rd7 Qb1 51.f3 Qc2+ 52.Kg1 Qd1+ 53.Kf2 Bd3 54.Qxd4 Qe2+ 55.Kg1 Qf1+ 56.Kh2 Qe2+ 57.Kg1 Qf1+ 58.Kh2 Qe2+ 59.Kg1 Qf1+ 60.Kh2 Qe2+ 61.Kg1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Silvertown (London City Airport Docklands) FIDE Congress 11th-12th July 2026 - Under 2400"]
+[Site "The Tate Institute, 1 Wythes Road, London E16 2DN, United Kingdom"]
+[Date "2026.07.12"]
+[Round "5.2"]
+[White "Soulier, Alfred"]
+[Black "Shevkunov, Vladyslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2164"]
+[ECO "B18"]
+[TimeControl "G: 60 minutes + 30 seconds incr. from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 e6 7.h4 h6 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 Nf6 11.Bd2 Be7 12.O-O-O c5 13.Bc3 cxd4 14.Qxd4 Qxd4 15.Bxd4 Nc6 16.Bxf6 gxf6 17.Ne4 Rg8 18.g3 Rd8 19.Rxd8+ Kxd8 20.Rd1+ Kc7 21.Nc3 a6 22.a3 f5 23.Kd2 Bf6 24.Na4 b5 25.Nc5 Rd8+ 26.Ke2 Rxd1 27.Kxd1 Bxb2 28.Nxa6+ Kd6 29.Nb4 Nxb4 30.axb4 Bc3 31.Ke2 Bxb4 32.Nh2 Bc3 33.f3 Be5 34.Nf1 Kd5 35.Kd3 Bd4 36.Nd2 Bf2 37.g4 fxg4 38.fxg4 Bd4 39.c4+ bxc4+ 40.Nxc4 Bg7 41.Nd2 Ke5 42.Ke3 Bf8 43.Kf3 Be7 44.Ne4 Kd4 45.Nf2 Kc3 46.Ke2 Kc4 47.Kf3 Kd5 48.Ne4 Ke5 49.Ng3 Bh4 50.Ne4 Be1 51.Nc5 Kd4 52.Ne4 Kd5 53.Nf6+ Ke5 54.Nd7+ Kd4 55.Nf6 Kd3 56.Ne4 Bh4 57.Nd6 f6 58.Ne4 Kd4 59.Nd6 Kd5 60.Ne4 Ke5 61.Nc5 Bg5 62.Ne4 Kd4 63.Nd6 Bh4 64.Ne4 Ke5 65.Nc5 Kd6 66.Ne4+ Ke7 67.Nc3 Be1 68.Ne4 Ba5 69.Ng3 Bc7 70.Ne4 Be5 71.Nc5 Kd6 72.Ne4+ Kd5 73.Nf2 Bd4 74.Ne4 Kc4 75.Nd2+ Kc3 76.Ne4+ Kd3 77.Ng3 Kd2 78.Ne4+ Kd1 79.Ng3 Ke1 80.Ne4 Kd1 81.Ng3 Kd2 82.Ne4+ Kd3 83.Ng3 Be5 84.Ne4 Kd4 85.Nd2 Kd5 86.Ne4 Kc6 87.Nd2 Kd7 88.Ne4 Ke7 89.Nc5 Kf7 90.Ne4 f5 91.gxf5 exf5 92.Nd2 Kf6 93.Nc4 Bb8 94.Ne3 f4 95.Nd5+ Kg5 96.Nxf4 1/2-1/2

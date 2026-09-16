@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.06"]
+[Round "3.3"]
+[White "Kiss, Inez"]
+[Black "Terbe, Julianna"]
+[Result "0-1"]
+[WhiteElo "2078"]
+[BlackElo "2252"]
+[ECO "C47"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O Re8 9.Qf3 h6 10.h3 Rb8 11.Bf4 d6 12.Rad1 Nd7 13.Ne2 Bc5 14.Qg3 Qf6 15.Bd2 Ne5 16.Kh1 Qg6 17.Qxg6 fxg6 18.b4 Bxb4 19.Rb1 c5 20.a3 Bxd2 21.Rxb8 c4 22.Rd1 Ba5 23.Rb5 cxd3 24.Rxa5 dxe2 25.Re1 Nc6 26.Ra4 a5 27.Rxe2 Ba6 28.c4 d5 29.Rd2 dxc4 30.Rd5 Rxe4 31.Rc5 Re6 32.f3 Kf7 33.Rd5 Ke7 34.Kg1 Rd6 35.Rc5 Rd1+ 36.Kf2 Kd6 37.Rcxc4 Bxc4 38.Rxc4 Rd3 39.a4 Rd4 0-1

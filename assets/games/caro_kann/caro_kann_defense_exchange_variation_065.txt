@@ -1,0 +1,15 @@
+[Event "Round 1: Ahmad, Khagan - Yessengali, Adizhan"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/aa8OggBi"]
+[Date "2026.07.21"]
+[Round "1.6"]
+[White "Ahmad, Khagan"]
+[Black "Yessengali, Adizhan"]
+[Result "1-0"]
+[WhiteElo "2480"]
+[BlackElo "2252"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Qe2 Qe7 9.Bc2 Bd7 10.Nd2 Nc6 11.Nb3 Qxe2+ 12.Nxe2 Bd6 13.Bg5 Ne4 14.Bxe4 dxe4 15.O-O-O Bf8 16.Ned4 f6 17.Bf4 O-O-O 18.Nb5 a6 19.Nc7 Ne5 20.Nd5 Bd6 21.Bxe5 Bxe5 22.Nc5 Kb8 23.Kc2 Bb5 24.a4 Bd3+ 25.Nxd3 Rxd5 26.Nb4 Rd6 27.Rhe1 f5 28.Rd5 Rxd5 29.Nxd5 Rd8 30.Ne3 g6 31.g4 Bf4 32.gxf5 Bxe3 33.Rxe3 gxf5 34.Rg3 h6 35.f4 Ka7 36.b4 Rd6 37.h4 h5 38.a5 Rd5 39.Rg2 Kb8 40.Rg8+ Kc7 41.Rg7+ Kc8 42.Re7 Kb8 43.Kb3 Kc8 44.Kc4 Rd3 45.Rf7 Rh3 46.Rxf5 Rxh4 47.Kd4 Rh1 48.Kxe4 h4 49.Kf3 Kd7 50.Kg2 Re1 51.Kh3 Re3+ 52.Kxh4 Rxc3 53.Rf7+ Kc6 54.Kg5 Rg3+ 55.Kf5 Rd3 56.Rf6+ Kc7 57.Rb6 1-0

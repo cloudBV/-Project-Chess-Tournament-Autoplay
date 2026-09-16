@@ -1,0 +1,15 @@
+[Event "Round 4: Dahale, Atul - Sutormin, Danila"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/KHGb8T93"]
+[Date "2026.07.06"]
+[Round "4.10"]
+[White "Dahale, Atul"]
+[Black "Sutormin, Danila"]
+[Result "1/2-1/2"]
+[WhiteElo "2188"]
+[BlackElo "2368"]
+[ECO "E44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.f3 Nxc3 7.Nxc3 O-O 8.Qc2 c5 9.Bd3 Nc6 10.d5 Ne5 11.O-O Nxd3 12.Qxd3 Ba6 13.Bd2 d6 14.Rac1 Qe7 15.Ra1 Qd8 16.Rac1 Qe7 17.Ra1 Qd8 18.Rac1 Qe7 19.Ra1 Qd8 20.Rac1 Qe7 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Mroczkowski, Adam"]
+[Black "Brzezina, Piotr"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2273"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Bronstein Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 h5 7.c4 dxc4 8.Bxc4 Be7 9.Ne2 Bf5 10.Nd2 Nd7 11.Nf3 Nb6 12.Bb3 Nh6 13.Bg5 Bg4 14.Qd3 Nf5 15.Rd1 Bxf3 16.Qxf3 Bxg5 17.hxg5 Qxg5 18.Nf4 Rd8 19.Bxe6 Rxd4 20.Nxh5 Rxd1+ 21.Qxd1 Nh4 22.Bg4 Qxe5+ 23.Kf1 Ng6 24.Rh3 Nd5 25.Bf5 O-O 26.Bc2 Re8 27.Rb3 b5 28.Bxg6 fxg6 29.Ng3 Rf8 30.Kg1 a5 31.a3 a4 32.Rd3 Qxb2 33.Rd2 Qxa3 34.Qg4 Qc1+ 35.Rd1 Qf4 36.Qxg6 Qxf2+ 37.Kh1 Qxg2+ 38.Kxg2 Nf4+ 39.Kg1 Nxg6 40.Rd6 Ne5 41.Re6 Nc4 42.Rg6 a3 43.Nh5 Rf7 44.Rxc6 Ra7 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Siddhanth Poonja - Abdsattar, Alisher"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-7/lATKR3Iz/19FEg6W7"]
+[Date "2026.07.22"]
+[Round "7.10"]
+[White "Siddhanth Poonja"]
+[Black "Abdsattar, Alisher"]
+[Result "0-1"]
+[WhiteElo "2164"]
+[BlackElo "2429"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 Nf6 3.Nc3 d5 4.e3 Be7 5.b3 O-O 6.Bb2 b6 7.cxd5 exd5 8.Be2 Bb7 9.O-O Nbd7 10.Rc1 Re8 11.Qc2 a6 12.Qb1 Bd6 13.Nd4 c5 14.Nf5 Bf8 15.d4 g6 16.Ng3 cxd4 17.exd4 Bd6 18.Bf3 Nf8 19.Rcd1 Ne6 20.Bc1 Rc8 21.Nce2 h5 22.Rfe1 Nh7 23.Nxh5 gxh5 24.Bxh5 Qh4 25.Qf5 Neg5 26.Bxf7+ Nxf7 27.Qg6+ Kh8 28.Qxf7 Bxh2+ 29.Kh1 Rxe2 30.Bg5 Rxe1+ 31.Rxe1 Qxg5 32.Re8+ Rxe8 33.Qxe8+ Qg8 34.Qe7 Nf8 35.Qxb7 Bd6 36.Qxa6 Qh7+ 37.Kg1 Qb1+ 38.Qf1 Bh2+ 0-1

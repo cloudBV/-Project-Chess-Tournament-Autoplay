@@ -1,0 +1,15 @@
+[Event "Round 5: Zierk, Steven - Ivanchuk, Vasyl"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-5/kzSSFnA1/xOip2AXd"]
+[Date "2026.07.04"]
+[Round "5.10"]
+[White "Zierk, Steven"]
+[Black "Ivanchuk, Vasyl"]
+[Result "0-1"]
+[WhiteElo "2488"]
+[BlackElo "2593"]
+[ECO "C07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 a6 5.exd5 exd5 6.dxc5 Bxc5 7.Nb3 Bb6 8.Bd3 Qe7+ 9.Qe2 Nc6 10.O-O Qxe2 11.Bxe2 Nf6 12.c3 O-O 13.Bd3 Bg4 14.Nfd4 Ne5 15.Bc2 Nc4 16.Rb1 Rfe8 17.Bf4 Bh5 18.Nf5 Bg6 19.Nbd4 Ng4 20.Rfd1 Bxf5 21.Nxf5 Nxf2 22.Rf1 Re2 23.Nd4 Nh3+ 24.gxh3 Rxc2 25.Rf2 Rxf2 26.Kxf2 f6 27.h4 h5 28.Ke2 Re8+ 29.Kd3 Re4 30.Bg3 Ne5+ 31.Bxe5 fxe5 32.Nf5 Kh7 33.Rf1 Rg4 0-1

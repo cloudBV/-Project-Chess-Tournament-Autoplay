@@ -1,0 +1,15 @@
+[Event "Round 5: Jiang, Andrew - Altman, Joshua"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-5/fqiT2mw0/unyGPqCs"]
+[Date "2026.07.09"]
+[Round "5.2"]
+[White "Jiang, Andrew"]
+[Black "Altman, Joshua"]
+[Result "1/2-1/2"]
+[WhiteElo "2250"]
+[BlackElo "2218"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd7 7.O-O Nc6 8.Nb3 a6 9.Nbxd4 Nxd4 10.Nxd4 Qc7 11.Qe2 Bd6 12.Nf5 Bxh2+ 13.Kh1 Be5 14.Re1 g6 15.Qxe5 Qxe5 16.Rxe5 gxf5 17.Rc5 Bd7 18.b4 Ne7 19.Rc7 Rc8 20.Rxc8+ Nxc8 21.a4 Nd6 22.Bb3 b5 23.axb5 Bxb5 24.Bb2 O-O 25.Rd1 Nc4 26.Bf6 h6 27.Rd4 Rc8 28.Rh4 1/2-1/2

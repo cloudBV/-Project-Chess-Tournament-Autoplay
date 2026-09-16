@@ -1,0 +1,14 @@
+[Event "Round 10: Kolly, Jacques - Filipovic, Branko"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-10/fuSt1AT1/u6OSHV0F"]
+[Date "2026.07.19"]
+[Round "10.19"]
+[White "Kolly, Jacques"]
+[Black "Filipovic, Branko"]
+[Result "0-1"]
+[WhiteElo "2203"]
+[BlackElo "2109"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.f3 d5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 e6 8.Bd3 c5 9.Ne2 Be7 10.O-O O-O 11.Be3 Nc6 12.Qd2 Qc7 13.Rac1 Rfd8 14.Rfd1 Rac8 15.Qe1 h6 16.Qf2 Na5 17.Bf4 Bd6 18.e5 Bf8 19.Qg3 Kh8 20.h3 Qe7 21.Bb1 cxd4 22.Nxd4 a6 23.Qf2 Nc4 24.Qc2 g6 25.Qf2 Bg7 26.Bd3 Nxe5 27.Bxe5 Bxe5 28.Qe2 Qf6 29.Bxa6 Bxa6 30.Qxa6 Qf4 31.Qf1 Qh2+ 32.Kf2 Qg3+ 33.Kg1 Rd5 34.Qf2 Qh2+ 35.Kf1 Qf4 36.Ne2 Rxd1+ 37.Rxd1 Qc4 38.Qe3 Bg7 39.Qd2 Kh7 40.Rc1 Ra8 41.Rc2 Ra5 0-1

@@ -1,0 +1,14 @@
+[Event "Round 8: Hernandez Montes, Jhon Sebastian - Florez Salazar, Luis Angel"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-8/CvTqoM9D/TBmqsUr5"]
+[Date "2026.07.12"]
+[Round "8.3"]
+[White "Hernandez Montes, Jhon Sebastian"]
+[Black "Florez Salazar, Luis Angel"]
+[Result "1-0"]
+[WhiteElo "2338"]
+[BlackElo "2220"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.d4 e6 5.O-O Ngf6 6.c4 c6 7.b3 Bd6 8.Bb2 O-O 9.Nbd2 h6 10.Ne5 Bf5 11.Nxd7 Nxd7 12.e4 dxe4 13.Nxe4 Be7 14.Qe2 Nf6 15.Nc3 Re8 16.Rad1 Qa5 17.a3 Rad8 18.b4 Qc7 19.h3 a6 20.Bc1 Qc8 21.Bf4 Bd6 22.Be5 Bxe5 23.dxe5 Nh7 24.c5 Rd5 25.Nxd5 exd5 26.g4 Bd7 27.Qb2 h5 28.f3 Nf8 29.Rde1 Qd8 30.Qf2 Ng6 31.Qg3 h4 32.Qh2 f6 33.exf6 Rxe1 34.f7+ Kxf7 35.Rxe1 Qf6 36.Qc7 Nf8 37.f4 Qc3 38.Re2 Qxa3 39.Qd6 Kg8 40.f5 Qxb4 41.Re7 Qd4+ 42.Kh2 a5 43.Qb8 Kh7 44.Qxf8 Qf4+ 45.Kg1 Qc1+ 46.Bf1 Qxc5+ 47.Kh1 Qd4 48.f6 1-0

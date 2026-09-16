@@ -1,0 +1,14 @@
+[Event "Round 3: Spyropoulos, Nikolaos - Bozinakis, Pavlos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/hinC0ZaD"]
+[Date "2026.07.06"]
+[Round "3.23"]
+[White "Spyropoulos, Nikolaos"]
+[Black "Bozinakis, Pavlos"]
+[Result "1-0"]
+[WhiteElo "2379"]
+[BlackElo "2161"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O 9.Ng3 Be6 10.Nd5 Bxd5 11.exd5 g6 12.c4 Nbd7 13.Re1 Nc5 14.Bc2 a5 15.b3 Rb8 16.a3 b5 17.b4 Na6 18.cxb5 Nc7 19.a4 Ncxd5 20.bxa5 Qxa5 21.Bd2 Qa7 22.Bb3 Rfc8 23.Bg5 Rc5 24.Bxd5 Nxd5 25.Bxe7 Qxe7 26.Ne4 Nc3 27.Nxc3 Rxc3 28.Qd2 Rc4 29.Red1 Rd4 30.Qb2 Rxd1+ 31.Rxd1 Qc7 32.Qb4 d5 33.a5 d4 34.b6 Qc2 35.Qd2 Qb3 36.h3 Qb5 37.Qa2 d3 38.Rb1 Qa6 39.Qd5 e4 40.Qe5 Qa8 41.a6 d2 42.b7 Qa7 43.Rd1 1-0

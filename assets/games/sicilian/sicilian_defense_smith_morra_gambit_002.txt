@@ -1,0 +1,14 @@
+[Event "Round 4: Skvortsov, Andrei - Ersoz, Teoman Guney"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/lHALER42"]
+[Date "2026.07.06"]
+[Round "4.26"]
+[White "Skvortsov, Andrei"]
+[Black "Ersoz, Teoman Guney"]
+[Result "1/2-1/2"]
+[WhiteElo "2316"]
+[BlackElo "2123"]
+[ECO "B21"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 Nf6 5.Nc3 g6 6.Nf3 Bg7 7.Nd5 d6 8.c3 O-O 9.Bg5 h6 10.Nxf6+ exf6 11.Be3 f5 12.exf5 Bxf5 13.Qd2 d5 14.Rd1 Re8 15.Qxd5 Qb6 16.Rd2 Be4 17.Qb5 Qc7 18.Be2 Ne5 19.Nxe5 Rxe5 20.Bf4 Rxb5 21.Bxc7 Rc5 22.Bd6 Bxg2 23.Bxc5 Bxh1 24.f3 b6 25.Bd4 Bg2 26.Bxg7 Kxg7 27.Rd7 Bh3 28.Rb7 Be6 29.a4 Kf6 30.Kf2 Ke5 31.Bb5 Bd5 32.Re7+ Kd6 33.Re2 Be6 34.Rd2+ Ke7 35.Ke3 Rc8 36.Rd4 Rc5 37.h4 Re5+ 38.Kf4 Rh5 39.Ke3 Re5+ 1/2-1/2

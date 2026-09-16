@@ -1,0 +1,15 @@
+[Event "Round 5: Tran Ngoc Minh Duy - Efimov, Leonid"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-5/ZNuoIZMc/uMAUQ8l5"]
+[Date "2026.07.19"]
+[Round "5.7"]
+[White "Tran Ngoc Minh Duy"]
+[Black "Efimov, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2283"]
+[BlackElo "2331"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Bg7 9.f3 O-O 10.Be3 Nc6 11.O-O a6 12.a4 Qc7 13.b3 Nd7 14.Nd5 Qd8 15.Rb1 e6 16.Nc3 Rc8 17.Qd2 Nxd4 18.Bxd4 Rc6 1/2-1/2

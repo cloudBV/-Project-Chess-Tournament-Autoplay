@@ -1,0 +1,14 @@
+[Event "Round 12: Ling, Chenxuan - Ghosh, Diptayan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/RcPbYs3h"]
+[Date "2026.07.19"]
+[Round "12.3"]
+[White "Ling, Chenxuan"]
+[Black "Ghosh, Diptayan"]
+[Result "0-1"]
+[WhiteElo "2235"]
+[BlackElo "2530"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.e4 c5 6.e5 cxd4 7.exf6 dxc3 8.bxc3 Qxf6 9.Bd2 Bc5 10.Nf3 h6 11.Bd3 Nc6 12.O-O O-O 13.Rfe1 b6 14.Be4 Bb7 15.Rad1 Rac8 16.h3 Rc7 17.Re2 Rfc8 18.g4 Ne5 19.Nxe5 dxe5 20.Rde1 Bxe4 21.Qxe4 Rd7 22.Kg2 Rcd8 23.Be3 Bxe3 24.Rxe3 Rc7 25.Rf3 Qe7 26.Qxe5 Rxc4 27.Re4 Rxe4 28.Qxe4 Qc7 29.h4 Rd5 30.Rd3 Rxd3 31.Qxd3 g6 32.f3 Qc5 33.Qd2 Kg7 34.Qd3 b5 35.Kg3 a5 36.Kg2 Qd5 37.Qe2 Kf6 38.Kg3 Qe5+ 39.Qxe5+ Kxe5 40.Kf2 Kf4 0-1

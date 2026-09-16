@@ -1,0 +1,15 @@
+[Event "Round 4: Zhakan, Erasyl - Yang, Zilong"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/EdSaBX4I"]
+[Date "2026.07.24"]
+[Round "4.12"]
+[White "Zhakan, Erasyl"]
+[Black "Yang, Zilong"]
+[Result "1/2-1/2"]
+[WhiteElo "2103"]
+[BlackElo "2383"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.Nc3 e6 5.d4 cxd4 6.Qxd4 Nc6 7.Qd3 Be7 8.Bf4 Nh5 9.Be3 a6 10.Bb3 Qc7 11.Na4 O-O 12.Nb6 Rb8 13.O-O Nf6 14.c3 Ng4 15.Nxc8 Rbxc8 16.Bf4 Nge5 17.Qe2 Nxf3+ 18.Qxf3 Na5 19.Bc2 Nc4 20.Rab1 Bf6 21.Qe2 Rfd8 22.a4 h6 23.Rfd1 Be5 24.Bc1 Nb6 25.f4 Bf6 26.Be3 Nc4 27.Bf2 d5 28.exd5 exd5 29.Qf3 d4 30.Bf5 dxc3 31.Bxc8 Qxc8 32.Rxd8+ Qxd8 33.bxc3 Nd2 34.Qxb7 Nxb1 35.Qxb1 Bxc3 36.Qc2 Qf6 37.g3 Qc6 38.Qd1 Qe4 39.Qb3 Bb4 40.Qe3 Qc6 41.Qb3 a5 42.Qd1 h5 43.Qd8+ Kh7 44.Qd3+ g6 45.Qb3 Kg8 46.Qd1 Bf8 47.h3 Qe6 48.Kh2 Qa2 49.Kg1 Qc4 50.Qd4 Qc1+ 51.Kh2 Qc2 52.Kg1 Qb3 53.Kg2 Qe6 54.Kh2 Bd6 55.Qe3 Qf5 56.Qd4 Bc7 57.Qc5 Qxc5 58.Bxc5 f5 59.Kg2 Kf7 60.Kf3 Ke6 61.g4 hxg4+ 62.hxg4 Kd5 63.gxf5 gxf5 64.Be3 Kc4 65.Kg3 Kd3 66.Bc1 Bb6 67.Ba3 Bd8 68.Bd6 Kc4 69.Kf3 Bf6 70.Ke3 Bd4+ 71.Kd2 Kb3 72.Bc7 Kb4 73.Kd3 Bc5 74.Bxa5+ 1/2-1/2

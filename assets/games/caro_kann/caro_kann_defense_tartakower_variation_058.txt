@@ -1,0 +1,14 @@
+[Event "Round 12: Gautier, Anand - Aronyak Ghosh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/0cIQuvJf"]
+[Date "2026.07.19"]
+[Round "12.5"]
+[White "Gautier, Anand"]
+[Black "Aronyak Ghosh"]
+[Result "0-1"]
+[WhiteElo "2198"]
+[BlackElo "2488"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 a5 7.Bd3 g6 8.Ne2 Bg7 9.O-O O-O 10.a4 Na6 11.Be3 Nc7 12.f3 Nd5 13.Bf2 Bh6 14.Re1 Re8 15.Ng3 Be6 16.Qc2 f5 17.Bf1 Qc7 18.c4 Nb4 19.Qc3 Rad8 20.Rad1 Bg7 21.Qc1 Re7 22.b3 Red7 23.d5 cxd5 24.cxd5 Qxc1 25.Rxc1 Bxd5 26.Bb6 Ra8 27.Bb5 Bc6 28.Red1 Bxb5 29.axb5 Nd5 30.Bf2 Rad8 31.h4 Bf6 32.h5 Kg7 33.hxg6 fxg6 34.Rd3 Kf7 35.Kf1 Nb4 36.Rxd7+ Rxd7 37.Bb6 Nd3 38.Rd1 Bc3 39.Ne2 Bb4 40.Nf4 Ne5 41.Rc1 g5 42.Nh3 h6 43.f4 Nd3 44.Rd1 g4 45.Nf2 Nc5 46.Rc1 Nxb3 47.Rc8 Nd2+ 48.Ke2 Ne4 49.Nxe4 Re7 50.g3 Rxe4+ 51.Kd3 Re6 52.Bd4 Be1 53.Ra8 Bxg3 54.Rxa5 Bxf4 55.b6 Kg6 56.Ra7 Re7 57.Ra8 g3 58.Rg8+ Kh5 59.Bc5 Rd7+ 60.Ke2 Bg5 61.Kf3 Rd3+ 62.Kg2 Kg4 63.Be7 Rd2+ 64.Kf1 Kf3 0-1

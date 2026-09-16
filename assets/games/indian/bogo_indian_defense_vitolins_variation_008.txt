@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.2"]
+[White "Madejski, Milosz"]
+[Black "Wites, Adam"]
+[Result "1-0"]
+[WhiteElo "2130"]
+[BlackElo "2139"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.g3 O-O 7.Bg2 d6 8.O-O Qe7 9.a3 bxa3 10.Rxa3 e5 11.e3 Nc6 12.Nc3 Bf5 13.dxe5 dxe5 14.Nd5 Nxd5 15.cxd5 Rfd8 16.Nd2 Nb4 17.e4 Bd7 18.Re1 Bb5 19.Bf1 Bxf1 20.Nxf1 Qc5 21.Rc3 Qb5 22.Ne3 Rac8 23.Qb3 a5 24.Rec1 Ra8 25.Rc7 Qe2 26.d6 Qf3 27.d7 Nc6 28.Qxb7 Nd4 29.Qxa8 Ne6 30.Qxd8+ Nxd8 31.Rc8 Kf8 32.Nd5 f5 33.Rxd8+ Kf7 34.Rf8+ 1-0

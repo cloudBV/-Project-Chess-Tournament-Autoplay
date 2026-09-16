@@ -1,0 +1,15 @@
+[Event "Round 9: Alaghehmand, Arshia - Nguyen, Manh Duc"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-9/nAmhapDR/YwsqXp1Y"]
+[Date "2026.07.24"]
+[Round "9.10"]
+[White "Alaghehmand, Arshia"]
+[Black "Nguyen, Manh Duc"]
+[Result "1-0"]
+[WhiteElo "2237"]
+[BlackElo "2236"]
+[ECO "C56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Invitation Declined"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 Nf6 5.Nc3 Bg4 6.d5 Nd4 7.Qd3 Bxf3 8.gxf3 a6 9.a4 Nh5 10.h4 Qf6 11.Rh3 Qg6 12.Kf1 f5 13.Nd1 fxe4 14.fxe4 Qg4 15.Rh1 Nf4 16.Bxf4 Qxf4 17.Rh3 c6 18.c3 cxd5 19.Bxd5 Nc6 20.Ne3 g6 21.Nc4 Rc8 22.Rd1 Nd8 23.Rf3 Qxh4 24.Nxe5 Be7 25.Bxb7 Nxb7 26.Qxa6 Rc7 27.Qb5+ Kd8 28.Nf7+ Kc8 29.Nxh8 Qxe4 30.Re3 Qc2 31.Rde1 Bf6 32.Re8+ Nd8 33.Qa6+ Kd7 34.Rf8 Be7 35.Qb5+ Rc6 36.Rf3 g5 37.Nf7 Qg6 38.Nxd8 Bxd8 39.Rf8 Bc7 40.Rfe8 1-0

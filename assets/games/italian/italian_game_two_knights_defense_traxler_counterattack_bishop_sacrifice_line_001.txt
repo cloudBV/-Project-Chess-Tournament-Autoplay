@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.11"]
+[Round "1.7"]
+[White "Stash 37.24"]
+[Black "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Result "1-0"]
+[WhiteElo "3244"]
+[BlackElo "3246"]
+[ECO "C57"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5 5.Bxf7+ Ke7 6.Bd5 d6 7.c3 Qe8 8.d4 exd4 9.Bxc6 Qxc6 10.cxd4 Bxd4 11.O-O Qb6 12.Nd2 Ng4 13.Nh3 Rf8 14.Nf3 Bc5 15.Nf4 Bxf2+ 16.Kh1 c6 17.Nd3 Ne3 18.Qe2 Nxf1 19.Nxf2 Qb5 20.Qxb5 cxb5 21.Bg5+ Kd7 22.Rxf1 b6 23.Re1 Bb7 24.h3 Rac8 25.Re2 b4 26.Rd2 Rc5 27.Bh4 Re8 28.Bg3 Bxe4 29.Bxd6 Rc1+ 30.Kh2 Bxf3 31.Bxb4+ Bd5 32.Rxd5+ Kc6 33.Rd6+ Kc7 34.Rd2 Rf1 35.g4 g6 36.Rc2+ Kb7 37.Kg2 Rb1 38.Bc3 Re7 39.g5 Ra1 40.a3 Ka6 41.Rd2 Rae1 42.Ng4 R1e2+ 43.Rxe2 Rxe2+ 44.Kg3 Kb7 45.h4 Kc8 46.Nf6 Re3+ 47.Kg4 Re7 48.h5 a6 49.h6 Rc7 50.Kf4 b5 51.Ke5 Rc5+ 52.Ke6 Rxg5 53.Nxh7 Rh5 54.Bg7 Kb7 55.Nf6 Rh2 56.h7 Kc6 57.b4 Re2+ 58.Kf7 Rh2 59.Kxg6 Rxh7 60.Nxh7 Kd5 61.Kf5 Kc4 62.Ke4 Kb3 63.Kd3 Kxa3 64.Bc3 Kb3 65.Nf6 Ka3 66.Nd5 a5 67.bxa5 b4 68.a6 Ka4 69.Bxb4 Kb5 70.a7 Ka6 71.a8=Q+ Kb5 72.Qb7+ Ka4 73.Qa6+ Kb3 74.Qa3# 1-0

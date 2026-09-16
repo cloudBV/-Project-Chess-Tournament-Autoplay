@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-9/BACu8Amk/pI5X1nYn"]
+[Date "2026.06.25"]
+[Round "9.1"]
+[White "Macias Verano, Jose Maria"]
+[Black "Torres Rebolledo, Alvaro"]
+[Result "0-1"]
+[WhiteElo "2043"]
+[BlackElo "2333"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Goldman Variation"]
+
+1.e4 c6 2.Nc3 d5 3.Qf3 e6 4.d4 Nd7 5.Nh3 dxe4 6.Nxe4 Ndf6 7.Bd3 Nxe4 8.Qxe4 Nf6 9.Qh4 h6 10.Bd2 a5 11.a4 Nd5 12.Qe4 Nb4 13.Bxb4 axb4 14.Nf4 Bd6 15.h4 Ra5 16.Kf1 Qe7 17.g3 e5 18.dxe5 Rxe5 19.Qc4 Qc7 20.Kg2 O-O 21.Rhe1 Rfe8 22.Rxe5 Rxe5 23.Rd1 g5 24.Nh5 Be6 25.Bh7+ Kxh7 26.Qd3+ f5 27.Qxd6 Qxd6 28.Rxd6 Kg6 29.f4 Re2+ 30.Kf1 Re4 31.g4 fxg4 32.Ng3 Rxf4+ 33.Ke2 Kf7 34.hxg5 hxg5 35.b3 Ke7 36.Rd1 Bd5 37.Rg1 Rf3 38.Nf1 Rh3 39.Ne3 Be4 40.Nxg4 Bxc2 41.Nf2 Rh5 42.Rg3 Bf5 43.Re3+ Kf6 44.Re8 Rh7 45.Kf3 Re7 46.Rf8+ Ke5 47.Rg8 Kd4 48.Rxg5 Bc2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Masoumi, Sahar - Mahdian, Anousha"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-6/9x6VQVn8/b1pmTYnT"]
+[Date "2026.07.14"]
+[Round "6.4"]
+[White "Masoumi, Sahar"]
+[Black "Mahdian, Anousha"]
+[Result "0-1"]
+[WhiteElo "2050"]
+[BlackElo "2078"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: St. George Defense"]
+
+1.e4 a6 2.d4 e6 3.Nc3 b5 4.a3 Bb7 5.Bd3 c5 6.dxc5 Bxc5 7.Nf3 Nc6 8.O-O Qc7 9.Qe2 d6 10.Bf4 Ne5 11.Nb1 Ne7 12.Nbd2 Nxd3 13.cxd3 e5 14.Bg3 Ng6 15.d4 exd4 16.b4 Bb6 17.e5 dxe5 18.Nxe5 Qe7 19.Qh5 O-O 20.Rae1 Qd8 21.Ndf3 Qd5 22.Qf5 Rfe8 23.Qg4 Rad8 24.Nxg6 hxg6 25.Bh4 Rc8 26.Be7 Qf5 27.Qxf5 gxf5 28.Bc5 Rxe1 29.Rxe1 Bxc5 30.bxc5 Bxf3 31.gxf3 Rxc5 32.Re8+ Kh7 33.Ra8 d3 34.Rd8 Rc3 35.Kf1 Rxa3 36.Ke1 g5 37.Rd6 Kg7 38.Kd2 f6 39.Rd7+ Kg6 40.Rd5 f4 41.Rc5 Ra2+ 42.Kxd3 Rxf2 43.Rc6 Rxf3+ 44.Ke4 Re3+ 45.Kd4 a5 0-1

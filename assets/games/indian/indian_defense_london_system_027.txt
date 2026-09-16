@@ -1,0 +1,14 @@
+[Event "Round 4: Materia, Marco - Finek, Vaclav"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-4/SdFWxbeS/4rRRV9Ta"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Materia, Marco"]
+[Black "Finek, Vaclav"]
+[Result "1/2-1/2"]
+[WhiteElo "2509"]
+[BlackElo "2504"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 h6 4.h3 d5 5.e3 c5 6.Nbd2 Qb6 7.Rb1 Bd6 8.Bxd6 Qxd6 9.dxc5 Qxc5 10.b4 Qe7 11.c4 O-O 12.Be2 dxc4 13.Nxc4 Rd8 14.Qb3 b6 15.O-O Bb7 16.Nfe5 Nbd7 17.Bf3 Nxe5 18.Nxe5 Bxf3 19.Nxf3 Rac8 20.Rbc1 Qb7 21.Qb2 Rxc1 22.Rxc1 Rc8 23.Nd4 a6 24.Rxc8+ Qxc8 25.b5 axb5 26.Qxb5 Qc1+ 27.Kh2 Qc7+ 28.g3 g6 29.Kg2 Qb7+ 30.Qc6 Qxc6+ 31.Nxc6 Ne4 32.Kf3 Ng5+ 33.Kg2 Ne4 34.Kf3 Ng5+ 35.Kg2 Ne4 1/2-1/2

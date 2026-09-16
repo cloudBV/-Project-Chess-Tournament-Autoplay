@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.16"]
+[White "Tsiapko, Andrii"]
+[Black "Fiorito, Joaquin"]
+[Result "1/2-1/2"]
+[WhiteElo "2273"]
+[BlackElo "2440"]
+[ECO "E71"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 Nbd7 6.Bd3 e5 7.d5 Nc5 8.Bc2 a5 9.Bg5 h6 10.Be3 Bd7 11.Qd2 c6 12.Nge2 cxd5 13.exd5 a4 14.O-O Qa5 15.Ng3 h5 16.f3 O-O 17.Nge4 Nfxe4 18.Nxe4 Qxd2 19.Bxd2 Nxe4 20.fxe4 b5 21.b3 bxc4 22.bxc4 Rfc8 23.Bd3 f5 24.Rab1 Rab8 25.Rxb8 Rxb8 26.Rb1 Rc8 27.Rb4 Bf6 28.Kf1 Rf8 29.Ke2 Bh4 30.Be1 Bd8 31.Rb7 Bc8 32.Ra7 f4 33.c5 f3+ 34.gxf3 dxc5 35.h4 g5 36.hxg5 Bxg5 37.Bc4 Bh3 38.d6+ Kh8 39.Bc3 Bf6 40.f4 exf4 41.Bxf6+ Rxf6 42.e5 f3+ 43.Kf2 Rf4 44.Bd5 Rd4 45.Bxf3 Be6 46.Re7 Bxa2 47.Ra7 Be6 48.Bc6 c4 49.Bd7 Bd5 50.Bxa4 Rf4+ 51.Kg3 Rg4+ 52.Kf2 Rf4+ 53.Ke3 Re4+ 54.Kd2 Be6 55.Ra5 h4 56.Bc6 c3+ 57.Kc2 Re3 58.Rc5 Bf5+ 59.Kb3 c2+ 60.Kb2 Re1 61.e6 Rb1+ 62.Ka3 Bxe6 63.Rxc2 Rb3+ 64.Ka4 Rd3 65.Rh2 h3 66.d7 Kg7 67.Kb5 Kf6 68.Kb6 Ke7 69.Re2 h2 70.Rxh2 1/2-1/2

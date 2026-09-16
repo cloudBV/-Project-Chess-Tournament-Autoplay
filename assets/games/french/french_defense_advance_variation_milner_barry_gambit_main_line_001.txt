@@ -1,0 +1,14 @@
+[Event "Round 8: Ivenholt, Niklas - Hedin, Gunnar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/rlBlRNk1"]
+[Date "2026.07.03"]
+[Round "8.23"]
+[White "Ivenholt, Niklas"]
+[Black "Hedin, Gunnar"]
+[Result "0-1"]
+[WhiteElo "2043"]
+[BlackElo "2097"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Main Line"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Bd3 cxd4 7.cxd4 Qb6 8.O-O Nxd4 9.Nbd2 Nxf3+ 10.Nxf3 Ne7 11.Be3 Qd8 12.b4 Ng6 13.Qd2 Be7 14.Rac1 O-O 15.Bd4 a6 16.Rfe1 Nh4 17.Nxh4 Bxh4 18.Qd1 g6 19.Qg4 f5 20.exf6 Bxf6 21.Bc5 Rf7 22.Bc2 e5 23.Qg3 Bc6 24.Bb3 Kg7 25.Re2 e4 26.Rd1 Rd7 27.Red2 b6 28.Be3 d4 29.Qh3 Raa7 30.Bh6+ Kh8 31.Qg4 Qe8 32.h4 Ra8 33.Bg5 Qe5 34.Bxf6+ Qxf6 35.a4 Rad8 36.Rc2 Bb7 37.b5 a5 38.Qg3 Qd6 39.Qxd6 Rxd6 40.Rc7 R8d7 41.Rdc1 Kg7 42.Be6 Rxc7 43.Rxc7+ Kf6 44.Bb3 Bd5 45.Bxd5 Rxd5 46.Kf1 d3 47.Ke1 Rd4 48.Rxh7 Rxa4 49.Rb7 Ra1+ 50.Kd2 Ra2+ 51.Ke1 Re2+ 52.Kf1 Rb2 53.Rxb6+ Kf5 54.Ke1 Rb1+ 55.Kd2 Rf1 56.g4+ Ke5 57.f4+ Rxf4 58.Rxg6 Rf2+ 59.Ke1 e3 60.Rg5+ 0-1

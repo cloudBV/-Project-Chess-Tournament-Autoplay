@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-6/1Djz4Ac6/32d5SREz"]
+[Date "2026.07.23"]
+[Round "6.14"]
+[White "Porte, Henrik"]
+[Black "Mocic, Ivano"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2076"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 O-O 6.a3 Bxc3+ 7.Qxc3 Nbd7 8.b4 b6 9.e3 Bb7 10.Bb2 Qe7 11.Be2 c5 12.O-O Rac8 13.Rfd1 Rfe8 14.dxc5 bxc5 15.b5 a6 16.a4 Nf8 17.Nd2 e5 18.Nf1 Ne6 19.Ng3 g6 20.Qc2 h5 21.Bd3 h4 22.Ne4 Nh5 23.Nxd6 Qxd6 24.Bxg6 Qe7 25.Bxh5 Qg5 26.Bxf7+ Kxf7 27.f4 Qh5 28.Bxe5 Rcd8 29.Kf2 h3 30.g4 Qh4+ 31.Kf1 Bg2+ 32.Kg1 Be4 33.Qxe4 Qxg4+ 34.Kf2 Rxd1 35.Qh7+ Kf8 36.Rxd1 Qxd1 37.Qxh3 Qc2+ 38.Kf3 Qd1+ 39.Kf2 Qc2+ 40.Kf3 Ke7 41.b6 Qb1 42.a5 Rf8 43.Qh4+ Kd7 44.Kf2 Rg8 45.Kf3 Qh1+ 46.Ke2 Rg2+ 47.Kd3 Qb1+ 48.Kc3 Qc2# 0-1

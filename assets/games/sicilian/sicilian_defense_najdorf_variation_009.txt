@@ -1,0 +1,14 @@
+[Event "Round 7: Dingertz, Gustav - Liden, Tommy"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/SCDi9MUB"]
+[Date "2026.07.02"]
+[Round "7.14"]
+[White "Dingertz, Gustav"]
+[Black "Liden, Tommy"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2135"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Be2 Nbd7 10.f4 Qc7 11.h3 Rc8 12.O-O Nb6 13.Nd2 Be7 14.Kh1 g6 15.Qe1 h4 16.Qf2 Nbd7 17.f5 gxf5 18.exf5 Bd5 19.Nxd5 Nxd5 20.c4 Nxe3 21.Qxe3 Nf6 22.Bf3 Bf8 23.Ne4 Nxe4 24.Qxe4 Qc6 25.Qe3 Qd7 26.Qb3 Rc7 27.Rad1 Bh6 28.Qb4 Bf8 29.Rfe1 f6 30.Bd5 Rh7 31.Rf1 Rc5 32.Qe1 Qa4 33.b3 Qa3 34.Qe2 Rcc7 35.Rb1 Rcg7 36.b4 Rg3 37.Bf3 Kd8 38.Qf2 Rc7 39.Rb3 Qa4 40.Qe2 Kc8 41.Rfb1 Qd7 42.Qe4 Kb8 43.b5 a5 44.Qxh4 Rg5 45.b6 Rc5 46.Qe4 Qf7 47.Be2 d5 48.cxd5 Qxd5 49.Qxd5 Rxd5 50.Bf3 Rd2 51.Rc3 Bd6 52.Rbc1 Rg8 53.Rb1 Re8 54.a3 Rd4 55.Be2 e4 56.Kg1 Be5 57.Rc2 Rd6 58.Kf1 Bd4 59.Rd2 Rxb6 60.Rxb6 Bxb6 61.h4 Bc5 62.a4 Kc7 63.h5 Be3 64.Rc2+ Kd6 65.Bb5 Re7 66.Ke2 Bd4 67.Rc1 Rg7 68.Kf1 Rg5 69.Be2 Rxf5+ 70.Ke1 Bf2+ 71.Kd1 Rd5+ 72.Kc2 Rc5+ 73.Kd1 Rxc1+ 74.Kxc1 Be3+ 75.Kd1 Ke5 76.g4 Bg5 77.Bb5 Kf4 78.Bd7 Kf3 79.Bc8 b6 80.Bb7 Kxg4 81.Bxe4 b5 82.axb5 Kxh5 83.b6 Kg4 84.b7 Bf4 85.Ke2 Kg3 86.Kf1 Be5 87.Bd5 a4 88.Ba2 Kf3 89.Bg8 Ke3 90.Bf7 Kd2 91.Kf2 a3 92.Kf3 f5 93.Be6 Kc3 0-1

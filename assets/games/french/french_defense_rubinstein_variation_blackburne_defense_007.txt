@@ -1,0 +1,15 @@
+[Event "Round 5: Kumar, Prajit Sai - Fiorito, Francisco"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/nZgLqwug"]
+[Date "2026.07.08"]
+[Round "5.10"]
+[White "Kumar, Prajit Sai"]
+[Black "Fiorito, Francisco"]
+[Result "0-1"]
+[WhiteElo "2241"]
+[BlackElo "2452"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bd3 c5 8.Be3 cxd4 9.Bxd4 Be7 10.Qe2 Qa5+ 11.c3 O-O 12.Ne5 Qd5 13.O-O-O Qxa2 14.g4 Nd5 15.Qe4 Nf6 16.Qe2 Nd5 17.Qe4 f5 18.Qf3 b5 19.gxf5 Bg5+ 20.Kc2 Bb7 21.Qh5 Rac8 22.Qxg5 Nb4+ 23.Kd2 Qxb2+ 24.Ke1 Bxh1 25.Nc4 Nxd3+ 26.Kf1 Qxf2+ 27.Bxf2 bxc4 28.Qe3 exf5 29.Qxa7 Rc6 30.Bd4 Rg6 31.Qc7 Bd5 32.Qd7 Be6 33.Qe7 f4 34.Bc5 Bh3+ 35.Ke2 Re6+ 0-1

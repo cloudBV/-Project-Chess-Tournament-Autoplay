@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.11"]
+[White "Bjorkan, Olav"]
+[Black "Digernes, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2131"]
+[BlackElo "2023"]
+[ECO "E17"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 b6 3.Nf3 Bb7 4.g3 e6 5.Bg2 Be7 6.O-O O-O 7.Re1 Qc8 8.Nc3 Ne4 9.Qc2 Nxc3 10.Qxc3 Be4 11.Nd2 Bxg2 12.Kxg2 Qb7+ 13.Kg1 c5 14.dxc5 bxc5 15.Nf3 1/2-1/2

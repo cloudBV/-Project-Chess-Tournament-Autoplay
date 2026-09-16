@@ -1,0 +1,15 @@
+[Event "Round 1: Dominguez Perez, Leinier - Amburgy, Ryan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/2jGbyjsm"]
+[Date "2026.07.03"]
+[Round "1.4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Amburgy, Ryan"]
+[Result "1/2-1/2"]
+[WhiteElo "2666"]
+[BlackElo "2321"]
+[ECO "B12"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 h6 7.O-O Nd7 8.Nbd2 a5 9.a4 Bh7 10.Re1 c5 11.dxc5 Nc6 12.Nb3 Nxc5 13.Be3 Nxb3 14.Qxb3 Qb8 15.Nd4 Be7 16.Bb5 Qc7 17.c4 Be4 18.Rac1 O-O 19.f3 dxc4 20.Bxc4 Nxd4 21.Bxd4 Bc6 22.Bb6 Qd7 23.Red1 Qe8 24.Bb5 Bxb5 25.Qxb5 Qxb5 26.axb5 Rfc8 27.Rxc8+ Rxc8 28.Bxa5 Kf8 29.Rd7 Rc2 30.Rxb7 Bc5+ 31.Kf1 Rxb2 32.Bc7 Ke8 33.Bd6 Bd4 34.h3 Rf2+ 35.Ke1 Rxg2 36.b6 Rb2 37.Re7+ Kd8 38.b7 Bxe5 39.Bxe5 Rb1+ 40.Kf2 Kxe7 41.b8=Q Rxb8 42.Bxb8 g5 43.Be5 f6 44.Bc3 Kf7 45.Ke3 Kg6 46.Ke4 h5 47.Bd4 g4 48.h4 gxf3 49.Bf2 Kf7 50.Kxf3 e5 51.Be1 Ke6 52.Ke4 f5+ 53.Ke3 Kd5 54.Bc3 Ke6 55.Ba1 Kd5 56.Bb2 Ke6 57.Bc3 Kd5 58.Ba5 Ke6 59.Bc7 Kd5 60.Kd3 Ke6 61.Bb8 Kd5 62.Bc7 Ke6 63.Kc4 f4 64.Kd3 Kf5 65.Bd6 e4+ 66.Ke2 Kg4 67.Be5 Kxh4 1/2-1/2

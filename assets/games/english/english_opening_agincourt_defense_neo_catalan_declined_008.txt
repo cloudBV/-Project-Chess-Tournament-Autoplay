@@ -1,0 +1,15 @@
+[Event "2026 India Rising Finals"]
+[Site "https://lichess.org/broadcast/india-rising-2026-finals/set-1/GQKCdOy4/NfIdjwgG"]
+[Date "2026.07.04"]
+[Round "1.1.2"]
+[White "Bok, Benjamin"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2697"]
+[ECO "A14"]
+[TimeControl "600"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.cxd5 exd5 8.d4 Nc6 9.Bb2 Ne4 10.dxc5 Bxc5 11.Nc3 Nxc3 12.Bxc3 d4 13.Bb2 Re8 14.Rc1 Bb6 15.a3 Bf5 16.b4 a6 17.Qd2 Be4 18.Rfd1 Qd5 19.Ne1 Rad8 20.Bxe4 Qxe4 21.Rc2 Re7 22.Qd3 Qe6 23.Nf3 h6 24.b5 axb5 25.Qxb5 Ba7 26.Rcd2 Red7 27.Qd3 Rd5 28.Kg2 Rh5 29.h4 Rhd5 30.Qb3 R8d7 31.e3 Na5 32.Qa2 d3 33.Bd4 Bxd4 34.exd4 Nc6 35.Rxd3 g5 36.hxg5 hxg5 37.Re3 Qf6 38.Qb1 Nxd4 39.Nxd4 Rxd4 40.Rxd4 Qxd4 41.Qf5 Qd5+ 42.Qxd5 Rxd5 43.Rb3 b5 44.Rb4 Kg7 45.a4 bxa4 46.Rxa4 Rc5 47.Rb4 f6 48.Ra4 Kg6 49.Rb4 Rd5 50.Ra4 Rc5 51.Rb4 Rc6 52.Ra4 Rc7 53.Rb4 Rd7 54.g4 Rd5 55.Kg3 Re5 56.f4 gxf4+ 57.Rxf4 f5 58.Rxf5 Rxf5 59.gxf5+ Kxf5 1/2-1/2

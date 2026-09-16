@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "8.1"]
+[White "Kawka, Milena"]
+[Black "Szczotka, Klara"]
+[Result "1/2-1/2"]
+[WhiteElo "2039"]
+[BlackElo "2009"]
+[ECO "E45"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, Fischer Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6 6.Ng3 Bxc3+ 7.bxc3 d5 8.cxd5 Bxf1 9.Rxf1 Qxd5 10.f3 O-O 11.Kf2 c5 12.e4 Qc4 13.Qb3 Qxb3 1/2-1/2

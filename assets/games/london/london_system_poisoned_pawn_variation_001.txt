@@ -1,0 +1,15 @@
+[Event "Round 7: Suleymanli, Suleyman - Tezcan, Alper"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/vmnFaqRe"]
+[Date "2026.07.03"]
+[Round "7.14"]
+[White "Suleymanli, Suleyman"]
+[Black "Tezcan, Alper"]
+[Result "1-0"]
+[WhiteElo "2414"]
+[BlackElo "2285"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "London System: Poisoned Pawn Variation"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Qb6 5.Nc3 a6 6.a3 cxd4 7.exd4 Bg4 8.Na4 Qa5+ 9.c3 Bxf3 10.gxf3 Nbd7 11.b4 Qd8 12.Nc5 Qc8 13.Rc1 b6 14.Nb3 g6 15.c4 dxc4 16.Rxc4 Qb7 17.Rc7 Qd5 18.Qc2 Qe6+ 19.Be2 Rd8 20.Rc8 Nd5 21.Bg3 1-0

@@ -1,0 +1,15 @@
+[Event "Silvertown (London City Airport Docklands) FIDE Congress 11th-12th July 2026 - Under 2400"]
+[Site "The Tate Institute, 1 Wythes Road, London E16 2DN, United Kingdom"]
+[Date "2026.07.12"]
+[Round "4.1"]
+[White "Shevkunov, Vladyslav"]
+[Black "Xian, Junhao"]
+[Result "1/2-1/2"]
+[WhiteElo "2164"]
+[BlackElo "2277"]
+[ECO "A10"]
+[TimeControl "G: 60 minutes + 30 seconds incr. from move 1"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+
+1.c4 f5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.b4 O-O 6.Rb1 d6 7.d3 e5 8.e3 c6 9.b5 Re8 10.Nge2 Be6 11.O-O d5 12.bxc6 bxc6 13.cxd5 cxd5 14.Ba3 Nc6 15.Qa4 Qd7 16.Rfc1 Rec8 17.Qa6 Rab8 18.Nxd5 Bxd5 19.Rxb8 Rxb8 20.Bxd5+ Qxd5 21.Rxc6 Qxa2 22.Rc8+ Rxc8 23.Qxc8+ Kf7 24.Qc7+ Kg8 25.Qb8+ Kf7 26.Qxa7+ Kg8 27.Qb8+ Kf7 28.Qb7+ Kg8 29.Bb2 h6 30.Nc1 Qe6 31.Qb8+ Ne8 32.Nb3 Kh7 33.Nc5 Qc6 34.Qa7 Nc7 35.h4 g5 36.hxg5 hxg5 37.d4 f4 38.exf4 gxf4 39.Qa3 exd4 40.gxf4 Qg6+ 41.Kf1 Nd5 42.Qh3+ Kg8 43.Qc8+ Kh7 44.Qh3+ Kg8 45.Qe6+ Qf7 46.f5 Ne7 47.Qxf7+ Kxf7 48.Ne6 Nxf5 49.Nxg7 Kxg7 50.Ke2 Kf6 51.Kd3 Ke5 52.Bc1 Kd5 53.Bf4 Ng7 54.Bh6 Nf5 1/2-1/2

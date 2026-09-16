@@ -1,0 +1,15 @@
+[Event "Round 6: Abdsattar, Alisher - Zhao, Liming"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-6/dML8kQ2c/N0ScVdP9"]
+[Date "2026.07.21"]
+[Round "6.14"]
+[White "Abdsattar, Alisher"]
+[Black "Zhao, Liming"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "2051"]
+[ECO "B42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.Qe2 d6 7.c4 Nbd7 8.O-O Qc7 9.Nc3 Ne5 10.h3 Nxd3 11.Qxd3 Be7 12.Be3 O-O 13.Rfd1 b6 14.Rac1 Bb7 15.b3 Rac8 16.f3 Rfe8 17.Qe2 Qb8 18.Qf2 Ba8 19.a4 Bd8 20.Nde2 Bc7 21.Bd4 Nd7 22.Qg3 f6 23.Qf2 Ne5 24.Be3 Nc6 25.Rd2 Rcd8 26.Rcd1 Nb4 27.Kh1 Re7 28.Bf4 Red7 29.Qg3 Kf7 30.e5 d5 31.exf6 Kxf6 32.Ne4+ Kf7 33.Ng5+ Kf6 34.Nxh7+ Kf7 35.Ng5+ Kf6 36.Bxc7 Qxc7 37.Nf4 Rd6 38.Ngxe6 1-0

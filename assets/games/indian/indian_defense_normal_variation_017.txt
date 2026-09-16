@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.3"]
+[White "Babula, Vlastimil"]
+[Black "Korshunov, Sergey And."]
+[Result "1/2-1/2"]
+[WhiteElo "2511"]
+[BlackElo "2362"]
+[ECO "A50"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 Ng8 1/2-1/2

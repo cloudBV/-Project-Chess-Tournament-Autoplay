@@ -1,0 +1,14 @@
+[Event "Round 4: Univio Sanchez, German - Munoz Galvez, Jhon Edison"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-4/Q9fLbdxj/yMzOA7Vu"]
+[Date "2026.07.12"]
+[Round "4.9"]
+[White "Univio Sanchez, German"]
+[Black "Munoz Galvez, Jhon Edison"]
+[Result "0-1"]
+[WhiteElo "2061"]
+[BlackElo "2223"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.Nbd2 d5 5.g3 Bd6 6.Bg2 Nge7 7.O-O f6 8.Re1 d4 9.a4 e5 10.Nc4 Bc7 11.Bd2 Be6 12.Rb1 Qd7 13.Re2 O-O 14.Nh4 g5 15.Nf5 Nxf5 16.exf5 Bxf5 17.b4 cxb4 18.Bxb4 Rf7 19.a5 Rb8 20.Qc1 Bg4 21.Re1 Be6 22.Qa3 Bd5 23.Bxd5 Qxd5 24.Bd6 Rd8 25.Bxc7 Rxc7 26.Nd2 Qxa5 27.Qc1 h6 28.Qd1 f5 29.Nc4 Qd5 30.Qh5 b5 31.Nd2 Kg7 32.h4 Rd6 33.hxg5 Rf7 34.Nf3 Rg6 35.gxh6+ Rxh6 36.Qg5+ Rg6 37.Qh5 Rf8 38.Nh4 Rgf6 39.Qg5+ Kh7 40.Kf1 Nd8 41.Ra1 R8f7 42.Rxa7 Qe6 43.Ra8 Qd5 44.Ra7 Qh1+ 45.Ke2 Qc6 46.Rea1 Qxc2+ 47.Kf1 Qc6 48.Ra8 Qd5 49.R1a7 Rc6 50.Qh5+ Rh6 51.Qg5 Rc6 52.Rxd8 Qh1+ 53.Ke2 Rc2+ 0-1

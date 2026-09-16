@@ -1,0 +1,15 @@
+[Event "Round 2: Kurmangaliyeva, Liya - Novozhilov, Semen"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/cZlxiBl1"]
+[Date "2026.07.22"]
+[Round "2.6"]
+[White "Kurmangaliyeva, Liya"]
+[Black "Novozhilov, Semen"]
+[Result "0-1"]
+[WhiteElo "2361"]
+[BlackElo "2445"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Re1 Be6 10.Bf3 Nbd7 11.a4 a5 12.Nd2 Nb8 13.Nd5 Nxd5 14.exd5 Bf5 15.Nc4 Nd7 16.b3 Bg6 17.Ba3 Qc7 18.Bh5 Bxh5 19.Qxh5 f5 20.Rad1 Nc5 21.Qe2 Rac8 22.Qd2 Ne4 23.Qd3 g6 24.f3 Nc5 25.Bxc5 Qxc5+ 26.Qe3 Qb4 27.Qd2 Rc5 28.Qe3 Rfc8 29.Rb1 R5c7 30.Qb6 Rc5 31.Red1 Ra8 32.c3 Qxb6 33.Nxb6 Ra6 34.Nc4 Bd8 35.Kf1 Bc7 36.Rd3 b5 37.Nb2 Ra8 38.b4 axb4 39.cxb4 Rc2 40.a5 Rc8 41.Nd1 Bb8 42.Rbb3 Ba7 43.Rdc3 Bd4 44.Rxc8+ Rxc8 45.Ra3 Kf7 46.a6 e4 47.fxe4 fxe4 48.Ke2 Kf6 49.Ne3 Ke5 50.Ra5 h5 51.a7 Ra8 52.Rxb5 Bxe3 53.Kxe3 Rxa7 54.Ra5 Rc7 55.Kd2 Rc4 56.Rb5 Kd4 57.Ra5 Rxb4 58.Ke2 Rb2+ 59.Kf1 Rd2 60.Ra8 Ke3 0-1

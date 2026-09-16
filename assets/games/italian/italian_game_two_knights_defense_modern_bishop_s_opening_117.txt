@@ -1,0 +1,15 @@
+[Event "Round 4: Harsh Suresh - Tsydypov, Zhamsaran"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/2qftMFSi"]
+[Date "2026.07.24"]
+[Round "4.13"]
+[White "Harsh Suresh"]
+[Black "Tsydypov, Zhamsaran"]
+[Result "1-0"]
+[WhiteElo "2457"]
+[BlackElo "2525"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O d6 6.a4 O-O 7.Re1 Be6 8.Bxe6 fxe6 9.c3 a5 10.Be3 Qd7 11.Nbd2 d5 12.Bg5 Bc5 13.Bh4 Rae8 14.Bg3 Qf7 15.Qb3 Bb6 16.Re2 Nd7 17.exd5 exd5 18.Ng5 Nc5 19.Nxf7 Nxb3 20.Nh6+ gxh6 21.Nxb3 Nb8 22.Rae1 Nd7 23.d4 e4 24.f3 Nf6 25.Bh4 exf3 26.gxf3 Rxe2 27.Rxe2 Nh5 28.Re3 Ng7 29.Bg3 Nf5 30.Re5 c6 31.Kg2 h5 32.Re1 Kf7 33.Nc1 c5 34.Nd3 cxd4 35.Ne5+ Ke8 36.Nc4+ Ne3+ 37.Rxe3+ dxe3 38.Nxb6 Rf5 39.Kf1 h4 40.Bxh4 Rxf3+ 41.Ke2 Rf4 42.Bg3 Re4 43.b3 d4 44.cxd4 Rxd4 45.Nc4 Rd5 46.Bc7 Ke7 47.Bxa5 Rh5 48.Bc7 b5 49.Nxe3 bxa4 50.bxa4 Kd7 51.Bg3 Kc6 52.Nd1 Kc5 53.Kd3 Rd5+ 54.Kc2 Rf5 55.Nb2 Rf3 56.Nd3+ Kd4 57.Nb2 Rc3+ 58.Kb1 Rb3 59.Ka2 Kc3 60.Be1+ Kc2 61.Nc4 Rh3 62.Na3+ Kd3 63.Bg3 Kc3 64.a5 Kb4 65.a6 Rh6 66.Be1+ Kc5 67.a7 Ra6 68.Bf2+ Kc6 69.Kb3 Kb7 70.Nb5 Kc6 71.Kb4 Ra2 72.Bd4 Kb7 73.Be5 1-0

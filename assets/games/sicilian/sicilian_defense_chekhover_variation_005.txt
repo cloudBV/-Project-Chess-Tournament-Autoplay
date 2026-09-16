@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "2.8"]
+[White "Kreken, Eivind Grunt"]
+[Black "Haug, Havard"]
+[Result "1/2-1/2"]
+[WhiteElo "2335"]
+[BlackElo "2432"]
+[ECO "B53"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 a6 5.h3 Nf6 6.c4 Nc6 7.Qe3 e6 8.Nc3 Qc7 9.Be2 Be7 10.O-O O-O 11.b3 b6 12.Ba3 Bb7 13.Rac1 Nb8 14.e5 dxe5 15.Bxe7 Qxe7 16.Qxb6 Nc6 17.Rfd1 Rfd8 18.Qe3 Qc7 19.Na4 e4 20.Nd4 Ne7 21.Nc2 Nd7 22.b4 Nf5 23.Qb3 Ne5 24.Nc5 Bc6 25.Qc3 Ng6 26.Ne3 Nf4 27.Bf1 Nh4 28.Kh1 Rxd1 29.Rxd1 Nxh3 30.Ng4 Nf4 31.Qe5 Qxe5 32.Nxe5 Be8 33.Rd6 Nf5 34.Rxa6 Rd8 35.g3 f6 36.gxf4 fxe5 37.Bg2 e3 38.fxe3 Nxe3 39.Rxe6 Bf7 40.Rc6 Nxg2 41.Nb7 Rb8 42.Kxg2 Be8 43.Na5 Rxb4 44.Kf3 e4+ 45.Kxe4 1/2-1/2

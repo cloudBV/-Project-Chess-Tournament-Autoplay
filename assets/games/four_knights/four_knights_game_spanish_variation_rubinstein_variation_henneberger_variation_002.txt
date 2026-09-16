@@ -1,0 +1,15 @@
+[Event "Round 7: Vehi Bach, Victor Manuel - Saurabh Anand"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-7/l06Qp43p/hvGHPHTq"]
+[Date "2026.07.10"]
+[Round "7.6"]
+[White "Vehi Bach, Victor Manuel"]
+[Black "Saurabh Anand"]
+[Result "1/2-1/2"]
+[WhiteElo "2201"]
+[BlackElo "2265"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.O-O c6 6.Bd3 Nxf3+ 7.Qxf3 Bd6 8.Be2 O-O 9.Qg3 Bc7 10.d3 d5 11.Bg5 Be6 12.h3 Kh8 13.Bg4 h6 14.Qh4 Kg8 15.Bxf6 Qxf6 16.Qxf6 gxf6 17.Ne2 dxe4 1/2-1/2

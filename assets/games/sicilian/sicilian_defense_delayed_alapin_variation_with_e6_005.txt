@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.28"]
+[White "Iravedra Iankov, Francisco"]
+[Black "Garrigue, Julian"]
+[Result "0-1"]
+[WhiteElo "2092"]
+[BlackElo "2275"]
+[ECO "B40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.Bc4 d6 6.exd6 Bxd6 7.d4 cxd4 8.Nxd4 O-O 9.O-O Bxh2+ 10.Kxh2 Qc7+ 11.Kg1 Qxc4 12.b3 Qc7 13.c4 Ne7 14.Qe2 a6 15.Ba3 Re8 16.Nd2 e5 17.N4f3 Nbc6 18.Ne4 Bg4 19.Nd6 Rf8 20.Qe3 Bxf3 21.Qxf3 Rad8 22.Rfd1 Rd7 23.c5 Nd4 24.Qd3 Ng6 25.Re1 Qc6 26.f3 Nb5 27.b4 Nf4 28.Qe3 Nxa3 29.Qxa3 Rxd6 30.cxd6 Qc2 0-1

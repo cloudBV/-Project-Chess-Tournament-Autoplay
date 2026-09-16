@@ -1,0 +1,15 @@
+[Event "Round 7: Bulockin, Martin - Miesbauer, Jan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/melPhoGY"]
+[Date "2026.07.19"]
+[Round "7.29"]
+[White "Bulockin, Martin"]
+[Black "Miesbauer, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2242"]
+[BlackElo "2357"]
+[ECO "D00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nd2 c5 1/2-1/2

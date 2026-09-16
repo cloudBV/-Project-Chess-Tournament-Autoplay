@@ -1,0 +1,14 @@
+[Event "Round 2: Tirard, Hugo - Julien, Jules-Alois"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-2/vaQgyEpD/KoM2neDF"]
+[Date "2026.07.19"]
+[Round "2.5"]
+[White "Tirard, Hugo"]
+[Black "Julien, Jules-Alois"]
+[Result "1-0"]
+[WhiteElo "2396"]
+[BlackElo "2135"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 a6 3.f4 b5 4.Nf3 Bb7 5.d4 cxd4 6.Qxd4 e6 7.Bd3 Qc7 8.Qf2 Nf6 9.e5 b4 10.exf6 bxc3 11.fxg7 Bxg7 12.b3 Nc6 13.a3 O-O-O 14.Be3 d5 15.Nd4 Rde8 16.O-O f6 17.b4 Nd8 18.b5 a5 19.b6 Qd7 20.Qe1 f5 21.Qxc3+ Kb8 22.Qxa5 Nc6 23.Qa4 Rhg8 24.Bb5 Rc8 25.Rab1 e5 26.Nxc6+ 1-0

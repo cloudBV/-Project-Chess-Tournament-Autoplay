@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "6.3"]
+[White "Pressler, Tobias"]
+[Black "Mica, Marek"]
+[Result "1/2-1/2"]
+[WhiteElo "2070"]
+[BlackElo "2284"]
+[ECO "C01"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Qf3 Nc6 5.c3 Be6 6.Bd3 Qd7 7.h3 Bd6 8.Ne2 Nge7 9.Bf4 O-O-O 10.Nd2 f6 11.O-O-O Ng6 12.Bxd6 Qxd6 13.h4 Nf8 14.Ng3 Nd7 15.Rde1 g6 16.h5 f5 17.hxg6 hxg6 18.Rxh8 Rxh8 19.Qe3 Bf7 20.Qg5 Qf6 21.Qf4 Rh4 22.Qf3 f4 23.Ne2 g5 24.g3 fxg3 25.fxg3 Rh6 26.Qe3 Qe7 27.Qxe7 Nxe7 28.Ng1 Re6 29.Rf1 Rf6 30.Rxf6 Nxf6 31.Ngf3 g4 32.Ne5 Be6 33.Nf1 c6 34.Kd2 Kc7 35.Ke3 Nh5 36.Ng6 Kd6 37.Nxe7 Kxe7 38.Bg6 Ng7 39.Kf4 Kf6 40.Bd3 Nh5+ 41.Ke3 Bf5 42.Be2 Kg5 43.Kf2 Nf6 44.Nd2 1/2-1/2

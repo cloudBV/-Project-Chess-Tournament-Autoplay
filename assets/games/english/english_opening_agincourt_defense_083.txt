@@ -1,0 +1,14 @@
+[Event "Round 4: Zwardon, Vojtech - Aleksanyan, Hrant"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-4/nGd9thue/9a83sq0v"]
+[Date "2026.07.20"]
+[Round "4.11"]
+[White "Zwardon, Vojtech"]
+[Black "Aleksanyan, Hrant"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2271"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 Nf6 3.b3 d5 4.Bb2 Bd6 5.g3 c5 6.cxd5 exd5 7.Bg2 Nc6 8.O-O d4 9.e3 O-O 10.Na3 a6 11.Nc2 dxe3 12.dxe3 Bg4 13.h3 Bh5 14.Qe2 Qe7 15.g4 Bg6 16.Nh4 Be5 17.Nxg6 fxg6 18.Bxe5 Qxe5 19.Rad1 g5 20.f4 gxf4 21.Qc4+ Kh8 22.exf4 Qe7 23.Rde1 Qd6 24.Re6 Qd7 25.f5 Nd4 26.Nxd4 cxd4 27.Rd1 Rad8 28.Qb4 Rf7 29.g5 Ng8 30.Be4 Qc7 31.Kg2 d3 32.Qd2 Re7 33.Rc1 Qd7 34.Re1 Rxe6 35.fxe6 Qxe6 36.Bxh7 Qd6 37.Be4 Qe5 38.Bxb7 Qb5 39.Be4 Qe5 40.Bf3 Qc5 41.b4 Qd6 42.Re4 Ne7 43.Rh4+ Kg8 44.Be4 Ng6 45.Rg4 Ne5 46.Rg3 Qd4 47.Bb7 Nc4 48.Qf2 d2 49.Qxd4 Rxd4 50.Bf3 d1=Q 51.Bxd1 Rxd1 52.Rc3 Rd4 53.a4 Kf7 54.b5 a5 55.Kg3 Ke6 56.h4 Nd6 57.Rc6 g6 58.Ra6 Rxa4 59.Kh3 Ra3+ 60.Kg4 Ra4+ 61.Kh3 Ke5 62.h5 gxh5 63.g6 Rg4 64.b6 a4 65.Ra5+ Kf6 66.Rd5 Ke6 67.Rxh5 Rxg6 68.Ra5 Rh6+ 1/2-1/2

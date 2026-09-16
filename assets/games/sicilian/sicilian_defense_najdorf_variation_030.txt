@@ -1,0 +1,14 @@
+[Event "Round 1.2: Beerdsen, Thomas - Van Wely, Loek"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-12/Zl2XONUQ/fQHSnVaK"]
+[Date "2026.06.09"]
+[Round "2.1"]
+[White "Beerdsen, Thomas"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[WhiteElo "2504"]
+[BlackElo "2640"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.a3 h6 8.Be3 e6 9.g4 b5 10.Bg2 Bb7 11.h4 Ne5 12.f3 Rc8 13.g5 Nc4 14.Bc1 hxg5 15.hxg5 Rxh1+ 16.Bxh1 Nh5 17.f4 Nxf4 18.Bxf4 e5 19.Bc1 exd4 20.Qxd4 Qd7 21.Bg2 Qg4 22.Kf1 d5 23.b3 Nd6 24.Bd2 Nxe4 25.Nxe4 dxe4 26.Re1 Qf5+ 27.Ke2 Qg4+ 28.Kf1 Qf5+ 29.Ke2 Bc5 30.Qxg7 Qg4+ 31.Kf1 Qf5+ 32.Ke2 Qf2+ 33.Kd1 Qxg2 34.Qe5+ Be7 35.Qh8+ Kd7 36.Qd4+ Ke8 37.Qh8+ Kd7 38.Qd4+ Bd6 0-1

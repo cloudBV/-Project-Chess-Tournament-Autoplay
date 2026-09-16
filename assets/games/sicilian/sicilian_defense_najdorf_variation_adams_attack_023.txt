@@ -1,0 +1,14 @@
+[Event "Round 2: Pranav Anand - Gkavardinas, Antonios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/TjtiGNCs"]
+[Date "2026.07.14"]
+[Round "2.2"]
+[White "Pranav Anand"]
+[Black "Gkavardinas, Antonios"]
+[Result "1-0"]
+[WhiteElo "2588"]
+[BlackElo "2304"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be7 8.g4 Be6 9.g5 Nfd7 10.h4 h6 11.Rg1 hxg5 12.hxg5 g6 13.Be3 Nb6 14.Qd2 N8d7 15.O-O-O Qc7 16.Kb1 O-O-O 17.Nd5 Bxd5 18.exd5 Rh4 19.Na5 Nc5 20.c4 Nba4 21.Qb4 Rdh8 22.Be2 Bd8 23.Nb3 Qb6 24.Qa3 a5 25.Nd2 Qb4 26.Qxb4 axb4 27.Kc2 Bb6 28.a3 b3+ 29.Kb1 Kc7 30.Rdf1 Ne4 31.Nf3 Rh3 32.Bxb6+ Nxb6 33.Rg4 Rxf3 34.Rxe4 Rf4 35.Re3 Rh2 36.Rxb3 Rfxf2 37.Rxf2 Rxf2 38.c5 Nc8 39.c6 bxc6 40.Ba6 Nb6 41.a4 cxd5 42.a5 Nc4 43.Bxc4 dxc4 44.Rb4 d5 45.a6 Rf1+ 46.Ka2 Rh1 47.Rb7+ Kc6 48.Rb8 1-0

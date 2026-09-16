@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-6/TDdeBJvE/eFYxId0j"]
+[Date "2026.07.17"]
+[Round "6.19"]
+[White "Carnicelli, Valerio"]
+[Black "Ribeiro, Jose"]
+[Result "1-0"]
+[WhiteElo "2436"]
+[BlackElo "2023"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Be7 5.Nf3 Nf6 6.Nxf6+ Bxf6 7.c3 Nd7 8.Be3 Qe7 9.Bd3 e5 10.dxe5 Nxe5 11.Nxe5 Bxe5 12.O-O O-O 13.Qc2 Qh4 14.g3 Qh5 15.Rfe1 Bg4 16.Be4 b6 17.Bxa8 Rxa8 18.Bd4 Bf3 19.Qd3 Bd6 20.Re3 Bc6 21.Rae1 Qd5 22.f3 Qxa2 23.b4 Qa4 24.Be5 Bf8 25.Bxc7 a5 26.bxa5 bxa5 27.Be5 Qb3 28.Rb1 Qa4 29.Bd4 g6 30.Kf2 Bd7 31.g4 Qa2+ 32.Re2 Qa3 33.Rb6 a4 34.Qc4 Rc8 35.Qd5 1-0

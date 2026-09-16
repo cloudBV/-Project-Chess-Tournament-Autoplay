@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "8.10"]
+[White "Baron Isanta, Jose Maria"]
+[Black "Gomez Navais, Marcal"]
+[Result "1-0"]
+[WhiteElo "2216"]
+[BlackElo "2095"]
+[ECO "B22"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 e6 5.g3 d6 6.exd6 Bxd6 7.d4 cxd4 8.Nxd4 O-O 9.Bg2 Nc6 10.O-O Nxd4 11.Qxd4 Qc7 12.Nd2 Bd7 13.Re1 Rfd8 14.Nc4 Bc5 15.Qg4 Nf6 16.Qh4 Bc6 17.Bf4 Qc8 18.Ne5 Bxg2 19.Kxg2 Be7 20.Bg5 Rd5 21.c4 Rd8 22.Qf4 Qc5 23.Qf3 Qb4 24.Re2 h6 25.Be3 Bd6 26.Bxh6 Bxe5 27.Rxe5 Qxb2 28.Rae1 Nh7 29.Bc1 Qxa2 30.Qe4 Nf6 31.Qh4 Rac8 32.c5 b6 33.Bg5 bxc5 34.Bxf6 gxf6 35.Qxf6 Rd5 36.R1e4 Rxe5 37.Rxe5 Kf8 38.Rh5 Ke8 39.Rh8+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2: Travadon, Loic - Sivakumar, Shaaketh"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/XNbC5eWQ"]
+[Date "2026.07.14"]
+[Round "2.8"]
+[White "Travadon, Loic"]
+[Black "Sivakumar, Shaaketh"]
+[Result "1-0"]
+[WhiteElo "2513"]
+[BlackElo "2292"]
+[ECO "E28"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Ne2 Qa5 8.Bd2 Ne4 9.Ng3 Nxd2 10.Qxd2 f5 11.Be2 Nc6 12.d5 Ne7 13.O-O d6 14.dxe6 Qc7 15.Rad1 Bxe6 16.Qxd6 Qxd6 17.Rxd6 Kf7 18.Rb1 Rab8 19.a4 Nc6 20.Nh5 Ke7 21.Rdd1 g5 22.Ng7 Bg8 23.Bd3 Be6 24.Nxe6 Kxe6 25.Be2 Rfd8 26.Rxd8 Rxd8 27.Rxb7 Rd2 28.Kf1 Ra2 29.f4 g4 30.Rxh7 Rxa4 31.e4 1-0

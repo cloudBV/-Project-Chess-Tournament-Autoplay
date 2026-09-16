@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/z81WeNkK"]
+[Date "2026.07.03"]
+[Round "7.29"]
+[White "Thompson, Ian D"]
+[Black "Farkash, Denys"]
+[Result "0-1"]
+[WhiteElo "2001"]
+[BlackElo "2097"]
+[ECO "A36"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 e5 7.d3 Nge7 8.O-O O-O 9.Rb1 f5 10.a3 a5 11.Bd2 Be6 12.Nd5 f4 13.gxf4 Bg4 14.f3 Bd7 15.fxe5 Nxd5 16.cxd5 Nxe5 17.f4 Nxd3 18.Bxa5 Qxa5 19.Qxd3 Bb5 20.Qd1 Qa6 21.Rf2 Bd3 22.Ra1 Bxb2 23.Ra2 Bxe2 24.Rxe2 Bd4+ 25.Kh1 Rxf4 26.e5 Bxe5 27.Rxe5 dxe5 28.d6 Raf8 29.Qd5+ R8f7 30.h3 Rd4 31.Qxc5 Qxd6 32.Qxd6 Rxd6 33.Rb2 Rfd7 34.Rb5 Re7 35.Rb4 Rd3 36.a4 Rd4 0-1

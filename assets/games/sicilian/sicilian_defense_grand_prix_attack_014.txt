@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.4"]
+[White "Vykouk, Jan"]
+[Black "Prokofiev, Valentyn"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "2434"]
+[ECO "B23"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.a4 d6 6.Bb5 Bd7 7.O-O a6 8.Bxc6 Bxc6 9.d3 Nf6 10.Qe1 O-O 11.Qh4 c4 12.f5 cxd3 13.cxd3 Qb6+ 14.Kh1 Rfc8 15.fxg6 hxg6 16.Bh6 Qxb2 17.Rac1 Be8 18.Nd5 Nxd5 19.Rb1 Qe2 20.Bxg7 Kxg7 21.Rbe1 Qxd3 22.exd5 Rc4 23.Qxe7 Qxd5 24.Ng5 Rg4 25.Ne6+ Kh7 26.Rxf7+ Bxf7 27.Qxf7+ Kh6 28.Qg7+ Kh5 29.Qh7# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 8: Jansen, Dirk Norbert - Balzer, Lars"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-8/1J1DUZFK/XE1OphYf"]
+[Date "2026.07.24"]
+[Round "8.12"]
+[White "Jansen, Dirk Norbert"]
+[Black "Balzer, Lars"]
+[Result "1-0"]
+[WhiteElo "2116"]
+[BlackElo "2008"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.Nc3 e5 5.g3 g6 6.Bg2 Bg7 7.O-O Nge7 8.d3 O-O 9.Be3 d6 10.Qd2 Nd4 11.Nh4 f5 12.f4 Rb8 13.Rae1 b5 14.fxe5 Bxe5 15.Bg5 Bf6 16.Bxf6 Rxf6 17.g4 Rf8 18.exf5 Nexf5 19.gxf5 Qxh4 20.Bd5+ Kh8 21.fxg6 Rxf1+ 22.Rxf1 Bh3 23.Rf7 hxg6 24.Ne4 Re8 25.Kh1 b4 26.Rf4 Bg4 27.Rxg4 Qg5 1-0

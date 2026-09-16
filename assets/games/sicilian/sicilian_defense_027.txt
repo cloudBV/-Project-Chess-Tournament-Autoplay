@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.8"]
+[White "Domanskiy, Mykola"]
+[Black "Cvek, Robert"]
+[Result "1-0"]
+[WhiteElo "2225"]
+[BlackElo "2449"]
+[ECO "B20"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 g6 3.f4 Bg7 4.Nf3 Nf6 5.d3 d5 6.e5 Nfd7 7.c3 e6 8.d4 b6 9.O-O Ba6 10.Be3 Qc8 11.Nbd2 O-O 12.Kh1 Nc6 13.Rg1 f6 14.Rc1 Bxe2 15.Qxe2 c4 16.g4 b5 17.Rg3 b4 18.Rcg1 bxc3 19.bxc3 fxe5 20.fxe5 Qa6 21.Rh3 Nd8 22.Ng5 h6 23.Ngf3 Nf7 24.Nf1 Rfb8 25.Qc2 Nf8 26.Ng3 Qb7 27.Bc1 Qb1 28.Qg2 Qd3 29.Nh5 Qe4 30.Re1 Qd3 31.Ng5 hxg5 32.Rxd3 cxd3 33.Nxg7 Kxg7 34.Qf3 Nh7 35.Qxd3 Rc8 36.Rf1 Rc6 37.Ba3 Rac8 38.Bb4 a5 39.Bxa5 Ra8 40.Qb5 1-0

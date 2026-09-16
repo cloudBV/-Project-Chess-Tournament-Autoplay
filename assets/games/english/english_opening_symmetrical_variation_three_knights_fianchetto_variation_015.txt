@@ -1,0 +1,15 @@
+[Event "Round 6: Buyuk, Eymen Eren - Yildiz, Talat"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/PZMtfpwa"]
+[Date "2026.07.16"]
+[Round "6.9"]
+[White "Buyuk, Eymen Eren"]
+[Black "Yildiz, Talat"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2268"]
+[ECO "A37"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.Nf3 c5 2.c4 g6 3.g3 Bg7 4.Bg2 Nc6 5.Nc3 d6 6.O-O Nf6 7.d4 cxd4 8.Nxd4 Bd7 9.Nxc6 bxc6 10.c5 d5 11.e4 dxe4 12.Nxe4 O-O 13.Nxf6+ Bxf6 14.Qa4 Qc8 15.Bf4 Bxb2 16.Rad1 Bh3 17.Bxh3 Qxh3 18.Qxc6 e5 19.Be3 Qc8 20.Qf6 Qf5 21.Qxf5 gxf5 22.Rd2 Bc3 23.Rd3 Ba5 24.Rb1 Rfd8 25.Rxd8+ Bxd8 26.Rb7 Kg7 27.h4 a6 28.Kf1 Rc8 29.Ke2 f4 30.gxf4 exf4 31.Bd4+ Kf8 32.h5 Be7 33.c6 Bd8 34.Bb6 Be7 35.Bc7 Bc5 36.Rb8 Rxb8 37.Bxb8 Ke7 38.Bxf4 Bd6 39.c7 1-0

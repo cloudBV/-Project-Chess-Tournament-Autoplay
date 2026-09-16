@@ -1,0 +1,14 @@
+[Event "Round 6: Schlais, Harald - Scheuermann, Bernhard"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/jUltBsrh"]
+[Date "2026.07.22"]
+[Round "6.6"]
+[White "Schlais, Harald"]
+[Black "Scheuermann, Bernhard"]
+[Result "0-1"]
+[WhiteElo "2238"]
+[BlackElo "2128"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.d4 cxd4 6.cxd4 Nc6 7.exd6 Qxd6 8.Nc3 g6 9.Bc4 Be6 10.Qb3 O-O-O 11.O-O Na5 12.Qa4 Nxc4 13.Qxc4+ Kb8 14.Qb5 Bg7 15.h3 Nxc3 16.bxc3 Bd5 17.Qe2 Rc8 18.Qe3 Qc6 19.Bd2 Bxf3 20.gxf3 g5 21.Qe4 Qd7 22.Rab1 f5 23.Qe2 f4 24.Qe4 Rc7 25.Kg2 e5 26.d5 h5 27.Rh1 Bf6 28.c4 Rg8 29.Kh2 g4 30.Rhg1 Bh4 31.fxg4 Bxf2 32.Qxe5 Bxg1+ 33.Rxg1 Ka8 34.Qxf4 hxg4 35.hxg4 Rcc8 36.Be3 Qh7+ 37.Kg3 Rh8 38.Qd4 Qh2+ 39.Kf3 Rhf8+ 40.Ke4 Qc2+ 41.Ke5 Rce8+ 42.Kd6 Qg6+ 0-1

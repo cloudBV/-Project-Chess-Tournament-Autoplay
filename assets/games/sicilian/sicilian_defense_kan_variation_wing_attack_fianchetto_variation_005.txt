@@ -1,0 +1,14 @@
+[Event "Round 3: Vihaan Karthikeya N - Gusain, Himal"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-3/pXuVbbsM/SEPbHUkS"]
+[Date "2026.07.13"]
+[Round "3.4"]
+[White "Vihaan Karthikeya N"]
+[Black "Gusain, Himal"]
+[Result "1-0"]
+[WhiteElo "2252"]
+[BlackElo "2451"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nc3 e6 3.Nge2 a6 4.g3 b5 5.d4 cxd4 6.Nxd4 Bb7 7.Bg2 Nf6 8.O-O b4 9.Na4 Bxe4 10.Bxe4 Nxe4 11.Re1 Nc5 12.c3 a5 13.Bf4 Nba6 14.Nf5 d5 15.Be5 f6 16.Nxc5 Nxc5 17.cxb4 Ne4 18.Nd4 Qd7 19.Rc1 fxe5 20.Qh5+ Qf7 21.Qxe5 Bd6 22.Qxe6+ Qxe6 23.Nxe6 Kf7 24.Nc7 axb4 25.Nxd5 Nf6 26.Nxf6 gxf6 27.a3 bxa3 28.bxa3 Rxa3 1-0

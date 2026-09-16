@@ -1,0 +1,15 @@
+[Event "Round 4: Tkachyov, Adil - Amirali, Abzal"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-open/round-4/bM1BpdzE/D6BWAIHe"]
+[Date "2026.07.24"]
+[Round "4.4"]
+[White "Tkachyov, Adil"]
+[Black "Amirali, Abzal"]
+[Result "1-0"]
+[WhiteElo "2062"]
+[BlackElo "2130"]
+[ECO "B21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: McDonnell Attack, Tal Gambit"]
+
+1.e4 c5 2.f4 d5 3.exd5 Nf6 4.Bb5+ Bd7 5.Bxd7+ Qxd7 6.c4 e6 7.Nf3 exd5 8.Ne5 Qf5 9.O-O Bd6 10.Nc3 O-O 11.g4 Qe6 12.g5 Bxe5 13.fxe5 Nfd7 14.cxd5 Qxe5 15.d4 Qxd4+ 16.Qxd4 cxd4 17.Nb5 Na6 18.Nxd4 Nb4 19.d6 g6 20.Bd2 Nd3 21.Bc3 Rad8 22.Rad1 N3c5 23.Rfe1 Rfe8 24.Re7 Ne4 25.Ba5 b6 26.Nc6 Rc8 27.Nxa7 Ra8 28.Bb4 Nec5 29.Bxc5 Nxc5 30.Nc6 Kf8 31.b4 Ne6 32.Rxe8+ 1-0

@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "8.6"]
+[White "Roca Planas, Edgar"]
+[Black "Rojas Keim, Luis"]
+[Result "0-1"]
+[WhiteElo "2184"]
+[BlackElo "2401"]
+[ECO "C15"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 dxe4 6.Qg4 Nf6 7.Qxg7 Rg8 8.Qh6 Rg6 9.Qd2 Nbd7 10.a4 c5 11.a5 Qc7 12.Ne2 e5 13.Bb2 Rb8 14.dxe5 Nxe5 15.Nf4 Rg4 16.Nd5 Nxd5 17.Qxd5 Be6 18.Bb5+ Kf8 19.Qd2 Rd8 20.Qh6+ Kg8 21.Be2 Rxg2 22.c4 Rg6 23.Qh5 Nxc4 24.Bxc4 Bxc4 25.Bc3 e3 26.fxe3 Rg2 27.Ra4 Qe7 28.Qf3 Qh4+ 0-1

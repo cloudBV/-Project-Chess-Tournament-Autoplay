@@ -1,0 +1,14 @@
+[Event "Round 6: Berling, Egil - Dingertz, Erik"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/n9Mczac5"]
+[Date "2026.07.02"]
+[Round "6.11"]
+[White "Berling, Egil"]
+[Black "Dingertz, Erik"]
+[Result "0-1"]
+[WhiteElo "2121"]
+[BlackElo "2211"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 c5 7.e4 Nc6 8.Re1 b5 9.e5 Nd7 10.Nf1 Bb7 11.h4 Qc7 12.Bf4 d4 13.N1h2 Nb6 14.Ng4 Nd5 15.Bg5 Rfd8 16.Nd2 a5 17.Ne4 c4 18.Qd2 Ncb4 19.a3 Na6 20.Bxe7 Qxe7 21.Nef6+ Kh8 22.Ne4 Rac8 23.h5 c3 24.bxc3 dxc3 25.Qc1 Nc5 26.h6 g6 27.Nd6 Rb8 28.Bxd5 Bxd5 29.Qf4 Rf8 30.Nf6 b4 31.d4 Nb7 32.Nd7 g5 33.Qc1 Nxd6 34.Nxb8 Nc4 35.Na6 Nd2 36.Re3 g4 37.axb4 Qg5 38.Nc7 Bf3 39.Rxf3 gxf3 40.bxa5 Qxh6 41.Qa3 Rg8 42.Qe7 Ne4 43.Qxf7 Rxg3+ 44.fxg3 Qe3+ 45.Kh1 Nxg3+ 46.Kh2 Qf2+ 47.Kh3 Qg2+ 48.Kg4 Nf5+ 49.Kf4 Qg3+ 0-1

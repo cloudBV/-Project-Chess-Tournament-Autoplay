@@ -1,0 +1,14 @@
+[Event "Round 2: Fodor, Tamas Jr. - Borsos, Bogdan"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-2/VxANujWG/IjYiUvE6"]
+[Date "2026.07.14"]
+[Round "2.6"]
+[White "Fodor, Tamas Jr."]
+[Black "Borsos, Bogdan"]
+[Result "1-0"]
+[WhiteElo "2494"]
+[BlackElo "2131"]
+[ECO "E47"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 Bxc3+ 6.bxc3 d6 7.f4 e5 8.fxe5 dxe5 9.Ne2 Re8 10.O-O Nc6 11.Ng3 e4 12.Be2 b6 13.Ba3 Na5 14.Bb4 c5 15.dxc5 Be6 16.cxb6 axb6 17.Qxd8 Rexd8 18.c5 bxc5 19.Bxc5 Rd2 20.Bd4 Bxa2 21.Bxf6 gxf6 22.Rf2 Nb3 23.Raf1 Nc5 24.Nh5 Rxe2 25.Nxf6+ Kh8 26.Rxe2 Bc4 27.Rf5 Bxe2 28.Rxc5 Ra1+ 29.Kf2 Bd3 30.Nh5 h6 31.Kg3 Re1 32.Kf4 Re2 33.Rc8+ Kh7 34.Ke5 1-0

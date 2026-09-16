@@ -1,0 +1,15 @@
+[Event "Round 7: Koksal, Ege - Ilinca, Felix-Antonio"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/IeTWBiOI"]
+[Date "2026.07.03"]
+[Round "7.10"]
+[White "Koksal, Ege"]
+[Black "Ilinca, Felix-Antonio"]
+[Result "1/2-1/2"]
+[WhiteElo "2322"]
+[BlackElo "2495"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Dzindzi-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 a6 4.Qc2 d5 5.c5 Nc6 6.a3 e5 7.dxe5 Ne4 8.e3 Qe7 9.Nbd2 g6 10.b4 Bg7 11.Bb2 Nxd2 12.Qxd2 Bg4 13.Be2 Rd8 14.Nd4 1/2-1/2

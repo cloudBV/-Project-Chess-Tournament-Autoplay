@@ -1,0 +1,14 @@
+[Event "Round 7: Vassis, Michail - Spyratos, Nikolaos"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/u5oEqENp"]
+[Date "2026.07.23"]
+[Round "7.18"]
+[White "Vassis, Michail"]
+[Black "Spyratos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2200"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.Nf3 e4 4.Nd4 Nf6 5.Nc3 d5 6.cxd5 cxd5 7.Bg2 Bc5 8.Nb3 Bb6 9.d3 Bf5 10.dxe4 Nxe4 11.Qxd5 Bxf2+ 12.Kf1 Qxd5 13.Nxd5 Bb6 14.a4 Nc6 15.Nxb6 axb6 16.Be3 Ra6 17.Nd2 Nxd2+ 18.Bxd2 Bc2 19.Kf2 O-O 20.Rhc1 Rxa4 21.Rxa4 Bxa4 22.Be3 b5 23.Bd5 b4 24.Rc5 b3 25.Rc4 Bb5 26.Rf4 Ne5 27.Bxb3 Rc8 28.Rb4 Bc6 29.h3 h6 30.Bd4 Ng6 31.Bc3 Re8 32.Rd4 Bb5 33.e4 Bc6 34.Ke3 Ne5 35.Bd5 Re7 36.Bb4 Rd7 37.b3 Bxd5 38.exd5 f5 39.Bc3 Kf7 40.g4 Rc7 41.Bb4 Kf6 42.gxf5 Rc1 43.Re4 Rf1 44.Ke2 Rc1 45.d6 Nc6 46.d7 Kxf5 47.Re8 Rc2+ 48.Bd2 Rc5 49.d8=Q Nxd8 50.Rxd8 Rc6 51.Rd7 Rb6 52.b4 g5 53.Kf3 Rb5 54.Bc3 h5 55.Rf7+ Ke6 56.Rf6+ Ke7 57.Rh6 Rf5+ 58.Ke3 g4 59.hxg4 hxg4 60.Ke4 Rf7 61.Rg6 Kd7 62.Rxg4 Kc6 63.Rg5 Rh7 64.Rc5+ Kb6 65.Bd4 Ka6 66.Ra5# 1-0

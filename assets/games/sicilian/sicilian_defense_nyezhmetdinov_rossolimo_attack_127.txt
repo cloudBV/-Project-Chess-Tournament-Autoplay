@@ -1,0 +1,14 @@
+[Event "Round 3: Reichel, Jonathan - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-biel-hospital-centertri-rapid/round-3/hwdyMnjR/i0mvwUe8"]
+[Date "2026.07.22"]
+[Round "3.2"]
+[White "Reichel, Jonathan"]
+[Black "Cherniaev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2086"]
+[BlackElo "2299"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 d6 6.Bb2 e5 7.d3 f5 8.Nbd2 Nf6 9.Qe2 Be7 10.exf5 Bxf5 11.Ne4 O-O 12.O-O-O Kh8 13.h3 a5 14.a4 Nd5 15.g4 Be6 16.Rdg1 Rb8 17.h4 Qd7 18.Nfg5 Bg8 19.h5 Nf4 20.Qe3 d5 21.Bxe5 dxe4 22.Bxf4 exd3 23.Bxb8 Rxb8 24.h6 Bf6 25.hxg7+ Qxg7 26.Rh5 Bb2+ 27.Kb1 Ba3 28.Nf7+ Bxf7 29.Re5 dxc2+ 30.Kxc2 Bg6+ 31.Kd1 c4 32.bxc4 Bd6 33.Re6 Bf4 34.Qxf4 Qd7+ 35.Rd6 0-1

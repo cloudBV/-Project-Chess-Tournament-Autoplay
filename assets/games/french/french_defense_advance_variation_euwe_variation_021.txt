@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "7.4"]
+[White "Winter, Ondrej"]
+[Black "Mica, Marek"]
+[Result "1/2-1/2"]
+[WhiteElo "2360"]
+[BlackElo "2349"]
+[ECO "C02"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O Ng6 8.a3 a5 9.a4 Be7 10.Na3 cxd4 11.cxd4 Qb6 12.Nb5 O-O 13.Bd2 Na7 14.Qb3 Rfc8 15.g3 h6 16.Kg2 Bxb5 17.axb5 Nc6 18.Qa4 Nb4 19.Rfc1 Rxc1 20.Rxc1 Qd8 21.h4 Nf8 22.g4 Nd7 23.Kg3 Nb6 24.Qb3 Rc8 25.Rxc8 Qxc8 26.Qa3 Qa8 27.b3 Nd7 28.Qc1 Qb8 29.Kg2 Qd8 30.Kh3 Nf8 31.h5 Nh7 32.Nh2 f6 33.f4 fxe5 34.dxe5 Nf8 35.Nf3 Nd7 36.Be3 Qb8 37.Bd4 Bd8 38.f5 Nf8 39.f6 Qc7 40.Qd2 Qc2 41.fxg7 Kxg7 42.Qxc2 Nxc2 43.Bc5 Nd7 44.Bd6 Bb6 45.Kg3 Nd4 46.Nxd4 Bxd4 47.Kf4 Bg1 48.Bc7 Bh2+ 49.Ke3 Bxe5 50.Bxa5 b6 51.Be1 Bf6 52.Bf2 Be7 53.Kd2 Bb4+ 54.Kc2 Bc5 55.Bh4 Nf6 56.g5 hxg5 57.Bxg5 Ne4 58.Bf4 Bd6 59.Be3 Bc5 60.Bf4 Bd6 61.Be3 Bc5 1/2-1/2

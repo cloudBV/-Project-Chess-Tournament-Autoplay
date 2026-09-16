@@ -1,0 +1,15 @@
+[Event "Round 7: Kalyani Sirin - Priyanka Nutakki"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/wKuxw0TL"]
+[Date "2026.07.09"]
+[Round "7.18"]
+[White "Kalyani Sirin"]
+[Black "Priyanka Nutakki"]
+[Result "1-0"]
+[WhiteElo "2150"]
+[BlackElo "2255"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 Bd7 7.Nb5 Ng6 8.h4 a6 9.Na3 cxd4 10.cxd4 Bb4+ 11.Bd2 Qb6 12.Nc2 Bxd2+ 13.Qxd2 Qxb2 14.Bd3 Nf4 15.O-O Nxd3 16.Rfb1 Rc8 17.Rxb2 Nxb2 18.Rb1 Nc4 19.Qg5 O-O 20.Rxb7 h6 21.Qf4 Rfd8 22.Ne3 Rb8 23.Rxb8 Rxb8 24.Ng4 Kf8 25.h5 Rb1+ 26.Kh2 Rb2 27.Nxh6 Be8 28.Nh4 Ke7 29.Qg5+ Kd7 30.Qxg7 Rxf2 31.Ng4 Rf4 32.h6 Nxd4 33.h7 Ne3 34.Nxe3 Rxh4+ 35.Kg1 1-0

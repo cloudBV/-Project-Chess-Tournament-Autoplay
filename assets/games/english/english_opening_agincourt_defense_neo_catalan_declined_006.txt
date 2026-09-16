@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "4.12"]
+[White "Miyasaka, Marcus"]
+[Black "Dushyant Sharma"]
+[Result "1/2-1/2"]
+[WhiteElo "2289"]
+[BlackElo "2353"]
+[ECO "A14"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.Ne5 Qc7 9.f4 Nbd7 10.Nd3 e5 11.Bb2 Bd6 12.Na3 a6 13.Nc2 Rb8 14.fxe5 Nxe5 15.Nxe5 Bxe5 16.exd4 cxd4 17.Nb4 Bg4 18.Bf3 Bh3 19.Bg2 Bg4 20.Bf3 1/2-1/2

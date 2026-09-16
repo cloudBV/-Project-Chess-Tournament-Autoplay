@@ -1,0 +1,15 @@
+[Event "Round 7: Woodward, Andy - Nakamura, Hikaru"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-7/kwLWCMdV/RN7xlLxf"]
+[Date "2026.07.05"]
+[Round "7.4"]
+[White "Woodward, Andy"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteElo "2496"]
+[BlackElo "2838"]
+[ECO "E11"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.g3 b6 7.Bg2 Bb7 8.O-O a5 9.Qd3 d6 10.Nbd2 O-O 11.e4 e5 12.Rad1 Nc6 13.Rfe1 Re8 14.Nf1 Qc7 15.Ne3 Ne7 16.Nh4 Rad8 17.h3 g6 18.Rc1 Rc8 19.Kh2 Kg7 20.Rc2 Nc6 21.Nd5 Qd8 22.Nf3 Nb8 23.Rec1 Nbd7 24.Nd2 Ba6 25.Ne3 Nb8 26.Nf3 Nc6 27.Ng4 Nxg4+ 28.hxg4 h6 29.a3 bxa3 30.bxa3 a4 31.Qd2 Na5 32.Qb4 Qc7 33.c5 dxc5 34.dxc5 b5 35.c6 Nc4 36.Nd2 Qxc6 37.Nxc4 bxc4 38.f3 Rb8 39.Qa5 Rb3 40.Rc3 Qb5 41.Qc7 Rxc3 42.Rxc3 Qb2 43.Qa5 Bb5 44.Re3 Rc8 45.Rc3 Rc6 46.f4 Rd6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 5: Dhulipalla Bala Chandra Prasad - Bayrakoglu, Cinar"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/8sJmmFdD"]
+[Date "2026.07.16"]
+[Round "5.11"]
+[White "Dhulipalla Bala Chandra Prasad"]
+[Black "Bayrakoglu, Cinar"]
+[Result "0-1"]
+[WhiteElo "2426"]
+[BlackElo "2058"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 e6 5.Nf3 Nc6 6.Nbd2 Bd6 7.Bg3 O-O 8.Bb5 Ne7 9.Bd3 Qc7 10.Qe2 Nf5 11.Bxf5 exf5 12.Bxd6 Qxd6 13.dxc5 Qxc5 14.O-O Qc7 15.Nd4 Re8 16.Qf3 g6 17.Rfd1 Bd7 18.Nf1 a5 19.a4 Qb6 20.Qe2 Kg7 21.Qc2 Bc6 22.Ng3 Qc7 23.Nge2 Rad8 24.Nf4 Qe7 25.Qb3 Qc7 26.Rac1 Ne4 27.Qa2 Qb6 28.h3 Nc5 29.b3 Rc8 30.b4 axb4 31.cxb4 Qxb4 32.Qa1 Kg8 33.Nh5 gxh5 34.Nxf5 Ne6 35.Nh6+ Kf8 36.Qf6 Rc7 37.Nf5 Kg8 38.Nh6+ Kf8 39.Nf5 Kg8 40.Rxd5 Qe4 41.Rxc6 bxc6 42.Nh6+ Kf8 43.Nf5 Kg8 44.Re5 Qb1+ 45.Kh2 h6 46.Nxh6+ Kh7 47.e4 Qc1 48.Ng4 Ng7 49.Rg5 Qxg5 50.Qxg5 hxg4 51.a5 gxh3 52.Kxh3 c5 53.a6 c4 54.Qa5 Ree7 55.f4 c3 56.a7 c2 57.a8=Q c1=Q 58.e5 Rc3+ 0-1

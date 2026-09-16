@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.6"]
+[White "Balint, Peter"]
+[Black "Palomo Monserrat, Lorenzo"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2053"]
+[ECO "A14"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 dxc4 6.Qa4+ Bd7 7.Qxc4 Bc6 8.d3 O-O 9.Qc2 b6 10.a4 a5 11.Nc3 Na6 12.Nb5 Nb4 13.Qd1 Bb7 14.Bd2 c6 15.Na3 Qc7 16.Nc4 b5 17.Na3 Qb6 18.Be3 Qa6 19.Nd4 Nfd5 20.Bd2 Qa7 21.Bc3 Bf6 22.e3 bxa4 23.Nc4 Nxc3 24.bxc3 Nd5 25.Qd2 Ba6 26.Rxa4 Bb5 27.Rxa5 Qc7 28.Nxb5 cxb5 29.Rxb5 Nxc3 30.Bxa8 Nxb5 31.Bf3 Nd6 32.Qa5 Qd7 33.Ne5 Bxe5 34.Qxe5 Rd8 35.d4 h6 36.Ra1 Nc4 37.Qf4 Nd2 38.Rd1 Nxf3+ 39.Qxf3 Qa4 40.Rc1 Qd7 41.h4 Qd5 42.Qxd5 Rxd5 43.Rc8+ Kh7 44.Re8 h5 45.Kg2 Kg6 46.Kf3 Kf6 47.Ra8 e5 48.Ra6+ Ke7 49.Ke4 Rb5 50.dxe5 Rb2 51.Kf4 Rxf2+ 52.Ke4 Rf1 53.Ra7+ Ke6 54.Ra6+ Ke7 55.Rb6 Rf2 56.Rb8 g6 57.Rb7+ Ke6 58.Rb1 Rg2 59.Rb6+ Ke7 60.Kf3 Rc2 61.Ra6 Rb2 62.Kf4 Rf2+ 63.Ke4 Rf1 64.Ra3 Ke6 65.Rd3 Rf2 66.Rd1 Rg2 67.Rd6+ Ke7 68.Kf3 Rb2 69.Rf6 Rb1 70.Kf4 Rf1+ 71.Kg5 Re1 72.e6 fxe6 73.Rxg6 Rxe3 74.Kxh5 Kf7 75.g4 Rh3 76.Rg5 Kf6 77.Ra5 e5 78.Ra6+ Kg7 79.g5 e4 80.Ra7+ Kf8 81.Ra4 e3 82.Re4 Kg7 83.Kg4 1-0

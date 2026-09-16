@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.06.30"]
+[Round "1.1"]
+[White "Mach, Petr"]
+[Black "Gnojek, Petr"]
+[Result "*"]
+[WhiteElo "2115"]
+[BlackElo "2402"]
+[ECO "B45"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nb3 Bb4 7.Bd3 Nf6 8.O-O d5 9.Bg5 Bxc3 10.bxc3 dxe4 11.Bxe4 Qxd1 12.Bxc6+ Bd7 13.Re1 Qxa1 14.Rxa1 Bxc6 *

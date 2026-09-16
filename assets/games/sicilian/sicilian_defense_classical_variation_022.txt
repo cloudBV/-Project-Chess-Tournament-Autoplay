@@ -1,0 +1,15 @@
+[Event "Round 2: Payne, Matthew J - Buckley, Graeme N"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/HJk72nK4"]
+[Date "2026.07.22"]
+[Round "2.8"]
+[White "Payne, Matthew J"]
+[Black "Buckley, Graeme N"]
+[Result "0-1"]
+[WhiteElo "2094"]
+[BlackElo "2261"]
+[ECO "B56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.h3 e5 7.Nf3 h6 8.g4 Be6 9.g5 hxg5 10.Nxg5 Qb6 11.Bb5 a6 12.Be3 Qa5 13.Ba4 d5 14.exd5 Bxd5 15.O-O O-O-O 16.Bxc6 Bxc6 17.Qe2 Bb4 18.Qc4 Bxc3 19.bxc3 Qd5 20.Qxd5 Bxd5 21.Rfe1 Rh4 22.Rad1 Rc4 23.f4 exf4 24.Bd4 Rc6 25.Kf2 Bxa2 26.Ne4 Nxe4+ 27.Rxe4 g5 28.h4 Bd5 29.Re7 f6 30.hxg5 fxg5 31.Rg7 Rg8 32.Rxg8+ Bxg8 33.Be5 Re6 34.Bd6 Bh7 35.Rd2 Bg6 36.c4 Re4 37.c5 Rc4 38.Be7 g4 0-1

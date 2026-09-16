@@ -1,0 +1,15 @@
+[Event "Round 9: Yalcinkaya, Efe - Klein, Levent"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/nbKRBiXt"]
+[Date "2026.07.05"]
+[Round "9.19"]
+[White "Yalcinkaya, Efe"]
+[Black "Klein, Levent"]
+[Result "1/2-1/2"]
+[WhiteElo "2318"]
+[BlackElo "2164"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.c3 Nc6 7.O-O Bg4 8.Nbd2 cxd4 9.cxd4 a5 10.h3 Bh5 11.Nb1 Nge7 12.g4 Bg6 13.Nc3 Nc8 14.Be3 Be7 15.Ne1 O-O 16.f4 f5 17.exf6 Bxf6 18.Nf3 Nd6 19.Kh2 Nc4 20.Bc1 Qb6 21.Na4 Qc7 22.b3 Nd6 23.Be3 Ne4 24.Rc1 Be7 25.Ne5 Bd6 26.Kg2 Rad8 27.Bd3 Bxe5 28.fxe5 Rxf1 29.Qxf1 Rf8 30.Qe2 Qe7 1/2-1/2

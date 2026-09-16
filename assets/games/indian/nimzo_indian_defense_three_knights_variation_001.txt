@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-9/Yar24TEc/v7xAMLxk"]
+[Date "2026.07.05"]
+[Round "9.5"]
+[White "Perdomo, Leandro"]
+[Black "Supi, Luis Paulo"]
+[Result "0-1"]
+[WhiteElo "2349"]
+[BlackElo "2581"]
+[ECO "E21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.Bd2 Bb7 6.e3 O-O 7.Bd3 d6 8.O-O Nbd7 9.a3 Bxc3 10.Bxc3 Ne4 11.Be1 f5 12.Nd2 c5 13.f3 Ng5 14.f4 Nf7 15.b4 g6 16.Bf2 Qf6 17.Bc2 Qg7 18.Qe2 Rac8 19.Rad1 e5 20.fxe5 dxe5 21.dxc5 bxc5 22.Nb3 Ng5 23.e4 Ne6 24.Bxc5 Ndxc5 25.Nxc5 Nxc5 26.bxc5 f4 27.Ba4 Qe7 28.Rd7 Qxc5+ 29.Kh1 Ba8 30.Qd3 Qe3 31.Qd6 Qxe4 32.Qe6+ Kh8 33.Qh3 h5 34.Bd1 Rcd8 35.Bf3 Qxc4 36.Rfd1 Rxd7 37.Qxd7 Bxf3 38.gxf3 Qe2 39.Qd5 Kg7 40.Rg1 Rf6 41.Qb7+ Rf7 42.Qd5 e4 43.fxe4 Qf3+ 44.Rg2 Qf1+ 45.Rg1 Qf3+ 46.Rg2 Re7 47.Qd4+ Kh7 48.e5 Qf1+ 49.Rg1 Qf3+ 50.Rg2 Rb7 51.h4 Qh3+ 52.Kg1 Rb1+ 53.Kf2 Qxh4+ 54.Kf3 Rb3+ 0-1

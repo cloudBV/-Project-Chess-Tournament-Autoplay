@@ -1,0 +1,14 @@
+[Event "Round 8: Huschenbeth, Niclas - Engel, Luis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-8/kI8zp01N/RTjHk5aK"]
+[Date "2026.07.24"]
+[Round "8.5"]
+[White "Huschenbeth, Niclas"]
+[Black "Engel, Luis"]
+[Result "0-1"]
+[WhiteElo "2586"]
+[BlackElo "2588"]
+[ECO "B66"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O Be7 10.Bxf6 gxf6 11.Bc4 Bb7 12.Kb1 Qa5 13.Rhe1 h5 14.Re3 d5 15.Bb3 O-O-O 16.Rd3 Kb8 17.Qe2 Qc7 18.f4 dxe4 19.Qxe4 c5 20.Qa4 Rxd3 21.Rxd3 Rd8 22.Rxd8+ Qxd8 23.f5 Qd4 24.Qe8+ Ka7 25.a3 c4 26.Qxe7 cxb3 27.cxb3 exf5 28.Qxf7 h4 29.Ka2 f4 30.h3 Qf2 31.Qxf6 Bxg2 32.Qe7+ Bb7 33.Na4 Qe3 34.Qc7 Qxh3 35.Qxf4 Qg3 36.Qd4+ Kb8 37.Qd8+ Ka7 38.Qd4+ Kb8 39.Qd8+ Ka7 40.Qb6+ Ka8 41.Nc5 Bc8 42.Qd8 Qg4 43.Nxa6 Qd7 44.Qh8 h3 45.Nc5 Qc6 46.Nd3 Kb8 47.Nf4 Qd6 48.Qh4 Bf5 49.a4 Qd7 50.Ne2 Be6 51.Nc3 Kb7 52.Nb5 Kc8 53.Qh8+ Qd8 54.Qe5 Qe7 55.Qg3 Kd8 56.Qb8+ Kd7 57.a5 Qc5 58.Qb7+ Kd8 59.Qb8+ Ke7 60.a6 h2 61.Qb7+ Kf6 62.a7 Qd5 63.Nd6 h1=Q 64.Ne8+ Kf5 65.Nd6+ Kg6 66.Qb6 Qxb3+ 67.Qxb3 Bxb3+ 68.Kxb3 Qd5+ 69.Ka4 Qd4+ 70.Kb5 Qxa7 71.b4 Kf6 72.Kc6 Ke6 73.Nc4 Qd7+ 0-1

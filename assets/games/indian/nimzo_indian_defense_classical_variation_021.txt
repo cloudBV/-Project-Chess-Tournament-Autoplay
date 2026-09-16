@@ -1,0 +1,15 @@
+[Event "Round 5: Chang, Ethan - Scheglov, Gleb"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-5/xJC51h4A/IUUWAsQo"]
+[Date "2026.07.19"]
+[Round "5.15"]
+[White "Chang, Ethan"]
+[Black "Scheglov, Gleb"]
+[Result "1/2-1/2"]
+[WhiteElo "2089"]
+[BlackElo "2342"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d5 6.e5 Ne4 7.Bd3 c5 8.Nf3 cxd4 9.Nxd4 f5 10.exf6 Nxf6 11.cxd5 exd5 12.O-O Nc6 13.Be3 Bd6 14.Bf5 Qe8 15.Bxc8 Rxc8 16.Qf5 h5 17.Qe6+ Qxe6 18.Nxe6 Rfe8 19.Nd4 Bb4 20.Rac1 Bxc3 21.Rxc3 Nxd4 22.Bxd4 Rxc3 23.Bxc3 Kf7 24.Rd1 Ne4 25.Bd4 a6 26.f3 Ng5 1/2-1/2

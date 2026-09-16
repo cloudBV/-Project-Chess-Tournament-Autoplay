@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "Kaasen, Tor Fredrik"]
+[Black "Lie, Kjetil A."]
+[Result "1/2-1/2"]
+[WhiteElo "2489"]
+[BlackElo "2459"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.e5 Ne4 6.a3 Nxc3 7.bxc3 Be7 8.Bd3 b6 9.h4 Bb7 10.Ng5 Qd7 11.Qh5 Bxg5 12.Qxg5 g6 13.h5 Rf8 14.hxg6 hxg6 15.Rh7 Ne7 16.Qf6 Ng8 17.Qh4 Qc6 18.Kd2 Qa4 19.Ke1 Ba6 20.Bxa6 Qxa6 21.a4 Qc4 22.Kd2 Ne7 23.Ba3 c5 24.a5 Nf5 25.Qh3 Nxd4 26.cxd4 Qxd4+ 27.Qd3 Qxa1 28.Qb5+ Kd8 29.Bxc5 Rc8 30.axb6 axb6 31.Qxb6+ Ke8 32.Qb5+ Kd8 33.Qb4 Qa2 34.Rh3 Rg8 35.Qb6+ Ke8 36.Qb5+ Kd8 37.Rb3 Qa8 38.Bb6+ Ke7 39.Bc5+ Kd8 40.Bb6+ Ke7 41.Bc5+ 1/2-1/2

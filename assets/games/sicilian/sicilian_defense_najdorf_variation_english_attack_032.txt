@@ -1,0 +1,14 @@
+[Event "Blitz D18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.3"]
+[White "Seemann, Pola"]
+[Black "Obukhava, Anastasiya"]
+[Result "0-1"]
+[WhiteElo "2028"]
+[BlackElo "2063"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 h5 9.Qd2 Nbd7 10.Nd5 Bxd5 11.exd5 Qc7 12.O-O-O b5 13.Kb1 Nb6 14.Bxb6 Qxb6 15.Qb4 g6 16.Na5 Qc5 17.Qxc5 dxc5 18.c4 bxc4 19.Bxc4 Bd6 20.Nb7 Kd7 21.Nxd6 Kxd6 22.Rhe1 Rhe8 23.Re3 Nd7 24.Rb3 a5 25.Bb5 Reb8 26.a4 Ra7 27.Rc3 Rc7 28.g4 hxg4 29.fxg4 Rh8 30.Rf3 Rh7 31.Bc6 e4 32.Re3 Ne5 33.Rxe4 Rxh2 34.Rde1 Nxc6 35.dxc6 Kxc6 36.Rf4 Rb7 37.Rf6+ Kd5 38.Ref1 Rbxb2+ 39.Ka1 Ra2+ 40.Kb1 Rxa4 41.Rxf7 Rb4+ 42.Ka1 Rxg4 43.Ra7 a4 44.Rd1+ Kc6 45.Ra6+ Kb5 46.Ra8 Rc2 47.Rb1+ Kc6 48.Ra6+ Kd5 49.Rd1+ Ke5 50.Re1+ Kf5 51.Rf1+ Kg5 52.Ra5 Rcc4 53.Re1 Kf5 54.Rf1+ Rgf4 55.Rg1 g5 56.Ra8 g4 57.Rf8+ Ke4 58.Re8+ Kf3 59.Rf1+ Kg2 60.Rd1 g3 61.Re2+ Rf2 62.Ree1 Rcc2 63.Rg1+ Kh3 64.Rh1+ Kg4 65.Rhg1 g2 66.Rde1 Rc3 67.Kb1 Kg3 68.Ka1 Rcf3 69.Kb1 Rf1 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Ljungros, Lo - Valcu, Lavinia"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-6/e3xDzbQr/kNBS2oze"]
+[Date "2026.07.02"]
+[Round "6.1"]
+[White "Ljungros, Lo"]
+[Black "Valcu, Lavinia"]
+[Result "1/2-1/2"]
+[WhiteElo "2138"]
+[BlackElo "2146"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.e3 Nf6 4.Nc3 b6 5.b3 Bb7 6.Bb2 Nbd7 7.cxd5 exd5 8.Rc1 a6 9.Bd3 Bd6 10.Ne2 c5 11.Bb1 Qe7 12.d4 O-O 13.g4 c4 14.Ng3 Bb4+ 15.Kf1 g6 16.bxc4 Nxg4 17.Rg1 Qf6 18.cxd5 Qxf3 19.Qxf3 Nxh2+ 20.Ke2 Nxf3 21.Kxf3 f5 22.Rc7 Bxd5+ 23.Ke2 Nf6 24.Nxf5 Rac8 25.Rxc8 Rxc8 26.a3 Bf8 27.f3 Kf7 28.Ng3 b5 29.e4 Bc4+ 30.Bd3 h5 31.Nf1 h4 32.Ne3 Nh5 33.Bxc4+ bxc4 34.Ng4 Bg7 35.Bc3 Rb8 36.Kd2 Rb3 37.Rh1 g5 38.e5 Rxa3 39.d5 Nf4 40.e6+ Kg6 41.Bxg7 Kxg7 42.Rb1 Nxd5 43.Rb7+ Kf8 44.Ne5 Ne7 45.Nf7 Rb3 46.Ra7 Rb5 47.Rxa6 Kg7 48.Ra4 Kf6 49.Rxc4 h3 50.Rc1 Kxe6 51.Nh6 Nf5 52.Ng4 Nh4 53.Rh1 Nxf3+ 54.Ke2 Nd4+ 55.Kf2 Rb3 56.Ne3 g4 57.Nxg4 Rf3+ 58.Ke1 Rg3 59.Kf2 Rf3+ 60.Ke1 Rg3 61.Kf2 Nf5 62.Rg1 Ra3 63.Re1+ Kf7 64.Kg1 Nd4 65.Re3 Ra1+ 66.Kh2 Nf5 1/2-1/2

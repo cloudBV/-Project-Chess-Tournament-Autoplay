@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.6"]
+[White "Korshunov, Sergey And."]
+[Black "Prokofiev, Valentyn"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2434"]
+[ECO "B56"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.Nf3 c5 2.e4 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nb3 g6 7.Bd3 Bg7 8.O-O O-O 9.Qe2 a6 10.h3 Nd7 11.Be3 b5 12.Rad1 Bb7 13.f4 Rc8 14.Qf2 Na5 15.Bd4 e5 16.fxe5 Nxb3 17.axb3 Nxe5 18.b4 Qg5 19.Be3 Qe7 20.Qg3 Rfe8 21.Rf2 Nxd3 22.cxd3 d5 23.Bc5 Qd7 24.exd5 Bxd5 25.Nxd5 Qxd5 26.Qf3 Qxf3 27.Rxf3 a5 28.d4 axb4 29.Rb3 Red8 30.Rdd3 Rd5 31.Kf2 Rcd8 32.Ke3 Re8+ 33.Kf2 Re4 34.Kf3 f5 35.Bxb4 Rdxd4 36.Rxd4 Rxd4 37.Bc5 Rd2 38.Rxb5 Rxb2 39.Rxb2 Bxb2 40.g4 Kf7 41.gxf5 gxf5 42.Be3 Kg6 43.Bf2 Bf6 44.Bg3 Bg5 45.Be5 Kf7 46.Bg3 Ke6 47.Bh2 Kd5 48.Bg3 Bf6 49.Bf2 Be5 50.Be3 Kc4 51.Bf4 Bf6 52.Bc1 Kd5 53.Be3 Ke6 54.Bf4 Be5 55.Be3 Kf6 56.Bf2 Kg6 57.Bh4 Bf6 58.Bg3 Bg5 59.Bf2 Kh5 60.Bg3 Be7 61.Bf2 Bd6 62.Be1 Kg5 63.Bf2 Be5 64.Be1 Bf6 65.Bg3 Be7 66.Bf2 Kg6 67.Bg3 Kh5 68.Bf2 Bh4 69.Bc5 Be1 70.Be7 Bd2 71.Bf6 Bg5 72.Be5 Kh4 73.Kg2 Be7 74.Bg3+ Kg5 75.Kf3 Kh5 76.Bf2 1/2-1/2

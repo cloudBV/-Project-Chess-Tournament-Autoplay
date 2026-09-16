@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "7.8"]
+[White "Szlod, Wiktor"]
+[Black "Warchol, Kamil"]
+[Result "1-0"]
+[WhiteElo "2022"]
+[BlackElo "2277"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 e6 4.O-O Nf6 5.c4 d4 6.e3 Nc6 7.exd4 cxd4 8.d3 Bd6 9.a3 a5 10.Nbd2 O-O 11.Rb1 Re8 12.Ng5 e5 13.Nde4 Nxe4 14.Nxe4 Be7 15.f4 f5 16.Ng5 h6 17.Bd5+ Qxd5 18.cxd5 Nd8 19.Nf3 e4 20.dxe4 fxe4 21.Ne5 Bc5 22.Kh1 Bf5 23.b4 axb4 24.axb4 Bb6 25.Bb2 e3 26.Qh5 Be4+ 27.Nf3 Nf7 28.Kg1 Ra2 29.Ne5 Re7 30.Ra1 Rxb2 31.Ra8+ Nd8 32.d6 Rg2+ 33.Kh1 e2 34.Re1 Rf2+ 35.Kg1 Rg2+ 36.Kh1 d3 37.Rxd8+ 1-0

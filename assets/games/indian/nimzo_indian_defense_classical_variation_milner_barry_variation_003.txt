@@ -1,0 +1,15 @@
+[Event "Round 6: Smolik, Jachym - Sahidi, Samir"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/thNeBjys"]
+[Date "2026.07.19"]
+[Round "6.2"]
+[White "Smolik, Jachym"]
+[Black "Sahidi, Samir"]
+[Result "1/2-1/2"]
+[WhiteElo "2373"]
+[BlackElo "2485"]
+[ECO "E33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 6.Bd2 O-O 7.a3 Bxc3 8.Bxc3 Qe7 9.e3 e5 10.d5 Nb8 11.b4 Nbd7 12.Be2 b6 13.O-O Bb7 14.Nd2 Rfc8 15.b5 Nc5 16.a4 a5 17.Rae1 Rf8 18.Bd3 Rae8 19.f4 Nxd3 20.Qxd3 exf4 21.Rxf4 Nd7 22.Bd4 Ne5 23.Qc3 f6 24.Qc2 Bc8 25.Nf1 Ng6 26.Rf2 Qe4 27.Qxe4 Rxe4 28.Ng3 Re7 29.h3 Bd7 30.Ref1 Ne5 31.Bxe5 Rxe5 32.Rf3 Be8 33.Kf2 Bg6 34.Rc1 Rfe8 35.Rc3 h5 36.Rf4 Kf7 37.Ne2 Be4 38.h4 Bf5 39.Nd4 Bg4 40.Nf3 R5e7 41.Rd4 Re4 42.Rxe4 Rxe4 43.Nd2 Re8 44.Rc1 Bf5 45.Kf3 Kg6 46.Ke2 Be4 47.Rf1 Bf5 48.Rc1 Kh6 49.Rf1 Be4 50.g3 Bg2 51.Rg1 Bh3 52.Rh1 Bf5 53.Rf1 Re5 54.Nb3 Bh3 55.Rf2 Kg6 56.Nd4 Bg4+ 57.Kd3 Kf7 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 5: Andersen, Mads - Mantazis, Georgios Rafail"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/E6Qjh6v4"]
+[Date "2026.07.21"]
+[Round "5.8"]
+[White "Andersen, Mads"]
+[Black "Mantazis, Georgios Rafail"]
+[Result "1-0"]
+[WhiteElo "2559"]
+[BlackElo "2134"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.Na4 Bb6 7.a3 h6 8.h3 O-O 9.O-O Be6 10.Bxe6 fxe6 11.b4 Qe8 12.c3 Nh5 13.Ra2 Nf4 14.Re1 Qg6 15.Bxf4 Rxf4 16.Nxb6 axb6 17.g3 b5 18.Re3 Rff8 19.Nh4 Qf7 20.Rf3 Qd7 21.Rxf8+ Rxf8 22.a4 bxa4 23.Qxa4 d5 24.Ng6 Rf6 25.Qa8+ Kf7 26.Nh8+ Ke7 27.Qg8 Kd6 28.b5 Qe7 29.bxc6 Rf8 30.Qh7 Qe8 31.cxb7 1-0

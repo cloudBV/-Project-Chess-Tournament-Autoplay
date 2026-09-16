@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Nomin-Erdene, Davaademberel"]
+[Black "Lazarne Vajda, Szidonia"]
+[Result "1-0"]
+[WhiteElo "2320"]
+[BlackElo "2295"]
+[ECO "B32"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 a6 7.N5c3 g6 8.Be3 Bg7 9.Na3 Nge7 10.Nc2 O-O 11.Qd2 f5 12.f3 fxe4 13.fxe4 Nd4 14.Nxd4 exd4 15.Bxd4 Nc6 16.Bxg7 Kxg7 17.O-O-O Bg4 18.Be2 Bxe2 19.Qxe2 Ne5 20.Rd4 Rc8 21.Rhd1 Rc6 22.Kb1 Qf6 23.b3 b5 24.Nd5 Qf2 25.Qxf2 Rxf2 26.Nb4 Rb6 27.cxb5 Rxb5 28.Nxa6 Rxg2 29.R4d2 Rg4 30.Re2 Nf7 31.Nc7 Re5 32.a4 Ng5 33.Rxd6 Nxe4 34.Rd7+ Kh6 35.Kb2 Nc5 36.Rxe5 Nxd7 37.Re2 Nc5 38.a5 Rb4 39.Re3 Rb7 40.Ne6 Nxe6 41.Rxe6 Rb5 42.a6 Rh5 43.a7 Rxh2+ 44.Ka3 Rh1 45.Re2 1-0

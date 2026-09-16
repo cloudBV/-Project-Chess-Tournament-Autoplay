@@ -1,0 +1,14 @@
+[Event "Round 8: Elmi, Saad Abobaker - Amonatov, Farrukh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-8/lrP5Tquh/stcV6jqZ"]
+[Date "2026.07.19"]
+[Round "8.7"]
+[White "Elmi, Saad Abobaker"]
+[Black "Amonatov, Farrukh"]
+[Result "1-0"]
+[WhiteElo "2409"]
+[BlackElo "2585"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Carlsen Variation"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 g6 6.b3 Bh6 7.f4 Nf6 8.Bb2 O-O 9.O-O-O a5 10.a4 Bg4 11.Be2 Nb4 12.Bxg4 Nxg4 13.h3 Nf6 14.g4 Bg7 15.Kb1 Rc8 16.Re1 Qc7 17.Nf3 Rfd8 18.Nd4 e5 19.Ndb5 Qb6 20.g5 Nh5 21.f5 Nf4 22.f6 Bf8 23.Ba3 d5 24.Bxb4 Bxb4 25.exd5 Qc5 26.Kb2 Nxd5 27.Rxe5 Qxb5 28.Nxd5 Bxd2 29.axb5 Kf8 30.c4 a4 31.h4 h6 32.Rh2 Ba5 33.Rhe2 axb3 34.Kxb3 Rd7 35.Re7 Rcd8 36.Rxd7 Rxd7 37.b6 hxg5 38.hxg5 Rd6 39.Rh2 Ke8 40.Rh8+ Kd7 41.Rb8 Re6 42.Rxb7+ Kc6 43.Rxf7 Bxb6 44.Nxb6 Kxb6 45.Re7 Rd6 46.f7 Rd3+ 47.Kb4 Rf3 48.Re6+ 1-0

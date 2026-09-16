@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.11"]
+[Round "8.9"]
+[White "El Mchaouri Mas, Younes"]
+[Black "Ashwath Kaushik"]
+[Result "0-1"]
+[WhiteElo "2132"]
+[BlackElo "2278"]
+[ECO "D00"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.Nc3 Nc6 4.e4 cxd4 5.exd5 dxc3 6.dxc6 Qxd1+ 7.Rxd1 bxc6 8.Bc7 e6 9.bxc3 Be7 10.Nf3 Nf6 11.Nd4 Nd5 12.Ba5 Bd7 13.Ba6 Rb8 14.O-O Bc5 15.Rb1 Ke7 16.Rb3 Bb6 17.Rfb1 c5 18.Bxb6 Rxb6 19.Rxb6 axb6 20.Ne2 Ra8 21.Bc4 Ra3 22.Bxd5 exd5 23.Rb2 g5 24.f3 Bc8 25.Rxb6 Rxa2 26.Rc6 Ba6 27.Ng3 Bc4 28.Rxc5 Kd6 29.Rc8 Rxc2 30.h3 Rxc3 31.Nf5+ Ke5 32.Ne7 Ke6 33.Rc7 d4 34.Kf2 Rc2+ 35.Ke1 d3 36.Nc6 Kd6 37.Rc8 Ba6 0-1

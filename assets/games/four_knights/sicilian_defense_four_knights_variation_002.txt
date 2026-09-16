@@ -1,0 +1,15 @@
+[Event "Round 3: Cigan, Jason - Kavutskiy, Kostya"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-3/CLvlcax5/SbRJfhiw"]
+[Date "2026.07.04"]
+[Round "3.20"]
+[White "Cigan, Jason"]
+[Black "Kavutskiy, Kostya"]
+[Result "1-0"]
+[WhiteElo "2013"]
+[BlackElo "2278"]
+[ECO "B45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d6 7.Be3 Be7 8.Qe2 Bd7 9.O-O-O Rc8 10.Ndb5 d5 11.exd5 exd5 12.Nxd5 O-O 13.Nxe7+ Qxe7 14.Nd6 Rb8 15.Bc5 Qd8 16.Qd2 b6 17.Be3 Be6 18.Bg5 Ne5 19.Qf4 Ned7 20.Nf5 Re8 21.Bb5 Qc8 22.Bxd7 Nxd7 23.Nd6 Qc5 24.Nxe8 Rxe8 25.Qe3 Qc6 26.Qc3 Qb5 27.Rhe1 Qxg5+ 28.Kb1 h6 29.Qc7 Qb5 30.Qxa7 Nc5 31.Qc7 Na4 32.Qe5 Qxe5 33.Rxe5 Ba2+ 34.Kxa2 Rxe5 35.Rd2 Rh5 36.h3 Rb5 37.b3 Nc3+ 38.Kb2 Ne4 39.Re2 f5 40.f3 Nf6 41.Re6 Kf7 42.Rc6 Nd5 43.c4 Ra5 44.cxd5 Rxd5 45.Kc3 b5 46.b4 Re5 47.Rc5 Re2 48.Rxf5+ Ke6 49.Rxb5 Rxg2 50.a4 Rg3 51.a5 Rxf3+ 52.Kc4 Rxh3 53.a6 Rh4+ 54.Kc5 Rh1 55.a7 Rc1+ 56.Kb6 Rc8 57.Kb7 1-0

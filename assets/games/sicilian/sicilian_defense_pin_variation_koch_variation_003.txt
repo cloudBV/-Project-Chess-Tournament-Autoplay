@@ -1,0 +1,15 @@
+[Event "Round 4: Singh, Siddharth - Vehi Bach, Victor Manuel"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-4/JBi8BWpT/jr1cTcGN"]
+[Date "2026.06.29"]
+[Round "4.1"]
+[White "Singh, Siddharth"]
+[Black "Vehi Bach, Victor Manuel"]
+[Result "1-0"]
+[WhiteElo "2361"]
+[BlackElo "2201"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Pin Variation, Koch Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Nd5 7.Qg4 Kf8 8.Bd2 h5 9.Qe4 d6 10.Ndb5 Bxc3 11.Nxc3 dxe5 12.Qxe5 Nc6 13.Qe4 Nxc3 14.Bxc3 Qd5 15.Qh4 f6 16.Rd1 Qf5 17.f3 Kf7 18.Bc4 b5 19.Bd3 Qc5 20.Qg3 e5 21.Bg6+ Kf8 22.Qf2 Qxf2+ 23.Kxf2 Ke7 24.Be4 Bd7 25.Rd5 b4 26.Bd2 f5 27.Bg5+ Ke6 28.Rhd1 Nd4 29.Bf4 exf4 30.R5xd4 fxe4 31.Rxe4+ Kf5 32.Rd5+ Kg6 33.Rxd7 Rhc8 34.Rd2 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2: Saine, Zachary - Keleberda, Tymur"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/avJWaCY8"]
+[Date "2026.07.19"]
+[Round "2.1"]
+[White "Saine, Zachary"]
+[Black "Keleberda, Tymur"]
+[Result "0-1"]
+[WhiteElo "2124"]
+[BlackElo "2321"]
+[ECO "B18"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.h5 Bh7 8.Nf3 Nd7 9.Bd3 Bxd3 10.Qxd3 e6 11.Be3 Ngf6 12.O-O-O Qc7 13.Kb1 O-O-O 14.c4 Kb8 15.Rh4 Ka8 16.Qc2 Be7 17.Ne2 Nh7 18.Rhh1 Ng5 19.Bf4 Qa5 20.Rd3 Qf5 21.Bc7 Rc8 22.Bh2 Rhd8 23.Nc3 Nxf3 24.Rxf3 Qxh5 25.c5 b6 26.b4 Nf6 27.Ne2 Nd5 28.Kb2 bxc5 29.bxc5 Rb8+ 30.Rb3 Rxb3+ 31.axb3 Bf6 32.Qc4 Qg5 33.Ra1 Qd2+ 34.Ka3 Qa5+ 35.Kb2 Qb4 36.Qxb4 Nxb4 37.Kc3 Nd5+ 38.Kc4 Ne7 39.b4 Nf5 40.Rd1 a6 41.Rd3 h5 42.f3 h4 43.Bg1 Rh8 44.Bh2 Kb7 45.Nc3 Rd8 46.Ne4 Rxd4+ 47.Rxd4 Bxd4 48.Ng5 Bf6 49.Nxf7 Ne3+ 50.Kd3 Nxg2 51.Nd6+ Ka7 52.Nc8+ Ka8 53.Nb6+ Kb7 54.Nc4 Bd8 55.Ke2 h3 56.Kf2 Bh4+ 57.Kg1 Ne1 58.Na5+ Kc8 59.Nxc6 Nxf3+ 60.Kh1 Be1 61.Bd6 g5 0-1

@@ -1,0 +1,14 @@
+[Event "Blitz C14"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "5.2"]
+[White "Kiszkiel, Oskar"]
+[Black "Golis, Wiktor"]
+[Result "0-1"]
+[WhiteElo "2229"]
+[BlackElo "2291"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.b3 d4 7.Bb2 c5 8.Ne5 Qc7 9.f4 Nfd7 10.Nxd7 Bxd7 11.d3 Bc6 12.Nd2 Bxg2 13.Kxg2 Nc6 14.Nf3 Rad8 15.Qd2 e5 16.fxe5 Nxe5 17.Nxe5 Qxe5 18.Rae1 Bg5 19.Qa5 b6 20.Qa6 Bd2 21.Bc1 Bxe1 22.Rxe1 Qe7 23.Bf4 Rfe8 24.a4 Qd7 25.Qb5 Qb7+ 26.Kf2 a6 0-1

@@ -1,0 +1,14 @@
+[Event "Round 5: Mastrovasilis, Dimitrios - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/Rym5sJQO"]
+[Date "2026.07.08"]
+[Round "5.2"]
+[White "Mastrovasilis, Dimitrios"]
+[Black "Alexakis, Dimitris"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2525"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Bxf6 gxf6 8.Nf5 Qa5 9.Bb5 O-O-O 10.O-O Kb8 11.a4 e6 12.Nd4 Rc8 13.Nxc6+ Bxc6 14.Bxc6 Rxc6 15.Nb5 Be7 16.b3 a6 17.c4 Rcc8 18.Nd4 h5 19.Qf3 h4 20.h3 Rcg8 21.Rad1 Rg5 22.Kh1 Rhg8 23.Rg1 Qc5 24.Qe2 Rc8 25.Rd3 Rg7 26.Qe3 Rh7 27.Qd2 Rg7 28.Qe3 Rh7 29.Qd2 Rg7 30.Qe3 1/2-1/2

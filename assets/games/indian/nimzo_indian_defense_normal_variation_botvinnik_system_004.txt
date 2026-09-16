@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.1"]
+[White "Belous, Vladimir"]
+[Black "Yoo, Christopher Woojin"]
+[Result "1-0"]
+[WhiteElo "2471"]
+[BlackElo "2607"]
+[ECO "E49"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Nf3 Qc7 10.Ba2 Nc6 11.O-O Rd8 12.Bb2 b5 13.Qe2 c4 14.a4 a6 15.Bb1 Bb7 16.e4 Na5 17.Ba3 Nb3 18.Ra2 bxa4 19.e5 Bxf3 20.Qxf3 Nd5 21.Qh3 g6 22.Be4 Rab8 23.Bxd5 Rxd5 24.Bd6 Rxd6 25.exd6 Qxd6 26.Qg3 Qxg3 27.hxg3 e5 28.dxe5 Nc5 29.Rd1 Rb3 30.Rd8+ Kg7 31.Rc8 Ne4 32.e6 fxe6 33.Rxc4 Nxc3 34.Rc2 Nd5 35.Rxa4 Rb6 36.Rac4 Nf6 37.Rc6 Rb5 38.f3 e5 39.Rxa6 Rb7 40.Rac6 Rb1+ 41.Rc1 Rb2 42.Re6 Nh5 43.Kh2 Re2 44.Re7+ Kh6 45.Rc5 e4 46.g4 Ng7 47.g5+ Kh5 48.Rxg7 exf3 49.Kh3 1-0

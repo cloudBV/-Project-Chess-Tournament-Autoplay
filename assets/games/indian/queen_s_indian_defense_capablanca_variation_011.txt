@@ -1,0 +1,15 @@
+[Event "Round 4: Ibrahimli, Murad - Hajialiyev, Islam"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-4/5vp20QZH/HUCK3eIH"]
+[Date "2026.07.18"]
+[Round "4.3"]
+[White "Ibrahimli, Murad"]
+[Black "Hajialiyev, Islam"]
+[Result "0-1"]
+[WhiteElo "2465"]
+[BlackElo "2220"]
+[ECO "E16"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.O-O d6 9.Qf4 Nbd7 10.Nc3 Re8 11.e4 e5 12.Qe3 exd4 13.Nxd4 Nc5 14.f3 a5 15.Qd2 Ne6 16.Nf5 a4 17.Rfe1 Nd7 18.f4 Ra5 19.Rad1 Qa8 20.Nd5 Rc5 21.e5 g6 22.Nh6+ Kg7 23.f5 Nxe5 24.fxe6 fxe6 25.Rxe5 dxe5 26.Nf6 Re7 27.Nhg4 Bxg2 28.Nh5+ Kf7 29.Qg5 Qf3 30.Nh6+ Kf8 31.Re1 e4 32.Qf6+ Qxf6 33.Nxf6 Bf3 34.Nxe4 Re5 0-1

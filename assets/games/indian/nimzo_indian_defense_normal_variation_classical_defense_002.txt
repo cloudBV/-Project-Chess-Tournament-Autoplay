@@ -1,0 +1,15 @@
+[Event "Round 6: Annaberdiyev, Meylis - Szpar, Milosz"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/C4sMlhvt"]
+[Date "2026.07.02"]
+[Round "6.3"]
+[White "Annaberdiyev, Meylis"]
+[Black "Szpar, Milosz"]
+[Result "0-1"]
+[WhiteElo "2427"]
+[BlackElo "2518"]
+[ECO "E48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Ne2 Re8 7.O-O b6 8.e4 dxe4 9.Nxe4 Nbd7 10.Qc2 Be7 11.Nxf6+ Nxf6 12.Bg5 h6 13.Bxf6 Bxf6 14.Bh7+ Kh8 15.Be4 Rb8 16.Qa4 a6 17.Bc6 Rf8 18.Rfd1 Qe7 19.Qc2 Rd8 20.Qe4 Rd6 21.Rd2 b5 22.cxb5 axb5 23.Rc2 Qd8 24.Qf3 Kg8 25.a4 bxa4 26.Rxa4 Rxc6 27.Qxc6 Bd7 28.Qc4 Bxa4 29.Qxa4 Ra8 30.Qc6 Ra1+ 31.Rc1 Rxc1+ 32.Qxc1 Bxd4 33.Nxd4 Qxd4 34.g3 c5 35.h4 g6 36.Qa1 g5 37.hxg5 hxg5 38.Qa7 Qd1+ 39.Kg2 Qd5+ 40.Kg1 c4 41.Qc7 Kg7 42.Qb8 e5 43.Qc7 e4 44.Qe7 Kg6 45.Qe8 Kh5 46.Kg2 Kg4 47.Qh8 e3+ 48.Kh2 Qd2 49.Qh3+ Kf3 50.Qf5+ Ke2 51.Kg2 Ke1 52.Qb1+ Qd1 53.Qf5 Qe2 54.Qa5+ Kd1 55.Qa1+ Kc2 56.Qa4+ Kb1 0-1

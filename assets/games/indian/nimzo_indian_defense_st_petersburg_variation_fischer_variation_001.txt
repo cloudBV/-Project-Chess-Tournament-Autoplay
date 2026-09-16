@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.16"]
+[White "Matviishen, Viktor"]
+[Black "Joseph Benher, Savio"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2210"]
+[ECO "E45"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, Fischer Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6 6.Ng3 c5 7.d5 exd5 8.cxd5 Bxf1 9.Kxf1 O-O 10.e4 d6 11.Nf5 g6 12.Nh6+ Kg7 13.Bg5 Bxc3 14.bxc3 Qe8 15.f3 Nbd7 16.Qd2 Ne5 17.Kf2 Nfd7 18.h4 f6 19.Bf4 c4 20.Be3 Nd3+ 21.Kf1 N7e5 22.h5 f5 23.exf5 gxf5 24.Bg5 f4 25.Rh4 Qd7 26.Bxf4 Nxf3 27.gxf3 Rxf4 28.Rxf4 Qh3+ 29.Kg1 Qg3+ 30.Kh1 Nf2+ 31.Qxf2 Qxf2 32.Nf7 Rf8 33.Rg1+ Qxg1+ 34.Kxg1 Rxf7 35.Rxc4 Kh6 36.Kf2 Kxh5 37.Rg4 Kh6 38.c4 Rc7 39.Ke3 Re7+ 40.Kf4 Rf7+ 41.Ke4 Kh5 42.Rg1 Kh4 43.f4 Kh3 44.Kf3 Kh2 45.Rg5 a6 46.Rh5+ Kg1 47.Rh6 Rc7 48.Rxd6 Rxc4 49.f5 Rc2 50.f6 h5 51.Kg3 Rc4 52.f7 h4+ 53.Kf3 Rc2 54.Kg4 Rf2 55.Rd7 b5 56.d6 b4 57.Re7 h3 58.Kxh3 Rxa2 59.f8=Q 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Erten, Kerem - Kracht, Raphael"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/yX6rn0dW"]
+[Date "2026.07.09"]
+[Round "6.9"]
+[White "Erten, Kerem"]
+[Black "Kracht, Raphael"]
+[Result "1-0"]
+[WhiteElo "2472"]
+[BlackElo "2329"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.c4 Ng6 10.Be2 Be7 11.O-O O-O 12.b4 a6 13.Nc3 f5 14.a4 e4 15.Ra3 Ne5 16.a5 Qe8 17.Re1 Qg6 18.Bf4 Qf6 19.Na4 g5 20.Bxe5 Qxe5 21.Nb6 Rb8 22.h3 Rf6 23.Qc1 Bd8 24.Qxg5+ Kh8 25.Qg3 f4 26.Qc3 Qxc3 27.Rxc3 Bf5 28.Bg4 e3 29.fxe3 Bxg4 30.hxg4 f3 31.gxf3 Rxf3 32.Kg2 Bh4 33.Kxf3 Bxe1 34.Rb3 Kg7 35.Ke2 Bg3 36.c5 dxc5 37.bxc5 Rf8 38.Nc4 1-0

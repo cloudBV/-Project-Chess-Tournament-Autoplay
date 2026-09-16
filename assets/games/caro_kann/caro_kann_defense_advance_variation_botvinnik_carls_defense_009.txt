@@ -1,0 +1,15 @@
+[Event "Round 1: Perrine, Dalton - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-1/edyv1CkS/yR6HBr00"]
+[Date "2026.07.04"]
+[Round "1.16"]
+[White "Perrine, Dalton"]
+[Black "Suleymanli, Aydin"]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2559"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.c3 Nd7 6.Nf3 Bxc5 7.Nbd2 Ne7 8.Nb3 Bb6 9.Bd3 Ng6 10.Qe2 Qc7 11.Bxg6 fxg6 12.Nbd4 Bxd4 13.Nxd4 Nxe5 14.f4 Nc4 15.Nxe6 Bxe6 16.Qxe6+ Qe7 17.Qxe7+ Kxe7 18.b3 Nb6 19.Ba3+ Kd7 20.O-O-O Kc6 21.Rhe1 Rae8 22.Kd2 Nd7 23.Rc1 Nf6 24.c4 Ne4+ 25.Kd3 Nf2+ 26.Kd4 dxc4 27.Rxc4+ Kd7 28.Rcc1 Ng4 29.h3 Nf6 30.Re5 Rxe5 31.fxe5 Nh5 32.Re1 Ke6 33.Rf1 Rd8+ 1/2-1/2

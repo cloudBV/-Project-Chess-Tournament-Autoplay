@@ -1,0 +1,15 @@
+[Event "Round 6: Mahmoudi, Mohammad Pouria - Wijerathna, Vinuka Dihain"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-6/dML8kQ2c/xVH1g5rs"]
+[Date "2026.07.16"]
+[Round "6.9"]
+[White "Mahmoudi, Mohammad Pouria"]
+[Black "Wijerathna, Vinuka Dihain"]
+[Result "1-0"]
+[WhiteElo "2144"]
+[BlackElo "2165"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5 9.exd5 cxd5 10.Bg5 Be6 11.Ne2 h6 12.Bh4 g5 13.Bg3 c5 14.c3 Ba5 15.f4 Ng4 16.Bf2 Bb6 17.Bc2 f5 18.Qd2 Qf6 19.Rae1 Rad8 20.h3 Nxf2 21.Rxf2 Bc8 22.Ref1 g4 23.hxg4 fxg4 24.f5 Rf7 25.g3 Bb7 26.Rh2 d4 27.cxd4 cxd4 28.Bd3 Rd6 29.Nf4 Bf3 30.Ng6 Qg5 31.Qxg5 hxg5 32.Ne5 Re7 33.Nxf3 gxf3 34.Rxf3 Re3 35.Kf2 Rxf3+ 36.Kxf3 Kg7 37.Kg4 Bd8 38.Rc2 Rd7 39.Rc6 Bf6 40.Ra6 Rb7 41.a3 Rc7 42.b4 Re7 43.a4 Rc7 44.b5 Be7 45.a5 Rb7 46.Rg6+ Kf7 47.Bc4+ Ke8 48.f6 Bf8 49.f7+ Kd8 50.Rxg5 Rd7 51.Re5 Be7 52.Bd3 Rd6 53.b6 axb6 54.a6 b5 55.a7 Ra6 56.Rxb5 Rxa7 57.Rb8+ Kc7 58.f8=Q Bxf8 59.Rxf8 1-0

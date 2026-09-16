@@ -1,0 +1,14 @@
+[Event "Round 5: Kardoeus, David - Born, Mario"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-5/s84Vb8Fz/BCWwnCxO"]
+[Date "2026.07.22"]
+[Round "5.19"]
+[White "Kardoeus, David"]
+[Black "Born, Mario"]
+[Result "1/2-1/2"]
+[WhiteElo "2162"]
+[BlackElo "2093"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be2 Bd6 7.Nf3 O-O 8.O-O Qc7 9.h3 Bf5 10.Nh4 Be6 11.Bd3 Rd8 12.Nf5 Bxf5 13.Bxf5 g6 14.Bd3 Bf4 15.c3 Bxc1 16.Rxc1 Nd7 17.Re1 Re8 18.Qb3 Nb6 19.Be4 Rad8 20.Bf3 Re7 21.a4 Nd5 22.Rxe7 Qxe7 23.Kf1 Qc7 24.g3 h5 25.c4 Ne7 26.Rd1 h4 27.gxh4 Nf5 28.d5 Nxh4 29.Bg2 Nxg2 30.Kxg2 Kg7 31.Qd3 cxd5 32.cxd5 Qd6 33.Qd4 a6 34.b4 Rh8 35.Rd3 Rh5 36.Kf1 Rf5 37.Kg2 Rg5+ 38.Kh1 Rf5 39.a5 Rh5 40.Qc5 Qf4 41.Qe3 Qd6 42.Qd2 Rf5 43.Rd4 Rh5 44.Qd3 Qd7 45.Kh2 Qd6+ 46.f4 Rh8 47.Qc3 Rh5 48.Qc5 Qd7 49.Rd3 Rf5 50.Rd4 Rh5 51.Rd3 Rf5 52.Rd4 Rh5 53.Rd3 1/2-1/2

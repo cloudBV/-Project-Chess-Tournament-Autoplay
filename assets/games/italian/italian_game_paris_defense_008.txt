@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "7.1"]
+[White "Amar, Elham"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1-0"]
+[WhiteElo "2581"]
+[BlackElo "2574"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.c3 f5 5.d3 f4 6.d4 Qf6 7.Bb5 Ne7 8.d5 a6 9.Qa4 Rb8 10.Bd3 b5 11.Qc2 Nd8 12.a4 g5 13.axb5 axb5 14.Ra7 c6 15.Na3 g4 16.Nd2 Bh6 17.Rc7 O-O 18.dxc6 Ne6 19.Rxe7 Qxe7 20.Bxb5 Nc7 21.Bc4+ Be6 22.b4 f3 23.g3 Rb6 24.b5 Rfb8 25.Bxe6+ Nxe6 26.O-O Qe8 27.Ndc4 Qh5 28.h4 Nf4 29.Nxb6 Bg5 30.Bxf4 Bxh4 31.c7 Rf8 32.Qb3+ Kh8 33.Qe6 exf4 34.c8=Q Rxc8 35.Qxc8+ Kg7 36.Qd7+ Kh8 37.gxh4 Qxh4 38.Nd5 g3 39.Qe8+ Kg7 40.Qe7+ 1-0

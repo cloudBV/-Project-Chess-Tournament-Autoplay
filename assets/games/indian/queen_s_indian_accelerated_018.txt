@@ -1,0 +1,15 @@
+[Event "Round 2: Aakash Sharadchandra, Dalvi - Serikbay, Assel"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/aD6cVyak"]
+[Date "2026.07.22"]
+[Round "2.15"]
+[White "Aakash Sharadchandra, Dalvi"]
+[Black "Serikbay, Assel"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2219"]
+[ECO "A50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.d5 e6 5.a3 Bd6 6.Nf3 exd5 7.cxd5 O-O 8.g3 c6 9.Bg2 cxd5 10.O-O Na6 11.b4 Nc7 12.Rb1 Qe7 13.Nd4 Be5 14.e3 Rac8 15.Bb2 Ba6 16.Re1 Rfe8 17.Rc1 Qf8 18.Nce2 Ne4 19.Nf4 Bxf4 20.exf4 Nd6 21.Rxe8 Qxe8 22.Qg4 f6 23.h4 Bd3 24.h5 Qf7 25.h6 g6 26.f5 Nc4 27.Ba1 Ne5 28.Qd1 Bc4 29.f4 Nc6 30.Qg4 Nxd4 31.Bxd4 Re8 32.Qh4 Rf8 33.g4 Nb5 34.Bb2 Nd6 35.fxg6 hxg6 36.Re1 Kh7 37.Kh2 Re8 38.Rxe8 Nxe8 39.g5 fxg5 40.fxg5 Nc7 41.Qd4 Qf8 42.Qe5 Ne6 43.Kg3 d4 44.Bxd4 d6 45.Qf6 Qxf6 46.Bxf6 Nc7 47.Bb2 Ne6 48.Bc1 Nd4 49.Kf2 d5 50.Ke3 Ne6 51.Kf3 Bd3 52.Kf2 d4 53.Bd5 Bf5 54.Kf3 a5 55.bxa5 bxa5 56.Bd2 a4 57.Bc6 Bc2 58.Bd7 Nc5 59.Bc6 Ne6 60.Ke2 Nc5 61.Ke1 Nd3+ 62.Kf1 Nc5 63.Bf4 Ne6 64.Bc1 Nc5 65.Ke1 Bf5 66.Bd2 Bc2 67.Ke2 Ne6 68.Bd5 Nc5 69.Kf3 Nb3 70.Bb4 Nc1 71.Bc5 Nb3 72.Bb4 Nc1 73.Bc4 Nd3 74.Bd6 Nb2 75.Bb5 Nd3 76.Ke4 Nc5+ 77.Kxd4 Ne6+ 78.Kc3 Bd1 79.Be7 Nf4 80.Bc6 Bb3 81.Kd4 Ne2+ 82.Kc5 Nc3 83.Bf6 Ne2 84.Kb4 1-0

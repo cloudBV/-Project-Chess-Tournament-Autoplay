@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.34"]
+[White "Juarros Ruiz, Victor"]
+[Black "Romero Pallares, Daniel"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2270"]
+[ECO "B15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 Nd7 8.Ne2 f5 9.c4 Nf6 10.Qc2 O-O 11.O-O-O b5 12.c5 Bc7 13.Bxf5 Re8 14.Bxc8 Qxc8 15.Rhe1 b4 16.Nf4 Bxf4 17.Bxf4 Nd5 18.Rxe8+ Qxe8 19.Bd6 Qe6 20.Qa4 Rc8 21.Qa6 h6 22.Rd2 Qe1+ 23.Rd1 Qe6 24.Rd2 Qd7 25.Re2 Re8 26.Kd2 Rxe2+ 27.Qxe2 Qf5 28.f3 Qg5+ 29.Ke1 Qh4+ 30.Qf2 Qf6 31.Qd2 Qf5 32.Kf2 Qb1 33.b3 Nc3 34.Bf4 Nd1+ 35.Ke2 Nc3+ 36.Kf2 g5 37.Be5 f6 38.d5 Nxd5 39.Bd4 Kf7 40.Qe2 Nf4 41.Qc4+ Kf8 42.Kg3 Qe1+ 43.Kg4 h5+ 44.Kf5 Qb1+ 45.Kxf6 Qg6+ 46.Ke5 Nd3+ 0-1

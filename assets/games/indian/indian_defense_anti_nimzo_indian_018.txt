@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/x56KQCaG"]
+[Date "2026.06.29"]
+[Round "8.1"]
+[White "Prokofiev, Valentyn"]
+[Black "Vykouk, Jan"]
+[Result "0-1"]
+[WhiteElo "2421"]
+[BlackElo "2504"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.Nc3 O-O 6.b3 c5 7.cxd5 cxd4 8.Nxd4 Nxd5 9.Bd2 e5 10.Nxd5 Qxd5 11.Nb5 Na6 12.Bc3 Qc6 13.Rc1 Rd8 14.Qf3 Qxf3 15.gxf3 Nb4 16.Bxe5 Nxa2 17.Rc2 Bb4+ 18.Ke2 Bd7 19.Nd4 Nc3+ 20.Kd2 Rac8 21.Bd3 f6 22.Bg3 Nb5+ 23.Kc1 Nxd4 24.exd4 Be6 25.Be4 Rxc2+ 26.Kxc2 Rxd4 27.Bf4 f5 28.Be3 Rd7 29.Bd3 a5 30.Rd1 b5 31.Bf4 Kf7 32.Rb1 Rd4 33.Be5 Rd5 34.f4 Rc5+ 35.Kb2 a4 36.Rg1 g6 37.Bc2 a3+ 38.Kb1 Rd5 39.Rc1 Bd6 40.Bc3 b4 41.Be1 Bxf4 42.Rd1 Rxd1+ 43.Bxd1 Bd6 44.h4 Kf6 45.Ka2 f4 46.f3 Bc5 47.Bd2 Ke5 48.Be2 Bd5 49.Be1 h6 50.Bd2 g5 51.hxg5 hxg5 52.Be1 Be6 53.Bd1 Bh3 54.Kb1 Bg2 55.Ka2 g4 56.fxg4 f3 57.Bg3+ Ke6 58.g5 Kf5 59.Bh4 f2 60.Bc2+ Kg4 61.Bxf2 Bxf2 62.g6 Bd4 63.Be4 Bxe4 64.g7 Bd5 0-1

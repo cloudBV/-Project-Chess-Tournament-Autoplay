@@ -1,0 +1,15 @@
+[Event "Round 6: Rasulov, Vugar - Yalcinkaya, Efe"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/RSL8JRK1"]
+[Date "2026.07.02"]
+[Round "6.9"]
+[White "Rasulov, Vugar"]
+[Black "Yalcinkaya, Efe"]
+[Result "1-0"]
+[WhiteElo "2538"]
+[BlackElo "2318"]
+[ECO "B58"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nf3 Be7 8.O-O h6 9.Re1 Be6 10.Bf1 O-O 11.Nd5 Rc8 12.h3 Qd7 13.c4 Nh7 14.Be3 f5 15.exf5 Bxf5 16.b4 b6 17.Rc1 Nf6 18.Nxe7+ Qxe7 19.a3 Kh8 20.Qb3 Bh7 21.Rcd1 Rcd8 22.Qb2 Qc7 23.Rc1 Nh5 24.Nd2 Nf4 25.Qc3 Qf7 26.Rcd1 Qg6 27.Kh2 Rc8 28.Nb3 Qc2 29.Rc1 Qf5 30.Qd2 Rcd8 31.Red1 Qh5 32.Qe1 Be4 33.f3 Nxh3 34.g4 Qg6 35.fxe4 Ng5 36.Nd2 Nxe4 37.Nxe4 Qxe4 38.Qg3 Ne7 39.Bd3 Qb7 40.Rf1 e4 41.Rxf8+ Rxf8 42.Rf1 Rxf1 43.Bxf1 Ng6 44.Qxd6 Qf7 45.Bg2 1-0

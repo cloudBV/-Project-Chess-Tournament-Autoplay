@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.24"]
+[White "Konopka, Michal"]
+[Black "Zichenkov, Oleksandr"]
+[Result "1/2-1/2"]
+[WhiteElo "2342"]
+[BlackElo "2037"]
+[ECO "E62"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Nc6 7.Nc3 Bf5 8.d5 Na5 9.Nd4 Bd7 10.b3 c5 11.dxc6 Nxc6 12.Bb2 Nxd4 13.Qxd4 Bc6 14.Qd2 Bxg2 15.Kxg2 a6 16.Rac1 Qd7 17.Rfd1 Rfd8 18.e4 b5 19.Qe2 Qb7 20.Nd5 Nxd5 21.cxd5 Bxb2 22.Qxb2 Rac8 23.h4 h5 24.Qd4 Rc7 25.Rxc7 Qxc7 26.Rd2 Rc8 27.Kf3 Qc3+ 28.Qxc3 Rxc3+ 29.Ke2 Kg7 30.Rd3 Rc2+ 31.Rd2 Rc3 32.Rd3 1/2-1/2

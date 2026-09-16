@@ -1,0 +1,15 @@
+[Event "Round 4: Seidl, Jan - Kopriva, Martin"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/LZGAVoUf"]
+[Date "2026.07.18"]
+[Round "4.22"]
+[White "Seidl, Jan"]
+[Black "Kopriva, Martin"]
+[Result "1-0"]
+[WhiteElo "2303"]
+[BlackElo "2181"]
+[ECO "E64"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Rare Line"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 c5 7.d5 e6 8.O-O exd5 9.cxd5 Re8 10.Bf4 a6 11.a4 Bf5 12.Nd2 h6 13.e4 Bc8 14.Nc4 Bf8 15.h3 Nh5 16.Be3 Nd7 17.g4 Nhf6 18.Qd2 Kh7 19.f4 Rb8 20.e5 b5 21.axb5 axb5 22.Na5 b4 23.Ne2 dxe5 24.Nc6 Qc7 25.fxe5 Nxe5 26.Rxf6 Bg7 27.d6 Qb6 28.Nxe5 Bxf6 29.Nc6 Ba6 30.Nf4 Bc4 31.Nxb8 Qxb8 32.Ra8 Qb5 33.Nd5 Bxd5 34.Qxd5 Rxa8 35.Qxf7+ Bg7 36.Bxa8 Qe2 37.Qf2 Qd1+ 38.Kg2 Qxd6 39.Bxc5 Qe5 40.b3 Kh8 41.Bf3 Qe6 42.Qe3 Qf6 43.Bxb4 Qb2+ 44.Bd2 Kh7 45.h4 Bf6 46.Qxh6+ 1-0

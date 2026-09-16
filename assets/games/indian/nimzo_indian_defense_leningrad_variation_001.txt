@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.5"]
+[White "Strus, Mateusz"]
+[Black "Diachek, Andrii"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2181"]
+[ECO "E30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Leningrad Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bxf6 Qxf6 6.e3 Bxc3+ 7.bxc3 d6 8.Nf3 b6 9.Be2 Bb7 10.O-O O-O 11.Nd2 c5 12.Bf3 Bxf3 13.Qxf3 Qxf3 14.Nxf3 Nc6 15.Rab1 Na5 16.Nd2 Rfc8 17.d5 Kf8 18.f3 Ke7 19.e4 e5 20.Kf2 Rf8 21.Ke3 f5 22.Kd3 Rf7 23.Nb3 Nb7 24.a4 Raf8 25.exf5 Rxf5 26.a5 Kd7 27.axb6 axb6 28.Nd2 Kc7 29.Ra1 Na5 30.Rfb1 Ra8 31.Ne4 Ra6 32.Ra4 Rf8 33.Rba1 Raa8 34.h3 Rab8 35.Rxa5 bxa5 36.Rxa5 Ra8 37.Rb5 Ra2 38.Nd2 Rfa8 39.g3 Ra1 40.h4 R8a2 41.Nb3 Rf1 42.Ke4 Re2+ 43.Kf5 Rxf3+ 44.Ke6 Ref2 45.Na5 Rf6+ 46.Ke7 Rf7+ 47.Ke8 Kc8 48.Nc6 Rb7 49.Ra5 e4 50.Ra1 e3 51.Re1 e2 52.Ne7+ Kc7 53.Ng6 Rb3 54.Nf4 Rxc3 55.Ne6+ Kb6 56.Kd7 Rxc4 57.Kxd6 Rc2 58.Rb1+ Ka5 59.Re1 Rf1 60.Rxe2 Rxe2 61.Kxc5 Rd1 62.Nd8 Rxd5+ 0-1

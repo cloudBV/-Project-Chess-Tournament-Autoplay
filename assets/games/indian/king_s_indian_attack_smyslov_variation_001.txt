@@ -1,0 +1,14 @@
+[Event "Round 1: Collutiis, Duilio - Fezza, Davide"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-1/T4WOJvWv/NIBveuTI"]
+[Date "2026.07.06"]
+[Round "1.5"]
+[White "Collutiis, Duilio"]
+[Black "Fezza, Davide"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2105"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Smyslov Variation"]
+
+1.Nf3 Nf6 2.g3 g6 3.b4 Bg7 4.Bb2 d6 5.Bg2 e5 6.d3 c6 7.c4 a5 8.b5 O-O 9.O-O h6 10.bxc6 bxc6 11.c5 Nd5 12.Qc1 Re8 13.cxd6 Qxd6 14.Nbd2 Nd7 15.Rb1 Rb8 16.Nc4 Qc7 17.Nfd2 f5 18.a3 Ne7 19.Qc3 Rb5 20.Ba1 a4 21.Rfc1 Ba6 22.Qc2 Rxb1 23.Rxb1 Bb5 24.Ne3 Qd6 25.Bc3 Rb8 26.Nec4 Qe6 27.Bb4 c5 28.Bc3 Bf6 29.e4 f4 30.Qd1 Kg7 31.Qf1 g5 32.Rb2 Bxc4 33.Nxc4 Rxb2 34.Bxb2 Nb6 35.Bh3 Qc6 36.Nxe5 Qb5 37.Qa1 Nc6 38.Be6 Nd4 39.Bxd4 cxd4 40.Nc4 Nxc4 41.Bxc4 Qa5 42.Qd1 fxg3 43.hxg3 Kg6 44.Kg2 h5 45.Bd5 g4 46.Qc1 Qb5 47.Qf4 Qd7 48.Qb8 Qe7 49.Qg8+ Bg7 50.Be6 Qf8 51.Bf5+ Kf6 52.Qe6+ 1-0

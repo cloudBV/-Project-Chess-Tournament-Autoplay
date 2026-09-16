@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-7/iCL7Nk5B/nyQsPTwG"]
+[Date "2026.07.06"]
+[Round "7.13"]
+[White "Koval, Jakub"]
+[Black "Korsa, Jindrich"]
+[Result "0-1"]
+[WhiteElo "2099"]
+[BlackElo "2061"]
+[ECO "A27"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Three Knights System"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 d6 4.g3 g6 5.Bg2 Bg7 6.d3 Nge7 7.e4 O-O 8.O-O h6 9.Rb1 a5 10.a3 Be6 11.b4 axb4 12.axb4 Qc8 13.b5 Nd8 14.b6 c6 15.c5 d5 16.d4 Bg4 17.Be3 Ne6 18.exd5 cxd5 19.dxe5 d4 20.Bxd4 Rd8 21.Nb5 Nxd4 22.Nbxd4 Nf5 23.Nxf5 Bxf5 24.Qb3 Bxb1 25.Rxb1 Qxc5 26.e6 fxe6 27.Qxe6+ Kh7 28.Nh4 Rd6 29.Qe2 Rxb6 30.Rd1 Rb2 31.Qd3 Qxf2+ 32.Kh1 Ra6 33.Rf1 Qc2 34.Qxc2 Rxc2 35.Bxb7 Re6 36.Bf3 Bf6 37.Ng2 g5 38.Bg4 Re5 39.Ne1 Rc1 40.Rxf6 Rexe1+ 41.Kg2 Rc2+ 42.Kh3 Kg7 43.Ra6 Rh1 44.Be6 Rhxh2+ 45.Kg4 Rc5 46.Bf5 Rc4+ 47.Kf3 Rb4 48.Be4 Kf7 49.Ra7+ Ke6 50.Ra6+ Kd7 51.Rg6 Rd4 52.Bf5+ Ke7 53.Be4 Rd6 54.Rg7+ Kf6 55.Rg8 Ke5 56.Re8+ Re6 57.Ra8 Rf6+ 58.Ke3 Rh3 59.Ra5+ Kd6 60.Ra6+ Ke7 61.Ra7+ Kf8 62.Ra8+ Kg7 63.Ra7+ Rf7 64.Rxf7+ Kxf7 65.Kf2 Rh2+ 66.Bg2 g4 67.Kg1 Rh5 68.Bf1 Re5 69.Kf2 Kf6 70.Bd3 Kg5 71.Bc4 h5 72.Bd3 h4 73.gxh4+ Kxh4 74.Kg2 Rd5 75.Bc4 Rd2+ 0-1

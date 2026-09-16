@@ -1,0 +1,15 @@
+[Event "Round 6: Kamer, Kayra - Kantor, Gergely"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/gpTsOn6t"]
+[Date "2026.07.02"]
+[Round "6.8"]
+[White "Kamer, Kayra"]
+[Black "Kantor, Gergely"]
+[Result "1/2-1/2"]
+[WhiteElo "2349"]
+[BlackElo "2537"]
+[ECO "A20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.a3 Nc6 3.e3 g6 4.b4 Bg7 5.Bb2 d6 6.Nf3 f5 7.d4 e4 8.Ng1 Nf6 9.Ne2 d5 10.Nbc3 Ne7 11.Nf4 c6 12.h4 O-O 13.Qb3 Bh6 14.g3 Kg7 15.a4 a6 16.c5 Bd7 17.Be2 Kg8 18.Kd2 Rb8 19.b5 a5 20.b6 Bg7 21.Rag1 h6 22.Nh3 Be6 23.Bd1 Nd7 24.Ne2 Bf7 25.Qc3 Ra8 26.Nc1 Nc8 27.Ba3 Re8 28.Be2 Ncxb6 29.cxb6 Nxb6 30.g4 fxg4 31.Rxg4 Rc8 32.Qc2 c5 33.dxc5 d4 34.Bb5 d3 35.Qb1 Qf6 36.Bb2 Qxb2+ 37.Qxb2 Bxb2 38.Nxd3 Red8 39.Rb1 Rxc5 40.Rxe4 Bf6 41.Rc1 Rxc1 42.Kxc1 Nd5 43.Ne5 Be6 44.Ng4 Rc8+ 45.Kd2 Bc3+ 46.Ke2 Bxg4+ 1/2-1/2

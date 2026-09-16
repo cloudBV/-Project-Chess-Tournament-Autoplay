@@ -1,0 +1,15 @@
+[Event "Round 9: Wijerathna, Vinuka Dihain - Kakavand, Ramtin"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-9/jS8D4US3/3mA9e0lz"]
+[Date "2026.07.16"]
+[Round "9.9"]
+[White "Wijerathna, Vinuka Dihain"]
+[Black "Kakavand, Ramtin"]
+[Result "1/2-1/2"]
+[WhiteElo "2165"]
+[BlackElo "2087"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 g6 5.Bc4 Bg7 6.d3 d6 7.h3 h6 8.Be3 O-O 9.Ba2 Kh7 10.Qd2 Nd7 11.Nd5 f5 12.Qe2 Nf6 13.O-O-O Be6 14.h4 Bxd5 15.Ng5+ hxg5 16.hxg5+ Kg8 17.exd5 Nb8 18.gxf6 Qxf6 19.g4 f4 20.Bd2 Qg5 21.f3 Nd7 22.Kb1 Rae8 23.Be1 Qe7 24.Bh4 Bf6 25.Qe4 Kg7 26.g5 Bxg5 27.Rdg1 Rh8 28.Bf2 Rxh1 29.Rxh1 a6 30.Qb4 b6 31.Qc4 Nb8 32.Qe4 a5 33.d4 Nd7 34.dxe5 Nxe5 35.Bd4 Qf6 36.Bc4 Qf5 37.Qe2 Rh8 38.Rg1 Rh3 39.Bd3 Qf6 40.Be4 Qe7 41.Qa6 Rg3 42.Rh1 Qd7 43.Bf2 Rh3 44.Rxh3 Qxh3 45.Bd4 Bf6 1/2-1/2

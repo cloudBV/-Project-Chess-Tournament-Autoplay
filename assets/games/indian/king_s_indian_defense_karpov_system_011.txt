@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.08"]
+[Round "7.7"]
+[White "Petrovskiy, Vadym"]
+[Black "Sourath Biswas"]
+[Result "1/2-1/2"]
+[WhiteElo "2469"]
+[BlackElo "2240"]
+[ECO "E71"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 a5 8.Nf3 Na6 9.Nd2 Nd7 10.g4 f5 11.gxf5 gxf5 12.exf5 Ndc5 13.Nde4 Bxf5 14.Bg2 Qe8 15.Bf3 Qg6 16.Bh5 Qg2 17.Bf3 Qg6 18.Bh5 Qg2 19.Bf3 Qg6 1/2-1/2

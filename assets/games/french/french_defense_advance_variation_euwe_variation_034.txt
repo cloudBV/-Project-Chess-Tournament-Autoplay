@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-5/eUyGqiKg/1ntab1wk"]
+[Date "2026.07.16"]
+[Round "5.16"]
+[White "Grieve, Harry"]
+[Black "Sarabando, Rodrigo Andias"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2101"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nc6 4.d4 d5 5.e5 Bd7 6.Be2 Qb6 7.O-O cxd4 8.cxd4 Nge7 9.Nc3 Nf5 10.Na4 Qa5 11.b3 Be7 12.g4 Nh6 13.h3 Rc8 14.Be3 Ng8 15.a3 Qd8 16.Ne1 Na5 17.Nc5 Bc6 18.Ned3 h5 19.gxh5 b6 20.Na6 Bb5 21.Nf4 Bxe2 22.Qxe2 Nh6 23.Rfc1 Rxc1+ 24.Rxc1 O-O 25.Rc3 Nf5 26.a4 Bg5 27.Ng2 Be7 28.Qg4 Kh7 29.Qd1 Qa8 30.Qd3 Kg8 31.Bd2 Nc6 32.Be3 Qb7 33.Nf4 Rd8 34.Ne2 Nh4 35.Kf1 Nxe5 36.dxe5 d4 37.Nxd4 Qh1+ 38.Ke2 Qxh3 39.Qe4 Ng2 40.Nc6 Qxh5+ 41.Qf3 1-0

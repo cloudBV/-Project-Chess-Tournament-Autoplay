@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "7.4"]
+[White "Bokhnak, Tymofii"]
+[Black "Jun, Rudolf"]
+[Result "1-0"]
+[WhiteElo "2147"]
+[BlackElo "2303"]
+[ECO "B22"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e5 3.Nf3 Nc6 4.d4 d5 5.exd5 Qxd5 6.Nxe5 Nxe5 7.dxe5 Qxe5+ 8.Be3 Bd7 9.Nd2 Nf6 10.Be2 Be7 11.O-O O-O 12.Bf3 Rfd8 13.Bxb7 Rab8 14.Bf3 Rxb2 15.Nc4 Qxc3 16.Nxb2 Qxb2 17.Qc1 Qxc1 18.Raxc1 Rc8 19.Rfd1 Ba4 20.Rd2 h6 21.h3 c4 22.Rd4 Bb5 23.a4 Ba6 24.Be2 Ba3 25.Rc2 Bc5 26.Rdxc4 Bxc4 27.Rxc4 Nd7 28.Bg4 1-0

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "18.6"]
+[White "Potential 426cc351-426cc351"]
+[Black "ice4 6.1.1"]
+[Result "1-0"]
+[WhiteElo "3108"]
+[BlackElo "3156"]
+[ECO "C16"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Petrosian Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7 5.Bd2 b6 6.Bb5 c6 7.Ba4 a5 8.a3 Bf8 9.Nf3 b5 10.Bb3 c5 11.dxc5 a4 12.Ba2 Bxc5 13.O-O Ne7 14.Ne2 Nbc6 15.Nf4 Qa7 16.c3 Na5 17.Qe2 Ng6 18.Nd3 Bb6 19.h4 h5 20.Nf4 Nxf4 21.Bxf4 Ba6 22.Qc2 Qc7 23.Rad1 Nc4 24.Bxc4 Qxc4 25.Be3 Bc7 26.Rfe1 Qe4 27.Qd2 Qc4 28.Bd4 Bc8 29.Ng5 Bd8 30.Re3 g6 31.Rf3 Bxg5 32.Qxg5 Qc7 33.Be3 Qe7 34.Rf6 Bb7 35.Rd4 Rc8 36.Rdf4 Rh7 37.Bb6 Rc4 38.Ba5 Rxf4 39.Qxf4 Rh8 40.Bb4 Qc7 41.Bd6 Qd7 42.Qg5 Ba6 43.f4 Bc8 44.Bb4 Qd8 45.Kh1 Bd7 46.f5 exf5 47.Qe3 d4 48.cxd4 Be6 49.Qc3 Qc8 50.Qxc8+ Bxc8 51.d5 Rg8 52.e6 fxe6 53.dxe6 Bxe6 54.Rxe6+ Kf7 55.Rb6 Rc8 56.Bc3 Rc4 57.g3 f4 58.Rxb5 fxg3 59.Rb4 Rxb4 60.axb4 Ke7 61.b5 Kd6 62.b6 g2+ 63.Kxg2 Kc6 64.Ba5 Kb7 65.Kf3 Kb8 66.Ke4 Ka8 67.Kd5 Kb7 68.Kc5 a3 69.bxa3 Kc8 70.Kc6 Kd8 71.b7+ Ke7 72.b8=Q g5 73.hxg5 Kf7 74.Qe5 Kf8 75.Qf6+ Ke8 76.Bb4 h4 77.Qf8# 1-0

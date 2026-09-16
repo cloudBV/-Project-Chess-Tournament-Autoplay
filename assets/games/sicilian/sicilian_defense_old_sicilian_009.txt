@@ -1,0 +1,15 @@
+[Event "Round 3: Munoz, Miguel - Singh, Siddharth"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-3/kHH1KL3O/qUuHhLSj"]
+[Date "2026.06.29"]
+[Round "3.1"]
+[White "Munoz, Miguel"]
+[Black "Singh, Siddharth"]
+[Result "0-1"]
+[WhiteElo "2316"]
+[BlackElo "2361"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.g3 e5 4.Bg2 g6 5.d3 Bg7 6.O-O Nge7 7.c4 d6 8.Nc3 O-O 9.Ne1 f5 10.exf5 Nxf5 11.Nc2 Be6 12.Rb1 Qd7 13.b4 cxb4 14.Nxb4 Rf7 15.Qa4 Nfd4 16.Nxc6 bxc6 17.Be3 Nf3+ 18.Bxf3 Rxf3 19.Ne4 Bh3 20.Rfe1 h6 21.Rb6 axb6 22.Qxa8+ Rf8 23.Qa4 d5 24.cxd5 cxd5 25.Qxd7 Bxd7 26.Nd6 Rf6 27.Nb7 Bc8 0-1

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-5/eUyGqiKg/eQIbF2za"]
+[Date "2026.07.16"]
+[Round "5.10"]
+[White "Martins, Bruno Andre Leite"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[WhiteElo "2409"]
+[BlackElo "2414"]
+[ECO "B81"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g4 h6 7.Rg1 Nc6 8.h4 d5 9.Bg2 Bb4 10.Nxc6 bxc6 11.g5 hxg5 12.hxg5 Nxe4 13.Bxe4 Bxc3+ 14.bxc3 dxe4 15.Qxd8+ Kxd8 16.Bf4 Ke7 17.O-O-O e5 18.Bxe5 Bf5 19.Bxg7 Rh2 20.Rd2 Ke6 21.Re1 Re8 22.Bd4 Rd8 23.Bxa7 Ra8 24.Bc5 Rxa2 25.Rd6+ Ke5 26.Rf6 Be6 27.Kb1 Ra5 28.Be3 Rh8 29.Bd4+ Kd5 30.Kc1 Ra1+ 31.Kd2 Rxe1 32.Kxe1 Rh1+ 33.Kd2 Rg1 34.Be3 Bg4 35.c4+ Kxc4 36.Rxc6+ Kd5 37.Rc5+ Kd6 38.Ra5 Be6 39.Kc3 Rb1 40.Ra6+ Kd5 41.Bf4 Rf1 42.Bg3 Rb1 43.g6 e3 44.g7 e2 45.Ra5+ Kc6 46.Re5 Rb8 47.Rxe2 Rg8 48.Be5 f5 49.Rd2 Bd5 50.Kb4 Re8 51.f4 Bg8 52.Rd6+ Kb7 53.Rf6 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Afek, Itay - David, Idan"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-6/Ukm9jNHu/qxuzb7YW"]
+[Date "2026.07.19"]
+[Round "6.10"]
+[White "Afek, Itay"]
+[Black "David, Idan"]
+[Result "1-0"]
+[WhiteElo "2171"]
+[BlackElo "2156"]
+[ECO "B56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f3 e5 7.Nb3 Be7 8.Be3 O-O 9.Qd2 Be6 10.O-O-O a5 11.Bb5 Nb4 12.a3 Qc7 13.axb4 Bxb3 14.bxa5 Rxa5 15.Qf2 1-0

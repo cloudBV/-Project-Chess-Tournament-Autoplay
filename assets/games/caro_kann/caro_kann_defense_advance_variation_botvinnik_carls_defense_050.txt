@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/mGRVA8gi"]
+[Date "2026.07.14"]
+[Round "2.3"]
+[White "Fedorchuk, Sergey A."]
+[Black "Cordeiro, Joao Carlos"]
+[Result "1-0"]
+[WhiteElo "2593"]
+[BlackElo "2099"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Bg4 5.dxc5 e6 6.c3 Bxf3 7.Qxf3 Bxc5 8.Qg3 Ne7 9.Qxg7 Rg8 10.Qxh7 Nbc6 11.b4 Bb6 12.Bf4 d4 13.Nd2 Rg4 14.g3 Qc7 15.Ne4 O-O-O 16.Qxf7 Rxf4 17.gxf4 dxc3 18.Bg2 Nd4 19.O-O c2 20.Kh1 Nd5 21.Nd6+ Rxd6 22.Qxc7+ Kxc7 23.exd6+ Kxd6 24.Bxd5 Kxd5 25.Rac1 Kc4 26.Rfe1 Kd3 27.Kg2 Bc7 28.Kg3 Bd6 29.a3 Kd2 30.Kg4 a5 31.bxa5 Bxa3 32.Rxc2+ Kxc2 33.h4 Bb4 34.Re5 Kd3 35.h5 Bf8 36.Re3+ Kc4 37.Kg5 Bg7 38.Kg6 Bh8 39.h6 Kd5 40.h7 Nf5 41.Re5+ Kd6 42.Rb5 Ne7+ 43.Kf7 Nc6 44.Kg8 Bf6 45.Rxb7 Nxa5 46.Rg7 1-0

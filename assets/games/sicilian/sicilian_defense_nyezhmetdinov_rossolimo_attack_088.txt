@@ -1,0 +1,14 @@
+[Event "Round 1: Babiy, Olga - Sickmann, Lisa"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-1/uHUDEpdt/fbLKhvp8"]
+[Date "2026.07.07"]
+[Round "1.1"]
+[White "Babiy, Olga"]
+[Black "Sickmann, Lisa"]
+[Result "1/2-1/2"]
+[WhiteElo "2294"]
+[BlackElo "2016"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Qc7 6.b3 e5 7.Bb2 d6 8.Nbd2 Ne7 9.Nc4 Ng6 10.g3 Be7 11.h4 h5 12.Ne3 Bf6 13.Nd2 Be6 14.Qf3 Ne7 15.Qe2 d5 16.g4 hxg4 17.Nxg4 Bxg4 18.Qxg4 Ng6 19.h5 Nf4 20.O-O-O Qd7 21.Qf3 O-O-O 22.exd5 cxd5 23.Rde1 Qf5 24.Qe3 Ne6 25.Bxe5 Rxh5 26.Rxh5 Qxh5 27.Bxf6 gxf6 28.Nf1 Qg5 29.Kb2 Rh8 30.Qxg5 fxg5 31.Re5 Rh1 32.Ng3 Rh2 33.Rxd5 Rxf2 34.Ne4 Rg2 35.Nd6+ Kc7 36.Nxf7 g4 37.Ng5 Nf4 38.Rxc5+ Kb6 39.Rc4 Nxd3+ 40.Kc3 Ne1 41.Re4 Rxc2+ 42.Kd4 Nf3+ 43.Nxf3 gxf3 44.a3 f2 45.Rf4 a5 46.Rf6+ Kb5 47.Rf5+ 1/2-1/2

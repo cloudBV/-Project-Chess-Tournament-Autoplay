@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-3/j8fQQG3m/0DIM8kJn"]
+[Date "2026.07.17"]
+[Round "3.1"]
+[White "Bhagat Kush"]
+[Black "Laurusas, Tomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2352"]
+[BlackElo "2511"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.c3 d6 6.O-O h6 7.Nbd2 O-O 8.h3 a6 9.Re1 Ba7 10.Bb3 Ne7 11.Nf1 Ng6 12.d4 Re8 13.Ng3 Bd7 14.Bc2 b5 15.Be3 Kh7 16.Qd2 Bc6 17.Rad1 Qb8 18.Nh2 Bd7 19.Kh1 c5 20.f4 cxd4 21.cxd4 exd4 22.Bxd4 Bxd4 23.Qxd4 Kg8 24.Rf1 Qc7 25.Bb1 Rac8 26.Nf5 Bxf5 27.exf5 Ne7 28.Ng4 Ned5 29.Nxf6+ Nxf6 30.Qxd6 Qa7 31.Kh2 Re2 32.Rd2 Rce8 33.Qd3 Re1 34.Bc2 Kh7 35.Bb3 R8e3 36.Rxe1 Rxe1 37.Qd4 Qe7 38.Qf2 Re4 39.Bc2 Re3 40.Bb3 Re4 41.Bc2 Rc4 42.Bd3 Rc1 43.a3 Kg8 44.Re2 Qd6 45.Bc2 Qc7 46.Bb3 a5 47.Rc2 Rxc2 48.Bxc2 Qc4 49.Bd1 Qc1 50.Qd4 h5 51.g4 hxg4 52.hxg4 Qc6 53.g5 Ne8 54.Qe5 b4 55.axb4 axb4 56.Bb3 Kf8 57.Qd4 Qd6 58.Qe3 Qe7 59.Qf3 Nd6 60.Bc2 f6 61.Qh5 Qf7 62.Qh8+ Ke7 63.g6 Qf8 64.Qh3 Qc8 65.Qe3+ Kf8 66.Bd3 Nxf5 67.Qa7 Nd6 68.Qb6 Ke7 69.Qxb4 Qg4 70.Qe1+ Kd7 71.Qf2 Qh5+ 72.Kg3 f5 73.Qa7+ Ke6 74.Qe3+ Kd7 75.Qa7+ Ke6 76.Qxg7 Qg4+ 77.Kf2 Qxf4+ 78.Ke2 Qh2+ 79.Kd1 Qg1+ 80.Kc2 Qf2+ 81.Kb3 Qb6+ 82.Kc2 Qf2+ 83.Kb3 Qb6+ 84.Kc2 1/2-1/2

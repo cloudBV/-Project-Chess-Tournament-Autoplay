@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.04"]
+[Round "1.5"]
+[White "Toth, Lili"]
+[Black "Kiraly, Lilla Virag"]
+[Result "1-0"]
+[WhiteElo "2118"]
+[BlackElo "2080"]
+[ECO "B40"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Bd3 Nc6 4.O-O g6 5.c3 Bg7 6.Bc2 d5 7.d3 Nge7 8.Qe2 Qc7 9.Bg5 O-O 10.Nbd2 Re8 11.Rfe1 b6 12.Nf1 Bb7 13.Ne3 h6 14.Bh4 d4 15.Ng4 Red8 16.Qd2 h5 17.Nh6+ Kf8 18.Bb3 Na5 19.Nxf7 dxc3 20.Nxd8 Rxd8 21.bxc3 c4 22.Ng5 Bc8 23.Bg3 Be5 24.Bxe5 Qxe5 25.Nf3 Qg7 26.Qf4+ Kg8 27.Bxc4 Nxc4 28.dxc4 Ba6 29.Rad1 1-0

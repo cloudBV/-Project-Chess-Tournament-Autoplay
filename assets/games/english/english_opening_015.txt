@@ -1,0 +1,15 @@
+[Event "Gambitul Calului Editia 7 - Clasic"]
+[Site "CalCool, Romania"]
+[Date "2026.07.16"]
+[Round "4.1"]
+[White "Moraru, Marius"]
+[Black "Coca, Cristi-Iulian"]
+[Result "1/2-1/2"]
+[WhiteElo "2321"]
+[BlackElo "2225"]
+[ECO "A10"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 1/2-1/2

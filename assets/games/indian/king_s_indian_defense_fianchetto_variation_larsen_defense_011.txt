@@ -1,0 +1,15 @@
+[Event "Round 3: Banerjee, Supratit - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-3/RnELbGdJ/xDjJt2ow"]
+[Date "2026.07.07"]
+[Round "3.1"]
+[White "Banerjee, Supratit"]
+[Black "Badacsonyi, Stanley"]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2312"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.d4 c6 7.O-O Bf5 8.Re1 Ne4 9.Nh4 Nxc3 10.bxc3 Be6 11.Qd3 Nd7 12.Nf3 Nb6 13.Nd2 Qc7 14.e4 c5 15.d5 Bd7 16.Rb1 Na4 17.Rb3 a6 18.f4 b5 19.Qf3 Rab8 20.Kh1 b4 21.cxb4 cxb4 22.e5 Nc3 23.Rxc3 bxc3 24.Qxc3 Rfc8 25.Ba3 Bf5 26.h3 h5 27.Kh2 Qd7 28.Qa5 dxe5 29.fxe5 Bh6 30.c5 Rb5 31.Qc3 Rbxc5 32.Bxc5 Bxd2 33.Qxd2 Rxc5 34.Rc1 Rxc1 35.Qxc1 f6 36.exf6 exf6 37.Qa3 Qc8 38.Qe7 Qc3 39.Qe8+ Kg7 40.d6 Qd4 41.Qe7+ Kg8 42.h4 a5 43.a4 Qe5 44.Qc7 Kf8 45.Qd8+ Kg7 46.Qc7+ Kf8 47.Qb8+ Qe8 48.Qa7 Qe5 49.Qb6 Kg7 50.Qb7+ Kf8 51.Qb6 Kg7 52.Qd8 Bg4 53.Qc7+ Kf8 54.Qd8+ Kg7 55.d7 Qd6 56.Qxa5 Bxd7 57.Qa7 g5 58.hxg5 h4 59.gxf6+ Kf7 60.Qe3 Qxg3+ 61.Qxg3 hxg3+ 62.Kxg3 Bxa4 63.Kf4 Kxf6 64.Ke4 1/2-1/2

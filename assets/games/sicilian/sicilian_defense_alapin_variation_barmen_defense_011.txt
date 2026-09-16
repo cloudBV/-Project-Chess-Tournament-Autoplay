@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "12.1"]
+[White "StockfishClassical 202007311012"]
+[Black "Northphrax 8.0.1_bdded80"]
+[Result "1/2-1/2"]
+[WhiteElo "3552"]
+[BlackElo "3248"]
+[ECO "B22"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Nc6 6.dxc5 Qxc5 7.Na3 e5 8.Be3 Qe7 9.Bb5 e4 10.Nd4 Qc7 11.Qa4 Bd7 12.Nc4 Be7 13.Nxc6 bxc6 14.Nb6 Rb8 15.Nxd7 Rxb5 16.Nxf6+ Bxf6 17.Qxe4+ Re5 18.Qc4 Bg5 19.O-O-O Bxe3+ 20.fxe3 O-O 21.Rd3 Rfe8 22.Rhd1 Qb6 23.Kb1 h5 24.Rd7 Rf5 25.Rf1 Rb8 26.b3 Rb7 27.Rxb7 Rxf1+ 28.Qxf1 Qxb7 29.Qe2 Qe7 30.Kb2 h4 31.h3 g6 32.e4 Qe5 33.a3 a5 34.b4 a4 35.Qc4 Qf6 36.Qe2 Kf8 1/2-1/2

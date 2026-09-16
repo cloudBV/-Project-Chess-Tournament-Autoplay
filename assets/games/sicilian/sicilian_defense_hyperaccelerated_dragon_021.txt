@@ -1,0 +1,15 @@
+[Event "Round 2: Ozcan, Ilker - Aynaoglu, Efe"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/OO2pekVQ"]
+[Date "2026.07.14"]
+[Round "2.21"]
+[White "Ozcan, Ilker"]
+[Black "Aynaoglu, Efe"]
+[Result "1-0"]
+[WhiteElo "2059"]
+[BlackElo "2193"]
+[ECO "B27"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.e5 Nc6 6.Qa4 Nd5 7.Qb3 Nc7 8.Nc3 Bg7 9.Bf4 Ne6 10.Bg3 O-O 11.O-O-O a6 12.Nd5 b5 13.Qe3 Qa5 14.Kb1 Bb7 15.h4 h5 16.Be2 b4 17.Nb6 b3 18.cxb3 Bh6 19.Ng5 Nb4 20.a3 Bxg5 21.hxg5 Rfb8 22.Nxa8 Nd5 23.Qd2 Qxd2 24.Rxd2 Bxa8 25.Bf3 Nb6 26.Bxa8 Rxa8 27.f4 Rb8 28.Rc1 a5 29.Bh2 h4 30.g3 hxg3 31.Bxg3 Ng7 32.Bf2 Nf5 33.Rc5 a4 34.Rb5 1-0

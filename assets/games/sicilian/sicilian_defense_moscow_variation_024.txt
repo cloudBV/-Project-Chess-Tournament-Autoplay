@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.5"]
+[White "Haugen, Lars Tormod"]
+[Black "Unhjem, Bjorn Robert Lovoll"]
+[Result "0-1"]
+[WhiteElo "2031"]
+[BlackElo "2036"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 a6 5.Bd3 cxd4 6.Nxd4 Ngf6 7.O-O e6 8.c4 Be7 9.Nc3 Qc7 10.Be3 Ne5 11.Be2 Ng6 12.Rc1 O-O 13.Qd2 Ne5 14.h3 Nc6 15.Nc2 Ne5 16.b3 Bd7 17.f4 Ng6 18.g4 Bc6 19.Bf3 Nd7 20.Nd4 Bf6 21.Nxc6 bxc6 22.g5 Be7 23.Bg4 Kh8 24.Qf2 Nc5 25.Rcd1 f6 26.Bxc5 dxc5 27.Bxe6 fxg5 28.Rd7 Qxf4 29.Qxf4 gxf4 30.Bf5 Bf6 31.Ne2 f3 32.Rxf3 Ne5 33.Kf2 g6 34.Be6 Bh4+ 0-1

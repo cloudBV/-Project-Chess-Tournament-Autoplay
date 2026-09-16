@@ -1,0 +1,15 @@
+[Event "Round 7: Serikbay, Assel - Karayayla, Doruk"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/CDrHa0hJ"]
+[Date "2026.07.03"]
+[Round "7.27"]
+[White "Serikbay, Assel"]
+[Black "Karayayla, Doruk"]
+[Result "0-1"]
+[WhiteElo "2219"]
+[BlackElo "2012"]
+[ECO "E47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 cxd4 7.exd4 d5 8.a3 Bxc3+ 9.bxc3 dxc4 10.Bxc4 b6 11.O-O Bb7 12.Bb3 Nc6 13.Bg5 Na5 14.Ba2 Rc8 15.Qd3 Be4 16.Qe3 Bf5 17.Ng3 Bg6 18.f4 Nd5 19.Qe1 Qd7 20.Rf3 h6 21.Bh4 Rc6 0-1

@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.11"]
+[Round "8.2"]
+[White "Gaal, Zsoka"]
+[Black "Papp, Petra"]
+[Result "1-0"]
+[WhiteElo "2376"]
+[BlackElo "2290"]
+[ECO "A20"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 e4 5.a3 d5 6.Bg5 Nbd7 7.Nc3 h6 8.Bf4 g5 9.Bc1 Bg7 10.cxd5 cxd5 11.h4 g4 12.Bf4 O-O 13.e3 Nb6 14.b3 Be6 15.a4 Rc8 16.Nge2 Nh5 17.Qd2 Re8 18.a5 Na8 19.O-O Bf8 20.Na4 Bd7 21.Nc5 Bc6 22.Rfc1 Nc7 23.Bf1 Nb5 24.Qd1 Kh7 25.Be5 f6 26.Nf4 Ng7 27.Qxg4 fxe5 28.Qg6+ Kh8 29.Nxe4 Be7 30.Qxh6+ Kg8 31.dxe5 Nc7 32.Nf6+ Bxf6 33.exf6 Nge6 34.Qg6+ Kf8 35.Qh7 Qxf6 36.Ng6+ Qxg6 37.Qxg6 Ke7 38.Qh7+ Kd6 39.a6 Rh8 40.axb7 Bxb7 41.Qd3 a6 42.Bg2 Rcg8 43.Qd2 Ba8 44.Rc2 Rg7 45.Qb4+ Ke5 46.Rac1 Kf6 47.Rxc7 Nxc7 48.Rxc7 Ke5 1-0

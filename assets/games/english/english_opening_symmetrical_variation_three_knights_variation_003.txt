@@ -1,0 +1,15 @@
+[Event "Round 2: Stefansson, Hannes - Negrean, Andrei"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/4RwcVRYc"]
+[Date "2026.07.05"]
+[Round "2.7"]
+[White "Stefansson, Hannes"]
+[Black "Negrean, Andrei"]
+[Result "1-0"]
+[WhiteElo "2419"]
+[BlackElo "2366"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O d6 7.d4 cxd4 8.Nxd4 Bxg2 9.Kxg2 Be7 10.Qd3 a6 11.f4 Qc8 12.Qf3 Ra7 13.b3 Rc7 14.Bb2 O-O 15.g4 g6 16.f5 exf5 17.gxf5 Nbd7 18.Kh1 Ne5 19.Qg2 b5 20.fxg6 hxg6 21.Nf5 Bd8 22.Ba3 bxc4 23.Bxd6 Re8 24.Bxc7 Qxc7 25.Rac1 Neg4 26.Nd5 Nxd5 27.Qxg4 Nf6 28.Qg2 c3 29.Rf3 c2 30.e3 Qe5 31.Rxc2 Kf8 32.Nd4 Kg7 33.Rcf2 Qd5 34.Rd2 Qc5 35.Rf1 Ne4 36.Nf5+ Kf8 37.Nh6 Kg7 38.Rc2 Ng3+ 39.hxg3 Qh5+ 40.Qh2 Kxh6 41.Qxh5+ Kxh5 42.Rc8 Kg4 43.Kg2 f5 44.Rd1 Rxe3 45.Rd4+ 1-0

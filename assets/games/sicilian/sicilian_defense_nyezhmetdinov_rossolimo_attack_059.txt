@@ -1,0 +1,14 @@
+[Event "Round 6: Christodoulou, Panormitis - Raptis, Filippos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/4VTyR7mF"]
+[Date "2026.07.10"]
+[Round "6.28"]
+[White "Christodoulou, Panormitis"]
+[Black "Raptis, Filippos"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2276"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Qc7 5.O-O Nd4 6.Re1 e5 7.Bc4 Be7 8.d3 O-O 9.h3 h6 10.Nh2 d6 11.Nf1 Ne6 12.Ng3 Nf4 13.Qf3 g5 14.Bxf4 gxf4 15.Nh5 Nh7 16.g4 Bh4 17.Qh1 Kh8 18.Kf1 Be6 19.Red1 Rg8 20.f3 Rgb8 21.a4 Qd8 22.Ke2 Nf8 23.Bd5 Qa5 24.Ra3 a6 25.Rda1 Nd7 26.Qg1 Rg8 27.Rb1 Rg5 28.Rb3 Nb6 29.Bxb7 Bxb3 30.Bxa8 Bxc2 31.Rc1 Bb3 32.Bc6 Rg8 33.Ra1 Qb4 34.a5 Nc4 35.Bd5 Ne3 36.Bxb3 Qxb3 37.Qc1 c4 38.Ra3 cxd3+ 39.Kxd3 Qc4+ 40.Kd2 Qd4+ 41.Ke2 Nxg4 42.hxg4 Rxg4 43.Qh1 Qe3+ 44.Kd1 Rg1+ 45.Qxg1 Qxg1+ 46.Kc2 Qf2+ 47.Kb1 Qxf3 48.b4 Qxh5 49.b5 axb5 50.a6 Bf2 51.Nxb5 Qh1+ 52.Kb2 Qxe4 53.Nc3 Qc6 0-1

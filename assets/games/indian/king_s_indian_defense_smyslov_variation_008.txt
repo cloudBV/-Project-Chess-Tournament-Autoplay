@@ -1,0 +1,14 @@
+[Event "Round 9: Shyam, Sundar M. - Travadon, Loic"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/SbkdUNFB"]
+[Date "2026.07.22"]
+[Round "9.6"]
+[White "Shyam, Sundar M."]
+[Black "Travadon, Loic"]
+[Result "1/2-1/2"]
+[WhiteElo "2478"]
+[BlackElo "2513"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+
+1.d4 Nf6 2.Nf3 d6 3.c4 g6 4.Nc3 Bg7 5.Bg5 h6 6.Bh4 g5 7.Bg3 Nh5 8.e3 c5 9.d5 Nd7 10.Rc1 a6 11.Nd2 Ndf6 12.Be2 Nxg3 13.hxg3 Qa5 14.e4 g4 15.Qa4+ Qxa4 16.Nxa4 h5 17.Nb6 Rb8 18.Nxc8 Rxc8 19.f4 Rb8 20.Bd3 e5 21.fxe5 Nd7 22.exd6 Bxb2 23.Rb1 Be5 24.Nf1 Bxd6 25.Ke2 Kd8 1/2-1/2

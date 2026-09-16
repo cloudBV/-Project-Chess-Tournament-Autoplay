@@ -1,0 +1,15 @@
+[Event "Round 2: Cheng, Gongpu - Puzyrevsky, Semyon"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-2/5Ey0SplQ/QyVSY9fv"]
+[Date "2026.07.16"]
+[Round "2.9"]
+[White "Cheng, Gongpu"]
+[Black "Puzyrevsky, Semyon"]
+[Result "1/2-1/2"]
+[WhiteElo "2119"]
+[BlackElo "2383"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 Nbd7 9.Rd1 a5 10.Bf4 h6 11.Ne5 Qb6 12.Nc3 Nxe5 13.Na4 Qa7 14.dxe5 Nd7 15.cxd5 cxd5 16.Be3 Qb8 17.f4 b5 18.Nc5 Qa7 19.Rac1 Ba6 20.Bd4 Rfc8 21.Nxd7 Rxc2 22.Bxa7 Rxc1 23.Rxc1 Rxa7 24.Nb8 Bb7 25.Nc6 1/2-1/2

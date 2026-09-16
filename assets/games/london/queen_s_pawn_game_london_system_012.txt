@@ -1,0 +1,15 @@
+[Event "2026 India Rising Finals"]
+[Site "https://lichess.org/broadcast/india-rising-2026-finals/set-1/GQKCdOy4/QKsU1M9Z"]
+[Date "2026.07.04"]
+[Round "1.1.1"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Bok, Benjamin"]
+[Result "1-0"]
+[WhiteElo "2697"]
+[BlackElo "2560"]
+[ECO "D02"]
+[TimeControl "600"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 c5 5.Nbd2 Qb6 6.Rb1 Bd6 7.dxc5 Qxc5 8.Bg5 Nbd7 9.c4 O-O 10.b4 Qc7 11.c5 Be7 12.Qc2 a5 13.a3 e5 14.Be2 Rd8 15.O-O Nf8 16.Bh4 Ng6 17.Bg3 Nh5 18.Rfd1 Nxg3 19.hxg3 Be6 20.e4 axb4 21.axb4 dxe4 22.Nxe4 Ra2 23.Rxd8+ Qxd8 24.Qd3 Qxd3 25.Bxd3 Ra3 26.Bc2 h6 27.Nd6 Bxd6 28.cxd6 f5 29.Rd1 Rc3 30.Ba4 Rc8 31.d7 Rd8 32.Rd6 Kf7 33.Rb6 Bxd7 34.Bb3+ Kf8 35.Rxg6 Be8 36.Rb6 e4 37.Nh4 Rd3 38.Bc4 Rd4 39.Be2 Rd2 40.Bb5 Rd5 41.Bxe8 Kxe8 42.Ng6 Kf7 43.Nf4 Rd1+ 44.Kh2 g5 45.Rxb7+ Kf6 46.Rb6+ Kf7 47.Nh3 Kg7 48.b5 Rb1 49.Rb7+ Kg6 50.Rb8 Rb2 51.b6 Kg7 52.b7 Rb1 53.f3 e3 54.Re8 Rxb7 55.Rxe3 Rb2 56.Re1 Kg6 57.Ng1 Rb6 58.Re2 Rf6 59.g4 Rf7 60.gxf5+ Rxf5 61.g4 Rf6 62.Kg3 Rf7 63.Re4 Rf6 64.Ne2 Rf7 65.Nd4 Kg7 66.Nf5+ Kg6 67.Re6+ Rf6 68.Rxf6+ Kxf6 69.Nxh6 Ke5 70.Nf5 Kf6 71.f4 gxf4+ 72.Kxf4 Ke6 73.g5 Kd5 74.g6 Kc4 75.g7 Kd3 76.g8=Q Kc2 77.Qc4+ Kd2 78.Qd4+ Kc1 79.Qf2 Kb1 80.Ke3 Ka1 81.Kd3 Kb1 82.Kc3 Ka1 83.Qb2# 1-0

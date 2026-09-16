@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.31"]
+[White "Garrigue, Julian"]
+[Black "Hompanera Lopez, Enrique"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2123"]
+[ECO "B41"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Qd3 d5 8.exd5 exd5 9.Be2 O-O 10.O-O Nc6 11.Nxc6 bxc6 12.Rd1 Be6 13.Bg5 Be7 14.Qc2 Qa5 15.cxd5 cxd5 16.Rd4 h6 17.Bh4 Qc5 18.Qd2 Rfd8 19.Rd1 Rd7 20.h3 Raa7 21.Bf3 Rab7 22.Qe2 a5 23.a3 Qb6 24.R1d2 Rbc7 25.Qd1 Rb7 26.Bxf6 Bxf6 27.Nxd5 Bxd5 28.Rxd5 Rxd5 29.Bxd5 Rc7 30.Qe2 Re7 31.Be4 g6 32.Qd3 Kg7 33.b3 Qc5 34.Rc2 Qxa3 1/2-1/2

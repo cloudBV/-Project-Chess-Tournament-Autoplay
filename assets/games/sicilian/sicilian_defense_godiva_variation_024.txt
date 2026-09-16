@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.33"]
+[White "Zichenkov, Oleksandr"]
+[Black "Starcevic, Ante Leon"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2111"]
+[ECO "B32"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Be3 Qc7 8.f3 Bb4 9.Qd2 d5 10.a3 Bxc3 11.Qxc3 dxe4 12.fxe4 O-O 13.Bd3 Qe5 14.Qxe5 Nxe5 15.O-O-O b6 16.Bd4 Nxd3+ 17.cxd3 Ba6 18.Bxf6 gxf6 19.Kd2 Rfd8 20.Ke3 Rac8 21.Rd2 Kf8 22.Rf1 Ke7 23.Rf3 Rg8 24.Rdf2 Rg6 25.d4 Bb7 26.h3 h5 27.Rd2 Rcg8 28.d5 Rd8 29.Nd4 exd5 30.Nf5+ Kf8 31.Nh4 Rg5 32.Rxf6 Re8 33.Rdf2 Rxe4+ 34.Kd2 Rg7 35.Nf5 Rh7 36.Nd6 Re7 37.Nxb7 Rxb7 38.Rd6 Ke7 39.Rxd5 Rd7 40.Rxd7+ Kxd7 41.Re2 Rg7 42.Ke3 Rg5 43.Kf4 Rb5 44.Kf3 a5 45.Kf4 Kd6 46.Rd2+ Kc5 47.Ke4 Kc4 48.Rf2 Kb3 49.Kd4 Rg5 50.Rxf7 Rxg2 51.Rf3+ Kxb2 52.Kc4 Rg5 53.a4 h4 54.Rf4 Rc5+ 55.Kd4 Kb3 56.Rf6 Rc4+ 57.Kd5 Rb4 58.Rg6 Kxa4 59.Rg4 Rxg4 60.hxg4 h3 61.Kd4 0-1

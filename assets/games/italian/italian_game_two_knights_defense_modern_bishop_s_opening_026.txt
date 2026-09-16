@@ -1,0 +1,15 @@
+[Event "Round 1: Sevian, Samuel - So, Wesley"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-1/9ft43u55/uUr6AMVY"]
+[Date "2026.07.05"]
+[Round "1.5"]
+[White "Sevian, Samuel"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteElo "2677"]
+[BlackElo "2772"]
+[ECO "C55"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a3 Be6 8.Nc3 Bxc4 9.dxc4 a5 10.Be3 Nb8 11.h3 Nbd7 12.Nh2 c6 13.Qf3 Re8 14.Rad1 a4 15.Ng4 Qc7 16.Rd2 Nb6 17.Qe2 Nfd7 18.Red1 Nc5 19.g3 Bf8 20.h4 Qc8 21.Rxd6 Bxd6 22.Rxd6 Nbd7 23.h5 Re6 24.Rd1 h6 25.Qf3 Qf8 26.Kg2 Rd6 27.Rh1 Ne6 28.Ne2 Re8 29.b4 axb3 30.cxb3 Rd3 31.Rb1 Nd4 32.Nxd4 exd4 33.Qe2 Nc5 34.Bxh6 Rxe4 35.Nf6+ gxf6 36.Qxd3 Nxd3 37.Bxf8 Kxf8 38.Rd1 Ne1+ 39.Kf1 Nf3 40.Kg2 Ne1+ 41.Kf1 Nf3 42.Kg2 Ne5 43.f3 Re2+ 44.Kf1 Re3 45.f4 Rd3 46.Rxd3 Nxd3 47.b4 c5 48.b5 Nb2 0-1

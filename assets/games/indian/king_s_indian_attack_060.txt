@@ -1,0 +1,14 @@
+[Event "Round 7: Ristic, Luka - De La Riva Aguado, Oscar"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/fy5qqZRS"]
+[Date "2026.07.09"]
+[Round "7.14"]
+[White "Ristic, Luka"]
+[Black "De La Riva Aguado, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2431"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bf5 4.c4 dxc4 5.O-O Nd7 1/2-1/2

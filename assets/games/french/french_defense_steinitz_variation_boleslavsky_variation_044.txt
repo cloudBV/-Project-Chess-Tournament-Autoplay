@@ -1,0 +1,14 @@
+[Event "Round 13: Maruntis, Patrik-Robert - Nguyen Thi Mai Hung"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-13/22N95Wf4/Kpxwya85"]
+[Date "2026.07.19"]
+[Round "13.16"]
+[White "Maruntis, Patrik-Robert"]
+[Black "Nguyen Thi Mai Hung"]
+[Result "1-0"]
+[WhiteElo "2167"]
+[BlackElo "2039"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Be2 O-O 9.O-O b6 10.f5 cxd4 11.Nxd4 Ndxe5 12.Kh1 Bd7 13.Ncb5 Bf6 14.c3 a6 15.Nxc6 Nxc6 16.fxe6 fxe6 17.Nd4 b5 18.Bg4 e5 19.Ne6 Bxe6 20.Bxe6+ Kh8 21.Bxd5 Rc8 22.Bc5 Ne7 23.Bxe7 Qxe7 24.Be4 Rc4 25.Bd3 Rh4 26.g3 Qb7+ 27.Qf3 Qxf3+ 28.Rxf3 Rh6 29.a4 Rb8 30.axb5 axb5 31.Bxb5 e4 32.Re3 Kg8 33.Bc4+ Kf8 34.b3 Rh5 35.Rae1 Re5 36.Rxe4 Rxe4 37.Rxe4 Bxc3 38.Rf4+ Bf6 39.Kg2 h6 40.Rf2 Ke7 41.Rb2 1-0

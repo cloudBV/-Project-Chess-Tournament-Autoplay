@@ -1,0 +1,14 @@
+[Event "Round 5: Triantafilidis, Mihail - Karapiperis, Alexandros"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/YJyiwlyl"]
+[Date "2026.07.08"]
+[Round "5.54"]
+[White "Triantafilidis, Mihail"]
+[Black "Karapiperis, Alexandros"]
+[Result "0-1"]
+[WhiteElo "2188"]
+[BlackElo "2084"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Horwitz Attack, Papa-Ticulat Gambit"]
+
+1.e4 e6 2.b3 d5 3.Bb2 dxe4 4.Nc3 Nf6 5.Qe2 Be7 6.Nxe4 Nxe4 7.Qxe4 Bf6 8.d4 Qd5 9.Bd3 Nc6 10.c3 Qxe4+ 11.Bxe4 Bd7 12.f4 O-O-O 13.Nf3 Ne7 14.O-O Bc6 15.Bxc6 Nxc6 16.Ne5 Rhf8 17.Ba3 Ne7 18.g4 Rde8 19.Rf3 Bxe5 20.fxe5 f5 21.exf6 gxf6 22.Re1 Kd7 23.Rfe3 Nd5 24.Rh3 Rf7 25.c4 Nf4 26.Rf3 Ng6 27.Ref1 e5 28.Bb2 Nf4 29.Re1 Ref8 30.Kh1 Ng6 31.Ref1 Nh4 32.Rh3 Ng6 33.Rhf3 Nh4 34.Rd3 e4 35.Re3 f5 36.gxf5 Rxf5 37.Rxf5 Rxf5 38.Re1 Rf2 39.Kg1 Rg2+ 40.Kf1 Rxb2 41.Rxe4 Rxh2 42.Rg4 Ng6 0-1

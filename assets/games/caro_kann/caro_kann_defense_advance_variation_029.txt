@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.4"]
+[White "Warchol, Kamil"]
+[Black "Stepinski, Piotr"]
+[Result "0-1"]
+[WhiteElo "2297"]
+[BlackElo "2281"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Na6 4.c3 Nc7 5.Bd3 g6 6.Nd2 h5 7.Ndf3 Nh6 8.Nh4 Bg4 9.Ngf3 Qd7 10.h3 Bxf3 11.Nxf3 Nf5 12.Qc2 e6 13.Bg5 Be7 14.Qd2 Bxg5 15.Qxg5 Qe7 16.Qf4 b6 17.O-O-O O-O-O 18.g4 Ng7 19.Qe3 Kb7 20.Ng5 Rdf8 21.f4 c5 22.Rdf1 cxd4 23.cxd4 f6 24.Nf3 f5 25.g5 Rc8 26.Kb1 h4 27.Qf2 Qb4 28.Nxh4 Nb5 29.Bxb5 Qxb5 30.Rd1 Rc7 31.Nxg6 Rhc8 32.Rd2 Nh5 33.Qf3 Qb4 34.Re2 Qxd4 35.a3 a5 36.Rf1 a4 37.Nh4 Nxf4 38.Ref2 Nd3 39.Rd2 Rc1+ 40.Rxc1 Rxc1+ 41.Ka2 Qc4+ 0-1

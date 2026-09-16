@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.2"]
+[White "Chiszko, Oskar"]
+[Black "Madejski, Milosz"]
+[Result "1-0"]
+[WhiteElo "2214"]
+[BlackElo "2130"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.c4 Nf6 2.Nf3 e6 3.Nc3 d5 4.cxd5 exd5 5.d4 c6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 Bf5 9.Be2 Nbd7 10.Nh4 Bg6 11.O-O O-O 12.Nxg6 hxg6 13.Qc2 Rfe8 14.Rae1 Ne4 15.Nd1 Rac8 16.f3 Nef6 17.Qd2 Re7 18.Nc3 Rce8 19.Bd1 c5 20.Ba4 a6 21.Bxd7 Rxd7 22.dxc5 Qxc5 23.Qd4 Qxd4 24.exd4 Rde7 25.Rxe7 Rxe7 26.Kf2 Kf8 27.h4 Rd7 28.g4 Ne8 29.Ke2 Nd6 30.Kd3 Nc4 31.b3 Na5 32.Na4 Nc6 33.a3 a5 34.Rc1 Ke7 35.Rc2 Kd6 36.Nb6 Rd8 37.Rc5 Ke6 38.Rb5 Rd6 39.Na4 g5 40.hxg5 Rd8 41.Nc5+ Ke7 42.Rxb7+ Kd6 43.Rxf7 Rh8 44.Rd7# 1-0

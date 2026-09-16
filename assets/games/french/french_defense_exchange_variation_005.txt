@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.04"]
+[Round "2.1"]
+[White "Caceres Leal, Jaime"]
+[Black "Hernandez Riera, Jose"]
+[Result "1-0"]
+[WhiteElo "2226"]
+[BlackElo "2163"]
+[ECO "C01"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.h3 Bd6 6.c4 Qe7+ 7.Be2 dxc4 8.O-O Nf6 9.Nc3 h6 10.Re1 O-O 11.Bxc4 Qd8 12.a3 Bf5 13.Be3 Re8 14.Nh4 Bh7 15.Qf3 a6 16.Ba2 Bf8 17.Rad1 Qd6 18.Nf5 Bxf5 19.Qxf5 Rad8 20.Qg6 Rd7 21.Bxh6 Rxe1+ 22.Rxe1 Nxd4 23.Bg5 Nh7 24.Qxd6 Rxd6 25.Bf4 Rd7 26.Re8 c6 27.Rb8 Nf6 28.Be5 Nb5 29.g4 Nxc3 30.Bxc3 Ne4 31.Ba5 g6 32.f3 Nd6 33.Bb4 Kg7 34.Bc3+ Kg8 35.Bf6 Nb5 36.h4 c5 37.g5 Nd4 38.h5 Nxf3+ 39.Kf2 Nd4 40.h6 Ne6 41.h7+ 1-0

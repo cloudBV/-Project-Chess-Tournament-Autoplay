@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.6"]
+[White "Grot, Blazej"]
+[Black "Jasiulewicz, Dawid"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2225"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nf6 6.a3 Bxc3+ 7.bxc3 O-O 8.Ne2 Ne4 9.O-O Re8 10.c4 c6 11.Rb1 dxc4 12.Bxc4 Nd7 13.Bd3 Nb6 14.c4 Qe7 15.Qc2 h6 16.Ng3 Nxg3 17.hxg3 Be6 18.a4 Qd7 19.Bb2 Nc8 20.Qc3 f6 21.Ba3 Ne7 22.a5 Rad8 23.Bc5 Nc8 24.Rfd1 Kh8 25.Bc2 Bf5 26.Bxf5 Qxf5 27.Rxb7 Nd6 28.Bxd6 Rxd6 29.Rxa7 Re2 30.Rf1 Qe4 31.Rd1 Qf5 32.Qf3 Qxf3 33.gxf3 Rc2 34.a6 Rxc4 35.Re1 Rdxd4 36.Re8+ Kh7 37.Ree7 Kg6 38.Rxg7+ Kf5 39.Kg2 Ra4 40.Rh7 Kg6 41.Rag7+ Kf5 42.a7 Rd2 43.Rxh6 Raa2 44.g4+ Ke5 45.f4+ Ke6 46.g5 Rxf2+ 47.Kg3 Rg2+ 48.Kf3 Rgf2+ 49.Kg4 Rg2+ 50.Kh5 Rh2+ 51.Kg6 Rhg2 52.Kh7 Kf5 53.Rxf6+ Ke4 54.Rf8 Rh2+ 55.Kg8 Kd5 1-0

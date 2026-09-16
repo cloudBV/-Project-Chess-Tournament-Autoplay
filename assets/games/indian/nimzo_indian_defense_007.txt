@@ -1,0 +1,14 @@
+[Event "Round 7: Tsamtsouris, Efthymios - Bougas, Georgios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-7/b2O1BmYX/H2Axl50l"]
+[Date "2026.07.16"]
+[Round "7.4"]
+[White "Tsamtsouris, Efthymios"]
+[Black "Bougas, Georgios"]
+[Result "1/2-1/2"]
+[WhiteElo "2005"]
+[BlackElo "2021"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 O-O 5.Nf3 c5 6.a3 Bxc3 7.Bxc3 Ne4 8.Qc2 Nxc3 9.Qxc3 b6 10.Rd1 Qf6 11.g3 Bb7 12.Bg2 Be4 13.O-O Nc6 14.dxc5 Qxc3 15.bxc3 Rfd8 16.Rd6 bxc5 17.Rfd1 Rab8 18.Rxd7 Rxd7 19.Rxd7 h6 20.Nd2 Bxg2 21.Kxg2 Rb2 22.Rc7 Rxd2 23.Rxc6 Rxe2 24.Rxc5 Rc2 25.Rc8+ Kh7 26.Rc7 Rxc3 27.Rxa7 Kg6 28.Ra4 Kf6 29.h4 g5 30.hxg5+ hxg5 31.Kf1 Ke5 32.Ra5+ Ke4 33.Rxg5 Kf3 34.Re5 Rxc4 35.Re3+ Kg4 36.Kg2 Kf5 37.Rf3+ Kg6 38.Rf4 Rc3 39.Ra4 Rc2 40.Ra8 Ra2 41.g4 Ra1 42.Ra5 Kf6 43.f3 Kg6 44.Kg3 Ra2 45.a4 Ra1 46.Kf4 Kf6 47.Ra7 Ra3 48.a5 Ra4+ 49.Kg3 Kg6 50.a6 Kf6 51.Ra8 Kg7 52.Kf2 Ra3 53.Kg3 Ra4 54.f4 Ra3+ 55.Kh4 Ra5 56.a7 Kf6 57.Kg3 Ra3+ 58.Kf2 Kg7 59.Ke2 Ra1 60.Kd3 Ra4 61.Kc3 Ra1 62.Kb4 Ra2 63.Kc5 Ra1 64.Kd6 Ra2 65.Ke7 Ra1 66.Kd6 Ra2 67.Ke5 Ra5+ 68.Ke4 Ra3 69.Kd4 Ra4+ 70.Ke3 Ra3+ 71.Kf2 Kf6 72.Kg2 Kg7 73.f5 exf5 74.gxf5 Kf6 75.Kf2 1/2-1/2

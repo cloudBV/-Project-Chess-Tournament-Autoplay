@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.4"]
+[White "Kormos, Adam"]
+[Black "Borocz, Lorinc"]
+[Result "1/2-1/2"]
+[WhiteElo "2146"]
+[BlackElo "2167"]
+[ECO "B30"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 e6 4.O-O d5 5.Bb5 dxe4 6.Ne5 Qc7 7.Nxc6 bxc6 8.Bc4 Nf6 9.Nc3 Bd6 10.h3 O-O 11.Qe2 Be7 12.Nxe4 Nd5 13.d3 Rb8 14.Be3 f5 15.Nxc5 f4 16.Bd4 f3 17.Qe4 fxg2 18.Rfe1 Kh8 19.Nxe6 Bxe6 20.Qxe6 Bf6 21.Qg4 Bxd4 22.Qxd4 Nf4 23.Qe3 Qd8 24.Qg3 Qf6 25.Kh2 Qxb2 26.Bb3 Qd4 27.Qe3 Qf6 28.d4 h6 29.c3 Qd6 30.Qe5 Qd7 31.Be6 Qe7 32.Bb3 Qd7 33.Be6 Qd8 34.Bb3 Nd3 35.Qg3 Nxe1 36.Rxe1 Qf6 37.Kxg2 a5 38.Re6 Qf5 39.Re5 Qf4 40.Rxa5 Qe4+ 41.Kh2 Qf3 42.Kg1 Qxg3+ 43.fxg3 Rf3 44.Kg2 Rxc3 45.d5 c5 46.Ra4 Rd3 47.h4 Re8 48.h5 Rc3 49.d6 Rd3 50.Ra6 Rd8 51.Rc6 R8xd6 52.Rc8+ Rd8 53.Rxc5 Rb8 1/2-1/2

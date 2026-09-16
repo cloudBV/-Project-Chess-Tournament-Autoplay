@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.09"]
+[Round "8.5"]
+[White "Fernandez, Daniel Howard"]
+[Black "Amartuvshin, Ganzorig"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2443"]
+[ECO "B22"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 Nc6 7.Be3 Ng4 8.Bg5 cxd4 9.Nb5 Bd6 10.Bc4 Qe4+ 11.Kf1 Bb8 12.Nbxd4 Nge5 13.Nxe5 Nxe5 14.Bb5+ Bd7 15.Qa4 f6 16.Be3 Bxb5+ 17.Qxb5+ Kf7 18.Qb3 Re8 19.Re1 Re7 20.f3 Qd3+ 21.Kf2 Qa6 22.Rd1 Nc4 23.Bc1 Be5 24.g3 Rd8 25.Ne2 Bc7 26.Qc2 Red7 27.b3 Bb6+ 28.Kg2 Rd2 29.Bxd2 Rxd2 30.Qxd2 Nxd2 31.Rxd2 Be3 32.Rb2 Qd3 33.Rf1 Bd2 34.c4 e5 35.Ng1 Bc3 36.Re2 Bd4 37.Rfe1 Bxg1 38.Kxg1 Qxf3 39.Rxe5 fxe5 40.Rf1 Qf6 41.Rxf6+ gxf6 42.g4 Ke6 43.Kf2 a5 44.Ke3 Kd6 45.a3 Kc5 46.Kd3 b5 47.cxb5 Kxb5 48.g5 fxg5 49.Ke4 g4 50.Kxe5 Kc5 51.Kf4 Kd4 52.Kxg4 Kc3 53.b4 axb4 54.axb4 Kxb4 55.Kg5 Kc5 56.Kh6 Kd6 57.Kxh7 Ke6 58.Kg6 Ke7 59.Kg7 1-0

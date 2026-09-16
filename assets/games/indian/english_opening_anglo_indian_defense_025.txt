@@ -1,0 +1,15 @@
+[Event "Round 3: Asis Gargatagli, Hipolito - Xu, Yang"]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-3/0iM2v1XU/C0YKheN8"]
+[Date "2026.07.24"]
+[Round "3.5"]
+[White "Asis Gargatagli, Hipolito"]
+[Black "Xu, Yang"]
+[Result "1/2-1/2"]
+[WhiteElo "2463"]
+[BlackElo "2288"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 d4 5.d3 Nc6 6.O-O Bc5 7.Nbd2 a5 8.Nb3 Be7 9.e3 dxe3 10.Bxe3 Ng4 11.Bc5 a4 12.Bxe7 Qxe7 13.Nbd4 Nxd4 14.Nxd4 Nh6 15.Qd2 O-O 16.Nc2 Nf5 17.d4 Rd8 18.Rad1 Bd7 19.Rfe1 Bc6 20.d5 Qf6 21.Qf4 1/2-1/2

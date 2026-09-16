@@ -1,0 +1,15 @@
+[Event "Round 5: Zhao, Liming - Obidov, Biloliddin"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-5/lc7iCFEc/Uv6lijil"]
+[Date "2026.07.19"]
+[Round "5.10"]
+[White "Zhao, Liming"]
+[Black "Obidov, Biloliddin"]
+[Result "1/2-1/2"]
+[WhiteElo "2051"]
+[BlackElo "2207"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 dxc4 4.Qa4+ Nd7 5.Qxc4 a6 6.Bg2 b5 7.Qc2 Bb7 8.O-O Ngf6 9.Nc3 c5 10.a4 Qb6 11.d3 Be7 12.e4 O-O 13.b3 Rac8 14.h3 c4 15.bxc4 bxc4 16.Rb1 Qa7 17.d4 Qa8 18.Re1 a5 19.Bf4 Bb4 20.Nd2 Rfd8 21.Na2 Bf8 22.Qb2 Bc6 23.Rbc1 Bb7 24.Qb1 Qa6 25.Qb5 Qxb5 26.axb5 Nb6 27.Be3 Bb4 28.Nc3 a4 29.f3 Ne8 1/2-1/2

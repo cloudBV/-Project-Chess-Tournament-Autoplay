@@ -1,0 +1,14 @@
+[Event "Round 7: Muntean, Victor - Vernersson, Per"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/jDPmykOP"]
+[Date "2026.06.24"]
+[Round "7.1"]
+[White "Muntean, Victor"]
+[Black "Vernersson, Per"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2282"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bg4 6.Be2 Nd7 7.Ne1 Bxe2+ 8.Kxe2 e5 9.Nd3 Ngf6 10.f3 Bd6 11.Be3 Ke7 12.a4 a5 13.Nd2 Bc7 14.c4 b6 15.c5 bxc5 16.Rhc1 Rhb8 17.Rc2 Ra6 18.Rac1 Ne8 19.Bxc5+ Bd6 20.Bxd6+ Kxd6 21.Nc4+ Kc7 22.Ncxe5 Nxe5 23.Nxe5 Rbb6 24.Nxf7 Rb4 25.Ne5 Kd6 26.Nxc6 Rxa4 27.Rd2+ Ke6 28.Nd4+ Kf7 29.Rc6 Ra7 30.Rb6 Rc7 31.Nb5 Re7 32.Nd6+ Nxd6 33.Rbxd6 Rb4 34.Rd7 a4 35.Rxe7+ Kxe7 36.Kd3 a3 37.bxa3 Rb3+ 38.Kd4 Rxa3 39.Rb2 Ra4+ 40.Ke5 Ra5+ 41.Kf4 1-0

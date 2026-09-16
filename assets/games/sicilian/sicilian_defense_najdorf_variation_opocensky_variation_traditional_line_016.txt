@@ -1,0 +1,15 @@
+[Event "Round 4: Rechberger, Franz - Bekker, Stefan"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/m6bby8jy"]
+[Date "2026.07.19"]
+[Round "4.12"]
+[White "Rechberger, Franz"]
+[Black "Bekker, Stefan"]
+[Result "0-1"]
+[WhiteElo "2064"]
+[BlackElo "2345"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Be6 10.Nd5 Nbd7 11.Qd3 Bxd5 12.exd5 Ne8 13.Bg4 Nc5 14.Nxc5 dxc5 15.c4 Bd6 16.a3 g6 17.b4 b6 18.bxc5 Bxc5 19.Bxc5 bxc5 20.f4 exf4 21.Rxf4 Nd6 22.Rff1 Qh4 23.Bf3 Rfe8 24.Rac1 Re5 25.Qd2 Rae8 26.g3 Qd8 27.a4 Nf5 28.d6 Kg7 29.Bd5 Qxd6 30.Rb1 R8e7 31.a5 Ne3 32.Rb6 Nxf1 33.Qf4 Nxg3 0-1

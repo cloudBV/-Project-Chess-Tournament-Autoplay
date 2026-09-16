@@ -1,0 +1,15 @@
+[Event "Round 11: Bodemar, Jonathan - Seo, Jung Min"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-11/f48PfxuG/SNvDDBgk"]
+[Date "2026.07.01"]
+[Round "11.2"]
+[White "Bodemar, Jonathan"]
+[Black "Seo, Jung Min"]
+[Result "0-1"]
+[WhiteElo "2124"]
+[BlackElo "2488"]
+[ECO "B24"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Rb8 6.Be3 d6 7.Qd2 b5 8.Nge2 b4 9.Nd1 Nf6 10.h3 Nd7 11.O-O a5 12.Bh6 O-O 13.Bxg7 Kxg7 14.Ne3 Nd4 15.f4 e6 16.f5 exf5 17.exf5 Nxe2+ 18.Qxe2 Re8 19.Qf2 Ne5 20.f6+ Kh8 21.Qf4 Be6 22.Qh6 Rg8 23.Rf4 Qf8 24.Qxf8 Rgxf8 25.g4 g5 26.Rf2 Ng6 27.Kh2 Rbd8 28.Bd5 Rfe8 29.Bxe6 Rxe6 30.Nd5 Re5 31.Nb6 d5 32.d4 cxd4 33.Rd1 Re6 34.Na4 Nf4 35.h4 h6 36.Rxd4 Rxf6 37.Nc5 Kg7 38.Nb7 Ra8 39.a3 bxa3 40.bxa3 Rc6 41.Ra4 Ra7 42.hxg5 hxg5 43.Nxa5 Rca6 0-1

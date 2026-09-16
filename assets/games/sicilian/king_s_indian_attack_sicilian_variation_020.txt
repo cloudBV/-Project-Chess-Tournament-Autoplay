@@ -1,0 +1,14 @@
+[Event "Round 3: Leutwyler, Martin - Loetscher, Roland"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-3/o1oo5VAP/rJfLjOZy"]
+[Date "2026.07.13"]
+[Round "3.3"]
+[White "Leutwyler, Martin"]
+[Black "Loetscher, Roland"]
+[Result "0-1"]
+[WhiteElo "2072"]
+[BlackElo "2340"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 e6 4.O-O Nf6 5.d4 cxd4 6.Nxd4 e5 7.Nb3 Be6 8.Nc3 Be7 9.f4 exf4 10.gxf4 g6 11.Kh1 Nc6 12.Be3 O-O 13.Qd2 Qc8 14.Rad1 Rd8 15.Bc5 Bxc5 16.Nxc5 d4 17.N3e4 Ng4 18.f5 Bxf5 19.Qg5 Qc7 20.Nf6+ Nxf6 21.Rxf5 h6 22.Qxf6 Rd6 23.Qh4 gxf5 24.Qg3+ Kh7 25.Nxb7 Rd7 26.Qf3 Ne7 27.Nc5 Qxc5 28.Qxa8 Qxc2 29.Rg1 Qxe2 30.Bc6 Rc7 31.Qf8 Ng6 32.Qd6 Qe7 33.Qxe7 Nxe7 34.Ba4 Nd5 35.Kg2 Kg6 36.Bb3 Ne3+ 37.Kf3+ Kf6 38.Rg8 Ng4 39.h4 Re7 40.Rd8 Re3+ 41.Kf4 Re4+ 42.Kg3 Ne5 43.Rd6+ Kg7 44.h5 f4+ 45.Kf2 d3 46.Ra6 Re2+ 47.Kf1 f3 48.Rd6 Rxb2 0-1

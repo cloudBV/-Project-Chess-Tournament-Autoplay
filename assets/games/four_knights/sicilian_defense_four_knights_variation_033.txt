@@ -1,0 +1,14 @@
+[Event "Round 4: Dubiel, Jacek - Kaiser, Dieter"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-4/BibKTVzv/B7qrKzzA"]
+[Date "2026.07.07"]
+[Round "4.1"]
+[White "Dubiel, Jacek"]
+[Black "Kaiser, Dieter"]
+[Result "1/2-1/2"]
+[WhiteElo "2344"]
+[BlackElo "2166"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5 9.exd5 exd5 10.Bd3 O-O 11.O-O Bg4 12.f3 Bh5 13.Bg5 Qb6+ 14.Kh1 Ne4 15.Nxe4 dxe4 16.Bxe4 Qxb2 17.Qb1 Qb6 18.Qxb6 axb6 19.Rfb1 Bg6 20.Bxg6 hxg6 21.Rxb6 Nd4 22.c3 Nc2 23.Rc1 Nxa3 24.Rxb7 f6 25.Be3 Nc4 26.Bd4 g5 27.Rc7 Rfc8 28.Rxc8+ Rxc8 29.Rb1 Ra8 30.h3 Ra2 31.Rb4 Nd6 32.c4 Nf5 33.Bg1 Nd6 34.Bd4 Rc2 1/2-1/2

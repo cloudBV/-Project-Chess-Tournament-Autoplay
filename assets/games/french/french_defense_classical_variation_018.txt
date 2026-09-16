@@ -1,0 +1,15 @@
+[Event "Round 4: Zilka, Stepan - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-4/802QdXAU/A4VNHlXc"]
+[Date "2026.07.23"]
+[Round "4.3"]
+[White "Zilka, Stepan"]
+[Black "Badacsonyi, Stanley"]
+[Result "0-1"]
+[WhiteElo "2462"]
+[BlackElo "2476"]
+[ECO "C13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Nxf6+ Bxf6 7.Bxf6 Qxf6 8.Nf3 O-O 9.Qd3 Bd7 10.O-O-O Rd8 11.Qe3 Bc6 12.Ne5 Nd7 13.Nxc6 bxc6 14.Be2 Qf5 15.Bf3 Qb5 16.Qc3 Nb8 17.Rhe1 a5 18.Re5 Qb4 19.Rc5 Ra6 20.a3 Qxc3 21.Rxc3 Rd6 22.Be2 Ra7 23.Rb3 Nd7 24.c4 c5 25.dxc5 Rxd1+ 26.Kxd1 Kf8 27.Bf3 Nxc5 28.Rb5 Nd7 29.Kc2 Ke7 30.Kc3 Kd6 31.Rb7 Rxb7 32.Bxb7 c6 33.b4 Kc7 34.Ba6 Nb8 35.b5 Nxa6 36.bxa6 c5 37.Kd3 f5 38.Ke3 e5 39.g4 g6 40.gxf5 gxf5 41.Kf3 Kb6 42.Kg3 h6 43.Kh4 Kxa6 44.Kh5 e4 45.h4 a4 46.Kxh6 f4 47.Kg6 e3 48.fxe3 fxe3 49.h5 e2 0-1

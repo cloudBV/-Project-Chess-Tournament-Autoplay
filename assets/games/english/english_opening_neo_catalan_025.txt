@@ -1,0 +1,15 @@
+[Event "Round 5: Tenguundalai Ganbat - Makhamadullaev, Mukhammaddiyor"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-5/xJC51h4A/N6VowDeo"]
+[Date "2026.07.19"]
+[Round "5.16"]
+[White "Tenguundalai Ganbat"]
+[Black "Makhamadullaev, Mukhammaddiyor"]
+[Result "1/2-1/2"]
+[WhiteElo "2276"]
+[BlackElo "2088"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.d4 Bb4+ 5.Nbd2 O-O 6.Bg2 dxc4 7.O-O b5 8.a4 c6 9.axb5 cxb5 10.Ng5 Nd5 11.e4 c3 12.exd5 cxd2 13.Bxd2 Bxd2 14.Qxd2 exd5 15.Rfc1 h6 16.Ne4 Na6 17.Nc5 Nxc5 18.Rxc5 Be6 19.Rxb5 Rb8 20.Rba5 Qb6 21.Bxd5 Qxb2 22.Qxb2 Rxb2 23.Bf3 Rfb8 24.Rxa7 Rd2 25.Ra8 Rxa8 26.Rxa8+ Kh7 27.d5 Bh3 28.Ra4 g5 29.Ra1 Kg7 30.Rd1 Rxd1+ 31.Bxd1 Kf6 32.g4 Ke5 33.f3 Kxd5 34.Bb3+ Ke5 35.Bxf7 Kf4 36.Kf2 Bxg4 37.fxg4 Ke5 1/2-1/2

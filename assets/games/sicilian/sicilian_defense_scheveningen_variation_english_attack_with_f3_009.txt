@@ -1,0 +1,14 @@
+[Event "Round 7: Asikainen, Eeli - Agopov, Mikael"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-7/fymOfFBu/Q7zbn6hZ"]
+[Date "2026.07.16"]
+[Round "7.10"]
+[White "Asikainen, Eeli"]
+[Black "Agopov, Mikael"]
+[Result "1/2-1/2"]
+[WhiteElo "2142"]
+[BlackElo "2388"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 b5 8.g4 Bb7 9.Qd2 Nfd7 10.O-O-O Nb6 11.Nb3 N8d7 12.Na5 Qc7 13.h4 b4 14.Ne2 d5 15.Nxb7 Qxb7 16.exd5 Nxd5 17.Bd4 O-O-O 18.f4 Nc7 19.Ng3 Bc5 20.Bg2 Qb6 21.Ne4 Bxd4 22.Qxd4 Qxd4 23.Rxd4 Nb6 24.Nd6+ Kb8 25.Rhd1 a5 26.Nxf7 Rxd4 27.Rxd4 Rf8 28.Rd8+ Rxd8 29.Nxd8 Kc8 30.Nc6 Ncd5 31.Bxd5 Nxd5 32.Nxa5 Kc7 33.Nc4 Nxf4 34.Kd2 g6 35.c3 bxc3+ 36.Kxc3 h5 37.gxh5 gxh5 38.Ne3 Kd6 39.a4 Ng6 40.Nf1 Nxh4 41.Ng3 e5 42.Kc4 Nf3 43.Nxh5 Nd2+ 44.Kb5 e4 45.Ng3 Kc7 46.b4 e3 47.Ka6 Ne4 48.Ne2 Kc6 49.a5 Nf6 50.Nd4+ Kd5 51.Nc2 e2 52.Kb7 Ne4 53.Kb6 Nd6 54.a6 Kc4 55.Kc6 Nb5 56.Kb6 Nd6 57.Ka5 Nb5 58.Ne3+ Kd3 59.Ng2 Kc4 60.Ne1 Nd4 61.Ka4 Nb5 62.Ka5 Nd4 63.Kb6 Nb5 64.Nc2 Nd4 65.Ne1 Nb5 66.a7 Nxa7 67.Kxa7 Kxb4 68.Kb6 Kc3 69.Kc5 Kd2 70.Ng2 e1=Q 71.Nxe1 1/2-1/2

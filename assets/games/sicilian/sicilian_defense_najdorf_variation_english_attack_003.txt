@@ -1,0 +1,14 @@
+[Event "Round 7: Eklund, Joel - Tronsson, Martin"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/2fTgrbVk"]
+[Date "2026.07.02"]
+[Round "7.5"]
+[White "Eklund, Joel"]
+[Black "Tronsson, Martin"]
+[Result "1-0"]
+[WhiteElo "2134"]
+[BlackElo "2080"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Be6 10.Bxe6 fxe6 11.Na4 Ng4 12.Qd3 Nxe3 13.Qxe3 b5 14.Nb6 Rxf3 15.gxf3 Bg5 16.f4 exf4 17.Qh3 Qxb6 18.Qxe6+ Kf8 19.Qd5 Nc6 20.Qxg5 Ne5 21.Qf5+ Kg8 22.Qe6+ Kh8 23.Rad1 Rd8 24.Rd5 Qb8 25.Rfd1 Nc4 26.b3 Re8 27.Qf5 Rf8 28.Qh5 g6 29.Qh3 Ne5 30.Rxd6 Qc7 31.Qe6 Nf7 32.Rd7 Qxc2 33.R1d2 Qc1+ 34.Rd1 Qc2 35.Qf6+ Kg8 36.h3 Qe2 37.e5 Qxe5 38.Qxe5 Nxe5 39.Ra7 g5 40.Rxa6 Kg7 41.Rd5 Rf5 42.Kf1 1-0

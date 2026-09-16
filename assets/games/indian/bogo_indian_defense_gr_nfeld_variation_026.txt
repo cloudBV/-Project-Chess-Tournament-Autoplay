@@ -1,0 +1,15 @@
+[Event "Round 2: Janukshan, B - Shen, Fuyan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-2/5Ey0SplQ/YFA9gEgU"]
+[Date "2026.07.18"]
+[Round "2.10"]
+[White "Janukshan, B"]
+[Black "Shen, Fuyan"]
+[Result "0-1"]
+[WhiteElo "2112"]
+[BlackElo "2337"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e3 c5 7.b3 cxd4 8.exd4 b6 9.Bb2 d5 10.Bd3 Bb7 11.Qe2 Nbd7 12.O-O Rc8 13.Rfd1 Qc7 14.Rac1 Qb8 15.Bb1 Rfd8 16.Re1 Qa8 17.Qe3 a5 18.Ne5 Nxe5 19.dxe5 Nd7 20.cxd5 Rxc1 21.Rxc1 Bxd5 22.Qh3 Nf8 23.Nf1 Ng6 24.Rd1 Nh4 25.Ne3 Bxg2 26.Rxd8+ Qxd8 27.Qg4 Bc6 28.Be4 h5 29.Qf4 Bg5 30.Bh7+ Kxh7 31.Qxf7 Nf3+ 32.Kf1 Qd3+ 0-1

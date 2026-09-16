@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "3.9"]
+[White "Hansen, Torbjorn Ringdal"]
+[Black "Elsness, Frode"]
+[Result "1-0"]
+[WhiteElo "2383"]
+[BlackElo "2410"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 h6 6.a3 a6 7.Be3 d6 8.Bxc5 dxc5 9.Nd5 Be6 10.Ne3 Qe7 11.O-O Rd8 12.Qe1 Bxc4 13.Nxc4 O-O 14.Nh4 Nd4 15.Ne3 Nh5 16.f3 Qg5 17.g3 g6 18.Nhg2 f5 19.exf5 gxf5 20.c3 Nc6 21.Rd1 f4 22.Ng4 Rf7 23.gxf4 Nxf4 24.Nxf4 Rxf4 25.Kh1 Kh8 26.Qe2 h5 27.Nf2 Qf5 28.Ne4 b6 29.Rg1 Qf7 30.Rg5 Rg8 31.Rdg1 Rxg5 32.Rxg5 Rf5 33.Rg1 Nd8 34.Qe3 Rf4 35.d4 Ne6 36.dxe5 Qf5 37.Nf6 Ng5 38.h3 1-0

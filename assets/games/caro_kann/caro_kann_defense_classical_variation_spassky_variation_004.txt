@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "3.20"]
+[White "Odor, Istvan"]
+[Black "Bodnar, Zoltan"]
+[Result "0-1"]
+[WhiteElo "2024"]
+[BlackElo "2153"]
+[ECO "B19"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Bb4 13.c3 Be7 14.c4 Qc7 15.O-O-O Ngf6 16.Ne4 O-O 17.g3 Rad8 18.Nxf6+ Nxf6 19.Qe2 c5 20.Bc3 cxd4 21.Nxd4 Rc8 22.b3 a6 23.Kb1 b5 24.Bb2 bxc4 25.Rc1 Qb7 26.Rhe1 Bb4 27.bxc4 Bxe1 28.Rxe1 Qb4 29.Rc1 Qc5 30.g4 Rb8 31.Nb3 Qg5 32.f3 a5 33.Ka1 a4 34.Nd4 Qf4 35.a3 Rfd8 36.Nb5 Rdc8 37.Rc2 Nd7 38.Ka2 Rc5 39.Bc1 Qe5 40.Qd3 Rbxb5 41.Qxd7 Rb8 42.Qxa4 Qc7 43.Rc3 Rc8 44.f4 Rxc4 45.Rxc4 Qxc4+ 46.Qxc4 Rxc4 47.Kb2 e5 48.fxe5 Rxg4 49.Be3 Re4 0-1

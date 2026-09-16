@@ -1,0 +1,15 @@
+[Event "Round 8: Sagar, Shah - Rensch, Daniel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-8/AQLWkv6n/csYVbpwT"]
+[Date "2026.07.05"]
+[Round "8.5"]
+[White "Sagar, Shah"]
+[Black "Rensch, Daniel"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2401"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.e3 Nc6 8.Bb2 b6 9.cxd5 exd5 10.d4 h6 11.Nc3 Bg4 12.dxc5 bxc5 13.h3 Be6 14.Rc1 Rc8 15.Na4 Ne4 16.Nd2 Nxd2 17.Qxd2 c4 18.Rfd1 cxb3 19.axb3 Qd7 20.Kh2 Rfd8 21.Bd4 Nxd4 22.Qxd4 Rxc1 23.Rxc1 Bf6 24.Qc5 d4 25.Rd1 Bxb3 26.Bc6 Qd6 27.Rb1 Qxc5 28.Nxc5 Bc2 29.Rc1 d3 30.Bf3 Bb2 31.Re1 d2 32.Rf1 0-1

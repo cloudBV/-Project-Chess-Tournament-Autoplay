@@ -1,0 +1,14 @@
+[Event "Round 6: Theodorou, Nikolas - Gkoumas, Georgios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/jDsbeHxV"]
+[Date "2026.07.10"]
+[Round "6.1"]
+[White "Theodorou, Nikolas"]
+[Black "Gkoumas, Georgios"]
+[Result "1-0"]
+[WhiteElo "2628"]
+[BlackElo "2439"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Bd6 5.d4 O-O 6.c4 c6 7.b3 Nbd7 8.Bb2 a5 9.Nc3 Ne4 10.Nxe4 dxe4 11.Ne5 f5 12.f3 exf3 13.Nxf3 Qe7 14.e4 fxe4 15.Nd2 Rxf1+ 16.Qxf1 Nf6 17.Nxe4 Nxe4 18.Bxe4 Bd7 19.Qd3 h6 20.Bc3 Be8 21.Re1 Bf7 22.Qe3 Bb4 23.Bxb4 Qxb4 24.Bc2 Kh8 25.Rf1 Bg8 26.Rf4 Qe7 27.Qe5 Bh7 28.Bd1 b6 29.Bg4 Bg8 30.Bf3 Qa3 31.Bxc6 Rd8 32.Rg4 Qc1+ 33.Kg2 Qc2+ 34.Kh3 1-0

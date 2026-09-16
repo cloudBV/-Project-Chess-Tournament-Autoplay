@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.4"]
+[White "Walgren, William Arntzen"]
+[Black "Dale, Marius Hag"]
+[Result "1-0"]
+[WhiteElo "2167"]
+[BlackElo "2058"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O Qc7 12.Ng3 Nf8 13.Nxh5 Qa5 14.Ng3 Qxa2 15.Ne4 Be7 16.h4 Be6 17.Rde1 Bb3 18.Qb1 Qxb1+ 19.Bxb1 a5 20.h5 a4 21.g4 a3 22.bxa3 Bxa3+ 23.Kd2 Bd5 24.f3 Be7 25.Ke2 Ra3 26.Bd2 c5 27.h6 g6 28.Kf2 cxd4 29.Nxf6+ 1-0

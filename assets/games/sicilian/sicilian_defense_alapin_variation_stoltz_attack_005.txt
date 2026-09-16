@@ -1,0 +1,14 @@
+[Event "Round 8: Cabiativa, Juan Esteban - Soto, Cristian Camilo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-8/SeFM0pWE/eJuKGC0S"]
+[Date "2026.07.11"]
+[Round "8.6"]
+[White "Cabiativa, Juan Esteban"]
+[Black "Soto, Cristian Camilo"]
+[Result "1/2-1/2"]
+[WhiteElo "2290"]
+[BlackElo "2227"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Stoltz Attack"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.Bc4 Nb6 6.Bb3 c4 7.Bc2 d5 8.exd6 Qxd6 9.O-O Bg4 10.Re1 e6 11.Na3 Qd5 12.Be4 Qa5 13.b4 Qh5 14.h3 Bxf3 15.Bxf3 Qg6 16.Qe2 Qd3 17.Nb5 Qxe2 18.Bxe2 Rc8 19.Bf1 a6 20.Na3 Na7 21.Nc2 Na4 22.d3 cxd3 23.Bxd3 Rxc3 24.Be4 Rc7 25.Bf4 Rd7 26.Bf3 Be7 27.Red1 Nc6 28.Rxd7 Kxd7 29.Rd1+ Kc8 30.a3 Rd8 31.Rc1 Kd7 32.Ne3 Nb6 33.g4 Bd6 34.Bxd6 Kxd6 35.Bxc6 bxc6 36.Rc5 Nd5 37.Nc4+ Kc7 38.Ne5 Ne7 39.Nxf7 Rd5 40.Ng5 Kd6 41.Ne4+ Ke5 42.f3 Rxc5 43.Nxc5 Nd5 44.Nxa6 Nf4 45.Nb8 Kd6 46.Na6 Nxh3+ 47.Kf1 Nf4 48.Nc5 Nd5 49.Ke2 g6 50.Kd3 h5 51.Ne4+ Ke5 52.gxh5 gxh5 53.Ke2 Kf4 54.Nc5 e5 55.Nd3+ Kf5 56.a4 e4 57.fxe4+ Kxe4 58.a5 Nc7 59.Nc5+ Kd4 60.a6 Kc4 61.a7 Na8 62.Nd3 h4 63.Ne5+ Kb5 64.Kf3 Kxb4 65.Nxc6+ Kc5 66.Ne5 Kb6 67.Kg4 Kxa7 68.Kxh4 1/2-1/2

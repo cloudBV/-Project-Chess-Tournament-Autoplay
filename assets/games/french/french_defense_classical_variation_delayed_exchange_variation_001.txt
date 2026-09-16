@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/MP4HSVot"]
+[Date "2026.07.13"]
+[Round "1.15"]
+[White "Galego, Luis"]
+[Black "Del Prado Rodriguez, Xulio"]
+[Result "1-0"]
+[WhiteElo "2400"]
+[BlackElo "2388"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bd3 c6 6.h3 Bd6 7.Qf3 O-O 8.Nge2 Re8 9.O-O Nbd7 10.Ng3 Nf8 11.Bg5 Ne6 12.Bxf6 Qxf6 13.Qxf6 gxf6 14.Nh5 Be7 15.Ne2 f5 16.Bxf5 b6 17.Rfe1 Rd8 18.Bxe6 fxe6 19.Nef4 Kf7 20.Nd3 Rd6 21.Re3 Bb7 1-0

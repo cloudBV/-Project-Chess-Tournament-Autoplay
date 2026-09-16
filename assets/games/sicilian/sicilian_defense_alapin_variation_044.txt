@@ -1,0 +1,14 @@
+[Event "Round 5: Jobava, Baadur - Eugene, Floryan"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/R1xYikqv"]
+[Date "2026.07.22"]
+[Round "5.8"]
+[White "Jobava, Baadur"]
+[Black "Eugene, Floryan"]
+[Result "1/2-1/2"]
+[WhiteElo "2572"]
+[BlackElo "2510"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.d3 Nc6 4.f4 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O b5 8.a3 d6 9.Kh1 a5 10.Be3 Bb7 11.Nbd2 a4 12.d4 c4 13.d5 Na5 14.Nd4 e6 15.dxe6 Nxe4 16.Nxe4 Bxe4 17.exf7+ Rxf7 18.Ne6 Qe7 19.Ng5 Re8 20.Nxf7 Kxf7 21.f5 Kg8 22.Bf3 Nb3 23.Bxe4 Qxe4 24.f6 Bxf6 25.Qxd6 Nxa1 26.Qxf6 Qxe3 27.Qf7+ Kh8 28.Qf6+ Kg8 29.Qf7+ Kh8 30.Qf6+ 1/2-1/2

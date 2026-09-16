@@ -1,0 +1,15 @@
+[Event "Round 4: Rosen, Eric - Sagar, Shah"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-4/dvs5F4aE/FKhoo6kx"]
+[Date "2026.07.05"]
+[Round "4.4"]
+[White "Rosen, Eric"]
+[Black "Sagar, Shah"]
+[Result "1-0"]
+[WhiteElo "2327"]
+[BlackElo "2307"]
+[ECO "D02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 c5 4.e3 cxd4 5.exd4 Nc6 6.Nbd2 Bg4 7.c3 e6 8.Bd3 Bd6 9.Bxd6 Qxd6 10.O-O O-O 11.Re1 Rab8 12.Qc2 Bh5 13.Ne5 Bg6 14.Bxg6 hxg6 15.a4 Rfc8 16.Qd3 Qc7 17.f4 Na5 18.Re3 Nc4 19.Ndxc4 dxc4 20.Qe2 Nd5 21.Rf3 b5 22.axb5 Rxb5 23.Ra4 Nb6 24.Ra1 Nd5 25.Ra4 Nb6 26.Ra2 Nd5 27.Rf1 a5 28.g3 Ne7 29.Rfa1 f6 30.Nf3 Kf7 31.Nd2 Nf5 32.Ne4 Rcb8 33.Nc5 Qc6 34.Re1 R8b6 35.Qxc4 Rxb2 36.Rxb2 Rxb2 37.Qxe6+ Qxe6 38.Rxe6 Rc2 39.Ra6 Rxc3 40.Ra7+ Kg8 41.Rxa5 Nxd4 42.Kf2 Rc2+ 43.Ke3 Nf5+ 44.Kf3 Rxh2 45.g4 Nd4+ 46.Kg3 Rc2 47.Ne4 Ne2+ 48.Kf3 Nd4+ 49.Ke3 Ne6 50.Ra8+ Kh7 51.Ra7 Kg8 52.Re7 Nc5 53.Rc7 Rc3+ 54.Nxc3 1-0

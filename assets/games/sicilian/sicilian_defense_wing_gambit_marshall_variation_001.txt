@@ -1,0 +1,14 @@
+[Event "Round 2: Kaspereit, Holger - Wolter, Kai, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/repybeLj"]
+[Date "2026.07.18"]
+[Round "2.7"]
+[White "Kaspereit, Holger"]
+[Black "Wolter, Kai, Dr."]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2209"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Wing Gambit, Marshall Variation"]
+
+1.e4 c5 2.b4 cxb4 3.a3 d5 4.e5 Nc6 5.d4 Bf5 6.Nf3 e6 7.Be2 Be7 8.O-O h5 9.axb4 Nxb4 10.c3 Nc6 11.Qb3 Qd7 12.c4 Be4 13.Nbd2 Nh6 14.Nxe4 dxe4 15.d5 exf3 16.dxc6 bxc6 17.Bxf3 Ng4 18.Bb2 Rc8 19.Ra6 Bc5 20.Rd1 Qe7 21.Bxc6+ Kf8 22.Qf3 Qh4 23.Ba3 Qxh2+ 24.Kf1 Qxe5 25.Qg3 Bxa3 26.Qxa3+ Kg8 27.Qe7 Rh6 28.Qb7 Rf8 29.Bf3 Nh2+ 30.Kg1 Rf6 31.Be4 Ng4 32.Bf3 Qh2+ 33.Kf1 Qh4 34.g3 Qh2 35.Rd2 Ne5 36.Bg2 Qxg3 37.Qxa7 Qf4 38.Qd4 Nxc4 39.Qxf4 Rxf4 40.Ke2 0-1

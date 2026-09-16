@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "4.5"]
+[White "Aronyak Ghosh"]
+[Black "Itgelt, Khuyagtsogt"]
+[Result "1/2-1/2"]
+[WhiteElo "2549"]
+[BlackElo "2414"]
+[ECO "A16"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6 6.d4 Bg7 7.e3 O-O 8.Nge2 e5 9.d5 c6 10.e4 cxd5 11.exd5 Nc4 12.b3 Nd6 13.Ba3 f5 14.Rc1 f4 15.Bxd6 Qxd6 16.Ne4 Qb4+ 17.N2c3 f3 18.Bxf3 Bh3 19.Rg1 Bd7 20.Kf1 Bh3+ 21.Bg2 Bd7 22.Bf3 Bh3+ 23.Rg2 Bd7 24.Kg1 Na6 25.Kh1 Bh6 26.Rc2 Qd4 27.Bg4 Nb4 28.Bxd7 Qxd1+ 29.Nxd1 Nxc2 30.Ndc3 Nd4 31.Rg1 Rad8 32.Bg4 1/2-1/2

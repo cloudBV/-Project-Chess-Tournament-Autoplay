@@ -1,0 +1,15 @@
+[Event "Round 5: Bilych, Oleksii - Yudasin, Leonid"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-5/Y7Gtnbzm/2exZMiTX"]
+[Date "2026.07.17"]
+[Round "5.10"]
+[White "Bilych, Oleksii"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2453"]
+[BlackElo "2255"]
+[ECO "B61"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 Rc8 8.O-O-O Nxd4 9.Qxd4 Qa5 10.f4 e6 11.e5 dxe5 12.fxe5 Bc6 13.Bb5 Bxb5 14.exf6 Bc6 15.h4 g6 16.a3 Bc5 17.Qe5 Bb4 18.Qxa5 Bxa5 19.b4 Bd8 20.h5 O-O 21.Kb2 h6 22.Rxd8 hxg5 23.Rd3 Rfd8 24.Rg3 Rd2 25.Rxg5 Rxg2 26.Rxg2 Bxg2 27.Rg1 Bc6 28.hxg6 fxg6 29.b5 Bf3 30.Rg3 Bh1 31.Rxg6+ Kf7 32.Rh6 Bg2 33.Kb3 Rg8 34.Ne2 Rg4 35.Kc3 e5 36.Kd2 Rg6 37.Rh7+ Kxf6 38.c4 Rg7 39.Rh6+ Kf5 40.Ke3 Bf1 41.c5 Bxe2 42.Kxe2 Rc7 43.c6 bxc6 44.bxc6 e4 1/2-1/2

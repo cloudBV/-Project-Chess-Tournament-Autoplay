@@ -1,0 +1,14 @@
+[Event "Round 6: Vaz Lacuesta, Leonardo - Muniz, Rafael"]
+[Site "https://lichess.org/broadcast/campeonato-uruguayo-2026-blitz/round-6/7CLXvc3X/s6MeJUIp"]
+[Date "2026.07.17"]
+[Round "6.4"]
+[White "Vaz Lacuesta, Leonardo"]
+[Black "Muniz, Rafael"]
+[Result "0-1"]
+[WhiteElo "2000"]
+[BlackElo "2191"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.f4 Nbd7 10.Be3 b5 11.Bf3 Bb7 12.Nd5 Bxd5 13.exd5 e4 14.Be2 Nb6 15.Bxb6 Qxb6+ 16.Kh1 Rac8 17.Qd2 Rfe8 18.Rad1 Bf8 19.c3 a5 20.Nc1 Rc5 21.Rfe1 Rxd5 22.Qc2 g6 23.Nb3 Rxd1 24.Qxd1 Bg7 25.Nd4 b4 26.Nb5 d5 27.cxb4 axb4 28.Qd2 e3 29.Qxb4 Ne4 30.b3 d4 31.Qc4 Rd8 32.Bd3 Nf2+ 33.Kg1 Nxd3 34.Qxd3 Qc5 35.a4 Rc8 36.h3 Qc2 37.Rd1 Qxd3 38.Rxd3 Rc1+ 39.Kh2 e2 0-1

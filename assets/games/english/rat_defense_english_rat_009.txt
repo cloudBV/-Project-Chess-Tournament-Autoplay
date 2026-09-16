@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.10"]
+[White "Fernandez, Maria Florencia"]
+[Black "Lopez Martinez, Josep Manuel"]
+[Result "0-1"]
+[WhiteElo "2183"]
+[BlackElo "2486"]
+[ECO "A41"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.Nc3 exd4 4.Qxd4 Nc6 5.Qd2 g6 6.Nf3 Bg7 7.b3 Nf6 8.Bb2 O-O 9.e3 a5 10.Be2 Be6 11.Rd1 Nd7 12.Nd4 Nxd4 13.exd4 Nf6 14.d5 Bd7 15.O-O h5 16.Bf3 h4 17.h3 Nh7 18.Ne4 Bxb2 19.Qxb2 Bf5 20.Rfe1 Re8 21.Qd4 Bxe4 22.Rxe4 Rxe4 23.Qxe4 Qf6 24.Rd4 g5 25.Bd1 Nf8 26.f4 Re8 27.Qd3 Ng6 28.Re4 Rxe4 29.Qxe4 Qa1 30.Qf3 Qd4+ 31.Kh2 Nxf4 32.Qg4 Qe5 33.Kh1 Kg7 34.Bc2 Ne2 35.Bd3 Qa1+ 0-1

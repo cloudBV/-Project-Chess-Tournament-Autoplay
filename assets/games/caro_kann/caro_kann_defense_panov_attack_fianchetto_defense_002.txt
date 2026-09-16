@@ -1,0 +1,14 @@
+[Event "Round 9: Nygren, David - Mashhadi, Peyman"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/tcKQVMso"]
+[Date "2026.07.04"]
+[Round "9.15"]
+[White "Nygren, David"]
+[Black "Mashhadi, Peyman"]
+[Result "1/2-1/2"]
+[WhiteElo "2073"]
+[BlackElo "2180"]
+[ECO "B14"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Fianchetto Defense"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 1/2-1/2

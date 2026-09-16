@@ -1,0 +1,14 @@
+[Event "Round 2: Malli, Suvirr - Balabayeva, Xeniya"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/vgui8OvZ"]
+[Date "2026.07.14"]
+[Round "2.17"]
+[White "Malli, Suvirr"]
+[Black "Balabayeva, Xeniya"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2302"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5 9.c3 Nc6 10.h3 Be6 11.Bxe6 fxe6 12.d4 cxd4 13.cxd4 Qb6 14.d5 exd5 15.exd5 Nb4 16.Nc3 Qa6 17.Bg5 h6 18.Bxf6 Bxf6 19.Re4 Nd3 20.Nb5 Nc5 21.Re2 Rac8 22.Nd2 Nxa4 23.Rxa4 Qxb5 24.Ne4 Qb6 25.Ra3 Rc4 26.Rc3 Rxc3 27.Nxc3 Qd4 28.Qc2 Rc8 29.Rd2 Qf4 30.g3 Qf3 31.Rd3 Qf5 32.Kg2 e4 33.Re3 Bxc3 34.bxc3 Qxd5 35.Qa4 a6 36.Qd7 Rf8 37.Qg4 Re8 38.Qd7 Qc6 39.Qf5 b5 40.g4 a5 41.h4 Re5 42.Qg6 Qd5 43.g5 hxg5 44.Kh2 gxh4 45.Qg4 Rg5 46.Qc8+ Kh7 47.Rh3 Qe5+ 48.Kh1 Qf4 49.Qd8 Qc1+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Sutormin, Danila - Sivakumar, Shaaketh"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/nfEkKHx5"]
+[Date "2026.07.09"]
+[Round "7.10"]
+[White "Sutormin, Danila"]
+[Black "Sivakumar, Shaaketh"]
+[Result "1/2-1/2"]
+[WhiteElo "2368"]
+[BlackElo "2292"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 Rc8 10.h5 h6 11.a3 a6 12.b4 g5 13.hxg6 fxg6 14.Nh4 g5 15.Ng6 Nxg6 16.Bxg6+ Kd8 17.Bb2 Bg7 18.cxd4 Rf8 19.Re2 Ne7 20.Bc2 Nf5 21.Rd2 Ke7 22.Nc3 Rc4 23.Bb3 Rcc8 24.Na4 Qa7 25.Nc5 b6 26.Nxd7 Qxd7 27.Bc2 Nh4 28.Bd3 Rf4 29.Bxa6 Rcf8 30.Qh5 Qe8 31.Qxe8+ Kxe8 32.Bb5+ Kf7 33.Bd3 Kg8 34.Rf1 1/2-1/2

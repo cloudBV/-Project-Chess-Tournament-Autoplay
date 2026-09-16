@@ -1,0 +1,15 @@
+[Event "Round 3: Azoulay, Yehonatan - Hanein, Avri"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-3/nUTnwfb6/yf4rjVCs"]
+[Date "2026.07.15"]
+[Round "3.7"]
+[White "Azoulay, Yehonatan"]
+[Black "Hanein, Avri"]
+[Result "1-0"]
+[WhiteElo "2328"]
+[BlackElo "2215"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e5 3.Nf3 Nc6 4.Bc4 Nf6 5.d3 Be7 6.O-O d6 7.a4 h6 8.Re1 O-O 9.h3 Be6 10.Nbd2 Qd7 11.Nf1 Nh5 12.Ne3 Nf4 13.Nd5 Ng6 14.Be3 Kh7 15.d4 Na5 16.Bb5 Qd8 17.Nxe7 Qxe7 18.d5 Bd7 19.Nd2 Bxb5 20.axb5 b6 21.b4 Nb7 22.Ra6 f5 23.exf5 Rxf5 24.Nc4 cxb4 25.cxb4 Rc8 26.Qg4 Rcf8 27.Rxa7 Nf4 28.Rxb7 Qxb7 29.Nxd6 Qxd5 30.Nxf5 g6 31.Bxf4 gxf5 32.Qh5 Rg8 33.Qxh6# 1-0

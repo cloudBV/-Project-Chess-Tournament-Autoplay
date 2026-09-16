@@ -1,0 +1,14 @@
+[Event "Round 7: Georgiadis, Nico - Rotunno, Flavio"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-7/IK4Cx0nV/4vJAMI1l"]
+[Date "2026.07.17"]
+[Round "7.2"]
+[White "Georgiadis, Nico"]
+[Black "Rotunno, Flavio"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2138"]
+[ECO "B61"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.f3 a6 9.O-O-O Nxd4 10.Qxd4 e6 11.Kb1 Be7 12.h4 b5 13.Qd2 b4 14.Ne2 a5 15.Rc1 h5 16.c4 bxc3 17.Nxc3 a4 18.a3 O-O 19.Be2 Rb8 20.Rc2 Rb7 21.Ka1 Qb8 22.Rd1 Rd8 23.Qd4 Be8 24.f4 Rc7 25.Bc4 Qa8 26.Ba2 Rdc8 27.Re2 Qa6 28.Ree1 Qa5 29.Qd2 Qa7 30.f5 Bd7 31.fxe6 Bxe6 32.Bxe6 fxe6 33.Nb5 Qb7 34.Nxc7 Rxc7 35.Rc1 Rxc1+ 36.Qxc1 Nxe4 37.Rxe4 Bxg5 38.Qc2 Bf6 39.Rxa4 d5 40.Rb4 Qa7 1-0

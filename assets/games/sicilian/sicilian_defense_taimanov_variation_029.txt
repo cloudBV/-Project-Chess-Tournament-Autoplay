@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "18.3"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Raczek, Krzysztof"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2458"]
+[ECO "B46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.a3 Qc7 7.Nxc6 bxc6 8.Qf3 d5 9.Bd3 Nf6 10.O-O Be7 11.Re1 O-O 12.Bg5 Bb7 13.Rad1 Rae8 14.e5 Nd7 15.Qh3 g6 16.Bf4 c5 17.Qh6 Kh8 18.Re3 Rg8 19.Qxh7+ Kxh7 20.Rh3+ Kg7 21.Bh6+ Kh7 22.Bf8+ Bh4 23.Rxh4# 1-0

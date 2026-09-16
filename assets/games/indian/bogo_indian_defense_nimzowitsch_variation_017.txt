@@ -1,0 +1,14 @@
+[Event "Round 8: Finek, Vaclav - Vaishali, Rameshbabu"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-8/k9nWvT8n/TGiKpKpn"]
+[Date "2026.07.19"]
+[Round "8.3"]
+[White "Finek, Vaclav"]
+[Black "Vaishali, Rameshbabu"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2364"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Qxd2 Nc6 7.Nc3 d6 8.Bg2 e5 9.O-O exd4 10.Nxd4 Nxd4 11.Qxd4 O-O 12.Rfe1 a6 13.Rad1 Re8 14.b3 Rb8 15.h3 Bd7 16.e4 b5 17.Nd5 Nxd5 18.cxd5 c5 19.dxc6 Bxc6 20.Qxd6 Qb7 21.Rc1 Re6 22.Qf4 Rbe8 23.Re3 h6 24.Rce1 b4 25.h4 R8e7 26.g4 a5 27.g5 h5 28.f3 Qb6 29.Kh2 Qd4 30.R3e2 Re8 31.Rd2 Qc3 32.Qe3 Qe5+ 33.f4 Qb8 34.Rd4 R6e7 35.Red1 Qb7 36.Rd8 Qc7 37.Rxe8+ Rxe8 38.Rc1 Qb7 39.Rc4 Bb5 40.Rc5 Qb6 41.Qc1 Bd7 42.Rd5 Be6 43.Qc5 Qb8 44.Rd6 Rc8 45.Qd4 Qc7 46.g6 Bg4 47.e5 fxg6 48.Rxg6 Qc2 49.Rg5 Rf8 50.e6 Bxe6 51.Qxg7# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 7: Filipovic, Branko - Kukushkin, Ivan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/8IPyjWbo"]
+[Date "2026.07.12"]
+[Round "7.10"]
+[White "Filipovic, Branko"]
+[Black "Kukushkin, Ivan"]
+[Result "1-0"]
+[WhiteElo "2279"]
+[BlackElo "2186"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Bf5 4.c4 e6 5.Qb3 Qc8 6.Nc3 c6 7.cxd5 exd5 8.Rc1 Na6 9.e3 Nc7 10.h3 Be7 11.Be2 Ne4 12.O-O O-O 13.Bxc7 Nxc3 14.Rxc3 Qxc7 15.Qxd5 Be6 16.Qe4 Bxa2 17.b3 Bb4 18.Rc4 Qa5 19.Ra1 Bc3 20.Rxc3 Qxc3 21.Rxa2 Qxb3 22.Rc2 a5 23.Ng5 g6 24.Bc4 Qb1+ 25.Kh2 a4 26.Qe7 Rae8 27.Bxf7+ Kg7 28.Bxe8+ 1-0

@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.10"]
+[Round "7.4"]
+[White "Nomin-Erdene, Davaademberel"]
+[Black "Gaal, Zsoka"]
+[Result "1-0"]
+[WhiteElo "2320"]
+[BlackElo "2376"]
+[ECO "B62"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Vitolins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5 Bd7 8.Qd3 h6 9.Bh4 Be7 10.O-O-O a6 11.Bxc6 bxc6 12.Nb3 g5 13.e5 gxh4 14.exf6 Bf8 15.Qd4 Rg8 16.Rhe1 Rg6 17.Qxh4 d5 18.f4 Qxf6 19.Qf2 a5 20.Na4 Rxg2 21.Qxg2 Qxf4+ 22.Kb1 Qxa4 23.Qg8 Qb4 24.Rf1 O-O-O 25.Rxf7 Bd6 26.Qg7 a4 27.Nc1 a3 28.Nd3 Qb6 29.b3 Qe3 30.Re1 Qd2 31.Rf2 Qa5 32.Qxh6 Rg8 33.Qh7 Rg4 34.Qh8+ Kc7 35.Rf7 Rf4 36.Rxf4 Bxf4 37.Rf1 e5 38.Nxf4 exf4 39.Qe5+ Kb7 40.Rxf4 Qd2 41.Rd4 Qf2 42.Rb4+ Ka6 43.Ra4+ Kb7 44.Rxa3 c5 45.Qxd5+ Bc6 46.Qe5 1-0

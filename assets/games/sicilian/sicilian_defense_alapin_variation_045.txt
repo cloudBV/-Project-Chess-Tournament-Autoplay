@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.13"]
+[White "Gahan M G"]
+[Black "Vykouk, Jan"]
+[Result "0-1"]
+[WhiteElo "2162"]
+[BlackElo "2426"]
+[ECO "B22"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Nf3 Nf6 6.Bb5+ Bd7 7.Qe2+ Be7 8.dxc5 O-O 9.Be3 Re8 10.b4 a5 11.O-O Ng4 12.Bxd7 Nxd7 13.Nbd2 Nxe3 14.fxe3 axb4 15.cxb4 Bf6 16.Rad1 Rxa2 17.Qd3 Nf8 18.e4 Rb2 19.e5 Ne6 20.exf6 Nf4 21.Qf5 Rxb4 22.Ng5 g6 23.Qc2 Qxf6 24.Ngf3 Re2 25.Rf2 Qe6 26.Rdf1 Qe3 27.c6 bxc6 28.Qxc6 Rxf2 29.Rxf2 Nd3 30.Qc8+ Kg7 31.Qc3+ d4 32.Qxd3 Qxd3 33.Nf1 Rb1 34.g3 f6 35.Kg2 g5 36.h3 h5 37.N1h2 Qe4 38.g4 h4 39.Nf1 Qd5 40.Nh2 d3 41.Rd2 Rc1 42.Kf2 Qe4 43.Nf1 Rxf1+ 0-1

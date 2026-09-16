@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "8.3"]
+[White "Chuiko, Maksym"]
+[Black "Karvatskyi, Oleksii"]
+[Result "1/2-1/2"]
+[WhiteElo "2060"]
+[BlackElo "2412"]
+[ECO "B22"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.Nf3 Nc6 5.Na3 Bg4 6.Bc4 Qe4+ 7.Qe2 Bxf3 8.gxf3 Qxe2+ 9.Kxe2 e6 10.Bb5 Ne7 11.d3 a6 12.Bxc6+ Nxc6 13.Be3 h5 14.Nc2 Be7 15.Rad1 O-O-O 16.Rhg1 g6 17.d4 cxd4 18.Nxd4 Ne5 19.b3 Rd5 20.c4 Rd7 21.f4 Ng4 22.h3 Nxe3 23.fxe3 Rhd8 24.Nf3 Bf6 25.Rxd7 Rxd7 26.Ng5 Kc7 27.Ne4 Be7 28.Ng5 Bd8 29.Nf3 Bf6 30.e4 Kb6 31.Rd1 Rxd1 32.Kxd1 Kc5 33.Kc2 Kb4 34.Ne1 Kc5 35.Kd3 Be7 36.a3 f6 37.Nf3 g5 38.b4+ Kc6 39.fxg5 fxg5 40.Kd4 Bf6+ 41.e5 Be7 42.Ke4 Kd7 43.Nd4 b6 44.Ne2 a5 45.bxa5 bxa5 46.a4 Kc6 47.Nd4+ Kd7 48.Nb3 Bb4 49.Nd4 Bc5 50.Nf3 g4 51.hxg4 hxg4 52.Nd2 g3 53.Kf3 Bf2 54.Nb3 Kc6 55.Nxa5+ Kc5 56.Nb7+ Kxc4 57.Nd8 Kd5 58.a5 Kxe5 59.a6 Kd6 60.Nxe6 Kxe6 61.a7 Bxa7 62.Kxg3 1/2-1/2

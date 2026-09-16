@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/oy0DfkEv"]
+[Date "2026.07.12"]
+[Round "7.4"]
+[White "Valdats, Reinis"]
+[Black "Mierins, Emils Janis"]
+[Result "1/2-1/2"]
+[WhiteElo "2342"]
+[BlackElo "2213"]
+[ECO "B42"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.O-O Nc6 8.c4 Nf6 9.Nc3 Qc7 10.f4 d6 11.Be3 Bd7 12.Rc1 O-O 13.g4 Rfb8 14.g5 Ne8 15.Rf3 b5 16.cxb5 axb5 17.Nxb5 Qb7 18.Nc3 Bd8 19.Rh3 g6 20.Qe1 Ng7 21.Rh6 Bb6 22.Bxb6 Qxb6+ 23.Kh1 Nb4 24.Bb1 Bc6 25.Nd2 Na6 26.b3 Nc5 27.Nc4 Qc7 28.Rd1 Rd8 29.Qe3 Nf5 30.Qf2 Nxh6 31.gxh6 Qe7 32.Qd4 e5 33.Nd5 Bxd5 34.Qxd5 exf4 35.Nxd6 Ne6 36.e5 Qf8 37.Qb7 Rab8 38.Qa7 Ra8 39.Qb7 Rdb8 40.Qd7 Rd8 1/2-1/2

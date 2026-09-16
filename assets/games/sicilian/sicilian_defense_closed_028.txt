@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.3"]
+[White "Hitka, Dominik"]
+[Black "Ugorek, Kacper"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2383"]
+[ECO "B23"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Nf3 Nc6 6.Qd3 d6 7.Be2 Bg7 8.O-O O-O 9.h3 Be6 10.Be3 d5 11.exd5 Nxd5 12.Nxd5 Qxd5 13.Qxd5 Bxd5 14.c3 e5 15.Rfd1 Rfd8 16.Nd2 f5 17.f3 Kf7 18.Nb3 Ne7 19.Bg5 Bf6 20.Bxf6 Kxf6 21.c4 Bc6 22.Kf2 b6 23.g4 Ba4 24.Rxd8 Rxd8 25.Nc1 Bc2 26.a4 Nc6 27.Na2 Bxa4 28.Nc3 Bb3 29.Nd5+ Kf7 30.gxf5 gxf5 31.Ra3 Na5 32.Ne3 f4 33.Ng4 Ke6 34.c5 Rd2 35.cxb6 axb6 36.Ke1 Rxb2 37.Nf2 Rb1+ 38.Kd2 Rb2+ 39.Ke1 Bd5 40.Nd3 Rb3 41.Rxa5 Rb1+ 0-1

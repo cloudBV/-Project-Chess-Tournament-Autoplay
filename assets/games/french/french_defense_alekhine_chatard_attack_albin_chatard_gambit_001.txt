@@ -1,0 +1,14 @@
+[Event "Round 4: Fischer, Daniel - Peng, Li Min"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-4/5xVHTPCZ/nAbhpOyV"]
+[Date "2026.07.14"]
+[Round "4.4"]
+[White "Fischer, Daniel"]
+[Black "Peng, Li Min"]
+[Result "1/2-1/2"]
+[WhiteElo "2366"]
+[BlackElo "2529"]
+[ECO "C13"]
+[Variant "Standard"]
+[Opening "French Defense: Alekhine-Chatard Attack, Albin-Chatard Gambit"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Bxg5 7.hxg5 Qxg5 8.Nb5 Kd8 9.Nh3 Qh4 10.Qd2 a6 11.Nc3 c5 12.dxc5 Nc6 13.O-O-O Kc7 14.Be2 Qe7 15.Qf4 d4 16.Ne4 h6 17.Nd6 Ndxe5 18.Rhe1 f6 19.Bf3 Nxf3 20.Qxf3 g5 21.Ng1 e5 22.Ne2 Be6 23.Qg3 Rad8 24.Nxd4 Nxd4 25.Rxd4 Kb8 26.Rb4 Rxd6 27.cxd6 Qxd6 28.Qc3 Rc8 29.Qd2 Qxd2+ 30.Kxd2 Bd5 31.g4 Rh8 1/2-1/2

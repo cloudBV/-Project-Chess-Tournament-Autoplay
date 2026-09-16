@@ -1,0 +1,14 @@
+[Event "Round 2: Yekeler, Kerem Sarp - Sathvik Adiga"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/nfNXqZxX"]
+[Date "2026.07.14"]
+[Round "2.16"]
+[White "Yekeler, Kerem Sarp"]
+[Black "Sathvik Adiga"]
+[Result "0-1"]
+[WhiteElo "2232"]
+[BlackElo "2408"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 a6 3.Nge2 Nf6 4.g3 b5 5.Bg2 e5 6.O-O d6 7.d3 Be7 8.f4 Nbd7 9.h3 b4 10.Nb1 c4 11.Nd2 cxd3 12.cxd3 a5 13.Nf3 Qb6+ 14.Kh2 Ba6 15.g4 h5 16.gxh5 Nxh5 17.f5 d5 18.Ne1 dxe4 19.Bxe4 Rd8 20.Ng2 Ndf6 21.Be3 Bc5 22.Bxc5 Qxc5 23.Qe1 Nxe4 24.dxe4 Nf6 25.Rf3 Qc2 26.Ng1 Qxb2 27.Rb1 Qd4 28.a3 Bb7 29.axb4 Bxe4 0-1

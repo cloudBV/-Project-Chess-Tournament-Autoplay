@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.22"]
+[White "Colville, Julian"]
+[Black "Jammalamadaka, Vihaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2333"]
+[BlackElo "2109"]
+[ECO "B45"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Bb4+ 11.Ke2 f5 12.Nf2 Ba6 13.Kf3 Ne7 14.Be3 Bc5 15.Bxc5 Qxc5 16.Qa4 Bb7 17.h4 O-O 18.Rd1 Rfd8 19.b4 Qb5 20.Qc2 c5+ 21.Kg3 Qxb4 22.Rb1 Qa3+ 23.Qd3 Qxd3+ 24.Nxd3 Be4 25.Rb5 Bxd3 26.Bxd3 d6 27.exd6 Rxd6 28.Be2 Rc8 29.Bf3 Rc7 30.Rhb1 Kf7 31.a4 Rd4 32.a5 Nc8 33.a6 Rdd7 34.Rb8 Nb6 35.Rb7 Nxc4 36.Bc6 Re7 37.Rxc7 Rxc7 38.Rb7 Re7 39.Kf2 Kf6 40.Ke2 e5 41.Kd3 Na5 42.fxe5+ Rxe5 43.Bd7 Re7 44.Rxa7 Nc6 45.Bxc6 Rxa7 46.Bb7 Ke5 47.Kc4 Kf4 1/2-1/2

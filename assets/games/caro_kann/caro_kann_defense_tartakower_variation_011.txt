@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "24.2"]
+[White "Gukesh D"]
+[Black "Praggnanandhaa R"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2707"]
+[ECO "B15"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 Na6 8.a3 Nc7 9.c4 O-O 10.Ne2 Re8 11.O-O Bg4 12.Qc2 Bxe2 13.Bxe2 Ne6 14.Rad1 g6 15.Bf3 Qc7 16.g3 f5 17.c5 Bf8 18.d5 cxd5 19.Bxd5 f4 20.Bxe6 Rxe6 21.Bxf4 Qxc5 22.Qxc5 Bxc5 23.b4 Bf8 24.Rd7 Re7 25.Rfd1 Rxd7 26.Rxd7 b5 27.Rb7 a6 28.Rb6 Bg7 29.Bc1 Bd4 30.Rd6 Be5 31.Rd5 Re8 32.Kg2 h5 33.h4 Re6 34.Kf3 Bf6 35.Be3 Bb2 36.Rd3 Kg7 37.Rb3 Be5 38.Bc5 Kf6 39.Rd3 Kf5 40.Rd2 Rc6 41.Ke3 f6 42.f4 Bc3 43.Rd3 Be1 44.Kf3 a5 45.Rd7 axb4 46.axb4 Ra6 47.Rd5+ Ke6 48.Rd3 Ra4 49.Re3+ Kd5 50.Rxe1 Ra3+ 51.Re3 Ra2 52.Be7 f5 53.Re5+ Kc4 54.Rc5+ Kxb4 55.Rc2+ Kb3 56.Rxa2 Kxa2 57.Ke3 Kb3 58.Kd4 1-0

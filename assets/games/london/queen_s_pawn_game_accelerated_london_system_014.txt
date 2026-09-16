@@ -1,0 +1,14 @@
+[Event "Round 4: Mammadov, Zaur - Miletic, Vuk"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/Jtwg9XxS"]
+[Date "2026.07.06"]
+[Round "4.19"]
+[White "Mammadov, Zaur"]
+[Black "Miletic, Vuk"]
+[Result "1-0"]
+[WhiteElo "2420"]
+[BlackElo "2228"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 c5 5.Nbd2 Nc6 6.c3 Nh5 7.Be5 f6 8.Bg3 g6 9.Bd3 cxd4 10.exd4 Bg7 11.Nh4 Ne7 12.f4 O-O 13.O-O Nxg3 14.hxg3 e5 15.Qb3 exd4 16.cxd4 Qb6 17.Nhf3 Bf5 18.Rfe1 Rf7 19.Bb5 Rd8 20.Rac1 Bg4 21.Rc5 Bf8 22.Kh2 Kg7 23.a4 Qd6 24.a5 Nf5 25.Rec1 g5 26.Bd3 gxf4 27.Bxf5 fxg3+ 28.Kh1 Bxf5 29.Nh4 Bg6 30.Rf1 Qe6 31.Qxg3 Bxc5 32.dxc5 Qe5 33.Rf4 Qxb2 34.Ndf3 Qc1+ 35.Kh2 d4 36.Nxd4 Rxd4 37.Nf5+ Kh8 38.Rxd4 Qxc5 39.Rd8+ Rf8 40.Qc3 Qxf5 41.Rxf8+ Kg7 42.Rc8 Qf4+ 43.Kg1 Be4 44.Qc5 Qe5 45.Qxe5 fxe5 46.Rc4 Bd3 47.Rc7+ Kg6 48.Rxb7 a6 49.Kf2 h5 50.Ke3 Bf1 51.g3 Kf6 52.Rb2 Kg5 53.Ke4 Kg4 54.Rb3 Bg2+ 55.Kxe5 Bf3 56.Rb6 Kxg3 57.Rxa6 h4 58.Rg6+ Kf2 59.Kf4 h3 60.Rh6 Bg2 61.a6 Kg1 62.Kg3 Kf1 63.Rxh3 Bxh3 64.Kxh3 Ke2 65.a7 Kd3 66.a8=Q 1-0

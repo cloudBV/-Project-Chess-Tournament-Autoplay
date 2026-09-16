@@ -1,0 +1,15 @@
+[Event "XIº USCIAMO DALLO STALLO"]
+[Site "Falconara Marittima (AN), Italy"]
+[Date "2026.07.15"]
+[Round "5.1"]
+[White "Rago, Riccardo"]
+[Black "Albini, Federico"]
+[Result "1/2-1/2"]
+[WhiteElo "2048"]
+[BlackElo "2009"]
+[ECO "E61"]
+[TimeControl "90' + 30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.20"]
+[Round "21.4"]
+[White "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Black "SerendipityHCE 0e3fd4a0"]
+[Result "1-0"]
+[WhiteElo "3246"]
+[BlackElo "3066"]
+[ECO "B42"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Swiss Cheese Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 g6 6.Nc3 Bg7 7.Be3 d6 8.Qd2 Nf6 9.Be2 Qc7 10.O-O-O Nbd7 11.g4 h6 12.h4 Ne5 13.Rhg1 Nc4 14.Bxc4 Qxc4 15.Nb3 d5 16.Bd4 O-O 17.g5 Nxe4 18.Nxe4 Bxd4 19.Nxd4 dxe4 20.h5 Qd5 21.Qf4 e5 22.Qf6 Qd8 23.Qxe5 Qe8 24.Qf6 Qd8 25.Qf4 Qe7 26.Rde1 f6 27.gxh6 Qe5 28.Qxe5 fxe5 29.Rxe4 g5 30.Rxg5+ Kh8 31.Rexe5 Bh3 32.Re7 Rae8 33.Rxb7 Rxf2 34.b4 Bg2 35.Rb6 Ra8 36.a4 Ra7 37.Rd6 Bh3 38.b5 axb5 39.axb5 Rf1+ 40.Kb2 Rf8 41.b6 Rb7 42.Rg3 Rd7 43.Rxd7 Bxd7 44.Rg6 Rb8 45.Kc1 Be8 46.Nf5 Bf7 47.Rg7 Rxb6 48.Rxf7 Rb5 49.Nh4 Kg8 50.Rg7+ Kf8 51.Ng6+ Ke8 52.h7 Rxh5 53.h8=R+ Rxh8 54.Nxh8 Kd8 55.Kb2 Ke8 56.Rf7 Kd8 57.Kb3 Ke8 58.c3 Kd8 59.Kb4 Kc8 60.Kb5 Kd8 61.Kc6 Ke8 62.Kd6 Kd8 63.Rf8# 1-0

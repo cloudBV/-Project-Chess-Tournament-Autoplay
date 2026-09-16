@@ -1,0 +1,14 @@
+[Event "Round 4: Tulliez, Andre - Kantane, Anna"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/8Hw1iLkz"]
+[Date "2026.07.21"]
+[Round "4.3"]
+[White "Tulliez, Andre"]
+[Black "Kantane, Anna"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2190"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.d3 e5 6.O-O Be7 7.c3 O-O 8.Re1 Re8 9.d4 cxd4 10.cxd4 Bb4 11.Bd2 Bxd2 12.Nbxd2 d6 13.d5 Nb8 14.Nc4 b5 15.Na3 Bd7 16.Bf1 Qb6 17.Qe2 Na6 18.Nxb5 Nc5 19.Nc3 Rab8 20.Rab1 a5 21.Nd2 Qc7 22.Rec1 Rb7 23.Nc4 Reb8 24.f3 a4 25.Nd1 Bb5 26.Nde3 g6 27.Qd2 Bxc4 28.Nxc4 Rb4 29.Qe3 Nfd7 30.Rc2 f6 31.Rbc1 Kg7 32.h4 h5 33.Bh3 R8b7 34.g4 hxg4 35.fxg4 Qb8 36.Rf2 Rxc4 37.Rxc4 Rxb2 38.Rxb2 Qxb2 39.g5 Qxa2 40.Rc1 Nf8 41.gxf6+ Kh7 42.Bf5 Qb2 43.Qg5 Qb7 44.Bxg6+ Nxg6 45.Qh5+ Kg8 46.Qxg6+ Kf8 47.Qh6+ 1-0

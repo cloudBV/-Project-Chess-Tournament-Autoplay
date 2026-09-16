@@ -1,0 +1,14 @@
+[Event "Round 5: Erne, Raphael - Kozak, Adam"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-5/N6V5gpLW/ZTC4q506"]
+[Date "2026.07.12"]
+[Round "5.8"]
+[White "Erne, Raphael"]
+[Black "Kozak, Adam"]
+[Result "0-1"]
+[WhiteElo "2122"]
+[BlackElo "2592"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.Nf3 Rb8 6.O-O a6 7.a4 d6 8.d3 e5 9.Ne1 Nge7 10.Nc2 O-O 11.Ne3 Be6 12.Ned5 Nb4 13.e4 Nexd5 14.Nxd5 Nxd5 15.exd5 Bd7 16.Bd2 b5 17.axb5 axb5 18.b4 cxb4 19.Bxb4 Qb6 20.cxb5 Bxb5 21.Rb1 Rfd8 22.Qd2 Qd4 23.Rfd1 Bxd3 24.Bc3 Bxb1 25.Bxd4 exd4 26.Rc1 Bf5 27.Bf3 Rb3 28.Kg2 Rc3 29.g4 Bc8 30.Re1 Be5 31.h3 Kg7 32.Rb1 Rd7 33.Rb8 Rdc7 34.Be4 h6 35.Ra8 Bb7 36.Ra4 f5 37.gxf5 gxf5 38.Bf3 Kh7 39.Rxd4 Rg7+ 40.Bg4 Bxd4 41.Qxd4 Rc5 42.Kh2 Rxd5 43.Qb4 fxg4 44.Qe4+ Kh8 45.Qe8+ Rg8 46.Qe6 Rh5 47.Qf6+ Rg7 48.h4 Kh7 49.Kg3 Be4 50.Qxd6 Rf5 51.Qd4 Rf3+ 0-1

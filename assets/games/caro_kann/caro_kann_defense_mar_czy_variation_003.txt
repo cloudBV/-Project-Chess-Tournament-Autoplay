@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/aKBSbrQJ"]
+[Date "2026.07.02"]
+[Round "6.33"]
+[White "Kaliszewski, Tomasz"]
+[Black "Prazmowski, Bartosz"]
+[Result "1-0"]
+[WhiteElo "2013"]
+[BlackElo "2012"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 Nf6 6.Bc4 exd4 7.O-O b5 8.Bb3 Be7 9.Ng5 O-O 10.Nxf7 Rxf7 11.Bxf7+ Kxf7 12.e5 Kg8 13.exf6 Bxf6 14.a4 Bb7 15.Qe2 Qd7 16.Nd2 Na6 17.Ne4 Be7 18.Bg5 Re8 19.Qh5 Bb4 20.Rf4 Re5 21.Raf1 h6 22.Rf7 Qe6 23.Nf6+ 1-0

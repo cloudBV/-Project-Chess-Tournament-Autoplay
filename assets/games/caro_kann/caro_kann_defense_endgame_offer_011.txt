@@ -1,0 +1,15 @@
+[Event "Round 6: Poormosavi, Seyed Kian - Paichadze, Luka"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-6/kDkmY1PW/wtv9xdGv"]
+[Date "2026.07.14"]
+[Round "6.1"]
+[White "Poormosavi, Seyed Kian"]
+[Black "Paichadze, Luka"]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2465"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 Bg7 5.d4 f6 6.c4 fxe5 7.Nxe5 Nf6 8.Nc3 O-O 9.Be2 Nbd7 10.Nf3 Ne4 11.cxd5 Nxc3 12.bxc3 cxd5 13.O-O Nb6 14.Bg5 Qc7 15.Qd2 Bg4 16.Rfe1 Rae8 17.Bb5 Bd7 18.Bf1 Bf5 19.Bf4 Qc6 20.Ne5 Qa4 21.Bh6 Bxh6 22.Qxh6 Rc8 23.Re2 1-0

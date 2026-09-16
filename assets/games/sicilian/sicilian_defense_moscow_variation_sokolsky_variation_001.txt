@@ -1,0 +1,14 @@
+[Event "Round 2: Stopa, Jacek - Milekic, Daniel"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/uYwNnlKa"]
+[Date "2026.07.05"]
+[Round "2.23"]
+[White "Stopa, Jacek"]
+[Black "Milekic, Daniel"]
+[Result "1-0"]
+[WhiteElo "2360"]
+[BlackElo "2174"]
+[ECO "B52"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nc6 6.Nc3 g6 7.d4 Bg7 8.Be3 cxd4 9.Nxd4 Nf6 10.f3 O-O 11.O-O a6 12.Qd3 Rab8 13.Nxc6 Qxc6 14.a4 Rbc8 15.b3 Nd7 16.Rac1 Rfe8 17.Rf2 Bxc3 18.Qxc3 b5 19.axb5 axb5 20.Rfc2 bxc4 21.Qxc4 Qxc4 22.Rxc4 Rb8 23.R1c3 f6 24.Kf2 Rb5 25.Rc7 Nf8 26.Ke2 Kf7 27.Kd2 Ra8 28.Ra7 Rxa7 29.Bxa7 Ra5 30.Be3 Ke6 31.b4 Rb5 32.Rc8 Nd7 33.Kc3 Ne5 34.Rc7 g5 35.Bd4 Rb8 36.Ba7 Rb5 37.Kb3 1-0

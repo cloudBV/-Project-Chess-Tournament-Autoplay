@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.18"]
+[Round "4.3"]
+[White "Grebnev, Aleksey"]
+[Black "Huang, Renjie"]
+[Result "1/2-1/2"]
+[WhiteElo "2618"]
+[BlackElo "2490"]
+[ECO "E11"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 Nbd7 9.Rd1 b6 10.b3 a5 11.Bc1 a4 12.bxa4 Ba6 13.Nbd2 Rc8 14.e4 Nxe4 15.Nxe4 dxe4 16.Ne5 f5 17.Nxd7 Qxd7 18.Rb1 b5 19.axb5 cxb5 20.c5 Rfd8 21.Bf4 b4 22.Bf1 Bxf1 23.Kxf1 Qd5 24.Rxb4 Bf6 25.Rd2 e3 26.Bxe3 Qh1+ 27.Ke2 Qxh2 28.Qc4 Qh5+ 29.Kd3 f4 30.Qxe6+ Kh8 31.gxf4 Rxc5 32.Rb8 Rd5 33.Rxd8+ Rxd8 34.Qc6 Qf5+ 35.Ke2 h5 36.Kf1 h4 37.Qf3 Rc8 38.Rd1 Be7 39.d5 Bd6 40.Kg2 Rf8 41.Kh1 Kg8 42.a4 Qc2 43.a5 Bxf4 44.Bxf4 Rxf4 45.Qxf4 Qxd1+ 46.Kh2 Qxd5 47.a6 Qa2 48.Qb8+ Kh7 49.Qb6 Qc4 50.Kh3 Qe4 51.Qb7 Qf5+ 52.Kxh4 Qxf2+ 53.Kg4 Qd4+ 54.Kf3 Qd3+ 55.Kf4 Qd6+ 56.Ke4 Qe6+ 57.Kd4 Qd6+ 58.Kc4 Qe6+ 59.Kb4 Qd6+ 60.Ka4 Qd1+ 61.Qb3 Qa1+ 62.Kb5 Qe5+ 63.Kc6 Qf6+ 64.Kb7 Qe7+ 65.Ka8 Qd8+ 66.Qb8 Qd5+ 67.Qb7 Qd8+ 68.Ka7 Qd4+ 69.Qb6 Qd7+ 70.Kb8 Qe8+ 71.Kb7 Qe7+ 72.Qc7 Qb4+ 73.Kc8 Qf8+ 74.Qd8 Qc5+ 75.Kb7 Qb5+ 76.Qb6 Qd7+ 77.Qc7 Qd5+ 78.Qc6 Qf7+ 79.Kb6 Qf2+ 80.Qc5 Qf6+ 81.Kb5 Qb2+ 82.Kc6 Qf6+ 83.Qd6 Qf3+ 84.Kd7 Qf5+ 85.Qe6 Qb5+ 86.Kc7 Qc5+ 87.Kb7 Qb4+ 88.Kc6 Qa4+ 89.Kc5 Qa5+ 90.Kd4 Qd2+ 91.Ke4 Qe2+ 92.Kf5 Qh5+ 93.Kf4 Qh2+ 94.Ke3 Qg1+ 95.Kd2 Qd4+ 96.Ke2 Qb2+ 97.Kf3 Qc3+ 98.Kf2 Qd4+ 99.Kf1 Qd1+ 100.Kg2 Qd2+ 101.Kh3 Qd3+ 102.Kh4 1/2-1/2

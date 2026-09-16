@@ -1,0 +1,14 @@
+[Event "Round 7: Cvitan, Ena - Burns, Michael"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/eJC7mhJh"]
+[Date "2026.07.09"]
+[Round "7.32"]
+[White "Cvitan, Ena"]
+[Black "Burns, Michael"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2158"]
+[ECO "E28"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Bd3 e5 8.Ne2 e4 9.Bb1 b6 10.Ng3 Re8 11.f3 Bb7 12.O-O Nbd7 13.f4 d5 14.cxd5 Bxd5 15.Qe2 c5 16.c4 Bb7 17.d5 b5 18.cxb5 a6 19.Rd1 axb5 20.Bb2 Bxd5 21.Qxb5 Rb8 22.Qe2 Qa5 23.Ba2 Bxa2 24.Rxa2 Rb3 25.Nf5 Rd3 26.g4 Qa4 27.Rxd3 exd3 28.Qxd3 c4 29.Qe2 Qb3 30.Bd4 Nd5 31.Qc2 Ra8 32.Rb2 Qxa3 33.Qxc4 N7b6 34.Qb3 Qxb3 35.Rxb3 f6 36.e4 Nxf4 37.Bxb6 g6 38.Ne7+ Kf7 39.Nd5 Ra1+ 40.Kf2 Ra2+ 41.Kg3 Ne2+ 42.Kf3 Ke6 43.h3 Nc1 44.Rc3 Ra1 45.Be3 Na2 46.Ra3 f5 47.Nf4+ Kd6 48.exf5 gxf5 49.gxf5 Ke5 50.Ra5+ Kd6 51.Bd4 Rf1+ 52.Kg2 Rxf4 1-0

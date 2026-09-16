@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/Lk57t18i"]
+[Date "2026.07.05"]
+[Round "9.25"]
+[White "Farkash, Denys"]
+[Black "Gorka, Tymoteusz"]
+[Result "1-0"]
+[WhiteElo "2097"]
+[BlackElo "2012"]
+[ECO "C05"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Ngf3 c5 6.c3 Nc6 7.Bd3 Qc7 8.O-O Be7 9.Re1 b6 10.Nf1 Bb7 11.a3 h6 12.b4 c4 13.Bc2 a6 14.a4 Na7 15.Ng3 O-O-O 16.b5 a5 17.Ba3 Bxa3 18.Rxa3 g5 19.h3 Rdg8 20.Nh2 Kb8 21.Nh5 Nc8 22.Ng4 Ne7 23.Qf3 Rf8 24.Raa1 Qd8 25.Rad1 Bc8 26.Qe2 Ng8 27.Rf1 f5 28.exf6 Ngxf6 29.Nhxf6 Nxf6 30.Ne5 Qd6 31.Ng6 Nd7 32.Nxh8 Rxh8 33.Rde1 Re8 34.Qh5 Rh8 35.Qg6 Qa3 36.Re3 Qb2 37.Bb1 Rf8 38.Qxe6 Qd2 39.Qxd5 Rxf2 40.Rxf2 Qxe3 41.Be4 Qe1+ 42.Kh2 Kc7 43.Rf7 Qe3 44.Qxc4+ Kd8 45.Bc6 Ne5 46.Qd5+ Bd7 47.Rxd7+ Nxd7 48.Qxd7# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 8: Savitha Shri B - Kozak, Adam"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/m1VKufgx"]
+[Date "2026.07.21"]
+[Round "8.5"]
+[White "Savitha Shri B"]
+[Black "Kozak, Adam"]
+[Result "0-1"]
+[WhiteElo "2368"]
+[BlackElo "2531"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Bg4 6.O-O Ne7 7.h3 Bh5 8.Re1 Nd7 9.Bg5 f6 10.Bd2 O-O 11.c4 dxc4 12.Bxc4+ Kh8 13.Nc3 Nb6 14.Be6 c6 15.Ne4 Nbd5 16.Nc5 b6 17.Nb7 Qc7 18.Nxd6 Qxd6 19.Qb3 Bf7 20.Bxf7 Rxf7 21.Re4 Ng6 22.Rae1 Re7 23.Rxe7 Ngxe7 24.Qd3 Qd7 25.a3 Re8 26.Qe4 Nc7 27.Qf4 Ned5 28.Rxe8+ Qxe8 29.Qd6 Nb5 30.Qg3 Nbc7 31.Qd6 Kg8 32.a4 Qe6 33.Qd8+ Qe8 34.Qd6 a5 35.h4 h5 36.Bc1 Kf7 37.Bd2 Qe6 38.Qd8 Ne8 39.Bc1 Nd6 40.b3 Nf5 41.Ba3 Kg6 42.Qb8 Kh7 43.Qb7 Nxh4 44.Bf8 Nxf3+ 45.gxf3 Qe1+ 0-1

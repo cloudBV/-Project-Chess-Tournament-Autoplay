@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.10"]
+[White "Stachniak, Stanislaw"]
+[Black "Terkiewicz, Bruno"]
+[Result "0-1"]
+[WhiteElo "2019"]
+[BlackElo "2221"]
+[ECO "B90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be3 Nbd7 8.Be2 b6 9.O-O Bb7 10.f3 Be7 11.Kh1 O-O 12.Bc4 Ne5 13.Bb3 Rc8 14.Qe2 Qc7 15.g4 Nfd7 16.g5 Nc6 17.Rad1 Nc5 18.Ba2 Nb4 19.Bc4 Bd8 20.Nb3 Nxa4 21.Nxa4 Qxc4 22.Qxc4 Rxc4 23.Rd4 Rxd4 24.Nxd4 b5 25.Nc3 Bb6 26.Kg2 g6 27.Rf2 e5 28.Nf5 gxf5 29.Bxb6 f4 30.Rd2 Rc8 31.Rxd6 Nxc2 32.h4 b4 33.Na4 Ne3+ 34.Bxe3 fxe3 35.Kf1 Bc6 36.Nb6 Bb5+ 37.Kg2 Rc2+ 38.Kg3 e2 39.Rd8+ Kg7 0-1

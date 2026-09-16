@@ -1,0 +1,15 @@
+[Event "Round 8: Yilmaz, Baver - Yardimci, Can"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/m2gkq31k"]
+[Date "2026.07.04"]
+[Round "8.17"]
+[White "Yilmaz, Baver"]
+[Black "Yardimci, Can"]
+[Result "0-1"]
+[WhiteElo "2320"]
+[BlackElo "2094"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Bd3 c5 7.d5 e6 8.h3 exd5 9.exd5 Re8+ 10.Be3 Bh6 11.O-O Bxe3 12.fxe3 Nbd7 13.e4 a6 14.Qd2 Qe7 15.Rf2 Nh5 16.g4 Ng7 17.Qh6 f6 18.Raf1 Rf8 19.e5 Nxe5 20.Nxe5 Qxe5 21.Ne4 Ne8 22.Re2 f5 23.Kg2 b5 24.Ng5 Qg7 25.Qh4 Nf6 26.gxf5 bxc4 27.Bxc4 Bxf5 28.Ne6 Bxe6 29.Rxe6 Nh5 30.Rxd6 Qxb2+ 31.Rf2 Qe5 32.Rb6 Rxf2+ 33.Kxf2 Rf8+ 34.Kg2 Nf4+ 35.Kh2 Nd3+ 36.Kh1 Rf1+ 37.Kg2 Qe2+ 38.Kg3 Qf2+ 39.Kg4 Qf4# 0-1

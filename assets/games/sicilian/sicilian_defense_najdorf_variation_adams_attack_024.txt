@@ -1,0 +1,15 @@
+[Event "Round 7: Akbari, Rosha - Azali, Tannaz"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-7/54Voowky/jnogO2Fv"]
+[Date "2026.07.15"]
+[Round "7.4"]
+[White "Akbari, Rosha"]
+[Black "Azali, Tannaz"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2109"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 Be7 8.g4 h6 9.Rg1 b5 10.a4 b4 11.Nd5 Bb7 12.Bc4 Nbd7 13.g5 Nxe4 14.gxh6 g6 15.Nxe7 Qxe7 16.Bg5 Ndf6 17.Qe2 Nxg5 18.Nxg5 d5 19.Bb3 Rxh6 20.O-O-O Kf8 21.Qe3 Rh5 22.f4 Re8 23.Rdf1 exf4 24.Qxf4 Kg7 25.Kb1 a5 26.Nf3 Ba6 27.Re1 Qc5 28.Rxe8 Nxe8 29.Nd4 Nf6 30.Rg2 Bc8 31.Rf2 Qe7 32.Re2 Qd7 33.Rf2 Ne4 34.Rf1 Ba6 35.Rg1 Nf6 36.h4 Ne4 37.Ka2 Qa7 38.Rd1 Qe7 39.Nc6 Qxh4 40.Qc7 Bc4 41.Nxa5 Bxb3+ 42.Nxb3 Qh2 43.Qc8 Nc3+ 44.Ka1 Nxd1 45.Nc5 Ne3 46.Nd7 Rh8 47.Qc5 Qh1+ 48.Ka2 Qe4 49.Nb6 Nxc2 50.a5 Qd3 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Ozkan, Kaan - Uzdemir, Ali Poyraz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/u3zds78K"]
+[Date "2026.07.16"]
+[Round "6.23"]
+[White "Ozkan, Kaan"]
+[Black "Uzdemir, Ali Poyraz"]
+[Result "0-1"]
+[WhiteElo "2049"]
+[BlackElo "2265"]
+[ECO "B94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 Qc7 8.Qf3 h6 9.Bxf6 Nxf6 10.f5 Qc5 11.O-O-O g5 12.Nb3 Qe5 13.Nd5 Nxd5 14.Rxd5 Qf6 15.Bd3 e6 16.e5 dxe5 17.fxe6 Qxf3 18.gxf3 Bxe6 19.Rxe5 Bd6 20.Re2 O-O-O 21.Kb1 Rhe8 22.Rhe1 Bb4 23.Rc1 Bd5 24.Rf2 Bd6 25.a3 Bf4 26.Rd1 Kc7 27.Nc1 Re3 28.Rdf1 Rde8 29.Be4 Be6 30.Ne2 Be5 31.Ng3 Bxg3 32.hxg3 Bc4 33.Rd1 Be6 34.Kc1 f5 35.Kd2 f4 36.gxf4 gxf4 37.Rh2 Bg4 38.Rf1 Bd7 39.Rh4 Bb5 40.Rg1 Re2+ 41.Kd1 Rf8 42.Rhh1 Rxe4 43.fxe4 f3 44.Kd2 f2 45.Rf1 Bxf1 46.Rxf1 Kd6 47.Ke2 Ke5 48.Ke3 h5 49.b4 b5 50.c4 bxc4 51.a4 c3 52.b5 axb5 53.axb5 c2 54.Kd2 Kxe4 55.b6 c1=Q+ 56.Kxc1 Ke3 0-1

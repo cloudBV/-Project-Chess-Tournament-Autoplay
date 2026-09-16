@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "3.6"]
+[White "Torfoss, Sivert Schanche"]
+[Black "Lie, Kjetil A."]
+[Result "0-1"]
+[WhiteElo "2328"]
+[BlackElo "2459"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 Nbd7 7.Bb2 Re8 8.Re1 e5 9.dxe5 dxe5 10.e4 Qe7 11.a4 a5 12.Nc3 c6 13.Nd2 Rd8 14.Qe2 Nc5 15.Ba3 Bf8 16.Nc4 Qc7 17.Rad1 Be6 18.Bb2 Ncd7 19.h3 Bc5 20.Rf1 Bd4 21.Nd2 Bc5 22.Nc4 Nb6 23.Nxb6 Qxb6 24.Nb1 Bd4 25.Bc1 Rd7 26.Kh2 Nh5 27.Rd3 Rad8 28.Bf3 Nf6 29.Bg5 Kg7 30.Qd2 Bc5 31.Rxd7 Rxd7 32.Bxf6+ Kxf6 33.Qh6 Ke7 34.Kg2 Qb4 35.Qh4+ Kd6 36.Qf6 Kc7 37.Qxe5+ Bd6 38.Qf6 Qc5 39.Qc3 Qxc3 40.Nxc3 Be5 41.Nb1 Bb2 42.Be2 Rd4 43.f3 f5 44.e5 Rb4 45.f4 b5 46.axb5 cxb5 47.Rd1 a4 48.Rd6 Bc8 49.bxa4 bxa4 50.Bf3 Rc4 51.Rd2 a3 52.Nxa3 Bxa3 53.Bd5 Rc3 54.Bb3 Bb7+ 55.Kh2 Re3 56.e6 Bd6 57.h4 Re1 58.Bd5 Bxd5 59.Rxd5 Re2+ 60.Kh3 Rxc2 61.Ra5 Kd8 62.Ra7 Rc7 63.Ra8+ Ke7 64.h5 Kxe6 65.hxg6 hxg6 66.Rh8 Rc3 67.Kh4 Be7+ 68.Kh3 g5 69.Rh6+ Kf7 70.Rh7+ Kf8 71.fxg5 Bd6 72.Rh6 Rxg3+ 73.Kh4 Rg4+ 74.Kh5 Be7 75.Rg6 Kf7 76.Ra6 Rxg5+ 77.Kh6 Rg4 78.Kh5 Rh4# 0-1

@@ -1,0 +1,15 @@
+[Event "Round 3: Golding, Alex - Collins, Adam"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-3/jQ7LxZjT/hLKnAt7g"]
+[Date "2026.07.23"]
+[Round "3.2"]
+[White "Golding, Alex"]
+[Black "Collins, Adam"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2231"]
+[ECO "C00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Be7 5.g3 a5 6.Bg2 a4 7.c3 h6 8.O-O O-O 9.Re1 c5 10.e5 Nh7 11.h4 Nc6 12.Nf1 b5 13.Ne3 Qb6 14.Ng4 Ba6 15.Bf4 Rfc8 16.Qd2 Bf8 17.Rac1 Qd8 18.Red1 b4 19.c4 dxc4 20.dxc4 Qxd2 21.Rxd2 Rd8 22.Ne3 Bb7 23.h5 Be7 24.Rcd1 Rxd2 25.Rxd2 Rd8 26.Rxd8+ Bxd8 27.Ne1 Nf8 28.Nd3 Nd7 29.Nf1 Na5 30.Bxb7 Nxb7 31.Be3 Be7 32.Nd2 Na5 33.f4 f6 34.exf6 gxf6 35.f5 exf5 36.Bxh6 Ne5 37.Nxe5 fxe5 38.Be3 b3 39.axb3 axb3 40.Kf2 e4 41.Ke2 Bf6 42.Bxc5 Bxb2 43.Bb6 Bc3 44.Bxa5 Bxa5 45.Nxb3 Bc7 46.Nd4 Bxg3 47.Ke3 f4+ 48.Kxe4 Kg7 49.Ne2 Bf2 50.Nxf4 Kh6 51.Kf5 Be3 52.Kg4 Kg7 53.Nd3 Kf6 54.Nf4 Kg7 55.Kf5 Kh6 56.Kg4 Kg7 57.c5 Kf7 58.c6 Ke8 59.h6 Bd4 60.Nd5 Kd8 61.Kf5 Bh8 62.Kg6 Kc8 63.Kf7 Kd8 64.Kg8 Bd4 65.h7 Ke8 66.h8=Q 1-0

@@ -1,0 +1,14 @@
+[Event "Round 1: Dordevic, Tom - Hylarides, Charlie Ronald"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/cbkc2FaB"]
+[Date "2026.07.21"]
+[Round "1.19"]
+[White "Dordevic, Tom"]
+[Black "Hylarides, Charlie Ronald"]
+[Result "1-0"]
+[WhiteElo "2319"]
+[BlackElo "2090"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with Bf5"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 Bf5 4.d3 c6 5.O-O h6 6.Nbd2 e6 7.Re1 Bh7 8.e3 Be7 9.Qe2 O-O 10.e4 a5 11.a4 Na6 12.e5 Nd7 13.Nf1 Rc8 14.g4 Nb4 15.Rd1 b5 16.c3 Na6 17.d4 Nc7 18.axb5 Nxb5 19.Ng3 Re8 20.Ne1 Qb6 21.Bf1 Rb8 22.f4 c5 23.Nf3 cxd4 24.Qxb5 Qxb5 25.Bxb5 Rxb5 26.Nxd4 Bc5 27.Ne2 f6 28.Kg2 Be4+ 29.Kg3 Rb7 30.exf6 gxf6 31.Rxa5 Bb6 32.Ra3 e5 33.Nf5 Bxf5 34.gxf5 Bc7 35.Rxd5 exf4+ 36.Nxf4 Nb6 37.Rd4 Be5 38.Re4 Nd5 39.Kf3 Nxf4 40.Bxf4 Rxb2 41.Bxh6 Rc8 42.Rg4+ Kh8 43.c4 Rxh2 44.Bg7+ Kh7 45.Ra7 Rh3+ 46.Kg2 Rh2+ 47.Kg1 Rc7 48.Rxc7 Bxc7 49.Bxf6 Rh5 50.Rg7+ 1-0

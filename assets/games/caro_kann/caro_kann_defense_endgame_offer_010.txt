@@ -1,0 +1,14 @@
+[Event "Round 4: Buenafe Moya, Javier - Almagro Llamas, Pablo"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-4/dYZKVte1/K6HVxqcV"]
+[Date "2026.07.09"]
+[Round "4.1"]
+[White "Buenafe Moya, Javier"]
+[Black "Almagro Llamas, Pablo"]
+[Result "0-1"]
+[WhiteElo "2196"]
+[BlackElo "2431"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 Bg4 4.h3 Bh5 5.Qe2 Nd7 6.Nc3 Bxf3 7.Qxf3 e6 8.Qe2 d4 9.Nb1 h5 10.h4 Qc7 11.c3 c5 12.Qc2 Bd6 13.Na3 a6 14.Qa4 Ne7 15.cxd4 cxd4 16.Qxd4 O-O 17.Be2 Nc6 18.Qa4 Bb4+ 19.Kf1 Nc5 20.Qd1 Rfd8 21.Nc2 Nxe4 22.Bf3 Nc5 23.Bxc6 Nxd3 24.Nxb4 Nxb4 25.Qxh5 Qxc6 26.Bg5 Rd4 27.Be3 Rc4 28.Rh3 Nd5 29.b3 Re4 30.Re1 Rd8 31.Rg3 Nxe3+ 32.fxe3 Rd5 33.Rg5 Qb5+ 34.Kg1 Rxg5 35.hxg5 g6 36.Qf3 Re5 37.Rc1 Rxg5 38.Rc8+ Kg7 39.Rc7 Rf5 40.Qg3 Qf1+ 0-1

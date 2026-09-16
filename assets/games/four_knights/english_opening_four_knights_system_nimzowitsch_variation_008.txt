@@ -1,0 +1,15 @@
+[Event "Gambitul Calului Editia 7 - Clasic"]
+[Site "CalCool, Romania"]
+[Date "2026.07.16"]
+[Round "3.1"]
+[White "Minescu, Dragos-Olivar"]
+[Black "Moraru, Marius"]
+[Result "0-1"]
+[WhiteElo "2011"]
+[BlackElo "2321"]
+[ECO "A28"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bc5 5.Nxe5 O-O 6.Nf3 Re8 7.d3 d5 8.cxd5 Ng4 9.dxc6 Nxf2 10.Qe2 bxc6 11.Be3 Bxe3 12.Qxe3 Nxh1 13.O-O-O Rb8 14.Be2 Qe7 15.Rxh1 Ba6 16.Rd1 c5 17.Qg5 Qd6 18.e5 Qe6 19.Qe3 Qb6 20.Rd2 f6 21.Na4 Qa5 22.b3 fxe5 23.Qxc5 Rb5 24.Qc3 Rb4 25.Nc5 Rc4 26.dxc4 Qxc3+ 27.Kb1 Bc8 28.Bd3 Bg4 29.Rc2 Qa5 30.Ne4 Rd8 31.Rd2 Bf5 32.Rc2 0-1

@@ -1,0 +1,15 @@
+[Event "X TORNEIO INTERNACIONAL DE XADREZ SESC CAIOBÁ - CLASSICO A"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil"]
+[Date "2026.07.05"]
+[Round "9.22"]
+[White "Calcada, Lucas Galvan"]
+[Black "Saiz Rodriguez, Daniel Evelio"]
+[Result "0-1"]
+[WhiteElo "2026"]
+[BlackElo "2247"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 e6 7.b3 g6 8.Bb2 Bg7 9.c4 O-O 10.d4 cxd4 11.Nxd4 d5 12.Nd2 Nh5 13.g3 Qb6 14.N2f3 e5 15.Nc2 d4 16.Ba3 Rfe8 17.Nfe1 a5 18.Nd3 Qc6 19.Rac1 Bh6 20.Rcd1 Rac8 21.Nde1 Ng7 22.f4 exf4 23.Nxd4 Qb6 24.Qf2 Nf6 25.c5 Qa6 26.gxf4 Rxe4 27.Ng2 Rce8 28.Bc1 Ne6 29.Nxe6 R4xe6 30.f5 Re2 31.Qf3 Bxc1 32.Rxc1 g5 33.c6 bxc6 34.Rxc6 Qa7+ 35.Kh1 Ne4 36.h4 Nf2+ 37.Kh2 Qb8+ 38.Kg1 g4 39.Qc3 Nh3+ 40.Kh1 Nf2+ 41.Kg1 Nh3+ 42.Kh1 Rxg2 43.Rc7 Qa8 44.Rc6 Rge2 45.Qc4 R2e4 46.Qd5 Nf4 47.Qc5 Nd3 48.Qb5 Nb4 49.f6 R4e5 0-1

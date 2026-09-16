@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "7.8"]
+[White "Tretiak, Igor"]
+[Black "Kilarski, Kacper"]
+[Result "1-0"]
+[WhiteElo "2056"]
+[BlackElo "2048"]
+[ECO "B21"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 g6 5.Nc3 Bg7 6.Nf3 Nf6 7.Be2 O-O 8.O-O d6 9.Nd5 Nxd5 10.exd5 Ne5 11.Nxe5 Bxe5 12.c3 e6 13.Bf3 Qc7 14.h4 exd5 15.Bxd5 Be6 16.Bh6 Bxd5 17.Qxd5 Rfe8 18.Rad1 Rad8 19.Rfe1 Qb6 20.h5 Bg7 21.Bg5 Rc8 22.h6 Rxe1+ 23.Rxe1 Bh8 24.Re7 Rf8 25.Rxb7 Qa6 26.Be7 Re8 27.Bxd6 Re1+ 28.Kh2 1-0

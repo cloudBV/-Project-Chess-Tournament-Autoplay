@@ -1,0 +1,14 @@
+[Event "Round 7: Ioannidis, Evgenios - Gkoumas, Georgios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/9EjhCfGa"]
+[Date "2026.07.10"]
+[Round "7.31"]
+[White "Ioannidis, Evgenios"]
+[Black "Gkoumas, Georgios"]
+[Result "1/2-1/2"]
+[WhiteElo "2473"]
+[BlackElo "2439"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.e3 Bxc3 4.bxc3 d6 5.e4 Ne7 6.Bd3 O-O 7.Ne2 f5 8.exf5 Bxf5 9.Bxf5 Nxf5 10.O-O Nd7 11.Ba3 b6 12.d4 Kh8 13.c5 bxc5 14.dxc5 Nxc5 15.Bxc5 dxc5 16.Qa4 Qf6 17.Rad1 Qe6 18.Rfe1 Nd6 19.f3 e4 20.Ng3 e3 21.Re2 Nc4 22.Rde1 Rfd8 23.Qb5 Qd5 24.Nf1 Rab8 25.Qa4 Nb2 26.Nxe3 Nxa4 27.Nxd5 c6 28.Ne7 Nxc3 29.Rc2 Na4 30.Nxc6 Re8 31.Rxe8+ Rxe8 32.Nxa7 Kg8 33.Nb5 Rb8 34.Nd6 Kf8 35.Kf2 Ke7 36.Ne4 Ra8 37.Kg3 Ra5 38.h4 h6 39.Kg4 Ke6 40.Rc4 Ke7 41.Kf5 Ra6 42.h5 Kf7 43.g4 Ra8 44.Rc2 Ra6 45.Ke5 Ra8 46.Kd5 Ke7 47.Kc6 Ra5 48.a3 Ke6 49.f4 Ra6+ 50.Kb5 Ra8 51.f5+ Ke7 52.Re2 Kf8 53.Re3 c4 54.Kxc4 Nb2+ 55.Kb5 Rb8+ 56.Kc6 Rc8+ 57.Kd7 Re8 58.Rb3 Na4 59.Rb4 Rxe4 60.Rxe4 Nc5+ 61.Kc6 Nxe4 62.a4 Ke7 63.a5 Nd6 64.a6 Nc8 65.Kc7 Na7 66.Kb6 Nc8+ 67.Kb7 Nd6+ 68.Kc7 Nb5+ 69.Kc6 Na7+ 70.Kc5 Kf6 71.Kb6 Nc8+ 72.Kc7 Na7 73.Kb6 1/2-1/2

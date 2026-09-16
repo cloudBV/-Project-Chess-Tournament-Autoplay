@@ -1,0 +1,14 @@
+[Event "Round 8: Badelka, Olga - Baklan, Vladimir"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-8/JY4vi7xh/UDvz4c1u"]
+[Date "2026.07.24"]
+[Round "8.3"]
+[White "Badelka, Olga"]
+[Black "Baklan, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2406"]
+[BlackElo "2525"]
+[ECO "E47"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Nxd5 9.O-O Nc6 10.a3 Bd6 11.Ne4 Be7 12.Bc2 Re8 13.Qd3 g6 14.Bh6 Bf8 15.Bxf8 Rxf8 16.Bb3 Nce7 17.N2c3 Kg7 18.Rfd1 Bd7 19.Bxd5 exd5 20.Ng3 Be6 21.Re1 Nc6 22.Rad1 Qf6 23.Re3 Rad8 24.b4 Rc8 25.h3 Rfd8 26.Qd2 h6 27.Nce2 Re8 28.Rf3 Qh4 29.Nf4 a6 30.Re1 Bd7 31.Rxe8 Rxe8 32.Nge2 Qe7 33.Re3 Qd6 34.Rxe8 Bxe8 35.Qe3 Bd7 36.Nd3 Qe7 37.Ne5 f6 38.Nxd7 Qxd7 39.Nf4 Kf7 40.Nd3 Qf5 41.Nc5 b6 42.Nxa6 Qe4 43.Qxh6 Nxd4 44.Qh7+ Kf8 45.Nb8 Qe1+ 46.Kh2 Nf3+ 47.Kg3 Qe5+ 48.Kxf3 Qf5+ 49.Kg3 Qg5+ 50.Kh2 Qf4+ 1/2-1/2

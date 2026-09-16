@@ -1,0 +1,15 @@
+[Event "Round 5: Chakrabarty, Reyaansh - Oishik Mondal"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-5/dM5HK0ij/hspkFVEj"]
+[Date "2026.07.16"]
+[Round "5.23"]
+[White "Chakrabarty, Reyaansh"]
+[Black "Oishik Mondal"]
+[Result "0-1"]
+[WhiteElo "2267"]
+[BlackElo "2001"]
+[ECO "C17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Retreat Variation, Armenian Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Ne7 8.Nb5 Bc7 9.Qxg7 Rg8 10.Qf6 Nd7 11.Qh4 a6 12.Nxc7+ Qxc7 13.Qxd4 Nf5 14.Qb2 Nxe5 15.g3 d4 16.b5 Nc4 17.Qb4 Qe5+ 18.Ne2 d3 19.cxd3 Qxa1 20.dxc4 Nd4 21.Nxd4 Qxc1+ 22.Ke2 a5 23.Qb3 Qg5 24.f4 Qc5 25.Nf3 b6 26.Qe3 Qxe3+ 27.Kxe3 Bb7 28.Be2 Rc8 29.Rc1 Bxf3 30.Bxf3 Rc5 31.g4 h6 32.h3 Ke7 33.a4 Rd8 34.Be2 e5 35.f5 Rd4 36.Bd3 Kf6 37.Rf1 h5 38.Rg1 hxg4 39.hxg4 Kg5 40.Be2 Rcxc4 41.Bxc4 Rxc4 42.Rd1 Rxg4 43.Rd7 f6 44.Rd6 Rxa4 45.Rxb6 Rb4 46.Kd3 Kxf5 47.Kc3 e4 48.Rb8 Kf4 49.b6 f5 50.b7 Ke3 51.Rf8 Rxb7 52.Rxf5 Rc7+ 53.Kb3 Kd2 54.Rd5+ Ke2 55.Rxa5 e3 56.Re5 Kd2 57.Rd5+ Ke1 0-1

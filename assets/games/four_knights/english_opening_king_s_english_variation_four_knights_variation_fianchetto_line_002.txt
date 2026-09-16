@@ -1,0 +1,15 @@
+[Event "XXII Baltic Pearl Chess Festival 2026 - Group A 1-20"]
+[Site "Lazy, Poland"]
+[Date "2026.07.04"]
+[Round "7.3"]
+[White "Stachowiak, Bruno"]
+[Black "Czaja, Wiktor"]
+[Result "1-0"]
+[WhiteElo "2154"]
+[BlackElo "2119"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.Nc3 Be6 7.O-O Be7 8.d4 exd4 9.Nxd4 Nxd4 10.Qxd4 Nxc3 11.Qxc3 Bf6 12.Qb4 Qe7 13.Qxb7 O-O 14.Be3 Rfc8 15.Rac1 Rab8 16.Qxa7 Rxb2 17.a4 Rxe2 18.a5 Ra2 19.a6 c6 20.Qxe7 Bxe7 21.a7 Ra8 22.Ra1 Rxa1 23.Rxa1 Bd5 24.Rb1 Bd6 25.Bc5 Be5 26.f4 Bc7 27.Rb7 Rc8 28.Rxc7 Rxc7 29.a8=R+ Rc8 30.Rxc8# 1-0

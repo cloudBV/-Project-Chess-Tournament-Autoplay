@@ -1,0 +1,15 @@
+[Event "Round 1: Durarbayli, Vasif - Spence, Isaac"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/IXp6J8by"]
+[Date "2026.07.03"]
+[Round "1.27"]
+[White "Durarbayli, Vasif"]
+[Black "Spence, Isaac"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2118"]
+[ECO "B12"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.Nf3 f6 7.b4 Be7 8.Bb2 a5 9.Nbd2 Nc6 10.exf6 Bxf6 11.Bxf6 Qxf6 12.b5 Nd4 13.Nxd4 Qxd4 14.Nb3 Qe5+ 15.Be2 a4 16.Qd4 Qxd4 17.Nxd4 Nf6 18.f4 Bd7 19.Bd3 Kf7 20.Kd2 Ne8 21.Rhe1 Nd6 22.Rab1 Rhc8 23.Rb4 Rc5 24.h4 Rac8 25.h5 Nc4+ 26.Bxc4 Rxc4 27.Rxc4 Rxc4 28.c3 Rc5 29.Rb1 Kf6 30.Rb4 Rc4 31.Rxc4 dxc4 32.g4 h6 33.Nf3 Bxb5 34.Ne5 Bc6 35.Ke3 Ke7 36.Kd4 Bg2 37.Kxc4 Kd6 38.Kd4 Bf1 39.c4 b6 40.Kc3 Kc5 41.Nd7+ Kc6 42.Ne5+ Kc5 43.Nd3+ Kc6 44.Kd4 Be2 45.Ne5+ Kd6 46.Ke3 Bd1 47.Kd2 Bb3 48.Kc3 Kc5 49.Nd3+ Kd6 50.Kb4 Bd1 51.Ne5 Kc7 52.Kb5 Bc2 53.Kb4 Kd6 54.Kc3 Bd1 55.Kd2 Bb3 56.Kd3 Bd1 57.Kd2 Bb3 58.Kc3 Bd1 59.Kb4 Bc2 60.Kb5 Kc7 61.c5 bxc5 62.Kxc5 Bd1 63.Kd4 Be2 64.Ke3 Bd1 65.Kd2 Bb3 66.g5 Bd5 67.Ke3 Bb3 68.Ke2 Kd6 69.Nf7+ Kd5 70.gxh6 gxh6 71.Nxh6 Ke4 72.Nf7 Kxf4 73.h6 Bc2 74.Kd2 Bh7 75.Kc3 e5 76.Nd6 e4 77.Kd2 Kg5 78.Nb5 Kxh6 79.Nc3 Kg5 80.Nxa4 Kf4 81.Nb6 e3+ 82.Ke2 Be4 83.a4 Bb7 84.a5 Ba6+ 85.Ke1 Ke4 86.Nd7 Kd5 87.Nf6+ Kc5 88.Ng4 Kb4 89.Nxe3 Kxa5 1/2-1/2

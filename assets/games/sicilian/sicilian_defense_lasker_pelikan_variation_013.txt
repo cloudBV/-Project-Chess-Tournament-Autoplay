@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "3.9"]
+[White "Mompel Ferruz, Xavier"]
+[Black "Lobo Pereira, Arami"]
+[Result "1-0"]
+[WhiteElo "2319"]
+[BlackElo "2109"]
+[ECO "B33"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.g4 Be7 10.Rg1 Nd7 11.Be3 a6 12.Nc3 b5 13.g5 Bb7 14.a3 Nb6 15.Qf3 Rc8 16.O-O-O Nc4 17.Bxc4 Rxc4 18.Ne4 Qa5 19.Rg4 Qc7 20.Rd2 a5 21.b3 Rc3 22.Nxc3 Qxc3 23.Rd3 Qa1+ 24.Kd2 Qxa3 25.Rc3 Bd8 26.Qe4 b4 27.Rc4 Qa1 28.f4 h6 29.fxe5 hxg5 30.exd6+ Kf8 31.h4 Qf1 32.d7 Kg8 33.Rc8 f5 34.Qe8+ Kh7 35.Qh5+ 1-0

@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-7/78HixM7H/5sKvIfG1"]
+[Date "2026.07.24"]
+[Round "7.11"]
+[White "Sriram, Jha"]
+[Black "Rossen, Claus"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2159"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O e5 8.dxe5 dxe5 9.Bg5 Qxd1 10.Rfxd1 Be6 11.Nd5 Bxd5 12.cxd5 Nb4 13.e4 c5 14.a3 Nc2 15.Rac1 Nd4 16.Nxd4 cxd4 17.Rc7 Rab8 18.Rdc1 Ne8 19.Rd7 f6 20.Bd2 Rf7 21.Bh3 Rxd7 22.Bxd7 Nd6 23.Be6+ Kh8 24.f3 h5 25.Kf2 Rd8 26.Bb4 Bh6 27.Rc7 d3 28.Bd7 Nc4 29.Rxc4 Rxd7 30.d6 a5 31.Rc8+ Bf8 32.Rxf8+ Kg7 33.Rc8 1-0

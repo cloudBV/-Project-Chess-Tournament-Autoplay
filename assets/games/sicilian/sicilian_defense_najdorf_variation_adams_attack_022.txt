@@ -1,0 +1,14 @@
+[Event "Round 2: Alexakis, Dimitris - Matsumura, Cocoro"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/4FY31hpg"]
+[Date "2026.07.14"]
+[Round "2.8"]
+[White "Alexakis, Dimitris"]
+[Black "Matsumura, Cocoro"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2225"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nde2 h5 8.g3 Be6 9.Bg2 Nbd7 10.a4 Be7 11.O-O O-O 12.a5 Rc8 13.Be3 Nb8 14.Qd2 Qc7 15.Rfc1 Bd8 16.Nd5 Qd7 17.Kh2 Bxd5 18.exd5 Qb5 19.b3 Be7 20.c4 Qxb3 21.Rc3 Qb4 22.Qc2 Nbd7 23.Ra4 1-0

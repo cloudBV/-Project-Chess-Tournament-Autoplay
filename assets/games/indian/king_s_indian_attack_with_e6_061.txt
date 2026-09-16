@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.22"]
+[White "Daaevik Wadhawan"]
+[Black "Gomez Anadon, Daniel"]
+[Result "1-0"]
+[WhiteElo "2360"]
+[BlackElo "2176"]
+[ECO "A07"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Bd6 5.d3 O-O 6.Nbd2 e5 7.e4 dxe4 8.dxe4 Nc6 9.Qe2 Qe7 10.Nc4 Bc5 11.a4 a5 12.c3 b6 13.Nh4 Qe6 14.Nf5 Ba6 15.b3 Ne7 16.Nfe3 Rfd8 17.Re1 Bxe3 18.Bxe3 Rd6 19.Bf1 Bxc4 20.Qxc4 Rad8 21.Qxe6 fxe6 22.f3 h6 23.Bc4 g5 24.h3 Kg7 25.Kf2 Kg6 26.Ke2 Nh5 27.Rg1 Kf6 28.Ra2 Nc8 29.Rd2 Rxd2+ 30.Bxd2 Nd6 31.Bd3 c5 32.Be3 Rc8 33.Bf2 Ke7 34.Rb1 Ra8 35.Rh1 Nf6 36.g4 Kf7 37.Bg3 Nd7 38.h4 Rg8 39.b4 Kf6 40.Rb1 Rb8 41.Bf2 c4 42.Bc2 Rc8 43.Rd1 Ke7 44.Be3 Nf7 45.Rb1 Rb8 46.hxg5 hxg5 47.bxa5 bxa5 48.Rxb8 Nxb8 49.Bb1 Nd7 50.Ba2 Nd6 51.Bxg5+ Ke8 52.Be3 Kf7 53.Kf2 Kf6 54.Kg3 Kf7 55.Kh4 Kg6 56.g5 Kf7 57.Kh5 Kg7 58.Bf2 Kh7 59.g6+ Kg7 60.Kg5 Nf6 61.Bb1 Nd7 62.Ba2 Nf6 63.Bb6 Nfxe4+ 64.fxe4 Nxe4+ 65.Kh5 Nxc3 66.Bxc4 Nxa4 67.Be3 1-0

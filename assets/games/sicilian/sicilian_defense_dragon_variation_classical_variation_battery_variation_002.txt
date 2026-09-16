@@ -1,0 +1,14 @@
+[Event "Round 9: Cardona Duque, Juan Esteban - Lopez Rayo, Santiago"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-9/L7TSgSRN/cpYRbjjH"]
+[Date "2026.07.11"]
+[Round "9.4"]
+[White "Cardona Duque, Juan Esteban"]
+[Black "Lopez Rayo, Santiago"]
+[Result "1/2-1/2"]
+[WhiteElo "2193"]
+[BlackElo "2306"]
+[ECO "B73"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3 O-O 8.O-O Nc6 9.Qd2 Bd7 10.Kh1 Rc8 11.f3 a6 12.Rac1 b5 13.Nd5 Nxd5 14.Nxc6 Bxc6 15.exd5 Bd7 16.c3 Re8 17.Bd3 e5 18.dxe6 Bxe6 19.Bb1 Qh4 20.Rfe1 h6 21.Bf2 Qe7 22.Bg3 d5 23.f4 Qd7 24.Bf2 Bf5 25.Bd4 Bxb1 26.Rxb1 Qf5 27.Bxg7 Kxg7 28.h3 Re4 29.Rf1 Rce8 30.Rbd1 Re2 31.Qxd5 Qxd5 32.Rxd5 Rxb2 33.f5 g5 34.a4 bxa4 35.Ra5 Ree2 36.Rg1 Ra2 37.Rxa6 a3 38.c4 Rec2 39.Ra4 Rc3 40.Rb1 Rf2 41.Ra5 a2 42.Ra1 Rcc2 43.g4 Rh2+ 44.Kg1 Rcg2+ 45.Kf1 Rc2 46.Kg1 Rhg2+ 47.Kh1 Rgd2 48.c5 h5 49.c6 Rd3 50.R5xa2 Rxh3+ 51.Kg1 Rxc6 52.gxh5 Rxh5 53.Rg2 Kf6 54.Ra5 Rh4 55.Rd5 Rf4 56.Rf2 Rxf2 57.Kxf2 Rc4 58.Kg3 Rf4 59.Ra5 Rxf5 60.Ra6+ Kg7 61.Kg4 Rc5 62.Kh5 Rb5 63.Rc6 Rd5 64.Ra6 Rc5 65.Rb6 Ra5 66.Rc6 Rb5 67.Ra6 Re5 68.Rb6 Rf5 69.Ra6 Rd5 70.Rb6 Ra5 71.Rc6 Rb5 72.Ra6 Rc5 73.Rb6 Ra5 74.Rc6 Rb5 75.Ra6 Rd5 76.Rb6 Re5 77.Ra6 Kh7 78.Rh6+ Kg7 79.Ra6 Rb5 80.Rc6 Kf8 81.Rc7 Ra5 82.Rb7 Rc5 83.Ra7 Rb5 84.Rc7 Ra5 85.Rb7 Rc5 86.Ra7 Rb5 87.Rc7 Ra5 88.Rb7 Ke8 89.Rc7 Rf5 90.Kg4 Re5 91.Kh5 Re7 92.Rc6 Re5 93.Rc7 Re7 94.Rc6 Re5 95.Rc7 Ra5 96.Rb7 Rc5 97.Ra7 Rb5 98.Rc7 Ra5 99.Rb7 Rc5 100.Ra7 Kf8 101.Rb7 Ra5 102.Rc7 Ke8 103.Rb7 f6 104.Kg6 Ra6 105.Kf5 Kd8 106.Rf7 Ke8 107.Rc7 Kd8 108.Rf7 Rc6 109.Ra7 Rb6 110.Rh7 Rd6 111.Ra7 Kc8 112.Rf7 Kd8 113.Ra7 Rd7 114.Ra6 Ke7 115.Re6+ Kd8 116.Rxf6 Rg7 117.Kg4 Ke7 118.Rf5 Ke6 119.Rxg5 1/2-1/2

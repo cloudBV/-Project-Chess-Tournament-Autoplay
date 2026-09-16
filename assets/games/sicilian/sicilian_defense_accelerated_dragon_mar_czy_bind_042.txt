@@ -1,0 +1,14 @@
+[Event "Round 7: Xiao, Tong(QD) - Finek, Vaclav"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-7/Vce2LZye/UCUGuPhP"]
+[Date "2026.07.01"]
+[Round "7.1"]
+[White "Xiao, Tong(QD)"]
+[Black "Finek, Vaclav"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2504"]
+[ECO "B38"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.c4 Nc6 6.Be3 Qa5+ 7.Nc3 d6 8.Qd2 Nxd4 9.Bxd4 Bxd4 10.Qxd4 Nf6 11.Be2 O-O 12.O-O Be6 13.b3 Rfc8 14.Rac1 Qc5 15.Qd3 Nd7 16.Rfe1 Ne5 17.Qd2 a6 18.Bf1 Nd7 19.Nd5 Re8 20.h4 Bxd5 21.exd5 Nf6 22.Re3 e5 23.dxe6 Rxe6 24.Rxe6 fxe6 25.Re1 Re8 26.g3 d5 27.Qg5 Kf7 28.Bg2 Qd4 29.Bf3 Re7 30.cxd5 exd5 31.Rd1 Qe5 32.Bxd5+ Nxd5 33.Rxd5 Qxg5 34.hxg5 Ke6 35.Rc5 Kd6 36.Rc2 Kd5 37.Kg2 Kd4 38.Rc4+ Kd5 39.a4 b5 40.axb5 axb5 41.Rc8 Re5 42.b4 Kd6 43.Rh8 Rxg5 44.Rxh7 Ke6 45.Rb7 Rd5 46.f4 Kf5 47.Kh3 g5 48.fxg5 Kxg5 49.Rc7 Kf5 50.Rb7 Kg5 51.Rb6 Kf5 52.Rc6 Re5 53.Rc3 Rd5 54.Rc8 Kg6 55.Rc6+ Kf5 56.Rc1 Kg6 57.Rc6+ Kf5 58.Rb6 Kg5 59.Rb8 Kf5 60.Rf8+ Kg5 61.Rf4 Rd3 62.Rg4+ Kf5 63.Kh4 Kf6 64.Kh5 Rb3 65.Rf4+ Ke5 66.Kg4 Rc3 67.Kh4 Rb3 68.Rg4 Kf6 69.Re4 Kf5 70.Rf4+ Ke5 71.Kg4 Ke6 72.Re4+ Kd5 73.Rf4 Ke6 74.Kh4 Ke5 75.Rg4 Kf6 76.Kh5 Rb1 77.Rd4 Ke5 78.Rf4 Rb3 79.Rg4 Kf6 80.Kh6 Rb1 81.Rf4+ Ke5 82.Kg5 Ke6 83.g4 Rb2 84.Kg6 Kd5 85.g5 Rc2 86.Kh6 Ke5 87.Rh4 Rc4 88.Rxc4 bxc4 89.g6 c3 90.g7 c2 91.g8=Q c1=Q+ 92.Qg5+ Qxg5+ 93.Kxg5 Kd5 94.b5 Kc5 95.b6 Kxb6 1/2-1/2

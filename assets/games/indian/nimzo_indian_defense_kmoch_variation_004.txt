@@ -1,0 +1,15 @@
+[Event "Round 5: Nitish Belurkar - Kushagra Mohan"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-5/TE8ywwR3/3G1eZrP8"]
+[Date "2026.07.04"]
+[Round "5.5"]
+[White "Nitish Belurkar"]
+[Black "Kushagra Mohan"]
+[Result "0-1"]
+[WhiteElo "2466"]
+[BlackElo "2429"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 d6 6.e4 b5 7.a3 Ba5 8.Bd3 O-O 9.Ne2 bxc4 10.Bxc4 Ba6 11.Bxa6 Nxa6 12.O-O c4 13.Bg5 Nc5 14.Kh1 Bb6 15.f4 Nd3 16.Nc1 Nf2+ 17.Rxf2 Bxf2 18.e5 dxe5 19.fxe5 h6 20.Bxf6 gxf6 21.Qg4+ Kh7 22.Qf4 Bb6 23.exf6 Rg8 24.dxe6 Qd4 25.Qf5+ Rg6 26.N1e2 Qd3 27.Qb5 Rxf6 28.Nd5 Rf2 29.Ndf4 Qe4 30.exf7 Rf8 0-1

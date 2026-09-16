@@ -1,0 +1,14 @@
+[Event "Round 11: Dietiker, Manuel - Kelecevic, Nedeljko"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/pfvMSP5q"]
+[Date "2026.07.19"]
+[Round "11.21"]
+[White "Dietiker, Manuel"]
+[Black "Kelecevic, Nedeljko"]
+[Result "0-1"]
+[WhiteElo "2002"]
+[BlackElo "2150"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bf3 c5 6.c3 cxd4 7.cxd4 Nc6 8.Ne2 Be7 9.Kf1 O-O 0-1

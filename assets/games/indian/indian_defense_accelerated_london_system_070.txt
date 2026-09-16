@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.13"]
+[White "Chaika, Vitalii"]
+[Black "Korshunov, Sergey And."]
+[Result "0-1"]
+[WhiteElo "2054"]
+[BlackElo "2362"]
+[ECO "A45"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 b6 4.h3 Bb7 5.Nf3 Be7 6.Nbd2 O-O 7.c3 c5 8.Bd3 cxd4 9.exd4 d6 10.Qe2 Nbd7 11.Bh2 Qc7 12.O-O Rfe8 13.a4 a6 14.Rfe1 Nf8 15.c4 a5 16.Nb1 Bc6 17.Nfd2 Qb7 18.f3 Ng6 19.Nc3 Nh5 20.Qf2 Nhf4 21.Bf1 e5 22.d5 Bd7 23.Nb5 f5 24.Reb1 Bxb5 25.axb5 Bg5 26.g3 Nh5 27.h4 Bxd2 28.Qxd2 f4 29.g4 Nxh4 30.Qf2 Ng3 31.Bxg3 fxg3 32.Qxg3 Ng6 33.Re1 Nf4 34.Ra3 Rf8 35.Bd3 Qc7 36.Re4 Qc5+ 37.Kh2 Nxd3 38.Rxd3 Rac8 39.Kg2 Qb4 40.Qf2 Rxc4 41.Ree3 Qxb5 42.Rb3 Qxd5 43.Kg3 Qc5 44.Re2 b5 45.Qxc5 Rxc5 46.Rd2 d5 47.Re2 d4 48.Re4 b4 49.Rd3 a4 50.Rd1 a3 51.bxa3 bxa3 52.Rd3 a2 53.Re1 Rc3 54.Rxc3 dxc3 0-1

@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.17"]
+[Round "3.1"]
+[White "Yan, Tianqi"]
+[Black "Zhu, Jiner"]
+[Result "0-1"]
+[WhiteElo "2197"]
+[BlackElo "2415"]
+[ECO "B90"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be6 8.f4 exf4 9.Bxf4 Nc6 10.Qe2 Be7 11.O-O-O Nd7 12.Bxd6 Bxd6 13.Rxd6 O-O 14.Kb1 Rc8 15.Qd1 Qc7 16.Be2 Nce5 17.Rd2 Nb6 18.Nd4 Bc4 19.Nf5 Bxe2 20.Rxe2 g6 21.Ne3 Nbc4 22.Nxc4 Nxc4 23.Nd5 Qe5 24.c3 Rfe8 25.Qd4 Qxd4 26.cxd4 Kg7 27.e5 Red8 28.Nc3 Rxd4 29.e6 fxe6 30.Rxe6 Rc7 31.Rhe1 Kf7 32.R6e2 b5 33.Rf1+ Kg7 34.Rfe1 Rcd7 35.b3 Na3+ 36.Kb2 b4 37.Ne4 a5 38.Rc1 Re7 39.Rce1 Nb5 40.Nc5 Rxe2+ 41.Rxe2 Kh6 42.Ne6 Rd1 43.Kc2 Rg1 44.Nf4 Nc3 45.Rd2 Nxa2 46.Rd5 g5 47.Rd6+ Kg7 48.Nh5+ Kf7 49.g4 Nc3 50.Rd7+ Ke6 51.Rxh7 Rg2+ 52.Kd3 Nd5 53.Ke4 Re2+ 54.Kd4 Rd2+ 55.Kc4 Ne3+ 56.Kc5 Rd5+ 57.Kc6 Rd6+ 58.Kc5 Rd5+ 59.Kc6 Re5 60.Rh6+ Kf7 61.Rf6+ Ke7 62.Rh6 Nc2 63.Ng7 Nd4+ 64.Kc7 Rc5+ 65.Kb6 Rb5+ 66.Kc7 Nxb3 67.Nf5+ Kf8 68.Rh8+ Kf7 69.Rh7+ Ke6 70.Rh6+ Ke5 71.Kc6 Rc5+ 72.Kb6 a4 73.Rg6 Kf4 74.Rf6 Ke5 75.Rf8 a3 76.Re8+ Kf4 77.Re3 Rc3 78.Re2 Rxh3 79.Rf2+ Kxg4 80.Nd6 Rf3 81.Rg2+ Kh3 82.Rxg5 a2 0-1

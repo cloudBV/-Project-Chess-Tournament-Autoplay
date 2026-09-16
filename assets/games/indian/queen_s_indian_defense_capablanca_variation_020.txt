@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.31"]
+[White "Cvek, Robert"]
+[Black "Maklakova, Naomi"]
+[Result "1-0"]
+[WhiteElo "2379"]
+[BlackElo "2150"]
+[ECO "E16"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 O-O 8.O-O d6 9.Nc3 Ne4 10.Nxe4 Bxe4 11.Nh4 Bxg2 12.Nxg2 Nd7 13.e4 f5 14.exf5 Rxf5 15.f4 Rf7 16.Rae1 Qf6 17.d5 Re8 18.dxe6 Rxe6 19.Qd5 Rxe1 20.Rxe1 g6 21.Ne3 Qxb2 22.Ng4 Kg7 23.Nh6 Kxh6 24.Qxf7 Qd4+ 25.Kf1 Qd3+ 26.Kf2 Qd4+ 27.Kf3 Nf6 28.Qe6 Qd3+ 29.Kg2 Qd2+ 30.Re2 Qd3 31.g4 Kg7 32.Qe7+ Kg8 33.Qd8+ Kg7 34.Re7+ 1-0

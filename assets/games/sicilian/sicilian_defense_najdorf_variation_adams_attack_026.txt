@@ -1,0 +1,14 @@
+[Event "Round 6: Collin, Moritz Valentin - Georgiadis, Nico"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-6/QTF1qn6O/pUoEpfs0"]
+[Date "2026.07.16"]
+[Round "6.4"]
+[White "Collin, Moritz Valentin"]
+[Black "Georgiadis, Nico"]
+[Result "1-0"]
+[WhiteElo "2342"]
+[BlackElo "2529"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be7 8.Be3 Be6 9.f4 Nc6 10.f5 Bxb3 11.axb3 Nb4 12.Bc4 b5 13.Bd5 Rb8 14.O-O O-O 15.Rf2 Qd7 16.g4 Nbxd5 17.Nxd5 Nxe4 18.Rg2 Nf6 19.Nxf6+ Bxf6 20.Qd5 Qb7 21.Qxb7 Rxb7 22.Rxa6 d5 23.g5 Bd8 24.Bc5 Be7 25.Bxe7 Rxe7 26.Rb6 e4 27.Rxb5 Re5 28.Rd2 Rxf5 29.Rbxd5 Rf3 30.Kg2 f5 31.Rf2 Rxf2+ 32.Kxf2 f4 33.Re5 e3+ 34.Kf3 Rd8 35.Kxf4 Rd2 36.c4 e2 37.Kf3 Rxb2 38.Rxe2 Rxb3+ 39.Re3 Rb7 40.Ke4 Kf7 41.Kd5 Rd7+ 42.Kc6 Rd1 43.c5 Kg6 44.Re5 Rd3 45.Rd5 Rxh3 46.Kd6 1-0

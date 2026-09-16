@@ -1,0 +1,15 @@
+[Event "Round 2: Gucer, Gunes - Eracar, Ali Arda"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/g5F3QqPP"]
+[Date "2026.07.14"]
+[Round "2.11"]
+[White "Gucer, Gunes"]
+[Black "Eracar, Ali Arda"]
+[Result "1/2-1/2"]
+[WhiteElo "2006"]
+[BlackElo "2059"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 d6 5.O-O Nf6 6.Qe2 Qc7 7.c3 e5 8.Na3 a6 9.d3 Be7 10.Bg5 Be6 11.Bxf6 Bxf6 12.Nc4 O-O 13.Ne3 b5 14.h3 g6 15.Nh2 Bg7 16.f4 exf4 17.gxf4 f5 18.Nf3 fxe4 19.Ng5 Rae8 20.dxe4 Kh8 21.Nxe6 Rxe6 22.Qg4 Ree8 23.Nd5 Qc8 24.Qg3 b4 25.Rf2 Rf7 26.Raf1 Ref8 27.Qd3 a5 28.Nb6 Qc7 29.Nc4 Bh6 30.e5 dxe5 31.Bxc6 Bxf4 32.Be4 Qe7 33.Qe2 Qh4 34.Rf3 g5 35.Qf2 Qh5 36.Qg2 Rf6 37.Nxa5 g4 38.Rxf4 Rxf4 39.Rxf4 Rxf4 40.Qe2 Qg5 41.h4 Qxh4 42.Bg2 e4 43.Bxe4 g3 44.Bd5 Qh2+ 45.Qxh2 gxh2+ 46.Kxh2 Rf2+ 47.Kg3 Rxb2 48.cxb4 Rxb4 49.Bb3 Kg7 50.Nc6 Re4 51.Kf3 Rh4 52.Kg3 Rh6 53.Nd8 Kf6 54.Ne6 Rh5 55.Nf4 Rg5+ 56.Kf3 Ke5 57.Ne6 Rf5+ 58.Kg4 h5+ 59.Kh4 Kd6 60.Ng7 Rf4+ 61.Kxh5 c4 62.Bxc4 Rxc4 63.Kg6 Ra4 64.Nf5+ Ke5 65.Ng7 Rxa2 66.Kf7 Rf2+ 67.Kg6 Rf6+ 68.Kg5 Rf7 69.Kg6 Ra7 70.Nh5 Ra1 71.Ng7 Rf1 72.Nh5 Rg1+ 73.Kf7 Rg2 74.Ng7 Rg5 75.Ne8 Rf5+ 76.Kg6 Rf8 77.Ng7 Rh8 78.Kf7 Rh6 79.Ne8 Rc6 80.Ng7 Rf6+ 81.Ke7 Rf1 82.Nh5 Rf2 83.Ng7 Rf6 84.Ne8 Ra6 85.Kf7 Ra7+ 86.Kg6 Ke6 87.Ng7+ Ke7 88.Nf5+ Kf8 89.Kf6 Ra6+ 90.Ke5 Kf7 91.Nd6+ Ke7 92.Nf5+ Kd7 93.Nd4 Ra5+ 94.Kf6 Ra6+ 95.Ke5 Ra1 96.Nf5 Re1+ 97.Kf6 Rf1 98.Ke5 Rxf5+ 99.Kxf5 1/2-1/2

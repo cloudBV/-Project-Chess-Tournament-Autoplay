@@ -1,0 +1,14 @@
+[Event "Round 5: Tzortzis, Dimitrios - Makridis, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/FrWDCVWK"]
+[Date "2026.07.08"]
+[Round "5.24"]
+[White "Tzortzis, Dimitrios"]
+[Black "Makridis, Dimitrios"]
+[Result "1/2-1/2"]
+[WhiteElo "2016"]
+[BlackElo "2311"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nc6 7.d5 Ne5 8.Be2 e6 9.Nf3 Nxf3+ 10.Bxf3 e5 11.c5 Ne8 12.b4 f5 13.Rc1 Qh4 14.Rc2 f4 15.Bc1 g5 16.Ba3 Nf6 17.Ke2 b5 18.cxd6 cxd6 19.Qe1 Bd7 20.Kd2 Qh6 21.Kc1 Qg6 22.Be2 a6 23.Kb2 h5 24.f3 Rac8 25.Qd2 g4 26.hxg4 hxg4 27.Rhc1 Qh6 28.Kb1 Qh2 29.Bd3 Qg3 30.Qd1 Kf7 31.Qf1 Qh4 32.Bb2 Rb8 33.Ne2 Rb7 34.a3 g3 35.Rc7 Rfb8 36.R1c2 Bf8 37.Rxb7 Rxb7 38.Nc1 Qh2 39.Nb3 Ne8 40.Na5 Rb6 41.Nc6 Be7 42.Bxe5 Bxc6 43.dxc6 dxe5 44.c7 Nd6 45.c8=Q Nxc8 46.Rxc8 Rd6 47.Rc1 Rd4 48.Qe2 Qh6 49.Qa2+ Kg7 50.Qb3 Qd6 51.Rd1 Qb6 52.Be2 Rxd1+ 53.Qxd1 Qf2 54.Bf1 Kf6 55.Qe2 Qg1 56.Qd3 Qf2 57.Qe2 Kg5 58.Ka2 Bd8 59.Kb3 Bb6 60.a4 Bd4 61.axb5 axb5 62.Kc2 Kh4 63.Kb1 Bc3 64.Kc2 Ba1 65.Kd1 Bc3 66.Kc2 Be1 67.Kb3 Bd2 68.Kc2 Bxb4 69.Kb3 Qc5 70.Qd3 Kh5 71.Qc2 Qd6 72.Bxb5 Bc5 73.Qd3 Qe6+ 74.Qc4 Qxc4+ 75.Kxc4 Bd4 1/2-1/2

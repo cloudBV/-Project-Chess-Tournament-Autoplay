@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-6/evaZ4OoL/c6THlrHW"]
+[Date "2026.07.05"]
+[Round "6.3"]
+[White "Haring, Filip"]
+[Black "Roshka, Yevgeniy"]
+[Result "1-0"]
+[WhiteElo "2446"]
+[BlackElo "2497"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.Qg4 Nf6 8.Qxg7 Rg8 9.Qh6 Nc6 10.Nc3 b5 11.Bg5 b4 12.Ne2 Rg6 13.Qh4 h6 14.Bxf6 Bxf6 15.Qh3 Ne5 16.O-O a5 17.Nbd4 Qb6 18.Nf3 Nxf3+ 19.Qxf3 Bxb2 20.Rab1 Be5 21.a3 Qc7 22.axb4 Bxh2+ 23.Kh1 Be5 24.b5 Bb7 25.b6 Qd8 26.g3 f5 27.Rb5 Qf6 28.Rxe5 fxe4 29.Bxe4 Qxf3+ 30.Bxf3 Bxf3+ 31.Kg1 Rg5 32.Rxg5 hxg5 33.Nd4 Bb7 34.Ra1 Ke7 35.Kf1 Kd6 36.c3 Kc5 37.Rb1 a4 38.Ke2 e5 39.Nc2 e4 40.Na3 Bc6 41.Rb4 g4 42.Nc2 Bb7 43.Na3 d5 44.Rb5+ Kd6 45.Rb4 Kc6 46.Ke1 Kd7 47.Ke2 Kd6 48.Ke1 Bc6 49.b7 Rb8 50.Nb5+ Kc5 51.Nd4 Rxb7 52.Nxc6 Rxb4 53.Nxb4 Kc4 54.Kd2 a3 55.Nc2 a2 56.Na1 d4 57.cxd4 Kxd4 58.Nb3+ Kc4 59.Kc2 Kd5 60.Kb2 Kc4 61.Kxa2 Kd3 62.Nc5+ Kd4 63.Ne6+ Kd3 64.Nc5+ Kd4 65.Nd7 Kd3 66.Nf6 Ke2 67.Nxe4 Kf3 68.Nf6 Kxf2 69.Nh5 1-0

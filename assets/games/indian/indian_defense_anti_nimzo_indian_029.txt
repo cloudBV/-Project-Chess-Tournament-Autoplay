@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "5.8"]
+[White "Esplugas Esteve, Vicenc"]
+[Black "Baiges Navarro, Albert"]
+[Result "1-0"]
+[WhiteElo "2304"]
+[BlackElo "2022"]
+[ECO "E10"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.Bb5+ Nfd7 8.O-O a6 9.Bxd7+ Nxd7 10.Bf4 f6 11.Nbd2 Ne5 12.Qc2 Bd7 13.a4 b5 14.axb5 axb5 15.Nxe5 fxe5 16.Bg5 Be7 17.Bxe7 Kxe7 18.f4 Rxa1 19.Rxa1 exf4 20.e5 Qb6 21.e6 Bc8 22.Qc3 Rg8 23.Ne4 c4+ 24.Kh1 Rf8 25.Qg7+ Ke8 26.Ra8 Qd8 1-0

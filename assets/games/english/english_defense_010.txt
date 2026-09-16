@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "9.1"]
+[White "Zieba, Hubert"]
+[Black "Sowinski, Pawel"]
+[Result "1/2-1/2"]
+[WhiteElo "2198"]
+[BlackElo "2432"]
+[ECO "A40"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.Nc3 Bb7 4.e4 Bb4 5.f3 Ne7 6.Bd3 d5 7.cxd5 exd5 8.e5 c5 9.a3 cxd4 10.axb4 dxc3 11.bxc3 Qc7 12.Ne2 Qxe5 13.Bf4 Qf6 14.Bxb8 Rxb8 15.Rxa7 O-O 16.O-O Nc6 17.Ra3 Rfd8 18.Qc2 g6 19.Rd1 Rbc8 20.Qd2 d4 21.b5 dxc3 22.Rxc3 Ne5 23.Rxc8 Bxc8 24.Qc3 Bf5 25.f4 Ng4 26.Qxf6 Nxf6 27.Bc2 Rxd1+ 28.Bxd1 Nd5 29.Bb3 Bd3 30.Bxd5 Bxe2 31.Bc6 Kf8 32.Kf2 Bg4 33.Ke3 Ke7 34.Kd4 Kd6 35.Be8 f6 36.Bf7 Be2 37.Be8 Bf1 38.g3 g5 39.Bc6 gxf4 40.gxf4 Ke6 41.Ke3 Bc4 42.Kd4 Bb3 43.Ke4 Bc2+ 44.Ke3 h6 45.Bb7 Bd1 46.Be4 Ba4 47.Bc6 Bb3 48.Ke4 Ba4 49.Bd5+ Kd6 50.Bc6 Bc2+ 51.Kd4 Bd1 52.Be4 Be2 53.Bc6 Bf1 54.Be8 Ke6 55.Bc6 Kf5 56.Ke3 Kg4 57.Bd7+ f5 58.Kf2 Bh3 59.Ke3 h5 60.Bc6 Bf1 61.Kf2 Bc4 62.Bf3+ Kxf4 63.Bxh5 Bxb5 64.Bf7 Ba4 65.h4 Kg4 66.h5 Kg5 67.Ke3 f4+ 68.Kf3 Bc6+ 69.Kf2 b5 70.Ke2 b4 71.Kd3 Bf3 72.Kc4 Bxh5 73.Bd5 Kg4 74.Kxb4 Kg3 75.Kc3 Bf3 76.Bf7 Bc6 77.Bh5 Kf2 78.Kd2 Bd5 79.Bg4 Be4 80.Bh5 Bf5 81.Kd1 Kg3 82.Ke1 Be6 83.Bd1 Bd5 84.Bh5 Be4 85.Ke2 Kg2 86.Ke1 Bd5 87.Ke2 Kg3 88.Ke1 Bc6 89.Ke2 Bd7 90.Ke1 Bh3 91.Bd1 Bg4 92.Bxg4 Kxg4 93.Kf2 f3 94.Kf1 Kh3 95.Kf2 Kg4 96.Kf1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "9.10"]
+[White "Bosch Carrera, Laia"]
+[Black "Webb, Laurence E"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2160"]
+[ECO "E15"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O d5 9.Qc2 O-O 10.Re1 Nbd7 11.Bf4 Rc8 12.Nbd2 Nh5 13.Be3 f5 14.Nf1 Bd6 15.Bc1 Qe7 16.Bb2 g5 17.Ne5 Qg7 18.Nxd7 Qxd7 19.Qd2 Qg7 20.c5 Bc7 21.b4 Nf6 22.Bc1 h6 23.a4 Ne4 24.Bxe4 fxe4 25.b5 Bb7 26.cxb6 Bxb6 27.Bb2 Qf6 28.Qe3 cxb5 29.a5 Bd8 30.a6 Bc6 31.Ba3 Be7 32.Bxe7 Qxe7 33.Nd2 Bd7 34.Nb3 Rc4 35.h4 Kg7 36.Kg2 gxh4 37.Rh1 Qg5 38.Qxg5+ hxg5 39.gxh4 Rc2 40.Nc5 Bc8 41.Kf1 e5 42.hxg5 exd4 43.Nb3 d3 44.Nd4 dxe2+ 45.Nxe2 e3 46.f4 Bg4 47.Re1 Bxe2+ 48.Rxe2 Rxf4+ 0-1

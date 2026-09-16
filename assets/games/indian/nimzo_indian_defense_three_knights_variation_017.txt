@@ -1,0 +1,14 @@
+[Event "Round 9: Haimovich, Tal - Xu, Chang(CQ)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/6EBZYROm"]
+[Date "2026.07.22"]
+[Round "9.14"]
+[White "Haimovich, Tal"]
+[Black "Xu, Chang(CQ)"]
+[Result "1-0"]
+[WhiteElo "2310"]
+[BlackElo "2125"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.g3 Bb7 6.Bg2 O-O 7.Bd2 c5 8.dxc5 Bxc5 9.Bg5 h6 10.Bxf6 Qxf6 11.O-O d6 12.Qa4 a5 13.Rad1 Rd8 14.Qc2 Nd7 15.Nb5 Qe7 16.e4 Rac8 17.Qe2 Ne5 18.b3 Bc6 19.Nfd4 Ba8 20.Kh1 Nc6 21.Nxc6 Bxc6 22.Nd4 Be8 23.Nc2 Qf6 24.Ne1 a4 25.f4 axb3 26.axb3 Qc3 27.Rf3 Qa5 28.f5 e5 29.f6 g6 30.g4 Ra8 31.Rh3 Qa2 32.Nc2 d5 33.exd5 Bf8 34.Be4 Rd6 35.Rf1 Bd7 36.Rg3 Qa5 37.Qd3 Be8 38.h4 Qc5 39.h5 g5 40.Qf3 Bd7 41.Bd3 b5 42.Qe4 bxc4 43.Qh7# 1-0

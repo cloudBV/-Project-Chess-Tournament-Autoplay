@@ -1,0 +1,15 @@
+[Event "Round 9: Hariharan, Shambavi - Zilka, Stepan"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-9/EM0NzUd0/Y1f3jL5B"]
+[Date "2026.07.23"]
+[Round "9.4"]
+[White "Hariharan, Shambavi"]
+[Black "Zilka, Stepan"]
+[Result "0-1"]
+[WhiteElo "2032"]
+[BlackElo "2462"]
+[ECO "E20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Be7 6.e3 O-O 7.Bd3 c5 8.Nge2 cxd4 9.Nxd4 dxc4 10.Bxc4 Qc7 11.Bd3 a6 12.O-O Nc6 13.Nxc6 Qxc6 14.Qe2 Rd8 15.e4 Qb6+ 16.Be3 Bc5 17.Bxc5 Qxc5+ 18.Kh1 Bd7 19.Rfd1 Bc6 20.Rac1 Qe7 21.Qe3 h6 22.Ne2 Rac8 23.h3 Ba4 24.Re1 Nd7 25.Nc3 Bc6 26.Be2 Qg5 27.Qxg5 hxg5 28.Rcd1 Ne5 29.Kg1 Kf8 30.Kf2 Rxd1 31.Rxd1 Ke7 32.Ke3 Be8 33.g3 Bd7 34.f4 gxf4+ 35.gxf4 Nc4+ 36.Bxc4 Rxc4 37.Rd4 Rc8 38.Rd3 a5 39.Kf3 b5 40.h4 Rc4 41.b3 Rc5 42.Ke3 Rh5 43.Ne2 Rxh4 44.Rd2 Rh3+ 45.Kd4 Rxb3 46.Nc3 Rxa3 47.Rg2 g6 48.f5 gxf5 49.exf5 Bc6 50.Re2 b4 51.Nb1 Ra1 52.Nd2 Ra2 53.fxe6 fxe6 54.Kc5 Bf3 55.Rf2 Bd5 56.Rh2 b3 57.Rh7+ Kf6 58.Rh2 a4 59.Rf2+ Kg5 60.Kb4 Kg4 61.Kc3 Rc2+ 62.Kb4 b2 0-1

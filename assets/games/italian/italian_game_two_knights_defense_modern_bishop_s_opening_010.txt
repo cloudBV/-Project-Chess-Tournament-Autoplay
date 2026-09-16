@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "8.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2664"]
+[ECO "C55"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 Bg4 8.h3 Bh5 9.Nd5 Nxd5 10.Bxd5 Nb4 11.Bb3 Na6 12.Be3 Nc5 13.Bxc5 Bxf3 14.Qxf3 dxc5 15.g3 g6 16.h4 h5 17.Kg2 Kg7 18.Qe3 Qd7 19.f4 exf4 20.Qxf4 f6 21.e5 Qc6+ 22.Qe4 Qxe4+ 23.dxe4 fxe5 24.Rxf8 Rxf8 25.Rf1 Rxf1 26.Kxf1 g5 27.hxg5 Bxg5 28.Be6 Bc1 29.b3 Kf6 30.Bc8 b6 31.c4 Kg5 32.Ke2 Bb2 33.Kf3 Bc3 34.Bd7 Bb4 35.Bc8 h4 36.gxh4+ Kxh4 37.Bd7 Bc3 38.Bc8 Bb4 39.Bd7 Bc3 40.Bc8 Bb4 41.Bd7 Bc3 1/2-1/2

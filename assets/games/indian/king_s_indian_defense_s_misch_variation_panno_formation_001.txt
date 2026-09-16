@@ -1,0 +1,14 @@
+[Event "Round 11: Omar, Noaman - Gautier, Anand"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/DjUyIAzN"]
+[Date "2026.07.19"]
+[Round "11.11"]
+[White "Omar, Noaman"]
+[Black "Gautier, Anand"]
+[Result "0-1"]
+[WhiteElo "2274"]
+[BlackElo "2198"]
+[ECO "E83"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Formation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Na5 9.Nf4 b5 10.O-O-O Rb8 11.e5 Nd7 12.e6 Nb6 13.exf7+ Rxf7 14.c5 Nbc4 15.Qe1 Nxe3 16.Qxe3 Bh6 17.g3 Qf8 18.Kb1 e5 19.dxe5 dxe5 20.Qxe5 Bf5+ 21.Ka1 Bg7 22.Qd5 Kh8 23.Ne6 Bxe6 24.Qxe6 Rxf3 25.Qd5 Rf5 26.Qd2 Qxc5 27.Ne4 Qe5 0-1

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.22"]
+[White "Villuendas Valero, Adrian"]
+[Black "Moya Gimeno, Raul"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2035"]
+[ECO "E61"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 d6 5.Bg5 O-O 6.e3 c5 7.d5 Na6 8.Bd3 Nb4 9.Bb1 b5 10.Bxf6 Bxf6 11.cxb5 a6 12.b6 Qxb6 13.O-O a5 14.a3 Na6 15.Ra2 c4 16.Nd2 Qc7 17.Qe2 Nc5 18.Rc1 Ba6 19.Nde4 Bg7 20.Nxc5 Qxc5 21.Qd2 f5 22.Ne2 Rfc8 23.h4 Rab8 24.Nc3 Be5 25.Bc2 Rf8 26.g3 Bb7 27.Rd1 Ba8 28.Ba4 h6 29.Bd7 Kg7 30.Raa1 Qc7 31.Be6 Qb7 32.Rab1 Rf6 33.e4 f4 34.Kg2 Rbf8 35.Rf1 Qb6 36.f3 fxg3 37.Rbe1 Rf4 38.Nd1 Rxh4 39.Rh1 Rh2+ 40.Rxh2 gxh2 41.Nf2 Qxb2 0-1

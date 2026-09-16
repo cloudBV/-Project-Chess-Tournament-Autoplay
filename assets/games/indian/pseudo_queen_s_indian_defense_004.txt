@@ -1,0 +1,15 @@
+[Event "Round 5: Nie, Xinyang - He, Junchen"]
+[Site "https://lichess.org/broadcast/2026/round-5/rNLD519z/4I1Q1vOY"]
+[Date "2026.07.05"]
+[Round "5.3"]
+[White "Nie, Xinyang"]
+[Black "He, Junchen"]
+[Result "1-0"]
+[WhiteElo "2333"]
+[BlackElo "2031"]
+[ECO "A47"]
+[TimeControl "45+10"]
+[Variant "Standard"]
+[Opening "Pseudo Queen's Indian Defense"]
+
+1.d4 Nf6 2.Nf3 b6 3.Bf4 Bb7 4.e3 g6 5.Nbd2 Bg7 6.h3 O-O 7.a4 a6 8.Be2 d6 9.O-O c5 10.c3 Nbd7 11.Bh2 Ra7 12.b4 Nd5 13.Qb3 cxb4 14.cxb4 a5 15.b5 Nb4 16.Rac1 e5 17.Rfd1 Qe7 18.Nc4 Bd5 19.Qb1 f5 20.Na3 Kh8 21.Kf1 g5 22.Ng1 f4 23.exf4 gxf4 24.Bc4 e4 25.Bxd5 Nxd5 26.Qb3 Nb4 27.Rc6 e3 28.Rcc1 Nf6 29.f3 e2+ 30.Nxe2 Nfd5 31.Bg1 Qg5 32.Nc3 Ne3+ 33.Bxe3 fxe3 34.Ne2 Raf7 35.Ng1 Re7 36.Qc4 Nd5 37.Ne2 Ref7 38.Kg1 Rxf3 39.h4 Qh5 40.gxf3 Rxf3 41.Qc8+ Rf8 42.Rf1 Rxc8 43.Rxc8+ Bf8 44.Ng3 Qxh4 45.Rcxf8+ 1-0

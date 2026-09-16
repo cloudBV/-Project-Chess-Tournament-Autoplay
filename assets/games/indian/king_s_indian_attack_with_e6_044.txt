@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-3/jrpV8ikM/FnZkoWfD"]
+[Date "2026.07.14"]
+[Round "3.15"]
+[White "Dias, Paulo"]
+[Black "Del Prado Rodriguez, Xulio"]
+[Result "0-1"]
+[WhiteElo "2310"]
+[BlackElo "2388"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Bd6 5.d3 O-O 6.Nc3 Nc6 7.e4 dxe4 8.dxe4 e5 9.Bg5 h6 10.Bxf6 Qxf6 11.Nd5 Qd8 12.Qd3 Qe8 13.Nd2 Nb4 14.Qb3 a5 15.Nc4 Nxd5 16.exd5 b5 17.Nxd6 cxd6 18.Rfc1 Bd7 19.c4 bxc4 20.Rxc4 Qb8 21.Qa3 Qb6 22.Rac1 Rfb8 23.Rc7 Be8 24.Be4 Qd4 25.R1c4 Qb6 26.Qf3 Rb7 27.Rc8 Rxc8 28.Rxc8 Rb8 29.Qf5 Rxc8 30.Qxc8 Kf8 31.Bf5 Ke7 32.h4 Qc5 33.Qb7+ Kf6 34.Bd3 g6 35.Qa8 Ke7 36.Qb7+ Kf6 37.Qa8 Ke7 38.Qb7+ Kf8 39.Kg2 Kg7 40.b3 Qd4 41.Be2 Qe4+ 42.Bf3 Qf5 43.Qa8 e4 44.Be2 e3 45.fxe3 Bd7 46.g4 Qc2 47.Kf1 Qb1+ 48.Kf2 Qxa2 49.Qa7 Bb5 50.Qd4+ Kh7 51.Qd1 Bxe2 52.Qxe2 Qxb3 53.Qf3 Kg7 54.h5 Qb2+ 55.Ke1 Qf6 56.Qe4 Qh4+ 57.Kd2 gxh5 58.Qd4+ Qf6 59.Ke1 0-1

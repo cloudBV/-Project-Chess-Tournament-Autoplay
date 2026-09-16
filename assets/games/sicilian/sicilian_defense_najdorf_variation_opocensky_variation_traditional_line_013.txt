@@ -1,0 +1,15 @@
+[Event "Round 4: Hurdzan, Tomas - Delgerdalai, Bayarjavkhlan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/8HT18gDW"]
+[Date "2026.07.18"]
+[Round "4.21"]
+[White "Hurdzan, Tomas"]
+[Black "Delgerdalai, Bayarjavkhlan"]
+[Result "0-1"]
+[WhiteElo "2292"]
+[BlackElo "2385"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Nbd7 10.a4 b6 11.Qd2 Bb7 12.f3 Qc7 13.Rfe1 0-1

@@ -1,0 +1,15 @@
+[Event "Round 8: Nitish Belurkar - Aleksandrov, Aleksej"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-8/MepvA1QL/Tnzb3uUw"]
+[Date "2026.07.07"]
+[Round "8.5"]
+[White "Nitish Belurkar"]
+[Black "Aleksandrov, Aleksej"]
+[Result "1/2-1/2"]
+[WhiteElo "2466"]
+[BlackElo "2449"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.Nf3 c5 5.Nbd2 Qb6 6.Rb1 Bd6 7.Bxd6 Qxd6 8.dxc5 Qxc5 9.b4 Qe7 10.c4 O-O 11.Qb3 a5 12.a3 axb4 13.axb4 Nc6 14.Be2 dxc4 15.Nxc4 Nd5 16.b5 Na5 17.Qb2 Nxc4 18.Bxc4 Nb6 19.Be2 f6 20.O-O e5 21.Ra1 Be6 22.Rxa8 Rxa8 23.Ra1 Rc8 24.Rc1 Rc5 25.h3 Na4 26.Qa1 Rxc1+ 27.Qxc1 Qc5 28.Qd2 Nc3 29.Bf1 Bd5 30.Ne1 Ne4 31.Qd1 g6 32.Nd3 Qc3 33.Nf4 Bf7 34.Qd8+ Kg7 35.Qe7 Qb3 36.Nd3 Qxb5 37.Nb4 Qc5 38.Qxb7 Nd2 39.Nd3 Qc2 40.Be2 Nb3 41.Bg4 Qc4 42.Qe7 Nd2 43.Be2 Ne4 44.Qb4 Nc3 45.Bf1 Qxb4 46.Nxb4 Bb3 47.Bd3 Kf7 48.Bc2 Bc4 49.Bd3 Be6 50.Kf1 Ke7 51.Ke1 Kd6 52.Kd2 Na4 53.Nc2 Kc5 54.h4 Bd5 55.g3 Nb2 56.h5 Bc4 57.Ne1 Nxd3 58.Nxd3+ Kd5 59.hxg6 hxg6 60.f3 Bxd3 61.Kxd3 e4+ 62.fxe4+ Ke5 63.g4 g5 64.Kd2 Kxe4 65.Ke2 Ke5 66.Kd3 Kd5 67.e4+ Kc5 68.Kc3 Kd6 69.Kd4 Ke6 70.Kd3 Ke5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.22"]
+[Round "24.5"]
+[White "StockfishClassical 202007311012"]
+[Black "SerendipityHCE 0e3fd4a0"]
+[Result "1-0"]
+[WhiteElo "3552"]
+[BlackElo "3066"]
+[ECO "A43"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.Nc3 d6 5.e4 Bg7 6.Be2 O-O 7.O-O Bg4 8.h3 Bxf3 9.Bxf3 Nbd7 10.a4 Qa5 11.g4 h6 12.Bg2 Rae8 13.f4 a6 14.Ra3 Nh7 15.h4 Rc8 16.g5 hxg5 17.hxg5 Rce8 18.Ne2 c4 19.Rh3 f6 20.gxf6 Rxf6 21.Nd4 Ndf8 22.f5 Qxa4 23.Qg4 Rc8 24.c3 Qe8 25.Ne6 Rf7 26.Bf3 Rf6 27.Nxg7 Kxg7 28.Rf2 Rd8 29.Rg2 Kg8 30.Qh4 Qf7 31.Rhg3 Qg7 32.Bh5 b5 33.Bxg6 Nxg6 34.Rxg6 Qxg6 35.fxg6 Nf8 36.Qh5 b4 37.Bh6 e6 38.Qh4 Nd7 39.Bf4 Rxf4 40.Qh7+ Kf8 41.g7+ Ke8 42.Qg8+ Nf8 43.gxf8=Q+ Rxf8 44.Qxe6# 1-0

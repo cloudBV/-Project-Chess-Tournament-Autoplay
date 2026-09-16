@@ -1,0 +1,14 @@
+[Event "Round 7: Besou, Hussain - Vyval, Volodymyr"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/Fo1tqd2u"]
+[Date "2026.07.23"]
+[Round "6.5"]
+[White "Besou, Hussain"]
+[Black "Vyval, Volodymyr"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2300"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Be6 10.Bf3 Nbd7 11.a4 Nb6 12.a5 Nc4 13.Bc1 Rc8 14.Qd3 Qd7 15.Rd1 h6 16.Nd2 Qc7 17.Nxc4 Bxc4 18.Qe3 Nh7 19.Qe1 Bg5 20.Be3 Bxe3 21.Qxe3 Nf6 22.Na4 Qe7 23.Nb6 Rc6 24.b3 Be6 25.c4 Qc7 26.Be2 Qd8 27.b4 Qe7 28.Rac1 Nd7 29.Nd5 Bxd5 30.exd5 Rc7 31.c5 f5 32.c6 Nb8 33.b5 axb5 34.Bxb5 f4 35.Qe4 f3 36.g3 Na6 37.Bd3 Nb8 38.Qh7+ Kf7 39.Bg6+ Kf6 40.Bh5 e4 41.Qg6+ Ke5 42.Rc4 Rf5 43.Bg4 Qf6 44.Bxf5 Qxf5 45.Rxe4+ 1-0

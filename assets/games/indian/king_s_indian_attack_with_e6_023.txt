@@ -1,0 +1,14 @@
+[Event "Round 5: Kourousis, Epameinondas - Katopodis, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/0h6OyTzn"]
+[Date "2026.07.08"]
+[Round "5.62"]
+[White "Kourousis, Epameinondas"]
+[Black "Katopodis, Dimitrios"]
+[Result "1/2-1/2"]
+[WhiteElo "2328"]
+[BlackElo "2264"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Bd6 5.c4 O-O 6.b3 e5 7.cxd5 e4 8.Ne1 Be5 9.Nc3 Nxd5 10.Bb2 f5 11.d4 Bf6 12.Nxd5 Qxd5 13.Nd3 Nc6 14.e3 Qd6 15.Nf4 Bd7 16.Qc1 Nb4 17.Qc4+ Kh8 18.a3 Nc6 19.Rfc1 Be8 20.Qc5 Rd8 21.Ne6 Rf7 22.Nxd8 Qxd8 23.b4 a6 24.Bf1 Be7 25.Qc2 Bd6 26.b5 axb5 27.Bxb5 Nxd4 28.Bxd4 Bxb5 29.Qb2 Qe8 30.Bc5 Be5 31.Bd4 Bd6 32.a4 Ba6 33.Bc5 Be5 34.Bd4 Bxd4 35.Qxd4 Rd7 36.Qc5 Qf7 37.Rd1 Bd3 38.Rac1 h6 39.Qe5 Re7 40.Qc5 Kh7 41.a5 Rd7 42.Qe5 Re7 43.Qb2 c6 44.Qd4 Rd7 45.Qb6 Qh5 46.Rd2 Qh3 47.a6 bxa6 48.Qxc6 Bf1 49.Rxf1 Rxd2 50.Qxa6 Qg4 1/2-1/2

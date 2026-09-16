@@ -1,0 +1,14 @@
+[Event "Round 9: Erne, Raphael - Aryan Goyal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/dydYbSav"]
+[Date "2026.07.22"]
+[Round "9.19"]
+[White "Erne, Raphael"]
+[Black "Aryan Goyal"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2029"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 d6 3.Nc3 f5 4.Nf3 Nf6 5.d4 e4 6.Nh4 c6 7.Bg5 Be7 8.e3 Ng4 9.Bxe7 Qxe7 10.Ng2 Be6 11.Be2 Nf6 12.Nf4 Bf7 13.h4 Nbd7 14.O-O O-O 15.b4 a5 16.a3 axb4 17.axb4 Rxa1 18.Qxa1 Nb6 19.c5 Ra8 20.Qc1 Nbd5 21.Ncxd5 Nxd5 22.Nxd5 Bxd5 23.cxd6 Qxd6 24.Qc5 Qxc5 25.bxc5 Ra2 26.Re1 Rb2 27.Kf1 Kf8 28.g4 g6 29.Kg2 Ke7 30.Kg3 Kf6 31.g5+ Kg7 32.Bf1 Ba2 33.Re2 Rxe2 34.Bxe2 Kf7 35.Kf4 Ke6 36.h5 Bb3 37.h6 Ke7 38.f3 exf3 39.Bxf3 Ke6 40.Be2 Ba2 41.Bd3 Ke7 42.e4 fxe4 43.Bxe4 Bg8 44.Ke5 Bf7 45.Bf3 Be6 46.Be2 Bd5 47.Bg4 Bc4 48.Bc8 Bf1 49.Bxb7 Bg2 50.Ba6 Bf3 51.Bd3 Kf7 52.Kd6 Bg2 53.Ba6 Bh1 54.Bb7 1-0

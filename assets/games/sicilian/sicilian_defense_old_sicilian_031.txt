@@ -1,0 +1,15 @@
+[Event "Round 8: Ahmadzada, Ahmad - Bastanov, Murat"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-8/p7THk9V7/KkwHtpPu"]
+[Date "2026.07.15"]
+[Round "8.1"]
+[White "Ahmadzada, Ahmad"]
+[Black "Bastanov, Murat"]
+[Result "1-0"]
+[WhiteElo "2537"]
+[BlackElo "2004"]
+[ECO "B30"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Qc7 5.O-O Nd4 6.Re1 a6 7.Bf1 Ng4 8.g3 Nxf3+ 9.Qxf3 Ne5 10.Qd1 e6 11.Bg2 h5 12.d3 h4 13.Be3 hxg3 14.hxg3 d6 15.a3 Be7 16.Rb1 g5 17.Ne2 Bd7 18.c3 f5 19.d4 Ng4 20.Qd2 Nxe3 21.Qxe3 f4 22.gxf4 gxf4 23.Nxf4 Bg5 24.Nd5 Qd8 25.Nc7+ Qxc7 26.Qxg5 Kf7 27.e5 Rag8 28.Qf4+ Ke8 29.d5 Rf8 30.exd6 Qd8 31.Qe5 Qh4 32.Qg3 Qf6 33.dxe6 Bc6 34.d7+ Ke7 35.Rbd1 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "13.6"]
+[White "Yurieva, Veronika"]
+[Black "Seemann, Pola"]
+[Result "*"]
+[WhiteElo "2052"]
+[BlackElo "2028"]
+[ECO "A05"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O h6 5.d3 Bf5 6.c3 Nc6 7.Nbd2 e6 8.Re1 Bg6 9.Qb3 Qd7 10.e4 dxe4 11.dxe4 Be7 12.e5 Nd5 13.Nc4 O-O 14.Ne3 Be4 15.Nxd5 Bxd5 16.Qd1 Rad8 17.h4 Qc7 18.Qe2 a6 19.a4 Na5 20.Bf4 Bc4 21.Qe4 Bd3 22.Qe3 c4 23.Nd4 Bc5 24.Be4 Nb3 25.Bxd3 cxd3 26.Qxd3 Nxa1 27.Rxa1 Bxd4 28.cxd4 Qb6 29.Be3 Rd5 30.Qe4 Rfd8 31.Qg4 Kh7 32.Qf4 R8d7 33.Qe4+ Kh8 34.h5 Qxb2 35.Rd1 Qe2 36.Rc1 Qxh5 37.Rc8+ Rd8 38.Rc7 R5d7 39.Rxb7 Rxb7 40.Qxb7 Qf5 41.Kg2 Kg8 42.Qxa6 Qe4+ 43.Kh2 Rb8 44.Qf1 Rb1 45.Qg2 Qxg2+ 46.Kxg2 Ra1 47.Kf3 Rxa4 48.Ke4 Kf8 49.Kd3 Ke8 50.Ke4 Kd7 51.g4 Kc6 52.f4 Ra3 53.f5 exf5+ 54.gxf5 Ra4 55.f6 gxf6 56.Bxh6 fxe5 57.Kxe5 Kd7 58.Bg7 Ra1 59.Ke4 Rf1 60.Be5 f5+ 61.Ke3 Ke6 62.Ke2 Rg1 63.Kf2 Rg4 64.Kf3 Kd5 65.Ke3 Rh4 66.Kf3 Rh1 67.Kf4 Rf1+ 68.Ke3 Kc4 69.Ke2 Rh1 70.Ke3 Kc3 71.d5+ Kc4 72.d6 Kd5 73.d7 Kxe5 74.d8=Q f4+ 75.Kf3 Rh3+ 76.Kg2 Rg3+ 77.Kf2 Ke4 78.Qe7+ Kd4 79.Qa7+ Ke4 80.Qa4+ Kf5 81.Qb5+ Kg4 82.Qd7+ Kh4 83.Qh7+ Kg4 84.Qf7 Kg5 85.Qe6 Kh4 86.Qf5 Rg4 87.Kf3 Rg1 88.Qxf4+ Kh5 89.Qf7+ Kh6 90.Qf8+ Kh7 91.Qf5+ Rg6 92.Kf4 Kg7 93.Ke5 Kh6 94.Qh3+ Kg7 95.Qc3 Kh7 96.Kf5 Rg7 97.Qh3+ Kg8 98.Kf6 Rf7+ 99.Ke6 Rg7 100.Qb3 Kh7 101.Kf6 Rg6+ 102.Kf5 Rg7 103.Qh3+ Kg8 104.Qh6 Rf7+ 105.Kg6 Ra7 106.Kg5 Ra5+ 107.Kg4 Ra4+ 108.Kf5 Ra5+ 109.Ke4 Ra7 110.Qg6+ Kh8 111.Qe8+ Kh7 112.Qh5+ Kg8 113.Qd5+ Rf7 114.Ke5 Kf8 *

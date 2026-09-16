@@ -1,0 +1,14 @@
+[Event "Round 9: Perossa, Nicolas - Tellarini, Lorenzo"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/KZ2bMvOj"]
+[Date "2026.07.12"]
+[Round "9.7"]
+[White "Perossa, Nicolas"]
+[Black "Tellarini, Lorenzo"]
+[Result "1-0"]
+[WhiteElo "2325"]
+[BlackElo "2078"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Qh5 Bxc5 6.Bd3 Ne7 7.Nf3 Ng6 8.O-O Nc6 9.a3 Nd4 10.Nbd2 Nf4 11.Qg4 Nxd3 12.Qxg7 Ne2+ 13.Kh1 Nxf2+ 14.Rxf2 Bxf2 15.Qxh8+ Ke7 16.Qxh7 Bd7 17.Ne4 Nxc1 18.Nxf2 Ne2 19.Qd3 Nf4 20.Qd4 Ng6 21.Nh4 Nxh4 22.Qxh4+ Ke8 23.Qh7 Rc8 24.Ng4 Qg5 25.Rf1 Qg6 26.Nf6+ Ke7 27.Qh4 Bb5 28.Qb4+ 1-0

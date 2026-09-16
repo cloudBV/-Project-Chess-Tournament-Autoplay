@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-7/djRlwqVj/kWy9umTU"]
+[Date "2026.07.15"]
+[Round "7.4"]
+[White "Hasala, Richard"]
+[Black "Janik, Marek Tobias"]
+[Result "1/2-1/2"]
+[WhiteElo "2029"]
+[BlackElo "2163"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be3 cxd4 7.cxd4 e6 8.Nc3 Qd8 9.Bd3 Be7 10.O-O O-O 11.Ne5 Nbd7 12.Qe2 Qa5 13.Nc4 Qc7 14.a4 b6 15.Qf3 Bb7 16.Qh3 Rfd8 17.Rfd1 Rac8 18.Rac1 Qb8 19.f3 h6 20.Qg3 Qxg3 21.hxg3 Nd5 22.Nxd5 Bxd5 23.Ne5 Nb8 24.Nc4 Nd7 25.Ne5 Bb3 26.Rxc8 Rxc8 27.Ra1 Nb8 28.Kf2 Bd6 29.f4 f6 30.Nf3 Kf7 31.Nd2 Bd5 32.Nf3 a5 33.g4 Nc6 34.Rc1 Rc7 35.Nd2 Nb4 36.Rxc7+ Bxc7 37.Bb5 Nc2 38.g3 g5 39.Bd3 Nb4 40.Bb5 Nc6 41.Nb1 Ne7 42.Nc3 Bb3 43.Ke2 Ng6 44.Kf3 Bd8 45.Bd3 Ne7 46.Bb5 f5 47.fxg5 fxg4+ 48.Kxg4 Nf5 49.Bd2 hxg5 50.Bxg5 Bxg5 51.Kxg5 Nxg3 52.Kf4 1/2-1/2

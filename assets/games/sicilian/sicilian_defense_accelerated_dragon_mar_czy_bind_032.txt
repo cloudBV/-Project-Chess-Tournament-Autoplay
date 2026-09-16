@@ -1,0 +1,15 @@
+[Event "Round 3: Bekauri, Giorgi - Poormosavi, Seyed Kanan"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-3/ENOyEKsM/ChM4OYHf"]
+[Date "2026.07.14"]
+[Round "3.12"]
+[White "Bekauri, Giorgi"]
+[Black "Poormosavi, Seyed Kanan"]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2216"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6 11.O-O Qa5 12.Rac1 Rfc8 13.b3 a6 14.f4 b5 15.f5 Bd7 16.Nd5 Qxd2 17.Nxf6+ Bxf6 18.Bxd2 Bc6 19.Bd3 Bb2 20.Rc2 Ba3 21.Be3 bxc4 22.Rxc4 Bb5 23.Rxc8+ Rxc8 24.Rd1 e6 25.fxe6 fxe6 26.Kf2 Kf7 27.Ke2 Kf6 28.Rf1+ Ke7 1/2-1/2

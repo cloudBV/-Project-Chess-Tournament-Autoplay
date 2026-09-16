@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "3.9"]
+[White "Ugorek, Kacper"]
+[Black "Bartodziej, Bartosz"]
+[Result "1/2-1/2"]
+[WhiteElo "2229"]
+[BlackElo "2021"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5 7.O-O b6 8.d3 Bb7 9.e4 Be7 10.Bf4 O-O 11.Nbd2 Nb8 12.Ne5 Nc6 13.Nxc6 Bxc6 14.a4 Qd7 15.Rfd1 Rfd8 16.Nf3 Qe8 17.Ne5 Rd4 18.Qc2 Bxa4 19.b3 Bb5 20.Nc4 Bxc4 21.dxc4 Rxd1+ 22.Qxd1 Rd8 23.Qe2 a5 24.e5 Nd7 25.Bc6 Qf8 26.h4 Nb8 27.Be4 Na6 28.Rd1 Nb4 29.Kg2 Rd4 30.Rxd4 cxd4 31.Bd2 Qd8 32.h5 h6 33.Qg4 Bg5 34.f4 Be7 35.f5 exf5 36.Qxf5 Bg5 37.Bxb4 axb4 38.Bd5 Qe8 39.Be4 Kf8 40.Bd5 Kg8 41.Kf3 d3 42.Qxd3 Qxe5 43.Qe4 Qxe4+ 44.Kxe4 Kf8 45.g4 1/2-1/2

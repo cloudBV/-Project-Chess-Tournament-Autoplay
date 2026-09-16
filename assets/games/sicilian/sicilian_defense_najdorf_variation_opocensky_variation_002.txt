@@ -1,0 +1,15 @@
+[Event "Round 8: Om Batra - Solodovnichenko, Yuri"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-grup-a/round-8/lV9WmQp8/JrsNRfML"]
+[Date "2026.07.02"]
+[Round "8.5"]
+[White "Om Batra"]
+[Black "Solodovnichenko, Yuri"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2515"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.Qd2 Nc6 10.f4 b5 11.f5 Bc4 12.Bf3 a5 13.Nd5 O-O 14.Bb6 Qd7 15.Nxf6+ Bxf6 16.Nxa5 Rfb8 17.Nxc6 Qxc6 18.Be3 Bd8 19.Kf2 Ba5 20.b4 Bb6 21.a3 d5 22.exd5 Qh6 23.Qc1 e4 24.Bxe4 Qh4+ 25.Kf3 Re8 26.Bxb6 Rxe4 27.Re1 Be2+ 0-1

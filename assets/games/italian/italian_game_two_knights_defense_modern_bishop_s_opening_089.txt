@@ -1,0 +1,14 @@
+[Event "Round 5: Matsumura, Cocoro - Stefan, Iulia-Cristiana"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/VzELiIfk"]
+[Date "2026.07.17"]
+[Round "5.24"]
+[White "Matsumura, Cocoro"]
+[Black "Stefan, Iulia-Cristiana"]
+[Result "0-1"]
+[WhiteElo "2225"]
+[BlackElo "2053"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.O-O g6 7.d4 Qe7 8.Re1 Bg7 9.a4 O-O 10.Nbd2 Nh5 11.d5 Nb8 12.Nf1 Nf4 13.a5 a6 14.g3 Nh3+ 15.Kg2 f5 16.exf5 Bxf5 17.Be3 g5 18.N3d2 g4 19.Be2 h5 20.Qb3 Nd7 21.Qxb7 Rab8 22.Qxa6 Rxb2 23.Qc4 Qf7 24.Qxc7 Be4+ 25.Nxe4 Rxe2 26.Nfd2 Rxd2 27.Nxd2 Qxd5+ 28.Kf1 Nc5 29.Rad1 Bh6 30.Bxc5 Bxd2 31.Be3 Bxe3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 9: Boutikos, Eleftherios - Merkouropoulos, Dionysios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-9/rEHaWiAY/VQz7syDW"]
+[Date "2026.07.17"]
+[Round "9.2"]
+[White "Boutikos, Eleftherios"]
+[Black "Merkouropoulos, Dionysios"]
+[Result "0-1"]
+[WhiteElo "2189"]
+[BlackElo "2096"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.Bf4 d5 8.Nd2 g6 9.c3 Nh5 10.Be3 Bd6 11.Qa4 Bd7 12.exd5 cxd5 13.Qd4 Qf6 14.g4 Be5 15.Qc5 Nf4 16.Bb5 Bxb5 17.Qxb5+ Kf8 18.O-O-O Rb8 19.Qc5+ Kg7 20.Nb3 Rhc8 21.Qa5 Ne2+ 22.Kb1 Bxc3 23.Qa3 a5 24.g5 Qf5+ 25.Ka1 Bb4 26.Qa4 e5 27.Bd2 d4 28.Rhe1 d3 29.Bc3 0-1

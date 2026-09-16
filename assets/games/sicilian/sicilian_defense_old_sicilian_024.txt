@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.17"]
+[Round "4.3"]
+[White "Navarro Guerrero, Simon"]
+[Black "Arancibia Guzman, Eduardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2093"]
+[BlackElo "2278"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 Nf6 4.d3 d5 5.Nbd2 e5 6.Be2 Be7 7.Qc2 O-O 8.O-O Re8 9.Re1 Bf8 10.Nf1 h6 11.h3 d4 12.Ng3 g6 13.Bd2 a6 14.Rf1 Bg7 15.a3 Bd7 16.Nh2 dxc3 17.bxc3 Be6 18.Be3 Qe7 19.Rab1 b5 20.a4 Rab8 21.f4 exf4 22.Bxf4 Rb7 23.axb5 axb5 24.Qd2 Kh7 25.d4 Bc4 26.Bxc4 bxc4 27.Rxb7 Qxb7 28.e5 Nd5 29.Ne4 cxd4 30.Nd6 Qd7 31.cxd4 c3 32.Qf2 Qxd6 33.exd6 Bxd4 34.Qxd4 Nxd4 35.d7 Rd8 36.Be5 Ne6 37.Bxc3 Nxc3 38.Rxf7+ Ng7 39.Ng4 Nd5 40.Kf2 h5 41.Ne5 Kg8 42.Rf3 Ne7 43.g4 Ne6 44.gxh5 gxh5 45.Kg3 Nf8 46.Kh4 Neg6+ 47.Nxg6 Nxg6+ 48.Kxh5 Nf8 49.Rd3 Kf7 50.Kg4 Nxd7 51.Kf5 Ke7 52.Re3+ Kf8 53.Rd3 Ke7 54.Re3+ Kf7 1/2-1/2

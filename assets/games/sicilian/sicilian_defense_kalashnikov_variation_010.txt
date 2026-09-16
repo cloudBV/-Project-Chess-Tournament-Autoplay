@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.8"]
+[White "Nawalaniec, Adam"]
+[Black "Rekuc, Patryk"]
+[Result "0-1"]
+[WhiteElo "2072"]
+[BlackElo "2315"]
+[ECO "B32"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.Nd5 Nf6 9.Bg5 Bxd5 10.exd5 Qa5+ 11.c3 Qxd5 12.Bxf6 Qe4+ 13.Qe2 Qxe2+ 14.Bxe2 gxf6 15.Rd1 O-O-O 16.Bh5 Rg8 17.O-O Rg7 18.Nc4 Kc7 19.Ne3 Ne7 20.f4 e4 21.Rd4 f5 22.Rfd1 f6 23.Nc4 Ng6 24.Bxg6 hxg6 25.Ne3 Kd7 26.h3 Ke6 27.g4 Rh7 28.Kg2 Be7 29.Kg3 Rdh8 30.Rh1 fxg4 31.Rxe4+ Kd7 32.Nd5 Bd8 33.Re2 f5 34.Reh2 Bh4+ 35.Kg2 g3 0-1

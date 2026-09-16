@@ -1,0 +1,15 @@
+[Event "Round 4: Nguyen, Manh Duc - Nguyen, Nam Kiet"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-4/P2eNT3v3/kZJVkbnB"]
+[Date "2026.07.19"]
+[Round "4.13"]
+[White "Nguyen, Manh Duc"]
+[Black "Nguyen, Nam Kiet"]
+[Result "1-0"]
+[WhiteElo "2236"]
+[BlackElo "2145"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bf4 Bb4 7.Nb5 Nxe4 8.Qf3 d5 9.Nc7+ Kf8 10.Nxa8 e5 11.Bd2 Nxd2 12.Qxd5 Qxd5 13.Nxd5 Nb3+ 14.Nxb4 Nxa1 15.Nxc6 bxc6 16.Kd2 Ke7 17.Nc7 Rd8+ 18.Kc1 Bf5 19.c3 e4 20.Bc4 e3 21.fxe3 Nc2 22.Bb3 Na1 23.Ba4 Be4 24.Rd1 Rxd1+ 25.Bxd1 Bxg2 26.Na6 Kd6 27.b4 Kd5 28.Nc5 Kc4 29.Kd2 Bf1 30.Nb7 Kd5 31.Bf3+ Ke5 32.Na5 a6 33.Nxc6+ Kd6 34.Na5 g5 35.c4 f5 36.c5+ Kc7 37.Kc3 g4 38.Bd5 Kd7 39.Nc4 h5 40.Nd2 Bb5 41.Kb2 h4 42.Kxa1 Bc6 43.Bxc6+ Kxc6 44.Nf1 a5 45.a3 axb4 46.axb4 Kd5 1-0

@@ -1,0 +1,14 @@
+[Event "SA Open 2026 Championship"]
+[Site "https://lichess.org/broadcast/south-african-open-championship-2026-championship/round-5/XKGm0XkO/8cs6v8zW"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Dinham, James"]
+[Black "Mnyasta, Tezihano"]
+[Result "1/2-1/2"]
+[WhiteElo "2140"]
+[BlackElo "2008"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.a4 bxa4 6.Rxa4 c5 7.d4 cxd4 8.Qxd4 Nc6 9.Qd3 Be7 10.Bg5 h6 11.Bxf6 Bxf6 12.Nbd2 O-O 13.e4 a5 14.c4 d5 15.exd5 Nb4 16.Qb1 exd5 17.Rd1 Qb6 18.cxd5 Bxd5 19.b3 Qb7 20.Ne1 Rfd8 21.Nc4 Bxg2 22.Nxg2 Rxd1+ 23.Qxd1 Rd8 24.Qe2 Nd5 25.Nxa5 Qd7 26.Rc4 Qb5 27.Nc6 Nc3 28.Qe3 Rd1+ 29.Ne1 Qxb3 30.Ne5 Qb1 31.Nf3 Nd5 32.Qe8+ Kh7 33.Qe4+ Qxe4 34.Rxe4 g5 35.Kg2 Kg6 36.Nc2 Rc1 37.Ne3 Nxe3+ 38.Rxe3 Rc2 39.Rd3 g4 1/2-1/2

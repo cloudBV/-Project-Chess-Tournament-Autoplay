@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.12"]
+[Round "3.6"]
+[White "Stash 37.24"]
+[Black "Sirius 3bedea6e"]
+[Result "1/2-1/2"]
+[WhiteElo "3244"]
+[BlackElo "3452"]
+[ECO "B16"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Nf3 e6 8.Be2 Qc7 9.Nh4 Be4 10.O-O Bd6 11.g3 Nd7 12.Bh5 Rg8 13.Qe2 f5 14.f3 Bxg3 15.fxe4 Bxh4+ 16.Kh1 Nf6 17.exf5 O-O-O 18.fxe6 fxe6 19.Qxe6+ Qd7 20.Qxd7+ Rxd7 21.Bf3 Ng4 22.Bxg4 Rxg4 23.Bf4 Bd8 24.Bg3 Rg8 25.Rf5 Bc7 26.Kg2 Bxg3 27.hxg3 Rdg7 28.Rf3 h5 29.Kh3 Rg4 30.Raf1 Kd7 31.a4 a5 32.Rd3 R8g7 33.b3 Re4 34.Rf5 Re1 35.Rxa5 h4 36.g4 Rh1+ 37.Kg2 Rc1 38.g5 Rh7 39.Kh2 h3 40.Rd2 Rxc3 41.d5 Rxb3 42.dxc6+ Kxc6 43.g6 Rg7 44.Rg5 Rb4 45.a5 Rh4 46.Ra2 Rh6 47.a6 1/2-1/2

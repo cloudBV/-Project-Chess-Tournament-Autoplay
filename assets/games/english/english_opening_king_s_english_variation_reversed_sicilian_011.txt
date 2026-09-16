@@ -1,0 +1,15 @@
+[Event "Round 3: Baghaei, Mehrad - Daghli, Arash"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-3/1Me5a6kG/sk4xoPCv"]
+[Date "2026.07.12"]
+[Round "3.1"]
+[White "Baghaei, Mehrad"]
+[Black "Daghli, Arash"]
+[Result "0-1"]
+[WhiteElo "2089"]
+[BlackElo "2429"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 d6 3.e3 f5 4.d4 Nf6 5.Bd3 g6 6.Nge2 Bg7 7.O-O O-O 8.b4 a6 9.Qb3 Be6 10.a4 Nbd7 11.Bb2 c6 12.Rad1 Bf7 13.b5 e4 14.Bb1 cxb5 15.axb5 Nb6 16.d5 Qc7 17.Ba2 Rfc8 18.Qb4 a5 19.Qa3 Nxc4 20.Bxc4 Qxc4 21.Nf4 Qb4 22.Qa1 Nd7 23.Na4 Bxb2 24.Nxb2 Rc2 25.Na4 Qb3 26.Ne6 Bxe6 27.dxe6 Qxe6 28.Qa3 Nc5 29.Nb6 Rf8 30.Qxa5 Nd3 31.Qa7 Rf7 32.Na4 f4 33.exf4 Nxf4 34.Qb8+ Rf8 35.Qxd6 0-1

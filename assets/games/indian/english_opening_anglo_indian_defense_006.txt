@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/BpraCPf6"]
+[Date "2026.07.03"]
+[Round "7.12"]
+[White "Obrycki, Tomasz"]
+[Black "Hury, Tymoteusz"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2103"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 d6 4.d4 Bg7 5.Nc3 O-O 6.Nf3 Bf5 7.O-O Ne4 8.Nh4 Nxc3 9.bxc3 Bc8 10.Nf3 Nc6 11.Re1 e5 12.e3 Re8 13.Ba3 Rb8 14.Nd2 h5 15.Rb1 Bg4 16.Qc1 Qd7 17.c5 dxc5 18.Bxc5 b6 19.Ba3 Rbd8 20.Qc2 Bh3 21.Nf3 Bxg2 22.Kxg2 Bf6 23.Rbd1 e4 24.Ng1 Qf5 25.h3 Be7 26.Bxe7 Rxe7 27.h4 Nb8 28.Nh3 Nd7 29.Qe2 Nf6 30.c4 c5 31.dxc5 Rxd1 32.Rxd1 Qxc5 33.Rd4 Rd7 34.Qd2 Qf5 35.Nf4 Qg4 36.Rxd7 Qxd7 37.Nd5 Qd6 38.Qd4 Nxd5 39.cxd5 f5 40.a4 a5 41.Kh2 1/2-1/2

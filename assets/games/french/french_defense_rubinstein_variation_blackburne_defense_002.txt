@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.2"]
+[White "Yoo, Christopher Woojin"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "1-0"]
+[WhiteElo "2607"]
+[BlackElo "2445"]
+[ECO "C10"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 Nxe4 7.Bxe4 c5 8.c3 cxd4 9.Qxd4 Nf6 10.Qxd8+ Kxd8 11.Bg5 Bd6 12.O-O-O Kc7 13.Rhe1 h6 14.Bh4 Rd8 15.Bd3 g5 16.Bg3 Bxg3 17.fxg3 Nd7 18.Nd4 Nc5 19.Bg6 Rd7 20.Bc2 a5 21.Rf1 e5 22.Nb5+ Kc6 23.a4 Kb6 24.Rf6+ Ne6 25.Re1 1-0

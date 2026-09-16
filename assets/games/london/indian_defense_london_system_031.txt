@@ -1,0 +1,15 @@
+[Event "Round 7: Lammens, Tim - Grutter, Tim"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/510NTWBK"]
+[Date "2026.07.21"]
+[Round "7.3"]
+[White "Lammens, Tim"]
+[Black "Grutter, Tim"]
+[Result "1/2-1/2"]
+[WhiteElo "2244"]
+[BlackElo "2390"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.Nf3 Nf6 2.d4 e6 3.Bf4 b6 4.e3 Bb7 5.Bd3 Bd6 6.Bg3 Bxg3 7.hxg3 Qe7 8.Nc3 Nc6 9.a3 e5 10.d5 e4 11.dxc6 Bxc6 12.Bb5 exf3 13.Bxc6 dxc6 14.Qxf3 Qe6 15.O-O-O Rd8 16.Qf4 Rd6 17.e4 O-O 18.Rxd6 cxd6 19.Rd1 Rd8 20.f3 h6 21.g4 Nh7 22.Kb1 Nf8 23.g5 Ng6 24.Qg3 hxg5 25.Qxg5 Qe7 26.Qf5 Qe5 27.Qxe5 Nxe5 28.Ne2 g6 29.Kc1 Kf8 30.Nd4 Rc8 31.Rh1 Ke7 32.b3 b5 33.Kd2 a6 34.f4 Ng4 35.Rh4 Nf6 36.e5 dxe5 37.fxe5 Nd7 38.e6 fxe6 39.Rh7+ Kd6 40.Rg7 Nf8 41.Ra7 e5 42.Ne2 Ne6 43.Rxa6 Rf8 44.Ke3 Nc7 45.Ra7 Nd5+ 46.Kd3 Rf2 47.Ng3 Nf4+ 48.Ke3 Rxc2 49.Ne4+ Kd5 50.Kf3 Ke6 51.g3 Ne2 52.b4 Nd4+ 53.Ke3 Ra2 54.Kd3 Nc2 55.Ra6 Ne1+ 56.Kc3 Rc2+ 57.Kb3 Kd5 58.Nc3+ Kd6 59.Nxb5+ Kd7 60.Nc3 Rg2 61.b5 cxb5 62.Rxg6 Nd3 63.Nxb5 Rb2+ 64.Kc3 Rxb5 65.Kxd3 Rb3+ 66.Ke4 Rxa3 67.Kxe5 Ke7 68.g4 1/2-1/2

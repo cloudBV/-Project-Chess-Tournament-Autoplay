@@ -1,0 +1,15 @@
+[Event "Round 1: Aravindh, Chithambaram VR. - Jiang, Andrew"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/Ktwt8cKj"]
+[Date "2026.07.03"]
+[Round "1.8"]
+[White "Aravindh, Chithambaram VR."]
+[Black "Jiang, Andrew"]
+[Result "1-0"]
+[WhiteElo "2584"]
+[BlackElo "2298"]
+[ECO "C48"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.d3 a6 6.Ba4 O-O 7.a3 Re8 8.Bb3 h6 9.g4 Nd4 10.g5 Nxb3 11.cxb3 hxg5 12.Bxg5 Be7 13.Rg1 c6 14.Nxe5 d5 15.f4 Qb6 16.Rg3 dxe4 17.dxe4 Be6 18.Qe2 Bxb3 19.Qg2 Nh5 20.Rh3 Bxg5 21.Qxg5 f6 22.Qxh5 Qg1+ 23.Ke2 Qg2+ 24.Ke3 fxe5 25.Qh7+ Kf7 26.Qf5+ Kg8 27.Qh7+ Kf7 28.Qh5+ Qg6 29.Qxg6+ Kxg6 30.Rg1+ Kf7 31.Rh7 exf4+ 32.Kxf4 Rg8 33.e5 Raf8 34.Ne4 Ke6+ 35.Ke3 Kxe5 36.Nc5 Be6 37.Rgxg7 Rxg7 38.Rxg7 Rh8 39.b4 Rh3+ 40.Kf2 b6 41.Nxa6 Rxa3 42.Nb8 Ra2+ 43.Ke3 Rxh2 44.Nxc6+ Kd5 45.Ne7+ Kc4 46.Rg6 Bd7 47.Rxb6 Rb2 48.Ng6 Bb5 49.Ne5+ Kxb4 50.Rb8 Rb3+ 51.Kd4 Rh3 52.Nc6+ Ka4 53.Ne7 Rh4+ 54.Kc5 Be2 55.Nd5 Rc4+ 56.Kd6 Rc2 57.Ke5 Ka3 58.Ne3 Rc7 1-0

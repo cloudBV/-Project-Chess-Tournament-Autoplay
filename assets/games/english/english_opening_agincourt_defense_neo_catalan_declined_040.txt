@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.9"]
+[White "Balint, Peter"]
+[Black "Hychkevych, Vitaliy"]
+[Result "1/2-1/2"]
+[WhiteElo "2377"]
+[BlackElo "2076"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 e6 3.Bg2 Be7 4.O-O Nf6 5.c4 O-O 6.b3 b6 7.Bb2 Bb7 8.cxd5 exd5 9.e3 Nbd7 10.Nc3 c5 11.d4 Rc8 12.Rc1 Re8 13.Re1 h6 14.Ne2 Bd6 15.dxc5 bxc5 16.Nf4 Nb6 17.Nd3 Qe7 18.Re2 Red8 19.a4 c4 20.Nf4 cxb3 21.Rxc8 Rxc8 22.Qxb3 Ba6 23.Rc2 Bc4 24.Bxf6 Qxf6 25.Qb1 Bxf4 26.exf4 Nxa4 27.Ne5 Nb6 28.h4 Re8 29.Rd2 Rxe5 30.fxe5 Qxe5 31.Kh2 g6 32.Qb4 Qc7 33.Rd4 Kg7 34.h5 Qe5 35.Qb2 Na4 36.Qa1 Nc5 37.Qd1 Nb3 38.Rh4 g5 39.Rh3 f5 40.Kg1 Nd4 41.g4 Ne2+ 42.Kh1 Nf4 43.Re3 Qf6 44.gxf5 Nxg2 45.Kxg2 d4 46.Ra3 Bd5+ 47.Kg1 Qb6 48.Ra4 Bb3 49.Qxd4+ Qxd4 50.Rxd4 a5 51.Rd6 a4 52.Ra6 Bc2 53.f6+ Kf7 54.Kh2 Bd1 55.Rxa4 Bxh5 56.Ra6 1/2-1/2

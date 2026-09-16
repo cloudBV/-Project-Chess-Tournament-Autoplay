@@ -1,0 +1,14 @@
+[Event "Round 7: Kukushkin, Ivan - Papaux, Jeremie"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-7/XL83IlpS/86JCqAJC"]
+[Date "2026.07.20"]
+[Round "7.22"]
+[White "Kukushkin, Ivan"]
+[Black "Papaux, Jeremie"]
+[Result "1-0"]
+[WhiteElo "2257"]
+[BlackElo "2102"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.c4 Ng6 10.Bd3 a6 11.Nc3 f5 12.O-O Be7 13.Be3 Bg5 14.Qa4+ Bd7 15.Qb4 Bxe3 16.fxe3 e4 17.Bxe4 O-O 18.Bf3 Ne5 19.Qxd6 Nxc4 20.Qf4 Rc8 21.d6 b5 22.Nd5 Kh8 23.Ne7 Rb8 24.b3 Nb6 25.Rad1 Nc8 26.Qh4 Be8 27.Rd4 Rf6 28.Nxc8 Qxc8 29.Qe1 Qd7 30.Qb4 Rb6 31.Rfd1 h6 32.Qc5 Rb8 33.Qc7 Rc8 34.Rc1 Rxc7 35.dxc7 Qe6 36.Kf2 f4 37.c8=Q Qxe3+ 38.Kf1 Re6 39.Qc3 Qe5 40.Re4 Qd6 41.Rxe6 Qxe6 42.Qc8 Qe3 43.Re1 Qd3+ 44.Be2 Qg6 45.Bc4 f3 46.Rxe8+ 1-0

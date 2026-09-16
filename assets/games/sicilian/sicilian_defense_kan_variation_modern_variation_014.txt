@@ -1,0 +1,15 @@
+[Event "Round 4: Ahmadzada, Ahmad - Bayramov, Zaur"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-4/5vp20QZH/0wVGYjZj"]
+[Date "2026.07.15"]
+[Round "4.1"]
+[White "Ahmadzada, Ahmad"]
+[Black "Bayramov, Zaur"]
+[Result "1-0"]
+[WhiteElo "2537"]
+[BlackElo "2250"]
+[ECO "B42"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O d5 8.c4 Nf6 9.Qa4 Bd7 10.e5 Ng8 11.Nd2 Ne7 12.Nf3 Ng6 13.Qc2 Nh4 14.Nxh4 Qxh4 15.Be3 Be7 16.f4 O-O 17.Rf3 h6 18.Be2 Qh5 19.Rg3 Qf5 20.Qd1 Qh7 21.Bd3 g6 22.Rc1 Rfc8 23.c5 Rcb8 24.Qd2 a5 25.Rf1 Rb4 26.a3 Rb3 27.Bd4 a4 28.Be3 1-0

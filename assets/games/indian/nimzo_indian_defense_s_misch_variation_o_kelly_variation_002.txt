@@ -1,0 +1,15 @@
+[Event "Round 6: Carrascoso Morales, Abel - Ilinca, Felix-Antonio"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-6/bVyM4zuT/nWQ6mDRN"]
+[Date "2026.07.09"]
+[Round "6.12"]
+[White "Carrascoso Morales, Abel"]
+[Black "Ilinca, Felix-Antonio"]
+[Result "0-1"]
+[WhiteElo "2272"]
+[BlackElo "2495"]
+[ECO "E26"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, O'Kelly Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3 b6 7.Bd3 Bb7 8.f3 Nc6 9.Ne2 Qe7 10.e4 d6 11.O-O O-O-O 12.Be3 Kb8 13.Nc1 e5 14.Nb3 Kc7 15.a4 a5 16.Rf2 Ba6 17.Bf1 Rhg8 18.Qc1 h6 19.Rb1 g5 20.h3 Nd7 21.Qb2 h5 22.d5 Na7 23.Be2 Rh8 24.Nd2 Rdg8 25.Nf1 Nc8 26.Ng3 Qf6 27.Kf1 Ne7 28.Ke1 Qg6 29.Qc2 Qf6 30.Nf5 Nxf5 31.exf5 Re8 32.g3 Rhg8 33.Kd1 e4 34.fxe4 Qe5 35.Bxh5 Nf6 36.Bf3 Bxc4 37.Qb2 Rb8 38.Qc2 Qxg3 39.Kc1 g4 40.hxg4 Nxg4 41.Qd2 Nxf2 42.Qxf2 Qxf2 43.Bxf2 Bd3 44.Rb2 Rbe8 45.Bh5 Rg7 46.f6 Rh7 47.Bf3 Rh3 48.Bg2 Rh6 49.Rd2 Bxe4 50.Re2 Bxg2 51.Rxe8 Bxd5 52.Re7+ Kc6 53.Be3 Rxf6 54.Bg5 Rf5 55.Bh6 Bb3 56.Bf8 Bxa4 57.Re8 Kc7 58.Ra8 Bc6 59.Rd8 Kxd8 0-1

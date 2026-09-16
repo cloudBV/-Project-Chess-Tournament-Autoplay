@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-3/N830nnms/OhXJSmj2"]
+[Date "2026.07.11"]
+[Round "3.7"]
+[White "Koska, Jiri"]
+[Black "Jares, Michal"]
+[Result "0-1"]
+[WhiteElo "2035"]
+[BlackElo "2310"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 g6 4.e3 Bg7 5.d4 cxd4 6.Nxd4 O-O 7.Be2 Nc6 8.O-O d6 9.Bf3 Ne5 10.Be2 Bd7 11.b3 Rc8 12.Bb2 Bc6 13.Rc1 Qa5 14.Qd2 Qb6 15.Rfd1 Ne4 16.Nxe4 Bxe4 17.Nb5 a6 18.Nc3 Bc6 19.Nd5 Bxd5 20.Qxd5 Nd7 21.Bxg7 Kxg7 22.Bf3 Rc7 23.h4 h5 24.Rc2 Nf6 25.Qd2 Rfc8 26.Rdc1 Qc5 27.Be2 Qf5 28.Bd3 Qg4 29.g3 g5 30.Be2 Qf5 31.Bd3 Qc5 32.hxg5 Qxg5 33.e4 Rc5 34.Qxg5+ Rxg5 35.Kf1 h4 36.gxh4 Rh5 37.f3 Rxh4 38.Rg2+ Kf8 39.Kf2 e5 40.Rc2 Nh5 41.Ke3 Nf4 42.Rh2 Rxh2 43.Rxh2 Ke7 44.Bf1 Ne6 45.Rh7 Rg8 46.Bh3 Nf4 47.Bg4 b5 48.cxb5 axb5 49.Rh2 Ra8 50.Rc2 Ra7 51.Kd2 d5 52.exd5 Kd6 53.Bf5 Nxd5 54.Rb2 b4 55.Rc2 Nc3 56.Rxc3 bxc3+ 57.Kxc3 Rxa2 58.b4 Ra3+ 0-1

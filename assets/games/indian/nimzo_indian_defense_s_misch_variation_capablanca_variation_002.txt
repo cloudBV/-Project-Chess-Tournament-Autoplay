@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.31"]
+[White "Cervantes Landeiro, Thalia"]
+[Black "Odriozola Coscolin, Dani"]
+[Result "0-1"]
+[WhiteElo "2232"]
+[BlackElo "2147"]
+[ECO "E29"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Bd3 Nc6 8.Ne2 b6 9.e4 Ne8 10.O-O Ba6 11.Be3 Nd6 12.dxc5 Nxc4 13.Bxc4 Bxc4 14.Re1 Qc7 15.Rb1 b5 16.Nd4 a6 17.Nxc6 dxc6 18.Qd6 Qa5 19.Ra1 Rac8 20.Rec1 Rfd8 21.Qe7 Qa4 22.h4 f6 23.h5 e5 24.h6 Bf7 25.hxg7 Kxg7 26.Re1 Kg6 27.f4 Qxe4 28.g4 Qf3 29.f5+ Kg7 30.Kh2 Rd3 31.g5 Rxe3 32.gxf6+ Kh6 33.Rxe3 Qf2+ 34.Kh3 Qxe3+ 35.Kh4 Rg8 0-1

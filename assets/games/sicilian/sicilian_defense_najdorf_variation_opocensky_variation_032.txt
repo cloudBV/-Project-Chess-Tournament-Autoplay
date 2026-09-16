@@ -1,0 +1,15 @@
+[Event "Round 1: Shuvalova, Polina - Degenbaev, Aziz"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/N1RTUU7D"]
+[Date "2026.07.21"]
+[Round "1.4"]
+[White "Shuvalova, Polina"]
+[Black "Degenbaev, Aziz"]
+[Result "1-0"]
+[WhiteElo "2483"]
+[BlackElo "2302"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.f4 exf4 9.Bxf4 Nc6 10.Qd3 Rc8 11.Rd1 Nb4 12.Qd2 d5 13.exd5 Nfxd5 14.Nxd5 Nxd5 15.Be5 Qh4+ 16.Bg3 Qe4 17.c3 Be7 18.Kf2 Qg6 19.Qd3 Qf6+ 20.Bf3 O-O 21.Qd4 Qf5 22.Qe5 Qxe5 23.Bxe5 Rfd8 24.Nd4 Bc5 25.Ke2 Bxd4 26.Rxd4 Ne7 27.Kf2 Re8 28.Re1 Rc5 29.Re2 Rb5 30.Rdd2 Nc6 31.Bg3 h6 32.b3 a5 33.c4 Rf5 34.Rd5 Ra8 35.Rxf5 Bxf5 36.Bd5 Bg6 37.Bd6 Rd8 38.Bc7 Ra8 39.Bd6 Rd8 40.Bc5 Rc8 41.a3 Bh5 42.Re3 Bg6 43.b4 axb4 44.axb4 b6 45.Bd6 Nd4 46.g4 h5 47.h3 hxg4 48.hxg4 b5 49.Bc5 Nc2 50.cxb5 Rb8 51.b6 Nxb4 52.Bxb4 Rxb6 53.Bc3 Rb8 54.Re7 Rc8 55.Be5 Rd8 56.Bc4 Kf8 57.Rb7 Kg8 58.Kg3 Rc8 59.Rb8 Rxb8 60.Bxb8 Kh7 61.Kf4 f6 62.Be6 Kh8 63.Bd6 Bc2 64.Ke3 Ba4 65.Kd4 Bd1 66.Bf4 Bc2 67.Be3 Bd1 68.Kc5 Bc2 69.Kd6 Bb1 70.Ke7 Bc2 71.Kf8 Kh7 72.Ke7 Kh8 73.Kf7 Bd3 74.Bf5 Bc4+ 75.Kf8 Bg8 76.g5 Bh7 77.g6 Bxg6 78.Bxg6 f5 79.Bd4 1-0

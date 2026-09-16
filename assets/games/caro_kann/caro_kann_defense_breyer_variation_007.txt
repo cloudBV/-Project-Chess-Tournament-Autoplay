@@ -1,0 +1,14 @@
+[Event "Round 4: Eveno, Nathan - Shahil Dey"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-4/JDqUBlZa/s9RqrC6F"]
+[Date "2026.07.14"]
+[Round "4.4"]
+[White "Eveno, Nathan"]
+[Black "Shahil Dey"]
+[Result "0-1"]
+[WhiteElo "2265"]
+[BlackElo "2413"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Bf4 g6 4.c3 Bg7 5.Nf3 Nf6 6.Nbd2 O-O 7.h3 c5 8.Be2 Nc6 9.Ne5 Nxe5 10.Bxe5 Re8 11.Qc2 b6 12.Bg3 e5 13.Bh4 Bb7 14.O-O h6 15.Bxf6 Qxf6 16.a4 Rad8 17.Rfd1 Qe6 18.exd5 Bxd5 19.Bf3 Bxf3 20.Nxf3 Re7 21.Nd2 Red7 22.Nf1 f5 23.c4 Rd4 24.a5 Qd7 25.axb6 axb6 26.Ne3 f4 27.Nd5 f3 28.Re1 b5 29.Re4 Kh7 30.Rae1 Rf8 31.Rxd4 cxd4 32.Re4 h5 33.Kh2 fxg2 34.Kxg2 Qf5 35.Qe2 bxc4 36.dxc4 d3 37.Qxd3 Qxf2+ 38.Kh1 Rf3 39.Re3 e4 40.Rxf3 exf3 41.Nf4 Qg3 42.Qxg6+ Qxg6 43.Nxg6 Kxg6 44.b4 Bc3 45.Kh2 Kf5 0-1

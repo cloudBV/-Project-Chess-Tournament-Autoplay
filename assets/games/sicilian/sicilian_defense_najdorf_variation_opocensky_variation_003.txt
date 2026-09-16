@@ -1,0 +1,15 @@
+[Event "Round 3: Adamson, Robby - Chasin, Nico"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/eFK0viOI"]
+[Date "2026.07.03"]
+[Round "3.27"]
+[White "Adamson, Robby"]
+[Black "Chasin, Nico"]
+[Result "0-1"]
+[WhiteElo "2241"]
+[BlackElo "2448"]
+[ECO "B92"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.Nd5 Bxd5 10.exd5 Nbd7 11.Qd3 O-O 12.g4 Rc8 13.g5 Ne8 14.h4 f5 15.gxf6 Nexf6 16.O-O-O Nb6 17.Rhg1 Kh8 18.Bg4 Nbxd5 19.Bxc8 Qxc8 20.Bg5 Nb4 21.Qd2 Nxa2+ 22.Kb1 Ne4 23.Qa5 Nac3+ 24.bxc3 Nxc3+ 25.Kb2 Nxd1+ 26.Rxd1 Rxf2 27.Nd2 Bxg5 28.hxg5 Rf4 29.Nb3 Rf2 30.Rd2 Rxd2 31.Nxd2 Qd7 32.Nb3 Qc8 33.Nd2 Qd7 34.Ne4 d5 35.Nc5 Qe7 36.Nb3 Qd7 37.Nc5 Qe7 38.Qb6 Qxg5 39.Qxb7 h5 40.Qxd5 h4 41.Ne4 Qf4 42.Qc6 Kh7 43.Qd5 h3 44.Qd3 h2 45.Qh3+ Kg6 46.Qg2+ Kf5 47.Qh3+ Kg6 48.Qg2+ Kf5 49.Nd6+ Ke6 50.Ne4 Kf7 51.Nd6+ Ke7 52.Ne4 g5 53.Nxg5 Qd4+ 54.Ka2 Qg1 55.Qb7+ Kf6 56.Nf3 Qg8+ 57.Kb2 h1=Q 58.Qc6+ Qe6 59.Qb7 Qg8 60.Qc6+ Qe6 61.Qb7 Qg8 62.Qc6+ Qe6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Prazak, Daniel - Pedzich, Dominik"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/hij5Vxcx"]
+[Date "2026.07.19"]
+[Round "7.33"]
+[White "Prazak, Daniel"]
+[Black "Pedzich, Dominik"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2373"]
+[ECO "E61"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Ng8 1/2-1/2

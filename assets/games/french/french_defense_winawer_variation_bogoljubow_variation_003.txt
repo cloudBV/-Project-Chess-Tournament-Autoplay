@@ -1,0 +1,15 @@
+[Event "Round 1: Bogdanov, Egor - Roselli Mailhe, Bernardo"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/ajNly4sr"]
+[Date "2026.07.04"]
+[Round "1.5"]
+[White "Bogdanov, Egor"]
+[Black "Roselli Mailhe, Bernardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2493"]
+[BlackElo "2310"]
+[ECO "C17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.Nb5 Bxd2+ 7.Qxd2 O-O 8.f4 a6 9.Nd6 cxd4 10.Nf3 Nbc6 11.Bd3 f6 12.O-O Qb6 13.Kh1 Bd7 14.Rae1 Nc8 15.Nxc8 Raxc8 16.f5 Nxe5 17.Nxe5 fxe5 18.Rxe5 Qd6 19.Qf4 Bb5 20.Kg1 Bxd3 21.cxd3 exf5 22.h4 Rc2 23.Qxd4 Qc5 24.Qxc5 Rxc5 25.b4 Rb5 26.Rf4 a5 27.a4 Rxb4 28.Rxb4 axb4 29.Rxd5 Ra8 30.a5 b3 31.Rb5 b2 32.Rxb2 Rxa5 33.Rxb7 Rd5 34.Rb3 Rd4 35.g3 f4 36.Kf2 fxg3+ 37.Kxg3 1/2-1/2

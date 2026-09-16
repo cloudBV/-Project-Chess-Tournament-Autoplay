@@ -1,0 +1,14 @@
+[Event "Round 6: Celik, Ali Alper - Pham, Khoi"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/rrEeA4zn"]
+[Date "2026.07.22"]
+[Round "6.12"]
+[White "Celik, Ali Alper"]
+[Black "Pham, Khoi"]
+[Result "0-1"]
+[WhiteElo "2250"]
+[BlackElo "2416"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nd7 6.Nbd2 e5 7.Ne1 f5 8.exf5 Nc5 9.Nc4 e4 10.Ne3 Nh6 11.Be2 Nxf5 12.Nxf5 Bxf5 13.Be3 O-O-O+ 14.Kc1 Be7 15.h4 Na4 16.c3 Nc5 17.Kc2 a5 18.g3 a4 19.Ng2 Nd3 20.g4 Be6 21.Nf4 Nxf4 22.Bxf4 Bc5 23.Be3 Bxe3 24.fxe3 Rhf8 25.Rh2 Rf7 26.b3 Rfd7 27.Rd1 Rxd1 28.Bxd1 axb3+ 29.axb3 Rd3 30.Rf2 Rxe3 31.Rf8+ Kd7 32.Rh8 Rh3 33.Rxh7 Rh2+ 34.Kc1 e3 35.Rxg7+ Kd6 36.Bf3 Rf2 37.Bd1 e2 38.Bxe2 Rxe2 39.h5 Rh2 40.Rg6 Ke7 41.Rg7+ Kf6 42.Rxb7 Bxg4 43.b4 Rxh5 44.Kd2 Ke5 45.Rg7 Be6 46.Rg3 Kd5 47.Rd3+ Kc4 48.Rd4+ Kb5 49.Kc2 Rh2+ 50.Kd3 Bc4+ 0-1

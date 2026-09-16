@@ -1,0 +1,14 @@
+[Event "Round 2: Tzortzis, Dimitrios - Kanakaris, Georgios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/0FCLIxpY"]
+[Date "2026.07.06"]
+[Round "2.14"]
+[White "Tzortzis, Dimitrios"]
+[Black "Kanakaris, Georgios"]
+[Result "1-0"]
+[WhiteElo "2016"]
+[BlackElo "2372"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 O-O 7.e3 d5 8.b4 dxc4 9.Bxc4 Bb7 10.O-O Qd6 11.Qe2 Nbd7 12.Bb2 Rfd8 13.Rfd1 a6 14.Rac1 Qe7 15.Bd3 Rdc8 16.Ne5 Nxe5 17.dxe5 Nd7 18.Rc4 Nf8 19.Rdc1 c5 20.bxc5 Rxc5 21.a4 Rxc4 22.Rxc4 b5 23.Rd4 bxa4 24.Rxa4 a5 25.Ba3 Qc7 26.f4 Bd5 27.h3 Qc3 28.Bb2 Qc6 29.Bb5 Qb7 30.Bd4 Bb3 31.Ra1 a4 32.Bb2 Rc8 33.Ba6 Qa8 34.Bxc8 Qxc8 35.Rc1 Qa8 36.Ba3 Ng6 37.Qb5 h5 38.Qd7 Qe4 39.Rc3 Bd5 40.Qd8+ Kh7 41.Qg5 Nxf4 42.exf4 Qe1+ 43.Kh2 Qxc3 44.Bf8 1-0

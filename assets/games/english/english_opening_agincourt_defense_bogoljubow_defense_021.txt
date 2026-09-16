@@ -1,0 +1,14 @@
+[Event "Round 7: Koehler, Gerhard, Dr. - Mueller, Michael"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-7/ssrsMeYG/no7eVbx6"]
+[Date "2026.07.23"]
+[Round "7.14"]
+[White "Koehler, Gerhard, Dr."]
+[Black "Mueller, Michael"]
+[Result "0-1"]
+[WhiteElo "2179"]
+[BlackElo "2065"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Bd6 5.O-O O-O 6.b3 c5 7.cxd5 exd5 8.d4 Nc6 9.Bb2 Re8 10.Nc3 Be6 11.Nb5 Bf8 12.dxc5 Bxc5 13.Rc1 Bb6 14.Nfd4 Rc8 15.Nxe6 fxe6 16.e3 a6 17.Nc3 Qe7 18.Rc2 Rcd8 19.Ne2 Rd7 20.Nf4 Bc7 21.Nd3 Bd6 22.Bd4 e5 23.Bc5 e4 24.Bxd6 Rxd6 25.Nb2 Nb4 26.Rc5 b6 27.Rc1 Nxa2 28.Ra1 Nb4 29.Qd2 Rc6 30.Rfc1 Rec8 31.Rxc6 Rxc6 32.Rc1 Qd6 33.Bf1 b5 34.Rxc6 Nxc6 35.Qc3 d4 36.exd4 Nxd4 37.h3 h6 38.Kg2 Kh7 39.Nd1 Nd5 40.Qe1 Qe6 41.b4 Qf5 42.Qd2 Nf3 43.Qb2 Ng5 44.Kg1 Nf3+ 45.Kh1 Qe5 46.Qa3 Qd4 47.Ne3 Nxe3 48.Qxe3 Qxb4 49.Kg2 Qd4 50.Qa3 Ne1+ 51.Kg1 Nd3 0-1

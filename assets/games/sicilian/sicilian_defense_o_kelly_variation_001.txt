@@ -1,0 +1,15 @@
+[Event "Round 9: Rajcevski, Dejan - Kingsley, Elias"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-9/YdJ04lmV/NBoo6kb4"]
+[Date "2026.07.01"]
+[Round "9.2"]
+[White "Rajcevski, Dejan"]
+[Black "Kingsley, Elias"]
+[Result "0-1"]
+[WhiteElo "2131"]
+[BlackElo "2087"]
+[ECO "B28"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation"]
+
+1.e4 c5 2.Nf3 a6 0-1

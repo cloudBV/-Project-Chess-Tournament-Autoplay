@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-3/j8fQQG3m/TQeV8htd"]
+[Date "2026.07.21"]
+[Round "3.4"]
+[White "Ostensen, Nicolai Maxime"]
+[Black "Hald Falkesgaard, Jeppe"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "2271"]
+[ECO "B53"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 a6 6.Bxc6+ bxc6 7.e5 d5 8.Qc3 Qc7 9.Be3 e6 10.Bc5 Bxc5 11.Qxc5 a5 12.O-O Ne7 13.Nc3 Ba6 14.Rfe1 O-O 15.b3 Ng6 16.Re3 Rfe8 17.Na4 Rac8 18.c4 Nf8 19.Qb6 Nd7 20.Qxc7 Rxc7 21.Rc1 c5 22.Ne1 d4 23.Re2 g5 24.h4 g4 25.Nd3 Bb7 26.Kh2 Kg7 27.Kg3 h5 28.f3 Bc6 29.Naxc5 Nxc5 30.Nxc5 gxf3 31.gxf3 Bxf3 32.Kxf3 Rxc5 33.Ke4 Rd8 34.Rg1+ Kh6 35.Rd2 f6 36.exf6 Rf5 37.Rxd4 Rf8 38.Rc1 Kg6 39.c5 Kxf6 40.c6 Rc8 41.Rd7 Re5+ 42.Kd4 Rb5 43.c7 Rb7 44.Rf1+ Kg6 45.Rdf7 1-0

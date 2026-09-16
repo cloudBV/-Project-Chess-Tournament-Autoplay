@@ -1,0 +1,14 @@
+[Event "Round 8: Safarli, Eltaj - Ling, Chenxuan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-8/lrP5Tquh/ulorrRWL"]
+[Date "2026.07.19"]
+[Round "8.5"]
+[White "Safarli, Eltaj"]
+[Black "Ling, Chenxuan"]
+[Result "0-1"]
+[WhiteElo "2619"]
+[BlackElo "2235"]
+[ECO "C06"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6 9.exf6 Nxf6 10.Nf3 Bd6 11.O-O O-O 12.Bf4 Bxf4 13.Nxf4 Ne4 14.Qc1 Ng5 15.Nxg5 Qxg5 16.Ne2 Qf6 17.Qe3 Bd7 18.Bb5 Rae8 19.f4 a6 20.Bxc6 Bxc6 21.Rf2 Rc8 22.Re1 Bd7 23.Nc3 Rc4 24.Rd1 Rfc8 25.f5 b5 26.Re1 Qxd4 27.Qxd4 Rxd4 28.fxe6 Be8 29.Re5 h6 30.h3 Bc6 31.e7 Re8 32.Re6 Bd7 33.Rd6 Rxe7 34.Nxd5 Re1+ 35.Kh2 Red1 36.Ne7+ Kh7 37.Rxa6 R1d2 38.Rxd2 Rxd2 39.b3 b4 40.Rb6 Rxa2 41.Rxb4 Rb2 42.Rd4 Bb5 43.b4 Bf1 44.Rg4 Be2 45.Rf4 Bh5 46.Nc6 g5 47.Rf1 Bg6 48.Re1 Bf7 49.Re5 Bc4 50.Re7+ Kg8 51.Re8+ Kg7 52.Re7+ Kf6 53.Re8 Bd5 54.Ne7 Ke5 0-1

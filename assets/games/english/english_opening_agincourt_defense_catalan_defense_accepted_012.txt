@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-6-game-1/TspUZRQ3/Lq5e5CPQ"]
+[Date "2026.07.06"]
+[Round "11.1"]
+[White "Diachek, Andrii"]
+[Black "Chiszko, Oskar"]
+[Result "1/2-1/2"]
+[WhiteElo "2350"]
+[BlackElo "2304"]
+[ECO "A13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6 7.Qc2 c5 8.O-O b5 9.Nd4 Nd5 10.Nb3 Bb7 11.d3 Be7 12.Nc3 Nb4 13.Qd1 Bxg2 14.Kxg2 O-O 15.Bd2 Qb6 16.Rc1 Rac8 17.a3 Nc6 18.Be3 Qb7 19.Kg1 Nce5 20.Bf4 Ng6 21.Be3 Nge5 22.Bf4 Ng6 23.Be3 f5 24.f4 Kh8 1/2-1/2

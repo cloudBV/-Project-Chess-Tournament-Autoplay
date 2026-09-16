@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.24"]
+[Round "1.2"]
+[White "Yan, Tianqi"]
+[Black "Li, Di"]
+[Result "0-1"]
+[WhiteElo "2197"]
+[BlackElo "2465"]
+[ECO "C00"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "French Defense: St. George Defense"]
+
+1.e4 e6 2.d4 a6 3.Nf3 d5 4.Nbd2 Nf6 5.Bd3 c5 6.exd5 exd5 7.O-O c4 8.Re1+ Be7 9.Bf1 O-O 10.Ne5 Nc6 11.Ndf3 Bf5 12.b3 Nb4 13.Re2 Ne4 14.Bb2 c3 15.Ba3 a5 16.Bc1 f6 17.Nd3 Nxd3 18.cxd3 Nd6 19.Qe1 Rf7 20.Qxc3 Bg4 21.Bf4 Bxf3 22.gxf3 Nb5 23.Qb2 Ba3 24.Qd2 Nxd4 25.Re3 Bb4 26.Qd1 Rc8 27.Bh3 f5 28.Be5 Qh4 29.f4 Ne6 30.Qf3 Bc5 31.Re2 Bd4 32.Rae1 Bxe5 33.Rxe5 Nxf4 34.Bxf5 Rcf8 35.Qg4 Qh6 36.Be6 Nxe6 37.Rxe6 Qd2 38.Qe2 Qg5+ 39.Kf1 Qh4 40.Re8 Rxf2+ 41.Kg1 Rxe2 0-1

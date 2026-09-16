@@ -1,0 +1,14 @@
+[Event "Round 5: Papadogiannis, Sevastianos - Spyratos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/UMiVPkrb"]
+[Date "2026.07.08"]
+[Round "5.63"]
+[White "Papadogiannis, Sevastianos"]
+[Black "Spyratos, Nikolaos"]
+[Result "0-1"]
+[WhiteElo "2248"]
+[BlackElo "2200"]
+[ECO "A17"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Hedgehog System"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.e3 Bd6 5.g4 h6 6.h4 b6 7.Rg1 Bb7 8.g5 hxg5 9.hxg5 Ne4 10.cxd5 Nxc3 11.bxc3 exd5 12.g6 f6 13.Nd4 Qd7 14.Bd3 c6 15.Bf5 Qe7 16.Be6 Kd8 17.Qg4 Kc7 18.c4 dxc4 19.Bxc4 Bc8 20.Qf3 Rh3 21.Qe2 Be5 22.Bb2 Bxd4 23.Bxd4 Nd7 24.Rc1 Bb7 25.Qg4 Rah8 26.Be6 R3h4 27.Qg3+ Qd6 28.Qxd6+ Kxd6 29.Bxd7 Kxd7 30.Ke2 c5 31.Bb2 Bd5 32.a3 Ke6 33.d3 Rh3 34.e4 Bc6 35.Rg2 Bb5 36.f3 Rh2 37.Rg1 Rxg2+ 38.Rxg2 Rd8 39.Rh2 Rxd3 40.Ke1 Rxf3 41.Rh7 c4 42.Kd2 Rd3+ 43.Kc2 Ba4+ 44.Kb1 c3 45.Bc1 Rd7 46.Rh3 Bc6 47.Rxc3 Bxe4+ 48.Kb2 Bxg6 49.a4 Be4 50.Re3 Kf5 51.Re1 Rd3 52.Be3 g5 53.a5 bxa5 54.Bxa7 a4 55.Bc5 Rb3+ 56.Ka2 g4 57.Bd4 g3 58.Bxf6 Bb1+ 59.Ka1 Kxf6 60.Re6+ Kg5 61.Rg6+ Bxg6 0-1

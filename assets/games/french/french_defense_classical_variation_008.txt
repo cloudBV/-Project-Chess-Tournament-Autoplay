@@ -1,0 +1,15 @@
+[Event "Round 7: Arshiya Das - Podolchenko, Evgeniy"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/uMl7d9wp"]
+[Date "2026.07.09"]
+[Round "7.16"]
+[White "Arshiya Das"]
+[Black "Podolchenko, Evgeniy"]
+[Result "0-1"]
+[WhiteElo "2188"]
+[BlackElo "2287"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.a3 Qd8 7.Nf3 c6 8.Qd2 Nd7 9.Qe3 Be7 10.O-O-O Nf6 11.Ne5 O-O 12.h4 c5 13.dxc5 Qc7 14.Nd3 b6 15.cxb6 axb6 16.e5 Ne4 17.Nxe4 dxe4 18.Qxe4 Bb7 19.Qg4 Rxa3 20.bxa3 Qc3 21.Qa4 Bxa3+ 22.Kb1 Bd5 23.Qb5 Rc8 24.Ne1 Ra8 25.Rh3 Ba2+ 26.Kxa2 Bc1+ 27.Qa6 Qb2# 0-1

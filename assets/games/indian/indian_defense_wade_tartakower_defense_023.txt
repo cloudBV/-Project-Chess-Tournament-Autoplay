@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.30"]
+[White "Pererva, Viktor"]
+[Black "Yelisieiev, Yevhenii"]
+[Result "1/2-1/2"]
+[WhiteElo "2152"]
+[BlackElo "2382"]
+[ECO "A46"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 d6 2.Nf3 Nf6 3.Bf4 Nbd7 4.Nbd2 Nh5 5.Bg5 h6 6.Bh4 g5 7.Bg3 Bg7 8.e3 Nxg3 9.hxg3 e5 10.dxe5 Nxe5 11.Nxe5 Bxe5 12.c3 Bg7 13.Be2 c6 14.Bg4 d5 15.Nb3 a5 16.Nd4 Bxg4 17.Qxg4 Qd7 18.Qxd7+ Kxd7 19.g4 Rae8 20.O-O-O Kc7 21.Nf5 Bf8 22.Rh5 Re6 23.Rdh1 Rg6 24.Kd2 b5 25.Kd3 c5 26.e4 c4+ 27.Kd4 dxe4 28.Kxe4 Kc6 29.Nd4+ Kb6 30.a4 bxa4 31.Kd5 Bg7 32.Kxc4 Rd6 33.f4 Rc8+ 34.Kd3 Rcd8 35.fxg5 Bxd4 36.cxd4 Rxd4+ 37.Kc2 hxg5 38.Rxg5 R8d6 39.Rf5 Rxg4 40.Rxf7 Rxg2+ 41.Kc1 Ka6 42.Rhf1 Rb6 43.R7f2 Rgg6 44.Rf3 Rge6 45.Kb1 Re2 46.Rf6 Rxb2+ 47.Ka1 Rc2 48.Rxb6+ Kxb6 49.Rf6+ Kb5 50.Rf5+ Kb4 51.Rf4+ Kb3 52.Rf3+ Rc3 53.Rxc3+ Kxc3 54.Ka2 1/2-1/2

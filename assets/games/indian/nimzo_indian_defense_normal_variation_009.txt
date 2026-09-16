@@ -1,0 +1,15 @@
+[Event "Round 4: Khanin, Semen - Nakamura, Hikaru"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-4/f0XzKzLN/dBzebmF1"]
+[Date "2026.07.04"]
+[Round "4.4"]
+[White "Khanin, Semen"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteElo "2456"]
+[BlackElo "2838"]
+[ECO "E47"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 d5 7.cxd5 cxd4 8.exd4 Nxd5 9.O-O Nc6 10.a3 Bd6 11.Re1 Bc7 12.Nxd5 exd5 13.Bf4 Bg4 14.Bxc7 Qxc7 15.Qd2 Rfe8 16.Nc3 Be6 17.Rad1 Rac8 18.h3 g6 19.Bb5 a6 20.Bxc6 Qxc6 21.Re5 f6 22.Re3 Bf7 23.Rde1 Rxe3 24.Rxe3 Rc7 25.Re2 Qd6 26.h4 Kg7 27.Qe3 b5 28.Re1 b4 29.axb4 Qxb4 30.h5 g5 31.Qg3 Re7 32.Rxe7 Qxe7 33.Qf3 Qe1+ 34.Kh2 Qd2 35.h6+ Kg6 36.Nxd5 Bxd5 37.Qxd5 Qxf2 38.Qd7 Kxh6 39.d5 Qf4+ 40.Kg1 g4 41.Qe6 g3 42.Qe2 Qd4+ 43.Kf1 Qxd5 44.Qxa6 Qd1# 0-1

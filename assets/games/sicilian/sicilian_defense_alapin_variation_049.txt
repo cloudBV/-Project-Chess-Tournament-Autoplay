@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.4"]
+[White "Setina, Vaclav"]
+[Black "Vykouk, Jan"]
+[Result "0-1"]
+[WhiteElo "2028"]
+[BlackElo "2426"]
+[ECO "B22"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.exd5 exd5 5.Nf3 Nf6 6.Bg5 Nc6 7.Be2 Be7 8.O-O Qb6 9.Qb3 Qxb3 10.axb3 cxd4 11.Nxd4 Nxd4 12.cxd4 h6 13.Bxf6 Bxf6 14.Nc3 Be6 15.Bf3 Bxd4 16.Nxd5 O-O-O 17.Nc3 Bxb3 18.Ra3 Be6 19.Ne2 Kb8 20.Nf4 Bxb2 21.Re3 Bc4 22.Rb1 Rd2 23.Re7 b5 24.Rb7+ Kc8 25.Rxa7 Rhd8 26.Re1 Bd4 27.Ra8+ Kc7 28.Re7+ Kd6 0-1

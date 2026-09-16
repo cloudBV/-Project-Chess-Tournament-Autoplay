@@ -1,0 +1,15 @@
+[Event "Round 2: Pal, Rohan - Damodaran, Patrick"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/RWjtkCEN"]
+[Date "2026.07.22"]
+[Round "2.15"]
+[White "Pal, Rohan"]
+[Black "Damodaran, Patrick"]
+[Result "0-1"]
+[WhiteElo "2145"]
+[BlackElo "2002"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Bxe4 7.Bxe4 c6 8.c3 Nf6 9.Bc2 Bd6 10.Qd3 Nbd7 11.Bd2 Qc7 12.g3 O-O-O 13.O-O h6 14.b4 e5 15.dxe5 Nxe5 16.Nxe5 Bxe5 17.Qe3 Kb8 18.f4 Bd6 19.c4 Rhe8 20.Qb3 Re2 21.Bc3 Qb6+ 22.c5 Bxc5+ 23.Rf2 Bxf2+ 24.Kf1 Bg1 25.Be1 Rxe1+ 0-1

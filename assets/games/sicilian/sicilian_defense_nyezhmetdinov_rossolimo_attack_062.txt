@@ -1,0 +1,14 @@
+[Event "Round 7: Papaioannou, Dimitrios - Stefanou, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/SAPTmpdA"]
+[Date "2026.07.10"]
+[Round "7.28"]
+[White "Papaioannou, Dimitrios"]
+[Black "Stefanou, Konstantinos"]
+[Result "1/2-1/2"]
+[WhiteElo "2348"]
+[BlackElo "2260"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 a6 6.Bf1 Nf6 7.c3 Bg4 8.h3 Bxf3 9.Qxf3 Rg8 10.Qd1 g5 11.g3 g4 12.h4 Ne5 13.Be2 c4 14.b3 Nd3 15.Bxd3 cxd3 16.Re3 Bh6 17.Rxd3 Nxe4 18.c4 Qb6 19.Qe2 Bg7 20.Nc3 Bxc3 21.dxc3 f5 22.Re3 Qc6 23.a4 Rb8 24.Ba3 Kf7 25.Rd1 Rbd8 26.Kh2 Rd7 27.Red3 Qb6 28.Re3 Qxb3 29.Bb4 Qxa4 30.Rd5 e6 31.Rxe4 fxe4 32.Qxe4 exd5 33.Qxd5+ Kf8 34.Bxd6+ Rxd6 35.Qxd6+ Kf7 36.Qd5+ Kf8 37.Qd6+ Kf7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Bocharov, Dmitry - Talgatov, Nazar"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/qssVa8f8"]
+[Date "2026.07.22"]
+[Round "2.9"]
+[White "Bocharov, Dmitry"]
+[Black "Talgatov, Nazar"]
+[Result "1-0"]
+[WhiteElo "2534"]
+[BlackElo "2365"]
+[ECO "A20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.d3 Nf6 3.Nf3 Nc6 4.a3 g6 5.b4 d6 6.Bb2 Bg7 7.Nbd2 O-O 8.g3 a6 9.Bg2 Be6 10.O-O Qc8 11.Re1 Bh3 12.Bh1 h6 13.Rc1 Re8 14.b5 axb5 15.cxb5 Nd8 16.Nc4 Qd7 17.a4 Ne6 18.Ba3 Ng4 19.e4 Kh7 20.Bg2 Bxg2 21.Kxg2 d5 22.exd5 Qxd5 23.h3 h5 24.Kg1 Nh6 25.Ncxe5 Nd4 26.Nxd4 Qxd4 27.Re4 Qd5 28.Nf3 Kg8 29.Qc2 Red8 30.Rce1 Nf5 31.Bc1 Nd6 32.R4e3 Nf5 33.Re4 Nd6 34.Rf4 g5 35.Nxg5 Qxg5 36.Rxf7 Qg6 37.Rxc7 Nf5 38.Qc4+ Kh8 39.Re6 Qh7 40.Bb2 Re8 41.Rxb7 Rf8 42.b6 Ra5 43.Qe4 Rg8 44.Rc7 Ra6 45.Rf7 Nh6 46.Qxh7+ Kxh7 47.Rxg7+ Rxg7 48.Bxg7 Kxg7 49.b7 1-0

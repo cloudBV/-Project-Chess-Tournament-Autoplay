@@ -1,0 +1,14 @@
+[Event "Round 1: Balzer, Lars - Tymoshenko, Ihor"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-1/C94apq0F/xfaXUvtX"]
+[Date "2026.07.17"]
+[Round "1.3"]
+[White "Balzer, Lars"]
+[Black "Tymoshenko, Ihor"]
+[Result "0-1"]
+[WhiteElo "2008"]
+[BlackElo "2306"]
+[ECO "B26"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 Rb8 7.Qd2 b5 8.f4 Nd4 9.Nd1 b4 10.c3 bxc3 11.bxc3 Nc6 12.Ne2 e6 13.O-O Nge7 14.Nf2 O-O 15.Rab1 Rxb1 16.Rxb1 Qa5 17.Qc2 Ba6 18.Bd2 c4 19.d4 d5 20.Ng4 dxe4 21.Bxe4 f5 22.Bxc6 Nxc6 23.Ne5 Qd5 24.Qa4 Nxe5 25.fxe5 Bb7 26.Rxb7 Qxb7 27.Qxc4 Qd7 28.Nf4 Re8 29.Bc1 Kf7 30.Ba3 Bh6 31.Bd6 Bxf4 32.gxf4 Rc8 33.Qd3 Qc6 34.Qh3 Kg8 35.Bb4 Qd5 36.a3 a5 37.Bd6 Qb3 38.Qh4 Qxc3 39.Bc5 Rb8 40.Qe7 Rb1+ 41.Kg2 Rb2+ 0-1

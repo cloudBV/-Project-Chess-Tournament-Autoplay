@@ -1,0 +1,15 @@
+[Event "Round 6: Frank, Adam - Nagly, Wojciech"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/RByVhmsC"]
+[Date "2026.07.19"]
+[Round "6.11"]
+[White "Frank, Adam"]
+[Black "Nagly, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2175"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O Nf8 12.Kb1 Be6 13.c4 Rc8 14.a3 b5 15.c5 Be7 16.Nc3 Bd5 17.Nxd5 Qxd5 18.Be4 Qd7 19.d5 g6 20.dxc6 Qc7 21.g3 f5 22.Bf4 Qa5 23.Bd5 Ne6 24.Bxe6 fxe6 25.Rd6 Kf7 26.Rhd1 g5 27.Qe2 Bxd6 28.Qxh5+ Kg7 29.Qxg5+ Kh7 30.Qh6+ Kg8 31.Qg6+ 1-0

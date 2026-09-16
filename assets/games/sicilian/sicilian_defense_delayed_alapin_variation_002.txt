@@ -1,0 +1,15 @@
+[Event "Round 6: Ughuzov, Ravan - Ibrahimli, Murad"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-6/X84BlxL7/hiiaWiQC"]
+[Date "2026.07.02"]
+[Round "6.5"]
+[White "Ughuzov, Ravan"]
+[Black "Ibrahimli, Murad"]
+[Result "0-1"]
+[WhiteElo "2238"]
+[BlackElo "2465"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 Qd8 7.Nc4 Be7 8.Bd3 O-O 9.dxc5 Bxc5 10.O-O Nc6 11.Qe2 Qc7 12.b4 Be7 13.b5 Nb8 14.Nce5 Nbd7 15.c4 Bd6 16.Bb2 Nc5 17.Bc2 Ne8 18.Rad1 f6 19.Nd3 e5 20.Nxc5 Bxc5 21.Qe4 g6 22.Qd5+ Rf7 23.h3 Ng7 24.Qd8+ Qxd8 25.Rxd8+ Rf8 26.Rxf8+ Kxf8 27.Be4 a6 28.a4 axb5 29.axb5 Be6 30.Ra1 Rxa1+ 31.Bxa1 Bxc4 32.Bxb7 Bxb5 33.g4 g5 34.h4 h6 35.hxg5 hxg5 36.Bc3 Ke7 37.Nd2 Be2 38.Bf3 Bxf3 39.Nxf3 Ne6 40.Nd2 Nf4 41.Kf1 Ke6 42.Ba5 Be7 43.Ne4 Kd5 44.Ng3 Ne6 45.Nf5 Bc5 46.Ng3 e4 47.Bc3 Bd4 48.Bb4 Nc5 49.Bxc5 Bxc5 50.Ke2 Bd6 51.Nf5 Bh2 52.f3 Ke5 53.fxe4 Kf4 54.Nh6 Bg1 55.Kf1 Bc5 56.Kg2 Bf8 57.Ng8 Ke5 58.Kf3 Ke6 0-1

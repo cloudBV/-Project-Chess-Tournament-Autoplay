@@ -1,0 +1,14 @@
+[Event "Round 6: Cave, Iwan - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-6/57HKUSKh/e9rW9gdE"]
+[Date "2026.07.10"]
+[Round "6.5"]
+[White "Cave, Iwan"]
+[Black "Badacsonyi, Stanley"]
+[Result "1-0"]
+[WhiteElo "2097"]
+[BlackElo "2312"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 Bb4 5.dxe5 Nxe4 6.Bd2 Nxc3 7.bxc3 Be7 8.Bd3 O-O 9.O-O f6 10.Re1 fxe5 11.Nxe5 Nxe5 12.Rxe5 g6 13.Bh6 Bf6 14.Bc4+ Kh8 15.Bxf8 Qxf8 16.Qe2 Qd6 17.Re8+ Kg7 18.Rg8+ Kh6 19.Qe3+ 1-0

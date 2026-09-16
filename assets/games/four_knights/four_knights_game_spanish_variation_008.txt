@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/5VYPEJMK"]
+[Date "2026.07.09"]
+[Round "-"]
+[White "Nurgaliyeva, Zarina"]
+[Black "Kiolbasa, Oliwia"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2322"]
+[ECO "C48"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.a3 O-O 6.d3 Nd4 7.Bc4 c6 8.Be3 Bc5 9.Nxe5 d5 10.Na4 Qa5+ 11.c3 Nc2+ 12.Qxc2 Bxe3 13.fxe3 dxc4 14.d4 Nxe4 15.Qxe4 Qxa4 16.O-O Be6 17.Rf2 Rae8 18.Qf4 f6 19.Nf3 Bd5 20.Nd2 f5 21.Qg5 Qb5 22.Rb1 g6 23.h4 Be4 24.Re1 Qd5 25.h5 Kg7 26.Rf4 Rf6 27.h6+ Kf7 28.g4 Ree6 29.gxf5 gxf5 30.Qg7+ Ke8 31.Qg8+ Kd7 32.Qxh7+ Re7 33.Nxe4 fxe4 34.Qh8 Qg5+ 35.Kf1 Rxf4+ 36.exf4 Qxf4+ 37.Ke2 e3 38.Qg8 Qf2+ 0-1

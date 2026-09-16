@@ -1,0 +1,15 @@
+[Event "Round 4: Jun, Rudolf - Haring, Filip"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/0wylWav6"]
+[Date "2026.07.18"]
+[Round "4.29"]
+[White "Jun, Rudolf"]
+[Black "Haring, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2303"]
+[BlackElo "2446"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 e6 7.a4 b6 8.b3 Bb7 9.Bb2 Be7 10.c3 Qc7 11.Bc2 Rc8 12.d3 d5 13.Nbd2 O-O 14.Rc1 Bd6 15.d4 dxe4 16.Nxe4 Bf4 17.Rb1 Nxe4 18.Bxe4 Bxe4 19.Rxe4 Nf6 20.Re1 cxd4 21.c4 Rcd8 22.Qd3 e5 23.g3 e4 24.Rxe4 Nxe4 25.Qxe4 Bh6 26.Nxd4 g6 27.Nc6 Rfe8 28.Qf3 Rd6 29.Nb4 Bg7 30.Nxa6 Qd7 31.Bxg7 Kxg7 1/2-1/2

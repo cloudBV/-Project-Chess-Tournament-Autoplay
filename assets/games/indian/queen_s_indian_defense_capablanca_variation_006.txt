@@ -1,0 +1,14 @@
+[Event "Round 9: Castro Lombana, Juan Pablo - Munoz Romero, Cristian Camilo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-9/eYIDhErh/qZ1gB2T6"]
+[Date "2026.07.12"]
+[Round "9.9"]
+[White "Castro Lombana, Juan Pablo"]
+[Black "Munoz Romero, Cristian Camilo"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2069"]
+[ECO "E16"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Nbd2 O-O 7.O-O Bxd2 8.Bxd2 d6 9.Rc1 Nbd7 10.Qc2 a5 11.Rfe1 Be4 12.Qb3 Qe7 13.Bf4 e5 14.dxe5 dxe5 15.Be3 Nc5 16.Qa3 Nfd7 17.Red1 Rfe8 18.b3 h6 19.Rd2 Qe6 20.Rcd1 Qc6 21.Qb2 Nf8 22.Bf1 Ng6 23.h4 f5 24.h5 Bxf3 25.exf3 Nf8 26.Bxc5 Qxc5 27.Rd5 Qe7 28.Re1 Nd7 29.Qc2 c6 30.Rdd1 e4 31.fxe4 fxe4 32.Bg2 Nc5 33.a3 Qg5 34.b4 axb4 35.axb4 Nd3 36.Rxe4 Nxb4 37.Qb3 c5 38.Rde1 Rxe4 39.Bxe4 Rf8 40.Bg6 Qd2 41.Qe3 Qxe3 42.Rxe3 Nc6 43.Re6 Na5 44.Be4 Rb8 45.Bd5 Kf8 46.Re5 b5 47.cxb5 Rxb5 48.Be4 Nb3 49.Bg6 Rb8 50.Rf5+ Kg8 51.Bf7+ Kh7 52.Bxb3 Rxb3 53.Rxc5 Ra3 54.Kg2 Rb3 55.f4 Kg8 56.Kh3 Kf7 57.Rc7+ Kf6 58.Kh4 Rb1 59.Rc6+ Kf7 60.Kg4 Ra1 61.Rc5 Ra3 62.Rc7+ Kf6 63.Rc8 Kf7 64.Kh4 Ra1 65.Rc2 Kf6 66.g4 Rh1+ 67.Kg3 Rg1+ 68.Kf3 Rf1+ 69.Rf2 Ra1 70.Rd2 Rf1+ 71.Ke4 Re1+ 72.Kf3 Rf1+ 73.Kg3 Rg1+ 74.Rg2 Ra1 75.Kh2 Rf1 76.Kg3 Ra1 77.Rd2 Rg1+ 78.Kf3 Rf1+ 79.Ke3 Re1+ 80.Kf2 Ra1 81.Rd6+ Kf7 82.Rd5 Rh1 83.Kf3 Ke6 84.Re5+ Kf6 85.Re3 Rg1 86.Ra3 Rf1+ 87.Ke4 Re1+ 88.Re3 Rg1 1/2-1/2

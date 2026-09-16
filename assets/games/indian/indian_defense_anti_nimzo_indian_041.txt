@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.12"]
+[White "Serra Pages, Jordi"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "0-1"]
+[WhiteElo "2181"]
+[BlackElo "2465"]
+[ECO "E10"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 h6 4.g3 Bb4+ 5.Bd2 Be7 6.Nc3 d5 7.Bg2 O-O 8.cxd5 exd5 9.O-O c6 10.Qc2 Bd6 11.Bf4 Bxf4 12.gxf4 Ne8 13.e3 Nd6 14.Ne5 Bf5 15.Qe2 f6 16.Nf3 g5 17.fxg5 hxg5 18.Nd2 Kg7 19.f3 Na6 20.e4 Bg6 21.a3 Qb6 22.Qd3 Rad8 23.b4 Rh8 24.h3 Nc7 25.Nb3 Ne6 26.Nc5 Nf4 27.Qe3 Nc4 28.Qf2 Bf7 29.Rae1 Qc7 30.e5 b6 31.exf6+ Kxf6 32.N5e4+ dxe4 33.fxe4 Kg7 34.e5 Qd7 35.Qg3 Qxd4+ 36.Kh2 Ne6 37.Re4 Qd3 38.Qxd3 Rxd3 39.Rxc4 Nf4 40.Rcxf4 gxf4 41.Ne4 Bd5 42.Rxf4 Rxa3 43.h4 Ra2 44.Kg3 Rh5 45.e6 Rxg2+ 46.Kxg2 Re5 0-1

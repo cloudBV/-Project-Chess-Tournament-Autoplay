@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/Bk308Pea"]
+[Date "2026.07.03"]
+[Round "7.6"]
+[White "Rekuc, Patryk"]
+[Black "Sriram, Jha"]
+[Result "1/2-1/2"]
+[WhiteElo "2216"]
+[BlackElo "2308"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.a4 O-O 7.O-O Bg4 8.h3 Bh5 9.Nd5 Nxd5 10.Bxd5 Nb4 11.Bb3 c5 12.g4 Bg6 13.c3 Nc6 14.Ne1 Bg5 15.Ng2 Bxc1 16.Rxc1 Kh8 17.Qe2 f6 18.Bd5 Bf7 19.Ne3 Bxd5 20.Nxd5 Ne7 21.Nxe7 1/2-1/2

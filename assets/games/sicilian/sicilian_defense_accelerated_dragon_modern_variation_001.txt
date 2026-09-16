@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-3/aTV140P1/X823A39r"]
+[Date "2026.07.01"]
+[Round "3.2"]
+[White "Herman Gamazo, Isaac"]
+[Black "Gonzalez Chapado, Dario"]
+[Result "1-0"]
+[WhiteElo "2264"]
+[BlackElo "2014"]
+[ECO "B34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bg7 6.Be3 Nf6 7.Nxc6 bxc6 8.e5 Ng8 9.f4 Nh6 10.Qf3 f6 11.O-O-O Nf5 12.e6 d5 13.Nxd5 cxd5 14.Rxd5 Qc7 15.Rxf5 Bb7 16.Bb5+ Kf8 17.Qe2 Qd6 18.Bc5 Qc7 19.Rd1 Rd8 20.Rd7 Rxd7 21.exd7 gxf5 22.Qxe7+ 1-0

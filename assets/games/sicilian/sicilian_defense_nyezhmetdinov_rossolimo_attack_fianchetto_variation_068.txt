@@ -1,0 +1,15 @@
+[Event "Round 4: Borischik, Sergey - Straka, Vojtech"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/PsNJ5Z1y"]
+[Date "2026.07.18"]
+[Round "4.18"]
+[White "Borischik, Sergey"]
+[Black "Straka, Vojtech"]
+[Result "1/2-1/2"]
+[WhiteElo "2202"]
+[BlackElo "2399"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.d3 d6 7.Nbd2 e5 8.Nc4 Ne7 9.a3 O-O 10.b4 cxb4 11.axb4 Qc7 12.Be3 Be6 13.Ng5 Bd7 14.f4 h6 15.fxe5 d5 16.Bc5 hxg5 17.Bxe7 dxc4 18.Bxf8 Bxf8 19.d4 Bxb4 20.Qf3 Be6 21.c3 g4 22.Qe3 Bf8 23.Ra6 Bc8 24.Ra4 a5 25.Rfa1 Be6 26.Kh1 Be7 27.Qd2 Qb7 28.Qa2 Bd8 29.Rb1 Qc8 30.Rd1 Qb7 31.Rb1 Qd7 32.Qa3 Be7 33.Qa2 Bd8 34.Qa3 Be7 35.Qa2 1/2-1/2

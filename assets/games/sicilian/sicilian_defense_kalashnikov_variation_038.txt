@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.23"]
+[White "Kovalskyi, Roman"]
+[Black "Prymula, Roman"]
+[Result "1-0"]
+[WhiteElo "2060"]
+[BlackElo "2176"]
+[ECO "B32"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be6 7.N1c3 a6 8.Na3 Nf6 9.Nc2 Be7 10.Be2 O-O 11.O-O Rc8 1-0

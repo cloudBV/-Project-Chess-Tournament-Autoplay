@@ -1,0 +1,15 @@
+[Event "Round 5: Nissinen, Niilo Man - Fedorenko, Ekaterina I."]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-5/YB9wEmpg/2heyftgD"]
+[Date "2026.07.17"]
+[Round "5.4"]
+[White "Nissinen, Niilo Man"]
+[Black "Fedorenko, Ekaterina I."]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2002"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 h5 8.a4 Qc7 9.Bg5 Nbd7 10.Nd2 b6 11.Bc4 Bb7 12.Qe2 Be7 13.f3 Ng8 14.Bxe7 Nxe7 15.Nf1 Nf6 16.Ne3 h4 17.Qf2 Qc5 18.Bb3 b5 19.axb5 axb5 20.Rxa8+ Bxa8 21.Ng4 Nxg4 22.hxg4 Bc6 23.O-O O-O 24.Ra1 Rb8 25.Ra6 Kf8 26.g5 g6 27.Nd5 Bxd5 28.Bxd5 Qxf2+ 29.Kxf2 Nxd5 30.exd5 Rc8 31.c3 Rc5 32.Rxd6 Ke7 33.Rb6 Rxd5 34.Ke3 Kd7 35.b4 Ke7 36.Ke4 Rd2 37.Kxe5 Rxg2 38.Rb7+ Ke8 39.Kf6 Rg3 40.f4 Rxc3 41.Rb8+ Kd7 42.Kxf7 Rc4 43.Rxb5 Rxf4+ 44.Kxg6 h3 45.Rb7+ Ke6 46.Rh7 Rf8 47.Rxh3 Rg8+ 48.Kh5 Kf5 49.Rf3+ Ke4 50.Rf7 Ke5 51.g6 Ke6 52.Kh6 Rb8 53.Rf4 Ke5 54.Rf1 1-0

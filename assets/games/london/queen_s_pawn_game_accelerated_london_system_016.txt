@@ -1,0 +1,15 @@
+[Event "Round 4: Sivakumar, Shaaketh - Vandan Alankar Sawai"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/RJtWsrSt"]
+[Date "2026.07.06"]
+[Round "4.14"]
+[White "Sivakumar, Shaaketh"]
+[Black "Vandan Alankar Sawai"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2113"]
+[ECO "D00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.Nf3 Nc6 5.Nbd2 e6 6.c3 Bd6 7.Bg3 Qe7 8.Ne5 Nd7 9.Nxc6 bxc6 10.Qa4 Bb7 11.Nb3 Bxg3 12.hxg3 e5 13.Na5 Nb6 14.Qa3 Rb8 15.Qxc5 Qxc5 16.dxc5 Na4 17.b4 Nxc3 18.f3 Ba8 19.Kd2 Nb5 20.Bxb5 Rxb5 21.Rab1 a6 22.e4 Ke7 23.a4 Rbb8 24.exd5 cxd5 25.b5 axb5 26.axb5 Rhc8 27.c6 Rb6 28.f4 Rcb8 29.Rhc1 f6 30.Rc5 Kd6 31.Rbc1 h6 32.Kd3 Rc8 33.Nb3 Rcb8 34.Nd2 Rc8 35.Nf1 Rcb8 36.R1c3 d4 37.R3c4 Rxb5 38.Rxb5 Rxb5 39.c7 Bb7 40.c8=Q Bxc8 41.Rxc8 Rb1 42.Nd2 Rg1 43.f5 Rxg2 44.Ne4+ Ke7 45.Ra8 Rg1 46.Kc4 d3 47.Kxd3 Rf1 48.Ra7+ Kf8 49.Ra8+ Ke7 50.Ra7+ Kf8 51.Nc5 Rf3+ 52.Ke4 Rxg3 53.Kd5 Kg8 54.Nd7 h5 55.Ke6 h4 56.Nf8 Rb3 57.Ra8 g6 58.Kxf6 1-0

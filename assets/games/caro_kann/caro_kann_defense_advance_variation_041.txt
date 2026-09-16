@@ -1,0 +1,15 @@
+[Event "Round 3: Dutre, Wonder - Plomp, Mateo"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-3/AI650Rh4/gINghaZC"]
+[Date "2026.07.18"]
+[Round "3.19"]
+[White "Dutre, Wonder"]
+[Black "Plomp, Mateo"]
+[Result "1/2-1/2"]
+[WhiteElo "2017"]
+[BlackElo "2156"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.Ne2 c5 7.c3 Nd7 8.Nd2 Ne7 9.O-O Nc6 10.Nf3 Be7 11.Be3 Rc8 12.Rfc1 O-O 13.Qd2 Qb6 14.Bg5 cxd4 15.cxd4 f6 16.exf6 Nxf6 17.Ng3 Bd6 18.Qe3 Rce8 19.Bxf6 Rxf6 20.Rd1 Re7 21.Rab1 Bf4 22.Qd3 g6 23.Ne2 Bb8 24.Nc3 Qc7 25.g3 a6 26.Rd2 Ba7 27.Re1 Kg7 28.Re3 Qd6 29.Kg2 h6 30.h4 b5 31.b3 Rf5 32.Nd1 Qd8 33.Qc3 Qd6 34.Rde2 Rxf3 35.Rxf3 Bxd4 36.Qd2 e5 37.Rd3 Qc5 38.b4 Qa7 39.Ne3 e4 40.Rb3 Rd7 41.Ng4 h5 42.Qh6+ Kf7 43.Qf4+ Kg7 44.Qh6+ Kf7 45.Qf4+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 6: Krush, Irina - Golenia, Jan"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/TggGDJug"]
+[Date "2026.07.22"]
+[Round "6.13"]
+[White "Krush, Irina"]
+[Black "Golenia, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2401"]
+[BlackElo "2276"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.h4 Bg7 6.h5 Nxc3 7.bxc3 c5 8.g3 Bd7 9.Bg2 Bc6 10.Qb3 Qd5 11.c4 Qd6 12.Bb2 e5 13.Qe3 Nd7 14.Rb1 O-O-O 15.h6 Bf6 16.O-O Rhe8 17.Ng5 Bxg2 18.Kxg2 Bxg5 19.Qxg5 Qc6+ 20.Kg1 f6 21.Qe3 e4 22.Qb3 Ne5 23.Bxe5 Rxe5 24.Rb2 Rh5 25.Rfb1 Rd7 26.Qe3 b6 27.a4 Re7 28.f3 Qxa4 29.d3 Qd7 30.dxe4 Qh3 31.Qf4 Qh2+ 32.Kf1 Rd7 33.Rb5 Qh3+ 34.Kf2 Qe6 35.g4 Re5 36.R5b2 Qd6 37.Kg2 f5 38.exf5 gxf5 39.g5 Rxe2+ 40.Kg3 Re5 41.Rd1 Qxd1 42.Qxe5 Qc1 43.Qe8+ Kc7 44.Qe5+ Kc8 1/2-1/2

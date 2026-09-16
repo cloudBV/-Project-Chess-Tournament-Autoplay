@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/0dqyv5eq"]
+[Date "2026.07.02"]
+[Round "6.22"]
+[White "Werblinski, Wojciech"]
+[Black "Bartodziej, Bartosz"]
+[Result "1/2-1/2"]
+[WhiteElo "2031"]
+[BlackElo "2311"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Anderssen Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qd7 9.Nxe4 Be7 10.Bg5 O-O 11.Bxe7 Qxe7 12.Nxd4 Bd7 13.Nb3 Rae8 14.Nc3 Qxe1+ 15.Qxe1 Rxe1+ 1/2-1/2

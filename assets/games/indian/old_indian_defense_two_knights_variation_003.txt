@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.2"]
+[White "Skotheim, Andreas"]
+[Black "Moen, Andreas G.R."]
+[Result "1-0"]
+[WhiteElo "2234"]
+[BlackElo "2279"]
+[ECO "A54"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 e4 5.Ng5 Qe7 6.f3 exf3 7.Nxf3 g6 8.e4 Bg7 9.Bd3 Bg4 10.Bg5 h6 11.Bh4 Nbd7 12.Nd5 Qd8 13.Ne3 Bxf3 14.Qxf3 c5 15.O-O O-O 16.Nd5 g5 17.Bg3 Nxd5 18.exd5 Bxd4+ 19.Kh1 Nf6 20.Rae1 Kg7 21.Bb1 Bxb2 22.Qd3 Re8 23.Rxe8 Qxe8 24.Bxd6 Qd7 25.Bxc5 b6 26.Bb4 Re8 27.Qd2 Be5 28.Qc2 Qg4 29.Qb3 Bd4 30.h3 Qe2 31.Rd1 a5 32.Bd6 Re3 33.Qc2 Qxc2 34.Bxc2 Be5 35.Bxe5 Rxe5 36.Ba4 Ne4 37.d6 Nf2+ 38.Kh2 Nxd1 39.d7 Nc3 40.Bc6 1-0

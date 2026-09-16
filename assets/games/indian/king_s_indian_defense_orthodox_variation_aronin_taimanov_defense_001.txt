@@ -1,0 +1,14 @@
+[Event "Round 4: Pavlidis, Anastasios - Megalios, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/xYbCnxJR"]
+[Date "2026.07.07"]
+[Round "4.22"]
+[White "Pavlidis, Anastasios"]
+[Black "Megalios, Konstantinos"]
+[Result "1/2-1/2"]
+[WhiteElo "2271"]
+[BlackElo "2385"]
+[ECO "E97"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Aronin-Taimanov Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Be3 Ng4 10.Bd2 f5 11.Ne1 Nf6 12.f3 f4 13.Nd3 g5 14.c5 Ng6 15.Rc1 Rf7 16.cxd6 cxd6 17.Nf2 h5 18.h3 Bf8 19.Nb5 a6 20.Na3 b5 21.Nc2 Rg7 22.Nb4 Nh4 23.Nc6 Qe8 24.Be1 Qg6 25.Rc3 Bd7 26.Ra3 Kh8 27.Nb4 Be7 28.Nc6 Rag8 29.Nxe7 Rxe7 30.Rxa6 Nxg2 31.Kxg2 Bxh3+ 32.Nxh3 g4 33.Bh4 gxf3+ 34.Kf2 Nxe4+ 35.Ke1 fxe2 36.Qxe2 Reg7 37.Nf2 Nc5 38.Rc6 e4 39.Rxc5 dxc5 40.Nxe4 Re8 41.Rxf4 Rf7 42.Rxf7 Rxe4 43.Bf6+ Kg8 44.Rg7+ Qxg7 45.Qxe4 Qxf6 46.Qe8+ Kg7 47.Qxh5 Qxb2 48.Qg4+ Kf8 49.Qc8+ Kg7 50.Qxc5 Qb1+ 1/2-1/2

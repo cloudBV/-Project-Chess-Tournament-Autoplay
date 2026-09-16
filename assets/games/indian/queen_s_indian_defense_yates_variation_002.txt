@@ -1,0 +1,14 @@
+[Event "Round 2: Jumabayev, Rinat - Xie, Felix"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/dnFcmQBs"]
+[Date "2026.07.19"]
+[Round "2.16"]
+[White "Jumabayev, Rinat"]
+[Black "Xie, Felix"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2389"]
+[ECO "E16"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Yates Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.g3 b6 6.Bg2 Bb7 7.O-O O-O 8.Bf4 Be7 9.Nc3 Ne4 10.Qc2 Nxc3 11.bxc3 f5 12.d5 Na6 13.Rad1 Qc8 14.Nd4 Nc5 15.dxe6 Bxg2 16.Kxg2 dxe6 17.Nb5 Qb7+ 18.f3 Rac8 19.Qc1 Rfe8 20.Be5 Bf6 21.Bxf6 gxf6 22.Qh6 Rf8 23.Rd4 Rce8 24.Rfd1 Qc8 25.Na7 Qb7 26.Nb5 Qc8 27.Na7 Qb7 28.Rd7 Nxd7 29.Rxd7 Rf7 30.Rxf7 Kxf7 31.Qxh7+ Kf8 32.Nb5 Re7 33.Qh8+ Kf7 34.Qh7+ Kf8 35.Qh8+ Kf7 36.Nd4 Qa6 37.Nc6 Re8 38.Qh7+ Kf8 39.Qh8+ Kf7 40.Qh5+ Kf8 41.Qh6+ Kf7 42.Qh5+ Kf8 43.Qg6 Qxc4 44.Qxf6+ Kg8 45.Ne5 Qxe2+ 46.Kh3 Re7 47.Qxe7 Qxe5 48.a4 Qh8+ 49.Kg2 Qe5 50.Kh3 Qh8+ 51.Kg2 Qe5 52.Kf2 Qd5 53.Qxc7 1/2-1/2

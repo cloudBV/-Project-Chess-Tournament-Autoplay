@@ -1,0 +1,14 @@
+[Event "Round 1: Gopal G.N. - Yasaswi Krishna Bommi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/mmIfgVDf"]
+[Date "2026.07.13"]
+[Round "1.7"]
+[White "Gopal G.N."]
+[Black "Yasaswi Krishna Bommi"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2085"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.a3 b5 8.Nxc6 Qxc6 9.Be2 Bb7 10.O-O Nf6 11.Bf3 e5 12.a4 Bc5 13.Re1 Bxe3 14.Rxe3 Qb6 15.Nd5 Nxd5 16.exd5 d6 17.Rb3 Rc8 18.axb5 axb5 19.Qd3 Rc5 20.c4 O-O 21.Rxb5 Rxb5 22.cxb5 f5 23.Be2 e4 24.Qe3 Qxe3 25.fxe3 Rc8 26.b3 Bxd5 27.Rd1 Bxb3 28.Rxd6 Rb8 29.Kf2 Kf7 30.h4 Ke7 31.Rd4 Ke6 32.Kg3 Rc8 33.b6 Rb8 34.Rb4 Bd5 35.Kf4 Bc6 36.Rb2 Kf6 37.Ba6 Bb7 38.Bxb7 Rxb7 39.g4 g6 40.gxf5 gxf5 41.Rb5 Ke6 42.Re5+ Kd7 43.Rxf5 Rxb6 44.Rf7+ Ke6 45.Rxh7 Rb4 46.Rh6+ Kf7 47.Rh5 Kg6 48.Re5 Rb1 49.h5+ Kf6 50.Ra5 Rb4 51.Ra7 Rb1 52.h6 Rh1 53.Kxe4 Rh5 54.Ra6+ Kf7 55.Kd4 Ke7 56.e4 Kf7 57.e5 Rh1 58.Rf6+ Ke7 59.Ke4 Re1+ 60.Kf5 Rf1+ 61.Kg6 Rg1+ 62.Kh7 Rg5 63.Rg6 Rxe5 64.Kg7 Kd7 65.h7 Re7+ 66.Kh6 1-0

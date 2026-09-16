@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.29"]
+[White "Rodriguez Garcia, Manuel Francisco"]
+[Black "Sanchez Aguilar, Arnau"]
+[Result "1/2-1/2"]
+[WhiteElo "2117"]
+[BlackElo "2229"]
+[ECO "A28"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 d5 5.cxd5 Nxd5 6.Bb5 Nxc3 7.bxc3 Bd6 8.d4 e4 9.Nd2 Qg5 10.Bf1 Qg6 11.g3 O-O 12.Bg2 Re8 13.Rb1 Nb8 14.Qc2 f5 15.Nc4 Nd7 16.Qb3 Kh8 17.Nxd6 cxd6 18.O-O d5 19.Qxd5 Nb6 20.Qa5 Qc6 21.Qb5 Bd7 22.Qxc6 Bxc6 23.f3 Rac8 24.fxe4 fxe4 25.Bh3 Rc7 26.Be6 h6 27.Bb3 Bd5 28.Bxd5 Nxd5 29.c4 Nc3 30.Rb3 Rxc4 31.Bd2 Nd5 32.Rxb7 Rc2 33.Rf2 Rxa2 34.Rb5 Nf6 35.h3 Rc8 36.g4 Nh7 37.Rc5 Rb8 38.Bc3 Rxf2 39.Kxf2 Ng5 40.d5 Rb7 41.d6 Nf7 42.Rc7 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 3: Pusara, Mihailo - Zlatkov, Anton"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/5boK0dVj"]
+[Date "2026.07.05"]
+[Round "3.32"]
+[White "Pusara, Mihailo"]
+[Black "Zlatkov, Anton"]
+[Result "0-1"]
+[WhiteElo "2167"]
+[BlackElo "2388"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nf6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Bb7 9.c4 Nb4 10.c5 Qb8 11.f4 Ba6 12.Bxa6 Nxa6 13.Qd4 Qb4+ 14.Qxb4 Nxb4 15.Ke2 Be7 16.Bd2 Nd5 17.g4 O-O 18.g5 Rfb8 19.b3 a5 20.Rab1 a4 21.b4 f6 22.gxf6 gxf6 23.Rhg1+ Kf7 24.a3 Rg8 25.Rg3 Rxg3 26.hxg3 fxe5 27.fxe5 Kg6 28.Nc3 Nxc3+ 29.Bxc3 Rf8 30.Rd1 Rd8 31.Rd4 h5 32.Kd3 Bg5 33.Kc4 Kf5 34.b5 Be3 35.Rd3 cxb5+ 36.Kxb5 Ke4 37.Rd1 Bf2 38.Ba5 Rc8 39.Bb6 Bxg3 40.Rxd7 h4 41.c6 h3 42.c7 h2 43.Rd1 Bxe5 44.Kc6 Kf3 45.Kd7 Bxc7 46.Rf1+ Kg2 47.Rf2+ Kg3 48.Rf1 Bxb6 49.Rf2 0-1

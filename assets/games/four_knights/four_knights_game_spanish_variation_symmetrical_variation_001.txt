@@ -1,0 +1,14 @@
+[Event "Round 8: Mantazis, Georgios Rafail - Mavridis, Emmanouil"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-8/oct1YwP0/rCRYDZS2"]
+[Date "2026.07.16"]
+[Round "8.7"]
+[White "Mantazis, Georgios Rafail"]
+[Black "Mavridis, Emmanouil"]
+[Result "1/2-1/2"]
+[WhiteElo "2134"]
+[BlackElo "2090"]
+[ECO "C49"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Symmetrical Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 h6 9.Bd2 Ne7 10.h3 Ng6 11.Re1 c6 12.Bc4 Re8 13.Bb3 Be6 14.Bxe6 Rxe6 15.Nh2 Re8 16.Ng4 Nxg4 17.Qxg4 d5 18.Rab1 b6 19.g3 dxe4 20.Rxe4 Qd5 21.c4 Qe6 22.Qh5 f5 23.Re2 Rf8 24.Rbe1 Qf7 25.Bc3 Rae8 26.Qf3 Qc7 27.Qh5 Qf7 28.Qf3 Qc7 29.Qh5 Qf7 1/2-1/2

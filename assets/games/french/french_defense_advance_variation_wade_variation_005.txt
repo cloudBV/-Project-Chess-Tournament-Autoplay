@@ -1,0 +1,14 @@
+[Event "Round 2: Bon, Michael - Allard Nedellec, Guilhem"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-2/vaQgyEpD/TdRhkAIJ"]
+[Date "2026.07.19"]
+[Round "2.7"]
+[White "Bon, Michael"]
+[Black "Allard Nedellec, Guilhem"]
+[Result "1-0"]
+[WhiteElo "2359"]
+[BlackElo "2131"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Wade Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 Qb6 6.Bd3 Bb5 7.dxc5 Bxc5 8.b4 Bxd3 9.Qxd3 Bf8 10.O-O Ne7 11.Na3 Nbc6 12.Be3 Qd8 13.Bc5 Ng6 14.Bxf8 Kxf8 15.Rfe1 h5 16.c4 h4 17.b5 Nce7 18.h3 Rh5 19.Rad1 Qb6 20.cxd5 Nxd5 21.Qe4 Rf5 22.Nc4 Qc5 23.Nd6 Rf4 24.Qd3 Kg8 25.Nxf7 Kxf7 26.Ng5+ Kg8 27.Qxg6 Qxf2+ 28.Kh1 Nc7 29.Qh7+ Kf8 30.Qh8+ Ke7 31.Qxg7+ 1-0

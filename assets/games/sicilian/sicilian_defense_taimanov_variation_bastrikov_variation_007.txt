@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-7/n9mydThe/cBXr8Kqc"]
+[Date "2026.07.01"]
+[Round "7.1"]
+[White "Dhruva Thota"]
+[Black "Korobov, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2397"]
+[BlackElo "2621"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O b5 8.Nxc6 dxc6 9.Be3 Nf6 10.f4 Be7 11.e5 Nd5 12.Nxd5 cxd5 13.Bd3 O-O 14.Qh5 g6 15.Qh6 f5 1/2-1/2

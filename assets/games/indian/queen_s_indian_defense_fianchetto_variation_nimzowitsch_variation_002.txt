@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.1"]
+[White "Park, Evan"]
+[Black "Belous, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2471"]
+[ECO "E15"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 c5 6.Bg2 Nc6 7.Qa4 Bb7 8.O-O cxd4 9.Nb3 d3 10.exd3 Nb4 11.Ne5 Bxg2 12.Kxg2 Qc7 13.Bd2 Qxe5 14.Bxb4 Qxb2 15.Bxf8 Kxf8 16.Qb4+ Kg8 17.Qd6 h5 18.h3 a5 19.Qxb6 a4 20.Qd4 Qxd4 21.Nxd4 Ra6 22.Rab1 Kh7 23.Nf3 Rha8 24.Ne5 d6 25.Nf3 1/2-1/2

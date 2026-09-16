@@ -1,0 +1,15 @@
+[Event "Round 7: Zakin, Ilay - Hermans, Ray"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-7/4AgyR3Qt/55AIBMxo"]
+[Date "2026.07.19"]
+[Round "7.9"]
+[White "Zakin, Ilay"]
+[Black "Hermans, Ray"]
+[Result "1/2-1/2"]
+[WhiteElo "2371"]
+[BlackElo "2005"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 Qc7 6.b3 e5 7.Bb2 Bd6 8.Nbd2 b5 9.O-O O-O 10.Nh4 g6 11.a4 a5 12.f4 Ng4 13.fxe5 Nxe5 14.h3 c4 15.bxc4 bxc4 16.d4 Bb4 17.c3 Nd3 18.cxb4 Nxb2 19.Qc2 Nd3 20.Nxc4 Nxb4 21.Qc3 Be6 22.Ne5 f5 23.exf5 gxf5 24.Rae1 Rae8 25.Rf3 f4 26.Rxf4 Rxf4 27.Qg3+ Qg7 28.Qxf4 Bxh3 29.Qh2 Nc2 30.Qxh3 Nxe1 31.Qb3+ Kf8 32.Qc3 Qa7 33.Kh1 Rxe5 34.dxe5 Qf2 35.Qc4 Nd3 36.Nf3 Nxe5 37.Qf4+ Nf7 38.Qc7 Qc5 39.Qc8+ Kg7 40.Qg4+ Kf8 41.Qc8+ Kg7 1/2-1/2

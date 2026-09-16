@@ -1,0 +1,15 @@
+[Event "Round 9: Alaverdyan, Gevorg - Poormosavi, Seyed Kian"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-9/FKixVmya/RaC2Uw74"]
+[Date "2026.07.14"]
+[Round "9.1"]
+[White "Alaverdyan, Gevorg"]
+[Black "Poormosavi, Seyed Kian"]
+[Result "1-0"]
+[WhiteElo "2266"]
+[BlackElo "2373"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 Nc6 4.Bg2 e5 5.O-O Nf6 6.c3 d6 7.d4 cxd4 8.cxd4 Bg4 9.d5 Nd4 10.Be3 Nxf3+ 11.Bxf3 h5 12.Nd2 Be7 13.Qb3 Qd7 14.Bg2 h4 15.Nc4 hxg3 16.Nb6 gxh2+ 17.Kh1 Qd8 18.Nxa8 Qxa8 19.Rfc1 Qb8 20.Rc2 Bd7 21.Rac1 Ng4 22.Bb6 Bg5 23.Rf1 Bb5 24.Rd1 Bd8 25.Qg3 Bxb6 26.Qxg4 O-O 27.Bf1 Bxf1 28.Rxf1 Qd8 29.f4 Qf6 30.Rxh2 Qg6 31.Qxg6 fxg6 32.Rg2 Rf6 33.f5 gxf5 34.exf5 Kf7 35.Rg3 Bc5 36.Kg2 Rh6 37.Rh3 Kf6 38.Kg3 Rxh3+ 39.Kxh3 Kg5 40.Rf3 b6 41.b3 Bd4 42.Kg2 e4 43.Rf1 Kf6 44.Kg3 Ke5 45.Kg4 Kxd5 46.Kf4 Be5+ 47.Ke3 Bc3 48.Rc1 Bb4 49.Rc7 Bc5+ 50.Kf4 Bd4 51.Re7 Be5+ 52.Ke3 a5 53.a3 Bd4+ 54.Kf4 Be5+ 55.Ke3 Bd4+ 56.Kf4 e3 57.Kf3 b5 58.Ke2 b4 59.a4 Kc5 60.Kd3 Kd5 61.Re4 Bc5 62.Re8 Bb6 63.Rb8 Bc5 64.Rb5 Ke5 65.Rxa5 Kxf5 66.Rb5 Ke5 67.a5 g5 68.a6 e2 69.Kxe2 Kd5 1-0

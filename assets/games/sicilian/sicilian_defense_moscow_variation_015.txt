@@ -1,0 +1,15 @@
+[Event "Round 8: Demirkan, Mustafa - Sahin, Ata Sarp"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/OPf3tWYN"]
+[Date "2026.07.04"]
+[Round "8.43"]
+[White "Demirkan, Mustafa"]
+[Black "Sahin, Ata Sarp"]
+[Result "1/2-1/2"]
+[WhiteElo "2286"]
+[BlackElo "2031"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.c4 Nf6 8.Nc3 e6 9.O-O Be7 10.a4 O-O 11.b3 Qa5 12.Ba3 Rfd8 13.Qd2 Qh5 14.e5 Ng4 15.Qe2 Bc6 16.h3 Nh6 17.Nd4 Qxe2 18.Ndxe2 Bf8 19.exd6 Bxd6 20.Bxd6 Rxd6 21.Rad1 Rad8 22.Rxd6 Rxd6 23.b4 b6 24.Rb1 Nf5 25.c5 bxc5 26.bxc5 Rd8 27.Rb6 Rc8 28.Rxa6 Kf8 29.Rb6 Be8 30.g4 Ne7 31.Ne4 Bxa4 32.Nd6 Ra8 33.Rb1 Bc6 34.Nd4 Bd5 35.Kh2 g6 36.g5 Kg7 37.f4 Kf8 38.Rb2 Nc6 39.Nxc6 Bxc6 40.Rc2 Ke7 41.Nc4 Rc8 42.Ne5 Bd5 43.Kg3 f6 44.Ng4 fxg5 45.fxg5 Be4 46.Rc3 Bf5 47.Ne5 Be4 48.Kf4 Bd5 49.Ng4 Bc6 50.Ra3 Rc7 51.Nf6 h5 52.Rc3 Ra7 53.Ke5 Ra1 54.Ng8+ Kf7 55.Kd6 Bd5 56.Ne7 Be4 57.c6 Rd1+ 58.Ke5 Kxe7 59.Kxe4 Re1+ 60.Kd4 Kd8 61.Re3 Rg1 62.Kc5 Kc7 63.Rxe6 Rxg5+ 64.Kd4 Rg3 65.h4 g5 66.Kd5 Rd3+ 67.Kc4 Rg3 68.Kd5 gxh4 69.Re7+ Kc8 70.Rh7 h3 71.Rxh5 Rf3 72.Kd6 Rd3+ 73.Kc5 Rc3+ 74.Kd4 1/2-1/2

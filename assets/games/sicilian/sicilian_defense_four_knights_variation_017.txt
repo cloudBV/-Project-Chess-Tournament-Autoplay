@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "18.4"]
+[White "Seemann, Pola"]
+[Black "Toroptseva, Yevheniia"]
+[Result "1-0"]
+[WhiteElo "2028"]
+[BlackElo "2092"]
+[ECO "B45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d5 7.Bb5 Bd7 8.exd5 exd5 9.Be2 Bc5 10.Nb3 Qb6 11.O-O Ne7 12.Bg5 Rc8 13.Bxf6 Qxf6 14.Nxd5 Nxd5 15.Qxd5 Be6 16.Qxb7 O-O 17.Nxc5 Rxc5 18.Bd3 Rh5 19.Qxa7 Qf4 20.g3 Qh6 21.Qe3 g5 22.h4 Bd5 23.Be2 gxh4 24.Bxh5 Qc6 25.Qg5+ Kh8 26.Qxh4 f6 27.Bg6 Bg8 28.Be4 Qb6 29.Rad1 f5 30.Bd5 Bxd5 31.Rxd5 Qg6 32.Rfd1 f4 33.Rg5 Qxc2 34.Rf1 fxg3 35.Qd4+ 1-0

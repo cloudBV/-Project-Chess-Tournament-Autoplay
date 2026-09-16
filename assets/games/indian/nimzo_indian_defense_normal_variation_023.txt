@@ -1,0 +1,14 @@
+[Event "Round 9: Djukic, Nikola - Sukovic, Andrej"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/mniaiq9n"]
+[Date "2026.07.11"]
+[Round "9.15"]
+[White "Djukic, Nikola"]
+[Black "Sukovic, Andrej"]
+[Result "1-0"]
+[WhiteElo "2470"]
+[BlackElo "2297"]
+[ECO "E47"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 d5 7.cxd5 cxd4 8.exd4 Nxd5 9.O-O Nc6 10.a3 Be7 11.Be4 Bf6 12.Qd3 g6 13.Bh6 Re8 14.Rfe1 Nde7 15.Rad1 Nf5 16.Bxc6 bxc6 17.Bf4 e5 18.dxe5 Qxd3 19.Rxd3 Ba6 20.Rdd1 Bxe5 21.Bxe5 Rxe5 22.Ng3 Rxe1+ 23.Rxe1 Nxg3 24.hxg3 c5 25.Ne4 c4 26.Rd1 Rb8 27.Rd2 Rb5 28.g4 Kg7 29.f3 h6 30.Kf2 Rb6 31.Ke3 Bc8 32.Kd4 Be6 33.Re2 Rc6 34.Nc5 Kf6 35.Nxe6 fxe6 36.Rc2 Kg5 37.g3 Rc7 38.Rxc4 e5+ 39.Kd5 Rf7 40.Ke4 h5 41.gxh5 Kxh5 42.Rc5 Kh6 43.Rxe5 Rc7 44.Ra5 Rd7 45.f4 Re7+ 46.Kf3 Rd7 47.Kg4 1-0

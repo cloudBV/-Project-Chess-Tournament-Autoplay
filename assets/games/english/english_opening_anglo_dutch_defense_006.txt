@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.13"]
+[Round "4.4"]
+[White "Sirius 3bedea6e"]
+[Black "4k.c 9.15.1"]
+[Result "1-0"]
+[WhiteElo "3452"]
+[BlackElo "3017"]
+[ECO "A10"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+
+1.c4 f5 2.g3 Nf6 3.Bg2 g6 4.Nc3 e5 5.d4 exd4 6.Qxd4 Nc6 7.Qe3+ Qe7 8.Nh3 Ne5 9.Nd5 Nxd5 10.cxd5 Nf7 11.Qc3 Qc5 12.Qd3 Ne5 13.Qd1 Qb4+ 14.Bd2 Qxb2 15.O-O Nc4 16.Bf4 Bg7 17.Rb1 Qxa2 18.d6 Nxd6 19.Bxd6 cxd6 20.Rb3 Qa6 21.Qd5 Rf8 22.Ng5 Bh6 23.h4 Ke7 24.Re3+ Kd8 25.Rc1 Qb6 26.Rb3 Qa6 27.Rbc3 Bxg5 28.hxg5 Re8 29.Re3 Re6 30.Qd4 Re5 31.Rxe5 dxe5 32.Qxe5 Qe6 33.Qc7+ Ke7 34.Rc3 a5 35.Qc5+ d6 36.Qc7+ Bd7 37.Bxb7 Rf8 38.Re3 Kf7 39.Rxe6 Kxe6 40.Qxa5 f4 41.gxf4 Ke7 42.Qc7 Ke8 43.Qxd6 Rf7 44.Bd5 Rf8 45.e4 h6 46.gxh6 g5 47.h7 g4 48.f5 g3 49.Qxf8+ Kxf8 50.f6 gxf2+ 51.Kxf2 Be6 52.Bxe6 Ke8 53.h8=Q# 1-0

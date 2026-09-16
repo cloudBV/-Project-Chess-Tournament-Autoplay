@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.18"]
+[Round "9.3"]
+[White "Oikonomopoulos, Filippos"]
+[Black "Townsend, M Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2258"]
+[BlackElo "2151"]
+[ECO "C07"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.exd5 exd5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.O-O Be7 9.dxc5 Nxc5 10.c3 O-O 11.Nb3 Re8 12.Bg5 Nce4 13.Bxf6 Bxf6 14.Qd3 Qd7 15.Rfe1 a5 16.Nbd4 Nc5 17.Qc2 b5 18.a3 Re4 19.Re2 Rae8 1/2-1/2

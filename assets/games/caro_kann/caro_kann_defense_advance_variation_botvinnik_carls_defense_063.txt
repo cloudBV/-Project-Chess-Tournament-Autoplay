@@ -1,0 +1,14 @@
+[Event "Round 1: Vyval, Volodymyr - Vavulin, Maxim"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/cooFnJa2"]
+[Date "2026.07.07"]
+[Round "1.2"]
+[White "Vyval, Volodymyr"]
+[Black "Vavulin, Maxim"]
+[Result "0-1"]
+[WhiteElo "2300"]
+[BlackElo "2537"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Nd7 6.Nf3 Bxc5 7.Bd3 Ne7 8.O-O Nc6 9.b4 Be7 10.Bb2 g5 11.Re1 h5 12.Nbd2 g4 13.Nd4 Ncxe5 14.Bb5 O-O 15.Nf1 Ng6 16.Rxe6 Nde5 17.Rxe7 Qxe7 18.Qd2 Qf6 19.Re1 h4 20.Ne3 Qg5 21.Ne2 Be6 22.Qd4 h3 23.Bd3 hxg2 24.Kxg2 Nh4+ 25.Kf1 Nhf3 26.Qc5 Rfc8 27.Qa5 b6 28.Qb5 Bd7 29.Qa6 Nxh2+ 30.Kg2 Qh6 31.Ng1 Nef3 32.Nxd5 Nxe1+ 0-1

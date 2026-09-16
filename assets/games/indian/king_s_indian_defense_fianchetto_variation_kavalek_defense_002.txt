@@ -1,0 +1,15 @@
+[Event "Round 5: Kitze, Alexander - Ghyselen, Wouter"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-5/GNSlVflY/YIO54GZ1"]
+[Date "2026.07.20"]
+[Round "5.11"]
+[White "Kitze, Alexander"]
+[Black "Ghyselen, Wouter"]
+[Result "1-0"]
+[WhiteElo "2269"]
+[BlackElo "2151"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Kavalek Defense"]
+
+1.Nf3 d6 2.d4 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 c6 7.Nc3 Qa5 8.h3 Qh5 9.g4 Qa5 10.e4 e5 11.Be3 Nbd7 12.Qe2 a6 13.a3 exd4 14.Nxd4 Re8 15.b4 Qd8 16.Rac1 d5 17.cxd5 cxd5 18.exd5 Nb6 19.Rfd1 h5 20.Nc6 bxc6 21.dxc6 Qc7 22.g5 Bg4 23.f3 Nh7 24.fxg4 Qg3 25.Bf2 Qc7 26.Qd2 hxg4 27.hxg4 Be5 28.Ne4 Bf4 29.Be3 Nd5 30.Bxf4 Nxf4 31.Rf1 Nxg2 32.Qxg2 Rxe4 33.Qxe4 Nxg5 34.Qe3 Rd8 35.Rc2 Rd5 36.Re2 Qxc6 37.Qe8+ Qxe8 38.Rxe8+ Kg7 39.Ra8 Rd4 40.Rxa6 Rxg4+ 41.Kf2 f5 42.b5 Ne4+ 43.Ke3 Nc5 44.Ra7+ Kf6 45.Rf4 Rg3+ 46.Ke2 Rb3 47.Rb4 Rxb4 48.axb4 Ne6 49.b6 Ke5 50.Re7 Kd6 51.Rxe6+ Kxe6 52.b7 Kd7 53.b8=Q 1-0

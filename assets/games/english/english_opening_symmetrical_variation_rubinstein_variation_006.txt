@@ -1,0 +1,15 @@
+[Event "Round 3: Sherla Prathamesh - Rosh Jain"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-3/oM2V3IIP/O8I1tE46"]
+[Date "2026.07.18"]
+[Round "3.10"]
+[White "Sherla Prathamesh"]
+[Black "Rosh Jain"]
+[Result "0-1"]
+[WhiteElo "2202"]
+[BlackElo "2331"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nc7 7.O-O e5 8.a3 Rb8 9.Rb1 f6 10.d3 Be7 11.Nd2 Bd7 12.b4 cxb4 13.axb4 b5 14.Qb3 Nxb4 15.Ba3 Be6 16.Qb2 a5 17.Bxb4 Bxb4 18.Na2 Bxd2 19.Qxd2 b4 20.Bc6+ Kf7 21.Rfc1 Qd6 22.f4 exf4 23.gxf4 b3 24.f5 Bxf5 25.Qxa5 bxa2 26.Rxb8 Rg8 27.Rd8 Rxd8 28.Qa4 Rb8 29.Qxa2+ Kf8 30.Qa7 Ne6 31.e4 Rb2 32.Qa8+ Nd8 33.e5 Qxd3 34.Rf1 0-1

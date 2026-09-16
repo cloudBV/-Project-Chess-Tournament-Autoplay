@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.18"]
+[White "Sharnarthi Shlok"]
+[Black "Garcia Ramos, Daniel"]
+[Result "0-1"]
+[WhiteElo "2134"]
+[BlackElo "2443"]
+[ECO "B30"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.a4 a6 5.Bc4 Nf6 6.O-O d5 7.exd5 exd5 8.Ba2 Be7 9.d3 h6 10.h3 d4 11.Ne2 O-O 12.Bf4 Nd5 13.Re1 Be6 14.Bg3 Bf6 15.Bxd5 Bxd5 16.Nf4 Qd7 17.Nh5 Be7 18.Ne5 Nxe5 19.Bxe5 f6 20.Qg4 Qxg4 21.hxg4 Rfe8 22.Bf4 Kf7 23.Ng3 Bf8 24.Nf5 Rxe1+ 25.Rxe1 Rd8 26.b3 Be6 27.f3 h5 28.Re4 hxg4 29.fxg4 Rd5 30.Kf2 g6 31.Ng3 Bxg4 32.Re1 Bd7 33.Bd2 Bc6 34.Rh1 Rd7 35.Rh7+ Ke6 36.Rh8 Be7 37.Ne2 Kf7 38.Nf4 g5 39.Nh5 Kg6 40.Ba5 f5 41.Ng3 f4 42.Ne2 Rd6 43.Bd2 Rd8 44.Rxd8 Bxd8 45.Bc1 Kf5 46.Ba3 Bb6 47.Bc1 Ba7 48.Bd2 b5 49.axb5 axb5 50.Bc1 Bd5 51.Bb2 b4 52.Bc1 Bb8 53.Bd2 g4 54.Ng1 g3+ 55.Kf1 Kg4 56.Bc1 f3 57.Bh6 Bf4 0-1

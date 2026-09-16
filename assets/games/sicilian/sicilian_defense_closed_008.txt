@@ -1,0 +1,14 @@
+[Event "Round 8: Garde, Guillaume - Relange, Eloi"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-8/ANrC0L7O/IqrVRdPk"]
+[Date "2026.07.02"]
+[Round "8.8"]
+[White "Garde, Guillaume"]
+[Black "Relange, Eloi"]
+[Result "0-1"]
+[WhiteElo "2182"]
+[BlackElo "2430"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.Nge2 a6 4.g3 b5 5.Bg2 Bb7 6.O-O Nf6 7.d3 d6 8.f4 Nc6 9.f5 b4 10.Nb1 e5 11.h3 Be7 12.Be3 a5 13.Nd2 h6 14.a3 Nd4 15.c3 Nc6 16.g4 Nh7 17.Nf3 Ng5 18.Ne1 Rb8 19.axb4 axb4 20.d4 cxd4 21.cxd4 exd4 22.Nxd4 Nxd4 23.Qxd4 O-O 24.Nd3 Bf6 25.Qc4 Re8 26.Nxb4 Bxe4 27.Bxg5 Qb6+ 28.Kh2 Bxg2 29.Kxg2 hxg5 30.Nd3 Qb7+ 31.Kg1 Rbc8 32.Qb4 Qd5 33.Nf2 Bd4 34.Qd2 Re3 35.Ra3 Rxa3 36.bxa3 Rc3 37.Rd1 Rg3+ 38.Kf1 Qg2+ 39.Ke1 Qg1+ 40.Ke2 Qxf2# 0-1

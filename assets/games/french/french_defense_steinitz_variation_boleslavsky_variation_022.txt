@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.12"]
+[White "Musial, Igor"]
+[Black "Panda, Barnabas"]
+[Result "1-0"]
+[WhiteElo "2209"]
+[BlackElo "2060"]
+[ECO "C11"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6 9.a3 Bc5 10.Ncb5 a6 11.b4 axb5 12.bxc5 Qxc5 13.Qd3 Nxd4 14.Bxd4 Qc6 15.Qb3 O-O 16.Bxb5 Qc7 17.O-O Nc5 18.Qc3 b6 19.a4 Ra5 20.Rfb1 Bb7 21.Bd3 Rfa8 22.Qb4 Rxa4 23.Rxa4 Rxa4 24.Qb5 Bc6 25.Qxb6 Qxb6 26.Rxb6 Nd7 27.Rxc6 Rxd4 28.Rc8+ Nf8 29.g3 g6 30.Kf2 Kg7 31.Rc7 Rb4 32.Ke3 h6 33.Kd2 Rb6 34.Ke3 Rb4 35.Kd2 Rb6 36.Kc3 Rb8 37.Kd4 Rd8 38.Bb5 g5 39.Bd3 Rd7 40.Rc6 f5 41.Kc5 gxf4 42.gxf4 Kf7 43.Kd4 Ke7 44.Rc8 Rb7 45.Ke3 Ng6 46.c3 Rb2 47.Rc7+ Kf8 48.Rc8+ Kf7 49.Rc7+ Ne7 50.Be2 Ke8 51.Ra7 Rb3 52.Kd2 Rb2+ 53.Kd3 Rb6 54.Kd4 Rb1 55.Bh5+ Kf8 56.Ra8+ Kg7 57.Re8 Rb7 58.Kc5 Ng6 59.Bxg6 Kxg6 60.Rxe6+ Kh5 61.h3 Rc7+ 62.Kxd5 Rxc3 63.Rf6 Rxh3 64.Rxf5+ Kg4 65.Rf8 h5 66.f5 Re3 67.e6 h4 68.f6 h3 69.Rg8+ 1-0

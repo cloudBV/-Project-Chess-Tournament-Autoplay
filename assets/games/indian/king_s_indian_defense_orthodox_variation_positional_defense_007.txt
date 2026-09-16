@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.17"]
+[Round "3"]
+[White "Hutinovic, Halim"]
+[Black "Hadzovic, Amir"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2374"]
+[ECO "E94"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Nbd7 7.O-O e5 8.Bg5 h6 9.Bxf6 Qxf6 10.Nd5 Qd8 11.dxe5 dxe5 12.Qc2 c6 13.Ne3 Qe7 14.Rac1 h5 15.c5 Bh6 16.b4 Nf6 17.Rcd1 Bg4 18.Nc4 Bxf3 19.Bxf3 Nh7 20.Qc3 Bg7 21.Rd6 Ng5 22.Rfd1 Rad8 23.Qd3 Ne6 24.g3 Nd4 25.Bg2 Kh7 26.Rxd8 Rxd8 27.Nd6 b5 28.a4 a6 29.Bh3 Qf6 30.Kg2 Bf8 31.axb5 axb5 32.Nb7 Ra8 33.f4 Ra2+ 34.Rd2 Rxd2+ 35.Qxd2 Bh6 36.Nd6 exf4 37.Qa2 Kg8 38.e5 f3+ 39.Kf2 Qxe5 40.Qxf7+ Kh8 41.Qf8+ Bxf8 42.Nf7+ Kg7 43.Nxe5 Kf6 44.Nd3 g5 45.Ke3 Nc2+ 46.Kd2 g4 47.Kxc2 gxh3 48.Nf2 Ke5 49.Kd3 Bh6 50.Nxh3 Bc1 51.Nf2 Kf5 52.h3 Ke5 53.Nd1 Bh6 54.Nf2 Bg5 55.Ne4 Bh6 56.Nf2 Bc1 57.Nd1 Bg5 58.Nf2 1/2-1/2

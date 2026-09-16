@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "5.2"]
+[White "Petrovskiy, Vadym"]
+[Black "Iniyan, Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2469"]
+[BlackElo "2581"]
+[ECO "A50"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Slav Indian"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.cxd5 cxd5 5.Bf4 Nc6 6.e3 Bf5 7.Nf3 e6 8.Bd3 Bxd3 9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rac1 Rac8 13.a3 Na5 14.Rc2 Qb6 15.Rfc1 Nc4 16.Na4 Qa5 17.b3 Nd6 18.Rxc8 Rxc8 19.Rxc8+ Nxc8 20.Qc3 Qxc3 21.Nxc3 Kf8 22.Kf1 Ke7 23.Ke2 Nd6 24.Ne5 g5 25.g4 h5 26.h3 hxg4 27.hxg4 Nfe4 28.Nxe4 dxe4 29.a4 f6 30.Nc4 f5 31.Nxd6 Kxd6 32.gxf5 exf5 33.Kf1 Kc6 34.Kg2 b5 35.axb5+ Kxb5 36.Kh2 a5 37.Kg2 Kb4 38.Kh2 Kb5 39.Kg2 Kc6 40.Kg3 Kd5 41.Kh3 Ke6 42.Kg3 Kf6 43.Kh3 Kg6 44.Kg3 Kh5 45.Kh3 f4 46.d5 fxe3 47.fxe3 Kg6 48.Kg4 Kf6 49.d6 Ke6 50.Kxg5 Kxd6 51.Kf5 Kd5 52.Kf4 Kc5 53.Kxe4 Kb4 54.Kf5 Kxb3 55.e4 a4 56.e5 a3 57.e6 a2 58.e7 a1=Q 59.e8=Q Qf1+ 60.Ke6 Qe2+ 61.Kd7 Qxe8+ 62.Kxe8 1/2-1/2

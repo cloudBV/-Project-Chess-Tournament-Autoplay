@@ -1,0 +1,15 @@
+[Event "Round 2: Martinez Duany, Lelys Stanley - Luque Saiz, Andres"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/YBZUuexb"]
+[Date "2026.07.05"]
+[Round "2.5"]
+[White "Martinez Duany, Lelys Stanley"]
+[Black "Luque Saiz, Andres"]
+[Result "1-0"]
+[WhiteElo "2438"]
+[BlackElo "2371"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 d5 4.Nb3 Bg7 5.Bf4 a5 6.a4 O-O 7.h3 b6 8.e3 Nc6 9.Bb5 Bb7 10.O-O Rc8 11.Qe2 Ne4 12.c3 Nd6 13.Nbd2 Qe8 14.Bxd6 cxd6 15.Rfc1 Qd8 16.Ba6 Qc7 17.b4 e6 18.Bxb7 Qxb7 19.Rab1 Rc7 20.Qb5 Rb8 21.Nb3 Qc8 22.Nfd2 Ne7 23.Qd3 Ra8 24.b5 Rc4 25.Ra1 Ra7 26.Qc2 Rcc7 27.Qb2 e5 28.Qa3 Qe6 29.Ra2 Ra8 30.Rac2 Rac8 31.Nf3 e4 32.Nh2 f5 33.Nd2 f4 34.Qb3 Bh6 35.Ng4 Bg5 36.c4 dxc4 37.Rxc4 Rxc4 38.Rxc4 Rxc4 39.Qxc4 d5 40.Qc3 Nf5 41.Nf1 f3 42.gxf3 Nh4 43.f4 h5 44.Qc6 Nf3+ 45.Kh1 Qxc6 46.bxc6 Bd8 47.Nf6+ Kf7 48.Nxd5 b5 49.axb5 a4 50.b6 a3 51.c7 Bxc7 52.bxc7 a2 53.c8=Q a1=Q 54.Qd7+ 1-0

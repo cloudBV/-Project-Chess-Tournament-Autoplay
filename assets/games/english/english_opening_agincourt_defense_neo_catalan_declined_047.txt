@@ -1,0 +1,14 @@
+[Event "Round 7: Fava, Lorenzo - Rami,Talab"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-7/YUCfcxoi/lX1JpJOC"]
+[Date "2026.07.11"]
+[Round "7.2"]
+[White "Fava, Lorenzo"]
+[Black "Rami,Talab"]
+[Result "1/2-1/2"]
+[WhiteElo "2343"]
+[BlackElo "2286"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.d4 dxc4 9.bxc4 c5 10.e3 Qc7 11.Qe2 Nbd7 12.Nbd2 Rfd8 13.Rac1 Rac8 14.Rfd1 Qb8 15.Nh4 Bxg2 16.Nxg2 Qb7 17.Nf4 cxd4 18.exd4 Bd6 19.Nd3 Bb8 20.Nf3 Qa6 21.Ba1 Qa4 22.Nde5 h6 23.Kg2 Bxe5 24.dxe5 Nh7 25.Rd6 Nhf8 26.Nd4 Rc5 27.Nb3 Rc7 28.c5 Rdc8 29.Rc4 Qb5 30.Nd4 Qa6 31.Nb3 Nxc5 32.Nxc5 Rxc5 33.Rxc5 Qb7+ 34.Rcd5 Rc5 35.Qf3 Rxd5 36.Rd8 Qe7 37.Rxd5 exd5 38.Qxd5 Qe6 39.Qxe6 fxe6 40.f4 h5 41.Kf3 Kf7 42.Ke4 Nd7 43.Bd4 g6 1/2-1/2

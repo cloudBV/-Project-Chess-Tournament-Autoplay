@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/fdNjEgl4"]
+[Date "2026.07.13"]
+[Round "1.20"]
+[White "Cordeiro, Joao Carlos"]
+[Black "Sarabando, Rodrigo Andias"]
+[Result "0-1"]
+[WhiteElo "2099"]
+[BlackElo "2101"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Dzindzi-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 a6 4.g3 b5 5.b3 Bb7 6.Bg2 c5 7.cxb5 axb5 8.O-O cxd4 9.Bb2 Be7 10.Qxd4 O-O 11.Nc3 Nc6 12.Qd1 Qb6 13.e4 d6 14.h3 Rac8 15.Kh2 Rfd8 16.Qe2 Ba6 17.Rfe1 Nd7 18.Nd1 b4 19.Qd2 Nde5 20.Bxe5 dxe5 21.Qb2 Nd4 22.Ne3 Nxf3+ 23.Bxf3 Bc5 24.Rad1 Bd4 25.Qb1 Rc3 26.Bg2 Rdc8 27.Rd2 Bxe3 28.fxe3 Rxe3 29.Rxe3 Qxe3 30.Qd1 g6 31.Rd8+ Kg7 32.Rxc8 Bxc8 33.Qd6 Qd4 34.Qc7 Ba6 35.Qa5 Bd3 36.Qa8 Qb2 37.Kh1 Bb1 38.Qa5 Qd4 39.Qa8 Qa1 40.Kh2 Qxa2 41.Qb8 Qa5 42.h4 h6 43.Qc8 Qb6 44.Qc1 Bd3 45.Qd2 Qd4 46.Qe1 Bc2 0-1

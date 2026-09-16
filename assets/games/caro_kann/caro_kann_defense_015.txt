@@ -1,0 +1,14 @@
+[Event "Round 6: Lumsdon, Andrew - Gireada, Daniel"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/jHnxSlLt"]
+[Date "2026.07.18"]
+[Round "6.23"]
+[White "Lumsdon, Andrew"]
+[Black "Gireada, Daniel"]
+[Result "0-1"]
+[WhiteElo "2033"]
+[BlackElo "2255"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.f4 d5 3.e5 Bf5 4.d3 e6 5.Nf3 c5 6.c3 Nc6 7.Be2 Be7 8.O-O h6 9.Na3 g5 10.Nc2 d4 11.c4 g4 12.Nd2 h5 13.Ne4 f6 14.exf6 Nxf6 15.Ng5 Nh7 16.Ne4 Qd7 17.Bd2 Bxe4 18.dxe4 d3 19.Bc3 dxe2 20.Qxe2 Nd4 21.Qf2 Nf6 22.Rfe1 Nxc2 23.Qxc2 O-O-O 24.e5 Nh7 25.Rad1 Qe8 26.f5 Ng5 27.f6 Rxd1 28.Rxd1 Bd8 29.Bd2 Nf7 30.Bf4 Bc7 31.Qe4 Nd8 32.Rf1 Qf7 33.Be3 Qh7 34.Qf4 Nf7 35.Bxc5 Bxe5 36.Qe3 b6 37.Be7 Qc2 38.c5 Qxb2 39.Rd1 h4 40.cxb6 axb6 41.Qe4 Kb8 42.Rd7 Qc1+ 43.Kf2 Qf4+ 44.Qxf4 Bxf4 45.Rd4 g3+ 46.hxg3 Bxg3+ 47.Kf3 Rh5 48.a4 Rf5+ 49.Kg4 Nh6+ 50.Kh3 Rf1 51.Rxh4 Bxh4 52.Kxh4 Kc8 53.Kg5 Ng8 54.Kg6 Nxe7+ 0-1

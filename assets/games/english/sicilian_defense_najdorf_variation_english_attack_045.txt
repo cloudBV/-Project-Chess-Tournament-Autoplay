@@ -1,0 +1,15 @@
+[Event "Round 5: Soucek, Petr - Ftacnik, Lubomir"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/duZNG5zF"]
+[Date "2026.07.18"]
+[Round "5.3"]
+[White "Soucek, Petr"]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "2408"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f4 Be7 9.f5 Bc8 10.Qf3 b5 11.a3 h5 12.O-O-O Nbd7 13.Kb1 Bb7 14.Nd5 Nxd5 15.exd5 Nf6 16.c4 bxc4 17.Bxc4 Rc8 18.Qe2 O-O 19.Ka1 Qc7 20.Rc1 Qd7 21.Bg5 Nxd5 22.Bxe7 Nf4 23.Qd2 Qxe7 24.Na5 Bxg2 25.Rhd1 d5 26.Bxa6 Rxc1+ 27.Rxc1 Qf6 28.Bd3 Nxd3 29.Qxd3 Be4 30.Qb5 Qxf5 31.Nb7 Qf4 32.Rf1 Qxh2 33.Nc5 h4 34.Nxe4 dxe4 35.Qd5 Qg2 36.Re1 h3 37.Qxe4 Qxe4 38.Rxe4 f5 39.Rh4 f4 40.Rxh3 f3 41.Rh1 f2 0-1

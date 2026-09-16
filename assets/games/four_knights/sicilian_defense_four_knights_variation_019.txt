@@ -1,0 +1,14 @@
+[Event "Round 7: Shearsby, Jude - Liu,Tianyi (Jack)"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-7/YUCfcxoi/GJnJxYQn"]
+[Date "2026.07.11"]
+[Round "7.4"]
+[White "Shearsby, Jude"]
+[Black "Liu,Tianyi (Jack)"]
+[Result "1/2-1/2"]
+[WhiteElo "2243"]
+[BlackElo "2120"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5 9.exd5 exd5 10.Bd3 O-O 11.O-O d4 12.Ne2 Bg4 13.Bg5 Re8 14.Re1 Qd6 15.Qd2 Bxe2 16.Rxe2 Rxe2 17.Qxe2 Re8 18.Qf3 Qe6 19.Bxf6 Qxf6 20.Qxf6 gxf6 21.Kf1 Ne5 22.Rd1 b6 23.h3 Rc8 24.Ke2 h6 25.Kd2 Rd8 26.Re1 Kf8 27.f4 Nc6 28.Be4 Ne7 29.Kd3 f5 30.Bf3 Rd7 31.a4 Kg7 32.g3 Kf6 33.Re5 a5 34.h4 Rd8 35.b4 axb4 36.Rb5 Rd6 37.Rxb4 Kg7 38.Rxd4 Rg6 39.h5 Rxg3 40.Ke2 Rg1 41.Rd7 Kf8 42.Rd1 Rxd1 43.Kxd1 Ng8 44.Kd2 Ke7 45.Kc3 Kd6 46.Kb4 Nf6 47.Kb5 Kc7 48.Kc4 Kd6 49.Kb5 Kc7 50.a5 bxa5 51.Kxa5 Kd6 52.Kb5 Ne4 53.c4 Nc3+ 54.Kb4 Ne4 55.Kb5 Nc3+ 56.Kb6 Na4+ 57.Kb7 Kc5 58.Kc7 Kxc4 59.Kd6 Kd4 60.Ke7 Ke3 61.Bc6 Nc5 62.Kxf7 Nd3 63.Kg6 1/2-1/2

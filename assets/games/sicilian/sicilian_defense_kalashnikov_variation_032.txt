@@ -1,0 +1,14 @@
+[Event "Round 1: Minde, Baptiste - Bon, Michael"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-1/S7wEOhJJ/AvLPGYIv"]
+[Date "2026.07.18"]
+[Round "1.7"]
+[White "Minde, Baptiste"]
+[Black "Bon, Michael"]
+[Result "0-1"]
+[WhiteElo "2033"]
+[BlackElo "2359"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be7 8.Nc4 b5 9.Ne3 Nf6 10.Bd3 Nb4 11.Be2 O-O 12.O-O Be6 13.a3 Nc6 14.Bd3 Rb8 15.Ncd5 Qd7 16.b4 Bd8 17.Bb2 Ng4 18.Qe2 Nxe3 19.Nxe3 Bb6 20.Nd5 Rfc8 21.c4 Nd4 22.Bxd4 Bxd4 23.Rac1 Qa7 24.h3 Bxd5 25.cxd5 Bc3 26.Rc2 Rc7 27.Rfc1 Rbc8 28.Qg4 g6 29.Qe2 Qb6 30.Qf3 Bb2 31.Rxc7 Rxc7 32.Rxc7 Qxc7 33.Bf1 Qc2 34.g4 h6 35.h4 Qd2 36.Qb3 Kg7 37.Kg2 Bd4 38.Qf3 Qc1 39.Qb3 Bb2 40.a4 bxa4 41.Qxa4 Qf4 42.f3 Qd2+ 43.Kh3 Qe1 44.Bg2 g5 45.hxg5 hxg5 46.Kh2 Bc1 47.Bh3 Qf2+ 48.Bg2 Bf4+ 49.Kh1 Qe1+ 50.Bf1 Qxf1# 0-1

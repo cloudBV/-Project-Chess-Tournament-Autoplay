@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-3/jrpV8ikM/KU5HW6v0"]
+[Date "2026.07.14"]
+[Round "3.4"]
+[White "Fedorchuk, Sergey A."]
+[Black "Peralta, Fernando"]
+[Result "1/2-1/2"]
+[WhiteElo "2593"]
+[BlackElo "2548"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.Nf3 Be7 8.a3 c4 9.Nf4 Nb6 10.g3 Bd7 11.h4 h6 12.Nh5 g6 13.Nf4 Na5 14.Be3 Qc7 15.Bh3 O-O-O 16.Kf1 Kb8 17.Bg4 a6 18.Kg2 Ka7 19.Qe2 Rdg8 20.Rab1 Ba4 21.Nh2 Qc6 22.Rbc1 Nd7 23.Bf3 Ka8 24.Rce1 Qc8 25.Ng4 Qd8 26.Nxh6 Rxh6 27.Nxe6 fxe6 28.Bxh6 Nf8 29.Bg4 Qe8 30.Qd2 Nc6 31.Re2 Nd8 32.Bg5 Nh7 33.Bxe7 Qxe7 34.Qh6 Qf7 35.f4 Nf8 36.h5 gxh5 37.Bxh5 Ng6 38.Bxg6 Rxg6 39.Qh8 Rg8 40.Qf6 Qe8 41.Rf2 Rf8 42.Qg7 Rg8 43.Qh7 Nf7 44.Qh4 Nd8 45.Qh6 Ka7 46.Qh7 Nf7 47.Qh4 Nd8 48.Qf6 Rf8 49.Qh6 Rg8 50.Qh5 Qf8 51.Rh3 Be8 52.Qh6 Qe7 53.Qf6 Qd7 54.Rh8 Rxh8 55.Qxh8 Bg6 56.g4 Be4+ 57.Kg3 Nc6 58.Qf8 Ne7 59.Rh2 Ng6 60.Qc5+ Ka8 61.Qd6 Qa4 62.Rd2 Qe8 63.Rf2 Qg8 64.Rh2 Qf7 65.Qd8+ Ka7 66.Qf6 Qd7 67.Rh6 Qe8 68.Qg7 Qb5 69.Rxg6 Bxg6 70.Qxg6 Qxb2 71.f5 Qxc3+ 72.Kh4 Qxd4 73.f6 Qf2+ 74.Kg5 c3 75.f7 c2 76.Qxc2 Qxc2 77.f8=Q d4 78.Qd6 d3 79.Qd4+ Ka8 80.Qd8+ Ka7 81.Qd4+ Ka8 82.Qd8+ Ka7 1/2-1/2

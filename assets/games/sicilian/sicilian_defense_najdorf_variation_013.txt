@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/hcD4qP8r"]
+[Date "2026.07.02"]
+[Round "6.17"]
+[White "Wasiluk, Mateusz"]
+[Black "Klim, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2009"]
+[BlackElo "2202"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 h6 8.Bh4 g6 9.f4 e5 10.fxe5 dxe5 11.Nb3 b5 12.O-O-O Qc7 13.Nd5 Nxd5 14.exd5 Bd6 15.g4 Bb7 16.Bg2 O-O 17.Qd2 Kh7 18.Na5 e4 19.Bg3 e3 20.Qxe3 Rac8 21.Qd2 Ne5 22.Kb1 Ba8 23.Bxe5 Bxe5 24.Nc6 Bxc6 25.dxc6 Bxh2 26.g5 h5 27.Bh3 Bf4 28.Qd5 Rce8 29.Rhf1 Re3 30.Bd7 Re5 31.Qd6 Qxd6 32.Rxd6 Re1+ 33.Rxe1 Bxd6 34.Re4 f6 35.gxf6 Rxf6 36.c4 g5 37.c5 Bg3 38.Re7+ Kg8 39.Be8 Kf8 40.Re3 h4 41.Bd7 Kf7 42.Kc2 Bf4 43.Re4 h3 44.Bxh3 Rxc6 1/2-1/2

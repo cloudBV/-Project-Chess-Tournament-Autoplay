@@ -1,0 +1,14 @@
+[Event "Round 7: Hovhannisyan, Robert - Kuru, Atilla"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/6pZg2JxZ"]
+[Date "2026.07.24"]
+[Round "7.8"]
+[White "Hovhannisyan, Robert"]
+[Black "Kuru, Atilla"]
+[Result "1-0"]
+[WhiteElo "2628"]
+[BlackElo "2508"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Nxc6 bxc6 8.Qf3 Nf6 9.Qg3 Qxg3 10.hxg3 d5 11.Be2 Bb4 12.exd5 cxd5 13.a3 Bd6 14.g4 Bb7 15.g5 Nd7 16.O-O-O f6 17.gxf6 Nxf6 18.Rh3 h6 19.Na4 Rc8 20.b4 e5 21.Nc5 Bxc5 22.Bxc5 Kf7 23.Re3 Rhe8 24.Bf3 Bc6 25.Rde1 e4 26.Bd1 h5 27.Bd4 Ba4 28.f3 Rc4 29.c3 Bxd1 30.Rxd1 exf3 31.Rxf3 Re2 32.Rd2 Rxd2 33.Kxd2 Ke6 34.Re3+ Ne4+ 35.Kd3 Rc7 36.c4 Kd6 37.Re2 dxc4+ 38.Kxe4 Re7+ 39.Kf3 Rxe2 40.Kxe2 g5 41.Bf6 g4 42.Kd2 Ke6 43.Bh4 Kd5 44.Kc3 1-0

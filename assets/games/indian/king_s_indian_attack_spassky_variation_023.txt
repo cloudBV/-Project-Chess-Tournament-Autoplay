@@ -1,0 +1,15 @@
+[Event "Round 2: Uritsky, Yonathan - Mond, Omri"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-2/d3cE0HD7/91OlNkpn"]
+[Date "2026.07.15"]
+[Round "2.2"]
+[White "Uritsky, Yonathan"]
+[Black "Mond, Omri"]
+[Result "1-0"]
+[WhiteElo "2316"]
+[BlackElo "2120"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.d3 e6 5.c4 bxc4 6.dxc4 a5 7.O-O Be7 8.Nc3 O-O 9.Qc2 Na6 10.b3 Nc5 11.Rd1 a4 12.b4 Nce4 13.Ne5 Nxc3 14.Qxc3 Bxg2 15.Kxg2 a3 16.Nc6 Qe8 17.Nxe7+ Qxe7 18.Bxa3 Ne4 19.Qd3 f5 20.c5 Qf6 21.f3 Ng5 22.Rab1 f4 23.h4 Nf7 24.Bb2 e5 25.Qxd7 Rfd8 26.Qg4 Nh6 27.Qg5 Rxd1 28.Rxd1 Nf5 29.Kh3 fxg3 30.a3 g2 31.Qxf6 gxf6 32.Rg1 Ne3 33.Bc1 Nc4 34.Rxg2+ Kf7 35.e4 Ra7 36.Ra2 c6 37.a4 Rb7 38.a5 Rxb4 39.a6 Rb8 40.Ra4 Ra8 41.a7 Ke6 42.Kg4 f5+ 43.Kh5 f4 44.Rxc4 Rxa7 45.Rc2 Rg7 46.Rd2 Rg3 47.Rd6+ Ke7 48.Bb2 Rxf3 49.Bxe5 Rf1 50.Rxc6 f3 51.Rf6 f2 52.Rf5 Rc1 53.Bd6+ 1-0

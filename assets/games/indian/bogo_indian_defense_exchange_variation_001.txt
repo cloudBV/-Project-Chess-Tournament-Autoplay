@@ -1,0 +1,14 @@
+[Event "Round 2: Aronian, Levon - Erdogmus, Yagiz Kaan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-qualifier/round-2/b2XxyNFf/AWS0iOC9"]
+[Date "2026.07.14"]
+[Round "2.2"]
+[White "Aronian, Levon"]
+[Black "Erdogmus, Yagiz Kaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2724"]
+[BlackElo "2713"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Exchange Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.g3 O-O 7.Bg2 c6 8.O-O dxc4 9.a4 b5 10.axb5 cxb5 11.Ne5 Nd5 12.Nc3 f6 13.Ng4 Qd7 14.Ra5 a6 15.Nxb5 Nc6 16.Raa1 Nde7 17.Na3 Rb8 18.Nc2 e5 19.Nge3 Nxd4 20.Nxd4 Qxd4 21.Rfd1 Qxd2 22.Rxd2 Rb4 23.h4 g6 24.Ra5 Nf5 25.Nd5 Rb5 26.Ra4 Kg7 27.Nc3 Rc5 28.e3 Rf7 29.Rb4 Rcc7 30.Bf1 Rfd7 31.Rxd7+ Bxd7 32.Bxc4 a5 33.Nd5 axb4 34.Nxc7 Nd6 35.Be2 b3 36.Kf1 Bf5 37.Ke1 Kf7 38.Na6 Ne4 39.Bc4+ Be6 40.Bd3 Nd6 41.Nc5 f5 42.Kd2 f4 43.Kc3 fxg3 44.fxg3 Ke7 45.Kb4 Bf7 46.e4 h6 47.Nxb3 Bxb3 48.Kxb3 Kd7 49.Kc3 Kc6 50.Bb1 Kc5 51.Bd3 Kc6 52.Bb1 Kc5 53.Kd3 Nc4 54.Kc3 Nd6 1/2-1/2

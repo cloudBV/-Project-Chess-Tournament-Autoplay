@@ -1,0 +1,14 @@
+[Event "Round 8: Borshch, Alexei - Dvalishvili, Pavel S."]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/rowkPC7T"]
+[Date "2026.07.01"]
+[Round "8.5"]
+[White "Borshch, Alexei"]
+[Black "Dvalishvili, Pavel S."]
+[Result "1-0"]
+[WhiteElo "2169"]
+[BlackElo "2264"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Nge7 5.a3 Ng6 6.Nc3 a6 7.Bc4 b5 8.Ba2 Be7 9.Nd5 O-O 10.c3 d6 11.d3 Kh8 12.Nxe7 Ncxe7 13.Ng5 Qe8 14.f4 h6 15.f5 Nf4 16.Bxf4 exf4 17.Nh3 d5 18.Nxf4 dxe4 19.dxe4 c4 20.f6 gxf6 21.Qd6 Ng8 22.Nh5 Bg4 23.Nxf6 Qe6 24.Qd4 Rad8 25.Nd7+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Gelfand, Boris - Sevian, Samuel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/jVd0LetK"]
+[Date "2026.07.03"]
+[Round "6.4"]
+[White "Gelfand, Boris"]
+[Black "Sevian, Samuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2623"]
+[BlackElo "2666"]
+[ECO "A13"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 d4 5.d3 Bb4+ 6.Bd2 a5 7.O-O Nc6 8.e3 O-O 9.exd4 Nxd4 10.Nxd4 Qxd4 11.Bc3 Bxc3 12.bxc3 Qd6 13.d4 c5 14.Qd3 Rb8 15.Na3 Bd7 16.Rab1 b6 17.Nb5 Bxb5 18.Rxb5 Rfd8 19.Rfb1 e5 20.Bd5 exd4 21.cxd4 Nxd5 22.dxc5 bxc5 23.Qxd5 Qxd5 24.cxd5 Rbc8 25.Rd1 a4 26.Ra5 Kf8 27.Rxa4 Ra8 28.Rxa8 Rxa8 29.d6 Ke8 30.Rd5 Rxa2 31.Rxc5 Rd2 32.Rc8+ Kd7 33.Rh8 Ke6 34.Rxh7 g6 35.h4 Rxd6 36.h5 gxh5 37.Rxh5 Rd3 38.Kg2 Kf6 39.g4 Kg6 40.Ra5 Rb3 41.f3 Rb4 42.Kg3 Rb3 43.Ra6+ f6 44.Ra5 Rc3 45.Kf4 Rc4+ 46.Ke3 Rc3+ 47.Ke4 Rc4+ 48.Kd3 Rb4 49.Rd5 Ra4 50.Ke3 Ra3+ 51.Ke4 1/2-1/2

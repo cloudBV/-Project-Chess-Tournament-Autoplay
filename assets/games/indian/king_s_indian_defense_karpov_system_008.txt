@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/Y8nGjSjM"]
+[Date "2026.07.04"]
+[Round "8.4"]
+[White "Terkiewicz, Bruno"]
+[Black "Borischik, Sergey"]
+[Result "0-1"]
+[WhiteElo "2375"]
+[BlackElo "2202"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 Na6 8.g4 Nc5 9.f3 a5 10.Qd2 a4 11.O-O-O Bd7 12.Nge2 h5 13.Bg5 h4 14.Qe1 Qb8 15.Qxh4 Nh7 16.Be3 b5 17.Bxc5 dxc5 18.Nxb5 Bxb5 19.cxb5 Qxb5 20.Nd4 Qb6 21.Nc6 c4 22.Qe1 a3 23.Rh2 Qc5 24.Qc3 axb2+ 25.Kb1 Ng5 26.h4 Nxf3 27.Qxf3 c3 28.Kc2 Rxa2 29.Rb1 Ra1 30.Qxc3 Qxc3+ 31.Kxc3 Rxb1 32.Bd3 Rg1 33.Ne7+ Kh7 34.h5 g5 35.Rxb2 Ra8 36.Bc2 Bf8 37.Nf5 Ra3+ 38.Kc4 Rc1 39.Kb5 Rc3 40.Bb3 Ba3 41.Rf2 Rxb3+ 42.Ka4 Bc5 0-1

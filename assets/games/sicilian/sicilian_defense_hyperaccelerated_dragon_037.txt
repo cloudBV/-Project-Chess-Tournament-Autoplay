@@ -1,0 +1,15 @@
+[Event "Round 9: Rami,Talab - Shearsby, Jude"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-9/EM0NzUd0/D7HBM03g"]
+[Date "2026.07.23"]
+[Round "9.3"]
+[White "Rami,Talab"]
+[Black "Shearsby, Jude"]
+[Result "1-0"]
+[WhiteElo "2359"]
+[BlackElo "2260"]
+[ECO "B27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 Nc6 6.Qd3 d6 7.Be2 Bg7 8.Be3 O-O 9.h3 a6 10.a3 b5 11.O-O Bb7 12.Rad1 Nd7 13.Nd4 Nde5 14.Qd2 Na5 15.b3 Rc8 16.f3 Nac6 17.Nd5 e6 18.Nxc6 Rxc6 19.Nb4 Rc8 20.Qxd6 Qh4 21.Qb6 Ba8 22.Qxa6 Rc3 23.Bd4 Rcc8 24.Qxb5 Qg3 25.Bf2 Qg5 26.Qb6 Rb8 27.Qe3 Qe7 28.Kh1 Rbc8 29.Ba6 Rb8 30.Rd2 g5 31.Rfd1 Ng6 32.Qc5 Qf6 33.Bd4 e5 34.Be3 Nh4 35.Qd6 Qg6 36.Qxg6 fxg6 37.Bc4+ Kh8 38.Nd5 h6 39.Bf2 Kh7 40.a4 Bc6 41.a5 Bd7 42.Bxh4 gxh4 43.Nf6+ Rxf6 44.Rxd7 Ra8 45.a6 Kh8 46.Rd8+ Rxd8 47.Rxd8+ Kh7 48.Bg8+ Kh8 49.Bc4+ Kh7 50.a7 1-0

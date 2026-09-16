@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "2.4"]
+[White "Mica, Marek"]
+[Black "Skypala, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2349"]
+[BlackElo "2285"]
+[ECO "A13"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 d4 5.O-O c5 6.e3 Nc6 7.exd4 Nxd4 8.Nxd4 Qxd4 9.d3 Be7 10.Nc3 O-O 11.Be3 Qg4 12.h3 Qf5 13.Qc2 Rd8 14.Ne4 Nxe4 15.dxe4 Qf6 16.f4 Qg6 17.Kh2 Bd7 18.f5 exf5 19.exf5 Qf6 20.h4 Qb6 21.b4 Bc6 22.Rab1 Bxg2 23.Qxg2 Rd3 24.bxc5 Qa6 25.Rxb7 Re8 26.Rxe7 1-0

@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-7/ts4Tbc2j/4ozBHQZu"]
+[Date "2026.07.23"]
+[Round "7.5"]
+[White "Sanchez Gonzalez, Diego 2012"]
+[Black "Mulet Polo, Pau"]
+[Result "1-0"]
+[WhiteElo "2178"]
+[BlackElo "2007"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.Ne2 c5 7.c3 Nc6 8.O-O Nge7 9.Nd2 cxd4 10.cxd4 Qb6 11.Nf3 Ng6 12.h4 Be7 13.g3 Bd8 14.h5 Nge7 15.g4 h6 16.Nc3 Bc7 17.a3 a5 18.Bd2 O-O-O 19.b4 f6 20.Na4 Qa7 21.b5 Nb8 22.Rac1 b6 23.exf6 gxf6 24.Bf4 Rd7 25.Qe3 e5 26.dxe5 Rg8 27.exf6 Rxg4+ 28.Kh1 1-0

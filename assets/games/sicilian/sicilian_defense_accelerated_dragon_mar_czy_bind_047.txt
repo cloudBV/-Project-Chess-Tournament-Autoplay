@@ -1,0 +1,14 @@
+[Event "Round 2: Vos, Tjark - Han, Qixuan"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/IqYYWchP"]
+[Date "2026.07.22"]
+[Round "2.26"]
+[White "Vos, Tjark"]
+[Black "Han, Qixuan"]
+[Result "1-0"]
+[WhiteElo "2216"]
+[BlackElo "2058"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Bg7 8.Be3 O-O 9.O-O Bd7 10.Re1 Nxd4 11.Bxd4 Bc6 12.Qc2 a5 13.b3 Nd7 14.Bxg7 Kxg7 15.Rad1 Nc5 16.e5 Qc7 17.exd6 exd6 18.Nd5 Bxd5 19.Rxd5 Rfe8 20.Red1 Rad8 21.Bf3 b6 22.h4 Re5 23.Qd2 Qe7 24.Qd4 Ne6 25.Rxe5 dxe5 26.Qxe5+ f6 27.Qe3 Rxd1+ 28.Bxd1 Qd6 29.Bf3 h5 30.g3 Nc7 31.Kg2 Ne6 32.Qe4 Nc7 33.Qb7 Qc5 34.Bc6 Qe5 35.Qxb6 g5 36.hxg5 fxg5 37.Qe3 Qf6 38.Be4 Ne6 39.Qa7+ Kf8 40.Qxa5 Nd4 41.Qc5+ Kg7 42.f4 gxf4 43.Qc7+ Kg8 44.Qxf4 Qb6 45.Bd5+ Kg7 46.Qg5+ Kf8 47.Qxh5 Qf6 48.Qh4 Qe5 49.Qf4+ 1-0

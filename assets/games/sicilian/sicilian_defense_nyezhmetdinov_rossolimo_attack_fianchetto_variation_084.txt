@@ -1,0 +1,14 @@
+[Event "Round 2: Lu, Yunong Elias - Den Hartog, Marijn"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/wHF6z9C4"]
+[Date "2026.07.22"]
+[Round "2.27"]
+[White "Lu, Yunong Elias"]
+[Black "Den Hartog, Marijn"]
+[Result "0-1"]
+[WhiteElo "2112"]
+[BlackElo "2209"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.O-O Bg7 6.d3 Qc7 7.Nbd2 Nf6 8.Qe2 O-O 9.a4 a5 10.Nc4 Re8 11.Be3 b6 12.h3 Ba6 13.b3 Nd7 14.Rab1 e5 15.Nh2 b5 16.Nd2 f5 17.f4 Nf6 18.Qf2 fxe4 19.fxe5 Qxe5 20.axb5 cxb5 21.Nxe4 Nxe4 22.dxe4 Qxe4 23.Bxc5 Bb7 24.Nf3 Rec8 25.Rfe1 Qf5 26.Bd4 Rxc2 27.Qe3 0-1

@@ -1,0 +1,15 @@
+[Event "Round 4: Siva Mahadevan - Kovchan, Alexander"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-4/6QpH3zvI/ncstPVKA"]
+[Date "2026.07.17"]
+[Round "4.2"]
+[White "Siva Mahadevan"]
+[Black "Kovchan, Alexander"]
+[Result "0-1"]
+[WhiteElo "2448"]
+[BlackElo "2445"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Nd5 Bxd5 10.exd5 g6 11.Qd2 Nbd7 12.O-O-O Bg7 13.Kb1 O-O 14.Rg1 b6 15.g4 Nc5 16.Bg5 hxg4 17.Rxg4 e4 18.Qf4 e3 19.Rg2 Re8 20.Re2 Re5 21.Qh4 Qe7 22.Nd4 Rxd5 23.Rxe3 Qb7 24.Bxf6 Rh5 25.Qxh5 gxh5 26.Bxg7 Kxg7 27.Nf5+ Kf6 28.Nxd6 Qc6 29.a3 Rd8 30.Red3 Nxd3 31.Ne4+ Ke5 32.Bxd3 Kf4 33.Rg1 f5 34.Ng5 h4 35.Nh3+ Ke5 36.Ng5 Re8 37.Nf7+ Kf4 38.Ng5 Re6 0-1

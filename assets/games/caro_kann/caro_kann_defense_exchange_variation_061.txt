@@ -1,0 +1,15 @@
+[Event "Round 7: Rybka, Simon - Smolik, Jachym"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/1q6XwK0I"]
+[Date "2026.07.19"]
+[Round "7.10"]
+[White "Rybka, Simon"]
+[Black "Smolik, Jachym"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2373"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 e6 7.Nf3 Bd6 8.O-O Nge7 9.Re1 O-O 10.b3 Ng6 11.Na3 a6 12.Nc2 Bd7 13.Ne3 b5 14.Ng4 f5 15.Ne3 Nf4 16.Bf1 Na5 17.Bb2 Rab8 18.Qd2 Nh5 19.Ne5 Nf6 20.f3 Nc6 21.Nxd7 Qxd7 22.Bd3 Nh5 23.c4 Nf4 24.Bf1 Qd8 25.c5 Bc7 26.Kh1 Qh4 27.Bd3 Rf6 28.Rac1 Nxh3 0-1

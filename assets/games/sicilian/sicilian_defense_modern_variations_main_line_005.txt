@@ -1,0 +1,14 @@
+[Event "Round 4: Giordani, Luca - Di Liberto, Michele"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-4/8RdQdxH9/i5XIWLOL"]
+[Date "2026.07.08"]
+[Round "4.7"]
+[White "Giordani, Luca"]
+[Black "Di Liberto, Michele"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2318"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bb5+ Bd7 6.c4 Nc6 7.Nc3 g6 8.O-O Bg7 9.Re1 O-O 10.Bxc6 bxc6 11.c5 Qb8 12.cxd6 exd6 13.h3 Re8 14.Nf3 Be6 15.Nd4 Qb7 16.Qc2 Nd7 17.Nxe6 fxe6 18.Bf4 d5 19.Rac1 e5 20.Bg5 d4 21.Na4 Rac8 22.b3 h6 23.Bd2 c5 24.Qd3 Bf8 25.Rf1 Kh7 26.Nb2 Nb6 27.Ba5 Re6 28.Bxb6 axb6 29.a4 b5 30.axb5 Rb8 31.Nc4 Qxb5 32.Rb1 1/2-1/2

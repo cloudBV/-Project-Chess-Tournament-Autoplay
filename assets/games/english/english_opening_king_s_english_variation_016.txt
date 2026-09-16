@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.08"]
+[Round "7.3"]
+[White "Shahil Dey"]
+[Black "Ghosh, Diptayan"]
+[Result "0-1"]
+[WhiteElo "2413"]
+[BlackElo "2554"]
+[ECO "A20"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.Nf3 e4 4.Nd4 d5 5.cxd5 Qxd5 6.Nc2 Nf6 7.Nc3 Qe5 8.Bg2 Na6 9.Rb1 Be7 10.b4 O-O 11.Bb2 Qe6 12.a3 c5 13.b5 Nc7 14.h4 Ncd5 15.Ne3 Nxe3 16.dxe3 b6 17.Qc2 Bb7 18.O-O Bd6 19.Rfd1 Rad8 20.Rd2 Bc7 21.Rbd1 Rxd2 22.Rxd2 Re8 23.Qa4 Bb8 24.Qd1 h6 25.Rd8 Be5 26.Na4 Bxb2 27.Nxb2 Bd5 28.Rxe8+ Qxe8 29.Qa4 Qe5 30.Qc2 Be6 31.a4 g6 32.Kf1 Nd5 33.Bxe4 Nb4 34.f4 Nxc2 35.fxe5 Nxe3+ 36.Ke1 Kf8 37.Nd3 Ke7 38.Bc6 Bc4 39.Nb2 Bb3 40.a5 bxa5 41.Kd2 a4 42.Nxa4 Nf1+ 43.Ke1 Bxa4 44.Kxf1 a6 0-1

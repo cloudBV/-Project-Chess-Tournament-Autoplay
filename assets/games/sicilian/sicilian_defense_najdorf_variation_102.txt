@@ -1,0 +1,15 @@
+[Event "Round 4: Belenky, Nicholas - Barbosa, Oliver"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-4/U5p4vRB1/GxWAdduo"]
+[Date "2026.07.17"]
+[Round "4.9"]
+[White "Belenky, Nicholas"]
+[Black "Barbosa, Oliver"]
+[Result "0-1"]
+[WhiteElo "2146"]
+[BlackElo "2367"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Nd5 Bxd5 10.exd5 Nbd7 11.Qd2 g6 12.O-O-O Bg7 13.Kb1 O-O 14.h3 a5 15.a4 Nb6 16.Bb5 Qc7 17.g4 Rfc8 18.c3 h4 19.Bf2 Rab8 20.Rhe1 Nxa4 21.c4 Nb6 22.Nxa5 Ra8 23.Rc1 Rd8 24.Nb3 Nc8 25.Bxh4 Na7 26.Bf2 Nxb5 27.cxb5 Qd7 28.Qd3 Ra4 29.Bb6 Rda8 30.Rc7 Qe8 31.Rxb7 e4 32.fxe4 Nd7 33.Rc1 Nxb6 34.Rxb6 Qe5 35.Rc2 Ra2 36.Rb8+ Rxb8 37.Kxa2 Ra8+ 38.Kb1 Ra4 39.Re2 Rb4 40.Ka2 Qe8 41.Rc2 Kh7 42.Rc6 Rxe4 43.Nd2 Ra4+ 44.Kb3 Rd4 45.Qc2 Rxd5 46.Ka2 Rxb5 47.Nb3 Qa8+ 48.Kb1 Qa4 49.Qc4 Rb4 0-1

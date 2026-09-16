@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "4.1"]
+[White "Praggnanandhaa R"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2597"]
+[ECO "C50"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.c3 f5 5.d3 Qf6 6.exf5 Nge7 7.g4 d5 8.Bg5 Qd6 9.Bb5 Bd7 10.Qe2 h5 11.Bxe7 Bxe7 12.Bxc6 Bxc6 13.Nxe5 d4 14.Nxc6 Qxc6 15.Qe4 hxg4 16.Qxc6+ bxc6 17.Nd2 dxc3 18.bxc3 O-O-O 19.Ke2 Rh3 20.Rag1 Rhxd3 21.Ne4 R3d5 22.Rxg4 Bf8 23.Rf4 Ra5 24.a4 Rdd5 25.f6 gxf6 26.Rxf6 Rd8 27.Rf4 Kb8 28.Rb1+ Ka8 29.Rg1 Bh6 30.Rf6 Rxa4 31.Rg4 Bc1 32.Rxc6 Kb8 33.Re6 a5 34.h4 Rc4 35.Rg1 Bh6 36.Rb1+ Kc8 37.f3 Bf4 38.Ra6 Re8 39.Kd3 Rcxe4 40.fxe4 Kd7 41.Rxa5 Be5 42.Rg1 Bh8 43.Rg6 1-0

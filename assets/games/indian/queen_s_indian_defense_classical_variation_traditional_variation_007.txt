@@ -1,0 +1,14 @@
+[Event "Round 4: Fodor, Tamas Jr. - Virtanen, Teemu"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-4/QbASiENr/jE9TcSDG"]
+[Date "2026.07.14"]
+[Round "4.2"]
+[White "Fodor, Tamas Jr."]
+[Black "Virtanen, Teemu"]
+[Result "1/2-1/2"]
+[WhiteElo "2494"]
+[BlackElo "2224"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 Nxc3 9.Bxc3 d5 10.cxd5 exd5 11.Rc1 Re8 12.Qb3 Bf6 13.Ne5 c5 14.e3 c4 15.Qc2 Nc6 16.f4 Rc8 17.g4 b5 18.Rf3 g6 19.Rcf1 Rc7 20.g5 Bg7 21.h4 Bc8 22.a3 Bf5 23.Qd2 Qc8 24.Rg3 Ne7 25.Ba5 Rb7 26.Bb4 Qe6 27.Bf3 Be4 28.Bg4 Nf5 29.Rh3 f6 30.Nf3 Bd3 31.Re1 h5 32.gxh6 Bxh6 33.Kf2 Rg7 34.Rh2 Be4 35.Bc5 a6 36.Bb4 Qb6 37.Rh3 Bd3 38.Rhh1 1/2-1/2

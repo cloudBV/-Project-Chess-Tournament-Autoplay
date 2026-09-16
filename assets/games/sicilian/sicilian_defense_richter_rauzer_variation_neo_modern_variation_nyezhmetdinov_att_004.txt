@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.9"]
+[White "Jansa, Vlastimil"]
+[Black "Andreev, Eduard"]
+[Result "1/2-1/2"]
+[WhiteElo "2387"]
+[BlackElo "2295"]
+[ECO "B69"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6 gxf6 12.g3 Qb6 13.f5 O-O-O 14.fxe6 fxe6 15.Bh3 Kb8 16.Ne2 Bc8 17.Nf4 Ne5 18.Nd4 Nc4 19.Qe2 f5 20.exf5 e5 21.Nd5 Bg5+ 22.Kb1 Qc5 23.Nb3 Qa7 24.Bg2 Bxf5 25.h4 Bh6 26.g4 Be6 27.g5 Bg7 28.Nb4 Qe3 29.Rde1 Qxe2 30.Rxe2 Bg4 31.Rf2 Rdf8 32.Rhf1 Ne3 33.Rxf8+ Bxf8 34.Nc6+ Kc8 35.Na7+ Kd8 36.Rf2 Nxg2 37.Rxg2 Be6 38.Nc6+ Kc7 39.Nb4 d5 40.Nd3 Bd6 41.Nbc5 Bc8 42.Rf2 Rf8 43.Rxf8 Bxf8 44.b4 e4 45.Nf4 Bxc5 46.bxc5 Kc6 47.h5 Bf5 48.g6 hxg6 49.hxg6 Kxc5 50.g7 Bh7 51.Nh5 Bg8 52.Nf6 Be6 53.Kc1 Kb4 54.Kb2 e3 55.c3+ Ka4 56.Kc2 Ka3 57.Kd3 Kxa2 58.Kxe3 Kb2 59.Kd4 a5 60.Nxd5 a4 61.Nb4 a3 62.Kc5 Kxc3 63.Kxb5 Bg8 64.Kc5 Kb3 65.Kb5 Bf7 66.Ka5 Bc4 67.Nd3 Kc3 68.Nb4 Kb2 69.Nd3+ Kc3 70.Nb4 Kb3 71.Nd3 a2 72.Nc1+ Kb2 73.Nxa2 1/2-1/2

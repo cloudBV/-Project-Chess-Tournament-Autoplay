@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.16"]
+[White "Hernandez, Cristian Andres"]
+[Black "Vecillas Rey, Daniel"]
+[Result "1-0"]
+[WhiteElo "2348"]
+[BlackElo "2165"]
+[ECO "E40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 exd5 8.Bd3 O-O 9.Ne2 b6 10.O-O Ba6 11.Bxa6 Nxa6 12.Qd3 c4 13.Qc2 Re8 14.f3 Re6 15.Nf4 Re8 16.Bd2 Nc7 17.Rae1 Qd7 18.e4 dxe4 19.fxe4 Re7 20.Nh3 Rae8 21.Nf2 Ng4 22.Bf4 Nxf2 23.Rxf2 Nd5 24.h3 f5 25.Be5 fxe4 26.Rxe4 Rf7 27.Rh4 g6 28.Qxg6+ Kf8 29.Qh6+ 1-0

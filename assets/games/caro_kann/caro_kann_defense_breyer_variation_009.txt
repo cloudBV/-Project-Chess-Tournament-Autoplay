@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.19"]
+[Round "7.6"]
+[White "Navarro Guerrero, Simon"]
+[Black "Chacon Salinas, Cesar"]
+[Result "1/2-1/2"]
+[WhiteElo "2093"]
+[BlackElo "2187"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bd6 5.Qe2 Qe7 6.d4 exd4 7.exd5 Nf6 8.dxc6 Nxc6 9.Qxe7+ Kxe7 10.Bd3 Rd8 11.a3 Nd5 12.g3 Kf8 13.O-O Be7 14.Nb3 Nf6 15.Bf4 Be6 16.Bb5 d3 17.Bxc6 bxc6 18.Nbd4 Bg4 19.Kg2 dxc2 20.Rac1 Nd5 21.Nxc6 Nxf4+ 22.gxf4 Rd3 23.Nce5 Bxf3+ 24.Nxf3 Rc8 25.Ne1 Rd2 26.Nf3 Rd3 27.Ne1 Rb3 28.Rxc2 Rxc2 29.Nxc2 Rxb2 30.Rc1 Bc5 31.h3 g6 32.Kf3 Rb3+ 33.Ne3 Bxa3 34.Rc7 a5 35.Kg2 Bd6 36.Rc8+ Kg7 37.f5 a4 38.Rc6 Be5 39.Ng4 f6 40.Nxe5 fxe5 41.f6+ Kf7 42.Ra6 Ra3 43.Kh2 h5 44.h4 Rf3 45.Kg2 Rf4 46.Kg3 Rg4+ 47.Kh3 e4 48.Rxa4 Kxf6 49.Ra5 Ke6 50.Rb5 Rf4 51.Kg3 Rf3+ 52.Kg2 Kf6 53.Ra5 Rd3 54.Rb5 Ra3 55.Rc5 Ra2 56.Kg3 Rb2 57.Ra5 Rb1 58.Kg2 Re1 59.Rb5 Ra1 60.Rc5 Ra4 61.Kg3 Ra3+ 62.Kg2 e3 63.fxe3 Rxe3 64.Ra5 Re5 65.Ra3 Kf5 66.Kf3 Rb5 67.Rc3 Ra5 68.Rb3 Rc5 69.Ra3 Ke5 70.Re3+ Kf6 71.Kf4 Rc1 72.Ra3 Rg1 73.Rh3 Rg4+ 74.Kf3 Kf5 75.Rh1 Ra4 76.Kg3 Ra3+ 77.Kh2 Ra4 78.Kh3 Rf4 79.Rg1 Rf3+ 80.Kh2 Kf6 81.Rg2 Rf1 82.Kh3 Rf3+ 83.Kh2 Ra3 84.Rg1 Ra4 85.Kh3 Rf4 86.Rg2 Ke7 87.Rg1 Rf7 88.Rg2 Rf6 89.Rg1 Rf2 90.Rg3 Rf7 91.Rg1 1/2-1/2

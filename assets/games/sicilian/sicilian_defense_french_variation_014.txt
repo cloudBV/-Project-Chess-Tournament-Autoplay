@@ -1,0 +1,14 @@
+[Event "Round 1: Christodoulou, Panormitis - Stefanou, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/E000QNX8"]
+[Date "2026.07.10"]
+[Round "1.28"]
+[White "Christodoulou, Panormitis"]
+[Black "Stefanou, Konstantinos"]
+[Result "1/2-1/2"]
+[WhiteElo "2098"]
+[BlackElo "2260"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nc3 d5 6.exd5 exd5 7.d4 Bg4 8.h3 cxd4 9.Nxd5 Be6 10.Nxf6+ Qxf6 11.O-O h6 12.Ne1 Bd6 13.Nd3 O-O 14.Bf4 Bf5 15.Bxd6 Qxd6 16.Qf3 Bg6 17.Rad1 Rac8 18.Rd2 Rfe8 19.Qf4 Qd8 20.Nc5 Qb6 21.Nb3 d3 22.cxd3 Nb4 23.d4 Nxa2 24.Nc5 Re7 25.Qf3 Nb4 26.Qb3 a5 27.Ra1 Qc7 28.Na4 Bc2 29.Qa3 Bxa4 30.Qxa4 b6 31.d5 Qd6 32.Rad1 g5 33.Qb3 Rce8 34.Qf3 Na6 35.Qg4 Nc5 36.h4 f6 37.Kh2 Kg7 38.h5 Re5 39.Qf3 f5 40.Qc3 Kf7 41.b4 axb4 42.Qxb4 Ne4 1/2-1/2

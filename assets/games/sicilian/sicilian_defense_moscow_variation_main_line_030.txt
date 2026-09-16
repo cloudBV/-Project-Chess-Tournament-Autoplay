@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "9.9"]
+[White "Mateos Rozas, Miguel Angel"]
+[Black "Sergooris, Danail Jurgen"]
+[Result "1-0"]
+[WhiteElo "2188"]
+[BlackElo "2155"]
+[ECO "B52"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Re1 e6 7.d4 cxd4 8.Qxd4 Be7 9.c4 O-O 10.Nc3 Qb6 11.Qxb6 Nxb6 12.b3 Rac8 13.Be3 Bd8 14.Rad1 Bc7 15.Nb5 Rfd8 16.Nxa7 Nxe4 17.Nxc8 Nxc8 18.Bd4 Nf6 19.Bc3 Ne7 20.a4 d5 21.b4 Ne4 22.Be5 Bxe5 23.Rxe4 Bc3 24.cxd5 Nxd5 25.Rc4 Ra8 26.Rxd5 exd5 27.Rxc3 f6 28.a5 b6 29.Ra3 bxa5 30.bxa5 Ra6 31.Nd4 Kf7 32.Kf1 Ke7 33.Rb3 Kf7 34.Rb5 1-0

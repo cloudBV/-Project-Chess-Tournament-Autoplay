@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "6.5"]
+[White "Seemann, Pola"]
+[Black "Petrenko, Maryna"]
+[Result "1-0"]
+[WhiteElo "2028"]
+[BlackElo "2052"]
+[ECO "B13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Na3 a6 7.Nc2 Nf6 8.h3 g6 9.Ne2 Bg7 10.Bf4 Qb6 11.O-O O-O 12.Qd2 Bd7 13.Bh6 e6 14.Bxg7 Kxg7 15.h4 Qd8 16.Nf4 Ne7 17.h5 Neg8 18.hxg6 hxg6 19.Rae1 Ne7 20.Nh3 Rh8 21.Re3 Bb5 22.Bxb5 axb5 23.a3 Nf5 24.Rf3 Nh4 25.Rf4 Ne4 26.Qe3 Rh5 27.Rg4 Qf6 28.f3 Nf5 29.Qe1 Ng5 30.Nf4 Rh6 31.Ne3 Rah8 32.Nxf5+ Qxf5 33.Qe5+ Qxe5 34.dxe5 f6 35.exf6+ Kxf6 36.Kf2 Rd8 37.Rxg5 Kxg5 38.Nxe6+ Kf5 39.Nxd8 Rh7 40.Re1 Kf6 41.Ne6 Re7 42.Nc5 Rc7 43.Nd3 Rc4 44.Re5 d4 45.Rc5 dxc3 46.Rxc4 bxc4 47.bxc3 cxd3 48.Ke3 Kf5 49.Kxd3 Kf4 50.c4 Kg3 51.a4 Kh4 52.a5 Kg5 53.c5 1-0

@@ -1,0 +1,14 @@
+[Event "Round 5: Pleschke, Julius Jonas - Kozak, Adam"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/FFyLa68P"]
+[Date "2026.07.17"]
+[Round "5.5"]
+[White "Pleschke, Julius Jonas"]
+[Black "Kozak, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2280"]
+[BlackElo "2531"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 Nxd2 9.Qxd2 d6 10.Rac1 Nd7 11.Rfd1 c6 12.e4 a6 13.d5 cxd5 14.cxd5 e5 15.b4 g6 16.Qe2 f5 17.Ne1 f4 18.Nd3 b5 19.gxf4 exf4 20.e5 f3 21.Bxf3 Nxe5 22.Nxe5 dxe5 23.Bg4 Bd6 24.Ne4 Bxb4 25.Nc5 Bxc5 26.Be6+ Kg7 27.Qxe5+ Qf6 1/2-1/2

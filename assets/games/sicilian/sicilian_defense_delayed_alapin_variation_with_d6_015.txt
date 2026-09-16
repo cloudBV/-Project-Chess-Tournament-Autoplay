@@ -1,0 +1,14 @@
+[Event "Round 9: Hernandez Montes, Jhon Sebastian - Lopez Rayo, Santiago"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-9/eYIDhErh/0wTORQ1k"]
+[Date "2026.07.12"]
+[Round "9.1"]
+[White "Hernandez Montes, Jhon Sebastian"]
+[Black "Lopez Rayo, Santiago"]
+[Result "1-0"]
+[WhiteElo "2338"]
+[BlackElo "2359"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Qe2 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O Nc6 8.Rd1 e5 9.a3 Na5 10.b4 Nb3 11.Ra2 Nxc1 12.Rxc1 Qe7 13.d3 b6 14.Rb2 Bb7 15.c4 Nd7 16.Nc3 f5 17.exf5 gxf5 18.Nh4 Bxg2 19.Kxg2 Qg5 20.Rbb1 Rf7 21.Nd5 f4 22.Nf3 Qh5 23.h3 fxg3 24.fxg3 Raf8 25.Rf1 Nf6 26.Nxf6+ Rxf6 27.Ng1 Qe8 28.Rxf6 Rxf6 29.b5 e4 30.Qxe4 Re6 31.Qd5 Kh8 32.Rf1 h6 33.Nf3 Qe7 34.Rf2 Re3 35.Nh4 Qg5 36.Nf5 Re5 37.Qf7 Re1 38.h4 Qg4 39.Ne7 Rg1+ 40.Kxg1 Qxg3+ 41.Kf1 Qxd3+ 42.Kg2 1-0

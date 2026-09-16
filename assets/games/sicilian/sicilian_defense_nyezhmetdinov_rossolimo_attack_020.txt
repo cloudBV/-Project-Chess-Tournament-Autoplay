@@ -1,0 +1,15 @@
+[Event "Round 6: Madaminov, Mukhiddin - Rosen, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/qZTcxQds"]
+[Date "2026.07.03"]
+[Round "6.14"]
+[White "Madaminov, Mukhiddin"]
+[Black "Rosen, Eric"]
+[Result "0-1"]
+[WhiteElo "2501"]
+[BlackElo "2348"]
+[ECO "B30"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.c4 g6 6.Nc3 Bg7 7.d3 Nf6 8.h3 O-O 9.a3 Ne8 10.Be3 Nc7 11.Ba4 Ne6 12.Re1 Re8 13.Bxc6 bxc6 14.d4 cxd4 15.Nxd4 Rb8 16.Rb1 a5 17.Nxe6 Bxe6 18.Bd4 Bxd4 19.Qxd4 Rb3 20.c5 Qb8 21.Re2 Rd8 22.Rd2 Rd7 23.cxd6 Rxd6 24.Qe5 Rxd2 0-1

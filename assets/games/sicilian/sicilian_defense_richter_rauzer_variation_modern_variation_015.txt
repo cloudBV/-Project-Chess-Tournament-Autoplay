@@ -1,0 +1,14 @@
+[Event "Round 6: Suarez Pinto, Sergio Rafael - Cabiativa, Juan Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-6/oUzx1lwq/tjAnWTPS"]
+[Date "2026.07.12"]
+[Round "6.9"]
+[White "Suarez Pinto, Sergio Rafael"]
+[Black "Cabiativa, Juan Esteban"]
+[Result "0-1"]
+[WhiteElo "2117"]
+[BlackElo "2295"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.f3 Rc8 8.Be2 Nxd4 9.Qxd4 Qa5 10.Bd2 a6 11.O-O-O Qc5 12.Be3 Qxd4 13.Bxd4 e6 14.Rhe1 h5 15.Kb1 h4 16.a3 Be7 17.Bf1 Bc6 18.f4 Rd8 19.Bd3 Nh5 20.Bb6 Rd7 21.Ne2 e5 22.Rf1 Bf6 23.g4 Nxf4 24.Nxf4 exf4 25.Rxf4 Be5 26.Rf2 h3 27.Rg1 g5 28.c4 Re7 29.b4 Bf4 30.Re2 Rh6 31.c5 Rhe6 32.cxd6 Bxd6 33.Rge1 Bf4 34.Bc5 Rd7 35.Bc4 Re5 36.Kc2 b5 37.Bd3 Re6 38.Rf1 Rd8 39.Rf3 Rh6 40.Rf1 Bd7 41.Rg1 Rh4 42.Be3 Rxg4 43.Rxg4 Bxg4 44.Re1 Bxh2 45.Bxg5 Rc8+ 46.Kd2 Be5 47.Be2 Bc3+ 0-1

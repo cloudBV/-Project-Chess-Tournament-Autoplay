@@ -1,0 +1,14 @@
+[Event "Round 5: Savitha Shri B - Xu, Chang(CQ)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/DlC7mSds"]
+[Date "2026.07.17"]
+[Round "5.10"]
+[White "Savitha Shri B"]
+[Black "Xu, Chang(CQ)"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2125"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be7 8.g4 h6 9.Be3 Nbd7 10.Qf3 b5 11.O-O-O b4 12.Nd5 Nxd5 13.exd5 a5 14.Bb5 a4 15.Nd2 Ra5 16.Bc6 O-O 17.Nc4 Rc5 18.Bxd7 Rxc4 19.Bb5 Qc7 20.Qe2 Re4 21.Bd3 Rxe3 22.fxe3 a3 23.Kb1 Qa5 24.h4 axb2 25.g5 Bb7 26.Bc4 b3 27.Bxb3 Ba6 28.Qg4 Bc8 29.Qf3 h5 30.Qxh5 Qb4 31.Rhg1 Bf5 32.Qf3 g6 33.Rde1 Qc3 34.Qg2 e4 35.Qf1 Rc8 36.h5 Bf8 37.h6 Be7 38.Qe2 Bd8 39.Ref1 Qe5 40.Qb5 Be7 41.Qb7 Rf8 42.Qa7 Bh3 43.Rf4 Bf5 44.a4 Re8 45.a5 Qc3 46.a6 Kh8 47.Qb6 1-0

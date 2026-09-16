@@ -1,0 +1,14 @@
+[Event "Round 1: Nemegeer, Arne - De Wit, Evan"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/JwEMFs7D"]
+[Date "2026.07.21"]
+[Round "1.27"]
+[White "Nemegeer, Arne"]
+[Black "De Wit, Evan"]
+[Result "1/2-1/2"]
+[WhiteElo "2292"]
+[BlackElo "2009"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 a5 13.h4 h5 14.g3 g6 15.Bh3 Bxh3 16.Rxh3 O-O 17.Kf1 Bg7 18.Kg2 Bh6 19.Rh1 Ra7 20.Qd3 Rb7 21.b3 Bg7 22.Rad1 Qc8 23.Qf3 f5 24.exf5 Qxf5 25.Qxf5 gxf5 26.Rhe1 Rd8 27.Re2 Kf7 28.Nde3 Ne7 29.Nd5 Nc6 30.Nde3 Ne7 31.Red2 Ke6 32.Nd5 Nc6 33.Re2 Kf7 34.Nde3 1/2-1/2

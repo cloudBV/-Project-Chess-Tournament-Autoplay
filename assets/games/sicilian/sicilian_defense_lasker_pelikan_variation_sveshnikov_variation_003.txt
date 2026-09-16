@@ -1,0 +1,15 @@
+[Event "Round 7: Babazada, Khazar - Bastanov, Murat"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-7/JagHKq4G/ZxOGCV8C"]
+[Date "2026.07.16"]
+[Round "7.1"]
+[White "Babazada, Khazar"]
+[Black "Bastanov, Murat"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "2089"]
+[ECO "B33"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.g3 fxe4 12.Bg2 Bf5 13.Ne3 Bg6 14.h4 h6 15.h5 Bh7 16.c3 Ne7 17.Qc2 d5 18.Rd1 Rc8 19.O-O Bg7 20.Nxd5 Nxd5 21.Bxe4 Bxe4 22.Qxe4 O-O 23.Rxd5 Qg5 24.Qe2 f5 25.Rd6 f4 26.Rg6 f3 27.Qe4 Qxh5 28.Qg4 Qxg4 29.Rxg4 Rcd8 30.Nb1 Rf6 31.Re1 Rfd6 32.Kf1 Kf7 33.a4 Bf6 34.axb5 axb5 35.Rge4 Rd3 36.Rb4 R8d5 37.c4 bxc4 38.Rxc4 Rb5 39.Nc3 Rxb2 40.Ne4 Be7 41.Rc6 h5 42.Rh6 h4 43.gxh4 Rd4 44.Rh7+ Ke6 45.Rh6+ Kf7 46.Rh7+ Ke6 47.Rh6+ Kd5 48.Nc3+ Kc4 49.Rc6+ Kb3 50.Ne4 Bxh4 51.Re3+ Ka4 52.Nc3+ Ka5 53.Rxe5+ Kb4 54.Rb5+ 1-0

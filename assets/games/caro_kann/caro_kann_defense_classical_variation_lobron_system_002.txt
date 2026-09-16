@@ -1,0 +1,15 @@
+[Event "Round 9: Arshiya Das - Yang, Lanqin"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/uyKVA6md"]
+[Date "2026.07.11"]
+[Round "9.20"]
+[White "Arshiya Das"]
+[Black "Yang, Lanqin"]
+[Result "0-1"]
+[WhiteElo "2188"]
+[BlackElo "2131"]
+[ECO "B19"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Lobron System"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Kb1 Qb6 14.Nh4 O-O-O 15.c4 Rhe8 16.Qc2 c5 17.Bc3 cxd4 18.Rxd4 Nc5 19.Nf3 Rxd4 20.Bxd4 Rd8 21.Rd1 Qc7 22.b4 Ncd7 23.a3 a5 24.Qc3 axb4 25.axb4 Qd6 26.c5 Qa6 27.Qb2 Qb5 28.Ne1 Nb8 29.Rc1 Nc6 30.Bc3 Nd5 31.Bxg7 Bg5 32.Ne4 Bxc1 33.Kxc1 Qf1 34.Qd2 Ndxb4 35.Nd6+ Kb8 36.Bc3 Nd5 37.Qb2 Rd7 38.f3 Qg1 39.Ne4 f5 40.Be5+ Nc7 41.Qf2 Qxf2 42.Bxc7+ Kxc7 43.Nxf2 Rd5 44.Ned3 e5 45.Kc2 Rd4 46.Nd1 e4 47.fxe4 fxe4 48.Nf4 Nb4+ 49.Kc1 Kc6 50.Ne3 Nd3+ 51.Nxd3 Rxd3 52.Ng4 Rd5 53.Nf6 Rxc5+ 54.Kd2 Rf5 55.Nxe4 Rxh5 56.Ke3 Re5 57.g4 Kd5 58.Kd3 Rxe4 0-1

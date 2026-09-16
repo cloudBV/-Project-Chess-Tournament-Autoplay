@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.20"]
+[White "Zhuang, Kyle"]
+[Black "Gao, Marvin"]
+[Result "1/2-1/2"]
+[WhiteElo "2305"]
+[BlackElo "2193"]
+[ECO "B30"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 Ng6 7.d4 cxd4 8.Nxd4 Be7 9.c4 O-O 10.Be3 Bg5 11.Nxc6 bxc6 12.Nc3 Bxe3 13.Rxe3 Qe7 14.e5 f6 15.exf6 gxf6 16.Qh5 f5 17.Rd1 Rf7 18.g3 f4 19.Ree1 d6 20.Bg2 Bd7 21.Be4 Nf8 22.Rd3 d5 23.Bg2 Qf6 24.Re2 Ng6 25.Na4 Raf8 26.Nc5 Bc8 27.Bh3 Re7 28.Rd1 Qf7 29.Nd3 fxg3 30.hxg3 Qg7 31.Bg2 Rf5 32.Qh2 Ref7 33.Rde1 dxc4 34.Nb4 Qf8 35.Nxc6 Rxf2 36.Qh5 R7f5 37.Rxf2 Rxf2 38.Rf1 Rxf1+ 39.Bxf1 Qd6 40.Qf3 Qc5+ 41.Kh2 Bb7 42.Bg2 Ne5 43.Qh5 Bxc6 44.Bxc6 Qf2+ 45.Kh3 Qf1+ 46.Kh2 Qf2+ 47.Kh3 Qf5+ 48.Qxf5 exf5 49.Bb7 a5 50.Bc8 Nd3 51.Bxf5 Nxb2 52.Kg2 Kg7 53.Kf3 Na4 54.Ke3 Nc3 55.Kd4 Nxa2 56.Kxc4 h5 57.Be4 Kh6 58.Bf3 a4 59.Kb5 Nc3+ 60.Kb4 Nb1 1/2-1/2

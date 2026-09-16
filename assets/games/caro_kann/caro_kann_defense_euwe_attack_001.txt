@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.27"]
+[White "Kubicki, Marek"]
+[Black "Paszewski, Mateusz"]
+[Result "1-0"]
+[WhiteElo "2038"]
+[BlackElo "2244"]
+[ECO "B10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Euwe Attack"]
+
+1.e4 c6 2.b3 d5 3.Bb2 dxe4 4.Nc3 Nf6 5.Qe2 Bf5 6.h3 Nbd7 7.g4 Bg6 8.Bg2 Nc5 9.b4 Ne6 10.Bxe4 Nxe4 11.Nxe4 Qd5 12.d3 Nf4 13.Qf3 e5 14.O-O-O O-O-O 15.a3 f6 16.Ne2 Nxe2+ 17.Qxe2 Be7 18.c4 Qe6 19.Ng3 Qf7 20.Rhe1 Rd7 21.h4 h6 22.Nf5 Rhd8 23.h5 Bh7 24.Kb1 Bf8 25.Ka1 Kb8 26.Qe4 Bg8 27.f4 exf4 28.Qxf4+ Ka8 29.Nd4 Bd6 30.Qf2 Be5 31.Nf5 Rxd3 32.Rxd3 Rxd3 33.Bxe5 fxe5 34.Rxe5 Qd7 35.Nd6 Rd1+ 36.Kb2 Rxd6 37.Rd5 1-0

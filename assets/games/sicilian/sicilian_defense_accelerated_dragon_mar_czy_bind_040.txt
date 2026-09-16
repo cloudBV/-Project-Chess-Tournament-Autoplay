@@ -1,0 +1,15 @@
+[Event "Round 6: Menahem, Adi - Uritsky, Yonathan"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-6/Ukm9jNHu/lkneMowY"]
+[Date "2026.07.19"]
+[Round "6.4"]
+[White "Menahem, Adi"]
+[Black "Uritsky, Yonathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2323"]
+[BlackElo "2316"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.O-O a4 12.Bd4 Qa5 13.Rad1 Bd7 14.Qe3 Bc6 15.Nd5 Bxd5 16.exd5 Rfe8 17.Qa3 Nd7 18.Be3 Nc5 19.Rfe1 Na6 20.Rb1 Qb4 21.Qd3 Bxb2 22.Bd2 Qb6 23.Be3 Nc5 24.a3 Qa5 25.Bxc5 dxc5 26.Red1 Bd4 27.Rb5 Qa6 28.Rdb1 Rab8 29.Rb6 Qa5 30.g3 Red8 31.Kg2 Rd7 32.h4 Rd6 33.R6b5 Qc7 34.f4 e5 35.f5 b6 36.Rf1 Kh8 37.Qe4 Rg8 38.g4 Qe7 39.Kh3 f6 40.Rbb1 Qg7 41.Rf3 g5 42.h5 Ra8 43.Rb5 Ra5 44.Rxa5 bxa5 45.Qb1 Qd7 46.Rf1 Kg7 47.Qb8 1/2-1/2

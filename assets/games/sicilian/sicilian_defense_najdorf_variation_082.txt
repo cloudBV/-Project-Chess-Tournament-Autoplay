@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-4/9Kdq1tY4/wiFaTxDe"]
+[Date "2026.07.15"]
+[Round "4.15"]
+[White "Carnicelli, Valerio"]
+[Black "Galego, Luis"]
+[Result "1-0"]
+[WhiteElo "2436"]
+[BlackElo "2400"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h4 Nc6 7.Bg5 e6 8.Nxc6 bxc6 9.Qe2 h6 10.Be3 Qa5 11.O-O-O Rb8 12.Bd2 Be7 13.Kb1 d5 14.Nxd5 Qa3 15.Nc7+ Kf8 16.Nb5 Rxb5 17.Qxb5 axb5 18.bxa3 Nxe4 19.Be1 Ke8 20.Be2 Nf6 21.a4 bxa4 22.Bf3 Bd7 23.Bc3 Bc5 24.Bd4 Bb4 25.Rd3 Nd5 26.Bxg7 Rg8 27.Bxh6 Ke7 28.c4 Nb6 29.Rhd1 e5 30.Be3 Bf5 31.Bxb6 Rb8 32.Bc7 Rb7 33.Bd8+ Ke6 34.Bxc6 1-0

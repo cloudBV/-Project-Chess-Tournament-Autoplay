@@ -1,0 +1,15 @@
+[Event "Round 2: Suvradeepta, Das - Alsina Leal, Daniel"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-2/5lLQ3rww/OgsQJdgH"]
+[Date "2026.06.29"]
+[Round "2.1"]
+[White "Suvradeepta, Das"]
+[Black "Alsina Leal, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2147"]
+[BlackElo "2488"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Qc2 dxc4 5.Qxc4 b6 6.g3 Bb7 7.Bg2 c5 8.O-O Nbd7 9.Nc3 Rc8 10.Be3 h6 11.dxc5 Bxc5 12.Bxc5 Rxc5 13.Qa4 a6 14.Rfd1 b5 15.Qd4 Qc7 16.Ne1 Bxg2 17.Nxg2 O-O 18.Ne3 Rb8 19.Rd2 Qc6 20.Qd6 Qb7 21.Rad1 Rbc8 22.Qe7 R5c7 23.Qb4 Nc5 24.Rd4 Rb8 25.h3 Rcc8 26.Qa5 Qc7 27.Qxc7 Rxc7 28.Rd8+ Rxd8 29.Rxd8+ Kh7 30.a3 Kg6 31.Rd6 Ne8 32.Rb6 Rb7 33.Rc6 Rc7 34.Rb6 Rb7 35.Rc6 Rc7 1/2-1/2

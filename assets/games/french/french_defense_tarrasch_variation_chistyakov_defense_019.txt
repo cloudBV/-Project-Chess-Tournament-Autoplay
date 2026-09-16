@@ -1,0 +1,15 @@
+[Event "Round 9: Bortnyk, Mykola - Bora, Safal"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/SwtFGZ3i"]
+[Date "2026.07.19"]
+[Round "9.2"]
+[White "Bortnyk, Mykola"]
+[Black "Bora, Safal"]
+[Result "0-1"]
+[WhiteElo "2440"]
+[BlackElo "2496"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Qxd4 Qxd4 11.Nxd4 Bd7 12.Bf4 Bc5 13.Rad1 O-O 14.Rfe1 Rac8 15.Bb3 a5 16.a4 Rfd8 17.c3 Be8 18.Nb5 Rxd1 19.Rxd1 Ne4 20.Bg3 Nxg3 21.hxg3 Kf8 22.Kf1 Ke7 23.Bc2 Rd8 24.Rxd8 Kxd8 25.Be4 b6 26.g4 g6 27.Ke2 f5 28.gxf5 exf5 29.Bd5 g5 30.Be6 f4 31.Bf5 h5 32.f3 Ke7 33.Kd3 Kf6 34.Be4 g4 35.b4 Bg1 36.c4 axb4 37.Nc7 Bxa4 38.Nd5+ Kg5 39.Nxb4 g3 40.Ke2 h4 41.Kf1 Bc5 42.Nc6 Kf6 43.Nb8 Ke5 44.Nc6+ Kd6 45.Nd8 Ke7 46.Nc6+ Kd6 47.Nd8 Bd7 48.Nf7+ Ke7 49.Ng5 Kf6 50.Nh3 Ke5 51.Bh7 b5 52.Ng5 bxc4 53.Bc2 c3 54.Bd3 Bb5 0-1

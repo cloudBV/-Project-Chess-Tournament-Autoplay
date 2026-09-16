@@ -1,0 +1,14 @@
+[Event "Round 8: Hillarp Persson, Tiger - Arman, Deniz"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-8/Uzk59lx2/CSR74NY8"]
+[Date "2026.07.24"]
+[Round "8.2"]
+[White "Hillarp Persson, Tiger"]
+[Black "Arman, Deniz"]
+[Result "1-0"]
+[WhiteElo "2418"]
+[BlackElo "2370"]
+[ECO "A36"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.h4 h5 6.a3 a6 7.d3 d6 8.Bd2 Bd7 9.b4 cxb4 10.axb4 b5 11.Nxb5 Bxa1 12.Qxa1 f6 13.Na3 Rb8 14.Nc2 e5 15.Nf3 Nge7 16.O-O Qc8 17.e4 O-O 18.d4 exd4 19.Nfxd4 Ne5 20.Ne3 N7c6 21.Nd5 Kg7 22.c5 dxc5 23.bxc5 Nc4 24.Bf4 N6e5 25.Rc1 Bb5 26.c6 Rf7 27.Bxe5 Nxe5 28.c7 Rb7 29.Qa3 Nc4 30.Qc5 Ne5 31.Qd6 Bc4 32.Nxf6 Rxf6 33.Qxe5 Bg8 34.Rc6 1-0

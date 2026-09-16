@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.3"]
+[White "Lin, Bryan Enming"]
+[Black "Zhou, Jianchao"]
+[Result "1/2-1/2"]
+[WhiteElo "2381"]
+[BlackElo "2605"]
+[ECO "B40"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nc3 a6 6.d4 cxd4 7.Nxd4 Qc7 8.Nb3 d6 9.O-O Be7 10.Be3 O-O 11.g4 b5 12.g5 Nd7 13.f4 b4 14.Na4 Na5 15.Nxa5 Qxa5 16.c3 Bb7 17.cxb4 Qxb4 18.a3 Qa5 19.b4 Qd8 20.Rc1 e5 21.h4 exf4 22.Bxf4 Nb6 1/2-1/2

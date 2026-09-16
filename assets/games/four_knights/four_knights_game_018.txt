@@ -1,0 +1,15 @@
+[Event "Round 3: Kryakvin, Andrey - Nguyen Vu Bao Lam"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-3/3whfosYn/qpwgurBT"]
+[Date "2026.07.18"]
+[Round "3.11"]
+[White "Kryakvin, Andrey"]
+[Black "Nguyen Vu Bao Lam"]
+[Result "1-0"]
+[WhiteElo "2182"]
+[BlackElo "2010"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Be2 d5 5.exd5 Nxd5 6.O-O Nxc3 7.bxc3 Bd6 8.d4 O-O 9.h3 h6 10.Bb2 e4 11.Nd2 Qh4 12.Nc4 Rd8 13.Nxd6 Rxd6 14.Kh2 Ne5 15.c4 Rg6 16.dxe5 Rxg2+ 17.Kxg2 Bxh3+ 18.Kg1 Qg5+ 19.Bg4 Bxg4 20.f4 exf3 21.Qc1 Qg6 22.Kf2 Bh3 23.Rg1 Qe4 24.Qd2 Bg2 25.Rxg2 fxg2 26.Kg1 Re8 27.Qd4 Qg6 28.Re1 Qg5 29.e6 fxe6 30.Qd7 Rf8 31.Qxe6+ Kh8 32.Qh3 Rd8 33.Qxg2 Qxg2+ 34.Kxg2 Rd2+ 35.Kf3 Rxc2 36.Re8+ Kh7 37.Be5 Rxc4 38.Re7 Kg6 39.Rxg7+ Kf5 40.Bxc7 Rc3+ 41.Ke2 Rc2+ 42.Kd3 Rxa2 43.Bb8 a5 44.Rxb7 h5 45.Rh7 Kg6 46.Rh8 Ra1 47.Bf4 Kf5 48.Bd2 Kg4 49.Rg8+ Kf3 50.Rf8+ Kg4 51.Ke2 a4 52.Rg8+ Kh3 53.Be1 Ra2+ 54.Kf1 h4 55.Rh8 Kg4 56.Rxh4+ Kf3 57.Rh3+ Ke4 58.Bb4 Kd4 59.Ke1 Kc4 60.Be7 Kb5 61.Kd1 Rf2 62.Kc1 Rf5 63.Kb2 Rf2+ 64.Ka3 Rf5 65.Bb4 Rd5 66.Rg3 Rf5 67.Be7 Rd5 68.Bf6 Rf5 69.Bb2 Rh5 70.Ka2 Rh2 71.Rg5+ Kb4 72.Rg4+ Kb5 73.Kb1 Rh1+ 74.Bc1 a3 75.Rg2 Kc4 1-0

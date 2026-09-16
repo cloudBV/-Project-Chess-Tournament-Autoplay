@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "5.9"]
+[White "Mulet Polo, Pau"]
+[Black "Tallada Serret, Gerard"]
+[Result "0-1"]
+[WhiteElo "2010"]
+[BlackElo "2277"]
+[ECO "E43"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.a3 Bxc3+ 6.bxc3 Bb7 7.Ne2 d6 8.Ng3 c5 9.f3 Nc6 10.e4 O-O 11.Be2 Na5 12.O-O Qc7 13.d5 Ba6 14.Bg5 Nd7 15.dxe6 fxe6 16.Be7 Rfe8 17.Bxd6 Qc6 18.e5 Bxc4 19.Re1 Rad8 20.Qc2 Nf8 21.Qe4 Qxe4 22.Nxe4 Bxe2 23.Rxe2 Ng6 24.g3 Nc4 25.f4 Ne7 26.Rd1 Nd5 27.Kf2 Rd7 28.a4 h6 29.h4 Rf7 30.Rb1 Rd8 31.Kf3 Rf5 32.Kg4 Rd7 33.Kh3 Rdf7 34.Ra2 Nde3 35.a5 Nd5 36.axb6 axb6 37.Ra8+ Kh7 38.Re8 Nxf4+ 39.gxf4 Rxf4 40.Ng3 Rf3 41.Ra1 h5 42.Raa8 Rxc3 43.Rh8+ Kg6 44.Rxh5 Rxg3+ 45.Kxg3 Kxh5 46.Re8 Kg6 47.Rxe6+ Kf5 48.Re8 Nxd6 49.exd6 Rd7 50.Re7 Rxd6 51.Rxg7 Rg6+ 52.Rxg6 Kxg6 0-1

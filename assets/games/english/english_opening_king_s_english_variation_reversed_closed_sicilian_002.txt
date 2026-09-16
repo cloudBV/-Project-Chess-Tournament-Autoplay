@@ -1,0 +1,15 @@
+[Event "Round 9: Raahul V S - Gholami, Aryan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/AZTepdgS"]
+[Date "2026.07.05"]
+[Round "9.5"]
+[White "Raahul V S"]
+[Black "Gholami, Aryan"]
+[Result "0-1"]
+[WhiteElo "2402"]
+[BlackElo "2462"]
+[ECO "A25"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bb4 5.Nd5 O-O 6.Nxb4 Nxb4 7.Nf3 e4 8.Ng5 Re8 9.O-O h6 10.Nh3 d5 11.cxd5 Bg4 12.Kh1 Qxd5 13.Ng1 Nxa2 14.d3 Nxc1 15.Qxc1 c6 16.dxe4 Nxe4 17.Ra4 Bh5 18.Qa1 a6 19.Ra5 c5 20.b4 b6 21.Rxa6 Rxa6 22.Qxa6 Qd4 23.bxc5 Nxf2+ 24.Rxf2 Qxf2 25.cxb6 Bxe2 26.Qa4 Bb5 0-1

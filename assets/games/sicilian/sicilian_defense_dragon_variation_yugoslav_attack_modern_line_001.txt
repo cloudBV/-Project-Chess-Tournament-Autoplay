@@ -1,0 +1,15 @@
+[Event "WR Women's Chess Tour 2026 - Dom. Rep. Blitz session Punta Cana"]
+[Site "Punta Cana, Dominican Republic"]
+[Date "2026.06.30"]
+[Round "1.1"]
+[White "Garifullina, Leya"]
+[Black "Castillo Beitia, Ashley Alexandra"]
+[Result "1-0"]
+[WhiteElo "2398"]
+[BlackElo "2075"]
+[ECO "B76"]
+[TimeControl "3 minutos para la partida con incrementos de 2 segundos desde el primer movimiento."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O 9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Be6 14.Ne4 f5 15.Ng5 Re8 16.Nxe6 Rxe6 17.Bc4 Qh4 18.Bxd5 cxd5 19.Qxd5 Re8 20.Kb1 e4 21.fxe4 fxe4 22.Rhe1 h5 23.g3 Qg4 24.Bd4 Bh6 25.b3 Kh7 26.Be3 Bg7 27.Qg5 Qf3 28.Rd7 Qf6 29.Qxf6 Rxf6 30.Bd4 Kh6 31.Bxf6 Bxf6 32.c4 e3 33.Re2 Bc3 34.Kc2 Bb4 35.Rxa7 Rf8 36.Rd7 Rf1 37.Rd1 Rf3 38.Kd3 h4 39.Rxe3 Rf2 40.Re2 Rf3+ 41.Ke4 Rf7 42.gxh4 Be7 43.Kd5 Bxh4 44.Kc6 g5 45.c5 Bf2 46.b4 g4 47.Rd6+ Kh5 48.a4 Bg1 49.a5 Rf4 50.Re5+ 1-0

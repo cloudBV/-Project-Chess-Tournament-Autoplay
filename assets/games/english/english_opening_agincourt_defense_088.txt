@@ -1,0 +1,14 @@
+[Event "Round 1: Warmerdam, Max - Schuricht, Emil Frederick"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/P3QE7HGI"]
+[Date "2026.07.08"]
+[Round "1.1"]
+[White "Warmerdam, Max"]
+[Black "Schuricht, Emil Frederick"]
+[Result "1-0"]
+[WhiteElo "2533"]
+[BlackElo "2243"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.b4 h5 5.h3 e5 6.Qa4+ Bd7 7.b5 Na6 8.d3 Nc5 9.Qc2 a6 10.Ba3 Nf6 11.Nf3 axb5 12.Nxe5 Bf5 13.cxb5 Nxd3+ 14.Nxd3 Rxa3 15.Nxa3 Bxa3 16.Qa4 Bd6 17.Qxd4 O-O 18.O-O Bxd3 19.exd3 Qe8 20.Qc4 b6 21.a4 Qe5 22.Rfe1 Qg5 23.Re3 Bc5 24.d4 Bd6 25.h4 Qh6 26.Re2 Qg6 27.Rae1 Ng4 28.Qd5 Qd3 29.Be4 Qc3 30.Qxh5 Nf6 31.Qf3 Qxd4 32.Bc2 Qc5 33.Kg2 Qc4 34.h5 Qc5 35.h6 Qg5 36.hxg7 Kxg7 37.Rh1 Nd5 38.Rh7+ Kg8 39.Rh4 Nf6 40.Ree4 1-0

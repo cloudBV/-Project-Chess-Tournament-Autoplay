@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "8.1"]
+[White "Raczek, Krzysztof"]
+[Black "Zielonka, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2458"]
+[BlackElo "2180"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Bxc3+ 6.bxc3 c6 7.a4 O-O 8.Nf3 Qc7 9.a5 Re8 10.Bb2 c5 11.cxd5 exd5 12.Be2 c4 13.O-O Nc6 14.a6 b5 15.Nd2 Bf5 1/2-1/2

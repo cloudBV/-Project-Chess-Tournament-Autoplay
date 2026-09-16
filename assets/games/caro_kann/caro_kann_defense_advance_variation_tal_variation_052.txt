@@ -1,0 +1,14 @@
+[Event "Round 11: Arjun Kalyan - Mohammad Nubairshah Shaikh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/b6ualNw8"]
+[Date "2026.07.19"]
+[Round "11.5"]
+[White "Arjun Kalyan"]
+[Black "Mohammad Nubairshah Shaikh"]
+[Result "1/2-1/2"]
+[WhiteElo "2451"]
+[BlackElo "2316"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.Nd2 e6 8.Ne2 c5 9.c4 cxd4 10.Qb3 Nd7 11.cxd5 Qxd5 12.Qxd5 exd5 13.Nf3 Bc5 14.Nf4 Ne7 15.e6 fxe6 16.Nxe6 Kf7 17.Nexd4 Bxd4 18.Nxd4 Nc6 19.Be3 Nxd4 20.Bxd4 Rhe8+ 21.Kd2 Re4 22.Kd3 Rae8 23.Rac1 Ne5+ 24.Bxe5 R8xe5 25.Rc7+ Re7 26.Rxe7+ Kxe7 27.g3 Kd6 28.Rc1 Rb4 29.b3 g5 30.hxg5 Rg4 31.Rc8 Rxg5 32.Rd8+ Ke6 33.Re8+ Kd6 34.Rf8 a5 35.Rf6+ Kc5 36.a3 b6 37.Rf8 Re5 38.Rc8+ Kd6 39.f4 Re1 40.Rd8+ Kc6 41.Rc8+ Kd6 42.Rg8 Rb1 43.Kc2 Rg1 44.Rg5 b5 45.b4 a4 46.Rg6+ Kc7 47.Rg5 Kd6 48.f5 Ke5 49.f6+ Kxf6 50.Rxd5 Rg2+ 51.Kb1 Rxg3 52.Rxh5 Rxa3 53.Rxb5 Ke6 54.Kb2 Rb3+ 55.Ka2 1/2-1/2

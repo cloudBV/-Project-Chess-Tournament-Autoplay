@@ -1,0 +1,14 @@
+[Event "Round 6: Krivka, Matej - Slovak, Kilian"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-6/qShzz9eM/FHMemShD"]
+[Date "2026.07.02"]
+[Round "6.6"]
+[White "Krivka, Matej"]
+[Black "Slovak, Kilian"]
+[Result "0-1"]
+[WhiteElo "2052"]
+[BlackElo "2307"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 O-O 13.g3 a5 14.Bg2 Bg5 15.O-O Rb8 16.b3 Be6 17.f4 exf4 18.gxf4 Bh4 19.Kh1 Qd7 20.Qh5 Bd8 21.Nde3 f6 22.Rad1 Bb6 23.Qf3 Rbc8 24.Qg3 Bc5 25.Bf3 Kh8 26.Rg1 Rg8 27.f5 Bf7 28.Qh4 Qa7 29.Rg3 Bxe3 30.Nxe3 Qxe3 31.Rh3 h6 32.Bh5 Qa7 33.Rg1 Bxh5 34.Qxh5 Ne5 0-1

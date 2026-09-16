@@ -1,0 +1,14 @@
+[Event "Round 3: Odner, Aarni - Sivuk, Vitaly"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-3/rTQ7NEIV/IYeN1lnm"]
+[Date "2026.07.14"]
+[Round "3.10"]
+[White "Odner, Aarni"]
+[Black "Sivuk, Vitaly"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2499"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 h5 8.Qd2 Be7 9.O-O-O b5 10.Nb3 Nbd7 11.a3 Bb7 12.Bd3 Ne5 13.Qf2 Rc8 14.Rhe1 O-O 15.Bb6 Qe8 16.f4 Nxd3+ 17.Rxd3 Rxc3 18.Rxc3 Nxe4 19.Qf3 Nxc3 20.Qxb7 Nd5 21.f5 Qc8 22.Qa7 e5 23.Rd1 Bg5+ 24.Kb1 Qc6 25.Bf2 Rc8 26.c3 Ra8 27.Na5 Nxc3+ 0-1

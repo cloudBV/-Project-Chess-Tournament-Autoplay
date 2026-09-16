@@ -1,0 +1,15 @@
+[Event "XXII Baltic Pearl Chess Festival 2026 - Group A 1-20"]
+[Site "Lazy, Poland"]
+[Date "2026.07.04"]
+[Round "7.2"]
+[White "Luczak, Filip"]
+[Black "Moczulski, Michal"]
+[Result "1-0"]
+[WhiteElo "2348"]
+[BlackElo "2046"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.a4 e6 6.e5 d5 7.d4 cxd4 8.Nb5 Bf8 9.Nbxd4 Nh6 10.Be3 Nf5 11.Nxf5 gxf5 12.Nd4 Nxd4 13.Bxd4 Bd7 14.c3 Qh4+ 15.g3 Qh6 16.Qb3 Bc6 17.Bb5 Be7 18.Bxc6+ bxc6 19.Qb7 Rd8 20.Bxa7 Kf8 21.Bb6 Re8 22.Qxc6 Qh3 23.a5 Qg2 24.O-O-O Kg7 25.Rhg1 Qe2 26.Rd2 Qf3 27.Qb5 Rc8 28.Qd3 Qe4 29.Qxe4 fxe4 30.Kc2 Rc6 31.Ra1 Ra8 32.Bd4 Bb4 33.Ra4 Bc5 34.Bxc5 Rxc5 35.b4 Rc4 36.Rd4 Rc7 37.b5 1-0

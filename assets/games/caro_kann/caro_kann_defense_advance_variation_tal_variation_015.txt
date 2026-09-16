@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.08"]
+[Round "7.6"]
+[White "Razafindratsima, Timothe"]
+[Black "Fiedorek, Michal"]
+[Result "1-0"]
+[WhiteElo "2523"]
+[BlackElo "2356"]
+[ECO "B12"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.Nd2 e6 8.Nf3 Nh6 9.c3 Qa6 10.Qxa6 Nxa6 11.b4 Nc7 12.Nb3 Nf5 13.a4 Be7 14.Bg5 b6 15.Kd2 Kd7 16.Bxe7 Kxe7 17.Rhb1 Rhb8 18.g3 Rg8 19.Nc1 Rgb8 20.a5 b5 21.Nd3 Na6 22.Nf4 Rh8 23.Rh1 Rag8 24.Rag1 Nb8 25.Nxh5 Rxh5 26.g4 Rh6 27.gxf5 exf5 28.h5 Nd7 29.Rg5 g6 30.Rhg1 Ke6 31.Nh4 Rgh8 32.Nxg6 fxg6 33.Rxg6+ Ke7 34.Rg7+ Ke8 35.R1g6 a6 36.Rg8+ Ke7 37.Rxh8 Rxh8 38.Rxc6 Rh7 39.h6 Rxh6 40.Rxa6 Rh2 41.Ke2 Rh3 42.Rc6 Nb8 43.Rc5 Na6 44.Rc6 Nb8 45.Rb6 Nd7 46.Rxb5 Ke6 47.a6 Rxc3 48.a7 Rc8 49.Kd2 f4 50.Rb7 1-0

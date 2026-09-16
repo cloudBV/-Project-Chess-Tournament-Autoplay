@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.5"]
+[White "Mulawa, Cyprian"]
+[Black "Stepinski, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2245"]
+[BlackElo "2281"]
+[ECO "A35"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 g6 5.d4 cxd4 6.exd4 d5 7.cxd5 Nxd5 8.Qb3 Nxc3 9.Bc4 e6 10.bxc3 Na5 11.Bb5+ Bd7 12.Qa4 Nc6 13.Bg5 Be7 14.Bh6 Qa5 15.Qb3 Qa3 16.O-O a6 17.Bd3 Qxb3 18.axb3 f6 19.Rfe1 Kf7 20.h4 Rhe8 21.Re2 Bf8 22.Bf4 Rac8 23.Be4 Ne7 24.c4 Bc6 25.Rae1 Bxe4 26.Rxe4 Nc6 27.g4 Rcd8 28.Bc7 Rc8 29.Bb6 Bg7 30.d5 exd5 31.cxd5 Rxe4 32.Rxe4 Ne5 33.Nxe5+ fxe5 34.Rc4 Rxc4 35.bxc4 h5 36.g5 e4 37.Kf1 Bc3 38.Ke2 a5 39.Ke3 a4 40.Bc5 Bb2 41.Kd2 a3 42.Kc2 Ke8 43.Kb3 Kd7 44.Be3 Kc8 45.Bb6 Kd7 46.c5 Kc8 47.c6 1/2-1/2

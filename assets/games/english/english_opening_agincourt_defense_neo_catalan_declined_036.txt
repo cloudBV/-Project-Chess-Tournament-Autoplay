@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "3.10"]
+[White "Ugorek, Kacper"]
+[Black "Shtiza, Brendon"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2003"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.d4 c6 9.Nbd2 Nbd7 10.Rc1 Rc8 11.e3 Re8 12.Rc2 c5 13.Qa1 h6 14.Rfc1 cxd4 15.Nxd4 Nc5 16.cxd5 exd5 17.Nf5 Kh7 18.Nxe7 Qxe7 19.Bxf6 Qxf6 20.Qxf6 gxf6 21.b4 Nd3 22.Rxc8 Rxc8 23.Rxc8 Bxc8 24.Bxd5 Nxb4 25.Bxf7 Kg7 26.Bb3 f5 27.e4 Kf6 28.f4 fxe4 29.Nxe4+ Ke7 30.Kf2 Bf5 31.Ke3 a5 32.a3 Nc6 33.Bd5 Na7 34.Nc3 Kd6 35.Kd4 b5 36.Be4 Be6 37.f5 Bf7 38.g4 Nc6+ 39.Bxc6 Kxc6 40.h4 b4 41.axb4 axb4 42.Ne4 b3 43.Nd2 b2 44.Ke5 Ba2 45.g5 hxg5 46.hxg5 b1=Q 47.Nxb1 Bxb1 48.Ke6 Ba2+ 49.Ke7 Kd5 50.g6 Ke5 51.f6 Kf5 52.f7 Kxg6 53.f8=Q Bb1 54.Qf6+ Kh5 55.Qe5+ Kh6 56.Kf6 Bg6 57.Qg5+ 1-0

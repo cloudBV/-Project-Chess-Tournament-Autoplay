@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.21"]
+[White "Sanz Gorospe, Ibai"]
+[Black "Pascual Garcia, Martin"]
+[Result "1-0"]
+[WhiteElo "2317"]
+[BlackElo "2125"]
+[ECO "C15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Alekhine Gambit, Kan Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6 7.Bf4 Nf6 8.Bb5 Nd5 9.Bxc6+ bxc6 10.Qd2 Ba6 11.O-O-O Nxc3 12.Qxc3 Qd5 13.b3 O-O 14.h4 Be2 15.Rd2 Bg4 16.Qg3 h5 17.Bxc7 Bf5 18.Bd6 Rfd8 19.Be5 Bg6 20.Rhd1 a5 21.a4 Ra7 22.Qg5 Qd7 23.g4 Qe7 24.Qxe7 Rxe7 25.gxh5 Bxh5 26.Rg1 Kh7 27.Rxg7+ Kh6 28.Rg5 Ra8 29.Bf4 Ree8 30.Rxa5+ Kg6 31.Rg5+ Kh6 32.Re5+ Kg6 33.Rxe4 Bg4 34.Re3 Kf5 35.Bg3 f6 36.c4 Re7 37.Kc2 Rb7 38.Kc3 Ra6 39.Re1 Bf3 40.Ra2 Be4 41.f3 Bxf3 42.Rf2 Kg4 43.Rg1 Bd1 44.Bd6+ 1-0

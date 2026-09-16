@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-4/QNxIC5eL/YzYezkVz"]
+[Date "2026.07.11"]
+[Round "4.10"]
+[White "Paikens, Reinis"]
+[Black "Olshevskis, Aleksejs Jans"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2042"]
+[ECO "A20"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 d6 7.dxe5 dxe5 8.Qxd8+ Kxd8 9.Nf3 Nbd7 10.Nc3 Ke7 11.O-O-O h6 12.h3 b6 13.Nh4 Nb8 14.Rd2 g5 15.Nf3 Nbd7 16.Rhd1 Bb7 17.Ne1 Rhd8 18.Nc2 Nf8 19.Ne3 Rxd2 20.Rxd2 Ke6 21.g4 h5 22.Nf5 hxg4 23.hxg4 Ne8 24.Ne4 f6 25.Nfd6 Ba6 26.Nxe8 Rxe8 27.Rd6+ Ke7 28.Rxc6 Ne6 29.Nd6 Rh8 30.Nf5+ Kf7 31.Bd5 Bc8 32.Rxc8 Rxc8 33.Nd6+ Kg6 34.Nxc8 Nd4 35.Kd2 f5 36.e3 fxg4 37.exd4 exd4 1-0

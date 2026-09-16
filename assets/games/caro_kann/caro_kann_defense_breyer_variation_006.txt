@@ -1,0 +1,15 @@
+[Event "Round 2: Cankurt, Arda - Kirilmaz, Emre"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/jroU9zUm"]
+[Date "2026.07.14"]
+[Round "2.18"]
+[White "Cankurt, Arda"]
+[Black "Kirilmaz, Emre"]
+[Result "1/2-1/2"]
+[WhiteElo "2079"]
+[BlackElo "2222"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 Nd7 4.Ngf3 e5 5.d4 exd4 6.Bd3 dxe4 7.Nxe4 Ngf6 8.O-O Be7 9.Nxd4 Ne5 10.Nf5 Bxf5 11.Nxf6+ Bxf6 12.Bxf5 Qxd1 13.Rxd1 O-O 14.Be3 Nc4 15.Bd4 Nxb2 16.Bxb2 Bxb2 17.Rab1 Rfd8 18.Bd7 Be5 19.Rxb7 Rab8 20.Rdb1 Rxb7 21.Rxb7 a5 22.g3 c5 23.a4 g6 24.Kg2 Rb8 25.Rxb8+ Bxb8 26.Bb5 f5 27.Kf3 Kf7 28.Ke3 Be5 29.Kd3 Bd4 30.f3 Ke7 31.Kc4 Kd6 32.Be8 Bg1 33.h3 Bf2 34.Kb5 Be1 35.Bf7 h6 36.Bxg6 f4 37.gxf4 Bb4 38.Be4 Ke7 39.Kc4 Kd6 40.f5 Ba3 41.Kb5 Bb4 42.Bd3 Ke5 43.f4+ Kf6 44.h4 Ke7 45.h5 Kf6 46.Kc4 Ba3 47.Kd5 Bb4 48.Be4 Ke7 49.Ke5 Bc3+ 50.Kd5 Bb4 51.Bd3 Kf6 52.Ke4 Ke7 53.Bc4 Kf6 54.Be6 Ke7 55.Kd5 Kf6 56.Ke4 Ke7 57.Kd3 Kf6 58.Ke4 Ke7 59.Bg8 Kf6 60.Ba2 Ba3 61.Be6 1/2-1/2

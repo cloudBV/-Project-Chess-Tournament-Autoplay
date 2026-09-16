@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.7"]
+[White "Moen, Andreas G.R."]
+[Black "Kierulf, Villum Brevick"]
+[Result "1-0"]
+[WhiteElo "2279"]
+[BlackElo "2187"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 h6 6.a3 a6 7.Be3 Bxe3 8.fxe3 d6 9.O-O O-O 10.Qe1 Qe7 11.Nh4 Kh7 12.Nf5 Bxf5 13.Rxf5 Nb8 14.Qh4 Nbd7 15.Raf1 Rg8 16.g4 g5 17.Qf2 c6 18.Rxf6 Nxf6 19.Qxf6 Qxf6 20.Rxf6 Rg6 21.Rxf7+ Rg7 22.Rf6 Rg6 23.Rf5 b5 24.Bb3 a5 25.a4 Rb8 26.Kf2 Rg7 27.d4 exd4 28.exd4 bxa4 29.Nxa4 Re7 30.Ke3 Ra8 31.Bc4 Kg7 32.Bd3 Rb7 33.b3 Re7 34.Nb6 Rb8 35.Nc4 d5 36.Nxa5 dxe4 1-0

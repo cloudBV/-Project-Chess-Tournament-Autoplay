@@ -1,0 +1,15 @@
+[Event "Round 9: Janzelj, Tim - Petriashvili, Nikoloz"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-9/Ha7f1xuO/GP2LiBFU"]
+[Date "2026.06.29"]
+[Round "9.1"]
+[White "Janzelj, Tim"]
+[Black "Petriashvili, Nikoloz"]
+[Result "0-1"]
+[WhiteElo "2394"]
+[BlackElo "2510"]
+[ECO "C42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Petrov's Defense: French Attack"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 g6 7.Bg5 Bg7 8.Qe2+ Qe7 9.Qxe7+ Kxe7 10.Nc3 c6 11.O-O-O d5 12.Ne5 Re8 13.h4 Kf8 14.Bxf6 Bxf6 15.f4 h5 16.Bd3 Kg7 17.Rdg1 Be6 18.Nd1 Nd7 19.Ne3 Nxe5 20.fxe5 Be7 21.g4 hxg4 22.Nxg4 Rh8 23.h5 Bg5+ 24.Kd1 Rxh5 25.Rxh5 gxh5 26.Ne3 Kh6 27.Ke2 f6 28.Rf1 fxe5 29.dxe5 Re8 30.Nf5+ Bxf5 31.Rxf5 Bc1 32.b3 Bb2 33.Rf7 Bxe5 34.Rxb7 Kg5 35.Rf7 h4 36.Kf3 h3 37.Rf5+ Kh6 38.Kg4 h2 39.Rh5+ Kg7 40.Rh7+ Kf6 41.Rh6+ Ke7 42.Kf3 Rg8 43.Bf1 Rg3+ 44.Kf2 Rg1 45.Bg2 Rc1 46.c4 Rc2+ 47.Kf1 d4 48.Rh3 c5 49.Be4 Rxa2 50.Rh5 Bg3 0-1

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.17"]
+[White "Zamengo, Fulvio"]
+[Black "Ereza Vizcarra, Fernando"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2148"]
+[ECO "B45"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nb3 Bb4 7.Bd3 Nge7 8.O-O O-O 9.Nb5 a6 10.N5d4 Nxd4 11.Nxd4 e5 12.Nf3 d6 13.Bc4 Qc7 14.Qd3 b5 15.Bb3 h6 16.c4 bxc4 17.Bxc4 Bb7 18.Be3 Qc6 19.a3 Ba5 20.Rac1 Qxe4 21.Qxd6 Ng6 22.Bd3 Qg4 23.h3 Qh5 24.Bxg6 fxg6 25.Nxe5 Rad8 26.Qe6+ Kh7 27.Nd7 Rf5 28.b4 Bd5 29.Qe7 Rf7 30.Qe5 Bxb4 31.Qxh5 gxh5 32.Nb6 Be7 33.Nxd5 Rxd5 34.a4 Bg5 35.Rc6 Rf6 36.Rfc1 Ra5 37.Rxf6 Bxf6 38.Rc4 Rd5 39.Kf1 Kg6 40.Ke2 Kf5 41.Bd2 Ke6 42.Rc7 Rd7 43.Rxd7 Kxd7 44.Kd3 Kd6 45.Ke4 Ke6 46.Be3 Be7 47.Bd4 Bf8 48.Bc3 g6 49.f3 h4 50.Bb2 h5 51.Bc3 Bh6 52.Be5 Bf8 53.Bf4 Bc5 54.Bg5 Bf2 55.Bd8 Kd6 56.Kf4 Ke6 57.Kg5 Kf7 58.f4 Be3 59.Bc7 Bc5 60.Kxh4 Be7+ 61.Kg3 Ke6 62.Kf3 Kd5 63.Ke3 Bc5+ 64.Kd3 Bb4 65.Bb6 Be1 66.Ke3 Bc3 67.f5 g5 68.Bd8 Ke5 69.g4 hxg4 70.hxg4 Bb2 71.Bc7+ Kd5 72.Bd8 Ke5 73.Ba5 Bc1+ 74.Bd2 Ba3 75.Bc3+ Kd5 76.Bf6 Bc1+ 77.Kd3 Bf4 78.Bd8 Bc1 79.Ba5 Ba3 80.Bc3 Bd6 81.Bd4 Bf4 82.Be3 1-0

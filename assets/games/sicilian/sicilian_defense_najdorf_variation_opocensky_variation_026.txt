@@ -1,0 +1,14 @@
+[Event "Round 4: Shukhman, Anna - Amonatov, Farrukh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-4/xI74yWxD/30stHQWy"]
+[Date "2026.07.19"]
+[Round "4.3"]
+[White "Shukhman, Anna"]
+[Black "Amonatov, Farrukh"]
+[Result "1-0"]
+[WhiteElo "2392"]
+[BlackElo "2585"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.Nd5 Nbd7 10.Qd3 Bxd5 11.exd5 O-O 12.g4 Nc5 13.Nxc5 dxc5 14.O-O-O e4 15.Qb3 Bd6 16.Qxb7 Rb8 17.Qxa6 Qe7 18.c3 Nd7 19.Qc4 Ra8 20.Kb1 Rfb8 21.Rd2 Nb6 22.Qb3 Na4 23.Bb5 Ra5 24.c4 Nb6 25.Qc2 Be5 26.Qxe4 Qd6 27.f4 Bc3 28.bxc3 Nxc4 29.Qxc4 Raxb5+ 30.Ka1 Qb6 31.Rdd1 h6 32.Qa4 Ra5 33.Qc2 Rba8 34.Rb1 Qg6 35.Rb2 Rxa2+ 36.Rxa2 Qxc2 37.Rxa8+ Kh7 38.Rc1 Qd3 39.Bg1 Qxd5 40.Ra2 Qc4 41.Be3 Qe4 42.Re1 Qf3 43.g5 h5 44.Rf2 Qe4 45.Kb2 Qb7+ 46.Kc1 Qb3 47.Rc2 Qc4 48.f5 Qe4 49.Rf2 Qd3 50.Bd2 Qd5 51.g6+ fxg6 52.fxg6+ Kxg6 53.Rg1+ Kh7 54.Rfg2 Kg8 55.Rxg7+ Kf8 56.Rg8+ Kf7 57.R1g7+ Kf6 58.Rg6+ Kf7 59.R8g7+ Kf8 60.Ra7 Qh1+ 61.Kb2 Qxh2 62.Rf6+ Ke8 63.Kc2 Qe5 64.Rh6 Qf5+ 65.Kb2 Qe5 66.Rh8+ Qxh8 67.Ra8+ 1-0

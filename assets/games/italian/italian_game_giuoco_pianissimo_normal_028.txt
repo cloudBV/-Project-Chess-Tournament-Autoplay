@@ -1,0 +1,15 @@
+[Event "Round 1: Zverev, Lev - Bayantas, Asman"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/LRV8z3R9"]
+[Date "2026.07.21"]
+[Round "1.10"]
+[White "Zverev, Lev"]
+[Black "Bayantas, Asman"]
+[Result "1/2-1/2"]
+[WhiteElo "2468"]
+[BlackElo "2245"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O d6 6.c3 a5 7.Re1 O-O 8.h3 h6 9.Nbd2 Be6 10.Bb5 Nd7 11.Nf1 f5 12.exf5 Bxf5 13.d4 Bb6 14.Ng3 Bg6 15.a3 exd4 16.cxd4 Nf6 17.Be3 Ne7 18.Nh4 Bh7 19.Bd3 Bxd3 20.Qxd3 Qd7 21.Re2 Rfe8 22.Rae1 Ned5 23.Ngf5 Kh8 24.Ng6+ Kg8 25.Bxh6 gxh6 26.Qg3 Qh7 27.Nge7+ Kh8 28.Qh4 Ng8 29.g4 Nf4 30.Re6 Nxe6 31.Rxe6 Rxe7 32.Rxe7 Qg6 33.Rg7 Qe6 34.Qh5 Rf8 35.Rg6 Rf6 36.Rxf6 Qxf6 37.Qe8 Bxd4 38.Qe4 Bb6 39.Qc2 Ne7 40.Ng3 Ng6 41.Nh5 Qe5 42.Qd2 Kh7 43.Kf1 d5 44.Qd3 c5 45.f4 Qd4 46.Qf5 Qd1+ 47.Kg2 Qe2+ 48.Kg3 Qe1+ 49.Kh2 Qd2+ 50.Kg3 Qe3+ 51.Kh2 Qf2+ 52.Kh1 Qf3+ 53.Kh2 Qe2+ 54.Kg3 1/2-1/2

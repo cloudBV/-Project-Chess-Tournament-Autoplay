@@ -1,0 +1,15 @@
+[Event "Round 6: Carter, Emmanuel - Rensch, Daniel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/S4lmFBmt"]
+[Date "2026.07.03"]
+[Round "6.20"]
+[White "Carter, Emmanuel"]
+[Black "Rensch, Daniel"]
+[Result "1-0"]
+[WhiteElo "2065"]
+[BlackElo "2399"]
+[ECO "E18"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 d5 8.Ne5 c6 9.e4 Nbd7 10.cxd5 cxd5 11.Nxd7 Qxd7 12.e5 Ne8 13.f4 b5 14.a3 a5 15.Ne2 f5 16.exf6 Bxf6 17.g4 Nd6 18.Ng3 Ne4 19.Be3 Rac8 20.f5 Nxg3 21.hxg3 e5 22.g5 exd4 23.Bf4 Be7 24.Bh3 Bc5 25.b4 axb4 26.axb4 Bxb4 27.Qh5 Qe8 28.g6 h6 29.Ra7 Rb8 30.Bxh6 gxh6 31.f6 Qe3+ 32.Kh1 Qg5 33.Be6+ Kh8 34.Qxg5 hxg5 35.Kg2 Rxf6 36.Rxf6 Kg7 37.Rf7+ Kxg6 38.Rfxb7 Rh8 39.g4 Kf6 40.Bf5 Ke5 41.Rxb5 Bc3 42.Re7+ Kd6 43.Re6+ 1-0

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.12"]
+[White "Cereijo Suarez, Alejandro"]
+[Black "De La Villa Garcia, Jesus Maria"]
+[Result "0-1"]
+[WhiteElo "2240"]
+[BlackElo "2420"]
+[ECO "E10"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.Nc3 O-O 6.a3 Nbd7 7.c5 c6 8.Bd3 e5 9.Nxe5 Nxe5 10.dxe5 Ng4 11.f4 Bxc5 12.Qe2 Qh4+ 13.g3 Qh3 14.b4 Bb6 15.Na4 f6 16.Nxb6 axb6 17.exf6 Nxf6 18.Bb2 Bf5 19.Bxf6 Rxf6 20.Bxf5 Qxf5 21.g4 Qe4 22.O-O Re8 23.Rae1 Rfe6 24.Qd2 b5 25.h3 R6e7 26.Kf2 Ra8 27.Qb2 Qd3 0-1

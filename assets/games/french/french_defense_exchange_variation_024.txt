@@ -1,0 +1,14 @@
+[Event "Round 3: Vaishali, Rameshbabu - Kosteniuk, Alexandra"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-rapid/round-3/vqLxpsNU/vC7iFi2q"]
+[Date "2026.07.12"]
+[Round "3.3"]
+[White "Vaishali, Rameshbabu"]
+[Black "Kosteniuk, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2410"]
+[BlackElo "2431"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.Bb5 a6 6.Bxc6+ bxc6 7.O-O Bd6 8.Ne5 Ne7 9.Bg5 Bxe5 10.dxe5 Be6 11.f4 Qd7 12.Bxe7 Kxe7 13.Nc3 d4 14.Ne4 Bf5 15.Ng3 Rhd8 16.Qh5 g6 17.Qh4+ Kf8 18.Qxh7 Qe6 19.Rae1 c5 20.b3 Ke7 21.Nxf5+ gxf5 22.Qh3 Rab8 23.Qd3 Rb4 24.c4 Rbb8 25.Rf3 Rh8 26.Rg3 Rh4 27.Qf3 Rd8 28.h3 d3 29.Rd1 Rd4 30.Rg8 c6 31.Qg3 Qh6 32.Rb8 Qxf4 33.Rb7+ Ke6 34.Qg8 Qe3+ 35.Kh2 Qf4+ 36.Kh1 Rxh3+ 37.gxh3 Qf3+ 38.Kh2 Qe2+ 39.Qg2 f4 40.Rf1 f3 41.Rxf3 Qxg2+ 42.Kxg2 d2 43.Rfxf7 Kxe5 44.Rbe7+ Kd6 45.Rd7+ Ke5 46.Rxd4 cxd4 47.Rf1 Ke4 48.Kf2 Kd3 49.h4 1-0

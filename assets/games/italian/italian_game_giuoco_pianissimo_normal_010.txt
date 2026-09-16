@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.9"]
+[White "Liang, Jason"]
+[Black "Melillo, Lucius"]
+[Result "1/2-1/2"]
+[WhiteElo "2462"]
+[BlackElo "2295"]
+[ECO "C50"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a5 7.Re1 O-O 8.h3 h6 9.d4 Ba7 10.Bb3 Re8 11.Bc2 Nh7 12.Be3 Qf6 13.Na3 Bd7 14.Nb5 Bb8 15.dxe5 Nxe5 16.Nxe5 Qxe5 17.Nd4 Nf6 18.f4 Qh5 19.Bf2 Qxd1 20.Raxd1 Ba7 21.e5 dxe5 22.fxe5 Nh7 23.Be4 Rab8 24.Nb3 Bxf2+ 25.Kxf2 Ba4 26.Rd4 Bxb3 27.axb3 Re7 28.Rd5 b6 29.Bd3 Nf8 30.Bb5 Re6 31.Rd4 Re7 32.Re2 Ng6 33.Rde4 Rd8 34.Bc4 Nf8 35.Rd4 Rde8 36.Bb5 Rc8 37.g3 Ng6 38.Rde4 c6 39.Bc4 b5 40.Bd3 Rce8 41.e6 fxe6 42.Rd4 Rf7+ 43.Kg2 Nf8 44.Be4 c5 45.Rd6 b4 46.Rc6 bxc3 47.bxc3 Rb7 48.Bd5 Ree7 49.Bc4 Rec7 50.Rxc7 Rxc7 51.Ra2 Ra7 52.Ra4 Kf7 53.b4 cxb4 54.cxb4 Nd7 55.Be2 Nb6 56.Rxa5 Rd7 57.Ra2 Rd4 58.b5 Rb4 59.Rc2 Nd5 60.Kf2 Kf6 61.h4 Ke5 62.Bf1 g5 63.Re2+ Kd6 64.hxg5 hxg5 65.Ra2 Ke5 66.Re2+ 1/2-1/2

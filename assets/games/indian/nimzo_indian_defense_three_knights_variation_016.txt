@@ -1,0 +1,14 @@
+[Event "Round 3: Born, Mario - Eichstaedt, Mirko"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-3/EFWoXZQM/5fysCiop"]
+[Date "2026.07.07"]
+[Round "3.1"]
+[White "Born, Mario"]
+[Black "Eichstaedt, Mirko"]
+[Result "0-1"]
+[WhiteElo "2093"]
+[BlackElo "2229"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Qb3 Bxc3+ 6.Qxc3 b6 7.g3 Bb7 8.Bg2 d6 9.O-O Nbd7 10.Bf4 Qe7 11.Rad1 h6 12.Rfe1 a5 13.b3 Rae8 14.Bc1 Ne4 15.Qc2 f5 16.Nd2 Ndf6 17.h3 Ba8 18.Ba3 g5 19.c5 Nxd2 20.cxd6 cxd6 21.Bxa8 Rxa8 22.Qxd2 b5 23.f3 b4 24.Bb2 d5 25.Qe3 a4 26.g4 axb3 27.axb3 Ra2 28.Rd2 Qd6 29.Kg2 Kf7 30.Qd3 Kg6 31.Rc2 h5 32.Bc1 Rxc2 33.Qxc2 h4 34.Rh1 Qg3+ 35.Kf1 Ne4 36.Be3 fxg4 37.hxg4 h3 38.Rg1 Rxf3+ 39.exf3 Qxf3+ 40.Bf2 h2 41.Ke1 0-1

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.4"]
+[White "Vogel, Roven"]
+[Black "Setina, Vaclav"]
+[Result "1/2-1/2"]
+[WhiteElo "2495"]
+[BlackElo "2028"]
+[ECO "A13"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 c5 4.Bg2 Nc6 5.O-O Nf6 6.cxd5 exd5 7.d4 cxd4 8.Nxd4 Bc5 9.Nxc6 bxc6 10.Qc2 Qb6 11.Nc3 Be7 12.Be3 Qb7 13.Na4 O-O 14.Rac1 Bg4 15.h3 Be6 16.Nc5 Bxc5 17.Bxc5 Rfc8 18.b3 a5 19.Kh2 a4 20.b4 a3 21.Rfd1 Qb5 22.Rd4 Ne4 23.e3 Nxc5 24.Qxc5 Qxc5 25.Rxc5 g6 26.Bf1 Ra4 27.g4 Rb8 28.Rxc6 Raxb4 29.Rxb4 Rxb4 30.Ra6 d4 31.Rxa3 dxe3 32.Rxe3 Bxa2 33.Kg3 1/2-1/2

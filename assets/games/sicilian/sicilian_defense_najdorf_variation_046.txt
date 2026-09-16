@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "3.9"]
+[White "Kowalski, Witold"]
+[Black "Lyakh, Vasiliy"]
+[Result "1/2-1/2"]
+[WhiteElo "2044"]
+[BlackElo "2328"]
+[ECO "B90"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 g6 7.f3 Bg7 8.Be3 Nc6 9.Qd2 Bd7 10.O-O-O Rc8 11.Nxc6 Rxc6 12.Bh6 O-O 13.h4 Qa5 14.Kb1 Bxh6 15.Qxh6 Be6 16.h5 Rxc3 17.hxg6 fxg6 18.bxc3 Qa3 19.c4 b5 20.Qc1 Qa4 21.Qb2 bxc4 22.Be2 c3 23.Qxc3 Qxa2+ 24.Kc1 Rc8 25.Qb2 Qa5 26.Bd3 Qg5+ 27.Rd2 Nd7 28.Rf1 Rb8 29.Qd4 Qa5 30.Kd1 Rb1+ 31.Ke2 Rxf1 32.Bc4 Bxc4+ 33.Qxc4+ Kg7 34.Qd4+ e5 35.Qxd6 Qb5+ 36.Rd3 Ra1 37.Qxd7+ Qxd7 38.Rxd7+ Kh6 39.Rd5 Rg1 40.Kf2 Rc1 41.Rxe5 Rxc2+ 42.Kg3 Ra2 43.Re7 1/2-1/2

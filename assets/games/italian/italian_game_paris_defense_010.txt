@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.09"]
+[Round "6.5"]
+[White "Raghav V"]
+[Black "Milliet, Sophie"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2362"]
+[ECO "C50"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.Nc3 Na5 5.Bb5+ c6 6.Be2 c5 7.O-O Be7 8.d3 Nf6 9.h3 O-O 10.Bg5 Be6 11.Bxf6 Bxf6 12.Nd2 Bg5 13.Nc4 Nc6 14.Bg4 Nd4 15.a4 g6 16.Bxe6 Nxe6 17.Nd5 Kh8 18.Rb1 Rc8 19.b4 cxb4 20.Rxb4 b6 21.Qa1 Nd4 22.Qb2 f5 23.c3 Ne6 24.Qe2 Rc5 25.g3 f4 26.Qg4 Nc7 27.Nxc7 Rxc7 28.h4 Bh6 29.Rbb1 Rcf7 30.d4 Qc7 31.Qe6 Rf6 32.Qd5 Qc8 33.Kg2 f3+ 34.Kh2 Rf4 35.Rg1 Qd8 36.Kh3 Qd7+ 37.Kh2 Qg4 38.Ne3 Qh5 39.Qe6 Rxh4+ 40.gxh4 Qxh4+ 41.Qh3 Qxf2+ 42.Ng2 fxg2 43.Rxg2 Qf4+ 44.Rg3 exd4 45.cxd4 Bg7 46.Rb3 Qd2+ 47.Rg2 Qxd4 48.Qg4 Be5+ 49.Kh1 Rf1+ 50.Rg1 Rxg1+ 51.Qxg1 Qxe4+ 52.Qg2 Qe1+ 53.Qg1 Qh4+ 54.Kg2 Qg4+ 55.Kh1 Qxg1+ 56.Kxg1 Kg7 57.Kf2 h5 58.Kf3 g5 59.Ke4 Kg6 60.Rf3 h4 61.Rf8 h3 62.Rg8+ Kh5 63.Kf3 g4+ 64.Kf2 g3+ 65.Kf3 g2 66.a5 0-1

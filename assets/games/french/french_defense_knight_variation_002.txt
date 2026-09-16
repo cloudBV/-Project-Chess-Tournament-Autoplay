@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "6.3"]
+[White "Karvatskyi, Oleksii"]
+[Black "Portelli, Matthew"]
+[Result "0-1"]
+[WhiteElo "2276"]
+[BlackElo "2098"]
+[ECO "C00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Knight Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.d4 cxd4 8.Nxd4 Bd7 9.O-O Ne7 10.Be3 Nc6 11.Nd2 Nxe5 12.f4 Nc6 13.f5 e5 14.Nxc6 Bxc6 15.Qh5 Be7 16.Nf3 Bf6 17.Bc5 Qc7 18.Rfe1 O-O-O 19.a4 d4 20.cxd4 exd4 21.Bxa7 Qa5 22.Bxd4 Bxd4+ 23.Kh1 Bf6 24.Rac1 Kb8 25.Qg4 Rhe8 26.Rf1 Re4 27.Qg3+ Ka8 28.Ng5 Re2 29.Rxc6 bxc6 30.Qf3 Rc2 31.Ne4 Qd5 32.a5 Qd3 33.Qf4 Be5 34.Qf3 Qxf3 35.gxf3 Bf4 36.b4 Rd3 37.Rg1 Rxf3 38.Rd1 Bc7 39.Nc5 Rxh2+ 40.Kg1 Rg3+ 41.Kxh2 Rd3+ 42.Kg2 Rxd1 43.Kf3 Rd4 44.Na6 Bd6 45.Ke3 Rxb4 0-1

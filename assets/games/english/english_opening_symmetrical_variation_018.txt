@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.15"]
+[White "Vesga Izeta, Markel"]
+[Black "Martin Gonzalez, Angel"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2150"]
+[ECO "A30"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.e3 Nf6 5.d4 cxd4 6.exd4 d5 7.cxd5 Nxd5 8.Qb3 Nxc3 9.Bc4 Nd5 10.Bxd5 e6 11.Bxc6+ bxc6 12.O-O Bg7 13.Bd2 O-O 14.Rfc1 Bd7 15.Qe3 Qe7 16.a3 Rfd8 17.b4 Be8 18.Ne5 Rd5 19.Bc3 Rad8 20.Nf3 Qb7 21.h3 Qb5 22.Ra2 Qa4 23.Qe2 a5 24.Kh2 axb4 25.Bxb4 Qb5 26.Bc5 Ra8 27.Qc2 Rb8 28.a4 Qa5 29.Kg1 Bd7 30.Qc3 Qa6 31.Rb2 Ra8 32.a5 f6 33.Bb6 Bh6 34.Rcb1 Bf4 35.g3 Bd6 36.Nd2 e5 37.Ne4 Be7 38.Re1 f5 39.Nc5 exd4 40.Nxa6 dxc3 41.Rc2 Bf6 42.Nc7 Raxa5 43.Bxa5 Rxa5 44.Rd1 Bc8 45.Ne8 Be5 46.f4 Bb8 47.Rd8 Ba7+ 48.Kg2 Be6 49.Nc7+ Kf7 50.Nxe6 Kxe6 51.Rxc3 Ra2+ 52.Kf1 Rf2+ 53.Ke1 1-0

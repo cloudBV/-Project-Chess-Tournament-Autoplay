@@ -1,0 +1,15 @@
+[Event "Round 9: Afek, Itay - Hermans, Ray"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-9/AS2EnOQA/TVriEqln"]
+[Date "2026.07.21"]
+[Round "9.9"]
+[White "Afek, Itay"]
+[Black "Hermans, Ray"]
+[Result "1-0"]
+[WhiteElo "2171"]
+[BlackElo "2005"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "London System, with Be2"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.Nf3 O-O 5.Be2 d6 6.h3 Nbd7 7.a4 b6 8.O-O Bb7 9.c3 c5 10.Bh2 Ne4 11.Nbd2 Nxd2 12.Nxd2 cxd4 13.exd4 e5 14.Bf3 Bxf3 15.Nxf3 Re8 16.dxe5 dxe5 17.Qd5 Nc5 18.Rfd1 Qxd5 19.Rxd5 e4 20.Ne1 Rad8 21.Rd6 Bf8 22.Rxd8 Rxd8 23.Bf4 Nb3 24.Rb1 h6 25.h4 Kh7 26.Nc2 Be7 27.g3 Nd2 28.Rc1 g5 29.hxg5 hxg5 30.Be3 Nc4 31.b3 Ne5 32.Bd4 Nf3+ 33.Kg2 Rc8 34.Ne3 Kg6 35.Nd5 Bf8 36.Be3 Bc5 37.Bxc5 Rxc5 38.Rd1 Kg7 39.c4 Rc8 40.Nc3 f5 41.g4 Kf6 42.Rd5 Nh4+ 43.Kf1 Re8 44.gxf5 Nxf5 45.Rd7 Ke5 46.Rxa7 Rh8 47.a5 bxa5 48.Rxa5+ Kf4 49.Ne2+ Kg4 50.Ke1 Nh4 51.Nc3 Nf3+ 52.Ke2 Nd4+ 53.Kf1 Rh1+ 54.Kg2 Re1 55.Re5 Kf4 56.Re8 Nf5 57.Nd5+ Kg4 58.Rxe4+ Rxe4 59.f3+ Kh4 60.fxe4 Nd4 61.c5 g4 62.Ne7 Ne2 63.c6 Nf4+ 64.Kg1 Ne2+ 65.Kg2 Nf4+ 66.Kh1 Ne6 67.Nf5+ Kh3 68.b4 Nc7 69.e5 g3 70.Ne3 Kh4 71.Kg2 Kg5 72.Kxg3 1-0

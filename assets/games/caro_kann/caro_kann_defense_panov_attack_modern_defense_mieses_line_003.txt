@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-2/VSYgJsUo/DWXPfMLV"]
+[Date "2026.07.21"]
+[Round "2.17"]
+[White "Hoiberg, Nina"]
+[Black "Thorsbro, Peter"]
+[Result "1-0"]
+[WhiteElo "2090"]
+[BlackElo "2169"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3 Bxf3 9.gxf3 Nb6 10.d5 Nd4 11.Bb5+ Nxb5 12.Nxb5 a6 13.Nc3 e6 14.dxe6 fxe6 15.O-O Bd6 16.Re1 O-O 17.Rxe6 Kh8 18.Be3 Nc8 19.Ne4 Bb8 20.Rd1 Qc7 21.f4 Na7 22.Ng5 Nc6 23.Qd3 g6 24.Qd7 Kg8 25.Bc5 Qxd7 26.Rxd7 Bxf4 27.Bxf8 Bxg5 28.Bc5 Rc8 29.Be3 Bh4 30.Rxb7 Na5 31.Rb4 Nc4 32.Bd4 Kf7 33.Rxa6 Nd2 34.Rb7+ Be7 35.Bc3 Nf3+ 36.Kf1 Kf8 37.h3 Nh4 38.Raa7 Nf5 39.a4 Rc4 40.Rc7 Rf4 41.Ke2 Re4+ 42.Kd3 Rh4 43.Bf6 1-0

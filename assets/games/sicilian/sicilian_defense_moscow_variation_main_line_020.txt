@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "5.1"]
+[White "Cnejev, Vladimir-Alexandru"]
+[Black "Nawalaniec, Adam"]
+[Result "*"]
+[WhiteElo "2381"]
+[BlackElo "2246"]
+[ECO "B52"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 g6 7.b3 Bg7 8.Bb2 O-O 9.c4 e5 10.Nc3 Nh5 11.d3 Nf4 12.Qc2 f5 13.Rae1 Nf6 14.exf5 gxf5 15.Ne2 N6h5 16.g3 Ne6 17.Nc3 Nf6 18.Kh1 a6 19.a3 Qd7 20.Nh4 Nd4 21.Qd1 b5 22.Ne2 bxc4 23.Nxd4 cxd4 24.bxc4 Rab8 25.Bc1 Rb1 26.Qf3 Rb3 27.Nxf5 Ng4 28.Qxg4 Qxf5 29.Qxf5 Rxf5 30.f4 Rxd3 31.fxe5 Rxf1+ 32.Rxf1 dxe5 33.Bg5 h6 34.Be7 e4 35.c5 e3 36.Kg2 Rc3 37.Kf3 e2+ 38.Kxe2 Re3+ 39.Kd2 Rxe7 40.Kd3 Rc7 41.Rf5 Kh7 42.g4 Kg6 43.h4 Rc6 44.h5+ Kh7 45.Kc4 Kg8 46.Kd5 *

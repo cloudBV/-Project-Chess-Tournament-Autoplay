@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.11"]
+[White "Ribera Veganzones, Serni"]
+[Black "Bogdanov, Egor"]
+[Result "1/2-1/2"]
+[WhiteElo "2303"]
+[BlackElo "2493"]
+[ECO "B40"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.Bf4 d5 8.Nd2 g6 9.O-O Bg7 10.Be5 O-O 11.Qe2 c5 12.c4 Bb7 13.Rfe1 Re8 14.Rad1 Qb6 15.b3 Nxe4 16.Bxg7 Kxg7 17.Bxe4 dxe4 18.Nxe4 Bxe4 19.Qb2+ Kg8 20.Rxe4 Red8 21.Rde1 Rd4 22.Rxd4 cxd4 23.b4 Rb8 24.a3 a5 25.Rb1 e5 26.c5 Qb5 27.f4 Qd3 28.fxe5 Qe3+ 29.Kh1 d3 30.Rd1 Qe2 31.Qxe2 dxe2 32.Re1 axb4 33.axb4 Rxb4 34.Kg1 Re4 35.Kf2 Rxe5 36.Rxe2 Rxc5 37.g4 Rc3 38.Kg2 Kg7 39.h4 h6 40.Rf2 Re3 41.Rf1 Kf8 42.Ra1 Ke7 43.Ra6 Re6 44.Ra7+ Kf8 45.Kf3 Re5 46.Kf4 Rb5 47.Kg3 Rb3+ 48.Kg2 Rd3 49.Rb7 Kg7 50.Rb6 Re3 51.Ra6 Re6 52.Ra5 Rd6 53.Rb5 Kf6 54.g5+ Kg7 55.Kg3 Rd3+ 56.Kg2 Re3 57.Ra5 Re7 58.Kg3 f5 59.gxf6+ Kxf6 60.Rb5 Re3+ 61.Kf4 Re6 62.Ra5 Rd6 63.Rb5 h5 64.Rb3 Rd4+ 65.Kg3 Ke5 66.Re3+ Re4 67.Rf3 Rg4+ 68.Kh3 Rf4 69.Re3+ Kf5 70.Kg3 Rd4 71.Rf3+ Ke5 72.Re3+ Re4 73.Rf3 Kd4 74.Rf6 Rg4+ 75.Kh3 Ke3 76.Re6+ Kf2 77.Rf6+ Kg1 78.Rxg6 Rxg6 1/2-1/2

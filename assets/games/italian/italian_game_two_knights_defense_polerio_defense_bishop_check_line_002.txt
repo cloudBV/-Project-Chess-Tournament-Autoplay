@@ -1,0 +1,15 @@
+[Event "Round 3: Aswath, S - Kushagra Mohan"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-3/VaHbxXmi/BKt2dL8U"]
+[Date "2026.07.02"]
+[Round "3.5"]
+[White "Aswath, S"]
+[Black "Kushagra Mohan"]
+[Result "1/2-1/2"]
+[WhiteElo "2517"]
+[BlackElo "2429"]
+[ECO "C58"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Bd3 Nd5 9.Nf3 Bd6 10.Nc3 Nf4 11.Bf1 e4 12.Nd4 O-O 13.d3 c5 14.Nde2 exd3 15.Nxf4 Re8+ 16.Nfe2 dxe2 17.Bxe2 Bb7 18.O-O Bxh2+ 19.Kxh2 Qh4+ 20.Kg1 Rad8 21.Bd2 Re6 22.f3 Qd4+ 23.Rf2 Qxd2 24.Qxd2 Rxd2 25.Bd3 Rxf2 26.Kxf2 g6 27.Rd1 Rd6 28.b3 Bc6 29.Re1 Kf8 30.Re5 Nb7 31.Be4 f6 32.Bxc6 fxe5 33.Bxb7 Rd2+ 34.Kg3 Rxc2 35.Ne4 Rxa2 36.Bd5 Ke7 37.Bc4 a5 38.Nxc5 Rc2 39.Na4 Kd6 40.Bg8 Rc8 41.Bc4 Re8 42.Kf2 Rf8 43.Ke3 h5 44.Nc3 Kc5 45.Ke4 h4 46.Ke3 Kb4 47.Nd5+ Kc5 48.Nc3 Kb4 49.Nd5+ Kc5 50.Nc7 Rc8 51.Nd5 Rf8 1/2-1/2

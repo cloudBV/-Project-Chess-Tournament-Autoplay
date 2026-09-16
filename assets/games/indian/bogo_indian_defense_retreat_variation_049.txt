@@ -1,0 +1,15 @@
+[Event "Round 2: Makhnev, Denis - Moosavifar, Seyed Abolfazl"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/bKpVaN3m"]
+[Date "2026.07.22"]
+[Round "2.16"]
+[White "Makhnev, Denis"]
+[Black "Moosavifar, Seyed Abolfazl"]
+[Result "1/2-1/2"]
+[WhiteElo "2562"]
+[BlackElo "2433"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Qc2 Nbd7 9.Bf4 a5 10.Rd1 a4 11.h4 h6 12.a3 Ne4 13.Nc3 Nxc3 14.bxc3 Ra5 15.Nd2 b5 16.c5 e5 17.dxe5 Nxc5 18.Nf3 Nb3 19.Ra2 c5 20.Nd2 Be6 21.Ne4 Qb6 22.Nd6 d4 23.Rb2 dxc3 24.Qxc3 b4 25.Qc2 bxa3 26.Rbb1 Nd4 27.Rxd4 Bb3 28.Rd2 Bxc2 29.Rxb6 a2 30.Rxc2 a1=Q+ 31.Rc1 Qd4 32.Be3 Qg4 33.Bf3 Qh3 34.Bg2 Qd7 35.Rxc5 Rxc5 36.Bxc5 Qc7 37.Bd4 Rb8 38.Rc6 Qd7 39.Ra6 Bxd6 40.exd6 Qb5 41.Ra7 Qb4 42.e3 Qxd6 43.Rxa4 Rb1+ 44.Kh2 Rb8 45.Ra5 Qb4 46.Ra8 Rxa8 47.Bxa8 f6 48.h5 Kf7 49.Be4 Ke6 50.g4 Qe1 51.Kg2 Qd1 52.Bf5+ Kd5 53.Bc3 Kc4 54.Bd4 Qe2 55.Bc8 Kb3 56.Bf5 Qd1 57.Bd7 Ka2 58.Bf5 Qe2 59.Bc3 Qc4 60.Bd4 Qd5+ 61.Kg1 Qf3 62.Bc3 Ka3 63.Bd4 Kb3 64.Kf1 Qh1+ 65.Ke2 Qg1 66.Kf3 Kb4 67.Ke2 Kb3 68.Kf3 Qf1 69.Kg3 Qh1 70.Bg6 Kc4 71.Bf5 Qg1+ 72.Kf3 Qh2 73.Ke2 Kd5 74.Kf3 Kd6 75.Ke2 Qg2 76.Bc3 Ke7 77.Bd4 Kf7 78.Bg6+ Kf8 79.Bf5 Qh3 80.Bc5+ Kg8 81.Bd4 Qg2 82.Be6+ Kh8 83.Bf5 Qd5 84.Bg6 Qa2+ 85.Kf3 Qc4 86.Kg2 Qe2 87.Bf5 Kg8 88.Be6+ Kf8 89.Bc5+ Ke8 90.Bf5 Qc4 91.Bd4 Qd5+ 92.Kg3 Kf8 93.Bg6 Qh1 94.Bc5+ Kg8 95.Bd4 Qd5 96.Bf5 g5 97.hxg6 Kg7 98.Bd3 Qh1 99.Bf5 Qg1+ 100.Kf3 Qh2 101.e4 Qd6 102.Be3 Qh2 103.Bf4 Qh1+ 104.Ke2 Qa1 105.Bg3 Qc1 1/2-1/2

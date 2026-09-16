@@ -1,0 +1,14 @@
+[Event "Round 4: Audi Ameya - Genzling, Alain"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-4/JDqUBlZa/3hyEGqmz"]
+[Date "2026.07.14"]
+[Round "4.3"]
+[White "Audi Ameya"]
+[Black "Genzling, Alain"]
+[Result "1/2-1/2"]
+[WhiteElo "2424"]
+[BlackElo "2352"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd1 a6 11.O-O Bd7 12.Bd4 Bc6 13.Qb1 Ne8 14.Bxg7 Nxg7 15.Rd1 Qa5 16.Nd5 Bxd5 17.exd5 Qc5 18.Qe4 e5 19.dxe6 fxe6 20.Bf3 Rab8 21.Rd2 b5 22.cxb5 d5 23.Qe5 Rxb5 24.Re1 Rb6 25.h3 Rc8 26.Bg4 Rf8 27.g3 h5 28.Bd1 Rf5 29.Qe2 Rf6 30.Kg2 Qd6 31.h4 Rb8 32.Qe3 Nf5 33.Qg5 Kf7 34.Bf3 Rc8 35.Be4 Kg7 36.Bd3 Qb6 37.Bxf5 exf5 38.Re7+ Rf7 39.Rde2 Qf6 40.Qxf6+ Kxf6 41.R7e6+ Kg7 42.Rxa6 f4 43.Ra3 fxg3 44.fxg3 Rd8 45.Rae3 Rdd7 46.Rf3 Rf6 47.Rxf6 Kxf6 48.Kf3 Rb7 49.Ke3 Kf5 50.Kf3 d4 51.b3 Rc7 52.Re8 Rc3+ 53.Kf2 Rc2+ 54.Kf3 Rxa2 55.Rf8+ Ke5 56.Re8+ Kf5 57.Rf8+ Ke5 58.Re8+ 1/2-1/2

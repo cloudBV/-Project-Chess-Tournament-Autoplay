@@ -1,0 +1,15 @@
+[Event "Round 5: Odell Johansson, Leo - Granath, Jonas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-5/pUKTxaHu/kCVDu1oU"]
+[Date "2026.07.01"]
+[Round "5.12"]
+[White "Odell Johansson, Leo"]
+[Black "Granath, Jonas"]
+[Result "1-0"]
+[WhiteElo "2053"]
+[BlackElo "2023"]
+[ECO "C00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Steiner Variation"]
+
+1.c4 e6 2.e4 d5 3.cxd5 exd5 4.exd5 Nf6 5.Bb5+ Bd7 6.Bc4 Bd6 7.Qe2+ Qe7 8.Qxe7+ Bxe7 9.Nf3 O-O 10.O-O Na6 11.Bxa6 bxa6 12.Nc3 Rab8 13.Ne5 Bb5 14.Re1 Bd6 15.d4 Bc4 16.Nxc4 Rfe8 17.Rxe8+ Rxe8 18.Bg5 Rb8 19.Bxf6 gxf6 20.Nxd6 cxd6 21.b3 Rb4 22.Rd1 1-0

@@ -1,0 +1,15 @@
+[Event "Round 8: Cesar Maestre, Bernardo - Valdats, Reinis"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-8/pzqS4f9A/5jKKNeOB"]
+[Date "2026.07.01"]
+[Round "8.7"]
+[White "Cesar Maestre, Bernardo"]
+[Black "Valdats, Reinis"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2236"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 Ne7 6.Bb2 f6 7.Nh4 Kf7 8.f4 d5 9.Nc3 Ba6 10.Qf3 Ng6 11.Nxg6 hxg6 12.d3 c4 13.dxc4 dxc4 14.e5 Bb4 15.exf6 gxf6 16.a3 Be7 17.Qxc6 Qc8 18.Qxc8 Raxc8 19.b4 Bb7 20.O-O a5 21.Rfd1 Rh7 22.Ne2 c3 23.Nxc3 axb4 24.axb4 Bxb4 25.Rd7+ Kg8 26.Rxh7 Kxh7 27.Ra4 Rc4 28.Ba3 Rxc3 29.Bxb4 Rxc2 30.Ra7 Rc7 31.g4 Kg7 32.h4 Kf7 33.g5 Rd7 34.Bc3 fxg5 35.fxg5 Bc6 36.Ra6 Be4 37.Ra4 Bf5 38.Ra8 Rc7 39.Be5 Rc4 40.Ra7+ Kf8 41.Rh7 Rc2 42.Rh6 Kf7 43.Rh7+ Kf8 44.Rh6 Kf7 45.Rh7+ 1/2-1/2

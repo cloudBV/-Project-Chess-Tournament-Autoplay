@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-7/djRlwqVj/43Ub4hh9"]
+[Date "2026.07.15"]
+[Round "7.2"]
+[White "Bochnicka, Vladimir"]
+[Black "Oruzinsky, Juraj"]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2329"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Nf3 Nxd3+ 9.Qxd3 Bd6 10.O-O O-O 11.Bg5 h6 12.Bh4 g5 13.Bg3 Bxg3 14.fxg3 g4 15.hxg4 Nxg4 16.Nbd2 Qb6+ 17.Nd4 Qg6 18.Qxg6+ fxg6 19.Rae1 Bd7 20.Re7 Rxf1+ 21.Nxf1 Rd8 22.Ne3 Nxe3 23.Rxe3 Kf7 24.Kf2 Bg4 25.Ke1 Kf6 26.Kd2 h5 27.Re1 Bf5 28.Rf1 Re8 29.b4 Re4 30.a4 Rg4 31.Rf3 Ke5 32.a5 Be4 33.Re3 h4 34.Ne2 g5 35.Ke1 hxg3 36.Kf1 a6 37.Kg1 Kf5 38.Nxg3+ Ke5 39.Kf2 Rf4+ 40.Ke2 d4 41.cxd4+ Kxd4 42.Kd2 Rf2+ 43.Ne2+ Kd5 44.Rc3 Rxg2 45.Ke3 Kd6 46.Rc8 Bc6 47.Nd4 Bd7 48.Rb8 Kc7 49.Rg8 g4 50.Rg7 Kd6 51.Rg6+ Kd5 52.Rg7 Bc6 53.b5 Bxb5 54.Rxb7 Kc4 55.Rg7 Kb4 56.Kf4 Kxa5 57.Rxg4 Rxg4+ 58.Kxg4 Kb4 59.Kf3 Kc3 60.Ke3 Bf1 61.Nc6 Bc4 62.Na5 Bd5 63.Ke2 Be4 64.Kd1 Kb4 1/2-1/2

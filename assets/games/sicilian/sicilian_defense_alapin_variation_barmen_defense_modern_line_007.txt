@@ -1,0 +1,14 @@
+[Event "Round 7: Lundin, Jan - Golsta, Madara"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-7/tnq1pFFy/19leeb5U"]
+[Date "2026.07.23"]
+[Round "7.14"]
+[White "Lundin, Jan"]
+[Black "Golsta, Madara"]
+[Result "1-0"]
+[WhiteElo "2172"]
+[BlackElo "2047"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.h3 Bh5 8.O-O Nc6 9.Be3 cxd4 10.Nxd4 Bxe2 11.Qxe2 Nxd4 12.Bxd4 Be7 13.Rd1 Qc6 14.c4 O-O 15.Nc3 a5 16.b3 Nd7 17.Rd3 Bc5 18.Rad1 Bxd4 19.Rxd4 Nf6 20.Qe5 h6 21.R1d3 Kh7 22.Rd6 Qe8 23.Ne4 Qe7 24.Nxf6+ gxf6 25.Qh5 f5 26.Rd7 Qf6 27.Rxb7 a4 28.Rdd7 Kg7 29.g3 axb3 30.axb3 Ra1+ 31.Kg2 e5 32.Qf3 e4 33.Qe3 Ra6 34.c5 h5 35.h4 f4 36.Qxf4 Qxf4 37.gxf4 Rf6 38.Rd5 Rxf4 39.c6 Ra8 40.Rbd7 Ra2 41.Rd2 Ra6 42.R7d6 Ra1 43.Rd1 Ra2 44.R6d2 Ra6 45.Rc2 e3 46.fxe3 Rf5 47.Rd4 Ra1 48.Rf4 Rxf4 49.exf4 Ra8 50.c7 Rc8 51.b4 Kf6 52.b5 Ke6 53.b6 Kd7 54.b7 Rxc7 55.Rd2+ 1-0

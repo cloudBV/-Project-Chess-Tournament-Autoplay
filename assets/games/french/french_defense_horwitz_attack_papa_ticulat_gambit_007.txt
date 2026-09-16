@@ -1,0 +1,14 @@
+[Event "Round 7: Kovacevic, Radmila - Frank, Anton"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-7/tnq1pFFy/ay8evaSO"]
+[Date "2026.07.23"]
+[Round "7.12"]
+[White "Kovacevic, Radmila"]
+[Black "Frank, Anton"]
+[Result "1-0"]
+[WhiteElo "2061"]
+[BlackElo "2213"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Horwitz Attack, Papa-Ticulat Gambit"]
+
+1.e4 e6 2.b3 d5 3.Bb2 Ne7 4.Nf3 dxe4 5.Ng5 Nbc6 6.Qh5 Ng6 7.Nc3 Nd4 8.O-O-O h6 9.Ngxe4 Qh4 10.Qa5 Bd7 11.Qxc7 Bc6 12.Nd6+ Bxd6 13.Qxd6 Rd8 14.Qg3 Qh5 15.f3 Qc5 16.Bd3 O-O 17.Bxg6 fxg6 18.Rhe1 b5 19.Re5 Bd5 20.Qxg6 Rf6 21.Qd3 Nc6 22.Nxd5 exd5 23.Qe3 Qd6 24.Re8+ Rxe8 25.Qxe8+ Rf8 26.Qe2 a6 27.Re1 Qc5 28.Qe6+ Kh7 29.Kb1 Nb4 30.Rc1 Rd8 31.Qf5+ Kg8 32.a3 Nc6 33.Re1 Rf8 34.Qg6 d4 35.Re8 Rxe8 36.Qxe8+ Kh7 37.Qe4+ Kg8 38.c3 dxc3 39.Bxc3 Qd6 40.Qg4 Qc7 41.Qe6+ Kh7 42.h4 Qb7 43.b4 Qc7 44.g4 Nd8 45.Qxa6 Qc4 46.Kb2 Ne6 47.Qb7 Kg8 48.Qd7 Qe2 49.g5 hxg5 50.hxg5 Kh7 51.Qf7 Qc4 52.f4 Qe4 53.Qh5+ Kg8 54.g6 Nd4 55.Qh7+ Kf8 56.Qh8+ Ke7 57.Qxg7+ Ke8 58.Qxd4 Qh1 59.Qh8+ 1-0

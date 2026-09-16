@@ -1,0 +1,14 @@
+[Event "Round 4: Makridis, Dimitrios - Kanakaris, Georgios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/biDUJcxY"]
+[Date "2026.07.07"]
+[Round "4.14"]
+[White "Makridis, Dimitrios"]
+[Black "Kanakaris, Georgios"]
+[Result "1-0"]
+[WhiteElo "2311"]
+[BlackElo "2372"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 7.h4 h5 8.Nf4 Bh7 9.Nxh5 Nc6 10.Bg5 Qb6 11.dxc5 Bxc5 12.Qd2 Qxb2 13.Rb1 Qxc2 14.Qxc2 Bxc2 15.Rc1 d4 16.Nd5 Be4 17.Nc7+ Kd7 18.Rxc5 b6 19.Rc1 Kxc7 20.Rh3 Kb7 21.f4 Nh6 22.Be2 Rag8 23.Kd2 Bd5 24.a3 Na5 25.Ke1 Rh7 26.Rg3 Nc6 27.Rg1 Rhh8 28.Rd1 a6 29.Kf2 b5 30.Bf3 Bxf3 31.Kxf3 Nf5 32.gxf5 Rxh5 33.fxe6 fxe6 34.Bf6 Rhh8 35.Bg5 Rf8 36.Ke4 Rf7 37.Rg2 Kb6 38.Rc2 Rc8 39.Rxd4 Nxd4 40.Rxc8 Rd7 41.Re8 Kc7 42.h5 Kc6 43.Bh4 Rd5 44.Re7 Ne2 45.Rxe6+ Kd7 46.Re7+ Kc6 47.Rxg7 1-0

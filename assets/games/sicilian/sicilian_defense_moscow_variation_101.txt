@@ -1,0 +1,14 @@
+[Event "Round 6: Benmesbah, Natacha - Gut, Lionel"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-6/tmWKDGFl/fXGRnqsQ"]
+[Date "2026.07.23"]
+[Round "6.4"]
+[White "Benmesbah, Natacha"]
+[Black "Gut, Lionel"]
+[Result "0-1"]
+[WhiteElo "2224"]
+[BlackElo "2320"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.a4 Nf6 5.Nc3 g6 6.a5 Bg7 7.O-O O-O 8.Re1 a6 9.Bf1 b5 10.axb6 Qxb6 11.d3 Bb7 12.Qd2 Rfb8 13.Qf4 a5 14.Be2 Bc6 15.Nd2 a4 16.Nc4 Qd8 17.Qh4 Nb6 18.e5 Nxc4 19.Qxc4 Rb4 20.Qa2 dxe5 21.Be3 Qb6 22.Qa3 Nd7 23.Rab1 Rb8 24.Na2 Rxb2 25.Rxb2 Qxb2 26.Bxc5 Nxc5 27.Qxc5 Qxa2 28.Qxc6 a3 29.d4 Rb1 30.Rf1 Rxf1+ 31.Bxf1 exd4 32.g3 e6 33.Qa4 d3 0-1

@@ -1,0 +1,15 @@
+[Event "Round 3: Akbas, Kaan - Huseyinoglu, Alihan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/13nqRsDy"]
+[Date "2026.07.14"]
+[Round "3.12"]
+[White "Akbas, Kaan"]
+[Black "Huseyinoglu, Alihan"]
+[Result "1/2-1/2"]
+[WhiteElo "2174"]
+[BlackElo "2395"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 a6 6.Bf1 Bg4 7.c3 Nf6 8.d4 cxd4 9.cxd4 Bxf3 10.gxf3 e5 11.d5 Nb8 12.Qb3 Nbd7 13.Be3 Be7 14.Qxb7 O-O 15.Nd2 Nh5 16.Nc4 Bg5 17.Kh1 Bf4 18.Rac1 Rb8 19.Qc6 f5 20.Nxd6 Bxe3 21.Rxe3 Rb6 22.Nxf5 Rxc6 23.dxc6 Nb6 24.c7 Qd2 25.Rec3 Qxf2 26.Ne7+ Kf7 27.Nd5 Nc8 28.Bc4 Kg6 29.Bxa6 Nf4 30.Nxf4+ exf4 31.b4 Kh5 32.R1c2 Qe1+ 33.Kg2 g5 34.Rc6 Qxb4 35.Re6 g4 36.Be2 Kg5 37.Rcc6 h5 38.Re5+ Kh4 39.Rcc5 gxf3+ 40.Bxf3 Rg8+ 41.Kf1 Qb1+ 42.Ke2 Qxa2+ 43.Kf1 Qa6+ 44.Kf2 Qa2+ 45.Kf1 Qa1+ 46.Ke2 Qb2+ 47.Kf1 Qb1+ 48.Ke2 Qb2+ 49.Kf1 Qa1+ 1/2-1/2

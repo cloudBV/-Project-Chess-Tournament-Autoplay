@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "5.4"]
+[White "Aravena Navarro, Alexis Andres"]
+[Black "Vasquez Toledo, Cristian"]
+[Result "1/2-1/2"]
+[WhiteElo "2162"]
+[BlackElo "2271"]
+[ECO "B61"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 Rc8 8.Nxc6 Bxc6 9.f3 a6 10.O-O-O e6 11.Kb1 Be7 12.h4 h6 13.Bf4 d5 14.exd5 Nxd5 15.Nxd5 Qxd5 16.Qxd5 Bxd5 17.Be5 O-O 18.h5 Rfd8 19.Be2 Kf8 20.Rd3 Bc6 21.c4 f6 22.Bc3 e5 23.Rhd1 e4 24.Rxd8+ Rxd8 25.Rxd8+ Bxd8 26.f4 f5 27.b4 Kf7 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "2.1"]
+[White "Kaasen, Tor Fredrik"]
+[Black "Amar, Elham"]
+[Result "1/2-1/2"]
+[WhiteElo "2489"]
+[BlackElo "2581"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Be7 5.g3 d5 6.Bg2 O-O 7.O-O c6 8.Qc2 b6 9.Bf4 Ba6 10.cxd5 cxd5 11.Rc1 Nbd7 12.Nc3 Nh5 13.Be3 Rc8 14.Qa4 Nb8 15.Ne5 f6 16.Nd3 Rc4 17.Qd1 g5 18.a4 Qd7 19.b3 Rc6 20.b4 Bc4 21.b5 Rc7 22.Nb2 Rfc8 23.Bd2 Ng7 24.e3 f5 25.Nxc4 Rxc4 26.Bf1 R4c7 27.a5 bxa5 28.Na4 Rxc1 29.Rxc1 Rxc1 30.Qxc1 Bd8 31.Nc5 Qc7 32.Qa3 Nd7 33.Nb3 Qc2 34.Bxa5 Bxa5 35.Nxa5 Nf6 36.Qd3 Qa2 37.Nc6 Ne4 38.Qe2 Qa4 39.h3 1/2-1/2

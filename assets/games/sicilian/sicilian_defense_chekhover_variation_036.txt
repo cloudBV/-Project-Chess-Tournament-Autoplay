@@ -1,0 +1,15 @@
+[Event "Round 8: Paragua, Mark - Bilych, Oleksii"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-8/Bmj8FixY/Mc9260vn"]
+[Date "2026.07.19"]
+[Round "8.4"]
+[White "Paragua, Mark"]
+[Black "Bilych, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2403"]
+[BlackElo "2453"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6 9.O-O-O Be7 10.Rhe1 h6 11.Bxf6 Bxf6 12.Qxd6 Qb6 13.Qa3 Be7 14.Qb3 Qxf2 15.Nd5 Bd8 16.Qa3 Qxg2 17.Nd4 Qxh2 18.Kb1 g6 19.Nxc6 bxc6 20.Qc3 O-O 21.Rh1 Qe2 22.Rdg1 Qf2 23.Qh3 Qd4 24.Qxh6 Qg7 25.Nb4 Bf6 26.Nxc6 Qxh6 27.Rxh6 Rfc8 28.e5 Bg7 29.Ne7+ Kf8 30.Nxc8 Bxh6 31.Nd6 Bf4 32.Rf1 g5 33.c4 f6 34.Ne4 f5 35.Nc5 Kf7 36.Nd3 Be3 37.Ne1 Rd8 38.Nc2 Bf4 39.Nb4 Rd2 40.Nc6 Be3 0-1

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.08"]
+[Round "4.5"]
+[White "Tiglon, Bryce"]
+[Black "Vesga Izeta, Markel"]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2312"]
+[ECO "B12"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.c3 e6 7.Be3 Bxf3 8.Qxf3 a6 9.Qg3 Nge7 10.Bd3 Qc7 11.f4 g5 12.Qxg5 d4 13.cxd4 Rg8 14.Qh5 Nd5 15.Qf3 Nxe3 16.Qxe3 O-O-O 17.d5 Rxd5 18.Nc3 Rd4 19.Qf3 f6 20.Ne2 Qa5+ 21.Kf1 Bxc5 22.Nxd4 Nxd4 23.Qd1 fxe5 24.Qe1 Qb6 25.Rc1 Kd7 26.Qe4 Nf5 27.Qa4+ Ke7 28.Bxf5 exf5 29.Qc4 Rc8 30.b4 Bg1 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Okrajek, Alexander - Schroeder, Volker, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/54JZb0Qr"]
+[Date "2026.07.19"]
+[Round "3.20"]
+[White "Okrajek, Alexander"]
+[Black "Schroeder, Volker, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2199"]
+[BlackElo "2037"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 Nc6 3.f4 g6 4.Nf3 Bg7 5.c3 d5 6.d3 dxe4 7.dxe4 Qxd1+ 8.Bxd1 Nf6 9.Bc2 O-O 10.O-O Be6 11.Re1 Rad8 12.Nbd2 b6 13.e5 Ne8 14.Ne4 Bc4 15.Nfd2 Bd3 16.Bxd3 Rxd3 17.Nc4 Nc7 18.a4 Rfd8 19.Kf2 f6 20.exf6 exf6 21.f5 gxf5 22.Ng3 Rd1 23.Nxf5 Rxe1 24.Kxe1 Ne5 25.Nxe5 fxe5 26.Ke2 Bf6 27.Ng3 Kf7 28.Ne4 a5 29.Be3 Rg8 30.g3 Ke6 31.b4 axb4 32.cxb4 cxb4 33.Bxb6 Nd5 34.a5 Nxb6 35.axb6 Rb8 36.Nc5+ Kd6 37.Ne4+ Ke6 1/2-1/2

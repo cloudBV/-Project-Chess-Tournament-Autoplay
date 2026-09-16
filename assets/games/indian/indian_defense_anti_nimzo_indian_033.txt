@@ -1,0 +1,15 @@
+[Event "Round 1: Pektas, Yigit - Kilic, Cihan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/iOEfBWtP"]
+[Date "2026.07.13"]
+[Round "1.30"]
+[White "Pektas, Yigit"]
+[Black "Kilic, Cihan"]
+[Result "1-0"]
+[WhiteElo "2105"]
+[BlackElo "2044"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Bd6 6.Nc3 O-O 7.Bg5 Be7 8.Bg2 h6 9.Bxf6 Bxf6 10.e4 dxe4 11.Nxe4 Nc6 12.Nxf6+ Qxf6 13.O-O Rd8 14.Qa4 Nxd4 15.Nxd4 Qxd4 16.Rad1 Qf6 17.Rxd8+ Qxd8 18.Rd1 Qe7 19.Rd2 e5 20.Qd1 Be6 21.Bxb7 Rb8 22.Be4 f5 23.Bd5 Bxd5 24.Rxd5 Rxb2 25.Rd8+ Kh7 26.Qd5 Qf6 27.Re8 Rb6 28.c5 Ra6 29.h4 Kg6 30.Rxe5 c6 31.h5+ Kh7 32.Qd6 Qg5 33.Qd3 Rxa2 34.Rxf5 Rd2 35.Qf3 Qe7 36.Rf7 Qe6 37.Rxg7+ Kxg7 38.Qc3+ Kf7 39.Qxd2 Qd5 40.Qxd5+ cxd5 41.c6 Ke6 42.c7 Kd7 43.g4 Kxc7 44.g5 Kd6 45.gxh6 1-0

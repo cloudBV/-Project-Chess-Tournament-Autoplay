@@ -1,0 +1,15 @@
+[Event "Round 6: Karimi, Setayesh - Soleymani, Diba"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-6/9x6VQVn8/uZqj8MKr"]
+[Date "2026.07.15"]
+[Round "6.2"]
+[White "Karimi, Setayesh"]
+[Black "Soleymani, Diba"]
+[Result "1/2-1/2"]
+[WhiteElo "2066"]
+[BlackElo "2014"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5 9.Ne2 b6 10.O-O Ba6 11.Bxa6 Nxa6 12.Qd3 Qc8 13.f3 Re8 14.Ng3 h5 15.e4 h4 16.Nf5 dxe4 17.fxe4 Nxe4 18.Bh6 g6 19.Nxh4 cxd4 20.cxd4 Qc3 21.Rad1 Qxd3 22.Rxd3 Rad8 23.Nf3 Nc7 24.Ng5 f5 25.h4 Nxg5 26.Bxg5 Rd5 27.Rc1 Ne6 28.Be3 f4 29.Bf2 Red8 30.Kf1 Kf7 31.Ke2 Kf6 32.Rcd1 Kf5 33.Kf1 g5 34.hxg5 Nxg5 35.Rc3 Ne4 36.Rc7 a6 37.Rf7+ Kg4 38.Rg7+ Kf5 39.Rf7+ Kg4 1/2-1/2

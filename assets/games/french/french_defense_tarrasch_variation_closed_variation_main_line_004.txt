@@ -1,0 +1,15 @@
+[Event "Round 4: Hughes, Padraig - Dreelinck, Adriaan"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/mJxcTdEn"]
+[Date "2026.07.19"]
+[Round "4.8"]
+[White "Hughes, Padraig"]
+[Black "Dreelinck, Adriaan"]
+[Result "0-1"]
+[WhiteElo "2016"]
+[BlackElo "2244"]
+[ECO "C06"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6 9.exf6 Nxf6 10.O-O Bd6 11.Nf3 Qc7 12.Bg5 O-O 13.Ng3 Bd7 14.Rc1 Qb6 15.b3 h6 16.Bxf6 Rxf6 17.Nh5 Rxf3 18.Qxf3 Qxd4 19.Bb1 Qh4 20.Ng3 Ne5 21.Qh5 Qf4 22.Ne2 Qf6 23.f4 Nc6 24.Qf3 Rf8 25.Rcd1 Ne7 26.Kh1 Qh4 27.Qf2 Qxf2 28.Rxf2 g5 29.f5 exf5 30.Nc3 Bc6 31.Re2 Bb4 32.Re6 Kf7 33.Re3 d4 34.Rxd4 Bc5 35.Rdd3 Bxe3 36.Rxe3 Rd8 37.Bd3 Rd6 38.h3 Kf6 39.Bc4 Ng6 40.Bb5 Bxb5 41.Nxb5 Rd1+ 42.Kh2 a6 43.Nc7 Rd7 44.Rc3 Rd2 45.a4 Nf4 46.Rg3 Ke7 47.Na8 Nd5 48.a5 f4 49.Rf3 Ne3 50.Kh1 Rd1+ 51.Kh2 Nf1+ 0-1

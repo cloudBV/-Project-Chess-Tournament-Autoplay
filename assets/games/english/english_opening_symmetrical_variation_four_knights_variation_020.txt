@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.16"]
+[Round "7.4"]
+[White "Muradli, Mahammad"]
+[Black "Can, Isik"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2565"]
+[ECO "A35"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 g6 7.d3 Bg7 8.Bd2 O-O 9.Rb1 b6 10.h4 Bb7 11.h5 Nxc3 12.Bxc3 Nd4 13.Bxd4 cxd4 14.hxg6 hxg6 15.Qa4 Qd6 16.Rc1 a6 17.O-O b5 18.Qa5 Rfc8 19.a4 Bh6 20.Rxc8+ Rxc8 21.axb5 axb5 22.Qxb5 Bxf3 23.Bxf3 Rb8 24.Qc4 Rxb2 25.Ra1 e6 26.Ra7 Rb8 27.Kg2 Bg7 28.Qa4 Bf6 29.Bc6 Rc8 30.Be4 Rb8 31.Rd7 Qc5 32.Qa6 Qb6 33.Qa2 Kg7 34.Qc4 Kg8 35.Rc7 Kg7 36.Bf3 Kg8 37.Rc6 Qb4 38.Qc1 Qe7 39.Qf4 Rf8 40.Rb6 Bg7 41.Rb7 Qf6 42.Qd6 Rd8 43.Qa6 Rf8 44.Qa4 Qe5 45.Be4 Qh5 46.Qd7 Qg5 47.Rb5 Qd8 48.Qa7 Qf6 49.Rb7 Qe5 50.Rd7 Qg5 51.Qb7 Qe5 52.Bf3 Qg5 53.Qc7 Qe5 54.Qc2 Qg5 55.Bb7 Qe5 56.Ba6 Bf6 57.Bc4 Qc5 58.Qa4 Qe5 59.Qa2 Qc5 60.Qa6 Qe5 61.Qa2 Qc5 62.Ra7 Qc6+ 63.Kg1 Rb8 64.Ra6 Rb6 65.Ra8+ Kg7 66.Kh2 Rb1 67.Qxb1 Qxa8 68.Qb5 Qh8+ 69.Kg1 Qh5 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/M7cgKaHC"]
+[Date "2026.07.04"]
+[Round "8.19"]
+[White "Kaliszuk, Kamil"]
+[Black "Matskevich, Varvara"]
+[Result "1-0"]
+[WhiteElo "2162"]
+[BlackElo "2031"]
+[ECO "A55"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.e4 Be7 6.Be2 O-O 7.O-O c6 8.Qc2 Qc7 9.Rd1 Re8 10.h3 Nf8 11.Be3 Ng6 12.Rac1 Bf8 13.b4 Bd7 14.a4 Qc8 15.Nh2 d5 16.exd5 Bxb4 17.dxe5 Nxe5 18.d6 c5 19.Nb5 Ba5 20.Bg5 Re6 21.f4 Nc6 22.f5 Rxe2 23.Qxe2 Ne8 24.Nf3 Bxf5 25.Be3 Nb8 26.Rd5 Bb4 27.Nc7 Nxc7 28.dxc7 Nc6 29.Bg5 f6 30.Rd8+ Qxd8 31.cxd8=Q+ Rxd8 32.Be3 Bd3 33.Qf2 b6 34.Qg3 Na5 35.Qc7 Re8 36.Bd2 Nb3 37.Re1 Rxe1+ 38.Bxe1 Bxe1 39.Qd8+ 1-0

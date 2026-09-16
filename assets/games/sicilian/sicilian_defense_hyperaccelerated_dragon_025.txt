@@ -1,0 +1,15 @@
+[Event "Round 5: Cankurt, Arda - Gucer, Gunes"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/0cgGDrw7"]
+[Date "2026.07.16"]
+[Round "5.29"]
+[White "Cankurt, Arda"]
+[Black "Gucer, Gunes"]
+[Result "1-0"]
+[WhiteElo "2079"]
+[BlackElo "2006"]
+[ECO "B27"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.Be2 Bg7 4.c3 d5 5.exd5 Qxd5 6.d4 cxd4 7.cxd4 Nf6 8.Nc3 Qa5 9.O-O O-O 10.Qb3 Nbd7 11.Bd2 Qd8 12.a4 Nb6 13.a5 Be6 14.Qb5 Bd7 15.Qb4 Nc8 16.Qxb7 Nd6 17.Qb3 Rb8 18.Qa3 Be6 19.Bf4 Rb3 20.Qc5 Qb8 21.Ne5 Nb7 22.Qc6 Rc8 23.Qa6 g5 24.Bg3 Qd6 25.Qxa7 Qd8 26.Bb5 Nd6 27.Ba4 Rb7 28.Qa6 Rxb2 29.Nc6 Qf8 30.Rfe1 Nf5 31.Be5 Bd7 32.Nxe7+ Qxe7 33.Bxd7 Qxd7 34.Na4 Rxf2 35.Nb6 Rxg2+ 36.Kxg2 Rc2+ 37.Kh1 Qc6+ 38.d5 Nxd5 39.Qa8+ Qxa8 40.Nxa8 f6 41.Bg3 h5 42.Nb6 h4 43.Bb8 g4 44.Nxd5 g3 45.hxg3 hxg3 46.Ne7+ Nxe7 47.Rxe7 Bf8 48.Re8 Kf7 49.Rxf8+ 1-0

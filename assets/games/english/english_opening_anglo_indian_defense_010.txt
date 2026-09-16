@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.14"]
+[White "Marrujo Pardo, Mauricio Emmanuel"]
+[Black "Cervantes Landeiro, Thalia"]
+[Result "1-0"]
+[WhiteElo "2427"]
+[BlackElo "2232"]
+[ECO "A15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 c6 4.Nf3 e4 5.Nd4 Qb6 6.Nb3 a5 7.d3 a4 8.N3d2 Bc5 9.O-O e3 10.fxe3 Bxe3+ 11.Kh1 Ng4 12.Ne4 O-O 13.Nbc3 d5 14.cxd5 Bxc1 15.Qxc1 Ne3 16.Rf3 Nxd5 17.Qg5 h6 18.Qd2 Be6 19.d4 Nd7 20.Nd6 Qb4 21.Nce4 Qxd2 22.Nxd2 Nb4 23.Rc3 Ra7 24.e4 Nf6 25.a3 Rd8 26.e5 Nbd5 27.Rd3 Ng4 28.Kg1 f6 29.Re1 fxe5 30.dxe5 h5 31.h3 Nh6 32.N2e4 Nc7 33.Nc5 Nf7 34.Nxf7 Rxd3 35.Ng5 Rxg3 36.Ngxe6 Nxe6 37.Nxe6 b5 38.Nd4 c5 39.Nxb5 Rb7 40.e6 Re7 41.Nc3 Rg6 42.Nxa4 1-0

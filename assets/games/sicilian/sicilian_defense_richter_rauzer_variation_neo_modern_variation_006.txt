@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/gZyqTZrS"]
+[Date "2026.07.05"]
+[Round "9.31"]
+[White "Podgorski, Maciej"]
+[Black "Czernecki, Andrzej"]
+[Result "0-1"]
+[WhiteElo "2060"]
+[BlackElo "2023"]
+[ECO "B67"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Be7 10.f3 b5 11.Bxf6 gxf6 12.Nce2 Ne5 13.Nc1 Qb6 14.f4 Nc4 15.Bxc4 bxc4 16.f5 Rb8 17.c3 e5 18.Nde2 Ba4 19.Rde1 d5 20.Ng3 d4 21.Re2 d3 22.Nxd3 Rd8 23.Re3 Rxd3 24.Rxd3 cxd3 25.Qxd3 Ba3 26.Qe2 Ke7 27.Ka1 Bc5 28.b4 Bd6 29.Rb1 Rc8 30.Qd2 Qc6 31.Kb2 a5 32.a3 Qc4 33.Kc1 axb4 34.axb4 Bxb4 0-1

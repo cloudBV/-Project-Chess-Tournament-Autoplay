@@ -1,0 +1,15 @@
+[Event "Round 4: Fellman, Mike - Pinal Borges, Nelson"]
+[Site "https://lichess.org/broadcast/iii-torneo-internacional-jose-celso-barbosa-grupo-a/round-4/lB64ecBd/EFfk4OiB"]
+[Date "2026.07.24"]
+[Round "4.2"]
+[White "Fellman, Mike"]
+[Black "Pinal Borges, Nelson"]
+[Result "1/2-1/2"]
+[WhiteElo "2078"]
+[BlackElo "2285"]
+[ECO "E88"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Bd3 cxd5 9.cxd5 Nbd7 10.Nge2 a6 11.O-O b5 12.Qd2 Nc5 13.Bc2 Rb8 14.b4 Ncd7 15.a4 Nb6 16.Bd3 Bd7 17.axb5 axb5 18.Qa2 Qe7 19.Qa6 Na8 20.Rfc1 Ne8 21.Ra2 Bf6 22.Qa7 Nec7 1/2-1/2

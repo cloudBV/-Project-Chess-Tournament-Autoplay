@@ -1,0 +1,14 @@
+[Event "Round 8: Rotunno, Flavio - Kurmann, Oliver"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-8/CUozdTFU/gNhtYyW4"]
+[Date "2026.07.18"]
+[Round "8.4"]
+[White "Rotunno, Flavio"]
+[Black "Kurmann, Oliver"]
+[Result "1-0"]
+[WhiteElo "2138"]
+[BlackElo "2354"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 c6 8.O-O Nbd7 9.Bf4 a5 10.Rd1 h6 11.Nc3 dxc4 12.Nd2 Nb6 13.e4 a4 14.a3 Bd7 15.Bf1 c5 16.Nxc4 Nxc4 17.Bxc4 cxd4 18.Rxd4 Bc5 19.Rd2 Qe7 20.Rad1 Rfc8 21.e5 Nd5 22.Rxd5 exd5 23.Nxd5 Qe6 24.Nf6+ gxf6 25.Bxe6 Bxe6 26.Qe2 fxe5 27.Bxh6 Rd8 28.Rxd8+ Rxd8 29.Qh5 Be7 30.Bg5 Rd7 31.Bxe7 Rxe7 32.Qg5+ Kf8 33.Qxe5 Rd7 34.h3 Rd1+ 35.Kh2 Rd2 36.Qf6 Rd3 37.g4 Bd5 38.Qf5 Rd1 39.f3 Bc6 40.Qf6 Rd3 41.Kg3 1-0

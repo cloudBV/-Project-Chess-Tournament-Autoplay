@@ -1,0 +1,14 @@
+[Event "Round 2: Kuhn, Gerhard - Kaiser, Dieter"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/uzpv3RdJ"]
+[Date "2026.07.18"]
+[Round "2.11"]
+[White "Kuhn, Gerhard"]
+[Black "Kaiser, Dieter"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2166"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 e6 6.Be2 cxd4 7.cxd4 Nc6 8.O-O Be7 9.Nc3 Qd6 10.Nb5 Qd8 11.Bf4 O-O 12.h3 a6 13.Nc3 b5 14.a3 Bb7 15.Qd2 Nd5 16.Be3 Rc8 17.Nxd5 Qxd5 18.Rfd1 Rfd8 19.Ne1 Bf6 20.Bf3 Qd7 21.Rac1 Nxd4 22.Rxc8 Nxf3+ 23.Nxf3 Qxc8 24.Rc1 Rxd2 25.Rxc8+ Bxc8 26.Bxd2 Bxb2 27.Bb4 Bb7 28.Nd2 Bd5 29.f3 f6 0-1

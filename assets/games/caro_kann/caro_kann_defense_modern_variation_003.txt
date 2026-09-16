@@ -1,0 +1,14 @@
+[Event "Round 3: Triantafilidis, Mihail - Sulashvili, Malkhaz"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/tZEaPivj"]
+[Date "2026.07.19"]
+[Round "3.12"]
+[White "Triantafilidis, Mihail"]
+[Black "Sulashvili, Malkhaz"]
+[Result "1/2-1/2"]
+[WhiteElo "2188"]
+[BlackElo "2381"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Modern Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.e5 Bg7 5.Ngf3 Nh6 6.Nb3 f6 7.exf6 exf6 8.Be2 O-O 9.O-O b6 10.a4 a5 11.c4 Be6 12.c5 1/2-1/2

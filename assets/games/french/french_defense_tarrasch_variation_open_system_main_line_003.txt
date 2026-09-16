@@ -1,0 +1,14 @@
+[Event "Round 3: Fomkin, Dmitry - Ivanisevic, Ivan"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/yDzhVNdp"]
+[Date "2026.07.15"]
+[Round "3.4"]
+[White "Fomkin, Dmitry"]
+[Black "Ivanisevic, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2358"]
+[BlackElo "2517"]
+[ECO "C09"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Qe7+ 7.Qe2 Qxe2+ 8.Bxe2 Bf5 9.c3 cxd4 10.Nxd4 Nxd4 11.cxd4 Bd6 12.Nf1 Ne7 13.Ne3 O-O 14.O-O Be4 15.f3 Bg6 16.Bd2 Rac8 17.g3 h5 18.Rac1 f6 19.Kf2 Kf7 20.Rxc8 Re8 21.Rd8 Rxd8 22.Rd1 Rc8 23.Rc1 Rxc1 24.Bxc1 Bb1 25.a3 g5 26.Bd2 Ke6 27.Bf1 a6 28.h4 gxh4 29.gxh4 Ng6 30.Bh3+ f5 31.Ng2 Bd3 32.Bg5 Bc7 33.Ke3 Bf1 34.Kf2 Bxg2 35.Bxg2 Bf4 36.Bf1 Bxg5 37.hxg5 h4 38.Bd3 Nf4 39.Bf1 Nh5 40.Bh3 Nf4 41.Bf1 Nh5 42.Bh3 Nf4 1/2-1/2

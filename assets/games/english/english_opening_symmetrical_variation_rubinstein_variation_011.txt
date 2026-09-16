@@ -1,0 +1,15 @@
+[Event "Round 2: Aguero Jimenez, Luis Lazaro - Arnold, Rhys"]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-2/cGYpNscz/S99TyyPN"]
+[Date "2026.07.23"]
+[Round "2.4"]
+[White "Aguero Jimenez, Luis Lazaro"]
+[Black "Arnold, Rhys"]
+[Result "1-0"]
+[WhiteElo "2472"]
+[BlackElo "2262"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.Nf3 Nf6 2.g3 c5 3.Bg2 d5 4.c4 Nc6 5.cxd5 Nxd5 6.Nc3 Nc7 7.a3 e6 8.O-O Be7 9.e3 O-O 10.d4 cxd4 11.exd4 Bf6 12.Bf4 Ne7 13.Ne4 Ncd5 14.Bd6 Re8 15.Rc1 Nc6 16.Ne5 Be7 17.Nxc6 bxc6 18.Rxc6 Qd7 19.Bxe7 Bb7 20.Rc1 Qxe7 21.Re1 Rad8 22.Qa4 Ba8 23.Qa5 Nb6 24.Qc5 Qd7 25.Rcd1 Bd5 26.Nc3 Bxg2 27.Kxg2 Nd5 28.Nxd5 Qxd5+ 29.Qxd5 Rxd5 30.Re5 Red8 31.Rxd5 Rxd5 32.Rc1 g5 33.Rc7 a6 34.Rc6 Rxd4 35.Rxa6 e5 36.b4 e4 37.b5 Rd2 38.Kf1 Rb2 39.a4 h5 40.b6 Kg7 41.a5 f5 42.Ra7+ Kf6 43.b7 Ke5 44.a6 f4 45.Ra8 Rb1+ 46.Ke2 Kd5 1-0

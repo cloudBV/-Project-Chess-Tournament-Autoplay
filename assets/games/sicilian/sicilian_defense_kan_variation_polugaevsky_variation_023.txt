@@ -1,0 +1,14 @@
+[Event "Round 5: Dong, Hongfu - Ragavan, Samarth Rajesh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/9n8k4MZr"]
+[Date "2026.07.17"]
+[Round "5.12"]
+[White "Dong, Hongfu"]
+[Black "Ragavan, Samarth Rajesh"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2106"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qg4 Nf6 8.Qg3 d6 9.Nc3 Nc6 10.Bg5 h6 11.Bd2 Nb4 12.O-O-O Nxd3+ 13.cxd3 Rg8 14.f4 Bd7 15.e5 dxe5 16.fxe5 Bb8 17.Rhf1 Bc6 18.Rde1 Nd5 19.Bxh6 Nb4 20.d4 Bb5 21.Nxb5 axb5 22.Rxf7 Kxf7 23.Rf1+ Ke8 24.Qg6+ Kd7 25.Rf7+ Kc6 26.Qxe6+ Bd6 27.exd6 gxh6 28.d7+ Kc7 29.Qe5+ Kb6 30.Qc5+ Ka6 31.Qxb4 Qg5+ 32.Kb1 Qg6+ 33.Ka1 Kb6 34.Qc5+ Ka6 35.Qc7 Qb6 36.Rf6 1-0

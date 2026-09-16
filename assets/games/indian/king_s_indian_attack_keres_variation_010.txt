@@ -1,0 +1,15 @@
+[Event "Round 7: Bartholomew, John - Rosen, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-7/QhfD3M1a/Ad94TlH1"]
+[Date "2026.07.05"]
+[Round "7.4"]
+[White "Bartholomew, John"]
+[Black "Rosen, Eric"]
+[Result "1-0"]
+[WhiteElo "2416"]
+[BlackElo "2327"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 e6 4.O-O Nd7 5.d3 c6 6.c4 Ngf6 7.Qb3 Qb6 8.Be3 Bc5 9.Bxc5 Nxc5 10.Qc2 Bxf3 11.Bxf3 O-O 12.Nd2 a5 13.d4 Ncd7 14.e3 a4 15.Rab1 Rfc8 16.c5 Qa5 17.Rfc1 e5 18.Bg2 exd4 19.exd4 Re8 20.Nf3 Ne4 21.Re1 Qb4 22.a3 Qa5 23.Re3 h6 24.Rbe1 Nf8 25.Ne5 Nf6 26.Bh3 Qb5 27.Bf1 Qa5 28.Bh3 Rad8 29.Qe2 Qc7 30.Ng4 Ne4 31.f3 f5 32.fxe4 fxg4 33.Qxg4 Qf7 34.e5 Qg6 35.Qxg6 Nxg6 36.Rf1 Nf8 37.b3 axb3 38.Rxb3 Re7 39.Rfb1 Ra8 40.Rxb7 Rxb7 41.Rxb7 Rxa3 42.e6 Re3 43.e7 Ng6 44.Bd7 Nxe7 45.Kf2 Re4 46.Kf3 Kf7 47.Rc7 Rxd4 48.Bxc6 Ke6 49.Bd7+ Kf6 50.Bb5 Rb4 51.Bd3 Rb3 52.Ke3 Nf5+ 53.Kd2 Rb2+ 54.Kc3 Rxh2 55.Bxf5 Kxf5 56.Rxg7 Ke5 57.Re7+ Kf6 58.Re3 Rh1 59.Kd4 Rd1+ 60.Rd3 Rxd3+ 61.Kxd3 Ke5 62.Kc3 d4+ 63.Kc4 h5 64.c6 Kd6 65.Kxd4 Kxc6 66.Ke5 Kd7 67.Kf6 h4 68.gxh4 Ke8 69.Kg7 1-0

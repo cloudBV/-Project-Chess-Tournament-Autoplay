@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-9/aPBxlkPe/ZMYy4dVp"]
+[Date "2026.07.17"]
+[Round "9.5"]
+[White "Benci, Jozef"]
+[Black "Koska, Jiri"]
+[Result "1/2-1/2"]
+[WhiteElo "2169"]
+[BlackElo "2035"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Orangutan"]
+
+1.Nf3 Nf6 2.c4 g6 3.b4 Bg7 4.Bb2 O-O 5.g3 d6 6.Bg2 e5 7.d3 Nh5 8.Qc2 c6 9.O-O Be6 10.Nbd2 f5 11.Nb3 Qe7 12.c5 Nd7 13.cxd6 Qxd6 14.Nc5 Nxc5 15.bxc5 Qc7 16.Bc3 Rae8 17.Qb2 Bc8 18.Nd2 Be6 19.Rab1 Rf7 20.Nb3 Bxb3 21.Qxb3 Nf6 22.Qa3 a6 23.Rb2 Nd5 24.Ba5 Qc8 25.Rb3 f4 26.Qc1 g5 27.Qc4 1/2-1/2

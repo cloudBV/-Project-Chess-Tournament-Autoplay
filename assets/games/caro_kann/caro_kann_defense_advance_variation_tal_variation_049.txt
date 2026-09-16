@@ -1,0 +1,14 @@
+[Event "Round 3: Hagner, Bennet - Donchenko, Alexander"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-3/SAJ7dRjf/gFde4PWO"]
+[Date "2026.07.07"]
+[Round "3.1"]
+[White "Hagner, Bennet"]
+[Black "Donchenko, Alexander"]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2635"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Qd7 6.Be3 Bxd3 7.Qxd3 e6 8.a3 Ne7 9.Ne2 c5 10.dxc5 Nf5 11.Nd2 Qc7 12.b4 Nc6 13.Nf3 g6 14.Ned4 Nfxd4 15.Bxd4 Bg7 16.O-O O-O 17.Rfe1 Nxd4 18.Qxd4 b6 19.c4 bxc5 20.Qxc5 Qxc5 21.bxc5 Rfd8 22.cxd5 Rxd5 23.c6 Rc8 24.Rac1 Bf8 25.Re3 Rc5 26.Rxc5 Bxc5 27.Rc3 Rxc6 28.Nd4 Rc7 29.Nb5 Rc6 30.Kf1 Kf8 31.Nxa7 Ra6 32.Rxc5 Rxa7 33.Rc3 Ra5 34.f4 f6 35.Rc8+ Ke7 36.Rc7+ Kd8 37.Rg7 fxe5 38.fxe5 Rxe5 39.Rxg6 Re4 40.g3 Ke7 41.Rg5 Ra4 42.Rxh5 Kf6 43.Kg2 e5 44.Rh8 Rxa3 45.Rf8+ Kg6 46.Kh3 Ra1 47.Rf3 Rb1 48.Rf2 Rb3 49.Rf8 Rb1 50.Rg8+ Kf7 51.Ra8 Rb6 52.Kg4 Kg6 53.h5+ Kf6 54.Rf8+ Kg7 55.Rf5 Re6 56.Kf3 e4+ 57.Ke3 Kh7 58.Rf4 Kh6 59.Rxe4 Rf6 60.Re5 Rf1 61.Ke4 Ra1 62.Kf4 Ra4+ 63.Re4 Ra7 64.Re6+ 1-0

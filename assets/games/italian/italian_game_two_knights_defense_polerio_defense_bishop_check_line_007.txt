@@ -1,0 +1,15 @@
+[Event "Round 4: Aaditya Dhingra - Zeynalli, Rashad"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/8TH120CH"]
+[Date "2026.07.15"]
+[Round "4.3"]
+[White "Aaditya Dhingra"]
+[Black "Zeynalli, Rashad"]
+[Result "1/2-1/2"]
+[WhiteElo "2404"]
+[BlackElo "2269"]
+[ECO "C58"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ Bd7 7.Qe2 Bd6 8.Nc3 c6 9.dxc6 Nxc6 10.Bxc6 Bxc6 11.O-O O-O 12.d3 Rc8 13.Nge4 Nxe4 14.dxe4 Qb6 15.Rd1 Bc5 16.Rb1 f5 17.exf5 Rxf5 18.Be3 Bxe3 19.Qxe3 Qxe3 20.fxe3 b5 21.a3 a5 22.Rd2 b4 23.axb4 axb4 24.Na2 Rb8 25.Rf1 Rxf1+ 26.Kxf1 Be4 27.b3 Kf7 28.Ke1 Ke6 29.Kd1 Ra8 30.Nxb4 Ra1+ 31.Ke2 Rg1 32.g3 1/2-1/2

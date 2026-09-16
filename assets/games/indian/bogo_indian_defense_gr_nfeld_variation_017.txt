@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "7.3"]
+[White "Mica, Marek"]
+[Black "Pressler, Tobias"]
+[Result "1/2-1/2"]
+[WhiteElo "2284"]
+[BlackElo "2070"]
+[ECO "E11"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Qxd2 d6 7.b3 Nbd7 8.Bb2 Ne4 9.Qc2 f5 10.e3 Ndf6 11.Be2 a5 12.O-O g5 13.Ne1 g4 14.Nd3 Qe7 15.f3 gxf3 16.gxf3 Ng5 17.Kh1 Kh8 18.Rg1 Rg8 19.Rg2 Bd7 20.Rag1 Nf7 21.d5 e5 22.f4 Rxg2 23.Rxg2 c6 24.fxe5 dxe5 25.Qc3 Re8 26.Qxa5 cxd5 27.cxd5 Qd6 28.Bf3 Rg8 29.Rxg8+ Kxg8 30.Qa8+ Kg7 31.Qxb7 e4 32.Nf4 exf3 33.Nh5+ Kg6 34.Nxf6 f2 35.Kg2 Qxh2+ 36.Kxh2 f1=Q 37.d6 Ng5 38.Qg2 Qe1 39.Nxd7 Qh4+ 40.Kg1 Qe1+ 41.Kh2 Qh4+ 1/2-1/2

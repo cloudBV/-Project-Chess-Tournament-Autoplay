@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.12"]
+[White "Lalic, Bogdan"]
+[Black "Khusenkhojaev, Mustafokhuja"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2266"]
+[ECO "A34"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 Nd3+ 7.Ke2 Nf4+ 8.Kf1 Ne6 9.b4 g6 10.bxc5 Bg7 11.Bxe6 Bxe6 12.d4 Nc6 13.Be3 Qa5 14.Rc1 O-O-O 15.Qd2 f5 16.exf5 gxf5 17.Kg1 Rhg8 18.h4 f4 19.Bxf4 Nxd4 20.Qe3 Nxf3+ 21.Qxf3 Bxc3 22.Qxc3 Qxc3 23.Rxc3 Bxa2 24.Kh2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "6.4"]
+[White "Jun, Rudolf"]
+[Black "Bokhnak, Tymofii"]
+[Result "0-1"]
+[WhiteElo "2303"]
+[BlackElo "2147"]
+[ECO "B40"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.Nc3 Nf6 5.Be2 Be7 6.O-O O-O 7.d4 cxd4 8.Nxd4 Bb4 9.f3 Bc5 10.Be3 Qb6 11.Na4 Bxd4 12.Nxb6 Bxe3+ 13.Kh1 axb6 14.a3 Bd4 15.Qc2 d5 16.cxd5 exd5 17.Rad1 dxe4 18.Bb5 Be5 19.Bxc6 bxc6 20.Qxc6 Rb8 21.fxe4 Ng4 22.Qb5 Bxh2 23.Rd3 Be6 24.g3 Rbc8 25.b3 Rc2 26.Rdf3 Rfc8 27.Qxb6 h6 28.Qd4 R8c5 29.Qd1 Rb2 30.Qd8+ Kh7 31.Qd3 Ne5 32.Qd4 Rbc2 33.Re3 Bh3 34.Rfe1 Ng4 0-1

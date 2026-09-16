@@ -1,0 +1,14 @@
+[Event "Round 6: Dziewonski, Dariusz - Nevednichy, Vladislav"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/hzlYXGj5"]
+[Date "2026.07.22"]
+[Round "6.11"]
+[White "Dziewonski, Dariusz"]
+[Black "Nevednichy, Vladislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2278"]
+[BlackElo "2441"]
+[ECO "B89"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 a6 8.Qe2 Bd7 9.O-O-O b5 10.Bb3 Na5 11.f3 Be7 12.g4 O-O 13.h4 Nxb3+ 14.cxb3 b4 15.Na4 Qa5 16.Kb1 Bxa4 17.bxa4 Qxa4 18.h5 Rfc8 19.g5 Nd7 20.g6 Bf6 21.gxf7+ Kxf7 22.f4 Nf8 23.Rd3 Kg8 24.Bc1 Qa5 25.Nf3 Rc5 26.Rxd6 Rxh5 27.Rg1 Rc5 28.e5 Be7 29.Qg2 g6 30.Nd4 Rac8 31.Nc6 Qc7 32.Nxe7+ Qxe7 33.Rxa6 Qc7 34.Be3 Rc4 35.Rd6 Qf7 36.Qd2 Qf5+ 37.Qd3 Re4 38.Bd2 h6 39.Rc1 Rxc1+ 40.Kxc1 g5 41.fxg5 hxg5 42.Rd4 Rxd4 43.Qxd4 b3 44.axb3 Ng6 45.Qd8+ Kf7 46.Qxg5 Nxe5 1/2-1/2

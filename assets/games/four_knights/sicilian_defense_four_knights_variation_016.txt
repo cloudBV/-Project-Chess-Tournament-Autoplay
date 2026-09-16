@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-7-game-2/kEwgj6dn/aXv8yj3A"]
+[Date "2026.07.09"]
+[Round "14.6"]
+[White "Dmytruk, Artem"]
+[Black "Buklaho, Ignacy"]
+[Result "1/2-1/2"]
+[WhiteElo "2037"]
+[BlackElo "2052"]
+[ECO "B45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Be3 Bb4 7.f3 d5 8.Nxc6 bxc6 9.exd5 cxd5 10.Qd4 Be7 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.O-O O-O 14.Rad1 Rac8 15.Qxa7 Qxa7 16.Bxa7 Bc5+ 17.Bxc5 Rxc5 18.Rd3 Rb8 19.a3 Rc6 20.Rb1 h6 21.a4 Nd7 22.b3 Nc5 23.Rd2 Kf8 24.b4 Nd7 25.Ne2 Nb6 26.Nd4 Rcc8 27.a5 Nc4 28.Rdd1 Ne3 29.Rd2 Nc4 30.Rdd1 Ne3 31.Rdc1 e5 32.Nb3 Rxb4 33.a6 Ra4 34.Kf2 d4 35.c3 Ra2+ 36.Kg3 Rxg2+ 37.Kh3 Rf2 38.Kg3 Rg2+ 39.Kh3 Rf2 40.Kg3 Rg2+ 41.Kh3 Rf2 42.Kg3 Rg2+ 1/2-1/2

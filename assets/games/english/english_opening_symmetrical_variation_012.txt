@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-7/n9mydThe/QUH9dnxO"]
+[Date "2026.07.06"]
+[Round "7.4"]
+[White "Hrbek, Stepan"]
+[Black "Haring, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2468"]
+[BlackElo "2446"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 Nf6 2.Nf3 c5 3.Nc3 Nc6 4.g3 d5 5.d4 cxd4 6.Nxd4 dxc4 7.Nxc6 Qxd1+ 8.Nxd1 bxc6 9.Bg2 Nd5 10.Ne3 e6 11.Nxc4 Ba6 12.b3 Bb4+ 13.Bd2 Ke7 14.Rc1 Rhc8 15.h4 Rab8 16.h5 Bxc4 17.Rxc4 c5 18.Rhh4 Nb6 19.Rcg4 Bxd2+ 20.Kxd2 Kf8 21.Rh1 Rd8+ 22.Ke3 Rbc8 23.Rc1 f5 24.Rf4 g5 25.hxg6 hxg6 26.Rh4 Kg7 27.Bb7 Rc7 28.Rch1 Kf6 29.Ba6 Nd5+ 30.Kf3 Nb4 31.Bb5 Nxa2 32.Rh7 Rxh7 33.Rxh7 Rb8 34.Bc4 Nc1 35.Rxa7 Nxb3 36.Ke3 Nd4 37.Rc7 Nb5 38.Rc6 Nd4 39.Rxc5 Rd8 40.f4 Rd6 1/2-1/2

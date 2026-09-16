@@ -1,0 +1,14 @@
+[Event "Round 6: Gypser, Andreas, Dr. - Sicars, Thorsten"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-6/3ymlbMxl/ImnX0XqD"]
+[Date "2026.07.22"]
+[Round "6.8"]
+[White "Gypser, Andreas, Dr."]
+[Black "Sicars, Thorsten"]
+[Result "1-0"]
+[WhiteElo "2113"]
+[BlackElo "2020"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.O-O Nd7 10.Ng3 g6 11.Ne4 Be7 12.Re1 f5 13.Ng5 h6 14.Nf3 Bf8 15.Bd2 Rxe1+ 16.Qxe1 Nb6 17.Ne5 Be6 18.Nxg6 Bg7 19.Nf4 Qd6 20.Qe2 Nd5 21.Nxe6 fxe6 22.Re1 Nc7 23.Qh5 Qf8 24.Re3 Qf7 25.Qe2 Re8 26.Rg3 Kh7 27.Bf4 Nd5 28.Be5 Bf6 29.a3 Rg8 30.Rxg8 Kxg8 31.c4 Ne7 32.Qe3 Kh7 33.Be2 Bxe5 34.Qxe5 Ng6 35.Qb8 a6 36.Bh5 Qe7 37.g3 Nf8 38.h4 Kg7 39.Qe5+ Kg8 40.d5 cxd5 41.cxd5 Qc5 42.Qf6 exd5 43.Bf7+ Kh7 44.Qxf5+ Kg7 45.Bxd5 Qe7 46.Qg4+ Kf6 47.Qf3+ 1-0

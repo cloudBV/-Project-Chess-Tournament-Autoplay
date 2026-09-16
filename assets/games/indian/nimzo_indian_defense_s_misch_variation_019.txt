@@ -1,0 +1,14 @@
+[Event "Round 7: Kotrotsos, Vasilios - Triantos, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/RdfPkOr7"]
+[Date "2026.07.10"]
+[Round "7.62"]
+[White "Kotrotsos, Vasilios"]
+[Black "Triantos, Konstantinos"]
+[Result "1-0"]
+[WhiteElo "2313"]
+[BlackElo "2177"]
+[ECO "E24"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 d6 6.f3 Qe7 7.e4 e5 8.Bd3 c5 9.Ne2 O-O 10.Bg5 Nbd7 11.d5 h6 12.Be3 Re8 13.h4 h5 14.Ng3 Nf8 15.Qd2 a6 16.a4 b6 17.Bg5 g6 18.Nf1 N8h7 19.Bh6 Rb8 20.Qe2 Kh8 21.Bd2 Bd7 22.Ne3 Rf8 23.g3 Qe8 24.Bc2 Rb7 25.Qg2 Qe7 26.O-O b5 27.axb5 axb5 28.cxb5 Bxb5 29.c4 Bd7 30.Bc3 Ng8 31.f4 f6 32.Ra6 Nh6 33.Kh2 Bc8 34.Rfa1 Nf7 35.Qf3 g5 36.hxg5 fxg5 37.Qxh5 Kg7 38.f5 Qf6 39.Ng4 Qd8 40.Qg6+ Kh8 41.Rxd6 Qxd6 42.Qxd6 Nxd6 43.Bxe5+ Nf6 44.Nxf6 Nxc4 45.Bc3 Rd8 46.Rh1 Kg7 47.Kg1 Rf7 48.Nd7+ 1-0

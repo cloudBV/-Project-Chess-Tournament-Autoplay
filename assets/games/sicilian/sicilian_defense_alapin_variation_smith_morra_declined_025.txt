@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.16"]
+[White "Pisk, Petr"]
+[Black "Migalko, Dmitriy"]
+[Result "1/2-1/2"]
+[WhiteElo "2344"]
+[BlackElo "2097"]
+[ECO "B22"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 e6 6.cxd4 d6 7.Bd3 Nb4 8.O-O Nxd3 9.Qxd3 Be7 10.Nc3 O-O 11.exd6 Qxd6 12.Nb5 Qd8 13.Bf4 Nc6 14.Rac1 Bd7 15.Bc7 Qc8 16.Bg3 Qd8 17.a3 Rc8 18.Nd6 Bxd6 19.Bxd6 Re8 20.Ne5 Nxe5 21.dxe5 Rxc1 22.Rxc1 Bc6 23.Qd2 Qd7 24.h4 Rc8 25.Rc3 Bd5 26.Rg3 Qc6 27.Kh2 Qc1 28.Qxc1 Rxc1 29.Rc3 1/2-1/2

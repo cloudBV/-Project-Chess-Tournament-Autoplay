@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/muONPztS"]
+[Date "2026.07.08"]
+[Round "9.11"]
+[White "Klys, Kacper"]
+[Black "Chval, Zdenek"]
+[Result "1-0"]
+[WhiteElo "2178"]
+[BlackElo "2092"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Be3 e5 7.d5 Ne8 8.g4 f5 9.gxf5 gxf5 10.exf5 Bxf5 11.Nf3 Nd7 12.h4 Nc5 13.h5 h6 14.Nh4 Qf6 15.Nxf5 Qxf5 16.Qd2 Nf6 17.Rg1 Nfe4 18.Nxe4 Nxe4 19.Qd3 Ng5 20.Qxf5 Rxf5 21.Bg4 Nf3+ 22.Kd1 Nxg1 23.Bxf5 Nf3 24.Bg4 Nd4 25.Kd2 Rf8 26.Kd3 b6 27.Rg1 Kh7 28.Ke4 Nc2 29.Bf5+ Kh8 30.b4 Nxe3 31.fxe3 Bf6 32.Rg6 Bg5 33.Re6 Kg7 34.c5 bxc5 35.bxc5 dxc5 36.Rg6+ Kh8 37.Rc6 Bxe3 38.Rxc7 a5 39.Kxe3 Rxf5 40.d6 1-0

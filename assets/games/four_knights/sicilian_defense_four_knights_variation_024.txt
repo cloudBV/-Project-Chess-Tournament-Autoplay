@@ -1,0 +1,15 @@
+[Event "Round 1: Darvishi, Mohammad Hossein - Azimi, Amir Mohammad"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/yxOeKpyM"]
+[Date "2026.07.13"]
+[Round "1.16"]
+[White "Darvishi, Mohammad Hossein"]
+[Black "Azimi, Amir Mohammad"]
+[Result "0-1"]
+[WhiteElo "2300"]
+[BlackElo "2148"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 Bb4 7.O-O Bxc3 8.bxc3 Nxe4 9.Nxc6 dxc6 10.Bd3 Nc5 11.Qg4 O-O 12.Ba3 e5 13.Qh5 g6 14.Qxe5 Nxd3 15.cxd3 Re8 16.Qf4 Bf5 17.Rad1 Re2 18.Bc5 b6 19.Bd4 Qe7 20.g4 Bd7 21.Bf6 Qe6 22.h3 h5 23.Qg5 Re8 24.c4 Kh7 25.Bc3 Qd6 26.Bd2 Qf8 27.gxh5 R8e5 28.Qf6 Qe7 29.hxg6+ fxg6 30.Qxe7+ Rxe7 31.Kg2 c5 32.Rfe1 Ba4 33.Rc1 Rxe1 34.Bxe1 Rd7 35.Rc3 Bd1 36.Kf1 Re7 37.Ra3 Be2+ 38.Kg2 Rd7 39.Bd2 Bxd3 40.Bf4 Bxc4 41.Kf3 Kg7 42.Be5+ Kf7 43.Kg4 a6 44.Rf3+ Ke6 45.Re3 Rd3 46.Re1 Kf7 47.Bc7 b5 48.Re5 Bd5 49.Bb6 c4 50.Re3 Rxe3 51.fxe3 c3 52.Ba5 c2 53.Bd2 a5 54.Kf4 b4 55.Ke5 a4 56.Kd4 a3 0-1

@@ -1,0 +1,15 @@
+[Event "Round 1: Vivekananthan, Anish - Karthikeyan, Harishkumar"]
+[Site "https://lichess.org/broadcast/4th-annual-independence-day-open/round-1/Ait6ffWr/EWEpTZXV"]
+[Date "2026.07.05"]
+[Round "1.3"]
+[White "Vivekananthan, Anish"]
+[Black "Karthikeyan, Harishkumar"]
+[Result "*"]
+[WhiteElo "2397"]
+[BlackElo "2008"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.Bf4 d5 8.Nd2 Be7 9.O-O O-O 10.c4 a5 11.e5 Nd7 12.Qh5 f5 13.exf6 Nxf6 14.Qe2 Bd6 15.Bxd6 Qxd6 16.Rfe1 Rb8 17.Nf3 c5 18.b3 d4 19.Ng5 Rb6 20.Bc2 Qc7 21.Qe5 Qxe5 22.Rxe5 h6 23.Ne4 Nd7 24.Rh5 e5 25.f3 Re8 26.Re1 Rbe6 27.Nf2 Nf6 28.Rh4 *

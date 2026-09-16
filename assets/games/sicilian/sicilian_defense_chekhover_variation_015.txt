@@ -1,0 +1,14 @@
+[Event "Round 7: Kouvidis, Ioannis - Karamichos, Michail"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/XV36UizV"]
+[Date "2026.07.10"]
+[Round "7.34"]
+[White "Kouvidis, Ioannis"]
+[Black "Karamichos, Michail"]
+[Result "0-1"]
+[WhiteElo "2068"]
+[BlackElo "2205"]
+[ECO "B53"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Qd3 g6 7.c4 Bg7 8.Nc3 Nf6 9.O-O O-O 10.Rd1 a6 11.Bxc6 Bxc6 12.Nd4 Nd7 13.Be3 Bxd4 14.Qxd4 f5 15.f3 Rf7 16.Rd2 Qf8 17.Re1 Nc5 18.b4 Ne6 19.Qd3 fxe4 20.Nxe4 Rf5 21.Rde2 Re8 22.Bd2 Qf7 23.Nf2 Nf4 24.Bxf4 Rxf4 25.Ng4 Kf8 26.Re6 Bd7 27.R6e4 Bf5 28.Rxf4 Bxd3 29.Rxf7+ Kxf7 30.Ne3 Rc8 31.Rc1 b5 32.c5 dxc5 33.bxc5 Bc4 34.Nxc4 Rxc5 35.Ne5+ Rxe5 36.Kf2 b4 37.Rc4 a5 38.Rc6 Ke8 39.h4 Kd7 40.Ra6 Kc7 41.Ra8 Kb6 42.Rh8 a4 43.Rb8+ Kc5 44.f4 Re6 45.Kf3 Rb6 46.Rc8+ Kd4 47.Ra8 a3 48.Rc8 Rb5 49.g4 b3 50.axb3 Rxb3+ 51.Kf2 Rb2+ 52.Kf3 a2 53.Ra8 Kc3 54.f5 gxf5 55.gxf5 Kb3 56.Kf4 Rb1 0-1

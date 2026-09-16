@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.9"]
+[White "Das, Sayantan"]
+[Black "Perez Garcia, Roberto"]
+[Result "1/2-1/2"]
+[WhiteElo "2408"]
+[BlackElo "2117"]
+[ECO "B51"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.h3 Bxf3 9.Qxf3 g6 10.Qd1 Bg7 11.d3 O-O 12.Nd2 b5 13.Nf3 Nd7 14.d4 cxd4 15.cxd4 e5 16.Be3 exd4 17.Nxd4 Nxd4 18.Bxd4 Nc5 19.Bxg7 Kxg7 20.Qd4+ Kg8 21.Rad1 Ne6 22.Qxd6 Qa5 23.Qd2 Qa4 24.b3 Qa3 25.f3 Rfd8 26.Qf2 Rxd1 27.Rxd1 Rd8 28.Rd5 Qc1 29.a4 bxa4 30.bxa4 a5 31.Rxd8+ Nxd8 32.Qb6 Nc6 33.Qc7 Kg7 34.Kh2 Qxf1 35.Qxc6 Qe1 36.Qc5 h5 37.Qe5+ Kg8 38.Qb8+ Kg7 39.Qe5+ Kg8 40.Qg5 Kg7 41.h4 Qb4 42.Qe5+ Kg8 43.Qe8+ Kg7 44.Qd7 Qe1 45.Qd4+ Kg8 46.e5 Kh7 47.Qf4 Kg7 48.Qg5 Kh7 49.Qf6 Kg8 50.Qd8+ Kg7 51.Qf6+ Kg8 52.e6 Qxe6 53.Qxe6 fxe6 54.Kg3 Kf7 55.Kf4 Kf6 56.Ke4 g5 57.hxg5+ Kxg5 58.Ke5 h4 59.Ke4 Kg6 60.Kf4 Kh5 61.Ke5 Kg5 62.Ke4 Kg6 63.Kf4 Kh5 64.Ke4 Kg6 65.f4 Kf6 66.Ke3 Kg6 67.Ke4 Kf6 68.Ke3 Kg6 69.Ke4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 7: Papakonstantinou, Dimitrios - Vlachos, Anatole"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/jCmycRSE"]
+[Date "2026.07.10"]
+[Round "7.22"]
+[White "Papakonstantinou, Dimitrios"]
+[Black "Vlachos, Anatole"]
+[Result "0-1"]
+[WhiteElo "2351"]
+[BlackElo "2493"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Yerevan System"]
+
+1.e4 c5 2.Nf3 a6 3.Nc3 b5 4.d4 cxd4 5.Nxd4 Bb7 6.Bd3 e6 7.O-O Nc6 8.Be3 Ne5 9.f4 Nxd3 10.cxd3 Nf6 11.Kh1 Be7 12.a4 b4 13.Nce2 Ng4 14.Bg1 O-O 15.h3 Nh6 16.f5 e5 17.Nb3 d5 18.Nc5 Bxc5 19.Bxc5 dxe4 20.dxe4 Qh4 21.Bxf8 Qxe4 22.Rf2 Rxf8 23.f6 gxf6 24.Kg1 f5 25.Qd6 f6 26.Ng3 Qc6 27.Nxf5 Nxf5 28.Qxc6 Bxc6 29.Rxf5 Kf7 30.a5 Ke6 31.Rf2 f5 32.Rc1 Bb5 33.Rfc2 Rd8 34.Kf2 b3 35.Re2 Bxe2 36.Kxe2 Rg8 37.Kf2 Kd5 38.Rc7 Kd4 39.Rd7+ Kc4 40.Rxh7 Kd3 41.Rc7 e4 42.Rc3+ Kd2 43.Rxb3 f4 44.Rb6 e3+ 45.Kf3 Re8 46.Rd6+ Ke1 47.Rc6 e2 48.Rc1+ Kd2 49.Rh1 e1=Q 50.Rxe1 Kxe1 51.Kxf4 Kf2 52.g4 Rf8+ 53.Kg5 Kg3 54.Kh6 Kf4 55.g5 Kf5 56.Kg7 Rb8 57.g6 Rb7+ 58.Kh6 Kf6 59.h4 Rb5 60.g7 Kf7 0-1

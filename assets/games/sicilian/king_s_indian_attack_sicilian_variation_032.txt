@@ -1,0 +1,15 @@
+[Event "Round 1: Aaditya Dhingra - Dirikolu, Deniz"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/ygIYV8Wj"]
+[Date "2026.07.24"]
+[Round "1.4"]
+[White "Aaditya Dhingra"]
+[Black "Dirikolu, Deniz"]
+[Result "0-1"]
+[WhiteElo "2404"]
+[BlackElo "2373"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.c4 Bg7 6.cxd5 Nxd5 7.Nc3 O-O 8.Nxd5 Qxd5 9.d3 Nc6 10.Be3 Bd7 11.Nd4 Qd6 12.Nxc6 Bxc6 13.Bxc6 Qxc6 14.Rc1 Qa6 15.Qb3 b6 16.Rc4 Rfd8 17.Rfc1 Rd7 18.a4 Rad8 19.Qc2 Bd4 20.b4 cxb4 21.Bxd4 Rxd4 22.Rxd4 Rxd4 23.Qc7 Rd5 24.Qxe7 Rc5 25.Qe8+ Kg7 26.Rb1 Qb7 27.e4 a5 28.d4 Qc6 29.Qe7 Qc7 30.Qe8 Qc6 31.Qe7 Rc1+ 32.Rxc1 Qxc1+ 33.Kg2 b3 34.d5 b2 35.e5 Qc4 36.Qf6+ Kh6 37.Qxf7 Qe4+ 38.f3 Qc2+ 0-1

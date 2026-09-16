@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-5/A8vmhEwv/n4E6Hr5N"]
+[Date "2026.07.02"]
+[Round "5.5"]
+[White "Pallares Jover, Adrian"]
+[Black "Feal Albala, Alonso"]
+[Result "1/2-1/2"]
+[WhiteElo "2146"]
+[BlackElo "2152"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be3 cxd4 7.cxd4 e6 8.Nc3 Qd8 9.Ne5 Bd6 10.Be2 Nbd7 11.f4 Nd5 12.Nxd5 exd5 13.Qb3 O-O 14.O-O Nb6 15.Bf3 Be6 16.Bd2 f6 17.Ba5 Bc7 18.f5 Bxf5 19.Bxb6 fxe5 20.Qxd5+ Kh8 21.Bxc7 Qxc7 22.Qxb7 Qxb7 23.Bxb7 Rab8 24.Bxa6 exd4 25.Rad1 Rf6 26.Rxd4 Rxa6 27.Rxf5 Rxa2 28.Rb4 Rd8 29.h3 h6 30.Rb7 Rd6 31.Kh2 Rg6 32.Rf3 Kh7 33.Rg3 Ra1 34.Rxg6 Kxg6 35.Kg3 Rf1 36.Rc7 Rb1 37.Rc2 Kf5 38.Kf3 g5 39.Ke3 g4 40.h4 Re1+ 41.Kf2 Rd1 42.Rc5+ Kg6 43.h5+ Kf6 44.Kg3 Rd2 45.b4 Rd4 46.b5 Rb4 47.Kh4 Rb2 48.Kxg4 Rxg2+ 49.Kf4 Rb2 50.Ke4 Ke6 51.Kd4 Rb4+ 52.Kc3 Rb1 53.Kc4 Kf6 54.Kd5 Ke7 55.Kc6 Kd8 56.Kb7 Kd7 57.b6 Kd6 58.Rc6+ Kd7 59.Rxh6 Rb2 60.Rg6 Rb5 61.h6 Ke7 62.h7 Rh5 63.Rg7+ Kd8 64.Rg8+ 1/2-1/2

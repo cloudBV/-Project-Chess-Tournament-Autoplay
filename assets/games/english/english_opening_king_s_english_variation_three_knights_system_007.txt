@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "10.1"]
+[White "Cieslak, Patryk"]
+[Black "Kawulski-Chodkiewicz, Alexander"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2135"]
+[ECO "A27"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Three Knights System"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 exd4 5.Nxd4 Bg7 6.Nxc6 bxc6 7.g3 Ne7 8.Bg2 O-O 9.O-O d6 10.Qd3 a5 11.Bg5 Bd7 12.Rad1 h6 13.Bf4 Rb8 14.b3 c5 15.Nd5 Nxd5 16.Bxd5 a4 17.Qxg6 Qf6 18.Qxf6 Bxf6 19.Bxh6 Rfe8 20.Be3 axb3 21.axb3 Rxb3 22.Rb1 Reb8 23.Rxb3 Rxb3 24.Kg2 Bg4 25.f3 Rxe3 26.fxg4 Rxe2+ 27.Kh3 c6 28.Bf3 Re7 29.Bxc6 Kg7 30.Bd5 Bg5 31.Rf2 Bf6 32.Kg2 Bd4 33.Ra2 f6 34.Kf3 Re3+ 35.Kf4 Re7 36.Ra8 Be3+ 37.Kf3 Bd4 38.Rd8 Re3+ 39.Kf4 Re7 40.h4 Be3+ 41.Kf3 Bc1 42.Rxd6 Re3+ 43.Kf2 Ra3 44.Rd7+ Kh8 45.Rb7 Bd2 46.Rf7 Ra6 47.Kf3 Be1 48.Rc7 Ra3+ 49.Ke4 Rxg3 50.Kf5 Rg1 51.Be6 Bxh4 52.Ke4 1-0

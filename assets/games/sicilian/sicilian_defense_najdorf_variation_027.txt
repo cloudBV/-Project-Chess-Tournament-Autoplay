@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.04"]
+[Round "8.18"]
+[White "Lavigne Lopez, Raul Leonardo"]
+[Black "Ocampos, Ian"]
+[Result "0-1"]
+[WhiteElo "2173"]
+[BlackElo "2325"]
+[ECO "B90"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Bd3 e5 7.Nde2 Be7 8.O-O Nbd7 9.Kh1 b5 10.b4 Nb6 11.a4 bxa4 12.Nxa4 Nxa4 13.Rxa4 Bb7 14.Ng3 h5 15.Qe2 h4 16.Nf5 h3 17.g3 Qd7 18.Nxe7 Qxa4 19.Nf5 Qxb4 20.c4 Kf8 21.Bg5 Qa3 22.Bxf6 gxf6 23.Rb1 Bc8 24.Ne3 Be6 25.f4 Qa5 26.f5 Bd7 27.Nd5 Bc6 28.Nxf6 Ke7 29.Ng4 Rhb8 30.f6+ Kd8 31.Rd1 Qc3 0-1

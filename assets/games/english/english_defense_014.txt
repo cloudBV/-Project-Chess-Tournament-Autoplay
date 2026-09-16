@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-7/djRlwqVj/DoGH921I"]
+[Date "2026.07.15"]
+[Round "7.5"]
+[White "Benci, Jozef"]
+[Black "Panko, Radoslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2169"]
+[BlackElo "2069"]
+[ECO "A40"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb4+ 4.Nc3 Bb7 5.f3 Qh4+ 6.g3 Bxc3+ 7.bxc3 Qe7 8.Bd3 d6 9.Ne2 e5 10.Be3 Nd7 11.Qc2 Ngf6 12.Nc1 h6 13.Nb3 a5 14.a4 c5 15.d5 Kd8 16.O-O-O Nh7 17.Qg2 Bc8 18.g4 Ndf8 19.h4 Bd7 20.Bc2 Bxa4 21.Kd2 Kc7 22.Ra1 Bd7 23.Nc1 Ng6 24.h5 Ngf8 25.Ne2 Ng5 26.Ng3 Nfh7 27.Nf5 Qf6 28.Bd1 a4 29.Be2 Ra5 30.Ra3 Rha8 31.Rha1 Bxf5 32.gxf5 Qd8 33.Qh1 f6 34.R1a2 Qe8 35.Rb2 R8a6 36.Bd3 Nf7 37.Be2 Nf8 38.Qg2 Ng5 39.Qh1 Nd7 40.Rb1 Kb7 41.Rb2 Ra7 42.Rba2 Nb8 43.Bd1 Kc7 44.Bc2 R7a6 45.Ra1 1/2-1/2

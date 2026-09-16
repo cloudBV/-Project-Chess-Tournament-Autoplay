@@ -1,0 +1,14 @@
+[Event "Round 4: Badelka, Olga - Kantane, Anna"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/VS4k2QqQ"]
+[Date "2026.07.06"]
+[Round "4.30"]
+[White "Badelka, Olga"]
+[Black "Kantane, Anna"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2190"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 cxd4 5.O-O d5 6.Nxd4 e5 7.Nb3 Nc6 8.Bg5 Be6 9.Nc3 d4 10.Ne4 h6 11.Nxf6+ gxf6 12.Bh4 Be7 13.e3 dxe3 14.fxe3 Qb6 15.Bxf6 Qxe3+ 16.Kh1 Bxf6 17.Rxf6 Ke7 18.Rf3 Qb6 19.Rc3 h5 20.Nc5 Rad8 21.Qc1 f6 22.Nxe6 Kxe6 23.Qf1 h4 24.Qc4+ Ke7 25.Rb3 Qc7 26.gxh4 Rd4 27.Qc5+ Kd8 28.Rd3 Kc8 29.Rxd4 exd4 30.Qf5+ Kb8 31.Qxf6 Qh7 32.Re1 1-0

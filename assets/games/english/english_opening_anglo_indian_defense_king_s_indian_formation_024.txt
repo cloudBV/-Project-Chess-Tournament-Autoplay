@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.31"]
+[White "Temirov, Bakhyt"]
+[Black "Zichenkov, Oleksandr"]
+[Result "0-1"]
+[WhiteElo "2124"]
+[BlackElo "2037"]
+[ECO "A15"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d3 e5 7.Nc3 Nc6 8.Rb1 Re8 9.b4 e4 10.dxe4 Nxe4 11.Nxe4 Rxe4 12.b5 Na5 13.c5 Bf5 14.Bg5 Bf6 15.Bxf6 Qxf6 16.cxd6 Qxd6 17.e3 Re6 18.Rc1 Bd3 19.Re1 Bxb5 20.Nd4 Re5 21.Qc2 c6 22.Red1 Qf6 23.Qc3 Nc4 24.Nxb5 cxb5 25.Bxb7 Rd8 26.a4 Rxd1+ 27.Rxd1 a6 28.Bxa6 Qxa6 29.Rd8+ Kg7 30.f4 Qf6 31.Rd4 Rxe3 0-1

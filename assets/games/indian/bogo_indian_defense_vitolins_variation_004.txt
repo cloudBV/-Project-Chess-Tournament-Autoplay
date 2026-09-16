@@ -1,0 +1,15 @@
+[Event "Round 5: Pang, Qi - Safranek, William"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-5/fqiT2mw0/900hAf2F"]
+[Date "2026.07.09"]
+[Round "5.4"]
+[White "Pang, Qi"]
+[Black "Safranek, William"]
+[Result "1-0"]
+[WhiteElo "2304"]
+[BlackElo "2252"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 c5 5.e3 Bxd2+ 6.Nbxd2 cxd4 7.exd4 d5 8.c5 Nc6 9.Bd3 O-O 10.O-O Nd7 11.Qc2 h6 12.Qc3 a6 13.Rfe1 b6 14.b4 Rb8 15.Rab1 b5 16.Bc2 Re8 17.Qd3 Nf8 18.Ne5 Ne7 19.Qf3 f6 20.Ng4 Nc6 21.Qg3 Kf7 22.Qh4 f5 23.Qxd8 Rxd8 24.Ne5+ Nxe5 25.Rxe5 Ng6 26.Ree1 Ne7 27.Nf3 Nc6 28.Ne5+ Nxe5 29.Rxe5 Bd7 30.Re3 Ra8 31.Ra3 Re8 32.Kf1 Ke7 33.Ra5 Kd8 34.a4 Kc7 35.Bd3 Reb8 36.axb5 Bxb5 37.Ke2 Rb7 38.Bxb5 Rxb5 39.Kd3 Kb7 40.Kc3 g5 41.Rba1 Rxa5 42.bxa5 Kc7 43.Rb1 h5 44.Rb6 Kd7 45.Rb7+ Kc6 46.Re7 Kb5 47.Rxe6 Kxa5 48.Re5 Rf8 49.Rxd5 g4 50.g3 Kb5 51.Re5 f4 52.Re6 fxg3 53.Rb6+ Ka5 54.fxg3 Rf3+ 55.Kc4 Rf2 56.Rb1 Rc2+ 57.Kd3 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2: Panesar Vedant - Maghsoodloo, Parham"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/b2JxFWqN"]
+[Date "2026.07.19"]
+[Round "2.2"]
+[White "Panesar Vedant"]
+[Black "Maghsoodloo, Parham"]
+[Result "0-1"]
+[WhiteElo "2439"]
+[BlackElo "2705"]
+[ECO "B67"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Be7 10.f3 Nxd4 11.Qxd4 Bc6 12.h4 Qc7 13.Qd2 h6 14.Bf4 Rd8 15.Bd3 b5 16.g4 e5 17.Bh2 b4 18.Ne2 d5 19.g5 Nxe4 20.Qe1 hxg5 21.fxe4 dxe4 22.Bxa6 Rxd1+ 23.Qxd1 Qd6 24.Qxd6 Bxd6 25.Bg3 Ke7 26.Rh2 g4 27.h5 f5 28.Bh4+ Kd7 29.Ng3 f4 30.Nf5 e3 31.h6 gxh6 32.Bf6 g3 33.Rh4 Rg8 34.Bg7 Rxg7 35.Nxg7 f3 0-1

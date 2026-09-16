@@ -1,0 +1,15 @@
+[Event "Round 1: Roshantab, Sadra - Ucoluk, Umut"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/0Z33wpfx"]
+[Date "2026.07.13"]
+[Round "1.33"]
+[White "Roshantab, Sadra"]
+[Black "Ucoluk, Umut"]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2094"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.Nd5 Bxd5 10.exd5 Nbd7 11.Qd2 Qc7 12.O-O O-O 13.c4 a5 14.Rac1 Ne4 15.Qc2 Nec5 16.Nd2 Qd8 17.b3 Bg5 18.Bxg5 Qxg5 19.a3 f5 20.b4 Na6 21.c5 dxc5 22.Bxa6 Rxa6 23.bxc5 Rg6 24.g3 Rc8 25.c6 bxc6 26.dxc6 Rgxc6 27.Qb3+ Kf8 28.Rxc6 Rxc6 29.Qb7 Rc2 30.Nf3 Qe7 31.Qa8+ Kf7 32.Rd1 Rc5 33.Ng5+ Kg6 34.Qa7 Qxg5 35.Rd6+ Kh5 36.Rxd7 Rc1+ 37.Kg2 Kh6 38.h4 Qg4 39.Qe3+ f4 40.Rd6+ 1-0

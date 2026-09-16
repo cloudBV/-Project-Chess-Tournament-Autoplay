@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.6"]
+[White "Ingebretsen, Jens E"]
+[Black "Notkevich, Benjamin Arvola"]
+[Result "1/2-1/2"]
+[WhiteElo "2433"]
+[BlackElo "2453"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Nb3 b5 7.a4 b4 8.Nd5 e6 9.Nxf6+ Qxf6 10.g4 Nd7 11.Bg2 Qd8 12.Bf4 e5 13.Be3 Be7 14.h4 Nb6 15.Na5 Qc7 16.g5 Be6 17.Qd2 O-O 18.O-O Rab8 19.Rfc1 d5 20.Bxb6 Qxb6 21.exd5 Qxa5 22.dxe6 fxe6 23.Qd7 Bc5 24.Qxe6+ Kh8 25.Rf1 Rf4 26.Rae1 Bd4 27.Re4 Rxe4 28.Bxe4 Rf8 29.Kg2 Qd8 30.f4 Bxb2 31.Bd3 Qa8+ 32.Rf3 Rxf4 33.Be4 Qd8 34.Rxf4 exf4 35.Qd5 Qc8 36.Qa8 Qxa8 37.Bxa8 a5 38.Kf3 Be5 39.Ke4 Bb8 40.h5 Kg8 41.Kf3 Kf7 42.Be4 h6 43.gxh6 gxh6 44.Kg4 Ke6 45.Kf3 Ke5 46.Bg6 Kd4 47.Bf5 Kc3 48.Bg6 Kb2 49.Bf5 Ka3 50.Bd7 Kb2 51.Bf5 Ka3 52.Bd7 Kb2 53.Ke4 1/2-1/2

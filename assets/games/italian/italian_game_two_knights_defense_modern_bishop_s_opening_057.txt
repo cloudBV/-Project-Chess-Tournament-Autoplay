@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/DKJPXsuD"]
+[Date "2026.07.08"]
+[Round "-"]
+[White "Narva, Mai"]
+[Black "Pujari, Rucha"]
+[Result "1-0"]
+[WhiteElo "2342"]
+[BlackElo "2104"]
+[ECO "C55"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Be6 8.Nc3 h6 9.a5 a6 10.h3 Qd7 11.Bd2 Rae8 12.Nd5 Bd8 13.c3 Nh7 14.d4 exd4 15.cxd4 Bxd5 16.Bxd5 Nf6 17.Qb3 Qc8 18.Bxc6 bxc6 19.e5 Nd5 20.Rac1 Ne7 21.Bb4 Qd7 22.Qd3 Nd5 23.Ba3 Bg5 24.Nxg5 hxg5 25.Qxa6 c5 26.dxc5 Nf4 27.cxd6 cxd6 28.Bxd6 Ra8 29.Qc6 Qf5 30.Bxf8 Rxf8 31.Qe4 Qe6 32.b4 Rd8 33.b5 Rd5 34.a6 Rxb5 35.a7 Ra5 36.a8=Q+ Rxa8 37.Qxa8+ Kh7 38.Qc8 Qd5 39.Qf5+ Kh6 40.Qe4 1-0

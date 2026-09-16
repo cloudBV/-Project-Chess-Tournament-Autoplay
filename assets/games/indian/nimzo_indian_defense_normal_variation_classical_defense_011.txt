@@ -1,0 +1,15 @@
+[Event "Round 6: Nochimowski, Eran - Gurevich, Neria"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-6/Ukm9jNHu/sPUuoxvt"]
+[Date "2026.07.19"]
+[Round "6.11"]
+[White "Nochimowski, Eran"]
+[Black "Gurevich, Neria"]
+[Result "1/2-1/2"]
+[WhiteElo "2028"]
+[BlackElo "2237"]
+[ECO "E48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.a3 Bd6 8.Qc2 a6 9.Nge2 Nbd7 10.O-O Re8 11.b4 1/2-1/2

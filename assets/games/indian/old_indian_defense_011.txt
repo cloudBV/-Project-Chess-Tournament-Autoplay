@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.21"]
+[White "Cerveny, Martin"]
+[Black "Freisler, Pavel"]
+[Result "1/2-1/2"]
+[WhiteElo "2402"]
+[BlackElo "2081"]
+[ECO "A53"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Old Indian Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.g3 Be7 6.Bg2 O-O 7.O-O c6 8.e3 Re8 9.Rb1 e4 10.Nd2 d5 11.b4 a6 12.a4 a5 13.b5 Bb4 14.Qb3 c5 15.Nxd5 Nxd5 16.cxd5 cxd4 17.Nxe4 dxe3 18.Bxe3 Ne5 19.h3 Bf5 20.Rbd1 Rc8 21.g4 Bxe4 22.Bxe4 Nxg4 23.Bxh7+ Kxh7 24.hxg4 Qh4 25.Qd3+ Kg8 26.Qf5 Rc4 27.Rd4 Bd6 28.Qh5 Qxh5 29.gxh5 Rxd4 30.Bxd4 Re4 31.Rd1 Rh4 32.Kg2 Kf8 33.Kf3 Rxh5 34.Ke4 f5+ 35.Kd3 g5 36.Bb6 Rh3+ 37.Ke2 Rh4 38.Rd4 Rxd4 39.Bxd4 Ke7 40.Bb6 Bb4 41.Kd3 Kd6 42.Kc4 g4 43.Be3 Be1 44.b6 Ke5 45.Bd4+ Kd6 46.Bc5+ Kd7 47.Kd3 g3 48.fxg3 Bxg3 49.Bd4 Be1 50.Be5 Bb4 51.Ke3 Bc5+ 52.Kf4 Bxb6 1/2-1/2

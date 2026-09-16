@@ -1,0 +1,14 @@
+[Event "Round 7: Ehmann, Thilo - Uphoff, Lennart"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/A8zgMsfg"]
+[Date "2026.07.23"]
+[Round "6.8"]
+[White "Ehmann, Thilo"]
+[Black "Uphoff, Lennart"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2288"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Nf3 Nc6 7.Bb5 g6 8.Qa4 Nb6 9.Qh4 Bg7 10.d4 O-O 11.Bxc6 bxc6 12.O-O f6 13.Qe4 Nd5 14.Bd2 Bf5 15.Qe2 Nxc3 16.bxc3 e5 17.Nh4 Be6 18.dxe5 fxe5 19.Nf3 Qd5 20.h3 Bf5 21.Rfe1 Bd3 22.Qe3 e4 23.Nd4 c5 24.Nb3 Rac8 25.c4 Bxc4 26.Bc3 Bxc3 27.Qxc3 Bd3 28.Rad1 c4 29.Nc1 Qc5 30.Rd2 Qg5 31.Rb2 Qf6 32.Qxf6 Rxf6 33.Rb7 Rf7 34.Rxf7 Kxf7 35.f3 exf3 36.Re3 fxg2 37.Nxd3 cxd3 38.Rxd3 Rc1+ 39.Kxg2 Rc2+ 40.Kg3 Rxa2 41.Rd7+ Kg8 42.Rd8+ Kg7 43.Rd7+ Kh6 44.h4 Ra3+ 45.Kg4 Ra4+ 46.Kg3 Ra5 47.Kg4 a6 48.Rc7 Rb5 49.Ra7 a5 50.Kh3 g5 51.hxg5+ Rxg5 52.Kh4 Rb5 53.Ra6+ Kg7 54.Ra7+ Kg6 55.Ra6+ Kf5 56.Ra7 Ke4 57.Rxh7 Kd3 58.Kg3 Kc2 59.Ra7 Kb3 60.Kf3 a4 61.Ke2 a3 62.Kd2 Kb2 0-1

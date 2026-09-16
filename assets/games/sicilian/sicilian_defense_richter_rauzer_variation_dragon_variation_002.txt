@@ -1,0 +1,15 @@
+[Event "Round 8: Madaminov, Mukhiddin - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-8/Dwhj9iqY/NSzT7oIv"]
+[Date "2026.07.05"]
+[Round "8.3"]
+[White "Madaminov, Mukhiddin"]
+[Black "Woodward, Andy"]
+[Result "0-1"]
+[WhiteElo "2540"]
+[BlackElo "2496"]
+[ECO "B60"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Dragon Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6 7.Bxf6 exf6 8.Bb5 Bd7 9.O-O Bg7 10.Nde2 Be6 11.Nf4 O-O 12.Qd2 f5 13.Rad1 Nd4 14.Ba4 Rc8 15.Nb5 Nxb5 16.Bxb5 fxe4 17.Nxe6 fxe6 18.Qxd6 Qxd6 19.Rxd6 Rxc2 20.Rxe6 Bd4 21.Rxe4 Bxf2+ 22.Kh1 Rxb2 23.Bc4+ Kg7 24.Re7+ Kh6 25.g3 Rc8 26.Bb3 b5 27.Re5 a6 28.Rd1 Rf8 29.Red5 Be3 30.R5d3 Bg5 31.h4 Bf6 32.R3d2 a5 33.Rxb2 Bxb2 34.Kg2 a4 35.Bd5 b4 36.Rb1 Bc3 37.Bc6 b3 38.a3 b2 39.Bxa4 Ra8 40.Bc2 Rxa3 41.g4 Be5 42.Re1 Bd6 43.Re6 Bf4 44.Rb6 Rg3+ 45.Kf2 Rxg4 46.h5 Rh4 47.Kf3 Kxh5 48.Rxb2 Bg5 49.Rb7 Kh6 50.Bb3 Rf4+ 51.Kg3 Rf8 52.Bf7 Bf6 53.Bd5 Be5+ 54.Kg2 Rd8 55.Bc4 Bf4 56.Rf7 Bd6 57.Rb7 Bc5 58.Rc7 Bd4 59.Rb7 Rh8 60.Rd7 Be5 61.Re7 Bf6 62.Rb7 Kg5 63.Rb5+ Kf4 64.Rb6 Bd4 65.Rd6 Be5 66.Ra6 Rd8 67.Ra4 Rd2+ 68.Kf1 h5 69.Bd3+ Kg5 70.Be2 Rd6 71.Ra5 Kf6 72.Kg2 Rd4 73.Rb5 Bd6 74.Ra5 Be5 75.Rc5 Rd2 76.Kf3 Rb2 77.Rb5 Rc2 78.Bd3 Rc6 79.Bxg6 Rc3+ 80.Ke2 h4 81.Rb6+ Kg5 82.Be4 Kf4 83.Rb4 Re3+ 0-1

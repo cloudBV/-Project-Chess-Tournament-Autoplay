@@ -1,0 +1,14 @@
+[Event "Round 4: Dotzer, Lukas - Salem, A.R. Saleh"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/oE5ElwgM"]
+[Date "2026.07.21"]
+[Round "4.9"]
+[White "Dotzer, Lukas"]
+[Black "Salem, A.R. Saleh"]
+[Result "1/2-1/2"]
+[WhiteElo "2495"]
+[BlackElo "2640"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 d6 6.e4 O-O 7.Ne2 exd5 8.cxd5 Nbd7 9.Ng3 Rb8 10.Be2 b5 11.Be3 Re8 12.O-O a6 13.Kh1 Nf8 14.a4 h5 15.Bf2 Ng6 16.axb5 h4 17.Nf5 Bxc3 18.bxc3 Bxf5 19.exf5 Nf4 20.Bc4 axb5 21.Bxb5 Re5 22.Bxh4 Nxg2 23.Kxg2 Rxb5 24.Qd3 Rb2+ 25.Rf2 Rxf2+ 26.Kxf2 c4 27.Bxf6 Qxf6 28.Qxc4 Rxf5 29.Qd3 g6 30.Ra4 Rh5 31.Qd4 Re5 32.Qh4 Qxh4+ 33.Rxh4 Rxd5 34.c4 Rc5 35.Rd4 Rc6 36.h4 Kf8 37.Kg3 Ke7 38.Re4+ Kf6 39.Rf4+ Ke6 40.Re4+ 1/2-1/2

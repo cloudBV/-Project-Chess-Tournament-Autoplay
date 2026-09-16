@@ -1,0 +1,14 @@
+[Event "Round 10: Kukushkin, Ivan - Ganguly, Surya Shekhar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/J6xPmbbC"]
+[Date "2026.07.23"]
+[Round "10.8"]
+[White "Kukushkin, Ivan"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1/2-1/2"]
+[WhiteElo "2257"]
+[BlackElo "2578"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Be3 Nc6 6.Nf3 Nh6 7.c3 Bd7 8.Bd3 g6 9.O-O Qc7 10.Na3 a6 11.Re1 Nf5 12.Bd4 Nfxd4 13.cxd4 b6 14.cxb6 Qxb6 15.Nc2 Qxb2 16.Rb1 Qc3 1/2-1/2

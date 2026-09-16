@@ -1,0 +1,15 @@
+[Event "Round 8: Shabalov, Alexander - Alpaslan, Utku"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/fvxlUrhN"]
+[Date "2026.07.04"]
+[Round "8.34"]
+[White "Shabalov, Alexander"]
+[Black "Alpaslan, Utku"]
+[Result "1-0"]
+[WhiteElo "2428"]
+[BlackElo "2155"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Nc2 Bxc3+ 8.bxc3 Qa5 9.Qd4 Nc6 10.Qe3 O-O 11.Ba3 Rd8 12.Bd6 Ne8 13.Bc5 Qa4 14.Bd3 d6 15.Bb6 Rd7 16.f4 Nf6 17.O-O d5 18.cxd5 exd5 19.e5 Re7 20.Nd4 Nxd4 21.Bxd4 Ne4 22.f5 Qe8 23.f6 Re6 24.c4 Nxf6 25.cxd5 Nxd5 26.Qe4 Ne7 27.Qxh7+ Kf8 28.Qh8+ Ng8 29.Bc5+ Re7 30.Bh7 1-0

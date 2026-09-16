@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "3.14"]
+[White "Saar, Patrik"]
+[Black "Bokorovics, Bertalan"]
+[Result "1/2-1/2"]
+[WhiteElo "2069"]
+[BlackElo "2245"]
+[ECO "B51"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.c4 Nf6 8.Bg5 e6 9.O-O Bc6 10.Nc3 Be7 11.Rfe1 O-O 12.Rad1 b5 13.e5 Bxf3 14.exf6 gxf6 15.Bh6 Bxd1 16.Rxd1 Kh8 17.Bxf8 Qxf8 18.cxb5 axb5 19.a3 Rb8 20.Rd3 d5 21.b4 Bd6 22.f4 Qh6 23.Ne2 Rg8 24.Rh3 Qg6 25.Rg3 Qf5 26.Qd3 Qxd3 27.Rxd3 Rb8 28.g3 f5 29.Nd4 Bf8 30.Kf2 Kg7 31.Rc3 Kf6 32.Ke3 Rb7 33.Rc8 Ke7 34.Rc5 Kd7 35.Rxb5 Ra7 36.Nc2 Bd6 37.Kd3 Kc6 38.Nd4+ Kc7 39.Nc2 Kc6 40.Nd4+ Kc7 1/2-1/2

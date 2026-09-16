@@ -1,0 +1,15 @@
+[Event "Round 2: Neshan, Arshiya - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/ZF6Kqsrp"]
+[Date "2026.07.14"]
+[Round "2.13"]
+[White "Neshan, Arshiya"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "1-0"]
+[WhiteElo "2109"]
+[BlackElo "2300"]
+[ECO "B42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qg4 Nf6 8.Qg3 d6 9.Nc3 Nc6 10.Bd2 b5 11.a3 Bb7 12.O-O-O Kf8 13.Be2 Rc8 14.Kb1 Qc7 15.Be3 Bxe3 16.Qxe3 Rd8 17.f4 Ne7 18.Bf3 Nd7 19.e5 d5 20.g4 h5 21.Nd4 hxg4 22.Bxg4 Qb6 23.Qg3 g6 24.h4 Rc8 25.h5 gxh5 26.Rxh5 Rg8 27.Qh3 Ke8 28.Rh7 Nf8 29.Rh8 Rxh8 30.Qxh8 Ng6 31.Qh6 Rc4 32.Nce2 Qc7 33.Bh5 Qe7 34.Bxg6 Nxg6 35.f5 exf5 36.e6 Qf6 37.exf7+ Kxf7 38.Rg1 Nf8 39.Qh5+ Ke7 40.Rg7+ Kd6 41.Rxb7 Nd7 42.Qe8 Rc7 43.Rxc7 Kxc7 44.Qe3 Nb6 45.Qf4+ Kb7 46.Qxf5 Qd6 47.Qf7+ Ka8 48.Qe6 Qd8 49.Qc6+ Kb8 50.b3 Qc7 51.Qxc7+ Kxc7 52.Kc1 Kd6 53.Kd2 Kc5 54.Ke3 a5 55.Nf4 a4 56.Nd3+ Kd6 57.Nxb5+ Kc6 58.Nc3 axb3 59.cxb3 Nc8 60.Nb4+ Kc5 61.Nbxd5 Na7 62.Nb4 Nc8 63.Nd3+ Kb6 64.Kd4 Na7 65.Ne5 Ka6 66.Kc5 Nc8 67.Nd5 Ka5 68.Nc7 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "4.3"]
+[White "Chuiko, Maksym"]
+[Black "Pycinski, Wladyslaw"]
+[Result "0-1"]
+[WhiteElo "2060"]
+[BlackElo "2298"]
+[ECO "C47"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O Re8 9.Qf3 d6 10.Bg5 Bxc3 11.bxc3 h6 12.Bxf6 Qxf6 13.Qxf6 gxf6 14.Rab1 Re5 15.Rb2 Rc5 16.Rfb1 Be6 17.Rb8+ Rxb8 18.Rxb8+ Kg7 19.Rb7 a5 20.Rxc7 Bxa2 21.Ra7 Rxc3 22.Rxa5 Bc4 23.Kf1 Rxc2 24.Ra3 Rc1+ 25.Ke2 Be6 26.f4 Bg4+ 27.Kf2 c5 28.h3 Be6 29.Ra6 c4 30.Be2 c3 31.Ke3 c2 32.Kd2 Rg1 33.Rc6 Bb3 34.Rc3 Rd1+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 10: Le, Quang Liem - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-10/3KUMTm2L/ZFThkUQR"]
+[Date "2026.07.19"]
+[Round "10.3"]
+[White "Le, Quang Liem"]
+[Black "Suleymanli, Aydin"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2559"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qc2 c6 9.Rd1 a5 10.Bf4 a4 11.h4 h6 12.e3 b5 13.c5 Ne4 14.Nbd2 f5 15.Ne5 Nxe5 16.Bxe5 Bd7 17.Nxe4 fxe4 18.Rf1 Bf6 19.Bf4 Qe8 20.Qc3 Qg6 21.f3 exf3 22.Rxf3 e5 23.dxe5 Be7 24.Rf2 Bf5 25.Qd4 b4 26.Qxb4 Rfb8 27.Qd4 Ra5 28.Rc1 Rbb5 29.Kh2 Bxc5 30.Qc3 Bd7 31.Bf1 Bb4 32.Qc2 Qxc2 33.Rfxc2 Rc5 34.Bd3 a3 35.b3 Rxc2+ 36.Rxc2 Rc5 37.e4 Rxc2+ 38.Bxc2 Kf7 39.Kg2 Bg4 40.exd5 cxd5 41.Be3 Bc3 42.Bc5 Bb2 43.Kf2 Ke6 44.Bf8 Bd4+ 45.Kf1 Bxe5 46.Bxa3 Bxg3 47.Bb2 g5 48.hxg5 hxg5 49.a4 Bh3+ 50.Ke2 Bg4+ 51.Kf1 Bh3+ 52.Kg1 Be1 53.Bd4 g4 54.Kh2 Bf1 55.Kg1 Be2 56.Bc5 Kd7 57.b4 Bf3 58.b5 g3 59.Bb6 Kc8 60.Bd3 Kb7 61.a5 Bc3 62.Kf1 Bb4 63.Kg1 Bc3 64.Kf1 Bb4 65.Bf5 Bc3 66.Bh3 Be4 67.Bg2 Bd3+ 68.Kg1 Bxb5 69.Bxd5+ Ka6 70.Kg2 Bxa5 71.Bxa5 Kxa5 72.Kxg3 1/2-1/2

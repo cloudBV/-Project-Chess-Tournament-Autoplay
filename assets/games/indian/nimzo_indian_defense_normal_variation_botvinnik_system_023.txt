@@ -1,0 +1,15 @@
+[Event "Round 7: Lopez Diaz, Pablo - Yao, Lan"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-7/lQvcK4SB/xqX8xmNh"]
+[Date "2026.07.17"]
+[Round "7.5"]
+[White "Lopez Diaz, Pablo"]
+[Black "Yao, Lan"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2308"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Nf3 Qc7 10.Be2 Nc6 11.O-O Rd8 12.Bb2 e5 13.Qc2 Bg4 14.h3 Bh5 15.dxe5 Nxe5 16.Nxe5 Bxe2 17.Qxe2 Qxe5 18.c4 Qe6 19.Rfd1 Ne4 20.Rac1 h6 21.Qc2 Rac8 22.Ba1 b6 23.Bb2 Rxd1+ 24.Rxd1 Nd6 25.Qc3 f6 26.Rc1 Nf7 27.Qc2 Rd8 28.a4 Ng5 29.a5 Ne4 30.axb6 axb6 31.f3 Rd2 32.Qxe4 Qxe4 33.fxe4 Rxb2 34.Rc3 Kf7 35.Kh2 h5 36.h4 Ke6 37.Kg3 Ke5 38.Kf3 g5 39.hxg5 fxg5 40.g4 hxg4+ 41.Kxg4 Kxe4 42.Kxg5 Rg2+ 43.Kf6 Re2 44.Ke6 Rxe3 45.Rc1 Kd4+ 46.Kd6 Rb3 47.Kc6 Rb4 48.Kc7 Kd3 49.Kc6 Rxc4 50.Rd1+ Kc2 0-1

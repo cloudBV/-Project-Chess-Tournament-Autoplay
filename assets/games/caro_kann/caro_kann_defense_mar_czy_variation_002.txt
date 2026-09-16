@@ -1,0 +1,15 @@
+[Event "Round 5: Ilamparthi A R - Yildiz, Egehan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/f0yLkElW"]
+[Date "2026.07.02"]
+[Round "5.6"]
+[White "Ilamparthi A R"]
+[Black "Yildiz, Egehan"]
+[Result "1/2-1/2"]
+[WhiteElo "2524"]
+[BlackElo "2360"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 Qb6 4.Nc3 dxe4 5.Bc4 Nf6 6.a4 a5 7.fxe4 e5 8.Nf3 exd4 9.Qxd4 Qxd4 10.Nxd4 Bc5 11.Nf3 O-O 12.e5 Re8 13.Bf4 Bg4 14.Ng5 Bh5 15.Nce4 Nbd7 16.e6 fxe6 17.Nxc5 Nxc5 18.O-O h6 19.Nf3 Nd5 20.Ne5 Nxf4 21.Rxf4 Kh7 22.c3 Rad8 23.Re1 Nd7 24.g4 Nxe5 25.Rxe5 Bg6 26.Rxa5 Rd2 27.Rf2 Rd1+ 28.Rf1 Rd2 29.Rf2 Rd1+ 30.Kg2 Be4+ 31.Kh3 Bd5 32.Be2 Rd2 33.Kg3 Kh8 34.c4 Be4 35.Re5 Bd3 36.b4 Ra8 37.a5 Bxe2 38.Rfxe2 Rxe2 39.Rxe2 c5 40.Rxe6 cxb4 41.Rb6 Rxa5 42.Rxb7 Ra4 43.c5 Ra5 1/2-1/2

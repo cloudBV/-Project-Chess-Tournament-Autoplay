@@ -1,0 +1,14 @@
+[Event "Round 2: Hernandez Jimenez, Xavi - Rodriguez Valencia, Sebastian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-2/T2G4VuYH/QclhKXFy"]
+[Date "2026.07.11"]
+[Round "2.4"]
+[White "Hernandez Jimenez, Xavi"]
+[Black "Rodriguez Valencia, Sebastian"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2035"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.a4 Qc7 5.Bc4 Nc6 6.d4 cxd4 7.Nxd4 Nf6 8.Nxc6 Qxc6 9.Bd3 Bb4 10.O-O O-O 11.e5 Bxc3 12.bxc3 Qxc3 13.Ba3 Qxe5 14.Re1 Qg5 15.Bxf8 Kxf8 16.Qb1 Qc5 17.Qb2 b6 18.Rab1 Rb8 19.h3 Nd5 20.c4 Nf6 21.Bf1 d5 22.cxd5 Nxd5 23.Rbc1 Qd6 24.Bc4 Nf6 25.Red1 Qe7 26.Qe5 Ra8 27.Be2 Nd7 28.Qc7 Nc5 29.Rd8+ 1-0

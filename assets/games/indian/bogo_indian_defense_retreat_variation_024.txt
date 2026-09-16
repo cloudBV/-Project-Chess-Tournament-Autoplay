@@ -1,0 +1,14 @@
+[Event "Round 9: Manko, Mariia - Gopal G.N."]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-9/PFJULri3/qdKeWcYg"]
+[Date "2026.07.12"]
+[Round "9.5"]
+[White "Manko, Mariia"]
+[Black "Gopal G.N."]
+[Result "0-1"]
+[WhiteElo "2210"]
+[BlackElo "2471"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Qc2 Nbd7 9.Bf4 b6 10.Nbd2 Nh5 11.e3 Bb7 12.cxd5 exd5 13.h4 Nxf4 14.exf4 c5 15.Nb1 cxd4 16.Nxd4 Bc5 17.Qd2 Nf6 18.Nc3 Ne4 19.Qd3 Qf6 20.Rad1 Rfd8 21.Nc2 a5 22.Ne3 Nxc3 23.bxc3 d4 24.Ng4 Qe7 25.Rfe1 Qc7 26.Bxb7 Qxb7 27.h5 h6 28.c4 Rac8 29.Re5 Qc7 30.Rde1 Bf8 31.Rd5 Rxd5 32.cxd5 Qd7 33.Ne5 Qxd5 34.Rd1 Bc5 35.Qf5 Rd8 36.Qg4 Qxa2 37.f5 f6 38.Nc6 d3 39.Nxd8 Qxf2+ 40.Kh1 d2 41.Qc4+ Kh7 42.Rf1 Qxg3 43.Qe2 Qh3+ 0-1

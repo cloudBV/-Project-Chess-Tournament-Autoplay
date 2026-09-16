@@ -1,0 +1,14 @@
+[Event "Round 8: Korneev, Oleg - Davies, Nigel R"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-8/zT63tO4J/6GlvcyGd"]
+[Date "2026.07.02"]
+[Round "8.1"]
+[White "Korneev, Oleg"]
+[Black "Davies, Nigel R"]
+[Result "1-0"]
+[WhiteElo "2433"]
+[BlackElo "2276"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Be6 10.Bb3 Nc6 11.Bg5 Nd7 12.Bxe7 Qxe7 13.Nd5 Qd8 14.Qe2 Na5 15.Rfd1 Nxb3 16.axb3 Bxd5 17.Rxd5 Nf6 18.Rd2 Qc7 19.Rad1 Rfd8 20.h3 Rd7 21.Nh2 g6 22.Ng4 Nxg4 23.hxg4 a5 24.Rd5 a4 25.b4 Rc8 26.Qb5 Qc6 27.Qxc6 Rxc6 28.c3 a3 29.bxa3 Rxc3 30.Rxd6 Rxd6 31.Rxd6 Rxa3 32.Rd7 Rb3 33.Rxb7 Kg7 34.f3 Kf6 35.b5 h6 36.Kh2 Kg5 37.Rxf7 Rxb5 38.Kh3 Rb1 39.Rf8 Ra1 40.Kg3 Ra2 41.Kh3 Rb2 42.Ra8 Kf6 43.Ra6+ Kf7 44.Kg3 Rc2 45.Ra1 Rb2 46.Rh1 Kg7 47.Rf1 Kf6 48.Rf2 Rb1 49.Ra2 Rf1 50.Rb2 Kf7 51.g5 hxg5 52.Kg4 Rh1 53.Kxg5 Rh5+ 54.Kg4 Rh1 55.Ra2 Kf6 56.g3 Rg1 57.Ra6+ Kf7 58.Rb6 Rg2 59.Kh4 Rf2 60.Rb3 Kf6 61.Kg4 Rg2 62.Rb6+ Kf7 63.Rd6 Rg1 64.f4 Re1 65.Kg5 Rxe4 66.Rf6+ Ke7 67.Kxg6 Re3 68.g4 Re4 69.Rf7+ Ke8 70.g5 exf4 71.Kg7 Re7 72.g6 f3 73.Kg8 Re3 74.g7 1-0

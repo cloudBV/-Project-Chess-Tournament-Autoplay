@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-7/78HixM7H/JB9hsVSS"]
+[Date "2026.07.24"]
+[Round "7.20"]
+[White "Eriksson, Christian Altenburg"]
+[Black "Lauritsen, Martin Lee"]
+[Result "1/2-1/2"]
+[WhiteElo "2177"]
+[BlackElo "2101"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.Bc4 Nb6 6.Bb3 c4 7.Bc2 dxe5 8.Nxe5 Qd5 9.Qe2 Be6 10.d4 cxd3 11.Bxd3 N6d7 12.Nxd7 Qxd7 13.Bf4 Nc6 14.Na3 a6 15.Rd1 Rd8 16.O-O Qc8 17.Nc4 Bxc4 18.Bxc4 Rxd1 19.Rxd1 e6 20.Qg4 g6 21.h4 Bg7 22.Bd6 Ne5 23.Bxe5 Bxe5 24.Re1 Bf6 25.h5 Ke7 26.Bd5 b6 27.Qe4 a5 28.Bb3 Rd8 29.Qe3 Rd6 30.Rd1 Qd7 31.Rxd6 Qxd6 32.hxg6 hxg6 33.g3 Kf8 34.Bc2 Kg7 35.a3 Be7 36.Qd3 Qc7 37.b4 Bf6 38.c4 Be7 39.Qc3+ Kg8 40.Bd3 Bd6 41.Bf1 axb4 42.axb4 Qe7 43.Qd4 Qc7 44.Qc3 Be5 45.Qe3 Bd6 46.Qc3 Bf8 47.Be2 Qa7 48.Kg2 Qa4 49.c5 bxc5 50.bxc5 Qc6+ 51.Bf3 Qxc5 52.Qxc5 Bxc5 53.Bc6 Kg7 54.f4 Kf6 55.Kf3 g5 56.fxg5+ Kxg5 57.g4 Kf6 58.Be4 Ke5 59.Bb1 Ba3 60.Bh7 Bc1 61.Bb1 f6 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.16"]
+[Round "6.7"]
+[White "Duijker, Rick"]
+[Black "Labruyere, Roger"]
+[Result "0-1"]
+[WhiteElo "2195"]
+[BlackElo "2202"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 d6 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O e5 8.c4 Be7 9.Nc3 O-O 10.h3 Be6 11.Qe2 a5 12.Be3 Nd7 13.Rad1 Qb8 14.b3 Qb4 15.Bd2 Qb7 16.Kh1 Nc5 17.Bc2 Rfd8 18.f4 f6 19.Be3 exf4 20.Bxf4 a4 21.Rb1 axb3 22.axb3 Na6 23.Rbd1 Nb4 24.Bb1 Bf7 25.Qf2 Bf8 26.Rd2 Na6 27.Bc2 Nc5 28.Rfd1 Qb4 29.Qg3 Bh5 30.Rb1 Ne6 31.Bd1 Nxf4 32.Qxf4 Qxc3 33.Bxh5 d5 34.exd5 Bd6 35.Qd4 Qg3 36.Qg1 Qg5 37.Qd1 Qe5 38.g3 g6 39.Bf3 Qxg3 40.Qf1 c5 41.Qg2 Qxg2+ 42.Kxg2 Re8 43.Rbb2 Ra3 44.Re2 Re5 45.Rxe5 Bxe5 46.Rd2 Ra6 47.Bg4 Kf7 48.Bd7 Ra3 49.Ba4 Ke7 50.h4 Kd6 51.h5 Ra1 52.hxg6 hxg6 53.Be8 Ra8 54.Bf7 f5 55.Kf3 g5 56.Be6 g4+ 57.Kg2 Rh8 58.Rf2 g3 59.Rxf5 Rh2+ 60.Kf1 g2+ 61.Kg1 Bd4+ 62.Rf2 Bxf2+ 63.Kxf2 g1=B+ 64.Kxg1 Rb2 65.Bg4 Ke5 66.Kf1 Rxb3 67.Kf2 Kf4 68.Bh5 Rb2+ 69.Ke1 Ke3 70.Kd1 Kd3 71.Bg6+ Kxc4 72.d6 Rb6 73.Bf7+ Kb4 74.Kc2 Rxd6 75.Bg8 c4 76.Bf7 Rf6 77.Bg8 Rf2+ 78.Kb1 Kc3 79.Be6 Rf4 80.Kc1 Rf1# 0-1

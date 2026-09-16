@@ -1,0 +1,15 @@
+[Event "Round 4: Volkov, Maksim - Fedosov, Alexander"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-4/xVpQbz0L/CYaWvnsF"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Volkov, Maksim"]
+[Black "Fedosov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2437"]
+[BlackElo "2306"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O O-O 6.Re1 d6 7.c3 a5 8.h3 h6 9.Nbd2 Be6 10.Bb5 Nd7 11.Nf1 f5 12.exf5 Bxf5 13.d4 exd4 14.cxd4 Bb6 15.Ng3 Bg6 16.a3 d5 17.Be3 Qf6 18.Rc1 Rae8 19.Qb3 Qd6 20.Bxc6 bxc6 21.Qc3 a4 22.Qxc6 Qxc6 23.Rxc6 Bd3 24.Rc3 Bb5 25.Rcc1 Kf7 26.Bd2 Rxe1+ 27.Rxe1 Re8 28.Rxe8 Kxe8 29.Nf5 Kf7 30.Bc3 Kf6 31.Ne3 Ke6 32.g4 g6 33.Kg2 Be2 34.Nc2 h5 35.Kg3 hxg4 36.hxg4 c6 37.Nb4 Bc7+ 38.Kg2 Nb8 39.Bd2 Bd6 40.Na2 Bc4 41.Nc3 Bb3 42.Be3 Nd7 43.Nd2 Bc2 44.Kf3 Bc7 45.Ke2 Ba5 46.Na2 Nb6 47.Nc1 Nc4 48.Nxc4 dxc4 49.Bd2 Bb6 50.Bc3 Kd5 51.Kd2 Bb1 52.Ke3 Bc7 53.Bb4 c3 54.Bxc3 Kc4 55.Ne2 Bd6 56.f3 Bd3 57.Nc1 Bb1 58.Ba5 c5 59.Bb6 cxd4+ 60.Bxd4 g5 61.Ne2 Bd3 62.Bc3 Bxe2 63.Kxe2 Kb3 64.Kd3 Bc7 65.Ke4 Bf4 66.Kd4 Bd6 67.Kd5 Bf4 68.Ke4 Kc2 69.Kd5 Kd3 70.Kc5 Ke3 71.Kb5 Kxf3 72.Kxa4 Kxg4 73.Bd4 Kf3 74.b4 g4 75.b5 Ke4 76.Bg1 Kd5 77.Ka5 Kc4 78.a4 Bd2+ 79.Ka6 Kb4 80.b6 Bf4 81.a5 g3 82.b7 Bc7 83.Bb6 Bb8 84.Ba7 g2 85.Bxb8 g1=Q 86.Bd6+ Ka4 87.b8=Q Qf1+ 88.Ka7 Qa6+ 89.Kxa6 1/2-1/2

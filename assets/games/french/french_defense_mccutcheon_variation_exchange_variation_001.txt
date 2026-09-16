@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/dpEtf7CO"]
+[Date "2026.07.11"]
+[Round "2.8"]
+[White "Mustaps, Matiss"]
+[Black "Melderis, Uldis"]
+[Result "1-0"]
+[WhiteElo "2323"]
+[BlackElo "2040"]
+[ECO "C12"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "French Defense: McCutcheon Variation, Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5 Qxd5 6.Bxf6 gxf6 7.Qf3 Qxf3 8.Nxf3 Bxc3+ 9.bxc3 b6 10.g3 Bb7 11.Bg2 Nd7 12.O-O Bd5 13.Nd2 Bxg2 14.Kxg2 c5 15.Rfe1 cxd4 16.cxd4 Ke7 17.a4 Rac8 18.c4 Rhd8 19.a5 Ne5 20.axb6 axb6 21.dxe5 Rxd2 22.Ra7+ Ke8 23.exf6 Rxc4 24.Re7+ Kd8 25.Ra1 Rcc2 26.Ra8+ Rc8 27.Raa7 Rcc2 28.Rxf7 Rxf2+ 29.Kh3 Rxh2+ 30.Kg4 h5+ 31.Kg5 1-0

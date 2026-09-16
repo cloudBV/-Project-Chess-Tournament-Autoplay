@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-1/MSVcfeDQ/4UBqNh3q"]
+[Date "2026.07.20"]
+[Round "1.13"]
+[White "Berling, Egil"]
+[Black "Matthiesen, Martin"]
+[Result "0-1"]
+[WhiteElo "2121"]
+[BlackElo "2330"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 c6 5.O-O Nf6 6.c4 dxc4 7.a4 O-O 8.Na3 Be6 9.Ng5 Bd5 10.e4 h6 11.exd5 hxg5 12.dxc6 Nxc6 13.d5 Nb4 14.Nxc4 Nfxd5 15.Bxg5 Qd7 16.Qb3 e6 17.Rad1 Nc6 18.Ne3 Nd4 19.Nxd5 exd5 20.Qb4 a5 21.Qa3 Ra6 22.Rd2 Rb6 23.Rfd1 Rb4 24.Be3 Rxa4 25.Qc5 Ne6 26.Qxd5 Qxd5 27.Bxd5 Rb8 28.Ba7 Rd8 29.Bxb7 Rxd2 30.Rxd2 Rb4 31.Bc6 Bxb2 32.Kf1 Bd4 33.Bxd4 Nxd4 34.Bd7 Kf8 35.Ra2 Ke7 36.Bg4 a4 37.Bd1 Rb1 38.Ke1 Nb5 39.Re2+ Kf8 40.Re3 a3 0-1

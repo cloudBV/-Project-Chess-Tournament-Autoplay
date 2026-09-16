@@ -1,0 +1,14 @@
+[Event "Round 9: Pakleza, Zbigniew - Brodowski, Piotr"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-9/b3iktfM7/slhgioVs"]
+[Date "2026.06.24"]
+[Round "9.1"]
+[White "Pakleza, Zbigniew"]
+[Black "Brodowski, Piotr"]
+[Result "1-0"]
+[WhiteElo "2499"]
+[BlackElo "2452"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Petrosian Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 d5 6.cxd5 exd5 7.Bg5 Be7 8.Bxf6 Bxf6 9.e4 Bxf1 10.Kxf1 O-O 11.e5 Be7 12.Nc3 Qd7 13.h4 c6 14.Ng5 g6 15.Qe2 Qf5 16.g4 Qf4 17.Rd1 Bxg5 18.hxg5 Qxg5 19.Rd3 Kg7 20.Rdh3 Rh8 21.e6 Qf6 22.Re3 Re8 23.Rf3 Rxe6 24.Rxh7+ Kxh7 25.Rxf6 Rxe2 26.Kxe2 Kg7 27.Rd6 Na6 28.Rxc6 Rd8 29.b4 Rd7 30.Nb5 Nb8 31.Rc8 Na6 32.Ra8 Re7+ 33.Kd3 Kf6 34.Nxa7 Nc7 35.Rb8 Re4 36.Rxb6+ Ne6 37.Nc6 Rxg4 38.a4 Rf4 39.a5 Rxf2 40.a6 Ra2 41.Na5 1-0

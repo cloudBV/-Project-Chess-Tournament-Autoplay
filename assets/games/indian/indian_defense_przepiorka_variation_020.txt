@@ -1,0 +1,15 @@
+[Event "Round 4: Hajialiyev, Islam - Nuriyev, Nasir"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-4/D8Mz6sXW/I49Ff8QH"]
+[Date "2026.07.18"]
+[Round "4.4"]
+[White "Hajialiyev, Islam"]
+[Black "Nuriyev, Nasir"]
+[Result "1-0"]
+[WhiteElo "2274"]
+[BlackElo "2081"]
+[ECO "A49"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c5 6.c4 cxd4 7.Nxd4 Nc6 8.Nc3 a6 9.h3 Qb6 10.Be3 Qa5 11.Rc1 Rb8 12.a3 Nxd4 13.Qxd4 d6 14.Qb6 Qxb6 15.Bxb6 Be6 16.b3 Nd7 17.Ba7 Ra8 18.Be3 Rab8 19.Nd5 Bxd5 20.Bxd5 Bb2 21.Rb1 Bxa3 22.b4 a5 23.bxa5 Nc5 24.Rb5 Na6 25.Bxb7 Nc7 26.Rb3 Bc5 27.Bxc5 dxc5 28.Rfb1 1-0

@@ -1,0 +1,15 @@
+[Event "Round 9: Caruana, Fabiano - Durarbayli, Vasif"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/diMb0sol"]
+[Date "2026.07.04"]
+[Round "9.2"]
+[White "Caruana, Fabiano"]
+[Black "Durarbayli, Vasif"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2590"]
+[ECO "E29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Bd3 Nc6 8.Rb1 d5 9.cxd5 exd5 10.Ne2 Qd6 11.f3 Re8 12.O-O b6 13.g4 h5 14.h3 hxg4 15.hxg4 c4 16.Bc2 Bxg4 17.fxg4 Nxg4 18.Nf4 Nxe3 19.Bxe3 Rxe3 20.Qh5 g6 21.Qxd5 Rd8 22.Qxc4 Na5 23.Qb4 Qc6 24.d5 Rg3+ 25.Kh2 Qxc3 26.Qxc3 Rxc3 27.Be4 Rxa3 28.Bg2 Nc4 29.Ra1 Rxa1 30.Rxa1 a5 31.Rb1 Rd6 32.Ne2 Ne3 33.Nc3 Kg7 34.Bf3 f5 35.Kg3 g5 36.Kf2 Nc4 37.Nb5 Rd8 38.Rc1 Ne5 39.Rc7+ Kf6 40.d6 g4 41.Bd5 f4 42.Rb7 g3+ 43.Ke2 Rh8 44.d7 Rd8 45.Rxb6+ Kg5 46.Re6 Nxd7 47.Bf3 Nf6 48.Re5+ Kg6 49.Nc7 a4 50.Ne6 Re8 51.Bc6 Rb8 52.Nxf4+ Kf7 53.Ra5 Rb2+ 54.Kf3 Rb3+ 55.Kg2 Ke7 56.Rxa4 Kd6 57.Bf3 Nd7 58.Rd4+ Ke7 59.Ng6+ Kf6 60.Rd6+ Kg5 61.Ne7 Nf6 62.Re6 Rb2+ 63.Kh3 Rb3 64.Kxg3 Nh5+ 65.Kf2 Rb2+ 66.Ke3 Rb3+ 67.Kf2 Rb2+ 68.Ke1 Nf4 69.Re5+ Kf6 70.Rf5+ Kxe7 71.Rxf4 Kd6 72.Rf5 Ke6 73.Ra5 Rh2 74.Be2 Kd6 75.Kd2 Rh3 76.Bd3 Rh1 77.Ke3 Re1+ 78.Kd4 Rd1 79.Ra6+ Kd7 80.Kc4 Ke7 81.Be4 Rd6 82.Ra1 Kf6 83.Bd5 Rb6 84.Rf1+ Kg5 85.Kd4 Rb4+ 86.Ke5 Rb5 87.Rg1+ Kh5 88.Rg8 Ra5 89.Ke4 Kh6 90.Rg1 Rb5 91.Be6 Rg5 92.Rf1 Kg6 93.Bf5+ Kf6 94.Rf2 Rg1 95.Bg4+ Ke7 96.Kf5 Re1 97.Be2 Kd6 98.Ke4 Kc5 99.Rf5+ Kd6 100.Kd3 Ke6 101.Bg4 Re5 102.Rf1+ Kd6 103.Rf6+ Kc5 104.Bf3 Rg5 105.Rc6+ Kb5 106.Rc3 Rg3 107.Kd4 Kb4 108.Rc4+ Ka3 109.Be4 Kb2 110.Rc2+ Kb3 111.Rc1 Rg4 112.Rb1+ Ka4 113.Kd5 Ka3 114.Rb8 Rh4 115.Ke5 Rg4 116.Rb7 Rh4 117.Rg7 Kb4 118.Kd5 Rh5+ 119.Kd4 Rh4 120.Rf7 Rg4 121.Re7 Rh4 122.Rb7+ Ka4 123.Kd3 Ka5 124.Bd5 Rb4 125.Rh7 Kb5 126.Rh5 Rf4 127.Be4+ Kb4 128.Ke3 Rg4 129.Bd3 Rg3+ 130.Kd4 Rg4+ 131.Be4 Rf4 132.Rh1 Rg4 133.Rc1 Rh4 134.Rc8 Rg4 135.Rf8 Rh4 136.Kd5 Rh5+ 137.Bf5 Rh4 138.Rb8+ Kc3 139.Rc8+ Kd2 140.Rc2+ Ke3 141.Ke5 Rh8 142.Rc3+ Kd2 143.Ra3 Re8+ 144.Kf4 Rf8 145.Rd3+ Ke2 146.Rd5 Kf2 147.Rd2+ Kf1 148.Ke4 1/2-1/2

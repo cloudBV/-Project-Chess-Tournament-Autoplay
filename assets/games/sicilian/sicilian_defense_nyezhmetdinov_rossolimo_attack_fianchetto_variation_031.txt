@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "4.6"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Krasniewski, Maciej"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2095"]
+[ECO "B31"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Qc7 7.e5 f6 8.exf6 Nxf6 9.d4 cxd4 10.Qxd4 d6 11.Qc4 d5 12.Qh4 O-O 13.Bf4 Qb6 14.Nbd2 Ng4 15.Bg5 e5 16.h3 Qxf2+ 17.Qxf2 Nxf2 18.Kxf2 e4 19.Be7 Rf7 20.Bc5 Bxb2 21.Rab1 Bc3 22.Kg1 exf3 23.Re8+ Kg7 24.Nxf3 Bb7 25.Rxa8 Bxa8 26.Rb8 Bb7 27.Bxa7 Ba6 28.Bd4+ Bxd4+ 29.Nxd4 Rf1+ 30.Kh2 Ra1 31.Nxc6 Bc4 32.Rb7+ Kf6 33.Rxh7 Rxa2 34.Nd4 Ke5 35.Rh4 Ra1 36.Kg3 Rc1 37.Rg4 Rd1 38.Nf3+ Kf6 39.Rf4+ Ke6 40.Kf2 Rc1 41.Ke3 Ke7 42.Kd2 Ra1 43.Ne5 g5 44.Rg4 Kf6 45.Nxc4 dxc4 46.Rxc4 Rg1 47.Rg4 1-0

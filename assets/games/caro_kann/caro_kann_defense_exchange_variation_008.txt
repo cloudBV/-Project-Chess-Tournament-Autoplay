@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "7.5"]
+[White "Saric, Ivan"]
+[Black "Praggnanandhaa R"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2690"]
+[ECO "B13"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.c3 Bf5 6.Qb3 Qd7 7.Nh4 Be6 8.Bd3 f6 9.f4 Bf7 10.f5 O-O-O 11.O-O g5 12.Nf3 h5 13.Na3 Nh6 14.Bd2 e6 15.fxe6 Bxe6 16.Qa4 Kb8 17.b4 h4 18.b5 Ne7 19.c4 dxc4 20.Nxc4 h3 21.Be1 Nef5 22.Bf2 Bd5 23.g4 Nd6 24.Bg3 Nxg4 25.Nfd2 b6 26.Bf5 Qb7 27.Bxg4 Bxc4 28.Bxh3 Bxf1 29.Bxf1 f5 30.Bg2 Qh7 31.Nc4 f4 32.Ne5 Rc8 33.Bf2 Ne4 34.Nc6+ Rxc6 35.bxc6 Qxh2+ 36.Kf1 f3 37.c7+ Qxc7 38.Qe8+ Qc8 39.Qxc8+ Kxc8 40.Bxf3 Nd2+ 41.Ke2 Nxf3 42.Kxf3 Kd7 43.a4 Bb4 44.Kg4 Rh2 45.Be3 Ke6 46.Kxg5 Kd5 47.Kf4 Rh3 48.Bf2 Rb3 49.Be3 Bc3 50.Rh1 Bxd4 51.Rh5+ Kc4 52.Bxd4 Kxd4 53.a5 Kc4 54.Rh7 Ra3 55.Rc7+ Kb4 56.Rxa7 Rxa5 57.Rb7 b5 58.Ke3 Kb3 59.Kd2 b4 60.Rb8 Ra2+ 61.Kc1 Ra1+ 62.Kd2 Rb1 63.Rc8 Kb2 64.Rc2+ Ka3 65.Rc8 b3 66.Rh8 Rg1 67.Ra8+ Kb2 68.Rb8 Rg7 69.Rb6 Rd7+ 70.Ke1 Kc2 71.Rc6+ Kb1 72.Rb6 b2 73.Ke2 Ra7 74.Kd2 Ka2 0-1

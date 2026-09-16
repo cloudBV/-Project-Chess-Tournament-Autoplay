@@ -1,0 +1,15 @@
+[Event "Round 7: Ibrahimli, Murad - Manafov, Vugar"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-7/xdqcR2NI/8L1YcNfN"]
+[Date "2026.07.02"]
+[Round "7.4"]
+[White "Ibrahimli, Murad"]
+[Black "Manafov, Vugar"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2448"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7 7.e3 O-O 8.Be2 d6 9.O-O Nbd7 10.b4 Qe7 11.Bb2 a5 12.Qc2 Be4 13.Qc3 c6 14.Rfc1 Rfb8 15.b5 cxb5 16.cxb5 Qd8 17.a4 Rc8 18.Qa3 Qf8 19.Nd2 Rxc1+ 20.Rxc1 Rc8 21.f3 Rxc1+ 22.Bxc1 Bg6 23.e4 Qc8 24.Nf1 Qc2 25.Kf2 e5 26.Ne3 Qc7 27.Bb2 exd4 28.Bxd4 Ne5 29.Qc3 Qxc3 30.Bxc3 Nfd7 31.f4 Nc5 32.Bxe5 dxe5 33.f5 Nxe4+ 34.Ke1 Bxf5 35.Nxf5 Nc5 36.Bd1 g6 37.Ne7+ Kf8 38.Nc8 Nd7 39.Bf3 f5 40.Bc6 Nc5 41.Nxb6 Ke7 42.Kd2 e4 43.Ke3 Ke6 44.Nc4 Nxa4 45.Kd4 1-0

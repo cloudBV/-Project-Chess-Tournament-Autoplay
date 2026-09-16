@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "8.5"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2748"]
+[ECO "C58"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Bd3 Nd5 9.h4 Qc7 10.Nc3 h6 11.Nf3 Bd6 12.Ne4 f5 13.Nxd6+ Qxd6 14.Be2 c5 15.Bb5+ Bd7 16.Bxd7+ Kxd7 17.d3 e4 18.dxe4 fxe4 19.Nh2 Kc7 20.O-O Nc6 21.c4 Ndb4 22.Qxd6+ Kxd6 23.Bf4+ Ke6 24.Rae1 Kf5 25.Bd2 Rhe8 26.f3 exf3 27.Nxf3 Kg4 28.Bc3 Nd3 29.Rd1 Rad8 30.Bxg7 Kh5 31.Bf6 Rd7 32.Ne1 Nde5 33.Rd5 Rxd5 34.cxd5 Nd4 35.Bxe5 Rxe5 36.Nd3 Re8 37.Nxc5 Kxh4 38.d6 Kg3 39.d7 Re5 40.Ne4+ 1-0

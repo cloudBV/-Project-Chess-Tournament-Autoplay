@@ -1,0 +1,15 @@
+[Event "Round 10: Nilsson, Patrik 1978 - Kring, Stephan"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-10/4rqvbItp/TcTNmF3s"]
+[Date "2026.07.01"]
+[Round "10.4"]
+[White "Nilsson, Patrik 1978"]
+[Black "Kring, Stephan"]
+[Result "1-0"]
+[WhiteElo "2155"]
+[BlackElo "2078"]
+[ECO "A45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.Nd2 Bd6 5.Bg3 b6 6.c3 Bxg3 7.hxg3 Bb7 8.Bd3 c5 9.g4 Nbd7 10.Qe2 e5 11.g5 Ne4 12.Nxe4 dxe4 13.Bb5 exd4 14.exd4 Qe7 15.dxc5 bxc5 16.Qg4 Rd8 17.O-O-O Qe6 18.Qxe6+ fxe6 19.g6 h6 20.Nh3 Ke7 21.Nf4 Ne5 22.Rhe1 Rhf8 23.g3 Nf3 24.Rxd8 Rxd8 25.Rd1 Rxd1+ 26.Kxd1 Ne5 27.Ke2 Kf6 28.Ke3 Nxg6 29.Nxg6 Kxg6 30.Ba4 Kf5 31.Bc2 Ke5 32.b4 cxb4 33.cxb4 h5 34.a4 g5 35.Bd1 h4 36.gxh4 gxh4 37.Bg4 Bc6 38.b5 Bd7 39.f3 exf3 40.Bxf3 h3 41.Bh1 Be8 42.Bf3 Bg6 43.a5 Be8 44.b6 axb6 45.a6 1-0

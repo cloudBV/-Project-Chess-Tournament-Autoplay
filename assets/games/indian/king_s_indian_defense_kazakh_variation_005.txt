@@ -1,0 +1,14 @@
+[Event "Round 8: Merkouropoulos, Dionysios - Vassis, Michail"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-8/oct1YwP0/o7Yf9rHh"]
+[Date "2026.06.29"]
+[Round "8.1"]
+[White "Merkouropoulos, Dionysios"]
+[Black "Vassis, Michail"]
+[Result "0-1"]
+[WhiteElo "2096"]
+[BlackElo "2353"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Kazakh Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 7.Bf4 Bg4 8.O-O Nd7 9.Qd2 Bxf3 10.Bxf3 Bxd4 11.Qxd4 e5 12.Qd2 exf4 13.Qxf4 Nac5 14.Qd2 a5 15.g3 Ne5 16.Be2 Nc6 17.Rad1 Re8 18.f3 Ne6 19.Nb5 Na7 20.Nc3 Nc6 21.Nb5 Rc8 22.Qc3 Qg5 23.Rd5 Qh6 24.b3 Nc5 25.Rf2 Re7 26.Qd2 Qg7 27.Qc3 a4 28.Bd1 axb3 29.axb3 Ra8 30.Rdd2 Ra1 31.Kg2 Qxc3 32.Nxc3 Nb4 33.Nd5 Nxd5 34.Rxd5 Na6 35.Rfd2 b6 36.Rb5 Re8 37.Be2 Rb8 38.Rbd5 Nb4 39.Rb5 Nc6 40.b4 Rba8 41.Bd3 R8a2 42.Rf2 Ra3 43.Bf1 Nd4 44.Rd5 Nxf3 45.c5 bxc5 46.bxc5 Ne5 47.cxd6 cxd6 48.h3 Re3 49.Re2 Rc3 50.Rxd6 Raa3 51.Kh1 Rxg3 52.Bg2 Nf3 53.Rd1 Nh4 54.Bf1 Rae3 55.Rxe3 Rxe3 56.Kg1 Rxe4 57.Kf2 g5 58.Rd8+ Kg7 59.Bd3 Rf4+ 60.Kg1 Rf3 61.Bf1 Ng6 62.Rd5 h6 63.Rd3 Rf5 64.Rd6 Rc5 65.Kf2 Rc2+ 66.Kg3 h5 67.Rd4 Ne5 68.h4 Rc3+ 69.Kg2 g4 70.Rd5 Ng6 0-1

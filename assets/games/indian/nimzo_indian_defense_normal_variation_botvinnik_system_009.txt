@@ -1,0 +1,15 @@
+[Event "Round 9: Belenkaya, Dina - Song, Julien"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-9/voo4hyNv/mETkYjh1"]
+[Date "2026.07.05"]
+[Round "9.4"]
+[White "Belenkaya, Dina"]
+[Black "Song, Julien"]
+[Result "1/2-1/2"]
+[WhiteElo "2120"]
+[BlackElo "2227"]
+[ECO "E49"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Bd3 Nc6 10.Ne2 e5 11.Bb2 Re8 12.O-O e4 13.Bb5 Qb6 14.c4 a6 15.dxc5 Qxc5 16.Bd4 Qe7 17.Ba4 Bg4 18.Qc2 Red8 19.Bxf6 Qxf6 20.Ng3 Rac8 21.Qxe4 Be6 22.Rfd1 Na5 23.Qf4 Qxf4 24.exf4 Nxc4 25.f5 Bd5 26.Bb3 b5 27.a4 Bc6 28.axb5 axb5 29.f6 gxf6 30.Nh5 Rxd1+ 31.Rxd1 Ra8 32.Nxf6+ Kg7 33.Ng4 Ra3 34.Bxc4 bxc4 35.Ne5 Bd5 36.f4 Be6 37.f5 Bxf5 38.Nxc4 Ra2 39.Nd6 Be6 40.Ne4 Re2 41.Ng3 Ra2 42.Nh5+ Kh6 43.Nf4 Kg7 44.Nxe6+ fxe6 45.Rd7+ Kg6 46.Re7 Re2 47.Kf1 Re5 48.Kf2 h6 49.Kf3 Kf6 50.Rh7 Kg6 51.Re7 Kf6 52.Rh7 Kg6 53.Re7 Kf6 54.Rh7 Kg6 55.Re7 Kf6 56.Rg7 1/2-1/2

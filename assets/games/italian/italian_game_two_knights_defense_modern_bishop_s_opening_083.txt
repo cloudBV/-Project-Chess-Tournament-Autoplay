@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.16"]
+[Round "1.2"]
+[White "Erigaisi Arjun"]
+[Black "Andreikin, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2710"]
+[ECO "C55"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.a3 O-O 7.Bd2 a5 8.h3 Be6 9.Nd5 a4 10.O-O h6 11.Re1 Re8 12.b4 axb3 13.cxb3 Bf8 14.b4 Nb8 15.Nxf6+ Qxf6 16.Bc3 Nd7 17.a4 c6 18.a5 Nb8 19.Bxe6 Qxe6 20.d4 Na6 21.Re3 Be7 22.Rb1 Bf6 23.b5 Nc7 24.b6 Nb5 25.d5 Nxc3 26.Rxc3 cxd5 27.exd5 Qf5 28.Ra3 Ra6 29.Nd2 Rc8 30.Rc1 Rxc1 31.Qxc1 Bg5 32.Qc7 Bxd2 33.Qxb7 Qb1+ 34.Kh2 Bf4+ 35.g3 Qc2 36.Qxa6 Qxf2+ 37.Kh1 Qe1+ 38.Kg2 Qd2+ 39.Kf1 Qd1+ 40.Kf2 Qd4+ 41.Ke2 Qd2+ 42.Kf1 Qd1+ 1/2-1/2

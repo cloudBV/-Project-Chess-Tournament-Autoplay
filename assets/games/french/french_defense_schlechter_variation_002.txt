@@ -1,0 +1,15 @@
+[Event "Round 6: Peray, Ata - Buyuk, Eymen Eren"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/46MSGrXC"]
+[Date "2026.07.02"]
+[Round "6.48"]
+[White "Peray, Ata"]
+[Black "Buyuk, Eymen Eren"]
+[Result "1-0"]
+[WhiteElo "2070"]
+[BlackElo "2170"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 c5 4.exd5 exd5 5.dxc5 Bxc5 6.Nf3 Ne7 7.O-O O-O 8.c3 Nbc6 9.Bf4 Ng6 10.Bg3 Bg4 11.Nbd2 Bb6 12.h3 Bh5 13.Qc2 Qf6 14.Rfe1 h6 15.Qa4 Rfd8 16.Bc2 Nf8 17.Qb5 Ne6 18.a4 Nc7 19.Qf1 Rac8 20.Bh4 g5 21.Bg3 Ne6 22.Ne5 Bc7 23.Ndf3 Nxe5 24.Bxe5 Bxe5 25.Nxe5 Nd4 26.Bd1 Bxd1 27.Raxd1 Nc6 28.Ng4 Qg6 29.Qb5 h5 30.Ne3 d4 31.cxd4 Nxd4 32.Qxb7 Qb6 33.Qe4 Ne6 34.Nd5 Qb3 35.Rd3 Qc2 36.Ne7+ Kg7 37.Qe5+ Kh7 38.Qf5+ Kg7 39.Rxd8 Nxd8 40.Qxc8 1-0

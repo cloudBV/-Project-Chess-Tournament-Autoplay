@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.11"]
+[White "Smolinski, Wojciech"]
+[Black "Hychkevych, Vitaliy"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2239"]
+[ECO "B42"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qg4 Nf6 8.Qg3 d6 9.O-O Nc6 10.Qxg7 Rg8 11.Qh6 Ne5 12.Qh3 Nfg4 13.Nc3 Qf6 14.Nd1 Nf3+ 15.Kh1 Nfxh2 16.Re1 Bxf2 17.Bd2 e5 18.Qh5 Bxe1 19.Bxe1 Nf3 20.Bg3 Rg5 21.Qxh7 Rg6 22.gxf3 Qxf3+ 0-1

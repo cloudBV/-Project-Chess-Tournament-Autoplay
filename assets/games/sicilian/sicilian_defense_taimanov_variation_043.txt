@@ -1,0 +1,15 @@
+[Event "Round 5: Margolin-Herman, Ofek - Belkovsky, Guy"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-5/MpEuSFMD/WW1Ooc2b"]
+[Date "2026.07.17"]
+[Round "5.16"]
+[White "Margolin-Herman, Ofek"]
+[Black "Belkovsky, Guy"]
+[Result "0-1"]
+[WhiteElo "2039"]
+[BlackElo "2174"]
+[ECO "B44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nxc6 bxc6 6.Bd3 Nf6 7.O-O e5 8.b3 Bc5 9.Bb2 d6 10.c4 O-O 11.Nc3 Bd4 12.Qc2 Re8 13.Rad1 Bg4 14.Rd2 Rc8 15.Ne2 Bxe2 16.Rxe2 Bxb2 17.Qxb2 Qb6 18.Rd2 Rcd8 19.Rfd1 Re7 20.Qc3 Qd4 21.Qa5 Qb6 22.Qc3 Qd4 23.Qa5 Red7 24.Bc2 Qc5 25.b4 Qxa5 26.bxa5 Kf8 27.f3 Ke7 28.Ba4 Rc7 29.Kf2 Rcc8 30.Ke3 Ne8 31.Rb1 Kd7 32.Rdb2 Rc7 33.g3 Ke7 34.Rb7 Rdd7 35.a6 Nf6 36.h3 Nh5 37.Kf2 g6 38.Rb8 Ng7 39.Rh8 Ne6 40.Rbb8 h5 41.Bb3 Nc5 42.g4 hxg4 43.hxg4 Nxa6 44.Rbe8+ Kf6 45.Kg3 Nc5 46.Kh4 Ne6 47.c5 d5 48.exd5 cxd5 49.c6 Rd6 50.Rc8 Rdxc6 51.Rxc7 Nxc7 52.Rd8 Ke7 53.Rc8 d4 54.Kg3 Rc3 55.Kf2 Nb5 56.Rb8 Nd6 57.Ra8 Rc7 58.Ke2 Nc8 59.Rb8 Nb6 60.Rh8 Kf6 61.Rh7 Nc8 62.Rh8 Nd6 63.Rd8 Nb7 64.Rd5 Nc5 65.Bc2 Ne6 66.Kd2 Re7 67.Ra5 Nf4 68.Be4 Kg5 69.a4 f5 70.gxf5 gxf5 71.Ba8 Ng6 72.Rd5 Kf4 73.Ke2 Kg5 74.Rb5 Rh7 75.a5 Kf4 76.Rb4 Rh2+ 77.Kd1 Ra2 78.Rb5 Ke3 79.Kc1 d3 0-1

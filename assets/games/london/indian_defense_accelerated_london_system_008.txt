@@ -1,0 +1,15 @@
+[Event "Greek Chess Cup F4"]
+[Site "Patras, Greece"]
+[Date "2026.07.03"]
+[Round "2.5"]
+[White "Galopoulos, Nikolaos"]
+[Black "Tzortzis, Dimitrios"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2016"]
+[ECO "A45"]
+[TimeControl "90 minutes for 40 moves + 30 minutes + 30sec increment from first move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 c5 4.Nf3 b6 5.Nc3 cxd4 6.Nb5 Nd5 7.Qxd4 Nc6 8.Qa4 Bc5 9.Bd6 a6 10.Bxc5 bxc5 11.Nd6+ Ke7 12.Nxc8+ Rxc8 13.Bxa6 Rb8 14.Qh4+ f6 15.O-O Rxb2 16.Rfd1 Rb4 17.Qg3 Kf7 18.a3 Rb2 19.Bd3 Qb8 20.Be4 Qxg3 21.hxg3 Nce7 22.Rd3 Rhb8 23.Nd2 f5 24.Bxd5 Nxd5 25.c4 Nf6 26.a4 Ke7 27.a5 d5 28.a6 R2b4 29.a7 Ra8 30.Ra5 Kd6 31.Ra6+ Kd7 32.f3 Rb7 33.Rda3 Kc7 34.Rxe6 Rb2 35.Nb3 dxc4 36.Nxc5 c3 37.Rxc3 Rb1+ 38.Kh2 Rxa7 39.Re7+ Kb6 40.Na4+ Rxa4 41.Rc8 Raa1 42.Rb8+ Kc6 43.Rxb1 Rxb1 44.Rxg7 Kd6 45.g4 fxg4 46.fxg4 h6 47.g5 hxg5 48.Rxg5 Re1 49.Rg3 Ke5 50.Rf3 Ne4 51.Rf8 Rxe3 52.Re8+ Kf5 53.Rg8 Nf6 54.Rg3 Re1 55.Rf3+ Kg5 56.Ra3 Ne4 57.Ra8 Kf4 58.Rf8+ Kg4 59.Re8 Re3 60.Re7 Kf5 61.Re8 Ra3 62.Rg8 Rb3 63.Rg7 Ng5 64.Ra7 Rb5 65.Ra3 Ne4 66.Ra8 Rb1 67.Ra3 Rc1 68.Rf3+ Kg5 69.Ra3 Nf6 70.Kg3 Rc2 71.Ra5+ Kg6 72.Ra3 Rc4 73.Kf3 Ng4 74.Kg3 Ne5 75.Rb3 Kg5 76.Ra3 Rb4 77.Rc3 Rg4+ 78.Kf2 Rd4 79.Kg3 Kf5 80.Ra3 Rg4+ 81.Kf2 Rb4 82.Kg3 Nc4 83.Rf3+ Kg5 84.Rf8 Ne5 85.Rg8+ Ng6 86.Ra8 Rb3+ 1/2-1/2

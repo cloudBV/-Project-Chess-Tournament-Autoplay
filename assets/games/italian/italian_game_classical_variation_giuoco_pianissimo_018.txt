@@ -1,0 +1,14 @@
+[Event "Round 9: Tiger-Norqvist, Axel - Dingertz, Filip"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/gXauNzvN"]
+[Date "2026.07.04"]
+[Round "9.8"]
+[White "Tiger-Norqvist, Axel"]
+[Black "Dingertz, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2168"]
+[BlackElo "2115"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d5 7.exd5 Nxd5 8.a4 a5 9.Re1 Bg4 10.h3 Bh5 11.Nbd2 Nb6 12.Bb5 Bd6 13.Ne4 Kh8 14.Ng3 Bg6 15.h4 h6 16.h5 Bh7 17.d4 exd4 18.Nxd4 Nxd4 19.Qxd4 Bxg3 20.fxg3 Qxd4+ 21.cxd4 Rad8 22.Bd2 Rxd4 23.Bxa5 Nd5 24.Bc3 Nxc3 25.bxc3 Re4 1/2-1/2

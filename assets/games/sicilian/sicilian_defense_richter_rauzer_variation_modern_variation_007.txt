@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.4"]
+[White "Sobol, Matvii"]
+[Black "Smolinski, Wojciech"]
+[Result "1/2-1/2"]
+[WhiteElo "2324"]
+[BlackElo "2057"]
+[ECO "B61"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.Nb3 a6 9.Be2 e6 10.O-O Qc7 11.Rad1 Be7 12.f4 h6 13.Bh4 O-O 14.Bg3 Rfd8 15.Kh1 b5 16.e5 Nd5 17.Nxd5 exd5 18.exd6 Bxd6 19.Qxd5 Be8 20.Qf3 Nb4 21.c3 Bc6 22.Qf2 Nd5 23.Nd4 Bc5 24.Bg4 Ra8 25.f5 Qb7 26.Bf3 Re8 27.Rfe1 Rad8 28.h3 b4 29.cxb4 Nxb4 30.Rxe8+ Rxe8 31.f6 Bxf3 32.Qxf3 Qxf3 33.Nxf3 g6 34.a3 Nc2 35.Rc1 Re2 36.Bf4 g5 37.Bd2 Nd4 38.Rxc5 Nxf3 39.Bc3 Nh4 40.Rc8+ Kh7 41.Rf8 Kg6 42.Rg8+ Kf5 43.Kg1 Rxg2+ 44.Kf1 Rc2 45.Rf8 Kg6 46.Ra8 h5 47.Rxa6 g4 48.hxg4 hxg4 49.Ra4 Kf5 50.Ra5+ 1/2-1/2

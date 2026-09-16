@@ -1,0 +1,15 @@
+[Event "Round 6: Brodsky, David - Bortnyk, Mykola"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/8tBBWTOb"]
+[Date "2026.07.18"]
+[Round "6.2"]
+[White "Brodsky, David"]
+[Black "Bortnyk, Mykola"]
+[Result "1-0"]
+[WhiteElo "2518"]
+[BlackElo "2440"]
+[ECO "B47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 Nf6 7.Ndb5 Qb8 8.f4 a6 9.e5 axb5 10.exf6 gxf6 11.Nxb5 Na7 12.O-O Nxb5 13.Bxb5 Bc5+ 14.Kh1 f5 15.Rf3 Rg8 16.c3 b6 17.b4 Bd6 18.Be3 Bb7 19.Rg3 Rxg3 20.hxg3 Ke7 21.Qh5 Qg8 22.Qh4+ f6 23.Bxb6 e5 24.Rd1 Bd5 25.c4 Be6 26.c5 Bb8 27.c6 dxc6 28.Bd8+ Qxd8 29.Qxh7+ Bf7 30.Rxd8 cxb5 31.Qh8 1-0

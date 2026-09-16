@@ -1,0 +1,15 @@
+[Event "Round 3: Dominguez Perez, Leinier - Tang, Andrew"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/mrLDZOsr"]
+[Date "2026.07.03"]
+[Round "3.8"]
+[White "Dominguez Perez, Leinier"]
+[Black "Tang, Andrew"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2440"]
+[ECO "C55"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.c3 g6 7.d4 Qe7 8.Re1 Bg7 9.h3 O-O 10.Nbd2 a5 11.Nf1 a4 12.Ng3 Bd7 13.Be3 b5 14.Bxb5 Nxd4 15.cxd4 Bxb5 16.dxe5 dxe5 17.Qc1 a3 18.bxa3 Rfe8 19.Bxh6 Bxh6 20.Qxh6 Rxa3 21.Re3 Nh7 22.h4 Ra6 23.Rc3 Rea8 24.Rac1 R8a7 25.Rc5 Bd7 26.Rxc7 Rxa2 27.Rc8+ Bxc8 28.Rxc8+ Nf8 29.Ng5 f6 30.Qxg6+ Kh8 31.Nf5 Qb4 32.Qxf6+ Kg8 33.Nh6# 1-0

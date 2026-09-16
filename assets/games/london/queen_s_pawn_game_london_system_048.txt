@@ -1,0 +1,14 @@
+[Event "Round 7: Filipovic, Branko - Shukhman, Anna"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/quKDbczI"]
+[Date "2026.07.19"]
+[Round "7.7"]
+[White "Filipovic, Branko"]
+[Black "Shukhman, Anna"]
+[Result "0-1"]
+[WhiteElo "2109"]
+[BlackElo "2392"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.Nf3 Bf5 4.c4 e6 5.Qb3 Nc6 6.Qb4 b6 7.Qxb6 Nb4 8.Qb7 dxc4 9.Na3 0-1

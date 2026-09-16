@@ -1,0 +1,14 @@
+[Event "Round 2: Amar, Elham - Kuandykuly, Danis"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/f4UtGL5n"]
+[Date "2026.07.19"]
+[Round "2.8"]
+[White "Amar, Elham"]
+[Black "Kuandykuly, Danis"]
+[Result "1-0"]
+[WhiteElo "2581"]
+[BlackElo "2399"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Bd3 Bd6 8.Nf3 Nd7 9.O-O O-O 10.Re1 h6 11.Bc2 Rd8 12.Qe2 e5 13.Qe4 g6 14.d4 exd4 15.cxd4 Bf8 16.Bf4 Qb6 17.c5 Qa6 18.Bb3 Nb8 19.Bxc7 Bf5 20.Qf4 Rc8 21.g4 Be6 22.Rxe6 1-0

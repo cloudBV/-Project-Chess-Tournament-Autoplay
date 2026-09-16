@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.6"]
+[White "Udvardi, Zalan"]
+[Black "Gyorfi, Adam"]
+[Result "1-0"]
+[WhiteElo "2286"]
+[BlackElo "2219"]
+[ECO "B25"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7 8.h4 h5 9.O-O Nd4 10.Ng5 Rb8 11.Ne2 b5 12.c3 Nxe2+ 13.Qxe2 Nc6 14.f5 O-O 15.Be3 Ne5 16.Bh3 exf5 17.exf5 Qe8 18.Rae1 Qc6 19.Bg2 Qc7 20.Bd5 Kh8 21.f6 Bh6 22.d4 Ng4 23.Nxf7+ Qxf7 24.Bxh6 Qxd5 25.Qe7 Rf7 26.Qd8+ Kh7 27.Re8 Qg2+ 28.Kxg2 Bb7+ 29.Kg1 Rxd8 30.Rxd8 Nxh6 31.Rxd6 Nf5 32.Re6 cxd4 33.cxd4 Nxg3 34.Re7 Bd5 35.Rc1 g5 36.Rc5 Bxa2 37.Rxg5 Ne2+ 38.Rxe2 Rxf6 39.Rxh5+ Kg6 40.Rg5+ Kh6 41.Re8 Bb1 42.Rh8+ Bh7 43.Rxb5 Rf7 44.Rd8 Bd3 45.Rd6+ Kh7 46.Re5 Rb7 47.b4 Kg7 48.Kf2 Kf7 49.Ke3 Bc4 50.Rc5 Bb3 51.Ra6 Be6 52.d5 Bh3 53.b5 Bf1 54.Rac6 Rb8 55.Rc8 Rb6 56.R5c7+ Kf6 57.Rf8+ 1-0

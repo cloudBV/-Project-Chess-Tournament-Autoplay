@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-5/eUyGqiKg/BotVO7nI"]
+[Date "2026.07.16"]
+[Round "5.17"]
+[White "Cordeiro, Joao Carlos"]
+[Black "Ruzhansky, Elias"]
+[Result "0-1"]
+[WhiteElo "2099"]
+[BlackElo "2442"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 b5 6.e4 d6 7.Bd3 O-O 8.Ne2 bxc4 9.Bxc4 exd5 10.Bxd5 Nxd5 11.Qxd5 Be6 12.Qg5 f6 13.Qe3 Nc6 14.O-O Bc4 15.Rf2 f5 16.Bd2 Ne5 17.b3 Ba6 18.Nd5 Bxd2 19.Qxd2 fxe4 20.Nef4 Qh4 21.g3 Qh6 22.fxe4 g5 23.Nc7 gxf4 24.Nxa6 Qg7 25.Raf1 fxg3 26.Rxf8+ Rxf8 27.Rxf8+ Qxf8 28.Qg5+ Kh8 29.Qxg3 Qc8 30.Qf4 Kg7 31.Qg3+ Kf7 32.Qf2+ Ke8 33.Qe2 Kd8 34.b4 c4 35.b5 c3 36.Qd1 Ke7 37.Qc1 Qg4+ 38.Kf1 Qf3+ 39.Kg1 Qg4+ 40.Kf1 Nd3 41.Qe3 Qd1+ 42.Kg2 Qd2+ 43.Kf3 Ne1+ 0-1

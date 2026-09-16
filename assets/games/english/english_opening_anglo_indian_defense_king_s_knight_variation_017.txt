@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/3LX4YzDL"]
+[Date "2026.07.05"]
+[Round "9.3"]
+[White "Borischik, Sergey"]
+[Black "Backiel, Hubert"]
+[Result "1/2-1/2"]
+[WhiteElo "2202"]
+[BlackElo "2253"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.c4 Nf6 2.Nf3 c6 3.e3 d5 4.Nc3 e6 5.b3 Nbd7 6.Bb2 Bd6 7.Rc1 O-O 8.Be2 a6 9.d4 Re8 10.O-O dxc4 11.bxc4 e5 12.c5 Bc7 13.Bc4 exd4 14.exd4 Nf8 15.d5 Bf4 16.Ra1 Bg4 17.h3 Bh5 18.dxc6 bxc6 19.Qxd8 Rexd8 20.g4 Bg6 21.Ne2 Bd3 22.Bxd3 Rxd3 23.Kg2 Ne6 24.Rad1 Rad8 25.Rxd3 Rxd3 26.Bxf6 gxf6 27.Rb1 Bc7 28.Rb7 h5 29.Nfd4 Nxd4 30.Nxd4 Rxd4 31.Rxc7 hxg4 32.hxg4 Rxg4+ 33.Kf3 Ra4 34.Rxc6 Rxa2 35.Ke4 1/2-1/2

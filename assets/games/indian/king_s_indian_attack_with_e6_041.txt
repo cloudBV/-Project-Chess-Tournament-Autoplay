@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.7"]
+[White "Krawczyk, Flawian"]
+[Black "Sniadecki, Oskar"]
+[Result "1-0"]
+[WhiteElo "2260"]
+[BlackElo "2109"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 b6 7.e4 dxe4 8.dxe4 Bb7 9.Qe2 c5 10.Rd1 Qc7 11.c3 Nc6 12.Nc4 Rad8 13.Bf4 Qc8 14.Nd6 Bxd6 15.Bxd6 Rfe8 16.e5 Nd5 17.c4 Nde7 18.g4 Ng6 19.Qe3 Na5 20.b3 Bc6 21.h4 Nb7 22.h5 Nxd6 23.hxg6 Ne4 24.gxh7+ Kxh7 25.Ng5+ Nxg5 26.Qxg5 Bxg2 27.Kxg2 Rd4 28.Qh5+ Kg8 29.Rh1 Qa8+ 30.f3 Kf8 31.Qh8+ Ke7 32.Qxg7 Rd2+ 33.Kg3 Rd3 34.Qf6+ Kd7 35.Rad1 Rxd1 36.Rxd1+ Kc6 37.Qxf7 Qc8 38.Rd6# 1-0

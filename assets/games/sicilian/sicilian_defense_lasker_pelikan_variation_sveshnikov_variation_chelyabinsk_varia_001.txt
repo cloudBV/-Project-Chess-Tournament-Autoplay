@@ -1,0 +1,14 @@
+[Event "Round 5: Honcharov, Makar - Straka, Vojtech"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-5/cQk1QlWD/WRdZzkQz"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Honcharov, Makar"]
+[Black "Straka, Vojtech"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2399"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c4 b4 13.Nc2 a5 14.g3 O-O 15.Bg2 Bg5 16.O-O Ne7 17.Nde3 Bxe3 18.Nxe3 Be6 19.Qd3 Qc7 20.Rad1 Rfd8 21.f4 f6 22.Nd5 Qc5+ 23.Kh1 Nc6 24.Rc1 Ra7 25.f5 Bf7 26.g4 Nd4 27.g5 Bxd5 28.exd5 Rf8 29.Be4 fxg5 30.Rg1 h6 31.h4 Raf7 32.Rcf1 gxh4 33.Rg6 Rf6 34.Rg4 Qc8 35.Rfg1 R8f7 36.Rxh4 Nxf5 37.Rhg4 Nd4 38.Bg6 Re7 39.Bh7+ Kf8 40.Rg6 Rf3 41.Rf1 Ref7 42.Rxf3 Rxf3 43.Qd2 Qh3+ 44.Qh2 Rf1+ 45.Rg1 Rxg1+ 0-1

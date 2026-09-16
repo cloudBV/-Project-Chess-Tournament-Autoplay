@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.11"]
+[White "Perucki, Maciej"]
+[Black "Brzezina, Piotr"]
+[Result "1-0"]
+[WhiteElo "2043"]
+[BlackElo "2203"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Be6 7.Be2 Nd7 8.d4 Nf6 9.Qd3 Bg4 10.h3 Bh5 11.O-O e6 12.Bg5 Be7 13.Rfd1 O-O 14.Rac1 Qb6 15.Qb3 Rfd8 16.Qxb6 axb6 17.a3 b5 18.c3 h6 19.Bf4 Nd5 20.Bg3 Bg5 21.Nxg5 Bxe2 22.Re1 Bc4 23.Ne4 Ra7 24.f3 Bd3 25.Kf2 Rda8 26.Rcd1 Bxe4 27.fxe4 Nb6 28.Re2 Nc4 29.Kf3 Rd8 30.Bf2 Raa8 31.Rde1 f6 32.Bg1 Kf7 33.Kg3 Rd7 34.Ra1 g5 35.Kg4 Kg6 36.Kf3 h5 37.Rf1 Rf8 38.Kg3 Rdf7 39.Kh2 h4 40.Be3 Nd6 41.Bc1 Nc4 42.Be3 Nb6 43.d5 Nc4 44.dxe6 Rg7 45.Bc5 Re8 46.b3 Ne5 47.e7 Nd7 48.Bd6 Kf7 49.Ref2 Ke6 50.e5 fxe5 51.Rf8 Kxd6 52.Rxe8 Rxe7 53.Rxe7 Kxe7 54.Rf5 Ke6 55.Rxg5 Nc5 56.b4 Ne4 57.Rg4 Nxc3 58.Rxh4 e4 59.Kg3 Ke5 60.Kf2 Kd4 61.g4 Kd3 1-0

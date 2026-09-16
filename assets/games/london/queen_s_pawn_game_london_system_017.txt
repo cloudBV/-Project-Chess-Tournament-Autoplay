@@ -1,0 +1,15 @@
+[Event "Round 6: Troff, Kayden - Dominguez Perez, Leinier"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/joagR4bd"]
+[Date "2026.07.04"]
+[Round "6.8"]
+[White "Troff, Kayden"]
+[Black "Dominguez Perez, Leinier"]
+[Result "0-1"]
+[WhiteElo "2576"]
+[BlackElo "2591"]
+[ECO "D02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 c5 5.Nc3 a6 6.Ne5 Nc6 7.Nxc6 bxc6 8.dxc5 Bxc5 9.Be2 O-O 10.O-O Bd6 11.Bxd6 Qxd6 12.Na4 a5 13.c4 Ba6 14.Rc1 Nd7 15.b3 h6 16.Qd2 Rfb8 17.Rfd1 Qb4 18.h3 Nb6 19.Nxb6 Rxb6 20.c5 Rbb8 21.Bxa6 Rxa6 22.Qb2 Qb7 23.Rd4 Qe7 24.Rg4 e5 25.f4 Re8 26.a3 Ra7 27.b4 axb4 28.axb4 Rb7 29.Qc3 f6 30.f5 Reb8 31.Ra1 Ra7 32.Rb1 Rb5 33.e4 d4 34.Qg3 Qf7 35.Rg6 Kh7 36.Qd3 Rab7 37.Qd2 Rxc5 38.Ra1 Rcb5 39.Ra8 Rb8 40.Rxb8 Rxb8 41.Rg3 Qc4 42.Qd1 Rxb4 43.Qh5 Qg8 44.Qg6+ Kh8 45.Ra3 Rb7 46.g4 Rf7 47.h4 Rf8 48.Ra7 d3 49.g5 d2 50.Rd7 Rd8 51.Rxd2 Rxd2 52.Kh1 Qa8 0-1

@@ -1,0 +1,14 @@
+[Event "Round 5: Obregon Rivero, Juan Carlos - Sandoval Mercado, Carlos"]
+[Site "https://lichess.org/broadcast/viii-campeonato-nacional-abierto-de-ajedrez-de-verano-ezequiel-montes-2026/round-5/KtiudKVW/R4fbfl28"]
+[Date "2026.07.03"]
+[Round "5.1"]
+[White "Obregon Rivero, Juan Carlos"]
+[Black "Sandoval Mercado, Carlos"]
+[Result "1/2-1/2"]
+[WhiteElo "2468"]
+[BlackElo "2434"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O a6 6.c4 g6 7.Nc3 Bg7 8.d3 O-O 9.h3 b6 10.Bg5 h6 11.Be3 Bb7 12.Qd2 Kh7 13.Bc2 Ne5 14.Nxe5 dxe5 15.Rab1 Qd6 16.b4 cxb4 17.Na4 Nd7 18.Nxb6 Nf6 1/2-1/2

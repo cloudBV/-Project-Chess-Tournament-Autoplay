@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "8.1"]
+[White "Esbensen, Arnt"]
+[Black "Machlik, Monika"]
+[Result "1/2-1/2"]
+[WhiteElo "2133"]
+[BlackElo "2085"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 d6 5.a3 Bxd2+ 6.Qxd2 Nbd7 7.e3 e5 8.dxe5 dxe5 9.Be2 O-O 10.b4 Qe7 11.Bb2 b6 12.O-O Bb7 13.Rfd1 a5 14.Qc3 Rfe8 15.Nd2 Ne4 16.Nxe4 Bxe4 17.Bf3 Bxf3 18.gxf3 Qg5+ 19.Kh1 Qh5 20.e4 Nf8 21.f4 axb4 22.axb4 Rxa1 23.Rxa1 Qe2 24.f3 Re6 25.Rg1 Rh6 26.Rg2 Qf1+ 27.Rg1 Qe2 28.Rg2 Qf1+ 29.Rg1 Qe2 30.Rg2 Qf1+ 31.Rg1 Qh3 32.Rg2 Rg6 33.Rxg6 Nxg6 34.Qd3 Nf8 35.Qc3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 9: Srdanovic, Jovana - Zhauynbay Aldiyar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/bImLvaS2"]
+[Date "2026.07.11"]
+[Round "9.7"]
+[White "Srdanovic, Jovana"]
+[Black "Zhauynbay Aldiyar"]
+[Result "1/2-1/2"]
+[WhiteElo "2286"]
+[BlackElo "2318"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 Nc6 7.d5 Ne5 8.Nf3 Nfg4 9.Bd2 Nxf3+ 10.Bxf3 Ne5 11.Be2 f5 12.exf5 Bxf5 13.Be3 Nf7 14.Qd2 c6 15.O-O cxd5 16.Nxd5 Bd7 17.Rac1 e6 18.Nc3 Bc6 19.b4 b6 20.Nb5 Bxb5 21.cxb5 d5 22.f4 Nd6 23.Bd4 Nc4 24.Qc3 Bxd4+ 25.Qxd4 Rc8 26.Bxc4 dxc4 27.Rxc4 Qxd4+ 28.Rxd4 Rc2 29.Rf2 Rc1+ 30.Rf1 Rxf1+ 31.Kxf1 e5 32.Rd7 Rxf4+ 33.Ke2 Rxb4 34.Rxa7 Rxb5 35.Kf3 Rb2 36.h4 e4+ 37.Kxe4 Rxg2 38.Kf3 Rb2 39.Kf4 Rb4+ 40.Kg5 Rb5+ 41.Kf4 Rf5+ 42.Kg3 Ra5 43.Rb7 Ra3+ 44.Kf4 Ra4+ 45.Kg3 Ra3+ 46.Kf4 Rxa2 47.Rxb6 Rg2 48.h5 Kg7 49.hxg6 hxg6 50.Rb8 Rg1 51.Ra8 g5+ 52.Kf3 g4+ 53.Kf2 Rh1 54.Kg3 Rh8 55.Rxh8 Kxh8 56.Kxg4 1/2-1/2

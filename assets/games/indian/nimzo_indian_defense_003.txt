@@ -1,0 +1,15 @@
+[Event "North Island Chess Championships 2026"]
+[Site "https://lichess.org/broadcast/nz-north-island-championship-2026/round-4/TqaMFx6S/l7BmGBiR"]
+[Date "2026.07.06"]
+[Round "04"]
+[White "Tew, Yao Zen Markis"]
+[Black "Keith, Matthew"]
+[Result "1/2-1/2"]
+[WhiteElo "2046"]
+[BlackElo "2047"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 O-O 5.Nf3 b6 6.e3 Bb7 7.Bd3 d5 8.cxd5 exd5 9.Ne5 c5 10.O-O Nc6 11.a3 Bxc3 12.Bxc3 c4 13.Bc2 b5 14.f4 a5 15.Rf3 Ne7 16.Rh3 Bc8 17.g4 Ne4 18.Qf3 f5 19.g5 Qe8 20.Kg2 Nc6 21.Nxc6 Qxc6 22.Qh5 Qg6 23.Qxg6 hxg6 24.Bxe4 fxe4 25.Rg3 Kf7 26.h4 Rh8 27.Rh1 Bd7 28.Kf2 Rh5 29.Rgg1 a4 30.Kg3 1/2-1/2

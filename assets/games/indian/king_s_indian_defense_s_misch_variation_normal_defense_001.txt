@@ -1,0 +1,15 @@
+[Event "Round 8: Hambleton, Aman - Botez, Alexandra"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-8/AQLWkv6n/UMA9oOnt"]
+[Date "2026.07.05"]
+[Round "8.1"]
+[White "Hambleton, Aman"]
+[Black "Botez, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2511"]
+[BlackElo "2066"]
+[ECO "E81"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Normal Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nbd7 7.Nge2 c5 8.Qd2 a6 9.O-O-O b5 10.dxc5 b4 11.Nd5 dxc5 12.Kb1 Ne8 13.Nc1 Nd6 14.Nxe7+ Qxe7 15.Qxd6 Qh4 16.Qf4 Qe7 17.Qd6 Re8 18.Qxe7 Rxe7 19.Nb3 Re5 20.Bd3 a5 21.f4 Re8 22.Nxc5 Nxc5 23.Bxc5 Bb7 24.Rhe1 Rac8 25.Bd6 Ba6 26.c5 Bb7 27.g3 Bc6 28.e5 Bf8 29.Be4 Bb5 30.Bd5 Bc6 31.Bxc6 Rxc6 32.Rd5 Bg7 33.Red1 Rec8 34.Kc2 h5 35.Kb3 Ra8 36.Ka4 Kh7 37.Be7 Rcc8 38.Rd8 1-0

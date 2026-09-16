@@ -1,0 +1,15 @@
+[Event "Round 5: Vidyarthi, Omya - Yudasin, Leonid"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-5/fqiT2mw0/7tNem1I4"]
+[Date "2026.07.09"]
+[Round "5.3"]
+[White "Vidyarthi, Omya"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2134"]
+[BlackElo "2255"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 b6 4.g3 Bb7 5.Bg2 g6 6.O-O Bg7 7.d4 cxd4 8.Qxd4 Nc6 9.Qh4 h6 10.Nd5 Rc8 11.Nd2 Na5 12.Ne3 Bxg2 13.Kxg2 O-O 14.Rb1 d5 15.cxd5 Nxd5 16.Nf3 e6 17.Qh3 h5 18.Rd1 Nxe3+ 19.Bxe3 Qe7 20.Bg5 Bf6 21.Qh4 Bxg5 22.Qxg5 Qxg5 23.Nxg5 Rc7 24.Nf3 1/2-1/2

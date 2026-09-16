@@ -1,0 +1,14 @@
+[Event "Round 6: Mashhadi, Peyman - Morell, Ludvig"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/dlUG959T"]
+[Date "2026.07.02"]
+[Round "6.6"]
+[White "Mashhadi, Peyman"]
+[Black "Morell, Ludvig"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2026"]
+[ECO "B25"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.d3 Bg7 5.g3 d6 6.Bg2 e6 7.Nf3 Rb8 8.a4 a6 9.O-O b5 10.axb5 axb5 11.Ne2 Nge7 12.g4 h5 13.gxh5 Rxh5 14.Ng3 Rh8 15.Ng5 b4 16.f5 Bd4+ 17.Kh1 Be5 18.Qe1 exf5 19.exf5 Bxf5 20.Nxf5 Rxh2+ 21.Kg1 Rxg2+ 22.Kxg2 Nxf5 23.Qe4 d5 24.Qe1 Kf8 25.Rh1 Qd6 26.Ra6 Re8 27.Rh7 Bg7 28.Qf2 Qd7 29.Rh3 Ncd4 30.Qf1 Nxc2 31.Qf4 Re2+ 32.Kf1 Re1+ 33.Kg2 Qb7 34.Bd2 Be5 35.Qf2 d4+ 36.Rf3 Bg3 37.Ra7 Qxa7 38.Rxg3 Qb7+ 39.Rf3 Nce3+ 40.Bxe3 Rxe3 41.Ne4 Rxd3 42.Qc2 Qxe4 0-1

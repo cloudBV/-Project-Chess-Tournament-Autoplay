@@ -1,0 +1,14 @@
+[Event "Round 4: Tamas, Christian-Arrydan - Pingin, Artem"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-4/dyKZYB3z/lAmWANLe"]
+[Date "2026.07.16"]
+[Round "4.9"]
+[White "Tamas, Christian-Arrydan"]
+[Black "Pingin, Artem"]
+[Result "0-1"]
+[WhiteElo "2328"]
+[BlackElo "2477"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 Nbd7 8.Qd2 b5 9.a3 h5 10.O-O-O Bb7 11.Kb1 Rc8 12.Be2 Be7 13.h4 Nb6 14.Bg5 Nc4 15.Bxc4 Rxc4 16.Rde1 Qb6 17.Nb3 O-O 18.Nd1 Rfc8 19.Ne3 Ra4 20.g4 b4 21.gxh5 bxa3 22.Ng4 Qd8 23.Nxf6+ Bxf6 24.bxa3 Rac4 25.Qa5 Qe7 26.Re2 d5 27.exd5 Bxd5 28.Rg1 Bxg5 29.Rxg5 Qb7 30.Reg2 Rxc2 31.Rxg7+ Kh8 32.Rg8+ Rxg8 33.Rxg8+ Kxg8 34.Qd8+ Kh7 0-1

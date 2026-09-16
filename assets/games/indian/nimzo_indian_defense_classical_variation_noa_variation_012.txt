@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.16"]
+[White "Grebennikov, Nikolai A."]
+[Black "Avila Pavas, Santiago"]
+[Result "0-1"]
+[WhiteElo "2186"]
+[BlackElo "2502"]
+[ECO "E36"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 dxc4 7.Qxc4 O-O 8.Nf3 b6 9.Bg5 Ba6 10.Bxf6 Qxf6 11.Qxc7 Rc8 12.Qe5 Qg6 13.e4 Nd7 14.Qf4 Bxf1 15.Kxf1 Rc2 16.h4 h5 17.Ne1 Rc4 18.Rd1 e5 19.Qe3 Qf6 20.dxe5 Nxe5 21.Qe2 Ng4 22.Rd6 Ne3+ 23.Qxe3 Qxd6 24.Rh3 Qe5 25.f3 Rd8 26.Nd3 Qb5 27.Kg1 Rxd3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Celik, Hasan Huseyin - Hill, Alistair"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/XpBeIWls"]
+[Date "2026.07.19"]
+[Round "3.16"]
+[White "Celik, Hasan Huseyin"]
+[Black "Hill, Alistair"]
+[Result "1-0"]
+[WhiteElo "2490"]
+[BlackElo "2138"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O Nf5 8.dxc5 a5 9.Bd3 Bxc5 10.a4 O-O 11.Nbd2 Be7 12.Re1 f6 13.Bxf5 exf5 14.e6 Bc8 15.Nb3 Re8 16.Qd3 Qd6 17.Qxf5 g6 18.Qh3 Bf8 19.Nbd4 Nxd4 20.Nxd4 Ra6 21.Bh6 Bxh6 22.Qxh6 Bxe6 23.Re3 Bd7 24.Rxe8+ Bxe8 25.h3 Ra8 26.Qd2 Bd7 27.Nc2 Rd8 28.Qd4 Bc6 29.Qa7 Re8 30.Nd4 Qf4 31.Qxa5 Qd2 32.Qb6 Re1+ 33.Rxe1 Qxe1+ 34.Kh2 Qxf2 35.Qd8+ Kg7 36.Qc7+ Kh6 37.Ne6 Qe3 38.Qg7+ Kh5 39.Qxh7+ Qh6 40.g4+ 1-0

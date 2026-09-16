@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-9/Yar24TEc/f7ai8ViI"]
+[Date "2026.07.05"]
+[Round "9.14"]
+[White "Alboredo, Julia"]
+[Black "Villca, Julian"]
+[Result "1/2-1/2"]
+[WhiteElo "2179"]
+[BlackElo "2407"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Bg5 h6 6.Bh4 Be7 7.Nc3 d6 8.a4 Bg4 9.h3 Bh5 10.Bxf6 Bxf6 11.Nd5 O-O 12.c3 Nb8 13.g4 Bg6 14.h4 c6 15.Ne3 Nd7 16.a5 Nc5 17.g5 hxg5 18.hxg5 Bxg5 19.Nxg5 Qxg5 20.Qf3 Rfd8 21.b4 Nd7 22.Ke2 Kf8 23.a6 bxa6 24.Bxa6 Nf6 25.Rag1 Qf4 26.Qxf4 exf4 27.Ng2 Bh5+ 28.f3 g5 29.Bb7 Rab8 30.Bxc6 Rdc8 31.b5 a6 32.c4 axb5 33.cxb5 Ke7 34.Rb1 Bg6 35.Ra1 Ne8 36.Rh8 Kf6 37.d4 d5 38.Ne1 dxe4 39.fxe4 Kg7 40.Rxe8 Rxe8 41.Bxe8 Rxe8 42.e5 f6 43.Nd3 Bxd3+ 44.Kxd3 fxe5 45.dxe5 Rxe5 46.Rb1 f3 47.b6 f2 48.Rf1 Rb5 49.Rxf2 Rxb6 50.Ke2 Kg6 51.Rf8 Kh5 52.Kf2 Kg4 53.Kg1 Rb1+ 54.Kg2 Rb2+ 55.Kg1 Kg3 56.Rf1 Rg2+ 57.Kh1 Rf2 58.Ra1 1/2-1/2

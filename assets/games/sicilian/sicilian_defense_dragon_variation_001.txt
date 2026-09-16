@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "3.9"]
+[White "Haszon, David"]
+[Black "Kormos, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2301"]
+[BlackElo "2146"]
+[ECO "B70"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Nb3 Nc6 7.Be3 Bg7 8.Qd2 Be6 9.O-O-O a6 10.f3 b5 11.Bh6 Bxh6 12.Qxh6 Qb6 13.Qf4 Rc8 14.Kb1 Bc4 15.Rxd6 exd6 16.Qxf6 O-O 17.Bxc4 bxc4 18.Nd5 Qd8 19.Qxd8 Rcxd8 20.Nd2 Na5 21.Re1 Kg7 22.Re3 Rc8 23.Ra3 Rc5 24.b4 cxb3 25.axb3 f5 26.b4 Nc4 27.bxc5 Nxa3+ 28.Ka2 Nb5 29.c4 dxc5 30.cxb5 axb5 31.Nc7 Kf6 32.Nxb5 Rd8 33.Nc4 fxe4 34.fxe4 Rd1 35.Nc3 Rg1 36.Nd5+ Ke6 37.Kb3 Rd1 38.Nde3 Rd4 39.e5 Rd8 40.Kc3 g5 41.Ng4 h5 42.Nf6 h4 43.Ne4 Kd5 44.Nxg5 Rg8 45.Nh3 Ke6 46.Nf4+ Ke7 47.Ne3 Kd7 48.Kd3 Ra8 49.e6+ Kd6 50.Nc4+ Kc6 51.e7 Rb8 52.Ng6 Kd7 53.Nce5+ Ke8 54.Kc4 Rb2 55.Kxc5 Rxg2 56.Kd5 h3 57.Ke6 Rxg6+ 58.Nxg6 1/2-1/2

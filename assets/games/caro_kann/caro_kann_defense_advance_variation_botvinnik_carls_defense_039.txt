@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.13"]
+[White "Sanchez Aller, Fernando"]
+[Black "Vergara Anton, Diego"]
+[Result "0-1"]
+[WhiteElo "2203"]
+[BlackElo "2417"]
+[ECO "B12"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.dxc5 e6 7.Bb5 Bxf3 8.Qxf3 Bxc5 9.O-O Ne7 10.Be3 Qb6 11.Bxc5 Qxc5 12.Qe2 O-O 13.Nd2 Nxe5 14.Nb3 Qc7 15.f4 Nc4 16.Bxc4 Qxc4 17.Qxc4 dxc4 18.Na5 Rfc8 19.Nxb7 Rab8 20.Nd6 Rc6 21.Rad1 Nd5 22.Nf5 Rc5 0-1

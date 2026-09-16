@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.05"]
+[Round "29.1"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2686"]
+[BlackElo "2748"]
+[ECO "B51"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c4 a6 5.Ba4 e5 6.Nc3 Ne7 7.d3 Nc6 8.O-O Be7 9.Nd5 O-O 10.a3 a5 11.Bd2 Nb6 12.Bxc6 bxc6 13.Nxe7+ Qxe7 14.b4 axb4 15.axb4 cxb4 16.Rxa8 Nxa8 17.Qa4 Bg4 18.Qxc6 Bxf3 19.gxf3 Nc7 20.Qb7 Qd8 21.Qxb4 Ne6 22.Be3 Ng5 23.Bxg5 Qxg5+ 24.Kh1 Qh5 25.Kg2 Qg5+ 26.Kh1 Qh5 27.Kg2 Qg5+ 28.Kh1 Qh5 1/2-1/2

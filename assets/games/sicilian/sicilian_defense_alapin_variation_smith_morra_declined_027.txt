@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.2"]
+[White "Ambarish Sharma"]
+[Black "Elias Reyes, Jorge Roberto"]
+[Result "0-1"]
+[WhiteElo "2147"]
+[BlackElo "2509"]
+[ECO "B22"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 e6 6.cxd4 d6 7.Bc4 Be7 8.O-O O-O 9.Qe2 a6 10.Qe4 Nd7 11.Bxd5 exd5 12.Qxd5 dxe5 13.dxe5 Nc5 14.Nc3 Be6 15.Qd1 Qd3 16.Qxd3 Nxd3 17.Rd1 Rad8 18.Bg5 Bxg5 19.Nxg5 Nxb2 20.Rdb1 Rd2 21.Nf3 Rc2 22.Nd4 Rxc3 23.Nxe6 Rfc8 24.Nf4 Rc2 25.g3 Kf8 26.h4 b5 27.e6 f6 28.Re1 Ke7 29.Nd5+ Ke8 30.h5 Rd2 31.Nf4 Ke7 32.Rac1 Rxc1 33.Rxc1 Rd1+ 34.Rxd1 Nxd1 35.Nd5+ Kxe6 36.Nc7+ Kd6 37.Nxa6 Nc3 38.Nb4 Kc5 39.a3 Nb1 40.Nc2 Kc4 41.Kg2 Kc3 42.Ne3 Nxa3 43.h6 gxh6 44.Nd5+ Kd4 45.Nxf6 b4 46.Kf3 b3 47.Ne4 Nc4 0-1

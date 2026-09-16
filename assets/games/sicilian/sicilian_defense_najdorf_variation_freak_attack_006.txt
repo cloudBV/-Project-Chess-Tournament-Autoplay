@@ -1,0 +1,14 @@
+[Event "Round 4: Dietiker, Manuel - Gautier, Anand"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-4/xI74yWxD/rRmP27ae"]
+[Date "2026.07.19"]
+[Round "4.17"]
+[White "Dietiker, Manuel"]
+[Black "Gautier, Anand"]
+[Result "0-1"]
+[WhiteElo "2002"]
+[BlackElo "2198"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Freak Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 h5 7.h3 g6 8.g4 Bg7 9.Be3 Nc6 10.g5 Nd7 11.Nd5 O-O 12.c3 e6 13.Nxc6 bxc6 14.Nf6+ Nxf6 15.gxf6 Qxf6 16.Qxd6 e5 17.Qxf6 Bxf6 18.Kd1 0-1

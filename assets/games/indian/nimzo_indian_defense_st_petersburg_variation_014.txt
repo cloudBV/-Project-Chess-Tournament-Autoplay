@@ -1,0 +1,14 @@
+[Event "Round 8: Travadon, Loic - Fomkin, Dmitry"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/mFllBQ30"]
+[Date "2026.07.21"]
+[Round "8.10"]
+[White "Travadon, Loic"]
+[Black "Fomkin, Dmitry"]
+[Result "1-0"]
+[WhiteElo "2513"]
+[BlackElo "2358"]
+[ECO "E43"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.e3 Ne4 6.Qc2 Bb7 7.Bd3 Bxc3+ 8.bxc3 f5 9.O-O O-O 10.Ne1 d6 11.f3 Ng5 12.h4 Nf7 13.g3 Nd7 14.Ng2 Nf6 15.Bd2 Qe7 16.Rae1 g6 17.e4 fxe4 18.fxe4 e5 19.Ne3 c6 20.Bc1 Kg7 21.Qg2 h5 22.d5 c5 23.Rf3 Bc8 24.Ref1 Ng4 25.Qd2 Nxe3 26.Qxe3 Bg4 27.R3f2 Kg8 28.Rf6 Nh8 29.Qg5 Rxf6 30.Qxf6 Qxf6 31.Rxf6 Rd8 32.Bg5 Rd7 33.Bc2 Kg7 34.Ba4 Rd8 35.Kg2 Rf8 36.Bh6+ Kxf6 37.Bxf8 Nf7 38.Kf2 Bc8 39.Bb5 g5 40.a3 gxh4 41.gxh4 a5 42.Ke3 Bh3 43.Ba4 Bf1 44.Bb5 Bh3 45.Be8 Bf1 46.Bxf7 Kxf7 47.Bxd6 Kf6 48.Bc7 b5 49.Bd8+ Kf7 50.Bxa5 Bxc4 51.Bc7 Kf6 52.Bd6 Bf1 53.Bxc5 Bc4 54.Bb6 Bf1 55.Bd8+ Kf7 56.Bc7 Kf6 57.Bb8 Bc4 58.Kf3 Bf1 59.Bc7 Bc4 60.Kf2 Bb3 61.Ke2 Bc4+ 62.Kd2 Bf1 63.d6 Bh3 64.c4 bxc4 65.Kc3 Ke6 66.Kxc4 Bg2 67.a4 Bxe4 68.Kc5 Kd7 69.a5 Bc6 70.Bd8 e4 71.Bg5 Ba8 72.a6 Kc8 73.Bf4 Kd7 74.Kd4 Bc6 75.Ke5 Bb5 76.a7 Bc6 77.Be3 Bb7 78.Kf5 Kxd6 79.Kg5 Kc7 80.Kxh5 Bc6 81.Kg5 Kb7 82.h5 Bd5 83.h6 Bg8 84.Kg6 1-0

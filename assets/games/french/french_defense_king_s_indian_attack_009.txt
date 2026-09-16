@@ -1,0 +1,14 @@
+[Event "Round 1: Erdogmus, Yagiz Kaan - Bluebaum, Matthias"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-rapid/round-1/Y5pZwZhW/Lt3zwHCF"]
+[Date "2026.07.12"]
+[Round "1.2"]
+[White "Erdogmus, Yagiz Kaan"]
+[Black "Bluebaum, Matthias"]
+[Result "0-1"]
+[WhiteElo "2493"]
+[BlackElo "2587"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Be7 5.g3 a5 6.Bg2 a4 7.O-O c5 8.Ne5 O-O 9.Re1 Qc7 10.f4 b6 11.exd5 exd5 12.g4 Bb7 13.g5 Ne8 14.Nf1 f6 15.Ng4 fxg5 16.fxg5 d4 17.Qe2 Bxg2 18.Qxg2 Nc6 19.Rxe7 Qxe7 20.Qxc6 Qe1 21.Qd5+ Kh8 22.Bf4 Qxa1 23.Qxa8 Qxa2 24.Bd6 Rg8 25.Be5 Rf8 26.Bd6 Rg8 27.Be5 Rf8 28.Qg2 Qxb2 29.g6 Qc1 30.Qh3 Qxf1+ 31.Qxf1 Rxf1+ 32.Kxf1 a3 0-1

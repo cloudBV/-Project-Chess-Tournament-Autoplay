@@ -1,0 +1,15 @@
+[Event "Round 7: Khazhatuly, Alikhan - Shen, Fuyan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-7/p8K9mTTy/HzxrF31M"]
+[Date "2026.07.22"]
+[Round "7.13"]
+[White "Khazhatuly, Alikhan"]
+[Black "Shen, Fuyan"]
+[Result "0-1"]
+[WhiteElo "2148"]
+[BlackElo "2337"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nc2 Nf6 7.Nc3 Bc5 8.Be2 d6 9.O-O O-O 10.Be3 Be6 11.Qd2 Rc8 12.Rfd1 Nb4 13.Bxc5 dxc5 14.Qg5 Qc7 15.Ne3 h6 16.Qh4 Nc6 17.b3 Nd4 18.Bg4 Nxg4 19.Nxg4 f5 20.Ne3 f4 21.Ned5 Qf7 22.f3 Kh7 23.Rab1 g5 24.Qf2 Rg8 25.h3 h5 26.b4 Rg6 27.bxc5 Rcg8 28.Rb6 g4 29.Qh4 Rh6 30.hxg4 hxg4 31.Qe7 Nxf3+ 32.Kf2 g3+ 33.Ke2 Nd4+ 34.Kd3 Qxe7 35.Nxe7 Rg7 36.Ncd5 f3 37.Rxb7 fxg2 38.Rg1 Nf3 39.Rbb1 Nxg1 40.Rxg1 Rh1 41.Rxg2 Bh3 42.Nf6+ Kh8 43.Rb2 Bf1+ 44.Ke3 Rxe7 45.Nd5 Rf7 0-1

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "7.1"]
+[White "Degraeve, Jean-Marc"]
+[Black "Fedorchuk, Sergey A."]
+[Result "1/2-1/2"]
+[WhiteElo "2500"]
+[BlackElo "2593"]
+[ECO "B40"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.a3 b6 6.g3 Bb7 7.Bg2 d6 8.O-O Nc6 9.d4 cxd4 10.cxd4 Nde7 11.exd6 Nf5 1/2-1/2

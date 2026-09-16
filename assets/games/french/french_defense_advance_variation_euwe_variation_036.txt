@@ -1,0 +1,14 @@
+[Event "Round 5: Iafelice, Vincenzo - Ling, Chenxuan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/wpI8NDZA"]
+[Date "2026.07.17"]
+[Round "5.26"]
+[White "Iafelice, Vincenzo"]
+[Black "Ling, Chenxuan"]
+[Result "0-1"]
+[WhiteElo "2086"]
+[BlackElo "2166"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 Nf5 8.Nc2 cxd4 9.cxd4 Be7 10.O-O O-O 11.Bd3 f6 12.Bxf5 exf5 13.Bf4 g5 14.exf6 Bxf6 15.Be5 f4 16.Qd2 Bg4 17.Bxf6 Qxf6 18.Nfe1 Rae8 19.f3 Bf5 20.Rd1 Re7 21.Rf2 Rfe8 22.g3 Kh8 23.gxf4 g4 24.Nd3 gxf3 25.Ne5 Rg8+ 26.Kh1 Reg7 27.Ne3 Be4 0-1

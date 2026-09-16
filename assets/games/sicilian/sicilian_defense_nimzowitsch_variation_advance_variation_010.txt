@@ -1,0 +1,15 @@
+[Event "Round 2: Ostrovsky Berman, Noam - Meirovich, Ilay"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-2/d3cE0HD7/diw2QtM0"]
+[Date "2026.07.15"]
+[Round "2.5"]
+[White "Ostrovsky Berman, Noam"]
+[Black "Meirovich, Ilay"]
+[Result "1/2-1/2"]
+[WhiteElo "2223"]
+[BlackElo "2275"]
+[ECO "B29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Advance Variation"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 e6 5.Ne4 f5 6.Nc3 Nxc3 7.dxc3 Nc6 8.Bf4 Qb6 9.b3 Qa5 10.Qd2 Ne7 11.c4 Qxd2+ 12.Bxd2 b6 13.O-O-O Bb7 14.Be2 Ng6 15.g3 Be7 16.Rhe1 O-O 17.Bc3 Rad8 18.Nd2 f4 19.Bd3 fxg3 20.fxg3 Bg5 21.Kb2 Bxd2 22.Rxd2 Ne7 23.Red1 Bf3 24.Rf1 Bc6 25.Rdf2 Rxf2 26.Rxf2 Ng6 27.Bxg6 hxg6 28.Bd2 Be4 29.Bg5 Re8 30.a3 a6 1/2-1/2

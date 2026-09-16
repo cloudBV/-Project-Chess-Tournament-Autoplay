@@ -1,0 +1,14 @@
+[Event "Round 3: Pavlovic, Milos - Dinanath, Hrdya"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/6lhFK9cP"]
+[Date "2026.07.23"]
+[Round "3.14"]
+[White "Pavlovic, Milos"]
+[Black "Dinanath, Hrdya"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2192"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 e6 4.c4 d5 5.cxd5 exd5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.dxc5 Nxc5 9.O-O Bd6 10.Nc3 O-O 11.b3 Nce4 12.Bb2 Rc8 13.Rc1 Qd7 14.Qd3 Rc5 15.h3 Rfc8 16.Ne2 Rxc1 17.Rxc1 Rxc1+ 18.Nxc1 Qc7 19.Ne2 Qa5 20.a4 Qb4 21.Qc2 h6 22.g4 Bc5 23.Kg2 Qb6 24.Nf4 Qc6 25.Ne5 Qe8 26.Nxd5 Nxd5 27.Qxe4 Qe6 28.Qf5 Qxf5 29.gxf5 f6 30.Nd3 Bd6 31.Bd4 a6 32.e4 Ne7 33.Bc5 Nc8 34.Kf3 Kf7 35.Ke3 Ke7 36.Kd4 Kd7 37.Bxd6 Nxd6 38.Kd5 b6 39.f3 Nc8 40.Kd4 Ne7 41.Nb4 a5 42.Nd5 Nc6+ 43.Kc3 Kd6 44.f4 Kc5 45.Nc7 Nb4 46.Ne6+ Kd6 47.Nxg7 Nc6 48.Ne8+ Ke7 49.Nc7 1-0

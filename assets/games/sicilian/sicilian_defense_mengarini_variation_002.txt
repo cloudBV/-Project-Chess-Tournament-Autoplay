@@ -1,0 +1,14 @@
+[Event "Round 9: Hadzovic, Amir - Suvara, Filip"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-9/j9WVZqtk/KpRhGu8I"]
+[Date "2026.07.02"]
+[Round "9.13"]
+[White "Hadzovic, Amir"]
+[Black "Suvara, Filip"]
+[Result "1-0"]
+[WhiteElo "2374"]
+[BlackElo "2089"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+
+1.e4 c5 2.a3 e6 3.Nc3 Nc6 4.Bc4 g6 5.d3 Bg7 6.Ba2 Nge7 7.h4 d5 8.h5 b6 9.Nf3 Bb7 10.Bf4 Qd7 11.h6 Bxc3+ 12.bxc3 f6 13.Nd2 O-O-O 14.Bg3 Qe8 15.Qe2 Qf7 16.a4 g5 17.exd5 exd5 18.Qg4+ Rd7 19.O-O Ng8 20.a5 Nxh6 21.Qh3 Qg6 22.axb6 g4 23.Qh2 axb6 24.Rfb1 Nf5 25.Rxb6 h5 26.Rab1 Nce7 27.Ne4 h4 28.Nxc5 Rh5 29.Bf4 h3 30.Nxd7 hxg2 31.Rxb7 Rxh2 32.Rc7+ Kd8 33.Rb8+ Nc8 34.Rbxc8+ Ke7 35.Ne5+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 1: Ponizil, Cyril - Hrabal, Matej"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-1/w7EFVbhM/WO8BzqwQ"]
+[Date "2026.07.16"]
+[Round "1.9"]
+[White "Ponizil, Cyril"]
+[Black "Hrabal, Matej"]
+[Result "1-0"]
+[WhiteElo "2452"]
+[BlackElo "2058"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.a4 a6 7.c3 O-O 8.Nbd2 Ba7 9.Bb3 Ne7 10.Re1 Ng6 11.Nf1 c6 12.Ng3 h6 13.h3 Re8 14.d4 Be6 15.Bc2 Qc7 16.Be3 Rad8 17.Qb1 c5 18.d5 Bd7 19.a5 Rb8 20.b3 b5 21.axb6 Rxb6 22.c4 Reb8 23.Qc1 Kh7 24.Nh2 Qc8 25.Nf5 Bxf5 26.exf5 Ne7 27.g4 Rb4 28.Bd2 R4b6 29.Nf1 Nfg8 30.f6+ Ng6 31.fxg7 Kxg7 32.Ng3 Nh4 33.Bxh6+ 1-0

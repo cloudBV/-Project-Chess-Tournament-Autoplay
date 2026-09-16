@@ -1,0 +1,15 @@
+[Event "Round 8: Zol-Uchral Erdenesaikhan - Iudina, Veronika"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g16/round-8/CD51HxBN/Miw06IqL"]
+[Date "2026.07.23"]
+[Round "8.17"]
+[White "Zol-Uchral Erdenesaikhan"]
+[Black "Iudina, Veronika"]
+[Result "0-1"]
+[WhiteElo "2153"]
+[BlackElo "2226"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.Nf3 b6 7.cxd5 exd5 8.Bd3 Bd6 9.Ne5 Bb7 10.Rc1 a6 11.O-O c5 12.f4 Nbd7 13.Qf3 b5 14.Qh3 Nb6 15.dxc5 Bxc5 16.Ng4 Ne4 17.Nxe4 dxe4 18.Rxc5 exd3 19.Rh5 f5 20.Ne5 h6 21.Rxf5 Rxf5 22.Qxf5 Qd5 23.Qg6 Rf8 24.Rf3 Rf6 25.Qe8+ Rf8 26.Qe7 Nc8 27.Qc7 Nd6 28.Ng6 Re8 29.Bc3 Nf5 30.Ne5 Rc8 31.e4 d2 32.Rd3 d1=Q+ 33.Kf2 Qc2+ 34.Kg1 Rxc7 35.exd5 Qc1+ 36.Kf2 Qxf4+ 37.Ke2 Rxc3 38.bxc3 Qxe5+ 39.Kd2 Bxd5 0-1

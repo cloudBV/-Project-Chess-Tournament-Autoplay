@@ -1,0 +1,14 @@
+[Event "Round 4: Vazquez, Facundo - Muniz, Rafael"]
+[Site "https://lichess.org/broadcast/campeonato-uruguayo-2026-blitz/round-4/7UYRd8yO/kButky3k"]
+[Date "2026.07.16"]
+[Round "4.1"]
+[White "Vazquez, Facundo"]
+[Black "Muniz, Rafael"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2191"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3 O-O 6.Bg2 c5 7.O-O Nc6 8.d3 Rb8 9.Rb1 a6 10.a3 b5 11.cxb5 axb5 12.b4 Ng4 13.Bd2 Nge5 14.Nxe5 Nxe5 15.Qc2 c4 16.d4 Nd3 17.Be3 Bd7 18.Rfd1 Qb6 19.Nd5 Qd8 20.a4 e6 21.Nf4 Nxf4 22.Bxf4 Qc7 23.a5 Bc6 24.d5 exd5 25.exd5 Ba8 26.Be3 Rfe8 27.Bd4 Bxd4 28.Rxd4 Re5 29.Rbd1 Rbe8 30.Bf3 h5 31.h4 Bb7 32.Kg2 Bc8 33.Rf4 Qd7 34.g4 hxg4 35.Bxg4 Qc7 36.Qc3 Bb7 37.Bf3 Qe7 38.Rh1 Re1 39.Rxe1 Qxe1 40.Qf6 Qe7 41.Qd4 Qe5 42.h5 Qxd4 43.Rxd4 Kg7 44.hxg6 fxg6 45.Kg3 Re5 46.Be4 Kf6 47.f4 Re8 48.Kf2 Rh8 49.Bg2 Re8 50.Be4 Ba6 51.Bc2 Re7 52.Re4 Rxe4 53.Bxe4 g5 54.fxg5+ Kxg5 55.Ke3 Kf6 56.Kd4 Bc8 57.Bf3 Kf5 58.Be2 Kf4 59.Bxc4 bxc4 60.Kxc4 Ke5 61.b5 Bb7 62.a6 Bxd5+ 63.Kb4 Ke6 64.Ka5 Kd7 65.Kb6 Be4 66.Ka7 d5 67.b6 d4 68.b7 1-0

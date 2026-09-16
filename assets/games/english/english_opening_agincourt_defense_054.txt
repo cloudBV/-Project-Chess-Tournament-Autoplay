@@ -1,0 +1,14 @@
+[Event "Blitz C14"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "9.1"]
+[White "Diachek, Andrii"]
+[Black "Golis, Wiktor"]
+[Result "1-0"]
+[WhiteElo "2350"]
+[BlackElo "2291"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.Nf3 Nc6 5.d3 Bc5 6.O-O Nf6 7.Bg5 O-O 8.Nbd2 Be7 9.a3 a5 10.Rb1 a4 11.Re1 h6 12.Bxf6 Bxf6 13.e3 dxe3 14.Rxe3 Nd4 15.Ne4 Be7 16.Nxd4 Qxd4 17.Nc3 Bd7 18.Bxb7 Rab8 19.Bg2 Rb3 20.Ne2 Qb6 21.d4 Rxb2 22.Rxb2 Qxb2 23.c5 Bb5 24.Nc3 Rb8 25.Nd5 Bf8 26.Nb4 Bc4 27.Nc6 Rb3 28.Na5 Rc3 29.Rxc3 Qxc3 30.Nxc4 Qxc4 31.Bc6 Qb3 32.Bxa4 Qxa3 33.Bc6 Qc3 34.Bf3 Be7 35.Kg2 Bf6 36.d5 Qxc5 37.dxe6 fxe6 38.Qd7 Qd6 39.Qe8+ Qf8 40.Qxe6+ Qf7 41.Qc8+ Kh7 42.Qf5+ Kg8 43.Bd5 1-0

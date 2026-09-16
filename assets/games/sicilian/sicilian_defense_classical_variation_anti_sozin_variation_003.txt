@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.07"]
+[Round "3.15"]
+[White "Sanchez Aller, Fernando"]
+[Black "Sanz Gorospe, Ibai"]
+[Result "1-0"]
+[WhiteElo "2203"]
+[BlackElo "2317"]
+[ECO "B57"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nxc6 bxc6 8.O-O g6 9.Qe1 Qc7 10.b3 Bg7 11.Bb2 O-O 12.h3 Bb7 13.Na4 c5 14.Bd3 Qc6 15.f3 Nd7 16.Bxg7 Kxg7 17.c4 Ne5 18.Rd1 h6 19.h4 Qc7 20.Nc3 Nc6 21.f4 f6 22.Qg3 e5 23.Be2 Kh7 24.Nb5 Qe7 25.h5 g5 26.fxg5 fxg5 27.Rxf8 Rxf8 28.Rxd6 Nd4 29.Bg4 Bxe4 30.Qe3 Bf5 31.Bxf5+ Rxf5 32.Qe4 Qf7 33.Nxd4 cxd4 34.g4 1-0

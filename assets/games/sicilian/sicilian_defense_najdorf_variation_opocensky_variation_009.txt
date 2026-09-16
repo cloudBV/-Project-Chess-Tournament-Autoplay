@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "26.3"]
+[White "Saric, Ivan"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2642"]
+[ECO "B92"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Qd3 O-O 9.Bg5 Be6 10.Bxf6 Bxf6 11.O-O-O Be7 12.Nd5 Bxd5 13.Qxd5 Qc7 14.Kb1 Nd7 15.Qd3 b5 16.h4 Rfd8 17.Bf3 a5 18.Nd2 Nc5 19.Qe2 Rac8 20.Nf1 d5 21.exd5 e4 22.Bg4 Rb8 23.Ng3 Qe5 24.f4 Qxf4 25.Nf5 Bf6 26.d6 Qe5 27.c3 b4 28.c4 Na4 29.Rd5 Nc3+ 30.bxc3 bxc3+ 31.Rb5 Rxb5+ 32.cxb5 c2+ 33.Kxc2 Rc8+ 34.Kb3 Qc3+ 0-1

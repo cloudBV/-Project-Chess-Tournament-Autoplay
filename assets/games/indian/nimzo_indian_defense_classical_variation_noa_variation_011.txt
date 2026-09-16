@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "4.9"]
+[White "Szczotka, Klara"]
+[Black "Piddubna, Bozhena"]
+[Result "0-1"]
+[WhiteElo "2130"]
+[BlackElo "2193"]
+[ECO "E34"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5 7.Qxf5 exf5 8.a3 Ba5 9.b4 Bb6 10.Bb2 c6 11.e3 h6 12.Bd3 Be6 13.O-O Nbd7 14.Na4 O-O 15.Nxb6 Nxb6 16.Ne5 Na4 17.Bc1 Rfd8 18.Bc2 Nc3 19.Bb2 Nfd5 20.Rfe1 f6 21.Nd3 b6 22.Bxc3 Nxc3 23.Nf4 Kf7 24.Rac1 Nb5 25.a4 Nd6 26.Nxe6 Kxe6 27.Bb3+ Kd7 28.Rc2 Rac8 29.Rec1 Re8 30.g3 g5 31.Rd1 f4 32.gxf4 gxf4 33.exf4 Re4 34.d5 c5 35.bxc5 bxc5 36.Rcd2 Rxf4 37.Kg2 Rg8+ 38.Kf1 Rb8 39.Bc2 Rbb4 40.Re2 a5 41.Re6 Rb2 42.Rc1 c4 43.Re2 c3 44.Re3 Rc4 45.Bd3 Rc5 46.Bc2 Nc4 47.Rh3 Nd2+ 48.Ke2 Nb3 49.Kd1 Nxc1 50.Kxc1 Rxd5 51.Bf5+ Kd6 52.Be4 0-1

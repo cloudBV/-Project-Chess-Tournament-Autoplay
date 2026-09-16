@@ -1,0 +1,15 @@
+[Event "Round 5: Jasinski, Alexander - Rensch, Daniel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-5/kzSSFnA1/taPz2Nb6"]
+[Date "2026.07.04"]
+[Round "5.21"]
+[White "Jasinski, Alexander"]
+[Black "Rensch, Daniel"]
+[Result "1-0"]
+[WhiteElo "2127"]
+[BlackElo "2401"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.O-O Ne7 6.d3 Ng6 7.c3 Be7 8.Re1 O-O 9.Nbd2 a5 10.a4 Ba6 11.Nf1 Rb8 12.Ng3 d6 13.d4 cxd4 14.cxd4 Qb6 15.Bd2 Qxb2 16.Bxa5 Nf4 17.Re3 d5 18.Bc7 Nd3 19.Re2 Qb4 20.Bxb8 Rxb8 21.Rc2 c5 22.exd5 exd5 23.Ne5 Qxd4 24.Nc6 Qf4 25.Nxe7+ Kh8 26.Nxd5 Qd4 27.Ne3 c4 28.Ngf5 Qe4 29.Rb1 Rg8 30.Qf3 Qe5 31.Nxc4 Bxc4 32.Rxc4 Ne1 33.Qe3 Qd5 34.Qxe1 Qxc4 35.a5 Qd5 36.Ne3 Qd3 37.Ra1 Ra8 38.h3 h6 39.Qd1 Qb5 40.Qd5 Qa6 41.Qxf7 Rb8 42.Qc4 Qa7 43.a6 1-0

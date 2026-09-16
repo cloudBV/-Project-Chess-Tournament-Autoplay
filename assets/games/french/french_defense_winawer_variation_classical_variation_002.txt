@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.13"]
+[Round "4.2"]
+[White "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Black "Clockwork 20260705-7f4099f"]
+[Result "0-1"]
+[WhiteElo "3246"]
+[BlackElo "3354"]
+[ECO "C18"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Qg4 f5 8.Qh5+ g6 9.Qd1 Nc6 10.h4 h6 11.Nf3 c4 12.a4 b6 13.Ng1 Qf7 14.Nh3 Bd7 15.Bd2 Nge7 16.Qc1 Qg7 17.g3 Na5 18.Qa3 O-O-O 19.Bg2 Rdf8 20.Nf4 Qf7 21.Bf3 Rfg8 22.O-O-O Kb7 23.Rdg1 Nac6 24.Kb2 Rh7 25.Rb1 Na5 26.Qa2 Rhg7 27.Qa3 Rh7 28.Rhg1 Nac6 29.Be2 a5 30.Ka2 Nc8 31.Rb2 Ka7 32.Rgb1 Be8 33.Rb5 Qd7 34.Bf3 Bf7 35.Nh3 Nb8 36.Ra1 Be8 37.Nf4 Bf7 38.Rh1 Na6 39.Rbb1 Nc7 40.g4 fxg4 41.Bxg4 Ne8 42.Rhg1 g5 43.hxg5 hxg5 44.Ng2 Nc7 45.Kb2 Be8 46.Ra1 Bg6 47.Ne3 Rh2 48.Raf1 Qf7 49.Be1 Ka6 50.Qa1 Rgh8 51.f4 gxf4 52.Bg3 R2h7 53.Rxf4 Qd7 54.Rf6 Bh5 55.Bh3 Rg8 56.Bf2 Rxg1 57.Bxg1 Bf7 58.Rf3 b5 59.axb5+ Qxb5+ 60.Kc1 a4 61.Ng4 Nb6 62.Nf6 Rh8 63.Bf2 Qa5 64.Kb2 Nb5 65.Qb1 Nxc3 66.Qe1 Qb4+ 67.Kc1 Qa3+ 68.Kd2 Nb1+ 69.Ke2 Qb2 70.Be3 Qxc2+ 71.Kf1 a3 72.Rf2 Qb3 73.Bg2 a2 74.Rxa2+ Qxa2 75.Kg1 Na3 76.Bf2 Bg6 77.Bf3 Nb5 78.Be2 Qb2 79.Kg2 Nxd4 80.Bd1 c3 81.Qe3 c2 82.Bxc2 Nxc2 83.Qf4 Bf5 84.Qg3 Ne1+ 85.Kg1 Nd3 86.Kg2 Nxf2 87.Kg1 Nd3 88.Nh5 Be4 89.Kf1 Rxh5 90.Qf3 Bxf3 91.Kg1 Qg2# 0-1

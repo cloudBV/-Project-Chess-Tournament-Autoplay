@@ -1,0 +1,15 @@
+[Event "Round 1: Buckley, Graeme N - Zilka, Stepan"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-1/IZm7gMRo/hIpeJeJV"]
+[Date "2026.06.12"]
+[Round "1.1"]
+[White "Buckley, Graeme N"]
+[Black "Zilka, Stepan"]
+[Result "0-1"]
+[WhiteElo "2261"]
+[BlackElo "2526"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 Nf6 5.e5 Qa5+ 6.Nc3 Ne4 7.Bd2 Nxc3 8.Bxd7+ Bxd7 9.Bxc3 Qa6 10.Qd2 O-O-O 11.Qf4 cxd4 12.Qxd4 f6 13.exd6 Kb8 14.Rd1 Bc6 15.Bb4 exd6 16.Rd3 Re8+ 17.Kd2 Re4 18.Bxd6+ Kc8 19.Qc5 Bxd6 20.Qxd6 Qa5+ 21.Kc1 Rhe8 22.Rhd1 Qxa2 23.Ra3 Qe6 24.Qc5 b6 25.Qh5 Kb8 26.Qxh7 Qg4 27.Rad3 Ra4 28.Rd8+ Rxd8 29.Rxd8+ Kc7 30.Qd3 Ra1+ 31.Kd2 Qb4+ 32.c3 Qf4+ 33.Ke2 Bxf3+ 34.gxf3 Qe5+ 35.Kd2 Qe1+ 36.Kc2 Qb1+ 37.Kd2 Qc1+ 0-1

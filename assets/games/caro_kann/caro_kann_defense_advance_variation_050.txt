@@ -1,0 +1,14 @@
+[Event "Round 9: Gopal G.N. - Aronyak Ghosh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/JgXpmADa"]
+[Date "2026.07.22"]
+[Round "9.3"]
+[White "Gopal G.N."]
+[Black "Aronyak Ghosh"]
+[Result "1/2-1/2"]
+[WhiteElo "2529"]
+[BlackElo "2549"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 c5 7.dxc5 a6 8.Be3 Bg4 9.Be2 Bxf3 10.Bxf3 Ne7 11.O-O Nxe5 12.Re1 N7c6 13.Be2 Be7 14.c3 Nd7 15.c4 Nf6 16.cxd5 Nxd5 17.Bf3 O-O 18.Bxd5 Qxd5 19.Qxd5 exd5 20.Rad1 1/2-1/2

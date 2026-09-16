@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.12"]
+[Round "2.4"]
+[White "Northphrax 8.0.1_bdded80"]
+[Black "Stash 37.24"]
+[Result "1-0"]
+[WhiteElo "3248"]
+[BlackElo "3244"]
+[ECO "B42"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O Qc7 7.Nc3 Bc5 8.Be3 b5 9.Ndxb5 axb5 10.Nxb5 Qc6 11.Bxc5 Qxc5 12.b4 Qxb4 13.Nc7+ Ke7 14.Nxa8 Qb7 15.e5 Ne8 16.Qf3 Nc6 17.a4 Qxa8 18.a5 Qa7 19.Qg3 Bb7 20.Be4 f6 21.a6 Ba8 22.Qa3+ Kf7 23.Qe3 Nc7 24.exf6 Qxe3 25.fxe3 gxf6 26.Rfb1 d5 27.Bd3 Na7 28.Ra4 h6 29.c4 Ke7 30.cxd5 Nxd5 31.Rg4 Nc6 32.e4 Ndb4 33.Rg7+ Kd6 34.Bf1 h5 35.Rf7 Ke5 36.Rb2 h4 37.h3 Rb8 38.a7 Rh8 39.Be2 Kxe4 40.Rxf6 Ke5 41.Rf1 Nd5 42.Ra1 Ndb4 43.Bf3 Kd6 44.Kh2 Kc5 45.Rd2 Nd5 46.Re2 Kd6 47.Re4 Nc7 48.Raa4 Ne5 49.Red4+ Bd5 50.Bxd5 exd5 51.Rxh4 Ra8 52.Rhb4 Nc6 53.Rb7 Ne6 54.Ra1 Nc5 55.Rg7 Ne6 56.Rf7 d4 57.h4 Ned8 58.Rh7 d3 59.h5 Ne5 60.Rh8 Ke7 61.Rg8 Nef7 62.Rg3 Nc6 63.Rxd3 Rxa7 64.Rxa7+ Nxa7 65.Re3+ Kf6 66.Rf3+ Ke7 67.Kg3 Nc6 68.Kf4 Kf6 69.Kg4+ Kg7 70.Rb3 Ne7 71.Kf4 Ng8 72.Rg3+ Kf8 73.Kf5 Ne7+ 74.Ke6 Nd8+ 75.Kd7 Nf7 76.Rf3 Ng8 77.Ke6 Nh6 78.Kf6 Ng8+ 79.Kg6 Ne7+ 80.Kh7 Nc6 81.h6 Ne5 82.Rf4 Nd3 83.Ra4 Nfe5 84.g4 Nc5 85.Ra5 Ncd7 86.g5 Nc6 87.Rf5+ Ke7 88.Kg7 Nd4 89.Rf7+ Ke6 90.h7 Ne5 91.Rf6+ Kd5 92.h8=Q Ke4 93.Qh4+ Kd5 94.Rd6+ Kxd6 95.Qxd4+ Ke6 96.Qxe5+ Kxe5 97.Kf7 Kd4 98.Ke6 Ke4 99.g6 Kf4 100.Kd5 Kg5 101.g7 Kf5 102.g8=Q Kf4 103.Kd4 Kf5 104.Qf7+ Kg4 105.Ke4 Kg3 106.Ke3 Kh4 107.Qg6 Kh3 108.Kf3 Kh4 109.Qg4# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 7: Dahl, Christoph - Nemitz, Alfred"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/Ko1s9FxP"]
+[Date "2026.07.23"]
+[Round "6.7"]
+[White "Dahl, Christoph"]
+[Black "Nemitz, Alfred"]
+[Result "1/2-1/2"]
+[WhiteElo "2393"]
+[BlackElo "2343"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Bxc3+ 6.bxc3 O-O 7.Qc2 c5 8.Bd3 dxc4 9.Bxc4 Qc7 10.Ne2 b6 11.dxc5 Bb7 12.O-O Nbd7 13.Ng3 Rac8 14.Be2 Qxc5 15.Bd2 Ne5 16.e4 Rfd8 17.Rfd1 Qc6 18.f3 Qc5+ 19.Kh1 h6 20.Qa4 a5 21.Qb3 Nd3 22.Bxd3 Rxd3 23.Be1 Ba6 24.Rxd3 Bxd3 25.Rd1 Bb5 26.Rb1 Bd3 27.Rd1 Bb5 28.Rb1 Bc4 29.Qb2 Nd7 30.Rd1 Qc6 31.Nh5 Ne5 32.Qf2 Bb3 33.Rb1 a4 34.Qd4 f6 35.Qf2 Qc7 36.Qg3 Qf7 37.Qh4 Nc4 38.Ra1 Rd8 39.Nf4 Rd1 40.Rxd1 Bxd1 41.Qg4 Bb3 42.Qxe6 Qxe6 43.Nxe6 Nxa3 44.Nd4 Nb1 45.c4 Bd1 46.Nc6 a3 47.Nb4 Bb3 48.Bf2 a2 49.Bd4 Nd2 50.Kg1 Bxc4 51.Bc3 Nb1 52.Bb2 Kf7 53.Kf2 Ke6 54.Ke3 Kd6 55.f4 Kc5 56.Nc2 Bf1 57.g4 Kc4 58.Ba1 Bh3 59.g5 hxg5 60.fxg5 fxg5 61.Nd4 Nc3 62.e5 Nd5+ 63.Kd2 Nf4 64.Ne2 Nxe2 65.Kxe2 Be6 66.Kd2 b5 67.Bb2 Kb3 68.Ba1 Kc4 69.Bb2 g4 70.Ba1 g6 71.Bb2 Kd5 72.Ke3 Bf5 73.e6 Kxe6 74.Bh8 Bb1 75.Kf4 Kd5 76.Ke3 Ke6 77.Kf4 Bc2 78.Ba1 Bd1 79.Bh8 Bf3 80.Ba1 Kd6 81.Ke3 Kc5 82.Bh8 Kc4 83.Kd2 Be4 84.Kc1 Kb3 85.Bg7 Bf5 86.Bf6 Bb1 87.Bh8 Kc4 88.Kb2 Kd5 89.Bf6 Ke6 90.Bh4 Ke5 91.Bg3+ Kd4 92.Bb8 b4 93.Bg3 Ke3 94.Bd6 Kf3 95.Bb8 Kg2 96.Bg3 Kf1 97.Bd6 Kf2 98.Bxb4 g3 99.hxg3 Kxg3 100.Be7 Kf4 101.Bd8 g5 102.Bxg5+ Kxg5 103.Ka1 1/2-1/2

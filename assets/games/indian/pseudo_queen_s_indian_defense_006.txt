@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/miPLuAA4"]
+[Date "2026.07.12"]
+[Round "7.9"]
+[White "Rogule, Laura"]
+[Black "Krustkalns, Kristaps"]
+[Result "1-0"]
+[WhiteElo "2274"]
+[BlackElo "2138"]
+[ECO "A47"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Pseudo Queen's Indian Defense"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 e6 4.Bg2 Ba6 5.Ne5 c6 6.c4 Bb4+ 7.Bd2 Be7 8.O-O O-O 9.Bc3 d5 10.Nd2 Nfd7 11.Nxd7 Nxd7 12.b3 Rc8 13.e4 b5 14.Re1 dxc4 15.bxc4 bxc4 16.Qa4 Bb5 17.Qc2 c5 18.d5 exd5 19.exd5 Bf6 20.a4 Ba6 21.Rad1 Bxc3 22.Qxc3 Nb6 23.Qa5 Bb7 24.Qxa7 Rb8 25.a5 c3 26.Qxb6 cxd2 27.Rxd2 Qxb6 28.axb6 Rfd8 29.Rc1 Rd6 30.Rb2 Bxd5 31.Rd2 Rbd8 32.Rcd1 c4 33.Rxd5 Rxd5 34.Rxd5 1-0

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.08"]
+[Round "7.5"]
+[White "Peng, Li Min"]
+[Black "Mathieu, Phileas"]
+[Result "1/2-1/2"]
+[WhiteElo "2529"]
+[BlackElo "2384"]
+[ECO "B26"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Be3 Rb8 7.Nge2 b5 8.a3 Nd4 9.O-O e6 10.Rb1 Ne7 11.b4 O-O 12.Qd2 a6 13.Nc1 Qc7 14.N3e2 Bb7 15.c3 Nxe2+ 16.Nxe2 Rbc8 17.Rfc1 cxb4 18.axb4 d5 19.Bc5 dxe4 20.dxe4 Rfd8 21.Qe3 Rd7 22.Re1 Nc6 23.f4 Na5 24.Nd4 Nc4 25.Qf2 e5 26.fxe5 Nxe5 27.Rbd1 Re8 28.Qc2 Nc4 29.Nb3 Rxd1 30.Rxd1 Qe5 31.Rd7 Bc6 32.Ra7 Qxc3 1/2-1/2

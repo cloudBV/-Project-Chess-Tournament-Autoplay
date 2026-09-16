@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-3/aTV140P1/v0HeDVwS"]
+[Date "2026.07.01"]
+[Round "3.1"]
+[White "Revuelta Blanco, Daniel"]
+[Black "Villa Tornero, Alex"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2448"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Nc3 Nf6 5.Bg2 Be7 6.O-O O-O 7.d4 cxd4 8.Nxd4 d6 9.Re1 Qc7 10.Be3 Ne5 11.Qe2 a6 12.Rad1 Bd7 13.h3 Rac8 14.a4 Nc4 15.Bc1 Nb6 16.a5 Nc4 17.Nb3 Nxa5 18.Nxa5 Qxa5 19.e5 dxe5 20.Bxb7 Rc7 21.Qxa6 Bb4 22.Qxa5 Bxa5 23.Ba6 Bxc3 24.bxc3 e4 25.c4 Ra7 26.Rd6 Rfa8 27.Bb5 Bxb5 28.cxb5 Rc7 29.Ra6 Rd8 30.Bg5 Rxc2 31.Bxf6 gxf6 32.Rxe4 Rd1+ 33.Kg2 f5 34.Ra8+ Kg7 35.Rf4 Kf6 36.Raa4 Rdd2 37.g4 Rb2 38.gxf5 e5 39.Rf3 Rxb5 40.Ra6+ Kg5 41.Ra7 e4 42.Re3 Rxf5 43.Rxe4 Rdxf2+ 44.Kg1 Rf1+ 45.Kg2 R5f2+ 46.Kg3 f5 47.h4+ Kh5 48.Re5 Rf3+ 49.Kg2 R1f2+ 50.Kg1 Kg4 51.Re1 h5 52.Ra4+ f4 53.Ra3 Rxa3 54.Kxf2 Ra2+ 55.Kg1 Kg3 56.Rb1 f3 57.Rc1 Rg2+ 58.Kf1 Rh2 59.Kg1 f2+ 0-1

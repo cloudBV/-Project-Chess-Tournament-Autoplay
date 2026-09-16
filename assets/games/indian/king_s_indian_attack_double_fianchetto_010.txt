@@ -1,0 +1,15 @@
+[Event "SERBIA OPEN 2026 - CHALLENGERS - СРБИЈА ОПЕН 2026 - ИЗАЗИВАЧИ"]
+[Site "idChess.com"]
+[Date "2026.07.06"]
+[Round "9"]
+[White "Petrovic, Aleksa"]
+[Black "Popchev, Milko"]
+[Result "1/2-1/2"]
+[WhiteElo "2181"]
+[BlackElo "2148"]
+[ECO "A07"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.O-O e5 5.d3 Nc6 6.c3 Nge7 7.Nbd2 a5 8.e4 O-O 9.Qc2 h6 10.b3 Be6 11.Bb2 dxe4 12.dxe4 Qd7 13.Rfd1 Rfd8 14.a3 Qe8 15.h3 Nc8 16.Nh2 Nb6 17.Nhf1 Rd7 18.Ne3 Rad8 19.Kh2 Rd6 20.b4 axb4 21.axb4 Ra8 22.Bf3 Rdd8 23.h4 Nb8 1/2-1/2

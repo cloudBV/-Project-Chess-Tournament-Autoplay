@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "11.8"]
+[White "Krawczyk, Flawian"]
+[Black "Hovakimyan, Vache"]
+[Result "0-1"]
+[WhiteElo "2260"]
+[BlackElo "2185"]
+[ECO "E28"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Ne2 c5 8.Ng3 Nc6 9.Ra2 Qa5 10.Rd2 b6 11.d5 Ne5 12.Be2 exd5 13.cxd5 Ba6 14.O-O Bxe2 15.Qxe2 c4 16.Nf5 Rad8 17.e4 Rfe8 18.f3 Nd3 19.Qe3 Qc5 20.Qd4 b5 21.Ra2 a5 22.Be3 Qxd4 23.Bxd4 Rd7 24.Rb1 Rb8 25.g4 Ne8 26.g5 Rdb7 27.Rc2 Kf8 28.h4 Ne5 29.Kf2 Nd3+ 30.Ke3 Rd7 31.h5 Nc7 32.Bxg7+ Ke8 33.Bd4 Kd8 34.Bf6+ Kc8 35.Ne7+ Kb7 36.Nc6 Re8 37.Nxa5+ Ka6 38.Nc6 Nxd5+ 39.Kd2 Nxf6 40.gxf6 Rg8 41.Ke3 Rg5 42.a4 Rxh5 43.axb5+ Rxb5 44.Ra2+ Kb6 45.Rxb5+ Kxb5 46.Nd4+ Kb6 47.Ra8 d5 48.Rh8 dxe4 49.fxe4 Rd6 50.Rxh7 Rxf6 51.Nf5 Kc5 52.Rh8 Rg6 53.Rc8+ Kb5 54.Kd4 Rc6 55.Nd6+ Rxd6+ 56.Ke3 Ne5 57.Kf4 f6 58.Rb8+ Kc5 59.Rc8+ Rc6 60.Ra8 Rb6 61.Kf5 Nd7 62.Ra5+ Kd6 63.Ra4 Rc6 64.Ra5 Ke7 65.Ra7 Re6 66.Kf4 Re5 67.Rc7 Rc5 68.Ra7 Kd6 69.Ra6+ Rc6 70.Ra5 Ke6 71.Ra7 Ne5 72.Ra8 Rd6 73.Re8+ Kf7 74.Rc8 Rd3 0-1

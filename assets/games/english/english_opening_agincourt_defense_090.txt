@@ -1,0 +1,15 @@
+[Event "Round 7: Tulegen, Ramazan - Anetov, Amirzhan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-7/zeEGIHSu/EoEkiLLa"]
+[Date "2026.07.16"]
+[Round "7.23"]
+[White "Tulegen, Ramazan"]
+[Black "Anetov, Amirzhan"]
+[Result "1-0"]
+[WhiteElo "2162"]
+[BlackElo "2108"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 c5 4.Nf3 Nf6 5.cxd5 exd5 6.d4 Nc6 7.O-O Be7 8.dxc5 Bxc5 9.a3 Ne4 10.Ne1 O-O 11.Nd3 Qb6 12.Nc3 Nxc3 13.bxc3 Be6 14.Qa4 Rac8 15.Bf4 Be7 16.Rfb1 Qa5 17.Qxa5 Nxa5 18.Rb5 b6 19.Bxd5 Bxd5 20.Rxd5 Bf6 21.Rd7 Rxc3 22.Ra2 Nc6 23.Nb4 Rd8 24.Rb7 a5 25.Nxc6 Rxc6 26.Bc7 Rd1+ 27.Kg2 h5 28.Bxb6 Rb1 29.Rb8+ Kh7 30.Ba7 Rxb8 31.Bxb8 a4 32.Rd2 Kg6 33.Bd6 Kf5 34.Bb4 Ke6 35.e4 g6 36.f4 Ba1 37.h3 f6 38.g4 hxg4 39.hxg4 f5 40.exf5+ gxf5 41.gxf5+ Kxf5 42.Kf3 Ke6 43.Kg4 Kf6 44.Rd5 Bc3 45.Ra5 Bxb4 46.axb4 Rb6 47.Rxa4 Rb5 48.Kf3 Rb8 49.Ke4 Rb5 50.Kd4 Rf5 51.Ra1 Rxf4+ 52.Kc5 Ke7 53.Rd1 Rf8 54.b5 Rc8+ 55.Kb6 Rc2 56.Kb7 Rb2 57.b6 Rb3 58.Kc7 Rc3+ 59.Kb8 Rb3 60.b7 Rb2 61.Ra1 Kd7 62.Ka7 Kc7 63.b8=Q+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 1: Neuhoff, Laertes - Windmueller, Simon"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/VLuZBNSr"]
+[Date "2026.07.19"]
+[Round "1.18"]
+[White "Neuhoff, Laertes"]
+[Black "Windmueller, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2306"]
+[BlackElo "2088"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.a3 a6 7.Be3 b5 8.Nxc6 Qxc6 9.Bd3 Bb7 10.Qd2 b4 11.axb4 Bxb4 12.O-O Ne7 13.f3 O-O 14.Qf2 Bxc3 15.bxc3 Qxc3 16.Bc5 Rfe8 17.f4 Rac8 18.Bd4 Qc7 19.Qg3 Ng6 20.f5 Qxg3 21.hxg3 exf5 22.exf5 Ne5 23.Bxe5 Rxe5 24.Bxa6 Bxa6 25.Rxa6 h5 26.Rf2 Rec5 27.Rd6 Rxc2 28.Rxc2 Rxc2 29.Rxd7 Rc5 30.f6 g5 31.g4 h4 32.g3 Rc4 33.gxh4 Rxg4+ 34.Kf2 Rxh4 35.Kg3 Rf4 36.Rd5 Rxf6 37.Rxg5+ Kf8 38.Kg4 Rf1 39.Ra5 Kg7 40.Ra6 f6 41.Ra8 Kg6 42.Rg8+ Kf7 43.Ra8 Rb1 44.Kf5 Rb5+ 45.Kf4 Kg7 46.Rc8 Rd5 47.Ra8 Kg6 48.Rg8+ Kf7 49.Ra8 Re5 50.Rb8 Re1 1/2-1/2

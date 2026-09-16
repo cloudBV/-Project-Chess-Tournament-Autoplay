@@ -1,0 +1,14 @@
+[Event "Round 5: Erne, Raphael - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/MnDhjXh7"]
+[Date "2026.07.19"]
+[Round "5.8"]
+[White "Erne, Raphael"]
+[Black "Alexakis, Dimitris"]
+[Result "0-1"]
+[WhiteElo "2128"]
+[BlackElo "2459"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.d4 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d6 6.Bg2 Nf6 7.Nc3 O-O 8.e4 c5 9.d5 h5 10.h3 h4 11.Nge2 a6 12.f4 Nbd7 13.f5 hxg3 14.Nxg3 Nh5 15.Nxh5 Qh4+ 16.Qf2 Qxh5 17.Bf3 Qh6 18.Ke2 b5 19.Qe3 bxc4 20.Rhg1 Qxe3+ 21.Kxe3 Nf6 22.Rg2 Kh7 23.Rag1 Rg8 24.Be2 g6 25.fxg6+ Rxg6 26.Rxg6 fxg6 27.Bxc4 Kg7 28.b3 Bxh3 29.Na4 a5 30.Nc3 Bd7 31.Bb5 Bg4 32.Bc6 Rh8 33.Nb5 Rh3+ 34.Kd2 Nxe4+ 35.Kc2 Bf5 36.Kb2 g5 37.Nc7 Rh2+ 38.Ka3 Nc3 39.b4 cxb4+ 40.Kb3 Bc2+ 41.Kb2 Bd1+ 42.Kc1 Rc2# 0-1

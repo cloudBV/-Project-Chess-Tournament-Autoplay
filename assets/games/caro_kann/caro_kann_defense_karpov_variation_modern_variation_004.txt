@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "29.1"]
+[White "ice4 6.1.1"]
+[Black "Northphrax 8.0.1_bdded80"]
+[Result "1/2-1/2"]
+[WhiteElo "3156"]
+[BlackElo "3248"]
+[ECO "B17"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation, Modern Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Nb6 6.N1f3 g6 7.c3 Bg7 8.Bd3 Nf6 9.Ne5 O-O 10.O-O h6 11.Ngf3 Bf5 12.Bxf5 gxf5 13.a4 a5 14.c4 e6 15.Ra3 Qc7 16.Rb3 Rfd8 17.c5 Nbd7 18.Nd3 Nd5 19.Re1 N7f6 20.Nfe5 Ne7 21.Be3 Ned5 22.Nc4 Ng4 23.g3 Rab8 24.Qc2 Qe7 25.Kg2 Ndxe3+ 26.fxe3 Qd7 27.Kg1 h5 28.Re2 Qe7 29.h3 Nf6 30.Rg2 Ne4 31.h4 Nf6 32.Nxa5 Ng4 33.Nc4 e5 34.Ndxe5 Bxe5 35.Nxe5 Nxe5 36.dxe5 Qxe5 37.Kh2 Rd5 38.Qe2 Qe4 39.Qxh5 Qxa4 40.Qg5+ Kf8 41.Rb6 Qe4 42.Qh6+ Kg8 43.Qf4 Qxf4 44.exf4 Rxc5 45.Kh3 Re8 46.Rxb7 Rc1 47.h5 Rh1+ 48.Rh2 Rxh2+ 49.Kxh2 Kg7 50.Kh3 Re1 51.Rc7 Rh1+ 52.Kg2 Rc1 53.b4 Rc2+ 54.Kh3 Rc4 55.Kh4 Rxb4 56.Rxc6 Rb1 57.h6+ Kg8 58.Kh5 Rh1+ 59.Kg5 Rh3 60.Rc3 Kh7 61.Kxf5 Rxh6 62.Rc7 Kg7 63.g4 Rb6 64.Kg5 Rb5+ 65.f5 Ra5 66.Rc6 Ra1 67.Kh4 Rh1+ 68.Kg3 Rf1 69.Kh3 Rh1+ 70.Kg2 Rb1 71.Kh2 Rb3 72.Rd6 Rc3 73.Kg2 Ra3 74.Kf2 Rh3 75.Rb6 Ra3 76.f6+ Kg6 77.Rb7 Kxf6 78.Rc7 Ra2+ 79.Kg3 Ra3+ 80.Kh4 Rb3 81.Rc6+ Kg7 82.Ra6 Rb1 83.Rd6 Rh1+ 84.Kg5 Rf1 85.Ra6 f6+ 86.Kh4 Rh1+ 87.Kg3 Rg1+ 88.Kf4 Rf1+ 89.Ke3 Re1+ 90.Kf3 Kg6 91.Ra8 Rf1+ 92.Kg2 Rb1 93.Rg8+ Kh6 94.Kg3 Rb3+ 95.Kf4 Rb2 96.Rd8 Kg7 97.Rd4 Kg6 98.Kg3 Rb3+ 99.Kh4 Rb1 100.Rd2 Rh1+ 101.Kg3 Rg1+ 102.Kh3 Rh1+ 103.Kg2 Rc1 104.Rd8 Rc2+ 105.Kg3 Rc3+ 106.Kh4 Rc1 107.Rg8+ Kh7 108.Rb8 Rh1+ 109.Kg3 Rg1+ 110.Kh3 Rh1+ 111.Kg2 Ra1 112.Rb5 Kg6 113.Kg3 Rg1+ 114.Kf3 Rf1+ 115.Ke3 Re1+ 116.Kf2 Ra1 117.Rh5 Ra2+ 118.Kg3 Ra3+ 119.Kh2 Ra2+ 120.Kh3 Ra3+ 121.Kh4 Ra1 122.Rc5 Rh1+ 123.Kg3 Rg1+ 124.Kh3 Rh1+ 125.Kg2 Ra1 126.Kf2 Ra2+ 127.Ke3 Ra4 128.Kf3 1/2-1/2

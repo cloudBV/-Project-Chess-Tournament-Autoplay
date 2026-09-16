@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.06.22"]
+[Round "8.1"]
+[White "Hagner, Bennet"]
+[Black "Antipov, Mikhail Al."]
+[Result "0-1"]
+[WhiteElo "2451"]
+[BlackElo "2626"]
+[ECO "B40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 d5 5.exd5 Qxd5 6.O-O Be7 7.Re1 Qd7 8.Na3 Bf6 9.Nc4 Nge7 10.d3 b6 11.Nfe5 Bxe5 12.Nxe5 Nxe5 13.Bxa8 N5c6 14.b4 cxb4 15.a3 b3 16.Bb2 O-O 17.Qg4 Nf5 18.Qe4 Na5 19.cxb3 Nxb3 20.Rad1 Nfd4 21.Qf4 Rd8 22.Bxd4 Qxd4 23.Be4 f5 24.Bc6 Qxf4 25.gxf4 Rd4 26.Rb1 Nc5 27.Bb5 Bb7 28.Rb4 Rd6 29.Rc1 a5 30.Rb2 Kf7 31.Kf1 Bf3 32.Bc4 Kf6 33.Rcb1 Na4 34.Rc2 Rd4 35.Re1 Nc5 36.Rb2 Rd6 37.Reb1 Na4 38.Rc2 h6 39.Ke1 Rd4 40.Kd2 Rxf4 41.Bb5 Bd5 42.Ke3 g5 43.Rc8 Rh4 44.d4 Rh3+ 45.Kd2 Rxa3 46.Rbc1 g4 47.Rg8 e5 48.Rf8+ Kg5 49.Bd7 Be4 50.Bxa4 Rxa4 51.dxe5 Rd4+ 52.Kc3 Rd3+ 53.Kb2 Rd2+ 54.Kc3 Re2 55.Rd1 b5 56.e6 b4+ 57.Kc4 Bc2 58.Rd6 Re4+ 59.Kc5 b3 60.Rb6 a4 61.Ra8 b2 62.Rxb2 Bb3 63.Rxb3 axb3 64.Kd6 b2 65.Rb8 b1=Q 66.Rxb1 Kf6 67.Kd5 Rxe6 68.Kd4 Kg5 0-1

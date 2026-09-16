@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-6/1Djz4Ac6/yxcNfIus"]
+[Date "2026.07.23"]
+[Round "6.8"]
+[White "Skovgaard, Andreas"]
+[Black "Sylvan, Jacob"]
+[Result "1/2-1/2"]
+[WhiteElo "2175"]
+[BlackElo "2314"]
+[ECO "E52"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Schlechter Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 b6 7.cxd5 exd5 8.O-O Bb7 9.Qa4 Bd6 10.Qc2 a6 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 Bxe4 14.Qxe4 Nd7 15.Bg5 Re8 16.Qf5 Be7 17.Bf4 Nf6 18.Rac1 Bd6 19.Be5 h6 20.Rc6 Re6 21.Bxd6 Rxd6 22.Rfc1 Rxc6 23.Rxc6 Qe7 24.Qc2 Nd5 25.h3 Rd8 26.a3 a5 27.g3 Rd6 28.Rxd6 Qxd6 29.Qf5 g6 30.Qe4 Kg7 31.h4 1/2-1/2

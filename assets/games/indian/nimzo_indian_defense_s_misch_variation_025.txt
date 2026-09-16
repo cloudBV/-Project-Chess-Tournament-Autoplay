@@ -1,0 +1,15 @@
+[Event "Round 3: Makoveev, Ilya - Paichadze, Luka"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-3/ENOyEKsM/wLkP4OSz"]
+[Date "2026.07.14"]
+[Round "3.1"]
+[White "Makoveev, Ilya"]
+[Black "Paichadze, Luka"]
+[Result "1/2-1/2"]
+[WhiteElo "2337"]
+[BlackElo "2465"]
+[ECO "E28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 Nc6 7.Bd3 e5 8.Ne2 e4 9.Bb1 Na5 10.Ng3 Nxc4 11.Nxe4 d5 12.Nxf6+ Qxf6 13.Qh5 g6 14.Qxd5 Be6 15.Qf3 Qxf3 16.gxf3 f5 17.a4 Rfe8 18.Ke2 a5 19.Bd3 Ra6 20.Rb1 Rb6 21.Rxb6 Nxb6 22.Bd2 Nc4 23.Rb1 b6 24.e4 c6 25.Bf4 Re7 26.h4 Kf7 27.Bg5 Re8 28.Bf4 Re7 29.Bg5 1/2-1/2

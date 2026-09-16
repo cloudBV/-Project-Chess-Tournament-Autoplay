@@ -1,0 +1,15 @@
+[Event "Round 9: Romero Barreto, Jaime Jose - Sree Shaunak Chanda"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-9/zGvTvuUZ/68bN4g9O"]
+[Date "2026.07.21"]
+[Round "9.9"]
+[White "Romero Barreto, Jaime Jose"]
+[Black "Sree Shaunak Chanda"]
+[Result "1-0"]
+[WhiteElo "2323"]
+[BlackElo "2147"]
+[ECO "A06"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Old Indian Attack"]
+
+1.Nf3 d5 2.d3 Nd7 3.e4 dxe4 4.dxe4 e6 5.Be2 Bd6 6.Nbd2 Ngf6 7.O-O O-O 8.Re1 e5 9.Bf1 Nc5 10.h3 b6 11.b4 Nb7 12.a3 a5 13.Rb1 axb4 14.axb4 Qe7 15.c3 Rd8 16.Qc2 c6 17.Nc4 b5 18.Nb6 Rb8 19.Nxc8 Rbxc8 20.Be3 c5 21.bxc5 Nxc5 22.Bxc5 Bxc5 23.Rxb5 Nh5 24.Rd1 Rxd1 25.Qxd1 Rd8 26.Qc2 h6 27.Bc4 Nf4 28.Kh2 Qd6 29.Rb7 Rf8 30.g3 Ng6 31.Kg2 Ne7 32.Qa4 Kh8 33.Qd7 Qxd7 34.Rxd7 f6 35.Ne1 Nc8 36.Be6 Bb6 37.Rb7 Ba5 38.Rb8 Bxc3 39.Nd3 Rd8 40.Rxc8 Rxc8 41.Bxc8 g6 42.g4 Kg7 43.Kf3 Bd4 44.Ke2 Kf7 45.Nb4 h5 46.gxh5 gxh5 47.Bf5 Bc5 48.Nd3 Bd6 49.Kf3 Kg7 50.Nc1 Kh6 51.h4 Bc5 52.Ne2 Ba7 53.Ng3 Bb6 54.Bd7 1-0

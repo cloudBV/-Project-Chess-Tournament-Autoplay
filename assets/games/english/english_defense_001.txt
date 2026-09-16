@@ -1,0 +1,14 @@
+[Event "Round 7: Eriksson, Jorgen - Aroven, Mikael"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/3yEeu7Uj"]
+[Date "2026.07.02"]
+[Round "7.19"]
+[White "Eriksson, Jorgen"]
+[Black "Aroven, Mikael"]
+[Result "1/2-1/2"]
+[WhiteElo "2144"]
+[BlackElo "2084"]
+[ECO "A40"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 b6 2.e4 Bb7 3.Nc3 e6 4.Bd3 d6 5.f4 Qh4+ 6.g3 Qe7 7.Nf3 g6 8.O-O Nd7 9.a4 a6 10.Bd2 Bg7 11.Rb1 c5 12.d5 Ngf6 13.dxe6 Qxe6 14.Nd5 Bxd5 15.Ng5 Qe7 16.exd5 O-O 17.Re1 Qd8 18.c4 Re8 19.Bc3 Rxe1+ 20.Qxe1 Qe8 21.Qd2 Nf8 22.b3 h6 23.Re1 Qd7 24.Nf3 Re8 25.Kg2 Rxe1 26.Qxe1 Qe8 27.a5 N8d7 28.axb6 Qxe1 29.Bxe1 Nxb6 30.Ba5 Nbd7 31.Ne1 Kf8 32.Nc2 Ne8 33.Kf3 f5 34.h3 h5 35.g4 fxg4+ 36.hxg4 hxg4+ 37.Kxg4 Kf7 38.Ne3 Bh6 39.Kf3 Bg7 40.Ng4 Nef6 41.Nxf6 Bxf6 42.Bf1 Bb2 43.Bh3 Ke7 44.Be6 Bc1 45.Bc3 Nf6 46.Be1 a5 47.Bxa5 Nh5 48.f5 gxf5 49.Bxf5 Nf6 50.Be1 Bg5 51.Bg3 Bc1 52.Bh4 Bd2 53.Ke2 Bf4 54.Kd3 Be5 55.Kc2 Kd8 56.Kd3 Ke7 57.Be1 Nh5 58.Kc2 Kf6 59.Bg4 Ng3 60.Bd2 Ne4 61.Be3 Ng5 62.Kd3 Bg3 63.Bd2 Be5 64.Ba5 Ke7 65.b4 cxb4 66.Bxb4 Kd8 67.Bd2 Bf6 68.Bf4 Ke7 69.Bh5 Nh3 70.Bg3 Ng5 71.Bh2 Kd7 72.Bg4+ Ke7 73.Be2 Kd7 74.Ke3 Ke7 75.Bd3 Bb2 76.Bg3 Bc1+ 77.Ke2 Bb2 78.Kd1 Nf7 79.Kc2 Be5 80.Bf2 Bf6 81.Kb3 Kd7 82.Kb4 Bg5 83.Kb5 Ne5 84.Be2 Bf6 85.Bb6 Bh4 86.Bf1 Be1 1/2-1/2

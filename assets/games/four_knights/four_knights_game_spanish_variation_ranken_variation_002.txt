@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.3"]
+[White "Aydogan, Arya"]
+[Black "Malicka, Magdalena"]
+[Result "1-0"]
+[WhiteElo "2056"]
+[BlackElo "2017"]
+[ECO "C48"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Ranken Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6 dxc6 6.Nxe5 Bc5 7.O-O O-O 8.d3 Re8 9.Nf3 Bg4 10.h3 Bh5 11.Bg5 h6 12.Bxf6 Qxf6 13.g4 Bg6 14.Kg2 Rad8 15.Qe2 h5 16.Nd2 Qf4 17.Nb3 Bd6 18.Rh1 Qg5 19.Qf3 Re6 20.Nd4 Rf6 21.Nf5 Bf4 22.Kf1 Bxf5 23.exf5 Bc1 24.Ne4 Qh6 25.Nxf6+ gxf6 26.Kg2 Bxb2 27.Rab1 Be5 28.Rb4 c5 29.Re4 b5 30.gxh5 Kh8 31.Rhe1 Qh7 32.Rg4 b4 33.Ree4 a5 34.h6 a4 35.Rh4 Rg8+ 36.Reg4 Rg5 37.Qa8+ Rg8 38.Rxg8+ Qxg8+ 39.Qxg8+ Kxg8 40.h7+ Kh8 41.Kf3 Bd4 42.Re4 Be5 43.Rh4 Bd4 44.Rh6 a3 45.Ke4 c6 46.f3 Bb2 47.Rh4 Bd4 48.Rg4 Kxh7 49.h4 Be5 50.h5 Bb2 51.h6 Kxh6 52.Rg8 Bc3 53.Rc8 Kg5 54.Rxc6 Bd4 55.Rc7 Kh6 56.Rxf7 Be5 57.f4 Bd4 58.Kd5 Kh5 59.Ke6 Kg4 60.Rxf6 Bxf6 61.Kxf6 Kxf4 62.Ke6 Ke3 63.f6 Kd2 64.f7 Kxc2 65.f8=Q Kxd3 66.Qxc5 1-0

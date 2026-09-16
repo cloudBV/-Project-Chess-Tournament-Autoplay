@@ -1,0 +1,15 @@
+[Event "Gambitul Calului Editia 7 - Clasic"]
+[Site "CalCool, Romania"]
+[Date "2026.07.18"]
+[Round "3.2"]
+[White "Coca, Cristi-Iulian"]
+[Black "Horvat, Dan-Sebastian"]
+[Result "1-0"]
+[WhiteElo "2225"]
+[BlackElo "2014"]
+[ECO "A08"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d3 Bg7 6.Nc3 d4 7.Na4 Nfd7 8.c4 Nc6 9.a3 Qc7 10.Rb1 b6 11.b4 Bb7 12.bxc5 bxc5 13.Nd2 Rb8 14.Ne4 Nd8 15.f3 f5 16.Nf2 Ne6 17.Re1 f4 18.gxf4 Nxf4 19.Bxf4 Qxf4 20.Bh3 Qc7 21.Bxd7+ Kxd7 22.Rb5 Bc6 23.Nxc5+ Kc8 24.Ne6 Rxb5 25.Nxc7 Rg5+ 26.Kf1 Kxc7 27.Qd2 Rh5 28.Rb1 a5 29.Qb2 Rxh2 30.Qb6+ Kd7 31.Qa7+ Kd6 32.c5+ Kd5 1-0

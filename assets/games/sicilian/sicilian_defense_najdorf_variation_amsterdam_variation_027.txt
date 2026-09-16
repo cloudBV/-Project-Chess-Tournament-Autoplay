@@ -1,0 +1,14 @@
+[Event "Round 8: Klundt, Klaus - Brueggemann, Joachim"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-8/2E3aV6Aw/vTsQhocL"]
+[Date "2026.07.24"]
+[Round "8.2"]
+[White "Klundt, Klaus"]
+[Black "Brueggemann, Joachim"]
+[Result "0-1"]
+[WhiteElo "2201"]
+[BlackElo "2244"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Qc7 9.Bd3 b6 10.O-O Bb7 11.Kh1 Be7 12.Qe2 O-O 13.Nh4 Rfe8 14.fxe5 Nxe5 15.Nf5 Bf8 16.Bg5 Nfd7 17.Ne3 Nc5 18.Ncd5 Bxd5 19.Nxd5 Qb7 20.Be3 b5 21.axb5 axb5 22.Rxa8 Rxa8 23.Bxc5 dxc5 24.Bxb5 Ra5 25.Nc3 Qa7 26.b3 Ra1 27.Bc4 Rxf1+ 28.Qxf1 Qa5 29.Nd1 Qd2 30.c3 Be7 31.Nf2 h5 32.Nd3 Nxc4 33.bxc4 Qxc3 34.Nf4 Qe5 35.Nd5 Bd6 36.g3 Qxe4+ 37.Kg1 Be5 38.Qh3 g6 0-1

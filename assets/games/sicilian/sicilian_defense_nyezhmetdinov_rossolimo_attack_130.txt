@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/IfPfJqCx"]
+[Date "2026.07.22"]
+[Round "4.4"]
+[White "Haubro-Suppanz, Martin"]
+[Black "Sengupta, Deep"]
+[Result "0-1"]
+[WhiteElo "2375"]
+[BlackElo "2473"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Ne7 6.Nc3 f6 7.h4 e5 8.h5 d5 9.Nh2 Be6 10.f4 exf4 11.Bxf4 g5 12.hxg6 hxg6 13.exd5 Nxd5 14.Nxd5 Qxd5 15.Qe2 O-O-O 16.c4 Qd7 17.O-O-O Bf5 18.Rhe1 g5 19.Bg3 g4 20.Bf4 Qd4 21.Be3 Qxe3+ 22.Qxe3 Bh6 23.Nf1 Bxd3 24.Qxh6 Rxh6 25.Nd2 Rh2 26.g3 Be2 27.Nf1 Rxd1+ 28.Rxd1 Rh1 0-1

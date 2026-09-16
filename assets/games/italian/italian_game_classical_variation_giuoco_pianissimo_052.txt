@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.05.19"]
+[Round "8.1"]
+[White "Biro, Beata"]
+[Black "Terbe, Julianna"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2252"]
+[ECO "C54"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d5 7.exd5 Nxd5 8.Re1 Bg4 9.Nbd2 Nb6 10.Qe2 Nxc4 11.Nxc4 Re8 12.Ncd2 Bf8 13.h3 Bh5 14.Nf1 h6 15.Ng3 Bg6 16.d4 exd4 17.Qxe8 Qxe8 18.Rxe8 Rxe8 19.cxd4 Rd8 20.Be3 Nb4 21.Ne5 Bh7 22.Rc1 f6 23.Nc4 c6 24.b3 g5 25.Ne2 Nd5 26.Bd2 Bd3 27.Nc3 f5 28.Nxd5 Rxd5 29.Bc3 f4 30.Re1 Bg6 31.Ne5 Bf5 32.Kh2 a5 33.Nc4 b5 34.Ne5 c5 35.Nc6 b4 36.Bb2 Bd7 37.Nxa5 cxd4 38.Nc4 Bf5 39.Rd1 Bg7 40.Kg1 Rd8 41.Rd2 Kf7 42.Kf1 Bb1 43.a4 bxa3 44.Nxa3 Bg6 45.Nc4 Ke6 46.Re2+ Kd5 47.Re7 Bf6 48.Rb7 Bd3+ 49.Ke1 Bxc4 50.bxc4+ Kxc4 51.Kd2 f3 52.gxf3 Be5 53.Rb6 h5 54.Rc6+ Kd5 55.Rb6 Rf8 56.Rb5+ Ke6 57.Rb6+ Kf5 58.Ke2 Rc8 59.Kd1 Kf4 60.Rb3 Rc5 61.Bc1+ Kf5 62.Bb2 Ra5 63.Ke2 Ra2 64.Ke1 h4 65.Rb5 Ke6 66.Kd1 Ra8 67.Kd2 Rf8 68.Rb6+ Kf5 69.Ke2 Rc8 70.Kd1 Rc5 71.Rb7 Ke6 72.Kd2 Ra5 73.Kd3 Rd5 74.Rb4 Kf5 75.Rb7 Bf6 76.Rb3 Re5 77.Kd2 Ra5 78.Kd1 Be5 79.Rb7 d3 80.Bxe5 Kxe5 81.Rb4 Ra2 82.Ke1 Re2+ 83.Kf1 Rc2 84.Ke1 Ra2 85.Rc4 Kf5 86.Rd4 Ra1+ 87.Kd2 Rh1 88.Ke3 Re1+ 89.Kd2 Re2+ 90.Kxd3 Rxf2 91.Ke3 Rh2 92.Rd5+ Kg6 93.Rd4 Rxh3 94.Kf2 Rh2+ 95.Kg1 Ra2 96.Rb4 Kf5 97.Rc4 Rd2 98.Ra4 Rd5 99.Kg2 Kg6 100.Rb4 Rd2+ 101.Kg1 Kf5 102.Ra4 h3 103.Rb4 Rg2+ 104.Kf1 Rg3 105.Kf2 h2 106.Rb1 Rh3 107.Kg2 Rh8 108.Re1 Rh7 109.Ra1 Rh4 110.Ra5+ Kg6 111.Ra1 Kh5 112.Rh1 g4 113.fxg4+ Kxg4 114.Rxh2 Rxh2+ 115.Kxh2 1/2-1/2

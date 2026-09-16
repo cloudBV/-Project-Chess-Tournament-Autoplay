@@ -1,0 +1,15 @@
+[Event "Round 6: Sindarov, Javokhir - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-6/eCjfuTCE/k80KOPjA"]
+[Date "2026.07.05"]
+[Round "6.2"]
+[White "Sindarov, Javokhir"]
+[Black "Woodward, Andy"]
+[Result "1-0"]
+[WhiteElo "2680"]
+[BlackElo "2496"]
+[ECO "B23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.Bb5+ Bd7 6.Bc4 Nc6 7.d3 e6 8.f5 Nf6 9.fxe6 Bxe6 10.O-O O-O 11.Bb3 Nd7 12.Bg5 Qb6 13.Kh1 Nde5 14.Nxe5 Nxe5 15.Nd5 Bxd5 16.Bxd5 Kh8 17.Qd2 Rae8 18.c3 Qa6 19.d4 cxd4 20.cxd4 Nc6 21.Bf6 Qb6 22.Rad1 Nb4 23.Bb3 Bxf6 24.Rxf6 Rxe4 25.h3 Nc6 26.Qh6 Qd8 27.Rdf1 Re7 28.Bxf7 Nxd4 29.Bxg6 Rxf6 30.Rxf6 Rg7 31.Bxh7 d5 32.Bg6+ Kg8 33.Bf7+ 1-0

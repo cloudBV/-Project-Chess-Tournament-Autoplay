@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.21"]
+[Round "1.1"]
+[White "Korobov, Anton"]
+[Black "Kredl, Karel"]
+[Result "1-0"]
+[WhiteElo "2614"]
+[BlackElo "2054"]
+[ECO "B58"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nf3 Be7 8.O-O O-O 9.Re1 h6 10.Bf1 Bg4 11.h3 Bh5 12.g4 Bg6 13.Bg2 a6 14.Nh4 Bh7 15.Nf5 Bxf5 16.exf5 Rc8 17.Be3 b5 18.a4 b4 19.Nd5 Nxd5 20.Qxd5 a5 21.Rad1 Qc7 22.c4 Rfd8 23.Qb5 Na7 24.Qb6 Rd7 25.b3 Nc6 26.Qxc7 Rdxc7 27.Rd5 Rb8 28.Rb5 Rxb5 29.axb5 Nd4 30.b6 Rc8 31.Bxd4 1-0

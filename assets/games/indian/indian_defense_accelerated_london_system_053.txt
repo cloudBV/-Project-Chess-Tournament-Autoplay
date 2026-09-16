@@ -1,0 +1,15 @@
+[Event "Round 6: Molner, Mackenzie - Plotkin, Mark"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/JrDSkLf3"]
+[Date "2026.07.18"]
+[Round "6.7"]
+[White "Molner, Mackenzie"]
+[Black "Plotkin, Mark"]
+[Result "1-0"]
+[WhiteElo "2458"]
+[BlackElo "2358"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c6 3.Nf3 Qb6 4.Qc1 d5 5.e3 Bf5 6.c4 h6 7.Nc3 g5 8.Bg3 Nbd7 9.cxd5 Nxd5 10.Bc4 N7f6 11.O-O Bg7 12.Ne5 O-O 13.Re1 Bh7 14.Na4 Qd8 15.Nc5 Ne4 16.Nxb7 Qb6 17.Nc5 Nxc5 18.dxc5 Qxc5 19.e4 Bxe4 20.Rxe4 f5 21.Nd7 1-0

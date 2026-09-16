@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "8.6"]
+[White "Stepinski, Piotr"]
+[Black "Nagly, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2138"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.Qd3 b5 8.Nxc6 dxc6 9.Qg3 Qxg3 10.hxg3 Nf6 11.e5 Nd5 12.Nxd5 cxd5 13.Be3 Bb7 14.Bd4 Be7 15.Bd3 h6 16.Ke2 Kd7 17.f4 f5 18.exf6 gxf6 19.Rh5 Rag8 20.Kf2 Rf8 21.Rah1 e5 22.Bf5+ Kd6 23.Bc3 Kc6 24.Rxh6 Rxh6 25.Rxh6 d4 26.Bd2 Bd6 27.Be4+ Kb6 28.Bxb7 Kxb7 29.Kf3 Kc6 30.Ke4 f5+ 31.Kd3 Rg8 32.fxe5 Rxg3+ 33.Ke2 Rxg2+ 34.Kd1 Kd5 35.exd6 Rg7 36.d7 Rxd7 37.Rxa6 Ke4 38.Re6+ Kf3 39.Re5 Rf7 40.Rxb5 f4 41.Rg5 Kf2 42.Bxf4 Rxf4 43.Kd2 Kf3 44.Kd3 Rh4 45.Rf5+ Kg4 46.Rf8 Kg3 47.a4 Kg2 48.Rd8 Kf2 49.Rxd4 1-0

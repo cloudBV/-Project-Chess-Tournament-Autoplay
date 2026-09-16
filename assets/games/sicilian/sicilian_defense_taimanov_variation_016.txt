@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.01.28"]
+[Round "4.1"]
+[White "Razafindratsima, Timothe"]
+[Black "Sonis, Francesco"]
+[Result "1-0"]
+[WhiteElo "2523"]
+[BlackElo "2540"]
+[ECO "B46"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.a3 Qc7 7.Be3 b5 8.Nxc6 Qxc6 9.Be2 Bb7 10.Qd3 Bc5 11.O-O-O Bxe3+ 12.Qxe3 Ne7 13.h4 Rc8 14.Rd2 O-O 15.Rhd1 Rcd8 16.h5 h6 17.g4 Qc7 18.g5 hxg5 19.Qxg5 f6 20.Qe3 f5 21.Qg5 d5 22.h6 g6 23.exd5 exd5 24.Bh5 Rd6 25.Re2 Rf7 26.Rde1 Kf8 27.Bxg6 Rxg6 28.Qxg6 1-0

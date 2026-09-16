@@ -1,0 +1,15 @@
+[Event "Round 6: Khubukshanov, Erdem - Metin, Enis"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/5iHbxNJU"]
+[Date "2026.07.02"]
+[Round "6.17"]
+[White "Khubukshanov, Erdem"]
+[Black "Metin, Enis"]
+[Result "1-0"]
+[WhiteElo "2523"]
+[BlackElo "2184"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nc6 6.Bb5 Bd7 7.Nxc6 bxc6 8.Bd3 Bd6 9.Qe2 Ne7 10.e5 Bc7 11.Nf3 Ng6 12.O-O O-O 13.Ng5 Qe8 14.f4 Bb6+ 15.Kh1 h6 16.Nf3 c5 17.c3 a5 18.b3 Bc6 19.Be3 Qd7 20.Rad1 Rfd8 21.Bb1 Bb5 22.c4 Bc6 23.Qf2 d4 24.Qg3 Qb7 25.Bc1 Be4 26.Bxe4 Qxe4 27.Rde1 Qd3 28.f5 exf5 29.e6 f4 30.exf7+ Kh8 31.Qg4 Rf8 32.Qe6 Bc7 33.Rd1 Qc2 34.Rd2 Qb1 35.Rg1 Rfc8 36.Rb2 Qd3 37.Ne1 Qd1 38.Qxg6 Qxc1 39.Re2 1-0

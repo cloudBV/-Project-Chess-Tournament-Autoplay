@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "6.1"]
+[White "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Black "WaspHCE 7.16"]
+[Result "1/2-1/2"]
+[WhiteElo "3246"]
+[BlackElo "3194"]
+[ECO "B46"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.Be2 Nge7 7.Nb3 Ng6 8.Be3 b5 9.O-O Qc7 10.f4 Be7 11.g3 O-O 12.h4 Rd8 13.Qe1 d6 14.Qf2 Re8 15.Rad1 Nf8 16.g4 Nd7 17.g5 Rb8 18.h5 Nb6 19.f5 Nc4 20.Bxc4 bxc4 21.Nd4 Nxd4 22.Rxd4 Bd8 23.h6 exf5 24.exf5 Re5 25.Ne4 Bxf5 26.Nxd6 Bg6 27.Nxc4 Rc5 28.Bf4 Rxg5+ 29.Bxg5 Bxg5 30.Qh2 Qa7 31.Qe5 gxh6 32.c3 f6 33.Qg3 f5 34.Kh2 f4 35.Qf3 Kh8 36.Re1 Rf8 37.Ne5 Bf5 38.Nd3 Qb8 39.Nxf4 Bc8 40.Rf1 Bf6 41.Qe3 a5 42.Rd5 Bg5 43.Qd4+ Bf6 44.Qc5 Be7 45.Qd4+ Bf6 46.Qd2 a4 47.Qe3 Ba6 48.Rf2 Re8 49.Qh3 Bg7 50.Qh4 Bb7 51.Rd7 Bc6 52.Rf7 Rg8 53.c4 Qd6 54.Re2 Be5 55.Rxe5 Qxe5 56.Qf6+ Qxf6 57.Rxf6 Rc8 58.b4 axb3 59.axb3 Kg7 60.Rd6 Be4 61.Kg3 Bc2 62.Ne6+ Kf7 63.Nd4 Bxb3 64.Nxb3 Rxc4 65.Nd4 h5 66.Kh4 Ke7 67.Rd5 Rc1 68.Kxh5 Rf1 69.Kg5 Rg1+ 70.Kh6 Rh1+ 71.Kg5 h6+ 72.Kf4 Rf1+ 73.Ke5 Kf7 74.Rd6 Re1+ 75.Kf5 Rf1+ 76.Ke5 Re1+ 77.Kf5 Ke8 78.Nc6 Kf7 79.Ne5+ Kg8 80.Rxh6 Rf1+ 81.Ke6 Kg7 82.Rg6+ Kh7 83.Rg2 Kh6 84.Nf7+ Kh5 85.Nd6 Re1+ 86.Kf6 Rc1 87.Rg5+ Kh4 88.Nf5+ Kh3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 1: Marabajan Navas, Saul - Gormally, Daniel W"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-1/93PU6fmJ/v6AqXNbS"]
+[Date "2026.07.13"]
+[Round "1.7"]
+[White "Marabajan Navas, Saul"]
+[Black "Gormally, Daniel W"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2397"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.Bg5 Nbd7 6.e4 dxe4 7.fxe4 h6 8.Bxf6 Qxf6 9.a3 Bxc3+ 10.bxc3 Qh4+ 11.Kd2 Qxe4 12.Nf3 c5 13.Bd3 Qf4+ 14.Ke2 cxd4 15.cxd4 e5 16.Kf2 O-O 17.Re1 exd4 18.Re4 Qf6 19.Rxd4 Ne5 20.Be4 Be6 21.Rc1 Rad8 22.Bd5 b5 23.Kg1 Nxf3+ 24.gxf3 bxc4 25.Rcxc4 Qg5+ 26.Kf2 Rxd5 0-1

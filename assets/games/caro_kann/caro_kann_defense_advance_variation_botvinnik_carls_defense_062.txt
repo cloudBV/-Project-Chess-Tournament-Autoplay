@@ -1,0 +1,14 @@
+[Event "Round 2: Govoreanu, Matei - Ushenina, Anna"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-2/vaQgyEpD/5TOjqUa8"]
+[Date "2026.07.19"]
+[Round "2.4"]
+[White "Govoreanu, Matei"]
+[Black "Ushenina, Anna"]
+[Result "1/2-1/2"]
+[WhiteElo "2139"]
+[BlackElo "2426"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.Qg4 Ne7 7.Nf3 Ng6 8.Bd3 Nc6 9.O-O O-O 10.Qh5 Qc7 11.Re1 Bd7 12.b4 Bb6 13.Bb2 h6 14.Qg4 Nce7 15.Nbd2 a5 16.h4 Rfd8 17.h5 Nf8 18.b5 a4 19.Nd4 Nh7 20.N2f3 1/2-1/2

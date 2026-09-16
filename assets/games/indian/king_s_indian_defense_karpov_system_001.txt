@@ -1,0 +1,15 @@
+[Event "Round 2: Gupta, Abhijeet - Aswath, S"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-2/FaJqWXz5/l7Vq5qBq"]
+[Date "2026.07.01"]
+[Round "2.4"]
+[White "Gupta, Abhijeet"]
+[Black "Aswath, S"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2517"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nc6 7.d5 Ne5 8.f4 Ned7 9.Nge2 c6 10.Ng3 h5 11.Bd3 cxd5 12.cxd5 b6 13.O-O Nc5 14.Bc2 Ba6 15.Re1 Nfd7 16.Nge2 Bxe2 17.Qxe2 b5 18.Nxb5 Bxb2 19.Rab1 Bg7 20.Nd4 Qc7 21.Rbc1 Qb6 22.Nc6 Rae8 23.e5 e6 24.exd6 exd5 25.Ne7+ Kh8 26.Bxg6 fxg6 27.Nxg6+ Kg8 28.Ne7+ Rxe7 29.dxe7 Re8 30.Qxh5 Rxe7 31.Qxd5+ Kh8 32.Bxc5 Rxe1+ 33.Rxe1 Qxc5+ 34.Qxc5 Nxc5 35.g4 Kg8 36.Kg2 a5 37.Kf3 a4 38.g5 a3 39.f5 Bb2 40.Re3 Na4 41.f6 Kf8 42.Kg4 Nc3 43.Kf5 Nb5 44.g6 Nd4+ 45.Kg4 Nc6 46.Re6 1-0

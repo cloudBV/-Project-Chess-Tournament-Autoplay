@@ -1,0 +1,15 @@
+[Event "Round 7: Dogan, Umut Anil - Peray, Ata"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/HLM6LNN9"]
+[Date "2026.07.03"]
+[Round "7.31"]
+[White "Dogan, Umut Anil"]
+[Black "Peray, Ata"]
+[Result "1-0"]
+[WhiteElo "2195"]
+[BlackElo "2070"]
+[ECO "E12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Main Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Bf4 Bd6 7.Bxd6 Qxd6 8.Rc1 a6 9.cxd5 exd5 10.b4 O-O 11.e3 Nbd7 12.Be2 Ne4 13.O-O f5 14.Qc2 Rac8 15.Bd3 Kh8 16.Qb2 f4 17.exf4 Rxf4 18.Ne2 Rff8 19.Ne5 Nxe5 20.dxe5 Qe7 21.f4 c5 22.Bxe4 dxe4 23.bxc5 bxc5 24.f5 Bd5 1-0

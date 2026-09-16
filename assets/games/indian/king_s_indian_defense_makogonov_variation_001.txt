@@ -1,0 +1,15 @@
+[Event "Ronda 3: Jaso Escudero, Julen - Sanchez Gonzalez, Diego 2012"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u14/ronda-3/dtwtp9K6/r31lmw4d"]
+[Date "2026.07.01"]
+[Round "3.5"]
+[White "Jaso Escudero, Julen"]
+[Black "Sanchez Gonzalez, Diego 2012"]
+[Result "0-1"]
+[WhiteElo "2036"]
+[BlackElo "2178"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 e5 6.d5 Nbd7 7.g4 Nc5 8.Bg2 O-O 9.Be3 h5 10.g5 Nh7 11.Qd2 f6 12.gxf6 Nxf6 13.O-O-O a5 14.Bxc5 dxc5 15.Nf3 Ne8 16.a4 Nd6 17.b3 Rf4 18.Qe3 Qf8 19.Kb2 Bh6 20.Qe2 Bd7 21.Rdf1 Qe7 22.Ne1 b6 23.Nd3 Rf7 24.Rfg1 Kh7 25.Bf1 Raf8 26.Rg2 Bg5 27.Rhg1 Bh6 28.Rxg6 Qh4 29.Nd1 Nxe4 30.f4 Bf5 31.Qg2 exf4 32.Ne5 f3 33.Nxf3 Qe7 34.Bd3 Rg7 35.Rxg7+ Qxg7+ 36.Qxg7+ Bxg7+ 37.Kc2 Bh6 38.Nh4 Nd6 39.Nxf5 Nxf5 40.Nc3 Kh8 41.Ne4 Nd4+ 42.Kc3 Bg7 43.Rg2 Nf3+ 44.Rxg7 Kxg7 45.Be2 Kh6 46.Kd3 Ng1 47.Bd1 Nxh3 0-1

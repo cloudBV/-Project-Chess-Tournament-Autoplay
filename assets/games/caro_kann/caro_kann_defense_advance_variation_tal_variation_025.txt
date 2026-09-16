@@ -1,0 +1,15 @@
+[Event "Round 7: Fernandez Climent, Albert - Escoriza Pons, Xavier"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-7/l06Qp43p/0t1j98nR"]
+[Date "2026.07.10"]
+[Round "7.9"]
+[White "Fernandez Climent, Albert"]
+[Black "Escoriza Pons, Xavier"]
+[Result "1-0"]
+[WhiteElo "2225"]
+[BlackElo "2071"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bg5 Qb6 6.Bd3 Qxd4 7.Nf3 Qg4 8.Bxf5 Qxf5 9.O-O e6 10.c4 Nd7 11.cxd5 cxd5 12.Nc3 a6 13.Rc1 Be7 14.Nxd5 exd5 15.Nd4 Qg6 16.Re1 f5 17.exf6 gxf6 18.Ne6 Rb8 19.Bf4 Ne5 20.Qxd5 Nh6 21.Bxe5 fxe5 22.Qxe5 Kf7 23.Nf4 Qf6 24.Qxh5+ Kg7 25.Rxe7+ Qxe7 26.Qg6+ Kf8 27.Ne6+ Qxe6 28.Qxe6 Nf7 29.Rc7 Rh7 30.Rxf7+ Rxf7 31.Qd6+ Ke8 1-0

@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.3"]
+[White "Walgren, William Arntzen"]
+[Black "Oksendal, Martin"]
+[Result "0-1"]
+[WhiteElo "2167"]
+[BlackElo "2240"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7 9.f3 h5 10.O-O-O Rc8 11.Kb1 Qc7 12.Nd5 Bxd5 13.exd5 b5 14.Rc1 Nb6 15.Bxb6 Qxb6 16.c4 b4 17.Qe2 Nd7 18.g3 g6 19.f4 Bg7 20.g4 hxg4 21.Qxg4 Qf2 22.fxe5 Rh4 23.Qe2 Qxe2 24.Bxe2 Bxe5 25.h3 Nc5 26.Nxc5 Rxc5 27.Kc2 a5 28.Rcf1 a4 29.Rf3 f5 30.Bd3 Ke7 31.Rg1 Kf6 32.Rg2 Rc7 33.b3 a3 34.Kd1 Rch7 35.Bf1 Re7 36.Re2 Rd4+ 37.Kc2 g5 38.Ref2 Bf4 39.Bd3 Re1 40.Rf1 Rxf1 41.Rxf1 g4 42.hxg4 fxg4 43.Re1 g3 44.Re2 Kg5 45.Rg2 Kh4 46.Bf5 Be5 47.Be6 Bf4 48.Bf5 Bg5 49.Bd3 Rf4 50.Kd1 Kh3 51.Rg1 g2 52.Rh1+ 0-1

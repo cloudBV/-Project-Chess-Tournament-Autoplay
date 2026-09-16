@@ -1,0 +1,14 @@
+[Event "Round 2: Paasikangas, Johanna - Korneev, Oleg"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-2/VxANujWG/HQa92oQG"]
+[Date "2026.07.14"]
+[Round "2.7"]
+[White "Paasikangas, Johanna"]
+[Black "Korneev, Oleg"]
+[Result "0-1"]
+[WhiteElo "2124"]
+[BlackElo "2433"]
+[ECO "B44"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nxc6 bxc6 7.Bd3 e5 8.O-O Bc5 9.Nc3 d6 10.Be3 Bxe3 11.fxe3 Be6 12.Rb1 a5 13.h3 Nd7 14.b3 Qb6 15.Qe1 Nc5 16.Bc2 Qb4 17.Qd2 Rd8 18.Rfc1 O-O 19.Bd1 Rd7 20.Be2 Rb8 21.Qc2 Rdd8 22.Rd1 h6 23.Kh2 Qa3 24.Rb2 a4 25.Rdb1 axb3 26.axb3 Qb4 27.Na2 Qb6 28.b4 Nd7 29.Qc3 Nf6 30.Bf3 Nh7 31.Nc1 Ng5 32.Ne2 Bxh3 33.c5 Qc7 34.cxd6 Qxd6 35.Ng3 Be6 36.Be2 Nh7 37.Rd1 Qe7 38.Qxe5 Re8 39.Kg1 Nf6 40.Rdb1 Nd7 41.Qf4 Rb6 42.Bf3 Reb8 43.Nf5 Bxf5 44.exf5 Ne5 45.Be2 f6 46.Rb3 Kh8 47.Kf2 R6b7 48.R3b2 Qd7 49.Rc1 Ra7 50.g4 Qe7 51.Qd4 Ra4 52.Rc5 Rd8 53.Qc3 Qd6 54.Ra5 Ra8 55.Rxa8+ Rxa8 56.Rd2 Qe7 57.Qd4 Rb8 58.Qc5 Qxc5 59.bxc5 Rb4 60.Rd6 Rb2 61.Ke1 Rc2 62.Rd8+ Kh7 63.Rc8 Rxc5 64.Kd2 Ra5 65.Rc7 Ra2+ 66.Ke1 Ra4 67.Kd2 Nxg4 68.Bxg4 Rxg4 69.Rxc6 h5 70.Ke2 Kh6 71.Rc7 h4 72.Kf3 Rg1 73.Kf4 Kh5 74.Rc8 Rf1+ 75.Ke4 h3 76.Rh8+ Kg4 77.Rh7 Rxf5 78.Rxg7+ Rg5 79.Kd4 0-1

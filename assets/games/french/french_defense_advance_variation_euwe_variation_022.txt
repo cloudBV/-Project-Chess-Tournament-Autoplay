@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "1.8"]
+[White "Nytra, Ondrej"]
+[Black "Martirosyan, David"]
+[Result "1-0"]
+[WhiteElo "2171"]
+[BlackElo "2035"]
+[ECO "C02"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.a3 Nge7 7.Be2 Rc8 8.O-O h6 9.b4 cxd4 10.cxd4 Nf5 11.Be3 g5 12.h3 g4 13.hxg4 Nxe3 14.fxe3 Rg8 15.g5 h5 16.Qd3 Rg6 17.Nc3 Ne7 18.e4 Bc6 19.b5 dxe4 20.Nxe4 Bxe4 21.Qxe4 Nd5 22.b6 Nc3 23.Qe3 Nxe2+ 24.Qxe2 Qxb6 25.Rab1 Qc6 26.Qe3 Be7 27.Qf4 Rg7 28.Kh1 Qd5 29.a4 a6 30.Rb2 b5 31.axb5 axb5 32.Rfb1 b4 33.Qe3 Rc3 34.Qf4 Rc4 35.Ra1 Qd8 36.Ra7 Bxg5 37.Qe4 Rc1+ 38.Kh2 Rc8 39.Rxb4 Kf8 40.Rba4 Qd5 41.Qxd5 exd5 42.Rd7 Bf4+ 43.Kh3 Rc1 44.Ra8+ 1-0

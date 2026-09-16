@@ -1,0 +1,15 @@
+[Event "Round 8: Adewumi, Tanitoluwa - Chasin, Nico"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-8/pHziG2Wr/lyHcufIP"]
+[Date "2026.07.11"]
+[Round "8.4"]
+[White "Adewumi, Tanitoluwa"]
+[Black "Chasin, Nico"]
+[Result "1-0"]
+[WhiteElo "2467"]
+[BlackElo "2479"]
+[ECO "E61"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Classical Variation"]
+
+1.Nf3 Nf6 2.e3 g6 3.d4 Bg7 4.c4 d6 5.Nc3 O-O 6.Be2 Bf5 7.Nd2 a5 8.h4 c5 9.d5 h5 10.e4 Bd7 11.a4 e6 12.f3 Na6 13.g3 Nb4 14.O-O Ne8 15.Kg2 exd5 16.cxd5 f5 17.exf5 Bxf5 18.Nde4 Nf6 19.Ng5 c4 20.Bxc4 Rc8 21.Bb3 Qb6 22.Ne6 Nd7 23.Nxf8 Rxf8 24.Bc4 Ne5 25.Be2 Nc2 26.Ra2 Nb4 27.Ra3 Nc2 28.Ra2 Nb4 29.Ra1 Nc2 30.Rb1 Nxf3 31.Rxf3 Bxc3 32.Rxc3 Be4+ 33.Rf3 Qb3 34.Bh6 Ne1+ 35.Qxe1 Rxf3 36.Kh2 Qc2 37.Rd1 1-0

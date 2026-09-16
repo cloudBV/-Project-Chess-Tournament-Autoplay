@@ -1,0 +1,14 @@
+[Event "Round 5: Mamikonyan, Artem T - Zlatkov, Anton"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/UFQPtz3s"]
+[Date "2026.07.07"]
+[Round "5.22"]
+[White "Mamikonyan, Artem T"]
+[Black "Zlatkov, Anton"]
+[Result "1-0"]
+[WhiteElo "2210"]
+[BlackElo "2388"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 b6 6.Nc3 Bb7 7.d4 Nxd4 8.Nxd4 cxd4 9.Qxd4 a6 10.Bf1 Nc6 11.Qd1 Bc5 12.Na4 Be7 13.Be3 b5 14.Nb6 Rb8 15.a4 Bc8 16.axb5 axb5 17.Nd5 O-O 18.Nxe7+ Qxe7 19.Qd2 Rd8 20.Red1 d6 21.Qc3 Qb7 22.b4 f6 23.f3 Ne5 24.Ba7 Ra8 25.Bc5 Rxa1 26.Qxa1 Nf7 27.Qa5 Qe7 28.Bb6 Rf8 29.Bxb5 Bb7 30.Bf2 f5 31.exf5 Ne5 32.Bg3 Rxf5 33.Qb6 Bd5 34.Bxe5 Rxe5 35.c4 Bxf3 36.gxf3 Re2 37.Kh1 h5 38.c5 Rf2 39.Qxd6 Qf7 40.Qb8+ Kh7 41.Bd3+ Kh6 42.Qh8+ Kg5 43.Rg1+ Kf4 44.Rxg7 1-0

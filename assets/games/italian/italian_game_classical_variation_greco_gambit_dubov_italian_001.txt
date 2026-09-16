@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/Fgaoz3zQ"]
+[Date "2026.07.01"]
+[Round "5.34"]
+[White "Pfaltz, Maximilian"]
+[Black "Podgorski, Maciej"]
+[Result "0-1"]
+[WhiteElo "2032"]
+[BlackElo "2060"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Dubov Italian"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.b4 Bb6 7.e5 d5 8.exf6 dxc4 9.Qe2+ Be6 10.fxg7 Rg8 11.b5 Ne7 12.cxd4 Rxg7 13.Nc3 Ba5 14.Bd2 Bxc3 15.Bxc3 Qd5 16.Rg1 O-O-O 17.Kf1 Rdg8 18.Ne1 Ng6 19.f3 Nf4 20.Qe4 Qxe4 21.fxe4 Bh3 22.Kf2 Bxg2 23.Nxg2 Rxg2+ 24.Rxg2 Rxg2+ 25.Kf3 Rc2 26.Kxf4 Rxc3 27.h4 Rd3 28.Rc1 c3 29.Kg5 Rxd4 30.Rxc3 Rxe4 31.Rf3 Re5+ 32.Kh6 Rxb5 33.Rxf7 Rb2 34.Kxh7 Rxa2 35.h5 Rh2 36.h6 b5 37.Rf5 b4 38.Kg6 Kd7 39.Rb5 a5 40.Rxa5 Rg2+ 41.Rg5 Rxg5+ 42.Kxg5 b3 43.h7 b2 44.h8=Q b1=Q 45.Qg7+ Kc6 46.Qf6+ Kb7 47.Qe7 Qg1+ 48.Kh6 Qh2+ 49.Kg7 Qd6 50.Qe4+ c6 51.Kh8 Kc7 52.Qa4 c5 53.Qa7+ Kd8 54.Qa8+ Kd7 55.Qb7+ Ke6 56.Qc8+ Kf6 57.Qg4 Qd4 58.Qg3 Qe5 59.Qg4 Kf7+ 0-1

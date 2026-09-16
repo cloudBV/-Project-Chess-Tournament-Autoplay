@@ -1,0 +1,14 @@
+[Event "Round 9: Kleist, Axel - Frank, Anton"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-9/xoVzF2u8/om5uHQeg"]
+[Date "2026.06.24"]
+[Round "9.1"]
+[White "Kleist, Axel"]
+[Black "Frank, Anton"]
+[Result "1-0"]
+[WhiteElo "2167"]
+[BlackElo "2213"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Ne3 11.Qd3 Bb4+ 12.Nc3 Nf5 13.g4 Nd4 14.Bg2 O-O 15.a3 Nb3 16.Be3 Bc5 17.Bxc5 Nxc5 18.Qe3 Qxb2 19.O-O Qb6 20.Rab1 Qa5 21.f5 exf5 22.gxf5 Re8 23.Nb5 Nb7 24.f6 gxf6 25.Qh6 f5 26.Rb3 Re6 27.Qg5+ Rg6 28.Qxf5 Qd8 29.Qxf7+ Kh8 30.Nc7 Rb8 31.Ne8 Nd6 32.Qf8+ Rg8 33.Qxg8+ Kxg8 34.Rf5 1-0

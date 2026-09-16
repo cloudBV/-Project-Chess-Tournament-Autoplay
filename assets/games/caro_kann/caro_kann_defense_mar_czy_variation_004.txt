@@ -1,0 +1,15 @@
+[Event "Round 5: Neiksans, Arturs - Vaidya, Atulya"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-5/6wa4QNCe/QRchkP0A"]
+[Date "2026.07.03"]
+[Round "5.25"]
+[White "Neiksans, Arturs"]
+[Black "Vaidya, Atulya"]
+[Result "1-0"]
+[WhiteElo "2522"]
+[BlackElo "2096"]
+[ECO "B12"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 Be6 6.c3 Nd7 7.Bd3 h6 8.O-O Qc7 9.Be3 Ngf6 10.Kh1 Bd6 11.Nbd2 g5 12.Bg1 g4 13.Nh4 g3 14.h3 Rg8 15.Nf5 O-O-O 16.Rf3 Nh5 17.Be3 f6 18.Rf1 Nf4 19.Bxf4 exf4 20.Bc4 Bxf5 21.Bxg8 Rxg8 22.exf5 Nb6 23.Ne4 Nd5 24.Qf3 Be7 25.Rae1 Ne3 26.Rxe3 fxe3 27.Qxe3 Qa5 28.Nxg3 Qxa2 29.Qxe7 Rxg3 30.Qxf6 Qd5 31.Qe6+ 1-0

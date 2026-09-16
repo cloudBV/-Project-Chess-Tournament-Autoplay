@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.5"]
+[White "Lund, Gunnar"]
+[Black "Grave, Jacob Templen"]
+[Result "1/2-1/2"]
+[WhiteElo "2346"]
+[BlackElo "2392"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Bd6 5.O-O O-O 6.d4 h6 7.b3 b6 8.Nc3 Bb7 9.Bb2 Nbd7 10.Nd2 Be7 11.e4 Nxe4 12.Ndxe4 dxe4 13.Nxe4 Rb8 14.Qe2 Nf6 15.Rad1 Nxe4 16.Bxe4 Bxe4 17.Qxe4 Bf6 18.Bc1 Re8 19.h4 Qd7 20.Be3 b5 21.Rc1 Red8 22.Rfd1 c6 23.Qg4 Kh7 24.Bf4 Rbc8 25.Be5 Qe7 26.Qf4 bxc4 27.Bxf6 Qxf6 28.Qxf6 gxf6 29.Rxc4 Rd5 30.Rdc1 Rcd8 31.Ra4 Rxd4 32.Rxa7 Rd1+ 33.Rxd1 Rxd1+ 34.Kg2 Kg7 35.a4 Ra1 36.b4 Rb1 37.Rb7 Ra1 38.b5 Rxa4 39.bxc6 Rc4 40.Rc7 e5 41.Rc8 f5 42.Kf3 h5 43.Ke2 f6 44.Kd2 Rc5 45.Kd3 Rc1 46.Rc7+ Kg6 47.Kd2 1/2-1/2

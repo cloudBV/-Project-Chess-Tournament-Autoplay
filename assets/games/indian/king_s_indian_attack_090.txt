@@ -1,0 +1,14 @@
+[Event "Round 5: Keinanen, Toivo - Fodor, Tamas Jr."]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-5/Wp9Hv3Cf/0gFclqVS"]
+[Date "2026.07.15"]
+[Round "5.4"]
+[White "Keinanen, Toivo"]
+[Black "Fodor, Tamas Jr."]
+[Result "1/2-1/2"]
+[WhiteElo "2495"]
+[BlackElo "2494"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O h6 5.c4 d4 6.b4 e6 7.Bb2 Be7 8.d3 O-O 9.Nbd2 a5 10.b5 Ra7 11.Qc2 Bd6 12.e3 e5 13.Rae1 b6 14.exd4 exd4 15.Ne4 Nxe4 16.Rxe4 f5 17.Re2 Re8 18.Rfe1 Rae7 1/2-1/2

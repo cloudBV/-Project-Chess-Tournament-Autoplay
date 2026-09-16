@@ -1,0 +1,14 @@
+[Event "Round 3: Edoecs, Joseph - Adzic, Slobodan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-3/GKNtLENx/szd6tX5l"]
+[Date "2026.06.03"]
+[Round "3.1"]
+[White "Edoecs, Joseph"]
+[Black "Adzic, Slobodan"]
+[Result "0-1"]
+[WhiteElo "2016"]
+[BlackElo "2051"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6 7.Nb3 e6 8.Be3 Qc7 9.Be2 a6 10.a4 Be7 11.O-O O-O 12.f4 Nb4 13.Rc1 e5 14.f5 Bd7 15.g4 Bc6 16.Bf3 h6 17.Qd2 b5 18.axb5 axb5 19.Qg2 Na2 20.Nxa2 Rxa2 21.h4 Nh7 22.g5 Kh8 23.Kh1 Qb7 24.gxh6 g6 25.Rg1 Rg8 26.Nd2 Bxh4 27.Qh3 Qe7 28.Rg4 Bg5 29.Bxg5 Nxg5 30.h7 Nxh3 0-1

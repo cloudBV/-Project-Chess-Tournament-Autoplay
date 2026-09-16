@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/rFFMleph"]
+[Date "2026.07.18"]
+[Round "8.18"]
+[White "Pipiras, Filipa Fortuna"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[WhiteElo "2323"]
+[BlackElo "2414"]
+[ECO "E15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 c6 5.Bg2 Be7 6.O-O O-O 7.Qc2 d5 8.Rd1 Nbd7 9.b3 Ba6 10.Nc3 Rc8 11.Bb2 b5 12.c5 b4 13.Na4 Bb5 14.Ne1 Qc7 15.Nd3 Bxd3 16.Qxd3 Rfe8 17.Bc1 e5 18.e3 Bf8 19.Bd2 Rb8 20.a3 a5 21.axb4 axb4 22.Ra2 g6 23.Nb2 Bg7 24.Ra4 exd4 25.exd4 Rb7 26.Bf4 Qc8 27.Ra2 Ne4 28.Na4 Nf8 29.Be3 Qb8 30.Rc2 Ne6 31.Nb6 Rbe7 32.Bxe4 dxe4 33.Qc4 Kh8 34.d5 cxd5 35.Rxd5 f5 36.Bc1 f4 37.Kg2 e3 38.fxe3 Nc7 39.Rd1 fxe3 40.Re2 Qb7+ 41.Kg1 Qc6 42.Qxb4 Re4 43.Qa3 Nb5 44.Qa5 Nc3 45.Rde1 Nxe2+ 46.Rxe2 Bd4 47.b4 Qf6 48.Nd7 Qe6 49.Qb5 Qf5 50.Ba3 Ra8 51.Qd3 Rxa3 52.Qxa3 Qxd7 53.b5 Bxc5 54.Qa1+ Bd4 55.Qa3 Kg7 56.Qd3 Re7 57.Qc4 Bb6 58.Kg2 Rf7 59.Qc3+ Kh6 60.Qc4 Qf5 61.h4 Qf1+ 62.Kh2 Rf2+ 0-1

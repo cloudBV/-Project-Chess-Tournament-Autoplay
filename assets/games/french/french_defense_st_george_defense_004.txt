@@ -1,0 +1,14 @@
+[Event "Round 7: Giordani, Luca - Hercegovac, Neven"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-7/0NCq6FGl/axPKtZH5"]
+[Date "2026.07.10"]
+[Round "7.7"]
+[White "Giordani, Luca"]
+[Black "Hercegovac, Neven"]
+[Result "1-0"]
+[WhiteElo "2156"]
+[BlackElo "2316"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: St. George Defense"]
+
+1.e4 a6 2.d4 e6 3.Nf3 d5 4.Nbd2 Nf6 5.e5 Nfd7 6.Bd3 c5 7.c3 Nc6 8.O-O g5 9.Nb1 Be7 10.Be3 b5 11.Nbd2 Bb7 12.Ne1 h5 13.Nc2 Qb6 14.a4 b4 15.a5 Qa7 16.Be2 h4 17.Nb3 c4 18.Nd2 b3 19.Ne1 O-O-O 20.h3 Rhg8 21.Bg4 Rdf8 22.Nxc4 dxc4 23.d5 Bc5 24.dxc6 Bxc6 25.Bd4 Bd5 26.Ra4 Qc7 27.Nf3 Qc6 28.Bxc5 Qxc5 29.Qd4 f5 30.exf6 Rxf6 31.Rd1 Qxd4 32.cxd4 Rf4 33.Re1 Rg6 34.Re3 Kc7 35.Kf1 Kd6 36.Rc3 Rgf6 37.Rb4 Rf8 38.Ke1 Nf6 39.Rb6+ Kc7 40.Bxe6 Re4+ 41.Re3 Rxe3+ 42.fxe3 c3 43.Bxd5 Nxd5 44.Rxb3 cxb2 45.Rxb2 Nxe3 46.Nxg5 Rg8 47.Ne6+ Kd6 48.Nf4 Nc4 49.Rb4 Rc8 50.Ke2 Nxa5 51.Ra4 Rf8 52.Ke3 Rf5 53.d5 Nb3 54.Rxa6+ Kd7 55.Rh6 Re5+ 56.Kf3 Nd4+ 57.Kg4 Nf5 58.Rh5 Ne3+ 59.Kxh4 1-0

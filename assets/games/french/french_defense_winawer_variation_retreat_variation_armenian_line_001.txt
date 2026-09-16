@@ -1,0 +1,15 @@
+[Event "Round 2: Oparin, Grigoriy - Escalante Ramirez, Brian"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/ZhV50KAV"]
+[Date "2026.07.03"]
+[Round "2.7"]
+[White "Oparin, Grigoriy"]
+[Black "Escalante Ramirez, Brian"]
+[Result "1-0"]
+[WhiteElo "2606"]
+[BlackElo "2400"]
+[ECO "C17"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Retreat Variation, Armenian Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Kf8 8.Qxd4 Bc7 9.Nb5 Ne7 10.Nxc7 Qxc7 11.Nf3 Bd7 12.Bd3 Ba4 13.Be3 Nd7 14.b5 Nb6 15.Qb4 Kg8 16.O-O Ng6 17.Rfe1 h6 18.Rac1 Nf8 19.c4 dxc4 20.Bxc4 Qd8 21.Nd2 Nfd7 22.Bf1 Qf8 23.Qb2 Qb8 24.Nc4 Nd5 25.Nd6 Qf8 26.Rc4 N7b6 27.Bxb6 axb6 28.Rd4 h5 29.Ree4 Bc2 30.Qxc2 Rxa3 31.Rc4 Ra8 32.Nxb7 1-0

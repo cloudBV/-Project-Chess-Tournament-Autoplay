@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "4.7"]
+[White "Shahil Dey"]
+[Black "Eugene, Floryan"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2510"]
+[ECO "A14"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.c4 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.Ne5 Nbd7 9.exd4 cxd4 10.Nxd7 Nxd7 11.d3 a5 12.Nd2 e5 13.Re1 Bb4 14.Rb1 Re8 15.a3 Bc3 16.Bb2 Bxd2 17.Qxd2 Nc5 18.b4 Nb3 19.Qd1 a4 20.Qh5 g6 21.Qh6 Ra6 22.f4 Bf5 23.Bxb7 Rb6 24.Bd5 Bxd3 25.Rbd1 e4 26.Qg5 Rd6 27.Qxd8 Rexd8 28.Rxe4 Bxe4 29.Bxe4 d3 30.Be5 f5 31.Bg2 Rd4 32.Bxd4 Rxd4 33.Bc6 d2 34.Bxa4 Nc1 35.Kf2 Rxc4 36.Rxd2 Rc3 37.Bc2 Rxa3 38.b5 Nb3 39.Rd3 Ra2 40.Rxb3 Rxc2+ 41.Ke3 1-0

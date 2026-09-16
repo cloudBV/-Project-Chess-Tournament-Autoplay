@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.32"]
+[White "Estevez Sacristan, Deva"]
+[Black "Matnadze Bujiashvili, Ann"]
+[Result "0-1"]
+[WhiteElo "2022"]
+[BlackElo "2309"]
+[ECO "B56"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g3 Nxd4 7.Qxd4 g6 8.e5 dxe5 9.Qxd8+ Kxd8 10.Bg2 Ne8 11.Be3 Nd6 12.O-O-O Bd7 13.Rhe1 Bc6 14.Bxc6 bxc6 15.Bc5 f6 16.Ne4 Kc7 17.Bxd6+ exd6 18.Nxf6 Be7 19.Ng4 Rae8 20.c4 Rhf8 21.Re2 Bg5+ 22.Kc2 h5 23.h4 Bxh4 24.Ne3 Bg5 25.Rd3 a5 26.Ra3 Ra8 27.Nd1 Be7 28.Rae3 Bf6 29.Nc3 Rad8 30.Ne4 Be7 31.Nd2 Bg5 32.Ra3 Ra8 33.Ne4 Be7 34.Rd3 Rad8 35.Nc3 g5 36.Nd1 h4 37.gxh4 gxh4 38.c5 d5 39.Rxe5 Bxc5 40.Re2 Rf4 41.Rc3 Bb4 42.Rh3 Rdf8 43.a3 Bc5 44.f3 Rg8 45.Reh2 Rc4+ 46.Kd3 Rd4+ 47.Kc2 Rc4+ 48.Kd3 Bd6 49.Rh1 Bg3 50.Ne3 Rf4 51.Rf1 Rgf8 52.Ke2 Rb8 53.Nd1 Rd4 54.f4 Re8+ 55.Ne3 Rde4 0-1

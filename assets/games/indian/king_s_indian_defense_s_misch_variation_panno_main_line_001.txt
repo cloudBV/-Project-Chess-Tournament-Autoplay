@@ -1,0 +1,14 @@
+[Event "Round 2: Orian, Noga - Sai Krishna G V"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/s9FdpgcS"]
+[Date "2026.07.05"]
+[Round "2.10"]
+[White "Orian, Noga"]
+[Black "Sai Krishna G V"]
+[Result "1/2-1/2"]
+[WhiteElo "2278"]
+[BlackElo "2450"]
+[ECO "E84"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Main Line"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Qd2 a6 8.Nge2 Rb8 9.Rc1 Bd7 10.h4 h5 11.Nd1 Re8 12.Bh6 Bh8 13.Nf2 e5 14.d5 Nd4 15.Be3 c5 16.dxc6 Bxc6 17.Nxd4 exd4 18.Bxd4 Bxe4 19.Be2 Bc6 20.O-O d5 21.Rfd1 Qd6 22.cxd5 Bxd5 23.Bc4 Bxc4 24.Rxc4 Rbd8 25.Qc2 b5 26.Rc6 Qf4 27.Bc3 b4 28.Be1 Qe3 29.Bxb4 Nd5 30.Bc5 Qf4 31.Rxa6 Be5 32.Qe4 Qh2+ 33.Kf1 Nf6 34.Rxd8 Rxd8 35.Qa4 Nd5 36.Ra8 Bb8 37.Qd4 Kh7 38.Be7 Rd7 39.Bg5 Be5 40.Qc5 Nc7 41.Rc8 Ne6 42.Qc6 Rd1+ 43.Nxd1 Qh1+ 44.Kf2 Qxd1 45.Qc1 Qd4+ 46.Ke2 Qb4 47.Rc4 Qb5 48.a4 Qa6 49.Be3 Bxb2 50.Qc2 Bf6 51.Kf2 Qa5 52.Qb3 Qe5 53.Qa3 Qh2 54.Qb4 Ng7 55.Bg5 Bxg5 56.hxg5 Nf5 57.Rf4 Qg3+ 58.Kg1 Qxg5 59.a5 h4 60.Rg4 Qc1+ 61.Kh2 Qc7+ 62.Qf4 Qxa5 63.Rxh4+ Nxh4 64.Qxh4+ Kg7 65.Qd4+ Kg8 66.Qf6 Qd5 1/2-1/2

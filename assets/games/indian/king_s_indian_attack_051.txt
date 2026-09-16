@@ -1,0 +1,14 @@
+[Event "Round 4: Papadimitriou, Athanasios - Frendzas, Panayotis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/0FHu5mae"]
+[Date "2026.07.07"]
+[Round "4.54"]
+[White "Papadimitriou, Athanasios"]
+[Black "Frendzas, Panayotis"]
+[Result "1-0"]
+[WhiteElo "2272"]
+[BlackElo "2175"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 Nb4 5.Na3 e6 6.O-O h6 7.Ne5 Nf6 8.c3 Nc6 9.Qa4 Bxa3 10.Nxc6 Qd7 11.Qxa3 bxc6 12.b3 a5 13.c4 Qd6 14.Qa4 Ne4 15.Bb2 Qd7 16.f3 Nd6 17.Rfe1 Nc8 18.e4 Nb6 19.Qa3 Bg6 20.exd5 cxd5 21.f4 f6 22.cxd5 Nxd5 23.Qc5 Kf7 24.Rxe6 1-0

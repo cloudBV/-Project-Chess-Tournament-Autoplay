@@ -1,0 +1,15 @@
+[Event "Round 4: Shinkorenko, Ivan Al - Yildiz, Talat"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/W81b3BVP"]
+[Date "2026.07.01"]
+[Round "4.45"]
+[White "Shinkorenko, Ivan Al"]
+[Black "Yildiz, Talat"]
+[Result "1-0"]
+[WhiteElo "2091"]
+[BlackElo "2268"]
+[ECO "B62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3 Be7 8.O-O-O O-O 9.f4 Qb6 10.Be2 Rd8 11.Bf3 Bd7 12.Nb3 Be8 13.g4 a5 14.a3 a4 15.Nd2 Na5 16.h4 Rac8 17.Rde1 h6 18.f5 hxg5 19.hxg5 Nd7 20.f6 Ne5 21.Qe2 Bxf6 22.gxf6 gxf6 23.g5 fxg5 24.Qg2 g4 25.Bxg4 Kf8 26.Bxe6 fxe6 27.Qg5 Ng6 28.Qf6+ Bf7 29.Rh7 Rd7 30.Reh1 Nb3+ 31.cxb3 Ke8 32.Rh8+ Nf8 33.Rxf8+ 1-0

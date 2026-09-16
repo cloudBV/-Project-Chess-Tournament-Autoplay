@@ -1,0 +1,15 @@
+[Event "Round 2: Kavutskiy, Kostya - Robson, Ray"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/V6c9f9eq"]
+[Date "2026.07.03"]
+[Round "2.8"]
+[White "Kavutskiy, Kostya"]
+[Black "Robson, Ray"]
+[Result "1/2-1/2"]
+[WhiteElo "2414"]
+[BlackElo "2637"]
+[ECO "A07"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 Nb4 5.Na3 e6 6.c3 Nc6 7.Qa4 Bd6 8.Nb5 h6 9.O-O Nf6 10.c4 dxc4 11.Qxc4 O-O 12.Nc3 e5 13.dxe5 Nxe5 14.Nxe5 Bxe5 15.Bf4 Qe7 16.Bxe5 Qxe5 17.Rad1 c6 18.h3 Rad8 19.Qb4 Qb8 20.e4 Be6 21.e5 Qxe5 22.Qxb7 Rb8 23.Qxa7 Rxb2 24.Qd4 Qxd4 25.Rxd4 Rc2 26.Ne4 c5 27.Nxf6+ gxf6 28.Rf4 Rxa2 29.Rxf6 Kg7 30.Rf4 Rc2 31.Rd1 c4 32.Be4 Rb2 33.Bf5 c3 34.Kg2 c2 35.Rc1 Bxf5 36.Rxf5 Rc8 37.Re5 Rb1 38.Ree1 Rxc1 39.Rxc1 Kf6 40.Kf3 Ke5 41.Ke3 h5 42.Kd3 Rd8+ 43.Ke3 Rc8 44.Kd3 Rd8+ 45.Ke3 Rc8 1/2-1/2

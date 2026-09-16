@@ -1,0 +1,15 @@
+[Event "Round 2: Karde, Douglas - Grandelius, Nils"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-2/gybyaLJv/qUFDJAgQ"]
+[Date "2026.07.01"]
+[Round "2.1"]
+[White "Karde, Douglas"]
+[Black "Grandelius, Nils"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2603"]
+[ECO "B54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 h6 6.Nb3 e5 7.f3 Be6 8.Be3 Be7 9.Be2 O-O 10.Qd2 a5 11.O-O a4 12.Nc1 a3 13.bxa3 Rxa3 14.Nb5 Ra4 15.Nd3 Nc6 16.a3 Ra8 17.Nb4 Nxb4 18.axb4 Rxa1 19.Rxa1 d5 20.exd5 Nxd5 21.Bc5 Bxc5+ 22.bxc5 Qc8 23.c4 Qxc5+ 24.Kh1 Nf4 25.Re1 Qf2 0-1

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-4/9zGO8wij/q7riVbVZ"]
+[Date "2026.07.03"]
+[Round "4.2"]
+[White "Vykouk, Jan"]
+[Black "Velicka, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "2504"]
+[BlackElo "2350"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d5 7.exd5 Nxd5 8.Re1 Bg4 9.Nbd2 Nb6 10.h3 Bh5 11.Bb3 Re8 12.Ne4 Bf8 13.Bg5 Be7 14.Bxe7 Rxe7 15.Qe2 Nd5 16.Rad1 Nf4 17.Qe3 Nd5 18.Bxd5 Qxd5 19.Qg5 Bg6 20.a3 Rae8 21.Ng3 f6 22.Qe3 Rd7 23.Nh4 Red8 24.Nxg6 hxg6 25.Ne4 b6 26.Qg3 Qf7 27.h4 Ne7 28.Qf3 Qe6 29.g3 c5 30.b4 cxb4 31.axb4 Qb3 32.h5 gxh5 33.Qxh5 Qf7 34.Qf3 Qg6 35.Qe2 f5 36.Nd2 Rxd3 37.Nf3 Rxd1 38.Rxd1 Rxd1+ 39.Qxd1 e4 40.Qd8+ Kh7 41.Ne5 Qe6 42.Qe8 1/2-1/2

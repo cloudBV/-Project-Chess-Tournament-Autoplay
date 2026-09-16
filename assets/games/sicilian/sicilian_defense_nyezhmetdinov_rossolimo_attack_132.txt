@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.2"]
+[White "Engel, Bruno"]
+[Black "Pichot, Alan"]
+[Result "1/2-1/2"]
+[WhiteElo "2216"]
+[BlackElo "2562"]
+[ECO "B30"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Nd5 5.Nc3 Nc7 6.Bxc6 dxc6 7.Ne4 c4 8.Qe2 Bg4 9.Qxc4 Bxf3 10.gxf3 Ne6 11.c3 Qd5 12.Qxd5 cxd5 13.Ng3 d4 14.d3 O-O-O 15.c4 g6 16.Bd2 f6 17.Ne4 Bg7 18.exf6 exf6 19.O-O-O Rhe8 20.Rde1 h6 21.Bb4 Kc7 22.Nc5 Nf8 23.f4 a5 24.Bd2 b6 25.Na4 Kc6 26.f5 Nd7 27.fxg6 Ne5 28.Kc2 b5 29.cxb5+ Kxb5 30.b3 Rc8+ 31.Kd1 Nxd3 32.Re2 f5 33.f4 Re4 34.Rf1 Rce8 35.Rg2 R8e6 36.a3 Nc5 37.Nxc5 Kxc5 38.Kc2 a4 39.Rc1 axb3+ 40.Kxb3+ Kd5 41.Rc8 Re8 42.Rxe8 Rxe8 43.Kc2 Kc4 44.Rg3 Re6 45.Rb3 Rxg6 46.Rb4+ Kd5 47.Kd3 Rg2 48.Rb7 1/2-1/2

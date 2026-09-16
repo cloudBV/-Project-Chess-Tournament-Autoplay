@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "7.2"]
+[White "Giri, Anish"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2627"]
+[ECO "E18"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 f5 9.Ne5 d6 10.Nd3 Qe8 11.d5 Nxd2 12.Qxd2 e5 13.f4 e4 14.Nf2 Bc8 15.e3 a5 16.Qe2 Na6 17.g4 Bf6 18.Nb5 g6 19.g5 Bg7 20.h4 Bd7 21.Rfd1 h6 22.Nh3 h5 23.Bf1 Qe7 24.Rd2 Nc5 25.Rad1 Rfc8 26.Nf2 a4 27.Nd4 Ra5 28.Rc1 Na6 29.Nd1 Nb4 30.Nc3 Nd3 31.Rcd1 Rc5 32.Rxd3 exd3 33.Qxd3 Re8 34.Kf2 Ra5 35.Bg2 Kh7 36.Bf3 Raa8 37.Ncb5 Bxb5 38.cxb5 Bxd4 39.Qxd4 Qd7 40.Qc4 Qg7 41.Qd4 Qd7 42.Qc4 Qg7 43.Qd4 Qd7 1/2-1/2

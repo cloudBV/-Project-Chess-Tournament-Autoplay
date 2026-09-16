@@ -1,0 +1,14 @@
+[Event "Round 2: Milonakis, Georgios - Andersen, Mads"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-2/ozps01TA/yub4n5PB"]
+[Date "2026.07.19"]
+[Round "2.2"]
+[White "Milonakis, Georgios"]
+[Black "Andersen, Mads"]
+[Result "1/2-1/2"]
+[WhiteElo "2215"]
+[BlackElo "2559"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Bd6 5.O-O O-O 6.b3 b6 7.cxd5 exd5 8.d4 h6 9.Nc3 Nc6 10.Nb5 a5 11.Nxd6 cxd6 12.Bb2 Ba6 13.Nd2 Re8 14.Re1 Qd7 15.a3 Qf5 16.e4 dxe4 17.d5 e3 18.fxe3 Ne5 19.e4 Qg5 20.Nf3 Nxf3+ 21.Qxf3 Nd7 22.Qf4 Qxf4 23.gxf4 Nc5 24.Re3 Nd3 25.Bd4 Nxf4 26.Bxb6 a4 27.bxa4 Nxg2 28.Kxg2 Bb7 29.a5 Re6 30.e5 Rxe5 31.Re4 Rxe4 1/2-1/2

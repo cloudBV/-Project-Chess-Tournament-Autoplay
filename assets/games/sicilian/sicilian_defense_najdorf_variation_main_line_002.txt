@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.07"]
+[Round "4.7"]
+[White "Frank, Adam"]
+[Black "Stary, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2261"]
+[BlackElo "2004"]
+[ECO "B99"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Ne5 14.Qh5 b4 15.Nce2 g6 16.Qh4 Bd7 17.Nf4 Rc8 18.Bxa6 Ra8 19.fxe6 fxe6 20.Nfxe6 Qb6 21.Bb5 Rxa2 22.Bxd7+ Kxd7 23.Qh3 Qa5 24.Nb3 Qa7 25.Ned4+ Kd8 26.Ne6+ Ke8 27.Rhf1 Nc4 28.Ng7+ Kd8 29.Ne6+ Ke8 30.Ng7+ Kd8 31.Ne6+ Kc8 32.Ned4+ 1/2-1/2

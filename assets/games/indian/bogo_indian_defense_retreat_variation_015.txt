@@ -1,0 +1,14 @@
+[Event "Round 3: Badacsonyi, Stanley - Liu,Tianyi (Jack)"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-3/AvsFowvJ/V5pDhTjO"]
+[Date "2026.07.02"]
+[Round "3.1"]
+[White "Badacsonyi, Stanley"]
+[Black "Liu,Tianyi (Jack)"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2120"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Bc3 Nbd7 9.Nbd2 b6 10.Qc2 Bb7 11.Rfd1 c5 12.b3 Qc7 13.dxc5 bxc5 14.e3 Rfe8 15.Rac1 Rac8 16.Qb2 Bd6 17.cxd5 exd5 18.Bh3 Rcd8 19.Bxd7 Nxd7 20.Bxg7 d4 21.Bxd4 Qc6 22.Qc2 Ne5 23.Bxe5 Bxe5 24.e4 Bd4 25.Nxd4 Rxd4 26.f3 f5 27.Nf1 Rxd1 28.Rxd1 fxe4 29.Qc4+ Kg7 30.Qc3+ Kg8 31.Ne3 exf3 32.Kf2 Qh6 33.h4 Qe6 34.Qc4 Qxc4 35.bxc4 Re7 36.Rd2 Kf7 37.Nf5 Rc7 38.Nd6+ Ke6 39.Nxb7 Rxb7 40.Rd5 Rb2+ 41.Kxf3 Rxa2 42.Rxc5 Kf6 43.Kg4 Re2 44.Kf3 Rc2 45.Rc6+ Kg7 46.Kf4 a5 47.Kg5 a4 48.h5 a3 49.Rc7+ Kg8 50.Rc8+ Kf7 51.Kh6 a2 52.Ra8 Rxc4 53.Rxa2 Rg4 54.Ra3 Kg8 55.Rb3 Kh8 56.Rc3 Rxg3 57.Rc7 Rg7 58.Rc8+ Rg8 59.Rc7 Rg7 60.Rxg7 1/2-1/2

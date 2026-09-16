@@ -1,0 +1,15 @@
+[Event "Round 4: Khanbutaev, Artemii - Bartholomew, John"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-4/p37tSfIq/X5KLftaa"]
+[Date "2026.07.03"]
+[Round "4.12"]
+[White "Khanbutaev, Artemii"]
+[Black "Bartholomew, John"]
+[Result "1-0"]
+[WhiteElo "2165"]
+[BlackElo "2443"]
+[ECO "A41"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.Nc3 Be7 6.h4 Nf6 7.e3 c6 8.Be2 O-O 9.d5 h6 10.Nh3 Nbd7 11.Nf4 Ne5 12.b3 Qe8 13.Ba3 g5 14.hxg5 hxg5 15.Nh5 Qd8 16.Bb2 c5 17.Qc2 a6 18.a4 Qa5 19.O-O-O Bd7 20.f3 Be8 21.Nxf6+ Bxf6 22.fxe4 f4 23.exf4 gxf4 24.Kb1 Bg6 25.Rh3 Kg7 26.Rdh1 Rae8 27.Bh5 Rh8 28.Bxg6 Kxg6 29.Ne2 Rxh3 30.Nxf4+ Kf7 31.Rxh3 Qe1+ 32.Ka2 Rh8 33.Rxh8 Bxh8 34.Nd3 Nxd3 35.Qxd3 Bxb2 36.Kxb2 Qf2+ 37.Qc2 Qd4+ 38.Ka2 Qe3 39.g4 Qf4 40.Qe2 Kf6 41.Qb2+ Kg6 42.Qc2 Kg5 43.Qe2 Kf6 44.Kb2 Ke5 45.Kc2 Qxe4+ 46.Qxe4+ Kxe4 47.a5 Kf4 48.b4 cxb4 49.c5 Ke5 50.c6 1-0

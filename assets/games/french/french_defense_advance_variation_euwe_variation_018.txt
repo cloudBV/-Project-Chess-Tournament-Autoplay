@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "4.8"]
+[White "Juhanak, Daniel"]
+[Black "Pressler, Tobias"]
+[Result "1/2-1/2"]
+[WhiteElo "2210"]
+[BlackElo "2182"]
+[ECO "C02"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Bd3 cxd4 7.cxd4 f6 8.O-O Qb6 9.Nc3 Bb4 10.a3 Bxc3 11.bxc3 Nge7 12.Rb1 Qc7 13.Re1 Na5 14.exf6 gxf6 15.Bh6 Kf7 16.Nh4 Ng6 17.Nxg6 hxg6 18.Bxg6+ Ke7 19.Qc1 Nc4 20.Bf4 Qc6 21.Bd3 b6 22.Bg3 Rac8 23.Qf4 Nxa3 24.Ra1 Nc4 25.Rxa7 Nb2 26.Bf1 Rhf8 27.Rb1 Nc4 28.Qc1 Ra8 29.Rc7 Qa4 30.Qf4 Qc2 31.Re1 Rfc8 32.Bxc4 Rxc7 33.Qxc7 dxc4 34.Qxc4 Qd2 35.Rf1 Rc8 36.Qb4+ Ke8 37.Qxb6 Rxc3 38.h4 Rc6 39.Qb8+ Ke7 40.Qa7 Rc4 41.Qa3+ Ke8 42.Rb1 Qxd4 43.Qa8+ Kf7 44.Qf3 Bc6 45.Qh5+ Kg7 46.Kh2 Qd5 47.Qxd5 Bxd5 48.Rb2 Kg6 49.f3 Rc1 50.Bf2 Rc4 51.Rd2 Ra4 52.Kh3 Ra1 53.Bd4 Rh1+ 54.Kg3 Bc6 55.Rb2 Rd1 56.Be3 Rd7 57.Kf2 Kh5 58.Rb4 f5 59.Bg5 Kg6 60.Ke3 Ra7 61.Rb2 Ra3+ 62.Kf2 Rc3 63.Bf4 Kh5 64.Kg3 Rc5 65.Rb6 Kg6 66.Bd6 Rc2 67.Be5 Rc5 68.Kf4 Rc4+ 69.Ke3 Bd5 70.g3 Ra4 71.Bd6 Rc4 72.Bb4 Rc1 73.g4 fxg4 74.fxg4 Rg1 75.Kf4 Rf1+ 76.Ke5 Rg1 77.g5 Rf1 78.Rb8 Rf5+ 79.Kd6 Rf7 80.Bc3 Rh7 81.Rg8+ Kf7 82.Rh8 Rxh8 83.Bxh8 Kg6 84.Ke5 Bb3 85.Bf6 Bc4 86.Bd8 Be2 87.Kxe6 Bf3 88.Bb6 Be2 89.Be3 Bf3 90.Bf2 Be2 91.Ke7 Bd1 92.Ke6 Be2 93.Ke7 Bd1 94.Ke6 Be2 95.h5+ Bxh5 96.Bd4 Kxg5 1/2-1/2

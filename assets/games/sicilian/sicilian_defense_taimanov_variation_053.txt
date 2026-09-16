@@ -1,0 +1,14 @@
+[Event "Round 5: Kavutskiy, Kostya - Amartuvshin, Ganzorig"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/9q561Ubm"]
+[Date "2026.07.22"]
+[Round "5.2"]
+[White "Kavutskiy, Kostya"]
+[Black "Amartuvshin, Ganzorig"]
+[Result "0-1"]
+[WhiteElo "2315"]
+[BlackElo "2443"]
+[ECO "B46"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 d6 7.Nxc6 bxc6 8.Qd3 Nf6 9.Qg3 h5 10.h4 e5 11.Bg5 Rb8 12.b3 Qa5 13.O-O Bg4 14.Bxf6 gxf6 15.Bxg4 hxg4 16.Nd1 f5 17.exf5 Qd8 18.Qxg4 Rxh4 19.Qf3 e4 20.Qc3 Kd7 21.g3 Rh7 22.f6 Rb5 23.Re1 Re5 24.Ne3 Reh5 25.Ng4 d5 26.Kg2 Bd6 27.Rh1 Qg8 28.Ne3 Qh8 29.Rxh5 Rxh5 30.Rg1 Be5 31.Qc5 Qxf6 32.Qa7+ Bc7 33.Qxa6 Bxg3 34.Qe2 Rh2+ 35.Kxg3 Qh4# 0-1

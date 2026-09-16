@@ -1,0 +1,14 @@
+[Event "Round 7: Carbone, Diego - Muniz, Rafael"]
+[Site "https://lichess.org/broadcast/campeonato-uruguayo-2026-blitz/round-7/DgiNfR2n/9sd53akL"]
+[Date "2026.07.18"]
+[Round "7.2"]
+[White "Carbone, Diego"]
+[Black "Muniz, Rafael"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2191"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 a5 5.a3 Bxd2+ 6.Qxd2 d6 7.e3 Nc6 8.Be2 O-O 9.O-O e5 10.d5 Ne7 11.b3 Ng6 12.Bb2 Ne4 13.Qc2 f5 14.b4 Bd7 15.c5 Ng5 16.c6 Bc8 17.cxb7 Bxb7 18.Rfd1 Nxf3+ 19.Bxf3 Nh4 20.Rac1 Qg5 21.Kf1 Ba6+ 22.Ke1 Nxf3+ 23.gxf3 Qg1+ 24.Kd2 Qxf2+ 25.Kc3 Qxe3+ 26.Rd3 axb4+ 27.axb4 Bxd3 28.Qxd3 Qxd3+ 29.Kxd3 Ra2 30.Kc3 Rb8 31.Rc2 Ra4 32.Bc1 Rbxb4 33.Kd2 Rd4+ 34.Ke2 Rdc4 0-1

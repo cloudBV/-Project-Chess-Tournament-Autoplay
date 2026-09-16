@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "6.3"]
+[White "Kiszkiel, Oskar"]
+[Black "Chiszko, Oskar"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2214"]
+[ECO "B13"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.c4 Nf6 6.Nc3 a6 7.cxd5 Nxd5 8.Bc4 Be6 9.Ng5 Nxc3 10.Bxe6 Nxd1 11.Bxf7+ Kd7 12.Be6+ Ke8 13.Bf7+ Kd7 14.Be6+ Ke8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Dargali, Hakan - Zeyrek, Ayaz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/4NE7bruh"]
+[Date "2026.07.14"]
+[Round "2.36"]
+[White "Dargali, Hakan"]
+[Black "Zeyrek, Ayaz"]
+[Result "1-0"]
+[WhiteElo "2101"]
+[BlackElo "2021"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Be2 e5 4.O-O Nf6 5.Re1 Bd6 6.Nc3 O-O 7.d3 h6 8.h3 Nd4 9.Be3 Re8 10.a4 a6 11.Nd2 Bc7 12.Nd5 Nxd5 13.exd5 Nxe2+ 14.Rxe2 d6 15.f4 Bf5 16.Qf1 Qf6 17.g4 exf4 18.Qxf4 Qxb2 19.Rb1 Qxc2 20.Qxf5 Re5 21.Qf3 Qxd3 22.Rxb7 Rc8 23.Rb3 Qc2 24.Rf2 f5 25.Rb7 Qd3 26.Nf1 Bd8 27.Rxg7+ 1-0

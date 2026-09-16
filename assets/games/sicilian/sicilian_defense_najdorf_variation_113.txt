@@ -1,0 +1,14 @@
+[Event "Round 12: Fernandes Barbosa Dos Santos, Gabriel - Xu, Chang(CQ)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/mUtvkqaC"]
+[Date "2026.07.19"]
+[Round "12.16"]
+[White "Fernandes Barbosa Dos Santos, Gabriel"]
+[Black "Xu, Chang(CQ)"]
+[Result "1-0"]
+[WhiteElo "2167"]
+[BlackElo "2049"]
+[ECO "B95"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qe2 Be7 8.h4 Qc7 9.O-O-O Nbd7 10.Kb1 b5 11.Bxf6 Nxf6 12.Qe3 Bb7 13.Bd3 O-O 14.g4 Rac8 15.g5 Nd7 16.g6 hxg6 17.h5 g5 18.Rdg1 b4 19.Nce2 Qc5 20.Rh2 Rfe8 21.Rhg2 e5 22.Rxg5 Bf6 23.Rxg7+ Kf8 24.Nf5 Bxg7 25.Qg5 Re6 26.Qxg7+ Ke8 27.h6 b3 28.axb3 Nf8 29.h7 Nxh7 30.Qxh7 Rg6 31.Rxg6 fxg6 32.Qg8+ Kd7 33.Qf7+ Kc6 34.Ne7+ Kb6 35.Nxc8+ Bxc8 36.Qxg6 Kc7 37.Qf7+ Kb6 38.Nc3 Qxf2 39.Nd5+ Kc5 40.Qa7+ Kc6 41.Qxf2 1-0

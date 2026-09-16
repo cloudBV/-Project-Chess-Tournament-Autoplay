@@ -1,0 +1,14 @@
+[Event "Round 6: Gopal G.N. - Savitha Shri B"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-6/6mgkt9Ed/rzHRxBWc"]
+[Date "2026.07.12"]
+[Round "6.3"]
+[White "Gopal G.N."]
+[Black "Savitha Shri B"]
+[Result "1/2-1/2"]
+[WhiteElo "2471"]
+[BlackElo "2317"]
+[ECO "B85"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Main Line"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 Nf6 7.Be3 a6 8.O-O Be7 9.f4 d6 10.Qe1 O-O 11.Kh1 Bd7 12.Qg3 Kh8 13.Rad1 Rac8 14.a3 b5 15.Bf3 e5 16.Nf5 Bxf5 17.exf5 Na5 18.fxe5 dxe5 19.Bg5 e4 20.Bf4 Qc6 21.Nxe4 Qxc2 22.Be5 Nc4 23.Bxf6 Bxf6 24.Nxf6 gxf6 25.Rf2 Qb3 26.Qh4 Kg7 27.Qg3+ Kh8 28.Qh4 Kg7 29.Qg3+ Kh8 30.Qh4 1/2-1/2

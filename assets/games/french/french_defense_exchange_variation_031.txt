@@ -1,0 +1,14 @@
+[Event "Round 8: Edoecs, Joseph - Hugentobler, Patrick"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-8/JGg5v7xk/zStzxSGP"]
+[Date "2026.07.18"]
+[Round "8.3"]
+[White "Edoecs, Joseph"]
+[Black "Hugentobler, Patrick"]
+[Result "0-1"]
+[WhiteElo "2016"]
+[BlackElo "2162"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Nc6 6.Nc3 Nb4 7.Bg5 f6 8.Bh4 c6 9.Ne5 Nxd3+ 10.cxd3 Nh6 11.Qh5+ Kf8 12.O-O Bxe5 13.dxe5 Bg4 14.Qxh6 gxh6 15.Bxf6 Qb6 16.Bxh8 Kf7 17.Bf6 Rg8 18.Bh4 Qd4 19.Bg3 Qxd3 20.Rae1 Ke6 21.f3 Bf5 22.Ne2 Qe3+ 23.Kh1 Qg5 24.h4 Qd2 25.Bf4 Qxb2 26.Bc1 Qb4 27.g4 Bc2 28.Nf4+ Ke7 29.Re2 Qc4 30.Rff2 Bd3 31.Nxd3 Qxd3 32.Bxh6 Ke6 33.Kg2 c5 34.Bg5 h5 35.Re3 Qd4 36.f4 Rxg5 37.f5+ Ke7 38.f6+ Kf8 39.hxg5 Qxe3 40.g6 Qe4+ 41.Kh2 Qxg6 42.e6 hxg4 43.Kg3 Qe4 44.e7+ Kf7 0-1

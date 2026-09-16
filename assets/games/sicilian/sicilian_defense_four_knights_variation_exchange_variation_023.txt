@@ -1,0 +1,14 @@
+[Event "Round 5: Spyropoulos, Nikolaos - Golenia, Wojciech"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/muW5TKih"]
+[Date "2026.07.21"]
+[Round "5.12"]
+[White "Spyropoulos, Nikolaos"]
+[Black "Golenia, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2379"]
+[BlackElo "2224"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Be7 9.Qe2 a5 10.exd5 cxd5 11.Nb5 O-O 12.Bf4 Bb7 13.a4 Rc8 14.Qe3 Nh5 15.Be5 f6 16.Bd6 e5 17.Bxe7 Qxe7 18.Rfe1 Qd7 19.c3 Kh8 20.Rad1 Ba8 21.Qa7 Qg4 22.Be2 Qxa4 23.Nd6 Nf4 24.Bb5 Qb3 25.Nxc8 Rxc8 26.Qd7 Rb8 27.g3 Nh3+ 28.Kg2 Nxf2 29.Kxf2 Qxb5 30.Qxb5 Rxb5 31.c4 Rxb2+ 32.Re2 Rb8 33.cxd5 Rd8 34.Ra2 h5 35.Rxa5 Kh7 36.d6 Bc6 37.Ra7 Bd7 38.Rb1 Bf5 39.Rb6 Kg6 40.Re7 Bh3 41.Ke3 Bf5 42.h4 Ra8 43.d7 Ra3+ 44.Ke2 Ra2+ 45.Kd1 Ra1+ 46.Kd2 Ra2+ 47.Kc1 Ra8 48.Rd6 Rd8 49.Kd2 e4 50.Ke3 Kh7 51.Kf4 Kg6 52.Rd2 Bh3 53.Kxe4 Kh6 54.Rd6 Kg6 55.Kd4 Kh6 56.Kc5 Bxd7 57.Rdxd7 Rc8+ 58.Kd4 Rg8 59.Ke4 Ra8 60.Rxg7 f5+ 61.Kf3 Ra3+ 62.Kg2 f4 63.Rge7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Aronian, Levon - Bluebaum, Matthias"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-6/sILqZjfx/lxVUYBkA"]
+[Date "2026.07.19"]
+[Round "6.3"]
+[White "Aronian, Levon"]
+[Black "Bluebaum, Matthias"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2634"]
+[ECO "E51"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Ragozin Variation"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Bb4 4.Nf3 Nf6 5.e3 O-O 6.Bd2 Nbd7 7.Rc1 dxc4 8.Bxc4 b6 9.O-O Bb7 10.Qe2 a6 11.Rfd1 Qe7 12.a3 Bd6 13.e4 e5 14.Bg5 h6 15.Bh4 c6 16.dxe5 Nxe5 17.Nd4 Nxc4 18.Qxc4 Bf4 19.Ra1 c5 20.Nf5 Qe6 21.Qxe6 fxe6 22.Nd6 Bc6 23.Bg3 Bxg3 24.hxg3 Rad8 25.f3 b5 26.a4 b4 27.Ne2 Nd7 28.Nf4 Rf6 29.Nc4 g5 30.Nh5 Rff8 31.Rd6 Nb8 32.Rxe6 Be8 33.Nf6+ Kf7 34.Rb6 Rd4 35.Nxe8 Nd7 36.Ned6+ Kg8 37.Rxa6 g4 38.Rf1 1-0

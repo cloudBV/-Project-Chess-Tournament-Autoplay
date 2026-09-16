@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-7/n9mydThe/bH9XlSxk"]
+[Date "2026.07.06"]
+[Round "7.2"]
+[White "Ajay Santhosh Parvathareddy"]
+[Black "Pap, Misa"]
+[Result "1-0"]
+[WhiteElo "2476"]
+[BlackElo "2438"]
+[ECO "E45"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, Fischer Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6 6.Ng3 Bxc3+ 7.bxc3 d5 8.cxd5 Bxf1 9.Rxf1 Qxd5 10.f3 Nc6 11.e4 Qc4 12.Qb3 Na5 13.Qxc4 Nxc4 14.Ke2 a6 15.Bf4 c6 16.Rfb1 b5 17.Nf1 Nd7 18.a4 O-O 19.Ne3 Nxe3 20.Bxe3 Nb6 21.axb5 cxb5 22.Ra2 Nc4 23.Bf4 f6 24.Bg3 f5 25.Rba1 a5 26.Rb1 f4 27.Bh4 Rab8 28.Be7 Rf7 29.Bc5 g5 30.Kd3 Rd7 31.Rg1 Rc8 32.Ke2 h6 33.g3 Kh7 34.Raa1 Rf7 35.g4 Kg6 36.h4 Rh7 37.Rh1 h5 38.hxg5 Rch8 39.gxh5+ Rxh5 40.Rxh5 Rxh5 41.d5 Rh2+ 42.Bf2 exd5 43.exd5 a4 44.Rd1 Ne3 45.Rd2 Nc4 46.Rd1 Nb2 47.Rb1 a3 48.d6 Kf7 49.g6+ Ke6 50.g7 Rg2 51.Rg1 Rxg7 52.Rxg7 a2 53.d7 a1=Q 54.d8=Q 1-0

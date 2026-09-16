@@ -1,0 +1,15 @@
+[Event "Round 5: Akturk, Mustafa Deniz - Akkara, Omer"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/dkYBZ25n"]
+[Date "2026.07.02"]
+[Round "5.32"]
+[White "Akturk, Mustafa Deniz"]
+[Black "Akkara, Omer"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2347"]
+[ECO "A49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 c6 7.Bb2 Qa5 8.Nbd2 Qh5 9.e4 Bg4 10.Qe1 Nbd7 11.h4 Rfe8 12.Qe3 Rad8 13.Ng5 h6 14.Nh3 Bxh3 15.Bxh3 g5 16.e5 dxe5 17.dxe5 Nd5 18.Qf3 Qxf3 19.Nxf3 gxh4 20.gxh4 Nf4 21.Kh2 Nc5 22.Rad1 e6 23.Rg1 Kh8 24.Bd4 Nd7 25.Bf1 c5 26.Bb2 a6 27.Re1 b5 28.Re4 Ng6 29.h5 Ne7 30.a4 Rb8 31.axb5 axb5 32.Reg4 Rg8 33.Rf4 Rgf8 34.Rfg4 Rg8 35.Bd3 c4 36.Be4 Nc5 37.bxc4 Nxe4 38.Rxe4 bxc4 39.Ba3 Nf5 40.Rxc4 Rgc8 41.Rgg4 Rd8 42.Rc7 Kg8 43.Be7 Nxe7 44.Rxe7 Rbc8 45.c4 Rc5 46.Rb7 Rdc8 47.Rf4 Bxe5 48.Nxe5 Rxe5 49.Rbxf7 Rxh5+ 50.Kg2 Rg5+ 51.Kf1 h5 52.Re7 e5 53.Re4 Rc5 54.f4 Rf5 55.R7xe5 Rxf4+ 56.Rxf4 Rxe5 57.Kf2 Kg7 58.Kg3 Kg6 59.Rd4 Re3+ 60.Kh4 Kf5 61.c5 Ke5 62.Rc4 Kd5 63.Rc1 Kc6 64.Kxh5 Re5+ 65.Kg4 Rxc5 66.Rxc5+ Kxc5 1/2-1/2

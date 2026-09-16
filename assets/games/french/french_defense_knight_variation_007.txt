@@ -1,0 +1,15 @@
+[Event "Round 4: Bolat, Inayat - Banh Gia Huy"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-4/xVpQbz0L/05elzM4l"]
+[Date "2026.07.19"]
+[Round "4.5"]
+[White "Bolat, Inayat"]
+[Black "Banh Gia Huy"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2451"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Knight Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Bd7 5.g3 Nc6 6.Bg2 Nge7 7.O-O Nf5 8.d3 Be7 9.c4 O-O 10.Nc3 dxc4 11.dxc4 Ncd4 12.g4 Nxf3+ 13.Bxf3 Nd4 14.Bxb7 Qb8 15.Be4 Qxe5 16.f4 Qb8 17.Qd3 h6 18.f5 Bc6 19.Bxh6 gxh6 20.Bxc6 Nxc6 21.f6 Rd8 22.Qe4 Rd2 23.Ne2 Qe5 24.Ng3 Qxe4 25.Nxe4 Rd4 26.Rae1 Bf8 27.Kh1 Ne5 28.g5 hxg5 29.Nxg5 Ng6 30.Rg1 Rh4 31.Rd1 Rf4 32.Rd7 Rxf6 33.Rg3 Bg7 34.Ne4 Rf1+ 35.Kg2 Rf5 36.b3 Re5 37.Kf3 Rf5+ 38.Kg2 a5 39.Nd6 Rf4 40.Nb7 a4 41.Rg5 axb3 42.axb3 Be5 43.Rd2 Rh4 0-1

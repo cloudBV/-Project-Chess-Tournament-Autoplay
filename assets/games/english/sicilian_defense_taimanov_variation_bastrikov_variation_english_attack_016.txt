@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.2"]
+[White "Kvaloy, Aksel Bu"]
+[Black "Kaasen, Tor Fredrik"]
+[Result "0-1"]
+[WhiteElo "2483"]
+[BlackElo "2489"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.a3 b5 8.Nxc6 Qxc6 9.h4 Bb7 10.h5 h6 11.Rh3 Qc7 12.Qd4 Rc8 13.O-O-O Nf6 14.Bd3 Ng4 15.Kb1 Nxe3 16.Qxe3 Bc5 17.Qd2 O-O 18.Rg3 Kh8 19.Qe2 Bd6 20.Rh3 b4 21.axb4 Bxb4 22.Na2 Bd6 23.c3 Rb8 24.Ka1 a5 25.Bb1 e5 26.Rg3 Qb6 27.Bd3 Be7 28.Rb1 Bg5 29.Bc4 f5 30.exf5 d5 31.Bd3 e4 32.Bc2 Ba6 33.Qe1 Rxf5 34.f3 Bh4 35.fxe4 Rf1 36.Rg6 Rxe1 0-1

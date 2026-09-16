@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-9/9GLG8yoU/AJAC3fvR"]
+[Date "2026.07.12"]
+[Round "9.2"]
+[White "Mustaps, Matiss"]
+[Black "Miezis, Normunds"]
+[Result "1/2-1/2"]
+[WhiteElo "2323"]
+[BlackElo "2386"]
+[ECO "B45"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 1/2-1/2

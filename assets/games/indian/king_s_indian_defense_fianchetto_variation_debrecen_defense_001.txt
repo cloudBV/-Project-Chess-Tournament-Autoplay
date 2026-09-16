@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "5.4"]
+[White "Sawicki, Dorian"]
+[Black "Krawczyk, Flawian"]
+[Result "1/2-1/2"]
+[WhiteElo "2278"]
+[BlackElo "2226"]
+[ECO "E67"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Debrecen Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.g3 d6 6.Bg2 Nbd7 1/2-1/2

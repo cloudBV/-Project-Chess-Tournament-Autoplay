@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-6/1Djz4Ac6/HpmrPvUx"]
+[Date "2026.07.23"]
+[Round "6.20"]
+[White "Skonnord, Uno"]
+[Black "Thorsbro, Peter"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2169"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Qc7 6.Nf3 Ne7 7.b4 Nec6 8.Bb2 Nd7 9.Bb5 a5 10.c4 dxc4 11.O-O axb4 12.Bxc6 bxc6 13.axb4 Rxa1 14.Bxa1 Ba6 15.Bc3 g6 16.Nbd2 Bg7 17.Ne4 O-O 18.Nd6 Bb5 19.Re1 Ra8 20.Ng5 h6 21.Ngxf7 Rf8 22.Nxb5 cxb5 23.Nd6 Rb8 24.Qf3 Nf8 25.Ra1 g5 26.Qe4 Nd7 27.h3 Rf8 28.Qg6 Rf4 29.Qxg7+ 1-0

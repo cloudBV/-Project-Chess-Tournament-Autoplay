@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.30"]
+[White "Safar, Sandro"]
+[Black "Ligotnis, Maksims"]
+[Result "1/2-1/2"]
+[WhiteElo "2178"]
+[BlackElo "2053"]
+[ECO "C00"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 c5 4.exd5 exd5 5.Nf3 c4 6.Be2 Nf6 7.O-O Bd6 8.b3 cxb3 9.axb3 O-O 10.c4 Be6 11.c5 Bc7 12.b4 Ne4 13.Bb2 Nd7 14.Nc3 f5 15.Nb5 Bb8 16.Ne5 a6 17.Na3 f4 18.f3 Ng3 19.Re1 Nf5 20.Nxd7 Bxd7 21.Qb3 Ne3 22.Nc2 Bf5 23.Bd3 Bxd3 24.Qxd3 Nc4 25.Bc1 Bc7 26.Na3 Qh4 27.Re2 Nxa3 28.Bxa3 Rae8 29.b5 Re3 30.Qd1 Rfe8 31.Raa2 axb5 32.Bc1 R3e7 33.Qd3 Qf6 34.h3 Rxe2 35.Rxe2 Rxe2 36.Qxe2 Qxd4+ 37.Kh2 Qxc5 38.Qe8+ Qf8 39.Qe6+ Kh8 40.Bb2 Qg8 41.Qd7 Bd8 42.Bxg7+ Qxg7 43.Qxd8+ Qg8 44.Qf6+ Qg7 1/2-1/2

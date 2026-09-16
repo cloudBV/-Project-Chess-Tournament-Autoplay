@@ -1,0 +1,14 @@
+[Event "SA Open 2026 Championship"]
+[Site "https://lichess.org/broadcast/south-african-open-championship-2026-championship/round-7/8CNsDYVF/IbjUBEIx"]
+[Date "2026.07.03"]
+[Round "7.4"]
+[White "Bouah, Lyndon"]
+[Black "Salimu, Chase"]
+[Result "1/2-1/2"]
+[WhiteElo "2040"]
+[BlackElo "2024"]
+[ECO "B41"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Qd3 d6 8.Nc2 Bxc3+ 9.Qxc3 Nc6 10.f3 d5 11.cxd5 exd5 12.exd5 Qxd5 13.Bc4 Qe5+ 14.Qe3 Be6 15.Bxe6 fxe6 16.O-O Qxe3+ 17.Bxe3 Rd8 18.Rad1 Kf7 19.Kf2 e5 20.Ke2 Rhe8 21.Bb6 Rd5 22.Ne3 Rxd1 23.Rxd1 e4 24.Nc4 exf3+ 25.Kxf3 Ne5+ 26.Nxe5+ 1/2-1/2

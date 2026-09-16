@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.18"]
+[White "Sipos, Stefania"]
+[Black "Gal, Peter"]
+[Result "1-0"]
+[WhiteElo "2053"]
+[BlackElo "2115"]
+[ECO "B50"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5 dxe5 5.Nxe5 Nbd7 6.Nc4 a6 7.a4 b6 8.d4 cxd4 9.Qxd4 Bb7 10.Be3 Qc7 11.Nxb6 Nxb6 12.Qxb6 Qxb6 13.Bxb6 e6 14.O-O-O Bb4 15.Bd4 O-O 16.Bc4 Rac8 17.Bb3 Ng4 18.Na2 Ba5 19.f3 e5 20.Ba7 Nf6 21.Rhf1 Rc7 22.Be3 Rb8 23.Kb1 Bc6 24.Bd2 Bxd2 25.Rxd2 Nd7 26.Rfd1 g6 27.Nc3 Rcb7 28.Rd6 Rc8 29.Rxc6 Rxc6 30.Bd5 Rcc7 31.Bxb7 Rxb7 32.Rd6 Nc5 33.Rd5 Nd7 34.Ne4 Kg7 35.Rd6 Ra7 36.a5 f5 37.Nc3 Kf7 38.Nd5 e4 39.fxe4 fxe4 40.Nc3 Nc5 41.Rd5 Rc7 42.Re5 Kf6 43.Rxc5 1-0

@@ -1,0 +1,15 @@
+[Event "Round 8: Paichadze, Luka - Darsadze, Nikoloz"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-8/9nAkS9lJ/ZtFVw3Eu"]
+[Date "2026.07.19"]
+[Round "8.7"]
+[White "Paichadze, Luka"]
+[Black "Darsadze, Nikoloz"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2125"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 Nf5 10.Bxf5 exf5 11.cxd4 Be7 12.Nc3 Be6 13.Bg5 O-O 14.Na4 Qb5 15.Rc1 Bxg5 16.Nxg5 h6 17.Nxe6 fxe6 18.a3 Rac8 19.Nc5 Nd8 20.Qd2 Qe8 21.Nd3 Nc6 22.Nf4 Qd7 23.Rc3 Rc7 24.Rg3 Kh7 25.Rg6 Re8 26.Re3 Re7 27.Reg3 Qe8 28.Nh5 Qxg6 29.Rxg6 Kxg6 30.Nf4+ Kh7 31.h5 Kg8 32.Ng6 Re8 33.Nf4 Kf7 34.b3 Ne7 35.Qb4 Rd8 36.a4 Rdd7 37.Qd2 Rc6 38.a5 Rdc7 39.Qb4 b6 40.Nd3 Nc8 41.axb6 axb6 42.Qb5 Rc3 43.Nf4 Rc1+ 44.Kh2 R1c6 45.Qa6 Rc2 46.f3 R2c3 47.Qa3 R3c6 48.Qa8 Rc3 49.Nxd5 exd5 50.Qxd5+ Ke8 51.Qg8+ Kd7 52.d5 R7c5 53.Qxg7+ Ke8 54.b4 R5c4 55.d6 Rh4+ 56.Kg1 Rc1+ 57.Kf2 Rhc4 58.d7+ Kd8 59.e6 R4c2+ 60.Kg3 Kc7 61.d8=Q+ 1-0

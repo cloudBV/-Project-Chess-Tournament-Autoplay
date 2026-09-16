@@ -1,0 +1,15 @@
+[Event "Round 8: Kviriashvili, Andria - Askanazyan, Gor"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-8/9nAkS9lJ/pr0DRRuW"]
+[Date "2026.07.19"]
+[Round "8.12"]
+[White "Kviriashvili, Andria"]
+[Black "Askanazyan, Gor"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2102"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.Nf3 Nf6 5.d4 Bg4 6.Be2 e6 7.h3 Bh5 8.O-O Nc6 9.Be3 cxd4 10.cxd4 Be7 11.Nc3 Qd6 12.Qb3 Qb4 13.g4 Bg6 14.Ne5 O-O 15.Nxc6 bxc6 16.Qxb4 Bxb4 17.Rac1 Nd5 18.Nxd5 cxd5 19.a3 Be7 20.Rc7 Bd6 21.Rc6 Rfd8 22.Rfc1 Kf8 23.Bd2 Ke7 24.Rxd6 Rxd6 25.Bb4 Rd8 26.Rc6 f6 27.f4 a5 28.Bc5 Be8 29.Ra6 a4 30.h4 h6 31.h5 g5 32.hxg6 Bxg6 33.Bb5 h5 34.gxh5 Bxh5 35.Bxa4 Be2 36.Rxd6 Rxd6 37.Bc6 1-0

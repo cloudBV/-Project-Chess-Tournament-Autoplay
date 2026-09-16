@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.27"]
+[White "Zichenkov, Oleksandr"]
+[Black "Cerveny, Martin"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2402"]
+[ECO "B90"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7 9.O-O-O Rc8 10.f4 b5 11.f5 Bc4 12.Kb1 Be7 13.g4 h6 14.Rg1 b4 15.Bxc4 Rxc4 16.Nd5 Nxd5 17.Qxd5 Qc8 18.Na5 Rc7 19.g5 hxg5 20.Bxg5 Rc5 21.Qb7 Rxh2 22.Bxe7 Kxe7 23.Qxb4 Rxa5 24.Qxd6+ Ke8 25.c3 Qb7 26.b4 Raxa2 27.Rxg7 Qxe4+ 28.Qd3 Rhb2+ 29.Kc1 Qf4+ 0-1

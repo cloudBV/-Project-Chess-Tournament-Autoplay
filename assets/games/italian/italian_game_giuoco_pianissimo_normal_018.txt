@@ -1,0 +1,14 @@
+[Event "Round 4: Federer, Colin - Degtiarev, Evgeny"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-4/5xVHTPCZ/gecYxDQs"]
+[Date "2026.06.03"]
+[Round "4.1"]
+[White "Federer, Colin"]
+[Black "Degtiarev, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2337"]
+[BlackElo "2376"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Bg5 O-O 6.c3 h6 7.Bh4 Be7 8.O-O d6 9.a4 Kh8 10.b4 Nh7 11.Bxe7 Qxe7 12.b5 Nd8 13.Nbd2 f5 14.exf5 Bxf5 15.d4 e4 16.Re1 Nf6 17.Nh4 Bh7 18.g3 d5 19.Bf1 Qd7 20.f3 Nf7 21.fxe4 Nxe4 22.Nxe4 dxe4 23.Qd2 g5 24.Ng2 Ne5 25.Qb2 Nf3+ 26.Kh1 Nxe1 27.Rxe1 Rf3 28.Ne3 Raf8 29.Bg2 Rf2 30.Qb4 Qd6 31.Qb3 h5 32.Qd1 Qa3 33.c4 Qc3 34.d5 b6 35.Kg1 g4 36.Re2 Rxe2 37.Qxe2 Qc1+ 38.Bf1 Rf3 0-1

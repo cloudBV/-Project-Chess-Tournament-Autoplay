@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.08"]
+[Round "1.15"]
+[White "Hangay, Oliver"]
+[Black "Szarvas, Nora"]
+[Result "0-1"]
+[WhiteElo "2240"]
+[BlackElo "2026"]
+[ECO "B90"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.f3 h5 9.Qd2 Be6 10.Nd5 Nxd5 11.exd5 Bf5 12.Be2 Nd7 13.O-O Rc8 14.c4 Nf6 15.Na5 Qc7 16.Rac1 O-O 17.b4 Qd7 18.Rfd1 Bd8 19.Nb3 e4 20.c5 exf3 21.gxf3 Re8 22.Bc4 Bh3 23.Bf4 Qf5 24.Bd3 Qxd5 25.Qf2 Qc6 26.Nd4 Qd7 27.Bxd6 Bc7 28.Bxc7 Qxc7 29.Bf5 Bxf5 30.Nxf5 Re5 31.Nd6 Rg5+ 32.Kh1 Rd8 33.Qh4 Rg6 34.Rg1 Ng4 35.Rce1 Nf6 36.Nf5 Kh7 37.Nxg7 Kxg7 38.Rxg6+ fxg6 39.Qg5 Qd7 40.Rg1 Qd3 41.Qf4 Rf8 42.Qc7+ Rf7 43.Qg3 Qf5 44.Re1 Nd7 45.Kg2 Qc2+ 46.Kf1 Qc4+ 47.Kg2 Qxb4 48.Re6 Qb2+ 49.Kh1 Qb1+ 50.Re1 Qxa2 51.Qd6 Qf2 0-1

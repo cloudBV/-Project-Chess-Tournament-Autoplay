@@ -1,0 +1,14 @@
+[Event "Round 5: Schulze, Lara - Peglau, Dora"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-5/WVFxJWSt/aLGpGhUI"]
+[Date "2026.07.21"]
+[Round "5.4"]
+[White "Schulze, Lara"]
+[Black "Peglau, Dora"]
+[Result "1-0"]
+[WhiteElo "2326"]
+[BlackElo "2070"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 bxc6 7.Qg4 Nf6 8.Qg3 d5 9.Nc3 d4 10.Nb1 Bd6 11.f4 Bb4+ 12.Nd2 O-O 13.O-O Bxd2 14.Bxd2 c5 15.Rae1 Qc7 16.e5 Nd5 17.f5 exf5 18.Bh6 g6 19.Bc4 Ne3 20.e6 Qxg3 21.exf7+ Rxf7 22.hxg3 Bd7 23.Bxe3 dxe3 24.Rxe3 Bb5 25.Bxf7+ Kxf7 26.Rd1 Rc8 27.Rd6 Rc7 28.Kf2 a5 29.Rc3 c4 30.b3 a4 31.bxc4 1-0

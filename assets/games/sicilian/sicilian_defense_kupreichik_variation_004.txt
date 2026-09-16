@@ -1,0 +1,15 @@
+[Event "Round 4: Casalaspro, Mathias Andre - Arizmendi Martinez, Julen Luis"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-4/1lzdeHzB/hzouzTQ1"]
+[Date "2026.07.07"]
+[Round "4.8"]
+[White "Casalaspro, Mathias Andre"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2465"]
+[ECO "B56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kupreichik Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bd7 6.Bg5 e6 7.Ndb5 Bc6 8.Bxf6 gxf6 9.Qh5 a6 10.Nd4 Bd7 11.O-O-O Nc6 12.Nxc6 bxc6 13.Bc4 Qb6 1/2-1/2

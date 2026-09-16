@@ -1,0 +1,14 @@
+[Event "Round 11: Lopez Rayo, Santiago - Hernandez Jimenez, Jeronimo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-11/1k0zGiFk/o2o4oTVl"]
+[Date "2026.07.12"]
+[Round "11.3"]
+[White "Lopez Rayo, Santiago"]
+[Black "Hernandez Jimenez, Jeronimo"]
+[Result "1-0"]
+[WhiteElo "2359"]
+[BlackElo "2244"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Nc3 Bb4 5.Bd2 Ne7 6.h4 c5 7.a3 Bxc3 8.Bxc3 Nbc6 9.dxc5 d4 10.Bd2 O-O 11.Bd3 f5 12.Qe2 h6 13.O-O-O b6 14.exf5 exf5 15.cxb6 Qxb6 16.Nh3 Rb8 17.Bc4+ Kh8 18.b3 Qc5 19.Kb2 Ng6 20.f4 Bd7 21.Ng5 Rfe8 22.Qd3 Re7 23.Nf7+ Kh7 24.g4 Nh8 25.Ng5+ hxg5 26.hxg5+ Kg6 27.Qh3 fxg4 28.Qh5+ 1-0

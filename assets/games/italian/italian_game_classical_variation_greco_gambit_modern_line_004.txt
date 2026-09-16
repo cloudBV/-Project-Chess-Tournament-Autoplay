@@ -1,0 +1,15 @@
+[Event "Round 3: Ozcan, Ilker - Ozcan, Kaan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/JwdJ4dWh"]
+[Date "2026.07.14"]
+[Round "3.7"]
+[White "Ozcan, Ilker"]
+[Black "Ozcan, Kaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2059"]
+[BlackElo "2237"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Modern Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Be2 Ne4 8.cxd4 Bb4+ 9.Bd2 Bxd2+ 10.Nbxd2 O-O 11.O-O Bf5 12.Rc1 Qe7 13.Nb3 a5 14.Nc5 Nd8 15.Nxe4 dxe4 16.Ne1 Ne6 17.Nc2 Rfd8 18.Qd2 c6 19.Rfd1 Bg6 20.Qe3 Nc7 21.Qg3 a4 22.h4 h6 23.Ne3 Kh8 24.a3 Ne6 25.d5 cxd5 26.Nxd5 Qe8 27.h5 Bh7 28.Qe3 Ra5 29.Nb6 Rxd1+ 30.Bxd1 Qe7 31.Rc8+ Bg8 32.Qxe4 Rb5 33.Nc4 Rc5 34.Rxc5 Qxc5 35.Bc2 Ng5 36.Qe2 f6 37.Bd3 b5 38.Qe3 Ne6 39.Nd6 Qd5 40.Qe4 Qxe4 41.Nxe4 Bh7 42.f3 fxe5 43.Bxb5 Bxe4 44.fxe4 Nc5 45.Bc6 Kg8 46.Kf2 Kf7 47.Ke3 Ke6 48.Bd5+ Kd6 49.Kd2 Nd7 50.Ke3 Nf6 51.Bf7 1/2-1/2

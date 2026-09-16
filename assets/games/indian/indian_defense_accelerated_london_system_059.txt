@@ -1,0 +1,14 @@
+[Event "Round 6: Aronyak Ghosh - Bu, Xiangzhi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-6/V8amVhcr/uzhJxPFv"]
+[Date "2026.07.02"]
+[Round "6.1"]
+[White "Aronyak Ghosh"]
+[Black "Bu, Xiangzhi"]
+[Result "1/2-1/2"]
+[WhiteElo "2488"]
+[BlackElo "2719"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.Nf3 Bd6 5.Bg3 c5 6.dxc5 Bxc5 7.c4 O-O 8.a3 Nc6 9.Qc2 Qa5+ 10.Nbd2 Ne4 11.Rc1 Nxd2 12.Nxd2 Be7 13.Bd3 dxc4 14.Bxc4 Rd8 15.Qc3 Qxc3 16.Rxc3 Bd7 17.Ne4 Rac8 18.Ba2 Be8 19.Ke2 Nb8 20.Rhc1 Rxc3 21.Nxc3 Bc6 22.f3 Nd7 23.Bb1 Nb6 24.Be4 Bxe4 25.Nxe4 Nd5 26.Rc2 Kf8 27.Nd2 Bd6 28.Bxd6+ Rxd6 29.g3 Ke8 30.e4 Nb6 31.Rc7 Rd7 32.Rxd7 Kxd7 33.Kd3 Kc6 34.Nc4 Nxc4 35.Kxc4 1/2-1/2

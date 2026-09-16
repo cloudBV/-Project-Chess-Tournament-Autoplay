@@ -1,0 +1,15 @@
+[Event "Round 4: Daghli, Arash - Ebadi, Seyed Ali"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-4/t0goMACL/UNI5oCVe"]
+[Date "2026.07.13"]
+[Round "4.1"]
+[White "Daghli, Arash"]
+[Black "Ebadi, Seyed Ali"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "2128"]
+[ECO "E42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.a3 Bxc3+ 8.Nxc3 dxc4 9.Bxc4 O-O 10.O-O Nc6 11.Be3 h6 12.Re1 Ne7 13.Qf3 Ned5 14.Rad1 Bd7 15.Bc1 Bc6 16.Qh3 Nxc3 17.bxc3 Be4 18.Bd3 Bxd3 19.Rxd3 Kh7 20.Rg3 Rg8 21.Qh4 Rc8 22.Bg5 Qd5 23.Rh3 Qf5 24.Bxh6 Qg4 25.Bd2+ Qxh4 26.Rxh4+ Kg6 27.Re5 Nh7 28.Re3 1-0

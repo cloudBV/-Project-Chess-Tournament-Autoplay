@@ -1,0 +1,14 @@
+[Event "Round 2: Lutz, Albert - Heck, Norbert"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-2/yi2iwZcH/qJztZ4VJ"]
+[Date "2026.07.18"]
+[Round "2.10"]
+[White "Lutz, Albert"]
+[Black "Heck, Norbert"]
+[Result "0-1"]
+[WhiteElo "2007"]
+[BlackElo "2210"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.d4 O-O 5.e4 d6 6.Be2 e5 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6 10.Be3 Nh5 11.Qd2 f5 12.Nxc6 bxc6 13.Bd4 Nf6 14.exf5 Bxf5 15.Bd3 c5 16.Bf2 Qd7 17.Rfe1 a6 18.Bxf5 Qxf5 19.Rxe8+ Rxe8 20.Re1 Rxe1+ 21.Qxe1 Kf7 22.Qd2 Qe6 23.b3 Qe5 24.Qe1 Qxe1+ 25.Bxe1 Ke6 26.Kf2 c6 27.Ne4 Nxe4+ 28.fxe4 d5 29.exd5+ cxd5 30.cxd5+ Kxd5 31.Ke2 c4 32.Bd2 c3 33.Bc1 Ke4 34.h3 h5 35.g4 hxg4 36.hxg4 Be5 37.b4 Bd6 38.a3 Kd4 39.Bg5 Kc4 40.Bc1 Be5 41.Ke3 g5 42.Ke2 Bf4 43.Bxf4 gxf4 44.g5 f3+ 0-1

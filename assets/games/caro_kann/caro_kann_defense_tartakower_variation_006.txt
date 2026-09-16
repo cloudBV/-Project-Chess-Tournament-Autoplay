@@ -1,0 +1,14 @@
+[Event "Round 9: Dingertz, Gustav - Joensson, Oscar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/yqEj9fRb"]
+[Date "2026.07.04"]
+[Round "9.14"]
+[White "Dingertz, Gustav"]
+[Black "Joensson, Oscar"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2114"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.Qc2 h5 10.O-O h4 11.h3 Nd7 12.Bd2 Nf8 13.Rae1 Bd7 14.c4 Rc8 15.f4 g6 16.c5 Bb8 17.f5 g5 18.Bc4 Nh7 19.b4 Qc7 20.g3 Re7 21.Qb3 Rce8 22.Qf3 Kh8 23.Bd3 Rxe2 24.Rxe2 Rxe2 25.Bxe2 Bxf5 26.Qg2 Qd7 27.Rxf5 Qxf5 28.gxh4 Qb1+ 29.Bf1 gxh4 30.Qg4 Qb2 31.Qc8+ Kg7 32.Qxb8 Qxd4+ 33.Kh1 Qxd2 34.Qxb7 Qe1 35.Kg1 Ng5 36.Qxc6 Ne4 0-1

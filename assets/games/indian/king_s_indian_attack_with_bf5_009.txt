@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "15.1"]
+[White "4k.c 9.15.1"]
+[Black "SerendipityHCE 0e3fd4a0"]
+[Result "1-0"]
+[WhiteElo "3017"]
+[BlackElo "3066"]
+[ECO "A07"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with Bf5"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.O-O Bf5 5.b3 e6 6.Bb2 Bd6 7.d3 O-O 8.Nbd2 Qe7 9.a4 Rd8 10.Qe1 Bc7 11.Nh4 Bg6 12.e4 e5 13.a5 Re8 14.Nxg6 hxg6 15.c3 Na6 16.exd5 cxd5 17.b4 Rad8 18.Qd1 Nb8 19.Qa4 a6 20.c4 Nc6 21.b5 Nxa5 22.cxd5 Nxd5 23.Rfc1 Bb6 24.bxa6 bxa6 25.Ba3 Qd7 26.Bc5 Bc7 27.Bxd5 Qxa4 28.Bxf7+ Kxf7 29.Rxa4 Rxd3 30.Bb4 Bd8 31.Rxa5 Bxa5 32.Bxa5 Rd5 33.Ra1 Rc8 34.Ne4 Ke6 35.Ra2 Kf5 36.f3 Ra8 37.h4 Ke6 38.Kf2 Rb5 39.Ra3 Rb2+ 40.Ke3 Rb5 41.Nf2 Kf7 42.Nd3 Kg8 43.Ke4 Rab8 44.Nxe5 Kh7 45.Nf7 Re8+ 46.Kd4 Reb8 47.Ng5+ Kh8 48.Ra4 Ra8 49.Ke4 Rc5 50.Kf4 Rac8 51.Ne4 Rd5 52.Bc3 a5 53.Rxa5 Rxa5 54.Bxa5 Rf8+ 55.Ke3 Ra8 56.Bc7 Kg8 57.Be5 Ra6 58.f4 Ra3+ 59.Kf2 Ra6 60.Kf3 Ra4 61.Nd6 Ra3+ 62.Kg4 Kf8 63.f5 Ra5 64.Kf4 Ra4+ 65.Kg5 Ra5 66.Bc3 Ra3 67.Ne4 Ra4 68.Nc5 Ra3 69.Be5 gxf5 70.Ne6+ Kf7 71.Nxg7 f4 72.Kxf4 Ra2 73.h5 Rf2+ 74.Kg5 Re2 75.Bd4 Re4 76.Nf5 Kg8 77.g4 Re6 78.Ng3 Rc6 79.Kf5 Kf7 80.Be5 Ke8 81.Ne2 Kd7 82.g5 Rc8 83.h6 Rf8+ 84.Bf6 Rc8 85.h7 Kc6 86.Nf4 Rb8 87.g6 Kc5 88.g7 Kb4 89.Nh5 Rb5+ 90.Be5 Rc5 91.g8=Q Rc2 92.Qd5 Rc5 93.Bd6 Kc3 94.h8=Q+ Kc2 95.Qxc5+ Kd3 96.Qhc3+ Ke2 97.Q3e3+ Kf1 98.Qf2# 1-0

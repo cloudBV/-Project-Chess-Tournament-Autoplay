@@ -1,0 +1,15 @@
+[Event "Round 4: Podolchenko, Evgeniy - Mammadov, Mustafa"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/Qd7UU6Qe"]
+[Date "2026.07.06"]
+[Round "4.15"]
+[White "Podolchenko, Evgeniy"]
+[Black "Mammadov, Mustafa"]
+[Result "0-1"]
+[WhiteElo "2287"]
+[BlackElo "2037"]
+[ECO "E70"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Kramer Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 O-O 6.Ng3 c6 7.Be2 a6 8.Be3 b5 9.O-O Nbd7 10.Rc1 Rb8 11.c5 Qa5 12.f3 dxc5 13.dxc5 Rd8 14.Qc2 Ne5 15.b3 h5 16.Nh1 Kh7 17.Nf2 Ned7 18.Nd3 Qc7 19.Rcd1 e5 20.f4 Bh6 21.Qc1 exf4 22.Bxf4 Bxf4 23.Rxf4 Kg7 24.Rdf1 Re8 25.Qb2 Re6 26.Nd5 cxd5 27.exd5 Re3 28.c6 Ne5 29.Rxf6 Bf5 30.R6xf5 gxf5 31.Nxe5 Rxe5 32.Rxf5 Re8 33.Bxh5 f6 34.Rxe5 Rxe5 35.Bf3 Re1+ 36.Kf2 Rh1 37.Qd2 Qxh2 38.d6 Qg1+ 39.Ke2 Qf1+ 40.Ke3 Qg1+ 41.Kd3 Qb1+ 42.Ke3 Qg1+ 43.Ke4 Qc5 44.d7 Qxc6+ 45.Kf5 Qc5+ 46.Qd5 Rh5+ 0-1

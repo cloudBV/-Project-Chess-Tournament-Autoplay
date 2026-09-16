@@ -1,0 +1,15 @@
+[Event "North Island Chess Championships 2026"]
+[Site "https://lichess.org/broadcast/nz-north-island-championship-2026/round-8/GkU6JFqC/LBY87FK4"]
+[Date "2026.07.08"]
+[Round "08"]
+[White "Jin, Yanbo"]
+[Black "Keith, Matthew"]
+[Result "1/2-1/2"]
+[WhiteElo "2051"]
+[BlackElo "2047"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.b3 O-O 6.Bd3 c5 7.O-O cxd4 8.Nxd4 b6 9.Bb2 Bb7 10.Nd2 Nbd7 11.Be2 Rc8 12.Rc1 Bc5 13.cxd5 Nxd5 14.a3 a6 15.b4 Bd6 16.Rxc8 Qxc8 17.Nc4 Bc7 18.Qb3 b5 19.Nd2 Qb8 20.g3 N5b6 21.Bf3 Ne5 22.Bg2 Bxg2 23.Kxg2 Qb7+ 24.f3 Nbc4 25.Nxc4 Nxc4 26.Bc1 Bb6 27.Rd1 Bxd4 28.Rxd4 e5 29.Rd1 e4 30.f4 Qb6 31.Rd4 Rd8 32.Bb2 Rxd4 33.Bxd4 Qg6 34.Qc2 f5 35.a4 Qg4 36.axb5 axb5 37.Qa2 h5 38.Qa8+ Kh7 39.Qf8 h4 40.Kf2 Nd2 41.Bxg7 1/2-1/2

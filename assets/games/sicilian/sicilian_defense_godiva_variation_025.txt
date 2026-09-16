@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.32"]
+[White "Navratil, Jiri"]
+[Black "Starcevic, Ante Leon"]
+[Result "0-1"]
+[WhiteElo "2040"]
+[BlackElo "2111"]
+[ECO "B32"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Be3 Qc7 8.Bd3 Bb4 9.O-O Bxc3 10.bxc3 d5 11.exd5 Nxd5 12.Bc5 b6 13.Ba3 Bb7 14.c4 Nf6 15.Be2 Rd8 16.Qc1 Nd4 17.Nxd4 Rxd4 18.Rd1 Ng4 19.f4 Rxf4 20.h3 Rf2 21.Bxg4 Rxg2+ 22.Kf1 Qh2 23.Rd8+ Kxd8 24.Qg5+ Kc8 25.Bxe6+ fxe6 0-1

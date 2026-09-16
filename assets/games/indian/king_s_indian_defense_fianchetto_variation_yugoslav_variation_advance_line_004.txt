@@ -1,0 +1,15 @@
+[Event "Round 9: Sanikidze, Tornike - Torosyan, Volodya"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-9/FKixVmya/vrqdA9A8"]
+[Date "2026.07.20"]
+[Round "9.6"]
+[White "Sanikidze, Tornike"]
+[Black "Torosyan, Volodya"]
+[Result "0-1"]
+[WhiteElo "2432"]
+[BlackElo "2196"]
+[ECO "E66"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line"]
+
+1.c4 Nf6 2.g3 c5 3.Bg2 Nc6 4.Nc3 g6 5.Nf3 Bg7 6.d4 O-O 7.O-O d6 8.d5 Na5 9.Nd2 e6 10.Rb1 a6 11.a3 exd5 12.cxd5 Ng4 13.Nce4 f5 14.Nxd6 Qxd6 15.b4 b5 16.bxa5 c4 17.Nf3 Nf6 18.Bd2 Qxd5 19.Ng5 Ne4 20.Nxe4 fxe4 21.Bb4 Qxd1 22.Rfxd1 Re8 23.a4 Bg4 24.Kf1 bxa4 25.Rbc1 Bb2 26.Rxc4 a3 27.Bxe4 Be6 28.Rc2 Bh3+ 29.Bg2 Bxg2+ 30.Kxg2 Rac8 31.Rcd2 Rb8 32.Bc5 a2 33.Bd4 Red8 34.Bxb2 Rxd2 35.Rxd2 Rxb2 36.Rxb2 a1=Q 37.Rb8+ Kf7 38.Rb7+ Ke8 39.Rb8+ Kd7 40.Rb7+ Kc8 0-1

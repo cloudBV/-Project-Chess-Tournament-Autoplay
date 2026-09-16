@@ -1,0 +1,15 @@
+[Event "Round 8: Anushka Bapu Kutwal - Saranya Devi Narahari"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-8/YlrS1TRs/3HrX3mZL"]
+[Date "2026.07.23"]
+[Round "8.4"]
+[White "Anushka Bapu Kutwal"]
+[Black "Saranya Devi Narahari"]
+[Result "0-1"]
+[WhiteElo "2064"]
+[BlackElo "2097"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 g6 4.Bb2 Nf6 5.e5 Nd5 6.c4 Nc7 7.Nc3 Bg7 8.h4 O-O 9.h5 Nc6 10.Qe2 Nb4 11.O-O-O d5 12.exd6 Ne8 13.a3 Nc6 14.Ne4 Nd4 15.Nxd4 cxd4 16.hxg6 hxg6 17.Qd3 f5 18.Nc5 Qxd6 19.b4 e5 20.g3 e4 21.Qb3 Rf7 22.d3 b6 23.Na4 Be6 24.Kb1 Rc8 25.Rc1 Nf6 26.Be2 Nd7 27.Rh4 b5 28.Nc5 Nxc5 29.bxc5 Rxc5 30.dxe4 fxe4 31.Ka1 d3 32.Rch1 Bxb2+ 33.Qxb2 Rg7 34.Rh8+ Kf7 35.Ra8 dxe2 36.Rxa7+ Rc7 37.Rxc7+ Qxc7 38.Qxe2 Qe5+ 39.Qb2 Qxb2+ 40.Kxb2 Bxc4 41.Kc3 Kf6 42.a4 Ra7 43.axb5 Bxb5 44.Rh4 Bd3 45.Rf4+ Ke5 46.Rg4 Ra3+ 47.Kb2 Ra6 48.Rg5+ Kd4 49.g4 Rf6 50.Kb3 Rxf2 51.Rxg6 Bc4+ 52.Kb4 e3 53.Rd6+ Bd5 54.Rd7 e2 55.Re7 Be4 56.Rd7+ Ke3 57.g5 e1=Q+ 58.Kc5 Qa5+ 59.Kd6 Qd5+ 60.Kc7 Qc5+ 0-1

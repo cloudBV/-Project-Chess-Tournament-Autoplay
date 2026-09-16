@@ -1,0 +1,15 @@
+[Event "Round 3: Damya, Aydin - Kara, Goktan Can"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/8HsxKqfN"]
+[Date "2026.07.14"]
+[Round "3.32"]
+[White "Damya, Aydin"]
+[Black "Kara, Goktan Can"]
+[Result "1/2-1/2"]
+[WhiteElo "2105"]
+[BlackElo "2015"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 4.Nc3 d6 5.d4 O-O 6.Nf3 c6 7.e4 Bg4 8.h3 Bxf3 9.Bxf3 Qb6 10.Rb1 Qb4 11.Qd3 c5 12.Bd2 Qb6 13.d5 e6 14.O-O exd5 15.exd5 Na6 16.a3 Nd7 17.Qc2 Rae8 18.Rbe1 f5 19.Be2 Nab8 20.f4 a6 21.Bf3 Rxe1 22.Rxe1 Qd8 23.Re6 Rf6 24.Qd3 Nf8 25.Re1 Rf7 26.Qe2 Bf6 27.Qe8 Re7 28.Rxe7 Bxe7 29.Qxd8 Bxd8 30.Kf2 Nbd7 31.Ke2 Nb6 32.Kd3 Nfd7 33.b3 Bf6 34.g4 Bg7 35.Nd1 Nc8 36.Ne3 Ne7 37.Be1 Kf7 38.Bd1 Bb2 39.a4 Bd4 40.Nc2 Bg7 41.Bf3 Bh6 42.Bd2 Bg7 43.Ba5 Bh6 44.g5 Bf8 45.Bc7 Nc8 46.Ke3 Ke8 47.h4 Bg7 48.h5 Nf8 49.hxg6 hxg6 50.Ba5 b6 51.Bd2 a5 52.Be2 Nd7 53.Bd3 Nb8 54.Ne1 Na6 55.Nf3 Ne7 56.Nh4 Kf7 57.Bb1 Nb4 58.Ke2 Bh8 59.Ng2 Bg7 60.Nh4 Bh8 1/2-1/2

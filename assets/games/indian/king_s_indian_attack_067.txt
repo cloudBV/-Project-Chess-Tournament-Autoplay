@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "6.6"]
+[White "Frank, Adam"]
+[Black "Babula, Matej"]
+[Result "1/2-1/2"]
+[WhiteElo "2358"]
+[BlackElo "2119"]
+[ECO "A07"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Nf6 4.Bg2 e6 5.O-O Bd6 6.b3 O-O 7.Bb2 a5 8.c4 a4 9.c5 Be7 10.Nc3 a3 11.Bc1 b6 12.cxb6 cxb6 13.Ne5 Nxe5 14.dxe5 Nd7 15.Bf4 g5 16.Be3 Nxe5 17.Rc1 Ba6 18.f4 Ng4 19.Bd4 Bc5 20.Qd2 Qf6 21.Bxc5 bxc5 22.Bf3 Qd4+ 23.Qxd4 cxd4 24.Nxd5 exd5 25.Bxg4 Rfe8 26.Kf2 gxf4 27.gxf4 Re4 28.Bf3 Rxf4 29.Kg3 Rf5 30.Bg4 Rxf1 31.Rxf1 Re8 32.Kf2 d3 33.exd3 Bxd3 34.Rd1 Be4 35.Bf3 Rc8 36.Bxe4 dxe4 37.Ke3 Rc2 38.Kxe4 Rxa2 39.Rd8+ Kg7 40.Ra8 Rxh2 41.Rxa3 Rb2 42.Kf4 Kg6 43.Ra6+ f6 44.Rb6 h5 45.b4 Rb3 46.Rb8 h4 47.b5 h3 48.b6 Rb4+ 49.Kg3 Rb3+ 50.Kh2 Kf5 51.b7 Kf4 1/2-1/2

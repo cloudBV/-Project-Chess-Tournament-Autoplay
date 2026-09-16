@@ -1,0 +1,15 @@
+[Event "Round 4: Oppitz, Peter - Zschischang, Gunnar"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-50/round-4/NCoWItRH/waaNNLFN"]
+[Date "2026.07.09"]
+[Round "4.3"]
+[White "Oppitz, Peter"]
+[Black "Zschischang, Gunnar"]
+[Result "1/2-1/2"]
+[WhiteElo "2057"]
+[BlackElo "2057"]
+[ECO "B43"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.Bd3 Bb7 7.O-O d6 8.Be3 Nf6 9.a3 Be7 10.f4 Nbd7 11.Qf3 h5 12.Kh1 h4 13.h3 Qc7 14.Rae1 Nc5 15.Bf2 g6 16.Qe2 Nh5 17.Qg4 Nf6 18.Qe2 Nh5 19.Qf3 Nf6 1/2-1/2

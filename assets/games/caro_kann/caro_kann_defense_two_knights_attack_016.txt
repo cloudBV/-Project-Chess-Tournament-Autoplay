@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.3"]
+[White "Dobrowolski, Kamil"]
+[Black "Sobol, Matvii"]
+[Result "0-1"]
+[WhiteElo "2040"]
+[BlackElo "2431"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Ne5 e6 9.Qe2 b5 10.Bd3 Bd6 11.a4 Qc7 12.Nxc6 b4 13.Nd4 a6 14.Nf5 Bb7 15.Nxd6+ Qxd6 16.O-O h5 17.Qe3 Rd8 18.b3 h4 19.h3 Nd5 20.Qf3 Qf4 21.Be4 Qxf3 22.Bxf3 Rc8 23.Be4 f5 24.Bxd5 Bxd5 25.Bb2 Rxc2 26.Bxg7 Rg8 27.Be5 Rxg2+ 28.Kh1 Rxf2+ 29.Kg1 Rg2+ 30.Kh1 Rgxd2+ 0-1

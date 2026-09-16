@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.24"]
+[White "Gutierrez Toro, Raul"]
+[Black "Lakuntza Plazaola, Asier"]
+[Result "0-1"]
+[WhiteElo "2038"]
+[BlackElo "2279"]
+[ECO "B40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.Bb2 Nc6 5.d4 cxd4 6.Nxd4 Qf6 7.c3 Bc5 8.Nf3 Nge7 9.Nbd2 d5 10.Qc2 Ng6 11.g3 dxe4 12.Qxe4 e5 13.Bg2 O-O 14.O-O Qe7 15.b4 Ba7 16.Nc4 f5 17.Qe2 e4 18.Nfd2 Be6 19.a4 Nce5 20.Nxe5 Nxe5 21.Kh1 Rac8 22.f3 e3 23.b5 Rfd8 24.Ba3 Qf6 25.f4 Ng4 26.Nf3 Bc4 27.Qb2 e2 0-1

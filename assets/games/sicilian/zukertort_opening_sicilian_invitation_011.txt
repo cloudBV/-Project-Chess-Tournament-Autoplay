@@ -1,0 +1,14 @@
+[Event "Round 6: Korniotis, Filippos - Frendzas, Panayotis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/nx2g84XQ"]
+[Date "2026.07.10"]
+[Round "6.54"]
+[White "Korniotis, Filippos"]
+[Black "Frendzas, Panayotis"]
+[Result "0-1"]
+[WhiteElo "2127"]
+[BlackElo "2175"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.e3 Nf6 3.c4 g6 4.b3 Bg7 5.Bb2 O-O 6.Be2 Nc6 7.O-O b6 8.d4 cxd4 9.exd4 d5 10.Ne5 Bb7 11.Nd2 Rc8 12.Rb1 dxc4 13.Nxc6 Bxc6 14.bxc4 e6 15.Qb3 Qd7 16.Rfe1 Rfd8 17.Qe3 Ne8 18.Nb3 Nd6 19.Red1 Nf5 20.Qd3 Qe7 21.Rbc1 Qg5 22.Bf1 h5 23.Bc3 Ba4 24.d5 Bxc3 25.Rxc3 b5 26.cxb5 Bxb5 27.Qc2 Bxf1 28.Rxf1 Rxc3 29.Qxc3 Rxd5 30.Qc1 Qd8 31.h3 Nd4 32.Nxd4 Rxd4 33.Kh2 Rd2 34.Qc4 Qa5 35.Rb1 Rxf2 36.Rb8+ Kh7 37.Qc8 Qe5+ 38.Kg1 Qe1+ 39.Kh2 Qe5+ 40.Kg1 Rf5 41.Qg8+ Kh6 42.Qf8+ Qg7 43.Qd6 Qa1+ 44.Kh2 a5 45.Qf8+ Qg7 46.Qd8 Rd5 47.Qc7 Qe5+ 48.Qxe5 Rxe5 49.Ra8 h4 50.Kg1 Rf5 51.Ra7 Kg7 52.Ra8 Kf6 53.Ra7 g5 54.Ra8 Ke7 55.a3 Kd7 56.Rb8 Kc6 57.Kh2 Rf4 58.Rc8+ Kb5 59.Rc3 Rf1 60.Re3 Kc4 61.Re5 Rf5 62.Re3 Kd4 63.Rb3 Kc4 64.Re3 e5 65.g4 hxg3+ 66.Kxg3 f6 67.Re1 Rf4 68.Rb1 e4 69.Rb8 e3 70.Re8 Kd3 71.Rd8+ Rd4 72.Ra8 e2 73.Kf2 Rf4+ 74.Ke1 Rf1# 0-1

@@ -1,0 +1,15 @@
+[Event "Round 1: Terry, Renato - Acosta, Pablo Ismael"]
+[Site "https://lichess.org/broadcast/copa-independencia-del-peru-itt-gm/round-1/qQACkh4b/ws3hMSrn"]
+[Date "2026.07.18"]
+[Round "1.1"]
+[White "Terry, Renato"]
+[Black "Acosta, Pablo Ismael"]
+[Result "0-1"]
+[WhiteElo "2508"]
+[BlackElo "2446"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with Bf5"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bf5 5.d3 Nbd7 6.c4 dxc4 7.dxc4 e5 8.Nh4 Be6 9.Qc2 Bc5 10.Nc3 O-O 11.b3 a5 12.Na4 Bd4 13.Rb1 b5 14.Nb2 Rc8 15.Rd1 Qc7 16.Bd2 Qa7 17.Be1 Rfe8 18.Nf3 Bb6 19.Ng5 Bg4 20.Rbc1 Nc5 21.Rd6 h6 22.Rxf6 gxf6 23.Qh7+ Kf8 24.Qxh6+ Ke7 25.b4 axb4 26.Bxb4 Bf5 27.Nh7 Bxh7 28.Qxh7 Ba5 29.Bxc5+ Qxc5 30.Nd3 Qd4 31.e3 Qg4 32.Bh3 Qe2 33.Bxc8 Rxc8 34.Qf5 Rd8 35.Nc5 Rd1+ 36.Rxd1 Qxd1+ 37.Kg2 bxc4 38.Ne4 Qd5 39.Qxf6+ Kd7 40.Qf3 Kc7 41.g4 c3 42.Nxc3 Bxc3 43.Qxd5 cxd5 44.f4 e4 45.h4 Bd2 46.Kf2 d4 47.exd4 Bxf4 48.a4 Kc6 49.g5 Kd5 50.a5 Kxd4 51.a6 Kd3 52.Kg2 Bb8 53.h5 e3 54.g6 e2 55.gxf7 e1=Q 56.f8=Q Qg3+ 57.Kf1 Qh3+ 58.Kf2 Ba7+ 59.Ke1 Qe3+ 0-1

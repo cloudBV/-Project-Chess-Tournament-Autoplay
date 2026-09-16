@@ -1,0 +1,15 @@
+[Event "Round 4: Zylka, Stanislaw - Sheinkman, Mikhail"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-4/1lzdeHzB/zOx8EQ3Y"]
+[Date "2026.07.07"]
+[Round "4.15"]
+[White "Zylka, Stanislaw"]
+[Black "Sheinkman, Mikhail"]
+[Result "1-0"]
+[WhiteElo "2343"]
+[BlackElo "2127"]
+[ECO "B47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Ncb5 Qb8 7.Bd3 a6 8.Nxc6 bxc6 9.Nd4 e5 10.Ne2 Nf6 11.O-O d5 12.exd5 cxd5 13.c4 Bd6 14.cxd5 e4 15.Bxe4 O-O 16.Bf3 Bxh2+ 17.Kh1 Be5 18.Qa4 Bd7 19.Qh4 Qd6 20.Nf4 Bf5 21.Re1 h6 22.Nh5 Nd7 23.Bf4 Bxf4 24.Qxf4 Qxf4 25.Nxf4 g5 26.Ne2 Ne5 27.Nd4 Nxf3 28.gxf3 Bd7 29.Rac1 Rac8 30.Nc6 Kg7 31.b4 Rc7 32.Rc5 Rb7 33.a3 Rc8 34.Kg2 Kf6 35.Re4 Bf5 36.Rd4 Bd7 37.a4 h5 38.Rdc4 h4 39.Na5 h3+ 40.Kh2 Rxc5 41.bxc5 Rb2 42.Kg3 Rd2 43.c6 Bc8 44.Rc5 Rd1 45.Nc4 Rg1+ 46.Kh2 Rg2+ 47.Kh1 Rxf2 48.d6 Rf1+ 49.Kh2 Rf2+ 50.Kg1 h2+ 51.Kh1 g4 52.d7 g3 53.d8=Q+ 1-0

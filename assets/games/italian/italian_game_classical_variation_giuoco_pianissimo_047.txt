@@ -1,0 +1,15 @@
+[Event "Round 4: Gauri, Shankar - Pang, Qi"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-4/Hgx3Jw9l/p7XCXcWE"]
+[Date "2026.07.09"]
+[Round "4.2"]
+[White "Gauri, Shankar"]
+[Black "Pang, Qi"]
+[Result "1/2-1/2"]
+[WhiteElo "2382"]
+[BlackElo "2304"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O d6 6.c3 O-O 7.Bg5 a5 8.Nbd2 h6 9.Bh4 Ba7 10.Re1 g5 11.Bg3 Nh7 12.Nf1 h5 13.h4 g4 14.N3h2 Qf6 15.Ne3 Ne7 16.Nd5 Nxd5 17.Bxd5 Be6 18.Bxe6 fxe6 19.Re2 Rf7 20.Qb3 Bb6 21.Rd1 Nf8 22.d4 Ng6 23.dxe5 dxe5 24.Qb5 Raf8 25.Rdd2 Nxh4 26.Qxe5 Qxe5 27.Bxe5 Ng6 28.Bd4 Nf4 29.Re1 Rd7 30.Nf1 Bxd4 31.cxd4 Rfd8 32.d5 exd5 33.exd5 Rxd5 34.Rxd5 Rxd5 35.Re4 Nd3 36.b3 Rc5 37.Rd4 Nb4 38.Rd2 Rc1 39.g3 c6 40.Kg2 Ra1 41.Rd8+ Kf7 42.a4 Ke6 43.Ne3 b5 44.axb5 cxb5 45.Rb8 Nd3 46.Rb6+ Kd7 47.f4 Ra2+ 48.Kf1 b4 49.Nc4 Nc5 50.Ne5+ Ke7 51.f5 Nd7 52.Re6+ Kd8 53.Rd6 Ke7 54.Re6+ Kd8 55.Rd6 Ke7 56.Rxd7+ Kf6 57.Nc4 Kxf5 58.Rd5+ Ke4 59.Rxa5 Rxa5 60.Nxa5 Kf3 61.Nc6 Kxg3 62.Nxb4 Kf4 63.Nd3+ Ke4 64.b4 Kd5 65.Kf2 h4 66.b5 h3 67.Kg3 Kd6 68.Kh2 Kc7 69.Ne5 Kb6 70.Nxg4 Kxb5 71.Kxh3 1/2-1/2

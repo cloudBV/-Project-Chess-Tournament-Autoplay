@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.08"]
+[Round "1.2"]
+[White "Szabo, Abel"]
+[Black "Juhasz, Agoston"]
+[Result "1-0"]
+[WhiteElo "2091"]
+[BlackElo "2427"]
+[ECO "B94"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 Qc7 8.Qf3 h6 9.Bxf6 Nxf6 10.h3 g6 11.g4 Bg7 12.O-O-O Bd7 13.g5 hxg5 14.fxg5 Nh5 15.Nd5 Qd8 16.h4 e6 17.Ne3 Rc8 18.Nc4 O-O 19.Nxd6 Rc7 20.Nc4 Qe7 21.Rh2 b5 22.Ne3 Qc5 23.Rhd2 a5 24.Qf2 a4 25.Be2 a3 26.Bxh5 gxh5 27.Rd3 axb2+ 28.Kb1 Ra7 29.c3 b4 30.Nb3 Qe7 31.Nf5 exf5 32.Qxa7 Qxe4 33.Qxd7 bxc3 34.Nd4 Qxh4 35.Qxf5 Re8 36.Nc2 Qc4 37.Rd8 Rf8 38.Rxf8+ Kxf8 39.Rd8+ 1-0

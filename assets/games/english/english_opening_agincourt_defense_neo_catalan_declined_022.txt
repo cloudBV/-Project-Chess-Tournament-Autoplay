@@ -1,0 +1,15 @@
+[Event "Round 3: Docampo Beltran, Dexter - Fiorito, Francisco"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/SyKKTtX3"]
+[Date "2026.07.06"]
+[Round "3.9"]
+[White "Docampo Beltran, Dexter"]
+[Black "Fiorito, Francisco"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2452"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 d4 7.Bb2 c5 8.e3 Nc6 9.exd4 cxd4 10.Re1 a5 11.Na3 Bc5 12.Nb5 d3 13.Ne5 Nb4 14.Rf1 Nd7 15.Qh5 Be7 16.Nxd7 Bxd7 17.Bxb7 Rb8 18.Bg2 Bxb5 19.cxb5 Bg5 20.a4 Bxd2 21.Qe5 Bh6 22.Bc3 Qe7 23.Rfd1 Rfc8 24.b6 Rxb6 25.Qxa5 Rcb8 26.Bd4 Ra6 27.Qe5 Rc8 28.Qb5 e5 29.Bb2 Qd6 30.Bxe5 Qc5 31.Bb7 Qxb5 32.axb5 Rxa1 33.Rxa1 Rd8 34.Bc7 Re8 35.Ra8 Rxa8 36.Bxa8 d2 37.Bf3 Nd5 38.b6 1-0

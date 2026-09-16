@@ -1,0 +1,14 @@
+[Event "Round 5: Pfatteicher, Lukas - Heinke, Jasper"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-5/s84Vb8Fz/zGLVgUEn"]
+[Date "2026.07.22"]
+[Round "5.17"]
+[White "Pfatteicher, Lukas"]
+[Black "Heinke, Jasper"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2064"]
+[ECO "E44"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.f3 Bxc3+ 7.bxc3 Nd6 8.Ng3 Nc6 9.e4 Ba6 10.c5 Bxf1 11.cxd6 Ba6 12.Bf4 e5 13.dxe5 g5 14.Be3 Nxe5 15.Qd5 cxd6 16.Nf5 O-O 17.Nxd6 Qf6 18.Bd4 Nd3+ 19.Kd1 Qf4 20.Nf5 Rfe8 21.Nh6+ Kf8 22.Rf1 Bc4 23.g3 Bxd5 24.gxf4 Bc4 25.Rg1 Nxf4 26.Rxg5 Ng6 27.Nf5 Re6 28.h4 f6 29.Rg3 d5 30.Ne3 Rd8 31.Nxc4 dxc4 32.Kd2 Rd7 33.h5 Nf4 34.Rg4 Nd3 35.Rag1 Rf7 36.Rg8+ Ke7 37.Rc8 Ne5 38.Rgg8 Rc6 39.Rce8+ Kd6 40.Ke3 Rcc7 41.f4 Nc6 42.Bxf6 b5 43.Bd8 Rb7 44.Rg5 Kd7 45.Reg8 Nxd8 46.Rd5+ Kc7 47.Rdxd8 a5 48.f5 Kb6 49.Rd6+ Kc7 50.Rd5 Rb6 51.Ra8 b4 52.Ra7+ Rb7 53.Rc5+ Kb6 54.Rxb7+ Rxb7 55.cxb4 axb4 56.Rxc4 Kb5 57.Rc2 1-0

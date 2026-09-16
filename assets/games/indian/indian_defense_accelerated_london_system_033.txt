@@ -1,0 +1,14 @@
+[Event "Round 7: Kouskoutis, Georgios-Alexandros - Christodoulou, Panagiotis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/zkd4xK78"]
+[Date "2026.07.10"]
+[Round "7.33"]
+[White "Kouskoutis, Georgios-Alexandros"]
+[Black "Christodoulou, Panagiotis"]
+[Result "1-0"]
+[WhiteElo "2270"]
+[BlackElo "2383"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 Qb6 4.Nc3 e6 5.a3 a6 6.h3 d5 7.Nf3 Bd7 8.Rb1 Nc6 9.dxc5 Qxc5 10.Bd3 Be7 11.O-O O-O 12.b4 Nxb4 13.Rxb4 Qxc3 14.Rxb7 Qxa3 15.Be5 Rfd8 16.Nd4 Ne4 17.Qg4 Bf8 18.Bxe4 dxe4 19.Qxe4 Be8 20.Rfb1 Qc5 21.Bc7 Qd5 22.Qxd5 Rxd5 23.Rb8 Rxb8 24.Rxb8 Bd7 25.c4 Rc5 26.Rxf8+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Kadric, Denis - Kovacevic, Blazimir"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/76fPvuTR"]
+[Date "2026.07.06"]
+[Round "4.5"]
+[White "Kadric, Denis"]
+[Black "Kovacevic, Blazimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2517"]
+[BlackElo "2380"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 Bd7 7.Nc2 Qa5 8.Bd2 Qb6 9.Be2 cxd4 10.cxd4 Nf5 11.Bc3 a5 12.O-O Be7 13.a3 a4 14.Bd3 Na5 15.Bxf5 exf5 16.Ne3 Qb5 17.Bb4 f4 18.Nc2 Nb3 19.Bxe7 Kxe7 20.Rb1 Bf5 21.Nb4 Rac8 22.Re1 Rhe8 23.Nh4 Bxb1 24.Qxb1 g6 25.Qd1 Rc1 26.Qxc1 Nxc1 27.Rxc1 Kf8 28.h3 Kg7 29.Nf3 h6 30.Rc2 Re6 31.Ne1 g5 32.Nf3 Kg6 33.Kh2 Rb6 34.Ne1 Kg7 35.Kg1 Rc6 36.Nxc6 bxc6 37.Rd2 Qc4 38.Nc2 h5 39.f3 c5 40.Kf2 Qb5 41.dxc5 Qxb2 42.Ke2 Qc3 43.Kd1 Qxc5 44.Nb4 Qc3 45.Nc2 Qb2 46.Rd3 Qb1+ 47.Kd2 Qg1 48.Ne1 Qf2+ 49.Kd1 d4 50.Rd2 Qe3 51.Nc2 Qxe5 52.Rxd4 Qb5 53.Rd2 Qf1+ 54.Ne1 Qg1 55.Rd5 Kg6 56.Rd3 f6 57.Rc3 Kf7 58.Rc7+ Ke6 59.Rc4 Qb6 60.Rb4 Qd6+ 61.Ke2 Qc6 62.Rd4 Qc5 63.Rxa4 Kf7 64.Ra8 Qc4+ 65.Kf2 Qc5+ 66.Kf1 Qc4+ 67.Kf2 Qc5+ 1/2-1/2

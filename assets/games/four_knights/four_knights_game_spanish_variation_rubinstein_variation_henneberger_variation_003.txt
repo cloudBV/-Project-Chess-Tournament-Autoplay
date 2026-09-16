@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.5"]
+[White "Mroczkowski, Adam"]
+[Black "Lechowski, Witold"]
+[Result "1-0"]
+[WhiteElo "2057"]
+[BlackElo "2162"]
+[ECO "C48"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.O-O Nxb5 6.Nxb5 c6 7.Nc3 d6 8.d4 Qc7 9.Bg5 Be7 10.Qd3 O-O 11.Rad1 Bg4 12.h3 Bh5 13.g4 Bg6 14.Bxf6 Bxf6 15.dxe5 dxe5 16.Qd6 Qa5 17.a4 Rfd8 18.Qa3 Qc7 19.Qc5 Be7 20.Qxe5 Bd6 21.Qg5 h6 22.Qe3 Re8 23.Rfe1 Bb4 24.Qd4 Bxc3 25.Qxc3 Bxe4 26.Nd4 h5 27.Ne2 Bd5 28.Rxd5 hxg4 29.hxg4 Re4 30.Rd4 Rae8 31.Rxe4 Rxe4 32.Ng3 Rxg4 33.Qf3 Rg6 34.Re8+ Kh7 35.Re4 Qd7 36.Rh4+ Kg8 37.Qe2 a6 38.c3 b5 39.axb5 axb5 40.Rd4 Rd6 41.Rxd6 Qxd6 42.b4 g6 43.Qe3 Qd1+ 44.Kg2 Qd5+ 45.Qf3 Qc4 46.Ne4 Qe6 47.Nc5 Qc4 48.Qd3 Qg4+ 49.Kf1 Kh7 50.Ne4 Qf4 51.Qe3 Qf5 52.Qd4 g5 53.Nf6+ Kg6 54.Ng4 f6 55.Ne3 Qh3+ 56.Ke1 Qh1+ 57.Ke2 Qh5+ 58.Qg4 Qh1 59.Qf5+ Kg7 60.Qf3 Qb1 61.Qxc6 f5 62.Qd7+ Kf6 63.Qd6+ Kf7 64.Qd3 Qa2+ 65.Qc2 Qa1 66.Qxf5+ Ke8 67.Qxb5+ Kf8 68.Qf5+ Ke8 69.Qg6+ Kd7 70.Qxg5 Qxc3 71.Qd5+ Ke8 72.Qe6+ Kd8 73.Qd5+ Ke8 74.Qd2 Qb3 75.Qd4 Qa2+ 76.Kf3 Qf7+ 77.Qf4 Qh5+ 78.Qg4 Qh1+ 79.Ke2 Qb1 80.Qh5+ Kd8 81.Qd5+ Ke8 82.b5 Qb2+ 83.Kf3 Qf6+ 84.Qf5 Qb6 85.Nd5 Qb7 86.Qe6+ Kd8 87.Qg8+ 1-0

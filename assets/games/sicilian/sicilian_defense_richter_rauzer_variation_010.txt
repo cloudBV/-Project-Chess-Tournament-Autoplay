@@ -1,0 +1,15 @@
+[Event "Round 2: Tulchynskyi, Feliks - Brezis, Ari"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-2/d3cE0HD7/aLWG0nbW"]
+[Date "2026.07.15"]
+[Round "2.1"]
+[White "Tulchynskyi, Feliks"]
+[Black "Brezis, Ari"]
+[Result "1-0"]
+[WhiteElo "2417"]
+[BlackElo "2143"]
+[ECO "B62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3 Bd7 8.O-O-O a6 9.f4 h6 10.Bh4 Be7 11.Be2 Qc7 12.Qg3 O-O-O 13.Qe1 d5 14.e5 Nxd4 15.Rxd4 Bc5 16.Rd3 g5 17.fxg5 hxg5 18.Bg3 Nh5 19.Bxh5 Rxh5 20.Nxd5 exd5 21.e6 Bd6 22.exd7+ Qxd7 23.Qe3 Qe6 24.Qd4 Qe8 25.Re1 Bf4+ 26.Kb1 Qh8 27.Qa7 Bxg3 28.Rxg3 Rd7 1-0

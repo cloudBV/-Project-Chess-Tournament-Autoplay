@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/bv2ecGAz"]
+[Date "2026.07.18"]
+[Round "8.19"]
+[White "Galego, Luis"]
+[Black "Sismeiro, Miguel"]
+[Result "1-0"]
+[WhiteElo "2400"]
+[BlackElo "2341"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.Nbd2 O-O 5.e4 d6 6.c3 Nbd7 7.Qc2 a6 8.Be2 Nh5 9.Be3 e5 10.dxe5 dxe5 11.g3 Qe7 12.Nc4 b6 13.Nfd2 Nhf6 14.b4 Bb7 15.O-O h6 16.Bf3 Rfd8 17.Rfd1 Qe6 18.Bg2 Ng4 19.h3 Nxe3 20.Nxe3 Nf6 21.Nb3 h5 22.c4 Qe7 23.c5 Rxd1+ 24.Rxd1 Rd8 25.Rxd8+ Qxd8 26.Nd5 Bxd5 27.exd5 Nxd5 28.Qd3 c6 29.Bxd5 cxd5 30.Qxa6 bxc5 31.bxc5 e4 32.Qd6 Qxd6 33.cxd6 Kf8 34.a4 Be5 35.a5 Bxd6 36.a6 Bb8 37.Nd4 Ba7 38.Nc6 Bb6 39.Kf1 f6 40.Ke2 Kf7 41.a7 Bxa7 42.Nxa7 Ke6 43.Ke3 Ke5 44.Nc6+ Kd6 45.Nd4 g5 46.Nf5+ Ke5 47.g4 h4 48.Nd4 Kd6 49.f3 Ke5 50.Nf5 exf3 51.Nd4 f5 52.gxf5 f2 53.Kxf2 1-0

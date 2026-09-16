@@ -1,0 +1,14 @@
+[Event "Round 7: Hofstetter, Noah - Gontsul, Artem"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-7/6jkfPuMd/R5quI4Bd"]
+[Date "2026.07.17"]
+[Round "7.7"]
+[White "Hofstetter, Noah"]
+[Black "Gontsul, Artem"]
+[Result "0-1"]
+[WhiteElo "2002"]
+[BlackElo "2164"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Bg4 6.Be3 Ne7 7.h3 Bh5 8.c3 Nbc6 9.Nbd2 Qd7 10.Qc2 Bg6 11.Bxg6 Nxg6 12.O-O-O O-O-O 13.a3 Nce7 14.Rhe1 f6 15.Nb3 Nf5 16.Bd2 Nfh4 17.Nxh4 Nxh4 18.Rg1 Rde8 19.Qd3 Qa4 20.Qc2 Re4 21.f3 Re2 22.g3 Ng2 23.Qf5+ Qd7 24.Qxd5 Bxg3 25.Qxd7+ Kxd7 26.Nc5+ Kc6 27.Ne4 Bh2 28.Rh1 Bd6 29.Rhg1 Bh2 30.Rh1 Bf4 31.Rhg1 f5 32.Nc5 Rxd2 33.Rxd2 Nh4 34.Rxg7 Nxf3 35.Nb3 Re8 36.Rg2 Nxd2 37.Nxd2 Be3 38.Kc2 f4 39.Nf3 Kd5 40.Kd3 Bc1 41.c4+ Kd6 42.c5+ Ke6 43.Re2+ Be3 44.Nd2 Rd8 45.Nf3 Rg8 46.Ke4 c6 47.b3 Rg3 48.Rh2 Kf6 49.h4 Rg7 50.h5 Re7+ 51.Kd3 Bc1 52.Ne5 Bxa3 53.Kc4 Bc1 54.Kd3 Be3 55.Rg2 Re8 56.h6 f3 57.Nxf3 Bxh6 58.Ne5 Bf4 59.Rf2 Kf5 60.Nd7 Re3+ 61.Kc4 h5 62.Ne5 Kg5 63.Nf7+ Kg4 64.Nd6 Re7 65.Nc8 Rh7 66.Nd6 h4 67.Ne4 Rh6 68.Rf1 h3 69.Nf2+ Kg3 70.Nxh3 Rxh3 71.Rg1+ Kf3 72.Rg7 Rh1 73.Rxb7 Rc1+ 74.Kd3 Ra1 75.Rd7 Bh2 76.Kc2 Ke4 77.Kb2 Ra6 78.Kc3 Ra1 79.Kb2 Ra6 80.Kc3 Ra2 81.b4 Bg3 82.Kc4 Ra1 83.Kb3 Bf2 84.Rd6 Rb1+ 85.Kc4 Rc1+ 86.Kb3 Bxd4 87.Rxc6 Kd3 88.Rd6 Rb1+ 89.Ka2 Rxb4 90.c6 Kc2 91.Ka3 Rc4 92.Rg6 Bc5+ 0-1

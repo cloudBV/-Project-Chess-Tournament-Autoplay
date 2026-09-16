@@ -1,0 +1,15 @@
+[Event "Round 8: Satanovskaia, Evgeniia - Kholyavko, Mariya"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-8/YlrS1TRs/qDvyIAjL"]
+[Date "2026.07.23"]
+[Round "8.2"]
+[White "Satanovskaia, Evgeniia"]
+[Black "Kholyavko, Mariya"]
+[Result "0-1"]
+[WhiteElo "2165"]
+[BlackElo "2203"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Bd3 e5 7.d5 a5 8.O-O Na6 9.a3 Nc5 10.Bc2 Bd7 11.b3 b6 12.Rb1 Qe8 13.Re1 Nh5 14.Kh1 Kh8 15.Bd2 f5 16.exf5 Bxf5 17.Bxf5 gxf5 18.Nb5 Rc8 19.Be3 Qg6 20.b4 axb4 21.axb4 Nd7 22.Nh4 Qf7 23.Rb3 f4 24.Bd2 Bf6 25.Rh3 Bxh4 26.Rxh4 Ndf6 27.g3 fxg3 28.fxg3 Ng7 29.Qc2 Nfh5 30.Qe4 Qf2 31.Bh6 Nf6 32.Qe2 Qxe2 33.Rxe2 Ng8 34.Bxg7+ Kxg7 35.c5 Rfd8 36.cxd6 cxd6 37.Rg4+ Kh8 38.Rf2 Rd7 39.h4 Nh6 40.Re4 Kg7 41.g4 Ng8 42.g5 Rc1+ 43.Kg2 Rd1 44.Nc3 Rd3 45.Rf3 Rxf3 46.Kxf3 h6 47.Rc4 hxg5 48.hxg5 Ne7 49.Ke4 Kg6 50.b5 Kxg5 51.Na4 Nf5 52.Rc8 Ra7 53.Nxb6 Ng3+ 54.Kd3 e4+ 55.Kd4 Kf4 56.Rf8+ Nf5+ 57.Kc3 e3 58.Nc4 Re7 59.Nb2 e2 60.Nd3+ Ke3 61.b6 Ng3 62.Ne1 Ne4+ 63.Kc4 Kd2 64.Nf3+ Kd1 65.Rg8 Nd2+ 66.Nxd2 e1=Q 67.Nb3 Qe2+ 68.Kb4 Qe4+ 69.Kc3 Qe3+ 70.Kb2 Qxb6 0-1

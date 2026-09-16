@@ -1,0 +1,14 @@
+[Event "Round 5: Gallas, Noel - Schulz, Lukas"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-5/s84Vb8Fz/Ug8OiQY2"]
+[Date "2026.07.22"]
+[Round "5.16"]
+[White "Gallas, Noel"]
+[Black "Schulz, Lukas"]
+[Result "1-0"]
+[WhiteElo "2188"]
+[BlackElo "2349"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.Be3 e5 8.O-O c6 9.d5 Qe7 10.Ne1 h5 11.f3 Kh7 12.g4 Ng8 13.g5 f6 14.h4 c5 15.Nd3 b6 16.b4 fxg5 17.hxg5 Rf4 18.Rf2 Qxg5+ 19.Rg2 Qf6 20.Nb5 Nf8 21.Nc7 Rb8 22.Ne8 Qh4 23.Nxg7 Kxg7 24.Bxf4 exf4 25.Qd2 Bh3 26.Rh2 g5 27.Qe1 Qxe1+ 28.Rxe1 Bd7 29.Rxh5 Kf6 30.Kf2 Be8 31.Rh8 Bf7 32.bxc5 bxc5 33.Rhh1 Rb6 34.Rb1 Ra6 35.Rb2 Ne7 36.e5+ dxe5 37.Nxc5 Ra3 38.Ne4+ Kg6 39.Rg1 Nh7 40.d6 1-0

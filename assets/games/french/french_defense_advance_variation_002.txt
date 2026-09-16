@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-6/0eAyYAIf/yveQIu3m"]
+[Date "2026.07.03"]
+[Round "6.10"]
+[White "Gonzalez Gonzalez, Javier 2010"]
+[Black "Sanz Pueyo, Adrian"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2029"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 Ne7 6.Bd3 Nbc6 7.O-O cxd4 8.cxd4 Nf5 9.Bxf5 exf5 10.Nc3 Be6 11.Ne1 Be7 12.Ne2 Qb6 13.Kh1 g5 14.f4 gxf4 15.Nc2 O-O-O 16.Nxf4 Rhg8 17.b4 Bg5 18.a4 Kb8 19.Ba3 Ne7 20.b5 Ng6 21.Bc5 Qc7 22.Nxe6 fxe6 23.Bd6 Rxd6 24.exd6 Qxd6 25.Qe1 Nf4 26.Qg3 Rg6 27.Qa3 Qxa3 28.Rxa3 Rg7 29.Raf3 Rc7 30.Rg3 h6 31.Rf2 Nh5 32.Rb3 Nf6 33.Re2 Ne4 34.Rd3 Rc4 35.a5 Kc7 36.g3 Kd6 37.Rb3 Bd2 38.Na3 Rc1+ 39.Kg2 Bxa5 40.Rd3 Bb6 41.Nc2 Rb1 42.Na3 Rb4 43.Ra2 Rxd4 44.Rxd4 Bxd4 45.Nc2 Bc5 46.Kf3 d4 47.Ne1 Ng5+ 48.Ke2 e5 49.Nd3 Bb6 50.Rc2 e4 51.Nf4 Ne6 52.Rc4 Nxf4+ 53.gxf4 d3+ 54.Kd2 Bc5 55.h4 Kd5 56.Ra4 Bb6 57.Ra1 Kd4 58.Ra4+ Kc5 59.Ra1 Kxb5 60.h5 a5 61.Rb1+ Kc6 62.Ra1 Bc5 63.Kc3 b6 64.Ra2 Be3 65.Rg2 Kc5 66.Rg6 Bxf4 67.Re6 b5 68.Kb3 a4+ 0-1

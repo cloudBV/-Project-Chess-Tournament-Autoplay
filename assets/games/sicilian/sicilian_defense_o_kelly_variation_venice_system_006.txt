@@ -1,0 +1,14 @@
+[Event "Round 4: Zlatkov, Anton - Drazic, Sinisa"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/CmdzpQh4"]
+[Date "2026.07.06"]
+[Round "4.21"]
+[White "Zlatkov, Anton"]
+[Black "Drazic, Sinisa"]
+[Result "1/2-1/2"]
+[WhiteElo "2388"]
+[BlackElo "2224"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 e6 4.d4 d5 5.exd5 exd5 6.Bd3 Nc6 7.Be3 c4 8.Bc2 Bd6 9.O-O h6 10.b3 cxb3 11.axb3 Nf6 12.c4 O-O 13.Nc3 Re8 14.h3 Bd7 15.c5 Bc7 16.Qc1 Re6 17.Bf4 Rc8 18.Rb1 Bxf4 19.Qxf4 Nb4 20.Bf5 Re8 21.Ne5 Bxf5 22.Qxf5 Rc7 23.Rfe1 Qc8 24.Qf4 Rce7 25.Re3 Qc7 26.Qf5 Nc6 27.Ng4 Nxg4 28.Qxg4 Rxe3 29.fxe3 Nb4 30.Qf3 Qd7 31.Re1 Re6 32.Re2 Rf6 33.Qg3 Kh7 34.Kh2 a5 35.e4 dxe4 36.Nxe4 Re6 37.Qf4 Nd5 38.Qf3 Kg8 39.Nd6 b6 40.Rxe6 fxe6 41.Qe4 Kh8 42.Qg6 Kg8 43.Qe8+ Qxe8 44.Nxe8 b5 45.Nd6 a4 46.bxa4 bxa4 47.Nb5 Nb4 48.Kg3 Kf7 49.Kf4 Ke7 50.Na3 Kf6 51.Ke4 h5 52.h4 Ke7 53.g3 Kf6 54.Nc4 Ke7 55.Ke3 Nd5+ 56.Kd3 Kd7 57.Ke4 Kd8 58.Ke5 Ke7 59.c6 Nc7 60.Na3 g6 61.Nc4 Nb5 62.d5 exd5 63.Kxd5 a3 64.Nxa3 Nxa3 65.c7 Kd7 66.Ke5 Nb5 67.Kf6 Nxc7 68.Kxg6 Ke7 69.Kxh5 Kf7 70.Kh6 Ne6 71.g4 Nf8 72.g5 Kg8 73.g6 Ne6 74.g7 Nf4 75.h5 Ng6 76.Kxg6 1/2-1/2

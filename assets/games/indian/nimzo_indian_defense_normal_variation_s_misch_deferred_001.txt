@@ -1,0 +1,14 @@
+[Event "Round 11: Suarez Duarte, Walter Camilo - Londono Lopez, Donaldo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-11/1k0zGiFk/hh0hO5nO"]
+[Date "2026.07.12"]
+[Round "11.9"]
+[White "Suarez Duarte, Walter Camilo"]
+[Black "Londono Lopez, Donaldo"]
+[Result "0-1"]
+[WhiteElo "2096"]
+[BlackElo "2157"]
+[ECO "E51"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Sämisch Deferred"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Bb4 5.e3 O-O 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5 9.Bd3 c4 10.Bc2 Bg4 11.h3 Bh5 12.Rb1 Qe7 13.Qd2 Nc6 14.a4 Rfe8 15.Ne5 Nxe5 16.dxe5 Qxe5 17.Rxb7 Bg6 18.O-O Bxc2 19.Qxc2 Ne4 20.Bd2 Reb8 21.Rfb1 Rxb7 22.Rxb7 Rb8 23.Qb2 Rxb7 24.Qb4 Rb6 25.Qxb6 0-1

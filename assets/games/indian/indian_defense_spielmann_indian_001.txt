@@ -1,0 +1,15 @@
+[Event "Round 8: Serrano Batova, Vicent - Boix Redorta, Roc"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-8/7Yb3gPsX/MtS7ue2Y"]
+[Date "2026.07.02"]
+[Round "8.5"]
+[White "Serrano Batova, Vicent"]
+[Black "Boix Redorta, Roc"]
+[Result "1-0"]
+[WhiteElo "2242"]
+[BlackElo "2159"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.Nf3 Nf6 2.d4 c5 3.e3 cxd4 4.exd4 d5 5.Bd3 Nc6 6.h3 e6 7.O-O Bd6 8.c3 Qc7 9.Re1 O-O 10.Qe2 Re8 11.Ne5 Bxe5 12.dxe5 Nd7 13.Bf4 b6 14.Na3 a6 15.b4 Ne7 16.Bd2 Ng6 17.f4 Nc5 18.bxc5 Qxc5+ 19.Qf2 Qxa3 20.Qxb6 Bd7 21.Reb1 a5 22.Rb3 Qa4 23.Qd4 Rab8 24.Bc2 Qxd4+ 25.cxd4 a4 26.Rxb8 Rxb8 27.Rb1 Rxb1+ 28.Bxb1 Kf8 29.Kf2 Ke8 30.g4 h6 31.Bc2 Ne7 32.Ke3 Bb5 33.f5 exf5 34.gxf5 Bd7 35.Kf4 g5+ 36.fxg6 fxg6 37.h4 Nf5 38.e6 Bxe6 39.Ke5 Bd7 40.h5 Nh4 41.hxg6 h5 42.Kf6 Kf8 43.Bd1 Bg4 44.Bxa4 Nxg6 45.Bh6+ Kg8 46.Kxg6 h4 47.Bf4 h3 48.Bd6 Bf3 49.Bd7 Be4+ 50.Kf6 Kh7 51.Bxh3 1-0

@@ -1,0 +1,15 @@
+[Event "Round 3: Fitzsimons, David - Khoury, Theo"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-3/w0bZokvS/j2Daiacr"]
+[Date "2026.07.22"]
+[Round "3.16"]
+[White "Fitzsimons, David"]
+[Black "Khoury, Theo"]
+[Result "0-1"]
+[WhiteElo "2317"]
+[BlackElo "2172"]
+[ECO "B54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O g6 8.b3 Bg7 9.Bb2 O-O 10.Nc3 d5 11.Re1 Nxe4 12.Bxe4 dxe4 13.Rxe4 Bf5 14.Rc4 Qa5 15.Na4 Rfd8 16.Qe1 Qxe1+ 17.Rxe1 Rd2 18.Bxg7 Kxg7 19.g4 Bxc2 20.Rxe7 Kf8 21.Re3 Rad8 22.Nc3 R8d6 23.Kg2 Bd3 24.Rf4 Rc2 25.Na4 g5 26.Rff3 Be2 27.Rf5 Bxg4 28.Rxg5 f5 29.h3 h6 30.hxg4 hxg5 31.gxf5 Rdd2 32.Rf3 Rd4 33.Kg3 Kf7 34.a3 Kf6 35.b4 Rf4 36.Rxf4 gxf4+ 37.Kxf4 Rxf2+ 38.Ke4 Rxf5 39.Kd4 Ke7 40.Nc3 Kd6 41.Ne4+ Kc7 42.Nc3 Rf3 43.Kc4 Kd6 44.Ne4+ Ke5 45.Nc3 Rh3 46.a4 Kd6 47.Ne4+ Kc7 48.Nc3 Kb6 49.a5+ Kc7 50.Na4 Kd6 51.Nc5 Rh4+ 52.Kb3 Kd5 53.Nd7 Rf4 54.Nc5 Rf3+ 55.Ka4 Kc4 56.Nd7 Re3 57.Nc5 Re2 58.Ka3 Kb5 0-1

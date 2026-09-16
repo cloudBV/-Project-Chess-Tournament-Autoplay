@@ -1,0 +1,14 @@
+[Event "Round 9: Shahmammadli, Safkhan - Ratier-Fontana, Matteo"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-9/b3iktfM7/7x8bHm7Z"]
+[Date "2026.07.03"]
+[Round "9.13"]
+[White "Shahmammadli, Safkhan"]
+[Black "Ratier-Fontana, Matteo"]
+[Result "1/2-1/2"]
+[WhiteElo "2098"]
+[BlackElo "2205"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.h3 e6 6.c4 Nf6 7.c5 Bd7 8.Bb5 Be7 9.a4 O-O 10.O-O Ne4 11.Bf4 a6 12.Bxc6 bxc6 13.Nc3 Nxc3 14.bxc3 f6 15.Rb1 e5 16.Bg3 e4 17.Ne1 f5 18.Bf4 g5 19.Be5 Bf6 20.Bd6 Be7 21.Be5 Bf6 22.Bd6 Be7 23.Be5 1/2-1/2

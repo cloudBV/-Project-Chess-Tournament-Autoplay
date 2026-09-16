@@ -1,0 +1,14 @@
+[Event "Blitz D18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "7.1"]
+[White "Szczotka, Klara"]
+[Black "Matskevich, Varvara"]
+[Result "1-0"]
+[WhiteElo "2130"]
+[BlackElo "2022"]
+[ECO "A55"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.e4 e5 5.Nf3 c6 6.h3 Be7 7.g4 Qc7 8.Be3 a6 9.a4 exd4 10.Nxd4 Nc5 11.Bg2 a5 12.O-O O-O 13.Nf5 Bxf5 14.exf5 Nfd7 15.f4 Rfe8 16.Bd4 Bf6 17.Bxf6 Nxf6 18.g5 Nfe4 19.Nxe4 Nxe4 20.Qd3 Nc5 21.Qg3 Re2 22.f6 g6 23.Qg4 Rae8 24.Qh4 h5 25.gxh6 Kh7 26.f5 Rg8 27.Rae1 Rxe1 28.Rxe1 Nd3 29.Re7 Qb6+ 30.Kh2 Ne5 31.fxg6+ Rxg6 32.Qe4 Qxb2 33.c5 Qd2 34.cxd6 Qxd6 35.Qxe5 Qxe5+ 36.Rxe5 Rxf6 37.Rxa5 Kxh6 38.Ra7 Rf4 39.Rxb7 Rxa4 40.Bxc6 Rf4 41.Kg3 Rf6 42.Be4 Kg7 43.Kg4 Ra6 44.h4 Ra4 45.Kf4 Ra6 46.Kg5 Ra5+ 47.Bf5 Ra6 48.h5 Rf6 49.Bg6 Ra6 50.Rxf7+ Kh8 51.Rf5 Ra1 52.Kh6 Ra8 53.Rf7 Rb8 54.Rh7+ Kg8 55.Bf7+ Kf8 56.Rh8+ 1-0

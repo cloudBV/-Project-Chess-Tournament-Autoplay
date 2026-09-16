@@ -1,0 +1,15 @@
+[Event "Round 7: Isilak, Enes - Gilfanov, Marat I"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/LTkAH8BT"]
+[Date "2026.07.03"]
+[Round "7.36"]
+[White "Isilak, Enes"]
+[Black "Gilfanov, Marat I"]
+[Result "1/2-1/2"]
+[WhiteElo "2132"]
+[BlackElo "2301"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.Bb5+ Nc6 6.d4 Bd6 7.dxc5 Bxc5 8.O-O Ne7 9.h3 O-O 10.Nbd2 Bb6 11.Nb3 Bc7 12.Be3 Re8 13.Re1 a6 14.Bd3 Ng6 15.Qc2 Nce5 16.Nxe5 Rxe5 17.Nd4 Qd6 18.Nf3 Re6 19.Bxg6 hxg6 20.Bd4 f6 21.Nd2 1/2-1/2

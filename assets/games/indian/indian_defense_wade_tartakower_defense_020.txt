@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.22"]
+[White "Burdalev, Kirill"]
+[Black "Tulchynsky, David"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2073"]
+[ECO "A46"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.Bf4 g6 4.Nc3 c6 5.a4 Qa5 6.Qd2 b5 7.b4 Qxb4 8.Rb1 Qa5 9.axb5 Bd7 10.e4 cxb5 11.Nxb5 Qxd2+ 12.Nxd2 Kd8 13.Nxa7 Rxa7 14.Rxb8+ Kc7 15.Rb1 Ra2 16.e5 Nh5 17.Be3 Rxc2 18.Bd3 Rc3 19.Ke2 Bg7 20.Ne4 Ra3 21.Rhc1+ Bc6 22.d5 Bxe5 23.Rxc6+ Kd7 24.Rb7+ Kd8 25.Bb6+ 1-0

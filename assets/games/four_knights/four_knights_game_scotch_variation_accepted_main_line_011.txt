@@ -1,0 +1,15 @@
+[Event "Round 4: Shearsby, Jude - Korneev, Oleg"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-4/96mqn1sv/fOhlsxks"]
+[Date "2026.07.23"]
+[Round "4.7"]
+[White "Shearsby, Jude"]
+[Black "Korneev, Oleg"]
+[Result "1/2-1/2"]
+[WhiteElo "2243"]
+[BlackElo "2433"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5 9.exd5 cxd5 10.Qf3 c6 11.Bg5 Be7 12.h3 h6 13.Bf4 Bd6 14.Rfe1 Rb8 15.b3 Rb4 16.Be5 Be6 17.a3 Rb8 18.Qg3 Bxe5 19.Qxe5 c5 20.Rad1 Qa5 21.Na4 c4 22.Bxc4 Rfe8 23.Be2 Bxh3 24.Qf4 Bd7 25.Bf1 Bxa4 26.Rxe8+ Rxe8 27.Qxa4 Qxa4 28.bxa4 Rc8 29.Rb1 Ne4 30.Bd3 g6 31.Rb7 Nc5 32.Rxa7 Nxd3 33.cxd3 Rc1+ 34.Kh2 Rc3 35.Rd7 Rxd3 36.a5 Kg7 37.a4 Rd4 38.a6 Rxa4 39.Rxd5 Rxa6 40.g3 Ra2 41.Kg2 h5 42.Rd7 g5 43.Rb7 Ra4 44.Rb8 f6 45.Rb7+ Kg6 46.Rb8 h4 47.gxh4 Rxh4 48.Rb6 Rg4+ 49.Kf3 Ra4 50.Kg3 Rd4 51.Ra6 Kf5 52.Ra5+ Ke6 53.Ra6+ Kf7 54.Ra7+ Kg6 55.Ra6 Re4 56.f3 Re2 57.Rb6 Rd2 58.Ra6 Kf5 59.Ra5+ Ke6 60.Ra6+ Kf7 61.Ra7+ Kg6 62.Ra6 Re2 63.Rb6 Kf5 64.Rb5+ Re5 65.Rb6 Re6 66.Rb4 Rd6 67.Rb8 Kg6 68.Rc8 f5 69.Rh8 Rd2 70.Rg8+ Kf6 71.Rf8+ Ke6 72.Re8+ Kf7 73.Rc8 Rd3 74.Kg2 Kf6 75.Re8 Rd2+ 76.Kf1 f4 77.Ke1 Ra2 78.Kf1 Kf5 79.Rb8 Ke5 80.Rb4 Rc2 81.Re4+ Kd5 82.Re8 Kd4 83.Kg1 Kd3 84.Kf1 Rh2 85.Re5 Kd2 86.Re8 Kc3 87.Re5 Kd3 88.Re8 Ra2 89.Re5 Rb2 90.Re8 Rc2 91.Re5 Kd4 92.Re4+ Kd5 93.Re8 Rc6 94.Rg8 Kd4 95.Re8 Rc5 96.Re4+ Kd5 97.Re8 Rc6 98.Rg8 Rc3 99.Kf2 Rc2+ 100.Kf1 Kd4 101.Re8 Rc5 102.Re4+ Kd5 103.Re8 Rc6 104.Rg8 Ke5 1/2-1/2

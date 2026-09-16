@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.08"]
+[Round "4.19"]
+[White "Campora, Daniel H."]
+[Black "Woods, Yannick"]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2128"]
+[ECO "A05"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.b3 Bg4 5.Bb2 Nbd7 6.O-O e6 7.d3 Be7 8.Nbd2 O-O 9.h3 Bh5 10.g4 Bg6 11.Nh4 e5 12.Nxg6 hxg6 13.e3 Qc7 14.c4 Rad8 15.cxd5 Nxd5 16.a3 Rfe8 17.Qc2 Nf8 18.b4 a5 19.bxa5 Qxa5 20.Nc4 Qc5 21.Bxe5 Bf6 22.d4 Qa7 23.a4 Nd7 24.Bg3 N7b6 25.Nd6 Rxe3 26.fxe3 Nxe3 27.Qb3 Nbd5 28.Bxd5 Nxf1 29.Bxf7+ Kh8 30.Rxf1 Qxd4+ 31.Kg2 1-0

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-4/9zGO8wij/WyRh8Nqy"]
+[Date "2026.07.03"]
+[Round "4.6"]
+[White "Stinka, Jakub"]
+[Black "Patil Harshal"]
+[Result "1-0"]
+[WhiteElo "2352"]
+[BlackElo "2121"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Qb6 6.Ba4 cxd4 7.cxd4 Bf5 8.Nc3 e6 9.Nge2 h5 10.O-O h4 11.h3 Be7 12.Nf4 Kf8 13.Be3 Qxb2 14.Rc1 Qb6 15.Ncxd5 exd5 16.Nxd5 Qa5 17.Nxe7 Ngxe7 18.Rc5 Qa6 19.d5 Nxe5 20.d6 N7g6 21.Bb5 Qxa2 22.f4 Nc6 23.Bxc6 bxc6 24.Rxf5 Kg8 25.Rc5 Nf8 26.Rxc6 Rd8 27.f5 a5 28.Bb6 Rd7 29.Rc8 Rh6 30.Bc7 Qa3 31.Qd5 Rhxd6 32.Bxd6 Rxd6 33.Qa8 Rd2 34.Re1 a4 1-0

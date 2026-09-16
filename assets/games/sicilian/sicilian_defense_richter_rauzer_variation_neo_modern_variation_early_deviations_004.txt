@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.4"]
+[White "Stickler, Florentin"]
+[Black "Bouska, Jiri"]
+[Result "0-1"]
+[WhiteElo "2210"]
+[BlackElo "2295"]
+[ECO "B66"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O h6 10.Bh4 Be7 11.Bxf6 gxf6 12.Bc4 a5 13.Bb3 Bd7 14.f4 h5 15.Rhe1 Qc7 16.Kb1 Qa7 17.Qe2 Qc5 18.f5 e5 19.Rd3 Qb4 20.a3 Qb6 21.Rg3 Bf8 22.Qc4 Rh7 23.Rd1 Qa6 24.Qa4 Rb8 25.Rg8 Ke7 26.Ba2 Rg7 27.Rxg7 Bxg7 28.b4 Qb6 29.Qb3 Be8 30.b5 Qc5 31.Ka1 Kf8 32.a4 cxb5 33.Nxb5 Bh6 34.Rd5 Qg1+ 35.Qb1 Qxg2 36.Rxd6 Qxe4 37.Rxf6 Qxa4 38.Rxh6 Rxb5 39.Qg1 Qb4 40.Rh8+ Ke7 41.Qg5+ Kd7 42.Qc1 Qc3+ 0-1

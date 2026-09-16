@@ -1,0 +1,15 @@
+[Event "Round 9: Lin, Bryan Enming - Zhu, Linxi"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-9/aS8niCdV/V9X3LMhs"]
+[Date "2026.07.12"]
+[Round "9.5"]
+[White "Lin, Bryan Enming"]
+[Black "Zhu, Linxi"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2264"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nf3 h6 8.Nd2 Be6 9.Nc4 b5 10.Ne3 Nc6 11.O-O Be7 12.Ned5 O-O 13.a4 Nd4 14.axb5 Bxd5 15.Nxd5 Nxd5 16.exd5 axb5 17.Rxa8 Qxa8 18.Bd3 Qa2 19.c3 Nb3 20.Bxh6 gxh6 21.Qg4+ Bg5 22.h4 Qa4 23.f4 Qa7+ 24.Kh1 f5 25.Bxf5 Rxf5 26.Qxf5 Bxf4 27.Qc2 Qa4 28.g3 Nd2 29.Qg6+ Kh8 30.Re1 Nf3 31.Rf1 Nd2 32.Rc1 Be3 33.Re1 Qa7 34.Qxd6 e4 35.Qf8+ Kh7 36.d6 Bc5 37.Qf5+ Kg7 38.d7 Bb6 39.Qe5+ Kf7 40.Qd5+ Ke7 41.Qxd2 Qb7 42.Qg2 Kxd7 43.Qxe4 Kd6 1-0

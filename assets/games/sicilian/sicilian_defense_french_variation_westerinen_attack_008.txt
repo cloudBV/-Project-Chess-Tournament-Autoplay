@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.5"]
+[White "Rey Martinez, Jaime"]
+[Black "Niezhentsev, Kyrylo"]
+[Result "0-1"]
+[WhiteElo "2343"]
+[BlackElo "2255"]
+[ECO "B40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.c4 d5 5.cxd5 exd5 6.exd5 Nf6 7.Be2 Be7 8.O-O O-O 9.Nc3 Nxd5 10.Nxd5 Qxd5 11.Bb2 Nc6 12.Bc4 Qd6 13.Re1 Bg4 14.h3 Bh5 15.g4 Bg6 16.Ne5 Bg5 17.Qf3 Qxd2 18.Re2 Nxe5 19.Bxe5 Qd7 20.Qd5 Rad8 21.Qxd7 Rxd7 22.f4 Bxf4 23.Bxf4 b5 24.Rd2 Rxd2 25.Bxd2 bxc4 26.bxc4 Bd3 27.Be3 Bxc4 28.Bxc5 Re8 29.a3 h6 30.Bf2 Re2 31.Re1 Ra2 32.Re3 Kh7 33.Kg2 Bd5+ 34.Kg3 g6 35.Rc3 g5 36.Rd3 Be4 37.Re3 Bd5 38.Rd3 Be4 39.Re3 f5 40.gxf5 Bxf5 41.Re7+ Kg6 42.Bc5 Rb2 43.Rg7+ Kh5 44.Re7 Rb3+ 45.Re3 Rb1 46.Re5 Kg6 47.Re3 h5 48.Bb4 h4+ 49.Kh2 Rc1 50.Re2 Kf6 51.Be7+ Kg6 52.Kg2 Rc3 53.Bb4 Rg3+ 54.Kf2 Rxh3 55.Re7 g4 56.Ra7 Rf3+ 57.Kg1 Bd3 58.Rd7 h3 59.Rd6+ Kf5 60.Bc3 g3 61.Rf6+ Kg4 62.Rxf3 Kxf3 63.Be5 h2+ 64.Kh1 Bf1 65.Bxg3 Kxg3 0-1

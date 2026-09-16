@@ -1,0 +1,15 @@
+[Event "Round 3: Sambuev, Bator - Berube, Maximilien"]
+[Site "https://lichess.org/broadcast/quebec-open-championship-coq-2026/round-3/bJyzDHx6/NIqycDsQ"]
+[Date "2026.07.26"]
+[Round "3.2"]
+[White "Sambuev, Bator"]
+[Black "Berube, Maximilien"]
+[Result "1-0"]
+[WhiteElo "2420"]
+[BlackElo "2000"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.e3 Nf6 4.b3 Be7 5.Bb2 c5 6.cxd5 exd5 7.d4 cxd4 8.Nxd4 Nc6 9.Nc3 O-O 10.Be2 Qb6 11.Nxc6 bxc6 12.O-O Be6 13.Rc1 Rac8 14.Na4 Qb4 15.Qd4 c5 16.Qxb4 cxb4 17.Ba6 Rxc1 18.Rxc1 Bd6 19.Rc6 Bb8 20.Nc5 Bf5 21.f3 Nd7 22.Bd3 Be6 23.Nxe6 fxe6 24.Bb5 Kf7 25.Bd4 Nb6 26.Bc5 Rd8 27.Kf2 d4 28.Bxd4 e5 29.Bxb6 axb6 30.Rxb6 Bd6 31.Ke2 g6 32.Rb7+ Be7 33.Bc4+ Kf6 34.g4 g5 35.h4 h6 36.h5 Rd6 37.Rxb4 Rd2+ 38.Kxd2 Bxb4+ 39.Kd3 Ke7 40.Ke4 Bc5 41.a4 Kd6 42.a5 Kc6 43.Kf5 Kd6 44.Kg6 Ke7 45.Kxh6 Kf6 46.Kh7 Bxe3 47.Kg8 Bd4 48.h6 Kg6 49.h7 e4 50.fxe4 Bh8 51.Kxh8 Kh6 52.Kg8 Kg6 53.e5 1-0

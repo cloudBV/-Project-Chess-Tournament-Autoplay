@@ -1,0 +1,15 @@
+[Event "Ronda 5: Gonzalez Lopez, Lucas 2013 - Merino Olaverri, Jon"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u14/ronda-5/d21rKUOx/HoJHz2W2"]
+[Date "2026.07.03"]
+[Round "5.13"]
+[White "Gonzalez Lopez, Lucas 2013"]
+[Black "Merino Olaverri, Jon"]
+[Result "1-0"]
+[WhiteElo "2183"]
+[BlackElo "2046"]
+[ECO "E40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 e5 5.dxe5 Ne4 6.Qc2 Nxc3 7.bxc3 Bc5 8.Nf3 Nc6 9.e4 Qe7 10.Bf4 b6 11.Bd3 Bb7 12.O-O h6 13.Rad1 O-O-O 14.Qe2 g5 15.Be3 Nxe5 16.Bxc5 Qxc5 17.Nd4 Rde8 18.Rfe1 Qe7 19.Nf5 Qf6 20.Ne3 d6 21.Nd5 Qg7 22.a4 g4 23.Kh1 a5 24.Rb1 Nd7 25.Qe3 Qg5 26.Qd4 Qe5 27.Bc2 h5 28.Re3 Ba6 29.f4 Qxd4 30.cxd4 Bxc4 31.Nxc7 Kxc7 32.Rc3 b5 33.axb5 Nb6 34.Bb3 Rxe4 35.Bxc4 Rxf4 36.Bxf7+ Kb7 37.Bg6 Rxd4 38.Rbc1 Rc8 39.Rxc8 Nxc8 40.Bxh5 Na7 41.Be8 Kb6 42.h4 g3 43.h5 a4 44.Kg1 a3 45.Ra1 Nxb5 46.h6 a2 47.h7 Rb4 48.Bg6 Rh4 49.Rxa2 Nc3 50.Ra8 Rd4 51.Bc2 Rf4 52.Bd3 Rd4 53.h8=Q Rxd3 54.Qb8+ Kc6 55.Ra6+ Kd7 56.Ra7+ Ke6 57.Ra1 Ke5 58.Re1+ Kd5 59.Qb3+ Kd4 60.Qb4+ Kd5 61.Qg4 Kc5 62.Kf1 d5 63.Qc8+ Kd4 64.Qc7 Ne4 65.Qb6+ Ke5 66.Re3 Rd1+ 67.Ke2 Rd2+ 68.Kf3 Rf2+ 69.Kg4 Rxg2 70.Rd3 Nf2+ 71.Kf3 Nxd3 72.Qe3+ Kd6 73.Kxg2 Nc5 74.Kxg3 Ne4+ 75.Kf4 Ke6 76.Qb6+ Nd6 77.Qa6 Ke7 78.Ke5 Ne8 79.Qa7+ Kf8 80.Ke6 Ng7+ 81.Kf6 Ne8+ 82.Kg6 Nd6 83.Qd7 1-0

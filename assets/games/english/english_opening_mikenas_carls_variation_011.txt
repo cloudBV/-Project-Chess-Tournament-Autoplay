@@ -1,0 +1,14 @@
+[Event "Round 4: Soto, Cristian Camilo - Castillo Rodriguez, Edward Andres"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-4/RdktgqsA/3h5XgcYp"]
+[Date "2026.07.11"]
+[Round "4.5"]
+[White "Soto, Cristian Camilo"]
+[Black "Castillo Rodriguez, Edward Andres"]
+[Result "1-0"]
+[WhiteElo "2227"]
+[BlackElo "2128"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 Ng8 5.cxd5 exd5 6.d4 c6 7.f4 Nh6 8.Nf3 Be7 9.Bd3 Bf5 10.O-O Bxd3 11.Qxd3 Qd7 12.Ne2 Na6 13.Ng3 c5 14.f5 f6 15.Nh5 Nxf5 16.Qxf5 Qxf5 17.Nxg7+ Kf7 18.Nxf5 cxd4 19.e6+ Ke8 20.N3xd4 Rg8 21.Be3 Nb4 22.a3 Nd3 23.Rad1 Nxb2 24.Rb1 Nc4 25.Rxb7 Bc5 1-0

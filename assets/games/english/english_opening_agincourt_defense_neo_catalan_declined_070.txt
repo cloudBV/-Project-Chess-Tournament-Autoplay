@@ -1,0 +1,15 @@
+[Event "Round 5: Toidze, Tengiz - Nigalidze, Gaioz"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-5/UyYhtUBJ/38Zk8gGP"]
+[Date "2026.07.16"]
+[Round "5.12"]
+[White "Toidze, Tengiz"]
+[Black "Nigalidze, Gaioz"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2361"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d4 c6 7.b3 Ne4 8.Bb2 Nd7 9.Nbd2 f5 10.Ne1 h5 11.Nd3 h4 12.Nf3 hxg3 13.hxg3 g5 14.Nfe5 Kg7 15.Qe1 Nxe5 16.Nxe5 Nd6 17.c5 Nf7 18.Nxf7 Kxf7 19.f3 b6 20.b4 bxc5 21.bxc5 Ba6 22.Qd2 Qc7 23.Kf2 Rh8 24.Rh1 f4 25.gxf4 gxf4 26.Bh3 Bh4+ 27.Kg2 Rag8+ 28.Bg4 Rxg4+ 0-1

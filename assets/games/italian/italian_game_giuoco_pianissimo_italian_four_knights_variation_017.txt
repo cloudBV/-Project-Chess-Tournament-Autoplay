@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.06.12"]
+[Round "3.1"]
+[White "Villanueva, Mario"]
+[Black "Castro Salgado, Pablo"]
+[Result "1-0"]
+[WhiteElo "2466"]
+[BlackElo "2184"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 h6 6.O-O d6 7.Na4 O-O 8.Nxc5 dxc5 9.Be3 Qd6 10.h3 b6 11.Nd2 Be6 12.Kh1 Bxc4 13.Nxc4 Qe6 14.b3 Rad8 15.Qe1 Nh5 16.f4 f5 17.g4 fxe4 18.f5 Qd5 19.gxh5 exd3+ 20.Kh2 dxc2 21.Qg3 Rf6 22.Rf2 Qe4 23.Rg1 Rd7 24.Qg4 Qd5 25.Rxc2 Nd4 26.Rf2 e4 27.Nd2 Re7 28.Bxd4 cxd4 29.Rf4 e3 30.Ne4 Rc6 31.f6 Rc2+ 32.Kh1 Rf7 33.Qc8+ Kh7 34.fxg7 1-0

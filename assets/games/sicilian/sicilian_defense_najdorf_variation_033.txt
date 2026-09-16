@@ -1,0 +1,14 @@
+[Event "Round 3: Fisher, Timofey - Tisaj, Domen"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/JIN1bYyX"]
+[Date "2026.07.05"]
+[Round "3.29"]
+[White "Fisher, Timofey"]
+[Black "Tisaj, Domen"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2419"]
+[ECO "B95"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qf3 Be7 8.O-O-O Qc7 9.Qg3 Nbd7 10.Bd3 b5 11.Rhe1 b4 12.Nd5 exd5 13.Nf5 Ne5 14.Nxg7+ Kd8 15.exd5 h6 16.Qh4 Ng8 17.Bxe7+ Qxe7 18.Qxb4 a5 19.Qd4 Qa7 20.Qh4+ Qe7 21.Qd4 Qa7 22.Qc3 Qxf2 23.Ne8 Qf4+ 24.Kb1 Kxe8 25.Qc6+ Ke7 26.Qxa8 Nf6 27.Qxa5 Nd7 28.Re4 Qxh2 29.Qc7 Qxg2 30.Rxe5+ dxe5 31.Rf1 Qxd5 32.Bc4 Qc5 33.Rxf7+ Ke8 34.Qxc5 Nxc5 35.Rc7 Kd8 36.Rxc5 Re8 37.Be2 Bb7 38.a4 Re6 39.a5 e4 40.b4 Rf6 41.b5 1-0

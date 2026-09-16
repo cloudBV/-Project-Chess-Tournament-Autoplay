@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.3"]
+[White "Perucki, Maciej"]
+[Black "Sowinski, Pawel"]
+[Result "0-1"]
+[WhiteElo "2043"]
+[BlackElo "2355"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 g6 3.Bb2 Nf6 4.e5 Nd5 5.Nc3 Nxc3 6.dxc3 Bg7 7.Qd5 Nc6 8.f4 d6 9.exd6 Qxd6 10.Qxd6 exd6 11.O-O-O O-O 12.Rxd6 Re8 13.Nf3 Bg4 14.Bb5 Bxf3 15.gxf3 Bh6 16.Kb1 Bxf4 17.Rd7 a6 18.Bxc6 bxc6 19.c4 Re3 20.Rhd1 Rae8 21.Ba3 Rxf3 22.Bxc5 Bxh2 23.Ra7 g5 24.Rxa6 g4 25.Rxc6 g3 26.Rh6 Kg7 27.Rh3 Kg6 28.a4 h5 29.Rd6+ Kg5 30.Rd5+ f5 31.Bd6 g2 32.Rxf3 g1=Q+ 33.Ka2 Bxd6 34.Rfxf5+ Kg6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Janzelj, Tim - Mingarro Carceller, Sergi"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/mAoXUb9N"]
+[Date "2026.07.05"]
+[Round "2.11"]
+[White "Janzelj, Tim"]
+[Black "Mingarro Carceller, Sergi"]
+[Result "1-0"]
+[WhiteElo "2394"]
+[BlackElo "2342"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.c3 Bd6 6.Bd3 Nge7 7.O-O Bf5 8.Bxf5 Nxf5 9.Re1+ Nce7 10.Qb3 b6 11.c4 O-O 12.g4 Nh6 13.Bxh6 gxh6 14.Nc3 Qd7 15.h3 f5 16.Ne5 Bxe5 17.dxe5 fxg4 18.e6 Qd6 19.Nxd5 Rf3 20.Re3 Raf8 21.Qa3 c5 22.Rxf3 gxf3 23.Qe3 Nxd5 24.cxd5 Qxd5 25.Kh1 Kh8 26.e7 Re8 27.Qc3+ Kg8 28.Qf6 1-0

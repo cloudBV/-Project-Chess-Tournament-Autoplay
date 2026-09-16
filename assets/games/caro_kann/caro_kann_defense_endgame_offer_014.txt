@@ -1,0 +1,15 @@
+[Event "Round 6: Pyrih, Roman - Matviishen, Viktor"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/F7b3xrMp"]
+[Date "2026.07.15"]
+[Round "6.1"]
+[White "Pyrih, Roman"]
+[Black "Matviishen, Viktor"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2549"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 Qc7 4.Nc3 dxe4 5.dxe4 e5 6.Bc4 h6 7.h3 b5 8.Bb3 Nd7 9.Nxb5 cxb5 10.Qd5 Nb6 11.Qxb5+ Bd7 12.Qxe5+ Qxe5 13.Nxe5 Be6 14.Bxe6 fxe6 15.Ng6 Rh7 16.Nxf8 Kxf8 17.b3 Nf6 18.f3 Rh8 19.Be3 Ke7 20.Ke2 Rhc8 21.c4 Rc6 22.c5 Nbd7 23.b4 Rb8 24.Rhb1 Rcc8 25.a3 a5 26.Kd3 Ne8 27.Bf4 Rb7 28.h4 Nb8 29.Kc4 Na6 30.Be5 Nf6 31.g4 Kf7 32.g5 hxg5 33.hxg5 Nd7 34.Bd6 e5 35.Rb3 Nc7 36.f4 exf4 37.Bxf4 Ke6 38.Rd1 Nb5 39.Rxd7 Kxd7 40.a4 Na3+ 41.Rxa3 Rxb4+ 42.Kd5 Rb1 43.Rd3 Rf8 44.Be5 Rff1 45.c6+ Ke7 46.Bxg7 1-0

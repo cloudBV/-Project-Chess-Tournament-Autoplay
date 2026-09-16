@@ -1,0 +1,15 @@
+[Event "Round 5: Kahe, Ralph - Koehler, Gerhard, Dr."]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-5/TDq4OB2t/5DCov5UH"]
+[Date "2026.07.10"]
+[Round "5.2"]
+[White "Kahe, Ralph"]
+[Black "Koehler, Gerhard, Dr."]
+[Result "0-1"]
+[WhiteElo "2135"]
+[BlackElo "2179"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Be7 6.Bg5 d6 7.e3 Nbd7 8.Bd3 h6 9.h4 e5 10.Nge2 Re8 11.Bf5 c6 12.O-O-O Qc7 13.Bxd7 Bxd7 14.dxe5 dxe5 15.Bxf6 Bxf6 16.f3 Be6 17.Ne4 Be7 18.g4 Rad8 19.Rdg1 Qb6 20.c5 Qb3 21.Qxb3 Bxb3 22.N2c3 Rd3 23.Re1 b5 24.Nd2 Be6 25.Kc2 Rd7 26.b4 f5 27.gxf5 Bxf5+ 28.Nde4 Rf8 29.Rd1 Rxd1 30.Kxd1 a5 31.Ke2 Be6 32.h5 Ra8 33.Nd2 axb4 34.axb4 Ra3 35.Nce4 Bf7 36.f4 exf4 37.exf4 Bd5 38.Rg1 Rh3 39.f5 Kf8 40.Ra1 Bf6 41.Ra8+ Ke7 42.Ra7+ Kd8 43.Ra8+ Kc7 44.Nxf6 gxf6 45.Rf8 Rxh5 46.Rxf6 Rh4 47.Ke3 Kd7 48.Nf1 Ke7 49.Rd6 Rxb4 50.Rxh6 Rc4 51.Ng3 b4 52.Rh7+ Kf6 53.Rb7 Rc3+ 54.Kf4 Rf3+ 55.Kg4 b3 56.Nh5+ Ke5 57.f6 Rf2 58.Re7+ Kd4 59.Nf4 b2 60.Rb7 Bf7 61.Kg3 Rd2 62.Rxf7 b1=Q 63.Rd7+ Kc3 64.Rxd2 Kxd2 65.Kg4 Qe4 0-1

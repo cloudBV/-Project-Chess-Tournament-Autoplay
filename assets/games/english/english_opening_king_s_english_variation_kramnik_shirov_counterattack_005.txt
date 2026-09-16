@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/AApoOk8Q"]
+[Date "2026.07.04"]
+[Round "8.14"]
+[White "Liberadzki, Slawomir"]
+[Black "Deszczynski, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2267"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.Nf3 Nc6 5.e3 Nf6 6.a3 Be7 7.d4 d6 8.Be2 O-O 9.O-O h6 10.Qc2 exd4 11.exd4 Re8 12.h3 Bf8 13.Ne3 a4 14.d5 Ne5 15.Bd2 Ng6 16.Bd3 Nf4 17.Bf5 g6 18.Bxc8 Qxc8 19.Rae1 Bg7 20.Bc3 Qd7 21.Qd1 Kh7 22.Ng4 Qf5 23.Nh4 Qg5 24.Nf3 Qf5 25.Nh4 Qg5 26.Nf3 Qf5 27.Nh4 1/2-1/2

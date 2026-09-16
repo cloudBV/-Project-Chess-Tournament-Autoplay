@@ -1,0 +1,14 @@
+[Event "Round 6: Papaux, Jeremie - Erne, Raphael"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/e1Lbp0V2"]
+[Date "2026.07.18"]
+[Round "6.25"]
+[White "Papaux, Jeremie"]
+[Black "Erne, Raphael"]
+[Result "1/2-1/2"]
+[WhiteElo "2102"]
+[BlackElo "2166"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Exchange Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 b6 6.Nc3 Bb7 7.e3 d6 8.Bd3 Nbd7 9.e4 e5 10.O-O O-O 11.d5 Nh5 12.b4 Nf4 13.g3 Ng6 14.Nd1 a5 15.b5 Nc5 16.Ne3 Bc8 17.Kg2 Bd7 18.h4 Qc8 19.Rh1 Ne7 20.Qc2 f5 21.exf5 Nxf5 22.Ng5 h6 23.Nxf5 Bxf5 24.Ne4 Nxd3 25.Qxd3 Bxe4+ 26.Qxe4 Qf5 1/2-1/2

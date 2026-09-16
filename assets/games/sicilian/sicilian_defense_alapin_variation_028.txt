@@ -1,0 +1,15 @@
+[Event "Round 5: Azoulay, Yehonatan - Magen, Ofek"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-5/MpEuSFMD/gS0jCkUE"]
+[Date "2026.07.17"]
+[Round "5.10"]
+[White "Azoulay, Yehonatan"]
+[Black "Magen, Ofek"]
+[Result "1/2-1/2"]
+[WhiteElo "2328"]
+[BlackElo "2115"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Qa5 3.Nf3 e6 4.Na3 Nc6 5.d4 cxd4 6.Nc4 Qd8 7.cxd4 d5 8.exd5 exd5 9.Ne3 Nf6 10.Bd3 Bb4+ 11.Bd2 O-O 12.O-O Bxd2 13.Qxd2 Ne4 14.Qe2 Be6 15.Rfd1 f5 16.Nc2 Qb6 17.Rab1 Rae8 18.Bb5 f4 19.Bxc6 bxc6 20.Ne5 f3 21.gxf3 Ng5 22.Ne1 Qd8 23.Kh1 Nh3 24.Ng2 Qg5 25.Qe3 Qh5 26.Rbc1 Rf6 27.Rxc6 Bf5 28.Rdc1 Ng5 29.Nf4 Qh4 30.Ng2 Qh5 31.Rxf6 gxf6 32.Ng4 Bxg4 33.fxg4 Rxe3 34.gxh5 Re2 35.Nf4 Rxb2 1/2-1/2

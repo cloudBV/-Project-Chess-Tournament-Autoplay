@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/e6ysl8c0"]
+[Date "2026.07.14"]
+[Round "2.5"]
+[White "Pranav, V"]
+[Black "Del Rio De Angelis, Salvador Gabriel"]
+[Result "1/2-1/2"]
+[WhiteElo "2666"]
+[BlackElo "2432"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 cxd4 5.O-O e6 6.c3 a6 7.Be2 Bc5 8.b4 Be7 9.a3 d5 10.e5 Nh6 11.cxd4 Qb6 12.Bb2 Bd7 13.Bc3 O-O 14.Bd3 f6 15.a4 fxe5 16.a5 Qd8 17.dxe5 d4 18.Bb2 Bxb4 19.Qb3 Bxa5 20.Qxb7 Bb5 21.Bxb5 axb5 22.Qxb5 Nf5 23.Qc6 Re8 24.d3 Qb8 25.Bc1 Qxe5 26.Bd2 Ne7 27.Qb7 Bc7 28.Bf4 Qd5 29.Qxd5 Nxd5 30.Rxa8 Rxa8 31.Bxc7 Nxc7 32.Rd1 Nd5 33.Nd2 Nf4 34.Nf3 Nxd3 35.Nxd4 e5 36.Nc2 Ra2 37.Rxd3 Rxc2 38.g3 Kf7 39.Rd7+ Kf6 40.Rd6+ Kf7 41.Rd7+ Kf6 1/2-1/2

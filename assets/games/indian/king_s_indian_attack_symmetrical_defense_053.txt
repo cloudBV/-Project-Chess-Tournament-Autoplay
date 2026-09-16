@@ -1,0 +1,14 @@
+[Event "Round 7: Peglau, Paul David - Pfatteicher, Lukas"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/vexzhsxD"]
+[Date "2026.07.23"]
+[Round "6.15"]
+[White "Peglau, Paul David"]
+[Black "Pfatteicher, Lukas"]
+[Result "1/2-1/2"]
+[WhiteElo "2139"]
+[BlackElo "2276"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.d4 O-O 5.O-O d6 6.b3 a5 7.Bb2 a4 8.c4 e5 9.dxe5 dxe5 10.Qxd8 Rxd8 11.Bxe5 Nc6 12.Bb2 Ne4 13.Bxg7 Kxg7 14.Na3 Nc3 15.Nb5 Nxb5 16.cxb5 Nb4 17.bxa4 Rxa4 18.Rac1 c6 19.bxc6 bxc6 20.Ne5 Rxa2 21.Rfe1 Rdd2 22.Bf3 Ba6 23.Nxc6 Nxc6 24.Rxc6 Bb7 25.Rc3 Bxf3 26.Rxf3 Rxe2 27.Rxe2 Rxe2 28.Ra3 Rb2 29.Rf3 Re2 30.Ra3 Rb2 31.Rf3 Re2 1/2-1/2

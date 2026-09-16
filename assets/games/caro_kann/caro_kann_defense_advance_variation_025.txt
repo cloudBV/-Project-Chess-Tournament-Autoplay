@@ -1,0 +1,14 @@
+[Event "Round 8: Liu,Tianyi (Jack) - Rudd, Jack"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-8/zT63tO4J/QMff8ULO"]
+[Date "2026.07.11"]
+[Round "8.4"]
+[White "Liu,Tianyi (Jack)"]
+[Black "Rudd, Jack"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2253"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 Ne7 7.Be2 Ng6 8.O-O Be7 9.Ne1 Ngf8 10.g4 Bg6 11.f4 f5 12.g5 h6 13.h4 hxg5 14.hxg5 Qc7 15.a4 O-O-O 16.a5 Bf7 17.Be3 Ng6 18.Qd2 Rh7 19.Nf3 Rdh8 20.Kg2 c5 21.Rh1 Rxh1 22.Rxh1 Rxh1 23.Kxh1 c4 24.Nc1 Bd8 25.b4 cxb3 26.Nxb3 Nb8 27.Qd3 Ne7 28.Bd2 Bh5 29.Nc5 Qc6 30.Ng1 Bxe2 31.Nxe2 Nd7 32.Nxd7 Kxd7 33.Nc1 Qc4 34.Nb3 b6 35.axb6 Bxb6 36.Bc3 Qxd3 37.cxd3 Kc6 38.Ba5 Ng6 39.Bd2 Kb5 40.Kg2 a5 41.Bxa5 Bxa5 42.Nc5 Nxf4+ 43.Kf3 Bb6 44.Nb7 Nxd3 45.Ke2 Nc1+ 46.Ke3 Nb3 47.g6 Bxd4+ 48.Kf4 Nc5 49.Nd6+ Kc6 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Megalios, Konstantinos - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/UXHMcSVw"]
+[Date "2026.07.06"]
+[Round "3.2"]
+[White "Megalios, Konstantinos"]
+[Black "Alexakis, Dimitris"]
+[Result "1/2-1/2"]
+[WhiteElo "2385"]
+[BlackElo "2525"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Ng5 Nf6 6.h4 Be7 7.Bf4 h6 8.Nh3 Be6 9.e3 Nbd7 10.Be2 O-O 11.Bg3 Bf7 12.Nf4 c6 13.h5 a6 14.a4 a5 15.Qb3 Ra7 16.O-O-O Qb6 17.Qxb6 Nxb6 18.d5 Rc8 19.Kb1 cxd5 20.cxd5 Rxc3 21.bxc3 Nfxd5 22.Nxd5 Nxd5 23.Kb2 Bf6 24.Rc1 Ra8 25.Bc4 Nb4 26.Bxf7+ Kxf7 27.Ka3 Nd3 28.Rc2 Rc8 29.Rb1 Nb4 30.Rcc1 Nd3 31.Rc2 Ke6 32.c4 Nb4 33.Rxb4 axb4+ 34.Kxb4 Rc6 35.a5 Be7 36.Kb3 Ra6 37.Kb4 Bd8 38.Ra2 b6 39.Kb5 Rxa5+ 40.Rxa5 bxa5 41.f4 a4 42.Kxa4 Bb6 43.Bf2 g6 44.Kb5 Bc5 45.hxg6 Kf6 46.Kc6 Kxg6 47.Kd7 Kh5 48.Ke6 Kg4 49.Kf6 h5 50.Ke6 Ba3 51.Kf6 Bb4 52.Kf7 h4 53.Kf6 Bc5 54.Ke6 h3 55.gxh3+ Kf3 56.Kxf5 Bxe3 57.Bxe3 Kxe3 58.Kg4 Kd4 59.f5 e3 60.f6 e2 61.f7 e1=Q 62.f8=Q Qe6+ 63.Qf5 Qxf5+ 64.Kxf5 1/2-1/2

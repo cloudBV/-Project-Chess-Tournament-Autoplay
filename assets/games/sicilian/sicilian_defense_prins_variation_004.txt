@@ -1,0 +1,14 @@
+[Event "Round 1: Gilevych, Artem - Baldeschi, Niccolo`"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-1/T4WOJvWv/MtCovdQp"]
+[Date "2026.07.06"]
+[Round "1.1"]
+[White "Gilevych, Artem"]
+[Black "Baldeschi, Niccolo`"]
+[Result "1-0"]
+[WhiteElo "2430"]
+[BlackElo "2118"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Prins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 Nc6 7.c4 Be6 8.Be3 Be7 9.Nc3 O-O 10.Be2 a5 11.O-O Nd7 12.Nb5 Nc5 13.Rc1 a4 14.Na1 Bg5 15.Qd2 Bxe3+ 16.Qxe3 Qb6 17.Rfd1 Rfd8 18.Nc2 Na5 19.Nca3 Rac8 20.Rd2 Rd7 21.Rcd1 Rc6 22.Bf1 Qa6 23.Kh1 f6 24.Qc3 h6 25.Nc2 Nxe4 26.fxe4 Bxc4 27.Qh3 Rd8 28.Nca3 Bxf1 29.Rxf1 Rc5 30.Qe6+ Kh7 31.Rxd6 Rxd6 32.Qxd6 Rxb5 33.Qxa6 bxa6 34.Nxb5 axb5 35.Rc1 Nc4 36.Rc2 Kg6 37.b3 axb3 38.axb3 Na5 39.Rc3 b4 40.Rd3 Kg5 41.g3 Nc6 42.Rd7 g6 43.Rb7 f5 44.Rb6 Nd4 45.h4+ Kg4 46.Rxg6+ Kf3 47.exf5 Nxf5 48.Rf6 Ke4 49.Kg2 h5 50.Kf2 Ne3 51.Ke2 Nf5 52.Kf2 Nd4 53.g4 hxg4 54.h5 Kd3 55.h6 e4 56.h7 e3+ 57.Kg2 e2 58.Rf1 Nc2 59.Kg1 exf1=Q+ 60.Kxf1 Kc3 61.h8=Q+ Kxb3 62.Ke2 Na3 63.Qg8+ Kb2 64.Qxg4 b3 65.Kd2 Ka1 66.Qa4 Kb2 67.Qd4+ Kb1 68.Qe4+ Ka1 69.Qh1+ Ka2 70.Qd5 Kb2 71.Qe5+ Kb1 72.Qf5+ Ka2 73.Qe6 Kb2 74.Qf6+ Kb1 75.Kc3 1-0

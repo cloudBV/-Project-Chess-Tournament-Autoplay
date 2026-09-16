@@ -1,0 +1,15 @@
+[Event "Round 5: Jain Kashish Manoj - Radovanovic, Nikola"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/gM5wQKqY"]
+[Date "2026.07.07"]
+[Round "5.4"]
+[White "Jain Kashish Manoj"]
+[Black "Radovanovic, Nikola"]
+[Result "1/2-1/2"]
+[WhiteElo "2394"]
+[BlackElo "2433"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6 9.O-O-O Be7 10.Rhe1 O-O 11.e5 dxe5 12.Nxe5 Qxd4 13.Rxd4 Rfc8 14.Nxc6 Rxc6 15.Ne4 e5 16.Rd3 Nxe4 17.Bxe7 Nxf2 18.Rd2 Re6 19.Bd6 Ng4 20.h3 Nf6 21.Rxe5 Rae8 22.Rxe6 Rxe6 23.Bc5 Re1+ 24.Rd1 Rxd1+ 25.Kxd1 a6 26.Ke2 Nd7 27.Bd4 f6 28.Kd3 Kf7 29.Ke4 Ke6 30.g4 Nb8 31.c4 Nc6 32.Bc3 g5 33.a4 Ne7 34.Bd2 h6 35.b4 f5+ 36.gxf5+ Nxf5 37.c5 Ng3+ 38.Kf3 Nh5 39.b5 1/2-1/2

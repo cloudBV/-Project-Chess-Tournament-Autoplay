@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.7"]
+[White "Craciun, Sasha-Matei"]
+[Black "Sawicki, Dorian"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2059"]
+[ECO "B42"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Qc7 6.O-O b5 7.a4 bxa4 8.Rxa4 Bb7 9.Qe2 Nf6 10.e5 Nd5 11.c4 Nb6 12.Ra1 Nc6 13.Nxc6 Qxc6 14.f3 Bc5+ 15.Kh1 O-O 16.Nc3 d6 17.Be4 d5 18.cxd5 exd5 19.Bc2 Rfe8 20.Qd3 g6 21.Bf4 Nc4 22.Ba4 Nxb2 23.Bxc6 Nxd3 24.Bxb7 Rab8 25.Bc6 Rec8 26.Bxd5 Nxf4 27.Rxa6 Bd4 28.Rf6 Bxe5 29.Bxf7+ Kg7 30.Rxf4 Bxf4 31.Ne2 Be3 32.Bd5 Rc2 33.Ng1 g5 34.Be4 Rd2 35.Nh3 Rbb2 36.f4 gxf4 37.Ng5 h6 38.Ne6+ Kf6 39.Nc7 Ke5 40.Bf3 Rf2 41.Rd1 Rbc2 42.Nd5 Rcd2 43.Re1 Rxd5 0-1

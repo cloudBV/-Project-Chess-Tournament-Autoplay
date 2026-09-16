@@ -1,0 +1,15 @@
+[Event "Round 4: Puskar, Peter - Luberanski, Jakub"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/wdQsgCYx"]
+[Date "2026.07.18"]
+[Round "4.27"]
+[White "Puskar, Peter"]
+[Black "Luberanski, Jakub"]
+[Result "1-0"]
+[WhiteElo "2206"]
+[BlackElo "2168"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 e6 4.g3 Be7 5.Bg2 O-O 6.O-O d5 7.Bg5 Qb6 8.Qb3 Qa6 9.e3 Bd7 10.Qc2 Rc8 11.Bxf6 Bxf6 12.dxc5 Rxc5 13.Nbd2 Ba4 14.Qb1 Nd7 15.Re1 Bb5 16.e4 Bd3 17.Qd1 Qb6 18.e5 Qxb2 19.exf6 Nxf6 20.Nb3 Rxc3 21.Ne5 Bf5 22.Nd4 Be4 23.f3 Bc2 24.Qe2 Qb6 25.Qf2 Rac8 26.Bh3 Bg6 27.a4 Kh8 28.a5 Qd8 29.Ra4 Nd7 30.Nxe6 Qe8 31.Nxg7 Qxe5 32.Rxe5 Nxe5 33.Bxc8 Nxf3+ 34.Kg2 Be4 35.Rxe4 dxe4 36.Qb2 Rc2+ 37.Qxc2 Ne1+ 38.Kf2 Nxc2 39.Nf5 b5 40.Bb7 b4 41.Ke2 Na3 42.Bd5 Nb5 43.Bxf7 h6 44.g4 Kh7 45.h4 a6 46.g5 hxg5 47.hxg5 Nc3+ 48.Ke1 1-0

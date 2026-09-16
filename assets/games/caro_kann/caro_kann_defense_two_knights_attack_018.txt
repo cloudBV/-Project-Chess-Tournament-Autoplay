@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "18.5"]
+[White "Rey Martinez, Jaime"]
+[Black "Brzezina, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2279"]
+[BlackElo "2203"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Be6 7.b3 Nd7 8.Bb2 Bd5 9.Qe3 Nf6 10.O-O-O Bxf3 11.Qxf3 Qd5 12.Qg3 e6 13.Bc4 Qa5 14.Kb1 O-O-O 15.d4 Rg8 16.Rhe1 Bb4 17.c3 Bd6 18.Qh3 Kb8 19.g3 h6 20.f4 Rgf8 21.Qg2 Qc7 22.Qc2 c5 23.f5 exf5 24.Qxf5 cxd4 25.cxd4 Rfe8 26.d5 Rxe1 27.Rxe1 Re8 28.Rxe8+ Nxe8 29.Qh7 Qe7 30.a4 Be5 31.Qe4 f6 32.Bf1 Nd6 33.Qe1 Qe8 34.Ba3 Qg6+ 35.Kc1 Nf5 36.Bd3 Qg5+ 37.Kb1 Nd4 38.d6 Qg4 39.Bb2 Qf3 40.Bc4 Qc6 41.Ba3 Bxd6 42.Bb2 Be5 43.Qd2 Qd6 44.Qd3 a6 45.Qg6 Qd7 46.Bf7 Qf5+ 47.Qxf5 Nxf5 48.Ba3 Bd6 49.Bb2 Kc7 50.Be6 Ne7 51.Kc2 Be5 52.Ba3 Bd6 53.Bb2 Be5 54.Ba3 Bd6 55.Bb2 Be5 56.Ba3 1/2-1/2

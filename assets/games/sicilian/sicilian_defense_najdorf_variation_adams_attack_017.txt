@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/0BFUuWvw"]
+[Date "2026.07.12"]
+[Round "7.8"]
+[White "Savicevs, Arsenijs"]
+[Black "Klimakovs, Sergejs"]
+[Result "0-1"]
+[WhiteElo "2228"]
+[BlackElo "2266"]
+[ECO "B90"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 h6 8.Bc4 Qc7 9.Bb3 Be7 10.Nh2 Be6 11.Ng4 Nbd7 12.Ne3 Nb6 13.O-O Rc8 14.a4 O-O 15.a5 Nbd7 16.Qe2 Nc5 17.Ned5 Qd8 18.Ba2 Nxd5 19.Nxd5 Bg5 20.Nb6 Rc6 21.Bd5 Bxd5 22.Nxd5 Ne6 23.c3 Bxc1 24.Rfxc1 Nf4 25.Nxf4 exf4 26.Rd1 Rc5 27.Qg4 g5 28.Rd4 Qe7 29.h4 Kg7 30.Rad1 Re5 31.Rxd6 Rxe4 32.Qh5 Re6 33.Rd7 Qf6 34.Rxb7 f3 35.hxg5 hxg5 36.Qxf3 Qh6 37.g3 Rf6 38.Qg4 Rh8 39.Kf1 Qh1+ 40.Ke2 Qxb7 41.Qxg5+ Rg6 42.Qe5+ f6 43.Qe6 Qb5+ 44.Kf3 Qh5+ 45.Kg2 Qxd1 46.Qe7+ Kh6 47.Qe3+ Rg5 48.Qf4 Kg7 49.Qc7+ Kg6 0-1

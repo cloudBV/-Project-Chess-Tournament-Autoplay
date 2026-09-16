@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "17.9"]
+[White "StockfishClassical 202007311012"]
+[Black "Weiss 2.1-dev-95b0951"]
+[Result "1-0"]
+[WhiteElo "3552"]
+[BlackElo "3470"]
+[ECO "B16"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Nf3 Bf5 7.Be2 e6 8.O-O Qc7 9.Nh4 Bg6 10.g3 Nd7 11.a4 a5 12.c3 Nb6 13.Bf3 Nd5 14.Qb3 Be7 15.Bh6 O-O-O 16.Rfd1 Kb8 17.Rac1 Rhg8 18.Bd2 Rd7 19.Qc4 Rgd8 20.Qe2 Nb6 21.h3 Bf8 22.Kh2 e5 23.b4 axb4 24.Nxg6 fxg6 25.cxb4 Rxd4 26.b5 c5 27.a5 Nc8 28.Qe1 Bd6 29.Bc3 Rxd1 30.Rxd1 Qe7 31.b6 h5 32.Kg2 Re8 33.Bd5 e4 34.Qe2 Rd8 35.Qb5 e3 36.Bf3 Qd7 37.Qb1 Qf5 38.Qa2 exf2 39.a6 Rd7 40.Kxf2 c4 41.Kg2 Qg5 42.Be1 Qb5 43.axb7 Rxb7 44.Rb1 Qd7 45.Bf2 Be5 46.Qxc4 f5 47.Rd1 Nd6 48.Qg8+ Qc8 49.Qd5 Qc3 50.Bc5 Qb2+ 51.Kh1 Rxb6 52.Bxb6 Qxb6 53.Qxe5 Kc8 54.Rxd6 Qb1+ 55.Kh2 Qc2+ 56.Bg2 Qxg2+ 57.Kxg2 f4 58.Qc5+ Kb7 59.Rb6+ Ka7 60.Qa5# 1-0

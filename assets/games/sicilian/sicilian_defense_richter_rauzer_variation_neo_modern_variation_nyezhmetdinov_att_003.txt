@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-2/VSYgJsUo/wnZ9yxF3"]
+[Date "2026.07.21"]
+[Round "2.9"]
+[White "Skovgaard, Andreas"]
+[Black "Bhagat Kush"]
+[Result "0-1"]
+[WhiteElo "2175"]
+[BlackElo "2352"]
+[ECO "B69"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6 gxf6 12.f5 Qb6 13.Kb1 h5 14.g3 b4 15.Ne2 e5 16.Nc1 Rc8 17.Qd3 a5 18.Nd2 Nd4 19.Nc4 Qa7 20.Ne3 Bb5 21.Qd2 Bc6 22.Bd3 a4 23.Nd5 Bxd5 24.exd5 Qc5 25.Ba6 Rb8 26.Ne2 Nxf5 27.c4 a3 28.b3 Ne3 29.Rde1 Bf8 30.Qd3 Bh6 31.Nf4 Ng4 32.Qf5 Bxf4 33.Qxf4 Qf2 34.Qc1 Qd4 35.Rhf1 Ke7 36.h3 Nh6 37.Qc2 Rb6 38.Re4 Qc5 39.Bb5 Rg8 40.Rh4 Rxg3 41.Rxh5 Rg1 42.Qe2 Rxf1+ 43.Qxf1 Qd4 44.Qe2 Qg1+ 45.Kc2 Qa1 46.Rxh6 Qxa2+ 47.Kd1 Qxe2+ 48.Kxe2 Rxb5 0-1

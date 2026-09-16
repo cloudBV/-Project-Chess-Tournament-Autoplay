@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "7.1"]
+[White "Potential 426cc351-426cc351"]
+[Black "Komodo 14.1"]
+[Result "1/2-1/2"]
+[WhiteElo "3108"]
+[BlackElo "3449"]
+[ECO "C50"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Italian Game: Hungarian Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.d4 d6 5.d5 Nb8 6.Bd3 Nf6 7.c4 O-O 8.Nc3 Nbd7 9.O-O a5 10.h3 Nh5 11.Be3 Nf4 12.Bc2 Ng6 13.Re1 Nf6 14.Ne2 h6 15.Ng3 Bd7 16.Nf5 Re8 17.Nxe7+ Qxe7 18.Rc1 b6 19.a3 Rf8 20.b4 Nh5 21.Kh2 axb4 22.axb4 f5 23.exf5 Bxf5 24.Bxf5 Rxf5 25.g4 Rxf3 26.Qxf3 Rf8 27.Qe4 Qh4 28.Rg1 Ngf4 29.Bxf4 Rxf4 30.Qe3 Rxf2+ 31.Rg2 Rxg2+ 32.Kxg2 Nf4+ 33.Kh2 Qf6 34.Qf3 e4 35.Qxe4 Qb2+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 4: Ivanisevic, Ivan - Daakshin Arun"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-4/dyKZYB3z/B5jv3l7S"]
+[Date "2026.07.16"]
+[Round "4.7"]
+[White "Ivanisevic, Ivan"]
+[Black "Daakshin Arun"]
+[Result "1-0"]
+[WhiteElo "2517"]
+[BlackElo "2327"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.Nc3 b6 5.cxd5 exd5 6.b3 Bd6 7.Bb2 a6 8.g3 O-O 9.Bg2 Bb7 10.O-O Re8 11.Rc1 Nbd7 12.Ne2 c5 13.d4 Rc8 14.Nh4 Bf8 15.Rc2 Ne4 16.dxc5 Ndxc5 17.Nf4 a5 18.Nf5 g6 19.Nd4 Bg7 20.Re1 Ba6 21.a3 g5 22.Nh5 Nd3 23.Nxg7 Nxb2 24.Rxb2 Kxg7 25.Nf5+ Kh8 26.Qd4+ f6 27.h4 gxh4 28.Nxh4 Qd6 29.Kh2 Rc5 30.Rd1 Qe5 31.b4 axb4 32.axb4 Rcc8 33.Qxe5 Rxe5 34.f4 Rh5 35.Bf3 Rh6 36.Bxe4 dxe4 37.b5 Bb7 38.Rd7 Ba8 39.Rbd2 Rg8 40.Rd8 1-0

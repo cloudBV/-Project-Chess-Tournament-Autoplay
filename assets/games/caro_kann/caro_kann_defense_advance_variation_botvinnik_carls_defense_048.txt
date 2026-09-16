@@ -1,0 +1,14 @@
+[Event "Round 1: Dong, Hongfu - Al Ibrahim, Abdulrahman"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/VqW6bQwb"]
+[Date "2026.07.13"]
+[Round "1.15"]
+[White "Dong, Hongfu"]
+[Black "Al Ibrahim, Abdulrahman"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2016"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 e6 8.O-O a5 9.Qe2 Ne7 10.Nd2 Ng6 11.Nf3 Nh4 12.Ng5 g6 13.g3 Nf5 14.Re1 Be7 15.h4 h6 16.Nf3 Qb6 17.Kg2 Ba6 18.c4 dxc4 19.Bxc4 h5 20.Bg5 Bxg5 21.Nxg5 O-O 22.Rac1 Bb7 23.Bd3 c5+ 24.Kh3 Nd4 25.Qe3 Bd5 26.Qf4 Qxb2 27.Rxc5 Bxa2 28.Rc7 Nf5 29.Bxf5 exf5 30.e6 f6 31.Rg7+ Kxg7 32.Qc7+ 1-0

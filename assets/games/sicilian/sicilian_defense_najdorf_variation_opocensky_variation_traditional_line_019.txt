@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.3"]
+[White "Zanan, Evgeny"]
+[Black "Navara, David"]
+[Result "0-1"]
+[WhiteElo "2401"]
+[BlackElo "2602"]
+[ECO "B92"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Kh1 b6 10.Be3 Bb7 11.Nd5 Nbd7 12.Nxe7+ Qxe7 13.f3 d5 14.exd5 Nxd5 15.Qd2 a5 16.c4 Nxe3 17.Qxe3 Nc5 18.f4 e4 19.Nd4 Rad8 20.Rad1 Qf6 21.b3 Rd7 22.Nb5 Rfd8 23.Rxd7 Rxd7 24.f5 h6 25.h3 Bc6 26.Kg1 Kh7 27.Rf2 Qa1+ 28.Kh2 Bxb5 29.cxb5 Qxa2 30.f6 Qd2 31.Qg3 Qd6 32.fxg7 Qxg3+ 33.Kxg3 Kxg7 34.Bc4 Nxb3 0-1

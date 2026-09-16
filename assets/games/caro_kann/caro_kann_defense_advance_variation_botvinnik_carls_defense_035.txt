@@ -1,0 +1,15 @@
+[Event "Round 9: Stevanic, David - Ilijic, Mihajilo"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/UozdrWay"]
+[Date "2026.07.11"]
+[Round "9.13"]
+[White "Stevanic, David"]
+[Black "Ilijic, Mihajilo"]
+[Result "1-0"]
+[WhiteElo "2326"]
+[BlackElo "2164"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.c3 e6 7.b4 Qc7 8.Bf4 f6 9.Bb5 Bxf3 10.Qxf3 fxe5 11.Qh5+ Qf7 12.Qxe5 Nf6 13.Bg3 g6 14.O-O Bg7 15.Qd6 Qd7 16.Qxd7+ Nxd7 17.a3 a5 18.Ra2 Kf7 19.Re1 Rhe8 20.Bd6 axb4 21.cxb4 Red8 22.Rd2 Nd4 23.Bf1 Nf5 24.Bf4 Nd4 25.Red1 Nc6 26.Bb5 Nde5 27.Kf1 Nd7 28.h4 Re8 29.Bd6 Bf6 30.g3 Red8 31.Rd3 Nde5 32.Rb3 Nc4 33.Bxc4 dxc4 34.Rf3 Kg7 35.Rc1 Nd4 36.Re3 Nb5 37.Rxc4 Nxd6 38.cxd6 Rxd6 39.Rc7+ Kg8 40.Ke2 b5 41.Nd2 Rda6 42.Ne4 Bd4 43.Rd3 Bb2 44.Rdd7 Rxa3 45.Rxh7 Be5 46.Rb7 Ra2+ 47.Kf3 Rf8+ 48.Kg4 Re2 49.f3 Re3 50.Ng5 Bf6 51.Rh6 Bxg5 52.Rxg6+ Kh8 53.Kxg5 Rexf3 54.Kh6 R3f7 55.Rxf7 Rxf7 56.Rxe6 1-0

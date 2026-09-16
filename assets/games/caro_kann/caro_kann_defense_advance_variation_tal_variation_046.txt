@@ -1,0 +1,15 @@
+[Event "Round 6: Prraneeth Vuppala - Barbosa, Oliver"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/O4SeS1ik"]
+[Date "2026.07.18"]
+[Round "6.5"]
+[White "Prraneeth Vuppala"]
+[Black "Barbosa, Oliver"]
+[Result "0-1"]
+[WhiteElo "2502"]
+[BlackElo "2367"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nf3 Qa5+ 8.Nbd2 Qa6 9.c4 Ne7 10.O-O Nf5 11.b3 Be7 12.a4 Qa5 13.b4 Bxb4 14.Rb1 O-O 15.Ng5 Nd7 16.Rd1 Qxa4 17.Nf1 dxc4 18.Qe2 g6 19.g4 hxg4 20.Qxg4 c3 21.Rd3 Qc2 22.Rxb4 Qxd3 23.Nxe6 c2 24.Rxb7 Qd1 25.Qg5 Rfe8 26.d5 cxd5 0-1

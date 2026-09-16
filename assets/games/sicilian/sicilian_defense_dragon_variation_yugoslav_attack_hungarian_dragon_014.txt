@@ -1,0 +1,15 @@
+[Event "Round 7: Baisalbekov, Maksat - Zharas, Aldiyar"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-7/lATKR3Iz/TTcVTakk"]
+[Date "2026.07.22"]
+[Round "7.12"]
+[White "Baisalbekov, Maksat"]
+[Black "Zharas, Aldiyar"]
+[Result "1-0"]
+[WhiteElo "2053"]
+[BlackElo "2241"]
+[ECO "B75"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Qd2 Nxd4 9.Bxd4 Bh6 10.Be3 Bxe3 11.Qxe3 Be6 12.Bb5+ Kf8 13.Ba4 Qa5 14.O-O Rc8 15.Bb3 Qc5 16.Rfe1 h4 17.Bxe6 fxe6 18.e5 dxe5 19.Qxc5 Rxc5 20.Re2 Kf7 21.Rae1 Nd7 22.Ne4 Rd5 23.c4 Rd4 24.b3 a6 25.Rc1 Rc8 26.Kf2 Nc5 27.Nxc5 Rxc5 28.Ke3 Kf6 29.Rd2 Rd6 30.b4 Rc7 31.c5 Rd5 32.Rcd1 Rcd7 33.a4 Kf7 34.Rd3 a5 35.b5 Rxd3+ 36.Rxd3 Rd5 37.Rxd5 exd5 38.c6 bxc6 39.b6 1-0

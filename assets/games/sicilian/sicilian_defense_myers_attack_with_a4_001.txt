@@ -1,0 +1,14 @@
+[Event "Round 8: Ask, Josef - Dingertz, Gustav"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/IV8qHAba"]
+[Date "2026.07.03"]
+[Round "8.17"]
+[White "Ask, Josef"]
+[Black "Dingertz, Gustav"]
+[Result "0-1"]
+[WhiteElo "2021"]
+[BlackElo "2101"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Myers Attack, with a4"]
+
+1.e4 c5 2.a4 e6 3.g3 Nc6 4.Bg2 Nf6 5.d3 d5 6.Nd2 Be7 7.Ngf3 O-O 8.O-O a6 9.e5 Nd7 10.Re1 Qc7 11.Qe2 Rb8 12.Nf1 b5 13.h4 Bb7 14.Bf4 Rfc8 15.axb5 axb5 16.c3 d4 17.Ng5 h6 18.Nxf7 Kxf7 19.Be4 Nf8 20.Qh5+ Kg8 21.Nh2 Bd8 22.cxd4 Nxd4 23.Ra7 Nc6 24.Raa1 Qf7 25.Qg4 h5 26.Qd1 Nd4 27.Ra7 Rc7 28.Bd2 Bxe4 29.Rxc7 Bxc7 30.Rxe4 Nd7 31.f4 Qg6 32.Nf1 Nb6 33.b4 Nf5 34.Kh2 cxb4 35.Bxb4 Nd5 36.Be1 Bb6 37.Kh3 Nfe3 38.Nxe3 Nxe3 39.Qf3 Qg4+ 40.Qxg4 hxg4+ 41.Kh2 Nd5 42.f5 exf5 43.Re2 b4 44.d4 b3 45.e6 Bxd4 46.e7 Nxe7 0-1

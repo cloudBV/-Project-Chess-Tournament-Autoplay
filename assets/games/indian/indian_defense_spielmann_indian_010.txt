@@ -1,0 +1,14 @@
+[Event "Round 11: Thorfinnsson, Bjorn - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/hQcT67SR"]
+[Date "2026.07.19"]
+[Round "11.4"]
+[White "Thorfinnsson, Bjorn"]
+[Black "Alexakis, Dimitris"]
+[Result "1/2-1/2"]
+[WhiteElo "2396"]
+[BlackElo "2459"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 d5 4.Bg5 Nc6 5.e3 Qb6 6.Qb3 Ne4 7.Bf4 Bf5 8.Nbd2 e6 9.Qxb6 axb6 10.Nxe4 Bxe4 11.Bc7 Bxf3 12.gxf3 c4 13.a3 b5 14.Rd1 Kd7 15.Bg3 h5 16.h4 g6 17.Bg2 Be7 18.Kd2 Bd6 19.Rde1 Ne7 20.e4 Rag8 21.Reg1 g5 22.hxg5 Bxg3 23.fxg3 Rxg5 24.Bf1 Rhg8 25.Rh3 dxe4 26.fxe4 f5 27.Be2 fxe4 28.Rxh5 Rxg3 29.Rxg3 Rxg3 30.Rxb5 e3+ 31.Kc2 Rg2 32.Kd1 Rg1+ 33.Kc2 Rg2 34.Kd1 Rg1+ 35.Kc2 Rg2 36.Kd1 Nd5 37.Bxc4 Nf4 38.Rxb7+ Kc6 39.Rf7 Rg1+ 40.Kc2 e2 41.Bxe2 Nxe2 42.Rf2 Ng3 43.b4 Ne4 44.Re2 Kd5 45.Re3 Rg2+ 46.Kb3 Nd2+ 47.Ka4 Nc4 48.Rh3 Rg8 49.Rh5+ Kd6 50.Kb3 Nd2+ 51.Kc2 Rg2 52.a4 Ne4+ 53.Kd3 Nf2+ 54.Kc4 Nd1 55.Rh3 Ra2 56.a5 Ra3 57.Rg3 Kd7 58.Rh3 Kd6 59.Rg3 Kc7 60.Rh3 Kb7 61.Rg3 Kc7 62.Rh3 Kd6 63.Rg3 Kd7 64.Rh3 Kd6 65.Rg3 Kd7 66.Rh3 1/2-1/2

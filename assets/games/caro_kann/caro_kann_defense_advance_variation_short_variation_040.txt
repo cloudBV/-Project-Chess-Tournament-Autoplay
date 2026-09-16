@@ -1,0 +1,15 @@
+[Event "Round 7: Pijpers, Arthur - Dgebuadze, Alexandre"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/B9Jv26HV"]
+[Date "2026.07.21"]
+[Round "7.2"]
+[White "Pijpers, Arthur"]
+[Black "Dgebuadze, Alexandre"]
+[Result "1-0"]
+[WhiteElo "2486"]
+[BlackElo "2399"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Ne7 7.c3 Ng6 8.Ne1 Rc8 9.a4 c5 10.Na3 Ne7 11.Nac2 cxd4 12.cxd4 Nb8 13.Bd2 Nec6 14.b4 Be7 15.Bd3 O-O 16.Bxf5 exf5 17.Nd3 Nd7 18.b5 Na5 19.Ne3 Nc4 20.Nxf5 Re8 21.Qg4 g6 22.Nh6+ Kg7 23.Nxf7 Qb6 24.Qxd7 Qxd4 25.Nd6 Nxd6 26.exd6 Qxd3 27.Rae1 1-0

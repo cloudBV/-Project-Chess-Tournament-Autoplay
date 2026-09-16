@@ -1,0 +1,14 @@
+[Event "Round 9: Gkavardinas, Antonios - Bryakin, Mikhail"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/LuYYIKt5"]
+[Date "2026.07.22"]
+[Round "9.11"]
+[White "Gkavardinas, Antonios"]
+[Black "Bryakin, Mikhail"]
+[Result "0-1"]
+[WhiteElo "2304"]
+[BlackElo "2483"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 a6 6.a4 d6 7.h3 h6 8.Be3 Be6 9.Bxe6 fxe6 10.Bxc5 dxc5 11.Nd2 O-O 12.O-O b6 13.Nc4 g5 14.g3 Kh7 15.Kh2 Rg8 16.Ne2 Qe7 17.f3 Raf8 18.Qd2 Rf7 19.c3 Rgf8 20.Kg2 Nd7 21.Qe3 h5 22.Rad1 Qf6 23.Rf2 Ne7 24.d4 exd4 25.cxd4 cxd4 26.Qxd4 Ng6 27.Qxf6 Nxf6 28.Nd4 Re8 29.Nc6 e5 30.Ne3 h4 31.g4 Nd7 32.Nf5 Nb8 33.Nb4 a5 34.Nd5 Na6 35.Rfd2 Nc5 36.Nc3 Nf4+ 37.Kh2 Kg6 38.Rc2 Nfe6 39.Kg2 Nf4+ 40.Kh2 Nfe6 41.Kg2 Ref8 42.Nd5 Kh7 43.Nde3 Nxa4 44.Nc4 Re8 45.Kh2 Nf4 46.b3 Nc5 47.Nxa5 Nxe4 48.Nb7 Nf6 49.Nd8 Rd7 50.Rxd7+ Nxd7 51.Nf7 Ne6 52.Rd2 Nf6 53.Re2 Nd7 54.Rd2 Nf6 55.Re2 e4 56.Re3 Rf8 57.Ne5 Ra8 58.fxe4 Ra2+ 59.Kh1 Nc5 60.b4 Ncxe4 61.Kg1 Rb2 62.Rd3 Rxb4 63.Rd8 Rb1+ 64.Kg2 Rb2+ 65.Kg1 Ng3 66.Rf8 Nxf5 67.gxf5 Rb5 68.Nc6 Kg7 69.Rc8 Nd5 70.Nd4 Rb1+ 71.Kf2 Rb4 72.Ne6+ Kf6 73.Rf8+ Ke7 74.Rg8 Nf4 75.Nxg5 Kf6 76.Ke3 Kxf5 77.Nf7 Rb3+ 78.Kd4 c5+ 79.Kc4 Rb4+ 80.Kc3 Nxh3 81.Nd6+ Kf6 82.Nc4 Nf4 83.Rg4 Ng6 84.Rg1 b5 85.Ne3 Rd4 86.Rf1+ Nf4 0-1

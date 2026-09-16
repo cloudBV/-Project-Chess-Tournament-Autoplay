@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.01"]
+[Round "5.18"]
+[White "Proudian, Armen"]
+[Black "Saiz Rodriguez, Daniel Evelio"]
+[Result "0-1"]
+[WhiteElo "2401"]
+[BlackElo "2247"]
+[ECO "E10"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 cxd4 5.Nxd4 d5 6.Nc3 e5 7.Nc2 d4 8.Nb5 0-1

@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.4"]
+[White "Strus, Mateusz"]
+[Black "Serafin, Franciszek"]
+[Result "1/2-1/2"]
+[WhiteElo "2047"]
+[BlackElo "2126"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 Bxc3+ 6.bxc3 h6 7.Bxf6 Qxf6 8.e3 b6 9.Be2 Bb7 10.O-O d6 11.Nd2 Nd7 12.Bf3 Bd5 13.Be4 Bxe4 14.Qe2 Bf3 15.Qxf3 Qxf3 16.Nxf3 Rfd8 17.Nd2 c5 18.Rfc1 Rac8 19.Kf1 Nb8 20.Ke2 Nc6 21.Nb3 Rb8 22.a4 Kf8 23.f4 Rdc8 24.d5 Ne7 25.e4 exd5 26.cxd5 f5 27.c4 fxe4 28.Nd2 Nf5 29.Rab1 Re8 30.g4 Nd4+ 31.Ke3 Re7 32.Nb3 Nf3 33.h3 Ke8 34.a5 b5 35.a6 b4 36.Ra1 Rb6 37.Ra5 Kd7 38.Rca1 Nd4 39.Nxd4 cxd4+ 40.Kxd4 e3 41.Re1 e2 42.Ra2 b3 43.Rb2 Kc7 44.Kd3 Rxa6 45.Rxb3 Ra2 46.Rc3 a5 47.h4 a4 48.f5 Kb6 49.g5 hxg5 50.hxg5 Kc5 51.f6 gxf6 52.gxf6 Rf7 53.Rb1 e1=N+ 54.Ke4 1/2-1/2

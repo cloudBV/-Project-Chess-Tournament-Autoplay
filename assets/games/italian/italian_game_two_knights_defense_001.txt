@@ -1,0 +1,15 @@
+[Event "Round 2: Liang, Awonder - Sheehan, Ethan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/UVfj2FqT"]
+[Date "2026.07.04"]
+[Round "2.7"]
+[White "Liang, Awonder"]
+[Black "Sheehan, Ethan"]
+[Result "0-1"]
+[WhiteElo "2588"]
+[BlackElo "2416"]
+[ECO "C55"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Qd5 O-O 8.Nxe5 Nxe5 9.Qxe5 d6 10.Qh5 Be6 11.Bd3 g6 12.Qf3 c6 13.Be3 Bf6 14.Bd4 Bxd4 15.cxd4 Re8 16.Qf4 Kg7 17.c3 d5 18.Rfe1 Qf6 19.Qc7 Re7 20.Qg3 Rae8 21.Re5 Bf5 22.Rxe7 Rxe7 23.h3 Bxd3 24.Qxd3 Qe6 25.Kf1 Qe4 26.Qxe4 Rxe4 27.a4 Kf8 28.f3 Re7 29.Kf2 f5 30.h4 Kf7 31.a5 a6 32.b3 Ke6 33.Kg3 Kf6 34.Kf2 Ke6 35.Rc1 Kd6 36.Rc2 f4 37.Rc1 h6 38.g3 fxg3+ 39.Kxg3 Re2 40.Kf4 Ke6 41.c4 Rd2 42.cxd5+ Kxd5 43.Ke3 Rxd4 44.Rg1 Rxh4 45.Rxg6 Rb4 46.Rxh6 Rxb3+ 47.Kf4 c5 48.Rh7 c4 49.Rc7 Kd4 50.Kg4 c3 51.f4 Kd3 52.f5 c2 53.f6 Rc3 54.Rxc3+ Kxc3 55.f7 c1=Q 56.f8=Q Qg1+ 57.Kh3 Qe3+ 58.Kh2 Qe5+ 59.Kh3 Qxa5 60.Qc8+ Kb4 61.Qxb7+ Qb5 62.Qe4+ Qc4 63.Qb7+ Kc3 64.Qg7+ Kb3 65.Qb7+ Ka4 66.Qd7+ Qb5 67.Qd4+ Ka3 68.Qa1+ Kb3 69.Qb1+ Kc4 70.Qc2+ Kd5 71.Qf5+ Kd6 72.Qf6+ Kc7 73.Qc3+ Kb7 74.Qg7+ Kb6 75.Qf6+ Qc6 76.Qd4+ Qc5 77.Qb2+ Kc6 78.Qf6+ Kb5 79.Qb2+ Ka4 80.Qb7 a5 81.Qd7+ Qb5 82.Qd4+ Qb4 83.Qd7+ Ka3 84.Kh2 a4 85.Qc6 Ka2 86.Qe6+ Qb3 87.Qd6 a3 88.Kg2 Ka1 89.Qc5 a2 90.Kf2 Kb1 0-1

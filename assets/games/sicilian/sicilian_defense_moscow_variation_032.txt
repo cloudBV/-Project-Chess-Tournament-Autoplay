@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "5.10"]
+[White "Dobrowolski, Kamil"]
+[Black "Stickler, Florentin"]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2210"]
+[ECO "B51"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O a6 6.c4 g6 7.Nc3 Bg7 8.Re1 O-O 9.d3 Nb6 10.Bc2 Bg4 11.h3 Bxf3 12.Qxf3 Nfd7 13.Be3 Ne5 14.Qe2 Nc6 15.f4 Bd4 16.f5 Nd7 17.Ba4 Bxe3+ 18.Qxe3 Nd4 19.Bxd7 Qxd7 20.Rf1 e6 21.f6 Kh8 22.Qh6 Rg8 23.Rf4 g5 24.Rg4 b5 25.Rxg5 Rxg5 26.Qxg5 Nf3+ 27.gxf3 Rg8 28.f4 Rxg5+ 29.fxg5 h6 30.gxh6 Kh7 31.e5 dxe5 32.Ne4 Qxd3 33.Ng5+ Kxh6 34.Nxf7+ Kh7 35.Ng5+ Kg6 36.f7 Qd4+ 37.Kh1 Qd8 38.Rf1 Qf8 39.Nxe6 Qa8+ 40.Kh2 Qe4 41.f8=Q Qc2+ 42.Qf2 Qxc4 43.Qf6+ 1-0

@@ -1,0 +1,15 @@
+[Event "North Island Chess Championships 2026"]
+[Site "https://lichess.org/broadcast/nz-north-island-championship-2026/round-5/jushsamG/LPEicPdK"]
+[Date "2026.07.06"]
+[Round "05"]
+[White "Jin, Yanbo"]
+[Black "Liu, William Rui"]
+[Result "1/2-1/2"]
+[WhiteElo "2051"]
+[BlackElo "2195"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.Nc3 b6 6.Bd3 Bb7 7.O-O O-O 8.Qe2 Nbd7 9.Rd1 Qc8 10.e4 dxe4 11.Nxe4 c5 12.b3 cxd4 13.Nxd4 Nc5 14.Nxc5 Bxc5 15.Bb2 Qc7 16.Nf3 Qe7 17.Ng5 h6 18.Bxf6 Qxf6 19.Nh7 Qxf2+ 20.Qxf2 1/2-1/2

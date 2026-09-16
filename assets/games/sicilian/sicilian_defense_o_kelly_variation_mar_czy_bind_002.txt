@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.22"]
+[White "Wang, Kevin"]
+[Black "Lyutsinger, Iren"]
+[Result "1/2-1/2"]
+[WhiteElo "2102"]
+[BlackElo "2258"]
+[ECO "B28"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 e5 7.Nf5 d5 8.cxd5 Bxf5 9.exf5 Nd4 10.Bd3 Be7 11.O-O O-O 12.Be3 Nxd5 13.Bxd4 exd4 14.Nxd5 Qxd5 15.Re1 Rfe8 16.Qg4 Bb4 17.Rec1 b5 18.h4 Qd7 1/2-1/2

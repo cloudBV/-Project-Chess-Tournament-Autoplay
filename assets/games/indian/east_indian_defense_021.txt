@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.2"]
+[White "Castellanos Gomez, Alejandro"]
+[Black "Petkov, Momchil"]
+[Result "1/2-1/2"]
+[WhiteElo "2298"]
+[BlackElo "2528"]
+[ECO "A48"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.e3 Bg7 4.Be2 O-O 5.O-O d6 6.c4 Bf5 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Nd2 Bf5 10.b4 e5 11.d5 e4 12.Rb1 h5 13.Nb3 Qh4 14.Bb2 Bxb2 15.Rxb2 Nd7 16.Qd4 Qg5 17.Kh1 Rfe8 18.Rg1 b6 19.a4 Re5 20.a5 Rae8 21.Qd2 Bg4 22.axb6 axb6 23.Nd4 Bxe2 24.Qxe2 Qf6 25.Ra2 Rg5 26.Nc6 b5 27.cxb5 Nb6 28.Qb2 Qxb2 29.Rxb2 Nxd5 30.Rc1 Ra8 31.h4 Rf5 32.Rd2 Kf8 33.Nd4 Rf6 34.Nc6 Rf5 35.Nd4 Rf6 36.Nc6 Nb6 37.Nd4 Ra7 38.Kg1 d5 39.Nc6 Ra4 40.Rcc2 Ke8 41.Ra2 Rxa2 42.Rxa2 Kd7 43.Ra7 Re6 44.Kh2 Re8 45.Kg3 f6 46.Nd4 Rg8 47.Kh3 g5 48.g3 Rb8 49.Ra6 Rg8 50.Ra7 Rb8 51.Ra6 Rg8 52.Ra7 Rb8 1/2-1/2

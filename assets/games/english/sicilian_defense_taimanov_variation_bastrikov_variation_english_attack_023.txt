@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/9Gt4V1Rt"]
+[Date "2026.07.09"]
+[Round "7.1"]
+[White "Shirov, Alexei"]
+[Black "Miezis, Normunds"]
+[Result "1-0"]
+[WhiteElo "2616"]
+[BlackElo "2386"]
+[ECO "B48"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O h5 9.Nxc6 bxc6 10.Bf4 e5 11.Bg5 Be7 12.Rd2 d6 13.Bc4 Rb8 14.Qd3 Qb6 15.Bb3 Be6 16.f4 a5 17.f5 Bxb3 18.cxb3 Qc7 19.Kb1 Rb4 20.Rc1 Qb7 21.Qe2 h4 22.Bxf6 gxf6 23.Rdc2 Rd4 24.Na4 d5 25.Rxc6 Rxe4 26.Qd2 Rd4 27.Rc8+ Kd7 28.Qxa5 Rxc8 29.Nb6+ Qxb6 30.Qxb6 Rxc1+ 31.Kxc1 Bd6 32.a4 Rb4 33.Qa7+ Bc7 34.Qc5 Rd4 35.a5 Bd6 36.Qb5+ Kc7 37.Qb6+ Kd7 38.a6 Rb4 39.Qxb4 1-0

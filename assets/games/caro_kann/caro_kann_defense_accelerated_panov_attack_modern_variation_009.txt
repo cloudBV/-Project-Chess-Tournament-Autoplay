@@ -1,0 +1,15 @@
+[Event "Round 2: Primbetov, Kazbek - Akkaya, Atakan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/VS7KjXTD"]
+[Date "2026.07.14"]
+[Round "2.35"]
+[White "Primbetov, Kazbek"]
+[Black "Akkaya, Atakan"]
+[Result "1/2-1/2"]
+[WhiteElo "2106"]
+[BlackElo "2042"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nbd7 6.Bc4 a6 7.a4 Nb6 8.Qb3 Nxc4 9.Qxc4 g6 10.Nf3 Bg7 11.O-O O-O 12.a5 b5 13.axb6 Bb7 14.Ra5 Qxb6 15.b4 Rac8 16.Qb3 Qd6 17.d3 e6 18.Be3 Nxd5 19.Bc5 Qb8 20.Nxd5 Bxd5 21.Qd1 Rfd8 22.Rxa6 Qf4 23.Ra7 Rb8 24.h3 Bxf3 25.Qxf3 Qxf3 26.gxf3 Rxd3 27.Rb1 Rd5 28.Rc7 Bf8 29.Rc1 Rf5 30.Kg2 1/2-1/2

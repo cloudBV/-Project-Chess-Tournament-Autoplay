@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.17"]
+[Round "13.10"]
+[White "Sirius 3bedea6e"]
+[Black "StockfishClassical 202007311012"]
+[Result "1/2-1/2"]
+[WhiteElo "3452"]
+[BlackElo "3552"]
+[ECO "E15"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 c5 7.e4 d6 8.d5 exd5 9.cxd5 Be7 10.O-O O-O 11.Re1 Re8 12.b3 Nfd7 13.Bb2 Bf6 14.Qc1 Bxb2 15.Qxb2 Qf6 16.Nc4 Qxb2 17.Nxb2 Nf6 18.Nd2 Na6 19.Ndc4 Rad8 20.Nd3 g6 21.a4 h5 22.f3 Re7 23.h3 h4 24.g4 Kf8 25.Rac1 Nb4 26.Nxb4 cxb4 27.Bf1 Rc7 28.a5 b5 29.Nb2 Rdc8 30.Rxc7 Rxc7 31.Nd3 Nd7 32.Rc1 Rc3 33.Kf2 Nc5 34.Rxc3 bxc3 35.b4 Nxd3+ 36.Bxd3 g5 37.Ke3 a6 38.Kd4 c2 39.Bxc2 f6 40.Bb1 Kf7 41.Kd3 Kf8 42.Kd2 Ke7 43.Bd3 Kf7 44.Ke3 Bc8 45.Bf1 Bd7 46.Bg2 Ke7 47.Bf1 Be8 48.Be2 Bd7 49.Bf1 Be8 50.Ke2 Kd8 51.Kd2 Ke7 52.Bd3 Kd8 53.Be2 Ke7 54.Ke3 Kf7 55.Kf2 Ke7 56.Ke1 Bd7 57.Kf1 Be8 58.Kf2 Kd7 59.Bd3 Kc7 60.Ke3 Kd8 61.Kd4 Ke7 62.Be2 Kd7 63.Ke3 Ke7 64.Kf2 Bd7 65.Bd1 Be8 66.Ke1 Bg6 67.Bc2 Kd8 68.Kd2 Be8 69.Bb1 Kc7 70.Ke1 Bd7 71.Bc2 Be8 72.Kd2 Bd7 73.Bb3 Bc8 74.Ke1 Bb7 75.Kd2 Bc8 76.Ba2 Bd7 77.Ke2 Be8 78.Bb1 Kd8 79.f4 gxf4 80.Kf3 Ke7 81.Kxf4 Bd7 82.Bd3 Kf7 83.Be2 Kg6 84.Bd3 Kf7 85.Ke3 Ke7 86.Be2 Kf7 87.Kf4 Bc8 88.Bd1 Bd7 89.Bc2 Ke7 90.Bb1 Kf7 91.Ke3 Bc8 92.Kf4 Ke7 93.Kf3 Kf7 94.Ke3 Bd7 95.Bc2 Ke7 96.Bb3 Be8 97.Bd1 Bd7 98.Bf3 Kf7 99.Kf4 Ke7 100.Be2 Kf7 101.Bd1 Kg7 102.Bc2 Kh6 103.Kf3 Bc8 104.Kf4 Kg7 105.Bd3 Kf8 106.Kf3 Bd7 107.Ke3 Kf7 108.Kf4 Bc8 109.Kf3 Bd7 110.Kf4 Kf8 111.Bf1 Ke7 112.Ke3 Kf7 113.Kf3 Ke7 114.Ke3 Ke8 115.Kf2 Ke7 116.Bd3 Ke8 117.Bf1 Kf7 118.Be2 Bc8 119.Kg2 Bd7 120.Kf3 Kf8 121.Bd3 Ke7 122.Kf4 1/2-1/2

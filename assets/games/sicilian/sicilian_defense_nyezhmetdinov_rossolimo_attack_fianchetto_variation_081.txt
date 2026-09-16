@@ -1,0 +1,15 @@
+[Event "Round 6: Hong, Mingren - Kasimov, Rauf"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-6/xvzVryfj/F89mHuzZ"]
+[Date "2026.07.21"]
+[Round "6.8"]
+[White "Hong, Mingren"]
+[Black "Kasimov, Rauf"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2156"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 bxc6 7.c3 Ne7 8.d4 cxd4 9.cxd4 exd4 10.Nxd4 O-O 11.Nc3 Rb8 12.Nb3 d5 13.Bg5 d4 14.Na4 Be6 15.Nbc5 h6 16.Bf4 Rb5 17.Qd2 Kh7 18.b3 Nc8 19.Rac1 Qe7 20.Na6 Rh5 21.Rxc6 Qb7 22.Rec1 Bd7 23.Rc7 Qxa6 24.Rxd7 Qe6 25.Rdc7 Nd6 26.f3 Nb5 27.R7c6 Qe7 28.g4 Rh4 29.Bg3 h5 30.g5 Rh3 31.Kg2 Qd7 32.R6c5 h4 33.Bf4 Rxf3 34.Kxf3 Qh3+ 35.Kf2 d3 36.e5 Nd6 37.Qe3 Qg4 38.h3 Qh5 39.Qf3 1-0

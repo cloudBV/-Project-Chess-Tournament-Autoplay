@@ -1,0 +1,15 @@
+[Event "Round 4: Lohia, Sohum - Chasin, Nico"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-4/qxpSPQyX/8nMz7YRS"]
+[Date "2026.07.09"]
+[Round "4.2"]
+[White "Lohia, Sohum"]
+[Black "Chasin, Nico"]
+[Result "1/2-1/2"]
+[WhiteElo "2404"]
+[BlackElo "2479"]
+[ECO "B44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Bf4 Nf6 6.Nb5 e5 7.Bg5 Bc5 8.N1c3 h6 9.Bxf6 Qxf6 10.Nc7+ Kd8 11.f3 Rb8 12.N7d5 Qg5 13.Qd2 Qxd2+ 14.Kxd2 d6 15.Bc4 Be6 16.Bb3 b5 17.Ne3 Kd7 18.Ncd5 Rhc8 19.c3 b4 20.Rab1 Kd8 21.Rhc1 g6 22.Nxb4 Nxb4 23.Bxe6 fxe6 24.cxb4 Rxb4 25.b3 a5 26.Ke2 Kd7 27.Rc4 Rcb8 28.Rbc1 h5 29.Nd1 a4 30.Rxb4 Rxb4 31.bxa4 Bd4 32.Rc2 Rxa4 33.Nf2 d5 34.Nd3 Kd6 35.Nc1 Bc5 36.Nb3 Bb6 37.Nd2 g5 38.h3 Ba5 39.Nb3 Bb4 40.Kd3 Ra8 41.Re2 g4 42.hxg4 hxg4 43.Rc2 g3 44.Nc1 Bc5 45.Ke2 Bb6 46.Nd3 Ra4 47.Nb2 Ra3 48.Nd3 Bd4 49.Rd2 Rc3 50.Rd1 Ra3 51.Rd2 Ra4 52.Nc1 Ra8 53.Nd3 Rh8 54.f4 exf4 55.Nxf4 Be5 56.Ng6 Ra8 57.exd5 exd5 58.Nxe5 Kxe5 59.Rd3 Rxa2+ 60.Kf3 d4 61.Rb3 Kd5 62.Kxg3 Ke4 63.Rb8 d3 64.Re8+ Kd4 65.Rd8+ Kc3 66.Kf3 Ra1 67.Rc8+ Kd2 68.g4 Ra4 69.g5 Rd4 70.g6 Rd7 71.Kf4 Kd1 72.Ra8 d2 73.Ke4 1/2-1/2

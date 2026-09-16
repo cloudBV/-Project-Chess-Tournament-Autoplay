@@ -1,0 +1,15 @@
+[Event "Round 5: Erokhin, Artem - Srdanovic, Jovana"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/wLdso8oH"]
+[Date "2026.07.07"]
+[Round "5.14"]
+[White "Erokhin, Artem"]
+[Black "Srdanovic, Jovana"]
+[Result "0-1"]
+[WhiteElo "2061"]
+[BlackElo "2286"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 Nc6 4.c3 d5 5.exd5 Qxd5 6.Bg2 Qd3 7.Qe2 Bf5 8.Nh4 Qxe2+ 9.Kxe2 Bg4+ 10.Bf3 Bd7 11.d3 O-O-O 12.Be3 Nf6 13.Bxc5 g5 14.Ng2 g4 15.Be4 Nxe4 16.dxe4 Ne5 17.Ne3 Bc6 18.Nd2 Bh6 19.Bd4 Bb5+ 20.c4 Nxc4 21.Ndxc4 Rxd4 22.b3 Rxe4 23.Kd3 Re6 24.Rhe1 Rd8+ 25.Kc2 Bg7 26.Rad1 Rxd1 27.Rxd1 h5 28.Rd5 Bc6 29.Rxh5 Be4+ 30.Kc1 Bd4 31.Rg5 b5 32.Nd2 Bg6 33.Ndf1 Rc6+ 34.Kd1 Bf6 35.Rd5 Be4 36.Rh5 Bf3+ 37.Kd2 Rd6+ 38.Kc1 Rc6+ 39.Kd2 Kb7 40.Rh7 Rd6+ 41.Kc1 Rc6+ 42.Kd2 b4 43.Nc4 Bc3+ 44.Kc1 Rf6 45.Nfe3 Be4 46.Rh4 Rxf2 47.Rxg4 f5 48.Rf4 Rxh2 49.g4 Rxa2 50.Kd1 Bd3 51.gxf5 Ra1# 0-1

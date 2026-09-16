@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.03"]
+[Round "1.2"]
+[White "Ostensen, Nicolai Maxime"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1/2-1/2"]
+[WhiteElo "2407"]
+[BlackElo "2574"]
+[ECO "A28"]
+[Variant "Standard"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 a5 5.g3 Bc5 6.Bg2 d6 7.h3 Nd7 8.d3 Nf8 9.Bg5 f6 10.Be3 Ne6 11.O-O Ncd4 12.Kh2 h5 13.Nh4 g5 14.Nf5 Nxf5 15.exf5 Nd4 16.Bxd4 Bxd4 17.Ne2 Bb6 18.d4 Bxf5 19.Bxb7 Rb8 20.Bc6+ Kf8 21.f4 exf4 22.gxf4 g4 23.Ng3 Bg6 24.f5 Bf7 25.Qd3 d5 26.c5 Bxc5 27.dxc5 Rxb2+ 28.Kh1 h4 29.Ne2 Qe7 30.Nf4 g3 31.Rac1 Qe5 32.Ng2 Rxa2 33.Rce1 Qb2 34.Bxd5 Qd2 35.Qxd2 Rxd2 36.Bxf7 Kxf7 37.Re4 Re8 38.Rxh4 Rf2 39.Kg1 Rxf1+ 40.Kxf1 Re5 41.Rh7+ Ke8 42.Rxc7 Rxf5+ 43.Kg1 Kd8 44.Rg7 Rg5 45.Ra7 Rxc5 46.Nf4 Kc8 47.Ne6 Rd5 48.Rc7+ Kb8 49.Rc5 Rxc5 50.Nxc5 Kc7 51.Kg2 Kc6 52.Na4 Kd5 53.Kxg3 Ke6 54.Kg4 Kf7 55.Kf5 Kg7 56.Nc5 Kh6 57.Kg4 Kg6 58.Na4 Kh6 59.h4 Kg6 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 7: Sahib Singh - Ljepic, Andrej"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/YQOY5BMS"]
+[Date "2026.07.09"]
+[Round "7.6"]
+[White "Sahib Singh"]
+[Black "Ljepic, Andrej"]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2428"]
+[ECO "C18"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation Declined"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Bd3 c4 9.Be2 Nf5 10.h4 Qa5 11.Bd2 Nc6 12.h5 h6 13.Nf3 Bd7 14.Qf4 Qa4 15.Ra2 Rg8 16.g4 Nfe7 17.g5 hxg5 18.Nxg5 Nf5 19.Bg4 Nce7 20.Ke2 O-O-O 21.Nxf7 Rdf8 22.Ng5 Nh6 23.Qg3 Nef5 24.Bxf5 Nxf5 25.Qg4 Rh8 26.Nh3 g6 27.hxg6 Rh4 28.Qg2 Nxd4+ 29.cxd4 c3 30.Bxc3 Qc4+ 31.Kd2 Qxa2 32.g7 Rg8 33.Qf3 Qc4 34.Qf8+ Kc7 35.Qd6+ Kc8 36.Qf8+ Kc7 37.Bb2 Rxd4+ 38.Kc1 Ba4 39.Qd6+ Kc8 40.Qf8+ Kc7 41.Qd6+ Kc8 42.Qxe6+ Kc7 43.Qd6+ Kc8 44.c3 Rg4 45.Qe6+ Kc7 46.Qd6+ Kc8 47.Qf8+ Kc7 48.Ng5 Rxg5 49.Qd6+ Kc8 50.Qe6+ Kc7 51.Qd6+ Kc8 52.Qe6+ 1/2-1/2

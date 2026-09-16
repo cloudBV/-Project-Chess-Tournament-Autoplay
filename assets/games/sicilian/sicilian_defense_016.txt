@@ -1,0 +1,14 @@
+[Event "Round 6: Lazov, Toni - Borshch, Alexei"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/kzcFUb3Z"]
+[Date "2026.07.09"]
+[Round "6.25"]
+[White "Lazov, Toni"]
+[Black "Borshch, Alexei"]
+[Result "1-0"]
+[WhiteElo "2391"]
+[BlackElo "2169"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 Nc6 3.f4 d5 4.d3 g6 5.Nf3 Bg7 6.O-O e6 7.c3 Nge7 8.Na3 O-O 9.Qe1 b6 10.Be3 Ba6 11.Bf2 Qd7 12.Rd1 Bb7 13.Bh4 f6 14.Qg3 Rae8 15.Qh3 Bc8 16.Rde1 Qc7 17.Bg3 a6 18.Bd1 Qd8 19.e5 Nf5 20.Bf2 d4 21.g4 Nfe7 22.cxd4 cxd4 23.Nc4 Nd5 24.Qg3 fxe5 25.Ncxe5 Nxe5 26.fxe5 Ne3 27.Bxe3 dxe3 28.Rxe3 Bb7 29.Bb3 Bh6 30.g5 Bg7 31.h4 Qd7 32.Qg4 Rf5 33.Nd4 Rxf1+ 34.Kxf1 Bd5 35.Ke2 a5 36.Bc4 Bxc4 37.dxc4 Qa4 38.Qe4 Qxc4+ 39.Qd3 Qxa2 40.Qb5 Rc8 41.Qxb6 Qc4+ 42.Kf2 Re8 43.Kg3 Qd5 44.Nf3 Rf8 45.Qb3 Qd7 46.Qc4 Qf7 47.Qe4 h5 48.Rb3 Rd8 49.Rb7 Qe8 50.Qc4 Kh7 51.Qc7 Qf8 52.Qe7 Qg8 53.Kg2 a4 54.Rb6 Re8 55.Qb4 Qf7 56.Qxa4 Rf8 57.Qe4 Bxe5 58.Rb7 Bc7 59.Qc6 Rc8 60.Nd4 Kh8 61.Nxe6 Re8 62.Qc3+ Kg8 63.Rxc7 1-0

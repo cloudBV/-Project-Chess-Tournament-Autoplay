@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-3/OiFNQ5NA/uw1TPBss"]
+[Date "2026.07.02"]
+[Round "3.10"]
+[White "Zrust, Lukas"]
+[Black "Praczukowski, Stanislaw"]
+[Result "0-1"]
+[WhiteElo "2081"]
+[BlackElo "2159"]
+[ECO "A29"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.Nc3 Nb6 7.O-O Be7 8.d3 Be6 9.Be3 Nd5 10.Nxd5 Bxd5 11.a3 a5 12.Qa4 O-O 13.Rac1 Re8 14.Bc5 Bf6 15.e4 Be6 16.Rfd1 Qd7 17.Be3 Red8 18.Qb5 Qc8 19.b4 Bb3 20.Rd2 axb4 21.axb4 Ra4 22.Bc5 Qa8 23.Rb1 Be6 24.Be3 Rxb4 25.Rxb4 Nxb4 26.h3 Nc6 27.Rb2 Bc8 28.Bg5 Bxg5 29.Nxg5 Qa3 30.Qc4 Qe7 31.h4 Nd4 32.Kh2 c6 33.Qc1 Bg4 34.f4 0-1

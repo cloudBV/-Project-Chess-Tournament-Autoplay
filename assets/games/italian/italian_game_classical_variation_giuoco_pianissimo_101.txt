@@ -1,0 +1,14 @@
+[Event "Round 7: Subhayan Kundu - Colin, Vincent"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-7/3t3aaHmO/4FGzX5SI"]
+[Date "2026.07.24"]
+[Round "7.3"]
+[White "Subhayan Kundu"]
+[Black "Colin, Vincent"]
+[Result "1-0"]
+[WhiteElo "2341"]
+[BlackElo "2208"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.Bb3 Ba7 8.Nbd2 h6 9.Re1 g5 10.Nf1 Kf8 11.Be3 Kg7 12.Bxa7 Rxa7 13.Ne3 Ra8 14.d4 Nxe4 15.dxe5 dxe5 16.Bd5 f5 17.Bxc6 bxc6 18.Nxe5 c5 19.f3 Qxd1 20.Raxd1 Nf6 21.Nd5 Nxd5 22.Rxd5 Re8 23.Rxc5 Re7 24.Rd1 Kf6 25.Nc6 Re2 26.Nb4 Be6 27.Rc6 Ra7 28.Kf1 Re5 29.Nxa6 Ke7 30.b3 Bd7 31.Rxc7 Rxa6 32.Rcxd7+ Ke6 33.R7d2 Rea5 34.Re1+ Kf6 35.Ree2 1-0

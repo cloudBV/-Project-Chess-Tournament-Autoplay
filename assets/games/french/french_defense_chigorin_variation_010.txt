@@ -1,0 +1,14 @@
+[Event "Round 8: Heimrath, Reiner - Willsch, Matthias"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-8/1J1DUZFK/G22XLcQi"]
+[Date "2026.07.24"]
+[Round "8.5"]
+[White "Heimrath, Reiner"]
+[Black "Willsch, Matthias"]
+[Result "1-0"]
+[WhiteElo "2134"]
+[BlackElo "2185"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Chigorin Variation"]
+
+1.e4 e6 2.Qe2 Be7 3.d3 d5 4.g3 Nf6 5.Bg2 Nc6 6.Nf3 dxe4 7.dxe4 e5 8.h3 O-O 9.O-O Bc5 10.Rd1 Qe7 11.Nc3 Nd4 12.Nxd4 exd4 13.Na4 Bd7 14.Nxc5 Qxc5 15.Qd3 Bc6 16.Qxd4 Qxd4 17.Rxd4 Rad8 18.Rxd8 Rxd8 19.Bg5 h6 20.Bxf6 gxf6 21.g4 Rd2 22.Rc1 h5 23.Bf3 Kg7 24.Kf1 Kh6 25.Ke1 Rd8 26.Ke2 Kg5 27.Ke3 Re8 28.Rd1 Rh8 29.Rg1 Kh6 30.Kf4 Rd8 31.Rd1 Rxd1 32.Bxd1 Bd7 33.c3 h4 34.Bb3 Kg6 35.Bc4 b6 36.Bd3 Kg7 37.e5 fxe5+ 38.Kxe5 f6+ 39.Kf4 Kh6 40.Ke3 Bc6 41.Be4 Bb5 42.Bg2 c5 43.Kf4 Bd7 44.Bd5 Kg6 45.Be4+ Kh6 46.b4 Be6 47.bxc5 bxc5 48.a3 Bd7 49.Bb7 Kg6 50.Ke3 Bb5 51.Be4+ Kh6 52.Bd3 Bc6 53.f3 Kg5 54.Be4 Bb5 55.f4+ Kh6 56.Bf5 Bf1 57.Be6 Kg6 58.Bf5+ Kh6 59.Kf2 Bb5 60.Be6 Kg6 61.c4 Bc6 62.Bd5 Bd7 63.Ke3 Ba4 64.Bb7 Bb3 65.Ba6 Bc2 66.Bb5 Kh6 67.Bc6 Bb1 68.Kd2 Kg6 69.Kc3 Kh6 70.Bd5 Kg6 71.Bc6 Kh6 72.Bf3 Kg7 73.Bb7 Kh6 74.Kd2 Ba2 75.Kd3 Bb1+ 76.Ke3 Bc2 77.Bc6 Bb1 78.Be4 Ba2 79.Bd3 Bb3 80.Ke4 Bd1 81.Bf1 1-0

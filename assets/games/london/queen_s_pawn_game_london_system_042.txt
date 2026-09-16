@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.18"]
+[Round "3.4"]
+[White "Nihal Sarin"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2749"]
+[ECO "D02"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.h3 e6 6.Bd3 Bd6 7.dxc5 Bxc5 8.O-O Bd6 9.Nc3 e5 10.Bg3 a6 11.e4 d4 12.Nd5 O-O 13.c3 dxc3 14.bxc3 Be6 15.Nxf6+ Qxf6 16.Bxa6 Rxa6 17.Qxd6 Bc4 18.Qxf6 gxf6 19.Rfd1 Rxa2 20.Rab1 Na5 21.Nh2 Nb3 22.Ng4 Ra6 23.Nh6+ Kh8 24.Bh4 Nc5 25.f3 Kg7 26.Nf5+ Kg6 27.Bf2 Na4 28.Be1 b5 29.Rd6 Rxd6 30.Nxd6 Rd8 31.Nxb5 Rb8 32.Na3 Rxb1 33.Nxb1 Bd3 34.Na3 Nb2 35.g4 Nc4 36.Nb5 Nd2 37.Nd6 Nxf3+ 38.Kf2 Ng5 39.Ke3 Bc2 40.c4 Nxh3 41.c5 Ba4 42.Nf5 Nf4 43.Bh4 Ng2+ 44.Kf3 Nxh4+ 45.Nxh4+ Kg5 46.Nf5 h5 47.gxh5 Kxh5 48.Ne7 Kg5 49.c6 Bxc6 50.Nxc6 f5 51.Nxe5 fxe4+ 52.Kxe4 Kh6 53.Nxf7+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Ahmadi, Erfan - Duong Vu Anh"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-7/0HMZweox/ejLolR4n"]
+[Date "2026.07.22"]
+[Round "7.2"]
+[White "Ahmadi, Erfan"]
+[Black "Duong Vu Anh"]
+[Result "1/2-1/2"]
+[WhiteElo "2249"]
+[BlackElo "2354"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.Qe2 Ngf6 6.b3 g6 7.Bb2 Bg7 8.c4 Nh5 9.Bxg7 Nxg7 10.d4 cxd4 11.Nxd4 Qa5+ 12.Qd2 Qxd2+ 13.Kxd2 Nc5 1/2-1/2

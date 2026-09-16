@@ -1,0 +1,14 @@
+[Event "Round 3: Tsarsitalidis, Konstantinos - Triantos, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/Rud9A4wE"]
+[Date "2026.07.06"]
+[Round "3.52"]
+[White "Tsarsitalidis, Konstantinos"]
+[Black "Triantos, Konstantinos"]
+[Result "1/2-1/2"]
+[WhiteElo "2230"]
+[BlackElo "2177"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.h4 e5 7.Nb3 Be7 8.Bg5 Be6 9.Qd2 a5 10.Bb5 h6 11.Bxf6 Bxf6 12.g3 O-O 13.a4 Nd4 14.Nxd4 exd4 15.Ne2 d5 16.Nxd4 Bxd4 17.Qxd4 dxe4 18.O-O-O Bg4 19.Qxd8 Rfxd8 20.Rd2 f5 21.Re1 Kf7 22.Bc4+ Kf6 23.Bd5 Rab8 24.Re3 b6 25.c4 Bh5 26.b4 Be8 27.f3 axb4 28.fxe4 Bxa4 29.Rf2 Ke5 30.Rxf5+ Kd4 31.Kd2 g6 32.Rd3+ Kc5 33.Rf6 Rd6 34.Rxd6 Kxd6 35.Bf7+ Ke7 36.Bxg6 b5 37.c5 Rc8 38.Rd5 Bb3 39.Rh5 Kf6 40.Bf5 Rxc5 41.Rxh6+ Ke5 42.Rb6 Rc2+ 43.Ke3 Bc4 44.Bd7 Rc3+ 45.Kf2 Kd4 46.Rd6+ Kxe4 47.g4 Rc2+ 48.Kg3 Rc3+ 1/2-1/2

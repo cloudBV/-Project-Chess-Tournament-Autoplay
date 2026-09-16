@@ -1,0 +1,15 @@
+[Event "Round 2: Sargsyan, Shant - Aradhya, Garg"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/ZhE2ZDqU"]
+[Date "2026.07.22"]
+[Round "2.14"]
+[White "Sargsyan, Shant"]
+[Black "Aradhya, Garg"]
+[Result "1-0"]
+[WhiteElo "2646"]
+[BlackElo "2440"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O Bc5 6.c3 d6 7.Re1 a5 8.Bb3 g5 9.d4 Ba7 10.Be3 Bg4 11.Ba4 O-O 12.Bxc6 exd4 13.Bxd4 bxc6 14.Bxa7 Rxa7 15.Nbd2 Nd7 16.Qa4 Nc5 17.Qc2 Qf6 18.Re3 Bh5 19.Nd4 Ra6 20.Nf5 Bg4 21.Rae1 Re8 22.Nf1 Rxe4 23.Rxe4 Bxf5 24.Re8+ Kg7 25.Qd2 Rb6 26.Ng3 Bg6 27.Ra8 Qf4 28.Re3 a4 29.h3 Ne6 30.Qe2 c5 31.Rxe6 fxe6 32.Qxe6 Qf7 33.Qc8 Bh7 34.Ra7 Rc6 35.Rxa4 d5 36.Nh5+ Kg6 37.Rf4 Qe7 38.Qf5+ Kxh5 39.Rh4+ Kxh4 40.Qg4# 1-0

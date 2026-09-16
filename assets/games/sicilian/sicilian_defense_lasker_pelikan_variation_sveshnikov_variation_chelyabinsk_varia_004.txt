@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.20"]
+[White "Pressman, Leif"]
+[Black "Pyrih, Roman"]
+[Result "1/2-1/2"]
+[WhiteElo "2194"]
+[BlackElo "2390"]
+[ECO "B33"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 O-O 13.h4 Bh6 14.g4 Bf4 15.Qf3 Be6 16.Nxf4 exf4 17.Qxf4 Ne5 18.Ne3 b4 19.Be2 bxc3 20.bxc3 Rc8 21.h5 Rxc3 22.O-O Ra3 23.Rfd1 g6 24.Nd5 f6 25.Qc1 Ra5 26.hxg6 hxg6 27.Nf4 Bf7 28.Qd2 Ra4 29.Qc2 Qd7 30.Rxd6 Qxd6 31.Qxa4 Nxg4 32.Bxg4 Qxf4 33.Bh3 Rd8 34.Qxa6 Rd2 35.Rf1 Rxa2 36.Qc8+ Kg7 37.Qg4 Qd2 38.Qd7 Qg5+ 39.Qg4 Qc5 40.Qf4 Qd4 41.Bg2 Ra5 42.Re1 Rg5 43.Qe3 Qb2 44.Re2 Qb1+ 45.Re1 Qb7 46.Rc1 Qb8 47.Rc5 Rxc5 48.Qxc5 Qf4 49.Qc3 g5 50.Qf3 Qc1+ 51.Kh2 Bg6 52.Qg3 Qd2 53.Qc7+ Kh6 54.Qg3 Qd4 55.f3 1/2-1/2

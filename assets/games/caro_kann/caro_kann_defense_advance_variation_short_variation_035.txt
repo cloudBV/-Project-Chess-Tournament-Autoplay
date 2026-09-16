@@ -1,0 +1,14 @@
+[Event "Round 8: Shukhman, Anna - Mohammad Nubairshah Shaikh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-8/lrP5Tquh/M3prQmsg"]
+[Date "2026.07.19"]
+[Round "8.4"]
+[White "Shukhman, Anna"]
+[Black "Mohammad Nubairshah Shaikh"]
+[Result "1-0"]
+[WhiteElo "2392"]
+[BlackElo "2316"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 h6 7.O-O Nd7 8.a4 Bh7 9.a5 a6 10.b4 Nc8 11.Ne1 Be7 12.Bd3 O-O 13.f4 Bxd3 14.Nxd3 f6 15.f5 exf5 16.e6 Nb8 17.Rxf5 Nd6 18.Rf1 b6 19.axb6 Qxb6 20.Qh5 Ra7 21.Bxh6 Bd8 22.Bf4 Ne4 23.Rf3 c5 24.Qxd5 Qc6 25.Qxc6 Nxc6 26.bxc5 g5 27.Bd6 Re8 28.d5 Ne7 29.c4 Ng6 30.Nf2 Nxd6 31.cxd6 Bb6 32.d7 Rd8 33.Rxf6 Ne5 34.e7 Raxd7 35.exd8=Q+ Bxd8 36.Re6 Nxc4 37.Nc3 a5 38.Nfe4 Ne3 39.Nc5 Re7 40.Rxe7 Bxe7 41.N5e4 Bb4 42.Kf2 Nf5 43.g4 Nd4 44.Ne2 Nb5 45.Rd1 Kf8 46.d6 Ke8 47.d7+ Kd8 48.Nxg5 Bc5+ 49.Kf3 Nd6 50.Ne6+ Kxd7 51.Nxc5+ Kc6 52.Na4 Nc4 53.Rc1 Kb5 54.Rxc4 Kxc4 55.Nec3 Kd4 56.h4 Ke5 57.h5 1-0

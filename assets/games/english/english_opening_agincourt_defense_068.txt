@@ -1,0 +1,15 @@
+[Event "Round 3: Willow, Jonah B - Vijayakumar, Rishi"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-3/RnELbGdJ/LITSUsLU"]
+[Date "2026.07.17"]
+[Round "3.2"]
+[White "Willow, Jonah B"]
+[Black "Vijayakumar, Rishi"]
+[Result "1-0"]
+[WhiteElo "2450"]
+[BlackElo "2307"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.Nf3 Nc6 5.O-O Nh6 6.e3 g6 7.Qa4 Bd7 8.Qb3 Nf5 9.e4 Nfe7 10.e5 Bg7 11.Re1 a5 12.d3 O-O 13.Bf4 h6 14.h4 Nf5 15.Nbd2 a4 16.Qd1 b5 17.Ne4 bxc4 18.dxc4 Qe7 19.Qd2 Rab8 20.c5 Rb5 21.Rab1 Rc8 22.Bh3 Kh7 23.Bf1 Rbb8 24.Bg2 Nb4 25.Nxd4 Nxd4 26.Qxd4 Nc2 27.Nf6+ Bxf6 28.exf6 Qe8 29.Qd2 Nxe1 30.Bxh6 Qh8 31.Bg7 Qxg7 32.fxg7 Nxg2 33.Qxd7 1-0

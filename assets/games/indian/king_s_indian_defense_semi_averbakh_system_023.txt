@@ -1,0 +1,15 @@
+[Event "Round 6: Badacsonyi, Stanley - Willow, Jonah B"]
+[Site "https://lichess.org/broadcast/wood-green-blitz-2026/round-6/jVljzxpS/ZmaeDsln"]
+[Date "2026.07.18"]
+[Round "6.2"]
+[White "Badacsonyi, Stanley"]
+[Black "Willow, Jonah B"]
+[Result "1-0"]
+[WhiteElo "2476"]
+[BlackElo "2368"]
+[ECO "E73"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 c5 7.d5 e6 8.Nf3 exd5 9.cxd5 Nbd7 10.O-O Ng4 11.Bg5 f6 12.Bh4 Nde5 13.Nxe5 Nxe5 14.f4 Nf7 15.Bd3 a6 16.a4 Rb8 17.Qc2 Bd7 18.a5 Qc7 19.Bc4 b5 20.axb6 Rxb6 21.b3 Bb5 22.Rfe1 Rfb8 23.Rab1 Qd7 24.Na4 Bxa4 25.bxa4 Rb4 26.Bxa6 g5 27.Bg3 gxf4 28.Bxf4 f5 29.Bb5 Qa7 30.Rxb4 cxb4+ 31.Be3 Bd4 32.Bxd4 Qxd4+ 33.Qf2 Qxf2+ 34.Kxf2 f4 35.Rb1 Ne5 36.Ke2 Rc8 37.Kd1 Ng4 38.Rxb4 Ne3+ 39.Ke2 Nxg2 40.a5 Ne3 41.a6 Rc2+ 42.Kf3 1-0

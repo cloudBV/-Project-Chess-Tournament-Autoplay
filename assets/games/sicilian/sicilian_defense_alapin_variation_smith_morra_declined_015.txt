@@ -1,0 +1,14 @@
+[Event "Round 8: Santagati, Alessandro - Marzocchi, Tommaso"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-8/P7hb5l6K/lxuze9ib"]
+[Date "2026.07.11"]
+[Round "8.9"]
+[White "Santagati, Alessandro"]
+[Black "Marzocchi, Tommaso"]
+[Result "0-1"]
+[WhiteElo "2215"]
+[BlackElo "2305"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 Nc6 6.cxd4 d6 7.Bc4 dxe5 8.dxe5 Be6 9.Na3 g6 10.Nb5 Rc8 11.O-O Bg7 12.Bg5 Qd7 13.Re1 O-O 14.Qd2 Nb6 15.Qxd7 Bxd7 16.Bb3 Na5 17.Nxa7 Ra8 18.Rad1 Nxb3 19.axb3 Be6 20.Nb5 Bxb3 21.Bxe7 Bxd1 22.Rxd1 Rfc8 23.h4 Rc2 24.b3 h6 25.Bd8 Nc8 26.Rd7 Ra1+ 27.Kh2 Rxf2 28.Bc7 Raa2 29.Kg3 Rxg2+ 30.Kf4 g5+ 31.hxg5 hxg5+ 32.Ke4 Na7 33.Nxa7 Rxa7 34.Rd8+ Kh7 35.Kf5 Rf2 36.Kg4 Ra1 37.Nxg5+ Kg6 38.Rd6+ f6 39.Nh3 Rg2+ 40.Kf3 Rb2 41.exf6 Rxb3+ 42.Kg4 Bxf6 43.Nf4+ Kf7 44.Rd7+ Ke8 45.Rh7 Rb5 46.Bd6 Ra6 47.Ne6 Ra4+ 48.Bf4 Be5 49.Kf3 Bxf4 50.Nxf4 Rb3+ 51.Kg4 Rbb4 52.Rh8+ Kf7 0-1

@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/g5oIIixz"]
+[Date "2026.07.11"]
+[Round "2.2"]
+[White "Sivuk, Vitaly"]
+[Black "Rauk, Tonu"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2064"]
+[ECO "E15"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 c6 8.e4 d5 9.Qc2 dxe4 10.Nxe4 Nbd7 11.O-O-O c5 12.Bc3 cxd4 13.Nxd4 Bb7 14.Bg2 Qc8 15.Rhe1 O-O 16.Kb1 a6 17.f4 b5 18.cxb5 Nxe4 19.Bxe4 Bxe4 20.Rxe4 Nf6 21.Nc6 Ba3 22.Bxf6 gxf6 23.Ra4 axb5 24.Rxa3 1-0

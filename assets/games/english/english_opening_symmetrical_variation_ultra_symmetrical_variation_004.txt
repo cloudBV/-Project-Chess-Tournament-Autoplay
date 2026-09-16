@@ -1,0 +1,15 @@
+[Event "Round 9: Sevian, Samuel - Gelfand, Boris"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-9/kQYoRblt/EFvsnOi4"]
+[Date "2026.06.30"]
+[Round "9.1"]
+[White "Sevian, Samuel"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2592"]
+[ECO "A36"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.d3 Nf6 6.e4 O-O 7.Nge2 d6 8.h3 Ne8 9.h4 Nf6 10.Bg5 Rb8 11.Qd2 a6 12.Bh6 b5 13.Bxg7 Kxg7 14.b3 e5 15.Nd5 Be6 16.f4 bxc4 17.dxc4 Bxd5 18.exd5 Nd4 19.fxe5 dxe5 20.O-O Nxe2+ 21.Qxe2 Qd6 22.g4 Rbe8 23.Be4 h5 24.g5 Ng4 25.Rf3 f5 26.gxf6+ Rxf6 27.Raf1 Rf4 28.Bc2 Ref8 29.Rxf4 exf4 30.Qe6 Qxe6 31.dxe6 Ne3 32.Rf2 Nxc2 33.Rxc2 Kf6 34.Kg2 Kxe6 35.Kf3 Rd8 36.Kxf4 Rd4+ 37.Kg3 Rg4+ 38.Kh3 g5 39.Re2+ Kd6 40.hxg5 Rxg5 41.Kh4 Rf5 42.Rg2 Kc6 43.Rg6+ Kb7 44.Rg2 Kb6 45.a3 Rf3 46.Rg6+ Kb7 47.b4 Rxa3 48.Rg7+ Kc6 49.Rg6+ Kb7 50.Rg7+ Kc6 51.Rg6+ 1/2-1/2

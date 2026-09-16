@@ -1,0 +1,15 @@
+[Event "I Torneo de Ajedrez Ciudad de Águilas"]
+[Site "Águilas (Murcia), Spain"]
+[Date "2026.07.18"]
+[Round "7.3"]
+[White "Perez Epinin, Gines"]
+[Black "Guerrero Mendez, Luis"]
+[Result "0-1"]
+[WhiteElo "2083"]
+[BlackElo "2042"]
+[ECO "E16"]
+[TimeControl "15'+10"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Qe7 7.O-O Bxd2 8.Nbxd2 O-O 9.Qc2 d6 10.e4 e5 11.d5 Nbd7 12.Nh4 g6 13.f4 exf4 14.gxf4 Ng4 15.Nhf3 Ne3 16.Qd3 Nxf1 17.Rxf1 Rae8 18.Nd4 a5 19.Re1 Qh4 20.Qg3 Qxg3 21.hxg3 Nc5 22.b3 Re7 23.Kf2 Nd3+ 0-1

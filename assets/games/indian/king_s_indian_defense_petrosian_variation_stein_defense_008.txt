@@ -1,0 +1,14 @@
+[Event "Round 3: Hernandez Jimenez, Jeronimo - Herrera Jimenez, Mateo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-3/A0Ql119B/OoLHrQvR"]
+[Date "2026.07.11"]
+[Round "3.10"]
+[White "Hernandez Jimenez, Jeronimo"]
+[Black "Herrera Jimenez, Mateo"]
+[Result "1-0"]
+[WhiteElo "2207"]
+[BlackElo "2025"]
+[ECO "E92"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Be2 O-O 6.Nf3 e5 7.d5 a5 8.Be3 Na6 9.Nd2 Nc5 10.O-O Nfd7 11.b3 f5 12.f3 f4 13.Bf2 Nf6 14.a3 g5 15.b4 Ncd7 16.c5 h5 17.Nc4 Ne8 18.Nb5 Ndf6 19.cxd6 cxd6 20.Nb6 Rb8 21.bxa5 g4 22.Rc1 Bd7 23.a4 Bh6 24.Bh4 Qe7 25.Nc7 Ng7 26.Qb3 g3 27.Ne6 gxh2+ 28.Kh1 Nxe6 29.Nxd7 Nd4 30.Nxf6+ Qxf6 31.Bxf6 Nxb3 32.Be7 Nxc1 33.Rxc1 Rfc8 34.Rb1 Bf8 35.Bh4 Rc2 36.Bd3 Rc3 37.Bf1 Rc5 38.a6 b6 39.Kxh2 Kf7 40.Bb5 Be7 41.Bxe7 Kxe7 42.Bc6 Ra5 43.Bb5 Rc8 44.Rb2 Rc5 45.Kh3 Kf6 46.Kh4 Kg6 47.Kh3 Rc1 48.Kh2 Rc5 49.Kg1 h4 50.Kf2 Rc3 51.Ke2 Kg5 52.Kd2 Rc5 53.Ke2 Rc3 54.Kf2 Rc5 55.Ke2 Rc3 56.Kf2 Rc1 57.Rd2 Rc5 58.Rb2 Rc1 59.Rd2 Rc5 60.Rb2 Rc1 61.Rd2 Rc5 62.Rb2 Rc1 63.Rd2 Rh1 64.Rc2 h3 65.Rc8 Rh2 66.Rg8+ Kh6 67.Rh8+ Kg7 68.Rxh3 Rxh3 69.gxh3 Kf6 70.h4 Kg6 71.Kg2 Kh5 72.Kh3 Kh6 73.Kg4 Kg6 74.h5+ Kh6 75.Kh4 Kh7 76.Kg5 Kg7 77.h6+ Kh7 78.Kh5 Kh8 79.Kg6 1-0

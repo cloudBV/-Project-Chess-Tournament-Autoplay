@@ -1,0 +1,15 @@
+[Event "Round 1: Jain Kashish Manoj - Iskos, Alexandros"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-1/c0FPz24X/btFFjo77"]
+[Date "2026.07.03"]
+[Round "1.11"]
+[White "Jain Kashish Manoj"]
+[Black "Iskos, Alexandros"]
+[Result "1-0"]
+[WhiteElo "2394"]
+[BlackElo "2121"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Ne2 Bg4 7.O-O Bh5 8.Qe1 Bg6 9.Nf4 Bxd3 10.Nxd3 e6 11.Bf4 Bd6 12.Bxd6 Qxd6 13.Nd2 Nge7 14.f4 O-O 15.Qe2 a5 16.a3 a4 17.Rae1 Na5 18.Nf3 Rfe8 19.g4 Ng6 20.f5 Nf8 21.f6 gxf6 22.Nh4 Nd7 23.Nf4 Nc4 24.Nh5 Qb6 25.Rf2 Qd8 26.Qf3 Ra6 27.Qf4 Kh8 28.Kh1 Rg8 29.Rg1 Rb6 30.Rgg2 Nd6 31.Nf3 Ne4 32.Rf1 Qb8 33.Qc1 Rc6 34.Nd2 Nxd2 35.Qxd2 Rg6 36.Nf4 Rg7 37.Nh5 Rg6 38.Nf4 Rg7 39.Nh5 Rg6 1-0

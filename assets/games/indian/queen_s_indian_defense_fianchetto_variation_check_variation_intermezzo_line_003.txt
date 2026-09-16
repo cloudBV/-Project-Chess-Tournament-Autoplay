@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "4.1"]
+[White "Korolchuk, Vladyslava"]
+[Black "Tokarz, Gabriela"]
+[Result "0-1"]
+[WhiteElo "2027"]
+[BlackElo "2015"]
+[ECO "E15"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 d5 8.Bg2 c6 9.O-O O-O 10.Bf4 Nbd7 11.Nd2 Nh5 12.e4 Nxf4 13.gxf4 dxe4 14.Ndxe4 Rc8 15.Bh3 f5 16.Nd2 Bb4 17.Rc1 Qh4 18.Qf3 Rf6 19.Bg2 Rg6 20.Rfe1 Nf6 21.Rf1 Nh5 22.Kh1 Nxf4 23.Rg1 Rh6 24.Nf1 Rc7 25.a3 Bxc3 26.Rxc3 Bb7 27.c5 Ba6 28.Qg3 Qxg3 29.Nxg3 b5 30.b4 Rd7 31.Bxc6 Rxd4 32.Bf3 Nh3 33.Rf1 Rd2 34.Be2 f4 35.Kg2 fxg3 36.hxg3 Rxe2 37.Kf3 Rd2 38.Ke3 Rd8 39.f4 e5 40.c6 exf4+ 41.gxf4 Re6+ 42.Kf3 Nxf4 43.c7 Rc8 44.Rd1 Ng6 45.Rd8+ Re8 46.Rd6 Bb7+ 47.Kf2 Nf8 48.Rd1 Ne6 49.Rd7 Rf8+ 50.Ke2 Rf7 0-1

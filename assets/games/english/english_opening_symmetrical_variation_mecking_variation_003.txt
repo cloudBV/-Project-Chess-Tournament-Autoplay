@@ -1,0 +1,15 @@
+[Event "26 Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.04"]
+[Round "3.1"]
+[White "Gines Esteo, Pedro Antonio"]
+[Black "Arrieta Restrepo, Steven"]
+[Result "1-0"]
+[WhiteElo "2470"]
+[BlackElo "2093"]
+[ECO "A39"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Mecking Variation"]
+
+1.Nf3 Nf6 2.g3 g6 3.c4 Bg7 4.Nc3 c5 5.Bg2 O-O 6.O-O Nc6 7.d4 cxd4 8.Nxd4 a6 9.c5 h6 10.h3 Qc7 11.Be3 Kh7 12.Rc1 e5 13.Nb3 Ne7 14.Qd3 Nf5 15.Rfd1 Nxe3 16.Qxe3 h5 17.Qf3 Re8 18.e3 e4 19.Qf4 Qxf4 20.gxf4 Rb8 21.Nd2 b6 22.Ndxe4 Nxe4 23.Nxe4 bxc5 24.Nd6 Rf8 25.Rxc5 Bxb2 26.Rb1 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "Achinovich, Oleg"]
+[Black "Gibala, Adam"]
+[Result "1-0"]
+[WhiteElo "2126"]
+[BlackElo "2360"]
+[ECO "B33"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Rb8 12.Nc2 Bg5 13.g3 O-O 14.Bg2 Be6 15.O-O a5 16.f4 exf4 17.gxf4 Bh6 18.Nce3 Ne7 19.Qd3 Nxd5 20.Nxd5 g6 21.Rad1 Bg7 22.Kh1 b4 23.Rd2 Bxd5 24.Qxd5 bxc3 25.bxc3 Bxc3 26.Rd3 Bg7 27.Qxd6 Qh4 28.e5 Rb2 29.Qd5 Rfb8 30.Qxa5 Bh6 31.e6 fxe6 32.Qe5 Qg4 33.Bh3 Bxf4 34.Qxb8+ Bxb8 35.Bxg4 Kg7 36.Bxe6 Rxh2+ 37.Kg1 Re2 38.Bb3 h5 39.Rd8 Ba7+ 40.Kh1 Kh6 41.Rd7 Bc5 42.Rd5 Ba7 43.Rf7 Bb6 44.Rf6 Bc7 45.Bd1 Rxa2 46.Rc6 Rh2+ 47.Kg1 Bf4 48.Bc2 Rxc2 49.Rxc2 h4 50.Rc4 Bg3 51.Kg2 g5 52.Kh3 Kh5 53.Rd8 Be5 54.Rd5 Bg3 55.Rg4 1-0

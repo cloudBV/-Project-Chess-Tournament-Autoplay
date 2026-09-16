@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.12"]
+[White "Martin, Sam B"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2445"]
+[ECO "B42"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Swiss Cheese Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 g6 6.Nc3 Bg7 7.Be3 Nf6 8.e5 Nd5 9.Nxd5 exd5 10.Nf3 d6 11.exd6 Qxd6 12.O-O O-O 13.c3 Nc6 14.Qa4 d4 15.Nxd4 Nxd4 16.cxd4 Be6 17.Be4 b5 18.Qa5 Rad8 19.Bf3 Bxd4 20.Bxd4 Qxd4 21.b3 Bc8 22.Rfe1 Qf6 23.Rad1 h5 24.Qc7 h4 25.Rxd8 Rxd8 26.h3 Bf5 27.Qe5 Kg7 28.Qxf6+ Kxf6 29.Rc1 Rd6 30.a4 Be6 31.axb5 axb5 32.Be2 b4 33.Rc5 Bxb3 34.Rb5 Rd4 35.Kf1 Bd5 36.g3 g5 37.Ke1 Be6 38.Bf1 g4 39.hxg4 Bxg4 40.gxh4 Rd1# 0-1

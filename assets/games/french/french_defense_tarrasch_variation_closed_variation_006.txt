@@ -1,0 +1,15 @@
+[Event "Blitz Boys 10"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.2"]
+[White "Petrenko, Tymofii"]
+[Black "Netrebka, Myron"]
+[Result "1/2-1/2"]
+[WhiteElo "2145"]
+[BlackElo "2043"]
+[ECO "C05"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 Rb8 8.O-O b5 9.f4 g6 10.a3 a5 11.Nf3 b4 12.axb4 axb4 13.Be3 bxc3 14.bxc3 cxd4 15.Nexd4 Nxd4 16.Nxd4 Bc5 17.Kh1 Qc7 18.Qe2 Be7 19.Rfc1 Nc5 20.Bb5+ Bd7 21.c4 dxc4 22.Bxc4 O-O 23.Nb5 Qb7 24.Ra7 Qc8 25.Rc7 Qd8 26.Bxc5 Bxc5 27.Rxc5 Qb6 28.Bd3 Rfd8 29.Nd6 Qb4 30.Qe3 Rb6 31.h3 Rdb8 32.Nc4 R6b7 33.Nd6 Rb6 34.Rc7 Be8 35.Rc8 Kf8 36.Rxb8 Rxb8 37.Rc8 Rxc8 38.Nxc8 Bc6 39.Nd6 Bd5 40.Be4 Ba2 41.Kh2 Kg7 42.Bf3 Qb8 43.Qd4 Bb3 44.Be4 Qf8 45.Qb4 Ba2 46.Qa5 Bb3 47.Qc7 Bd1 48.Bc6 Bh5 49.Be8 g5 50.fxg5 Bg6 51.Kg3 Kg8 52.Qd8 h6 53.gxh6 Kh7 54.Qc7 Qxh6 55.Kh2 Qf4+ 56.Kh1 Qf1+ 57.Kh2 Qf4+ 58.Kh1 Qf1+ 59.Kh2 Qf4+ 60.Kg1 Qe3+ 1/2-1/2

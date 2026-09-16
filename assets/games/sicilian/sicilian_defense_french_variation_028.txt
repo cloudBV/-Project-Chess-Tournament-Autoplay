@@ -1,0 +1,14 @@
+[Event "Round 7: Lazov, Toni - Kantans, Toms"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/DOgbsOBO"]
+[Date "2026.07.09"]
+[Round "7.8"]
+[White "Lazov, Toni"]
+[Black "Kantans, Toms"]
+[Result "0-1"]
+[WhiteElo "2391"]
+[BlackElo "2559"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 e5 6.O-O Be7 7.d3 O-O 8.Nbd2 d6 9.a4 Re8 10.Nc4 h6 11.c3 Bf8 12.Bd2 Be6 13.Rfc1 Rc8 14.Rab1 Qd7 15.b4 cxb4 16.cxb4 Bg4 17.Qf1 Bxf3 18.Bxf3 d5 19.exd5 Nxd5 20.b5 Nd4 21.Bg2 Rcd8 22.Kh1 b6 23.Ne3 Nf6 24.Bh3 Ne6 25.Bc3 Bc5 26.Nc4 Bd4 27.Bb4 Nd5 28.Bd2 Qe7 29.Re1 Qf6 30.Ne3 Nc5 31.Bg2 Nc7 32.a5 Qg6 33.axb6 axb6 0-1

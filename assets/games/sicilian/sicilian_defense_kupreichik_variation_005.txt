@@ -1,0 +1,14 @@
+[Event "Round 7: Shukhman, Anna - Haugner, Jan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/V4GDSIgr"]
+[Date "2026.07.12"]
+[Round "7.13"]
+[White "Shukhman, Anna"]
+[Black "Haugner, Jan"]
+[Result "1-0"]
+[WhiteElo "2272"]
+[BlackElo "2079"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kupreichik Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bd7 6.f3 e5 7.Nf5 Bxf5 8.exf5 d5 9.Bg5 d4 10.Ne4 Nc6 11.Bc4 Bb4+ 12.Ke2 a6 13.Bxf6 gxf6 14.Qd3 Rc8 15.a3 Be7 16.Ba2 b5 17.Rhd1 Na5 18.c3 Qd7 19.cxd4 Nc4 20.Bxc4 bxc4 21.Qc3 Qxf5 22.d5 Rb8 23.d6 Bd8 24.Rd2 Rg8 25.Kf1 Qh5 26.Kg1 Rg6 27.Qxc4 Qxf3 28.Rf1 Qe3+ 29.Kh1 Ba5 30.Re2 Qh6 31.d7+ Kd8 32.Qxf7 1-0

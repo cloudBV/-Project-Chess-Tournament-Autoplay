@@ -1,0 +1,14 @@
+[Event "Round 5: Lu, Miaoyi - Hornung, Hans, Dr."]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-5/N6V5gpLW/JPPYKicc"]
+[Date "2026.07.12"]
+[Round "5.13"]
+[White "Lu, Miaoyi"]
+[Black "Hornung, Hans, Dr."]
+[Result "1-0"]
+[WhiteElo "2309"]
+[BlackElo "2040"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.c3 e6 3.Nf3 d5 4.exd5 exd5 5.Bb5+ Bd7 6.Qe2+ Be7 7.d4 Nf6 8.Bxd7+ Nbxd7 9.O-O O-O 10.Bf4 Re8 11.Qc2 Rc8 12.Nbd2 Qb6 13.a4 cxd4 14.a5 Qa6 15.Nxd4 Bc5 16.N2b3 Ne4 17.Nxc5 Ndxc5 18.f3 Nf6 19.Rfd1 h6 20.Qd2 Ne6 21.Be3 Nh7 22.Nf5 Nhf8 23.Qxd5 Rcd8 24.Nd6 Nc7 25.Qxf7+ Kh8 26.Nxe8 Rxe8 27.Qxc7 Rxe3 28.Rd8 Qf6 29.Qb8 Kg8 30.Rad1 1-0

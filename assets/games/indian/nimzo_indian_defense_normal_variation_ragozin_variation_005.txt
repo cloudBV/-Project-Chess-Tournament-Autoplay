@@ -1,0 +1,15 @@
+[Event "Round 3: Vakhidov, Jakhongir - Shogdzhiev, Roman"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/41OZN9kZ"]
+[Date "2026.07.23"]
+[Round "3.2"]
+[White "Vakhidov, Jakhongir"]
+[Black "Shogdzhiev, Roman"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2446"]
+[ECO "E51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Ragozin Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.e3 O-O 6.Bd2 b6 7.Rc1 Bb7 8.cxd5 exd5 9.Bd3 Re8 10.O-O Bf8 11.h3 c5 12.Bb5 Nbd7 13.Ne5 Nxe5 14.Bxe8 Nd3 15.Ba4 Nxc1 16.Bxc1 Rc8 17.Bc2 g6 18.Re1 Bg7 19.Ne2 Ne4 20.dxc5 bxc5 21.Bxe4 dxe4 22.Nc3 Qe7 23.Qa4 a6 24.Qc4 Rd8 25.b3 Be5 26.Na4 Qf6 27.Nxc5 Bd5 28.Qc2 Rc8 29.Rd1 Be6 30.b4 Bf5 31.Rd5 h5 32.a4 Bc3 33.Bd2 Be5 34.Qc4 Rc6 35.b5 axb5 36.axb5 Rc8 37.Qa2 Bb8 38.Nd7 Bxd7 39.Rxd7 Rc5 40.b6 Kg7 41.b7 Rf5 42.Be1 Qe5 43.g3 h4 44.Qc4 Qa1 45.Qc3+ Qxc3 46.Bxc3+ Kh6 47.Rd8 Bc7 48.Rh8+ 1-0

@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.2"]
+[White "Bjerke, Silje"]
+[Black "Skramstad, Oda Kofoed"]
+[Result "1/2-1/2"]
+[WhiteElo "2147"]
+[BlackElo "2022"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Nf3 Nc6 7.Bb5 e6 8.O-O Be7 9.d4 O-O 10.Re1 Bf6 11.Ne4 Qb6 12.Nxf6+ Nxf6 13.Bxc6 Qxc6 14.Bf4 b6 15.Rc1 Qd5 16.b3 Ne4 17.Qe2 Bb7 18.Rc7 Nf6 19.Qd3 Nd7 20.Qc4 Qxc4 21.bxc4 Bxf3 22.Rxd7 Bc6 23.Rd6 Rac8 24.f3 Rfd8 25.c5 Bd5 26.a3 bxc5 27.dxc5 f6 28.Rd1 Rxd6 29.Bxd6 Rc6 30.Kf2 1/2-1/2

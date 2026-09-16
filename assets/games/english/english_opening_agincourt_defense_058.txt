@@ -1,0 +1,14 @@
+[Event "Round 2: Bryakin, Mikhail - Priyanka Nutakki"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/ZfkXaDcU"]
+[Date "2026.07.14"]
+[Round "2.10"]
+[White "Bryakin, Mikhail"]
+[Black "Priyanka Nutakki"]
+[Result "0-1"]
+[WhiteElo "2483"]
+[BlackElo "2255"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 dxc4 4.Bg2 a6 5.Qc2 b5 6.Ne5 Ra7 7.b3 cxb3 8.axb3 c5 9.Nc3 Bb7 10.e4 Bd6 11.Nxb5 Bxe5 12.Bb2 Bxb2 13.Qxb2 Nf6 14.Nxa7 Qb6 15.O-O O-O 16.d3 Qxa7 17.b4 cxb4 18.Qxb4 Nc6 19.Qb2 e5 20.Kh1 Rd8 21.Ra3 Bc8 22.Qc3 Qe7 23.Rb3 Nd4 24.Rb8 Be6 25.Rfb1 h6 26.f4 Ng4 27.h3 Nf2+ 28.Kh2 Nb5 29.Qxe5 Nxd3 30.Rxd8+ Qxd8 31.Qa1 Qc8 32.Qa5 Qc2 33.Rf1 Qe2 34.f5 Bc4 35.Qxa6 Kh7 36.Qc8 Ne5 37.f6 Nd4 38.g4 Nef3+ 39.Kg3 Nd2 40.Rf4 Qe3+ 0-1

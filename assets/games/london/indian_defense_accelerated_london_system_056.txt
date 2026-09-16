@@ -1,0 +1,15 @@
+[Event "Round 5: Manafov, Vugar - Ahmadzada, Ahmad"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-group-a/round-5/F7jeVolk/6s3rsbDN"]
+[Date "2026.07.15"]
+[Round "5.1"]
+[White "Manafov, Vugar"]
+[Black "Ahmadzada, Ahmad"]
+[Result "0-1"]
+[WhiteElo "2448"]
+[BlackElo "2537"]
+[ECO "A45"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.h3 d5 5.Nf3 c5 6.c3 Qb6 7.Qb3 Be6 8.Qb5+ Nbd7 9.Nbd2 cxd4 10.exd4 O-O 11.Bd3 Qxb5 12.Bxb5 a6 13.Bd3 b5 14.O-O Nb6 15.Rfd1 0-1

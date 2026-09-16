@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "3.3"]
+[White "Flear, Glenn C"]
+[Black "Fedorchuk, Sergey A."]
+[Result "0-1"]
+[WhiteElo "2334"]
+[BlackElo "2593"]
+[ECO "E14"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Spassky System"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 Bb4+ 6.Bd2 a5 7.Nc3 d5 8.cxd5 exd5 9.Rc1 O-O 10.O-O Nbd7 11.Ne5 Nxe5 12.dxe5 Ne4 13.Nxe4 dxe4 14.Bxb4 axb4 15.Bc4 Qe7 16.Qb3 c5 17.Rfd1 Bc6 18.Bd5 Ba4 19.Qc4 Bxd1 20.Bxa8 Rxa8 21.Rxd1 Qxe5 22.Qa6 Qb8 23.Qc4 h6 24.Qxe4 Rxa2 25.h4 Qa8 26.Rd5 Ra1+ 27.Kh2 Rd1 28.Rxd1 0-1

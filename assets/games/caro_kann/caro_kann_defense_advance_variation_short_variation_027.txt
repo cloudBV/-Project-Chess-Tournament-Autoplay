@@ -1,0 +1,14 @@
+[Event "Round 2: Udelnov, Valentin - Arndt, Uwe"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/6JDQYleF"]
+[Date "2026.07.14"]
+[Round "2.28"]
+[White "Udelnov, Valentin"]
+[Black "Arndt, Uwe"]
+[Result "1-0"]
+[WhiteElo "2269"]
+[BlackElo "2005"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Ne7 7.c3 c5 8.dxc5 Nc6 9.b4 a5 10.Nd4 Bxb1 11.Rxb1 axb4 12.cxb4 Rxa2 13.Bb5 Nxd4 14.Qxd4 Be7 15.Qg4 Kf8 16.f4 h5 17.Qg3 g6 18.Qb3 Ra8 19.Be3 Kg7 20.Ra1 Qc7 21.Bd4 Rxa1 22.Rxa1 Nb8 23.Ra7 Rc8 24.f5 gxf5 25.Qg3+ Kf8 26.Be3 Nc6 27.Bh6+ Ke8 28.Qg8+ Kd7 29.Qxf7 Re8 30.Bg5 d4 31.Bxc6+ Qxc6 32.Ra8 1-0

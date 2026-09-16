@@ -1,0 +1,14 @@
+[Event "Round 6: Wiedenkeller, Michael - Engqvist, Thomas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-6/ZSzYxBoH/uxvFIm63"]
+[Date "2026.06.24"]
+[Round "6.1"]
+[White "Wiedenkeller, Michael"]
+[Black "Engqvist, Thomas"]
+[Result "0-1"]
+[WhiteElo "2393"]
+[BlackElo "2311"]
+[ECO "E38"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 Bxc5 7.g3 Be7 8.Nb5 Qc6 9.Bf4 d6 10.Be3 b6 11.Bg2 Bb7 12.Nh4 Qd7 13.Rd1 Bxg2 14.Nxg2 O-O 15.O-O a6 16.Nc3 Qb7 17.Bf4 Rd8 18.a4 Qc6 19.Qd3 Nbd7 20.b3 Rac8 21.Rc1 h6 22.Rfd1 Ne5 23.Qb1 Ng6 24.Bd2 Ne5 25.Bf4 Nh7 26.Bxe5 dxe5 27.Rxd8+ Rxd8 28.Rd1 Nf6 29.Rxd8+ Bxd8 30.Ne1 e4 31.Nc2 Be7 32.Nd4 Qc5 33.e3 Qe5 34.b4 Bd6 35.b5 a5 36.Qc2 h5 37.Qd1 h4 38.Kg2 Bb4 39.Nb1 Qg5 40.Nc6 Bc5 41.Nc3 Kh7 42.Nd4 Qe5 43.Nde2 hxg3 44.hxg3 Ng4 45.Qb1 f5 46.Qh1+ Kg8 47.Qd1 Qf6 48.Qh1 Bb4 49.Nd1 Bd6 50.Nd4 Ne5 51.Nb2 Ng4 52.Nd1 e5 53.Nc6 Qg6 54.Qh4 f4 55.Qd8+ Kh7 56.Qh4+ Nh6 57.Nc3 Qf5 58.Qh3 Qg6 59.Nd5 fxe3 60.Nxe3 Qf6 61.Qh5 Bc5 62.Qe2 Kh8 63.Nd5 Qf5 64.Ne3 Qg5 65.Nd5 Ng4 66.Qxe4 Qh5 67.Kf1 Nxf2 68.Ne3 Nxe4 0-1

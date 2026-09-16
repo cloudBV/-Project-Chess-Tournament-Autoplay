@@ -1,0 +1,15 @@
+[Event "Round 2: Oktem, Ege Tuna - Iskandarov, Misratdin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/FZyqCFzk"]
+[Date "2026.07.14"]
+[Round "2.2"]
+[White "Oktem, Ege Tuna"]
+[Black "Iskandarov, Misratdin"]
+[Result "0-1"]
+[WhiteElo "2359"]
+[BlackElo "2520"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.c3 Be7 7.a4 O-O 8.Re1 Nh7 9.Nbd2 Ng5 10.Nxg5 Bxg5 11.Nf1 Kh8 12.Ng3 Bxc1 13.Rxc1 Qg5 14.Qe2 g6 15.Qe3 f5 16.Qxg5 hxg5 17.Red1 Bd7 18.b4 Nd8 19.a5 b5 20.axb6 axb6 21.Ra1 Ne6 22.Kf1 Nf4 23.Ne2 Nh5 24.Ke1 g4 25.f3 gxf3 26.gxf3 fxe4 27.Rxa8 Rxa8 28.dxe4 Kg7 29.Rd2 b5 30.Bd5 Rf8 31.Ng1 Nf6 32.Bb3 g5 33.Ra2 Kg6 34.Ra7 Rc8 35.Ne2 g4 36.f4 Nxe4 37.Bc2 Bf5 38.Rb7 Rh8 39.Rxb5 Rxh2 40.Bxe4 Bxe4 41.fxe5 d5 42.Rc5 Rh7 43.Ng3 Kg5 44.Kf2 Rf7+ 45.Ke2 Kf4 46.Nf1 Rg7 47.Kf2 g3+ 48.Nxg3 Rxg3 49.Rxc7 Rg2+ 50.Kf1 Ke3 51.e6 Rg6 0-1

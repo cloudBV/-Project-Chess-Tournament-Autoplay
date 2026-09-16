@@ -1,0 +1,14 @@
+[Event "Round 8: Klundt, Klaus - Heck, Norbert"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-8/cM3nWZDC/SgAZmPP0"]
+[Date "2026.07.03"]
+[Round "8.3"]
+[White "Klundt, Klaus"]
+[Black "Heck, Norbert"]
+[Result "1/2-1/2"]
+[WhiteElo "2201"]
+[BlackElo "2210"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 Nc6 4.Bg2 e6 5.O-O Be7 6.d4 cxd4 7.Nxd4 Nf6 8.Nxc6 dxc6 9.Qe2 e5 10.Nd2 Qc7 11.a4 a5 12.Nc4 Be6 13.Bd2 O-O 14.Bc3 Nd7 15.Rad1 f6 16.Bf3 Nc5 17.Bg4 Bf7 18.f3 b6 19.Ne3 Rfd8 20.b3 Ne6 21.Nf5 Bf8 22.Bd2 Nd4 23.Nxd4 exd4 24.Bf4 Qe7 25.Bc1 c5 26.Rfe1 Qc7 27.e5 fxe5 28.Qxe5 Bd6 29.Qg5 Re8 30.Bf5 Be7 1/2-1/2

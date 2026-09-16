@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.31"]
+[White "Buchcar, Tomas"]
+[Black "Kastner, Oldrich"]
+[Result "1-0"]
+[WhiteElo "2176"]
+[BlackElo "2017"]
+[ECO "A34"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.c4 c5 2.g3 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.Bg2 Nc7 6.Nf3 Nc6 7.O-O e5 8.d3 f6 9.a3 Be7 10.Rb1 Be6 11.Be3 O-O 12.Ne4 b6 13.Nc3 Qd7 14.Re1 Rad8 15.Qc1 Rc8 16.Kh1 Rfd8 17.Rg1 Nd5 18.Bd2 Nd4 19.Qf1 Nb3 20.Be1 c4 21.Rd1 Nxc3 22.Bxc3 cxd3 23.Rxd3 Qb5 24.Bh3 Qc6 25.Bxe6+ Qxe6 26.Rxd8+ Rxd8 27.e4 Nc5 28.Qe2 Qc6 29.Qc4+ Qe6 30.Qxe6+ Nxe6 31.Re1 Rd3 32.Kg2 Bxa3 33.Ra1 Bc5 34.Rxa7 Bd4 35.Rd7 Nc5 36.Rd8+ Kf7 37.Bxd4 exd4 38.e5 Ne6 39.Rd7+ Ke8 40.Rd6 Ke7 41.Rxb6 f5 42.Rb7+ Ke8 43.h4 h5 44.Ng5 Nc5 45.Rxg7 Rb3 46.e6 Rxb2 47.Rf7 Nxe6 48.Rxf5 Nxg5 49.Rxg5 Ke7 50.Rxh5 Ke6 51.Rh8 Rb5 52.Rd8 Ke5 53.Re8+ Kd5 54.h5 Kc4 55.g4 d3 56.Rd8 Rg5 57.Kf3 Kc3 58.Kf4 Rg8 1-0

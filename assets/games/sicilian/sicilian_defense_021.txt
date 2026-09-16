@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.7"]
+[White "Manea, Alexandru"]
+[Black "Khechumyan, Gagik"]
+[Result "0-1"]
+[WhiteElo "2304"]
+[BlackElo "2187"]
+[ECO "B50"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 e6 7.Be2 Be7 8.O-O O-O 9.Be3 Nc6 10.Qd2 Bd7 11.Kh1 Nxd4 12.Bxd4 Bc6 13.f3 Qa5 14.Rab1 Qh5 15.b4 b5 16.g4 Qh3 17.Rg1 bxc4 18.Rg3 Qh4 19.Bxc4 d5 20.exd5 Nxd5 21.Nxd5 Bxd5 22.Bxd5 exd5 23.Re1 Rfe8 24.Rgg1 Bd6 25.Rxe8+ Rxe8 26.Bc5 Bb8 27.a4 h5 28.gxh5 Qxh5 29.Qg2 g6 30.Bd4 Qh4 31.Qf2 Qxf2 32.Bxf2 Re2 33.Rg2 Rb2 34.Bc5 Rb1+ 35.Rg1 Rb2 36.Rg2 Rb1+ 37.Rg1 Rb2 38.Re1 Rxh2+ 39.Kg1 Bf4 40.Re8+ Kg7 41.Bd4+ f6 42.Re7+ Kf8 43.Ra7 Rd2 44.Bc5+ Ke8 45.Rxa6 Kf7 46.Ra7+ Ke6 47.Re7+ Kf5 48.a5 Ra2 49.Rd7 Ke6 50.Re7+ Kf5 51.Rd7 Ke6 52.Ra7 Be5 53.a6 Kf5 54.Kf1 Bc3 55.Bd6 d4 56.b5 d3 57.Rd7 Ke6 58.Rd8 Ba5 59.Bc7 Bxc7 60.Rxd3 Ra5 61.Rc3 Bd8 62.Rc8 Kd7 63.Rb8 Ra2 64.Ke1 g5 65.Kd1 f5 66.Kc1 f4 67.Kb1 Ra5 68.Kc2 g4 69.fxg4 f3 70.Rb7+ Ke6 71.Rh7 f2 72.Rh6+ Kf7 0-1

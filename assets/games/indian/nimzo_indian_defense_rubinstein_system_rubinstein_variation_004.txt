@@ -1,0 +1,15 @@
+[Event "Round 2: Raahul V S - Aaditya Dhingra"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-2/EoTkmXdk/uWxDhOlJ"]
+[Date "2026.07.21"]
+[Round "2.3"]
+[White "Raahul V S"]
+[Black "Aaditya Dhingra"]
+[Result "0-1"]
+[WhiteElo "2402"]
+[BlackElo "2404"]
+[ECO "E42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System, Rubinstein Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.a3 Nxc3 9.Nxc3 Bxc3+ 10.bxc3 O-O 11.Bf4 b6 12.Bd6 Re8 13.Bb5 Bd7 14.a4 bxc5 15.Bxc5 Bxb5 16.axb5 Nd7 17.Bb4 Nb6 18.O-O Qd7 19.Qe2 Nc4 20.Ra6 Reb8 21.Rfa1 Rxb5 22.Bc5 Rb7 23.g3 h6 24.h4 Qd8 25.R1a2 Qf6 26.Kg2 Qf5 27.Qf3 Qxf3+ 28.Kxf3 h5 29.Kf4 Nb2 30.Ba3 Nc4 31.Bc5 Rb2 32.Rxb2 Nxb2 33.f3 f6 34.Ke3 Nc4+ 35.Kf4 Nb2 36.Ke3 Kf7 37.g4 hxg4 38.fxg4 Nd1+ 39.Kd2 Nf2 40.g5 fxg5 41.hxg5 Ne4+ 42.Ke3 Nxg5 43.Kf4 Ne4 44.Ke5 Nxc3 45.Bb4 Ne4 46.Rxe6 a5 47.Ba3 Nf6 48.Kf5 Re8 49.Ra6 g6+ 50.Kg5 Ne4+ 51.Kf4 Nd2 52.Ra7+ Kf6 53.Rxa5 Re4+ 54.Kg3 Nc4 55.Rxd5 Nxa3 56.Kf3 Re6 57.Rc5 Rb6 0-1

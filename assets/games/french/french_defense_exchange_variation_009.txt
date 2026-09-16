@@ -1,0 +1,15 @@
+[Event "Round 4: Emmenecker, Pierre-Antoine - Di Nicolantonio, Lucas"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-4/ZGNaFB22/0SXk26Tr"]
+[Date "2026.07.05"]
+[Round "4.2"]
+[White "Emmenecker, Pierre-Antoine"]
+[Black "Di Nicolantonio, Lucas"]
+[Result "1/2-1/2"]
+[WhiteElo "2288"]
+[BlackElo "2377"]
+[ECO "C01"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 c5 6.O-O c4 7.Re1+ Be7 8.Bf1 O-O 9.b3 cxb3 10.axb3 Nc6 11.Bb2 Bg4 12.Nbd2 Rc8 13.c3 Bd6 14.Bd3 Bh5 15.Nf1 Re8 16.Rxe8+ Qxe8 17.Ng3 Bg6 18.Nh4 Qd7 19.Nxg6 hxg6 20.Be2 a6 21.c4 Bb8 22.Rc1 Re8 23.Bf3 Bf4 24.Rc2 Nb4 25.Re2 Rc8 26.c5 Qb5 27.Re7 Nc6 28.Re1 Na5 29.Ne2 Bg5 30.Nc3 Qd7 31.Nxd5 Nxd5 32.Re5 Bf6 33.Rxd5 Qb5 34.Be2 Qxb3 35.Qxb3 Nxb3 36.Rd7 Nxc5 37.dxc5 Bxb2 38.Rxb7 Bd4 39.Bxa6 Rxc5 40.Rb1 1/2-1/2

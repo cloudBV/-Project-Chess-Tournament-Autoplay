@@ -1,0 +1,15 @@
+[Event "Round 2: Rojas Hernandez, Felix Lidier - Amaya, Brayan Angel"]
+[Site "https://lichess.org/broadcast/iii-torneo-internacional-jose-celso-barbosa-grupo-a/round-2/zDP2r0Cb/TEF4DSIG"]
+[Date "2026.07.21"]
+[Round "2.4"]
+[White "Rojas Hernandez, Felix Lidier"]
+[Black "Amaya, Brayan Angel"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2021"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.O-O Nxb5 6.Nxb5 c6 7.Nc3 d6 8.d4 Qc7 9.h3 Be7 10.Qd3 O-O 11.Bg5 b5 12.a3 a6 13.Rfd1 h6 14.dxe5 dxe5 15.Bxf6 gxf6 16.Nh4 Kh7 17.Qf3 Rg8 18.Rd3 Be6 19.Rad1 Rad8 20.Ne2 Rxd3 21.Rxd3 Rd8 22.Ng3 Rxd3 23.cxd3 c5 24.Nh5 Qd8 25.Nf5 Bf8 26.Qg4 a5 27.Qf3 a4 28.Ne3 Be7 29.Nf5 Bf8 30.Ne3 Be7 31.Nf5 Bf8 32.Ne3 Bg4 1/2-1/2

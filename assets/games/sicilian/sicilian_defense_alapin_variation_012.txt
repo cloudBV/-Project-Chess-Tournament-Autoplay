@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.24"]
+[White "Lucas Vega, Ivan"]
+[Black "Moreno Estebanez, Patxi"]
+[Result "1-0"]
+[WhiteElo "2148"]
+[BlackElo "2283"]
+[ECO "B22"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 g6 3.Nf3 Bg7 4.Bc4 e6 5.O-O Ne7 6.d4 cxd4 7.cxd4 d5 8.exd5 exd5 9.Bb5+ Nbc6 10.Nc3 O-O 11.Bg5 h6 12.Bxe7 Nxe7 13.h3 Be6 14.Qd2 a6 15.Ba4 Qd6 16.Rfe1 b5 17.Bb3 Nc6 18.Ne2 g5 19.Rac1 Rac8 20.Nh2 Qb4 21.Qxb4 Nxb4 22.Rxc8 Rxc8 23.Rd1 Nc6 24.Ng4 Na5 25.Ne3 Nc4 26.Bxc4 bxc4 27.g4 Rb8 28.Rd2 h5 29.f3 h4 30.Nc3 Rd8 31.Kf2 Kf8 32.f4 gxf4 33.Ng2 Ke7 34.Nxf4 Kd6 35.Kf3 Rf8 36.Nd1 Rc8 37.g5 Bf5 38.Ne3 Be4+ 39.Kg4 f6 40.g6 Re8 41.Nf5+ Bxf5+ 42.Kxf5 Re3 43.Nh5 Bh6 44.g7 Rf3+ 45.Kg4 Rf1 46.Rg2 Bxg7 47.Nxg7 Rd1 48.Nf5+ Ke6 49.Re2+ Kf7 50.Re7+ Kf8 51.Rb7 Ra1 52.Nxh4 Rxa2 53.Kf5 1-0

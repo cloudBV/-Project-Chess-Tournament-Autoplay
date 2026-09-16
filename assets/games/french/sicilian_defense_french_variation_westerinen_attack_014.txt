@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-4/QNxIC5eL/obGgXIEY"]
+[Date "2026.07.11"]
+[Round "4.3"]
+[White "Mustaps, Matiss"]
+[Black "Beniosev, Daniel"]
+[Result "1-0"]
+[WhiteElo "2323"]
+[BlackElo "2210"]
+[ECO "B40"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Qc7 5.Bb5 Nge7 6.O-O a6 7.Bxc6 Nxc6 8.d4 cxd4 9.Nxd4 Bd6 10.Nxc6 dxc6 11.Qh5 O-O 12.e5 Be7 13.Nc3 b5 14.Ne4 c5 15.Nf6+ Bxf6 16.exf6 Qf4 17.g3 Qf5 18.Qxf5 exf5 19.fxg7 Rd8 20.Rad1 Bb7 21.Bf6 Re8 22.Rd6 Bf3 23.h3 Re6 24.Rxe6 fxe6 25.g4 fxg4 26.hxg4 Bxg4 27.f3 Bf5 28.Rd1 c4 29.Rd2 Kf7 30.Be5 h5 31.Rd7+ Kg6 32.c3 a5 33.Ra7 Rd8 34.Rxa5 h4 35.Rxb5 Rd1+ 36.Kf2 Rd2+ 37.Ke3 Rd3+ 38.Kf4 Rd8 39.bxc4 h3 40.Ke3 Kh7 41.Rb8 Rxb8 42.Bxb8 Kxg7 43.Be5+ Kf7 44.Kd4 Ke7 45.Kc5 Bd3 46.a4 Be2 47.Kc6 Bxc4 48.Kc7 Bd5 49.a5 Bxf3 50.c4 Kf7 51.c5 Be2 52.c6 Kg6 53.Kb6 1-0

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.05"]
+[Round "1.9"]
+[White "Mattenberger, Matthias"]
+[Black "Bonn, Thomas"]
+[Result "1-0"]
+[WhiteElo "2347"]
+[BlackElo "2120"]
+[ECO "E73"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 c5 7.d5 e6 8.Nf3 exd5 9.cxd5 Bg4 10.Nd2 Bxe2 11.Qxe2 Nbd7 12.O-O a6 13.a4 Ne8 14.a5 Nc7 15.Nc4 Qe7 16.Bf4 Ne5 17.Nb6 Rae8 18.Bg3 f5 19.exf5 gxf5 20.Bf4 Qd8 21.Qd2 Nb5 22.Nxb5 axb5 23.b3 Ng6 24.Bg5 Qc7 25.Rae1 c4 26.Qb4 Rxe1 27.Rxe1 h6 28.Bc1 cxb3 29.Qxb3 Qc3 30.Qxc3 Bxc3 31.Re6 Rf6 32.Rxf6 Bxf6 33.Nc8 Be5 34.Bd2 Kf7 35.Na7 Ne7 36.Nxb5 Nxd5 37.Bxh6 Nc3 38.Na3 d5 39.Bd2 Ne4 40.Be1 d4 41.Nc4 Bc7 42.f3 Nc5 43.h4 Kg6 44.g4 Nb3 45.Kf2 fxg4 46.fxg4 d3 47.Ke3 d2 48.Bxd2 Nxd2 49.Kxd2 Bg3 50.h5+ Kg5 51.Kd3 Kxg4 52.h6 Bh4 53.Nd6 1-0

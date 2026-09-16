@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "23.1"]
+[White "Giri, Anish"]
+[Black "Gukesh D"]
+[Result "0-1"]
+[WhiteElo "2642"]
+[BlackElo "2655"]
+[ECO "E10"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 h6 4.Nc3 Bb4 5.e3 O-O 6.Bd3 Bxc3+ 7.bxc3 d6 8.O-O e5 9.e4 Nc6 10.h3 b6 11.Re1 Nh7 12.Be3 Qf6 13.Nh2 exd4 14.cxd4 Nxd4 15.Ng4 Bxg4 16.Qxg4 Ne6 17.Rad1 Rfe8 18.Bb1 Qc3 19.Rc1 Qa5 20.Bxh6 Nf6 21.Qg3 Qe5 22.Qxe5 dxe5 23.Be3 Nd7 24.Red1 Ndc5 25.h4 Rad8 26.Rd5 f6 27.Rcd1 Rc8 28.g3 Na4 29.R1d3 c6 30.Rd6 Nac5 31.Rd1 Rc7 32.Bc2 Nb7 33.Rd7 Re7 34.Rxc7 Rxc7 35.Kg2 Na5 36.Bb3 c5 37.f4 Nd4 38.Rd3 Kf8 39.f5 b5 40.Rc3 b4 41.Rd3 Nb7 42.g4 Nd6 43.Bxd4 exd4 44.Kf3 Re7 45.Rd2 Rxe4 46.Rg2 Re3+ 47.Kf4 Rh3 48.h5 Re3 49.Rh2 Nf7 50.Ba4 Ke7 51.Bc6 Ne5 52.Be4 Nf7 53.Bd5 Ne5 54.Be4 Nxc4 55.h6 gxh6 56.Rxh6 d3 57.Rh7+ Kd6 58.Rh8 d2 59.Rd8+ Ke7 60.Rd5 Re1 61.Bf3 Rf1 62.Kg3 Ra1 63.Be2 Nd6 64.Kf3 Rxa2 65.Rxc5 b3 66.Rc7+ Kd8 67.Rc6 b2 68.Rxd6+ Kc7 0-1

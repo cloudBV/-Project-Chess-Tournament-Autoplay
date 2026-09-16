@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "2.3"]
+[White "Bokhnak, Tymofii"]
+[Black "Skypala, Ondrej"]
+[Result "0-1"]
+[WhiteElo "2147"]
+[BlackElo "2234"]
+[ECO "C07"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.exd5 Qxd5 6.Bc4 Qd6 7.c3 cxd4 8.cxd4 Nc6 9.O-O Be7 10.Nb3 O-O 11.Qe2 a6 12.a4 Bd7 13.Rd1 Nb4 14.Ne5 Bc6 15.Bf4 Nbd5 16.Bg3 Qb4 17.Nxc6 bxc6 18.a5 Ne4 19.Nc1 Nxg3 20.hxg3 Nc7 21.Ra3 Nb5 22.Rb3 Qxa5 23.Qe5 Bf6 24.Qc5 Qa1 25.Rbd3 Qxb2 26.Nb3 Qe2 27.Ra1 Qe4 28.Re3 Qf5 29.Qb6 Rab8 30.Qxa6 Nxd4 31.Bd3 Qh5 32.g4 Qxg4 33.Rg3 Qf4 34.Nc5 Nf5 35.Rf3 Qd4 36.Rc1 Nh4 37.Rh3 Ra8 38.Qxc6 Ra1 39.Rxa1 Qxa1+ 40.Kh2 Qe5+ 41.g3 Qd4 42.Kg1 Qa1+ 43.Kh2 Qd4 44.Kg1 Qa1+ 45.Bf1 Ng6 46.Nd7 Rd8 47.Rh5 Qd4 48.Bb5 Qd1+ 49.Kg2 Qxh5 0-1

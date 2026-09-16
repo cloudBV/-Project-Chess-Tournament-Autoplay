@@ -1,0 +1,15 @@
+[Event "Round 1: Sambuev, Bator - Hartner, Rian"]
+[Site "https://lichess.org/broadcast/quebec-open-championship-coq-2026/round-1/31dBcDLY/PlUx0M3o"]
+[Date "2026.07.26"]
+[Round "1.2"]
+[White "Sambuev, Bator"]
+[Black "Hartner, Rian"]
+[Result "1-0"]
+[WhiteElo "2420"]
+[BlackElo "2032"]
+[ECO "E97"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7 9.b4 a5 10.bxa5 Rxa5 11.Nd2 b6 12.Nb3 Ra8 13.a4 Nd7 14.Ra3 f5 15.f3 f4 16.Nb5 g5 17.a5 bxa5 18.Nxa5 Nb6 19.c5 dxc5 20.Nc4 Rxa3 21.Bxa3 Ba6 22.Qb3 Kh8 23.Bxc5 Nbc8 24.Ra1 Bxb5 25.Qxb5 Nd6 26.Qb2 Nec8 27.Nxe5 g4 28.Bd4 Qg5 29.Nxg4 Ne8 30.Bxg7+ Nxg7 31.Qe5 Qd8 32.Ra8 1-0

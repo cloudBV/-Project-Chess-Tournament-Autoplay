@@ -1,0 +1,15 @@
+[Event "Round 4: Espinoza Palomino, Willyam - Cabanas Lopez, Eduardo"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-4/XeH1t84y/2uFOyMJd"]
+[Date "2026.07.15"]
+[Round "4.5"]
+[White "Espinoza Palomino, Willyam"]
+[Black "Cabanas Lopez, Eduardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2335"]
+[BlackElo "2186"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Na6 7.c3 Nc7 8.Bd3 Bd6 9.Ne2 Nd5 10.Bd2 O-O 11.O-O Bg4 12.Qc2 g6 13.Rfe1 1/2-1/2

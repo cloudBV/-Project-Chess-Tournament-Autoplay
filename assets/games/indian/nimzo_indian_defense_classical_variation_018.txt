@@ -1,0 +1,14 @@
+[Event "Round 2: Ling, Chenxuan - Gloeckler, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/5XlTp62D"]
+[Date "2026.07.14"]
+[Round "2.9"]
+[White "Ling, Chenxuan"]
+[Black "Gloeckler, Christian"]
+[Result "1/2-1/2"]
+[WhiteElo "2166"]
+[BlackElo "2506"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d5 6.e5 Ne4 7.Bd3 c5 8.Nf3 cxd4 9.Nxd4 Nd7 10.Bf4 Qh4 11.g3 Qh5 12.O-O g5 13.cxd5 Nxc3 14.dxe6 gxf4 15.exd7 Bxd7 16.bxc3 fxg3 17.hxg3 Rac8 18.Bf5 Bxc3 19.Qd1 Qxd1 20.Raxd1 Rc4 21.Bxd7 Rxd4 22.e6 fxe6 23.Bxe6+ Kh8 24.Rxd4 Bxd4 25.Kg2 Bc5 26.Bg4 Rf6 27.Bf3 Ra6 28.Rc1 b6 29.Rc2 Ra3 30.Rd2 b5 31.Bc6 b4 32.Bd5 a5 33.Rc2 Rc3 34.Rxc3 bxc3 35.Bb3 Kg7 1/2-1/2

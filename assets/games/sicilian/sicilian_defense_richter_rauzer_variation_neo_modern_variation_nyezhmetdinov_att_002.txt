@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.16"]
+[Round "6.4"]
+[White "Bhattacharjee, Sourav"]
+[Black "Albers, Sasa"]
+[Result "1-0"]
+[WhiteElo "2188"]
+[BlackElo "2365"]
+[ECO "B69"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Be7 9.f4 Bd7 10.Nf3 b5 11.Bxf6 gxf6 12.Kb1 Qb6 13.f5 O-O-O 14.a4 b4 15.Ne2 Kb8 16.Nf4 Bc8 17.fxe6 fxe6 18.Bc4 d5 19.exd5 e5 20.Qe2 Na5 21.Ne6 Rd6 22.Nd2 Bxe6 23.dxe6 Rhd8 24.Bd3 Qc6 25.Nb3 Nxb3 26.cxb3 e4 27.Bc4 f5 28.Rxd6 Rxd6 29.Qe3 Qb6 30.Qxb6+ Rxb6 31.Rf1 Rd6 32.Rf2 f4 33.Rxf4 e3 34.Rf5 Rd2 35.Re5 Rd1+ 36.Kc2 Rd2+ 37.Kc1 Rxg2 38.Rxe3 a5 39.Rd3 Bg5+ 40.Kd1 Rxb2 41.Rd7 Rb1+ 42.Ke2 Bh4 43.Rxh7 Re1+ 44.Kd3 Bf6 45.h4 Kc8 46.h5 Kd8 47.Ra7 Re5 48.h6 Rh5 49.h7 Ke8 50.Bb5+ 1-0

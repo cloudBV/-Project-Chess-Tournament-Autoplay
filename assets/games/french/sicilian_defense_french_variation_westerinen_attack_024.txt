@@ -1,0 +1,15 @@
+[Event "Round 4: Ozen, Sadettin Alperen - Isik, Alparslan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/ELHMUwIt"]
+[Date "2026.07.15"]
+[Round "4.20"]
+[White "Ozen, Sadettin Alperen"]
+[Black "Isik, Alparslan"]
+[Result "1/2-1/2"]
+[WhiteElo "2057"]
+[BlackElo "2442"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 b6 4.Bb2 Bb7 5.Qe2 Nc6 6.g3 d6 7.Bg2 Nf6 8.O-O Be7 9.c4 O-O 10.d4 cxd4 11.Nxd4 Qc7 12.Na3 Nxd4 13.Bxd4 a6 14.Rac1 Rac8 15.Nc2 b5 16.Nb4 d5 17.Bxf6 gxf6 18.c5 dxe4 19.c6 Ba8 20.Qxe4 f5 21.Qe3 Qd6 22.a3 Rfd8 23.Qa7 Qc7 24.Qxc7 Rxc7 25.Nxa6 Ra7 26.Nc5 Rc8 27.Nd7 Bxa3 28.Nb6 Rcc7 29.Nxa8 Rxa8 30.Ra1 Kf8 31.Rfd1 Ke7 32.Rd4 Raa7 33.Rh4 Bd6 34.Rxa7 Rxa7 35.Rxh7 Ra3 36.Bf3 Rxb3 37.Bh5 Bc7 38.Bxf7 Rc3 39.Bxe6+ Kxe6 40.Rxc7 Kd6 41.Rf7 Rc5 42.c7 Ke6 43.c8=Q+ Rxc8 44.Rb7 Rc5 45.h4 Kd5 46.h5 Ke4 47.h6 Rc6 48.Rxb5 Rxh6 49.Kg2 Rf6 50.Rb4+ Ke5 51.Kf3 Ra6 1/2-1/2

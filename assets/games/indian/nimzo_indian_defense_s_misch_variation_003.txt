@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.14"]
+[White "Markzon, Gregory"]
+[Black "Ghaem Maghami, Ehsan"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2445"]
+[ECO "E26"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 c5 6.e3 Qc7 7.Bd3 d5 8.cxd5 Nxd5 9.Ne2 Nc6 10.O-O O-O 11.e4 Nde7 12.Bf4 Qd8 13.dxc5 e5 14.Be3 Be6 15.Ng3 Qc7 16.Qe2 Na5 17.Rab1 Ng6 18.Nf5 Nb3 19.Rxb3 Bxb3 20.h4 Nf4 21.Bxf4 exf4 22.e5 Be6 23.Nd6 Qxc5 24.Qe4 g6 25.c4 f6 26.Nxb7 Qxe5 27.Qxe5 fxe5 28.Re1 Rac8 29.Rxe5 Bxc4 30.Be4 Rfe8 31.Rxe8+ Rxe8 32.Bf3 Re1+ 33.Kh2 Ra1 34.Nd6 Be6 35.Nb5 a5 36.Nd4 Bc4 37.Kh3 h5 38.g4 Rxa3 0-1

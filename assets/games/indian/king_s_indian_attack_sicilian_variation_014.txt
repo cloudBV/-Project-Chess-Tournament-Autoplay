@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "16.9"]
+[White "Chuiko, Maksym"]
+[Black "Portelli, Matthew"]
+[Result "0-1"]
+[WhiteElo "2103"]
+[BlackElo "2098"]
+[ECO "A08"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 c5 5.g3 Nc6 6.Bg2 Be7 7.O-O O-O 8.Re1 b5 9.Qe2 a5 10.e5 Nd7 11.h4 Ba6 12.h5 h6 13.Nf1 b4 14.N1h2 c4 15.Ng4 Nc5 16.d4 c3 17.Qe3 cxb2 18.Bxb2 Ne4 19.Nfh2 Ng5 20.Nf3 Ne4 21.Nfh2 Ng5 22.f4 Nh7 23.Nf2 Rc8 24.g4 a4 25.Bf1 Bxf1 26.Nxf1 Na5 27.Qd3 Qd7 28.Ne3 Nc4 29.Nxc4 Rxc4 30.Nd1 Rfc8 31.Ne3 R4c7 32.Rf1 a3 33.Bc1 Rc3 34.Qe2 Qa7 35.Bd2 Qxd4 36.Bxc3 Rxc3 37.Rf3 Rxe3 38.Rxe3 Qxa1+ 39.Kg2 Bc5 40.Rd3 Qxa2 41.f5 Qc4 42.fxe6 fxe6 43.Qf3 Ng5 44.Qe2 Qe4+ 45.Qxe4 Nxe4 46.Rd1 a2 47.Ra1 Nc3 48.Kf3 Bd4 49.g5 hxg5 50.Kg4 Bxe5 51.Kxg5 Bf6+ 52.Kg4 Kh7 53.Kf3 Kh6 54.Kg4 e5 55.Kf5 e4 56.Kf4 Ne2+ 57.Ke3 0-1

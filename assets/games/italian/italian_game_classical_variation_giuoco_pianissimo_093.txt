@@ -1,0 +1,15 @@
+[Event "Round 3: Zverev, Lev - Bakyt, Ibrahim"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/2adGpLLe"]
+[Date "2026.07.23"]
+[Round "3.2"]
+[White "Zverev, Lev"]
+[Black "Bakyt, Ibrahim"]
+[Result "1-0"]
+[WhiteElo "2468"]
+[BlackElo "2139"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 O-O 7.h3 a5 8.Re1 h6 9.Nbd2 Be6 10.Bb5 Qb8 11.Nf1 Qa7 12.d4 exd4 13.Bxc6 bxc6 14.cxd4 Bb6 15.Ng3 d5 16.e5 Nd7 17.Be3 c5 18.Bxh6 cxd4 19.Nh4 d3 20.Qh5 Bxf2+ 21.Kh1 gxh6 22.Nhf5 Bxf5 23.Nxf5 Qb6 24.Qg4+ Qg6 25.Ne7+ 1-0

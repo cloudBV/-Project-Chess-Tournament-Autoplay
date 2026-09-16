@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.06"]
+[Round "7.1"]
+[White "Jun, Rudolf"]
+[Black "Babula, Vlastimil"]
+[Result "0-1"]
+[WhiteElo "2303"]
+[BlackElo "2376"]
+[ECO "B51"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 b5 7.c3 Bb7 8.Bc2 c4 9.a4 e6 10.axb5 axb5 11.Rxa8 Qxa8 12.Na3 Bxe4 13.Bxe4 Nxe4 14.Nxb5 Qb7 15.Qa4 d5 16.b4 cxb3 17.Qxb3 Qb6 18.d3 Qxf2+ 19.Kh1 Nec5 20.Qb1 Na4 21.Qb3 Nac5 22.Qb1 Na4 23.Qa1 Nac5 24.Qa8+ Ke7 25.Bf4 h6 26.Bg3 Qb2 27.Nfd4 Kf6 28.Qe8 Kg6 29.Rf1 e5 30.Qxf7+ Kh7 31.Qf5+ g6 32.Qf7+ Bg7 33.Ne6 Nxe6 34.Qxd7 Rf8 35.Rg1 Rd8 36.Qxe6 Qxb5 37.c4 Qd7 38.Qxd7 Rxd7 39.c5 Kg8 40.Rb1 Kf8 41.h3 Ke7 42.Rb6 Bf6 43.d4 exd4 44.c6 Rd8 45.Kg1 Rc8 46.Kf1 Bg5 47.Ke2 Ra8 48.Rb7+ Ke6 49.Rb2 Ra3 50.c7 Rc3 51.Rb8 d3+ 52.Kf2 Kd7 53.h4 Rc2+ 54.Ke1 Rc1+ 55.Kf2 d2 56.hxg5 d1=Q 57.Rd8+ Ke7 58.Bd6+ Ke6 59.c8=Q+ 0-1

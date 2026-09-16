@@ -1,0 +1,15 @@
+[Event "Round 7: Yardimci, Can - Gorbatov, Alexej"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/UvlMInPS"]
+[Date "2026.07.03"]
+[Round "7.26"]
+[White "Yardimci, Can"]
+[Black "Gorbatov, Alexej"]
+[Result "1-0"]
+[WhiteElo "2094"]
+[BlackElo "2293"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 g6 4.f4 Bg7 5.Ngf3 Nh6 6.c3 O-O 7.e5 f6 8.d4 fxe5 9.fxe5 Bg4 10.Be2 Nf5 11.Nb3 Bxf3 12.Bxf3 Na6 13.O-O e6 14.g4 Nh4 15.Be2 Nc7 16.Be3 Rxf1+ 17.Qxf1 Bf8 18.Qh3 Be7 19.Rf1 Bg5 20.Qg3 Bxe3+ 21.Qxe3 Kg7 22.Nc5 b6 23.Nb7 Qe7 24.Nd6 Rf8 25.Rxf8 Kxf8 26.Nc8 Qd8 27.Qh6+ Kg8 28.Nxa7 c5 29.Nc6 Qe8 30.Qxh4 Qxc6 31.Qd8+ Kg7 32.Qd6 Qb7 33.dxc5 bxc5 34.Qxc5 Ne8 35.b4 Kf7 36.b5 Qb8 37.Qd4 Qd8 38.b6 Qg5 39.b7 Qc1+ 40.Bf1 Qb1 41.Qb4 Qc1 42.Qb6 Qd1 43.Qf2+ 1-0

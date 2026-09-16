@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.2"]
+[White "Piddubna, Bozhena"]
+[Black "Kawka, Milena"]
+[Result "0-1"]
+[WhiteElo "2239"]
+[BlackElo "2039"]
+[ECO "A21"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Be7 4.g3 c6 5.Nxe7 Nxe7 6.Bg2 d5 7.Qa4 O-O 8.cxd5 cxd5 9.Nf3 Nbc6 10.O-O Be6 11.d3 Rc8 12.b4 Nf5 13.b5 Ncd4 14.Nxe5 Nxe2+ 15.Kh1 Nxc1 16.Raxc1 Rxc1 17.Rxc1 Qb6 18.Rf1 Nd4 19.Qb4 Nxb5 20.Rb1 Rc8 21.h3 a6 22.a4 Qd6 23.axb5 Qxe5 24.bxa6 bxa6 25.Qa4 Qd6 26.Qa5 h6 27.Rb6 Rc6 28.Rb1 Rc2 29.Kg1 Kh7 30.d4 Qc6 31.Rb6 Rc1+ 32.Kh2 Qc2 33.Qxa6 Qxf2 34.Qd3+ Bf5 0-1

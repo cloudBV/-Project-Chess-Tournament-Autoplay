@@ -1,0 +1,15 @@
+[Event "Round 6: Lomineishvili, Maia - Darsadze, Nikoloz"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-6/kDkmY1PW/IUW9j1HK"]
+[Date "2026.07.17"]
+[Round "6.8"]
+[White "Lomineishvili, Maia"]
+[Black "Darsadze, Nikoloz"]
+[Result "1/2-1/2"]
+[WhiteElo "2342"]
+[BlackElo "2125"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be3 Bd6 8.Bd3 O-O 9.Bg5 c5 10.dxc5 Bxc5 11.Qe2 h6 12.Bh4 Qa5+ 13.c3 Nd5 14.O-O Nf4 15.Qe4 Nxd3 16.Qxd3 Qb6 17.b4 Bd6 18.Rad1 Bb8 19.Rfe1 Re8 20.Bd8 Qc6 21.Ne5 Qa4 22.Ng4 e5 23.Nxh6+ gxh6 24.Qg3+ Kh7 25.Bf6 Rg8 26.Qd3+ Rg6 27.Qd8 Rg8 28.Qd3+ Rg6 29.Qd8 Rg8 30.Qd3+ 1/2-1/2

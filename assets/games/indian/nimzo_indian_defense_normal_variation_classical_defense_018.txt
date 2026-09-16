@@ -1,0 +1,14 @@
+[Event "Round 7: Wagner, Dennis - Hagner, Bennet"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-7/sQvMNB1T/FNiWSjkv"]
+[Date "2026.07.23"]
+[Round "7.3"]
+[White "Wagner, Dennis"]
+[Black "Hagner, Bennet"]
+[Result "1/2-1/2"]
+[WhiteElo "2589"]
+[BlackElo "2451"]
+[ECO "E48"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Re8 8.O-O Bd6 9.Bd2 b6 10.Nf4 Bb7 11.Qf3 c5 12.Rfd1 Bxf4 13.Qxf4 c4 14.Be2 Qd7 15.b3 b5 16.bxc4 bxc4 17.Rab1 Bc6 18.g4 Na6 19.g5 Ne4 20.h4 Qc7 21.Qxc7 Nxc7 22.Kg2 f5 23.gxf6 Nxf6 24.Rb2 Rab8 25.Rdb1 Rxb2 26.Rxb2 Kf7 27.f3 Ke6 28.Bd1 Kd7 29.Bc2 g6 30.Rb1 Ne6 31.Ne2 Nc7 32.a4 Rg8 33.Ng3 Ne6 34.Bc3 Re8 35.Kf2 Rf8 36.Ke2 Ng7 37.Rg1 Re8 38.Kd2 Kc7 39.Re1 Ngh5 40.Nxh5 Nxh5 41.e4 Ng3 42.e5 Bd7 43.Rg1 Nf5 44.h5 Rg8 45.hxg6 Rxg6 46.Rxg6 1/2-1/2

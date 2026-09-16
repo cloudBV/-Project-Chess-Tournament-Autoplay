@@ -1,0 +1,15 @@
+[Event "Round 9: Lorenzo De La Riva, Lazaro - Munoz, Miguel"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-9/hsnrpVn3/1SpvHOvm"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Lorenzo De La Riva, Lazaro"]
+[Black "Munoz, Miguel"]
+[Result "0-1"]
+[WhiteElo "2324"]
+[BlackElo "2525"]
+[ECO "A43"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Benoni Defense: Benoni-Indian Defense"]
+
+1.d4 c5 2.d5 Nf6 3.Nc3 e5 4.e4 d6 5.h3 Be7 6.Bb5+ Nbd7 7.a4 O-O 8.g4 Rb8 9.Bc4 a6 10.a5 Ne8 11.Nf3 Nc7 12.Ne2 b5 13.Ba2 Re8 14.Ng3 Nf8 15.Nf5 Ng6 16.Nxe7+ Qxe7 17.Bg5 f6 18.Be3 Nf4 19.Qd2 Ng2+ 20.Ke2 Nxe3 21.fxe3 c4 22.Nh4 g6 23.Qe1 Kh8 24.Rf1 Rf8 25.Kd2 Ne8 26.Ke2 Ng7 27.c3 f5 28.gxf5 gxf5 29.Rg1 f4 30.Rd1 Bd7 31.Nf3 fxe3 32.Kxe3 Rf4 33.Qg3 Nh5 34.Qg2 Qf6 35.Rdf1 Rf8 36.Nd2 Qh6 37.Ke2 Rxf1 38.Rxf1 Nf4+ 39.Rxf4 Qxf4 40.Bb1 Be8 41.Kd1 Bh5+ 42.Kc2 Rg8 43.Qh1 Be2 44.Qe1 Bd3+ 45.Kc1 Rg2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Gece, Ugur - Ucoluk, Umut"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/kasSMJp1"]
+[Date "2026.07.17"]
+[Round "7.40"]
+[White "Gece, Ugur"]
+[Black "Ucoluk, Umut"]
+[Result "0-1"]
+[WhiteElo "2022"]
+[BlackElo "2094"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Nd2 Nbd7 9.Nc4 Qc7 10.a4 b6 11.f3 Bb7 12.Qd2 Rd8 13.Qf2 d5 14.exd5 Nxd5 15.Nxd5 Bxd5 16.Bxb6 Nxb6 17.Qxb6 Qc8 18.b3 Ba8 19.Bd3 Rd5 20.Be4 O-O 21.Bxd5 Bxd5 22.O-O-O Bxc4 23.bxc4 Qxc4 24.Qb3 Qc7 25.h4 h6 26.Rd3 Rb8 27.Rc3 Qa7 28.Qc4 Bf6 29.Qc7 Qa8 30.Rc6 e4 31.Rb6 Rf8 32.Rb7 Qe8 33.Qc4 exf3 34.gxf3 Qe3+ 35.Kb1 Qxf3 0-1

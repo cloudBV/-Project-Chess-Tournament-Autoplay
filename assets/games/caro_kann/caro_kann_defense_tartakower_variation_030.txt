@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.04.27"]
+[Round "5.1"]
+[White "Rojas Keim, Luis"]
+[Black "Cruz, Cristhian"]
+[Result "1/2-1/2"]
+[WhiteElo "2401"]
+[BlackElo "2537"]
+[ECO "B15"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.h3 Nd7 12.Bd2 Nf8 13.Rae1 g6 14.c4 f5 15.Bc3 Bc7 16.Qd2 Qd6 17.f4 Bd7 18.Nc1 Ne6 19.c5 Qf8 20.Bc4 Rad8 21.Nd3 b5 22.Bxe6 Bxe6 23.Ne5 Bd5 24.Ba5 Bxa5 25.Qxa5 Re7 1/2-1/2

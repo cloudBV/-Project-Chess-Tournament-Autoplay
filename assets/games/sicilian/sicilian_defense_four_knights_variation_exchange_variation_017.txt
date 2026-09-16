@@ -1,0 +1,15 @@
+[Event "Round 6: Akbari, Rosha - Behzad Nazif, Parva"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-6/9x6VQVn8/96Sz72Wf"]
+[Date "2026.07.15"]
+[Round "6.3"]
+[White "Akbari, Rosha"]
+[Black "Behzad Nazif, Parva"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2077"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qa5+ 9.Bd2 Qb6 10.Bd3 Qxb2 11.c3 Qa3 12.O-O Ba6 13.Be2 Bxe2 14.Qxe2 Be7 15.Qg4 Kf8 16.Rfb1 Qa6 17.Qf3 h6 18.Rb3 Kg8 19.Rc1 Qc4 20.Rb7 Nb6 21.Be3 Qxa2 22.Bxb6 axb6 23.Rxd7 Ra7 24.Rdd1 Qc4 25.Qf4 b5 26.Rd4 Qe2 27.h4 Kh7 28.Ng3 Qb2 29.Rcd1 Rha8 30.Nh5 Qc2 31.Qxf7 Bxh4 32.Qf3 Be7 33.R4d3 Rf8 34.Qe4+ Kg8 35.R1d2 Qb1+ 36.Rd1 Qc2 37.R1d2 Qc1+ 38.Rd1 Qg5 39.Ng3 Bc5 40.Rf3 Rxf3 41.Qxf3 Rf7 42.Ne4 Rxf3 43.Nxg5 Rxf2 44.Ne4 Rd2+ 0-1

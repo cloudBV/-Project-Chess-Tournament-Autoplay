@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.17"]
+[Round "7.8"]
+[White "Den Hartog, Marijn"]
+[Black "Brienen, Jacob"]
+[Result "1-0"]
+[WhiteElo "2209"]
+[BlackElo "2090"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 c5 5.O-O Nc6 6.a3 cxd4 7.Nxd4 Be7 8.c4 O-O 9.Nc3 Nxd4 10.Qxd4 dxc4 11.Qxc4 Bd7 12.Bxb7 Rb8 13.Bf3 Qb6 14.b4 Rfc8 15.Qd3 a5 16.Bf4 axb4 17.axb4 Bxb4 18.Bxb8 Rxc3 19.Ra8 Rc8 20.Ba7 Qc7 21.Rxc8+ Qxc8 22.Rb1 Bf8 23.Qb3 e5 24.Qb8 Qc2 25.Qb2 Qf5 26.Rd1 e4 27.Bg2 Qh5 28.Bd4 Bg4 29.Bxf6 Bxe2 30.Re1 Bf3 31.Bd4 Bxg2 32.Kxg2 Qf3+ 33.Kg1 h5 34.Qe2 1-0

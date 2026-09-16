@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.9"]
+[White "Rehman, Rafe"]
+[Black "Bjerke, Silje"]
+[Result "0-1"]
+[WhiteElo "2095"]
+[BlackElo "2147"]
+[ECO "E63"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Panno Variation, Donner Line"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 4.Nc3 O-O 5.Nf3 d6 6.d4 Nc6 7.d5 Na5 8.Nd2 c5 9.Qc2 a6 10.O-O Rb8 11.b3 b5 12.Bb2 bxc4 13.bxc4 Bh6 14.f4 Bg7 15.h3 Bd7 16.Rab1 h5 17.Qd3 Rb4 18.Ba3 Rxb1 19.Rxb1 Qc8 20.Kh2 h4 21.e3 hxg3+ 22.Kxg3 Nh5+ 23.Kh2 Bf5 24.Nce4 e5 25.Rf1 exf4 26.exf4 Re8 27.Bc1 Qd8 28.Kh1 Qh4 29.Rf3 Nxf4 30.Qe3 Rxe4 31.Nxe4 Nxg2 32.Qf2 Bxe4 0-1

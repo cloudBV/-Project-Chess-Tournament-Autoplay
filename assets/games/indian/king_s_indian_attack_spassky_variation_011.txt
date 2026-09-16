@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "3.4"]
+[White "Balint, Peter"]
+[Black "Ochedzan, Filip"]
+[Result "1-0"]
+[WhiteElo "2308"]
+[BlackElo "2122"]
+[ECO "A05"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.b3 Be7 6.c4 bxc4 7.bxc4 c5 8.Nc3 O-O 9.Rb1 Bc6 10.Re1 d6 11.e4 Nbd7 12.d4 Nb6 13.d5 exd5 14.cxd5 Bb7 15.a4 Ba6 16.e5 Ne8 17.h4 Nc4 18.Bf1 Qa5 19.Ne4 dxe5 20.d6 Rd8 21.Bxc4 Nxd6 22.Nxd6 Rxd6 23.Bd2 Qc7 24.Bxa6 Rxa6 25.Nxe5 Bf6 26.Bf4 Rd8 27.Nd7 Qa5 28.Nxf6+ gxf6 29.Qg4+ Kh8 30.Bh6 Rg8 31.Qxg8+ 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "6.2"]
+[White "Madejski, Milosz"]
+[Black "Korszanski, Stanislaw"]
+[Result "1/2-1/2"]
+[WhiteElo "2130"]
+[BlackElo "2240"]
+[ECO "A40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.Bd3 Nc6 7.Nf3 Nf6 8.cxd5 exd5 9.e5 Ne4 10.Qc2 Bd7 11.Bxe4 Nb4 12.Qe2 dxe4 13.Qxe4 Bc6 14.d5 Nxd5 15.e6 O-O 16.Ne5 f5 17.Qd4 Bb7 18.O-O Qf6 19.Nc3 c5 20.Nxd5 cxd4 21.Nxf6+ Rxf6 22.Rac1 Rxe6 23.f4 Be4 24.Rfd1 Rd8 25.Rxd4 Ree8 26.Rxd8 Rxd8 27.Rc7 h6 28.Rd7 Rc8 29.Rd2 g5 30.g3 Rc7 31.Kf2 Kg7 32.Ke3 g4 33.Nxg4 Bb1 34.Ne5 Bxa2 35.Rd7+ Rxd7 36.Nxd7 Kf7 37.Kd4 Ke6 38.Ne5 Kd6 39.g4 fxg4 40.Nxg4 h5 41.Ne3 Bb1 42.h4 b5 1/2-1/2

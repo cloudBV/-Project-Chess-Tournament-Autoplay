@@ -1,0 +1,14 @@
+[Event "Round 4: Bluebaum, Matthias - Martinez Alcantara, Jose Eduardo"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-rapid/round-4/dN8M6vVR/Me1JEvvN"]
+[Date "2026.07.12"]
+[Round "4.3"]
+[White "Bluebaum, Matthias"]
+[Black "Martinez Alcantara, Jose Eduardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2587"]
+[BlackElo "2620"]
+[ECO "E43"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 c5 7.O-O O-O 8.Re1 d5 9.cxd5 exd5 10.a3 Ba5 11.Bd2 Nc6 12.Ne5 Re8 13.Ba6 Bxa6 14.Nxc6 Qd7 15.Nxa5 cxd4 16.exd4 bxa5 17.Qa4 Qxa4 18.Nxa4 Bb5 19.Nc5 a4 20.f3 Nd7 21.Nxd7 Bxd7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 5: Migl, Dieter - Farrand, Tom"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-5/TDq4OB2t/Gaz5x4VA"]
+[Date "2026.07.04"]
+[Round "5.1"]
+[White "Migl, Dieter"]
+[Black "Farrand, Tom"]
+[Result "1/2-1/2"]
+[WhiteElo "2157"]
+[BlackElo "2077"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Nf6 5.e5 Nd5 6.g3 Be7 7.Bg2 O-O 8.O-O f6 9.Nc3 Nxc3 10.Bxc3 fxe5 11.Nxe5 Nxe5 12.Bxe5 d6 13.Bc3 1/2-1/2

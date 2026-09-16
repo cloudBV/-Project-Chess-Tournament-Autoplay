@@ -1,0 +1,14 @@
+[Event "Round 2.1: L'Ami, Erwin - Tiviakov, Sergei"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-21/HiuGvi6s/8BoCj9yJ"]
+[Date "2026.07.06"]
+[Round "5.2"]
+[White "L'Ami, Erwin"]
+[Black "Tiviakov, Sergei"]
+[Result "1-0"]
+[WhiteElo "2592"]
+[BlackElo "2530"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line"]
+
+1.Nf3 Nf6 2.g3 b6 3.Bg2 Bb7 4.c4 e6 5.O-O Be7 6.Nc3 O-O 7.d4 d5 8.Ne5 Nbd7 9.Qa4 c6 10.Nxc6 Bxc6 11.Qxc6 Rc8 12.Qa4 Rxc4 13.Qd1 a6 14.a4 Qb8 15.Qd3 Rfc8 16.Bd2 Qa7 17.Rfc1 Nb8 18.b3 R4c6 19.e4 dxe4 20.Nxe4 Nd5 21.Nc3 Nb4 22.Qe2 R6c7 23.d5 exd5 24.Nxd5 Nxd5 25.Bxd5 Bf6 26.Rxc7 Qxc7 27.Rc1 Qd8 28.Rxc8 Qxc8 29.Qc4 Qxc4 30.Bxc4 Be5 31.Kg2 Kf8 32.Kf3 Ke7 33.Ke4 Bd6 34.Bg5+ Ke8 35.Be3 Bc7 36.f4 Ke7 37.h3 g6 38.g4 Nd7 39.Kd5 Nb8 40.f5 gxf5 41.gxf5 a5 42.Bd4 Nd7 43.Kc6 Kd8 44.f6 Kc8 45.Ba6+ Kd8 46.Be2 Ne5+ 47.Kd5 Nd7 48.Bh5 Nc5 49.Bxf7 Nxb3 50.Be3 Nc5 51.Be6 Nd7 52.Bg5 h6 53.Bh4 1-0

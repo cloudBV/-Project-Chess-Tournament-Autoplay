@@ -1,0 +1,15 @@
+[Event "Round 2: Dirikolu, Deniz - Lisenkov, Svyatoslav"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-2/EoTkmXdk/IzjEaHLk"]
+[Date "2026.07.21"]
+[Round "2.2"]
+[White "Dirikolu, Deniz"]
+[Black "Lisenkov, Svyatoslav"]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2336"]
+[ECO "B47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Qd3 Nxd4 7.Qxd4 a6 8.Be3 Bd6 9.O-O-O Be5 10.Qb6 Qxb6 11.Bxb6 Nf6 12.f3 d5 13.exd5 Bxc3 14.bxc3 Nxd5 15.Bd4 f6 16.Bc4 b5 17.Bb3 Bb7 18.c4 bxc4 19.Bxc4 O-O-O 20.Rhe1 e5 21.Bf2 Kc7 22.Rd3 Nb6 23.Bb3 Rxd3 24.cxd3 Nd5 25.Bg3 Kc6 26.Kb2 Rd8 27.Rc1+ Kd7 28.d4 exd4 29.Rd1 Ne3 30.Rxd4+ Ke7 31.Rb4 Ba8 32.Rb6 Nxg2 33.Re6+ Kd7 34.Rxa6 Bxf3 35.Ra7+ Kc6 36.Rxg7 f5 37.Rc7+ Kb6 38.Rf7 f4 39.Rf6+ Ka5 40.Rf5+ Kb6 41.Rf6+ Ka5 42.Bxf4 Nxf4 43.Rxf4 Bd1 44.Rf5+ Kb6 45.Rd5 Rxd5 46.Bxd5 Kc5 47.Bb3 Bf3 48.Kc3 Bc6 49.h4 Bb5 50.Bc2 h6 51.Bd3 Bc6 52.Bc4 Be8 53.Bg8 Bb5 54.Bf7 Bd7 55.Kd3 Bc6 56.Ke3 Kd6 57.Kd4 Bd7 58.Kc4 Bc6 59.Kb4 Bd7 60.Bc4 Ke5 61.Bb5 Be6 62.a4 Kd4 63.Bc6 Bc4 64.Be8 Bd3 65.Bb5 Be4 66.Bf1 Bf5 67.a5 Be4 68.Kb5 Kd5 69.Kb6 1-0

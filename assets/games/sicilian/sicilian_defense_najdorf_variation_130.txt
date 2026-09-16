@@ -1,0 +1,15 @@
+[Event "Round 8: Sarkisian, Arman - Bekker, Stefan"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/yQMlRD3S"]
+[Date "2026.07.21"]
+[Round "8.6"]
+[White "Sarkisian, Arman"]
+[Black "Bekker, Stefan"]
+[Result "1/2-1/2"]
+[WhiteElo "2224"]
+[BlackElo "2345"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Qc7 8.Bg5 Nbd7 9.Nd2 h6 10.Be3 Nc5 11.Nc4 Be6 12.Nd5 Bxd5 13.exd5 h5 14.Be2 g6 15.O-O Ncd7 16.a5 Bh6 17.Bxh6 Rxh6 18.b4 Kf8 19.f4 e4 20.Qd4 Rc8 21.Ra3 Kg7 22.Ne3 Rhh8 23.c4 Qb8 24.Rc3 Rc7 25.Rfc1 Rhc8 26.h3 b6 27.axb6 Qxb6 28.Qxb6 Nxb6 29.Rd1 1/2-1/2

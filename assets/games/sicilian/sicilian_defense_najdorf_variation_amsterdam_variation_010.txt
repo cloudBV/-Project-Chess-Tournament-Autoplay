@@ -1,0 +1,15 @@
+[Event "Round 4: Sargsyan, Sargis Vach. - Amilal Munkhdalai"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/uUQ6BWiE"]
+[Date "2026.07.06"]
+[Round "4.2"]
+[White "Sargsyan, Sargis Vach."]
+[Black "Amilal Munkhdalai"]
+[Result "1/2-1/2"]
+[WhiteElo "2417"]
+[BlackElo "2456"]
+[ECO "B93"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e6 7.Qf3 Qc7 8.g4 b5 9.g5 Nfd7 10.a3 Nc6 11.Nxc6 Qxc6 12.Be3 Rb8 13.O-O-O a5 14.Ne2 Bb7 15.Qh3 Qxe4 16.Rg1 b4 17.Rd4 Qc6 18.axb4 Qa4 19.Nc3 Qa1+ 20.Nb1 axb4 21.g6 Qa5 22.gxf7+ Kxf7 23.Bc4 d5 24.Re4 Re8 25.f5 Nf6 26.fxe6+ Ke7 27.Qf5 Qc7 28.Bb5 g6 29.Qe5 Qxe5 30.Rxe5 Rc8 31.Bd2 Ne4 32.Bd7 Nxd2 33.Nxd2 Ra8 34.Kb1 Bg7 35.Ree1 Rhf8 36.Rg4 d4 37.Nb3 Bf3 38.Rh4 h5 39.Nxd4 g5 40.Nxf3 gxh4 41.Nxh4 Rf6 42.Rg1 Kd8 43.Bc6 Ra7 44.Bd7 Bf8 45.Rd1 Bd6 46.c4 Ke7 47.Rd5 b3 48.Nf5+ Kf8 49.Kc1 Bb4 50.Kd1 Ra1+ 51.Ke2 Re1+ 52.Kf3 Rf1+ 53.Ke4 Re1+ 54.Kd4 Rf1 55.Rb5 R6xf5 56.Rxf5+ Rxf5 57.e7+ Bxe7 58.Bxf5 Bf6+ 59.Ke4 1/2-1/2

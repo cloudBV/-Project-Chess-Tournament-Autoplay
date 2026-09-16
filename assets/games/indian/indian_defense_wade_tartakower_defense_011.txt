@@ -1,0 +1,14 @@
+[Event "Round 9: Kovacevic, Blazimir - Charvi A"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/x644idZo"]
+[Date "2026.07.11"]
+[Round "9.25"]
+[White "Kovacevic, Blazimir"]
+[Black "Charvi A"]
+[Result "0-1"]
+[WhiteElo "2380"]
+[BlackElo "2204"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.Nf3 d6 2.d4 Nf6 3.g3 g6 4.b3 Bg7 5.Bb2 O-O 6.Bg2 e5 7.dxe5 Nfd7 8.Nc3 dxe5 9.Qd2 Nc6 10.O-O-O a5 11.h4 h6 12.e4 Nd4 13.h5 g5 14.Nxd4 exd4 15.Nb5 c5 16.f4 a4 17.e5 axb3 18.axb3 Nb6 19.c4 Bf5 20.Nd6 Bh7 21.Be4 Bxe4 22.Nxe4 Nd7 23.Qg2 Qb6 24.Rd3 Ra2 25.Rhd1 Qa6 26.Nd6 Bxe5 27.fxe5 Nxe5 28.Qd5 Nxd3+ 29.Rxd3 Qa5 30.Qf3 Qe1+ 31.Rd1 Qe5 32.Nf5 Qe6 33.Rf1 Rfa8 34.Kc2 Qf6 35.Qd3 Qa6 36.Rb1 Re8 37.Qf3 Qe6 38.Kd3 b5 39.g4 bxc4+ 40.bxc4 Rb8 41.Qd5 Rb3+ 42.Kc2 Rbxb2+ 0-1

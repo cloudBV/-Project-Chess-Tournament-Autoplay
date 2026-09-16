@@ -1,0 +1,15 @@
+[Event "Round 2: Seo, Jung Min - Lindvall, Johannes"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-2/gybyaLJv/bPMabGTP"]
+[Date "2026.07.01"]
+[Round "2.2"]
+[White "Seo, Jung Min"]
+[Black "Lindvall, Johannes"]
+[Result "*"]
+[WhiteElo "2488"]
+[BlackElo "2057"]
+[ECO "C53"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Closed Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.O-O d6 6.d3 h6 7.Nbd2 Nf6 8.Re1 O-O 9.h3 Bb6 10.Nf1 Be6 11.Bb5 Nb8 12.Ng3 c6 13.Ba4 Nbd7 14.d4 Rfd8 15.Be3 exd4 16.cxd4 d5 17.e5 Ne8 18.Bc2 Nf8 19.Nf5 Qd7 20.g4 Rac8 21.Qd2 c5 22.Qd1 cxd4 23.N3xd4 Rc4 24.Bd3 Rcc8 25.Qf3 a6 26.Rad1 Ng6 27.Qg3 Qa4 28.h4 Bxd4 29.Bxd4 Nc7 30.h5 Nf8 31.Ne7+ Kh8 32.Nxc8 Rxc8 33.Bb1 Nb5 34.b3 Qb4 35.Bb2 d4 36.Rc1 Rd8 37.Bd3 Nc7 38.f3 Nd5 39.Qf2 Ne3 40.Kh2 Bxg4 41.Rxe3 dxe3 42.Qxe3 Be6 43.Kg3 Qa5 44.Bb1 Rd5 45.Re1 b5 46.Bc3 Qc7 47.Bb2 Rc5 48.Qd3 Rd5 49.Qc3 Qd8 50.Qe3 Qe7 51.f4 Qd7 52.Qf3 Rd2 53.Bc3 Rd5 54.f5 Bxf5 55.Bxf5 Qc6 56.Be4 *

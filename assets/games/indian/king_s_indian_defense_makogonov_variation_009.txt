@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.16"]
+[Round "7.3"]
+[White "Sarantos, Vasileios"]
+[Black "Oikonomopoulos, Filippos"]
+[Result "1-0"]
+[WhiteElo "2069"]
+[BlackElo "2258"]
+[ECO "E71"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 Nbd7 7.Nf3 e5 8.d5 a5 9.Bd3 Nc5 10.Bc2 c6 11.g4 cxd5 12.cxd5 a4 13.a3 b5 14.Nd2 Bd7 15.Na2 h6 16.Be3 Qa5 17.f3 Rfc8 18.Kf2 Ne8 19.Rc1 Nc7 20.Nf1 N7a6 21.Qd2 Qd8 22.Ng3 Kh7 23.h4 Nb7 24.h5 g5 25.Nf5 Bf8 26.Bd3 Na5 27.Rxc8 Rxc8 28.Rc1 Nc5 29.Rc3 Bxf5 30.gxf5 g4 31.Kg3 gxf3 32.Nb4 Nc4 33.Qf2 Nxe3 34.Qxe3 Be7 35.Qxf3 Bh4+ 36.Kh3 Be1 37.f6 Qd7+ 38.Kh2 Bxc3 39.bxc3 Nxd3 40.Nxd3 Rxc3 41.Qg3 1-0

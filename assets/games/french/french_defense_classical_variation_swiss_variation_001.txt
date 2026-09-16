@@ -1,0 +1,14 @@
+[Event "Round 7: Papp, Sarah - Dolzhykova, Kateryna"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-7/yWNAX1Kk/LuWbiiHR"]
+[Date "2026.07.23"]
+[Round "7.2"]
+[White "Papp, Sarah"]
+[Black "Dolzhykova, Kateryna"]
+[Result "0-1"]
+[WhiteElo "2282"]
+[BlackElo "2290"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Swiss Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3 c5 5.Nf3 c4 6.e5 cxd3 7.exf6 Qxf6 8.Qxd3 Bd7 9.Nb5 Qd8 10.Ne5 Nc6 11.Nxd7 Qxd7 12.Qg3 Rc8 13.c3 a6 14.Na3 f6 15.Nc2 Bd6 16.Qh3 e5 17.Qxd7+ Kxd7 18.dxe5 fxe5 19.Be3 b5 20.a3 a5 21.O-O b4 22.axb4 axb4 23.Rfd1 bxc3 24.bxc3 Ne7 25.Bg5 Rxc3 26.Ne3 d4 27.Bxe7 Bxe7 28.Nd5 Rc5 29.Ra7+ Ke6 30.Nxe7 Re8 31.f4 Rxe7 32.Rxe7+ Kxe7 33.fxe5 Rd5 34.Kf2 Ke6 35.Rd3 Kxe5 36.Rg3 Rd7 37.Ke2 Ra7 38.Rg4 Kd5 39.h4 Kc4 40.h5 Kc3 41.Rg5 d3+ 42.Ke3 Re7+ 43.Kf3 d2 44.Rd5 Re1 0-1

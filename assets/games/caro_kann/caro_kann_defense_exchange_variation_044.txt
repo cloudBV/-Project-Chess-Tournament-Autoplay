@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.13"]
+[Round "3.6"]
+[White "Gazis, Efstathios"]
+[Black "Sarantos, Vasileios"]
+[Result "1/2-1/2"]
+[WhiteElo "2109"]
+[BlackElo "2069"]
+[ECO "B13"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 g6 7.Nf3 Bf5 8.Bxf5 gxf5 9.O-O e6 10.a4 Nf6 11.Ne1 Rg8 12.Nd3 Bd6 13.Na3 a6 14.Qf3 O-O-O 15.Bf4 Ne4 16.Bxd6 Qxd6 17.Qf4 Qxf4 18.Nxf4 Na5 19.Nc2 Nb3 20.Ra3 Nbd2 21.Rd1 Nc4 22.Ra2 a5 23.Ne1 Kd7 24.Ned3 Rc8 25.f3 Ned6 26.Kf2 Ke7 27.Re1 Kd8 28.b3 Nb6 29.Rc2 Nd7 30.Rec1 b5 31.axb5 Nxb5 32.Ke3 Rb8 33.c4 Na3 34.Rc3 Rc8 35.c5 Nb5 36.R3c2 Nb8 37.c6 Kc7 38.Ne5 Kb6 39.c7 Rxc7 40.Rxc7 Nxc7 41.Nxf7 Nc6 42.Ne5 Nxe5 43.dxe5 Re8 44.g4 fxg4 45.hxg4 Re7 46.Nd3 Rg7 47.Rh1 Kc6 48.Rh4 Na6 49.f4 Nc5 50.Nxc5 Kxc5 51.f5 Rb7 52.Kf4 Rb4+ 53.Kg5 exf5 54.Kxf5 Rxb3 55.Rxh7 Rf3+ 56.Ke6 d4 57.Rc7+ Kb4 58.Rd7 Kc3 59.g5 d3 60.g6 d2 61.g7 Rg3 62.Kf7 Rf3+ 63.Ke8 Rg3 64.Kf8 Rf3+ 65.Ke8 Rg3 66.Kf8 Rf3+ 67.Ke8 1/2-1/2

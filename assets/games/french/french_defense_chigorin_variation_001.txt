@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.05"]
+[Round "9.3"]
+[White "Genov, Petar"]
+[Black "Asparuhov, Parvan"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2015"]
+[ECO "C00"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "French Defense: Chigorin Variation"]
+
+1.e4 e6 2.Qe2 b6 3.Nf3 Ba6 4.c4 c5 5.g3 Nc6 6.Bg2 Rc8 7.O-O Nd4 8.Nxd4 cxd4 9.d3 e5 10.f4 d6 11.Nd2 Nf6 12.Nf3 Qc7 13.Nh4 Rd8 14.fxe5 dxe5 15.Bg5 Be7 16.Nf5 O-O 17.Nxe7+ Qxe7 18.Bxf6 gxf6 19.Bh3 Bc8 20.Bf5 Kh8 21.Qh5 Bxf5 22.Rxf5 Rg8 23.Raf1 Rg6 24.Qh4 Rd6 25.Rh5 Rg7 26.Rh6 Kg8 27.Rf5 Rc6 28.Rhxf6 Rxf6 29.Qxf6 Qxf6 30.Rxf6 Rg6 31.Rf5 Re6 32.Kg2 f6 33.Kf3 Kg7 34.Ke2 b5 35.cxb5 Rb6 36.a4 a6 37.Rf1 axb5 38.a5 Rc6 39.Kd2 b4 40.Rc1 Ra6 41.Rc5 Kg6 42.Kc2 Kg5 43.h3 h5 44.Kb3 h4 45.gxh4+ Kf4 46.Kxb4 Ke3 47.Kc4 f5 48.exf5 e4 49.dxe4 d3 50.Rd5 d2 51.b4 Rh6 52.b5 Rxh4 53.a6 Rxe4+ 54.Kc5 Ke2 55.a7 Ra4 56.Rxd2+ Kxd2 57.b6 Rxa7 58.bxa7 1-0

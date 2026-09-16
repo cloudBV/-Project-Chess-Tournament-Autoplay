@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL B"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.03"]
+[Round "1.2"]
+[White "Donoso Aguirre, Maximiliano"]
+[Black "Henriquez Hidalgo, Camilo Alonso"]
+[Result "0-1"]
+[WhiteElo "2126"]
+[BlackElo "2148"]
+[ECO "B90"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Nd5 Bxd5 10.exd5 Nbd7 11.c4 g6 12.Be2 b6 13.O-O Bg7 14.Qd2 O-O 15.Rac1 a5 16.Na1 h4 17.Bg5 h3 18.g3 Qc8 19.Kh1 Re8 20.Nc2 e4 21.Nd4 exf3 22.Bxf3 Ne5 23.Bxf6 Bxf6 24.Nc6 Qf5 25.Nxe5 Bg5 26.Qc3 Bxc1 27.Nxf7 Qxf7 28.Qxc1 Rf8 29.Qh6 Qh7 30.Qc1 Rae8 31.Bg4 Rf7 32.Rf2 Rxf2 33.Qd1 Rf1+ 34.Qxf1 Rf8 35.Qe1 Qh6 36.Kg1 Kh8 37.b3 Kh7 38.Qe7+ Kg8 39.Qe6+ Rf7 40.Qe1 Kh7 41.Be6 Rf8 42.Bg4 Qg7 43.Bxh3 Qd4+ 44.Kh1 Qf2 45.Qb1 Qd2 46.a4 Rf2 47.Qg1 Qe3 48.Bf1 Qf3+ 49.Bg2 Qe2 50.h4 g5 51.hxg5 Qh5+ 52.Qh2 Qxh2+ 53.Kxh2 Kg6 54.Kg1 Rb2 55.Bh3 Rxb3 56.Bd7 Rxg3+ 57.Kf2 Ra3 58.Ke2 Kxg5 59.Kd2 Kf4 0-1

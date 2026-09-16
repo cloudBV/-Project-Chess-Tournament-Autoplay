@@ -1,0 +1,15 @@
+[Event "Round 3: Dushyant Sharma - Venkatesh, Narayan"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-3/eaiDWXsy/jwunxE1l"]
+[Date "2026.07.08"]
+[Round "3.4"]
+[White "Dushyant Sharma"]
+[Black "Venkatesh, Narayan"]
+[Result "1/2-1/2"]
+[WhiteElo "2353"]
+[BlackElo "2270"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 d5 5.Bb5 Nxe4 6.Qe2 Qd6 7.Nxe4 dxe4 8.Qxe4 Bd7 9.d4 O-O-O 10.dxe5 Nxe5 11.Bxd7+ Rxd7 12.Be3 Nxf3+ 13.Qxf3 Qd5 14.Qxd5 Rxd5 15.Ke2 Bc5 16.Rad1 Rxd1 17.Rxd1 Re8 18.Rd3 Re6 19.Kd2 1/2-1/2

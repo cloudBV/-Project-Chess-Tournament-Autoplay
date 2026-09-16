@@ -1,0 +1,15 @@
+[Event "Round 3: Yildiz, Talat - Torun, Kagan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/l2pkqV1T"]
+[Date "2026.07.14"]
+[Round "3.5"]
+[White "Yildiz, Talat"]
+[Black "Torun, Kagan"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2117"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be3 Be7 8.Bd3 O-O 9.Qe2 c5 10.O-O-O cxd4 11.Bxd4 Qc7 12.Kb1 Rd8 13.h4 Bd7 14.Be5 Qa5 15.Ng5 h6 16.Bxf6 Bxf6 17.Qh5 hxg5 18.hxg5 Kf8 19.gxf6 Qxh5 20.fxg7+ Kxg7 21.Rxh5 Rh8 22.Rdh1 Rxh5 23.Rxh5 Bc6 24.b4 Kf6 25.g3 a6 26.Kb2 Rd8 27.Rc5 Rh8 28.Bxa6 Rh2 29.Bb5 Bd5 30.f4 Rg2 31.Rc3 Kf5 32.Bc4 Bxc4 33.Rxc4 Rxg3 34.a4 f6 35.a5 Rg7 36.b5 Rd7 37.Kb3 e5 38.fxe5 fxe5 39.Rc8 e4 40.Re8 Kf4 41.c4 e3 42.c5 Kf3 43.Kc4 e2 44.c6 bxc6 45.b6 Rd5 46.a6 Ra5 47.b7 Rxa6 48.b8=Q Ra4+ 49.Kc5 Re4 50.Qb3+ Kf4 51.Rf8+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 4: Karthik Venkataraman - Das, Aditeya"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-4/U5p4vRB1/QGbFlc1t"]
+[Date "2026.07.17"]
+[Round "4.5"]
+[White "Karthik Venkataraman"]
+[Black "Das, Aditeya"]
+[Result "1-0"]
+[WhiteElo "2566"]
+[BlackElo "2298"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.f3 Nf6 4.d4 cxd4 5.Qxd4 a6 6.Be3 e5 7.Qd2 Be6 8.O-O-O Nbd7 9.g4 Nb6 10.g5 Nfd7 11.f4 Be7 12.f5 Bc4 13.Nge2 Rc8 14.b3 Bxe2 15.Bxe2 Qc7 16.Kb2 d5 17.Nxd5 Nxd5 18.exd5 Bd6 19.c4 a5 20.f6 gxf6 21.gxf6 Bb4 22.Qd3 Qd6 23.Bg4 Rc7 24.Bxd7+ Kxd7 25.Qf5+ Kd8 26.a4 Rg8 27.Rhg1 Rg6 28.Rxg6 hxg6 29.Qh3 Qxf6 30.d6 Rc6 31.Rf1 1-0

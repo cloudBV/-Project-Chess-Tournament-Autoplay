@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/orEvCQfI"]
+[Date "2026.07.03"]
+[Round "7.22"]
+[White "Bartodziej, Bartosz"]
+[Black "Sieczkowski, Adam"]
+[Result "1-0"]
+[WhiteElo "2311"]
+[BlackElo "2075"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Rubinstein Variation"]
+
+1.d4 Nf6 2.c4 b6 3.Nf3 e6 4.g3 Bb7 5.Bg2 c5 6.d5 exd5 7.Nh4 g6 8.cxd5 Bg7 9.Nc3 O-O 10.O-O Re8 11.a4 Na6 12.Bf3 d6 13.Ng2 Nc7 14.Ne3 a6 15.Nc4 b5 16.Na5 Rb8 17.axb5 axb5 18.Bf4 b4 19.Na4 Nb5 20.Nc6 Bxc6 21.dxc6 Nh5 22.Bxh5 gxh5 23.e3 h4 24.Qg4 hxg3 25.fxg3 Qc8 26.Qf3 Qe6 27.Rad1 Qb3 28.Nxc5 dxc5 29.Bxb8 Rxb8 30.Rd7 Rf8 31.c7 Qe6 32.Rxf7 Rc8 33.Rd1 Bd4 34.exd4 Nxd4 35.Rxd4 cxd4 36.Rf6 Qd7 37.Rf4 Qe6 38.Qg4+ Qxg4 39.Rxg4+ Kf7 40.Rxd4 Rxc7 41.Rxb4 Rc2 42.Rf4+ Kg6 43.Rf2 Rc1+ 44.Kg2 Rb1 45.Kf3 Kf5 46.Ke3+ Ke5 47.Rf7 h6 48.Rh7 Kf5 49.Rxh6 Rxb2 50.Kf3 Rb3+ 51.Kg2 Rb2+ 52.Kh3 Kg5 53.Rh8 Rb3 54.Ra8 Kh5 55.Ra5+ Kg6 56.Kh4 Rb6 57.g4 Rc6 58.h3 Rb6 59.Ra4 Kh6 60.g5+ Kg6 61.Kg4 Rc6 62.h4 Rb6 63.h5+ Kg7 64.Ra7+ Kg8 65.h6 Rb4+ 66.Kh5 Rb5 67.Rg7+ Kh8 68.Re7 Ra5 69.Kg6 Ra6+ 70.Kf5 Ra8 71.g6 Rg8 72.Rh7# 1-0

@@ -1,0 +1,15 @@
+[Event "Round 4: Sivuk, Vitaly - Akhmedinov, Satbek"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/VGMP6Nzu"]
+[Date "2026.07.24"]
+[Round "4.16"]
+[White "Sivuk, Vitaly"]
+[Black "Akhmedinov, Satbek"]
+[Result "1-0"]
+[WhiteElo "2499"]
+[BlackElo "2363"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6 10.Be3 Nh5 11.Qd2 Nxd4 12.Bxd4 Nf4 13.Rfd1 Bxd4+ 14.Qxd4 Nxe2+ 15.Nxe2 b6 16.Nf4 Bb7 17.Rac1 a5 18.Rc3 Re5 19.Nd3 Re6 20.Nf2 Qf8 21.Ng4 f6 22.Ne3 Re5 23.b3 Rae8 24.h3 Qg7 25.Ng4 R5e6 26.Rc2 f5 27.Qxg7+ Kxg7 28.exf5 gxf5 29.Nf2 Kf6 30.Nd3 Kg5 31.Kf2 a4 32.Kg3 Re3 33.h4+ Kf6 34.Kf2 R8e7 35.bxa4 Re8 36.Rdd2 R3e7 37.a5 bxa5 38.c5 Ra8 39.Rb2 Bd5 40.cxd6 cxd6 41.Rb6 Bf7 42.Rxd6+ Kg7 43.Nf4 a4 44.a3 Raa7 45.Ne2 Reb7 46.Nd4 Ra5 47.Kg3 Rb1 48.Kf4 Be8 49.Re2 Ra8 50.Nxf5+ Kh8 51.Red2 Kg8 52.Rd8 Rbb8 53.Rxb8 Rxb8 54.Nd6 Bg6 55.Rd4 Bc2 56.Ne4 Rc8 57.g4 Bb3 58.Rd7 1-0

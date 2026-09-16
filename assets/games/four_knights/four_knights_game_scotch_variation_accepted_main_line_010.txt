@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.16"]
+[Round "7.1"]
+[White "Gukesh D"]
+[Black "Niemann, Hans Moke"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2730"]
+[ECO "C47"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5 9.exd5 cxd5 10.h3 h6 11.Qf3 c6 12.Bxh6 gxh6 13.Qg3+ Kh8 14.Qf4 Bxc3 15.Qxh6+ Kg8 16.Qg5+ Kh8 17.Qh6+ Kg8 18.Qg5+ Kh8 19.Qh6+ Kg8 1/2-1/2

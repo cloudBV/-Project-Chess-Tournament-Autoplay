@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.08"]
+[Round "5.5"]
+[White "Audi Ameya"]
+[Black "Padmini, Rout"]
+[Result "1/2-1/2"]
+[WhiteElo "2424"]
+[BlackElo "2341"]
+[ECO "B90"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be7 8.g4 h6 9.Be3 Be6 10.Qe2 Nbd7 11.O-O-O Rc8 12.Nd5 Bxd5 13.exd5 Nb6 14.Bg2 Nc4 15.f4 Nxe3 16.Qxe3 Nd7 17.Kb1 exf4 18.Qxf4 Ne5 19.Nd2 Bg5 20.Qa4+ Qd7 21.Qxd7+ Kxd7 22.Ne4 Bh4 23.Rhf1 f6 24.Nd2 h5 25.Be4 Rce8 26.Bf5+ Kc7 27.Nf3 hxg4 1/2-1/2

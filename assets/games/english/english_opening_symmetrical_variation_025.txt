@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-5/5CTYcPP3/WvoMenzb"]
+[Date "2026.07.13"]
+[Round "5.3"]
+[White "Kalisky, Vladimir"]
+[Black "Janik, Marek Tobias"]
+[Result "1-0"]
+[WhiteElo "2179"]
+[BlackElo "2163"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 Nc6 3.e3 e5 4.Nc3 Nf6 5.d4 e4 6.d5 exf3 7.dxc6 dxc6 8.Qxd8+ Kxd8 9.gxf3 Be6 10.b3 Kc7 11.Bb2 Rd8 12.Rg1 h5 13.Be2 h4 14.f4 h3 15.Rd1 Rh4 16.Rxd8 Kxd8 17.f3 Ne8 18.Kf2 Be7 19.Ne4 f6 20.Bd3 a6 21.Bc3 b6 22.Ke2 Bf5 23.Nf2 Bxd3+ 24.Kxd3 g5 25.fxg5 fxg5 26.Rg3 Bd6 27.Rxh3 Bxh2 28.Rxh4 gxh4 29.f4 Ke7 30.Be5 Bg3 31.Ke2 Ke6 32.Kf3 Kf5 33.Nd3 Nf6 34.Bxf6 Kxf6 35.Kg4 Ke6 36.Ne5 Bf2 37.e4 Kd6 38.Nf7+ 1-0

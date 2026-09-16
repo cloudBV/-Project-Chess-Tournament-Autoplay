@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "2.9"]
+[White "Fedorchuk, Sergey A."]
+[Black "Hakobyan, Allen"]
+[Result "1-0"]
+[WhiteElo "2593"]
+[BlackElo "2084"]
+[ECO "B50"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nc6 4.O-O Nf6 5.d3 a6 6.a4 Bg4 7.h3 Bxf3 8.Qxf3 Ne5 9.Qe2 Nxc4 10.dxc4 e6 11.Rd1 Qc7 12.Bf4 Be7 13.Nc3 O-O 14.Rd3 Rfd8 15.Rad1 Qc6 16.b3 Rd7 17.Rg3 Kh8 18.Bg5 Rad8 19.Rdd3 Ng8 20.Qg4 Bxg5 21.Qxg5 f6 22.Qg4 Re7 23.f4 Nh6 24.Qh4 Nf7 25.e5 g5 26.fxg5 fxg5 27.Qh5 h6 28.Rgf3 Nxe5 29.Qxh6+ Kg8 30.Qxg5+ 1-0

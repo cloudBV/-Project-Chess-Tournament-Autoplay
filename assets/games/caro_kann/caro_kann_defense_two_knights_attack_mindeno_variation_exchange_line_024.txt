@@ -1,0 +1,15 @@
+[Event "Round 6: Sharshenbekov, Emir - Dinh Nho Kiet"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-6/nTpH1yCB/VojnXQ9d"]
+[Date "2026.07.21"]
+[Round "6.10"]
+[White "Sharshenbekov, Emir"]
+[Black "Dinh Nho Kiet"]
+[Result "1/2-1/2"]
+[WhiteElo "2212"]
+[BlackElo "2330"]
+[ECO "B11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.h3 Bxf3 5.Qxf3 Nf6 6.Be2 dxe4 7.Nxe4 Nxe4 8.Qxe4 Qd5 9.Bf3 Qxe4+ 10.Bxe4 Nd7 11.d4 g6 12.b3 Bg7 13.Bb2 Nc5 14.Bf3 Ne6 15.O-O-O Ng5 16.Rd3 Rd8 17.Rhd1 f5 18.c4 Kf7 19.d5 Bxb2+ 20.Kxb2 Nxf3 21.gxf3 c5 1/2-1/2

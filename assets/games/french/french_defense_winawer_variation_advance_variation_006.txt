@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.5"]
+[White "Mitusov, Semen"]
+[Black "Lund, Gunnar"]
+[Result "0-1"]
+[WhiteElo "2479"]
+[BlackElo "2346"]
+[ECO "C16"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.h4 h5 7.Qf3 Ne7 8.Bg5 Qd7 9.Nge2 Ba6 10.O-O-O Nbc6 11.g4 hxg4 12.Qxg4 O-O-O 13.Kb1 Kb8 14.Qf3 Qe8 15.Bg2 Rc8 16.Ng3 Na5 17.h5 Ng8 18.Rhe1 Nh6 19.Bc1 Qd7 20.Bh3 Bb4 21.a3 Bf8 22.Rg1 Rd8 23.Nge2 Nc6 24.Bg5 Re8 25.Rd2 Rh7 26.Rdd1 Rh8 27.Be3 Rh7 28.Rg2 Na5 29.Bc1 Nc6 30.Rg3 Rh8 31.Be3 Rh7 32.Rdg1 Nd8 33.Nf4 c6 34.Nfe2 Rh8 35.Bg5 Ka8 36.Nf4 Rh7 37.Qe3 Nf5 38.Bxf5 exf5 39.Bxd8 Qxd8 40.Qf3 Qd7 41.Rg5 Bc8 42.Nd3 Rh6 43.Ka1 Rd8 44.Nd1 c5 45.Ne3 Qa4 46.Nxf5 c4 47.Nc1 Rc6 48.c3 b5 49.Na2 f6 50.exf6 Rxf6 51.Re1 Qc2 52.Re5 Be6 53.h6 gxh6 54.Rh5 a6 55.Nb4 Bxb4 56.axb4 a5 57.Rxh6 Bxf5 58.Rxf5 Rxf5 59.Qe3 Qa4+ 60.Kb1 Qd1+ 61.Ka2 Qa4+ 62.Kb1 axb4 63.Qe6 Qd1+ 64.Ka2 b3+ 65.Ka3 Qa1+ 66.Kb4 Qa4+ 67.Kc5 Qa7+ 68.Kb4 Rf7 69.Qc6+ Kb8 70.Rd6 Rc8 0-1

@@ -1,0 +1,14 @@
+[Event "Round 7: Kalogridis, Antonios - Raptis, Filippos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/DNjGufU0"]
+[Date "2026.07.10"]
+[Round "7.8"]
+[White "Kalogridis, Antonios"]
+[Black "Raptis, Filippos"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2276"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h3 Nc6 7.Nf3 e5 8.d5 Ne7 9.g4 c6 10.Be3 b5 11.g5 Nh5 12.cxb5 cxd5 13.Nxd5 Nxd5 14.Qxd5 Be6 15.Qd2 Qd7 16.Rd1 Rfd8 17.Ng1 Nf4 18.Bxf4 exf4 19.Nf3 Bxh3 20.Qxf4 Bg2 21.Rh2 Bxf3 22.Qxf3 Bxb2 23.Bc4 Be5 24.Rh1 Rac8 25.Qe2 Qe7 26.Rg1 Bf4 27.Rd5 Re8 28.f3 Rc5 29.Rxc5 dxc5 30.Qd3 Rd8 31.Bd5 Bxg5 32.Rg2 Bf6 33.a4 Bd4 34.Kd2 Qc7 35.Kc2 Kg7 36.Kb3 h5 37.Rc2 Rd7 38.Ra2 Qa5 39.Qd2 Qb6 40.Bc4 a5 41.f4 Qd8 42.Qe1 Bf6 43.e5 Bh4 44.Qe4 Rd4 45.Qf3 Be1 46.Rc2 Bd2 47.f5 Rf4 48.f6+ Kg8 49.Qe2 Bb4 50.Qe3 Rd4 51.e6 fxe6 52.Qxe6+ Kh7 53.Qf7+ Kh6 54.Qg7+ Kg5 55.f7 Rd3+ 56.Kb2 Rf3 57.Rg2+ Kh4 58.Rh2+ Kg5 59.Rg2+ Kh4 60.Rh2+ Kg5 61.Rg2+ 1/2-1/2

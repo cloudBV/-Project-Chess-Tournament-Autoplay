@@ -1,0 +1,15 @@
+[Event "Round 4: Zilka, Stepan - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-4/96mqn1sv/XDvX31wP"]
+[Date "2026.06.12"]
+[Round "4.1"]
+[White "Zilka, Stepan"]
+[Black "Badacsonyi, Stanley"]
+[Result "1-0"]
+[WhiteElo "2526"]
+[BlackElo "2312"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c6 7.g4 Qa5 8.Qd2 c5 9.d5 Nbd7 10.Nf3 a6 11.a4 Qb4 12.Bd3 Nb6 13.Ne2 Qxd2+ 14.Nxd2 Ne8 15.Ra2 Nd7 16.f4 a5 17.Nf3 Nc7 18.b3 Na6 19.Bb1 Nb4 20.Rd2 Nb6 21.Kf2 Bd7 22.Rc1 f6 23.Kg3 Kf7 24.e5 fxe5 25.fxe5 Kg8 26.e6 Bxa4 27.bxa4 Nxa4 28.Bg5 Rfe8 29.h4 Nb2 30.h5 a4 31.h6 Bh8 32.Nf4 a3 33.Bxg6 hxg6 34.h7+ Kxh7 35.Rh1+ Kg8 36.Rh6 a2 37.Rxg6+ Bg7 38.Bh6 1-0

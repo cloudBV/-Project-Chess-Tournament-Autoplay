@@ -1,0 +1,14 @@
+[Event "Round 4: Hrbek, Stepan - Bharath Subramaniyam H"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/06j4aoHM"]
+[Date "2026.07.21"]
+[Round "4.12"]
+[White "Hrbek, Stepan"]
+[Black "Bharath Subramaniyam H"]
+[Result "0-1"]
+[WhiteElo "2468"]
+[BlackElo "2591"]
+[ECO "B81"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g4 h6 7.h4 Nc6 8.Rg1 d5 9.exd5 Nxd5 10.Nxd5 exd5 11.Be3 Be7 12.Qd2 Bxh4 13.O-O-O Bf6 14.f4 Bxd4 15.Bxd4 Nxd4 16.Qxd4 O-O 17.Bc4 Qb6 18.Bxd5 Be6 19.Bf3 Qa5 20.a3 Rad8 21.Qe4 Qc5 22.Rge1 b6 23.f5 Bb3 24.Kb1 Rde8 25.Qd3 Ba4 26.b3 Bb5 27.c4 Rxe1 28.Rxe1 Bc6 29.Bd5 Bxd5 30.cxd5 Rd8 31.Rd1 Qxa3 32.d6 a5 33.d7 a4 34.bxa4 Qxa4 35.g5 Qb4+ 36.Kc2 hxg5 37.Qe2 Kf8 38.Rh1 Qc5+ 39.Kb2 Qd4+ 40.Kb1 g6 41.Qh2 Rxd7 42.Qb8+ Ke7 43.f6+ Kxf6 44.Qh8+ Kf5 45.Qc8 Qe4+ 46.Kb2 Qg2+ 47.Kb3 Qg3+ 48.Kb2 Qc7 49.Rf1+ Kg4 50.Rg1+ Kf4 51.Rf1+ Kg3 0-1

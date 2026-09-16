@@ -1,0 +1,15 @@
+[Event "Round 6: Longueira Alonso, Breixo - Grana Castanal, Andres"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-6/5STfQCBh/R5xFSBfT"]
+[Date "2026.07.16"]
+[Round "6.7"]
+[White "Longueira Alonso, Breixo"]
+[Black "Grana Castanal, Andres"]
+[Result "0-1"]
+[WhiteElo "2209"]
+[BlackElo "2046"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Bb7 5.Bd3 g6 6.Nbd2 Bg7 7.e4 d6 8.Qe2 Nbd7 9.c3 Nh5 10.Bg5 f6 11.Be3 e5 12.dxe5 dxe5 13.g3 Qe7 14.O-O O-O 15.Nh4 Kh8 16.Qg4 Nc5 17.Bxc5 bxc5 18.Be2 Qe8 19.Qh3 Bc8 20.Qg2 Rb8 21.Bxh5 gxh5 22.b3 Be6 23.Rfd1 a5 24.c4 Bh6 25.Nf5 Qg6 26.Qf3 Rfd8 27.Nf1 Rd4 28.N1e3 Bxe3 29.fxe3 Rxd1+ 30.Rxd1 Qg4 31.Kg2 a4 32.Rd3 axb3 33.axb3 Ra8 34.Rd2 Rb8 35.h3 Qxf3+ 36.Kxf3 Kg8 37.Rd3 Kf7 38.Kf2 Ra8 39.Rd2 Rb8 40.Ra2 Kg6 41.Ne7+ Kf7 42.Nd5 Rxb3 43.Ra7 Bxh3 44.Rxc7+ Kg6 45.Ne7+ Kg5 46.Nf5 Rb2+ 47.Kg1 Bxf5 48.exf5 Kxf5 49.Rxh7 Kg4 50.Rg7+ Kf3 51.Rg6 Kxe3 52.Rxf6 e4 53.Rf5 Kd4 54.Rxh5 Kxc4 55.g4 e3 56.Kf1 Rf2+ 57.Ke1 Rg2 58.Re5 Kd4 59.Re8 Rxg4 60.Rd8+ Ke4 0-1

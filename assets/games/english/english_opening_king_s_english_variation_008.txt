@@ -1,0 +1,15 @@
+[Event "Round 7: Sevian, Samuel - Gelfand, Boris"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/o5qL9fiD"]
+[Date "2026.07.04"]
+[Round "7.2"]
+[White "Sevian, Samuel"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2592"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.Nf3 e4 5.Nd4 d5 6.d3 exd3 7.Qxd3 Bb4+ 8.Bd2 a5 9.cxd5 Nxd5 10.O-O O-O 11.Nc3 Nxc3 12.Bxc3 Na6 13.Rad1 Qe7 14.h3 Bxc3 15.Qxc3 Qc5 16.Qf3 Re8 17.a3 Nc7 18.Rd3 Ne6 19.Nb3 Qe5 20.Qe3 Qxe3 21.Rxe3 Kf8 22.Rc1 a4 23.Nd2 Ra5 24.Kf1 Nd4 25.Rxe8+ Kxe8 26.Rc4 Nf5 27.e4 Nd6 28.Rc2 Be6 29.f4 f6 30.Kf2 Rb5 31.Bf1 Rb6 32.g4 Bb3 33.Rc3 Be6 34.Rc2 Bb3 35.Rc3 Be6 1/2-1/2

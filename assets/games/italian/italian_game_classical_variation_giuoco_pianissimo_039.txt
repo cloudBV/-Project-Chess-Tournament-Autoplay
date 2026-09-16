@@ -1,0 +1,15 @@
+[Event "Round 2: Moor, Nathaniel Philip - Vidyarthi, Omya"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-2/gGRN6RNO/lzbW2c7s"]
+[Date "2026.07.08"]
+[Round "2.2"]
+[White "Moor, Nathaniel Philip"]
+[Black "Vidyarthi, Omya"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2134"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 Ba7 8.Re1 h6 9.Nbd2 Nh5 10.Nf1 Qf6 11.Ne3 Nf4 12.Nd5 Nxd5 13.exd5 Ne7 14.d4 exd4 15.Nxd4 O-O 16.Be3 Ng6 17.f4 Bd7 18.g3 Rae8 19.a5 Ne7 20.Qh5 c6 21.Nc2 Bb8 22.Bd4 Qf5 23.Qxf5 Bxf5 24.Ne3 Be4 25.dxc6 Nxc6 26.Bb6 Ne7 27.Rad1 Bf3 28.Rd2 Nc8 29.Kf2 Bc6 30.Rde2 Re7 31.Nf5 Rxe2+ 32.Rxe2 d5 33.Bd3 Re8 34.Bd4 f6 35.Bc5 Kf7 36.Rxe8 Bxe8 37.Be2 Bc6 38.Bf3 Ba7 39.Bxa7 Nxa7 40.Ke3 Nb5 41.Nd4 Nc7 42.Bg4 Ke7 43.h4 Bd7 44.Bf5 Kd6 45.b4 Ke7 46.Kf3 Kd6 47.Kg4 Ke7 48.Bxd7 Kxd7 49.Kf5 Ne8 50.Kg6 Ke7 51.Nf5+ Kf8 52.h5 Kg8 53.Ne7+ Kf8 54.Nxd5 Nd6 55.Nc7 Ne4 56.Ne6+ Kg8 57.c4 Nxg3 58.Nxg7 Kf8 59.Nf5 Ne2 60.Nd6 Nxf4+ 61.Kxh6 Ke7 62.Nxb7 Ne6 63.Nc5 Nf8 64.b5 Kd6 65.bxa6 1-0

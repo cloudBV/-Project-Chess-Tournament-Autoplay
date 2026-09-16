@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.05.19"]
+[Round "5.1"]
+[White "Lazarne Vajda, Szidonia"]
+[Black "Biro, Beata"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2084"]
+[ECO "B30"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.d4 cxd4 6.Nxd4 a6 7.Be2 Ng6 8.c4 Be7 9.Nc3 O-O 10.Be3 Qc7 11.Qd2 b6 12.f4 Bb7 13.f5 Nge5 14.Kh1 Rad8 15.Rac1 Qb8 16.Qe1 Bf6 17.Qf2 Qa8 18.Nxc6 Bxc6 19.Bxb6 Rb8 20.Bc5 Rfc8 21.fxe6 fxe6 22.Qg3 Ng6 23.Rxf6 gxf6 24.h4 Bxe4 25.Ba3 Kf7 26.Rd1 Bc6 27.h5 Ne5 28.h6 Ng6 29.Bh5 Qb7 30.Rf1 Bxg2+ 31.Qxg2 Qxg2+ 32.Kxg2 Rxc4 33.Kg3 d5 34.Ne2 Rd8 35.Nf4 Re4 36.Rc1 Rc4 37.Rh1 e5 38.Nd3 a5 39.Nc5 Ra8 40.Nd7 Rc6 41.Nf8 f5 42.Bxg6+ Rxg6+ 43.Nxg6 Kxg6 44.Kf3 Rc8 45.Bd6 Re8 46.Rd1 d4 47.Re1 e4+ 48.Kf4 d3 49.Bc5 Kxh6 50.Kxf5 Kg7 51.Rg1+ Kf7 52.Be3 Rb8 53.Rg2 Rb4 54.Bh6 a4 55.a3 Rc4 56.Rg7+ Ke8 57.Rxh7 Rc2 58.Kxe4 d2 59.Bxd2 Rxd2 60.Rb7 Kd8 61.Ke3 Rh2 62.Rb4 Kc7 63.Kd3 Kc6 64.Kc3 Rh3+ 65.Kc2 Rh2+ 66.Kb1 Rh1+ 67.Ka2 Kd5 1-0

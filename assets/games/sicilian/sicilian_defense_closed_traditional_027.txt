@@ -1,0 +1,14 @@
+[Event "Round 5: Munoz Triana, Joseph Steve - Tobar B, Jorge Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-5/e599Mxte/59OZABRi"]
+[Date "2026.07.12"]
+[Round "5.12"]
+[White "Munoz Triana, Joseph Steve"]
+[Black "Tobar B, Jorge Esteban"]
+[Result "1/2-1/2"]
+[WhiteElo "2217"]
+[BlackElo "2024"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.f4 Nf6 7.Nf3 O-O 8.O-O Ne8 9.Qe1 Nc7 10.Qh4 e6 11.Qg3 Nb5 12.Ne2 Nd4 13.Nexd4 cxd4 14.a4 c5 15.a5 Qc7 16.b3 Bd7 17.Ne5 b5 18.axb6 axb6 19.Rxa8 Rxa8 20.Nxd7 Qxd7 21.f5 exf5 22.exf5 Re8 23.h4 Re2 24.h5 Qe8 25.Bf4 Rxc2 26.hxg6 hxg6 27.fxg6 fxg6 28.Re1 Re2 29.Ra1 Be5 30.Bxe5 Rxe5 31.Ra8 Qxa8 32.Qxg6+ Kh8 33.Qf6+ Kg8 34.Qxe5 Qa1+ 35.Kh2 Qd1 36.Qb8+ Kh7 37.Qc7+ Kg8 38.Qxb6 Qh5+ 39.Kg3 Qg5+ 40.Kf3 Qe3+ 41.Kg4 Qe2+ 42.Kh4 Qxd3 43.Qb8+ Kh7 44.Qc7+ Kh8 45.Qe5+ Kh7 46.Qc7+ Kh8 47.Qxc5 Qe4+ 48.Kh5 d3 49.Qf8+ Kh7 50.Qf7+ Kh8 51.Qf6+ Kh7 52.Qf7+ Kh8 53.Qf8+ Kh7 54.Qf7+ Kh8 55.Qf8+ Kh7 56.Qf7+ Kh8 57.Qf6+ Kg8 58.Qd8+ Kg7 59.Qd7+ Kf6 60.Qd6+ Kf5 61.Qc5+ Kf4 62.Qf2+ Ke5 63.Qc5+ Qd5 1/2-1/2

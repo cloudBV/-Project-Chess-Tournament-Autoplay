@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-4-game-1/sqIpHmCY/zTWFmnsv"]
+[Date "2026.07.06"]
+[Round "7.1"]
+[White "Nakonechnyi, Oleksii"]
+[Black "Ilko-Toth, Andras"]
+[Result "1-0"]
+[WhiteElo "2400"]
+[BlackElo "2069"]
+[ECO "A13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 d4 4.Bg2 Nc6 5.d3 Nf6 6.O-O Bc5 7.Nbd2 O-O 8.Nb3 Be7 9.e3 dxe3 10.Bxe3 Ng4 11.Bc5 Bxc5 12.Nxc5 b6 13.Nb3 Bb7 14.d4 a5 15.h3 Nh6 16.Ne5 Nxe5 17.Bxb7 Ra7 18.dxe5 Rxb7 19.Qf3 Rb8 20.Rad1 Qe8 21.Nd4 Qa4 22.Qb3 Qxb3 23.axb3 Ra8 24.Nc6 a4 25.bxa4 Rxa4 26.b3 Ra3 27.Rd3 g5 28.g4 Kg7 29.f4 gxf4 30.Rxf4 Ra1+ 31.Kg2 Rfa8 32.Rf2 R8a3 33.Nd8 Rb1 34.Rd7 Kg6 35.Rf6+ Kg5 36.Nxe6+ 1-0

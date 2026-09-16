@@ -1,0 +1,15 @@
+[Event "Round 6: Ramirez Vido, Robert Yorisan - Bauer, Thomas"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/E7ndxWEA"]
+[Date "2026.07.04"]
+[Round "6.22"]
+[White "Ramirez Vido, Robert Yorisan"]
+[Black "Bauer, Thomas"]
+[Result "1-0"]
+[WhiteElo "2057"]
+[BlackElo "2196"]
+[ECO "A00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Hungarian Opening: Indian Defense"]
+
+1.g3 Nf6 2.Bg2 e5 3.e4 Nc6 4.Nc3 Bc5 5.Nge2 O-O 6.O-O Re8 7.Na4 Bf8 8.c4 a6 9.Nac3 Bc5 10.d3 h6 11.h3 d6 12.Kh2 Bd7 13.f4 exf4 14.gxf4 Ng4+ 15.Kg3 Nf6 16.d4 Ba7 17.Kh2 b5 18.e5 Nh5 19.cxb5 axb5 20.Nxb5 Rb8 21.Nxa7 Nxa7 22.b3 Bb5 23.Rg1 dxe5 24.fxe5 Qh4 25.Qe1 Qxe1 26.Rxe1 g5 27.Ng3 Ng7 28.Bb2 Nc6 29.Ne4 Nh5 30.Bf3 Nf4 31.Nf6+ Kf8 32.Nd7+ Kg7 33.Nxb8 Rxb8 34.d5 Nd3 35.Bc3 Nxe1 36.Rxe1 Ne7 37.d6 Nf5 38.e6+ f6 39.dxc7 Rc8 40.e7 Rxc7 41.Bxf6+ Kxf6 42.e8=Q Bxe8 43.Rxe8 Nd4 44.Bd5 Rc2+ 45.Kg3 h5 46.Re4 1-0

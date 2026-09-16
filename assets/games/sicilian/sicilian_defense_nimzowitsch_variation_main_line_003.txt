@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "9.7"]
+[White "Dobrowolski, Kamil"]
+[Black "Durzynski, Jan"]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2069"]
+[ECO "B29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Main Line"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 e6 5.Nxd5 exd5 6.d4 Nc6 7.c3 cxd4 8.cxd4 d6 9.Bd3 Bg4 10.O-O Nxd4 11.Qa4+ Nc6 12.Qxg4 dxe5 13.Nxe5 Nxe5 14.Re1 Bd6 15.Qxg7 Kd7 16.Rxe5 Bxe5 17.Qxe5 Kc6 18.Bf4 b5 19.Rc1+ Kb7 20.Bxb5 Rc8 21.Rxc8 Qxc8 22.Qxd5+ Kb6 23.Be3+ Kc7 24.Qc6+ 1-0

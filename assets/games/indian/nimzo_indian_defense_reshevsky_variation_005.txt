@@ -1,0 +1,14 @@
+[Event "Round 7: Degtiarev, Evgeny - Fischer, Daniel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-7/IK4Cx0nV/oW2H0ELx"]
+[Date "2026.07.17"]
+[Round "7.4"]
+[White "Degtiarev, Evgeny"]
+[Black "Fischer, Daniel"]
+[Result "1-0"]
+[WhiteElo "2376"]
+[BlackElo "2366"]
+[ECO "E46"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 d5 6.a3 Be7 7.cxd5 exd5 8.Nf4 c6 9.Bd3 Nbd7 10.O-O Re8 11.Bd2 Nf8 12.Rc1 Ne6 13.Nxe6 Bxe6 14.f3 c5 15.dxc5 Bxc5 16.Na4 Bd6 17.Bc3 Bd7 18.Bd4 Be5 19.Bc2 Qb8 20.Bxe5 Qxe5 21.Re1 Rac8 22.Nc3 Bc6 23.Qd4 Qxd4 24.exd4 Rxe1+ 25.Rxe1 Kf8 26.Kf2 Re8 27.Rc1 Ke7 28.g4 h6 29.h4 Kd6 30.Nd1 Rc8 31.Bf5 Re8 32.h5 Ng8 33.Ne3 Ne7 34.Rg1 f6 35.b4 Rd8 36.Kg3 Be8 37.Kf4 Bf7 38.Bd3 Rd7 39.Rc1 Rd8 40.b5 Be6 41.Bf5 Bf7 42.Bd3 Be6 43.Nf5+ Nxf5 44.Bxf5 Bf7 45.Bc8 Be8 46.Bxb7 Bxb5 47.Bxd5 Rb8 48.Be4 Bd7 49.Rc5 Rb6 50.Ra5 a6 51.Bd3 Bc8 52.Bf5 Bb7 53.Be4 Bc8 54.Rd5+ Ke7 55.Rc5 Kd8 56.d5 Rb3 57.d6 Rxa3 58.Rc7 Bd7 59.Ra7 Rc3 60.Ra8+ Rc8 61.Rxa6 Ke8 62.Ra7 Kd8 63.Rxd7+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 7: Arlt, Reinhard - Meier, Thomas, Dr."]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-7/3XXSjikk/1tW3WUuk"]
+[Date "2026.07.02"]
+[Round "7.6"]
+[White "Arlt, Reinhard"]
+[Black "Meier, Thomas, Dr."]
+[Result "0-1"]
+[WhiteElo "2020"]
+[BlackElo "2174"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 cxd4 5.O-O a6 6.Bc4 e6 7.Re1 Ne7 8.d3 Nc6 9.c3 b5 10.Bb3 Bc5 11.Qg4 O-O 12.Bg5 f6 13.Bh4 Bb7 14.c4 Ne5 15.Qe2 bxc4 16.Bxc4 Nxc4 17.dxc4 d6 18.Kh1 Qc7 19.Nd2 a5 20.b3 a4 21.Reb1 Bb4 22.Re1 Bc3 23.Rad1 axb3 24.axb3 Ra2 25.Qd3 Rfa8 26.f3 Rb2 27.Rf1 e5 28.Be1 Qb6 29.Rb1 Raa2 30.Rxb2 Rxb2 31.f4 Qa5 32.fxe5 dxe5 33.Nf3 Rxb3 34.Bh4 Qb6 35.Qe2 Rb2 36.Qd3 Qc6 37.c5 Ba6 38.Qd1 Bxf1 39.Qxf1 Qb5 40.Qg1 Rb1 41.Ne1 Qxc5 42.h3 Qb4 43.Kh2 Bxe1 44.Bxe1 Qxe1 0-1

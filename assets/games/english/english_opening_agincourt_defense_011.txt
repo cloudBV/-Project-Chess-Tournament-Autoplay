@@ -1,0 +1,14 @@
+[Event "Round 1: Kosmas-Lekkas, Dimitrios - Gkavardinas, Antonios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/bfwaasMF"]
+[Date "2026.07.10"]
+[Round "1.4"]
+[White "Kosmas-Lekkas, Dimitrios"]
+[Black "Gkavardinas, Antonios"]
+[Result "0-1"]
+[WhiteElo "2185"]
+[BlackElo "2304"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.g3 dxc4 4.Bg2 a6 5.O-O Nf6 6.a4 Nc6 7.a5 Bb4 8.Ne5 Nxe5 9.Qa4+ Qd7 10.Qxb4 Qd6 11.Qc3 Nd5 12.Qc2 O-O 13.b3 cxb3 14.Qxb3 c5 15.d4 Nc6 16.dxc5 Qxc5 17.Ba3 Qxa5 18.Qb2 Qb5 19.Qc1 Rd8 20.Ra2 Nd4 21.Qd2 Nb6 22.Nc3 Qe8 23.Qc1 e5 24.e3 Nb3 25.Qc2 Be6 26.Bxb7 Rab8 27.Bxa6 Rd2 28.Qb1 Rxa2 29.Qxa2 Nd4 30.Qa1 Nf3+ 31.Kg2 Nd2 32.Bb5 Qc8 33.Re1 Nd5 34.Bd6 Ra8 35.Qc1 Qxc3 36.Bc6 Ra6 37.Bxd5 Bxd5+ 38.Kh3 Qxc1 39.Rxc1 Be6+ 0-1

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.08"]
+[Round "4.35"]
+[White "Sanz Gorospe, Ibai"]
+[Black "Juarros Ruiz, Victor"]
+[Result "1-0"]
+[WhiteElo "2317"]
+[BlackElo "2107"]
+[ECO "B23"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nf6 5.Bg5 Nc6 6.Qd2 Qa5 7.f4 Bd7 8.O-O-O O-O-O 9.Nf3 Be6 10.a3 d5 11.Bxf6 dxe4 12.Nd4 exf6 13.Nxc6 bxc6 14.Ba6+ Qxa6 15.Qxd8+ Kb7 16.Nxe4 Bd5 17.Qxf8 Rxf8 18.Nc5+ Kb6 19.Nxa6 Kxa6 20.Rhe1 f5 21.Re7 Kb6 22.b3 a5 23.c4 Be6 24.Kb2 a4 25.b4 Bxc4 26.Rdd7 Rb8 27.Kc3 Be6 28.Ra7 Bb3 29.Kd4 g6 30.h3 h5 31.h4 Rd8+ 32.Kc3 Rb8 33.Kd4 Rd8+ 34.Rad7 Rb8 35.Rd6 Ba2 36.g3 Bb3 37.Kc3 Ba2 38.Red7 Re8 39.Rd8 Re3+ 40.Rd3 Re2 41.Rd2 Re3+ 42.R8d3 Rxd3+ 43.Kxd3 Be6 44.Kd4 Bb3 45.Re2 Kb5 46.Re5+ Kb6 47.Ra5 Bd1 48.Ke5 Bc2 49.Kd6 Kb7 50.Ke7 Bb3 51.Rc5 Bd5 52.b5 Bf3 53.bxc6+ Bxc6 54.Kxf7 Kb6 55.Rc3 1-0

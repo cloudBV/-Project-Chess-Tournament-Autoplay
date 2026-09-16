@@ -1,0 +1,14 @@
+[Event "Round 6: Joly, Julien - Ragavan, Samarth Rajesh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/D6sfjqYF"]
+[Date "2026.07.18"]
+[Round "6.16"]
+[White "Joly, Julien"]
+[Black "Ragavan, Samarth Rajesh"]
+[Result "0-1"]
+[WhiteElo "2257"]
+[BlackElo "2106"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 Nbd7 8.Bf4 c6 9.h4 b6 10.Nc3 Ba6 11.e4 dxe4 12.Ne5 Bb7 13.O-O-O Qc8 14.Nxe4 Nxe4 15.Qxe4 Nxe5 16.Bxe5 Qd7 17.Qg4 f6 18.Bf4 Bd6 19.Bd2 Rfe8 20.Bc3 Qf7 21.Rhe1 Rad8 22.h5 f5 23.Qh4 Be7 24.Qh1 Rc8 25.f4 Bf6 26.Re3 Ba8 27.Kc2 Red8 28.Red3 Bb7 29.b3 Qd7 30.Bf3 Ba6 31.R3d2 Qd6 32.Qe1 Re8 33.Qe3 Qb8 34.g4 b5 35.g5 Bd8 36.c5 b4 37.Bb2 Bc7 38.Bxc6 Bxf4 39.Qf3 Rxc6 40.Qxc6 Bb7 41.Qd7 Be4+ 42.Kc1 Bxg5 43.d5 Re7 44.Qd6 Qxd6 45.cxd6 Rd7 46.Rg1 Bxd2+ 47.Kxd2 Rxd6 48.Rxg7+ Kf8 49.Rxh7 f4 50.Rh8+ Kf7 51.h6 Rxd5+ 52.Ke2 Ra5 53.Re8 0-1

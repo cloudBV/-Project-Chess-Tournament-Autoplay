@@ -1,0 +1,14 @@
+[Event "Round 2: Schneider, Jana - Papp, Sarah"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-2/ZSaO6fR5/k3dMyI14"]
+[Date "2026.07.18"]
+[Round "2.2"]
+[White "Schneider, Jana"]
+[Black "Papp, Sarah"]
+[Result "1-0"]
+[WhiteElo "2277"]
+[BlackElo "2282"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Na6 7.a3 Nc7 8.c4 Be7 9.Bd3 O-O 10.Qc2 g6 11.Ne2 f5 12.O-O Bf6 13.Rad1 Ne6 14.Qc1 f4 15.Bxf4 Nxd4 16.Nc3 Bg4 17.f3 Be6 18.Ne4 Bf5 19.Kh1 Bxe4 20.Bxe4 Qb6 21.Bd6 Rfe8 22.c5 Qb3 23.Rd3 Qb5 24.Rfd1 Ne6 25.b3 Bg5 26.f4 Bxf4 27.Bxf4 Nxc5 28.a4 Nxd3 29.Bxd3 Qxb3 30.Bc4 Qb4 31.Bd6 Qxa4 32.Rf1 Re4 33.Bxf7+ Kg7 34.Qb2+ Kh6 35.Qc1+ Kg7 36.Ba3 Rd8 37.Bb2+ Rdd4 38.Qg5 Qb5 39.Qf6+ Kh6 40.Bc1+ Kh5 41.Rf5+ 1-0

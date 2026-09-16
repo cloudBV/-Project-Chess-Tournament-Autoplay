@@ -1,0 +1,14 @@
+[Event "Round 4: Pavlidis, Antonios - Krallis, Christos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/XsGVteeg"]
+[Date "2026.07.07"]
+[Round "4.11"]
+[White "Pavlidis, Antonios"]
+[Black "Krallis, Christos"]
+[Result "1-0"]
+[WhiteElo "2573"]
+[BlackElo "2424"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 h6 6.a3 d6 7.Na4 Bb6 8.O-O O-O 9.h3 Be6 10.Bxe6 fxe6 11.b4 Qe8 12.c3 Nh5 13.Ra2 Nf4 14.Nxb6 axb6 15.g3 Nh5 16.Kg2 Nf6 17.Nh2 Qg6 18.Qe2 Rf7 19.a4 Rd8 20.a5 bxa5 21.b5 Nb8 22.Rxa5 Nbd7 23.Ra7 d5 24.f3 Nh5 25.Ng4 Nxg3 26.Kxg3 h5 27.Rxb7 hxg4 28.hxg4 Nc5 29.Ra7 dxe4 30.dxe4 Rdf8 31.Ba3 Rxf3+ 32.Rxf3 Nxe4+ 33.Kh2 Rd8 34.Bc1 Nf6 35.Rg3 Ne4 36.Rh3 Rf8 37.Rf3 Nf6 38.g5 e4 39.Rf1 Ng4+ 40.Kg1 1-0

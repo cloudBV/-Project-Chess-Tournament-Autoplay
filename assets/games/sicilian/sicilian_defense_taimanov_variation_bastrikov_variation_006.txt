@@ -1,0 +1,15 @@
+[Event "Round 1: Alsina Leal, Daniel - Hapala, Elisabeth"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-1/0wHvOVlz/KpvUDNJF"]
+[Date "2026.06.29"]
+[Round "1.1"]
+[White "Alsina Leal, Daniel"]
+[Black "Hapala, Elisabeth"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2107"]
+[ECO "B47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 Nf6 7.Be3 a6 8.Qd2 Bb4 9.Nxc6 bxc6 10.a3 Be7 11.g4 d5 12.g5 Nxe4 13.Nxe4 dxe4 14.Qc3 e5 15.Bc4 Bf5 16.h4 a5 17.O-O-O Bg4 18.Rdg1 Bf3 19.Rh3 Qd7 20.Rxf3 exf3 21.Qxe5 Rd8 22.Qxg7 Rf8 23.Qxh7 Bxa3 24.Qe4+ Be7 25.g6 f5 26.Qe5 1-0

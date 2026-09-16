@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "3.3"]
+[White "Chinguun, Sumiya"]
+[Black "Fernandez, Daniel Howard"]
+[Result "0-1"]
+[WhiteElo "2398"]
+[BlackElo "2529"]
+[ECO "C18"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Qg4 g6 8.Nf3 Qa5 9.Bd2 Qa4 10.Bd3 c4 11.Be2 h6 12.O-O Bd7 13.Qh4 Nce7 14.Rfb1 b6 15.Rb4 Qxc2 16.Bd1 Qd3 17.Qh3 g5 18.Rb2 Qh7 19.Bc2 Qg7 20.a4 Ng6 21.Qg3 N8e7 22.h4 Nf5 23.Bxf5 exf5 24.hxg5 hxg5 25.Bxg5 f4 26.Bxf4 Qh7 27.Nh2 O-O-O 28.a5 b5 29.e6 fxe6 30.Bg5 Rdf8 31.Qd6 Rf5 32.Be3 e5 33.Rab1 Qxh2+ 34.Kf1 Nf4 35.f3 Nxg2 36.Rxg2 Rxf3+ 37.Bf2 Qh1+ 38.Rg1 Rxf2+ 39.Kxf2 Rh2+ 40.Kg3 Rh3+ 41.Kf2 Qf3+ 42.Ke1 Qe3+ 0-1

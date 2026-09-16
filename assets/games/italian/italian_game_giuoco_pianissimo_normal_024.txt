@@ -1,0 +1,14 @@
+[Event "Round 2: Kufferath, Camille - Utsab Chatterjee"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-2/vaQgyEpD/FOfymsG1"]
+[Date "2026.07.19"]
+[Round "2.9"]
+[White "Kufferath, Camille"]
+[Black "Utsab Chatterjee"]
+[Result "0-1"]
+[WhiteElo "2112"]
+[BlackElo "2317"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nbd2 a6 6.h3 h6 7.a4 O-O 8.O-O Re8 9.c3 Ba7 10.a5 d6 11.Qb3 Re7 12.Re1 b5 13.axb6 cxb6 14.Qc2 b5 15.Bb3 Be6 16.Nf1 d5 17.Ng3 a5 18.exd5 Nxd5 19.Nxe5 Ndb4 20.cxb4 Nd4 21.Nc6 Nxc2 22.Nxd8 Nxa1 23.Nc6 Ree8 24.Bxe6 Rxe6 25.Rxe6 fxe6 26.bxa5 Nb3 27.Bf4 Bc5 28.Ne4 Ra6 29.Nxc5 Nxc5 30.Ne7+ Kf7 31.Nc8 Rxa5 32.d4 Nd3 33.Be5 Nxe5 34.dxe5 Ra1+ 35.Kh2 Rb1 36.Nd6+ Ke7 37.Nxb5 Rxb2 38.Nd4 Rxf2 39.Kg3 Ra2 40.Kf3 Rd2 41.Ne2 g5 42.Ng1 Kf7 43.g4 Ke7 44.Kg3 Kd7 45.Nf3 Rd3 46.Kf2 Kc6 47.Ke2 Rxf3 0-1

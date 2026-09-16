@@ -1,0 +1,15 @@
+[Event "Round 4: De Silva, L M S T - Advik Amit Agrawal"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-4/2N5Ezhl4/Zi8gI1pB"]
+[Date "2026.07.03"]
+[Round "4.2"]
+[White "De Silva, L M S T"]
+[Black "Advik Amit Agrawal"]
+[Result "1/2-1/2"]
+[WhiteElo "2393"]
+[BlackElo "2318"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Qc7 6.h4 e5 7.h5 h6 8.Qe2 Nf6 9.Nh2 d5 10.O-O Bd6 11.Nd2 Be6 12.b3 O-O 13.Bb2 Nd7 14.g4 Rfe8 15.Kh1 Nf8 16.Rg1 f6 17.Nhf1 Bf7 18.Ne3 Ne6 19.Nf5 Bf8 20.Qe1 Nd4 21.Rc1 dxe4 22.dxe4 Qa5 23.Ne3 Qxa2 24.Ndc4 Qa6 25.Kg2 Qc8 26.f3 Ne6 27.Kf2 Nf4 28.Rh1 Rd8 29.Qa5 Ne6 30.Rhd1 Qb7 31.Ra1 Nd4 32.Rd2 Rdb8 33.Qa6 Qc7 34.Bc3 Be6 35.Kg2 Bc8 36.Qa5 Qe7 37.Qa4 Qe6 38.Nf5 a5 39.Nxa5 Ba6 40.Qa2 Bb5 41.Qb2 Ra6 42.Ne3 Rba8 43.Kf2 Qe7 44.Qb1 f5 45.Nxf5 Nxf5 46.exf5 e4 47.Qe1 Rxa5 48.Bxa5 Rxa5 49.Rad1 c4 50.Qxe4 Qxe4 51.fxe4 c3 52.Rd8 Ra2 53.Rb8 Rxc2+ 54.Kg3 Re2 55.Rdd8 Kf7 56.Rxf8+ Ke7 57.e5 c2 58.Rfe8+ Kd7 59.Red8+ Kc7 1/2-1/2

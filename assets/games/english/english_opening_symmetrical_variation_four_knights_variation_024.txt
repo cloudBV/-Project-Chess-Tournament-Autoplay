@@ -1,0 +1,15 @@
+[Event "Round 5: Aaditya Dhingra - Avsar, Gediz"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-5/wuLhL5ga/dtutEJrZ"]
+[Date "2026.07.22"]
+[Round "5.2"]
+[White "Aaditya Dhingra"]
+[Black "Avsar, Gediz"]
+[Result "1/2-1/2"]
+[WhiteElo "2404"]
+[BlackElo "2376"]
+[ECO "A35"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 e5 5.d4 e4 6.d5 exf3 7.dxc6 dxc6 8.Qxd8+ Kxd8 9.gxf3 g6 10.b3 b6 11.Bb2 Bg7 12.O-O-O+ Kc7 13.h4 a5 14.Bd3 Nh5 15.a4 Be6 16.Ne4 h6 17.Ng3 Bxb2+ 18.Kxb2 Nf6 19.Kc3 Rad8 20.Be2 Rxd1 21.Rxd1 Ne8 22.f4 Nd6 23.Ra1 h5 24.e4 f5 25.e5 Nf7 26.Bf3 Nd8 27.Ne2 Re8 28.Rg1 Bf7 29.Rd1 Re7 30.Rd3 Rd7 31.Rxd7+ Kxd7 32.Ng1 Ne6 33.Nh3 Bg8 34.Be2 Kc7 35.Bd3 Kd7 36.Be2 Bf7 37.Bd1 Be8 38.Kd3 Ke7 39.Ke3 Nd4 40.Ng5 Bf7 41.Nf3 Ne6 42.Ng5 Nd4 43.Nf3 Ne6 1/2-1/2

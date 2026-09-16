@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "12.1"]
+[White "Pankiv, Maksym"]
+[Black "Rey Martinez, Jaime"]
+[Result "1-0"]
+[WhiteElo "2315"]
+[BlackElo "2279"]
+[ECO "B52"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nc6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Nf6 9.f3 Bg7 10.Be3 O-O 11.O-O Rfc8 12.b3 Rab8 13.Rc1 a6 14.Qd3 Nxd4 15.Bxd4 b5 16.cxb5 axb5 17.Kh1 Nh5 18.Nd5 Qb7 19.Bxg7 Nxg7 20.Rxc8+ Rxc8 21.a4 bxa4 22.bxa4 Qa7 23.a5 Rc5 24.a6 Ne6 25.Ra1 Rc6 26.Qb5 Nd8 27.h3 e6 28.Qa5 exd5 29.Qxd8+ Kg7 30.Qa5 d4 31.Qb5 Rc3 32.Qd5 d3 33.Qxd6 Rc2 34.Qxd3 Qf2 35.Qxc2 Qxc2 36.a7 1-0

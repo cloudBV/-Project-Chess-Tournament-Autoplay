@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/xIW9TxfK"]
+[Date "2026.07.07"]
+[Round "8.10"]
+[White "Lang, Simon"]
+[Black "Zrust, Lukas"]
+[Result "0-1"]
+[WhiteElo "2156"]
+[BlackElo "2081"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Nbd7 10.a4 b6 11.Qe2 Bb7 12.Nd2 Qc7 13.Bg5 Rfd8 14.Rfd1 Nf8 15.Bxf6 Bxf6 16.Nd5 Bxd5 17.Bxd5 Rab8 18.c3 b5 19.axb5 axb5 20.Ra6 Rb6 21.Ra2 Ng6 22.g3 Ne7 23.Nf1 b4 24.Bc4 bxc3 25.bxc3 Rc6 26.Ne3 Rc8 27.Rda1 Rb6 28.Ra3 Rcb8 29.Qa2 g6 30.Bxf7+ Kg7 31.Ra7 Qxc3 32.Kg2 Rb2 33.Qe6 Qxe3 34.Rxe7 Qxf2+ 35.Kh3 Qxh2+ 0-1

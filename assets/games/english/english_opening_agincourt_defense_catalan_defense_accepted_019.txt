@@ -1,0 +1,15 @@
+[Event "Round 7: Barbosa, Oliver - Lalit Babu M R"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-7/bCaGsiCi/mP5k560G"]
+[Date "2026.07.18"]
+[Round "7.2"]
+[White "Barbosa, Oliver"]
+[Black "Lalit Babu M R"]
+[Result "1/2-1/2"]
+[WhiteElo "2367"]
+[BlackElo "2513"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Nc3 Nc6 9.Nxd7 Qxd7 10.Qa4 Rc8 11.d3 Be7 12.O-O O-O 13.Be3 Rfd8 14.Rfc1 b6 15.Rab1 Nd4 16.Qxd7 Rxd7 17.Bxd4 Rxd4 18.Rc2 1/2-1/2

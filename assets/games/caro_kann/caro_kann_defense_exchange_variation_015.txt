@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.05"]
+[Round "1.1"]
+[White "Solodovnichenko, Yuri"]
+[Black "Herault, Theotime"]
+[Result "1-0"]
+[WhiteElo "2515"]
+[BlackElo "2181"]
+[ECO "B13"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.h3 Nc6 6.c3 g6 7.Nf3 Bf5 8.Be2 Qc7 9.O-O Bg7 10.Be3 O-O 11.Nbd2 h6 12.Re1 g5 13.a4 Bg6 14.h4 g4 15.Ne5 Nxe5 16.dxe5 Qxe5 17.Bxg4 Nxg4 18.Qxg4 Qf5 19.Qxf5 Bxf5 20.Bc5 Rfe8 21.Bxe7 d4 22.c4 d3 23.Rab1 Rac8 24.Kf1 a5 25.f3 Be6 26.Ba3 Bf6 27.Re4 Red8 28.Rd1 b6 29.b3 h5 30.Bc1 Kg7 31.Nb1 Kg6 32.Bg5 Bxg5 33.hxg5 Bf5 34.Ree1 Kxg5 35.Rd2 Re8 36.Nc3 Rxe1+ 37.Kxe1 Re8+ 38.Kf2 h4 39.Rd1 Re6 40.Rd2 Re8 41.Nd5 Re6 42.Rb2 Bg6 43.g3 hxg3+ 44.Kxg3 Rd6 45.Rd2 Bf5 46.Rg2 Be6 47.Rd2 Bf5 48.Rd1 Rg6 49.Kf2 Re6 50.Rg1+ Kh6 51.Ne3 Bg6 52.Rd1 Kg5 53.Rd2 Kf4 54.Nd5+ Kg5 55.Kg3 Bf5 56.Rg2 Bg6 57.Nf4 Rd6 58.Rd2 Bf5 59.Ng2 Re6 60.Kf2 Bg6 61.Ne3 Kf4 62.Nd5+ Kg5 63.Rb2 Bf5 64.b4 axb4 65.Nxb4 Rd6 66.Nd5 Rc6 67.Nxb6 Be6 68.Ke3 Bxc4 69.Nxc4 Rxc4 70.Ra2 Rc6 71.a5 Ra6 72.Ra4 Kf5 73.Kxd3 Ke6 74.Kc4 Kd7 75.Kb5 Rh6 76.a6 Kc7 77.Rc4+ Kb8 78.Rc6 Rh1 79.Rf6 Rb1+ 80.Kc5 Rc1+ 81.Kd6 Rc7 82.Rf4 Ra7 83.Ra4 Kc8 84.f4 f5 85.Ke6 Kd8 86.Rd4+ Ke8 87.Rd6 Kf8 88.Rd8+ Kg7 89.Rd7+ 1-0

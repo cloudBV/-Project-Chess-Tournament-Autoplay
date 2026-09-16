@@ -1,0 +1,14 @@
+[Event "Round 1: Dimitrov, Atanas - Krallis, Christos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/l28qZrxV"]
+[Date "2026.07.10"]
+[Round "1.31"]
+[White "Dimitrov, Atanas"]
+[Black "Krallis, Christos"]
+[Result "0-1"]
+[WhiteElo "2245"]
+[BlackElo "2424"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.g3 Nf6 9.Bg2 h6 10.O-O Be7 11.Nd5 O-O 12.Be3 Bxd5 13.cxd5 Nb8 14.Nc4 Nbd7 15.b4 b6 16.Rc1 Ne8 17.a4 Bg5 18.f4 exf4 19.gxf4 Bh4 20.Bd4 Bf6 21.Bf2 Bh4 22.Bd4 Bf6 23.e4 Rc8 24.Qd2 Bxd4+ 25.Qxd4 Qh4 26.Qf2 Qxf2+ 27.Kxf2 Rc7 28.Ke3 g5 29.fxg5 hxg5 30.Bh3 Ndf6 31.Kd4 b5 32.axb5 axb5 33.Na3 Re7 34.Bg2 Kg7 35.Rfe1 Rh8 36.h3 Nc7 37.Rxc7 Rxc7 38.Nxb5 Rc2 39.Bf1 Rb8 40.Nxd6 Rxb4+ 41.Nc4 Rf2 42.e5 Nd7 43.e6 fxe6 44.dxe6 Nf6 45.Kc5 Rb7 46.Kc6 Re7 47.Kd6 Kf8 48.Ke5 Nh5 49.Nb6 Nf4 50.Nd7+ Kg7 51.Nc5 Rd2 52.Kf5 Kh6 53.Bc4 Rd8 54.Nd7 Ng6 55.Kf6 Rde8 56.Ne5 Rf8+ 57.Nf7+ Rfxf7+ 58.exf7 Rxe1 0-1

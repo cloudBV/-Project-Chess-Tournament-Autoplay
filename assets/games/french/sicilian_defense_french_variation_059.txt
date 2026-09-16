@@ -1,0 +1,14 @@
+[Event "Round 1: Sivanandan, Bodhana - Maurizzi, MarcAndria"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/Ynn5ieWF"]
+[Date "2026.07.18"]
+[Round "1.8"]
+[White "Sivanandan, Bodhana"]
+[Black "Maurizzi, MarcAndria"]
+[Result "1-0"]
+[WhiteElo "2303"]
+[BlackElo "2628"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nc3 d6 6.d4 cxd4 7.Nxd4 Bd7 8.O-O Be7 9.Re1 O-O 10.Nxc6 Bxc6 11.Be3 a6 12.a4 Rc8 13.Qe2 Qa5 14.Red1 Rfd8 15.Bd4 h6 16.e5 dxe5 17.Bxe5 Bxg2 18.Kxg2 Qb4 19.Rxd8+ Rxd8 20.Rb1 Nd7 21.Bf4 Nc5 22.Qf3 Rd7 23.b3 g5 24.Bc1 g4 25.Qe3 Bg5 26.Qe1 Bf6 27.Bb2 Qb6 28.b4 Qxb4 29.Nd5 Qxb2 30.Rxb2 Bxb2 31.Nb6 Rc7 32.Qb4 Bg7 33.Qxg4 Nd7 34.Nc4 Nf6 35.Qe2 Nd5 36.Nd6 Rd7 37.Ne4 Nc3 38.Nxc3 Bxc3 39.Qc4 1-0

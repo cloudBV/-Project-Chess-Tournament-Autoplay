@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.6"]
+[White "Samant Aditya S"]
+[Black "Xie, Felix"]
+[Result "1-0"]
+[WhiteElo "2516"]
+[BlackElo "2389"]
+[ECO "B51"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.h3 Qb6 7.a4 e5 8.d3 Be7 9.Nc3 O-O 10.Bg5 Be6 11.Bc4 Qd8 12.Bxf6 Bxf6 13.Nd5 Rb8 14.c3 a6 15.Qd2 b5 16.axb5 axb5 17.Ba2 Ne7 18.Nxf6+ gxf6 19.Bxe6 fxe6 20.d4 Qb6 21.dxe5 dxe5 22.Nh4 Rbd8 23.Qh6 Rf7 24.Red1 Nc6 25.Qe3 b4 26.Rxd8+ Nxd8 27.Ra8 bxc3 28.bxc3 Rd7 29.Rc8 Kg7 30.Kh2 Qb1 31.Qxc5 Qd3 32.Rxd8 Rxd8 33.Qe7+ Kg8 34.Qxe6+ Kg7 35.Qe7+ 1-0

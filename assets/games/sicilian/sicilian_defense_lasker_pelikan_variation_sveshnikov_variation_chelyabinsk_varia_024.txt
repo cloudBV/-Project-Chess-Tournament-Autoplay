@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.18"]
+[Round "8.11"]
+[White "Bezemer, Arno"]
+[Black "Edwardss, Dylan"]
+[Result "1-0"]
+[WhiteElo "2154"]
+[BlackElo "2214"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Rb8 12.Nc2 Bg5 13.a4 bxa4 14.Ncb4 Nxb4 15.cxb4 Bd7 16.Bxa6 O-O 17.O-O Bc6 18.Rxa4 Qd7 19.b5 Bxb5 20.Bxb5 Rxb5 21.b4 Rc8 22.Ra6 Bd8 23.Qa4 Rcb8 24.Rd1 Qe6 25.Ra8 h5 26.Rc1 f5 27.Qa7 R5b7 28.Qxb8 1-0

@@ -1,0 +1,15 @@
+[Event "Famalicao Open"]
+[Site "https://lichess.org/broadcast/xiii-torneio-internacional-cidade-de-famalicao/round-3/UPHHcuml/01XblsGC"]
+[Date "2026.07.21"]
+[Round "3.7"]
+[White "Goncalves, Lucas Jordao"]
+[Black "Piccoli, Lucas Fonseca"]
+[Result "1-0"]
+[WhiteElo "2063"]
+[BlackElo "2290"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Bg4 6.h3 Bh5 7.d3 e6 8.Bd2 Nbd7 9.g4 Bg6 10.Nxf6+ gxf6 11.Bc3 Be7 12.Bg2 Qc7 13.O-O-O O-O-O 14.Nd2 h5 15.Qe3 Bc5 16.Qf3 hxg4 17.hxg4 Rhg8 18.Bxf6 Nxf6 19.Qxf6 Bd4 20.Qf3 Qe5 21.Nc4 Qc5 22.Rhf1 Qg5+ 23.Kb1 f5 24.Qe2 Qxg4 25.Bf3 Qf4 26.c3 Bh8 27.Qxe6+ Kc7 28.Nd2 Rde8 29.Qb3 Rgf8 30.d4 Bf7 31.Qa3 Bf6 32.d5 Rd8 33.dxc6 Qd6 34.Qxa7 Qd3+ 35.Ka1 Qa6 36.Qxb7+ Qxb7 37.cxb7 Rd3 38.Be2 Rd6 1-0

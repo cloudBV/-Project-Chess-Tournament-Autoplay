@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.10"]
+[White "Perez Sousa, Xabier"]
+[Black "Vazquez, Facundo"]
+[Result "0-1"]
+[WhiteElo "2107"]
+[BlackElo "2402"]
+[ECO "E10"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 O-O 7.O-O dxc4 8.Bxb4 axb4 9.Ne5 Nc6 10.Nxc6 bxc6 11.Bxc6 Ra5 12.Bg2 Qd6 13.e3 e5 14.dxe5 Qxe5 15.Nd2 Ba6 16.Qc2 c3 17.Nf3 Qe4 18.Qxe4 Nxe4 19.Rfb1 Bd3 20.bxc3 Bxb1 21.cxb4 Rxa2 22.Rxb1 Nxf2 23.Ne5 Rd2 24.Rf1 Nd3 25.Nxd3 Rxd3 26.Rc1 Rxe3 27.Rxc7 Rb3 28.Rb7 Rb2 29.b5 Rd8 30.Bd5 g6 31.Bxf7+ Kf8 0-1

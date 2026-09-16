@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "2.5"]
+[White "Lie, Kjetil A."]
+[Black "Grave, Jacob Templen"]
+[Result "1/2-1/2"]
+[WhiteElo "2459"]
+[BlackElo "2392"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Bd6 5.c4 O-O 6.d4 h6 7.Nc3 Nc6 8.c5 Be7 9.Rb1 a5 10.a3 b6 11.b4 bxc5 12.dxc5 axb4 13.axb4 e5 14.b5 e4 15.Nd4 Nxd4 16.Qxd4 Be6 17.Rd1 c6 18.bxc6 Ra6 19.Be3 Rxc6 20.Rb5 Ng4 21.Nxd5 Qxd5 22.Qxd5 Bxd5 23.Rxd5 Nxe3 24.fxe3 Rfc8 25.Bxe4 Rxc5 26.Rdxc5 Bxc5 27.Kf2 Kf8 28.Bd5 Rc7 29.Kf3 Ke7 30.e4 Kd6 31.e3 Ke5 32.Bb3 f6 33.h4 g5 34.h5 g4+ 35.Kxg4 Kxe4 36.Bc2+ Kxe3 37.Rb3+ Kd2 38.Bg6 Be3 39.Rb2+ Kc1 40.Rb1+ Kd2 41.Rb2+ Kc1 42.Rb1+ Kd2 43.Rb2+ 1/2-1/2

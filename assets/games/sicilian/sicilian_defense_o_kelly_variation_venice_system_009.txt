@@ -1,0 +1,14 @@
+[Event "Round 9: Mamikonyan, Artem T - Bukal, Vladimir Jr."]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/PrUN0KT5"]
+[Date "2026.07.11"]
+[Round "9.30"]
+[White "Mamikonyan, Artem T"]
+[Black "Bukal, Vladimir Jr."]
+[Result "1/2-1/2"]
+[WhiteElo "2210"]
+[BlackElo "2282"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be2 e6 7.O-O Be7 8.Ne5 O-O 9.Bf3 Qd8 10.Qb3 Ra7 11.dxc5 Nbd7 12.Nxd7 Nxd7 13.c6 bxc6 14.Bxc6 Ne5 15.Be4 f5 16.Be3 Rc7 17.Rd1 Bd6 18.Bf4 Qf6 19.Ba8 g5 20.Rxd6 gxf4 21.Nd2 Qe7 22.Rd4 Ng6 23.Re1 Kh8 24.Qb4 Qg7 25.Nc4 Bb7 26.Bxb7 Rxb7 27.Qd6 Nh4 28.g3 Nf3+ 29.Kf1 fxg3 30.hxg3 Nxd4 31.cxd4 f4 32.gxf4 Rd7 33.Qxe6 Rxf4 34.Nd6 Rf6 35.Qe8+ Rf8 36.Qe5 Qf6 37.Ne4 Qg7 38.Nd6 h6 39.Re3 Kh7 40.Rg3 Qf6 41.Ne4 Qc6 42.Rc3 Qb5+ 43.Qxb5 axb5 44.Rd3 Rf4 45.f3 Kg6 46.d5 Kf5 47.d6 Ke5 48.Rb3 Rh4 49.Rxb5+ Kf4 50.Ke2 Rh2+ 51.Kd3 h5 52.Kd4 h4 53.Rb8 Kxf3 54.Rf8+ Kg2 55.Ke5 Kh1 56.Rb8 Re2 57.Kd5 Kg2 58.Kc6 Rg7 59.d7 Rxd7 60.Kxd7 Rxe4 61.Kc6 h3 62.Rg8+ Kh1 63.Kc5 h2 64.Rh8 Re2 1/2-1/2

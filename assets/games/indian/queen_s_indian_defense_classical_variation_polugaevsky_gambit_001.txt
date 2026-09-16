@@ -1,0 +1,15 @@
+[Event "Round 8: Rensch, Daniel - Chu, Alex Haoning"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-8/fKPSQ5CP/h35ME9nk"]
+[Date "2026.07.04"]
+[Round "8.20"]
+[White "Rensch, Daniel"]
+[Black "Chu, Alex Haoning"]
+[Result "1-0"]
+[WhiteElo "2401"]
+[BlackElo "2071"]
+[ECO "E17"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Polugaevsky Gambit"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d5 exd5 8.Nh4 c6 9.cxd5 Nxd5 10.Nf5 d6 11.e4 Nf6 12.Nc3 g6 13.Nxe7+ Qxe7 14.Bg5 Nbd7 15.f4 Kg7 16.Qd2 h6 17.Bh4 Qe6 18.Rad1 Ne8 19.e5 d5 20.Ne4 Ba6 21.Rfe1 Nc5 22.Nf6 Nc7 23.g4 Nd3 24.Rf1 Nc5 25.Rf2 Rad8 26.Re1 Nd3 27.f5 Qc8 28.g5 h5 29.e6 Nxf2 30.e7 Ne4 31.exf8=Q+ Kxf8 32.Nxe4 dxe4 33.Qb4+ c5 34.Qxe4 Re8 1-0

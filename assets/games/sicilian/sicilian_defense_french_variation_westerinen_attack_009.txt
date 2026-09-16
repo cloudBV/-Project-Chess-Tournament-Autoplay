@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "8.9"]
+[White "Meszaros, Casey Ryan"]
+[Black "Lecki, Leonard"]
+[Result "0-1"]
+[WhiteElo "2096"]
+[BlackElo "2277"]
+[ECO "B40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 d6 5.d4 cxd4 6.Nxd4 Nxd4 7.Bxd4 Nf6 8.Bd3 Be7 9.Nd2 O-O 10.O-O e5 11.Bb2 Be6 12.c4 Rc8 13.Re1 a6 14.Nf1 Qd7 15.Qe2 Bd8 16.Kh1 Re8 17.Red1 Bb6 18.Ng3 Qd8 19.f3 h5 20.Bc2 h4 21.Nf5 Bxf5 22.exf5 Kh7 23.Qd2 Bc5 24.Qg5 Rh8 25.Bxe5 dxe5 26.Rxd8 Rcxd8 27.Qxh4+ Kg8 28.Qe1 Nh5 29.g4 Nf4 30.Rd1 Bd4 31.Qe4 Rd6 32.Qxb7 Rxh2+ 0-1

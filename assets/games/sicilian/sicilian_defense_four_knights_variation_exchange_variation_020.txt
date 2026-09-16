@@ -1,0 +1,15 @@
+[Event "Round 3: Alaghehmand, Arshia - Wang, Yinuo(LN)"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-3/oM2V3IIP/1x4RXm33"]
+[Date "2026.07.18"]
+[Round "3.13"]
+[White "Alaghehmand, Arshia"]
+[Black "Wang, Yinuo(LN)"]
+[Result "1/2-1/2"]
+[WhiteElo "2237"]
+[BlackElo "2136"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.a3 Ne3 11.Qd3 Nxf1 12.Rxf1 Ba6 13.c4 f5 14.Nd6+ Bxd6 15.exd6 c5 16.Rf3 Bb7 17.Rg3 Rg8 18.Be3 Qxb2 19.Rb1 Be4 20.Rxb2 Bxd3 21.Bxc5 Bxc4 22.Rb7 Bd5 23.Rxa7 Rxa7 24.Bxa7 Kf7 25.Bd4 h6 26.h4 g6 27.a4 Ra8 28.h5 Rg8 29.hxg6+ Rxg6 30.Rxg6 Kxg6 31.g3 Kh5 32.Kf2 Kg4 33.a5 Bc4 34.Bf6 h5 35.Be5 Bb5 36.Bf6 Bc4 37.Bh4 Bd3 38.Ke3 Bb5 39.Kd4 Kf3 40.Kc5 Bc6 41.a6 Ke4 42.Kb6 e5 43.fxe5 Kxe5 44.Kc7 Ke4 45.a7 Kf3 46.a8=Q Bxa8 47.Kxd7 Bd5 48.Ke7 Bc6 49.d7 Bxd7 50.Kxd7 f4 1/2-1/2

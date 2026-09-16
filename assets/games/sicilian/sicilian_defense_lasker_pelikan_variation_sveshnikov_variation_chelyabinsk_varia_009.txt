@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "8.5"]
+[White "Andriasian, Zaven"]
+[Black "Hilby, Craig"]
+[Result "1/2-1/2"]
+[WhiteElo "2538"]
+[BlackElo "2416"]
+[ECO "B33"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c4 b4 13.Nc2 O-O 14.g3 a5 15.Bg2 g6 16.O-O Bg7 17.Qd3 Be6 18.Rfd1 Qb8 19.b3 Rd8 20.Rd2 Qa7 21.Rad1 Bxd5 22.cxd5 Nb8 23.Ne1 Nd7 24.Rc2 Nc5 25.Qe3 a4 26.Bf1 axb3 27.axb3 f5 28.exf5 gxf5 29.Rc4 Qa3 30.Rxc5 dxc5 31.Bc4 e4 32.Qxc5 Qb2 33.Kg2 Kh8 34.Qxb4 f4 35.gxf4 Rg8 36.Kf1 e3 37.Be2 Ra1 38.Nd3 Rxd1+ 39.Bxd1 Qb1 40.Ke2 exf2 41.Nxf2 Qb2+ 42.Kf3 Bd4 43.Qe1 Qc1 44.Nd3 Qc8 45.Qe6 Qc3 46.Qe2 Qc8 47.Qe6 Qc3 48.Qe2 1/2-1/2

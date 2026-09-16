@@ -1,0 +1,14 @@
+[Event "Round 1: Zizic, Djordje - Kalezic, Blazo"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-1/HpSVQtBg/iYS5usFu"]
+[Date "2026.07.04"]
+[Round "1.26"]
+[White "Zizic, Djordje"]
+[Black "Kalezic, Blazo"]
+[Result "0-1"]
+[WhiteElo "2155"]
+[BlackElo "2400"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 b6 4.c3 Qd7 5.Nf3 Ne7 6.Nbd2 a5 7.b4 axb4 8.cxb4 Ba6 9.a3 Ng6 10.Nb3 Bxf1 11.Rxf1 Be7 12.Qd3 O-O 13.Be3 f6 14.g3 Nc6 15.b5 Na5 16.Nbd2 fxe5 17.dxe5 Nc4 18.Nxc4 Rxf3 19.a4 Qe8 20.Nd2 Nxe5 21.Qe2 Rf7 22.Bd4 Ng6 23.Qxe6 Bf6 24.Qe3 Bxd4 0-1

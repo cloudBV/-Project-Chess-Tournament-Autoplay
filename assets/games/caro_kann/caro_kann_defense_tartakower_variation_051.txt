@@ -1,0 +1,15 @@
+[Event "Round 8: Gucer, Gunes - Khalafvand, Dorsa Sadat"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/EARCXXZe"]
+[Date "2026.07.18"]
+[Round "8.35"]
+[White "Gucer, Gunes"]
+[Black "Khalafvand, Dorsa Sadat"]
+[Result "0-1"]
+[WhiteElo "2006"]
+[BlackElo "2072"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h6 10.Be3 Nd7 11.O-O-O Rb8 12.c4 f5 13.Bxf5 Nf6 14.Bxc8 Qxc8 15.Rhe1 b5 16.c5 Bc7 17.Kb1 Qd7 18.g3 Ba5 19.Bd2 Bxd2 20.Qxd2 Qf5+ 21.Qc2 Qxf2 22.Nc3 Qxe1 23.Rxe1 Rxe1+ 24.Nd1 Nd5 25.a3 Ne3 26.Qe4 Rxd1+ 27.Ka2 Nd5 28.Qe2 Rc1 29.Qe5 Rd8 30.Qe2 Rc4 31.Qe5 Rc2 32.Qe1 Rxh2 33.Qa5 Re8 34.Qa6 Re6 35.g4 Kh7 36.Qc8 Rf6 37.Qe8 Rff2 0-1

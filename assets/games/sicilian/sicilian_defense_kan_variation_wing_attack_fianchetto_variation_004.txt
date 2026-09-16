@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "9.7"]
+[White "Stepinski, Piotr"]
+[Black "Borischik, Sergey"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2229"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.g3 Bb7 7.Bg2 Nf6 8.O-O b4 9.Na4 Nxe4 10.Re1 d5 11.c4 bxc3 12.Nxc3 Nxc3 13.bxc3 Be7 14.Qb3 Qd7 15.c4 O-O 16.cxd5 Bxd5 17.Bxd5 exd5 18.Bb2 Bf6 19.Rad1 Rd8 20.Qb6 Ra7 21.Ba3 Rb7 22.Qc5 h6 23.Nb3 Nc6 24.Qe3 Qg4 25.f3 Qf5 26.Qd3 Qh5 27.Bc5 d4 28.Re4 Rxb3 29.axb3 Qxc5 30.Qxa6 Ne5 31.Qe2 d3+ 32.Qf2 Nxf3+ 33.Kg2 Qxf2+ 34.Kxf2 Ne5 35.b4 Rb8 36.Ke3 g6 37.h3 Kg7 38.Rf1 h5 39.h4 Rb5 40.Ref4 Rb6 41.Re4 Rd6 42.Kd2 Nd7 43.b5 Nb6 44.Ref4 Nd5 45.Rc4 Rb6 46.Rc5 Nb4 47.Rf4 Be7 48.Re5 Bd6 49.Ree4 Bxf4+ 50.Rxf4 Rxb5 51.Rd4 Kf6 52.Rd6+ Kf5 53.Rd7 f6 54.Rd4 Nc6 55.Rf4+ Ke5 56.Kxd3 Rb3+ 57.Ke2 Rxg3 58.Rc4 Nd4+ 59.Kf2 Rf3+ 60.Kg2 Rd3 61.Rc5+ Ke6 0-1

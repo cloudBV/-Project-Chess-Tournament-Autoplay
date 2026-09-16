@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "7.1"]
+[White "Aydogan, Arya"]
+[Black "Korolchuk, Vladyslava"]
+[Result "1/2-1/2"]
+[WhiteElo "2056"]
+[BlackElo "2027"]
+[ECO "B50"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 Bd7 5.Qc2 Qc7 6.O-O g6 7.d3 Bg7 8.h3 O-O 9.Bf4 e5 10.Bh2 Be6 11.Ng5 Nc6 12.Nxe6 fxe6 13.f4 exf4 14.Bxf4 Qd7 15.Nd2 Rf7 16.Nc4 e5 17.Bh2 Bh6 18.Qb3 Kg7 19.Rf3 Raf8 20.Raf1 b6 21.Bg3 Bg5 22.Qc2 b5 23.Nd2 h5 24.Nb3 Qe6 25.Be1 a5 26.Bd2 Nh7 27.Rxf7+ Rxf7 28.Bxg5 Nxg5 29.Qd2 Rxf1+ 30.Bxf1 Qf6 31.Qf2 a4 32.Qxf6+ Kxf6 33.Nd2 b4 34.Kf2 a3 35.cxb4 cxb4 36.bxa3 bxa3 37.Nc4 Ke7 38.Nxa3 Nb4 39.Ke3 Ne6 40.Nb5 Nxa2 41.d4 Nb4 42.dxe5 dxe5 43.g3 Kf6 44.Bc4 Nc2+ 45.Kd3 Ncd4 46.Bxe6 Nxb5 47.Bd7 Nd4 48.Ke3 g5 49.Bc8 Nc2+ 50.Kd3 Nd4 51.Ke3 Nb5 52.Bd7 Nd4 53.Bc8 h4 54.gxh4 gxh4 55.Bd7 Kg5 56.Bc8 Nc2+ 57.Kd3 Nd4 58.Ke3 Nb3 59.Be6 Nd4 60.Bd7 Nc2+ 61.Kd3 Ne1+ 62.Ke2 Nc2 63.Kd3 Nd4 64.Ke3 1/2-1/2

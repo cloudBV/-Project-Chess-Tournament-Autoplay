@@ -1,0 +1,15 @@
+[Event "Round 9: Shilon Rahav, Eliran - Margolin-Herman, Ofek"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-9/AS2EnOQA/RJBW1k99"]
+[Date "2026.07.21"]
+[Round "9.15"]
+[White "Shilon Rahav, Eliran"]
+[Black "Margolin-Herman, Ofek"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2039"]
+[ECO "B84"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.Be3 Be7 8.g4 d5 9.exd5 Nxd5 10.Nxd5 Qxd5 11.Bf3 Qc4 12.Qe2 Qxe2+ 13.Bxe2 e5 14.Nf5 Bxf5 15.gxf5 Nc6 16.O-O-O Rc8 17.Rhg1 Bf6 18.Bf3 Rc7 19.Bb6 Rd7 20.Rxd7 Kxd7 21.Rd1+ Kc8 22.Bd5 Bd8 23.Be3 f6 24.Be6+ Kb8 25.Rd7 g6 26.Bh6 Be7 27.Bg7 Rd8 28.Rxe7 Nxe7 29.Bxf6 gxf5 30.Bxe7 Rd4 31.Bf6 Ka8 32.Bxe5 Re4 33.f4 Re2 34.h3 h5 35.Bxf5 Rf2 36.Bg6 h4 37.Bd6 Rf3 38.f5 1-0

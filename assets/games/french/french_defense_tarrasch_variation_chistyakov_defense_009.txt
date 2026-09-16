@@ -1,0 +1,15 @@
+[Event "Round 2: Yudasin, Leonid - Altman, Joshua"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-2/gGRN6RNO/wA5KW8I0"]
+[Date "2026.07.08"]
+[Round "2.5"]
+[White "Yudasin, Leonid"]
+[Black "Altman, Joshua"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2218"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.dxc5 Nf6 6.Ngf3 Qxc5 7.Bd3 Nbd7 8.O-O Be7 9.Qe2 O-O 10.Nb3 Qc7 11.c4 b6 12.Bg5 Bb7 13.Bh4 Nc5 14.Nxc5 bxc5 15.Ne5 Rad8 16.Bg3 Qb6 17.Rfd1 Rd4 18.Nf3 Bxf3 19.Qxf3 Bd6 20.Qe2 Bxg3 21.hxg3 Rfd8 22.Qc2 g6 23.Be2 Rxd1+ 24.Bxd1 Qb4 25.Qc3 Qxc3 26.bxc3 Ne4 0-1

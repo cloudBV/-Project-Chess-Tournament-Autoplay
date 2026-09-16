@@ -1,0 +1,15 @@
+[Event "Round 8: Ozen, Sadettin Alperen - Dargali, Hakan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/b1gz9Y4S"]
+[Date "2026.07.18"]
+[Round "8.37"]
+[White "Ozen, Sadettin Alperen"]
+[Black "Dargali, Hakan"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2101"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Nf6 5.e5 Nd5 6.c4 Nf4 7.g3 Ng6 8.Bg2 d5 9.exd6 e5 10.O-O Bxd6 11.Re1 O-O 12.Nc3 Bf5 13.d3 Nb4 14.Ne4 Be7 15.Qe2 f6 16.a3 Nc6 17.Rad1 Qd7 18.Nc3 Bd8 19.Nd5 Bg4 20.b4 Nd4 21.Bxd4 cxd4 22.Qf1 Rc8 23.h3 Bf5 24.Nd2 b5 25.Ne4 bxc4 26.dxc4 Bxe4 27.Bxe4 f5 28.Bg2 Bf6 29.c5 Rfd8 30.Qa6 Rc6 31.Qc4 Kf8 32.b5 Rcc8 33.c6 Qd6 34.Ne3 Ne7 35.Qa4 Qc7 36.Nc4 e4 37.Qb4 Kf7 38.Qb3 Kf8 39.a4 Nd5 40.g4 g6 41.gxf5 gxf5 42.Qa3+ Qe7 43.Qxe7+ Kxe7 44.Bxe4 fxe4 45.Rxe4+ Kf7 46.Rde1 d3 47.Re6 Rc7 48.Nd6+ Kg6 49.Ne8 Re7 50.Nxf6 Rxe6 51.Rxe6 d2 52.Nxd5+ Kf7 53.Re7+ Kf8 0-1

@@ -1,0 +1,14 @@
+[Event "Round 2: Sadhwani, Raunak - Narayanan, Samrug"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-2/8RPxIWlY/kuFVFAR2"]
+[Date "2026.07.19"]
+[Round "2.4"]
+[White "Sadhwani, Raunak"]
+[Black "Narayanan, Samrug"]
+[Result "1/2-1/2"]
+[WhiteElo "2634"]
+[BlackElo "2436"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 c5 3.Nf3 Nf6 4.d4 cxd4 5.Nxd4 d5 6.cxd5 Nxd5 7.Bd2 Bc5 8.Nb3 Be7 9.g3 b6 10.Bg2 Bb7 11.O-O O-O 12.Rc1 Nxc3 13.Bxc3 Bxg2 14.Kxg2 Nd7 15.Qd3 Nf6 16.Qf3 Qd5 17.Rfd1 Qxf3+ 18.Kxf3 Nd5 19.Bd2 Rfc8 20.e4 Nb4 21.Bxb4 Bxb4 22.Rd7 a5 23.a3 Bf8 24.Rcc7 Rxc7 25.Rxc7 Rd8 26.Ke2 g5 27.Nd2 Bg7 28.b3 Bd4 29.Nf3 g4 30.Nxd4 Rxd4 31.Ke3 Rd1 32.Rb7 a4 33.Rxb6 Ra1 34.b4 Rxa3+ 35.Kd4 Ra2 36.Ra6 Rxf2 37.b5 Rxh2 38.b6 Rb2 39.Kc5 h5 40.Rxa4 h4 41.Rb4 Rxb4 42.Kxb4 h3 43.b7 h2 44.b8=Q+ Kh7 45.Qf4 1/2-1/2

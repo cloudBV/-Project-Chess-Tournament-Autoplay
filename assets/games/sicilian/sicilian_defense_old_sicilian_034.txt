@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.11"]
+[White "Pulpan, Jakub"]
+[Black "Safar, Sandro"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2178"]
+[ECO "B30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Na3 g6 4.Bb5 Bg7 5.O-O Nf6 6.Re1 O-O 7.Bxc6 dxc6 8.d3 Bg4 9.h3 Bxf3 10.Qxf3 h6 11.Bf4 Nh5 12.Bc1 e5 13.Be3 Qe7 14.Nc4 Kh7 15.a4 b6 16.a5 Qc7 17.Ra2 Nf4 18.Bxf4 exf4 19.axb6 axb6 20.Rxa8 Rxa8 21.e5 Re8 22.Re4 b5 23.Nd6 Rxe5 24.Ne8 Qb8 25.Nxg7 Rxe4 26.Qxe4 Kxg7 27.Qxc6 Qe5 28.Kf1 b4 29.Qb5 h5 30.Qc4 Qf5 31.Ke2 g5 32.Qe4 Qf6 33.Qd5 Kg6 34.Kd2 Qb6 35.Qe4+ Kh6 36.h4 f6 37.Ke2 Qd6 38.Kf3 g4+ 39.Ke2 Qe5 40.Kd2 Kg7 41.c3 bxc3+ 42.bxc3 Kf7 43.Qh7+ Ke6 44.Qg8+ Kd6 45.Qd8+ Kc6 46.d4 cxd4 47.Qxd4 Qf5 48.Qc4+ Kd6 49.Qd3+ Qd5 50.f3 f5 51.c4 Qxd3+ 52.Kxd3 Ke5 53.Kc3 Ke6 54.Kd4 Kd6 55.c5+ Kc6 56.Kc4 Kc7 57.Kd5 Kd7 58.Ke5 Kc6 59.Kxf5 gxf3 60.gxf3 Kxc5 61.Kxf4 Kd6 62.Kg5 Ke6 63.f4 Kf7 64.Kxh5 1-0

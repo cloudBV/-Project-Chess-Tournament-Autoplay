@@ -1,0 +1,14 @@
+[Event "Round 6: Gorshtein, Ido - Narayanan, Samrug"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-6/tmWKDGFl/uyuEnyGu"]
+[Date "2026.07.23"]
+[Round "6.15"]
+[White "Gorshtein, Ido"]
+[Black "Narayanan, Samrug"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2436"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.c4 Nf6 2.Nf3 e6 3.b3 d5 4.Bb2 b6 5.cxd5 exd5 6.g3 Bb7 7.Bg2 Nbd7 8.O-O Bd6 9.Nc3 O-O 10.Nb5 Be7 11.Rc1 c5 12.d4 a6 13.Nc3 Rc8 14.e3 Re8 15.a4 Bf8 16.Ne2 Rc7 17.a5 bxa5 18.Ra1 c4 19.Nd2 Qc8 20.Bc3 Bb4 21.Qb1 Bxc3 22.Nxc3 cxb3 23.Na4 Bc6 24.Nxb3 Bb5 25.Nac5 Nxc5 26.Nxc5 Bxf1 27.Qxf1 Rc6 28.Rxa5 Qc7 29.Qa1 Ra8 30.Qa2 Rd6 31.Bf3 Rb8 32.Kg2 Rb5 33.Ra4 g6 34.h4 h6 35.Be2 Rbb6 36.Bf3 Kg7 37.Ra3 Rd8 38.Rc3 Qd6 39.Qc2 a5 40.Nd3 Rd7 41.Rc8 Ra7 42.h5 gxh5 43.Nf4 Rbb7 44.Qf5 Rb8 45.Rc5 Re8 46.Bxd5 Qd7 47.Qc2 Rg8 48.Bc6 Qe7 49.e4 h4 50.e5 Nh7 51.Be4 Ng5 52.Rc6 Ne6 53.Nxe6+ fxe6 54.d5 hxg3 55.Rxe6 Qh4 56.Rg6+ Kh8 57.fxg3 Rxg6 58.Bxg6 Qd4 59.Qc8+ Kg7 60.Qe6 Qd2+ 61.Kh3 Qg5 62.Qb6 Re7 63.d6 Rxe5 64.d7 Rd5 65.Qe6 Rxd7 66.Qxd7+ Kxg6 67.Qe8+ Kf5 68.Qc8+ Ke4 69.Qc4+ Ke3 70.Qc3+ Ke2 71.Qc4+ Kd1 72.Qa4+ Kc1 73.Qc4+ Kb2 74.Qd4+ Kb3 75.Qd3+ Kb4 76.Qd4+ Kb5 77.Qd3+ Kc5 78.Qc3+ Kb6 79.g4 Qf4 80.Qb3+ Ka7 81.Qd5 Qe3+ 82.Kg2 Kb6 83.Qd6+ Kb5 84.Qd5+ Qc5 85.Qb3+ Ka6 86.Qe6+ Qb6 87.Qc4+ Ka7 88.Kh3 Qe3+ 89.Kh2 Kb6 90.Kg2 Qc5 91.Qb3+ Ka7 92.Qf7+ Ka6 93.Qe6+ Qb6 94.Qc4+ Ka7 95.Kh3 Qe3+ 96.Kh2 Qe5+ 97.Kg2 Kb6 98.Kh3 Qe3+ 99.Kg2 Qg5 100.Kh3 Qf6 101.Qb3+ Kc7 102.Qc4+ Qc6 103.Qf7+ Kb8 104.Qf8+ Kb7 105.Qe7+ Kb6 106.Qe3+ Ka6 107.Qd3+ Ka7 108.Qe3+ Ka8 109.Qd4 a4 110.Qb4 Ka7 111.Qd4+ Kb7 112.Qb4+ Ka6 113.Kh4 Qh1+ 114.Kg3 Qg1+ 115.Kf3 Qd1+ 116.Kf4 Qc1+ 117.Ke4 Qc6+ 118.Kd3 Qf3+ 119.Kc2 Qe2+ 120.Kc1 Qb5 121.Qd6+ Qb6 122.Qd7 Qe3+ 123.Kb1 Qb3+ 124.Ka1 Qc3+ 125.Ka2 Qc4+ 126.Ka1 Qc1+ 127.Ka2 Qc2+ 128.Ka1 Qc3+ 129.Ka2 Qb3+ 130.Ka1 a3 131.Qd2 Kb5 132.g5 a2 133.Qd7+ Kc5 134.Qc7+ Kd4 135.Qf4+ Kc5 136.Qc1+ Kd6 137.gxh6 Qf7 138.Qe3 Kd7 139.h7 Qg7+ 140.Kxa2 Qh8 141.Qe4 Qc3 142.Qb7+ Kd6 143.Qb8+ Kd5 144.h8=Q 1-0

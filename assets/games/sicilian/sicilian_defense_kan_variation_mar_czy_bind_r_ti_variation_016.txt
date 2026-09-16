@@ -1,0 +1,15 @@
+[Event "Round 5: Eroz, Enis - Yesil, Mehdi"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/gdBVtJua"]
+[Date "2026.07.16"]
+[Round "5.25"]
+[White "Eroz, Enis"]
+[Black "Yesil, Mehdi"]
+[Result "1-0"]
+[WhiteElo "2111"]
+[BlackElo "2041"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Qc7 6.a3 Nf6 7.Nc3 b6 8.Be2 Bb7 9.Qd3 Be7 10.f4 d6 11.Be3 Nbd7 12.b4 Rc8 13.Rc1 Qb8 14.O-O h6 15.Qb1 Qa8 16.Bd3 Rc7 17.h3 h5 18.f5 e5 19.Nb3 O-O 20.Nd5 Bxd5 21.cxd5 Rfc8 22.Rxc7 Rxc7 23.Rc1 Bd8 24.Rxc7 Bxc7 25.Qc2 Qb7 26.Kf2 b5 27.Kf3 Bb6 28.Na5 Qc7 29.Nc6 Kf8 30.Qf2 Bxe3 31.Qxe3 Nb6 32.Qf2 Kg8 33.g4 hxg4+ 34.hxg4 Nh7 35.Qd2 f6 36.Qe3 Kf8 37.Ke2 Ng5 38.Kd2 Ke8 39.Kc2 Kd7 40.Kb3 Kc8 41.Qf2 Kb7 42.Na5+ Ka8 43.Nc6 Kb7 44.Na5+ Ka8 45.Nc6 Kb7 46.Qf1 Na4 47.Bxb5 axb5 48.Qxb5+ Nb6 49.Na5+ Ka7 50.Nc6+ Kb7 51.Qd3 Nd7 52.a4 Qb6 53.Qe2 Nc5+ 54.Ka3 Ncxe4 55.a5 Qg1 56.Qb5+ Kc7 57.Qb8+ 1-0

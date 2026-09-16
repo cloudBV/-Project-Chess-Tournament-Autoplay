@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-7/78HixM7H/FsNRNww5"]
+[Date "2026.07.24"]
+[Round "7.14"]
+[White "Pandey Srishti"]
+[Black "Hansen, Soren Bech"]
+[Result "1/2-1/2"]
+[WhiteElo "2220"]
+[BlackElo "2284"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Bd3 Qc7 8.f4 a6 9.Be3 Bb4 10.O-O Bxc3 11.bxc3 d6 12.a4 e5 13.f5 b6 14.Nd2 Na5 15.c4 Nb7 16.Qf3 a5 17.Qg3 Kf8 18.Qh4 h6 19.Bg5 Ke7 20.Rf3 Bd7 21.Be3 Nc5 22.Qf2 Nxa4 23.Rxa4 Bxa4 24.Bxb6 Qc6 25.c5 Rhc8 26.cxd6+ Qxd6 27.Nc4 Rxc4 28.Bxc4 Qd1+ 29.Bf1 Nd7 30.f6+ gxf6 31.Rxf6 Nxf6 32.Bc5+ Kd7 33.Qxf6 Bb5 34.Qxf7+ Kc6 35.Qe6+ Kxc5 36.Qxe5+ Kb6 37.Qxb5+ Kc7 38.Qc5+ Kb7 39.e5 a4 40.Qb4+ Kc7 41.Qc4+ Kb6 42.Qe4 Rd8 43.Qb4+ Kc7 44.Qa5+ Kb7 45.Qa6+ Kc7 46.Qa7+ Kc8 47.c3 Qe1 48.Qa8+ Kc7 49.Qa5+ Kc8 50.Qa6+ Kc7 51.Qa7+ Kc8 52.Qa6+ Kc7 53.Qc4+ Kb8 54.Qb4+ Kc7 55.Qa5+ Kc8 56.Qxa4 Qe3+ 57.Kh1 Qxe5 58.Qc6+ Qc7 59.Qa6+ Kb8 60.Qb5+ Qb7 61.Qe5+ Qc7 62.Qb5+ Qb7 63.Qe5+ Qc7 64.Qb5+ 1/2-1/2

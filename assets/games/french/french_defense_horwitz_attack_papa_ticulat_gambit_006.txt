@@ -1,0 +1,14 @@
+[Event "Round 8: Beerdsen, Thomas - Radeva, Viktoria"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-8/hNJ8mydD/CdKSBpWh"]
+[Date "2026.07.18"]
+[Round "8.2"]
+[White "Beerdsen, Thomas"]
+[Black "Radeva, Viktoria"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2214"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Horwitz Attack, Papa-Ticulat Gambit"]
+
+1.e4 e6 2.b3 d5 3.Bb2 Nc6 4.e5 f6 5.Bb5 Be7 6.Qg4 Kf8 7.Bxc6 bxc6 8.Nf3 Nh6 9.Qf4 Nf7 10.h4 h5 11.Nc3 Rh6 12.Ne2 f5 13.Qg3 c5 14.d3 Nh8 15.Bc1 Rh7 16.Bg5 g6 17.Nf4 Bxg5 18.Nxg5 Re7 19.Qe3 d4 20.Qf3 Bd7 21.g4 hxg4 22.Qg3 Re8 23.f3 Qe7 24.fxg4 Qg7 25.O-O-O Ke7 26.h5 gxh5 27.Rxh5 Kd8 28.gxf5 1-0

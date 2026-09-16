@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "8.9"]
+[White "Terkiewicz, Bruno"]
+[Black "Krasniewski, Maciej"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2095"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Qc7 7.Nc3 e5 8.Na4 d6 9.c3 Bg4 10.h3 Bxf3 11.Qxf3 Ne7 12.d3 O-O 13.a3 a5 14.b4 axb4 15.axb4 cxb4 16.cxb4 f5 17.Qe2 f4 18.Qg4 h5 19.Qf3 Kh7 20.Bd2 Nc8 21.Nb2 Rxa1 22.Rxa1 Na7 23.Qd1 Nb5 24.f3 g5 25.Be1 g4 26.fxg4 f3 27.g5 Qf7 28.Qxf3 Qxf3 29.gxf3 Nd4 30.Kg2 Nxf3 31.h4 Nxe1+ 32.Rxe1 Rb8 33.Nc4 d5 34.Na5 Rxb4 35.Nxc6 Rb3 36.exd5 Rxd3 37.Ne7 Rd4 38.Kg3 Rd3+ 39.Kf2 Rd4 40.Rb1 Bf8 41.Rb7 Bxe7 42.Rxe7+ Kg6 43.Re6+ Kf7 44.Rh6 Rxh4 45.d6 Rd4 46.Ke3 Kg7 47.Re6 h4 48.Kf3 Kf7 49.Rf6+ Kg7 50.Re6 Kf7 51.Rh6 Kg7 52.Kg2 Rd3 53.Kh2 e4 54.Re6 Kf7 55.Rf6+ Kg7 56.Rh6 h3 57.Re6 Kf7 58.Rf6+ Kg7 59.Rh6 Rd5 60.Re6 Rxg5 61.Kxh3 Rd5 62.Kg4 Kf7 63.Re7+ Kf6 64.Rd7 Ke6 65.Re7+ Kxd6 66.Rxe4 Kc5 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Lind, Jacco - Maki-Uuro, Miikka"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-8/Uzk59lx2/17MZMQlo"]
+[Date "2026.07.24"]
+[Round "8.9"]
+[White "Lind, Jacco"]
+[Black "Maki-Uuro, Miikka"]
+[Result "0-1"]
+[WhiteElo "2089"]
+[BlackElo "2194"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h4 h5 7.Bg5 c6 8.f3 a6 9.a4 a5 10.Nh3 Qb6 11.Qd2 e5 12.d5 cxd5 13.cxd5 Na6 14.Nf2 Nc5 15.Bc4 Qb4 16.Qe2 Bd7 17.O-O Rfc8 18.Bb5 Bxb5 19.Nxb5 Nxa4 20.Bd2 Qxb2 21.Rxa4 Rc2 22.Nxd6 Rxd2 23.Qe3 Re2 24.Qg5 b5 25.Raa1 Rxf2 26.Rfb1 Qd4 27.Nxb5 Qc5 28.Kh2 Nd7 0-1

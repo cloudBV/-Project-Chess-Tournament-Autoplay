@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.4"]
+[White "Lie, Kjetil A."]
+[Black "Notkevich, Benjamin Arvola"]
+[Result "1-0"]
+[WhiteElo "2459"]
+[BlackElo "2453"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.Nf3 c5 2.c4 g6 3.g3 Bg7 4.Bg2 Nc6 5.Nc3 e6 6.d4 cxd4 7.Nb5 d5 8.cxd5 Qa5+ 9.Nd2 Qxb5 10.dxc6 Ne7 11.a4 Qb6 12.Nc4 Qb4+ 13.Bd2 Qxc4 14.cxb7 Bxb7 15.Bxb7 Rb8 16.Rc1 Qa2 17.Ba6 O-O 18.b4 Qa3 19.Bc4 Rxb4 20.Bxb4 Qxb4+ 21.Qd2 Qxd2+ 22.Kxd2 Bh6+ 23.f4 g5 24.Ba2 gxf4 25.Rc7 fxg3+ 26.Kd3 g2 27.Rg1 Ng6 28.Rxg2 Bg7 29.Rf2 Ne5+ 30.Ke4 Ng4 31.Rfxf7 Nf2+ 32.Rxf2 Rxf2 33.Bxe6+ Kh8 34.Bc4 a5 35.Rc5 Bf8 36.Rxa5 Rxh2 37.Rg5 Rh4+ 38.Kf3 Bg7 39.Bd3 Rh3+ 40.Ke4 Re3+ 41.Kd5 Re8 42.a5 Rc8 43.a6 Bf8 44.Ke6 Rc7 45.Be4 Ra7 46.Bb7 Bh6 47.Rh5 Kg7 48.Kd7 Kg6 49.Rh3 Bf4 50.Kc6 h5 51.Kb6 Bb8 52.Rf3 Kg7 53.Rf5 1-0

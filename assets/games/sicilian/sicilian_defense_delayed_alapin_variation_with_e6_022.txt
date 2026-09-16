@@ -1,0 +1,15 @@
+[Event "Round 4: Nguyen, Luong Vu - Chakrabarty, Reyaansh"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b12/round-4/A8VxgViX/JLJ7aY8n"]
+[Date "2026.07.16"]
+[Round "4.33"]
+[White "Nguyen, Luong Vu"]
+[Black "Chakrabarty, Reyaansh"]
+[Result "1/2-1/2"]
+[WhiteElo "2033"]
+[BlackElo "2164"]
+[ECO "B40"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.Na3 Nf6 6.d4 a6 7.Nc4 Nbd7 8.Ne3 Qd6 9.Be2 Be7 10.O-O O-O 11.c4 cxd4 12.Qxd4 Qc7 13.b3 b6 14.Bb2 Bb7 15.Rfd1 Rfd8 16.Rac1 Nf8 17.Qc3 Ng6 18.g3 Bf8 19.b4 Ne4 20.Qb3 a5 21.a3 axb4 22.axb4 Qc6 23.b5 Qc7 24.Bd4 Nc5 25.Qb2 Be4 26.h4 Nd3 27.Rxd3 Bxd3 28.Bxd3 Ba3 29.Qc3 Bxc1 30.Qxc1 e5 31.h5 exd4 32.Ng4 Qd7 33.hxg6 Qxg4 34.Ne5 Qe6 35.gxh7+ Kh8 36.Qf4 Rf8 37.Be4 Qh6 38.Bxa8 Qxf4 39.gxf4 Rxa8 40.Nxf7+ Kxh7 41.Kf1 Ra2 42.Ne5 Rc2 43.Ke1 d3 44.f3 Kg8 45.Kd1 Rf2 46.Ke1 Rc2 47.Kd1 Kh7 48.f5 Kh6 49.f4 Kh5 50.Nd7 Rxc4 51.Nxb6 Rxf4 52.Nd7 Rd4 53.Nc5 Rd5 54.Ne6 Kh6 55.Nc7 Rxf5 56.b6 Rf6 57.Nd5 Rd6 58.b7 Rd8 59.Ne3 Rb8 60.Nf5+ Kg6 61.Nd6 Kf6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "2.2"]
+[White "Degraeve, Jean-Marc"]
+[Black "Amrane, Abdellah"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2204"]
+[ECO "B30"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d6 7.c3 Ng6 8.d4 cxd4 9.cxd4 Be7 10.Nc3 O-O 11.d5 exd5 12.Nxd5 Bg4 13.h3 Bxf3 14.Nxe7+ Qxe7 15.Qxf3 f5 16.Bd2 f4 17.Rad1 Kh8 18.Qa3 Nh4 19.Kh1 Rf6 20.Bc3 Re6 21.Rd5 Rxe4 22.Rxe4 Qxe4 23.Qxd6 f3 24.g3 Nf5 25.Qd7 Nce7 26.Re5 Qb1 27.Re1 Qc2 28.Rxe7 Rg8 29.Re8 h6 30.Rxg8+ Kxg8 31.Qd5+ Kh7 32.Qxf3 1-0

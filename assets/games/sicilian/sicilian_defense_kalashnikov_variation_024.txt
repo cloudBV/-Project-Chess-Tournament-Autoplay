@@ -1,0 +1,14 @@
+[Event "CARIFTA 2026 OPEN & WOMEN - OPEN"]
+[Site "Tornelo INT"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Harper, Ryan"]
+[Black "Smith, Shreyas"]
+[Result "1-0"]
+[WhiteElo "2174"]
+[BlackElo "2098"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be7 7.N1c3 a6 8.Na3 Nf6 9.Bd3 O-O 10.O-O Be6 11.Nc2 Nd7 12.Ne3 Bg5 13.Ncd5 Rc8 14.b3 Nc5 15.Bb2 b5 16.cxb5 axb5 17.Bxb5 Nxe4 18.a4 f5 19.Bc4 Kh8 20.f4 exf4 21.Nxf4 Qb6 22.Nxe6 Qxe3+ 23.Kh1 Bf6 24.Bxf6 Rxf6 25.Qe1 Qh6 26.Nf4 Ne5 27.Bd5 Ng4 28.h3 Re8 29.Bxe4 Rxe4 30.Qc3 Rf8 31.Nd5 Qh4 32.Rxf5 Rc8 33.Raf1 Rg8 34.Rf8 Re8 35.Rxg8+ Kxg8 36.Qc4 Nf2+ 37.Kh2 Qxc4 38.bxc4 Nd3 39.a5 Ne5 40.Nb6 Re7 41.Rd1 Ra7 42.Rd5 Ra6 43.c5 Nc6 44.Nc4 dxc5 45.Rxc5 Kf8 46.Rb5 Ra7 47.Kg3 Ke7 48.Rd5 Rc7 49.Rc5 Kd7 50.Kf4 Rb7 51.Ne5+ Nxe5 52.Kxe5 Rb2 53.g4 Rb3 54.h4 Rb4 55.Rd5+ Kc6 56.Rd6+ Kc7 57.Rd4 Rb5+ 58.Rd5 Rb4 59.Kf5 Ra4 60.h5 Kc6 61.Re5 Kd6 62.Re6+ Kd7 63.Ra6 g6+ 64.hxg6 hxg6+ 65.Kg5 Ke7 66.Ra7+ Ke6 67.a6 Rc4 68.Rb7 Ra4 69.Rb6+ Kf7 70.Rf6+ Ke7 71.Rxg6 Ra5+ 72.Kh6 Kf7 73.Rb6 1-0

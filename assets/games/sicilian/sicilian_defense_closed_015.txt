@@ -1,0 +1,15 @@
+[Event "WR Women's Chess Tour 2026 - Dom. Rep. Blitz session Punta Cana"]
+[Site "Punta Cana, Dominican Republic"]
+[Date "2026.07.02"]
+[Round "8.1"]
+[White "Yip, Carissa"]
+[Black "Garifullina, Leya"]
+[Result "0-1"]
+[WhiteElo "2369"]
+[BlackElo "2398"]
+[ECO "B23"]
+[TimeControl "3 minutos para la partida con incrementos de 2 segundos desde el primer movimiento."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.Nge2 Nf6 4.g3 Nc6 5.Bg2 g6 6.d3 Bg7 7.f4 O-O 8.O-O Rb8 9.a4 a6 10.h3 Bd7 11.g4 b5 12.axb5 axb5 13.g5 Nh5 14.Nd5 f6 15.h4 fxg5 16.hxg5 Bg4 17.Bf3 Bxf3 18.Rxf3 Qd7 19.Qf1 Nd4 20.Nxd4 Bxd4+ 21.Kh2 e6 22.Nc3 b4 23.Ne2 Bg7 24.Qh3 Rf7 25.Ra6 Rbf8 26.b3 Qe7 27.Qg4 Qd7 28.Be3 Re8 29.Kg2 Qc7 30.Rf1 Rfe7 31.Rh1 d5 32.Rd1 dxe4 33.dxe4 Qb7 34.Ra5 Qxe4+ 35.Qf3 Qxc2 36.Rc1 Qxb3 37.Bxc5 Qxf3+ 38.Kxf3 Rb7 39.Ra7 Rxa7 40.Bxa7 e5 41.fxe5 Rxe5 42.Be3 Rf5+ 43.Ke4 Rf8 44.Rb1 Rb8 45.Rb3 Bf8 46.Bd4 Ng7 47.Kd5 Rd8+ 48.Kc4 Ne6 49.Bf6 Rc8+ 50.Kd5 Kf7 51.Nd4 Rc5+ 52.Ke4 Nxg5+ 53.Bxg5 Rxg5 54.Rf3+ Ke7 55.Rxf8 Rg4+ 56.Rf4 Rxf4+ 57.Kxf4 Kd6 58.Ke4 Kc5 59.Kd3 Kd5 60.Nc2 b3 61.Ne3+ Ke5 62.Kc3 Ke4 63.Ng4 h5 64.Nf6+ Kf5 65.Nd5 h4 66.Kxb3 Ke4 67.Nf6+ Kf3 68.Nh7 h3 69.Ng5+ Kg2 0-1

@@ -1,0 +1,14 @@
+[Event "Round 4: Nemitz, Alfred - Heinrich, John"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/PRNNZwO2"]
+[Date "2026.07.21"]
+[Round "4.3"]
+[White "Nemitz, Alfred"]
+[Black "Heinrich, John"]
+[Result "0-1"]
+[WhiteElo "2343"]
+[BlackElo "2356"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 c6 8.O-O b6 9.Nc3 Ba6 10.Ne5 Nfd7 11.cxd5 Nxe5 12.d6 Bxd6 13.dxe5 Bxe5 14.Rfd1 Qe7 15.Qe4 Nd7 16.Qxc6 Rac8 17.Qa4 Nc5 18.Qg4 Rfd8 19.Bf3 Rd4 20.Qh5 Qf6 21.Bg5 Qf5 22.e4 Qg6 23.Qh4 h6 24.Be3 Rd3 25.Rxd3 Nxd3 26.Qe7 Nxb2 27.Qxa7 Bd3 28.Nd1 Qf6 29.Bg2 Nc4 30.Rc1 Qd8 31.Qa4 Ra8 32.Qb3 Ra3 33.Qb4 Rxa2 34.Bf3 b5 35.Bc5 Qf6 36.Bg2 Qd8 37.Ne3 Rb2 38.Qe1 Bd4 39.Nd1 Re2 0-1

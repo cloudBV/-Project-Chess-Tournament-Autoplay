@@ -1,0 +1,15 @@
+[Event "Round 1: Askanazyan, Gor - Lovakov, Egor Vladimirovich"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-1/KKuuTOnc/9IyytMPu"]
+[Date "2026.07.14"]
+[Round "1.8"]
+[White "Askanazyan, Gor"]
+[Black "Lovakov, Egor Vladimirovich"]
+[Result "1-0"]
+[WhiteElo "2102"]
+[BlackElo "2003"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 Bg4 8.h3 Bh5 9.Be3 Qc8 10.Kh1 Nb4 11.Bb3 Kh8 12.Rg1 Ne8 13.g4 Bg6 14.Ne2 f6 15.c3 Na6 16.Ng3 c6 17.Nh4 Bf7 18.Bxf7 Rxf7 19.Qb3 Rf8 20.Ngf5 Bd8 21.d4 Nac7 22.Rad1 g6 23.Bh6 Rg8 24.Ne3 Rb8 25.Nf3 Be7 26.dxe5 fxe5 27.Bg5 Bf8 28.Qf7 Ne6 29.Nf5 gxf5 30.gxf5 N6g7 31.Rg4 Qc7 32.Nxe5 dxe5 33.Rd7 Nd6 34.Qxg8+ Kxg8 35.Rxc7 h5 36.Rg2 Kh8 37.f3 Nge8 38.Rd7 b5 39.axb5 Rxb5 40.Rxa7 Rb8 41.Bh4 Bg7 42.Rd7 Bf8 43.b4 Ra8 44.Rg5 Nf6 45.Rc7 c5 46.Rg6 Nfe8 47.Rxc5 Nf7 48.Rcc6 Ned6 49.Rc7 Bg7 50.c4 Ra1+ 51.Rg1 Rxg1+ 52.Kxg1 Kg8 53.c5 Nb5 54.Rb7 Nd4 55.Kf2 Bf8 56.Bf6 Nc6 57.Kg3 Nd4 58.Rb8 Nc6 59.Rc8 Na7 60.Ra8 1-0

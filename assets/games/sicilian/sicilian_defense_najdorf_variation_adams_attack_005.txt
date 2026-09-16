@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/838EoXmt"]
+[Date "2026.07.04"]
+[Round "8.35"]
+[White "Nowak, Lukasz"]
+[Black "Nawalaniec, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2155"]
+[BlackElo "2297"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be6 8.f4 exf4 9.Bxf4 Nc6 10.Qe2 Be7 11.O-O-O Qc7 12.g4 Rc8 13.g5 Nd7 14.Nd5 Bxd5 15.exd5 Nce5 16.Kb1 Nb6 17.h4 Nec4 18.Bh3 Na4 19.Bxc8 Ncxb2 20.Qg4 Nxd1 21.Rxd1 Nc3+ 22.Kc1 Nxd1 23.Kxd1 g6 24.Qh3 O-O 25.Bg4 Qc4 26.Qe3 Bd8 27.Kc1 Qxd5 28.Bf3 Qb5 29.Qd3 Qa4 30.Qe4 Qd7 31.Qxb7 Bc7 32.Bd2 Qh3 33.Bd5 Bd8 34.Qb4 h6 35.Qd4 Re8 36.Kb2 Re5 37.Bc4 Be7 38.Qa7 Qxh4 39.Qa8+ Bf8 40.gxh6 Qxc4 41.h7+ Kxh7 42.Qxf8 Qe6 43.Bc3 g5 44.Bxe5 dxe5 45.Nc5 Qc4 46.a3 g4 47.Qe7 Qd4+ 48.Kb3 Qd5+ 49.Kb4 Kg6 50.Nd7 Qb5+ 51.Kc3 Qc6+ 52.Kb3 Qb5+ 53.Kc3 Qc6+ 54.Nc5 Qd5 55.Nd3 f6 56.Qe8+ Kg5 57.Qh8 Qd4+ 58.Kb3 Qd5+ 59.Kc3 Qd4+ 60.Kb3 Qd5+ 61.Kc3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: Luque Saiz, Andres - Rey Chimera, Luca"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-3/87LiEk1V/DaRmahEO"]
+[Date "2026.07.14"]
+[Round "3.6"]
+[White "Luque Saiz, Andres"]
+[Black "Rey Chimera, Luca"]
+[Result "1-0"]
+[WhiteElo "2371"]
+[BlackElo "2076"]
+[ECO "C03"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 h6 4.g3 c5 5.exd5 Qxd5 6.Ngf3 cxd4 7.Bg2 Nc6 8.O-O d3 9.c3 Nge7 10.Re1 Qd7 11.Nc4 Ng6 12.h4 h5 13.b4 Be7 14.b5 Nd8 15.a4 Qc7 16.Qxd3 e5 17.Ncxe5 Nxe5 18.Rxe5 Ne6 19.Bb2 Bf6 20.Rf5 Bd7 21.Nd2 Be7 22.Qf3 O-O-O 23.Ne4 Be8 24.c4 Nd4 25.Bxd4 Rxd4 26.Qe3 Rxc4 27.Bf1 Qd7 28.Re5 Bf6 29.Nxf6 gxf6 30.Bxc4 fxe5 31.Qxe5 Rh6 32.Rc1 Kd8 33.Qg5+ 1-0

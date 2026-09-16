@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.21"]
+[White "Jin, Ruijun"]
+[Black "Valle Luis, Leo"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2372"]
+[ECO "B60"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Nxc6 bxc6 8.Bc4 Qa5 9.Bd2 Qc5 10.Bb3 g6 11.Qe2 Bg7 12.O-O-O O-O 13.Rhe1 Rfd8 14.h3 Ne8 15.f4 Be6 16.Bxe6 fxe6 17.e5 Nc7 18.Ne4 Qb6 19.Ng5 Rab8 20.Bc3 c5 21.b3 d5 22.Qd2 Qa6 23.Ba5 Rdc8 24.Bxc7 Rxc7 25.Kb1 Rcb7 26.h4 Rb4 27.Ka1 c4 28.Re3 R8b5 29.Kb2 Ra4 30.Ra1 d4 31.Qxd4 Rd5 32.Qc3 cxb3 33.cxb3 Rxf4 34.Nf3 Rg4 35.Qc2 Bh6 36.Rc3 Bf4 37.Re1 Bg3 38.Re2 Qb5 39.Rc4 Bxe5+ 40.Nxe5 Rxe5 41.Rf2 Rxc4 42.Qxc4 Qd7 43.g4 Rd5 44.Qf4 Qe8 45.Qh6 Qb8 46.Kb1 Rd1+ 47.Kc2 Rd8 48.Qf4 Rc8+ 49.Kb2 Qd6 50.Qxd6 exd6 51.Rf6 Re8 52.Kc3 Rc8+ 53.Kd4 Rc2 54.Rxe6 Rxa2 55.Rxd6 Rg2 56.g5 Rg4+ 57.Ke5 a5 58.Rd8+ Kg7 59.Rd7+ Kg8 60.Rd8+ 1/2-1/2

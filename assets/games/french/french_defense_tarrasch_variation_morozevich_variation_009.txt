@@ -1,0 +1,14 @@
+[Event "Round 3: Salonen, Aku - Harikrishnan.A.Ra"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-3/rTQ7NEIV/rCBTirXq"]
+[Date "2026.07.14"]
+[Round "3.2"]
+[White "Salonen, Aku"]
+[Black "Harikrishnan.A.Ra"]
+[Result "1/2-1/2"]
+[WhiteElo "2247"]
+[BlackElo "2519"]
+[ECO "C03"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Morozevich Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Bd3 c5 5.dxc5 Nf6 6.Qe2 Nc6 7.Ngf3 O-O 8.c3 Bxc5 9.O-O Be7 10.exd5 Nxd5 11.Nc4 Bf6 12.Re1 Qc7 13.Nce5 Nxe5 14.Nxe5 Bxe5 15.Qxe5 Qxe5 16.Rxe5 Rd8 17.Bf1 Bd7 18.Re1 Bc6 19.Bd2 Rd7 20.c4 Ne7 21.Bc3 Rad8 22.a4 Nf5 23.b4 b6 24.a5 Bb7 25.axb6 axb6 26.Ra7 Ne7 27.f3 Kf8 28.Kf2 Nc8 29.Ra2 Ne7 30.Ra7 Nc8 31.Ra3 Ne7 32.b5 Nc8 33.Bb4+ Kg8 34.c5 bxc5 35.Bxc5 Bd5 36.Rc1 Rb7 37.Ra6 Rb8 38.Rd1 h6 39.Ke3 Rd7 40.Kf2 Rdb7 41.Be3 Rxb5 42.Bxb5 Rxb5 43.Rd2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 5: Pektas, Yigit - Ilgaz, Yusuf Kerem"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/y6lrGMaX"]
+[Date "2026.07.16"]
+[Round "5.36"]
+[White "Pektas, Yigit"]
+[Black "Ilgaz, Yusuf Kerem"]
+[Result "0-1"]
+[WhiteElo "2105"]
+[BlackElo "2166"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 Nh5 8.g3 Na6 9.Be2 f5 10.exf5 gxf5 11.Nh4 Nf4 12.gxf4 Qxh4 13.Rg1 Kh8 14.fxe5 dxe5 15.Bg5 Qd4 16.Qb3 Qb6 17.Qxb6 axb6 18.O-O-O Nc5 19.d6 cxd6 20.Rxd6 Ne6 21.Be3 Rg8 22.Nd5 f4 23.Nxb6 fxe3 24.Nxa8 Nf4 25.Kd1 exf2 26.Rh1 Bf8 27.Rd8 Rg1+ 28.Kd2 Rxh1 29.Rxc8 Kg7 30.Ke3 Re1 31.Kxf2 Rxe2+ 32.Kf3 Rxb2 33.Ke4 Nxh3 34.Nc7 Kf7 35.Kxe5 Rxa2 36.Nd5 Re2+ 37.Kf5 Bd6 38.Rd8 Re5+ 39.Kg4 Nf2+ 40.Kf3 Rf5+ 41.Ke2 Ke6 42.Re8+ Kf7 43.Rd8 Ke6 44.Re8+ Kd7 45.Rh8 Rf7 46.Ke3 Bc5+ 47.Kd2 Ng4 48.Kd3 h6 49.Rb8 Kd6 50.Rd8+ Ke6 51.Rc8 Bg1 52.Rg8 h5 53.Ke4 Bf2 54.Nf4+ Kd7 55.Rg6 Nf6+ 56.Ke5 Be3 57.Nd3 Ng4+ 58.Ke4 Ba7 59.Rg5 Nf2+ 60.Nxf2 Rxf2 61.Rxh5 Rd2 62.Rh7+ Kc6 63.Rh6+ Rd6 64.Rh7 Rd4+ 65.Ke5 Rxc4 66.Rh6+ Kb5 67.Rh7 Ka6 68.Kd5 Rc8 69.Rh2 b5 0-1

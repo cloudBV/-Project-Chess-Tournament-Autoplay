@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.2"]
+[White "Rekuc, Patryk"]
+[Black "Dubnevych, Maksym"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2464"]
+[ECO "E10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.b3 O-O 6.Bd3 b6 7.O-O Bb7 8.Bb2 Nbd7 9.Nc3 a6 10.Qc2 Rc8 11.Ne5 c5 12.Nxd7 Qxd7 13.Na4 Qc7 14.dxc5 bxc5 15.cxd5 exd5 16.Bxf6 Bxf6 17.Bxh7+ Kh8 18.Bf5 Rcd8 19.Rac1 c4 20.bxc4 d4 21.Nb2 Be5 22.Be4 d3 23.Bxd3 Bxh2+ 24.Kh1 Rd6 25.f3 Rh6 26.g4 Bf4+ 27.Kg2 Rh2+ 28.Kg1 Bxe3+ 0-1

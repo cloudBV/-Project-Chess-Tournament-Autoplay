@@ -1,0 +1,14 @@
+[Event "Round 8: Saraci, Nderim - Nikolovski, Nikola"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/asNwQBBj"]
+[Date "2026.07.10"]
+[Round "8.9"]
+[White "Saraci, Nderim"]
+[Black "Nikolovski, Nikola"]
+[Result "1-0"]
+[WhiteElo "2466"]
+[BlackElo "2388"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Bd7 6.Qf3 Be7 7.Bxf6 gxf6 8.O-O-O Bc6 9.d5 exd5 10.Bc4 Kf8 11.Qh5 f5 12.Nc3 Bg5+ 13.Kb1 Qf6 14.Bxd5 Na6 15.Nf3 Bh6 16.Nh4 Bg5 17.Nf3 Bh6 18.Nd4 Bd7 19.Bxf7 Bg7 20.Nb3 Bc6 21.Bc4 b5 22.Bd5 Be8 23.Qe2 c6 24.Bf3 Bf7 25.Qd2 Kg8 26.Qd6 Qh4 27.Bxc6 Rf8 28.Bd5 Nb4 29.g3 Qg4 30.h3 1-0

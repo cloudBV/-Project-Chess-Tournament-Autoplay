@@ -1,0 +1,14 @@
+[Event "Round 4: Gorshtein, Ido - Iniyan, Pa"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/vuBJsK6M"]
+[Date "2026.07.21"]
+[Round "4.2"]
+[White "Gorshtein, Ido"]
+[Black "Iniyan, Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2546"]
+[BlackElo "2581"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Qd3 Nc6 9.Nxd7 Nxd7 10.Nc3 Be7 11.b3 Nde5 12.Qe4 O-O 13.O-O f5 14.Qb1 Qe8 15.d3 Rd8 16.Bd2 b6 17.a3 Bf6 18.Ra2 Qh5 19.h3 Nd4 20.f4 Ng6 21.Be1 e5 22.e3 exf4 23.gxf4 Ne6 24.b4 Rfe8 25.Nd5 Bh4 26.Bc3 Bg3 27.Rf3 Bh4 28.Rf1 Bg3 29.Rf3 Bh4 30.Qc2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 4: De Wit, Evan - Goldkuhle, Collin"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/S5VFtkD2"]
+[Date "2026.07.24"]
+[Round "4.32"]
+[White "De Wit, Evan"]
+[Black "Goldkuhle, Collin"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2181"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Venice Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+ Bd7 7.Nf5 Bxb5 8.Nxb5 Qa5+ 9.Nc3 Nxe4 10.O-O Nxc3 11.bxc3 Nc6 12.Nxd6+ Bxd6 13.Qxd6 Rd8 14.Qa3 Qxa3 15.Bxa3 Rd2 16.Rac1 Kd7 17.Rfd1 Rxd1+ 18.Rxd1+ Kc8 19.Kf1 Rd8 20.Rd3 e4 21.Rxd8+ Kxd8 22.Ke2 Kd7 23.f3 exf3+ 24.Kxf3 Ke6 25.Bf8 Ne5+ 26.Ke4 f5+ 27.Kd4 g5 28.a4 f4 29.Bh6 Kf5 30.Kd5 Ng4 31.Bg7 Ne3+ 32.Kd6 Nxg2 33.Kc7 Ne3 34.Bd4 Ke4 35.Kxb7 f3 36.Kxa7 f2 37.Bxe3 Kxe3 38.a5 f1=Q 39.a6 Qf7+ 40.Kb8 Qe8+ 41.Kb7 Qb5+ 0-1

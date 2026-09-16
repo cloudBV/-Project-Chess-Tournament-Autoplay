@@ -1,0 +1,14 @@
+[Event "Round 7: Gallas, Noel - Malek, Daniel"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/iNFcn7bp"]
+[Date "2026.07.23"]
+[Round "6.11"]
+[White "Gallas, Noel"]
+[Black "Malek, Daniel"]
+[Result "1-0"]
+[WhiteElo "2188"]
+[BlackElo "2312"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Rc8 7.O-O h6 8.Nbd2 cxd4 9.cxd4 Nge7 10.Nb3 Nf5 11.Bf4 g5 12.Be3 g4 13.Ne1 h5 14.Nd3 b6 15.Nf4 a5 16.Ba6 Rc7 17.Bd3 Nxe3 18.fxe3 Qg5 19.Rc1 Kd8 20.a3 a4 21.Nd2 Nxe5 22.Rxc7 Kxc7 23.Qc2+ Kb7 24.e4 Nxd3 25.Qxd3 dxe4 26.Nxe4 Qb5 27.Qd2 Bc6 28.Nxe6 f5 29.Nd8+ Ka7 30.Nc3 Qc4 31.Nxc6+ Qxc6 32.Rxf5 Qe6 33.Qf2 Bh6 34.Nb5+ Kb7 35.Rf7+ Kc8 36.Qc2+ Kd8 37.Qc7+ Ke8 38.Nd6+ Qxd6 39.Qxd6 Kxf7 40.Qc7+ Kg6 41.Qxb6+ Kh7 42.Qb7+ Bg7 43.Qe4+ Kh6 44.d5 Bf6 45.Qxa4 Bxb2 46.Kf2 Rf8+ 47.Ke2 Be5 48.g3 Bd6 49.Qc6 Rf6 50.a4 Kg5 51.Qc1+ Kf5 52.a5 h4 53.a6 hxg3 54.hxg3 Bxg3 55.a7 Rf8 56.Qc6 Ke5 1-0

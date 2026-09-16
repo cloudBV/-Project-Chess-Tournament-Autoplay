@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/vABBSH3s"]
+[Date "2026.07.08"]
+[Round "-"]
+[White "Bodnaruk, Anastasia"]
+[Black "Padmini, Rout"]
+[Result "1/2-1/2"]
+[WhiteElo "2251"]
+[BlackElo "2206"]
+[ECO "B90"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nc3 d6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 a6 6.Nb3 Nc6 7.Be3 g6 8.Be2 Bg7 9.Nd5 O-O 10.Nxf6+ Bxf6 11.c3 b5 12.h4 b4 13.Qd2 bxc3 14.bxc3 h5 15.f4 Kh7 16.g4 Bxg4 17.Bxg4 hxg4 18.h5 g5 19.fxg5 Be5 20.g6+ fxg6 21.hxg6+ Kg8 22.Qd5+ Kg7 23.Bh6+ Kxg6 24.Qe6+ Rf6 25.Qxg4+ Kf7 26.Qh5+ Ke6 27.Qg4+ Kf7 28.Qh5+ Ke6 29.Qg4+ Kf7 30.Qh5+ Ke6 1/2-1/2

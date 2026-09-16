@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.8"]
+[White "Alvarez Albiol, Victor"]
+[Black "Cuartas, Jaime Alexander"]
+[Result "0-1"]
+[WhiteElo "2189"]
+[BlackElo "2497"]
+[ECO "B22"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 d6 3.d4 Nf6 4.Bd3 Nc6 5.Ne2 Bd7 6.O-O e6 7.Bc2 Be7 8.Nd2 O-O 9.Nf3 cxd4 10.cxd4 Nb4 11.Bb1 Bc6 12.Nc3 d5 13.e5 Ne4 14.Re1 Nxc3 15.bxc3 Na6 16.Qd3 g6 17.g3 Qa5 18.Bd2 Rfc8 19.h4 Bb5 20.Qe3 Qa3 21.h5 Rc7 22.Kg2 Be8 23.Rh1 Rac8 24.Ng5 Rxc3 25.Qf4 Bxg5 26.Qxg5 R3c7 27.Qg4 Qf8 28.a3 Nb8 29.Bd3 Nc6 30.Rh2 f5 31.exf6 Qxf6 32.hxg6 Bxg6 33.Rah1 Rg7 34.Bxg6 Rxg6 35.Qd1 Rf8 36.Be3 Rf7 37.Rh6 Qf5 38.R6h4 Qf6 39.Qd2 Qf3+ 40.Kg1 e5 41.R1h3 Qf5 42.Rh5 Qb1+ 43.Kh2 exd4 44.Bxd4 Qe4 45.Bb2 d4 46.R3h4 Qf3 47.Bxd4 Nxd4 48.Qxd4 Qxf2+ 49.Qxf2 Rxf2+ 50.Kh3 Rf3 51.Rxh7 Rfxg3+ 52.Kh2 Rg2+ 53.Kh1 Rg1+ 54.Kh2 R6g2+ 55.Kh3 Rg7 56.Rh8+ Kf7 57.Kh2 R1g2+ 58.Kh1 Rg1+ 59.Kh2 R7g2+ 60.Kh3 Rg8 61.R8h7+ R8g7 62.Rf4+ Ke6 63.Kh2 Rxh7+ 64.Kxg1 Rg7+ 65.Kh2 Ke5 66.Rc4 Kd5 67.Rc8 b5 0-1

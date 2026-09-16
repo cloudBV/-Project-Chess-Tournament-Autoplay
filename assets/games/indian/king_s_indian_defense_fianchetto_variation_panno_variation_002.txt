@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.06.27"]
+[Round "9.1"]
+[White "Cap, Piotr"]
+[Black "Shilov, Sergej"]
+[Result "1/2-1/2"]
+[WhiteElo "2074"]
+[BlackElo "2187"]
+[ECO "E63"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Panno Variation"]
+
+1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 Nc6 7.Nc3 a6 8.Qc2 Bg4 9.Rd1 Qc8 10.a3 e5 11.dxe5 dxe5 12.Bg5 Re8 13.Nd5 Nxd5 14.cxd5 Nd4 15.Nxd4 exd4 16.Rd2 Qd7 17.Bf4 Rac8 18.Rc1 h6 19.h4 Re7 20.Qc4 Qe8 21.e4 dxe3 22.Bxe3 Rxe3 23.Qxg4 Re1+ 24.Rxe1 Qxe1+ 25.Kh2 Qxd2 26.Qxc8+ Kh7 27.Qxc7 Qxf2 28.b3 Bb2 29.a4 Kg7 30.Qe7 Bf6 31.Qe4 Qd2 32.Qf3 h5 33.Qe4 a5 34.Kh3 Bb2 35.Qe7 Qb4 36.Qxb4 axb4 37.Bf1 b6 38.Kg2 Be5 39.Kf3 f5 40.Bb5 Bd6 41.Bd7 Kf6 42.Be6 Be7 43.Kf4 Bf8 44.Kf3 Bh6 45.Bg8 Bf8 46.Be6 Bd6 47.Bg8 g5 48.hxg5+ Kxg5 49.Bf7 h4 50.gxh4+ Kxh4 51.Be8 Kg5 52.Bb5 Kf6 53.Bd3 Ke5 54.Bc4 Kd4 55.Kf2 Ke4 56.Bb5 f4 57.Kf1 Ke3 58.Bc4 f3 59.Bb5 Kd4 60.Bc4 Ke4 61.Bb5 Ke3 1/2-1/2

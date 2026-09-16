@@ -1,0 +1,15 @@
+[Event "Round 9: Oner, Yigit Efe - Umarov, Bekhruz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/LIMXjaZK"]
+[Date "2026.07.19"]
+[Round "9.19"]
+[White "Oner, Yigit Efe"]
+[Black "Umarov, Bekhruz"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2268"]
+[ECO "B96"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 8.Bh4 Nbd7 9.Qf3 e5 10.Nb3 exf4 11.Bxf6 Nxf6 12.Qxf4 Be7 13.Be2 Qb6 14.Qf2 Qc7 15.O-O O-O 16.Rad1 b5 17.a3 Rb8 18.Qg3 b4 19.axb4 Rxb4 20.Bf3 Be6 21.Nd4 Rxb2 22.Nd5 Nxd5 23.exd5 Bd7 24.Bg4 Bxg4 25.Qxg4 Qc5 26.Kh1 Rb4 27.Rf4 Bg5 28.c3 Qxc3 29.Rf3 Be3 30.Rg3 g6 31.Qf3 Rxd4 32.Rf1 Qd3 33.Qf6 Bg5 34.Qf2 Qd2 35.Qf3 Rf4 0-1

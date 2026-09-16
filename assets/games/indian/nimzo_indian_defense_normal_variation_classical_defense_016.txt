@@ -1,0 +1,14 @@
+[Event "Round 8: Schnell, Simon - Haimovich, Tal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/720Pax2C"]
+[Date "2026.07.21"]
+[Round "8.15"]
+[White "Schnell, Simon"]
+[Black "Haimovich, Tal"]
+[Result "1/2-1/2"]
+[WhiteElo "2211"]
+[BlackElo "2310"]
+[ECO "E48"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Re8 8.Bd2 Nc6 9.O-O a6 10.f3 Bd6 11.a3 Be6 12.Qc2 g6 13.Kh1 Nh5 14.Be1 Qg5 15.f4 Qh6 16.Kg1 Ne7 17.Bd2 Nf6 18.Ng3 Qh4 19.Rf3 Rad8 20.h3 c6 21.Nce2 Bc8 22.Raf1 Nh5 23.Be1 Nxg3 24.Nxg3 Qh6 25.f5 Bxg3 26.Rxg3 Kh8 27.Bd2 Qh4 28.Rg4 Qh5 29.f6 Nf5 30.Re1 Nd6 31.Rf4 g5 32.Rf2 Ne4 33.Bxe4 Rxe4 34.Qd1 Qh6 35.Ba5 Rg8 36.Bc7 Qh4 37.Be5 g4 38.g3 gxh3 39.Kf1 Qh6 40.Rh2 Bg4 41.Qd2 Bf3 42.Qf2 Qh5 43.Kg1 Rg6 44.b4 h6 45.a4 Kh7 46.Rc1 Bg4 47.Rh1 Bf3 48.Rh2 Qg4 49.b5 axb5 50.axb5 h5 51.Rf1 Bg2 52.Rxg2 hxg2 53.Kxg2 h4 54.Rh1 Kg8 55.bxc6 bxc6 56.Rh3 Rxe5 57.dxe5 Qe4+ 58.Qf3 Qxe5 59.Rxh4 Qb2+ 60.Kh3 Qxf6 61.Qxf6 Rxf6 62.e4 dxe4 63.Rxe4 Kf8 64.Kg4 Re6 65.Ra4 Re8 66.Kf5 Re3 67.g4 Kg7 68.Ra7 Rc3 69.Rc7 Rc5+ 70.Kf4 Kf6 71.Rc8 Rc4+ 72.Ke3 Ke6 73.Kd3 Rc1 74.Ke4 Re1+ 75.Kd4 Kd7 76.Rf8 Ke7 77.Rc8 Re6 78.g5 Rg6 79.Rc7+ Kf8 80.Ke4 Kg7 81.Kf5 Rd6 82.Rc8 Rd5+ 83.Kf4 Rc5 84.Kg4 Rc1 85.Kf5 Rc4 86.Rd8 Rc5+ 87.Kf4 Rd5 88.Rc8 Rc5 89.Kg4 Rc1 90.Kf5 Rc4 91.Rd8 c5 92.Rc8 Rc1 93.Rc7 c4 94.g6 Rf1+ 95.Ke4 Kxg6 96.Rxc4 Kg5 97.Ke3 f6 98.Ke2 Rf4 99.Rc3 Kg4 100.Rb3 f5 101.Ra3 Rb4 102.Kf2 Rb2+ 103.Kf1 f4 104.Rc3 Ra2 105.Rb3 Rh2 106.Ra3 Rc2 107.Rb3 Rc4 108.Kf2 Kf5 109.Kf3 Rc5 110.Ra3 Re5 111.Rb3 Kg5 112.Ra3 Re3+ 1/2-1/2

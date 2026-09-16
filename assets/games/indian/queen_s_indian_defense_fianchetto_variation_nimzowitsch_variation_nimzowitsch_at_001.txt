@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "6.5"]
+[White "Jasiulewicz, Dawid"]
+[Black "Rekuc, Patryk"]
+[Result "1/2-1/2"]
+[WhiteElo "2225"]
+[BlackElo "2315"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Nimzowitsch Attack"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qa4 Bb7 6.Bg2 c5 7.dxc5 bxc5 8.O-O Be7 9.Nc3 O-O 10.Rd1 Qb6 11.Qc2 Rd8 12.Bg5 Nc6 13.Rac1 d6 14.b3 h6 15.Bd2 Rac8 16.Na4 Qc7 17.Bc3 Qb8 18.e3 Qa8 19.Qe2 Nb8 20.Ba1 Nbd7 21.Ne1 Nb6 22.Bxb7 Qxb7 23.Nc3 d5 24.Qf3 Qa6 25.cxd5 exd5 26.Qe2 Qxe2 27.Nxe2 a5 28.Bc3 a4 29.Ba5 Rd6 30.Bxb6 Rxb6 31.bxa4 Rb4 32.Nc3 d4 33.exd4 cxd4 34.Nd5 Rxc1 35.Nxe7+ Kf8 36.Rxc1 Kxe7 37.a5 Ra4 38.Nf3 d3 39.Rd1 Rxa5 1/2-1/2

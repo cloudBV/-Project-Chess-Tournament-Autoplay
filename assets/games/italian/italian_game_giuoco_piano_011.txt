@@ -1,0 +1,15 @@
+[Event "Round 1: Moor, Nathaniel Philip - Prraneeth Vuppala"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-1/MAzV5jxu/z4x0TCkb"]
+[Date "2026.07.15"]
+[Round "1.5"]
+[White "Moor, Nathaniel Philip"]
+[Black "Prraneeth Vuppala"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2502"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Piano"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O d6 5.c3 Bb6 6.Re1 Qf6 7.d3 h6 8.Be3 Nge7 9.a4 Ng6 10.Nbd2 Nf4 11.b4 a6 12.a5 Ba7 13.b5 axb5 14.Bxb5 O-O 15.a6 Bxe3 16.fxe3 Ng6 17.Bxc6 bxc6 18.a7 Ne7 19.Qa4 Bd7 20.Qa5 Rfc8 21.Reb1 Ng6 22.Rb7 Qd8 23.d4 exd4 24.cxd4 c5 25.dxc5 Bc6 26.Rb4 Kh7 27.cxd6 Qxd6 28.Rc4 Bb7 29.Rb1 Ba6 30.e5 Nxe5 31.Nxe5 Bxc4 32.Ndxc4 Qe6 33.Qc5 Rd8 34.Qxc7 f6 35.Rb7 Rd1+ 36.Kf2 Rg8 37.Nf3 Ra1 38.Rb8 Ra2+ 39.Kg3 Qe4 40.Rxg8 Kxg8 41.Nb6 Qg6+ 42.Kf4 h5 43.Qc8+ Kh7 44.a8=Q Rxa8 45.Nxa8 Qxg2 46.h4 Kh6 47.Qe6 Qb2 48.Nb6 Kh7 49.Ke4 1-0

@@ -1,0 +1,15 @@
+[Event "Round 2: Rayan Rashid Mugdho - Alaghehmand, Arshia"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-2/5Ey0SplQ/CdCT8bre"]
+[Date "2026.07.18"]
+[Round "2.15"]
+[White "Rayan Rashid Mugdho"]
+[Black "Alaghehmand, Arshia"]
+[Result "0-1"]
+[WhiteElo "2012"]
+[BlackElo "2237"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Be3 Qc7 8.a3 a6 9.Be2 Be7 10.O-O b5 11.f4 d6 12.Bf3 Bb7 13.Qe2 O-O 14.Rad1 Rac8 15.Qf2 Nd7 16.Kh1 Rfe8 17.Qg3 Bf6 18.Nd4 Nxd4 19.Bxd4 Bxd4 20.Rxd4 e5 21.Rdd1 exf4 22.Qxf4 Ne5 23.Be2 Re6 24.Qf2 h6 25.Qd4 Qa5 26.Qa7 Qc7 27.Qd4 Qc5 28.h3 g6 29.Kh2 h5 30.Qd2 b4 31.Na4 Qxc2 32.Qxb4 Qxe2 33.Qxb7 Rc2 0-1

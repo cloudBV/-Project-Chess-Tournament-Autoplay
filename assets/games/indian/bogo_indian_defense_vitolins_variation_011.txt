@@ -1,0 +1,14 @@
+[Event "Round 9: Degtiarev, Evgeny - Rotunno, Flavio"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-9/zQNzsYa2/ivf349mE"]
+[Date "2026.07.19"]
+[Round "9.3"]
+[White "Degtiarev, Evgeny"]
+[Black "Rotunno, Flavio"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2138"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.e3 d6 7.a3 bxa3 8.Qa4+ Nc6 9.Qxa3 O-O 10.Nc3 a5 11.Be2 b6 12.O-O Nb4 13.Rac1 Ba6 14.Rfd1 Rc8 15.b3 Qe7 16.Bf1 Rc7 17.e4 e5 18.c5 bxc5 19.dxe5 dxe5 20.Bxa6 Nxa6 21.Qxa5 Nb4 22.Nd5 Nbxd5 23.exd5 Qd6 24.Nd2 Rcc8 25.Nc4 Qb8 26.Nb6 Rc7 27.Rxc5 Ra7 28.Qb5 Rb7 29.Rc6 Nd7 30.Nxd7 Rxb5 31.Nxb8 Rbxb8 32.Rd3 e4 33.Re3 Rfd8 34.d6 f5 35.f3 Rb4 36.fxe4 fxe4 37.Rc4 Rxc4 38.bxc4 Rxd6 39.Rxe4 Rd2 40.Re7 Rc2 41.Rc7 h5 42.h4 Kh7 43.Rc5 Kh6 44.Kf1 g6 45.Rc7 Rd2 46.c5 Rc2 47.g3 Rd2 48.Ke1 Rg2 49.c6 Rxg3 50.Kd2 Rg4 51.Kd3 Rg1 52.Re7 Rc1 53.Re6 Kg7 54.Kd4 Kf7 55.Rd6 Ke7 56.Rxg6 Rh1 57.Kc5 Kd8 58.Rg8+ Kc7 59.Rg7+ Kc8 60.Kd6 Rd1+ 61.Ke5 Rh1 62.Ke4 1/2-1/2

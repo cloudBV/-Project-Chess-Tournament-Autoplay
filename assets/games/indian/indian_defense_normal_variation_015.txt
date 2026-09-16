@@ -1,0 +1,14 @@
+[Event "Round 8: Mohamed Anees M - Yurasov, Matfey"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/xSoCS9Hz"]
+[Date "2026.07.21"]
+[Round "8.8"]
+[White "Mohamed Anees M"]
+[Black "Yurasov, Matfey"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2407"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 Bb4+ 4.Nd2 O-O 5.a3 Bxd2+ 6.Qxd2 d6 7.e3 b6 8.Ne2 Bb7 9.Nc3 Nh5 10.Bg3 Nd7 11.O-O-O f5 12.f3 Nxg3 13.hxg3 Qg5 14.Qf2 Nf6 15.Kb1 Rae8 16.Rh4 a6 17.Be2 Qg6 18.Ka1 e5 19.d5 Bc8 20.Bd3 Qg5 21.Rdh1 h5 22.Be2 g6 23.f4 exf4 24.exf4 Ng4 25.Bxg4 fxg4 26.Re1 Qf5 27.Rd1 Re7 28.Rhh1 Rfe8 29.Rhe1 Qf6 30.Re2 Bf5 31.Rdd2 Kf7 32.Rxe7+ Rxe7 33.Ne2 Re4 34.Nd4 Qe7 35.Ka2 Qf6 36.Nxf5 gxf5 37.Rc2 Qd4 38.Qf1 Re3 39.Qf2 Qd3 40.Rc3 Re2 41.Rxd3 Rxf2 42.Re3 Rxg2 43.Kb3 Rh2 44.Kc3 h4 45.gxh4 Rxh4 46.b3 Rh3 47.Kd2 g3 48.Re1 g2 49.Rg1 Rxb3 50.a4 Rb2+ 51.Kd3 Kg6 52.Kd4 0-1

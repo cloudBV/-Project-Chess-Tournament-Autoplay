@@ -1,0 +1,14 @@
+[Event "Round 3: Honey, Luke Anthony - Wells, Peter K"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-3/AvsFowvJ/UpH32OTp"]
+[Date "2026.07.08"]
+[Round "3.6"]
+[White "Honey, Luke Anthony"]
+[Black "Wells, Peter K"]
+[Result "0-1"]
+[WhiteElo "2040"]
+[BlackElo "2318"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 e6 5.O-O a6 6.Bd3 Nc6 7.Nd5 g6 8.Re1 Bg7 9.Ne3 Nge7 10.c3 d5 11.exd5 exd5 12.Bf1 d4 13.Nc4 b5 14.Nce5 Nxe5 15.Nxe5 O-O 16.a4 Qd6 17.cxd4 cxd4 18.Nd3 b4 19.b3 Be6 20.Nb2 d3 21.Rb1 Nc6 22.Nxd3 Bf5 23.Qf3 Nd4 24.Qg3 Qxg3 25.hxg3 Nc2 26.Bb2 Rad8 27.Bxg7 Kxg7 28.Nc5 Nxe1 29.Rxe1 a5 30.Nb7 Rfe8 31.Rxe8 Rxe8 32.Kh2 Ra8 33.Nc5 Rd8 34.d4 Rxd4 35.Nb7 Bd3 36.Bxd3 Rxd3 37.Nxa5 Rc3 38.Kh3 h5 39.Kh4 Kh6 40.f3 g5+ 41.Kh3 f5 42.Kh2 g4 43.f4 Kg6 44.Kg1 Rxg3 45.Nc6 Rxb3 46.a5 Rb1+ 47.Kf2 b3 0-1

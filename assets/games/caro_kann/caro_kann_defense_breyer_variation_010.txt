@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.17"]
+[White "Alexikov, Alexander"]
+[Black "Piesik, Piotr"]
+[Result "0-1"]
+[WhiteElo "2110"]
+[BlackElo "2335"]
+[ECO "B10"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 g6 4.Ngf3 Bg7 5.g3 Nf6 6.Bg2 Nbd7 7.e5 Ng4 8.e6 fxe6 9.Ng5 Ndf6 10.Qe2 Qd6 11.d4 e5 12.h3 exd4 13.hxg4 Bxg4 14.Ngf3 O-O 15.O-O Nh5 16.Re1 e5 17.Qf1 e4 18.Nh2 Nxg3 19.fxg3 Rxf1+ 20.Ndxf1 Be6 21.Rb1 Qc5 22.Kh1 Qxc2 23.Bf4 Rf8 24.Rec1 Qa4 25.b3 Qa6 26.Nd2 d3 27.a4 Qa5 28.Nhf1 Qd8 29.b4 Rxf4 30.gxf4 Qh4+ 31.Kg1 Bd4+ 0-1

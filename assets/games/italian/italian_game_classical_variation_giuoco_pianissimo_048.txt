@@ -1,0 +1,14 @@
+[Event "Round 7: Koutlas, Nikolaos - Dimitrov, Atanas"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/g36IV3HO"]
+[Date "2026.07.10"]
+[Round "7.71"]
+[White "Koutlas, Nikolaos"]
+[Black "Dimitrov, Atanas"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2245"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 O-O 6.O-O h6 7.d4 Bb6 8.dxe5 Nxe4 9.Bd5 Nc5 10.b4 Ne6 11.Nbd2 d6 12.exd6 cxd6 13.Ne4 Ne5 14.Bb3 Qc7 15.Nh4 Rd8 16.Bd5 Nf8 17.Kh1 Qe7 18.Qh5 Nh7 19.Nf5 Bxf5 20.Qxf5 Rac8 21.Bf4 g6 22.Qh3 h5 23.Rad1 Rc7 24.Qg3 h4 25.Qh3 Kg7 26.Rfe1 f6 27.Qxh4 g5 28.Qg3 Kh8 29.Bc1 Qg7 30.Be6 Re7 31.Bf5 d5 32.Bxh7 Kxh7 33.Nxf6+ Qxf6 34.Bxg5 Qf5 35.Bxe7 Ng4 36.Bc5 1-0

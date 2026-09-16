@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.11"]
+[White "Lehocz, Jozsef Jr."]
+[Black "Butkiewicz, Jan"]
+[Result "1-0"]
+[WhiteElo "2100"]
+[BlackElo "2129"]
+[ECO "B27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Be3 cxd4 7.cxd4 Nf6 8.Nc3 Qa5 9.Bc4 O-O 10.O-O Nc6 11.d5 Rd8 12.Qb3 Nb4 13.Rad1 b5 14.Bxb5 Bb7 15.Bc4 Bxd5 16.Nxd5 Nbxd5 17.Ne5 Rab8 18.Qa3 Qc7 19.Bd4 e6 20.Rc1 Qe7 21.Nc6 Qxa3 22.bxa3 Nb6 23.Be3 Nfd5 24.Bxd5 exd5 25.Nxd8 Rxd8 26.Bxb6 axb6 27.a4 d4 28.Rb1 Rd6 29.Rfd1 Be5 30.Rd3 f5 31.g3 Kf7 32.f4 Bf6 33.Kf2 Rc6 34.Kf3 Ke6 35.Rb5 Kd6 36.a5 bxa5 37.Rxa5 Rc1 38.Ra6+ Ke7 39.Rb3 Kf8 40.Rxf6+ 1-0

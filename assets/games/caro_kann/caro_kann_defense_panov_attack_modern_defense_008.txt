@@ -1,0 +1,14 @@
+[Event "Round 6: Safarli, Eltaj - Tkhoruk, Roman"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-6/V8amVhcr/XPWNTlR4"]
+[Date "2026.07.19"]
+[Round "6.14"]
+[White "Safarli, Eltaj"]
+[Black "Tkhoruk, Roman"]
+[Result "1-0"]
+[WhiteElo "2619"]
+[BlackElo "2055"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nc6 5.Nc3 Nf6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4 Ng6 9.Nf3 e6 10.Bxc4 exd5 11.Bb5+ Bd7 12.Bxf6 gxf6 13.Bxd7+ Qxd7 14.O-O Be7 15.Nxd5 Rd8 16.Rad1 Qd6 17.Rfe1 Ne5 18.Nxe5 fxe5 19.Rxe5 Rg8 20.Rde1 Kf8 21.Rxe7 1-0

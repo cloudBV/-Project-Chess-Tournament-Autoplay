@@ -1,0 +1,15 @@
+[Event "Round 3: Larino Nieto, David - Perez Carballo, David"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-3/87LiEk1V/HvN3TMeK"]
+[Date "2026.07.14"]
+[Round "3.4"]
+[White "Larino Nieto, David"]
+[Black "Perez Carballo, David"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2111"]
+[ECO "B25"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.g3 c5 2.Bg2 Nc6 3.Nc3 g6 4.e4 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7 8.h4 Nd4 9.h5 Nec6 10.Be3 Bd7 11.h6 Bf6 12.e5 dxe5 13.Ne4 O-O 14.c3 exf4 15.Bxf4 Nxf3+ 16.Qxf3 e5 17.Be3 Bf5 18.Nxf6+ Qxf6 19.g4 e4 20.Qf4 Ne5 21.O-O Nxg4 22.Qxg4 Qe6 23.Rxf5 Qxf5 24.Qxf5 gxf5 25.Bxc5 Rfe8 26.Kf2 Re6 27.Rg1 Rxh6 28.dxe4 f4 29.e5 Rg6 30.Rd1 Rc8 31.Be7 Rb6 32.b3 Rxc3 33.Be4 Re3 34.Rd8+ Kg7 35.Bf8+ Kg8 36.Bh6# 1-0

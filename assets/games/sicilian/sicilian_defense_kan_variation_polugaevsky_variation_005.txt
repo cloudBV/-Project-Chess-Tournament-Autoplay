@@ -1,0 +1,14 @@
+[Event "Round 6: Nurman, Alua - Kovalenko, Igor"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-6/KOO5y7mV/qjNzmi98"]
+[Date "2026.07.05"]
+[Round "6.5"]
+[White "Nurman, Alua"]
+[Black "Kovalenko, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2672"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Nc6 8.Be3 Nge7 9.c4 d6 10.Nc3 O-O 11.O-O e5 12.Bxa7 Rxa7 13.Qe3 Be6 14.Rfd1 b6 15.Rd2 Qb8 16.Rad1 Nc8 17.Nc1 Nd4 18.f4 f6 19.Kh1 Qc7 20.N1e2 Nxe2 21.Bxe2 Qc5 22.Qg3 exf4 23.Qxf4 Qe5 24.Qh4 Rc7 25.Rd4 Rc5 26.b4 Rc7 27.Nd5 Rcf7 28.Bf3 a5 29.bxa5 bxa5 30.Qe1 Ra7 31.Qd2 a4 32.Rb1 a3 33.Rb5 Bxd5 34.Rbxd5 Qe8 35.Rb5 Re7 36.h3 Re5 37.Rb1 Qf7 38.Qd3 Qa7 39.Rb3 Ra5 40.Rd5 Rxd5 41.Qxd5+ Kh8 42.Kh2 Rg8 43.Bg4 Qf2 44.Rxa3 Qf4+ 45.Rg3 Ne7 46.Qd3 Ng6 47.Qf3 Qe5 48.Bf5 Ne7 49.Qc3 Qc5 50.Be6 Rb8 51.Bd5 Qa7 52.Qa3 Qc7 53.Rb3 Re8 54.Rb7 Qd8 55.Qa4 Nxd5 56.exd5 h6 57.Qd7 Qxd7 58.Rxd7 Rc8 59.Rxd6 Rxc4 60.Rc6 Rd4 61.d6 Kg8 62.a4 Kf7 63.a5 Ke6 64.Rb6 Ra4 65.a6 h5 66.Kg3 Kd7 67.Rb7+ Kxd6 68.Rxg7 Rxa6 69.Kh4 Ra5 70.Rh7 Ke6 71.Rxh5 Ra2 72.g4 Kf7 73.Rb5 Ra3 74.Rb7+ Kg6 75.Rb6 Rc3 76.Rb1 Ra3 77.Rg1 f5 78.Rb1 fxg4 79.Rb6+ Kg7 1/2-1/2

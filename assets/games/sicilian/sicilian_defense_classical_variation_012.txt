@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.12"]
+[Round "12.5"]
+[White "Nytra, Ondrej"]
+[Black "Winter, Ondrej"]
+[Result "1/2-1/2"]
+[WhiteElo "2171"]
+[BlackElo "2286"]
+[ECO "B58"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 a6 7.O-O e6 8.Be3 Be7 9.f4 O-O 10.Qe1 Nxd4 11.Bxd4 b5 12.Bf3 Bb7 13.Rd1 Qc7 14.a3 Rad8 15.Qg3 g6 16.Kh1 d5 17.e5 Ne4 18.Bxe4 dxe4 19.f5 exf5 20.Rxf5 Bc5 21.Bxc5 Qxc5 22.Rxd8 Rxd8 23.Rf1 Re8 24.Qf4 Re7 25.Nxe4 Qxe5 26.Nf6+ Kg7 27.Qh4 h6 28.Ng4 Qg5 29.Qxg5 hxg5 30.Kg1 Re2 31.Rf2 Re4 32.h3 f5 33.Nh2 Re1+ 34.Rf1 Re7 35.Rf2 Be4 36.Rd2 Kf6 37.Kf2 Rc7 38.c3 Rc6 39.Nf1 Ke5 40.Ne3 Rd6 41.Re2 Rd3 42.c4 Kd4 43.cxb5 axb5 44.Nc2+ Kc4 45.Nb4 Rd1 46.Kg3 Kb3 47.Na6 Rd3+ 48.Kf2 Rd5 49.Nc7 Rc5 50.Ne6 Rc4 51.Ke3 f4+ 52.Kf2 Bf5 53.Nxg5 Rc2 54.Rxc2 Kxc2 55.Nf3 Kxb2 56.Nd4 Bd7 57.Kf3 g5 58.h4 gxh4 1/2-1/2

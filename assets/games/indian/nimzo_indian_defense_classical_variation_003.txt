@@ -1,0 +1,15 @@
+[Event "Round 8: Huseyinoglu, Alihan - Kantor, Gergely"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/cyd5yRJV"]
+[Date "2026.07.04"]
+[Round "8.4"]
+[White "Huseyinoglu, Alihan"]
+[Black "Kantor, Gergely"]
+[Result "0-1"]
+[WhiteElo "2395"]
+[BlackElo "2537"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d5 6.e5 Ne4 7.Bd3 c5 8.Nf3 cxd4 9.Nxd4 f5 10.exf6 Nxf6 11.cxd5 exd5 12.O-O Nc6 13.Be3 Kh8 14.h3 Nxd4 15.Bxd4 Nh5 16.Ne2 Bxh3 17.Ng3 Bg4 18.Bxh7 Nf4 19.f3 Bd7 20.Bd3 Qh4 21.Bf2 Rac8 22.Qb3 Bd6 23.Bb5 Bxb5 24.Qxb5 a6 0-1

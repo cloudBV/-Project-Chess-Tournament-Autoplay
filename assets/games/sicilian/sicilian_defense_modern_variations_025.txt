@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "5.6"]
+[White "Plat, Vojtech"]
+[Black "Gomez Navais, Marcal"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2095"]
+[ECO "B50"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5 dxe5 5.Nxe5 Nbd7 6.d4 cxd4 7.Qxd4 e6 8.Nxd7 Bxd7 9.Bg5 Be7 10.O-O-O Bc6 11.Qxd8+ Rxd8 12.Bb5 Bxb5 13.Nxb5 Nd5 14.Bxe7 Kxe7 15.Rhe1 a6 16.Nd4 Kf6 17.g3 g6 18.Nf3 Rc8 19.Kb1 Rhd8 20.Rd4 b5 21.Ne5 h5 22.h4 Ne7 23.Rxd8 Rxd8 24.Nd3 Nf5 25.Kc1 Rd4 26.Nc5 a5 27.Nb3 Rc4 28.c3 a4 29.Nd2 Rc6 30.a3 Nd6 31.Kc2 Kf5 32.Nf3 Kf6 33.Rd1 Ne4 34.Rd4 Nd6 35.Nd2 Nf5 36.Rd7 Nd6 37.b3 axb3+ 38.Kxb3 e5 39.Rxd6+ Rxd6 40.Ne4+ Ke6 41.Nxd6 Kxd6 42.Kb4 Kc6 43.c4 bxc4 44.Kxc4 f6 45.a4 g5 46.a5 gxh4 47.gxh4 f5 48.a6 Kb6 49.Kd5 e4 50.Ke5 1-0

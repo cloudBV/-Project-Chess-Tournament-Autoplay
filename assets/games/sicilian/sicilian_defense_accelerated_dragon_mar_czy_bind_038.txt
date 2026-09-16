@@ -1,0 +1,14 @@
+[Event "Round 8: Paasikangas, Johanna - Seiger, Vidar"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-8/lNTkMvHK/UKgtffV4"]
+[Date "2026.07.17"]
+[Round "8.17"]
+[White "Paasikangas, Johanna"]
+[Black "Seiger, Vidar"]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2287"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.f3 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6 11.Rc1 a6 12.b3 Qa5 13.Be2 Rfc8 14.O-O b5 15.Nd5 Qxd2 16.Bxd2 Nxd5 17.cxd5 Bd4+ 18.Kh1 Bd7 19.Bd3 f6 20.g4 g5 21.Kg2 Rxc1 22.Rxc1 Rc8 1/2-1/2

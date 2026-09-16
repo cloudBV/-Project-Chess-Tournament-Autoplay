@@ -1,0 +1,14 @@
+[Event "Round 9: Carlstrom, Niklas - Sundin, Emanuel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/3ge6YpJY"]
+[Date "2026.07.04"]
+[Round "9.9"]
+[White "Carlstrom, Niklas"]
+[Black "Sundin, Emanuel"]
+[Result "0-1"]
+[WhiteElo "2112"]
+[BlackElo "2157"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 e6 5.O-O a6 6.Bd3 Nc6 7.Re1 g5 8.h3 h5 9.Nh2 Bd6 10.b3 g4 11.Bb2 gxh3 12.gxh3 Qg5+ 13.Kh1 Qf4 14.e5 Nxe5 15.Re4 Qxf2 16.Nd5 Nxd3 17.Re2 Nxb2 18.Rxf2 Nxd1 19.Rxd1 exd5 20.Re1+ Ne7 0-1

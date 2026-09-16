@@ -1,0 +1,14 @@
+[Event "Round 6: Englert, Luca - Mantazis, Georgios Rafail"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/tc51kyVL"]
+[Date "2026.07.22"]
+[Round "6.20"]
+[White "Englert, Luca"]
+[Black "Mantazis, Georgios Rafail"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2134"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 e6 2.Nc3 Nf6 3.e4 d6 4.d4 g6 5.Be2 Bg7 6.h4 e5 7.dxe5 dxe5 8.Qxd8+ Kxd8 9.Nf3 Nbd7 10.Ng5 Ke7 11.Nd5+ Nxd5 12.cxd5 h6 13.Nh3 b6 14.f3 Bb7 15.b3 Rhd8 16.h5 g5 17.Ba3+ Kf6 18.Nf2 Bf8 19.Bxf8 Rxf8 20.Bb5 Rfd8 21.Ng4+ Kg7 22.Rc1 Rac8 23.Bxd7 Rxd7 24.Nxe5 Re7 25.Nc6 Bxc6 26.Rxc6 f5 27.O-O Rf8 28.Rfc1 Rff7 29.exf5 1-0

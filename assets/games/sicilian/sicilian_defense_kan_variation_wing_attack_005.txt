@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.26"]
+[White "Martin Gonzalez, Angel"]
+[Black "Jing, Andrew"]
+[Result "1-0"]
+[WhiteElo "2150"]
+[BlackElo "2298"]
+[ECO "B43"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 b5 6.Bd3 Bb7 7.O-O Nc6 8.Nb3 Qc7 9.Be3 Ne5 10.f4 Nc4 11.Bd4 Nf6 12.Qe2 Be7 13.Rae1 h5 14.e5 Nd5 15.Ne4 Nb4 16.a3 Nxd3 17.cxd3 Na5 18.Rc1 Qd8 19.Nxa5 Qxa5 20.Qe3 Bxe4 21.dxe4 O-O 22.f5 Rfc8 23.f6 Rxc1 24.Rxc1 Bf8 25.Bc5 Bxc5 26.Rxc5 g6 27.h3 Kh7 28.b4 Qa4 29.Qd3 Rd8 30.Rc7 h4 31.Rxd7 Rxd7 32.Qxd7 Kh6 33.Qd2+ Kh7 34.Qd7 Kh6 35.Qxf7 Qd1+ 36.Kh2 Qf1 37.Qf8+ Kg5 38.Qc5 Qf4+ 39.Kg1 Kh6 40.Qf2 Qxe5 41.Qxh4+ 1-0

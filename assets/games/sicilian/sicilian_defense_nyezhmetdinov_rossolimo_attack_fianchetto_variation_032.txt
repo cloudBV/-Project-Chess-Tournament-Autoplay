@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.08"]
+[Round "5.3"]
+[White "Pressler, Tobias"]
+[Black "Jun, Rudolf"]
+[Result "0-1"]
+[WhiteElo "2070"]
+[BlackElo "2231"]
+[ECO "B31"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.c3 Bg7 5.d4 cxd4 6.cxd4 a6 7.Ba4 b5 8.Bb3 Na5 9.O-O Bb7 10.Re1 Nf6 11.d5 d6 12.Bd2 O-O 13.Bc3 Rc8 14.Nbd2 Nd7 15.Bxg7 Kxg7 16.Nd4 Qb6 17.N2f3 Ne5 18.Qd2 Nac4 19.Bxc4 Rxc4 20.b3 Rc7 21.Rad1 h6 22.Qf4 Nxf3+ 23.Qxf3 b4 24.h4 Rc3 25.Qg4 Bc8 26.Qf4 e5 27.dxe6 fxe6 28.Qd2 e5 29.Nc2 Rd3 30.Qe2 Rxd1 31.Rxd1 Bg4 32.Qxg4 Qxf2+ 33.Kh2 Rf4 34.Qd7+ Rf7 35.Qg4 h5 36.Qg5 Qxc2 37.Rxd6 Qxe4 38.Rxa6 Qf4+ 39.Qxf4 Rxf4 40.Kg3 Rg4+ 41.Kf3 Rxh4 42.Re6 Rf4+ 43.Ke3 Rg4 44.Kf3 Rf4+ 45.Ke3 Rg4 46.Kf3 e4+ 47.Kf2 h4 48.Ra6 Kh6 49.a4 bxa3 50.Rxa3 Kg5 51.b4 Kf4 52.b5 Rg5 53.Rb3 e3+ 54.Rxe3 Rxb5 55.Ra3 Rb2+ 56.Kf1 g5 57.Rf3+ Kg4 58.Kg1 Rb4 59.Ra3 Kf5 60.Rf3+ Rf4 61.Ra3 Rd4 62.Rf3+ Ke4 63.Kf2 Rd2+ 64.Kf1 Rd1+ 65.Ke2 g4 66.Rf8 Ra1 67.Re8+ Kf4 68.Kf2 g3+ 69.Ke2 h3 70.Rf8+ Ke5 71.Re8+ Kf6 0-1

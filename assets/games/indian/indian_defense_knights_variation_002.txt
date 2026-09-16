@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.16"]
+[White "Girsh, Daniel"]
+[Black "Jammalamadaka, Vihaan"]
+[Result "1-0"]
+[WhiteElo "2326"]
+[BlackElo "2109"]
+[ECO "A46"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 cxd4 5.O-O Be7 6.Nxd4 d5 7.c4 O-O 8.cxd5 exd5 9.Nc3 Nc6 10.Bf4 Be6 11.Rc1 Rc8 12.Nxe6 fxe6 13.Bh3 Qd7 14.e4 Rcd8 15.exd5 Nxd5 16.Nxd5 Qxd5 17.Re1 Nd4 18.Bxe6+ Nxe6 19.Qxd5 Rxd5 20.Rxe6 Bc5 21.Rc2 g5 22.Be3 Bxe3 23.Rxe3 Rf7 24.g4 Kg7 25.Kg2 Rd4 26.h3 h6 27.Rf3 Re7 28.Rf5 Rde4 29.Ra5 a6 30.Rac5 Rf4 31.Rc7 Ref7 32.Rxf7+ Rxf7 33.Kg3 Rd7 34.Rc3 Kf6 35.Rb3 b5 36.h4 Rd2 37.h5 Ke5 38.Ra3 Rd6 39.Re3+ Kf6 40.Kf3 b4 41.Ke2 a5 42.Re8 Rc6 43.Kd3 Rd6+ 44.Kc2 Rd4 45.f3 a4 46.Re4 Rxe4 47.fxe4 Ke5 48.Kd3 Kf4 49.Kd4 Kxg4 50.e5 Kf5 51.Kd5 g4 52.e6 g3 53.e7 g2 54.e8=Q g1=Q 55.Qf7+ 1-0

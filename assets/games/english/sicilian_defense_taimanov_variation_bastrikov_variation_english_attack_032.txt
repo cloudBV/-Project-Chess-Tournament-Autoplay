@@ -1,0 +1,14 @@
+[Event "Round 6: Beerdsen, Thomas - Angelovski, Emanuel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-6/UBdjhIls/NUBri8eq"]
+[Date "2026.07.16"]
+[Round "6.2"]
+[White "Beerdsen, Thomas"]
+[Black "Angelovski, Emanuel"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2181"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.g4 h6 8.Rg1 Nf6 9.Nxc6 bxc6 10.Qf3 Rb8 11.O-O-O d5 12.Kb1 Bb4 13.Bd2 Qa5 14.g5 d4 15.gxf6 Bxc3 16.Bxc3 Qxc3 17.Qxc3 dxc3 18.fxg7 Rxb2+ 19.Kc1 Rg8 20.Rd3 Rxa2 21.Rxc3 Ra1+ 22.Kb2 Re1 23.Rxc6 Ke7 24.f4 Bd7 25.Rxa6 Bb5 26.Ra7+ Kd6 27.e5+ Kc5 28.Ra5 Rxf1 29.Rxf1 Kb4 30.Rxb5+ Kxb5 31.Rg1 Kc4 32.Kc1 Kd4 33.Kd2 Ke4 34.Ke2 Kxf4 35.Rf1+ Kxe5 36.Rxf7 Ke4 37.c4 e5 38.h3 Kd4 39.Kf3 Kxc4 40.Ke4 Kc3 41.Kxe5 1-0

@@ -1,0 +1,14 @@
+[Event "Round 9: Serrier, Mathis - Batsiashvili, Nino"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-9/VdbYnQQq/KizUCI1i"]
+[Date "2026.07.18"]
+[Round "9.4"]
+[White "Serrier, Mathis"]
+[Black "Batsiashvili, Nino"]
+[Result "1-0"]
+[WhiteElo "2237"]
+[BlackElo "2469"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 dxc4 4.Qa4+ c6 5.Qxc4 c5 6.Nf3 Nc6 7.O-O Bd7 8.Qb3 Nf6 9.Nc3 a6 10.Rd1 b5 11.d4 Rc8 12.d5 c4 13.dxc6 cxb3 14.Ne5 Bb4 15.cxd7+ Nxd7 16.Nc6 Qc7 17.Nxb4 Qc4 18.a3 a5 19.Nd3 O-O 20.Be3 Rfd8 21.Rac1 Qg4 22.Bf4 g5 23.Bd6 h6 24.Bb7 Rc4 25.Ba6 Rxc3 26.bxc3 Qxe2 27.Bxb5 Nb6 28.Bc7 Rd5 29.Bxb6 Rxb5 30.Be3 b2 31.Rb1 Qc2 32.Bd4 Rb3 33.Ne1 Qe2 34.c4 e5 35.Be3 Qxc4 36.Rd2 Qc3 37.Rc2 Qxe1+ 38.Rxe1 b1=Q 39.Rxb1 Rxb1+ 40.Kg2 Rb3 41.Rc8+ Kg7 42.Bc5 g4 43.Bd6 Kf6 44.Rc6 h5 45.Ra6 h4 46.gxh4 Rd3 47.Bb4+ Kf5 48.Rxa5 Ke4 49.Be7 Rf3 50.Ra6 f5 51.Ra5 f4 52.Bf6 Rb3 53.Rxe5+ Kd3 54.Bg5 1-0

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.11"]
+[White "Mojzis, Jaroslav"]
+[Black "Yelisieiev, Yevhenii"]
+[Result "1-0"]
+[WhiteElo "2027"]
+[BlackElo "2402"]
+[ECO "A41"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.g3 h6 6.Nh3 Nf6 7.Nf4 Kf7 8.h4 Be7 9.Nc3 c6 10.d5 a5 11.Bg2 Na6 12.f3 Nc5 13.Qc2 exf3 14.exf3 Re8 15.Be3 Bf8 16.Kd2 Qb6 17.Rae1 Qb4 18.Bd4 Qxc4 19.Bxf6 Rxe1 20.Rxe1 gxf6 21.Bh3 Bg7 22.Bxf5 Bxf5 23.Qxf5 Kf8 24.Qg6 Qd4+ 25.Kc1 f5 26.Ne6+ Nxe6 27.dxe6 Kg8 28.e7 1-0

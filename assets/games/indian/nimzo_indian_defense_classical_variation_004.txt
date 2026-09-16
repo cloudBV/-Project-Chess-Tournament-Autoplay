@@ -1,0 +1,15 @@
+[Event "Round 11: Tang, Andrew - Caruana, Fabiano"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-11/BxYDM8xV/r2EeJfwB"]
+[Date "2026.07.04"]
+[Round "11.7"]
+[White "Tang, Andrew"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteElo "2553"]
+[BlackElo "2773"]
+[ECO "E32"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 O-O 6.Bd2 c5 7.a3 Ba5 8.dxc5 dxc5 9.Bg5 h6 10.Bh4 Nc6 11.e3 e5 12.Rd1 Qe7 13.Be2 Bxc3+ 14.Qxc3 Bf5 15.Nd2 g5 16.Bg3 Rad8 17.h4 Rd7 18.hxg5 hxg5 19.Qc1 Rfd8 20.Nb1 Rxd1+ 21.Bxd1 Bd3 22.b3 Qe6 23.Nc3 Qf5 24.f3 e4 25.f4 Nd4 26.Qb2 Ne6 27.fxg5 Qxg5 28.Qf2 Qg6 29.Be5 Nh7 30.Nd5 Rxd5 31.cxd5 Neg5 32.Qf4 f6 33.Bc3 b6 34.Qb8+ Kg7 35.Qf4 Nf7 36.Kf2 Nhg5 37.Bg4 Nh6 38.Be6 Bc2 39.b4 Bb3 40.bxc5 bxc5 41.Qc7+ Nhf7 42.Bxf7 Nxf7 43.Qxc5 Qf5+ 44.Kg1 Bxd5 45.Rh4 Qg5 46.Rf4 Ne5 47.Qe7+ Kg6 48.Bxe5 fxe5 49.Qd6+ Kg7 50.Qd7+ Kh6 51.Qh3+ 1-0

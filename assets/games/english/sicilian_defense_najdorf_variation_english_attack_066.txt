@@ -1,0 +1,15 @@
+[Event "Round 4: Gan-Erdene, Sugar - Matlakov, Maxim"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/dffkQK4Q"]
+[Date "2026.07.24"]
+[Round "4.19"]
+[White "Gan-Erdene, Sugar"]
+[Black "Matlakov, Maxim"]
+[Result "0-1"]
+[WhiteElo "2474"]
+[BlackElo "2599"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Qd2 Nbd7 9.f3 h5 10.Be2 b5 11.O-O Be7 12.a4 b4 13.Nd5 Bxd5 14.exd5 Nb6 15.f4 Nbxd5 16.Bf3 Nxe3 17.Qxe3 e4 18.Bxe4 Nxe4 19.Qxe4 d5 20.Qe5 O-O 21.Qxh5 Rc8 22.Rf2 Rc4 23.g3 Qc7 24.Qf5 g6 25.Qd3 Bf6 26.Rb1 Rc8 27.Qxd5 Qa7 28.Kg2 Rxc2 29.Rf1 Qe3 30.f5 Rd8 31.Qb7 Qxb3 32.fxg6 Rdd2 33.gxf7+ Qxf7 34.Qb8+ Kg7 35.Qxb4 Rxf2+ 36.Rxf2 Qd5+ 0-1

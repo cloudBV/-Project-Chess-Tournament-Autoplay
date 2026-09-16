@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.14"]
+[White "Benseny Martinez, Guerau"]
+[Black "Pasti, Aron"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2428"]
+[ECO "B40"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 d5 6.d3 Be7 7.O-O O-O 8.e5 Nd7 9.c4 Re8 10.h4 d4 11.Bf4 h6 12.Re1 f6 13.Bh3 f5 14.h5 Bg5 15.Qd2 Bxf4 16.Qxf4 a6 17.b3 b5 18.a3 Bb7 19.Nbd2 Rf8 20.Nh4 Qg5 21.Qxg5 hxg5 22.Ng6 Rfe8 23.g4 Ne7 24.Nxe7+ Rxe7 25.gxf5 exf5 26.e6 Nf6 27.Bxf5 Nxh5 28.Be4 Bxe4 29.Nxe4 Rxe6 30.Nxc5 Rc6 31.Ne6 g4 32.Re5 Nf6 33.Rae1 bxc4 34.bxc4 Ra7 35.Ng5 Kf8 36.Ne6+ Kg8 37.Ng5 Rc8 38.Re7 Rxe7 39.Rxe7 Rb8 40.Ne6 Nh5 41.c5 Rb1+ 42.Kh2 Rc1 43.Rd7 Rc2 44.Kg1 Rc1+ 45.Kg2 Rc2 46.Kg1 Rc1+ 47.Kg2 Rc2 48.Kg1 Rc1+ 49.Kg2 Rc2 1/2-1/2

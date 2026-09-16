@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "4.3"]
+[White "Demac, Elias"]
+[Black "Aamodt, Peder Marcus"]
+[Result "1-0"]
+[WhiteElo "2256"]
+[BlackElo "2178"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 Bxc3+ 5.bxc3 d6 6.e3 Qe7 7.Bd3 e5 8.Nd2 Nc6 9.O-O O-O 10.Re1 Re8 11.Bb2 b6 12.e4 Na5 13.Nf1 c5 14.d5 Bd7 15.Ne3 Reb8 16.Bc1 Ne8 17.Bd2 Qd8 18.Rf1 Qc7 19.f4 b5 20.cxb5 c4 21.Bc2 Rxb5 22.Qh5 f6 23.f5 Rb2 24.Bc1 Rb7 25.Rf3 Nb3 26.Rb1 Nxc1 27.Rxc1 Qa5 28.Ng4 Ba4 29.Bxa4 Qxa4 30.Rh3 Qd7 31.Qxh7+ Kf8 32.Qh8+ Ke7 33.Rh7 Rab8 34.h4 Qc7 35.Rxg7+ Nxg7 36.Qxg7+ Kd8 37.Qf8+ 1-0

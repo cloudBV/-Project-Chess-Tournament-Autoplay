@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-5/A8vmhEwv/1f5mCURT"]
+[Date "2026.07.02"]
+[Round "5.9"]
+[White "Marin Ferragut, Pau"]
+[Black "Truter, Maximilian"]
+[Result "1-0"]
+[WhiteElo "2352"]
+[BlackElo "2193"]
+[ECO "B63"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O a6 9.f3 Nxd4 10.Qxd4 b5 11.Kb1 Bb7 12.h4 Rc8 13.Bd3 Qc7 14.g4 h6 15.Bc1 Qc5 16.Qxc5 dxc5 17.Be3 Nd7 18.g5 c4 19.Be2 hxg5 20.hxg5 Rxh1 21.Rxh1 Bc5 22.Rh8+ Ke7 23.Rxc8 Bxc8 24.Bxc5+ Nxc5 25.e5 Bb7 26.Kc1 Nd7 27.f4 Nf8 28.Bh5 Nd7 29.Kd2 Nb6 30.a3 Bc6 31.Ke3 f6 32.Kd4 Nd7 33.Ne2 Bb7 34.Ng1 Bc6 35.gxf6+ gxf6 36.Bf3 fxe5+ 37.fxe5 Nb8 38.Kc5 Be8 39.Bb7 Nd7+ 40.Kd4 Nb8 41.Kc5 Nd7+ 42.Kb4 Nxe5 43.Bxa6 Nc6+ 44.Kc5 Ne5 45.Ne2 Bg6 46.Nd4 Bxc2 47.Nxc2 Nd3+ 48.Kxb5 Nxb2 49.Kb4 Kd6 50.Bxc4 e5 51.Be2 e4 52.Kb3 Nd3 53.Bxd3 exd3 54.Nb4 d2 55.Kc2 1-0

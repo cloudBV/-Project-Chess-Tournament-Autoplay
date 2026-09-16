@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "11.7"]
+[White "WaspHCE 7.16"]
+[Black "Cheese 3.3.2"]
+[Result "1/2-1/2"]
+[WhiteElo "3194"]
+[BlackElo "3090"]
+[ECO "A13"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 a6 4.Bg2 b5 5.b3 Bb7 6.O-O c5 7.Nc3 Qb6 8.e3 d5 9.cxd5 exd5 10.Nh4 Nbd7 11.Bb2 c4 12.d3 Rd8 13.dxc4 dxc4 14.e4 Bb4 15.bxc4 bxc4 16.e5 Nc5 17.Qe2 Nfd7 18.Rab1 Bxg2 19.Nxg2 Bxc3 20.Bxc3 Qc6 21.Qxc4 O-O 22.Ne3 Rfe8 23.Rfd1 Qa8 24.Ba5 Rc8 25.f4 Ne6 26.Qe2 Qe4 27.Rb4 Qc6 28.Rd6 Qc5 29.Rd5 Qc1+ 30.Kg2 Ndf8 31.Bb6 Qc3 32.Qd2 Qc6 33.a4 Ng6 34.Kg1 Ne7 35.Rd7 h6 36.a5 Qa8 37.Rb1 Nf8 38.Rd6 Qe4 39.Rf1 Nf5 40.Nxf5 Qxf5 41.Qe2 Rc2 42.Qxa6 Qe4 43.Bf2 Ra2 44.Rd4 Qc2 45.Rdd1 Qc3 46.Be1 Qc2 47.Rd2 Qc5+ 48.Rdf2 Ra1 49.Qd3 Rc8 50.Bd2 Rxf1+ 51.Kxf1 Ne6 52.Kg2 Rd8 53.Qf3 Qc4 54.Be3 Rd3 55.Rd2 Ra3 56.f5 Ng5 57.Qa8+ Kh7 58.Bxg5 hxg5 59.f6 Ra2 60.Rxa2 Qxa2+ 61.Kf3 Qb3+ 62.Ke4 Qc4+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "IRT SANLEY SOUZA CHESS OPEN"]
+[Site "XADREZ CACOAL"]
+[Date "2026.07.04"]
+[Round "4.2"]
+[White "Do Carmo, Gabriel Carckeno"]
+[Black "Araujo, Everson De Moura"]
+[Result "1/2-1/2"]
+[WhiteElo "2037"]
+[BlackElo "2034"]
+[ECO "A36"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 Nf6 6.a3 a5 7.Nf3 O-O 8.O-O e5 9.Ne1 d6 10.Nc2 Be6 11.d3 Qd7 12.b4 axb4 13.axb4 Rfb8 14.Bd2 Bh3 15.b5 Bxg2 16.Kxg2 Nd4 17.e3 Nxc2 18.Qxc2 1/2-1/2

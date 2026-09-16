@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "4.1"]
+[White "Hilby, Craig"]
+[Black "Yoo, Christopher Woojin"]
+[Result "1/2-1/2"]
+[WhiteElo "2416"]
+[BlackElo "2607"]
+[ECO "A34"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 Nd3+ 7.Ke2 Nf4+ 8.Kf1 Nd3 9.Ke2 Nf4+ 10.Kf1 Nd3 1/2-1/2

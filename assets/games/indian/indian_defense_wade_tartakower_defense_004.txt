@@ -1,0 +1,14 @@
+[Event "Round 2: Odegov, Artem - Milanovic, Danilo"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/HwgAN3SQ"]
+[Date "2026.07.05"]
+[Round "2.20"]
+[White "Odegov, Artem"]
+[Black "Milanovic, Danilo"]
+[Result "0-1"]
+[WhiteElo "2244"]
+[BlackElo "2364"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.c4 g6 4.Nc3 Bf5 5.Qb3 Qc8 6.h3 Bg7 7.g4 Bd7 8.e4 O-O 9.Be3 Nc6 10.d5 Na5 11.Qc2 c5 12.e5 Ne8 13.Bf4 a6 14.Be2 b5 15.cxb5 axb5 16.Ne4 c4 17.O-O f5 18.exf6 Nxf6 19.Nxf6+ Rxf6 20.Bg3 Qc5 21.Rad1 Nb7 22.a3 Qb6 23.Bh4 Rf7 24.Ng5 Rf4 25.Bg3 Rd4 26.Nf3 Rxd1 27.Rxd1 Nc5 28.Re1 Qb7 29.Ng5 Rf8 30.Bf3 Rxf3 31.Nxf3 Qxd5 32.Re3 Bc6 33.h4 Bd4 34.Rxe7 Qxf3 35.Kf1 Qh1+ 36.Ke2 Bf3+ 37.Kd2 Nb3+ 0-1

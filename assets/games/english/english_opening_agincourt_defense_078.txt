@@ -1,0 +1,14 @@
+[Event "Round 2: Daniel Malek - Heinrich, John"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-2/LbONws5M/jYnXWLBJ"]
+[Date "2026.07.20"]
+[Round "2.6"]
+[White "Daniel Malek"]
+[Black "Heinrich, John"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2356"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.Nf3 c5 5.e3 Nc6 6.exd4 cxd4 7.O-O Nf6 8.d3 h6 9.Bf4 Nd7 10.Re1 Bc5 11.Na3 O-O 12.Nc2 Re8 13.Ne5 Ndxe5 14.Bxe5 a5 15.Qh5 Bf8 16.Bxc6 bxc6 17.Bxd4 a4 18.Qe2 c5 19.Bc3 Bb7 20.Ne3 Qd7 21.f3 Rad8 22.Rad1 e5 23.g4 g6 24.Nf1 Bg7 25.Ng3 Ba8 26.Kf2 Qe7 27.Rf1 Qh4 28.Kg1 Kh7 29.Qe3 Qe7 30.a3 Rd7 31.Kf2 Qh4 32.Kg1 Qe7 33.Rf2 Kg8 34.Kf1 Rc8 35.Ke1 Qe6 36.Rdd2 Kh7 37.Kd1 Qb6 38.h4 Qb3+ 39.Ke2 Qb6 40.Ke1 Qe6 41.h5 g5 42.Rfe2 f6 43.Nf5 Qc6 44.Kf2 Bf8 45.Re1 Rb8 46.Qe2 Rbd8 47.Ne3 Qe6 48.Nd5 Bxd5 49.cxd5 Qxd5 50.Qe4+ Qxe4 51.Rxe4 Ra8 52.Ke3 Kg7 53.Rc4 Kf7 54.Ke4 Ke6 55.Rc2 Rb7 56.Bd2 Rb5 57.Be3 Raa5 58.Bd2 Ra6 59.Be3 Raa5 60.Bd2 Ra6 61.Be3 1/2-1/2

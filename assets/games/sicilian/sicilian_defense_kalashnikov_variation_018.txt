@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "5.5"]
+[White "Borocz, Lorinc"]
+[Black "Udvardi, Zalan"]
+[Result "1/2-1/2"]
+[WhiteElo "2167"]
+[BlackElo "2286"]
+[ECO "B32"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be6 7.Bd3 Nf6 8.O-O g6 9.Be3 a6 10.N5c3 Bg7 11.Nd5 Bxd5 12.cxd5 Nd4 13.Nc3 O-O 14.Rc1 Nd7 15.Ne2 f5 16.f3 fxe4 17.fxe4 Qh4 18.Qd2 Nc5 19.Ng3 Qg4 20.b4 Nxd3 21.Qxd3 h5 22.Bxd4 exd4 23.Ne2 Rxf1+ 24.Rxf1 Re8 25.Nf4 Rf8 26.Ne6 Rxf1+ 27.Kxf1 Qh4 28.Nxg7 Qf6+ 29.Nf5 gxf5 30.exf5 Qe5 31.Qh3 Qf4+ 32.Ke2 Qe4+ 33.Kd2 Kf8 34.Qxh5 Qe3+ 35.Kd1 Qd3+ 36.Ke1 Qc3+ 37.Kd1 Qd3+ 38.Ke1 Qc3+ 39.Kd1 1/2-1/2

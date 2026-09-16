@@ -1,0 +1,14 @@
+[Event "Round 9: Robledo Sanchez, Carlos - Penades Ordaz, Victor"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-9/yz1Rzq0C/2lJbkgQ4"]
+[Date "2026.07.19"]
+[Round "9.6"]
+[White "Robledo Sanchez, Carlos"]
+[Black "Penades Ordaz, Victor"]
+[Result "1/2-1/2"]
+[WhiteElo "2125"]
+[BlackElo "2078"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 e5 4.Bg2 g6 5.d3 Bg7 6.Nf3 Nge7 7.O-O O-O 8.a3 d6 9.Rb1 a5 10.Ne1 Be6 11.Bg5 f6 12.Be3 Qd7 13.Nc2 a4 14.Bd2 Nd4 15.Ne3 Bh3 16.Ned5 Bxg2 17.Kxg2 Nxd5 18.Nxd5 b5 19.e3 Ne6 20.cxb5 Qxb5 21.Qg4 Nc7 22.Nxc7 Qb7+ 23.Qe4 Qxc7 24.b4 axb3 25.Rxb3 f5 26.Qf3 Ra6 27.Rfb1 Qc6 28.Qxc6 Rxc6 29.Rb6 Rxb6 30.Rxb6 Ra8 31.Rxd6 Rxa3 32.Rd5 Kf7 33.Rxc5 Rxd3 34.Rc7+ Kg8 35.Bc3 Bf6 36.Rc5 Kf7 37.Bxe5 Bxe5 38.Rxe5 Kf6 39.Rc5 Rd2 40.Rc4 Ra2 41.e4 fxe4 42.Rxe4 Ra5 43.Rb4 h5 44.h3 Kf5 45.Rf4+ Kg5 46.h4+ Kh6 47.Rf6 Kg7 48.Re6 Ra4 49.Kf3 Ra2 50.Ke3 Ra3+ 51.Kf4 Ra5 52.f3 Rf5+ 53.Ke4 Rf7 54.Ke3 Rf5 55.Ke4 Rf7 56.f4 Ra7 57.Kf3 Ra1 58.Re5 Kf6 59.Rg5 Ra2 60.f5 gxf5 61.Rxh5 Ra3+ 62.Kg2 Ra2+ 63.Kh3 Ra3 64.Rh8 Kg7 65.Rh5 f4 66.Rg5+ Kh6 67.Rg4 Rxg3+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Woudt, Edwin - Pijpers, Arthur"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-2/HFX7MsMo/3miO572e"]
+[Date "2026.07.10"]
+[Round "2.1"]
+[White "Woudt, Edwin"]
+[Black "Pijpers, Arthur"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2486"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 bxc6 7.c4 e5 8.Qd3 Qc7 9.Nc3 Be7 10.O-O Nf6 11.Bg5 Rd8 12.Rfe1 O-O 13.h3 Be6 14.Rad1 h6 15.Bxf6 Bxf6 16.b3 Be7 17.Qe3 Rfe8 18.Rd2 Qb6 19.Na4 Qxe3 20.Rxe3 f6 21.Nc3 g6 22.Rd1 Kg7 23.Nh2 f5 24.exf5 gxf5 25.Ne2 Bf6 26.f4 e4 27.Nd4 Bd7 28.g4 Kf7 29.Kf1 d5 30.cxd5 cxd5 31.gxf5 h5 32.Ke2 Rg8 33.Kf1 Rc8 34.Ne6 Bb5+ 0-1

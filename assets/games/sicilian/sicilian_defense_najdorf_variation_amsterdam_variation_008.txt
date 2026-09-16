@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/gIbytZs9"]
+[Date "2026.07.05"]
+[Round "9.24"]
+[White "Matskevich, Varvara"]
+[Black "Wasiluk, Mateusz"]
+[Result "1-0"]
+[WhiteElo "2031"]
+[BlackElo "2009"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nc6 8.Be2 Be7 9.O-O O-O 10.Kh1 Re8 11.a4 h6 12.f5 Nb4 13.a5 d5 14.exd5 Nbxd5 15.Nxd5 Nxd5 16.Bc4 Nf6 17.Qe2 Qc7 18.Be3 Bd7 19.Nd2 Bc5 20.Bxc5 Qxc5 21.Ne4 Nxe4 22.Qxe4 Bb5 23.Bxb5 Qxb5 24.f6 g6 25.b3 Rad8 26.Rf3 Qd5 27.Qh4 Qd4 28.Qxd4 Rxd4 29.Re1 Rd6 30.Kg1 g5 31.Rf5 Rde6 32.g4 e4 33.Re3 Kh7 34.Kf2 Rd8 35.Re2 Kg6 36.Ke3 h5 37.h4 gxh4 38.Rxh5 Rxf6 39.Rxh4 Rc6 40.Rh5 Rc3+ 41.Kxe4 Rdc8 42.Rhh2 Rg3 43.Kf4 Rcc3 44.Rhf2 Rg1 45.Re7 Rc5 46.Rxb7 Rxa5 47.Ke3 Rxg4 48.Rfxf7 Re5+ 49.Kd3 Rd5+ 50.Kc3 Rc5+ 51.Kb2 Rh4 52.Rfc7 Ra5 53.Rc6+ Kf5 54.Rbb6 Re5 55.Rxa6 Rd4 56.Rf6+ Kg5 57.Rg6+ Kh4 58.Rg1 1-0

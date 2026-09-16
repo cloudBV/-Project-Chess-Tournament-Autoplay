@@ -1,0 +1,15 @@
+[Event "Round 8: Akhilbay, Imangali - Madhvendra Pratap Sharma"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-8/9lBADI05/rhlR2dGD"]
+[Date "2026.07.23"]
+[Round "8.2"]
+[White "Akhilbay, Imangali"]
+[Black "Madhvendra Pratap Sharma"]
+[Result "0-1"]
+[WhiteElo "2357"]
+[BlackElo "2339"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Ne7 5.Nf3 Nbc6 6.Na3 Nf5 7.Nc2 cxd4 8.cxd4 Nh4 9.Nxh4 Qxh4 10.Be3 Bd7 11.Be2 Qd8 12.O-O Rc8 13.Bd3 Qb6 14.Rb1 Ne7 15.Qe2 a6 16.Rfc1 Bb5 17.Bxb5+ Qxb5 18.Qxb5+ axb5 19.b4 Ra8 20.Rb3 Rxa2 21.Na3 Nc6 22.Nxb5 Kd7 23.Kf1 Ra4 24.Bd2 Be7 25.Rcb1 Ra2 26.Ke1 f6 27.f4 Rf8 28.R3b2 Rxb2 29.Rxb2 Ra8 30.Rb3 Ra1+ 31.Ke2 Ra6 32.Rh3 Rb6 33.Nc3 Nxd4+ 34.Kd3 fxe5 35.fxe5 Nc6 36.Rxh7 Nxe5+ 37.Ke2 Bf6 38.Na4 Rc6 39.Nc5+ Ke7 40.Nxb7 Rc2 41.Kd1 Rb2 42.Na5 Nd3 43.Rh8 Nf2+ 44.Kc1 Ne4 45.Bf4 Kd7 46.Rb8 Rf2 47.Rb7+ Ke8 48.Rb8+ Kf7 49.Rb7+ Kg6 50.Bg3 Rxg2 51.Nc6 Nc3 52.Ne5+ Kf5 53.Nf3 Ke4 54.Nd2+ Kd3 55.Be1 Re2 0-1

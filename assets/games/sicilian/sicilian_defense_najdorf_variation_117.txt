@@ -1,0 +1,14 @@
+[Event "Round 3: Utsab Chatterjee - Marche, Nael"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-3/kqVNSbC7/Lj86UgpG"]
+[Date "2026.07.20"]
+[Round "3.6"]
+[White "Utsab Chatterjee"]
+[Black "Marche, Nael"]
+[Result "1-0"]
+[WhiteElo "2317"]
+[BlackElo "2185"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O 9.h3 b5 10.a3 Bb7 11.Ng3 Re8 12.Qf3 Nbd7 13.Nf5 Bf8 14.Qg3 Kh8 15.Bg5 Qc7 16.Rad1 Bc6 17.Kh1 Qb7 18.Qh4 Re6 19.Nd5 Kg8 20.c3 h6 21.Nxf6+ Nxf6 22.Nxh6+ gxh6 23.Bxf6 Bg7 24.Bxg7 Kxg7 25.Bb1 Rg6 26.f3 a5 27.Rf2 b4 28.f4 bxc3 29.f5 Rg5 30.Rxd6 Rh8 31.Rxh6 Rxh6 32.Qxg5+ Kh7 33.f6 Rg6 34.Qxe5 cxb2 35.Rxb2 Qd7 36.Qh5+ 1-0

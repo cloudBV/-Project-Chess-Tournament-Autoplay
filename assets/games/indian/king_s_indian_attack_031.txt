@@ -1,0 +1,15 @@
+[Event "Round 7: Kavutskiy, Kostya - Prabhu, Naveen"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/v09793De"]
+[Date "2026.07.04"]
+[Round "7.21"]
+[White "Kavutskiy, Kostya"]
+[Black "Prabhu, Naveen"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2138"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 e6 5.Nh4 Bg4 6.h3 Bh5 7.c3 Be7 8.Nf3 Nf6 9.Bf4 O-O 10.Nbd2 Bd6 11.O-O Bxf4 12.gxf4 Ne7 13.e3 c6 14.Kh2 Nf5 15.Qe1 Bxf3 16.Nxf3 Ne4 17.Rg1 f6 18.Nd2 Nxd2 19.Qxd2 Kh8 20.Bf1 e5 21.Bd3 Nh4 22.Rg3 exf4 23.exf4 Qd6 24.Rag1 f5 25.Kh1 Ng6 26.Bc2 Rae8 27.f3 Re7 28.Rg5 Ref7 29.h4 Qxf4 30.Qxf4 Nxf4 31.Kh2 g6 32.Re1 Kg7 33.Rgg1 Kf6 34.Kg3 Nh5+ 35.Kf2 Re7 36.Rxe7 Kxe7 37.Re1+ Kd7 38.Rg1 Re8 39.Rg5 Nf4 40.Bd1 Nh3+ 41.Kg3 Nxg5 42.hxg5 Re1 43.Bb3 Re2 44.Kf4 Kd6 0-1

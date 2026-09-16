@@ -1,0 +1,15 @@
+[Event "Round 1: Chigaev, Maksim - Sharifov, Mekhriddin"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/lZfCl0lJ"]
+[Date "2026.07.21"]
+[Round "1.2"]
+[White "Chigaev, Maksim"]
+[Black "Sharifov, Mekhriddin"]
+[Result "1-0"]
+[WhiteElo "2648"]
+[BlackElo "2438"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.d3 Be7 6.e4 d6 7.a4 b4 8.Nbd2 c5 9.a5 O-O 10.Re1 Qc8 11.c3 Na6 12.Nc4 Rd8 13.Qe2 Nc7 14.Ne3 bxc3 15.bxc3 Rb8 16.h4 Bc6 17.g4 Nd7 18.g5 d5 19.Ng4 dxe4 20.dxe4 Qa6 21.c4 e5 22.Nfxe5 Nxe5 23.Nxe5 Be8 24.Ng4 Ne6 25.Ra3 Rb1 26.Ne3 Nd4 27.Qa2 Rdb8 28.Nd5 Bd8 29.Rf1 Bd7 30.Rg3 Be6 31.h5 Bxd5 32.exd5 Bc7 33.Re3 f6 34.g6 Be5 35.Be4 R1b4 36.f4 Bd6 37.gxh7+ Kh8 38.Bd3 Qc8 39.Qg2 Nf5 40.Re6 Nh4 41.Qh3 Rb3 42.Rfe1 g6 1-0

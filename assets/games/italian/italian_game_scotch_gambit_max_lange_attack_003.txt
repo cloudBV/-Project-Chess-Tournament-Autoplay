@@ -1,0 +1,14 @@
+[Event "Round 5: Acs, Peter - Menzi, Jonas"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-5/N6V5gpLW/65GIaF6S"]
+[Date "2026.07.12"]
+[Round "5.10"]
+[White "Acs, Peter"]
+[Black "Menzi, Jonas"]
+[Result "1-0"]
+[WhiteElo "2474"]
+[BlackElo "2114"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.Be3 O-O 9.Nxc6 bxc6 10.Bxc5 Nxc5 11.Bxc6 Rb8 12.Qxd5 Qe7 13.O-O Rd8 14.Qf3 Ne6 15.Nc3 Nd4 16.Qe4 Bf5 17.Nd5 Qc5 18.Qe3 Kh8 19.Rfd1 Qxc6 20.Qxd4 Qxc2 21.Rd2 Qe4 22.Qxe4 Bxe4 23.Rad1 c6 24.Ne3 Rxd2 25.Rxd2 g5 26.f3 Bg6 27.Kf2 Rb5 28.Nc4 Rb4 29.b3 Kg7 30.Ke3 h6 31.Kd4 Rb5 32.Kc3 Bf5 33.Rd6 Be6 34.a4 Rc5 35.Kd4 Rd5+ 36.Rxd5 Bxd5 37.b4 f6 38.Ne3 fxe5+ 39.Kxe5 Bb3 40.a5 Ba4 41.Nf5+ Kg6 42.Nd4 h5 43.Kd6 a6 44.Nxc6 Bb5 45.Nd4 Bf1 46.b5 1-0

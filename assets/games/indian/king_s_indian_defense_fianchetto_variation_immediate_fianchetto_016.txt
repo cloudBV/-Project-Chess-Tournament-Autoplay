@@ -1,0 +1,14 @@
+[Event "Round 6: Paulsen, Dirk - Pruefer, Friedbert, Prof. Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/ed5342e0"]
+[Date "2026.07.22"]
+[Round "6.4"]
+[White "Paulsen, Dirk"]
+[Black "Pruefer, Friedbert, Prof. Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2302"]
+[BlackElo "2196"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.d5 Bg7 5.Nc3 cxd5 6.cxd5 d6 7.Bg2 Qb6 8.Nf3 O-O 9.O-O Nbd7 10.Rb1 Nc5 11.Be3 a5 12.a3 Qa6 13.Bd4 Bf5 14.Rc1 Rfc8 15.Nd2 b5 16.b4 axb4 17.axb4 Na4 18.Qb3 Ne4 19.Ncxe4 Bxd4 20.Rc6 Qa7 21.Qf3 Bd7 22.Ng5 Rf8 23.Rc2 h6 24.Nh3 Rac8 25.Rfc1 1/2-1/2

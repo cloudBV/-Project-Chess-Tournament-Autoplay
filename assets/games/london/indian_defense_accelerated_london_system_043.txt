@@ -1,0 +1,14 @@
+[Event "Round 2: Pranav K P - Magold, Filip"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/7P2E8hVc"]
+[Date "2026.07.14"]
+[Round "2.9"]
+[White "Pranav K P"]
+[Black "Magold, Filip"]
+[Result "0-1"]
+[WhiteElo "2287"]
+[BlackElo "2501"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.d5 d6 4.Nc3 e5 5.Bg5 Be7 6.Nf3 Na6 7.e4 Nc7 8.a4 O-O 9.Bxf6 Bxf6 10.h3 g6 11.g4 h6 12.Qd2 Kg7 13.Nb5 Nxb5 14.axb5 Bd7 15.Bc4 a6 16.bxa6 b5 17.Be2 Ra7 18.b4 c4 19.O-O Qa8 20.Qc3 Bd8 21.Kh2 Bb6 22.Ra3 Rxa6 23.Rfa1 Rxa3 24.Rxa3 Qb8 25.Qe1 Bc8 26.Nh4 Bb7 27.Ng2 Qd8 28.h4 Qf6 29.Kg1 Rg8 30.Kf1 Kf8 31.Rf3 Qe7 32.Qc1 Rh8 33.h5 Ke8 34.Rh3 Kd7 35.g5 hxg5 36.Bg4+ Kc7 37.hxg6 Qf6 38.Ne3 Rxh3 39.Bxh3 fxg6 40.Ke2 Qf4 41.Qh1 g4 42.Nxg4 Bc8 43.Qf3 Qxf3+ 44.Kxf3 Bd4 45.Kg3 Bc3 46.f4 exf4+ 47.Kxf4 Bxb4 48.Bf1 Bd2+ 49.Kf3 Kb6 50.Nf6 Bc3 51.Nh7 Bg7 52.Ng5 Bf6 53.Nf7 Kc5 54.Ke3 Bd7 55.Ke2 b4 56.Kd1 g5 57.Nh6 g4 58.Bg2 b3 59.cxb3 cxb3 60.Nf7 Be8 61.Nh6 Ba4 62.Kc1 Bg5+ 0-1

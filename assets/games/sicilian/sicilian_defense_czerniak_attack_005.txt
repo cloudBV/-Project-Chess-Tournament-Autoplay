@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "6.5"]
+[White "Perucki, Maciej"]
+[Black "Butkiewicz, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2043"]
+[BlackElo "2129"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 Nc6 3.Bb2 e6 4.Nf3 d5 5.exd5 exd5 6.Bb5 Nf6 7.Qe2+ Be7 8.Ne5 Qc7 9.Nxc6 bxc6 10.Bxf6 gxf6 11.Bd3 Rg8 12.f3 Qe5 13.Qxe5 fxe5 14.Kf2 h5 15.Re1 f6 16.c4 Be6 17.cxd5 cxd5 18.Nc3 Kf7 19.Rac1 h4 20.Na4 Rac8 21.Bf1 c4 22.bxc4 dxc4 23.Re4 Bd5 24.Bxc4 Bxc4 25.Rexc4 Rxc4 26.Rxc4 h3 27.gxh3 Rd8 28.Ke2 Ke6 29.Nc3 Rh8 30.h4 f5 31.Nb5 Bxh4 32.Nxa7 Bg5 33.h4 Bxh4 34.Nb5 Bg5 35.Rc6+ Kd5 36.Rc2 Rh2+ 37.Kd3 e4+ 38.fxe4+ fxe4+ 39.Kc3 Bf6+ 40.Kb3 Rh3+ 41.Nc3+ Kd4 42.a4 Kd3 43.Nd5 Kd4+ 44.Nc3 Kc5 45.Kb2 Kb4 46.Kc1 Rh1+ 47.Kb2 Rh2 48.Kc1 Rh1+ 49.Kb2 Rh3 50.Kc1 Bg5 51.Nxe4 Bh6 52.Nc3 Rh1+ 53.Kb2 Bg7 54.Ka2 Bxc3 55.Rxc3 Rh2 56.Rd3 Kxa4 57.Kb2 Kb4 58.Kc2 Kc4 59.Rc3+ Kd5 60.Ra3 Kc4 61.Ra7 Kd4 62.Rd7+ Kc4 1/2-1/2

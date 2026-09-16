@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "13.2"]
+[White "Giri, Anish"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2796"]
+[ECO "E11"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.a3 Bxd2+ 7.Qxd2 d6 8.Nc3 e5 9.Nd5 Qd8 10.Bg2 O-O 11.O-O Re8 12.dxe5 Nxe5 13.Nxe5 dxe5 14.Rfd1 c6 15.Nxf6+ Qxf6 16.b4 Bf5 17.Qc3 Rad8 18.b5 e4 19.Qxf6 gxf6 20.bxc6 bxc6 21.h3 Kg7 22.g4 Bg6 23.Kh2 Rb8 24.Ra2 Rb3 25.e3 Re5 26.Kg3 h5 27.Rd6 hxg4 28.hxg4 Re6 29.Rxe6 fxe6 30.Rd2 Rxa3 31.Rd6 e5 32.Rxc6 a5 33.c5 Rc3 34.Rc7+ Kh6 35.c6 a4 36.Ra7 Rxc6 37.Rxa4 Rb6 38.Bxe4 Bxe4 39.Rxe4 Kg6 40.Ra4 Rc6 41.Ra8 Rb6 42.Kf3 Rc6 43.Ra4 Rb6 44.Rc4 Ra6 45.Kg3 Rb6 46.Ra4 Rc6 47.Kh4 Rb6 48.Ra5 Rc6 49.f4 exf4 50.exf4 Rb6 51.f5+ Kh6 52.Ra7 Rb1 53.Ra8 Kg7 54.Ra6 Rh1+ 55.Kg3 Rg1+ 56.Kf3 Rf1+ 57.Kg2 Rb1 58.Re6 Rb3 59.Kf2 Ra3 60.Rd6 Rb3 61.Re6 Ra3 62.Rd6 Rb3 1/2-1/2

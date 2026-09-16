@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.17"]
+[Round "7.13"]
+[White "Van t Hoff, Tom"]
+[Black "Duijker, Rick"]
+[Result "0-1"]
+[WhiteElo "2056"]
+[BlackElo "2195"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 Nc6 3.e3 Nf6 4.Nc3 e5 5.d4 e4 6.d5 exf3 7.dxc6 fxg2 8.cxd7+ Bxd7 9.Bxg2 Qc7 10.Qc2 g6 11.b3 Bg7 12.Bb2 O-O 13.O-O-O Bg4 14.Nd5 Bxd1 15.Nxc7 Bxc2 16.Nxa8 Be4 17.f3 Ng4 18.Bxg7 Kxg7 19.Nc7 Nxe3 20.Re1 Nxg2 21.Rxe4 h6 22.Nd5 g5 23.Re7 Rb8 24.Kd2 Nh4 25.Ke2 Nf5 26.Rc7 Nd4+ 27.Kf2 Ne6 28.Re7 a6 29.Kg3 b5 30.Ne3 Rd8 31.Ra7 Rd3 32.Nd5 bxc4 33.bxc4 Nd4 34.Rxa6 Nxf3 35.Ne7 Nd4+ 36.Kg4 Rd2 37.h4 Rg2+ 38.Kh3 Rg1 39.hxg5 hxg5 40.Rd6 Re1 41.Nd5 Rh1+ 42.Kg4 Rg1+ 43.Kh5 Ne6 44.a4 Rh1+ 45.Kg4 Rh4+ 46.Kf5 Rxc4 47.a5 Ra4 48.a6 c4 49.Nc3 Ra5+ 50.Kg4 Kg6 51.Rc6 f5+ 52.Kg3 Kf6 53.Rxc4 Rxa6 54.Ne2 Ra3+ 55.Kf2 g4 56.Rc6 Ke5 57.Rc2 f4 58.Rb2 g3+ 59.Kg2 f3+ 60.Kxg3 fxe2+ 61.Kf2 Nd4 62.Rb8 Rf3+ 0-1

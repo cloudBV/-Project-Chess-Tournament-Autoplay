@@ -1,0 +1,15 @@
+[Event "Round 9: Asici, Poyraz Efe - Shinkorenko, Ivan Al"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/usyH4PxK"]
+[Date "2026.07.05"]
+[Round "9.43"]
+[White "Asici, Poyraz Efe"]
+[Black "Shinkorenko, Ivan Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2261"]
+[BlackElo "2091"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c6 7.Nf3 Na6 8.Be2 e5 9.d5 Nh5 10.Nd2 Nf4 11.Bf1 f5 12.g3 Ne6 13.dxe6 f4 14.Qe2 fxe3 15.Qxe3 Qf6 16.e7 Qxe7 17.Bg2 Nc7 18.O-O Ne6 19.Rad1 g5 20.Ne2 Rf6 21.g4 Nf4 22.Rfe1 h5 23.f3 Be6 24.Ng3 Rh6 25.b3 Bf6 26.Ndf1 Qf8 27.Qd2 hxg4 28.hxg4 Bd8 29.Qxd6 Qxd6 30.Rxd6 Be7 31.Nf5 Bxd6 32.Nxh6+ Kg7 33.Nf5+ Bxf5 34.exf5 Bc5+ 35.Ne3 Rd8 36.b4 Bxb4 37.Rd1 Rxd1+ 38.Nxd1 Bc5+ 39.Kf1 Bd4 40.Nf2 Bxf2 41.Kxf2 Nd3+ 42.Ke3 Nb4 43.a4 Na6 44.a5 Nc5 45.Kd2 Nb3+ 46.Kc3 Nxa5 47.Kb4 b6 48.c5 Kf6 49.Bf1 Nb7 50.cxb6 axb6 51.Bd3 Nd6 52.Kc3 Ke7 53.Be4 Kd7 54.Kb4 Ne8 55.Kc4 Kd6 56.Kb4 Nf6 57.Kc4 Nd5 58.Bd3 b5+ 59.Kb3 Nc7 60.Kc3 c5 61.Be4 Na6 62.Bb7 Nb4 63.Be4 Kc7 64.Kb3 Na6 65.Kc3 c4 66.Bd5 Kd6 67.Bb7 Nc5 68.Be4 Nxe4+ 69.fxe4 Kc5 70.Kc2 b4 71.Kb2 c3+ 72.Kb3 Kd6 73.Kc2 Kc6 74.Kb3 Kc5 75.Kc2 Kc4 76.f6 b3+ 77.Kc1 Kd3 78.f7 b2+ 79.Kb1 Kd2 80.f8=Q c2+ 81.Kxb2 c1=Q+ 82.Ka2 Qc2+ 83.Ka3 Qd3+ 84.Ka2 Qxe4 85.Qd8+ Qd3 86.Qxg5+ Kc2 87.Qf5 e4 88.Qc5+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Schmidt, Florian Pascal - Matsumura, Cocoro"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/YB6Jw6c0"]
+[Date "2026.07.21"]
+[Round "8.23"]
+[White "Schmidt, Florian Pascal"]
+[Black "Matsumura, Cocoro"]
+[Result "0-1"]
+[WhiteElo "2095"]
+[BlackElo "2225"]
+[ECO "B96"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 8.Bh4 Qb6 9.a3 Be7 10.Bf2 Qc7 11.Qf3 Nbd7 12.O-O-O b5 13.g4 Bb7 14.h4 Nc5 15.Bd3 d5 16.e5 Nfe4 17.Bxe4 Nxe4 18.Nxe4 dxe4 19.Qe3 Rc8 20.Rh2 Bd5 21.Qe2 b4 22.axb4 Bxb4 23.c3 Bxc3 24.bxc3 Qxc3+ 25.Nc2 Qa1+ 26.Kd2 Rxc2+ 27.Kxc2 Qa2+ 28.Kc1 Qxe2 29.Bg1 Qxg4 0-1

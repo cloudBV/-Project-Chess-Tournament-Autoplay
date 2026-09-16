@@ -1,0 +1,14 @@
+[Event "Round 5: Pham, Khoi - Gumularz, Szymon"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/rj164GcI"]
+[Date "2026.07.21"]
+[Round "5.2"]
+[White "Pham, Khoi"]
+[Black "Gumularz, Szymon"]
+[Result "0-1"]
+[WhiteElo "2416"]
+[BlackElo "2618"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Bg4 8.d5 b6 9.h3 Bd7 10.b4 a5 11.bxa5 Rxa5 12.Nd2 Ra8 13.Nb3 Na6 14.a4 c5 15.Bd2 Nb4 16.Qb1 Ne8 17.Nb5 f5 18.Bxb4 cxb4 19.Nd2 fxe4 20.Nxe4 Qh4 21.Bd3 Bh6 22.Qxb4 Bxh3 23.Ra3 Bf5 24.g3 Qh3 25.Nexd6 Bxd3 26.Rxd3 Nf6 27.f4 exf4 28.Qd2 f3 29.Qe1 Qg2# 0-1

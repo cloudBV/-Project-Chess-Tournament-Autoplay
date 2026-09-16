@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "10.6"]
+[White "GinkgoHCE 5.71"]
+[Black "RubiChessHCE 20260308"]
+[Result "1-0"]
+[WhiteElo "3344"]
+[BlackElo "3397"]
+[ECO "C16"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.a3 Bf8 6.Nf3 Qd7 7.Bb5 c6 8.Bd3 c5 9.dxc5 bxc5 10.Bb5 Nc6 11.O-O Qb7 12.Re1 a6 13.Bf1 Bd7 14.Rb1 Rb8 15.b3 Nge7 16.b4 c4 17.b5 axb5 18.Nxb5 Nc8 19.Nfd4 Nxd4 20.Nd6+ Nxd6 21.Rxb7 Nxb7 22.Qxd4 Nd8 23.h4 Be7 24.Bd2 h5 25.Bg5 Nc6 26.Qe3 f6 27.Bf4 Ra8 28.exf6 gxf6 29.Qd2 Ra4 30.c3 Rxa3 31.Be2 e5 32.Be3 Ra5 33.Rb1 d4 34.cxd4 exd4 35.Bf4 Rc5 36.Bf3 d3 37.Qe3 Kf7 38.Rb7 Ne5 39.Qd4 c3 40.Bxe5 Rxe5 41.Qxd3 Bc8 42.Ra7 c2 43.Qxc2 Bf5 44.Qc3 Kg6 45.Bd1 Rg8 46.Bc2 Bxc2 47.Qxc2+ Kh6 48.Qd2+ Kg6 49.Kh2 Rd8 50.Qc2+ Kh6 51.Qc1+ Kg6 52.f4 Re2 53.Qc4 Re1 54.f5+ Kh6 55.Qf4+ Kh7 56.Qg3 Rdd1 57.Qg6+ Kh8 58.Qxh5+ Kg7 59.Qe8 Rd4 60.Rxe7+ Rxe7 61.Qxe7+ Kg8 62.Qe8+ Kg7 63.Qg6+ Kf8 64.Qxf6+ Ke8 65.Qxd4 Ke7 66.Qd5 Kf6 67.Qe6+ Kg7 68.Qe7+ Kh6 69.Kg1 Kh5 70.Qg5# 1-0

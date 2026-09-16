@@ -1,0 +1,15 @@
+[Event "Round 6: Zhauynbay Aldiyar - Vismay Sachar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-6/343OmIpb/6ePahlFn"]
+[Date "2026.07.08"]
+[Round "6.13"]
+[White "Zhauynbay Aldiyar"]
+[Black "Vismay Sachar"]
+[Result "1-0"]
+[WhiteElo "2318"]
+[BlackElo "2020"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.Bg5 h6 8.Bh4 g5 9.Bg3 Ba7 10.b4 Bg4 11.Nbd2 Qe7 12.b5 axb5 13.Bxb5 Nh5 14.Kh1 Qf6 15.d4 exd4 16.e5 Qd8 17.h3 dxc3 18.Bh2 Bf5 19.Nc4 d5 20.Na5 Bd7 21.Nxb7 Qb8 22.e6 fxe6 23.Rb1 Bb6 24.Bxc6 Bxc6 25.Rxb6 cxb6 26.Bxb8 Rxb8 27.Ne5 Bxb7 28.Qxh5+ Ke7 29.Ng6+ Ke8 1-0

@@ -1,0 +1,15 @@
+[Event "Round 2: Ocampos, Ian - Ribeiro, Matheus Mendes Domingues"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-2/GOpmtJrG/P7VEC6Pc"]
+[Date "2026.07.21"]
+[Round "2.2"]
+[White "Ocampos, Ian"]
+[Black "Ribeiro, Matheus Mendes Domingues"]
+[Result "1/2-1/2"]
+[WhiteElo "2325"]
+[BlackElo "2345"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.e5 Qd8 7.f4 c5 8.Nf3 Nc6 9.Bd3 g5 10.h3 cxd4 11.Ne2 Qa5+ 12.Kf2 Bd7 13.a3 Qc7 14.Re1 Bg7 15.b4 gxf4 16.Nxf4 Bxe5 17.Nxe5 Nxe5 18.Nxd5 exd5 19.Qh5 O-O-O 20.Qxe5 Qxe5 21.Rxe5 Rhg8 22.Rh5 Rh8 23.Rd1 Be6 24.Bf5 Kd7 25.Rxd4 Ke7 26.Bd3 Kf6 27.Ke3 Rdg8 28.Rf4+ Ke7 29.Kf2 Rc8 30.Rfh4 Rc3 31.Rxh6 Rxh6 32.Rxh6 Rxa3 33.Rh8 Kf6 34.Rb8 b6 35.Rb7 d4 36.b5 Ra4 37.Rc7 Ke5 38.h4 Ra1 39.h5 Kd6 40.Rc6+ Ke5 41.h6 Rh1 42.h7 Bf5 43.Bxf5 Kxf5 44.Rc7 Rxh7 45.Rxa7 Ke4 46.Rb7 Rh6 47.Rxf7 Rh5 48.Re7+ Kd5 49.Rc7 Ke4 50.Re7+ Kd5 51.Rb7 Kc5 52.g4 Rg5 53.Kf3 Kxb5 54.Rd7 Rc5 55.Rxd4 Rxc2 56.g5 Rc8 57.g6 Rg8 58.Rg4 Kc5 59.Ke4 b5 60.Ke5 b4 61.Kf6 b3 62.Kf7 Rxg6 63.Kxg6 b2 64.Rg1 Kc4 65.Kf5 Kc3 66.Ke4 Kc2 67.Rg2+ Kc1 68.Rxb2 Kxb2 1/2-1/2

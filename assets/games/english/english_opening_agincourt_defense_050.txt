@@ -1,0 +1,14 @@
+[Event "Round 9: Soto, Cristian Camilo - Rodriguez Velasco, German Enrique"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-9/L7TSgSRN/vOc77Xmc"]
+[Date "2026.07.11"]
+[Round "9.6"]
+[White "Soto, Cristian Camilo"]
+[Black "Rodriguez Velasco, German Enrique"]
+[Result "0-1"]
+[WhiteElo "2227"]
+[BlackElo "2166"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 d5 3.e3 Nf6 4.Nf3 Be7 5.Be2 O-O 6.O-O b6 7.b3 Bb7 8.Bb2 c5 9.d4 cxd4 10.Nxd4 Nc6 11.cxd5 exd5 12.Nf5 Bc5 13.Bf3 Ne5 14.Bxd5 Nxd5 15.Nxd5 Bxd5 16.Bxe5 Qg5 17.Qxd5 Qxf5 18.e4 Qg4 19.h3 Qg6 20.Rad1 h5 21.Kh2 Kh7 22.Bg3 Rad8 23.Qf5 Qxf5 24.exf5 Rfe8 25.Rxd8 Rxd8 26.Bf4 Re8 27.Rd1 Re2 28.Rd7 Rxf2 29.Kg3 h4+ 30.Kg4 Rxg2+ 31.Kxh4 g6 32.fxg6+ Kxg6 33.Rc7 Bf2+ 0-1

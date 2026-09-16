@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.06.22"]
+[Round "9.1"]
+[White "Antipov, Mikhail Al."]
+[Black "Castellanos Rodriguez, Renier"]
+[Result "1/2-1/2"]
+[WhiteElo "2626"]
+[BlackElo "2462"]
+[ECO "B41"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.a3 b5 6.Nd2 Bb7 7.Bd3 Ne7 8.b4 Nbc6 9.Nxc6 Nxc6 10.Bb2 Qc7 11.Qh5 Bd6 12.Nf3 g6 13.Qg5 h6 14.Qe3 Ne5 15.Nxe5 Bxe5 16.Bxe5 Qxe5 17.O-O f5 18.f4 Qc3 19.exf5 gxf5 20.Rae1 Kf7 21.Qb6 Qc6 22.Qxc6 Bxc6 23.Kf2 Rhg8 24.g3 Rgc8 25.Ke3 Bd5 26.Ra1 Bc4 27.a4 Bxd3 28.Kxd3 Rc4 29.c3 Rac8 30.Rfc1 h5 31.axb5 axb5 32.Rc2 R8c6 33.Kd2 h4 34.Ra5 hxg3 35.hxg3 Rd6+ 36.Ke2 Rdc6 37.Rd2 Rc7 38.Ra3 Rxc3 39.Rxc3 Rxc3 40.Rxd7+ Ke8 41.Rb7 Rxg3 42.Rxb5 Kd7 43.Rb6 Rb3 44.b5 Rb4 45.Kf3 Rb3+ 46.Kf2 Rb1 47.Kg3 Rb4 48.Kf3 1/2-1/2

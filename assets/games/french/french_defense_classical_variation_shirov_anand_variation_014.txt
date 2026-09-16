@@ -1,0 +1,15 @@
+[Event "Round 8: Honey, Luke Anthony - Dreelinck, Adriaan"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/XNQXDssY"]
+[Date "2026.07.21"]
+[Round "8.11"]
+[White "Honey, Luke Anthony"]
+[Black "Dreelinck, Adriaan"]
+[Result "1-0"]
+[WhiteElo "2040"]
+[BlackElo "2244"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 cxd4 7.cxd4 f6 8.f4 fxe5 9.fxe5 Qh4+ 10.Ng3 Bb4+ 11.Kf2 O-O+ 12.Nf3 Nc6 13.Be3 Ba5 14.Kg1 Rxf3 15.gxf3 Bb6 16.f4 g5 17.Qh5 Qxh5 18.Nxh5 gxf4 19.Bf2 Nxd4 20.Nxf4 Nxe5 21.Bh3 Bd7 22.Kg2 Kf7 23.Rhf1 Bb5 24.Bxd4 Bxf1+ 25.Rxf1 Nc4 26.Nxd5+ Kg6 27.Nxb6 axb6 28.Bxe6 1-0

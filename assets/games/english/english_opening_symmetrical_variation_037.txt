@@ -1,0 +1,15 @@
+[Event "Round 6: Janzelj, Tim - Li, Yiheng"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-6/B5vAUn6Q/WzSBkSTx"]
+[Date "2026.07.18"]
+[Round "6.6"]
+[White "Janzelj, Tim"]
+[Black "Li, Yiheng"]
+[Result "1-0"]
+[WhiteElo "2394"]
+[BlackElo "2034"]
+[ECO "A30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d5 6.cxd5 Nxd5 7.Ndb5 Nxc3 8.Qxd8+ Kxd8 9.Nxc3 Bg7 10.Bd2 Nc6 11.O-O-O Ke8 12.Nd5 Kf8 13.e4 Bd7 14.Bb5 Rc8 15.Kb1 a6 16.Bxc6 Bxc6 17.Bb4 Bxd5 18.Rxd5 Bf6 19.e5 Bg5 20.h4 Rc4 21.Ba3 Bh6 22.Rhd1 Kg7 23.Bxe7 Re8 24.Bf6+ Kf8 25.b3 Rcc8 26.g4 Bg7 27.g5 Rc3 28.Rd7 Bxf6 29.exf6 Rf3 30.R1d2 Rf4 31.Rxb7 Kg8 32.Re7 Rf8 33.Red7 h6 34.Rd8 Rxd8 35.Rxd8+ Kh7 36.Rf8 hxg5 37.hxg5 a5 38.Rxf7+ Kh8 39.Ra7 Rf5 40.f4 Rxf4 41.Rxa5 1-0

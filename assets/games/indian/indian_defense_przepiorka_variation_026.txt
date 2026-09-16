@@ -1,0 +1,15 @@
+[Event "Round 2: Bezuidenhout, Roland - Sooraj M R"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/eI5UxXh8"]
+[Date "2026.07.22"]
+[Round "2.20"]
+[White "Bezuidenhout, Roland"]
+[Black "Sooraj M R"]
+[Result "1-0"]
+[WhiteElo "2284"]
+[BlackElo "2198"]
+[ECO "A49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 Nbd7 7.Bb2 e5 8.dxe5 Ng4 9.c4 Ngxe5 10.Nxe5 Nxe5 11.Nc3 h5 12.Qd2 h4 13.f4 h3 14.Bh1 Ng4 15.e4 c6 16.Bf3 Qb6+ 17.Kh1 Re8 18.Rae1 Qd4 19.Qe2 d5 20.Bxg4 f5 21.Bxh3 fxe4 22.Bxc8 Raxc8 23.Na4 Qd3 24.Qxd3 exd3 25.Bxg7 Kxg7 26.cxd5 Rxe1 27.Rxe1 cxd5 28.Rd1 Rc2 29.Rxd3 d4 30.b4 Kf6 31.a3 Kf5 32.Rxd4 Kg4 33.f5+ Kxf5 34.Nc5 b6 35.Nd3 g5 36.h3 Ra2 37.a4 Rxa4 38.Kg2 a5 39.Kf3 Ra3 40.Ke3 Ra1 41.Rd5+ Kg6 42.Rd6+ Kh5 43.g4+ Kh4 44.Kf3 Rf1+ 45.Kg2 Rg1+ 46.Kxg1 Kxh3 47.Ne5 Kg3 48.Rf6 axb4 49.Rf3+ Kh4 1-0

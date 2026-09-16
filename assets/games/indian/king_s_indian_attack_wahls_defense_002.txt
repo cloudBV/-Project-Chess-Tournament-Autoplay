@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.8"]
+[White "Uz, Kagan"]
+[Black "Shlyakhtenko, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2259"]
+[BlackElo "2446"]
+[ECO "A05"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Wahls Defense"]
+
+1.g3 d5 2.Bg2 Nf6 3.d3 g6 4.Nf3 Bg7 5.O-O O-O 6.Nc3 d4 7.Na4 e5 8.c4 Re8 9.b4 Nbd7 10.Rb1 Nf8 11.Nc5 b6 12.Nb3 Bb7 13.Bg5 Qc8 14.a4 Nh5 15.a5 Ne6 16.Bc1 e4 17.Ne1 f5 18.b5 Rb8 19.Qc2 Qd7 20.dxe4 fxe4 21.Bxe4 Bxe4 22.Qxe4 Nef4 23.Qf3 Nxe2+ 24.Kg2 Nc3 25.Ra1 Rf8 26.Qd3 c5 27.bxc6 Qxc6+ 28.f3 Rfc8 29.Nxd4 Qxc4 30.Qxc4+ Rxc4 31.Ne6 Bh8 32.axb6 Rxb6 33.Nf4 Ne2 34.Rxa7 Nxc1 35.Nxh5 gxh5 36.Ra8+ Kg7 37.Kh3 Rbc6 38.Ng2 Nd3 39.Ne3 Rc8 40.Ra3 Rc3 41.Ra7+ R3c7 42.Rfa1 Kf7 43.R1a3 Nb4 44.R3a5 Kg6 45.Rxc7 Rxc7 46.Nd5 Nxd5 47.Rxd5 Rc2 48.g4 hxg4+ 49.fxg4 Bf6 50.Kg3 Rc3+ 51.Kg2 h6 52.Rh5 Rc4 53.Kf3 Rc2 54.h3 Bg5 55.Kg3 Rd2 56.Kf3 Rc2 57.Kg3 Bd8 58.Kf3 Bc7 59.Ke3 Rc3+ 60.Kf2 Bf4 61.Kg2 Bg5 62.Kh2 Kf7 63.Kg2 Ke6 64.Kh2 Rc2+ 65.Kg3 Rc3+ 66.Kg2 Ra3 67.Kh2 Rb3 68.Kg2 Rc3 69.Kh2 Bf4+ 70.Kg2 Be5 71.Rxh6+ Kd5 72.Rh7 Ke4 73.Re7 Rg3+ 74.Kh2 Rb3+ 75.Kg2 Rb2+ 76.Kf1 Rh2 77.Ke1 Rxh3 78.Kd1 Rh2 79.Re8 Rg2 80.Kc1 Kd4 81.Kd1 Rxg4 82.Ke2 Ke4 83.Re7 Rg2+ 84.Ke1 Ra2 85.Re8 Kd4 86.Kf1 Bf4 87.Re2 Ra3 88.Kf2 Be5 89.Kg2 Kd5 90.Kf2 Rb3 91.Kg2 Ke6 92.Rf2 Rg3+ 93.Kf1 Kd5 94.Re2 Rg5 95.Kf2 Kd4 96.Kf3 Rg3+ 97.Kf2 Rh3 98.Kg2 Rh5 99.Kf3 Rf5+ 100.Kg4 Rf4+ 101.Kg5 Kd5 102.Ra2 Rf8 103.Ra5+ Ke4 104.Ra4+ Bd4 105.Kg6 Rf2 106.Ra5 Be5 107.Rb5 Rg2+ 108.Kf7 Kf5 109.Ke7 Rg7+ 110.Kf8 Ra7 111.Rb1 Bf6 112.Ke8 Bd4 113.Re1 Be5 114.Kd8 Ke6 115.Rc1 Rb7 116.Rc2 Rb8+ 117.Rc8 Rb1 118.Rc2 Bd6 119.Re2+ Kd5 120.Rc2 Rb7 121.Rg2 Kc6 122.Ke8 Re7+ 123.Kd8 Rf7 124.Rc2+ Bc5 125.Re2 Rf1 126.Re4 Kd6 127.Kc8 Rf7 128.Re2 Kc6 129.Kd8 Rf5 130.Re1 Rf8+ 131.Re8 Rf7 132.Re2 Bb4 133.Re3 Rf8+ 134.Re8 Rf3 135.Re2 1/2-1/2

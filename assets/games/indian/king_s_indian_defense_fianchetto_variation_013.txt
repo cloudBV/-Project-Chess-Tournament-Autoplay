@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.3"]
+[White "Khusenkhojaev, Muhammad"]
+[Black "Babula, Vlastimil"]
+[Result "0-1"]
+[WhiteElo "2284"]
+[BlackElo "2511"]
+[ECO "E60"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c5 5.Nc3 Qa5 6.Bd2 cxd4 7.Nxd4 Nc6 8.Nd5 Qd8 9.Nb5 Nxd5 10.cxd5 a6 11.Bc3 Ne5 12.Nd4 b5 13.Bg2 Bb7 14.a4 O-O 15.O-O Qb6 16.axb5 axb5 17.Qb3 Nc4 18.Rxa8 Rxa8 19.Qxb5 Qxb5 20.Nxb5 Nxb2 21.Bxb2 Bxb2 22.Rb1 Be5 23.f4 Bf6 24.Nc7 Ra1 25.Rxa1 Bxa1 26.d6 Bd4+ 27.Kf1 Bxg2+ 28.Kxg2 e6 29.Nb5 Bc5 30.e4 f6 31.e5 Kf7 32.Kf3 h5 33.h3 g5 34.fxg5 fxe5 35.g4 Kg6 36.gxh5+ Kxh5 37.Ke4 Kxg5 38.Kxe5 Bg1 39.Ke4 Bh2 40.Kf3 Kh4 41.Ke4 Kxh3 42.Kd4 Kg4 43.Kc5 Bg1+ 44.Kc4 Kf5 45.Nc7 Ke5 46.Ne8 Be3 47.Kb5 Kd5 0-1

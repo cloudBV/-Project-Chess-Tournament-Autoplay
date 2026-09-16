@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "15.9"]
+[White "Portelli, Matthew"]
+[Black "Chuiko, Maksym"]
+[Result "1/2-1/2"]
+[WhiteElo "2098"]
+[BlackElo "2103"]
+[ECO "C47"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.a3 d5 5.Bb5 Nxe4 6.Qe2 Qd6 7.Nxe4 dxe4 8.Qxe4 Bd7 9.d4 f5 10.Qe2 Nxd4 11.Nxd4 Qxd4 12.Bxd7+ Qxd7 13.Qxe5+ Qe7 14.Bf4 O-O-O 15.O-O Qxe5 16.Bxe5 Rg8 17.Rad1 Re8 18.Rfe1 g6 19.g3 Bg7 20.Bxg7 Rxe1+ 21.Rxe1 Rxg7 22.Kg2 Kd7 23.Re3 Re7 24.Rxe7+ Kxe7 1/2-1/2

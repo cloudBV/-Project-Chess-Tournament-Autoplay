@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.16"]
+[Round "6.14"]
+[White "Vroombout, Enrico"]
+[Black "Bosboom, Manuel"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2328"]
+[ECO "B84"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 e6 6.Be2 Nf6 7.g4 d5 8.exd5 Bb4 9.O-O O-O 10.dxe6 fxe6 11.Bc4 Kh8 12.Bxe6 Nbd7 13.g5 Ne5 14.f4 Bc5 15.Bxc8 Bxd4+ 16.Kh1 Qxc8 17.fxe5 Qc6+ 18.Qf3 Nh5 19.Nb1 0-1

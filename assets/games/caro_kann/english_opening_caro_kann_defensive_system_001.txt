@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "18.3"]
+[White "Obukhava, Anastasiya"]
+[Black "Szczotka, Klara"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2130"]
+[ECO "A11"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 g6 4.Nf3 Bg7 5.O-O d5 6.cxd5 cxd5 7.d4 Nc6 8.Nc3 O-O 9.Bf4 Nh5 10.Be3 Nf6 11.h3 a6 12.Ne5 e6 13.Nxc6 bxc6 14.Rc1 Rb8 15.Na4 Bd7 16.b3 Qe7 17.Qd3 Ra8 18.Bd2 Ne8 19.Ba5 e5 20.dxe5 Bxe5 21.Nb6 Ra7 22.Nxd7 Qxd7 23.Bb4 Bd6 24.Bc3 Ra8 25.Rfd1 Ng7 26.e4 Rad8 27.exd5 cxd5 28.Qxd5 Qe7 29.Qf3 Ba3 30.Bf6 Qe6 31.Rxd8 Rxd8 32.Bxd8 Bxc1 33.Qa8 Qe8 34.Bc6 Qf8 35.Bf6 Qxa8 36.Bxa8 Ne6 37.Bc3 Nc5 38.Bd5 Ba3 39.Bc4 Kf8 40.Bd4 a5 41.Kf1 Ke7 42.Ke2 f5 43.Bc3 Bb4 44.Bxb4 axb4 45.Bg8 h6 46.f3 g5 47.Ke3 Kd6 48.Kd4 h5 49.Kc4 Na6 50.Bf7 g4 51.fxg4 fxg4 52.hxg4 hxg4 53.Bh5 Nc5 54.Bxg4 Ne4 55.Kxb4 Nxg3 56.Bf3 Nf5 57.a4 Nd4 58.Be4 Kc7 59.Kc4 Ne6 60.b4 Kb6 61.a5+ Ka6 62.Bd3 Nd8 63.Kc5+ Ka7 64.b5 Ne6+ 65.Kd6 Nd4 66.b6+ Kb7 67.Be4+ Ka6 68.b7 Nb5+ 69.Kc6 Nd4+ 70.Kc7 Nb5+ 71.Kc8 Nd6+ 72.Kc7 Nxb7 73.Bxb7+ Kxa5 1/2-1/2

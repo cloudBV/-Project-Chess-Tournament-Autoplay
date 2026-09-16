@@ -1,0 +1,15 @@
+[Event "Round 8: Ilijic, Mihajilo - Martic, Ivan"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/fsP0oggU"]
+[Date "2026.07.10"]
+[Round "8.13"]
+[White "Ilijic, Mihajilo"]
+[Black "Martic, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2164"]
+[BlackElo "2273"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.g3 b5 5.d4 cxd4 6.Nxd4 Bb7 7.Bg2 Nc6 8.O-O Bc5 9.Nxc6 Bxc6 10.e5 Bxg2 11.Kxg2 f5 12.exf6 Nxf6 13.Bg5 O-O 14.Ne4 Be7 15.Nxf6+ Bxf6 16.Bxf6 Rxf6 17.Qd6 Qc8 18.c3 Qb7+ 19.Kg1 Raf8 20.Rad1 R8f7 21.Rd4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 1: Nemitz, Alfred - Steger, Lukas Daniel"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/GvaugfjW"]
+[Date "2026.07.19"]
+[Round "1.12"]
+[White "Nemitz, Alfred"]
+[Black "Steger, Lukas Daniel"]
+[Result "1-0"]
+[WhiteElo "2343"]
+[BlackElo "2196"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 Bg7 4.e4 d6 5.Bd3 O-O 6.O-O Nc6 7.Re1 e5 8.dxe5 dxe5 9.b3 Nh5 10.Bb2 a6 11.Nc4 Re8 12.Ne3 Nf4 13.Bf1 Be6 14.c3 h6 15.Qc2 Qf6 16.Rad1 Rad8 17.g3 Nh3+ 18.Kg2 Ng5 19.Nxg5 hxg5 20.Be2 Rxd1 21.Bxd1 Qe7 22.Bf3 f6 23.Rd1 Rd8 24.Rxd8+ Nxd8 25.h3 Qd7 26.Bg4 Bxg4 27.hxg4 c6 28.a4 Bf8 29.Qe2 Kg7 30.a5 Ne6 31.b4 c5 32.Qf3 Nc7 33.Nc2 Qd2 34.Na3 Qxb2 35.Qd3 Qxa3 36.Qd7+ Kg8 37.Qxc7 Qxc3 38.Qxb7 cxb4 39.Qxa6 Kf7 40.Qb7+ Be7 41.a6 1-0

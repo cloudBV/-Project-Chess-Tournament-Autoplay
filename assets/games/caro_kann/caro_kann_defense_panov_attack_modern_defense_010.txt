@@ -1,0 +1,15 @@
+[Event "Round 6: Saranya Devi Narahari - Satanovskaia, Evgeniia"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-6/3k5D8HpF/D6NriKrC"]
+[Date "2026.07.21"]
+[Round "6.3"]
+[White "Saranya Devi Narahari"]
+[Black "Satanovskaia, Evgeniia"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2165"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Ne5 8.Nf3 Bg4 9.Bf4 Nxf3+ 10.gxf3 Bd7 11.Bxc4 g6 12.Qd2 Rc8 13.Bb3 Bg7 14.Bh6 O-O 15.Bxg7 Kxg7 16.O-O Bh3 17.Rfe1 Qd7 18.Re5 b5 19.Rae1 b4 20.Ne2 e6 21.Qd4 Rfd8 22.Nf4 Bf5 23.Qxb4 exd5 24.Re7 Qd6 25.Qxd6 Rxd6 26.Rxa7 g5 27.Ng2 Bh3 28.Ne3 Rf8 29.Rd1 d4 30.Nc4 Re6 31.Nd2 Re5 32.Rc7 Nh5 33.Ne4 Nf4 34.Bc4 g4 35.Rxd4 gxf3 36.Bf1 Rfe8 37.Bxh3 Ne2+ 38.Kh1 Nxd4 39.Ng3 Re1+ 40.Bf1 Ne2 0-1

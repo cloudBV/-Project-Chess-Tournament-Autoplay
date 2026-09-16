@@ -1,0 +1,14 @@
+[Event "Round 2: Hartofylakas, Spyros - Spyratos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/L1Hfowcl"]
+[Date "2026.07.06"]
+[Round "2.62"]
+[White "Hartofylakas, Spyros"]
+[Black "Spyratos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2218"]
+[BlackElo "2200"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 e5 6.d3 Nge7 7.Be3 d6 8.d4 cxd4 9.cxd4 exd4 10.Bxd4 O-O 11.Bxg7 Kxg7 12.Nc3 a6 13.Be2 Qb6 14.Qxd6 Qxb2 15.Qc5 Qb4 16.Qe3 Re8 17.Rab1 Qa5 18.Rfc1 Rb8 19.Bc4 Ne5 20.Nxe5 Qxe5 21.f4 Qd6 22.Rd1 Qc7 23.Qd4+ Kg8 24.Bb3 Nc6 25.Qe3 Be6 26.Bxe6 Rxe6 27.Nd5 Qd8 28.f5 Rd6 29.f6 Kh8 30.Qh6 Rxf6 31.Nxf6 Qxf6 32.Rxb7 Re8 33.Rf1 Qd4+ 34.Kh1 Nd8 35.Re7 Rg8 36.Qf4 Kg7 37.Qf3 Rf8 38.e5 Qc5 39.Qf6+ Kg8 40.Rd7 Qb5 41.Rxd8 Qxf1+ 42.Qxf1 Rxd8 43.Kg1 a5 44.Qe2 Kf8 45.Kf2 Ke7 46.Kf3 Ke6 47.Qa6+ 1-0

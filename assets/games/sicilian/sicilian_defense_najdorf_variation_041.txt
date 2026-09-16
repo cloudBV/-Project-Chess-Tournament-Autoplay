@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "2.4"]
+[White "Audi Ameya"]
+[Black "Reyan Md."]
+[Result "0-1"]
+[WhiteElo "2424"]
+[BlackElo "2161"]
+[ECO "B94"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 Qb6 8.Bb3 e6 9.f3 Be7 10.Be3 Nc5 11.g4 Qc7 12.Qd2 b5 13.a3 O-O 14.Ba2 Bd7 15.h4 d5 16.g5 Nh5 17.exd5 e5 18.Nde2 Bf5 19.d6 Bxd6 20.Nd5 Qb7 21.Kf2 Rfd8 22.b4 Ne6 23.Rhd1 Rac8 24.Rac1 e4 25.c4 exf3 26.Kxf3 bxc4 27.Rxc4 Nc7 28.Kf2 Be6 29.Rd4 Nb5 30.Re4 Nxa3 31.Qd3 Bf5 32.Nd4 Bg6 33.Bc1 Ng3 34.Re7 Bxe7 35.Nxe7+ Qxe7 36.Nc6 Ne4+ 37.Kg2 Qf8 38.Qxd8 Rxc6 39.Qa5 Rc2+ 40.Kg1 Rc8 41.Qxa3 Nc3 42.Re1 Qd6 43.Bf4 Qd4+ 0-1

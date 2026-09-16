@@ -1,0 +1,14 @@
+[Event "Round 5: Christodoulou, Panormitis - Gouloutis, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/ebQ6Y9QV"]
+[Date "2026.07.08"]
+[Round "5.53"]
+[White "Christodoulou, Panormitis"]
+[Black "Gouloutis, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2277"]
+[ECO "B11"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.Be2 g6 7.d4 Bg7 8.Be3 Ne7 9.h4 h6 10.O-O-O Nd7 11.g4 Qa5 12.Kb1 a6 13.Qg3 b5 14.Bf3 Nb6 15.Ne2 Nc4 16.Bc1 O-O 17.Bg2 Rab8 18.h5 g5 19.f4 f6 20.e5 fxe5 21.fxg5 exd4 22.gxh6 Be5 23.Qh4 b4 24.b3 d3 25.cxd3 Bf6 26.g5 Nf5 27.Qg4 Ne5 28.Qf4 Bh8 29.g6 Bf6 30.Bb2 Nd7 31.Bxf6 Rxf6 32.Qg5 Qd8 33.Nf4 Nf8 34.h7+ Nxh7 35.gxh7+ Kxh7 36.Bh3 Qf8 37.Nxe6 Qh6 38.Bxf5+ 1-0

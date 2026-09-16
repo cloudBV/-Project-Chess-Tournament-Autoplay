@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "18.1"]
+[White "Bouska, Jiri"]
+[Black "Sowinski, Pawel"]
+[Result "0-1"]
+[WhiteElo "2295"]
+[BlackElo "2355"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.Nc3 Bd7 6.Nf3 Bg4 7.Be2 e6 8.Bg5 Ne7 9.Qd2 Nd7 10.Qf4 Bxf3 11.Bxf3 h6 12.Bh5 g6 13.Bxe7 Qxe7 14.Be2 Qb4 15.Qd2 c5 16.dxc5 Bxc5 17.a3 Qd4 18.Qxd4 Bxd4 19.f4 Rc8 20.Kd2 Nc5 21.Bd3 Bxc3+ 22.Kxc3 h5 23.Kd2 Ke7 24.Rac1 Rc7 25.Rh3 Rhc8 26.Rg3 Nb3+ 27.Kd1 Nxc1 28.Kxc1 Rc5 29.Rg5 Rh8 30.Kd2 b5 31.b4 Rc6 32.Rg3 Kd7 33.Be2 Kc7 34.Bd3 Kb6 35.Rg5 a5 36.Be2 axb4 37.axb4 Rcc8 38.Bd3 Ra8 39.Kc3 Ra1 40.g3 Rh6 41.Kb2 Re1 42.Kc3 Rh8 43.Kd2 Rg1 44.Kc3 Rc8+ 45.Kb2 d4 46.Be4 Rc4 47.Bd3 Rxb4+ 48.Ka2 Rbb1 49.c4 Rbd1 50.c5+ Kxc5 51.Be4 Kb4 52.Kb2 Rd2+ 53.Bc2 d3 0-1

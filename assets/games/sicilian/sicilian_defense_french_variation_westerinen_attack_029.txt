@@ -1,0 +1,15 @@
+[Event "Round 4: Perucki, Maciej - Cuhra, Martin"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/kIfTL41N"]
+[Date "2026.07.18"]
+[Round "4.20"]
+[White "Perucki, Maciej"]
+[Black "Cuhra, Martin"]
+[Result "1/2-1/2"]
+[WhiteElo "2169"]
+[BlackElo "2195"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nf6 4.e5 Nd5 5.Bb2 Be7 6.g3 O-O 7.Bg2 Nc6 8.O-O f6 9.Qe2 Ndb4 10.d3 Nxe5 11.Nxe5 fxe5 12.Bxe5 Nc6 13.Bxc6 bxc6 14.f4 d6 15.Bc3 Qb6 16.Kg2 Bd7 17.Nd2 Rae8 18.Rae1 Qc7 19.a4 Bc8 20.Ne4 Rf7 21.h4 Qd7 22.Qg4 h6 23.Qg6 Ref8 24.Rh1 e5 25.fxe5 dxe5 26.Qh5 Rf5 27.Qe2 Qd5 28.Rhf1 Be6 29.Rxf5 Bxf5 30.Rf1 Qe6 31.Kh2 Re8 32.Nd2 Bd8 33.Re1 Bc7 34.Qe3 Qe7 35.Kg2 Qd6 36.Ne4 Qd5 37.Kh2 Bg6 38.Rf1 Bb6 39.a5 Bc7 40.h5 Bxh5 41.Qxc5 Qxc5 42.Nxc5 Bf7 43.Bd2 Bd5 44.c4 Bf7 45.Bc3 Bg6 46.Re1 Bd6 47.Nb7 Bb8 48.Re3 h5 49.Kg2 e4 50.Nc5 exd3 51.Rxe8+ Bxe8 52.Nxd3 Bg6 53.Ne5 Bc2 54.b4 Bxe5 55.Bxe5 Bd3 56.b5 1/2-1/2

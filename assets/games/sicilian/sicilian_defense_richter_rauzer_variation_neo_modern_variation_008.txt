@@ -1,0 +1,14 @@
+[Event "Round 3: Marzocchi, Tommaso - Colonetti, Fabio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-3/GTgm6lvH/Bp7imwOL"]
+[Date "2026.07.07"]
+[Round "3.7"]
+[White "Marzocchi, Tommaso"]
+[Black "Colonetti, Fabio"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2128"]
+[ECO "B67"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Nxd4 10.Qxd4 Be7 11.Be3 h5 12.Be2 b5 13.h3 h4 14.f4 Rb8 15.Bf3 b4 16.Ne2 O-O 17.g3 Qa5 18.Kb1 e5 19.Qd3 Bb5 20.Qd2 Bc6 21.Qd3 Bb5 22.Qd2 Bc6 23.Qd3 Rfd8 24.c4 bxc3 25.Nxc3 Rb4 26.Qc2 Rdb8 27.Bc1 hxg3 28.fxe5 dxe5 29.Ka1 Ba4 30.Nxa4 Rxa4 31.b3 Rd4 32.Bb2 Rxd1+ 33.Rxd1 Ba3 34.Rg1 Bxb2+ 35.Kxb2 Rd8 36.Rd1 Rxd1 37.Qxd1 Qc5 38.Qh1 Qf2+ 39.Ka3 Nh5 40.Qd1 Qc5+ 41.b4 Qe3+ 42.Ka4 Nf6 43.Qb3 Qf2 44.Ka5 g2 45.Bxg2 Qxg2 46.Kxa6 Qxe4 47.b5 Nd7 48.Ka5 Qe1+ 49.Qb4 Qxb4+ 50.Kxb4 Kf8 0-1

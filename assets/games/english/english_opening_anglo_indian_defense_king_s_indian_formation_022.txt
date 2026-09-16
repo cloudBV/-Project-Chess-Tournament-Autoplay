@@ -1,0 +1,15 @@
+[Event "Round 5: Nikookar, Mahdi - Amin-Erdene, Bayanmunkh"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-5/wuLhL5ga/b7P4y229"]
+[Date "2026.07.22"]
+[Round "5.7"]
+[White "Nikookar, Mahdi"]
+[Black "Amin-Erdene, Bayanmunkh"]
+[Result "1-0"]
+[WhiteElo "2265"]
+[BlackElo "2091"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 O-O 5.g3 d6 6.Bg2 e5 7.d3 Nh5 8.Nc3 f5 9.O-O Be6 10.e3 c6 11.Rc1 Na6 12.a3 g5 13.h3 h6 14.b4 Qe8 15.Re1 Nf6 16.b5 Nc7 17.bxc6 bxc6 18.c5 g4 19.hxg4 fxg4 20.Nh4 d5 21.Qa4 Nh7 22.Ne2 Ng5 23.Nf4 exf4 24.Bxg7 Kxg7 25.exf4 Qd7 26.Qd4+ Kh7 27.Re5 Qg7 28.Qe3 Nf7 29.Rxe6 Nxe6 30.Qxe6 Nd8 31.Qe2 Nb7 32.d4 Kg8 33.Qe6+ Qf7 34.Qxc6 Rfd8 35.Qxh6 Na5 36.Qg5+ Kh7 37.Bf1 Qg7 38.Bd3+ Kg8 39.Bg6 Nb3 40.Re1 Rd7 41.c6 Rd6 42.Re7 Rxg6 43.Rxg7+ Rxg7 44.Qxd5+ 1-0

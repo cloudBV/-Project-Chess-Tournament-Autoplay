@@ -1,0 +1,14 @@
+[Event "Round 5: Nikcevic, Nebojsa - Kisic, Bozidar"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/APav3Xjr"]
+[Date "2026.07.07"]
+[Round "5.30"]
+[White "Nikcevic, Nebojsa"]
+[Black "Kisic, Bozidar"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2197"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 c5 5.O-O g6 6.Nc3 Bg7 7.d4 Ne4 8.Qd3 Nxc3 9.bxc3 Na6 10.d5 O-O 11.e4 e5 12.h4 f5 13.h5 d6 14.hxg6 hxg6 15.Ng5 Nc7 16.exf5 gxf5 17.g4 Qf6 18.gxf5 Qxf5 19.Qg3 Bc8 20.Be4 Qg4 21.Qxg4 Bxg4 22.Bh7+ Kh8 23.f3 Bxf3 24.Rf2 e4 25.Bxe4 Bxe4 26.Nxe4 Rxf2 27.Kxf2 Rf8+ 28.Ke2 b5 29.Nxd6 bxc4 30.Nxc4 Nxd5 31.Bd2 Nxc3+ 32.Bxc3 Bxc3 33.Rg1 Bd4 34.Rg2 Rf6 35.Kd3 Rh6 36.Ke4 Kh7 37.a4 Rh4+ 38.Kd5 Rh1 39.Re2 Rg1 40.Re7+ Rg7 41.Rxg7+ Kxg7 42.Na5 Bf2 43.Kc4 Kf7 44.Nc6 a6 45.Nb8 a5 46.Nc6 Be1 47.Kxc5 Ke6 48.Kb5 Kd6 49.Nxa5 Bxa5 50.Kxa5 1/2-1/2

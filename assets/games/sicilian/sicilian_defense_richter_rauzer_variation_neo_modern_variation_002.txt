@@ -1,0 +1,15 @@
+[Event "Chess Festival Ceske Budejovice 2026 - GM"]
+[Site "Clarion Congress Hotel Ceske Budejovice, Czech Republic"]
+[Date "2026.06.30"]
+[Round "1.5"]
+[White "Ajay Santhosh Parvathareddy"]
+[Black "Roshka, Yevgeniy"]
+[Result "1-0"]
+[WhiteElo "2476"]
+[BlackElo "2497"]
+[ECO "B67"]
+[TimeControl "2x 90 minutes / 40 moves + 30 minutes + 30 second / move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Be7 10.f3 h6 11.Be3 Qc7 12.g4 Ne5 13.h4 b5 14.Bd3 Nc4 15.Bxc4 Qxc4 16.g5 b4 17.Na4 Qc7 18.gxf6 Bxf6 19.b3 Bxa4 20.bxa4 Rc8 21.Nb3 O-O 22.Bd4 Bxd4 23.Nxd4 Qa5 24.Rhg1 Kh8 25.Rg3 Rg8 26.Rdg1 Qe5 27.Ne2 Rc4 28.Qf4 Qxf4 29.Nxf4 g6 30.Nd3 Rgc8 31.R1g2 Rd4 32.Rd2 d5 33.exd5 Rxd5 34.Re2 a5 35.Ne5 Kg7 36.f4 Rd1+ 37.Kb2 Rh1 38.Nxg6 fxg6 39.Rxe6 Rxh4 40.Rgxg6+ Kh7 41.f5 Rh5 42.Ra6 Rc7 43.Rgb6 Kg7 44.Rg6+ Kh7 45.Rgd6 Kg7 46.Rf6 Rh2 47.Rfc6 Rxc6 48.Rxc6 Rf2 49.Rc5 h5 50.Rxa5 h4 51.Rd5 h3 52.a5 Rf3 53.Rd4 Kf6 54.a6 Kg5 55.a7 Ra3 56.Rd7 Kxf5 57.Rh7 Kg6 58.Rxh3 Rxa7 59.Rh4 Kf5 60.Rxb4 Ke5 61.a4 Kd5 62.Kb3 Kc5 63.Rb5+ Kc6 64.Kb4 Rh7 65.a5 Rh4+ 66.c4 Rh1 67.Rb6+ Kc7 68.Rg6 Rh5 69.a6 Rf5 70.Rg7+ Kb6 71.a7 Rb5+ 72.Kc3 Ra5 73.Kd4 Ra1 74.Re7 Rd1+ 75.Ke5 Re1+ 76.Kd6 Rd1+ 77.Ke6 Rd8 78.Rd7 Rh8 79.Kd6 Rh6+ 80.Kd5 Rh5+ 81.Kd4 Ra5 82.Re7 Ra1 83.Kd5 Rd1+ 84.Ke5 Rd8 85.Ke6 Kc6 86.Ke5 Kb6 87.Rd7 Rh8 88.Kd4 Rg8 89.Kc3 Rh8 90.Kb4 Ra8 91.Rh7 Rc8 92.c5+ Kc6 93.Ka5 Rg8 94.Ka6 Rf8 95.Rb7 Rf1 96.Rb5 Rf8 97.Rb8 1-0

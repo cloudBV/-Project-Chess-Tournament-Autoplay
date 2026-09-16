@@ -1,0 +1,14 @@
+[Event "Round 7: Dreyfus, Jacques - Degraeve, Jean-Marc"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-7/3t3aaHmO/bVj33vxb"]
+[Date "2026.07.24"]
+[Round "7.5"]
+[White "Dreyfus, Jacques"]
+[Black "Degraeve, Jean-Marc"]
+[Result "0-1"]
+[WhiteElo "2150"]
+[BlackElo "2500"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Qe2 dxe4 4.dxe4 e5 5.Nc3 c6 6.Bd2 Be6 7.O-O-O Nd7 8.f4 exf4 9.Bxf4 Ne7 10.Nf3 Ng6 11.Bg3 Qa5 12.Nd4 Bxa2 13.Nd5 cxd5 14.exd5+ Kd8 15.Nc6+ bxc6 16.dxc6 Qg5+ 17.Rd2 Be6 18.Qa6 Bb4 19.c3 Bc5 20.Qa5+ Ke7 21.Bd6+ Kf6 22.h4 Qe3 23.g4 Bxd6 24.Rh3 Qc5 25.Qa6 Ke7 26.Kc2 Bxg4 27.cxd7 Bf5+ 28.Kd1 Rhd8 29.Re3+ Be6 30.Bg2 Rab8 31.b4 Qb6 32.Qd3 Rxd7 33.h5 Nf4 0-1

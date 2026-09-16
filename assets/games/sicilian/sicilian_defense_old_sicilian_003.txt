@@ -1,0 +1,14 @@
+[Event "Round 7: Prabu, Dananjey - Malmquist, Neo"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-kadett-sm/round-7/1HcdhDP1/coj9LMYU"]
+[Date "2026.06.24"]
+[Round "7.1"]
+[White "Prabu, Dananjey"]
+[Black "Malmquist, Neo"]
+[Result "1/2-1/2"]
+[WhiteElo "2129"]
+[BlackElo "2029"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 e6 4.O-O d5 5.Bb5 dxe4 6.Ne5 Ne7 7.Qh5 g6 8.Qh4 Bg7 9.Qxe4 Qd5 10.Re1 Qxe4 11.Rxe4 Bd7 12.Bxc6 Nxc6 13.Nxd7 Kxd7 14.d3 b5 15.c3 f5 16.Re2 Ne5 17.Bh6 Nf3+ 18.gxf3 Bxh6 19.Na3 Rab8 20.Rae1 Rhe8 21.Re5 Bf8 22.Kg2 Bd6 23.R5e2 a6 24.Nc2 Bf4 25.h3 Rb6 26.Kf1 Rd6 27.Rd1 Rd8 28.Ne1 Ke7 29.Ra1 a5 30.a3 Kf6 31.b3 Be5 32.Rc1 b4 33.cxb4 cxb4 34.axb4 axb4 35.Rc4 Bc3 36.Kg2 Rb6 37.Nc2 Rxd3 38.Rc7 h6 39.Ne3 Be5 40.Rh7 Bf4 41.Ra7 Bxe3 42.Rxe3 Rc3 43.Ra4 Rc1 44.h4 g5 45.Rd3 Rb1 46.hxg5+ hxg5 47.f4 gxf4 48.Rh3 Kg6 49.Ra8 Rc1 50.Rf8 Rb7 51.Re8 Rc6 52.Rh4 Kg5 53.Reh8 Rg7 54.R8h6 Rg6 55.Rxg6+ Kxg6 56.Rxf4 Rb6 57.Rc4 Kf6 58.f4 Kg6 59.Kf3 Kf6 60.Ke3 e5 61.fxe5+ Kxe5 62.Rc5+ Ke6 63.Kf4 Rd6 64.Rc4 Rb6 65.Rc5 Rd6 1/2-1/2

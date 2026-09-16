@@ -1,0 +1,15 @@
+[Event "Round 4: Karaokcu, Erkin - Temizer, Umut"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/R2mCWHW6"]
+[Date "2026.07.01"]
+[Round "4.42"]
+[White "Karaokcu, Erkin"]
+[Black "Temizer, Umut"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2084"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.c4 c5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nc7 6.Nf3 Nc6 7.a3 e5 8.b4 f6 9.b5 Nd4 10.Rb1 Be7 11.O-O O-O 12.d3 Nxf3+ 13.Bxf3 Kh8 14.Bg2 f5 15.e3 Qd6 16.d4 e4 17.f3 cxd4 18.exd4 Bf6 19.Be3 Nd5 20.Nxd5 Qxd5 21.Qb3 Be6 22.Qxd5 Bxd5 23.fxe4 fxe4 24.Rbc1 Rac8 25.Rc5 Bc4 26.Rxc8 Rxc8 27.Rc1 Be6 28.Rxc8+ Bxc8 29.Bxe4 b6 30.Kf2 Kg8 31.Ke2 g5 32.Kd3 h6 33.Kc4 Kf7 34.Bd2 Bg4 35.Bb4 Ke6 36.Kd3 Bh3 37.d5+ Kd7 38.Kc4 Bf1+ 39.Bd3 Bh3 40.Bf8 h5 41.Be2 h4 42.gxh4 gxh4 43.Bh6 Be5 44.Bg5 Bxh2 45.Bxh4 Be5 46.Bf2 Bg2 47.a4 Kd6 48.Kb4 1/2-1/2

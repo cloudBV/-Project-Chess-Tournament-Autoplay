@@ -1,0 +1,15 @@
+[Event "Round 7: Dirikolu, Deniz - Talibov, Shiroghlan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/JRW0d9jx"]
+[Date "2026.07.17"]
+[Round "7.3"]
+[White "Dirikolu, Deniz"]
+[Black "Talibov, Shiroghlan"]
+[Result "1/2-1/2"]
+[WhiteElo "2373"]
+[BlackElo "2471"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a3 e5 7.Nf5 d5 8.Bg5 d4 9.Bxf6 gxf6 10.Nb1 Bxf5 11.exf5 Qd5 12.Qh5 Nd7 13.Nd2 Rc8 14.Bd3 Qxg2 15.O-O-O Nc5 16.Kb1 Qc6 17.Rhe1 Nxd3 18.cxd3 Qc2+ 19.Ka2 Rc3 20.Nc4 b5 21.Qf3 bxc4 1/2-1/2

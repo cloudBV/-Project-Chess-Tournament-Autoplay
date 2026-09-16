@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.19"]
+[Round "6"]
+[White "Sitnic, Adnan"]
+[Black "Pastar, Slaven"]
+[Result "1/2-1/2"]
+[WhiteElo "2040"]
+[BlackElo "2315"]
+[ECO "B21"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: McDonnell Attack"]
+
+1.e4 c5 2.f4 e6 3.Nf3 d5 4.Bb5+ Nd7 5.exd5 exd5 6.O-O Bd6 7.Re1+ Ne7 8.d4 O-O 9.c3 c4 10.Ba4 a6 11.Bc2 Nf6 12.Ne5 Qc7 13.Nd2 b5 14.Ndf3 Bb7 15.g3 Rae8 16.Bd2 Qc8 17.a4 Ne4 18.Ng5 f6 19.Nxe4 dxe4 20.Ng4 b4 21.cxb4 Nf5 22.Bc3 e3 23.d5 e2 24.Rxe2 Bb8 25.Bxf6 Ba7+ 26.Kg2 Rxe2+ 27.Qxe2 Bxd5+ 28.Kf1 h5 29.Bxg7 hxg4 30.Bxf5 Qxf5 31.Bxf8 Kxf8 32.Rd1 Kf7 33.Qd2 Qd3+ 34.Qxd3 cxd3 35.Ke1 Be4 36.Kd2 Bd4 37.b3 Bf6 38.Ke3 Bf5 39.b5 axb5 40.axb5 Bd8 41.Rxd3 Bb6+ 42.Ke2 Bxd3+ 43.Kxd3 Kf6 44.Ke4 Bg1 45.f5 Kg5 46.f6 Kxf6 47.Kf4 Ke6 48.Kxg4 Bxh2 49.Kf3 Bxg3 50.Kxg3 Kd6 1/2-1/2

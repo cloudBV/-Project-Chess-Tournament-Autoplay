@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/gasmPyHk"]
+[Date "2026.07.03"]
+[Round "7.35"]
+[White "Mickiewicz, Piotr"]
+[Black "Nowak, Lukasz"]
+[Result "1-0"]
+[WhiteElo "2262"]
+[BlackElo "2155"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Bg2 Nf6 5.O-O Bf5 6.b3 e6 7.Bb2 h6 8.Nbd2 Be7 9.c4 c6 10.Ne5 Nbd7 11.e4 Nxe4 12.Nxe4 Bxe4 13.Bxe4 Nxe5 14.dxe5 dxe4 15.Qg4 O-O 16.Rfd1 Qb6 17.Qxe4 Rad8 18.Bd4 Bc5 19.Bxc5 Qxc5 20.Qe3 Qa3 21.Rd2 a5 22.Rad1 Rxd2 23.Rxd2 a4 24.Kg2 axb3 25.axb3 Qb4 26.Rd7 f6 27.exf6 Rxf6 28.h4 e5 29.Qxe5 Qf8 30.Kg1 b6 31.Re7 Rf5 32.Qe4 Qf6 33.Re8+ Kf7 34.Rc8 Re5 35.Qh7 Re8 36.Rxe8 Kxe8 37.Qe4+ Kd7 38.h5 Qb2 39.Qf5+ Kc7 40.Qf7+ Kc8 41.Kg2 c5 42.Qf3 Kb8 43.Kh3 Ka7 44.g4 Qa1 45.Qe3 Qf6 46.Kg3 Ka6 47.Qe8 Qc3+ 48.Kg2 Ka7 49.Qf7+ Ka6 50.Qf3 Qxf3+ 51.Kxf3 Ka5 52.Ke4 Kb4 53.f4 Kxb3 54.g5 Kxc4 55.gxh6 gxh6 56.f5 b5 57.f6 b4 58.f7 b3 59.f8=Q b2 60.Qf1+ Kb3 61.Qb5+ Ka2 62.Qa4+ Kb1 63.Kd3 1-0

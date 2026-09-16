@@ -1,0 +1,14 @@
+[Event "Round 3: Tadic, Stefan - Jagreet Misra"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/9yMHd04G"]
+[Date "2026.07.05"]
+[Round "3.16"]
+[White "Tadic, Stefan"]
+[Black "Jagreet Misra"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2260"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 h5 9.Qd2 Nbd7 10.O-O-O Qc7 11.Kb1 b5 12.a3 Nb6 13.Bxb6 Qxb6 14.Nd5 Bxd5 15.exd5 g6 16.Qb4 Bg7 17.Na5 O-O 18.c4 e4 19.Nc6 exf3 20.gxf3 Qf2 21.cxb5 Qxf3 22.Bd3 axb5 23.Rhf1 Qg2 24.Rd2 Qg5 25.h4 Qg3 26.Bxb5 Ng4 27.Rd3 Qh2 28.Rd2 Qg3 29.Rd3 Qh2 30.Rdf3 Ne5 31.Rf4 Rfb8 32.R4f2 Qh3 33.a4 1/2-1/2

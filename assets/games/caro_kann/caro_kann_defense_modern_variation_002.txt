@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.21"]
+[White "Campora, Daniel H."]
+[Black "Garcia Brion, Eduardo"]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2173"]
+[ECO "B12"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Modern Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.Ngf3 Bg7 5.h3 dxe4 6.Nxe4 Nd7 7.Bc4 Ndf6 8.Nxf6+ Nxf6 9.O-O O-O 10.Re1 Qd6 11.Qe2 Nd5 12.c3 Re8 13.Bb3 a5 14.a4 b6 15.Qe4 Bf5 16.Qh4 c5 17.dxc5 Qxc5 18.Ng5 h6 19.Ne4 Bxe4 20.Qxe4 Rad8 21.Bd2 Rd7 22.Rad1 Red8 23.Bc1 e6 24.Qf3 Qc7 25.Rd3 Qc5 26.Red1 Nf6 27.Be3 Qc7 28.Bf4 Qc5 29.Be3 Qc7 30.Rxd7 Rxd7 31.Re1 Nd5 32.Bc1 Kh7 33.h4 h5 34.g3 Qc5 35.Rd1 Nf6 36.Rxd7 Nxd7 37.Qxf7 Ne5 38.Qxe6 Qf8 39.Be3 Nf3+ 40.Kg2 Ne5 41.Bd5 Qc5 1-0

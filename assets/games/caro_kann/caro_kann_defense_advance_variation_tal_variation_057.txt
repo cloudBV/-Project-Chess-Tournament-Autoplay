@@ -1,0 +1,14 @@
+[Event "Round 8: Xu, Chang(CQ) - Balabayeva, Xeniya"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/j8ZO9DWe"]
+[Date "2026.07.21"]
+[Round "8.10"]
+[White "Xu, Chang(CQ)"]
+[Black "Balabayeva, Xeniya"]
+[Result "0-1"]
+[WhiteElo "2125"]
+[BlackElo "2302"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.Nd2 Qa6 8.c4 e6 9.Ngf3 Nd7 10.O-O Nh6 11.b3 Nf5 12.Bb2 Be7 13.g3 Rc8 14.Qc2 b6 15.Rfc1 O-O 16.Qd1 Rfd8 17.a4 Nb8 18.Qf1 Qb7 19.Qe2 c5 20.cxd5 Qxd5 21.Qe4 Na6 22.Rc4 Nb4 23.Kg2 cxd4 24.Qxd5 exd5 25.Rxc8 Rxc8 26.Rd1 d3 27.Nd4 Nxd4 28.Bxd4 Rc2 29.Kf3 Bc5 30.Be3 Nc6 31.Nf1 Nxe5+ 32.Kg2 Ng4 33.Rxd3 Bxe3 34.Nxe3 Rxf2+ 35.Kg1 Rf3 0-1

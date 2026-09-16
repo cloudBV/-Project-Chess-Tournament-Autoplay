@@ -1,0 +1,14 @@
+[Event "Round 7: Rios Parra, Alejandro - Hernandez Montes, Jhon Sebastian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-7/ySNrTTRJ/KkVKkqyU"]
+[Date "2026.07.12"]
+[Round "7.5"]
+[White "Rios Parra, Alejandro"]
+[Black "Hernandez Montes, Jhon Sebastian"]
+[Result "0-1"]
+[WhiteElo "2174"]
+[BlackElo "2338"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bc5 7.Bf4 O-O 8.Bc7 Qe7 9.Bd6 Bxd6 10.Qxd6 Qd8 11.O-O-O a6 12.Nd4 Qb6 13.f3 Ne8 14.Na4 Qa5 15.Qa3 d6 16.Nb3 Qc7 17.Nc3 Rb8 18.Nd4 Ne5 19.Nce2 b5 20.Qc3 Qb6 21.f4 Ng4 22.Qf3 Ngf6 23.Ng3 Bb7 24.Nb3 Rc8 25.Bd3 a5 26.Kb1 a4 27.Nd2 a3 28.bxa3 Qc5 29.Rhe1 Qxa3 30.Bxb5 Rc3 31.Bd3 Nc7 32.Nb3 Ra8 33.Nc1 Nb5 34.Nh5 Rxc2 35.Nxf6+ 0-1

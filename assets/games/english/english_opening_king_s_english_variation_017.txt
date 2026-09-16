@@ -1,0 +1,14 @@
+[Event "Round 5: Vlachos, Anatole - Boci, Mateu"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/3RC85tk4"]
+[Date "2026.07.08"]
+[Round "5.12"]
+[White "Vlachos, Anatole"]
+[Black "Boci, Mateu"]
+[Result "1-0"]
+[WhiteElo "2493"]
+[BlackElo "2305"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Bc5 4.Nc3 d6 5.e3 a6 6.Nge2 Ba7 7.h3 Nge7 8.O-O O-O 9.b3 Bf5 10.d4 exd4 11.exd4 Qd7 12.Kh2 h6 13.Be3 Bh7 14.d5 Nb4 15.Bxa7 Rxa7 16.Nd4 a5 17.h4 Re8 18.Qd2 Raa8 19.Bh3 Qd8 20.Rae1 Ng6 21.Rxe8+ Qxe8 22.Ncb5 Qd8 23.a3 Na6 24.Qxa5 Qf6 25.Qd2 Re8 26.Re1 Re5 27.f4 Rxe1 28.Qxe1 Ne7 29.h5 Bd3 30.Qe3 Bb1 31.Nc3 Bh7 32.b4 Kf8 33.Ne4 Bxe4 34.Qxe4 Kg8 35.Bg4 Kf8 36.Kh3 Ng8 37.Bc8 Qd8 38.Bxb7 Nf6 39.Qf5 Qe7 40.Qc8+ Ne8 41.Bc6 Qe4 42.Ne6+ 1-0

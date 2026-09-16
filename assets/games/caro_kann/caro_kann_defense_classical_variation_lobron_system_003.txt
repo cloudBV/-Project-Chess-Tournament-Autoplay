@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.11"]
+[Round "1.2"]
+[White "Frank, Adam"]
+[Black "Mica, Marek"]
+[Result "1/2-1/2"]
+[WhiteElo "2261"]
+[BlackElo "2284"]
+[ECO "B19"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Lobron System"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Kb1 O-O 14.Ne4 c5 15.g4 Nxg4 16.Rhg1 f5 17.Qe2 Qb6 18.Ne5 Ndxe5 19.dxe5 Kh8 20.Nd6 Nxe5 21.Bc3 Bxd6 22.Bxe5 Bxe5 23.Qxe5 Rf7 24.Rg6 Rd8 25.Re1 Qd6 26.Rxh6+ Kg8 27.Qxd6 Rxd6 28.Rhxe6 Rxe6 29.Rxe6 Rd7 30.Kc1 b6 31.Re5 Rf7 32.Kd2 Kh7 33.Re6 f4 34.Kd3 Rd7+ 35.Ke2 Rd5 36.Re7 c4 37.Rxa7 Rb5 38.b3 cxb3 39.axb3 Rxh5 40.Rb7 Re5+ 41.Kf3 b5 42.Rc7 Kg6 43.Kxf4 Rf5+ 44.Ke3 Re5+ 45.Kd4 Rf5 46.Rc6+ Kf7 47.Ke3 g5 48.b4 Ke7 49.f3 Re5+ 50.Kf2 Kd7 51.Rg6 Rf5 52.c3 Rd5 53.Ke3 Re5+ 54.Kf2 Rd5 55.Kg3 Rf5 56.Rh6 Rd5 57.Rf6 Ke7 58.Rc6 Kd7 59.Rb6 Rf5 60.Rg6 Kc7 61.Kf2 Kd7 62.Kg2 Rd5 63.Kg3 Rf5 64.Kf2 Rd5 65.Rf6 Ke7 66.Rb6 Kd7 67.Ke3 Re5+ 68.Kd4 Rf5 69.Rg6 Kc7 70.Ke4 Rf4+ 71.Ke3 Rf5 72.Rh6 Re5+ 73.Kf2 Kd7 74.Rf6 Ke7 75.Rb6 Kd7 76.Kg3 Kc7 77.Rg6 Rf5 78.Re6 Kd7 79.Re3 Rd5 80.Kg4 Kc6 81.Kh5 Kd7 82.Kg6 Kd6 83.Kf6 Kd7 84.Re7+ Kd6 85.Re6+ Kd7 86.Re5 Rd3 87.Rc5 Rxf3+ 88.Kxg5 Kd6 89.Kg4 Rd3 90.Kf4 Rd5 91.Rc8 Rh5 92.Ke4 Rh4+ 93.Kd3 Rh3+ 94.Kc2 Rh5 95.Rg8 Kc6 96.Rg6+ Kc7 97.Kd3 Kb7 98.Re6 Rh3+ 99.Kd4 Rg3 100.Re3 Rg5 101.Re5 Rg4+ 102.Re4 Rg3 103.Rh4 Kb6 104.Rh6+ Kb7 105.Re6 Rg4+ 106.Kc5 Rc4+ 107.Kxb5 Rxc3 108.Re7+ Kb8 109.Kb6 Rc8 110.b5 Rh8 111.Ka6 Rh6+ 112.b6 Rh8 113.Rb7+ Ka8 114.Ra7+ Kb8 115.Rg7 Rf8 1/2-1/2

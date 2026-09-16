@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/h58sK97T"]
+[Date "2026.07.11"]
+[Round "2.11"]
+[White "Jansone, Melanija Luize"]
+[Black "Tolmacevs,Artjoms"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2269"]
+[ECO "B90"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.g3 O-O 9.Bg2 h6 10.O-O Be6 11.Be3 Nbd7 12.Re1 Rc8 13.Nh4 Nb6 14.Nf5 Nc4 15.Bc1 Re8 16.Ne3 Nxe3 17.Bxe3 Ng4 18.Bf3 Nxe3 19.Rxe3 Qb6 20.b3 Rc5 21.Nd5 Bxd5 22.exd5 Bg5 23.Re2 Rc3 24.Bg2 f5 25.h4 Bf6 26.Kh2 Rf8 27.Bh3 f4 28.Be6+ Kh8 29.Rb1 e4 30.Qe1 Be5 31.Rxe4 fxg3+ 32.Kg2 Rxf2+ 0-1

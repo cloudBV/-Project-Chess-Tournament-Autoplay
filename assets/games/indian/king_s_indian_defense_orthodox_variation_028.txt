@@ -1,0 +1,14 @@
+[Event "Round 1: Besou, Hussain - Pfatteicher, Lukas"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/Qw1Jk3bM"]
+[Date "2026.07.19"]
+[Round "1.5"]
+[White "Besou, Hussain"]
+[Black "Pfatteicher, Lukas"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2276"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Bg4 8.d5 a5 9.Be3 Na6 10.h3 Bd7 11.Nd2 Ne8 12.a3 f5 13.exf5 gxf5 14.f4 e4 15.Qc2 Qh4 16.Kh2 Nf6 17.g3 Qh6 18.Rab1 Be8 19.b4 axb4 20.axb4 Bh5 21.Kg2 Kh8 22.Bxh5 Qxh5 23.Qd1 Qg6 24.Ne2 Nh5 25.Rg1 Rg8 26.Kh2 Nf6 27.Nd4 Nd7 28.g4 fxg4 29.Rxg4 Qf7 30.Nxe4 Nf6 31.Nxf6 Bxf6 32.Ne6 h5 33.Rxg8+ Rxg8 34.Bd4 Rg6 35.Ng5 Qe8 36.Qxh5+ Kg7 37.Qh7+ Kf8 38.Ne6+ 1-0

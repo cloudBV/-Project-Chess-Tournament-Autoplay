@@ -1,0 +1,15 @@
+[Event "Round 7: Belenkaya, Dina - Botez, Alexandra"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-7/QhfD3M1a/t7aYog98"]
+[Date "2026.07.05"]
+[Round "7.5"]
+[White "Belenkaya, Dina"]
+[Black "Botez, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2120"]
+[BlackElo "2066"]
+[ECO "E90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Bd3 Na6 7.O-O e5 8.d5 Nc5 9.Bc2 a5 10.a3 Nfd7 11.b3 Nb6 12.Rb1 f5 13.exf5 gxf5 14.b4 axb4 15.axb4 Ne4 16.Nxe4 fxe4 17.Nd2 Bf5 18.Re1 Qf6 19.Bxe4 Kh8 20.Qe2 Ra2 21.Rb2 Rxb2 22.Bxb2 Bh6 23.Bxf5 Qxf5 24.Ne4 Rg8 25.f3 Bf4 26.Bc1 Ra8 27.Bxf4 Qxf4 28.g3 Qh6 29.Rd1 Nd7 30.c5 dxc5 31.bxc5 Ra3 32.c6 bxc6 33.dxc6 Nf8 34.Nf2 Qf6 35.Qe4 Rxf3 36.Ng4 Qf5 37.Qxf5 Rxf5 38.Rd8 Kg7 39.Rc8 Ne6 40.Kg2 h5 41.Ne3 Rf7 42.Nd5 e4 43.Re8 Nd4 44.Nb4 Rf6 45.Re7+ Kg6 46.Rxc7 Re6 47.Kf2 e3+ 48.Ke1 e2 49.Nd3 Nf3+ 50.Kf2 e1=Q+ 51.Nxe1 Nxe1 52.Rd7 Nc2 53.c7 Rc6 54.Rd6+ Rxd6 55.c8=Q Rf6+ 56.Kg2 Ne3+ 57.Kh3 Nf5 58.Qe8+ Rf7 59.Kg2 Ng7 60.Qe4+ Kh6 61.h3 Rf6 62.Qe3+ Kh7 63.Qd4 Rg6 64.Qc3 Nf5 65.Qc7+ Kg8 66.Qc8+ Kh7 67.Qxf5 Kh6 68.Qf8+ Kh7 69.Kf3 h4 70.g4 Rg7 71.Qf5+ Kg8 72.Qh5 Rh7 73.Qe8+ Kg7 74.g5 Rh8 75.Qe5+ Kg8 76.Kg4 Rh7 77.Qe8+ Kg7 78.Kf5 Rh8 79.Qe7+ Kg8 80.Kg6 Rh6+ 81.gxh6 1-0

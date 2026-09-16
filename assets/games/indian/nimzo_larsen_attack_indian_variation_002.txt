@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.05"]
+[Round "8.3"]
+[White "Mitrev, Emil"]
+[Black "Karaivanova, Petya"]
+[Result "1-0"]
+[WhiteElo "2042"]
+[BlackElo "2105"]
+[ECO "A01"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+
+1.b3 Nf6 2.Bb2 d5 3.Nf3 e6 4.g3 Be7 5.Bg2 O-O 6.O-O b6 7.d3 Bb7 8.Nbd2 Nbd7 9.Re1 c5 10.e4 dxe4 11.dxe4 Qc7 12.e5 Nd5 13.a3 b5 14.c4 bxc4 15.Nxc4 Rfd8 16.Qc2 N7b6 17.Nd6 Ba6 18.Rac1 Nd7 19.Nd4 Nxe5 20.Rxe5 Bxd6 21.Rxd5 exd5 22.Bxd5 cxd4 23.Qe4 Re8 24.Rxc7 Rxe4 25.Bxe4 Bxc7 26.Bxa8 d3 27.Bc3 Kf8 28.Kg2 f6 29.Kf3 Be5 30.Bxe5 fxe5 31.Ke3 Ke7 32.Be4 g6 33.Bxd3 Bb7 34.b4 Ke6 35.Bc4+ Kd6 36.h4 h6 37.f4 Bc8 38.Bd3 exf4+ 39.gxf4 Kd5 40.Bxg6 Kc4 41.Bf7+ Kc3 42.Ke4 Kb2 43.a4 Ka3 44.b5 Kb4 45.f5 Kxa4 46.Be6 Bb7+ 47.Kf4 Kxb5 48.f6 1-0

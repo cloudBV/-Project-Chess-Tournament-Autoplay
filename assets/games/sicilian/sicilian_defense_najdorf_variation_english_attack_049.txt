@@ -1,0 +1,14 @@
+[Event "Round 9: Koehalmi-Szabo, Mihaly - Lou, Vincent"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-9/mTfqix40/QK7cGvNC"]
+[Date "2026.07.19"]
+[Round "9.4"]
+[White "Koehalmi-Szabo, Mihaly"]
+[Black "Lou, Vincent"]
+[Result "1-0"]
+[WhiteElo "2174"]
+[BlackElo "2205"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Qc7 8.a4 Be7 9.a5 Nc6 10.Bb6 Qd7 11.Nd5 O-O 12.Bd3 Nxd5 13.exd5 Nb8 14.O-O Qe8 15.Nd2 f5 16.f4 e4 17.Be2 Nd7 18.Nc4 Nxb6 19.Nxb6 Rb8 20.b4 Bd7 21.Rb1 g5 22.Bh5 Qd8 23.Qd2 Be8 24.Bxe8 Rxe8 25.Rb3 Kh8 26.Qe2 Rf8 27.g3 gxf4 28.gxf4 Rg8+ 29.Kh1 Qe8 30.c4 Rg6 31.Qf2 Qf7 32.c5 Rbg8 33.Rg3 Bh4 34.Qd4+ Bf6 35.Qf2 Bh4 36.Qd4+ R8g7 37.Rxg6 Qxg6 38.Rg1 Qxg1+ 39.Qxg1 Rxg1+ 40.Kxg1 dxc5 41.bxc5 Be7 42.c6 bxc6 43.dxc6 Bd8 44.Kf2 Kg7 45.Ke3 Kg6 46.Kd4 Kh5 47.Nd5 Bxa5 48.c7 Bxc7 49.Nxc7 Kg4 50.Nd5 a5 51.Ke5 a4 52.Ne3+ Kf3 53.Nxf5 e3 54.Nd4+ Kf2 55.Nc2 e2 56.Kd4 a3 57.Kc3 h5 58.f5 e1=Q+ 59.Nxe1 Kxe1 60.f6 Kf2 61.f7 1-0

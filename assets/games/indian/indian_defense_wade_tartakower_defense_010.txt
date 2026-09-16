@@ -1,0 +1,14 @@
+[Event "Round 9: Ristic, Luka - Kadric, Denis"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/4JJ5aTg4"]
+[Date "2026.07.11"]
+[Round "9.6"]
+[White "Ristic, Luka"]
+[Black "Kadric, Denis"]
+[Result "0-1"]
+[WhiteElo "2312"]
+[BlackElo "2517"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.Nf3 d6 2.d4 Nf6 3.b3 g6 4.Bb2 Nbd7 5.g3 b5 6.Bg2 Bb7 7.O-O Rb8 8.Na3 Bg7 9.c4 a6 10.Rc1 O-O 11.c5 Be4 12.Nb1 c6 13.cxd6 exd6 14.Nc3 Bxf3 15.Bxf3 d5 16.Rc2 Re8 17.Qd3 h5 18.Re1 Re6 19.Bg2 Qb6 20.e4 b4 21.Na4 Qb5 22.Qd1 Nxe4 23.Bh3 f5 24.Bf1 Qb7 25.Qe2 a5 26.f3 Rbe8 27.Qa6 Qxa6 28.Bxa6 Nc3 29.Rxe6 Bxd4+ 30.Kf1 Rxe6 31.Nxc3 bxc3 32.Bxc3 Bxc3 33.Rxc3 Kf8 34.Bc8 Ke7 35.Kf2 Kd8 36.Bxd7 Kxd7 37.Rc5 a4 38.b4 Kd6 39.Ra5 d4 40.Rc5 d3 41.Rc3 Re2+ 42.Kf1 Rxa2 43.Rxd3+ Ke5 44.Rc3 a3 45.Kg1 Ra1+ 46.Kg2 a2 47.Ra3 Kd4 48.Ra6 Kc4 49.Rxc6+ Kb3 50.Rxg6 Rb1 51.Ra6 a1=Q 52.Rxa1 Rxa1 53.Kh3 Ra2 54.b5 Kc4 55.b6 Kd5 0-1

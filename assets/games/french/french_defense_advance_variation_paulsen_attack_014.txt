@@ -1,0 +1,15 @@
+[Event "Round 8: Baitleu, Syrym - Zia, Tahsin Tajwar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/RCLAZtaY"]
+[Date "2026.07.10"]
+[Round "8.10"]
+[White "Baitleu, Syrym"]
+[Black "Zia, Tahsin Tajwar"]
+[Result "1/2-1/2"]
+[WhiteElo "2245"]
+[BlackElo "2318"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nh6 6.Na3 Nf5 7.Nc2 cxd4 8.cxd4 Bd7 9.Bd3 Nb4 10.Nxb4 Bxb4+ 11.Kf1 Qb6 12.g4 Nh6 13.h3 Bb5 14.Kg2 Ng8 15.Be3 a5 16.a3 Bxd3 17.Qxd3 Be7 18.b4 a4 19.Rhc1 Bd8 20.Bg5 Ne7 21.Bxe7 Bxe7 22.Rc3 O-O 23.Rac1 Bd8 24.Rc5 Qa6 25.Qd2 Bb6 26.R5c3 Qb5 27.R1c2 Qd7 28.Qd3 Rae8 29.Ng5 f5 30.Qg3 h6 31.Nf3 f4 32.Qh2 Qf7 33.Qg1 Qg6 34.Qf1 Qe4 35.Re2 Qg6 36.Rec2 h5 37.Qd3 Qxd3 38.Rxd3 hxg4 39.hxg4 Kf7 40.Rdc3 Kg6 41.Rc1 Rh8 42.R1c2 Re7 43.Rc1 Rd7 44.R1c2 Rdd8 45.Rc1 Rhe8 46.R1c2 1/2-1/2

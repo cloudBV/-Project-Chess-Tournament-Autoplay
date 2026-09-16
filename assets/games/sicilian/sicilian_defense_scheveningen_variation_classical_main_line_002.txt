@@ -1,0 +1,15 @@
+[Event "Round 4: Tulchynskyi, Feliks - Meirovich, Ilay"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-4/2mDZshgk/eOQbsxSL"]
+[Date "2026.07.16"]
+[Round "4.3"]
+[White "Tulchynskyi, Feliks"]
+[Black "Meirovich, Ilay"]
+[Result "1/2-1/2"]
+[WhiteElo "2417"]
+[BlackElo "2275"]
+[ECO "B85"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Main Line"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Be3 d6 9.f4 Be7 10.Qe1 O-O 11.Qg3 Nxd4 12.Bxd4 b5 13.a3 Bb7 14.Rae1 Rad8 15.Kh1 Bc6 16.Bd3 e5 17.fxe5 Nh5 18.Qf2 Qb7 19.exd6 Rxd6 20.Bc5 Rf6 21.Qe3 Bxc5 22.Qxc5 Nf4 23.Ne2 Ne6 24.Qe3 Rxf1+ 25.Rxf1 Re8 26.Re1 b4 27.Nd4 Nxd4 28.Qxd4 bxa3 29.bxa3 f5 30.Qc4+ Kh8 31.Qxa6 Qxa6 32.Bxa6 Bxe4 33.Kg1 Ra8 34.Bd3 Bxd3 35.cxd3 Kg8 36.Ra1 Ra4 37.Kf2 g5 38.Ke3 Kf7 39.Kd2 Ke6 40.Kc3 f4 41.Kb3 Rd4 42.a4 Rxd3+ 43.Kc4 Rd8 44.a5 g4 45.a6 f3 46.gxf3 gxf3 47.Rf1 Rf8 48.Kd3 Rf5 49.Ra1 f2 50.Ke2 f1=Q+ 51.Rxf1 Ra5 1/2-1/2

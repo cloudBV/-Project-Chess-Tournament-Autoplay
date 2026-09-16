@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/03lorGkP"]
+[Date "2026.07.01"]
+[Round "5.32"]
+[White "Delega, Tomasz"]
+[Black "Haladaj, Adam"]
+[Result "0-1"]
+[WhiteElo "2017"]
+[BlackElo "2066"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Lputian Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Nh6 7.b4 cxd4 8.cxd4 Nf5 9.Bb2 Bd7 10.g4 Nfe7 11.h3 h5 12.Rg1 hxg4 13.hxg4 Ng6 14.Nc3 Nh4 15.Nxh4 Rxh4 16.Na4 Qd8 17.Nc5 Bxc5 18.dxc5 Qg5 19.Qd2 Qxd2+ 20.Kxd2 a6 21.Be2 Ke7 22.Rh1 Rah8 23.Rxh4 Rxh4 24.Bf3 Rh3 25.Ke2 Na7 26.Rh1 Bb5+ 27.Ke3 d4+ 0-1

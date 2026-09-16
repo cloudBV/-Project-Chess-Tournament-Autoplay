@@ -1,0 +1,15 @@
+[Event "Round 5: Coppola, Claudio - Elena, Eduardo"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-5/a21qWrzU/8yCouuFz"]
+[Date "2026.07.23"]
+[Round "5.4"]
+[White "Coppola, Claudio"]
+[Black "Elena, Eduardo"]
+[Result "0-1"]
+[WhiteElo "2245"]
+[BlackElo "2116"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line"]
+
+1.e4 c5 2.Nf3 a6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 e6 6.Nc3 Nf6 7.Bd2 d6 8.O-O-O Ng4 9.Qe1 Qb6 10.h3 Nge5 11.Nxe5 dxe5 12.Na4 Qc7 13.Be3 b5 14.Nb6 Rb8 15.Nxc8 Rxc8 16.Kb1 Bb4 17.Bd2 O-O 18.Bd3 a5 19.c3 Bc5 20.Bxb5 Qb6 21.Qe2 Rb8 22.a4 Bxf2 23.Rhf1 Bc5 24.Qg4 Kh8 25.Bc1 Na7 26.Rd7 Nxb5 27.axb5 Rb7 28.Rxb7 Qxb7 29.Rf3 Qxb5 30.Bh6 gxh6 31.Qh4 f6 32.Rxf6 Rb8 33.Rf2 Bxf2 34.Qf6+ Kg8 35.Qxe6+ Kf8 36.Qxh6+ Ke8 37.Qe6+ Kd8 38.Qf6+ Kc8 39.Qxf2 Kb7 0-1

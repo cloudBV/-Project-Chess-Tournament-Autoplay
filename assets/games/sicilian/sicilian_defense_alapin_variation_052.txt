@@ -1,0 +1,15 @@
+[Event "Round 4: Aditya Mittal - Yadegar, Radin"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/uSxFE9MH"]
+[Date "2026.07.24"]
+[Round "4.8"]
+[White "Aditya Mittal"]
+[Black "Yadegar, Radin"]
+[Result "1/2-1/2"]
+[WhiteElo "2602"]
+[BlackElo "2464"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 c4 6.Bc2 Nc6 7.Nf3 g6 8.O-O Bg7 9.Re1 O-O 10.d4 cxd3 11.Qxd3 d6 12.exd6 exd6 13.Bg5 Qc7 14.Na3 Ne5 15.Nxe5 dxe5 16.Bb3 h6 17.Nb5 Qc6 18.Be7 Bf5 19.Qe2 Rfe8 20.Ba3 Be6 21.Rad1 Bc4 22.Bxc4 Nxc4 23.Nd6 Nxd6 24.Rxd6 Qa4 25.Rd5 Rad8 26.Qd1 Qxd1 27.Rexd1 Rxd5 28.Rxd5 Bf8 29.Bxf8 Kxf8 30.g4 f6 31.a4 Ke7 32.Rb5 b6 33.a5 Kd6 34.axb6 Kc6 35.Ra5 Kxb6 36.Rd5 Kc6 37.c4 Rb8 38.Ra5 Rxb2 39.Rxa7 Rb7 40.Ra8 Kd6 41.Rh8 Ke6 42.Rxh6 g5 43.h4 gxh4 44.Kg2 Rc7 45.g5 Kf5 46.gxf6 Rxc4 47.f7 Rc8 48.Rxh4 Rf8 49.f4 exf4 50.Kf3 Rxf7 51.Rxf4+ Ke6 52.Rxf7 Kxf7 53.Ke4 1/2-1/2

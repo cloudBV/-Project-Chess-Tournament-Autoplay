@@ -1,0 +1,15 @@
+[Event "Round 9: Gyurjinyan, Valter - Andreasyan, Edgar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/l5c2IDsm"]
+[Date "2026.07.11"]
+[Round "9.6"]
+[White "Gyurjinyan, Valter"]
+[Black "Andreasyan, Edgar"]
+[Result "1/2-1/2"]
+[WhiteElo "2185"]
+[BlackElo "2371"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bc5 6.Be3 Bb6 7.Qd2 O-O 8.O-O-O Re8 9.f3 d5 10.exd5 Nxd5 11.Bg5 f6 12.Bc4 Nxd4 13.Nxd5 Be6 14.Bxf6 gxf6 15.Nxb6 axb6 16.Qxd4 Qxd4 17.Bxe6+ Rxe6 18.Rxd4 Rxa2 19.Kb1 Ra5 20.Rd7 Rc5 21.Rhd1 Re2 22.R7d2 Re7 23.b3 Kf7 24.Kc1 Kg6 25.Rd8 Re3 26.R8d3 Re7 27.R1d2 Re1+ 28.Kb2 Rh1 29.h3 Rg1 30.Rc3 Kf5 31.Rxc5+ bxc5 32.Rd7 Rxg2 33.Rxc7 b6 34.Rxh7 Rg3 35.Rb7 Rxf3 36.Rxb6 Ke5 37.h4 f5 38.Rc6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 4: Kholyavko, Mariya - Nguyen Binh Vy"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-g18/round-4/ILYGa0hj/OHOZKxMY"]
+[Date "2026.07.16"]
+[Round "4.2"]
+[White "Kholyavko, Mariya"]
+[Black "Nguyen Binh Vy"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2037"]
+[ECO "B40"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 d5 6.exd5 Nxd5 7.d3 Be7 8.Nbd2 b6 9.O-O Bb7 10.c3 O-O 11.Rd1 Qc7 12.Nc4 Bf6 13.Ne3 Nxe3 14.Bxe3 Rad8 15.Bf4 Qc8 16.h4 Rfe8 17.Ng5 e5 18.Be3 h6 19.Bh3 Qc7 20.Ne4 Be7 21.Qh5 Bc8 22.Bxc8 Qxc8 23.f4 exf4 24.Bxf4 Qe6 25.Nf2 Rd5 26.Qf3 Ne5 27.Qg2 Ng6 28.Bd2 Qd7 29.Re1 Rd8 30.Re2 Bf8 31.Rae1 Qa4 32.a3 Qd7 33.c4 Rd6 34.Bc3 Ne7 35.b4 Nf5 36.bxc5 bxc5 37.Re5 Ra6 38.Rd5 Qc8 39.Bb2 Rb6 40.Ne4 Rxd5 41.cxd5 Nd4 42.Rf1 Qd7 43.Ba1 Rg6 44.Kh2 Bd6 45.Qf2 f5 46.h5 Rg4 47.Nxd6 Qxd6 48.Bxd4 cxd4 49.Qf3 Qe5 50.Rf2 Rg5 51.Rc2 Qe8 52.Kg2 Kh7 53.Re2 Qd7 54.Re5 a5 55.Re2 Qf7 56.d6 Qd7 57.Qf4 Qc6+ 58.Qf3 Qxd6 59.Rc2 Qxa3 60.Re2 Qd6 61.Ra2 Qc5 62.Rf2 a4 63.Re2 a3 64.Ra2 Qd6 65.Re2 Qd7 66.Qa8 Rxh5 67.Re8 f4 68.Rh8+ Kg6 69.Qa6+ Kf7 70.Qc4+ Kg6 71.Qa6+ Kg5 72.Qa5+ Kg4 73.Qxa3 Qc6+ 74.Kf2 Rh2+ 0-1

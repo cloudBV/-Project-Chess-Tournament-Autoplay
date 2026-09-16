@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.9"]
+[White "Zareba, Piotr"]
+[Black "Nawalaniec, Adam"]
+[Result "1-0"]
+[WhiteElo "2247"]
+[BlackElo "2072"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.c3 b5 7.Bc2 c4 8.b3 Bb7 9.Re1 g6 10.bxc4 bxc4 11.Na3 Rc8 12.Rb1 Ba8 13.Ba4 Bxe4 14.Rb4 Bd3 15.Nd4 Nd5 16.Rb7 Rc7 17.Nc6 Qa8 18.Rxc7 Nxc7 19.Qg4 Ne6 20.Nxc4 Bf5 21.Qh4 h6 22.d4 Bd3 23.d5 Bxc4 24.Qxc4 Nec5 25.Qd4 Rg8 26.Ba3 Nxa4 27.Qxa4 Nb6 28.Qd4 Nc8 29.Rb1 Bg7 30.Qc4 f5 31.Rb8 Qxb8 32.Nxb8 Kf7 33.Qc7 h5 34.Nxa6 h4 35.Kf1 Be5 36.h3 g5 37.Nb4 g4 38.Nd3 Bf6 39.c4 Bd4 40.Bb2 Bxb2 41.Nxb2 f4 42.hxg4 1-0

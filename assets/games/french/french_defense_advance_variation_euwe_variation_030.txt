@@ -1,0 +1,14 @@
+[Event "Round 3: Kwiatkowski, Jakub - Ashwath Kaushik"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/vllPWAp5"]
+[Date "2026.07.15"]
+[Round "3.16"]
+[White "Kwiatkowski, Jakub"]
+[Black "Ashwath Kaushik"]
+[Result "1/2-1/2"]
+[WhiteElo "2107"]
+[BlackElo "2278"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Nc6 5.d4 Bd7 6.Be2 cxd4 7.cxd4 Nge7 8.Na3 Nf5 9.Nc2 Be7 10.O-O O-O 11.Bd3 f6 12.Bf4 g5 13.exf6 Bxf6 14.Be5 Bxe5 15.Nxe5 Nxe5 16.dxe5 Be8 17.Re1 Qb6 18.Qd2 h6 19.Ne3 Nh4 20.Ng4 Kg7 21.Nf6 Qd4 22.Rac1 Bg6 23.Rc7+ Rf7 24.Rc3 Qb4 25.Bxg6 Nxg6 26.a3 Qb6 27.Rf3 Raf8 28.b4 Qc7 29.Qd3 Qc4 30.Qe3 b6 31.Rc1 d4 32.Rxc4 dxe3 33.Rxe3 Kh8 34.Rc6 Rd8 35.g3 Nxe5 36.Rxe5 Rxf6 37.Rexe6 Rf3 38.Rxh6+ Kg7 39.a4 Rd2 40.Rhd6 Rdxf2 41.Rd7+ Rf7 42.Rcc7 Rf1+ 43.Kg2 Rf2+ 44.Kh3 Rxd7 45.Rxd7+ Kf6 46.Rxa7 Rb2 47.b5 Rb4 48.Ra8 Kf5 49.g4+ Kf4 50.Rf8+ Ke4 51.Rf5 Rb3+ 52.Kg2 Rb2+ 53.Rf2 Rb4 54.Ra2 Kf4 55.h3 Ke4 56.Re2+ Kd4 57.Kf3 Rb3+ 58.Kg2 Rb4 59.Re6 Rxa4 60.Rxb6 Ra2+ 61.Kf1 Ra1+ 62.Ke2 Ra2+ 63.Kd1 Rh2 64.Rb8 Rxh3 65.b6 Kc5 66.b7 Kb6 67.Rg8 Kxb7 68.Rxg5 Rh2 69.Re5 Kc6 70.Ke1 Kd6 71.Re2 Rxe2+ 72.Kxe2 Ke5 73.Ke3 Kf6 74.Kf4 Kg6 75.g5 Kg7 76.Kf5 Kf7 77.g6+ Kg7 78.Kg5 Kg8 79.Kf6 Kh8 80.g7+ Kg8 81.Kg6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.17"]
+[White "Hilby, Craig"]
+[Black "Carlson, Joaquin"]
+[Result "1-0"]
+[WhiteElo "2416"]
+[BlackElo "2063"]
+[ECO "A15"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 b6 4.Bg2 Bb7 5.O-O Be7 6.b3 O-O 7.Bb2 c5 8.Nc3 d5 9.e3 dxc4 10.bxc4 Nc6 11.Qe2 Rc8 12.Ne1 Qd7 13.f4 Rfd8 14.d3 Nb4 15.Bxb7 Qxb7 16.g4 Ne8 17.a3 Nc6 18.Ng2 Nd6 19.f5 b5 20.fxe6 fxe6 21.Nf4 bxc4 22.dxc4 Ne5 23.Nxe6 Ndxc4 24.Nxd8 Rxd8 25.Bc1 Rd3 26.Rb1 Qa8 27.Na4 Bg5 28.Nxc5 Rxe3 29.Qg2 Qxg2+ 30.Kxg2 h6 31.Bxe3 Nxe3+ 32.Kh3 Nxf1 33.Rxf1 Be3 34.Ne6 Ng6 35.Kg3 Bd2 36.h4 Bc3 37.h5 Ne5 38.Rf8+ Kh7 39.Rc8 Be1+ 40.Kf4 1-0

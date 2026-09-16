@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-4-game-2/VVj3efEK/ZqssfdVV"]
+[Date "2026.07.09"]
+[Round "8.5"]
+[White "Buklaho, Ignacy"]
+[Black "Andre, Tomas"]
+[Result "0-1"]
+[WhiteElo "2052"]
+[BlackElo "2245"]
+[ECO "B40"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Pin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 d6 7.O-O O-O 8.Nce2 Nc6 9.c3 Ba5 10.h3 e5 11.Nb3 Bb6 12.Ng3 Ne7 13.Bc2 d5 14.exd5 Qxd5 15.Qxd5 Nexd5 16.Ne4 Nxe4 17.Bxe4 Nf6 18.Bc2 Be6 19.Bg5 Nd5 20.Rad1 f6 21.Bd2 Rac8 22.Rfe1 Rfd8 23.Bb1 Bf7 24.Be4 g6 25.Bxd5 Bxd5 26.Be3 Bxe3 27.fxe3 b6 28.Kf2 Bc4 29.e4 Kf7 30.Ke3 Ke6 31.Nc1 f5 32.exf5+ gxf5 33.b3 Bd5 34.Ne2 Bxg2 35.Rxd8 Rxd8 36.Kf2 Bb7 37.Nd4+ Kf6 38.Nf3 Bxf3 39.Kxf3 Rd3+ 40.Kg2 Rxc3 41.Re2 e4 42.Rd2 Ke6 43.Re2 f4 44.Rd2 e3 45.Rd8 Ke5 46.Kf3 Rc6 47.Rf8 Rf6 48.Re8+ Re6 49.Rf8 Kd5 50.Rd8+ Kc5 51.Rd1 e2 52.Re1 Kb4 53.Kxf4 Kc3 0-1

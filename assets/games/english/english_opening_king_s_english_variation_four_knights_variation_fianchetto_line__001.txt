@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-5/b6FdDsCd/k9T0QMRz"]
+[Date "2026.06.29"]
+[Round "5.5"]
+[White "Villca, Julian"]
+[Black "Cubas, Jose"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "2425"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.g3 e5 2.c4 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d3 O-O 9.b3 Re8 10.Bb2 Bf8 11.Rc1 Bg4 12.Ne4 Nd4 13.e3 Nxf3+ 14.Bxf3 Bh3 15.Re1 Bb4 16.Nc3 c6 17.a3 Bf8 18.Qc2 a5 19.Red1 Qf6 20.Bh1 Qg6 21.Ne4 Nd7 22.Bg2 Be6 23.h3 f6 24.Rb1 Qf7 25.Bc1 h6 26.Kh2 Bd5 27.Nd2 Bxg2 28.Kxg2 f5 29.Qc4 Re6 30.b4 axb4 31.axb4 b5 32.Qc3 Nb6 33.Nf3 Nd5 34.Qb2 Bd6 35.Bd2 Rf8 36.Rf1 e4 37.Nd4 Be5 38.Bc3 exd3 39.Rbd1 Rg6 40.Kh2 Nxe3 41.fxe3 Rxg3 42.Nxf5 Rxh3+ 43.Kxh3 Qh5+ 44.Nh4 1-0

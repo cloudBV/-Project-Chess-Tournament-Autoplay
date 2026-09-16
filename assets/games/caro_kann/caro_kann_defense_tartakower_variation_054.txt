@@ -1,0 +1,15 @@
+[Event "Round 5: Nguyen, Luong Vu - Tulegen, Ramazan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-5/dM5HK0ij/IwUJa0AL"]
+[Date "2026.07.19"]
+[Round "5.24"]
+[White "Nguyen, Luong Vu"]
+[Black "Tulegen, Ramazan"]
+[Result "0-1"]
+[WhiteElo "2023"]
+[BlackElo "2162"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 a5 7.Bd3 Na6 8.Ne2 g6 9.O-O Bg7 10.Be3 O-O 11.Qd2 Nc7 12.Rad1 f5 13.Bh6 b5 14.Bxg7 Kxg7 15.Rfe1 Qd6 16.Qf4 Rd8 17.Qe5+ Qxe5 18.dxe5 Be6 19.Bb1 b4 20.f4 c5 21.Kf2 Rab8 22.b3 bxc3 23.Nxc3 c4 24.Rxd8 Rxd8 25.bxc4 Rd4 26.g3 Rxc4 27.Re3 Rb4 28.Bd3 Nd5 29.Nxd5 Bxd5 30.Re2 Ra4 31.Bb1 h5 32.Rd2 Be6 33.Ke3 Rb4 34.Bd3 h4 35.Rc2 hxg3 36.hxg3 Ra4 37.Rc1 Ra3 38.Rc7 Bxa2 39.Kd4 Be6 40.Ra7 Kh6 41.Ra8 Ra2 42.Rh8+ Kg7 43.Ra8 Ra1 44.Bb5 Ra3 45.Bd3 a4 46.Bb5 Rxg3 47.Rxa4 g5 48.fxg5 Kg6 49.Ra7 Rg1 50.Bc6 Kxg5 51.Be8 Kg6 52.Re7 Kg7 53.Bxf7 Rd1+ 54.Kc3 Bxf7 55.e6 Kf6 56.Rxf7+ Kxe6 57.Rf8 Ke5 58.Kc2 Rd7 59.Re8+ Kf4 60.Re1 Kg3 61.Rg1+ Kf2 62.Rg8 f4 63.Rf8 f3 64.Rg8 Ke2 65.Re8+ Kf1 66.Rf8 f2 67.Rg8 Rd5 68.Rg7 Ke2 69.Re7+ Kf3 70.Rf7+ Ke3 71.Rf8 Rd4 0-1

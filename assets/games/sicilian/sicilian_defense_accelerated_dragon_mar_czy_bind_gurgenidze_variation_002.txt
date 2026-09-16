@@ -1,0 +1,15 @@
+[Event "Round 7: Alpaslan, Utku - Gucer, Gunes"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/OTfJHzMW"]
+[Date "2026.07.03"]
+[Round "7.48"]
+[White "Alpaslan, Utku"]
+[Black "Gucer, Gunes"]
+[Result "1/2-1/2"]
+[WhiteElo "2155"]
+[BlackElo "2006"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Bg5 Bg7 9.Be2 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.O-O Rfc8 13.b3 a6 14.f3 b5 15.Nd5 Qxd2 16.Bxd2 Nxd5 17.cxd5 Bd7 18.Rxc8+ Rxc8 19.Rc1 Rxc1+ 20.Bxc1 Kf8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.12"]
+[Round "11.3"]
+[White "Bokhnak, Tymofii"]
+[Black "Pressler, Tobias"]
+[Result "0-1"]
+[WhiteElo "2147"]
+[BlackElo "2070"]
+[ECO "C03"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Modern System"]
+
+1.e4 e6 2.d4 d5 3.Nd2 a6 4.Ngf3 c5 5.exd5 exd5 6.dxc5 Bxc5 7.Be2 Nf6 8.O-O Nc6 9.Nb3 Bb6 10.Bg5 O-O 11.c3 h6 12.Bxf6 Qxf6 13.Qxd5 Be6 14.Qe4 Bf5 15.Qh4 g5 16.Qg3 Rfe8 17.Rfe1 Re7 18.Bc4 Bc7 19.Rxe7 Qxe7 20.Nh4 Bxg3 21.Nxf5 Bxh2+ 22.Kxh2 Qe5+ 23.Ng3 Rd8 0-1

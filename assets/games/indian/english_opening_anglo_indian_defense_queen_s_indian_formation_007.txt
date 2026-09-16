@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.12"]
+[White "Bartodziej, Bartosz"]
+[Black "Bochniak, Franciszek"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2260"]
+[ECO "A15"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.Nc3 Bb7 4.e3 e6 5.b3 Be7 6.Bb2 O-O 7.d4 d5 8.cxd5 Nxd5 9.Bd3 c5 10.O-O Nd7 11.Nxd5 Bxd5 12.Qe2 cxd4 13.Bxd4 Bf6 14.Bxf6 Qxf6 15.Nd2 Nc5 16.Bc4 Bb7 17.Rfd1 Rfd8 18.f3 h5 19.Nf1 Nd7 20.Ba6 Bd5 21.e4 Bc6 22.Rac1 Nc5 23.Bc4 a5 24.Ne3 Rxd1+ 25.Rxd1 Rd8 26.Rxd8+ Qxd8 27.Qd1 Qg5 28.Nc2 Nxe4 29.fxe4 Bxe4 30.Ne1 b5 31.Be2 Qe3+ 32.Kh1 Qf2 33.Nf3 Bd5 34.Qf1 Qe3 35.Bxb5 g5 36.Bc4 Bb7 37.Qd3 Qc1+ 38.Ng1 Qf4 39.Qg3 Qe4 40.Qxg5+ Kf8 41.Be2 h4 42.Bf3 Qb4 43.Bxb7 Qxb7 44.Qxh4 Qd5 45.h3 e5 46.Qc4 Qd6 47.Qe2 Qd5 48.Nf3 e4 49.Nd2 a4 50.Qe3 axb3 51.axb3 f5 52.b4 Kf7 53.Nf1 Qc4 54.Qf4 Qxb4 55.Qxf5+ Kg7 56.Ng3 Qe1+ 57.Kh2 e3 58.Qe5+ Kg6 59.Qe6+ Kg5 60.h4+ Kxh4 61.Qh6+ Kg4 62.Qh5+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 8: Routner, Jakub - Stein, Michael"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-8/ctJ0lJT8/O83xAVas"]
+[Date "2026.07.04"]
+[Round "8.9"]
+[White "Routner, Jakub"]
+[Black "Stein, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2010"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.b3 c5 5.Bb2 Nc6 6.O-O Be7 7.d4 O-O 8.Nbd2 b6 9.c4 Bb7 10.Rc1 a5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 9: Bekker, Stefan - Honey, Luke Anthony"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/R9WEOged"]
+[Date "2026.07.22"]
+[Round "9.6"]
+[White "Bekker, Stefan"]
+[Black "Honey, Luke Anthony"]
+[Result "1-0"]
+[WhiteElo "2345"]
+[BlackElo "2040"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 e6 5.O-O Nd7 6.cxd5 exd5 7.d3 Ngf6 8.Nc3 Be7 9.h3 Bxf3 10.Bxf3 O-O 11.e4 Ne5 12.Be2 dxe4 13.dxe4 c5 14.f4 Nc6 15.e5 Nd7 16.Bf3 Nb6 17.Be3 Nc4 18.Bf2 Nd4 19.Bd5 Nxb2 20.Qb1 Na4 21.Bxd4 cxd4 22.Bxf7+ Rxf7 23.Nxa4 Qd5 24.Qb3 Qxb3 25.axb3 Rff8 26.Rfd1 g5 27.Rf1 gxf4 28.gxf4 Rac8 29.Rf3 Rc2 30.Rb1 d3 31.Nb2 d2 32.Nd3 Rfc8 33.Rd1 R8c3 34.Kf1 Rxb3 35.Ke2 a5 36.f5 a4 37.f6 Bxf6 38.exf6 a3 39.f7+ Kf8 40.Rg1 d1=Q+ 41.Kxd1 Rb1+ 42.Kxc2 Rxg1 43.Nc5 Rg2+ 44.Kb1 1-0

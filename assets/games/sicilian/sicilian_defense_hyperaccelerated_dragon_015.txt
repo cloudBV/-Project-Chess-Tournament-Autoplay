@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-3/kmDO33LG/xiTdkp3k"]
+[Date "2026.07.11"]
+[Round "3.8"]
+[White "Ter-Avetisjana, Agnesa Stepania"]
+[Black "Olshevskis, Aleksejs Jans"]
+[Result "1-0"]
+[WhiteElo "2246"]
+[BlackElo "2042"]
+[ECO "B27"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Be2 Nf6 7.O-O O-O 8.h3 cxd4 9.Qxd4 Nc6 10.Qxd5 Nxd5 11.Rd1 Nb6 12.Na3 Bf5 13.Be3 Na4 14.Rd2 Rfd8 15.Rad1 Rxd2 16.Rxd2 Rd8 17.Nd4 Nxd4 18.cxd4 e5 19.d5 e4 20.Bg5 f6 21.Bf4 a6 22.Bc7 Rd7 23.d6 b5 24.Bd1 Nc5 25.b4 e3 26.fxe3 Ne4 27.Rd4 Bh6 28.Bb3+ Kf8 29.Nc2 Ng3 30.Kf2 Ne4+ 31.Kf3 Ng5+ 32.Ke2 Ne4 33.g4 Nc3+ 34.Kd2 Nb1+ 35.Kc1 Bxc2 36.Kxc2 Na3+ 37.Kd3 Nb1 38.Be6 1-0

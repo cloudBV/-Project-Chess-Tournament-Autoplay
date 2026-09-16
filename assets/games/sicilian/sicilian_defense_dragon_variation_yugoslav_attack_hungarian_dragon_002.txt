@@ -1,0 +1,15 @@
+[Event "Round 4: Ninov, Nikolai - Gyurjinyan, Valter"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/8xyHxufC"]
+[Date "2026.07.06"]
+[Round "4.11"]
+[White "Ninov, Nikolai"]
+[Black "Gyurjinyan, Valter"]
+[Result "0-1"]
+[WhiteElo "2324"]
+[BlackElo "2185"]
+[ECO "B75"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Bc4 Bg7 9.Qd2 Bd7 10.O-O-O Na5 11.Be2 Rc8 12.Kb1 Nc4 13.Bxc4 Rxc4 14.Nb3 a6 15.Bd4 Be6 16.Qf2 Qc8 17.Rhe1 O-O 18.h3 b5 19.Nd5 Bxd5 20.exd5 Qc7 21.Bb6 Qd7 22.Na5 Rcc8 23.g4 Rfe8 24.Bd4 h4 25.f4 e6 26.dxe6 Rxe6 27.Re2 Re4 28.Rxe4 Qe6 29.Nb3 Nxe4 30.Qxh4 Qc4 31.c3 b4 32.Bxg7 Kxg7 33.Qe1 bxc3 34.Rd4 Nd2+ 35.Kc2 Qc6 36.Qd1 cxb2+ 37.Kxd2 Qc3+ 38.Ke2 Qc2+ 0-1

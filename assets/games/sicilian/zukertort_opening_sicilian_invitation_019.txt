@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "12.10"]
+[White "Bochniak, Franciszek"]
+[Black "Sawicki, Dorian"]
+[Result "1-0"]
+[WhiteElo "2163"]
+[BlackElo "2059"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.b3 b6 3.Bb2 Bb7 4.e3 Nf6 5.Be2 e6 6.O-O Be7 7.c4 O-O 8.d4 d6 9.Nc3 a6 10.Qc2 Qc7 11.Rfd1 Nbd7 12.Rac1 Rac8 13.Qb1 Rfd8 14.a3 Qb8 15.b4 Qa8 16.b5 axb5 17.Nxb5 Ne4 18.Qa1 Ndf6 19.Bf1 h6 20.Nd2 Nxd2 21.Rxd2 Ne4 22.Rdd1 g5 23.f3 cxd4 24.fxe4 dxe3 25.Bf6 Kf8 26.Bxe7+ Kxe7 27.Qd4 Bxe4 28.Nxd6 Rc5 29.Qxe4 Qxa3 30.Nb5 1-0

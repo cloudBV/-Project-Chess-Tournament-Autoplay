@@ -1,0 +1,15 @@
+[Event "Round 3: Arca, Christian Gian Karlo - Nandish V S"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-3/5cIjnv1B/RHxvvxWi"]
+[Date "2026.07.18"]
+[Round "3.5"]
+[White "Arca, Christian Gian Karlo"]
+[Black "Nandish V S"]
+[Result "0-1"]
+[WhiteElo "2385"]
+[BlackElo "2236"]
+[ECO "E43"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.a3 Bxc3+ 6.bxc3 Bb7 7.f3 c5 8.Bd3 d6 9.e4 Nc6 10.Ne2 Qc7 11.O-O e5 12.Be3 h6 13.a4 Na5 14.Ng3 g5 15.f4 gxf4 16.Bxf4 exf4 17.Rxf4 Nd7 18.Nf5 O-O-O 19.Ne7+ Kb8 20.Rxf7 cxd4 21.cxd4 Rhf8 22.Rg7 Nf6 23.Nf5 Rd7 24.Rxd7 Qxd7 25.d5 h5 26.h3 Qc7 27.Qd2 Nb3 28.Qh6 Rf7 29.Rf1 Nc5 30.Qh8+ Bc8 31.e5 dxe5 32.d6 Qb7 33.Nh6 Rg7 34.g4 Nxd3 35.Rxf6 Nf4 36.Rxf4 exf4 37.Nf5 Rh7 38.Qe5 Ka8 39.Ne7 hxg4 40.Nd5 gxh3 0-1

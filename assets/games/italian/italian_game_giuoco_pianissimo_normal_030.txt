@@ -1,0 +1,14 @@
+[Event "Round 7: Costa, Leonardo - Svane, Rasmus"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-7/sQvMNB1T/3dkUzz9W"]
+[Date "2026.07.23"]
+[Round "7.4"]
+[White "Costa, Leonardo"]
+[Black "Svane, Rasmus"]
+[Result "1/2-1/2"]
+[WhiteElo "2540"]
+[BlackElo "2624"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a5 7.Re1 O-O 8.h3 h6 9.Nbd2 a4 10.Nf1 Bd7 11.Bb5 Ne7 12.Bxd7 Nxd7 13.d4 Bb6 14.Ng3 f5 15.dxe5 f4 16.Nf5 Nxf5 17.exf5 Nxe5 18.Bxf4 Nxf3+ 19.Qxf3 Rxf5 20.Qg3 Qf6 21.Be3 Bxe3 22.Qxe3 Rf8 23.f3 Rc5 24.a3 Rg5 25.Kh1 Re5 26.Qd3 b5 27.Re3 Rfe8 28.Rae1 Qf4 29.Rxe5 Rxe5 30.Rxe5 Qxe5 31.f4 Qxf4 32.Qxb5 Qc1+ 33.Kh2 Qf4+ 1/2-1/2

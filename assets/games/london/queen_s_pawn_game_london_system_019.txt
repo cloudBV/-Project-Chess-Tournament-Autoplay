@@ -1,0 +1,15 @@
+[Event "Round 10: Suleymanli, Aydin - Rosen, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-10/IfXYzAOl/mPAGXxSN"]
+[Date "2026.07.04"]
+[Round "10.14"]
+[White "Suleymanli, Aydin"]
+[Black "Rosen, Eric"]
+[Result "0-1"]
+[WhiteElo "2559"]
+[BlackElo "2327"]
+[ECO "D02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.e3 Nc6 5.Nbd2 cxd4 6.exd4 a6 7.c3 Bg4 8.Qb3 Na5 9.Qc2 e6 10.Bd3 Bxf3 11.Nxf3 Bd6 12.Bxd6 Qxd6 13.Ne5 Nc6 14.f4 Rc8 15.Qe2 O-O 16.O-O g6 17.Rae1 Nd7 18.g4 Rce8 19.Qg2 Qe7 20.Kh1 Ncxe5 21.dxe5 Kh8 22.Qh3 Rg8 23.Re3 Nc5 24.Bb1 b5 25.f5 Qg5 26.f6 Rd8 27.Qg3 d4 28.Ref3 d3 29.h4 Qd2 30.R3f2 Qh6 31.g5 Qh5 32.Qf4 Rd5 33.Rd2 Rgd8 34.Kg2 a5 35.Re1 h6 36.Re3 a4 37.a3 Kg8 38.Ba2 R5d7 39.Kg3 Kh7 40.Qf3 Qxf3+ 41.Kxf3 Kg8 42.Kf4 Kh7 43.Rh3 h5 44.Rh1 Kg8 45.Re1 Kf8 46.Ke3 Ke8 47.Rf1 Rc8 48.Rf4 Nb3 49.Rxd3 Rxd3+ 50.Kxd3 Nc1+ 51.Kc2 Nxa2 52.Rd4 Rc4 53.Rd6 b4 54.Kd3 Rxh4 55.axb4 a3 56.bxa3 Rh3+ 57.Kd2 Nxc3 58.Ra6 h4 59.Ra8+ Kd7 60.Ra7+ Ke8 61.Re7+ Kf8 62.Rc7 Ne4+ 63.Ke2 Ke8 64.Re7+ Kd8 65.Rxf7 Nxg5 66.Ra7 Rf3 67.b5 h3 68.Ra8+ Kc7 69.Rh8 Rxa3 70.Kf2 Rf3+ 71.Kg1 Rf5 72.Rh6 Rxe5 73.Rxg6 Rf5 74.Rg7+ Kb6 75.Kh2 Kxb5 76.Rg8 Kc6 77.Rc8+ Kd6 78.Rg8 Ke5 0-1

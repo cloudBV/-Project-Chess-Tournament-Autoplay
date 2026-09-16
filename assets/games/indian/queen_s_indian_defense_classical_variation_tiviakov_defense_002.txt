@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "17.4"]
+[White "WaspHCE 7.16"]
+[Black "Potential 426cc351-426cc351"]
+[Result "0-1"]
+[WhiteElo "3194"]
+[BlackElo "3108"]
+[ECO "E18"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Tiviakov Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Na6 8.Bf4 c5 9.d5 d6 10.e4 e5 11.Be3 Nc7 12.a3 a5 13.Qe2 Bc8 14.b3 Bd7 15.Ne1 Rb8 16.a4 Na6 17.Nb5 Nb4 18.Bd2 Re8 19.Rd1 Bf8 20.Be3 g6 21.Nc2 Nxc2 22.Qxc2 Bxb5 23.axb5 Bg7 24.f3 Qe7 25.Qd2 Ra8 26.Ra1 Rf8 27.Kh1 Nh5 28.Bh3 Ra7 29.Bg4 Nf6 30.Bg5 h5 31.Bh3 Qc7 32.Be3 Qe7 33.Rg1 Nh7 34.Bf1 h4 35.gxh4 Qxh4 36.Rg3 Rfa8 37.Ra4 Qe7 38.Bh3 Qd8 39.Qc1 Bf6 40.Rg2 Bh4 41.Rg4 Qf6 42.Kg1 Nf8 43.Qd2 Qe7 44.Kf1 Nd7 45.Kg1 Kh7 46.Kf1 Rh8 47.Rg2 Nf6 48.Bg4 Kg7 49.Ke2 Nh5 50.Bxh5 Rxh5 51.Qc1 Ra8 52.Kd3 Qf6 53.Ke2 Qd8 54.Ra1 Qh8 55.Kd3 Be7 56.Raa2 Rh3 57.Qf1 Qh5 58.Rg3 Rxh2 59.Rxh2 Qxh2 60.Rg2 Qh5 61.Qf2 Rh8 62.Rg1 Qh3 63.Rg3 Qc8 64.Qg1 Rh5 65.Qg2 Qh8 66.Bg1 Rh1 67.Kc3 Qh5 68.Kc2 Kf6 69.Qe2 Bf8 70.Qg2 Bh6 71.Qe2 Bf4 72.Rg2 Rh3 73.Rf2 Kg7 74.Kb2 f5 75.exf5 gxf5 76.Ka1 Kf7 77.Ka2 Rh1 78.Rf1 Qg5 79.Bf2 Rh2 80.Qc2 Qh5 81.Qe2 Bg3 82.Ka3 Qh3 83.Ka4 Rxf2 84.Rxf2 Bxf2 85.Qxf2 Qh1 86.Qb2 Qxf3 87.Qh2 Kg7 88.Ka3 Qg4 89.Kb2 f4 90.Kc2 Qg3 91.Qh5 f3 92.Qf5 Qg6 93.Qxg6+ Kxg6 94.Kd3 Kf5 95.Ke3 e4 96.Kd2 f2 97.Ke2 e3 98.Kf1 Kf4 99.Kg2 Kg4 100.b4 axb4 101.Kf1 b3 102.Ke2 b2 103.Kxe3 f1=Q 104.Kd2 b1=Q 105.Kc3 Qfe1# 0-1

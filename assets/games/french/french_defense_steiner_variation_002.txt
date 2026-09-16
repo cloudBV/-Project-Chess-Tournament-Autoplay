@@ -1,0 +1,14 @@
+[Event "Round 8: Odell Johansson, Leo - Dingertz, Erik"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/H81HNPgR"]
+[Date "2026.07.03"]
+[Round "8.7"]
+[White "Odell Johansson, Leo"]
+[Black "Dingertz, Erik"]
+[Result "1-0"]
+[WhiteElo "2053"]
+[BlackElo "2211"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Steiner Variation"]
+
+1.c4 e6 2.e4 d5 3.cxd5 exd5 4.exd5 Nf6 5.Bb5+ Nbd7 6.Nc3 Bd6 7.Qe2+ Qe7 8.Qxe7+ Bxe7 9.Nf3 O-O 10.Bxd7 Bxd7 11.d4 Bb4 12.Ne5 Bf5 13.O-O Rfe8 14.Re1 Bxc3 15.bxc3 Nxd5 16.Bd2 f6 17.Nc4 Kf7 18.Na3 Bd3 19.c4 Nb6 20.Rec1 Rad8 21.Be3 c6 22.Rc3 Bf5 23.Rb3 Re7 24.c5 Nd5 25.Nc4 Rb8 26.Nd6+ Kg6 27.Bd2 Bc2 28.Rg3+ Kh5 29.Rh3+ Kg6 30.Rg3+ Kh5 31.Rc1 Ba4 32.Rh3+ Kg6 33.Rg3+ Kh5 34.Nf5 g5 35.Nxe7 Nxe7 36.Ra3 Bb5 37.Re1 Nd5 38.Re6 Kg6 39.Rf3 Bc4 40.a3 g4 41.Rg3 Nc3 42.Rxg4+ Kf5 43.Rxf6+ Kxf6 44.Bxc3 Bd5 45.f3 b6 46.Kf2 h5 47.Rf4+ Kg6 48.cxb6 axb6 49.h4 Re8 50.Bd2 Bc4 51.Be3 Ra8 52.Bc1 Re8 53.g4 Re2+ 54.Kg3 Re1 55.Bd2 Rg1+ 56.Kh2 Rf1 57.gxh5+ Kxh5 58.Kg2 Ra1 59.Rf6 1-0

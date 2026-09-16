@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "1.2"]
+[White "Nielsen, Andre"]
+[Black "Kierulf, Villum Brevick"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2187"]
+[ECO "C53"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, La Bourdonnais Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d4 exd4 6.cxd4 Bb6 7.d5 Ne5 8.Nxe5 dxe5 9.O-O Nf6 10.Nc3 Bg4 11.Qd3 Qe7 12.Kh1 O-O-O 13.a4 a5 14.Be3 Nd7 15.f3 Bh5 16.Bxb6 Nxb6 17.Bb3 Nd7 18.Rfc1 Qb4 19.Na2 Qb6 20.Bd1 f6 21.Qc4 Nb8 22.b4 Na6 23.bxa5 Qxa5 24.Be2 Rd6 25.Nc3 Qb4 26.Nb5 Rd7 27.Na7+ Kd8 28.Qxa6 Qd2 29.Qd3 Qc3 1-0

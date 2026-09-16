@@ -1,0 +1,15 @@
+[Event "Round 7: Khanin, Semen - Sindarov, Javokhir"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-7/kwLWCMdV/w8McCBat"]
+[Date "2026.07.05"]
+[Round "7.5"]
+[White "Khanin, Semen"]
+[Black "Sindarov, Javokhir"]
+[Result "0-1"]
+[WhiteElo "2456"]
+[BlackElo "2680"]
+[ECO "E70"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6 8.Bg5 exd5 9.exd5 Nbd7 10.f4 a6 11.a4 Re8 12.O-O Qb6 13.Qd2 Nf8 14.Bxf6 Bxf6 15.f5 Qd8 16.Kh1 Bg5 17.Qc2 Bh6 18.Ng3 Re5 19.Rf3 g5 20.Rff1 Bd7 21.Rae1 Bg7 22.Nce4 f6 23.Nxd6 Bxa4 24.Qxa4 Qxd6 25.Ne4 Qb6 26.b4 Qxb4 27.Qc2 Qb6 28.Rb1 Qc7 29.d6 Qc6 30.Nc3 Rae8 31.Nd5 Qxd6 32.Rxb7 Re1 33.Rb1 Rxf1+ 34.Bxf1 Qe5 35.Rd1 h5 36.Qf2 Nd7 37.h3 Bf8 38.g3 Bd6 39.Rd3 Qe4+ 40.Kg1 Kf8 41.Nxf6 Nxf6 42.Rxd6 Qe5 43.Rc6 Ne4 44.Qe3 Qxg3+ 45.Qxg3 Nxg3 46.Bg2 Re5 47.Bd5 Nxf5 48.Rxc5 Ne3 49.Rc8+ Ke7 50.Rc7+ Kf6 51.Rc6+ Kf5 52.Rxa6 Kf4 53.Kf2 g4 54.hxg4 Nxg4+ 55.Kf1 h4 56.Ra3 Ne3+ 57.Kf2 h3 58.Bf3 h2 59.Ra1 Re7 60.c5 Nf5 61.Ra4+ Kg5 62.Rg4+ Kf6 63.c6 Re3 64.Kg2 Rxf3 65.Kxh2 Rc3 66.Rg8 Ke5 67.Kg2 Kf4 68.Rf8 Rxc6 69.Kf2 Re6 70.Rf7 Kg4 71.Rf8 Nh6 72.Kf1 Kg3 73.Ra8 Ng4 74.Ra3+ Kf4 75.Kg2 Re2+ 76.Kf1 Re7 77.Kg2 Re2+ 78.Kf1 Re4 79.Kg2 Ne3+ 80.Kf2 Nd1+ 81.Kg2 Re2+ 82.Kf1 Rh2 83.Ra8 Nc3 84.Rc8 Ne4 85.Ra8 Rc2 86.Ra7 Kf3 87.Rf7+ Ke3 88.Kg1 Ng5 89.Re7+ Kf3 90.Kh1 Kg3 91.Re1 Rh2+ 0-1

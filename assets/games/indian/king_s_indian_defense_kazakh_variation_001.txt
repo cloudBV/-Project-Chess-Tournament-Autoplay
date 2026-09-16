@@ -1,0 +1,14 @@
+[Event "Round 8: Granovskiy, Alexandr - Tekeyev, Zaur"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/uKbfajht"]
+[Date "2026.07.01"]
+[Round "8.3"]
+[White "Granovskiy, Alexandr"]
+[Black "Tekeyev, Zaur"]
+[Result "0-1"]
+[WhiteElo "2209"]
+[BlackElo "2432"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Kazakh Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 Na6 7.Bf4 c6 8.h3 Nh5 9.Bh2 Bh6 10.g4 Nf4 11.g5 Nxe2 12.gxh6 Nxc3 13.bxc3 Qa5 14.Qd2 b5 15.c5 dxc5 16.Ne5 Bb7 17.Rd1 Rad8 18.O-O cxd4 19.cxd4 Qxd2 20.Rxd2 f6 21.Nf3 g5 22.a4 b4 23.Rc1 Kf7 24.Bg3 Rg8 25.Kf1 Rg6 26.Ke2 Rxh6 27.h4 gxh4 28.Nxh4 Rh5 29.Nf5 c5 30.d5 Rxf5 31.exf5 Rxd5 32.Rxd5 Bxd5 33.f3 b3 34.Bf2 Ke8 35.Rd1 Bc6 36.Rh1 Bd7 37.Kd2 Bxf5 38.Kc3 Bc2 39.Rg1 Kf7 40.Be3 Kf8 41.Bh6+ Kf7 42.Rg7+ Ke6 43.Be3 h5 44.Rg8 Bd1 45.Ra8 Nc7 46.Rb8 Nd5+ 47.Kd2 Nxe3 48.Kxe3 h4 49.Rd8 Bc2 50.Kd2 h3 51.Kc3 Ke5 52.Rh8 Bf5 53.Rh4 Be6 54.f4+ Kd6 55.a5 a6 56.Rh7 c4 57.Rh8 Bg4 58.Rh4 Bf5 59.Rh8 Kd5 60.Re8 e6 61.Rg8 0-1

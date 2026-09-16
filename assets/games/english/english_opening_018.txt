@@ -1,0 +1,14 @@
+[Event "Round 6: Ivanisevic, Ivan - Zia, Tahsin Tajwar"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/0yuMcRhW"]
+[Date "2026.07.19"]
+[Round "6.13"]
+[White "Ivanisevic, Ivan"]
+[Black "Zia, Tahsin Tajwar"]
+[Result "1-0"]
+[WhiteElo "2517"]
+[BlackElo "2318"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 d6 2.Nc3 e5 3.e3 f5 4.d4 Be7 5.Be2 Nf6 6.Nh3 c6 7.O-O O-O 8.b3 e4 9.Ba3 d5 10.Qc1 Kh8 11.f3 Be6 12.fxe4 fxe4 13.Nf4 Bf7 14.h4 a6 15.g4 dxc4 16.bxc4 b5 17.Bxe7 Qxe7 18.g5 Ne8 19.Qc2 Nd6 20.c5 Nf5 21.Qxe4 Qxe4 22.Nxe4 Nxe3 23.Ne6 Nxf1 24.Nxf8 Ne3 25.Nd6 Kg8 26.Nxf7 Kxf7 27.Nxh7 Nd7 28.h5 g6 29.Re1 Re8 30.Bf3 Re6 31.Kf2 1-0

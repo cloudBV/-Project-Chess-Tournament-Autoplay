@@ -1,0 +1,15 @@
+[Event "Round 7: Aguero Jimenez, Luis Lazaro - Tikhomirov, Matthew"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-7/YFC1RWfd/svuynJAo"]
+[Date "2026.07.19"]
+[Round "7.9"]
+[White "Aguero Jimenez, Luis Lazaro"]
+[Black "Tikhomirov, Matthew"]
+[Result "1-0"]
+[WhiteElo "2472"]
+[BlackElo "2160"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 e6 2.g3 d5 3.Bg2 Nf6 4.O-O g6 5.d4 Bg7 6.c4 O-O 7.Nc3 b6 8.Ne5 Bb7 9.Bg5 h6 10.Bxf6 Bxf6 11.cxd5 exd5 12.Qb3 c6 13.e4 Bxe5 14.dxe5 d4 15.Rad1 Qe7 16.Rxd4 Qxe5 17.Rfd1 Na6 18.f4 Qe7 19.Rd7 Qc5+ 20.Kh1 Qh5 21.Qa3 Nc5 22.R7d6 Ne6 23.e5 a5 24.Ne4 Kh8 25.Nf6 Qe2 26.R6d2 Qc4 27.Qe7 Nc5 28.Rd6 Qe2 29.f5 Qc2 30.Rd8 Raxd8 31.Qxd8 1-0

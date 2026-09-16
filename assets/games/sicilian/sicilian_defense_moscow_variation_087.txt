@@ -1,0 +1,14 @@
+[Event "Round 3: Ellenberg, Ekkehard - Juhnke, Juergen"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/pxhUabaC"]
+[Date "2026.07.19"]
+[Round "3.4"]
+[White "Ellenberg, Ekkehard"]
+[Black "Juhnke, Juergen"]
+[Result "0-1"]
+[WhiteElo "2048"]
+[BlackElo "2219"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.Nc3 e5 7.d3 Be7 8.Ne2 O-O 9.Ng3 Re8 10.c3 a6 11.Ba4 b5 12.Bb3 Na5 13.Bc2 Qc7 14.Bd2 h6 15.Rc1 Bf8 16.Bb1 g6 17.h3 Bg7 18.Be3 d5 19.b4 Nb7 20.bxc5 dxe4 21.Nxe4 Nxe4 22.dxe4 Be6 23.a4 Red8 24.Qc2 Nxc5 25.axb5 axb5 26.Qb2 Bc4 27.Bxc5 Qxc5 28.Red1 Bf8 29.Nd2 Be6 30.Nf1 Rxd1 31.Rxd1 Ra3 32.Rc1 Be7 33.Ne3 Bg5 34.Qd2 Kg7 35.Bd3 Qd6 36.Qe2 b4 37.Rd1 Bxe3 38.fxe3 Rxc3 39.Bb1 Qc5 40.Kf2 b3 41.Qd2 b2 42.Re1 Qa3 43.Bc2 Ba2 44.g4 Qc5 45.Bd3 b1=Q 46.Rxb1 Bxb1 47.Bxb1 Rc1 48.Bd3 Qc6 49.Be2 Rh1 50.Bf1 Rh2+ 51.Bg2 Qxe4 0-1

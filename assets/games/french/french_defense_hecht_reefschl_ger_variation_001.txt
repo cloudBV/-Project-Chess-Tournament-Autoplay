@@ -1,0 +1,14 @@
+[Event "Open: Ady, Jonathan J. - McMichael, Richard J"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/8ZvcuETs"]
+[Date "2026.07.04"]
+[Round "1.10"]
+[White "Ady, Jonathan J."]
+[Black "McMichael, Richard J"]
+[Result "1-0"]
+[WhiteElo "2340"]
+[BlackElo "2115"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.e5 f6 5.Bb5 Bd7 6.Nf3 Qe7 7.Bxc6 Bxc6 8.a4 Qf7 9.Ne2 Ne7 10.Nf4 Ng6 11.Nd3 Be7 12.h4 h6 13.h5 Nf8 14.b4 b6 15.b5 Bb7 16.a5 c5 17.bxc6 Bxc6 18.exf6 gxf6 19.Nfe5 fxe5 20.Nxe5 Bb4+ 21.c3 Bxc3+ 22.Bd2 Bxd2+ 23.Qxd2 Qg7 24.Nxc6 Qxg2 25.Rf1 Rc8 26.Nxa7 Qe4+ 27.Qe3 Rb8 28.a6 Rh7 29.Nb5 Kd8 30.Rg1 Ra8 31.Qxe4 dxe4 32.Rg8 Ke7 33.a7 Kf6 34.Ke2 Rd7 35.Rag1 Rad8 36.Rh8 e5 37.Rgg8 Rf7 38.d5 Kf5 39.Rxh6 e3 40.Kxe3 e4 41.Nd6+ 1-0

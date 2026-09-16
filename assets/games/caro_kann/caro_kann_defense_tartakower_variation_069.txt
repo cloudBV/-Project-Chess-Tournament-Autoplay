@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.28"]
+[White "Martirosyan, David"]
+[Black "Haba, Petr"]
+[Result "0-1"]
+[WhiteElo "2153"]
+[BlackElo "2389"]
+[ECO "B15"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.Nf4 Nd7 12.Qd1 Nf8 13.Qh5 f5 14.Bxf5 Bxf4 15.Bxc8 Bxc1 16.Bxb7 Bxb2 17.Bxa8 Qxa8 18.Rad1 Bxc3 19.Qxh4 Ng6 20.Qg3 Ba5 21.h4 Qb8 22.Qxb8 Rxb8 23.d5 c5 24.Rc1 Bb6 25.g3 Rd8 26.Rfd1 Ne7 27.d6 Nf5 28.a4 Nd4 29.Kg2 a5 30.Re1 Kf8 31.Re7 Rxd6 32.Rb7 Rc6 33.Rb8+ Ke7 34.Re1+ Ne6 35.f4 Bc7 36.Rg8 Kf6 37.Kf3 c4 38.g4 Bxf4 39.g5+ Kf5 40.Ra8 Bc7 41.Rd1 Ke5 42.Kg4 c3 43.h5 Rc4+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Sriram, Jha - Negrean, Andrei"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-6/bVyM4zuT/cvRcktmh"]
+[Date "2026.07.09"]
+[Round "6.9"]
+[White "Sriram, Jha"]
+[Black "Negrean, Andrei"]
+[Result "1/2-1/2"]
+[WhiteElo "2308"]
+[BlackElo "2366"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 Nbd7 7.O-O O-O 8.Qc2 c6 9.Bf4 b6 10.cxd5 cxd5 11.Rc1 Bb7 12.Bc7 Qe8 13.Qb3 Rc8 14.Na3 Ba6 15.Nb5 Bxb5 16.Qxb5 Nc5 17.Qxe8 Rfxe8 18.dxc5 Rxc7 19.cxb6 Rxc1+ 20.Rxc1 axb6 21.Nd4 Kf8 22.a3 Ng4 23.Nb5 Ne5 24.Rc2 Rb8 25.e3 Ke8 26.e4 d4 27.f4 d3 28.Rd2 Bc5+ 29.Kf1 Nc4 30.Rxd3 Nxb2 31.Rb3 Nc4 32.Ke2 Rd8 33.Rd3 Rxd3 34.Kxd3 Nxa3 35.Nxa3 Bxa3 36.e5 Kd7 37.g4 b5 38.h3 g6 39.Kd4 Kc7 40.Bf1 Kb6 41.f5 Bb2+ 42.Ke4 Kc5 43.Bd3 b4 44.fxe6 fxe6 45.Ba6 b3 46.Bc8 Bxe5 47.Bxe6 b2 48.Ba2 Bf6 49.Kd3 Bh4 50.Kc2 Bf6 51.g5 Bxg5 52.Bg8 Bc1 53.Bxh7 g5 54.Bf5 1/2-1/2

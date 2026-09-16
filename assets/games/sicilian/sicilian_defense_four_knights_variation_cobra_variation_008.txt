@@ -1,0 +1,14 @@
+[Event "Round 1: Radeva, Viktoria - Schmelowszky, David"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-1/dEgFuk79/cYyXCTWq"]
+[Date "2026.07.11"]
+[Round "1.6"]
+[White "Radeva, Viktoria"]
+[Black "Schmelowszky, David"]
+[Result "1-0"]
+[WhiteElo "2214"]
+[BlackElo "2004"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bc5 7.Nd6+ Ke7 8.Bf4 e5 9.Nf5+ Kf8 10.Bg5 d6 11.Ne3 Be6 12.Be2 h6 13.Bxf6 Qxf6 14.O-O Rd8 15.Ned5 Bxd5 16.Nxd5 Qg6 17.Qd3 Ne7 18.c3 Nxd5 19.Qxd5 Rd7 20.b4 Bb6 21.a4 Qe6 22.Qb5 Ke7 23.a5 Bd8 24.Bc4 Qf6 25.Rad1 a6 26.Qd5 g5 27.Qd3 Bc7 28.Qe2 Rc8 29.Rd3 Qg6 30.Rf3 Kf8 31.Bd5 Bd8 32.h3 Kg7 33.Rg3 Rb8 34.h4 Rc8 35.h5 Qh7 36.Qg4 Rcc7 37.c4 Be7 38.b5 Rd8 39.Rf3 Bf8 40.b6 Re7 41.Rf5 Rdd7 42.g3 Kg8 43.Rxf7 Qxf7 44.Bxf7+ Rxf7 45.Rd1 Kh8 46.c5 Rd8 47.Qe6 Rfd7 48.c6 bxc6 49.b7 Rg7 50.Qc8 1-0

@@ -1,0 +1,15 @@
+[Event "Round 7: Kleymenova, Valeria - Satanovskaia, Evgeniia"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-7/rpQV8bbG/UKfFT40u"]
+[Date "2026.07.22"]
+[Round "7.3"]
+[White "Kleymenova, Valeria"]
+[Black "Satanovskaia, Evgeniia"]
+[Result "0-1"]
+[WhiteElo "2262"]
+[BlackElo "2165"]
+[ECO "E68"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.c4 Nf6 2.Nf3 d6 3.d4 g6 4.Nc3 Bg7 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4 exd4 9.Nxd4 Re8 10.Re1 Nc5 11.h3 Bd7 12.Rb1 a5 13.b3 h6 14.Bb2 c6 15.Kh2 Qb6 16.Ba1 h5 17.f4 Re7 18.Na4 Nxa4 19.bxa4 Qc7 20.Nb3 Ne8 21.Bxg7 Nxg7 22.c5 dxc5 23.Nxc5 b6 24.Nd3 Rd8 25.Qc2 h4 26.gxh4 Nh5 27.Rf1 c5 28.Kg1 Bxa4 29.Qxa4 Rxd3 30.Qb5 Rg3 31.e5 Qc8 32.Kh2 Qf5 33.Rb2 Rd7 34.Qxb6 Rdd3 35.e6 Qxe6 36.Qxc5 Rxg2+ 37.Rxg2 Rxh3+ 38.Kg1 Ng3 39.Qe5 Rh1+ 40.Kf2 Qxe5 41.fxe5 Nxf1 42.e6 fxe6 43.Rxg6+ Kf7 44.Rg4 Nd2 45.Rf4+ Ke7 46.Kg2 Rc1 47.h5 Nc4 48.h6 Ne3+ 49.Kh2 Nf5 50.h7 Rc8 0-1

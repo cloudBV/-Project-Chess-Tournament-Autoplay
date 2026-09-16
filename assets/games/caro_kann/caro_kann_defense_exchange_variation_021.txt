@@ -1,0 +1,15 @@
+[Event "Round 5: Licznerski, Lukasz - Domingo Nunez, Ruben"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/CYQZdzPe"]
+[Date "2026.07.08"]
+[Round "5.2"]
+[White "Licznerski, Lukasz"]
+[Black "Domingo Nunez, Ruben"]
+[Result "1/2-1/2"]
+[WhiteElo "2511"]
+[BlackElo "2405"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 e6 7.Nf3 Bd6 8.O-O Nge7 9.Re1 O-O 10.b3 a6 11.a4 Ng6 12.Ba3 Bd7 13.Bxd6 Qxd6 14.Nbd2 f6 15.b4 a5 16.b5 Nce7 17.c4 b6 18.Qb3 Rac8 19.Rac1 dxc4 20.Nxc4 Qb8 21.Qa3 Nd5 22.Qd6 Qxd6 23.Nxd6 Rxc1 24.Rxc1 Rd8 25.Bc4 Nge7 26.Bb3 Bc8 27.Bxd5 1/2-1/2

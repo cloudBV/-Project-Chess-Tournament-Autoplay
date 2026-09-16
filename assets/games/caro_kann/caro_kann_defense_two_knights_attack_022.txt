@@ -1,0 +1,15 @@
+[Event "Round 7: Munoz, Miguel - Jagesia Daksh"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-7/l06Qp43p/DwJP8HaX"]
+[Date "2026.07.10"]
+[Round "7.3"]
+[White "Munoz, Miguel"]
+[Black "Jagesia Daksh"]
+[Result "1/2-1/2"]
+[WhiteElo "2316"]
+[BlackElo "2044"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Ng3 h5 6.Bc4 h4 7.Nf1 g6 8.h3 c5 9.d4 Nc6 10.Be3 cxd4 11.Nxd4 Nxd4 12.Bxd4 Bg7 13.Ne3 Bd7 14.O-O Bc6 15.c3 Qc7 16.Bxf6 1/2-1/2

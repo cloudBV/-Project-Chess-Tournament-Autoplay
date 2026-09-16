@@ -1,0 +1,14 @@
+[Event "Round 6: Stefan, Iulia-Cristiana - Udelnov, Valentin"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/qjkVV8e5"]
+[Date "2026.07.18"]
+[Round "6.21"]
+[White "Stefan, Iulia-Cristiana"]
+[Black "Udelnov, Valentin"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2269"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Carlsbad Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.Nc3 Nc6 7.d5 Na5 8.b3 c5 9.Bb2 a6 10.Nd2 Rb8 11.Qc1 b5 12.O-O e5 13.dxe6 Bxe6 14.cxb5 axb5 15.Nce4 Ne8 16.Bxg7 Kxg7 17.Qc3+ f6 18.Rfd1 b4 19.Qb2 Qe7 20.Rac1 Rc8 21.Nf1 Nc6 22.Ng5 Bg8 23.Bh3 Rd8 24.Bg2 d5 25.Ne3 Nd4 26.Nh3 Nc7 27.Nf4 Ncb5 28.Nfxd5 Bxd5 29.Nxd5 Qe5 30.Rd2 Rxd5 31.e3 Rd6 32.exd4 Nxd4 33.Kh1 Rfd8 34.Rcd1 Qh5 35.Rd3 Re8 36.h3 Rde6 37.Qc1 Qf5 38.f4 h5 39.Qa1 Re2 40.Rxd4 cxd4 41.Qxd4 Qc2 42.Rg1 Qc3 43.Qd6 Qxg3 44.Qxb4 Re1 45.Bf1 Qf3+ 46.Bg2 Rxg1+ 47.Kxg1 Qe3+ 48.Kh2 Re7 49.h4 Rd7 50.Qe4 Qf2 51.Kh3 Rc7 52.Qf3 Qe1 53.Kh2 Qxh4+ 54.Kg1 Qe1+ 55.Qf1 Qg3 56.f5 Re7 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "17.6"]
+[White "Portelli, Matthew"]
+[Black "Stickler, Florentin"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2210"]
+[ECO "B63"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+
+1.e4 c5 2.Nc3 d6 3.Nge2 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.Qd2 Be7 8.Nxc6 bxc6 9.O-O-O a6 10.h4 h6 11.Bxf6 gxf6 12.Bc4 Bb7 13.Bb3 Qc7 14.f4 O-O-O 15.Qf2 Kb8 16.Rh3 Rhg8 17.Kb1 Rg4 18.Rhd3 d5 19.g3 Rgg8 20.exd5 cxd5 21.Na4 Rc8 22.Qe1 Qd8 23.c4 Qe8 24.cxd5 Bxd5 25.Bxd5 Qxa4 26.Rb3+ Kc7 27.Rb7+ Kd8 28.Bb3+ 1-0

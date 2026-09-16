@@ -1,0 +1,14 @@
+[Event "Round 3: Lucchi, Alessandro - Pulvirenti, Davide"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-3/GTgm6lvH/byYaocrR"]
+[Date "2026.07.07"]
+[Round "3.8"]
+[White "Lucchi, Alessandro"]
+[Black "Pulvirenti, Davide"]
+[Result "1/2-1/2"]
+[WhiteElo "2135"]
+[BlackElo "2265"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 e5 6.f4 Bg7 7.Nf3 exf4 8.Bxf4 Nf6 9.Qd2 Qe7 10.O-O O-O 11.Bh6 Be6 12.Bxg7 Kxg7 13.a4 Rad8 14.Qf4 b6 15.b3 Rfe8 16.Nd1 Bc8 17.Nb2 Nh5 18.Qd2 Bg4 19.Nc4 Qc7 20.Rae1 Kg8 21.e5 Bxf3 22.Rxf3 Re6 23.Ref1 Rf8 24.Qh6 b5 25.Nd6 f6 26.g4 Qg7 27.Qd2 Rxe5 28.gxh5 Rxh5 29.Ne4 f5 30.Ng3 Rh4 31.axb5 cxb5 32.Qf2 c4 33.dxc4 bxc4 34.Rf4 Rxf4 35.Qxf4 cxb3 36.Qc4+ Kh8 37.cxb3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 9: Wartiovaara, Oliver - Samuel Stephen Noble S"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-9/zGvTvuUZ/HpdVxVN6"]
+[Date "2026.07.21"]
+[Round "9.8"]
+[White "Wartiovaara, Oliver"]
+[Black "Samuel Stephen Noble S"]
+[Result "0-1"]
+[WhiteElo "2320"]
+[BlackElo "2011"]
+[ECO "E92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5 8.h3 Nh5 9.Bg5 Qe8 10.g3 f6 11.Be3 f5 12.exf5 gxf5 13.Ng5 Nf6 14.g4 h6 15.Ne6 Bxe6 16.dxe6 f4 17.Bd2 Qxe6 18.h4 Na6 19.g5 Nh7 20.Ne4 Nc5 21.Nxc5 dxc5 22.Qc2 e4 23.O-O-O Bd4 24.f3 Rae8 25.fxe4 f3 26.Bd3 hxg5 27.hxg5 Qe5 28.g6 Nf6 29.Bh6 Ng4 30.Bxf8 Rxf8 31.Kb1 Rf6 32.Qa4 Rb6 33.b3 Rxg6 34.Qd7 Nf6 35.Qf5 Qxf5 36.exf5 Rg2 37.Rh3 Rb2+ 38.Kc1 f2 39.Rd2 Rxd2 40.Kxd2 Kf7 41.Ke2 Ke7 42.Rh4 Kd6 43.Be4 c6 44.Bg2 b5 45.a4 bxa4 46.bxa4 Ke5 47.Rh8 Ng4 48.Bh3 Nf6 49.Kf3 Nd7 50.Re8+ Kf6 51.Kf4 Nb6 52.Re6+ Kf7 53.Bf1 Nxa4 54.Rxc6 Nc3 55.Ra6 a4 56.Kf3 Nb1 57.Ke2 a3 58.Kd3 Bb2 59.Kc2 Nc3 60.Bg2 Ne4 61.Rc6 Bc3 62.Kb3 Bb4 63.Ka2 Nc3+ 64.Ka1 Ne4 65.Ka2 Nc3+ 66.Ka1 Ne2 67.Bd5+ Kf8 68.Rf6+ Kg7 69.Rg6+ Kh7 70.Bg2 Nf4 71.Rg3 Nxg2 72.Rf3 Be1 73.f6 Kg8 74.Ka2 Ne3 0-1

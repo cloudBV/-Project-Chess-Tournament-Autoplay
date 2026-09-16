@@ -1,0 +1,15 @@
+[Event "Round 3: Sanikidze, Tornike - Poormosavi, Seyed Kian"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-3/ENOyEKsM/ZF9Xmcnp"]
+[Date "2026.07.14"]
+[Round "3.2"]
+[White "Sanikidze, Tornike"]
+[Black "Poormosavi, Seyed Kian"]
+[Result "0-1"]
+[WhiteElo "2432"]
+[BlackElo "2373"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.a3 Bxd2+ 6.Qxd2 d6 7.Nc3 Nbd7 8.O-O-O b6 9.e4 Bb7 10.Qf4 Qe7 11.e5 dxe5 12.Nxe5 Nxe5 13.Qxe5 O-O-O 14.f3 h5 15.Be2 h4 16.Rhg1 Qd6 17.f4 Ng8 18.Qxg7 Qxf4+ 19.Kb1 Nh6 20.g3 hxg3 21.hxg3 Qf5+ 22.Bd3 Qg4 23.Qxg4 Nxg4 24.d5 Kb8 25.dxe6 Nf2 26.e7 Rxd3 27.Rxd3 Nxd3 28.Rd1 Bc8 29.Nd5 Re8 30.Ka2 Nc5 31.b4 axb4 32.axb4 Ne4 33.Kb3 Kb7 34.b5 Be6 35.Nb4 Nd6 0-1

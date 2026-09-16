@@ -1,0 +1,15 @@
+[Event "Round 6: Singh, Siddharth - England, Max"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-6/B5vAUn6Q/brWYj2dv"]
+[Date "2026.07.18"]
+[Round "6.8"]
+[White "Singh, Siddharth"]
+[Black "England, Max"]
+[Result "0-1"]
+[WhiteElo "2361"]
+[BlackElo "2253"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nbd2 g6 7.Ne5 Nbd7 8.Nd3 Ng4 9.h3 Nge5 10.Ne1 Bh6 11.g3 Nc5 12.Bg2 Be6 13.f4 Nc4 14.Nb3 Na4 15.Nd3 O-O-O 16.Ke2 Bg7 17.Rb1 Na3 18.bxa3 Nc3+ 19.Kf2 Nxb1 20.e5 Nc3 21.Be3 Kc7 22.Ra1 Bd5 23.Bf1 f6 24.Nbc5 b6 25.Na6+ Kc8 26.Ke1 Bc4 27.Nab4 Nd5 28.Nxd5 Bxd5 29.a4 Bc4 30.a5 bxa5 31.Rb1 fxe5 32.Bxa7 e4 33.Nc5 Bc3+ 34.Kf2 Bd4+ 35.Ke1 Bxc5 36.Bxc5 Bxf1 37.Kxf1 Rd2 38.Ba7 Rhd8 39.Rb8+ Kc7 40.Rb2 R8d5 41.a4 Rh2 42.Ke1 Rdd2 43.Bb6+ Kc8 44.Bxa5 Rxc2 45.Rxc2 Rxc2 46.Bd2 Kd7 47.Ke2 Ke6 48.a5 Kd5 49.Ke3 Ra2 50.g4 Ra3+ 51.Ke2 Rxh3 52.Be3 Rh1 53.Bb6 Ra1 54.Bd8 e6 55.g5 c5 56.Bb6 Kd4 0-1

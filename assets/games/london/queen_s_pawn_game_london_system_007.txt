@@ -1,0 +1,14 @@
+[Event "Round 8: Tscharotschkin, Michael - Mueller, Erich"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-8/cM3nWZDC/kD6oTpJ6"]
+[Date "2026.07.03"]
+[Round "8.5"]
+[White "Tscharotschkin, Michael"]
+[Black "Mueller, Erich"]
+[Result "1-0"]
+[WhiteElo "2208"]
+[BlackElo "2065"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 Nbd7 5.Nbd2 Be7 6.Bd3 c5 7.c3 O-O 8.Ne5 Re8 9.Qf3 Nxe5 10.dxe5 Nd7 11.h4 f6 12.Bxh7+ Kxh7 13.Qh5+ Kg8 14.Nf3 fxe5 15.Bxe5 Nxe5 16.Nxe5 Rf8 17.g4 Qe8 18.Ng6 Rf6 19.Qh8+ 1-0

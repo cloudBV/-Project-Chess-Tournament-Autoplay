@@ -1,0 +1,15 @@
+[Event "Round 3: Gungor, Cihan Akif - Kazik, Oguz Kagan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-3/szWCq0EX/lRG7qcNP"]
+[Date "2026.07.14"]
+[Round "3.38"]
+[White "Gungor, Cihan Akif"]
+[Black "Kazik, Oguz Kagan"]
+[Result "1-0"]
+[WhiteElo "2062"]
+[BlackElo "2177"]
+[ECO "B58"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation, Louma Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nxc6 bxc6 8.O-O Be7 9.Kh1 O-O 10.f4 Nd7 11.Bc4 Nb6 12.Bb3 Bf6 13.f5 Qe7 14.Qh5 Kh8 15.g4 g6 16.Qh6 gxf5 17.exf5 Bb7 18.h4 c5+ 19.Kh2 e4 20.g5 Be5+ 21.Bf4 Bxf4+ 22.Rxf4 Qe5 23.g6 fxg6 24.Be6 gxf5 25.Rg1 Rae8 26.Kh3 Bc8 27.Bxc8 Nxc8 28.Rg5 Ne7 29.Rxe4 fxe4 30.Rxe5 dxe5 31.Nxe4 Rf3+ 32.Kg2 Ref8 33.Ng5 Rf2+ 34.Kh3 R8f3+ 35.Nxf3 Rxf3+ 36.Kg2 Rf4 37.Qd6 Ng6 38.h5 Nh4+ 39.Kh3 Nf3 40.Kg3 Kg7 41.h6+ Kf7 42.Qd7+ Kg6 43.Qg7+ Kh5 44.Qxh7 Nh4 45.Qh8 Nf5+ 46.Kh2 Rh4+ 47.Kg1 Rg4+ 48.Kf2 Rf4+ 49.Ke1 Re4+ 50.Kd2 Nxh6 51.c3 c4 52.b3 Kg6 53.bxc4 Nf7 54.Qg8+ Kf6 55.c5 Ke7 56.Qc8 Ra4 57.c6 Rxa2+ 58.Kc1 Ra1+ 59.Kb2 Rd1 60.Qb7+ Kf6 61.c7 Nd6 62.Qf3+ 1-0

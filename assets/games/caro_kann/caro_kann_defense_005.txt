@@ -1,0 +1,15 @@
+[Event "Round 5: Amilal Munkhdalai - Ratkovic, Milovan"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/qno5mNZB"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "Amilal Munkhdalai"]
+[Black "Ratkovic, Milovan"]
+[Result "1-0"]
+[WhiteElo "2456"]
+[BlackElo "2460"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.Nc3 d5 3.Qe2 d4 4.Nd1 e5 5.g3 Bd6 6.d3 c5 7.f4 Nc6 8.Nf3 Nge7 9.Nf2 Qc7 10.f5 Bd7 11.Bg2 O-O-O 12.O-O f6 13.g4 Kb8 14.g5 Nc8 15.Ng4 Be7 16.c4 Be8 17.a3 Na5 18.Qc2 h5 19.gxh6 gxh6 20.b4 Nc6 21.b5 Bh5 22.h3 Na5 23.Nh4 Rdg8 24.Bf3 Be8 25.Kh2 h5 26.Nf2 Bf8 27.Bd2 Bh6 28.Bxh6 Rxh6 29.Rg1 Rhh8 30.Ng6 Bxg6 31.Rxg6 Rxg6 32.fxg6 Rh6 33.Rg1 Qg7 34.Qd1 Rxg6 35.Bxh5 Rxg1 36.Qxg1 Qh6 37.Qg6 Qf4+ 38.Kg2 a6 39.Qe8 f5 40.exf5 axb5 41.Bg4 b4 42.axb4 cxb4 43.f6 Ka7 44.Qxc8 Nc6 45.Qf5 b3 46.Qxf4 exf4 47.f7 f3+ 48.Bxf3 1-0

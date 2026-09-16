@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "9.5"]
+[White "Hovakimyan, Vache"]
+[Black "Rekuc, Patryk"]
+[Result "*"]
+[WhiteElo "2185"]
+[BlackElo "2290"]
+[ECO "A30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 Nc6 3.Nc3 g6 4.e3 Bg7 5.d4 cxd4 6.exd4 d6 7.Be2 Bg4 8.Be3 Nf6 9.d5 Bxf3 10.Bxf3 Ne5 11.Be2 O-O 12.O-O Qa5 13.Bd4 Rfc8 14.b3 Ned7 15.Re1 Nc5 16.Bf1 e5 17.dxe6 Nxe6 18.Rc1 Nxd4 19.Qxd4 Rd8 20.Qe3 Re8 21.Qd3 Rxe1 22.Rxe1 Ng4 23.Rc1 Qe5 24.g3 Qf6 25.Ne4 Qb2 26.Qc2 Qxc2 27.Rxc2 Be5 28.Rd2 Nf6 29.Nxd6 Rd8 30.Ne4 Rxd2 31.Nxd2 Bd4 32.Be2 b6 33.Kg2 Kf8 34.Bf3 Bc5 35.Nb1 Bb4 36.a3 Bd6 37.b4 Nd7 38.Nc3 Ne5 39.Bd5 Nd3 40.Ne4 Be5 41.Nd2 Bb2 42.c5 bxc5 43.Bc4 Ne5 44.bxc5 Bxa3 45.c6 Nxc6 46.Bb5 Ne5 47.Nc4 Nxc4 48.Bxc4 Ke7 49.Kf3 f5 50.Bg8 h6 51.Ke2 Kf6 52.h4 Bc5 53.f4 Bb4 54.Kf3 Be1 55.Bc4 a5 56.Bb5 Ke7 57.Ba4 Kf6 58.Bb5 Bd2 59.Be8 g5 60.hxg5+ hxg5 61.fxg5+ Bxg5 62.Bd7 Ke5 63.Ba4 Bh6 64.Bd7 Bd2 65.Ke2 Bb4 66.Kf3 Be1 67.Ba4 Kd4 68.Bc2 Ke5 *

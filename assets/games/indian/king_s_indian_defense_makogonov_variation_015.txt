@@ -1,0 +1,15 @@
+[Event "Round 3: Urazayev, Arystanbek - Akhmedinov, Satbek"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/gpp4KRFP"]
+[Date "2026.07.23"]
+[Round "3.20"]
+[White "Urazayev, Arystanbek"]
+[Black "Akhmedinov, Satbek"]
+[Result "0-1"]
+[WhiteElo "2493"]
+[BlackElo "2363"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 c5 7.d5 e6 8.Nf3 exd5 9.cxd5 Re8 10.Bd3 c4 11.Bc2 b5 12.O-O b4 13.Nb5 Ba6 14.Nbd4 Qb6 15.Re1 Nbd7 16.Nc6 Bb7 17.Nd2 c3 18.bxc3 bxc3 19.Nc4 Qc5 20.N4a5 Bxc6 21.Nxc6 Ne5 22.Be3 Qc4 23.Nxe5 Rxe5 24.Bd4 Re7 25.Bb3 Qb4 26.a3 Qa5 27.Re3 Rc8 28.Rc1 Rec7 29.e5 Nxd5 30.Re1 c2 31.Rxc2 Rxc2 32.Bxc2 dxe5 33.Bxe5 Rxc2 34.Bxg7 Kxg7 35.Re5 Qc7 0-1

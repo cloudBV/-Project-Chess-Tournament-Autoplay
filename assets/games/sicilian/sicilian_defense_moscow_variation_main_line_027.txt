@@ -1,0 +1,14 @@
+[Event "Round 7: Tkhoruk, Roman - Amonatov, Farrukh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/JdR3UlkL"]
+[Date "2026.07.12"]
+[Round "7.12"]
+[White "Tkhoruk, Roman"]
+[Black "Amonatov, Farrukh"]
+[Result "1/2-1/2"]
+[WhiteElo "2076"]
+[BlackElo "2593"]
+[ECO "B52"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.d4 cxd4 7.Nxd4 Nf6 8.Nc3 e6 9.Be3 Be7 10.f3 O-O 11.Qe2 d5 12.exd5 Nxd5 13.Nxd5 Qxd5 14.Nxc6 Qxc6 15.c4 a5 16.b3 a4 17.Rad1 h6 18.Rd3 Rfc8 19.Rfd1 axb3 20.axb3 Ra3 21.Qc2 Rca8 22.Qc3 Ra2 23.R3d2 Bf6 24.Rxa2 Rxa2 25.Qd3 Qc7 26.Qd7 Qe5 27.Qd4 Qa5 28.Qd3 Rb2 29.Rb1 Qc3 30.Qxc3 Rxb1+ 31.Qc1 Rxc1+ 32.Bxc1 Kf8 33.Be3 Kg8 1/2-1/2

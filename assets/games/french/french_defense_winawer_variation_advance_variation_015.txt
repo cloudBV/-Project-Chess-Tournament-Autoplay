@@ -1,0 +1,15 @@
+[Event "Round 4: Kurmangaliyeva, Liya - Ayush Sharma"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/AYRhtoMD"]
+[Date "2026.07.24"]
+[Round "4.5"]
+[White "Kurmangaliyeva, Liya"]
+[Black "Ayush Sharma"]
+[Result "1-0"]
+[WhiteElo "2361"]
+[BlackElo "2428"]
+[ECO "C16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Bf8 5.a3 c5 6.dxc5 Bxc5 7.Qg4 g6 8.Nf3 Nc6 9.Bd3 a6 10.O-O Qc7 11.Re1 Bd7 12.Bd2 Qb6 13.Qg3 Nd4 14.Nxd4 Bxd4 15.Ne2 Bc5 16.b4 Bf8 17.c4 dxc4 18.Bxc4 Ne7 19.Bg5 Nf5 20.Qf4 Bg7 21.Bd3 O-O 22.Bxf5 exf5 23.Bh6 Rfd8 24.Bxg7 Kxg7 25.Ng3 h6 26.h4 Be6 27.Rad1 Rxd1 28.Rxd1 Rc8 29.Ne2 Rc4 30.Rd4 Qc7 31.Qe3 Qb6 32.Qf4 Qc6 33.Qe3 Bd5 34.f3 b5 35.Kf2 Rc2 36.Rd2 Kh7 37.Kg3 Rxd2 38.Qxd2 Qe6 39.Nf4 Qxe5 40.Qxd5 Qe1+ 41.Kh2 Qxh4+ 42.Nh3 Qf6 43.Nf2 h5 44.Nd3 h4 45.Qe5 Qg5 46.Nc5 Qc1 47.Nd7 Qc8 48.Nf6+ Kh6 49.Nd5 Qd8 50.Qf4+ Kg7 51.Qe5+ Kh6 52.Qf4+ Kg7 53.Nc7 Qc8 54.Qd6 g5 55.Qe5+ Kg8 56.Ne8 Kf8 57.Ng7 1-0

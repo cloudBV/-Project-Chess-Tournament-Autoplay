@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.21"]
+[Round "8.1"]
+[White "Vykouk, Jan"]
+[Black "Korobov, Anton"]
+[Result "0-1"]
+[WhiteElo "2426"]
+[BlackElo "2614"]
+[ECO "C02"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Rc8 7.O-O h6 8.Kh1 g5 9.Ne1 cxd4 10.f4 Nge7 11.Nf3 Nf5 12.Nxd4 Ncxd4 13.cxd4 Qb6 14.fxg5 Rxc1 15.Qxc1 Ng3+ 16.hxg3 hxg5+ 17.Kg1 Qxd4+ 18.Rf2 Bc5 19.Qe1 Qxe5 20.Qc3 Bd4 21.Qf3 Rh7 22.Nc3 Qh8 0-1

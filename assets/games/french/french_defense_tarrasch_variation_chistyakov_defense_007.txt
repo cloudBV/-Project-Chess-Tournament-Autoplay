@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-9/Yar24TEc/0gANdCPh"]
+[Date "2026.07.05"]
+[Round "9.12"]
+[White "Filgueiras, Nathan Felipe"]
+[Black "Hoffman, Alejandro"]
+[Result "0-1"]
+[WhiteElo "2419"]
+[BlackElo "2327"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd7 7.O-O Nc6 8.Nb3 a6 9.Nbxd4 Nxd4 10.Nxd4 Nf6 11.Re1 b5 12.Bb3 Bb7 13.c3 Bc5 14.Bg5 Ne4 15.Qg4 Nxg5 16.Qxg5 Bxd4 17.Rad1 Qd8 18.Qxd8+ Rxd8 19.Rxd4 Rxd4 20.cxd4 Kd7 21.f3 Rc8 22.Kf2 Kd6 23.Ke3 Bd5 24.Kd3 f6 25.h4 a5 26.h5 a4 27.Bxd5 Kxd5 28.a3 Rc4 29.Re4 g5 30.hxg6 hxg6 31.f4 Rc1 32.Re2 Rd1+ 33.Ke3 Rxd4 34.Rc2 Re4+ 35.Kf3 Rc4 36.Rd2+ Rd4 37.Re2 Rd3+ 38.Kf2 Rb3 39.g3 e5 40.fxe5 fxe5 41.Rd2+ Ke4 42.Re2+ Kf5 43.Kg2 e4 44.Kf2 g5 45.Kg2 e3 0-1

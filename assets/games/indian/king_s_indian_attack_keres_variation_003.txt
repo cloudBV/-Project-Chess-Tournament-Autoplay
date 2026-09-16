@@ -1,0 +1,15 @@
+[Event "WR Women's Chess Tour 2026 - Dom. Rep. Blitz session Punta Cana"]
+[Site "Punta Cana, Dominican Republic"]
+[Date "2026.07.02"]
+[Round "13.1"]
+[White "Lee, Alice"]
+[Black "Garifullina, Leya"]
+[Result "0-1"]
+[WhiteElo "2389"]
+[BlackElo "2398"]
+[ECO "A07"]
+[TimeControl "3 minutos para la partida con incrementos de 2 segundos desde el primer movimiento."]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 e6 4.O-O Nf6 5.Ne5 Bh5 6.c4 Nbd7 7.d4 c6 8.Nc3 Be7 9.Bf4 O-O 10.Qd3 Nxe5 11.Bxe5 Bg6 12.e4 Nd7 13.Bf4 Qb6 14.b3 Qa5 15.Qe3 dxc4 16.bxc4 e5 17.dxe5 Nxe5 18.Bxe5 Qxe5 19.Rab1 Bc5 20.Qf3 Qe7 21.Rb3 Rad8 22.Rfb1 b6 23.h4 Rd2 24.R3b2 Bxf2+ 25.Kh2 Rxb2 26.Rxb2 Bd4 27.Rd2 Bxc3 28.Qxc3 Bxe4 29.Qe3 f5 30.Re2 Re8 31.Qf4 Qf7 32.Bxe4 fxe4 33.Rxe4 Qxf4 34.Rxe8+ Kf7 35.gxf4 Kxe8 36.f5 Kf7 37.Kg3 Kf6 38.Kf4 b5 39.cxb5 cxb5 40.Ke4 h5 41.Kf4 a5 42.Ke4 b4 43.Kd4 a4 44.Kc4 b3 45.axb3 axb3 46.Kd4 0-1

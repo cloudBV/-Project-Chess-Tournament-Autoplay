@@ -1,0 +1,15 @@
+[Event "Round 3: Mitrabha, Guha - Enkhnar, Enkhbaatar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-3/maOrUxVC/imlyJgL5"]
+[Date "2026.07.03"]
+[Round "3.1"]
+[White "Mitrabha, Guha"]
+[Black "Enkhnar, Enkhbaatar"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2397"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Qd3 Nc6 9.Nxd7 Nxd7 10.Nc3 Be7 11.b3 O-O 12.O-O Rd8 13.Qb1 Nde5 14.Rd1 Qd7 15.Bb2 Rac8 16.Qc2 b6 17.Rac1 Nd4 18.Qe4 Nec6 19.e3 Nf5 20.Qb1 Nb4 21.d3 Bf6 22.Rd2 Ne7 23.Rcd1 Qe8 24.Ne2 Bxb2 25.Qxb2 h6 26.h3 Rc7 27.a3 Nbd5 28.Rc1 Qb5 29.Rc4 Rcd7 30.Rdc2 Nf6 31.Nc1 a5 32.Bf1 Rd6 33.b4 cxb4 34.axb4 axb4 35.Rxb4 Qa5 36.Rb5 Qa7 37.Nb3 Nd7 38.Nd2 Rd5 39.Rb4 Rb8 40.d4 Ra5 41.Rbc4 Rd8 42.Bg2 Qb8 43.Rb4 Nd5 44.Rb3 Rc8 45.Rc4 Ra7 46.e4 Ne7 47.d5 Rac7 48.Rxc7 Qxc7 49.dxe6 fxe6 50.Kh2 Qc5 51.Nf3 Ng6 52.Nd4 Qe5 53.f4 Qf6 54.e5 Qe7 55.Nc6 Qf7 56.Qd4 Ngf8 57.Ra3 Nb8 58.Nb4 Qc7 59.Ra2 Rd8 60.Qe4 Nfd7 61.Nd3 Nc5 62.Nxc5 bxc5 63.Qc4 Qb6 64.Rc2 Na6 65.h4 Rd4 66.Qc3 Qb4 67.Qf3 Qb6 68.Ra2 Nc7 69.f5 exf5 70.Qxf5 Rd8 71.Be4 c4 72.Qh7+ Kf7 73.Bg6+ Ke6 74.Qxg7 Nd5 75.Qf7+ Kxe5 76.Re2+ Ne3 77.Qf4+ Kd5 1-0

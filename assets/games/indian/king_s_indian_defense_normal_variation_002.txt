@@ -1,0 +1,15 @@
+[Event "Round 7: Aleksandrov, Aleksej - Aswath, S"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-7/oIu1XrnK/BeEke2Nx"]
+[Date "2026.07.06"]
+[Round "7.3"]
+[White "Aleksandrov, Aleksej"]
+[Black "Aswath, S"]
+[Result "0-1"]
+[WhiteElo "2449"]
+[BlackElo "2517"]
+[ECO "E70"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 a6 7.O-O e5 8.d5 Nh5 9.Be3 Nd7 10.Qd2 f5 11.exf5 gxf5 12.Ng3 Nxg3 13.fxg3 e4 14.Be2 Ne5 15.Rf4 Ng6 16.Rf2 Qe7 17.Raf1 Bd7 18.Nd1 Rae8 19.Bh6 Qe5 20.Bxg7 Kxg7 21.Ne3 Re7 22.Qc3 Qxc3 23.bxc3 Ref7 24.Bd1 Ne5 25.Bc2 h5 26.Rf4 Ng6 27.R4f2 Rf6 28.Re1 b6 29.Nf1 Ne5 30.Nd2 a5 31.Rf4 Bc8 32.Rh4 Rh8 33.Bd1 Rfh6 34.Ba4 Ng6 35.Rf4 h4 36.Rff1 hxg3 37.h3 Ne5 38.Bd1 Rg6 39.Nb3 Nd3 40.Re2 Nf2 41.Bc2 Ba6 42.Nd4 Rf6 43.Rexf2 gxf2+ 44.Rxf2 Bxc4 45.Nxf5+ Kf7 46.g4 Bd3 47.Bxd3 exd3 48.Kg2 Re8 49.Rd2 Rxf5 50.gxf5 Re3 51.Kf2 Rxh3 52.Kg2 Re3 53.Kf2 Re2+ 54.Rxe2 dxe2 55.Kxe2 Kf6 56.c4 Kxf5 57.Kf3 Ke5 58.Ke3 b5 0-1

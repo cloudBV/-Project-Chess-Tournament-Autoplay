@@ -1,0 +1,15 @@
+[Event "Round 7: Brewer, Callum D - Steiners, Emils"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-7/DKW1qwVG/X1OSahaD"]
+[Date "2026.07.23"]
+[Round "7.5"]
+[White "Brewer, Callum D"]
+[Black "Steiners, Emils"]
+[Result "1-0"]
+[WhiteElo "2099"]
+[BlackElo "2169"]
+[ECO "B23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.f4 Bg7 6.Nf3 e6 7.O-O Ne7 8.d3 O-O 9.Be3 b6 10.a4 a5 11.Qd2 Ba6 12.Rfe1 Qc7 13.Rad1 Rad8 14.Qf2 Qb8 15.d4 cxd4 16.Bxd4 Bxd4 17.Nxd4 e5 18.fxe5 Qxe5 19.Nf3 Qc7 20.Qh4 Kg7 21.e5 Nf5 22.Qf6+ Kg8 23.Ne4 Rxd1 24.Rxd1 Be2 25.Nd6 Rd8 26.Re1 Nxd6 27.exd6 Rxd6 28.Qc3 Bxf3 29.Re8# 1-0

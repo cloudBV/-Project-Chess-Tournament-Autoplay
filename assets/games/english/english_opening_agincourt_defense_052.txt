@@ -1,0 +1,14 @@
+[Event "Round 9: Hernandez Jimenez, Jeronimo - Hernandez Jimenez, Xavi"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-9/eYIDhErh/fM2KzvYi"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Hernandez Jimenez, Jeronimo"]
+[Black "Hernandez Jimenez, Xavi"]
+[Result "1-0"]
+[WhiteElo "2244"]
+[BlackElo "2290"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.Nc3 Be7 5.b3 O-O 6.Bb2 Nbd7 7.Rc1 c6 8.Be2 a6 9.O-O b5 10.Nd4 Bb7 11.d3 Rc8 12.h3 h6 13.cxd5 cxd5 14.a4 b4 15.Nb1 Re8 16.Nd2 Bf8 17.Rxc8 Qxc8 18.Qa1 e5 19.Rc1 Qb8 20.N4f3 a5 21.Bf1 Bd6 22.Nh4 Rc8 23.Nf5 Bf8 24.Rxc8 Bxc8 25.Qc1 Nc5 26.Ng3 Be6 27.d4 exd4 28.Bxd4 Nce4 29.Ngxe4 Nxe4 30.Bd3 Nc3 31.Nb1 Ne4 32.Qc6 Bd6 33.Bxe4 dxe4 34.Nd2 Qc7 35.Qa8+ Bf8 36.Nxe4 Bf5 37.Nc5 Bc2 38.Qe8 Qe7 39.Qb5 Qd8 40.Qc4 Bg6 41.Nb7 Qg5 42.f3 Qg3 43.Qc8 Bh5 44.Qf5 Bg6 45.Qc8 Bh5 46.Qf5 Bg6 47.Qxa5 Kh7 48.Qe5 Qh4 49.a5 Qe1+ 50.Kh2 Qe2 51.Nc5 f6 52.Qc7 Qb5 53.Ne6 Qe8 54.Nxf8+ Qxf8 55.a6 1-0

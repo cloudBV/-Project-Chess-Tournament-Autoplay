@@ -1,0 +1,15 @@
+[Event "Round 3: Jiang, Andrew - Safranek, William"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-3/KHjzK7Tr/3yriYigm"]
+[Date "2026.07.08"]
+[Round "3.3"]
+[White "Jiang, Andrew"]
+[Black "Safranek, William"]
+[Result "1-0"]
+[WhiteElo "2250"]
+[BlackElo "2252"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.d4 Bg4 7.c3 exd4 8.cxd4 Be7 9.Re1 Bxf3 10.gxf3 d5 11.Bb5 dxe4 12.fxe4 O-O 13.d5 Ne5 14.f4 Bc5+ 15.Kg2 Ng6 16.Nc3 a6 17.Bf1 Qd7 18.e5 Nh4+ 19.Kg3 Nf5+ 20.Kg2 Ng4 21.e6 Nh4+ 22.Kg3 Bf2+ 23.Kxg4 fxe6 24.dxe6 Qe8 25.Re5 g5 26.Kh3 gxf4 27.Qg4+ Kh8 28.Ne4 Ng6 29.Rh5 Bd4 30.e7 Rg8 31.Bc4 Rg7 32.Rxh6+ Rh7 33.Rxh7+ Kxh7 34.Ng5+ Kh6 35.Ne6 1-0

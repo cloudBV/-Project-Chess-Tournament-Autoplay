@@ -1,0 +1,14 @@
+[Event "Round 5: Rudolf, Matthias, Dr. - Juhnke, Juergen"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-5/Vg6Z0Oa2/ZCXkIEbK"]
+[Date "2026.07.07"]
+[Round "5.1"]
+[White "Rudolf, Matthias, Dr."]
+[Black "Juhnke, Juergen"]
+[Result "1/2-1/2"]
+[WhiteElo "2085"]
+[BlackElo "2219"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.Bxc6+ bxc6 5.e5 d5 6.h3 Bf5 7.O-O e6 8.Re1 g5 9.g4 Be4 10.d3 Bxf3 11.Qxf3 h5 12.Qg3 Nh6 13.Nd2 hxg4 14.hxg4 Qa5 15.Nf3 Qb4 16.a3 Qxg4 17.Qxg4 Nxg4 18.Bxg5 Rg8 19.Kf1 a5 20.Bf4 Bg7 21.Ke2 f6 22.Rg1 f5 23.Nh2 Nxh2 24.Bxh2 Kf7 25.Bf4 a4 26.Kd2 Rab8 27.Rab1 Bf8 28.Rxg8 Kxg8 29.Rg1+ Kf7 30.Kc1 Be7 31.Be3 Rh8 32.Bf4 Rh4 33.Bg3 Rh3 34.Kb1 Rh8 35.Ka2 Rg8 36.Bh2 Rh8 37.Bg3 Rg8 1/2-1/2

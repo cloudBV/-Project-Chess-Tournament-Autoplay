@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.24"]
+[White "Jing, Andrew"]
+[Black "Najar Arrieta, Oriol"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2114"]
+[ECO "A48"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "London System, with Be2"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.Nf3 O-O 5.Be2 d6 6.h3 b6 7.O-O Bb7 8.Nfd2 c5 9.c3 Nc6 10.Bf3 Qd7 11.d5 Ne5 12.Bxe5 dxe5 13.e4 b5 14.c4 b4 15.Re1 Bh6 16.a4 Ne8 17.Nf1 Nd6 18.Nbd2 Kg7 19.b3 Bxd2 20.Qxd2 Rh8 21.Bg4 Qc7 22.f4 h5 23.fxe5 Nxc4 24.bxc4 hxg4 25.Qf4 gxh3 26.Ne3 Rh5 27.Ng4 Bc8 28.Nf6 Qxe5 29.Nxh5+ Qxh5 30.Re3 hxg2 31.Kxg2 Qg4+ 32.Qxg4 Bxg4 33.a5 a6 34.Rd3 Rd8 35.Kg3 Be2 36.Rd2 Bh5 37.e5 Rd7 38.Re1 g5 39.e6 Rd6 40.exf7 Kxf7 41.Rf2+ Rf6 42.Re6 Rxf2 43.Kxf2 Bd1 44.Rxa6 Bb3 45.Rc6 Bxc4 46.Rxc5 Bd3 47.Ke3 Bf1 48.Rc1 Bg2 49.Kd4 e6 50.dxe6+ Kxe6 51.Rb1 Kd6 52.Rxb4 g4 53.Ke3 Kc5 54.Rb6 Bd5 55.Kf4 Bf3 56.Rb2 Bc6 57.a6 Ba8 58.Rb8 Bd5 59.a7 1-0

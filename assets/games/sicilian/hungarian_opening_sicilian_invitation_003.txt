@@ -1,0 +1,14 @@
+[Event "Round 11: Munoz Triana, Joseph Steve - Cabiativa, Juan Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-11/1k0zGiFk/Va6d6wMR"]
+[Date "2026.07.12"]
+[Round "11.4"]
+[White "Munoz Triana, Joseph Steve"]
+[Black "Cabiativa, Juan Esteban"]
+[Result "1-0"]
+[WhiteElo "2217"]
+[BlackElo "2295"]
+[ECO "A00"]
+[Variant "Standard"]
+[Opening "Hungarian Opening: Sicilian Invitation"]
+
+1.g3 c5 2.Bg2 Nc6 3.d3 g6 4.Nd2 Bg7 5.h3 d6 6.e4 Rb8 7.a4 a6 8.Ne2 b5 9.axb5 axb5 10.O-O Bd7 11.f4 Qc8 12.Kh2 h5 13.c3 Nh6 14.Nf3 e6 15.d4 O-O 16.dxc5 dxc5 17.Be3 Ne7 18.Qd6 Re8 19.Ra7 Rb7 20.Rfa1 Bc6 21.Ne5 Bf8 22.Qxc5 f6 23.Rxb7 Bxb7 24.Qxc8 Rxc8 25.Ra7 Bxe4 26.Bxe4 fxe5 27.fxe5 Nhf5 28.Bg5 Nc6 29.Ra6 Nxe5 30.Rxe6 Bg7 31.Nf4 Rc4 32.Bd5 Kh7 33.Bxc4 bxc4 34.Bd8 Ne3 35.Bf6 Bxf6 36.Rxf6 N3g4+ 37.hxg4 Nxg4+ 38.Kg2 Nxf6 39.Kf3 g5 40.Ng2 Nd7 41.Ke4 Nc5+ 42.Kf5 Nd3 43.Kxg5 Nxb2 44.Ne3 Na4 45.Nd5 Kg7 46.Kxh5 Kf7 47.g4 Ke6 48.g5 Nc5 49.g6 Ne4 50.g7 Kf7 51.Kh6 Kg8 52.Kg6 1-0

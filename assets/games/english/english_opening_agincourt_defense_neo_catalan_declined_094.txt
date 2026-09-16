@@ -1,0 +1,15 @@
+[Event "Round 9: Nguyen Xuan Phuong - Le Phan Hoang Quan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-9/PeFj0tRs/xQAEzoeS"]
+[Date "2026.07.16"]
+[Round "9.23"]
+[White "Nguyen Xuan Phuong"]
+[Black "Le Phan Hoang Quan"]
+[Result "1/2-1/2"]
+[WhiteElo "2154"]
+[BlackElo "2110"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 d5 4.O-O Be7 5.c4 O-O 6.b3 a5 7.Nc3 Na6 8.Bb2 b6 9.cxd5 exd5 10.d4 Bb7 11.Rc1 Nb8 12.Ne5 Nbd7 13.Nb5 Nxe5 14.dxe5 Ne8 15.Nd4 Qd7 16.Nc6 Bxc6 17.Rxc6 Rd8 18.Rc2 Qe6 19.f4 f5 20.e3 c5 21.Rd2 Nc7 22.Qe2 Rd7 23.Rfd1 Rfd8 24.Bh3 Qg6 25.Qd3 Rf8 26.Bg2 Rfd8 27.e4 fxe4 1/2-1/2

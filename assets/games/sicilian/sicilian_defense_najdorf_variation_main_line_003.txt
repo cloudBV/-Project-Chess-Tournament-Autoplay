@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.7"]
+[White "Pasti, Aron"]
+[Black "Hagner, Bennet"]
+[Result "1-0"]
+[WhiteElo "2428"]
+[BlackElo "2451"]
+[ECO "B99"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 O-O 14.Rg1 b4 15.Nce2 e5 16.f6 exd4 17.fxe7 Re8 18.e5 Ra7 19.e6 fxe6 20.g6 hxg6 21.Nf4 Ne5 22.Qg3 Qxe7 23.Nxg6 Nxg6 24.Qxg6 Qf7 25.Bd3 Qxg6 26.Bxg6 Rf8 27.Rxd4 d5 28.Rxb4 Rf6 29.Rb8 Rc7 30.h4 Kf8 31.h5 Rf2 32.b4 Ke7 33.Bd3 Kf7 34.Re1 Kf6 35.a4 e5 36.Rb6+ Be6 37.Re2 Rf3 38.Bxa6 e4 39.a5 e3 40.Bb7 Kf5 41.Kb2 Bf7 42.a6 Rf2 43.Rc6 Rxc6 44.Bxc6 Rxe2 45.a7 Rf2 46.Bb5 Rf4 47.Bd3+ Kg5 48.a8=Q Rxb4+ 49.Kc1 Rf4 50.Qh8 Bxh5 51.Qxg7+ Kh4 52.Qe7+ 1-0

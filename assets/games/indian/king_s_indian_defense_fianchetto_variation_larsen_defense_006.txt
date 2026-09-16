@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/Vc5524bg"]
+[Date "2026.07.09"]
+[Round "-"]
+[White "Mkrtchyan, Mariam"]
+[Black "Narva, Mai"]
+[Result "0-1"]
+[WhiteElo "2199"]
+[BlackElo "2342"]
+[ECO "E62"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.c4 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 c6 7.Nc3 Bf5 8.b3 Ne4 9.Bb2 Nd7 10.Nh4 Nxc3 11.Bxc3 Be6 12.Qd2 f5 13.e4 fxe4 14.Bxe4 Bh3 15.Bg2 Bxg2 16.Kxg2 e5 17.Rae1 Qc7 18.dxe5 Nxe5 19.f4 Ng4 20.Bxg7 Kxg7 21.h3 Nf6 22.Nf3 Rae8 23.Ng5 Qd7 24.Qc3 d5 25.Qd4 h6 26.Nf3 dxc4 27.bxc4 Qxd4 28.Nxd4 Kf7 29.Nb3 b6 30.Nd4 Rc8 31.Nf3 Rfe8 32.Ne5+ Kg7 33.Rd1 Re6 34.Rd3 b5 35.Rc1 b4 36.Rcd1 a5 37.Rd8 Rxd8 38.Rxd8 Ne4 39.Ra8 g5 40.Rxa5 gxf4 41.gxf4 Nc3 42.Kf3 Rd6 43.Kg4 Ne4 44.Ra6 Rd1 45.Rxc6 Rg1+ 46.Kf3 Nd2+ 47.Kf2 Ra1 48.Ke3 Rxa2 49.Rb6 b3 50.c5 b2 51.Rb7+ Kf6 52.Rb6+ Kf5 53.Rb7 b1=Q 54.Rf7+ Ke6 0-1

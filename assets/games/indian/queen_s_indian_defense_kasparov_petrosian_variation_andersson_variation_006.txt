@@ -1,0 +1,14 @@
+[Event "Round 2: De Wit, Evan - Vijayakumar, Rishi"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/4TVfrp1z"]
+[Date "2026.07.22"]
+[Round "2.17"]
+[White "De Wit, Evan"]
+[Black "Vijayakumar, Rishi"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2307"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 Ne4 6.Nxe4 Bxe4 7.h4 h6 8.e3 d6 9.Bd3 Bxd3 10.Qxd3 Nd7 11.Bd2 Be7 12.O-O-O Qc8 13.Kb1 Qb7 14.Bc3 b5 15.Nd2 Nb6 16.cxb5 a6 17.Nb3 Na4 18.Na5 Qxb5 19.Qxb5+ axb5 20.Bd2 Kd7 21.Nb3 f5 22.h5 Nb6 23.Bc1 b4 24.axb4 Nd5 25.Bd2 Rhb8 26.Nc1 Nxb4 27.Bxb4 Rxb4 28.Nd3 Rb5 29.Kc2 Rab8 30.Rb1 e5 31.dxe5 dxe5 32.Rhd1 Ke8 33.f3 R8b6 34.e4 Rc6+ 35.Kd2 fxe4 36.fxe4 Bg5+ 37.Ke2 Rc2+ 38.Kf3 Rb3 39.g3 Bd2 40.Ke2 Bf4+ 41.Kf3 Bd2 42.Ke2 Bc3+ 43.Kf3 Bd4 44.Kg4 c5 45.Ra1 c4 46.Nf4 Rcxb2 47.Ra8+ Rb8 48.Rxb8+ Rxb8 49.Nd5 c3 50.Rc1 Rc8 51.Rc2 Kf7 52.Kf3 Rb8 53.Kg4 Ke6 54.Rc1 Rb3 55.Nc7+ Kd7 56.Nd5 Ke6 57.Nc7+ Kd6 58.Nd5 Kc5 59.Kf5 Kc4 60.Kg6 Rb7 61.Nxc3 Bxc3 62.Rd1 Bd4 63.g4 Be3 64.Rd5 Bd4 0-1

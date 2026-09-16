@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/cUwSGjKj"]
+[Date "2026.07.08"]
+[Round "-"]
+[White "Injac, Teodora"]
+[Black "Narva, Mai"]
+[Result "0-1"]
+[WhiteElo "2301"]
+[BlackElo "2342"]
+[ECO "A08"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 c5 4.O-O d5 5.d3 Nc6 6.a4 Bd6 7.Nc3 O-O 8.e4 d4 9.Ne2 e5 10.Nh4 Nb4 11.Nf5 Bxf5 12.exf5 Qd7 13.c3 Nc6 14.a5 a6 15.cxd4 cxd4 16.Bg5 Qxf5 17.Bxf6 Qxf6 18.f4 Rac8 19.f5 Qg5 20.f6 gxf6 21.Be4 Ne7 22.h4 Qe3+ 23.Kh1 Rc7 24.Rxf6 Bb4 25.Qf1 Rc2 26.Rf2 f5 27.Bxb7 e4 28.dxe4 d3 29.exf5 dxe2 30.Qg2 e1=Q+ 31.Rxe1 Qxe1+ 32.Rf1 Rxg2 33.Rxe1 Bxe1 34.Kxg2 Rxf5 35.Bxa6 Rxa5 0-1

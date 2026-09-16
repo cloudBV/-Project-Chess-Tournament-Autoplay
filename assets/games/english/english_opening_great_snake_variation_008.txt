@@ -1,0 +1,14 @@
+[Event "Round 7: Virtanen, Teemu - Angskog, Kent"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-7/fymOfFBu/q8cSL729"]
+[Date "2026.07.16"]
+[Round "7.17"]
+[White "Virtanen, Teemu"]
+[Black "Angskog, Kent"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "2033"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 e5 4.Bg2 Ne7 5.e3 O-O 6.Nge2 d6 7.O-O c6 8.d4 Nf5 9.d5 c5 10.a3 Na6 11.Rb1 Bd7 12.Qd3 Rc8 13.Bd2 Re8 14.Rfc1 Qe7 15.Nb5 Bxb5 16.cxb5 Nb8 17.Bh3 e4 18.Qc2 Nd7 19.Bc3 Bxc3 20.Nxc3 Nf6 21.a4 Qe5 22.Rd1 h5 23.Qd2 Kg7 24.Ne2 g5 25.Rbc1 h4 26.Rc4 Rh8 27.Qc3 Rce8 28.Bg2 hxg3 29.hxg3 Qxc3 30.Nxc3 Re5 31.Bxe4 Ne7 32.Bg2 g4 33.Kf1 Ng6 34.Be4 Rh2 35.Rd2 Reh5 36.Bxg6 Kxg6 37.b4 cxb4 38.Rxb4 Rh1+ 39.Ke2 Rc1 40.Ne4 Nd7 41.Nxd6 Ne5 42.Re4 f6 43.Nxb7 Rhh1 44.Rxe5 fxe5 45.Kd3 Rh7 46.Na5 Ra1 47.Nc4 Rxa4 48.Nxe5+ Kf6 49.Nc6 Rb7 50.Rb2 Rb6 51.e4 a6 52.e5+ Kf5 53.Re2 Ra3+ 54.Kd4 Rxb5 55.Ne7+ Kg5 56.e6 Kf6 57.Ng8+ Kg7 58.e7 Ra4+ 59.Ke5 Kf7 60.Kd6 Rb8 61.Nf6 Kxf6 62.e8=Q Rxe8 63.Rxe8 Rd4 64.Kc6 Rc4+ 65.Kd7 Kf7 66.Re7+ Kf8 67.d6 a5 68.Re5 a4 69.Ke6 Rd4 70.d7 a3 71.Ra5 1-0

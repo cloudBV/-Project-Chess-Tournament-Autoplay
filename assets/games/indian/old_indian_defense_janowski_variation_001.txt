@@ -1,0 +1,14 @@
+[Event "Round 7: Golenia, Jan - Zwardon, Vojtech"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/4ofyKcwx"]
+[Date "2026.07.23"]
+[Round "7.14"]
+[White "Golenia, Jan"]
+[Black "Zwardon, Vojtech"]
+[Result "1/2-1/2"]
+[WhiteElo "2276"]
+[BlackElo "2425"]
+[ECO "A53"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Janowski Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Bf5 4.Nf3 h6 5.g3 c6 6.Bg2 Nbd7 7.d5 cxd5 8.cxd5 g5 9.h4 g4 10.Nd4 Bg6 11.Qa4 Bg7 12.Ne6 fxe6 13.dxe6 Bf5 14.exd7+ Bxd7 15.Qc2 Bc6 16.Qg6+ Kf8 17.Bxc6 bxc6 18.O-O Qe8 19.Qd3 Rb8 20.a4 Kf7 21.Ne4 Rb4 22.Nxf6 Bxf6 23.Bxh6 d5 24.Be3 Qb8 25.Kg2 a5 26.Rac1 Qb7 27.Rc5 Rxa4 28.Rfc1 Qxb2 29.Rxc6 Qe5 30.R1c5 Rh5 31.Ra6 Qe4+ 32.Qxe4 Rxe4 33.Raxa5 e6 34.Rc8 Kg6 35.Rg8+ Kf7 36.Rc8 Kg6 37.Rg8+ Kf7 38.Raa8 d4 39.Bc1 Be7 40.Bg5 Rxe2 41.Bxe7 Rf5 42.Rgf8+ Kxe7 43.Rae8+ Kd7 44.Rxf5 Kxe8 45.Kf1 d3 46.Rf4 e5 47.Rxg4 Kf7 48.h5 Rc2 49.Ke1 Re2+ 50.Kf1 Rc2 51.Ke1 Re2+ 52.Kf1 Rc2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: Neiksans, Arturs - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/zmyyhXtR"]
+[Date "2026.07.03"]
+[Round "3.6"]
+[White "Neiksans, Arturs"]
+[Black "Suleymanli, Aydin"]
+[Result "0-1"]
+[WhiteElo "2522"]
+[BlackElo "2561"]
+[ECO "C47"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Naroditsky Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nd5 Be7 5.Bd3 d6 6.c3 O-O 7.Bc2 Be6 8.Nxe7+ Nxe7 9.O-O c5 10.d4 Ng6 11.h3 Qe7 12.Re1 Rad8 13.Be3 Nh5 14.Ng5 Nhf4 15.Nxe6 fxe6 16.Kh2 exd4 17.cxd4 e5 18.d5 Qh4 19.Qg4 Qxg4 20.hxg4 Nh4 21.Rg1 g5 22.Bd1 Rf6 23.f3 Rdf8 24.b3 Rh6 25.Kg3 Rhf6 26.Kf2 a5 27.a4 Kg7 28.Be2 b6 29.Raf1 h6 30.Bd1 Nd3+ 31.Ke2 Nf4+ 32.Kf2 R6f7 33.Be2 Rf6 34.Bd2 Rb8 35.Bb5 Rbf8 36.Be2 Kg6 37.Be3 h5 38.gxh5+ Nxh5 39.Ke1 Ng3 40.Rf2 Rf4 41.Bd3 Kf6 42.Bxf4 exf4 43.Kd2 Ke5 44.Bc2 Rh8 45.Kc3 Ng6 46.Kc4 Rh2 47.Rd2 Nh4 48.Rf2 Nh1 49.Rff1 Nxg2 50.Rxh1 Ne3+ 51.Kb5 Nxf1 52.Rxf1 Rxc2 53.Rg1 Rc3 54.Rxg5+ Kd4 55.Kc6 Rxf3 56.Kxd6 Kxe4 57.Kc6 Rxb3 58.d6 Rd3 59.Rg6 Kf5 60.Rg1 f3 61.d7 c4 62.Kc7 Kf4 63.Rg6 f2 64.d8=Q Rxd8 65.Kxd8 Ke5 66.Rg5+ Kf6 0-1

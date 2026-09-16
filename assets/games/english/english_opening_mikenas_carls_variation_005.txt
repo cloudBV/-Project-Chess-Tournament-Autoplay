@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "5.1"]
+[White "Piddubna, Bozhena"]
+[Black "Toroptseva, Yevheniia"]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2042"]
+[ECO "A18"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 Ne4 6.Nf3 Nxc3 7.bxc3 Be7 8.d4 Bf5 9.Be2 O-O 10.O-O Nd7 11.Re1 c6 12.Nd2 b5 13.Nf1 Nb6 14.Ng3 Bg6 15.Rf1 f6 16.f4 f5 17.Qb3 Qd7 18.Ba3 Bxa3 19.Qxa3 Bf7 20.Bd3 Be6 21.Ne2 Rfc8 22.Nc1 Na4 23.Bc2 Nb6 24.Nd3 Qf7 25.Nc5 Rc7 26.Bd3 Nd7 27.Nxd7 Qxd7 28.Qc5 Qe7 29.Qxe7 Rxe7 30.a4 Rc7 31.Rfb1 a6 32.axb5 cxb5 33.Bxb5 Rxc3 34.Rxa6 Rxa6 35.Bxa6 Rc7 36.Rb8+ Kf7 37.Rb7 Rxb7 38.Bxb7 Ke7 39.Kf2 Kd7 40.Ke3 Kc7 41.Ba6 Kb6 42.Bd3 Ka5 43.h3 Kb4 44.Kd2 h5 45.g3 Bc8 46.Be2 g6 47.Bd3 Bd7 48.Ke3 Bc8 49.g4 hxg4 50.hxg4 Ka4 51.gxf5 gxf5 52.Be2 Kb4 53.Bh5 Be6 54.Kd3 Kb3 55.Be8 Kb4 56.Bc6 Kb3 57.Bb7 Kb4 58.Bc6 Kb3 59.Be8 Kb4 60.Bh5 Kb3 61.Be2 Bd7 62.Bd1+ Kb4 63.Bc2 Be6 64.Bb1 Kb3 65.Bc2+ Kb4 66.Bd1 Bd7 67.Be2 Kb3 68.Kd2 Bc8 69.Bb5 Be6 70.Be2 Bc8 71.Bh5 Be6 72.Kd3 Kb4 73.Bd1 Bd7 74.Be2 Kb3 75.Bf3 Be6 76.Bh5 Kb4 77.Bd1 Bd7 78.Bf3 Be6 79.Bh5 Kb3 80.Be2 Bd7 81.Kd2 Bc8 82.Bb5 Kb4 83.Bd3 Kb3 84.Bf1 Bd7 85.Ba6 Be6 86.Bb5 Kb4 87.Be2 Kb3 88.Kd3 Bd7 89.Bf3 Be6 90.Bh5 Kb4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: Abdilkhair, Abilmansur - Babkin, Kirill"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-open/round-3/dC2DVhZ7/LAXMbKm7"]
+[Date "2026.07.20"]
+[Round "3.1"]
+[White "Abdilkhair, Abilmansur"]
+[Black "Babkin, Kirill"]
+[Result "1-0"]
+[WhiteElo "2341"]
+[BlackElo "2027"]
+[ECO "C13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 Nd7 8.Bd3 c5 9.Qd2 cxd4 10.O-O-O O-O 11.h4 b6 12.Nfg5 h6 13.g4 Ne5 14.f4 Nxd3+ 15.Qxd3 g6 16.h5 Bb7 17.hxg6 Bxg5 18.Nxg5 hxg5 19.Qh3 Kg7 20.Qh6+ 1-0

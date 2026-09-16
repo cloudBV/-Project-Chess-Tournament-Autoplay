@@ -1,0 +1,14 @@
+[Event "Round 6: Anagnostopoulos, Panagiotis - Ntounias, Ioannis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/2L9TgKuV"]
+[Date "2026.07.10"]
+[Round "6.39"]
+[White "Anagnostopoulos, Panagiotis"]
+[Black "Ntounias, Ioannis"]
+[Result "1-0"]
+[WhiteElo "2058"]
+[BlackElo "2109"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ c6 6.Qxc4 b5 7.Qc2 Bb7 8.a4 b4 9.O-O Nbd7 10.d3 Be7 11.Nbd2 O-O 12.Nc4 c5 13.e4 a5 14.Bf4 Nb6 15.Nfe5 Nxc4 16.Nxc4 Nd7 17.Rfd1 Nb8 18.Qe2 Nc6 19.Qg4 Kh8 20.e5 Qc7 21.Be4 Nd4 22.Be3 Bxe4 23.dxe4 Nb3 24.Rab1 Qc6 25.Rd3 Qxa4 26.Qd1 Rad8 27.Nd6 Bxd6 28.Rxd6 Rc8 29.h4 c4 30.h5 h6 31.Qf3 c3 32.Bxh6 c2 33.Rf1 c1=Q 34.Bxc1 Rxc1 35.Rxc1 Nxc1 36.h6 gxh6 37.Rxe6 fxe6 38.Qxf8+ Kh7 39.Qf7+ Kh8 40.Qf8+ Kh7 41.Qe7+ Kh8 42.Qd8+ Kh7 43.Qc7+ Kg6 44.Qxc1 b3 45.Qc8 Kf7 46.Qh8 Qa1+ 47.Kg2 Qxb2 48.Qf6+ Kg8 49.Qxe6+ Kh7 50.Qf7+ Kh8 51.Qf8+ Kh7 52.e6 Qg7 53.e7 b2 54.Qf5+ 1-0

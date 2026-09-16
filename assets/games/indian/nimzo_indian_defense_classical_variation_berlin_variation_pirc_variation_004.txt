@@ -1,0 +1,14 @@
+[Event "Round 4: Han, Yichen - Petrov, Nikita"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/adI03cbr"]
+[Date "2026.07.04"]
+[Round "4.1"]
+[White "Han, Yichen"]
+[Black "Petrov, Nikita"]
+[Result "1/2-1/2"]
+[WhiteElo "2437"]
+[BlackElo "2555"]
+[ECO "E39"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation, Pirc Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.Bd2 Nxc5 8.a3 Bxc3 9.Bxc3 Nce4 10.e3 Nxc3 11.Qxc3 b6 12.Be2 Bb7 13.O-O Rc8 14.Qd4 Qc7 15.Rac1 Rfd8 16.b4 d6 1/2-1/2

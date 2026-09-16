@@ -1,0 +1,14 @@
+[Event "Round 9: Balabayeva, Xeniya - Kukushkin, Ivan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-9/PFJULri3/Wzcr44J8"]
+[Date "2026.07.12"]
+[Round "9.13"]
+[White "Balabayeva, Xeniya"]
+[Black "Kukushkin, Ivan"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "2186"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 Bf5 4.e3 c6 5.c4 Nbd7 6.Nc3 e6 7.h3 Qb6 8.Qb3 Qxb3 9.axb3 Bb4 10.Nd2 O-O 11.O-O-O a5 12.Ndb1 Ne4 13.Nxe4 Bxe4 14.f3 Bg6 15.Bd3 Bxd3 16.Rxd3 a4 17.Kc2 Be7 18.cxd5 cxd5 19.bxa4 Rxa4 20.Rb3 b6 21.Nc3 Ra5 22.e4 Rc8 23.Rd1 b5 24.Kd3 b4 25.Ne2 dxe4+ 26.fxe4 e5 27.Be3 exd4 28.Bxd4 Rd8 29.Kc2 Ra6 30.Rbd3 Rc8+ 31.Kb1 Nf8 32.Nf4 Ne6 33.Nd5 Bf8 34.Bf2 h5 35.Be1 Rc4 36.Re3 Bc5 37.Re2 b3 38.Nc3 Bd4 39.Kc1 Nf4 40.Rf2 Bxf2 41.Bxf2 Ne2+ 42.Kd2 Nxc3 43.bxc3 Rxe4 44.Kd3 Rd6+ 45.Bd4 Re8 46.Rb1 Rb8 47.Rb2 Ra6 48.c4 Ra4 49.Be3 f6 50.c5 Kf7 51.Bf4 Rxf4 0-1

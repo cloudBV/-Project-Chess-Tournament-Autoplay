@@ -1,0 +1,15 @@
+[Event "Round 8: Abdsattar, Alisher - Mahmoudi, Mohammad Pouria"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-8/ncxfT7DT/L4ZMYaXt"]
+[Date "2026.07.23"]
+[Round "8.10"]
+[White "Abdsattar, Alisher"]
+[Black "Mahmoudi, Mohammad Pouria"]
+[Result "1/2-1/2"]
+[WhiteElo "2429"]
+[BlackElo "2144"]
+[ECO "B76"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O 9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Be6 14.Ne4 Re8 15.h4 h5 16.Bc4 Nf4 17.Qxd8 Rexd8 18.Bxe6 Nxe6 19.Be3 f6 20.Kb1 a6 21.a4 Rab8 22.b3 f5 23.Ng5 Nxg5 24.Bxg5 Rd5 25.Kc1 Kf7 26.Rhe1 Rb7 27.Re3 Rbd7 28.Rxd5 Rxd5 29.Rc3 c5 30.Be3 Bf8 31.Rc4 Ke6 32.Rc3 Be7 33.Bf2 Bf8 34.Be3 Be7 1/2-1/2

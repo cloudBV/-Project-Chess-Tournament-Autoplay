@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "16.4"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Ugorek, Kacper"]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2229"]
+[ECO "B27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 Nc6 6.Qd3 d6 7.Be2 Bg7 8.O-O Bg4 9.Nd5 O-O 10.c3 e6 11.Nxf6+ Bxf6 12.Bh6 Re8 13.Rfd1 Be7 14.Nd4 Bxe2 15.Qxe2 Nxd4 16.Rxd4 Qb6 17.Be3 Qc6 18.Qc4 Rac8 19.Qxc6 Rxc6 20.f3 a6 21.Kf2 f5 22.a4 Rd8 23.Ke2 Kf7 24.a5 d5 25.exd5 Rxd5 26.Rxd5 exd5 27.Kd3 Ke6 28.Bd4 Kd7 29.Re1 Re6 30.Rf1 Bd6 31.g3 h5 32.b4 Kc6 33.f4 Re4 34.h4 Kb5 35.Ra1 Re6 36.Rd1 Re4 37.Ra1 Re6 38.Rd1 Re4 1/2-1/2

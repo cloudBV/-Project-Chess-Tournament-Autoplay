@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "5.1"]
+[White "Butkiewicz, Jan"]
+[Black "Cieslak, Patryk"]
+[Result "0-1"]
+[WhiteElo "2129"]
+[BlackElo "2487"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 7.O-O e5 8.Be3 Qe7 9.dxe5 dxe5 10.Nd5 Qd8 11.Nxf6+ Bxf6 12.Qc2 Qe7 13.a3 c6 14.b4 Be6 15.Rfd1 Rfd8 16.c5 Nc7 17.Bc4 Kg7 18.h3 Bxc4 19.Qxc4 Ne6 20.Qc3 Qc7 21.g4 Nd4 22.Nxd4 exd4 23.Bxd4 Rxd4 24.Rxd4 Rd8 25.Rad1 Rxd4 26.Rxd4 Qe5 27.g5 Qxg5+ 28.Kf1 Qe5 0-1

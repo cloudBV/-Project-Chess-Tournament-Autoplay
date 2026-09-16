@@ -1,0 +1,15 @@
+[Event "Round 5: Aloma Vidal, Robert - De Lomas Busquets, Alba"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-5/Fu3jbg1r/bK0SU3Bq"]
+[Date "2026.07.12"]
+[Round "5.5"]
+[White "Aloma Vidal, Robert"]
+[Black "De Lomas Busquets, Alba"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2061"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.e3 Nc6 3.a3 a5 4.Nc3 Nf6 5.d4 exd4 6.exd4 d5 7.cxd5 Nxd5 8.Bc4 Nf6 9.Nf3 Be7 10.O-O O-O 11.h3 Bf5 12.Bf4 Bd6 13.Ne5 Bxe5 14.dxe5 Nd7 15.Re1 Nc5 16.Nd5 Ne6 17.Bg3 a4 18.Rc1 Ncd4 19.Ne3 Bg6 20.Qg4 h5 21.Qd1 c6 22.f4 b5 23.Ba2 Qb6 24.Qd2 Rad8 25.Qf2 Nf5 26.Nxf5 Qxf2+ 27.Bxf2 Bxf5 28.Bxe6 Bxe6 29.Rxc6 Rd2 30.Bc5 Bd5 31.Rd6 Rc8 32.Bb4 Rd3 33.Re2 Bc4 34.Rxd3 Bxd3 35.Rd2 Bc4 36.Kf2 Kh7 37.g4 Kg6 38.Ke3 Re8 39.Rd6+ Kh7 40.gxh5 Be6 41.h4 Rc8 42.Rd2 Kh6 43.Rg2 Rc4 44.Bf8 Kh7 45.Rxg7+ 1-0

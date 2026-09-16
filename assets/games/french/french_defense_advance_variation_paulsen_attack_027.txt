@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.3"]
+[White "Bernadskiy, Vitaliy"]
+[Black "Guerra Bastida, Diego"]
+[Result "1-0"]
+[WhiteElo "2507"]
+[BlackElo "2143"]
+[ECO "C02"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 cxd4 7.cxd4 Nf5 8.Nc2 Be7 9.Bd3 O-O 10.g4 Nh6 11.Rg1 Nb4 12.Nxb4 Bxb4+ 13.Kf1 Kh8 14.Rg3 Bd7 15.Kg2 Rc8 16.Rh3 Be7 17.Bxh6 gxh6 18.Rxh6 f5 19.exf6 Bxf6 20.Rxh7+ Kg8 21.Qd2 1-0

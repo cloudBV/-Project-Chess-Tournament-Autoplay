@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.4"]
+[White "Haug, Havard"]
+[Black "Grave, Jacob Templen"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2392"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nbd2 O-O 6.O-O d6 7.c3 a5 8.h3 Ba7 9.Re1 Be6 10.Bb5 Ne7 11.Nf1 Ng6 12.Ba4 c6 13.Ng3 d5 14.Bc2 Qc7 15.Bg5 dxe4 16.dxe4 Nd7 17.Bb3 Nc5 18.Bxe6 Nxe6 19.Be3 Rfd8 20.Qc2 Bxe3 21.Rxe3 Ngf4 22.Ree1 Rd3 23.Nh2 Rad8 24.Rad1 Qd7 25.Rxd3 Qxd3 26.Qxd3 Rxd3 27.Nhf1 b5 28.Ne2 Kf8 29.Nxf4 Nxf4 30.a4 bxa4 31.Ra1 a3 32.Rxa3 Rd1 33.g3 Nd3 34.Rxa5 Rb1 35.b4 Rc1 36.Ra8+ Ke7 37.Ra7+ Ke6 38.Rc7 Rxc3 39.b5 c5 40.b6 Rb3 41.b7 Rb1 42.h4 c4 43.Kg2 c3 44.Rc6+ Kd7 45.Rxc3 Ne1+ 46.Kg1 Rxb7 47.Nd2 Rc7 48.Rxc7+ Kxc7 49.Kf1 Nd3 50.Ke2 1/2-1/2

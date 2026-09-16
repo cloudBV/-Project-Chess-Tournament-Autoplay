@@ -1,0 +1,15 @@
+[Event "Round 6: Dingertz, Erik - Muntean, Victor"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-6/eYlqiXfJ/udqt38xf"]
+[Date "2026.07.01"]
+[Round "6.2"]
+[White "Dingertz, Erik"]
+[Black "Muntean, Victor"]
+[Result "0-1"]
+[WhiteElo "2211"]
+[BlackElo "2170"]
+[ECO "A41"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.Nf3 exd4 4.Nxd4 Nf6 5.Nc3 g6 6.e4 Bg7 7.Be2 O-O 8.O-O Re8 9.f3 c6 10.Bg5 h6 11.Bh4 Qb6 12.Bf2 Qc7 13.Qd2 a6 14.a4 a5 15.Rad1 Na6 16.Kh1 Kh7 17.Nc2 Bf8 18.Bd4 Qe7 19.Ne3 Be6 20.f4 Bg7 21.f5 Bc8 22.Bd3 Nc5 23.Bxf6 Bxf6 24.Ng4 Bg5 25.fxg6+ fxg6 26.Qe2 Be6 27.Bc2 Rf8 28.e5 Bxg4 29.Qxg4 Qxe5 30.h4 Rf4 31.Qg3 Rxh4+ 32.Qxh4 Bxh4 33.Rf7+ Kg8 34.Rdf1 Ne6 35.Bxg6 Rf8 36.Bh7+ Kh8 37.Rxf8+ Nxf8 38.Bc2 Ne6 39.Ne4 Bg3 40.Rf7 Ng5 41.Rxb7 Nxe4 42.Rb8+ Kg7 43.Rb7+ Kf6 0-1

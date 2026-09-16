@@ -1,0 +1,15 @@
+[Event "Round 9: Khanin, Semen - Bortnyk, Olexandr"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/xCjLXTtC"]
+[Date "2026.07.04"]
+[Round "9.8"]
+[White "Khanin, Semen"]
+[Black "Bortnyk, Olexandr"]
+[Result "1-0"]
+[WhiteElo "2456"]
+[BlackElo "2708"]
+[ECO "A50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Nf3 g6 5.g3 Bg7 6.Bg2 O-O 7.Qc2 d6 8.O-O Nbd7 9.d5 a5 10.Rd1 Nc5 11.Nd4 Qc8 12.b3 e5 13.Nc6 Re8 14.Rb1 Kh8 15.a3 a4 16.b4 Nb3 17.e3 Nxc1 18.Rbxc1 Ng8 19.c5 bxc5 20.bxc5 Bxc6 21.dxc6 dxc5 22.Rd7 Re7 23.Rcd1 Rb8 24.Nxa4 Qa6 25.Nxc5 Qxa3 26.Rd8 Re8 27.Rxe8 Rxe8 28.Qc4 Nf6 29.Ne4 Nxe4 30.Bxe4 f5 31.Bd5 Rd8 32.Rb1 e4 33.Be6 Qd3 34.Qc1 Qd2 35.Qxd2 Rxd2 36.Rb8+ Bf8 37.Rxf8+ Kg7 38.Rf7+ 1-0

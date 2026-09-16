@@ -1,0 +1,15 @@
+[Event "Famalicao Open"]
+[Site "https://lichess.org/broadcast/xiii-torneio-internacional-cidade-de-famalicao/round-3/UPHHcuml/fwgCHBRR"]
+[Date "2026.07.21"]
+[Round "3.5"]
+[White "Novais, Carlos Joao Fernandes"]
+[Black "Faryma, Matviy"]
+[Result "1-0"]
+[WhiteElo "2102"]
+[BlackElo "2328"]
+[ECO "B62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.f3 Be7 8.Qd2 a6 9.O-O-O Qc7 10.g4 Bd7 11.h4 h5 12.gxh5 Rxh5 13.f4 b5 14.a3 b4 15.axb4 Nxb4 16.Be2 Rh8 17.h5 Rb8 18.Bf3 Qxc3 19.Qxc3 Na2+ 20.Kd2 Nxc3 21.bxc3 Kd8 22.Ra1 Rb6 23.Ra5 Kc7 24.Rha1 Bc8 25.Kd3 Bb7 26.Nb3 Kd8 27.c4 Nd7 28.Rg1 Rh7 29.c5 Rxb3+ 30.cxb3 Nxc5+ 31.Rxc5 dxc5 32.Bxe7+ Kxe7 33.Rc1 Rh8 34.Rxc5 Rd8+ 35.Ke3 Rd7 36.Be2 Kd8 37.Rg5 f6 38.Rg6 e5 39.f5 a5 40.h6 gxh6 41.Rxf6 Rd4 42.Bd3 Rb4 43.Bc2 a4 44.bxa4 Rc4 45.Bd3 Rxa4 46.Rxh6 Ra3 47.Rd6+ Kc7 48.Re6 Bc6 49.Rxe5 Kd6 50.Re6+ Kd7 51.Kd4 Ra5 52.Re5 Ra4+ 53.Bc4 Kd6 54.f6 Rxc4+ 55.Kxc4 Kxe5 56.f7 Bd5+ 57.exd5 1-0

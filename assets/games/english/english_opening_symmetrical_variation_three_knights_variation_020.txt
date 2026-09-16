@@ -1,0 +1,15 @@
+[Event "Round 9: Arca, Christian Gian Karlo - Fedosov, Alexander"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-9/L65Z31Eb/qkI5UY09"]
+[Date "2026.07.24"]
+[Round "9.4"]
+[White "Arca, Christian Gian Karlo"]
+[Black "Fedosov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2385"]
+[BlackElo "2306"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Bb4 6.Nb5 O-O 7.a3 Bxc3+ 8.Nxc3 d5 9.Bg5 h6 10.Bxf6 Qxf6 11.cxd5 exd5 12.Qxd5 Rd8 13.Qb3 Nc6 14.e3 Be6 15.Qxb7 Rab8 16.Qxc6 Rxb2 17.Ne4 Re2+ 18.Kxe2 Bg4+ 19.f3 Qxc6 20.Kf2 Bf5 21.Ng3 Bg6 22.Be2 Qb6 23.Rhc1 Rd2 24.Rd1 Rb2 25.a4 a5 26.Rac1 Bc2 27.Rd4 g6 28.Nf1 Kg7 29.Nd2 Bb3 30.Rb1 Rxb1 31.Nxb1 Qc7 32.Nd2 Be6 33.h4 Qc2 34.Ke1 Qc3 35.Kf2 Qc2 36.Ke1 Qc3 37.Kf2 Qc2 1/2-1/2

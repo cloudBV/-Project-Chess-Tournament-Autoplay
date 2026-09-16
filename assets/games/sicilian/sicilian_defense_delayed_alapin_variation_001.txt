@@ -1,0 +1,15 @@
+[Event "Round 4: Yilmaz, Kerem Tuna - Unat, Can Haktan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/G72ZPiv3"]
+[Date "2026.07.01"]
+[Round "4.26"]
+[White "Yilmaz, Kerem Tuna"]
+[Black "Unat, Can Haktan"]
+[Result "1/2-1/2"]
+[WhiteElo "2061"]
+[BlackElo "2270"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 Nc6 7.Nb5 Qd8 8.dxc5 Bxc5 9.Qxd8+ Kxd8 10.Bg5 a6 11.Rd1+ Ke7 12.Nbd4 Nxd4 13.Nxd4 h6 14.Be3 Ba7 15.Be2 e5 16.Nc2 Be6 17.Bxa7 Rxa7 18.Ne3 g6 19.Nc4 Nd7 20.a4 Rc8 21.Ne3 Nc5 22.Ra1 f5 23.O-O f4 24.Nc4 f3 25.gxf3 Nb3 26.Nb6 Rc6 27.a5 Nxa5 28.Nd5+ Bxd5 29.Rxa5 Be6 30.Rxe5 Kf6 31.f4 Ra8 32.Rd1 Rg8 33.Re3 Rf8 34.Bf3 Rb6 35.b4 Rc8 36.Rde1 Rc7 37.Kg2 Rd6 38.Kg3 h5 39.h4 Bf5 40.Ra1 Rd2 41.Ra5 Rb2 42.Rd5 Rc2 43.Rd6+ Kg7 44.Rb6 R2xc3 45.Rxb7 Rxb7 46.Bxb7 Rc4 47.Rb3 Bc2 48.Rb2 Rc3+ 49.f3 Bd3 50.Kf2 Bb5 51.Be4 Be8 52.Ra2 Rb3 53.Rxa6 Rxb4 54.Ra7+ Kf6 55.Ra6+ Kg7 56.Ra5 Rb5 57.Ra1 Bf7 58.Rg1 Rb2+ 59.Ke3 Kf6 60.Ra1 Rh2 61.Ra6+ Kg7 1/2-1/2

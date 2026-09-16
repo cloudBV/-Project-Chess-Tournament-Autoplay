@@ -1,0 +1,15 @@
+[Event "Round 8: Sleeckx, Alexander - Van Coppenolle, Lander"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-8/ZKJee1B3/eZGtl6DY"]
+[Date "2026.07.21"]
+[Round "8.18"]
+[White "Sleeckx, Alexander"]
+[Black "Van Coppenolle, Lander"]
+[Result "0-1"]
+[WhiteElo "2052"]
+[BlackElo "2144"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Anti-Alapin Gambit"]
+
+1.e4 c5 2.c3 d5 3.exd5 Nf6 4.Qa4+ Nbd7 5.Qb3 Nb6 6.Bb5+ Bd7 7.c4 e6 8.dxe6 fxe6 9.Nf3 Bd6 10.O-O O-O 11.Bxd7 Qxd7 12.d4 cxd4 13.Nxd4 Bxh2+ 14.Kxh2 Qxd4 15.Na3 Ng4+ 16.Kg1 Rxf2 17.Be3 Rxf1+ 18.Rxf1 Nxe3 19.Nb5 Qd2 0-1

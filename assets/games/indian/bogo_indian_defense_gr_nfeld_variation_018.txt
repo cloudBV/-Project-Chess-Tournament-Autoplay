@@ -1,0 +1,14 @@
+[Event "Round 3: Barrientos, Sergio E - Moran, Daniel Steven"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-3/A0Ql119B/fzF3gQOO"]
+[Date "2026.07.11"]
+[Round "3.2"]
+[White "Barrientos, Sergio E"]
+[Black "Moran, Daniel Steven"]
+[Result "1-0"]
+[WhiteElo "2408"]
+[BlackElo "2090"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Bxd2 d6 7.Bg5 h6 8.Bh4 Nc6 9.e3 e5 10.Be2 Bg4 11.O-O Qe7 12.h3 Bf5 13.Re1 Kh8 14.b4 Rae8 15.b5 Nb8 16.Qa4 a6 17.bxa6 Nxa6 18.Qa5 Be4 19.c5 exd4 20.exd4 dxc5 21.Nd2 Qd6 22.Bxa6 bxa6 23.Bxf6 Qxf6 24.Nxe4 Qxd4 25.Qxc5 Qb2 26.Ng3 Kh7 27.Reb1 Qf6 28.Qxc7 Re7 29.Qc2+ g6 30.Re1 Rfe8 31.Red1 Re6 32.Rac1 R8e7 33.Qc3 Qg5 34.Rd8 Rf6 35.Rcd1 Qf4 36.Qd4 1-0

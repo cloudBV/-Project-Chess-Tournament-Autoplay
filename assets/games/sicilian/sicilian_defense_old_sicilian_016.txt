@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.11"]
+[Round "8.7"]
+[White "Raghav V"]
+[Black "Lissillour, Baptiste"]
+[Result "0-1"]
+[WhiteElo "2307"]
+[BlackElo "2264"]
+[ECO "B30"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 e6 4.O-O Nf6 5.Re1 Nxe4 6.Rxe4 d5 7.Bxd5 Qxd5 8.Nc3 Qf5 9.d4 cxd4 10.Nxd4 Nxd4 11.Rxd4 Be7 12.Rf4 Qe5 13.Be3 Bd7 14.Rg4 Bc6 15.Qd4 Bf6 16.Qxe5 Bxe5 17.Bd4 h5 18.Rh4 Bc7 19.Re1 O-O-O 20.b4 f6 21.b5 Bd7 22.Be3 Kb8 23.Rb1 b6 24.a4 Kb7 25.a5 Rc8 26.Na4 g5 27.Rd4 Rhd8 28.axb6 axb6 29.c4 e5 30.Rd2 Bf5 31.Rxd8 Rxd8 32.Ra1 Ra8 33.Ra2 Bd3 34.Nc3 Rxa2 35.Nxa2 Bxc4 36.Nc3 Bd8 37.g3 g4 38.f4 gxf3 39.Kf2 Kc7 40.Kxf3 Kd7 41.h3 f5 42.g4 hxg4+ 43.hxg4 f4 44.Bg1 Ke6 45.Ke4 Bf1 46.Kf3 Bd3 47.Bf2 Be7 48.Bxb6 Bb4 49.Ne2 Bd2 50.g5 Kf5 51.g6 e4+ 52.Kf2 e3+ 53.Kg1 Bxe2 54.g7 Bc4 55.Bc7 e2 0-1

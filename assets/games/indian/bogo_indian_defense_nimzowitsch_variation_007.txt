@@ -1,0 +1,15 @@
+[Event "26 Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.08"]
+[Round "6.4"]
+[White "Hidalgo Gracia, Andres"]
+[Black "Tallada Serret, Gerard"]
+[Result "1/2-1/2"]
+[WhiteElo "2144"]
+[BlackElo "2337"]
+[ECO "E11"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.e3 b6 6.Bd3 Bb7 7.O-O Bxd2 8.Nbxd2 d5 9.cxd5 Nxd5 10.a3 O-O 11.Qc2 h6 12.Ne5 Nd7 13.Nc6 Qd6 14.Rac1 e5 15.Nxe5 Nxe5 16.dxe5 Qxe5 17.Nf3 Qh5 18.b4 Rac8 19.Bh7+ Kh8 20.Bf5 Rce8 21.Bd7 Re7 22.Bc6 Bxc6 23.Qxc6 Re6 24.Qc4 Rg6 25.Kh1 Rg4 26.Qe2 Re8 27.g3 Rg6 28.Nd4 Qe5 29.Qf3 Rf6 30.Qg2 Ne7 31.Nc6 1/2-1/2

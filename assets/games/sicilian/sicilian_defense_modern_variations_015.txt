@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.08"]
+[Round "4.10"]
+[White "Avila Pavas, Santiago"]
+[Black "Lorente Melcon, Maximo"]
+[Result "1-0"]
+[WhiteElo "2502"]
+[BlackElo "2255"]
+[ECO "B50"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 Nc6 5.a4 e6 6.Nbd2 Be7 7.O-O O-O 8.Bb3 h6 9.Re1 a6 10.c3 e5 11.Nf1 Be6 12.Ng3 Qd7 13.Bxe6 Qxe6 14.c4 Rfe8 15.Bd2 a5 16.Nf5 Bf8 17.Ra3 Ra6 18.Rb3 Nb4 19.N3h4 Kh7 20.Qc1 Na2 21.Qd1 Nb4 22.Ne3 g6 23.Nf3 Qd7 24.Ra3 Rea8 25.Bc1 Bg7 26.h3 Nh5 27.Nd5 Nxd5 28.cxd5 Nf4 29.Nd2 Bf6 30.Nc4 Rg8 31.Rb3 Qxa4 32.Bxf4 exf4 33.Rxb7 Qe8 34.Qg4 Be5 35.Ra1 a4 36.Qe6 Ra8 37.Rxf7+ Kh8 38.Re7 Qb8 39.Nxe5 dxe5 40.Qf6+ 1-0

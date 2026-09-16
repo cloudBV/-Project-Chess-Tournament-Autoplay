@@ -1,0 +1,15 @@
+[Event "Round 4: Paragua, Mark - Lalit Babu M R"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-4/U5p4vRB1/ZThQkFtC"]
+[Date "2026.07.17"]
+[Round "4.2"]
+[White "Paragua, Mark"]
+[Black "Lalit Babu M R"]
+[Result "1/2-1/2"]
+[WhiteElo "2403"]
+[BlackElo "2513"]
+[ECO "A22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 Nf6 4.Bg2 O-O 5.e4 Bxc3 6.bxc3 c6 7.Ne2 d5 8.cxd5 cxd5 9.exd5 Nxd5 10.O-O Nc6 11.h3 Bf5 12.d4 exd4 13.Nxd4 Nxc3 14.Nxc6 bxc6 15.Qf3 Qd3 16.Qxd3 Bxd3 17.Re1 Rfe8 18.Re3 Re5 19.Rxe5 Re8 1/2-1/2

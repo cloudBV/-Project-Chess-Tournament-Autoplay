@@ -1,0 +1,15 @@
+[Event "Round 3: Rodriguez Rivera, Pedro - Jaquez, Juan Manuel"]
+[Site "https://lichess.org/broadcast/iii-torneo-internacional-jose-celso-barbosa-grupo-a/round-3/sstnyuh4/TBGZ7cSY"]
+[Date "2026.07.23"]
+[Round "3.1"]
+[White "Rodriguez Rivera, Pedro"]
+[Black "Jaquez, Juan Manuel"]
+[Result "0-1"]
+[WhiteElo "2144"]
+[BlackElo "2116"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 g6 3.Nc3 Bg7 4.e4 d6 5.Qd2 c6 6.Nf3 b5 7.a3 a6 8.Rd1 a5 9.Bd3 Bg4 10.Qe2 O-O 11.h3 Bxf3 12.Qxf3 Nfd7 13.Ne2 e5 14.Be3 b4 15.O-O Qe7 16.Qg3 Na6 17.f4 exd4 18.Bxd4 Nac5 19.Bxg7 Kxg7 20.Qe3 Rfe8 21.Ng3 f6 22.Rfe1 d5 23.Qf2 Nxd3 24.cxd3 Qd6 25.Rf1 Re7 26.axb4 axb4 27.Rc1 Ra5 28.Qd4 Rb5 29.h4 Nc5 30.e5 fxe5 31.fxe5 Qxe5 32.Qg4 h5 33.Nf5+ Qxf5 34.Qg3 Qxd3 35.Qd6 Qd4+ 36.Rf2 Rf7 37.Rf1 Ne4 38.Qe5+ Qxe5 39.Rxf7+ Kh6 40.Rd7 Rc5 41.b3 Rc2 0-1

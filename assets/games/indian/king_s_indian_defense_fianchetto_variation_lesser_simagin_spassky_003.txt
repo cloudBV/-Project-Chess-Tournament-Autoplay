@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.10"]
+[White "Khusenkhojaev, Muhammad"]
+[Black "Rasik, Vitezslav"]
+[Result "1-0"]
+[WhiteElo "2284"]
+[BlackElo "2381"]
+[ECO "E62"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Nf6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bf5 8.d5 Na5 9.b3 c5 10.Bd2 a6 11.Qe1 b5 12.e4 Bg4 13.cxb5 axb5 14.Nxb5 Qb6 15.Nc3 Bxf3 16.Bxf3 Nd7 17.Rb1 Rfb8 18.Be2 Qc7 19.Kg2 Nb7 20.a4 Nf6 21.Bb5 Nd8 22.Qe2 e6 23.f3 Qe7 24.Rfe1 Ne8 25.Bxe8 Qxe8 26.Nb5 Qe7 27.Qd3 e5 28.Rec1 Nb7 29.Be3 Qd7 30.Qd1 Bf6 31.b4 cxb4 32.Rc7 Qd8 33.Rxb4 Nc5 34.Rc6 Nxa4 35.Rxa4 Rxb5 36.Rxd6 Qxd6 37.Rxa8+ Kg7 38.Qc1 Rb8 39.Bh6+ Kg8 40.Qc6 Be7 41.Qe8+ 1-0

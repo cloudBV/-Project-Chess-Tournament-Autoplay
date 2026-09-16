@@ -1,0 +1,15 @@
+[Event "Round 9: Iolis, Oleg - Haan, Gertjan"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-9/rmnuZdLd/5kP16IZz"]
+[Date "2026.07.22"]
+[Round "9.19"]
+[White "Iolis, Oleg"]
+[Black "Haan, Gertjan"]
+[Result "1-0"]
+[WhiteElo "2138"]
+[BlackElo "2019"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.g4 b5 8.Nxc6 Qxc6 9.Qd2 b4 10.Ne2 Qxe4 11.Rg1 Qc6 12.Bg2 d5 13.O-O-O Bb7 14.g5 Rc8 15.Bd4 Ne7 16.Ng3 Ng6 17.f4 Bd6 18.Nh5 Bxf4 19.Nxf4 Nxf4 20.Bxg7 Rg8 21.Bf6 Nh5 22.Bxd5 Qxd5 23.Qxb4 Nxf6 24.Rxd5 Bxd5 25.Qa4+ Nd7 26.Qxa6 Ra8 27.Qd3 Rxa2 28.Qxh7 Ra1+ 29.Kd2 Rxg1 30.Qxg8+ Ke7 31.h4 Ne5 32.Qh8 Nf3+ 33.Ke3 Re1+ 34.Kf2 Rh1 35.c4 Be4 36.Qf6+ Ke8 37.g6 Bxg6 38.Qh8+ Kd7 39.Kxf3 Rf1+ 40.Ke3 Rf5 41.b4 Rh5 42.Qd4+ Kc8 43.b5 e5 44.Qc5+ Kd7 45.Qc6+ Ke7 46.c5 Rxh4 47.Qd6+ Ke8 48.Qxe5+ Kf8 49.c6 1-0

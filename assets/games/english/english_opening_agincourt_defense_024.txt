@@ -1,0 +1,14 @@
+[Event "Round 4: Papadopoulos, Panayotis - Kalodoukas, Odysseas"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/YeKj9tYe"]
+[Date "2026.07.07"]
+[Round "4.23"]
+[White "Papadopoulos, Panayotis"]
+[Black "Kalodoukas, Odysseas"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2203"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.e3 Nf6 4.Nc3 dxc4 5.Bxc4 c5 6.O-O Be7 7.d4 a6 8.a3 Nc6 9.dxc5 Qxd1 10.Rxd1 Bxc5 11.b4 Ba7 12.Bb2 O-O 13.Be2 b5 14.Ng5 Bb7 15.Bf3 Rad8 16.Nge4 Nxe4 17.Nxe4 Rxd1+ 18.Rxd1 Rd8 19.Rc1 Ba8 20.Kf1 Bb6 21.Ke2 Ne7 22.Be5 Bd5 23.Nd6 Bxf3+ 24.gxf3 f6 25.Bg3 e5 26.Ne4 a5 27.bxa5 Bxa5 28.Rb1 Rd5 29.Rb3 Nc8 30.f4 exf4 31.Bxf4 Kf7 32.Rb2 g5 33.Bg3 h6 34.Rc2 Ne7 35.Bc7 Bxc7 36.Rxc7 Ke6 37.Nc3 Re5 38.Rb7 Nf5 39.Nxb5 Re4 40.Nc3 Rc4 41.Rb6+ Ke5 42.Kd3 Rh4 43.a4 Rxh2 44.a5 Rh1 45.a6 Ra1 46.Nb5 Ne7 47.Nd4 Kd5 48.Rxf6 Ra3+ 49.Ke2 h5 50.Rh6 h4 51.Kf3 h3 52.Nb5 Ra1 53.Rxh3 Kc5 54.Nc7 Kd6 55.Rh7 Nc6 56.Nb5+ Kc5 57.Nc3 Rxa6 58.Ne4+ Kd5 59.Nxg5 Ke5 60.Ne4 Kf5 61.Ng3+ Kg6 62.Rb7 Ne5+ 63.Kg2 Ng4 64.Rb4 Nf6 65.Ne4 Nd5 66.Rd4 Ra5 67.Kg3 Kf5 68.Nd6+ Kf6 69.Nc4 Rc5 70.Nd2 Rb5 71.Rc4 Rb2 72.Rc6+ Kf5 73.e4+ 1-0

@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "18.3"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteElo "2820"]
+[BlackElo "2796"]
+[ECO "B12"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4 Bg6 5.Ne2 c5 6.h4 Nc6 7.h5 Be4 8.Rh3 h6 9.e6 fxe6 10.Nbc3 Bh7 11.dxc5 d4 12.Na4 Nb4 13.Bg2 Nxc2+ 14.Kf1 Nxa1 15.c6 bxc6 16.Nc5 Qd6 17.Ne4 Qb4 18.Nf4 e5 19.Ng6 Bxg6 20.hxg6 Qc4+ 21.Kg1 Qc2 22.Qe1 Nf6 23.Bd2 Rb8 24.g5 Nd5 25.Qxa1 Rxb2 26.Rb3 Rxb3 27.axb3 hxg5 28.Qa6 Kd7 29.Qb7+ Nc7 30.Ba5 Qb1+ 31.Bf1 Qxe4 32.Qxc7+ Ke6 33.Bg2 Qb1+ 34.Bf1 Rh1+ 35.Kxh1 Qxf1+ 36.Kh2 Qxf2+ 37.Kh1 Qf1+ 38.Kh2 Qe2+ 39.Kg1 Qd1+ 40.Kh2 Qc2+ 41.Kg1 Qxg6 42.Qxc6+ Kf7 43.Qd5+ Qe6 44.Qf3+ Kg8 45.Qe4 a6 46.Bd2 g6 47.Bxg5 Qf5 48.Qd5+ e6 49.Qd8 d3 50.Be7 e4 51.Kg2 Qf3+ 52.Kh2 Qf2+ 53.Kh3 Qf5+ 54.Kg2 e3 55.Bxf8 Qxf8 56.Qxd3 Qf2+ 57.Kh1 Qf3+ 58.Kh2 Qf4+ 59.Kg2 Qg4+ 60.Kh2 Qh5+ 61.Kg3 Qe5+ 62.Kh4 0-1

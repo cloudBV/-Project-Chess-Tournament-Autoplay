@@ -1,0 +1,14 @@
+[Event "Round 3: Nurman, Alua - Makhnev, Denis"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-3/W7lBwswB/wosGR9ml"]
+[Date "2026.07.02"]
+[Round "3.2"]
+[White "Nurman, Alua"]
+[Black "Makhnev, Denis"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2562"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Nbd2 d5 8.exd5 Nxd5 9.O-O O-O 10.a3 Bxd2 11.Bxd2 Bf5 12.Rc1 Nb6 13.Ba2 Qd6 14.Re1 Rad8 15.Bg5 Rd7 16.Rxc6 Qxc6 17.Ne5 Qb5 18.Nxd7 Bxd7 19.Qd2 Nc4 20.Bxc4 Qxc4 21.Rc1 Qd5 22.Rc5 Qa2 23.Rxc7 Bc6 24.Re7 f6 25.Bf4 Qd5 26.f3 Rd8 27.Re1 Qxd4+ 28.Qxd4 Rxd4 29.Be3 Ra4 30.Bc5 Ra5 31.b4 Ra4 32.Re3 a5 33.Kf2 1/2-1/2

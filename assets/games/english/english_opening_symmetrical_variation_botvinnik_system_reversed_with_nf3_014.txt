@@ -1,0 +1,15 @@
+[Event "Famalicao Open"]
+[Site "https://lichess.org/broadcast/xiii-torneio-internacional-cidade-de-famalicao/round-5/KqiJ34tw/uTTafu1p"]
+[Date "2026.07.23"]
+[Round "5.10"]
+[White "Ferreira, Eduardo Jose"]
+[Black "Almeida, Joao Pedro Dias"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2156"]
+[ECO "A37"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.g3 Bg7 5.Bg2 e5 6.O-O Nge7 7.Ne1 O-O 8.Nc2 d6 9.Ne3 a6 10.Ned5 Rb8 11.a4 Be6 12.d3 b6 13.Bg5 f6 14.Bd2 Qd7 15.Re1 Kh8 16.Ra3 Nc8 17.Qc1 Nd4 18.b4 b5 19.axb5 axb5 20.e3 bxc4 21.exd4 cxb4 22.Nxb4 Rxb4 23.Nd5 Ra4 24.dxc4 Bxd5 25.Bxd5 exd4 26.Rb3 Ra7 27.Qb2 f5 28.Rb8 Qc7 29.Be6 Ra2 30.Rxc8 Rxb2 31.Rxc7 Rxd2 32.Rb1 Re2 33.Bd5 d3 34.Kf1 Bd4 35.Rbb7 Rxf2+ 36.Ke1 Re8+ 37.Kd1 Rxh2 0-1

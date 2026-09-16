@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.15"]
+[Round "9.4"]
+[White "4k.c 9.15.1"]
+[Black "GinkgoHCE 5.71"]
+[Result "1/2-1/2"]
+[WhiteElo "3017"]
+[BlackElo "3344"]
+[ECO "E21"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 Ne4 5.Qc2 f5 6.g3 c5 7.Bg2 Qa5 8.Bd2 Bxc3 9.Bxc3 Nxc3 10.Qxc3 Qxc3+ 11.bxc3 Nc6 12.O-O b6 13.dxc5 bxc5 14.Rab1 Rb8 15.Rxb8 Nxb8 16.Rb1 Na6 17.Ne5 Rf8 18.Bb7 Kd8 19.Bxa6 Bxa6 20.Rd1 Bc8 21.Nd3 Ke7 22.Nxc5 f4 23.Rd4 Rf5 24.Nb3 g5 25.f3 Bb7 26.c5 Bd5 27.Nc1 Bc6 28.gxf4 gxf4 29.Nd3 e5 30.Rd6 e4 31.fxe4 Bxe4 32.Rh6 Bxd3 33.Rxh7+ Kf6 34.exd3 Rxc5 35.c4 Ra5 36.Kg2 d5 37.Kf3 dxc4 38.dxc4 Rxa2 39.Kxf4 a5 40.Ke4 1/2-1/2

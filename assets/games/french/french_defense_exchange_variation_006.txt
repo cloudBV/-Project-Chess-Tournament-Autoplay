@@ -1,0 +1,15 @@
+[Event "Round 8: Rostami, Mohsen - Metin, Enis"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/HvQXl8Vx"]
+[Date "2026.07.04"]
+[Round "8.46"]
+[White "Rostami, Mohsen"]
+[Black "Metin, Enis"]
+[Result "1/2-1/2"]
+[WhiteElo "2010"]
+[BlackElo "2184"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bf4 Nf6 5.Nc3 Be7 6.Bd3 O-O 7.Nge2 c5 8.dxc5 Bxc5 9.O-O Nc6 10.a3 Be6 11.Qd2 Re8 12.b4 Bf8 13.Rad1 a5 14.b5 Na7 15.Qc1 Nc8 16.Qa1 Nb6 17.Be3 Rc8 18.Bd4 Bd6 19.Ng3 Nc4 20.Nb1 Bf8 21.Nf5 Nh5 22.Ne3 Nf4 23.Nd2 Nxa3 24.Nf3 Nxd3 25.Rxd3 Nxb5 26.Bb2 Nd6 27.Nxd5 Bxd5 28.Rxd5 Rxc2 29.Nd4 Rxb2 30.Qxb2 Qe7 31.Nb5 Nc4 32.Qd4 Qb4 33.Nc7 Re1 34.g3 a4 35.Rxe1 Qxe1+ 36.Kg2 Qc1 37.Rd8 Ne3+ 38.Qxe3 Qxc7 39.Qe8 Qc5 40.Qxa4 b5 41.Qe4 b4 42.Rb8 g6 43.Rb7 Qc8 44.Qd5 Qe8 45.h4 h5 46.Kf3 Be7 47.Qe5 Qc6+ 48.Qe4 Qf6+ 49.Kg2 Bf8 50.Rb8 Kg7 51.Rb7 Kg8 52.Rb8 Kg7 53.Qe8 Qd6 54.Kh2 Qc5 55.Kg1 Qc1+ 56.Kg2 Qc5 57.Kg1 Qc1+ 58.Kg2 Qc5 59.Qe4 Qd6 60.Rb5 Kg8 61.Qd5 Qf6 62.Rb8 Kg7 63.Rb7 Kg8 64.Rb5 Kh7 65.Qf3 Qe6 66.Qd5 Qf6 67.Qe5 Qc6+ 68.Qd5 Qf6 1/2-1/2

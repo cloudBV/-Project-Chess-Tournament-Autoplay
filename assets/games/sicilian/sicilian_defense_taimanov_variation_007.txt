@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-6/0eAyYAIf/4min9fmT"]
+[Date "2026.07.03"]
+[Round "6.9"]
+[White "Pallares Jover, Adrian"]
+[Black "Ordiz Fernandez, Roque"]
+[Result "1/2-1/2"]
+[WhiteElo "2146"]
+[BlackElo "2199"]
+[ECO "B46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.a3 Qc7 7.Be3 Nf6 8.f4 d6 9.Be2 Be7 10.Bf3 O-O 11.O-O Bd7 12.Nde2 Na5 13.b3 Bc6 14.g4 d5 15.e5 Ne4 16.Bxe4 dxe4 17.Nd4 b5 18.Qe1 Bb7 19.Nce2 Nc6 20.a4 b4 21.Qg3 Nxd4 22.Nxd4 Qc3 23.Bf2 Rac8 24.Rad1 Qxg3+ 25.hxg3 Bc5 26.Rd2 Bd5 27.g5 Rc7 28.Be3 Rfc8 29.Rff2 Ba7 30.Rfe2 g6 31.Kf2 Rd7 32.Re1 Bb7 33.Red1 Bxd4 34.Bxd4 Rdc7 35.Ke3 Bd5 36.a5 Rxc2 37.Rb1 Rc1 38.Rd1 Rxd1 39.Rxd1 Rc2 40.Rd2 Rc1 41.Ra2 Kf8 42.Ra4 Rd1 43.Rxb4 Rd3+ 44.Kf2 Rf3+ 45.Ke2 Rxg3 46.Be3 Rg2+ 47.Bf2 Rh2 1/2-1/2

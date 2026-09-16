@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.16"]
+[White "Miasik, Adrian"]
+[Black "Bodnar, Zoltan"]
+[Result "0-1"]
+[WhiteElo "2064"]
+[BlackElo "2153"]
+[ECO "E60"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 d5 4.cxd5 Bg7 5.Nc3 Nxd5 6.h5 Nxc3 7.bxc3 c5 8.e3 Qc7 9.Nf3 b6 10.Bc4 e6 11.Qb3 Bb7 12.dxc5 bxc5 13.hxg6 hxg6 14.Rxh8+ Bxh8 15.Ba3 Qb6 16.Rb1 Bxc3+ 17.Ke2 Nd7 18.Bb5 Ba6 19.Qxc3 Bxb5+ 20.Ke1 O-O-O 21.Nd2 Qc6 22.Ne4 Qxe4 23.Rxb5 Qxg2 24.Bxc5 Qc6 25.Qa5 a6 26.Be7 Rh8 27.Rb3 Rh1+ 28.Ke2 Qc4+ 29.Rd3 Qg4+ 30.Kd2 Rd1+ 31.Kc3 Rxd3+ 32.Kxd3 Qd1+ 33.Kc4 Qc2+ 34.Kd4 e5+ 35.Kd5 Qd3+ 36.Kc6 Qc4+ 37.Bc5 Nb8+ 38.Kb6 Qe6+ 39.Ka7 Nc6+ 0-1

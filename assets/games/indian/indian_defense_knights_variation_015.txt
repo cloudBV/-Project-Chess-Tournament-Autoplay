@@ -1,0 +1,15 @@
+[Event "Round 7: Akbas, Kaan - Yesil, Mehdi"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/HLyLqmd4"]
+[Date "2026.07.17"]
+[Round "7.25"]
+[White "Akbas, Kaan"]
+[Black "Yesil, Mehdi"]
+[Result "1-0"]
+[WhiteElo "2174"]
+[BlackElo "2041"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.c4 b6 7.Ne5 Bb7 8.Nc3 c6 9.e4 Nbd7 10.Nxd7 Qxd7 11.e5 Ne8 12.cxd5 cxd5 13.h4 Nc7 14.h5 Ba6 15.Re1 h6 16.Bf4 Kh8 17.Qd2 Qd8 18.Nd1 Bg5 19.Rc1 Bxf4 20.Qxf4 Qe7 21.Ne3 Rac8 22.a4 Kg8 23.Ng4 Qg5 24.Qxg5 hxg5 25.f4 gxf4 26.gxf4 Rfd8 27.Rc3 Ne8 28.Rg3 Kf8 29.Ne3 f5 30.Kf2 Bd3 31.Rh1 Kf7 32.h6 gxh6 33.Rxh6 Ng7 34.Rf6+ Kg8 35.Rxe6 Be4 36.Re7 1-0

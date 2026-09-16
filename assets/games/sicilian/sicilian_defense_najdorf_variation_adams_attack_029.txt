@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.17"]
+[Round "2"]
+[White "Trkulja, Goran"]
+[Black "Labrovic, Jakov"]
+[Result "1-0"]
+[WhiteElo "2265"]
+[BlackElo "2004"]
+[ECO "B90"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 Nc6 8.Bg2 Qc7 9.O-O Be7 10.Be3 O-O 11.f4 Na5 12.Qd3 Nc4 13.Bc1 e5 14.Nf5 Bxf5 15.exf5 Rac8 16.g5 Nh5 17.Nd5 Qc5+ 18.Kh2 Bd8 19.b3 Nb6 20.Be3 Qxc2 21.Qxc2 Rxc2 22.Nxb6 Bxb6 23.Bxb6 Nxf4 24.Rf2 Rfc8 25.Bxb7 R8c3 26.Rxc2 Rxc2+ 27.Kh1 f6 28.gxf6 gxf6 29.Be3 Nxh3 30.b4 Re2 31.Bg1 Rb2 32.Bxa6 Rxb4 33.Bf1 Ng5 34.a4 d5 35.Bg2 e4 36.a5 Rb8 37.a6 Nf7 38.a7 Ra8 39.Rb1 Rxa7 40.Bxa7 Nd6 41.Rd1 Nxf5 42.Rxd5 1-0

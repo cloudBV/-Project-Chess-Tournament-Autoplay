@@ -1,0 +1,15 @@
+[Event "Round 4: Zeynalli, Rashad - Ling, Chenxuan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/mFSpoBH2"]
+[Date "2026.07.01"]
+[Round "4.44"]
+[White "Zeynalli, Rashad"]
+[Black "Ling, Chenxuan"]
+[Result "1/2-1/2"]
+[WhiteElo "2269"]
+[BlackElo "2166"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 g6 5.e5 Ng4 6.Bxc6 dxc6 7.O-O Bg7 8.Re1 O-O 9.d3 Nh6 10.Ne4 b6 11.Bf4 f6 12.e6 Nf5 13.a4 c4 14.dxc4 Bxe6 15.Ng3 Bd7 16.Nxf5 Bxf5 17.Nd4 Qd7 18.Nxf5 Qxf5 19.Be3 Rfd8 20.Qe2 c5 21.a5 e5 22.axb6 axb6 23.Rxa8 Rxa8 24.Qd2 Qe6 25.b3 Bf8 26.f4 e4 27.Rd1 f5 28.Kf2 Be7 29.Qd7 Qxd7 30.Rxd7 Kf7 31.Ke2 Rb8 32.Ra7 Ke6 33.Kd2 Kd6 34.Ke2 h5 35.Bd2 Bf6 36.Be1 Ke6 37.h3 Kd6 38.Bf2 Ke6 39.Be1 Rd8 40.Rc7 Rd7 41.Rc8 Rd8 42.Rc6+ Rd6 43.Rc8 Rd8 1/2-1/2

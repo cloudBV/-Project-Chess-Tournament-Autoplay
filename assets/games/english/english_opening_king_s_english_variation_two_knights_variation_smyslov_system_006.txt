@@ -1,0 +1,14 @@
+[Event "Round 4: Peglau, Charis - Dolzhykova, Kateryna"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-4/SvG29u3H/dQu71aN7"]
+[Date "2026.07.20"]
+[Round "4.5"]
+[White "Peglau, Charis"]
+[Black "Dolzhykova, Kateryna"]
+[Result "1/2-1/2"]
+[WhiteElo "2169"]
+[BlackElo "2290"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.a3 Bxc3 6.bxc3 Nc6 7.d3 d6 8.Rb1 h6 9.e4 Rb8 10.f4 exf4 11.Bxf4 Ne5 12.Ne2 Nh7 13.O-O Ng5 14.Bxg5 Qxg5 15.Nf4 c6 16.Qe2 Re8 17.d4 Bg4 18.Qa2 Ng6 19.Rf2 Nxf4 20.Rxf4 c5 21.Qf2 f6 22.Bf3 Bxf3 23.Qxf3 Qg6 24.Rf5 b6 25.Rf1 Rbc8 26.Qd3 Kh8 27.R1f4 Re6 28.Rh4 Rce8 29.Qf3 R8e7 30.d5 Re5 31.Rxe5 Rxe5 32.Qd3 Qe8 33.Qc2 f5 34.Kf2 fxe4 35.Ke3 Qg6 36.Rxe4 Qg5+ 37.Kf3 Qf5+ 38.Ke3 Qg5+ 39.Kf3 Qh5+ 40.Ke3 Qf5 41.Qg2 Qg5+ 1/2-1/2

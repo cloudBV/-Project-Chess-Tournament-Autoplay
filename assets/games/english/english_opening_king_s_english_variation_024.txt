@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.5"]
+[White "Hovakimyan, Vache"]
+[Black "Lyakh, Vasiliy"]
+[Result "1-0"]
+[WhiteElo "2185"]
+[BlackElo "2334"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 exd4 5.Qxd4 d5 6.Nf3 Be7 7.O-O O-O 8.Nc3 dxc4 9.Qxc4 Be6 10.Qf4 Bd6 11.Qh4 Nbd7 12.Nd4 Qe7 13.Rd1 Bc7 14.b3 Rfe8 15.Bb2 Ne5 16.Nxe6 Qxe6 17.Qb4 Bb6 18.e3 Rad8 19.Ne4 Nd5 20.Qa4 Ng4 21.Bd4 Ne5 22.b4 h6 23.a3 Bxd4 24.Rxd4 a6 25.Nc5 Qe7 26.Rc1 Nf6 27.Rcd1 Rxd4 28.Rxd4 Ng6 29.Qa5 Ne5 30.Qb6 Rb8 31.Qa7 Qe8 32.Qb6 Ned7 33.Qc7 Nxc5 34.bxc5 Qc8 35.Qd6 Qe8 36.h3 Rc8 37.Qf4 Rd8 38.Rd6 Rxd6 39.Qxd6 Qd7 40.Qb8+ 1-0

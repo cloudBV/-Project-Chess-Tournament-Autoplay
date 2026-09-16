@@ -1,0 +1,15 @@
+[Event "Round 4: Sakline Mostafa, Sajid - Kurbanbaev, Zalkar"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b18/round-4/gdamaPvY/LKvDenPP"]
+[Date "2026.07.16"]
+[Round "4.20"]
+[White "Sakline Mostafa, Sajid"]
+[Black "Kurbanbaev, Zalkar"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2057"]
+[ECO "A05"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 O-O 5.O-O d6 6.d4 Nc6 7.d5 Na5 8.Na3 c5 9.Re1 e5 10.e4 a6 11.Bd2 b6 12.b3 Bd7 13.h3 Ne8 14.Rb1 Nb7 15.Nc2 b5 16.Qc1 Nc7 17.Kh2 Ra7 18.Be3 a5 19.cxb5 Nxb5 20.Na3 Nd4 21.Nc4 a4 22.b4 cxb4 23.Nxd4 exd4 24.Bf4 b3 25.axb3 Nc5 26.Rd1 Nxb3 27.Qa3 Bb5 28.Nxd6 Qb6 29.Nxb5 Qxb5 30.Bf1 Qa5 31.Bc4 h6 32.Bxb3 axb3 33.Qxb3 Re8 34.Qd3 Qc3 35.Rb8 Re7 36.d6 Qxd3 37.Rxe8+ Rxe8 38.Rxd3 Rd8 39.h4 g5 40.hxg5 hxg5 41.Bxg5 Rxd6 42.Kg2 Rc6 43.Bd2 Rc2 44.f4 Kf8 45.Kf3 Ke7 46.g4 Ke6 47.f5+ Kd6 48.Bb4+ Kc6 49.g5 Be5 50.Be7 Kb5 51.f6 Kc4 52.Ra3 Rc1 53.Kf2 Rc2+ 54.Kf3 Rc1 55.Ra5 Rf1+ 56.Ke2 Bf4 57.Kxf1 1-0

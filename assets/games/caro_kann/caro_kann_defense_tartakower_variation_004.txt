@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "5.13"]
+[White "Dushyant Sharma"]
+[Black "Rostomyan, Mikayel"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2293"]
+[ECO "B15"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bf5 7.Ne2 Bd6 8.Ng3 Bg6 9.Qe2+ Kf8 10.h4 h5 11.Qf3 Qc7 12.Be2 Nd7 13.O-O Re8 14.Be3 Bxg3 15.fxg3 Be4 16.Qf2 f5 17.Bf4 Qc8 18.Rae1 Nf6 19.Be5 Qe6 20.Bxf6 Qxf6 21.Bf3 Bxf3 22.Qxf3 g6 23.Rxe8+ Kxe8 24.d5 Kf8 25.dxc6 bxc6 26.Rd1 Kg7 27.Qf4 Re8 28.Rd6 Qe7 29.Qd4+ Kg8 30.Rxc6 Rd8 31.Qc4 f4 32.Rxg6+ Kh7 33.Rg5 f6 34.Rxh5+ Kg6 35.Rd5 Qe1+ 0-1

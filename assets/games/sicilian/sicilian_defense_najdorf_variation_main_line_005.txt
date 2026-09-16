@@ -1,0 +1,15 @@
+[Event "Round 2: Glick, Michael - Mullodzhanov, Nathaniel"]
+[Site "https://lichess.org/broadcast/marshall-masters-2026-jul/round-2/J04mwCBs/hImd1YT8"]
+[Date "2026.07.22"]
+[Round "2.4"]
+[White "Glick, Michael"]
+[Black "Mullodzhanov, Nathaniel"]
+[Result "0-1"]
+[WhiteElo "2055"]
+[BlackElo "2178"]
+[ECO "B99"]
+[TimeControl "25+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 Nb6 11.Bxf6 Bxf6 12.g5 Be7 13.f5 Bxg5+ 14.Kb1 e5 15.Nb3 Bd7 16.Qd3 Ke7 17.h4 Bf6 18.Na5 Bc6 19.Rh3 Rhc8 20.Qd2 Rd8 21.Nc4 Rac8 22.Ne3 Kf8 23.Ng4 d5 24.Nxf6 gxf6 25.exd5 Nxd5 26.Nxd5 Rxd5 27.Qh6+ Ke7 28.Rc1 Rdd8 29.Bc4 Bd5 30.Bxd5 Rxd5 31.Qxh7 Qxc2+ 0-1

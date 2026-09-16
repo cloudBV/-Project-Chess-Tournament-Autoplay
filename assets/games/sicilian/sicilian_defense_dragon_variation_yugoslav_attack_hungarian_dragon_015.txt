@@ -1,0 +1,14 @@
+[Event "Round 9: Bin-Suhayl, Ieysaa - Ivanisevic, Ivan"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/PQ22s5Ok"]
+[Date "2026.07.22"]
+[Round "9.16"]
+[White "Bin-Suhayl, Ieysaa"]
+[Black "Ivanisevic, Ivan"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2517"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.Nf3 g6 2.e4 c5 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f3 Nc6 7.Be3 h5 8.Qd2 Nxd4 9.Qxd4 Bg7 10.Qd2 O-O 11.Bh6 Be6 12.Bxg7 Kxg7 13.O-O-O Qa5 14.a3 Rfc8 15.Kb1 a6 16.Ne2 Qxd2 17.Rxd2 h4 18.b3 d5 19.e5 Nd7 20.f4 Nc5 21.Kb2 Ne4 22.Rd4 Bf5 23.Rg1 Nc5 24.g4 Be4 25.Rd2 e6 26.Nc3 b5 27.b4 Na4+ 28.Nxa4 bxa4 29.c3 Rc7 30.Be2 g5 31.fxg5 Kg6 32.Rc1 Kxg5 33.c4 Kf4 34.c5 Kxe5 35.Bd1 Rg8 36.h3 f5 37.gxf5 exf5 38.Bxa4 Rg3 39.Bb3 Rxh3 40.a4 Rb7 41.Ka3 Rg7 42.b5 Rgg3 43.Rb2 d4 44.c6 Bd5 45.c7 Rxb3+ 46.Rxb3 Rxb3+ 47.Ka2 Rc3+ 48.Kb2 Rxc1 49.Kxc1 Bb7 0-1

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.01.28"]
+[Round "8.1"]
+[White "Iniyan, Pa"]
+[Black "Razafindratsima, Timothe"]
+[Result "1-0"]
+[WhiteElo "2581"]
+[BlackElo "2523"]
+[ECO "E26"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, O'Kelly Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.a3 Bxc3+ 6.bxc3 b6 7.Rb1 O-O 8.Bd3 Bb7 9.f3 Qe7 10.e4 Nc6 11.Ne2 Ne8 12.O-O Na5 13.f4 f5 14.exf5 exf5 15.Ng3 g6 16.Re1 Qf7 17.dxc5 Nxc4 18.Qa4 Na5 19.cxb6 axb6 20.Rxb6 Nf6 21.c4 d5 22.cxd5 Nxd5 23.Rbe6 Rfc8 24.Bd2 Nc4 25.Qd1 Nb2 26.Qb3 Nxd3 27.Qxd3 Re8 28.R6e5 Rxe5 29.Rxe5 Nf6 30.h3 Ne4 31.Bb4 Nxg3 32.Qxg3 Re8 33.Qe3 Be4 34.Qd4 Rxe5 35.Qxe5 Qd7 36.Bc3 h5 37.Qf6 Qh7 38.Qd8+ 1-0

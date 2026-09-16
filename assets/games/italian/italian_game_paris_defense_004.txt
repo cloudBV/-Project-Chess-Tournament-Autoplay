@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "5.1"]
+[White "Nielsen, Andre"]
+[Black "Oye-Stromberg, Alexander"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2294"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.c3 f5 5.exf5 Bxf5 6.O-O e4 7.Re1 Nge7 8.Nh4 d5 9.Nxf5 Nxf5 10.Bb3 Bc5 11.d4 Bb6 12.Qg4 Qd7 13.f3 O-O-O 14.fxe4 dxe4 15.Nd2 h5 16.Qg6 Rh6 17.Qf7 Qxf7 18.Bxf7 Ne5 19.Bb3 Nxd4 20.cxd4 Rxd4 21.Nf1 Rd3+ 22.Be3 Rxe3 23.Rxe3 Ng4 24.Re1 Rd6 25.h3 Nxe3 26.Nxe3 Rd3 27.Kf2 Kd7 28.Bc2 Rd2+ 29.Re2 Rd4 30.Kg3 Ke6 31.Nc4 Kf5 32.Rxe4 Rxe4 33.Nxb6 axb6 34.Kf3 1-0

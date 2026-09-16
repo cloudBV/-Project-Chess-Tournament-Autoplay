@@ -1,0 +1,15 @@
+[Event "Round 8: Bayrakoglu, Cinar - Asgari, Morteza"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/UTJYh5UF"]
+[Date "2026.07.18"]
+[Round "8.21"]
+[White "Bayrakoglu, Cinar"]
+[Black "Asgari, Morteza"]
+[Result "1/2-1/2"]
+[WhiteElo "2058"]
+[BlackElo "2169"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kronberger Variation"]
+
+1.e4 c5 2.Na3 Nc6 3.Nf3 d6 4.Bb5 Bd7 5.O-O Nf6 6.Re1 Rc8 7.c3 a6 8.Bf1 Bg4 9.h3 Bxf3 10.Qxf3 e6 11.Nc2 d5 12.e5 Nd7 13.Qg3 g6 14.d4 cxd4 15.Nxd4 Bg7 16.Bf4 O-O 17.Rad1 Qc7 18.Nxc6 bxc6 19.c4 Qb7 20.Qa3 a5 21.cxd5 cxd5 22.Qxa5 Qxb2 23.Qb5 Qxb5 24.Bxb5 Nb6 25.a4 Nxa4 26.Bxa4 Rc4 27.Be3 Rxa4 28.Bc5 Rd8 29.Rc1 g5 30.Be7 Re8 31.Bxg5 h6 32.Bd2 Ra2 33.Bf4 Rd8 34.Ra1 Rc2 35.Rec1 Re2 36.Re1 Rc2 37.Rec1 Rxc1+ 38.Rxc1 Kh7 39.g4 Kg6 40.Kg2 h5 41.Bg3 hxg4 42.hxg4 Rb8 43.f4 Rb2+ 44.Kf3 Rb3+ 45.Kg2 Re3 46.Rc7 Bh8 47.Kf2 Re4 48.Kf3 Rb4 49.f5+ exf5 50.gxf5+ Kxf5 51.Rxf7+ Ke6 52.Rf8 Bg7 53.Re8+ Kf5 54.e6 Rb3+ 55.Kg2 Re3 56.e7 Bf6 57.Rd8 Rxe7 58.Rxd5+ Kg4 59.Rd2 1/2-1/2

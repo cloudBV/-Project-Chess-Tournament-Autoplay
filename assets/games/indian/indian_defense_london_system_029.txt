@@ -1,0 +1,14 @@
+[Event "Round 4: Kannenberg, Karl-Heinz - Brueggemann, Joachim"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/sJKH5Kqr"]
+[Date "2026.07.20"]
+[Round "4.7"]
+[White "Kannenberg, Karl-Heinz"]
+[Black "Brueggemann, Joachim"]
+[Result "0-1"]
+[WhiteElo "2074"]
+[BlackElo "2244"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.e3 Bb7 5.Bd3 Be7 6.h3 c5 7.c3 O-O 8.O-O cxd4 9.cxd4 Ba6 10.Nc3 d6 11.a3 Bxd3 12.Qxd3 Nc6 13.d5 exd5 14.Nxd5 Ne5 15.Nxe7+ Qxe7 16.Qd1 Rac8 17.Nd4 Qd7 18.Qb3 Rc5 19.Rad1 Re8 20.a4 h6 21.Nb5 Nf3+ 22.gxf3 Qxh3 23.Nxd6 Re6 0-1

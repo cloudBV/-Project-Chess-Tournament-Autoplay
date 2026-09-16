@@ -1,0 +1,14 @@
+[Event "Round 7: Baklan, Vladimir - Katsanis, Vasileios Dim"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/iatrxRp8"]
+[Date "2026.07.23"]
+[Round "7.4"]
+[White "Baklan, Vladimir"]
+[Black "Katsanis, Vasileios Dim"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2363"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.g3 cxd4 7.cxd4 Nge7 8.Bh3 Nf5 9.Bxf5 exf5 10.Nc3 Be6 11.O-O Be7 12.Ne2 h6 13.h4 O-O 14.Nf4 Rfc8 15.Kg2 a5 16.Rb1 a4 17.Bd2 Qb5 18.a3 Rc7 19.Bc3 Na5 20.Bxa5 Qxa5 21.Ne1 Rc4 22.Nc2 Qb6 23.Re1 Ra5 24.Re2 Rb5 25.Rd2 Rb3 26.Ne3 Rc7 27.Rc1 Rd7 28.Rcc2 g6 29.Qc1 Kg7 30.Rc8 Bd8 31.Qc2 Qa6 32.h5 Ba5 33.hxg6 fxg6 34.Qc5 Rf7 35.Rc2 Bxc8 36.Qxc8 Rb6 37.e6 Re7 38.Rc7 Rxe6 39.Nxe6+ 1-0

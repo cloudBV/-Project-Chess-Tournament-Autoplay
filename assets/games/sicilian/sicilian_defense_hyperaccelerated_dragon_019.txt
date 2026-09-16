@@ -1,0 +1,14 @@
+[Event "Round 9: Lizzul Coppe, Mirko - Hercegovac, Neven"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/mRaVDvuk"]
+[Date "2026.07.12"]
+[Round "9.8"]
+[White "Lizzul Coppe, Mirko"]
+[Black "Hercegovac, Neven"]
+[Result "1/2-1/2"]
+[WhiteElo "2130"]
+[BlackElo "2316"]
+[ECO "B27"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.e5 Bg4 5.Bb5+ Nc6 6.Bxc6+ bxc6 7.d4 cxd4 8.cxd4 Qb6 9.Nbd2 Qb5 10.a4 Qa6 11.Qe2 Qxe2+ 12.Kxe2 e6 13.h3 Bxf3+ 14.Nxf3 Rb8 15.Ne1 Bb4 16.Nd3 Ne7 17.g4 Kd7 18.Bd2 Bxd2 19.Kxd2 a5 1/2-1/2

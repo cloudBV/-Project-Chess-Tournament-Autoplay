@@ -1,0 +1,15 @@
+[Event "Round 5: Advik Amit Agrawal - Gupta, Abhijeet"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-5/TE8ywwR3/MUXMnRJN"]
+[Date "2026.07.04"]
+[Round "5.3"]
+[White "Advik Amit Agrawal"]
+[Black "Gupta, Abhijeet"]
+[Result "0-1"]
+[WhiteElo "2318"]
+[BlackElo "2529"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 c5 6.dxc5 Bxc5 7.O-O O-O 8.Nbd2 Nc6 9.c3 Bg4 10.Nb3 Bb6 11.Bg5 h6 12.Bh4 g5 13.Bg3 Ne4 14.Bxe4 dxe4 15.Qxd8 Rfxd8 16.Ne5 Be6 17.Nxc6 bxc6 18.Nd4 Bxd4 19.cxd4 Rxd4 20.Be5 Rd3 21.a3 Re8 22.Rfe1 Bd5 23.Bc3 c5 24.Rad1 c4 25.Rd2 f5 26.Rde2 Bc6 27.Rc1 Kf7 28.Bb4 Bd5 29.Bc3 Re6 30.Rce1 Kg6 31.Rc2 f4 32.Rce2 Kf5 33.Rc2 h5 34.Rce2 a6 35.Kf1 Bc6 36.Kg1 Ba4 37.Rc1 Bd1 38.Re1 Bb3 39.Bb4 h4 40.Rc3 Re5 41.Kf1 a5 42.Rxd3 cxd3 43.Bd2 a4 44.Kg1 Rb5 45.h3 Bf7 46.Bc3 Bh5 47.Kf1 Be2+ 48.Rxe2 dxe2+ 49.Kxe2 g4 50.hxg4+ Kxg4 51.f3+ exf3+ 52.gxf3+ Kg3 53.Be1+ Kg2 0-1

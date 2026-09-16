@@ -1,0 +1,14 @@
+[Event "Round 3: Bu, Xiangzhi - Gautier, Anand"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-3/ouxGQVoQ/Sjx0FkBP"]
+[Date "2026.07.12"]
+[Round "3.3"]
+[White "Bu, Xiangzhi"]
+[Black "Gautier, Anand"]
+[Result "1-0"]
+[WhiteElo "2583"]
+[BlackElo "2223"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nf3 Nc6 7.O-O e5 8.dxe5 Nxe5 9.b3 Nxf3+ 10.Bxf3 Bh3 11.Re1 c6 12.Be3 Qa5 13.Rc1 Rfe8 14.Qd2 Re6 15.Nd5 Qxd2 16.Nxf6+ Bxf6 17.Bxd2 h5 18.Bg2 Bxg2 19.Kxg2 Rae8 20.e3 Bg7 21.Red1 f5 22.Bb4 Bf8 23.Rc2 Kf7 24.Rcd2 Rd8 25.Kf3 Be7 26.h3 a6 27.Ba5 Rc8 28.Bb6 Bd8 29.Bd4 b5 30.g4 hxg4+ 31.hxg4 fxg4+ 32.Kxg4 Be7 33.Kf3 Bf6 34.Rc2 Bxd4 35.Rxd4 Ke7 36.Rh4 Rf6+ 37.Ke2 c5 38.f4 Ra8 39.Kd3 b4 40.Rg2 a5 41.Rh7+ Ke6 42.Rg7 a4 43.bxa4 Rxa4 44.Ke4 Ra3 45.R2xg6 Rxg6 46.f5+ Kf6 47.Rxg6+ Ke7 48.Rg7+ Ke8 49.Kd5 Rxe3 50.Kxd6 Rf3 51.Re7+ Kd8 52.Re5 Rf2 53.Kxc5 Rxa2 54.Kxb4 Kd7 55.Kb5 Rb2+ 56.Kc5 Rf2 57.Kb6 Rb2+ 58.Rb5 Rc2 59.Rd5+ Kc8 60.c5 Rh2 61.f6 Rf2 62.Rd6 Rf1 63.Kc6 Rf5 64.Re6 Kd8 65.Kb6 Kd7 66.Rd6+ Kc8 67.c6 Rf1 68.Re6 Rb1+ 69.Kc5 Rc1+ 70.Kd6 Rd1+ 71.Ke7 Kc7 72.f7 1-0

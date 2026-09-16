@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.12"]
+[White "Chassard, Cedric"]
+[Black "Kogan, Arthur"]
+[Result "1-0"]
+[WhiteElo "2262"]
+[BlackElo "2477"]
+[ECO "B92"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.O-O Nbd7 9.Qd3 Rc8 10.Nd5 Bxd5 11.exd5 g6 12.Bd2 Bg7 13.Rac1 O-O 14.c4 b6 15.f4 Re8 16.Qh3 exf4 17.Rce1 g5 18.Nd4 Ne4 19.Nc6 Qc7 20.Bg4 Nef6 21.Ne7+ Rxe7 22.Rxe7 Nxg4 23.Qxg4 Qc5+ 24.Kh1 Qxc4 25.Ree1 Ne5 26.Qxg5 Qxd5 27.Bxf4 h6 28.Qf5 Qe6 29.Qxe6 fxe6 30.Rc1 Rd8 31.Rfd1 Nf7 32.Rc6 e5 33.Be3 b5 34.Rd5 Ra8 35.g4 Kh7 36.Kg2 e4 37.Bd4 Re8 38.Kf2 Ne5 39.Rcxd6 Nxg4+ 40.Ke2 Bxd4 41.Rxd4 Nxh2 42.Rxa6 Re7 43.Rd5 Nf3 44.Rh5 Nd4+ 45.Ke3 Nc2+ 46.Kd2 Nd4 47.Raxh6+ Kg8 48.Rh8+ Kf7 49.R8h7+ 1-0

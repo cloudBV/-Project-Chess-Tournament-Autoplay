@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "4.17"]
+[White "Muthukumar, Haari"]
+[Black "Karthik Venkataraman"]
+[Result "1/2-1/2"]
+[WhiteElo "2231"]
+[BlackElo "2566"]
+[ECO "A35"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 d6 6.e4 g6 7.Be2 Bg7 8.Be3 O-O 9.O-O Bd7 10.h3 a6 11.Nc2 Rb8 12.a3 b5 13.cxb5 axb5 14.Nb4 Nxb4 15.axb4 Bc6 16.Qd3 Qd7 17.f4 Qe6 18.Bf3 Rfc8 19.Ra6 Qb3 20.Rxc6 Rxc6 21.e5 Ra6 22.exf6 Bxf6 23.f5 Qxb2 24.Nd5 Ra1 1/2-1/2

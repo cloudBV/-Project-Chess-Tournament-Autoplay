@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "5.1"]
+[White "Raczek, Krzysztof"]
+[Black "Zieba, Hubert"]
+[Result "1/2-1/2"]
+[WhiteElo "2428"]
+[BlackElo "2198"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 c5 5.Nbd2 cxd4 6.exd4 Qb6 7.Rb1 Bd7 8.c3 Bb5 9.h4 Bxf1 10.Kxf1 Bd6 11.Bxd6 Qxd6 12.h5 h6 13.Qb3 Qb6 14.Qxb6 axb6 15.a3 Nc6 16.Nb3 Na5 17.Nc1 Nc4 18.Nd3 Ke7 19.Ke2 Ne4 20.Rbc1 Rhe8 21.Nfe5 Nxe5 22.Nxe5 Nd6 23.Rce1 Nc4 24.Nxc4 dxc4 25.f4 Ra5 26.Kf3 Rd8 27.Re5 Rdd5 28.Rhe1 Rab5 29.Rxd5 Rxd5 30.Re5 f6 31.Rxd5 exd5 1/2-1/2

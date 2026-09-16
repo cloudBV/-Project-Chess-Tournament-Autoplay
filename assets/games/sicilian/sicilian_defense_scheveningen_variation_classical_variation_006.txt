@@ -1,0 +1,15 @@
+[Event "Round 4: Talibov, Shiroghlan - Primbetov, Kazbek"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/2s7rDTq7"]
+[Date "2026.07.15"]
+[Round "4.8"]
+[White "Talibov, Shiroghlan"]
+[Black "Primbetov, Kazbek"]
+[Result "1-0"]
+[WhiteElo "2471"]
+[BlackElo "2106"]
+[ECO "B84"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 a6 6.Be2 e6 7.Be3 Be7 8.Qd2 Qc7 9.g4 h6 10.a3 Nc6 11.f3 b5 12.h4 Rb8 13.O-O-O b4 14.axb4 Nxb4 15.Kb1 e5 16.Nf5 Bxf5 17.gxf5 O-O 18.Rhg1 Kh7 19.b3 Rfc8 20.Bc4 d5 21.exd5 Qa5 22.Qe2 Bc5 23.Bxc5 Rxc5 24.Qxe5 Rb6 25.Qg3 Nh5 26.Qg4 Qa3 27.Rg2 Ra5 28.Na2 Nxa2 29.Qd4 Qb4 30.Kb2 Nc3 31.Qxc3 Ra2+ 32.Kxa2 Qxc3 33.d6 Qxf3 34.Rgd2 Rb8 35.d7 Rd8 36.Be2 Qc3 37.Bxh5 Qa5+ 38.Kb1 Qxf5 39.Be2 Qf6 40.h5 a5 41.Bb5 g6 42.hxg6+ fxg6 43.Re2 g5 44.Rde1 g4 45.Re7+ Kg6 46.R7e6 g3 47.Rxf6+ Kxf6 48.Rg1 1-0

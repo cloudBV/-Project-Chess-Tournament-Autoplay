@@ -1,0 +1,15 @@
+[Event "Round 9: Sason, Noam - Gurevich, Neria"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-9/AS2EnOQA/eW4F7xcm"]
+[Date "2026.07.21"]
+[Round "9.16"]
+[White "Sason, Noam"]
+[Black "Gurevich, Neria"]
+[Result "1-0"]
+[WhiteElo "2379"]
+[BlackElo "2237"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.a4 d5 7.c4 c6 8.a5 dxc4 9.Nc3 Bf5 10.Qa4 Ne4 11.Qxc4 Nxc3 12.bxc3 Qc8 13.Ba3 Qc7 14.Ng5 h6 15.e4 Bc8 16.Nh3 Rd8 17.Nf4 e6 18.e5 Na6 19.Nd3 Bf8 20.Bxf8 Kxf8 21.f4 Qe7 22.Rfb1 Kg7 23.Rb2 h5 24.Rab1 Rd7 25.Nf2 c5 26.d5 exd5 27.Bxd5 Rc7 28.Ne4 Rb8 29.Nd6 Be6 30.Bxe6 fxe6 31.Qxa6 bxa6 32.Rxb8 Qd7 33.R1b7 Kh6 34.Rh8+ Kg7 35.Rxc7 1-0

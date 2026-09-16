@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "9.30"]
+[White "Sanchez Aller, Fernando"]
+[Black "Docampo Fuertes, Marcelo Inaki"]
+[Result "1/2-1/2"]
+[WhiteElo "2203"]
+[BlackElo "2028"]
+[ECO "B45"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bc5 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Ne7 9.Qh5 Ng6 10.Bg5 Qc7 11.Kh1 O-O 12.Rae1 Rb8 13.e5 Be7 14.Bxe7 Qxe7 15.b3 f5 16.f4 Rb4 17.Ne2 c5 18.c3 Rb6 19.Rf3 Qh4 20.Qxh4 Nxh4 21.Rh3 Ng6 22.c4 d4 23.Rf3 Bb7 24.Rf2 Ra8 25.Nc1 a5 26.Bc2 Rc8 27.Kg1 Nh4 28.Nd3 Be4 29.Nb2 Bc6 30.Bd1 Ng6 31.Bf3 Bxf3 32.Rxf3 Ne7 33.h3 Rb7 34.Na4 Kf7 35.Kf2 Rcc7 36.Ke2 Nc8 37.g4 Ne7 38.Kd2 Rb8 39.Nb2 Rb6 40.Rg3 Rb8 41.a3 Ke8 42.Kc2 Kd7 43.Nd3 Kc6 44.Rf1 Rcb7 45.Rb1 Rb6 46.Nb2 R6b7 47.Rbg1 Rf8 48.Nd3 Rfb8 49.Rb1 Rb6 50.Rb2 R6b7 51.Nc1 Rf8 52.Kd1 1/2-1/2

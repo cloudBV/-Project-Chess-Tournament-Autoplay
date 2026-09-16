@@ -1,0 +1,15 @@
+[Event "Round 4: Batbaatar, Baatar - Madhvendra Pratap Sharma"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b18/round-4/gdamaPvY/zT9EunY3"]
+[Date "2026.07.16"]
+[Round "4.22"]
+[White "Batbaatar, Baatar"]
+[Black "Madhvendra Pratap Sharma"]
+[Result "0-1"]
+[WhiteElo "2028"]
+[BlackElo "2264"]
+[ECO "B90"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Nb3 g6 7.f3 Bg7 8.Be3 O-O 9.Qd2 Nc6 10.O-O-O Be6 11.Nd5 b5 12.h4 Bxd5 13.exd5 Ne5 14.Bh6 Nh5 15.Bxg7 Kxg7 16.g4 Ng3 17.Rh3 Nxf1 18.Rxf1 h6 19.h5 g5 20.f4 Nc4 21.Qc3+ Kh7 22.fxg5 hxg5 23.Qd3+ Kh8 24.h6 Ne5 25.Qd2 Qd7 26.Rg3 Rg8 27.Nd4 Rg6 28.Qh2 Rc8 29.Qh5 Rc4 30.Rxf7 Rxd4 31.Rf8+ Kh7 32.Rgf3 Rf4 33.R3xf4 gxf4 34.Rf5 Rxg4 35.b3 Qc8 36.Kb2 b4 0-1

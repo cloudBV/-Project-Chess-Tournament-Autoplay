@@ -1,0 +1,15 @@
+[Event "Round 1: Sukandar, Irine Kharisma - Caruana, Fabiano"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/bRAwbrZT"]
+[Date "2026.07.03"]
+[Round "1.1"]
+[White "Sukandar, Irine Kharisma"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteElo "2355"]
+[BlackElo "2716"]
+[ECO "B46"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.a3 Qc7 7.Be2 Nf6 8.Be3 b5 9.f4 Bb7 10.Bf3 b4 11.axb4 Bxb4 12.O-O Bxc3 13.bxc3 Ne7 14.Qd3 O-O 15.c4 d6 16.Rfb1 Nd7 17.Nb3 a5 18.e5 d5 19.cxd5 Bxd5 20.Bxd5 Nxd5 21.Nd4 Nc5 22.Qa3 Ne4 23.Qd3 Nec3 24.Rf1 Nxe3 25.Qxe3 Qc5 26.Kh1 Rfd8 27.Nf5 Qxe3 28.Nxe3 a4 29.Nc4 Rd4 30.Nb2 a3 31.Nd3 a2 32.g3 Rb8 33.Kg2 h6 34.Kf3 Rb1 35.Rc1 Kh7 36.Ke3 Rxd3+ 37.Kxd3 Rxc1 38.Rxc1 Nb1 39.Kd4 0-1

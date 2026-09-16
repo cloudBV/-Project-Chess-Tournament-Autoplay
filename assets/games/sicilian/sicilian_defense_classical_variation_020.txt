@@ -1,0 +1,15 @@
+[Event "Round 7: Dreelinck, Jacob - Molitor, Milo"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/2IZOoi7H"]
+[Date "2026.07.21"]
+[Round "7.8"]
+[White "Dreelinck, Jacob"]
+[Black "Molitor, Milo"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2164"]
+[ECO "B56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f3 e5 7.Nb3 Be7 8.Be3 Be6 9.Nd5 Bxd5 10.exd5 Nb4 11.c4 a5 12.Qd2 b6 13.Be2 O-O 14.O-O Nh5 15.Nc1 f5 16.a3 Na6 17.b4 f4 18.Bf2 Bh4 19.Nd3 Ng3 20.hxg3 Bxg3 21.Rfe1 Qh4 22.Bd1 Qh2+ 23.Kf1 Qh1+ 24.Bg1 Bh2 25.Qf2 Bg3 26.Qd2 Bh2 27.Qf2 Bg3 28.Qxb6 Rfb8 29.Qxd6 Bh2 30.Qe6+ Kh8 31.Nf2 Qxg1+ 32.Ke2 Qxg2 33.Bc2 Bg3 34.Rf1 e4 35.Bxe4 Nc5 36.Qh3 Qxh3 37.Nxh3 Na6 38.d6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 1: Kavutskiy, Kostya - Toure, Vasanth"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/Bmc1XjTK"]
+[Date "2026.07.19"]
+[Round "1.2"]
+[White "Kavutskiy, Kostya"]
+[Black "Toure, Vasanth"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2103"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Bd6 5.b3 O-O 6.Bb2 Nc6 7.d4 a5 8.a3 Ne4 9.Nbd2 f5 10.Qc2 Bd7 11.O-O Qf6 12.e3 g5 13.Rac1 Rf7 14.Ne5 Nxe5 15.dxe5 Bxe5 16.Bxe5 Qxe5 17.cxd5 exd5 18.Nxe4 dxe4 19.Qxc7 Qxc7 20.Rxc7 Bc6 21.Rxf7 Kxf7 22.Rd1 Ke7 23.Bh3 g4 24.Bf1 Rd8 25.Rc1 Rd2 26.Rc5 Rd5 27.Rc1 Rd2 28.Rc5 Rd5 29.Rc1 1/2-1/2

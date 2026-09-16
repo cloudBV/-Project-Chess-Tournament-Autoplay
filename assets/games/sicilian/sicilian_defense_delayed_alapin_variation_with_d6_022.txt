@@ -1,0 +1,15 @@
+[Event "Round 9: Yilmaz, Kerem Tuna - Ucoluk, Umut"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/dqVmOOrm"]
+[Date "2026.07.19"]
+[Round "9.31"]
+[White "Yilmaz, Kerem Tuna"]
+[Black "Ucoluk, Umut"]
+[Result "1/2-1/2"]
+[WhiteElo "2061"]
+[BlackElo "2094"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 g6 5.O-O Bg7 6.Bb5+ Nc6 7.Qe2 O-O 8.h3 e5 9.d3 h6 10.Nbd2 Bd7 11.a4 Nh5 12.Nb3 a6 13.Bc4 Qf6 14.Nh2 Nf4 15.Qf3 h5 16.Kh1 Kh7 17.h4 Qe7 1/2-1/2

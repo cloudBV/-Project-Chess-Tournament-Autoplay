@@ -1,0 +1,14 @@
+[Event "Round 4: Safarli, Eltaj - Mohammad Nubairshah Shaikh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-4/xI74yWxD/9PupABtV"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Safarli, Eltaj"]
+[Black "Mohammad Nubairshah Shaikh"]
+[Result "0-1"]
+[WhiteElo "2619"]
+[BlackElo "2316"]
+[ECO "B14"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Main Line"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6 9.Bd3 O-O 10.O-O Be7 11.Re1 Ndb4 12.Be4 Nxd4 13.Nxd4 Qxd4 14.Qe2 Bd7 15.Be3 Qe5 16.Bxb7 Rab8 17.Be4 Bb5 18.Nxb5 Qxe4 19.Nc3 Qb7 20.Rad1 Bf6 21.Bd4 Bxd4 22.Rxd4 Nc6 23.Rd2 Rfd8 24.Red1 a5 25.h4 h6 26.Qe4 Qc7 27.Rxd8+ Rxd8 28.Rxd8+ Nxd8 29.g3 Nc6 30.Kg2 Kf8 31.Qc4 Qb6 32.Ne4 Ke7 33.Qc3 e5 34.h5 f5 35.Nc5 Qb4 36.Qc1 Qd4 37.Nb3 Qd5+ 38.Kg1 a4 39.Qc5+ Ke6 40.Qxd5+ Kxd5 41.Nd2 Kd4 42.b3 Kc3 43.Nf3 a3 44.Nh4 Nd4 45.f4 e4 46.Kf2 Kb2 47.Ke3 Nxb3 48.Nxf5 Nc5 49.Kd4 Kxa2 50.Kxc5 Kb2 51.Ne3 a2 52.Nc4+ Kc3 0-1

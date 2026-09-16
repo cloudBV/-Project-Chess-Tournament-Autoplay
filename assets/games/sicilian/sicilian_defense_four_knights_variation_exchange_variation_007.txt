@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.7"]
+[White "Hilby, Craig"]
+[Black "Deviprasath, Sharvesh"]
+[Result "1-0"]
+[WhiteElo "2416"]
+[BlackElo "2422"]
+[ECO "B45"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Rb8 10.Bd3 Qb6 11.Qe2 Be7 12.c4 Nb4 13.Bb1 Ba6 14.b3 Nd5 15.Nd6+ Bxd6 16.exd6 O-O 17.Qd2 e5 18.fxe5 Rfe8 19.Kd1 Rxe5 20.Bb2 Qe3 21.Re1 Qxd2+ 22.Kxd2 Rxe1 23.Kxe1 Nf4 24.Bd4 Nxg2+ 25.Kd2 Re8 26.Bf5 Bc8 27.Rg1 Nh4 28.Rxg7+ Kf8 29.Rxh7 Nf3+ 30.Kc3 Nxd4 31.Rh8+ 1-0

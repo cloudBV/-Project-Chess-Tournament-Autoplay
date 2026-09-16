@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.11"]
+[Round "1.6"]
+[White "Theulings, Paul-Peter"]
+[Black "Slagboom, Leandro"]
+[Result "0-1"]
+[WhiteElo "2084"]
+[BlackElo "2332"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nc3 Bg4 7.h3 Bxf3 8.Bxf3 Nc6 9.e3 Nd7 10.Qe2 a5 11.Bd2 e5 12.dxe5 Ndxe5 13.Bg2 a4 14.Rc1 Nb4 15.O-O c6 16.f4 Ned3 17.Rb1 a3 18.bxa3 Rxa3 19.Rb3 Rxb3 20.axb3 Re8 21.Nd1 Qb6 22.Kh2 Nc5 23.Nf2 Nc2 24.b4 Nb3 25.Ne4 d5 26.c5 Qa6 27.Qxa6 bxa6 28.Nd6 Nxd2 29.Rf2 Rxe3 30.Rxd2 Nxb4 31.Nb7 Bc3 32.Rd1 Be1 0-1

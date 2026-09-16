@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.5"]
+[White "Vergara Anton, Diego"]
+[Black "Avila Pavas, Santiago"]
+[Result "1/2-1/2"]
+[WhiteElo "2417"]
+[BlackElo "2502"]
+[ECO "E60"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c5 4.Nf3 cxd4 5.Nxd4 Qa5+ 6.Nc3 Bg7 7.Bg2 O-O 8.Nb3 Qb4 9.Qd3 Nc6 10.Bd2 Ne5 11.Qd4 Nxc4 12.Nd1 Qb5 13.Nc3 Qb4 14.Nd1 Qb5 15.Nc3 Qb4 16.Nd1 Qb5 1/2-1/2

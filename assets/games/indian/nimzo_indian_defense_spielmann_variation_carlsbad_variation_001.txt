@@ -1,0 +1,15 @@
+[Event "Round 11: Daghli, Arash - Eskandari, Amirali"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-11/Xwlna9Hz/9QAx1vGS"]
+[Date "2026.07.18"]
+[Round "11.1"]
+[White "Daghli, Arash"]
+[Black "Eskandari, Amirali"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "2047"]
+[ECO "E23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Spielmann Variation, Carlsbad Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Ne4 7.Bd2 Nxd2 8.Nxd2 O-O 9.g3 Qa5 10.Rc1 Nd4 11.Qd1 Bxc3 12.Rxc3 Qxa2 13.Qb1 Qxb1+ 14.Nxb1 b6 15.Bg2 Rb8 16.e3 Nc6 17.Bxc6 dxc6 18.Nd2 bxc5 19.b3 a5 20.Ke2 a4 21.Ra1 axb3 22.Rxb3 Rb4 23.Ra5 Rd8 24.Rd3 Rxd3 25.Kxd3 Rb8 26.Ne4 Bd7 27.Nxc5 Be8 28.Kc3 Kf8 29.f4 Rb1 30.Ra8 Ke7 31.Ra7+ Kf8 32.Ne4 Rd1 33.c5 Rd7 34.Ra8 Ke7 35.Nd6 Rd8 36.Rxd8 Kxd8 37.Nxe8 Kxe8 38.Kb4 Kd7 39.Ka5 Kc7 40.Ka6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Junger, Werner - Klundt, Klaus"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-6/Nf3qcMuI/IFU46KqS"]
+[Date "2026.07.01"]
+[Round "6.4"]
+[White "Junger, Werner"]
+[Black "Klundt, Klaus"]
+[Result "1/2-1/2"]
+[WhiteElo "2158"]
+[BlackElo "2201"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 c5 8.Nf3 h6 9.Bd3 Nc6 10.Be4 cxd4 11.cxd4 Bb4+ 12.Bd2 Bxd2+ 13.Qxd2 O-O 14.O-O Rd8 15.Rfd1 Nxd4 16.Nxd4 e5 17.Bd5 exd4 18.Qxd4 Qxd4 19.Rxd4 Be6 20.Rad1 Bxd5 21.cxd5 Rd6 22.a4 Rc8 23.Kf1 Rc2 24.R1d2 Rxd2 25.Rxd2 Kf8 26.Ke2 Ke7 27.Ke3 Rb6 28.Rd4 Rb3+ 29.Ke2 Kd6 30.h4 a5 31.Rg4 Kxd5 32.Rxg7 Ke6 33.Rh7 Rb4 34.Rxh6+ f6 35.Rh7 Rxa4 36.Rxb7 Rxh4 37.Ra7 Ra4 38.g4 Ke5 39.Ra6 1/2-1/2

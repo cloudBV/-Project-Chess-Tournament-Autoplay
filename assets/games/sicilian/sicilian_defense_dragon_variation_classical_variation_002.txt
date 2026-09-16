@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "2.11"]
+[White "Papp, Gellert"]
+[Black "Szabo, Marton Nandor"]
+[Result "1-0"]
+[WhiteElo "2239"]
+[BlackElo "2094"]
+[ECO "B72"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Nc6 7.Be3 Bg7 8.g4 Be6 9.g5 Nd7 10.h4 Qc8 11.h5 O-O 12.hxg6 hxg6 13.f4 Nb6 14.Qd2 Rd8 15.O-O-O d5 16.e5 Nxd4 17.Bxd4 Nc4 18.Bxc4 dxc4 19.Rh4 Bg4 20.Rdh1 Bf3 21.R1h3 Qd7 22.Qh2 Bh5 23.Ne2 Qa4 24.f5 c3 25.Nxc3 Qc4 26.Qf2 Rac8 27.b3 Qa6 28.Kb2 b5 29.e6 fxe6 30.Bxg7 Kxg7 31.f6+ Kf7 32.Rxh5 gxh5 33.g6+ Ke8 34.f7+ Kd7 35.Rd3+ Kc7 36.Rxd8 Rxd8 37.f8=Q b4 38.Qc5+ 1-0

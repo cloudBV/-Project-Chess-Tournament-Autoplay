@@ -1,0 +1,14 @@
+[Event "Round 8: Ostlund, Joar - Ljungros, Lo"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-8/Uzk59lx2/9Xuwd6MC"]
+[Date "2026.07.24"]
+[Round "8.6"]
+[White "Ostlund, Joar"]
+[Black "Ljungros, Lo"]
+[Result "0-1"]
+[WhiteElo "2390"]
+[BlackElo "2138"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Maric Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Qd5 5.Bd3 Nc6 6.c3 e5 7.Qe2 Be6 8.Ng5 exd4 9.Be4 Qd7 10.Nxe6 fxe6 11.Qh5+ g6 12.Bxg6+ hxg6 13.Qxh8 dxc3 14.Nf3 O-O-O 15.O-O Bg7 16.Qh4 cxb2 17.Bxb2 Bxb2 18.Rab1 Bd4 19.Rfd1 e5 20.Qe4 Qf5 21.Qe2 e4 22.Nxd4 Nxd4 23.Qb2 Qd5 24.Rxd4 Qxd4 25.Qxb7+ Kd7 26.h3 Ne7 27.Rc1 Nd5 28.Qc6+ Ke7 29.Qxg6 Rf8 30.Qg5+ Rf6 31.Qg7+ Kd6 32.Qg3+ Nf4 33.Kh1 c5 34.Qh4 Nd3 35.Rb1 Nxf2+ 36.Kh2 e3 37.Qh8 Ng4+ 38.hxg4 Qe5+ 0-1

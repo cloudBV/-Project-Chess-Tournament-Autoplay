@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.07"]
+[Round "4.8"]
+[White "Patil Priyanshu"]
+[Black "Mahir Taneja"]
+[Result "1/2-1/2"]
+[WhiteElo "2123"]
+[BlackElo "2318"]
+[ECO "B12"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.c3 a6 7.Qb3 Qc7 8.Qxd5 e6 9.Qe4 Bxf3 10.gxf3 Bxc5 11.f4 O-O-O 12.Be3 Bxe3 13.Qxe3 Nge7 14.Nd2 Nd5 15.Qe4 f5 16.exf6 gxf6 17.f5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.10"]
+[Round "9.5"]
+[White "Moroni, Luca Jr"]
+[Black "Tahay, Alexis"]
+[Result "1-0"]
+[WhiteElo "2551"]
+[BlackElo "2347"]
+[ECO "A36"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.a3 d6 6.Rb1 a5 7.d3 e5 8.Nf3 Nge7 9.Nd2 Be6 10.Nd5 Rb8 11.b3 O-O 12.Bb2 f5 13.e3 Bf7 14.O-O b5 15.Qe2 Qd7 16.f4 bxc4 17.bxc4 a4 18.Bc3 exf4 19.Bxg7 Kxg7 20.gxf4 Na5 21.Nb6 Qa7 22.Nxa4 Nxc4 23.Nxc4 Qxa4 24.Nxd6 Qxa3 25.Qc2 Ba2 26.Rb7 Rxb7 27.Nxb7 Bd5 28.Qxc5 Qxc5 29.Nxc5 Bxg2 30.Kxg2 Rc8 31.Rc1 Kf7 32.Kf3 h6 33.Rc4 Rc7 34.Nb3 Ra7 35.Nd4 Ra3 36.Ke2 Nd5 37.Nc2 Ra2 38.Kf3 g5 39.Rc5 Ne7 40.d4 Rb2 41.h3 Ke6 42.Na3 Ng6 43.fxg5 hxg5 44.Nc2 Ne7 45.Ne1 Nd5 46.Rc6+ Ke7 47.Nd3 Rb3 48.Re6+ Kf7 49.Nc5 g4+ 50.hxg4 fxg4+ 51.Ke4 g3 52.Kxd5 g2 53.Nxb3 g1=Q 54.Nc5 Qg5+ 55.Kc4 Qg4 56.e4 Qe2+ 57.Kd5 Qa2+ 58.Kd6 Qa7 59.e5 Qb8+ 60.Kd7 Qa7+ 61.Kc6 Qa8+ 62.Kb5 Qa2 63.Rd6 Ke8 64.Re6+ Kf7 65.Rd6 Ke8 66.d5 Qb2+ 67.Kc6 Qb8 68.Re6+ Kf7 69.d6 Qa8+ 70.Kb5 Qb8+ 71.Kc4 Qb1 72.d7 Qf1+ 73.Kd5 Qd1+ 74.Kc6 Qf3+ 75.Kb6 1-0

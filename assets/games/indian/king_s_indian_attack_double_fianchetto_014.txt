@@ -1,0 +1,14 @@
+[Event "Round 8: Suarez Garcia, Carlos 1996 - Grahn, Vidar"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-8/Uzk59lx2/aWIuaiVM"]
+[Date "2026.07.24"]
+[Round "8.4"]
+[White "Suarez Garcia, Carlos 1996"]
+[Black "Grahn, Vidar"]
+[Result "1-0"]
+[WhiteElo "2471"]
+[BlackElo "2245"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 c6 5.O-O Nf6 6.c4 dxc4 7.a4 Ne4 8.Qc2 Nd6 9.e4 Na6 10.e5 Nf5 11.Qxc4 Be6 12.Qc3 h5 13.h4 O-O 14.Na3 Qb6 15.a5 Qb3 16.Nd2 Qxc3 17.bxc3 Bd5 18.Bh3 c5 19.c4 Be6 20.d5 Bxe5 21.Rb1 Bc8 22.Re1 Bf6 23.Ne4 Nxh4 24.Nxf6+ exf6 25.Bxc8 Nf3+ 26.Kf1 Rfxc8 27.Re7 Nb4 28.Rxb7 Nd4 29.Be3 Nbc2 30.Nxc2 Nxc2 31.Bf4 Nd4 32.Re1 g5 33.Bc7 g4 34.a6 Re8 35.Rxe8+ Rxe8 36.Rb8 Rxb8 37.Bxb8 Nc2 38.Bxa7 Nb4 39.d6 1-0

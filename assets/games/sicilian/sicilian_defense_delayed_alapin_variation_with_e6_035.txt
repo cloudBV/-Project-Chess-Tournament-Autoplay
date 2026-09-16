@@ -1,0 +1,14 @@
+[Event "Round 5: Kaiser, Dieter - Tymoshenko, Ihor"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-5/UJHfv34y/GlZ9x4Fk"]
+[Date "2026.07.21"]
+[Round "5.2"]
+[White "Kaiser, Dieter"]
+[Black "Tymoshenko, Ihor"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2306"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.Bd3 Bd7 6.O-O Bc6 7.Na3 Ne7 8.Re1 Ng6 9.Be4 Bxe4 10.Rxe4 Nc6 11.d3 dxc3 12.bxc3 Be7 13.Rb1 b6 14.h4 O-O 15.h5 Nh8 16.h6 g6 17.Bf4 Qd7 18.Qe2 f5 19.exf6 Bxf6 20.d4 cxd4 21.cxd4 Rae8 22.Nc4 Nf7 23.Rd1 g5 24.Nce5 Qd5 25.Nxf7 Rxf7 26.Bxg5 Bxg5 27.Nxg5 Rf6 28.Rd3 Rg6 29.Rg4 Nd8 30.Rdg3 Kh8 31.Nxh7 Rxh6 32.Nf6 1-0

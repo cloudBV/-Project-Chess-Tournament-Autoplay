@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.6"]
+[White "Wilson, Ronen"]
+[Black "Corrales Jimenez, Fidel"]
+[Result "1/2-1/2"]
+[WhiteElo "2214"]
+[BlackElo "2507"]
+[ECO "B96"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 8.Bh4 Qb6 9.a3 Nbd7 10.Bf2 Qc7 11.Qf3 b5 12.O-O-O Rb8 13.g4 b4 14.axb4 Rxb4 15.Nb3 Bb7 16.Rd4 d5 17.e5 Ne4 18.Be1 Rxb3 19.cxb3 Bc5 20.Qd1 g5 21.fxg5 Qxe5 22.Nxe4 Bxd4 23.Nd6+ Qxd6 24.Qxd4 e5 25.Qd2 hxg5 26.Qxg5 Qc5+ 27.Kb1 d4 28.Rg1 d3 29.Rg3 e4 30.Qd2 Bd5 31.h4 Bxb3 32.Bxd3 Qc6 33.Re3 Bd5 34.Qc3 Rh6 35.g5 Qxc3 36.bxc3 Rb6+ 37.Kc1 Nc5 38.Bc2 Re6 39.c4 Bxc4 40.Rc3 Nd3+ 41.Bxd3 Bxd3 42.h5 Rb6 43.h6 Kd7 44.Rxd3+ exd3 45.h7 Rc6+ 46.Kd1 Rc8 47.Bc3 Ke6 48.h8=Q Rxh8 49.Bxh8 Kf5 50.Bf6 a5 51.Kd2 Ke4 52.Bd8 a4 53.Be7 Kd4 54.Ba3 Ke4 55.Bc1 Kd4 56.Bb2+ Ke4 57.Ba3 Kd4 58.Bc1 Ke4 59.Kc3 Kf5 60.Kxd3 f6 61.gxf6 1/2-1/2

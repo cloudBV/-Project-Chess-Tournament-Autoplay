@@ -1,0 +1,15 @@
+[Event "Round 7: Tutuncu, Ali - Aslanov, Umid"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/apWptc6W"]
+[Date "2026.07.03"]
+[Round "7.22"]
+[White "Tutuncu, Ali"]
+[Black "Aslanov, Umid"]
+[Result "0-1"]
+[WhiteElo "2129"]
+[BlackElo "2342"]
+[ECO "B25"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.f4 e6 7.Nf3 Nge7 8.O-O O-O 9.Be3 Rb8 10.Qd2 Nd4 11.Qf2 Nec6 12.Ne1 f5 13.Nd1 Ne7 14.c3 Ndc6 15.Qc2 b6 16.exf5 gxf5 17.Nf3 h6 18.Nf2 Bb7 19.Qb3 Qd7 20.Rad1 Rbc8 21.Rfe1 Kh7 22.d4 Nd5 23.dxc5 bxc5 24.Bc1 Rce8 25.Nh4 Nf6 26.Be3 Qc7 27.Qc2 Kg8 28.Qd3 Rd8 29.Qc4 Rfe8 30.b4 d5 31.Qb3 c4 32.Qb2 a6 33.b5 axb5 34.Qxb5 Rb8 35.Bb6 Qf7 36.Qa4 Ra8 37.Qc2 Ne4 38.Nxe4 dxe4 39.Bc5 Red8 40.Rxd8+ Rxd8 41.Bf1 Qd7 42.Bb6 Rc8 43.Rd1 Qf7 44.Bxc4 Ne7 45.Qb3 Bd5 46.Bxd5 Nxd5 47.c4 Nxb6 48.Qxb6 Rxc4 49.Qd8+ Bf8 50.Rd7 Rc1+ 51.Kg2 Rc2+ 52.Kg1 Qh5 53.Qf6 Bc5+ 54.Kh1 Rc1+ 55.Kg2 Rg1+ 0-1

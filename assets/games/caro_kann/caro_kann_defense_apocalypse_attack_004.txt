@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.4"]
+[White "Sosa, Tomas"]
+[Black "Czopor, Maciej"]
+[Result "1/2-1/2"]
+[WhiteElo "2546"]
+[BlackElo "2458"]
+[ECO "B10"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Apocalypse Attack"]
+
+1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.Ne5 a6 5.d4 Nc6 6.c3 Nxe5 7.dxe5 Bf5 8.Be3 e6 9.Nd2 Ne7 10.Be2 Bg6 11.f4 Rc8 12.Nb3 Nc6 13.O-O Be7 14.Qe1 Qc7 15.Qf2 O-O 16.Bb6 Qb8 17.Nc5 Rfe8 18.Nd7 Qa8 19.g4 Be4 20.f5 Rcd8 21.fxe6 fxe6 22.Nf6+ gxf6 23.exf6 Rf8 24.Qh4 Bd6 25.Qg5+ Kf7 26.Qg7+ Ke8 27.g5 Ne5 28.Rae1 Rd7 29.Bh5+ Ng6 30.Rxe4 Rxg7 31.Rxe6+ Kd7 32.Bg4 Rgf7 33.Rfe1 Kc6 34.Rxd6+ Kxd6 35.Re6+ Kd7 36.Re7+ Kc6 37.Re6+ Kd7 38.Re7+ Kc6 39.Re6+ Kd7 1/2-1/2

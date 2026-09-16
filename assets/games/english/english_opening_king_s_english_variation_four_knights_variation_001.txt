@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/eOMAmP1D"]
+[Date "2026.07.03"]
+[Round "7.16"]
+[White "Liberadzki, Slawomir"]
+[Black "Kaliszuk, Kamil"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2162"]
+[ECO "A28"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Qd4 Qe7 8.Bg5 c5 9.Qf4 Bxc3+ 10.bxc3 d6 11.e3 Rb8 12.Bd3 Nh5 13.Bxe7 Nxf4 14.exf4 Kxe7 15.O-O-O f5 16.Rhe1+ Kf6 17.Re3 Bd7 18.Rde1 Rhe8 19.Be2 g6 20.Bf3 Rxe3 21.fxe3 Be6 22.Bd5 Bd7 23.Kc2 Ba4+ 24.Kc1 Bd7 25.Kc2 Ba4+ 26.Kc1 Bd7 27.Kc2 c6 28.Bf3 Be6 29.Rd1 Ke7 30.Bxc6 Bxc4 31.Bd5 Bxd5 1/2-1/2

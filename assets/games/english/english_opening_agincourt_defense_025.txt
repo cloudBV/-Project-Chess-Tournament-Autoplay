@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/pzJGRSMK"]
+[Date "2026.07.07"]
+[Round "8.22"]
+[White "Hertlein, Irena"]
+[Black "Kala, Jakub"]
+[Result "1-0"]
+[WhiteElo "2054"]
+[BlackElo "2007"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 d5 3.e3 Nf6 4.Nf3 Be7 5.b3 O-O 6.Bb2 c5 7.cxd5 exd5 8.d4 b6 9.Be2 Bb7 10.O-O Nbd7 11.Bd3 Ne4 12.Ne2 Bf6 13.Ne5 Re8 14.f3 Nd6 15.f4 cxd4 16.exd4 g6 17.Ng3 Bg7 18.Ba3 Nf6 19.f5 Nfe4 20.fxg6 fxg6 21.Qg4 Qc8 22.Qf4 Qe6 23.Nxe4 Nxe4 24.Bb5 Red8 25.Rac1 a6 26.Be2 Qf6 27.Qg4 h5 28.Rxf6 hxg4 29.Rxb6 Bc8 30.Rxg6 Bf5 31.Rb6 Bxe5 32.dxe5 d4 33.Bc4+ Kh7 34.Bd3 Ng3 35.Rc7+ Kh8 36.Rh6+ Kg8 37.Bc4+ Be6 1-0

@@ -1,0 +1,15 @@
+[Event "Round 8: Oner, Yigit Efe - Eroz, Enis"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/a67OOChW"]
+[Date "2026.07.18"]
+[Round "8.31"]
+[White "Oner, Yigit Efe"]
+[Black "Eroz, Enis"]
+[Result "1-0"]
+[WhiteElo "2047"]
+[BlackElo "2111"]
+[ECO "B99"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 h6 11.Bxf6 Bxf6 12.h4 Be7 13.g5 hxg5 14.hxg5 Rxh1 15.Qxh1 d5 16.exd5 Qxf4+ 17.Kb1 e5 18.Ne6 fxe6 19.dxe6 Nf8 20.Nd5 Nxe6 21.Nxf4 exf4 22.Qh5+ Kf8 23.Qh8+ Kf7 24.Bc4 Bf8 25.Rd8 1-0

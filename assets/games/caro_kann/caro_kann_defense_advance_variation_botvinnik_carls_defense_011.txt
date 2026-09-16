@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "18.5"]
+[White "Saric, Ivan"]
+[Black "Praggnanandhaa R"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2707"]
+[ECO "B12"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Nf3 Bxc5 6.Bd3 Nc6 7.O-O Nge7 8.a3 a6 9.b4 Ba7 10.Re1 Ng6 11.Qd2 Nh4 12.Nxh4 Qxh4 13.Bb2 O-O 14.Nc3 f6 15.exf6 Rxf6 16.Nd1 Rh6 17.h3 e5 18.Bf1 d4 19.c4 Bf5 20.b5 Ne7 21.Rxe5 Rf8 22.c5 Bb8 23.Qxd4 Qxd4 24.Bxd4 Bxe5 25.Bxe5 axb5 26.Bd6 Rf7 27.Bxb5 Nd5 28.Bc4 Be6 29.Rb1 Nf4 30.Bf1 Nd5 31.c6 Bc8 32.cxb7 Rxb7 33.Rxb7 Bxb7 34.Bg3 Rc6 35.Be2 Rc1 36.Kh2 Nf6 37.Ne3 Ra1 38.Nc4 Ba6 39.Bd3 Rd1 40.Bc2 Rc1 41.Ne3 Ra1 42.a4 Nd7 43.Bd6 Kf7 44.Bb3+ Ke8 45.Bc2 g6 46.h4 Nb6 47.h5 gxh5 48.Bxh7 Rxa4 49.f4 Kf7 50.f5 Bc8 51.Bg6+ Kf6 52.Bc7 Nd7 53.Nd5+ Kg7 54.Kg3 h4+ 55.Kh3 Nf8 56.Be5+ Kh6 57.Bf4+ Rxf4 58.Nxf4 Kg5 59.g3 Nxg6 60.gxh4+ Kxf4 61.h5 Bxf5+ 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "4.8"]
+[White "Craciun, Sasha-Matei"]
+[Black "Nagly, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2275"]
+[BlackElo "2034"]
+[ECO "C10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Capablanca Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Ne5 c5 8.Bb5+ Bd7 9.Nxd7 Nxd7 10.O-O a6 11.Be2 cxd4 12.Qxd4 Nf6 13.Qxd8+ Rxd8 14.Bf3 Rd7 15.Bf4 Nd5 16.Bd2 Be7 17.Rad1 Bf6 18.c4 Ne7 19.b3 Nf5 20.Bb4 Nd4 21.Be4 Kd8 22.g3 Kc8 23.Kg2 Rhd8 24.Ba5 Re8 25.h4 Nc6 26.Bb6 Nd4 27.Rd3 Nc6 28.Rfd1 Rxd3 29.Rxd3 Ne5 30.Rd1 Nd7 31.Be3 Rd8 32.Bxh7 g6 33.h5 Nf8 34.Rxd8+ Kxd8 35.Bg8 Ke8 36.h6 Nd7 37.Kf3 Kf8 38.h7 Ne5+ 39.Ke4 Ng4 40.Bd4 Bxd4 41.Kxd4 Kg7 42.Bxf7 Kxh7 43.Bxe6 Nxf2 44.Bc8 Nh1 45.g4 Nf2 46.Bxb7 Nxg4 47.Bxa6 Kg7 48.b4 Kf6 49.b5 Ne5 50.b6 g5 51.Bc8 Nc6+ 52.Kc5 Nb8 53.Kd6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Vershinin, Igor - Mohamed Anees M"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/qaWneq2K"]
+[Date "2026.07.19"]
+[Round "6.17"]
+[White "Vershinin, Igor"]
+[Black "Mohamed Anees M"]
+[Result "0-1"]
+[WhiteElo "2325"]
+[BlackElo "2415"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nbd7 7.Nf3 e5 8.d5 Nc5 9.Nd2 a5 10.g4 Ne8 11.h4 f5 12.gxf5 gxf5 13.exf5 Bxf5 14.h5 Kh8 15.h6 Bf6 16.Qh5 Bg6 17.Qh3 a4 18.Bxc5 dxc5 19.Nde4 a3 20.b3 Bg5 21.Bd3 Nd6 22.Qe6 Nxe4 23.Bxe4 Ra6 24.Qg4 Rf4 25.Qg2 Bh4 26.O-O-O Qg5 27.Qxg5 Bxg5 28.Rdg1 Bxe4 29.Nxe4 Bxh6 30.Nc3 Rxf2+ 31.Kb1 Rb2+ 32.Ka1 Be3 33.Rf1 Rg6 34.Nd1 Re2 35.Nxe3 Rxe3 36.Rf7 Rh3 37.Rhf1 Rg7 38.Rf8+ Rg8 39.R8f7 Rh2 40.Rxc7 Rf2 41.Rh1 Rgg2 42.Rcxh7+ Kg8 43.Rh8+ Kg7 44.R8h7+ Kg6 45.R7h6+ Kf5 46.R6h5+ Ke4 47.Kb1 Rb2+ 48.Kc1 Rxa2 49.R5h4+ Ke3 50.Re1+ Kf3 0-1

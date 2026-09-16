@@ -1,0 +1,15 @@
+[Event "Round 6: Aswath, S - Advik Amit Agrawal"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-6/shLPKZ2L/4cKfWt0N"]
+[Date "2026.06.30"]
+[Round "6.1"]
+[White "Aswath, S"]
+[Black "Advik Amit Agrawal"]
+[Result "1/2-1/2"]
+[WhiteElo "2517"]
+[BlackElo "2318"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "London System, with Be2"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.e3 O-O 5.Be2 d6 6.h3 Nbd7 7.O-O b6 8.a4 Bb7 9.Nc3 a6 10.Re1 Qe8 11.Bc4 e5 12.Bg3 Ne4 13.Nxe4 Bxe4 14.c3 Bb7 15.e4 Kh8 16.Qe2 f5 17.Ng5 f4 18.Bh2 Rf6 19.Bd5 c6 20.Bb3 h6 21.Nf3 Qe7 22.Rad1 Rff8 23.Rd2 Rad8 24.Qc4 Rde8 25.Red1 b5 26.Qf1 Rd8 27.Kh1 c5 28.axb5 axb5 29.dxe5 Nxe5 30.Nxe5 Bxe5 31.Bd5 Rb8 32.f3 Bxd5 33.Rxd5 b4 34.Bg1 bxc3 35.bxc3 Rfc8 36.Qa6 Ra8 37.Qb6 Rab8 38.Qa6 Ra8 39.Qb6 Rab8 40.Qa6 1/2-1/2

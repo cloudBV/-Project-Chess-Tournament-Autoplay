@@ -1,0 +1,14 @@
+[Event "Round 2: Korneev, Oleg - Honey, Luke Anthony"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-2/xXJCJT52/9tqyV6LG"]
+[Date "2026.07.02"]
+[Round "2.1"]
+[White "Korneev, Oleg"]
+[Black "Honey, Luke Anthony"]
+[Result "1/2-1/2"]
+[WhiteElo "2433"]
+[BlackElo "2040"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.c3 e6 7.Be3 a6 8.Nbd2 Nxe5 9.h3 Bxf3 10.Nxf3 Nc6 11.Bd3 g6 12.O-O Bg7 13.Re1 Nge7 14.Qd2 O-O 15.Bh6 b6 16.cxb6 Qxb6 17.h4 d4 18.Bxg7 Kxg7 19.h5 Qc5 20.h6+ Kg8 21.Rac1 dxc3 22.Rxc3 Qd6 23.Rc4 Nd5 24.Be4 Nce7 25.Qd4 f6 26.Bxd5 exd5 27.Qc5 Qxc5 28.Rxc5 Nf5 29.Rxd5 Rab8 30.b3 Rb6 31.Nd4 Nxh6 32.Re6 Rxe6 33.Nxe6 Re8 34.Rd8 Rxd8 35.Nxd8 Nf7 36.Nc6 Nd6 37.b4 Nb5 38.a4 Nc3 39.a5 Nd5 40.b5 axb5 41.a6 Nc7 42.a7 Kf7 43.Kf1 Ke8 44.Ke2 Kd7 45.Nd4 Na8 46.Nxb5 Kc6 47.Nc3 Kb7 48.Nd5 f5 49.Ke3 Kxa7 50.Kf4 Kb7 51.Nf6 Kc6 52.Nxh7 Nc7 53.Ke5 Nd5 54.Nf8 Nb4 55.Kf4 Nd3+ 56.Ke3 Ne5 57.f4 Ng4+ 58.Kd4 Kd6 59.Nxg6 Ke6 60.Ne5 Nf6 61.Nd3 Ng4 62.Nc5+ Kf6 63.g3 Nf2 64.Nd3 Nh1 65.Ke3 1/2-1/2

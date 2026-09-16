@@ -1,0 +1,15 @@
+[Event "Round 2: Saurabh Anand - Asis Gargatagli, Hipolito"]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-2/cGYpNscz/yaciRn8C"]
+[Date "2026.07.23"]
+[Round "2.5"]
+[White "Saurabh Anand"]
+[Black "Asis Gargatagli, Hipolito"]
+[Result "0-1"]
+[WhiteElo "2265"]
+[BlackElo "2463"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.h3 Nbd7 7.Nf3 e5 8.e4 exd4 9.Nxd4 Re8 10.O-O Nc5 11.Re1 h6 12.Bf4 Bd7 13.Kh2 a5 14.Ndb5 g5 15.Nxc7 gxf4 16.Nxa8 fxg3+ 17.fxg3 Re6 18.e5 dxe5 19.Nb5 Qxa8 20.Nc7 Qb8 21.Nxe6 Nxe6 22.Rc1 Ng5 23.Rc2 Bc6 24.Rd2 Ne6 25.Qb3 e4 26.Qa3 Qe5 27.Qd6 Qg5 28.Qb8+ Kh7 29.Qd6 Ng4+ 30.hxg4 Be5 31.Bxe4+ Bxe4 32.Rxe4 Bxd6 33.Rxd6 Qc1 34.Re2 Qxc4 35.Rf2 Ng5 0-1

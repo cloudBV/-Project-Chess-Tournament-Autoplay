@@ -1,0 +1,15 @@
+[Event "Round 4: Kueh, Audrey - Melaugh, Shane"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-4/Enzv8OLu/UDiexlVZ"]
+[Date "2026.07.05"]
+[Round "4.3"]
+[White "Kueh, Audrey"]
+[Black "Melaugh, Shane"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2145"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 e5 6.O-O Be7 7.c3 O-O 8.Na3 Re8 9.d3 h6 10.Nc4 Bf8 11.Re1 d5 12.exd5 Nxd5 13.d4 cxd4 14.Nxd4 Nxd4 15.cxd4 e4 16.f3 Nf6 17.fxe4 Nxe4 18.Bxe4 Qxd4+ 19.Qe3 Rxe4 20.Qxd4 Rxd4 21.b3 b5 22.Be3 Re4 23.Nd2 Re8 24.Kf2 Bb4 25.Rac1 Bf5 26.Red1 Bg4 27.Nf3 Re6 28.Rd4 Bxf3 29.Rxb4 Bc6 30.Rd4 Rae8 31.Rc3 a5 32.a3 Rf6+ 33.Rf4 Rfe6 34.Rd4 g5 35.h4 Rf6+ 36.Ke2 Re5 37.Rc5 Rxc5 38.Rd8+ Kh7 39.Bxc5 Rf5 40.Be3 Bd5 41.b4 Bc4+ 42.Kd2 a4 43.Rd4 Rf3 44.hxg5 hxg5 45.g4 Rg3 46.Re4 Kg6 47.Ke1 Rg2 48.Bd2 f6 49.Rd4 Rg1+ 50.Kf2 Rf1+ 51.Ke3 Ra1 52.Bc3 Rxa3 53.Kd2 Ra2+ 54.Ke3 Rc2 55.Ba1 Re2+ 56.Kf3 Ra2 57.Rd1 Be2+ 0-1

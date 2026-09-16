@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.07"]
+[Round "3.14"]
+[White "Asensio Asensio, Nicolas"]
+[Black "Montoliu Cervero, Francisco"]
+[Result "0-1"]
+[WhiteElo "2232"]
+[BlackElo "2362"]
+[ECO "B92"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.O-O O-O 10.Qd2 Nbd7 11.a4 Nb6 12.Rfd1 Rc8 13.a5 Nc4 14.Bxc4 Rxc4 15.Qd3 Qc8 16.f3 h6 17.Nd2 Rc6 18.Nf1 Nh5 19.Bb6 Nf4 20.Qd2 f5 21.exf5 Rxf5 22.Ne3 Rf7 23.Rac1 Bg5 24.Ne4 d5 25.Nxg5 hxg5 26.Re1 d4 27.Nf1 g4 28.fxg4 Bd5 29.Rxe5 Bxg2 30.Qxd4 Qxg4 31.Ng3 Qf3 32.Re8+ Rf8 33.Rxf8+ Kxf8 34.Bc5+ Kg8 35.Qd8+ Kh7 36.Qh4+ Rh6 0-1

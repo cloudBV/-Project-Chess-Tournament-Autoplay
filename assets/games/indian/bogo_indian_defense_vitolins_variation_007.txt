@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/fQYljVyJ"]
+[Date "2026.07.12"]
+[Round "7.2"]
+[White "Vingris,Mikelis"]
+[Black "Paikens, Reinis"]
+[Result "0-1"]
+[WhiteElo "2320"]
+[BlackElo "2370"]
+[ECO "E11"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.g3 O-O 7.Bg2 d6 8.O-O Nc6 9.a3 bxa3 10.Rxa3 e5 11.Nc3 Bg4 12.d5 Nb4 13.Nd2 a5 14.h3 Bh5 15.Nb5 b6 16.g4 Bg6 17.Re3 Qd7 18.Qb3 Rac8 19.Nc3 h5 20.g5 Nh7 21.Nce4 h4 22.Nf3 Qe7 23.Nxh4 Bxe4 24.Rxe4 Nxg5 25.Re3 Qf6 26.Rg3 Ne4 27.Bxe4 Qxh4 28.Rg4 Qh6 29.Bf5 Rc7 30.Qg3 g6 31.Kh2 Qh5 32.Bxg6 fxg6 33.Rxg6+ Kh8 34.Rg1 Qh7 35.Rg4 Rcf7 36.Rh4 Rxf2+ 37.Kh1 R2f7 38.Rxh7+ Rxh7 39.Kh2 Nc2 40.Qg6 Ne3 41.Rg5 Rf2+ 42.Kg3 Rg2+ 43.Kf3 Rxg5 44.Qxg5 Rxh3+ 45.Ke4 Nd1 46.Qf6+ Kh7 47.Qf1 Rh4+ 48.Kd3 Rd4+ 0-1

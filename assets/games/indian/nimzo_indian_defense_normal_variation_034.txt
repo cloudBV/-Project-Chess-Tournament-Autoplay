@@ -1,0 +1,14 @@
+[Event "Round 1: Tsamtsouris, Efthymios - Vrolijk, Liam"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-1/TwX2gwr1/yMnyzIbk"]
+[Date "2026.07.18"]
+[Round "1.5"]
+[White "Tsamtsouris, Efthymios"]
+[Black "Vrolijk, Liam"]
+[Result "0-1"]
+[WhiteElo "2005"]
+[BlackElo "2519"]
+[ECO "E46"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.cxd5 exd5 7.Bd3 Re8 8.Qf3 c5 9.Nge2 Nc6 10.Qf4 h6 11.Qh4 cxd4 12.exd4 Be7 13.Qg3 Nxd4 14.O-O Bd6 15.Qh4 Nf5 16.Bxf5 Bxf5 17.Nd4 Bh7 18.Rfe1 Ne4 19.Qxd8 Raxd8 20.Nxe4 dxe4 21.Be3 Be5 22.Rad1 f5 23.f4 exf3 24.Nxf3 Bb8 25.Rxd8 Rxd8 26.Bc5 b6 27.Ba3 Bg6 28.Nh4 Bh7 29.Re7 g5 30.Nf3 Bg6 31.Ne5 Be8 32.Bb4 Bb5 33.Bc3 Bd6 34.Rg7+ Kxg7 35.Nc6+ Kf7 36.Nxd8+ Ke7 37.Nb7 Bc7 38.Bb4+ Kd7 0-1

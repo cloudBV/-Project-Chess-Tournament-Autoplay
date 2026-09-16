@@ -1,0 +1,14 @@
+[Event "Round 5: Paarshva Parmar - Skvortsov, Andrei"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/HynhSlbh"]
+[Date "2026.07.07"]
+[Round "5.29"]
+[White "Paarshva Parmar"]
+[Black "Skvortsov, Andrei"]
+[Result "0-1"]
+[WhiteElo "2063"]
+[BlackElo "2316"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Pin Variation, Koch Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Nd5 7.Bd2 Nxc3 8.bxc3 Bf8 9.Qg4 h5 10.Qe4 d5 11.exd6 Bxd6 12.Bb5+ Kf8 13.Rd1 Qc7 14.Nf5 Be5 15.Qb4+ Kg8 16.Ne7+ Kh7 17.Qh4 g6 18.Bd3 Kg7 19.Nxc8 Bf6 20.Qe4 Rxc8 21.O-O Nc6 22.Rb1 b6 23.f4 Ne7 24.c4 Nf5 25.Bb4 Rh8 26.g3 Rac8 27.Ba3 Rhd8 28.Kg2 Qc6 29.Qxc6 Rxc6 30.Rfe1 Bc3 31.Re2 Kg8 32.Bxf5 gxf5 33.c5 bxc5 34.Rb3 Bf6 35.Rb5 Ra6 36.Bxc5 Rxa2 37.Rb7 a5 38.Kf3 a4 39.Ra7 Rc8 40.Bb4 Rcxc2 41.Rxc2 Rxc2 42.Rxa4 Rxh2 43.Be1 Rc2 44.Bf2 Rc3+ 45.Kg2 Rd3 46.Rc4 Kg7 47.Ra4 Kg6 48.Ra8 Rb3 49.Rg8+ Kh7 50.Rf8 Kg7 51.Rc8 Rb4 52.Kf3 Kg6 53.Rg8+ Bg7 54.Bc5 Rb3+ 55.Kg2 Kh7 56.Rd8 Bf6 57.Rd7 Kg6 58.Bf2 Rb2 59.Kf3 Bg7 60.Rd8 Ra2 61.Rg8 Rc2 62.Re8 Rc6 63.Re7 Bc3 64.Re8 f6 65.Rg8+ Kh7 66.Re8 e5 67.Re7+ Kg6 68.fxe5 fxe5 69.Re8 e4+ 70.Ke2 Kf7 71.Rd8 Bf6 72.Rd7+ Be7 73.Be3 Ke6 74.Rd2 Bd6 75.Bf2 Rc3 76.Ra2 Bxg3 77.Ra6+ Bd6 78.Be1 Rb3 79.Ra8 f4 80.Rh8 Rh3 81.Re8+ Kd5 82.Rd8 Rh2+ 83.Kf1 Ke6 84.Kg1 Rb2 85.Rh8 Rb1 86.Kf1 Bb4 0-1

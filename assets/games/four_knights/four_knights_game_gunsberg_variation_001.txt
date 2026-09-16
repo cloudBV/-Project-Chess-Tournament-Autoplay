@@ -1,0 +1,15 @@
+[Event "Round 1: Miller, Rachel - Wongso, Steve"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-1/iDgx22Fr/IWfXSCbK"]
+[Date "2026.07.07"]
+[Round "1.2"]
+[White "Miller, Rachel"]
+[Black "Wongso, Steve"]
+[Result "1-0"]
+[WhiteElo "2010"]
+[BlackElo "2227"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3 d5 5.Bb5 dxe4 6.Nxe5 Qd6 7.d4 exd3 8.O-O Bd7 9.Bf4 Qd4 10.Nxc6 bxc6 11.Re1+ Be7 12.Be5 Qb6 13.Bxf6 gxf6 14.Qf3 d2 15.Re2 O-O-O 16.Bd3 Be6 17.Rxd2 Kb8 18.Re2 Rhg8 19.Bf5 Bxf5 20.Qxf5 Qxb2 21.Ree1 Qxc3 22.Rab1+ Ka8 23.Rxe7 Rg5 24.Qe4 Rgd5 25.h3 Re5 26.Rxe5 fxe5 27.Qxh7 Qc4 28.Qf5 Qd5 29.h4 Rb8 30.Rxb8+ Kxb8 31.h5 f6 32.h6 Qd1+ 33.Kh2 Qd2 34.h7 Qh6+ 35.Qh3 Qf4+ 36.g3 1-0

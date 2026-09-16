@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-8/VWY2fZWa/aNUtfXZE"]
+[Date "2026.07.12"]
+[Round "8.7"]
+[White "Lavendelis, Egons"]
+[Black "Vingris,Mikelis"]
+[Result "1-0"]
+[WhiteElo "2194"]
+[BlackElo "2320"]
+[ECO "B51"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 Nf6 5.Qe2 a6 6.Ba4 b5 7.Bc2 Bb7 8.O-O c4 9.b3 Qc7 10.bxc4 bxc4 11.Na3 Rc8 12.Rb1 Nc5 13.Nxc4 Bxe4 14.d3 Bc6 15.Ba3 Bb5 16.Nd4 Bxc4 17.dxc4 Nfd7 18.Rfe1 e6 19.Bf5 Be7 20.Nxe6 fxe6 21.Bxe6 Kd8 22.Bxc5 dxc5 23.Rbd1 Bd6 24.Qd2 Ke7 25.Qg5+ Ke8 26.Qxg7 Bxh2+ 27.Kh1 Be5 28.Bxd7+ Kd8 29.Bxc8+ Kxc8 30.Qxe5 1-0

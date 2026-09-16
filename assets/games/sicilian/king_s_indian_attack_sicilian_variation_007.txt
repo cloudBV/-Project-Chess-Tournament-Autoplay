@@ -1,0 +1,15 @@
+[Event "Tiebreaks: Gelfand, Boris - Robson, Ray"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/tiebreaks/aWZF1BJ2/d2Exnnx8"]
+[Date "2026.07.04"]
+[Round "13.1"]
+[White "Gelfand, Boris"]
+[Black "Robson, Ray"]
+[Result "1-0"]
+[WhiteElo "2592"]
+[BlackElo "2620"]
+[ECO "A08"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d4 cxd4 6.Nxd4 Bg7 7.Nb3 Nc6 8.Nc3 e6 9.e4 O-O 10.exd5 exd5 11.Bg5 h6 12.Be3 Bf5 13.Qd2 Ne4 14.Nxe4 dxe4 15.c3 Qxd2 16.Nxd2 Rfe8 17.h3 g5 18.Rad1 Rad8 19.Nc4 Bf8 20.g4 Be6 21.Rxd8 Rxd8 22.Nd2 Bxa2 23.Nxe4 Be7 24.f4 Bc4 25.Rf2 gxf4 26.Bxf4 Kg7 27.Kh2 Be6 28.Ng3 Bg5 29.Bxg5 hxg5 30.Ne4 Rd5 31.b4 Re5 32.Nd6 Re3 33.Rxf7+ Kg6 34.Rxb7 Ne5 35.Be4+ Kf6 36.Ne8# 1-0

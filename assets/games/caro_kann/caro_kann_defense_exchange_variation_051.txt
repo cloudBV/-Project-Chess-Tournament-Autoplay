@@ -1,0 +1,15 @@
+[Event "Round 5: Zeynalli, Rashad - Talibov, Shiroghlan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/PvtwVsPF"]
+[Date "2026.07.16"]
+[Round "5.4"]
+[White "Zeynalli, Rashad"]
+[Black "Talibov, Shiroghlan"]
+[Result "0-1"]
+[WhiteElo "2269"]
+[BlackElo "2471"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.d4 d5 2.Bf4 c5 3.e3 cxd4 4.exd4 Nc6 5.Nf3 Bf5 6.Nbd2 e6 7.Bb5 f6 8.c4 Ne7 9.O-O g5 10.Bg3 h5 11.h3 Bh6 12.c5 Kf7 13.Nb3 g4 14.Nh4 Bg5 15.Nxf5 Nxf5 16.Bh2 Qf8 17.Bxc6 bxc6 18.Qe2 a5 19.a4 Qh6 20.Rae1 Rhe8 21.Bc7 Bf4 22.Bxa5 gxh3 23.g3 h4 24.g4 Rxa5 25.Nxa5 Bc7 26.Nb7 Qf4 27.Nd8+ Kg8 28.f3 h2+ 29.Kg2 h3+ 0-1

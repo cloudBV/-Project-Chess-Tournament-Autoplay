@@ -1,0 +1,15 @@
+[Event "Round 8: Molner, Mackenzie - Sukhiashvili, Alexander"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-8/Bmj8FixY/AgAXruz4"]
+[Date "2026.07.19"]
+[Round "8.7"]
+[White "Molner, Mackenzie"]
+[Black "Sukhiashvili, Alexander"]
+[Result "1-0"]
+[WhiteElo "2458"]
+[BlackElo "2105"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.d5 d6 4.Nc3 e5 5.Bg5 Be7 6.Nf3 Nbd7 7.e4 h6 8.Be3 a6 9.a4 Rb8 10.Nd2 O-O 11.Be2 Nxe4 12.Ndxe4 f5 13.O-O fxe4 14.Nxe4 Nf6 15.Ng3 b5 16.axb5 axb5 17.b3 b4 18.h3 Bb7 19.Bc4 Nd7 20.Qg4 Nf6 21.Qe6+ Rf7 22.Nf5 Kf8 23.f4 e4 24.Bxc5 Bc8 25.Nxe7 Bxe6 26.Ng6+ Ke8 27.dxe6 Rc7 28.Bd4 d5 29.Be2 Rxc2 30.Rf2 Rxe2 31.Rxe2 Ra8 32.Rea2 Rxa2 33.Rxa2 Qc8 34.f5 Ng8 35.Ra7 Qc1+ 36.Kh2 Qc6 37.Rxg7 Ne7 38.Rxe7+ Kd8 39.Rd7+ Kc8 40.Ne7+ 1-0

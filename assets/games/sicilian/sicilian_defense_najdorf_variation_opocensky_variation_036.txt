@@ -1,0 +1,14 @@
+[Event "Round 6: Spyropoulos, Nikolaos - Baklan, Vladimir"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/8iianWuz"]
+[Date "2026.07.22"]
+[Round "6.4"]
+[White "Spyropoulos, Nikolaos"]
+[Black "Baklan, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2379"]
+[BlackElo "2525"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nf3 Be7 8.Bg5 Nbd7 9.a4 Qb6 10.Qc1 h6 11.Be3 Qc6 12.Nd2 O-O 13.O-O Nc5 14.f3 Be6 15.a5 Rac8 16.Qe1 Rfe8 17.Qf2 Ncd7 18.Bd3 Nc5 19.Be2 d5 20.exd5 Bxd5 21.Nc4 Ncd7 22.b3 Bb4 23.Na2 Bf8 24.Nc3 Qe6 25.Nxd5 Nxd5 26.Kh1 Nxe3 27.Qxe3 Bc5 28.Qe4 Nf6 29.Qh4 Nd5 30.Bd3 Nf4 31.Rad1 f5 32.Rfe1 g5 33.Qg3 Qf6 34.c3 Rcd8 35.Bc2 Rxd1 36.Rxd1 e4 37.fxe4 fxe4 38.b4 Ne2 39.Qe1 Nxc3 40.bxc5 Nxd1 1/2-1/2

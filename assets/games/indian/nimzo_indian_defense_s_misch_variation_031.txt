@@ -1,0 +1,14 @@
+[Event "Round 3: Iniyan, Pa - Aizenberg, Benny"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-3/tYbazjLj/XkSzzdVu"]
+[Date "2026.07.20"]
+[Round "3.6"]
+[White "Iniyan, Pa"]
+[Black "Aizenberg, Benny"]
+[Result "1-0"]
+[WhiteElo "2581"]
+[BlackElo "2476"]
+[ECO "E28"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Ne2 e5 8.Ng3 Re8 9.f3 Nc6 10.e4 b6 11.Be2 Na5 12.O-O Ba6 13.Nf5 Nd7 14.f4 exf4 15.Bxf4 Nf8 16.h4 Bc8 17.Nxg7 Kxg7 18.Bg5 f6 19.Bxf6+ Qxf6 20.Rxf6 Kxf6 21.Qd2 Kg7 22.Qg5+ Ng6 23.h5 Rf8 24.Rf1 Rxf1+ 25.Bxf1 1-0

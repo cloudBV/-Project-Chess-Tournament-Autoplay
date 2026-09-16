@@ -1,0 +1,15 @@
+[Event "Round 5: David, Idan - Golan, Ori"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-5/MpEuSFMD/Ai2PmCBp"]
+[Date "2026.07.17"]
+[Round "5.12"]
+[White "David, Idan"]
+[Black "Golan, Ori"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2107"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.Nf3 Nh5 5.Bg5 h6 6.Bh4 g5 7.Nfd2 Nf4 8.exf4 gxh4 9.Nf3 e6 10.Nbd2 Qf6 11.g3 c5 12.Qe2 cxd4 13.O-O-O Bc5 14.Bg2 h3 15.Bxh3 Nc6 16.Nb3 O-O 17.Ne5 Nxe5 18.fxe5 Qf3 19.Rhe1 Qxe2 20.Rxe2 Bf3 21.Red2 Bxd1 22.Kxd1 d6 23.exd6 Rad8 24.Nc1 Bxd6 25.f4 Rfe8 26.Nd3 f5 27.Re2 h5 28.Ne1 Bf8 29.a3 Bg7 30.Nd3 Kf7 31.Ke1 Bf6 32.Kf2 Rg8 33.Kf3 a5 34.Re1 Rc8 35.Re2 Rc7 36.Rd2 Rgc8 37.Ne1 d3 38.c3 Rd8 39.Nxd3 Rcd7 40.Bf1 Ke7 41.Rd1 Rd6 42.Be2 h4 43.Ke3 hxg3 44.hxg3 Rh8 45.Rg1 Rdd8 46.Ne1 Rh3 47.Nf3 Rg8 48.Kf2 Rd8 49.Bc4 Rhh8 50.Re1 Rd6 51.Rg1 Kd8 52.Re1 Re8 53.Be2 Kc7 54.a4 Kb7 55.Bc4 Re7 56.Bb5 Rh7 57.Bc4 Re7 58.Bb5 Rc7 59.Rh1 Be7 60.Be2 Rd8 61.Bb5 Bc5+ 62.Kg2 Rg7 63.Bc4 Be3 64.Rh4 Rd6 65.b3 Bd2 66.Nd4 Bxc3 67.Nxe6 Re7 68.Rh6 Rd2+ 69.Kf3 Rd6 1/2-1/2

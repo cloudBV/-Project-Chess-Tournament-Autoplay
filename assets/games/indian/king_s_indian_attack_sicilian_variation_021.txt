@@ -1,0 +1,15 @@
+[Event "Round 1: Ozen, Ilhami Goktug - Yesil, Mehdi"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/7siA3FMN"]
+[Date "2026.07.13"]
+[Round "1.32"]
+[White "Ozen, Ilhami Goktug"]
+[Black "Yesil, Mehdi"]
+[Result "1-0"]
+[WhiteElo "2097"]
+[BlackElo "2041"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 Nf6 5.Bg2 Be7 6.O-O d5 7.Nbd2 O-O 8.Re1 Re8 9.e5 Nd7 10.Nf1 Rb8 11.h4 b5 12.N1h2 a5 13.Bf4 a4 14.a3 b4 15.h5 h6 16.Ng4 bxa3 17.bxa3 Bf8 18.Qd2 Kh7 19.c4 Na5 20.Rab1 Rxb1 21.Rxb1 Nb3 22.Qe3 Nb6 23.Nd2 Nd4 24.Bxh6 Nf5 25.Qf4 Be7 26.Rxb6 Qxb6 27.Bg5 Bxg5 28.Qxg5 Qd8 29.Qf4 dxc4 30.dxc4 Qe7 31.h6 Nxh6 32.Nxh6 gxh6 33.Ne4 Rh8 34.Nf6+ Kg7 35.Bc6 Kf8 36.Qe4 Qc7 37.Bxa4 Bb7 38.Qf4 Bc6 39.Bxc6 Qxc6 40.Ne4 Rh7 41.Nd6 Qa4 42.Qf6 Qa8 43.Nxf7 Ke8 44.Qxe6+ Kf8 45.Qf6 Ke8 46.e6 Qb8 47.Qg6 Rh8 48.Nxh8+ 1-0

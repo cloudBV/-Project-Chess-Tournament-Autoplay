@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.17"]
+[Round "4.7"]
+[White "Bahamondes Ortiz, Benjamin"]
+[Black "Henriquez Hidalgo, Camilo Alonso"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2148"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.a3 Be7 7.Qc2 O-O 8.Bg2 c6 9.O-O Nbd7 10.Bf4 a4 11.Nc3 Qa5 12.c5 Qa6 13.e4 b6 14.e5 Ne8 15.Bg5 Bxg5 16.Nxg5 g6 17.cxb6 Nxb6 18.Rfd1 Qa5 19.Na2 Nc4 20.Nb4 Bd7 21.Ne4 dxe4 22.Qxc4 Rc8 23.Rac1 Nc7 24.Bxe4 Nd5 25.Nd3 Ra8 26.Nc5 Bc8 27.Kg2 Ba6 28.Qc2 Bb5 29.h4 Kg7 30.h5 Qd8 31.Qd2 Qe7 32.Rh1 g5 33.h6+ Kh8 34.Rh5 Rg8 35.Bd3 f5 36.exf6 Qxf6 37.Bxb5 cxb5 38.Qe2 Qxd4 39.Nxe6 Qf6 40.Rd1 Rae8 41.Rxd5 Rxe6 42.Qd2 Rf8 43.Rhxg5 Qf3+ 44.Kg1 Rxh6 45.Qd4+ Qf6 46.Rdf5 1-0

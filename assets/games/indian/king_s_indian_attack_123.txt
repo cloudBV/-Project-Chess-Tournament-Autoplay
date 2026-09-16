@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.7"]
+[White "Pulpan, Jakub"]
+[Black "Blatny, Pavel"]
+[Result "0-1"]
+[WhiteElo "2488"]
+[BlackElo "2314"]
+[ECO "A07"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.g3 d5 2.Nf3 e6 3.Bg2 c6 4.O-O f5 5.d4 Bd6 6.b3 Qf6 7.Ba3 Bxa3 8.Nxa3 Nd7 9.c4 Ne7 10.Nc2 O-O 11.Nce1 g5 12.Nd3 Ng6 13.e3 Kg7 14.Qd2 h5 15.Nfe5 Ndxe5 16.dxe5 Nxe5 17.Nxe5 Qxe5 18.f4 Qf6 19.e4 dxe4 20.fxg5 Qe5 21.Rae1 Qc5+ 22.Kh1 Qe7 23.h4 Bd7 24.Qc3+ e5 25.Bh3 c5 26.Rd1 Bc6 27.Kh2 Kg6 28.Rd2 f4 29.gxf4 exf4 30.Rfd1 Rad8 31.Rxd8 Rxd8 32.Rxd8 Qxd8 33.Qe5 Qd2+ 34.Bg2 Kf7 35.Qf6+ Ke8 36.Qh8+ Kd7 37.Qg7+ Kc8 38.Kg1 Qe1+ 39.Kh2 Qxh4+ 40.Bh3+ Kd8 41.Qf6+ Kc7 42.Qe7+ Kb6 43.Qd8+ Ka6 0-1

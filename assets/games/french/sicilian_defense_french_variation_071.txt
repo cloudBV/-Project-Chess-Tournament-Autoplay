@@ -1,0 +1,14 @@
+[Event "Round 6: Bon, Michael - Chretien Stanus, Liam"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-6/TfCvIPio/PR5rACiv"]
+[Date "2026.07.23"]
+[Round "6.9"]
+[White "Bon, Michael"]
+[Black "Chretien Stanus, Liam"]
+[Result "0-1"]
+[WhiteElo "2359"]
+[BlackElo "2058"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.Bb5 Nd4 5.O-O Nxb5 6.Nxb5 a6 7.Nc3 d6 8.d4 cxd4 9.Qxd4 Ne7 10.Bg5 Nc6 11.Qd2 Qc7 12.Rad1 h6 13.Bf4 Na5 14.Bxd6 Bxd6 15.Qxd6 Qxd6 16.Rxd6 Nc4 17.Rd4 b5 18.a4 e5 19.Rd5 b4 20.Nd1 f6 21.Rc5 Be6 22.b3 Nd6 23.Re1 Kd7 24.Re2 Rac8 25.Rxc8 Rxc8 26.Kf1 Bg4 27.Ne3 Bh5 28.Nd5 Ke6 29.Nxb4 a5 30.Nd3 Bg6 31.Nfe1 Bxe4 32.c4 Bh7 33.Nf4+ Kf7 34.Nd5 Rb8 35.Re3 Nf5 36.Rc3 Nd4 37.Nf3 Rxb3 38.Rxb3 Nxb3 39.Ke2 Nc5 40.Nd2 Bc2 41.Nc3 Nxa4 42.Nxa4 Bxa4 43.Kd3 Bc6 44.g3 Ke6 45.Kc3 Kd6 46.Nb3 a4 47.Nc1 f5 48.Nd3 e4 49.Nb4 g5 50.Kd4 f4 51.gxf4 gxf4 52.c5+ Kd7 53.Nc2 e3 54.fxe3 f3 0-1

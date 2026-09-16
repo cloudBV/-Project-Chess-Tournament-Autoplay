@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/Nf6JU3Rd"]
+[Date "2026.07.14"]
+[Round "2.18"]
+[White "Martins, Bruno Andre Leite"]
+[Black "Droin, Augustin"]
+[Result "0-1"]
+[WhiteElo "2409"]
+[BlackElo "2525"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 h5 9.Nd5 Bxd5 10.exd5 Nbd7 11.Qd2 g6 12.O-O-O Nb6 13.Qa5 Bh6 14.Bxh6 Rxh6 15.Qd2 Rh8 16.Na5 Qc7 17.Kb1 Kf8 18.c4 Nbd7 19.a3 Kg7 20.Rc1 b6 21.Nc6 Nb8 22.Nb4 a5 23.Na2 Na6 24.Bd3 h4 25.g4 Nc5 26.Bc2 Rae8 27.Nc3 Qd8 28.Nb5 Nh7 29.f4 exf4 30.Qxf4 Nb7 31.Rhf1 Rhf8 32.Qd4+ Kg8 33.Rf2 Nc5 34.Rcf1 Re5 35.Na7 Qg5 36.Nc6 Qe3 37.Qxe3 Rxe3 38.Rf3 Rxf3 39.Rxf3 Re8 40.b4 axb4 41.axb4 Nd7 42.Ra3 Re2 43.Ra7 Ndf6 44.Ne7+ Kf8 45.Nc8 h3 46.Nxd6 Ng5 47.c5 bxc5 48.bxc5 Rxh2 49.c6 Nxd5 50.Bb3 Nb6 51.c7 Rd2 52.Nxf7 h2 53.Ra8+ Kg7 54.Rh8 Nxf7 55.Rh4 Nd6 56.Bc2 Rg2 57.Kb2 Nd5 58.Kb3 Nxc7 59.Kc3 Ne6 60.Bb3 Nf4 61.Kd4 g5 0-1

@@ -1,0 +1,15 @@
+[Event "Round 8: Aarit Kapil - Vafiadis, Kleanthis"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/9vReepFk"]
+[Date "2026.07.10"]
+[Round "8.12"]
+[White "Aarit Kapil"]
+[Black "Vafiadis, Kleanthis"]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2160"]
+[ECO "A49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 b5 7.c4 bxc4 8.Nfd2 c6 9.Nxc4 d5 10.Ne5 Nfd7 11.Bb2 Nxe5 12.dxe5 Nd7 13.f4 a5 14.Qc2 Qb6+ 15.Kh1 Ba6 16.Nc3 e6 17.Rfc1 Rfc8 18.Na4 Qe3 19.Bf3 g5 20.Rd1 c5 21.Rg1 c4 22.Bc1 Qd4 23.Bb2 Qe3 24.Qd1 c3 25.Bc1 Qa7 26.Qe1 d4 27.h4 Bb7 28.hxg5 Bxf3+ 29.exf3 Nb6 30.Nxb6 Qxb6 31.Qe4 a4 32.b4 Qxb4 33.Kg2 a3 34.Rh1 Qc4 35.Qxh7+ Kf8 36.Kf2 d3 37.Be3 Rab8 38.g4 Rb2+ 39.Kg3 d2 40.g6 Qd3 41.gxf7 Qxh7 42.Rxh7 Rxa2 43.Rah1 Rc2 44.f5 Rc1 45.fxe6 Rxh1 46.Rh5 a2 47.Rxh1 Ke7 48.f4 Bxe5 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.3"]
+[White "Raczek, Krzysztof"]
+[Black "Ugorek, Kacper"]
+[Result "1-0"]
+[WhiteElo "2428"]
+[BlackElo "2383"]
+[ECO "A37"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 c5 4.Bg2 Nc6 5.Nf3 e5 6.d3 Nge7 7.Nd2 d6 8.Nf1 Rb8 9.Ne3 O-O 10.O-O a6 11.b3 b5 12.Bb2 f5 13.Ned5 Kh8 14.e3 Nxd5 15.Nxd5 Ne7 16.Qd2 Nxd5 17.cxd5 Bd7 18.b4 cxb4 19.Qxb4 Qb6 20.Bc3 Ra8 21.Qa5 Qxa5 22.Bxa5 Rfc8 23.Rac1 Kg8 24.Bc7 Bf8 25.f4 Ra7 26.Ba5 exf4 27.gxf4 Raa8 28.e4 Rxc1 29.Rxc1 Rc8 30.Rxc8 Bxc8 31.Bb4 Kf7 32.Kf2 h6 33.e5 g5 34.Bh3 g4 35.e6+ Ke7 36.Bg2 Bg7 37.Ke3 h5 38.Be1 Bf6 39.h3 Bb7 40.hxg4 fxg4 41.Ke4 h4 42.Kf5 g3 43.Kg4 Ba8 44.Bd2 Bb7 45.f5 Ba8 46.Bb4 Bb7 47.Be1 Ba8 48.Ba5 Bb7 49.Bd2 Ba8 50.a3 Bb7 51.Ba5 Ba8 52.Bb4 Bb7 53.Bd2 Ba8 54.Be1 Bb7 55.Kh5 a5 56.Bxa5 h3 57.Be4 Bd4 58.Bd2 g2 59.Bg5+ Bf6 60.Be3 Be5 61.Kg6 Bf6 62.Bf2 Ba8 63.d4 Bb7 64.Kh5 b4 65.axb4 Ba6 66.Kg4 Bd3 67.Bf3 Be2 68.Kf4 Bd1 69.Be4 Bc2 70.Bf3 Bd1 71.b5 Kd8 72.b6 Kc8 73.Be4 Bc2 74.Bg1 1-0

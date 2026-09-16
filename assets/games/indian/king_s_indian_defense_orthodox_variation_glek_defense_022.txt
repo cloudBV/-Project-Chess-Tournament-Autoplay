@@ -1,0 +1,15 @@
+[Event "Round 7: Butzen, Robin - Rojas Keim, Luis"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/iviwYtyn"]
+[Date "2026.07.21"]
+[Round "7.12"]
+[White "Butzen, Robin"]
+[Black "Rojas Keim, Luis"]
+[Result "1-0"]
+[WhiteElo "2112"]
+[BlackElo "2303"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 Na6 7.O-O e5 8.Re1 exd4 9.Nxd4 Re8 10.Bf1 Nb4 11.Bg5 h6 12.Bh4 g5 13.Bg3 Ng4 14.Rc1 h5 15.h3 h4 16.Bxh4 gxh4 17.hxg4 Qg5 18.Nf5 Bxf5 19.gxf5 Be5 20.Qf3 Nc6 21.Nd5 Rac8 22.b3 Nd4 23.Qe3 Qg7 24.Red1 c5 25.Rd3 Bf6 26.Nxf6+ Qxf6 27.Qf4 Re5 28.Rh3 Rce8 29.f3 Kg7 30.Rxh4 Rg8 31.Rg4+ Kf8 32.Rxg8+ Kxg8 33.Bd3 Nc6 34.Kf2 Re8 35.Rh1 Ne5 36.Be2 Ng6 37.Qg4 Qd4+ 38.Kg3 Qe5+ 39.f4 Qxe4 40.Bf3 1-0

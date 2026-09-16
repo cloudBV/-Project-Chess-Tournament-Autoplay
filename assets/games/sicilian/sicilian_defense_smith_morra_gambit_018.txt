@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.19"]
+[White "Horak, Martin"]
+[Black "Andreev, Eduard"]
+[Result "1/2-1/2"]
+[WhiteElo "2091"]
+[BlackElo "2295"]
+[ECO "B21"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 Nf6 5.Nc3 d6 6.Nf3 g6 7.Be2 Bg7 8.O-O O-O 9.Nd5 Bg4 10.c3 Nd7 11.Bg5 h6 12.Bh4 g5 13.Bg3 e6 14.Ne3 Nde5 15.Nxe5 Bxe2 16.Qxe2 dxe5 17.f3 Qe7 18.a4 Rad8 19.Rfd1 Rxd1+ 20.Rxd1 Rd8 21.Bf2 Bf8 22.b4 Qc7 23.Rxd8 Nxd8 24.Nc4 b6 25.Qd3 Nb7 26.h4 f6 27.Na3 Qc6 28.Qc4 Qd7 29.Nb5 Nd8 30.Kh2 Kf7 31.Qc7 Qxc7 32.Nxc7 Ke7 33.a5 bxa5 34.bxa5 Kd7 35.Na6 Nc6 36.h5 Nxa5 37.Bxa7 Kc6 38.Bf2 Bd6 39.Nb4+ Kb5 40.Nc2 Nc4 41.Ne3 Nxe3 42.Bxe3 Kc4 43.Bb6 f5 44.Bd8 Kxc3 45.Bf6 fxe4 46.fxe4 Kd3 47.Bg7 Kxe4 48.Bxh6 Kf5 49.Kg3 e4+ 50.Kf2 Bc5+ 51.Kg3 Bd6+ 52.Kf2 Kg4 53.Ke3 Kxh5 54.Bg7 Kg6 55.Bc3 Kf5 56.Ke2 Bc5 57.Bd2 Kg4 58.Be1 Bd6 59.Ke3 Bg3 60.Bc3 Bf4+ 61.Kxe4 Kg3 62.Bf6 g4 63.Bh4+ Kxh4 64.Kxf4 e5+ 1/2-1/2

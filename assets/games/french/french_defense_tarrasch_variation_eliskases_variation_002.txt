@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.19"]
+[Round "17.6"]
+[White "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Black "Komodo 14.1"]
+[Result "1/2-1/2"]
+[WhiteElo "3246"]
+[BlackElo "3449"]
+[ECO "C07"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Eliskases Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd8 7.O-O Ne7 8.Nb3 Qc7 9.Qd3 Nbc6 10.Nbxd4 Nxd4 11.Nxd4 a6 12.Re1 Ng6 13.Qc3 Bd6 14.Nf5 Bxh2+ 15.Kf1 Be5 16.Nxg7+ Ke7 17.Qb4+ Qd6 18.Bg5+ f6 19.Qxd6+ Kxd6 20.Bh6 b5 21.Rad1+ Ke7 22.Bb3 a5 23.a3 a4 24.Ba2 Rd8 25.Rxd8 Kxd8 26.c3 Ke7 27.g3 b4 28.cxb4 Bxb2 29.Nxe6 Ne5 30.Bd5 Rb8 31.Bf8+ Ke8 32.Bd6 Bxe6 33.Bxe6 Rb6 34.Bxe5 fxe5 35.Bc4 Kd7 36.Re3 Kd6 37.Be2 Rc6 38.Bb5 Rc3 39.Rxc3 Bxc3 40.Bxa4 Bb2 41.Be8 Bxa3 42.b5 Bc5 43.f3 Kd5 44.Bc6+ Kc4 45.Kg2 Be3 46.g4 1/2-1/2

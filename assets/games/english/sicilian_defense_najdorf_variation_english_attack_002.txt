@@ -1,0 +1,14 @@
+[Event "Round 8: Siddharth, Sai - Adamovic, Nikola"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/zYpbNG0X"]
+[Date "2026.07.01"]
+[Round "8.15"]
+[White "Siddharth, Sai"]
+[Black "Adamovic, Nikola"]
+[Result "0-1"]
+[WhiteElo "2093"]
+[BlackElo "2083"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 h5 9.Qd2 Nbd7 10.O-O-O Be7 11.Kb1 Rc8 12.Nd5 Nxd5 13.exd5 Bf5 14.Bd3 Bxd3 15.Qxd3 Bg5 16.Bf2 b5 17.h4 Be7 18.Qe2 Qc7 19.g4 a5 20.Rc1 a4 21.Nd2 a3 22.Nb3 axb2 23.Kxb2 Qc4 24.Qxc4 bxc4 25.Na5 Nf6 26.g5 Nxd5 27.Rcd1 Rb8+ 28.Ka1 Nb4 29.Rd2 c3 30.Re2 Ra8 31.Rb1 d5 32.Bb6 Ra6 33.a3 Rxb6 34.axb4 O-O 35.Rd1 Ra8 36.Rxd5 Bxb4 37.Rexe5 Rba6 0-1

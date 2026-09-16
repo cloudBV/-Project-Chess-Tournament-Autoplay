@@ -1,0 +1,15 @@
+[Event "Round 7: Vidyarthi, Omya - Novik, Maxim"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-7/NJJYVIrT/09JH44wV"]
+[Date "2026.07.11"]
+[Round "7.2"]
+[White "Vidyarthi, Omya"]
+[Black "Novik, Maxim"]
+[Result "1/2-1/2"]
+[WhiteElo "2134"]
+[BlackElo "2362"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.d4 Nxc3 6.bxc3 g6 7.e3 Bg7 8.Bd3 O-O 9.O-O Qc7 10.Ba3 b6 11.Be4 Bb7 12.Bxb7 Qxb7 13.dxc5 Bxc3 14.Rb1 Bf6 15.Bb2 Nd7 16.Bxf6 Nxf6 17.cxb6 axb6 18.Rb2 Ra6 19.Qd4 Rfa8 20.Rfb1 Qe4 21.Rxb6 Rxa2 22.h3 Qxd4 23.Nxd4 Ne4 24.f3 Nd6 25.Nc6 Nc4 26.Rb8+ Rxb8 27.Rxb8+ Kg7 28.Rb3 Re2 29.Nxe7 Nxe3 30.g4 Nc2 31.Nc6 Re6 32.Rc3 Ne3 33.Nd4 Re8 34.Kh2 Nd5 35.Rc5 1/2-1/2

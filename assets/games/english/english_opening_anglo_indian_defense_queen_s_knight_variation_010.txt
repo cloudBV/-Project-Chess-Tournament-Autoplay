@@ -1,0 +1,14 @@
+[Event "Round 8: Gutierrez Marco, Dario - Vinuesa Sorli, Ruben"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-8/aWvwmo2y/kDYzUutX"]
+[Date "2026.07.18"]
+[Round "8.8"]
+[White "Gutierrez Marco, Dario"]
+[Black "Vinuesa Sorli, Ruben"]
+[Result "1/2-1/2"]
+[WhiteElo "2005"]
+[BlackElo "2111"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.g3 Bg7 5.Bg2 O-O 6.Nge2 c5 7.O-O Nc6 8.d3 Rb8 9.h3 a6 10.a4 Ne8 11.Be3 b5 12.axb5 axb5 13.Nxb5 Nc7 14.Nxc7 Qxc7 15.Rb1 Bxb2 16.Qd2 Bg7 17.Bh6 Be6 18.Bxg7 Kxg7 19.f4 Rxb1 20.Rxb1 Rb8 21.Rb5 Rxb5 22.cxb5 Nb4 23.d4 Bd7 24.dxc5 Qxc5+ 25.Qd4+ Qxd4+ 26.Nxd4 e5 27.fxe5 dxe5 28.Nf3 Kf6 29.Bf1 h6 30.Kf2 Nc2 31.Bd3 Nb4 32.Bf1 Nc2 33.Bd3 Nb4 34.Bf1 1/2-1/2

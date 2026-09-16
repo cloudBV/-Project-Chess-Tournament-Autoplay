@@ -1,0 +1,14 @@
+[Event "Round 3: Balabayeva, Xeniya - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/UPatIDLx"]
+[Date "2026.07.15"]
+[Round "3.6"]
+[White "Balabayeva, Xeniya"]
+[Black "Alexakis, Dimitris"]
+[Result "1/2-1/2"]
+[WhiteElo "2302"]
+[BlackElo "2525"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 Bxc3+ 5.bxc3 d6 6.Qc2 Qe7 7.e4 e5 8.Bd3 Bg4 9.Nd2 Nc6 10.f3 Bd7 11.Nb3 Nh5 12.O-O O-O 13.f4 exf4 14.Bxf4 Nxf4 15.Rxf4 b6 16.Raf1 Rae8 17.Nc1 Nd8 18.Ne2 Ne6 19.R4f2 c5 20.Nf4 cxd4 21.Nxe6 fxe6 22.e5 h6 23.Bh7+ Kh8 24.Bg6 Rd8 25.exd6 Qxd6 26.Rxf8+ Rxf8 27.Rxf8+ Qxf8 28.cxd4 e5 29.d5 Qd6 30.h4 Kg8 31.h5 Kf8 32.Qf2+ Qf6 33.Qe3 Ke7 34.c5 bxc5 35.Qxc5+ Qd6 36.Qxa7 Qxd5 37.Bf5 Qd1+ 38.Kh2 Qxh5+ 39.Bh3 Qd1 40.a4 Qd4 41.Qc7 Qd6 42.Qxd7+ Qxd7 43.Bxd7 Kxd7 44.Kg3 h5 45.Kf3 g5 46.Ke4 g4 47.Kxe5 h4 48.Kf4 h3 49.gxh3 gxh3 50.Ke4 1/2-1/2

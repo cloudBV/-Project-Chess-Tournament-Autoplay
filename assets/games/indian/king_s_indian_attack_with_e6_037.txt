@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "4.7"]
+[White "Castillo Dalmau, Albert"]
+[Black "Mulet Polo, Pau"]
+[Result "1-0"]
+[WhiteElo "2329"]
+[BlackElo "2010"]
+[ECO "A07"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Bd6 5.c4 O-O 6.d4 h6 7.Nc3 Nc6 8.b3 dxc4 9.bxc4 e5 10.d5 Ne7 11.c5 Bxc5 12.Nxe5 Bb4 13.Bb2 Bxc3 14.Bxc3 Nexd5 15.Bb2 Bf5 16.Qa4 Be6 17.Rfd1 c6 18.Ba3 Re8 19.e4 Nc3 20.Rxd8 Nxa4 21.Rxa8 Rxa8 22.Rb1 Nb6 23.Rb2 Rd8 24.Bf3 Bh3 25.Be7 Re8 26.Bd6 Re6 27.Bb8 Re8 28.Bxa7 Rxe5 29.Bxb6 Nxe4 30.Bd4 Nd2 31.Bxe5 Nxf3+ 32.Kh1 Nxe5 33.Rxb7 Be6 34.a4 Nc4 35.Ra7 Nd6 36.Kg1 c5 37.Rc7 c4 38.a5 Nb5 39.Rc5 Na7 40.a6 Kf8 41.Rc7 Nb5 42.Rb7 Nd6 43.a7 Bd5 44.a8=Q+ Ne8 45.Qa3+ Kg8 46.Rb8 Bc6 47.Qc5 1-0

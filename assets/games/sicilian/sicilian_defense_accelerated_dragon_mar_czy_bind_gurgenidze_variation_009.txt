@@ -1,0 +1,15 @@
+[Event "Round 6: Gucer, Gunes - Aynaoglu, Efe"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/lHdG9NL9"]
+[Date "2026.07.16"]
+[Round "6.37"]
+[White "Gucer, Gunes"]
+[Black "Aynaoglu, Efe"]
+[Result "1/2-1/2"]
+[WhiteElo "2006"]
+[BlackElo "2193"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be3 Bg7 9.f3 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.Bd3 Rfc8 13.b3 a6 14.Nd5 Qxd2+ 15.Kxd2 Bxd5 16.cxd5 Nd7 17.f4 Bb2 18.Rc4 Ba3 19.Rb1 a5 20.Bd4 Kf8 21.Bb2 Rxc4 22.Bxc4 Bxb2 23.Rxb2 Rc8 24.Rc2 Nf6 25.Bd3 Rxc2+ 26.Bxc2 Ke8 27.h3 Kd8 28.Ke3 Kc7 29.Kd4 Kb6 30.g4 Nd7 31.a3 f6 32.h4 h6 33.Bd3 g5 34.hxg5 hxg5 35.fxg5 fxg5 36.b4 Ne5 37.Be2 Ng6 38.Bf1 axb4 39.axb4 Ne5 40.Be2 Kc7 41.Ke3 Kd8 42.Kd4 Kd7 43.Bb5+ Kd8 44.Be2 Ke8 45.Bd1 Kd7 46.Be2 Kc7 47.Ke3 Kb6 48.Kd4 1/2-1/2

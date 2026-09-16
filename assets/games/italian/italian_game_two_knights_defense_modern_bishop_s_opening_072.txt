@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.4"]
+[White "Perucki, Maciej"]
+[Black "Ochedzan, Filip"]
+[Result "0-1"]
+[WhiteElo "2100"]
+[BlackElo "2122"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.a4 a6 6.c3 Bc5 7.O-O d6 8.b4 Ba7 9.a5 O-O 10.Re1 Bg4 11.h3 Bh5 12.Nbd2 Qd7 13.Nf1 Rfe8 14.Ng3 Bg6 15.Qb3 Rad8 16.b5 axb5 17.Bxb5 Rb8 18.Qa4 Ra8 19.Qc4 Qe6 20.Qxe6 Rxe6 21.Bd2 Nxa5 22.Rxa5 Bxf2+ 23.Kxf2 Rxa5 24.Bc4 Re7 25.Nh4 Bh7 26.Nhf5 Bxf5 27.Nxf5 Rd7 28.g4 c6 29.Bb3 Ra3 30.Rb1 d5 31.exd5 Nxd5 32.Bxd5 cxd5 33.Rb5 Ra2 34.Ke2 Kh7 35.d4 exd4 36.Nxd4 Ra1 37.Kf3 Rd1 38.Nb3 Rh1 39.Kg2 Rb1 40.Kf3 Re7 41.h4 Rh1 42.Rxd5 Rh3+ 43.Kf4 Rxh4 44.Nd4 Rh3 45.g5 Rd3 46.Bc1 Rxc3 47.Bb2 hxg5+ 48.Rxg5 Rc4 49.Kf3 f6 50.Rg2 Rd7 51.Ke3 g5 52.Rf2 Kg6 53.Nb5 f5 54.Nd4 Rc5 55.Nf3 Re7+ 56.Kd4 Rb5 57.Kc4 Ra5 58.Bc3 Re4+ 59.Nd4 Rae5 60.Kd3 g4 61.Rb2 Re3+ 62.Kc4 f4 63.Rb6+ Kg5 64.Rxb7 Kh4 65.Rh7+ Kg3 66.Rf7 f3 67.Nxf3 gxf3 68.Bxe5+ Rxe5 69.Kd3 Kg2 70.Rg7+ Kf1 71.Rf7 f2 72.Kd2 Re8 73.Rf6 Rd8+ 74.Kc2 Rd5 75.Kc1 Kg2 76.Rg6+ Kf3 77.Rf6+ Kg3 78.Kc2 Rd4 79.Kc3 Rf4 0-1

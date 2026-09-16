@@ -1,0 +1,14 @@
+[Event "Round 9: Dvalishvili, Pavel S. - Gudovanyi, Lev"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-9/j9WVZqtk/LUgOnVrt"]
+[Date "2026.07.02"]
+[Round "9.7"]
+[White "Dvalishvili, Pavel S."]
+[Black "Gudovanyi, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2264"]
+[BlackElo "2151"]
+[ECO "B52"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nf6 6.Re1 Nc6 7.c4 g6 8.Nc3 Bg7 9.h3 O-O 10.d3 h6 11.Be3 e5 12.a3 Ne8 13.b4 cxb4 14.axb4 Nxb4 15.Rxa7 Rxa7 16.Bxa7 f5 17.d4 fxe4 18.Nxe4 b5 19.dxe5 bxc4 20.Be3 Nd3 21.Re2 dxe5 22.Rc2 Qd5 23.Nfd2 Nf6 24.Nxf6+ Rxf6 25.Rxc4 Nf4 26.Qg4 Kh7 27.Rc5 Qd3 28.Rc7 Rf5 29.Bxf4 exf4 1/2-1/2

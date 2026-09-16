@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.08"]
+[Round "8.2"]
+[White "Diachek, Andrii"]
+[Black "Chiszko, Oskar"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2214"]
+[ECO "A13"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6 7.Qc2 c5 8.Nc3 Qc7 9.O-O b6 10.d4 Bb7 11.Bf4 Bd6 12.Bxd6 Qxd6 13.Rfd1 O-O 14.e4 Qe7 15.d5 exd5 16.exd5 Qd6 17.Nd2 b5 18.a4 Qb6 19.axb5 axb5 20.Qb3 Rab8 21.Nde4 Rfe8 22.Nxf6+ Nxf6 23.Qxb5 Nxd5 24.Bxd5 Qxb5 25.Bxf7+ Kxf7 26.Nxb5 Re7 27.Nd6+ Kf6 28.Nxb7 Rexb7 29.Ra6+ Rb6 30.Rxb6+ Rxb6 31.Rd2 Rb3 32.Kf1 c4 33.Rc2 Ke6 34.Ke2 Kd5 35.f4 Ke6 36.Kd2 Kf5 37.Kc1 Rb4 38.Rd2 h6 39.Kc2 Rb3 40.Rd4 Rb4 41.Rd7 g5 42.fxg5 hxg5 43.Rd4 Ke5 44.Rd8 Kf5 45.Rf8+ Kg4 46.Rg8 Kh5 47.h4 gxh4 48.Rh8+ Kg4 49.gxh4 Kf5 50.h5 Kf6 51.Rg8 Rb5 52.Rg4 Rxh5 53.Rxc4 Rh3 54.Re4 Kf5 55.Re1 Kf6 56.b3 Rh8 57.b4 Rb8 58.Kb3 Kf5 59.Re2 Kf6 60.Kc4 Rc8+ 61.Kd5 Rb8 62.Kc5 Rc8+ 63.Kd6 Rb8 64.Re4 Kf5 65.Rc4 Kf6 66.Kc7 Rb5 67.Kc6 Rb8 68.b5 Rc8+ 69.Kd5 Rb8 70.Kc5 Ke6 71.Rd4 Rc8+ 72.Kb6 Rb8+ 73.Kc6 Ke5 74.Rd1 Rc8+ 75.Kb7 Rc2 76.b6 Ke6 1-0

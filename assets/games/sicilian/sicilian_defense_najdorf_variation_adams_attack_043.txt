@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-3/j8fQQG3m/NSyQDV4S"]
+[Date "2026.07.21"]
+[Round "3.11"]
+[White "Ramsdal, Jens Albert"]
+[Black "Skovgaard, Andreas"]
+[Result "0-1"]
+[WhiteElo "2328"]
+[BlackElo "2175"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 Be7 8.g4 h6 9.Rg1 g5 10.Bg2 Be6 11.Be3 Nbd7 12.Nh2 Nb6 13.Nf1 Rc8 14.Bxb6 Qxb6 15.Rb1 h5 16.Ne3 hxg4 17.hxg4 Bxg4 18.Nxg4 Nxg4 19.Qxg4 Rxc3 20.Qe2 Rh2 21.Kf1 g4 22.Rh1 Rxh1+ 23.Bxh1 g3 24.Bf3 gxf2 25.bxc3 Qxb1+ 26.Kxf2 Qxa2 27.c4 Qb2 28.Bh5 a5 29.Bxf7+ Kxf7 30.Qh5+ Kg7 31.Qg4+ Kf8 32.Qf5+ Ke8 33.Qc8+ Bd8 34.Qe6+ Kf8 0-1

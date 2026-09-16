@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.14"]
+[Round "5.3"]
+[White "Lazaridis, Stavros"]
+[Black "Hunt, Harriet V"]
+[Result "1/2-1/2"]
+[WhiteElo "2103"]
+[BlackElo "2299"]
+[ECO "B90"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a3 e5 7.Nf5 Bxf5 8.exf5 Qc7 9.Bg5 Nbd7 10.Be2 Be7 11.O-O O-O 12.Bf3 Rac8 13.Rc1 b5 14.g3 h6 15.Bxf6 Nxf6 16.h4 Qd7 17.Qd3 Rc4 18.Bd5 Rd4 19.Qf3 Bd8 20.Bc6 Qa7 21.Nd5 Qc5 22.b4 Qc4 23.Ne3 Qc3 24.Nd5 Qxf3 25.Nxf6+ Bxf6 26.Bxf3 e4 27.Bg2 Rd8 28.Rfd1 d5 29.Rxd4 Bxd4 30.Rd1 Bb6 31.Kf1 Kf8 32.f3 e3 33.f4 d4 34.Bb7 Rd7 35.Bxa6 Rc7 36.Bxb5 Rxc2 37.a4 Rb2 38.a5 Ba7 39.Bd3 Rxb4 40.a6 Rb3 41.Ke2 Rb2+ 42.Kf3 Ke7 43.Rb1 Rxb1 44.Ke4 1/2-1/2

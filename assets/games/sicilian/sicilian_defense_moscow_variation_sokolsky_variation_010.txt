@@ -1,0 +1,15 @@
+[Event "Round 2: Zhang, Onno - Manukyan, Sargis A."]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-2/HFX7MsMo/W24scM1C"]
+[Date "2026.07.18"]
+[Round "2.4"]
+[White "Zhang, Onno"]
+[Black "Manukyan, Sargis A."]
+[Result "1-0"]
+[WhiteElo "2008"]
+[BlackElo "2376"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 e5 6.Nc3 Nc6 7.d3 Nge7 8.Be3 Ng6 9.g3 f5 10.h4 Be7 11.Nd5 Bd8 12.Ng5 Nce7 13.h5 Nf8 14.h6 Nxd5 15.hxg7 Qxg7 16.cxd5 Bxg5 17.Qh5+ Ng6 18.Bxg5 Qf7 19.O-O-O Kd7 20.Qh3 h5 21.exf5 Nf8 22.g4 Qxd5 23.Bf6 Rg8 24.Qxh5 Qxa2 25.g5 Rc8 26.Rh4 Rc6 27.Rc4 Rg6 28.fxg6 Rb6 29.Rc2 Ne6 30.Qg4 Rb4 31.Qh3 Qa1+ 32.Kd2 Qa5 33.Ke3 Qa4 34.g7 Rh4 35.Qg4 1-0

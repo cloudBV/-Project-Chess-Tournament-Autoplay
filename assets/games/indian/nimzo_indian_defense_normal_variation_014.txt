@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.8"]
+[White "Krawczyk, Flawian"]
+[Black "Rekuc, Patryk"]
+[Result "1/2-1/2"]
+[WhiteElo "2226"]
+[BlackElo "2315"]
+[ECO "E46"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Be7 6.e4 d6 7.Nf3 c5 8.d5 exd5 9.exd5 Re8 10.h3 Bf5 11.Bd3 Qd7 12.Be3 a6 13.Qc2 Bxd3 14.Qxd3 b5 15.cxb5 axb5 16.Qxb5 Qxb5 17.Nxb5 Nxd5 18.O-O-O Nxe3 19.fxe3 Rd8 20.Rd2 Ra5 21.Nc3 Nc6 22.Rhd1 f5 23.e4 fxe4 24.Nxe4 Ra6 25.Kb1 Rb8 26.Ka1 Na5 27.Rc2 Rbb6 28.Rd5 Nc6 29.Re2 Bf8 30.Rd1 Na5 31.Ka2 Nc4 32.Rd3 Rb8 33.Rc2 d5 34.Ned2 Nb6 35.Rb3 Rba8 36.Rb5 Nc8 37.Rb7 Nd6 38.Rd7 c4 39.Nd4 g6 40.N2f3 Ne4 41.Nb5 Ra5 42.Rxd5 c3 43.Re5 cxb2 44.Rxe4 Rxb5 45.Rxb2 Rxa3+ 46.Kb1 Rxb2+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 9: Mitrabha, Guha - Kairbekova, Amina"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/u0kd0LLH"]
+[Date "2026.07.22"]
+[Round "9.5"]
+[White "Mitrabha, Guha"]
+[Black "Kairbekova, Amina"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2328"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d6 5.Nc3 O-O 6.O-O e5 7.d3 Nc6 8.Rb1 a5 9.b3 h6 10.Bb2 Be6 11.e4 Nh7 12.Kh1 Qd7 13.Qd2 Bh3 14.Bxh3 Qxh3 15.Nd5 Qd7 16.d4 Rae8 17.dxe5 dxe5 18.Ba3 Qg4 19.Kg2 Nb4 20.Bxb4 axb4 21.Nxc7 Rd8 22.Nd5 f5 23.h3 Qh5 24.Qe3 Rde8 25.Rbe1 Rf7 26.Qe2 Ng5 27.Nxg5 Qxg5 28.Kh2 f4 29.gxf4 exf4 30.Qf3 Qe5 31.Rg1 g5 32.Kh1 Bf8 33.Qh5 Re6 34.f3 Bc5 35.Rg2 Rg7 36.Rd1 Reg6 37.Qg4 Re6 38.Qf5 Qxf5 39.exf5 Re5 40.Nf6+ Kf7 41.Ng4 Re8 42.Nxh6+ Kf8 43.Kh2 Be3 44.Rd6 Re5 45.h4 Bc5 46.Rd8+ Ke7 47.Rh8 Kd7 48.hxg5 Be7 49.f6 Rgxg5 50.Rxg5 Rxg5 51.fxe7 Kxe7 52.Ng4 Ra5 53.Rh7+ 1-0

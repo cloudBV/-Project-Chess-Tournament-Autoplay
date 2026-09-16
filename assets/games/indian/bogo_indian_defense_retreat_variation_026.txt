@@ -1,0 +1,14 @@
+[Event "Round 3: Rotunno, Flavio - Fischer, Daniel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-3/sP1LYdk1/OqxCzrse"]
+[Date "2026.07.13"]
+[Round "3.2"]
+[White "Rotunno, Flavio"]
+[Black "Fischer, Daniel"]
+[Result "0-1"]
+[WhiteElo "2138"]
+[BlackElo "2366"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 Nbd7 9.Bf4 a5 10.Rd1 a4 11.Nc3 dxc4 12.Nxa4 Nd5 13.Nc3 b5 14.a4 b4 15.Ne4 Ba6 16.Neg5 g6 17.h4 b3 18.Qc1 c3 19.bxc3 Bxe2 20.Re1 Bd3 21.Qb2 Bc2 22.Nd2 Nxf4 23.gxf4 Qb8 24.Ngf3 Qxf4 25.Nxb3 Bf5 26.Qc1 Qg4 27.Qh6 Ra6 28.Nbd2 Rfa8 29.Nf1 Bf8 30.Qg5 Qxg5 31.Nxg5 h6 32.Nf3 Rxa4 33.Rxa4 Rxa4 34.Ng3 Bc2 35.Nd2 Ra6 36.Rc1 Bd3 37.c4 Nb8 38.Rc3 Ra1+ 39.Kh2 Ra3 40.Rc1 Ra2 41.Nf3 Rxf2 42.Ne5 Rd2 43.Kg1 Bd6 44.Nf3 Rc2 45.Rxc2 Bxc2 46.Nf1 Bd3 47.c5 Bc7 48.Kf2 Bb5 49.Ne3 Nd7 50.Ng4 Kg7 51.Ke3 f6 52.Nf2 h5 53.Nd3 Kf7 54.Bh3 Bg3 55.Nf4 Bxf4+ 56.Kxf4 Bc4 57.Nd2 Bd5 58.Nb1 e5+ 59.Ke3 exd4+ 60.Kxd4 Ne5 61.Nc3 Bh1 62.Ke3 Nf3 63.Ne4 Nxh4 64.Bd7 Ke7 65.Bc8 Bxe4 66.Kxe4 Nf5 67.Bb7 Kd7 68.Ba6 Ng7 69.Kd4 0-1

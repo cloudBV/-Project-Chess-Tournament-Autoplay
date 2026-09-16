@@ -1,0 +1,14 @@
+[Event "Round 3: Kukushkin, Ivan - Schmidt, Florian Pascal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/EVB3IdMN"]
+[Date "2026.07.15"]
+[Round "3.20"]
+[White "Kukushkin, Ivan"]
+[Black "Schmidt, Florian Pascal"]
+[Result "1-0"]
+[WhiteElo "2257"]
+[BlackElo "2095"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 e6 4.O-O Nf6 5.Re1 Be7 6.c3 O-O 7.Bf1 Nc6 8.d4 cxd4 9.cxd4 d5 10.e5 Ne4 11.Bd3 f5 12.exf6 Nxf6 13.Nc3 Bd7 14.Bg5 Be8 15.Ne5 Nxe5 16.dxe5 Nd7 17.Bxe7 Qxe7 18.Qg4 Nc5 19.Bc2 Qf7 20.Qh4 Qh5 21.Qg3 Rc8 22.Bd1 Qg6 23.Bg4 Bc6 24.Qh3 Kh8 25.Rad1 Rf4 26.f3 Rb4 27.Ne2 Rxb2 28.Nf4 Qc2 29.Rd2 1-0

@@ -1,0 +1,15 @@
+[Event "Round 2: Zhu, Linxi - Narayanan, Samrug"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-2/6MskKOgE/g555Qnpd"]
+[Date "2026.07.08"]
+[Round "2.5"]
+[White "Zhu, Linxi"]
+[Black "Narayanan, Samrug"]
+[Result "0-1"]
+[WhiteElo "2264"]
+[BlackElo "2436"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Qxd4 Nc6 6.Qf4 e6 7.Nc3 Nb4 8.Bd3 Nxd3+ 9.cxd3 Ne7 10.h4 h5 11.Bd2 Bd7 12.Ne2 Bb5 13.Ng5 Nf5 14.Rh3 Qb6 15.Bc3 Bc5 16.b4 Be7 17.a4 Bd7 18.Kf1 Rc8 19.a5 Qa6 20.Kg1 f6 21.Nf3 Qxd3 22.Re1 Qc4 23.Qd2 Kf7 24.Kh1 b6 25.axb6 axb6 26.Kh2 Ra8 27.Ng3 Nh6 28.Bd4 Ng4+ 29.Kg1 Bxb4 30.Qf4 Bxe1 31.Nxe1 Ra1 0-1

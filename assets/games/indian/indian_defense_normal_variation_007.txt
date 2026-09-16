@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.16"]
+[White "Torres Rebolledo, Victor"]
+[Black "Povshednyi, Ivan"]
+[Result "1-0"]
+[WhiteElo "2234"]
+[BlackElo "2393"]
+[ECO "A50"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 Bb4+ 4.Nd2 Nc6 5.Nf3 d6 6.e3 Qe7 7.Bg3 O-O 8.Bh4 e5 9.d5 Nb8 10.a3 Bxd2+ 11.Nxd2 h6 12.Be2 a5 13.g4 Nbd7 14.Ne4 g5 15.Nxf6+ Qxf6 16.Bg3 Nc5 17.b4 Ne4 18.Qc1 h5 19.gxh5 axb4 20.axb4 Bh3 21.Rg1 g4 22.Ra5 b6 23.Ra3 Kh8 24.Qa1 Rae8 25.Ra7 Rc8 26.Ra6 Qg5 27.Bd3 Nf6 28.e4 Nxh5 29.c5 bxc5 30.bxc5 Nf4 31.Bc2 f6 32.Qa3 Rfd8 33.c6 f5 34.Bxf4 Qxf4 35.exf5 Rb8 36.Ra7 Rb4 37.Qe3 Rc4 38.Qxf4 exf4 39.Kd2 Kg7 40.Rxc7+ Kf6 41.Re1 f3 42.Bd3 Rc5 43.Re6+ Kg5 44.Rg7+ Kh5 45.Ke3 Rh8 46.Rxd6 g3 47.hxg3 Bxf5 48.Kf4 Bg6 49.Bxg6+ Kh6 50.Re7 Rf8+ 51.Bf5+ 1-0

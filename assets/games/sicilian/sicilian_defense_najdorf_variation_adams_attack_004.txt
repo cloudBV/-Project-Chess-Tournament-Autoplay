@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "4.8"]
+[White "Yang, Jingyun (ryan)"]
+[Black "Corrales Jimenez, Fidel"]
+[Result "0-1"]
+[WhiteElo "2295"]
+[BlackElo "2507"]
+[ECO "B90"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be6 8.f4 b5 9.f5 Bc8 10.Bg5 Be7 11.Bxf6 Bxf6 12.Qd3 Bg5 13.Nd5 Bb7 14.Be2 Bxd5 15.Qxd5 Bh4+ 16.Kd1 Nd7 17.a4 O-O 18.axb5 Nf6 19.Qc6 Rc8 20.Qb7 axb5 21.Kc1 Rb8 22.Qa7 Nxe4 23.Kb1 Bf2 24.Qa6 Ng3 25.Rd1 Nxe2 26.Rd2 Nd4 27.Rxf2 Nxb3 28.cxb3 Qh4 29.Rc2 Qe4 30.Qxd6 Rbd8 0-1

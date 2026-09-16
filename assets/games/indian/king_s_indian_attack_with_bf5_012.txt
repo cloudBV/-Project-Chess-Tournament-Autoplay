@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.37"]
+[White "Eren, Ataberk"]
+[Black "Novotny, Dominik"]
+[Result "1-0"]
+[WhiteElo "2367"]
+[BlackElo "2140"]
+[ECO "A07"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with Bf5"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bf5 5.c4 e6 6.Qb3 Qb6 7.d3 Bd6 8.Be3 Qxb3 9.axb3 a6 10.Nc3 Nbd7 11.Rfc1 O-O 12.Na4 h6 13.cxd5 exd5 14.Nc5 Nxc5 15.Bxc5 Bxc5 16.Rxc5 Rfe8 17.Nd4 Bh7 18.b4 Kf8 19.h4 Bg6 20.Rc2 Kg8 21.Bh3 h5 22.f3 Rad8 23.Kf2 Re7 24.Rg1 Rde8 25.Rg2 Re3 26.Rd2 Kf8 27.g4 hxg4 28.Bxg4 R3e5 29.Rc2 Re3 30.Rc3 Kg8 31.Kf1 R3e5 32.Ke1 Bh5 33.Bh3 Bg6 34.Rg5 Rxg5 35.hxg5 Nh5 36.Kd2 Nf4 37.Bg4 Ne6 38.Bxe6 fxe6 39.Nb3 e5 40.d4 exd4 41.Nxd4 Kf7 42.Re3 Rxe3 43.Kxe3 Ke7 44.Kf4 Kd6 45.Nf5+ Bxf5 46.Kxf5 Ke7 47.Ke5 Kd7 48.f4 Ke7 49.f5 Kd7 50.f6 g6 51.f7 Ke7 52.f8=Q+ Kxf8 53.Kf6 b6 54.Kxg6 Kg8 55.Kf6 a5 56.bxa5 bxa5 57.Ke5 Kf7 58.Kd6 Kg6 59.Kxc6 1-0

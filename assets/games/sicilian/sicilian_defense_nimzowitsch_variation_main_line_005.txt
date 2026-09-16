@@ -1,0 +1,15 @@
+[Event "Round 7: Moor, Nathaniel Philip - Tsay, Vincent"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-7/bCaGsiCi/lXciLvP1"]
+[Date "2026.07.18"]
+[Round "7.13"]
+[White "Moor, Nathaniel Philip"]
+[Black "Tsay, Vincent"]
+[Result "0-1"]
+[WhiteElo "2205"]
+[BlackElo "2305"]
+[ECO "B29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Main Line"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 e6 5.Nxd5 exd5 6.d4 Nc6 7.dxc5 Bxc5 8.Qxd5 Qb6 9.Bc4 Bxf2+ 10.Ke2 O-O 11.Rf1 Bc5 12.Ng5 Nxe5 13.Qxe5 d5 14.Bxd5 Bg4+ 15.Kd3 Rfe8 16.Nxf7 Rxe5 0-1

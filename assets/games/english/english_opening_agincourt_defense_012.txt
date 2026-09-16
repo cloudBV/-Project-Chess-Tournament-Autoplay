@@ -1,0 +1,15 @@
+[Event "Round 3: Ponomariov, Ruslan - Aarav Dengla"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-3/CLvlcax5/KDBCWDI2"]
+[Date "2026.07.04"]
+[Round "3.7"]
+[White "Ponomariov, Ruslan"]
+[Black "Aarav Dengla"]
+[Result "1-0"]
+[WhiteElo "2609"]
+[BlackElo "2303"]
+[ECO "A13"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.b3 Nf6 4.Bb2 b6 5.g3 Bb7 6.Bg2 Bd6 7.O-O O-O 8.Nc3 a6 9.e3 Nbd7 10.Qe2 Re8 11.Rfd1 Rc8 12.d4 Qe7 13.Rac1 h6 14.Nd2 c5 15.cxd5 exd5 16.Nc4 Bb8 17.dxc5 Nxc5 18.Nxb6 Rcd8 19.Ncxd5 Nxd5 20.Nxd5 Bxd5 21.Bxd5 Ne4 22.Bc6 Rxd1+ 23.Rxd1 Rc8 24.Qxa6 1-0

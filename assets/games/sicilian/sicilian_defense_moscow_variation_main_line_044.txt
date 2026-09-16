@@ -1,0 +1,15 @@
+[Event "Round 1: Amangeldy, Ernur - Rostovtsev, Dmitry"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/9qVca3yS"]
+[Date "2026.07.21"]
+[Round "1.5"]
+[White "Amangeldy, Ernur"]
+[Black "Rostovtsev, Dmitry"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "2482"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nf6 5.Nc3 g6 6.d4 cxd4 7.Nxd4 Bg7 8.Be3 O-O 9.h3 a6 10.Bxd7 Nbxd7 11.Rc1 Rc8 12.b3 Qa5 13.O-O e6 14.Nde2 Rfd8 15.Qd3 g5 16.f3 Ne5 17.Qb1 h6 18.Rfd1 Nh5 19.Na4 Qb4 20.Bd2 Qa3 21.Nd4 Nxc4 22.Nc2 Nxd2 23.Rxd2 Rxc2 24.Qxc2 Be5 25.Re1 Qb4 26.a3 Qa5 27.b4 Qb5 28.Qc7 Rd7 29.Qc8+ Kg7 30.Nc5 Re7 31.Nd3 Qb6+ 32.Nf2 Rc7 33.Qb8 Rc3 34.Red1 Rxa3 35.Qc8 Rc3 36.Qd7 Qxb4 37.Qd8 Bf4 38.Rxd6 Bxd6 39.Rxd6 Rc1+ 40.Rd1 Rxd1+ 41.Qxd1 Qb2 42.h4 gxh4 43.Qd8 Qa1+ 44.Kh2 Qe5+ 45.Kg1 Qg5 0-1

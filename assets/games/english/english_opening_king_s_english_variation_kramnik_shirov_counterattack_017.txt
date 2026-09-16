@@ -1,0 +1,15 @@
+[Event "Round 2: Akhilbay, Imangali - Kasimov, Rauf"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-2/c8awiXfc/R3JWAXMv"]
+[Date "2026.07.18"]
+[Round "2.5"]
+[White "Akhilbay, Imangali"]
+[Black "Kasimov, Rauf"]
+[Result "1-0"]
+[WhiteElo "2357"]
+[BlackElo "2156"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.Nf3 d6 5.a3 Bc5 6.e3 c6 7.Nc3 Nd7 8.d4 Ba7 9.Be2 Ngf6 10.g4 O-O 11.g5 Ne8 12.h4 Qe7 13.Qc2 Nc7 14.b3 Re8 15.Bb2 e4 16.Nd2 d5 17.cxd5 cxd5 18.Ncxe4 dxe4 19.Qxc7 Bb8 20.Qc2 Nb6 21.Nc4 Nd5 22.Ne5 Bxe5 23.dxe5 Bf5 24.Bd4 Rec8 25.Qb2 Nc7 26.Kf1 Ne6 27.Kg2 Nxd4 28.exd4 Qd7 29.Kg3 e3 30.Rac1 exf2 31.Bf3 Be6 32.Kxf2 Bd5 33.Bxd5 Qxd5 34.Ke3 Rc6 35.Rhf1 Rac8 36.b4 axb4 37.axb4 Qe6 38.Rxc6 Rxc6 39.b5 Rc8 40.Rf3 b6 41.Kf4 h5 42.Qg2 Qd7 43.Rd3 Qxb5 44.Qe4 Qc4 45.Qe3 g6 46.Kg3 b5 47.Qe4 b4 48.Rf3 Rd8 49.Rf4 b3 50.d5 Qxd5 51.e6 Qd3+ 52.Qf3 fxe6 53.Rf8+ Rxf8 54.Qxd3 Rf5 55.Qxb3 Kf7 56.Qb7+ Kg8 57.Qc8+ Kg7 58.Qxe6 Rf7 59.Qc8 Kh7 60.Qe8 Kg7 61.Qe6 Rf8 62.Qe5+ Kg8 63.Qd5+ Kg7 64.Qd4+ Kg8 65.Qe5 Rf7 66.Qd4 Rf8 67.Qd5+ Kg7 68.Qe6 Rf7 69.Qe5+ Kg8 70.Qb8+ Kg7 71.Qc8 Kh7 72.Qe8 Kg7 73.Qd8 Kh7 74.Qf6 Rxf6 75.gxf6 Kg8 76.Kf4 Kf8 77.Ke4 Ke8 78.Kd5 Kf7 79.Ke5 Ke8 80.Ke6 Kf8 81.f7 g5 82.hxg5 h4 83.Kf6 1-0

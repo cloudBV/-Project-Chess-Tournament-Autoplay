@@ -1,0 +1,14 @@
+[Event "Round 8: Barrientos, Sergio E - Univio Sanchez, German"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-8/SeFM0pWE/1Km20Jk9"]
+[Date "2026.07.11"]
+[Round "8.4"]
+[White "Barrientos, Sergio E"]
+[Black "Univio Sanchez, German"]
+[Result "1-0"]
+[WhiteElo "2408"]
+[BlackElo "2003"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bd7 6.f4 Rc8 7.Nf3 a6 8.a4 g6 9.Bd3 Bg7 10.O-O Nf6 11.Kh1 O-O 12.Qe1 Nb4 13.Qh4 Bc6 14.f5 Re8 15.Bh6 Bh8 16.Ng5 Nxd3 17.cxd3 Qb6 18.fxg6 fxg6 19.Rf2 Ng4 20.Qxg4 Bxc3 21.Qe6+ Kh8 22.Qf7 Qxf2 23.Qxh7# 1-0

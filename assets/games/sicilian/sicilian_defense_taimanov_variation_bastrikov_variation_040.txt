@@ -1,0 +1,14 @@
+[Event "Round 6: Saine, Zachary - Hilverda, Alexander"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-6/tmWKDGFl/K7b5EUiH"]
+[Date "2026.07.23"]
+[Round "6.1"]
+[White "Saine, Zachary"]
+[Black "Hilverda, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2217"]
+[ECO "B49"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2 Nf6 8.O-O Bb4 9.Na4 Be7 10.Nxc6 bxc6 11.Nb6 Rb8 12.Nxc8 Qxc8 13.Bd4 c5 14.Be5 Rb6 15.Qd3 d6 16.Bc3 O-O 17.Rad1 Qc6 18.Bf3 Nd7 19.b3 Rc8 20.Qd2 c4 21.b4 h6 22.g3 Bf6 23.Bg2 Bxc3 24.Qxc3 Qb5 25.a3 a5 26.bxa5 Ra6 27.Qb4 Qxa5 28.Qxa5 Rxa5 29.Rxd6 Ne5 30.Ra1 Rca8 31.f4 Ng4 32.e5 Rxa3 33.Rd8+ Rxd8 34.Rxa3 Rd1+ 35.Bf1 Nxh2 36.Kxh2 Rxf1 37.Rc3 Rf2+ 38.Kh3 Kh7 39.Rxc4 g5 40.fxg5 hxg5 41.g4 Kg6 42.Kg3 Re2 43.Rc5 Re3+ 44.Kf2 Re4 45.Kf3 Rf4+ 46.Kg3 f5 47.exf6 Kxf6 48.Rc8 Ra4 49.Rc5 Rd4 50.Kf3 Rf4+ 1/2-1/2

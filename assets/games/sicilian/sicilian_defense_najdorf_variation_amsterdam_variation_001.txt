@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-3/OiFNQ5NA/WxmiJtjb"]
+[Date "2026.07.02"]
+[Round "3.11"]
+[White "Bartos, Jan"]
+[Black "Sliwerski, Radoslaw"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2093"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nbd7 8.g4 d5 9.exd5 Nb6 10.g5 Nfxd5 11.Bg2 Bb4 12.O-O Nxc3 13.Qxd8+ Kxd8 14.bxc3 Bxc3 15.Rb1 Bf5 16.Be3 Nc4 17.Bc5 e4 18.Bd4 Bxd4+ 19.Nxd4 Bc8 20.Rfe1 Nd6 21.Rbd1 Bg4 22.Rd2 Kc7 23.Re3 Rad8 24.Bxe4 Nxe4 25.Rxe4 Rhe8 26.Rxe8 Rxe8 27.Kf2 Bd7 1/2-1/2

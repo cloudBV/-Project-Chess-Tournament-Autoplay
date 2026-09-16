@@ -1,0 +1,14 @@
+[Event "Round 2: Krallis, Christos - Papaioannou, Ioannis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/F6GaEzYK"]
+[Date "2026.07.06"]
+[Round "2.31"]
+[White "Krallis, Christos"]
+[Black "Papaioannou, Ioannis"]
+[Result "1/2-1/2"]
+[WhiteElo "2424"]
+[BlackElo "2611"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 e6 5.O-O Nd7 6.cxd5 cxd5 7.Nc3 Ngf6 8.d3 Bc5 9.h3 Bxf3 10.Bxf3 O-O 11.d4 Bd6 12.e4 dxe4 13.Nxe4 Nxe4 14.Bxe4 Rb8 15.Qa4 a6 16.Bd2 Nf6 17.Bf3 Qb6 18.Ba5 Qa7 19.Rac1 b6 20.Rc6 bxa5 21.Rxd6 Rb6 22.Rc6 Rxb2 23.Qxa5 Qxd4 24.Qxa6 g6 25.a4 Ra2 26.Rxe6 Rxa4 27.Rd6 Rxa6 28.Rxd4 Rb8 29.Rfd1 Kg7 30.h4 Rb2 31.R4d2 Rxd2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.22"]
+[White "Jain Kashish Manoj"]
+[Black "Valle Luis, Liam"]
+[Result "1/2-1/2"]
+[WhiteElo "2394"]
+[BlackElo "2107"]
+[ECO "B45"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bc5 7.Bf4 O-O 8.Bc7 Qe7 9.Bd6 Bxd6 10.Qxd6 Qd8 11.O-O-O Ne8 12.Qg3 a6 13.Nd6 b5 14.Be2 Qa5 15.Kb1 Rb8 16.f4 b4 17.Nc4 Qc7 18.Na4 Na5 19.Nab6 Rxb6 20.Nxa5 Nf6 21.e5 Ne4 22.Qe3 d5 23.exd6 Rxd6 24.Qxe4 Rxd1+ 25.Rxd1 Qxa5 26.b3 Qb6 27.Qd4 Qb8 28.Qd6 Qa8 29.g3 a5 30.Bc4 Bb7 31.Qe7 Bd5 32.Bxd5 exd5 33.f5 Qc6 34.Qe5 Rd8 35.Qd4 Kf8 36.g4 Qc3 37.Rd3 Qxd4 38.Rxd4 Ke7 39.c3 bxc3 40.Kc2 Kd6 41.Kxc3 Rc8+ 42.Kd3 Ke5 43.Ra4 Rc5 44.h3 1/2-1/2

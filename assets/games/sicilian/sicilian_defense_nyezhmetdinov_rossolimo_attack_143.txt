@@ -1,0 +1,14 @@
+[Event "Round 8: Kollias, Ioannis K. - Pham, Khoi"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-8/JY4vi7xh/J2d0VsSg"]
+[Date "2026.07.24"]
+[Round "8.11"]
+[White "Kollias, Ioannis K."]
+[Black "Pham, Khoi"]
+[Result "0-1"]
+[WhiteElo "2083"]
+[BlackElo "2416"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 Qc7 6.Nbd2 g6 7.Qe2 Bg7 8.Nc4 O-O 9.Be3 b6 10.h3 Be6 11.Ncd2 Nh5 12.Ng5 Bd7 13.g4 Nf4 14.Qf3 e5 15.h4 Qc8 16.Bxf4 Bxg4 17.Qg2 exf4 18.f3 Bd7 19.h5 h6 20.hxg6 hxg5 21.Qh2 fxg6 22.Qh7+ Kf7 23.Nc4 Rh8 24.Nd6+ Kf8 25.Qxh8+ Bxh8 26.Rxh8+ Kg7 27.Rxc8 Bxc8 28.Kf2 Be6 29.Rg1 Kf6 30.e5+ Kxe5 31.Ne4 Rh8 32.Re1 Bd5 33.Nxc5+ Kd4 0-1

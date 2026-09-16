@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.19"]
+[Round "4.4"]
+[White "Erigaisi Arjun"]
+[Black "Pranesh M"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2666"]
+[ECO "C54"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with a5"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 a5 6.O-O d6 7.Re1 Ba7 8.Nbd2 Be6 9.Bb5 O-O 10.h3 Ne7 11.d4 Ng6 12.Bd3 Nh5 13.Nf1 Nhf4 14.Bc2 c6 15.Ng3 Qd7 16.Nf5 f6 17.N5h4 Rfe8 18.Nxg6 Nxg6 19.Be3 Qc7 20.a4 Bf7 21.Qb1 Rad8 22.Kh1 exd4 23.Nxd4 d5 24.exd5 Bxd5 25.Bxg6 hxg6 26.Qxg6 Bb8 27.f4 Rxe3 28.Rxe3 Qxf4 29.Re8+ Rxe8 30.Qxe8+ Kh7 31.Qh5+ Kg8 32.Qe8+ Kh7 33.Qh5+ Kg8 34.Qe8+ 1/2-1/2

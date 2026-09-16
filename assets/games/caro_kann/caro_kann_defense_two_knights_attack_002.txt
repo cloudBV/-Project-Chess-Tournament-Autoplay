@@ -1,0 +1,15 @@
+[Event "Round 5: Torres, Lucas - Grahn, Vidar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-5/pUKTxaHu/Kd05P1Dz"]
+[Date "2026.07.01"]
+[Round "5.3"]
+[White "Torres, Lucas"]
+[Black "Grahn, Vidar"]
+[Result "0-1"]
+[WhiteElo "2008"]
+[BlackElo "2245"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Na6 6.d4 Nxe4 7.Qxe4 Qd5 8.Qxd5 cxd5 9.Bb5+ Bd7 10.Bxd7+ Kxd7 11.Ne5+ Ke8 12.c3 Nb8 13.O-O f6 14.Nd3 Kf7 15.Re1 Nc6 16.Bf4 g5 17.Bg3 h5 18.h3 e6 19.Re2 Re8 20.Rae1 h4 21.Bh2 Rg8 22.f3 Na5 23.Kh1 Nc4 24.b3 Na3 25.b4 b6 26.f4 Bd6 27.f5 Bxh2 28.fxe6+ Ke7 29.Kxh2 Rc8 30.Rc1 Nb5 31.Rec2 Kxe6 32.a4 Nd6 33.Re2+ Kf7 34.a5 Rge8 35.Ra2 Ne4 36.axb6 axb6 37.Ra7+ Re7 38.Ra6 Rb7 39.Ra3 Rbc7 40.Ra6 Rxc3 41.Rxc3 Rxc3 42.Nb2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Baghirov, Mahammad - Manafov, Vugar"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-6/6FgD4uVZ/wuHnCBDH"]
+[Date "2026.07.16"]
+[Round "6.1"]
+[White "Baghirov, Mahammad"]
+[Black "Manafov, Vugar"]
+[Result "1-0"]
+[WhiteElo "2169"]
+[BlackElo "2399"]
+[ECO "B40"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.Bb2 Nc6 5.Qe2 Nf6 6.g3 Be7 7.Bg2 b5 8.O-O Bb7 9.a4 b4 10.d3 O-O 11.Nbd2 d5 12.Rfe1 a5 13.e5 Nd7 14.h4 Nb6 15.Rad1 Ba6 16.Nf1 Qc7 17.Ne3 c4 18.Ng4 cxb3 19.cxb3 Nd7 20.Qe3 Nc5 21.Qe2 Kh8 1-0

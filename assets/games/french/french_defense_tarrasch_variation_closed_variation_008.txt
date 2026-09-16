@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.11"]
+[Round "8.8"]
+[White "Gusain, Himal"]
+[Black "Audi Ameya"]
+[Result "1/2-1/2"]
+[WhiteElo "2451"]
+[BlackElo "2424"]
+[ECO "C05"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Ne2 c5 6.c3 Nc6 7.Nf3 Be7 8.a3 O-O 9.Nf4 Qa5 10.Ra2 Nxd4 11.Nxd4 cxd4 12.b4 Qb6 13.cxd4 f6 14.exf6 Nxf6 15.g3 Bd6 16.Bd3 Bd7 17.O-O Ne4 18.Ne2 a5 19.bxa5 Rxa5 1/2-1/2

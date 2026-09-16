@@ -1,0 +1,14 @@
+[Event "Round 5: Ioannidis, Evgenios - Kelires, Andreas"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/PC3EKQZ4"]
+[Date "2026.07.08"]
+[Round "5.11"]
+[White "Ioannidis, Evgenios"]
+[Black "Kelires, Andreas"]
+[Result "1/2-1/2"]
+[WhiteElo "2473"]
+[BlackElo "2533"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 O-O 6.Bd2 b6 7.e3 Bb7 8.Bd3 c5 9.a3 Bxc3 10.Bxc3 Nbd7 11.O-O Rc8 12.Rfd1 Bxf3 13.gxf3 cxd4 14.Bxd4 Qe7 15.b3 Rfd8 16.Qb2 Nf8 17.Rd2 e5 18.Bc3 Qb7 19.Be2 Ng6 20.Rad1 Qd7 21.Kh1 Qh3 22.Rg1 Nh4 23.Rg3 Qe6 24.Rd1 Nf5 25.Rgg1 Nh4 26.a4 h6 27.Qa1 Qf5 28.Qb1 Qe6 29.Qa1 Qf5 30.Qb1 Qe6 31.Qa1 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Harshavardhan G B - Shahil Dey"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-8/S3HtwBc2/GcyMdcSl"]
+[Date "2026.07.05"]
+[Round "8.1"]
+[White "Harshavardhan G B"]
+[Black "Shahil Dey"]
+[Result "1/2-1/2"]
+[WhiteElo "2508"]
+[BlackElo "2413"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 a6 7.h3 dxc4 8.Bxc4 e6 9.O-O Be7 10.Bg5 b5 11.Bd3 Bb7 12.Rc1 O-O 13.Re1 Rc8 14.Bb1 Re8 15.a4 h6 16.axb5 Nxd4 17.Qxd4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 7: Cao, Qingfeng - Sasikiran, Krishnan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/PmCIwnwW"]
+[Date "2026.07.12"]
+[Round "7.7"]
+[White "Cao, Qingfeng"]
+[Black "Sasikiran, Krishnan"]
+[Result "1-0"]
+[WhiteElo "2265"]
+[BlackElo "2520"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 Be7 7.O-O O-O 8.Qc2 d5 9.cxd5 exd5 10.Ne5 c5 11.Ndf3 Nbd7 12.Bf4 Nxe5 13.Nxe5 Re8 14.Rfd1 Bd6 15.e3 Rc8 16.Qf5 g6 17.Qd3 Nh5 18.h4 Nxf4 19.exf4 c4 20.Qc2 Rc7 21.Re1 b5 22.h5 Rce7 23.hxg6 hxg6 24.Re3 Qb6 25.Nd7 Qxd4 26.Rd1 Qh8 27.Bxd5 Bxd5 28.Rxd5 Rxe3 29.fxe3 Rxe3 30.Qf2 Rd3 31.Rxd3 cxd3 32.Kg2 g5 33.fxg5 Be7 34.Nf6+ Bxf6 35.gxf6 Qh5 36.Qf3 Qg5 37.Qa8+ Kh7 38.Qe4+ Qg6 39.Qd4 Qf5 40.g4 Qg6 41.Kg3 a6 42.a3 Kh6 43.Qd8 Kg5 44.Qh8 Qxf6 45.Qh5# 1-0

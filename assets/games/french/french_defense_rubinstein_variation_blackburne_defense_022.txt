@@ -1,0 +1,14 @@
+[Event "Round 2: Gumularz, Szymon - Koudounis, Vasileios"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-2/ozps01TA/OgNN7yvH"]
+[Date "2026.07.16"]
+[Round "2.1"]
+[White "Gumularz, Szymon"]
+[Black "Koudounis, Vasileios"]
+[Result "1-0"]
+[WhiteElo "2618"]
+[BlackElo "2223"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Nxf6+ Nxf6 8.Be3 Bd7 9.Ne5 Ba4 10.a3 Nd7 11.Nf3 Bd6 12.g3 Bc6 13.c4 Bxf3 14.Qxf3 c6 15.Bg2 O-O 16.O-O a5 17.Rad1 a4 18.h4 Qa5 19.d5 exd5 20.cxd5 c5 21.Bd2 Qc7 22.Bc3 Rfe8 23.Rfe1 Rad8 24.Qg4 Be5 25.d6 Qb6 26.Qxa4 Bxc3 27.Rxe8+ Rxe8 28.Qxd7 Rd8 29.Qc7 Ba5 30.Qxb6 Bxb6 31.Bxb7 Rb8 32.Bc6 Bd8 33.Re1 Ba5 34.Re2 Rb6 35.Re8+ Kh7 36.Be4+ g6 37.Ra8 1-0

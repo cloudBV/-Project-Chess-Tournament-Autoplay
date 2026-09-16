@@ -1,0 +1,15 @@
+[Event "Round 3: Miyasaka, Marcus - Molner, Mackenzie"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-3/Ie91q7SG/uOAlUgUW"]
+[Date "2026.07.16"]
+[Round "3.9"]
+[White "Miyasaka, Marcus"]
+[Black "Molner, Mackenzie"]
+[Result "0-1"]
+[WhiteElo "2289"]
+[BlackElo "2458"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 e5 4.Nc3 Ne7 5.d3 O-O 6.h4 h5 7.Bg5 d6 8.Rb1 a5 9.a3 Nbc6 10.b4 axb4 11.axb4 Nd4 12.Bxe7 Qxe7 13.e3 Ne6 14.Nge2 c6 15.b5 Bd7 16.O-O f5 17.bxc6 bxc6 18.Kh2 f4 19.Ng1 Nc5 20.Qd2 g5 21.hxg5 Qxg5 22.Nf3 Qh6 23.Ne4 Nxe4 24.dxe4 h4 25.gxf4 exf4 26.Rb7 h3 27.Bh1 fxe3 28.fxe3 Be5+ 29.Nxe5 Rxf1 30.Nxd7 Qg5 31.Bg2 hxg2 32.Qxg2 Qxg2+ 33.Kxg2 Rf7 34.e5 dxe5 35.Rb8+ Rxb8 36.Nxb8 Rc7 37.Kf3 Kf7 38.Ke4 Ke6 39.Na6 Rh7 40.Nc5+ Kd6 41.Nd3 Rh4+ 42.Kf5 Rxc4 43.Nf2 c5 44.Nd3 Rh4 0-1

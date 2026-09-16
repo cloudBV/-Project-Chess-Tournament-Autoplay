@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.21"]
+[Round "21.10"]
+[White "Weiss 2.1-dev-95b0951"]
+[Black "GinkgoHCE 5.71"]
+[Result "1-0"]
+[WhiteElo "3470"]
+[BlackElo "3344"]
+[ECO "B22"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 d6 3.d4 Nf6 4.f3 g6 5.dxc5 Bg7 6.cxd6 exd6 7.Bc4 O-O 8.Ne2 Nc6 9.Na3 Na5 10.Bg5 Nxc4 11.Nxc4 Be6 12.Ne3 Qa5 13.Bxf6 Bxf6 14.Nf4 Bg7 15.h4 Be5 16.Nfd5 Bg3+ 17.Kf1 f5 18.exf5 Bxf5 19.b4 Qb5+ 20.c4 Qd7 21.Nxf5 Rxf5 22.Rh3 Be5 23.Rc1 Raf8 24.Kg1 Kh8 25.a4 R5f7 26.b5 Qc8 27.Qd2 b6 28.Rc2 Qg4 29.Qe3 Qf5 30.Re2 Qb1+ 31.Re1 Qc2 32.Qc1 Qd3 33.Rd1 Qf5 34.Qb1 Bd4+ 35.Kh1 Qxb1 36.Rxb1 Rc8 37.Rg3 Re8 38.Rg4 Bg7 39.Rd1 Re2 40.Nb4 Rfe7 41.Kh2 R7e6 42.Kh3 h5 43.Rf4 Kg8 44.Nc6 Rc2 45.Nd4 Bxd4 46.Rfxd4 Ree2 47.Rxd6 Rxg2 48.Rc6 Rh2+ 49.Kg3 Rcg2+ 50.Kf4 Rxh4+ 51.Ke3 Kg7 52.a5 Kh6 53.Rc7 bxa5 54.Rdd7 Kg5 55.Rc5+ Kh6 56.Rxa7 Ra2 57.f4 Rh3+ 58.Ke4 Re2+ 59.Kd5 Rd3+ 60.Kc6 Re6+ 61.Kc7 h4 62.b6 Re7+ 63.Kc6 Re6+ 64.Kb7 h3 65.Raxa5 Re7+ 66.Kb8 Rd6 67.b7 h2 68.Ra1 Rb6 69.Rc7 Re8+ 70.Ka7 Rb2 71.Rh1 Ra2+ 72.Kb6 Rb2+ 73.Kc6 Re6+ 74.Kd5 Ree2 75.Rd7 Rb6 76.Kc5 Rbb2 77.Kc6 Rb3 78.Kc7 Reb2 79.Rxh2+ Rxh2 80.b8=Q Rxb8 81.Kxb8 Rc2 82.Rd4 g5 83.fxg5+ Kxg5 84.Kc7 Kf6 85.Kd6 Kf7 86.c5 Ke8 87.Kc6 Ke7 88.Kb6 Rb2+ 89.Kc7 Ke6 90.c6 Rc2 91.Kb7 Rb2+ 92.Kc8 Ke5 93.Rd1 Ke6 94.c7 Ke7 95.Ra1 Kf7 96.Ra7 Ke6 97.Rb7 Rc2 98.Kb8 Rxc7 99.Kxc7 Kf5 100.Rb4 Kf6 101.Kd6 Kf7 102.Rb5 Kf6 103.Kd7 Kg6 104.Ke7 Kg7 105.Rb6 Kh8 106.Kf7 Kh7 107.Kf8 Kh8 108.Rh6# 1-0

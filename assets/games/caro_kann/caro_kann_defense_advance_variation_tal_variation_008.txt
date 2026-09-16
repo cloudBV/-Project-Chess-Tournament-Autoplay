@@ -1,0 +1,14 @@
+[Event "Round 1: Tzagarakis, Panagiotis - Megalios, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/IVVKyQye"]
+[Date "2026.07.10"]
+[Round "1.42"]
+[White "Tzagarakis, Panagiotis"]
+[Black "Megalios, Konstantinos"]
+[Result "1/2-1/2"]
+[WhiteElo "2192"]
+[BlackElo "2385"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 Qb6 5.h5 Nh6 6.Nc3 f6 7.Bxh6 gxh6 8.exf6 Qxb2 9.Kd2 Qb6 10.Rh4 Nd7 11.f7+ Kxf7 12.Rb1 Qd8 13.Rxb7 Ke8 14.Nf3 Bg7 15.Qe1 Rf8 16.Qe3 Rf6 17.Bd3 Nb6 18.Ne5 Bc8 19.Rxb6 axb6 20.Bxh7 Ra3 21.Qg3 Kf8 22.Ng6+ Kf7 23.Ne5+ Kf8 24.Ng6+ Kf7 25.Ne5+ Kf8 1/2-1/2

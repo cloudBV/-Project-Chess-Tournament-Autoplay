@@ -1,0 +1,14 @@
+[Event "Round 1: Marzocchi, Tommaso - Di Fonzo, Valerio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-1/T4WOJvWv/WHehp5cN"]
+[Date "2026.07.06"]
+[Round "1.7"]
+[White "Marzocchi, Tommaso"]
+[Black "Di Fonzo, Valerio"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2094"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with a5"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a5 6.O-O d6 7.Re1 Ba7 8.Nbd2 O-O 9.h3 Be6 10.Bb5 Ne7 11.d4 Ng6 12.Nf1 h6 13.Ng3 c6 14.Bf1 Qc8 15.Qc2 Rd8 16.Nf5 d5 17.Nxe5 Bxf5 18.exf5 Nxe5 19.Rxe5 Ne4 20.f3 Ng3 21.Bd3 Bb8 22.Re1 Qc7 23.f4 Nh5 24.Rf1 Re8 25.Bd2 Qd8 26.Qd1 Ng3 27.Re1 Ne4 28.Be3 Qh4 29.Qf3 Bc7 30.Re2 Ng3 31.Ree1 Ne4 32.g4 Qf6 33.Re2 Re7 34.Rae1 Rae8 35.Bc1 Qh4 36.Kg2 Nd6 37.Qf2 Rxe2 38.Rxe2 Qxf2+ 39.Kxf2 Rxe2+ 40.Kxe2 f6 41.b3 b5 42.Bd2 Kf7 43.a4 bxa4 44.bxa4 Bd8 45.Bc1 Ke8 46.Ba3 Kd7 47.Kf3 Bc7 48.Kg3 Ke8 49.Kf3 Kf7 50.Ke2 Ke8 51.Kd1 Kd7 52.Kc2 Ke8 53.Kb3 Kd7 54.c4 Ke8 55.cxd5 cxd5 56.Bb5+ Kf7 57.Bc6 g5 58.Bxd5+ Ke8 59.fxg5 hxg5 60.Bc6+ Ke7 61.Bc5 Kf7 62.Kc3 Ke7 63.Kd3 Kd8 64.Ba3 Ke7 65.Bc1 Kf7 66.Bd2 Ke7 67.Be1 Kf7 68.h4 gxh4 69.Bxh4 Kg7 70.Bd5 Nc8 71.Be6 Nb6 72.Bb3 Nc8 73.Kc4 Bb6 74.Be1 Ne7 75.d5 Bc7 76.Kb5 Nc8 77.Kc6 1-0

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.3"]
+[White "Suarez Alvarez, Miguel"]
+[Black "Petkov, Momchil"]
+[Result "0-1"]
+[WhiteElo "2180"]
+[BlackElo "2528"]
+[ECO "E68"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.c4 Nbd7 7.Nc3 e5 8.e4 Re8 9.h3 b6 10.Re1 exd4 11.Nxd4 Bb7 12.Nc2 Nc5 13.f3 Nfd7 14.Ne3 Ne5 15.Ncd5 Ned3 16.Re2 c6 17.Nc3 Be5 18.Nf1 Ba6 19.f4 Bxc3 20.bxc3 Nxc1 21.Rxc1 Bxc4 22.Re1 Nd3 23.Ne3 Nxe1 24.Qxe1 Bd3 25.e5 dxe5 26.Bxc6 exf4 27.Bxe8 fxe3 28.Qxe3 Qxe8 29.Qxd3 Qe6 30.h4 Qxa2 31.Re1 Qa5 32.Re4 Qc5+ 33.Kg2 Rc8 34.c4 a5 35.g4 Qc6 36.Kh3 Qf6 37.h5 Rd8 38.Qe2 Kg7 39.Qe3 g5 40.Re5 h6 41.c5 Qf1+ 42.Kh2 Rd3 43.Rxg5+ hxg5 44.Qe5+ Kh7 45.Qe4+ Kh6 0-1

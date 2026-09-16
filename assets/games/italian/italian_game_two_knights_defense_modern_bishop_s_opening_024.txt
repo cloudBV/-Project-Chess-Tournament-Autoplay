@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-6/evaZ4OoL/S6ITHcGX"]
+[Date "2026.07.01"]
+[Round "6.1"]
+[White "Korobov, Anton"]
+[Black "Ernst, Robert"]
+[Result "1-0"]
+[WhiteElo "2621"]
+[BlackElo "2401"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 h6 5.Nc3 Bb4 6.O-O Bxc3 7.bxc3 O-O 8.a4 Re8 9.a5 a6 10.h3 d5 11.exd5 Nxd5 12.Bd2 Be6 13.Re1 Qf6 14.Qb1 Rab8 15.Qa2 e4 16.Rxe4 Nxc3 17.Bxc3 Qxc3 18.Bxe6 Rxe6 19.Rxe6 Nb4 20.Qa4 fxe6 21.Re1 Rd8 22.Rxe6 c5 23.Re7 Nxc2 24.Qg4 Qf6 25.Rxb7 Nd4 26.Nd2 Ne6 27.Ne4 Qa1+ 28.Kh2 Qe5+ 29.g3 Rxd3 30.Re7 1-0

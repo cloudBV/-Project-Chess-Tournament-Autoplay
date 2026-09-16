@@ -1,0 +1,14 @@
+[Event "Round 5: Xu, Chang(CQ) - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-5/N6V5gpLW/6NamASsT"]
+[Date "2026.07.12"]
+[Round "5.6"]
+[White "Xu, Chang(CQ)"]
+[Black "Cherniaev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2082"]
+[BlackElo "2299"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 Nd4 6.Nxd4 cxd4 7.c3 a6 8.Ba4 b5 9.Bb3 Nc6 10.d3 Bb7 11.Nd2 Bc5 12.Qg4 Qf6 13.Nf3 Qg6 14.Qxg6 hxg6 15.Bd2 d6 16.h3 Kd7 17.a3 f6 18.Kf1 g5 19.Ke2 Rac8 20.Rec1 Bb6 21.Rc2 dxc3 22.bxc3 Rc7 23.Rca2 Na5 24.Bd1 d5 25.e5 d4 26.cxd4 Bxf3+ 27.Kxf3 Nc6 28.Be3 Nxd4+ 29.Bxd4 Bxd4 30.Rb1 Bxe5 31.a4 Rb8 32.axb5 axb5 33.Bb3 Rb6 34.Ra8 Bd4 35.Rg8 f5 36.g4 Rc3 37.Ke2 Ra6 38.Rb8 Rc5 39.Rb7+ Kd6 40.Rb8 Ke5 41.Kf3 Kf6 42.Rf8+ Ke7 43.Rb8 Rd6 44.Rb7+ Rd7 45.Rb6 Re5 46.Rb8 Ba7 47.Ra8 Rxd3+ 48.Kg2 Rd7 49.Bd1 Bc5 50.Bf3 b4 51.Rg8 Kf7 52.Rb8 Rd2 53.Rf1 g6 54.Rb7+ Kf6 55.Rb8 Be7 56.Rb7 Ra5 57.Rc1 Raa2 58.Rf1 Bc5 59.Kg1 Bxf2+ 60.Kh1 Bc5 0-1

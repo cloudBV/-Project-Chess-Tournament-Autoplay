@@ -1,0 +1,15 @@
+[Event "Round 5: Sevian, Samuel - Gauri, Shankar"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-5/kzSSFnA1/BLJZZhHg"]
+[Date "2026.07.04"]
+[Round "5.7"]
+[White "Sevian, Samuel"]
+[Black "Gauri, Shankar"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2188"]
+[ECO "C54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Bg5 h6 7.Bh4 a6 8.Nbd2 Ba7 9.O-O O-O 10.b4 Be6 11.Bd5 g5 12.Bxe6 fxe6 13.Bg3 Qe8 14.a4 Nh5 15.b5 Ne7 16.d4 Nxg3 17.hxg3 exd4 18.Nxd4 Bxd4 19.cxd4 axb5 20.axb5 Rxa1 21.Qxa1 Qxb5 22.Qa2 d5 23.Nf3 Qc4 24.Qb1 dxe4 25.Qxe4 Qd5 26.Qc2 c6 27.Re1 Rf6 28.Re5 Qd6 29.Qb2 b5 30.Nd2 Rf5 31.Ne4 Qd8 32.Rxe6 Kf7 1-0

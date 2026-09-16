@@ -1,0 +1,14 @@
+[Event "Round 8: Romanov, Evgeny - Kantans, Toms"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/Lx59RQvK"]
+[Date "2026.07.10"]
+[Round "8.4"]
+[White "Romanov, Evgeny"]
+[Black "Kantans, Toms"]
+[Result "1-0"]
+[WhiteElo "2548"]
+[BlackElo "2559"]
+[ECO "A18"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 e5 4.d4 exd4 5.Qxd4 Bb4 6.Qe5+ Kf8 7.Bd2 a5 8.Qg3 Na6 9.Bd3 Nc5 10.Nge2 h5 11.Bc2 h4 12.Qf3 d6 13.a3 Bxc3 14.Nxc3 h3 15.Rg1 Ng4 16.O-O-O Qh4 17.Nb5 Ne5 18.Qe2 hxg2 19.f3 Bh3 20.Nxc7 Rc8 21.Nb5 Qf6 22.f4 Ng6 23.Qf2 Rh4 24.Kb1 b6 25.Qg3 Qe7 26.Nc3 Rh5 27.Nd5 Qh4 28.Rde1 Nd7 29.Qc3 Ne7 30.Nxe7 Qxe7 31.Re3 Qe6 32.Bd3 Nc5 33.Bc2 Nd7 34.b3 Qh6 35.Rg3 a4 36.f5 Qh8 37.Qd4 axb3 38.Bd1 Rh4 39.Qxd6+ Ke8 40.Bf3 Qf8 41.Qxf8+ Kxf8 42.Kb2 Rxc4 43.Kxb3 Rc7 44.Bg5 Rh8 45.Kb4 Ne5 46.Rd1 Rc8 47.Bxg2 Bxg2 48.Rxg2 Rh3 49.Rc2 Ra8 50.Rd8+ Rxd8 51.Bxd8 b5 52.Bc7 Nd3+ 53.Kxb5 Rh4 54.Rd2 Nc1 55.Rd8+ Ke7 56.Rd1 1-0

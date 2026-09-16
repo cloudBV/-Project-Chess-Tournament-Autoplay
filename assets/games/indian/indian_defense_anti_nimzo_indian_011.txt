@@ -1,0 +1,14 @@
+[Event "Round 2: Jagreet Misra - Badelka, Olga"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/rEQ1Hrjl"]
+[Date "2026.07.05"]
+[Round "2.15"]
+[White "Jagreet Misra"]
+[Black "Badelka, Olga"]
+[Result "1/2-1/2"]
+[WhiteElo "2260"]
+[BlackElo "2406"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bd6 5.Bg2 O-O 6.O-O h6 7.Nc3 Nc6 8.c5 Be7 9.a3 a5 10.Bf4 g5 11.Bc1 Ne4 12.e3 f5 13.Nd2 Nf6 14.Rb1 e5 15.dxe5 Nxe5 16.b4 axb4 17.axb4 c6 18.Bb2 Ng6 19.Na4 Kh7 20.Nb6 Ra6 21.Nb3 Nd7 22.Nxc8 Qxc8 23.b5 Ra2 24.Bd4 Nde5 25.Ra1 Qa8 26.Qb1 Rxa1 27.Qxa1 Nc4 28.Qc3 Qd8 29.bxc6 bxc6 30.Ra1 Qb8 31.f4 Rg8 32.Bh3 Qc8 33.Qc2 g4 34.Bf1 Qe6 35.Bxc4 dxc4 36.Nd2 Rd8 37.Qxc4 Rd5 38.Qc3 Nf8 39.Ra8 Kg6 40.Nc4 Nd7 41.Re8 Kh5 42.Nd6 Nxc5 1/2-1/2

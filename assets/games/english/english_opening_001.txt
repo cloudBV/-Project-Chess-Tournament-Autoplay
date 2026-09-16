@@ -1,0 +1,14 @@
+[Event "Round 5: Aroven, Mikael - Ask, Josef"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-5/JTTwQAOc/t6nvdVmc"]
+[Date "2026.07.01"]
+[Round "5.22"]
+[White "Aroven, Mikael"]
+[Black "Ask, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2021"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 h5 2.Nf3 Nh6 3.e4 d6 4.h3 g6 5.d4 Bg7 6.Be3 Nc6 7.Qd2 f5 8.Nc3 fxe4 9.Nxe4 Nf5 10.O-O-O Nxe3 11.fxe3 O-O 12.Neg5 e5 13.Bd3 Bh6 14.d5 Bxg5 15.dxc6 bxc6 16.Bxg6 Bh6 17.Be4 Qe8 18.Kb1 a5 19.g4 Rxf3 20.Bxf3 e4 21.Be2 h4 22.g5 Bg7 23.Rdf1 Rb8 24.Rf6 Qe5 25.Rg1 Bxh3 26.Qd4 Qxd4 27.exd4 Bxf6 28.gxf6+ Kf7 29.Rh1 Bf5 30.Rxh4 Kxf6 31.b3 Rg8 32.Rh2 e3+ 33.Kb2 Rg1 34.Bf3 Rf1 35.Be2 Rb1+ 36.Ka3 Rc1 37.Bf3 Bd3 38.Ka4 Kg5 39.Rh8 Rf1 40.Bh5 Rf2 41.a3 Rb2 42.Bd1 e2 43.Bxe2 Bxe2 44.Rh2 d5 45.Kxa5 dxc4 46.bxc4 Kf4 47.Rh6 Bf3 48.Rf6+ Ke3 49.Rf7 Be4 50.d5 cxd5 51.cxd5 Rc2 52.Rd7 Bf5 53.Rd8 Kd4 54.d6 Rc5+ 55.Ka6 c6 56.Kb6 Kd5 57.Kc7 Ra5 58.Rf8 Be6 59.Rf2 c5 60.Rd2+ Kc4 61.Re2 Bh3 62.Re3 Ra7+ 63.Kb6 Rd7 64.Kc6 Rh7 65.Re7 Rh6 66.Kc7 Kb5 67.Re5 Bg2 68.a4+ Kb4 69.a5 c4 70.a6 c3 71.Re1 Rh7+ 72.Kb6 Rd7 73.Rb1+ Kc4 74.a7 Rb7+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 7: Kosteniuk, Alexandra - Materia, Marco"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-7/Vce2LZye/BlwTEFG1"]
+[Date "2026.07.19"]
+[Round "7.3"]
+[White "Kosteniuk, Alexandra"]
+[Black "Materia, Marco"]
+[Result "1/2-1/2"]
+[WhiteElo "2392"]
+[BlackElo "2509"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be2 cxd4 7.cxd4 Bb4+ 8.Nc3 O-O 9.O-O Bxc3 10.bxc3 Nc6 11.c4 Qd6 12.Bb2 b6 13.c5 bxc5 14.dxc5 Qxd1 15.Re1 Qxa1 16.Rxa1 Nd5 1/2-1/2

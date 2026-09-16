@@ -1,0 +1,14 @@
+[Event "Round 4: Schnell, Simon - Aryan Goyal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/zwFIfJWE"]
+[Date "2026.07.16"]
+[Round "4.22"]
+[White "Schnell, Simon"]
+[Black "Aryan Goyal"]
+[Result "1-0"]
+[WhiteElo "2211"]
+[BlackElo "2029"]
+[ECO "E47"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 b6 6.e4 Bb7 7.Bg5 h6 8.h4 Be7 9.e5 Ne8 10.Qh5 f5 11.exf6 Nxf6 12.Qe2 c5 13.d5 exd5 14.cxd5 d6 15.O-O-O Nbd7 16.Nf3 Ne5 17.Nxe5 dxe5 18.d6 Bxd6 19.Bc4+ Kh8 20.Nb5 1-0

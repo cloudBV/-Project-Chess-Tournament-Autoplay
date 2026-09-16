@@ -1,0 +1,15 @@
+[Event "Round 2: Medovoy, Yaniv - Vagman, Roy"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-2/d3cE0HD7/pnbNxVzw"]
+[Date "2026.07.15"]
+[Round "2.4"]
+[White "Medovoy, Yaniv"]
+[Black "Vagman, Roy"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[BlackElo "2374"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Nb3 g6 7.Bg5 Bg7 8.f3 Nbd7 9.Qd2 Qc7 10.O-O-O b5 11.Bh6 Bxh6 12.Qxh6 b4 13.Nd5 Nxd5 14.Qg7 Rf8 15.Rxd5 Nf6 16.Rd2 Rg8 17.Qh6 g5 18.g4 Rg6 19.Qh3 a5 20.Nd4 a4 21.Bb5+ Kf8 22.Qf1 a3 23.Qc4 axb2+ 24.Kxb2 Qa5 25.Rd3 Bb7 26.Nc6 Bxc6 27.Bxc6 Rc8 28.Qb5 Qc7 29.Bd5 Qxc2+ 30.Ka1 Rc5 31.Bb3 Qxa2+ 32.Kxa2 Rxb5 33.Ba4 Ra5 34.Kb3 Rh6 35.Kxb4 Re5 36.h3 Rh4 37.Bb5 h5 38.gxh5 Nxh5 0-1

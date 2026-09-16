@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-1/MSVcfeDQ/XBs4FgWS"]
+[Date "2026.07.20"]
+[Round "1.3"]
+[White "Slavensky, Asbjorn Vesterkar"]
+[Black "Pajeken, Jakob Leon"]
+[Result "0-1"]
+[WhiteElo "2193"]
+[BlackElo "2475"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 O-O 7.O-O dxc4 8.Qc2 Bxd2 9.Nbxd2 b5 10.a4 c6 11.e4 Na6 12.e5 Nb4 13.Qd1 Nfd5 14.Ne4 Qe7 15.h4 f5 16.exf6 gxf6 17.Qd2 Rd8 18.Nc3 Nxc3 19.bxc3 Nd5 20.axb5 cxb5 21.Rfe1 Ra6 22.Qc2 Bb7 23.Nd2 Ra7 24.Ne4 Nc7 25.Qc1 Bxe4 26.Rxe4 Kh8 27.h5 a4 28.h6 Rg8 29.Qe1 Ra6 30.Qd2 a3 31.d5 e5 32.Qe2 Rg6 33.Rh4 Ne8 34.Be4 Rg5 35.Rg4 f5 36.Rxg5 Qxg5 37.Bg2 e4 38.Qd1 Qf6 39.Qc1 Qe7 40.Qd2 Qe5 41.Qc1 a2 42.Qb2 e3 43.f4 Qe7 44.Kf1 e2+ 45.Qxe2 Qxe2+ 46.Kxe2 Nd6 47.Ke3 Nb7 48.d6 Nxd6 49.Kd4 Kg8 50.Kc5 Kf8 51.Bd5 Ke7 52.Bg8 Ra8 53.Bd5 Ra3 54.Bc6 Ra6 55.Bd5 Ra3 56.Bc6 Ra5 57.Kb6 b4 58.cxb4 Ra3 59.Bd5 c3 60.Bxa2 c2 61.Re1+ Kf8 62.Kc6 Ne4 63.Bd5 Rc3+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 4: Hillarp Persson, Tiger - Seo, Jung Min"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-4/bqHwICkI/HMXhaD6y"]
+[Date "2026.07.08"]
+[Round "4.1"]
+[White "Hillarp Persson, Tiger"]
+[Black "Seo, Jung Min"]
+[Result "1/2-1/2"]
+[WhiteElo "2418"]
+[BlackElo "2488"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.d3 c5 6.e4 d6 7.a4 b4 8.a5 Be7 9.c3 bxc3 10.bxc3 O-O 11.Re1 Qc7 12.Nbd2 a6 13.Nc4 Nbd7 14.Bf4 Nh5 15.Bd2 Nhf6 16.Bf4 Nh5 17.Bd2 Nhf6 18.Bf4 Nh5 1/2-1/2

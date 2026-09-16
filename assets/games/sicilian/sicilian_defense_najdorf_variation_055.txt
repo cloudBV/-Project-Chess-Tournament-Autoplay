@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.8"]
+[White "Kreken, Eivind Grunt"]
+[Black "Gandrud, Vegar Koi"]
+[Result "1/2-1/2"]
+[WhiteElo "2335"]
+[BlackElo "2283"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 Qb6 8.Bb3 e6 9.Bxf6 Nxf6 10.Qd2 Nd7 11.O-O-O Nc5 12.Rhe1 Bd7 13.Nf5 O-O-O 14.Nxd6+ Bxd6 15.Qxd6 Nxb3+ 16.axb3 Qxd6 17.Rxd6 Bc6 18.Red1 Rxd6 19.Rxd6 Rd8 20.Rxd8+ Kxd8 21.b4 Ke7 22.Kd2 Kd6 23.Ke3 e5 24.f3 Ke6 25.Ne2 g6 26.Nc1 Kd6 27.g4 h6 28.Ne2 Bd7 29.Ng3 Be6 30.h4 Ke7 31.Kd3 b5 32.b3 Bc8 33.Nf1 f5 34.exf5 gxf5 35.Ne3 e4+ 36.fxe4 fxg4 37.Nf1 Ke6 38.Kd4 Bd7 39.Ng3 Be8 40.c4 Bg6 41.c5 Be8 42.Ne2 Bc6 43.Nf4+ Kf6 44.Ke3 Be8 45.Nd3 Bf7 46.Kf4 h5 47.Nc1 Ke7 48.Ne2 Bxb3 49.Ke5 Kd7 50.Ng3 Bf7 51.Kf6 Be8 52.Ke5 Kc6 53.Kd4 Bg6 54.Ne2 Bf7 55.Ng3 Bg6 56.Ne2 Bf7 57.Ng3 Bg6 1/2-1/2

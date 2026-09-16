@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-5-game-1/qHPHgCeX/UDNt2jPG"]
+[Date "2026.07.09"]
+[Round "9.8"]
+[White "Kobal, Nazarij"]
+[Black "Gibala, Adam"]
+[Result "0-1"]
+[WhiteElo "2004"]
+[BlackElo "2267"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.g4 Be6 6.Nc3 c5 7.Be3 Nc6 8.Be2 Qc7 9.f4 cxd4 10.Bxd4 f6 11.f5 fxe5 12.fxe6 exd4 13.Nxd5 Qa5+ 14.Nc3 O-O-O 15.b4 Qxb4 16.Rb1 Qxc3+ 17.Kf1 Nf6 18.Bf3 Nd5 19.Qe2 Ne3+ 20.Kf2 g6 21.Nh3 Bg7 22.Bxc6 Qxc6 23.Rhg1 Rhf8+ 24.Kg3 Be5+ 25.Nf4 Rxf4 26.Kh3 Rf3+ 27.Rg3 Rxg3+ 28.Kh2 Rg2+ 29.Kh1 Rxe2+ 30.Kg1 Qg2# 0-1

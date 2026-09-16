@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.17"]
+[Round "4.5"]
+[White "Guerrero Cataldo, Juan Andres"]
+[Black "Carrasco Miranda, Andres"]
+[Result "0-1"]
+[WhiteElo "2123"]
+[BlackElo "2263"]
+[ECO "E17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Polugaevsky Gambit"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d5 exd5 8.Nh4 c6 9.cxd5 Nxd5 10.Nf5 Re8 11.e4 Nc7 12.Qg4 Ne6 13.Bf4 Kh8 14.Be5 Bf8 15.Nc3 f6 16.Bd6 Na6 17.Rad1 Nac7 18.Bxf8 Rxf8 0-1

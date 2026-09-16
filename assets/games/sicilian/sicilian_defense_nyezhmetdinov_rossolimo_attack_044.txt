@@ -1,0 +1,14 @@
+[Event "Round 1: Noto, Federico - Hercegovac, Neven"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-1/T4WOJvWv/eNDVWW2f"]
+[Date "2026.07.06"]
+[Round "1.4"]
+[White "Noto, Federico"]
+[Black "Hercegovac, Neven"]
+[Result "1/2-1/2"]
+[WhiteElo "2113"]
+[BlackElo "2316"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 a6 6.Bxc6 Bxc6 7.d4 cxd4 8.Nxd4 Rc8 9.Nc3 e6 10.Nxc6 Rxc6 11.Bf4 Nf6 12.Nd5 Be7 13.Nxe7 Qxe7 14.Bg5 h6 15.Bh4 e5 16.Bxf6 Qxf6 17.c3 h5 18.Qb3 Qe7 19.Rad1 h4 1/2-1/2

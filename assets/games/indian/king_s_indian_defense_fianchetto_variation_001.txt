@@ -1,0 +1,14 @@
+[Event "Round 8: Atalik, Suat - Erokhin, Artem"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/VCPhMhSH"]
+[Date "2026.06.22"]
+[Round "8.1"]
+[White "Atalik, Suat"]
+[Black "Erokhin, Artem"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2061"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.Qa4 O-O 7.O-O Bf5 8.Nc3 Ne4 9.Qb3 Qd7 10.Bf4 dxc4 11.Qxc4 b5 12.Qb3 a5 13.Rfd1 a4 14.Qa3 Qb7 15.Nxe4 Bxe4 16.Qe3 Bd5 17.Bh6 Nd7 18.Bxg7 Kxg7 19.Ne1 Bxg2 20.Nxg2 Nf6 21.Qe5 Rfd8 22.Nf4 Kg8 23.Rac1 Rac8 24.a3 Qd7 25.Rd3 Nd5 26.Nxd5 cxd5 27.Rc5 f6 28.Qf4 Rxc5 29.dxc5 Qc6 30.Qb4 e5 1/2-1/2

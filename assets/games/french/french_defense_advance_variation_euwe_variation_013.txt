@@ -1,0 +1,14 @@
+[Event "Round 6: Zlatkov, Anton - Atienza Alvarez, Javier"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/mBIxLyN5"]
+[Date "2026.07.09"]
+[Round "6.32"]
+[White "Zlatkov, Anton"]
+[Black "Atienza Alvarez, Javier"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2084"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O Ng6 8.Be3 Be7 9.Nbd2 cxd4 10.cxd4 O-O 11.Re1 f6 12.exf6 Bxf6 13.Nb3 Be7 14.Rc1 b6 15.Bd3 Nf4 16.Bb1 Rc8 17.g3 Nh3+ 18.Kg2 e5 19.Nxe5 Nxe5 20.dxe5 Rxc1 21.Qxc1 Bg5 22.f3 Bxe3 23.Qxe3 Ng5 24.Nd4 Bh3+ 25.Kg1 Ne6 26.f4 Qe7 27.Nxe6 Bxe6 28.Rc1 Qb4 29.Qc3 Qe7 30.Qd4 Qd7 31.Bd3 Rc8 32.Rc3 g6 33.a4 Rxc3 34.bxc3 Qc6 35.Kg2 Qc8 36.Be2 Kf7 37.Bf3 Qd7 38.Kf2 Kf8 39.Ke3 Ke7 40.a5 bxa5 41.Qc5+ Ke8 42.Qxa5 Qb7 43.Be2 Bd7 44.Qb4 d4+ 45.Kxd4 Qg2 46.Qb8+ Ke7 47.Qd6+ Ke8 48.e6 Qf2+ 49.Kd5 Qg2+ 50.Kc5 Qf2+ 51.Kb4 a5+ 52.Ka3 1-0

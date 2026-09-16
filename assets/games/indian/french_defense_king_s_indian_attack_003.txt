@@ -1,0 +1,15 @@
+[Event "Round 9: Sorbe, Stephane - Ghoreishi Amiri, Seyed Kian"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-9/fVZ5R6SF/RLFGz892"]
+[Date "2026.07.05"]
+[Round "9.4"]
+[White "Sorbe, Stephane"]
+[Black "Ghoreishi Amiri, Seyed Kian"]
+[Result "0-1"]
+[WhiteElo "2217"]
+[BlackElo "2444"]
+[ECO "C00"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 c5 3.g3 Nc6 4.Bg2 g6 5.Be3 Bg7 6.c3 d6 7.f4 Nge7 8.Nf3 O-O 9.O-O b6 10.Nbd2 d5 11.e5 Ba6 12.Qe2 d4 13.cxd4 Nf5 14.Nb3 cxd4 15.Bd2 Rc8 16.Rac1 Nce7 17.Rxc8 Qxc8 18.g4 Ne3 19.Rc1 Qd7 20.Bxe3 dxe3 21.Qxe3 Qa4 22.Nbd4 Qxa2 23.Qd2 Nd5 24.f5 exf5 25.gxf5 Qa4 26.f6 Bh8 27.Nf5 Rc8 28.Nd6 Rxc1+ 29.Qxc1 Qd7 30.Ne4 Bxd3 31.Qh6 Bxe4 32.Ng5 Nxf6 33.Bxe4 Qd1+ 34.Kg2 Qe2+ 35.Kg1 Qg4+ 36.Kh1 Bg7 37.Bf3 Bxh6 38.Bxg4 Nxg4 0-1

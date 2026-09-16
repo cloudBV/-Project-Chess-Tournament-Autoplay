@@ -1,0 +1,15 @@
+[Event "Famalicao Open"]
+[Site "https://lichess.org/broadcast/xiii-torneio-internacional-cidade-de-famalicao/round-5/KqiJ34tw/Gzb0LBjc"]
+[Date "2026.07.23"]
+[Round "5.7"]
+[White "Nainys, Zanas"]
+[Black "Afonso, Joao Pedro"]
+[Result "1-0"]
+[WhiteElo "2321"]
+[BlackElo "2042"]
+[ECO "A47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Pseudo Queen's Indian Defense"]
+
+1.d4 Nf6 2.Nf3 b6 3.e3 Bb7 4.Bd3 e6 5.Nbd2 d5 6.O-O Nbd7 7.b3 Be7 8.Bb2 O-O 9.Ne5 Nxe5 10.dxe5 Ne4 11.Bxe4 dxe4 12.Qe2 Qd5 13.Rfd1 Qc6 14.Nf1 Rfd8 15.Ng3 Rd5 16.Nh5 Bf8 17.Rd4 a5 18.Rad1 a4 19.c4 Rxd4 20.exd4 axb3 21.axb3 Ra2 22.Ra1 Rxa1+ 23.Bxa1 b5 24.c5 Qa6 25.Bc3 Bd5 26.b4 Qa3 27.Qb2 Qa4 28.Qd2 Qb3 29.h3 Be7 30.Kh2 h6 31.Qe1 Bg5 32.Bd2 Bxd2 33.Qxd2 Qd3 34.Qe3 c6 35.Qg3 Qxg3+ 36.Kxg3 Kh7 37.Kf4 e3 38.fxe3 Bxg2 39.h4 Bd5 40.Ng3 g6 41.Ne2 Kg7 42.Nc3 Kf8 43.Nxd5 exd5 44.e4 Ke7 45.exd5 cxd5 46.h5 Ke6 47.c6 gxh5 48.Kg3 Ke7 49.Kh4 Kd8 50.Kxh5 1-0

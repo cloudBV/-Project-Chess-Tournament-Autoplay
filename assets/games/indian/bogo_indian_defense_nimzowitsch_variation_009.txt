@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "11.7"]
+[White "Karakhanyan, Vazgen"]
+[Black "Balint, Peter"]
+[Result "*"]
+[WhiteElo "2043"]
+[BlackElo "2377"]
+[ECO "E11"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.Nc3 O-O 6.e3 Bxc3 7.Bxc3 Ne4 8.Qc2 Nxc3 9.Qxc3 d5 10.Bd3 dxc4 11.Qxc4 b6 12.Rc1 Ba6 13.Qc3 Bxd3 14.Qxd3 Rc8 15.O-O c6 16.Ne5 f6 17.Nf3 Nd7 18.Rc2 Rc7 19.Rfc1 Rac8 20.Qe4 Qd6 21.Nd2 c5 22.Nc4 Qd5 23.Qxd5 exd5 24.Nd6 Ra8 25.e4 dxe4 26.Nxe4 f5 27.Nd6 Rf8 28.b4 Rc6 29.dxc5 bxc5 30.Nb7 Rb8 31.Nxc5 Rxb4 32.Nb3 Rxc2 33.Rxc2 Rb7 34.Kf1 Kf7 35.g3 Nf6 36.Rc5 g6 37.f3 Rd7 38.Ke2 Nd5 39.Nd2 Re7+ 40.Kf2 Nb4 41.Rc3 Nxa2 42.Rc4 Rb7 43.g4 Nb4 44.gxf5 gxf5 45.Kg3 Kf6 46.Rc5 Rg7+ 47.Kh3 Nd3 48.Ra5 Nf4+ 49.Kh4 Ne6 50.Nc4 Rd7 51.Kg3 f4+ 52.Kf2 Rd4 53.Ne5 Rd2+ 54.Ke1 Rg2 55.Ng4+ Kg6 56.Ra6 Kf5 57.Ra5+ Kg6 58.Ra6 Kf5 59.Ra5+ Kg6 60.Ra6 Kf7 61.Rxa7+ Kf8 62.Kf1 Rc2 63.h4 Nd4 64.Ne5 Ne2 65.Ke1 Ng3 66.Kd1 Re2 67.Nd3 Re3 68.Nxf4 Rxf3 69.Ne6+ Kg8 70.Rg7+ Kh8 71.Re7 Rf1+ 72.Kd2 h6 73.Nd4 Rf4 74.Re8+ Kh7 75.Re7+ Kg6 76.Ke3 Rxd4 77.Re6+ Kf7 78.Ra6 Nf5+ 79.Kf3 Rxh4 80.Ra5 Kg6 81.Ra6+ Kg5 82.Ra5 Rf4+ 83.Kg2 Rd4 84.Ra2 h5 85.Rb2 Kg4 86.Ra2 h4 87.Rb2 *

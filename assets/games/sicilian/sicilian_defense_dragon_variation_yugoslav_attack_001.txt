@@ -1,0 +1,14 @@
+[Event "Round 9: Ganguly, Surya Shekhar - Dong, Hongfu"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-9/PFJULri3/h5fnM05G"]
+[Date "2026.07.12"]
+[Round "9.4"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Dong, Hongfu"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2271"]
+[ECO "B78"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Ne5 11.Be2 Rc8 12.Kb1 Nc4 13.Bxc4 Rxc4 14.g4 b5 15.b3 b4 16.bxc4 bxc3 17.Qxc3 Qc7 18.Rd3 Rc8 19.Qb2 Qxc4 20.Rb3 h5 21.Rb4 Qa6 22.gxh5 Nxh5 23.Rb8 Rxb8 24.Qxb8+ Kh7 25.Qb4 Be5 26.h4 Ng3 27.Re1 Nf1 28.Bc1 Bf6 29.Bg5 Bxd4 30.Qxd4 Be6 31.Qb2 Nh2 32.Bxe7 Nxf3 33.Rh1 Nd2+ 34.Kc1 Nxe4 35.h5 Qxa2 36.hxg6+ Kxg6 37.Rg1+ Kf5 38.Rf1+ Kg6 39.Rg1+ Kf5 40.Qd4 Qa3+ 41.Kd1 Bc4 42.Qxc4 Qf3+ 43.Kc1 Qa3+ 44.Kd1 Qf3+ 45.Kc1 Qa3+ 1/2-1/2

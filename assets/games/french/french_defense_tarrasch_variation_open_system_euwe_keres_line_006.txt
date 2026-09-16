@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.05"]
+[Round "9.2"]
+[White "Stoinev, Metodi"]
+[Black "Tilicheev, Viacheslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2174"]
+[BlackElo "2447"]
+[ECO "C07"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nc6 6.Bb5 Bd7 7.Nxc6 bxc6 8.Bd3 Qc7 9.Qe2 Bd6 10.Nf3 dxe4 11.Qxe4 Nf6 12.Qh4 c5 13.O-O Bc6 14.Nd2 Qb7 15.Nc4 Be7 16.Na5 Qc7 17.Nxc6 Qxc6 18.b3 Nd5 19.Qe4 Bf6 20.Rb1 Rc8 21.Bd2 Nb4 22.Qxc6+ Nxc6 23.Bb5 Ke7 24.c3 Rhd8 25.Rfd1 Rxd2 26.Rxd2 Bxc3 27.Rd3 Bd4 28.Bxc6 Rxc6 29.Rc1 e5 30.Kf1 Ra6 31.Rc2 Kd6 32.Ke2 Kd5 33.f3 Rh6 34.h3 Rg6 35.Kf1 f5 36.Rdd2 e4 37.fxe4+ fxe4 38.g4 Rf6+ 39.Kg2 e3 40.Rd1 a5 41.Rf1 Ke4 42.Rxf6 gxf6 43.Re2 a4 44.Re1 Bc3 45.Re2 a3 46.Kg3 Bd2 47.h4 Kd3 48.Kf3 Kc2 49.Ke4 h6 50.Rg2 Kc3 51.Re2 Kc2 52.Rh2 Kc3 53.Rg2 Kc2 54.Rh2 Kc3 1/2-1/2

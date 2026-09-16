@@ -1,0 +1,15 @@
+[Event "Round 6: Ilinca, Felix-Antonio - Tarlabasi, Emirhan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/ngeiXapC"]
+[Date "2026.07.02"]
+[Round "6.11"]
+[White "Ilinca, Felix-Antonio"]
+[Black "Tarlabasi, Emirhan"]
+[Result "1/2-1/2"]
+[WhiteElo "2495"]
+[BlackElo "2328"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Qd2 a6 9.dxc5 Nxc5 10.O-O-O Qa5 11.Kb1 b5 12.Nd4 Nxd4 13.Bxd4 b4 14.Ne2 Rb8 15.Nc1 Qc7 16.Nb3 Ne4 17.Qe3 a5 18.Bd3 a4 19.Bxe4 axb3 20.Bd3 Ba6 21.cxb3 Bxd3+ 22.Qxd3 Qa5 23.Qc2 Kd7 24.Rc1 Rhc8 25.Qd3 Ra8 26.Rxc8 Qxa2+ 27.Kc2 Rxc8+ 28.Kd2 Bc5 29.Rc1 Bxd4 30.Qb5+ Kd8 31.Rxc8+ Kxc8 32.Qc6+ Kd8 33.Qd6+ Ke8 34.Qb8+ 1/2-1/2

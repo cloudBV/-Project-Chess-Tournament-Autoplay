@@ -1,0 +1,15 @@
+[Event "Round 2: Oz, Ege - Munkhgal, Gombosuren"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/sjWhCq2J"]
+[Date "2026.07.14"]
+[Round "2.40"]
+[White "Oz, Ege"]
+[Black "Munkhgal, Gombosuren"]
+[Result "0-1"]
+[WhiteElo "2120"]
+[BlackElo "2351"]
+[ECO "C56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Invitation Declined"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.d4 Nf6 5.Nc3 Bg4 6.dxe5 dxe5 7.Qxd8+ Rxd8 8.Bg5 Bxf3 9.gxf3 Nd4 10.O-O-O Nxf3 11.Rxd8+ Kxd8 12.Bxf6+ gxf6 13.Bxf7 Bh6+ 14.Kb1 c6 15.h3 b5 16.a3 a5 17.Ka1 Ke7 18.Bh5 Nd2 19.Re1 Rd8 20.Nb1 Nc4 21.Bg4 Bf4 22.Rg1 Rg8 23.Rd1 Nd6 24.f3 h5 25.Bxh5 Rg2 26.Nc3 Rxc2 27.Bg4 Rh2 28.Re1 Bd2 29.Re2 Rh1+ 30.Nb1 Bf4 31.Ka2 Kd8 32.a4 b4 33.Nd2 Bxd2 34.Rxd2 Kc7 35.b3 c5 36.Rc2 c4 37.bxc4 Nb7 38.c5 Kc6 39.Bd7+ Kxd7 40.c6+ Kc7 41.cxb7+ Kxb7 42.Rc5 Rh2+ 43.Kb3 Rxh3 44.Rxa5 Rxf3+ 45.Kxb4 Re3 46.Rd5 Rxe4+ 47.Kb5 Kc7 48.a5 Re1 49.Rc5+ Kd7 50.a6 Rb1+ 51.Ka5 Kd6 52.Rc4 Ra1+ 53.Kb6 Rb1+ 54.Ka5 Kd5 55.Ra4 Rb8 56.a7 Ra8 57.Ka6 e4 58.Kb7 Rxa7+ 59.Kxa7 e3 60.Rf4 e2 61.Rxf6 e1=Q 62.Rf5+ Ke6 63.Rb5 Qa1+ 64.Kb7 Qa4 65.Rb6+ Kd7 66.Kb8 Qa5 67.Kb7 Qd5+ 68.Kb8 Qe4 69.Rb5 Kc6 70.Rb7 Qd5 71.Ka7 Qd8 72.Rh7 Qd4+ 73.Kb8 Qb4+ 74.Ka8 Qa3+ 75.Kb8 Qb3+ 76.Ka8 Qg8+ 0-1

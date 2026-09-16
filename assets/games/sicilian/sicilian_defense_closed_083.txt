@@ -1,0 +1,14 @@
+[Event "Round 3: Stricker, Florian - Steger, Lukas Daniel"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-3/EFWoXZQM/qWNXakAT"]
+[Date "2026.07.20"]
+[Round "3.17"]
+[White "Stricker, Florian"]
+[Black "Steger, Lukas Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2231"]
+[BlackElo "2196"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 a6 3.Nge2 Nf6 4.g3 d6 5.Bg2 g6 6.d3 Bg7 7.h3 Nc6 8.Be3 Rb8 9.a4 O-O 10.O-O b5 11.axb5 axb5 12.Qd2 b4 13.Nd1 Bb7 14.f4 Ra8 15.Rb1 Nd7 16.f5 Ra2 17.Bh6 Qb6 18.Kh2 Nd4 19.Bxg7 Kxg7 20.Nf4 Ne5 21.Ne3 Qd8 22.g4 Kh8 23.Qd1 Bc6 24.Ra1 Qa5 25.Rb1 Qd8 26.Ra1 Qa5 27.Rb1 1/2-1/2

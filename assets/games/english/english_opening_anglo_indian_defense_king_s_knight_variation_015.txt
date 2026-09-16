@@ -1,0 +1,15 @@
+[Event "Round 7: Ponomariov, Ruslan - Oparin, Grigoriy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/ACQvTvu7"]
+[Date "2026.07.04"]
+[Round "7.3"]
+[White "Ponomariov, Ruslan"]
+[Black "Oparin, Grigoriy"]
+[Result "1-0"]
+[WhiteElo "2609"]
+[BlackElo "2670"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 Bd6 5.g3 O-O 6.Bg2 Nc6 7.d4 b6 8.O-O Bb7 9.e3 Re8 10.Nc3 Rb8 11.Rc1 dxc4 12.bxc4 e5 13.Nb5 exd4 14.exd4 Bf8 15.d5 Nb4 16.a3 Na6 17.Nxa7 Nc5 18.Nd4 Ra8 19.Ndc6 Bxc6 20.Nxc6 Qd6 21.Qc2 Na4 22.Bd4 Nd7 23.Rfe1 Nac5 24.Be3 Qg6 25.Qxg6 hxg6 26.Ra1 Nb3 27.Rab1 Rxa3 28.Bf4 Rxe1+ 29.Rxe1 Bd6 30.Bxd6 cxd6 31.Re8+ Kh7 32.Bh3 Nf6 33.Re7 Kg8 34.Rb7 Ne4 35.Nd8 Ng5 36.Bd7 Nc5 37.Rc7 Nxd7 38.Rxd7 Rc3 39.Rxd6 Rxc4 40.Rxb6 Rd4 41.Rb8 Rxd5 42.h4 Nf3+ 43.Kg2 Ne5 44.Ne6+ 1-0

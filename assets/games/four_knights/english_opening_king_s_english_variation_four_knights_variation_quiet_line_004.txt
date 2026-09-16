@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "6.4"]
+[White "Ghosh, Diptayan"]
+[Black "Petrovskiy, Vadym"]
+[Result "1/2-1/2"]
+[WhiteElo "2554"]
+[BlackElo "2469"]
+[ECO "A28"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.a3 d5 8.d4 e4 9.Ne5 Nxe5 10.dxe5 Ng4 11.cxd5 O-O 12.b4 Qh4 13.g3 Qh5 14.Be2 Qf5 15.Bxg4 Qxg4 16.Bb2 c6 17.h3 Qf3 18.e6 f6 19.Rg1 cxd5 20.e7 Re8 21.g4 Bd7 22.Qc5 Kh8 23.Rg3 Qh1+ 24.Ke2 Qh2 25.g5 Rac8 26.gxf6 Rxc5 27.bxc5 Bb5+ 28.Ke1 Qh1+ 29.Kd2 Qh2 30.Ke1 Qh1+ 1/2-1/2

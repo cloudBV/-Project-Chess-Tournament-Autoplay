@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.11"]
+[Round "1.10"]
+[White "Smit, Frans"]
+[Black "Kazarjan, Gachatur"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2299"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Bd6 5.b3 Nc6 6.Bb2 O-O 7.O-O dxc4 8.bxc4 e5 9.Nc3 Re8 10.e4 Bc5 11.d3 Bg4 12.h3 Bxf3 13.Bxf3 Nd4 14.Nd5 c6 15.Nxf6+ Qxf6 16.Kg2 Red8 17.Bxd4 Rxd4 18.Qb3 Rad8 19.Be2 b6 20.f4 R4d7 21.Rad1 a5 22.a4 exf4 23.Rxf4 Qd4 24.Qc2 Re7 25.Rdf1 Qe3 26.R4f3 Qg5 27.Qc1 Qg6 28.Rf5 Qe6 29.Qg5 h6 30.Qh4 Bd4 31.Rxf7 Qxf7 32.Rxf7 Kxf7 33.Bh5+ Kf8 34.Qf4+ Bf6 35.Be2 Re5 36.Qe3 Rc5 37.Qf2 Ke7 38.Qf4 Rd6 39.Qg4 Kd8 40.h4 b5 41.Qf4 Ke7 42.axb5 cxb5 43.cxb5 a4 44.Bd1 a3 45.Bb3 Rxb5 46.Bc4 Rc5 47.Qf2 Ra5 48.e5 Bxe5 49.Qf7+ Kd8 50.Qf8+ Kc7 51.Qe7+ Kc6 52.Qe8+ Kb6 53.Qb8+ Kc5 54.Ba2 Rb5 55.Qc7+ Kb4 56.Qc4+ Ka5 57.Bb3 Rd4 58.Qf7 Kb4 59.Kh3 Kc3 60.Bc4 Ra5 61.Qf1 Rxc4 62.Qe1+ Kb3 63.Qxa5 Bc3 64.Qb6+ Rb4 65.Qe6+ Kc2 66.Qa2+ Bb2 67.Kg2 Rd4 68.Kf2 Kc3 69.Qf7 Kxd3 70.Qb3+ Kd2 71.h5 Rd3 72.Qa2 Kc1 73.g4 Rc3 74.Ke2 Rc2+ 75.Kd3 Rd2+ 76.Ke4 Rf2 77.Qc4+ Kb1 78.Qd3+ Rc2 79.Qd1+ Bc1 80.Qd3 a2 81.Kd4 0-1

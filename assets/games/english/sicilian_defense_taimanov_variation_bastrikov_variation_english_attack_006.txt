@@ -1,0 +1,15 @@
+[Event "Round 9: Adhiraj Mitra - Gurbanov, Huseyn"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-9/R1P9v0O5/7xAi8KrT"]
+[Date "2026.07.04"]
+[Round "9.10"]
+[White "Adhiraj Mitra"]
+[Black "Gurbanov, Huseyn"]
+[Result "1-0"]
+[WhiteElo "2348"]
+[BlackElo "2078"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.Qe2 Be7 9.O-O b5 10.Nxc6 Qxc6 11.a3 O-O 12.f3 d6 13.Qf2 Bb7 14.Rac1 Rfd8 15.Ne2 e5 16.c4 bxc4 17.Bxc4 Qa4 18.Ba2 Qe8 19.Bb6 Rdc8 20.Nc3 Bc6 21.Rfd1 Rab8 22.Bc4 a5 23.Ba6 Bb7 24.Bxb7 Rxb7 25.Be3 Rcb8 26.Rc2 h6 27.Ba7 Ra8 28.Bb6 a4 29.Be3 Qb8 30.Na2 Rb3 31.Nb4 Qb5 32.Nc6 Bf8 33.Qd2 Nd7 34.Nb4 Nc5 35.Bxc5 dxc5 36.Qd5 Re8 37.Rdd2 Qb6 38.Qc6 Rb8 39.Qxb6 Rxb6 40.Nd5 Rb7 41.Kf2 f6 42.Ne3 c4 43.Nxc4 Bc5+ 44.Ke2 Bd4 45.Na5 Re3+ 46.Kd1 Rb5 47.Nc6 Bc5 48.Rd5 Rbb3 49.Rdxc5 1-0

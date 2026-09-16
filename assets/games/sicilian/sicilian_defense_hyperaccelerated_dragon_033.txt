@@ -1,0 +1,14 @@
+[Event "Round 4: Benmesbah, Natacha - Vallee, Louis"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-4/ldXbtbuN/pVgRjLfe"]
+[Date "2026.07.21"]
+[Round "4.4"]
+[White "Benmesbah, Natacha"]
+[Black "Vallee, Louis"]
+[Result "0-1"]
+[WhiteElo "2224"]
+[BlackElo "2392"]
+[ECO "B27"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.Qxd4 Nc7 7.Be2 Nc6 8.Qh4 Ne6 9.Bh6 Qb6 10.b4 Qc7 11.Bxf8 Rxf8 12.Qe4 f5 13.exf6 Rxf6 14.g3 b6 15.O-O Bb7 16.Qe3 O-O-O 17.Na3 Kb8 18.Nb5 Qc8 19.a4 Rdf8 20.Nd2 Rf5 21.Bg4 Re5 22.Qd3 h5 23.Bh3 h4 24.f4 Rh5 25.Bxe6 dxe6 26.Qxg6 Rd5 27.Ne4 a6 28.c4 Rg8 29.Qh7 Rh8 30.Qg7 Rdh5 31.Ng5 hxg3 32.hxg3 axb5 33.cxb5 Nxb4 0-1

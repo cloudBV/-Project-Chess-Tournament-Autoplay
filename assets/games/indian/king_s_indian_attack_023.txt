@@ -1,0 +1,15 @@
+[Event "Round 1: Larkin, Vladyslav - Kucza, Karol"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/S9Led3cb"]
+[Date "2026.07.04"]
+[Round "1.3"]
+[White "Larkin, Vladyslav"]
+[Black "Kucza, Karol"]
+[Result "1/2-1/2"]
+[WhiteElo "2506"]
+[BlackElo "2323"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Ngf6 4.Bg2 b5 5.a4 b4 6.Ne5 Bb7 7.Nd3 e6 8.Nd2 c5 9.dxc5 Bxc5 10.Nb3 Bd6 11.Bd2 a5 12.c3 bxc3 13.Bxc3 O-O 14.O-O Ne4 15.Bxe4 dxe4 16.Ne1 Nf6 17.Qd2 1/2-1/2

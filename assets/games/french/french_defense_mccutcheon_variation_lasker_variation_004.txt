@@ -1,0 +1,14 @@
+[Event "Round 5: Rappazzo, Johannes - Kolly, Jacques"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/nK2zvSUY"]
+[Date "2026.07.19"]
+[Round "5.17"]
+[White "Rappazzo, Johannes"]
+[Black "Kolly, Jacques"]
+[Result "1-0"]
+[WhiteElo "2032"]
+[BlackElo "2203"]
+[ECO "C12"]
+[Variant "Standard"]
+[Opening "French Defense: McCutcheon Variation, Lasker Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Bc1 c5 9.Ne2 cxd4 10.cxd4 Qa5+ 11.c3 Nc6 12.f3 Nxc3 13.Qd2 Nxe2 14.Qxa5 Nxa5 15.Bxe2 O-O 16.h4 Bd7 17.h5 Rac8 18.g4 Rc2 19.Bd3 Rc7 20.g5 hxg5 21.h6 gxh6 22.Rxh6 Ba4 23.Bxg5 f5 24.exf6 Rc3 25.Bh7+ Kf7 26.Bg6+ Kg8 27.f7+ Kg7 28.Be7 Kxh6 29.Bxf8+ Kxg6 30.Bb4 Rxf3 31.f8=Q Rxf8 32.Bxf8 Kf5 33.Kd2 Nc4+ 34.Kc3 b5 35.Rf1+ Ke4 36.Re1+ Kf5 37.Rf1+ Ke4 38.Bh6 a5 39.Rf4+ Ke3 40.Rf6+ Ke2 41.Rxe6+ Kf3 42.Kd3 b4 43.Rf6+ Kg4 44.Rf4+ Kh5 45.Bf8 Bb5 46.Rf5+ Kg4 47.Rxd5 Na3+ 48.Ke4 1-0

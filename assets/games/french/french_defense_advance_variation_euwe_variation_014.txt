@@ -1,0 +1,14 @@
+[Event "Round 4: Korneev, Oleg - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-4/RqcM0dmr/97vtHy72"]
+[Date "2026.07.09"]
+[Round "4.2"]
+[White "Korneev, Oleg"]
+[Black "Badacsonyi, Stanley"]
+[Result "1/2-1/2"]
+[WhiteElo "2433"]
+[BlackElo "2312"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O cxd4 8.cxd4 Nf5 9.Nc3 a6 10.Bg5 Be7 11.Bxe7 Qxe7 12.Qd2 O-O 13.Rac1 Nh4 14.Nxh4 Qxh4 15.f4 Qd8 16.h3 f6 17.Kh2 Qb6 18.Rcd1 fxe5 19.dxe5 Ne7 20.Bg4 a5 21.Rf3 1/2-1/2

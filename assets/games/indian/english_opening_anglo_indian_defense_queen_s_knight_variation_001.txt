@@ -1,0 +1,14 @@
+[Event "Round 7: KHASCHULUU, Sergelenbaatar - Berling, Egil"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/WHp820bH"]
+[Date "2026.07.02"]
+[Round "7.17"]
+[White "KHASCHULUU, Sergelenbaatar"]
+[Black "Berling, Egil"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2121"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Re8 7.d3 e5 8.Rb1 a5 9.a3 c6 10.b4 axb4 11.axb4 d5 12.Bg5 h6 13.Bxf6 Bxf6 14.cxd5 cxd5 15.d4 e4 16.Ne1 Be6 17.e3 Nd7 18.Qb3 Nb6 19.Nc2 Nc4 20.Rbd1 Qd7 21.Rfe1 Bg4 22.Ra1 Rad8 23.Nb1 Qe6 24.Nca3 Ra8 25.Nxc4 Rxa1 26.Nca3 Ra8 27.Qb2 R8xa3 0-1

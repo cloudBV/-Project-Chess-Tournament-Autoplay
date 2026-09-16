@@ -1,0 +1,15 @@
+[Event "Round 1: Willmoth, Robert F - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-1/IZm7gMRo/hlkL7Ngd"]
+[Date "2026.07.21"]
+[Round "1.11"]
+[White "Willmoth, Robert F"]
+[Black "Badacsonyi, Stanley"]
+[Result "0-1"]
+[WhiteElo "2146"]
+[BlackElo "2312"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.dxc5 Bxc5 10.Bd3 Qb6 11.Bf2 b4 12.Na4 Bxf2+ 13.Qxf2 Qxf2+ 14.Kxf2 Ke7 15.Rhc1 Bb7 16.b3 Rac8 17.Ke3 f6 18.exf6+ gxf6 19.a3 h6 20.g3 Rc7 21.Re1 Kd6 22.axb4 Nxb4 23.c3 Nxd3 24.Kxd3 e5 25.Nh4 Ke6 26.Kd2 Rhc8 27.Rec1 Bc6 28.b4 Bb5 29.Nb2 Nb6 30.fxe5 fxe5 31.g4 h5 32.gxh5 Rf8 33.Nd3 Nc4+ 34.Ke1 e4 35.Nc5+ Kd6 36.Nb3 Rcf7 37.Nd2 Nxd2 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "15.10"]
+[White "Klim, Filip"]
+[Black "Bartodziej, Bartosz"]
+[Result "1/2-1/2"]
+[WhiteElo "2014"]
+[BlackElo "2021"]
+[ECO "C55"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.O-O Nb6 7.Bb5 Bd6 8.Re1 f6 9.d4 O-O 10.Bxc6 bxc6 11.Nc3 Bg4 12.Be3 Nc4 13.b3 Nxe3 14.Rxe3 Bxf3 15.Rxf3 exd4 16.Ne4 Be5 17.Qd3 Qd5 18.Rd1 Rfe8 19.h3 Rad8 20.Nd2 c5 21.a4 Bd6 22.Nc4 Qe4 23.Qd2 Re6 24.Kf1 Rde8 25.Nxd6 cxd6 26.Rd3 Qe5 27.g3 Qe4 28.f3 Qf5 29.g4 Qe5 30.Qf2 Qf4 31.R1d2 Re3 32.Kg2 Re1 33.b4 h5 34.c3 dxc3 35.Rxc3 cxb4 36.Rcd3 hxg4 37.hxg4 b3 38.Rxb3 Qxa4 39.Rbd3 R1e6 40.Rxd6 Rxd6 41.Rxd6 Qc4 42.Qxa7 Re2+ 43.Kg3 Qc2 44.Qa8+ Kh7 45.Qd5 Rg2+ 46.Kf4 Qc1+ 47.Kf5 Qg5+ 48.Ke6 Re2+ 49.Kd7 Qe3 50.Qd3+ Qxd3 51.Rxd3 Kg6 52.Kd6 Kg5 53.Kd5 Kf4 54.Kd4 g6 55.Ra3 Rf2 56.Ra6 Kg5 57.Ke3 Rf1 58.Ke2 Rb1 59.Ke3 Rb3+ 60.Kf2 Rc3 61.Kg3 f5 62.gxf5 gxf5 63.Ra5 Rb3 64.Rc5 Rb2 1/2-1/2

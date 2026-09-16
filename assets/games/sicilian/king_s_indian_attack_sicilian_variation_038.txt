@@ -1,0 +1,14 @@
+[Event "Round 4: Gutkind, Kedem - Van t Hoff, Tom"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/NVY9Havi"]
+[Date "2026.07.24"]
+[Round "4.29"]
+[White "Gutkind, Kedem"]
+[Black "Van t Hoff, Tom"]
+[Result "1-0"]
+[WhiteElo "2137"]
+[BlackElo "2056"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.Nbd2 d5 5.g3 Nf6 6.Bg2 Be7 7.O-O O-O 8.Re1 b5 9.e5 Nd7 10.Nf1 Bb7 11.h4 Re8 12.h5 f6 13.exf6 Bxf6 14.Ne3 Nde5 15.Nh2 b4 16.Kh1 Qd7 17.h6 g6 18.Neg4 Bh8 19.Be3 Nxg4 20.Nxg4 Qd6 21.Qc1 Rf8 22.c3 bxc3 23.bxc3 Rae8 24.Qa3 d4 25.cxd4 Bxd4 26.Rab1 Ba8 27.Qa6 Qd7 28.Bxd4 Qxd4 29.Qc4 Qxc4 30.dxc4 Rf5 31.Kg1 Rg5 32.Nf6+ Kf7 33.Nxe8 1-0

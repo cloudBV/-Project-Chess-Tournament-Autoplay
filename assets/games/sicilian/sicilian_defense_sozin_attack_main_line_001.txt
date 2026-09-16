@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-4/bLDEfpjh/1bAgmu9r"]
+[Date "2026.07.03"]
+[Round "4.2"]
+[White "Ernst, Robert"]
+[Black "Roshka, Yevgeniy"]
+[Result "1-0"]
+[WhiteElo "2401"]
+[BlackElo "2497"]
+[ECO "B89"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 Bd7 8.Qe2 Rc8 9.Nxc6 Bxc6 10.f3 Qa5 11.O-O-O Be7 12.g4 O-O 13.g5 Nd7 14.Rhg1 Ne5 15.Bb3 b5 16.f4 Nc4 17.f5 exf5 18.exf5 Rfe8 19.g6 fxg6 20.fxg6 h6 21.Qh5 Qc7 22.Bxh6 gxh6 23.Nxb5 Bg5+ 24.Rxg5 Bxb5 25.Rxb5 Kg7 26.Rf5 Ne5 27.Rf7+ Nxf7 28.gxf7 Re5 29.Qg4+ Rg5 30.Qd4+ Kh7 31.Qe4+ Kg7 32.Qe8 Rxe8 33.fxe8=Q d5 34.Rf1 a5 35.Bxd5 Rxd5 36.Qf8+ Kg6 37.Qg8+ Qg7 38.Qxd5 1-0

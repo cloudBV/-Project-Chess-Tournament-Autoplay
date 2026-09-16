@@ -1,0 +1,15 @@
+[Event "Round 7: Puzyrevsky, Semyon - Sharshenbekov, Emir"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-7/p8K9mTTy/K7zPCSqh"]
+[Date "2026.07.22"]
+[Round "7.9"]
+[White "Puzyrevsky, Semyon"]
+[Black "Sharshenbekov, Emir"]
+[Result "1-0"]
+[WhiteElo "2383"]
+[BlackElo "2212"]
+[ECO "A43"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Pseudo-Benko"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 Qa5+ 5.c3 d6 6.Bxf6 gxf6 7.Nbd2 Bh6 8.e3 Rg8 9.a4 b4 10.Nc4 Qc7 11.cxb4 Na6 12.b5 Nb4 13.Rc1 Bb7 14.g3 Bxd5 15.Bg2 Rc8 16.O-O Be6 17.b3 Qd7 18.Ne1 d5 19.Na5 Qd8 20.Nc6 Nxc6 21.bxc6 Rxc6 22.Nd3 Qd6 23.Qh5 Rg6 24.Kh1 Kf8 25.f4 c4 26.bxc4 Kg7 27.c5 Qc7 28.Qe2 Bg4 29.Qb2 e6 30.Nb4 Rxc5 31.Na6 Rxc1 32.Nxc7 Rxc7 33.h3 Bf5 34.g4 Rc2 35.Qb3 Rd2 36.Rg1 Be4 37.Bxe4 dxe4 38.g5 1-0

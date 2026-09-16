@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.12"]
+[White "Klim, Filip"]
+[Black "Musial, Igor"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2175"]
+[ECO "A46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 h6 5.O-O Bd6 6.c4 O-O 7.Nc3 Nc6 8.b3 Re8 9.Bb2 dxc4 10.bxc4 e5 11.Nb5 e4 12.Ne5 a6 13.Nxc6 bxc6 14.Nc3 Be6 15.c5 Bf8 16.Nxe4 Bc4 17.Nc3 Rb8 18.Rb1 Nd5 19.Nxd5 cxd5 20.Qa4 Rxe2 21.Qa3 Qf6 22.Bc3 Rxb1 0-1

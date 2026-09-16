@@ -1,0 +1,14 @@
+[Event "Round 4: Loetscher, Roland - Saminskij, Jan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-4/haUh3hFS/hslcR3zV"]
+[Date "2026.07.14"]
+[Round "4.2"]
+[White "Loetscher, Roland"]
+[Black "Saminskij, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2301"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Bd7 6.Qxc4 c5 7.Ne5 Qc8 8.Qd3 Nc6 9.Nxd7 Nxd7 10.Nc3 Be7 11.b3 O-O 12.Bb2 Rd8 13.Rd1 Nf6 14.Qb1 Qd7 15.O-O Rac8 16.Rfe1 Nb4 17.a3 Nbd5 18.Nxd5 Nxd5 19.e4 Nb6 20.Qa1 Bf8 21.a4 c4 22.a5 Na8 23.Qa2 b5 24.axb6 Nxb6 25.Bf1 cxb3 26.Qxb3 Qa4 27.Qf3 Nc4 28.Bc3 Qb3 29.Qg4 Na3 30.e5 g6 31.Rc1 h5 32.Qd1 Qxd1 33.Rexd1 Nc4 1/2-1/2

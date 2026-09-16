@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.17"]
+[Round "4.2"]
+[White "Salinas Herrera, Pablo"]
+[Black "Diaz Villagran, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2447"]
+[BlackElo "2239"]
+[ECO "E91"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Bg4 7.O-O Nfd7 8.Be3 Nc6 9.Ne1 Bxe2 10.Nxe2 Na5 11.Qc2 c5 12.dxc5 dxc5 13.Rd1 Qc7 14.Nc3 Nc6 15.Nd5 Qc8 16.Qa4 Re8 17.Qa3 b6 18.Bf4 Nde5 19.Qa4 Nd4 20.Rd2 1/2-1/2

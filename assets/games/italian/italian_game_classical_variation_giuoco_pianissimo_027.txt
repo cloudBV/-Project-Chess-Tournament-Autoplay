@@ -1,0 +1,15 @@
+[Event "Round 7: So, Wesley - Madaminov, Mukhiddin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-7/kwLWCMdV/3FQKsZL1"]
+[Date "2026.07.05"]
+[Round "7.3"]
+[White "So, Wesley"]
+[Black "Madaminov, Mukhiddin"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2540"]
+[ECO "C54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.Bg5 h6 7.Bh4 Be7 8.Bg3 d6 9.a4 Kh7 10.Nbd2 g6 11.h3 Nh5 12.Bh2 a6 13.O-O Bg5 14.Re1 Bf4 15.Nf1 Bxh2+ 16.Kxh2 Nf4 17.d4 Qf6 18.Ne3 Ne7 19.Bf1 Qg7 20.a5 Ne6 21.b4 Ng5 22.dxe5 Nxf3+ 23.Qxf3 Qxe5+ 24.Kg1 Be6 25.Rac1 Rae8 26.g3 Kg7 27.Qg2 Kh7 28.f4 Qg7 29.Qf3 Bc8 30.Kh2 h5 31.Bd3 Kh8 32.Rc2 Qf6 33.Rf1 Bd7 34.Re1 Ba4 35.Rcc1 Bc6 36.c4 Qd4 37.Nd5 Bxd5 38.cxd5 Qxb4 39.Qf2 c5 40.Rb1 Qc3 41.Qb2 Qxb2+ 42.Rxb2 Nxd5 43.Rxb7 Nb4 44.Bf1 d5 45.e5 Rc8 46.e6 Rce8 47.e7 Rg8 48.Bg2 Kg7 49.g4 hxg4 50.hxg4 Nd3 51.Rf1 Nb4 52.Kg3 Rh8 53.g5 f5 54.Rc1 Nd3 55.Rc3 c4 56.Bxd5 Nc5 57.Rc7 Ne4+ 58.Bxe4 fxe4 59.R3xc4 e3 60.Re4 Rh1 61.Rxe3 Ra1 62.Re5 Ra4 63.Kg4 Kf7 64.Rc6 Ra1 65.Rf6+ Kg7 66.Ree6 Kh7 67.Rxg6 Rxa5 68.Rh6+ Kg7 69.Reg6+ Kf7 70.Rxa6 Rc5 71.Raf6+ Kg7 72.Rhg6+ Kh7 73.Rh6+ Kg7 74.Kh5 Rc1 75.Rhg6+ Kh7 76.Rf7+ Kh8 77.Rf8+ 1-0

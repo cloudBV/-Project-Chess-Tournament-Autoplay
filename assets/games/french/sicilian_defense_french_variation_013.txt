@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.14"]
+[White "Ghaem Maghami, Ehsan"]
+[Black "Ginsburg, Mark"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2259"]
+[ECO "B40"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 d5 4.exd5 exd5 5.d4 Nf6 6.Bg2 Qe7+ 7.Be3 Ng4 8.O-O Nxe3 9.fxe3 Nc6 10.Nc3 Be6 11.dxc5 Qxc5 12.Nd4 Be7 13.Nxe6 Qxe3+ 14.Kh1 fxe6 15.Qh5+ Kd7 16.Rae1 Qh6 17.Qxh6 gxh6 18.Bh3 Rhf8 19.Rxf8 Rxf8 20.Rxe6 Kd8 21.Nxd5 Bc5 22.Rxh6 Rf2 23.Rxh7 Ke8 24.Nc7+ Kf8 25.Ne6+ Kg8 26.Rg7+ Kh8 27.Rxb7 Bb6 28.Bg2 Rxc2 29.Be4 Re2 30.Ng5 Ne5 31.Bd5 1-0

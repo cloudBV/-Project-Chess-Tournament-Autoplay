@@ -1,0 +1,14 @@
+[Event "Round 9: Dietiker, Manuel - Fernandes Barbosa Dos Santos, Gabriel"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-9/Py4tbrrf/NLDFLhkS"]
+[Date "2026.07.19"]
+[Round "9.21"]
+[White "Dietiker, Manuel"]
+[Black "Fernandes Barbosa Dos Santos, Gabriel"]
+[Result "0-1"]
+[WhiteElo "2002"]
+[BlackElo "2167"]
+[ECO "B76"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O Nxd4 10.Bxd4 Be6 11.Kb1 Qc7 12.g4 Rfc8 13.h4 Qa5 14.Nd5 Qxd2 15.Nxf6+ Bxf6 16.Rxd2 Bxd4 17.Rxd4 Rc5 18.c3 b5 19.Be2 a5 20.a3 Rb8 21.f4 f5 22.exf5 gxf5 23.g5 Bd5 24.Rhd1 Be4+ 25.Bd3 Bxd3+ 26.R1xd3 Kf7 27.h5 Ke6 28.Rg3 Kf7 29.Re3 Rg8 30.Red3 Ke6 31.Kc2 Kd7 32.Rd5 Rgc8 33.Rxc5 Rxc5 34.b4 axb4 35.axb4 Rc4 36.Rd4 Rc8 37.Rd5 Rb8 38.Rxf5 Ke6 39.Rxb5 Rxb5 40.Kb3 Rf5 41.b5 Rxb5+ 42.Kc4 Rf5 43.Kd4 0-1

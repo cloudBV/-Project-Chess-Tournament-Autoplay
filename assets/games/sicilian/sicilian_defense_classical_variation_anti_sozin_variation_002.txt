@@ -1,0 +1,15 @@
+[Event "XXII Baltic Pearl Chess Festival 2026 - Group A 1-20"]
+[Site "Lazy, Poland"]
+[Date "2026.06.27"]
+[Round "7.1"]
+[White "Wilgosz, Szczepan"]
+[Black "Aliaudzin, Mikolaj"]
+[Result "0-1"]
+[WhiteElo "2169"]
+[BlackElo "2352"]
+[ECO "B57"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 7.Nxc6 bxc6 8.O-O e6 9.a4 Be7 10.a5 Qc7 11.Bf4 O-O 12.Qe2 e5 13.Bg5 Bg4 14.f3 Be6 15.Rfd1 Rfd8 16.Bxf6 Bxf6 17.b4 Rac8 18.Ra3 Be7 19.Rb3 Rb8 20.g3 Qc8 21.Kg2 Kh8 22.Bxe6 fxe6 23.Rdb1 d5 24.exd5 cxd5 25.b5 Bf6 26.Na4 Qc7 27.b6 axb6 28.axb6 Qc6 29.Rb4 Be7 30.Rb5 e4 31.Kh1 exf3 32.Qxf3 Qxc2 33.R5b3 Qc6 34.Rb5 Qc4 35.Qb3 Qe4+ 36.Kg1 Bg5 37.h3 Rf8 38.Rb2 Qe1+ 39.Kh2 Rf2+ 40.Rxf2 Qxf2+ 41.Kh1 Qf1+ 42.Kh2 Rf8 0-1

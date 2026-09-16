@@ -1,0 +1,15 @@
+[Event "Round 6: Troff, Kayden - Sukandar, Irine Kharisma"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/sXVTqFst"]
+[Date "2026.07.03"]
+[Round "6.25"]
+[White "Troff, Kayden"]
+[Black "Sukandar, Irine Kharisma"]
+[Result "1-0"]
+[WhiteElo "2480"]
+[BlackElo "2355"]
+[ECO "D02"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nc3 cxd4 6.Nxd4 Bd7 7.Be2 g6 8.Bf3 Bg7 9.Nxc6 Bxc6 10.Be5 O-O 11.Qd4 e6 12.h4 Ne8 13.h5 Bxe5 14.Qxe5 Qf6 15.Qh2 g5 16.O-O-O Rc8 17.e4 dxe4 18.Nxe4 Bxe4 19.Bxe4 Qxf2 20.Qe5 Rc5 21.Qd4 Qxd4 22.Rxd4 b6 23.Rf1 h6 24.b4 Rc7 25.b5 Rc5 26.Bc6 Kg7 27.Bxe8 Rxe8 28.Rd7 Rf5 29.Rxf5 exf5 30.Rxa7 f4 31.Kd2 Re5 32.a4 g4 33.Rd7 f3 34.gxf3 g3 35.Kc3 Re3+ 36.Kb4 Rxf3 37.Rd1 Rf2 38.c4 g2 39.Rg1 f5 40.c5 bxc5+ 41.Kc3 f4 42.b6 f3 43.b7 Rf1 44.b8=Q Rxg1 45.Qe5+ Kf7 46.Qf4+ Ke6 47.Qe3+ Kf5 48.Qxg1 Kg4 49.Qf2 1-0

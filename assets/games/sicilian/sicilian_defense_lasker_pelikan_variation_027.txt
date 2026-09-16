@@ -1,0 +1,14 @@
+[Event "Round 5: Nurgaliyev, Sauat - Moussard, Jules"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-5/HY7L3JmZ/CmepahJF"]
+[Date "2026.07.22"]
+[Round "5.16"]
+[White "Nurgaliyev, Sauat"]
+[Black "Moussard, Jules"]
+[Result "1-0"]
+[WhiteElo "2490"]
+[BlackElo "2606"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.c4 Ng6 10.Qa4 Bd7 11.Qb4 Qb8 12.Be3 a6 13.Nc3 a5 14.Qb3 a4 15.Qb4 Be7 16.g3 f5 17.h4 h5 18.Be2 Bd8 19.Bb6 Ra6 20.c5 dxc5 21.Bxc5 Ba5 22.Qa3 b5 23.b4 Bc7 24.Qc1 e4 25.Qg5 Kf7 26.d6 Bxd6 27.Rd1 Ne7 28.O-O Rd8 29.Nd5 Nxd5 30.Rxd5 Be6 31.Bd4 Bxd5 32.Qxf5+ Ke7 33.Qxd5 Bf4 34.Qc5+ Kf7 35.Bxh5+ Kg8 36.gxf4 Qxf4 37.Be5 Qxh4 38.Bg3 Qh3 39.Qg5 Rf8 40.Bg4 Qh7 41.Kg2 Rh6 42.Rd1 e3 43.Qxe3 Qg6 44.Bf3 Qf5 45.Qe4 Qh3+ 46.Kg1 Kh8 47.Bg4 Rh4 48.Bxh4 Qxh4 49.Bf3 Rf4 50.Rd8+ Qxd8 51.Qxf4 1-0

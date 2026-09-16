@@ -1,0 +1,15 @@
+[Event "Round 3: Pantsulaia, Levan - Delavari, Behnood"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-3/ENOyEKsM/Epwk1JTy"]
+[Date "2026.07.14"]
+[Round "3.4"]
+[White "Pantsulaia, Levan"]
+[Black "Delavari, Behnood"]
+[Result "1/2-1/2"]
+[WhiteElo "2493"]
+[BlackElo "2234"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Nf6 6.Nc3 d6 7.Nc2 Bg7 8.Be2 O-O 9.O-O a6 10.Be3 Be6 11.Na3 Rc8 12.f3 Qa5 13.Rc1 h5 14.Qd2 Rc7 15.Nab1 Ne5 16.b3 Rb8 17.h3 Rcc8 18.f4 Nc6 19.Bf3 b5 20.c5 dxc5 21.Bxc5 Bh6 22.Nd5 Qxd2 23.Nxd2 Kh7 24.Nxe7 Nxe7 25.Bxe7 Bxf4 26.Bxf6 Bxd2 27.Rxc8 Rxc8 28.Rb1 1/2-1/2

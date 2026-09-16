@@ -1,0 +1,14 @@
+[Event "Round 4: Begelman, Boris - Costantino, Claudio Emanuele"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-4/8RdQdxH9/WTLWsMlP"]
+[Date "2026.07.08"]
+[Round "4.6"]
+[White "Begelman, Boris"]
+[Black "Costantino, Claudio Emanuele"]
+[Result "0-1"]
+[WhiteElo "2303"]
+[BlackElo "2222"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ c6 6.Qxc4 b5 7.Qc2 Bb7 8.d4 Nbd7 9.a4 Be7 10.O-O a6 11.Bg5 Rc8 12.Rd1 O-O 13.Ne5 Nxe5 14.dxe5 Nd5 15.Bd2 Qc7 16.axb5 axb5 17.Qb3 Ra8 18.Rxa8 Rxa8 19.Bf4 Qb6 20.Nc3 b4 21.Ne4 Ba6 22.Qf3 c5 23.Qg4 Nxf4 24.Nf6+ Kh8 25.Qxf4 Rd8 26.Nd7 Kg8 27.Be4 Qb5 28.Bd3 Rxd7 29.Bxb5 Rxd1+ 30.Kg2 Bxb5 31.Qe4 Rd5 32.f3 c4 33.Qe3 Bc5 34.Qg5 c3 35.bxc3 bxc3 36.Qc1 Bb4 37.Qb1 Bf8 38.e4 Rc5 0-1

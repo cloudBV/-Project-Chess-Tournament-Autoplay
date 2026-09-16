@@ -1,0 +1,14 @@
+[Event "Round 8: Jun, Rudolf - Straka, Vojtech"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-8/ctJ0lJT8/tcHb6b6J"]
+[Date "2026.06.23"]
+[Round "8.1"]
+[White "Jun, Rudolf"]
+[Black "Straka, Vojtech"]
+[Result "1/2-1/2"]
+[WhiteElo "2303"]
+[BlackElo "2399"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.c4 e5 4.Nc3 Nc6 5.d3 g6 6.Be2 Bg7 7.h4 h5 8.Bg5 f6 9.Be3 Nge7 10.Qd2 Nd4 11.Nd5 Nxd5 12.cxd5 Qb6 13.O-O Bg4 14.Qd1 Nxe2+ 15.Qxe2 f5 16.b4 Qa6 17.Qb2 Bxf3 18.gxf3 cxb4 19.Qxb4 f4 20.Bc1 1/2-1/2

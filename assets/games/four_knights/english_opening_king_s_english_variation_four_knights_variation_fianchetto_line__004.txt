@@ -1,0 +1,15 @@
+[Event "Round 11: Robson, Ray - Chasin, Nico"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-11/BxYDM8xV/bVYUtHoR"]
+[Date "2026.07.04"]
+[Round "11.9"]
+[White "Robson, Ray"]
+[Black "Chasin, Nico"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2513"]
+[ECO "A29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.b3 O-O 9.Bb2 Re8 10.Rc1 Bf8 11.Ne4 a5 12.Rxc6 bxc6 13.Nxe5 Bb7 14.Qc2 Re6 15.f4 f6 16.Nd3 Ba6 17.f5 Bxd3 18.exd3 Re8 19.Qxc6 a4 20.Bxf6 Qd7 21.Qc2 axb3 22.axb3 Nd5 23.Qc4 Ra5 24.Bc3 Rb5 25.f6 Kh8 26.fxg7+ Bxg7 27.Nc5 Qc6 28.Bxg7+ Kxg7 29.Qg4+ Qg6 30.Qd7+ Ne7 31.Qxb5 1-0

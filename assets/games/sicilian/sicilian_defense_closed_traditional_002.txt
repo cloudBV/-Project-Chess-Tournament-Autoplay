@@ -1,0 +1,15 @@
+[Event "Round 8: Nilsson, Oliver - Malm Lindberg, Henrik"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-8/GO3zCEkj/k0xfsWSN"]
+[Date "2026.07.01"]
+[Round "8.4"]
+[White "Nilsson, Oliver"]
+[Black "Malm Lindberg, Henrik"]
+[Result "1-0"]
+[WhiteElo "2195"]
+[BlackElo "2141"]
+[ECO "B23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 Nxb5 5.Nxb5 a6 6.Nc3 d6 7.d4 cxd4 8.Qxd4 e6 9.Bg5 Qc7 10.O-O-O Bd7 11.Rhe1 b5 12.Nd5 exd5 13.exd5+ Ne7 14.Bxe7 Bxe7 15.Qxg7 Rf8 16.Rxe7+ Kxe7 17.Re1+ Be6 18.dxe6 Rac8 19.Qg5+ f6 20.Qg7+ Ke8 21.Qxc7 Rxc7 22.Nd4 f5 23.f4 Rf6 24.c3 Ke7 25.Kd2 b4 26.cxb4 Rc4 27.Kd3 Rxb4 28.Nc6+ Ke8 29.Nxb4 Rg6 30.g3 a5 31.Nd5 Rh6 32.h4 Rg6 33.Re3 Rg7 34.Kc4 Rb7 35.b3 h5 36.Nf6+ Ke7 37.Nxh5 Rb4+ 38.Kc3 Rb5 39.Ng7 a4 40.bxa4 Ra5 41.h5 Rxa4 42.h6 Rxa2 43.Nxf5+ Kf6 44.e7 Kxf5 45.e8=Q d5 46.Qe6# 1-0

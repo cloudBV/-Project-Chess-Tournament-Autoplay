@@ -1,0 +1,15 @@
+[Event "5th Milton Keynes ECF/FIDE Raoid Tournament"]
+[Site "Milton Keynes, United Kingdom"]
+[Date "2026.06.25"]
+[Round "6.1"]
+[White "Hobson, Kenneth"]
+[Black "Zakarian, Dimitrios Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2094"]
+[BlackElo "2055"]
+[ECO "B43"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.a3 Nf6 7.g4 d6 8.g5 Nfd7 9.Bg2 Nc6 10.Be3 Be7 11.Qe2 b5 12.Nxc6 Qxc6 13.f4 Bb7 14.Rd1 Nb6 15.Bd4 O-O 16.O-O Nc4 17.Rd3 e5 18.Nd5 Qd7 19.Bc3 Bxd5 20.exd5 exf4 21.Bh3 Qd8 22.Rxf4 Bxg5 23.Rf5 f6 24.Rxg5 fxg5 25.Be6+ Kh8 26.Rh3 Qb6+ 27.Kg2 g4 28.Bxg7+ Kxg7 29.Qxg4+ Kh8 30.Rxh7+ Kxh7 31.Qh5+ Kg7 32.Qg5+ Kh7 33.Qh5+ Kg7 1/2-1/2

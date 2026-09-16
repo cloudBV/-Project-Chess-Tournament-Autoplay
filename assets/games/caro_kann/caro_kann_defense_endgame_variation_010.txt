@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.32"]
+[White "Muzis, Renars"]
+[Black "Sanz Wawer, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2146"]
+[BlackElo "2377"]
+[ECO "B10"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nbd2 Bg4 7.Be2 Nbd7 8.Ne1 Bxe2+ 9.Kxe2 g5 10.Nd3 O-O-O 11.f3 Rg8 12.Nc4 Ne8 13.Be3 Nd6 14.Nxd6+ exd6 15.Kf2 g4 16.Rad1 Be7 17.a4 a6 18.b4 gxf3 19.gxf3 Bh4+ 20.Kf1 f5 21.exf5 Rdf8 22.Rg1 Rxg1+ 23.Kxg1 Rxf5 24.Kg2 a5 25.bxa5 Rxa5 26.Nb2 d5 27.c4 dxc4 28.Nxc4 Rxa4 29.Nd6+ Kc7 30.Nxb7 Be7 31.Kg3 Bh4+ 32.Kh3 Be7 33.Bf2 c5 34.Bg3+ Kc6 35.Nd8+ 1/2-1/2

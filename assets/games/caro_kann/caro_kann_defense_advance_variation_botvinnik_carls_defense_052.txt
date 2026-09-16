@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.15"]
+[Round "5.12"]
+[White "Zecha, Oscar"]
+[Black "Goudriaan, Rafael"]
+[Result "1-0"]
+[WhiteElo "2181"]
+[BlackElo "2262"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.f4 Nh6 6.Nf3 Bg4 7.Bd3 e6 8.Be3 d4 9.Bf2 Bxc5 10.O-O Nf5 11.Bxf5 Bxf5 12.Nbd2 Nb4 13.c3 Nc2 14.Rc1 Ne3 15.Qa4+ Qd7 16.Qxd7+ Kxd7 17.Bxe3 dxe3 18.Nb3 Bb6 19.Rfe1 h6 20.c4 g5 21.Rcd1+ Ke7 22.c5 Bc7 23.fxg5 hxg5 24.Rxe3 Rad8 25.Nfd4 Bg6 26.Rde1 a6 27.g4 Rd5 28.Nf3 Bb8 29.Nxg5 Ba7 30.Rc3 Rh4 31.h3 Bb8 32.c6 bxc6 33.Rxc6 Rh8 34.Nc5 Bxe5 35.Ngxe6 fxe6 36.Rxe6+ Kf7 37.R6xe5 Rxe5 38.Rxe5 Rxh3 39.Kg2 Rh4 40.Kg3 Rh1 41.Nxa6 Rg1+ 42.Kf4 Rg2 43.Rb5 Bd3 44.Rb7+ Kg6 45.Rb6+ Kf7 46.Nc5 Be2 47.g5 Rg4+ 48.Ke3 Rxg5 49.Kxe2 Rxc5 50.Kd3 Ke7 51.Rb4 Rc1 52.Rd4 Ke6 53.a4 Ke5 54.Rc4 Rb1 55.Kc2 Rh1 56.b3 Kd5 57.Kb2 Rh8 58.Ka3 Rh1 59.a5 Ra1+ 60.Kb4 1-0

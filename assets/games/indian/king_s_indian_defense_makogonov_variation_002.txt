@@ -1,0 +1,15 @@
+[Event "Round 9: Ling, Chenxuan - Yonal, Timur"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/GpePGisf"]
+[Date "2026.07.05"]
+[Round "9.47"]
+[White "Ling, Chenxuan"]
+[Black "Yonal, Timur"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2171"]
+[ECO "E71"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 h6 7.Be3 e5 8.d5 a5 9.Qd2 Kh7 10.g4 Na6 11.Nge2 Qe7 12.Ng3 Ne8 13.O-O-O Bd7 14.Be2 a4 15.Rdg1 a3 16.b3 c6 17.h4 Nb4 18.g5 h5 19.Qd1 Rc8 20.Kb1 cxd5 21.Nxd5 Nxd5 22.cxd5 Nc7 23.Bxh5 Nb5 24.Ka1 gxh5 25.Nxh5 1-0

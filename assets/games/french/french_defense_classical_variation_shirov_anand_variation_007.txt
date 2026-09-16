@@ -1,0 +1,14 @@
+[Event "Round 8: De La Riva Aguado, Oscar - Cvitan, Ena"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/AjDqbFiN"]
+[Date "2026.07.10"]
+[Round "8.13"]
+[White "De La Riva Aguado, Oscar"]
+[Black "Cvitan, Ena"]
+[Result "1/2-1/2"]
+[WhiteElo "2431"]
+[BlackElo "2281"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 cxd4 7.cxd4 f6 8.Nf4 Bb4+ 9.Bd2 Qb6 10.Bxb4 Qxb4+ 11.Qd2 Qxd2+ 12.Kxd2 Ke7 13.exf6+ gxf6 14.Nf3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Abdurakhmonov, Mukhammadali - Biyiksiz, Ali Batuhan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/PttNW5Ck"]
+[Date "2026.07.17"]
+[Round "7.6"]
+[White "Abdurakhmonov, Mukhammadali"]
+[Black "Biyiksiz, Ali Batuhan"]
+[Result "1/2-1/2"]
+[WhiteElo "2383"]
+[BlackElo "2241"]
+[ECO "B73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.Be2 Bg7 8.O-O O-O 9.Kh1 Bd7 10.a4 Nxd4 11.Bxd4 Bc6 12.f4 e5 13.fxe5 Nxe4 14.Nxe4 Bxe4 15.e6 fxe6 16.Bxg7 Qg5 17.Bf3 Bxf3 18.Rxf3 Kxg7 19.Rxf8 Rxf8 20.Qxd6 Qf4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/KWiNJB7S"]
+[Date "2026.07.03"]
+[Round "7.30"]
+[White "Wieckowski, Michal"]
+[Black "Siennicki, Ludwik"]
+[Result "0-1"]
+[WhiteElo "2007"]
+[BlackElo "2007"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 g6 4.O-O Bg7 5.d3 d6 6.e4 e5 7.c4 Nge7 8.Nc3 O-O 9.Nd5 f5 10.exf5 Bxf5 11.Bg5 Qd7 12.Bxe7 Nxe7 13.Nxe7+ Qxe7 14.Qb3 Bh6 15.Nh4 Be6 16.Rae1 Rf7 17.Be4 Rb8 18.a4 a6 19.Ng2 Kg7 20.Qc3 Rbf8 21.b4 Qc7 22.Rb1 b5 23.axb5 axb5 24.Nh4 cxb4 25.Qxb4 bxc4 26.dxc4 Bxc4 27.Rfc1 Bxc1 28.Rxc1 Rxf2 29.Qxc4 Rf1+ 30.Qxf1 Rxf1+ 31.Rxf1 d5 32.Bb1 d4 33.Nf3 Qc3 34.Kg2 d3 35.Ng5 Qd2+ 36.Rf2 Qxg5 37.Bxd3 Qe3 38.Be2 e4 39.Kg1 Qd4 40.Bf1 e3 41.Re2 Kf6 42.h3 h5 43.Kh2 g5 44.Rg2 Qd6 45.Ra2 Qe5 46.Rg2 h4 47.Be2 hxg3+ 48.Rxg3 Qf4 49.Bf3 Kf5 50.Kg2 Qc4 51.Bg4+ Kf4 52.Rf3+ Ke4 53.Rf8 Qc7 54.Rf1 Qc2+ 55.Kg1 Qd2 56.Rf8 Qd6 57.Rf3 e2 58.Kf2 Qd2 59.Bf5+ Kd4 0-1

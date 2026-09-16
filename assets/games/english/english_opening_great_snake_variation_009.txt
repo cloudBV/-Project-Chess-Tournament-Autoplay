@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.17"]
+[Round "7.10"]
+[White "Bosboom, Manuel"]
+[Black "Schoehuijs, Erik"]
+[Result "1-0"]
+[WhiteElo "2328"]
+[BlackElo "2111"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.Nc3 Bg7 3.h4 Nf6 4.d3 d6 5.e3 Nc6 6.Bd2 e5 7.Be2 h5 8.Nf3 Bg4 9.Rc1 O-O 10.Ng5 Bxe2 11.Qxe2 Ne7 12.Nce4 Nf5 13.Nxf6+ Bxf6 14.g4 Bxg5 15.hxg5 hxg4 16.Qxg4 Kg7 17.Bc3 Rh8 18.Kd2 Qe7 19.f4 Rxh1 20.Rxh1 Rh8 21.Rxh8 Kxh8 22.fxe5 Kg8 23.e4 Ng7 24.exd6 Qxd6 25.Qc8+ Kh7 26.Qxb7 Qh2+ 27.Kc1 Qg1+ 28.Kc2 Qf2+ 29.Kb3 Ne6 30.Qc8 Qb6+ 31.Ka3 Qd6+ 32.b4 f6 33.gxf6 Qxd3 34.Qxe6 Qxc3+ 35.Ka4 a6 36.Qxa6 Qc2+ 37.Kb5 Qxe4 38.Qc6 Qf5+ 39.Ka6 Qf4 40.Kb7 g5 41.Qd7+ Kg6 42.Qg7+ Kf5 43.f7 1-0

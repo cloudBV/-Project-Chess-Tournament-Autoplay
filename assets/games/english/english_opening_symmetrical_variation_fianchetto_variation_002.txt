@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "3.2"]
+[White "Gnojek, Petr"]
+[Black "Mica, Marek"]
+[Result "1-0"]
+[WhiteElo "2406"]
+[BlackElo "2349"]
+[ECO "A34"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 Nc6 4.Bg2 b6 5.e4 Bb7 6.Nge2 d6 7.O-O g6 8.d3 Bg7 9.f4 O-O 10.h3 Ne8 11.Be3 Nc7 12.d4 cxd4 13.Nxd4 Nxd4 14.Bxd4 Bxd4+ 15.Qxd4 Ne6 16.Qd2 Qc8 17.b3 Qc5+ 18.Kh2 Qd4 19.Rad1 Qxd2 20.Rxd2 Rac8 21.e5 Bxg2 22.Kxg2 dxe5 23.fxe5 Nd8 24.Kf3 Nc6 25.Ke4 f5+ 26.exf6 exf6 27.Rd6 Rfe8+ 28.Kf4 f5 29.Rfd1 Kg7 30.Rd7+ Kh6 31.g4 fxg4 32.hxg4 Rf8+ 33.Kg3 Rce8 34.Rh1+ Kg5 35.Rd5+ Kf6 36.Rxh7 Nb4 37.g5+ Ke6 38.Rd2 Kf5 39.Kh4 Ke5 40.Re2+ Kd4 41.Nb5+ Kd3 42.Rxe8 Rxe8 43.Rxa7 Re4+ 44.Kg3 Re3+ 45.Kf2 Re2+ 46.Kf1 Re5 47.a3 Rf5+ 48.Kg2 Rxg5+ 49.Kf3 Rf5+ 50.Kg4 Nc6 51.Rd7+ Kc2 52.Rd6 Ne5+ 53.Kg3 Rg5+ 54.Kf4 Rf5+ 55.Ke4 Rh5 56.Nd4+ Kc3 57.Rxb6 Nd3 58.Nb5+ Kc2 59.b4 g5 60.c5 g4 61.c6 Re5+ 62.Kd4 Re8 63.c7 Ne5 64.Nd6 g3 65.Nxe8 g2 66.c8=Q+ Kd1 67.Rg6 Nf3+ 68.Ke3 1-0

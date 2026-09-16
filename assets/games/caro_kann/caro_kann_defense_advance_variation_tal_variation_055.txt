@@ -1,0 +1,15 @@
+[Event "Round 6: Ahmadi, Erfan - Arca, Christian Gian Karlo"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-6/xvzVryfj/Nhwd7OMA"]
+[Date "2026.07.21"]
+[Round "6.5"]
+[White "Ahmadi, Erfan"]
+[Black "Arca, Christian Gian Karlo"]
+[Result "1-0"]
+[WhiteElo "2249"]
+[BlackElo "2385"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Bg5 Qb6 8.Nd2 c5 9.c4 Qxb2 10.Rb1 Qxd4 11.Qxd4 cxd4 12.cxd5 f6 13.Bf4 Ne7 14.dxe6 fxe5 15.Bxe5 Nbc6 16.Ngf3 Rh6 17.Bxd4 Nf5 18.Be3 Nxe3 19.fxe3 O-O-O 20.Ng5 Bb4 21.Rb2 Rf6 22.Ke2 Bc3 23.Rc2 Rxd2+ 24.Rxd2 Bxd2 25.Kxd2 Rf2+ 26.Kd3 Kc7 27.Rd1 Rxa2 28.Ke4 Ra4+ 29.Kf3 Ne5+ 30.Kg3 Ra3 31.e7 1-0

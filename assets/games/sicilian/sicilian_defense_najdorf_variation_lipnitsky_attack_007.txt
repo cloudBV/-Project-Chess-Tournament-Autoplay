@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.4"]
+[White "Elsness, Fredrik Valstad"]
+[Black "Walgren, William Arntzen"]
+[Result "0-1"]
+[WhiteElo "2113"]
+[BlackElo "2167"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 Be7 8.Bb3 b5 9.a3 Qc7 10.f3 Nbd7 11.Bxe6 fxe6 12.Nxe6 Qb7 13.Nxg7+ Kf7 14.Nf5 Ne5 15.Nxe7 Qxe7 16.Bg5 Bb7 17.O-O Rhg8 18.f4 Ned7 19.Qd2 Bxe4 20.Nxe4 Nxe4 21.Qe2 Ndf6 22.Rae1 Rae8 23.Qf3 Qa7+ 24.Kh1 Nf2+ 0-1

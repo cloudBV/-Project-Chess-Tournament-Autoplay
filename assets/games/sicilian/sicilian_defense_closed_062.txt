@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-4/9Kdq1tY4/TnkiUa9K"]
+[Date "2026.07.15"]
+[Round "4.20"]
+[White "Martinez Duany, Lelys Stanley"]
+[Black "Gorodetzky, David"]
+[Result "0-1"]
+[WhiteElo "2438"]
+[BlackElo "2498"]
+[ECO "B26"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Be3 Rb8 7.Qd2 b5 8.Nge2 Nd4 9.O-O h5 10.h4 b4 11.Nd1 a5 12.Nc1 a4 13.c3 Nc6 14.d4 a3 15.e5 Bd7 16.e6 fxe6 17.Ne2 axb2 18.Qxb2 bxc3 19.Qxc3 Nh6 20.Bxc6 Bxc6 21.Bxh6 Rxh6 22.Ne3 Kf7 23.Rad1 Bf3 24.Qc2 Qc8 25.Qd3 e5 26.dxe5 Qh3 27.Qc4+ Ke8 28.Qa4+ Kd8 29.Qa5+ Kc8 30.Qa6+ Bb7 31.Qxb7+ Rxb7 32.exd6 exd6 33.Rxd6 g5 34.Rd5 Bd4 35.hxg5 Bxe3 36.gxh6 Bxh6 37.Rxc5+ Rc7 38.Rxc7+ Kxc7 39.Rb1 Qe6 40.Kf1 Qe4 41.Rb3 Qh1+ 42.Ng1 Bf8 43.Rf3 Bd6 44.a4 h4 45.Rf7+ Kb6 46.Rh7 Be7 47.gxh4 Bxh4 48.Rf7 Bd8 49.Rf4 Bc7 50.Rg4 Bh2 51.Rg2 Ka5 52.Rg4 Qd5 53.f3 Bxg1 54.Kxg1 Qxf3 55.Rg2 Kxa4 56.Rf2 Qd1+ 57.Kh2 Kb4 58.Kg2 Kc4 59.Kh2 Kd3 60.Rg2 Ke3 61.Rg3+ Kf4 62.Rg2 Qe1 63.Ra2 Qh4+ 64.Kg1 Qg5+ 65.Rg2 Qc5+ 66.Kh2 Kf3 67.Rg3+ Kf4 68.Rg2 Qh5+ 69.Kg1 Qh4 70.Rf2+ Ke3 71.Rg2 Kf3 72.Rg8 Qe1+ 73.Kh2 Qe5+ 0-1

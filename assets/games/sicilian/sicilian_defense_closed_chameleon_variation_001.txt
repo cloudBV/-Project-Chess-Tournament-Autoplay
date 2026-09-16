@@ -1,0 +1,14 @@
+[Event "Round 4: Papadogiannis, Sevastianos - Kouskoutis, Georgios-Alexandros"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/objuON6X"]
+[Date "2026.07.07"]
+[Round "4.63"]
+[White "Papadogiannis, Sevastianos"]
+[Black "Kouskoutis, Georgios-Alexandros"]
+[Result "0-1"]
+[WhiteElo "2248"]
+[BlackElo "2270"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Chameleon Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 e5 4.Ng3 g6 5.Bc4 Bg7 6.d3 Nge7 7.f4 exf4 8.Bxf4 Ne5 9.Bb3 O-O 10.h4 h6 11.Qd2 Kh7 12.O-O-O N7c6 13.h5 g5 14.Be3 d6 15.Rhf1 Bg4 16.Rde1 Be6 17.Kb1 c4 18.Ba4 cxd3 19.cxd3 Nb4 20.d4 Nc4 21.Qd1 Qb6 22.Bb3 Nxe3 23.Rxe3 Nc6 24.Na4 Qxd4 25.Rd3 Qe5 26.Nf5 Bxb3 27.Qxb3 Qxe4 28.Nxd6 Qxg2 29.Rdf3 Nd4 30.Qd3+ f5 31.Nxf5 Rxf5 32.Rxf5 Nxf5 33.Rxf5 Kh8 34.Rf7 Qh1+ 35.Kc2 Qxh5 36.Rxb7 Qh2+ 37.Kb3 Rb8 38.Qd7 Qe5 39.Nc3 0-1

@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.8"]
+[White "Melaa, Sondre"]
+[Black "Ingvaldsen, Jonas A."]
+[Result "1-0"]
+[WhiteElo "2326"]
+[BlackElo "2115"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.h3 O-O 5.Nf3 d6 6.c3 b6 7.a4 a5 8.Nbd2 Bb7 9.Bb5 Nbd7 10.O-O Ne4 11.Nxe4 Bxe4 12.Nd2 Bb7 13.e4 e5 14.Be3 Nf6 15.Qc2 d5 16.dxe5 Nxe4 17.Nxe4 dxe4 18.Rad1 Qh4 19.e6 fxe6 20.Rd7 Be5 21.Qd2 Ba6 22.Bg5 Qh5 23.Bxa6 Rxa6 24.Qe3 Rf5 25.Bd8 Rf4 26.Bxc7 Ra8 27.Qxb6 Re8 28.Qxa5 Rf5 29.Bxe5 Rxe5 30.Qc7 Rg5 31.Rg7+ Kh8 32.Qf7 Ra8 33.Rxh7+ Qxh7 34.Qf6+ 1-0

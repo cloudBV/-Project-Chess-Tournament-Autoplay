@@ -1,0 +1,14 @@
+[Event "Round 6: Triantos, Konstantinos - Kotronias, Vasilios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/NUZ64ADT"]
+[Date "2026.07.10"]
+[Round "6.22"]
+[White "Triantos, Konstantinos"]
+[Black "Kotronias, Vasilios"]
+[Result "0-1"]
+[WhiteElo "2177"]
+[BlackElo "2374"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 g6 6.c3 Bg7 7.Bc2 Ne5 8.Nxe5 dxe5 9.d3 Nf6 10.Nd2 b5 11.Nb3 Nd7 12.Be3 Qc7 13.a4 Rb8 14.axb5 axb5 15.d4 exd4 16.cxd4 c4 17.Nd2 O-O 18.Qe2 e6 19.Rfd1 Bb7 20.Nf3 Ra8 21.b3 Rxa1 22.Rxa1 cxb3 23.Bxb3 Bxe4 24.Qxb5 Rb8 25.Qc4 Qb7 26.Bd1 Nf6 27.Nd2 Nd5 28.Nxe4 Nxe3 29.fxe3 Qxe4 30.Qc3 e5 31.d5 Qxd5 32.Bc2 e4 33.Qa5 Qc4 34.Qa7 Rc8 35.Ra2 Qe2 0-1

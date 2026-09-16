@@ -1,0 +1,15 @@
+[Event "Round 7: Raahul V S - Kosakowski, Jakub"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/PmmalTCS"]
+[Date "2026.06.29"]
+[Round "7.1"]
+[White "Raahul V S"]
+[Black "Kosakowski, Jakub"]
+[Result "1/2-1/2"]
+[WhiteElo "2402"]
+[BlackElo "2543"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 c5 1/2-1/2

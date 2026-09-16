@@ -1,0 +1,14 @@
+[Event "Round 4: Munoz Galvez, Jhon Edison - Suarez Duarte, Walter Camilo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-4/RdktgqsA/laBgm965"]
+[Date "2026.07.11"]
+[Round "4.8"]
+[White "Munoz Galvez, Jhon Edison"]
+[Black "Suarez Duarte, Walter Camilo"]
+[Result "0-1"]
+[WhiteElo "2280"]
+[BlackElo "2024"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Be3 e6 5.Nd2 Nd7 6.Ngf3 Ne7 7.Nb3 Ng6 8.g3 Be7 9.h4 h6 10.h5 Ngf8 11.Nh4 Be4 12.f3 Bh7 13.Bd3 Bxd3 14.Qxd3 a5 15.f4 a4 16.Nd2 Qa5 17.Kf2 Qb5 18.g4 Qxd3 19.cxd3 Bxh4+ 20.Rxh4 Nb6 21.Rg1 Nc8 22.Ke2 Ne7 23.Kd1 Nd7 24.Rh2 f6 25.Rf2 O-O-O 26.Rgf1 Rdf8 27.Nf3 f5 28.g5 hxg5 29.Nxg5 Rh6 30.Rg2 Nb6 31.Rfg1 Kd7 32.Bd2 Nbc8 33.Bb4 Rxh5 34.Nf3 g6 35.a3 Rfh8 36.Ng5 Rh1 37.Nf7 Rxg1+ 38.Rxg1 Rh4 39.Nd6 Rxf4 40.Nxc8 Nxc8 41.Rxg6 Rxd4 42.Rg7+ Ke8 43.Rg8+ Kd7 44.Rg7+ 0-1

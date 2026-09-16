@@ -1,0 +1,14 @@
+[Event "Round 5: Baklan, Vladimir - Stupak, Kirill"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/xJF0gGJy"]
+[Date "2026.07.21"]
+[Round "5.3"]
+[White "Baklan, Vladimir"]
+[Black "Stupak, Kirill"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2412"]
+[ECO "C17"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3 Nbc6 8.Nf3 cxd4 9.Bxd4 Nxd4 10.Qxd4 Nc6 11.Qe3 d4 12.Qd2 Qd5 13.Rd1 O-O 14.c4 dxc3 15.Qxc3 Qe4+ 16.Be2 Rd8 17.Rxd8+ Nxd8 18.Qc7 Qb1+ 19.Bd1 Qe4+ 20.Be2 Qb1+ 21.Bd1 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 2: Ritzerveld, Noah - Warmerdam, Max"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/nuDqNSHv"]
+[Date "2026.07.08"]
+[Round "2.1"]
+[White "Ritzerveld, Noah"]
+[Black "Warmerdam, Max"]
+[Result "0-1"]
+[WhiteElo "2336"]
+[BlackElo "2533"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Be2 Nbd7 9.O-O Rc8 10.a4 Be7 11.Re1 O-O 12.a5 Qc7 13.Bf3 Rfe8 14.Nd2 h6 15.Nf1 Nf8 16.Bd2 Ng6 17.Ne3 Nf4 18.b3 Qc6 19.Ra4 Qd7 20.Ncd5 Bxd5 21.exd5 Bd8 22.g3 Nh3+ 23.Kf1 g6 24.Bg2 h5 25.c4 Kg7 26.Bc3 Rh8 27.Ke2 h4 28.Rf1 Ng5 29.Kd3 hxg3 30.hxg3 Rh2 31.f4 Rxg2 32.fxg5 e4+ 33.Kd4 Qe8 34.Nxg2 Qe5+ 35.Ke3 Qxg3+ 36.Ke2 Qxg2+ 37.Rf2 Qg4+ 38.Ke1 Qg1+ 39.Ke2 Qg4+ 40.Ke1 Qxg5 41.Qd4 Be7 42.Kd1 Rh8 43.Qxe4 Rh3 44.Qd4 Rh1+ 45.Ke2 Qh5+ 46.Rf3 Rh2+ 47.Ke3 Kf8 48.Qf4 Nxd5+ 49.cxd5 Bg5 50.Bf6 Bxf4+ 51.Raxf4 Qxd5 52.Rd4 Qxb3+ 53.Rd3 Qe6+ 54.Kd4 Ra2 0-1

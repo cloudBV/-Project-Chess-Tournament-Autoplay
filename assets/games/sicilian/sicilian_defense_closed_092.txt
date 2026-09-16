@@ -1,0 +1,15 @@
+[Event "Round 3: Sooraj M R - Liu,Tianyi (Jack)"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-3/w0bZokvS/8OWwhOJj"]
+[Date "2026.07.22"]
+[Round "3.12"]
+[White "Sooraj M R"]
+[Black "Liu,Tianyi (Jack)"]
+[Result "1/2-1/2"]
+[WhiteElo "2198"]
+[BlackElo "2120"]
+[ECO "B26"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 Rb8 7.Nge2 Nd4 8.O-O h5 9.Qd2 h4 10.gxh4 Rxh4 11.f4 b5 12.Bf2 Rh8 13.Rab1 Bg4 14.Nxd4 cxd4 15.Ne2 e5 16.c3 dxc3 17.bxc3 Qd7 18.Qe3 Bxe2 19.Qxe2 exf4 20.d4 g5 21.Qf3 Ne7 22.h4 g4 23.Qxf4 Ng6 24.Qe3 Bh6 25.Qe1 Bf4 26.Bg3 Bxg3 27.Qxg3 Qe7 28.Rf5 Rb6 29.h5 Nh4 30.Rfxb5 Nxg2 31.Rxb6 axb6 32.Rxb6 Qxe4 33.Qxd6 Qe3+ 34.Kxg2 Qe2+ 35.Kg1 Qe1+ 36.Kg2 Qe2+ 1/2-1/2

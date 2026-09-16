@@ -1,0 +1,15 @@
+[Event "Round 8: Sharshenbekov, Emir - Tulendinov, Dinmukhammed"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-8/iLKv8oM1/bUjK8NpS"]
+[Date "2026.07.23"]
+[Round "8.15"]
+[White "Sharshenbekov, Emir"]
+[Black "Tulendinov, Dinmukhammed"]
+[Result "1/2-1/2"]
+[WhiteElo "2212"]
+[BlackElo "2273"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 cxd4 5.c3 a6 6.Be2 e6 7.O-O d5 8.Qa4+ Bd7 9.Qxd4 dxe4 10.Qxe4 Bc6 11.Qe3 Nf6 12.f4 Bd6 13.d4 Nd5 14.Qf2 b5 15.Bf3 Qc7 16.g3 h5 17.h4 Rc8 18.Kg2 Ne7 19.Bxc6+ Qxc6+ 20.Qf3 Qc7 21.Nd2 Nf5 22.Ne4 Be7 23.Kh2 g6 24.Bd2 O-O 25.Rac1 Rfd8 26.Rfd1 Qc6 27.Be1 Qd5 28.a3 Rc7 29.Bf2 Nd6 30.Nd2 Nc4 31.Qxd5 exd5 32.Rc2 Nxd2 33.Rdxd2 f5 34.Re2 Kf7 35.Kg2 Bd6 36.Re1 Re8 37.Ra1 a5 38.b3 Rec8 39.Be1 a4 40.bxa4 bxa4 41.Rb2 Rc4 42.Rb5 Ke6 43.Kf2 Rb8 44.Ra5 Rb3 45.Ra6 Kd7 46.Ke2 Kc7 47.Kd3 Bxa3 48.Ra2 Kb7 49.Ra5 Kc6 50.Kc2 Bd6 51.R5xa4 Rxa4 52.Rxa4 Ra3 53.Rxa3 Bxa3 54.Kb3 Bd6 55.c4 Bc7 56.Kb4 Bd6+ 57.Kb3 Bc7 58.Bb4 Bb6 59.Kc3 Bd8 60.Bf8 Ba5+ 1/2-1/2

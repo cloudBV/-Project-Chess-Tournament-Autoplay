@@ -1,0 +1,14 @@
+[Event "Round 8: Zhukov, Anton - Lu, Maximillian"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/IVHf2bH6"]
+[Date "2026.07.21"]
+[Round "8.18"]
+[White "Zhukov, Anton"]
+[Black "Lu, Maximillian"]
+[Result "1/2-1/2"]
+[WhiteElo "2310"]
+[BlackElo "2458"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.g3 g6 4.Bg2 Bg7 5.O-O d6 6.Nc3 Nh6 7.d3 Nf5 8.a3 Rb8 9.Rb1 a6 10.Bd2 Qd7 11.b4 cxb4 12.axb4 b5 13.cxb5 axb5 14.e3 O-O 15.Qb3 e6 16.Ne4 Bb7 17.Bc3 e5 18.Rfc1 h6 19.Ba1 Nd8 20.Nfd2 Ne7 21.Nc3 Bxg2 22.Kxg2 d5 23.Qd1 Ne6 24.Nb3 f5 25.Ne2 f4 26.exf4 exf4 27.Ng1 Rf7 28.Bxg7 Kxg7 29.Qe2 Rbf8 30.Qe5+ Rf6 31.Nc5 Nxc5 32.Rxc5 Nc6 33.Qxd5 Rd6 34.Qe4 Re6 35.Qd5 Rd6 36.Qe4 Re6 37.Qd5 1/2-1/2

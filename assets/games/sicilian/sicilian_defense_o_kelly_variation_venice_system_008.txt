@@ -1,0 +1,14 @@
+[Event "Round 6: Stankovic, Milos - Fisher, Timofey"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/46aB58MS"]
+[Date "2026.07.09"]
+[Round "6.22"]
+[White "Stankovic, Milos"]
+[Black "Fisher, Timofey"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2192"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Be3 Nd7 7.Nbd2 Ngf6 8.g3 Be7 9.Bg2 O-O 10.O-O Qh5 11.Ne5 Qxd1 12.Raxd1 cxd4 13.Bxd4 Nxe5 14.Bxe5 Nd7 15.Bc7 Ra7 16.Nb3 b5 17.Rxd7 Bxd7 18.Bb6 Raa8 19.Rd1 Rad8 20.Bb7 e5 21.Bxd8 Rxd8 22.Bxa6 Kf8 23.Na5 Ke8 24.Bb7 Rb8 25.Bc6 Bxc6 26.Nxc6 Rb6 27.Nxe5 Bc5 28.Rd5 Bd6 29.a3 f6 30.Nf3 1-0

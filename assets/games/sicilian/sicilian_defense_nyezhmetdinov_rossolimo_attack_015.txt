@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "8.2"]
+[White "Van Foreest, Jorden"]
+[Black "Saric, Ivan"]
+[Result "1-0"]
+[WhiteElo "2597"]
+[BlackElo "2595"]
+[ECO "B30"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 a6 6.Bxc6 Bxc6 7.d4 cxd4 8.Nxd4 Rc8 9.Nc3 g6 10.Nxc6 Rxc6 11.Nd5 Bg7 12.c3 Nf6 13.Bg5 O-O 14.Qb3 Nxd5 15.exd5 Rc7 16.a4 Re8 17.Re4 h6 18.Be3 Qd7 19.Bb6 Rcc8 20.Rae1 Bf6 21.g3 Qf5 22.Kg2 Kg7 23.h3 h5 24.Qd1 Qd7 25.Qe2 Qf5 26.Qd1 Qd7 27.Qb3 Qf5 28.a5 Qd7 29.R1e3 Be5 30.Qd1 Bf6 31.Qe2 Qf5 32.c4 Qd7 33.b3 Qf5 34.f4 Qd7 35.g4 hxg4 36.hxg4 Kf8 37.g5 Bg7 38.Kg3 Qf5 39.Qd1 f6 40.Bd4 Kf7 41.Qe2 Rc7 42.Bb2 Rd7 43.Kg2 Kg8 44.gxf6 Bxf6 45.Bxf6 Qxf6 46.Re6 Qf5 47.Rg3 Kf7 48.Rexg6 Rf8 49.R6g5 Qh7 50.Rg7+ Qxg7 51.Qe6+ 1-0

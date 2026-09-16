@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/RfHMIp1c"]
+[Date "2026.07.09"]
+[Round "-"]
+[White "Kamalidenova, Meruert"]
+[Black "Pujari, Rucha"]
+[Result "1-0"]
+[WhiteElo "2201"]
+[BlackElo "2104"]
+[ECO "C55"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Na5 5.Nxe5 Nxc4 6.Nxc4 d5 7.exd5 Be7 8.O-O O-O 9.Ne3 Nxd5 10.Nxd5 Qxd5 11.Nc3 Qc6 12.Re1 Bf6 13.Ne4 b6 14.Qf3 Bd8 15.Qg3 Bb7 16.Bd2 f5 17.Bc3 Rf7 18.Nd2 Bf6 19.Nc4 f4 20.Qh3 Bxc3 21.bxc3 Rf6 22.Re4 Qa4 23.Nxb6 Qxc2 24.Nxa8 Bxe4 25.dxe4 f3 26.Nxc7 fxg2 27.Qe3 h5 28.Nd5 Re6 29.Re1 Qxa2 30.Nf4 Rf6 31.Nxh5 Rh6 32.Qg5 Qf7 33.Ng3 Rf6 34.Nf5 Qc7 35.Rd1 Kh7 36.Rd8 Qxd8 37.Qxg7# 1-0

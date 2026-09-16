@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "12.2"]
+[White "Warchol, Kamil"]
+[Black "Radzimski, Antoni"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2213"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O a6 6.c3 d6 7.a4 Ba7 8.Re1 Ng4 9.Re2 Qf6 10.Nbd2 O-O 11.Nf1 Be6 12.Ng3 Bxc4 13.dxc4 Qe6 14.Qd3 Ne7 15.h3 Nf6 16.Be3 Nd7 17.b4 a5 18.Nd2 Bxe3 19.Rxe3 f5 20.exf5 Nxf5 21.Nxf5 Rxf5 22.Rf3 Rxf3 23.Qxf3 c6 24.b5 d5 25.bxc6 bxc6 26.cxd5 Qxd5 27.Ne4 Rf8 28.Qe2 Nc5 29.Nxc5 Qxc5 30.Re1 h6 31.Qe3 Qc4 32.Qxe5 Qxa4 33.Qc5 Qb5 34.Qxb5 cxb5 35.Re5 Rb8 36.c4 bxc4 37.Rxa5 Rc8 38.Ra2 Kf7 39.Kf1 Ke6 40.Ke2 Ke5 41.Kd2 Kd4 42.Ra7 1/2-1/2

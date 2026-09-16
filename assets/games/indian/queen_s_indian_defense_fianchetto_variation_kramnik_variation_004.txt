@@ -1,0 +1,14 @@
+[Event "Round 3: Daakshin Arun - Kaufman, David"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/nzEZcfJz"]
+[Date "2026.07.15"]
+[Round "3.8"]
+[White "Daakshin Arun"]
+[Black "Kaufman, David"]
+[Result "1/2-1/2"]
+[WhiteElo "2327"]
+[BlackElo "2477"]
+[ECO "E17"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 Ne4 8.Qc2 f5 9.Rd1 Bf6 10.Be3 Qe7 11.a3 a5 12.Nfd2 d5 13.Nc3 Qf7 14.Rac1 Na6 15.cxd5 exd5 16.Qb3 Rae8 17.Nf3 h6 18.Bh3 Bc8 19.Qxd5 Be6 1/2-1/2

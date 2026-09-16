@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.7"]
+[White "Balint, Peter"]
+[Black "Karakhanyan, Vazgen"]
+[Result "1/2-1/2"]
+[WhiteElo "2377"]
+[BlackElo "2043"]
+[ECO "A05"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.Re1 Nbd7 7.e4 e5 8.Nc3 c6 9.a4 Qc7 10.h3 Re8 11.Be3 exd4 12.Bxd4 Ne5 13.Nh2 Nh5 14.Nf1 f5 15.f4 Nf7 16.Bxg7 Nxg7 17.a5 Bd7 18.Qd2 Re7 19.exf5 Rxe1 20.Rxe1 Nxf5 21.Ne4 d5 22.Nf6+ Kg7 23.Ng4 Re8 24.Rxe8 Bxe8 25.Nfe3 Nxg3 26.Qc3+ Kf8 27.Nxd5 Ne2+ 28.Kf1 Nxc3 29.Nxc7 Na4 30.b3 Nc3 31.Nf6 Nd6 32.Ncxe8 Nxe8 33.Nxh7+ Ke7 34.Ke1 Nc7 35.Kd2 N3d5 36.Be4 Nxf4 37.h4 Nce6 38.b4 c5 39.c3 b6 40.Ke3 cxb4 41.cxb4 bxa5 42.bxa5 Kf7 43.Ng5+ Nxg5 44.hxg5 Nh3 45.Kd4 Nxg5 46.Bd5+ Ke7 47.Kc5 Ne6+ 48.Kc6 a6 49.Kb6 g5 50.Bc4 Kd6 51.Bxa6 Nc5 52.Be2 Nd7+ 1/2-1/2

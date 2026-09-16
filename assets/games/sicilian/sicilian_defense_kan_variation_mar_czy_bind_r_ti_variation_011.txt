@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.17"]
+[White "Zamengo, Fulvio"]
+[Black "Fernandez Estremera, Fernando"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2189"]
+[ECO "B41"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 a6 3.c4 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Bb4 7.Nc2 Bxc3+ 8.bxc3 Nxe4 9.Qg4 f5 10.Qxg7 Qf6 11.Qxf6 Nxf6 12.Be2 d6 13.Ba3 Ne4 14.Bf3 Nc5 15.O-O-O Ke7 16.Rhe1 Nbd7 17.Ne3 Rf8 18.Nd5+ Kd8 19.Nf4 e5 20.Rxd6 Kc7 21.Rxd7+ Bxd7 22.Bxc5 Rfe8 23.Nd5+ Kc6 24.Ba3 e4 25.Bh5 Re6 26.Nf4 Re5 27.Rd1 Be8 28.Be2 Bf7 29.Rd6+ Kc7 30.Rf6 1-0

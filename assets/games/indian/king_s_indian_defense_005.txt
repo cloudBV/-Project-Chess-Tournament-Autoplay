@@ -1,0 +1,14 @@
+[Event "Round 3: Materia, Marco - Yip, Carissa"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-rapid/round-3/vqLxpsNU/WGd8DhQV"]
+[Date "2026.07.12"]
+[Round "3.2"]
+[White "Materia, Marco"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[WhiteElo "2491"]
+[BlackElo "2333"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.Bg5 h6 6.Bh4 c5 7.d5 d6 8.e3 Bf5 9.Bd3 Bxd3 10.Qxd3 g5 11.Bg3 Nh5 12.Nd2 b5 13.cxb5 a6 14.bxa6 Nxa6 15.Qe2 Nxg3 16.hxg3 Nb4 17.Kf1 Qb6 18.a3 Qb7 19.Nc4 Nxd5 20.Nxd5 Qxd5 21.Nb6 Qb3 22.Nxa8 Rxa8 23.Kg1 c4 24.Rc1 d5 25.Rc2 Rb8 26.e4 e6 27.e5 Rb5 28.Rh3 1-0

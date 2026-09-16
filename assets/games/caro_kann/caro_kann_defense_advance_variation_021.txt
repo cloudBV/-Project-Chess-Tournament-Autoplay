@@ -1,0 +1,15 @@
+[Event "XXVI Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.10"]
+[Round "8.1"]
+[White "Mompel Ferruz, Xavier"]
+[Black "Gines Esteo, Pedro Antonio"]
+[Result "0-1"]
+[WhiteElo "2352"]
+[BlackElo "2470"]
+[ECO "B12"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 h6 7.Be2 Ne7 8.O-O g5 9.a4 a5 10.Bd2 Bg7 11.Rc1 O-O 12.Qe1 Ng6 13.Nxg5 hxg5 14.g4 Be4 15.f3 Bxc2 16.Rxc2 Qb6 17.Rc3 c5 18.Nxc5 Nxc5 19.Rxc5 Qxb2 20.Bc3 Qa2 21.Qd2 Qxa4 22.Rb1 Rfc8 23.Bd1 Qd7 24.Rcb5 a4 25.Rxb7 Qc6 26.Ba1 a3 27.R7b6 a2 28.R1b2 Qc1 0-1

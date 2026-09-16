@@ -1,0 +1,14 @@
+[Event "Round 3: Akyuz, Kerem Arhan - Damljanovic, Branko"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/k9ZcFe1i"]
+[Date "2026.07.15"]
+[Round "3.15"]
+[White "Akyuz, Kerem Arhan"]
+[Black "Damljanovic, Branko"]
+[Result "1/2-1/2"]
+[WhiteElo "2206"]
+[BlackElo "2362"]
+[ECO "A53"]
+[Variant "Standard"]
+[Opening "Old Indian Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O Nbd7 7.Qc2 e5 8.Rd1 Qe7 9.Nc3 c6 10.e4 exd4 11.Nxd4 Re8 12.b3 a6 13.Bb2 Rb8 14.a4 a5 15.Re1 Nc5 16.Rad1 Bg4 17.f3 Bd7 18.Qf2 Rbd8 19.Ba3 Bc8 20.e5 dxe5 21.Ndb5 b6 22.Nd4 Qc7 23.Bxc5 bxc5 24.Nde2 Qb6 25.Nc1 e4 26.Rxd8 Rxd8 27.Kh1 Qb4 28.Nxe4 Nxe4 29.fxe4 Rd2 30.Qf4 Be6 31.Rf1 Qc3 32.e5 Bxe5 33.Qe4 Bh3 34.Ne2 Bxg2+ 35.Qxg2 Qe3 36.Qxc6 Kg7 37.Qb7 Kh6 38.Rxf7 Rd1+ 39.Kg2 Qxe2+ 40.Rf2 Rg1+ 41.Kxg1 Bd4 42.Qf7 Bxf2+ 43.Qxf2 Qd1+ 44.Kg2 Qxb3 45.Qf8+ Kh5 46.Qf3+ Qxf3+ 47.Kxf3 g5 48.Ke4 Kg4 49.Kd5 Kh3 50.Kxc5 Kxh2 51.Kb5 h5 52.c5 h4 53.gxh4 g4 54.c6 g3 55.c7 g2 56.c8=Q g1=Q 57.Qc7+ Kh3 58.Qc3+ Kh2 59.Qxa5 Qf1+ 60.Kb6 Qf6+ 61.Kb7 Qxh4 62.Qc7+ Kg1 63.a5 Qe4+ 64.Ka7 Kf1 65.a6 Qd4+ 66.Qb6 Qd7+ 67.Kb8 Qe8+ 68.Kb7 Qd7+ 69.Qc7 Qb5+ 70.Ka7 Ke1 71.Qc8 Kf1 72.Ka8 Qd5+ 73.Qb7 Qd8+ 74.Qb8 Qd5+ 75.Ka7 Qd4+ 76.Qb6 Qd7+ 77.Kb8 Qe8+ 78.Kc7 Qe7+ 79.Kc6 Qe6+ 80.Kb5 Qb3+ 81.Kc5 Qe3+ 82.Kc6 Qe6+ 83.Kb7 Qd7+ 84.Kb8 Qe8+ 85.Ka7 Qd7+ 86.Ka8 Qc8+ 87.Ka7 Qd7+ 88.Ka8 Qc8+ 89.Ka7 1/2-1/2

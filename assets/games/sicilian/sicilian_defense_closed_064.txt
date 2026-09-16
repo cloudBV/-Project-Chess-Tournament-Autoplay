@@ -1,0 +1,15 @@
+[Event "Round 2: Sason, Noam - Margolin-Herman, Ofek"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-2/d3cE0HD7/xzvGa0Th"]
+[Date "2026.07.15"]
+[Round "2.12"]
+[White "Sason, Noam"]
+[Black "Margolin-Herman, Ofek"]
+[Result "1-0"]
+[WhiteElo "2379"]
+[BlackElo "2039"]
+[ECO "B25"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.f4 e6 7.Nf3 Nge7 8.h4 h5 9.Ng5 Nd4 10.O-O Rb8 11.a4 a6 12.Nb1 b5 13.c3 Ndc6 14.axb5 axb5 15.Be3 b4 16.e5 dxe5 17.Bxc5 exf4 18.Rxf4 f6 19.Qa4 fxg5 20.Bxc6+ Nxc6 21.Qxc6+ Bd7 22.Qe4 Rh6 23.Qe5 gxf4 24.Qxg7 Bc6 25.Qf8+ Kd7 26.Qd6+ Kc8 27.Qxc6+ Qc7 28.Qe8+ Qd8 29.Qxe6+ Qd7 30.Qxd7+ Kxd7 31.gxf4 bxc3 32.bxc3 Rhh8 33.Nd2 Ke6 34.Kf2 Kf5 35.Rg1 Kxf4 36.Rg5 1-0

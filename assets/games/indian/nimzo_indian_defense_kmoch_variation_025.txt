@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.11"]
+[White "Simacek, Pavel"]
+[Black "Domanskiy, Mykola"]
+[Result "1/2-1/2"]
+[WhiteElo "2363"]
+[BlackElo "2225"]
+[ECO "E20"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 d6 6.e4 b5 7.a4 bxc4 8.Bxc4 O-O 9.Bg5 h6 10.Bh4 Ba6 11.Bxa6 Nxa6 12.dxe6 fxe6 13.Ne2 Qe7 14.O-O Rad8 15.Qb3 Qf7 16.Rad1 g5 17.Bg3 d5 18.Be5 c4 19.Qc2 Nd7 20.Bd4 e5 21.Nxd5 exd4 22.Qxc4 Bc5 23.Nxd4 Nb6 24.Qxa6 Nxd5 25.Qc6 Bxd4+ 26.Rxd4 Ne7 27.Qc3 Rxd4 28.Qxd4 Nc6 29.Qc5 Qd7 30.Rc1 Nd4 31.Qc4+ Kg7 32.b4 Ne6 33.b5 Rd8 34.Qc3+ Qd4+ 35.Qxd4+ Rxd4 36.Rc6 Kf7 37.Ra6 Rd7 38.a5 h5 39.Kf2 Rb7 40.b6 axb6 41.Rxb6 Rc7 42.Rb2 Ra7 43.Rb5 Rc7 44.Rb2 Ra7 45.Rb5 1/2-1/2

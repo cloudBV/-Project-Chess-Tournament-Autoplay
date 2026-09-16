@@ -1,0 +1,15 @@
+[Event "Round 9: Ibadov, Dashgyn - Bayramov, Elvin"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-9/R1P9v0O5/GM4en5iy"]
+[Date "2026.07.04"]
+[Round "9.7"]
+[White "Ibadov, Dashgyn"]
+[Black "Bayramov, Elvin"]
+[Result "1-0"]
+[WhiteElo "2337"]
+[BlackElo "2178"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Ranken Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6 dxc6 6.Nxe5 Nxe4 7.Nxe4 Qd5 8.O-O Qxe5 9.d4 Qf5 10.Re1 Be6 11.Bg5 h6 12.Qd3 Kd7 13.Bd2 Rd8 14.c4 Kc8 15.b4 Be7 16.a4 Bf6 17.Bc3 Rd7 18.b5 Bxd4 19.Bxd4 Rhd8 20.bxa6 bxa6 21.c5 Rxd4 22.Nd6+ cxd6 23.Qxd4 dxc5 24.Qxg7 Rd2 25.Qg3 Qg5 26.Qc3 Qd5 27.Rab1 Qd4 28.Qg3 Qd6 29.Qg8+ Qd8 30.Qg7 Qg5 31.Qh8+ Rd8 32.Qb2 Kd7 33.Qb7+ Kd6 34.h4 Qxh4 35.Rbd1+ Bd5 36.Qxf7 c4 37.Re6+ Kc5 38.Qa7+ Kb4 39.Qb6+ Kc3 40.Re3+ 1-0

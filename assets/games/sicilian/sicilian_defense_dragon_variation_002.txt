@@ -1,0 +1,14 @@
+[Event "Round 10: Londono Lopez, Donaldo - Barrientos, Sergio E"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-10/EGR1f4HB/d8lpjwH8"]
+[Date "2026.07.11"]
+[Round "10.5"]
+[White "Londono Lopez, Donaldo"]
+[Black "Barrientos, Sergio E"]
+[Result "1-0"]
+[WhiteElo "2106"]
+[BlackElo "2408"]
+[ECO "B72"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 g6 6.Be3 a6 7.f3 Nbd7 8.Qd2 b5 9.a4 b4 10.Na2 a5 11.c3 bxc3 12.Nxc3 Bb7 13.Bb5 Bg7 14.O-O O-O 15.Rfd1 Qb8 16.Nc6 Bxc6 17.Bxc6 Ra6 18.Bb5 Ra8 19.Bc6 Ra6 20.Bb5 Ra8 21.Rac1 Rc8 22.Kh1 Nc5 23.Qf2 Nb3 24.Nd5 Nxc1 25.Nxe7+ Kh8 26.Nxc8 Qxc8 27.Rxc1 Qe6 28.Bd4 Rc8 29.Qd2 Rxc1+ 30.Qxc1 h5 31.Qc3 h4 1-0

@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.2"]
+[White "Khoo-Thwe, Louis"]
+[Black "Walgren, William Arntzen"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2167"]
+[ECO "B53"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 Nf6 6.Be2 g6 7.O-O Bg7 8.c4 O-O 9.Nc3 Bd7 10.Rb1 Qa5 11.h3 Be6 12.Rd1 Nd7 13.Bd2 Qc5 14.Nd5 Qxe3 15.Bxe3 Bxd5 16.cxd5 Nce5 17.Nxe5 Nxe5 18.Rdc1 Rfc8 19.f4 Nd7 20.b4 Nb6 21.Bb5 a6 22.Rxc8+ Rxc8 23.Bxa6 bxa6 24.Bxb6 Rc2 25.a4 Ra2 26.Bd8 Rxa4 27.Bxe7 Bf8 28.Bd8 Ra2 29.Rd1 Re2 30.e5 Re4 31.Bc7 Rxb4 32.exd6 Rc4 33.d7 Bc5+ 34.Kh1 1-0

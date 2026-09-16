@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "9.1"]
+[White "Ratajczak, Hubert"]
+[Black "Hovakimyan, Vache"]
+[Result "1/2-1/2"]
+[WhiteElo "2243"]
+[BlackElo "2327"]
+[ECO "C47"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Glek System"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 g6 5.d4 exd4 6.Nxd4 Bg7 7.Bg2 O-O 8.Nde2 Re8 9.O-O b6 10.f4 Bb7 11.e5 Ng4 12.Nd4 Nh6 13.Be3 Qc8 14.Nxc6 Bxc6 15.Bxc6 dxc6 16.Qf3 Qh3 17.Qg2 Qxg2+ 18.Kxg2 f6 19.exf6 Bxf6 20.Rfe1 Nf5 21.Bf2 Nd6 22.Kf3 Nc4 23.Rxe8+ Rxe8 24.Ne4 Bxb2 25.Rd1 Rf8 26.Ke2 Re8 27.Kf3 1/2-1/2

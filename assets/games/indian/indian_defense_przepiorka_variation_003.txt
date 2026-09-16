@@ -1,0 +1,14 @@
+[Event "Round 8: Vilimek, Vit - Honcharov, Makar"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-8/ctJ0lJT8/As4fJNCd"]
+[Date "2026.07.04"]
+[Round "8.5"]
+[White "Vilimek, Vit"]
+[Black "Honcharov, Makar"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2097"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 b5 7.Nfd2 c6 8.a4 Qb6 9.axb5 Qxd4 10.Ra4 Qb6 11.Na3 Bb7 12.Ndc4 Qc7 13.Na5 a6 14.Nxb7 Qxb7 15.bxc6 Nxc6 16.Bb2 Rfd8 17.Nc4 Qb5 18.Ne3 e6 19.Qa1 e5 20.c4 Qb6 21.Nd5 Nxd5 22.Bxd5 Ra7 23.Bc3 Rb8 24.Qa3 Nd4 25.Bxd4 exd4 26.b4 Re8 27.Qd3 Rae7 28.Bf3 h5 29.h4 Bf6 30.Kg2 Kg7 31.Rc1 Re5 32.Rd1 R5e6 33.Rda1 Qb8 34.Rxa6 Qxb4 35.Rb1 Qc3 36.Ra3 Qxd3 37.exd3 Re1 38.Rb6 R8e6 39.Bd5 R6e5 40.Raa6 Be7 41.Rb7 g5 42.hxg5 Rxg5 43.f4 Rg6 44.Raa7 Kf8 45.Ra8+ Kg7 46.Re8 Re2+ 47.Kf1 Re3 48.Rexe7 Rxe7 49.Rxe7 Rxg3 50.Rxf7+ Kg6 51.Rf8 1-0

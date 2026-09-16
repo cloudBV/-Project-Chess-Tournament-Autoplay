@@ -1,0 +1,15 @@
+[Event "Round 8: Prraneeth Vuppala - Colville, Julian"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-8/pHziG2Wr/O8aKeQmk"]
+[Date "2026.07.11"]
+[Round "8.5"]
+[White "Prraneeth Vuppala"]
+[Black "Colville, Julian"]
+[Result "0-1"]
+[WhiteElo "2502"]
+[BlackElo "2333"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Bd3 d5 4.exd5 exd5 5.O-O Nf6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.Re1+ Be7 9.Qe2 Rc8 10.d4 Rc6 11.dxc5 Re6 12.Be3 Bxc5 13.Ng5 Rxe3 14.fxe3 O-O 15.Nd2 Re8 16.Nf1 Ne5 17.Rad1 Nc4 18.Kh1 Nxb2 19.Rb1 Nc4 20.Rxb7 h6 21.Nxf7 Qc8 22.Nxh6+ gxh6 23.Rb3 Qe6 24.Ng3 Ng4 25.h3 Ngxe3 26.Nf1 Qe4 27.Nxe3 Nxe3 28.Rc3 Bb6 29.Rc6 Kh7 30.Qf3 Re7 31.Qxe4+ Rxe4 32.g4 d4 33.a4 Re7 34.Rb1 Rf7 35.c3 dxc3 36.Rxc3 Rf3 37.Rc6 Rxh3+ 38.Kg1 Nd5+ 39.Rcxb6 axb6 40.Rd1 Nf6 41.Rd6 Kg6 42.Rxb6 Kg5 43.a5 Ra3 44.a6 Nxg4 45.Kg2 Ne3+ 46.Kf2 Nf5 47.Kg2 h5 48.Kh2 h4 49.Kg2 Ne3+ 50.Kg1 Ng4 51.Rb5+ Kf4 0-1

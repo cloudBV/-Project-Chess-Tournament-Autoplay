@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.2"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Rosol, Philip"]
+[Result "0-1"]
+[WhiteElo "2244"]
+[BlackElo "2194"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.f4 a6 7.Nxc6 Qxc6 8.Qf3 Nf6 9.Bd3 Bc5 10.Bd2 b5 11.a3 Bb7 12.O-O-O O-O 13.Qg3 d5 14.e5 Ne4 15.Bxe4 dxe4 16.Be3 Bxa3 17.Kb1 Rac8 18.Bc1 b4 19.Rd6 Qc4 20.bxa3 bxc3 21.f5 Bd5 22.Rxd5 Qxd5 23.f6 g6 24.Qe3 Rb8+ 25.Ka1 Qb5 0-1

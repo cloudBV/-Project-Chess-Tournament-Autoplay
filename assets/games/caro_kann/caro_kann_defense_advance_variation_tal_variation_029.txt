@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "5.2"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Brzezina, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2273"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.g4 Bd7 6.Nc3 c5 7.Be3 cxd4 8.Bxd4 Nc6 9.Bg2 Nxd4 10.Qxd4 e6 11.O-O-O Ne7 12.f4 h5 13.Bf3 Rc8 14.Nge2 Qa5 15.Kb1 b5 16.Ne4 Nc6 17.Qd2 Qxd2 18.Nxd2 hxg4 19.Bxg4 Bc5 20.Nb3 Bb6 21.Nbd4 Nxd4 22.Nxd4 b4 23.Be2 a5 24.h5 Ke7 25.Rhg1 Rcg8 26.c3 g6 27.hxg6 Rxg6 28.Rxg6 fxg6 29.Bd3 Rh4 30.Rf1 Rg4 31.Ne2 bxc3 32.bxc3 g5 33.Kc2 gxf4 34.Nxf4 Kd8 35.Ng6 Rg2+ 36.Kb1 Rg3 37.Bc2 Bc5 38.Kb2 d4 39.cxd4 Bxd4+ 40.Kb1 Kc7 41.Rd1 1/2-1/2

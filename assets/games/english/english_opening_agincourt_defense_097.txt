@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.25"]
+[White "Ret, Adam Josef"]
+[Black "Burdalev, Kirill"]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2276"]
+[ECO "A13"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.Nf3 Nc6 5.O-O Bc5 6.d3 a5 7.e3 Nf6 8.exd4 Nxd4 9.Nc3 O-O 10.Bg5 h6 11.Ne4 Be7 12.Nxd4 Qxd4 13.Nxf6+ Bxf6 14.Bxf6 Qxf6 15.d4 Rd8 16.d5 Qxb2 17.Qf3 exd5 18.cxd5 Qb4 19.Rac1 Bg4 20.Qc3 Rd7 21.h3 Bf5 22.Rfe1 Qxc3 23.Rxc3 Kf8 24.g4 Bg6 25.Rec1 Rc8 26.Rb3 Rb8 27.Rbc3 Ke7 28.Rxc7 Rxc7 29.Rxc7+ Kd6 30.Rc3 f6 31.Ra3 b6 32.Rc3 Be8 33.f4 b5 34.g5 hxg5 35.fxg5 f5 36.Kf2 b4 37.Rc1 a4 38.Ke3 b3 39.axb3 Rxb3+ 40.Kd4 a3 41.Bf1 a2 42.Bd3 Ra3 43.Ra1 Ra4+ 44.Kc3 Kxd5 45.Bxf5 Kc5 46.Bc2 Ra3+ 47.Kb2 Kb4 48.Rxa2 1/2-1/2

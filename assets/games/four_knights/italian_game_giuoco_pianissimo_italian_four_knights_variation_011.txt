@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.10"]
+[White "Hansen, Torbjorn Ringdal"]
+[Black "Ostensen, Nicolai Maxime"]
+[Result "1/2-1/2"]
+[WhiteElo "2383"]
+[BlackElo "2407"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 h6 6.h3 a6 7.Be3 d6 8.Bxc5 dxc5 9.Nd5 Nxd5 10.Bxd5 Ne7 11.Bb3 Qd6 12.Qd2 Bd7 13.Qe3 Ng6 14.g3 Rf8 15.c3 O-O-O 16.O-O-O f5 17.exf5 Bxf5 18.Bc2 Qd5 19.Nd2 Bxd3 20.Bxd3 Qxd3 21.Qxc5 b6 22.Qe3 Qxe3 23.fxe3 Rf2 24.Ne4 Rxd1+ 25.Rxd1 Re2 26.Rd3 Ne7 27.Nd2 Nf5 28.e4 Re1+ 29.Kc2 Nd6 30.Rf3 Kd7 31.Kd3 Ke7 32.Rf1 Rxf1 33.Nxf1 Ke6 34.Ne3 c6 35.a4 g6 36.Nc4 Nxc4 37.Kxc4 Kd6 38.b4 b5+ 39.axb5 axb5+ 40.Kd3 1/2-1/2

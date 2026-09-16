@@ -1,0 +1,14 @@
+[Event "Round 6: Hulka, Valentyn - David, Idan"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-6/vSVImEhK/wppFPfSv"]
+[Date "2026.07.09"]
+[Round "6.29"]
+[White "Hulka, Valentyn"]
+[Black "David, Idan"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2156"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 a6 4.b3 d4 5.Nf3 c5 6.e3 Nc6 7.exd4 cxd4 8.O-O Bd6 9.Qe2 Nf6 10.Bb2 O-O 11.Nxd4 Nxd4 12.Bxd4 Bxg3 13.hxg3 Qxd4 14.Nc3 Rd8 15.Rad1 Rb8 16.Qe3 b6 17.Nd5 Qxe3 18.Nxf6+ gxf6 19.dxe3 Bd7 20.Rd6 Be8 21.Rfd1 Rdc8 22.Rc1 Kf8 23.Rd4 a5 24.a3 Rc7 25.Rh4 Kg7 26.b4 axb4 27.axb4 Rbc8 28.c5 bxc5 29.Rhc4 Bb5 30.Rxc5 Rxc5 31.bxc5 Kf8 32.Be4 f5 33.Bf3 Ke7 34.Kg2 Bc6 35.Bxc6 Rxc6 36.Kf3 e5 37.e4 Ke6 38.exf5+ Kxf5 39.g4+ Ke6 40.Ke4 f6 41.Rc2 h5 42.gxh5 f5+ 43.Ke3 Ke7 44.Kd3 Rh6 45.Kc4 Rxh5 46.Kd5 f4 47.c6 Kd8 48.Re2 e4+ 49.Kxe4 Rc5 50.Kxf4 Rxc6 51.Kg5 Rc5+ 52.Kg4 Rc7 53.f4 Re7 54.Rxe7 Kxe7 55.Kg5 Kf7 56.Kf5 1-0

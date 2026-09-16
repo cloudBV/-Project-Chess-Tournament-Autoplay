@@ -1,0 +1,15 @@
+[Event "Round 5: Riera Fregoso, Ferran - Romero Barreto, Jaime Jose"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-5/VJW5TtEy/rCbeN5oS"]
+[Date "2026.07.08"]
+[Round "5.7"]
+[White "Riera Fregoso, Ferran"]
+[Black "Romero Barreto, Jaime Jose"]
+[Result "0-1"]
+[WhiteElo "2017"]
+[BlackElo "2323"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Nf3 Bg4 7.h3 Bh5 8.O-O e6 9.Re1 Be7 10.Nbd2 Nf6 11.Nf1 a6 12.Ng3 Bg6 13.Ne5 Nxe5 14.Rxe5 b5 15.Bxg6 hxg6 16.a3 Bd6 17.Re3 a5 18.Qd3 Rb8 19.Bd2 O-O 20.Ne2 Rfc8 21.b4 Qc6 22.Rf3 Ra8 23.Nc1 e5 24.dxe5 Bxe5 25.bxa5 Ne4 26.Na2 Qc4 27.Be1 Rxa5 28.Nb4 Nxc3 29.Bxc3 Qxc3 30.Rd1 Qxd3 31.Rfxd3 d4 32.g3 g5 33.Rb3 Rc4 34.Rdd3 Bd6 35.Kg2 f5 36.g4 g6 37.gxf5 gxf5 38.Rf3 f4 39.Rfd3 Kf7 40.Kf3 Bxb4 41.axb4 Ra2 42.Kg4 Rxf2 43.Kxg5 Ke6 44.Rd1 Ke5 45.Re1+ Kd5 46.Kf5 Rc3 47.Re5+ Kc4 48.Rb1 Rb3 49.Rc5+ Kxb4 50.Rxb5+ Kxb5 51.Rxb3+ Kc4 52.Rb8 d3 53.Ke4 d2 54.Rd8 Kc3 55.h4 Kc2 56.Rc8+ Kd1 57.Kd3 Rf3+ 58.Ke4 Ke2 59.Rd8 Rf1 60.h5 d1=Q 61.Rxd1 Kxd1 62.Kd4 0-1

@@ -1,0 +1,14 @@
+[Event "Round 4: Senthil Maran K - Flom, Gabriel"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/iZF2q18S"]
+[Date "2026.07.24"]
+[Round "4.6"]
+[White "Senthil Maran K"]
+[Black "Flom, Gabriel"]
+[Result "1/2-1/2"]
+[WhiteElo "2295"]
+[BlackElo "2430"]
+[ECO "A31"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 d5 5.cxd5 Qxd5 6.Nc3 Qa5 7.g3 e5 8.Nb3 Qc7 9.Bg5 Bb4 10.Bxf6 Bxc3+ 11.bxc3 gxf6 12.Bg2 O-O 13.O-O Rd8 14.Qc1 Kg7 15.f4 h6 16.Nd2 Nc6 17.fxe5 Nxe5 18.Ne4 f5 19.Nf2 Be6 20.Rb1 Rac8 21.Rxb7 Qxc3 22.Qxc3 Rxc3 23.Rxa7 Rc2 24.Nh3 Ng6 25.Bf3 Rxa2 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-6/1Djz4Ac6/aONn5CKB"]
+[Date "2026.07.23"]
+[Round "6.10"]
+[White "Veiergang, Oscar"]
+[Black "Kanyamarala, Trisha"]
+[Result "0-1"]
+[WhiteElo "2234"]
+[BlackElo "2178"]
+[ECO "B46"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Nf6 7.Qf3 Bb4 8.Nb3 Qc7 9.Bd2 Qe5 10.O-O-O Bxc3 11.Bxc3 Qxe4 12.Qg3 Qg6 13.Qh4 e5 14.f3 d5 15.Re1 O-O 16.Bxe5 Bf5 17.Bxf6 gxf6 18.Re2 Rac8 19.g4 Bxc2 20.Rxc2 Nb4 21.Rxc8 Rxc8+ 22.Kd2 Qc2+ 23.Ke3 Re8+ 24.Kf4 Qc7+ 0-1

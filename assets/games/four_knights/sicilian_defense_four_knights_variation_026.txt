@@ -1,0 +1,14 @@
+[Event "Round 7: Haitin, Ilja - Ponnio, Toni"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-7/fymOfFBu/JPQzQ40t"]
+[Date "2026.07.16"]
+[Round "7.13"]
+[White "Haitin, Ilja"]
+[Black "Ponnio, Toni"]
+[Result "1-0"]
+[WhiteElo "2273"]
+[BlackElo "2126"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 Bb4 7.O-O Bxc3 8.bxc3 Nxe4 9.Nxc6 dxc6 10.Bd3 Nf6 11.c4 O-O 12.Bb2 c5 13.Re1 Bd7 14.Re3 Re8 15.Be5 Bc6 16.Rg3 g6 17.f4 Nd7 18.Bc3 e5 19.Qh5 Nf8 20.fxe5 Ne6 21.Rf1 Qe7 22.Rf6 Ng7 23.Qh6 Bd7 24.e6 Bxe6 25.Qxg7+ 1-0

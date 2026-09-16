@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/DtqgPqOr"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Hury, Tymoteusz"]
+[Black "Rzap, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2103"]
+[BlackElo "2271"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 a6 6.O-O Bg6 7.a4 c5 8.Be3 Ne7 9.dxc5 Nf5 10.Bg5 f6 11.exf6 gxf6 12.Bd2 Bxc5 13.b4 Ba7 14.c4 d4 15.Qb3 O-O 16.c5 Bf7 17.a5 e5 18.Qc2 Bg6 19.Bd3 Ne7 20.Na3 Bxd3 21.Qxd3 Qd5 22.Rfe1 Nd7 23.Nc4 Kh8 24.Rac1 Bb8 25.Nh4 f5 26.Bg5 Nc6 27.Bh6 e4 28.Qh3 Rf7 29.f3 Bc7 30.fxe4 fxe4 31.Rf1 Nde5 32.Nxe5 Nxe5 33.Rxf7 Qxf7 34.Rf1 Qh5 35.Bf4 e3 36.Qe6 e2 37.Qf6+ Kg8 38.Re1 Rf8 39.Qe6+ Kh8 40.g4 Qxh4 41.Bxe5+ Bxe5 42.Qxe5+ Qf6 43.Rxe2 Qxe5 44.Rxe5 d3 45.Rd5 Rf4 46.Rd8+ Kg7 47.Rxd3 Rxb4 48.Rd7+ Kg8 49.Rd8+ Kg7 50.Rd7+ 1/2-1/2

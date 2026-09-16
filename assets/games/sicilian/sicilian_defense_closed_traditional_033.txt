@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-8/QCHTNJXG/FGzbao7P"]
+[Date "2026.07.16"]
+[Round "8.4"]
+[White "Mantic, Andrej"]
+[Black "Hasala, Richard"]
+[Result "1-0"]
+[WhiteElo "2138"]
+[BlackElo "2029"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 a6 5.a4 d6 6.Nf3 Nf6 7.Nxd4 cxd4 8.Ne2 Nxe4 9.Nxd4 d5 10.Ba2 e6 11.O-O Bc5 12.Nf3 O-O 13.d3 Nf6 14.d4 Be7 15.Bg5 Bd7 16.c3 b5 17.Bb1 bxa4 18.Ne5 Rb8 19.Nxd7 Qxd7 20.Qc2 g6 21.Bf4 Bd6 22.Bxd6 Qxd6 23.Rxa4 Qb6 24.b4 Rfc8 25.Qd2 Qd6 26.Bd3 Rb6 27.Rfa1 Rcc6 28.R1a3 e5 29.dxe5 Qxe5 30.h3 Ne4 31.Bxe4 dxe4 32.Ra5 Qe6 33.Qd8+ Kg7 34.Qd4+ f6 35.Rd5 Rd6 36.Raa5 Kf7 37.Rac5 Rxd5 38.Rxd5 Ke7 39.Rd8 Rd6 40.Rxd6 Qxd6 41.Qxe4+ Kf7 42.Qb7+ Kg8 43.g3 Qd3 44.Qc6 Kg7 45.Kg2 h5 46.h4 Qc2 47.c4 Qb3 48.b5 axb5 49.cxb5 g5 50.hxg5 fxg5 51.b6 h4 52.b7 h3+ 53.Kxh3 Qb1 54.Kg2 1-0

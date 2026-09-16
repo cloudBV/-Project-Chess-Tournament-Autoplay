@@ -1,0 +1,15 @@
+[Event "Round 4: Kavutskiy, Kostya - Spence, Isaac"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-4/p37tSfIq/UobrRI69"]
+[Date "2026.07.03"]
+[Round "4.19"]
+[White "Kavutskiy, Kostya"]
+[Black "Spence, Isaac"]
+[Result "1-0"]
+[WhiteElo "2414"]
+[BlackElo "2118"]
+[ECO "A05"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 g6 4.b3 Bg7 5.Bb2 c5 6.O-O O-O 7.c4 dxc4 8.bxc4 Nc6 9.d3 Be6 10.Nbd2 Qc8 11.Re1 Rd8 12.Nb3 Bxc4 13.Nxc5 b6 14.Qc2 Bd5 15.Nb3 Ne5 16.Qxc8 Nxf3+ 17.Bxf3 Raxc8 18.Bxd5 Nxd5 19.Bxg7 Kxg7 20.Rac1 Nc3 21.Rc2 Rc7 22.Rec1 Rdc8 23.Kg2 a5 24.Kf3 e5 25.Nd2 b5 26.Ne4 Nd5 27.Rxc7 Rxc7 28.Rxc7 Nxc7 29.Nc5 Nd5 30.a3 Kf6 31.e3 Nc3 32.d4 exd4 33.exd4 Ke7 34.Ke3 Nb1 35.a4 Nc3 36.axb5 Nxb5 37.Kd3 Na7 38.Kc4 Nc6 39.f4 h5 40.d5 Nb4 41.Nb7 Nc2 42.Nxa5 Ne3+ 43.Kc5 Ng4 44.Kc6 Nf6 45.d6+ Ke6 46.Nb3 Kf5 47.Nc5 h4 48.Nd7 Ne4 49.Ne5 Nxd6 50.Kxd6 hxg3 51.hxg3 f6 52.Nxg6 Kxg6 53.Ke6 1-0

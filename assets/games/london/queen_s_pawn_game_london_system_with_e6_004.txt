@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.7"]
+[White "Valvag, Torbjorn"]
+[Black "Lahlum, Hans Olav"]
+[Result "1/2-1/2"]
+[WhiteElo "2104"]
+[BlackElo "2045"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Nf6 4.e3 c5 5.Nbd2 Bd6 6.dxc5 Bxc5 7.Bd3 O-O 8.O-O Bd6 9.Bxd6 Qxd6 10.c4 Nc6 11.Rc1 e5 12.cxd5 Qxd5 13.Bc4 Qd6 14.Nb3 Qe7 15.h3 Be6 16.Bxe6 Qxe6 17.Qe2 Rac8 18.Rfd1 Qe7 19.a3 a6 20.Rc2 Na7 21.Rdc1 Rxc2 22.Rxc2 h6 23.Rc3 Nb5 24.Rc4 Na7 25.Qc2 Nc6 26.Rc5 Rd8 27.Na5 Rd1+ 28.Qxd1 Qxc5 29.Nxc6 bxc6 30.Qb3 e4 31.Nd4 Qc1+ 32.Kh2 Qd2 33.Qc2 Qxc2 34.Nxc2 c5 35.f3 Kf8 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 4: Python, Noe - Haimovich, Tal"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-4/xI74yWxD/Q7whq9Xs"]
+[Date "2026.07.19"]
+[Round "4.12"]
+[White "Python, Noe"]
+[Black "Haimovich, Tal"]
+[Result "0-1"]
+[WhiteElo "2010"]
+[BlackElo "2347"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 d6 6.Bb5 Bd7 7.O-O Be7 8.Nxc6 bxc6 9.Bd3 O-O 10.f4 Rb8 11.h3 c5 12.b3 Bc6 13.Bb2 Re8 14.Nd5 Bxd5 15.exd5 Nd7 16.Re1 Bf6 17.Bxf6 Nxf6 18.Qf3 Qd7 19.a4 Rxe1+ 20.Rxe1 Re8 21.Rxe8+ Qxe8 22.Kf2 Kf8 23.c4 Qb8 24.Bc2 Qb4 25.Qd3 Qa3 26.Qe2 Qb2 27.Kg1 Qd4+ 28.Qf2 Qxf2+ 29.Kxf2 a5 30.g4 h6 31.g5 hxg5 32.fxg5 Nd7 33.Kg3 Ne5 34.Kf4 Ke7 35.h4 g6 36.Ke4 Nd7 37.Bd1 Nb8 38.h5 gxh5 39.Bxh5 Nd7 40.Kf5 Ne5 41.Be2 Kf8 42.Kf6 Nd7+ 43.Kf5 Kg7 44.Bd1 Ne5 45.Be2 Ng6 46.Bd1 Ne7+ 47.Kf4 f6 48.gxf6+ Kxf6 49.Bc2 c6 50.dxc6 Nxc6 51.Ke4 Ke6 52.Bd1 Nd4 53.Bg4+ Ke7 54.Bd1 Kd7 55.Kd5 Kc7 56.Ke4 Kc6 57.Kd3 Kd7 58.Ke4 Ke6 59.Bg4+ Ke7 60.Bd1 Kd7 61.Kd5 Kc7 62.Ke4 Kc6 63.Kd3 Ne6 64.Ke4 Nd8 65.Bf3 Nf7 66.Kf5+ Kc7 67.Ke6 0-1

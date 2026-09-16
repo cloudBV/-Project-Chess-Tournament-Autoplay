@@ -1,0 +1,15 @@
+[Event "Round 1: Mohammad Fahad, Rahman - Altynbek, Aiaru"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/z2f4JbRY"]
+[Date "2026.07.21"]
+[Round "1.16"]
+[White "Mohammad Fahad, Rahman"]
+[Black "Altynbek, Aiaru"]
+[Result "1-0"]
+[WhiteElo "2454"]
+[BlackElo "2114"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 d5 5.Qa4+ Nc6 6.e3 a5 7.a3 Be7 8.Bd3 O-O 9.O-O Bd7 10.Qc2 a4 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 f5 14.Bd3 Bf6 15.Be3 e5 16.dxe5 Nxe5 17.Nxe5 Bxe5 18.f4 Bf6 19.Rfe1 g6 20.Rad1 Qe7 21.c5 Qg7 22.b4 Rfe8 23.Kh1 Kh8 24.Bc4 Bc6 25.Bd5 Bxd5 26.Rxd5 Re4 27.Bd2 Qe7 28.Rxe4 Qxe4 29.Qxe4 fxe4 30.Kg1 Bb2 31.Rd7 Rc8 32.Kf2 Kg8 33.g4 Bxa3 34.Bc3 Bc1 35.Rg7+ Kf8 36.Rxh7 Re8 37.Rxc7 a3 38.Rd7 Ra8 39.Rxb7 Bb2 40.c6 Bxc3 41.c7 Bd4+ 42.Ke2 Ba7 43.Rxa7 Rc8 44.b5 Ke7 45.b6 1-0

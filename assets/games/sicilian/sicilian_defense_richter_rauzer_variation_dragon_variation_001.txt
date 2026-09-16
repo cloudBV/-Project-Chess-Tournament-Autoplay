@@ -1,0 +1,15 @@
+[Event "Round 6: Suleymanli, Aydin - Woodward, Andy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/YEJxwB3Z"]
+[Date "2026.07.03"]
+[Round "6.1"]
+[White "Suleymanli, Aydin"]
+[Black "Woodward, Andy"]
+[Result "1/2-1/2"]
+[WhiteElo "2561"]
+[BlackElo "2521"]
+[ECO "B60"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Dragon Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6 7.Bxf6 exf6 8.Bb5 Bd7 9.Nde2 Be6 10.O-O Bg7 11.Nd4 Bd7 12.Nde2 Be6 13.Nd4 Bd7 14.Nde2 Be6 1/2-1/2

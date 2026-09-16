@@ -1,0 +1,14 @@
+[Event "Round 8: Smith, Axel - Sorensen, Hampus"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sverigemastarklassen/round-8/vhZYmqSj/ory3OsKv"]
+[Date "2026.07.03"]
+[Round "8.4"]
+[White "Smith, Axel"]
+[Black "Sorensen, Hampus"]
+[Result "1-0"]
+[WhiteElo "2439"]
+[BlackElo "2460"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5 dxe5 5.Nxe5 a6 6.g3 Qc7 7.d4 cxd4 8.Qxd4 Nc6 9.Nxc6 Qxc6 10.Bg5 Bg4 11.Bxf6 gxf6 12.Qxg4 Qxh1 13.Qa4+ b5 14.Nxb5 Bh6 15.Nc7+ Kf8 16.Nxa8 Qxa8 17.Qxa6 Qd5 18.Qe2 e5 19.c3 Kg7 20.Qg4+ Bg5 21.Rd1 Qxa2 22.h4 Qxb2 23.hxg5 Qxc3+ 24.Ke2 Qb2+ 25.Rd2 Qb5+ 26.Ke1 Qb1+ 27.Rd1 f5 28.Rxb1 fxg4 29.Rb4 Ra8 30.Bd3 Ra1+ 31.Ke2 1-0

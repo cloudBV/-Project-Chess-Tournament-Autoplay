@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "4.1"]
+[White "Shevchenko, Yaroslav"]
+[Black "Rey Martinez, Jaime"]
+[Result "1/2-1/2"]
+[WhiteElo "2285"]
+[BlackElo "2343"]
+[ECO "A50"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Qd3 d5 5.cxd5 Nxd5 6.Nf3 g6 7.e3 Bg7 8.Be2 O-O 9.O-O c5 10.dxc5 Nxc3 11.bxc3 Qxd3 12.Bxd3 Rd8 13.Be2 bxc5 14.Ba3 Bxc3 15.Rac1 Bb4 16.Bb2 Ba6 17.Bc4 Bxc4 18.Rxc4 Nd7 19.Re4 Re8 20.Rc1 Ba5 21.g4 Rab8 22.Ra4 Bb6 23.g5 Rbd8 24.h4 Nf8 25.Ne5 Ne6 26.Bc3 Rc8 27.Re4 Red8 28.Kg2 Kf8 29.Ng4 Rd5 30.Ne5 Bc7 31.Nc4 Rcd8 32.Rb1 Rb8 33.Rc1 Rbd8 34.Rb1 1/2-1/2

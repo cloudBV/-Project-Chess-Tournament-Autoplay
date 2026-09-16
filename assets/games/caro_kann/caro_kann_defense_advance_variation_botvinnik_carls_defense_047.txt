@@ -1,0 +1,14 @@
+[Event "Round 8: Dong, Hongfu - Erne, Raphael"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-8/6GvLkLx7/JZrAvx9j"]
+[Date "2026.07.12"]
+[Round "8.11"]
+[White "Dong, Hongfu"]
+[Black "Erne, Raphael"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2122"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 e6 8.O-O Ne7 9.Nd2 a5 10.Qe2 Ng6 11.Nf3 Be7 12.g3 O-O 13.h4 Re8 14.h5 Nf8 15.Bf4 Qb6 16.c4 Ba6 17.Rfc1 Rab8 18.Rc2 Red8 19.h6 Ng6 20.Be3 Qb7 21.hxg7 Kxg7 22.Ng5 Rh8 23.Qh5 Rbf8 24.Re1 Bxc4 25.Bxc4 dxc4 26.Ne4 h6 27.Nf6 Qb5 28.Ng4 Bg5 29.Bxg5 hxg5 30.Qxg5 Qd5 31.Qf6+ Kg8 32.f3 Qd3 33.Rf2 c3 34.bxc3 Qxc3 35.Rd1 Rb8 36.Rfd2 Qc5+ 37.Kg2 Rf8 38.Rd8 Qc2+ 39.R1d2 Qc5 40.Rxf8+ Nxf8 41.Qg5+ Ng6 42.Rd8+ Kh7 43.Qh6# 1-0

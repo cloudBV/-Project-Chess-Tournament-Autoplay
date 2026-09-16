@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.1"]
+[White "Pechac, Jergus"]
+[Black "Vykouk, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2563"]
+[BlackElo "2426"]
+[ECO "B22"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.Bb5+ Bd7 6.Bc4 e6 7.d4 Nb6 8.Bd3 h6 9.O-O cxd4 10.cxd4 Bc6 11.Nc3 N8d7 12.Bf4 dxe5 13.Nxe5 Nxe5 14.Bxe5 Bd6 15.Bb5 1/2-1/2

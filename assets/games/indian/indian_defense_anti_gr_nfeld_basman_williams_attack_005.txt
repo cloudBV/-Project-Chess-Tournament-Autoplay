@@ -1,0 +1,14 @@
+[Event "Round 4: Roth, Thorsten - Lindam, Ingo"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-4/BibKTVzv/kUHo08kl"]
+[Date "2026.07.20"]
+[Round "4.16"]
+[White "Roth, Thorsten"]
+[Black "Lindam, Ingo"]
+[Result "1/2-1/2"]
+[WhiteElo "2017"]
+[BlackElo "2079"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 Bg7 4.Nc3 d6 5.e4 h5 6.Be2 O-O 7.Nf3 Na6 8.Ng5 e5 9.d5 c6 10.Be3 cxd5 11.cxd5 Ng4 12.Bxg4 Bxg4 13.f3 Bd7 14.g4 Rc8 15.gxh5 gxh5 16.Rg1 Qf6 17.Rc1 b5 18.Qe2 Nc5 19.b4 Na4 1/2-1/2

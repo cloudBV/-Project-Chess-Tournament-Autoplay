@@ -1,0 +1,15 @@
+[Event "Round 7: Muntean, Victor - Rehnberg, Karl-Oskar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-7/qIT8xtMr/eVnDr65r"]
+[Date "2026.07.01"]
+[Round "7.1"]
+[White "Muntean, Victor"]
+[Black "Rehnberg, Karl-Oskar"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2035"]
+[ECO "B22"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 e6 5.Na3 b6 6.g3 Bb7 7.Bg2 d6 8.Nc4 dxe5 9.Nfxe5 Nd7 10.Qa4 f6 11.Nxd7 Qxd7 12.Qxd7+ Kxd7 13.O-O Be7 14.Rd1 Ba6 15.Ne3 Bb7 16.c4 Nxe3 17.dxe3+ Kc7 18.Bxb7 Kxb7 19.Rd7+ 1-0

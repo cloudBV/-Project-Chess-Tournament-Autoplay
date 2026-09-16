@@ -1,0 +1,15 @@
+[Event "Round 5: Sindarov, Javokhir - Sheehan, Ethan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-5/kzSSFnA1/PLO8fLnz"]
+[Date "2026.07.04"]
+[Round "5.11"]
+[White "Sindarov, Javokhir"]
+[Black "Sheehan, Ethan"]
+[Result "1/2-1/2"]
+[WhiteElo "2680"]
+[BlackElo "2416"]
+[ECO "C50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.a3 a6 7.Be3 O-O 8.Bxc5 dxc5 9.Nd5 Be6 10.Ne3 Bxc4 11.Nxc4 Re8 12.O-O Qd7 13.Kh1 Rad8 14.b3 g6 15.a4 Qe6 16.Qc1 Kg7 17.a5 Nd7 18.Qd2 f6 19.Ne3 Nd4 20.Nxd4 cxd4 21.Nc4 Ra8 22.f4 exf4 23.Rxf4 b5 24.axb6 cxb6 25.Qf2 b5 26.Nd2 Qd6 27.Rh4 Ne5 28.Nf3 Nxf3 29.gxf3 Rac8 30.f4 Rc6 31.Rg4 Rec8 32.Ra2 a5 33.Rg2 a4 34.bxa4 bxa4 35.Rxa4 Rxc2 36.Ra7+ R2c7 37.Rxc7+ Rxc7 38.h3 Rc3 39.Rg3 Qc5 40.f5 Rc1+ 41.Rg1 Rxg1+ 42.Qxg1 Qc3 43.fxg6 Qxd3 44.gxh7+ Kxh7 45.Qg4 Qe3 46.Qh5+ Kg7 47.Qg4+ Kh7 1/2-1/2

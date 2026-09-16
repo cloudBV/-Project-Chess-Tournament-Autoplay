@@ -1,0 +1,14 @@
+[Event "Round 3: Andersen, Jonathan - Telke, Holger"]
+[Site "https://lichess.org/broadcast/german-cup-championship-2026-dpem/round-3/zW3muafQ/0rTv7Agj"]
+[Date "2026.07.22"]
+[Round "3.1"]
+[White "Andersen, Jonathan"]
+[Black "Telke, Holger"]
+[Result "0-1"]
+[WhiteElo "2085"]
+[BlackElo "2045"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 Qd7 5.Nh4 Bh3 6.Bxh3 Qxh3 7.Nc3 O-O-O 8.e3 g5 9.Nf3 f6 10.Ng1 Qd7 11.Nce2 f5 12.b3 h5 13.h4 g4 14.Bb2 Nf6 15.Nf4 Ne4 16.Nge2 Bg7 17.Ng6 Rh6 18.Nef4 Qd6 19.Ne5 Bxe5 20.dxe5 Nxe5 21.Bxe5 Qxe5 22.Qd4 Qxd4 23.exd4 c5 24.dxc5 Nxc5 25.c4 dxc4 26.Rc1 Rd4 27.O-O e5 28.Ne2 Rd2 29.Rxc4 Rxe2 30.Rxc5+ Rc6 31.Rxc6+ bxc6 32.Rc1 Rxa2 33.Rxc6+ Kd7 34.Rh6 a5 35.Rxh5 Ke6 36.Rh6+ Kd5 37.Rf6 Ke4 38.h5 Rb2 39.h6 Rxb3 40.Ra6 Kf3 41.h7 Rb1+ 42.Kh2 Rb8 43.Rxa5 Kxf2 44.Rxe5 f4 45.gxf4 g3+ 46.Kh3 Rh8 47.Rg5 Rxh7+ 48.Kg4 g2 49.Kf5 Rh5 50.Rxh5 g1=Q 51.Rg5 Qb1+ 52.Ke5 Kf3 53.f5 Qb5+ 54.Kf6 Kf4 55.Rh5 Qe5+ 56.Kg6 Qe8+ 57.Kh6 Qh8+ 58.Kg6 Qg8+ 59.Kf6 Kg4 60.Rh6 Qg5+ 0-1

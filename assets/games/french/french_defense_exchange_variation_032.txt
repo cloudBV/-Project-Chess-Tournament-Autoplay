@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-8/1l91tK1m/AFIcIe9x"]
+[Date "2026.07.18"]
+[Round "8.4"]
+[White "Barria, Jose"]
+[Black "Peralta, Fernando"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2548"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 c5 6.c3 Be7 7.dxc5 Bxc5 8.O-O O-O 9.Nbd2 Nc6 10.Nb3 Bb6 11.h3 Ne4 12.Nbd4 Nxd4 13.Nxd4 Qd6 14.Be3 Bc7 15.Nf3 Re8 16.c4 d4 17.Bxe4 Rxe4 18.Bxd4 Qg6 19.Ne5 Bxe5 20.Bxe5 Bxh3 21.Bg3 Bf5 22.Re1 Rg4 23.Qd6 Qxd6 24.Bxd6 Rxc4 25.Rac1 Rxc1 26.Rxc1 Rd8 27.Bb4 f6 28.Rc7 Be4 29.f3 Bc6 30.Kf2 h5 31.Re7 Kh7 32.Bc3 Kg6 33.a3 a6 34.Kg3 Rd5 35.Kf2 h4 36.Re4 Rh5 37.Re1 Rh8 38.Bb4 Rd8 39.Bc3 Kf7 40.Re2 Rd5 41.Re1 Rf5 42.Rh1 g5 43.Ke3 Kg6 44.Ke2 Rd5 45.Rd1 Bb5+ 46.Ke1 Rxd1+ 47.Kxd1 Bf1 48.Ke1 Bxg2 49.Kf2 Bh3 50.Ba5 Bd7 51.Bd8 Bc6 52.Be7 Kf5 53.Bd8 Ba4 54.Be7 Bb3 55.Bd8 Ke6 56.Bc7 Ke7 57.Bb6 Bd5 58.Bc5+ Ke6 59.Bb6 Kf5 60.Bd8 Bc4 61.Be7 Bb3 62.Bd8 Bd1 63.Be7 Ke5 64.Bd8 g4 65.fxg4 Bxg4 66.Ke3 h3 67.Bc7+ Kd5 68.Kd3 Bf5+ 69.Ke3 Kc4 70.Kd2 Kb3 71.Kc1 a5 72.Bb8 a4 73.Bc7 b5 74.Bb8 b4 75.axb4 Kxb4 76.Kd2 Kb3 77.Kc1 Be4 78.Bd6 Bh7 79.Bc7 Bg6 80.Bd6 Bd3 81.Bc7 Bh7 82.Bd6 Bg6 83.Bc7 Bh5 84.Bd6 Bg4 85.Bc7 f5 86.Be5 Bh5 87.Bc7 Be2 88.Be5 Bh5 89.Bc7 a3 90.bxa3 Kc3 0-1

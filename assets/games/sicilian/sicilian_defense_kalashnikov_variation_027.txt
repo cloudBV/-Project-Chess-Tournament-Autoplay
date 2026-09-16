@@ -1,0 +1,15 @@
+[Event "Round 3: Lazaro Pujol, Abel - Gonzalez Alonso, Marti"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-3/R83bcJKF/Vwk1Lg0h"]
+[Date "2026.07.15"]
+[Round "3.6"]
+[White "Lazaro Pujol, Abel"]
+[Black "Gonzalez Alonso, Marti"]
+[Result "1-0"]
+[WhiteElo "2396"]
+[BlackElo "2121"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nab1 Nf6 9.Bg5 Be7 10.Bxf6 Bxf6 11.a4 b4 12.Nd5 O-O 13.Bc4 Be6 14.O-O a5 15.Qd3 Bg5 16.Rd1 Rb8 17.c3 Kh8 18.Bb5 Qc8 19.Nd2 bxc3 20.bxc3 Bxd2 21.Qxd2 Rd8 22.Ne3 Ne7 23.c4 Nc6 24.Bxc6 Qxc6 25.Qxa5 Qxe4 26.Qc7 Qb7 27.Qxb7 Rxb7 28.a5 Kg8 29.c5 Kf8 30.cxd6 Ke8 31.a6 Ra7 32.Nd5 Bxd5 33.Rxd5 f6 34.g4 Kd7 35.Kg2 Ke6 36.Rd2 Rxd6 37.Rxd6+ Kxd6 38.Kf3 g6 39.Ke4 Ke6 40.Ra5 h6 41.Ra4 f5+ 42.gxf5+ gxf5+ 43.Ke3 Kf6 44.Kf3 Kg5 45.Kg3 Kh5 46.Ra5 Rg7+ 47.Kf3 Ra7 48.Ra4 Kg5 49.Ke3 Kh5 50.Kd3 Kg5 51.Kc4 Kf4 52.Kd5+ e4 53.Ra3 h5 54.Kc5 e3 55.fxe3+ Kf3 56.Kb6 Rh7 57.a7 Rh8 58.a8=Q+ Rxa8 59.Rxa8 Kxe3 60.Rh8 1-0

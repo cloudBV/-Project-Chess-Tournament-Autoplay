@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.9"]
+[White "Prokofiev, Valentyn"]
+[Black "Winter, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2434"]
+[BlackElo "2286"]
+[ECO "E15"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.Qc2 c5 6.d5 exd5 7.cxd5 Bb7 8.Bg2 Nxd5 9.O-O Nc6 10.Rd1 Be7 11.Qf5 Nf6 12.e4 g6 13.Qf4 O-O 14.e5 Nh5 15.Qc4 Qc7 16.Bh6 Rfd8 17.Nc3 Na5 18.Qf1 d5 19.exd6 Rxd6 20.Nb5 Rxd1 21.Rxd1 Qb8 22.Rd7 Qe8 23.Rxb7 Nxb7 24.Nc7 Qc8 25.Nxa8 Qxa8 26.Ne5 Qb8 27.Nc6 Qc7 28.Qe2 Bf8 29.Qe8 Ng7 30.Qa8 Na5 31.Nd8 Qd7 32.Bd5 Nf5 33.Nxf7 Qe7 34.Ne5+ 1-0

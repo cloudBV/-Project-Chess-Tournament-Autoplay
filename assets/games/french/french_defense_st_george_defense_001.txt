@@ -1,0 +1,15 @@
+[Event "XXII Baltic Pearl Chess Festival 2026 - Group A 1-20"]
+[Site "Lazy, Poland"]
+[Date "2026.07.01"]
+[Round "4.2"]
+[White "Moczulski, Michal"]
+[Black "Stachowiak, Bruno"]
+[Result "1/2-1/2"]
+[WhiteElo "2046"]
+[BlackElo "2154"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: St. George Defense"]
+
+1.e4 a6 2.d4 e6 3.Bd3 d5 4.e5 Bd7 5.c3 Bb5 6.h4 Bxd3 7.Qxd3 c5 8.h5 Nc6 9.a3 Rc8 10.Nd2 Qb6 11.Ne2 cxd4 12.cxd4 Qb5 13.Qf3 Nh6 14.g4 Be7 15.b4 f6 16.exf6 Bxf6 17.Nb3 O-O 18.Bxh6 gxh6 19.Qe3 e5 20.O-O Rce8 21.Ng3 Bg5 22.Qc3 exd4 23.Nxd4 Nxd4 24.Qxd4 Bf6 25.Qd2 Bxa1 26.Rxa1 Qc4 27.Rc1 Qxg4 28.Qxd5+ Qe6 29.Qxb7 Qa2 30.Qb6 Qd2 31.Rf1 Re1 32.Rxe1 Qxe1+ 33.Kg2 Qc3 34.Qe6+ Kh8 35.Qd5 Qf6 36.Qd2 Rd8 37.Qe3 Qc6+ 38.Kh2 Rf8 39.Kg1 Qf3 40.Qd4+ Qf6 41.Qe3 Rc8 42.Kg2 Qc6+ 43.Kh2 Qd6 44.Kg2 Qd5+ 45.Kg1 Rf8 46.Qc3+ Kg8 47.Qe3 Qf3 48.Qe6+ Kg7 49.Qe7+ Qf7 50.Qe5+ Qf6 51.Qe3 Qf4 1/2-1/2

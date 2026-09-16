@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "17.3"]
+[White "Szczotka, Klara"]
+[Black "Obukhava, Anastasiya"]
+[Result "1/2-1/2"]
+[WhiteElo "2130"]
+[BlackElo "2063"]
+[ECO "E32"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Be7 6.e4 d6 7.Nf3 c5 8.Bd3 cxd4 9.Nxd4 Nc6 10.Nxc6 bxc6 11.O-O h6 12.h3 Bb7 13.f4 Qb6+ 14.Kh1 d5 15.e5 Nd7 16.b4 c5 17.cxd5 exd5 18.Bf5 cxb4 19.Bxd7 bxc3 20.Qxc3 Rfd8 21.Bf5 d4 22.Qg3 Qc6 23.Bd2 Bh4 24.Qh2 Qd5 25.Bd3 Rac8 26.Rac1 Be7 27.Rce1 Bxa3 28.Qg3 Be7 29.Be4 Qd7 30.f5 Bxe4 31.Rxe4 Qc6 32.f6 Bf8 33.Rg4 Qc2 34.Rxg7+ Kh8 35.Rg8+ Kh7 36.Rxf8 Qg6 37.Qxg6+ Kxg6 38.Rxd8 Rxd8 39.Ra1 Kf5 40.Rxa7 Kxe5 41.Bxh6 Kxf6 42.Ra5 Ke6 43.Bd2 Rc8 44.Ra2 Ke5 45.Kg1 Ke4 46.Kf2 Kd3 47.Bf4 Ke4 48.Rd2 Kxf4 49.Rxd4+ Kg5 50.Rd5+ Kg6 51.Rd4 Rc2+ 52.Kg3 Rc3+ 53.Kf4 Rc5 54.Rd6+ f6 55.Rd4 Rf5+ 56.Kg3 Ra5 57.Kf3 Ra3+ 58.Kg4 Ra5 59.g3 Rg5+ 60.Kf3 Ra5 61.h4 Rb5 62.Kg4 Ra5 63.Rf4 f5+ 64.Kh3 Kh5 65.Rxf5+ Rxf5 66.g4+ Kg6 67.gxf5+ Kxf5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 4: Kao, Jamison Edrich - Sakline Mostafa, Sajid"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-4/xVpQbz0L/yXqJtbEL"]
+[Date "2026.07.19"]
+[Round "4.6"]
+[White "Kao, Jamison Edrich"]
+[Black "Sakline Mostafa, Sajid"]
+[Result "1-0"]
+[WhiteElo "2242"]
+[BlackElo "2355"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Qc7 5.O-O Nd4 6.Re1 a6 7.Bf1 Ng4 8.e5 Nxf3+ 9.gxf3 Nxe5 10.d4 cxd4 11.Nd5 Qd6 12.c4 dxc3 13.Rxe5 Qxe5 14.Bf4 Qf5 15.Bg3 cxb2 16.Rb1 Ra7 17.Rxb2 d6 18.Qd4 b5 19.a4 f6 20.axb5 axb5 21.Rxb5 Rb7 22.Nxe7 Rxe7 23.Rxf5 Bxf5 24.Qd5 Be6 25.Qa8+ Kf7 26.Bb5 Bf5 27.Kg2 g5 28.Bxd6 Re1 29.Bc4+ Kg7 30.Qa7+ Kh6 31.Bxf8+ Rxf8 32.Qc5 Kg7 33.Qxf5 Re7 34.Qc5 Rd7 35.Be6 Rb7 36.Bf5 Rbf7 37.Be6 Rb7 38.Qc6 Re7 39.Qd6 Ra7 40.Kg3 Rb7 41.Kg4 Ra7 42.Kh5 Re8 43.Bf5 Re1 44.Be4 Rf7 45.h3 Rc1 46.Qe6 Rc5 47.Bxh7 Re5 48.Qc4 Re8 49.Qxf7+ Kxf7 50.Bg6+ Ke7 51.Bxe8 Kxe8 52.Kg6 Ke7 53.Kf5 Kf7 54.f4 gxf4 55.Kxf4 Kg6 56.Kg4 f5+ 57.Kf4 1-0

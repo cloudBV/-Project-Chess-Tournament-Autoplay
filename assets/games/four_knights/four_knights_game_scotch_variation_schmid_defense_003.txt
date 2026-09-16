@@ -1,0 +1,15 @@
+[Event "Round 9: Nochimowski, Eran - Triger, Eitan"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-9/AS2EnOQA/aGGFSBNL"]
+[Date "2026.07.21"]
+[Round "9.14"]
+[White "Nochimowski, Eran"]
+[Black "Triger, Eitan"]
+[Result "1/2-1/2"]
+[WhiteElo "2028"]
+[BlackElo "2052"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation, Schmid Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Nxe4 6.Nxe4 Qe7 7.f3 d5 8.Bb5 Bd7 9.Bxc6 bxc6 10.O-O dxe4 11.Re1 O-O-O 12.Rxe4 Qb4 13.Qe2 Qb6 14.Be3 Bc5 15.b4 Bxd4 16.Bxd4 Qb5 17.Qxb5 cxb5 18.Bxg7 Rhe8 19.Rxe8 Rxe8 20.Kf2 Bf5 21.c3 Bd3 22.Re1 Rxe1 23.Kxe1 Kd7 24.Kd2 Bb1 25.a3 Ke6 26.Bd4 a6 27.Kc1 Bg6 28.Kb2 Kd5 29.Kb3 Bd3 30.Be3 Bf1 31.g3 Be2 32.Bf4 c6 33.h4 Bxf3 34.Bb8 h5 35.Bf4 Bd1+ 36.Kb2 c5 37.Bc7 c4 38.Bf4 Ke4 39.Bb8 f5 40.Bf4 Kd3 1/2-1/2

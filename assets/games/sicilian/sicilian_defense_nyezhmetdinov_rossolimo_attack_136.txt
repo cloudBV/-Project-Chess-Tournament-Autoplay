@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.18"]
+[White "Migalko, Dmitriy"]
+[Black "Bouska, Jiri"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2298"]
+[ECO "B30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.c3 a6 6.Ba4 b5 7.Bb3 c4 8.Bc2 Nf6 9.d4 cxd3 10.Qxd3 Bc7 11.Bg5 h6 12.Bxf6 Qxf6 13.Nbd2 Rb8 14.a3 O-O 15.Rfe1 Ne7 16.Nf1 d6 17.Ne3 g6 18.Bb3 a5 19.Nd5 Nxd5 20.Bxd5 Bb6 21.Rf1 Bd7 22.Nd2 Kg7 23.b4 Qg5 24.Nf3 Qf4 25.Bb3 Bg4 26.Bd1 Rfd8 27.Kh1 Be6 28.g3 Qf6 29.Qxb5 d5 30.Qe2 dxe4 31.Nd2 Bh3 32.Rg1 Qxf2 33.Qxf2 Bxf2 34.Nxe4 Bxg1 35.Kxg1 Bf5 36.Nc5 Rd2 37.Nb3 Rxd1+ 38.Rxd1 Bc2 39.Rd5 Bxb3 40.Rxe5 a4 41.Re4 Rc8 42.Re3 Rd8 43.Kf2 Rd2+ 44.Re2 Rxe2+ 45.Kxe2 Kf6 46.Kd3 Ke5 47.c4 f5 48.b5 g5 49.h3 Bd1 50.Ke3 f4+ 51.gxf4+ gxf4+ 52.Kf2 Bb3 53.b6 Kd6 54.c5+ Kc6 55.h4 Bd5 0-1

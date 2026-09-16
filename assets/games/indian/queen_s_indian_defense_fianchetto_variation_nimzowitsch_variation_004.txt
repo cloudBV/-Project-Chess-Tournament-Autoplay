@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "3.6"]
+[White "Sawicki, Dorian"]
+[Black "Rekuc, Patryk"]
+[Result "1-0"]
+[WhiteElo "2059"]
+[BlackElo "2290"]
+[ECO "E15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Bg2 Bxc4 6.O-O Bd5 7.Nc3 Bb7 8.Bg5 Be7 9.Qc2 d5 10.Ne5 O-O 11.f4 c5 12.e3 Nc6 13.Rad1 Rc8 14.f5 exf5 15.Qxf5 cxd4 16.exd4 Na5 17.Bxf6 Bxf6 18.Nd7 Re8 19.Bxd5 Bxd5 20.Nxd5 Re6 21.N7xf6+ gxf6 22.Nxf6+ Kf8 23.Nxh7+ 1-0

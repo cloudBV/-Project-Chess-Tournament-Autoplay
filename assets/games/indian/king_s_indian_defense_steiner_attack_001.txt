@@ -1,0 +1,14 @@
+[Event "Round 9: Dittmar, Peter - Kapfer, Thomas"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-9/1CEaBO5U/oLOXsoOd"]
+[Date "2026.07.04"]
+[Round "9.5"]
+[White "Dittmar, Peter"]
+[Black "Kapfer, Thomas"]
+[Result "1-0"]
+[WhiteElo "2134"]
+[BlackElo "2169"]
+[ECO "E81"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Steiner Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 h6 7.Be3 e5 8.Nge2 Nc6 9.Qd2 exd4 10.Nxd4 Nxd4 11.Bxd4 a6 12.Be2 Kh7 13.O-O Ne8 14.Rfd1 Bxd4+ 15.Qxd4 Qf6 16.Qxf6 Nxf6 17.Nd5 Ne8 18.Rac1 b6 19.Bd3 Be6 20.b3 Kg7 21.Rd2 f6 22.Nf4 Bf7 23.Ne2 Be6 24.g3 c5 25.Nf4 Bf7 26.Bf1 g5 27.Ne2 Bh5 28.Rd3 Rb8 29.Bh3 Bf7 30.Bd7 Rd8 31.Bc6 Nc7 32.Rcd1 b5 33.cxb5 Nxb5 34.Bd5 Rb8 35.R1d2 Rfd8 36.Bc4 Rb6 37.Bxf7 Kxf7 38.Rd5 Ke7 39.Kf2 Nc7 40.R5d3 Nb5 41.f4 Nc7 42.Nc3 Ke6 43.Nd5 Nxd5 44.exd5+ Kf7 45.Re2 gxf4 46.gxf4 Rb4 47.Kf3 Re8 48.Rxe8 Kxe8 49.Kg4 Kf7 50.Kf5 h5 51.a3 Rb6 52.Rh3 Kg7 53.Ke6 a5 54.Rg3+ Kh7 55.Kxf6 Rb7 56.Ke6 Rg7 57.Rxg7+ Kxg7 58.a4 1-0

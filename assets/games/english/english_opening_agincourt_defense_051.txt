@@ -1,0 +1,14 @@
+[Event "Round 5: Arrieta Hernandez, Cristian - Ruiz Aguilar, Pablo Alexander"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-5/e599Mxte/vvunQPD5"]
+[Date "2026.07.12"]
+[Round "5.4"]
+[White "Arrieta Hernandez, Cristian"]
+[Black "Ruiz Aguilar, Pablo Alexander"]
+[Result "1-0"]
+[WhiteElo "2339"]
+[BlackElo "2202"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 e6 2.c4 d5 3.e3 Nf6 4.a3 Be7 5.Nc3 O-O 6.d4 b6 7.b4 a5 8.b5 Bb7 9.Bb2 c6 10.cxd5 Nxd5 11.Nxd5 Qxd5 12.bxc6 Nxc6 13.Rc1 b5 14.Bd3 b4 15.a4 Rac8 16.O-O Rfd8 17.Bc4 Qh5 18.Nd2 Qg6 19.f3 Bd6 20.Qe2 e5 21.d5 Ne7 22.e4 h5 23.Nb3 Ra8 24.Kh1 Qh6 25.Rc2 Ng6 26.Bc1 Nf4 27.Qf2 h4 28.Be3 Rdc8 29.Rfc1 Qf6 30.Bf1 Rxc2 31.Rxc2 h3 32.g3 Nxd5 33.exd5 Bxd5 34.Bc4 1-0

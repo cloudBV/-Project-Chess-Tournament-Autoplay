@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "3.2"]
+[White "Mattenberger, Matthias"]
+[Black "Reyan Md."]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2161"]
+[ECO "A48"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.b3 Bg7 4.Bb2 O-O 5.e3 d6 6.Be2 b6 7.O-O Bb7 8.c4 e6 9.Nc3 c5 10.Qc2 Nbd7 11.Rfd1 Qe7 12.dxc5 Nxc5 13.b4 Nce4 14.Nxe4 Nxe4 15.Bxg7 Kxg7 16.Nd2 Nxd2 17.Rxd2 Rac8 18.Rad1 Rfd8 19.h3 d5 20.Qa4 dxc4 21.Rxd8 Rxd8 22.Rd5 Rd7 23.Rxd7 Qd8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 5: Kalyani Sirin - Zhauynbay Aldiyar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/8OZNYQhd"]
+[Date "2026.07.07"]
+[Round "5.19"]
+[White "Kalyani Sirin"]
+[Black "Zhauynbay Aldiyar"]
+[Result "0-1"]
+[WhiteElo "2150"]
+[BlackElo "2318"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Lputian Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Nh6 7.b4 cxd4 8.Bd3 Nf5 9.Bxf5 exf5 10.cxd4 Be6 11.Nc3 h6 12.Qd3 Qd8 13.Bd2 g5 14.h4 Rg8 15.hxg5 hxg5 16.Nb5 g4 17.Ng5 a6 18.Nh7 Qb6 19.Nc7+ Qxc7 20.Nf6+ Kd8 21.Nxg8 Qb6 22.Rc1 Kc7 23.Nh6 Re8 24.Nxf5 Kb8 25.Be3 a5 26.b5 Na7 27.a4 Bb4+ 28.Kf1 Bd7 29.Kg1 Qg6 30.Rh5 Qxh5 31.Ng7 Qh8 32.Nxe8 Qxe8 33.Bd2 Bxd2 34.Qxd2 Qd8 35.Qh6 Be6 36.Kh2 Nc8 37.Kg3 Ne7 38.Qf4 Qh8 39.Qf6 Qxf6 40.exf6 Ng8 41.Kf4 Nxf6 42.Ke5 Nd7+ 43.Kd6 Nb6 44.Ra1 Nc8+ 45.Ke5 Kc7 46.f4 gxf3 47.gxf3 Kd7 48.f4 Nd6 49.Rc1 Nc4+ 50.Kf6 Kd6 51.f5 Bd7 52.Rf1 Nd2 53.Rf4 Be8 54.Kg7 Ke7 55.Rf2 Ne4 56.Rc2 Bd7 57.Rc7 Nd6 58.Kh8 f6 59.Rc5 b6 60.Rc7 Kd8 61.Rc1 Nxf5 62.Kh7 Nxd4 63.Rd1 Ne6 64.Rd3 d4 65.Rxd4 Ke7 66.Rd5 Nc5 67.Kh6 Be8 68.Rd4 Bf7 0-1

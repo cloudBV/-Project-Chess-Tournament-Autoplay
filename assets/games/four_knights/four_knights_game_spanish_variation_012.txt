@@ -1,0 +1,15 @@
+[Event "Round 3: Madhvendra Pratap Sharma - Volkov, Maksim"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-3/5cIjnv1B/tzjxnPfG"]
+[Date "2026.07.18"]
+[Round "3.2"]
+[White "Madhvendra Pratap Sharma"]
+[Black "Volkov, Maksim"]
+[Result "0-1"]
+[WhiteElo "2339"]
+[BlackElo "2437"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.d3 O-O 6.O-O h6 7.h3 Re8 8.Ba4 a6 9.a3 Bf8 10.Bb3 d6 11.Be3 Be6 12.Bxe6 Rxe6 13.Nd5 Ne7 14.c4 Ng6 15.Qb3 Qc8 16.Rfc1 Nd7 17.g3 c6 18.Kg2 Re8 19.Nc3 Be7 20.Rd1 h5 21.Rac1 h4 22.Qc2 Ndf8 23.b4 Ne6 24.a4 a5 25.b5 Rf8 26.bxc6 bxc6 27.Rb1 Qd7 28.Qb2 f5 29.exf5 Rxf5 30.Qb7 Qe8 31.Rb6 Rc8 32.Ne4 Rf7 33.Qa6 hxg3 34.fxg3 Ra8 35.Qb7 Bg5 36.Qxf7+ Qxf7 37.Nfxg5 Nxg5 38.Nxg5 Qf5 39.Rdb1 Rf8 40.h4 Qxd3 41.R1b3 Qe2+ 42.Kh1 Qf1+ 43.Kh2 Qxc4 44.Rb7 Qe2+ 45.Kh1 Rf1+ 46.Bg1 Qd1 47.Nh3 e4 48.Rb8+ Kh7 49.Kg2 Ne5 50.Re3 Rf5 51.Nf4 Nf3 52.Bf2 Nxh4+ 53.Kh3 Ng6 54.Nxg6 Qh1+ 55.Kg4 Qh5# 0-1

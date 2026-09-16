@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.19"]
+[Round "6"]
+[White "Jovovic, Milan"]
+[Black "Buljubasic, Sabahudin"]
+[Result "0-1"]
+[WhiteElo "2048"]
+[BlackElo "2305"]
+[ECO "A45"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d6 3.Nf3 g6 4.Nc3 Bg7 5.Qd2 Nbd7 6.Bh6 Bxh6 7.Qxh6 c6 8.e4 Qa5 9.O-O-O Rg8 10.h3 g5 11.Nxg5 Qxg5+ 12.Qxg5 Rxg5 13.f4 Rg7 14.g4 e5 15.Be2 Ke7 16.Rhf1 h6 17.a4 b6 18.Bc4 Bb7 19.b4 Rc8 20.Kb2 a6 21.Bb3 b5 22.Ne2 Nxe4 23.fxe5 d5 24.Nf4 f6 25.exf6+ Ndxf6 26.Rde1 Rf8 27.c3 Ne8 28.Nd3 Rxf1 29.Rxf1 Rf7 30.Re1 Nd6 31.Bc2 Nc4+ 32.Kb3 Rf3 33.h4 Kf6 34.axb5 cxb5 35.Rg1 Bc8 36.g5+ hxg5 37.hxg5+ Kg7 38.Ra1 Bf5 39.Rxa6 Ned2+ 0-1

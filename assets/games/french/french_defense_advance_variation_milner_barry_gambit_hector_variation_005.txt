@@ -1,0 +1,14 @@
+[Event "Round 4: Karamichos, Michail - Kosmas-Lekkas, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/bZJMNrgY"]
+[Date "2026.07.07"]
+[Round "4.64"]
+[White "Karamichos, Michail"]
+[Black "Kosmas-Lekkas, Dimitrios"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2185"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 h6 10.h5 Rc8 11.Nbd2 dxc3 12.bxc3 Na5 13.Rb1 Qc7 14.Nb3 Nxb3 15.axb3 a6 16.Bd2 Nc6 17.Qe2 Be7 18.Rbc1 Na5 19.Nd4 Nc6 20.Qg4 Bf8 21.Nf3 a5 22.b4 b5 23.Bxb5 Nxe5 24.Nxe5 Bxb5 25.Bf4 Rh7 26.c4 dxc4 27.Nxf7 Qxf7 28.Rxe6+ Kd8 29.Rd1+ Bd7 30.Bg3 Rc7 31.Bxc7+ Kc8 32.Rxd7 Qxd7 33.Bxa5 Kb8 34.Rb6+ 1-0

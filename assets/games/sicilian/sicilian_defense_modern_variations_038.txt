@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.20"]
+[Round "5.3"]
+[White "Nihal Sarin"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2766"]
+[ECO "B50"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 Nc6 5.O-O g6 6.c3 Bg7 7.Re1 O-O 8.a4 b6 9.Bg5 Bb7 10.Nbd2 e6 11.Bb3 h6 12.Be3 Qc7 13.h3 Rad8 14.Nf1 e5 15.Qc1 Kh7 16.N1h2 Na5 17.Bc2 c4 18.dxc4 Bxe4 19.Nd2 Bb7 20.Qd1 d5 21.cxd5 Nxd5 22.Qc1 f5 23.Ndf3 Nc4 24.Bb3 Rfe8 25.Qc2 e4 26.Nd4 Ne5 27.Nf1 Nd3 28.Red1 a6 29.Bd2 Nxf2 30.Kxf2 e3+ 31.Kg1 exd2 32.Rxd2 Nf4 33.Rf2 Nxg2 34.Ne6 Rxe6 35.Bxe6 Nh4 36.Qe2 Qc6 37.Ng3 Re8 38.Re1 f4 0-1

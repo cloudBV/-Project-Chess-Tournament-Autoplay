@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-9-game-2/LHKQOh7P/fteDeYyP"]
+[Date "2026.07.09"]
+[Round "18.2"]
+[White "Chen, Chicheng Leon"]
+[Black "Ilko-Toth, Andras"]
+[Result "0-1"]
+[WhiteElo "2288"]
+[BlackElo "2069"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.c3 Nd7 6.Nf3 Bxc5 7.Nbd2 Qb6 8.Qe2 Qa6 9.Qxa6 bxa6 10.Nb3 Bb6 11.Bd3 Bc7 12.Bf4 Ne7 13.Bg3 Nc6 14.O-O-O Ndxe5 15.Nxe5 Bxe5 16.f4 Bd6 17.c4 Nb4 18.cxd5 Nxd5 19.Be4 Bb7 20.Na5 O-O-O 21.Kb1 f5 22.Nxb7 Kxb7 23.Bxd5+ exd5 24.Rxd5 g6 25.Re1 Bc7 26.Rxd8 Rxd8 27.Re7 h5 28.Re6 Rd6 29.Re7 Kc6 30.Be1 Rd7 31.Re6+ Rd6 32.Re2 Rd4 33.g3 Re4 34.Rxe4 fxe4 35.Bf2 Bb6 36.Bxb6 axb6 37.Kc2 Kc5 38.Kc3 a5 39.a4 Kd5 40.h3 Kc5 41.g4 hxg4 42.hxg4 Kd5 43.g5 e3 44.Kd3 e2 45.Kxe2 0-1

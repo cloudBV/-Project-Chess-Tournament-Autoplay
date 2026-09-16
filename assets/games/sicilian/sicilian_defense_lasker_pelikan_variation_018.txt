@@ -1,0 +1,14 @@
+[Event "Round 7: Skomial, Mateusz - Valli, Frans"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-7/fymOfFBu/598nwkeq"]
+[Date "2026.07.16"]
+[Round "7.7"]
+[White "Skomial, Mateusz"]
+[Black "Valli, Frans"]
+[Result "1/2-1/2"]
+[WhiteElo "2118"]
+[BlackElo "2227"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.a4 a6 8.Na3 Be7 9.Bc4 O-O 10.O-O Be6 11.Re1 Rc8 12.Nd5 Nd7 13.c3 Bg5 14.Ne3 Bxe3 15.Bxe3 Nf6 16.Bg5 h6 17.Bxf6 Qxf6 18.Bd5 Rfd8 19.Qd3 Bxd5 20.Qxd5 Rc7 21.Rad1 Ne7 22.Qa5 Rcd7 23.Nc4 Nc6 24.Qb6 Qe6 25.Ne3 g6 26.Nd5 Kg7 27.f3 Ne7 28.Nxe7 Qxe7 29.Rd5 Rc8 30.Red1 Rc6 31.Qe3 h5 32.b3 Qd8 33.c4 Qc7 34.Qd3 Rd8 35.g3 Re8 36.Kg2 Re6 37.h3 Qb6 38.g4 hxg4 39.hxg4 g5 40.Qc3 Rg6 41.Rh1 Rc8 42.Rh5 Re8 43.a5 Qc7 44.Qd2 Qe7 45.Qc1 Rc8 46.Qh1 Rc5 47.Rh7+ Kf6 48.Qd1 Rxd5 49.Qxd5 Qc7 50.b4 Rg8 51.Rh6+ Ke7 52.Rh7 Kf6 53.Rh6+ Ke7 54.c5 dxc5 55.bxc5 Rd8 56.Rd6 Rxd6 57.Qxe5+ Kd7 58.cxd6 Qxd6 59.Qxg5 b6 60.Qf5+ Ke7 61.axb6 Qxb6 62.Qe5+ Kf8 63.Qh8+ Ke7 64.Qe5+ Kf8 65.Qh8+ 1/2-1/2

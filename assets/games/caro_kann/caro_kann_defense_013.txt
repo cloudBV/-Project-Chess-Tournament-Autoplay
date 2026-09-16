@@ -1,0 +1,15 @@
+[Event "Round 2: Zigo, Viktor - Polak, Tomas"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/Vvj2o80U"]
+[Date "2026.07.17"]
+[Round "2.1"]
+[White "Zigo, Viktor"]
+[Black "Polak, Tomas"]
+[Result "0-1"]
+[WhiteElo "2149"]
+[BlackElo "2443"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 0-1

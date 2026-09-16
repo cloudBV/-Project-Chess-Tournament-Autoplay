@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.12"]
+[Round "12.3"]
+[White "Pressler, Tobias"]
+[Black "Bokhnak, Tymofii"]
+[Result "1-0"]
+[WhiteElo "2070"]
+[BlackElo "2147"]
+[ECO "B40"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nc6 4.d4 cxd4 5.cxd4 d5 6.e5 f6 7.Nc3 Nge7 8.exf6 gxf6 9.Nh4 Qb6 10.Bb5 Bd7 11.Qh5+ Kd8 12.O-O Qxd4 13.Be3 Qe5 14.Qd1 Rg8 15.Re1 Qc7 16.Qd3 Ng6 17.Nxg6 Rxg6 18.f4 f5 19.Kh1 Bd6 20.Rad1 Bxf4 21.Nxd5 exd5 22.Bxf4 Qxf4 23.Qxd5 Rg7 24.Bxc6 bxc6 25.Qxc6 1-0

@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.2"]
+[White "Urkedal, Frode Olav Olsen"]
+[Black "Lund, Gunnar"]
+[Result "0-1"]
+[WhiteElo "2567"]
+[BlackElo "2346"]
+[ECO "C05"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Be7 7.Ndf3 f5 8.Bd3 b6 9.Ne2 Ba6 10.Bxa6 Nxa6 11.O-O Nc7 12.h3 Nf8 13.g4 Qd7 14.Ng3 g6 15.a4 Qc6 16.b3 Nd7 17.Ra2 h5 18.gxh5 gxh5 19.h4 Nf8 20.Ng5 Ng6 21.Rh2 Kd7 22.Be3 a5 23.Nxh5 Raf8 24.Rff2 c4 25.b4 axb4 26.cxb4 Bxb4 27.Nf6+ Kc8 28.h5 Ne7 29.h6 Ng8 30.Nxg8 Rfxg8 31.Rfg2 Qe8 32.Rb2 Ba5 33.Kh1 Rg6 34.h7 Rg7 35.Qh5 Qxa4 36.Rbg2 Bb4 37.Qh6 Bf8 38.Qf6 Qd1+ 39.Bg1 c3 40.Nxe6 Rgxh7 41.Qd8+ Kb7 42.Qxc7+ Rxc7 43.Rxh8 Rc8 44.Kh2 c2 45.Be3 c1=Q 46.Bxc1 Rxc1 47.Rh7+ Kb8 48.Kg3 Qe1+ 49.Rf2 Qg1+ 50.Kh4 Qg4# 0-1

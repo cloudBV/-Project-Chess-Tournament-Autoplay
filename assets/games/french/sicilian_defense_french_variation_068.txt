@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-1/MSVcfeDQ/IKFhmc9v"]
+[Date "2026.07.20"]
+[Round "1.5"]
+[White "Larsen, Karsten"]
+[Black "Kanyamarala, Tarun"]
+[Result "0-1"]
+[WhiteElo "2190"]
+[BlackElo "2435"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 Nf6 5.Bg2 Be7 6.O-O O-O 7.Re1 d5 8.e5 Nd7 9.Nbd2 Qc7 10.Qe2 b5 11.Nf1 Bb7 12.h4 Rfc8 13.Bf4 Qd8 14.N1h2 a5 15.g4 a4 16.g5 a3 17.b3 Bf8 18.Ng4 Ne7 19.h5 Nf5 20.Bh3 c4 21.Ne3 cxd3 22.cxd3 Nxe3 23.fxe3 g6 24.Rf1 Rc3 25.Rad1 Rac8 26.Nd4 Qb6 27.Qf2 Bc5 28.Bg3 Rf8 29.Rd2 b4 30.Rfd1 Be7 31.Bf4 Rfc8 32.Bg4 Rc1 33.Qh4 Rxd1+ 34.Rxd1 Bc5 35.hxg6 hxg6 36.Nc2 d4 37.e4 Bf8 38.Ne1 Rc3 39.Qh2 Ba6 40.Be2 Bg7 41.Bf1 Bb7 42.Rd2 Qc5 43.Nf3 Bxe4 44.Qf2 Bd5 45.Bg2 Rc1+ 46.Bf1 Rc3 47.Bg2 Bxf3 48.Qxf3 Bxe5 49.Rf2 Bxf4 50.Qxf4 Ne5 51.Be4 Rc1+ 52.Kg2 Rc2 53.Rxc2 Qxc2+ 54.Kh3 Nxd3 55.Qb8+ Kg7 56.Bxg6 Nf2+ 57.Kg3 Nh1+ 0-1

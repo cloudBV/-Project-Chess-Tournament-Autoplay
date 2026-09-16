@@ -1,0 +1,15 @@
+[Event "Round 7: Aaditya Dhingra - Poltorak, Sebastian"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-7/ytNNRfaS/yKD2OIPy"]
+[Date "2026.07.24"]
+[Round "7.1"]
+[White "Aaditya Dhingra"]
+[Black "Poltorak, Sebastian"]
+[Result "1/2-1/2"]
+[WhiteElo "2404"]
+[BlackElo "2401"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 f6 5.exf6 Nxf6 6.d4 Bg7 7.Be2 O-O 8.O-O c5 9.dxc5 Nc6 10.Nc3 Kh8 11.Bg5 d4 12.Bxf6 Bxf6 13.Ne4 Bg7 14.a4 Bf5 15.Nfd2 Rc8 16.Ra3 Ne5 17.a5 Qd5 18.Bd3 Bh6 19.b4 a6 20.Ng3 Nc6 21.Bc4 Qd7 22.Rb3 Bf4 23.Be2 Qc7 24.Nc4 Be6 25.Rb1 Rcd8 26.Bd3 Bf7 27.Qe2 h5 28.Rfe1 Rg8 29.Nf1 Kg7 30.g3 Bg5 31.Nfd2 Bxd2 32.Nxd2 Bd5 33.Be4 Rgf8 34.Nf3 Bxe4 35.Qxe4 Rf5 36.Nh4 Rf6 37.f4 d3 38.cxd3 Rd4 39.Qe2 Qd7 40.b5 axb5 41.Rxb5 Rxd3 42.Rxb7 Qd5 43.Rxe7+ Nxe7 44.Qxe7+ Rf7 45.Qe5+ Qxe5 46.Rxe5 Rd2 47.Nf3 Rd3 48.Kf2 Rb7 49.Re2 Rbb3 50.Ne5 Rdc3 51.c6 Ra3 52.Kg2 h4 53.gxh4 Rxa5 54.Rf2 Raa3 55.f5 gxf5 56.Rxf5 Ra2+ 57.Rf2 Rxf2+ 58.Kxf2 Rc5 59.Ng4 Kg6 60.Kg3 Kf5 61.h5 Kg5 62.h3 Rc3+ 63.Kg2 Kxh5 64.Ne5 Rc5 65.Nf3 Rxc6 66.Kg3 Rc4 67.Ne5 Ra4 68.Nf3 Kg6 69.Nh4+ Kf6 70.Nf3 Rb4 71.Nh4 Kg5 72.Nf3+ Kh5 73.Nd2 Rb8 74.Nf3 Rg8+ 75.Kf4 Rg7 76.Nd4 Rg2 77.Nf3 Rg8 78.Ke3 Rb8 79.Kf4 Rb4+ 80.Kg3 Kg6 81.Nh4+ Kg5 82.Nf3+ Kf5 83.Nh4+ Ke4 84.Kg4 Rb1 85.Nf3 Rb4 86.Nh4 Rb2 87.Kg3 Rb8 88.Ng2 Rg8+ 89.Kf2 Kf5 90.Kf3 Kg5 91.Kg3 Kh5+ 92.Kf3 Ra8 93.Kf4 Ra2 94.Kg3 Ra3+ 95.Kf4 Rxh3 96.Ne3 Kg6 97.Nd5 Rh8 98.Ne7+ Kf6 99.Nd5+ Ke6 100.Ne3 Ra8 101.Ng4 Ra3 102.Ne3 Ra4+ 103.Kf3 Ke5 104.Ng4+ Kd5 105.Nf6+ Ke5 106.Ng4+ Kf5 107.Ne3+ Kg5 108.Nd5 Rh4 109.Ne3 Rh3+ 110.Ke4 Rxe3+ 111.Kxe3 1/2-1/2

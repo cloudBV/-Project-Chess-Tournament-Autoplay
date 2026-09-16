@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/GLQb4tl6"]
+[Date "2026.07.08"]
+[Round "9.9"]
+[White "Chval, Zdenek"]
+[Black "Stinka, Jakub"]
+[Result "0-1"]
+[WhiteElo "2068"]
+[BlackElo "2352"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 a6 7.f3 b5 8.Qd2 Nbd7 9.g4 Nb6 10.b3 Bb7 11.Bd3 Rc8 12.a4 d5 13.axb5 Bb4 14.bxa6 Bxc3 15.axb7 Bxd2+ 16.Kxd2 dxe4 17.Nxe6 Rxc2+ 18.Kxc2 exd3+ 19.Kd2 fxe6 20.Bxb6 Qxb6 21.Ra8+ Kf7 22.Rha1 0-1

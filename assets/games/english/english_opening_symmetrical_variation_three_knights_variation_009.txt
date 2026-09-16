@@ -1,0 +1,15 @@
+[Event "Round 9: Sutormin, Danila - Baitleu, Syrym"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/gptR7nNY"]
+[Date "2026.07.11"]
+[Round "9.9"]
+[White "Sutormin, Danila"]
+[Black "Baitleu, Syrym"]
+[Result "1/2-1/2"]
+[WhiteElo "2368"]
+[BlackElo "2245"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 g6 4.e4 Bg7 5.d4 cxd4 6.Nxd4 d6 7.Be2 O-O 8.O-O Nc6 9.Be3 Bd7 10.Nc2 Qa5 11.f3 Rfc8 12.Qd2 Ne5 13.Na3 Be6 14.Nd5 Qxd2 15.Bxd2 Nxd5 16.cxd5 Bd7 17.Rac1 f5 18.h3 fxe4 19.fxe4 Bf6 20.Rxc8+ Rxc8 21.Rc1 1/2-1/2

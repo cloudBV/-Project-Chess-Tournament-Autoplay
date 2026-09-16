@@ -1,0 +1,15 @@
+[Event "Round 5: Rehnberg, Karl-Oskar - Ronneland, Daniel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-5/pUKTxaHu/ASSkDFCw"]
+[Date "2026.07.01"]
+[Round "5.8"]
+[White "Rehnberg, Karl-Oskar"]
+[Black "Ronneland, Daniel"]
+[Result "1-0"]
+[WhiteElo "2035"]
+[BlackElo "2104"]
+[ECO "B48"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 d6 8.Nxc6 bxc6 9.Bc4 Nf6 10.Bb3 Be7 11.O-O O-O 12.Rfd1 c5 13.Qe2 Bb7 14.Bf4 e5 15.Bg5 h6 16.Bxf6 Bxf6 17.Bd5 Be7 18.b3 Kh8 19.Bxb7 Qxb7 20.Nd5 f5 21.f3 Bg5 22.exf5 Rxf5 23.Qe4 Rf7 24.c4 a5 25.Nc3 Qxe4 26.Nxe4 Be3+ 27.Kf1 Bd4 28.Rab1 Ra6 29.Ke2 Rfa7 30.a4 Rb6 31.Rd3 Rab7 32.g4 Kg8 33.h4 Kf7 34.h5 Ke6 35.Ng3 Rb4 36.Nf5 Rxa4 37.Nxg7+ Kf7 38.Nf5 Ra2+ 39.Rd2 Rxd2+ 40.Kxd2 Ke6 41.Nxh6 a4 42.Kc2 a3 43.Nf5 a2 44.Nxd4+ exd4 45.Ra1 Ra7 46.Kb2 d3 47.f4 d5 48.cxd5+ Kxd5 49.Kc3 Ke4 50.f5 Ke3 51.f6 Ke2 52.g5 d2 53.Kc2 c4 54.bxc4 Ra4 55.f7 Rxc4+ 56.Kb3 Rc1 57.Rxa2 Rb1+ 58.Ka3 Rf1 59.g6 Ke1 60.Ra1+ Ke2 61.Rxf1 Kxf1 62.f8=Q+ Ke2 63.Qd6 d1=Q 64.Qxd1+ 1-0

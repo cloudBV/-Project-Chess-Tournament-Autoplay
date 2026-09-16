@@ -1,0 +1,15 @@
+[Event "Round 9: Zahedifar, Anahita - Azali, Tannaz"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-9/nhdOdRkd/QlzZm2SE"]
+[Date "2026.07.17"]
+[Round "9.2"]
+[White "Zahedifar, Anahita"]
+[Black "Azali, Tannaz"]
+[Result "1-0"]
+[WhiteElo "2139"]
+[BlackElo "2109"]
+[ECO "A28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.d3 d6 6.Be2 Bg4 7.O-O Bc5 8.Ne1 Bxe2 9.Nxe2 O-O 10.Nc2 a5 11.h3 Ne7 12.Kh1 Nd7 13.f4 f5 14.Ng3 exf4 15.Bxf4 fxe4 16.Nxe4 Ng6 17.Bg5 Qe8 18.Qd2 Rxf1+ 19.Rxf1 Qe6 20.Qe1 Qe5 21.b3 Bb6 22.Bd2 Rf8 23.Rxf8+ Ndxf8 24.Bc3 Qf5 25.Nd4 Bxd4 26.Bxd4 b6 27.Qf2 Qxf2 28.Bxf2 Ne6 29.d4 Kf8 30.d5 Nef4 31.Bd4 h6 32.Nc3 Nd3 33.Nb5 Nb4 34.Nxc7 Nxa2 35.Ne6+ Kf7 36.Bxb6 Nc1 37.Nd4 a4 38.bxa4 Ne5 39.Bc7 Ncd3 40.a5 1-0

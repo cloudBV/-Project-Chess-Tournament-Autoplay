@@ -1,0 +1,14 @@
+[Event "Round 2: Fomkin, Dmitry - Atienza Alvarez, Javier"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/n6OI3YQa"]
+[Date "2026.07.05"]
+[Round "2.25"]
+[White "Fomkin, Dmitry"]
+[Black "Atienza Alvarez, Javier"]
+[Result "1/2-1/2"]
+[WhiteElo "2358"]
+[BlackElo "2084"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 b6 5.b3 Bb7 6.Bb2 Bd6 7.Bd3 Nbd7 8.O-O O-O 9.Nc3 c5 10.cxd5 exd5 11.dxc5 bxc5 12.Rc1 Qe7 13.Nb5 Bb8 14.Ba3 a6 15.Nbd4 g6 16.Qd2 Bd6 17.Ne2 Rfe8 18.Ng3 Ng4 1/2-1/2

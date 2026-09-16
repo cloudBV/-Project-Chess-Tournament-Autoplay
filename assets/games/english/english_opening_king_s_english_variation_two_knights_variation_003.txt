@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "10.5"]
+[White "Rozanski, Mateusz"]
+[Black "Khimichenko, Dmytro"]
+[Result "1/2-1/2"]
+[WhiteElo "2213"]
+[BlackElo "2013"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+
+1.c4 e5 2.Nc3 Nf6 3.e3 Nc6 4.d4 exd4 5.exd4 d5 6.Be3 Be7 7.h3 O-O 8.Nf3 h6 9.Bd3 Be6 10.cxd5 Nxd5 11.O-O Qd7 12.Bb5 Bd6 13.Ne4 a6 14.Bxc6 Qxc6 15.Rc1 Qd7 16.Nxd6 Qxd6 17.b3 Rfd8 18.Ne5 Rac8 19.Qf3 Nxe3 20.fxe3 Qd5 21.Qxd5 Bxd5 22.Nd3 Re8 23.Nf4 c6 24.Rfe1 Kf8 25.Rc5 Rcd8 26.Kf2 Rd6 27.Rcc1 Rf6 28.Kg1 Rd6 29.Re2 g5 30.Nd3 Be4 31.Nc5 Re7 32.Rf2 Kg7 33.Rcf1 Bd5 34.Re1 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.3"]
+[White "Khoo-Thwe, Louis"]
+[Black "Engelsen, Teodor Tenfjord"]
+[Result "0-1"]
+[WhiteElo "2268"]
+[BlackElo "2227"]
+[ECO "B38"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 Qb6 7.Nb3 Qd8 8.Qd2 Nf6 9.Nc3 Ng4 10.Bf4 O-O 11.Be2 d6 12.h3 Nf6 13.O-O a5 14.Be3 a4 15.Nd4 Qa5 16.Ndb5 Bd7 17.f4 Rfd8 18.Rad1 Nb8 19.e5 Ne8 20.Nd5 Qxd2 21.Rxd2 Bxb5 22.cxb5 Kf8 23.Nb6 Ra5 24.Rc1 g5 25.g3 gxf4 26.gxf4 Bh6 27.Rdc2 dxe5 28.Rc8 Rd6 29.Rxb8 exf4 30.Rcc8 fxe3 31.Rxe8+ Kg7 32.Rg8+ Kf6 33.Nc4 Rd2 34.Nxd2 0-1

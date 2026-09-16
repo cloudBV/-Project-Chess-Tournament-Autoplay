@@ -1,0 +1,15 @@
+[Event "Round 4: Omonov, Asrorjon - Kantor, Gergely"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/o9jfiq6o"]
+[Date "2026.07.01"]
+[Round "4.1"]
+[White "Omonov, Asrorjon"]
+[Black "Kantor, Gergely"]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2537"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 a6 6.dxc5 e6 7.c4 Bxc5 8.a3 O-O 9.cxd5 Nxd5 10.Bg3 e5 11.Bc4 Nb6 12.Ba2 Bf5 13.Rc1 Bd6 14.O-O Kh8 15.Qe2 Qe7 16.Nh4 Be6 17.Bxe6 Qxe6 18.Ne4 f5 19.Nxd6 Qxd6 20.Rfd1 Qh6 21.Nf3 Rae8 22.Qc2 f4 23.exf4 exf4 24.Bh4 Qh5 25.Qb3 Qb5 1/2-1/2

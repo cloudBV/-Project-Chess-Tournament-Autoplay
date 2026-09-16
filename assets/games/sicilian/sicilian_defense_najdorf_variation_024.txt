@@ -1,0 +1,14 @@
+[Event "Round 1: Ketzetzis, Georgios - Gkoumas, Georgios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/habsqwAZ"]
+[Date "2026.07.10"]
+[Round "1.51"]
+[White "Ketzetzis, Georgios"]
+[Black "Gkoumas, Georgios"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2439"]
+[ECO "B95"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qf3 h6 8.Be3 Nbd7 9.O-O-O Qc7 10.Be2 b5 11.a3 Rb8 12.Kb1 b4 13.axb4 Rxb4 14.Nb3 Bb7 15.Rd4 Rxd4 16.Bxd4 Be7 17.Qg3 e5 18.Be3 Nxe4 19.Nxe4 Bxe4 20.Rc1 g6 21.Bxa6 O-O 22.Bxh6 Ra8 23.Bd3 Bxd3 24.Qxd3 Qa7 25.c3 Qa2+ 26.Kc2 Rb8 27.Nd2 Nc5 28.Qg3 Rxb2+ 29.Kd1 Bf8 30.Bg5 f6 31.Be3 Kf7 32.Qg4 d5 33.Qh3 Nd3 34.Qd7+ Be7 35.c4 Nxc1 36.Qxd5+ Kg7 37.Qd7 Kf7 38.Qd5+ Kf8 39.Ne4 Qb3+ 40.Ke1 Nd3+ 0-1

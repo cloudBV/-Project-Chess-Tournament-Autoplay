@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.7"]
+[White "Valvag, Torbjorn"]
+[Black "Machlik, Monika"]
+[Result "1/2-1/2"]
+[WhiteElo "2104"]
+[BlackElo "2085"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 1/2-1/2

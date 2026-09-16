@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Toroptseva, Yevheniia"]
+[Black "Kawka, Milena"]
+[Result "1-0"]
+[WhiteElo "2042"]
+[BlackElo "2039"]
+[ECO "B12"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Be3 Nd7 6.Bb5 Ne7 7.Bxd7+ Bxd7 8.Bd4 Nf5 9.c3 a5 10.Nf3 a4 11.b4 axb3 12.Qxb3 Qc7 13.O-O Ra5 14.Qb6 Qxb6 15.cxb6 Nxd4 16.Nxd4 Ra6 17.Nd2 Bc5 18.Rfb1 Ke7 19.Nb5 Rxb6 20.a4 Ra8 21.Nb3 Rc6 22.a5 Rcc8 23.N3d4 f6 24.f4 fxe5 25.fxe5 Ra6 26.Kf2 b6 27.Nd6 Bxd4+ 28.cxd4 Rc2+ 29.Kf3 Rxa5 30.Rxa5 bxa5 31.Rb7 a4 32.Ra7 Rd2 33.Nb7 Ke8 34.Nc5 Bb5 35.Nxe6 Rd3+ 36.Kf4 Bc4 37.Nxg7+ Kf8 38.e6 Rd1 39.e7+ 1-0

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.4"]
+[White "Moroni, Luca Jr"]
+[Black "Domanskiy, Mykola"]
+[Result "1-0"]
+[WhiteElo "2524"]
+[BlackElo "2225"]
+[ECO "A36"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Qd2 e6 7.h4 h6 8.h5 g5 9.f4 g4 10.Bxc6+ bxc6 11.e4 f5 12.b3 Nf6 13.Bb2 O-O 14.Nge2 d5 15.e5 Nd7 16.Na4 Re8 17.d4 Bf8 18.Ba3 dxc4 19.dxc5 cxb3 20.axb3 Ba6 21.Rd1 Bxe2 22.Kxe2 Re7 23.Qc3 Qc8 24.Qc4 Re8 25.Rd3 Nb8 26.Rhd1 Na6 27.Rd6 Nc7 28.Nc3 Nd5 29.Nxd5 cxd5 30.Qa6 Bxd6 31.Qxc8 Raxc8 32.exd6 Rc6 33.Kd3 Kf7 34.Ra1 a6 35.Bb4 Rb8 36.Ra4 Rb7 37.Kd4 Kf6 38.Ba5 Kf7 39.b4 Ke8 40.Bb6 Rcxb6 41.cxb6 Kd7 42.Kc5 d4 43.Rxa6 d3 44.Ra7 d2 45.Rxb7+ Kd8 46.Kc6 1-0

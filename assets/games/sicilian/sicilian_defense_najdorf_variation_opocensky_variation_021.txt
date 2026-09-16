@@ -1,0 +1,14 @@
+[Event "Round 2: Shukhman, Anna - Liu, Bei"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/IeYnYEhJ"]
+[Date "2026.07.14"]
+[Round "2.10"]
+[White "Shukhman, Anna"]
+[Black "Liu, Bei"]
+[Result "1-0"]
+[WhiteElo "2443"]
+[BlackElo "2175"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.Nd5 Nbd7 10.Qd3 Bxd5 11.exd5 O-O 12.g4 Ne8 13.h4 g6 14.O-O-O Bxh4 15.Rh3 Ng7 16.Rdh1 g5 17.Nd2 f5 18.gxf5 Nxf5 19.Nf3 Qf6 20.Rg1 Kh8 21.Bxg5 Bxg5+ 22.Nxg5 h6 23.Ne4 Qe7 24.Bg4 Qg7 25.Qd1 Nd4 26.Rgh1 Nf6 27.Rxh6+ Kg8 28.Be6+ Nxe6 29.dxe6 Nxe4 30.Qh5 1-0

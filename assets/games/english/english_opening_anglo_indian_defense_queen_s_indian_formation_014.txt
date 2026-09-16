@@ -1,0 +1,14 @@
+[Event "Round 3: Ghosh, Diptayan - Cao, Qingfeng"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/HRl5k49x"]
+[Date "2026.07.15"]
+[Round "3.3"]
+[White "Ghosh, Diptayan"]
+[Black "Cao, Qingfeng"]
+[Result "1/2-1/2"]
+[WhiteElo "2554"]
+[BlackElo "2365"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 c5 4.Bg2 Bb7 5.O-O g6 6.d4 cxd4 7.Qxd4 Bg7 8.Nc3 Na6 9.Be3 Rc8 10.Qh4 Nc5 11.Rfd1 O-O 12.Rac1 Nce4 13.Nxe4 Bxe4 14.Bd4 Re8 15.b3 Qc7 16.Bh3 Ba8 17.Be5 Qb7 18.Qf4 Rcd8 19.Bg2 Nh5 20.Qe3 Qe4 21.Qxe4 Bxe4 22.Bxg7 Kxg7 23.Nd4 Bxg2 24.Kxg2 d6 25.Nb5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Alpin, Maxim - Amin-Erdene, Bayanmunkh"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/9gEGtbOr"]
+[Date "2026.07.17"]
+[Round "7.13"]
+[White "Alpin, Maxim"]
+[Black "Amin-Erdene, Bayanmunkh"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2091"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.d4 Bg7 3.g3 f5 4.Bg2 Nf6 5.Nh3 d6 6.d5 Nbd7 7.Nf4 Nc5 8.h4 e5 9.dxe6 Nxe6 10.Nxe6 Bxe6 11.Bxb7 Rb8 12.Qa4+ Nd7 13.Bg5 Bf6 14.Qxa7 Bxg5 15.hxg5 Qxg5 16.Nc3 O-O 17.b3 f4 18.gxf4 Qxf4 19.Bd5 Rbe8 20.Qe3 Qf6 21.Rd1 Bxd5 22.Nxd5 Qf7 23.Qg3 Nc5 24.Qh4 Ne4 25.f3 Re5 26.Qh6 c6 27.fxe4 cxd5 28.Rxd5 Rxe4 29.Kd1 Rfe8 30.Rd2 R8e7 31.Qh2 Qf6 32.Kc2 Qf5 33.Kc1 Qf6 34.Kc2 Qf5 35.Qh3 Rxc4+ 36.Kb2 Qe5+ 37.Kb1 Rc5 38.Qd3 d5 39.Rhd1 Rec7 40.Qd4 Qxd4 41.Rxd4 Rc2 42.R1d2 Rxd2 43.Rxd2 h5 44.Rxd5 h4 45.a4 h3 46.Rd8+ Kg7 47.Rd3 h2 48.Rh3 Rc3 49.Rxh2 Rxb3+ 50.Ka2 Re3 51.Kb2 g5 52.Rg2 Kg6 53.Kc2 Kf5 54.Kd2 Ke5 1/2-1/2

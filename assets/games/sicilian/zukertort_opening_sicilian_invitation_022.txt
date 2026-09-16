@@ -1,0 +1,14 @@
+[Event "Round 1: Etienne, Ghilon - Senthil Maran K"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/tTt5fV0J"]
+[Date "2026.07.21"]
+[Round "1.26"]
+[White "Etienne, Ghilon"]
+[Black "Senthil Maran K"]
+[Result "0-1"]
+[WhiteElo "2016"]
+[BlackElo "2295"]
+[ECO "A04"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 g6 3.Bg2 Bg7 4.O-O Nc6 5.d3 d5 6.e4 d4 7.a4 e5 8.Nfd2 Nge7 9.f4 O-O 10.Nc4 Be6 11.Nbd2 Qc7 12.Nf3 Bxc4 13.dxc4 Rad8 14.Ne1 exf4 15.gxf4 Na5 16.Qe2 Rfe8 17.Ra3 Nf5 18.Rh3 Ne3 19.Bxe3 dxe3 20.e5 Rd2 21.Qxe3 Nxc4 22.Qc3 Rd4 23.Rh4 Rxe5 24.fxe5 Rf4 25.Rg4 Rxg4 26.Qf3 Rh4 27.Qg3 Rh5 28.e6 Qxg3 29.exf7+ Kf8 30.hxg3 Bd4+ 31.Rf2 Rf5 32.Nf3 Bxf2+ 33.Kxf2 Nxb2 34.g4 Rxf7 35.Kg3 Nxa4 36.Ng5 a5 37.Nxf7 Kxf7 38.Bxb7 Nc3 39.Kf3 a4 40.Ba6 a3 41.Bc4+ Kf6 42.Kf4 g5+ 43.Ke3 a2 44.Bxa2 Nxa2 45.Kd3 Nb4+ 0-1

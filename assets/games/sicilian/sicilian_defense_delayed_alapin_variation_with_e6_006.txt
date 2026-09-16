@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.2"]
+[White "Cnejev, Vladimir-Alexandru"]
+[Black "Ratajczak, Hubert"]
+[Result "0-1"]
+[WhiteElo "2327"]
+[BlackElo "2243"]
+[ECO "B40"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.e5 d4 5.d3 Bd7 6.g3 Bc6 7.Bg2 Ne7 8.O-O Nf5 9.Re1 Be7 10.Na3 O-O 11.Nc2 dxc3 12.bxc3 Qd7 13.Qe2 Rd8 14.Rd1 Na6 15.Bb2 Nc7 16.c4 b5 17.d4 bxc4 18.dxc5 Bd5 19.g4 Nh6 20.Ne3 Bxc5 21.h3 Qb5 22.Bc3 Qc6 23.a4 Rab8 24.Nxd5 Nxd5 25.Ba5 Rd7 26.Nd4 Qa6 27.Be1 Nf4 28.Qe4 Nd3 29.Bc3 Rbd8 30.Qc6 Qxc6 31.Nxc6 Nxf2 32.Rxd7 Rxd7 33.Kf1 g6 34.Ke2 Kg7 35.Rb1 Ng8 36.Na5 Nd3 37.Nxc4 Nf4+ 38.Kf3 Rd3+ 39.Kxf4 Rxc3 40.Nd6 h6 41.h4 g5+ 42.hxg5 hxg5+ 43.Kxg5 Be3+ 44.Kh4 Ne7 45.Be4 Bf2+ 46.Kg5 Rh3 47.Nc4 Nd5 48.Rf1 Bh4+ 0-1

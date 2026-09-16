@@ -1,0 +1,14 @@
+[Event "Round 5: Djukic, Nikola - Kacprzak, Karol"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/btDt3qd2"]
+[Date "2026.07.07"]
+[Round "5.11"]
+[White "Djukic, Nikola"]
+[Black "Kacprzak, Karol"]
+[Result "1/2-1/2"]
+[WhiteElo "2470"]
+[BlackElo "2345"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.Nf3 d6 6.O-O Be6 7.Ng5 Bd7 8.Rb1 Qc8 9.Nd5 Nf6 10.a3 h6 11.Nxf6+ Bxf6 12.Ne4 Bg7 13.b4 b6 14.Bb2 Bxb2 15.Rxb2 Bh3 16.Bxh3 Qxh3 17.f4 O-O 18.b5 Na5 19.d3 Qe6 20.Nd2 d5 21.cxd5 Qxd5 22.Qc1 Rac8 23.Rc2 Qd4+ 24.Kg2 Qd5+ 25.Kg1 Qd4+ 1/2-1/2

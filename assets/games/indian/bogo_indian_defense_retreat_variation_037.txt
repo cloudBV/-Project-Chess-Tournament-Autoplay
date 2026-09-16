@@ -1,0 +1,15 @@
+[Event "Round 3: Kleymenova, Valeria - Ton, Nu Quynh Duong"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-3/26bMCxJP/LcSCNgCs"]
+[Date "2026.07.16"]
+[Round "3.1"]
+[White "Kleymenova, Valeria"]
+[Black "Ton, Nu Quynh Duong"]
+[Result "1/2-1/2"]
+[WhiteElo "2262"]
+[BlackElo "2009"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.d4 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O b6 8.cxd5 exd5 9.Nc3 Bb7 10.Ne5 Nbd7 11.Qa4 Nxe5 12.dxe5 Ne4 13.Nxe4 dxe4 14.Rfd1 f5 15.exf6 Bxf6 16.Bxe4 Bxe4 17.Qxe4 Bxb2 18.Bc3 Bxa1 19.Rxd8 Raxd8 20.Bxa1 Rd1+ 21.Kg2 Rxa1 22.Qb7 c5 23.Qxa7 Rb1 24.Qe7 h6 25.h4 Rb2 26.Qe5 Rb4 27.a3 Rb1 28.Qe6+ Kh8 29.Qe7 Rc8 30.g4 Rd1 31.g5 hxg5 32.hxg5 Rdd8 33.g6 c4 34.Qh4+ Kg8 35.Qh7+ Kf8 36.Qh8+ Ke7 37.Qxg7+ Ke6 38.Qc3 Rg8 39.f4 Rxg6+ 40.Kf2 Rgg8 41.a4 Rge8 42.e4 Red8 43.f5+ Kf7 44.e5 Ke7 45.Qh3 Kd7 46.f6+ Kc7 47.f7 Rf8 48.Qe6 c3 49.Qb3 Kd7 50.Qd5+ Ke7 51.Qb7+ Ke6 52.Qxb6+ Kxe5 53.Qe3+ Kf6 54.Qf4+ Ke7 55.Ke2 c2 56.Qe5+ Kxf7 57.Qf5+ 1/2-1/2

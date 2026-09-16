@@ -1,0 +1,15 @@
+[Event "Round 4: Temizer, Umut - Dhulipalla Bala Chandra Prasad"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/AE1DaCae"]
+[Date "2026.07.15"]
+[Round "4.9"]
+[White "Temizer, Umut"]
+[Black "Dhulipalla Bala Chandra Prasad"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2426"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 Na6 8.Ne2 Nc7 9.O-O O-O 10.Qc2 g6 11.c4 Re8 12.Be3 Ne6 13.Rad1 Bd7 14.Qd2 Rc8 15.b4 Bb8 16.d5 cxd5 17.cxd5 Ng5 18.Rc1 h5 19.Bf4 Rxc1 20.Rxc1 h4 21.Bxb8 Qxb8 22.Qf4 Qxf4 23.Nxf4 h3 24.f3 hxg2 1/2-1/2

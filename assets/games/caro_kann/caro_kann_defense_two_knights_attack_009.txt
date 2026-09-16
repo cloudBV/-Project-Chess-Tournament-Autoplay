@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.8"]
+[White "Verbin, Valentina"]
+[Black "Brattgjerd, Isak Vinh"]
+[Result "0-1"]
+[WhiteElo "2110"]
+[BlackElo "2255"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Na6 6.a3 Bf5 7.d3 Bxe4 8.dxe4 e5 9.Bd2 Bd6 10.Qe3 Nc5 11.Bb4 Qe7 12.Nd2 a5 13.Bxc5 Bxc5 14.Qg3 h5 15.Be2 Rd8 16.O-O-O O-O 17.Qf3 Ng4 18.Nb3 Bb6 19.Rdf1 a4 20.Na1 Nf6 21.h3 Rd4 22.Bd3 Rfd8 23.g4 Qe6 24.g5 Qa2 25.gxf6 Qxa1+ 26.Kd2 Rxd3+ 27.Qxd3 Rxd3+ 28.Kxd3 Qxb2 29.c3 Ba5 30.Rb1 Qxc3+ 31.Ke2 Qc2+ 32.Kf3 Qd3+ 33.Kg2 Qxe4+ 0-1

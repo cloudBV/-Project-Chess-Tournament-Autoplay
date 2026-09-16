@@ -1,0 +1,14 @@
+[Event "Round 2: Becker Newmark, Jeronimo - Arrieta Hernandez, Cristian"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-2/T2G4VuYH/ccNt7d39"]
+[Date "2026.07.11"]
+[Round "2.1"]
+[White "Becker Newmark, Jeronimo"]
+[Black "Arrieta Hernandez, Cristian"]
+[Result "0-1"]
+[WhiteElo "2041"]
+[BlackElo "2464"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c5 3.e3 e6 4.Nd2 Nc6 5.Ngf3 d5 6.c3 Be7 7.Bd3 O-O 8.Ne5 Qb6 9.Rb1 cxd4 10.exd4 Bd6 11.O-O Bxe5 12.dxe5 Nd7 13.Re1 f6 14.Qh5 f5 15.Nf3 Nd8 16.Ng5 h6 17.Nf3 Nf7 18.Nd4 Nc5 19.Bc2 Bd7 20.b4 Ne4 21.Re3 Nxc3 22.Rg3 Qxd4 23.Qg6 Ne2+ 24.Kh1 Nxg3+ 25.hxg3 Qxf2 26.Bb3 Qe2 27.Rc1 Nh8 0-1

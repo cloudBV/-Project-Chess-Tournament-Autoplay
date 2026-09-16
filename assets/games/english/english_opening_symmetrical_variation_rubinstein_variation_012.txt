@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.24"]
+[Round "9.2"]
+[White "Xu, Yinglun"]
+[Black "Yan, Tianqi"]
+[Result "1-0"]
+[WhiteElo "2537"]
+[BlackElo "2197"]
+[ECO "A34"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Rubinstein Variation"]
+
+1.c4 Nf6 2.g3 c5 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nc7 6.Nf3 Nc6 7.a3 e5 8.b4 cxb4 9.axb4 Bxb4 10.Nxe5 Bxc3 11.Nxc6 bxc6 12.dxc3 Qxd1+ 13.Kxd1 Bd7 14.Ra5 O-O 15.Kc2 Rfe8 16.Re1 g6 17.Bf4 Nb5 18.e4 Be6 19.Bf1 Red8 20.f3 Rd7 21.Be3 Nd6 22.Rc5 Rc8 23.Ra1 Nb7 24.Re5 a5 25.Ba6 Ra8 26.Bxb7 Rxb7 27.Rexa5 Rab8 28.Bc1 Bb3+ 29.Kd2 Rd8+ 30.Ke3 Bc4 31.Kf4 Rb3 32.Ra8 Rxa8 33.Rxa8+ Kg7 34.Rc8 Bb5 35.Be3 h6 36.h4 Kf6 37.Re8 g5+ 38.hxg5+ hxg5+ 39.Kg4 c5 40.Rd8 Rxc3 41.Bxg5+ Kg6 42.Rd6+ Kh7 43.Rf6 Kg8 44.Bd2 Rd3 45.Ba5 c4 46.Rb6 Bd7+ 47.Kf4 Be6 48.Rc6 Ra3 49.Bb4 Rb3 50.Be1 Rb1 51.Bf2 Rb2 52.Bd4 Rd2 53.Be5 Rd3 54.g4 Kh7 55.Bf6 1-0

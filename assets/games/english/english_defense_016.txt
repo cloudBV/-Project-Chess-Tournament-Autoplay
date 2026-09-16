@@ -1,0 +1,15 @@
+[Event "Round 5: Vitak, Jiri - Walek, Petr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/il41fR9P"]
+[Date "2026.07.18"]
+[Round "5.7"]
+[White "Vitak, Jiri"]
+[Black "Walek, Petr"]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2311"]
+[ECO "A40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.Nf3 Bb7 4.g3 Bb4+ 5.Bd2 Bxf3 6.exf3 Bxd2+ 7.Qxd2 Nf6 8.Nc3 d5 9.f4 O-O 10.Bg2 Nc6 11.O-O Ne7 12.b4 Rb8 13.c5 bxc5 14.bxc5 Nc6 15.Rfb1 Qd7 16.f3 Na5 17.Bf1 Nc4 18.Qc1 a5 19.Bd3 g6 20.Bc2 Nh5 21.Ba4 Qe7 22.Bb5 Qf6 23.Ne2 Qf5 24.Rb3 a4 25.Bxa4 Rxb3 26.axb3 Qd3 27.Kf2 Na5 28.b4 Nb7 29.Ra3 Qc4 30.Qxc4 dxc4 31.Bb5 Rb8 32.Bxc4 c6 33.Nc3 Nf6 34.b5 cxb5 35.Bxb5 Nd8 36.Ke3 Kf8 37.Kd3 Nd5 38.Nxd5 exd5 39.Ba4 Rb4 40.Bd7 Rb7 41.c6 Rc7 42.Ra5 Nxc6 43.Bxc6 Rxc6 44.Rxd5 Ra6 45.Re5 Ra3+ 46.Kc4 Rxf3 47.Re2 h5 48.d5 Rf1 49.d6 Rd1 50.Kc5 h4 51.Kc6 Rc1+ 52.Kb7 Rb1+ 53.Kc7 Rc1+ 54.Kd8 hxg3 55.hxg3 Rc3 56.g4 Rc4 57.d7 Rxf4 58.Re8+ Kg7 59.Kc7 Rc4+ 60.Kb6 Rd4 61.d8=Q Rxd8 62.Rxd8 Kf6 63.Rd5 Ke6 64.Kc5 f5 65.gxf5+ gxf5 66.Kd4 1-0

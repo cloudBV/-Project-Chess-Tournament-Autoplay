@@ -1,0 +1,14 @@
+[Event "Round 9: Pingin, Artem - Alexiadis, Hristos"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/Qal2Pgpc"]
+[Date "2026.07.22"]
+[Round "9.12"]
+[White "Pingin, Artem"]
+[Black "Alexiadis, Hristos"]
+[Result "1-0"]
+[WhiteElo "2477"]
+[BlackElo "2365"]
+[ECO "B93"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 a6 6.f4 e5 7.Nf3 Qc7 8.a4 Be7 9.Bd3 O-O 10.O-O Nc6 11.Kh1 exf4 12.Bxf4 Be6 13.Nd5 Bxd5 14.exd5 Ne5 15.Nxe5 dxe5 16.Bg3 Rad8 17.c4 b5 18.cxb5 axb5 19.Bxb5 Rxd5 20.Qb3 Rd4 21.Rac1 Qb8 22.Bf2 Rb4 23.Qc2 Ne4 24.Be1 Rd4 25.Qe2 Bg5 26.Rc2 Nd6 27.Bc6 e4 28.b4 Rxb4 29.Bxb4 Qxb4 30.Qe1 Qb3 31.Qc3 Qxc3 32.Rxc3 Bd2 33.Rc5 e3 34.Bf3 Ne4 35.Re5 Nf2+ 36.Kg1 Nd3 37.Re7 Nc5 38.Bd5 g6 39.Bxf7+ Kh8 40.Be8 Kg8 41.Bb5 Rxf1+ 42.Kxf1 Kh8 43.Ke2 Nb3 44.Bc4 Nd4+ 45.Kd1 Nc6 46.Rc7 1-0

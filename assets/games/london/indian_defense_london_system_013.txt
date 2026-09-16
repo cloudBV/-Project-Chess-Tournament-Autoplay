@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "5.2"]
+[White "Lyakh, Vasiliy"]
+[Black "Zareba, Piotr"]
+[Result "1-0"]
+[WhiteElo "2334"]
+[BlackElo "2228"]
+[ECO "A46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d5 4.e3 Bd6 5.Bd3 O-O 6.Ne5 Nbd7 7.Nd2 Qe7 8.Qf3 c5 9.c3 Ne8 10.Qh3 f5 11.Qg3 Ndf6 12.Qh4 Ne4 13.Qxe7 Bxe7 14.h4 N8f6 15.h5 Bd6 16.f3 Nxd2 17.Kxd2 Rd8 18.a4 b6 19.a5 c4 20.Bc2 b5 21.g4 fxg4 22.fxg4 Bxe5 23.dxe5 Nxg4 24.Ke2 Nh6 25.Bxh6 gxh6 26.Rhg1+ Kh8 27.Raf1 Ba6 28.Rf7 Rf8 29.Rxh7# 1-0

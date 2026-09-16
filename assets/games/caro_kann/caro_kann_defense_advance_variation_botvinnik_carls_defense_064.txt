@@ -1,0 +1,14 @@
+[Event "Round 4: Dong, Hongfu - El-Mais, Ibaa"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-4/xI74yWxD/k4NnOLL6"]
+[Date "2026.07.19"]
+[Round "4.13"]
+[White "Dong, Hongfu"]
+[Black "El-Mais, Ibaa"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2012"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Qh5 Bxc5 6.Bd3 Nd7 7.Nf3 Nf8 8.O-O Ne7 9.Nbd2 Nfg6 10.Nb3 Bb6 11.Bg5 Bd7 12.c4 dxc4 13.Bxc4 Qc7 14.Rac1 Bc6 15.Nbd4 O-O 16.Nxc6 Nxc6 17.Bd3 Ncxe5 18.Rxc7 Bxc7 19.Nxe5 Bxe5 20.Qe2 Bf6 21.Bxf6 gxf6 22.Rc1 Rac8 23.Rxc8 Rxc8 24.g3 Kg7 25.f4 f5 26.Kg2 Ne7 27.Qe3 b6 28.Qd4+ Kg8 29.Qd7 Kf8 30.Qxa7 Nd5 31.Qd7 Rc1 32.Kh3 Rd1 33.Qc8+ Kg7 34.Bc4 Ne3 35.Be2 Rd2 36.Qc3+ 1-0

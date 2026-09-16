@@ -1,0 +1,14 @@
+[Event "Round 1.Tiebreaks: Burg, Twan - Sokolov, Ivan"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-1tiebreaks/4RfQLJVm/RV9Y86sR"]
+[Date "2026.06.09"]
+[Round "3.1"]
+[White "Burg, Twan"]
+[Black "Sokolov, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2491"]
+[BlackElo "2567"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.Bd2 a5 9.O-O O-O 10.Re1 Bg4 11.f3 Bh5 12.a3 Bc5+ 13.Kh1 Re8 14.Bg5 Bd4 15.exd5 Bxc3 16.bxc3 Qxd5 17.Bxf6 gxf6 18.Qd2 Bg6 19.Rad1 Kg7 20.h3 Qc5 21.a4 Rad8 22.c4 Rxe1+ 23.Rxe1 Qg5 24.Qxg5 fxg5 25.Re5 h6 26.Bxg6 Kxg6 27.Rxa5 Rd1+ 28.Kh2 Ra1 29.Rc5 Rxa4 30.Rxc6+ f6 31.Rxc7 Ra2 32.c5 Rxc2 33.Rc8 h5 34.h4 gxh4 35.c6 Rc1 36.Rc7 Kf5 37.Rh7 Kg6 38.Rc7 Kf5 39.Rh7 Ke5 1/2-1/2

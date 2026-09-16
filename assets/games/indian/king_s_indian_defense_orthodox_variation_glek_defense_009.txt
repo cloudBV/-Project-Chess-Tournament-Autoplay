@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "6.8"]
+[White "Omelja, Artem"]
+[Black "Chen, Qi b"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2466"]
+[ECO "E94"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6 7.O-O e5 8.Be3 Ng4 9.Bg5 f6 10.Bh4 Nh6 11.d5 g5 12.Bg3 f5 13.exf5 Bxf5 14.Nd2 Nc5 15.Nb3 b6 16.Nxc5 bxc5 17.Bd3 Rb8 18.Rb1 Bxd3 19.Qxd3 Nf5 20.Ne4 h6 21.b3 Qd7 22.f3 Nd4 23.Bf2 g4 24.Bxd4 exd4 25.f4 Qf5 26.g3 a5 27.Nf2 Qxd3 28.Nxd3 Kf7 29.Rfe1 Rfe8 30.Kf2 Kg6 31.Rxe8 Rxe8 32.Re1 Rxe1 33.Kxe1 Kf5 34.Ke2 h5 1/2-1/2

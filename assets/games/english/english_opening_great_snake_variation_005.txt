@@ -1,0 +1,15 @@
+[Event "Round 4: Herdem, Talha - Asgari, Morteza"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/Esq0cGoe"]
+[Date "2026.07.15"]
+[Round "4.37"]
+[White "Herdem, Talha"]
+[Black "Asgari, Morteza"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2169"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nc3 O-O 5.e4 d6 6.Nge2 c5 7.O-O Nc6 8.d3 Bg4 9.f3 Bd7 10.Be3 a6 11.a4 Rc8 12.b3 Nd4 13.Rb1 b5 14.axb5 axb5 15.Nxb5 Nxb5 16.cxb5 Bxb5 17.d4 cxd4 18.Bxd4 e5 19.Bf2 d5 20.Rb2 d4 21.Qd2 h5 22.Rd1 Kh7 23.Bh3 Rb8 24.Qe1 Qe7 25.Nc1 Nd7 26.Nd3 Bxd3 27.Rxd3 Nc5 28.Rd1 Na4 29.Rc2 Rxb3 30.Ra1 Nc3 31.Bf1 Rfb8 32.Bc4 R3b4 33.Bd3 Bh6 0-1

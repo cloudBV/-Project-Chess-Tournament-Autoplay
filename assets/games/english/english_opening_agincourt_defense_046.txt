@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.29"]
+[White "Pascual Garcia, Martin"]
+[Black "Villuendas Valero, Adrian"]
+[Result "0-1"]
+[WhiteElo "2125"]
+[BlackElo "2290"]
+[ECO "A13"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 Bb4 3.e4 d6 4.d4 Nc6 5.Nf3 e5 6.d5 Bxc3+ 7.bxc3 Nce7 8.Bd3 Nf6 9.O-O Ng6 10.Ne1 O-O 11.f4 exf4 12.Bxf4 Ng4 13.c5 dxc5 14.Be2 N4e5 15.Bg3 b6 16.h4 Re8 17.h5 Qg5 18.hxg6 Qxg3 19.gxf7+ Nxf7 20.Qa4 Bg4 21.Rxf7 Kxf7 22.Nf3 Bxf3 23.Bxf3 Kg8 24.Rf1 Qe5 25.c4 Rf8 26.Re1 Rxf3 27.gxf3 Qg3+ 28.Kf1 Qxf3+ 29.Kg1 Qg3+ 30.Kf1 Rf8+ 31.Ke2 Rf2+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 5: Sivakumar, Shaashwath - Andreasyan, Edgar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/ip3OTcRz"]
+[Date "2026.07.07"]
+[Round "5.9"]
+[White "Sivakumar, Shaashwath"]
+[Black "Andreasyan, Edgar"]
+[Result "0-1"]
+[WhiteElo "2194"]
+[BlackElo "2371"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.Nf3 Bg7 6.O-O dxc4 7.a4 Be6 8.Ng5 Bd5 9.e4 h6 10.exd5 hxg5 11.dxc6 Nxc6 12.d5 Nb4 13.Nc3 g4 14.a5 O-O 15.Qa4 Nd3 16.Qxc4 Nxc1 17.Rfxc1 Rb8 18.a6 bxa6 19.Rxa6 Rxb2 20.Nb5 Bh6 21.Rd1 Qc8 22.Qc6 Qf5 23.Rf1 Rc8 24.Nc7 0-1

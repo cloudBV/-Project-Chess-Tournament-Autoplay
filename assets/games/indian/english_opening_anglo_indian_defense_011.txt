@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.12"]
+[White "Jablonski, Wojciech"]
+[Black "Bochniak, Franciszek"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2163"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 c5 5.O-O Nc6 6.cxd5 Nxd5 7.b3 Be7 8.Bb2 O-O 9.Nc3 b6 10.Nxd5 exd5 11.d4 Bb7 12.Rc1 Qd7 13.Qd2 Rfd8 14.Rfd1 Rac8 15.e3 h6 16.dxc5 bxc5 17.Ne5 Nxe5 18.Bxe5 d4 19.Bxb7 Qxb7 20.exd4 f6 21.Bf4 Rxd4 22.Qe2 Rcd8 23.Re1 Bf8 24.Qe6+ Kh8 25.Rc2 Qf3 26.Qe3 Qg4 27.Bc7 Rc8 28.Ba5 c4 29.bxc4 Rdxc4 30.Rxc4 Qxc4 31.Re2 Qb5 32.Bc3 Rxc3 33.Qxc3 Qxe2 34.Qa5 Qe7 35.a4 Qc5 36.Qd8 Kg8 37.Qe8 Qe7 38.Qb5 Kf7 39.h4 Qc7 40.Qd5+ Ke8 41.Qe6+ Kd8 42.Qd5+ Ke8 43.Qe6+ Qe7 44.Qc8+ Kf7 45.Qc4+ Kg6 46.Qd3+ f5 47.Qa6+ Kh7 48.Qb5 Qc5 49.Qd7 Bd6 50.Qf7 Bxg3 51.Kh1 Bxh4 0-1

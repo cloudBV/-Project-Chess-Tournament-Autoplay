@@ -1,0 +1,14 @@
+[Event "Round 11: Hernandez Montes, Jhon Sebastian - Lopez Rayo, Santiago"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-11/3AgRxUoN/vKDVsTqA"]
+[Date "2026.07.11"]
+[Round "11.4"]
+[White "Hernandez Montes, Jhon Sebastian"]
+[Black "Lopez Rayo, Santiago"]
+[Result "1-0"]
+[WhiteElo "2438"]
+[BlackElo "2306"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Qe2 Nc6 5.g3 g6 6.Bg2 Bg7 7.O-O O-O 8.Rd1 h6 9.h3 Be6 10.d3 b5 11.d4 cxd4 12.cxd4 Bc4 13.Qe1 b4 14.d5 Na5 15.Nd4 Rb8 16.Be3 Nd7 17.Nd2 Ba6 18.N2b3 Ne5 19.Nxa5 Qxa5 20.f4 Nd3 21.Qd2 Rbc8 22.Nc6 Qc7 23.Bf1 Nc5 24.Bxa6 Nxa6 25.Nxa7 Ra8 26.Nc6 Nc5 27.Qc2 Rxa2 28.Bxc5 Rxa1 29.Rxa1 dxc5 30.Qxc5 Bxb2 31.Ra7 1-0

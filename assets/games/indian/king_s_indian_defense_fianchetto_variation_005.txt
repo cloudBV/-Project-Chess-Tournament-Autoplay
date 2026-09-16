@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "6.6"]
+[White "ROHITH KRISHNA S"]
+[Black "Dimitrov, Radoslav"]
+[Result "1-0"]
+[WhiteElo "2489"]
+[BlackElo "2489"]
+[ECO "E60"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c5 5.Bg2 d5 6.O-O O-O 7.dxc5 dxc4 8.Qc2 Qd5 9.Na3 Qxc5 10.Qxc4 Qh5 11.Qb5 Nc6 12.Rd1 e5 13.Nc4 Be6 14.Nd6 Rad8 15.Be3 Ng4 16.Nxb7 Rxd1+ 17.Rxd1 Nxe3 18.fxe3 Ne7 19.e4 g5 20.Nc5 g4 21.Nxe6 fxe6 22.Ne1 Rf6 23.Rd8+ Bf8 24.Nd3 Ng6 25.Qc5 Qg5 26.Qc1 Qxc1+ 27.Nxc1 Rf7 28.h3 h5 29.Nd3 Kh7 30.hxg4 hxg4 31.Rc8 Bh6 32.Bf1 Be3+ 33.Kg2 Kg7 34.b4 Nf8 35.Rc6 Bd4 36.e3 Bxe3 37.Be2 Rd7 38.Nxe5 Rd2 39.Rc7+ Kf6 40.Nxg4+ Kg6 41.Nxe3 Rxe2+ 42.Kf3 Rxa2 43.Nc4 Nh7 44.Ne5+ Kf6 45.Kf4 Rf2+ 46.Ke3 Rg2 47.Nd7+ Kg6 48.Rxa7 Rb2 49.Ne5+ Kh6 50.Nd3 Rb1 51.Rc7 Ng5 52.Rc1 Rb3 53.Rf1 Kg7 54.Kd4 e5+ 55.Kc4 Ra3 56.Nxe5 Nxe4 57.Rf4 Nxg3 58.Kc5 Re3 59.Kd5 Ne2 60.Rf7+ Kg8 61.Rf2 Nc3+ 62.Kd4 Rg3 63.Kc4 Ne4 64.Rf4 Nc3 65.Nd3 Nb1 66.Rd4 Kf7 67.Kb3 Nd2+ 68.Ka4 Nb1 69.Kb3 Nd2+ 70.Ka4 Nb1 71.Nc5 Nc3+ 72.Ka5 Rg1 73.Ne4 Ra1+ 74.Kb6 Na4+ 75.Kb5 Ke7 76.Rd3 Nb2 77.Rd2 Nd1 78.Re2 Kd8 79.Kc6 Rc1+ 80.Nc5 Rc4 81.Rd2+ Kc8 82.b5 Nc3 83.Rh2 Kd8 84.b6 Ne4 85.b7 Rxc5+ 86.Kb6 Ke8 1-0

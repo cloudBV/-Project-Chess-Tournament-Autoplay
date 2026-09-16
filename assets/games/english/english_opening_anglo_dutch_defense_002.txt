@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/dIoOTh1X"]
+[Date "2026.07.04"]
+[Round "8.6"]
+[White "Villca, Julian"]
+[Black "Santiago, Yago De Moura"]
+[Result "0-1"]
+[WhiteElo "2407"]
+[BlackElo "2484"]
+[ECO "A10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O O-O 6.d3 a5 7.Nc3 d6 8.e4 fxe4 9.dxe4 Nc6 10.h3 e5 11.Be3 Be6 12.b3 Nd7 13.Kh2 b6 14.Qd2 Nc5 15.Ng5 Bxg5 16.Bxg5 Qd7 17.Be3 a4 18.Rab1 axb3 19.axb3 Bf7 20.f4 exf4 21.gxf4 Nb4 22.e5 Rae8 23.Nb5 Ncd3 24.exd6 c6 25.Nc7 Rd8 26.Na6 Nxa6 27.Qxd3 Bg6 28.f5 Bxf5 29.Rxf5 Rxf5 30.Bxb6 Qxd6+ 31.Qxd6 Rxd6 32.Ra1 Nb4 33.Ra8+ Kf7 34.Be4 Rh5 35.Bf3 Rf5 36.Be4 Re5 37.Bxh7 g6 38.h4 Rd3 39.Kg2 Re2+ 40.Kf1 Rh2 41.Bg1 Rd1# 0-1

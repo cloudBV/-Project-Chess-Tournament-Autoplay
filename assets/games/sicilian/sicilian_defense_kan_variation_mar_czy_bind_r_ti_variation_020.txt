@@ -1,0 +1,14 @@
+[Event "Round 9: Khripachenko, Alexander - Radovanovic, Mihajlo"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/RUGgc76P"]
+[Date "2026.07.22"]
+[Round "9.7"]
+[White "Khripachenko, Alexander"]
+[Black "Radovanovic, Mihajlo"]
+[Result "0-1"]
+[WhiteElo "2363"]
+[BlackElo "2382"]
+[ECO "B41"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.a3 Be7 8.Be2 b6 9.Be3 Bb7 10.f3 O-O 11.Rc1 Nc6 12.b4 Nh5 13.Qd2 Nxd4 14.Qxd4 Nf4 15.O-O Bf6 16.Qd2 Be5 17.Bd1 f5 18.exf5 Rxf5 19.g3 Ng6 20.f4 Raf8 21.Bg4 Bxc3 22.Qxc3 Ne5 23.Bxf5 Qc6 24.Bh3 Ng4 25.Rb1 0-1

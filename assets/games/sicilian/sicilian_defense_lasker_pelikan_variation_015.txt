@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.16"]
+[Round "1.3"]
+[White "Pranesh M"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteElo "2666"]
+[BlackElo "2749"]
+[ECO "B33"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.a4 a6 10.Nc3 Ng6 11.g3 Be7 12.h4 Nf8 13.a5 Nd7 14.Be3 O-O 15.Qd2 b5 16.axb6 Nxb6 17.Ne4 Qc7 18.c4 Bf5 19.f3 Nxc4 20.Qc3 Rfc8 21.Rc1 Nxe3 22.Qxc7 Rxc7 23.Rxc7 Nxd5 24.Rc6 Nb4 25.Rb6 d5 26.Nd6 Bxd6 27.Rxd6 Rb8 28.Bh3 Bxh3 29.Rxh3 Kf8 30.Rd7 Ke8 31.Rc7 Nd3+ 32.Kd2 Nxb2 33.f4 Nc4+ 34.Kc2 e4 35.g4 Nd6 36.Rhc3 d4 37.R3c5 d3+ 38.Kd2 Rb2+ 39.Kc3 Rf2 40.Kb3 d2 41.Kc2 e3 42.Re5+ Kd8 43.Ree7 Rf1 44.Rcd7+ Kc8 45.Rxd6 Rc1+ 46.Kb3 d1=Q+ 47.Rxd1 Rxd1 48.Rxe3 Rd4 49.Re8+ Kd7 50.Rg8 g6 51.Rg7 Rxf4 52.Rxh7 Ke6 53.g5 a5 54.Ka3 a4 55.Kb2 Rf3 56.Ka2 Rf2+ 57.Ka3 Rf4 58.Kb2 Ke5 59.Ka3 Kd6 60.Kb2 Rf3 61.Ka2 a3 62.Ka1 Rf2 63.h5 gxh5 64.Rxh5 Rg2 65.Rh7 Ke7 66.Rh5 Kf8 67.Rh3 Rxg5 68.Rxa3 Rb5 69.Ra6 Kg7 70.Ka2 f5 71.Ka3 f4 72.Ka4 Rf5 73.Kb3 f3 74.Ra1 f2 75.Rf1 Kg6 76.Kc3 Kg5 77.Kd3 Kg4 78.Ke2 Kg3 79.Ra1 Kg2 0-1

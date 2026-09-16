@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-5/wUsb6suP/iku5DjXd"]
+[Date "2026.07.11"]
+[Round "5.8"]
+[White "Vingris,Mikelis"]
+[Black "Adamovics, Aleksejs"]
+[Result "1-0"]
+[WhiteElo "2320"]
+[BlackElo "2183"]
+[ECO "B32"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 a6 6.Nd6+ Bxd6 7.Qxd6 Qf6 8.Qd1 Qg6 9.Nc3 d5 10.Nxd5 Qxe4+ 11.Be2 Nd4 12.Ne3 Nf6 13.Bd3 Qc6 14.O-O O-O 15.c3 Ne6 16.Nf5 Re8 17.Re1 e4 18.Bc2 b6 19.Be3 Bb7 20.Qe2 Nc5 21.Nd4 Qc7 22.h3 Nd5 23.Qg4 Bc8 24.Qh4 Nxe3 25.Rxe3 Bb7 26.Rae1 g6 27.Rg3 Qe7 28.Qh6 Qf6 29.Bb3 Nd3 30.Re2 Nf4 31.Rd2 Rad8 32.Rg4 Nd5 33.Re2 e3 34.fxe3 Bc8 35.Rg5 Nxe3 36.Rf2 Nf5 37.Nxf5 Re1+ 38.Kh2 Bxf5 39.Rgxf5 Qd6+ 40.R5f4 Rd7 41.g3 Qc6 42.R4f3 Ree7 43.Qf4 a5 44.Qf6 Qb5 45.h4 a4 46.Bc2 a3 47.bxa3 Qc5 48.Qg5 Re5 49.Qg4 Ree7 50.Bb3 Kg7 51.h5 Qxa3 52.h6+ Kxh6 53.Rxf7 Rxf7 54.Rxf7 Rxf7 55.Bxf7 Qxc3 56.Bb3 Qd2+ 57.Kh3 Kg7 58.Qf4 Qd7+ 59.Kh2 b5 60.Qe5+ Kh6 61.Bd5 b4 62.Qf4+ Kg7 63.Bb3 Qe7 64.Qd4+ Kh6 65.Qh4+ Qxh4+ 66.gxh4 g5 67.Kg3 gxh4+ 68.Kxh4 Kg6 69.Bc2+ Kg7 70.Kh5 h6 71.Bg6 Kf6 72.Kxh6 Ke5 73.Kg5 Kd4 74.Kf4 Kc3 75.Bf7 Kb2 76.Ke3 Ka3 77.Kd3 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Stein, Michael - Polak, Michal"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-6/qShzz9eM/lw7CQEuJ"]
+[Date "2026.07.02"]
+[Round "6.8"]
+[White "Stein, Michael"]
+[Black "Polak, Michal"]
+[Result "0-1"]
+[WhiteElo "2010"]
+[BlackElo "2123"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.d4 exd4 3.Bc4 Nf6 4.Nf3 Nc6 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bd7 8.Bxc6 bxc6 9.O-O Bc5 10.Be3 O-O 11.Nd2 Nxd2 12.Qxd2 Bb6 13.Nb3 Qe7 14.f4 f6 15.Rae1 fxe5 16.fxe5 Rxf1+ 17.Kxf1 Rf8+ 18.Kg1 Rf5 19.Bxb6 cxb6 20.e6 Be8 21.Nd4 Qg5 22.Qxg5 Rxg5 23.h4 Rh5 24.Nf3 Rf5 25.Kf2 Kf8 26.e7+ Kf7 27.g4 Rf6 28.g5 Rf4 29.h5 h6 30.g6+ Kf6 31.c3 Rf5 32.Rh1 Kxe7 33.Kg3 Kf6 34.Nd4 Rg5+ 35.Kh4 Bd7 36.Rf1+ Bf5 37.Nxf5 Rxf5 38.Re1 Re5 39.Rf1+ Rf5 40.Re1 Rf4+ 41.Kg3 Re4 42.Rf1+ Kg5 43.Rf7 Kxh5 44.Rxg7 Rg4+ 45.Kh3 Rxg6 46.Rxa7 b5 47.a4 bxa4 48.Rxa4 Kg5 49.Ra6 Re6 50.Rb6 h5 51.Rb8 Re3+ 52.Kg2 Kf5 53.Kf2 Re6 54.Rh8 Kg4 55.Rg8+ Kf4 56.Rh8 Kg5 57.Rg8+ Rg6 58.Re8 h4 59.Kg2 Kg4 60.Kh2 c5 61.Re2 Rg5 62.Rg2+ Kf4 63.Rc2 Rg3 64.Re2 d4 65.cxd4 cxd4 66.Re8 d3 67.Rf8+ Ke3 68.Re8+ Kf3 69.Rf8+ Ke2 70.Re8+ Re3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 2: Dai, Wenzhi - Savitha Shri B"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/fSDeUhdE"]
+[Date "2026.07.14"]
+[Round "2.13"]
+[White "Dai, Wenzhi"]
+[Black "Savitha Shri B"]
+[Result "0-1"]
+[WhiteElo "2126"]
+[BlackElo "2368"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f3 e5 7.Nb3 Be7 8.Be3 O-O 9.Qd2 a5 10.a4 Nb4 11.O-O-O Be6 12.g4 Rc8 13.Kb1 Nd7 14.Bd3 b6 15.Bb5 Qc7 16.Qf2 Qb7 17.Rd2 Rb8 18.Rhd1 Nc5 19.Nxc5 bxc5 20.Nd5 Nxd5 21.exd5 Bd7 22.c4 f5 23.Qg2 Be8 24.f4 fxg4 25.fxe5 Rf3 26.Bf2 Qc8 27.e6 h5 28.Ka2 Bg6 29.Bg3 Qf8 30.Be1 Qf4 31.Rf2 Be4 32.Qg1 Qe3 33.Ka1 Qb3 0-1

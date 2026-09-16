@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "7.2"]
+[White "Ayats Llobera, Gerard"]
+[Black "Gines Esteo, Pedro Antonio"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2431"]
+[ECO "B10"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Nf6 6.Nbd2 h5 7.Ne5 Nbd7 8.Nd3 g5 9.c3 h4 10.h3 Bh6 11.Kc2 Nf8 12.Ne5 Be6 13.Bd3 Nh5 14.Ndf3 f6 15.Ng4 Bg7 16.Nd4 Bf7 17.Be3 Ng6 18.Rhd1 Ngf4 19.Bf1 Bg6 20.Nf5 Bf8 21.f3 Rh7 22.a4 a5 23.Rd2 Ng3 24.Nxg3 hxg3 25.Rad1 Bg7 26.Bb6 Nd5 27.Bg1 Nf4 28.Bc4 e6 29.Kb3 f5 30.exf5 exf5 31.Re1+ Kf8 32.Bc5# 1-0

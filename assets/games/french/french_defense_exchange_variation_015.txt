@@ -1,0 +1,15 @@
+[Event "Round 3: Dannhauer, Frank - Puschendorf, Steffen"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-50/round-3/ELykokP6/IQ7tEDpf"]
+[Date "2026.07.08"]
+[Round "3.4"]
+[White "Dannhauer, Frank"]
+[Black "Puschendorf, Steffen"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2043"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 1/2-1/2

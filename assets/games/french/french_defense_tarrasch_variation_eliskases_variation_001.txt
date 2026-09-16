@@ -1,0 +1,14 @@
+[Event "Round 2.2: Duson, Robin - Van Foreest, Machteld"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-22/RomUl7IN/BaXl1B5J"]
+[Date "2026.07.06"]
+[Round "6.4"]
+[White "Duson, Robin"]
+[Black "Van Foreest, Machteld"]
+[Result "0-1"]
+[WhiteElo "2197"]
+[BlackElo "2294"]
+[ECO "C07"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Eliskases Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd8 7.O-O Nf6 8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Nxd4 Be7 11.Re1 O-O 12.Bf4 Bd7 13.Qf3 Rc8 14.Bb3 Qb6 15.c3 a5 16.Be5 Rc5 17.a4 Rd8 18.Rad1 Ne8 19.h3 Rcc8 20.Re2 Bf6 21.Bxf6 Nxf6 22.Red2 Be8 23.Bc2 Rd5 24.Qe2 Rcd8 25.Nb5 Bc6 26.c4 Rxd2 27.Rxd2 Rxd2 28.Qxd2 Bxb5 29.axb5 g6 30.Qf4 Nd7 31.Bd1 e5 32.Qf3 Qd4 33.Be2 Nc5 34.Qf6 Qxb2 35.Bf1 a4 36.Qd8+ Kg7 37.Qc7 a3 0-1

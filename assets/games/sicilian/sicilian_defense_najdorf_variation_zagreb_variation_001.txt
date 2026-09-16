@@ -1,0 +1,14 @@
+[Event "Round 5: Lindberg, Bengt - Lindgren, Philip"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-5/LqCjh8tw/RBhS2hpt"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Lindberg, Bengt"]
+[Black "Lindgren, Philip"]
+[Result "0-1"]
+[WhiteElo "2280"]
+[BlackElo "2358"]
+[ECO "B91"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Zagreb Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Be7 8.Bg2 h5 9.h3 Nbd7 10.a4 Qc7 11.Bg5 O-O 12.O-O b6 13.Nc1 Bb7 14.Nd3 Qc4 15.Re1 Rac8 16.Bf1 Qe6 17.Nb4 Rxc3 18.bxc3 Bxe4 19.c4 Qf5 20.Bxf6 Nxf6 21.Bg2 Rc8 22.Nd5 Bxd5 23.cxd5 Rxc2 24.Qf3 Qc8 25.Qe3 Nd7 26.Rec1 Rxc1+ 27.Rxc1 Nc5 28.Bf1 h4 29.g4 Qd7 30.Ra1 Bd8 31.Bc4 g6 32.Ra2 Kg7 33.f3 b5 34.axb5 axb5 35.Bf1 Bb6 36.Kh1 b4 37.Bc4 Na4 38.Qb3 Nc3 39.Ra6 Bc5 40.Qc2 Qe7 41.Ra1 Qf6 42.Qd3 Qf4 43.Qf1 e4 44.fxe4 Qxe4+ 45.Kh2 Qe5+ 46.Kh1 Ne4 47.Re1 Ng3+ 48.Kg2 Qb2+ 49.Re2 Qd4 0-1

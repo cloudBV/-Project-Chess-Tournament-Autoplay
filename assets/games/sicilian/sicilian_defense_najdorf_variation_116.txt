@@ -1,0 +1,15 @@
+[Event "Round 5: Cools, Gorik - Van der Stricht, Geert"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-5/GNSlVflY/fcStOsur"]
+[Date "2026.07.20"]
+[Round "5.3"]
+[White "Cools, Gorik"]
+[Black "Van der Stricht, Geert"]
+[Result "1/2-1/2"]
+[WhiteElo "2174"]
+[BlackElo "2274"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 g6 7.f4 Bg7 8.Nf3 O-O 9.O-O Bg4 10.Qe1 Nc6 11.f5 Bxf3 12.Rxf3 Ne5 13.Rf1 d5 14.Kh1 dxe4 15.Bxe4 Nxe4 16.Qxe4 Nc6 17.Bg5 Qd4 18.Qe2 Qc5 19.Ne4 Qe5 20.f6 exf6 21.Bxf6 Bxf6 22.Nxf6+ Kg7 23.Qf2 Rad8 24.Qh4 h6 25.Rae1 Qg5 26.Qxg5 hxg5 27.Ne4 Rfe8 28.Nxg5 Rxe1 29.Rxe1 Rd2 30.Rf1 f6 31.Ne6+ Kf7 32.Nc5 Rxc2 33.Nxb7 Rxb2 34.Nd6+ Ke7 35.Ne4 f5 36.Nc3 Rc2 37.Nd5+ Kd6 38.Rd1 Ke5 39.a4 Ra2 40.Nb6 1/2-1/2

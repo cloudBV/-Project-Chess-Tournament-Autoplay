@@ -1,0 +1,15 @@
+[Event "Round 4: Dutre, Wonder - Van Coppenolle, Lander"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/nzupi4L4"]
+[Date "2026.07.19"]
+[Round "4.19"]
+[White "Dutre, Wonder"]
+[Black "Van Coppenolle, Lander"]
+[Result "0-1"]
+[WhiteElo "2017"]
+[BlackElo "2144"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.Be2 Be7 9.g4 Nc6 10.g5 Nd7 11.Qd2 a5 12.a4 Nb4 13.O-O O-O 14.Rfd1 Rc8 15.Rac1 Kh8 16.Nd5 Bxd5 17.exd5 f5 18.f4 Bxg5 19.fxg5 f4 20.Bf2 e4 21.h4 e3 22.Bxe3 fxe3 23.Qxe3 Nxc2 24.Qg3 Ne5 25.Rd2 Qb6+ 26.Kh1 Ne3 27.Rxc8 Rxc8 28.Bb5 N3g4 29.Qf4 Kg8 30.Nd4 Rf8 31.Qg3 Qc5 32.Nb3 Qb4 33.Rd4 Rf3 34.Rxb4 Rxg3 35.Rxg4 Rxg4 36.Nxa5 Nf3 0-1

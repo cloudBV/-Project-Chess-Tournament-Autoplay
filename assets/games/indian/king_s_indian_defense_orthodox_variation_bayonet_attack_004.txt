@@ -1,0 +1,15 @@
+[Event "Round 1: Novozhilov, Semen - Amreyev, Azat"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/4bfjeScJ"]
+[Date "2026.07.21"]
+[Round "1.18"]
+[White "Novozhilov, Semen"]
+[Black "Amreyev, Azat"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2034"]
+[ECO "E97"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7 9.b4 a5 10.bxa5 c5 11.a4 Rxa5 12.Nd2 Ra6 13.Ra3 Bh6 14.Re1 Ne8 15.Nf1 Bxc1 16.Qxc1 f5 17.exf5 Nxf5 18.Ne4 Nd4 19.Bd1 Kg7 20.Nfg3 Rf4 21.Rae3 Qh4 22.Nxc5 dxc5 23.Rxe5 Nd6 24.Nh5+ gxh5 25.g3 Qf6 26.Re7+ Kf8 27.Qxf4 Qxf4 28.gxf4 Bf5 29.Rc7 Ne4 30.Bxh5 Rh6 31.Rf7+ Kg8 32.Rxf5 Nxf5 33.Rxe4 Rxh5 34.Re5 Ng7 35.Re7 Rf5 36.Rxb7 Rf6 37.a5 Ra6 38.Rb5 Nf5 39.Rxc5 Nd4 40.f3 Nb3 41.Rb5 Nd4 42.Rb8+ Kf7 43.Rb7+ Ke8 44.c5 Rxa5 45.c6 Kd8 46.Rd7+ Kc8 47.Kf2 Nf5 48.Ke2 h5 49.Kd3 Ra4 50.Kc3 Rd4 51.h4 Rxf4 52.d6 Rxf3+ 53.Kc4 Rf1 54.Rc7+ Kd8 55.Rd7+ Kc8 1/2-1/2

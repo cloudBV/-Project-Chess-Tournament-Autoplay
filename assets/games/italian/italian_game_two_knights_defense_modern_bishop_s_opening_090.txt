@@ -1,0 +1,14 @@
+[Event "Round 6: Kozak, Adam - Ghosh, Diptayan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/51LAx4rY"]
+[Date "2026.07.18"]
+[Round "6.8"]
+[White "Kozak, Adam"]
+[Black "Ghosh, Diptayan"]
+[Result "1/2-1/2"]
+[WhiteElo "2531"]
+[BlackElo "2554"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.Nc3 Bb4 6.O-O Bxc3 7.bxc3 O-O 8.Re1 d6 9.Bb3 Re8 10.h3 Be6 11.Bxe6 Rxe6 12.c4 Re8 13.Rb1 b6 14.Nh4 Nd4 15.Bb2 Ne6 16.Nf5 Kh7 17.Bc1 Ng8 18.Rf1 Ne7 1/2-1/2

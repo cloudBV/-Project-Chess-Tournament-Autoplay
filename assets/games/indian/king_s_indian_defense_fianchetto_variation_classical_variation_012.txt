@@ -1,0 +1,15 @@
+[Event "Round 6: Hajialiyev, Islam - Babazada, Khazar"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-6/6FgD4uVZ/q6PzN4Yp"]
+[Date "2026.07.18"]
+[Round "6.2"]
+[White "Hajialiyev, Islam"]
+[Black "Babazada, Khazar"]
+[Result "0-1"]
+[WhiteElo "2274"]
+[BlackElo "2407"]
+[ECO "E68"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.d4 g6 2.Nf3 Bg7 3.g3 Nf6 4.Bg2 O-O 5.O-O d6 6.c4 Nbd7 7.Nc3 e5 8.e4 exd4 9.Nxd4 Re8 10.h3 a6 11.Re1 Rb8 12.Be3 Ne5 13.b3 c5 14.Nde2 b5 15.f4 Ned7 16.Qxd6 b4 17.e5 bxc3 18.exf6 Rxe3 19.fxg7 Rb6 20.Qd5 Rbe6 21.Kf2 Qe7 22.Bf3 Kxg7 23.Rad1 c2 24.Rd2 Nf6 25.Qa8 Rxf3+ 26.Qxf3 Ne4+ 27.Kg1 Nxd2 28.Qc3+ f6 0-1

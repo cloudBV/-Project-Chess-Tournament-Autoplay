@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-8/D7jWys2P/XMxmWlo1"]
+[Date "2026.07.07"]
+[Round "8.2"]
+[White "Haring, Filip"]
+[Black "Ernst, Robert"]
+[Result "1-0"]
+[WhiteElo "2446"]
+[BlackElo "2401"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Bc5 8.Nxc6 dxc6 9.Na4 Be7 10.Be3 c5 11.O-O Nf6 12.e5 Nd7 13.f4 Rb8 14.Nc3 b5 15.a4 b4 16.Ne4 Bb7 17.Nd6+ Bxd6 18.exd6 Qb6 19.a5 Qb5 20.f5 Bxg2 21.Kxg2 Qc6+ 22.Qf3 Qxf3+ 23.Rxf3 e5 24.Bf2 f6 25.Rd3 Kf7 26.Kf3 Rb5 27.Ke4 Rc8 28.Rd5 Ke8 29.g4 Rc6 30.h4 h6 31.Be3 Nb8 32.g5 hxg5 33.hxg5 Kd7 34.Rh1 Rxd6 35.Rh7 Kc6 36.Rxd6+ Kxd6 37.Rxg7 fxg5 38.Bxg5 Nc6 39.Rg6+ Kd7 40.Rg7+ Kd6 41.f6 Nd8 42.f7 Nxf7 43.Rxf7 Rxa5 44.Rf6+ Kc7 45.Rh6 Ra2 46.Bf6 Kc6 47.Bxe5+ Kb5 48.Rh5 c4 49.Bd4+ Ka4 50.Bb6 Rxb2 1-0

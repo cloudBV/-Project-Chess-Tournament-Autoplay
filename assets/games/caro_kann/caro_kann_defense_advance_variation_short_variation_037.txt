@@ -1,0 +1,14 @@
+[Event "Round 12: Savitha Shri B - Mohammad Nubairshah Shaikh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/qms24WR5"]
+[Date "2026.07.19"]
+[Round "12.7"]
+[White "Savitha Shri B"]
+[Black "Mohammad Nubairshah Shaikh"]
+[Result "1-0"]
+[WhiteElo "2161"]
+[BlackElo "2316"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 h6 7.O-O Bh7 8.a4 a5 9.Na3 Nd7 10.Nc2 Ng6 11.Bd3 Be7 12.Ne3 O-O 13.Ng4 c5 14.Re1 Rc8 15.Bd2 Qb6 16.Rb1 cxd4 17.cxd4 Nb8 18.h4 Nxh4 19.Bxh7+ Kxh7 20.Nxh4 Bxh4 21.Be3 h5 22.Nf6+ Bxf6 23.Qxh5+ Kg8 24.exf6 Nd7 25.fxg7 Kxg7 26.Bh6+ Kg8 27.Qg5+ 1-0

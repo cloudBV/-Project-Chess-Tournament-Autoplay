@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.17"]
+[Round "2.3"]
+[White "Andreikin, Dmitry"]
+[Black "Pranesh M"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2666"]
+[ECO "A21"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Bd6 4.d4 Nc6 5.Nf3 Nge7 6.Nxe7 Bb4+ 7.Bd2 Qxe7 8.dxe5 Nxe5 9.Nxe5 Bxd2+ 10.Qxd2 Qxe5 11.g3 Qe4 12.Qc3 Qxh1 13.Qxg7 Rf8 14.Qe5+ Kd8 15.Qf6+ Ke8 16.Qe5+ Kd8 17.Qg7 Ke8 18.Qe5+ 1/2-1/2

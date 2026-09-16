@@ -1,0 +1,14 @@
+[Event "Round 9: Muntean, Victor - Bergman, Axel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-9/b4wCQY30/I4qqp29X"]
+[Date "2026.07.04"]
+[Round "9.2"]
+[White "Muntean, Victor"]
+[Black "Bergman, Axel"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2069"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.c4 Nf6 6.c5 Be7 7.Bd3 b6 8.O-O bxc5 9.dxc5 O-O 10.Be3 Bg4 11.h3 Bh5 12.Nbd2 Nc6 13.Qa4 Nb8 14.c6 Re8 15.Qb5 Qd6 16.Nd4 a5 17.Qb7 Na6 18.Bxa6 1-0

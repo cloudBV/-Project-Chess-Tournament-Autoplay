@@ -1,0 +1,14 @@
+[Event "Round 6: Loew, Gerald - Cmiel, Thorsten"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-6/3ymlbMxl/nqH562kD"]
+[Date "2026.07.22"]
+[Round "6.3"]
+[White "Loew, Gerald"]
+[Black "Cmiel, Thorsten"]
+[Result "1/2-1/2"]
+[WhiteElo "2170"]
+[BlackElo "2152"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ c6 6.Qxc4 b5 7.Qc2 Bb7 8.O-O a6 9.a4 c5 1/2-1/2

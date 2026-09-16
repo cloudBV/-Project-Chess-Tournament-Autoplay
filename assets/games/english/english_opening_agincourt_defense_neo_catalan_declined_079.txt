@@ -1,0 +1,15 @@
+[Event "Round 9: Azimi, Amir Mohammad - Ipek, Egehan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/aiB8OJbo"]
+[Date "2026.07.19"]
+[Round "9.16"]
+[White "Azimi, Amir Mohammad"]
+[Black "Ipek, Egehan"]
+[Result "0-1"]
+[WhiteElo "2148"]
+[BlackElo "2206"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d3 d4 7.e4 c5 8.e5 Nfd7 9.Qe2 Nc6 10.h4 Rb8 11.a4 a6 12.Na3 b6 13.Bf4 Bb7 14.h5 Re8 15.Nh2 Bg5 16.Qg4 Bxf4 17.gxf4 f6 18.h6 Qe7 19.exf6 Nxf6 20.Qg5 Kh8 21.Bxc6 gxh6 22.Qe5 Qg7+ 23.Kh1 Bxc6+ 24.f3 Nd7 25.Qxg7+ Kxg7 26.Rf2 Nf8 27.Ng4 Ng6 28.Rg1 Kh8 29.Ne5 Nxe5 30.fxe5 Rf8 31.Kh2 Rf5 32.Rg4 Rxe5 33.Rh4 Re3 34.Rxh6 Kg7 35.Rh5 Rxd3 36.a5 Kg6 37.Re5 Kf6 38.f4 Rd1 39.Rfe2 Rh1+ 40.Kg3 Rg8+ 41.Rg5 Rg1+ 42.Kh4 bxa5 43.Rxg8 Rxg8 44.Re5 Rg2 45.Rxc5 Be4 46.Re5 Bf5 47.c5 Rxb2 48.c6 Rh2+ 49.Kg3 Rh3+ 0-1

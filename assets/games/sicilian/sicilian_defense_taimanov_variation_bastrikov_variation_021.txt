@@ -1,0 +1,14 @@
+[Event "Round 2: Heino, Pessi - Pultinevicius, Paulius"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-2/VxANujWG/f6Al4Qho"]
+[Date "2026.07.14"]
+[Round "2.1"]
+[White "Heino, Pessi"]
+[Black "Pultinevicius, Paulius"]
+[Result "0-1"]
+[WhiteElo "2160"]
+[BlackElo "2565"]
+[ECO "B47"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 Nf6 7.Ndb5 Qb8 8.f4 a6 9.e5 axb5 10.exf6 b4 11.fxg7 Bxg7 12.Nb5 d5 13.O-O O-O 14.Bd3 f5 15.c3 bxc3 16.bxc3 Nb4 17.Be3 Nxd3 18.Qxd3 Bd7 19.Bd4 Rf7 20.Bxg7 Bxb5 21.Qxb5 Rxg7 22.a4 Qc8 23.Rae1 Rc7 24.Qb6 Ra6 25.Qd4 Rc4 26.Qf6 Qf8 27.Qg5+ Kh8 28.Rf3 Rcxa4 29.Rfe3 Re4 30.Rxe4 dxe4 31.h4 Rd6 32.h5 h6 33.Qg6 Qg7 34.Qe8+ Kh7 35.Re2 Qf6 36.Qa4 Qxc3 37.Rc2 Qe1+ 38.Kh2 Qh4+ 0-1

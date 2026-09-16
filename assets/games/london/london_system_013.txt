@@ -1,0 +1,14 @@
+[Event "Round 4: Michael Mueller - Heck, Norbert"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/fom9gKC9"]
+[Date "2026.07.20"]
+[Round "4.8"]
+[White "Michael Mueller"]
+[Black "Heck, Norbert"]
+[Result "0-1"]
+[WhiteElo "2065"]
+[BlackElo "2210"]
+[ECO "A48"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.e3 O-O 5.h3 d6 6.Bc4 c5 7.c3 Nc6 8.O-O Qb6 9.b3 Bf5 10.Nbd2 cxd4 11.Nxd4 Bd7 12.Bh2 e5 13.Nxc6 bxc6 14.e4 d5 15.Bd3 Rfe8 16.Re1 Nh5 17.Bf1 Rad8 18.exd5 cxd5 19.Nf3 e4 20.Nd4 Bc8 21.g4 Nf6 22.Bf4 Ba6 23.Bxa6 Qxa6 24.Qd2 Nd7 25.Bh6 Be5 26.f4 Bf6 27.Re3 Nc5 28.Rf1 Ne6 29.g5 Nxd4 30.cxd4 Bh8 31.Rc1 Rc8 32.Rec3 Rxc3 33.Rxc3 Qb6 34.Rc5 e3 35.Qe2 Bxd4 36.Rxd5 Rc8 37.Kh2 a6 38.Kg3 Re8 39.h4 Bh8 40.Rd1 Qe6 41.Rd3 Qe4 42.b4 Qxd3 0-1

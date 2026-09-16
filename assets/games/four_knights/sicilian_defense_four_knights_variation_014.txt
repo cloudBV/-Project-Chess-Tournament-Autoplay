@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-4-game-1/sqIpHmCY/6lliDgnO"]
+[Date "2026.07.09"]
+[Round "7.5"]
+[White "Andre, Tomas"]
+[Black "Buklaho, Ignacy"]
+[Result "0-1"]
+[WhiteElo "2245"]
+[BlackElo "2052"]
+[ECO "B45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bf4 d5 7.Bb5 Qb6 8.exd5 Nxd5 9.Nxd5 exd5 10.O-O Be7 11.Be3 Qc7 12.Qh5 Qd6 13.Bf4 Qc5 14.Nxc6 bxc6 15.Bd3 d4 16.Qxc5 Bxc5 17.Rfe1+ Be6 18.Be4 Rc8 19.Rad1 O-O 20.a3 Rfd8 21.b4 Bb6 22.Rd3 Bc4 23.Rg3 g6 24.Bd3 Bxd3 25.cxd3 c5 26.bxc5 Rxc5 27.Bg5 0-1

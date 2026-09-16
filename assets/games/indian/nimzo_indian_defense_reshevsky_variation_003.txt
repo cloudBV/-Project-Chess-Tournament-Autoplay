@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/MaPMUksD"]
+[Date "2026.07.13"]
+[Round "1.13"]
+[White "Del Rio De Angelis, Salvador Gabriel"]
+[Black "Sousa, Andre Ventura"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2448"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 c6 6.Ng3 d5 7.a3 Bxc3+ 8.bxc3 Nbd7 9.a4 Re8 10.Be2 e5 11.O-O Ne4 12.Qb3 Nxg3 13.hxg3 Nf6 14.dxe5 Rxe5 15.cxd5 cxd5 16.c4 Bg4 17.Bxg4 Nxg4 18.f3 Nf6 19.Rd1 Qb6 20.Qxb6 1/2-1/2

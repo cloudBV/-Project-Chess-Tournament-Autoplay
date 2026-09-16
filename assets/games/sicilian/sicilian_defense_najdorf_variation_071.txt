@@ -1,0 +1,14 @@
+[Event "Round 7: Xu, Chang(CQ) - Tureshbayev, Anuar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/IE8r7cK0"]
+[Date "2026.07.12"]
+[Round "7.14"]
+[White "Xu, Chang(CQ)"]
+[Black "Tureshbayev, Anuar"]
+[Result "1-0"]
+[WhiteElo "2082"]
+[BlackElo "2246"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 e6 8.O-O-O Qc7 9.f4 b5 10.a3 Bb7 11.g4 Be7 12.Bg2 h6 13.Bxf6 Bxf6 14.Ndxb5 axb5 15.Nxb5 Qb6 16.Nxd6+ Kf8 17.e5 Bxg2 18.Qxg2 Rb8 19.Nc4 Qc7 20.exf6 Qxc4 21.Rxd7 gxf6 22.Kb1 Kg7 23.g5 hxg5 24.fxg5 f5 25.g6 Rhc8 26.gxf7+ Kf6 27.f8=Q+ 1-0

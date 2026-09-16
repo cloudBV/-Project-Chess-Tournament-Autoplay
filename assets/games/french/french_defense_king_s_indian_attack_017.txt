@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.14"]
+[White "Rasik, Vitezslav"]
+[Black "Kastner, Oldrich"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2017"]
+[ECO "C00"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Qe2 Nf6 4.Nf3 g6 5.e5 Nfd7 6.h4 c5 7.h5 Bg7 8.c3 Nc6 9.d4 Qa5 10.Nbd2 c4 11.g3 b5 12.Bg2 b4 13.Qe3 Nb6 14.hxg6 fxg6 15.Ng5 h6 16.Nh3 g5 17.O-O Ne7 18.g4 Bd7 19.cxb4 Qxb4 20.b3 cxb3 21.axb3 Nc6 22.Bb2 O-O 23.f4 gxf4 24.Nxf4 Nc4 25.Nxc4 dxc4 26.Bc3 Qb5 27.bxc4 Qxc4 28.d5 Rxf4 29.Rxf4 exd5 30.Rxc4 1-0

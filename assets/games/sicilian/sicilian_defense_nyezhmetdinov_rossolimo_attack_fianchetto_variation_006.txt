@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-5/b6FdDsCd/NMct0vHB"]
+[Date "2026.07.01"]
+[Round "5.12"]
+[White "Flores Quillas, Diego Saul Rodri"]
+[Black "Aranha Filho, Alvaro Z."]
+[Result "1/2-1/2"]
+[WhiteElo "2420"]
+[BlackElo "2177"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5 9.Qd2 Qe7 10.Bh6 f6 11.Nh2 Nf8 12.Bxg7 Qxg7 13.f4 exf4 14.Qxf4 Ne6 15.Qe3 Nd4 16.O-O-O Be6 17.Na4 b6 18.c3 Nb5 19.b3 O-O 20.g4 Rae8 21.Kc2 Nd6 22.Qf4 Nb7 23.Nf3 b5 24.Nb2 g5 25.Qg3 h6 26.Rhe1 Bf7 27.Rd2 Bg6 28.h4 Re6 29.Qf2 Qc7 30.Kb1 Kg7 31.Nd1 Qf4 32.Ne3 Rfe8 33.hxg5 hxg5 34.Nf5+ Bxf5 35.gxf5 R6e7 36.Rg1 c4 37.Nxg5 Qxf2 38.Rxf2 fxg5 39.f6+ Kg6 40.fxe7 cxd3 41.Rf5 Rxe7 42.Rgxg5+ Kh6 43.Rg3 Rxe4 44.Rf6+ Kh5 45.Rf7 Kh6 46.Rxd3 Nc5 47.Rd6+ Kg5 48.Rxa7 Re2 49.Rc7 1/2-1/2

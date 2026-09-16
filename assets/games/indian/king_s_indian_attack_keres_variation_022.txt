@@ -1,0 +1,14 @@
+[Event "Blitz C14"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "10.1"]
+[White "Kiszkiel, Oskar"]
+[Black "Diachek, Andrii"]
+[Result "0-1"]
+[WhiteElo "2229"]
+[BlackElo "2350"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 e6 4.O-O c6 5.d3 Nf6 6.Nc3 Be7 7.e4 O-O 8.h3 Bh5 9.Bf4 Nbd7 10.Qd2 Bg6 11.Rfe1 a5 12.Rad1 a4 13.a3 Qa5 14.Qc1 Bxa3 15.Nxa4 Bb4 16.Nc3 dxe4 17.dxe4 Bxc3 18.bxc3 Nc5 19.Bd6 Rfe8 20.e5 Nd5 21.c4 Nc3 22.Rd4 b6 23.Qd2 N3e4 24.Qxa5 Rxa5 25.Nh4 Nc3 26.Nxg6 hxg6 27.Bxc6 Rc8 28.Bf3 Ra2 29.Bd1 Nxd1 30.Rexd1 Rxc2 31.Rb1 Na4 32.Rb4 Nc3 33.Kg2 Ne2 34.Re4 Nc1 35.Rxb6 Nd3 36.Kf3 Nxf2 37.Re3 R8xc4 38.Rb8+ Kh7 39.Rf8 Nd1 40.Re2 0-1

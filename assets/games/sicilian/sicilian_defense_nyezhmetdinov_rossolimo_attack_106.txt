@@ -1,0 +1,15 @@
+[Event "Round 9: Iskandarov, Misratdin - Huseyinoglu, Alihan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/LNp90pLN"]
+[Date "2026.07.19"]
+[Round "9.3"]
+[White "Iskandarov, Misratdin"]
+[Black "Huseyinoglu, Alihan"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2395"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Be7 5.Bxc6 dxc6 6.d3 Bd6 7.Nbd2 f6 8.Nc4 Bc7 9.Nh4 Be6 10.Nf5 Qd7 11.Be3 b6 12.f4 g6 13.Ng3 exf4 14.Bxf4 Bxf4 15.Rxf4 Qd4+ 16.Rf2 Bxc4 17.dxc4 O-O-O 18.Qxd4 Rxd4 19.c3 Rd6 20.Raf1 Re6 21.Rd2 Nh6 22.Rf4 Nf7 23.Rdf2 Ne5 24.Rxf6 Rxf6 25.Rxf6 Kd7 26.Rf1 Ke6 27.Rd1 Nxc4 28.b3 Nd6 29.Kf2 Ke5 30.Ke3 Rf8 31.Ne2 Nxe4 32.Rd7 Nf6 33.Re7+ Kd6 34.Rxa7 Ng4+ 35.Kd2 Rf2 36.Rxh7 Rxg2 37.h3 Rh2 38.c4 Nf6 39.Rh6 Ke5 40.Rxg6 Rxh3 41.Rg5+ Kd6 42.Rg6 Ke5 43.Rg5+ Kd6 44.Rg6 Ke5 1/2-1/2

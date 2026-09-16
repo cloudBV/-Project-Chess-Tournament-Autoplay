@@ -1,0 +1,15 @@
+[Event "Round 2: Singh, Siddharth - Silva Cerda, Mark Valentin"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-2/5lLQ3rww/PPXFmoLn"]
+[Date "2026.07.05"]
+[Round "2.3"]
+[White "Singh, Siddharth"]
+[Black "Silva Cerda, Mark Valentin"]
+[Result "1-0"]
+[WhiteElo "2361"]
+[BlackElo "2166"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.h3 Nd7 12.Bd2 Nf8 13.Rae1 g6 14.c4 Bb8 15.Bc3 Qd6 16.f4 f5 17.Kh1 Bd7 18.b4 b5 19.c5 Qe6 20.Ba1 f6 21.Qc3 Nh7 22.Bc2 Qe3 23.Bb3+ Kf8 24.d5 Qxc3 25.Bxc3 a5 26.Nd4 Rxe1 27.Rxe1 axb4 28.Bxb4 Bxf4 29.dxc6 Bc8 30.c7 Ng5 31.c6+ Kg7 32.Re8 Ne4 33.Ne6+ Bxe6 34.Rxa8 Ng3+ 35.Kh2 Bxb3 36.axb3 Ne2+ 37.g3 hxg3+ 38.Kg2 Bxc7 39.Ra7 Nf4+ 40.Kf3 g2 41.Rxc7+ Kh6 42.Kf2 Nd3+ 43.Kxg2 Nxb4 44.Rh7+ Kxh7 45.c7 1-0

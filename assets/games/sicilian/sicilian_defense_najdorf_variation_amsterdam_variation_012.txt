@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.08"]
+[Round "5.3"]
+[White "Boyer, Mahel"]
+[Black "Mattenberger, Matthias"]
+[Result "1/2-1/2"]
+[WhiteElo "2492"]
+[BlackElo "2347"]
+[ECO "B93"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nc6 8.f5 b5 9.Bg5 Be7 10.Bxf6 Bxf6 11.a4 b4 12.Nd5 Bb7 13.Bc4 Ne7 14.Qd3 Nxd5 15.Bxd5 Bxd5 16.Qxd5 Rc8 17.O-O-O Qc7 18.Qd3 O-O 19.Rhe1 a5 20.Nd2 Rfd8 21.Qb3 d5 22.exd5 Rxd5 23.Ne4 Rdd8 24.Kb1 Qc6 25.Rd3 Rxd3 26.cxd3 h6 27.g4 Bh4 28.Rd1 Bg5 29.Re1 Bh4 30.Re2 Qc1+ 31.Ka2 Qc6 32.Nd2 Bf6 33.Re4 Rd8 34.Nf3 Qd6 35.Re3 Qc5 36.Re2 Qd6 37.Re3 Qc5 38.Re4 Qd6 39.Re3 Qc5 40.Re2 Qd6 41.Nd2 Rc8 42.Nc4 Qc5 43.h4 1/2-1/2

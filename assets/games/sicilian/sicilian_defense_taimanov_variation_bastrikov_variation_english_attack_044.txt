@@ -1,0 +1,14 @@
+[Event "Round 6: Pranav Anand - Zlatkov, Anton"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/cufFV3Pc"]
+[Date "2026.07.19"]
+[Round "6.5"]
+[White "Pranav Anand"]
+[Black "Zlatkov, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2588"]
+[BlackElo "2388"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Qc7 6.Be3 a6 7.Bd3 Nf6 8.Qe2 b5 9.Nxc6 dxc6 10.O-O Bd6 11.f4 e5 12.f5 Bb7 13.a4 O-O 14.g4 b4 15.g5 Nd5 16.Nd1 Nf4 17.Qf3 Qe7 18.h4 Bc5 19.Nf2 Bxe3 20.Qxe3 Rfd8 21.Rad1 Rd4 22.c3 bxc3 23.bxc3 Rxa4 24.Bc2 Ra3 25.Rd2 c5 26.Rfd1 Bc6 27.Ng4 h5 28.Nf2 Be8 29.Nh3 Nxh3+ 30.Qxh3 Qc7 31.Qg3 c4 32.g6 fxg6 33.fxg6 Ra2 34.Kh1 Rxc2 35.Rxc2 Ba4 36.Rcd2 Bxd1 37.Rxd1 Rd8 38.Qf3 Rxd1+ 39.Qxd1 Qe7 40.Qxh5 Qf6 41.Kg2 Kf8 42.Qg4 Ke7 43.h5 Qf4 44.Qe2 Qg5+ 45.Kf2 Qh4+ 46.Kg2 Qg5+ 47.Kf2 1/2-1/2

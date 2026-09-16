@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.15"]
+[Round "8.7"]
+[White "GinkgoHCE 5.71"]
+[Black "Stash 37.24"]
+[Result "1-0"]
+[WhiteElo "3344"]
+[BlackElo "3244"]
+[ECO "A54"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Tartakower-Indian"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 Bg4 4.Nc3 Bxf3 5.gxf3 g6 6.Qb3 Qc8 7.Bh3 Nbd7 8.e4 e6 9.Be3 c5 10.dxc5 Nxc5 11.Qc2 a6 12.O-O Qc7 13.Rad1 Ncd7 14.b3 g5 15.Kh1 Rg8 16.Rg1 h6 17.f4 gxf4 18.Rxg8 Nxg8 19.Bxf4 Ngf6 20.f3 Qa5 21.Qd2 Rc8 22.Bf1 Rc6 23.Qe1 Nh5 24.Bd2 Bg7 25.Nd5 Qxa2 26.Nb4 Qxb3 27.Nxc6 bxc6 28.Be2 Qc2 29.Be3 Be5 30.Bxh6 Nf4 31.Qd2 Qxd2 32.Rxd2 Nc5 33.Ra2 f6 34.Bxf4 Bxf4 35.Kg2 f5 36.exf5 exf5 37.Bd1 Ke7 38.Bc2 Kf6 39.h4 Be5 40.Bb1 Bf4 41.Kf1 Ke5 42.Kf2 Kf6 43.Rb2 Nd7 44.Rb7 Ne5 45.Rb8 c5 46.Rf8+ Nf7 47.Ra8 Be5 48.Rxa6 Nd8 49.Ra8 Bd4+ 50.Ke1 Ne6 51.h5 Kg5 52.h6 Kxh6 53.Bxf5 Nf4 54.Rg8 d5 55.Rg4 Be3 56.cxd5 Nxd5 57.Ke2 Bg5 58.Be4 Nf4+ 59.Kd1 c4 60.Kc2 Ne2 61.Bd5 Kg6 62.Bxc4 Nf4 63.Kc3 Kf5 64.Kd4 Kf6 65.Ke4 Nh3 66.Rg2 Bc1 67.f4 Bxf4 68.Ra2 Bc7 69.Ra6+ Ke7 70.Re6+ Kd7 71.Rg6 Kd8 72.Bb5 Nf4 73.Rh6 Ke7 74.Rh7+ Kd8 75.Bd7 Nh5 76.Kf5 Nf4 77.Bc6 Ne2 78.Rd7+ Kc8 79.Rd2 Nf4 80.Bd7+ Kb7 81.Rb2+ Ka6 82.Ke4 Bd6 83.Bf5 Bc7 84.Bc8+ Ka5 85.Rb7 Bd6 86.Kd4 Ng2 87.Rb2 Ne1 88.Kc4 Nf3 89.Rf2 Ne5+ 90.Kd5 Nd3 91.Ra2+ Kb4 92.Kxd6 Kb3 93.Rg2 Kc3 94.Bf5 Nb4 95.Kc5 Na6+ 96.Kb6 Nb4 97.Kb5 Nd5 98.Kc5 Nc7 99.Ra2 Ne8 100.Rc2+ Kb3 101.Re2 Nf6 102.Re3+ Ka2 103.Kc4 Kb2 104.Re2+ Kc1 105.Bc2 Nd5 106.Kxd5 Kb2 107.Kd4 Kc1 108.Bd3 Kd1 109.Kc3 Kc1 110.Re1# 1-0

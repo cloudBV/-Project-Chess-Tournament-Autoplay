@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.19"]
+[Round "7.4"]
+[White "Guerrero Cataldo, Juan Andres"]
+[Black "Vasquez Toledo, Cristian"]
+[Result "1/2-1/2"]
+[WhiteElo "2123"]
+[BlackElo "2271"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Bf4 c6 9.Qc2 a5 10.Rd1 h6 11.h4 a4 12.Nbd2 Nh5 13.Be3 f5 14.Nf1 Bd6 15.Bd2 Ndf6 16.Ne5 Ne4 17.Be1 Qe8 18.f3 Nef6 19.e3 g6 20.g4 Ng7 21.g5 Nd7 22.f4 1/2-1/2

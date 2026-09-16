@@ -1,0 +1,15 @@
+[Event "Round 2: Kouchaki, Amirreza - Hakemi, Arman"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-2/k0dRbeSr/Y8nXlJGq"]
+[Date "2026.07.12"]
+[Round "2.2"]
+[White "Kouchaki, Amirreza"]
+[Black "Hakemi, Arman"]
+[Result "0-1"]
+[WhiteElo "2021"]
+[BlackElo "2428"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qc2 c6 9.Rd1 a5 10.Bf4 h6 11.Nc3 b6 12.Ne5 Nxe5 13.dxe5 Nd7 14.cxd5 cxd5 15.e4 d4 16.Rxd4 g5 17.Be3 Bc5 18.Rd2 Bxe3 19.fxe3 Qe7 20.Qa4 Nxe5 21.Qd4 f6 22.Rad1 Ra7 23.Nb5 Rd7 24.Qxb6 Rxd2 25.Rxd2 Nc4 26.Qd4 Nxd2 27.Qxd2 Rd8 28.Nd4 Qc7 29.Qd1 e5 30.Qb3+ Kg7 31.Ne2 Qc5 32.Kf2 Ba6 0-1

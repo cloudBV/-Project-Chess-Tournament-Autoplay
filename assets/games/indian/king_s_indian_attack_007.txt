@@ -1,0 +1,15 @@
+[Event "Round 5: Cilek, Bora - Aliyev, Elnur"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/edY6a9Fq"]
+[Date "2026.07.02"]
+[Round "5.36"]
+[White "Cilek, Bora"]
+[Black "Aliyev, Elnur"]
+[Result "0-1"]
+[WhiteElo "2291"]
+[BlackElo "2108"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 g6 4.Bg2 Bg7 5.O-O Nf6 6.b3 O-O 7.Bb2 Re8 8.c4 dxc4 9.bxc4 e5 10.d5 Na5 11.Qa4 b6 12.Nfd2 e4 13.e3 Bf5 14.Qc2 c6 15.dxc6 Nxc6 16.Bc3 Rc8 17.Na3 Qe7 18.Nb5 h5 19.Nd4 Nxd4 20.Bxd4 h4 21.Rfb1 hxg3 22.hxg3 Ng4 23.Bxg7 Kxg7 24.a4 Qg5 25.Qc3+ Kg8 26.a5 Qh5 27.axb6 axb6 28.Rb5 Qh2+ 29.Kf1 Red8 30.Qb2 Nxe3+ 31.fxe3 Bh3 32.Bxh3 Qxh3+ 33.Kg1 Qxg3+ 34.Kh1 Qh3+ 35.Kg1 Qxe3+ 0-1

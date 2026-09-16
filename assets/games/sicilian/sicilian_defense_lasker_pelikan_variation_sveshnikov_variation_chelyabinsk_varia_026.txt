@@ -1,0 +1,15 @@
+[Event "Round 2: Liu,Tianyi (Jack) - Verbytski, Oleg"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-2/BNhH7DXw/4e4U45LK"]
+[Date "2026.07.22"]
+[Round "2.7"]
+[White "Liu,Tianyi (Jack)"]
+[Black "Verbytski, Oleg"]
+[Result "1/2-1/2"]
+[WhiteElo "2120"]
+[BlackElo "2273"]
+[ECO "B33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nd5 Nf6 9.Bg5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Bg5 13.a4 bxa4 14.Rxa4 a5 15.Bc4 Kh8 16.b4 f5 17.b5 Ne7 18.Nxe7 Qxe7 19.Bd5 Rb8 20.c4 fxe4 21.Bxe4 Qf7 22.O-O Be6 23.Na3 Bd8 24.Kh1 Bb6 25.f3 Bc5 26.Rxa5 Bxa3 27.Rxa3 Bxc4 28.Re1 Rfd8 29.Qc2 h6 30.Bd3 Bxb5 31.Bxb5 Rxb5 32.Qc6 Qd5 33.Qc7 Rg8 34.Ra6 Qd2 35.Rg1 Rd5 36.h3 Rd4 37.Rga1 Qd3 38.Ra8 Rxa8 39.Rxa8+ Kh7 40.Qc8 Rh4 1/2-1/2

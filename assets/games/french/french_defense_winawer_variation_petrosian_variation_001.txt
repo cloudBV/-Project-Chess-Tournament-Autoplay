@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.15"]
+[Round "10.2"]
+[White "StockfishClassical 202007311012"]
+[Black "ice4 6.1.1"]
+[Result "1-0"]
+[WhiteElo "3552"]
+[BlackElo "3156"]
+[ECO "C16"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Petrosian Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7 5.Ne2 b6 6.a3 Bf8 7.Nf4 Ne7 8.Bb5 c6 9.Ba4 b5 10.Bb3 a5 11.O-O Qd8 12.Nce2 a4 13.Ba2 Nd7 14.Re1 g6 15.Bd2 Bb7 16.Bb4 Nc8 17.Nd3 h5 18.Nef4 Ncb6 19.Bxf8 Rxf8 20.Nh3 Rg8 21.Qe2 Nc4 22.f4 Kf8 23.Ng5 Rh8 24.Qf2 Kg8 25.h4 Qe7 26.Bb1 Rh6 27.Qg3 Kh8 28.b3 Ncb6 29.Qe3 Kg7 30.Ra2 Nf8 31.Qg3 Bc8 32.b4 Ra7 33.c3 Nh7 34.Nc5 Kg8 35.Rf1 Na8 36.Raf2 Kh8 37.Qe3 Qf8 38.Bd3 Re7 39.Nf3 Nc7 40.Nh2 Ne8 41.g4 hxg4 42.Nxg4 Rh5 43.Rh2 Ng7 44.Nf6 Rh6 45.Kf2 Nf5 46.Bxf5 gxf5 47.Nxh7 Rxh7 48.Rg1 Qh6 49.Rg5 f6 50.exf6 Qxf6 51.Rhg2 Reg7 52.h5 Kg8 53.Kf3 Kf8 54.Qe1 Ke8 55.Nd3 c5 56.bxc5 b4 57.Nxb4 Kf8 58.Rxg7 Rxg7 59.Rxg7 Qxg7 60.Qg3 Qh6 61.Qg5 Qg7 62.Nc6 Kg8 63.Ne7+ Kf8 64.Qxg7+ Kxg7 65.Nxc8 Kf7 66.Nd6+ Ke7 67.h6 Kf6 68.c6 Kg6 69.c7 e5 70.fxe5 Kxh6 71.c8=Q f4 72.Qg8 Kh5 73.Qh7+ Kg5 74.Nf7# 1-0

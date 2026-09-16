@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.4"]
+[White "Karvatskyi, Oleksii"]
+[Black "Arakelyan, Manvel"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2118"]
+[ECO "B83"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 d6 7.O-O Be7 8.Be3 O-O 9.f4 Bd7 10.Kh1 e5 11.Nf5 Bxf5 12.exf5 d5 13.fxe5 Nxe5 14.Bd4 Nc6 15.Bxf6 Bxf6 16.Nxd5 Bxb2 17.Rb1 Be5 18.f6 Nd4 19.c4 b5 20.Bd3 bxc4 21.Bxh7+ Kxh7 22.Qh5+ Kg8 23.Ne7+ Qxe7 24.fxe7 Rfe8 1-0

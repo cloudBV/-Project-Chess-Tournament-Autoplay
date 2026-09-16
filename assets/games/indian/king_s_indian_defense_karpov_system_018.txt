@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "8.1"]
+[White "Sowinski, Pawel"]
+[Black "Raczek, Krzysztof"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2428"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c5 7.d5 e6 8.Nf3 exd5 9.cxd5 b5 10.e5 dxe5 11.Bxb5 e4 12.Ne5 Nxd5 13.Qxd5 Qxd5 14.Nxd5 Bxe5 15.Bxc5 Rd8 16.O-O-O Bd7 17.Ne7+ Kg7 18.Rd5 Bf4+ 19.Kb1 a6 20.Ba4 a5 21.Bb6 Re8 22.Bxd7 Rxe7 23.Ba4 Ra6 24.Bxa5 Nc6 25.Bc3+ Be5 26.Bxc6 Bxc3 27.Bb5 Rf6 28.bxc3 Rxf2 29.c4 Ra7 30.a4 Rxg2 31.c5 f5 32.c6 e3 33.Rd7+ Rxd7 34.cxd7 Rd2 35.Kc1 1-0

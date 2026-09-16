@@ -1,0 +1,15 @@
+[Event "Round 8: Movsziszian, Karen - Lin, Bryan Enming"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-8/pHziG2Wr/WdsrQVUk"]
+[Date "2026.07.02"]
+[Round "8.1"]
+[White "Movsziszian, Karen"]
+[Black "Lin, Bryan Enming"]
+[Result "1/2-1/2"]
+[WhiteElo "2386"]
+[BlackElo "2381"]
+[ECO "A00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Hungarian Opening: Indian Defense"]
+
+1.g3 Nf6 2.Bg2 g6 3.e4 d6 4.Nc3 Bg7 5.d4 O-O 6.Nge2 e5 7.h3 exd4 8.Nxd4 Nc6 9.Be3 Bd7 10.O-O Re8 11.Re1 Nxd4 12.Bxd4 c5 13.Bxf6 Qxf6 14.Rb1 Bc6 15.Nd5 Qd8 16.c3 b5 17.Qd2 a5 18.a3 Rb8 19.Rbd1 h5 20.h4 b4 21.axb4 axb4 22.Re3 bxc3 23.bxc3 Bh6 24.f4 Bg7 25.Bf1 Qa5 26.Bc4 Qa4 27.Qe2 Rb2 28.Qxb2 Qxd1+ 29.Kh2 Kh7 30.Qe2 Qxe2+ 31.Rxe2 f5 32.Bd3 fxe4 33.Rxe4 Rb8 34.c4 Rb3 35.Bf1 Bd4 36.Re7+ Kh6 37.Re2 Bd7 38.Bh3 Bg4 39.Bxg4 hxg4 40.Kg2 Kg7 41.Nc7 Rb6 42.Nb5 Kf6 43.Nxd4 cxd4 44.Rd2 Kf5 45.Rxd4 Rb2+ 46.Kf1 Rb3 47.Kf2 Rb2+ 48.Kf1 1/2-1/2

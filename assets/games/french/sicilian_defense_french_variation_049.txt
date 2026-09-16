@@ -1,0 +1,15 @@
+[Event "Round 3: Shilon Rahav, Eliran - Belkovsky, Guy"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-3/nUTnwfb6/EiBWDar7"]
+[Date "2026.07.15"]
+[Round "3.11"]
+[White "Shilon Rahav, Eliran"]
+[Black "Belkovsky, Guy"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2174"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 d5 4.exd5 exd5 5.d4 cxd4 6.Nxd4 Nc6 7.Bg2 Bc5 8.Ne2 Nf6 9.O-O O-O 10.Nbc3 Bg4 11.h3 Bh5 12.Bg5 h6 13.Bxf6 Qxf6 14.Qxd5 Bxe2 15.Nxe2 Bb6 16.Nc3 Rad8 17.Qf3 Qg6 18.Rac1 Rd2 19.Ne4 Nd4 20.Qg4 Qxg4 21.hxg4 Rxc2 22.Rxc2 Nxc2 23.Nc3 Nb4 24.Bxb7 Nd3 25.Na4 Bc7 26.Be4 Ne5 27.Rc1 Bb8 28.f3 Nd7 29.Kg2 Nf6 30.Nc5 Rd8 31.Rc2 g6 32.Bc6 Rc8 33.Bb7 Rd8 34.b4 Kg7 35.b5 Rd4 36.a4 Bd6 37.a5 Ne8 38.Ne4 f5 39.gxf5 gxf5 40.Nxd6 Nxd6 41.Rc7+ Kf6 42.Bc6 Rd2+ 43.Kh3 Rc2 44.Rxa7 Rc5 45.Ra6 Ke5 46.f4+ Ke6 47.Ra8 Nxb5 48.Bxb5 Rxb5 49.a6 Kd5 1-0

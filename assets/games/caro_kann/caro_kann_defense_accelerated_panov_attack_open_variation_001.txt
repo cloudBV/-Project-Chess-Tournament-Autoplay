@@ -1,0 +1,14 @@
+[Event "Round 4: Zuferi, Enis - Hinrichs, Paul"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/Jhv0zw7b"]
+[Date "2026.07.21"]
+[Round "4.6"]
+[White "Zuferi, Enis"]
+[Black "Hinrichs, Paul"]
+[Result "1-0"]
+[WhiteElo "2356"]
+[BlackElo "2307"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Open Variation"]
+
+1.c4 c6 2.e4 e5 3.Nf3 d6 4.Nc3 Bg4 5.d4 Nd7 6.Be3 Be7 7.Qd2 Ngf6 8.Be2 O-O 9.O-O Bh5 10.Qc2 Qc7 11.h3 d5 12.dxe5 Nxe4 13.cxd5 cxd5 14.Rfc1 Nxc3 15.Qxc3 Qxc3 16.Rxc3 Nxe5 17.g4 Bf6 18.Nxe5 Bxe5 19.gxh5 d4 20.Rc5 Rfe8 21.Bg5 Bd6 22.Rc2 h6 23.Bh4 f5 24.Bd3 1-0

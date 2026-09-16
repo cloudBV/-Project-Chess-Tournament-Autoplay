@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "3.5"]
+[White "Kresz, Adam"]
+[Black "Onodi, Tamas"]
+[Result "1-0"]
+[WhiteElo "2250"]
+[BlackElo "2043"]
+[ECO "B22"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5 5.Nf3 Nc6 6.Bc4 Nb6 7.Bb3 d5 8.exd6 Qxd6 9.O-O Be6 10.Na3 Bxb3 11.axb3 a6 12.Qe2 g6 13.Rd1 Bg7 14.Nc2 O-O 15.Ncxd4 Nxd4 16.Nxd4 Qc7 17.Bg5 e5 18.Nc2 f6 19.Be3 Rfd8 20.Nb4 Bf8 21.Bxb6 Qxb6 22.Nd5 Qc6 23.c4 Kg7 24.h4 h5 25.g4 hxg4 26.Qxg4 Qc8 27.Qg2 Qf5 28.Ne3 Qh5 29.Qxb7+ Kh6 30.Rd7 Rxd7 31.Qxd7 f5 32.Qc6 Ra7 33.Qb6 Rd7 34.Qe6 Rd4 35.Rxa6 Kh7 36.Ra7+ Bg7 37.Rxg7+ Kh6 38.Qf7 Rd1+ 39.Kg2 1-0

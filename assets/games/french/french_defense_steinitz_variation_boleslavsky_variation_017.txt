@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL B"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "6.4"]
+[White "Rosales Schulz, Robin"]
+[Black "Fica Cruz, Joaquin"]
+[Result "1/2-1/2"]
+[WhiteElo "2097"]
+[BlackElo "2110"]
+[ECO "C11"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Qd2 O-O 9.Be2 Qa5 10.O-O cxd4 11.Nxd4 Nxd4 12.Bxd4 Bc5 13.Rad1 Bxd4+ 14.Qxd4 Qc5 15.Nb5 Qxc2 16.Bd3 Qc5 17.Rc1 Qxd4+ 18.Nxd4 b6 19.Nb3 Rd8 20.Rc7 Nf8 21.Rfc1 Bd7 22.Ba6 Ng6 23.g3 Kf8 24.Bb7 Rab8 25.Ba6 Ra8 26.Bb7 Rab8 27.Ba6 Ra8 28.Nd4 Ne7 29.Bb7 Rab8 30.Ba6 Ra8 31.Ra1 Bc8 1/2-1/2

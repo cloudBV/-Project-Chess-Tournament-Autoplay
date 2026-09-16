@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-6/7dL2aEPn/WJ41hc5p"]
+[Date "2026.07.02"]
+[Round "6.6"]
+[White "Ribeiro, Matheus Mendes Domingues"]
+[Black "Delgado Ramirez, Neuris"]
+[Result "1/2-1/2"]
+[WhiteElo "2345"]
+[BlackElo "2519"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Nc3 Bf5 5.Nh4 g6 6.Nxf5 gxf5 7.a4 a5 8.Qd3 e6 9.f3 Bb4 10.Bg2 Nf6 11.O-O Qd7 12.Bg5 Ng8 13.e4 h6 14.Bf4 Bxc3 15.Qxc3 Ne7 16.Qxc7 Qxc7 17.Bxc7 Nc4 18.Bf4 Nxb2 19.Rfb1 Nc4 20.Rxb7 Rc8 21.Re1 Kf8 22.Bf1 Ng6 23.Bxc4 Rxc4 24.Bd6+ Kg7 25.exf5 exf5 26.Re5 Rd8 27.Rxd5 Rxc2 28.Be5+ Nxe5 29.Rxd8 Nxf3+ 30.Kf1 Nxh2+ 31.Ke1 Nf3+ 32.Kd1 Rc4 33.Ke2 Ng5 34.Rd5 1/2-1/2

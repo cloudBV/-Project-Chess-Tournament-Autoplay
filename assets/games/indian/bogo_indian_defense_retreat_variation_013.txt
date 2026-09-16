@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/GTPL6JtQ"]
+[Date "2026.07.05"]
+[Round "9.28"]
+[White "Sieczkowski, Adam"]
+[Black "Padalka, Artem"]
+[Result "1-0"]
+[WhiteElo "2075"]
+[BlackElo "2077"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.Qc2 b6 8.O-O Bb7 9.cxd5 exd5 10.b4 Ne4 11.Rc1 c5 12.bxc5 bxc5 13.dxc5 Bxc5 14.e3 Nd7 15.Nc3 Qe7 16.Rab1 Ndf6 17.Na4 Bd6 18.Nd4 g6 19.Be1 Ba6 20.Nb2 h5 21.Qa4 Bc8 22.Nb5 Bd7 23.Qa6 Bxb5 24.Qxb5 h4 25.Nd3 Qe6 26.gxh4 Qf5 27.f3 Rab8 28.fxe4 Qg4 29.Qc6 Rxb1 30.Rxb1 Qe2 1-0

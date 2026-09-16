@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.4"]
+[White "Pawlicz, Filip"]
+[Black "Chiszko, Oskar"]
+[Result "1-0"]
+[WhiteElo "2068"]
+[BlackElo "2214"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Qe2 Be7 4.Nf3 b6 5.g3 Bb7 6.Bg2 Nf6 7.e5 Nfd7 8.O-O c5 9.c4 d4 10.h4 Nc6 11.Bf4 h6 12.h5 Qc7 13.Nbd2 O-O-O 14.a3 g5 15.hxg6 fxg6 16.g4 Rdf8 17.Bg3 h5 18.g5 Kb8 19.Nh4 Rhg8 20.f4 Rc8 21.Ne4 Rg7 22.Rae1 Ka8 23.Nf6 Nf8 24.Rb1 a5 25.b3 Nb8 26.Qa2 Bxg2 27.Qxg2+ Qc6 28.Qa2 Na6 29.Ne4 Nd7 30.Nf6 Kb7 31.Qe2 Ka7 32.Qe4 Nf8 33.Be1 Kb7 34.Bd2 Ka7 35.Rb2 Kb7 36.Ra1 Rf7 37.Be1 Rg7 38.Bf2 Rf7 39.Nf3 Rg7 40.Kh2 Rd8 41.Be1 Nd7 42.Qxc6+ Kxc6 43.b4 Kc7 44.bxa5 Rb8 45.Nxd7 Kxd7 46.Rxb6 Rxb6 47.axb6 Kc6 48.Rb1 Kb7 49.Nd2 Bd8 50.Ne4 Kc6 51.Ba5 Rg8 52.Nd6 Rf8 53.Kg3 Kd7 54.Rb5 Kc6 55.a4 h4+ 56.Kg4 h3 57.Rb2 Rh8 58.Kg3 h2 59.Rxh2 Rxh2 60.Kxh2 Nb4 61.b7 Bc7 62.Bxb4 cxb4 63.Nb5 Kb6 64.Nxd4 Kxb7 65.Nb3 Bb6 66.d4 Kc6 67.Kg3 Bxd4 68.Nxd4+ Kc5 69.Nb3+ Kxc4 70.Na5+ Kd4 71.Nc6+ 1-0

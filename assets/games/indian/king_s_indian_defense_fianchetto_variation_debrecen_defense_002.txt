@@ -1,0 +1,15 @@
+[Event "预选赛8进4"]
+[Site "chengdu, China"]
+[Date "2026.07.24"]
+[Round "2.2"]
+[White "Li, Di"]
+[Black "Kong, Xiangrui"]
+[Result "1-0"]
+[WhiteElo "2469"]
+[BlackElo "2398"]
+[ECO "E67"]
+[TimeControl "15m+10s"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Debrecen Defense"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.h3 e5 8.Be3 Qe7 9.O-O c6 10.Qb3 exd4 11.Bxd4 Ne5 12.Rad1 Re8 13.Qa4 Bf5 14.b3 a6 15.Qa3 c5 16.Be3 b5 17.Nxe5 Qxe5 18.Nd5 Nxd5 19.Rxd5 Qe6 20.Rfd1 Be5 21.g4 Bxg4 22.hxg4 Qxg4 23.Kf1 bxc4 24.bxc4 Rab8 25.Qxa6 Ra8 26.Qc6 Rec8 27.Qb7 Rcb8 28.Qc7 Rb2 29.R5d2 Raxa2 30.Bh6 Bf6 31.Qxd6 1-0

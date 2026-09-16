@@ -1,0 +1,15 @@
+[Event "Round 5: Janzelj, Tim - Macias Pino, Diego"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/0qH3p0vW"]
+[Date "2026.06.29"]
+[Round "5.1"]
+[White "Janzelj, Tim"]
+[Black "Macias Pino, Diego"]
+[Result "1/2-1/2"]
+[WhiteElo "2394"]
+[BlackElo "2494"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 Be7 6.Nf3 d5 7.Qf4 dxe4 8.Nxe4 e5 9.Qg3 f5 10.Qxg7 fxe4 11.Qxh8 Be6 12.Nd2 Qd7 13.Nxe4 O-O-O 14.Bd3 Bf5 15.O-O Bxe4 16.Bxe4 Nf6 17.Qg7 Nxe4 18.Be3 Nf6 19.Qf7 Rg8 20.f3 Qf5 1/2-1/2

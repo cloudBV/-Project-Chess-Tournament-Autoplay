@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.06"]
+[Round "10.1"]
+[White "Pressler, Tobias"]
+[Black "Mica, Marek"]
+[Result "1-0"]
+[WhiteElo "2070"]
+[BlackElo "2284"]
+[ECO "A17"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Hedgehog System"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.cxd5 exd5 5.d4 c6 6.Bg5 h6 7.Bh4 Be6 8.e3 Nbd7 9.Bd3 g5 10.Bg3 Nh5 11.Qc2 Nxg3 12.hxg3 h5 13.Bf5 Qf6 14.Bxe6 fxe6 15.g4 h4 16.O-O-O O-O-O 17.Kb1 Kb8 18.e4 Bg7 19.Qd2 Rdf8 20.Nxg5 Bh6 21.f4 Bxg5 22.fxg5 Qg6 23.Ka1 dxe4 24.Qe3 Nb6 25.Nxe4 Nd5 26.Qe1 Rf4 27.Nc5 Rxg4 28.Qe5+ Ka8 29.Qxh8+ 1-0

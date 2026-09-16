@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-5/wUsb6suP/9WuFA65A"]
+[Date "2026.07.11"]
+[Round "5.3"]
+[White "Shirov, Alexei"]
+[Black "Rogule, Laura"]
+[Result "1-0"]
+[WhiteElo "2616"]
+[BlackElo "2274"]
+[ECO "B90"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7 9.g4 Be7 10.g5 Nh5 11.Qd2 O-O 12.O-O-O Rc8 13.Kb1 g6 14.Rg1 Nb6 15.f4 exf4 16.Bxf4 Nxf4 17.Qxf4 Rxc3 18.bxc3 Qc7 19.Rg3 Na4 20.Rdd3 f6 21.Rgf3 fxg5 22.Qg3 Rc8 23.Bh3 Qd7 24.Bxe6+ Qxe6 25.Nd4 Qc4 26.e5 d5 27.Qg4 Rc6 28.Qd7 Rb6+ 29.Nb3 Ba3 30.Qe8+ Kg7 31.Rf7+ Kh6 32.Rh3+ 1-0

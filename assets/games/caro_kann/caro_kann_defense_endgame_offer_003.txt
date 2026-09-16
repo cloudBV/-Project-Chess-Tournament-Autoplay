@@ -1,0 +1,15 @@
+[Event "Round 7: Temizer, Umut - Yildiz, Egehan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/gvgeJafm"]
+[Date "2026.07.03"]
+[Round "7.18"]
+[White "Temizer, Umut"]
+[Black "Yildiz, Egehan"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2360"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 Bg7 5.d4 f6 6.Bd3 fxe5 7.Nxe5 Nd7 8.Qe2 Nxe5 9.dxe5 Nh6 10.O-O O-O 11.a4 Bg4 12.f3 Bf5 13.Ra3 Bxd3 14.Rxd3 e6 15.g4 Nf7 16.f4 g5 17.Rb3 Qe7 18.Kg2 gxf4 19.Bxf4 Nh8 20.Nd2 Ng6 21.Bg3 Rxf1 1/2-1/2

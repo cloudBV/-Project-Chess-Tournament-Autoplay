@@ -1,0 +1,15 @@
+[Event "Round 8: Khademi, Mohammad Miran - Atakhan, Abtin"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-8/R1nNuo53/Fy32UmAx"]
+[Date "2026.07.16"]
+[Round "8.3"]
+[White "Khademi, Mohammad Miran"]
+[Black "Atakhan, Abtin"]
+[Result "1-0"]
+[WhiteElo "2127"]
+[BlackElo "2407"]
+[ECO "A00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Hungarian Opening: Sicilian Invitation"]
+
+1.g3 c5 2.Bg2 Nc6 3.c4 g6 4.h4 Nf6 5.b3 Bg7 6.Bb2 d6 7.Nc3 Rb8 8.d3 a6 9.Qd2 e5 10.e3 Be6 11.Nge2 h5 12.d4 cxd4 13.exd4 Bg4 14.Ba3 O-O 15.dxe5 Nxe5 16.Bxd6 Nf3+ 17.Bxf3 Bxf3 18.Bxf8 Qxf8 19.O-O Ng4 20.Rae1 Ne5 21.Nd4 Rd8 22.Qe3 Rxd4 23.Qxd4 Qc8 24.g4 Nd3 25.Nd5 Bxd4 26.Ne7+ Kg7 27.Nxc8 Nxe1 28.Rxe1 hxg4 29.Kf1 f5 30.Nd6 Kf6 31.b4 Bc3 32.Rb1 Ke6 33.c5 b5 34.Rb3 Bd2 35.Ra3 Bxb4 36.Rxa6 Kd5 37.Nb7 Bxc5 38.Nxc5 Kxc5 39.Rxg6 Kd5 1-0

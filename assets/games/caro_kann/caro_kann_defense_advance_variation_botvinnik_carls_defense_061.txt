@@ -1,0 +1,15 @@
+[Event "Round 3: Venkataramanan, T.S. - Honey, Luke Anthony"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-3/AI650Rh4/crjkJL8m"]
+[Date "2026.07.18"]
+[Round "3.14"]
+[White "Venkataramanan, T.S."]
+[Black "Honey, Luke Anthony"]
+[Result "1-0"]
+[WhiteElo "2219"]
+[BlackElo "2040"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 5.f4 Nh6 6.Be3 g5 7.fxg5 Ng4 8.Bd4 Bg7 9.Nf3 Ngxe5 10.Nxe5 Nxe5 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.O-O O-O 14.Nc3 e6 15.Kh1 Rac8 16.Qh5 Ng6 17.Bxg7 Kxg7 18.Qh6+ Kg8 19.Ne2 f6 20.gxf6 Rxc5 21.c3 Rc4 22.Nf4 Nxf4 23.Rxf4 Rxf4 24.Qxf4 Qf7 25.Rf1 Qg6 26.h3 h6 27.Rf3 Kh7 28.Kh2 Rf7 29.Qd6 Qe4 30.Rg3 h5 31.Qb8 h4 32.Qg8+ Kh6 33.Qg5+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Erdogmus, Yagiz Kaan - Bluebaum, Matthias"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-4/dIaFLxw2/UrqznPqV"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Erdogmus, Yagiz Kaan"]
+[Black "Bluebaum, Matthias"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2634"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bf4 Bd6 5.Qd2 Nf6 6.Nc3 O-O 7.Bd3 c6 8.Nge2 a5 9.f3 Ne8 10.O-O Na6 11.a3 Nac7 12.Bxd6 Nxd6 13.Ng3 Ne6 14.Nce2 Qh4 15.c3 f5 16.f4 Ne4 17.Bxe4 fxe4 18.f5 Qg5 19.Qxg5 Nxg5 20.c4 b6 21.cxd5 cxd5 22.Nf4 Ba6 23.Rfc1 Bc4 24.h4 Nf7 25.Ne6 Rfc8 26.Nh5 Nd6 27.Nexg7 Be2 28.f6 Kf7 29.Nf4 Bc4 30.Ngh5 Rg8 31.b3 b5 32.Rab1 Rab8 33.bxc4 dxc4 34.Nd5 Nf5 35.Re1 e3 36.Nxe3 Nxh4 37.Kf2 Rg5 38.Nf4 c3 39.Ned5 Nf5 40.Nxc3 Nxd4 41.Ncd5 Nf5 42.Rbc1 Rb7 43.Re5 b4 44.axb4 axb4 45.Ne6 Rg8 46.Rh1 h6 47.Nef4 Rg5 48.Rxh6 Rxg2+ 49.Kxg2 Nxh6 50.Rg5 Rb8 51.Rg7+ 1-0

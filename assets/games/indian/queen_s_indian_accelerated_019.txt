@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.17"]
+[White "Schippke, Manon"]
+[Black "Fiorito, Joaquin"]
+[Result "1-0"]
+[WhiteElo "2250"]
+[BlackElo "2440"]
+[ECO "A50"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.f3 d5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 e6 8.Be3 Be7 9.Nh3 O-O 10.Qb3 Nc6 11.Rd1 Na5 12.Qb1 Qc8 13.Bd3 c5 14.O-O Ba6 15.d5 exd5 16.exd5 Bxd3 17.Qxd3 Bf6 18.Bg5 c4 19.Qc2 Qd8 20.Qf5 Qd6 21.Bxf6 Qxf6 22.Qxf6 gxf6 23.Nf4 Rad8 24.Rfe1 Rfe8 25.Nh5 Rxe1+ 26.Rxe1 Kf8 27.Nxf6 Nb7 28.g4 Nd6 29.Kf2 Nb5 30.Re3 Nc7 31.Re4 b5 32.g5 Rd6 33.Nxh7+ Kg7 34.Nf6 Kg6 35.h4 a5 36.f4 Rxf6 37.h5+ Kf5 38.gxf6 Kxe4 39.h6 b4 40.h7 Kxd5 1-0

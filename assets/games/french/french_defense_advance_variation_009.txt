@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.21"]
+[White "Bettalli, Francesco"]
+[Black "Kusiak, Mateusz"]
+[Result "1-0"]
+[WhiteElo "2396"]
+[BlackElo "2063"]
+[ECO "C02"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 a6 6.Bd3 Nc6 7.O-O cxd4 8.cxd4 Qb6 9.Be2 Nge7 10.Na3 Nf5 11.Nc2 h5 12.Bd3 Rc8 13.Rb1 Be7 14.Re1 Nh4 15.Ng5 Nb4 16.Nxb4 Bxb4 17.Re3 Bb5 18.Bxb5+ Qxb5 19.Rh3 Ng6 20.Be3 h4 21.Rf3 Rf8 22.a4 Qd7 23.Qd3 Ne7 24.Qh7 Nf5 25.Rxf5 exf5 26.Bf4 Rc6 27.Qxg7 Rg6 28.Qh7 Rfg8 29.Nf3 Rxg2+ 30.Kh1 Qe6 31.Bg3 R8xg3 32.fxg3 Rc2 33.Nxh4 Qc6 34.Qxf5 Qc4 35.Rf1 Qe2 36.Qxf7+ Kd8 37.Qxd5+ Kc8 38.Qg2 Qd3 39.Qf3 Qd2 40.Ng2 Rxb2 41.d5 Kb8 42.d6 1-0

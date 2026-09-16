@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-5/wUsb6suP/8PlJL5Lb"]
+[Date "2026.07.11"]
+[Round "5.2"]
+[White "Miezis, Normunds"]
+[Black "Mierins, Emils Janis"]
+[Result "1/2-1/2"]
+[WhiteElo "2386"]
+[BlackElo "2213"]
+[ECO "A29"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d3 O-O 9.a3 Be6 10.b4 a5 11.b5 Nd4 1/2-1/2

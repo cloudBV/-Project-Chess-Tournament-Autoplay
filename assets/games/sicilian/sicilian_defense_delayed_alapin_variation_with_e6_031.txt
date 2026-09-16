@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.19"]
+[Round "7"]
+[White "Burovic, Rijad"]
+[Black "Omorjan, Dejan"]
+[Result "1/2-1/2"]
+[WhiteElo "2415"]
+[BlackElo "2319"]
+[ECO "B40"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 b6 7.Bd2 Be7 8.Nc3 Nxc3 9.Bxc3 Bb7 10.Bc4 Qc8 11.Bb3 O-O 12.d5 Bxd5 13.Bxd5 exd5 14.Qxd5 Qa6 15.O-O-O Nc6 16.Kb1 b5 17.Qd3 Qb6 18.Bd4 Nxd4 19.Nxd4 Bc5 20.f4 Bxd4 21.Qxd4 Qg6+ 22.Ka1 Rac8 23.Qxd7 Qe4 24.g3 Rc2 25.Qxb5 Rfc8 26.a3 h5 27.Qb3 Re2 28.Ka2 Rcc2 29.Rd8+ Kh7 30.Rb1 Rc4 31.Rd7 Re3 32.Qb7 Qc2 33.Qxa7 Qb3+ 34.Ka1 Ra4 35.Qc5 Rc3 36.Qd6 h4 37.gxh4 Rh3 38.f5 Rxh2 39.e6 Rxb2 40.Rxb2 Rxa3+ 41.Kb1 Qa4 42.Qxa3 Qxa3 43.exf7 Qc5 44.Rbb7 Qxf5+ 45.Kb2 Qf2+ 46.Kb3 Qg3+ 47.Kc4 Qxh4+ 48.Kd5 Qf6 49.Re7 Qf4 50.Rbc7 Qf6 51.Re6 Qf4 52.Kc6 Qa4+ 53.Kd6 Qb4+ 54.Kd7 Qb5+ 55.Ke7 Qg5+ 56.Ke8 Qb5+ 57.Ke7 Qg5+ 58.Kd6 Qf4+ 59.Kd5 Qf3+ 60.Kc5 Qf5+ 61.Kd6 Qf4+ 62.Ke7 Qxc7+ 63.Ke8 Qb8+ 64.Ke7 Qc7+ 65.Ke8 Qc8+ 66.Ke7 Qc7+ 67.Ke8 Qc8+ 1/2-1/2

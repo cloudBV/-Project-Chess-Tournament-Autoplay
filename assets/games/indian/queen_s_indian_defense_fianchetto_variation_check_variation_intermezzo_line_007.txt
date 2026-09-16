@@ -1,0 +1,15 @@
+[Event "Round 4: Hayrapetyan, Hovik - Zakhartsov, Viacheslav V."]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-4/ZN9WtA8l/dZWgQBLA"]
+[Date "2026.07.15"]
+[Round "4.3"]
+[White "Hayrapetyan, Hovik"]
+[Black "Zakhartsov, Viacheslav V."]
+[Result "1/2-1/2"]
+[WhiteElo "2412"]
+[BlackElo "2467"]
+[ECO "E15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5 9.Nbd2 Nbd7 10.O-O O-O 11.Re1 c5 12.e4 Nxe4 13.Nxe4 dxe4 14.Rxe4 Bb7 15.Re2 Bf6 16.Rd2 Qc8 17.Rc1 cxd4 18.Bxd4 Qc7 19.Qe2 Bc6 20.Bxf6 Nxf6 21.Nd4 Bxg2 22.Kxg2 a6 23.Rcd1 Rac8 24.Qf3 h6 25.Nc2 b5 26.Ne3 bxc4 27.bxc4 Rb8 28.Rd6 Rb6 29.Rxb6 Qxb6 30.h4 h5 31.Qf4 Qa5 32.Qd4 Qxa2 33.Ra1 Qb3 34.Qa7 Ng4 35.Nxg4 hxg4 36.Qxa6 Qf3+ 37.Kg1 Rd8 38.Qa5 Rc8 39.Rc1 Qe4 40.c5 Qd5 41.Qc3 Rc6 42.Qc4 Qxc4 43.Rxc4 f5 44.f3 gxf3 45.Kf2 Kf7 46.Kxf3 e5 47.g4 fxg4+ 48.Kxg4 1/2-1/2

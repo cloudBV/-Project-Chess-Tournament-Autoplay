@@ -1,0 +1,14 @@
+[Event "Round 9: Bajraktari, Perparim - Gluckman, David"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-9/Py4tbrrf/KobT5DYh"]
+[Date "2026.07.19"]
+[Round "9.19"]
+[White "Bajraktari, Perparim"]
+[Black "Gluckman, David"]
+[Result "1-0"]
+[WhiteElo "2045"]
+[BlackElo "2240"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+
+1.c4 Nf6 2.Nf3 g6 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Bg7 6.Bg2 O-O 7.Kf1 1-0

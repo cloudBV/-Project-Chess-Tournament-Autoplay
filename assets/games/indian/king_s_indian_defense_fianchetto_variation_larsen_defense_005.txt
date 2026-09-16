@@ -1,0 +1,15 @@
+[Event "Round 5: Aloma Vidal, Robert - Gade Sharanya"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-5/VJW5TtEy/3ziAiHP4"]
+[Date "2026.07.08"]
+[Round "5.5"]
+[White "Aloma Vidal, Robert"]
+[Black "Gade Sharanya"]
+[Result "0-1"]
+[WhiteElo "2343"]
+[BlackElo "2084"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 O-O 5.d4 d6 6.O-O c6 7.Nc3 Bf5 8.Ne1 e5 9.d5 cxd5 10.cxd5 a5 11.e4 Bd7 12.Nd3 Na6 13.a3 Qc7 14.Bg5 b5 15.Rc1 b4 16.Nb1 Qb7 17.a4 b3 18.Nd2 Nb4 19.Nc4 Ra6 20.Qxb3 Bxa4 21.Qxa4 Nxd3 22.Ra1 Nc5 23.Qc2 Nb3 24.Ra3 a4 25.Bh3 Ne8 26.Nd2 Nd4 27.Qc4 f5 28.exf5 gxf5 29.Bg2 h6 30.Bh4 Qxb2 31.Ra2 Qb5 32.Rfa1 Ne2+ 33.Kh1 Qxc4 34.Nxc4 Nc3 35.Rb2 Nf6 36.Ne3 Nd7 37.Rb7 Nc5 38.Bf1 Nxb7 39.Bxa6 Nc5 40.Bf1 Rb8 41.Nxf5 Rb1 42.Rxb1 Nxb1 43.Bc4 Nb3 44.Nxd6 N1d2 45.Be7 a3 46.Nf5 Nxc4 47.Bxa3 Nxa3 48.d6 Nc5 49.g4 Nc4 50.h4 Kf7 51.Kg2 Bf8 52.f4 exf4 53.Kf3 Nxd6 54.Kxf4 Nd3+ 55.Ke3 Nxf5+ 0-1

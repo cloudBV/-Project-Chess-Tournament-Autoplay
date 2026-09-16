@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.14"]
+[Round "4.10"]
+[White "Schoehuijs, Erik"]
+[Black "Duijker, Rick"]
+[Result "0-1"]
+[WhiteElo "2111"]
+[BlackElo "2195"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Be7 6.e4 dxe4 7.fxe4 c5 8.d5 exd5 9.exd5 O-O 10.Nf3 Ng4 11.Be2 Bh4+ 12.g3 Bf6 13.O-O Re8 14.Qd3 Nd7 15.Ne4 Nde5 16.Nxe5 Bxe5 17.Ng5 Nf6 18.Be3 h6 19.Nxf7 Kxf7 20.Bh5+ Kg8 21.Bxe8 Qxe8 22.Bxc5 Bh3 23.Rf2 b6 24.Bb4 a5 25.Bd2 Ng4 26.Rf5 Qg6 27.Bc3 Bxc3 28.bxc3 Ne5 0-1

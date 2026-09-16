@@ -1,0 +1,15 @@
+[Event "Round 8: Lomineishvili, Maia - Pantsulaia, Levan"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-8/9nAkS9lJ/RAoiloRh"]
+[Date "2026.07.19"]
+[Round "8.4"]
+[White "Lomineishvili, Maia"]
+[Black "Pantsulaia, Levan"]
+[Result "0-1"]
+[WhiteElo "2342"]
+[BlackElo "2493"]
+[ECO "B19"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Bb4 13.c3 Be7 14.c4 Qc7 15.O-O-O b5 16.cxb5 cxb5+ 17.Kb1 Ngf6 18.Rc1 Qb7 19.Rhe1 Qd5 20.Ne5 O-O 21.f4 Rac8 22.f5 Rxc1+ 23.Bxc1 Nxe5 24.Rxe5 Qxg2 25.fxe6 Bd6 26.e7 Re8 27.Re3 Rxe7 28.Rxe7 Bxe7 29.Nf5 Bf8 30.Qxb5 Qf3 31.Ne3 Qxh5 32.d5 Qg6+ 33.Ka1 h5 34.Qc6 Qg1 35.Kb1 h4 36.d6 h3 37.d7 Nxd7 38.Qxd7 h2 0-1

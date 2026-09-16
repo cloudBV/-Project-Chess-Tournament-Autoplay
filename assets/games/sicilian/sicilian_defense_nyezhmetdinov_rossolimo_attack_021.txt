@@ -1,0 +1,14 @@
+[Event "Round 2: Vazquez Espino, Uriel - Obregon Rivero, Juan Carlos"]
+[Site "https://lichess.org/broadcast/viii-campeonato-nacional-abierto-de-ajedrez-de-verano-ezequiel-montes-2026/round-2/skzAvKY9/vfYcf5Mo"]
+[Date "2026.07.03"]
+[Round "2.1"]
+[White "Vazquez Espino, Uriel"]
+[Black "Obregon Rivero, Juan Carlos"]
+[Result "0-1"]
+[WhiteElo "2123"]
+[BlackElo "2468"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c4 a6 6.Ba4 Qc7 7.Nc3 g6 8.Re1 Bg7 9.Bxc6 Nxc6 10.d3 O-O 11.h4 h6 12.e5 d6 13.exd6 Qxd6 14.Be3 b6 15.Qd2 Kh7 16.Ne4 Qc7 17.h5 f5 18.Bxh6 Bxh6 19.hxg6+ Kxg6 20.Nh4+ Kg7 21.Qd1 Qe7 22.Qh5 Qf7 23.Qf3 fxe4 24.Qg4+ Kh7 25.Qxe4+ Kg8 26.Rf1 Bb7 27.Rae1 Nd4 0-1

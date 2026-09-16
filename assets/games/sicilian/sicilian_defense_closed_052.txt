@@ -1,0 +1,14 @@
+[Event "Round 7: Lu, Miaoyi - Ganguly, Surya Shekhar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/nM5rbOTb"]
+[Date "2026.07.12"]
+[Round "7.3"]
+[White "Lu, Miaoyi"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[WhiteElo "2309"]
+[BlackElo "2545"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.Nge2 Nf6 4.g3 g6 5.Bg2 Bg7 6.d4 cxd4 7.Nxd4 O-O 8.O-O Nc6 9.h3 Nxe4 10.Nxc6 Nxc3 11.Nxd8 Nxd1 12.Nxb7 Bxb7 13.Bxb7 Rab8 14.Bd5 Bxb2 15.Rb1 Bxc1 16.Rxb8 Rxb8 17.Rxd1 Ba3 18.Bb3 e6 19.h4 h5 20.Rd4 d5 21.Ra4 Bc5 22.Kg2 Kg7 23.Kf3 Kf6 24.Ra6 Bb6 25.a4 Rc8 26.Ke2 Rc5 27.Kd3 Ke7 28.c4 Kd6 29.cxd5 exd5 30.a5 Rxa5 31.Rxa5 Bxa5 32.Ba4 Bb6 33.Ke2 a5 34.Be8 Ke6 35.f3 Bc7 36.Kf2 d4 37.g4 Bd8 38.Kg3 d3 39.Kf2 Bxh4+ 40.Ke3 Bg5+ 41.Kxd3 h4 42.Ke2 Bf4 0-1

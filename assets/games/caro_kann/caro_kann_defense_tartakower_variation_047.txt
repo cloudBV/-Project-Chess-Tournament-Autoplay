@@ -1,0 +1,15 @@
+[Event "Round 2: Makhamadullaev, Mukhammaddiyor - Dinh Nho Kiet"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-2/5Ey0SplQ/9TkCIo1I"]
+[Date "2026.07.18"]
+[Round "2.12"]
+[White "Makhamadullaev, Mukhammaddiyor"]
+[Black "Dinh Nho Kiet"]
+[Result "0-1"]
+[WhiteElo "2088"]
+[BlackElo "2330"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O b5 12.d5 c5 13.Bxb5 Rb8 14.c4 a6 15.Ba4 Re5 16.Bb3 Nf8 17.Nc3 Ng6 18.Qd2 Rb4 19.Rhe1 Qa5 20.f3 Bf5 21.Ne4 Bxe4 22.fxe4 Rxe4 23.a3 Rbxc4+ 24.Bxc4 Rxc4+ 25.Kb1 Qb5 26.Ka2 Ne5 27.Qe2 Qb7 28.Qxh5 Rc2 29.Bc1 c4 30.Re3 Nd3 31.Rdxd3 cxd3 32.Rh3 Kf8 33.Re3 Be5 34.Qh8+ Ke7 35.Rxe5+ fxe5 36.Bg5+ Kd6 37.Qd8+ Kc5 38.Qa5+ Kc4 39.Qa4+ Kxd5 40.Qa5+ Ke6 0-1

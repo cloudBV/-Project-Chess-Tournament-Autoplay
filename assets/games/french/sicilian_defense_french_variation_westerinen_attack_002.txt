@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.04"]
+[Round "4.3"]
+[White "Navarro Guerrero, Simon"]
+[Black "Chacon Salinas, Cesar"]
+[Result "1/2-1/2"]
+[WhiteElo "2093"]
+[BlackElo "2187"]
+[ECO "B40"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.Bb2 d5 5.exd5 exd5 6.Bd3 Qe7+ 7.Qe2 Qxe2+ 8.Kxe2 Nc6 9.Re1 f6 10.Kf1+ Kf7 11.a3 Bd6 12.Nc3 Nge7 13.Na4 Bg4 14.Be2 Bf5 15.Rac1 b5 16.Nc3 g5 17.g3 h5 18.h4 Rag8 19.hxg5 fxg5 20.Nxd5 Nxd5 21.Bxh8 Rxh8 22.c4 Nc7 23.b4 Be7 24.cxb5 Nxb5 25.Bxb5 axb5 26.Rxe7+ Nxe7 27.Rxc5 Kf6 28.Kg1 Rd8 29.Rxb5 Rd3 30.Rb6+ Kg7 31.Nxg5 Rxa3 32.f3 Rd3 33.g4 hxg4 34.fxg4 Bxg4 35.Rb7 Kg6 36.Ne4 Nd5 37.Nf2 Rd4 38.Nxg4 Rxg4+ 39.Kf2 Nxb4 40.Rb5 Kf6 41.Ke3 Ke6 42.Rh5 Kd6 43.Kf3 Rc4 44.Rh8 Nd5 45.Ke2 Rg4 46.Kd3 Nf4+ 47.Kc3 Rg3+ 48.Kc4 Ke5 49.d4+ Kd6 50.Ra8 Rg1 51.Ra6+ Kc7 52.Rf6 Rc1+ 53.Kb5 Nd5 54.Rh6 Ne7 55.Rf6 Kd7 56.Ra6 Nc6 57.d5 Ne7 58.Kb4 Nxd5+ 59.Kb3 Kc7 60.Rh6 Kb7 61.Rg6 Nb6 62.Kb4 Ka6 63.Rh6 Rc4+ 64.Kb3 Rd4 65.Kc3 Rd5 66.Kb4 Rg5 67.Re6 Rg4+ 68.Kc5 Ka5 69.Re1 Rc4+ 70.Kd6 Na4 71.Rb1 Nc3 72.Rb8 Nb5+ 73.Kd5 Kb4 74.Ke5 Rc1 75.Ke4 Rd1 76.Ke3 Kc5 77.Rc8+ Kb4 78.Rb8 Rd7 79.Ke4 Kc5 80.Rc8+ Nc7 81.Rh8 Kc4 82.Ke5 Rd5+ 83.Ke4 Rd6 84.Rh1 Nd5 85.Ke5 Rd8 86.Rh4+ Kc5 87.Rh1 Re8+ 88.Kf5 Rf8+ 89.Ke5 Nc3 90.Rh2 Re8+ 91.Kf5 Ne2 92.Rh7 Kd6 93.Ra7 Nd4+ 94.Kf4 Ne6+ 95.Kf3 Kd5 96.Ra5+ Nc5 97.Ra1 Kd4 98.Rh1 Rf8+ 99.Kg4 Ne4 100.Ra1 Nc3 101.Ra7 Ke3 102.Ra3 Kd4 103.Ra7 Nd5 104.Ra4+ Ke5 105.Ra1 Nb4 106.Re1+ Kd4 107.Ra1 Nc2 108.Ra4+ Ke5 109.Ra5+ Ke4 1/2-1/2

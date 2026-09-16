@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-6/7YALUtB3/lL5kZQDi"]
+[Date "2026.07.12"]
+[Round "6.8"]
+[White "Ligotnis, Maksims"]
+[Black "Ter-Avetisjana, Agnesa Stepania"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2246"]
+[ECO "B13"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 g6 7.Nf3 Bf5 8.O-O Bg7 9.Re1 Nf6 10.Ne5 Bxd3 11.Qxd3 e6 12.Bf4 Nxe5 13.Bxe5 Qb6 14.Nd2 O-O 15.Nb3 Rac8 16.Nc5 Qc6 17.Qf3 Ne8 18.Bxg7 Kxg7 19.Re2 b6 20.Nd3 Nf6 21.Rae1 a5 22.Ne5 Qc7 23.Ng4 Nxg4 24.hxg4 h6 25.g3 b5 26.Kg2 b4 27.Re3 bxc3 28.bxc3 Rb8 29.Rh1 a4 30.Re2 Qd8 31.Rh4 a3 32.Qe3 g5 33.Rh5 Rb2 34.f4 f6 35.Kh3 Qd7 36.fxg5 hxg5 37.Qxe6 Qxe6 38.Rxe6 Rf7 39.Re8 Rxa2 40.Reh8 Rf8 41.R5h7+ Kg6 42.Rh6+ Kf7 43.Rxf6+ Kxf6 44.Rxf8+ Ke6 45.Ra8 Kd6 46.Ra6+ Kc7 47.Ra5 Kb6 48.Ra4 Kb5 49.Rb4+ Ka5 50.Rb8 Ka6 51.Rb4 Ka5 52.Rb8 Ka4 53.Rb4+ Ka5 54.Rb8 Ra1 55.Rb3 a2 56.Ra3+ Kb5 57.Kg2 Kc4 58.Kh2 Kd3 59.Kg2 Ke2 60.Kh2 Kf2 61.Ra8 Kf3 62.Ra3 Kxg4 63.Kg2 Kf5 64.Ra5 Ke4 65.Ra3 Kd3 66.Kh2 Kc2 67.c4 dxc4 68.d5 Kb2 69.Ra8 Rd1 70.Rb8+ Kc3 0-1

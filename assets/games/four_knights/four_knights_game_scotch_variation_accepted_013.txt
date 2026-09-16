@@ -1,0 +1,15 @@
+[Event "Round 2: George, Kevin - Matviishen, Viktor"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-2/MjzRlbHj/IG5KNBgK"]
+[Date "2026.07.16"]
+[Round "2.2"]
+[White "George, Kevin"]
+[Black "Matviishen, Viktor"]
+[Result "0-1"]
+[WhiteElo "2347"]
+[BlackElo "2549"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5 9.O-O O-O 10.Bg5 c6 11.Qf3 Be7 12.h3 h6 13.Bf4 Bd6 14.Rfe1 Rb8 15.b3 Rb4 16.Ne2 c5 17.c3 Rb6 18.Ng3 Re8 19.Bf5 Bf8 20.Rxe8 Qxe8 21.Bxc8 Qxc8 22.Be5 Qd8 23.Rd1 Re6 24.Bxf6 Rxf6 25.Rxd5 Rf5 26.Qf4 Rxf4 27.Rd7 Rf3 28.Rxd8 Rxc3 29.Nf5 Rc1+ 30.Kh2 f6 31.Nh4 Kf7 32.Rd7+ Ke6 33.Rxa7 g5 34.Nf3 Rf1 35.g4 Rxf2+ 36.Kg3 Rb2 37.Ng1 c4 38.Ra6+ Kd7 39.Kf3 Rh2 40.Kg3 Rd2 41.Rxf6 Bd6+ 42.Rxd6+ Kxd6 43.bxc4 Rxa2 44.Nf3 Ra3 45.Kf2 Ke6 46.h4 gxh4 47.Nxh4 Ke5 48.Nf5 h5 49.Nh6 Ra6 50.g5 Kf4 51.Nf7 Ra2+ 52.Kf1 h4 53.g6 h3 54.g7 h2 0-1

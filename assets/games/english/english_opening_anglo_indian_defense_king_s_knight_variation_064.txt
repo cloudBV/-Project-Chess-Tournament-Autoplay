@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.8"]
+[White "Cvek, Robert"]
+[Black "Gahan M G"]
+[Result "1/2-1/2"]
+[WhiteElo "2449"]
+[BlackElo "2162"]
+[ECO "A15"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 g6 4.Bg2 Bg7 5.Nc3 d5 6.cxd5 Nxd5 7.O-O O-O 8.d3 Nxc3 9.bxc3 Bxc3 10.Rb1 Nc6 11.Be3 Qa5 12.Nd2 Qxa2 13.Ne4 Bd4 14.Nxc5 Bg4 15.Rxb7 Bxc5 16.Bxc5 Bxe2 17.Qa1 Qxa1 18.Rxa1 Rac8 1/2-1/2

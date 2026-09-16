@@ -1,0 +1,14 @@
+[Event "Round 3: Ushenina, Anna - Selebran, Henri"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-3/kqVNSbC7/QOawWuDB"]
+[Date "2026.07.20"]
+[Round "3.10"]
+[White "Ushenina, Anna"]
+[Black "Selebran, Henri"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "2093"]
+[ECO "E35"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6 7.Bh4 Nc6 8.e3 g5 9.Bg3 h5 10.Bb5 Ne4 11.f3 Nxg3 12.hxg3 Qe7 13.Kf2 Qd6 14.g4 Bd7 15.gxh5 O-O-O 16.Nge2 f5 17.Bxc6 Qxc6 18.Qb3 Bd6 19.Qxd5 Qa6 20.Qb3 c5 21.a4 f4 22.Ne4 cxd4 23.Nxd4 Be5 24.Rhd1 g4 25.Rac1+ Kb8 26.Nc5 fxe3+ 27.Kg1 Qb6 28.Qxb6 axb6 29.Nxd7+ Rxd7 30.Nc6+ bxc6 31.Rxd7 c5 32.fxg4 Bxb2 33.Rb1 Bd4 34.Rxb6+ Kc8 35.Re7 Rh7 36.Rbe6 Rxe7 37.Rxe7 c4 38.Re4 c3 39.Rxd4 1-0

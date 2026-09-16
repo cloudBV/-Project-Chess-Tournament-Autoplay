@@ -1,0 +1,14 @@
+[Event "Round 7: Rosen, Bernd - Buchal, Stephan"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-7/ssrsMeYG/vbCrKWEF"]
+[Date "2026.07.23"]
+[Round "7.6"]
+[White "Rosen, Bernd"]
+[Black "Buchal, Stephan"]
+[Result "1/2-1/2"]
+[WhiteElo "2165"]
+[BlackElo "2241"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Great Snake Variation"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nc3 O-O 5.e4 c5 6.d3 Nc6 7.Nge2 d6 8.O-O a6 9.h3 Rb8 10.a4 Ne8 11.Be3 b5 12.axb5 axb5 13.cxb5 Nd4 14.Rb1 Nc7 15.b4 Ncxb5 16.Nxb5 Rxb5 17.Nxd4 Bxd4 18.Bxd4 cxd4 19.Qd2 Qb6 20.Rb2 Bd7 21.Rfb1 Kg7 22.Kh2 Rc8 23.Rc1 Rxc1 24.Qxc1 Rxb4 25.Rxb4 Qxb4 26.Qc7 Qb5 27.Qd8 e5 28.Qe7 Be8 29.Qxd6 f6 30.f4 Bf7 31.Bf1 1/2-1/2

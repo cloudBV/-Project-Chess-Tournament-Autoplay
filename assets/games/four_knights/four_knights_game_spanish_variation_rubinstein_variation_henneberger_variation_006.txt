@@ -1,0 +1,15 @@
+[Event "Round 5: Lisenkov, Svyatoslav - Benidze, Davit"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-5/wuLhL5ga/5kgPJa7v"]
+[Date "2026.07.22"]
+[Round "5.3"]
+[White "Lisenkov, Svyatoslav"]
+[Black "Benidze, Davit"]
+[Result "0-1"]
+[WhiteElo "2336"]
+[BlackElo "2388"]
+[ECO "C48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.O-O Nxb5 6.Nxb5 c6 7.Nc3 d6 8.d4 Qc7 9.Bg5 Be7 10.a4 Bg4 11.Bxf6 Bxf6 12.d5 O-O 13.Qd3 Rac8 14.h3 Bh5 15.Rfc1 Qd7 16.a5 c5 17.Ne2 Bxf3 18.Qxf3 Bg5 19.Rf1 g6 20.Qg4 Qe7 21.Ra3 h5 22.Qf3 Kh7 23.c4 a6 24.Qd3 Rb8 25.Rb1 b6 26.b4 cxb4 27.Rxb4 bxa5 28.Rxb8 Rxb8 29.c5 dxc5 30.d6 Qe6 31.Rxa5 Rb6 32.Nc3 Rxd6 33.Nd5 c4 34.Qxc4 Rc6 35.Rc5 Rxc5 36.Qxc5 Bd8 37.Qa7 Kg7 38.Qb8 Be7 39.g3 Bc5 40.Nc7 Qe7 41.Nxa6 Bd4 42.Nc7 Qg5 43.Ne8+ Kh6 44.Qb3 Qe7 45.Qb8 Ba7 46.Nf6 Bxf2+ 47.Kxf2 Qxf6+ 48.Kg2 h4 49.gxh4 Kg7 50.Qc7 Qf4 51.Qc4 Qxh4 52.Qd5 Qg5+ 53.Kf3 Qf4+ 54.Kg2 Kh6 55.Qa8 Qd2+ 56.Kg3 Qd3+ 57.Kg2 Kg5 58.Qc6 Qd2+ 59.Kg1 Qf4 60.Qd6 Qg3+ 61.Kf1 Qxh3+ 0-1

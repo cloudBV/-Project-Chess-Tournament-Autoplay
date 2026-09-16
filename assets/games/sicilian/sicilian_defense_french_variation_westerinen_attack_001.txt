@@ -1,0 +1,14 @@
+[Event "Round 9: Ljepic, Andrej - Fisher, Timofey"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-9/j9WVZqtk/eck2hLSe"]
+[Date "2026.07.02"]
+[Round "9.5"]
+[White "Ljepic, Andrej"]
+[Black "Fisher, Timofey"]
+[Result "1-0"]
+[WhiteElo "2428"]
+[BlackElo "2192"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 b6 4.Bb2 Bb7 5.Nc3 Nc6 6.Qe2 Rc8 7.O-O-O Nge7 8.Kb1 Ng6 9.g3 Be7 10.h4 Nge5 11.Nxe5 Nxe5 12.Nb5 Nc6 13.Bxg7 Rg8 14.Bb2 a6 15.Nc3 Bf6 16.Bg2 b5 17.Rhg1 d6 18.Qh5 Qa5 19.e5 Bxe5 20.Rde1 Kf8 21.f4 Bd4 22.f5 Bxg1 23.Qh6+ Ke8 24.fxe6 Bd4 25.exf7+ Kxf7 26.Bd5# 1-0

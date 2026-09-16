@@ -1,0 +1,14 @@
+[Event "Round 3: Guerrero Orihuela, Jose Luis - Li Chen, Helena Joana"]
+[Site "https://lichess.org/broadcast/campeonato-de-canarias-absoluto-y-femenino-2026/round-3/ZtBfBGsS/tF3Mfv1F"]
+[Date "2026.07.17"]
+[Round "3.3"]
+[White "Guerrero Orihuela, Jose Luis"]
+[Black "Li Chen, Helena Joana"]
+[Result "1/2-1/2"]
+[WhiteElo "2048"]
+[BlackElo "2101"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Wimpy System"]
+
+1.Nf3 c5 2.e3 e6 3.b3 d5 4.Bb2 Nf6 5.c4 Nc6 6.cxd5 exd5 7.d4 cxd4 8.Nxd4 Bb4+ 9.Bc3 Bd6 10.Bb5 Bd7 11.O-O O-O 12.Be2 Ne4 13.Bb2 Qf6 14.Nd2 Qh6 15.N2f3 Bg4 16.Nxc6 bxc6 17.Ne5 Be6 18.f4 c5 19.Qd3 f5 20.Rf3 c4 21.bxc4 Bxe5 22.Bxe5 dxc4 23.Qc2 Qg6 24.Bxc4 Rac8 25.Bxe6+ Qxe6 26.Qb3 Qc4 27.Rd1 Qxb3 28.axb3 Rfd8 29.Rxd8+ Rxd8 30.Bd4 a5 31.Rf1 Nd2 32.Rc1 Nxb3 33.Rc7 Nxd4 34.exd4 Rxd4 35.Rc8+ Kf7 36.Rc5 Rxf4 37.Rxa5 Kg6 38.h3 h6 39.g3 Rb4 40.Kf2 Kg5 41.Kf3 Rb3+ 42.Kg2 g6 43.Ra6 Kh5 44.Rf6 Rb5 45.Kf3 Kg5 46.Ra6 Rb3+ 47.Kg2 h5 48.h4+ Kh6 49.Rc6 Kg7 50.Ra6 Rb4 51.Kf3 Rg4 52.Rb6 f4 53.Rb7+ Kh6 54.gxf4 Rxh4 55.Rb6 Rh1 56.Kg2 Rh4 57.f5 Rg4+ 58.Kh3 Rg5 59.Rxg6+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "4.3"]
+[White "Rekuc, Patryk"]
+[Black "Ugorek, Kacper"]
+[Result "1/2-1/2"]
+[WhiteElo "2315"]
+[BlackElo "2383"]
+[ECO "B27"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 1/2-1/2

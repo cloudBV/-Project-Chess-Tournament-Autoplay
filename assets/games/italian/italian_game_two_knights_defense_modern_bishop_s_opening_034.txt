@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.06"]
+[Round "5.1"]
+[White "Raczek, Krzysztof"]
+[Black "Dubnevych, Maksym"]
+[Result "1/2-1/2"]
+[WhiteElo "2428"]
+[BlackElo "2446"]
+[ECO "C55"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 Be6 8.a5 a6 9.Nd5 Bxd5 10.exd5 Nb4 11.c3 Nbxd5 12.Qb3 c6 13.Qxb7 Qc8 14.Qxc8 Rfxc8 15.Re1 Nc7 16.Ba2 h6 17.d4 e4 18.Nd2 d5 19.f3 c5 20.fxe4 cxd4 21.cxd4 Bb4 22.e5 Nd7 23.Rd1 Bxa5 24.Nf3 Bb4 25.Be3 Nb6 26.Rac1 Ne6 27.Kf2 Kf8 28.Ke2 Ke7 29.Nh4 Kd7 30.g3 Rxc1 31.Rxc1 Rc8 32.Rxc8 Kxc8 33.Kd3 Kd7 34.Ng2 Kc6 35.Nf4 Nc7 36.Bb3 a5 37.Bd1 a4 38.Bh5 g6 39.Bd1 h5 40.g4 hxg4 41.Bxg4 Nc4 42.Bc1 a3 43.bxa3 Bxa3 44.Bxa3 Nxa3 45.e6 f5 46.Bf3 Kd6 47.e7 Kxe7 48.Nxg6+ Kf6 49.Nf4 Kg5 50.Ng2 f4 51.h4+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 6: Naoum, Spyridon - Karamichos, Michail"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/p76cxjVs"]
+[Date "2026.07.22"]
+[Round "6.18"]
+[White "Naoum, Spyridon"]
+[Black "Karamichos, Michail"]
+[Result "1/2-1/2"]
+[WhiteElo "2344"]
+[BlackElo "2205"]
+[ECO "E92"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 exd4 8.Nxd4 Re8 9.f3 c6 10.Bf2 d5 11.exd5 cxd5 12.O-O Nc6 13.c5 Nh5 14.Qd2 Bd7 15.Rfd1 Qe7 16.Nxd5 Qe5 17.Bc4 Rad8 18.Re1 Qb8 19.Rxe8+ Bxe8 20.Rd1 Ne5 21.Bb3 Kh8 22.Bh4 Rd7 23.Qe3 f5 24.Ne6 Bf7 25.Nxg7 Kxg7 26.f4 Nc6 27.g3 h6 28.Nc3 Rxd1+ 29.Bxd1 Qc8 30.Bf3 Qd7 31.Kf2 Nb4 32.Qe5+ Kg8 33.Qd6 Qc8 34.Be7 Ng7 35.a3 Ne8 36.Qd1 Nc6 37.Bd6 Qd7 38.b4 a6 39.Kg2 Be6 40.Ne2 Kf7 41.Nd4 Nxd4 42.Qxd4 Nf6 43.Kg1 Ne4 44.Bxe4 fxe4 45.Qh8 Bf5 46.Qxh6 e3 47.Qf8+ Ke6 48.Qg8+ Qf7 49.Qxf7+ Kxf7 50.Kf1 Bg4 51.a4 Ke6 52.b5 axb5 53.axb5 Kd5 54.Ke1 b6 55.Bf8 bxc5 56.b6 Bc8 57.h4 Kc6 58.f5 gxf5 59.h5 f4 60.gxf4 Kxb6 61.h6 Bf5 62.Ke2 Kc6 63.Kxe3 Kd5 64.Kf3 c4 65.Bg7 Ke6 66.Ke3 Kd5 67.Bc3 Be4 68.Bf6 Bf5 69.Kd2 Ke4 70.Bg5 Kd4 71.Bf6+ Ke4 72.Be5 Kf3 73.Bd6 Kg4 74.Ke3 Kh5 75.Bf8 c3 76.Bg7 c2 77.Kd2 Kg4 78.Be5 Kh5 79.Bg7 Kg4 1/2-1/2

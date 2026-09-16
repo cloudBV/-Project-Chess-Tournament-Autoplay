@@ -1,0 +1,15 @@
+[Event "Round 2: Yue, Tariq - Pang, Qi"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-2/gGRN6RNO/TgNcUg6D"]
+[Date "2026.07.02"]
+[Round "2.1"]
+[White "Yue, Tariq"]
+[Black "Pang, Qi"]
+[Result "1/2-1/2"]
+[WhiteElo "2141"]
+[BlackElo "2304"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 Nh5 4.Bg5 h6 5.Bh4 g5 6.Bg3 Nxg3 7.hxg3 Bg7 8.e3 c5 9.c3 Nd7 10.Nbd2 Qb6 11.Qb3 Qxb3 12.Nxb3 b6 13.Bb5 c4 14.Nbd2 e6 15.e4 Bb7 16.exd5 exd5 17.Ne5 Bxe5 18.dxe5 O-O-O 19.Bxd7+ Rxd7 20.O-O Re8 21.f4 gxf4 22.gxf4 d4 23.Nxc4 Ba6 24.Nd6+ Rxd6 25.exd6 Bxf1 26.Kxf1 Re4 27.g3 dxc3 28.Rc1 Rc4 29.Rxc3 Rxc3 30.bxc3 Kd7 31.Kg2 Kxd6 32.Kh3 Kd5 33.Kh4 Ke4 34.c4 Kf3 35.f5 Ke4 36.g4 Ke5 37.Kh5 Kf4 38.Kh4 Ke5 39.Kh5 Kf4 40.a3 a6 41.Kh4 Ke5 42.Kh5 Kf4 1/2-1/2

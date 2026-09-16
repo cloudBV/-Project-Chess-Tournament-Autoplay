@@ -1,0 +1,15 @@
+[Event "Round 4: Oner, Yigit Efe - Gur, Ali"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/PNOxTX8g"]
+[Date "2026.07.01"]
+[Round "4.28"]
+[White "Oner, Yigit Efe"]
+[Black "Gur, Ali"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2286"]
+[ECO "B67"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Qc7 10.Be2 b5 11.Be3 b4 12.Nb1 d5 13.Nxc6 Bxc6 14.exd5 Nxd5 15.Bd4 Bd6 16.g3 O-O 17.Bc4 Rfd8 18.Qg5 f6 19.Qg4 f5 20.Qg5 h6 21.Qg6 Qf7 22.Qxf7+ Kxf7 23.Rhe1 f4 24.Bf2 a5 25.Nd2 Rac8 26.Ne4 Be7 27.Bd4 Be8 28.Bxd5 exd5 29.Nf2 fxg3 30.hxg3 a4 31.f4 b3 32.axb3 axb3 33.c3 Bf8 34.Kd2 Kg8 35.Nd3 Ra8 36.Ra1 Bb5 37.Ne5 Bd6 38.Ng4 Bc4 39.Ne3 g5 40.fxg5 hxg5 41.Nf5 Bf8 42.Bf6 Rxa1 43.Rxa1 Re8 44.Nd4 g4 45.Ra7 Bh6+ 46.Kd1 Rf8 47.Nf5 Rxf6 0-1

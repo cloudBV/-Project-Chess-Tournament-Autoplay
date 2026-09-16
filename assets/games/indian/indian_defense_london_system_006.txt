@@ -1,0 +1,14 @@
+[Event "Round 9: Matzat, Andre - Junger, Werner"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-9/1CEaBO5U/coZJZ32H"]
+[Date "2026.07.04"]
+[Round "9.6"]
+[White "Matzat, Andre"]
+[Black "Junger, Werner"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2158"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d5 4.e3 Bd6 5.Nbd2 O-O 6.c3 c5 7.Bd3 Nc6 8.Bg3 b6 9.e4 Be7 10.e5 Nd7 11.h4 f5 12.Ng5 Bxg5 13.hxg5 g6 14.Nf3 cxd4 15.Qa4 Nc5 16.Qxc6 Nxd3+ 17.Kd2 Bd7 18.Qd6 Nxb2 19.Qb4 dxc3+ 20.Qxc3 Na4 21.Qb4 a5 22.Qf4 Rc8 23.Rxh7 Qc7 24.Nd4 Qc3+ 25.Ke2 Qb2+ 26.Qd2 Qxd2+ 0-1

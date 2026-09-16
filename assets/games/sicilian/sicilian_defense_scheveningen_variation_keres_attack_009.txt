@@ -1,0 +1,14 @@
+[Event "Round 6: Ostlund, Joar - Lundin, Jan"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-6/e9ef0vgC/xlo6CmFo"]
+[Date "2026.07.22"]
+[Round "6.5"]
+[White "Ostlund, Joar"]
+[Black "Lundin, Jan"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2172"]
+[ECO "B81"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h4 Be7 8.Rg1 d5 9.exd5 Nxd5 10.Nxd5 Qxd5 11.Be3 Nc6 12.Nxc6 Qxc6 13.Qd2 Bd7 14.O-O-O Rd8 15.g5 hxg5 16.Bxg5 f6 17.Be3 Kf8 18.Bd3 Rxh4 19.Bg6 Bc8 20.Qa5 Rxd1+ 21.Rxd1 Rh1 22.Qxa7 Qf3 23.Rxh1 Qxh1+ 24.Kd2 Qd5+ 25.Bd3 Kf7 26.Qa4 Bd7 27.Qg4 f5 28.Qc4 Qa5+ 29.Kd1 Bc6 30.a3 Bf6 31.c3 Bd5 32.Qc5 Qa4+ 33.Kc1 Qg4 34.Qc7+ Kg6 35.Qh2 e5 36.Kd2 Kf7 37.Qh8 f4 38.Bc5 Be7 39.Bxe7 Kxe7 40.Qb8 Qe6 41.Qc7+ Ke8 42.Qxg7 Kd8 43.Qf8+ Kc7 44.Bf5 Qd6 45.Qxd6+ Kxd6 46.Kd3 b6 47.Be4 Be6 48.Ba8 Bf5+ 49.Be4 Be6 50.c4 Bh3 51.Kc3 Bf1 52.Kb4 Be2 53.Kb5 Kc7 54.a4 Bf1 55.b3 Bh3 56.a5 Bd7+ 57.Kb4 bxa5+ 58.Kxa5 Bc8 59.Kb5 Kd6 60.Kb6 Be6 61.c5+ Kd7 62.c6+ Kd6 63.c7 Bc8 64.b4 1-0

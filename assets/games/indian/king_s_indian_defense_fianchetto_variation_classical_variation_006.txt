@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.7"]
+[White "Xu, Yang"]
+[Black "Castellanos Rodriguez, Renier"]
+[Result "1/2-1/2"]
+[WhiteElo "2288"]
+[BlackElo "2462"]
+[ECO "E68"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.Nf3 g6 2.g3 Bg7 3.d4 Nf6 4.c4 O-O 5.Nc3 d6 6.Bg2 Nbd7 7.O-O e5 8.e4 Re8 9.h3 b6 10.Bg5 h6 11.Be3 exd4 12.Nxd4 Bb7 13.Qc2 Nc5 14.f3 a5 15.Rad1 Qe7 16.Rfe1 c6 17.Bf2 Rad8 18.f4 Qc7 19.a3 Ncd7 20.Kh2 1/2-1/2

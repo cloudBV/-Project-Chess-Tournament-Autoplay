@@ -1,0 +1,15 @@
+[Event "Round 7: Tran Ngoc Minh Duy - Volkov, Maksim"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-7/0HMZweox/JNTWAGiS"]
+[Date "2026.07.22"]
+[Round "7.4"]
+[White "Tran Ngoc Minh Duy"]
+[Black "Volkov, Maksim"]
+[Result "0-1"]
+[WhiteElo "2283"]
+[BlackElo "2437"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.Nc3 e5 8.Qd3 Rc8 9.Bg5 Qc7 10.O-O h6 11.Bh4 g5 12.Bg3 Nf6 13.Rfd1 Be7 14.Nd2 Bg4 15.Re1 Be6 16.Nf1 h5 17.f3 Qb6+ 18.Re3 h4 19.Bf2 g4 20.Qd2 Qc6 21.fxg4 Nxg4 22.Rf3 Rg8 23.h3 Bg5 24.Ne3 Nxf2 25.Qxf2 Qb6 26.Ned5 Qxf2+ 27.Rxf2 Rc4 28.Re2 Bd8 29.Kh2 Rd4 30.Ne3 Ba5 31.Ned5 Rg6 32.Rb1 Bd8 33.Rf1 Rg3 34.Ne3 Rb4 35.Nf5 Rxb2 36.Nxd6+ Kf8 37.Na4 Rxa2 38.Nc5 Ke7 39.Nxe6 Kxe6 40.Rd2 Bg5 41.Rd5 Rxc2 42.Rg1 Bf4 43.Nf5 Rgxg2+ 44.Kh1 Rh2# 0-1

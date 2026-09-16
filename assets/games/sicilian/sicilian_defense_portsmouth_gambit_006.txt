@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-2/VSYgJsUo/n4xxNmvW"]
+[Date "2026.07.21"]
+[Round "2.7"]
+[White "Veiergang, Oscar"]
+[Black "Ostensen, Nicolai Maxime"]
+[Result "0-1"]
+[WhiteElo "2234"]
+[BlackElo "2407"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Portsmouth Gambit"]
+
+1.e4 c5 2.Nf3 Nc6 3.b4 Nxb4 4.c3 Nc6 5.d4 cxd4 6.cxd4 e6 7.Nc3 Bb4 8.Bd2 Nf6 9.Bd3 d5 10.e5 Bxc3 11.Bxc3 Ne4 12.Rc1 Nxc3 13.Rxc3 Bd7 14.O-O Rc8 15.Qd2 O-O 16.Bb1 f5 17.exf6 Qxf6 18.Ng5 h6 19.Nh7 Qf4 20.Qb2 Rf7 21.Rf3 Qxd4 22.Qe2 Qg4 0-1

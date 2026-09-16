@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "9.1"]
+[White "Sowinski, Pawel"]
+[Black "Pankiv, Maksym"]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2315"]
+[ECO "A46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d5 4.e3 Bd6 5.c3 O-O 6.Nbd2 c5 7.Bd3 Qc7 8.Ne5 Nbd7 9.Ndf3 b6 10.h4 Bb7 11.h5 h6 12.g4 Ne4 13.Bxe4 dxe4 14.Nxd7 Bxf4 15.Nxf8 Bxe3 16.fxe3 exf3 17.Kf2 Rxf8 18.Qg1 cxd4 19.exd4 Qf4 20.Rd1 Qe4 21.Rd2 Qf4 22.Rd3 Qe4 23.Rd2 Qf4 1/2-1/2

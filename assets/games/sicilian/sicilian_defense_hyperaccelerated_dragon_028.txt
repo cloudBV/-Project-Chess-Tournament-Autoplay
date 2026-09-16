@@ -1,0 +1,15 @@
+[Event "Round 7: Ozen, Ilhami Goktug - Gucer, Gunes"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/eWSmdW5A"]
+[Date "2026.07.17"]
+[Round "7.34"]
+[White "Ozen, Ilhami Goktug"]
+[Black "Gucer, Gunes"]
+[Result "1/2-1/2"]
+[WhiteElo "2097"]
+[BlackElo "2006"]
+[ECO "B27"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Na3 cxd4 7.Nb5 Na6 8.Nbxd4 Nf6 9.Bb5+ Bd7 10.Bxa6 bxa6 11.O-O O-O 12.Re1 e6 13.Ne5 Bc8 14.c4 Qd6 15.Nb3 Qxd1 16.Rxd1 Bb7 1/2-1/2

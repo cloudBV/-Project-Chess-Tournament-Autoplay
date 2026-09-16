@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "3.3"]
+[White "Jun, Rudolf"]
+[Black "Winter, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2303"]
+[BlackElo "2360"]
+[ECO "C00"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Queen's Knight"]
+
+1.e4 e6 2.Nc3 d5 3.d3 c5 4.Nf3 Nc6 5.g3 g6 6.Bg2 Bg7 7.O-O Nge7 8.Ne2 O-O 9.c3 b6 10.exd5 Nxd5 11.d4 Bb7 12.Re1 Qe7 13.Qa4 h6 14.c4 Ndb4 15.d5 exd5 16.Nf4 Qd8 17.a3 g5 18.axb4 gxf4 19.bxc5 fxg3 20.hxg3 bxc5 21.cxd5 Nd4 22.Nxd4 cxd4 23.Qb5 Qb6 24.Qxb6 axb6 25.Bf4 Rxa1 26.Rxa1 Rd8 27.d6 Bxg2 28.Kxg2 Bf8 29.Rd1 Bg7 30.Rc1 f5 31.b3 Kf7 32.Rc7+ Kf6 33.Kf3 Bf8 34.Rc6 b5 35.Rb6 Ke6 36.Rxb5 Rd7 37.Re5+ Kf6 38.Rd5 1-0

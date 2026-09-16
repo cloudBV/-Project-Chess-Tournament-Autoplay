@@ -1,0 +1,14 @@
+[Event "Round 7: Klundt, Klaus - Tscharotschkin, Michael"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-7/3XXSjikk/xvkGOGkk"]
+[Date "2026.07.02"]
+[Round "7.2"]
+[White "Klundt, Klaus"]
+[Black "Tscharotschkin, Michael"]
+[Result "1-0"]
+[WhiteElo "2201"]
+[BlackElo "2208"]
+[ECO "C05"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Ne4 5.Nxe4 dxe4 6.Bc4 a6 7.a4 b6 8.Nh3 Bb7 9.Nf4 Nc6 10.c3 Ne7 11.O-O Nd5 12.Qe2 Nxf4 13.Bxf4 Be7 14.Qg4 g5 15.Be3 h5 16.Qe2 g4 17.Rfd1 Bg5 18.d5 exd5 19.Bxd5 Bxd5 20.Bxg5 Qxg5 21.Rxd5 O-O 22.Qxe4 Rad8 23.Rxd8 Rxd8 24.e6 fxe6 25.Qxe6+ Kg7 26.Re1 Rd2 27.h3 gxh3 28.Qxh3 Qf4 29.Qe3 Qxe3 30.Rxe3 Rxb2 31.Re7+ Kg6 32.Rxc7 Kg5 33.Ra7 a5 34.Rc7 Kg6 35.g3 Rb3 36.Kg2 b5 37.Rc6+ Kg7 38.Rc5 bxa4 39.Rxh5 Rxc3 40.Rxa5 a3 41.Ra6 Rb3 42.f4 Rb2+ 43.Kh3 a2 44.Kh4 Kf8 45.Kg5 Rb5+ 46.f5 Rb2 47.g4 Ke8 48.f6 Rg2 49.Ra7 Kf8 50.Kf5 Ke8 51.g5 Rb2 52.Kg6 1-0

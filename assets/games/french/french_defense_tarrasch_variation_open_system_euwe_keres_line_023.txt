@@ -1,0 +1,14 @@
+[Event "Round 4: Harshavardhan G B - Vandenhole, Kobe"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/wyXWaIOv"]
+[Date "2026.07.24"]
+[Round "4.8"]
+[White "Harshavardhan G B"]
+[Black "Vandenhole, Kobe"]
+[Result "0-1"]
+[WhiteElo "2508"]
+[BlackElo "2319"]
+[ECO "C07"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 Bd6 8.Qe2 e5 9.f4 Nf6 10.Nf3 Bg4 11.fxe5 Bxe5 12.exd5 O-O 13.O-O Bd4+ 14.Kh1 Qxd5 15.Bc4 Qh5 16.Qd3 Bb6 17.Bf4 Rad8 18.Qb3 Ne4 19.Ne5 Nf2+ 20.Rxf2 Bxf2 21.Rf1 Be2 22.g4 Bxc4 23.Qxc4 Qh4 24.Qe2 Bb6 25.Nxc6 Rde8 26.Qd1 Re6 27.Nb4 Rfe8 28.Bg3 Qh3 29.Nd5 Re2 30.Nf4 Qxg4 31.Qd3 R2e3 32.Qd5 Rd8 33.Qb7 Qf5 34.Qg2 Qe4 35.Qxe4 Rxe4 36.b3 Rd2 37.c4 Bc7 38.a4 f6 39.c5 Rc2 40.b4 a5 41.b5 Rxc5 42.Nd3 Rc3 43.Bxc7 Rxc7 44.b6 Rc3 45.Rb1 Rxd3 46.b7 Rd8 47.b8=Q Rxb8 48.Rxb8+ Kf7 49.Rb7+ Kg6 50.Ra7 Rxa4 51.Kg2 Ra1 52.Kg3 a4 53.Kh4 a3 54.Ra5 a2 55.Ra6 Kh6 56.Kh3 Kh5 57.Ra5+ g5 58.Ra7 g4+ 59.Kg2 h6 60.Ra5+ Kg6 61.h3 h5 62.Ra6 Kg5 63.Ra5+ f5 64.Kh2 Kh4 65.Ra4 f4 66.hxg4 hxg4 67.Kg2 f3+ 68.Kf2 Rh1 0-1

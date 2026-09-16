@@ -1,0 +1,14 @@
+[Event "Round 5: Ral Lustig, Melvin - Ljungros, Lo"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-5/yuI8QzC0/MECSUINf"]
+[Date "2026.06.24"]
+[Round "5.1"]
+[White "Ral Lustig, Melvin"]
+[Black "Ljungros, Lo"]
+[Result "1/2-1/2"]
+[WhiteElo "2235"]
+[BlackElo "2138"]
+[ECO "C48"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Kxe2 Bc5 11.Be3 Bxe3 12.Kxe3 c6 13.Bd3 d5 14.Rhe1 Be6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 6: Grutter, Tim - De Reese, Elias"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-6/axe6t87P/hi3HJ0UT"]
+[Date "2026.07.20"]
+[Round "6.8"]
+[White "Grutter, Tim"]
+[Black "De Reese, Elias"]
+[Result "1-0"]
+[WhiteElo "2390"]
+[BlackElo "2106"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Na6 6.d3 Nxe4 7.dxe4 Bg4 8.h3 Bh5 9.Bd2 e6 10.O-O-O Qc7 11.g4 Bg6 12.Nh4 Bd6 13.Qe3 Qb6 14.Nf5 Be5 15.Qa3 exf5 16.exf5 O-O-O 17.fxg6 hxg6 18.Bc4 Rxd2 19.Rxd2 Bf4 20.Rd1 Rd8 21.Qf3 Qd4 22.Bd3 Qb4 23.a3 Qd6 24.Kb1 Bxd2 25.Rxd2 Qc7 26.Qe3 Qb6 27.Qe7 Qc7 28.Re2 Nb8 29.Bc4 Qxe7 30.Rxe7 Rd7 31.Rxf7 Rxf7 32.Bxf7 g5 33.Be6+ Kc7 34.Kc1 Kd6 35.Bc8 b6 36.Kd2 c5 37.Ke3 Ke5 38.h4 gxh4 39.f4+ Kd6 40.g5 Nc6 41.Kf3 Nd4+ 42.Kg4 Nxc2 43.Kxh4 Ke7 44.Kh5 Kf7 45.f5 Ne3 46.Be6+ Kf8 47.Kg6 Ng2 48.f6 Nh4+ 49.Kh7 gxf6 50.g6 Nxg6 51.Kxg6 Ke7 52.Bc4 a6 53.Bxa6 Ke6 54.a4 Ke5 55.b3 f5 56.Kg5 f4 57.Bb7 Kd4 58.Kxf4 1-0

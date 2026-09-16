@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.24"]
+[Round "30.8"]
+[White "StockfishClassical 202007311012"]
+[Black "WaspHCE 7.16"]
+[Result "1-0"]
+[WhiteElo "3552"]
+[BlackElo "3194"]
+[ECO "E12"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Petrosian Variation, Farago Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4 cxd4 8.Nxd4 d6 9.Be2 Nbd7 10.Be3 a6 11.O-O Be7 12.f4 g6 13.Rad1 Qc7 14.b4 Rc8 15.b5 a5 16.f5 gxf5 17.exf5 Rg8 18.Rf2 e5 19.Nc6 Bxc6 20.bxc6 Qxc6 21.c5 bxc5 22.Bf3 Qc7 23.Rb1 Rb8 24.Rff1 Rb6 25.Qa4 h5 26.Rxb6 Qxb6 27.Rb1 Qa6 28.Rb7 Rg4 29.Qc6 Qxc6 30.Bxc6 h4 31.Nb5 h3 32.g3 Bf8 33.Nc7+ Kd8 34.Bd2 Rd4 35.Bg5 Bh6 36.Bxh6 Nb8 37.Bf3 Rd3 38.Be2 Rxa3 39.Nb5 Ra1+ 40.Kf2 Nbd7 41.Nxd6 Ke7 42.Nc4 Ra2 43.Nxe5 Kd6 44.Nxf7+ Kc6 45.Ra7 c4 46.Ke3 Kb6 47.Ra6+ Kc5 48.Bg7 Ra3+ 49.Kf4 Nd5+ 50.Kg5 Ra2 51.Re6 c3 52.Re4 Kb6 53.Bc4 Rd2 54.Bxd5 c2 55.Rc4 Rxd5 56.Rxc2 a4 57.g4 a3 58.Kf4 Nc5 59.Bf8 Nd7 60.Bxa3 Kb5 61.Bb2 Rd1 62.g5 Nc5 63.Rxc5+ Ka4 64.g6 Rd2 65.g7 Rf2+ 66.Ke3 Rg2 67.Kd3 Kb3 68.Bd4 Rg4 69.Nd6 Rg5 70.Rc3+ Ka2 71.Nc4 Rg3+ 72.hxg3 h2 73.Ra3+ Kb1 74.Ra1# 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Bortnyk, Olexandr - Neiksans, Arturs"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/dvYUSTLN"]
+[Date "2026.07.03"]
+[Round "6.8"]
+[White "Bortnyk, Olexandr"]
+[Black "Neiksans, Arturs"]
+[Result "1-0"]
+[WhiteElo "2608"]
+[BlackElo "2522"]
+[ECO "B22"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be3 cxd4 7.cxd4 Bb4+ 8.Nc3 Qa5 9.Bd3 b6 10.O-O Ba6 11.Ne4 Bxd3 12.Nxf6+ gxf6 13.Qxd3 Qd5 14.Rac1 Nd7 15.Bh6 Bf8 16.Bf4 Bd6 17.Bxd6 Qxd6 18.Qe4 Rd8 19.Rfe1 Nf8 20.Qh4 Ke7 21.d5 Ng6 22.Qa4 e5 23.Nd4 Qd7 24.Qa3+ Ke8 25.Nc6 Ne7 26.Nxd8 Kxd8 27.d6 Nf5 28.Rc7 Qxd6 29.Qxd6+ Nxd6 30.Rxa7 Re8 31.Rd1 Re6 32.Rxf7 h6 33.Rb7 1-0

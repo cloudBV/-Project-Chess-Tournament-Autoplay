@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.2"]
+[White "Shimanov, Aleksandr"]
+[Black "Akbas, Umut Ata"]
+[Result "1/2-1/2"]
+[WhiteElo "2581"]
+[BlackElo "2459"]
+[ECO "C55"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.O-O Nb6 7.Bb3 Bg4 8.Re1 Qe7 9.h3 Bh5 10.a4 a5 11.Be3 O-O-O 12.Bxb6 cxb6 13.Nc3 f5 14.Qe2 g6 15.Nb5 Bh6 16.c3 Rhe8 17.d4 e4 18.Qf1 Kb8 19.Nh2 g5 20.g4 fxg4 21.Nxg4 Bxg4 22.hxg4 Rf8 23.Qh3 Bg7 24.Re2 Rf4 25.Rae1 Re8 26.Qg3 Na7 27.Na3 Nc8 28.Nc4 Ka7 29.Bc2 Qf7 30.Nd2 h5 31.gxh5 Nd6 32.Bxe4 Qxh5 33.Bf3 Rxe2 34.Rxe2 Qf7 35.Bg2 Bf6 36.Qd3 g4 37.Qe3 Bh4 38.c4 Bg5 39.c5 bxc5 40.dxc5 Nf5 41.Qc3 Nd4 42.Re3 Bh4 43.Qxa5+ Kb8 44.Qb6 Bxf2+ 45.Kh1 Bxe3 1/2-1/2

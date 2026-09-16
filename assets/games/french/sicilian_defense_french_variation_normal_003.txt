@@ -1,0 +1,15 @@
+[Event "Round 8: Yigit, Ahmet Yasir - Obidjonov, Oriyat"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/Y4Ximcs7"]
+[Date "2026.07.04"]
+[Round "8.48"]
+[White "Yigit, Ahmet Yasir"]
+[Black "Obidjonov, Oriyat"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2253"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O e5 8.b3 Bc5 9.Bb2 d6 10.Nd2 h5 11.Qe2 h4 12.h3 Nh5 13.Qf3 Ng3 14.Bc4 Qe7 15.Rfd1 Rh6 16.b4 Bb6 17.Qd3 Nh5 18.Qc3 Nf4 19.Bf1 Bd7 20.Nc4 Rg6 21.Nxb6 Nxh3+ 22.Kh2 axb6 23.Qf3 Rf6 24.Qh5 Nxf2 25.Qh8+ Qf8 26.Qxf8+ Kxf8 27.Re1 Rf4 28.Bd3 Nxd3 29.cxd3 Rf2 30.Reb1 h3 31.a4 Rxg2+ 32.Kh1 Bg4 33.Bc3 Rc2 34.Rf1 Rxc3 35.a5 bxa5 36.bxa5 Be2 37.Rfe1 Rc2 38.Kh2 Bf1+ 39.Kg3 Rg2+ 40.Kf3 Bxd3 41.Ra3 Bc4 42.Rh1 Be2+ 43.Ke3 Rg3+ 0-1

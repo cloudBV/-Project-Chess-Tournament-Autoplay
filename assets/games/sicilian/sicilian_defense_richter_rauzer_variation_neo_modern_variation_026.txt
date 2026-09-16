@@ -1,0 +1,14 @@
+[Event "Round 7: Sathvik Adiga - Aarit Kapil"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-7/3Kmor2SN/tFzyXDP0"]
+[Date "2026.07.20"]
+[Round "7.11"]
+[White "Sathvik Adiga"]
+[Black "Aarit Kapil"]
+[Result "1-0"]
+[WhiteElo "2408"]
+[BlackElo "2331"]
+[ECO "B68"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Be7 9.f4 Bd7 10.Nf3 b5 11.e5 b4 12.exf6 bxc3 13.Qxc3 gxf6 14.Bh4 Rg8 15.Kb1 Rb8 16.h3 Qa5 17.Qxa5 Nxa5 18.Bxa6 Rxg2 19.Rhg1 Rg6 20.f5 Rxg1 21.Rxg1 e5 22.Rg8+ Bf8 23.Bxf6 Bxf5 24.a4 Kd7 25.Bb5+ Kc7 26.Nxe5 Rc8 27.Nxf7 Kb7 28.Nd8+ Ka8 29.Rxf8 Rxc2 30.Nc6+ Kb7 31.Nxa5+ Kb6 32.Bd8+ Rc7+ 33.Ka1 Be6 34.Re8 Kxa5 35.Bxc7+ Kb4 36.Bxd6+ Ka5 37.Bc5 Bb3 38.Ra8# 1-0

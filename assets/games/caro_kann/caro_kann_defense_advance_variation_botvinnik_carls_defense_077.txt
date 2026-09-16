@@ -1,0 +1,14 @@
+[Event "Round 3: Baselmans, Luuk - Dovgaliuk, Oleksandr"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/cJ4bozxK"]
+[Date "2026.07.23"]
+[Round "3.11"]
+[White "Baselmans, Luuk"]
+[Black "Dovgaliuk, Oleksandr"]
+[Result "0-1"]
+[WhiteElo "2377"]
+[BlackElo "2305"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 e6 8.O-O Ne7 9.Nd2 a5 10.Qe2 Ng6 11.Nf3 Be7 12.g3 O-O 13.c4 Ba6 14.b3 a4 15.Bd2 Qd7 16.Rfe1 Rfd8 17.Bc2 c5 18.h4 Bb7 19.h5 Nf8 20.bxa4 Ba6 21.Nh2 Bxc4 22.Qf3 d4 23.Be4 Bd5 24.Ng4 c4 25.Nf6+ Bxf6 26.exf6 Bxe4 27.Rxe4 Qd5 28.Rd1 Nd7 29.Bc3 Nxf6 30.Rdxd4 Nxe4 31.Rxd5 exd5 32.Bd4 h6 33.Qg4 Ng5 34.f4 f5 35.Qd1 Ne6 36.Bb2 d4 37.Qe2 Kf7 38.Qxc4 d3 39.Qb5 Kg8 40.Qxf5 Ra6 41.Bc3 d2 42.Bxd2 Rxd2 43.Qb5 Rad6 44.Qb3 Kh8 45.a5 Nd4 46.Qb8+ Kh7 47.Qb7 Rc6 48.Qb1+ Rcc2 49.a6 Nf3+ 50.Kf1 Rf2# 0-1

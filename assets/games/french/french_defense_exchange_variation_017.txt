@@ -1,0 +1,15 @@
+[Event "Round 3: Novik, Maxim - Yudasin, Leonid"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-3/KHjzK7Tr/r6SDhOoZ"]
+[Date "2026.07.08"]
+[Round "3.2"]
+[White "Novik, Maxim"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2255"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Ne7 6.O-O O-O 7.Re1 Bf5 8.c3 Bxd3 9.Qxd3 Nd7 10.Nbd2 Re8 11.Nf1 c6 12.Ng3 Qc7 13.Bd2 Bf4 14.Re2 Bxd2 15.Qxd2 Ng6 16.Rxe8+ Rxe8 1/2-1/2

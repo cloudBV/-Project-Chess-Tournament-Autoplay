@@ -1,0 +1,14 @@
+[Event "Round 2: Ioannidis, Evgenios - Kourkoulos-Arditis, Stamatis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/sAp6A8XR"]
+[Date "2026.07.06"]
+[Round "2.41"]
+[White "Ioannidis, Evgenios"]
+[Black "Kourkoulos-Arditis, Stamatis"]
+[Result "1-0"]
+[WhiteElo "2473"]
+[BlackElo "2570"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 c5 6.Rc1 h6 7.Bh4 cxd4 8.Nxd4 d5 9.cxd5 Bxc3+ 10.bxc3 Qxd5 11.Qb3 Nbd7 12.Qxd5 Nxd5 13.e4 N5f6 14.f3 Nb6 15.c4 e5 16.Nb3 Be6 17.c5 Nbd7 18.Bb5 Rfc8 19.O-O Bxb3 20.Bxf6 Nxc5 21.Be7 Ba4 22.Rxc5 Rxc5 23.Bxa4 Rc3 24.Bb3 Rac8 25.Bd6 Rc1 26.Bxe5 b5 27.Bb2 Rxf1+ 28.Kxf1 a5 29.Ke2 a4 30.Bd1 h5 31.Ba3 Rc4 32.Be7 f5 33.exf5 Kf7 34.Ba3 Kf6 35.Bb2+ Kxf5 36.Bxg7 Rc8 37.g3 Re8+ 38.Kd2 Rd8+ 39.Kc1 Ke6 40.f4 h4 41.gxh4 Rg8 42.Be5 Rg2 43.h3 Rxa2 44.h5 Kf7 45.Bc2 b4 46.Bg6+ 1-0

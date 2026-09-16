@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.17"]
+[Round "5.1"]
+[White "Kong, Xiangrui"]
+[Black "Lu, Shanglei"]
+[Result "0-1"]
+[WhiteElo "2469"]
+[BlackElo "2705"]
+[ECO "B40"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Pin Variation, Koch Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Nd5 7.Bd2 Nxc3 8.bxc3 Bf8 9.Bd3 Na6 10.O-O Nc5 11.Qf3 a6 12.Qg3 g6 13.f4 d5 14.Be3 Be7 15.Qf3 Qc7 16.c4 dxc4 17.Bxc4 O-O 18.Rae1 b5 19.Bb3 Bb7 20.Qh3 Nxb3 21.cxb3 Be4 22.Bd2 Qb7 23.Qg3 Rfd8 24.Be3 Rac8 25.Rc1 Rxc1 26.Rxc1 Ba3 27.Rd1 Bc5 28.Qf2 Rc8 29.h3 h5 30.Kh2 Be7 31.Rd2 Rc3 32.Ne2 Rc8 33.Ng3 Bh4 34.Qe1 Bd5 35.Bd4 Qc6 36.Qe2 Qc1 37.Bf2 Be7 38.Be3 Qb1 39.h4 Bxh4 40.Nxh5 gxh5 41.Qxh5 Qh7 42.Qg4+ Kh8 43.Qh3 Be1 44.Re2 Qxh3+ 45.Kxh3 Bb4 46.g4 Kg7 47.f5 Rc3 48.Kh2 Bf3 0-1

@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "3.2"]
+[White "Saric, Ivan"]
+[Black "Deac, Bogdan-Daniel"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2613"]
+[ECO "C55"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 h6 8.a5 a6 9.h3 Re8 10.Re1 Bf8 11.Bd2 Be6 12.Bxe6 fxe6 13.Ne2 d5 14.Ng3 Qd7 15.c3 b6 16.axb6 cxb6 17.b4 b5 18.Qb3 dxe4 19.dxe4 a5 20.Red1 Qb7 21.Be1 Nd7 22.Qb1 axb4 23.Rxa8 Rxa8 24.cxb4 Nb6 25.Nf1 Nc4 26.Bc3 Ra3 27.Rc1 Qa7 28.N1d2 Nd4 29.Bxd4 exd4 30.e5 d3 31.Rd1 Qb7 32.Qc1 Ra2 33.Qc3 Qa7 34.Qxd3 Nb2 35.Qb3 Nxd1 36.Qxd1 Ra1 37.Nb1 Qa2 38.Nfd2 Bxb4 0-1

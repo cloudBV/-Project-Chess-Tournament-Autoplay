@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.05"]
+[Round "3.1"]
+[White "Skypala, Ondrej"]
+[Black "Babula, Vlastimil"]
+[Result "1-0"]
+[WhiteElo "2285"]
+[BlackElo "2376"]
+[ECO "A20"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 f5 4.Nc3 Nf6 5.e3 Be7 6.Nge2 O-O 7.O-O d6 8.d3 Kh8 9.Rb1 a5 10.a3 Be6 11.Nd5 Qd7 12.b4 axb4 13.axb4 e4 14.Nef4 Bf7 15.Nxf6 Bxf6 16.Nd5 Bxd5 17.cxd5 Na7 18.dxe4 Nb5 19.Bb2 fxe4 20.Bxe4 Bxb2 21.Rxb2 Nc3 22.Qc2 Nxe4 23.Qxe4 Rae8 24.Qc4 Rf7 25.Ra2 Qf5 26.Ra7 h6 27.Rxb7 Re4 28.Qd3 Qf3 29.Rb8+ Kh7 30.Re8 1-0

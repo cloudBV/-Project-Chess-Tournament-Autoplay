@@ -1,0 +1,14 @@
+[Event "Round 7: Krallis, Christos - Celik, Hasan Huseyin"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/GnZqQl0g"]
+[Date "2026.07.23"]
+[Round "7.2"]
+[White "Krallis, Christos"]
+[Black "Celik, Hasan Huseyin"]
+[Result "0-1"]
+[WhiteElo "2424"]
+[BlackElo "2490"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 g6 6.c4 Bg7 7.Nc3 Nc6 8.Nde2 O-O 9.O-O b6 10.b3 Bb7 11.Bb2 e6 12.Rc1 d5 13.exd5 exd5 14.cxd5 Nxd5 15.Be4 Nxc3 16.Bxc3 Rc8 17.Bxg7 Kxg7 18.Qxd8 Rfxd8 19.Nc3 f5 20.Bf3 Ba6 21.Rfe1 Nd4 22.Re7+ Kh6 23.Rxa7 Be2 24.Bb7 Rc7 25.Ra8 Rd6 26.Re8 Bb5 0-1

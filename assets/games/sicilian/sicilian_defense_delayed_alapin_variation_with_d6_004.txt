@@ -1,0 +1,15 @@
+[Event "Round 9: Vergara Jofre, Felipe - Valenzuela Gomez, Fernando"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-9/EPfgx8Ax/EJ69Zs2N"]
+[Date "2026.07.03"]
+[Round "9.4"]
+[White "Vergara Jofre, Felipe"]
+[Black "Valenzuela Gomez, Fernando"]
+[Result "1/2-1/2"]
+[WhiteElo "2304"]
+[BlackElo "2346"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.h3 g6 5.Qc2 Qc7 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.O-O Bg7 9.c4 Ne5 10.Nxe5 dxe5 11.Nc3 e6 12.d3 O-O 13.a3 Nd7 14.b4 f5 15.exf5 gxf5 16.Rb1 Kh8 17.Be3 Rg8 18.f3 Bf6 19.bxc5 Rg7 20.Kh1 Rag8 21.Nb5 Qc6 22.Nxa7 Qa6 23.Nb5 Rxg2 24.Qxg2 Rxg2 25.Kxg2 Be7 1/2-1/2

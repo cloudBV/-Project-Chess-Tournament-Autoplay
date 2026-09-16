@@ -1,0 +1,14 @@
+[Event "Round 9: Costantino, Claudio Emanuele - Paduano, Claudio"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-9/u4wrlbbE/h6C1CPae"]
+[Date "2026.07.12"]
+[Round "9.4"]
+[White "Costantino, Claudio Emanuele"]
+[Black "Paduano, Claudio"]
+[Result "0-1"]
+[WhiteElo "2222"]
+[BlackElo "2300"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 a5 13.Qf3 Be7 14.Rd1 O-O 15.Be2 Be6 16.O-O Bg5 17.Qd3 Qb8 18.Qg3 Bd8 19.Nde3 Ne7 20.Bg4 a4 21.Rd3 Bb6 22.Qh3 Ng6 23.g3 Re8 24.Bxe6 fxe6 25.Qg4 Ra7 26.Qe2 Bc5 27.b3 Rf8 28.Qg4 Rf6 29.Qe2 Qf8 30.Kg2 axb3 31.axb3 Ra2 32.Ra1 Rxa1 33.Nxa1 Qa8 34.Ng4 Rf7 35.Nc2 h5 36.Nge3 Qxe4+ 37.Kg1 Nf4 38.gxf4 exf4 39.Ne1 fxe3 40.fxe3 Rf6 41.Ng2 Rg6 42.Rd1 h4 43.h3 Rg3 44.Kh2 Qf5 45.Rf1 Qxh3+ 46.Kg1 Bxe3+ 0-1

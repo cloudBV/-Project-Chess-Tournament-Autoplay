@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.24"]
+[White "Hangay, Oliver"]
+[Black "Allmendinger, Anton Johannes"]
+[Result "1/2-1/2"]
+[WhiteElo "2240"]
+[BlackElo "2035"]
+[ECO "B12"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Bg4 5.dxc5 e6 6.Be3 Nd7 7.c3 Ne7 8.Bb5 Nc6 9.Nbd2 Bxc5 10.Bxc5 Nxc5 11.O-O O-O 12.h3 Bh5 13.Re1 Qc7 14.Qe2 Nd7 15.Qe3 a6 16.Bd3 Bg6 17.Bxg6 hxg6 18.Rad1 Qb6 19.Qf4 Qxb2 20.Ng5 Qc2 1/2-1/2

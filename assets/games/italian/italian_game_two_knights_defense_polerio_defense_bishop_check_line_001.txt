@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.7"]
+[White "Corrales Jimenez, Fidel"]
+[Black "Saxena, Vihaan"]
+[Result "1-0"]
+[WhiteElo "2507"]
+[BlackElo "2085"]
+[ECO "C58"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Bd3 Nd5 9.Nf3 Bd6 10.Nc3 O-O 11.Be2 f5 12.d3 Qc7 13.h3 e4 14.dxe4 Nxc3 15.bxc3 fxe4 16.Nd4 Be5 17.O-O Rd8 18.Qe1 Bxd4 19.cxd4 Be6 20.Qc3 Bd5 21.Bg5 Re8 22.Bh4 Nb7 23.Bg3 Qf7 24.Be5 Rac8 25.Qg3 Na5 26.Rfe1 c5 27.Ba6 Ra8 28.dxc5 Nc6 29.Bc3 Re6 30.Be2 e3 31.Bg4 exf2+ 32.Qxf2 Qxf2+ 33.Kxf2 Rf8+ 34.Kg1 Rxe1+ 35.Rxe1 Bxa2 36.Rd1 Rd8 37.Bd7 Bf7 38.Rd6 Nb8 39.c6 Nxd7 40.Ba5 1-0

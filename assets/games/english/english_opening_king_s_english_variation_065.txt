@@ -1,0 +1,14 @@
+[Event "Round 8: Buchal, Stephan - Scheuermann, Bernhard"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-8/2E3aV6Aw/6RPoNLMO"]
+[Date "2026.07.24"]
+[Round "8.4"]
+[White "Buchal, Stephan"]
+[Black "Scheuermann, Bernhard"]
+[Result "0-1"]
+[WhiteElo "2241"]
+[BlackElo "2128"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.Nf3 e4 5.Nd4 Qb6 6.Nb3 a5 7.d3 a4 8.N3d2 Bc5 9.O-O e3 10.fxe3 Bxe3+ 11.Kh1 Ng4 12.Ne4 O-O 13.Nbc3 d5 14.cxd5 Bxc1 15.Qxc1 Ne3 16.dxc6 Nxf1 17.Nd5 Qd4 18.cxb7 Bxb7 19.Ne7+ Kh8 20.Qxf1 Nd7 21.Nf5 Qb6 22.Rb1 Bd5 23.Nc3 Bxg2+ 24.Qxg2 a3 25.e4 Rfc8 26.Qd2 Qb4 27.Ne3 Rab8 28.Ned5 Qd4 29.b4 Ne5 30.Rd1 Rc6 31.b5 Rh6 32.Qf4 g5 33.Qf1 Ng4 34.Rd2 Ne5 35.b6 g4 36.Qf4 Rbxb6 37.Nxb6 Nf3 38.Rg2 Rxh2+ 39.Rxh2 Qg1# 0-1

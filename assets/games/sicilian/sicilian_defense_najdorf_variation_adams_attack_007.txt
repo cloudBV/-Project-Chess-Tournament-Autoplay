@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "9.14"]
+[White "Lin, Bryan Enming"]
+[Black "Kaplan, Avi Harrison"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2251"]
+[ECO "B90"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 b5 7.a4 b4 8.Nd5 e6 9.Nxf6+ Qxf6 10.Bd3 Bb7 11.O-O Nd7 12.Nb3 a5 13.Bb5 Qd8 14.Qg4 h5 15.Qg3 Qc7 16.c3 Bxe4 17.cxb4 axb4 18.Bd2 Qb7 19.Rfe1 Bd5 20.Nd4 h4 21.Qg4 Be7 22.Qxg7 O-O-O 23.Nf5 exf5 24.Rxe7 Rhg8 25.Rc1+ Nc5 26.Qf6 Rxg2+ 27.Kf1 Qb6 28.Qxf5+ Kb8 29.Qxd5 Rxf2+ 30.Ke1 Rg8 31.Rxc5 Rh2 32.Be3 Rxb2 33.Rc8+ Rxc8 34.Bxb6 Rc1+ 35.Qd1 Rbc2 36.Qxc1 b3 37.Qxc2 b2 38.Ba7+ Ka8 39.Qg2+ d5 40.Qg8# 1-0

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.08"]
+[Round "5.9"]
+[White "Sahithi Varshini M"]
+[Black "Raghav V"]
+[Result "0-1"]
+[WhiteElo "2264"]
+[BlackElo "2307"]
+[ECO "C54"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.c3 O-O 6.O-O d6 7.b4 Bb6 8.a4 a6 9.Re1 Ne7 10.Nbd2 c6 11.Bb3 Ng6 12.Nf1 h6 13.Ng3 d5 14.a5 Bc7 15.Be3 Re8 16.h3 Be6 17.Qc2 Qd7 18.Rad1 Rad8 19.c4 d4 20.Bc1 Nf4 21.Bxf4 exf4 22.Nf1 Bxh3 23.gxh3 Qxh3 24.Qe2 Ng4 25.c5 Re5 26.Nxe5 Nxe5 27.Ng3 fxg3 28.f4 Ng4 29.Qg2 Qh4 30.e5 Nf2 31.Rd2 Nh3+ 32.Kf1 Qxf4+ 33.Ke2 Nf2 34.Qf3 Bxe5 35.Rc2 Re8 36.Qxf4 Bxf4+ 37.Kf1 Rxe1+ 38.Kxe1 Nxd3+ 39.Kf1 Be3 40.Bc4 Nf4 0-1

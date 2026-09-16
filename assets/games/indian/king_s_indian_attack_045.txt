@@ -1,0 +1,15 @@
+[Event "Round 3: Domingo Nunez, Ruben - Macias Pino, Diego"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/BhUmobQa"]
+[Date "2026.06.29"]
+[Round "3.1"]
+[White "Domingo Nunez, Ruben"]
+[Black "Macias Pino, Diego"]
+[Result "1/2-1/2"]
+[WhiteElo "2405"]
+[BlackElo "2494"]
+[ECO "A05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c5 4.O-O e6 5.c4 d4 6.e3 Nc6 7.exd4 cxd4 8.d3 a5 9.Qe2 Bd6 10.Bg5 h6 1/2-1/2

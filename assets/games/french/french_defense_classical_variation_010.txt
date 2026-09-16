@@ -1,0 +1,15 @@
+[Event "Round 4: Aydin, Gulenay - Dargali, Hakan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/feJo2qph"]
+[Date "2026.07.15"]
+[Round "4.25"]
+[White "Aydin, Gulenay"]
+[Black "Dargali, Hakan"]
+[Result "0-1"]
+[WhiteElo "2241"]
+[BlackElo "2101"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.e5 Qd8 7.Nf3 c5 8.dxc5 Bxc5 9.Bd3 Nc6 10.O-O g5 11.Qe2 a6 12.Nd2 Bd4 13.Nf3 Ba7 14.Kh1 h5 15.Nd2 Qc7 16.Rae1 Bd7 17.f4 g4 18.Nb3 O-O-O 19.Qd2 Kb8 20.Ne2 a5 21.c3 Rc8 22.Rb1 h4 23.Nbd4 Nxd4 24.cxd4 b5 25.b4 a4 26.Rbc1 Qb7 27.Rc5 h3 28.g3 Bxc5 29.bxc5 Rxc5 30.Kg1 Rc4 31.Rb1 Rhc8 32.a3 R8c7 33.Bxc4 dxc4 34.Nc3 Qf3 35.Nxb5 Rb7 36.Nc3 Bc6 37.d5 Rxb1+ 38.Nxb1 Qxd5 39.Qxd5 exd5 40.Kf2 d4 41.Ke2 c3 42.Nxc3 dxc3 43.Kd3 Kc7 44.Kxc3 Kd7 45.Kd4 Ke6 46.Kc5 Bf3 47.Kd4 Kd7 48.Kc5 Kc7 49.Kb5 Bc6+ 50.Kc5 Bd7 51.Kd5 Kb6 52.Kd6 Be6 53.Ke7 Kc5 54.Kf6 Kc4 55.f5 Bd5 56.Ke7 Kb3 57.Kd6 Bc4 58.Kc5 Kc3 59.Kd6 Bd3 60.e6 fxe6 61.f6 Bg6 62.Kxe6 Kb3 63.f7 Bxf7+ 0-1

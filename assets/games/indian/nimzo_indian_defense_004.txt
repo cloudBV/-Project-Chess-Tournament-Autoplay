@@ -1,0 +1,15 @@
+[Event "North Island Chess Championships 2026"]
+[Site "https://lichess.org/broadcast/nz-north-island-championship-2026/round-7/BY0Rm6hx/4kNFWJDK"]
+[Date "2026.07.03"]
+[Round "07"]
+[White "Tew, Yao Zen Markis"]
+[Black "Ang, Alphaeus Wei Ern"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2363"]
+[ECO "E20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 b6 5.Nf3 Bb7 6.e3 O-O 7.Bd3 d6 8.O-O Nbd7 9.a3 Bxc3 10.Bxc3 Ne4 11.Be1 f5 12.Nd2 Qg5 13.f4 Qg6 14.Nxe4 Bxe4 15.Bxe4 fxe4 16.Qa4 Nf6 17.b4 a6 18.Bd2 Qh5 19.Qc6 Ra7 20.Rfe1 b5 21.c5 Qd5 22.Qxd5 Nxd5 23.cxd6 cxd6 24.Rec1 Nb6 25.Kf2 Kf7 26.Ke2 Ke7 27.g4 Kd7 28.Rc3 Rc8 29.Rxc8 Kxc8 30.f5 exf5 31.gxf5 Rf7 32.Rg1 Kd7 33.Rg4 d5 34.Rh4 h6 35.Rg4 Nc4 36.Rg6 Nxa3 37.Rxa6 Nc4 38.Be1 Rxf5 39.Ra7+ Ke6 40.Rxg7 Rg5 41.Rb7 Rg2+ 42.Bf2 Rxh2 43.Rxb5 Nb2 44.Kf1 Nd3 45.Bg3 Rb2 46.Rb6+ Kf5 47.Rxh6 Nxb4 48.Bf4 Nd3 49.Rh5+ Kg4 50.Rg5+ Kh4 51.Rxd5 Nxf4 52.exf4 Kg4 53.Ke1 e3 54.Rc5 Kf3 55.Rc1 Rh2 56.f5 Rh1# 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Quparadze, Giga - Alaverdyan, Gevorg"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-6/kDkmY1PW/0rlU37FW"]
+[Date "2026.07.17"]
+[Round "6.4"]
+[White "Quparadze, Giga"]
+[Black "Alaverdyan, Gevorg"]
+[Result "1/2-1/2"]
+[WhiteElo "2491"]
+[BlackElo "2266"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Ne7 6.h4 h5 7.Nbd2 d6 8.e5 d5 9.b3 a5 10.a4 Ba6 11.Qe2 Nf5 12.Ba3 Be7 13.g3 Rb8 14.c4 Nd4 15.Nxd4 cxd4 16.c5 Kd7 17.Rb1 Qf8 18.Rc1 Qg8 19.Kd1 Qh7 20.Kc2 Rb4 21.Bxb4 axb4 22.Rcg1 Bxc5 23.g4 Bf8 24.Nf3 c5 25.Ng5 Qg6 26.gxh5 Qxh5 27.Qxh5 Rxh5 28.f4 Ke7 29.Kd2 f6 30.Nf3 Kf7 31.Rg4 Be7 32.Rhg1 Bf8 33.Rc1 Be7 34.Ke2 Rh8 35.f5 Bc8 36.Rcg1 Rh7 37.exf6 gxf6 38.fxe6+ Bxe6 39.Rf4 Ke8 40.a5 Kd7 41.a6 Kc7 42.a7 Kb7 43.Rc1 1/2-1/2

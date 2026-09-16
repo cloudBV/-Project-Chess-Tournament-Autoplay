@@ -1,0 +1,14 @@
+[Event "Round 9: Honcharov, Makar - Vitak, Jiri"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-9/VqxXFC7K/9JWzwXHF"]
+[Date "2026.07.05"]
+[Round "9.6"]
+[White "Honcharov, Makar"]
+[Black "Vitak, Jiri"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2373"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 b5 8.Bb3 Bb7 9.f3 Nbd7 10.Qd2 Nc5 11.g4 Be7 12.O-O-O Qc7 13.Kb1 Nfd7 14.Bg5 Bxg5 15.Qxg5 O-O 16.Rhg1 Nxb3 17.cxb3 Rac8 18.h4 Ne5 19.Qe3 Rfd8 20.h5 Qe7 21.g5 Nc6 22.Nce2 Nxd4 23.Nxd4 g6 24.Rh1 e5 25.Ne2 d5 26.hxg6 fxg6 27.exd5 Rxd5 28.Rxd5 Bxd5 29.Nc3 Bb7 30.Re1 Qc5 31.Qxe5 Qxe5 32.Rxe5 Bxf3 33.a4 bxa4 34.bxa4 h5 35.Re6 Rc6 36.Re3 Bg4 37.Nd5 Kf7 38.b4 Be6 39.Rf3+ Bf5+ 40.Kb2 Ke6 41.Nc3 Ke5 42.b5 axb5 43.axb5 Rc8 44.Ka3 h4 45.Kb4 h3 46.Rf2 Rh8 47.Rh2 Kf4 48.Ne2+ Kxg5 49.b6 Bg4 50.Ng3 Bf3 51.Nf1 Bg2 52.Ne3 Bb7 53.Nf1 Ba6 54.Nd2 Kg4 55.Ne4 Bb7 56.Nd6 Bg2 57.Nf7 Rb8 58.Kc5 Kg3 59.Kd4 0-1

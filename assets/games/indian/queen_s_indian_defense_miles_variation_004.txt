@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.12"]
+[Round "2.6"]
+[White "Han, Qixiang"]
+[Black "Margarido, Jose Miguel Teixeira"]
+[Result "*"]
+[WhiteElo "2311"]
+[BlackElo "2143"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Miles Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Bf4 Bb4+ 5.Nfd2 Nh5 6.Bg3 Bb7 7.a3 Be7 8.e4 Nxg3 9.hxg3 d6 10.Nc3 Nd7 11.f4 g6 12.Nf3 c5 13.d5 exd5 14.cxd5 O-O 15.Bb5 a6 16.Bc6 Rb8 17.e5 Qc7 18.Bxb7 Qxb7 19.Qd2 Rfe8 20.Ne4 dxe5 21.fxe5 f5 22.Nc3 Nxe5 23.O-O-O Nxf3 24.gxf3 Bd6 25.g4 fxg4 26.Ne4 Be5 27.Ng5 Bd4 28.Ne6 Qxd5 29.Nxd4 cxd4 30.Qh2 Rb7 31.Kb1 gxf3 32.Ka1 d3 33.Rdg1 Qf5 34.Qf2 Rf7 35.Rd1 Qc5 36.Qd2 Qf5 37.Qf2 Rf6 38.Qd4 f2 39.Qc4+ Kg7 40.Qc3 Re7 41.Rc1 Rd7 42.Qc8 h5 43.Rcd1 d2 44.Qc3 Qd3 45.Qe5 Qd5 46.Qe8 Rf8 47.Qe2 Qxh1 48.Qe5+ Kh7 49.Rxh1 f1=Q+ 50.Rxf1 Rxf1+ 51.Ka2 Ra1+ 52.Kxa1 d1=Q+ 53.Ka2 Qd5+ 54.Qxd5 Rxd5 *

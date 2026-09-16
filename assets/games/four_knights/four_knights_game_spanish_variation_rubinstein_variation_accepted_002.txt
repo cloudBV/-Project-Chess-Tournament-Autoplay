@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.2"]
+[White "Bouska, Jiri"]
+[Black "Sowinski, Pawel"]
+[Result "0-1"]
+[WhiteElo "2298"]
+[BlackElo "2432"]
+[ECO "C48"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 c6 9.Bd3 d5 10.Be3 Bf5 11.Qf3 Bxd3 12.Qxf6 gxf6 13.cxd3 Bd6 14.Kd2 Kd7 15.c4 Rhg8 16.g3 Rg4 17.h3 Rg6 18.a3 f5 19.Rac1 h5 20.cxd5 cxd5 21.Bc5 Be5 22.Rhe1 Re6 23.Be3 Rae8 24.d4 Bd6 25.Kd3 Re4 26.Bd2 Rg8 27.Rxe4 fxe4+ 28.Ke2 f5 29.Bf4 h4 30.Bxd6 Kxd6 31.Rc3 Rh8 32.Rb3 b6 33.Rc3 hxg3 34.Rxg3 Ke6 35.b4 Kf6 36.Rc3 f4 37.Rc6+ Ke7 38.Rc7+ Kd6 39.Rxa7 Rxh3 40.Rf7 Rxa3 41.Rxf4 Rb3 42.Rf6+ Kc7 43.Rf5 Kc6 44.Rf6+ Kb5 45.Rd6 Kc4 46.Rxb6 Kxd4 47.Rb5 Rb2+ 48.Ke1 Rc2 49.Ra5 Rc4 50.Rb5 Rc8 51.Ke2 Kc4 52.Rb7 Ra8 53.Rc7+ Kd4 54.Rc2 Ra4 55.Rd2+ Kc4 56.Ke3 Ra3+ 57.Kf4 Rd3 58.Rc2+ Kd4 59.b5 Rf3+ 60.Kg4 Rf6 61.Rd2+ Ke5 62.Rb2 Rb6 63.f4+ Kd4 64.Rd2+ Kc4 65.f5 e3 66.Rd1 d4 67.Rc1+ Kd3 68.Rb1 Kc2 69.Rb4 e2 70.Rc4+ Kd3 71.Rc1 Kd2 0-1

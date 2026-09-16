@@ -1,0 +1,14 @@
+[Event "Round 5: Proschmann, Tino - Loew, Gerald"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-5/UJHfv34y/oxQdXpFG"]
+[Date "2026.07.21"]
+[Round "5.8"]
+[White "Proschmann, Tino"]
+[Black "Loew, Gerald"]
+[Result "0-1"]
+[WhiteElo "2081"]
+[BlackElo "2170"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be6 8.Nc4 b5 9.Ne3 Nf6 10.Ned5 Be7 11.Nxf6+ Bxf6 12.Nd5 O-O 13.h4 h6 14.g3 Rb8 15.Bh3 Be7 16.Kf1 Qd7 17.Kg2 Bd8 18.Ne3 Ne7 19.Qd3 Bb6 20.Nd5 Nxd5 21.exd5 Qb7 22.Rd1 Bd4 23.c3 Bxd5+ 24.f3 Bc4 25.Qc2 Bc5 26.b4 Bb6 27.Rxd6 Rbd8 28.Rxd8 Rxd8 29.a4 Bf1+ 30.Kh2 Bxh3 31.Kxh3 Qxf3 32.Bb2 Bf2 0-1

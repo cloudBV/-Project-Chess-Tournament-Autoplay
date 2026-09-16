@@ -1,0 +1,14 @@
+[Event "Round 4: Zrikem, Nassim - Carbonell Bofill, Carlos Eloy"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-4/dYZKVte1/l8LIj3Qj"]
+[Date "2026.07.15"]
+[Round "4.4"]
+[White "Zrikem, Nassim"]
+[Black "Carbonell Bofill, Carlos Eloy"]
+[Result "1-0"]
+[WhiteElo "2179"]
+[BlackElo "2093"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.g3 Ngf6 6.Bg2 Nxe4 7.Bxe4 c5 8.Ne2 Be7 9.O-O O-O 10.Qd3 cxd4 11.Qxd4 Nc5 12.Bg2 Qxd4 13.Nxd4 e5 14.Re1 Rd8 15.Rxe5 Ne6 16.Be3 Bf6 17.Nxe6 Bxe6 18.Rb5 Rac8 19.c3 b6 20.Rb4 h5 21.a4 Bc4 22.Bf1 Bd5 23.a5 bxa5 24.Rxa5 Bf3 25.Ra1 g5 26.Bg2 a5 27.Rb6 Bxg2 28.Kxg2 Be7 29.Rxa5 Rd7 30.Bxg5 f6 31.Bxf6 Bc5 32.Rbb5 Rf8 33.Rxc5 Rxf6 34.Rg5+ Kf7 35.Rxh5 1-0

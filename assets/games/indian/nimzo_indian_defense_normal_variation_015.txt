@@ -1,0 +1,15 @@
+[Event "Round 5: Ibanez Aullana, Ramon - Martinez Duany, Lelys Stanley"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/rlAJotex"]
+[Date "2026.07.08"]
+[Round "5.6"]
+[White "Ibanez Aullana, Ramon"]
+[Black "Martinez Duany, Lelys Stanley"]
+[Result "0-1"]
+[WhiteElo "2204"]
+[BlackElo "2438"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.Nf3 b6 7.cxd5 exd5 8.Bd3 c5 9.Ne5 cxd4 10.exd4 Ba6 11.Bxa6 Nxa6 12.O-O Bxc3 13.Bxc3 Nc7 14.f3 Qd6 15.Qd2 a5 16.a4 Nd7 17.Rfe1 f6 18.Nd3 Rfe8 19.Rxe8+ Rxe8 20.b3 Nb8 21.Re1 Rxe1+ 22.Nxe1 Nc6 23.Nc2 Ne6 24.Bb2 g6 25.Ba3 Qd7 26.Qh6 Qe8 27.Qe3 Kg7 28.h4 h5 29.Bc1 Kf7 30.Kf2 Ne7 31.Kg1 Nf5 32.Qf2 Qc8 33.Bb2 Nf4 34.Qd2 Qc7 35.Bc1 Ne6 36.Bb2 Nxh4 37.Ne3 Qf4 38.Bc3 Qg5 39.Kh2 Nf4 40.Qf2 Nf5 41.Bd2 Nd3 42.Nxd5 Nxf2 43.Bxg5 fxg5 44.b4 axb4 45.Nxb4 Nxd4 46.Nd5 b5 47.a5 Nd3 48.a6 Nc6 49.Kg1 b4 0-1

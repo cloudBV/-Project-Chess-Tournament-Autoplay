@@ -1,0 +1,15 @@
+[Event "Round 8: Guliev, Logman - Valiyev, Shahin"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-8/GUsARlGX/eXpd2kS9"]
+[Date "2026.07.03"]
+[Round "8.4"]
+[White "Guliev, Logman"]
+[Black "Valiyev, Shahin"]
+[Result "0-1"]
+[WhiteElo "2215"]
+[BlackElo "2363"]
+[ECO "B93"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Qc7 9.Bd3 Be7 10.O-O O-O 11.Kh1 Nc5 12.Qe1 Bd7 13.fxe5 dxe5 14.Bg5 Bc6 15.Nh4 Ne6 16.Bxf6 Bxf6 17.Rxf6 gxf6 18.Nf5 Kh8 19.Qh4 Qd8 20.Nd5 Bxd5 21.exd5 Ng5 22.c4 Rg8 23.b3 Qb6 24.Bc2 e4 25.Qf4 Qb4 26.Qe3 Rae8 27.Rf1 b5 28.axb5 axb5 29.h4 bxc4 30.Qd4 Re5 31.hxg5 Rxg5 32.Ne3 Qf8 33.Rxf6 Qg7 34.Qb6 cxb3 35.Bxb3 Re8 36.Rf1 Rg8 37.Rf2 Rg3 38.Bc2 Qc3 39.Re2 Qe5 40.Kg1 R8g6 41.Qb4 Qh5 42.Qd4+ Kg8 43.Rf2 Rh3 44.Rf4 Qg5 45.Rg4 Qxe3+ 46.Qxe3 Rxe3 47.Rxe4 Rxe4 48.Bxe4 Rf6 49.Kh2 Kf8 50.Kg3 h6 51.Kg4 Ke7 52.Bd3 Kd6 53.Be4 Ke5 54.Bf3 Rf5 55.Kh4 Rg5 56.g3 f5 57.Bg2 Rg4+ 58.Kh3 Rd4 59.Bf3 Rd3 60.Kg2 Rd2+ 61.Kh3 Rf2 62.Bh1 Rd2 63.Bf3 Kd4 64.Bh1 Ke3 65.Bg2 Kf2 66.d6 0-1

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.16"]
+[White "Gardezi, Arsal"]
+[Black "Deviprasath, Sharvesh"]
+[Result "0-1"]
+[WhiteElo "2064"]
+[BlackElo "2422"]
+[ECO "B27"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.e5 a6 7.h3 Nc6 8.g3 f6 9.exf6 Nxf6 10.Bg2 O-O 11.O-O Qb6 12.Nc3 Bf5 13.Na4 Qb5 14.Nc3 Qb6 15.Na4 Qa7 16.Be3 Rad8 17.Rc1 Ne4 18.Nc3 Qb6 19.Na4 Qa7 20.Nc3 Qb6 21.Na4 Qa5 22.g4 Bd7 23.Qb3 e6 24.Nb6 Qb4 25.Qxb4 Nxb4 26.Ng5 Nxg5 27.Bxg5 Bf6 28.Be3 Bb5 29.Rfd1 Nxa2 30.Rc7 Rf7 31.Bf4 Nb4 32.Bf1 Bxf1 33.Kxf1 Nc6 34.Rxf7 Kxf7 35.Be3 g5 36.Na4 Rc8 37.Rc1 Ke7 38.Kg2 h6 39.f3 Rb8 40.Rd1 b5 41.Nc5 a5 42.Bf2 Rc8 43.Re1 Nxd4 44.Bxd4 Bxd4 45.Nxe6 Bxb2 46.Re2 Kd6 47.Rxb2 Kxe6 48.Rxb5 Ra8 49.Rb3 a4 50.Ra3 d4 51.Kf2 Kd5 52.Ke2 Kc4 53.Kd2 Kb4 54.Ra1 a3 55.Kd3 a2 56.Kxd4 Kb3 57.f4 Ra4+ 58.Ke5 gxf4 59.h4 f3 60.g5 hxg5 61.hxg5 Kb2 0-1

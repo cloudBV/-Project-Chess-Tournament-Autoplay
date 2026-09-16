@@ -1,0 +1,14 @@
+[Event "Round 8: Bagri, Jaspaul - Nazarenus, Olaf"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-8/JGg5v7xk/hUzcaDcq"]
+[Date "2026.07.18"]
+[Round "8.5"]
+[White "Bagri, Jaspaul"]
+[Black "Nazarenus, Olaf"]
+[Result "1-0"]
+[WhiteElo "2023"]
+[BlackElo "2050"]
+[ECO "A29"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O 9.Be3 Be6 10.a3 f5 11.b4 Bf6 12.Rc1 g5 13.Bc5 Rf7 14.Nd2 e4 15.dxe4 Rd7 16.Nd5 Nxd5 17.exd5 Bxd5 18.Bxd5+ Rxd5 19.Qb3 Kg7 20.Nc4 f4 21.Rfd1 Rxd1+ 22.Rxd1 Qe8 23.b5 Ne7 24.Qd3 Qxb5 25.Bxe7 Bxe7 26.Qd4+ Bf6 27.Qd7+ Qxd7 28.Rxd7+ Kg6 29.Rxc7 b5 30.Nd6 Be5 31.Rc6 Bxd6 32.Rxd6+ Kg7 33.Rd5 fxg3 34.hxg3 h6 35.Rxb5 Kg6 36.Ra5 Re8 37.Kf1 Re7 38.g4 Kg7 39.Ra6 Rb7 40.f3 Re7 41.Kf2 Kh7 42.e3 Kg7 43.f4 gxf4 44.exf4 Rc7 45.Kg3 Rf7 46.a4 Kh7 47.a5 Kg7 48.Rc6 h5 49.gxh5 Rf5 50.h6+ Kh7 51.Ra6 Rb5 52.Kg4 Rb1 53.Rxa7+ Kxh6 54.Ra6+ Kg7 55.Rb6 Ra1 56.a6 Ra5 57.f5 Ra1 58.Kg5 Rg1+ 59.Kf4 Ra1 60.Ke5 Re1+ 61.Kd5 Rc1 62.Rc6 Rb1 63.Ke6 Re1+ 64.Kd7 Kf7 65.f6 Kg8 1-0

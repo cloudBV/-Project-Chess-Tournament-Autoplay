@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "3.6"]
+[White "Degraeve, Remy"]
+[Black "Raghav V"]
+[Result "1/2-1/2"]
+[WhiteElo "2463"]
+[BlackElo "2307"]
+[ECO "A07"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 e6 5.O-O Nb4 6.Na3 Nc6 7.c4 Bxa3 8.bxa3 Be4 9.cxd5 exd5 10.Qb3 Rb8 11.Qc3 Nge7 12.Rd1 O-O 13.Bf1 Nc8 14.Nd2 Bf5 15.Bg2 Nb6 16.Nb3 Na4 17.Qe1 Re8 18.Bf4 Nb2 19.Rd2 Nc4 20.Rdd1 Nxa3 21.Qc3 Nc4 22.Re1 b5 23.Rad1 a5 24.Nc5 Nb4 25.a4 g5 26.Bc1 Bg6 27.axb5 Rxb5 28.e4 Na2 29.Qa1 Nb4 30.Qc3 Na2 31.Qc2 Nb4 32.Qe2 c6 33.f4 f5 34.e5 g4 35.h3 gxh3 36.Bxh3 Kh8 37.Bf1 Rg8 38.Qh2 Qe8 39.Qh4 Bh5 40.Qf6+ Rg7 41.Ne6 Qg6 42.Nxg7 Qxg3+ 43.Bg2 Qxg7 44.Qd8+ Qg8 45.Qf6+ Qg7 46.Qd8+ Qg8 47.Qh4 Bxd1 48.Qf6+ 1/2-1/2

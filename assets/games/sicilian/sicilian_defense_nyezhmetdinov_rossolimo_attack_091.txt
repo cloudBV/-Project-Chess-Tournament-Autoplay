@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.17"]
+[Round "14.8"]
+[White "Potential 426cc351-426cc351"]
+[Black "RubiChessHCE 20260308"]
+[Result "1/2-1/2"]
+[WhiteElo "3108"]
+[BlackElo "3397"]
+[ECO "B30"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bg4 5.c3 Qb6 6.Na3 Nf6 7.d4 cxd4 8.cxd4 d5 9.exd5 Nxd5 10.Qb3 Bxf3 11.Nc4 Qc7 12.Qxf3 e6 13.Bxc6+ bxc6 14.Bd2 Be7 15.Rac1 O-O 16.Ne5 Qb6 17.Nd7 Qxd4 18.Nxf8 Qxd2 19.Nd7 Qxb2 20.g3 Qxa2 21.Rxc6 Qb2 22.Rfc1 Rd8 23.Rc8 Qb7 24.Rxd8+ Bxd8 25.Ne5 h6 26.h4 a5 27.h5 Bf6 28.Ng4 Be7 29.Ne3 Qb3 30.Kg2 Nxe3+ 31.Qxe3 Qxe3 32.fxe3 a4 33.Rc8+ Bf8 34.Re8 a3 35.e4 g6 36.hxg6 Kg7 37.gxf7 Kxf7 38.Ra8 Bc5 39.Ra5 Bb4 40.Ra4 Bc5 41.Kf3 Kf6 42.Kf4 Bd6+ 43.Kg4 h5+ 44.Kxh5 Bxg3 45.Rxa3 Bb8 46.Kg4 Ke5 47.Kf3 Bd6 48.Ra6 Bf8 49.Rc6 Ba3 50.Rc4 Bb2 51.Rc5+ Kd4 52.Rc6 Ke5 53.Ra6 Bc1 54.Ra5+ Kd4 55.Ra4+ Ke5 56.Ra6 Bb2 57.Ke3 Bc1+ 58.Ke2 Kxe4 59.Rxe6+ Kd4 60.Kf3 Bb2 61.Rd6+ Kc3 62.Ke2 Ba1 63.Rb6 Bb2 64.Kf3 Ba1 65.Ke3 Bb2 66.Rc6+ Kb4 67.Kd3 Ba1 68.Rb6+ Kc5 69.Rb8 Kd6 70.Ke3 Bc3 71.Rb6+ Kc5 72.Rb3 Ba1 73.Ra3 Bb2 74.Ra2 Bh8 75.Ra7 Kd6 76.Rf7 Ba1 77.Rb7 Ke6 78.Rc7 Bb2 79.Rc8 Ba1 80.Rc1 Bb2 81.Re1 Ba3 82.Ra1 Bf8 83.Ra6+ Kd5 84.Ra5+ Bc5+ 85.Kd3 Kd6 86.Ra6+ Kd5 87.Ra8 Bg1 88.Rc8 Bf2 89.Rd8+ Kc5 90.Rf8 Be1 91.Rc8+ Kb4 92.Rb8+ Kc5 93.Rb3 Kd6 94.Rb7 Ke6 95.Rb6+ Kd5 96.Ke2 Kc5 97.Rb3 Kc4 98.Kxe1 Kxb3 1/2-1/2

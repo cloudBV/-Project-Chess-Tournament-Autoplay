@@ -1,0 +1,15 @@
+[Event "Round 6: De Silva, L M S T - Borgaonkar Akshay"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-6/shLPKZ2L/6Ixvkgqp"]
+[Date "2026.07.05"]
+[Round "6.4"]
+[White "De Silva, L M S T"]
+[Black "Borgaonkar Akshay"]
+[Result "1-0"]
+[WhiteElo "2393"]
+[BlackElo "2389"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O d5 8.Nd2 Bc5 9.Qe2 O-O 10.e5 Nd7 11.Nf3 Be7 12.c4 Nc5 13.Bc2 a5 14.Rd1 a4 15.Be3 Nd7 16.cxd5 cxd5 17.Rd4 a3 18.b4 f6 19.Rh4 f5 20.Rh3 Qc7 21.Rc1 Qb8 22.g4 Ba6 23.Qd1 Nxe5 24.gxf5 Ng4 25.fxe6 g6 26.Bxg6 hxg6 27.Qd4 Nf6 28.Qh4 Nh5 29.Qxe7 Qe8 30.Qd6 Bc4 31.Rxh5 Rxf3 32.Qe5 gxh5 33.Qg5+ Kh7 34.Qh6+ Kg8 35.Bd4 Rf6 1-0

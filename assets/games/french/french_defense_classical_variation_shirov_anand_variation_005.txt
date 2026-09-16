@@ -1,0 +1,15 @@
+[Event "Round 7: Fedorov, Alexei - Kushagra Mohan"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-7/oIu1XrnK/6CNM76xP"]
+[Date "2026.06.30"]
+[Round "7.1"]
+[White "Fedorov, Alexei"]
+[Black "Kushagra Mohan"]
+[Result "0-1"]
+[WhiteElo "2399"]
+[BlackElo "2429"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Shirov-Anand Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.Nf3 Be7 8.g3 O-O 9.h4 cxd4 10.cxd4 f6 11.exf6 Bb4+ 12.Nc3 Qxf6 13.Bg2 e5 14.O-O e4 15.Ng5 Bxc3 16.bxc3 h6 17.Nh3 Qf7 18.f3 Nf6 19.fxe4 dxe4 20.Nf4 Na5 21.d5 Nc4 22.Qd4 Nd6 23.c4 Nf5 24.Qc3 Re8 25.Bb2 e3 26.Rf3 Ne4 27.Qd3 Nd2 28.Kh2 Qe7 29.Ne6 Bxe6 30.dxe6 Nxf3+ 31.Bxf3 Rf8 32.Bd5 Kh8 33.Rf1 Nxg3 34.Kxg3 Rxf1 35.Qxf1 Rf8 36.Qc1 Qd6+ 37.Kh3 Rf2 38.Qxe3 Qh2+ 39.Kg4 Qg1+ 40.Qg3 h5+ 41.Kh3 Rh2+ 0-1

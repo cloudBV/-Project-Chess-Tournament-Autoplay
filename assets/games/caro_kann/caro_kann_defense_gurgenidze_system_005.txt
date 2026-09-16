@@ -1,0 +1,14 @@
+[Event "Round 8: Angst, Oliver - Cherniaev, Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/luGXuTai"]
+[Date "2026.07.21"]
+[Round "8.18"]
+[White "Angst, Oliver"]
+[Black "Cherniaev, Alexander"]
+[Result "0-1"]
+[WhiteElo "2121"]
+[BlackElo "2275"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Gurgenidze System"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.Be3 Qb6 6.Qd2 Qxb2 7.Rb1 Qa3 8.h4 h5 9.Nh3 Qa5 10.Nf4 Nh6 11.f3 Nf5 12.Bf2 Bh6 13.Rb3 Ng7 14.Be3 Bxf4 15.Bxf4 Qd8 16.Be2 b6 17.g4 Ba6 18.Bh6 Ne6 19.gxh5 gxh5 20.Rg1 Kd7 21.Be3 Rg8 22.f4 Rxg1+ 23.Bxg1 Qg8 24.Bf2 Qh7 25.Bxa6 Nxa6 26.Ne2 Rg8 27.Ng3 Rg4 28.f5 Nf4 29.Rf3 Ng2+ 30.Kf1 Nxh4 31.e6+ fxe6 32.Qd3 exf5 33.Qxa6 Nxf3 34.Qb7+ Kd6 35.Qb8+ Ke6 36.Qc8+ Kf7 37.Qxc6 Nxd4 38.Qxd5+ Ne6 39.Nxf5 Rg5 40.Nd6+ exd6 41.Qb7+ Kg8 42.Qc8+ Nf8 43.Qc4+ Qf7 0-1

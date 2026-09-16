@@ -1,0 +1,14 @@
+[Event "Round 3: Lodici, Lorenzo - Ristic, Luka"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-3/CA8T50OD/d1p6EjmK"]
+[Date "2026.07.05"]
+[Round "3.10"]
+[White "Lodici, Lorenzo"]
+[Black "Ristic, Luka"]
+[Result "1/2-1/2"]
+[WhiteElo "2576"]
+[BlackElo "2312"]
+[ECO "B91"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Zagreb Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg2 O-O 9.a4 Be6 10.Nd5 Nxd5 11.exd5 Bf5 12.a5 Qc8 13.c3 h5 14.h4 Bg6 15.O-O Nd7 16.Qe2 Re8 17.c4 Nf6 18.Bd2 Qf5 19.Rac1 Rac8 20.Rfe1 Ng4 21.Bb4 Bf8 22.Nd2 Qd7 23.f3 Nh6 24.Ne4 Rc7 25.Kh2 Qd8 26.Bh3 Bf5 27.Bxf5 Nxf5 28.Qd3 Be7 29.Bd2 Qd7 30.b3 Nd4 31.Kg2 Nf5 32.Red1 Rcc8 33.Bg5 f6 34.Bd2 g6 35.Be1 Kg7 36.Bf2 Nh6 37.c5 f5 38.Nxd6 Bxd6 39.cxd6 Qxd6 40.Rc4 Nf7 41.Qc3 Rcd8 42.Bb6 Rd7 43.Rc8 Rxc8 44.Qxc8 Qe7 45.Qc5 Qxc5 46.Bxc5 Kf6 47.Kf2 f4 48.gxf4 exf4 49.b4 Ke5 50.Rg1 Kf5 51.d6 Nxd6 52.Rg5+ Kf6 53.Rd5 Ke6 54.Rd4 Nf5 55.Rxf4 Rd2+ 56.Ke1 Rc2 57.Bf2 Kd5 58.b5 axb5 59.Rb4 Kc6 60.Re4 Kd5 61.Rb4 1/2-1/2

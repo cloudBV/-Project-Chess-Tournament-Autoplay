@@ -1,0 +1,15 @@
+[Event "Round 6: Raahul V S - Jafarli, Babak"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/YWfpnUen"]
+[Date "2026.07.16"]
+[Round "6.13"]
+[White "Raahul V S"]
+[Black "Jafarli, Babak"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2054"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 b6 3.d4 Bb7 4.e4 Bb4 5.f3 f5 6.exf5 Nh6 7.fxe6 O-O 8.Be3 Qh4+ 9.Bf2 Qf6 10.Bd3 Ng4 11.Qe2 Nxf2 12.Qxf2 c5 13.Ne2 cxd4 14.Qxd4 Qg5 15.h4 Qh6 16.exd7 Nxd7 17.Qxd7 Bxf3 18.gxf3 Rad8 19.Qg4 Rxd3 20.Rd1 Rdxf3 21.Qg5 1-0

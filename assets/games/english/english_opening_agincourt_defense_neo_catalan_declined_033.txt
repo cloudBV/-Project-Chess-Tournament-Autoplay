@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.3"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Pycinski, Wladyslaw"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2298"]
+[ECO "A14"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.d4 a5 7.Qc2 Nc6 8.Nc3 dxc4 9.Rd1 Nb4 10.Qb1 c6 11.Ne5 Nbd5 12.Nxc4 b5 13.Ne5 Bb7 14.e4 Nxc3 15.bxc3 Qc8 16.Be3 Nd7 17.Nxd7 Qxd7 18.e5 Qc7 19.Be4 g6 20.h4 Rfd8 21.h5 c5 22.Bxb7 Qxb7 23.dxc5 Rxd1+ 24.Qxd1 Rd8 25.Qe2 Qc6 26.Rd1 Rd5 27.Rxd5 exd5 28.h6 Bxc5 29.Bxc5 Qxc5 30.e6 Qe7 31.exf7+ Kxf7 32.Qxb5 Qe1+ 33.Kg2 Qe4+ 34.Kg1 Qe1+ 35.Kg2 Qe4+ 36.Kh2 Kf6 37.Qxa5 Qc2 38.Qd8+ Ke6 39.Qg8+ Ke5 40.Qe8+ Kd6 41.Qf8+ Ke6 42.Kg1 Qxc3 43.Qg8+ Kd6 44.Qxh7 Qe1+ 45.Kg2 Qe4+ 46.Kh2 Qf5 47.Kg1 Qb1+ 48.Kg2 Qe4+ 49.f3 Qc2+ 50.Kh3 Qf5+ 51.Kg2 Qc2+ 1/2-1/2

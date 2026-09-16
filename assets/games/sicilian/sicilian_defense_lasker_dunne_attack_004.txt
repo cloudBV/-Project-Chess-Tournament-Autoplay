@@ -1,0 +1,15 @@
+[Event "Round 5: Munoz, Miguel - Herman Gamazo, Isaac"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-5/Fu3jbg1r/l62pVmC1"]
+[Date "2026.07.10"]
+[Round "5.1"]
+[White "Munoz, Miguel"]
+[Black "Herman Gamazo, Isaac"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2094"]
+[ECO "B20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+
+1.e4 c5 2.g3 Nc6 3.Bg2 e6 4.Ne2 Nf6 5.O-O d5 6.exd5 exd5 7.d4 Bg4 8.h3 Be6 9.Nbc3 cxd4 10.Nxd4 Bc5 11.Be3 Nxd4 12.Bxd4 Bxd4 13.Qxd4 O-O 14.g4 h6 15.f4 Rc8 16.f5 Rc4 17.Qxa7 Bd7 18.Rad1 Bc6 19.Rd2 Qc7 20.Qf2 Rd8 21.Rfd1 d4 22.Rxd4 Rcxd4 23.Rxd4 Re8 24.Rd2 Qb8 25.a4 Qc7 26.Re2 Rd8 27.Rd2 Re8 28.Nb5 Qe5 29.Nc3 Bxg2 30.Kxg2 Qc7 31.Qf3 b6 32.Nb5 Qc5 33.Nc3 Qc7 34.h4 Qc4 35.g5 hxg5 36.hxg5 Ng4 37.Re2 Ne5 38.Qe4 Qc8 39.f6 gxf6 40.Nd5 fxg5 41.Nf6+ Kg7 42.Nxe8+ 1-0

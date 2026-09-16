@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-9/HndBQklO/hES00pKu"]
+[Date "2026.06.29"]
+[Round "9.1"]
+[White "Vykouk, Jan"]
+[Black "Haba, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "2504"]
+[BlackElo "2389"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O 9.O-O cxd5 10.h3 1/2-1/2

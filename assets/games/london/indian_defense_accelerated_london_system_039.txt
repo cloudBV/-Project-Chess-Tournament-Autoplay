@@ -1,0 +1,14 @@
+[Event "Round 8: Filipovic, Branko - Acs, Peter"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-8/6GvLkLx7/jcLaR8b5"]
+[Date "2026.07.12"]
+[Round "8.5"]
+[White "Filipovic, Branko"]
+[Black "Acs, Peter"]
+[Result "0-1"]
+[WhiteElo "2279"]
+[BlackElo "2474"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d6 3.Nc3 Nbd7 4.Nf3 g6 5.e4 Bg7 6.Qd2 c5 7.Bh6 Bxh6 8.Qxh6 cxd4 9.Nxd4 Qa5 10.O-O-O Ne5 11.Bb5+ Bd7 12.Bxd7+ Nexd7 13.Nb3 Qb6 14.f3 Rc8 15.Kb1 a5 16.g4 Rxc3 17.bxc3 a4 18.g5 Nh5 19.Rd4 axb3 20.axb3 Ne5 21.h3 Nxf3 22.Ra4 Kd7 23.Rb4 Qc6 24.Kb2 b5 25.Ra1 Qc5 26.Ra5 Rc8 27.Rc4 bxc4 28.Rxc5 dxc5 29.Qxh7 Ke6 30.b4 Nd2 0-1

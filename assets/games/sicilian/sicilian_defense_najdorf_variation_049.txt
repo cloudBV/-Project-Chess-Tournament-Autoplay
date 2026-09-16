@@ -1,0 +1,15 @@
+[Event "26 Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.08"]
+[Round "6.3"]
+[White "Mompel Ferruz, Xavier"]
+[Black "Marin Ripoll, Marti"]
+[Result "1-0"]
+[WhiteElo "2352"]
+[BlackElo "2162"]
+[ECO "B90"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O 9.Ng3 Be6 10.Nd5 Nbd7 11.c4 Ne8 12.Be3 Bg5 13.Qd2 Bxe3 14.Nxe3 Nc7 15.Be2 Nf6 16.Rfd1 b5 17.Qxd6 Qxd6 18.Rxd6 bxc4 19.Bxc4 Nb5 20.Rd2 Rfc8 21.b3 Nd4 22.Bxe6 Nxe6 23.Nc4 Rc5 24.Rad1 a5 25.f3 Rb8 26.Nb2 g6 27.Nf1 Rcb5 28.Ne3 Kg7 29.Nec4 Ne8 30.Rd5 N8c7 31.Rxe5 Rxe5 32.Nxe5 Rd8 33.Rxd8 Nxd8 34.Nbc4 f6 35.Nd3 Nb7 36.Kf2 Kf7 37.Ke3 Ke6 38.Nf4+ Kd7 39.Nd5 Ne8 40.Kd4 Kc6 41.f4 Kd7 42.g4 h6 43.h4 Kc6 44.Ne7+ 1-0

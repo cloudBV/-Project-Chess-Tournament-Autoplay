@@ -1,0 +1,15 @@
+[Event "Round 5: Maruflu, Enes Yusuf - Peray, Ata"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/Pljz0e5T"]
+[Date "2026.07.02"]
+[Round "5.44"]
+[White "Maruflu, Enes Yusuf"]
+[Black "Peray, Ata"]
+[Result "1/2-1/2"]
+[WhiteElo "2204"]
+[BlackElo "2070"]
+[ECO "E15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O d5 9.Bc3 O-O 10.Nbd2 Nbd7 11.Re1 Bb7 12.e4 Nxe4 13.Nxe4 dxe4 14.Rxe4 Nf6 15.Re3 c5 16.Rd3 Be4 17.Rd2 cxd4 18.Rxd4 Qc7 19.Qe2 Qb7 20.Re1 Bc6 21.b4 b5 22.cxb5 Bxb5 23.Ne5 Qxg2+ 24.Kxg2 Bxe2 25.Rxe2 Nd5 26.Be1 Bf6 27.Rc4 Bxe5 28.Rxe5 Rac8 29.Ree4 Rfd8 30.b5 Nb6 31.Rxc8 Rxc8 32.Rd4 Nd5 33.Ra4 Rc7 34.f4 Rb7 35.Ra5 Ne3+ 36.Kf3 Nc4 37.Ra6 Rxb5 38.Rxa7 h5 39.Ra4 Rb1 40.Bf2 Nb6 41.Ra6 Nd5 42.a4 Rb3+ 43.Kg2 h4 44.a5 h3+ 45.Kf1 Ne3+ 46.Bxe3 Rxe3 47.Kf2 Ra3 48.g4 g5 49.fxg5 Kg7 50.Ra8 e5 51.a6 e4 52.a7 Rf3+ 53.Ke2 Ra3 54.Kd2 Kh7 55.g6+ fxg6 56.g5 Kg7 57.Ke2 Kh7 58.Kf2 Kg7 59.Ke2 Kh7 60.Kd2 Kg7 61.Kc2 e3 62.Kd1 Ra2 63.Ke1 e2 64.Kf2 1/2-1/2

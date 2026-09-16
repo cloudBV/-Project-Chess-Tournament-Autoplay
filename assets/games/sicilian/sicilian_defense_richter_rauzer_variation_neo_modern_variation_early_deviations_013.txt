@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.13"]
+[White "Arizmendi Martinez, Julen Luis"]
+[Black "Vaidyanathan, Adithya"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2261"]
+[ECO "B66"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Be7 9.Bxf6 gxf6 10.f4 Nxd4 11.Qxd4 Qa5 12.Bc4 Bd7 13.Bb3 Qc5 14.Qd3 b5 15.f5 a5 16.fxe6 fxe6 17.e5 a4 18.Bxe6 Bxe6 19.exd6 a3 20.Rhe1 axb2+ 21.Kb1 Kf7 22.Rxe6 Kxe6 23.Re1+ Kd7 24.dxe7+ Kc7 25.Nd5+ Kb7 26.Nxf6 Rxa2 27.Qd7+ Ka6 28.Qe6+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Tabatadze, Erekle - Qalichava, Akaki"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-6/kDkmY1PW/IfoaQAGj"]
+[Date "2026.07.17"]
+[Round "6.6"]
+[White "Tabatadze, Erekle"]
+[Black "Qalichava, Akaki"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2360"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Dzindzi-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 a6 4.Nc3 d5 5.cxd5 exd5 6.Bg5 Be6 7.e3 Nbd7 8.Bd3 Bd6 9.O-O O-O 10.h3 c6 11.Bf4 Qc7 12.Qc1 h6 13.Re1 Rae8 14.a4 Nh5 15.Bxd6 Qxd6 16.a5 f5 17.Qc2 g6 18.b4 Nhf6 19.Na4 Re7 20.Nc5 Qb8 21.Nh4 Kf7 22.Nxe6 Rxe6 23.Nxg6 Kxg6 24.Bxf5+ Kf7 25.Bxe6+ Kxe6 26.f3 Qg3 27.e4 Rg8 28.Qa2 Ke7 29.exd5+ Kd8 30.dxc6 bxc6 31.b5 cxb5 32.Rac1 Nd5 33.Qc2 Nc3 34.Qf2 Nd5 35.Qxg3 Rxg3 36.Rc6 Nf4 37.Re4 Rxg2+ 38.Kf1 Rg6 39.Rxg6 Nxg6 40.Re6 Nf4 41.Rxa6 h5 42.Rc6 Nd5 43.a6 N7b6 44.a7 Kd7 45.Rc5 Nc7 46.Rxh5 Kc6 47.Rc5+ Kb7 48.h4 b4 49.Ke1 Ncd5 50.h5 Kxa7 51.h6 Nf6 52.Rc7+ Ka6 53.h7 Nxh7 54.Rxh7 Kb5 55.Rc7 Ka4 56.Kd2 b3 57.Ra7+ Kb5 58.Rb7 1-0

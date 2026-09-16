@@ -1,0 +1,14 @@
+[Event "Round 8: Karmanova, Olga Dm. - Magold, Filip"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/6opVmtkQ"]
+[Date "2026.07.21"]
+[Round "8.5"]
+[White "Karmanova, Olga Dm."]
+[Black "Magold, Filip"]
+[Result "0-1"]
+[WhiteElo "2212"]
+[BlackElo "2501"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 b6 2.e4 Bb7 3.Nc3 c5 4.Nge2 e6 5.g3 Nf6 6.Bg2 d6 7.O-O Nbd7 8.d3 a6 9.f4 Qc7 10.f5 Ne5 11.Bg5 Nfg4 12.fxe6 fxe6 13.Nf4 Bc8 14.Nh5 h6 15.Bc1 g6 16.Nf4 h5 17.h3 Nh6 18.Be3 Nhf7 19.Qa4+ Bd7 20.Qb3 Bg7 21.d4 cxd4 22.Bxd4 O-O 23.c5 dxc5 24.Bxe5 Qxe5 25.Rad1 Rfd8 26.Qxb6 Rab8 27.Qa7 Be8 28.Rxd8 Nxd8 29.Qe7 Bf7 30.Kh1 Bf6 31.Nxg6 Bxe7 32.Nxe5 Rxb2 33.Rc1 Bg5 34.Rd1 Bf6 35.Nd3 Rc2 36.e5 Be7 37.Ne4 c4 38.Nf4 Rxa2 39.Rd7 Kf8 40.Rc7 a5 41.g4 hxg4 42.hxg4 Rb2 43.g5 a4 44.g6 a3 45.Ra7 Nc6 46.Ra8+ Rb8 47.Ra6 Nb4 48.Rxa3 Nd3 49.Rxd3 cxd3 50.gxf7 Rb3 51.Bh3 Rb4 52.Bxe6 Rxe4 53.Nxd3 Rd4 54.Nf2 Bc5 55.Nh3 Ke7 56.Ng5 Rh4+ 57.Kg2 Rh5 58.f8=Q+ Kxf8 59.Nf3 Ke7 60.Bg4 Rh8 61.Kg3 Be3 62.Bf5 Kf7 63.Bg4 Ra8 64.Bd7 Ke7 65.Bg4 Ra4 66.Bf5 Rb4 67.Bh7 Bf4+ 68.Kh3 Kf7 69.Bf5 Kg7 70.Bd7 Kg6 71.Nh4+ Kh5 72.Bg4+ Kg5 73.Nf3+ Kh6 74.Bd7 Rc4 75.Be6 Re4 76.Bd5 Rb4 77.Be6 Kg6 78.Nh4+ Kh5 79.Bg4+ Kh6 80.Nf3 Rb3 81.Kg2 Rb2+ 82.Kh3 Rf2 83.Kh4 Rg2 84.Bd7 Kg6 85.Be8+ Kf5 86.Bd7+ Ke4 87.Bc6+ Ke3 88.Kh5 Rc2 89.Bb7 Rb2 90.Ba8 Rb8 91.Bc6 Rg8 92.Bd5 Rg7 93.Bc6 Kf2 94.Be4 Kg3 95.Bd5 Rd7 96.Be4 Rg7 97.Bd5 Be3 98.Bc6 Rh7+ 99.Kg6 Rh6+ 100.Kf7 Rxc6 101.e6 Rc7+ 0-1

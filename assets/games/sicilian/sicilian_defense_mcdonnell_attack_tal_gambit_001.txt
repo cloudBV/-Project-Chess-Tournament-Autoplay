@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.17"]
+[Round "7.14"]
+[White "Goudriaan, Rafael"]
+[Black "De Jong, Lode"]
+[Result "1-0"]
+[WhiteElo "2262"]
+[BlackElo "2102"]
+[ECO "B21"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: McDonnell Attack, Tal Gambit"]
+
+1.e4 c5 2.f4 d5 3.exd5 Nf6 4.Nc3 Nxd5 5.Nxd5 Qxd5 6.Qf3 Be6 7.b3 Nc6 8.Bb2 Nd4 9.Qxd5 Bxd5 10.Bxd4 cxd4 11.Ne2 d3 12.Nc3 Bc6 13.Bxd3 Bxg2 14.Rg1 Bc6 15.b4 g6 16.b5 Bd7 17.Be4 O-O-O 18.Rb1 Bf5 19.Bxf5+ gxf5 20.Ne2 e6 21.d4 Be7 22.b6 axb6 23.Rxb6 Kc7 24.Rb3 h5 25.Kf2 Ra8 26.Rgb1 Ra7 27.Nc3 Kb8 28.a3 Rc8 29.Ke2 Rd8 30.Kd3 Bf6 31.Nb5 Ra6 32.c4 Rd7 33.c5 Ra4 34.Rb4 Rxb4 35.axb4 Rd8 36.Rg1 Rf8 37.Kc4 Kc8 38.Ra1 Kb8 39.Rg1 Kc8 40.h3 Kd7 41.Ra1 Kc6 42.Ra7 Be7 43.Nc3 Kc7 44.b5 Kb8 45.b6 Rc8 46.Nb5 Rd8 47.Nc7 Bh4 48.Ra8# 1-0

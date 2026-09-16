@@ -1,0 +1,14 @@
+[Event "Round 3: Cabiativa, Juan Esteban - Londono Lopez, Donaldo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-3/0mvRyt4P/Zaji52WL"]
+[Date "2026.07.11"]
+[Round "3.4"]
+[White "Cabiativa, Juan Esteban"]
+[Black "Londono Lopez, Donaldo"]
+[Result "*"]
+[WhiteElo "2295"]
+[BlackElo "2157"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nf3 Nxd5 6.Nc3 Nc6 7.Bc4 Nb6 8.Bb3 Bf5 9.d4 e6 10.O-O Be7 11.Be3 O-O 12.Qe2 Na5 13.Bd1 Rc8 14.Ne5 Nd5 15.Bd2 Nc6 16.Nxc6 Rxc6 17.Bb3 Nb4 18.Rfd1 Bc2 19.Re1 Bxb3 20.axb3 Nc2 21.d5 exd5 22.Qxe7 Qxe7 23.Rxe7 Nxa1 24.Nxd5 Rd6 *

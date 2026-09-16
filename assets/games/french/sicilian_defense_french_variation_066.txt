@@ -1,0 +1,15 @@
+[Event "Round 5: Weller, Manuel - Dhooge, Servaas"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-5/GNSlVflY/fJaAVbOe"]
+[Date "2026.07.20"]
+[Round "5.18"]
+[White "Weller, Manuel"]
+[Black "Dhooge, Servaas"]
+[Result "0-1"]
+[WhiteElo "2233"]
+[BlackElo "2038"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 d5 4.exd5 exd5 5.d4 Nc6 6.Bg2 Nf6 7.O-O Be7 8.dxc5 Bxc5 9.Nc3 O-O 10.Bg5 d4 11.Bxf6 Qxf6 12.Ne4 Qe7 13.Nxc5 Qxc5 14.Qd2 Rd8 15.Rfe1 Bf5 16.Rac1 Qb6 17.Ne5 Re8 18.Nxc6 bxc6 19.b3 h6 20.h3 Rad8 21.Kh2 Qc5 22.Rxe8+ Rxe8 23.g4 Bg6 24.f4 Qd6 25.Kg1 f5 26.Rd1 c5 27.b4 cxb4 28.Kh2 fxg4 29.Qxd4 Qe7 30.Bd5+ Kh7 31.Rg1 gxh3 32.Bc4 Qe3 33.Qd6 Qf2+ 0-1

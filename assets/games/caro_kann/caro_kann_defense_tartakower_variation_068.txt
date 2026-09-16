@@ -1,0 +1,14 @@
+[Event "Round 4: Dodul, Arthur - Bangert, Jonas"]
+[Site "https://lichess.org/broadcast/german-amateur-chess-championship-2026-dsam-group-b/round-4/n57y9aM5/jAnM7hWI"]
+[Date "2026.07.24"]
+[Round "4.3"]
+[White "Dodul, Arthur"]
+[Black "Bangert, Jonas"]
+[Result "1/2-1/2"]
+[WhiteElo "2087"]
+[BlackElo "2043"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O Nf8 12.Ng3 g6 13.Ne4 Be7 14.Rde1 Be6 15.Kb1 b5 16.h3 f5 17.Nd2 Bd5 18.Rhg1 Ne6 19.f4 h4 20.Nf3 Bxf3 21.gxf3 Kf8 22.Rd1 Nc7 23.c4 bxc4 24.Qxc4 Nd5 25.Bd2 Qb6 26.Rge1 Rab8 27.b3 Bf6 28.Rc1 Rec8 29.Qc5+ Kg7 30.Rc4 Qc7 31.Rg1 Be7 32.Qa5 Qxa5 33.Bxa5 Nxf4 34.Bxf5 Ne6 35.Bc3 Bf6 36.Ra4 Rc7 37.Bxe6 fxe6 38.Re1 Kf7 39.Bb4 Be7 40.Bc5 Rbb7 41.Rg1 Bf6 42.Kc2 Rd7 43.Rg4 g5 44.Re4 Be7 45.Bxe7 Kxe7 46.Ra5 Rd5 47.Rxd5 cxd5 48.Rg4 Kd6 49.Rxg5 Rf7 50.Rg4 Rxf3 51.Rxh4 Rf2+ 52.Kb1 Rh2 53.a4 a5 54.Kc1 Rf2 55.Rg4 Rf3 1/2-1/2

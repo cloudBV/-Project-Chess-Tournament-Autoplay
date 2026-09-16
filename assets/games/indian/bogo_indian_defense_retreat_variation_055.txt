@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.15"]
+[White "Michaelides, Konstantinos"]
+[Black "Garcia Ramos, Daniel"]
+[Result "0-1"]
+[WhiteElo "2243"]
+[BlackElo "2443"]
+[ECO "E11"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 c6 7.Qc2 Nbd7 8.O-O O-O 9.Bf4 b6 10.cxd5 cxd5 11.Rc1 Bb7 12.Bc7 Qe8 13.Qb3 Ne4 14.Nc3 Ndf6 15.a4 Nxc3 16.Rxc3 Ba6 17.Qd1 Ne4 18.Rcc1 Rc8 19.a5 Qb5 20.axb6 axb6 21.Bf1 Ra8 22.Nd2 Bb7 23.Qb3 Rxa1 24.Qxb5 Rxc1 25.Nxe4 dxe4 26.Bf4 Rb1 27.Qd7 Ba6 28.Kg2 Bf6 29.Qa7 Bc4 30.Qxb6 Ra8 31.Qb4 Bd5 32.e3 h6 33.Bc4 Bxc4 34.Qxc4 Rxb2 35.g4 Bh4 36.Bg3 Bxg3 37.Kxg3 Raa2 38.Qc8+ Kh7 39.Qc6 f5 40.Qxe6 Rxf2 41.gxf5 Rf3+ 42.Kg4 Rg2+ 43.Kh4 Rxh2+ 44.Kg4 Rg2+ 45.Kh4 Rh2+ 46.Kg4 h5+ 47.Kg5 Rg2+ 48.Kh4 Rf1 49.Kh3 Rg4 50.Kh2 Rf2+ 51.Kh3 Rf3+ 52.Kh2 Rxe3 53.Qe8 Kh6 54.Qh8+ Kg5 55.Qxg7+ Kh4 56.Qe7+ Rg5 57.f6 Rh3# 0-1

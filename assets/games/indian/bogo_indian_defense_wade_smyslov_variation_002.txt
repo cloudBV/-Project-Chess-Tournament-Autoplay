@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.8"]
+[White "Durzynski, Jan"]
+[Black "Brzezina, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2004"]
+[BlackElo "2273"]
+[ECO "E11"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 Bb4+ 4.Bd2 a5 5.a3 Bxd2+ 6.Qxd2 O-O 7.Nc3 d5 8.e3 b6 9.cxd5 exd5 10.Bd3 Bb7 11.Ne5 c5 12.O-O Nc6 13.Nxc6 Bxc6 14.Be2 Qd6 15.dxc5 bxc5 16.Rfd1 Rfd8 17.Rac1 Rab8 18.Bf3 Rd7 19.e4 d4 20.e5 Qxe5 21.Bxc6 dxc3 22.Qxc3 Qxc3 23.bxc3 Rxd1+ 24.Rxd1 Kf8 25.a4 Ke7 26.f3 Rb3 27.c4 Rb6 28.Bb5 Rd6 29.Re1+ Re6 30.Rd1 g5 31.Kf2 h5 32.h3 h4 33.Rd2 Re5 34.g3 hxg3+ 35.Kxg3 Nh5+ 36.Kg4 Nf6+ 37.Kg3 Re3 38.Kf2 Re5 39.Kg3 1/2-1/2

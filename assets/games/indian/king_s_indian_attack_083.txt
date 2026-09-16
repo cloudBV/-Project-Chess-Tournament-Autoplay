@@ -1,0 +1,14 @@
+[Event "Round 3: Elgar, Tim - Keinanen, Anastasia"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-3/rTQ7NEIV/d5hr6LDJ"]
+[Date "2026.07.14"]
+[Round "3.9"]
+[White "Elgar, Tim"]
+[Black "Keinanen, Anastasia"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2259"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.Bg2 e5 4.d3 Ngf6 5.O-O c6 6.c4 dxc4 7.dxc4 Be7 8.Qc2 O-O 9.b3 Re8 10.Bb2 Qc7 11.Nbd2 Bf8 12.Ne4 Nxe4 13.Qxe4 f6 14.Nh4 Nc5 15.Qc2 a5 16.Bc3 e4 17.Bh1 Bd6 18.a3 e3 19.f4 Qf7 20.b4 axb4 21.axb4 Rxa1 22.Rxa1 Ne6 23.Be4 Nf8 24.c5 Bc7 25.Bd4 Qd7 26.Rd1 Qe7 27.Bf3 Qf7 28.Ng2 Bh3 29.Nxe3 Ne6 30.Ng2 Nxd4 31.Rxd4 Ra8 32.Rd2 Be6 33.Qc3 f5 34.Rd1 Bd8 35.Ra1 Ba2 36.Qe3 Bf6 37.Rd1 Re8 38.Qa3 Bc4 39.Kf2 Qe6 40.Rd2 Bb5 41.Rd6 Qc4 42.Qd3 Qxb4 43.Qxf5 Bd4+ 44.Kf1 Qc4 45.Qh5 Ra8 46.Ne1 Qxc5 47.Rd7 Qxh5 48.Bxh5 Bc3 49.Nd3 g6 50.Bf3 b6 51.Kf2 Rc8 52.Rd6 Rc7 53.h4 Kg7 54.h5 Bxd3 55.Rxd3 Bb2 56.hxg6 hxg6 57.Rd6 Ba3 58.Rxc6 Rxc6 59.Bxc6 Kf6 60.e4 g5 61.e5+ Kf5 62.Kf3 gxf4 63.gxf4 Bc1 64.Bd7+ Kg6 65.Kg4 Kf7 66.f5 Bb2 67.Kf4 Bc1+ 68.Ke4 Bg5 69.Bb5 Bh4 70.Kf4 Be7 71.Bc4+ Kg7 72.Ke4 Bh4 73.Kd5 Kf7 74.Kd6+ Kf8 75.f6 Bg3 76.Ke6 Be1 77.Kf5 b5 78.Bxb5 Ba5 79.e6 Bb4 80.Ke4 Ba3 81.Kd5 Bb4 82.Kc6 Bc3 83.e7+ Kf7 84.Kd5 Bxf6 85.e8=Q+ Kg7 86.Bd3 1-0

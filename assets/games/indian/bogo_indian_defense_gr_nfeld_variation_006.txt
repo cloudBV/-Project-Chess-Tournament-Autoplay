@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/ONYG1l48"]
+[Date "2026.06.25"]
+[Round "9.1"]
+[White "Kazakouski, Valery"]
+[Black "Rozentalis, Eduardas"]
+[Result "1/2-1/2"]
+[WhiteElo "2594"]
+[BlackElo "2446"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7 7.e3 O-O 8.Be2 a5 9.b3 d6 10.O-O 1/2-1/2

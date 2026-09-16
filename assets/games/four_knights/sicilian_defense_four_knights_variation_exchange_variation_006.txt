@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "8.19"]
+[White "Siddarth, M"]
+[Black "Colville, Julian"]
+[Result "1-0"]
+[WhiteElo "2243"]
+[BlackElo "2333"]
+[ECO "B45"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.c4 Bb4+ 11.Ke2 f5 12.exf6 Nxf6 13.Be3 Qd8 14.Nd6+ Bxd6 15.Qxd6 Bb7 16.Rd1 Rc8 17.g4 c5 18.Rg1 Rf8 19.g5 Ne4 20.Qd3 Rc7 21.Bh3 Qa8 22.g6 h6 23.f5 d5 24.fxe6 Ba6 25.b3 d4 26.Rdf1 Nc3+ 27.Ke1 Rf3 28.Rxf3 Qxf3 29.Rg3 Qf6 30.Bd2 Qe5+ 31.Kf1 Ne4 32.Rf3 Bb7 33.Bf4 Qh5 34.Bxc7 Nd2+ 35.Kf2 Be4 36.Rf8+ Kxf8 37.Qxd2 Qxh3 38.Qf4+ Qf5 39.Bd6+ Ke8 40.Qxf5 Bxf5 41.Bxc5 Bxg6 42.Bxa7 Bb1 43.a4 Bc2 44.b4 Bxa4 45.Bxd4 Ke7 46.Bxg7 Bb3 47.Bxh6 Bxc4 48.Ke3 Bxe6 49.h4 Bf7 50.Kd4 Kd6 51.Bf4+ Kc6 52.Ke5 Kb5 53.Bd2 1-0

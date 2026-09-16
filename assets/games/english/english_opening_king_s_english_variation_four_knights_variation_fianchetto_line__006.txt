@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.07"]
+[Round "5.8"]
+[White "Haug, Havard"]
+[Black "Elmi, Saad Abobaker"]
+[Result "1/2-1/2"]
+[WhiteElo "2432"]
+[BlackElo "2399"]
+[ECO "A29"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with .. d6, a6"]
+
+1.c4 e5 2.d3 Nc6 3.Nf3 Bc5 4.Nc3 d6 5.g3 a6 6.Bg2 Nf6 7.Bg5 h6 8.Bxf6 Qxf6 9.O-O Qd8 10.a3 O-O 11.b4 Ba7 12.e3 Bf5 13.Re1 Qd7 14.Nd5 Rad8 15.a4 Be6 16.b5 Ne7 17.Nxe7+ Qxe7 18.Nd2 d5 19.cxd5 Bxd5 20.Qc2 Bxg2 21.Kxg2 axb5 22.axb5 Bb6 23.Nf3 Rd5 24.Qc4 Rfd8 25.Qe4 Qe6 26.d4 exd4 27.Qxe6 fxe6 28.exd4 Rxb5 29.Rxe6 Bxd4 30.Nxd4 Rxd4 31.Re7 Rf5 32.Ra2 Rc4 33.Rd2 Kf8 34.Ree2 Rf6 35.Rd8+ Kf7 36.Rd7+ Kf8 37.Rd8+ Kf7 38.Rd7+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 8: Amin-Erdene, Bayanmunkh - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/QIgfYkuV"]
+[Date "2026.07.18"]
+[Round "8.18"]
+[White "Amin-Erdene, Bayanmunkh"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2300"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 e6 6.Na3 Nc6 7.Be3 cxd4 8.Nb5 Qd7 9.Nbxd4 a6 10.Nxc6 Qxc6 11.Bd4 Bd7 12.Ne5 Qc7 13.Be2 Bc5 14.Bxc5 Qxc5 15.Nxd7 Nxd7 16.O-O Nb6 17.Bf3 Qc7 18.Qe2 O-O 19.Rad1 Rad8 20.Qe4 Rb8 21.Rd4 Nd5 22.Re1 Qb6 23.Qe2 Nf6 24.Rb4 Qc7 25.Qe5 Qxe5 26.Rxe5 Rfd8 27.Kf1 b6 28.Re1 Kf8 29.Rd1 Rxd1+ 30.Bxd1 Ke7 31.Bf3 Nd7 32.Rc4 Nc5 33.b4 Nd7 34.Rc7 Kd8 35.Ra7 Rc8 36.Rxa6 Rxc3 37.Ra7 Ne5 38.Ke2 g5 39.h3 h6 40.Kd2 Rd3+ 41.Ke2 Rd4 42.a3 Rc4 43.Rb7 Rc3 44.Rxb6 Rxa3 45.Rb5 Ra2+ 46.Ke3 Nc4+ 47.Kd3 Nd6 48.Rb8+ Ke7 49.Rh8 Rxf2 50.Rxh6 f5 51.Rh7+ Kf6 52.Rd7 Nf7 53.Rb7 Ne5+ 54.Ke3 Rb2 55.b5 Rb3+ 56.Ke2 Nxf3 57.gxf3 Ke5 58.b6 Kf4 59.Rb8 Rb2+ 60.Kd3 Kxf3 61.Kc3 Rb1 62.Kd4 f4 63.Ke5 Ke2 64.Rg8 f3 65.Rxg5 f2 66.Rg2 Rxb6 67.h4 Kf3 68.Rxf2+ Kxf2 69.Kf6 e5+ 0-1

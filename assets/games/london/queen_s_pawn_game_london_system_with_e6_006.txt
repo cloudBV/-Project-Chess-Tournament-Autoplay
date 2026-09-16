@@ -1,0 +1,14 @@
+[Event "Round 5: Balabayeva, Xeniya - Haugner, Jan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-5/N6V5gpLW/EH42wJ02"]
+[Date "2026.07.12"]
+[Round "5.14"]
+[White "Balabayeva, Xeniya"]
+[Black "Haugner, Jan"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2079"]
+[ECO "D02"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Nf6 4.e3 c5 5.c3 Nc6 6.Nbd2 cxd4 7.exd4 Nh5 8.Be3 Bd6 9.Bb5 Nf4 10.O-O Ng6 11.Re1 O-O 12.a4 Bd7 13.Bd3 f6 14.Nf1 Qe8 15.b4 Qf7 16.Qb3 Nf4 17.Bxf4 Bxf4 18.c4 g5 19.Ne3 Ne7 20.cxd5 exd5 21.Nxd5 Nxd5 22.Bc4 Bc6 23.b5 Rfd8 24.bxc6 bxc6 25.g3 Rab8 26.Qc2 Bd6 27.Qf5 Kg7 28.Rac1 Ba3 29.Rc2 Rd6 30.Nd2 Qd7 31.Qf3 Bb4 32.Rb1 f5 33.a5 Rb7 34.Rcb2 Nc3 35.Ra1 Rxd4 36.Rxb4 Rxb4 37.Qxc3 c5 38.Bf1 Kg6 39.Nf3 Re4 40.Ne5+ Rxe5 41.Qxe5 1-0

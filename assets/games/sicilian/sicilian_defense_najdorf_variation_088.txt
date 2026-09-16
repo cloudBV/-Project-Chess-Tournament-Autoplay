@@ -1,0 +1,14 @@
+[Event "Round 4: Dai, Wenzhi - Rappazzo, Johannes"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/uMTPbsjo"]
+[Date "2026.07.16"]
+[Round "4.13"]
+[White "Dai, Wenzhi"]
+[Black "Rappazzo, Johannes"]
+[Result "1-0"]
+[WhiteElo "2126"]
+[BlackElo "2268"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Qd2 Nbd7 10.O-O-O Rc8 11.Kb1 Be7 12.Bd3 b5 13.h3 Nb6 14.Qf2 Nfd7 15.Qd2 Qc7 16.f4 Nf6 17.fxe5 dxe5 18.Bxb6 Qxb6 19.Nd5 Nxd5 20.exd5 Bxd5 21.Bxb5+ Qxb5 22.Qxd5 Qxd5 23.Rxd5 f6 24.Rf1 O-O 25.Nd2 Rfd8 26.Rxd8+ Rxd8 27.Kc1 Bc5 28.Re1 Kf7 29.a3 Ke6 30.c4 f5 31.b4 Be7 32.Kc2 e4 33.Re2 Ke5 34.c5 Rd3 35.c6 Bd8 36.Nc4+ Kd4 37.Nd6 Rc3+ 38.Kb2 Rxc6 39.Nxf5+ Ke5 40.Ng3 Rc4 41.Nxh5 Kd4 42.Rd2+ 1-0

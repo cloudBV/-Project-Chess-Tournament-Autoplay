@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.10"]
+[White "Portelli, Matthew"]
+[Black "Niezhentsev, Kyrylo"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2244"]
+[ECO "B43"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nc3 e6 3.Nge2 a6 4.d4 cxd4 5.Nxd4 b5 6.Bd3 Bb7 7.O-O Nc6 8.Nxc6 Bxc6 9.Re1 Bc5 10.a4 b4 11.Nd5 Ne7 12.Qg4 Ng6 13.Be3 Bxe3 14.Rxe3 O-O 15.Nxb4 Qb6 16.Nxc6 Qxb2 17.Ree1 dxc6 18.Qg3 e5 19.Qe3 Qb4 20.Reb1 Qd6 21.g3 a5 22.Rb6 Rfb8 23.Rab1 Rxb6 24.Qxb6 h5 25.Rb3 h4 26.Rc3 Rc8 27.Qxa5 h3 28.Qc5 Qf6 29.Bf1 Qe6 30.a5 Rb8 31.Qxc6 Qg4 32.Rb3 Rd8 33.f3 Qg5 34.Qc5 Rd1 35.a6 Qd2 36.Qf2 1-0

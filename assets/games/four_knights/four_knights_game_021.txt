@@ -1,0 +1,14 @@
+[Event "Round 8: Rumyantsev, Semen - Bernadskiy, Vitaliy"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/rtUwCw9J"]
+[Date "2026.07.21"]
+[Round "8.15"]
+[White "Rumyantsev, Semen"]
+[Black "Bernadskiy, Vitaliy"]
+[Result "1/2-1/2"]
+[WhiteElo "2319"]
+[BlackElo "2507"]
+[ECO "C47"]
+[Variant "Standard"]
+[Opening "Four Knights Game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.h3 Be7 5.d4 exd4 6.Nxd4 O-O 7.Nxc6 dxc6 8.Qxd8 Rxd8 9.Bf4 Ne8 10.Bc4 a5 11.a4 Bb4 12.O-O Nd6 13.Rad1 Re8 14.Bd3 Be6 15.Ne2 Nc4 16.Bc1 Ne5 17.Nf4 Nxd3 18.Nxd3 f5 19.e5 Bc4 20.f4 Rad8 21.b3 Bxd3 22.Rxd3 Bc5+ 23.Kh2 Rxd3 24.cxd3 Rd8 25.Rd1 Kf7 26.Kg3 Bb6 27.Bb2 Ke6 28.Kf3 h5 29.g3 Bd4 30.Bc1 Bc5 31.Be3 Be7 32.d4 Kd5 33.Bf2 Rh8 34.Rg1 g6 35.Rc1 Ra8 36.Rc3 Rb8 37.Rc1 b5 38.axb5 Rxb5 39.Rc3 Rb4 40.Be3 Rb5 41.Rd3 Bb4 42.Bf2 Rb8 43.Bg1 Ra8 44.Bf2 Rb8 45.Bg1 Rb5 46.Bf2 Be7 47.Rc3 Rb8 48.Be3 Rb5 49.Rd3 Bb4 50.Bg1 Be1 51.Ke2 Bb4 52.Kf3 Rb8 53.Bf2 Rb5 54.Bg1 Rb8 55.Bf2 Rb5 56.Bg1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "3.2"]
+[White "Sonis, Francesco"]
+[Black "Erdogdu, Aziz Mert"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2361"]
+[ECO "E60"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 d6 4.Nc3 Bg7 5.e4 c5 6.d5 O-O 7.Be2 e6 8.h5 exd5 9.exd5 Re8 10.Kf1 Ne4 11.Nxe4 Rxe4 12.Nf3 Bg4 13.Bg5 Bf6 14.Bd3 Re8 15.hxg6 hxg6 16.Bf4 Qe7 17.Qd2 Bxf3 18.gxf3 Nd7 19.Kg2 Bg7 20.Bg5 Qe5 21.Rab1 f5 22.Rh4 Nf6 23.Bf4 Qe7 24.Rbh1 Kf7 25.Bg3 Qd7 26.b4 b6 27.bxc5 bxc5 28.Qa5 Rab8 29.Bc2 Re7 30.Ba4 Qd8 31.Qd2 Rb4 32.Bc6 Qb8 33.Qg5 Re2 34.Rh6 Bxh6 35.Rxh6 Qg8 36.Bxd6 Rxc4 37.Bb5 Rec2 38.Bxc4 Rxc4 39.Be5 Ng4 40.d6 1-0

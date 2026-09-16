@@ -1,0 +1,14 @@
+[Event "Round 5: Vargas Sanchez, Daniel Jose - Munoz Galvez, Jhon Edison"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-5/1PASBFrj/x3kapBaO"]
+[Date "2026.07.11"]
+[Round "5.4"]
+[White "Vargas Sanchez, Daniel Jose"]
+[Black "Munoz Galvez, Jhon Edison"]
+[Result "1-0"]
+[WhiteElo "2147"]
+[BlackElo "2280"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 Bb7 5.a4 b4 6.Nbd2 d5 7.O-O Be7 8.Nb3 O-O 9.Ne5 Qc8 10.Re1 Nbd7 11.Na5 Nxe5 12.dxe5 Nd7 13.f4 c5 14.Nxb7 Qxb7 15.b3 Rac8 16.e4 d4 17.Bf1 a5 18.Bd3 Nb6 19.f5 Qc7 20.Bf4 c4 21.Bf1 Rfd8 22.Qg4 d3 23.f6 Bf8 24.cxd3 cxd3 25.Red1 Qc3 26.Rab1 g6 27.Qf3 Bc5+ 28.Kh1 d2 29.Qe2 Rd7 30.Rxd2 Rxd2 31.Qxd2 Bd4 32.Rd1 Qxd2 33.Rxd2 Bc3 34.Rd6 Na8 35.Ba6 Rb8 36.Bc4 h6 37.Ra6 g5 38.Be3 Bxe5 39.Rxa5 Bxf6 40.Bc5 Rc8 41.Bd6 Nb6 42.e5 Nxc4 43.bxc4 Bg7 44.c5 b3 45.Rb5 Ra8 46.Rxb3 Rxa4 47.c6 1-0

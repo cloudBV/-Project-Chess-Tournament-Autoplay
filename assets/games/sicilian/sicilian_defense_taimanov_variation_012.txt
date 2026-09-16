@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.3"]
+[White "Jiang, Lucas"]
+[Black "Prraneeth Vuppala"]
+[Result "0-1"]
+[WhiteElo "2362"]
+[BlackElo "2502"]
+[ECO "B44"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Bf4 d6 6.Nxc6 bxc6 7.Bd3 Ne7 8.O-O Ng6 9.Be3 Be7 10.c4 c5 11.Nc3 O-O 12.f4 Rb8 13.Qd2 Bb7 14.a3 a6 15.Rab1 Qc7 16.b4 Rfd8 17.b5 axb5 18.Nxb5 Qd7 19.Nc3 Bf6 20.Rfd1 Bc6 21.Bc2 Rxb1 22.Rxb1 Qa7 23.a4 Qa8 24.a5 Bxc3 25.Qxc3 Bxe4 26.Bxe4 Qxe4 27.Rb2 h5 28.a6 Ra8 29.Ra2 0-1

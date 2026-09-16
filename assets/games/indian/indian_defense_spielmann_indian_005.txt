@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.2"]
+[White "Nagly, Wojciech"]
+[Black "Mulawa, Cyprian"]
+[Result "1/2-1/2"]
+[WhiteElo "2138"]
+[BlackElo "2245"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 b6 4.Be2 Bb7 5.O-O g6 6.c3 Bg7 7.Nbd2 O-O 8.Re1 Nc6 9.Nf1 d5 10.b3 Qc7 11.Bb2 e5 12.dxe5 Nxe5 13.N1d2 Rad8 14.Qc2 Rfe8 15.Rac1 Ne4 16.Nxe4 dxe4 17.Nxe5 Qxe5 18.Rcd1 Bc6 19.Ba1 Qe7 20.c4 Bxa1 21.Rxa1 Rd6 22.Rad1 Red8 23.Rxd6 Rxd6 24.Rd1 h5 25.h3 a5 26.a4 Kg7 27.Qb2+ f6 28.Qc2 h4 29.Rd2 Qd8 30.Rxd6 Qxd6 31.Qc3 Kf7 32.Qb2 Ke7 33.Qc3 Bd7 34.Qb2 Bc6 35.Qc3 Bd7 1/2-1/2

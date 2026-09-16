@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "5.2"]
+[White "Brzezina, Piotr"]
+[Black "Perucki, Maciej"]
+[Result "1-0"]
+[WhiteElo "2203"]
+[BlackElo "2043"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 b6 9.Bf4 Ba6 10.Nbd2 Nbd7 11.Rac1 Nh5 12.Be3 Nhf6 13.Rfd1 h6 14.Bf4 Nh5 15.Be3 Nhf6 16.Qa4 Bb7 17.Bf4 Nh5 18.Be3 Nhf6 19.Nb1 Bd6 20.Nc3 Qe7 21.a3 Rfc8 22.Bf4 Nf8 23.Bxd6 Qxd6 24.Nd2 N8d7 25.e4 dxe4 26.Ndxe4 Nxe4 27.Nxe4 Qe7 28.c5 b5 29.Qa5 Nf6 30.Nd6 Rd8 31.a4 bxa4 32.Qxa4 Nd5 33.Rd3 Qc7 34.Rb3 Rdb8 35.Ra1 Bc8 36.Rxb8 Rxb8 37.Qxa7 Qxa7 38.Rxa7 f6 39.Bh3 Kh7 40.Nxc8 Rxc8 41.Bxe6 Rb8 42.Bxd5 cxd5 43.Rd7 Rxb2 44.Rxd5 1-0

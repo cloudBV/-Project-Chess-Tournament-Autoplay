@@ -1,0 +1,15 @@
+[Event "Round 2: Dominguez, Facundo - Carbone, Diego"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-2/GOpmtJrG/eAFyZycw"]
+[Date "2026.07.21"]
+[Round "2.5"]
+[White "Dominguez, Facundo"]
+[Black "Carbone, Diego"]
+[Result "0-1"]
+[WhiteElo "2163"]
+[BlackElo "2248"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.d3 d5 6.Nbd2 Be7 7.O-O O-O 8.Re1 b5 9.e5 Nd7 10.Nf1 a5 11.h4 b4 12.N1h2 a4 13.a3 bxa3 14.bxa3 Bb7 15.Bf4 Re8 16.Ng5 h6 17.Ngf3 Bf8 18.h5 Rc8 19.g4 Nd4 20.g5 Nf5 21.Qd2 Kh7 22.Ng4 d4 23.Kh2 Bd5 24.Rg1 c4 25.Bh1 Rc5 26.Qe2 cxd3 27.cxd3 Qa8 28.Nf6+ gxf6 29.exf6 e5 30.g6+ Kg8 31.gxf7+ Kxf7 32.Bd2 Bd6 33.Ne1 e4+ 34.Kh3 e3 35.Qg4 Rg8 36.Qxf5 Be6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 1: Arizmendi Martinez, Julen Luis - Ohler, Julius"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/XGMoKfi3"]
+[Date "2026.07.04"]
+[Round "1.7"]
+[White "Arizmendi Martinez, Julen Luis"]
+[Black "Ohler, Julius"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2279"]
+[ECO "B18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Be3 e6 8.Bd3 Bxd3 9.Qxd3 Nf6 10.N1e2 Be7 11.O-O-O Nbd7 12.Kb1 Qa5 13.Bd2 Qb6 14.Ne4 O-O-O 15.Bf4 Nxe4 16.Qxe4 Ba3 17.Bc1 Nf6 18.Qf3 Bd6 19.g4 Qb5 20.Nc3 Qa5 21.g5 hxg5 22.hxg5 Rxh1 23.Rxh1 Nd5 24.Ne4 f5 25.gxf6 gxf6 26.c4 Nc7 27.Qxf6 Bf8 28.Rh8 Be7 29.Nd6+ 1-0

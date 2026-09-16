@@ -1,0 +1,14 @@
+[Event "Round 7: Odell Johansson, Leo - Bodemar, Jonathan"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/wXkEHvvR"]
+[Date "2026.07.02"]
+[Round "7.3"]
+[White "Odell Johansson, Leo"]
+[Black "Bodemar, Jonathan"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2124"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 f5 3.d4 exd4 4.Qxd4 Nc6 5.Qe3+ Be7 6.Nd5 d6 7.Nf3 a5 8.a3 Kf8 9.g3 Nf6 10.Bg2 Ng4 11.Qc3 Be6 12.Nxe7 Qxe7 13.Bf4 h6 14.Nd4 Nxd4 15.Qxd4 Qf6 16.Qxf6+ Nxf6 17.Rc1 g5 18.Be3 c5 19.O-O Ke7 20.Rc2 Ra7 21.Rd1 b6 22.a4 Rd7 23.Bc6 Rdd8 24.Bd5 Bxd5 25.cxd5 Kd7 26.b3 Rhe8 27.Bc1 Ke7 28.Bb2 Kf7 29.f3 Re3 30.Bc3 Rde8 31.Kf2 Nd7 32.h4 g4 0-1

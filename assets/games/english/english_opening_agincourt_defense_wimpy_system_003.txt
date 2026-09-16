@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-8/QCHTNJXG/ubZQPGAH"]
+[Date "2026.07.16"]
+[Round "8.2"]
+[White "Janik, Marek Tobias"]
+[Black "Bochnicka, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2163"]
+[BlackElo "2355"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Wimpy System"]
+
+1.c4 e6 2.b3 d5 3.e3 Nf6 4.Bb2 c5 5.Nf3 Nc6 6.d4 cxd4 7.Nxd4 Bb4+ 8.Bc3 Bd6 9.Nd2 O-O 10.Be2 e5 11.Nxc6 bxc6 12.O-O Bf5 13.h3 Re8 14.Rc1 Ba3 15.Nf3 Bxc1 16.Qxc1 Nd7 17.Rd1 Rc8 18.Qa1 Qc7 19.Bb2 Qd6 20.cxd5 cxd5 21.Bc4 Be4 22.Bxd5 Bxd5 23.e4 f6 24.Rxd5 Qc6 25.Qe1 Nb6 26.Rd1 Red8 27.Rc1 Qb5 28.Kh2 Rxc1 29.Qxc1 Rc8 30.Qd2 Qc5 0-1

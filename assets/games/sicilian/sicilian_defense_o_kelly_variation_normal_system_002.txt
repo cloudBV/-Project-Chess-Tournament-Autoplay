@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.22"]
+[White "Valle Luis, Leo"]
+[Black "Garcia Amoros, Pablo"]
+[Result "1-0"]
+[WhiteElo "2372"]
+[BlackElo "2069"]
+[ECO "B28"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Normal System"]
+
+1.e4 c5 2.Nf3 a6 3.d4 cxd4 4.Be2 Nc6 5.Nxd4 Nf6 6.Nc3 e5 7.Nb3 Bb4 8.Bg5 h6 9.Bxf6 Bxc3+ 10.bxc3 Qxf6 11.Qd3 d6 12.Rd1 Ke7 13.O-O Rd8 14.Qe3 g5 15.Qb6 Kf8 16.Rd3 Qe7 17.Rfd1 Be6 18.h3 Bc4 19.R3d2 Bxe2 20.Rxe2 a5 21.a4 Ra6 22.Qb5 Qc7 23.Qc4 Raa8 24.Rd5 Rac8 25.Red2 Ne7 26.Qxc7 Rxc7 27.Rxe5 b6 28.Rb5 Nc8 29.e5 Rxc3 30.Nd4 Ke8 31.Nf5 Rc5 32.Ng7+ Kf8 33.Rxc5 bxc5 34.Nf5 d5 35.Re2 Re8 36.Nxh6 Nb6 37.Re3 Kg7 38.Nf5+ Kg6 39.Nd6 Re6 40.g3 d4 41.Rb3 Nxa4 42.f4 f5 43.g4 Re7 44.gxf5+ Kh7 45.f6 Rd7 46.e6 Rxd6 47.f7 Kg7 48.Rb8 1-0

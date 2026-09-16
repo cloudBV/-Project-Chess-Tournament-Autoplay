@@ -1,0 +1,15 @@
+[Event "Round 1: Suarez Uriel, Adrian - Tamames Soria, Cesar Manuel"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-1/zKbapHuB/MViVBbhI"]
+[Date "2026.07.04"]
+[Round "1.15"]
+[White "Suarez Uriel, Adrian"]
+[Black "Tamames Soria, Cesar Manuel"]
+[Result "1-0"]
+[WhiteElo "2400"]
+[BlackElo "2240"]
+[ECO "A37"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nf3 Nc6 5.O-O e5 6.Nc3 Nge7 7.d3 d6 8.Ne1 Be6 9.Nd5 O-O 10.Nc2 Rb8 11.Nce3 a6 12.a4 a5 13.Bd2 Nb4 14.Bxb4 axb4 15.Nxe7+ Qxe7 16.Ra2 h5 17.h4 g5 18.hxg5 Qxg5 19.Qe1 h4 20.f4 Qh6 21.Nd5 Kh8 22.e3 Rg8 23.b3 Bxd5 24.cxd5 Bf6 25.fxe5 Bxe5 26.gxh4 Rg3 27.Rf3 Rbg8 28.Raf2 Qxh4 29.Rxg3 Bxg3 30.Qa1+ Be5 31.Qd1 f6 32.Kf1 Qg4 33.Qxg4 Rxg4 34.a5 Rg8 35.Bh3 Ra8 36.Ra2 f5 37.Ke2 Bf6 38.Bxf5 Bd8 39.Kf3 Kg7 40.Ke4 Bxa5 41.Rg2+ Kf8 42.Be6 Ke7 43.Rg7+ Kf6 44.Rf7+ Kg5 45.Rxb7 Bd8 46.Rd7 Bf6 47.Rxd6 Ra3 48.Rc6 Rxb3 49.Rxc5 Rb1 50.d6+ Kg6 51.d7 b3 52.Rc6 b2 53.d8=Q 1-0

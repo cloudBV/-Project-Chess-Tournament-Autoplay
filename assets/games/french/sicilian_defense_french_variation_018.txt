@@ -1,0 +1,15 @@
+[Event "Round 10: Ashwin, Jayaram - Aravindh, Chithambaram VR."]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-10/IfXYzAOl/hXPkQ1t8"]
+[Date "2026.07.04"]
+[Round "10.11"]
+[White "Ashwin, Jayaram"]
+[Black "Aravindh, Chithambaram VR."]
+[Result "0-1"]
+[WhiteElo "2461"]
+[BlackElo "2569"]
+[ECO "B40"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 e5 6.O-O Be7 7.c3 O-O 8.d3 Re8 9.a3 d5 10.b4 c4 11.dxc4 dxe4 12.Ng5 Qd3 13.Re1 Bg4 14.Qxd3 exd3 15.Be3 h6 16.Ne4 Nxe4 17.Bxe4 Rad8 18.Nd2 Rd7 19.Bd5 Red8 20.f3 Bh5 21.Kf2 Kf8 22.Rad1 Bg6 23.Ne4 Rxd5 24.cxd5 Rxd5 25.Bc5 Bxc5+ 26.Nxc5 b6 27.Ne4 f5 28.Nd2 Kf7 29.Re3 Kf6 30.Nc4 f4 31.gxf4 exf4 32.Ree1 b5 33.Nd2 Ne5 34.Ne4+ Kf7 35.Nd6+ Kf6 36.Ne4+ Kf7 37.Nd6+ Ke6 38.Ne4 Kd7 39.Nc5+ Kd6 40.Ne4+ Kc6 41.Nc5 Bf5 42.Rxe5 Rxe5 43.Nxd3 Rd5 44.Ke2 Rxd3 45.Rxd3 Bxd3+ 46.Kxd3 Kd5 47.c4+ bxc4+ 48.Kc3 g5 49.h3 h5 50.b5 g4 51.fxg4 hxg4 52.hxg4 f3 53.Kd2 c3+ 54.Kd3 f2 55.Ke2 c2 0-1

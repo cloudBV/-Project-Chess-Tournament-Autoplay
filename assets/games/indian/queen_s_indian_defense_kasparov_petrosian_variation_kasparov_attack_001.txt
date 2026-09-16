@@ -1,0 +1,15 @@
+[Event "Round 5: Karabulut, Etka - Allahverdiyeva, Ayan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/LLOGu4Av"]
+[Date "2026.07.02"]
+[Round "5.40"]
+[White "Karabulut, Etka"]
+[Black "Allahverdiyeva, Ayan"]
+[Result "0-1"]
+[WhiteElo "2088"]
+[BlackElo "2254"]
+[ECO "E12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 c5 9.e4 Nd7 10.Bd3 Qc7 11.Qb1 Be7 12.O-O O-O 13.a4 a6 14.Be3 h6 15.Rd1 Rac8 16.h3 Rfd8 17.Ra2 Qb8 18.d5 c4 19.Be2 exd5 20.exd5 Nf6 21.Bxb6 Rxd5 22.Bd4 Qc7 23.Rb2 Ba8 24.Rb6 Bc5 25.Bxc5 Qxc5 26.Rb8 Rxd1+ 27.Bxd1 Nd5 28.Rxc8+ Qxc8 29.Qc1 Qc7 30.Be2 Nf4 31.Qe3 Bc6 32.Bxc4 Nxg2 33.Qe5 Qb7 34.Nd4 Nh4 35.Qd6 Qb1+ 36.Bf1 Bg2 37.Qxa6 Bb7 38.Qd3 Qa1 39.Nc2 Qxa4 40.Qd8+ Kh7 41.Nd4 Ng6 42.Qc7 Bd5 43.c4 Be4 44.Qxf7 Qa1 45.Ne6 Bd3 46.Nxg7 Qxf1+ 47.Kh2 Nh8 48.Qa7 Bg6 49.Ne8+ Nf7 50.Nd6 Qc1 51.Qd4 Nxd6 52.Qxd6 Qxc4 53.Qe7+ Qf7 54.Qc5 Be4 55.Qe3 Qf3 56.Qxf3 Bxf3 57.Kg3 Bd1 58.Kf4 Kg6 59.Ke5 Kg5 60.f4+ Kh4 61.Kf6 Kxh3 0-1

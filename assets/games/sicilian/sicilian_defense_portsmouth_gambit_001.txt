@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.9"]
+[White "Gao, Marvin"]
+[Black "Shlyakhtenko, Robert"]
+[Result "1-0"]
+[WhiteElo "2193"]
+[BlackElo "2446"]
+[ECO "B30"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Portsmouth Gambit"]
+
+1.e4 c5 2.Nf3 Nc6 3.b4 cxb4 4.d4 d6 5.d5 Nb8 6.a3 bxa3 7.Nxa3 Nf6 8.Qd4 g6 9.Nb5 Bg7 10.Rxa7 Rxa7 11.Qxa7 Na6 12.Qe3 Nc5 13.Nd2 Bd7 14.f3 O-O 15.Nd4 e6 16.dxe6 fxe6 17.Be2 Nh5 18.g3 Be5 19.Nc4 Bg7 20.Nxd6 Qa5+ 21.Kf2 Nf6 22.Kg2 Qb6 23.Nb3 Qxd6 24.Rd1 Qc7 25.Nxc5 Rc8 26.Nxd7 Nxd7 27.Qb3 Nc5 28.Qa2 Kh8 29.Be3 b6 30.Bb5 h6 31.Rd2 Qe7 32.Qc4 Rc7 33.Bf4 e5 34.Be3 Ne6 35.Qd5 Nd4 36.Bc4 Qe8 37.f4 Rc5 38.Qf7 Qxf7 39.Bxf7 Rxc2 40.Bxg6 Rxd2+ 41.Bxd2 b5 42.Bf7 Kh7 43.Kf2 Bf6 44.Bc3 Nc6 45.Bd5 Ne7 46.fxe5 Bg7 47.Bb4 Nxd5 48.exd5 Bxe5 49.d6 Bf6 50.Ba5 Kg6 51.d7 b4 52.Ke2 Kf5 53.d8=Q Bxd8 54.Bxd8 Kg4 55.Kd3 Kh3 56.Bh4 Kxh2 57.Kc4 Kh3 58.Kxb4 Kg4 59.Kc4 Kf5 60.Kd5 Kg4 61.Ke4 Kh5 62.Kf4 Kg6 63.Kg4 1-0

@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-6/7dL2aEPn/mSq3ZH14"]
+[Date "2026.07.02"]
+[Round "6.14"]
+[White "Mafra, Kaiser Luiz"]
+[Black "Melian, Juan Sebastian"]
+[Result "0-1"]
+[WhiteElo "2009"]
+[BlackElo "2377"]
+[ECO "A30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 Nc6 4.Bg2 d5 5.cxd5 Nxd5 6.O-O e5 7.Nc3 Be6 8.Ng5 Qxg5 9.Nxd5 Qd8 10.Ne3 Qd7 11.Qa4 Rc8 12.Nc4 f6 13.d3 b6 14.f4 exf4 15.Rxf4 Nd4 16.Qxd7+ Kxd7 17.Rf2 b5 18.Na3 a6 19.b3 Bd6 20.Bb2 h5 21.e3 Nc6 22.Nc2 h4 23.d4 cxd4 24.exd4 hxg3 25.hxg3 Bxg3 26.d5 Bxf2+ 27.Kxf2 Bxd5 28.Bxd5 Ne7 29.Be4 Rxc2+ 30.Bxc2 Rh2+ 31.Kf3 Rxc2 32.Ba3 Nd5 33.Bf8 g5 34.Ke4 Ke6 35.Re1 Nf4 36.Kd4+ 0-1

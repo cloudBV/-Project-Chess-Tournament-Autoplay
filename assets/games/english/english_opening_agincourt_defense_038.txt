@@ -1,0 +1,14 @@
+[Event "Round 6: Rahmanidis, Petros - Koudounis, Vasileios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/Jmtm1VJ0"]
+[Date "2026.07.10"]
+[Round "6.33"]
+[White "Rahmanidis, Petros"]
+[Black "Koudounis, Vasileios"]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2223"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 e6 2.c4 d5 3.g3 dxc4 4.Qa4+ Nd7 5.Qxc4 a6 6.Qc2 c5 7.Bg2 Ngf6 8.Nc3 Be7 9.O-O O-O 10.d4 cxd4 11.Nxd4 Nc5 12.Rd1 Qb6 13.Bf4 Bd7 14.e4 Rfd8 15.e5 Ne8 16.h4 h6 17.h5 Rac8 18.Rd2 Qa7 19.Qd1 b5 20.a3 Na4 21.Nxa4 bxa4 22.Qg4 Kh8 23.Rad1 Qb8 24.Qe2 Bb5 25.Qe3 Bf8 26.Be4 Nc7 27.Bb1 Qa8 28.Nxb5 axb5 29.Kh2 Ne8 30.Rxd8 Rxd8 31.Rxd8 Qxd8 32.Qd3 Qxd3 33.Bxd3 Nc7 34.Bc1 Bc5 35.Kg2 Kg8 36.f4 f5 37.exf6 gxf6 38.g4 Bd4 39.Kf3 Kg7 40.Ke4 e5 41.Bf1 Kh7 42.Be2 Kg7 43.Bd3 Kh7 44.Kf5 Kg7 45.g5 hxg5 46.fxg5 fxg5 47.Kxg5 Ne6+ 48.Kf5 Nc5 49.Bxb5 Nb3 50.h6+ Kh7 51.Bg5 Bxb2 52.Bd3 Nc5 53.Bc2 e4 54.Be3 Bxa3 55.Ke5 Bb2+ 56.Kd5 a3 57.Bb1 Nb3 58.Kxe4 Nc1 59.Kd5+ Kh8 60.Bxc1 1/2-1/2

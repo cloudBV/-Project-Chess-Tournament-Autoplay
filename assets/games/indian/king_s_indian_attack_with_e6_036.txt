@@ -1,0 +1,15 @@
+[Event "Round 8: Petriashvili, Nikoloz - Cukrowski, Filip"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-8/M7b2uBBM/S28scW3B"]
+[Date "2026.07.11"]
+[Round "8.4"]
+[White "Petriashvili, Nikoloz"]
+[Black "Cukrowski, Filip"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2403"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nc3 d4 7.Nb5 c5 8.c3 a6 9.Na3 Nc6 10.cxd4 cxd4 11.Nc4 Nd5 12.a4 b6 13.Qb3 Rb8 14.Bd2 Bb7 15.Rfc1 Ba8 16.h4 Bc5 17.Qd1 Qe7 18.Nfe5 Nxe5 19.Nxe5 f6 20.Nf3 e5 21.a5 Kh8 22.Qc2 Bd6 23.axb6 Rxb6 24.Ra5 Nc7 25.h5 Rfb8 26.b4 Ne8 27.Qa2 Nc7 28.Nh4 Bxg2 29.Kxg2 Qe6 30.Qxe6 Nxe6 31.Nf5 Bf8 32.Rca1 Nc7 33.f4 Re6 34.fxe5 fxe5 35.g4 g6 36.hxg6 hxg6 37.Nh4 Kg7 38.Nf3 Rb5 39.Rxb5 Nxb5 40.Ng5 Rc6 41.Rf1 Nc3 42.Rf7+ Kg8 43.Rb7 Bh6 44.Kf1 Nb1 45.Rb8+ Kg7 46.Ne6+ Kf6 47.Bxh6 Kxe6 48.Re8+ Kd5 49.Bg7 Re6 50.Rc8 Rc6 51.Rxc6 Kxc6 52.Bxe5 Kd5 53.Bg7 Na3 54.Kf2 Nc2 55.Bf8 Ne3 56.Kf3 Nc2 57.Kf4 Ne3 58.Kg5 Ke5 59.Bc5 Kd5 60.Bb6 Ke5 61.Bc7+ Ke6 62.Bb6 Ke5 63.Ba7 Kd5 64.Bb8 Nc2 65.Kxg6 Nxb4 66.Kf6 Kc5 67.Ba7+ Kd6 68.g5 Nd5+ 69.Kf7 Ke5 70.g6 Ne3 71.g7 Nf5 72.g8=Q Nh6+ 73.Kg7 Nxg8 74.Kxg8 a5 75.Bc5 Kd5 76.Ba3 Ke5 77.Kf7 Kf4 78.Ke6 1-0

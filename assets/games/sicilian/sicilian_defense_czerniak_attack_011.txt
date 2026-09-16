@@ -1,0 +1,15 @@
+[Event "2026. gada Latvijas sieviešu čempionāts"]
+[Site "Rīga, Aspāzijas bulvāris 32- 302, Latvia"]
+[Date "2026.07.17"]
+[Round "6.2"]
+[White "Maklakova, Naomi"]
+[Black "Golsta, Madara"]
+[Result "1-0"]
+[WhiteElo "2150"]
+[BlackElo "2047"]
+[ECO "B20"]
+[TimeControl "90 minūtes katrai dalībniecei + 30 sekundes par katru izdarīto gājienu"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 Nc6 3.Bb2 d5 4.exd5 Qxd5 5.Nc3 Qe5+ 6.Qe2 Qxe2+ 7.Ngxe2 Bf5 8.O-O-O Nb4 9.d3 O-O-O 10.Ng3 Bg6 11.Be2 Nc6 12.Nce4 e6 13.Bh5 f6 14.Rde1 Nb4 15.a3 Nd5 16.Bf3 b6 17.Nd2 Nf4 18.Nge4 Ne7 19.Nc4 Nf5 20.g3 Nd5 21.Bg4 h5 22.Bh3 Kc7 23.f4 b5 24.Ncd2 Bd6 25.c4 bxc4 26.dxc4 Nde3 27.Bc3 Kc6 28.b4 Be7 29.b5+ Kb6 30.Bxf5 Nxf5 31.Nb3 Rc8 32.Nf2 Bf7 33.Rd1 Nd4 34.Ba5+ Kb7 35.Nxd4 cxd4 36.Rxd4 Bxa3+ 37.Kd2 Be8 38.Nd3 e5 39.fxe5 fxe5 40.Nxe5 Bb2 41.Bc3 Ba3 42.Rf1 Bc5 43.Rd5 Rh6 44.Nd3 Be7 45.Bxg7 Rg6 46.Bf8 Bg5+ 47.Kc3 Bf6+ 48.Kb4 h4 49.Bd6 Bf7 50.Nc5+ Ka8 51.Rdf5 Bd4 52.Rxf7 Rxd6 53.Nb3 hxg3 54.hxg3 Be5 55.g4 Rd3 56.R1f3 Rd1 57.c5 Rg1 58.Na5 Rxg4+ 59.Nc4 Bd4 60.c6 Bg1 61.Rf8 Rg8 62.Rxc8+ Rxc8 63.Nd6 Rg8 64.c7 a5+ 65.Kxa5 Bb6+ 66.Kxb6 Rg3 67.c8=Q# 1-0

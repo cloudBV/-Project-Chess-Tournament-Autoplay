@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.10"]
+[White "Kaewpitakkun, Pantham"]
+[Black "Hoyforsslett, Gard Rye"]
+[Result "1/2-1/2"]
+[WhiteElo "2120"]
+[BlackElo "2057"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 e5 6.d4 cxd4 7.cxd4 exd4 8.Bf4 a6 9.Ba4 Nge7 10.Bd6 b5 11.Bb3 Bb7 12.e5 Nc8 13.Re1 Nxd6 14.exd6+ Kf8 15.Nbd2 f5 16.Rc1 Bf6 17.Bd5 Rc8 18.Nb3 Na5 19.Bxb7 Nxb7 20.Nfxd4 Kg7 21.Qf3 Nxd6 22.Qd5 Rxc1 23.Rxc1 Nc4 24.Nc5 Re8 25.Nxd7 Nb6 26.Ne6+ Kh8 27.Nxb6 Qxd5 28.Nxd5 Rxe6 29.Nxf6 Rxf6 30.Kf1 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-7-game-2/kEwgj6dn/HEd9U29I"]
+[Date "2026.07.06"]
+[Round "14.1"]
+[White "Chen, Chicheng Leon"]
+[Black "Nakonechnyi, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2288"]
+[BlackElo "2400"]
+[ECO "B27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 Nc6 6.Qa4 d6 7.e5 dxe5 8.Nxe5 Bd7 9.Nxd7 Nxd7 10.Be3 Bg7 11.Be2 O-O 12.O-O Nb6 13.Qb3 Nd4 14.Bxd4 Qxd4 15.Bf3 Qf4 16.Nd5 Nxd5 17.Bxd5 Rab8 18.g3 Qc7 19.Rad1 e6 20.Bg2 b6 21.c3 Rfd8 22.Rxd8+ Rxd8 23.Rd1 Bf8 24.Qc2 Bc5 25.b4 Rxd1+ 26.Qxd1 Bf8 27.Qd3 Bg7 28.c4 Qe5 29.h4 Qa1+ 30.Kh2 Qxa2 31.Qd8+ Bf8 32.c5 bxc5 33.bxc5 Kg7 34.c6 Bc5 35.c7 Bb6 36.Qd7 0-1

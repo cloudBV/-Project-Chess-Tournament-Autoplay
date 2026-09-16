@@ -1,0 +1,15 @@
+[Event "Round 6: Akshaya Sathi - Xikmatkhonova, Mokhinur"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g16/round-6/M3AjxD8A/jbVjMIQB"]
+[Date "2026.07.21"]
+[Round "6.17"]
+[White "Akshaya Sathi"]
+[Black "Xikmatkhonova, Mokhinur"]
+[Result "1/2-1/2"]
+[WhiteElo "2044"]
+[BlackElo "2059"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 e6 5.Nf3 Nf6 6.Na3 Qd8 7.Nc4 Be7 8.Be3 Nd5 9.dxc5 Nxe3 10.Qxd8+ Kxd8 11.fxe3 Bxc5 12.O-O-O+ Kc7 13.Nd4 a6 14.Be2 f6 15.Bg4 Re8 16.e4 Bxd4 17.cxd4 b5 18.Nd2 Bb7 19.Rhe1 Nd7 20.Kb1 g6 21.Nb3 f5 22.Bf3 fxe4 23.Bxe4 Bxe4+ 24.Rxe4 Kd6 25.Re2 a5 26.Nc5 Nxc5 27.dxc5+ Kc6 28.Rd6+ Kxc5 29.Rdxe6 Rxe6 30.Rxe6 Rf8 31.Re5+ Kc4 32.Re2 Kd3 33.Re1 Rf2 34.Rd1+ Ke4 35.Rd7 h5 36.Ra7 Kd3 37.Rd7+ Ke4 38.Ra7 Rxg2 39.Rxa5 Kd3 40.a4 bxa4 41.h3 Kc4 42.Rxa4+ Kb5 43.Re4 Rg3 44.Kc2 Rxh3 45.Re5+ Kc4 46.Rg5 Rh2+ 47.Kd1 h4 48.Rxg6 Kd3 49.Rd6+ Kc4 50.Ke1 h3 51.Rh6 Kb3 52.Kf1 Kxb2 53.Kg1 Rg2+ 54.Kh1 Rg3 55.Kh2 Rc3 56.Rxh3 Rxh3+ 57.Kxh3 1/2-1/2

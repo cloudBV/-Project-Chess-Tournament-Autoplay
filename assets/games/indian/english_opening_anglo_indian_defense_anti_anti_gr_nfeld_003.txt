@@ -1,0 +1,15 @@
+[Event "Round 6: OSUNFUYI, Abimbola - Novik, Maxim"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/S2z6ReaD"]
+[Date "2026.07.18"]
+[Round "6.11"]
+[White "OSUNFUYI, Abimbola"]
+[Black "Novik, Maxim"]
+[Result "1-0"]
+[WhiteElo "2140"]
+[BlackElo "2362"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Anti-Anti-Grünfeld"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 e5 5.Nxe5 O-O 6.Nf3 Re8 7.d3 d5 8.cxd5 Nxd5 9.Bd2 Bg4 10.Be2 Bxf3 11.gxf3 Nb4 12.Be3 N8c6 13.a3 Na6 14.Rc1 Nd4 15.f4 Nc5 16.h4 c6 17.h5 Qe7 18.hxg6 hxg6 19.b4 Nce6 20.Bg4 a5 21.f5 axb4 22.axb4 gxf5 23.exf5 Nf4 24.Kf1 Qe5 25.Rh4 Bf6 26.Rh6 Kg7 27.Rxf6 Kxf6 28.Ne4+ Kg7 29.f6+ Kg6 30.Bd7 Nde2 31.Bxe8 Ra2 32.Bxf4 Qxf4 33.Bxf7+ Kxf7 34.Qb3+ Ke8 35.Qe6+ Kd8 36.Qe7+ Kc8 37.Nd6+ 1-0

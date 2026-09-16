@@ -1,0 +1,15 @@
+[Event "Round 2: Huseyinoglu, Alihan - Gunduz, Umut Erdem"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/xenTJGUW"]
+[Date "2026.07.14"]
+[Round "2.31"]
+[White "Huseyinoglu, Alihan"]
+[Black "Gunduz, Umut Erdem"]
+[Result "1-0"]
+[WhiteElo "2395"]
+[BlackElo "2206"]
+[ECO "E44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Qc2 Bb7 7.a3 Bxc3+ 8.Nxc3 Nxc3 9.Qxc3 O-O 10.Bd3 Qh4 11.d5 exd5 12.cxd5 Bxd5 13.Qxc7 Bxg2 14.Rg1 Be4 15.Be2 Nc6 16.Bd2 Rac8 17.Bc3 Bg6 18.Qg3 Qxg3 19.Rxg3 f6 20.h4 Bf5 21.h5 Kf7 22.Rd1 Rfd8 23.Bc4+ Be6 24.Bd3 h6 25.Ke2 Ne5 26.Rdg1 g5 27.hxg6+ Kg7 28.Bb1 Bc4+ 29.Kd2 Be6 30.f4 Nc4+ 31.Ke2 d5 32.f5 Bd7 33.Rh1 Nd6 34.Rh5 Ne4 35.Bxe4 dxe4 36.Rg4 Rc5 37.Rf4 Bc8 38.Bd4 Ra5 39.b4 Rb5 40.a4 Rbd5 41.Kf2 Re8 42.Kg3 Red8 43.b5 Bd7 44.Rf2 Rc8 45.Kf4 Re8 46.Rc2 Rc8 47.Rxc8 Bxc8 48.Kxe4 Rd6 49.Rh2 Bb7+ 50.Kf4 Rd7 51.Rc2 Re7 52.Rh2 Re4+ 53.Kg3 Bc8 54.Rh5 Bb7 55.Rh2 Bc8 56.Rc2 Bxf5 57.Rc7+ Kxg6 58.Rxa7 Rg4+ 59.Kf3 h5 60.Bxb6 Be4+ 61.Kf2 h4 62.Bc7 h3 63.b6 Rg2+ 64.Ke1 h2 65.Bxh2 Rxh2 66.Re7 Kf5 67.a5 Rb2 68.Kd1 Rb5 69.Ra7 Kg4 70.Kd2 Rb3 71.Rc7 Kf3 72.Rc4 Ra3 73.Rxe4 Ra2+ 74.Kd3 Ra3+ 75.Kc2 Rxa5 76.Rb4 Ra8 77.b7 Rb8 78.Kd3 Rd8+ 79.Kc4 Rb8 80.Rb3 f5 81.Kd5 Ke2 82.Kc6 Rh8 83.b8=Q Rxb8 84.Rxb8 Kxe3 85.Kd5 1-0

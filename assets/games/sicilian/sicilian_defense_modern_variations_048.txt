@@ -1,0 +1,14 @@
+[Event "Round 4: Turel, Tugrul - Tschernatsch, Johannes"]
+[Site "https://lichess.org/broadcast/german-amateur-chess-championship-2026-dsam-group-a/round-4/Gdw2kTCn/qoXv3l7D"]
+[Date "2026.07.22"]
+[Round "4.1"]
+[White "Turel, Tugrul"]
+[Black "Tschernatsch, Johannes"]
+[Result "1-0"]
+[WhiteElo "2182"]
+[BlackElo "2313"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.c4 e5 4.Nc3 Nc6 5.d3 g6 6.g3 Bg7 7.Bg2 Nge7 8.O-O O-O 9.Rb1 Be6 10.Nd5 h6 11.b4 Qd7 12.bxc5 dxc5 13.Bxh6 f6 14.Be3 b6 15.Nh4 g5 16.Nf3 Bg4 17.Qa4 Rad8 18.Rbe1 Ng6 19.Nd2 Bh6 20.h3 Be6 21.h4 Kg7 22.h5 Nf4 23.gxf4 exf4 24.Bxc5 bxc5 25.Nb3 Qd6 26.Qa3 f3 27.Bxf3 Ne5 28.Bg2 Bxd5 29.exd5 Nxd3 30.Nd4 cxd4 31.Qxd3 f5 32.Qxd4+ Qf6 33.Qxa7+ Rf7 34.Qa5 g4 35.Re6 Qh4 36.Qc3+ Kh7 37.Qe5 Qxh5 38.Re1 Bg7 39.Qf4 Bh6 40.Qe5 Bd2 41.Re2 Bb4 42.d6 g3 43.c5 gxf2+ 44.Rxf2 Qg5 45.c6 Qc1+ 46.Kh2 Rh8 47.Qg3 Rg8 48.Qh4+ Kg7 49.Bd5 1-0

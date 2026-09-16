@@ -1,0 +1,14 @@
+[Event "Round 8: Hampel, Felix - Vyval, Volodymyr"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-8/XL5HPCd1/KL8D2V77"]
+[Date "2026.07.24"]
+[Round "8.9"]
+[White "Hampel, Felix"]
+[Black "Vyval, Volodymyr"]
+[Result "1-0"]
+[WhiteElo "2349"]
+[BlackElo "2300"]
+[ECO "A34"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nc6 6.Bb5 Nb4 7.d4 cxd4 8.exd4 e6 9.O-O Be7 10.a3 Nd5 11.Ba4 Nxc3 12.bxc3 O-O 13.Qd3 Qa5 14.Bc2 g6 15.Bh6 Rd8 16.Qe3 b6 17.Ng5 Bd7 18.c4 Rac8 19.d5 Nb8 20.dxe6 fxe6 21.Nxe6 Re8 22.Qd4 Kf7 23.Qg7+ Kxe6 24.Rfe1+ Kd6 25.Bf4+ Kc6 26.Be4+ Kc5 27.Qe5+ Kxc4 28.Rec1+ Kb3 29.Rab1+ Ka4 30.Qd4+ 1-0

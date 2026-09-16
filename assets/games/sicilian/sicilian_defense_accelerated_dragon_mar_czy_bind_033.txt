@@ -1,0 +1,15 @@
+[Event "Round 2: Horvath, Tomas - Walek, Petr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/2M4VfE8f"]
+[Date "2026.07.17"]
+[Round "2.14"]
+[White "Horvath, Tomas"]
+[Black "Walek, Petr"]
+[Result "0-1"]
+[WhiteElo "2033"]
+[BlackElo "2311"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.O-O a4 12.Rad1 Qa5 13.Nd5 Nxd5 14.cxd5 Bd7 15.Bd4 Rfc8 16.Bxg7 Qxd2 17.Rxd2 Kxg7 18.f4 Ra5 19.Kf2 Bb5 20.Rfd1 Bxe2 21.Kxe2 Rb5 22.Ke3 Rb4 23.Kf3 Rcc4 24.Re1 h6 25.g3 g5 26.Rde2 gxf4 27.gxf4 Kf6 28.Rd1 b5 29.Rdd2 Rc1 30.Rc2 Ra1 31.a3 Rb3+ 32.Kf2 Rh1 33.Kg2 Rb1 34.Rcd2 h5 35.h4 Rc1 36.Rf2 Re1 37.Rde2 Rd1 38.Rc2 Rd4 39.Rfe2 Rdd3 40.Rc6 Rg3+ 41.Kh2 Rh3+ 42.Kg2 Rhg3+ 43.Kh2 Rh3+ 44.Kg2 Rbg3+ 45.Kf2 Rh2+ 46.Kxg3 Rxe2 47.e5+ Kf5 48.exd6 exd6 49.Rxd6 Rxb2 50.Rb6 Rb3+ 51.Kg2 Kg4 52.d6 Rxa3 53.Rxb5 Ra2+ 54.Kf1 Rd2 55.Ra5 Kxh4 56.Rxa4 Rxd6 57.Kf2 Kg4 58.Ke3 Re6+ 59.Kf2 Rb6 60.Ra7 Rf6 61.Kg2 Rxf4 62.Ra8 Rf6 63.Ra4+ Rf4 64.Ra8 Rb4 65.Rg8+ Kf4 66.Rh8 Rb2+ 67.Kh3 Rb3+ 68.Kh4 f5 69.Ra8 Kf3 70.Rf8 f4 71.Kxh5 Kg3 72.Rg8+ Kf2 73.Kh4 f3 74.Kh3 Rb7 75.Ra8 Rh7+ 76.Kg4 Kg2 77.Ra3 Rg7+ 78.Kf4 f2 79.Ra2 Kg1 0-1

@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.12"]
+[Round "2.8"]
+[White "Schoorl, Rob"]
+[Black "Popko, Anton"]
+[Result "1-0"]
+[WhiteElo "2284"]
+[BlackElo "2019"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 b6 2.d4 Bb7 3.Nc3 f5 4.d5 Nf6 5.g3 g6 6.Bg2 e5 7.e4 fxe4 8.Nge2 Na6 9.Nxe4 Nxe4 10.Bxe4 Nc5 11.Bc2 a5 12.h4 Bg7 13.Bg5 Bf6 14.Be3 Qe7 15.Nc3 Ba6 16.d6 Qxd6 17.Qxd6 cxd6 18.Nd5 Bd8 19.b3 b5 20.cxb5 Bxb5 21.O-O-O Rc8 22.Kb1 Be2 23.Rd2 Bf3 24.Rc1 Rc6 25.Nc3 Ke7 26.Bd1 Bxd1 27.Rdxd1 Ke6 28.Nd5 Ne4 29.Rc4 Nf6 30.Nxf6 Bxf6 31.f4 Rxc4 32.bxc4 Rb8+ 33.Kc2 Rb4 34.Kd3 Kf5 35.fxe5 dxe5 36.Rf1+ Ke6 37.Rf2 e4+ 38.Kxe4 Rxc4+ 39.Kf3 Rc3 40.Rd2 Be5 41.g4 d5 42.Ke2 Rc4 43.Kf3 d4 44.Bh6 Kd5 45.Rb2 Rb4 46.Rc2 Rb8 47.Re2 a4 48.Rxe5+ Kc4 49.Ra5 Kc3 50.Rxa4 d3 51.Ra7 Rd8 52.Rc7+ Kb2 53.Bd2 h5 54.g5 Kxa2 55.Ke3 Re8+ 56.Kxd3 Re6 57.Rf7 1-0

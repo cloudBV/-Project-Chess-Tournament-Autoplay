@@ -1,0 +1,15 @@
+[Event "Round 4: Medovoy, Yaniv - Uritsky, Yonathan"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-4/2mDZshgk/JQcg9RJA"]
+[Date "2026.07.16"]
+[Round "4.2"]
+[White "Medovoy, Yaniv"]
+[Black "Uritsky, Yonathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2118"]
+[BlackElo "2316"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.Nf3 d5 3.e5 Bf5 4.Nh4 Bd7 5.g3 Nh6 6.Bg2 Nf5 7.Nf3 e6 8.O-O h5 9.h4 c5 10.d3 Bc6 11.Re1 b5 12.c4 b4 13.Nbd2 Nd7 14.b3 Nb6 15.Bh3 g6 16.Bg2 Be7 17.Nf1 Qd7 18.Qe2 Rd8 19.Bb2 Qb7 20.Ne3 dxc4 21.dxc4 Nd4 22.Nxd4 cxd4 23.Bxc6+ Qxc6 24.Ng2 d3 25.Qe4 Qxe4 26.Rxe4 Nd7 27.Rd1 O-O 28.Nf4 a5 29.Re3 Nc5 30.Nxd3 Rd7 31.Kg2 Rfd8 32.Nxc5 Rxd1 33.Ne4 Rc8 34.Re2 a4 35.Rc2 Re1 36.Nd6 axb3 37.axb3 Rc6 38.c5 Rd1 39.Rc4 Rb1 40.Rc2 Kf8 41.f4 Bxd6 42.exd6 Ke8 43.Kf3 Rd1 44.Rc4 Rd3+ 45.Ke4 Rxb3 46.Bd4 Kd7 47.Ke5 f5 48.Kf6 Rc8 49.Bf2 Rb8 50.c6+ Kxd6 51.c7 Rc8 52.Bb6 Rb1 53.Kxg6 b3 54.Kxh5 Rd1 55.Rb4 Rd3 56.Bd4 Kxc7 57.Be5+ Kc6 58.g4 fxg4 59.Kxg4 Rg8+ 60.Kh5 Rd7 61.Kh6 Rb7 62.Rc4+ Kd5 63.Rd4+ Kc5 64.Rd2 Kc4 65.h5 Kb4 66.Rd6 Re8 67.Kg6 Kc5 68.Rd2 Rg8+ 69.Kf6 Rh7 70.Rh2 Kd5 71.Rd2+ Ke4 72.Rd4+ Kf3 73.Rb4 Rh6+ 74.Kf7 Rg4 75.Rxb3+ Ke4 76.Rb5 Rxh5 77.Kxe6 Rg6+ 78.Kf7 Ra6 79.Kg7 Rh1 80.Rb7 Re6 81.Rf7 Rg1+ 82.Kf8 Ra6 83.Re7 Rag6 84.Ke8 Rg8+ 85.Kf7 Kf5 86.Bf6 Kxf4 87.Ra7 Rc8 88.Ra4+ Kf5 89.Ra5+ Ke4 90.Ra4+ Kd5 91.Ra5+ Kc4 92.Ra7 Rf1 93.Re7 Rf4 94.Re5 Rc7+ 95.Re7 Rc5 96.Re6 Rg4 97.Be7 Rh5 98.Rc6+ Kd4 99.Rd6+ Ke4 100.Re6+ Re5 101.Ra6 Rf4+ 102.Bf6 Rb5 103.Ra4+ Kf5 104.Rxf4+ Kxf4 105.Bc3 Kf5 106.Ke7 Rb3 107.Ba1 Rb2 108.Bxb2 1/2-1/2

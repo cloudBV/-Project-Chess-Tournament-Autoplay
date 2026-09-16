@@ -1,0 +1,14 @@
+[Event "Round 8: Niemi, Kalle - Zhang, Yiming"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-8/lNTkMvHK/FkTwkfNV"]
+[Date "2026.07.17"]
+[Round "8.7"]
+[White "Niemi, Kalle"]
+[Black "Zhang, Yiming"]
+[Result "1/2-1/2"]
+[WhiteElo "2301"]
+[BlackElo "2167"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O 9.Ng3 Be6 10.Nd5 Bxd5 11.exd5 g6 12.a4 Nbd7 13.a5 Ne8 14.c4 f5 15.f3 h5 16.b4 Kg7 17.Ra2 Rc8 18.Kh1 h4 19.Ne2 Nef6 20.Rc2 Nh5 21.f4 Bf6 22.fxe5 Bxe5 23.Ng1 Rh8 24.Nh3 Ndf6 25.Bg5 Qd7 26.Be2 Ng4 27.Nf4 Nxf4 28.Bxf4 Bxf4 29.Rxf4 Nf6 30.Qd4 Qa4 31.Qb2 Rhe8 32.Rf1 Re3 33.Rc3 Rxc3 34.Qxc3 Kf7 35.Bf3 Qa2 36.c5 dxc5 37.bxc5 Nxd5 38.Qd4 Nf6 39.Bxb7 Rc7 40.Bxa6 Qxa5 41.Bc4+ Kg7 42.Ba6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: Rensch, Daniel - Belenkaya, Dina"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-3/EpBQfwYG/xzPutHQU"]
+[Date "2026.07.05"]
+[Round "3.4"]
+[White "Rensch, Daniel"]
+[Black "Belenkaya, Dina"]
+[Result "1-0"]
+[WhiteElo "2401"]
+[BlackElo "2120"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.f4 d5 3.Nc3 g6 4.d4 Bg7 5.e5 Nh6 6.h3 Nf5 7.Nf3 h5 8.Bd3 Ng3 9.Rg1 h4 10.Be3 Bf5 11.Bf2 e6 12.Bxg3 hxg3 13.Ne2 c5 14.c3 Qb6 15.Bxf5 gxf5 16.Qd2 Rg8 17.a3 Nc6 18.dxc5 Qxc5 19.Nfd4 Bh6 20.Qe3 Qb6 21.O-O-O Rc8 22.Kb1 Na5 23.Nc2 Qa6 24.Nb4 Qb5 25.Nd4 Qa4 26.Rgf1 Nc4 27.Qe2 a5 28.Nbc2 Bf8 29.Rf3 Bc5 30.b3 Nxa3+ 31.Nxa3 Qxa3 32.Qb5+ Kf8 33.Nc2 Rc7 34.Nxa3 Bxa3 35.Qxa5 1-0

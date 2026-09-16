@@ -1,0 +1,14 @@
+[Event "Round 6: Averin, Nikolay - Fomkin, Dmitry"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/q1BM0I6d"]
+[Date "2026.07.19"]
+[Round "6.10"]
+[White "Averin, Nikolay"]
+[Black "Fomkin, Dmitry"]
+[Result "1-0"]
+[WhiteElo "2416"]
+[BlackElo "2358"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2 O-O 11.O-O Nd7 12.Kh1 f5 13.f4 a6 14.Na3 exf4 15.Bxf4 g5 16.Be3 Ne5 17.Bd4 Bf6 18.c3 Bd7 19.Qb3 Rf7 20.Rae1 f4 21.Bh5 Rg7 22.Nc4 Bxa4 23.Qxa4 b5 24.Qc2 bxc4 25.Qf5 Qe7 26.g3 Rf8 27.Qe6+ Qxe6 28.dxe6 Re7 29.gxf4 Ng6 30.f5 Bxd4 31.fxg6 Rxf1+ 32.Rxf1 Be5 33.Bf3 hxg6 34.Bd5 Kg7 35.Bxc4 Bf4 36.Ra1 Kf6 37.Kg2 g4 38.h3 gxh3+ 39.Kxh3 Rb7 40.Kg4 Be5 41.Rxa6 Rxb2 42.Ra7 Rg2+ 43.Kf3 Rg3+ 44.Kf2 Rxc3 45.Rf7+ Kg5 46.e7 Bd4+ 47.Kf1 Rc1+ 48.Ke2 Bc3 49.Rf1 Rxf1 50.Kxf1 1-0

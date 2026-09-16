@@ -1,0 +1,14 @@
+[Event "Round 4: Kozak, Adam - Xu, Chang(CQ)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-4/6fOXA5mh/zRvVPtWY"]
+[Date "2026.07.12"]
+[Round "4.8"]
+[White "Kozak, Adam"]
+[Black "Xu, Chang(CQ)"]
+[Result "1/2-1/2"]
+[WhiteElo "2592"]
+[BlackElo "2082"]
+[ECO "E49"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Ba2 Nc6 11.O-O Rd8 12.Ng3 b6 13.Re1 Bb7 14.Bb2 Rac8 15.e4 cxd4 16.cxd4 Nxd4 17.Rc1 Qd7 18.Rxc8 Bxc8 19.e5 Ne8 20.Qg4 Nf5 21.Nxf5 exf5 22.Qc4 Qe7 23.Bb1 Be6 24.Qf4 Qd7 25.Bc1 Qd4 26.Qg3 Qg4 27.Qc3 Rc8 28.Qd2 Nc7 29.h3 Qc4 30.Bb2 Qd5 31.Qe2 Rd8 32.Bc1 Qd7 33.Bg5 Rc8 34.Rd1 Nd5 35.Qf3 h6 36.Be3 Qc6 37.Bxf5 Bxf5 38.Qxf5 Nxe3 39.fxe3 Rf8 40.Kh1 Qc5 41.e4 Qxa3 42.e6 fxe6 43.Qxe6+ Kh8 44.e5 Qa4 45.Qd6 Re8 46.Re1 Qa5 47.Re4 Qc5 48.Qd7 Qe7 49.Qd4 Qe6 50.Re3 a5 51.Kh2 b5 52.Qc5 Rb8 53.Qc7 Qb6 54.Qc1 Re8 55.e6 Qd6+ 56.Kh1 b4 57.Qc4 a4 58.Re4 Qd1+ 59.Kh2 Qd6+ 60.Kh1 Qd1+ 61.Kh2 Qd6+ 62.Kh1 1/2-1/2

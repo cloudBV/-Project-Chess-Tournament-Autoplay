@@ -1,0 +1,14 @@
+[Event "Round 4: Papaioannou, Ioannis - Petkidis, Anthony"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/Htn6rvwY"]
+[Date "2026.07.07"]
+[Round "4.51"]
+[White "Papaioannou, Ioannis"]
+[Black "Petkidis, Anthony"]
+[Result "1-0"]
+[WhiteElo "2611"]
+[BlackElo "2420"]
+[ECO "B14"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Main Line"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.e3 cxd4 5.exd4 d5 6.Nc3 Bb4 7.cxd5 Nxd5 8.Bd2 O-O 9.Bd3 Nc6 10.O-O Nf6 11.Be3 h6 12.Rc1 Bd6 13.Bb1 Nb4 14.Ne5 b6 15.Qf3 Ba6 16.Rfe1 Nbd5 17.Bd2 Rc8 18.Qh3 Nxc3 19.bxc3 Re8 20.Re3 Rc7 21.Rce1 Kh8 22.Rg3 Ng8 23.Bg5 Qc8 24.Bf4 Rd8 25.Qh5 Rf8 26.Rxg7 1-0

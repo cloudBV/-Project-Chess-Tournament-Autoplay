@@ -1,0 +1,15 @@
+[Event "Round 7: Paichadze, Luka - Quparadze, Giga"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-7/YvfATwku/oCmPFun8"]
+[Date "2026.07.18"]
+[Round "7.4"]
+[White "Paichadze, Luka"]
+[Black "Quparadze, Giga"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2491"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 d6 3.Bb2 Nf6 4.Bb5+ Nbd7 5.Nc3 g6 6.Nd5 Bg7 7.Nxf6+ exf6 8.Ne2 O-O 1/2-1/2

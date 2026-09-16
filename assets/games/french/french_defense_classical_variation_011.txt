@@ -1,0 +1,15 @@
+[Event "Round 4: Raja Harshit - Luque Saiz, Andres"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-4/XeH1t84y/qsoMCJTK"]
+[Date "2026.07.13"]
+[Round "4.1"]
+[White "Raja Harshit"]
+[Black "Luque Saiz, Andres"]
+[Result "1-0"]
+[WhiteElo "2499"]
+[BlackElo "2371"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.exd5 Bb4 7.Bc4 O-O 8.Ne2 exd5 9.Bxd5 Rd8 10.O-O Bxc3 11.Nxc3 Nc6 12.Bxc6 bxc6 13.Re1 Bf5 14.Re5 Rab8 15.b3 Rb4 16.Qf3 Bxc2 17.Qxf6 gxf6 18.Rc5 Rbxd4 19.Rxc6 R8d7 20.Rxf6 Bg6 21.h3 Rd2 22.Re1 Rc2 23.Re3 Kg7 24.Rc6 Rdd2 25.Rf3 a5 26.Rc4 c5 27.g4 Rc1+ 28.Kg2 Rdc2 29.h4 h5 30.gxh5 Bxh5 31.Rg3+ Kh6 32.Rxc5 a4 33.bxa4 Bg6 34.h5 Bxh5 35.Rh3 Kg6 36.a5 Bg4 37.Rg3 f5 38.a6 Rxa2 39.Nxa2 Rxc5 40.Ra3 Rc8 41.a7 Ra8 42.Nc3 f4 43.Nd5 Bd7 44.Nc7 Bc6+ 45.f3 Rc8 46.Ra6 Rxc7 47.a8=Q 1-0

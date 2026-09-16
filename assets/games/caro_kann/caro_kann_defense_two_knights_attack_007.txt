@@ -1,0 +1,14 @@
+[Event "Round 1: Drei, Andrea - Palozza, Christian"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-1/T4WOJvWv/pJK5eUPO"]
+[Date "2026.07.06"]
+[Round "1.10"]
+[White "Drei, Andrea"]
+[Black "Palozza, Christian"]
+[Result "1/2-1/2"]
+[WhiteElo "2083"]
+[BlackElo "2282"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Be6 7.Bc4 Bd5 8.Bxd5 cxd5 9.Qe2 Nc6 10.O-O e6 11.d4 Be7 12.c3 O-O 13.Bf4 a6 14.Ne5 Rc8 15.Rad1 Nxe5 16.Bxe5 Qd7 17.Rfe1 Rfe8 18.Rd3 f6 19.Bg3 Bf8 20.Re3 Rc6 21.Qg4 g6 22.h4 Bg7 23.h5 Qf7 24.hxg6 hxg6 25.Qe2 Qd7 26.Qg4 Qf7 27.Qe2 Bh6 28.Rf3 Bg5 29.Bf4 Bxf4 30.Rxf4 Kg7 31.Rf3 Qc7 32.Qe3 Rh8 33.Rh3 Rxh3 34.Qxh3 Qf4 35.Rxe6 Qc1+ 36.Kh2 Qf4+ 37.Kg1 1/2-1/2

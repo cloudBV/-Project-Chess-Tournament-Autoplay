@@ -1,0 +1,15 @@
+[Event "Round 8: Quparadze, Giga - kiladze, Luka"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-8/9nAkS9lJ/xsTN4XPT"]
+[Date "2026.07.19"]
+[Round "8.5"]
+[White "Quparadze, Giga"]
+[Black "kiladze, Luka"]
+[Result "1-0"]
+[WhiteElo "2491"]
+[BlackElo "2373"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Qc7 5.O-O Nd4 6.Re1 a6 7.Bf1 Ng4 8.g3 Nxf3+ 9.Qxf3 Ne5 10.Qe2 e6 11.b3 d6 12.Bb2 Be7 13.Nd1 O-O 14.c3 Bf6 15.Ne3 b5 16.d4 Nd7 17.d5 e5 18.a4 Rb8 19.axb5 axb5 20.h4 g6 21.Ra2 Bg7 22.Rea1 Nf6 23.Ra7 Qb6 24.Qf3 Ne8 25.R7a5 Nc7 26.h5 Bd7 27.b4 c4 28.Bxc4 f5 29.Be2 f4 30.Ng2 gxh5 31.gxf4 Bg4 32.Qd3 exf4 33.Bf3 Be5 34.Kf1 Rbe8 35.Bc1 Kh8 36.R1a3 Qb8 37.Bd2 Qc8 38.Ra7 Re7 39.c4 Bxf3 40.Qxf3 bxc4 41.Qxh5 Rg7 42.Nxf4 Rxf4 43.Bxf4 Bxf4 44.b5 Qb8 45.b6 Qxb6 46.Ra8+ Nxa8 47.Rxa8+ Rg8 48.Rxg8+ Kxg8 49.Qg4+ Kf8 50.Qxf4+ Ke8 51.Qf5 Qa6 52.Kg2 Kd8 53.Qf6+ Kc7 54.e5 c3 55.Qe7+ Kb8 56.exd6 Qc4 57.Qe6 c2 58.d7 Qc7 59.Qe8+ Kb7 60.d8=Q Qxd8 61.Qxd8 c1=Q 62.Qe7+ Kc8 63.Qe6+ Kd8 64.Qg8+ Kd7 65.Qxh7+ Kd6 66.Qf5 1-0

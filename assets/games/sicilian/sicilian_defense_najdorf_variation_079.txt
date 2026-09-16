@@ -1,0 +1,15 @@
+[Event "Round 2: Delavari, Behnood - Zakhartsov, Viacheslav V."]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/KFGJTYIR"]
+[Date "2026.07.14"]
+[Round "2.3"]
+[White "Delavari, Behnood"]
+[Black "Zakhartsov, Viacheslav V."]
+[Result "1/2-1/2"]
+[WhiteElo "2234"]
+[BlackElo "2467"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5 9.Qd2 Nbd7 10.O-O-O Rc8 11.Kb1 Be7 12.Nd5 Bxd5 13.exd5 Nb6 14.Qa5 Qc7 15.c3 Bd8 16.Be2 Nbxd5 17.Rxd5 Qc6 18.Rxe5+ dxe5 19.Qxe5+ Qe6 20.Bd4 Qxe5 21.Bxe5 Nd7 22.Bxg7 Rg8 23.Bd4 Rxg2 24.Bf1 Rg6 25.Bh3 Rc7 26.Bf5 Rg5 27.Bh3 Rg6 28.Re1+ Kf8 29.Bf2 Be7 30.Bf5 Rf6 31.Nd4 Bc5 32.Bg3 Bxd4 33.cxd4 Rxf5 34.Bxc7 Rxf3 35.Bd6+ Kg7 36.Re7 Nf6 37.Rxb7 Ne4 38.Bc7 Kg6 39.Rb6+ Kg5 40.d5 Rd3 41.d6 f5 42.Kc2 Rd2+ 43.Kc1 Rd4 44.Rxa6 f4 45.Ra8 Nxd6 46.Bxd6 Rxd6 47.Rf8 Kg4 48.b4 Kf3 49.Kc2 Ke3 50.b5 f3 51.Kc3 1/2-1/2

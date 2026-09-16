@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.20"]
+[White "Horak, Martin"]
+[Black "Burdalev, Kirill"]
+[Result "1/2-1/2"]
+[WhiteElo "2091"]
+[BlackElo "2276"]
+[ECO "C54"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Dubov Italian"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.b4 Be7 7.b5 Na5 8.Bd3 d5 9.e5 Ne4 10.cxd4 O-O 11.O-O Bg4 12.Re1 Qd7 13.Bxe4 dxe4 14.Rxe4 Bf5 15.Re1 Qxb5 16.Ba3 Bxa3 17.Nxa3 Qb2 18.Qc1 Qxc1 19.Raxc1 c6 20.d5 cxd5 21.Rc5 b6 22.Rxd5 Be6 23.Rd2 Rfd8 24.Red1 Rxd2 25.Rxd2 Rc8 26.h3 a6 27.Ng5 b5 28.Rd6 Bxa2 29.Rxa6 Nc6 30.Nxb5 Bc4 31.Rb6 Nxe5 32.Nd6 Rd8 33.f4 Nd7 34.Nxc4 Nxb6 35.Nxb6 Rd6 36.Nc8 Rd4 37.g3 h6 38.Nf3 Rd3 39.Kf2 Kf8 40.Nb6 Rb3 41.Nc4 Rc3 42.Ne3 Ra3 43.Nd4 h5 44.g4 hxg4 45.hxg4 g6 46.Kf3 Ra4 47.Ke4 Kg7 48.g5 Ra1 49.Ng4 Re1+ 50.Kf3 Rf1+ 51.Ke3 Re1+ 1/2-1/2

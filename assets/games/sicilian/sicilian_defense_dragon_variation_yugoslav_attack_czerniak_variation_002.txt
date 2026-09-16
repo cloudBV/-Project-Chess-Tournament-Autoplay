@@ -1,0 +1,14 @@
+[Event "Round 6: Lukasiewicz, Krzysztof - Khachatryan, Anna"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/gx4iVKQV"]
+[Date "2026.07.22"]
+[Round "6.19"]
+[White "Lukasiewicz, Krzysztof"]
+[Black "Khachatryan, Anna"]
+[Result "1-0"]
+[WhiteElo "2318"]
+[BlackElo "2193"]
+[ECO "B77"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f3 Bg7 7.Be3 Nc6 8.Qd2 O-O 9.Bc4 Nxd4 10.Bxd4 Be6 11.Bb3 Qa5 12.O-O-O Bxb3 13.cxb3 Nh5 14.Bxg7 Nxg7 15.Kb1 Rfc8 16.g4 Rc6 17.h4 h5 18.gxh5 Nxh5 19.f4 e6 20.Rhg1 Rac8 21.Rg5 Qb4 22.Rb5 g5 1-0

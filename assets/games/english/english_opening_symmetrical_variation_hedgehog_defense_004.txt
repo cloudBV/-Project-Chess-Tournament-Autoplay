@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.12"]
+[White "Moroni, Luca Jr"]
+[Black "Jurek, Josef"]
+[Result "1-0"]
+[WhiteElo "2524"]
+[BlackElo "2168"]
+[ECO "A30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Hedgehog Defense"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Nf3 b6 5.Bg2 Bb7 6.O-O Be7 7.Re1 d5 8.cxd5 exd5 9.d4 O-O 10.Bf4 Na6 11.Rc1 Ne4 12.dxc5 Naxc5 13.Be5 Re8 14.Nb5 Ne6 15.Nfd4 Bc5 16.e3 Nxd4 17.Bxd4 a6 18.Nc3 Nxc3 19.Bxc3 a5 20.Qg4 Bf8 21.Red1 Rc8 22.Rd2 b5 23.Rcd1 b4 24.Bd4 Rc6 25.h4 Rg6 26.Qf5 Bc8 27.Qxd5 Qc7 28.h5 Rh6 29.Qg5 Qd8 30.Qxd8 Rxd8 31.Bf3 a4 32.Be5 Re8 33.Bf4 Rhe6 34.Rd8 Ba6 35.Bg4 R6e7 36.Rxe8 Rxe8 37.Bd7 Ra8 38.Bc6 Rc8 39.Bd7 Ra8 40.Bxa4 Be2 41.Rd2 Bxh5 42.Bc6 Rxa2 43.Rd8 Ra1+ 44.Kg2 Rd1 45.Rb8 h6 46.Be5 f6 47.Bd4 Rc1 48.Be4 Bf7 49.g4 Be6 50.f4 Rc8 51.Rxc8 Bxc8 52.Bd5+ Kh8 53.Kf3 Be7 54.f5 Kh7 55.Bf7 Bb7+ 56.e4 Bd6 57.Ke3 Ba6 58.b3 Bb5 59.Bb6 Ba6 60.Bc4 Bb7 61.Bd5 Ba6 62.Bf7 Bb5 63.Bc4 Bc6 64.Bd3 Be5 65.Bc5 Bc3 66.Bd4 Be8 67.Bxc3 bxc3 68.Kd4 h5 69.gxh5 Kh6 70.Kxc3 Kxh5 71.Kd4 g5 72.e5 fxe5+ 73.Kxe5 g4 74.Kf4 Kh4 75.Be4 Kh3 76.f6 g3 77.b4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 10: Hernandez Jimenez, Xavi - Cabiativa, Juan Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-10/EGR1f4HB/G6JhxILr"]
+[Date "2026.07.11"]
+[Round "10.6"]
+[White "Hernandez Jimenez, Xavi"]
+[Black "Cabiativa, Juan Esteban"]
+[Result "*"]
+[WhiteElo "2402"]
+[BlackElo "2290"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nxc6 bxc6 7.Bc4 e6 8.O-O Be7 9.Re1 O-O 10.Bg5 d5 11.Bd3 d4 12.e5 dxc3 13.exf6 Bxf6 14.Bxf6 Qxf6 15.bxc3 Qxc3 16.Qf3 g6 17.h4 h5 18.Rab1 Kg7 19.Re3 Qc5 20.Qf4 Rd8 21.Rf3 Qe7 22.Qe5+ f6 23.Qe4 f5 24.Qxc6 Bd7 25.Qc3+ Qf6 26.Qc7 Qxh4 27.Bb5 Rac8 28.Qxa7 Ra8 29.Qc7 Rac8 30.Qe5+ Qf6 31.Qe2 Bxb5 32.Rxb5 Rd7 33.Re3 Rc6 34.Rbe5 Rdd6 35.c4 f4 36.R3e4 Kh6 37.c5 Rd5 38.Rxe6 Qa1+ 39.Kh2 Rdxc5 40.Rxc6 Rxc6 41.Rxf4 Rc1 42.Re4 Rh1+ 43.Kg3 Qc3+ 44.Qe3+ Qxe3+ 45.Rxe3 Ra1 46.Ra3 Rb1 47.Ra6 Rb4 48.f3 Rc4 49.a4 h4+ 50.Kh3 Kh5 51.Ra7 g5 52.a5 Ra4 53.Ra6 Ra3 54.Kh2 g4 55.fxg4+ Kxg4 56.Ra8 Kg5 57.a6 Kg6 58.Ra7 Kh6 59.Kg1 Ra2 60.Ra8 Kg7 61.a7 Kh7 62.Kh2 Ra3 63.Kg1 Ra2 64.Kf1 Kg7 65.Ke1 Kh7 66.Kd1 Kg7 67.Kc1 Kh7 68.Kb1 Ra4 69.Kb2 Kg7 70.Kb3 Ra1 71.Kc4 Rc1+ 72.Kd5 Rd1+ 73.Ke5 Ra1 74.Kf5 Ra5+ 75.Kg4 Ra4+ 76.Kg5 Kh7 77.Kf6 Ra1 78.Kf7 Rf1+ 79.Ke6 Re1+ 80.Kf5 Ra1 81.Kg5 Ra4 82.Kf5 Ra5+ 83.Kg4 Ra4+ 84.Kh3 Kg7 *

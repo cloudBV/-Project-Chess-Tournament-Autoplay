@@ -1,0 +1,14 @@
+[Event "Round 8: Carlsson, Ludvig - Landgren, Andreas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-8/RwNKLsOW/WZTgT1n6"]
+[Date "2026.07.03"]
+[Round "8.4"]
+[White "Carlsson, Ludvig"]
+[Black "Landgren, Andreas"]
+[Result "1-0"]
+[WhiteElo "2427"]
+[BlackElo "2213"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 Nc6 5.O-O a6 6.a4 Bg4 7.h3 Bxf3 8.Qxf3 Ne5 9.Qe2 Nxc4 10.dxc4 e6 11.Ra3 Be7 12.Bf4 Qd7 13.Rg3 g6 14.Rd3 Qc6 15.Nc3 O-O 16.Rfd1 Rfd8 17.Bg5 Qc7 18.Qd2 Ne8 19.Bxe7 Qxe7 20.e5 Qh4 21.b3 Rd7 22.Qe3 Rad8 23.Ne4 b6 24.a5 d5 25.cxd5 exd5 26.axb6 d4 27.Qe2 Qe7 28.Rf3 Rd5 29.Re1 Rb8 30.Qxa6 Rxe5 31.Qa7 f5 32.Qxb8 fxe4 33.b7 Re6 34.Qc8 1-0

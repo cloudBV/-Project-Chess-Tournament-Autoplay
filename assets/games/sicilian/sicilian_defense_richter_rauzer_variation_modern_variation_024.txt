@@ -1,0 +1,14 @@
+[Event "Round 4: Neuhoff, Laertes - Hirneise, Jens"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/w6OEaBFb"]
+[Date "2026.07.21"]
+[Round "4.4"]
+[White "Neuhoff, Laertes"]
+[Black "Hirneise, Jens"]
+[Result "1-0"]
+[WhiteElo "2306"]
+[BlackElo "2355"]
+[ECO "B61"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.O-O-O Nxd4 9.Qxd4 Qa5 10.f4 h6 11.Bh4 e5 12.fxe5 dxe5 13.Qd3 Rxc3 14.Qxc3 Qxc3 15.bxc3 Nxe4 16.Kb2 Be7 17.Rd5 Nxc3 18.Rxe5 Na4+ 19.Kc1 f6 20.Re3 Kd8 21.Bc4 Bc5 22.Rd3 Nb6 23.Bb5 Kc8 24.Bxd7+ Nxd7 25.Rhd1 Ne5 26.Rc3 b6 27.Bf2 Nd7 28.Bxc5 Nxc5 29.Re3 1-0

@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.3"]
+[White "Skotheim, Andreas"]
+[Black "Fossheim, Yngve"]
+[Result "1/2-1/2"]
+[WhiteElo "2234"]
+[BlackElo "2230"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 c5 6.Nc3 cxd4 7.Nxd4 Nc6 8.O-O Qb6 9.Nb3 d6 10.Bg5 Be6 11.Nd5 Bxd5 12.cxd5 Na5 13.Be3 Qd8 14.Rc1 Nxb3 15.Qxb3 Qd7 16.h3 a6 17.Rc2 Rfc8 18.Rfc1 Ne8 19.a4 Bf6 20.Bb6 Qf5 21.Kh2 Rxc2 22.Qxc2 Qe5 23.b3 Kf8 24.Kg1 Qb2 25.h4 Bd4 26.Qxb2 Bxb2 27.Rc2 Ba3 28.Rc4 a5 29.Bh3 f5 30.Bd4 b5 31.axb5 Rb8 32.b6 Nf6 33.Bg2 Nd7 34.Rc7 Nxb6 35.e4 a4 36.bxa4 Nxa4 37.exf5 Bc5 38.Bxc5 Nxc5 39.fxg6 hxg6 40.Bf3 Rb2 41.Rc8+ Kg7 42.h5 gxh5 43.Bxh5 Ne4 44.Re8 Kf6 45.Rf8+ Ke5 46.Rf7 Kxd5 47.Rxe7 Nxf2 48.Be2 Nh3+ 49.Kf1 Ng5 50.Re3 Rb8 51.Rd3+ Ke5 52.Re3+ Kd4 53.Rd3+ Ke5 54.Re3+ Kf5 55.Bf3 Nf7 56.Be4+ Kg5 57.Rd3 Rb6 58.Rf3 Ne5 59.Rf5+ Kg4 60.Kg2 Rb2+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 9: Dargali, Hakan - Aydogan, Arya"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/Xsk382Uw"]
+[Date "2026.07.19"]
+[Round "9.30"]
+[White "Dargali, Hakan"]
+[Black "Aydogan, Arya"]
+[Result "1-0"]
+[WhiteElo "2101"]
+[BlackElo "2036"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 c5 7.e4 Nc6 8.Re1 b5 9.e5 Nd7 10.h4 Qc7 11.Qe2 a5 12.Nf1 b4 13.N1h2 Ba6 14.Bf4 c4 15.Qd2 cxd3 16.cxd3 b3 17.a3 a4 18.Rac1 Nc5 19.Bf1 Qa5 20.Qd1 Rac8 21.Ng4 d4 22.h5 Qd8 23.h6 g6 24.Rxc5 Bxc5 25.Nf6+ Kh8 26.Ng5 Be7 27.Ngxh7 Bxf6 28.Nxf6 Ne7 29.Bg5 Bb7 30.Bg2 Bxg2 31.Kxg2 Qc7 32.h7 Nf5 33.Qf3 Ng7 34.Qf4 Qc6+ 35.Re4 Qb7 36.Bh6 Rfd8 37.g4 Rc2 38.Qg5 Rdc8 39.Nd7 Ne8 40.Qe7 Kxh7 41.Nf8+ Kxh6 42.Qxb7 R2c7 43.Qb4 Kg7 44.g5 Rc2 45.Rf4 Nc7 46.Qe7 Rxf8 47.Qf6+ Kg8 48.Rh4 1-0

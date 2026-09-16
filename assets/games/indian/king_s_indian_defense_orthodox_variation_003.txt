@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.10"]
+[White "Prem, Pranav"]
+[Black "Belous, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2077"]
+[BlackElo "2471"]
+[ECO "E94"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Nf3 d6 6.Be2 e5 7.O-O Bg4 8.d5 a5 9.Ne1 Bxe2 10.Qxe2 Na6 11.Nd3 Nh5 12.Be3 b6 13.Rab1 Nb4 14.Nc1 Nf4 15.Qd2 f5 16.a3 Na6 17.b4 axb4 18.axb4 Nxg2 19.Bg5 Nh4 20.f4 Bf6 21.Bxh4 Bxh4 22.Nd3 Qf6 23.fxe5 dxe5 24.Kh1 f4 25.c5 g5 26.d6 bxc5 27.bxc5 g4 28.Nd5 Qg6 29.Qe2 f3 30.Qe3 Qh5 31.Ne1 Kh8 32.Rb2 Bxe1 33.Qxe1 Nxc5 34.dxc7 Nd3 0-1

@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.2"]
+[White "Sian, Shadi"]
+[Black "Rustan, Elias Buschmann"]
+[Result "1/2-1/2"]
+[WhiteElo "2268"]
+[BlackElo "2061"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.O-O a4 12.Bd4 Qa5 13.Rad1 Be6 14.f4 Rfc8 15.b3 axb3 16.axb3 Qa3 17.f5 Bd7 18.fxg6 hxg6 19.Bxf6 exf6 20.Qxd6 Bc6 21.Qxa3 Rxa3 22.Nd5 Re8 23.Nxf6+ Bxf6 24.Rxf6 Rxb3 25.Rdf1 Re7 26.R6f3 Rb2 27.Bd3 f5 28.exf5 Bxf3 29.Rxf3 Re1+ 30.Bf1 gxf5 31.Rxf5 Kg7 32.Rf4 b5 33.cxb5 Rxb5 34.Kf2 Rbe5 35.h3 Ra1 36.Kg3 Re6 37.Kh2 Rf6 38.Rg4+ Rg6 39.Rxg6+ Kxg6 40.Be2 Ra2 41.Bf3 Rxg2+ 1/2-1/2

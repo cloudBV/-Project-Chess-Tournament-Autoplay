@@ -1,0 +1,14 @@
+[Event "Round 13: Safarli, Eltaj - Savitha Shri B"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-13/22N95Wf4/Kfk96p3j"]
+[Date "2026.07.19"]
+[Round "13.3"]
+[White "Safarli, Eltaj"]
+[Black "Savitha Shri B"]
+[Result "1-0"]
+[WhiteElo "2619"]
+[BlackElo "2161"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.Bb5 Qc7 5.O-O Nf6 6.Re1 Ng4 7.Bxc6 bxc6 8.e5 f6 9.exf6 Nxf6 10.d4 cxd4 11.Qxd4 Be7 12.Bf4 Qb6 13.Qd2 O-O 14.b3 Nd5 15.Be5 d6 16.Bg3 Nxc3 17.Qxc3 e5 18.Rad1 Be6 19.Nd2 Bd5 20.Nc4 Qc5 21.Qe3 Qxe3 22.Nxe3 Be6 23.c4 a5 24.c5 d5 25.Bxe5 Bxc5 26.Rc1 Bb4 27.Red1 Rfc8 28.Nc2 Be7 29.Nd4 c5 30.Nxe6 Ra6 31.Nc7 1-0

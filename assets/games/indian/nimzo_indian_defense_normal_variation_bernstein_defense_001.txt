@@ -1,0 +1,14 @@
+[Event "Round 4: Kyparissopoulos, Spyridon - Tsarsitalidis, Christos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/x2FqF43c"]
+[Date "2026.07.07"]
+[Round "4.74"]
+[White "Kyparissopoulos, Spyridon"]
+[Black "Tsarsitalidis, Christos"]
+[Result "0-1"]
+[WhiteElo "2119"]
+[BlackElo "2184"]
+[ECO "E59"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bernstein Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Nf3 Nc6 10.O-O b6 11.Bb2 Qc7 12.Qe2 e5 13.Nxe5 Nxe5 14.dxe5 Qxe5 15.h3 Bb7 16.Bd3 Qg5 17.f4 Qg3 18.Qf2 Qxf2+ 19.Rxf2 Rad8 20.Bf1 Ne4 21.Rc2 Nd2 22.Re1 Be4 23.Rcc1 c4 24.Be2 Rd5 25.Rcd1 Bc2 26.Bxc4 Nf3+ 27.gxf3 Rxd1 28.Rxd1 Bxd1 29.Bd5 Rd8 30.c4 b5 31.Bd4 bxc4 32.Bxc4 Bxf3 33.Kf2 Be4 34.Bxa7 Ra8 35.Bd4 Ra4 36.Bb5 Rxa3 37.Bc4 Ra4 38.Bb3 Rb4 39.Bd1 Rb1 40.Ba4 Rh1 41.Bd7 f5 42.Be6+ Kh8 43.Kg3 Rg1+ 44.Kh4 h6 45.Bc4 Kh7 46.Be2 g5+ 47.fxg5 hxg5+ 48.Kh5 Bd5 0-1

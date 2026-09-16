@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.09"]
+[Round "6.3"]
+[White "Gaal, Zsoka"]
+[Black "Kiraly, Lilla Virag"]
+[Result "1-0"]
+[WhiteElo "2376"]
+[BlackElo "2080"]
+[ECO "A45"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Tartakower Attack"]
+
+1.d4 Nf6 2.g3 e6 3.Bg2 c5 4.Nf3 Nc6 5.O-O cxd4 6.Nxd4 d5 7.c4 Be7 8.Nc3 O-O 9.Bf4 Qb6 10.Ndb5 e5 11.Bg5 dxc4 12.a4 Be6 13.Bxf6 Bxf6 14.Nd5 Bxd5 15.Qxd5 a6 16.Nc3 Qxb2 17.Qxc4 Qb4 18.Qxb4 Nxb4 19.Rab1 Be7 20.Nd5 Nxd5 21.Bxd5 Rab8 22.Bxb7 a5 23.Rb5 Bb4 24.Rd1 g6 25.Rd7 Rfe8 26.Bd5 Rxb5 27.axb5 Rb8 28.Bxf7+ Kh8 29.Bc4 a4 30.g4 h6 31.h4 a3 32.Ra7 Bc5 33.Ra6 Rb6 34.Kg2 Rxa6 35.bxa6 g5 36.hxg5 hxg5 37.Kf3 Kg7 38.Ke4 Bxf2 39.e3 1-0

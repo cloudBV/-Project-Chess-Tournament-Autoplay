@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.16"]
+[White "Fellegi, Zoltan"]
+[Black "Kiss, Lajos"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2184"]
+[ECO "B12"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.b4 Be7 7.Bb2 a5 8.b5 f6 9.Nf3 Nd7 10.Bd3 Nh6 11.O-O Nf7 12.c4 fxe5 13.cxd5 exd5 14.Bf5 d4 15.Nbd2 O-O 16.Nc4 Bf6 17.a4 Nb6 18.Nxb6 Qxb6 19.Be4 Be6 20.Qd3 h6 21.Nd2 Rfc8 22.Rac1 Nd6 23.Ba3 Nxe4 24.Nxe4 Bd5 25.Nd6 Rd8 26.Bc5 Qc7 27.Ne4 Bxe4 28.Qxe4 Bg5 29.b6 Qd7 30.Rc4 Rac8 31.h4 Bf6 32.Rcc1 Rc6 33.Ba3 Rxb6 34.f4 exf4 35.Rxf4 Re6 36.Qf5 Re3 37.Qg6 Qf7 38.Qxf7+ Kxf7 39.Rc7+ Kg8 40.Rf3 Rxf3 41.gxf3 d3 42.Bc1 d2 43.Bxd2 Rxd2 44.Rxb7 Ra2 0-1

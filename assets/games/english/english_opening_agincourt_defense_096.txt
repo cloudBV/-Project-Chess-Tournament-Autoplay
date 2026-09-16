@@ -1,0 +1,15 @@
+[Event "Round 6: Bagaturov, Giorgi - Munkhgal, Gombosuren"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-6/oAPnuQgO/BIakIr1i"]
+[Date "2026.07.23"]
+[Round "6.6"]
+[White "Bagaturov, Giorgi"]
+[Black "Munkhgal, Gombosuren"]
+[Result "0-1"]
+[WhiteElo "2297"]
+[BlackElo "2351"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.b3 b6 5.g3 Bb7 6.Bg2 Bd6 7.O-O Nbd7 8.Bb2 O-O 9.Nc3 a6 10.Rc1 Re8 11.d4 Rc8 12.Qe2 Qe7 13.Rfd1 dxc4 14.bxc4 c5 15.a4 cxd4 16.exd4 Ba3 17.a5 Bxf3 18.Bxf3 Bxb2 19.Qxb2 Rxc4 20.axb6 Rb4 21.Qa3 Rxb6 22.Qxe7 Rxe7 23.Na4 Rd6 24.Nc5 g5 25.Nb7 Rb6 26.Rb1 Kg7 27.Na5 Re8 28.Nc6 Rc8 29.Rxb6 Nxb6 30.Ra1 g4 31.Bg2 Ra8 32.Nb4 Rc8 33.Nc6 Nfd5 34.Bxd5 exd5 35.Ne7 Ra8 36.Rb1 Kf8 37.Nf5 Nc4 38.Rb7 a5 39.Nh6 a4 40.Rxf7+ Ke8 41.Rxh7 Ra6 42.Nf5 a3 43.Re7+ Kd8 44.Re1 Nd2 45.Ra1 a2 46.Ne3 Nb3 0-1

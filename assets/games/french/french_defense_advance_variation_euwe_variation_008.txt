@@ -1,0 +1,15 @@
+[Event "Round 2: Otero Marino, Alain - Arizmendi Martinez, Julen Luis"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/HyAHfBKe"]
+[Date "2026.07.05"]
+[Round "2.3"]
+[White "Otero Marino, Alain"]
+[Black "Arizmendi Martinez, Julen Luis"]
+[Result "1/2-1/2"]
+[WhiteElo "2352"]
+[BlackElo "2465"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 Qb6 10.O-O Rc8 11.Rb1 Nd8 12.Re1 Bb5 13.Bxb5+ Qxb5 1/2-1/2

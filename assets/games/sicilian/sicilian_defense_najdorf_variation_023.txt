@@ -1,0 +1,15 @@
+[Event "Round 8: Oner, Yigit Efe - Zerey, Demhat"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/1K8NJ97h"]
+[Date "2026.07.04"]
+[Round "8.15"]
+[White "Oner, Yigit Efe"]
+[Black "Zerey, Demhat"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2338"]
+[ECO "B95"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O b5 9.f3 b4 10.Nb1 e5 11.Nf5 Bxf5 12.exf5 Nc6 13.h4 O-O 14.g4 Nd4 15.b3 Rc8 16.Bd3 Nd5 17.Bxe7 Qxe7 18.Kb2 Nc3 19.Rdf1 d5 20.Qe3 Rc5 21.f4 Ra5 22.a4 bxa3+ 23.Ka1 Qc5 24.Qd2 Ne4 25.Bxe4 dxe4 26.Rh2 e3 27.Qc3 e2 28.Rc1 Nxc2+ 0-1

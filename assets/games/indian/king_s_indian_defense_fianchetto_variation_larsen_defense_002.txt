@@ -1,0 +1,15 @@
+[Event "Greek Chess Cup F4"]
+[Site "Patras, Greece"]
+[Date "2026.07.02"]
+[Round "1.6"]
+[White "Kazantzoglou, Stefanos"]
+[Black "Kourkoulos-Arditis, Stamatis"]
+[Result "0-1"]
+[WhiteElo "2345"]
+[BlackElo "2570"]
+[ECO "E62"]
+[TimeControl "90 minutes for 40 moves + 30 minutes + 30sec increment from first move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.g3 O-O 5.Bg2 d6 6.Nc3 c6 7.O-O Bf5 8.Nh4 Be6 9.Qd3 d5 10.b3 Na6 11.c5 Qc8 12.a3 Bh3 13.b4 Bxg2 14.Kxg2 b6 15.Rb1 bxc5 16.bxc5 e5 17.dxe5 Nd7 18.f4 Naxc5 19.Qe3 Re8 20.Nf3 f6 21.Bb2 Rb8 22.Qf2 fxe5 23.fxe5 Rf8 24.Qd4 Qa6 25.a4 Ne6 26.Qg4 Rbe8 27.e4 d4 28.Nxd4 Rxf1 29.Rxf1 Nxe5 30.Qe2 Qxe2+ 31.Ncxe2 Nc4 32.Nxe6 Bxb2 33.Nc7 Re7 0-1

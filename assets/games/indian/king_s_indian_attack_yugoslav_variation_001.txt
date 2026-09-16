@@ -1,0 +1,15 @@
+[Event "Round 5: Zor, Alber Kadir - Zeynalli, Rashad"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/Z6e74uFz"]
+[Date "2026.07.02"]
+[Round "5.38"]
+[White "Zor, Alber Kadir"]
+[Black "Zeynalli, Rashad"]
+[Result "1-0"]
+[WhiteElo "2093"]
+[BlackElo "2269"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bg4 5.h3 Bxf3 6.Bxf3 e5 7.Bg2 Bc5 8.d3 a5 9.a4 Nbd7 10.e4 dxe4 11.dxe4 h5 12.Na3 Qe7 13.Nc4 Nb6 14.Ne3 g6 15.Bd2 h4 16.g4 Nh7 17.Qe1 Bb4 18.Kh1 O-O 19.c3 Bd6 20.f3 Rfd8 21.b3 Qf6 22.g5 Qe6 23.Ng4 Bc7 24.Be3 Rd3 25.Qxh4 Rxc3 26.Bxb6 Bxb6 27.f4 exf4 28.Rxf4 Be3 29.Rxf7 Kxf7 30.Qxh7+ Ke8 31.Qh8+ Ke7 32.Qxc3 1-0

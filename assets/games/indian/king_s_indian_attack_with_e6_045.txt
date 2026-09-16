@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.15"]
+[Round "6.1"]
+[White "Tsaknakis, Zisis"]
+[Black "Fragkos, Vasileios"]
+[Result "1/2-1/2"]
+[WhiteElo "2292"]
+[BlackElo "2225"]
+[ECO "A07"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Bd6 5.c4 O-O 6.Qc2 h6 7.d3 Nc6 8.a3 a5 9.Nc3 Re8 10.Nb5 Bf8 11.d4 dxc4 12.Qxc4 Bd7 13.Bf4 Nd5 14.Nc3 Nxf4 15.gxf4 Ra6 16.e3 a4 17.Qe2 Ne7 18.Ne5 Bc8 19.Qh5 g6 20.Qh4 Nf5 21.Qxd8 Rxd8 22.Rfd1 c6 23.Rac1 Kg7 24.Bf1 Ra7 25.Nc4 g5 26.fxg5 hxg5 27.Nb6 Bd6 28.Nxc8 Rxc8 29.e4 Ne7 30.e5 Bc7 31.Ne4 Rd8 32.Nxg5 Bb6 33.Nf3 Nf5 34.Rc4 c5 35.d5 Rxd5 36.Rg4+ Kf8 37.Rxd5 exd5 38.Rf4 Ng7 39.Ng5 Bd8 40.Rxf7+ Kg8 41.Bg2 Bxg5 42.Bxd5 Kh7 43.f4 Bh4 44.f5 Kh6 45.f6 Nh5 46.Be4 Kg5 47.Rh7 Ra8 48.f7 Rd8 49.Bf3 Nf4 50.Rg7+ Kf5 51.Bg4+ Kxe5 52.Rg8 Ng6 53.Rxg6 Rf8 54.Re6+ Kf4 55.Bh5 Bg5 56.Rb6 Ke5 57.Rxb7 Be3+ 58.Kg2 Kf6 59.Kf3 Bd4 60.Ke4 Kg5 61.Bd1 Kf6 62.Bh5 Kg5 63.Be2 Bg7 64.h3 Rd8 65.Rb5 Kf6 66.Bh5 Bf8 67.Rb6+ Kg5 68.Bg4 Bg7 69.Be6 Rd4+ 70.Ke3 Rd8 71.Bc4 Rf8 72.Kd3 Rh8 73.Be6 Bd4 74.Bd7 Bg7 75.Kc4 Rd8 76.Be8 Bf8 77.Bxa4 Rd4+ 78.Kb5 Rf4 79.Rb7 Kf6 80.Ka6 Rxa4+ 81.Kb5 Rh4 82.b4 Ke5 1/2-1/2

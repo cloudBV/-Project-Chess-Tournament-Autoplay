@@ -1,0 +1,15 @@
+[Event "Round 4: Ucoluk, Umut - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/jnPS93qL"]
+[Date "2026.07.15"]
+[Round "4.32"]
+[White "Ucoluk, Umut"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "1/2-1/2"]
+[WhiteElo "2094"]
+[BlackElo "2300"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.a3 b6 8.f4 Bb7 9.Bd3 Nc6 10.Nxc6 Qxc6 11.Qe2 Bc5 12.Be3 d6 13.O-O-O O-O-O 14.Kb1 Bxe3 15.Qxe3 Kb8 16.Rc1 Qc5 17.Qe2 h5 18.Rhf1 Rc8 19.g3 Rhd8 20.h3 h4 21.g4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.25"]
+[White "Zichenkov, Oleksandr"]
+[Black "Jurek, Josef"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2168"]
+[ECO "C00"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 b6 5.e5 Nfd7 6.g3 c5 7.Bg2 Nc6 8.Qe2 Qc7 9.O-O Ndxe5 10.Nxe5 Qxe5 11.Qd1 Qc7 12.c4 d4 13.Ne4 Be7 14.Qg4 Kf8 15.Ng5 Bd7 16.Qh5 Bxg5 17.Qxg5 Re8 18.a3 f6 19.Qh5 a5 20.g4 Ne5 21.Be4 Nf7 22.f4 g6 23.Qh4 f5 24.Bf3 Bc6 25.g5 Bxf3 26.Rxf3 e5 27.fxe5 Nxe5 28.Rg3 Qc6 0-1

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "5.8"]
+[White "Peng, Li Min"]
+[Black "Priansh Das"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2327"]
+[ECO "C02"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.Bd3 cxd4 6.O-O Nge7 7.Bf4 Ng6 8.Bg3 Be7 9.Re1 O-O 10.Nbd2 f5 11.h3 Bd7 12.Nb3 Qb6 13.a3 a5 14.Rb1 a4 15.Nbd2 Qc5 16.h4 Be8 17.b4 Qc3 18.Nb3 h5 19.Qc1 f4 20.Bh2 b6 21.Qd1 Nxh4 22.Nfxd4 Nd8 23.Nc1 Qxa3 24.c4 dxc4 25.Be4 Rc8 26.Re2 Bg6 27.Bxg6 Nxg6 28.Nb5 Qxb4 29.Rxb4 Bxb4 30.Qxa4 Bc5 31.Nd6 Rc7 32.Re4 f3 33.g4 h4 34.Rxc4 Nc6 35.Nd3 Nd4 36.Rxd4 Bxd4 37.Qxd4 Rc2 38.Bf4 1-0

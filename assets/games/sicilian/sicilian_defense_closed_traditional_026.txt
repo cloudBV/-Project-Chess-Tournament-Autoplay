@@ -1,0 +1,15 @@
+[Event "Round 9: Alonso Moyano, Jonathan - De Lomas Busquets, Alba"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-9/hsnrpVn3/NfUPRrFn"]
+[Date "2026.07.12"]
+[Round "9.5"]
+[White "Alonso Moyano, Jonathan"]
+[Black "De Lomas Busquets, Alba"]
+[Result "1-0"]
+[WhiteElo "2202"]
+[BlackElo "2061"]
+[ECO "B23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Bc4 e6 5.Nge2 a6 6.a4 Nc6 7.d4 cxd4 8.Nxd4 Bc5 9.Nb3 Ba7 10.O-O Nge7 11.Qe2 O-O 12.Be3 Bxe3 13.Qxe3 d5 14.Rfd1 Na5 15.Nxa5 Qxa5 16.exd5 exd5 17.Qxe7 dxc4 18.Rd5 Qb6 19.a5 Qg6 20.Rd8 Qf6 21.Nb1 1-0

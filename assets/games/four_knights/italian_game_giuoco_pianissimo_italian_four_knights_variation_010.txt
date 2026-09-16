@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "7.1"]
+[White "Nielsen, Andre"]
+[Black "Skotheim, Andreas"]
+[Result "1/2-1/2"]
+[WhiteElo "2300"]
+[BlackElo "2234"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 a6 6.Be3 Bxe3 7.fxe3 d6 8.a4 O-O 9.Qe2 Ne7 10.O-O Ng6 11.a5 h6 12.b4 Qe7 13.Rab1 Be6 14.Nd2 c6 15.Bxe6 Qxe6 16.Na4 Rad8 17.c4 d5 18.Nc5 Qe7 19.Rb3 d4 20.exd4 Rxd4 21.Nf3 Rdd8 22.Rfb1 Nd7 23.Qe3 Nxc5 24.Qxc5 Rfe8 25.Qxe7 Rxe7 26.Kf2 Nf4 27.Rd1 Ne6 28.Ke3 Nd4 29.Nxd4 Rxd4 30.Ra1 Red7 31.Raa3 f6 32.b5 cxb5 33.cxb5 axb5 34.Rxb5 Rc7 35.Rab3 Ra4 36.Rxb7 1/2-1/2

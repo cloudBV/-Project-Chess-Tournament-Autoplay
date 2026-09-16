@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-7/ts4Tbc2j/EiuW2yXE"]
+[Date "2026.07.23"]
+[Round "7.6"]
+[White "Castro Miguelez, Jose"]
+[Black "Belmonte Blasco, Maximo"]
+[Result "1/2-1/2"]
+[WhiteElo "2059"]
+[BlackElo "2002"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 a6 7.Nc4 Nbd7 8.Be2 b5 9.Ne3 Qc6 10.O-O Be7 11.a4 Bb7 12.axb5 axb5 13.Rxa8+ Bxa8 14.dxc5 Qxc5 15.Nd4 b4 16.cxb4 Qxb4 17.Nec2 Qb6 18.b4 O-O 19.Be3 Bxb4 20.Nb3 Qb8 21.Nxb4 Qxb4 22.Nd4 Nd5 23.Qd2 Qb8 24.Bg5 h6 25.Bh4 Qf4 26.Qxf4 Nxf4 27.Bf3 Ne5 28.Bxa8 Rxa8 29.Bg3 Neg6 30.Bxf4 Nxf4 31.g3 Ra4 32.Nf3 Nd5 33.Rb1 Ra2 34.Rb8+ Kh7 35.Rb7 f6 36.Nd4 Ra1+ 37.Kg2 Re1 38.Rd7 Re4 39.Nxe6 Ne3+ 40.fxe3 Rxe6 41.Kf3 Kg6 42.g4 Re5 43.h4 h5 44.gxh5+ Rxh5 45.Kg3 Re5 46.Kf3 Rf5+ 47.Kg3 Rf1 48.Kg2 Re1 49.Kf2 Rh1 50.Kg3 Rg1+ 51.Kf3 Kh5 52.Rd4 Rf1+ 53.Kg3 Rf5 54.Rd7 Kg6 55.Rb7 Rf1 56.Rb5 Ra1 57.Rb7 Ra4 58.Re7 f5 59.Re6+ Kh5 60.Re7 Rg4+ 61.Kf3 Kxh4 62.Rf7 g6 63.Rf8 Ra4 64.Rf7 Kg5 65.Rf8 Rb4 66.Rg8 Kf6 67.Rf8+ Kg7 68.Ra8 g5 69.Ra6 Re4 70.Rb6 Kf7 71.Ra6 Re6 72.Ra8 Rb6 73.Rc8 Rb3 74.Rc5 Kg6 75.Kf2 g4 76.Rc8 Rb2+ 77.Kg3 Re2 78.Re8 Kf7 79.Re5 Kg6 80.Re8 Kf6 81.Rf8+ Ke6 82.Re8+ Kd5 83.Re7 Kc4 84.Re5 1/2-1/2

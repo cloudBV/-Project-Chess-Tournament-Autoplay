@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.18"]
+[Round "6.3"]
+[White "Vasquez Toledo, Cristian"]
+[Black "Ramirez Camilla, Agustin"]
+[Result "1/2-1/2"]
+[WhiteElo "2271"]
+[BlackElo "2044"]
+[ECO "B42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O Qc7 7.Re1 d6 8.b3 Nbd7 9.Bb2 Be7 10.Nd2 O-O 11.a4 b6 12.c4 Bb7 13.Bc2 Rac8 14.Rc1 Qb8 15.Qf3 Rfe8 16.Qh3 Bf8 17.N4f3 h6 18.e5 dxe5 19.Nxe5 Bd6 20.Nxd7 Nxd7 21.Ne4 Be5 22.Bxe5 Nxe5 23.Qg3 Bxe4 24.Bxe4 Red8 25.Bh7+ 1/2-1/2

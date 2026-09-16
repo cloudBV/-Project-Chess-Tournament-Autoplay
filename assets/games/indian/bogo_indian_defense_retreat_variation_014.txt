@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-9/Yar24TEc/KSWh4ExW"]
+[Date "2026.07.05"]
+[Round "9.13"]
+[White "Arias Gaviria, Mario Alexis"]
+[Black "Proudian, Armen"]
+[Result "1-0"]
+[WhiteElo "2301"]
+[BlackElo "2401"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 Nbd7 9.b4 Ne4 10.Be1 b6 11.a4 a5 12.bxa5 bxa5 13.c5 f5 14.Nbd2 Ba6 15.Nb3 Bc4 16.Bc3 Nxc3 17.Qxc3 Bxe2 18.Rfe1 Bxf3 19.Bxf3 Rf6 20.Re2 Nf8 21.Rb1 Rf7 22.Nc1 Bf6 23.Rb6 Qc8 24.Nd3 Rfa7 25.h4 Bd8 26.Rb3 Bc7 27.Reb2 Rb8 28.Rxb8 Bxb8 29.Qe1 Bc7 30.Ne5 Bxe5 31.Qxe5 Rb7 32.Rb6 Kf7 33.Bh5+ g6 34.Be2 Nd7 35.Rxb7 Qxb7 36.Qh8 Nf6 37.Qd8 Qb2 38.Qc7+ Kf8 39.Qd6+ Kf7 40.Qc7+ Kg8 41.Qd8+ Kf7 42.Qc7+ Kf8 43.Qd6+ Kf7 44.Qc7+ Kg8 45.Qd8+ Kf7 46.Qc7+ Kg8 47.Bf3 Qa1+ 48.Kg2 Qxa4 49.Qd8+ Kf7 50.Qc7+ Ke8 51.Qb8+ Kd7 52.Qd6+ Kc8 53.Qf8+ Kb7 54.Qxf6 Qb4 55.Qe7+ Kb8 56.Qd8+ Kb7 57.Qd7+ Kb8 58.Qxc6 Qxd4 59.Qb6+ Kc8 60.Qxe6+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Borischik, Sergey - Piesik, Piotr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/h5HqqcBK"]
+[Date "2026.07.19"]
+[Round "6.10"]
+[White "Borischik, Sergey"]
+[Black "Piesik, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2202"]
+[BlackElo "2412"]
+[ECO "C15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nc6 6.Ne2 Nge7 7.O-O Bf5 8.Be3 Qd7 9.a3 Bxd3 10.Qxd3 Bd6 11.Nb5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 6: Pressler, Tobias - Kaim, Piotr"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/t0uA4d6x"]
+[Date "2026.07.19"]
+[Round "6.34"]
+[White "Pressler, Tobias"]
+[Black "Kaim, Piotr"]
+[Result "0-1"]
+[WhiteElo "2182"]
+[BlackElo "2069"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O 9.O-O cxd5 10.Bg5 c6 11.Qf3 Bd6 12.Rfe1 Rb8 13.Rab1 h6 14.Bh4 Rb4 15.Bg3 Bg4 16.Bxd6 Qxd6 17.Qg3 Qxg3 18.hxg3 Rfb8 19.b3 c5 20.Na4 c4 21.c3 R4b7 22.Bc2 cxb3 23.axb3 a5 24.f3 Bc8 25.Kf2 Rc7 26.Rec1 Bd7 27.Ke2 Nh5 28.Kf2 Nf6 29.Ke2 Kf8 30.Kd2 Nh5 31.g4 Nf4 32.g3 Ne6 33.Nb2 d4 34.c4 Bc6 35.Bd1 Ng5 36.Kd3 Bxf3 37.Kxd4 Rd8+ 38.Ke3 Re7+ 39.Kf2 Rd2+ 40.Kf1 Bg2+ 41.Kg1 Re1+ 0-1

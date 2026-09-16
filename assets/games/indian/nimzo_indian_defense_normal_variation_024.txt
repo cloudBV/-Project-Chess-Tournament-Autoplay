@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "4.7"]
+[White "Rosol, Philip"]
+[Black "Durzynski, Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2210"]
+[BlackElo "2004"]
+[ECO "E47"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 Nc6 7.O-O cxd4 8.exd4 d5 9.cxd5 Nxd5 10.a3 Be7 11.Bc2 b6 12.Qd3 g6 13.Bh6 Re8 14.Rad1 Bf8 15.Bxf8 Rxf8 16.Rfe1 Bb7 17.Qh3 Nxc3 18.bxc3 Na5 19.Nf4 Qd6 20.Nh5 f5 21.Ng3 Bd5 22.Qh6 Rf7 23.h4 Qxa3 24.h5 Qf8 25.Qf4 Rc8 26.Rd3 b5 27.Rde3 Rc6 28.Nf1 Nc4 29.Rg3 Rg7 30.Bd1 a5 31.Bf3 a4 32.Bxd5 exd5 33.hxg6 hxg6 34.Rh3 a3 35.Rh6 Rf6 36.Qh2 Qd6 37.Rh8+ Kf7 38.Qxd6 Rxd6 39.Ra8 Kf6 40.Ne3 Re7 41.Kf1 Ree6 42.Nxc4 bxc4 43.Rxa3 Rb6 44.Rxe6+ Kxe6 45.Ke2 Rb2+ 46.Ke3 g5 47.g3 Rb6 48.Ke2 1/2-1/2

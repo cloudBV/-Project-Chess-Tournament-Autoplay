@@ -1,0 +1,14 @@
+[Event "Round 3: Mantazis, Georgios Rafail - Krush, Irina"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/02IBhgcy"]
+[Date "2026.07.19"]
+[Round "3.19"]
+[White "Mantazis, Georgios Rafail"]
+[Black "Krush, Irina"]
+[Result "1-0"]
+[WhiteElo "2134"]
+[BlackElo "2401"]
+[ECO "B53"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 Nf6 6.c4 g6 7.Be2 Bg7 8.Nc3 Ng4 9.Qd2 O-O 10.b3 Nge5 11.Bb2 Nxf3+ 12.Bxf3 Nd4 13.Bd1 Qa5 14.a3 Be6 15.O-O Rfc8 16.Rc1 a6 17.b4 Qd8 18.Na4 Bxc4 19.Bxd4 Bxd4 20.Qxd4 Bxf1 21.Rxc8 Rxc8 22.Kxf1 e6 23.e5 b5 24.exd6 bxa4 25.d7 Rc1 26.Ke2 f6 27.Bxa4 Kf7 28.Qd6 Rc3 29.b5 axb5 30.Bxb5 Rc2+ 31.Kd1 Rxf2 32.Bc4 Kg7 33.Qxe6 Rf4 34.Bd5 Qa5 35.Qe7+ Kh6 36.d8=Q Rd4+ 37.Ke2 Qd2+ 38.Kf1 Qd1+ 39.Kf2 Rd2+ 40.Kg3 Rd3+ 41.Bf3 1-0

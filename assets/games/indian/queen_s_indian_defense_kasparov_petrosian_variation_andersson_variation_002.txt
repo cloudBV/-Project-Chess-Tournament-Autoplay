@@ -1,0 +1,15 @@
+[Event "Round 9: Chasin, Nico - Oparin, Grigoriy"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/Yd41Gfpv"]
+[Date "2026.07.04"]
+[Round "9.10"]
+[White "Chasin, Nico"]
+[Black "Oparin, Grigoriy"]
+[Result "1-0"]
+[WhiteElo "2513"]
+[BlackElo "2670"]
+[ECO "E12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 Ne4 6.Nxe4 Bxe4 7.e3 Be7 8.Bd3 Bxd3 9.Qxd3 d6 10.O-O Nd7 11.b3 a5 12.Bb2 O-O 13.Rac1 Re8 14.Rfd1 Qc8 15.Qe4 c6 16.h3 h6 17.Rc2 Bf8 18.Qd3 Qb7 19.Rdc1 c5 20.Rd1 a4 21.d5 exd5 22.cxd5 axb3 23.Qxb3 b5 24.Qd3 Qa6 25.e4 Qa4 26.Re1 c4 27.Qc3 Nc5 28.Rce2 Nd3 29.Rb1 Nxb2 30.Rbxb2 Qxa3 31.Qxa3 Rxa3 32.Rxb5 g6 33.Rb6 c3 34.Rc6 Bg7 35.Rxd6 Rc8 36.Rc2 Rb3 37.e5 Rb2 38.Rc6 Rd8 39.R2xc3 Rxd5 40.Rc8+ Kh7 41.R3c7 g5 42.Rxf7 Kg6 43.Re7 Rd1+ 44.Kh2 Rxf2 45.Rc6+ 1-0

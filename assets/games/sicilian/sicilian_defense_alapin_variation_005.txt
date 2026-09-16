@@ -1,0 +1,15 @@
+[Event "Round 8: Kakavand, Ramtin - Shaurya Chaudhary"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-8/GUsARlGX/gUFBKYIo"]
+[Date "2026.07.03"]
+[Round "8.9"]
+[White "Kakavand, Ramtin"]
+[Black "Shaurya Chaudhary"]
+[Result "1-0"]
+[WhiteElo "2087"]
+[BlackElo "2081"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e5 3.Nf3 Nc6 4.Bc4 Nf6 5.d3 Be7 6.O-O O-O 7.Re1 d6 8.a4 h6 9.h3 Re8 10.Qb3 Rf8 11.Qc2 Re8 12.Nbd2 Bf8 13.Nf1 g6 14.Ng3 Bg7 15.Be3 Be6 16.Rad1 Rc8 17.Bxe6 Rxe6 18.Qd2 Kh7 19.b4 cxb4 20.cxb4 a5 21.bxa5 Qxa5 22.Qb2 Qxa4 23.Qxb7 Qa8 24.Qxf7 Nd8 25.Qa7 Qxa7 26.Bxa7 d5 27.Rc1 Rec6 28.Ra1 Nf7 29.Be3 Rc3 30.Ra7 R8c7 31.Rxc7 Rxc7 32.Ra1 dxe4 33.dxe4 Nd6 34.Nd2 Nc4 35.Rc1 1-0

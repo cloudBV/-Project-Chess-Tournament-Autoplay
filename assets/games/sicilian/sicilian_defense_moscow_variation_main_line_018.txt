@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.08"]
+[Round "7.8"]
+[White "Erdogdu, Aziz Mert"]
+[Black "Shukhman, Anna"]
+[Result "1/2-1/2"]
+[WhiteElo "2361"]
+[BlackElo "2443"]
+[ECO "B52"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O e6 6.b3 Be7 7.Bb2 Bf6 8.d4 cxd4 9.Nxd4 Ne7 10.Nd2 O-O 11.Qe2 Rc8 12.c4 Qa5 13.Rfd1 a6 14.a4 Rfd8 15.N2f3 Qh5 16.Rd2 g5 17.h3 Ng6 18.Rad1 Nf4 19.Qe3 Ne5 20.Nxe5 dxe5 21.Nf3 Rxd2 22.Rxd2 g4 23.hxg4 Qxg4 24.g3 Nh3+ 25.Kg2 Nf4+ 26.Kg1 Nh3+ 27.Kg2 Nf4+ 28.Kg1 Nh3+ 29.Kf1 Ng5 30.Nxg5 Bxg5 31.Qc3 Bxd2 32.Qxe5 Kf8 33.Qh8+ Ke7 34.Qxc8 Qxe4 35.Ba3+ Kf6 36.Bb2+ Ke7 37.Qh8 1/2-1/2

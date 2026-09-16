@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.6"]
+[White "Craciun, Sasha-Matei"]
+[Black "Hovakimyan, Vache"]
+[Result "1/2-1/2"]
+[WhiteElo "2256"]
+[BlackElo "2327"]
+[ECO "C47"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.h3 g6 5.Bc4 Bg7 6.d3 d6 7.a4 O-O 8.a5 a6 9.O-O h6 10.Re1 Kh7 11.Bb3 Be6 12.Bxe6 fxe6 13.Ne2 Nh5 14.Ng3 Nxg3 15.fxg3 Qd7 16.Qe2 Rf7 17.Be3 Raf8 18.c3 d5 19.Bc5 Re8 20.Kh2 Nb8 21.Ba7 Nc6 22.Bc5 Nd8 23.d4 exd4 24.Bxd4 Bxd4 25.Nxd4 Nc6 26.Nxc6 Qxc6 27.exd5 Qxd5 28.Ra4 e5 29.Rb4 c6 30.Rf1 Rxf1 31.Qxf1 Re7 32.Qf8 Qf7 33.Qxf7+ Rxf7 34.Re4 Re7 35.g4 Kg7 36.Kg3 Kf6 37.Kf3 Rd7 38.Ke3 Rd5 39.b4 Ke6 40.Ke2 c5 41.Re3 cxb4 42.cxb4 Rb5 43.Re4 Kd5 44.Kd3 b6 45.axb6 Rxb6 46.g5 h5 47.Rc4 Rb5 48.Re4 a5 49.bxa5 Rb3+ 50.Kc2 Ra3 51.Rb4 Rxa5 52.Kd3 Ra2 53.Rb6 Rxg2 54.Rxg6 Rg3+ 55.Ke2 Rxh3 56.Kf2 Ke4 57.Rg8 Rf3+ 58.Kg2 h4 59.g6 Rg3+ 60.Kf2 Rg5 61.g7 h3 62.Rh8 Rg2+ 63.Ke1 h2 64.Rxh2 Rxg7 65.Rh3 1/2-1/2

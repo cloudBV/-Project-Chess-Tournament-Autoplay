@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "19.4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Gukesh D"]
+[Result "1-0"]
+[WhiteElo "2820"]
+[BlackElo "2655"]
+[ECO "B12"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.c3 a6 7.Be3 Nxe5 8.Nbd2 Nf6 9.Be2 Nc6 10.h3 Bxf3 11.Nxf3 g6 12.O-O Bg7 13.Qb3 Qc7 14.Rad1 O-O 15.Qa4 Rfd8 16.Rfe1 e6 17.Bf4 e5 18.Be3 Ne7 19.b4 Nf5 20.Bg5 h6 21.Bc1 d4 22.Bb2 dxc3 23.Bxc3 Nd5 24.Ba1 e4 25.Nd4 Nxd4 26.Bxd4 Nc3 27.Bxc3 Bxc3 28.Rf1 a5 29.Rxd8+ Rxd8 30.Qxa5 Qxa5 31.bxa5 Bxa5 32.Rb1 Rd7 33.Kf1 Kf8 34.Rb3 Ke7 35.f3 f5 36.fxe4 fxe4 37.Re3 Rd4 38.Bf3 Bd2 39.Rxe4+ Rxe4 40.Bxe4 g5 41.Bxb7 h5 42.Bf3 h4 43.Ke2 Bb4 44.c6 Bd6 45.Kd3 Kd8 46.Kc4 Kc7 47.a4 Bg3 48.a5 Be1 49.a6 Bf2 50.Kd5 Be3 51.Ke4 Bf2 52.Kf5 Be3 53.g4 hxg3 54.a7 Bxa7 55.Kxg5 Kd6 56.h4 Bd4 57.h5 Be5 58.h6 Ke7 59.Kf5 Bc3 60.h7 Bd4 61.Ke4 Bc3 62.Kd5 Ba5 63.h8=Q 1-0

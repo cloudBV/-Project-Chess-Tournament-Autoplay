@@ -1,0 +1,14 @@
+[Event "Round 7: Smirin, Ilia - Bharath Subramaniyam H"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/L2CoejSB"]
+[Date "2026.07.24"]
+[Round "7.4"]
+[White "Smirin, Ilia"]
+[Black "Bharath Subramaniyam H"]
+[Result "1/2-1/2"]
+[WhiteElo "2568"]
+[BlackElo "2591"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.a4 g6 7.Nc3 Bg7 8.h3 O-O 9.Be3 Ne7 10.Qd2 Kh7 11.d4 d5 12.dxe5 Nxe4 13.Nxe4 dxe4 14.Nd4 Nf5 15.Nxf5 Bxf5 16.g4 Be6 17.Qxd8 Raxd8 18.Bxe6 fxe6 19.a5 Bxe5 20.Ra4 b6 21.b3 Bf4 22.Rxe4 Bxe3 23.fxe3 Rxf1+ 24.Kxf1 Rd6 25.Ke2 Kg7 26.Rc4 c6 27.h4 Kf6 28.Rf4+ Ke7 29.axb6 axb6 30.Ra4 c5 31.Ra7+ Rd7 32.Rxd7+ Kxd7 33.Kd3 Kd6 34.Ke4 b5 35.c3 e5 36.Kf3 1/2-1/2

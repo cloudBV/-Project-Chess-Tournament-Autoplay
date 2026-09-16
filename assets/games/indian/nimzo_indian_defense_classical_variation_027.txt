@@ -1,0 +1,14 @@
+[Event "Round 7: Born, Mario - Heinke, Jasper"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/JcM92D8w"]
+[Date "2026.07.23"]
+[Round "6.19"]
+[White "Born, Mario"]
+[Black "Heinke, Jasper"]
+[Result "1/2-1/2"]
+[WhiteElo "2093"]
+[BlackElo "2064"]
+[ECO "E32"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.dxc5 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5 9.b4 Nce4 10.Qc2 a5 11.Rb1 axb4 12.axb4 d5 13.e3 Bd7 14.cxd5 Ba4 15.Qd3 Rc8 16.Ra1 Qd6 17.Ba3 Rc3 18.Qd4 Rfc8 19.Bb2 R3c4 20.Bxc4 Qxb4+ 21.Nd2 e5 22.Rxa4 Qxa4 23.Qxe5 Nxd2 24.Kxd2 Qb4+ 25.Bc3 Qxc4 26.f3 Qa2+ 27.Bb2 Qa5+ 28.Bc3 Qa2+ 29.Bb2 Qa5+ 30.Bc3 Qa2+ 1/2-1/2

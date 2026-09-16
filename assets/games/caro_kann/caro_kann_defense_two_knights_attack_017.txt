@@ -1,0 +1,15 @@
+[Event "Round 6: Om Batra - Aloma Vidal, Robert"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-6/SDE6E1pr/k1rX4v1j"]
+[Date "2026.07.09"]
+[Round "6.10"]
+[White "Om Batra"]
+[Black "Aloma Vidal, Robert"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2343"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Qa5 7.b4 Qd5 8.Bd3 Qxe4+ 9.Bxe4 Nd7 10.a3 a5 11.Rb1 axb4 12.axb4 Nf6 13.Bd3 Nd5 14.g3 e5 15.Nxe5 Nxb4 16.Bc4 Nxc2+ 17.Kd1 Nd4 18.Bxf7+ Kd8 19.Bh5 Kc7 20.d3 g6 21.Bg4 Bxg4+ 22.Nxg4 b5 23.Re1 Bc5 24.Bf4+ Kb7 25.Re5 Ba3 26.Re4 Rhd8 27.Bg5 Rd5 28.Be7 Nf5 29.Bxa3 Rxd3+ 30.Ke2 Rdxa3 31.Ne3 Ra2+ 32.Kf3 Nxe3 33.Rxe3 Rf8+ 34.Kg4 Rf7 35.h4 Raxf2 36.Rc1 R2f5 37.Re6 Rc7 38.Rb1 Kb6 39.Rb2 Rc5 40.Re8 Rc3 41.Re4 Rd7 42.Kg5 Rxg3+ 43.Kh6 Rgd3 44.Rc2 R3d5 0-1

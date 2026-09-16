@@ -1,0 +1,14 @@
+[Event "Round 3: Strache, Michael - Korten, Lando"]
+[Site "https://lichess.org/broadcast/german-cup-championship-2026-dpem/round-3/zW3muafQ/CTEHutvQ"]
+[Date "2026.07.24"]
+[Round "3.2"]
+[White "Strache, Michael"]
+[Black "Korten, Lando"]
+[Result "1/2-1/2"]
+[WhiteElo "2259"]
+[BlackElo "2256"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 d6 6.d4 c5 7.c4 d5 8.dxc5 dxc4 9.O-O Qc7 10.Nbd2 cxb3 11.Nxb3 Rd8 12.Be5 Rxd1 13.Bxc7 Rxa1 14.Rxa1 Nc6 15.Rd1 Be6 16.Nfd4 Bd5 17.Nxc6 bxc6 18.Be5 Ne4 19.Bxg7 Kxg7 20.Bxe4 Bxe4 21.Rd7 Kf8 22.Na5 Rb8 23.f3 Rb5 24.Rxa7 Bd5 25.e4 Bxa2 26.Nxc6 Rxc5 27.Nxe7 Rc1+ 1/2-1/2

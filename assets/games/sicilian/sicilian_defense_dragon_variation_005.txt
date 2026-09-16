@@ -1,0 +1,15 @@
+[Event "Round 5: Brnusak, Tomas - Havelka, Josef"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/Cr2wQvtC"]
+[Date "2026.07.18"]
+[Round "5.11"]
+[White "Brnusak, Tomas"]
+[Black "Havelka, Josef"]
+[Result "0-1"]
+[WhiteElo "2323"]
+[BlackElo "2346"]
+[ECO "B72"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 a6 7.h3 Nbd7 8.g4 h6 9.Qd2 b5 10.Bg2 Bb7 11.g5 hxg5 12.Bxg5 e5 13.Nb3 Be7 14.h4 b4 15.Nd5 Nxd5 16.exd5 a5 17.a3 Bxg5 18.hxg5 Rxh1+ 19.Bxh1 Qb6 20.axb4 axb4 21.Rxa8+ Bxa8 22.Qd3 Bb7 23.Be4 Ba6 24.Qh3 Qb5 25.Bd3 Qa4 26.Kd2 Ke7 27.Nc1 Bxd3 28.Nxd3 b3 29.c3 Qa1 30.Qf3 Qg1 31.Qe3 Kf8 32.c4 Qb1 33.Kc3 Qc2+ 34.Kb4 e4 35.Ne1 Qxb2 36.Qxb3 Qxf2 37.Nc2 Qc5+ 38.Kc3 Nb6 39.Qb5 Nxd5+ 40.Kb3 Nb6 41.Qxc5 dxc5 42.Kc3 Ke7 43.Na1 Kd6 44.Nb3 Nd7 45.Kd2 Ne5 46.Ke3 Nxc4+ 47.Kxe4 Nb6 48.Nd2 Ke6 49.Nb3 Nd7 50.Na5 Nf8 51.Nb7 Nh7 52.Nxc5+ Kd6 53.Nb7+ Kc7 54.Nc5 Nxg5+ 55.Ke5 Nh7 56.Ne4 Kd7 57.Nc3 f6+ 58.Kd5 Ng5 59.Na4 Ke7 60.Nb6 f5 61.Ke5 Nf7+ 62.Kf4 Ke6 63.Nc4 g5+ 64.Kg3 Ne5 65.Nd2 f4+ 66.Kg2 Kf5 67.Kf2 g4 68.Kg2 Nd3 69.Nf1 Ke4 70.Nh2 Ne5 71.Nf1 Nf3 72.Kf2 Kd3 73.Kg2 Ke2 74.Kh1 Nh4 75.Nh2 g3 76.Ng4 f3 77.Nf2 gxf2 0-1

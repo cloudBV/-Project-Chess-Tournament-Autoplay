@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.16"]
+[White "Adamovics, Aleksejs"]
+[Black "Maiwald, Jens-Uwe"]
+[Result "1/2-1/2"]
+[WhiteElo "2176"]
+[BlackElo "2416"]
+[ECO "A46"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.e3 g6 4.Be2 Bg7 5.O-O O-O 6.b3 c5 7.Bb2 cxd4 8.Nxd4 d5 9.c4 dxc4 10.Bxc4 a6 11.Be2 Bd7 12.Nd2 Nc6 13.N2f3 Rc8 14.Rc1 Qa5 15.a3 Nb8 16.b4 Qd5 17.Qb3 Qxb3 18.Nxb3 b6 19.Nfd2 Ba4 20.Nd4 Nfd7 21.Rxc8 Rxc8 22.Rc1 Rxc1+ 23.Bxc1 e5 24.N4f3 b5 25.e4 Nc6 26.Bd3 a5 27.bxa5 Nc5 28.Bb1 Nxa5 29.Kf1 f6 30.Bb2 Bf8 31.Bc3 Nc6 32.Ke2 Kg7 33.Bb2 b4 34.axb4 Bb5+ 35.Kd1 Nxb4 36.Ne1 Na4 37.Ba1 Bc5 38.f3 Bg1 39.h3 h5 40.Nb3 Bb6 41.Nc1 Bf1 42.Ncd3 Nc6 43.Bc2 Nc5 44.Nxc5 Bxc5 45.Bd3 Bxd3 46.Nxd3 Bd4 47.Bxd4 1/2-1/2

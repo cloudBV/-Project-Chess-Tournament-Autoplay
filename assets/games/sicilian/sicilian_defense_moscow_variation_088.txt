@@ -1,0 +1,14 @@
+[Event "Round 5: Xu, Chang(CQ) - Kukushkin, Ivan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/bzqlFJXN"]
+[Date "2026.07.19"]
+[Round "5.14"]
+[White "Xu, Chang(CQ)"]
+[Black "Kukushkin, Ivan"]
+[Result "0-1"]
+[WhiteElo "2049"]
+[BlackElo "2265"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.d4 cxd4 9.cxd4 e5 10.d5 Nd4 11.Nc3 Be7 12.Be3 Nxf3+ 13.gxf3 Bd7 14.Kh1 Nh5 15.Qd2 O-O 16.Bd3 f5 17.exf5 Bxf5 18.Be4 Qd7 19.Rg1 Kh8 20.Rac1 b5 21.a3 Nf6 22.Qe2 Nxe4 23.fxe4 Bg6 24.Rg2 Qh3 25.Rg3 Qh4 26.Qg4 Qxg4 27.Rxg4 Rac8 28.Rcg1 Bh5 29.R4g3 Bf3+ 30.Rxf3 Rxf3 31.Kg2 Rff8 32.Kf1 Rc4 33.Ke2 Rfc8 34.Kd3 b4 35.axb4 Rxb4 36.Bc1 a5 37.Rf1 Rd4+ 38.Ke2 a4 39.f4 exf4 40.Rxf4 Bf6 41.Rf3 a3 42.bxa3 Rdc4 43.e5 Bxe5 44.Bd2 Bxc3 0-1

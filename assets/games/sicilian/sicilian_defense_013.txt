@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "6.1"]
+[White "Blauhut, Holger"]
+[Black "Haugen, Lars Tormod"]
+[Result "0-1"]
+[WhiteElo "2073"]
+[BlackElo "2031"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.Be2 Nc6 3.f4 e6 4.Nf3 d5 5.d3 Bd6 6.e5 Bc7 7.c3 Nge7 8.O-O O-O 9.d4 cxd4 10.cxd4 Nf5 11.g4 Nfxd4 12.Nxd4 Nxd4 13.Bd3 f6 14.exf6 Qxf6 15.Be3 Nc6 16.Nc3 a6 17.Qf3 Bd7 18.Qh3 Qh6 19.Qxh6 gxh6 20.Bd2 Nb4 21.Bb1 Bb6+ 22.Kg2 Bc6 23.Kg3 a5 24.a3 Na6 25.Ba2 Kg7 26.Rae1 Nc5 27.Be3 Rae8 28.Bd4+ Kg8 29.f5 Na4 30.Be5 Nxc3 31.bxc3 exf5 32.Rxf5 Rxf5 33.gxf5 Rxe5 34.Rxe5 Bc7 35.Kf4 Kf7 0-1

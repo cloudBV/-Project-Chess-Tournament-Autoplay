@@ -1,0 +1,14 @@
+[Event "Round 4: Erdogmus, Yagiz Kaan - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-rapid/round-4/dN8M6vVR/TjRiPmka"]
+[Date "2026.07.12"]
+[Round "4.2"]
+[White "Erdogmus, Yagiz Kaan"]
+[Black "Suleymanli, Aydin"]
+[Result "1/2-1/2"]
+[WhiteElo "2493"]
+[BlackElo "2561"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Czerniak Attack"]
+
+1.e4 c5 2.b3 Nc6 3.Bb2 e5 4.Bb5 d6 5.Ne2 Nf6 6.Bxc6+ bxc6 7.d3 h5 8.f4 Ng4 9.Qd2 exf4 10.Qxf4 Be7 11.O-O Be6 12.Qf3 Ne5 13.Bxe5 dxe5 14.Nd2 Bg5 15.Nc4 Bxc4 16.dxc4 Qe7 17.Rad1 g6 18.Nc3 O-O 19.Na4 Rad8 20.g3 h4 21.Kg2 Kg7 22.c3 hxg3 23.hxg3 Rh8 24.Qg4 Be3 25.Qf3 Bg5 26.Qg4 Be3 27.Qf3 Bg5 28.Qg4 Be3 1/2-1/2

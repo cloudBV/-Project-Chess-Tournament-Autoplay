@@ -1,0 +1,14 @@
+[Event "Round 4: Duijker, Rick - Nemegeer, Arne"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/rDtunaTU"]
+[Date "2026.07.24"]
+[Round "4.17"]
+[White "Duijker, Rick"]
+[Black "Nemegeer, Arne"]
+[Result "1/2-1/2"]
+[WhiteElo "2195"]
+[BlackElo "2292"]
+[ECO "B66"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O Be7 10.Bxf6 gxf6 11.Bc4 Bb7 12.Rhe1 Qc7 13.Qe2 Qa5 14.Bb3 O-O-O 15.Rd3 h5 16.Kb1 Kb8 17.h4 d5 18.Red1 Qc7 19.g3 Qe5 20.f4 Qc7 21.a3 Ka8 22.Na4 dxe4 23.Qxe4 c5 24.Qc4 Rxd3 25.Rxd3 Kb8 26.f5 e5 27.Qxf7 e4 28.Rc3 Qe5 29.Nb6 Ka7 30.Nd7 Qd6 31.Nxc5 e3 32.Rxe3 Qd1+ 33.Ka2 Bxc5 34.Rd3 Qf1 35.Bd5 Rb8 36.Rb3 Bb6 37.Bxb7 Rxb7 38.Qxf6 Qf2 39.c4 Qc5 40.Rc3 Bc7 41.Qe6 Be5 42.Rb3 Rxb3 43.Kxb3 Qb6+ 44.Ka4 Qxb2 45.Qe7+ Kb8 46.Qd8+ Ka7 47.Qe7+ Kb8 48.Qd8+ Ka7 1/2-1/2

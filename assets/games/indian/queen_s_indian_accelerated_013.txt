@@ -1,0 +1,14 @@
+[Event "Round 2: Bin-Suhayl, Ieysaa - Demchenko, Anton"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/c3DNwU3L"]
+[Date "2026.07.06"]
+[Round "2.1"]
+[White "Bin-Suhayl, Ieysaa"]
+[Black "Demchenko, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2305"]
+[BlackElo "2588"]
+[ECO "A50"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.d5 e6 5.e4 Bb4 6.Bd3 Bxc3+ 7.bxc3 d6 8.Ne2 Nbd7 9.O-O Nc5 10.Ng3 Qe7 11.Be3 Nfd7 12.Re1 O-O-O 13.Bf1 g5 14.f3 Ne5 15.Nh1 Rhg8 16.Nf2 h5 17.Bd4 g4 18.f4 Ned7 19.Nd3 Nxd3 20.Bxd3 e5 21.fxe5 Nxe5 22.Rf1 Rde8 23.Rf4 Kb8 24.Qe2 Qg5 25.Raf1 Bc8 26.Bxe5 Qxe5 27.Qd2 Qg5 28.Qf2 h4 29.Qd4 Re5 30.Bc2 Rf8 31.Rf6 Re7 32.Ba4 Rg8 33.Bc6 Rg7 34.a4 Bb7 35.Bxb7 Kxb7 36.R6f5 Qh6 37.a5 Rg8 38.Rf6 Rg6 39.R6f4 Rg8 40.Rf6 Qg5 41.Qd3 Rge8 42.c5 dxc5 43.d6 c4 44.Qxc4 Qe3+ 45.Kh1 Qxe4 46.Qxe4+ Rxe4 47.Rxf7 Rc4 48.axb6 axb6 49.Kg1 Rxc3 50.Rg7 g3 51.dxc7 Rxc7 52.Rg4 gxh2+ 53.Kxh2 Rh8 54.Rff4 Rch7 55.Kh3 b5 56.Rf6 Ka7 57.Rb4 Rh5 58.Rg4 R8h7 59.Rff4 Ka6 60.Re4 Ka5 61.Ref4 R5h6 62.Re4 Rh8 63.Ref4 R6h7 64.Rf1 Rh5 65.Ra1+ Kb6 66.Rb1 R8h6 67.Rb2 Kc6 68.Rb1 Kc5 69.Rc1+ Kd6 70.Rb1 Kc6 71.Rb2 Rc5 72.Rxh4 Rc3+ 73.g3 Rg6 1/2-1/2

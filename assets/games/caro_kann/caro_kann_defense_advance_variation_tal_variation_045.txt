@@ -1,0 +1,14 @@
+[Event "Round 8: Gontsul, Artem - Loetscher, Roland"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-8/hNJ8mydD/Qr6Q4NIs"]
+[Date "2026.07.18"]
+[Round "8.3"]
+[White "Gontsul, Artem"]
+[Black "Loetscher, Roland"]
+[Result "1/2-1/2"]
+[WhiteElo "2164"]
+[BlackElo "2340"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.Nd2 e6 8.Nf3 Nh6 9.O-O Nf5 10.Nb3 Qb5 11.Qd1 c5 12.dxc5 Bxc5 13.c3 Nc6 14.Bg5 Rc8 15.Re1 a6 16.Nxc5 Qxc5 17.Rc1 Rc7 18.Qe2 Qc4 19.b3 Qxe2 20.Rxe2 b5 21.c4 dxc4 22.bxc4 b4 23.a3 a5 24.axb4 axb4 25.Be3 O-O 26.Bc5 Ra8 27.Rb1 Rb7 28.Reb2 Ra4 29.g3 Na5 30.Rxb4 Raxb4 31.Rxb4 Rxb4 32.Bxb4 Nxc4 33.Kf1 Nh6 34.Ke2 Ng4 35.Bc3 Kh7 36.Kd3 Nb6 37.Bd4 Nd5 38.Ng5+ Kg6 39.Ke4 Nh6 40.Nh3 Nf5 41.Bb2 Nfe7 42.Nf4+ Nxf4 43.Kxf4 Nd5+ 44.Ke4 Kh7 45.Kd4 g5 46.hxg5 Kg6 47.Bc1 Kf5 48.f3 Ne7 49.Ba3 Nc6+ 50.Ke3 Nxe5 51.Be7 Ng6 52.Bd8 Nf8 53.Be7 Nd7 54.Bd8 e5 55.Be7 Nb8 56.Bd8 Na6 57.Bf6 Nc5 58.Be7 Na4 59.Bf6 Nc3 60.Bd8 Nd5+ 61.Kd3 Nb4+ 62.Ke3 Nc6 63.Bf6 Na5 64.Kd3 Nb7 65.Be7 Ke6 66.Bb4 Kf5 67.Be7 Na5 68.Bd8 Nc6 69.Bf6 Nb8 70.Ke3 Nd7 71.Be7 Ke6 72.Bd8 Kd5 73.Be7 Nb6 74.Bd8 Nc4+ 75.Kd3 Nd6 76.Ke3 Nf5+ 77.Kf2 Ke6 78.Bf6 Kd6 79.Bh8 Kd5 80.Bf6 Ke6 81.Bh8 Nd6 82.Ke3 Kf5 83.Bf6 Ne8 84.Bd8 Ng7 85.Bf6 Ne6 86.g4+ hxg4 87.fxg4+ Kxg4 88.Ke4 Nxg5+ 89.Kxe5 Nh7 90.Kd6 Kf5 91.Bc3 Kg5 92.Bd2+ Kg4 93.Ke5 f5 94.Bh6 Ng5 95.Bf8 f4 96.Bc5 f3 97.Ba7 Kg3 98.Kf5 Nf7 99.Bc5 Nd8 100.Ke4 Nc6 101.Kf5 Nb4 102.Ke4 Kg2 103.Bb6 Nc2 104.Kd3 Ne1+ 105.Kd2 Kf1 106.Ke3 f2 107.Ke4 Ke2 108.Bxf2 Kxf2 1/2-1/2

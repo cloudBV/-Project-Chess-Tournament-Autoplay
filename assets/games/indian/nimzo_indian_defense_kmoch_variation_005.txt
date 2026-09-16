@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-5/2jIIDLpk/rrivXRO6"]
+[Date "2026.07.04"]
+[Round "5.10"]
+[White "Sliwerski, Radoslaw"]
+[Black "Nagy, Ladislav"]
+[Result "0-1"]
+[WhiteElo "2093"]
+[BlackElo "2181"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 O-O 6.e4 b5 7.Nh3 bxc4 8.Bxc4 exd5 9.Bxd5 Nxd5 10.Qxd5 Ba6 11.Bf4 Nc6 12.Kf2 Rc8 13.Qh5 Qf6 14.Nd5 Qxb2+ 15.Kg3 f6 16.Bd6 Rf7 17.Nf2 Bc4 18.a3 Bxd5 19.exd5 Nd4 20.axb4 g6 21.Qg4 Nf5+ 22.Kh3 Nxd6 23.Nd3 Qd2 24.Nxc5 Nf5 25.f4 Qxb4 26.Na6 Qb3+ 27.g3 Rc2 28.Qd1 Qc4 29.Re1 Re7 30.Rxe7 Nxe7 31.Nb4 Rb2 32.Nd3 Rb7 33.Rb1 Rxb1 34.Qxb1 Qxd5 35.Qb8+ Kg7 36.Nb4 Qf5+ 37.Kg2 a5 38.Na6 Qd5+ 39.Kg1 Qd4+ 40.Kg2 Qd5+ 41.Kg1 Qd1+ 42.Kf2 Qd2+ 43.Kg1 Qe1+ 0-1

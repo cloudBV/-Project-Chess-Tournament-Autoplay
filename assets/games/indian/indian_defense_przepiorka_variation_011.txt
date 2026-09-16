@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-2/mZo2y8ia/2VHpkajk"]
+[Date "2026.07.09"]
+[Round "16.2"]
+[White "Chiszko, Oskar"]
+[Black "Gibala, Adam"]
+[Result "1-0"]
+[WhiteElo "2304"]
+[BlackElo "2267"]
+[ECO "A49"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.c3 b6 7.Bf4 Bb7 8.Qc1 Re8 9.Bh6 Bh8 10.Na3 Nbd7 11.Nc2 c5 12.Bf4 Rc8 13.Rd1 Ne4 14.Nd2 cxd4 15.Nxe4 dxe4 16.cxd4 Nf6 17.Be5 Qd7 18.Qd2 h5 19.Ne3 h4 20.Rac1 Bg7 21.Rxc8 Rxc8 22.Rc1 Bh6 23.Rxc8+ Qxc8 24.Qc2 Bxe3 25.Qxc8+ Bxc8 26.Bxf6 hxg3 27.hxg3 exf6 28.fxe3 f5 29.g4 fxg4 30.Bxe4 f5 31.Bc6 Kf7 32.Kf2 Ke7 33.Kg3 g5 34.b4 Kd6 35.Be8 Be6 36.a3 Bc4 37.e4 fxe4 38.e3 Be2 39.Bh5 Kd5 40.Bxg4 Ba6 41.Bh5 Bc8 42.Bf7+ Kd6 43.Bc4 Bf5 44.Be2 Kd5 45.Ba6 Kd6 46.Bb7 a5 47.bxa5 bxa5 48.Ba8 Ke6 49.Bc6 Kd6 50.Bb7 Kc7 51.Ba6 Be6 52.Be2 Kd6 53.Bg4 Bf7 54.Bf5 Kd5 55.Kg4 Kc4 56.Bxe4 Kb3 57.Kxg5 Kxa3 58.Kf6 Bc4 59.Bc6 Kb4 60.e4 Bb5 61.Bxb5 Kxb5 62.e5 a4 63.e6 a3 64.e7 1-0

@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.04.27"]
+[Round "8.1"]
+[White "Castillo Dalmau, Albert"]
+[Black "Esplugas Esteve, Vicenc"]
+[Result "1/2-1/2"]
+[WhiteElo "2329"]
+[BlackElo "2304"]
+[ECO "A14"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d3 Nc6 7.cxd5 exd5 8.a3 a5 9.b3 Re8 10.Bb2 d4 11.Nbd2 Ra6 12.Nc4 Bf8 13.b4 axb4 14.axb4 Rxa1 15.Qxa1 Bxb4 16.Nxd4 Nxd4 17.Bxd4 Rxe2 18.Qa8 b5 19.Bxf6 gxf6 20.Ne3 Be7 21.Bf3 Rd2 22.Nd5 Bc5 23.Nxf6+ Qxf6 24.Qxc8+ Kg7 25.Qg4+ Qg6 26.Qf4 Rc2 27.Be4 Qf6 28.Qg4+ Kf8 29.d4 Rxf2 30.Rxf2 Bxd4 31.Qc8+ Kg7 32.Qg4+ Kf8 33.Qf5 Bxf2+ 34.Qxf2 Qa1+ 35.Kg2 Qe5 36.Bxh7 Qd5+ 37.Qf3 Qd2+ 38.Kg1 Qe1+ 39.Qf1 Qe3+ 40.Kg2 Qd2+ 41.Qf2 Qd5+ 42.Qf3 Qd2+ 43.Qf2 Qd5+ 44.Qf3 1/2-1/2

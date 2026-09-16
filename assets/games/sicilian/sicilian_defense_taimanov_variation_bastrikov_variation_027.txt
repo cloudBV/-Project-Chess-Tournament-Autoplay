@@ -1,0 +1,14 @@
+[Event "Round 1: Grot, Blazej - Rodshtein, Maxim"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/nhiu4KK0"]
+[Date "2026.07.18"]
+[Round "1.12"]
+[White "Grot, Blazej"]
+[Black "Rodshtein, Maxim"]
+[Result "1/2-1/2"]
+[WhiteElo "2299"]
+[BlackElo "2600"]
+[ECO "B49"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2 Nf6 8.O-O Be7 9.f4 d6 10.a4 O-O 11.Qe1 Bd7 12.Qg3 Rac8 13.Rae1 Kh8 14.Kh1 Nb4 15.Bd3 Nxd3 16.cxd3 Qb8 17.e5 Ng8 18.Nf3 Bc6 19.Bd4 f6 20.exf6 Bxf6 21.Bxf6 Rxf6 22.Ng5 Re8 23.Nce4 Bxe4 24.dxe4 h6 25.Nf3 Ref8 26.Nd2 b5 27.axb5 Qxb5 28.Qe3 Ne7 29.b3 g5 30.Qc3 Kg8 31.Qc7 Ng6 32.f5 Ne5 33.Nf3 Nxf3 34.Rxf3 Qe5 35.fxe6 Rxf3 36.gxf3 Qxe6 37.Qc4 Qxc4 38.bxc4 a5 39.Rd1 Rxf3 40.Ra1 Rc3 41.Rxa5 Rxc4 42.Rd5 Rc6 43.e5 dxe5 44.Rxe5 Kf7 45.Kg2 Kf6 46.Ra5 Re6 47.h4 1/2-1/2

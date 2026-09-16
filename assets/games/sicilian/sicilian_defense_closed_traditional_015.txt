@@ -1,0 +1,15 @@
+[Event "Round 4: Inciroglu, Emir Cihangir - Krivenko, Sergei"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/zkai55cL"]
+[Date "2026.07.06"]
+[Round "4.13"]
+[White "Inciroglu, Emir Cihangir"]
+[Black "Krivenko, Sergei"]
+[Result "1-0"]
+[WhiteElo "2039"]
+[BlackElo "2311"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 a6 5.Bd3 Nc6 6.O-O d6 7.b3 g6 8.Bb2 Bg7 9.h3 e6 10.Rb1 Nge7 11.Nd5 Bxb2 12.Nxe7 Qxe7 13.Rxb2 O-O 14.c3 Rd8 15.Re1 Ne5 16.Bb1 Nxf3+ 17.Qxf3 e5 18.d4 Be6 19.Qe3 cxd4 20.cxd4 Rac8 21.d5 Bd7 22.f4 exf4 23.Qxf4 Qe5 24.Qxe5 dxe5 25.Rf2 Kg7 26.Ref1 Bb5 27.Rd1 Rc3 28.Kh2 Rd6 29.a4 Bd7 30.Rf3 Rxf3 31.gxf3 Rb6 32.Rd3 Kf8 33.Bc2 Ke7 34.Kg3 Kd6 35.h4 f5 36.Rc3 f4+ 37.Kf2 Ke7 38.Rc4 Kd8 39.b4 g5 40.hxg5 Rg6 41.Bb3 Rxg5 42.Rc1 Rh5 43.Rg1 Rh2+ 44.Rg2 Rxg2+ 45.Kxg2 b6 46.a5 bxa5 47.bxa5 Bb5 48.Bd1 Kc7 49.Kh3 Kd6 50.Kg4 Kc5 51.Kg5 Kd4 52.Kh6 Kd3 53.d6 Kd2 54.Bb3 Ke3 55.Bc4 Bxc4 56.d7 Kxf3 57.d8=Q Kxe4 58.Qd2 f3 59.Kg5 Be2 60.Kh4 Kf5 61.Kg3 Ke6 62.Kf2 e4 63.Qh6+ Kd5 64.Qxh7 Bd3 65.Ke3 Ke5 66.Qh5+ Ke6 67.Qc5 1-0

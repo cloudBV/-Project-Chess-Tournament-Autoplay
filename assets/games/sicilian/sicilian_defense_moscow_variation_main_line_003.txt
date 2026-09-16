@@ -1,0 +1,15 @@
+[Event "Round 6: Prabu, Dananjey - Grandelius, Nils"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-6/eYlqiXfJ/XZXHQCMS"]
+[Date "2026.07.01"]
+[Round "6.1"]
+[White "Prabu, Dananjey"]
+[Black "Grandelius, Nils"]
+[Result "0-1"]
+[WhiteElo "2129"]
+[BlackElo "2603"]
+[ECO "B52"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nc6 5.O-O e5 6.Nc3 Nge7 7.d3 h6 8.a3 Ng6 9.Nd5 Be7 10.Rb1 O-O 11.Be3 f5 12.exf5 Bxf5 13.Qc2 Nd4 14.Bxd4 cxd4 15.Rbe1 Bg5 16.b4 Be6 17.Ba4 Rxf3 18.gxf3 Nh4 19.Re4 Nxf3+ 20.Kg2 Nd2 21.f4 Nxf1 22.Kxf1 Bxd5 23.cxd5 Bxf4 24.Re2 Rc8 25.Qb2 Qh4 26.Rf2 Be3 27.Rg2 Rc1+ 28.Qxc1 Bxc1 29.Bd7 Be3 30.Be6+ Kf8 31.Ke2 Bf4 32.h3 Qe7 33.Kf1 Qc7 34.Re2 Qc3 35.Bf5 Qxa3 36.b5 Qb4 37.Bd7 Qb3 38.Bf5 Qxb5 39.Be4 a5 40.Kf2 a4 41.Kf3 a3 42.Kg4 Qb2 43.Re1 a2 44.Kf5 a1=R 45.Rxa1 Qxa1 46.h4 Kf7 47.h5 Qg1 48.Bg2 b6 49.Bh3 Qg5+ 50.Ke4 Qxh5 51.Bg4 Qg6+ 52.Bf5 Qg2# 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Rostami, Hossein - Daghli, Arash"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/Uayq7odN"]
+[Date "2026.07.02"]
+[Round "6.7"]
+[White "Rostami, Hossein"]
+[Black "Daghli, Arash"]
+[Result "1-0"]
+[WhiteElo "2246"]
+[BlackElo "2429"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.d4 Nxd4 6.Bc4 h6 7.Nxd4 cxd4 8.c3 Bc5 9.b4 Bb6 10.Qb3 Qf6 11.a4 Ne7 12.a5 Bc7 13.cxd4 exd4 14.f4 d5 15.Bb5+ Bd7 16.Bxd7+ Kxd7 17.e5 Qe6 18.Nd2 Nf5 19.Nf3 Rhd8 20.Bb2 Ke8 21.Nxd4 Nxd4 22.Bxd4 Qf5 23.Qg3 g6 24.Qh4 h5 25.Rae1 Rdc8 26.e6 Bd6 27.exf7+ Kxf7 28.Re5 Qd3 29.Rxd5 Be7 30.Qe1 Rd8 31.Qe5 Rxd5 32.Qxd5+ Ke8 33.Re1 Rd8 34.Qg8+ Kd7 35.Qe6+ 1-0

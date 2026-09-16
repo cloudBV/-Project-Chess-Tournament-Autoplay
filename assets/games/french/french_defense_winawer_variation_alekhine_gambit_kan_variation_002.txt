@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.04"]
+[Round "1.3"]
+[White "Aamodt, Peder Marcus"]
+[Black "Schouten, Mathias Lind"]
+[Result "1/2-1/2"]
+[WhiteElo "2178"]
+[BlackElo "2294"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Alekhine Gambit, Kan Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6 7.Bb5 Ne7 8.Be3 a6 9.Bxc6+ Nxc6 10.Nxe4 O-O 11.Nc3 Qf6 12.Qd3 e5 13.O-O-O exd4 14.Bxd4 Nxd4 15.Qxd4 1/2-1/2

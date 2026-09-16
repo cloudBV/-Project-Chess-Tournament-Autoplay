@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-7/iCL7Nk5B/afLMUQYi"]
+[Date "2026.07.06"]
+[Round "7.16"]
+[White "Kala, Jakub"]
+[Black "Sokolovsky, Jakub"]
+[Result "0-1"]
+[WhiteElo "2007"]
+[BlackElo "2088"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 b5 7.c4 Ne5 8.Nxe5 dxe5 9.Bf1 b4 10.d3 Bb7 11.Be3 e6 12.Nd2 Bd6 13.a3 a5 14.axb4 axb4 15.Rxa8 Qxa8 16.Nb3 Qc8 17.Na5 O-O 18.Nxb7 Qxb7 19.g4 Ra8 20.g5 Nd7 21.h4 Ra2 22.Bc1 Nb8 23.h5 Nc6 24.Qg4 Nd4 25.g6 fxg6 26.hxg6 hxg6 27.Be3 Qf7 28.Bxd4 exd4 29.Re2 Bf4 30.Bh3 b3 31.Re1 Rxb2 32.Ra1 Ra2 33.Qd1 Bh2+ 34.Kh1 Qxf2 35.Bxe6+ Kh7 36.Qf1 Rxa1 37.Qxa1 b2 38.Qb1 Qg1+ 0-1

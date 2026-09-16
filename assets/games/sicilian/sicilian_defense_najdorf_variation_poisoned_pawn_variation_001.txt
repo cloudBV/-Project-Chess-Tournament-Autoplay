@@ -1,0 +1,15 @@
+[Event "2026. gada Latvijas sieviešu čempionāts"]
+[Site "Rīga, Aspāzijas bulvāris 32- 302, Latvia"]
+[Date "2026.07.15"]
+[Round "4.1"]
+[White "Kuznecova, Marija"]
+[Black "Rogule, Laura"]
+[Result "1-0"]
+[WhiteElo "2248"]
+[BlackElo "2262"]
+[ECO "B97"]
+[TimeControl "90 minūtes katrai dalībniecei + 30 sekundes par katru izdarīto gājienu"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd3 Qxb2 9.Rb1 Qa3 10.f5 Qc5 11.Be3 Qc7 12.fxe6 fxe6 13.Be2 Be7 14.O-O O-O 15.Qc4 Qd7 16.Qb3 Nc6 17.Nxe6 Qxe6 18.Bc4 d5 19.Nxd5 Kh8 20.Nxf6 Qe5 21.Nd5 Qxe4 22.Nxe7 Qxe7 23.Rxf8+ Qxf8 24.Rf1 Qd8 25.Bc5 Bd7 26.Rf8+ Qxf8 27.Bxf8 Rxf8 28.Qxb7 Ne5 29.Bxa6 Bc6 30.Qc7 Re8 31.h3 g5 32.Bb7 Bd7 33.Be4 g4 34.hxg4 Nxg4 35.Qxd7 Rxe4 36.Qc8+ Kg7 37.Qb7+ 1-0

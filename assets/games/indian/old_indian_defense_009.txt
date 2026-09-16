@@ -1,0 +1,14 @@
+[Event "Round 5: Le, Quang Liem - Martinez Alcantara, Jose Eduardo"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-5/wiGyklq4/37LqyWvq"]
+[Date "2026.07.01"]
+[Round "5.1"]
+[White "Le, Quang Liem"]
+[Black "Martinez Alcantara, Jose Eduardo"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2641"]
+[ECO "A53"]
+[Variant "Standard"]
+[Opening "Old Indian Defense"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bg7 5.Bg2 Bf5 6.O-O O-O 7.Qb3 Bc8 8.Nc3 Nc6 9.d5 Na5 10.Qa4 c5 11.dxc6 Nxc6 12.Rd1 Bd7 13.Qc2 Rc8 14.Be3 a6 15.h3 Qa5 16.a3 Qf5 17.Qxf5 Bxf5 18.Rac1 Na5 19.Nd2 Nxc4 20.Nxc4 Rxc4 21.Bxb7 Rb8 22.Bxa6 Rc6 23.Bd3 Bxd3 24.exd3 Rxb2 25.Nd5 Rxc1 26.Rxc1 Bf8 27.Nxf6+ exf6 28.Ra1 Rb5 29.a4 Ra5 30.Bd2 Ra6 31.a5 Be7 32.Rb1 d5 33.Bh6 Ra8 34.a6 Bf8 35.Bxf8 Kxf8 36.Rb6 f5 37.Kg2 Kg7 38.Kf3 d4 39.Kf4 f6 40.Rb7+ Kh6 41.a7 1-0

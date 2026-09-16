@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.14"]
+[White "Mohota, Nisha"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2362"]
+[ECO "B40"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 Nc6 7.Bc4 d6 8.Qe2 Be7 9.O-O O-O 10.Nc3 Nxc3 11.bxc3 dxe5 12.dxe5 Qa5 13.Rb1 Rd8 14.Bd3 Rb8 15.Qe4 g6 16.Re1 Qxc3 17.Rb3 Qa5 18.Rb5 Qc7 19.h4 Bd7 20.h5 Be8 21.Rb1 Nb4 22.Rxb4 Rxd3 23.Rc4 Qd7 24.Bh6 Rd1 25.Kh2 Rxe1 26.Qxe1 Qb5 27.Qc1 Bc6 28.Rf4 Bf8 29.Bxf8 Rxf8 30.Qe3 Bxf3 31.Rxf3 Qd5 1/2-1/2

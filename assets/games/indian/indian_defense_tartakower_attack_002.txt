@@ -1,0 +1,15 @@
+[Event "Round 5: Gomez Ledo, Roberto Carlos - Carrascoso Morales, Abel"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/pAkMjypP"]
+[Date "2026.07.08"]
+[Round "5.14"]
+[White "Gomez Ledo, Roberto Carlos"]
+[Black "Carrascoso Morales, Abel"]
+[Result "1/2-1/2"]
+[WhiteElo "2381"]
+[BlackElo "2272"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Tartakower Attack"]
+
+1.d4 Nf6 2.g3 c5 3.d5 b5 4.a4 Bb7 5.Bg2 b4 6.e4 d6 7.Ne2 g6 8.b3 Bg7 9.Bb2 O-O 10.O-O Re8 11.Re1 Qc7 12.c4 e6 13.dxe6 fxe6 14.e5 Ng4 15.Qxd6 Qf7 16.Nf4 Bxg2 17.Kxg2 g5 18.Nh3 Nd7 19.f3 Ndxe5 20.Bxe5 Nxe5 21.Rxe5 Rad8 22.Qxc5 g4 23.Ng5 Qg6 24.Ne4 gxf3+ 25.Kf2 Rd1 26.Nbd2 Rxa1 27.Rg5 Qh6 28.Rh5 Qg6 29.Rg5 Qh6 30.Rh5 Qg6 1/2-1/2

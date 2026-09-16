@@ -1,0 +1,14 @@
+[Event "Round 6: Ivenholt, Niklas - Guagliano, Lukas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/2E7red25"]
+[Date "2026.07.02"]
+[Round "6.23"]
+[White "Ivenholt, Niklas"]
+[Black "Guagliano, Lukas"]
+[Result "0-1"]
+[WhiteElo "2043"]
+[BlackElo "2113"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 Nf6 4.e5 Nfd7 5.d4 c5 6.c3 Nc6 7.Ngf3 e6 8.Bd3 f6 9.exf6 Qxf6 10.O-O cxd4 11.cxd4 Bd6 12.Nb3 h6 13.Be3 O-O 14.Bb5 Ne7 15.Rc1 Ng6 16.Rxc8 Raxc8 17.Bxd7 Rc7 18.Bb5 Nf4 19.Bxf4 Bxf4 20.Nc5 Rff7 21.Re1 Rce7 22.Nd3 g5 23.Nfe5 Bxe5 24.Rxe5 Rc7 25.Qe2 a6 26.Ba4 Rfe7 27.Bb3 b6 28.g3 a5 29.a4 Kg7 30.Kg2 Rc8 31.Bxd5 Rd8 32.Bb3 Rxd4 33.Qe3 Rxd3 0-1

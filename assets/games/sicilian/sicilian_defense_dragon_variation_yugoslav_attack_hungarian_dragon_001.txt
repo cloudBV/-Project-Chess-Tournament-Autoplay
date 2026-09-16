@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-4/9zGO8wij/cFjWEBMK"]
+[Date "2026.07.03"]
+[Round "4.5"]
+[White "Praczukowski, Stanislaw"]
+[Black "Dobosiewicz, Dawid"]
+[Result "1/2-1/2"]
+[WhiteElo "2159"]
+[BlackElo "2282"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.Qd2 Nxd4 9.Bxd4 Bh6 10.Be3 Bxe3 11.Qxe3 Be6 12.Bb5+ Kf8 13.O-O a6 14.Ba4 Rc8 15.Bb3 Bxb3 16.axb3 Qc7 17.Rfe1 Qc5 18.Qxc5 Rxc5 19.Re2 Kg7 20.Nd1 Rhc8 21.Ne3 d5 22.exd5 Nxd5 23.Nxd5 Rxd5 24.Kf2 Kf6 25.Ra4 e6 26.Ke1 Rcd8 27.Rc4 Rd1+ 28.Kf2 R8d7 29.Ke3 Ke7 30.Rc8 Rb1 31.c3 Kf6 32.Rb8 Rf1 33.b4 Ke5 34.g3 Kf6 35.Ke4 g5 36.Rh8 Kg6 37.Rg8+ Kf6 38.Rh8 Kg6 39.Rg8+ Kf6 40.Rh8 1/2-1/2

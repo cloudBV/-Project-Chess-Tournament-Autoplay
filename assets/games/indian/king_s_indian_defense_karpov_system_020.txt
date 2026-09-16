@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.3"]
+[White "Sowinski, Pawel"]
+[Black "Borischik, Sergey"]
+[Result "0-1"]
+[WhiteElo "2355"]
+[BlackElo "2229"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 c6 7.g4 a6 8.g5 Nfd7 9.a4 e5 10.d5 cxd5 11.cxd5 f5 12.gxf6 Nxf6 13.Be2 a5 14.h4 Na6 15.h5 Bd7 16.hxg6 hxg6 17.Nh3 Rc8 18.Ng5 Nc5 19.Qc2 Ng4 20.Bxg4 Bxg4 21.f3 Rxf3 22.Nxf3 Bxf3 23.Rh3 Bg4 24.Rh2 Qf6 25.Bxc5 Rxc5 26.Qf2 Qe7 27.Kd2 Qg5+ 28.Qe3 Qxe3+ 29.Kxe3 Bh5 30.Rf1 Bh6+ 31.Kd3 Bf4 32.Rhh1 Kf7 33.Rb1 Rc8 34.b4 b6 35.bxa5 bxa5 36.Rb6 Rd8 37.Nb5 Ke7 38.Ra6 Bg3 39.Rxa5 Bf2 40.Ra6 Bc5 41.Rc6 Ra8 42.Ra1 g5 43.a5 Be8 44.Rxc5 dxc5 45.Kc4 Rb8 46.Nc3 Kd6 47.a6 Rb4+ 48.Kd3 c4+ 49.Ke3 Rb8 50.Rg1 Ra8 51.Rxg5 Rxa6 52.Rg8 Ra3 53.Kd2 Bd7 54.Rd8 Rb3 55.Ra8 Kc5 56.Ne2 Rb2+ 57.Ke3 Rb3+ 58.Kd2 Rb2+ 59.Ke1 Bb5 60.Rc8+ Kb4 61.d6 Rb1+ 62.Kd2 Rb2+ 63.Ke1 Rb1+ 64.Kf2 Rd1 65.Rd8 c3 66.Ke3 c2 67.Rc8 Bxe2 68.Rxc2 Bb5 69.Rg2 Rd3+ 70.Kf2 Rd2+ 71.Kf3 Rxg2 72.Kxg2 Kc5 0-1

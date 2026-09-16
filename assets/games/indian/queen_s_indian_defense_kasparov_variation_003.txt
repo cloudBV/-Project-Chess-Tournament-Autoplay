@@ -1,0 +1,15 @@
+[Event "Round 10: So, Wesley - Durarbayli, Vasif"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-10/IfXYzAOl/spp7AOd6"]
+[Date "2026.07.04"]
+[Round "10.2"]
+[White "So, Wesley"]
+[Black "Durarbayli, Vasif"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2590"]
+[ECO "E12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Qc2 Bb7 6.a3 Bxc3+ 7.Qxc3 d6 8.e3 Nbd7 9.b4 a5 10.Bb2 axb4 11.axb4 Rxa1+ 12.Bxa1 Qa8 13.Be2 Ne4 14.Qb2 O-O 1/2-1/2

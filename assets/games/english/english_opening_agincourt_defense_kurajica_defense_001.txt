@@ -1,0 +1,14 @@
+[Event "Round 4: Buchal, Stephan - Ellenberg, Ekkehard"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/Zo4D89KH"]
+[Date "2026.07.20"]
+[Round "4.16"]
+[White "Buchal, Stephan"]
+[Black "Ellenberg, Ekkehard"]
+[Result "1-0"]
+[WhiteElo "2241"]
+[BlackElo "2048"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Kurajica Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 c6 4.Bg2 Nd7 5.b3 Ngf6 6.Bb2 Bd6 7.O-O O-O 8.Nc3 Qe7 9.Qc2 Ba3 10.Bxa3 Qxa3 11.d4 Qd6 12.Rad1 Rd8 13.Rfe1 Qf8 14.e4 dxe4 15.Ng5 h6 16.Ngxe4 Nxe4 17.Nxe4 Nb6 18.c5 Nd5 19.Nd6 b5 20.Bxd5 exd5 21.Re5 Bd7 22.Rde1 b4 23.Qd2 Rab8 24.Qf4 Be6 25.Qe3 Rxd6 26.cxd6 Qxd6 27.f4 Bd7 28.Re7 Be6 29.Rxa7 Rc8 30.Ra5 Qc7 31.Rc5 Qa7 32.Qd2 Bf5 33.Re2 Qb6 34.Qc1 Be4 35.a4 bxa3 36.Qxa3 f5 37.Re3 Qb7 1-0

@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.21"]
+[White "Huston, Gus"]
+[Black "Ghazaryan, Raffi"]
+[Result "1-0"]
+[WhiteElo "2345"]
+[BlackElo "2084"]
+[ECO "B90"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.h3 Be7 9.g4 h6 10.Qf3 Nbd7 11.O-O-O Rc8 12.Nd5 Bxd5 13.exd5 Nb6 14.Kb1 Qc7 15.Bxb6 Qxb6 16.Bd3 O-O 17.Nd2 Qb4 18.a3 Qf4 19.Qxf4 exf4 20.c4 g6 21.Rhe1 Rfe8 22.b4 Nd7 23.Bc2 Kf8 24.Ba4 b5 25.cxb5 Nb6 26.Bb3 axb5 27.Rc1 Ra8 28.Rc6 Nd7 29.Rc7 Red8 30.Ka2 Ne5 31.Nf3 Bf6 32.Nxe5 Bxe5 33.Rec1 Bd4 34.R7c2 Kg7 35.Rd2 Bf6 36.Bd1 Ra7 37.Kb3 Re7 38.Be2 f3 39.Bxb5 Bg5 40.Rdc2 Bxc1 41.Rxc1 Re5 42.Bc4 Rc8 43.a4 Kf6 44.a5 h5 45.a6 Ke7 46.b5 hxg4 47.hxg4 1-0

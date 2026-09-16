@@ -1,0 +1,14 @@
+[Event "Round 1: Stricker, Florian - Zuferi, Enis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-1/nXbrm1jM/RAlZTcOb"]
+[Date "2026.07.19"]
+[Round "1.8"]
+[White "Stricker, Florian"]
+[Black "Zuferi, Enis"]
+[Result "0-1"]
+[WhiteElo "2231"]
+[BlackElo "2356"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 a6 5.Nc3 h5 6.Bd3 Bxd3 7.Qxd3 e6 8.Bg5 Qc7 9.Nf3 c5 10.O-O Nc6 11.Rfe1 cxd4 12.Nxd4 Nxd4 13.Qxd4 Be7 14.Qf4 Nh6 15.Rad1 Rd8 16.Rd3 Ng4 17.Rf3 O-O 18.Bxe7 Qxe7 19.Nd1 d4 20.Rg3 Qc5 21.c3 f6 22.exf6 Rxf6 23.Qe4 dxc3 24.Rxc3 Qd6 25.g3 Qxd1 0-1

@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-6/1Djz4Ac6/eCokOZR5"]
+[Date "2026.07.23"]
+[Round "6.11"]
+[White "Hector, Jonny"]
+[Black "Slavensky, Asbjorn Vesterkar"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2193"]
+[ECO "B96"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Nbd7 8.Qe2 Qc7 9.O-O-O b5 10.f5 b4 11.fxe6 bxc3 12.exd7+ Bxd7 13.Qc4 Qa5 14.Bxf6 gxf6 15.Kb1 cxb2 16.Nf5 Be7 17.Be2 Kf8 18.Rd5 Qb6 19.Bh5 Rc8 20.Rc5 1-0

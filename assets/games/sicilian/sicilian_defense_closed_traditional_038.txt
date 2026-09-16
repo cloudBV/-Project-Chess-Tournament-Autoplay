@@ -1,0 +1,14 @@
+[Event "Round 1: Han, Qixuan - Van Roon, Sjoerd"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/E2Yd8OBu"]
+[Date "2026.07.21"]
+[Round "1.22"]
+[White "Han, Qixuan"]
+[Black "Van Roon, Sjoerd"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2308"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 a6 5.Bd3 g6 6.b4 Nxf3+ 7.Qxf3 cxb4 8.Nd5 Bg7 9.Rb1 e6 10.Ne3 Ne7 11.Rxb4 Nc6 12.Rb1 O-O 13.Ba3 d6 14.Qg3 e5 15.Nc4 b5 16.Nxd6 b4 17.Nxc8 bxa3 18.Nb6 Rb8 19.Qe3 Nd4 20.c3 Rxb6 21.cxd4 exd4 22.Qe2 Rxb1+ 23.Bxb1 Qb6 24.O-O Qb2 25.f4 Rc8 26.Qxa6 Rc1 27.Qd3 Bf8 28.Rxc1 Qxc1+ 29.Kf2 Bb4 30.Qc2 Qh1 31.Qb3 Bxd2 32.Qb8+ Kg7 33.Qe5+ f6 34.Qe7+ Kh6 35.Qxf6 Qe1+ 36.Kf3 Qd1+ 37.Kg3 Be1+ 38.Kh3 Qh5+ 0-1

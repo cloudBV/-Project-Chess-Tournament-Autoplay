@@ -1,0 +1,15 @@
+[Event "Round 1: Sanikidze, Tornike - Endeladze, Ramaz"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-1/KKuuTOnc/SKaXpska"]
+[Date "2026.07.14"]
+[Round "1.5"]
+[White "Sanikidze, Tornike"]
+[Black "Endeladze, Ramaz"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2138"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 c6 7.Nf3 Nbd7 8.O-O Qc7 9.Nd2 a6 10.Rc1 e6 11.c5 e5 12.Nc4 d5 13.exd5 cxd5 14.Nd6 Qc6 15.b4 exd4 16.Bxd4 b6 17.Bf3 bxc5 18.bxc5 Nxc5 19.Nxc8 Raxc8 20.Nxd5 Nxd5 21.Rxc5 Qxc5 22.Bxc5 Nc3 23.Bxf8 Nxd1 24.Bxg7 Kxg7 25.Bxd1 1-0

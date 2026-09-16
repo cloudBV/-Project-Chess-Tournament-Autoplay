@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.24"]
+[White "Burdalev, Kirill"]
+[Black "Mojzis, Jaroslav"]
+[Result "1-0"]
+[WhiteElo "2276"]
+[BlackElo "2027"]
+[ECO "A50"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Bf4 d5 4.cxd5 exd5 5.e3 Bd6 6.Bxd6 Qxd6 7.Nc3 O-O 8.Bd3 b6 9.Rc1 c6 10.Qa4 Nbd7 11.Nf3 Bb7 12.O-O Rfe8 13.Qc2 c5 14.dxc5 Nxc5 15.Rfd1 Qe7 16.Bb5 Red8 17.Nd4 Rac8 18.Qe2 a6 19.Bd3 b5 20.Bf5 Rc7 21.a3 g6 22.Bb1 Rcc8 23.f3 Kg7 24.Qf2 Ncd7 25.Re1 Ne5 26.Qg3 Kh8 27.Qh4 Nc4 28.Nd1 Nd6 29.Rxc8 Rxc8 30.Nf2 Rc7 31.Nd3 a5 32.Nf4 Kg7 33.Bd3 b4 34.axb4 axb4 35.Qg3 Qe5 36.Nfe6+ 1-0

@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.6"]
+[White "Pichot, Alan"]
+[Black "Zemach, Nadav"]
+[Result "1-0"]
+[WhiteElo "2562"]
+[BlackElo "2406"]
+[ECO "C50"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Be3 Bxe3 6.fxe3 d6 7.a3 O-O 8.Nbd2 Ne7 9.Qe2 Ng6 10.h4 Bg4 11.O-O-O c6 12.Qf2 d5 13.Bb3 b5 14.Rdf1 h5 15.Qg3 Qd6 16.Nd4 dxe4 17.Nf5 Qd7 18.Nh6+ Kh7 19.Nxg4 Qxg4 20.Qxg4 Nxg4 21.Nxe4 f6 22.Kd2 Ne7 23.a4 a5 24.Be6 Rfd8 25.Ra1 b4 26.Rhf1 Nd5 27.Rae1 Ra7 28.Nc5 Kg6 29.e4 Nf4 30.Bf5+ Kf7 31.g3 Ng6 32.c3 Nf8 33.cxb4 axb4 34.Rc1 g6 35.Bxg4 hxg4 36.Rc4 Nd7 37.Ke2 Nxc5 38.Rxc5 Rd6 39.b3 Ke7 40.Rc4 Rb7 41.Ke3 Rb8 42.Rfc1 Rbd8 43.Rd1 Rb8 44.d4 exd4+ 45.Rdxd4 Rxd4 46.Kxd4 Kd6 47.Rc1 Re8 48.Rc2 Re7 49.Rf2 Re6 50.Rf4 c5+ 51.Kd3 g5 52.hxg5 fxg5 53.Rf5 Kc6 54.Rxg5 Rd6+ 55.Rd5 Re6 56.a5 Kb5 57.e5 Ra6 58.Rd8 Rxa5 59.e6 Ra7 60.Ke4 Kc6 61.Ke5 Rh7 62.Kf6 Rh6+ 63.Kf7 Rh7+ 64.Kg6 Kc7 65.Ra8 1-0

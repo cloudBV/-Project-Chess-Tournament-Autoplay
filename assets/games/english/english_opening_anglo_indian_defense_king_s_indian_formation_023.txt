@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.14"]
+[White "Korshunov, Sergey And."]
+[Black "Starcevic, Ante Leon"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2111"]
+[ECO "A15"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 O-O 5.g3 c6 6.Bg2 d5 7.O-O dxc4 8.bxc4 Qb6 9.Qb3 Na6 10.d4 c5 11.d5 e6 12.Nfd2 exd5 13.cxd5 Bg4 14.Nc3 Qxb3 15.axb3 Nb4 16.h3 Bd7 17.Rab1 b5 18.Nde4 Nxe4 19.Nxe4 Bf5 20.Bxg7 Kxg7 21.Rbc1 Bxe4 22.Bxe4 Rfe8 23.Bf3 Rac8 24.Rfd1 Na2 25.Rc2 Nb4 26.Rcc1 Na2 27.Ra1 Nc3 28.Rd3 Nxe2+ 29.Bxe2 Rxe2 30.Rxa7 Re5 31.d6 c4 32.bxc4 bxc4 33.Rf3 Rf8 34.Rc7 Rd5 35.Rc6 Rd8 36.Rc7 Rf8 37.Rc6 Rd8 38.Rc7 Rf8 39.Rxc4 Rxd6 40.Rc7 Rf6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.3"]
+[White "Vergara Anton, Diego"]
+[Black "Samant Aditya S"]
+[Result "1/2-1/2"]
+[WhiteElo "2417"]
+[BlackElo "2516"]
+[ECO "A30"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 g6 3.Nc3 Bg7 4.e3 Nf6 5.d4 cxd4 6.Nxd4 Nc6 7.Be2 O-O 8.O-O d6 9.h3 a6 10.b3 Nxd4 11.exd4 d5 12.Be3 b6 13.Rc1 Bb7 14.Bf3 Ra7 15.a4 e6 16.Qe2 Ba8 17.Rfd1 h6 18.Bf4 Nh7 19.Be5 Ng5 20.cxd5 exd5 21.Bxg7 Kxg7 22.Re1 Kh7 23.Qd3 Rc7 24.Ne2 Rxc1 25.Rxc1 Qf6 26.Qe3 Ne6 27.Bg4 Re8 28.Bxe6 Rxe6 29.Qf4 Kg7 30.Qxf6+ Kxf6 31.Kf1 Re7 32.Rc8 Bb7 33.Rb8 Ke6 34.Ke1 Kd6 35.g4 Kc6 36.Rh8 b5 37.Kd2 a5 38.Rxh6 bxa4 39.bxa4 Ba6 40.Nc3 Rb7 41.Kc2 Rb4 42.Rh7 Rxd4 43.Rxf7 Bd3+ 44.Kc1 Bf1 45.Rf6+ Kc5 46.Rxg6 Bxh3 47.g5 Rc4 48.Kd2 d4 49.Ne4+ Kd5 50.Nf6+ Ke5 51.Rg8 Rxa4 52.Re8+ Kf5 53.f4 Ra2+ 54.Kd3 Kxf4 55.Kxd4 Ra4+ 56.Kc3 Kxg5 57.Ne4+ Kf4 58.Nc5 Ra1 59.Nb3 Ra2 60.Ra8 a4 61.Nc5 a3 62.Kb3 Rb2+ 63.Kxa3 Rb5 64.Nb3 Ke5 65.Re8+ Kd6 66.Re4 Bf5 67.Rd4+ Ke5 68.Rb4 Rxb4 69.Kxb4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 4: Gilfanov, Marat I - Daghli, Arash"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/g9Y5YIRn"]
+[Date "2026.07.01"]
+[Round "4.6"]
+[White "Gilfanov, Marat I"]
+[Black "Daghli, Arash"]
+[Result "1/2-1/2"]
+[WhiteElo "2301"]
+[BlackElo "2429"]
+[ECO "B61"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.f3 Nxd4 9.Qxd4 a6 10.O-O-O Qa5 11.h4 h6 12.Be3 h5 13.Bc4 e6 14.Bb3 Be7 15.Qa7 Bc6 16.Bg5 d5 17.Qd4 dxe4 18.Nxe4 Rd8 19.Qc3 Qxc3 20.Rxd8+ Kxd8 21.Nxc3 Nd7 22.Bxe7+ Kxe7 23.Ne2 Nc5 24.Nd4 Nxb3+ 25.axb3 Bd7 26.Re1 Kd6 27.f4 Re8 28.Rd1 Kc7 29.Re1 Kd6 30.Rd1 Kc7 31.Re1 1/2-1/2

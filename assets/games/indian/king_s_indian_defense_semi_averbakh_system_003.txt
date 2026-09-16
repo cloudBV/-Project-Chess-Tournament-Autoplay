@@ -1,0 +1,14 @@
+[Event "Round 8: Grahn, Vidar - Kleist, Axel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-8/4Oz0RMqK/cY1ObKkF"]
+[Date "2026.06.24"]
+[Round "8.1"]
+[White "Grahn, Vidar"]
+[Black "Kleist, Axel"]
+[Result "1-0"]
+[WhiteElo "2245"]
+[BlackElo "2167"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.e4 Bg7 5.Be2 O-O 6.Be3 e5 7.d5 Na6 8.h4 Nc5 9.Qc2 c6 10.h5 cxd5 11.cxd5 Qa5 12.h6 Bh8 13.f3 Nh5 14.Rb1 Qd8 15.b4 Na6 16.g4 Ng3 17.Rh2 Nxe2 18.Ngxe2 Bd7 19.a3 Bf6 20.Qd2 Be7 21.Nc1 Nc7 22.a4 f5 23.gxf5 gxf5 24.Qg2+ Kf7 25.Qg7+ Ke8 26.Qxh7 Bh4+ 27.Kd2 Qf6 28.Qg7 f4 29.Bf2 Bg5 30.Qxf6 Bxf6 31.b5 b6 32.Nd3 Kf7 33.Nb2 Rh8 34.Nc4 Ke7 35.Na2 Rac8 36.Rc1 Rh7 37.Nb4 Ne8 38.Nc6+ Bxc6 39.bxc6 Kf8 40.Kd3 Kf7 41.Be1 Bd8 42.Bb4 Bc7 43.Rg1 Rd8 44.Rh5 a6 45.Rf5+ Nf6 46.Rfg5 Ne8 47.Rg8 Kf6 48.R8g6+ Kf7 49.Re6 Rh8 50.Rg5 b5 51.axb5 axb5 52.Nxe5+ dxe5 53.Rf5+ Kg8 54.Rf8+ Kh7 55.Re7+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2: Junk, Phillip - Strache, Michael"]
+[Site "https://lichess.org/broadcast/german-cup-championship-2026-dpem/round-2/l1g0hJN4/ihxaEob3"]
+[Date "2026.07.23"]
+[Round "2.2"]
+[White "Junk, Phillip"]
+[Black "Strache, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2128"]
+[BlackElo "2259"]
+[ECO "C01"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bg4 5.h3 Bh5 6.Qe2+ Qe7 7.Be3 Nc6 8.c3 O-O-O 9.g4 Bg6 10.Bg5 Qxe2+ 11.Bxe2 Re8 12.Be3 h5 13.Rg1 hxg4 14.hxg4 Nf6 15.Nbd2 Bd6 16.O-O-O a6 17.Rde1 Ne4 18.Nxe4 Bxe4 19.Rh1 Nd8 20.Rxh8 Rxh8 21.Nd2 Bg6 22.Bf3 c6 23.Rh1 Rxh1+ 24.Bxh1 Ne6 25.c4 Nc7 26.cxd5 Nxd5 27.Nc4 Bc7 28.Bxd5 cxd5 29.Ne5 Bxe5 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 7: Wagner, Dinara - Sickmann, Lisa"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-7/yWNAX1Kk/AU80K7gc"]
+[Date "2026.07.07"]
+[Round "7.1"]
+[White "Wagner, Dinara"]
+[Black "Sickmann, Lisa"]
+[Result "1-0"]
+[WhiteElo "2409"]
+[BlackElo "2016"]
+[ECO "E48"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 c6 8.O-O Nbd7 9.f3 c5 10.Bd2 Re8 11.Rc1 b6 12.Nb5 Bxd2 13.Qxd2 a6 14.Nd6 Re6 15.Nxc8 Qxc8 16.Bf5 Rc6 17.dxc5 Rxc5 18.Nf4 Qc6 19.b4 Rc4 20.Nxd5 Qxd5 21.Qxd5 Nxd5 22.Rxc4 Nxe3 23.Be4 Rd8 24.Rd4 Nxf1 25.Kxf1 Kf8 26.Bb7 a5 27.bxa5 bxa5 28.Rd5 Ke7 29.Rxa5 Rb8 30.Bd5 f6 31.Ra7 Kd6 32.Bc4 h5 33.a4 Rb1+ 34.Kf2 g5 35.Ra6+ Kc5 36.Be2 Rb2 37.a5 Ra2 38.g3 f5 39.Rg6 Rxa5 40.Rxg5 Kd4 41.Rxh5 Rc5 42.Rh6 Ne5 43.Rd6+ Kc3 44.h4 Ra5 45.h5 Ra8 46.Rd5 Re8 47.f4 Ng4+ 48.Bxg4 1-0

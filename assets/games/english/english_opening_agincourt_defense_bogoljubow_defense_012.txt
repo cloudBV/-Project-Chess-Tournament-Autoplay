@@ -1,0 +1,14 @@
+[Event "Round 4: Cao, Qingfeng - Baenziger, Fabian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/gwmXvOWg"]
+[Date "2026.07.16"]
+[Round "4.9"]
+[White "Cao, Qingfeng"]
+[Black "Baenziger, Fabian"]
+[Result "1/2-1/2"]
+[WhiteElo "2365"]
+[BlackElo "2435"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.c4 Bd6 5.d4 O-O 6.O-O c6 7.Qc2 Nbd7 8.Nbd2 Re8 9.Re1 h6 10.a3 a5 11.b3 e5 12.cxd5 cxd5 13.dxe5 Nxe5 14.Bb2 Nc6 15.Nd4 Bd7 16.Nxc6 Bxc6 17.Nf3 Rc8 18.Bd4 Bd7 19.Qb2 Bf5 20.Bxf6 gxf6 21.Qd2 Kg7 22.Nd4 Be6 23.Bxd5 Be5 24.e4 Qb6 25.Rad1 Qxd4 26.Qxd4 Bxd4 27.Rxd4 Rc3 28.Re3 Rxe3 29.fxe3 b6 30.Kf2 Kg6 31.Kf3 b5 32.b4 axb4 33.Rxb4 Bd7 34.Rd4 Re7 35.Rd3 h5 36.Kf4 Bg4 37.Bc6 Rc7 38.Rd6 Kg7 39.e5 fxe5+ 40.Kxe5 Be2 41.Kf4 Ra7 42.Rd7 Ra4+ 43.Kg5 Rg4+ 44.Kf5 Rc4 45.Rd6 Bg4+ 46.Ke5 f6+ 47.Rxf6 Rc5+ 48.Kd4 Rc4+ 1/2-1/2

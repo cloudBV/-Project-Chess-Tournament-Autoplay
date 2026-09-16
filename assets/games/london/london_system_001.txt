@@ -1,0 +1,15 @@
+[Event "Round 10: Wernberg, Hugo - Torres, Lucas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-10/4rqvbItp/mgGIUQ4j"]
+[Date "2026.07.01"]
+[Round "10.5"]
+[White "Wernberg, Hugo"]
+[Black "Torres, Lucas"]
+[Result "1-0"]
+[WhiteElo "2296"]
+[BlackElo "2008"]
+[ECO "A48"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "London System"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.Nf3 d6 5.h3 O-O 6.Be2 c5 7.O-O Be6 8.c4 Qb6 9.Nc3 Bf5 10.g4 Bd7 11.g5 Nh5 12.Nd5 Qd8 13.dxc5 Nxf4 14.Nxf4 dxc5 15.Qb3 Nc6 16.Rfd1 Qc8 17.h4 Bg4 18.Nd5 e6 19.Ne5 Bxe2 20.Nxc6 Qe8 21.Nde7+ Kh8 22.Qxb7 Bxd1 23.Rxd1 f6 24.Rd7 fxg5 25.Nd5 Rg8 26.Nf6 Qf8 1-0

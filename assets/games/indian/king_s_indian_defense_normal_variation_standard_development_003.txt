@@ -1,0 +1,14 @@
+[Event "Round 8: Makhnev, Denis - Chigaev, Maksim"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-8/xISEm2EV/TCefs7tc"]
+[Date "2026.07.07"]
+[Round "8.2"]
+[White "Makhnev, Denis"]
+[Black "Chigaev, Maksim"]
+[Result "0-1"]
+[WhiteElo "2562"]
+[BlackElo "2648"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h3 Na6 7.Bg5 Qe8 8.Nf3 e5 9.d5 Nh5 10.g3 f5 11.exf5 gxf5 12.Nh4 Nf6 13.Qc2 Nb4 14.Qd2 a5 15.Rg1 Kh8 16.g4 f4 17.a3 Na6 18.Bd3 Nc5 19.Bc2 Bd7 20.O-O-O b5 21.cxb5 Bxb5 22.Nf5 Bd3 23.Kb1 Bxf5 24.Bxf5 Rb8 25.Qc2 Nfd7 26.Ka2 Nb6 27.Be4 Rb7 28.Rb1 Qf7 29.Rgd1 Rfb8 30.Qe2 Qe8 31.Rdc1 Nba4 32.Nxa4 Qxa4 33.Rc4 Qb3+ 34.Ka1 Nxe4 35.Qxe4 Rb4 36.Qf5 Qxc4 37.Bf6 Rf8 38.Bxg7+ Kxg7 39.Qd7+ Kg8 40.Qe6+ Kh8 41.g5 Qc2 42.g6 hxg6 0-1

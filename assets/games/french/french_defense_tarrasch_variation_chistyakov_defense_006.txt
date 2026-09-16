@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL B"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.04"]
+[Round "2.3"]
+[White "Henriquez Hidalgo, Camilo Alonso"]
+[Black "Rosales Schulz, Robin"]
+[Result "1-0"]
+[WhiteElo "2148"]
+[BlackElo "2097"]
+[ECO "C07"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6 9.Nbxd4 Nxd4 10.Nxd4 Be7 11.c3 O-O 12.Qf3 a6 13.Re1 Bd7 14.Bf4 Qb6 15.Bb3 Rac8 16.Rad1 Rfe8 17.Be5 a5 18.Qh3 h6 19.Qd3 Red8 20.Bc2 g6 21.Qh3 Kh7 22.Qf3 Kg7 23.h4 Bc6 24.Qf4 h5 25.Bxg6 fxg6 26.Nxe6+ Kf7 27.Ng5+ Kg7 28.Bd4 1-0

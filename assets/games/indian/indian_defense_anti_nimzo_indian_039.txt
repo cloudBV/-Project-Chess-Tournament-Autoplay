@@ -1,0 +1,14 @@
+[Event "Round 9: Georgiadis, Nico - Federer, Colin"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-9/zQNzsYa2/UI7hRl9C"]
+[Date "2026.06.03"]
+[Round "9.1"]
+[White "Georgiadis, Nico"]
+[Black "Federer, Colin"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2337"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 O-O 7.Qc2 c5 8.cxd5 cxd4 9.Nxd4 Qb6 10.Nf3 exd5 11.O-O Nc6 12.Nc3 Bg4 13.Bg5 Bxf3 14.exf3 Be7 15.f4 Rfd8 16.Rad1 Rab8 17.a3 h6 18.Bh4 Qc5 19.Qb3 d4 20.Bxf6 Bxf6 21.Nd5 Qd6 22.Qb5 Ne7 23.Nxf6+ Qxf6 24.Qxa5 b6 25.Qb5 Rbc8 26.Be4 Rc5 27.Qb4 h5 28.h4 Nf5 29.Rd3 g6 30.Rfd1 Qe6 31.Bxf5 Qxf5 32.Qxb6 Rd7 33.Rxd4 Rxd4 34.Rxd4 Rc1+ 35.Kh2 Qb1 36.Rd8+ Kh7 37.Qd4 1-0

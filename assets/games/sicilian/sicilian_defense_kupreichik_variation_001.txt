@@ -1,0 +1,15 @@
+[Event "Round 6: Tezcan, Alper - Huseyinoglu, Alihan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/7H1vcFfr"]
+[Date "2026.07.02"]
+[Round "6.12"]
+[White "Tezcan, Alper"]
+[Black "Huseyinoglu, Alihan"]
+[Result "1/2-1/2"]
+[WhiteElo "2285"]
+[BlackElo "2395"]
+[ECO "B56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kupreichik Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bd7 6.Bg5 e6 7.f3 a6 8.Qd2 h6 9.Be3 b5 10.a4 b4 11.Na2 e5 12.Nb3 a5 13.c3 Bxa4 14.Nac1 Bc6 15.cxb4 axb4 16.Rxa8 Bxa8 17.Qxb4 Nbd7 18.Qa4 Be7 19.Bb5 O-O 20.O-O d5 21.exd5 Nb6 22.Qa7 Nbxd5 23.Bc5 Qb8 24.Qa5 e4 25.Bxe7 Nxe7 26.fxe4 Ng4 27.g3 Qe5 28.Bd3 Qxb2 29.Qd2 Qa3 30.Be2 Ne5 31.Qa5 Qxa5 32.Nxa5 Bxe4 33.Nc4 N7c6 34.Nb3 Rb8 35.Nxe5 Nxe5 36.Nc5 Bg6 37.Rc1 Rb2 38.Kf1 Bc2 39.h4 Ra2 40.Re1 Bf5 41.Rc1 g6 42.Rc3 Kg7 43.Re3 Nc6 44.Nb3 Rb2 45.Rc3 Ne5 46.Nd4 Be4 47.Re3 f5 48.Ra3 Rb7 49.Ra5 Nd7 50.Ne6+ Kf6 51.Nf4 g5 52.hxg5+ hxg5 53.Ra6+ Ke5 54.Ra5+ Kd6 55.Ra6+ Ke7 56.Nh3 Rb1+ 57.Kf2 Nc5 58.Ra5 Ne6 59.g4 Kf6 60.gxf5 Bxf5 61.Rxf5+ 1/2-1/2

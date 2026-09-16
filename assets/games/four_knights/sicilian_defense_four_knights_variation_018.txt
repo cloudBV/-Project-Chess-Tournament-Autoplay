@@ -1,0 +1,15 @@
+[Event "Round 9: Martic, Ivan - Erokhin, Artem"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/2Gufnbof"]
+[Date "2026.07.11"]
+[Round "9.15"]
+[White "Martic, Ivan"]
+[Black "Erokhin, Artem"]
+[Result "1-0"]
+[WhiteElo "2273"]
+[BlackElo "2061"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 Bb4 7.O-O h6 8.Nxc6 bxc6 9.e5 Nd5 10.Ne4 O-O 11.c4 f5 12.cxd5 fxe4 13.Qd4 Qb6 14.Qxe4 exd5 15.Qd3 Bb7 16.Be3 Bc5 17.Bxc5 Qxc5 18.Bg4 Rae8 19.Rae1 Re7 20.Kh1 Qb4 21.h3 Rxf2 22.a3 Rxf1+ 23.Qxf1 Qd2 24.e6 d6 25.Rd1 Qg5 26.Qf3 Qf6 27.Qd3 h5 28.Rf1 Qxf1+ 29.Qxf1 hxg4 30.Qf4 Rxe6 31.Qxg4 Bc8 32.Qb4 Kf7 33.Qb8 Bd7 34.Qxa7 Ke7 35.Qd4 Re5 36.b4 Bf5 37.a4 g6 38.Qh4+ Kd7 39.a5 Re2 40.Qh7+ Re7 41.Qh8 Bd3 42.Qd4 Re1+ 43.Kh2 Be4 44.Qf2 Rb1 45.a6 Rxb4 46.Qf7+ Kc8 47.a7 Ra4 48.Qe8+ 1-0

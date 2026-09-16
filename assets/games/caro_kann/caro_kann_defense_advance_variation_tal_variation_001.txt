@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-2/CWGtkOG7/u5kRUtQD"]
+[Date "2026.07.01"]
+[Round "2.13"]
+[White "Simek, Petr"]
+[Black "Kuchar, Matej"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2055"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Bg5 Ne7 8.Nf3 Nd7 9.Nbd2 Qb6 10.O-O a5 11.c4 Qa6 12.Rac1 dxc4 13.Nxc4 Nf5 14.Qc2 Nb6 15.Nxb6 Qxb6 16.d5 Be7 17.dxe6 fxe6 18.Qc4 c5 19.Bxe7 Nxe7 20.Ng5 Nd5 21.Rfd1 O-O 22.Qc2 1-0

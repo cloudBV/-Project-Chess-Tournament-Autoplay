@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-5/b6FdDsCd/OVZbiKbE"]
+[Date "2026.07.01"]
+[Round "5.14"]
+[White "Piasetski, Leon"]
+[Black "Perez Gormaz, Matias"]
+[Result "1/2-1/2"]
+[WhiteElo "2159"]
+[BlackElo "2388"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 d5 3.cxd5 exd5 4.d4 c6 5.Bf4 Bd6 6.Bxd6 Qxd6 7.e3 Bf5 8.Nge2 Nd7 9.Ng3 Bg6 10.h4 h5 11.Bd3 Ne7 12.Qc2 Bxd3 13.Qxd3 Nf6 14.O-O-O O-O-O 15.Qe2 Kb8 16.Qf3 Qe6 17.Nce2 Qg4 18.Nf4 Nc8 19.Nd3 Nd6 20.Ne5 Qe6 21.Qf4 Ka8 22.Nd3 Nde4 23.Kb1 Nxg3 24.Qxg3 g6 25.Qe5 Qxe5 26.Nxe5 Rhf8 27.f3 Kb8 28.Kc2 Kc7 29.Kd3 Ne8 30.g4 Ng7 31.Rdg1 Rde8 32.gxh5 1/2-1/2

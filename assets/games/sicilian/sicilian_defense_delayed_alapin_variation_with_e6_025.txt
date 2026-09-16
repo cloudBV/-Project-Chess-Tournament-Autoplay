@@ -1,0 +1,15 @@
+[Event "Round 3: Jiang, Andrew - Prraneeth Vuppala"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-3/Ie91q7SG/PYbXLbOS"]
+[Date "2026.07.16"]
+[Round "3.13"]
+[White "Jiang, Andrew"]
+[Black "Prraneeth Vuppala"]
+[Result "1/2-1/2"]
+[WhiteElo "2250"]
+[BlackElo "2502"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.Bb5+ Nc6 6.d4 Bd6 7.dxc5 Bxc5 8.O-O Ne7 9.Nbd2 O-O 10.Nb3 Bd6 11.Be3 a6 12.Bd3 Ng6 13.Bxg6 hxg6 14.Bc5 Bxc5 15.Nxc5 Qd6 16.Nb3 Bg4 17.h3 Bxf3 18.Qxf3 Ne5 19.Qf4 Rad8 20.Rfe1 Nc4 21.Qxd6 Rxd6 22.Re2 a5 23.Nd4 Rb6 24.b3 Na3 25.Rae1 Nb5 26.Nxb5 Rxb5 27.Re7 a4 28.bxa4 Rb2 29.Rd1 Rxa2 30.Rxd5 Rxa4 31.Rxb7 Rc8 32.Rdd7 Rf4 33.Rbc7 Ra8 34.g3 Rf5 35.Rd2 g5 36.Kg2 Kh7 37.g4 Rf4 38.c4 Ra4 39.Rc2 Kg6 40.c5 Ra6 41.c6 Rf6 42.Rc8 Rb6 43.f3 Ra6 44.Rc7 Rb6 45.Rc8 Ra6 46.Rc3 Rb6 47.Kg3 Ra6 48.h4 gxh4+ 49.Kxh4 Rd6 50.Rc5 f6 51.f4 Ra3 52.f5+ Kh7 53.Rc2 Rd1 54.Rh2 Rg1 55.Rh3 Ra2 56.c7 Rc2 57.Rg3 Rh1+ 58.Rh3 Rg1 59.Rg3 Rh1+ 60.Rh3 Rg1 1/2-1/2

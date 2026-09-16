@@ -1,0 +1,14 @@
+[Event "Round 5: Filipovic, Branko - Sadeghi, Hassan Roger"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-5/N6V5gpLW/b7NXmgv7"]
+[Date "2026.07.12"]
+[Round "5.15"]
+[White "Filipovic, Branko"]
+[Black "Sadeghi, Hassan Roger"]
+[Result "1/2-1/2"]
+[WhiteElo "2279"]
+[BlackElo "2028"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.Nf3 Bg4 5.Nbd2 e6 6.c3 cxd4 7.exd4 Bd6 8.Bxd6 Qxd6 9.Bd3 Nge7 10.O-O h6 11.Re1 O-O 12.a4 Rac8 13.a5 Qc7 14.Qa4 Bf5 15.Bf1 Kh8 16.Ne5 Nxe5 17.dxe5 Nc6 18.Nf3 Be4 19.Nd2 1/2-1/2

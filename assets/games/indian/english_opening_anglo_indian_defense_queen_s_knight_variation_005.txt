@@ -1,0 +1,15 @@
+[Event "Round 4: Srdanovic, Jovana - Zuzek, Bor"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-4/bsbpgmMd/V4GWFTte"]
+[Date "2026.07.06"]
+[Round "4.20"]
+[White "Srdanovic, Jovana"]
+[Black "Zuzek, Bor"]
+[Result "1-0"]
+[WhiteElo "2286"]
+[BlackElo "2089"]
+[ECO "A16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 e5 4.Nf3 Bg7 5.d3 O-O 6.g3 c6 7.Bg2 d5 8.O-O dxe4 9.dxe4 Qe7 10.Qe2 Bg4 11.Rd1 Nbd7 12.b3 Rfd8 13.Bb2 Nf8 14.Qe3 Rxd1+ 15.Rxd1 N6d7 16.Ne2 a5 17.Bc3 a4 18.h3 Be6 19.Qd2 axb3 20.axb3 b5 21.cxb5 cxb5 22.Bb4 Qd8 23.Qd3 h6 24.Rb1 Qb6 25.Nc3 Qc6 26.Nd5 Kh7 27.Qd2 Qb7 28.Rc1 Rc8 29.Rd1 Nc5 30.Qe3 Nxe4 31.Qxe4 1-0

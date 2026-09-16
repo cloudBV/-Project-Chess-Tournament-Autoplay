@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.19"]
+[Round "9.8"]
+[White "Dovgaliuk, Oleksandr"]
+[Black "Bezemer, Arno"]
+[Result "1-0"]
+[WhiteElo "2305"]
+[BlackElo "2154"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 e6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd3 a6 6.Qg3 Nb4 7.Bd3 d5 8.exd5 exd5 9.Nge2 Nf6 10.O-O Nxd3 11.cxd3 h6 12.Nd4 g6 13.Re1+ Be7 14.Qe5 Kf8 15.Bf4 Rh7 16.Rac1 Nh5 17.Nxd5 Nxf4 18.Nxe7 Nxd3 19.Qf6 Bd7 20.Rcd1 Nxe1 21.Ne6+ Bxe6 22.Rxd8+ Rxd8 23.Nxg6+ 1-0

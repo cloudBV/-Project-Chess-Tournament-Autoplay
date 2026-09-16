@@ -1,0 +1,15 @@
+[Event "Round 4: Omonova, Umida - Khalafvand, Dorsa Sadat"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/J6nMlKKm"]
+[Date "2026.07.01"]
+[Round "4.24"]
+[White "Omonova, Umida"]
+[Black "Khalafvand, Dorsa Sadat"]
+[Result "0-1"]
+[WhiteElo "2328"]
+[BlackElo "2072"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 Qc7 7.Be2 c5 8.c3 c4 9.Nbd2 h6 10.Nf1 Bh7 11.Ng3 Ne7 12.O-O Nf5 13.Ne1 Nxg3 14.fxg3 Be7 15.Bh5 O-O 16.Bf4 Qb6 17.Qd2 f6 18.Nf3 Bd3 19.Rf2 fxe5 20.Nxe5 Nxe5 21.Bxe5 Rxf2 22.Qxf2 Rf8 23.Qd2 Rf5 24.Bf4 Rxh5 25.g4 Rg5 26.Bxg5 Bxg5 27.Qf2 e5 28.h4 Be7 29.Re1 e4 30.Qf5 Bxh4 31.Qxd5+ Kh7 32.Re3 Qf6 33.Qf5+ Qxf5 34.gxf5 Bg5 35.Rh3 e3 36.d5 Kg8 0-1

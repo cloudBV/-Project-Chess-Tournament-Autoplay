@@ -1,0 +1,15 @@
+[Event "Round 7: Baghirov, Mahammad - Ibadov, Dashgyn"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-7/xdqcR2NI/k3IL5rBd"]
+[Date "2026.07.02"]
+[Round "7.6"]
+[White "Baghirov, Mahammad"]
+[Black "Ibadov, Dashgyn"]
+[Result "0-1"]
+[WhiteElo "2301"]
+[BlackElo "2337"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.h3 Bb7 5.e3 Bd6 6.Bxd6 cxd6 7.Nbd2 O-O 8.Bd3 d5 9.O-O d6 10.c4 dxc4 11.Nxc4 Nc6 12.Rc1 Ne7 13.Ncd2 Qd7 14.Qe2 Rfc8 15.Ba6 h6 16.a3 Kf8 17.Qd3 Rxc1 18.Rxc1 Rc8 19.Rxc8+ Qxc8 20.Bxb7 Qxb7 21.Nb1 Ned5 22.Nc3 Nxc3 23.Qxc3 Ke7 24.Kf1 Nd5 25.Qc2 f5 26.Kg1 Qc7 27.Qxc7+ Nxc7 28.Kf1 Kf6 29.Ke2 e5 30.dxe5+ dxe5 31.Nd2 e4 32.Nb3 Ne6 33.Kd2 Ke5 34.Kc3 Kd5 35.Nc1 g5 36.Ne2 f4 37.Kd2 f3 38.Nc3+ Kc4 39.g4 Kb3 40.Nxe4 Kxb2 41.Nc3 Kxa3 42.Nb5+ Ka4 43.Nxa7 b5 44.Nc6 b4 45.Nd4 Nc5 46.Nxf3 Ne4+ 47.Kc1 Nxf2 48.h4 gxh4 49.Nxh4 Ka3 50.Nf3 Nxg4 51.e4 Ka2 52.Nd2 b3 0-1

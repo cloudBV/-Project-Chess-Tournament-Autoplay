@@ -1,0 +1,15 @@
+[Event "Round 1: Asgari, Morteza - Oktem, Ege Tuna"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/tYeowgYc"]
+[Date "2026.07.13"]
+[Round "1.13"]
+[White "Asgari, Morteza"]
+[Black "Oktem, Ege Tuna"]
+[Result "0-1"]
+[WhiteElo "2169"]
+[BlackElo "2359"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Qd2 a6 9.Bd3 O-O 10.O-O cxd4 11.Nxd4 Nc5 12.Be2 Bd7 13.a3 Rc8 14.Rad1 Nxd4 15.Bxd4 Na4 16.Nxa4 Bxa4 17.Bd3 g6 18.Rde1 Qc7 19.b4 Bb5 20.c3 Bxd3 21.Qxd3 Rfe8 22.g4 Bf8 23.f5 Bg7 24.f6 Bf8 25.Rf3 Qc4 26.Qd2 Qb3 27.h4 h6 28.Rd3 Rc4 29.Kg2 Qxa3 30.Bc5 Bxc5 31.bxc5 Kh7 32.Kh3 Qxc5 33.h5 Rg8 34.Rg3 gxh5 35.Qd3+ Kh8 36.Qd2 Rg5 37.gxh5 Rxg3+ 38.Kxg3 Rxc3+ 0-1

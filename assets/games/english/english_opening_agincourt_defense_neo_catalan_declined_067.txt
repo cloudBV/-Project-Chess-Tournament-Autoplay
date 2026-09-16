@@ -1,0 +1,14 @@
+[Event "Round 4: Valli, Frans - Mustonen, Niko"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-4/QbASiENr/tLtfPHDs"]
+[Date "2026.07.14"]
+[Round "4.17"]
+[White "Valli, Frans"]
+[Black "Mustonen, Niko"]
+[Result "1/2-1/2"]
+[WhiteElo "2227"]
+[BlackElo "2017"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 b6 7.d4 Bb7 8.Nc3 Nbd7 9.Bb2 Rc8 10.Rc1 Re8 11.Ne5 c5 12.Nxd7 Qxd7 13.dxc5 Bxc5 14.cxd5 Nxd5 15.Nxd5 Bxd5 16.Bxd5 Qxd5 17.Qxd5 exd5 18.e3 f6 19.Rfd1 Red8 20.Kf1 Kf7 21.Ke2 Ke6 22.Rc2 Bd6 23.Rdc1 Rxc2+ 24.Rxc2 Rd7 25.Kd3 Rc7 26.Re2 Be5 27.e4 1/2-1/2

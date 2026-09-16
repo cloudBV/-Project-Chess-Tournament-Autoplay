@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "26.4"]
+[White "Keymer, Vincent"]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[WhiteElo "2621"]
+[BlackElo "2687"]
+[ECO "A30"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.e3 Bg7 5.d4 d6 6.Be2 Bg4 7.d5 Bxc3+ 8.bxc3 Na5 9.e4 Nf6 10.Qd3 Nd7 11.O-O Bxf3 12.Qxf3 Nb6 13.Rb1 Qd7 14.Bd3 O-O-O 15.a4 Nbxc4 16.Qe2 Ne5 17.Bc2 g5 18.Bxg5 Rdg8 19.f4 f6 20.Bh4 Qg4 21.Qxg4+ Nxg4 22.Rf3 Nc4 23.Re1 Rg7 24.h3 h5 25.Bd3 Nd2 26.Rg3 Rhg8 27.hxg4 Rxg4 28.Ree3 Kc7 29.Rxg4 Rxg4 30.g3 Kb6 31.Be2 Rg7 32.e5 fxe5 33.fxe5 Ka5 34.e6 Kxa4 35.Bxh5 Nc4 36.Re1 Nb6 37.Rd1 Kb3 38.Bf7 Nc8 39.Rb1+ Kxc3 40.Rxb7 Kd4 41.Kg2 c4 42.Rxe7 Nxe7 43.Bxe7 Ke5 44.Bf8 Kf6 45.Bxg7+ Kxg7 46.Bh5 c3 47.Bd1 1-0

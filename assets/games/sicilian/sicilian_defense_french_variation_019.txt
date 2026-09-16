@@ -1,0 +1,15 @@
+[Event "Round 9: Kara, Goktan Can - Karaokcu, Erkin"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/fNPRX3bB"]
+[Date "2026.07.05"]
+[Round "9.31"]
+[White "Kara, Goktan Can"]
+[Black "Karaokcu, Erkin"]
+[Result "1-0"]
+[WhiteElo "2015"]
+[BlackElo "2277"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 d5 5.Qe2 Nf6 6.Bg2 Be7 7.O-O b5 8.exd5 exd5 9.d4 c4 10.Ne5 Nxd4 11.Qd1 Ne6 12.Nc3 Bb7 13.Nxb5 Qb6 14.a4 O-O 15.Be3 Bc5 16.Bxc5 Qxc5 17.Nf3 Ba6 18.Nbd4 c3 19.b4 Qxb4 20.Re1 Nc5 21.Nc6 Qb7 22.Ne7+ Kh8 23.Rb1 Qd7 24.Ne5 Qxa4 25.Ra1 Qb5 26.Rb1 Qa5 27.Nxd5 Rac8 28.Nxf6 gxf6 29.Qf3 Qd8 30.Nc6 Qd6 31.Rbd1 Nd3 32.Rxd3 Bxd3 33.cxd3 Rfe8 34.Rc1 Re6 35.Rxc3 Re1+ 36.Bf1 Re6 37.Nd4 Ree8 38.Nf5 Qe5 39.Qg4 1-0

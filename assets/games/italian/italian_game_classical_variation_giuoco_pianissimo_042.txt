@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.2"]
+[White "Warchol, Kamil"]
+[Black "Raczek, Krzysztof"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2458"]
+[ECO "C54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.O-O Bc5 6.Re1 d6 7.c3 a6 8.a4 Ba7 9.h3 g5 10.Nh2 g4 11.Nxg4 Nxg4 12.hxg4 Qh4 13.Qf3 Rh7 14.Be3 Bxg4 15.Qg3 Qxg3 16.fxg3 Bxe3+ 17.Rxe3 Ke7 18.Nd2 Rg8 19.Rf1 Be6 20.Kh2 h5 21.Bxe6 fxe6 22.Nf3 Rf7 23.Nd2 Rfg7 24.Rf2 Nd8 25.Ref3 Nf7 26.Nf1 Nh6 27.Re2 Ng4+ 28.Kg1 b5 29.a5 c5 30.Ne3 Nf6 31.Nf1 Nh7 32.Ref2 Rb8 33.Ne3 Rh8 34.Kf1 Rhg8 35.Ke2 Nf8 36.Nf1 Nd7 37.Kd2 Nb8 38.b4 cxb4 39.cxb4 Nc6 40.Kc3 Rc8 41.Rf6 Nxa5+ 42.Kb2 Nc6 43.Rh6 Nxb4 44.Rff6 Nxd3+ 45.Ka2 Nc5 46.Rxh5 0-1

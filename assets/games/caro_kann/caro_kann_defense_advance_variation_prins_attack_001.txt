@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.19"]
+[Round "7.7"]
+[White "Barria Arbunic, Manuel"]
+[Black "Miranda Camus, Joaquin Ignacio"]
+[Result "1/2-1/2"]
+[WhiteElo "2015"]
+[BlackElo "2305"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Prins Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.b4 e6 5.c3 a5 6.b5 c5 7.Bd3 Bxd3 8.Qxd3 Nd7 9.Ne2 Ne7 10.a4 Nf5 11.O-O h5 12.Nd2 Be7 13.Ng3 c4 14.Qe2 g6 15.Nxf5 gxf5 16.Nf3 Nf8 17.Be3 Ng6 18.Qd2 Rg8 19.h3 b6 20.Rfe1 Qc7 21.Kf1 O-O-O 22.g3 h4 23.Bf4 Rh8 24.Kg2 Rdg8 25.Rh1 Qd8 26.Kf1 Qf8 27.Ke2 Rh5 28.Rh2 Qg7 29.Rg1 hxg3 30.fxg3 Qh7 31.Rgh1 Qg7 32.Rg1 Qh7 33.Rgh1 Rg7 34.Kf2 Qg8 35.Rg1 Rgh7 36.Rgh1 Qh8 37.Kg2 Qd8 38.Qe3 Rh8 39.Qd2 Qf8 40.Ra1 Qe8 41.Rah1 Qf8 42.Ra1 Kd7 43.Qe3 Qg8 44.Qd2 Bf8 45.Ng1 Qh7 46.Qe3 Bh6 47.Rf1 Bxf4 48.gxf4 Rh4 49.Rf3 Qh6 50.Ne2 Rg8 51.Kh1 Qf8 52.Qc1 Rgh8 53.Rg3 Qe7 54.Kg2 R4h5 55.Kh1 R5h7 56.Rf3 Kc7 57.Rg3 Rh4 58.Rf3 R8h7 59.Rg3 R7h5 60.Rf3 1/2-1/2

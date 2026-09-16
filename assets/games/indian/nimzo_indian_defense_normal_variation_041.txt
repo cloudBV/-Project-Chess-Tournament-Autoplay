@@ -1,0 +1,15 @@
+[Event "Round 9: Badacsonyi, Stanley - Kjartansson, Gudmundur"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-9/EM0NzUd0/u8GthcNv"]
+[Date "2026.07.23"]
+[Round "9.2"]
+[White "Badacsonyi, Stanley"]
+[Black "Kjartansson, Gudmundur"]
+[Result "1-0"]
+[WhiteElo "2476"]
+[BlackElo "2367"]
+[ECO "E46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.Nf3 Nbd7 7.Rc1 Be7 8.Bd3 dxc4 9.Bxc4 c5 10.O-O a6 11.a4 cxd4 12.Nxd4 Ne5 13.Be2 Bd7 14.Qb3 Rb8 15.Rfd1 Nc6 16.Nf3 Qc7 17.e4 Rfc8 18.h3 Bf8 19.Be3 Qa5 20.Bf4 e5 21.Be3 Be6 22.Qb6 Qxb6 23.Bxb6 Nd7 24.Be3 Bc5 25.Nd5 Bxe3 26.Nxe3 f6 27.Rd6 Nf8 28.Bxa6 Nd4 29.Rxc8 Nxf3+ 30.gxf3 Bxc8 31.Bc4+ Kh8 32.Rd8 1-0

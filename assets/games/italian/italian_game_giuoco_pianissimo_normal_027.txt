@@ -1,0 +1,15 @@
+[Event "Round 9: George, Kevin - Dushyant Sharma"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/C3HiPART"]
+[Date "2026.07.19"]
+[Round "9.12"]
+[White "George, Kevin"]
+[Black "Dushyant Sharma"]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2353"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Be3 Bxe3 6.fxe3 d6 7.O-O Na5 8.Bd5 c6 9.Bxf7+ Kxf7 10.b4 Re8 11.Qd2 d5 12.bxa5 Kg8 13.exd5 cxd5 14.d4 e4 15.Ne5 Ng4 16.Nxg4 Bxg4 17.Na3 Qe7 18.Nb5 Rec8 19.Nc3 Be6 20.Na4 Rc4 21.Nc5 b6 22.Nxe6 Qxe6 23.Rf2 Rac8 24.Rb1 Qc6 25.axb6 axb6 26.Rb2 h6 27.Qe2 Rc3 28.h3 Qd6 29.Qg4 Qa3 30.Rxb6 Qc1+ 31.Kh2 Qxe3 32.Rbf6 R3c6 33.R6f5 Qxd4 34.Qf4 Kh7 35.Rd2 Qc4 36.Rfxd5 Rf6 37.Rf5 e3 38.Rd4 Qc7 39.Rxf6 gxf6 40.Rd6 e2 41.Qf5+ Kg8 42.Qg6+ Qg7 43.Qe4 Qc7 44.Qe6+ Kh7 45.Qf5+ Kg8 46.Qe6+ 1/2-1/2

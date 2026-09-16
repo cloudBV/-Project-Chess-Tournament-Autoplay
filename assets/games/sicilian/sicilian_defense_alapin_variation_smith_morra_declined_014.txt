@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "5.8"]
+[White "Babula, Matej"]
+[Black "Stary, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2119"]
+[BlackElo "2171"]
+[ECO "B22"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.cxd4 d6 6.Nf3 Nc6 7.Bc4 Nb6 8.Bb5 e6 9.O-O Bd7 10.Nc3 Be7 11.exd6 Bxd6 12.d5 Nxd5 13.Nxd5 exd5 14.Qxd5 Be7 15.Rd1 Qc8 16.Ne5 Nxe5 17.Qxe5 Bxb5 18.Qxb5+ Qc6 19.Qe5 Qf6 20.Qb5+ Qc6 21.Qe5 Qf6 22.Qb5+ Qc6 23.Qe2 Qe6 24.Qxe6 fxe6 25.Be3 a6 26.f3 Rd8 27.Rxd8+ Bxd8 28.Bd4 Bf6 29.Bxf6 gxf6 30.Re1 Ke7 31.Rc1 Rd8 32.Rc7+ Rd7 33.Rxd7+ Kxd7 34.Kf2 Kd6 35.f4 e5 36.fxe5+ Kxe5 37.Ke3 b6 38.Kf3 1/2-1/2

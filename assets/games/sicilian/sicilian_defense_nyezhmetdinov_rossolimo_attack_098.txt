@@ -1,0 +1,14 @@
+[Event "Round 1: Gebus, Mathis - Moussard, Jules"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/UecCBLCP"]
+[Date "2026.07.18"]
+[Round "1.10"]
+[White "Gebus, Mathis"]
+[Black "Moussard, Jules"]
+[Result "1/2-1/2"]
+[WhiteElo "2301"]
+[BlackElo "2606"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.e5 Nd5 5.Nc3 Nc7 6.Bxc6 dxc6 7.Ne4 Bg4 8.Nxc5 Qd5 9.d4 O-O-O 10.Be3 e6 11.Nd3 Qe4 12.Qe2 Be7 13.O-O-O Rd7 14.h3 Bxf3 15.Qxf3 Qxf3 16.gxf3 Rhd8 17.c4 b5 18.b3 bxc4 19.bxc4 Na6 20.c5 Nc7 21.Nb4 Kb7 22.a4 a5 23.Nc2 Nd5 24.Rd3 f6 25.f4 fxe5 26.fxe5 Bh4 27.Rb3+ Ka6 28.Kd2 Rf8 29.Ke2 Rdf7 30.Rh2 g6 31.Na3 Rb7 32.Rxb7 Kxb7 33.Nc4 Ka6 34.Nb6 Nxb6 35.cxb6 Bd8 36.Rh1 Bxb6 37.Rd1 1/2-1/2

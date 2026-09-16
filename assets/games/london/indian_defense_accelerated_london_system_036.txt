@@ -1,0 +1,14 @@
+[Event "Round 9: Mohamed Anees M - Nikcevic, Nebojsa"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/xvw5NgiU"]
+[Date "2026.07.11"]
+[Round "9.17"]
+[White "Mohamed Anees M"]
+[Black "Nikcevic, Nebojsa"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2315"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 c6 3.Nf3 Qb6 4.Qc1 d5 5.e3 Bf5 6.Be2 h6 7.h3 e6 8.O-O Nbd7 9.c4 Be7 10.Nc3 Ne4 11.c5 Qa5 12.Nxe4 Bxe4 13.a3 a6 14.b4 Qd8 15.Qc3 O-O 16.a4 Bxf3 17.Bxf3 Bf6 18.e4 Re8 19.e5 Bg5 20.Bh2 b5 21.Be2 g6 22.Ra3 f5 23.exf6 Bxf6 24.Bd3 g5 25.Re1 Qe7 26.Bg6 Rec8 27.Bf5 Nf8 28.Bd6 Qg7 29.Rxe6 Bxd4 30.Qe1 Nxe6 31.Bxe6+ Kh8 32.Bxc8 Rxc8 33.Qe6 Rg8 34.axb5 axb5 35.Rf3 Qg6 36.Be5+ Bxe5 37.Qxe5+ Kh7 38.Rf6 Qb1+ 39.Kh2 Rg7 40.Rxc6 Qe4 41.Qxe4+ dxe4 42.Rb6 Rf7 43.Kg1 Ra7 44.Rxb5 Ra1+ 45.Kh2 Ra2 1-0

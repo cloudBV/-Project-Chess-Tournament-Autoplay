@@ -1,0 +1,14 @@
+[Event "Round 6: Duboue, Peio - Kavciyan, Yega"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-6/TfCvIPio/JQPBqn7a"]
+[Date "2026.07.23"]
+[Round "6.5"]
+[White "Duboue, Peio"]
+[Black "Kavciyan, Yega"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2098"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.Na4 Bb6 7.a3 Be6 8.Bxe6 fxe6 9.O-O O-O 10.b4 Qe8 11.c3 Nh5 12.d4 exd4 13.Nxb6 axb6 14.Nxd4 Nf4 15.f3 Nxd4 16.cxd4 Qb5 17.Rf2 d5 18.Be3 c6 19.Rd2 Qa4 20.Qb1 Qb5 21.Qb3 Qc4 22.Qxc4 dxc4 23.Bxf4 Rxf4 24.a4 b5 25.a5 Rf7 26.Kf2 Rd7 27.Ke3 Kf7 28.g4 Ke7 29.h4 Kd6 30.h5 Ra6 31.f4 Rd8 32.f5 h6 33.Rf2 Rf8 34.Raa2 Raa8 35.fxe6 Rxf2 36.Rxf2 Kxe6 37.Rf5 Rd8 38.g5 Ke7 39.Rc5 Kd7 40.g6 Rf8 41.d5 Re8 42.Kd4 Rc8 43.dxc6+ Rxc6 44.Kc3 Rxc5 45.bxc5 Kc6 46.Kb4 c3 47.Kxc3 Kxc5 48.Kb3 Kd4 49.Kb4 Kxe4 50.Kxb5 Kf5 51.Kb6 Kg5 52.Kxb7 Kxh5 53.a6 Kxg6 54.a7 h5 55.a8=Q Kg5 56.Kc6 1-0

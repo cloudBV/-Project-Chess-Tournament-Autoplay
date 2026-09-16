@@ -1,0 +1,14 @@
+[Event "Round 8: Thorfinnsson, Bjorn - Webb, Laurence E"]
+[Site "https://lichess.org/broadcast/11-eme-open-international-de-porticcio/round-8/ANrC0L7O/UCBBt413"]
+[Date "2026.07.02"]
+[Round "8.7"]
+[White "Thorfinnsson, Bjorn"]
+[Black "Webb, Laurence E"]
+[Result "1-0"]
+[WhiteElo "2347"]
+[BlackElo "2230"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.Nf3 Nc6 5.c3 e6 6.Nbd2 Bd6 7.Bg3 O-O 8.Ne5 Ne7 9.Bd3 Nf5 10.Bf4 cxd4 11.exd4 Be7 12.g4 Nd6 13.Qf3 Bd7 14.g5 Nfe8 15.Rg1 b5 16.Bxh7+ Kxh7 17.g6+ Kg8 18.Qh3 fxg6 19.Nxg6 Nf7 20.Be5 Bf6 21.f4 b4 22.O-O-O bxc3 23.bxc3 Rc8 24.Kb2 Ba4 25.Rde1 Nc7 26.f5 Re8 27.Nf4 exf5 28.Qxf5 Bg5 29.Nf3 Rxe5 30.Nxe5 Nxe5 31.dxe5 Bxf4 32.Rxg7+ Kxg7 33.Rg1+ Bg5 34.Rxg5+ Qxg5 35.Qxg5+ Kh8 36.Qh4+ Kg7 37.Qg4+ 1-0

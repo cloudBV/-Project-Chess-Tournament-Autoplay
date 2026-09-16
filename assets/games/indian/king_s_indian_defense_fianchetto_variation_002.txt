@@ -1,0 +1,15 @@
+[Event "Round 3: Rensch, Daniel - Johnson, Donald"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/uzN9sNYy"]
+[Date "2026.07.03"]
+[Round "3.20"]
+[White "Rensch, Daniel"]
+[Black "Johnson, Donald"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2224"]
+[ECO "E60"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 c6 6.d5 cxd5 7.cxd5 e6 8.Nc3 exd5 9.O-O Re8 10.Bg5 h6 11.Be3 Nc6 12.Nxd5 Nxd5 13.Qxd5 Bxb2 14.Rab1 Bg7 15.Rfd1 Ne7 16.Qd2 Kh7 17.Nd4 d5 18.Bf4 a6 19.h4 Nc6 20.Nb3 Bg4 21.Re1 Qe7 22.Qxd5 Rad8 23.Qc5 Bxe2 24.Qxe7 Rxe7 25.Nc5 1-0

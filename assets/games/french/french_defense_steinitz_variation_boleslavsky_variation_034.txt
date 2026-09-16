@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.14"]
+[White "Vecillas Rey, Daniel"]
+[Black "Castellanos Gomez, Alejandro"]
+[Result "1/2-1/2"]
+[WhiteElo "2165"]
+[BlackElo "2298"]
+[ECO "C11"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.a3 b5 9.Bd3 Qb6 10.O-O Be7 11.Bf2 Bb7 12.Re1 g6 13.dxc5 Bxc5 14.Bxc5 Nxc5 15.Kh1 Rd8 16.Qe2 b4 17.axb4 Qxb4 18.Qd2 O-O 19.f5 exf5 20.Qh6 Qg4 21.Ng5 Qh5 22.Qxh5 gxh5 23.Bxf5 Nd4 24.Bxh7+ Kg7 25.Rad1 Nde6 26.Nxe6+ fxe6 27.Bd3 1/2-1/2

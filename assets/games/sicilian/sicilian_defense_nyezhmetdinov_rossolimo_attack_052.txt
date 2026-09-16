@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.08"]
+[Round "5.2"]
+[White "Kiss, Inez"]
+[Black "Terbe, Zsuzsanna"]
+[Result "1-0"]
+[WhiteElo "2078"]
+[BlackElo "2192"]
+[ECO "B30"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.d3 e6 9.Nbd2 Be7 10.Be2 O-O 11.Nf1 d5 12.e5 Nd7 13.d4 cxd4 14.cxd4 Bb4 15.Bd2 Qb6 16.Bxb4 Qxb4 17.N1d2 Rfc8 18.Rc1 Rc7 19.Qb3 Rac8 20.Rxc6 Qxb3 21.Rxc7 Qxb2 22.Rxc8+ Nf8 23.Bd3 g6 24.Rb1 Qa3 25.Rb3 Qxa2 26.Rxb7 Qa1+ 27.Bf1 Kg7 28.Ng5 Be2 29.Rxf7+ Kh6 30.h4 Kh5 31.Rcxf8 Kxh4 32.Ngf3+ Kg4 33.Rf4+ Kh5 34.Rh4# 1-0

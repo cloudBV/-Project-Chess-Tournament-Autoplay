@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.7"]
+[White "Amundsen, Ask"]
+[Black "Kierulf, Villum Brevick"]
+[Result "0-1"]
+[WhiteElo "2237"]
+[BlackElo "2187"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 b6 3.Bg2 Bb7 4.d4 Nd7 5.O-O e6 6.c4 dxc4 7.Qa4 a6 8.Qxc4 c5 9.dxc5 Bxc5 10.Rd1 Rc8 11.Qf4 Qe7 12.Nc3 Ngf6 13.Na4 Nd5 14.Qd2 O-O 15.Nxc5 Nxc5 16.b3 Ne4 17.Qd4 Nec3 18.Rd2 Rfd8 19.Bb2 Nb4 20.Qe5 Rxd2 21.Nxd2 f6 22.Qe3 Nc2 23.Qd3 Nxa1 24.Bxc3 Bxg2 25.Kxg2 Qb7+ 26.e4 Qc6 27.Bxa1 Qc2 28.Qd7 Qc6 29.Qd4 Qc5 30.a4 Qxd4 31.Bxd4 Rc2 32.Nc4 b5 33.axb5 axb5 34.Na3 Ra2 35.Nxb5 e5 36.Bc3 Ra6 37.Nc7 Ra3 38.Nd5 Rxb3 39.Kf3 Kf7 40.Ke3 Rb1 41.h4 Rf1 42.Ke2 Rb1 43.Ne3 Ke6 44.h5 Rh1 45.g4 g6 46.Nf1 Rh4 47.f3 gxh5 48.gxh5 Rxh5 49.Bd2 f5 50.Kf2 f4 51.Bc3 Kd6 52.Kg2 Rg5+ 53.Kf2 h5 54.Bb4+ Ke6 55.Nh2 Rg8 56.Bc3 Rc8 57.Bd2 Rc2 58.Ke2 Kf6 59.Nf1 Ra2 60.Kf2 Ra1 61.Bc3 Rc1 62.Ba5 Ke6 63.Kg2 Rc2+ 64.Bd2 Ra2 65.Kh3 Ra1 66.Kg2 Rb1 67.Ba5 Kd6 68.Nd2 Rb2 69.Kh3 Kc5 70.Kh4 Kd4 71.Kxh5 Rb5 72.Kg4 Kd3 73.Bc7 Kxd2 74.Bxe5 Rxe5 75.Kxf4 Re8 76.e5 Kd3 77.Kf5 Kd4 78.f4 Kd5 79.Kg6 Rf8 80.Kg5 Ke6 0-1

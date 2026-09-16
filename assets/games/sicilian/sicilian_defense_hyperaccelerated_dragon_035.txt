@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.20"]
+[White "Bouska, Jiri"]
+[Black "Kovalskyi, Roman"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2060"]
+[ECO "B27"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg7 6.Na3 cxd4 7.Nb5 Na6 8.Nbxd4 Nf6 9.Bb5+ Bd7 10.Bxa6 bxa6 11.O-O O-O 12.Re1 Rfe8 13.Ne5 Bf5 14.Nxf5 Qxd1 15.Rxd1 gxf5 16.Be3 Ne4 17.Nc6 Rac8 18.Na5 Rc7 19.f3 Nd6 20.Bf4 Rb8 21.Rxd6 exd6 22.Bxd6 Rcc8 23.Bxb8 Rxb8 24.Nc4 Rc8 25.Nd2 Rb8 26.Rb1 a5 27.a4 Bh6 28.Nc4 Rc8 29.Nxa5 Be3+ 30.Kf1 Bb6 31.Nb3 Rc4 32.a5 Bc7 33.Rd1 Bxh2 34.Rd7 a6 35.Rd4 Rc8 36.f4 Bg3 37.Ke2 Rb8 38.Rb4 Re8+ 39.Kf3 Bh2 40.Nd4 Re1 41.Nxf5 h5 42.g3 Bg1 43.Rc4 Kh7 44.Rc6 Rb1 45.b4 Rb3 46.Kg2 Ba7 47.Rh6+ Kg8 48.Rxa6 Rb2+ 49.Kf1 Rb1+ 50.Ke2 Bg1 51.Rc6 Rb2+ 52.Kd3 Bh2 53.a6 Ra2 54.b5 h4 55.gxh4 Bxf4 56.Ne7+ Kf8 57.Nd5 Rd2+ 58.Kc4 Bg3 59.a7 Ra2 60.Rc8+ 1-0

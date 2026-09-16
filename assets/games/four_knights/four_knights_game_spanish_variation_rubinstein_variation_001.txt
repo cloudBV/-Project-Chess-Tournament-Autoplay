@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "1.2"]
+[White "Praggnanandhaa R"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2627"]
+[ECO "C48"]
+[TimeControl "25+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2 Nxf3+ 6.Bxf3 Bc5 7.Na4 d6 8.O-O O-O 9.Nxc5 dxc5 10.d3 b6 11.Be2 c4 12.b3 cxd3 13.Bxd3 Be6 14.Ba3 c5 15.Bb2 Qc7 16.f4 c4 17.bxc4 exf4 18.e5 Qc5+ 19.Kh1 Ng4 20.Bd4 Qe7 21.Rxf4 Qg5 22.Rf3 Rad8 23.c3 Nxe5 24.Rg3 Ng4 25.Qf3 h5 26.h3 Qh4 27.Kg1 Rxd4 28.cxd4 Ne5 29.dxe5 Qd4+ 30.Kh2 h4 31.Rxg7+ Kxg7 32.Qf6+ 1-0

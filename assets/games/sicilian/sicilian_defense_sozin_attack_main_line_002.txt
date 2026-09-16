@@ -1,0 +1,15 @@
+[Event "Round 5: Borgaonkar Akshay - Vaidyanathan, Kannan"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-5/TE8ywwR3/lqwexPF3"]
+[Date "2026.07.04"]
+[Round "5.2"]
+[White "Borgaonkar Akshay"]
+[Black "Vaidyanathan, Kannan"]
+[Result "1-0"]
+[WhiteElo "2389"]
+[BlackElo "2364"]
+[ECO "B89"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Sozin Attack, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 a6 8.Qe2 Bd7 9.O-O-O b5 10.Bb3 Na5 11.Kb1 Be7 12.a3 Nxb3 13.cxb3 O-O 14.g4 d5 15.e5 Ne8 16.f4 b4 17.axb4 Bxb4 18.g5 Nc7 19.Na2 a5 20.Rhg1 Qb8 21.Rg3 g6 22.Rh3 a4 23.Qf2 axb3 24.Nc1 Be7 25.Rh6 Kg7 26.Rd3 Rh8 27.Rxb3 Qc8 28.Rc3 Qb7 29.f5 exf5 30.e6 Nxe6 31.Nxe6+ Bxe6 32.Bd4+ f6 33.Qh4 Raf8 34.Rh3 Bg8 35.Rxg6+ Kxg6 36.Qh6+ Kf7 37.gxf6 Qb4 38.Qg7+ Ke8 39.fxe7 Qxe7 40.Qxh8 Be6 41.Rxh7 Rxh8 42.Rxe7+ Kxe7 43.Bxh8 f4 44.Kc2 Kf7 45.Be5 f3 46.Kd2 Kg6 47.Ke3 Kf5 48.Bg3 Kg4 49.Nd3 Bf5 50.Ne5+ Kh3 51.Nxf3 Bc2 52.b4 Ba4 53.Nd4 Bd7 54.b5 Bc8 55.b6 Bb7 56.Nb5 Kg4 57.Nd6 Bc6 58.Kd4 Kg5 59.b7 Bxb7 60.Nxb7 Kg4 61.Kxd5 1-0

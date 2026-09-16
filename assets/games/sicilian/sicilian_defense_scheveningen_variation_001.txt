@@ -1,0 +1,15 @@
+[Event "Round 7: Mosadeghpour, Masoud - Tahmasebi, Hamidreza"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-7/54Voowky/wsRu7Xja"]
+[Date "2026.07.15"]
+[Round "7.2"]
+[White "Mosadeghpour, Masoud"]
+[Black "Tahmasebi, Hamidreza"]
+[Result "0-1"]
+[WhiteElo "2416"]
+[BlackElo "2375"]
+[ECO "B80"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 a6 7.Qf3 e5 8.Nf5 g6 9.Nh6 Be6 10.Be2 Nc6 11.Rd1 Bg7 12.Nd5 Bxd5 13.exd5 Nd4 14.Bxd4 exd4 15.Qf4 Qa5+ 16.c3 dxc3 17.O-O cxb2 18.Qxd6 Ne4 19.Qf4 Bxh6 20.Qxe4+ Kf8 21.d6 Re8 22.Qc2 Bc1 23.d7 Rd8 24.Bc4 Kg7 25.Rd5 Qb6 26.Bb3 Qc6 27.Qd3 Rhf8 28.a4 b5 29.axb5 axb5 30.Rd1 Ra8 31.Bc2 Rfd8 32.Rxb5 Ra1 33.Qd4+ Kg8 34.Qb6 Qxb6 35.Rxb6 Rxd7 36.Rf1 Rd2 37.Be4 f5 0-1

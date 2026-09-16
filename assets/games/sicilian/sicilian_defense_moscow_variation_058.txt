@@ -1,0 +1,15 @@
+[Event "Round 8: Martinez Duany, Lelys Stanley - Vitier Vazquez, Cristian"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-8/M7b2uBBM/V9bCvX5r"]
+[Date "2026.07.11"]
+[Round "8.7"]
+[White "Martinez Duany, Lelys Stanley"]
+[Black "Vitier Vazquez, Cristian"]
+[Result "0-1"]
+[WhiteElo "2438"]
+[BlackElo "2375"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c4 Nf6 5.Nc3 g6 6.d4 cxd4 7.Nxd4 Bg7 8.Be3 O-O 9.Bxd7 Bxd7 10.h3 a6 11.a4 Qc7 12.Qd3 Rfc8 13.b3 e5 14.Nc2 b5 15.axb5 axb5 16.Rxa8 Rxa8 17.Nxb5 Bxb5 18.cxb5 Ra2 19.Kd1 d5 20.b6 Qc8 21.exd5 Nxd5 22.Qc4 Qd8 23.Kc1 Nxe3 24.fxe3 Qxb6 25.Rd1 h5 26.Rd7 Qf6 27.e4 Ra8 28.Kb2 Bh6 29.Qd5 Rf8 30.Qc4 Qf4 31.Rd1 Qg3 32.Qe2 Rc8 33.Qf3 Qg5 34.g3 Qe7 35.h4 Qc5 36.Qd3 Qc7 37.Ra1 Qc5 38.Rf1 Bf8 39.Rf3 Qa5 40.Rf1 Qc7 41.Ra1 Bc5 42.Ra4 Bd4+ 43.Nxd4 Qc1+ 44.Ka2 exd4 45.Rc4 Rxc4 46.Qxc4 Qd2+ 47.Kb1 d3 48.Qc8+ Kg7 49.Qc1 Qe2 50.Qc3+ Kh7 51.Kc1 Qxe4 52.Qd2 Qd4 53.Kd1 Qa1+ 54.Qc1 Qa2 55.Qc3 Qe2+ 56.Kc1 Qe3+ 57.Kb2 Qxg3 58.Qf6 Qc7 59.Qc3 Qd8 60.Kc1 Qxh4 61.Qxd3 Qf4+ 62.Kd1 h4 63.Ke2 Kg7 64.Qc3+ Qf6 65.Qd3 g5 66.Ke1 g4 67.Qe2 Qe6 68.b4 Kf6 69.b5 Qxe2+ 0-1

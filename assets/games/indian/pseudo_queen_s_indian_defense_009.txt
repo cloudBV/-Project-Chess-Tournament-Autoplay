@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "7.4"]
+[White "Nagly, Wojciech"]
+[Black "Zielonka, Adam"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2180"]
+[ECO "A47"]
+[Variant "Standard"]
+[Opening "Pseudo Queen's Indian Defense"]
+
+1.d4 Nf6 2.Nf3 b6 3.e3 Bb7 4.Be2 e6 5.O-O Be7 6.c4 c5 7.Nc3 cxd4 8.exd4 d5 9.Bg5 dxc4 10.Bxc4 O-O 11.Re1 Nc6 12.a3 Rc8 13.Ba2 Nd5 14.Bxd5 Bxg5 15.Be4 Bf6 16.Rc1 Na5 17.Bxb7 Nxb7 18.Qd3 Qd7 19.Rcd1 Rfd8 20.Ne4 Be7 21.Neg5 Bxg5 22.Nxg5 g6 23.Qh3 h5 24.Ne4 Qe7 25.Qf3 Nd6 26.Nf6+ Kg7 27.Nd5 Qg5 28.Nc3 Qf5 29.Qg3 Nc4 30.Ne4 Nxb2 31.Nd6 Rxd6 32.Qxd6 Nxd1 33.Rxd1 Rc2 34.Rf1 Rd2 35.Qd7 Qd3 36.g3 a5 37.Qc6 Rd1 38.Rxd1 Qxd1+ 39.Kg2 Qxd4 40.Qc7 Qd5+ 41.Kg1 Qc5 42.Qd8 Qxa3 43.Qd4+ Kh7 44.Qxb6 Qa1+ 45.Kg2 Qc3 46.Qb7 Kg7 47.Qd7 Qc4 48.Qa7 a4 49.h4 Qd5+ 50.Kh2 Qc4 51.Qb8 a3 52.Qe5+ Kh7 53.Qf6 Qc7 54.Qa1 0-1

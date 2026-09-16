@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.23"]
+[White "Bascunana Sanchez, Pablo"]
+[Black "Fedorovsky, Michael"]
+[Result "0-1"]
+[WhiteElo "2189"]
+[BlackElo "2359"]
+[ECO "B22"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Anti-Alapin Gambit"]
+
+1.e4 c5 2.c3 d5 3.exd5 Nf6 4.Nf3 Nxd5 5.d4 cxd4 6.Nxd4 e5 7.Nf3 f6 8.Bc4 Be6 9.O-O Nc6 10.Qe2 Qd7 11.Re1 O-O-O 12.b4 g5 13.Bxg5 fxg5 14.Nxe5 Nxe5 15.Qxe5 Nf4 16.Qxh8 Bxc4 17.Qf6 Qg4 18.g3 Qh3 19.gxf4 Qg4+ 20.Kh1 Bd5+ 21.f3 Bxf3# 0-1

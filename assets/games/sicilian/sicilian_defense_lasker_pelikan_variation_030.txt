@@ -1,0 +1,15 @@
+[Event "Round 4: Degenbaev, Aziz - Ilkhomi, Jaloliddin"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/DclfHAtf"]
+[Date "2026.07.24"]
+[Round "4.6"]
+[White "Degenbaev, Aziz"]
+[Black "Ilkhomi, Jaloliddin"]
+[Result "1/2-1/2"]
+[WhiteElo "2302"]
+[BlackElo "2417"]
+[ECO "B33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.c4 Ng6 10.Qa4 Bd7 11.Qb4 Qb8 12.h4 h5 13.Be2 a6 14.Nc3 a5 15.Qb3 a4 16.Qd1 Be7 17.g3 Qc8 18.Be3 Bg4 19.Nb5 e4 20.Bd4 O-O 21.Bxg4 hxg4 22.h5 Ne5 23.Bxe5 dxe5 24.d6 Bd8 25.Qe2 Qf5 26.Nc3 Ba5 27.O-O-O Bxc3 28.bxc3 Rfd8 29.h6 g6 30.Qe3 Rac8 31.c5 Qe6 32.Qg5 Kh7 33.d7 Rxd7 34.Rxd7 Qxd7 35.Qxe5 f6 36.Qxf6 Rxc5 37.Rd1 Qc7 38.Kc2 Rf5 39.Qd4 Qf7 40.Qxa4 Rxf2+ 41.Kc1 Rxa2 42.Rd7 Rxa4 43.Rxf7+ Kxh6 44.Rxb7 Ra2 45.Rb2 Ra7 46.Re2 Ra1+ 47.Kd2 Rg1 48.Rxe4 Rxg3 49.c4 Kg5 50.c5 Ra3 51.c6 Ra8 52.c7 1/2-1/2

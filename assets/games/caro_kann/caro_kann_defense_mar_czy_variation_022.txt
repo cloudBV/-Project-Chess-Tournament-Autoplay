@@ -1,0 +1,15 @@
+[Event "Round 5: Brewer, Callum D - Fava, Lorenzo"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-5/fSrGUwda/i8INUEPW"]
+[Date "2026.07.23"]
+[Round "5.6"]
+[White "Brewer, Callum D"]
+[Black "Fava, Lorenzo"]
+[Result "0-1"]
+[WhiteElo "2137"]
+[BlackElo "2343"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Bd3 Nd7 5.c3 e5 6.exd5 cxd5 7.dxe5 Nxe5 8.Bb5+ Nc6 9.Be3 Bd6 10.Ne2 Ne7 11.Nd4 Qc7 12.Na3 Bxh2 13.Qd2 Bg3+ 14.Kd1 a6 15.Bd3 h6 16.Nac2 Ne5 17.Bf4 Bxf4 18.Qxf4 Bd7 19.Re1 f6 20.Nf5 Bxf5 21.Bxf5 g5 22.Bg6+ N7xg6 23.Qxf6 Rg8 24.Nd4 Qe7 25.Qb6 Rf8 26.Kc2 Rf6 27.Qb3 O-O-O 28.Re3 Qc5 29.Rae1 Nc6 0-1

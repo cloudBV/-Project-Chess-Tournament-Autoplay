@@ -1,0 +1,14 @@
+[Event "Round 8: Charvi A - Kacprzak, Kacper"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/bJSKXGWL"]
+[Date "2026.07.10"]
+[Round "8.28"]
+[White "Charvi A"]
+[Black "Kacprzak, Kacper"]
+[Result "1/2-1/2"]
+[WhiteElo "2204"]
+[BlackElo "2361"]
+[ECO "C03"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Modern System"]
+
+1.e4 e6 2.d4 d5 3.Nd2 a6 4.Ngf3 c5 5.exd5 exd5 6.dxc5 Bxc5 7.Nb3 Bb6 8.Be2 Nf6 9.O-O O-O 10.Bf4 Re8 11.Nfd4 Nc6 12.c3 Ne4 13.f3 Nd6 14.Kh1 Qf6 15.Bg3 Ne5 16.Re1 Bd7 17.Nd2 h5 18.Qb3 Nf5 19.Nxf5 Bxf5 20.Bf1 Ng6 21.Rxe8+ Rxe8 22.Qa4 Re7 23.h4 d4 24.cxd4 Qxd4 25.Qxd4 Bxd4 26.Nc4 b5 27.Nd6 Be6 28.Rb1 Bf6 29.b3 Nxh4 30.a4 Nf5 31.Nxf5 Bxf5 32.Rc1 Bd7 33.axb5 axb5 34.Rc5 h4 35.Bf2 Re5 36.Rxe5 Bxe5 37.Bxh4 Be6 38.Bxb5 1/2-1/2

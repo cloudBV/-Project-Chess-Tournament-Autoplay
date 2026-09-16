@@ -1,0 +1,15 @@
+[Event "Round 2: Vaidyanathan, Kannan - Fedorov, Alexei"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-2/FaJqWXz5/5MCQ69RJ"]
+[Date "2026.07.01"]
+[Round "2.2"]
+[White "Vaidyanathan, Kannan"]
+[Black "Fedorov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2364"]
+[BlackElo "2399"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 a5 8.Be3 Na6 9.g4 Nd7 10.a3 Nac5 11.Rg1 a4 12.Nd2 Kh8 13.g5 f5 14.h4 f4 15.Bxc5 Nxc5 16.h5 Kg8 17.Qf3 c6 18.O-O-O Rf7 19.Bh3 cxd5 20.Nxd5 Ne6 21.Bxe6 Bxe6 22.Kb1 b5 23.cxb5 Bxd5 24.exd5 Rb8 25.hxg6 hxg6 26.Ne4 Rxb5 27.Qh3 Rf5 28.Rh1 f3 29.Rc1 Rb8 30.Qh7+ Kf7 31.Rh6 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Lalit Babu M R - Movsziszian, Karen"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/4Hy5k2CK"]
+[Date "2026.07.18"]
+[Round "6.4"]
+[White "Lalit Babu M R"]
+[Black "Movsziszian, Karen"]
+[Result "1-0"]
+[WhiteElo "2513"]
+[BlackElo "2386"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bg7 5.e4 O-O 6.h3 a5 7.Be3 Na6 8.Qc2 Nd7 9.Be2 e5 10.O-O exd4 11.Nxd4 Nac5 12.Rad1 Re8 13.Ndb5 b6 14.f4 Bb7 15.Bf3 Rc8 16.e5 Qh4 17.Bxb7 Nxb7 18.Na7 Ra8 19.Ncb5 Rf8 20.Nc6 Nd8 21.Nxc7 Nxc6 22.Nxa8 Rxa8 23.Rxd6 Nb4 24.Qe4 Ra7 25.e6 Nc5 26.Bxc5 bxc5 27.Rd7 1-0

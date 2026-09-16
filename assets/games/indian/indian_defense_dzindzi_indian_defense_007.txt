@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "3.5"]
+[White "Krasniewski, Maciej"]
+[Black "Stepinski, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2095"]
+[BlackElo "2281"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Dzindzi-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 a6 4.Nc3 d5 5.cxd5 exd5 6.Bf4 Bd6 7.Be5 c6 8.e3 O-O 9.Bd3 Re8 10.Qc2 h6 11.h3 Bxe5 12.Nxe5 Nbd7 13.f4 Nf8 14.O-O Qe7 15.Rf3 Ne4 16.Bxe4 dxe4 17.Rf2 f6 18.Nc4 Be6 19.Nb6 Rad8 20.f5 Bd5 21.Ncxd5 cxd5 22.Rc1 Qb4 23.Qc5 Qxc5 24.Rxc5 Nd7 25.Nxd7 Rxd7 26.Rfc2 Kf7 27.a4 Ke7 28.Kf2 Rg8 29.b4 g6 30.fxg6 Rxg6 31.b5 axb5 32.Rxb5 f5 33.Rcb2 Ra6 34.Rxb7 Rxa4 35.Rxd7+ Kxd7 36.Rb7+ Kc6 37.Rh7 f4 38.Rxh6+ Kd7 39.exf4 Rxd4 40.g4 Rd2+ 41.Ke3 Rd3+ 42.Ke2 Rg3 43.f5 d4 44.Re6 d3+ 45.Kd2 Rg2+ 46.Kd1 1/2-1/2

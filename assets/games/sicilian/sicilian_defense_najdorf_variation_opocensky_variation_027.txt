@@ -1,0 +1,15 @@
+[Event "Round 7: Holly, Andrej - Vitak, Jiri"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/TOZxOrsS"]
+[Date "2026.07.19"]
+[Round "7.12"]
+[White "Holly, Andrej"]
+[Black "Vitak, Jiri"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2373"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.Be3 Be7 9.Nd5 Nxd5 10.exd5 Bf5 11.Qd2 O-O 12.O-O Nd7 13.a4 Bg6 14.a5 f5 15.f4 Nf6 16.c4 Ne4 17.Qb4 exf4 18.Bb6 Qd7 19.Nd4 Rfc8 20.Bf3 Bf6 21.Ne6 Bf7 22.Nxf4 Bg5 23.Bxe4 fxe4 24.Rae1 Bxf4 25.Rxf4 Bg6 26.Bf2 Re8 27.Re3 Rac8 28.Bg3 Qc7 29.b3 Qc5 30.Qxc5 Rxc5 31.Be1 Rc7 32.Bb4 Rd7 33.Bc3 Rf8 34.Rxf8+ Kxf8 35.Kf2 Rf7+ 36.Ke1 Rf4 37.Bd4 Rh4 38.h3 Rf4 39.Rc3 Rf7 40.Be3 Ke8 41.Rc1 h6 42.Kd2 Bh5 43.Bd4 g5 44.Ke3 Bg6 45.b4 Kd7 46.Rb1 Kc8 47.b5 Rc7 48.bxa6 bxa6 49.Rb6 Rxc4 50.Rxd6 Bf7 51.Kxe4 1-0

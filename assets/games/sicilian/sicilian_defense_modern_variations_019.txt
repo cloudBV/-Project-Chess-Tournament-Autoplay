@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.09"]
+[Round "5.29"]
+[White "Moreno Estebanez, Patxi"]
+[Black "Gutierrez Toro, Raul"]
+[Result "1/2-1/2"]
+[WhiteElo "2283"]
+[BlackElo "2038"]
+[ECO "B50"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nc6 4.O-O g6 5.h3 Bg7 6.d3 Nf6 7.Nc3 O-O 8.a3 a6 9.Ba2 b5 10.Be3 Qc7 11.Qd2 Rd8 12.Rac1 e6 13.Bg5 Re8 14.Nh2 Nd4 15.Nd1 c4 16.Nc3 Bb7 17.dxc4 Nxe4 18.Nxe4 Bxe4 19.cxb5 axb5 20.Ng4 Qb7 21.Nf6+ Kh8 22.Qxd4 Bxg2 23.Qh4 h5 24.Nxe8 Bxf1 25.Rxf1 Rxe8 26.Bf6 Qf3 27.Bxg7+ Kxg7 28.Qd4+ Kg8 29.Qxd6 Qxh3 30.Re1 Qg4+ 31.Qg3 Qd4 32.Qc3 Qg4+ 33.Kf1 h4 34.Qc6 Kf8 35.Qe4 Qg5 36.Qe5 Qg4 37.Re4 Qd1+ 38.Re1 Qg4 39.Re4 Qd1+ 40.Kg2 h3+ 41.Kg3 Qh1 42.Qh8+ Ke7 43.Qh4+ Kf8 44.Qh8+ Ke7 45.Qh4+ Kf8 46.Rg4 Qg2+ 47.Kf4 Qf1 1/2-1/2

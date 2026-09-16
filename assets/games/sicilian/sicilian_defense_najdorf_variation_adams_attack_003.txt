@@ -1,0 +1,14 @@
+[Event "Round 8: Kallen, Jonas - Guagliano, Lukas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/CTyRlpIX"]
+[Date "2026.07.03"]
+[Round "8.14"]
+[White "Kallen, Jonas"]
+[Black "Guagliano, Lukas"]
+[Result "0-1"]
+[WhiteElo "2086"]
+[BlackElo "2113"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 h6 8.Bc4 Be6 9.Bxe6 fxe6 10.Nh4 Kf7 11.f4 Nc6 12.O-O exf4 13.Rxf4 Ne5 14.Rf2 g5 15.Nf3 Qb6 16.Nxe5+ dxe5 17.Qf3 Be7 18.Be3 Qc7 19.Raf1 Raf8 20.Ne2 Kg6 21.Ng3 Qc6 22.Kh1 h5 23.Nf5 Bd8 24.Bxg5 Kxg5 25.Qg3+ Ng4 26.hxg4 hxg4+ 27.Kg1 Qxe4 28.Nd6 Qd4 29.Ne4+ Qxe4 30.Rxf8 Bb6+ 31.R8f2 Qf4 0-1

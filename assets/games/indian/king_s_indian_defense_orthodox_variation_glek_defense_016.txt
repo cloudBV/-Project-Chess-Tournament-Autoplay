@@ -1,0 +1,14 @@
+[Event "Round 7: Toktomushev, Teimur - Gaehwiler, Gabriel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-7/IK4Cx0nV/8nAXXh2V"]
+[Date "2026.07.17"]
+[Round "7.5"]
+[White "Toktomushev, Teimur"]
+[Black "Gaehwiler, Gabriel"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2384"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6 8.Bg5 h6 9.Bh4 g5 10.dxe5 Nh5 11.Bg3 Nxg3 12.hxg3 dxe5 13.Qc2 Nb4 14.Qa4 Nc6 15.Rad1 Nd4 16.c5 c6 17.Nxd4 exd4 18.Nb1 g4 19.Qc2 Qg5 20.Nd2 Be6 21.Nb3 Rad8 22.Bc4 Bxc4 23.Qxc4 Rfe8 24.Rfe1 Qg6 25.Qd3 Re6 26.Na5 b6 27.Nb7 Rd7 28.Nd6 Rexd6 29.cxd6 Be5 30.Qa3 c5 31.Rc1 Qxd6 32.Qd3 Qg6 33.b4 Bd6 34.Qb5 Qe6 35.a4 cxb4 36.Rc6 Rc7 37.e5 Rxc6 38.Qxc6 Bc5 39.Qxe6 fxe6 40.Kf1 a5 41.Ke2 d3+ 42.Kxd3 Bxf2 43.Rf1 Bxg3 44.Rf6 h5 45.Rxe6 h4 46.Rg6+ Kf7 47.Rxg4 Bxe5 48.Rxh4 Bd6 49.Ke4 Kg6 50.Rg4+ Kf6 51.Rg8 Bc5 52.g4 Kf7 53.Rg5 Kf6 54.Rd5 Bg1 55.g5+ Kg6 56.Kf4 Bc5 57.Rd3 Be7 58.Kg4 Bc5 59.Rh3 Bf8 60.Rf3 Be7 61.Re3 Bxg5 62.Re6+ Kf7 63.Rxb6 Bd8 64.Rd6 Ke7 65.Rd5 Bb6 66.Kf5 Bc7 67.Ke4 Ke6 68.Kd4 b3 69.Rb5 b2 70.Ke4 Bd6 71.Rxb2 Bb4 72.Rh2 Kd6 73.Kd4 Kc6 74.Rh6+ Kb7 75.Kc4 Kc7 76.Kb5 Be1 77.Rc6+ Kb7 78.Rc2 Bb4 79.Rc1 Bd2 80.Rd1 Bb4 81.Rd7+ Kc8 82.Kc6 Bc3 83.Rd1 Bf6 84.Kb6 Bd8+ 85.Ka6 Bc7 86.Rd5 Kb8 87.Kb5 Kb7 88.Rd7 Kb8 89.Rh7 Kb7 90.Rf7 Kb8 91.Kc6 Bh2 92.Kb6 Bg1+ 93.Kxa5 Ka8 94.Ka6 Kb8 95.Rf8+ Kc7 96.Rf1 Be3 97.Rb1 Bd4 98.Kb5 Be3 99.Kc4 Bb6 100.Kd5 Ba5 101.Rb5 Be1 102.a5 Bf2 103.a6 Bb6 104.Rb3 1-0

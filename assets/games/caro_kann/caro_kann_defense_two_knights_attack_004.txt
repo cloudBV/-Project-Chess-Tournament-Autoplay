@@ -1,0 +1,14 @@
+[Event "Round 8: Polak, Michal - Hozda, Max"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-8/ctJ0lJT8/205bugY8"]
+[Date "2026.07.04"]
+[Round "8.2"]
+[White "Polak, Michal"]
+[Black "Hozda, Max"]
+[Result "1/2-1/2"]
+[WhiteElo "2123"]
+[BlackElo "2237"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Qd5 7.Qh4 Qe6+ 8.Be2 Qg4 9.Qg3 Qxg3 10.hxg3 Bf5 11.c3 e6 12.Nh4 Be7 13.Nxf5 exf5 14.d4 Nd7 15.a4 a5 16.g4 fxg4 17.Bxg4 Nf6 18.Bf3 O-O 19.Bg5 Rfe8 20.O-O-O Nd5 21.Bxe7 Rxe7 22.Rde1 Rae8 23.Rxe7 Rxe7 24.Kd2 Rd7 25.Re1 Kf8 26.Kd3 g6 27.b4 axb4 28.Bxd5 Rxd5 29.cxb4 Rf5 30.Re2 h5 31.Kc4 b5+ 32.axb5 cxb5+ 33.Kd3 h4 34.Ke3 Ke7 35.Rc2 Rg5 36.Kf3 Rd5 37.Ke4 Kd6 38.Rc8 Rg5 39.Kf3 Rf5+ 40.Ke3 Rg5 41.Kf3 f5 42.Rc5 Rg4 43.Rxb5 Rxd4 44.Rb6+ Ke5 45.Rxg6 Rf4+ 46.Ke3 Re4+ 1/2-1/2

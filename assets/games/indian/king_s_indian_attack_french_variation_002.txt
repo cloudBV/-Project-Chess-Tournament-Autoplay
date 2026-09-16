@@ -1,0 +1,14 @@
+[Event "Round 9: Lazov, Toni - Odegov, Artem"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/30NsDVKy"]
+[Date "2026.07.11"]
+[Round "9.21"]
+[White "Lazov, Toni"]
+[Black "Odegov, Artem"]
+[Result "1/2-1/2"]
+[WhiteElo "2391"]
+[BlackElo "2244"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: French Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.d3 e5 5.O-O Be7 6.e4 d4 7.Nbd2 Qc7 8.a4 h5 9.c3 g5 10.Nc4 f6 11.cxd4 cxd4 12.a5 Nh6 13.Bd2 Nf7 14.Qa4 Bd7 15.Rfc1 h4 16.Qd1 Nd6 17.a6 b6 18.Ncxe5 fxe5 19.Nxe5 hxg3 20.hxg3 Nb5 21.Nxc6 Bxc6 22.Rxc6 Qxc6 23.e5 Qh6 24.Bxa8 Qh2+ 25.Kf1 Rf8 26.Be1 Qxg3 27.Rc1 Qxe5 28.Qh5+ Kd8 29.Qg4 Nd6 30.Bc6 1/2-1/2

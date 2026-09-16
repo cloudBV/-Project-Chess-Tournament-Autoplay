@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-6/u1B0IeJU/wsVaj17q"]
+[Date "2026.07.22"]
+[Round "6.3"]
+[White "Macias Verano, Jose Maria"]
+[Black "Castro Miguelez, Jose"]
+[Result "1-0"]
+[WhiteElo "2043"]
+[BlackElo "2059"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.Qd2 Nd7 10.O-O Nf8 11.c4 Ng6 12.Ng3 Qc7 13.Rfe1 Bd7 14.Kh1 Rad8 15.Rac1 Qc8 16.Ne4 Bb8 17.Nc3 Nh4 18.Bf4 Bh3 19.Bf1 Bxf4 20.Qxf4 Ng6 21.Qg3 Rxe1 22.Rxe1 Be6 23.Rd1 Ne7 24.h3 Kf8 25.Qf3 b5 26.b3 b4 27.Ne4 Nf5 28.Qf4 Qb8 29.Qxb8 Rxb8 30.g4 Ne7 31.Bg2 Rd8 32.Nc5 f5 33.gxf5 Nxf5 34.Bxc6 Nxd4 35.Bg2 Bf5 36.Nb7 Rd7 37.c5 Nb5 38.Rc1 Nc3 39.c6 Rc7 40.Re1 Be6 41.Nc5 Bc8 42.Ra1 Nb5 43.Rd1 Ke7 44.Re1+ Kf6 45.Nd7+ Kg6 46.Re4 Bxd7 47.cxd7 Rxd7 48.Rxb4 Nd4 49.Rc4 Kf6 50.Rc5 Ne6 51.Ra5 Rc7 52.Be4 h6 53.Bd3 Ke7 54.Bc4 Nc5 55.b4 Nd7 56.Bd3 Rc3 57.Bf5 Rc7 58.Ra6 Nb6 59.a4 Nd5 60.b5 Nb4 61.Ra5 Kd6 62.Be4 Re7 63.Bg2 g5 64.b6 axb6 65.Rb5 Na2 66.Rxb6+ Kc5 67.Rxh6 Kb4 68.Rb6+ Ka5 69.Rb5+ Kxa4 70.Rxg5 f6 71.Rf5 Re6 72.Bd5 Re1+ 73.Kg2 Nb4 74.Bf7 Nc6 75.Rxf6 Kb5 76.h4 Nd4 77.h5 Re5 78.f4 Re2+ 79.Kg3 Re1 80.f5 Rg1+ 81.Kf2 Rg5 82.h6 Rg4 83.Bg6 Rh4 84.h7 Rh2+ 85.Kg3 Rh1 86.Rf8 Rg1+ 87.Kf2 1-0

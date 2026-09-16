@@ -1,0 +1,15 @@
+[Event "Round 8: Podolchenko, Evgeniy - Sutormin, Danila"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/8CaQUj0G"]
+[Date "2026.07.10"]
+[Round "8.9"]
+[White "Podolchenko, Evgeniy"]
+[Black "Sutormin, Danila"]
+[Result "1/2-1/2"]
+[WhiteElo "2287"]
+[BlackElo "2368"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bf5 5.Nh4 Bd7 6.e4 e5 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.d5 a5 11.Bg5 h6 12.Bh4 Na6 13.Nd2 Rf8 14.a3 Qe8 15.b4 axb4 16.axb4 Nxb4 17.Qb3 Na6 18.Qxb7 Qb8 19.Qxb8 Rfxb8 20.f3 Nb4 21.Nb5 Bxb5 22.cxb5 Nc2 23.Rxa8 Rxa8 24.Rc1 Nd4 25.Bf1 Ra2 26.Be1 Ne8 27.b6 cxb6 28.Rc8 Kf8 29.Nc4 Ke7 30.Rb8 Bf6 31.Rb7+ Kf8 32.Rxb6 Bg5 33.Rb1 f5 34.exf5 gxf5 35.Bb4 Be7 36.Ba3 Ne2+ 37.Bxe2 Rxe2 38.Rb8 Kf7 39.Rb7 Kf6 40.Kf1 Ra2 41.Rd7 h5 42.Bxd6 Nxd6 43.Nxd6 Bxd6 44.Rxd6+ Kg5 45.Re6 Kf4 46.d6 e4 47.fxe4 fxe4 48.d7 Rd2 49.Re7 Ke3 50.g3 Kf3 51.Rf7+ Kg4 52.Ke1 e3 53.Rg7+ Kh3 54.Rh7 Kg4 1/2-1/2

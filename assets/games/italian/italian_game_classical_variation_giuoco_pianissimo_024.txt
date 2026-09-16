@@ -1,0 +1,15 @@
+[Event "Round 9: Dominguez Perez, Leinier - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/XEjYz1Pw"]
+[Date "2026.07.04"]
+[Round "9.7"]
+[White "Dominguez Perez, Leinier"]
+[Black "Suleymanli, Aydin"]
+[Result "1-0"]
+[WhiteElo "2591"]
+[BlackElo "2559"]
+[ECO "C54"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 h6 6.c3 d6 7.Re1 O-O 8.h3 a5 9.Nbd2 Be6 10.Bb5 Qb8 11.Bxc6 bxc6 12.d4 exd4 13.cxd4 Bb6 14.a4 d5 15.e5 Nd7 16.Ra3 c5 17.Nc4 dxc4 18.d5 Bf5 19.Nh4 Bd3 20.Bxh6 gxh6 21.Rxd3 Kh7 22.Qh5 Qd8 23.Rg3 Ra6 24.Nf5 1-0

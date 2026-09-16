@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.8"]
+[White "Lecki, Leonard"]
+[Black "Shevchenko, Yaroslav"]
+[Result "0-1"]
+[WhiteElo "2103"]
+[BlackElo "2310"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O dxc4 6.Qa4+ Nbd7 7.Qxc4 c5 8.Nc3 O-O 9.d4 Nb6 10.Qd3 cxd4 11.Qxd4 Qxd4 12.Nxd4 e5 13.Nb3 Nc4 14.Nd5 Nxd5 15.Bxd5 Be6 16.Bxe6 fxe6 17.Nd2 Nd6 18.b3 Rac8 19.Ba3 Rc2 20.Bxd6 Bxd6 21.Rfd1 Bb4 22.Nc4 Rxe2 23.Rf1 Bc5 24.Ne3 Rexf2 25.Rxf2 Bxe3 26.Rf1 Bxf2+ 27.Rxf2 Rxf2 28.Kxf2 Kf7 29.Kf3 Ke7 30.Ke4 Kd6 31.b4 b5 32.g4 g5 33.a3 a6 34.h3 h6 35.Ke3 Kd5 36.Kd3 e4+ 37.Ke3 Ke5 38.Ke2 Kd4 39.Kd2 e3+ 40.Ke2 Ke5 0-1

@@ -1,0 +1,15 @@
+[Event "Round 5: Xie, Jiaxiang - Ahmadi, Erfan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-5/ZNuoIZMc/pquOTI0h"]
+[Date "2026.07.19"]
+[Round "5.2"]
+[White "Xie, Jiaxiang"]
+[Black "Ahmadi, Erfan"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2249"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O O-O 6.c3 d5 7.exd5 Nxd5 8.Nbd2 Bg4 9.Ne4 Be7 10.h3 Bh5 11.b4 a6 12.Bb2 b5 13.Bb3 Nf4 14.Bc2 Qd5 15.Bc1 Rad8 16.Bxf4 exf4 17.d4 Rfe8 18.Re1 Qd7 19.Qd3 Bg6 20.a4 Qd5 21.axb5 axb5 22.Qd2 Bxb4 23.Qxf4 Bd6 24.Nxd6 Rxe1+ 25.Rxe1 Qxd6 26.Qxd6 cxd6 27.Bxg6 hxg6 28.d5 Ne5 29.Nd4 Rc8 30.Nxb5 Rc5 31.Nxd6 Rxd5 32.Ne4 f6 33.Rb1 g5 34.Rb7 Rd1+ 35.Kh2 Re1 36.Nd6 Re2 37.Kg3 Rc2 38.Rc7 Nd3 39.Ne4 Nf4 40.Kf3 Ne6 41.Re7 Nc5 42.Rc7 Nxe4 43.Kxe4 Rxf2 44.g4 g6 45.c4 f5+ 46.Ke5 fxg4 47.hxg4 Kf8 48.c5 Ke8 49.Rg7 Rf4 50.Kd6 Rxg4 51.c6 Rd4+ 52.Kc5 Rd1 53.c7 Rc1+ 54.Kd6 Rd1+ 55.Ke6 Re1+ 56.Kf6 Rc1 57.Re7+ Kf8 58.Rd7 Rc6+ 59.Kxg5 1-0

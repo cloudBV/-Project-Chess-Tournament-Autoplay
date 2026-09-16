@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "12.3"]
+[White "Ugorek, Kacper"]
+[Black "Grot, Blazej"]
+[Result "0-1"]
+[WhiteElo "2229"]
+[BlackElo "2213"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.c4 e6 2.Nf3 Nf6 3.d4 h6 4.g3 Bb4+ 5.Nbd2 b6 6.Bg2 Bb7 7.O-O O-O 8.b3 a5 9.a3 Be7 10.Bb2 c5 11.d5 exd5 12.Nh4 Ra7 13.Nf5 d4 14.Re1 Bxg2 15.Kxg2 d5 16.e3 dxe3 17.Rxe3 d4 18.Re1 Re8 19.Qf3 Bf8 20.Rxe8 Nxe8 21.Re1 Nd7 22.Bc1 Ndf6 23.Qd3 Nd6 24.Nh4 Re7 25.Ndf3 Rxe1 26.Nxe1 Qa8+ 27.f3 Qe8 28.Kf2 Qe6 29.Nhg2 a4 30.Nf4 Qc8 31.bxa4 Qa6 32.Nd5 Nxd5 33.cxd5 Qxa4 34.Bf4 Qd7 35.g4 Nb7 36.Qe4 Bd6 37.Nd3 Bxf4 38.Nxf4 Nd6 39.Qe5 f6 40.Qe2 Nf7 41.Ng6 Ne5 42.Nxe5 fxe5 43.Qxe5 d3 44.Ke3 c4 45.d6 Kf7 46.Kd2 Qe6 47.Qd4 Qe2+ 48.Kc3 Qc2+ 49.Kb4 d2 50.Qd5+ Kg6 51.d7 d1=Q 52.d8=Q Qdb1# 0-1

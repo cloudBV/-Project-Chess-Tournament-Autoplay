@@ -1,0 +1,15 @@
+[Event "Round 2: Kucza, Karol - Licznerski, Lukasz"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-2/OkbtGIaW/Q6NzCYwC"]
+[Date "2026.07.05"]
+[Round "2.13"]
+[White "Kucza, Karol"]
+[Black "Licznerski, Lukasz"]
+[Result "0-1"]
+[WhiteElo "2323"]
+[BlackElo "2511"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 cxd4 7.Nxd4 Ne7 8.c4 Nbc6 9.Qa4 dxc4 10.Nc3 a6 11.O-O-O Qa5 12.Nxf5 Nxf5 13.Qxa5 Nxa5 14.Bb6 Nc6 15.f4 h5 16.g3 Bb4 17.Bxc4 Rc8 18.Kb1 Ba5 19.Bxa5 Ne3 20.Bb6 Nxc4 21.Bc5 N6xe5 22.Bd4 Nf3 23.Bxg7 Rg8 24.Bf6 Ncd2+ 25.Kc2 Ne4 26.Bd4 Nxd4+ 27.Rxd4 Nxc3 28.bxc3 h4 29.f5 hxg3 30.fxe6 g2 31.exf7+ Kxf7 32.Rg1 Rc5 33.Rd2 Rcg5 34.h4 Rg3 35.h5 R8g4 36.Rd7+ Ke6 37.Rxb7 Rh4 38.h6 Kf5 39.h7 Rh6 40.Kd2 Kg4 41.c4 Kh3 42.c5 Kh2 43.Rbb1 Rxh7 44.c6 Rc7 45.Rbc1 Rxc6 0-1

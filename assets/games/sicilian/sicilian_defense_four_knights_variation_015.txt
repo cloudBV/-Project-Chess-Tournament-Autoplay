@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "12.3"]
+[White "Seemann, Pola"]
+[Black "Sprzeczka, Emilia"]
+[Result "0-1"]
+[WhiteElo "2028"]
+[BlackElo "2011"]
+[ECO "B45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d6 7.h3 Be7 8.g4 a6 9.Be3 Nxd4 10.Bxd4 e5 11.Be3 Be6 12.Nd5 Nxd5 13.exd5 Qa5+ 14.c3 Qxd5 15.Qxd5 Bxd5 16.Rg1 g6 17.c4 Bc6 18.b4 O-O 19.f4 exf4 20.Bxf4 Bf6 21.Rd1 Rfe8+ 22.Kd2 Re4 23.Bxd6 Ba4 24.Bd3 Re6 25.c5 Bxd1 26.Rxd1 Rd8 27.Kc2 Re3 28.Rf1 Kg7 29.Bf4 Rexd3 30.g5 Be7 31.Be5+ Kg8 32.h4 Rh3 33.Rf4 Rxa3 34.Bc3 Ra2+ 35.Bb2 a5 36.Kb3 Rxb2+ 37.Kxb2 axb4 38.Rxb4 Rd7 39.Rb5 Rc7 40.Kb3 Bxc5 41.Ra5 b6 42.Ra8+ Kg7 43.Rb8 Re7 44.Rc8 Re4 45.h5 gxh5 46.Rd8 Re5 47.Rd3 Rxg5 0-1

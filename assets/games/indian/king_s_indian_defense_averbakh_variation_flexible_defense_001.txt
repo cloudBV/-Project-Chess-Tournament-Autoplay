@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-2/mZo2y8ia/p5GvB7cW"]
+[Date "2026.07.09"]
+[Round "16.8"]
+[White "Matiievskyi, Rostyslav"]
+[Black "Kiszkiel, Oskar"]
+[Result "0-1"]
+[WhiteElo "2113"]
+[BlackElo "2229"]
+[ECO "E73"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Averbakh Variation, Flexible Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Bg5 h6 7.Be3 e5 8.d5 Na6 9.Qd2 Nc5 10.f3 a5 11.Bd1 c6 12.Bc2 cxd5 13.Nxd5 Nxd5 14.cxd5 b6 15.Ne2 Qh4+ 16.Bf2 Qe7 17.O-O f5 18.exf5 gxf5 19.Nc3 Bd7 20.Rfe1 Rac8 21.f4 e4 22.Bd4 b5 23.Bxg7 Qxg7 24.a3 b4 25.axb4 axb4 26.Nd1 Bb5 27.Qxb4 Bd3 28.Ba4 Rb8 29.Qc3 Qxc3 30.Nxc3 Rxb2 31.Bc6 Rfb8 32.Nd1 Be2 33.Nxb2 Rxb2 34.Rab1 Rd2 35.Bb5 Nd3 36.Bxd3 exd3 37.Kf2 Bg4+ 38.Kf1 Be2+ 39.Kg1 Rc2 40.Kf2 Kf7 41.Ke3 Kf6 42.h3 h5 43.g3 Ra2 44.Ra1 Rc2 45.Rab1 Kf7 46.Rg1 Kf6 47.g4 fxg4 48.hxg4 Bxg4 49.Kxd3 Bf5+ 50.Ke3 Rc3+ 51.Kd2 Rd3+ 52.Ke2 Rxd5 53.Rb8 Bg4+ 54.Ke3 Ra5 55.Rb3 Kf5 56.Rd3 Ke6 57.Rg2 Bf5 58.Rd4 Ra3+ 59.Kf2 h4 60.Rg8 h3 61.Rh8 d5 62.Rh6+ Kf7 63.Rxd5 Be4 64.Rd7+ Ke8 65.Rg7 Kf8 66.Rc7 Rf3+ 67.Ke2 Kg8 68.Re6 Rxf4 0-1

@@ -1,0 +1,14 @@
+[Event "Round 1: Gouloutis, Nikolaos - Stoimenidis, Dimitrios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/uniewXj4"]
+[Date "2026.07.10"]
+[Round "1.43"]
+[White "Gouloutis, Nikolaos"]
+[Black "Stoimenidis, Dimitrios"]
+[Result "1-0"]
+[WhiteElo "2277"]
+[BlackElo "2133"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening"]
+
+1.c4 1-0

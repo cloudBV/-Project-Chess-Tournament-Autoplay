@@ -1,0 +1,14 @@
+[Event "Round 7: Denizet, Briac - Kantane, Anna"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/dWZf0KQx"]
+[Date "2026.07.24"]
+[Round "7.3"]
+[White "Denizet, Briac"]
+[Black "Kantane, Anna"]
+[Result "1/2-1/2"]
+[WhiteElo "2100"]
+[BlackElo "2190"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Bc5 4.Nc3 a6 5.e3 d6 6.Nf3 Ba7 7.d4 Nf6 8.dxe5 Nxe5 9.Nxe5 dxe5 10.Qxd8+ Kxd8 11.b3 c6 12.Bb2 Re8 13.O-O Kc7 14.Rfd1 Bg4 15.Rd2 h5 16.h3 Bf5 17.Rad1 Rad8 18.Kf1 Rxd2 19.Rxd2 Bc5 20.a3 a5 21.Na4 Bf8 22.Bc3 b6 23.c5 bxc5 24.Bxa5+ Kb7 25.b4 cxb4 26.axb4 Ra8 27.Nb6 Ra6 28.Nc4 e4 29.f3 exf3 30.Bxf3 Be6 31.Nd6+ Bxd6 32.Rxd6 Bxh3+ 33.Ke1 Be6 34.Rd8 g6 35.Kd2 Nd7 36.Kc3 Ne5 37.Be2 Ra8 38.Rxa8 Kxa8 39.Kd4 Ng4 40.Bf3 Bd5 41.e4 Bb3 42.e5 Kb7 43.Be4 Nh6 44.Kc5 Bd5 45.Bd3 Nf5 46.Bxf5 gxf5 1/2-1/2

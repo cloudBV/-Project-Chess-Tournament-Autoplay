@@ -1,0 +1,15 @@
+[Event "Round 8: Dingertz, Filip - Ronneland, Daniel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-8/GO3zCEkj/OjBfdgAs"]
+[Date "2026.07.01"]
+[Round "8.8"]
+[White "Dingertz, Filip"]
+[Black "Ronneland, Daniel"]
+[Result "1-0"]
+[WhiteElo "2115"]
+[BlackElo "2104"]
+[ECO "A22"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Carls-Bremen System"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 d6 4.Bg2 Nc6 5.e3 g6 6.Nge2 Bg7 7.O-O O-O 8.d4 exd4 9.exd4 Re8 10.h3 Bd7 11.Be3 h5 12.Qd2 Bf5 13.Bg5 Qd7 14.Kh2 Nh7 15.Bh6 Rab8 16.Bxg7 Kxg7 17.Nf4 Nf6 18.Ncd5 Nxd5 19.Nxd5 Be4 20.Nf4 Qf5 21.f3 Bc2 22.Rac1 g5 23.Nxh5+ Kh6 24.g4 Qd3 25.Rxc2 Qxd4 26.f4 Qxd2 27.Rxd2 gxf4 28.Rxf4 Ne5 29.Be4 Re6 30.Rdf2 b5 31.h4 bxc4 32.Rf6+ Rxf6 33.Rxf6+ Ng6 34.Kh3 Rxb2 35.g5+ Kh7 36.Rxf7+ Kg8 37.Rg7+ Kf8 38.Rxg6 Re2 39.Bd5 c3 40.Rg8+ Ke7 41.Rg7+ Kf8 42.Rxc7 c2 43.Bb3 Re3+ 44.Ng3 Rf3 45.Rxc2 1-0

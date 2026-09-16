@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/64eUGck4"]
+[Date "2026.07.03"]
+[Round "7.28"]
+[White "Gorka, Tymoteusz"]
+[Black "Padalka, Artem"]
+[Result "1-0"]
+[WhiteElo "2012"]
+[BlackElo "2077"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e6 7.O-O b5 8.a3 Bb7 9.Kh1 Be7 10.Be3 O-O 11.f4 Nbd7 12.Qe2 Rc8 13.Bg1 e5 14.Nf5 Re8 15.Rad1 Bf8 16.fxe5 dxe5 17.Be3 Qc7 18.Qf3 Re6 19.Qg3 g6 20.Nh6+ Bxh6 21.Bxh6 Nc5 22.Qh4 Nh5 23.Be2 Nf4 24.Bf3 Rce8 25.Nd5 Nxd5 26.exd5 Rd6 27.b4 Na4 28.Rfe1 Nb2 29.Rd2 Qc4 30.Qg3 f6 31.Be4 Kf7 32.Qh3 Qc8 33.Qh4 f5 34.Rf1 Kg8 35.Qg5 Qc4 36.Rdf2 f4 37.Rxf4 exf4 38.Qxf4 Qxf1+ 39.Qxf1 Nc4 40.h3 Rd7 41.Qf6 Rf7 42.Qg5 Ne5 43.Kg1 Kh8 44.Qe3 Kg8 45.Qd4 Nc4 46.Bf3 Nxa3 47.Bg4 Bc8 48.Bxc8 Rxc8 49.Bg5 Nc4 50.d6 Nxd6 51.Qxd6 Rxc2 52.Qe6 1-0

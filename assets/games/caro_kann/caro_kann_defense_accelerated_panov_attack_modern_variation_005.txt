@@ -1,0 +1,14 @@
+[Event "Round 11: Cabiativa, Juan Esteban - Castillo Rodriguez, Edward Andres"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-11/3AgRxUoN/ZgS1AkaY"]
+[Date "2026.07.11"]
+[Round "11.7"]
+[White "Cabiativa, Juan Esteban"]
+[Black "Castillo Rodriguez, Edward Andres"]
+[Result "*"]
+[WhiteElo "2290"]
+[BlackElo "2128"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nf3 Nxd5 6.Nc3 e6 7.Bc4 Nb6 8.Bb3 Be7 9.O-O O-O 10.d4 Bf6 11.Be3 Nc6 12.Ne4 Be7 13.Qe2 Nd5 14.Rfd1 Nxe3 15.Qxe3 Nb4 16.Ne5 Nd5 17.Qg3 Bh4 18.Qf3 b6 19.g3 Be7 20.Nc6 Qe8 21.Nxe7+ Qxe7 22.Bxd5 exd5 23.Nc3 Bb7 24.a3 Rad8 25.Re1 Qd7 26.h4 Ba6 27.Re5 Bc4 28.Rae1 Qh3 29.Re7 Rd7 30.Re8 Rd8 31.R8e7 Rd7 32.R7e5 f6 33.R5e3 Rd6 34.Re7 Rd7 35.R7e3 Rd6 36.Qf4 Rd7 37.Re6 Rdf7 38.Qf3 f5 39.Qf4 Qg4 40.R6e5 Qxf4 41.gxf4 Rd7 42.f3 Kf7 43.Kf2 Kf6 44.Re6+ Kf7 45.h5 Rfd8 46.R6e5 Kf6 47.Rg1 Rd6 48.Rg5 g6 49.Rg1 a5 50.Rb1 b5 51.b3 Bd3 52.Rd1 Bc2 53.Rd2 Bxb3 54.Nxb5 Rb6 55.Nc3 Bc4 56.Na4 Rb3 57.Nc5 Rd6 58.Nxb3 Bxb3 59.Rb2 a4 60.hxg6 hxg6 61.Rbe2 Rc6 62.Re8 Bd1 63.Rd2 Bb3 64.Rb8 Rc1 65.Rb6+ Kg7 66.Re2 Bc4 67.Re7+ Kh6 68.Ree6 Rc2+ 69.Kg3 Bf1 70.Rxg6+ Kh7 71.Kh4 Rh2+ 72.Kg5 Rg2+ 73.Kh5 Rh2+ 74.Kg5 Rg2+ 75.Kh5 Rh2+ 76.Kg5 Rg2+ 77.Kh5 Rh2+ 78.Kg5 Rg2+ 79.Kxf5 Bd3+ 80.Ke5 Bxg6 81.f5 Bf7 82.Rb7 Kg8 83.Kf6 Bh5 84.Rb8+ Kh7 85.Rb7+ Kh6 86.Ra7 Bxf3 87.Rxa4 Be4 88.Ra8 Kh7 89.Ra7+ Kh6 90.Ra8 Kh7 91.Ke6 Re2 92.f6 Bg6+ 93.Kd6 Bf7 94.a4 Kg6 95.a5 Kxf6 96.a6 Ra2 97.a7 Ra4 98.Kc5 Ra1 99.Kb6 Rb1+ 100.Kc5 Ra1 101.Kb6 Rb1+ 102.Kc5 Ra1 103.Kc6 Rc1+ 104.Kd6 Ra1 105.Kc7 Ke7 106.Kb6 Rb1+ 107.Kc5 Ra1 108.Kb6 Rb1+ 109.Kc5 Rc1+ 110.Kb6 Rb1+ 111.Kc5 Rb7 112.Re8+ Bxe8 113.a8=Q Rd7 114.Qa5 Bf7 115.Qe1+ Be6 116.Qh4+ Kf7 117.Qf4+ Ke7 118.Qe5 Kf7 119.Qf4+ Ke7 120.Qg5+ Kf7 121.Kb4 Rb7+ 122.Kc3 Rc7+ 123.Kd2 Rd7 124.Ke3 Re7 125.Kf4 Ke8 126.Ke5 Bf7+ 127.Kd6 Re6+ 128.Kc5 Kd7 129.Qf5 Ke8 130.Qxd5 Kf8 131.Qd8+ Re8 132.Qd6+ Kg7 133.Qg3+ Kf6 134.Qh4+ Kg7 135.Qg4+ Kf6 136.Qh4+ Kg7 137.d5 Re5 138.Qg3+ Kf6 139.Qf4+ Rf5 140.Qh6+ Bg6 141.Kd6 Rh5 142.Qf8+ Bf7 143.Qe7+ Kg6 144.Qe4+ Kg7 145.Qg2+ Kf8 146.Kc7 Rxd5 147.Qf2 Ke7 148.Qe3+ Kf6 149.Qf2+ Kg6 150.Qg3+ Kf6 151.Qf2+ Kg6 152.Qg1+ Kf6 153.Kc6 Re5 154.Qd4 Kf5 155.Qd3+ Kf6 156.Qc3 Kf5 157.Kd6 Re6+ 158.Kd7 Re5 159.Qf3+ Kg6 160.Qg3+ Kf6 161.Qf4+ Rf5 162.Qh4+ Kg6 163.Qg3+ Kf6 164.Qc3+ Kg5 165.Ke7 Bg6 166.Qg3+ Kh5 167.Ke6 Kh6 168.Qh4+ Kg7 169.Qh2 *

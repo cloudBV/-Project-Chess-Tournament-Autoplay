@@ -1,0 +1,14 @@
+[Event "Round 6: Thyberg, Andre - Bergman, Nils"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/wrgZxHya"]
+[Date "2026.07.02"]
+[Round "6.7"]
+[White "Thyberg, Andre"]
+[Black "Bergman, Nils"]
+[Result "1-0"]
+[WhiteElo "2111"]
+[BlackElo "2137"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Nc6 5.c3 Be7 6.e5 Nd7 7.d4 f6 8.exf6 Nxf6 9.Bd3 O-O 10.O-O Bd6 11.Re1 Ne7 12.Ne5 Bd7 13.Ndf3 c5 14.Qe2 Bc8 15.Bg5 h6 16.Bh4 Nf5 17.Bxf5 exf5 18.Ng6 Rf7 19.Nfe5 Rc7 20.Qf3 Be6 21.Nf4 Qc8 22.Bxf6 gxf6 23.Nxe6 Qxe6 24.Nd3 Qf7 25.dxc5 Bxc5 26.Qxf5 Bd6 27.Re6 Rc6 28.Rae1 Rd8 29.g3 Bf8 30.Nf4 d4 31.Rxc6 bxc6 32.cxd4 Rxd4 33.Ne6 Rd5 34.Qg4+ Kh7 35.Nxf8+ Qxf8 36.Qe4+ Kg7 37.Qe7+ Qf7 38.b3 c5 39.h4 h5 40.Re6 Rd1+ 41.Kg2 a5 42.Qxf7+ Kxf7 43.Ra6 c4 44.bxc4 Rc1 45.Rxa5 Rxc4 46.Ra8 Rc2 47.a4 Ra2 48.Kf3 Kg6 49.a5 Kf5 50.a6 Ra3+ 51.Kg2 Kg6 52.a7 Kg7 53.Kf1 Ra2 54.f3 f5 55.Ke1 Ra1+ 56.Ke2 Ra2+ 57.Kd3 Ra1 58.Kd4 Ra5 59.Kc4 Ra1 60.Kd5 Ra5+ 61.Ke6 Ra3 62.Re8 Ra6+ 63.Kxf5 Rxa7 64.g4 Ra4 65.Re7+ Kf8 66.Rb7 Rc4 67.Kg5 Rc5+ 68.Kg6 hxg4 69.fxg4 Rc6+ 70.Kh5 Ra6 71.g5 Kg8 72.g6 Ra4 73.Kg5 Ra1 74.h5 Ra5+ 75.Kh6 Ra8 76.Rb5 Rc8 77.Kg5 Kh8 78.h6 Rd8 79.h7 Kg7 80.Rb7+ Kh8 81.Kh6 Rd7 82.Rb8+ 1-0

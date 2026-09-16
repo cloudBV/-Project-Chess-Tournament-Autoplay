@@ -1,0 +1,14 @@
+[Event "Round 3: Erdogmus, Yagiz Kaan - Le, Quang Liem"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-qualifier/round-3/hrXhrTGv/8N3BwfNB"]
+[Date "2026.07.14"]
+[Round "3.2"]
+[White "Erdogmus, Yagiz Kaan"]
+[Black "Le, Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteElo "2713"]
+[BlackElo "2731"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.b3 Nf6 3.Bb2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.Nc3 e5 7.e3 Nxc3 8.dxc3 Bf5 9.Nd2 Be7 10.e4 Be6 11.Bc4 Qd7 12.Qe2 Rd8 13.Rd1 Bg5 14.Bd5 Bxd5 15.Nf3 Bc4 16.Rxd7 Bxe2 17.Rxd8+ Bxd8 18.Kxe2 Kd7 19.Nd2 Ke6 20.Nc4 Bg5 21.h4 Bh6 22.Rd1 Rd8 23.Rxd8 Nxd8 24.a4 g6 25.b4 cxb4 26.cxb4 Bf8 27.b5 f6 28.Bc1 Bc5 29.Be3 Bxe3 30.Kxe3 b6 31.f3 Nb7 32.g4 h5 33.gxh5 gxh5 34.f4 Nc5 35.a5 exf4+ 36.Kxf4 bxa5 37.Nxa5 Nd3+ 38.Ke3 Ne5 39.Kf4 Ng6+ 40.Kg3 Kd6 41.Nc6 a6 42.e5+ fxe5 43.Nxe5 Nxe5 44.bxa6 Kc6 45.Kf4 Ng6+ 46.Kg5 Nxh4 47.a7 Kb7 48.a8=B+ Kxa8 49.Kxh4 Kb8 50.Kxh5 1/2-1/2

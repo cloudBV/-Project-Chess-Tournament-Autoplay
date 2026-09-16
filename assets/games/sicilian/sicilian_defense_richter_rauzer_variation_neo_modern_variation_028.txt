@@ -1,0 +1,14 @@
+[Event "Round 2: Van Roon, Sjoerd - De Winter, Arthur"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/tV4to57h"]
+[Date "2026.07.22"]
+[Round "2.7"]
+[White "Van Roon, Sjoerd"]
+[Black "De Winter, Arthur"]
+[Result "0-1"]
+[WhiteElo "2308"]
+[BlackElo "2446"]
+[ECO "B67"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Nxd4 10.Qxd4 Be7 11.Be3 h5 12.Kb1 Qc7 13.Qb6 Qxb6 14.Bxb6 Rc8 15.Be2 Bc6 16.Rhe1 O-O 17.g3 Nd7 18.Bf2 b5 19.Rd2 Bb7 20.f4 Nc5 21.Bf3 b4 22.Nd1 a5 23.Bd4 g6 24.Nf2 Rc7 25.Nd3 Nd7 26.Bd1 Rfc8 27.c3 Bf6 28.e5 dxe5 29.fxe5 Bg5 30.Rf2 Ba6 31.Nf4 Rb8 32.Be2 Bxe2 33.Nxe2 Nc5 34.Rd1 Ne4 35.Rg2 bxc3 36.Nf4 Nd2+ 37.Rgxd2 cxd2 38.Rxd2 h4 39.Be3 Rc4 40.Bd4 a4 0-1

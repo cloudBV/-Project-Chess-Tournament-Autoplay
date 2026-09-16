@@ -1,0 +1,15 @@
+[Event "Round 8: Willow, Jonah B - Kovchan, Alexander"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-8/94vdhkRC/XIcl9qNP"]
+[Date "2026.07.20"]
+[Round "8.4"]
+[White "Willow, Jonah B"]
+[Black "Kovchan, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2450"]
+[BlackElo "2445"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Qd3 Nbd7 7.Be2 g6 8.Bg5 h6 9.Bh4 e5 10.Nb3 g5 11.Bg3 Nb6 12.a4 Be6 13.a5 Nc4 14.Nd5 Rc8 15.Ra2 Bg7 16.O-O O-O 17.Rb1 Nxd5 18.exd5 Bd7 1/2-1/2

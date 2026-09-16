@@ -1,0 +1,15 @@
+[Event "Round 6: Dhooge, Servaas - Damen, Igor"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-6/axe6t87P/VFFBnn5I"]
+[Date "2026.07.20"]
+[Round "6.19"]
+[White "Dhooge, Servaas"]
+[Black "Damen, Igor"]
+[Result "1-0"]
+[WhiteElo "2038"]
+[BlackElo "2121"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 Na5 8.Ba2 c5 9.Ne2 h6 10.Ng3 Re8 11.c3 Nc6 12.Re1 Bf8 13.h3 Qc7 14.Nh4 Be6 15.Qf3 Qd8 16.Nhf5 Kh7 17.h4 g6 18.Bxe6 fxe6 19.Ne3 Bg7 20.h5 g5 21.Qd1 Qd7 22.Bd2 Qf7 23.a5 Rad8 24.Ng4 Nxg4 25.Qxg4 Qc7 26.b4 cxb4 27.cxb4 Nd4 28.Rac1 Qd7 29.Rc3 Rc8 30.Ne2 Nb5 31.Rcc1 Rxc1 32.Bxc1 Rc8 33.Kh1 Qf7 34.Rf1 Rf8 35.Be3 a6 36.Bb6 Bf6 37.Be3 Be7 38.d4 exd4 39.Nxd4 Nxd4 40.Bxd4 Bf6 41.Bb6 Rc8 42.Rd1 Be5 43.g3 Rc4 44.Qe2 Rc6 45.Kg2 Qg7 46.b5 axb5 47.Qxb5 Rc2 48.Qb3 Rc3 49.Qxe6 Qf8 50.Qg6+ Kh8 51.Be3 Rc6 52.Rd5 Qf6 53.Qe8+ Kg7 54.Rb5 Rc7 55.a6 Rf7 56.Qxf7+ Kxf7 57.a7 g4 58.Bf4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Gopal G.N. - Shukhman, Anna"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-4/6fOXA5mh/ibr59d4b"]
+[Date "2026.07.12"]
+[Round "4.7"]
+[White "Gopal G.N."]
+[Black "Shukhman, Anna"]
+[Result "1-0"]
+[WhiteElo "2471"]
+[BlackElo "2272"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Qc7 8.a4 Be7 9.Be2 Be6 10.O-O O-O 11.Nd5 Nxd5 12.exd5 Bf5 13.c4 a5 14.c5 dxc5 15.Nd2 Rd8 16.Nc4 Be4 17.Bf3 Bxf3 18.Qxf3 Nd7 19.Rad1 Bd6 20.Na3 Nf8 21.Nb5 Qd7 22.h4 Ng6 23.h5 Nh4 24.Qe4 Nf5 25.Nxd6 Nxe3 26.Nxf7 Qxf7 27.fxe3 Qxh5 28.Rd2 Ra6 29.Rf5 Qh6 30.Rxe5 Rf8 31.Re8 Rf6 32.Rxf8+ Rxf8 33.d6 Qf6 34.d7 Rd8 35.Qe8+ Qf8 36.Qe5 Qf7 37.Qxc5 h6 38.e4 Qf4 39.Qd4 Qg3 40.Rd1 Qg4 41.Qd5+ Kh8 42.e5 Qf4 43.e6 Qe3+ 44.Kh1 Qg3 45.Qe4 Qb3 46.Re1 Qxb2 47.e7 1-0

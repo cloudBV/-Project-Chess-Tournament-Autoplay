@@ -1,0 +1,15 @@
+[Event "Round 2: Venkatesh, Narayan - Paragua, Mark"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-2/dFzL3i0L/1LVhFSl6"]
+[Date "2026.07.08"]
+[Round "2.3"]
+[White "Venkatesh, Narayan"]
+[Black "Paragua, Mark"]
+[Result "1-0"]
+[WhiteElo "2270"]
+[BlackElo "2403"]
+[ECO "E70"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 c6 6.Nf3 d5 7.e5 Ne4 8.O-O Nxc3 9.bxc3 Nd7 10.cxd5 cxd5 11.Qb3 Nb6 12.a4 Qc7 13.Nd2 Be6 14.a5 Nc4 15.Nxc4 dxc4 16.Qb5 a6 17.Qb4 Bd5 18.Ba3 Rae8 19.Qc5 Qd7 20.f4 Qe6 21.Rab1 Rc8 22.Qxe7 Qf5 23.Qb4 Rfd8 24.Qb2 Be4 25.Rbe1 Rd5 26.Bc5 h5 27.Bxc4 Rdxc5 28.dxc5 Rxc5 29.Qa2 Rc7 30.Qe2 Bc6 31.e6 Bxc3 32.exf7+ Kh7 33.Rd1 Bg7 34.Bd3 Qc5+ 35.Kh1 Re7 36.Qf2 Qxf2 37.Rxf2 Rxf7 38.f5 Kh6 39.Re1 Kg5 40.Re6 gxf5 41.Bxf5 Rf6 42.Rxf6 Bxf6 43.Bd3 Bc3 44.Rf5+ Kg4 45.Rc5 Bd2 46.Be2+ Kf4 47.Rxh5 Ke3 48.Bf3 Bxf3 49.Rh3 Bxa5 50.Rxf3+ Ke4 51.h4 b5 52.Ra3 Bd8 53.Rxa6 Bxh4 54.Rb6 Bg3 55.Rxb5 Kf4 56.Kg1 Kg4 57.Rb4+ Kg5 58.Kf1 1-0

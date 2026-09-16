@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.5"]
+[White "Kawulski-Chodkiewicz, Alexander"]
+[Black "Ewiak, Filip"]
+[Result "1-0"]
+[WhiteElo "2135"]
+[BlackElo "2021"]
+[ECO "B18"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nh3 e5 8.dxe5 Qa5+ 9.c3 Qxe5+ 10.Qe2 Nd7 11.Bf4 Qxe2+ 12.Bxe2 Ngf6 13.O-O Bc5 14.b4 Be7 15.Rfe1 O-O 16.Bf3 Rfe8 17.a4 Nd5 18.Bxd5 cxd5 19.h5 Bh7 20.Rad1 Nf6 21.Be5 Rad8 22.Nf4 Bc2 23.Rd2 Bxa4 24.Bxf6 Bxf6 25.Rxe8+ Bxe8 26.Nxd5 Bg5 27.f4 Bc6 28.c4 Rxd5 29.cxd5 Bxf4 30.dxc6 Bxd2 31.c7 1-0

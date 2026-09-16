@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/EZKWBEGK"]
+[Date "2026.07.07"]
+[Round "8.2"]
+[White "Sahidi, Samir"]
+[Black "Simek, Petr"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2312"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5 dxe5 5.Nxe5 a6 6.g3 Qd6 7.Nf3 b5 8.d3 Bb7 9.Bg2 e6 10.O-O Be7 11.Re1 O-O 12.a4 b4 13.Bf4 Qd8 14.Ne4 Nc6 15.Be3 Nxe4 16.dxe4 Qc7 17.c3 Rfd8 18.Qc2 c4 19.Red1 b3 20.Qe2 Na5 21.Bd4 Bc6 22.Qe3 Rab8 23.Be5 Bd6 24.Rxd6 Rxd6 25.Qg5 f5 26.exf5 exf5 27.Nd4 Re8 28.Bxd6 Qxd6 29.Nxf5 Qe5 30.Rd1 Kh8 31.h4 Bxg2 32.Kxg2 Nc6 33.Nd6 Rf8 34.Nf7+ 1-0

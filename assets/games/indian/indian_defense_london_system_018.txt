@@ -1,0 +1,14 @@
+[Event "Round 9: Brown, Thomas - Liu,Tianyi (Jack)"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-9/sXIIwQlY/KbpL0ugF"]
+[Date "2026.07.12"]
+[Round "9.7"]
+[White "Brown, Thomas"]
+[Black "Liu,Tianyi (Jack)"]
+[Result "1/2-1/2"]
+[WhiteElo "2062"]
+[BlackElo "2120"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d5 4.e3 c5 5.Nbd2 Nc6 6.c3 Nh5 7.Bg3 Nxg3 8.hxg3 Qb6 9.Qc2 g6 10.dxc5 Qxc5 11.Be2 Bg7 12.e4 O-O 13.O-O Rd8 14.Rad1 Qe7 15.exd5 exd5 16.Rfe1 Bg4 17.Nb3 Rac8 18.Nfd4 Bxe2 19.Qxe2 Qf6 20.Nxc6 Qxc6 21.Qf3 Rd7 22.Rd3 Rcd8 23.Red1 b6 24.Qg4 Rd6 25.Qb4 R6d7 26.Nd4 Qc5 27.Qxc5 bxc5 28.Nc6 Re8 29.Rxd5 Rxd5 30.Rxd5 Re1+ 31.Kh2 Re2 32.Rxc5 Rxb2 33.a4 a6 34.f3 Rb3 35.Nd4 Bxd4 36.cxd4 Rb4 37.Ra5 Rxd4 38.Rxa6 Kg7 39.g4 h6 40.Kg3 g5 41.Ra8 Kh7 42.a5 Ra4 43.a6 Kg7 44.Kf2 1/2-1/2

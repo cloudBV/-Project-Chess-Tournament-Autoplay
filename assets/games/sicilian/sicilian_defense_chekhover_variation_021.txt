@@ -1,0 +1,15 @@
+[Event "Round 7: Paragua, Mark - Titus, Andrew"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-7/0sw4HNtg/Bmp8wBPO"]
+[Date "2026.07.02"]
+[Round "7.1"]
+[White "Paragua, Mark"]
+[Black "Titus, Andrew"]
+[Result "1-0"]
+[WhiteElo "2403"]
+[BlackElo "2239"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 Nc6 6.Bb5 Bd7 7.Bxc6 Bxc6 8.Bg5 e6 9.O-O-O Be7 10.Rhe1 Qa5 11.Kb1 O-O 12.Qd2 Kh8 13.Nd4 Rac8 14.f4 h6 15.Bxf6 Bxf6 16.g4 e5 17.Nb3 Qd8 18.f5 Be7 19.Nd5 Bxd5 20.Qxd5 Qb6 21.Re2 Bg5 22.a4 Qb4 23.Qb5 Rc4 24.Qxb4 Rxb4 25.Rxd6 Rxa4 26.Nc5 Ra5 27.Nd3 Rd8 28.Rxd8+ Bxd8 29.b4 Ra6 30.Nxe5 Bf6 31.Nxf7+ Kg8 32.e5 Kxf7 33.exf6 Kxf6 34.Kb2 h5 35.h3 Rb6 36.Kb3 hxg4 37.hxg4 Kg5 38.Re4 Kf6 39.c4 Rd6 40.c5 Rd1 41.b5 Rc1 42.Re6+ Kf7 43.c6 bxc6 44.bxc6 a5 45.g5 Rc5 46.g6+ Kf8 47.Rd6 Ke8 48.f6 gxf6 49.Rxf6 Ke7 50.Rf7+ Ke6 51.Rf8 Kd5 1-0

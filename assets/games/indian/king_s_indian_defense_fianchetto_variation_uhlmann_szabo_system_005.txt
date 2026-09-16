@@ -1,0 +1,15 @@
+[Event "Round 1: Banh Gia Huy - Kurbanbaev, Zalkar"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-1/nVdvyBmj/5y2flyHL"]
+[Date "2026.07.17"]
+[Round "1.2"]
+[White "Banh Gia Huy"]
+[Black "Kurbanbaev, Zalkar"]
+[Result "1-0"]
+[WhiteElo "2451"]
+[BlackElo "2019"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.d4 Nc6 7.O-O e5 8.dxe5 dxe5 9.Bg5 Be6 10.Qa4 Qc8 11.Nd2 Bd7 12.Rad1 h6 13.Bxf6 Bxf6 14.Nde4 Bd8 15.Rxd7 Qxd7 16.Nc5 Qd2 17.Bxc6 bxc6 18.Qxc6 Be7 19.Nd7 Rfd8 20.Nd5 Bd6 21.c5 Bf8 22.Qxc7 Bg7 23.e4 Qxb2 24.c6 Qxa2 25.Nxe5 Rf8 26.Nd7 Rfd8 27.Qd6 Qa4 28.Ne7+ Kh8 29.Qd5 Qa3 1-0

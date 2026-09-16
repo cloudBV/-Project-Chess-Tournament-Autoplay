@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.11"]
+[White "Kogan, Arthur"]
+[Black "Zieba, Hubert"]
+[Result "1/2-1/2"]
+[WhiteElo "2477"]
+[BlackElo "2315"]
+[ECO "B45"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.a3 d5 7.Bb5 Bd7 8.exd5 exd5 9.O-O Be7 10.Nb3 Be6 11.Be3 O-O 12.Bxc6 bxc6 13.Bc5 Bxc5 14.Nxc5 Qd6 15.Qd4 Bf5 16.Rac1 Ng4 17.f4 Rfe8 18.Rf3 Re7 19.h3 Nf6 20.g4 Ne4 21.N3xe4 Bxe4 22.Rf2 h5 23.Re1 Rae8 24.gxh5 Qh6 25.Kh2 Qxh5 26.Rg1 Qh6 27.f5 Re5 28.Ne6 R8xe6 29.fxe6 Qxe6 30.Qxa7 Bf5 31.Qb8+ Kh7 32.Qf8 g6 33.Rg3 d4 34.Rg4 Qf6 35.Rg3 Re1 36.Qb4 Qe5 37.Qf8 Qd5 38.Rgf3 Re3 39.Rxf5 gxf5 40.Qb8 d3 41.Rg2 Qxg2+ 42.Kxg2 dxc2 43.Qc7 c1=Q 44.Qxf7+ Kh8 45.Qf8+ Kh7 1/2-1/2

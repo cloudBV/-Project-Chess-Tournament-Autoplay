@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.05"]
+[Round "1.2"]
+[White "Garcia Acin, Pablo"]
+[Black "Jacobson, Brandon"]
+[Result "0-1"]
+[WhiteElo "2088"]
+[BlackElo "2601"]
+[ECO "B54"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Prins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 Be6 7.c4 Be7 8.Be3 O-O 9.Be2 a5 10.Nc3 Nc6 11.O-O a4 12.Nd2 a3 13.Rb1 Nd7 14.b4 Bg5 15.Bf2 Nd4 16.Bd3 Nb6 17.Nb3 Nxc4 18.Nxd4 exd4 19.Bxc4 Bxc4 20.Ne2 d3 21.Nc3 d2 22.Ne2 Bxa2 23.Ra1 Bc4 24.Bd4 Qd7 25.f4 Qg4 26.Qxd2 Qxe2 27.Qxe2 Bxe2 28.Rfe1 Bxf4 29.Rxe2 Ra4 30.Bc3 Rc8 31.Be1 Be5 32.Raa2 f6 33.Kf1 Rc1 34.Re3 Bb2 35.Ke2 Ra1 36.Rxa1 Bxa1 37.Kd3 a2 0-1

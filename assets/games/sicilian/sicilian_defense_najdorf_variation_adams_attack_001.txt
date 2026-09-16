@@ -1,0 +1,14 @@
+[Event "Round 8: Suvara, Filip - Niharika Challa"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/9zD6zAGd"]
+[Date "2026.07.01"]
+[Round "8.12"]
+[White "Suvara, Filip"]
+[Black "Niharika Challa"]
+[Result "0-1"]
+[WhiteElo "2089"]
+[BlackElo "2193"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 Be7 8.g5 Nfd7 9.h4 b5 10.a3 Bb7 11.Be3 Nb6 12.Qd2 N8d7 13.h5 Ne5 14.b3 Ng4 15.Rg1 Nxe3 16.Qxe3 Rc8 17.g6 hxg6 18.hxg6 Bf6 19.gxf7+ Kxf7 20.O-O-O Qc7 21.Kb2 Rh4 22.f4 e5 23.fxe5 Bxe5 24.Bg2 Qxc3+ 25.Qxc3 Rxc3 26.Kxc3 Bxe4 27.Rgf1+ Kg8 28.Bxe4 Rxe4 29.Kb4 Bxd4 30.Ka5 Nd5 31.Kxa6 Ne3 32.Rfe1 Be5 33.Rd3 Bf4 34.Kxb5 g5 35.a4 Re5+ 36.Ka6 Nxc2 37.Rxe5 dxe5 38.Kb5 e4 39.Rd8+ Kf7 40.Kc4 g4 41.a5 g3 42.a6 Be3 43.Rd2 Bxd2 44.a7 g2 45.a8=Q g1=Q 46.Qxe4 Qf1+ 47.Kc5 Bb4+ 48.Kb6 Qf6+ 49.Kb5 Qg5+ 50.Kc6 Qc5+ 51.Kb7 Qb5+ 52.Kc8 Qc5+ 53.Kb7 Nd4 54.Qf4+ Ke6 55.Qh6+ Ke5 56.Qh5+ Nf5 57.Qh8+ Kd5 58.Qg8+ Ke4 59.Qc4+ Qxc4 60.bxc4 Bc5 61.Kc6 Kd4 62.Kd7 Ne3 63.Kc6 Ng4 64.Kd7 Ne5+ 65.Kc7 Ke4 66.Kb7 Kf5 67.Ka6 Ke6 68.Kb5 Kd6 69.Ka4 Kc6 70.Ka5 Nd3 71.Ka4 Be3 72.c5 Kxc5 73.Kb3 Kd4 74.Kc2 Kc4 75.Kd1 Nf4 76.Ke1 Kd3 77.Kf1 Bd4 78.Ke1 Bc5 79.Kf1 Ke4 80.Ke1 Ke3 81.Kf1 Kf3 82.Ke1 Be3 83.Kd1 Nd3 84.Kc2 Ke4 85.Kc3 Ne5 86.Kb4 Kd5 87.Kb5 Bc5 88.Ka6 Kc6 89.Ka5 Nf3 90.Ka4 Nd4 91.Ka5 Be7 92.Ka4 Bd6 93.Ka5 Ne6 94.Ka4 Kc5 95.Kb3 Kd4 96.Kc2 Bb4 97.Kb3 Be1 98.Kc2 Nf4 99.Kb3 Kc5 100.Kc2 Kc4 101.Kd1 Ba5 102.Kc2 Bc3 103.Kb1 Nd3 104.Kc2 Nf2 105.Kb1 Kb3 106.Kc1 Bb4 107.Kb1 Bd2 108.Ka1 Nd3 109.Kb1 Ne5 110.Ka1 Nc4 111.Kb1 Na3+ 112.Ka1 Bc3# 0-1

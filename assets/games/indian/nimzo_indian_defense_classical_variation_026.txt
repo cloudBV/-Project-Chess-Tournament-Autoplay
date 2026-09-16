@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.21"]
+[Round "4.1"]
+[White "Simacek, Pavel"]
+[Black "Korobov, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2363"]
+[BlackElo "2614"]
+[ECO "E32"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d5 7.Bg5 dxc4 8.Qxc4 b6 9.Nf3 Ba6 10.Qa4 h6 11.Bh4 Qd7 12.Qc2 Rc8 13.Bxf6 gxf6 14.Rd1 c5 15.dxc5 Rxc5 16.Qe4 Rd5 17.Rxd5 exd5 18.Qf4 Qe7 19.Nd4 Nd7 20.Nf5 Qe5 21.Qxe5 fxe5 22.Ne7+ Kg7 23.Nxd5 Nc5 24.Nc7 Rc8 25.Nxa6 Nxa6 26.Kd2 Nc5 27.g3 Nb3+ 28.Kd3 Nc5+ 29.Kd2 Na4 30.Bh3 Rc6 31.Rc1 Rd6+ 32.Kc2 a5 33.Bg2 Rf6 34.Rf1 Rd6 35.b4 axb4 36.axb4 b5 37.e3 Nb6 38.Rd1 Rf6 39.f4 Nc4 40.Rd3 Ra6 41.Bd5 Ra2+ 42.Kc1 Ra1+ 43.Kc2 Ra2+ 44.Kc1 1/2-1/2

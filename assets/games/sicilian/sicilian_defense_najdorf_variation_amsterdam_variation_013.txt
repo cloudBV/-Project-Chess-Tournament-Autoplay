@@ -1,0 +1,15 @@
+[Event "Round 6: Ninov, Nikolai - Mrittika Mallick"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-6/343OmIpb/NbjHTs4f"]
+[Date "2026.07.08"]
+[Round "6.18"]
+[White "Ninov, Nikolai"]
+[Black "Mrittika Mallick"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2141"]
+[ECO "B93"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nb3 Nbd7 8.g4 b5 9.g5 Ng8 10.f5 Bb7 11.Bg2 Ne7 12.O-O b4 13.Nd5 Nxd5 14.exd5 Be7 15.Qg4 Qb6+ 16.Rf2 a5 17.a3 Rc8 18.Qe2 Ba6 19.Qe3 Bd8 20.axb4 Qxb4 21.Bd2 Bb6 22.Bxb4 Bxe3 23.Bc3 O-O 24.Nxa5 Bb5 25.Nb7 Ra8 26.Re1 Bxf2+ 27.Kxf2 Ra6 28.Bb4 Rb8 29.Nxd6 Ba4 30.Bf1 Rxb4 31.Bxa6 Rb6 32.Be2 Bxc2 33.Nc4 Rb8 34.Ne3 Rxb2 35.Nxc2 Rxc2 36.Ra1 Kf8 37.d6 Rb2 38.Ra8+ Nb8 39.Ra7 Rd2 40.Rc7 Rxd6 41.Rc8+ Ke7 42.Rxb8 Rd4 43.Rb7+ Kf8 44.Kg3 Re4 45.f6 1-0

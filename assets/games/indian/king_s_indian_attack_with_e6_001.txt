@@ -1,0 +1,15 @@
+[Event "Round 8: Rydstrom, Tom - Dingertz, Erik"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-8/GO3zCEkj/lOruSDQn"]
+[Date "2026.07.01"]
+[Round "8.4"]
+[White "Rydstrom, Tom"]
+[Black "Dingertz, Erik"]
+[Result "1-0"]
+[WhiteElo "2311"]
+[BlackElo "2211"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 c5 7.e4 Nc6 8.Qe2 b5 9.a4 b4 10.Re1 Bb7 11.e5 Nd7 12.h4 Rc8 13.h5 Nd4 14.Nxd4 cxd4 15.Nf3 Qb6 16.h6 g6 17.Bf4 Rc7 18.a5 Qc5 19.Rec1 Ba6 20.Nd2 Qb5 21.Nb3 Bc5 22.Bxd5 exd5 23.e6 Rcc8 24.exd7 Qxd7 25.Nxc5 Rxc5 26.Qe5 f6 27.Qxd4 Rfc8 28.Qxf6 Qf7 29.Qxa6 g5 30.Be3 Rxc2 31.Qxc8+ 1-0

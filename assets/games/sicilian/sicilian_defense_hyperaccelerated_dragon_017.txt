@@ -1,0 +1,15 @@
+[Event "Round 8: Munoz, Miguel - Fernandez Borrego, Pablo"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-8/2T9Qhdgr/UXUlLqaE"]
+[Date "2026.07.11"]
+[Round "8.3"]
+[White "Munoz, Miguel"]
+[Black "Fernandez Borrego, Pablo"]
+[Result "1/2-1/2"]
+[WhiteElo "2316"]
+[BlackElo "2359"]
+[ECO "B27"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.exd5 Nf6 7.Nc3 O-O 8.Bc4 Nbd7 9.O-O Nb6 10.Bb3 Nfxd5 11.Nxd5 Nxd5 12.Re1 a5 13.Bg5 1/2-1/2

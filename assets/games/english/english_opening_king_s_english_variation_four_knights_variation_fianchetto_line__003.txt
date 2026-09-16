@@ -1,0 +1,15 @@
+[Event "2026 India Rising Finals"]
+[Site "https://lichess.org/broadcast/india-rising-2026-finals/set-3/8RwFyKXI/1OoD0Qj8"]
+[Date "2026.07.04"]
+[Round "1.3.1"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Bok, Benjamin"]
+[Result "1/2-1/2"]
+[WhiteElo "2697"]
+[BlackElo "2560"]
+[ECO "A29"]
+[TimeControl "600"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Bc5"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Bc5 7.O-O O-O 8.d3 h6 9.Nxd5 Qxd5 10.Bd2 Rd8 11.Bc3 Qe6 12.Nd2 Qe7 13.Rc1 Nd4 14.e3 Nb5 15.Qc2 Nxc3 16.bxc3 Bf5 17.Be4 Bh3 18.Rfd1 Rab8 19.d4 Bd6 20.Nc4 Bg4 21.Re1 c6 22.Bh7+ Kh8 23.Bf5 Bf3 24.Be4 Bg4 25.f4 exd4 26.exd4 Qc7 27.Bf5 Bxf5 28.Qxf5 c5 29.d5 b5 30.Ne5 Bxe5 31.Rxe5 c4 32.Rce1 Qd7 33.Re8+ Rxe8 34.Qxd7 Rxe1+ 35.Kf2 Rd1 36.d6 Rb6 37.Qc8+ Kh7 38.Qf5+ Kg8 39.Qc8+ Kh7 40.Qf5+ Kg8 41.Qc8+ Kh7 1/2-1/2

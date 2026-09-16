@@ -1,0 +1,14 @@
+[Event "Blitz D18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.5"]
+[White "Sprzeczka, Emilia"]
+[Black "Kawka, Milena"]
+[Result "1-0"]
+[WhiteElo "2011"]
+[BlackElo "2032"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O a5 7.a4 f6 8.Bd3 Bxd3 9.Qxd3 fxe5 10.dxe5 Qc7 11.Re1 Ne7 12.Nd4 Nc5 13.Qh3 Qd7 14.b3 Ng6 15.Ba3 b6 16.Bxc5 Bxc5 17.Nxe6 Qe7 18.Nd2 Ra7 19.c4 Nf8 20.Nxc5 bxc5 21.e6 Kd8 22.cxd5 cxd5 23.Re5 Ng6 24.Rxd5+ Kc8 25.Qf5 Rc7 26.Rc1 Rf8 27.Qe4 Rf4 28.Qe3 c4 29.Nxc4 Rf6 30.Re1 Nf4 31.Re5 Ng6 32.Rxa5 Nf4 33.Ra8+ Kb7 34.Qa7+ Kc6 35.Qb6+ 1-0

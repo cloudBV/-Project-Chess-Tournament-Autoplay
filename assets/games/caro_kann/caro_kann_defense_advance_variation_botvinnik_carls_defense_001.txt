@@ -1,0 +1,15 @@
+[Event "Round 7: Boix Redorta, Roc - Alcala Gonzalez, Cesar"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-7/6iWvj5Ml/QyMPEnmc"]
+[Date "2026.07.01"]
+[Round "7.2"]
+[White "Boix Redorta, Roc"]
+[Black "Alcala Gonzalez, Cesar"]
+[Result "0-1"]
+[WhiteElo "2159"]
+[BlackElo "2297"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.dxc5 Bg4 6.Bb5 Qa5+ 7.Nc3 e6 8.Be3 Ne7 9.h3 Bxf3 10.Qxf3 a6 11.Ba4 O-O-O 12.Bd2 Nxe5 13.Qf4 N7g6 14.b4 Nxf4 15.bxa5 Nxg2+ 16.Ke2 Nc4 17.Rhg1 Nxd2 18.Kxd2 Nf4 19.c6 Bb4 20.cxb7+ Kb8 21.Rab1 Bxc3+ 22.Kxc3 Ne2+ 23.Kb4 Nxg1 24.Rxg1 g6 25.Bc6 Rd6 26.Kc5 Kc7 27.Ba4 Rb8 28.Rb1 d4 29.Rb6 Rd5+ 30.Kb4 Rxb7 31.Bb3 Rb5+ 32.Kc4 R7xb6 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Melaugh, Shane - Greet, Andrew N"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-7/7S35PeQN/WMUWgtVN"]
+[Date "2026.07.07"]
+[Round "7.2"]
+[White "Melaugh, Shane"]
+[Black "Greet, Andrew N"]
+[Result "0-1"]
+[WhiteElo "2145"]
+[BlackElo "2413"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Be2 Ne7 7.Nf3 Bg4 8.O-O c5 9.Re1 Nc6 10.Bf4 cxd4 11.Nfxd4 Bxe2 12.Qxe2 Nxd4 13.Nxd4 Rc8 14.Rad1 a6 15.Qg4 g6 16.Nxe6 fxe6 17.Qxe6+ Qe7 18.Qxd5 Nb6 19.Qb3 Qb4 20.Qe6+ Be7 21.Bg5 Rc6 22.Rd8+ Kxd8 23.Rd1+ Ke8 24.Bxe7 Qxe7 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Safranek, William - Novik, Maxim"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-2/gGRN6RNO/NSrwxJbO"]
+[Date "2026.07.08"]
+[Round "2.4"]
+[White "Safranek, William"]
+[Black "Novik, Maxim"]
+[Result "1/2-1/2"]
+[WhiteElo "2252"]
+[BlackElo "2362"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 Qa5+ 6.c3 Qa6 7.Qd1 e6 8.Ne2 c5 9.Nd2 Nc6 10.Nf3 cxd4 11.cxd4 Bb4+ 12.Bd2 Bxd2+ 13.Qxd2 Qa5 14.Nc3 Nge7 15.O-O O-O 16.a3 b5 17.b4 Qb6 18.a4 a5 19.axb5 Nxb4 20.Qe2 Rab8 21.Na4 Qxb5 22.Qxb5 Rxb5 23.Nc3 Rbb8 24.Rxa5 Rfe8 25.Rb5 h5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-6/TDdeBJvE/5ydfe68P"]
+[Date "2026.07.17"]
+[Round "6.9"]
+[White "Ruzhansky, Elias"]
+[Black "Galaviz Medina, Sion Radamantys"]
+[Result "0-1"]
+[WhiteElo "2442"]
+[BlackElo "2505"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 Nbd7 7.O-O g6 8.a4 Bg7 9.Re1 O-O 10.h3 Nc5 11.Bg5 h6 12.Be3 Bd7 13.Qd2 Kh7 14.a5 Rc8 15.Ra3 e5 16.Nb3 Nxd3 17.Qxd3 Bc6 18.Raa1 Qe7 19.Rad1 Rfd8 20.Bb6 Rd7 21.Nd5 Nxd5 22.exd5 Bb5 23.Qd2 Qh4 24.Na1 f5 25.b3 Rf7 26.c4 Bd7 27.f3 f4 28.Re2 Bf5 29.Nc2 Qg5 30.Kh1 Qh5 31.Ne1 e4 32.Qxf4 Bxh3 33.Qh2 exf3 34.Nxf3 Rxf3 35.gxf3 Qxf3+ 36.Kg1 Rf8 37.Ree1 Be5 38.Qe2 Qg3+ 39.Kh1 Bg4 40.Rd3 Qh4+ 0-1

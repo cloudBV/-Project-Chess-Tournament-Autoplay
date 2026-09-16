@@ -1,0 +1,14 @@
+[Event "Round 7: Ghosh, Diptayan - Kukushkin, Ivan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/PHY9Y6DX"]
+[Date "2026.07.19"]
+[Round "7.4"]
+[White "Ghosh, Diptayan"]
+[Black "Kukushkin, Ivan"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2265"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Be7 4.Nf3 Nc6 5.e3 Nf6 6.a3 d6 7.Nc3 Be6 8.Be2 O-O 9.O-O d5 10.cxd5 Nxd5 11.Qc2 a6 12.b4 f5 13.Nxd5 Bxd5 14.d3 e4 15.dxe4 fxe4 16.Nd2 Bf6 17.Bb2 Bxb2 18.Qxb2 Qg5 19.Rac1 Ne5 20.Rxc7 Rad8 21.Kh1 Bc6 22.Qc3 Kh8 23.a4 Rd6 24.b5 axb5 25.axb5 Bd5 26.Rc8 Rf6 27.Rxf8+ Rxf8 28.Qd4 Ng6 29.Nxe4 Qf5 30.Ng3 Qe6 31.e4 Bb3 32.Bf3 Ne5 33.Be2 h6 34.Kg1 Qf6 35.Qe3 Be6 36.h3 Rc8 37.Rd1 Ng6 38.Nh5 Qe5 39.f4 Qb2 40.f5 Rc3 41.Rd8+ Bg8 42.Qd4 Qc1+ 43.Kh2 Rc7 44.fxg6 Qg5 45.Ng3 Qxg6 46.Nf5 Rf7 47.Bf3 b6 48.Rd6 Qg5 49.Rxh6+ 1-0

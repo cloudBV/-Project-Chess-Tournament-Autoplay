@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-3/j8fQQG3m/eatxCs8E"]
+[Date "2026.07.21"]
+[Round "3.17"]
+[White "Skonnord, Uno"]
+[Black "Surender, Anil"]
+[Result "0-1"]
+[WhiteElo "2181"]
+[BlackElo "2067"]
+[ECO "E84"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Main Line"]
+
+1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 Nf6 5.f3 O-O 6.Be3 Nc6 7.Qd2 a6 8.Nge2 Rb8 9.g4 b5 10.cxb5 axb5 11.Ng3 b4 12.Nce2 Ba6 13.Bh6 b3 14.Bxg7 Kxg7 15.a3 e6 16.h4 Ng8 17.g5 f6 18.Nf4 Bc8 19.Bc4 e5 20.gxf6+ Nxf6 21.Nfe2 h6 22.d5 Ne7 23.O-O-O Qd7 24.Kb1 Qa4 25.Qc3 Kh7 26.Nc1 Nd7 27.Nxb3 Nb6 28.Nd2 Nxc4 29.Nxc4 Rb3 30.Qc2 Ba6 31.Na5 Rxa3 32.Qxa4 Rxa4 33.Nc6 Nxc6 34.dxc6 Rxf3 35.Rhg1 Bd3+ 36.Rxd3 Rxd3 37.h5 Rxg3 38.Rxg3 gxh5 39.b3 Rxe4 40.Kb2 h4 41.Rg1 Rb4 42.Rd1 Rb6 43.Rc1 h3 44.Ka3 h2 45.b4 Kg6 46.Ka4 h1=Q 47.Rxh1 Rxc6 0-1

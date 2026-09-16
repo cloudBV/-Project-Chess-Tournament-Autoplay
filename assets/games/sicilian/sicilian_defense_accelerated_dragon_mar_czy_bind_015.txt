@@ -1,0 +1,14 @@
+[Event "Junior A"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "5.1"]
+[White "Oksendal, Martin"]
+[Black "Khoo-Thwe, Louis"]
+[Result "0-1"]
+[WhiteElo "2240"]
+[BlackElo "2268"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.O-O a4 12.Bd4 Qa5 13.Rad1 Bd7 14.Qe3 Bc6 15.h4 Rfe8 16.Nd5 Bxd5 17.exd5 Nd7 18.h5 e5 19.dxe6 Rxe6 20.Qf3 Bxd4 21.Rxd4 Qe5 22.Rd2 Nc5 23.Qd5 Qxd5 24.cxd5 Re5 25.hxg6 hxg6 26.f3 Kg7 27.Rb1 Ra5 28.b4 axb3 29.axb3 Nd7 30.Rc1 Nf6 31.Rc7 Raxd5 32.Ra2 b5 33.Bf1 Ng8 34.Re2 Rf5 35.Rb7 Rd1 36.Kf2 Nf6 37.Ree7 Nd5 38.Re4 Rb1 39.g4 Rf6 40.Rd4 Rxb3 41.Rd3 Rb2+ 42.Kg3 Nf4 43.Rd4 g5 44.Rxb5 Rxb5 45.Bxb5 d5 46.Kf2 Rb6 47.Bf1 Rb2+ 48.Ke1 Kf6 49.Ra4 Ke5 50.Ra7 f6 51.Ra6 Ne6 52.Be2 Nd4 53.Bd1 Rh2 54.Ra8 Nc2+ 55.Bxc2 Rxc2 56.Ra4 Rb2 57.Ra5 Kf4 58.Rxd5 Ke3 59.Kf1 Kxf3 60.Rf5+ Kxg4 61.Rxf6 Kg3 62.Rg6 g4 63.Rg8 Rb1+ 64.Ke2 Rg1 65.Rg7 Kh2 66.Rh7+ Kg2 67.Ra7 Rf1 68.Ra3 Rf2+ 69.Ke1 g3 70.Rb3 Rf8 71.Re3 Kh2 72.Re7 Rh8 0-1

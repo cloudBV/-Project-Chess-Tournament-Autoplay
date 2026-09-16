@@ -1,0 +1,14 @@
+[Event "Round 6: Tronsson, Martin - Vernersson, Per"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/VKqOtCSx"]
+[Date "2026.07.02"]
+[Round "6.2"]
+[White "Tronsson, Martin"]
+[Black "Vernersson, Per"]
+[Result "0-1"]
+[WhiteElo "2080"]
+[BlackElo "2282"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4 Bg6 5.e6 Qd6 6.exf7+ Bxf7 7.f4 Nf6 8.Be2 e6 9.g5 Ne4 10.Nf3 Nd7 11.c3 Bg6 12.Be3 Bf5 13.Nbd2 h6 14.gxh6 Rxh6 15.Ne5 Ndf6 16.Ndf3 Ng3 17.Rg1 Nxe2 18.Qxe2 Ne4 19.Ng5 Qc7 20.Nxe4 dxe4 21.O-O-O O-O-O 22.Kb1 Kb8 23.Ka1 Bd6 24.Rg3 Rdh8 25.Rg2 Rh3 26.Rdg1 R8h7 27.a3 Bf8 28.Qf2 b6 29.Qe2 Kb7 30.Bd2 Bd6 31.Be3 Qe7 32.Ka2 Bc7 33.Bd2 Bxe5 34.fxe5 Rd3 35.Bf4 Qd7 36.Ka1 g6 37.Rg3 Qd5 38.Rxd3 exd3 39.Qe3 Rd7 40.Qd2 Qb3 41.Qd1 Qc2 42.Qf3 Rd5 43.Rc1 Qe2 44.Qe3 Be4 45.Re1 Qxe3 46.Bxe3 Rd7 47.Rf1 Rh7 48.Rf2 Bf5 49.b3 Rh4 50.Kb2 Re4 51.Bf4 Bg4 52.Kc1 Re1+ 53.Kd2 Rd1+ 54.Ke3 Bf5 55.c4 Re1+ 56.Kd2 Rg1 57.Kc3 Kc8 58.d5 cxd5 59.cxd5 exd5 60.Kd4 Kd7 61.Kxd5 Rb1 62.b4 Be6+ 63.Kd4 Rb3 64.Ra2 Bf5 65.Ra1 Rb2 66.Kd5 Bg4 67.e6+ Bxe6+ 68.Kd4 Bf5 69.Rc1 Rf2 70.Ke3 Re2+ 71.Kf3 Be4+ 72.Kg4 Ke6 73.Rc7 Rg2+ 74.Kh3 d2 75.Bxd2 Rxd2 76.Rxa7 Kf5 77.Rf7+ Kg5 78.Kg3 Rg2+ 79.Kh3 Rg1 0-1

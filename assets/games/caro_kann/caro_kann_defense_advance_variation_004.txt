@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.04"]
+[Round "1.6"]
+[White "Milanovic, Dino"]
+[Black "Fernandez, Daniel Howard"]
+[Result "0-1"]
+[WhiteElo "2163"]
+[BlackElo "2529"]
+[ECO "B12"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 a6 4.Bd3 c5 5.dxc5 Nc6 6.Bf4 e6 7.c3 Bxc5 8.Nf3 Nge7 9.Qe2 f6 10.b4 Bb6 11.exf6 gxf6 12.Nh4 e5 13.Qh5+ Kd7 14.Bg3 Qe8 15.Qe2 Kc7 16.Nd2 Ng6 17.O-O Qf7 18.a4 Nxh4 19.Bxh4 Bd7 20.Rfb1 e4 21.Bg3+ Ne5 22.Bc2 Rhg8 23.Bb3 Rxg3 24.hxg3 Ng4 25.Qxe4 Bxf2+ 26.Kf1 Bxg3 27.Qd3 Be5 28.Bd1 Bf5 29.Qe2 Qh5 30.Nf3 Qh1+ 31.Ng1 Nh2+ 32.Kf2 Rg8 33.Ke1 0-1

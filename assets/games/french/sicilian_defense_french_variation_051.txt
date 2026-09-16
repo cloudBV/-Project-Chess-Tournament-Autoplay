@@ -1,0 +1,15 @@
+[Event "Round 5: Ozcan, Ilker - Buyuk, Eymen Eren"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/taGVofxE"]
+[Date "2026.07.16"]
+[Round "5.18"]
+[White "Ozcan, Ilker"]
+[Black "Buyuk, Eymen Eren"]
+[Result "0-1"]
+[WhiteElo "2059"]
+[BlackElo "2170"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nc3 d5 6.exd5 exd5 7.d4 cxd4 8.Nxd4 Bg4 9.Nde2 Bb4 10.h3 Bxc3+ 11.bxc3 Bf5 12.O-O O-O 13.Bg5 Be4 14.Nf4 h6 15.Bxf6 Qxf6 16.Nxd5 Bxd5 17.Qxd5 Rac8 18.Qf3 Qxf3 19.Bxf3 Na5 20.Rab1 b6 21.Rbd1 Rxc3 22.Be4 Re8 23.Rfe1 Kf8 24.Kf1 Nc4 25.Bd3 Rd8 26.Bf5 Rxd1 27.Rxd1 Ra3 28.Rd8+ Ke7 29.Rd7+ Ke8 30.Rd4 Nb2 31.Be4 Rxa2 32.Bc6+ Ke7 33.Ke2 Ra5 34.Kd2 Rc5 35.Bd5 b5 36.Re4+ Kf8 37.Bb3 a5 38.Rf4 f6 39.Rd4 a4 40.Ba2 Ke7 41.Kc1 a3 42.Kb1 Na4 43.Rd3 Nc3+ 44.Ka1 b4 45.Bb3 Re5 46.Re3 Rxe3 47.fxe3 Kd6 0-1

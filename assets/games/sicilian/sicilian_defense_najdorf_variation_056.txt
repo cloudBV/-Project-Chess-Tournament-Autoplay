@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "3.9"]
+[White "Stachniak, Stanislaw"]
+[Black "Nawalaniec, Adam"]
+[Result "*"]
+[WhiteElo "2019"]
+[BlackElo "2246"]
+[ECO "B90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.Bg5 Be6 9.Bxf6 Bxf6 10.Nd5 Nd7 11.Bc4 O-O 12.O-O Nb6 13.Bb3 Nxd5 14.Bxd5 Qc7 15.c3 Rab8 16.Qd3 Rfc8 17.Rfd1 Be7 18.a5 Qc5 19.h3 g6 20.Qd2 Kg7 21.Ra4 Bd7 22.Raa1 b6 23.axb6 Rxb6 24.Ne1 h6 25.Nd3 Qc7 26.Nb4 Bg5 27.Qe1 Bb5 28.Ba2 Bc4 29.Bxc4 Qxc4 30.Qf1 Qxe4 31.Rxa6 Rxa6 32.Qxa6 Qa8 33.Qxa8 Rxa8 34.Rxd6 e4 35.Nd5 Ra1+ 36.Kh2 Rd1 37.Rd7 e3 38.fxe3 Bxe3 39.Kg3 Bc1 40.b4 Bb2 41.b5 Bxc3 42.b6 Be5+ 43.Kf3 Rb1 44.b7 Rb2 45.Re7 Bd6 46.Rd7 Be5 47.g4 h5 48.gxh5 gxh5 49.Ke4 Bg3 50.Kd4 Rh2 51.Kc4 Rxh3 52.Nc7 Rh4+ 53.Kb5 Be1 54.Kc6 Rc4+ 55.Kb6 Rb4+ 56.Ka7 Bf2+ 57.Kb8 h4 58.Kc8 h3 59.Rd3 h2 60.Rh3 Bg1 61.b8=Q Rxb8+ 62.Kxb8 Kf6 63.Nd5+ Kf5 64.Ne3+ Bxe3 65.Rxh2 Bf4+ *

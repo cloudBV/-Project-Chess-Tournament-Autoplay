@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.7"]
+[White "Dahl, Max"]
+[Black "Brattgjerd, Isak Vinh"]
+[Result "0-1"]
+[WhiteElo "2171"]
+[BlackElo "2255"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Be3 Na6 7.a3 Bd6 8.Bd3 Bf5 9.Ne2 O-O 10.O-O Bxd3 11.Qxd3 Re8 12.Rad1 Qc7 13.h3 c5 14.Nc3 c4 15.Qf5 Qb6 16.Qb5 Qc6 17.d5 Qc7 18.Bxa7 Qe7 19.Bd4 Rac8 20.Na4 Bc7 21.Nb6 Qd6 22.g3 Bxb6 23.Bxb6 h5 24.Rfe1 Rxe1+ 25.Rxe1 h4 26.g4 Kh7 27.Re4 c3 28.b4 g6 29.a4 Kg7 30.Rc4 Rxc4 31.Qxc4 Qxb6 32.b5 Qc5 33.Qxc5 Nxc5 34.a5 Kf8 35.d6 Ke8 36.Kg2 Kd7 37.Kf3 Kxd6 38.Ke3 Kd5 39.f4 Kc4 40.b6 Kb5 41.Kd4 Ne6+ 0-1

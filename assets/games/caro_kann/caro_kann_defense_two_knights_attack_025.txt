@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.9"]
+[White "Stepinski, Piotr"]
+[Black "Grzebieniowski, Michal"]
+[Result "1-0"]
+[WhiteElo "2281"]
+[BlackElo "2092"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Qd5 7.Qh4 Bf5 8.Bc4 Qa5 9.b4 Qc7 10.Bb2 e6 11.Qg5 Nd7 12.O-O h6 13.Qe3 Nb6 14.Bb3 Bd6 15.Nd4 O-O 16.Nxf5 exf5 17.h3 Rfe8 18.Qf3 Be5 19.d4 Bf6 20.Qxf5 Qd6 21.c3 Re2 22.Bc1 Nd5 23.Qf3 Rae8 24.Bxd5 cxd5 25.Be3 Rb2 26.Qd1 Bd8 27.Qf3 Bc7 28.g3 Qd7 29.Kg2 Qc6 30.Rfc1 Qc4 31.a4 Qd3 32.Re1 Rc2 33.Rac1 Ra2 34.a5 Qc4 35.Bf4 Rxe1 36.Rxe1 Bxf4 37.Re8+ Kh7 38.Qxf4 Qd3 39.Qxf7 Ra1 40.Qg8+ Kg6 41.Re6+ Kh5 42.Qf7+ 1-0

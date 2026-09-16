@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-6/TDdeBJvE/z8x8GNlG"]
+[Date "2026.07.17"]
+[Round "6.5"]
+[White "Levin, Guy"]
+[Black "Veiga, Jose Francisco R P Neves"]
+[Result "1/2-1/2"]
+[WhiteElo "2471"]
+[BlackElo "2417"]
+[ECO "A49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 c5 7.c4 Nc6 8.Bb2 cxd4 9.Nxd4 Bd7 10.Nc3 Rc8 11.e3 a6 12.Rc1 Re8 13.a3 Rc7 14.Nde2 Qb8 15.a4 Ne5 16.Nd4 Nc6 17.Ra1 Nxd4 18.Qxd4 Bc6 19.Qd2 Rd8 20.Rfd1 Bxg2 21.Kxg2 e6 1/2-1/2

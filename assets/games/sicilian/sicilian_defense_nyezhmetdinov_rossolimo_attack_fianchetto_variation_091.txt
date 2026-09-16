@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.28"]
+[White "Paszewski, Mateusz"]
+[Black "Ret, Adam Josef"]
+[Result "1-0"]
+[WhiteElo "2244"]
+[BlackElo "2045"]
+[ECO "B31"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Nf6 6.Re1 O-O 7.d4 d5 8.e5 Ne4 9.Bxc6 bxc6 10.Be3 c4 11.Nfd2 Nxd2 12.Nxd2 f6 13.Bf4 f5 14.b3 e6 15.Nf3 h6 16.h4 Ba6 17.Qc1 Kh7 18.Qa3 Bb5 19.Qd6 Qc8 20.a4 Ba6 21.bxc4 Bxc4 22.Nd2 Rf7 23.Qa3 Bf8 24.Qc1 Qa6 25.Nf3 Rb8 26.h5 gxh5 27.Nh4 Be7 28.Qd1 Bxh4 29.Qxh5 Bxf2+ 30.Kxf2 Rb2+ 31.Ke3 Qb7 32.Qxh6+ Kg8 33.Qg6+ Rg7 34.Qe8+ 1-0

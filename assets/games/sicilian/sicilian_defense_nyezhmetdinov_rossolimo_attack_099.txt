@@ -1,0 +1,14 @@
+[Event "Round 1: La Barbera, Manfredi - Amar, Elham"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/fi0dHobU"]
+[Date "2026.07.18"]
+[Round "1.14"]
+[White "La Barbera, Manfredi"]
+[Black "Amar, Elham"]
+[Result "0-1"]
+[WhiteElo "2297"]
+[BlackElo "2581"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.d4 cxd4 6.Nxd4 Ng6 7.Be3 Be7 8.c3 O-O 9.Nd2 a6 10.Be2 b5 11.a4 Nxd4 12.cxd4 bxa4 13.d5 exd5 14.exd5 d6 15.Nc4 Rb8 16.Qxa4 Bf6 17.Qa3 Ne7 18.Qxd6 Qxd6 19.Nxd6 Nxd5 20.Bc5 Bxb2 21.Nxc8 Rfxc8 22.Bd6 Bxa1 23.Bxb8 Bb2 24.Bd6 a5 25.Bf3 Nc3 26.Re1 a4 27.Bg4 Rd8 28.Be7 Rd4 29.Bf3 h6 30.Bc5 Rd8 31.Bb6 Rf8 32.Bc5 a3 33.Bxf8 Kxf8 34.Bc6 g6 0-1

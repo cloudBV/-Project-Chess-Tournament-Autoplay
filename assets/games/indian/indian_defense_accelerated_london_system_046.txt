@@ -1,0 +1,15 @@
+[Event "Round 6: Okur, Batin - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/IUQHvhsq"]
+[Date "2026.07.16"]
+[Round "6.29"]
+[White "Okur, Batin"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2300"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 c5 4.c3 Nc6 5.Nd2 d5 6.Ngf3 Bd6 7.Bg3 O-O 8.Bd3 b6 9.e4 Be7 10.e5 Nh5 11.Ng5 Bxg5 12.Qxh5 g6 13.Qe2 cxd4 14.h4 Bh6 15.h5 dxc3 16.bxc3 Bg7 17.hxg6 hxg6 18.Qg4 Nxe5 19.Bxe5 Bxe5 20.Bxg6 fxg6 21.Qxg6+ Bg7 22.Qh7+ Kf7 23.Rh3 Qg5 24.O-O-O Rh8 25.Rf3+ Ke7 26.Qd3 Bd7 27.Rg3 Qf6 28.Kb1 Rh4 29.Rf3 Rf4 30.Rg3 Rc8 31.Rc1 Rxf2 32.Nb3 Bh8 33.Qh7+ Kd6 34.Nd4 Qf4 35.Rd3 Bxd4 36.Rxd4 Qf5+ 37.Qxf5 Rxf5 38.c4 b5 39.cxd5 Rxc1+ 40.Kxc1 exd5 41.Rd2 Rf1+ 42.Kb2 Bf5 43.Kc3 Kc5 44.a3 d4+ 45.Kb3 Be6+ 46.Kb2 Bc4 47.g4 Re1 48.g5 Re2 49.Rxe2 Bxe2 50.g6 Bc4 51.g7 Bg8 0-1

@@ -1,0 +1,14 @@
+[Event "Round 5: Gloeckler, Christian - Aronyak Ghosh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/VOQbftKK"]
+[Date "2026.07.17"]
+[Round "5.2"]
+[White "Gloeckler, Christian"]
+[Black "Aronyak Ghosh"]
+[Result "1/2-1/2"]
+[WhiteElo "2506"]
+[BlackElo "2549"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Be6 7.b3 Nd7 8.Bb2 Qa5 9.Qe3 Bf5 10.Bc3 Qb6 11.Nd4 Bg6 12.f4 O-O-O 13.f5 e5 14.Ne6 Qxe3+ 15.dxe3 fxe6 16.fxg6 hxg6 17.Bc4 Re8 18.Bd3 Rh6 19.h3 Be7 20.Be2 Bh4+ 21.Kd2 Bf6 22.e4 Bg5+ 23.Ke1 Bh4+ 24.Kf1 Bg3 1/2-1/2

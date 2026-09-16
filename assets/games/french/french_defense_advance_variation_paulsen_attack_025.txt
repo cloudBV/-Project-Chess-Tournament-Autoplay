@@ -1,0 +1,14 @@
+[Event "Round 7: Nevednichy, Vladislav - Korszanski, Stanislaw"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/ek8sN6jT"]
+[Date "2026.07.23"]
+[Round "7.13"]
+[White "Nevednichy, Vladislav"]
+[Black "Korszanski, Stanislaw"]
+[Result "1-0"]
+[WhiteElo "2441"]
+[BlackElo "2225"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 Bd7 7.Be2 cxd4 8.cxd4 Nf5 9.Nc2 Be7 10.O-O O-O 11.Bd3 b5 12.Kh1 g6 13.g4 Nh4 14.Nxh4 Bxh4 15.Bh6 Re8 16.f4 Be7 17.Qf3 Bf8 18.Bg5 Be7 19.Bh6 Bf8 20.Qh3 f5 21.Rg1 Kh8 22.gxf5 gxf5 23.Bxb5 Nxe5 24.dxe5 Bxb5 25.Bg5 Be7 26.Nd4 Bd7 27.Qh6 Bxg5 28.Rxg5 Qe7 29.Rag1 Rg8 30.Qf6+ Qxf6 31.exf6 Rxg5 32.Rxg5 Rf8 33.Rg7 Be8 34.Re7 Bh5 35.Rxe6 h6 36.Kg2 Kh7 37.Re7+ Kg6 38.Rxa7 Rxf6 39.b4 Rb6 40.b5 Rb8 41.a4 Rc8 42.b6 Rc4 43.b7 Rb4 44.Kf2 Rxd4 45.b8=Q Rd2+ 1-0

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "5.3"]
+[White "Martirosyan, David"]
+[Black "Mica, Marek"]
+[Result "0-1"]
+[WhiteElo "2153"]
+[BlackElo "2349"]
+[ECO "C03"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Morozevich Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Bd3 c5 5.dxc5 Nf6 6.Qe2 O-O 7.Ngf3 a5 8.O-O Na6 9.exd5 Qxd5 10.Ne4 Nxc5 11.Nxc5 Qxc5 12.Be3 Qh5 13.Rfd1 Bd7 14.c4 e5 15.Ng5 Qxe2 16.Bxe2 Bc6 17.Nf3 Nd7 18.h3 h6 19.Rac1 f5 20.Bd2 Bc5 21.Bc3 Rfe8 22.Rd2 Nf6 23.Bf1 Ne4 24.Rdc2 Nxc3 25.Rxc3 e4 26.Nd2 e3 27.Nb3 exf2+ 28.Kh1 Be3 29.R1c2 f4 30.Nd2 Rad8 31.Nf3 Bxf3 32.gxf3 Rd1 33.Kg2 Re6 0-1

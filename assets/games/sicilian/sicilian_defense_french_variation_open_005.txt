@@ -1,0 +1,15 @@
+[Event "Round 5: Domanskiy, Mykola - Borischik, Sergey"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/OWrUM7lT"]
+[Date "2026.07.18"]
+[Round "5.22"]
+[White "Domanskiy, Mykola"]
+[Black "Borischik, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2311"]
+[BlackElo "2202"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Open"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 Nf6 6.Nc3 d6 7.h3 a6 8.Bd2 Qc7 9.O-O-O b5 10.Kb1 Be7 11.g4 Bb7 12.g5 Nd7 13.Nd4 Rc8 14.Nxc6 Qxc6 15.Bd3 Ne5 16.f4 Nc4 17.Qg3 b4 18.Ne2 Qb6 19.Bc1 d5 20.e5 g6 21.h4 Bc5 22.b3 Na3+ 23.Bxa3 bxa3 24.h5 Rg8 25.hxg6 hxg6 26.Rh7 a5 27.Qh3 Ba6 28.Nc3 Bb4 29.Ne2 1/2-1/2

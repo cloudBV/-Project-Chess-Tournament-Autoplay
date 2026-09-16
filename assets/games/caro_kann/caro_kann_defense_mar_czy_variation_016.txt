@@ -1,0 +1,15 @@
+[Event "Round 2: Umarov, Bekhruz - Pektas, Yigit"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/om8YJzIG"]
+[Date "2026.07.14"]
+[Round "2.15"]
+[White "Umarov, Bekhruz"]
+[Black "Pektas, Yigit"]
+[Result "1/2-1/2"]
+[WhiteElo "2268"]
+[BlackElo "2105"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 Qb6 4.Nc3 e5 5.dxe5 dxe4 6.Bc4 Bc5 7.Nh3 Bxh3 8.gxh3 Nd7 9.Bxf7+ Kxf7 10.Qxd7+ Ne7 11.Nxe4 Rhf8 12.Qd3 Rad8 13.Qb3+ Nd5 14.Bg5 Rde8 15.O-O-O Rxe5 16.c4 Be3+ 17.Bxe3 Qxe3+ 18.Qxe3 Nxe3 19.Rd7+ Kg8 20.Rg1 g6 21.Rxb7 Rxf3 22.Ng5 Rf2 23.Nxh7 Nf1 24.Rxg6+ Kh8 25.Rd7 Re1+ 26.Rd1 Ree2 27.Nf6 Rc2+ 28.Kb1 Rxb2+ 29.Ka1 Rxa2+ 30.Kb1 Rfb2+ 1/2-1/2

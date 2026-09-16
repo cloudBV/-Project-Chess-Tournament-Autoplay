@@ -1,0 +1,15 @@
+[Event "Round 4: Yermolinsky, Alex - Karabulut, Etka"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/jCgfOrJc"]
+[Date "2026.07.01"]
+[Round "4.20"]
+[White "Yermolinsky, Alex"]
+[Black "Karabulut, Etka"]
+[Result "1-0"]
+[WhiteElo "2363"]
+[BlackElo "2088"]
+[ECO "E52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Schlechter Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 b6 7.O-O Bb7 8.cxd5 exd5 9.a3 Bd6 10.b4 a6 11.Qb3 Qe7 12.Rb1 Nbd7 13.a4 c6 14.a5 b5 15.Nd2 Qd8 16.e4 dxe4 17.Ndxe4 Be7 18.Bf4 Nxe4 19.Nxe4 Nf6 20.Nxf6+ Bxf6 21.Be5 Bxe5 22.dxe5 c5 23.Qc2 Qd5 24.f4 g6 25.Rfd1 Qd4+ 26.Qf2 Qxf2+ 27.Kxf2 cxb4 28.Rxb4 Rfd8 29.g4 Rac8 30.Be2 Rxd1 31.Bxd1 Rc3 32.Rd4 Ra3 33.f5 gxf5 34.gxf5 Rh3 35.f6 h5 36.Rd8+ Kh7 37.Rd7 Rxh2+ 38.Ke3 Bc6 39.Rxf7+ Kh6 40.Be2 Rh3+ 41.Kd4 Rh4+ 42.Kc5 Be4 43.Rf8 Bg6 44.e6 Kg5 45.e7 Rf4 46.Bd3 Rxf6 47.Bxg6 1-0

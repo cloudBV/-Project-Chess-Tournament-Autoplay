@@ -1,0 +1,15 @@
+[Event "Round 3: Lad Mandar Pradip - Tamames Soria, Cesar Manuel"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/IGfTHyWT"]
+[Date "2026.07.06"]
+[Round "3.15"]
+[White "Lad Mandar Pradip"]
+[Black "Tamames Soria, Cesar Manuel"]
+[Result "1-0"]
+[WhiteElo "2391"]
+[BlackElo "2240"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Qc2 Qc7 5.Bb5+ Nbd7 6.a4 g6 7.O-O Bg7 8.a5 O-O 9.d3 a6 10.Bxd7 Nxd7 11.Be3 b5 12.axb6 Nxb6 13.Nbd2 Bb7 14.Nb3 c4 15.Na5 cxd3 16.Qb3 Bxe4 17.Bxb6 Qd7 18.Nd2 Bf5 19.Be3 Rfb8 20.Qd5 Qe8 21.Nc6 Be6 22.Qf3 Rxb2 23.Nxe7+ Kf8 24.Nc6 d5 25.Nd4 Kg8 26.Bf4 a5 27.Qxd3 a4 28.Rfe1 a3 29.Be5 Bh6 30.N2b3 a2 31.Qf3 Bg5 32.c4 dxc4 33.Nc5 Rb6 34.Ndxe6 fxe6 35.Ne4 Be7 36.Nf6+ Bxf6 37.Qxf6 1-0

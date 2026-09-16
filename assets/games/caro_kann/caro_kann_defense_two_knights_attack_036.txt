@@ -1,0 +1,14 @@
+[Event "Round 4: Kuegel, Tobias - Wagner, Dennis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-4/qA33743b/uYC49Ypl"]
+[Date "2026.07.20"]
+[Round "4.2"]
+[White "Kuegel, Tobias"]
+[Black "Wagner, Dennis"]
+[Result "0-1"]
+[WhiteElo "2361"]
+[BlackElo "2589"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Bf5 6.Nxf6+ gxf6 7.d3 c5 8.g3 Nc6 9.Bg2 Qd7 10.O-O Bg4 11.Be3 Qf5 12.h3 Bxh3 13.Bxh3 Qxh3 14.Bxc5 O-O-O 15.Qe4 h5 16.Nh4 e6 17.Bxf8 Rhxf8 18.c3 f5 19.Qg2 Qxg2+ 20.Kxg2 Rxd3 21.Rfd1 Ne5 22.Rxd3 Nxd3 23.b3 f4 24.Nf3 fxg3 25.fxg3 e5 26.Rh1 Rg8 27.Nh4 Kd7 28.Rf1 Ke6 29.Rf5 f6 30.Rf1 b5 31.Ra1 f5 32.a4 b4 33.cxb4 f4 34.b5 Rxg3+ 35.Kh2 Nf2 36.a5 Ng4+ 37.Kh1 Nf2+ 38.Kh2 Ng4+ 39.Kh1 f3 40.b6 axb6 41.axb6 Rh3+ 42.Kg1 f2+ 43.Kg2 Rxb3 44.Nf3 f1=Q+ 0-1

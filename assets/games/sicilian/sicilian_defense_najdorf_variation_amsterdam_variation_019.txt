@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.12"]
+[Round "9.7"]
+[White "Mahir Taneja"]
+[Black "Reyan Md."]
+[Result "0-1"]
+[WhiteElo "2318"]
+[BlackElo "2161"]
+[ECO "B93"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.Bd3 Be7 9.O-O O-O 10.Kh1 b5 11.a3 Bb7 12.Qe1 Re8 13.fxe5 dxe5 14.Bg5 h6 15.Bxf6 Nxf6 16.Rd1 Qc7 17.Nh4 g6 18.Qf2 Rf8 19.Qf3 Rad8 20.Qe3 Nh5 21.Nf3 Kg7 22.g3 Nf6 23.Qe2 Bc8 24.Kg2 Be6 25.h3 Qc8 26.Rh1 Bxa3 27.Nxb5 Bxb2 28.Rb1 axb5 29.Rxb2 Bc4 30.Bxc4 bxc4 31.Rb4 c3 32.Rc4 Qa6 33.Re1 Rc8 34.Rxc8 Qxc8 35.Nxe5 Re8 36.Qc4 Qxc4 37.Nxc4 Nxe4 38.g4 f5 39.gxf5 gxf5 40.Ne3 Kf6 41.Nd5+ Ke5 42.Nxc3 Rc8 43.Nxe4 fxe4 44.Re2 Rc3 45.Rd2 h5 46.Rd8 h4 47.Rh8 Rxc2+ 48.Kf1 Kf4 49.Rxh4+ Kf3 50.Kg1 e3 51.Rh8 Rc1+ 52.Kh2 e2 0-1

@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.15"]
+[White "Kusiak, Mateusz"]
+[Black "Garcia Ramos, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2443"]
+[ECO "B22"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.dxc5 Qxc5 7.h3 Bh5 8.Na3 Nbd7 9.Be3 Qa5 10.g4 Bg6 11.g5 Ne4 12.Bb5 O-O-O 13.Qe2 e6 14.Bxd7+ Rxd7 15.Nc4 Qa6 16.Nfe5 Rc7 17.Bf4 Bf5 18.Ne3 Bc5 19.Qxa6 bxa6 20.N5g4 Rb7 21.f3 Bxe3 22.Bxe3 Nd6 23.Bf4 e5 24.Nxe5 Rxb2 25.Rd1 f6 26.Rh2 Rxh2 27.Bxh2 Nb5 28.gxf6 gxf6 29.Nf7 Re8+ 30.Kf2 Re7 31.Nd6+ Nxd6 32.Rxd6 Re6 33.h4 Rxd6 1/2-1/2

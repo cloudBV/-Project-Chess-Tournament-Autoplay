@@ -1,0 +1,14 @@
+[Event "Round 10: Mesa Baez, Samuel - Soto, Cristian Camilo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-10/EGR1f4HB/eGkxYnri"]
+[Date "2026.07.11"]
+[Round "10.10"]
+[White "Mesa Baez, Samuel"]
+[Black "Soto, Cristian Camilo"]
+[Result "0-1"]
+[WhiteElo "2062"]
+[BlackElo "2227"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5 9.Bf4 Be7 10.O-O O-O 11.Nb5 Bd7 12.c3 Bxb5 13.Bxb5 Bd6 14.Bxd6 Qxd6 15.Ba4 Rab8 16.Bb3 a5 17.Rb1 Qc5 18.Qd4 Qxd4 19.cxd4 Rb4 20.Rfd1 Rfb8 21.Rd2 Ne4 22.Rdd1 a4 23.Bc2 Rxb2 24.Rxb2 Rxb2 25.Bxa4 Rxa2 26.Bc6 Rxf2 27.Rb1 g6 28.h3 Rc2 29.Bd7 Rc7 30.Rb8+ Kg7 31.Be8 Nd6 32.Ba4 Nf5 33.Bd1 Nxd4 34.Kh2 h5 35.Rb4 Nf5 36.Bf3 h4 37.Bg4 Ng3 38.Bf3 g5 39.Rg4 Kf6 40.Rd4 Rc1 41.Bd1 Ke5 42.Rd2 Nf1+ 0-1

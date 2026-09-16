@@ -1,0 +1,14 @@
+[Event "Round 6: Frank, Anton - Morell, Oscar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-6/e3xDzbQr/Ifh56rBV"]
+[Date "2026.07.02"]
+[Round "6.4"]
+[White "Frank, Anton"]
+[Black "Morell, Oscar"]
+[Result "1-0"]
+[WhiteElo "2213"]
+[BlackElo "2171"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 g6 3.d4 cxd4 4.cxd4 d5 5.e5 Bg7 6.Nc3 Nc6 7.h3 Nh6 8.Nf3 O-O 9.Bf4 f6 10.Qd2 Nf7 11.exf6 exf6 12.Be2 Kh8 13.O-O Nd6 14.Qc2 Be6 15.Rfe1 Re8 16.Rad1 Ne4 17.Bf1 Bf5 18.Qb3 Nxc3 19.Rxe8+ Qxe8 20.bxc3 Qd7 21.Re1 Rc8 22.Nd2 Bf8 23.Qa4 a6 24.Re3 Qf7 25.g4 Bd7 26.Qd1 Na5 27.Qf3 b5 28.Be5 Kg7 29.Bg3 Ba3 30.Nb1 Bc1 31.Re1 Bh6 32.Bd6 Re8 33.Rxe8 Qxe8 34.Bb4 Nc4 35.Qxd5 Bc6 36.Qc5 Qe4 37.Qf8# 1-0

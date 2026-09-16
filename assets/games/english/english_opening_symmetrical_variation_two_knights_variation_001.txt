@@ -1,0 +1,14 @@
+[Event "Round 2: Karmanova, Olga Dm. - McPhillips, Joseph"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-2/bcUcpDrJ/Mr2GbwHw"]
+[Date "2026.07.14"]
+[Round "2.22"]
+[White "Karmanova, Olga Dm."]
+[Black "McPhillips, Joseph"]
+[Result "1/2-1/2"]
+[WhiteElo "2212"]
+[BlackElo "2382"]
+[ECO "A35"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Two Knights Variation"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 e5 4.e3 Nf6 5.d4 e4 6.d5 exf3 7.dxc6 dxc6 8.Qxd8+ Kxd8 9.gxf3 g6 10.b3 Bg7 11.Bb2 Bf5 12.Ne4 Bxe4 13.fxe4 Re8 14.e5 Ng8 15.f4 f6 16.Bh3 Re7 17.O-O-O+ Ke8 18.Rd6 fxe5 19.Re6 Rxe6 20.Bxe6 Ke7 21.Bh3 Nh6 22.Kd2 Nf7 23.Bg2 Rc8 24.Ke2 Bf6 25.fxe5 Bxe5 26.Ba3 Bd6 27.h4 Nh6 28.e4 Nf7 29.Bh3 Rd8 30.h5 b6 31.Bc1 Be5 32.Bg4 Rg8 33.hxg6 hxg6 34.Kf3 Rf8 35.Rh7 Rh8 36.Rxh8 Bxh8 37.Bf4 Be5 38.Be3 Bh2 39.Ke2 Kd6 40.Bd2 Ne5 41.Bh3 Nf7 42.a4 g5 43.Bf5 Bf4 44.Bc3 Be5 45.Bd2 Bf6 46.Kf3 Ne5+ 47.Ke2 Ke7 48.Be1 Nf7 49.Bd2 Ne5 50.Be1 Nf7 51.Bd2 Ne5 52.Be1 1/2-1/2

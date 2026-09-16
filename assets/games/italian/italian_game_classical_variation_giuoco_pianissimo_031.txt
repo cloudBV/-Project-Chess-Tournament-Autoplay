@@ -1,0 +1,14 @@
+[Event "Round 4: Draskovic, Luka - Stopa, Jacek"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/VyMOpjSS"]
+[Date "2026.07.06"]
+[Round "4.7"]
+[White "Draskovic, Luka"]
+[Black "Stopa, Jacek"]
+[Result "1/2-1/2"]
+[WhiteElo "2491"]
+[BlackElo "2360"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a5 6.Bb5 d6 7.O-O O-O 8.h3 h6 9.Re1 Ba7 10.Nbd2 Ne7 11.d4 Ng6 12.Nf1 c6 13.Bd3 Re8 14.Ng3 Qc7 15.Be3 c5 16.dxe5 dxe5 17.Bc4 Be6 18.Qa4 Nf4 19.Bxe6 Rxe6 20.c4 Rd8 21.Red1 b6 22.Rxd8+ Qxd8 23.Rd1 Rd6 24.Rxd6 Qxd6 25.Bxf4 exf4 26.Ne2 g5 27.e5 Qd7 28.Qc2 Ne8 29.Nc3 Bb8 30.Qe4 Qe6 31.Nd5 Bc7 32.Kh2 Kg7 33.g3 fxg3+ 34.fxg3 Qg6 35.Qe2 Bd8 36.g4 Kf8 37.Kg2 Ng7 38.Ne3 Bc7 39.Nd5 Ne6 40.Qd2 Bd8 41.b3 1/2-1/2

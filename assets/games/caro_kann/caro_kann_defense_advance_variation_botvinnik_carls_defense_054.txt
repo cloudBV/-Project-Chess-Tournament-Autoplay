@@ -1,0 +1,14 @@
+[Event "Round 6: Daulyte-Cornette, Deimante - Shahil Dey"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-6/t37VJEdE/WXNnF4P5"]
+[Date "2026.07.05"]
+[Round "6.1"]
+[White "Daulyte-Cornette, Deimante"]
+[Black "Shahil Dey"]
+[Result "0-1"]
+[WhiteElo "2394"]
+[BlackElo "2413"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.Nf3 cxd4 5.Qxd4 Nc6 6.Qf4 g6 7.Nc3 d4 8.Nb5 Bh6 9.Qh4 Bxc1 10.Rxc1 a6 11.Nbxd4 Nxe5 12.Be2 Nxf3+ 13.Nxf3 Qa5+ 14.b4 Qxa2 15.Bc4 Qb2 16.O-O Qf6 17.Qe4 Nh6 18.Rfe1 Nf5 19.Bd5 O-O 20.Rcd1 a5 21.bxa5 Rxa5 22.h3 b6 23.Ne5 Rc5 24.Ng4 Qg5 25.Qb4 h5 26.Ne5 Rxd5 27.Nf3 Qf6 28.Rxd5 Bb7 29.Rd3 Rc8 30.Qf4 Kg7 31.Rd2 Rc3 32.Nd4 Rc5 33.Nf3 b5 34.Re5 Rc4 35.Qg5 Bxf3 36.Qxf6+ Kxf6 37.Rxb5 Bc6 38.Rb6 e6 39.Kf1 Be4 40.Rb2 Rc3 41.Re2 Bd5 42.Rd2 Ra3 43.Rb1 g5 44.Rc1 Rc3 45.Kg1 Nh4 46.Rd4 Ke5 47.Rb4 Nxg2 48.Kf1 Rxh3 49.Ke2 Nf4+ 50.Kd2 Rf3 51.Re1+ Kd6 52.c4 Nd3 0-1

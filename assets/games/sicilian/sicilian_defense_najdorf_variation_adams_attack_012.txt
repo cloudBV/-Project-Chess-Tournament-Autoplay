@@ -1,0 +1,14 @@
+[Event "Round 3: Schell, Finn - Rudd, Jack"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-3/AvsFowvJ/RgxRz0IS"]
+[Date "2026.07.08"]
+[Round "3.7"]
+[White "Schell, Finn"]
+[Black "Rudd, Jack"]
+[Result "1-0"]
+[WhiteElo "2006"]
+[BlackElo "2253"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 g6 7.Be3 Bg7 8.Qd2 b5 9.a4 bxa4 10.Rxa4 O-O 11.f3 Bb7 12.Bd3 Nbd7 13.Nb3 Ne5 14.Be2 Nc6 15.O-O Qc8 16.Rfa1 Rd8 17.Nd5 Nxd5 18.exd5 Nb8 19.Na5 Rd7 20.Nc4 Rc7 21.Nb6 Qf5 22.Bd3 Qe5 23.Nxa8 Bxa8 24.Bb6 Rb7 25.Bd4 Qxd4+ 26.Rxd4 Bxd4+ 27.Kf1 Bf6 28.Ra2 Bxb2 29.c3 1-0

@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "7.4"]
+[White "Lechowski, Witold"]
+[Black "Smolinski, Wojciech"]
+[Result "0-1"]
+[WhiteElo "2162"]
+[BlackElo "2057"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 a5 9.Rd1 Nbd7 10.b3 b6 11.Bc3 Bb7 12.Nbd2 Qc7 13.e4 dxe4 14.Nxe4 c5 15.Nxf6+ Nxf6 16.dxc5 Bxc5 17.Be5 Qc6 18.Bd4 Rad8 19.Qb2 Be7 20.Ne1 Qc7 21.Be5 Qc8 22.Nf3 Qa8 23.Nh4 Bxg2 24.Nxg2 Qf3 25.Ne3 Bc5 26.Bd4 Ne4 27.Bxc5 bxc5 28.Qc2 Ng5 29.Rxd8 Rxd8 30.Rd1 Rd4 31.Rxd4 cxd4 32.Qd1 Nh3+ 0-1

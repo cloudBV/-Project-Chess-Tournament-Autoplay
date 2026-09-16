@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.34"]
+[White "Escartin Lacasa, Jose"]
+[Black "Lorente Melcon, Hector"]
+[Result "1-0"]
+[WhiteElo "2268"]
+[BlackElo "2094"]
+[ECO "A14"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Nc6 9.d4 cxd4 10.Nxd4 Nxd4 11.Qxd4 Bf6 12.Qd2 Bxb2 13.Qxb2 Qe7 14.Rd1 Nf6 15.Qa3 Re8 16.Qxe7 Rxe7 17.Na3 Rb8 18.Rac1 b6 19.Rc7 Kf8 20.Rd8+ Re8 21.Rxe8+ Nxe8 22.Rxa7 Nd6 23.f4 Bb7 24.Bxb7 Rxb7 25.Rxb7 Nxb7 26.Kf2 Ke7 27.Ke3 Kd6 28.Kd4 f6 29.b4 Nd8 30.Nb5+ Kc6 31.a4 Nf7 32.Ke4 Kd7 33.a5 f5+ 34.Kd4 Kc6 35.a6 Nd8 36.Kc4 h6 37.Nd6 1-0

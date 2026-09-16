@@ -1,0 +1,15 @@
+[Event "Round 9: Mazhkenov, Alisher - Uzdemir, Ali Poyraz"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-9/4uKl0XLT/rbRgynVl"]
+[Date "2026.07.11"]
+[Round "9.16"]
+[White "Mazhkenov, Alisher"]
+[Black "Uzdemir, Ali Poyraz"]
+[Result "1/2-1/2"]
+[WhiteElo "2078"]
+[BlackElo "2265"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 e6 5.Nf3 d6 6.d4 cxd4 7.cxd4 Be7 8.O-O O-O 9.Qe2 b6 10.Rd1 Bb7 11.Bxd5 Bxd5 12.Nc3 Qd7 13.Nxd5 exd5 14.Bg5 Nc6 15.Rac1 Rac8 16.Bxe7 Nxe7 17.h3 1/2-1/2

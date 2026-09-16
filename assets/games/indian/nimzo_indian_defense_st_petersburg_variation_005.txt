@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.07.05"]
+[Round "8.3"]
+[White "Mulet, Piotr"]
+[Black "MOJZIS, Jaroslav"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2031"]
+[ECO "E44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Bb7 6.a3 Bxc3+ 7.Nxc3 O-O 8.Bd3 d6 9.O-O Nbd7 10.f4 d5 11.b3 c5 12.Bb2 cxd4 13.exd4 dxc4 14.bxc4 Qc7 15.Qe2 Rac8 16.a4 Rfd8 17.Rad1 a6 18.f5 e5 19.Nd5 Nxd5 20.cxd5 e4 21.Bxa6 Nf6 22.d6 Rxd6 23.Bxb7 Qxb7 24.d5 Rxd5 25.Bxf6 Rxd1 26.Rxd1 gxf6 27.h3 Qc6 28.Qg4+ Kh8 29.Re1 Re8 30.Qh5 Qd5 31.Kh1 e3 32.Qh6 Qe5 33.Kg1 e2 34.Qd2 Qc5+ 35.Kh2 Qf2 36.a5 bxa5 37.Qxa5 Rg8 38.Rg1 e1=Q 39.Qxe1 Rxg2+ 40.Rxg2 Qxe1 41.Rg4 Qf2+ 42.Rg2 Qxf5 43.Rg4 Qf2+ 44.Rg2 Qf4+ 45.Kh1 f5 46.Rg1 Qh4 47.Kh2 f4 48.Rg4 Qf2+ 49.Rg2 Qe3 50.h4 f3 51.Rg3 Qf4 52.h5 f2 53.h6 f1=N+ 54.Kh1 Nxg3+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 1.2: Otten, Colleen - Duson, Robin"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-12/NrYa0Lra/uHA0EAps"]
+[Date "2026.06.09"]
+[Round "2.1"]
+[White "Otten, Colleen"]
+[Black "Duson, Robin"]
+[Result "1/2-1/2"]
+[WhiteElo "2038"]
+[BlackElo "2197"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Korchnoi Defense"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.exd5 exd5 5.d4 Nf6 6.Bg5 Be7 7.Bg2 cxd4 8.Qxd4 Nc6 9.Qa4 O-O 10.O-O-O Qb6 11.Nge2 Be6 12.Be3 Bc5 13.Bxc5 Qxc5 14.Nd4 a6 15.Nce2 Bg4 16.f3 Bd7 17.Qb3 Na5 18.Qd3 Rfe8 19.Rhe1 Nc4 20.Nc3 a5 21.Nb3 Qb6 22.Nxd5 Nxd5 23.Qxd5 Ne3 24.Qxd7 Red8 25.Qxd8+ Rxd8 26.Rxd8+ Qxd8 27.Rxe3 f5 28.Bf1 Qb6 29.Bc4+ Kf8 30.Re1 a4 31.Nd2 Qf2 32.Rd1 Qxh2 33.g4 g6 34.Bd5 b5 35.a3 h5 36.gxf5 gxf5 37.Rf1 Qe5 38.c4 bxc4 39.Bxc4 Qf4 40.Rh1 h4 41.Bd3 Kg7 42.Bxf5 Qxf5 43.Rxh4 Qb5 44.Rb4 Qc6+ 45.Rc4 Qb5 46.f4 Kf7 47.Rb4 Qc6+ 48.Kb1 Qd5 49.Kc2 Qc6+ 50.Rc4 Qb5 51.Kc3 Ke7 52.Rb4 Qc6+ 53.Nc4 Qf3+ 54.Kd4 Qxf4+ 55.Kc5 Qc7+ 56.Kb5 Qd7+ 57.Ka6 Qc8+ 58.Rb7+ Ke6 59.Nb6 Qc2 60.Na8 Qc4+ 61.Ka7 Qd4+ 62.Ka6 Qc4+ 63.Rb5 Qc8+ 64.Ka7 Qd7+ 65.Rb7 Qd4+ 66.Rb6+ Kd7 67.Kb7 Qd5+ 68.Kb8 Qe5+ 69.Ka7 Qc5 70.Kb8 1/2-1/2

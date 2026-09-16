@@ -1,0 +1,14 @@
+[Event "Round 2: Ashwath Kaushik - Ganguly, Surya Shekhar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-2/Ps70rBcu/P5LIEMkB"]
+[Date "2026.07.02"]
+[Round "2.1"]
+[White "Ashwath Kaushik"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2578"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qb3 a5 9.Nc3 c6 10.a4 h6 11.Bf4 Nh5 12.Bd2 Nhf6 13.Bf4 Nh5 14.Bd2 Bb4 15.Nb1 Bd6 16.Nc3 Nhf6 17.Bf4 Bxf4 18.gxf4 Ne8 19.e3 Nd6 20.c5 Nf5 21.Kh1 b6 22.cxb6 Rb8 23.Qc2 Qxb6 24.Rab1 Qb3 25.Qxb3 Rb7 26.Qb4 Rxb4 27.Nd2 Rb6 28.Rfc1 Ba6 29.Bf1 Bxf1 30.Nxf1 Rfb8 31.Rc2 f6 32.Nd2 e5 33.fxe5 fxe5 34.Nf3 exd4 35.Nxd4 Nxd4 36.exd4 Kf7 37.Ne2 g5 38.Ng3 Nf8 39.Rbc1 Ne6 40.Rxc6 Rxc6 41.Rxc6 Rxb2 42.Kg2 Rb3 43.Kf1 Nf4 44.Ke1 h5 45.Rc7+ Ke6 46.Rc6+ Kd7 47.Rh6 h4 48.Nh5 Rb1+ 49.Kd2 Rb2+ 50.Ke1 Nd3+ 51.Kf1 Rxf2+ 52.Kg1 Ke7 53.Rg6 Ra2 54.Rxg5 h3 55.Kf1 Rxh2 56.Rxd5 Rh1+ 57.Ke2 h2 58.Ng3 Rg1 59.Kd2 Rg2+ 0-1

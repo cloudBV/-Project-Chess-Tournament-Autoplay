@@ -1,0 +1,15 @@
+[Event "Round 6: Berikkyzy, Alanna - Suleymanli, Suleyman"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/pf4A9nA4"]
+[Date "2026.07.02"]
+[Round "6.20"]
+[White "Berikkyzy, Alanna"]
+[Black "Suleymanli, Suleyman"]
+[Result "0-1"]
+[WhiteElo "2182"]
+[BlackElo "2414"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Nc6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 a6 10.h5 g6 11.Nbd2 gxh5 12.c4 Nb4 13.Bb1 d3 14.a3 Nc2 15.Bxc2 dxc2 16.Qxc2 Rc8 17.Qd3 Bg7 18.b3 O-O 19.Bb2 Ng6 20.Bd4 Qd8 21.a4 Nf4 22.Qc3 Kh8 23.Be3 Ng6 24.Bd4 Rg8 25.Qe3 Nh4 26.Bb6 Nf5 27.Bxd8 Nxe3 28.Rxe3 Rgxd8 29.Ng5 Be8 30.f4 h6 31.Ngf3 Bf8 32.Kh2 dxc4 33.Nxc4 b5 34.axb5 Bxb5 35.Nd6 Bxd6 36.exd6 Rxd6 37.Ne5 Kg7 38.Rg3+ Kf8 39.Rh3 f6 40.Nf3 Rd5 41.Re1 Kf7 42.f5 Rxf5 43.Nd4 Rd5 44.Rh4 Bd7 45.Ra1 e5 46.Nf3 Bg4 47.Rxa6 e4 48.Ng1 e3 49.Ra7+ Kf8 50.Kg3 Rc1 51.Ra8+ Ke7 52.Nf3 e2 53.Ra7+ Rd7 54.Rxd7+ Kxd7 55.Kf2 Bxf3 0-1

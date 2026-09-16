@@ -1,0 +1,15 @@
+[Event "Round 7: Attalib, Osama A. - Gunebakan, Yunus Emre"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/4ybWvJpK"]
+[Date "2026.07.03"]
+[Round "7.41"]
+[White "Attalib, Osama A."]
+[Black "Gunebakan, Yunus Emre"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2308"]
+[ECO "E92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 exd4 8.Nxd4 Re8 9.Qc2 c6 10.O-O Qe7 11.Rad1 Nxe4 12.Nxe4 Qxe4 13.Qxe4 Rxe4 14.Bf3 Re8 15.b3 Be5 16.h3 a5 17.Rfe1 Bd7 18.Nb5 d5 19.Bd4 Bf4 20.Rxe8+ Bxe8 21.g3 cxb5 22.gxf4 Nc6 23.cxb5 Nxd4 24.Rxd4 Bxb5 25.Bxd5 Rb8 26.f5 gxf5 27.Kh2 Kg7 28.Bf3 Bc6 29.Bxc6 bxc6 30.Rc4 Rd8 31.Kg2 Rd2 32.Ra4 Rd5 33.Rc4 h5 34.Rxc6 f6 35.Rc8 Kh6 36.Rb8 f4 37.a4 Rd3 38.Rb5 Kg6 39.Rb8 h4 40.Rb5 f3+ 41.Kh2 Rd2 42.Rxa5 Rxf2+ 43.Kg1 Ra2 44.Rc5 f5 45.a5 Kg5 46.Rc4 Rxa5 47.Kf2 Ra2+ 48.Kxf3 Rh2 49.b4 Rxh3+ 50.Kg2 Rg3+ 51.Kh2 Rb3 52.Rd4 f4 53.Rd8 Kg4 54.Rg8+ Kf3 55.Kh3 Rxb4 56.Kxh4 Rb1 0-1

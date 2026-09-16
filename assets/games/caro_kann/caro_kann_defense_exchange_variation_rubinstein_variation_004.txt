@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.17"]
+[White "Meszaros-Csonka, David"]
+[Black "Dobai, Szabolcs"]
+[Result "1-0"]
+[WhiteElo "2180"]
+[BlackElo "2067"]
+[ECO "B13"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3 e5 8.h3 exf4 9.hxg4 Qe7+ 10.Kf1 O-O-O 11.Nd2 g5 12.Ndf3 h5 13.Qc2 Kb8 14.Nxg5 Rg8 15.Re1 Qc7 16.Nh7 Nxg4 17.Nf3 Bd6 18.Rxh5 f6 19.Bf5 Qg7 20.Be6 Rh8 21.Bxg4 Qxg4 22.Nxf6 Qg7 23.Rxh8 Rxh8 24.Re8+ 1-0

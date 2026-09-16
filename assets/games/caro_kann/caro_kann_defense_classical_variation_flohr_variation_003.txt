@@ -1,0 +1,15 @@
+[Event "Round 4: Prokhorov, Aleksey - Dinh Nho Kiet"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-4/P2eNT3v3/laTA13Gq"]
+[Date "2026.07.19"]
+[Round "4.10"]
+[White "Prokhorov, Aleksey"]
+[Black "Dinh Nho Kiet"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2330"]
+[ECO "B18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Flohr Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3 Nf6 7.Bc4 e6 8.Nf4 Bd6 9.c3 Qc7 10.Qf3 Nbd7 11.h4 1/2-1/2

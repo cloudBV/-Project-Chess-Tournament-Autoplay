@@ -1,0 +1,15 @@
+[Event "Round 6: Fedosov, Alexander - Akhilbay, Imangali"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-6/xvzVryfj/AlIaG8oz"]
+[Date "2026.07.15"]
+[Round "6.1"]
+[White "Fedosov, Alexander"]
+[Black "Akhilbay, Imangali"]
+[Result "1/2-1/2"]
+[WhiteElo "2306"]
+[BlackElo "2357"]
+[ECO "E94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6 8.Be3 Qe7 9.Nd5 Nxd5 10.cxd5 exd4 11.Bxd4 Qxe4 12.Bxg7 Kxg7 13.Rc1 Nc5 14.Rc4 Qe7 15.b4 Ne4 16.Qa1+ Kg8 17.Rfc1 Bg4 18.Rxc7 Qf6 19.h3 Bxf3 20.Bxf3 Qxa1 21.Rxa1 Nd2 22.Rac1 b5 1/2-1/2

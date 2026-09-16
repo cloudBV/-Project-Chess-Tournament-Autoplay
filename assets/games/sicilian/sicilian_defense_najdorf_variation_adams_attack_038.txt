@@ -1,0 +1,15 @@
+[Event "Round 1: Amin-Erdene, Bayanmunkh - Allahverdiyeva, Ayan"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/YszRaiom"]
+[Date "2026.07.24"]
+[Round "1.7"]
+[White "Amin-Erdene, Bayanmunkh"]
+[Black "Allahverdiyeva, Ayan"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2254"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be7 8.g4 h6 9.Be3 b5 10.Nd5 Bb7 11.Bg2 O-O 12.O-O Nbd7 13.a4 Nxd5 14.exd5 Nf6 15.axb5 axb5 16.Qd3 Qc7 17.Qxb5 Rfb8 18.Bb6 Qxc2 19.Ba7 Ba6 20.Qxa6 Rxb3 21.Qc6 Rc8 22.Rfc1 Rxc6 23.dxc6 Qxb2 24.Bd4 exd4 25.c7 Rc3 26.Ra8+ Kh7 27.Rxc3 dxc3 28.c8=Q c2 29.Be4+ Nxe4 30.Qf5+ g6 31.Qxf7+ Qg7 32.Qc4 Nc3 33.Ra1 Ne2+ 34.Qxe2 Qxa1+ 0-1

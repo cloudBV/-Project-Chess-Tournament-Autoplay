@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.8"]
+[White "Craciun, Sasha-Matei"]
+[Black "Ugorek, Kacper"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2229"]
+[ECO "B38"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.c4 Nc6 6.Be3 Nf6 7.Nc3 O-O 8.Be2 d6 9.Qd2 Nxd4 10.Bxd4 Bd7 11.O-O-O Bc6 12.f3 a5 13.h4 a4 14.a3 Qa5 15.Kb1 h6 16.g4 Nd7 17.Bxg7 Kxg7 18.f4 Nc5 19.Qd4+ e5 20.fxe5 dxe5 21.Qxe5+ f6 22.Qf4 Rae8 23.Bf3 Ne6 24.Qd6 Qe5 25.Rhe1 Nc5 26.Nb5 Nxe4 27.Bxe4 Bxe4+ 28.Ka1 f5 29.gxf5 Qxf5 30.Qd4+ Kh7 31.Nd6 Qe5 32.Qxe5 Rxe5 33.Rxe4 Rxe4 34.Nxe4 Rf4 35.Rd7+ Kg8 36.Nd6 Rxh4 37.Rxb7 Rh1+ 38.Ka2 h5 39.c5 Rc1 40.Ne4 Rc4 41.Nf6+ Kf8 42.Rh7 h4 43.Nd7+ Kg8 44.Nf6+ Kf8 45.Kb1 g5 46.Rh5 Kf7 47.Nd7 Ke6 48.Nf8+ Kf7 49.Rxg5 Kxf8 50.Rh5 Ke7 51.b3 axb3 52.Kb2 Kd7 53.Kxb3 Rg4 54.Rh6 Kc7 55.a4 Kb7 56.a5 Rf4 57.Kc3 Rg4 58.Kb3 Rf4 59.Kc3 Ra4 60.a6+ Rxa6 61.Rxh4 Ra1 62.Kc4 Rc1+ 63.Kd5 Rd1+ 64.Ke5 Kc6 65.Ke4 1/2-1/2

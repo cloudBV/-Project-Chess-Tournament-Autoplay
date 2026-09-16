@@ -1,0 +1,15 @@
+[Event "Round 2: Shegunts, Vachagan - Kopylov, Alexander A."]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/rmGxwUfX"]
+[Date "2026.07.14"]
+[Round "2.6"]
+[White "Shegunts, Vachagan"]
+[Black "Kopylov, Alexander A."]
+[Result "0-1"]
+[WhiteElo "2025"]
+[BlackElo "2376"]
+[ECO "A54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Ukrainian Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Nf3 Nfd7 7.a3 f6 8.e4 a5 9.Be2 c6 10.O-O Kc7 11.b3 Na6 12.Rb1 Nb6 13.Ne1 Be6 14.Nc2 a4 15.b4 Nxc4 16.Ne3 Nd6 17.Nxa4 Nxe4 18.f3 Nb8 19.fxe4 Rxa4 20.Bc4 Bxc4 21.Nxc4 Bc5+ 22.Kh1 Bd4 23.Rb3 Re8 24.Nd2 Nd7 25.Rg3 Re7 26.Nf3 c5 27.Nh4 g6 28.Rgf3 Re6 29.g4 cxb4 30.axb4 Rxb4 31.g5 Rb1 32.gxf6 Rxf6 33.Rxf6 Nxf6 34.Rxf6 Rxc1+ 35.Kg2 b5 36.Rf7+ Kb6 37.Nf3 b4 38.Nxd4 exd4 39.Rd7 b3 40.Rxd4 Kc5 0-1

@@ -1,0 +1,15 @@
+[Event "Round 9: Dushyant Sharma - Titus, Andrew"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-9/vc3YTZEd/GKeo8DqP"]
+[Date "2026.07.02"]
+[Round "9.1"]
+[White "Dushyant Sharma"]
+[Black "Titus, Andrew"]
+[Result "1/2-1/2"]
+[WhiteElo "2353"]
+[BlackElo "2239"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.Nc3 Bb4 6.O-O Bxc3 7.bxc3 O-O 8.d4 Nxe4 9.dxe5 d5 10.Qxd5 Qxd5 11.Bxd5 Nxc3 12.Bxc6 bxc6 13.Re1 Rd8 14.Bd2 Nb5 15.Re4 Be6 16.Ba5 Bd5 17.Re3 Bxf3 18.Rxf3 Nd4 19.Rd3 Ne6 20.Rad1 Rxd3 21.Rxd3 Rb8 22.Rb3 Rd8 23.g3 Rd5 24.Bc3 g5 25.Kf1 Kh7 26.Ke2 Kg6 27.Ra3 Rc5 28.Kd3 Rd5+ 29.Ke4 Rc5 30.f3 a6 31.Kd3 Rd5+ 32.Ke3 Rc5 33.Ke4 Rd5 34.Ra5 Nc5+ 35.Ke3 Kf5 36.g4+ Ke6 37.Bd4 Nd7 38.Ra4 Nxe5 39.c4 Ra5 40.Rxa5 Nxc4+ 41.Kd3 Nxa5 42.Bg7 f6 43.Bxh6 Ke5 44.Ke3 Nc4+ 45.Kd3 Nb6 46.Bf8 Kd5 47.Be7 Nd7 48.Bd8 Kd6 49.Ke4 c5 50.f4 gxf4 51.g5 fxg5 52.Bxg5 Ke6 53.Bxf4 c6 54.Bg5 Kf7 55.Kf5 c4 56.h4 Nc5 57.Ke5 c3 58.Kd4 Ne6+ 59.Kxc3 Nxg5 60.hxg5 Kg6 61.Kc4 Kxg5 62.Kc5 Kf6 63.Kxc6 a5 64.Kb5 Ke7 65.Kxa5 Kd8 66.Kb6 Kc8 67.a4 Kb8 68.a5 Ka8 69.a6 Kb8 70.a7+ Ka8 71.Ka6 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.11"]
+[White "Zareba, Piotr"]
+[Black "Nawalaniec, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2247"]
+[BlackElo "2072"]
+[ECO "B90"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.h3 h6 9.g4 b5 10.Qd2 Bb7 11.Bg2 Nbd7 12.Nd5 Nxd5 13.exd5 a5 14.a4 b4 15.O-O O-O 16.f4 Nb6 17.fxe5 Nc4 18.Qc1 dxe5 19.Rd1 Rc8 20.d6 Bg5 21.Bxg5 hxg5 22.Bxb7 Qb6+ 23.Kh2 Qxb7 24.Qxg5 Qe4 25.d7 Rcd8 26.Rac1 Ne3 27.Rd2 Rxd7 28.Rf2 f6 29.Qh4 g5 30.Qg3 Rh7 31.Rg1 Nxc2 32.Nc5 Qc4 33.Rc1 Qxc5 34.Rcxc2 Qd4 35.Rcd2 Qe4 36.Rd6 Rc7 37.Rdxf6 Rxf6 38.Rxf6 Kg7 39.Rf2 Rc1 40.Qg2 Re1 41.Qxe4 Rxe4 42.Rc2 b3 43.Rc7+ Kf6 44.Rc6+ Kf7 45.Rc5 Re2+ 46.Kg3 Ke6 47.Rxa5 Rxb2 48.Rb5 Rb1 49.h4 b2 50.Kg2 gxh4 51.a5 e4 52.a6 h3+ 53.Kh2 Ra1 54.Rxb2 Rxa6 55.Kxh3 Ke5 56.Kh4 e3 57.Kh5 Kf4 58.g5 Ra1 59.Rb4+ Kf5 60.Rb5+ Kf4 61.Rb4+ Kf3 62.Rb8 e2 63.Rb3+ Kf4 64.Rb4+ Kf5 65.Rb5+ Ke6 66.Rb6+ Kd5 67.Rb5+ Kd4 68.Rb4+ Kd3 69.Rb3+ Ke4 70.Rb4+ Kf3 71.Rb3+ Kf2 72.Rb2 Ke3 73.Rxe2+ Kxe2 74.g6 Rg1 75.Kh6 Kf3 76.g7 Kf4 77.Kh7 Rh1+ 78.Kg6 Ke5 79.Kf7 Rf1+ 80.Ke7 Rg1 1/2-1/2

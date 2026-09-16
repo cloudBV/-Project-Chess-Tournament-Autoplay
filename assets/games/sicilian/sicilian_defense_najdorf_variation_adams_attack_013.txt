@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "9.2"]
+[White "Kawka, Milena"]
+[Black "Obukhava, Anastasiya"]
+[Result "1-0"]
+[WhiteElo "2032"]
+[BlackElo "2063"]
+[ECO "B90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 h6 8.g4 Be7 9.Be3 Be6 10.g5 hxg5 11.Nxg5 Qc8 12.Rg1 Bd7 13.a4 g6 14.a5 Nc6 15.Na4 Nb4 16.c3 Bxa4 17.Qxa4+ Nc6 18.Bc4 O-O 19.Qb3 Nd8 20.Nxf7 Nxf7 21.Rxg6+ Kh7 22.Bxf7 d5 23.Rh6+ Kg7 24.exd5 Rxf7 25.O-O-O Ng8 26.Rg1+ Kf8 27.Rh8 Ke8 28.Rgxg8+ Rf8 29.Rxf8+ Bxf8 30.Bh6 Qxh3 31.Rxf8+ Ke7 32.Qxb7+ Kd6 33.Rf6+ Kc5 34.Qc6# 1-0

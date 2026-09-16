@@ -1,0 +1,15 @@
+[Event "Round 9: Christiansen, Johan-Sebastian - McCusker, Andrew"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-9/ySsvfQW3/xOnzCxOR"]
+[Date "2026.07.08"]
+[Round "9.1"]
+[White "Christiansen, Johan-Sebastian"]
+[Black "McCusker, Andrew"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2042"]
+[ECO "B18"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.N1e2 Nf6 8.Nf4 Bh7 9.Bc4 e6 10.O-O Nd5 11.Re1 Nxf4 12.Bxf4 Qxh4 13.Qf3 Be7 14.Nh5 O-O 15.g3 Qh3 16.Be5 Qf5 17.Qxf5 Bxf5 18.Bxg7 Rd8 19.c3 Bg6 20.Bf6 Bxf6 21.Nxf6+ Kg7 22.Ng4 Nd7 23.Bb3 Rac8 24.Kg2 Bf5 25.Ne3 Bg6 26.Rad1 Nf6 27.f3 h5 28.Kf2 Kf8 29.Ng2 Ke7 30.Nf4 Bf5 31.Rh1 Rh8 32.Rh4 Rh7 33.Re1 Kd6 34.Ng2 Rg7 35.Rf4 Nd5 36.Bxd5 cxd5 37.Rxf5 exf5 38.Nh4 Kd7 39.Nxf5 Rg5 40.Re7+ Kc6 41.Rxf7 Re8 42.f4 Rg4 43.Rh7 Re6 44.Rxh5 Rg8 45.Ne3 Rge8 46.Re5 Rxe5 47.dxe5 d4 48.cxd4 1-0

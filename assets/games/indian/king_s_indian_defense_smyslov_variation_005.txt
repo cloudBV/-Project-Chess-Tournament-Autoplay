@@ -1,0 +1,14 @@
+[Event "Round 3: Priyanka Nutakki - Kalogridis, Antonios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/G9ENVS3s"]
+[Date "2026.07.15"]
+[Round "3.12"]
+[White "Priyanka Nutakki"]
+[Black "Kalogridis, Antonios"]
+[Result "0-1"]
+[WhiteElo "2255"]
+[BlackElo "2399"]
+[ECO "E61"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.Bg5 Bf5 6.e3 Ne4 7.Nxe4 Bxe4 8.Bd3 Bxd3 9.Qxd3 O-O 10.O-O Nd7 11.Rfd1 Re8 12.c5 dxc5 13.dxc5 Nf8 14.Qa3 Qc8 15.Rac1 c6 16.h3 Ne6 17.Bh4 b5 18.cxb6 axb6 19.Qb3 b5 20.a3 Qb7 21.Bg3 c5 22.Be5 Bf8 23.h4 Ra4 24.Qd5 Qxd5 25.Rxd5 f6 26.Bg3 h5 27.Ne1 Rc8 28.b4 Rxa3 29.bxc5 b4 30.c6 Rc3 31.Rxc3 bxc3 32.c7 f5 33.Rb5 f4 34.exf4 Rxc7 35.f5 Nd4 36.Bxc7 Nxb5 37.Be5 gxf5 38.Kf1 Bg7 39.Bxg7 Kxg7 40.Ke2 Kf6 41.Kd3 Ke5 42.Kc4 Nd6+ 43.Kxc3 Ne4+ 44.Kd3 Nxf2+ 45.Ke2 Ng4 46.Nd3+ Ke4 47.g3 Nf6 48.Nc5+ Kd5 49.Nd3 e5 50.Ke3 Ng4+ 51.Ke2 Kd4 52.Nb4 Nf6 53.Nc6+ Ke4 54.Ne7 f4 55.gxf4 exf4 56.Kf2 Ng4+ 57.Kg2 f3+ 58.Kg3 Ne5 59.Ng8 Ke3 60.Ne7 f2 61.Nf5+ Ke2 62.Nd4+ Kd3 63.Kxf2 Kxd4 64.Kg3 Ke3 65.Kh3 Kf3 66.Kh2 Kg4 67.Kg2 Kxh4 68.Kh2 Kg4 69.Kg2 h4 70.Kh2 h3 71.Kh1 Kg3 72.Kg1 Ng4 0-1

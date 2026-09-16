@@ -1,0 +1,15 @@
+[Event "Round 9: Aguero Jimenez, Luis Lazaro - Christiansen, Johan-Sebastian"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-9/zGvTvuUZ/vpKxMrdF"]
+[Date "2026.07.11"]
+[Round "9.1"]
+[White "Aguero Jimenez, Luis Lazaro"]
+[Black "Christiansen, Johan-Sebastian"]
+[Result "1/2-1/2"]
+[WhiteElo "2472"]
+[BlackElo "2647"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Bg4 6.O-O Ne7 7.Nbd2 Nbc6 8.c3 Qd7 9.Re1 O-O-O 10.b4 Rde8 11.b5 Nd8 12.Qa4 Kb8 13.Ne5 Qc8 14.Nb3 f6 15.Be3 Bf5 16.Bf1 Ka8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 8: Cernadas Camean, David - Rey Malde, Henrique"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-8/dn7ydIAm/aVvaMVjp"]
+[Date "2026.07.18"]
+[Round "8.7"]
+[White "Cernadas Camean, David"]
+[Black "Rey Malde, Henrique"]
+[Result "1-0"]
+[WhiteElo "2189"]
+[BlackElo "2185"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nc6 5.Nc3 e5 6.d3 Nge7 7.O-O Ng6 8.a3 Be7 9.Bxc6 bxc6 10.b4 O-O 11.Be3 f5 12.bxc5 dxc5 13.exf5 Bxf5 14.Ne1 Nf4 15.Ne4 Qe8 16.Ng3 Bg6 17.Rb1 Rd8 18.Rb7 Rd7 19.Qb3 Qc8 20.Rxd7 Qxd7 21.Nf3 Qc7 22.Rb1 Nxd3 23.Qb7 Rc8 24.Rb3 h6 25.h4 Bd6 26.h5 Bh7 27.Qa6 Rb8 28.Rxb8+ Qxb8 29.Qxc6 e4 30.Nd2 Bxg3 31.fxg3 Qe5 32.Qa8+ Kf7 33.Qxa7+ Qe7 34.Qa8 Bf5 35.a4 Qe5 36.a5 Qxg3 37.Qd5+ Be6 38.Qxe4 Qe1+ 39.Kh2 Nb4 40.Qg6+ Ke7 41.Qxg7+ Ke8 42.Qg6+ Kd7 43.Qe4 Qe2 44.Nf3 Nd3 45.Qxd3+ 1-0

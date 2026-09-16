@@ -1,0 +1,15 @@
+[Event "Round 6: Savran, Bora - Maruflu, Enes Yusuf"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/M3SVksJT"]
+[Date "2026.07.02"]
+[Round "6.45"]
+[White "Savran, Bora"]
+[Black "Maruflu, Enes Yusuf"]
+[Result "1/2-1/2"]
+[WhiteElo "2080"]
+[BlackElo "2204"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 O-O 8.O-O a5 9.c3 Re8 10.Qc2 g6 11.Be3 Be6 12.Rfe1 Na6 13.Rad1 a4 14.b3 a3 15.Nd2 b5 16.Ne4 Be7 17.Nc5 Nxc5 18.dxc5 Qc7 19.Bd4 f5 20.Be2 Bg5 21.Bf3 Rad8 22.Be5 Rxd1 23.Qxd1 Qd7 24.Bd6 Bxb3 25.Rxe8+ Qxe8 26.Bxc6 Qe6 27.axb3 a2 28.h4 Bd2 29.Qxd2 a1=Q+ 30.Kh2 Qee1 31.Qxe1 Qxe1 32.Bxb5 Qxf2 33.c6 Qxh4+ 34.Kg1 Qe1+ 35.Kh2 Qe6 36.Bb8 g5 37.c7 f4 38.Bc4 Qh6+ 39.Kg1 Qc6 40.Bd5 Qc5+ 41.Kf1 g4 42.c4 g3 43.Ke2 h5 44.Kd3 Qe3+ 45.Kc2 Qf2+ 46.Kc3 Qe3+ 47.Kb4 Qb6+ 48.Kc3 Qe3+ 1/2-1/2

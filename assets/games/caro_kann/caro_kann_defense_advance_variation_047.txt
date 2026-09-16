@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-3/j8fQQG3m/Zgn8GJLK"]
+[Date "2026.07.21"]
+[Round "3.12"]
+[White "Jaksland, Tim"]
+[Black "Matthiesen, Martin"]
+[Result "0-1"]
+[WhiteElo "2143"]
+[BlackElo "2330"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 Ne7 7.Be2 Ng6 8.h4 h6 9.h5 Ne7 10.a4 Qc7 11.a5 a6 12.c3 Bg4 13.Nh4 Bxe2 14.Qxe2 c5 15.Bd2 Nc6 16.f4 c4 17.Nc1 Be7 18.f5 Bxh4+ 19.Rxh4 exf5 20.Bf4 Nf8 21.e6 Qe7 22.exf7+ Kxf7 23.Qxe7+ Nxe7 24.Ne2 Nd7 25.Kd2 Nf6 26.Rf1 Ne4+ 27.Kc2 Rhf8 28.Be5 Kg8 29.Nf4 Rf7 30.g4 fxg4 31.Rxg4 Rd8 32.Rfg1 Ng5 33.R1g3 Nc6 34.Nh3 Nxh3 35.Rxh3 Nxe5 36.dxe5 Re8 37.Re3 Rf5 38.e6 Re7 39.Rh4 Rf2+ 40.Kb1 Rf6 41.Re5 Rfxe6 42.Rxd5 Re1+ 43.Ka2 R1e5 44.Rhd4 Kh7 45.Ka3 Rxd5 46.Rxd5 Rc7 47.Kb4 g6 48.hxg6+ Kxg6 49.Rd1 h5 50.Rg1+ Kf5 51.Rf1+ Kg4 52.Rg1+ Kf3 53.Rg8 h4 54.Rf8+ Kg2 55.Rg8+ Kf3 56.Rf8+ Kg2 57.Rg8+ Kh2 58.Rg6 h3 59.Rg8 Kh1 60.Rg6 h2 61.Rg8 Rf7 62.Kxc4 Rf4+ 63.Kc5 Rf5+ 64.Kb4 Rb5+ 0-1

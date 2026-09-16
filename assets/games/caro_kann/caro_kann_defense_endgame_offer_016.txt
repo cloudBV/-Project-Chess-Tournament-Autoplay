@@ -1,0 +1,15 @@
+[Event "Round 2: Zilka, Stepan - Brewer, Callum D"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-2/jTVnpKXw/qMbWt9u9"]
+[Date "2026.07.23"]
+[Round "2.2"]
+[White "Zilka, Stepan"]
+[Black "Brewer, Callum D"]
+[Result "1-0"]
+[WhiteElo "2462"]
+[BlackElo "2099"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 Bg7 5.d4 f6 6.c4 e6 7.Nc3 fxe5 8.Nxe5 Nf6 9.Be2 O-O 10.O-O b6 11.Bg5 Bb7 12.Qd2 c5 13.cxd5 exd5 14.dxc5 bxc5 15.Bf3 Kh8 16.Rad1 Qe8 17.Rfe1 Ne4 18.Nxe4 dxe4 19.Bxe4 Bxe4 20.Rxe4 Bxe5 21.Qd5 Nc6 22.f4 Bd4+ 23.Rdxd4 Nxd4 24.Rxe8 Raxe8 25.h3 Re1+ 26.Kh2 Re2 27.Qxc5 Nf3+ 28.Kg3 Rfe8 29.Kxf3 h5 30.Bf6+ Kg8 31.Qc4+ R8e6 32.Qxe2 1-0

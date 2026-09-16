@@ -1,0 +1,14 @@
+[Event "Round 3: Heck, Norbert - Kraft, Wolfgang"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/zdDbmce8"]
+[Date "2026.07.19"]
+[Round "3.5"]
+[White "Heck, Norbert"]
+[Black "Kraft, Wolfgang"]
+[Result "1/2-1/2"]
+[WhiteElo "2210"]
+[BlackElo "2042"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 c6 7.Bb2 Qc7 8.Nbd2 a5 9.a4 Na6 10.e4 Bg4 11.Re1 Nd7 12.h3 Bxf3 13.Nxf3 e5 14.dxe5 dxe5 15.Qe2 Rfe8 16.Rad1 Rad8 17.Nd2 Ndc5 18.Nc4 Ne6 19.c3 Nac5 20.Qc2 Na6 21.Ba3 Bf8 22.Bxf8 Kxf8 23.h4 f6 24.Bh3 Kf7 25.Ne3 Qb6 26.Bf1 Nac5 27.Bc4 Ke7 28.Kg2 Rxd1 29.Rxd1 Rd8 30.Rb1 Qc7 31.h5 Kf8 32.Rh1 Kg7 33.Ng4 Qe7 34.Qc1 Ng5 35.hxg6 hxg6 36.f3 Qd6 37.Rf1 Qd2+ 38.Qxd2 Rd6 39.Qd4 Rxd4 40.Rf2 Rd2 1/2-1/2

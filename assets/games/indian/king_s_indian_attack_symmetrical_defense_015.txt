@@ -1,0 +1,14 @@
+[Event "Round 5: Kazakos, Markos - Karamichos, Michail"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/XR1KlUgd"]
+[Date "2026.07.08"]
+[Round "5.14"]
+[White "Kazakos, Markos"]
+[Black "Karamichos, Michail"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2205"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 d6 6.d4 a5 7.a4 Re8 8.O-O c6 9.Nbd2 d5 10.Re1 Bf5 11.Nh4 Be6 12.c3 Qc8 13.Qc2 g5 14.Nhf3 Bf5 15.Qd1 h6 16.Ne5 Nbd7 17.c4 e6 18.h3 Qc7 19.Nxd7 Qxd7 20.e3 b5 21.Qe2 Reb8 22.axb5 cxb5 23.c5 Ra7 24.Ra2 Qc7 25.Rea1 b4 26.Nf3 Ne4 27.Qd1 Nc3 28.Bxc3 bxc3 29.Bf1 c2 30.Qd2 Rxb3 31.Ne1 h5 32.Nxc2 h4 33.g4 Be4 34.Ne1 e5 35.Bg2 exd4 36.exd4 Qf4 37.Qxf4 gxf4 38.Bxe4 dxe4 39.Rd1 Rc3 40.Rc2 Rxc2 41.Nxc2 Kf8 42.Na3 a4 43.c6 Ke8 44.Nb5 Re7 45.Rc1 Kd8 46.c7+ 1-0

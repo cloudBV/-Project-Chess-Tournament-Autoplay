@@ -1,0 +1,15 @@
+[Event "Ronda 6: Sanchez Gonzalez, Diego 2012 - Gonzalez Lopez, Lucas 2013"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u14/ronda-6/buHufvu2/yL3M6KXt"]
+[Date "2026.07.03"]
+[Round "6.5"]
+[White "Sanchez Gonzalez, Diego 2012"]
+[Black "Gonzalez Lopez, Lucas 2013"]
+[Result "0-1"]
+[WhiteElo "2178"]
+[BlackElo "2183"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 d6 6.Bc4 e6 7.cxd4 Nc6 8.O-O dxe5 9.dxe5 Nb6 10.Qe2 Nxc4 11.Qxc4 Bd7 12.Nc3 Ne7 13.Bg5 Qb6 14.Rfd1 Bc6 15.Nd4 Ng6 16.Ndb5 a6 17.Nd6+ Bxd6 18.exd6 O-O 19.Be3 Qxb2 20.Rab1 Qc2 21.Qd4 Qf5 22.a4 Ne5 23.Kf1 Ng4 24.Qf4 Qg6 25.f3 Nxe3+ 26.Qxe3 Rfd8 27.Rd4 Rac8 28.Ne4 Rd7 29.Rbd1 e5 30.Rb4 Bxe4 31.Rxe4 Rxd6 32.Rb1 Rd7 33.a5 f6 34.Qb3+ Qf7 35.Qa4 Qd5 36.Ree1 Qc4+ 37.Qxc4+ Rxc4 38.Rb6 Ra4 39.Reb1 Rxa5 40.Rxb7 Rxb7 41.Rxb7 Ra2 42.h4 h5 43.Ra7 Ra4 44.Kf2 Rxh4 45.Rxa6 Rb4 46.Kg3 Kh7 47.Ra8 Kh6 48.Rg8 g6 49.Kh3 Kg5 50.Kg3 Rb1 51.Re8 Kf5 52.Rh8 Rb3 53.Kh2 e4 54.fxe4+ Kxe4 55.Rf8 Kf5 56.Rc8 Re3 57.Rc5+ Re5 58.Rc6 Re6 59.Rc5+ Kg4 60.Rc4+ Kg5 61.Kh3 f5 62.g3 Re4 63.Rc6 h4 64.gxh4+ Rxh4+ 65.Kg3 Ra4 66.Rc3 Rg4+ 67.Kf3 Kh4 68.Rc8 Ra4 69.Rg8 Kg5 70.Rh8 Ra3+ 71.Kf2 Kg4 72.Rg8 g5 73.Rb8 Ra2+ 74.Kf1 f4 75.Rg8 Kf3 76.Kg1 g4 77.Rb8 Ra1+ 0-1

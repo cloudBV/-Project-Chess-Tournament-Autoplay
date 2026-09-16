@@ -1,0 +1,14 @@
+[Event "Round 3: Evers, Udo - Braun, Hans-Jochen"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-handicapped-players/round-3/r1B7c673/zqkN0pj3"]
+[Date "2026.07.21"]
+[Round "3.4"]
+[White "Evers, Udo"]
+[Black "Braun, Hans-Jochen"]
+[Result "1/2-1/2"]
+[WhiteElo "2169"]
+[BlackElo "2100"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.Nc3 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.e4 e5 6.Ndb5 d6 7.Bg5 a6 8.Bxf6 gxf6 9.Na3 f5 10.Qh5 Be7 11.Bc4 O-O 12.exf5 Nd4 13.f6 Bxf6 14.Bd3 h6 15.O-O Bg7 16.Nd5 Be6 17.Ne3 Qg5 1/2-1/2

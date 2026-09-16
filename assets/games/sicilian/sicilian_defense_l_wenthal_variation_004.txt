@@ -1,0 +1,14 @@
+[Event "Round 1: Budak, Rezan - Degraeve, Jean-Marc"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-1/S7wEOhJJ/VInbn9O6"]
+[Date "2026.07.17"]
+[Round "1.1"]
+[White "Budak, Rezan"]
+[Black "Degraeve, Jean-Marc"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2500"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb3 Nf6 6.Bg5 Bb4+ 7.c3 Be7 8.Qd3 O-O 9.N1d2 Ng4 10.Bxe7 Nxe7 11.h3 Nf6 12.c4 d6 13.Rd1 a5 14.g4 Ng6 15.Qc3 b6 16.Qg3 h5 17.h4 hxg4 18.h5 Nf4 19.Rh4 N6xh5 20.Qh2 Qg5 21.Nb1 Be6 22.Nc3 Rac8 23.Nb5 a4 24.Nc1 Bxc4 25.Nxd6 Bxf1 26.Kxf1 Rxc1 27.Rxc1 Ng6 0-1

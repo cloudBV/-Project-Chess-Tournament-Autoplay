@@ -1,0 +1,15 @@
+[Event "Round 3: Alsina Leal, Daniel - Amartya Saumitra Gupta"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-3/kHH1KL3O/ZQrLn4nd"]
+[Date "2026.07.06"]
+[Round "3.4"]
+[White "Alsina Leal, Daniel"]
+[Black "Amartya Saumitra Gupta"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2217"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 Nc6 7.d4 cxd4 8.Nxd4 g6 9.f3 Bg7 10.Be3 O-O 11.O-O a6 12.Qd3 Rfc8 13.b3 b5 14.cxb5 axb5 15.Nxc6 Qxc6 16.Nxb5 d5 17.e5 Nd7 18.f4 Nc5 19.Qe2 Ne4 20.Na7 Qc2 21.Rfe1 Qxe2 22.Rxe2 Rc3 23.Bd4 Rd3 24.Nc6 Bf8 25.Rc2 e6 26.Kf1 Ra6 27.Ke2 Rd2+ 28.Rxd2 Nxd2 29.Kxd2 Rxc6 30.a3 Ra6 31.Bb2 Bh6 32.g3 g5 33.fxg5 Bxg5+ 34.Kd3 Kg7 35.b4 f6 36.h4 1-0

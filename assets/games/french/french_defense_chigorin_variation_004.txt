@@ -1,0 +1,15 @@
+[Event "Round 6: Fiorito, Francisco - Barski, Radoslaw"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-6/bVyM4zuT/rGnJmNjP"]
+[Date "2026.07.09"]
+[Round "6.6"]
+[White "Fiorito, Francisco"]
+[Black "Barski, Radoslaw"]
+[Result "1-0"]
+[WhiteElo "2452"]
+[BlackElo "2344"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Chigorin Variation"]
+
+1.e4 e6 2.Qe2 e5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.d3 O-O 8.c3 d5 9.exd5 Nxd5 10.Na3 h6 11.Nc4 Re8 12.a4 Bf5 13.Nfd2 a5 14.Ne4 b6 15.Ned6 cxd6 16.Bxd5 Rc8 17.Be3 Ne7 18.Bxb6 Qd7 19.Bg2 d5 20.Ne3 Be6 21.d4 exd4 22.cxd4 Nf5 23.Nxf5 Bxf5 24.Qd2 Be4 25.Bc5 Bxg2 26.Kxg2 Rb8 27.Qxa5 Re2 28.Qc3 Rexb2 29.a5 R2b3 30.Qd2 Rb2 31.Qc1 Re2 32.a6 Re4 33.Qd2 Rh4 34.f3 Rh5 35.a7 Ra8 36.Rfb1 Bf8 37.Rb8 1-0

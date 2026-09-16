@@ -1,0 +1,15 @@
+[Event "Round 6: Vitak, Jiri - Pacher, Milan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/eupurVnj"]
+[Date "2026.07.19"]
+[Round "6.4"]
+[White "Vitak, Jiri"]
+[Black "Pacher, Milan"]
+[Result "1/2-1/2"]
+[WhiteElo "2373"]
+[BlackElo "2304"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.e3 O-O 6.Bd3 Bxd2+ 7.Qxd2 d6 8.e4 e5 9.d5 a5 10.Nc3 Na6 11.O-O Nh5 12.Kh1 Nf4 13.Bc2 Nb4 14.Bb1 f5 15.g3 Nh3 16.exf5 Bxf5 17.Bxf5 Rxf5 18.Ng1 Qg5 19.Qe2 Nxg1 20.Kxg1 Raf8 21.a3 Na6 22.Ne4 Qg6 23.f3 b6 24.Rf2 Nc5 25.Nxc5 bxc5 26.Raf1 h5 27.Qe4 a4 28.Kg2 R8f6 29.Re1 Qf7 30.Ref1 g5 31.Qc2 Qe8 32.Kg1 Kg7 33.b3 Qf8 34.bxa4 Rxf3 35.Rxf3 Rxf3 36.Rxf3 Qxf3 37.Qf2 Qd1+ 38.Qf1 Qd4+ 39.Kg2 Qe4+ 40.Kf2 Qd4+ 41.Kg2 1/2-1/2

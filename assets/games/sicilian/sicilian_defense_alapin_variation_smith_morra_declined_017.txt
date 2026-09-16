@@ -1,0 +1,15 @@
+[Event "Round 2: Sapir, Omri - Shefer, Uri"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-2/d3cE0HD7/3Z32UNSv"]
+[Date "2026.07.15"]
+[Round "2.9"]
+[White "Sapir, Omri"]
+[Black "Shefer, Uri"]
+[Result "1/2-1/2"]
+[WhiteElo "2009"]
+[BlackElo "2230"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 d6 6.cxd4 Nc6 7.Bc4 Nb6 8.Bb5 Bd7 9.Nc3 dxe5 10.Nxe5 Nxe5 11.dxe5 Bxb5 12.Nxb5 Qxd1+ 13.Kxd1 Nd5 14.Ke2 e6 15.Rd1 Bc5 16.Bd2 Kd7 17.Rac1 Rhc8 18.Nc3 Bd4 19.Nxd5 exd5 20.Bf4 Rxc1 21.Bxc1 Bxe5 22.Rxd5+ Ke6 23.Rc5 f5 24.Bd2 b6 25.Rc2 Rd8 26.h3 f4 27.Bc3 Rc8 28.Kd3 g5 29.Re2 Rc5 30.Bxe5 Rxe5 31.Rc2 Re1 32.Re2+ Rxe2 33.Kxe2 Kd5 34.Kf3 a5 35.Kg4 a4 36.Kf3 Kd4 37.h4 Kd3 38.hxg5 Kc2 39.Kxf4 Kxb2 40.Kg4 Kxa2 41.f4 a3 42.f5 Kb2 43.g6 hxg6 44.fxg6 a2 45.g7 a1=Q 46.g8=Q Qd1+ 47.Kf4 Qd4+ 48.Kf3 b5 49.g4 Qd3+ 50.Kf2 Qd4+ 51.Kf3 b4 52.g5 Qd1+ 53.Kf4 Qf1+ 54.Ke5 Qe2+ 55.Kf6 Qf3+ 56.Ke7 Qe3+ 57.Kf6 Qf4+ 58.Ke7 Qe5+ 59.Kd7 Qf5+ 60.Ke7 Qe5+ 61.Kd7 Qb5+ 62.Kd6 Qd3+ 63.Ke7 Qe3+ 64.Kf6 Qd4+ 65.Kf5 Qd3+ 66.Kf6 Qf3+ 67.Ke7 Qb7+ 68.Kf6 b3 69.g6 Ka1 70.g7 b2 71.Qh7 Qc6+ 72.Kf7 Qd5+ 73.Kf8 Qd8+ 74.Kf7 Qd5+ 75.Kf8 Qf3+ 76.Ke7 Qe3+ 77.Kf8 Qc5+ 78.Kf7 Qc7+ 79.Kf8 Qc5+ 80.Kf7 Qc4+ 81.Kf8 Qf4+ 82.Ke7 Qe5+ 83.Kf7 Qd5+ 84.Kf8 b1=Q 85.Qxb1+ Kxb1 86.g8=Q Qxg8+ 87.Kxg8 1/2-1/2

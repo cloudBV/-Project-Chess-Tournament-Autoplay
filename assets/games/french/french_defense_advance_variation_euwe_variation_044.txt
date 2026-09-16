@@ -1,0 +1,14 @@
+[Event "Round 4: Bauduin, Etienne - Subhayan Kundu"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-4/phLVbaKj/Z5xkcBwI"]
+[Date "2026.07.20"]
+[Round "4.8"]
+[White "Bauduin, Etienne"]
+[Black "Subhayan Kundu"]
+[Result "0-1"]
+[WhiteElo "2131"]
+[BlackElo "2341"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Bd3 cxd4 7.O-O dxc3 8.Nxc3 a6 9.Be3 Be7 10.Na4 d4 11.Bxd4 Nxd4 12.Nxd4 Qa5 13.Bc2 Qxe5 14.Qf3 Nf6 15.Qxb7 Rb8 16.Qa7 O-O 17.Rac1 Ra8 18.Qb6 Nd5 19.Nc6 Nxb6 20.Nxe7+ Kh8 21.Nxb6 Rad8 22.Nxd7 Rxd7 23.Nc6 Qxb2 0-1

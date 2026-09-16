@@ -1,0 +1,15 @@
+[Event "Round 3: Villegas, Franco - Elena, Eduardo"]
+[Site "https://lichess.org/broadcast/la-proa-de-fiesta-itt/round-3/TMdKWHt0/U2IkAJCe"]
+[Date "2026.07.22"]
+[Round "3.3"]
+[White "Villegas, Franco"]
+[Black "Elena, Eduardo"]
+[Result "1-0"]
+[WhiteElo "2337"]
+[BlackElo "2116"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7 9.Qd2 Nbd7 10.g4 b5 11.g5 b4 12.gxf6 bxc3 13.Qxc3 Nxf6 14.O-O-O O-O 15.Na5 d5 16.Nc6 d4 17.Nxd8 dxc3 18.Nxe6 cxb2+ 19.Kb1 fxe6 20.Bc4 Kf7 21.Rhg1 Rfc8 22.Bb3 a5 23.a4 Rc3 24.Rge1 Rb8 25.Kxb2 Rc7 26.Ka2 Nd7 27.f4 Ke8 28.Rg1 Bf6 29.Rd6 Rb4 30.Rxe6+ Kf8 31.fxe5 Nxe5 32.Bh6 Rxb3 33.Rxf6+ Kg8 34.cxb3 1-0

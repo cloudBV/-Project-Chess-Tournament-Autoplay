@@ -1,0 +1,14 @@
+[Event "Round 2: Babiy, Olga - Peglau, Charis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-2/ZSaO6fR5/kiDpTUuA"]
+[Date "2026.07.18"]
+[Round "2.5"]
+[White "Babiy, Olga"]
+[Black "Peglau, Charis"]
+[Result "1/2-1/2"]
+[WhiteElo "2294"]
+[BlackElo "2169"]
+[ECO "C19"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Positional Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.h4 Qc7 8.Nf3 Nbc6 9.h5 h6 10.Be2 Bd7 11.dxc5 Nxe5 12.Nxe5 Qxe5 13.Qd3 Qc7 14.Rb1 a6 15.Qd4 e5 16.Qb4 O-O 17.Qxb7 Rfc8 18.O-O Bf5 19.Be3 Bxc2 20.Qxc7 Rxc7 21.Rb2 Ba4 22.f4 Nf5 23.Bf2 e4 24.Rfb1 e3 25.Rb8+ Rc8 26.Rxc8+ Rxc8 27.Be1 Bc2 28.Rb2 Be4 29.g4 Ne7 30.Rb7 Kf8 31.Bxa6 Ra8 32.Bb5 Bf3 33.c6 d4 34.cxd4 Nxc6 35.Rd7 Rc8 36.Bxc6 Rxc6 37.Bb4+ Kg8 38.g5 hxg5 39.fxg5 Bxh5 40.d5 Rc1+ 41.Kg2 f5 42.gxf6 gxf6 43.Re7 e2 44.d6 Bg4 45.Re4 Kf7 46.Kg3 Rg1+ 47.Kf4 Kg6 48.Re7 Kh5 49.Rh7+ Kg6 50.Re7 Kh5 51.Re8 Rf1+ 52.Kg3 Rg1+ 53.Kf2 Rf1+ 54.Kg3 Rg1+ 55.Kf2 Rf1+ 56.Kg2 Rd1 57.Re7 Kg5 58.Kg3 Rg1+ 59.Kf2 Rf1+ 60.Kg2 Rd1 61.Kf2 Kf4 62.Be1 Rxd6 63.Rb7 f5 64.a4 Rd3 65.Rb4+ Kg5 66.a5 Rh3 67.Bd2+ Kf6 68.Be1 Rh1 69.Rb1 Rf1+ 70.Ke3 f4+ 71.Kd2 f3 72.a6 f2 73.a7 Bf3 74.Ra1 Kf5 75.a8=Q Bxa8 76.Kxe2 fxe1=Q+ 77.Rxe1 Rf4 78.Rf1 Ke4 79.Rxf4+ Ke5 1/2-1/2

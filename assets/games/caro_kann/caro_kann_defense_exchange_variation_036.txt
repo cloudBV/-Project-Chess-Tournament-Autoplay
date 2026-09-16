@@ -1,0 +1,14 @@
+[Event "Round 3: Liu, William Rui - Rains, Edward"]
+[Site "https://lichess.org/broadcast/peter-stuart-memorial-open-2026/round-3/HX8JQTlp/nx5yDiAk"]
+[Date "2026.02.18"]
+[Round "3.1"]
+[White "Liu, William Rui"]
+[Black "Rains, Edward"]
+[Result "1-0"]
+[WhiteElo "2195"]
+[BlackElo "2034"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nf6 5.c3 g6 6.Bd3 Bf5 7.Bxf5 gxf5 8.Ne5 Nbd7 9.O-O e6 10.Bf4 Nxe5 11.dxe5 Nd7 12.Nd2 Qh4 13.g3 Qh3 14.c4 h5 15.Nf3 Be7 16.cxd5 h4 17.Rc1 hxg3 18.fxg3 Nb6 19.d6 Bd8 20.Rc2 Nd5 21.Ng5 Bxg5 22.Bxg5 Rg8 23.Qc1 f6 24.Bxf6 Nxf6 25.exf6 Kf7 26.Rc7+ Kxf6 27.Qc3+ Kg6 28.Qe5 Rae8 29.d7 Rd8 30.Qxe6+ Kg5 31.Rc5 Rgf8 32.Qe7+ Kg6 33.Rd5 Qh8 34.Re1 Rf7 35.Re6+ Rf6 36.Rxf6+ Qxf6 37.Rd6 1-0

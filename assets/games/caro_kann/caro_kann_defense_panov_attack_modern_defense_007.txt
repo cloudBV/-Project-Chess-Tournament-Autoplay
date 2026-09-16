@@ -1,0 +1,14 @@
+[Event "Round 2: Esser, Michael, Dr. - Cmiel, Thorsten"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-2/76FnGlv4/osORcyo0"]
+[Date "2026.07.18"]
+[Round "2.13"]
+[White "Esser, Michael, Dr."]
+[Black "Cmiel, Thorsten"]
+[Result "1/2-1/2"]
+[WhiteElo "2021"]
+[BlackElo "2152"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Be3 g6 7.Nf3 Bg7 8.c5 Bg4 9.Be2 O-O 10.O-O e6 11.h3 Bxf3 12.Bxf3 b6 13.Qa4 Qd7 14.Rfd1 bxc5 15.dxc5 Rfb8 16.Rab1 Rb4 17.Qc2 Rab8 18.b3 Qb7 19.Rd2 a5 20.Rbd1 Ne7 21.Na4 Nf5 22.Qd3 Nd7 23.Rc2 Ne5 24.Qe2 Nh4 25.Bd2 Nhxf3+ 26.gxf3 Rb5 27.Bf4 f6 28.Bg3 Qc6 29.Rdc1 Re8 30.Nb2 Nf7 31.Na4 e5 32.Qd3 Rbb8 33.Nb6 Rbd8 34.Qa6 Ng5 35.Qxa5 d4 36.Qa4 Qxf3 37.c6 Nxh3+ 38.Kh2 Nf4 39.Qc4+ Kh8 40.Qf1 d3 41.Rd2 Qh5+ 42.Kg1 Ne2+ 43.Kg2 Nxc1 44.Qxc1 Bh6 45.c7 Bxd2 46.cxd8=Q Rxd8 47.Qxd2 Qe2 48.Qb4 d2 49.Qe7 d1=Q 50.Qxf6+ Kg8 51.Qe6+ Kg7 52.Bxe5+ Qxe5 53.Qxe5+ Kf7 54.Qc7+ Kg8 55.Qc4+ Kg7 56.Qc7+ Kg8 1/2-1/2

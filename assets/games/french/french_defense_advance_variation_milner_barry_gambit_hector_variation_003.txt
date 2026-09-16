@@ -1,0 +1,14 @@
+[Event "Round 1: Tsolakidou, Stavroula - Liodakis, Konstantinos-Spyros"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/XmUGKIJW"]
+[Date "2026.07.10"]
+[Round "1.12"]
+[White "Tsolakidou, Stavroula"]
+[Black "Liodakis, Konstantinos-Spyros"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2235"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 Rc8 10.a3 g6 11.b4 dxc3 12.Nxc3 Nf5 13.Na4 Qc7 14.Bg5 Bg7 15.Rc1 Qb8 16.Nc5 Nxe5 17.Nxe5 Bxe5 18.Nxd7 Kxd7 19.Bb5+ Rc6 20.Rc5 Bd4 21.Rc2 h6 22.Be3 Nxe3 23.fxe3 Bb6 24.Qf3 f5 25.Kf1 g5 26.Qh5 Qh2 27.Bxc6+ bxc6 28.Qf7+ Kd6 29.Qb7 Qh1+ 30.Kf2 Qxh4+ 31.Ke2 Bxe3 32.Rxc6+ Ke5 33.Qg7+ Kf4 34.Rf1+ Kg4 35.Rxe6 Rc8 36.Rxe3 Qh2 37.Qd4+ f4 38.Qxd5 fxe3 39.Qf3+ Kh4 40.Rh1 1-0

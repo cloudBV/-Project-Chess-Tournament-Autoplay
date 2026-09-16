@@ -1,0 +1,15 @@
+[Event "XXII Baltic Pearl Chess Festival 2026 - Group A 1-20"]
+[Site "Lazy, Poland"]
+[Date "2026.07.06"]
+[Round "9.2"]
+[White "Wilgosz, Szczepan"]
+[Black "Luczak, Filip"]
+[Result "0-1"]
+[WhiteElo "2169"]
+[BlackElo "2348"]
+[ECO "C03"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 h6 4.Ngf3 Nf6 5.e5 Nfd7 6.Bd3 c5 7.c3 Nc6 8.O-O g5 9.b3 g4 10.Ne1 cxd4 11.cxd4 Nxd4 12.Qxg4 Nc6 13.Bb2 Ndxe5 14.Qe2 Nxd3 15.Nxd3 Rg8 16.Nf3 Bd7 17.Nfe5 Bg7 18.Nxf7 Qe7 19.Nde5 Bxe5 20.Nxe5 O-O-O 21.Nxc6 Bxc6 22.Bd4 Kb8 23.Rac1 Ka8 24.Rc5 Qh4 25.f4 e5 26.Bxe5 Qe7 27.Qc2 d4 28.Rxc6 bxc6 29.Qxc6+ Qb7 30.Qxb7+ Kxb7 31.Rd1 Rc8 32.Rd2 d3 33.g3 Rc2 34.Rxd3 Rxa2 35.Rf3 Kc6 36.Rf2 Rxf2 37.Kxf2 Kd5 38.Kf3 h5 39.h3 Rg6 40.Bc3 Ra6 41.g4 Ra3 42.Ke3 Rxb3 43.Kd3 Rb1 44.g5 Rh1 45.f5 Rxh3+ 46.Kd2 Rf3 47.f6 Ke6 48.Bd4 a5 49.Ke2 Rf5 0-1

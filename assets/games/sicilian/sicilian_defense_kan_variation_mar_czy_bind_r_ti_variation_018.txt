@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.20"]
+[Round "20.7"]
+[White "SerendipityHCE 0e3fd4a0"]
+[Black "ice4 6.1.1"]
+[Result "1/2-1/2"]
+[WhiteElo "3066"]
+[BlackElo "3156"]
+[ECO "B41"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 d6 7.Be2 b6 8.Bf3 Ra7 9.Qa4+ Rd7 10.Be3 Be7 11.Nc6 Nxc6 12.Qxc6 Qc7 13.Qxb6 Qxc4 14.e5 dxe5 15.Qc6 Qxc6 16.Bxc6 Nd5 17.Rd1 Bb7 18.Ba4 Kd8 19.O-O f5 20.Bxd7 Kxd7 21.Na4 e4 22.Bd4 Ke8 23.Nc5 Bxc5 24.Bxc5 Kf7 25.Bd4 Rg8 26.Rc1 g5 27.Rfe1 h5 28.Rc4 Kg6 29.a4 Rd8 30.g3 h4 31.gxh4 Nf4 32.hxg5 Nd3 33.Re3 f4 34.Rh3 Ne1 35.Bc3 Nf3+ 36.Kf1 e5 37.Rc7 Bd5 38.Ba5 Kxg5 39.Rg7+ Kf6 40.Bxd8+ Kxg7 41.Bc7 Kf6 42.Rh6+ Kg5 43.Rd6 Bc4+ 44.Kg2 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Bortnyk, Olexandr - Zierk, Steven"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-2/KCjKXZ21/Y4EwOZwn"]
+[Date "2026.07.03"]
+[Round "2.4"]
+[White "Bortnyk, Olexandr"]
+[Black "Zierk, Steven"]
+[Result "1/2-1/2"]
+[WhiteElo "2608"]
+[BlackElo "2500"]
+[ECO "B22"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 d6 6.cxd4 Nc6 7.Bc4 dxe5 8.dxe5 Ndb4 9.O-O Qxd1 10.Rxd1 Bg4 11.Nc3 Bxf3 12.gxf3 Nxe5 13.Bb5+ Nbc6 14.f4 Nd7 15.f5 a6 16.Bxc6 bxc6 17.Na4 Nf6 18.Be3 g6 19.Nb6 Rd8 20.Rxd8+ Kxd8 21.Rc1 Kc7 22.Nc4 Nd5 23.Na5 gxf5 24.Rxc6+ Kd7 25.Rxa6 Bg7 26.Ra7+ Ke6 27.Ra6+ Kd7 28.Nc4 Rc8 29.b3 Rc6 30.Ra7+ Ke6 31.a4 f4 32.Bd2 Bd4 33.Ra8 f3 34.Rg8 Nf6 35.Rg3 Ne4 36.Rxf3 Nxd2 37.Nxd2 Rc2 38.Nc4 f5 39.Kg2 Kf6 40.Na3 Rb2 41.Nb5 Bb6 42.Nc3 e6 43.h4 Bd4 44.Ne4+ Kg6 45.Nd6 h5 46.a5 Bc5 47.Nc4 Ra2 48.Ne5+ Kg7 49.Nc6 Kf6 50.b4 Bd6 51.Rd3 Bf4 52.b5 e5 53.Rd6+ Kf7 54.b6 e4 55.Rd4 Be3 56.Rd7+ Ke6 57.b7 Rxf2+ 58.Kg3 Rf3+ 59.Kg2 Rf2+ 60.Kg3 f4+ 61.Kh3 Rf3+ 62.Kh2 Rf2+ 63.Kh3 Rf3+ 1/2-1/2

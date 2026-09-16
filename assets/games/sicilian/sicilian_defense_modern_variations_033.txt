@@ -1,0 +1,15 @@
+[Event "Round 7: Ozcan, Ilker - Umarov, Bekhruz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-7/5B5vPn2Z/oDBzlB01"]
+[Date "2026.07.17"]
+[Round "7.14"]
+[White "Ozcan, Ilker"]
+[Black "Umarov, Bekhruz"]
+[Result "1-0"]
+[WhiteElo "2059"]
+[BlackElo "2268"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5 dxe5 5.Nxe5 a6 6.a4 Nbd7 7.Nc4 e6 8.d3 Be7 9.g3 b6 10.Bg2 Ra7 11.Bf4 O-O 12.O-O Bb7 13.Bxb7 Rxb7 14.Qf3 Qa8 15.Rfd1 Ra7 16.Qe2 Nd5 17.Nxd5 Qxd5 18.Qe4 Qb7 19.a5 b5 20.Nd6 Bxd6 21.Bxd6 Rc8 22.Bf4 Nf6 23.Qe2 Nd5 24.Bg5 c4 25.Be3 cxd3 26.Rxd3 Raa8 27.Bd4 Rc6 28.Re1 f6 29.f4 Rac8 30.c3 Qf7 31.Bf2 Qg6 32.Rd4 Kf7 33.Qf3 Ne7 34.Rd7 Qc2 35.f5 e5 36.Qh5+ Kf8 37.Red1 Re8 38.Rd8 Ng6 39.fxg6 Qxg6 40.Qf3 Rc8 41.Rxc8 Rxc8 42.Qb7 Qg4 43.Rd7 Re8 44.h3 Qxh3 45.Rxg7 Qe6 46.Bc5+ Re7 47.Rxe7 1-0

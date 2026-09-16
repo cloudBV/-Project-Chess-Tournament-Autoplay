@@ -1,0 +1,15 @@
+[Event "Round 5: Ozcan, Alp Orcun - Huseyinoglu, Alihan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/AGn3nRt2"]
+[Date "2026.07.16"]
+[Round "5.7"]
+[White "Ozcan, Alp Orcun"]
+[Black "Huseyinoglu, Alihan"]
+[Result "0-1"]
+[WhiteElo "2027"]
+[BlackElo "2395"]
+[ECO "A30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.e3 Nf6 5.d4 cxd4 6.exd4 d5 7.cxd5 Nxd5 8.Qb3 Nxc3 9.Bc4 e6 10.bxc3 Bg7 11.Ba3 Na5 12.Bb5+ Bd7 13.Qa4 b6 14.O-O Bxb5 15.Qxb5+ Qd7 16.Qa6 Qc8 17.Qb5+ Qc6 18.Qg5 f6 19.Qg4 O-O-O 20.Rfe1 Rhe8 21.Nd2 f5 22.Qh3 h6 23.Bb4 Nc4 24.Nxc4 Qxc4 25.Qf3 Qd5 26.Qxd5 Rxd5 27.a4 a5 28.Ba3 e5 29.Rab1 Kc7 30.Kf1 Re6 31.Rb5 Kc6 32.Rb2 Kd7 33.dxe5 Rdxe5 34.Rxe5 Bxe5 35.Rd2+ Bd6 36.Bxd6 Rxd6 37.Rb2 Kc6 38.Rb5 Rd5 39.Rb1 Rd2 40.Re1 Kc5 41.h4 h5 42.Re5+ Rd5 43.Re8 Rd6 44.Re5+ Kc4 45.Rb5 Kxc3 46.g3 f4 47.Kg2 fxg3 48.Kxg3 Kd3 49.f3 Rf6 50.Rg5 Ke3 51.Re5+ Kd4 52.Rb5 Kc4 53.Kg2 Kd4 54.Kg3 Kc3 55.Rb1 Rd6 56.Rb5 Kc2 57.Kf4 Rd4+ 58.Kg5 Rb4 59.Re5 Rxa4 60.Kxg6 Rxh4 61.Re4 Rh1 62.Re2+ Kc3 63.f4 Rf1 64.f5 a4 65.Re3+ Kd4 66.Re8 b5 67.Ra8 Kc3 68.f6 Kb3 69.f7 a3 70.Ra5 Kb4 71.Ra6 Kb3 72.Rf6 Rxf6+ 73.Kxf6 a2 74.f8=Q a1=Q+ 75.Kg6 Qe5 76.Qf3+ Kc4 77.Qf1+ Kc5 78.Qf2+ Kc6 79.Qc2+ Kb6 80.Qf2+ Qc5 81.Qh2 b4 82.Qb8+ Ka5 83.Kh7 Qd5 84.Qc8 b3 85.Qc3+ Kb5 86.Qb2 Kb4 87.Qf2 Qb7+ 88.Kh8 Qc8+ 89.Kg7 Qc3+ 90.Kg8 b2 91.Qb6+ Ka4 92.Qa6+ Kb3 93.Qb5+ Ka2 94.Qe2 Qg3+ 95.Kh8 Qb8+ 96.Kg7 Qa7+ 97.Kh8 Ka1 98.Qe5 h4 99.Kg8 Qa8+ 100.Kg7 h3 101.Kh6 h2 102.Qe1+ b1=Q 103.Qe5+ Qb2 104.Qe1+ Ka2 105.Qe6+ Qb3 106.Qe2+ Ka3 107.Qe7+ Qb4 108.Qe3+ Ka4 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Nilsson, Oliver - Nygren, David"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-6/Xk1Xm6TC/fHRhNhco"]
+[Date "2026.07.02"]
+[Round "6.12"]
+[White "Nilsson, Oliver"]
+[Black "Nygren, David"]
+[Result "1-0"]
+[WhiteElo "2195"]
+[BlackElo "2073"]
+[ECO "C17"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3 Nbc6 8.Nf3 cxd4 9.Nxd4 Nxd4 10.Qxd4 Nf5 11.Qf4 Bd7 12.h4 Qc7 13.g4 d4 14.Bd2 Ne7 15.Qxd4 Bc6 16.Rh3 Rd8 17.Qe3 h5 18.f3 hxg4 19.fxg4 Ng6 20.h5 Nxe5 21.O-O-O Nxg4 22.Qg5 f5 23.Re1 Qf7 24.Bc4 Bd5 25.Ba5 Rd7 26.Bb5 Bc6 27.Bxc6 bxc6 28.Bb4 Nf2 29.Rf3 Rxh5 30.Rxe6+ Qxe6 31.Qxh5+ Rf7 32.Qh8+ Kd7 33.Rxf2 c5 34.Rd2+ Kc7 35.Qd8+ Kc6 36.Bc3 f4 37.Qa5 Qc4 38.b3 Qf1+ 39.Kb2 1-0

@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.06"]
+[Round "2.29"]
+[White "Lopez Mijail, Nicolas"]
+[Black "Juarros Ruiz, Victor"]
+[Result "1-0"]
+[WhiteElo "2275"]
+[BlackElo "2107"]
+[ECO "E66"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line"]
+
+1.Nf3 d6 2.d4 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 c5 7.Nc3 Nc6 8.d5 Na5 9.Nd2 e6 10.Qc2 Re8 11.e4 exd5 12.cxd5 Bd7 13.b3 b5 14.Bb2 Rc8 15.Rfe1 Qb6 16.Rac1 Ng4 17.Nd1 Bxb2 18.Qxb2 Ne5 19.Bf1 b4 20.Ne3 f5 21.exf5 gxf5 22.Qc2 c4 23.bxc4 Qd4 24.Rcd1 f4 25.Nf5 Qc3 26.Qb1 Ba4 27.Ne4 Nf3+ 28.Kh1 Qh8 29.Nfxd6 Nxe1 30.Rxe1 Rb8 31.Nxe8 Bxe8 32.Bh3 Bg6 33.gxf4 Qd4 34.Be6+ Kh8 35.f5 Bh5 36.Ng5 Qf6 37.Qa1 Qxa1 38.Rxa1 Nxc4 39.Nf7+ Kg7 40.Rc1 Be2 41.d6 b3 42.axb3 Rxb3 43.d7 1-0

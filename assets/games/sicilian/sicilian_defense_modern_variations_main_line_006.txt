@@ -1,0 +1,14 @@
+[Event "Round 6: Stefanidi, Maria-Anna - Nikolaou, Spiridon"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/qwTXLOBp"]
+[Date "2026.07.10"]
+[Round "6.84"]
+[White "Stefanidi, Maria-Anna"]
+[Black "Nikolaou, Spiridon"]
+[Result "1-0"]
+[WhiteElo "2001"]
+[BlackElo "2124"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O g6 8.c4 Bg7 9.Nc3 O-O 10.Qe2 Nd7 11.Bd2 Nc5 12.Rac1 Rb8 13.b3 f5 14.exf5 Nxd3 15.Qxd3 Bxf5 16.Qe2 Qd7 17.Be3 Rbe8 18.Rfd1 Qb7 19.f3 Rd8 20.Qf2 a6 21.Na4 h6 22.Rd2 Rde8 23.Rcd1 c5 24.Qe2 Kh7 25.Rc1 Rf7 26.Nc3 Rg8 27.Bf2 Bf8 28.Nd5 g5 29.h3 Rg6 30.Re1 Kh8 31.Qd1 Bg7 32.Rde2 Bf8 33.Qd2 h5 34.g4 Bc8 35.Qd3 Rg8 36.Bg3 Qd7 37.Nb6 Qb7 38.Nxc8 Rxf3 39.Nxd6 exd6 40.Re3 Rxe3 41.Rxe3 Qg2+ 1-0

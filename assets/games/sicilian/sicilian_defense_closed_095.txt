@@ -1,0 +1,14 @@
+[Event "Round 4: Van Osch, Mees - Warmerdam, Max"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/Bgbiptit"]
+[Date "2026.07.24"]
+[Round "4.7"]
+[White "Van Osch, Mees"]
+[Black "Warmerdam, Max"]
+[Result "0-1"]
+[WhiteElo "2326"]
+[BlackElo "2533"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 a6 3.g3 Nc6 4.Bg2 g6 5.Nf3 Bg7 6.O-O e5 7.d3 Nge7 8.Bg5 h6 9.Be3 d6 10.Nd2 Be6 11.f4 exf4 12.gxf4 f5 13.Nf3 O-O 14.Kh1 Qd7 15.Qd2 b6 16.e5 dxe5 17.Nxe5 Nxe5 18.fxe5 g5 19.d4 Rad8 20.Rad1 f4 21.Bg1 Bg4 22.Qd3 Bxd1 23.Rxd1 cxd4 24.Bxd4 f3 25.Bf1 Qc6 26.Qc4+ Kh8 27.Qxc6 Nxc6 28.Bxb6 Rxd1 29.Nxd1 Nxe5 30.a4 Rc8 31.Ne3 Rb8 32.a5 Nd7 33.Nc4 Nxb6 34.Nxb6 Re8 0-1

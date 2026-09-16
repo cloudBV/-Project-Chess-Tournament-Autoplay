@@ -1,0 +1,14 @@
+[Event "Round 7: Ghosh, Diptayan - Gloeckler, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-7/bLoz2XQo/ikKGTpZL"]
+[Date "2026.07.12"]
+[Round "7.6"]
+[White "Ghosh, Diptayan"]
+[Black "Gloeckler, Christian"]
+[Result "1-0"]
+[WhiteElo "2480"]
+[BlackElo "2332"]
+[ECO "A19"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Flohr-Mikenas-Carls Variation, Nei Gambit"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.d4 cxd4 6.Qxd4 Nc6 7.Qf4 Nh6 8.Nf3 d6 9.h4 Nf5 10.g4 dxe5 11.Nxe5 Nxe5 12.Qxe5 Bd6 13.Qe4 Ne7 14.Be3 Bd7 15.Qd4 Bc6 16.Rh3 O-O 17.O-O-O Bb4 18.a3 Qxd4 19.Bxd4 Bd6 20.Kb1 Bf4 21.Bc5 Rfe8 22.Rhd3 a6 23.Be2 Rac8 24.Bb6 Bc7 25.Bxc7 Rxc7 26.Rd8 Kf8 27.b4 Ng6 28.h5 Nf4 29.Bf1 Bf3 30.R1d4 Rxd8 31.Rxd8+ Ke7 32.Rg8 Bxg4 33.Rxg7 Bxh5 34.Rg8 Bg6+ 35.Kb2 Bd3 36.Bxd3 Nxd3+ 37.Kb3 Nc1+ 38.Kb2 Rxc4 39.Rg3 Rxc3 40.Rxc3 Ne2 41.Rc7+ Kf6 42.Rxb7 h5 43.Rb8 Kg7 44.Rd8 h4 45.Rd1 h3 46.a4 Nf4 47.Kc3 Kf6 48.Kc4 Kf5 49.Rg1 Ke4 50.b5 axb5+ 51.axb5 Nd3 52.b6 Ne5+ 53.Kb5 Kf3 54.Rg3+ Kxf2 55.Rxh3 f5 56.b7 Nd7 57.Rh7 Nb8 58.Rh8 Nd7 59.Rd8 1-0

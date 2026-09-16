@@ -1,0 +1,14 @@
+[Event "Round 5: Bardorz, Jana - Eberle, Triona"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-women/round-5/0qC9H83p/TLKQXdln"]
+[Date "2026.07.07"]
+[Round "5.1"]
+[White "Bardorz, Jana"]
+[Black "Eberle, Triona"]
+[Result "1/2-1/2"]
+[WhiteElo "2083"]
+[BlackElo "2058"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nde2 h5 8.g3 Be7 9.Bg2 Nbd7 10.a4 b6 11.Nd5 Nxd5 12.exd5 f5 13.f4 Bb7 14.O-O e4 15.Nd4 g6 16.Ne6 Qc8 17.b3 Bf6 18.Rb1 Nc5 19.Ng5 Qd7 20.Bb2 Bxb2 21.Rxb2 Qg7 22.Rb1 Qc3 23.b4 Nxa4 24.Rb3 Qc4 25.Qa1 O-O 26.Qxa4 Qd4+ 27.Kh2 b5 28.Qa1 Qxa1 29.Rxa1 Rfc8 30.Rb2 Rc3 31.Rd1 Rac8 32.Rd2 R8c4 33.h4 Ra3 34.Nh3 Ra4 35.Ng1 Raxb4 36.Rxb4 Rxb4 37.c3 Rc4 38.Ne2 Rc5 39.Kg1 Rxd5 40.Rxd5 Bxd5 41.Nd4 Kf7 42.Bf1 Ke7 43.Kf2 Kd7 44.Ke3 Kc7 45.Be2 Kb6 46.Kd2 Kc5 47.Kc2 Bf7 48.Kb2 Bc4 49.Bd1 e3 50.Bf3 a5 51.Nc2 e2 52.Kc1 b4 53.cxb4+ axb4 54.Kd2 d5 55.Bxe2 Bxe2 56.Kxe2 b3 57.Na3 Kd4 58.Nb1 Kc4 59.Kd2 b2 60.Kc2 Kd4 61.Kd2 Kc4 62.Kc2 Kd4 63.Kd2 Kc4 1/2-1/2

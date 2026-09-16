@@ -1,0 +1,15 @@
+[Event "Round 3: Berdayes Ason, Dylan Isidro - Alonso Moyano, Jonathan"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-3/gxfrWwC7/tw5hx4ET"]
+[Date "2026.07.12"]
+[Round "3.3"]
+[White "Berdayes Ason, Dylan Isidro"]
+[Black "Alonso Moyano, Jonathan"]
+[Result "1-0"]
+[WhiteElo "2492"]
+[BlackElo "2202"]
+[ECO "E47"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d6 6.Ne2 e5 7.O-O Re8 8.f3 Nc6 9.d5 Nb8 10.a3 Bxc3 11.Nxc3 a5 12.e4 Nbd7 13.Be3 Nc5 14.Bc2 Bd7 15.b4 axb4 16.axb4 Na6 17.Rb1 Qe7 18.Qd2 Rf8 19.Rfc1 Ne8 20.Bd3 g6 21.Nd1 f5 22.c5 f4 23.Bf2 Nb8 24.cxd6 cxd6 25.Ra1 Rxa1 26.Rxa1 g5 27.Ra8 Nf6 28.b5 Rc8 29.Ba7 Qd8 30.Qb4 Be8 31.h3 Bf7 32.Kh2 Ne8 33.Nb2 Nd7 34.Rxc8 Qxc8 35.Nc4 Qc7 36.Bf2 b6 37.Qa3 Nc5 38.Be2 Qd7 1-0

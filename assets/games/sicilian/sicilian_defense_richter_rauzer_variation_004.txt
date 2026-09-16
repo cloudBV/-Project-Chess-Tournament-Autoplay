@@ -1,0 +1,14 @@
+[Event "Round 1.1: Van den Doel, Erik - Swinkels, Robin"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-11/0px5I3Oy/wrlO7pBm"]
+[Date "2026.06.09"]
+[Round "1.5"]
+[White "Van den Doel, Erik"]
+[Black "Swinkels, Robin"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2481"]
+[ECO "B62"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3 Be7 8.O-O-O O-O 9.h4 Bd7 10.Kb1 Rc8 11.Be2 Nxd4 12.Qxd4 Qa5 13.Qd2 Kh8 14.f3 a6 15.g4 Rfd8 16.Be3 b5 17.Bd3 Bc6 18.g5 Nh5 19.Qf2 Rb8 20.f4 d5 21.exd5 Ba8 22.Qf3 b4 23.Qxh5 g6 24.Bd4+ Kg8 25.Qxh7+ Kxh7 26.h5 f5 27.gxf6 Kg8 28.hxg6 Bc5 29.f7+ Kf8 30.Bf6 bxc3 31.Rh8# 1-0

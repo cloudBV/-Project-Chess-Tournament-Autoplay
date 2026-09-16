@@ -1,0 +1,14 @@
+[Event "Round 4: Stankovic, Milos - Mihov, Filip"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/y3da7x7v"]
+[Date "2026.07.06"]
+[Round "4.18"]
+[White "Stankovic, Milos"]
+[Black "Mihov, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2234"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O cxd4 8.cxd4 Nf5 9.Nc3 a6 10.Kh1 Rc8 11.a3 Be7 12.Bd3 Nh4 13.Nxh4 Bxh4 14.Qg4 g6 15.Bh6 f5 16.exf6 Bxf6 17.Rfe1 Kf7 18.Ne2 e5 19.Qg3 e4 20.Bb1 Ne7 21.Qb3 Bb5 22.Bf4 Kg7 23.a4 Bc4 24.Qh3 Qb6 25.Qa3 Nf5 26.a5 Qb3 27.Qxb3 Bxb3 28.Be3 Bc4 29.Ba2 Bxa2 30.Rxa2 Rc4 1/2-1/2

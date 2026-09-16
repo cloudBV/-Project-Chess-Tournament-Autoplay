@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "2.16"]
+[White "Pisk, Petr"]
+[Black "Alexikov, Alexander"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2110"]
+[ECO "B50"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.dxc5 Nxe4 5.cxd6 Nc6 6.Bd3 Nxd6 7.O-O Bf5 8.Bf4 Bxd3 9.Qxd3 e6 10.Nc3 Be7 11.Rad1 Nf5 12.Qb5 Qc8 13.g4 Nh4 14.Nxh4 Bxh4 15.Ne4 O-O 16.Nd6 Qc7 17.Qxb7 Qxb7 18.Nxb7 e5 19.Be3 Be7 20.Rd7 Rfb8 21.Rfd1 Kf8 22.c3 a5 23.b3 Ke8 24.Rc7 Rc8 25.Rdd7 Rxc7 26.Rxc7 Nd8 27.Nxd8 Bxd8 28.Rb7 Ra6 29.Kg2 e4 30.Rb5 Re6 31.Bd4 g6 32.Re5 Kd7 33.Rxe6 Kxe6 34.c4 f5 35.f3 Bc7 36.h3 h5 37.a4 exf3+ 38.Kxf3 fxg4+ 39.hxg4 h4 40.Kg2 g5 41.Be3 Bd8 42.Bd4 Bc7 43.Bc3 Bd8 44.b4 axb4 45.Bxb4 Ke5 46.a5 Ke6 47.a6 Bb6 48.c5 Ba7 49.c6 Bb6 50.Ba5 Ba7 51.Bd8 Kd6 52.Bxg5 Kxc6 53.Bxh4 Kb5 54.Bf2 1-0

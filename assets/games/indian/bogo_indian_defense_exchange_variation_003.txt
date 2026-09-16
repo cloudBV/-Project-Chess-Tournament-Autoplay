@@ -1,0 +1,15 @@
+[Event "Round 5: Gasanov, Eldar - Zilka, Stepan"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-5/fSrGUwda/VXRX8Z0G"]
+[Date "2026.06.12"]
+[Round "5.1"]
+[White "Gasanov, Eldar"]
+[Black "Zilka, Stepan"]
+[Result "1/2-1/2"]
+[WhiteElo "2443"]
+[BlackElo "2526"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Exchange Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.Nc3 O-O 7.e3 Qe7 8.Rc1 dxc4 9.Bxc4 Rd8 10.O-O c5 11.Qc2 cxd4 12.Nxd4 Bd7 13.Rfd1 1/2-1/2

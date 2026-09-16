@@ -1,0 +1,15 @@
+[Event "Round 3: Vitier Vazquez, Cristian - Lopez Martinez, Josep Manuel"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/hZvGW7ts"]
+[Date "2026.07.06"]
+[Round "3.7"]
+[White "Vitier Vazquez, Cristian"]
+[Black "Lopez Martinez, Josep Manuel"]
+[Result "0-1"]
+[WhiteElo "2375"]
+[BlackElo "2486"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.g3 dxc4 4.Bg2 Nd7 5.O-O Ngf6 6.Qa4 a6 7.Qxc4 b5 8.Qc2 Bb7 9.a4 c5 10.Nc3 Qb6 11.d3 Be7 12.Qb3 b4 13.Nd1 Ng4 14.a5 Qb5 15.Ne3 Nxe3 16.Bxe3 O-O 17.Nd2 Bxg2 18.Kxg2 Ne5 19.f3 Rfd8 20.Bf2 Rac8 21.Rfc1 Nxd3 22.exd3 Rxd3 23.Qd1 Rcd8 24.Be1 Bg5 25.f4 Bf6 26.Rab1 c4 27.Kh3 h5 28.Qe2 Bxb2 29.Rd1 c3 30.Rxb2 Rxg3+ 0-1

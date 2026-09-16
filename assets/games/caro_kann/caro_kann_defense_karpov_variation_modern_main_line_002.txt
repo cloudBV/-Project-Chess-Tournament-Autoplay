@@ -1,0 +1,14 @@
+[Event "Round 3: Beerdsen, Thomas - Ten Dam, Bram"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/2heXTgQ0"]
+[Date "2026.07.23"]
+[Round "3.2"]
+[White "Beerdsen, Thomas"]
+[Black "Ten Dam, Bram"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2344"]
+[ECO "B17"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation, Modern Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6 9.Ne4 Nxe4 10.Qxe4 Nf6 11.Qe2 O-O 12.Bd2 Qc7 13.O-O-O c5 14.g4 Nd5 15.Kb1 Nf4 16.Bxf4 Bxf4 17.g5 cxd4 18.Rhg1 e5 19.gxh6 Bxh6 20.Nxe5 Qd6 21.Qe4 f5 22.Qh4 Be6 23.Rg6 Kh7 24.Rxg7+ Kxg7 25.Rg1+ Kh7 26.Rg6 Bxa2+ 27.Kxa2 Qxg6 28.Nxg6 Kxg6 29.Qg4+ Kh7 30.Bxf5+ Rxf5 31.Qxf5+ Kh8 32.Qh3 Kh7 33.Qd3+ 1-0

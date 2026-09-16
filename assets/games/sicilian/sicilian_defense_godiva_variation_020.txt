@@ -1,0 +1,14 @@
+[Event "Round 3: Brueggemann, Joachim - Erich Mueller"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-3/dgJhydwO/Ux0LFJcP"]
+[Date "2026.07.19"]
+[Round "3.3"]
+[White "Brueggemann, Joachim"]
+[Black "Erich Mueller"]
+[Result "1/2-1/2"]
+[WhiteElo "2244"]
+[BlackElo "2065"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Bd3 Be7 8.O-O O-O 9.Be3 Qc7 10.f4 d6 11.g4 a6 12.g5 Nd7 13.Qh5 g6 14.Qh6 Re8 15.Rf3 Bf8 16.Qh4 Bg7 17.f5 Nce5 18.Rh3 h5 19.f6 Nxd3 20.cxd3 Bf8 21.Rc1 Qb8 22.d4 b5 23.Qf2 Bb7 24.Nd2 Rc8 25.Rf1 d5 26.e5 Bb4 27.Ndb1 Kf8 28.Qe2 Ke8 29.a3 Bxc3 30.Nxc3 Qc7 31.Bd2 Qb6 32.Qe3 a5 33.Ne2 Ba6 34.b4 a4 35.Kg2 Bb7 36.Qd3 Nf8 37.Be3 Rc4 38.Rh4 Rac8 39.Kg3 Kd7 40.Rhf4 1/2-1/2

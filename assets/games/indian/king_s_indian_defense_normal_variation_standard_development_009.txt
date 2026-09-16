@@ -1,0 +1,14 @@
+[Event "Round 7: Nazarenus, Olaf - Thaler, Anton"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-7/7WJxpw4W/kyzZpGwB"]
+[Date "2026.07.17"]
+[Round "7.2"]
+[White "Nazarenus, Olaf"]
+[Black "Thaler, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2100"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h4 h5 7.Bg5 c5 8.d5 e6 9.Qd2 exd5 10.Nxd5 Nc6 11.Nh3 Re8 12.f3 Nd4 13.O-O-O a6 14.Nhf4 b5 1/2-1/2

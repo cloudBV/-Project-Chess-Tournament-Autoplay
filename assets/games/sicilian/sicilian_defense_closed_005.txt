@@ -1,0 +1,15 @@
+[Event "Round 6: Ibadov, Dashgyn - Guliev, Logman"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-6/X84BlxL7/H98ZMt92"]
+[Date "2026.07.02"]
+[Round "6.3"]
+[White "Ibadov, Dashgyn"]
+[Black "Guliev, Logman"]
+[Result "0-1"]
+[WhiteElo "2337"]
+[BlackElo "2215"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 a6 5.Be3 Nc6 6.Qb6 Qxb6 7.Bxb6 Nf6 8.O-O-O g6 9.f4 Bh6 10.g3 O-O 11.Nf3 Bg4 12.Be2 Ne5 13.Nxe5 Bxe2 14.Nxg6 hxg6 15.Nxe2 Nxe4 16.Be3 Rac8 17.g4 f5 18.Ng3 Rc4 19.gxf5 gxf5 20.Rhg1 Kh7 21.Rd3 e5 22.Nxe4 fxe4 23.Rxd6 Bxf4 24.Rd7+ Kh6 25.Rd6+ Kh5 26.Bxf4 exf4 27.Rd7 Rc6 28.Rh7+ Rh6 29.Re7 e3 30.Kd1 Rd8+ 31.Ke2 Rd2+ 32.Kf3 Rf2+ 33.Ke4 e2 34.Kf5 Rh8 35.Rg8 Rh6 36.Rge8 f3 37.Re4 Rg2 38.R8e5 Rg5+ 39.Kf4 Rf6+ 0-1

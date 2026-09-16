@@ -1,0 +1,14 @@
+[Event "Round 4: Juhnke, Juergen - Raitza, Olaf"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/USVkjpTm"]
+[Date "2026.07.20"]
+[Round "4.2"]
+[White "Juhnke, Juergen"]
+[Black "Raitza, Olaf"]
+[Result "1-0"]
+[WhiteElo "2219"]
+[BlackElo "2045"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bd7 8.Bxc6 bxc6 9.O-O Bc5 10.f3 Ng5 11.f4 Ne4 12.Be3 Qe7 13.Nd2 Nxd2 14.Qxd2 Bb6 15.Nb3 O-O 16.Qc3 Rfe8 17.Bc5 Qh4 18.Rae1 Re6 19.Re3 Rh6 20.h3 Bf5 21.Nd4 Be4 22.Rxe4 dxe4 23.Nf5 Qh5 24.Nxh6+ Qxh6 25.Qd4 Qe6 26.Rd1 Re8 27.Bxb6 axb6 28.Qxe4 f6 29.Re1 fxe5 30.fxe5 Qd5 31.e6 Qxe4 32.Rxe4 c5 33.b3 g5 34.Kf2 Kg7 35.Ke3 Kf6 36.e7 Rxe7 37.Rxe7 Kxe7 38.Ke4 Ke6 39.a4 c6 40.c3 Kd6 41.g4 c4 42.b4 b5 43.a5 c5 44.a6 1-0

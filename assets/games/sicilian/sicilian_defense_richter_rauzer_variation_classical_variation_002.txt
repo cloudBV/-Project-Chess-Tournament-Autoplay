@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.9"]
+[White "Erenburg, Sergey"]
+[Black "Williams, Oscar"]
+[Result "0-1"]
+[WhiteElo "2481"]
+[BlackElo "2080"]
+[ECO "B64"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 h6 10.Bh4 Nxd4 11.Qxd4 Qa5 12.Bc4 e5 13.fxe5 dxe5 14.Qd3 Bg4 15.Bxf6 Bxf6 16.Rdf1 Bg5+ 17.Kb1 Qc5 18.h3 Be6 19.Nd5 Rac8 20.Bb3 b5 21.c3 a5 22.a3 Rb8 23.h4 Bd8 24.Rd1 Bg4 25.Rd2 Qd6 26.g3 Qg6 27.Rf1 Be6 28.Ka1 Kh8 29.Ba2 b4 30.cxb4 axb4 31.Nxb4 Ba5 32.Nc6 Bxd2 33.Nxb8 Bxa2 34.Kxa2 Rxb8 35.Qxd2 Qxe4 36.Rc1 Qg4 37.Qd6 Re8 38.Rc3 e4 39.Re3 Qf5 40.a4 Qa5 41.Qd4 f5 42.Rb3 Ra8 43.Ka3 Rd8 44.Qb6 Qxb6 45.Rxb6 Re8 46.Rc6 e3 47.Rc1 g5 48.hxg5 hxg5 49.a5 e2 50.Re1 f4 51.gxf4 gxf4 52.a6 f3 53.a7 Ra8 0-1

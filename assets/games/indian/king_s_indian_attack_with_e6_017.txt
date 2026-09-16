@@ -1,0 +1,15 @@
+[Event "Round 4: Domingo Nunez, Ruben - Bogdanov, Egor"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-4/1lzdeHzB/OFclu6Oy"]
+[Date "2026.07.07"]
+[Round "4.3"]
+[White "Domingo Nunez, Ruben"]
+[Black "Bogdanov, Egor"]
+[Result "1/2-1/2"]
+[WhiteElo "2405"]
+[BlackElo "2493"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 d5 4.O-O c5 5.c4 d4 1/2-1/2

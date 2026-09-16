@@ -1,0 +1,15 @@
+[Event "Round 9: Lalit Babu M R - Jiang, Lucas"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/7pPs10gg"]
+[Date "2026.07.19"]
+[Round "9.7"]
+[White "Lalit Babu M R"]
+[Black "Jiang, Lucas"]
+[Result "1-0"]
+[WhiteElo "2513"]
+[BlackElo "2362"]
+[ECO "E44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Bd2 Nxd2 7.Qxd2 d5 8.a3 Be7 9.Nf4 c6 10.e4 dxe4 11.Nxe4 Bb7 12.O-O-O Nd7 13.Bd3 Nf6 14.Ng5 Qd6 15.Rhe1 O-O 16.g3 c5 17.Qc2 g6 18.Nfxe6 fxe6 19.Bxg6 Ng4 20.Nf7 Rxf7 21.Bxf7+ Kxf7 22.Qxh7+ Kf8 23.Qh8+ Kf7 24.Qh5+ 1-0

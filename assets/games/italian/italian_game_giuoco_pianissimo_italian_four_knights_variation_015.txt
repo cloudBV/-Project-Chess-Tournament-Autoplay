@@ -1,0 +1,14 @@
+[Event "Round 3: Baenziger, Fabian - Georgescu, Lena"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/TLb01lDG"]
+[Date "2026.07.15"]
+[Round "3.8"]
+[White "Baenziger, Fabian"]
+[Black "Georgescu, Lena"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2253"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 h6 6.h3 a6 7.Be3 d6 8.a4 Bxe3 9.fxe3 Be6 10.Nd2 Bxc4 11.Nxc4 d5 12.exd5 Nxd5 13.O-O O-O 14.e4 Nxc3 15.bxc3 b5 16.Ne3 Ne7 17.Qh5 Ng6 18.axb5 axb5 19.Rxa8 Qxa8 20.Nf5 Qd8 21.Qg4 Qg5 22.Qxg5 hxg5 23.Ra1 Nf4 24.Kf2 g6 25.Ne7+ Kg7 26.Ra7 c5 27.Nc6 Kf6 28.Kf3 Rc8 29.Ra6 Ne6 30.g3 b4 31.cxb4 cxb4 32.Nxb4 Kg7 33.Ra2 Nd4+ 34.Kg2 Rc3 35.Kf2 Rc8 36.Rb2 Rc7 37.Ke3 Rc8 38.Kf2 Rc7 39.Ra2 Rc8 40.Rb2 1/2-1/2

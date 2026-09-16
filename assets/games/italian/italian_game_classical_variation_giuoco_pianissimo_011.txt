@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.18"]
+[White "Pan, Zachary"]
+[Black "Huston, Gus"]
+[Result "0-1"]
+[WhiteElo "2122"]
+[BlackElo "2345"]
+[ECO "C54"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a6 7.Nbd2 Ba7 8.Bb3 h6 9.Re1 g5 10.Nf1 Nh5 11.Be3 Nf4 12.Bxa7 Nxa7 13.d4 g4 14.N3d2 Qg5 15.Nc4 Bd7 16.Nce3 O-O-O 17.Ng3 h5 18.Ngf5 Be6 19.g3 Nh3+ 20.Kg2 Kb8 21.Nh4 Nc8 22.Nef5 Ne7 23.Bxe6 fxe6 24.Nxe7 Qxe7 25.Ng6 Qf6 26.Nxh8 Qxf2+ 27.Kh1 Rxh8 28.Qe2 exd4 29.Qxf2 Nxf2+ 30.Kg2 Nd3 31.Rf1 dxc3 32.bxc3 h4 33.Rf6 h3+ 34.Kf1 Rh5 35.Ke2 Ne5 36.Raf1 Nd7 37.Rf7 Nb6 38.Kd3 Ra5 39.R1f2 d5 40.Rg7 Nc4 41.exd5 exd5 42.Re2 Ra4 43.Kd4 c6 44.Kd3 Ka7 45.Rf7 Nd6 46.Rf6 Ne4 47.Rf4 Kb6 48.Rb2+ Ka5 49.Rc2 b5 50.Ke3 Ra3 51.Kd4 Kb6 52.Rxg4 Nxc3 53.Rh4 Nxa2 54.Rxh3 Nb4 55.Rc1 c5+ 56.Ke5 Nd3+ 0-1

@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.2"]
+[White "Machlik, Monika"]
+[Black "Unhjem, Bjorn Robert Lovoll"]
+[Result "0-1"]
+[WhiteElo "2085"]
+[BlackElo "2036"]
+[ECO "A40"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.e4 Bb7 4.Bd3 Nf6 5.Nc3 Bb4 6.f3 Nc6 7.Ne2 Bxc3+ 8.bxc3 d6 9.O-O e5 10.Bg5 h6 11.Be3 Qd7 12.Rb1 Ba6 13.Nc1 Na5 14.c5 Bxd3 15.Nxd3 Rd8 16.cxd6 cxd6 17.dxe5 dxe5 18.Nxe5 Qe6 19.Qa4+ Kf8 20.Bd4 Kg8 21.Rfd1 Kh7 22.Qc2 Rc8 23.Nxf7 Qxf7 24.e5+ Qg6 25.Qxg6+ Kxg6 26.exf6 gxf6 27.Re1 Nc6 28.Kf2 Rhd8 29.Rbd1 Rd5 30.Re6 Nxd4 31.cxd4 Rc4 32.Re4 Rc2+ 33.Re2 Rc4 34.Ke3 f5 35.g3 h5 36.h4 b5 37.Red2 b4 38.Kf4 a5 39.g4 hxg4 40.fxg4 fxg4 41.Kxg4 a4 42.Kf4 Kf6 43.Ke4 Rh5 44.Rg2 Ke6 45.Rg6+ Kd7 46.Ra6 a3 47.Rd2 Rc6 48.Ra7+ Kd6 49.Rh2 Rc1 50.Ra6+ Kc7 51.Kf4 Rb1 52.Rc2+ Kb7 53.Rd6 Rxh4+ 54.Ke5 Rh5+ 55.Ke4 Rb2 56.Rc4 Rb5 57.Rd7+ Kb6 58.Rd8 Kb7 59.Rd7+ Ka6 60.Rd6+ Rb6 61.Rxb6+ Kxb6 62.Kd3 Kb5 63.Rc5+ Ka4 64.Rc2 Rxa2 65.Rc8 Rh2 66.d5 Kb3 67.d6 Rh6 68.Rc6 a2 69.Ra6 Rxd6+ 70.Rxd6 a1=Q 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Blomqvist, Erik - Hillarp Persson, Tiger"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-6/e9ef0vgC/d0cHhJUw"]
+[Date "2026.07.22"]
+[Round "6.2"]
+[White "Blomqvist, Erik"]
+[Black "Hillarp Persson, Tiger"]
+[Result "1/2-1/2"]
+[WhiteElo "2487"]
+[BlackElo "2418"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 Qc7 8.Bb3 Nbd7 9.g4 Nc5 10.f3 b5 11.a3 Nfd7 12.Qe2 Rb8 13.h4 b4 14.axb4 Rxb4 15.Na2 Rb8 16.Nc3 Rb4 17.Na2 Rb8 18.Nc3 1/2-1/2

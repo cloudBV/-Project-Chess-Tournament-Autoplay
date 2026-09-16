@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.07"]
+[Round "4.2"]
+[White "Golis, Wiktor"]
+[Black "Wites, Adam"]
+[Result "1-0"]
+[WhiteElo "2322"]
+[BlackElo "2139"]
+[ECO "E28"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Ne2 c5 8.Ng3 d5 9.cxd5 exd5 10.Bd3 Re8 11.O-O b6 12.Bb2 Ba6 13.Bxa6 Nxa6 14.Qd3 Nb8 15.f3 h5 16.Rae1 Nc6 17.e4 dxe4 18.fxe4 Qd7 19.Rxf6 gxf6 20.Nxh5 Qd6 21.Qf3 f5 22.e5 Qe6 23.Nf6+ Kf8 24.Nxe8 Qxe8 25.Qxf5 cxd4 26.cxd4 Rd8 27.e6 Nxd4 28.Bxd4 Rxd4 29.Qf6 Rd2 30.Qh8+ Ke7 31.exf7+ 1-0

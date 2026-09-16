@@ -1,0 +1,15 @@
+[Event "Round 9: Adams, Michael - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-9/Gl0A3TLt/zAcPMNV0"]
+[Date "2026.07.07"]
+[Round "9.1"]
+[White "Adams, Michael"]
+[Black "Badacsonyi, Stanley"]
+[Result "1/2-1/2"]
+[WhiteElo "2622"]
+[BlackElo "2312"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O Ng6 8.Be3 Be7 9.Nbd2 O-O 10.Re1 h6 11.Bd3 cxd4 12.cxd4 f5 13.exf6 Rxf6 14.a3 Bd6 15.Nf1 Nce7 16.Ng3 Qf8 17.Ne5 Nxe5 18.dxe5 Bxe5 19.Nh5 Rf7 20.Bxh6 Bxb2 21.Rb1 Bc3 22.Bd2 Bxd2 23.Qxd2 b6 24.Rb4 Nf5 25.Rg4 Re8 26.Qb2 e5 27.Rxe5 Rxe5 28.Qxe5 Qxa3 29.Nf6+ Rxf6 30.Qxf6 Qxd3 31.h3 Qe2 32.Qd8+ Qe8 33.Qc7 Be6 34.Qxa7 Qd8 35.Rb4 Ne7 36.Rxb6 Nc8 37.Rb8 Nxa7 38.Rxd8+ Kf7 39.f4 Nc6 40.Rd6 Nd4 41.Kf2 g6 42.g4 Ke7 43.Rb6 Bf7 44.Ke3 Ne6 45.f5 gxf5 46.gxf5 d4+ 47.Ke4 Ng5+ 48.Kxd4 Nxh3 49.f6+ Kf8 50.Ke5 Ng5 51.Kf5 Nf3 52.Rb8+ Be8 53.Rb4 Kf7 54.Kf4 Ne1 55.Re4 Nd3+ 56.Kg5 Nc5 57.Re7+ Kf8 58.Kf5 Nd3 59.Rc7 Nb4 60.Ke4 Bg6+ 61.Kd4 Be8 62.Kc4 Nc6 63.Kd5 Nd8 64.Ke5 1/2-1/2

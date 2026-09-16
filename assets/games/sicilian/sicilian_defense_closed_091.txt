@@ -1,0 +1,15 @@
+[Event "Round 2: Utegaliyev, Azamat - Tsydypov, Zhamsaran"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/xF1Bl3jQ"]
+[Date "2026.07.22"]
+[Round "2.19"]
+[White "Utegaliyev, Azamat"]
+[Black "Tsydypov, Zhamsaran"]
+[Result "0-1"]
+[WhiteElo "2410"]
+[BlackElo "2525"]
+[ECO "B24"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Nf6 6.Be3 d6 7.Nge2 O-O 8.h3 Rb8 9.Qd2 b5 10.O-O b4 11.Nd1 a5 12.Bh6 Bxh6 13.Qxh6 a4 14.Qd2 a3 15.b3 d5 16.exd5 Nxd5 17.Ne3 Be6 18.c4 bxc3 19.Nxc3 Ndb4 20.Na4 Ne5 21.Qc3 Nexd3 22.Rfd1 Qd4 23.Rd2 Rfd8 24.Rad1 Nxa2 25.Rxa2 Rxb3 26.Qa5 Rdb8 27.Qa7 R8b4 28.Nxc5 Qxc5 29.Rxa3 Qxa7 30.Rxa7 Rb1 31.Rxb1 Rxb1+ 32.Bf1 Bxh3 33.Rxe7 Re1 34.Re8+ Kg7 35.Rd8 Ne5 36.f4 Rxe3 37.Bxh3 Rxg3+ 38.Kh2 Rd3 0-1

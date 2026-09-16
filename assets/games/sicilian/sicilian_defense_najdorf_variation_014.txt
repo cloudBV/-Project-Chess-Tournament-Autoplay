@@ -1,0 +1,15 @@
+[Event "Round 8: Valenzuela Gomez, Fernando - Iglesias Ferreira, Andres"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-8/7Yb3gPsX/gRdGpxvq"]
+[Date "2026.07.02"]
+[Round "8.3"]
+[White "Valenzuela Gomez, Fernando"]
+[Black "Iglesias Ferreira, Andres"]
+[Result "1-0"]
+[WhiteElo "2346"]
+[BlackElo "2228"]
+[ECO "B94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qd2 Qc7 8.O-O-O e6 9.f3 Be7 10.g4 b5 11.a3 h6 12.Be3 Rb8 13.h4 Nc5 14.Be2 Bd7 15.b4 Rc8 16.Kb2 e5 17.Nf5 Bxf5 18.exf5 d5 19.Bxc5 Bxc5 20.bxc5 Qxc5 21.g5 b4 22.Na4 bxa3+ 23.Ka1 Qc6 24.gxf6 Qxf6 25.Qb4 e4+ 26.c3 1-0

@@ -1,0 +1,15 @@
+[Event "Round 2: Kubin, Tomas Daniel - Ftacnik, Lubomir"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/fP2jHdol"]
+[Date "2026.07.17"]
+[Round "2.6"]
+[White "Kubin, Tomas Daniel"]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[WhiteElo "2000"]
+[BlackElo "2408"]
+[ECO "B84"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.a4 Nc6 8.O-O Be7 9.Be3 O-O 10.f4 Qc7 11.Nb3 b6 12.g4 d5 13.exd5 Rd8 14.Qe1 exd5 15.Rd1 Bxg4 16.Bxg4 Nxg4 17.Nxd5 Rxd5 18.Rxd5 Nb4 19.Rd2 Nxc2 20.Bd4 Nxe1 0-1

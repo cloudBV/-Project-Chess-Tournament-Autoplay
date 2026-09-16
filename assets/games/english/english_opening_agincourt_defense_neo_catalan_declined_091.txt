@@ -1,0 +1,14 @@
+[Event "Round 3: Bruggink, Tycho - Vandenhole, Kobe"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/HlxnHfZS"]
+[Date "2026.07.23"]
+[Round "3.17"]
+[White "Bruggink, Tycho"]
+[Black "Vandenhole, Kobe"]
+[Result "0-1"]
+[WhiteElo "2117"]
+[BlackElo "2319"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d3 Nc6 7.a3 a5 8.Nc3 h6 9.cxd5 exd5 10.e4 d4 11.Ne2 a4 12.Re1 Re8 13.Nf4 Nd7 14.Nd5 Bf8 15.Bf4 Nde5 16.Rc1 Bg4 17.h3 Bxf3 18.Bxf3 Nxf3+ 19.Qxf3 Bd6 20.Bxd6 Qxd6 21.Qf4 Re5 22.Qd2 f5 23.f4 Re6 24.Nb4 Ne7 25.e5 Qd7 26.Qg2 c6 27.Rc4 Rc8 28.Qc2 b6 29.Rc1 c5 30.Kf2 Ra8 31.Na2 Nd5 0-1

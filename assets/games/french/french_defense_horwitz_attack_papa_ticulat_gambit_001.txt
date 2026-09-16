@@ -1,0 +1,15 @@
+[Event "Round 7: Kara, Goktan Can - Akbas, Kaan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/auo1AhKK"]
+[Date "2026.07.03"]
+[Round "7.34"]
+[White "Kara, Goktan Can"]
+[Black "Akbas, Kaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2015"]
+[BlackElo "2174"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Horwitz Attack, Papa-Ticulat Gambit"]
+
+1.e4 e6 2.b3 d5 3.Bb2 dxe4 4.Nc3 Nf6 5.Qe2 Bb4 6.O-O-O Qe7 7.Nxe4 Ba3 8.Nxf6+ Qxf6 9.d4 Bxb2+ 10.Kxb2 Bd7 11.Qe5 Qxe5 12.dxe5 Bc6 13.f4 Nd7 14.Ne2 O-O-O 15.Nd4 Nc5 16.Be2 Bxg2 17.Rhg1 Be4 18.Rxg7 Bg6 19.h4 Rhg8 20.Rxg8 Rxg8 21.Rg1 Rd8 22.c3 Nd3+ 23.Bxd3 Bxd3 24.Rg7 Bg6 25.h5 Bxh5 26.Rxh7 Bg6 27.Rh6 Rg8 28.Nf3 Kd7 29.Rh2 Ke7 30.Rg2 Rh8 31.Rh2 Rg8 32.Rg2 Rc8 33.Rh2 c5 34.a4 Be4 35.Ng5 Bf5 36.Rh6 Bg6 37.Nf3 Rd8 38.Rh2 Rd1 39.Nd2 Bd3 40.Rf2 b6 41.b4 a6 42.bxc5 bxc5 43.Nb3 c4 44.Nc5 Bf5 45.Nxa6 Rb1+ 46.Ka2 Rb3 47.Nc5 Rxc3 48.a5 Rh3 49.a6 c3 50.a7 Rh8 51.Na4 Ra8 52.Nxc3 Rxa7+ 53.Kb3 Bd3 54.Kb4 Rc7 55.Rd2 Ba6 56.Rd4 Kf8 57.Ne4 Kg7 58.Nd6 Rc1 59.f5 exf5 60.Nxf5+ Kg6 61.Nd6 Be2 62.Rf4 Rf1 63.Rxf1 1/2-1/2

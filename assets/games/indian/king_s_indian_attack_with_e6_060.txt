@@ -1,0 +1,14 @@
+[Event "Round 7: Rozen, Eytan - Dudin, Gleb"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/TRZk6rTN"]
+[Date "2026.07.24"]
+[Round "7.11"]
+[White "Rozen, Eytan"]
+[Black "Dudin, Gleb"]
+[Result "1/2-1/2"]
+[WhiteElo "2498"]
+[BlackElo "2577"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d4 O-O 6.c4 a5 7.Nc3 c6 8.Nd2 b6 9.e4 dxc4 10.Nxc4 Ba6 11.b3 b5 12.Ne3 b4 13.Ne2 Bxe2 14.Qxe2 Qxd4 15.Bb2 Qb6 16.Nc4 Qb5 17.Bxf6 Bxf6 18.e5 Be7 19.Qe4 Ra7 20.Rfd1 a4 21.Rac1 Nd7 22.Qxc6 Qxc6 23.Bxc6 axb3 24.axb3 Nc5 25.Nd6 Nxb3 26.Rb1 Na5 27.Bf3 Rb8 28.Rd4 b3 29.Ra4 Bxd6 30.exd6 Kf8 31.Bd1 b2 32.Ra2 Rd8 33.Rbxb2 Rxd6 34.Bf3 Rdd7 35.Ra4 Rdc7 36.Rba2 Rc5 37.h4 Ke7 38.Kg2 g6 39.Be2 f5 40.f4 Kf6 41.g4 Ke7 42.Bf3 Kd8 43.Kg3 Kc7 44.R4a3 Kd6 45.Kg2 h6 46.gxf5 gxf5 47.Kf2 Ke7 48.Ra4 Kf6 49.Be2 Ke7 50.Bf3 Kd8 51.R4a3 Kc7 52.Bg2 Kd6 53.Bf3 Ke7 54.Ra4 Kf6 55.Be2 e5 1/2-1/2

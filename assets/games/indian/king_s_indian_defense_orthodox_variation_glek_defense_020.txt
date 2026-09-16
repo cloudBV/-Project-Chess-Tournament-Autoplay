@@ -1,0 +1,14 @@
+[Event "Round 7: Melnikov, Fedor - Travadon, Loic"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-7/3Kmor2SN/kgBleJE8"]
+[Date "2026.07.20"]
+[Round "7.14"]
+[White "Melnikov, Fedor"]
+[Black "Travadon, Loic"]
+[Result "0-1"]
+[WhiteElo "2294"]
+[BlackElo "2513"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 Na6 7.O-O e5 8.Re1 exd4 9.Nxd4 Nc5 10.Bf1 Ne6 11.Nc2 Nd7 12.Be3 b6 13.Qd2 Bb7 14.f3 Be5 15.g3 a5 16.Rad1 Re8 17.Bf2 Qf6 18.Bg2 Bxc3 19.bxc3 Ng5 20.Nd4 Nc5 21.h4 Nge6 22.Nb5 Rad8 23.f4 Rd7 24.Re2 Qd8 25.Rde1 Ng7 26.f5 Nh5 27.Bf3 Nf6 28.Bd4 Re5 29.h5 Bxe4 30.Bxe4 Ncxe4 31.Qh6 gxf5 32.Rf1 Ng4 33.Qf4 Ng5 34.Bxe5 Nh3+ 35.Kg2 Nxf4+ 36.Bxf4 Re7 37.Rfe1 Rxe2+ 38.Rxe2 Nf6 39.h6 Ne4 40.Nd4 Qf6 41.Kf3 Kf8 42.Nxf5 Nxc3 43.Re3 Nd1 44.Re1 Qc3+ 45.Ke2 Qc2+ 0-1

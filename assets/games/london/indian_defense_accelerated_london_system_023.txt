@@ -1,0 +1,15 @@
+[Event "Round 3: Larkin, Vladyslav - Madularea, David"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/d1uOPVcK"]
+[Date "2026.07.06"]
+[Round "3.13"]
+[White "Larkin, Vladyslav"]
+[Black "Madularea, David"]
+[Result "1-0"]
+[WhiteElo "2506"]
+[BlackElo "2259"]
+[ECO "A45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 c5 4.c3 Nc6 5.Nd2 d5 6.Ngf3 Bd6 7.Bg3 O-O 8.Bd3 g6 9.dxc5 Bxc5 10.Qe2 Nh5 11.Nb3 Be7 12.e4 dxe4 13.Bxe4 Qb6 14.O-O-O a5 15.Nbd4 Nxd4 16.Nxd4 f5 17.Bf3 f4 18.Bxh5 gxh5 19.Qxh5 fxg3 20.hxg3 Rf7 21.Nf3 Qxf2 22.Ne5 Rg7 23.Ng4 Bg5+ 24.Qxg5 Qxb2+ 25.Kxb2 Rxg5 26.Nf6+ Kg7 27.Ne8+ Kf7 28.Nc7 Rb8 29.Rxh7+ Kf6 30.Ne8+ Ke5 31.Nd6 Rg8 32.Rh5+ Kf6 33.Ne4+ Kf7 34.Rf1+ Kg6 35.Rg5+ Kh7 36.Rh1# 1-0

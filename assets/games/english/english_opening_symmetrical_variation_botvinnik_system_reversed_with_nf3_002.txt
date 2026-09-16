@@ -1,0 +1,15 @@
+[Event "XXII MFS PERŁA BAŁTYKU - GRUPA C"]
+[Site "Lazy, Poland"]
+[Date "2026.07.05"]
+[Round "8.5"]
+[White "Bugajski, Robert"]
+[Black "Betkowski, Andrzej"]
+[Result "1-0"]
+[WhiteElo "2017"]
+[BlackElo "2049"]
+[ECO "A37"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 c5 4.Nc3 Nc6 5.Nf3 e5 6.O-O Nge7 7.a3 d6 8.b4 O-O 9.Rb1 Rb8 10.d3 f5 11.Nd5 h6 12.e3 Be6 13.Nd2 g5 14.f4 Ng6 15.Bb2 g4 16.Nb3 b6 17.b5 Nce7 18.e4 Nxd5 19.exd5 Bd7 20.Qd2 exf4 21.Bxg7 Kxg7 22.gxf4 Re8 23.Rbe1 Qh4 24.Rxe8 Rxe8 25.d4 Qe7 26.dxc5 bxc5 27.Kf2 h5 28.Nc1 h4 29.Ne2 Kf7 30.a4 Qf8 31.a5 Qh6 32.Kg1 Qh8 33.a6 Re7 34.Re1 Qe8 35.Kf2 Qd8 36.Nc1 g3+ 37.hxg3 hxg3+ 38.Kf1 Rxe1+ 39.Kxe1 Bc8 40.Ne2 Qh4 41.Qe3 Qh2 42.Kf1 Qh8 43.Qxg3 Qf6 44.Kf2 Qb2 45.Bf3 Qh8 46.Qg5 Ne7 47.Qh5+ Qxh5 48.Bxh5+ Kf8 49.Ng3 Kg7 50.Ke3 Kf8 51.Kd3 Kg7 52.Be8 Kh6 53.Bc6 Kg6 54.Bb7 Kf6 55.Kc3 1-0

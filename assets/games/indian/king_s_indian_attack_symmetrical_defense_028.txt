@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-8/VWY2fZWa/JgNlKirr"]
+[Date "2026.07.12"]
+[Round "8.10"]
+[White "Mierins, Emils Janis"]
+[Black "Ligotnis, Maksims"]
+[Result "1/2-1/2"]
+[WhiteElo "2213"]
+[BlackElo "2053"]
+[ECO "A05"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.c4 Nbd7 7.Nc3 Re8 8.b3 e5 9.Bb2 c6 10.Qc2 a6 11.Rad1 e4 12.Ne1 d5 13.f3 exf3 14.exf3 Nb6 15.c5 Bf5 16.Nd3 Nc4 17.Bc1 Nd7 18.Qf2 Na5 19.Na4 Bxd3 20.Rxd3 b6 21.cxb6 Nxb6 22.Nc5 Nd7 23.Nxd7 Qxd7 24.Bf4 Nb7 25.Rc1 Rac8 26.Rdd1 Nd6 27.Bf1 a5 28.g4 Nb5 29.a4 Nc7 30.Qd2 Ne6 31.Be3 Rb8 32.Qxa5 Rxb3 33.Qd2 Reb8 34.a5 R3b4 35.Qf2 Qa7 36.Rxc6 Qxa5 37.Rdc1 Qa7 38.Rc8+ Rxc8 39.Rxc8+ Nf8 40.Rd8 Bxd4 41.Bxd4 Qxd4 42.Qxd4 Rxd4 43.Kf2 Kg7 44.Ke3 Ne6 45.Rd6 Rd1 46.Be2 d4+ 47.Kf2 Rd2 48.Ke1 Rb2 49.h4 Kf6 50.Bc4 Ke7 51.Ra6 Rh2 52.Ra7+ Kf6 53.g5+ Ke5 54.Rxf7 Rh1+ 1/2-1/2

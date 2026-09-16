@@ -1,0 +1,14 @@
+[Event "Open: Eames, Robert S - Lishoy Gengis Paratazham, Dildarav"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/Bj8RRsjj"]
+[Date "2026.07.04"]
+[Round "1.7"]
+[White "Eames, Robert S"]
+[Black "Lishoy Gengis Paratazham, Dildarav"]
+[Result "1/2-1/2"]
+[WhiteElo "2141"]
+[BlackElo "2241"]
+[ECO "C13"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Nxf6+ Bxf6 7.Bxf6 Qxf6 8.Nf3 O-O 9.Qd3 Rd8 10.O-O-O c5 11.Qe4 cxd4 12.Bd3 Qh6+ 13.Kb1 Nc6 14.Rhe1 Bd7 15.h4 Ne7 16.Nxd4 Nd5 17.g3 Rab8 18.f4 g6 19.Bc4 Be8 20.Qe5 Rbc8 21.Bb3 Rc5 22.Ka1 b6 23.c4 Nc7 24.Qf6 Rc8 25.a3 Qg7 1/2-1/2

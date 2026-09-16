@@ -1,0 +1,15 @@
+[Event "Round 9: Oktem, Ege Tuna - Cankurt, Arda"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/yfnaNR4x"]
+[Date "2026.07.19"]
+[Round "9.8"]
+[White "Oktem, Ege Tuna"]
+[Black "Cankurt, Arda"]
+[Result "1-0"]
+[WhiteElo "2359"]
+[BlackElo "2079"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.Re1 a6 6.Bf1 Bc7 7.Nc3 Nge7 8.Nd5 d6 9.Nxc7+ Qxc7 10.c3 O-O 11.h3 b5 12.a4 Rb8 13.axb5 axb5 14.d4 c4 15.Be3 Bb7 16.d5 Na5 17.Nd2 f5 18.f3 f4 19.Bf2 Bc8 20.Qc2 Bd7 21.Ra2 Nb7 22.b3 cxb3 23.Nxb3 Ra8 24.Rea1 Ra4 25.c4 Rfa8 26.c5 dxc5 27.Nxc5 Nxc5 28.Rxa4 bxa4 29.Qxc5 Qxc5 30.Bxc5 Kf7 31.Ba3 Rc8 32.Rb1 Rc3 33.Rb7 Rxa3 34.Rxd7 Kf6 35.Bb5 Ra1+ 36.Kh2 a3 37.d6 Nc8 38.Rf7+ Kxf7 39.d7 a2 40.dxc8=Q Rh1+ 41.Kxh1 a1=Q+ 42.Kh2 Qe1 43.Qf5+ 1-0

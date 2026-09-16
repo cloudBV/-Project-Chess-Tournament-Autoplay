@@ -1,0 +1,15 @@
+[Event "Round 6: Karimova, Guldona - Mustu, Hatice Asli"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/53I6ATPK"]
+[Date "2026.07.02"]
+[Round "6.39"]
+[White "Karimova, Guldona"]
+[Black "Mustu, Hatice Asli"]
+[Result "1/2-1/2"]
+[WhiteElo "2244"]
+[BlackElo "2095"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.e5 Nxb5 6.Nxb5 Nd5 7.Ng5 f6 8.Ne4 a6 9.Nbc3 Nxc3 10.dxc3 d6 11.exd6 exd6 12.Bf4 Be6 13.Bxd6 Bxd6 14.Qxd6 Qxd6 15.Nxd6+ Ke7 16.O-O-O b6 17.Rhe1 Rhd8 18.Nf5+ Kf7 19.Rxd8 Rxd8 20.Nxg7 Bg4 21.f3 Bxf3 22.Nf5 Bxg2 23.Re7+ Kf8 24.Re6 Kf7 25.Re7+ Kf8 26.Rxh7 Rd5 27.Ne3 Rg5 28.b4 Be4 29.Rh4 f5 30.Nc4 Rg1+ 31.Kb2 Rg2 32.Nxb6 cxb4 33.cxb4 Rxc2+ 34.Kb3 Rf2 35.Kc4 Rxa2 36.Nd7+ Kg7 37.Nc5 Bc6 38.Kd4 Kg6 39.Nd3 Be4 40.Nc5 Bc6 41.Nd3 Be4 42.Nc5 1/2-1/2

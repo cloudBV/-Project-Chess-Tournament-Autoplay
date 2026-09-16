@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "10.3"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Rajlich, Vaclav"]
+[Result "1-0"]
+[WhiteElo "2255"]
+[BlackElo "2094"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 Ne7 6.Bb2 d6 7.e5 Nf5 8.exd6 Bxd6 9.d3 O-O 10.Nbd2 f6 11.g4 Nd4 12.Nxd4 cxd4 13.Bxd4 c5 14.Bc3 Bb7 15.f3 f5 16.Qe2 Qh4+ 17.Kd1 Rae8 18.Rg1 g6 19.Kc1 Qxh2 20.Rg2 Qh3 21.Kb2 fxg4 22.Rxg4 Bxf3 23.Nxf3 Qxg4 24.Rf1 Rf7 25.Qe3 Qf4 26.Qe2 Qg4 27.Qe3 e5 28.Nh2 Qe6 29.Rg1 Rf4 30.Nf3 h6 31.Nd2 Bf8 32.Ne4 Bg7 33.Nxc5 Qd5 34.Rxg6 Qf7 35.Rg2 Kh8 36.Ne4 Rf3 37.Qc5 Rf4 38.Nd6 Qe7 39.Rxg7 1-0

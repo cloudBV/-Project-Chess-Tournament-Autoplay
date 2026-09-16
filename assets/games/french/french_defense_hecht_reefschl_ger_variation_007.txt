@@ -1,0 +1,15 @@
+[Event "Round 5: Sarkisian, Arman - Boog, Ben"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-5/GNSlVflY/oIWSHA30"]
+[Date "2026.07.20"]
+[Round "5.19"]
+[White "Sarkisian, Arman"]
+[Black "Boog, Ben"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "2031"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Hecht-Reefschläger Variation"]
+
+1.e4 Nc6 2.Nc3 e6 3.d4 d5 4.Nf3 Bb4 5.e5 Nge7 6.a3 Bxc3+ 7.bxc3 h6 8.h4 Na5 9.Rh3 b6 10.a4 Bd7 11.Ba3 Bc6 12.Bd3 Qd7 13.Rg3 g6 14.Qb1 Nf5 15.Rg4 Bxa4 16.Rf4 Nc4 17.g4 Ng7 18.Rf6 h5 19.Ng5 hxg4 20.Rxf7 Qxf7 21.Nxf7 Kxf7 22.Qb4 Nf5 1-0

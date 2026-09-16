@@ -1,0 +1,15 @@
+[Event "Round 5: Kaldarova, Ayaulym - Yonal, Timur"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/UPd0jRlV"]
+[Date "2026.07.02"]
+[Round "5.27"]
+[White "Kaldarova, Ayaulym"]
+[Black "Yonal, Timur"]
+[Result "0-1"]
+[WhiteElo "2029"]
+[BlackElo "2171"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Be7 4.Nf3 Nc6 5.O-O O-O 6.Re1 d6 7.a4 Be6 8.Bxe6 fxe6 9.c3 Qd7 10.a5 a6 11.Nbd2 Kh8 12.Nc4 Rae8 13.Be3 Bd8 14.Qc2 Ne7 15.b4 Ng6 16.Rac1 Nh5 17.Qd1 Nhf4 18.Rc2 Qf7 19.d4 Nxg2 20.Kxg2 Qxf3+ 21.Qxf3 Nh4+ 22.Kh1 Nxf3 23.Rd1 exd4 24.cxd4 d5 25.Nd2 Nxd2 26.Rdxd2 dxe4 27.d5 exd5 28.Rxd5 Rf7 29.b5 axb5 30.Rxb5 c6 31.Rbc5 Kg8 32.a6 Bb6 33.axb7 Bxc5 34.Rxc5 Rxb7 35.Rxc6 Kf7 36.h4 Re6 37.Rc4 Rb5 38.Kh2 h6 39.Rc7+ Re7 40.Rc6 Rf5 41.Kg2 Re6 42.Rc7+ Kg8 43.Kh3 Rg6 44.Re7 Rf3+ 45.Kh2 Rg4 46.h5 Rf5 47.Kh3 Rg1 48.Kh2 Rd1 49.Rxe4 Rxh5+ 50.Kg2 Rd7 51.Rf4 Rf7 52.Rc4 Re5 53.Rc8+ Kh7 54.Rc6 Rfe7 55.Bf4 R5e6 56.Rc5 Rg6+ 57.Kh3 Rf6 58.Bg3 g5 59.Kg2 Ref7 60.Ra5 Rf5 61.Ra6 h5 62.Ra2 h4 63.Bd6 Kg6 64.Bb8 Kh5 65.Ba7 Rf3 66.Bd4 Rd3 67.Be5 Rd1 68.Rc2 Re7 69.Bh2 Rd3 70.Bb8 Re8 71.Rb2 Re4 72.Bc7 Rg4+ 73.Kh2 Rd1 74.Bb6 Rgg1 75.f3 Rh1+ 76.Kg2 Rb1 77.Ra2 h3+ 0-1

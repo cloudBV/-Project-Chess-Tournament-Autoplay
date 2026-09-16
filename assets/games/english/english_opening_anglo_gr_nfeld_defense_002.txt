@@ -1,0 +1,14 @@
+[Event "Round 9: Miezis, Normunds - Ivanov, Igor"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-9/oOGinc0i/1ESt6pSw"]
+[Date "2026.07.18"]
+[Round "9.7"]
+[White "Miezis, Normunds"]
+[Black "Ivanov, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2411"]
+[BlackElo "2205"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Grünfeld Defense"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 Nxc3 5.bxc3 e5 6.Bg2 Bc5 7.Nf3 Nc6 8.O-O O-O 9.d3 h6 10.Bb2 Re8 11.Qc2 Bf5 12.e4 Bg4 13.h3 Bxf3 14.Bxf3 Re6 15.Rad1 Rd6 16.Kg2 Qf6 17.Bg4 g5 18.f4 gxf4 19.gxf4 Qh4 20.Qe2 Rg6 21.Kh1 h5 22.Bf5 Rg7 23.fxe5 Ne7 24.d4 Nxf5 25.Rxf5 Qxh3+ 26.Qh2 Qe3 27.Rf4 Be7 28.Qf2 Qh3+ 29.Qh2 Qe3 30.Qf2 Qh3+ 1/2-1/2

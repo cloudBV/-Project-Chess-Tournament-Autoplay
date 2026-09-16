@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.6"]
+[White "Agdestein, Simen"]
+[Black "Haug, Havard"]
+[Result "0-1"]
+[WhiteElo "2525"]
+[BlackElo "2432"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.Qg4 Ne7 7.Nf3 O-O 8.b4 Bb6 9.Bb2 Nd7 10.Bd3 f5 11.Qh5 Qe8 12.Qxe8 Rxe8 13.O-O Bc7 14.Nbd2 b6 15.Nb3 a6 16.Rfe1 Bb7 17.h4 h6 18.h5 Kf7 19.Nbd4 Nf8 20.b5 a5 21.a4 g6 22.hxg6+ Nfxg6 23.g3 Rac8 24.Kg2 Bb8 25.Re2 Rc4 26.Kf1 Rec8 27.Ke1 Rb4 28.Ra2 Nf8 29.c3 Rxb2 30.Raxb2 Rxc3 31.Kd2 Ra3 32.Bc2 Nd7 33.Nxe6 Rxf3 34.Nd8+ Ke8 35.Nxb7 Nxe5 36.Rb3 Rxb3 37.Bxb3 Kd7 38.f4 N5g6 39.Ke3 Kc8 40.Nxa5 bxa5 41.Rh2 Kd7 42.Rxh6 Ba7+ 43.Kf3 Ke6 44.Bc2 Kf7 45.g4 Kg7 46.Rh1 fxg4+ 47.Kxg4 Nf8 48.Bf5 Bd4 49.Rc1 Bb6 50.Bc8 Kf7 51.f5 Kf6 52.Rc2 d4 53.Bb7 d3 54.Rh2 Nxf5 55.Be4 Ne3+ 56.Kf3 Ne6 57.Bxd3 Ke5 58.Rh8 Nd5 59.Rh4 Nd4+ 60.Kg4 Nc3 61.Rh5+ Kd6 62.Bc4 Nxa4 63.Rd5+ Kc7 64.Kf4 Nb2 65.Ba2 Nd3+ 66.Ke4 Nb4 67.Rxd4 Bxd4 68.Kxd4 Nxa2 69.Kc5 Kb7 70.b6 Nb4 71.Kd4 0-1

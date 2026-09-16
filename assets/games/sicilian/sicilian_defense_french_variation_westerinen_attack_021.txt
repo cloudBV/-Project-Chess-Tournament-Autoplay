@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "6.3"]
+[White "Rekuc, Patryk"]
+[Black "Sawicki, Dorian"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2059"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 a6 4.Bb2 Nc6 5.g3 b5 6.Bg2 Bb7 7.O-O Qc7 8.Re1 d6 9.d4 cxd4 10.Nxd4 Nf6 11.Nd2 Be7 12.c4 b4 13.Qe2 O-O 14.Rad1 Nd7 15.N2f3 Bf6 16.Qd2 Nce5 17.Qxb4 Nxf3+ 18.Bxf3 Ne5 19.Bg2 Rfd8 20.Qd2 Rab8 21.Qc1 Ba8 22.Nc2 Be7 23.Nd4 Bf6 24.Re2 Qa5 25.Qa1 Qb4 26.Red2 h6 27.Nc2 Qb6 28.Ne3 Be7 29.Bxe5 dxe5 30.Qxe5 a5 31.Rd7 Bf6 32.Qh5 Rxd7 33.Rxd7 Rb7 34.Qxf7+ 1-0

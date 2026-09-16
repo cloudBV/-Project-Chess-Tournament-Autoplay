@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "10.6"]
+[White "Jasiulewicz, Dawid"]
+[Black "Zielonka, Adam"]
+[Result "1-0"]
+[WhiteElo "2085"]
+[BlackElo "2180"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 d6 9.Rc1 Nd7 10.d5 Nxd2 11.Nxd2 e5 12.e4 Bg5 13.Qc2 Bxd2 14.Qxd2 a5 15.b3 Nc5 16.f4 exf4 17.gxf4 f6 18.Nb5 Qd7 19.Nd4 Rae8 20.Rce1 Bc8 21.f5 Qe7 22.Kh1 Kh8 23.Ne6 Bxe6 24.fxe6 Rb8 25.Re2 b5 26.Qxa5 b4 27.Rd2 Rb6 28.e5 fxe5 29.Rdf2 Rxf2 30.Qa8+ 1-0

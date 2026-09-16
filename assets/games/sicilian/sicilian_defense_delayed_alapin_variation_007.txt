@@ -1,0 +1,15 @@
+[Event "Round 1: Jiang, Andrew - Moor, Nathaniel Philip"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-1/kGTUmcu3/ySFjKCVh"]
+[Date "2026.07.07"]
+[Round "1.4"]
+[White "Jiang, Andrew"]
+[Black "Moor, Nathaniel Philip"]
+[Result "0-1"]
+[WhiteElo "2250"]
+[BlackElo "2205"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 Nc6 7.Be3 cxd4 8.Nb5 Qd8 9.Nbxd4 Nxd4 10.Bxd4 Be7 11.Bd3 Bd7 12.Ne5 Qc7 13.O-O O-O 14.Qf3 Rfd8 15.g4 Be8 16.g5 Nd7 17.Nxf7 Bxf7 18.Bxh7+ Kxh7 19.Qxf7 e5 20.g6+ Kh6 21.Be3+ Bg5 22.Bxg5+ Kxg5 23.Rad1 Qc6 24.f4+ Kh6 25.Rd3 Qxg6+ 26.Qxg6+ Kxg6 27.Rfd1 exf4 28.Rd6+ Kf5 29.Rxd7 Rxd7 30.Rxd7 g5 31.Rxb7 Rd8 32.h3 Rd1+ 33.Kf2 Rd2+ 34.Kf3 Rh2 35.Rb5+ Kg6 36.a4 Rxh3+ 37.Kg2 g4 38.Rb8 f3+ 39.Kf2 Rh2+ 40.Kf1 Kf5 41.Kg1 g3 0-1

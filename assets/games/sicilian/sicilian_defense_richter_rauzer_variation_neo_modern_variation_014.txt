@@ -1,0 +1,15 @@
+[Event "Round 2: Talibov, Shiroghlan - Yildiz, Talat"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/ez0d4UOR"]
+[Date "2026.07.14"]
+[Round "2.3"]
+[White "Talibov, Shiroghlan"]
+[Black "Yildiz, Talat"]
+[Result "1-0"]
+[WhiteElo "2471"]
+[BlackElo "2268"]
+[ECO "B67"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Nxd4 10.Qxd4 Be7 11.f3 Qc7 12.h4 b5 13.Qd2 b4 14.Ne2 a5 15.c4 bxc3 16.Nxc3 Qb7 17.a4 Bc6 18.Bb5 O-O 19.Bxc6 Qxc6 20.Nb5 Qc4 21.Qd4 Rfc8 22.Qxc4 Rxc4 23.b3 Rc6 24.Rc1 Rxc1+ 25.Rxc1 h6 26.Be3 Kf8 27.g4 d5 28.g5 hxg5 29.hxg5 Nh7 30.exd5 Bxg5 31.f4 Bd8 32.dxe6 fxe6 33.Rc6 Nf6 34.Rxe6 Nd5 35.Bd2 Nc7 36.Re5 Nxb5 37.Rxb5 Bc7 38.Kc2 g6 39.Rb7 Bd8 40.Kd3 Ra6 41.Ke4 Ke8 42.Be3 Re6+ 43.Kd3 Rf6 44.Kc4 Rc6+ 45.Kd5 Rf6 46.Ra7 Rf5+ 47.Ke4 Rh5 48.Rg7 Rh6 49.Bc5 Rh3 50.Ke5 Rh6 51.Bd6 Bb6 52.Re7+ Kd8 53.Rb7 Be3 54.Kd5 Rh2 55.Ke6 Rc2 56.Rb5 Bd2 57.Rg5 Rc6 58.Rxg6 Kc8 59.f5 Kb7 60.Kd5 Rc3 61.Rg3 1-0

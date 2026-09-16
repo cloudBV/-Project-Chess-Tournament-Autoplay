@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.10"]
+[White "Futyma, Dawid"]
+[Black "Niezhentsev, Kyrylo"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2255"]
+[ECO "E20"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 d6 6.e4 b5 7.Ne2 bxc4 8.Nf4 e5 9.Ne2 Nbd7 10.Ng3 Nb6 11.Be2 O-O 12.O-O Bxc3 13.bxc3 Re8 14.Bg5 h6 15.Bxf6 Qxf6 16.Bxc4 Nxc4 17.Qa4 Qd8 18.Qxc4 Qa5 19.Rfb1 Ba6 20.Qb3 Bd3 21.Rb2 Rab8 22.Qxb8 Rxb8 23.Rxb8+ Kh7 24.Rb3 c4 25.Rb4 Qa3 26.Rb7 Qxc3 27.Rd1 Qd4+ 28.Kh1 c3 29.Rc7 Qb4 30.Nf1 c2 31.Rxd3 Qb1 32.Kg1 Qb6+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 9: Yeganegi, Barad - David, Alberto"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/ZUqmGFFk"]
+[Date "2026.07.05"]
+[Round "9.4"]
+[White "Yeganegi, Barad"]
+[Black "David, Alberto"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2457"]
+[ECO "E49"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 1/2-1/2

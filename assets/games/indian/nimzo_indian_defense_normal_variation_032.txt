@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.18"]
+[Round "15.8"]
+[White "Northphrax 8.0.1_bdded80"]
+[Black "Weiss 2.1-dev-95b0951"]
+[Result "1/2-1/2"]
+[WhiteElo "3248"]
+[BlackElo "3470"]
+[ECO "E47"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 Nc6 7.O-O Bxc3 8.bxc3 b6 9.e4 d5 10.Bg5 dxc4 11.Bxc4 Ne7 12.Ne5 cxd4 13.cxd4 Bb7 14.f3 h6 15.Bh4 Qd6 16.Bg3 Qd8 17.Bh4 Qd6 18.Bg3 Qd8 19.Bb3 Nc6 20.Nxc6 Bxc6 21.Bh4 Rc8 22.a4 Bb7 23.Qd3 Qc7 24.Rfb1 Nh5 25.a5 Nf4 26.Qd2 g5 27.Be1 Rfd8 28.Kh1 Rd6 29.g3 Ng6 30.Qe3 bxa5 31.Bxa5 Qd7 32.Bc3 Qc7 33.Ba5 Qd7 34.Bc3 Qc7 35.Bd2 Ra6 36.Ba4 Bc6 37.Rc1 Qd8 38.Bd1 Rxa1 39.Rxa1 Qb6 40.Rc1 Bb7 41.Rxc8+ Bxc8 42.d5 exd5 43.Qxb6 axb6 44.exd5 Kf8 45.Kg1 Ne7 46.Bb3 Bb7 47.d6 Nf5 48.Bb4 Ke8 49.Bxf7+ Kd7 50.Bh5 Nxd6 51.Bg4+ Kc6 52.Be6 Bc8 53.Bb3 g4 54.Kf2 h5 55.fxg4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-9/YQmBQu1P/KugYr08i"]
+[Date "2026.07.19"]
+[Round "9.5"]
+[White "Veiga, Jose Francisco R P Neves"]
+[Black "Ivanchuk, Vasyl"]
+[Result "0-1"]
+[WhiteElo "2417"]
+[BlackElo "2628"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d3 O-O 9.Be3 Be6 10.Qd2 Qd7 11.Ne4 Rfd8 12.Rfc1 f6 13.Nc5 Bxc5 14.Rxc5 Nd5 15.Rcc1 a5 16.Qe1 Nxe3 17.fxe3 Bd5 18.e4 Be6 19.Qc3 Ra6 20.b3 Rb6 21.Rab1 Qd6 22.Qc5 Qxc5+ 23.Rxc5 a4 24.Nd2 axb3 25.axb3 Nd4 26.Bf1 c6 27.e3 Nb5 28.Ra1 Nc7 29.Rc3 Kf8 30.Ra4 Ra6 31.Be2 Rda8 32.Bd1 b5 33.Rxa6 Rxa6 34.Rc1 Ke7 35.d4 Ra2 36.Nf3 Kd6 37.dxe5+ fxe5 38.Rc3 Na6 39.Rd3+ Ke7 40.Kf1 Nb4 41.Rc3 Ra1 42.Ke1 Bg4 0-1

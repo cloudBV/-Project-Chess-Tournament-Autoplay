@@ -1,0 +1,14 @@
+[Event "Round 8: Berling, Egil - Bende, Tobias"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-8/cGGrXKyN/phoMzri8"]
+[Date "2026.07.03"]
+[Round "8.13"]
+[White "Berling, Egil"]
+[Black "Bende, Tobias"]
+[Result "1/2-1/2"]
+[WhiteElo "2121"]
+[BlackElo "2137"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.O-O c6 5.h3 Bh5 6.d3 e5 7.c4 d4 8.e3 Bc5 9.exd4 Bxf3 10.Qxf3 Bxd4 11.Na3 a5 12.Nc2 Bc5 13.b3 Ngf6 14.d4 Bd6 15.Bb2 O-O 16.Rad1 Qc7 17.dxe5 Bxe5 18.Bxe5 Qxe5 19.Nd4 Qc5 20.Qf4 Qe5 21.Qf3 Qc5 22.Qf4 Qe5 1/2-1/2

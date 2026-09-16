@@ -1,0 +1,14 @@
+[Event "Round 4: Kraft, Wolfgang - Babrikowski, Peter, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-4/vYH9OtL7/jroxAlgw"]
+[Date "2026.07.20"]
+[Round "4.10"]
+[White "Kraft, Wolfgang"]
+[Black "Babrikowski, Peter, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2042"]
+[BlackElo "2156"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 d6 4.Bb2 Nf6 5.e5 dxe5 6.Nxe5 Be7 7.f4 Qc7 8.Bd3 Nc6 9.O-O O-O 10.Na3 Nb4 11.Be2 a6 12.Nac4 Nbd5 13.Qe1 1/2-1/2

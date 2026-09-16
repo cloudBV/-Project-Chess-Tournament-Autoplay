@@ -1,0 +1,15 @@
+[Event "Round 4: Gholami, Aryan - Isilak, Enes"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/gpiMTdpE"]
+[Date "2026.07.01"]
+[Round "4.16"]
+[White "Gholami, Aryan"]
+[Black "Isilak, Enes"]
+[Result "1-0"]
+[WhiteElo "2462"]
+[BlackElo "2132"]
+[ECO "A46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 e6 2.Nf3 Nf6 3.Bf4 c5 4.e3 cxd4 5.exd4 b6 6.Nbd2 Bb7 7.h3 Be7 8.Bd3 O-O 9.O-O d6 10.Bh2 Nbd7 11.Re1 a6 12.a4 Qc7 13.c4 Qd8 14.a5 d5 15.axb6 dxc4 16.Bc7 Qc8 17.Nxc4 Nd5 18.Nd6 Bxd6 19.Bxd6 Re8 20.Ng5 g6 21.Qf3 N5f6 22.Qg3 Nh5 23.Qh2 Qd8 24.Ne4 Qxb6 25.Nc5 Bc6 26.b4 Nxc5 27.bxc5 Qb3 28.Be2 Nf6 29.Qf4 Nd7 30.Bxa6 Qd5 31.f3 Ra7 32.Bf1 Rea8 33.Rxa7 Rxa7 34.Qe4 Qxe4 35.fxe4 Nf6 36.e5 Nd5 37.Rb1 h5 38.Be2 Kg7 39.Bf3 Ra4 40.Rd1 Ra2 41.h4 Ra4 42.Rd2 Ra1+ 43.Kf2 Ra4 44.Kg3 Ra3 45.Kf2 Ra4 46.g3 Rc4 47.Bg2 Ra4 48.Bxd5 Bxd5 49.Be7 Ra3 50.Rb2 Rf3+ 51.Ke2 Rxg3 52.Bf6+ Kh7 53.Rb8 g5 54.Bxg5 Kg6 55.Rc8 Rc3 56.Kd2 Rc4 57.Kd3 Kf5 58.Rf8 Kg6 59.Rh8 Ra4 60.Rh6+ Kf5 61.Rf6+ Kg4 62.Rxf7 Ra3+ 63.Kc2 Ra4 64.Kc3 Rc4+ 65.Kd3 Ra4 66.Rf8 Ra3+ 67.Kc2 Ra2+ 68.Kc3 Ra4 69.Rf1 Rc4+ 70.Kd3 Ra4 71.Rf4+ Kg3 72.Rf8 Kg4 73.Rd8 Kf5 74.Rd6 Ra3+ 75.Kc2 Ke4 76.Bc1 Ra4 77.Bb2 Rc4+ 78.Bc3 Ra4 79.Rd8 Ra7 80.Rc8 Ra6 81.Rh8 Ra7 82.Rxh5 Rg7 83.Rg5 Rh7 84.h5 Ke3 85.Bb2 Bf3 86.Kc3 Ke4 87.Rg6 Rxh5 88.Rxe6 Rh3 89.Kb4 Rh8 90.Rb6 Kd5 91.Rd6+ Ke4 92.e6 Kf5 93.d5 Rb8+ 94.Rb6 Re8 95.Kc4 Rd8 96.e7 Re8 97.Bf6 Be2+ 98.Kd4 Bf3 99.Rd6 Bh5 100.c6 Bf7 101.Kc5 1-0

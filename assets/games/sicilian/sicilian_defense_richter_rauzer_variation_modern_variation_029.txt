@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-9/BACu8Amk/dR5N04dP"]
+[Date "2026.07.24"]
+[Round "9.6"]
+[White "Cortijo Tocino, David"]
+[Black "Alvarez Lee, Felix"]
+[Result "1/2-1/2"]
+[WhiteElo "2006"]
+[BlackElo "2116"]
+[ECO "B60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Nxc6 Bxc6 8.Bxf6 gxf6 9.Bb5 Bxb5 10.Nxb5 Qb6 11.Qd3 Rc8 12.O-O Rg8 13.Rfd1 Rc5 14.Nd4 Rcg5 15.g3 e6 16.a4 h5 17.Ra3 a6 18.Rb3 Qc7 19.Qe2 h4 20.Rdd3 Be7 21.Rdc3 Rc5 22.Rxc5 Qxc5 23.Qd3 hxg3 24.hxg3 Rh8 25.Rxb7 Qh5 26.Qf3 Qh6 27.Ne2 Qd2 28.Kg2 Qxc2 29.Nd4 Qc8 30.Qb3 Bd8 31.Rb8 Qc7 32.Qb7 Qxb7 33.Rxb7 Rh5 34.b4 d5 35.f3 Be7 36.Nc6 Bd6 37.Ra7 Rg5 38.Rxa6 Rxg3+ 39.Kf2 dxe4 40.fxe4 Rb3 41.b5 Bc5+ 42.Kg2 Kd7 43.Ra8 Kc7 44.Rb8 Re3 45.a5 Rxe4 46.a6 Ra4 47.Rb7+ Kd6 48.Ne7 Ke5 49.Nc8 Kf4 50.Rd7 Ra1 51.a7 Ra2+ 52.Kf1 Kf3 53.Ke1 Be3 54.b6 Ra1+ 55.Rd1 Bf2+ 56.Kd2 Ra2+ 57.Kd3 Bxb6 1/2-1/2

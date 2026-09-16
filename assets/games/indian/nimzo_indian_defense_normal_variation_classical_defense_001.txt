@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.5"]
+[White "Matviishen, Viktor"]
+[Black "Patel, Maahir M"]
+[Result "1-0"]
+[WhiteElo "2549"]
+[BlackElo "2095"]
+[ECO "E48"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 dxc4 7.Bxc4 Bd6 8.Nf3 Nc6 9.O-O e5 10.h3 Bf5 11.dxe5 Nxe5 12.Nxe5 Bxe5 13.Qf3 Qc8 14.Rd1 c6 15.Bd2 Bg6 16.Qe2 Re8 17.Rac1 Bh5 18.g4 Bg6 19.f3 Bc7 20.Qf2 h5 21.Ne2 hxg4 22.hxg4 Nxg4 23.fxg4 Re4 24.Qf3 Rxg4+ 25.Kf2 Bh5 26.Rh1 Rf4 27.Qxf4 Bxf4 28.Nxf4 Bg4 29.Rh2 1-0

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/WC0zkuM9"]
+[Date "2026.07.03"]
+[Round "7.23"]
+[White "Gbiorczyk, Mikolaj"]
+[Black "Lesik, Sebastian"]
+[Result "0-1"]
+[WhiteElo "2170"]
+[BlackElo "2021"]
+[ECO "B41"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.a3 b6 8.Be3 Bb7 9.f3 d6 10.Be2 Nbd7 11.Rc1 Be7 12.O-O O-O 13.Qe1 Rac8 14.Qf2 Rfe8 15.Rfd1 Qb8 16.g4 h6 17.h4 Ne5 18.g5 hxg5 19.hxg5 Nfd7 20.b3 Ng6 21.f4 e5 22.f5 exd4 23.fxg6 fxg6 24.Rxd4 Ne5 25.Nd5 Bf8 26.Rf1 Bxd5 27.exd5 Rc7 28.Rf4 Be7 29.Qg3 Rcc8 30.Rh4 Rf8 31.Qh3 Rxf1+ 32.Bxf1 Rf8 33.Qe6+ Rf7 34.Bg2 Qd8 35.Re4 Bxg5 36.Rxe5 dxe5 37.Bxb6 Qf6 38.Qxf6 Rxf6 39.Bc7 Be3+ 40.Kh2 Bf4+ 41.Kh3 Kf7 42.Bd8 Rd6 43.Ba5 g5 44.Kg4 Rh6 45.Kf3 g4+ 46.Kxg4 Rg6+ 47.Kf3 Rg3+ 48.Kf2 Rxb3 49.d6 Ke6 50.Bb4 Be3+ 51.Ke2 a5 52.Bh3+ Kf7 53.Bxa5 Bb6 54.Bxb6 Rxb6 55.Bd7 Rxd6 56.Bb5 Ke7 57.Ke3 Rd4 58.a4 Kd6 59.a5 Kc5 0-1

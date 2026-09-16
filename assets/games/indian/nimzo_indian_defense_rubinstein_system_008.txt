@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-7/vX7FfpiI/pyU3S5cG"]
+[Date "2026.07.17"]
+[Round "7.5"]
+[White "Del Rio De Angelis, Salvador Gabriel"]
+[Black "Ivanchuk, Vasyl"]
+[Result "0-1"]
+[WhiteElo "2432"]
+[BlackElo "2628"]
+[ECO "E41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Qxd5 9.O-O Qd7 10.Bc2 Be7 11.a3 b6 12.Qd3 Bb7 13.Be3 O-O 14.Rad1 Rfd8 15.Bc1 Rac8 16.Qh3 g6 17.Rfe1 Qe8 18.Bb3 Na5 19.Ba2 Nc4 20.Nf4 Qd7 21.Qg3 Bd6 22.Qg5 Be7 23.Qg3 Bf8 24.h4 Bg7 25.h5 Re8 26.hxg6 hxg6 27.Bb1 Nd6 28.Qh3 Nf5 29.Be3 Nxe3 30.fxe3 e5 31.Qxd7 Nxd7 32.dxe5 Nxe5 33.Nb5 Nc4 34.Ba2 a6 35.Nd6 Nxd6 36.Rxd6 Be4 37.Rf1 Rc7 38.Rxb6 Bh6 0-1

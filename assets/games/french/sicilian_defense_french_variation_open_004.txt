@@ -1,0 +1,14 @@
+[Event "Round 8: Vayanos,George Marwan - Merkos, Thomas"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-8/oct1YwP0/hOMIYt1v"]
+[Date "2026.07.16"]
+[Round "8.4"]
+[White "Vayanos,George Marwan"]
+[Black "Merkos, Thomas"]
+[Result "0-1"]
+[WhiteElo "2123"]
+[BlackElo "2089"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Open"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Qxd4 Nc6 5.Qe3 Qc7 6.Nc3 a6 7.b3 Nb4 8.Qd2 Nf6 9.Bd3 b5 10.Bb2 Bb7 11.O-O Rc8 12.Rfe1 Be7 13.Bf1 Nxc2 14.Qxc2 b4 15.Bc4 bxc3 16.Qxc3 Bxe4 17.Ng5 Bd5 18.Qh3 Bxc4 19.bxc4 Qf4 20.Nf3 O-O 21.Rad1 Rxc4 22.Bxf6 Bxf6 23.Rxd7 Rfc8 24.Qh5 g6 0-1

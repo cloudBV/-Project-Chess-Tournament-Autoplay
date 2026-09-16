@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-9-game-2/mycGKicE/nFhhNfzl"]
+[Date "2026.07.06"]
+[Round "18.1"]
+[White "Diachek, Andrii"]
+[Black "Radzimski, Antoni"]
+[Result "1/2-1/2"]
+[WhiteElo "2350"]
+[BlackElo "2213"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 Nc6 7.d3 h6 8.Rb1 a5 9.b3 e5 10.e4 Bg4 11.h3 Bxf3 12.Bxf3 Nd7 13.Bg2 Nc5 14.Be3 Ne6 15.Ne2 f5 16.exf5 gxf5 17.f4 Qe7 18.Kh2 Rae8 19.Nc3 exf4 20.Nd5 fxg3+ 21.Kxg3 Be5+ 22.Kf2 Qh4+ 23.Kg1 Qg3 24.Rf3 Qh4 25.Bf2 Bd4 26.Ne3 Bxe3 27.Rxe3 Qf6 28.Kh1 Kh7 29.Qd2 f4 30.Be4+ Kh8 31.Ree1 Ncd4 32.Rg1 Ng5 33.Bh4 Re5 34.Qf2 c5 35.Rg4 Qe6 36.Bxg5 Rxg5 37.Rbg1 Qf6 38.Qh4 Rxg4 39.Qxg4 Ne6 40.Rf1 b6 41.Bd5 Nd4 42.Be4 f3 43.Qd7 Qg7 44.Qxg7+ Kxg7 45.Kg1 Rf4 46.Kf2 Kf6 47.Rg1 Rh4 48.Rg6+ Ke7 49.Rg7+ Kf6 50.Rg6+ Ke5 51.Kg3 f2 52.Bg2 Nf5+ 53.Kxf2 Rf4+ 54.Ke2 Kd4 55.Be4 Kc3 56.Bxf5 Rxf5 57.Rxh6 Re5+ 58.Kf3 d5 59.cxd5 Rxd5 60.Rxb6 Rxd3+ 61.Kg4 Rd4+ 62.Kg5 Rd5+ 63.Kg6 Kb2 64.h4 Kxa2 65.h5 Rd1 66.h6 Rg1+ 67.Kf7 Rf1+ 68.Kg7 Rg1+ 69.Rg6 Rh1 70.Rg3 Ka3 71.Rc3 Kb4 72.Rg3 c4 73.bxc4 Kxc4 74.h7 a4 75.h8=Q Rxh8 76.Kxh8 Kb4 77.Rg4+ Kb3 78.Rg3+ Kb2 79.Rf3 a3 80.Rxa3 1/2-1/2

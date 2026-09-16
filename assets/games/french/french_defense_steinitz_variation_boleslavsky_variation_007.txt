@@ -1,0 +1,15 @@
+[Event "Round 8: Aishwin Daniel - Toncheva, Nadya"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-8/pzqS4f9A/G4falo73"]
+[Date "2026.07.01"]
+[Round "8.9"]
+[White "Aishwin Daniel"]
+[Black "Toncheva, Nadya"]
+[Result "0-1"]
+[WhiteElo "2222"]
+[BlackElo "2347"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Qd2 a6 9.dxc5 Nxc5 10.a3 b5 11.Qf2 Nd7 12.Bd3 b4 13.axb4 Nxb4 14.O-O O-O 15.Nb5 Bb7 16.Nbd4 Nc5 17.Be2 Qc7 18.c3 Nbd3 19.Bxd3 Nxd3 20.Qc2 Nc5 21.Nb3 Ne4 22.Nbd2 Nxd2 23.Qxd2 a5 24.Qf2 a4 25.Bb6 Qc4 26.Bd4 Ba6 27.Nd2 Qc6 28.Rfd1 Rfb8 29.Nf1 Rb3 30.Ne3 Rab8 31.Rd2 a3 32.bxa3 Bxa3 33.Nd1 Bf8 34.h3 g6 35.Kh2 h5 36.Ne3 Rb1 37.Rxb1 Rxb1 38.Rb2 Rxb2 39.Qxb2 Bh6 40.Qf2 Bd3 41.Qh4 Qd7 42.Qf6 Bf8 43.Qh4 Qe7 44.Qxe7 Bxe7 45.g4 Kf8 46.Kg3 Ke8 47.gxh5 gxh5 48.f5 Bg5 49.fxe6 fxe6 50.Ng2 Bf5 51.Be3 Bd8 52.h4 Kd7 53.Bd4 Kc6 54.Nf4 Bg4 55.Ng2 Kb5 56.Ne3 Be2 57.Kf2 Bd3 58.Kg3 Be4 59.Kh3 Bd3 60.Kg3 Ka4 61.Ng2 Be2 62.Nf4 Bg4 63.Nd3 Kb3 64.Nc5+ Kc4 65.Nb7 Be7 66.Nd6+ Kd3 67.Bc5 Bf8 68.Bd4 Bh6 69.Nb5 Bd2 70.Kf2 Bf5 71.Nd6 Bh3 72.Kg3 Bg4 73.Ne8 Ke2 74.Kg2 Be1 75.Nf6 Bxh4 76.Ne8 Be1 77.Nf6 Kd3 78.Bc5 Bxc3 79.Bd6 Be1 80.Kf1 Bg3 81.Kg2 Bf4 82.Bc7 Ke2 83.Bd6 Bf3+ 84.Kh3 d4 85.Kh4 d3 86.Bb4 Bxe5 87.Nd7 Bd4 88.Nf6 Be5 89.Nd7 Bd4 0-1

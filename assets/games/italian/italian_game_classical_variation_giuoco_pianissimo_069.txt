@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-9/aPBxlkPe/n4uP0NWv"]
+[Date "2026.07.09"]
+[Round "9.1"]
+[White "Bochnicka, Vladimir"]
+[Black "Kalisky, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2355"]
+[BlackElo "2179"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 O-O 7.O-O a5 8.h3 Ba7 9.Re1 Be6 10.Bb5 Ne7 11.Nf1 Ng6 12.Ng3 h6 13.Ba4 c6 14.Bc2 Qc7 15.d4 Rfe8 16.Be3 Rad8 17.Qc1 d5 18.Nxe5 Nxe5 19.dxe5 Bxe3 20.Qxe3 Qxe5 21.f4 Qc7 22.e5 Nh7 23.Qd3 Nf8 24.Nh5 Kh8 25.Qg3 g6 26.Nf6 Qb6+ 27.Kh2 Qxb2 28.Qh4 h5 29.Qg5 1-0

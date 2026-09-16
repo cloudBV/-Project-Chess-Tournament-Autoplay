@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.11"]
+[Round "8.3"]
+[White "Terbe, Zsuzsanna"]
+[Black "Nomin-Erdene, Davaademberel"]
+[Result "1/2-1/2"]
+[WhiteElo "2192"]
+[BlackElo "2320"]
+[ECO "A50"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.d5 e6 5.a3 Bd6 6.Nf3 O-O 7.g3 Na6 8.b4 exd5 9.cxd5 c6 10.Bg2 cxd5 11.O-O Rc8 12.Bb2 Nc7 13.Qb3 Ne4 14.Rfd1 Nxc3 15.Qxc3 Ne6 16.Qd3 Be7 17.Ne5 Nc7 18.Ng4 Bc6 19.Ne3 Bf6 20.Bxf6 Qxf6 21.Nxd5 Nxd5 22.Bxd5 Bxd5 23.Qxd5 Rc2 24.Ra2 Rxa2 25.Qxa2 Rd8 26.Qb3 h6 27.Rd5 Qe6 28.Qf3 Rc8 29.Kg2 Rc2 30.e4 Rc4 31.e5 Qc6 32.Rd3 Qxf3+ 33.Kxf3 Rc7 34.Ke4 Kf8 35.f4 Ke7 36.g4 Rc4+ 37.Rd4 Rc2 38.h3 Re2+ 39.Kf3 Rh2 40.Kg3 Ra2 41.Rd3 Ra1 42.Kf3 Re1 43.Kf2 Rh1 44.Kg2 Rc1 45.Kf3 Ke6 46.Rd6+ Ke7 47.Rd3 1/2-1/2

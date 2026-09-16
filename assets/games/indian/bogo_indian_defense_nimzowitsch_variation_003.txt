@@ -1,0 +1,15 @@
+[Event "Round 9: Martinez Ramirez, Lennis - Petriashvili, Nikoloz"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-9/bSIGoQdg/j0QMYXWE"]
+[Date "2026.07.03"]
+[Round "9.3"]
+[White "Martinez Ramirez, Lennis"]
+[Black "Petriashvili, Nikoloz"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2510"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.Qc2 Bxd2+ 6.Nbxd2 d6 7.e3 e5 8.Qc3 e4 9.Ng1 c5 10.Ne2 O-O 11.b4 b6 12.h3 cxb4 13.Qxb4 Nc6 14.Qb2 Na5 15.Nc3 Ba6 16.Rc1 Rac8 17.Qb4 Qe6 18.Be2 d5 19.c5 Nc6 20.Qa4 Bxe2 21.Nxe2 bxc5 22.Rxc5 Ne5 23.dxe5 Rxc5 24.exf6 Qxf6 25.Nb3 Rc6 26.Nbd4 Ra6 27.Qc2 Qd6 28.O-O Qa3 29.Ra1 Rb8 30.Nf4 Qb2 31.Qxb2 Rxb2 32.a3 Rab6 33.Kh2 Rb1 34.Rxb1 Rxb1 35.Nc6 Rb2 36.Nxa7 d4 37.exd4 Rxf2 38.Nd5 f5 39.Kg1 Ra2 40.Ne7+ Kf7 41.Nxf5 Ke6 42.Nxg7+ Kf6 43.Ne8+ Kf5 44.Nb5 Kf4 45.Nf6 Rc2 46.Nc3 e3 47.Nfd5+ Kg5 48.g3 Kg6 49.Nf4+ Kf5 50.Nfe2 h5 51.Kg2 h4 52.gxh4 Rb2 53.Kf3 Rb8 54.Kxe3 Rh8 55.Ng3+ Ke6 56.h5 Ra8 57.a4 Rc8 58.Nge2 Kf5 59.Kd3 Kg5 60.d5 Kxh5 61.d6 Kg5 62.Kd4 Kf6 63.Kd5 Ra8 64.Nd4 Kf7 65.Nc6 1-0

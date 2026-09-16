@@ -1,0 +1,14 @@
+[Event "Round 1: Bucher, Dominic - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/hiNa9Yqp"]
+[Date "2026.07.13"]
+[Round "1.8"]
+[White "Bucher, Dominic"]
+[Black "Alexakis, Dimitris"]
+[Result "0-1"]
+[WhiteElo "2078"]
+[BlackElo "2525"]
+[ECO "B21"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation"]
+
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O Nf6 8.Qe2 a6 9.Rd1 Qc7 10.Be3 Be7 11.Rac1 O-O 12.h3 Nd7 13.Nd4 Bf6 14.Bb3 Nc5 15.Ba4 Nxa4 16.Nxa4 Bxd4 17.Kf1 0-1

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-1/YvAgvQ0v/zrb1xQj1"]
+[Date "2026.07.13"]
+[Round "1.7"]
+[White "Grieve, Harry"]
+[Black "Iturrizaga Bonelli, Eduardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2587"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h6 10.O-O Nd7 11.Ng3 Nf8 12.f4 b5 13.Qf2 Be6 14.b3 Qc7 15.Bb2 a5 16.c4 bxc4 17.bxc4 Rab8 18.Bc3 Bb4 19.Bb2 Bd6 20.Bc3 Bb4 21.Bb2 Bd6 1/2-1/2

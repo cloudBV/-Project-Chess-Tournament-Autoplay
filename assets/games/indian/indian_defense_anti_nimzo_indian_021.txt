@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.6"]
+[White "Esbensen, Arnt"]
+[Black "Bjerke, Silje"]
+[Result "1-0"]
+[WhiteElo "2133"]
+[BlackElo "2147"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 c5 4.g3 cxd4 5.Nxd4 e5 6.Nb5 d6 7.Bg2 a6 8.N5c3 Be7 9.O-O h6 10.b3 O-O 11.Bb2 Qc7 12.Nd2 Bd7 13.Nde4 Bc6 14.Nxf6+ Bxf6 15.Nd5 Bxd5 16.Qxd5 Nc6 17.Rfd1 Rfd8 18.Rac1 Rab8 19.Ba3 Be7 20.e3 a5 21.Rd2 Qb6 22.Qb5 Qc7 23.Rcd1 Na7 24.Qd5 b5 25.Rc1 b4 26.Bb2 Nc8 27.Rcd1 Bf6 28.Qc6 Qxc6 29.Bxc6 Ne7 30.Bg2 Nc8 31.c5 Rb5 32.cxd6 Rc5 33.Be4 g6 34.d7 Nb6 35.Rd6 Rxd7 36.Rxd7 Nxd7 37.Rxd7 Bg7 38.Rd8+ Kh7 39.Rd5 1-0

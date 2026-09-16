@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.07"]
+[Round "3.13"]
+[White "Torres Rebolledo, Victor"]
+[Black "Zamengo, Fulvio"]
+[Result "0-1"]
+[WhiteElo "2234"]
+[BlackElo "2365"]
+[ECO "A05"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.b3 Be7 6.c4 b4 7.d4 O-O 8.a3 a5 9.axb4 axb4 10.Rxa8 Bxa8 11.Bb2 c5 12.d5 exd5 13.Ne1 Re8 14.cxd5 d6 15.e4 Nfd7 16.Nd2 Bf6 17.Qa1 Bb7 18.Nc2 Ba6 19.Bxf6 Nxf6 20.Rc1 Bd3 21.Ne3 Bxe4 22.Bxe4 Nxe4 23.Nxe4 Rxe4 24.Rc4 Re5 25.Rg4 h5 26.f4 hxg4 27.fxe5 dxe5 28.Qxe5 Nd7 29.Qd6 Qe8 30.Qf4 Qe5 31.d6 Qa1+ 32.Nf1 Qd4+ 33.Ne3 Qxf4 34.gxf4 g6 35.Kg2 f5 36.Kg3 Kf7 37.Nc4 Nf8 38.Kh4 Ne6 39.Ne5+ Ke8 40.Nxg6 c4 41.Ne5 cxb3 42.Nc4 Kd7 43.Kh5 Nxf4+ 44.Kg5 Nd3 45.Kxf5 b2 46.Nd2 Nc5 47.Ke5 Na4 48.Kd4 Nc3 49.Kc4 b1=Q 50.Nxb1 Nxb1 51.Kxb4 Kxd6 52.Kc4 Ke5 53.Kd3 Kf4 54.Ke2 Kg5 55.Kf2 Kh4 56.Kg2 Nd2 57.Kg1 Kh3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 10: Alexakis, Dimitris - Baenziger, Fabian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/9tgeqjzI"]
+[Date "2026.07.23"]
+[Round "10.6"]
+[White "Alexakis, Dimitris"]
+[Black "Baenziger, Fabian"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2435"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nde2 h5 8.Be3 Be6 9.Nd5 Nbd7 10.Nec3 Rc8 11.Be2 Bxd5 12.Nxd5 Nxe4 13.Bf3 Ng5 14.Bxh5 g6 15.Be2 Bg7 16.c3 Ne6 17.Qd2 f5 18.O-O-O f4 19.Qc2 Kf7 20.Bg4 fxe3 21.Bxe6+ Kxe6 22.Qxg6+ Nf6 23.Qxg7 Nxd5 24.Qg4+ Ke7 25.Rxd5 Qg8 26.Qe4 exf2 27.Rf1 Rf8 28.Rd2 Qxa2 29.Qxb7+ Ke6 30.Rxd6+ Kxd6 31.Rd1+ Kc5 32.Qb4+ 1-0

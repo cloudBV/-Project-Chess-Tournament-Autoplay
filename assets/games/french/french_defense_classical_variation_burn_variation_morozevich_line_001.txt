@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-6/9WQcy6Gy/FnVkbltp"]
+[Date "2026.07.02"]
+[Round "6.31"]
+[White "Siennicki, Ludwik"]
+[Black "Thompson, Ian D"]
+[Result "1/2-1/2"]
+[WhiteElo "2007"]
+[BlackElo "2001"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 f5 8.Nc3 a6 9.Qe2 b5 10.O-O-O b4 11.Nb1 Bb7 12.c4 bxc3 13.Nxc3 Bd5 14.Ne5 O-O 15.Qh5 f6 16.Nxd5 fxe5 17.Nxe7+ Qxe7 18.dxe5 Qc5+ 19.Kb1 Qxe5 20.Bc4 Qe4+ 21.Bd3 Qg4 22.Qxg4+ fxg4 23.Be4 Ra7 24.h3 gxh3 25.Rxh3 c5 26.f3 Rg7 27.Rh6 Rxg2 28.Rxh7 Rg7 29.Rh6 Kf7 30.Rd6 Re8 31.Kc2 Re7 32.Rh5 Nd7 33.Rxa6 Nf6 34.Rxc5 Nxe4 35.fxe4 Rd7 36.a4 Rg2+ 37.Kb1 Rd1+ 38.Rc1 Rdd2 39.Rb6 Rd4 40.e5 Rxa4 41.Rf1+ Kg7 42.Rb7+ Kg8 43.Rd1 Ra8 44.Rd6 Re8 45.Ka2 Re2 46.Rb5 Kf7 47.Rd4 Re3 48.Rg4 Re7 49.Rg5 Rd7 50.Rb8 Rd5 51.Rb7+ Kf8 52.b3 Ra5+ 53.Kb2 Raxe5 54.Rxe5 Rxe5 55.b4 Re3 56.b5 Ke8 57.Rh7 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Bakyt, Ibrahim - Ahmad, Khagan"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/Y3KQy7GS"]
+[Date "2026.07.22"]
+[Round "2.11"]
+[White "Bakyt, Ibrahim"]
+[Black "Ahmad, Khagan"]
+[Result "0-1"]
+[WhiteElo "2139"]
+[BlackElo "2480"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qc2 c6 9.Bf4 h6 10.Rd1 a5 11.Nc3 b6 12.e4 dxc4 13.Ne5 Nxe5 14.Bxe5 Bb7 15.a4 Qc8 16.b3 Ng4 17.Bf4 e5 18.dxe5 Bc5 19.Rd2 cxb3 20.Qxb3 g5 21.Bh3 gxf4 22.gxf4 Kh8 23.Nd1 Rg8 24.Kh1 Qf8 25.f3 Nxe5 26.Nf2 Rd8 27.Re2 Bxf2 28.Rxf2 Nd3 29.Rd2 Nxf4 30.Rxd8 Qxd8 31.Qc3+ Rg7 32.Rg1 f6 33.Bg4 Ne2 0-1

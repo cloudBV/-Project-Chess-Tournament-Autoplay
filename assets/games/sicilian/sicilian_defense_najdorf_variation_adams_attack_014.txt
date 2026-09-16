@@ -1,0 +1,15 @@
+[Event "Round 7: Sahbudak, Baris Cinar - Enkhnar, Enkhbaatar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-7/SLZWMYS6/uVuCP2lY"]
+[Date "2026.07.09"]
+[Round "7.8"]
+[White "Sahbudak, Baris Cinar"]
+[Black "Enkhnar, Enkhbaatar"]
+[Result "1-0"]
+[WhiteElo "2137"]
+[BlackElo "2397"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 b5 7.g4 e5 8.Nb3 Bb7 9.Bg2 b4 10.Nd5 Nxd5 11.exd5 a5 12.Be3 Nd7 13.O-O Be7 14.a3 a4 15.Nd2 Nb6 16.axb4 Nxd5 17.Nc4 Nxe3 18.Nxe3 Bxg2 19.Kxg2 O-O 20.c3 Qd7 21.Qd5 h5 22.Rfd1 Bg5 23.Qxd6 Qc8 24.Nd5 hxg4 25.Qxe5 gxh3+ 26.Kh2 Bd8 27.Rg1 g6 28.Rg3 Ra6 29.Rxh3 f6 30.Qe4 f5 31.Qe5 Bf6 32.Nxf6+ Raxf6 33.Rxa4 Qd8 34.Ra7 Qd2 35.Qe3 Qd6+ 36.Qg3 f4 37.Rh8+ Kxh8 38.Qh4+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Espinoza Palomino, Willyam - Starostits, Ilmars"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-6/5STfQCBh/6CPowRaB"]
+[Date "2026.07.16"]
+[Round "6.5"]
+[White "Espinoza Palomino, Willyam"]
+[Black "Starostits, Ilmars"]
+[Result "1-0"]
+[WhiteElo "2335"]
+[BlackElo "2327"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 g6 6.Nc3 Bg7 7.Be3 Qb4 8.Qd3 d6 9.Bd2 Qb6 10.Nd5 Qd8 11.Bc3 e5 12.O-O-O Be6 13.Qb5 Qd7 14.Na5 Bxd5 15.Nxb7 Bh6+ 16.Kb1 Bxe4 17.Nxd6+ Kf8 18.Bc4 Rd8 19.a3 Nd4 20.Bxd4 Qxb5 21.Bxb5 Bxg2 22.Bc5 Kg7 23.Rhg1 Bh3 24.Nf5+ Bxf5 25.Rxd8 Bf4 26.h4 h5 27.Bxa7 g5 28.Be3 Bxe3 29.fxe3 g4 30.a4 Rh6 31.a5 Ne7 32.Re8 Nc6 33.a6 Rd6 34.Kc1 Bd7 35.Bxc6 Rxc6 36.a7 1-0

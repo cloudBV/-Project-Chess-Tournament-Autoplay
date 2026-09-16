@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "2.8"]
+[White "Kowalski, Witold"]
+[Black "Borischik, Sergey"]
+[Result "0-1"]
+[WhiteElo "2044"]
+[BlackElo "2271"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7 9.f4 Qb6 10.a3 f5 11.exf6 Nxf6 12.Nxf6+ gxf6 13.b3 d5 14.Qh5+ Kd8 15.Bb2 Qe3+ 16.Be2 Be7 17.Rd1 Ba6 18.Qf3 Qxe2+ 19.Qxe2 Bxe2 20.Kxe2 Kd7 21.Rhe1 Rhg8 22.g3 h5 23.Kf3 Rg6 24.Re2 Rag8 25.Rde1 f5 26.Bd4 a6 27.Rd1 Ra8 28.a4 Rag8 29.Rd3 h4 30.Bf2 hxg3 31.hxg3 Bd6 32.Rd1 Rh8 33.Rde1 Rh3 34.Kg2 Rhh6 35.Kf3 Rg4 36.Rd1 Bxf4 37.c4 Bd6 38.cxd5 cxd5 39.Rd3 Rhg6 40.Kg2 f4 41.Rc2 fxg3 42.Bg1 Rh4 43.Rd1 Rb4 44.Rd3 Rh4 45.Rd1 Rg8 46.Re2 Rb8 47.Rd3 Rf8 48.Rde3 Rh6 49.Rc3 Rg8 50.Rd3 Rh2+ 51.Kf1 g2+ 0-1

@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.05"]
+[Round "8.1"]
+[White "Tilicheev, Viacheslav"]
+[Black "Genov, Petar"]
+[Result "1/2-1/2"]
+[WhiteElo "2447"]
+[BlackElo "2445"]
+[ECO "B32"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be7 8.Nc4 Nf6 9.Bg5 1/2-1/2

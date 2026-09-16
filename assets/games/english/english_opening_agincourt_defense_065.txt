@@ -1,0 +1,15 @@
+[Event "Round 6: Khalafvand, Dorsa Sadat - Munkhgal, Gombosuren"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/QN5Ih09F"]
+[Date "2026.07.16"]
+[Round "6.28"]
+[White "Khalafvand, Dorsa Sadat"]
+[Black "Munkhgal, Gombosuren"]
+[Result "0-1"]
+[WhiteElo "2072"]
+[BlackElo "2351"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 d5 3.cxd5 exd5 4.d4 c6 5.Bf4 Bd6 6.Bg3 Ne7 7.Nf3 O-O 8.e3 Bf5 9.Nh4 Be6 10.Bd3 a5 11.O-O Bxg3 12.hxg3 Nd7 13.Qc2 Ng6 14.Nxg6 hxg6 15.Na4 Qg5 16.Nc5 Nxc5 17.Qxc5 Rfd8 18.Rfc1 Kh7 19.Kf1 Bg4 20.Ke1 Bf5 21.Bxf5 Qxf5 22.Ke2 Kg8 23.Rh1 b6 24.Qc3 c5 25.Rac1 c4 26.Rh4 g5 27.Rh3 f6 28.a4 Rab8 29.Qc2 Qxc2+ 30.Rxc2 b5 31.Rh1 bxa4 32.Ra1 Rb4 33.Ra2 Kf7 34.Rc3 Rdb8 35.Rc2 g4 36.Kd2 Ke6 37.Ke2 Rh8 38.Rc1 Rh2 39.Rg1 Kd6 40.Kd2 Kc6 41.Kc2 Kb5 42.Kc3 Rh5 43.Kd2 Rh8 44.Rga1 Rh2 45.Rg1 Rb3 46.Kc2 f5 47.Kd2 g6 48.Ke2 a3 49.bxa3 Ka4 50.Rga1 Rh8 51.Kd2 Rhb8 52.Kc2 c3 53.Rh1 Rb2+ 54.Rxb2 cxb2 55.Kb1 Kxa3 56.Rd1 Rb3 57.Rd2 a4 58.Rd1 Rc3 0-1

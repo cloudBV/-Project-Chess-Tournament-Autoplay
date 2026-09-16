@@ -1,0 +1,15 @@
+[Event "Round 10: Chasin, Nico - Gelfand, Boris"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-10/IfXYzAOl/xmu6cG5q"]
+[Date "2026.07.04"]
+[Round "10.7"]
+[White "Chasin, Nico"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2513"]
+[BlackElo "2592"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.Nf3 e4 5.Nd4 d5 6.d3 exd3 7.Qxd3 Bb4+ 8.Nc3 O-O 9.O-O c5 10.Nc2 dxc4 11.Qxc4 Be6 12.Qb5 Bxc3 13.bxc3 Qb6 14.a4 Bd7 15.Qc4 Bc6 16.a5 Qa6 17.Qxa6 Nxa6 18.Bxc6 bxc6 19.Be3 Nd5 20.c4 Nxe3 21.Nxe3 Rfe8 22.Rfd1 Re7 23.Rd6 Nb4 24.Rad1 g6 25.Rd7 Rae8 26.Kf1 Kg7 27.R1d6 a6 28.Ke1 h5 29.Kd2 Rxd7 30.Rxd7 Kf6 31.f3 Ke6 32.Ra7 Rd8+ 33.Kc3 Na2+ 34.Kc2 Nb4+ 35.Kc3 Na2+ 36.Kc2 Nb4+ 1/2-1/2

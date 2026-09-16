@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-6/UExxBZVd/mvaxXgOm"]
+[Date "2026.07.05"]
+[Round "6.17"]
+[White "Chval, Zdenek"]
+[Black "Zrust, Lukas"]
+[Result "1/2-1/2"]
+[WhiteElo "2092"]
+[BlackElo "2081"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Be3 b5 8.Bb3 b4 9.Na4 Nxe4 10.O-O d5 11.Nf3 a5 12.c4 bxc3 13.bxc3 Be7 14.c4 dxc4 15.Bxc4 Ba6 16.Nb6 Qxd1 17.Rfxd1 Ra7 18.Nc8 Rc7 19.Bxa6 Nxa6 20.Nxe7 Kxe7 21.Bb6 Rc2 22.Nd4 Rc4 1/2-1/2

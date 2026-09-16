@@ -1,0 +1,14 @@
+[Event "Round 9: Borner, Daniel - Edoecs, Joseph"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-9/xJGF2p8O/DFL2RY2U"]
+[Date "2026.07.19"]
+[Round "9.4"]
+[White "Borner, Daniel"]
+[Black "Edoecs, Joseph"]
+[Result "1/2-1/2"]
+[WhiteElo "2015"]
+[BlackElo "2016"]
+[ECO "B21"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 b6 3.Nc3 cxd4 4.Qxd4 Nc6 5.Qd3 g6 6.Be3 Bg7 7.Nge2 Ne5 8.Qd1 Nc4 9.Bc1 Bb7 10.b3 Nd6 11.f3 b5 12.Nd4 Rc8 13.Bb2 Qb6 14.Ncxb5 Nxb5 15.Bxb5 1/2-1/2

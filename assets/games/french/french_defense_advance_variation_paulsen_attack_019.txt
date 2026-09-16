@@ -1,0 +1,15 @@
+[Event "Round 6: Samimi, Armin - Hakobyan, Menua"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-6/kDkmY1PW/YnM1HtmG"]
+[Date "2026.07.17"]
+[Round "6.9"]
+[White "Samimi, Armin"]
+[Black "Hakobyan, Menua"]
+[Result "1/2-1/2"]
+[WhiteElo "2157"]
+[BlackElo "2228"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qc7 6.Be2 f6 7.O-O fxe5 8.dxe5 Nh6 9.Na3 a6 10.Nc2 Nf7 11.Bf4 Be7 12.Ne3 g5 13.Bg3 h5 14.h3 b6 15.Bd3 Rg8 16.Qc2 g4 17.hxg4 hxg4 18.Nh2 Kd8 19.Bh7 Rg7 20.Rad1 d4 21.Be4 Bb7 22.Nexg4 Kc8 23.Nf6 Rxg3 24.fxg3 Nfxe5 25.Nhg4 Nxg4 26.Nxg4 Qxg3 27.Qe2 Kb8 28.Rf7 Ra7 29.Rd3 Qd6 30.Rh3 Nd8 31.Rg7 dxc3 32.bxc3 Bxe4 33.Qxe4 Qd1+ 34.Kf2 Qd2+ 35.Kf1 Qd1+ 36.Kf2 Bh4+ 37.Rxh4 Rxg7 38.Qe5+ Rc7 39.Ne3 Qd2+ 40.Kg3 Qe1+ 41.Kh3 Nf7 42.Qg3 Qxc3 43.Rf4 Ka7 44.Kh2 Qh8+ 45.Kg1 Rd7 46.Qf3 Qa1+ 47.Nf1 Ne5 48.Qe3 c4 49.Re4 Rd5 50.Qf4 a5 51.Qf6 Rd1 52.Rxe5 Re1 1/2-1/2

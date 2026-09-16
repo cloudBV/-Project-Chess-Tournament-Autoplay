@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-2/OrlrePbv/HQYPtK7k"]
+[Date "2026.07.14"]
+[Round "2.2"]
+[White "Vasques, Antonio Pedro Freixial"]
+[Black "Iturrizaga Bonelli, Eduardo"]
+[Result "0-1"]
+[WhiteElo "2218"]
+[BlackElo "2587"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Be2 e6 7.O-O Be7 8.Be3 Nbd7 9.c4 Qc6 10.Nc3 O-O 11.d5 exd5 12.cxd5 Qc7 13.a4 b6 14.Nd2 Bd6 15.h3 Bb7 16.Nc4 Rad8 17.Qd2 Ne5 18.Rad1 Nxc4 19.Bxc4 Bh2+ 20.Kh1 Be5 21.Bg5 h6 22.Bh4 Rd7 23.Qc2 Bxc3 24.bxc3 Qf4 25.Bxf6 Qxc4 26.Be5 Rxd5 27.Rfe1 Re8 28.Bg3 Rxd1 29.Rxd1 Be4 30.Qb2 Qxa4 31.Ra1 Qc6 32.Rxa6 Bxg2+ 33.Kh2 Bf1 0-1

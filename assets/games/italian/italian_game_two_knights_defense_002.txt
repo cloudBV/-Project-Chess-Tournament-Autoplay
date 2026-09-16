@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.24"]
+[White "Pallares Jover, Adrian"]
+[Black "Vioque Gonzalez, Nicolas"]
+[Result "1/2-1/2"]
+[WhiteElo "2146"]
+[BlackElo "2287"]
+[ECO "C55"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Qe2 h6 5.c3 d6 6.Bb3 g6 7.O-O Bg7 8.h3 O-O 9.d4 Qe7 10.Nbd2 Nh5 11.Qe3 Nf4 12.Rd1 g5 13.Nf1 h5 14.dxe5 dxe5 15.Ng3 Qf6 16.Ne2 Be6 17.Nxf4 exf4 18.Qe2 Rad8 19.Nh2 Qg6 20.h4 Bxb3 21.axb3 Rxd1+ 22.Qxd1 Rd8 23.Qe2 Re8 24.Ra4 f6 25.Bd2 Qf7 26.Qb5 Rd8 27.Nf1 f3 28.hxg5 fxg2 29.Kxg2 Ne5 30.Rd4 Re8 31.Qd5 Re6 32.Qd8+ Re8 33.Qd5 Re6 34.Qd8+ Bf8 35.Rd5 c6 36.Ra5 b6 37.Ra1 fxg5 38.Ng3 Qf3+ 39.Kg1 Rf6 40.Nf5 Ng4 41.Be1 Qxe4 42.Ng3 Qe5 43.Qd4 Qxd4 44.cxd4 h4 45.Ne4 Rf5 46.Rxa7 Nf6 47.Nxf6+ Rxf6 48.Rb7 c5 49.Bc3 Rg6 50.dxc5 bxc5 51.b4 cxb4 52.Bxb4 Bxb4 53.Rxb4 Kg7 54.Kg2 Kh6 55.f3 Rf6 56.Rc4 Kh5 57.b4 Ra6 58.Rc3 Ra2+ 59.Kh3 Rb2 60.Rc4 Kg6 61.Rc8 Rxb4 62.Rf8 Rb1 63.Kg2 Ra1 64.Kh2 Ra6 65.Kg2 Ra5 66.Re8 Kf5 67.Rf8+ Ke5 68.Rf7 Kd4 69.Rd7+ Rd5 70.Re7 Re5 71.Rd7+ Ke3 72.Ra7 Rd5 73.Re7+ Kf4 74.Rf7+ Rf5 75.Rh7 Rf8 76.Rh6 Rf5 77.Rh7 Re5 78.Rf7+ Ke3 79.Rf8 Kd2 80.Rf7 Ke1 81.Rg7 Ke2 82.Rf7 Re3 83.Ra7 Rd3 84.Re7+ Kd2 85.Re5 1/2-1/2

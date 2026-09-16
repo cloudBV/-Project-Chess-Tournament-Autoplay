@@ -1,0 +1,15 @@
+[Event "Round 3: Kevlishvili, Robby - Amburgy, Ryan"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/hG3Oll8q"]
+[Date "2026.07.03"]
+[Round "3.26"]
+[White "Kevlishvili, Robby"]
+[Black "Amburgy, Ryan"]
+[Result "1-0"]
+[WhiteElo "2523"]
+[BlackElo "2321"]
+[ECO "D02"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 e6 6.c3 Nh5 7.Be5 f6 8.Bg3 g6 9.Bd3 cxd4 10.cxd4 Qb6 11.O-O Nxg3 12.hxg3 Qxb2 13.e4 Be7 14.Nb3 Qa3 15.Re1 O-O 16.Rc1 Bd7 17.exd5 exd5 18.Nfd2 Rae8 19.Nb1 Qd6 20.Nc3 Qa3 21.Nb1 Qd6 22.Nc3 Kg7 23.Nb5 Qb8 24.Qf3 Qd6 25.Qd1 Qb8 26.Qf3 Qd6 27.Qd1 Qb8 28.Qf3 a6 29.Qxd5 Bg4 30.Nc3 Ba3 31.Rxe8 Rxe8 32.Rb1 Rf8 33.Rc1 Re8 34.Rb1 Rd8 35.Qc4 Qd6 36.Be4 Be6 37.d5 Ne5 38.Qe2 Bd7 39.Na5 Be6 40.Nb3 Bd7 41.Na5 Qc7 42.Nxb7 Rb8 43.Rb3 Bb4 44.d6 Qb6 45.Nd5 Qxb7 46.Rxb4 Qc8 47.Rd4 Qc5 48.Rd1 Qxd6 49.Ne3 Qe6 50.Bd5 Qb6 51.Kh2 h5 52.Nc4 Ng4+ 53.Kg1 Qc5 54.Bf3 Bb5 55.Bxg4 hxg4 56.Qxg4 Bxc4 57.Rc1 Rc8 58.Qd7+ Kg8 59.g4 Qc6 60.Qc7 Qc5 61.Qd7 Qc6 62.Qe7 Qe6 63.Qb7 Rd8 64.a4 Bd5 65.Qc7 Rd7 66.Qc8+ Kg7 67.Rd1 Rd6 68.Qxe6 Rxe6 69.Rxd5 Re4 70.Ra5 Rxg4 71.Rxa6 g5 72.Ra8 Rb4 73.a5 Ra4 74.a6 Ra2 75.f3 f5 76.Kh2 g4 77.Kg3 Ra4 78.f4 Ra5 79.Kh4 Ra2 80.a7 Ra5 81.Kg5 g3 82.Kh5 Ra4 83.Kg5 Ra5 84.Kh4 Ra3 85.Kh3 Kh7 86.Rf8 Rxa7 87.Rxf5 Ra3 88.Rg5 Ra1 89.Kxg3 Kh6 90.Kg4 Ra6 91.g3 Rb6 92.Rc5 Rg6+ 93.Kf3 Ra6 94.Kg4 Rg6+ 95.Kh4 Rf6 96.f5 Rf8 97.g4 Rg8 98.g5+ Kh7 99.Kh5 Kh8 100.Rc7 Ra8 101.f6 Rb8 102.Kh6 Kg8 103.g6 Kf8 104.Rh7 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.11"]
+[White "Smolinski, Wojciech"]
+[Black "Stickler, Florentin"]
+[Result "1-0"]
+[WhiteElo "2057"]
+[BlackElo "2254"]
+[ECO "B92"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Re1 Be6 10.Bf3 h6 11.a4 Nh7 12.Nd5 Bg5 13.Ne3 Nc6 14.c3 g6 15.g3 h5 16.h4 Bh6 17.Nd5 Bxc1 18.Rxc1 Nf6 19.Qd3 Bxd5 20.exd5 Ne7 21.c4 b6 22.a5 Rb8 23.axb6 Qxb6 24.Rc3 Nf5 25.c5 dxc5 26.Rxe5 c4 27.Qxc4 Nxg3 28.Qf4 Nf5 29.Rxf5 gxf5 30.Rc6 Nh7 31.Rxb6 Rxb6 32.Nd4 Kh8 33.Nxf5 Rg8+ 34.Kh2 Rf6 35.Qe5 Rd8 36.d6 Kg8 37.Qg3+ Kf8 38.Qg7+ Ke8 39.Bc6+ Rd7 40.Qh8+ Nf8 41.Ng7+ Kd8 42.Qxf8# 1-0

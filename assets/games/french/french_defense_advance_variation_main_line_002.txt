@@ -1,0 +1,15 @@
+[Event "Round 4: Paichadze, Luka - Torosyan, Volodya"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-4/ZN9WtA8l/z71jfgvf"]
+[Date "2026.07.15"]
+[Round "4.4"]
+[White "Paichadze, Luka"]
+[Black "Torosyan, Volodya"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2196"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Main Line"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 c4 7.Nbd2 Na5 8.g3 Bd7 9.Bg2 O-O-O 10.h4 h6 11.h5 Ne7 12.Nf1 Kb8 13.Rb1 a6 14.Be3 Nc8 15.N3d2 Be7 16.f4 Rdg8 17.g4 Qd8 18.Bf2 g5 19.hxg6 fxg6 20.Ne3 Nb6 21.Qf3 Rf8 22.Bg3 Ka7 23.O-O h5 24.gxh5 gxh5 25.Bh3 Bh4 26.Bh2 Qe7 27.Kh1 Nb3 28.Qe2 Qh7 29.Nf3 Be7 30.Qc2 Qh6 31.Rbe1 Be8 32.f5 exf5 33.Nxf5 Qh7 34.e6 Rhg8 35.Ne5 Bg5 36.Bf4 Nc8 37.Bxg5 Rxg5 38.Ne3 Qxc2 39.Nxc2 Rfg8 40.Ne3 Ne7 41.Kh2 Nd2 42.Rf4 Ng6 43.Nxg6 Bxg6 44.Nf5 Ne4 45.Nh4 Be8 46.Re3 Kb8 47.Rf5 Kc7 48.Rxg5 Rxg5 49.Rf3 Rg8 50.Rf5 Kd6 51.Re5 Ke7 52.Nf5+ Kf6 53.Ne3 Bc6 54.Nxd5+ Bxd5 55.Rxd5 Ng5 56.Rf5+ Ke7 57.d5 Rg7 58.a4 b5 59.axb5 axb5 60.Bg2 h4 61.Rf1 h3 62.Bh1 Kd6 63.Rg1 Rg8 64.Rg4 Ke7 65.Kg3 Kf6 66.Kf4 Rg7 67.e7 Rxe7 68.Rxg5 Re1 69.Bf3 Rb1 70.Rh5 Rxb2 71.Rxh3 1-0

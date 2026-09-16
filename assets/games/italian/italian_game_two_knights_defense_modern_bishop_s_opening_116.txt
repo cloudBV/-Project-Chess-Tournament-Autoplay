@@ -1,0 +1,15 @@
+[Event "Round 4: Predke, Alexandr - Shuvalova, Polina"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/DuIEXW4N"]
+[Date "2026.07.24"]
+[Round "4.2"]
+[White "Predke, Alexandr"]
+[Black "Shuvalova, Polina"]
+[Result "1/2-1/2"]
+[WhiteElo "2603"]
+[BlackElo "2483"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a3 h6 8.h3 Be6 9.Nbd2 Qd7 10.Bxe6 Qxe6 11.b4 a6 12.Nf1 Rfe8 13.Bb2 Bf8 14.c4 g6 15.Rc1 Bg7 16.Ne3 Qd7 17.Nd5 Rac8 18.Qb3 Nh5 19.c5 Ne7 20.Ne3 Nf4 21.Nc4 Nc6 22.cxd6 b5 23.Ne3 cxd6 24.Nd5 Nxd5 25.Qxd5 Ne7 26.Qb3 Rxc1 27.Rxc1 Rc8 28.Rxc8+ Qxc8 29.h4 Qc7 30.Nd2 Qc6 31.Nf3 1/2-1/2

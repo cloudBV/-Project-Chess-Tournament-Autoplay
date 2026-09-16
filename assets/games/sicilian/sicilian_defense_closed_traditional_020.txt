@@ -1,0 +1,15 @@
+[Event "Round 6: Inciroglu, Emir Cihangir - Gevorgyan, David Sh."]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-6/343OmIpb/aYpedF2q"]
+[Date "2026.07.08"]
+[Round "6.16"]
+[White "Inciroglu, Emir Cihangir"]
+[Black "Gevorgyan, David Sh."]
+[Result "1/2-1/2"]
+[WhiteElo "2039"]
+[BlackElo "2221"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 a6 5.Bd3 g6 6.Rb1 Nc6 7.a3 Bg7 8.b4 cxb4 9.axb4 b5 10.O-O Nf6 11.Re1 d6 12.h3 O-O 13.Bf1 e5 14.d3 d5 15.Bd2 d4 16.Ne2 Re8 17.c3 dxc3 18.Bxc3 Bb7 19.Nc1 Rc8 20.Nb3 Nd7 21.Qd2 Qe7 22.Rec1 Red8 23.Be2 Ba8 24.Ra1 Bb7 25.Rab1 Ba8 1/2-1/2

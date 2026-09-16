@@ -1,0 +1,14 @@
+[Event "Round 4: Dominguez, Ramiro - Cabiativa, Juan Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-4/RdktgqsA/h7qXAxBU"]
+[Date "2026.07.11"]
+[Round "4.3"]
+[White "Dominguez, Ramiro"]
+[Black "Cabiativa, Juan Esteban"]
+[Result "1-0"]
+[WhiteElo "2187"]
+[BlackElo "2290"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Keres Variation"]
+
+1.e4 c5 2.Ne2 d6 3.g3 Nf6 4.Bg2 g6 5.c3 Bg7 6.d4 cxd4 7.cxd4 O-O 8.O-O Nc6 9.h3 Re8 10.f4 e5 11.fxe5 dxe5 12.d5 Nd4 13.Nbc3 h6 14.Be3 Nxe2+ 15.Qxe2 Bd7 16.Rf2 Nh5 17.Kh2 Rf8 18.Raf1 Qc8 19.Qd2 g5 20.Bxg5 Nxg3 21.Kxg3 hxg5 22.Qxg5 f6 23.Rxf6 Rxf6 24.Rxf6 Qd8 25.Rg6 Qxg5+ 26.Rxg5 b5 27.Bf3 b4 28.Nd1 Rc8 29.Ne3 Rc1 30.Bg4 Bxg4 31.Kxg4 Kf7 32.Nf5 Bf6 33.Rh5 Rg1+ 34.Kf3 Rf1+ 1-0

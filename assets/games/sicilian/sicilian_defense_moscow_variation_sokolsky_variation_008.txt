@@ -1,0 +1,15 @@
+[Event "Round 4: Sharshenbekov, Emir - Tenguundalai Ganbat"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b16/round-4/28KYqm2g/DKe4kIau"]
+[Date "2026.07.16"]
+[Round "4.41"]
+[White "Sharshenbekov, Emir"]
+[Black "Tenguundalai Ganbat"]
+[Result "1-0"]
+[WhiteElo "2217"]
+[BlackElo "2000"]
+[ECO "B52"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 Nc6 7.d4 cxd4 8.Nxd4 g6 9.f3 Bg7 10.Be3 O-O 11.O-O Rac8 12.b3 Ne8 13.Rc1 Nc7 14.Qd2 a6 15.a4 Nxd4 16.Bxd4 Bxd4+ 17.Qxd4 Ne6 18.Qe3 Nc5 19.Nd5 Qd8 20.a5 Nd7 21.Qd2 e6 22.Ne3 Nc5 23.Rb1 e5 24.Rfd1 Ne6 25.Qxd6 Qxa5 26.Nd5 Rfd8 27.Qxe5 Qc5+ 28.Kf1 Qf8 29.h4 Rc5 30.Qf6 Re8 31.Qb2 Rxd5 32.cxd5 Nf4 33.d6 f5 34.d7 Rd8 35.Qe5 fxe4 36.Qxe4 Nh5 37.Qe6+ Kg7 38.Qe5+ Kh6 39.Rd6 a5 40.Re1 b5 41.Qg5+ Kg7 42.Re7+ Kh8 43.Rxh7+ 1-0

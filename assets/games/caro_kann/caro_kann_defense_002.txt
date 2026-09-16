@@ -1,0 +1,15 @@
+[Event "Round 6: Belkaid, Sohan - Valuet, Bertrand"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-6/oZBwMY6t/KXJu449P"]
+[Date "2026.07.05"]
+[Round "6.3"]
+[White "Belkaid, Sohan"]
+[Black "Valuet, Bertrand"]
+[Result "1-0"]
+[WhiteElo "2306"]
+[BlackElo "2176"]
+[ECO "B10"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.Nf3 d5 3.e5 Bg4 4.Be2 e6 5.O-O c5 6.c4 dxc4 7.Na3 Ne7 8.Nxc4 Nec6 9.Qa4 Bxf3 10.Bxf3 Be7 11.d4 cxd4 12.Qb5 Qd7 13.Bd2 O-O 14.Rac1 Rc8 15.Be4 Na6 16.Na5 Nc5 17.Rxc5 Bxc5 18.Qxc5 b6 19.Bxc6 bxa5 20.Rc1 Qd8 21.Bxa5 Qg5 22.Rd1 Rab8 23.b4 Qg4 24.Bf3 Rxc5 25.Bxg4 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Rudd, Jack - Davies, Nigel R"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-6/57HKUSKh/zG0vQYEY"]
+[Date "2026.07.10"]
+[Round "6.2"]
+[White "Rudd, Jack"]
+[Black "Davies, Nigel R"]
+[Result "1/2-1/2"]
+[WhiteElo "2253"]
+[BlackElo "2276"]
+[ECO "E16"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Yates Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 Bb7 7.O-O O-O 8.Nc3 d6 9.a3 Bxc3 10.Bxc3 a4 11.Rc1 Nbd7 12.Nh4 Bxg2 13.Nxg2 Qe7 14.f3 d5 15.Be1 Rfc8 16.Bf2 c6 17.Re1 b5 18.cxb5 cxb5 19.Qd3 Rcb8 20.Rc2 Nb6 21.Rec1 Nc4 22.Be1 Qd7 23.Bb4 Rc8 24.Bc5 Qb7 25.Ne3 Nd7 26.Bb4 Rc6 1/2-1/2

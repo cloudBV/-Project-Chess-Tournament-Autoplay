@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "10.3"]
+[White "Arakelyan, Manvel"]
+[Black "Rey Martinez, Jaime"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[BlackElo "2279"]
+[ECO "B29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Advance Variation"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 e6 5.Ne4 d6 6.d4 Nc6 7.exd6 Bxd6 8.c4 Nf6 9.dxc5 Nxe4 10.cxd6 Qa5+ 11.Bd2 Qb6 12.Qe2 Qxb2 13.Rd1 Nxd6 14.Bf4 Qxe2+ 15.Bxe2 Ne4 16.Bd3 Nc5 17.Bd6 Nxd3+ 18.Rxd3 f6 19.O-O Kf7 20.c5 Rd8 21.Nd2 b6 22.Nb3 Ba6 23.Rfd1 Bxd3 24.Rxd3 bxc5 25.Nxc5 Nb4 26.Rd4 Rac8 27.Nb3 Rc6 28.Rxb4 Rdxd6 29.h4 Rc7 30.Ra4 Rdc6 31.g3 e5 32.Nd2 Rc2 33.Nf3 R2c4 34.Ra6 R4c6 35.Ra5 Ke6 36.Kg2 Rd6 37.Ng1 Rd2 38.a3 Rcc2 39.Nh3 Rc7 40.Ng1 g6 41.Nf3 Rd5 42.Ra6+ Rd6 43.Ra5 Kd7 44.Nh2 Kc6 45.Ng4 Kb6 46.Ra4 a5 47.Ne3 Kb5 48.Re4 Rd4 49.Kf3 Rxe4 50.Kxe4 Ka4 51.Nd5 Rc4+ 52.Ke3 Kxa3 53.Nxf6 a4 54.Nxh7 Kb3 55.Nf8 a3 56.Nxg6 a2 57.Nxe5 Rc3+ 58.Ke4 a1=Q 59.h5 Rc1 60.f4 Re1+ 61.Kf5 Rh1 62.g4 Qd4 63.Kg5 Rf1 64.Ng6 Qd5+ 65.Ne5 Qg8+ 66.Ng6 Qd8+ 67.Kf5 Rg1 68.Ne5 Qf8+ 69.Kg5 Qg7+ 70.Ng6 Qd7 71.Ne5 Qe7+ 72.Kf5 Kc3 73.g5 Qf8+ 74.Ke6 Qxf4 75.g6 Re1 76.g7 Qxe5+ 77.Kf7 Rf1+ 78.Kg8 Qe8+ 79.Kh7 Qxh5+ 80.Kg8 Qf7+ 0-1

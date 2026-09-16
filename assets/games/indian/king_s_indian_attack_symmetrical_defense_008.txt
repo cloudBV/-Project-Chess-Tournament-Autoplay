@@ -1,0 +1,15 @@
+[Event "Round 3: Bartholomew, John - Vaidya, Atulya"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-3/gx3bxD7B/2aoh8N7J"]
+[Date "2026.07.03"]
+[Round "3.12"]
+[White "Bartholomew, John"]
+[Black "Vaidya, Atulya"]
+[Result "1/2-1/2"]
+[WhiteElo "2443"]
+[BlackElo "2096"]
+[ECO "A05"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.d4 O-O 5.O-O d6 6.Nc3 d5 7.Ne5 c6 8.e4 dxe4 9.Nxe4 Nxe4 10.Bxe4 Nd7 11.f4 Nxe5 12.dxe5 Qb6+ 13.Kg2 Be6 14.Qf3 Rad8 15.b3 Qb4 16.c4 Rd4 17.a3 Qa5 18.Be3 Rdd8 19.g4 f5 20.exf6 Bxf6 21.Ra2 Kh8 22.Rh1 a6 23.h4 Qc3 24.h5 Bxg4 25.Qxg4 Qxe3 26.Re2 Rd2 27.Rxd2 Qxd2+ 28.Kh3 gxh5 29.Qxh5 Qe3+ 30.Qf3 Qxf3+ 31.Bxf3 Be5 32.fxe5 Rxf3+ 33.Kg4 Rxb3 34.Rf1 Kg7 35.Kf5 Rxa3 36.Ke6 Re3 37.Rf7+ Kg6 38.Rxe7 b5 39.Rc7 bxc4 40.Rxc6 c3 41.Kd5+ Kf7 42.Kd4 1/2-1/2

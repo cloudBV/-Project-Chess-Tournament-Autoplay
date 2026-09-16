@@ -1,0 +1,15 @@
+[Event "Round 1: Narayanan, Samrug - Lin, Bryan Enming"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-1/6tvMnTPk/bfmsNJDR"]
+[Date "2026.07.07"]
+[Round "1.2"]
+[White "Narayanan, Samrug"]
+[Black "Lin, Bryan Enming"]
+[Result "0-1"]
+[WhiteElo "2436"]
+[BlackElo "2381"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 Na6 7.Nf3 e5 8.O-O Ng4 9.Bg5 Qe8 10.Rc1 h6 11.Bh4 exd4 12.Nxd4 Nxh2 13.Re1 Ng4 14.Nd5 Qe5 15.Bxg4 Bxg4 16.Qxg4 Qxd4 17.b3 Rfe8 18.Qf3 Re6 19.Rcd1 Qe5 20.Re2 c6 21.Bg3 Qg5 22.Nf4 Rf6 23.Red2 Bf8 24.Bh2 Re8 25.Rd4 Nc5 26.b4 Nd7 27.Nh3 Rxf3 28.Nxg5 Rc3 29.Nf3 Ne5 30.Bxe5 dxe5 31.Rd8 Rc1 32.Rxe8 Rxd1+ 33.Kh2 f6 34.c5 Kf7 35.Ra8 a6 36.Rb8 Rd7 37.Kg1 h5 38.Kf1 a5 39.a3 axb4 40.axb4 Bh6 41.Ke2 Bc1 42.Ra8 Bb2 43.Ra7 Ke6 44.Ne1 Bc3 45.Nd3 f5 46.f3 Bd4 47.Ra8 Kf6 48.Rf8+ Rf7 49.Re8 Re7 50.Rf8+ Kg7 51.Rd8 fxe4 52.fxe4 Rf7 53.Re8 h4 54.Re6 g5 55.Ke1 g4 56.Nxe5 h3 57.gxh3 g3 58.Rg6+ Kh7 59.Rxg3 Bxe5 60.Re3 Rd7 61.Rb3 Rd4 62.Ke2 Rxe4+ 63.Kd3 Rh4 64.Rb1 Kg6 65.b5 Rd4+ 66.Ke3 Rc4 67.bxc6 bxc6 68.Rf1 Rxc5 69.h4 Bf6 70.Rf4 Rh5 71.Rc4 c5 72.Kd3 Bxh4 73.Rg4+ Kf7 0-1

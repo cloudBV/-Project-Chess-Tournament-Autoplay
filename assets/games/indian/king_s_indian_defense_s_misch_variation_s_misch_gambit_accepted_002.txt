@@ -1,0 +1,14 @@
+[Event "Round 4: Hertneck, Gerald - Steger, Lukas Daniel"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/qXQSetz8"]
+[Date "2026.07.21"]
+[Round "4.14"]
+[White "Hertneck, Gerald"]
+[Black "Steger, Lukas Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2428"]
+[BlackElo "2196"]
+[ECO "E81"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Sämisch Gambit Accepted"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.dxc5 dxc5 8.Qxd8 Rxd8 9.Bxc5 Nc6 10.Nd5 Nd7 11.Ba3 e6 12.Nc7 Rb8 13.Nb5 a6 14.Nd6 b5 15.cxb5 axb5 16.Nxb5 Ba6 17.Nc3 Bxf1 18.Kxf1 Nde5 19.Nge2 Nc4 20.Rd1 Ne3+ 21.Kf2 Nxd1+ 22.Rxd1 Rxd1 23.Nxd1 Ne5 24.Bd6 Ra8 25.Bxe5 Bxe5 26.f4 Bg7 27.Nec3 Rb8 28.e5 f6 29.exf6 Bxf6 30.Na4 Rb4 31.b3 Rxf4+ 32.Ke2 Rd4 33.Nc5 Be7 34.Nd3 e5 35.Nc3 Bb4 36.Nb5 Rh4 37.a4 Kg7 38.h3 Ba5 39.Nd6 Rd4 40.Nc4 e4 41.Nf4 Rxc4 42.bxc4 Kf6 43.c5 Ke5 44.g3 Bb4 45.c6 Ba5 46.h4 Bb6 47.Nh3 Kd5 48.Nf2 Bc7 49.g4 h5 50.g5 Bg3 51.Nh1 Bc7 52.Nf2 Bg3 53.Nh1 Ke5 1/2-1/2

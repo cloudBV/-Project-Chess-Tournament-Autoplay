@@ -1,0 +1,15 @@
+[Event "Round 9: Nasta, Kiren Vivek - Korley, Kassa"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/iBPSX0bX"]
+[Date "2026.07.19"]
+[Round "9.14"]
+[White "Nasta, Kiren Vivek"]
+[Black "Korley, Kassa"]
+[Result "0-1"]
+[WhiteElo "2175"]
+[BlackElo "2425"]
+[ECO "C09"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.exd5 exd5 6.Bb5 Bd6 7.O-O Ne7 8.dxc5 Bxc5 9.Nb3 Bb6 10.c3 O-O 11.Re1 Bg4 12.Be3 Bc7 13.Bc5 Bd6 14.Bxd6 Qxd6 15.Be2 Bxf3 16.Bxf3 Rad8 17.Qd3 Qf6 18.Qe3 g6 19.Rad1 Rd6 20.Nc5 b6 21.Nd3 Rfd8 22.Qf4 Kg7 23.g3 Na5 24.Qe5 Nac6 25.Qf4 h5 26.h4 Na5 27.Qxf6+ Kxf6 28.Nf4 Nc4 29.Re2 d4 30.cxd4 Rxd4 31.Rxd4 Rd6 32.Rd5 Rxd5 33.Rc2 Rd4 34.Kg2 Ne5 35.Ne2 Nf5 36.Be4 Rd7 37.Nc3 Nd6 0-1

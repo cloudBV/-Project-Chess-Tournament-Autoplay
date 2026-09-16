@@ -1,0 +1,14 @@
+[Event "Round 2: Rahmanidis, Petros - Tsolakidou, Stavroula"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-2/ZhNLaUTi/1FqVpCoR"]
+[Date "2026.07.06"]
+[Round "2.12"]
+[White "Rahmanidis, Petros"]
+[Black "Tsolakidou, Stavroula"]
+[Result "0-1"]
+[WhiteElo "2239"]
+[BlackElo "2432"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 g6 7.f3 Qb6 8.a3 Nc6 9.Be3 e5 10.Nf5 Qd8 11.Ng3 Bg7 12.h4 d5 13.exd5 Nxd5 14.Nxd5 Qxd5 15.Ne4 f5 16.Nc5 Nd4 17.b4 e4 18.fxe4 fxe4 19.Bxe4 Qc4 20.Qd2 Nf3+ 21.Bxf3 Bxa1 22.Bd5 Qc3 23.Qxc3 Bxc3+ 24.Ke2 Bg4+ 25.Kd3 O-O-O 26.Kc4 Be2+ 27.Nd3 Be5 28.Re1 Bxd3+ 29.cxd3 Bg3 30.Rh1 b5+ 31.Kc5 Rhe8 32.Bg5 Rd7 33.d4 Kc7 34.Bc6 Re5+ 35.dxe5 Bf2+ 0-1

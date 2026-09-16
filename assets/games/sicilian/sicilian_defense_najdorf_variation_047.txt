@@ -1,0 +1,14 @@
+[Event "Round 2.Tiebreaks: Warmerdam, Max - Van Wely, Loek"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-2tiebreaks/XwXm2O74/gdTWzA8r"]
+[Date "2026.06.09"]
+[Round "7.1"]
+[White "Warmerdam, Max"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[WhiteElo "2533"]
+[BlackElo "2640"]
+[ECO "B95"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qf3 Nbd7 8.O-O-O Qc7 9.Be2 Be7 10.Rhe1 O-O 11.Qg3 Re8 12.f4 Nc5 13.Bf3 Kh8 14.h4 Bd7 15.Kb1 Na4 16.Nxa4 Bxa4 17.b3 Bc6 18.Bxf6 Bxf6 19.Nxc6 bxc6 20.e5 dxe5 21.fxe5 Be7 22.Qf4 Ba3 23.Rd4 Rad8 24.Ra4 Bc5 25.Rxa6 Rd4 26.Rxc6 Qa5 27.Qc1 Ba3 28.Qe3 Bc5 29.Rxc5 Qxc5 30.c3 Rc4 31.bxc4 Rb8+ 32.Ka1 Qxc4 33.Rb1 Rc8 34.Qd4 1-0

@@ -1,0 +1,15 @@
+[Event "ZENICA OPEN 2026"]
+[Site "idChess.com"]
+[Date "2026.07.18"]
+[Round "5"]
+[White "Pastar, Slaven"]
+[Black "Hutinovic, Halim"]
+[Result "0-1"]
+[WhiteElo "2315"]
+[BlackElo "2063"]
+[ECO "B13"]
+[TimeControl "3600+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c3 Nc6 5.Nf3 Nf6 6.Ne5 g6 7.Bb5 Bd7 8.Nxd7 Qxd7 9.O-O a6 10.Bd3 Bg7 11.Re1 O-O 12.Nd2 Rfe8 13.Nf3 Qc7 14.Bg5 h6 15.Bd2 e5 16.dxe5 Nxe5 17.Nxe5 Rxe5 18.Qf3 Rxe1+ 19.Rxe1 Qb6 20.b3 Qa5 21.a4 Qc7 22.h3 Rd8 23.Qf4 Qxf4 24.Bxf4 Ne4 25.Bxe4 Re8 26.Rc1 Rxe4 27.Be3 b5 28.axb5 axb5 29.Rd1 b4 30.cxb4 Rxb4 31.Rd3 h5 32.Bc5 Rb5 33.b4 d4 34.g4 hxg4 35.hxg4 f5 36.gxf5 gxf5 37.Ra3 Rb8 38.Rg3 Kf7 39.Kf1 Be5 40.Rf3 Ke6 41.Ke2 Ra8 42.b5 Ra5 43.Rb3 Kd5 44.Be7 Kc4 45.Rb1 d3+ 46.Ke3 Bd4+ 47.Kf3 Rxb5 48.Rc1+ Kb3 49.Bg5 Rc5 50.Rd1 Kc4 51.Rc1+ Kd5 52.Rd1 Rc3 53.Bd2 Rc2 54.Kg3 Kc4 55.Kf3 Bc5 56.Be3 Bxe3 57.Kxe3 Re2+ 58.Kf3 Re4 59.Rc1+ Kb3 60.Rc8 d2 61.Rd8 Kc3 62.Rc8+ Kd3 63.Rd8+ Rd4 64.Rxd4+ Kxd4 65.Ke2 Kc3 66.Kd1 Kd3 67.f3 Ke3 68.f4 Kxf4 69.Kxd2 Kf3 70.Ke1 Kg2 0-1

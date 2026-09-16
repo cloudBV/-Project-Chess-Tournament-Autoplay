@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-6/7YALUtB3/xEhvEBjp"]
+[Date "2026.07.12"]
+[Round "6.2"]
+[White "Sivuk, Vitaly"]
+[Black "Miezis, Normunds"]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2386"]
+[ECO "E11"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d6 7.Be2 e5 8.dxe5 dxe5 9.Nxe5 Re8 10.O-O Bd6 11.Nef3 Nc6 12.b4 a5 13.b5 Ne5 14.Bb2 Ng6 15.Qc2 Nf4 16.Rae1 N6h5 17.c5 Bf8 18.Bc4 Be6 19.Nb3 Bxc4 20.Qxc4 Qd3 21.Nbd2 Qxc4 22.Nxc4 Bxc5 23.Bd4 Bxd4 24.Nxd4 Rad8 25.Nf5 b6 26.f3 g6 27.Nfe3 Nf6 28.Rd1 Ne2+ 29.Kf2 Nc3 30.Rxd8 Rxd8 31.Rc1 Nxb5 32.a4 Nd4 33.Ne5 Ne6 34.Nc6 Rd2+ 35.Ke1 Ra2 36.e5 Nh5 37.Rc4 Nhf4 38.g3 Nd3+ 39.Kf1 Ndc5 40.Nd5 Rxa4 41.Rc2 Ra1+ 42.Kg2 a4 43.Nf6+ Kg7 44.f4 a3 45.Nb4 Rb1 46.Na2 b5 47.Nd5 Rb2 48.Rxb2 axb2 49.Nac3 Na4 50.Nb1 c6 51.Nb4 c5 52.Nd5 c4 53.Kf2 Nc7 54.Nb4 c3 55.Ke2 Ne6 56.Kd3 Nec5+ 57.Kc2 Ne4 58.Nd5 b4 59.Nxb4 Nd2 60.Na3 Nf3 61.Nb1 Nxh2 62.Nd5 Nf1 63.Ndxc3 Ne3+ 64.Kd3 Nxc3 65.Nxc3 Nf1 66.g4 h5 67.gxh5 gxh5 68.Ke2 Ng3+ 69.Kf3 Nf5 70.Nb1 Kg6 71.Nd2 Nd4+ 72.Ke4 Nb3 73.Nb1 Nc5+ 74.Kd5 h4 75.Kxc5 h3 0-1

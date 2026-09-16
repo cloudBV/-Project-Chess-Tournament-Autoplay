@@ -1,0 +1,14 @@
+[Event "Round 1: Voroshilov, Roman - Ioannidis, Evgenios"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-1/9hUY5sN7/nKWLHkYp"]
+[Date "2026.07.13"]
+[Round "1.14"]
+[White "Voroshilov, Roman"]
+[Black "Ioannidis, Evgenios"]
+[Result "1/2-1/2"]
+[WhiteElo "2152"]
+[BlackElo "2473"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d6 7.Be2 Nfd7 8.O-O e5 9.dxe5 Nxe5 10.b4 Nbc6 11.Ne1 Bf6 12.Rb1 Nd4 13.f4 Nxe2+ 14.Qxe2 Nc6 15.Nef3 a5 16.Qd3 axb4 17.axb4 Re8 18.b5 Nb8 19.Nb3 Nd7 20.Re1 Nc5 21.Nxc5 dxc5 22.Qc2 Bg4 23.e5 Qd7 24.Bb2 Be7 25.Qc3 Qe6 26.Nd2 Rad8 27.Nf1 Qg6 28.Qg3 Rd3 29.Ne3 h5 30.Qf2 Bf5 31.Rbd1 Red8 32.Nd5 Bf8 33.Rxd3 Bxd3 34.Nxc7 Bxc4 35.f5 Qb6 36.Qh4 Rd4 37.Bxd4 cxd4 38.Qd8 d3+ 39.Kh1 Qf2 40.Rg1 d2 41.e6 Kh7 42.exf7 Bxf7 43.Ne6 Bxe6 44.fxe6 Qe2 45.Qd5 1/2-1/2

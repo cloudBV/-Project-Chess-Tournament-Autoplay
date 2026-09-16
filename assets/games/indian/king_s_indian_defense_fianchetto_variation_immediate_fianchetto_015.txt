@@ -1,0 +1,15 @@
+[Event "Round 7: Cheng, Gongpu - Prokhorov, Aleksey"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-7/p8K9mTTy/SfR4iM9L"]
+[Date "2026.07.22"]
+[Round "7.14"]
+[White "Cheng, Gongpu"]
+[Black "Prokhorov, Aleksey"]
+[Result "1/2-1/2"]
+[WhiteElo "2119"]
+[BlackElo "2277"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 c5 6.d5 d6 7.Nf3 e6 8.O-O exd5 9.cxd5 Re8 10.Bf4 Bg4 11.h3 Bxf3 12.Bxf3 Nfd7 13.Bxd6 Qb6 14.Bxb8 Raxb8 15.Rb1 Ne5 16.Bg2 Nc4 17.Qc2 Qa5 18.Ne4 b5 19.a3 Rbd8 20.Rfd1 Qb6 21.e3 Rc8 22.a4 a6 23.axb5 axb5 24.Qe2 Red8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "14.3"]
+[White "Szczotka, Klara"]
+[Black "Kawka, Milena"]
+[Result "1-0"]
+[WhiteElo "2130"]
+[BlackElo "2032"]
+[ECO "E32"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 h6 5.e4 c5 6.dxc5 Bxc5 7.Bf4 d6 8.Nf3 Nc6 9.Be2 O-O 10.O-O e5 11.Bg3 Nd4 12.Nxd4 Bxd4 13.Nb5 Bc5 14.Rad1 Qe7 15.a3 a6 16.Nc3 Be6 17.Nd5 Bxd5 18.exd5 Rac8 19.b4 Bd4 20.Qb3 Ne4 21.Kh1 f5 22.f4 b5 23.fxe5 bxc4 24.Bxc4 Nxg3+ 25.hxg3 Bxe5 26.Rf3 Qb7 27.Rdf1 g6 28.Re1 Rfe8 29.Qd3 Qb6 30.Bxa6 Rc3 31.Qf1 Rxf3 32.gxf3 Ra8 33.b5 Bxg3 34.Re6 Kf7 35.Qa1 Be5 36.Qxe5 dxe5 37.Rxb6 Rd8 38.Bb7 e4 39.fxe4 fxe4 40.Re6 Rb8 41.Bc6 Rc8 42.Rxe4 1-0

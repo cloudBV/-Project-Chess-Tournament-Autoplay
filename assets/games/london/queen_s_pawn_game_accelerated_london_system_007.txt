@@ -1,0 +1,14 @@
+[Event "Round 2: Sharvaanica A S - Sahib Singh"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/99FjI3fm"]
+[Date "2026.07.05"]
+[Round "2.26"]
+[White "Sharvaanica A S"]
+[Black "Sahib Singh"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2347"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 c5 5.Nbd2 Nc6 6.c3 Nh5 7.Bg3 Qb6 8.Qc2 Nxg3 9.hxg3 g6 10.Bd3 Bg7 11.dxc5 Qxc5 12.e4 O-O 13.exd5 Qxd5 14.O-O Rd8 15.Bc4 Qf5 16.Ne4 Ne5 17.Nh4 Qh5 18.Be2 Ng4 19.Rad1 Bd7 20.Bf3 g5 21.Qe2 gxh4 22.Bxg4 Qe5 23.f4 Qa5 24.Bf3 Bb5 25.c4 Bc6 26.b3 Bxe4 27.Qxe4 hxg3 28.Qxb7 Qc5+ 29.Kh1 Rab8 30.Qe4 Qe7 31.f5 Qg5 32.Qg4 Qxg4 33.Bxg4 exf5 34.Bxf5 Bd4 35.Be4 Rd6 36.Bf5 Rh6+ 37.Bh3 Bf2 38.Rd3 Rbb6 39.Rd2 Rbg6 40.Rdxf2 gxf2 41.Rxf2 a5 42.Rf5 Ra6 43.Kg1 Rhd6 44.Rb5 Kf8 45.a4 Ke7 46.Bf5 h6 47.c5 Rd4 48.Bc8 Ra7 49.Bb7 Rb4 50.c6 Kd6 51.Rh5 Raxb7 52.cxb7 Rxb7 53.Rxa5 Rxb3 54.Ra6+ Ke5 55.Rxh6 Ra3 56.Rh4 Ra2 57.Rb4 Kf5 58.Kh2 Kg5 59.Kh3 f5 60.Rc4 Ra3+ 61.g3 Ra2 62.Rb4 Kh5 63.Rb5 Rxa4 64.Rxf5+ Kg6 65.Rb5 Rc4 66.g4 Rc1 67.Rb6+ Kg5 68.Rb5+ Kg6 69.g5 Kh5 70.Kg3 Rg1+ 71.Kf4 Rg4+ 72.Kf3 Rxg5 73.Rxg5+ Kxg5 74.Ke4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 1: Lu, Maximillian - Gudovanyi, Lev"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-1/9hUY5sN7/J7xSMOC3"]
+[Date "2026.07.13"]
+[Round "1.15"]
+[White "Lu, Maximillian"]
+[Black "Gudovanyi, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2458"]
+[BlackElo "2151"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c5 4.O-O e6 5.b3 Nc6 6.Bb2 d4 7.e3 e5 8.exd4 exd4 9.c3 Be7 10.cxd4 cxd4 11.Na3 O-O 12.Nc4 Be6 13.Nce5 Nxe5 14.Nxe5 Bd5 15.Re1 Re8 16.Bxd5 Qxd5 17.Qf3 Rad8 18.Qxd5 Rxd5 19.Nf3 Bc5 20.Rxe8+ Nxe8 21.Re1 Nc7 22.Re5 Rxe5 23.Nxe5 Ne6 24.f4 f6 25.Nd3 Bb6 26.f5 Ng5 27.Kf1 Kf7 28.Ke2 g6 29.fxg6+ hxg6 30.Nf4 Bc5 31.h4 Ne4 32.g4 g5 33.hxg5 fxg5 34.Nh3 Kf6 35.b4 Bxb4 36.Bxd4+ Kg6 37.Be3 a6 38.Kd3 Nf6 39.Nf2 b5 40.Bd4 Nd7 41.Ne4 a5 42.Kc2 Be7 43.Bb2 Nb6 44.Bd4 Nd5 45.Nc3 Nxc3 46.dxc3 Kf7 47.c4 bxc4 48.Kc3 Ke6 49.Kxc4 a4 50.Bc3 Bf8 51.Bb2 a3 52.Bc1 Be7 53.Kd4 Bf8 54.Ke4 Be7 55.Bd2 Bf6 56.Be3 Be7 57.Bc1 Kf6 58.Kd5 Kf7 59.Ke5 Kg6 60.Ke6 Bb4 61.Be3 Bc3 62.Bc5 Bb2 63.Bb4 Bc1 64.Be7 Bb2 65.Kd5 Bc1 66.Bd6 Kf6 67.Be5+ Kf7 68.Bc7 Bb2 69.Bd8 Bc1 70.Ke5 Kg6 71.Ke6 Bb2 72.Bb6 Bc1 73.Ba5 Be3 74.Kd5 Kf7 75.Ke4 Bc1 76.Kf5 Ke7 77.Ke5 Kd7 78.Kf5 Bf4 79.Bb4 Bc1 80.Bc5 Kc7 81.Bf8 Kd7 82.Bb4 1/2-1/2

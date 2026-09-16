@@ -1,0 +1,14 @@
+[Event "Round 8: Pranav K P - Eren, Ataberk"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/1V8B6ttt"]
+[Date "2026.07.21"]
+[Round "8.22"]
+[White "Pranav K P"]
+[Black "Eren, Ataberk"]
+[Result "1/2-1/2"]
+[WhiteElo "2287"]
+[BlackElo "2367"]
+[ECO "E35"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bf4 O-O 7.e3 c5 8.dxc5 Nc6 9.Nf3 Bxc5 10.Be2 Qe7 11.O-O Be6 12.Na4 Bd6 13.Bxd6 Qxd6 14.a3 Rac8 15.Nc3 Bg4 16.Rfd1 Rfd8 17.Qa4 Bxf3 18.Bxf3 Qc5 19.Rac1 Ne5 20.Qd4 Nxf3+ 21.gxf3 Qa5 22.Qe5 Rc6 23.Rd4 Re6 24.Qf5 g6 25.Qg5 Kg7 26.Rcd1 h6 27.Qg2 Re5 28.f4 Rf5 29.Ne2 Nh5 30.Ng3 Nxg3 31.hxg3 h5 32.e4 Rf6 33.Rxd5 Rxd5 34.exd5 Qa4 35.Qf3 Rd6 36.Qd3 h4 37.Kg2 hxg3 38.fxg3 Kg8 39.Rd2 Kf8 40.Qd4 Qxd4 41.Rxd4 Rb6 42.b4 Ke7 43.Kh3 Ra6 44.Rd3 Rf6 45.Kg4 Rf5 46.Kf3 Kd6 47.Ke4 Rh5 48.a4 Rh1 49.Kd4 Rc1 50.Re3 Rd1+ 51.Kc4 a6 52.Re8 Rc1+ 53.Kb3 Kxd5 54.Re7 b5 55.axb5 axb5 56.g4 f6 57.g5 fxg5 1/2-1/2

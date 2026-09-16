@@ -1,0 +1,14 @@
+[Event "Round 5: Kovalenko, Igor - Shankland, Sam"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-5/PWFnNuqB/xJDfSmpu"]
+[Date "2026.07.04"]
+[Round "5.2"]
+[White "Kovalenko, Igor"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2658"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O a6 6.c4 e6 7.Nc3 Be7 8.d4 cxd4 9.Nxd4 O-O 10.Qe2 Qc7 11.Kh1 Ne5 12.Bb3 Nc6 13.Nxc6 bxc6 14.f4 Nd7 15.Bc2 c5 16.Rf3 Bb7 17.Bd2 g6 18.Raf1 Bf6 19.Rh3 Rae8 20.Qg4 Qd8 21.Ba4 Re7 22.Be1 Bd4 23.Bh4 f6 24.Bc2 Qe8 25.Qd1 Rg7 26.Ne2 e5 27.f5 Qa8 28.Qb1 Bc6 29.Be1 Nb6 30.b3 a5 31.Bd2 g5 32.Ng3 a4 33.Qd1 axb3 34.axb3 Ra7 35.Rh6 Rff7 36.h4 g4 37.Nh5 Nd7 38.Qxg4+ Kf8 39.Bb1 Ra1 40.Kh2 Qb7 41.Rxf6 Nxf6 42.Bh6+ Ke8 43.Nxf6+ Rxf6 44.Qg8+ Kd7 45.Qg7+ Kc8 46.Qxf6 Qxb3 47.Qxd6 Kb7 48.Qe7+ Kb6 49.Qd8+ Kb7 50.Qe7+ Kb6 51.Qd8+ 1/2-1/2

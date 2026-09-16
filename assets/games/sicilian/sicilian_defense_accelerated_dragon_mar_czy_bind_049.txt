@@ -1,0 +1,15 @@
+[Event "Round 3: Shuvalova, Polina - Sivuk, Vitaly"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/QbupkEg2"]
+[Date "2026.07.23"]
+[Round "3.3"]
+[White "Shuvalova, Polina"]
+[Black "Sivuk, Vitaly"]
+[Result "1-0"]
+[WhiteElo "2483"]
+[BlackElo "2499"]
+[ECO "B36"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.f3 a4 12.Kf2 Qa5 13.Rab1 Be6 14.Nd5 Nxd5 15.Qxa5 Rxa5 16.cxd5 Bd7 17.Rhc1 Bb5 18.Rc7 Bxe2 19.Kxe2 Rb5 20.b4 e6 21.dxe6 fxe6 22.Kd3 Rf7 23.Rxf7 Kxf7 24.g4 d5 25.a3 Ke8 26.g5 Kd7 27.h4 Ke8 28.Bc5 b6 29.Bd4 Bxd4 30.Kxd4 dxe4 31.fxe4 h6 32.Rg1 Kf7 33.Ke3 Ke7 34.Kf4 Kf7 35.Rc1 hxg5+ 36.hxg5 Ke7 37.Rc7+ Kf8 38.Ra7 1-0

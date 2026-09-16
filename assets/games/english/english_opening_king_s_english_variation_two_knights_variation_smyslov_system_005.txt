@@ -1,0 +1,14 @@
+[Event "Round 2: Vassis, Anastasios - Spyropoulos, Nikolaos"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-2/ozps01TA/XPseIQqa"]
+[Date "2026.07.19"]
+[Round "2.19"]
+[White "Vassis, Anastasios"]
+[Black "Spyropoulos, Nikolaos"]
+[Result "1/2-1/2"]
+[WhiteElo "2125"]
+[BlackElo "2379"]
+[ECO "A22"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.Nf3 Re8 6.O-O d6 7.d3 Bxc3 8.bxc3 e4 9.Ng5 exd3 10.exd3 Nbd7 11.Be3 Ne5 12.Bd4 Bg4 13.Qc2 Bf5 14.Bxe5 dxe5 15.Rfd1 c6 16.Ne4 Qe7 17.Qb2 Bxe4 18.Bxe4 Nxe4 19.dxe4 Red8 20.Qb4 Kf8 21.Qxe7+ Kxe7 22.Kf1 Rd7 23.Ke2 Rad8 24.Rxd7+ Rxd7 25.a4 Kd8 26.c5 Ke7 27.a5 Kd8 28.Ke3 Ke7 29.f4 exf4+ 30.gxf4 Ke6 31.c4 f5 32.Rb1 a6 33.h4 fxe4 34.Kxe4 Kf6 35.h5 Re7+ 36.Kf3 Rd7 37.Kg4 h6 38.Rb2 g6 39.hxg6 Kxg6 40.Re2 h5+ 41.Kf3 Rd4 42.Re4 1/2-1/2

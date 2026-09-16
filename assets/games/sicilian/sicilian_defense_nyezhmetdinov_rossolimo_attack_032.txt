@@ -1,0 +1,15 @@
+[Event "Round 9: Sahin, Ata Sarp - Berikkyzy, Alanna"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/2R7UYDG6"]
+[Date "2026.07.05"]
+[Round "9.45"]
+[White "Sahin, Ata Sarp"]
+[Black "Berikkyzy, Alanna"]
+[Result "1/2-1/2"]
+[WhiteElo "2031"]
+[BlackElo "2182"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Qc7 5.O-O Nd4 6.Re1 a6 7.Bf1 Ng4 8.g3 Nxf3+ 9.Qxf3 Ne5 10.Qe2 e6 11.d3 h5 12.Be3 Nc6 13.Bg2 d6 14.Qd2 Be7 15.Ne2 e5 16.c3 Bd7 17.d4 f6 18.Rac1 Nd8 19.Red1 h4 20.b3 Nf7 21.dxc5 dxc5 22.c4 hxg3 23.hxg3 Rd8 24.Nc3 Bh3 25.Nd5 Qc8 26.f3 Bd6 27.Rc2 Be6 28.Qf2 Qc6 29.Rcd2 a5 30.a3 Rc8 31.Rd3 Bxd5 32.Rxd5 Be7 33.f4 b6 34.Bf3 Qe6 35.f5 Qc6 36.Qe2 Nd6 37.Bg2 Nf7 38.Qg4 Kf8 39.Qg6 Qe8 40.Bf3 Nd8 41.Rd7 Nc6 42.Rb7 Nd4 43.Bg4 Rc6 44.Kg2 Rd6 45.a4 Qa8 46.Rxd4 Qxb7 47.Rd5 Rxd5 48.exd5 Bd6 49.Bh5 Qe7 50.g4 e4 51.g5 Rxh5 52.Qxh5 fxg5 53.Qxg5 Qe5 54.Qd8+ Kf7 55.Qd7+ Kf6 56.Qd8+ Kf7 57.Qd7+ Kf6 58.Qd8+ Kf7 1/2-1/2

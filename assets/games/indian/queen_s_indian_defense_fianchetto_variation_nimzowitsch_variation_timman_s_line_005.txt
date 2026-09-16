@@ -1,0 +1,14 @@
+[Event "Round 3: Finek, Vaclav - Xiao, Tong(QD)"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-final/round-3/P4tR8h6G/3sUG6RIH"]
+[Date "2026.07.02"]
+[Round "3.1"]
+[White "Finek, Vaclav"]
+[Black "Xiao, Tong(QD)"]
+[Result "1/2-1/2"]
+[WhiteElo "2593"]
+[BlackElo "2599"]
+[ECO "E15"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Timman's Line"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qb3 Nc6 6.Bd2 Bb7 7.d5 Ne7 8.dxe6 fxe6 9.Bg2 Nf5 10.Nc3 Bc5 11.O-O O-O 12.Rae1 Ne4 13.Qc2 Nfd6 14.Nxe4 Bxe4 15.Qc1 a5 16.b3 Qc8 17.Be3 Bxe3 18.Qxe3 Qb7 19.Qd2 Rad8 20.Rc1 Rf5 21.Rfd1 Rdf8 22.Qe3 Bc6 23.Rf1 Be4 24.Rfd1 Bc6 25.Rf1 Nf7 26.Rfd1 Nd6 1/2-1/2

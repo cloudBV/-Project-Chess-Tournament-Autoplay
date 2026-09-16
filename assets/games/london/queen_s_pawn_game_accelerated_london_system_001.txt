@@ -1,0 +1,15 @@
+[Event "Round 9: Gomez Flores, Pol - Pomes Marcet, Joan"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-grup-a/round-9/kLkshy0U/uSg9t3jh"]
+[Date "2026.07.03"]
+[Round "9.10"]
+[White "Gomez Flores, Pol"]
+[Black "Pomes Marcet, Joan"]
+[Result "0-1"]
+[WhiteElo "2085"]
+[BlackElo "2199"]
+[ECO "D00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 Bd6 5.Bg3 O-O 6.Nbd2 c5 7.c3 Qc7 8.Bxd6 Qxd6 9.Ne5 Nfd7 10.f4 f6 11.Nef3 cxd4 12.cxd4 e5 13.fxe5 fxe5 14.dxe5 Nxe5 15.Be2 Ng4 16.Qb3 Qc5 17.Ne4 Qa5+ 18.Nfd2 Nxe3 19.Qxe3 dxe4 20.Bc4+ Kh8 21.O-O-O Bg4 22.Rdf1 Nc6 23.h3 Bd7 24.Rxf8+ Rxf8 25.Nxe4 Qe5 26.Re1 Re8 27.g4 b5 28.Bf1 Nb4 29.Re2 Bc6 30.Bg2 Nd5 31.Qc5 Nf4 32.Qxc6 Nxe2+ 33.Kd1 Nf4 34.Bf3 Rd8+ 35.Kc2 Ne6 0-1

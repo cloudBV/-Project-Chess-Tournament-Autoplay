@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "5.9"]
+[White "Hychkevych, Vitaliy"]
+[Black "Bouska, Jiri"]
+[Result "0-1"]
+[WhiteElo "2076"]
+[BlackElo "2295"]
+[ECO "E27"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.f3 d5 7.cxd5 exd5 8.e3 c5 9.Bd3 b6 10.Ne2 Ba6 11.Bxa6 Nxa6 12.O-O Nc7 13.Ng3 Re8 14.Qd3 Ne6 15.Bd2 Rc8 16.Rad1 Qd7 17.Bc1 cxd4 18.cxd4 Rc4 19.Bb2 h5 20.e4 h4 21.Nf5 Nf4 22.Qd2 N6h5 23.Ne3 Rc6 24.Ng4 f6 25.g3 Nh3+ 26.Kg2 Ng5 27.gxh4 Nxe4 28.Qd3 Nd6 29.Qd2 Nc4 30.Qc1 Ne3+ 31.Qxe3 Rxe3 32.Nxe3 Nf4+ 33.Kg3 Qc7 34.Kf2 0-1

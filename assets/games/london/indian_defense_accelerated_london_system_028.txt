@@ -1,0 +1,14 @@
+[Event "Round 5: Mohamed Anees M - Romanov, Evgeny"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/OmKMUxAO"]
+[Date "2026.07.07"]
+[Round "5.2"]
+[White "Mohamed Anees M"]
+[Black "Romanov, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2415"]
+[BlackElo "2548"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.h3 d6 5.Nf3 Nbd7 6.Nbd2 g6 7.Bc4 Bg7 8.O-O O-O 9.Bh2 a6 10.a4 e6 11.Re1 Ne4 12.Nxe4 Bxe4 13.c3 Qe7 14.Nd2 Bb7 15.e4 e5 16.Bd5 c6 17.Ba2 b5 18.Nf3 Nb6 19.a5 Nd7 20.Qd2 Rad8 21.Rad1 c5 22.Bd5 Bxd5 23.exd5 cxd4 24.Nxd4 Rc8 25.Nc6 Qe8 26.Qe3 Nb8 27.Nb4 Qd8 28.Qa7 f5 29.Ra1 Rf7 30.Qb6 Qxb6 31.axb6 Rb7 32.f3 Rxb6 33.Bg3 Bh6 34.Bf2 Rb7 35.Nxa6 Nxa6 36.Rxa6 b4 37.Rxd6 bxc3 38.bxc3 Rxc3 39.Rxe5 Rc1+ 40.Re1 Rxe1+ 41.Bxe1 Kf7 42.Kf1 Bg5 43.Ra6 h5 44.Bc3 Be7 45.Ke2 Rb5 46.Ra5 Rxa5 47.Bxa5 Bd6 48.Bc3 Ke7 49.Kd3 Kd7 50.Bg7 Bh2 51.Kd4 Kd6 52.Bf8+ Kd7 53.Bb4 Bg3 54.Ke3 Bc7 55.Bf8 Bh2 56.Bh6 Bc7 57.Bf4 Bb6+ 58.Kd3 Ba7 59.Be5 Bg1 60.g4 Bf2 61.Bf4 Bb6 62.Be3 Bd8 63.Bc5 Bg5 64.Bf8 Bf6 65.Bb4 Bg5 66.Kc4 Bf4 67.Kd4 Bh2 68.Ba5 Kd6 69.Bb4+ Kd7 70.Bf8 Bg3 71.Ba3 Bh2 72.Bc1 Kd6 73.Be3 Be5+ 74.Kc4 Kd7 75.Bd2 Bh2 76.Kd4 Kd6 77.Bb4+ Kd7 78.Ba3 Bg3 79.Bc1 Kd6 80.gxf5 gxf5 81.Ba3+ Kd7 82.Ke3 Bh2 83.Bf8 Be5 84.f4 Bc3 85.Bc5 Bf6 86.Kf3 Bh4 87.Bb4 Kc7 88.Ke3 Bf6 89.Bc5 Kd7 90.Bd4 Bh4 91.Be5 Be1 92.Bb8 Bc3 93.Kd3 Bf6 94.Ba7 Kd6 95.Kc4 Bh4 96.Bc5+ Kd7 97.Kd3 Bg3 98.Ke3 Kc7 99.Kf3 Bh4 100.Bb4 Kd7 101.Ke2 Bf6 102.Kd3 Bh4 103.Kd4 Bf6+ 104.Kc4 Bh4 105.Bc5 Bg3 106.Be3 Bh4 107.Bd2 Kd6 108.Be3 Kd7 109.Bc1 Kd6 110.Ba3+ Kd7 111.Bb4 Bg3 112.Bd2 Bh4 113.Bc1 Kd6 114.Ba3+ Kd7 115.d6 Bf6 1/2-1/2

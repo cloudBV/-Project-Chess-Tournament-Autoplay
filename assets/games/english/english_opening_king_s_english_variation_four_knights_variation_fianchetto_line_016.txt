@@ -1,0 +1,15 @@
+[Event "Round 7: Mica, Marek - Pacher, Milan"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/iNAEKSrA"]
+[Date "2026.07.19"]
+[Round "7.4"]
+[White "Mica, Marek"]
+[Black "Pacher, Milan"]
+[Result "0-1"]
+[WhiteElo "2349"]
+[BlackElo "2304"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 Bxc3 6.dxc3 d6 7.Nd2 Be6 8.e4 O-O 9.b3 a6 10.h3 b5 11.f4 exf4 12.gxf4 bxc4 13.O-O cxb3 14.axb3 Bd7 15.Bb2 g6 16.c4 Nh5 17.Qf3 Qh4 18.Kh2 a5 19.Qc3 f6 20.Qf3 g5 21.e5 fxe5 22.Qd5+ Kg7 23.fxe5 Bxh3 24.exd6+ Kh6 25.Kg1 Nf4 26.Rxf4 Rxf4 27.Nf3 Qg3 28.Qxg5+ Qxg5 29.Nxg5 Bxg2 30.Ne6 Rg4 31.Bc1+ Kh5 32.Nf4+ Kh4 33.b4 Be4+ 34.Kf2 cxd6 35.b5 Ne5 36.Ra3 Rxf4+ 37.Bxf4 Rf8 38.Rxa5 Rxf4+ 39.Ke3 Nxc4+ 40.Kxf4 Nxa5 0-1

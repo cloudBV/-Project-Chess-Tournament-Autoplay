@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.7"]
+[White "Serafin, Franciszek"]
+[Black "Szuminski, Jakub"]
+[Result "1-0"]
+[WhiteElo "2126"]
+[BlackElo "2039"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Indian Formation"]
+
+1.Nf3 Nf6 2.c4 b6 3.b3 Bb7 4.Bb2 e6 5.g3 c5 6.Bg2 Be7 7.O-O O-O 8.Nc3 Ne4 9.Qc2 Nxc3 10.Bxc3 f5 11.Rad1 Qc7 12.Qb2 Bf6 13.Bxf6 Rxf6 14.d4 d6 15.dxc5 bxc5 16.Qd2 d5 17.cxd5 Bxd5 18.Qc3 Nd7 19.Rd2 Rc8 20.Rfd1 c4 21.bxc4 Qxc4 22.Qa5 Qc7 23.Rxd5 exd5 24.Qxd5+ Rf7 25.Ng5 Nb6 26.Qb3 Qc4 27.Nxf7 Qxf7 28.Qa3 Qc7 29.Bf3 g6 30.h4 Qc2 31.Rf1 Qc7 32.h5 Kg7 33.Qe3 Nc4 34.Qd4+ Ne5 35.Bg2 Kh6 36.hxg6 hxg6 37.e4 Qc5 38.Qd2+ Kg7 39.exf5 gxf5 40.Qg5+ Ng6 41.Rd1 Rc7 42.Bf3 Qe7 43.Qxf5 Ne5 44.Be4 Nf7 45.Qg6+ Kf8 46.Rb1 Rc8 47.Rb7 Qe8 48.Bd5 Rc1+ 49.Kg2 Ne5 50.Qg7# 1-0

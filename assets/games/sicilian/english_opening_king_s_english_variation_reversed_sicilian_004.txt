@@ -1,0 +1,14 @@
+[Event "Round 1: Tsarouhas, Konstantinos - Galopoulos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/CODFPC8B"]
+[Date "2026.07.10"]
+[Round "1.13"]
+[White "Tsarouhas, Konstantinos"]
+[Black "Galopoulos, Nikolaos"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2426"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 d6 3.g3 f5 4.Bg2 Nf6 5.e3 Be7 6.Nge2 c6 7.d4 O-O 8.dxe5 dxe5 9.O-O Na6 10.Qc2 Be6 11.Rd1 Qc7 12.b3 Rad8 13.a3 b5 14.Bb2 b4 15.Rxd8 Rxd8 16.Nd1 bxa3 17.Bxa3 Bxa3 18.Rxa3 Nb4 19.Qb1 Qb6 20.Ndc3 Nd3 21.h3 Rd7 22.Ra2 Nc5 23.Na4 Qxb3 24.Qxb3 Nxb3 25.Bxc6 Rd1+ 26.Kg2 Bxc4 27.Nac3 Rd2 28.Rxd2 Nxd2 29.f4 e4 30.Nd4 Bf1+ 31.Kh2 g6 32.g4 fxg4 33.hxg4 Nxg4+ 34.Kg3 Nf6 35.Ndb5 a6 36.Nd6 Bd3 37.f5 g5 38.Na4 h5 39.Nc5 h4+ 40.Kf2 Ng4+ 41.Kg1 Nf6 42.Kf2 g4 43.Nxd3 exd3 44.e4 Nf3 45.Nc4 d2 46.Ne3 Ne5 47.Bb7 g3+ 48.Kg2 a5 49.Kh3 a4 50.Bc8 Nfg4 51.Nd1 Nf2+ 0-1

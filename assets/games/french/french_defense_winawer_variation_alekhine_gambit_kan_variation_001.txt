@@ -1,0 +1,14 @@
+[Event "Round 5: Johansson, Ulf 1966 - Nygren, David"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-5/JTTwQAOc/SWXexGG4"]
+[Date "2026.07.01"]
+[Round "5.19"]
+[White "Johansson, Ulf 1966"]
+[Black "Nygren, David"]
+[Result "1/2-1/2"]
+[WhiteElo "2078"]
+[BlackElo "2073"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Alekhine Gambit, Kan Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6 7.Bf4 Nf6 8.Bb5 Bd7 9.d5 exd5 10.Nxd5 Nxd5 11.Qxd5 O-O 12.Bg5 Qc8 13.O-O-O Bg4 14.f3 exf3 15.gxf3 Be6 16.Qe4 Bf5 17.Qf4 f6 18.Bh4 Ne5 19.Rhg1 Bg6 20.Bg3 Qe6 21.Rge1 Kh8 22.Qa4 c6 23.Bd3 b5 24.Qb4 a5 25.Qc5 Nxd3+ 26.Rxd3 Qa2 27.Rd7 Qa1+ 28.Kd2 Qxb2 29.Ree7 Rg8 30.Bf2 Qb1 31.Bd4 Qh1 32.Rxg7 Qxh2+ 33.Kd1 Rxg7 34.Bxf6 Qh1+ 35.Kd2 Qh2+ 36.Kc1 Qf4+ 37.Kd1 Qh2 1/2-1/2

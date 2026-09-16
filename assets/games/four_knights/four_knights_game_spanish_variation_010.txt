@@ -1,0 +1,14 @@
+[Event "Round 10: Salcedo Paez, Jackeline - Pachon Gutierrez, Adriana Paola"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-femenino/round-10/7kFnBn4Q/nNQ7laH0"]
+[Date "2026.07.11"]
+[Round "10.7"]
+[White "Salcedo Paez, Jackeline"]
+[Black "Pachon Gutierrez, Adriana Paola"]
+[Result "*"]
+[WhiteElo "2038"]
+[BlackElo "2035"]
+[ECO "C48"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.Bxc6+ bxc6 6.d4 exd4 7.Qxd4 Be7 8.e5 c5 9.Qd1 dxe5 10.Qxd8+ Bxd8 11.Nxe5 O-O 12.O-O Be7 13.Bg5 h6 14.Bxf6 Bxf6 15.Nf3 Bxc3 16.bxc3 Be6 17.a4 Rab8 18.a5 Rfd8 *

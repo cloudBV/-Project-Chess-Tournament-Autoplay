@@ -1,0 +1,14 @@
+[Event "Round 3: Vassis, Michail - Gumularz, Szymon"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/NVS21vDV"]
+[Date "2026.07.16"]
+[Round "3.1"]
+[White "Vassis, Michail"]
+[Black "Gumularz, Szymon"]
+[Result "1/2-1/2"]
+[WhiteElo "2353"]
+[BlackElo "2618"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights, Fianchetto Variation"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.Nf3 d6 6.d3 e6 7.O-O Nge7 8.e4 O-O 9.Be3 e5 10.Qd2 Nd4 11.Bh6 Rb8 12.Bxg7 Kxg7 13.Nxd4 cxd4 14.Nd5 b5 15.b3 bxc4 16.bxc4 Nxd5 17.exd5 Qb6 18.f4 Bd7 19.Rf2 f6 20.Raf1 Qc5 21.h4 Bg4 22.fxe5 dxe5 23.Rf4 f5 24.Rxf5 Rf6 1/2-1/2

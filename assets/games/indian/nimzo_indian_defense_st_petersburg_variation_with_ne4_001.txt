@@ -1,0 +1,14 @@
+[Event "Round 5: Ling, Chenxuan - Filipovic, Branko"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/XIdG6nwg"]
+[Date "2026.07.19"]
+[Round "5.5"]
+[White "Ling, Chenxuan"]
+[Black "Filipovic, Branko"]
+[Result "1/2-1/2"]
+[WhiteElo "2235"]
+[BlackElo "2109"]
+[ECO "E43"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, with Ne4"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Nf3 e6 5.e3 Bb4 6.Bd3 Ne4 7.Bd2 Bxc3 8.Bxc3 O-O 9.O-O f5 10.Nd2 Nxc3 11.bxc3 d6 12.f3 Nd7 13.Qc2 g6 14.Rae1 e5 15.e4 f4 16.Nb3 Qe7 17.Rd1 Rfd8 18.Qf2 a5 19.c5 dxc5 20.dxc5 Nxc5 21.Nxc5 Qxc5 22.Qxc5 bxc5 23.Bc4+ Kf8 24.Kf2 Ke7 25.Ke2 Bc6 26.Rxd8 Rxd8 27.Rb1 g5 28.h4 g4 29.Bd3 g3 30.Bc4 h6 31.Rb2 Ra8 32.a3 Rd8 33.Rb1 Ra8 34.Kd3 Rd8+ 35.Ke2 Ke8 36.Bb5 Rd6 37.Bc4 Rd8 38.Bb5 Rd6 39.Bc4 Rd8 40.Bb5 1/2-1/2

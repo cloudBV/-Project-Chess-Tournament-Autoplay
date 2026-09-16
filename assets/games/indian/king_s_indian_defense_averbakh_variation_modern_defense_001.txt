@@ -1,0 +1,15 @@
+[Event "Round 6: Akyuz, Kerem Arhan - Rostami, Mohsen"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/DLSAixKf"]
+[Date "2026.07.02"]
+[Round "6.44"]
+[White "Akyuz, Kerem Arhan"]
+[Black "Rostami, Mohsen"]
+[Result "0-1"]
+[WhiteElo "2206"]
+[BlackElo "2010"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Averbakh Variation, Modern Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 Na6 6.Bg5 O-O 7.Qd2 Qe8 8.h4 e5 9.d5 Nc5 10.Bf3 h5 11.b4 Na6 12.Rb1 Nh7 13.Bh6 f5 14.Bxg7 Kxg7 15.exf5 Bxf5 16.Be4 Qe7 17.Nge2 Nb8 18.Ng3 Bxe4 19.Ngxe4 Nd7 20.g3 Rf5 21.Qe2 Raf8 22.Kf1 Ndf6 23.Kg2 Kg8 24.c5 Nxe4 25.Nxe4 Nf6 26.cxd6 cxd6 27.Rhf1 Qf7 28.Nxf6+ Rxf6 29.Rbd1 Qc7 30.Qe3 b6 31.f3 Qc4 32.a3 Kg7 33.Rf2 Rc8 34.Rd3 Rf7 35.Rfd2 Qc1 36.Qf2 Qb1 37.Re3 Rc1 38.Rde2 Rd1 39.Rb2 Qc1 40.Rc2 Rg1+ 41.Kh2 Rh1+ 42.Kg2 Rg1+ 43.Qxg1 Qxc2+ 44.Kh3 Qd2 45.Qe1 Qxe1 46.Rxe1 Rxf3 47.Rc1 Rd3 48.Rc7+ Kf6 49.Rxa7 Rxd5 50.a4 Rd4 51.b5 e4 52.Ra6 Ke5 53.Kg2 Rb4 54.Kf2 Rb2+ 55.Kf1 Ra2 56.Ke1 Kd5 57.Ra7 Kd4 58.Rg7 Ke3 59.Kd1 d5 60.Rxg6 d4 61.Rxb6 d3 62.Kc1 d2+ 0-1

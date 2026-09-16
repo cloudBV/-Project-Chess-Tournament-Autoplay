@@ -1,0 +1,15 @@
+[Event "Round 6: Gutierrez Perez, Fabian - Zaragoza Alanis, Miguel Arnulfo"]
+[Site "https://lichess.org/broadcast/torneo-de-ajedrez-rapido-construajedrez-2026/round-6/YNWOcZ3l/HyOww3BG"]
+[Date "2026.07.18"]
+[Round "6.1"]
+[White "Gutierrez Perez, Fabian"]
+[Black "Zaragoza Alanis, Miguel Arnulfo"]
+[Result "*"]
+[WhiteElo "2234"]
+[BlackElo "2265"]
+[ECO "A13"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.g3 Bd6 5.Bg2 O-O 6.Nbd2 Nc6 7.O-O Re8 8.Qc2 Nb4 9.Qb1 c5 10.dxc5 Bxc5 11.a3 Nc6 12.b4 Be7 13.Bb2 a6 14.Rd1 Qb6 15.c5 Qc7 16.e4 dxe4 17.Nxe4 Nd5 18.Neg5 g6 19.Qe4 h6 20.Nh3 Bd7 21.Ne5 Bf6 22.f4 Nxe5 23.fxe5 Bg7 24.Nf4 Bc6 25.Qe2 Ne7 26.Rd6 Bb5 27.Qd2 a5 28.Rd1 axb4 29.axb4 Ra2 30.Qc1 Nc6 31.Rd7 Qb8 32.Qb1 Rxb2 33.Qxb2 Nxe5 34.R7d4 Bc6 35.Qd2 Bxg2 36.Qxg2 Ng4 37.Rd6 Ne3 38.Qf3 Nxd1 39.Qxd1 Be5 40.Rd7 Bxf4 41.gxf4 Qxf4 42.Rxb7 Qe3+ 43.Kg2 Ra8 44.Qf3 Ra2+ 45.Kg3 Qg1+ 46.Kf4 Rf2 47.Rb8+ Kg7 48.Rc8 Qg5+ 49.Ke4 Qd5+ *

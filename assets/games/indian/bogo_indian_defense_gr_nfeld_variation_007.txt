@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/RiTkUMjh"]
+[Date "2026.07.05"]
+[Round "9.20"]
+[White "Werblinski, Wojciech"]
+[Black "Debmisra, Ariv"]
+[Result "1-0"]
+[WhiteElo "2031"]
+[BlackElo "2094"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.g3 Bb7 6.Bg2 O-O 7.O-O d5 8.Ne5 Nbd7 9.Qa4 Bd6 10.cxd5 exd5 11.Nxd7 Nxd7 12.Nf3 Qe7 13.Re1 c5 14.Qb3 Rab8 15.Bd2 Nf6 16.Nh4 Ne4 17.Nf5 Qf6 18.Bxe4 dxe4 19.Nxd6 Qxd6 20.Bf4 Qxd4 21.Bxb8 Rxb8 22.Rad1 Qf6 23.Qc3 Qe6 24.Qd2 Kf8 25.Qf4 Rc8 26.Rd6 Qe7 27.Red1 Bc6 28.Rxc6 Rxc6 29.Qb8+ Qe8 30.Rd8 1-0

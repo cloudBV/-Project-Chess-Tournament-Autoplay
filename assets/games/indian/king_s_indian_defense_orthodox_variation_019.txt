@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.07.12"]
+[Round "3.11"]
+[White "Esplugas Esteve, Vicenc"]
+[Black "Gomez Navais, Marcal"]
+[Result "0-1"]
+[WhiteElo "2304"]
+[BlackElo "2095"]
+[ECO "E94"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Bg4 8.d5 a5 9.Ne1 Bd7 10.Nd3 Na6 11.a3 a4 12.f3 Qe8 13.Be3 b6 14.Nb5 Bxb5 15.cxb5 Nc5 16.Nxc5 bxc5 17.b4 axb3 18.Qxb3 Nd7 19.a4 f5 20.Rfb1 fxe4 21.fxe4 Rf4 22.Qc2 Ra5 23.g3 Rf8 24.Bd2 Qa8 25.Ra2 Nb6 26.Bxa5 Qxa5 27.Qd2 Qxd2 28.Rxd2 Nxa4 29.Rc2 Bh6 30.Rb3 Nb6 31.Ra3 Rf7 32.Bg4 Kg7 33.Be6 Re7 34.Kg2 Bg5 35.h4 Bh6 36.g4 Bf4 37.Kf3 h6 38.Ra7 Kf6 39.Ke2 Bg3 40.Rb7 Na4 41.Kd3 Bxh4 42.Ra2 c4+ 43.Kxc4 Nc5 44.Rb8 Nxe6 45.dxe6 Kxe6 46.Rg8 Kf7 47.Rh8 Kg7 48.Rc8 Kf6 49.Kd5 Bg5 50.Ra7 c6+ 51.bxc6 Rxa7 52.Kxd6 Bd2 53.Rf8+ Kg7 54.Rd8 Ba5 55.Re8 Kf6 56.Rf8+ Kg5 57.Rg8 Bc7+ 58.Ke6 Ba5 59.Kxe5 h5 60.gxh5 Kxh5 61.Kf6 Rc7 62.Rh8+ Kg4 63.Kxg6 Rxc6+ 64.Kf7 Kf4 65.Rh5 Bc3 66.Ke7 Kxe4 67.Kd7 Ra6 68.Ke7 Be5 69.Rh1 Kd5 70.Rd1+ Bd4 71.Kf7 Ra7+ 72.Kg6 Ke4 73.Re1+ Be3 74.Kf6 Ra6+ 75.Ke7 Kd4 76.Kf7 Bf4 77.Re2 Kd5 78.Re1 Be5 79.Rd1+ Bd4 80.Rd2 Ra7+ 81.Kg6 Rg7+ 82.Kf5 Rg1 83.Ra2 Rf1+ 84.Kg4 Ke4 85.Ra4 Rg1+ 86.Kh4 Ke5 87.Kh3 Be3 88.Rb4 Kf5 89.Kh2 Rg8 90.Ra4 Bf4+ 91.Kh3 Rg3+ 92.Kh4 Be5 93.Ra5 Rg2 94.Ra3 Rh2+ 95.Rh3 Rg2 96.Ra3 Rg1 97.Kh3 Bf4 98.Ra4 Rg8 99.Rc4 Be5 100.Ra4 Rg3+ 101.Kh4 Rc3 102.Rb4 Bf6+ 103.Kh5 Rh3+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 7: Novotny, Michal - Mik, Tomas"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/t2quu9OJ"]
+[Date "2026.07.19"]
+[Round "7.32"]
+[White "Novotny, Michal"]
+[Black "Mik, Tomas"]
+[Result "0-1"]
+[WhiteElo "2203"]
+[BlackElo "2101"]
+[ECO "B80"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 Be7 7.g4 h6 8.Qe2 Nc6 9.h3 Bd7 10.O-O-O Nxd4 11.Rxd4 Qa5 12.Bg2 Rc8 13.Kb1 b5 14.Qd2 Qc7 15.Rd1 Bc6 16.f4 e5 17.Rb4 a5 18.Rxb5 Bxb5 19.Nxb5 Qb8 20.a4 O-O 21.g5 hxg5 22.fxg5 Nd7 23.h4 Nc5 24.b3 Qb7 25.Bxc5 dxc5 26.Qxa5 c4 27.Rd5 cxb3 28.cxb3 Qc6 29.Qd2 Bb4 30.Qd1 Qb6 31.Bf1 Qe3 32.Bd3 Rfd8 33.g6 Rxd5 34.gxf7+ Kf8 35.exd5 e4 36.Bc2 Rd8 37.Nd4 Rd6 38.Nf5 Qc3 39.Nxd6 Bxd6 40.Bxe4 Be5 41.Qe2 Qxb3+ 0-1

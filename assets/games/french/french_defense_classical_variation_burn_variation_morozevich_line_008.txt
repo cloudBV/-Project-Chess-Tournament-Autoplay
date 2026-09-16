@@ -1,0 +1,14 @@
+[Event "Round 8: Djurovic, Peko - Maltsevskaya, Aleksandra"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/y7huvUzF"]
+[Date "2026.07.10"]
+[Round "8.29"]
+[White "Djurovic, Peko"]
+[Black "Maltsevskaya, Aleksandra"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "2360"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Qd3 Nc6 8.O-O-O f5 9.Nc3 Bf6 10.d5 Ne5 11.Qe2 Qe7 12.g3 Bd7 13.f4 Ng6 14.Qe3 O-O 15.Nf3 Rfe8 16.Bc4 Qb4 17.Bb3 c6 18.dxe6 Bxe6 19.Bxe6 Rxe6 20.Qd3 Qa5 21.Nd4 Bxd4 22.Qxd4 Rae8 23.a3 Re3 24.Kb1 h6 25.Rd2 Nf8 26.Rhd1 R3e7 27.Qc4 Kg7 28.Ne2 Re4 29.Nd4 Kg8 30.Qb3 R8e7 31.Qc3 Qd5 32.Nf3 Qc4 33.Qxc4 Rxc4 34.Nh4 Re6 35.Nxf5 Rc5 36.Nd6 b5 37.b4 Rc3 38.Kb2 Rf3 39.Nf5 Rf6 40.Ne7+ Kg7 41.Rd6 Rf2 42.Rxf6 Kxf6 43.Nxc6 a6 44.Rd6+ Kf5 45.Rxh6 Ne6 46.Rh5+ Kg6 47.Rh8 Nc7 48.Ne5+ Kg7 49.Rd8 Rxh2 50.Rd7 Ne6 51.Rxf7+ Kg8 52.Rd7 Rg2 53.f5 Ng5 54.f6 Rf2 55.Rg7+ 1-0

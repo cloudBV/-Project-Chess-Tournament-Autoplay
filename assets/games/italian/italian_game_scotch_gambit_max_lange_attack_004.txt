@@ -1,0 +1,14 @@
+[Event "Round 9: Lu, Miaoyi - Fogo Esquivel, Levi Kalani Alexander"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-9/PFJULri3/l09m7KPe"]
+[Date "2026.07.12"]
+[Round "9.8"]
+[White "Lu, Miaoyi"]
+[Black "Fogo Esquivel, Levi Kalani Alexander"]
+[Result "1-0"]
+[WhiteElo "2309"]
+[BlackElo "2088"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bd7 8.Bxc6 bxc6 9.O-O Bc5 10.f3 Ng5 11.f4 Ne4 12.Be3 O-O 13.Nd2 Nxd2 14.Qxd2 Qe7 15.Rae1 Bb6 16.Nb3 Bf5 17.Qc3 Qd7 18.Bc5 Rfe8 19.Kh1 Be4 20.Rf2 Rab8 21.Ref1 d4 22.Bxd4 Bxd4 23.Nxd4 Red8 24.Nb3 Qf5 25.Nc5 Bd5 26.b3 h5 27.Qe3 a5 28.Rd2 h4 29.h3 Be6 30.Rfd1 Rxd2 31.Rxd2 Re8 32.Qe4 Qxe4 33.Nxe4 f6 34.exf6 Bxh3 35.f7+ Kxf7 36.Ng5+ Kg6 37.Nxh3 Re1+ 38.Kh2 Rc1 39.Re2 Kf5 40.Re5+ Kf6 41.Rc5 Ra1 42.Rxa5 Ke6 43.Ng5+ Kd6 44.Ne4+ Ke6 45.Re5+ Kd7 46.a4 Rc1 47.Rc5 Re1 48.Rc4 Ra1 49.Kh3 Rh1+ 50.Kg4 Rg1 51.a5 Rxg2+ 52.Kh3 Rg1 53.a6 Rh1+ 54.Kg2 Re1 55.a7 h3+ 56.Kxh3 Rh1+ 57.Kg2 Rh8 58.Nc5+ Ke7 59.Na6 Ra8 60.Nb8 c5 61.Rxc5 Kd6 62.Rc6+ Kd5 63.Rxc7 g6 64.Rg7 Kd4 65.b4 Kc4 66.Rb7 Kd4 67.Nc6+ 1-0

@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.05"]
+[Round "1.7"]
+[White "Milliet, Sophie"]
+[Black "Patil Priyanshu"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2123"]
+[ECO "B36"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Nf6 6.Nc3 d6 7.Be2 Bg7 8.Be3 Bd7 9.Nc2 Rc8 10.f3 O-O 11.Rb1 Ne5 12.Na3 Be6 13.Nd5 Nfd7 14.O-O f5 15.Nf4 Bf7 16.exf5 gxf5 17.b3 Ng6 18.Nh5 Be5 19.f4 Bh8 20.Nb5 Nc5 21.Ng3 Qd7 22.Nxa7 Qe6 23.Bd4 Ra8 24.Nb5 Rxa2 25.Nc3 Ra3 26.Nd5 Nh4 27.Bxh8 Kxh8 28.Qd4+ Kg8 29.Rbe1 Qd7 30.Nh5 Bxh5 31.Bxh5 Ne4 32.Bf3 Ra2 33.Kh1 e5 34.fxe5 Qg7 35.Bxe4 fxe4 36.Qxe4 Nf3 37.Ne7+ Kh8 38.Ng6+ hxg6 39.Rxf3 Rxf3 40.Qxf3 Qxe5 41.Qf8+ Kh7 42.Rf1 Ra1 43.h3 d5 44.cxd5 Rxf1+ 45.Qxf1 Qxd5 46.Qf3 Qd7 47.b4 b5 48.Qf4 Qd5 49.Kh2 Kg7 50.Qc7+ Kg8 51.Qe7 Qc4 52.g4 Qd3 53.Kg2 Kh8 54.g5 Kg8 55.h4 Qc4 56.Kg3 Qd3+ 57.Kf4 Qf5+ 58.Ke3 Qh3+ 59.Kd4 Qc8 60.Ke5 Kh8 61.Qc5 Qb7 62.Kd6 Qb8+ 63.Kc6 Qe8+ 64.Kc7 Kg7 65.Qd4+ Kf8 66.Qh8+ Kf7 67.Qxe8+ Kxe8 68.Kc6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 3: Kutanjac, Aleksandar - Postny, Evgeny"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/wk8oMNhl"]
+[Date "2026.07.15"]
+[Round "3.17"]
+[White "Kutanjac, Aleksandar"]
+[Black "Postny, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2264"]
+[BlackElo "2528"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Bf5 5.Bd3 Bxd3 6.Qxd3 Qb6 7.Nd2 e6 8.Rb1 Nf6 9.h3 Be7 10.Ngf3 O-O 11.O-O Rfe8 12.Rfd1 Rad8 13.Qc2 h6 14.Bh2 Rc8 15.Qb3 Qa6 16.a4 b6 17.Qb5 Qb7 18.dxc5 Bxc5 19.Nb3 Nb8 20.Nxc5 Rxc5 21.Qd3 Nbd7 22.b4 Rcc8 23.Rbc1 e5 24.Nd2 Qc6 25.Qc2 a6 26.c4 dxc4 27.Nxc4 b5 28.axb5 axb5 29.Na3 Qxc2 30.Rxc2 Rxc2 31.Nxc2 Ra8 32.Ra1 Rxa1+ 33.Nxa1 Nd5 34.Nc2 f5 35.f3 Kf7 36.Bg3 Ke6 37.Be1 Nc7 38.g4 fxg4 39.hxg4 Kd5 40.Na3 g6 41.Kf1 Kc6 42.e4 Ne6 43.Kf2 h5 44.gxh5 gxh5 45.Nc2 Ndf8 46.Bc3 Ng6 47.Kg3 Kd6 48.Na3 Kc6 49.Nc2 Kd6 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-5/2jIIDLpk/ofExDBQp"]
+[Date "2026.07.04"]
+[Round "5.5"]
+[White "Dobosiewicz, Dawid"]
+[Black "Lang, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2282"]
+[BlackElo "2156"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be3 Nd5 8.Bd2 c5 9.Ne5 a6 10.c4 Nf6 11.dxc5 Bxc5 12.Nd3 Bd6 13.Be2 O-O 14.c5 Bc7 15.O-O e5 16.Be3 Nd5 17.Qd2 Qe7 18.Nb4 Nxe3 19.Qxe3 e4 20.Nd5 Bxh2+ 21.Kxh2 Qe5+ 22.Nf4 g5 23.g3 gxf4 24.gxf4 Qf6 25.Rg1+ Kh8 26.Rg5 Bf5 27.Rag1 Rg8 28.Qg3 Rxg5 29.Qxg5 Qxg5 30.fxg5 Kg7 31.Kg3 Be6 32.Rd1 Bxa2 33.Rd7 Rc8 34.b4 a5 35.b5 Rxc5 36.Rxb7 Bc4 1/2-1/2

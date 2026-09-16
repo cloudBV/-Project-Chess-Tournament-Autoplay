@@ -1,0 +1,14 @@
+[Event "Round 12: Ashwath Kaushik - Schweizer, Simon"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-12/matJRD1E/lDuL3UoD"]
+[Date "2026.07.19"]
+[Round "12.12"]
+[White "Ashwath Kaushik"]
+[Black "Schweizer, Simon"]
+[Result "1-0"]
+[WhiteElo "2122"]
+[BlackElo "2182"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 c5 5.cxd5 cxd4 6.dxe6 Bxe6 7.Qxd4 Nc6 8.Qxd8+ Rxd8 9.a3 Bd5 10.Bg2 Nd4 11.Nxd4 Bxg2 12.Rg1 Bh3 13.Nf3 Be7 14.Nc3 h6 15.Bd2 O-O 16.O-O-O Bf5 17.Be3 b6 18.Nd4 Bd7 19.f3 Rfe8 20.Bf2 Rc8 21.Nc2 b5 22.e4 Bxa3 23.Nxa3 b4 24.Nb1 bxc3 25.Nxc3 a5 26.Bd4 Ba4 27.Rd2 Nh7 28.Kb1 Bb3 29.Rc1 Nf8 30.Ne2 Ne6 31.Rc3 a4 32.Nc1 Bc4 33.Be3 Bb5 34.Rxc8 Rxc8 35.Na2 Bc4 36.Nc3 Bb3 37.f4 Nc7 38.Rd4 Ra8 39.Rb4 Ne6 40.f5 Ng5 41.Bxg5 hxg5 42.Kc1 f6 43.Kd2 Kh7 44.Ke3 Kh6 45.g4 Kh7 46.Rb7 Kg8 47.Nb5 Rc8 48.Nd4 Bd1 49.Ne6 Bxg4 50.Rxg7+ Kh8 51.Rg6 Rc2 52.h3 Bd1 53.Rxf6 Rxb2 54.Rf8+ Kh7 55.Nxg5+ Kh6 56.Ne6 Kh7 57.f6 Bb3 58.f7 Bxe6 59.Rh8+ Kxh8 60.f8=Q+ 1-0

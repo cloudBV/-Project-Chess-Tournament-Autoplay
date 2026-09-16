@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.5"]
+[White "Rey Martinez, Jaime"]
+[Black "Chuiko, Maksym"]
+[Result "1/2-1/2"]
+[WhiteElo "2343"]
+[BlackElo "2060"]
+[ECO "C48"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation, Henneberger Variation"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.Bb5 Nd4 5.O-O Nxb5 6.Nxb5 c6 7.Nc3 d6 8.d4 Qc7 9.h3 b5 10.a3 Be7 11.Bg5 h6 12.Bh4 O-O 13.Qd3 Rd8 14.Rad1 a5 15.b4 axb4 16.axb4 Be6 17.Rfe1 Bc4 18.Qe3 Ra3 19.Qd2 Qb6 20.Re3 Raa8 21.d5 c5 22.Nb1 cxb4 23.Qxb4 Ra4 24.Qb2 Ra2 25.Qc1 Qc5 26.Nc3 Ra3 27.Nd2 b4 28.Nxc4 Qxc4 29.Nb1 Rxe3 30.Qxe3 Nxd5 31.Rxd5 Bxh4 32.c3 Qa2 33.Nd2 Bg5 34.Qb6 bxc3 35.f4 Qa1+ 36.Nf1 c2 37.fxg5 c1=Q 38.Qxd8+ Kh7 39.g6+ fxg6 40.Qf8 Qe3+ 41.Qf2 Qxe4 42.Rxd6 Qae1 43.Rd2 Qxf2+ 44.Kxf2 Qf4+ 45.Kg1 e4 46.Re2 Qf5 47.Ng3 Qc5+ 48.Kh2 e3 49.Kg1 g5 50.Nf1 h5 51.Rxe3 g4 52.hxg4 hxg4 53.Kf2 Qf5+ 54.Kg1 Kg6 55.Rg3 Qc5+ 56.Kh2 Kh5 57.Re3 Qc7+ 58.Kg1 Qc5 59.Kh2 Qd6+ 60.Kg1 Qb6 61.Kh2 Qb8+ 62.Kg1 Kh4 63.Kf2 Qb2+ 64.Kg1 Qd4 65.Kf2 g6 66.Ke2 Qb2+ 67.Nd2 Qb5+ 68.Kf2 Qf5+ 69.Ke1 Qa5 70.Ke2 g5 71.Nf1 Qa2+ 72.Nd2 Qd5 73.Ne4 Qc4+ 74.Kf2 Qa2+ 75.Re2 Qa7+ 76.Re3 Qa2+ 77.Kg1 Qa1+ 78.Kh2 Qe5+ 79.Ng3 Qf4 80.Rd3 Qc7 81.Re3 Qb8 82.Rd3 1/2-1/2

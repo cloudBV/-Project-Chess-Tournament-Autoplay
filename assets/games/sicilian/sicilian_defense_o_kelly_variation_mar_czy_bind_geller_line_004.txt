@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.20"]
+[Round "3.16"]
+[White "Casadio, Niccolo`"]
+[Black "Kusiak, Mateusz"]
+[Result "1/2-1/2"]
+[WhiteElo "2336"]
+[BlackElo "2063"]
+[ECO "B32"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nf5 d5 7.cxd5 Bxf5 8.exf5 Nd4 9.Nc3 Nf6 10.Bd3 Be7 11.O-O O-O 12.Re1 Nxd5 13.Rxe5 Nxc3 14.bxc3 Bf6 15.Re1 Nb5 16.Bxb5 axb5 17.Qb3 Qd3 18.Rb1 Qxf5 19.Be3 Rfc8 20.Qxb5 Qxb5 21.Rxb5 Rxa2 22.Rxb7 Bxc3 23.Rc1 Ra1 24.Rxa1 Bxa1 25.g3 1/2-1/2

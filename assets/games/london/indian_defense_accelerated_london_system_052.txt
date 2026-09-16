@@ -1,0 +1,15 @@
+[Event "Round 7: Manafov, Vugar - Ibrahimli, Suat"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-7/JagHKq4G/zEPWjjgU"]
+[Date "2026.07.18"]
+[Round "7.3"]
+[White "Manafov, Vugar"]
+[Black "Ibrahimli, Suat"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2077"]
+[ECO "A45"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.h3 g6 5.Nf3 Bg7 6.Be2 d6 7.c3 O-O 8.O-O c5 9.a4 Nbd7 10.a5 Re8 11.Na3 Rc8 12.Re1 Qc7 13.axb6 axb6 14.Nb5 Qb8 15.Nd2 Rcd8 16.Bc4 h6 17.Qb3 Rf8 18.e4 e5 19.Bh2 Nh5 20.Nf3 Nf4 21.dxe5 dxe5 22.Rad1 Ba6 23.Nd6 Bxc4 24.Qxc4 Ne6 25.Rd2 Nc7 26.Red1 Ne6 27.Nxf7 Rxf7 28.Qxe6 Re8 29.Qxg6 Nf6 30.Nxe5 Rxe5 31.Rd8+ Qxd8 32.Rxd8+ Re8 33.Rxe8+ Nxe8 34.Qxb6 c4 35.Qe6 1-0

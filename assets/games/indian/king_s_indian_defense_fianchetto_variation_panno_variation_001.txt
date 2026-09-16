@@ -1,0 +1,14 @@
+[Event "Open: Makepeace, Philip J - Stewart, Ashley"]
+[Site "https://lichess.org/broadcast/ecf-county-championship-finals-2026/open/vlK11avw/pap89CUe"]
+[Date "2026.07.04"]
+[Round "1.9"]
+[White "Makepeace, Philip J"]
+[Black "Stewart, Ashley"]
+[Result "1/2-1/2"]
+[WhiteElo "2122"]
+[BlackElo "2090"]
+[ECO "E63"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Panno Variation"]
+
+1.Nf3 g6 2.d4 Nf6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O a6 7.Nc3 Nc6 8.Bg5 h6 9.Bxf6 Bxf6 10.Qd2 Bg7 11.h4 Bg4 12.Nh2 Bd7 13.e3 e5 14.dxe5 Nxe5 15.b3 Rb8 16.Rac1 Bc6 17.Nd5 Re8 18.Nf3 Nxf3+ 19.Bxf3 h5 20.Kg2 Bd7 21.Rcd1 Bf5 22.Rfe1 1/2-1/2

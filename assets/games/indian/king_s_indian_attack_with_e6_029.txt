@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-1/XUUyCB30/KAiGz934"]
+[Date "2026.07.09"]
+[Round "15.8"]
+[White "Kiszkiel, Oskar"]
+[Black "Matiievskyi, Rostyslav"]
+[Result "1-0"]
+[WhiteElo "2229"]
+[BlackElo "2113"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack, with e6"]
+
+1.Nf3 Nf6 2.g3 e6 3.Bg2 d5 4.O-O Be7 5.b3 b6 6.Bb2 Bb7 7.c4 O-O 8.d4 dxc4 9.bxc4 c5 10.e3 cxd4 11.exd4 Nc6 12.Nbd2 Rc8 13.Rc1 Qc7 14.Re1 Rfd8 15.Qe2 h6 16.a3 Na5 17.d5 Qd7 18.dxe6 Qxe6 19.Qxe6 fxe6 20.Rxe6 Kf7 21.Ree1 Bd6 22.Bh3 Rc7 23.Be6+ Kf8 24.Nh4 Be7 25.Ng6+ Ke8 26.Bc3 Nc6 27.Nf3 Rd3 28.Nfh4 Kd8 29.Nf5 Bxa3 30.Rcd1 Rxd1 31.Rxd1+ Ke8 32.Re1 Kd8 33.Nxg7 Ne8 34.Rd1+ Bd6 35.Nxe8 Kxe8 36.Rxd6 Ne7 37.Bf6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: Kourkoulos-Arditis, Stamatis - Papasimakopoulos, Alexandros"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/24Td9rq7"]
+[Date "2026.07.07"]
+[Round "4.21"]
+[White "Kourkoulos-Arditis, Stamatis"]
+[Black "Papasimakopoulos, Alexandros"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2353"]
+[ECO "A54"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Tartakower-Indian"]
+
+1.c4 d6 2.Nf3 Bg4 3.d4 Nf6 4.Nc3 Nbd7 5.e4 e5 6.Be2 Be7 7.Be3 c6 8.d5 cxd5 9.cxd5 a6 10.Nd2 Bxe2 11.Qxe2 b5 12.O-O O-O 13.Rfc1 Ne8 14.a4 b4 15.Nd1 Bg5 16.Nb3 g6 17.Rc6 Bxe3 18.Nxe3 Nb8 19.Rc2 f5 20.exf5 gxf5 21.f4 exf4 22.Nxf5 Nd7 23.Nfd4 Ne5 24.Ne6 Qb6+ 25.Qf2 Qxf2+ 26.Rxf2 Rf6 27.Rxf4 Rxf4 28.Nxf4 Nc4 29.Nd3 a5 30.Nd4 Nb6 31.Nf4 Nf6 32.Nc6 Ra6 33.Nb8 Ra8 34.Nc6 Ra6 35.Nd4 Nbxd5 36.Nxd5 Nxd5 37.Rc1 Kf7 38.Kf2 Ne7 39.Ke3 Kf6 40.Kd3 d5 41.Rc5 Ke5 42.Rc7 Kd6 43.Nb5+ Ke6 44.Kd4 Kf6 45.Kc5 Re6 46.Nd4 Re1 47.Ra7 Rc1+ 48.Kb5 Rc4 49.Ra6+ Kf7 50.Nf3 Rc2 51.b3 Rb2 52.Ng5+ Ke8 53.Ra8+ Kd7 54.Nxh7 Rxb3 55.Nf8+ Kc7 56.Ra7+ Kd8 57.Rxa5 Rb2 58.Ne6+ Ke8 59.Ra8+ Kf7 60.Ng5+ Kf6 61.Nf3 b3 62.Ra6+ Kf7 63.Kb4 Rxg2 64.Kxb3 Nf5 65.a5 Rf2 66.Ne5+ Ke7 67.h3 Nd6 68.Kb4 Ke6 69.Nd3 Rf3 70.Kc5 Rxd3 71.Rxd6+ Ke5 72.Rh6 d4 73.a6 Ra3 74.Kb6 d3 75.Rh8 Ke4 76.a7 d2 77.Rd8 Ke3 78.h4 Rb3+ 79.Kc6 Ra3 80.Kb7 Rb3+ 81.Kc7 Ra3 82.Kb6 Rb3+ 83.Kc5 Ra3 84.Kb6 1/2-1/2

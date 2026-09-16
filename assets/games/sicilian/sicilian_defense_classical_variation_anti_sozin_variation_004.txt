@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.6"]
+[White "Krol, Jan"]
+[Black "Musial, Igor"]
+[Result "0-1"]
+[WhiteElo "2207"]
+[BlackElo "2209"]
+[ECO "B57"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 7.Nb3 e6 8.Be3 Qc7 9.Bf4 a6 10.Be2 Be7 11.O-O b5 12.a3 Ne5 13.Be3 Bb7 14.Nd2 O-O 15.f4 Ned7 16.Bf3 Rfd8 17.Qe1 Nf8 18.Qf2 Re8 19.Nb3 Ng6 20.Na5 d5 21.Nxb7 Qxb7 22.exd5 exd5 23.Rad1 Ne4 24.Bxe4 dxe4 25.Nd5 f5 26.Rd2 Bf8 27.Rfd1 Rac8 28.h4 Qf7 29.c3 Ne7 30.Qg3 Nxd5 31.Rxd5 Be7 32.Qh3 Rcd8 33.Rxd8 Rxd8 34.Rxd8+ Bxd8 35.g3 Qd5 36.Qg2 Kf7 37.Qe2 g6 38.h5 Ke6 39.hxg6 hxg6 40.a4 Qd3 41.Qxd3 exd3 42.axb5 axb5 43.Kf2 Kd5 44.Ke1 Ke4 45.Kd2 Be7 46.Bd4 b4 47.Be3 Bd6 48.Bf2 bxc3+ 49.bxc3 Ba3 50.c4 Bb4+ 51.Kd1 Kf3 52.Be1 Bc5 53.Kd2 Ke4 54.Kc3 Ke3 55.Bd2+ Ke2 56.Bc1 Be3 0-1

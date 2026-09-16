@@ -1,0 +1,15 @@
+[Event "Round 4: Yildiz, Egehan - Kalinoglu, Yagiz"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/RRB1Td6E"]
+[Date "2026.07.01"]
+[Round "4.22"]
+[White "Yildiz, Egehan"]
+[Black "Kalinoglu, Yagiz"]
+[Result "1-0"]
+[WhiteElo "2360"]
+[BlackElo "2094"]
+[ECO "E17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 d5 8.cxd5 exd5 9.Nc3 Nbd7 10.Bf4 c5 11.Rc1 Ne4 12.h4 Ndf6 13.e3 Nxc3 14.bxc3 1-0

@@ -1,0 +1,14 @@
+[Event "Round 4: De La Riva Aguado, Oscar - Zherebtsova, Alexandra"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/caeeBOVj"]
+[Date "2026.07.06"]
+[Round "4.17"]
+[White "De La Riva Aguado, Oscar"]
+[Black "Zherebtsova, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2431"]
+[BlackElo "2272"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Nf6 9.Be3 cxd4 10.Nxd4 Bd7 11.c4 Nxd4 12.Bxd4 Bc6 13.Nc3 Be7 14.Qd3 O-O 15.Rad1 Qc8 16.Qg3 Rd8 17.a3 Qb8 18.Be5 Rxd1 19.Rxd1 Qf8 20.b4 Rd8 21.Rxd8 Qxd8 22.b5 Be8 23.Ne4 Nh5 24.Qe3 axb5 25.cxb5 Qd1 26.Nc3 Qd7 27.a4 f6 28.Bb8 Qc8 29.Ba7 Bb4 30.Ne4 Bf7 31.Bc5 Bxc5 32.Qxc5 Qd7 33.Qd6 Qc8 34.Qe7 Bg6 35.Nd6 Qb8 36.Qxe6+ Kf8 37.g3 1-0

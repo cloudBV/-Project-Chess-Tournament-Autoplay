@@ -1,0 +1,15 @@
+[Event "Round 3: Paravyan, David - Aakash Sharadchandra, Dalvi"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/DCKDyZLF"]
+[Date "2026.07.23"]
+[Round "3.15"]
+[White "Paravyan, David"]
+[Black "Aakash Sharadchandra, Dalvi"]
+[Result "1-0"]
+[WhiteElo "2584"]
+[BlackElo "2415"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.a4 O-O 9.g4 Be6 10.g5 Nfd7 11.h4 Nc6 12.Nd5 f5 13.Be3 Kh8 14.f3 Rc8 15.c3 Qe8 16.Nd2 Bxd5 17.exd5 Nd8 18.a5 Nf7 19.Qc2 Bd8 20.Qxf5 Nxg5 21.Qg4 Nf7 22.Ne4 Be7 23.Rg1 Rg8 24.Bd3 Nh6 25.Qh3 Qf7 26.Ng5 Qxd5 27.O-O-O Nf6 28.Bxh7 Qxa5 29.Bxg8 Rxc3+ 30.bxc3 Qxc3+ 31.Kb1 Nfxg8 32.Bc1 d5 33.Bb2 1-0

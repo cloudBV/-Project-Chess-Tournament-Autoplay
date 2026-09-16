@@ -1,0 +1,14 @@
+[Event "Round 4: Romanov, Evgeny - Shyam, Sundar M."]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/opYAu2Gk"]
+[Date "2026.07.06"]
+[Round "4.2"]
+[White "Romanov, Evgeny"]
+[Black "Shyam, Sundar M."]
+[Result "1/2-1/2"]
+[WhiteElo "2548"]
+[BlackElo "2478"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h3 Nc6 7.d5 Ne5 8.Bg5 c6 9.Qd2 b5 10.cxb5 cxb5 11.a3 Nfd7 12.Nf3 Nxf3+ 13.gxf3 Nc5 14.Rd1 Rb8 15.b4 Na4 16.Nxa4 bxa4 17.Bh6 Bxh6 18.Qxh6 e5 19.dxe6 Bxe6 20.h4 Qe7 21.h5 Rfd8 22.hxg6 fxg6 23.Rc1 Rbc8 24.O-O d5 25.Ba6 Rxc1 26.Rxc1 dxe4 27.fxe4 Qd6 28.Be2 Bb3 29.Qe3 Qd2 30.Rc8 Qd7 31.Rxd8+ Qxd8 32.Qxa7 Qg5+ 33.Kf1 Qc1+ 34.Kg2 Qg5+ 35.Kf1 Qc1+ 36.Kg2 Qg5+ 37.Kf1 1/2-1/2

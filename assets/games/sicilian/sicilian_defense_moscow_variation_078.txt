@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-4/9Kdq1tY4/ZPHlCVYn"]
+[Date "2026.07.15"]
+[Round "4.6"]
+[White "Vasques, Antonio Pedro Freixial"]
+[Black "Kilic, Eray"]
+[Result "0-1"]
+[WhiteElo "2218"]
+[BlackElo "2509"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.a4 Nf6 5.Nc3 g6 6.a5 Bg7 7.O-O O-O 8.Re1 a6 9.Bf1 e5 10.d3 h6 11.Nd2 Nb8 12.Nc4 Nc6 13.Nd5 Rb8 14.Bd2 Kh7 15.c3 Be6 16.Qf3 Ng8 17.Qg3 Nge7 18.Nce3 Nxa5 19.Nxe7 Nb3 20.Nxg6 fxg6 21.Rad1 Bf6 22.Ng4 Bh4 23.Qe3 Bg5 0-1

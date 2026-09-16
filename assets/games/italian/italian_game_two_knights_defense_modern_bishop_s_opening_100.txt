@@ -1,0 +1,14 @@
+[Event "Round 6: Pashikyan, Rudolf - Shyam, Sundar M."]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/he1U2lMr"]
+[Date "2026.07.19"]
+[Round "6.7"]
+[White "Pashikyan, Rudolf"]
+[Black "Shyam, Sundar M."]
+[Result "0-1"]
+[WhiteElo "2308"]
+[BlackElo "2478"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.h3 d6 6.a4 g6 7.Nc3 Bg7 8.a5 a6 9.O-O O-O 10.Be3 Qe7 11.Re1 Bd7 12.Nd5 Nxd5 13.Bxd5 Kh7 14.d4 f5 15.dxe5 dxe5 16.Qe2 f4 17.Bd2 g5 18.Qc4 Bf6 19.Ra3 h5 20.Rd3 g4 21.hxg4 hxg4 22.Nh2 Rg8 23.Rd1 Rg7 24.Bc3 Nd4 25.Qxc7 g3 26.Bxd4 gxh2+ 27.Kh1 exd4 28.Qxb7 Rc8 29.c3 Be5 30.cxd4 Qg5 31.g3 fxg3 32.fxg3 Bxg3 33.Qb3 Bh4 0-1

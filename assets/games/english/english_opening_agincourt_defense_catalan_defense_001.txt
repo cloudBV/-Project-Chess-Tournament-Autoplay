@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.7"]
+[White "Krawczyk, Flawian"]
+[Black "Kozlovic, Jernej"]
+[Result "0-1"]
+[WhiteElo "2226"]
+[BlackElo "2331"]
+[ECO "A13"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense"]
+
+1.Nf3 d5 2.g3 c5 3.c4 e6 4.Bg2 Nf6 5.O-O Nc6 6.cxd5 exd5 7.d4 Be7 8.dxc5 Bxc5 9.a3 Ne4 10.b4 Be7 11.Bb2 Bf6 12.Qc1 O-O 13.Nc3 Re8 14.e3 Bf5 15.Rd1 Nxc3 16.Bxc3 Rc8 17.Bxf6 Qxf6 18.Qd2 Be4 19.Nd4 Ne5 20.Qe2 h6 21.Rac1 b6 22.Qa6 Nd3 23.f3 Rxc1 24.Rxc1 Nxc1 25.fxe4 dxe4 26.Qa4 Qe5 27.Qxa7 Qg5 28.Kf2 Nd3+ 29.Ke2 Qh5+ 30.Kd2 Qxh2 0-1

@@ -1,0 +1,15 @@
+[Event "X Caioba - STD"]
+[Site "Hotel do SESC, Matinhos, Parana, Brazil, Brasil ( BRA )"]
+[Date "2026.07.05"]
+[Round "9.19"]
+[White "Silverio, Vitor Luis De Jesus"]
+[Black "Acosta, Pablo Ismael"]
+[Result "0-1"]
+[WhiteElo "2124"]
+[BlackElo "2446"]
+[ECO "B43"]
+[TimeControl "90 minutos con 30 segundos por jugada"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Ne7 6.Be3 Nec6 7.Qg4 Nxd4 8.Bxd4 Nc6 9.Be3 b5 10.O-O-O Bb7 11.Bd3 Rc8 12.Kb1 Qa5 13.f4 Nb4 14.Bd2 Nxd3 15.cxd3 b4 16.Ne2 h5 17.Qg3 h4 18.Qh3 Be7 19.Rc1 O-O 20.g4 d5 21.e5 Qb6 22.Be3 Qb5 23.Bd4 b3 24.a3 Qa4 25.Rxc8 Rxc8 26.Rc1 Bc6 27.Bc5 Bd8 28.Bb4 Bd7 29.Rxc8 Bxc8 30.Qe3 Qb5 31.Bc5 a5 32.Nc3 Qc6 33.a4 d4 34.Qxd4 Qh1+ 35.Qg1 Qf3 36.Qd1 Qxf4 37.Qxb3 Qxe5 38.Qb5 Kh7 39.Qc6 Qc7 40.Qe4+ f5 41.Qd4 Bf6 42.Qf2 Ba6 43.Nb5 Qd7 44.d4 fxg4 45.Qf4 e5 46.Qe4+ g6 47.dxe5 Bb7 48.Qe2 Bf3 49.e6 Qd5 50.Qe3 Qd1+ 51.Ka2 Bd5+ 0-1

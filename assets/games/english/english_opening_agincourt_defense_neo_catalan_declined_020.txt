@@ -1,0 +1,14 @@
+[Event "Round 4: Ristic, Luka - Paarshva Parmar"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/Ez3JbIlI"]
+[Date "2026.07.06"]
+[Round "4.28"]
+[White "Ristic, Luka"]
+[Black "Paarshva Parmar"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2063"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.c4 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Nc6 9.d4 cxd4 10.Nxd4 Nxd4 11.Qxd4 Bf6 12.Qd2 Nf4 13.gxf4 Qxd2 14.Nxd2 Bxb2 15.Rad1 Bf6 16.Nc4 Rb8 17.Rd2 Rd8 18.Rxd8+ Bxd8 19.Rd1 Be7 20.Be4 Kf8 21.Ne5 g6 22.Rd3 f6 23.Nd7+ Bxd7 24.Rxd7 Ke8 25.Rxb7 Rxb7 26.Bxb7 Bd6 27.Bc6+ Ke7 28.e3 e5 29.fxe5 Bxe5 30.Kg2 Kd6 31.Bb5 Ke7 32.h3 g5 33.Bd3 h5 34.Kf3 h4 35.Kg4 Bc3 36.Kf3 Kd6 37.Ke4 Kc5 38.a3 Bb2 39.Kf5 Kd6 40.f4 gxf4 41.exf4 Ke7 42.Kg4 Bxa3 43.Kxh4 Kf7 44.Kg4 Kg7 45.h4 Bb4 46.Kf5 Bc3 47.h5 Kh6 48.Be2 1/2-1/2

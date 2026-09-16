@@ -1,0 +1,14 @@
+[Event "Round 6: Lilliehook, Victor - Kleist, Axel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-6/e3xDzbQr/OoFvIF67"]
+[Date "2026.07.02"]
+[Round "6.3"]
+[White "Lilliehook, Victor"]
+[Black "Kleist, Axel"]
+[Result "0-1"]
+[WhiteElo "2177"]
+[BlackElo "2167"]
+[ECO "C07"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.dxc5 Bxc5 6.Ngf3 Nf6 7.Bc4 Qh5 8.Qe2 Nc6 9.Nb3 Be7 10.Bf4 Qf5 11.Be3 e5 12.O-O-O Be6 13.Bb5 O-O 14.h3 Bd5 15.Bd2 Rac8 16.Bxc6 Rxc6 17.Bc3 Be4 18.Rhe1 Rfc8 19.Nbd2 Bxc2 20.Qxe5 Rxc3 21.Nc4 R3xc4 0-1

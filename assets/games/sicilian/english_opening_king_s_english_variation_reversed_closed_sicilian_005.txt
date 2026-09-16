@@ -1,0 +1,14 @@
+[Event "Round 8: Soto, Cristian Camilo - Gallego, Julian Andres"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-8/CvTqoM9D/CnOtqM1z"]
+[Date "2026.07.12"]
+[Round "8.4"]
+[White "Soto, Cristian Camilo"]
+[Black "Gallego, Julian Andres"]
+[Result "1-0"]
+[WhiteElo "2230"]
+[BlackElo "2199"]
+[ECO "A25"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 h5 4.h4 Bc5 5.Bg2 d6 6.Nf3 Bg4 7.d3 Nge7 8.Bd2 a5 9.a3 Qd7 10.Rb1 O-O 11.Ne4 Ba7 12.b4 axb4 13.axb4 f6 14.b5 Nd4 15.Nxd4 Bxd4 16.Qc2 f5 17.Ng5 f4 18.gxf4 exf4 19.Bxb7 Rae8 20.Be4 Nf5 21.Bc3 Bb6 22.Qb2 Qe7 23.Nf3 Bxf3 24.exf3 Nxh4 25.Kf1 g6 26.Re1 Qd8 27.Bd5+ Kh7 28.Rxe8 Rxe8 29.Bf6 Ba5 30.Rxh4 Re1+ 31.Kg2 Qe8 32.Be4 Qe6 33.Rxh5+ 1-0

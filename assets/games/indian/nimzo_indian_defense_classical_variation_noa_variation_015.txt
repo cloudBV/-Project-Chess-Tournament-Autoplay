@@ -1,0 +1,14 @@
+[Event "Round 3: McPhillips, Joseph - Arshiya Das"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-3/AyRav4F9/xMFzWU2Q"]
+[Date "2026.07.15"]
+[Round "3.24"]
+[White "McPhillips, Joseph"]
+[Black "Arshiya Das"]
+[Result "1/2-1/2"]
+[WhiteElo "2382"]
+[BlackElo "2188"]
+[ECO "E35"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 Nbd7 7.e3 c6 8.Bd3 Qe7 9.Ne2 h6 10.Bh4 g5 11.Bg3 Ne4 12.Bxe4 Qxe4 13.Qxe4+ dxe4 14.h4 g4 15.O-O f5 16.d5 Nc5 17.dxc6 bxc6 18.Nd4 Bd7 19.a3 Bxc3 20.bxc3 Na4 21.Rfc1 c5 22.Ne2 Rh7 23.Rab1 Be6 24.Nf4 Bc4 25.Ng6 Bd3 26.Rb3 Bc4 27.Rbb1 Bd3 28.Rb3 Bc4 29.Rbb1 Bd3 1/2-1/2

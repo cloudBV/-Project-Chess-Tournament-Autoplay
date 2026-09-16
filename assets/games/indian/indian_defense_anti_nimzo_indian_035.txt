@@ -1,0 +1,14 @@
+[Event "Round 5: Peng, Li Min - Collin, Moritz Valentin"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-5/Pedpu72d/HxWIlSfT"]
+[Date "2026.07.15"]
+[Round "5.2"]
+[White "Peng, Li Min"]
+[Black "Collin, Moritz Valentin"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2342"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Nbd2 O-O 6.Bg2 b6 7.O-O Bb7 8.Ne5 Re8 9.Ndf3 Ne4 10.c5 bxc5 11.a3 Ba5 12.dxc5 c6 13.b4 Bc7 14.Qc2 f6 15.Nc4 a5 16.Be3 Nd7 17.Nd4 f5 18.Nd2 Nxd2 19.Bxd2 Ne5 20.Rfd1 Nc4 21.Bc3 f4 22.Bh3 e5 23.Ne6 Qe7 24.gxf4 Bc8 25.Nxc7 Qxc7 26.f5 e4 27.Kh1 Qf4 28.Rg1 Ra7 29.Rg3 e3 30.f3 axb4 31.axb4 Rxa1+ 32.Bxa1 Ne5 33.f6 Qxf6 34.Bxc8 Rxc8 35.Qc3 Ng6 36.Qxf6 gxf6 37.Bxf6 Kf7 38.Bg5 d4 39.Rg4 d3 40.exd3 e2 41.Bd2 Ra8 42.Re4 Ra2 43.Be1 Ra1 44.Rxe2 Nf4 45.Re3 Rd1 46.Kg1 Nxd3 47.Kf1 Nxb4 48.Ke2 Nc2 49.Kxd1 Nxe3+ 50.Ke2 Nd5 51.Kd3 Ke6 52.Ke4 Nf6+ 53.Kf4 Nd7 54.Bf2 h6 55.Be3 Nf6 56.Bd4 Ng8 57.Kg4 Kd5 58.Be3 Nf6+ 59.Kf5 Nd7 60.Bxh6 Nxc5 61.h4 Ne6 62.h5 Nd4+ 63.Kf6 Nxf3 64.Bf4 Ke4 65.h6 Kd5 1-0

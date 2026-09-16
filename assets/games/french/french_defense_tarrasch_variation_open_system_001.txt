@@ -1,0 +1,14 @@
+[Event "Round 9: Hozda, Max - Svadlenka, Dominik"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-9/VqxXFC7K/TDaamTvE"]
+[Date "2026.07.05"]
+[Round "9.3"]
+[White "Hozda, Max"]
+[Black "Svadlenka, Dominik"]
+[Result "1/2-1/2"]
+[WhiteElo "2237"]
+[BlackElo "2157"]
+[ECO "C08"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Bd7 6.Bxd7+ Nxd7 7.Ngf3 Qe7+ 8.Qe2 Ngf6 9.Qxe7+ Bxe7 10.dxc5 Nxc5 11.O-O O-O 12.c3 a5 13.Nb3 a4 14.Nbd4 1/2-1/2

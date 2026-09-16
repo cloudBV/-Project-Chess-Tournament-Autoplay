@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "11.11"]
+[White "Trzeciak, Emilian"]
+[Black "Bochniak, Franciszek"]
+[Result "0-1"]
+[WhiteElo "2000"]
+[BlackElo "2163"]
+[ECO "A00"]
+[Variant "Standard"]
+[Opening "Polish Opening: Queen's Indian Variation"]
+
+1.b4 e6 2.Bb2 Nf6 3.b5 b6 4.e3 Bb7 5.Nf3 Be7 6.Be2 O-O 7.O-O c5 8.d3 d5 9.Nbd2 a6 10.a4 Nbd7 11.c4 Re8 12.d4 Qc7 13.Rc1 a5 14.Nb3 dxc4 15.Rxc4 Rad8 16.Qa1 Bd5 17.Rc3 Ne4 18.Nbd2 Nxc3 19.Bxc3 cxd4 20.Bxd4 Bf6 21.Rc1 Qb7 22.Nc4 Bxd4 23.Nxd4 Bxc4 24.Rxc4 Nc5 25.Bf3 Qc7 26.Nc6 Rd6 27.Rg4 e5 28.h4 f6 29.Qa2+ Qf7 30.Qc2 f5 31.Rc4 Nd7 32.g3 Kh8 33.h5 e4 34.Be2 Nf6 35.Nd4 Nxh5 36.Rc8 Rdd8 37.Rc7 Qg6 38.Rc6 Nf6 39.Rxb6 f4 40.Ne6 fxg3 41.Nxd8 gxf2+ 42.Kxf2 Rxd8 43.Rc6 Qf5+ 44.Ke1 Qh3 45.Qc3 Nd5 46.Qd4 Qh1+ 47.Bf1 h6 48.Rc5 Qh4+ 49.Ke2 Nf4+ 50.exf4 Rxd4 0-1

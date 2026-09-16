@@ -1,0 +1,14 @@
+[Event "Round 6: Pottier, Simeon - Lebon, Sebastien"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-6/TfCvIPio/yGm1RmN2"]
+[Date "2026.07.23"]
+[Round "6.8"]
+[White "Pottier, Simeon"]
+[Black "Lebon, Sebastien"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2212"]
+[ECO "C03"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Morozevich Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.e5 c5 5.c3 cxd4 6.cxd4 Qb6 7.Ndf3 Bd7 8.Bd3 Bb5 9.Ne2 Bb4+ 10.Kf1 Bxd3 11.Qxd3 Qa6 12.Nf4 Nc6 13.Qxa6 bxa6 14.Be3 Nh6 15.Nd3 Kd7 16.Bxh6 gxh6 17.g3 Rab8 18.Rc1 Be7 19.Ke2 Nb4 20.Nxb4 Rxb4 21.Rc2 Rc8 22.Kd3 Rxc2 23.Kxc2 a5 24.Rd1 a4 25.Rd3 Bd8 26.Ng1 Ba5 27.Ne2 Rc4+ 28.Kd1 Bb6 29.g4 Rb4 30.Kc2 Ke7 31.a3 Rc4+ 32.Rc3 Rxc3+ 33.Kxc3 f6 34.f4 Ba5+ 35.Kd3 Be1 36.Nc3 Bf2 37.Nxa4 Bg1 38.h3 Bh2 39.Ke3 Bg1+ 40.Kd3 Bh2 41.Nc5 Bxf4 42.exf6+ Kxf6 43.b4 Ke7 44.Kc3 Bg3 45.b5 e5 46.dxe5 Bxe5+ 47.Kd3 Kd6 48.Na6 Bg3 49.a4 Be1 50.Ke2 Bc3 51.Kd3 1/2-1/2

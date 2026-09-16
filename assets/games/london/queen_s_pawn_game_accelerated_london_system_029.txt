@@ -1,0 +1,14 @@
+[Event "Round 1: Bharath Subramaniyam H - Pak, Alexander"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-1/X8tUgWQR/kvoRGtiG"]
+[Date "2026.07.18"]
+[Round "1.13"]
+[White "Bharath Subramaniyam H"]
+[Black "Pak, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2591"]
+[BlackElo "2299"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.Nd2 Nc6 5.c3 Bg4 6.Ngf3 e6 7.Qb3 Qc8 8.h3 Bh5 9.Nh4 Be7 10.g4 Bg6 11.Nxg6 hxg6 12.Bg2 Qd7 13.Rc1 cxd4 14.cxd4 O-O 15.O-O Rfc8 16.Nf3 Ne4 17.Qd1 Qd8 18.Qe2 g5 19.Bh2 a6 20.a3 Na5 21.Ne5 Nd6 22.Nd3 Rxc1 23.Rxc1 Rc8 24.Rf1 Nac4 25.Rc1 Na5 26.Nc5 b6 27.Nd3 Rxc1+ 28.Nxc1 Qc8 29.Nd3 Ne4 30.Bf1 Bd6 31.Bxd6 Nxd6 32.Nb4 b5 33.Qd1 Nac4 34.Nd3 a5 35.a4 bxa4 36.Qxa4 Qb8 37.b3 Nd2 38.Qxa5 Nxb3 39.Qc3 Nc4 40.Ne5 Nxe5 41.dxe5 Kf8 42.Be2 Qb6 43.Qc8+ Ke7 44.Qh8 Qb4 45.Bd3 Nc5 46.Bh7 g6 47.Qf6+ Ke8 48.Qh8+ Ke7 49.Qf6+ Ke8 50.Qh8+ 1/2-1/2

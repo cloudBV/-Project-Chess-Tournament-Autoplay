@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "6.9"]
+[White "Iwan, Patryk"]
+[Black "Kania, Franciszek"]
+[Result "1-0"]
+[WhiteElo "2017"]
+[BlackElo "2204"]
+[ECO "C18"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Portisch-Hook Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qa5 7.Bd2 Qa4 8.Qg4 Kf8 9.Qd1 b6 10.Nf3 Ba6 11.Bxa6 Nxa6 12.O-O Ne7 13.Qb1 c4 14.Nh4 Ke8 15.Bg5 Nc6 16.Qd1 Kd7 17.Bd2 h6 18.Ra2 g5 19.Nf3 Raf8 20.h4 g4 21.Ne1 h5 22.Bg5 Nc7 23.f3 Nb5 24.Bd2 g3 25.f4 Ne7 26.Nf3 Nf5 27.Qe1 Rfg8 28.Ng5 Ke7 29.Rf3 Nxh4 30.Rxg3 Nf5 31.Rh3 h4 32.Qe2 Nc7 33.Be1 Qb5 34.Ra1 Qb2 35.Qd1 Qb5 36.a4 Qa5 37.Qc1 Rg7 38.Qa3+ Kd7 39.Rb1 Ne8 40.Rb5 Qa6 41.Rb1 Qa5 42.Rb5 Qa6 43.Rb1 f6 44.exf6 Nxf6 45.Nf3 Rhg8 46.Ng5 Ne4 47.Bxh4 Rh8 48.Be1 Rxh3 49.Nxh3 Ne3 50.Ng5 Nxg5 51.fxg5 Rxg5 52.g3 Qc8 53.Qc1 Qh8 54.Qxe3 Rh5 55.Qf3 Qh7 56.Bf2 Rf5 57.Qg2 Rf8 58.Be3 a6 59.Bf4 Kc6 60.Qe2 Qh3 61.Qe5 Kd7 62.Rxb6 1-0

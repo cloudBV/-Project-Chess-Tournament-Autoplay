@@ -1,0 +1,14 @@
+[Event "Round 7: Stamatiou, Rodolfos - Kalogridis, Themistoklis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/alxskm4J"]
+[Date "2026.07.10"]
+[Round "7.48"]
+[White "Stamatiou, Rodolfos"]
+[Black "Kalogridis, Themistoklis"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2293"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 g6 7.Bd3 Nf6 8.O-O Bg7 9.N5c3 O-O 10.Nd5 Nxd5 11.exd5 Nd4 12.Nc3 f5 13.Be3 Qh4 14.f4 g5 15.g3 Qh3 16.Bxd4 gxf4 17.Bf2 Rf6 18.Qf3 e4 19.Qg2 Qh6 20.Bd4 Rg6 21.Bxg7 Qxg7 22.Nxe4 fxg3 23.Nxg3 Qd4+ 24.Kh1 Qxd3 25.Rae1 Bd7 26.Re7 Rd8 27.Qh3 h6 28.Qh5 Rg7 29.Rxg7+ Kxg7 30.Rg1 Be8 31.Ne2+ 1-0

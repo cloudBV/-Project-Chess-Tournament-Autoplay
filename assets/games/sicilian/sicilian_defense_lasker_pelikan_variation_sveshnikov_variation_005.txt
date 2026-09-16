@@ -1,0 +1,14 @@
+[Event "Round 6: Neuhoff, Laertes - Heinrich, John"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/gsFUUZBG"]
+[Date "2026.07.22"]
+[Round "7.2"]
+[White "Neuhoff, Laertes"]
+[Black "Heinrich, John"]
+[Result "1/2-1/2"]
+[WhiteElo "2306"]
+[BlackElo "2356"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.c3 e4 15.Bc2 Bg7 16.Qh5 Rc8 17.Rae1 O-O 18.Bb3 Re8 19.Nc2 Qd7 20.f4 Rc5 21.Ne3 a5 22.a3 b4 23.axb4 axb4 24.cxb4 Rcc8 25.Kh1 Rb8 26.Bd1 Kh8 27.g4 Bd4 28.gxf5 Ng8 29.Ng4 Nf6 30.Nxf6 Bxf6 31.Re3 Rg8 32.Rxe4 Rbe8 33.Qe2 Rxe4 34.Qxe4 Re8 35.Qd3 Qa7 36.Bf3 Qb6 37.Qd2 Qb5 38.Re1 Rxe1+ 39.Qxe1 Qc4 40.Kg2 Qxf4 41.Qe4 1/2-1/2

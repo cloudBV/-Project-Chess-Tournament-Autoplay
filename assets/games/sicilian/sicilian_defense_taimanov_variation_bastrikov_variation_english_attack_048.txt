@@ -1,0 +1,15 @@
+[Event "Round 2: Ansat, Aldiyar - Yang, Zilong"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/Bngc88kV"]
+[Date "2026.07.22"]
+[Round "2.1"]
+[White "Ansat, Aldiyar"]
+[Black "Yang, Zilong"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2383"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Bd6 8.O-O-O Be5 9.Nxc6 bxc6 10.Bd4 Nf6 11.Bxe5 Qxe5 12.Qe3 Ng4 13.Qe1 Nf6 14.g3 d5 15.Bg2 O-O 16.f4 Qc7 17.Na4 Rb8 18.Nc5 a5 19.Qc3 dxe4 20.Bxe4 Nd5 21.Qd4 Qb6 22.Rhe1 Nf6 23.Bf3 Ba6 24.Nb3 Qc7 25.Qe5 Qc8 26.Rd6 Nd5 27.Nc5 Ne7 28.Rd7 Ng6 29.Qc3 Bb5 30.Nxe6 f6 31.Rxg7+ Kh8 32.Rc7 Qe8 33.Ng5 Ne5 34.fxe5 1-0

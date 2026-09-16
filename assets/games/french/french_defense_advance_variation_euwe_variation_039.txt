@@ -1,0 +1,14 @@
+[Event "Round 8: Kasipour Azbari, Seyed Arvin - Saminskij, Jan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-8/hNJ8mydD/EqqXtJ56"]
+[Date "2026.07.18"]
+[Round "8.4"]
+[White "Kasipour Azbari, Seyed Arvin"]
+[Black "Saminskij, Jan"]
+[Result "0-1"]
+[WhiteElo "2133"]
+[BlackElo "2301"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Bd3 cxd4 7.O-O dxc3 8.Nxc3 Nge7 9.Bg5 Qb8 10.Re1 Ng6 11.Rc1 Be7 12.Bxe7 Ncxe7 13.Nb5 Bxb5 14.Bxb5+ Kf8 15.Qd4 Qd8 16.h4 a6 17.Ba4 b5 18.Bc2 Nc6 19.Qc5+ Nge7 20.Bd3 Qa5 21.Nd4 Nxd4 22.Qxd4 h5 23.b4 Qd8 24.Rc5 g6 25.Qf4 Nf5 26.Bxf5 gxf5 27.Rec1 Rh7 28.R1c3 Rg7 29.Qc1 d4 30.Rc8 dxc3 31.Rxd8+ Rxd8 32.Qxc3 Rg4 33.Qc5+ Kg7 34.Qe7 Rd1+ 35.Kh2 Rd2 36.Kg1 Rg6 37.a3 Ra2 38.Qd8 Rxa3 39.Qd1 Ra2 40.Qxh5 Rg4 41.g3 a5 0-1

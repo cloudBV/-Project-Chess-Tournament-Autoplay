@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-7-game-1/K8oOJzFp/HOhJe9DO"]
+[Date "2026.07.09"]
+[Round "13.3"]
+[White "Kiszkiel, Oskar"]
+[Black "Gibala, Adam"]
+[Result "0-1"]
+[WhiteElo "2229"]
+[BlackElo "2267"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 Bg4 4.O-O c6 5.d3 Nbd7 6.h3 Bh5 7.Bf4 e6 8.c4 Be7 9.Nc3 O-O 10.a3 a5 11.Qc2 Bg6 12.e4 dxe4 13.dxe4 Nh5 14.Be3 e5 15.Rad1 Qc7 16.g4 Nhf6 17.Nh4 Rfd8 18.Nxg6 hxg6 19.Na4 Nh7 20.Qc1 Nhf8 21.c5 Ne6 22.Qc4 Ndf8 23.Nb6 Rxd1 24.Rxd1 Rd8 25.Rxd8 Qxd8 26.Bf3 Bg5 27.Qc3 Bxe3 28.fxe3 Qh4 29.Bg2 Qg3 30.Nc4 Ng5 31.Kf1 Nxh3 32.Bxh3 Qxh3+ 33.Ke1 Qg3+ 34.Kd1 Qxg4+ 35.Kd2 Qxe4 36.Nxa5 Qd5+ 37.Kc2 Ne6 38.Nxb7 g5 39.a4 g4 40.a5 g3 41.a6 g2 42.a7 Qe4+ 43.Kb3 g1=Q 44.a8=Q+ Kh7 45.Qaa5 Qd1+ 46.Ka3 Qa1+ 47.Kb3 Qd5+ 48.Qc4 Qad1+ 49.Kb4 Q1d2+ 50.Kb3 Qxe3+ 51.Qc3 Nd4+ 52.Ka4 Qxc4+ 53.Qxc4 Qf2 54.Ka3 Qf3+ 55.Ka4 g5 56.Nd6 Ne6 57.Ne4 Kg7 58.Nc3 g4 59.Qb4 g3 60.Qb8 Qf4+ 61.Ka3 g2 0-1

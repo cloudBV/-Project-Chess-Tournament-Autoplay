@@ -1,0 +1,14 @@
+[Event "Round 8: Pranav Anand - Sathvik Adiga"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/Rxv0HcNd"]
+[Date "2026.07.21"]
+[Round "8.3"]
+[White "Pranav Anand"]
+[Black "Sathvik Adiga"]
+[Result "0-1"]
+[WhiteElo "2588"]
+[BlackElo "2408"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.Nc3 O-O 6.a3 b6 7.cxd5 exd5 8.Bd3 Ba6 9.b4 Bxd3 10.Qxd3 c6 11.O-O b5 12.a4 Bxb4 13.Na2 Bd6 14.axb5 cxb5 15.Qxb5 a5 16.Bd2 Qd7 17.Rfb1 Nc6 18.Qa4 Rfb8 19.Rxb8+ Rxb8 20.Rc1 Rb6 21.h3 h6 22.Nc3 Bb4 23.Be1 Bxc3 24.Bxc3 Qb7 25.Be1 Ne4 26.Qa2 Rb5 27.Ne5 Nxe5 28.dxe5 Qb8 29.Qa1 Nc5 30.Rd1 a4 31.Bc3 Qa8 32.Qa3 Ne4 33.Bd4 Rb3 34.Qe7 Qc6 35.Ra1 a3 36.Kh2 Qe6 37.Qd8+ Kh7 38.Qc7 Rd3 39.Ra2 Nd2 40.Qc2 Qg6 41.Bc5 Nc4 42.Kg1 Kg8 43.Kh2 Qe4 44.Kg1 Nb2 45.Rxb2 Rd1+ 46.Kh2 Qxe5+ 47.f4 axb2 48.fxe5 b1=Q 49.Qxb1 Rxb1 50.Kg3 Kh7 51.Kf3 Rh1 52.e4 dxe4+ 53.Kxe4 Kg6 54.Kf4 Rc1 55.Bd4 Rc4 56.Ke4 Ra4 57.g3 h5 58.h4 Rb4 59.Ke3 Kf5 60.e6 fxe6 0-1

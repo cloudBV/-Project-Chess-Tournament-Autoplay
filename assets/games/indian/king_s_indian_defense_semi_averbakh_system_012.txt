@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.08"]
+[Round "6.11"]
+[White "Rehman, Rafe"]
+[Black "Bjornstad, Hallvard Foss"]
+[Result "0-1"]
+[WhiteElo "2095"]
+[BlackElo "2065"]
+[ECO "E73"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 c5 7.d5 e6 8.Nf3 exd5 9.cxd5 Bg4 10.Nd2 Bxe2 11.Qxe2 Re8 12.O-O a6 13.a4 Nbd7 14.h3 Rb8 15.a5 Nh5 16.Kh2 Qe7 17.g3 Bxc3 18.bxc3 Nhf6 19.Ra4 b5 20.axb6 Nxb6 21.Rxa6 Nxe4 22.Qd3 Nxd2 23.Bxd2 Qe2 24.Qxe2 Rxe2 25.Bh6 Nxd5 26.Rxd6 Nxc3 27.Kg2 Re6 28.Rd7 Ne4 29.h4 Nf6 30.Rc7 Ng4 31.Be3 Rxe3 32.Kh3 h5 33.fxe3 Rb2 34.Rh1 Rc2 35.e4 c4 36.e5 c3 37.e6 fxe6 38.Rc8+ Kg7 39.Rxc3 Rxc3 40.Rf1 e5 0-1

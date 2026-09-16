@@ -1,0 +1,14 @@
+[Event "Round 7: Hrisomalis, Theodoros - Poupalos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/No44X5NF"]
+[Date "2026.07.10"]
+[Round "7.83"]
+[White "Hrisomalis, Theodoros"]
+[Black "Poupalos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2111"]
+[BlackElo "2230"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.h3 Bh5 8.O-O Nc6 9.Be3 cxd4 10.Nxd4 Bxe2 11.Qxe2 Be7 12.Rd1 O-O 13.c4 Nxd4 14.Bxd4 Qf5 15.Nc3 Rfd8 16.Rac1 a6 17.Bb6 Rdc8 18.a4 Rc6 19.Bd4 Rac8 20.b3 Nh5 21.Qg4 Qxg4 22.hxg4 Nf6 23.Bxf6 Bxf6 24.Rd7 R8c7 25.Rxc7 Rxc7 26.Ne4 Be7 27.Rd1 Kf8 28.Kf1 f5 29.gxf5 exf5 30.Nc3 Bc5 31.Rd8+ Ke7 32.Rh8 Kf7 33.Nd5 Rd7 34.Rxh7 b5 35.axb5 axb5 36.Rh5 Kg6 37.g4 Bd6 38.Rxf5 bxc4 39.bxc4 Ra7 40.c5 Bb8 41.Ke2 Kh7 42.Rf8 Be5 43.f4 Ra2+ 44.Kd3 1-0

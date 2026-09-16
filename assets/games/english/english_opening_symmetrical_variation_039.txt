@@ -1,0 +1,14 @@
+[Event "Round 3: Vlasov, Igor - Tymoshenko, Ihor"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-3/GowbS71k/NcZGZGp8"]
+[Date "2026.07.19"]
+[Round "3.3"]
+[White "Vlasov, Igor"]
+[Black "Tymoshenko, Ihor"]
+[Result "1/2-1/2"]
+[WhiteElo "2181"]
+[BlackElo "2306"]
+[ECO "A30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.b3 g6 4.Bb2 Bg7 5.g3 O-O 6.Bg2 Nc6 7.O-O d6 8.d4 cxd4 9.Nxd4 Bd7 10.Nc2 a6 11.Nc3 Qa5 12.Nd5 Nxd5 13.Bxg7 Nc3 14.Bxc3 Qxc3 15.Ne3 Be6 16.Rc1 Qa5 17.Qc2 Rfc8 18.Qb2 Rab8 19.a3 Qe5 20.Qxe5 Nxe5 21.Bd5 Bh3 22.Bg2 Be6 23.Bd5 Bh3 24.Bg2 1/2-1/2

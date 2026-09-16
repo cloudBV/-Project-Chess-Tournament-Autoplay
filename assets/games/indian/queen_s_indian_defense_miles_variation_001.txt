@@ -1,0 +1,14 @@
+[Event "Round 3: Gouloutis, Nikolaos - Patrelakis, Evaggelos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/zHoyvLDR"]
+[Date "2026.07.06"]
+[Round "3.4"]
+[White "Gouloutis, Nikolaos"]
+[Black "Patrelakis, Evaggelos"]
+[Result "0-1"]
+[WhiteElo "2277"]
+[BlackElo "2461"]
+[ECO "E12"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Miles Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Bf4 Bb7 5.e3 Bb4+ 6.Nfd2 c5 7.a3 Bxd2+ 8.Qxd2 cxd4 9.Qxd4 Nc6 10.Qd1 d5 11.Nd2 O-O 12.Bg5 h6 13.Bh4 d4 14.Qc2 dxe3 15.fxe3 Ne5 16.O-O-O Qe7 17.Qc3 Ned7 18.Rg1 Rfd8 19.g4 g5 20.Bg3 Nc5 21.Be2 Rxd2 22.Rxd2 Nfe4 23.Qb4 Nxd2 24.Kxd2 Rd8+ 25.Ke1 Qf6 26.Qc3 Qg6 27.Qc1 Bf3 28.Rf1 Bxg4 29.b4 Bxe2 30.Kxe2 Qh5+ 31.Rf3 Nb3 32.Qh1 Nd2 0-1

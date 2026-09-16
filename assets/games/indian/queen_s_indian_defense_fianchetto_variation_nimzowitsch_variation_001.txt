@@ -1,0 +1,15 @@
+[Event "Round 9: Neagu, Roberto Florin - Cesar Maestre, Bernardo"]
+[Site "https://lichess.org/broadcast/ii-lince-andujar-chess-festival-2026/round-9/bSIGoQdg/0VHk1ot1"]
+[Date "2026.07.03"]
+[Round "9.7"]
+[White "Neagu, Roberto Florin"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "0-1"]
+[WhiteElo "2266"]
+[BlackElo "2376"]
+[ECO "E15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.Qc2 c5 6.d5 exd5 7.cxd5 Bb7 8.Bg2 Nxd5 9.O-O Be7 10.Rd1 Nc6 11.Qf5 Nf6 12.e4 g6 13.Qf4 O-O 14.e5 Nh5 15.Qg4 Ng7 16.Nc3 Ne6 17.Bh6 Re8 18.Nd5 Rb8 19.h4 Ncd4 20.Nxd4 Nxd4 21.Rxd4 cxd4 22.h5 b5 23.Kh2 Bxd5 24.Bxd5 Rb6 25.Qf4 Re6 26.hxg6 hxg6 27.Bxe6 dxe6 28.Rh1 d3 29.g4 Qd5 30.f3 Rc8 31.Kg3 Rc4 32.Qe3 Qd4 33.Rd1 Qxb2 34.Rxd3 Rc2 35.Rd7 Rg2+ 36.Kf4 Bh4 37.Qd4 Qc1+ 38.Qe3 g5+ 0-1

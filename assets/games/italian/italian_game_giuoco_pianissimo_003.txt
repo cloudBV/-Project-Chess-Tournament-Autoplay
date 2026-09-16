@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.2"]
+[White "Sosa, Tomas"]
+[Black "Lopez Martinez, Josep Manuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2546"]
+[BlackElo "2486"]
+[ECO "C50"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.c3 Bb6 6.h3 h6 7.Nbd2 Nf6 8.Bb3 Ne7 9.Nh4 Be6 10.Qf3 Qd7 11.Nc4 c6 12.g4 Bxc4 13.Bxc4 d5 14.Bb3 O-O-O 15.a4 a6 16.a5 Ba7 17.Bc2 Nh7 18.Nf5 Ng5 19.Bxg5 hxg5 20.Nxg7 Ng6 21.O-O-O Nf4 22.d4 Qc7 23.dxe5 Qxe5 24.Nf5 dxe4 25.Qxe4 Qxe4 26.Bxe4 Rxd1+ 27.Rxd1 Kc7 28.f3 Bc5 29.b4 Bf8 30.Ne3 Bg7 31.Kc2 Nxh3 32.Nf5 Be5 33.Rh1 Nf4 34.Rxh8 Bxh8 35.Nh6 Bf6 36.Nxf7 Ne2 37.c4 Nd4+ 38.Kd3 c5 39.bxc5 Nb3 40.Bd5 Nxc5+ 41.Ke3 b6 42.axb6+ Kxb6 43.f4 gxf4+ 44.Kxf4 a5 45.Nd6 a4 46.Nb5 Bb2 47.g5 a3 48.Nxa3 Bxa3 1/2-1/2

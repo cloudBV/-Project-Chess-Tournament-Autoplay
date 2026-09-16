@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "12.2"]
+[White "Karvatskyi, Oleksii"]
+[Black "Shevchenko, Yaroslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2276"]
+[BlackElo "2310"]
+[ECO "C00"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bf3 c5 6.Ne2 Nc6 7.Be3 cxd4 8.Nxd4 Ne5 9.O-O Be7 10.Nc3 O-O 11.Qe2 Nxf3+ 12.Qxf3 Qa5 13.a4 Bd7 14.Rfd1 Rfd8 15.h3 h6 16.Nb3 Qc7 17.a5 Bc6 18.Qe2 Nd5 19.Nxd5 Bxd5 20.Nd4 a6 21.Qg4 Kh8 22.b3 Bf6 23.c4 Bc6 24.Ra2 Bd7 25.Nf3 e5 26.Qg3 Bf5 27.Re1 Rd3 28.Bb6 Qd6 29.Nxe5 Bxe5 30.Qxe5 Qxe5 31.Rxe5 Be6 32.Re3 Rxe3 33.Bxe3 Rd8 34.Kf1 Rd3 35.Rb2 Rxb3 36.Rxb3 Bxc4+ 37.Ke1 1/2-1/2

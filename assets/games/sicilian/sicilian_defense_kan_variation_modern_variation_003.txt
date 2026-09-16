@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.07"]
+[Round "3.7"]
+[White "Lorente Melcon, Maximo"]
+[Black "Castellanos Rodriguez, Renier"]
+[Result "1/2-1/2"]
+[WhiteElo "2255"]
+[BlackElo "2462"]
+[ECO "B42"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Ne7 6.O-O g6 7.Qe2 Bg7 8.c3 Nbc6 9.Nxc6 Nxc6 10.f4 O-O 11.Be3 b5 12.Nd2 b4 13.Rad1 bxc3 14.bxc3 Rb8 15.Nb3 Na5 16.Ba7 Rb7 17.Bc5 d6 18.Bxa6 Nxb3 19.axb3 Rxb3 20.Bxc8 Qxc8 21.Bxd6 1/2-1/2

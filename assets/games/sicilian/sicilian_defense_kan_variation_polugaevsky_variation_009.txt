@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "6.9"]
+[White "Bouska, Jiri"]
+[Black "Hychkevych, Vitaliy"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2076"]
+[ECO "B42"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 Ne7 8.Be3 Nbc6 9.Bxa7 Rxa7 10.Nc3 b5 11.a3 d6 12.Qe3 O-O 13.O-O Rd7 14.Rad1 Bb7 15.f4 Re8 16.Kh1 Ng6 17.Be2 b4 18.axb4 Nxb4 19.Rd2 d5 20.Nc5 d4 21.Qf2 Ree7 22.Nxb7 Rxb7 23.Rxd4 Qb8 24.f5 exf5 25.exf5 Nxc2 26.fxg6 Nxd4 27.gxf7+ Kf8 28.Qxd4 Rbd7 29.Qh4 Rxf7 30.Qxh7 Rxf1+ 31.Bxf1 Qe5 32.Qc2 Rf7 33.Qd1 Qc7 34.h3 Rd7 35.Qf3+ Rf7 36.Qd1 g6 37.Bd3 Kg7 38.Qg4 Qd6 39.Qe4 Re7 40.Qf3 Re1+ 41.Bf1 Re7 42.Qf2 Rf7 43.Qe2 Re7 44.Qxa6 Qg3 45.Qd3 Qe5 46.Be2 Ra7 47.Qd1 Re7 48.Bf3 Qg3 49.Ne4 Qe5 50.Qc2 Rc7 51.Qd2 Ra7 1-0

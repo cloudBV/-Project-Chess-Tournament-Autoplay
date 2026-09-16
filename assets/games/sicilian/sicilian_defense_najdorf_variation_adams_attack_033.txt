@@ -1,0 +1,14 @@
+[Event "Round 2: Costa, Leonardo - Engel, Luis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-2/Myf83mrs/pxHcgKYW"]
+[Date "2026.07.18"]
+[Round "2.2"]
+[White "Costa, Leonardo"]
+[Black "Engel, Luis"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2588"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 Nfd7 8.Bg2 Nc6 9.g5 Be7 10.h4 Qb6 11.Nxc6 bxc6 12.b3 d5 13.Bb2 O-O 14.Qd2 Rd8 15.Na4 Qb4 16.Bc3 Qb8 17.O-O-O a5 18.h5 d4 19.Qxd4 Bxg5+ 20.Kb1 e5 21.Qd6 Re8 22.Qxb8 Rxb8 23.Bxa5 Nf6 24.f3 Be3 25.Bf1 Be6 26.Bc7 Rb7 27.Bd6 Nd7 28.Bh3 h6 29.Rd3 Bd4 30.c3 Bc4 31.Rdd1 Nb6 32.Nxb6 Bxb6 33.bxc4 Bd4+ 34.Kc2 Ra8 35.Rb1 Rxa2+ 36.Kd3 1-0

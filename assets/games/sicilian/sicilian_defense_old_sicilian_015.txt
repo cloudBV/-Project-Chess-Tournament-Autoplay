@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "9.3"]
+[White "Rey Martinez, Jaime"]
+[Black "Arakelyan, Manvel"]
+[Result "1-0"]
+[WhiteElo "2279"]
+[BlackElo "2118"]
+[ECO "B30"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 Nf6 4.e5 Ng4 5.Qe2 d6 6.exd6 e6 7.h3 Nf6 8.O-O Bxd6 9.b3 O-O 10.Bb2 b6 11.Rd1 Bb7 12.d4 Qe7 13.dxc5 Bxc5 14.Nc3 Rfd8 15.Re1 Nd4 16.Nxd4 Bxd4 17.Rad1 Ne4 18.Nxe4 Bxb2 19.Ng3 Bc3 20.Rf1 Bf6 21.Qg4 g6 22.Rde1 Rd4 23.Nf5 exf5 24.Qxd4 Qxe1 25.Qxf6 Qe8 26.Kh2 b5 27.Bd3 Rd8 28.Qc3 Qd7 29.Re1 Rc8 30.Qe5 Be4 31.Bxe4 fxe4 32.Qxe4 Qc7+ 33.Kh1 Qxc2 34.Qb7 Rc7 35.Qb8+ Kg7 36.Qxb5 Qxf2 37.Rf1 Qd4 38.Qe8 Rd7 39.Rf3 Qd1+ 40.Kh2 Qd6+ 41.Kh1 Re7 42.Qb5 a6 43.Qc4 h5 44.Rf1 Qe5 45.Qxa6 Qc5 1-0

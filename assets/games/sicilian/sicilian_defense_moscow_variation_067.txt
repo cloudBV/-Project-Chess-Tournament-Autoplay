@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "8.2"]
+[White "Grot, Blazej"]
+[Black "Mulawa, Cyprian"]
+[Result "1/2-1/2"]
+[WhiteElo "2213"]
+[BlackElo "2324"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.Nf3 d6 2.e4 c5 3.Bb5+ Nc6 4.O-O Bd7 5.Re1 e5 6.c3 g5 7.Bxc6 bxc6 8.d3 g4 9.Nfd2 Ne7 10.Nf1 Ng6 11.d4 cxd4 12.cxd4 Qf6 13.Be3 Bg7 14.dxe5 Nxe5 15.Nc3 O-O 16.Ng3 Qg6 17.Nce2 Nc4 18.Nf4 Qg5 19.Qe2 Nxe3 20.fxe3 Rab8 21.Rab1 Qe5 22.b3 a5 23.Nfh5 Bh8 24.Rf1 Qg5 25.Rf2 Rbe8 26.Rbf1 d5 27.Rf5 Bxf5 28.Rxf5 Qg6 29.Nf4 Qg7 30.Ngh5 Qa1+ 31.Kf2 Re6 32.Qxg4+ Rg6 33.Nxg6 hxg6 34.Nf4 Qxa2+ 35.Kg3 Bg7 36.Nxg6 fxg6 37.Qxg6 Rxf5 38.exf5 Qb2 39.Qe6+ Kh8 40.Qe8+ Kh7 41.Qg6+ Kg8 42.Qe6+ Kf8 43.Qc8+ Ke7 44.Qe6+ Kf8 45.Qc8+ Kf7 46.Qe6+ Kf8 1/2-1/2

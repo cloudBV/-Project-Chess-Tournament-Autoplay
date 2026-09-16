@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.18"]
+[Round "5.4"]
+[White "Arancibia Guzman, Eduardo"]
+[Black "Bahamondes Ortiz, Benjamin"]
+[Result "1/2-1/2"]
+[WhiteElo "2278"]
+[BlackElo "2181"]
+[ECO "C10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Bh4 c5 8.Bxf6 Nxf6 9.Nxf6+ gxf6 10.Bb5+ Bd7 11.Bxd7+ Qxd7 12.Qe2 cxd4 13.O-O-O Bc5 14.Nxd4 Bxd4 15.c3 Rc8 16.Kb1 Qc6 17.Rxd4 Ke7 18.f3 Rhg8 19.Rhd1 Rg5 20.Qd2 Kf8 21.h4 Rg6 22.Rd7 Kg7 23.b3 a5 24.Kb2 a4 25.Rd4 b5 26.Rc1 axb3 27.axb3 Kh7 28.Qd3 f5 29.g4 e5 30.Rb4 e4 31.Qxb5 Qxb5 32.Rxb5 fxg4 33.fxe4 g3 34.Rf5 g2 35.Rg1 Rg3 36.Rxf7+ Kg6 37.Rf2 Rcxc3 38.Rgxg2 Rxb3+ 39.Kc1 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Antipov, Fedor - Leskur, Dejan"]
+[Site "https://lichess.org/broadcast/vojvodina-open-2026-open-a/round-8/E6kuTTdK/wHbi5WPE"]
+[Date "2026.07.01"]
+[Round "8.9"]
+[White "Antipov, Fedor"]
+[Black "Leskur, Dejan"]
+[Result "1-0"]
+[WhiteElo "2219"]
+[BlackElo "2203"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.h4 e5 7.Nb3 a5 8.a4 Be6 9.Bg5 Be7 10.Qd2 O-O 11.O-O-O Nb4 12.Kb1 Rc8 13.Bxf6 gxf6 14.f4 Kh8 15.Bb5 Qb6 16.f5 Bxb3 17.cxb3 Rg8 18.Bc4 Rg7 19.g4 Rxg4 20.Bxf7 Bf8 21.Rc1 Rc7 22.Nd5 Nxd5 23.Bxd5 Rxc1+ 24.Rxc1 Rg1 25.Rxg1 Qxg1+ 26.Ka2 b6 27.Qc3 Qc5 28.Qg3 Bg7 29.h5 Qc8 30.Be6 Qf8 31.Qe3 Bh6 32.Qxb6 Bd2 33.Qc7 Bb4 34.Bf7 Kg7 35.Bg6+ Kh6 36.Qxh7+ Kg5 37.Qc7 Bd2 38.Qc2 Bf4 39.Qc3 Qa8 40.h6 1-0

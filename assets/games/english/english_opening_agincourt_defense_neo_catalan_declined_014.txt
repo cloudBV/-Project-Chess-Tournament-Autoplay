@@ -1,0 +1,14 @@
+[Event "Round 1.2: Ernst, Sipke - De Winter, Arthur"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-12/Zl2XONUQ/VQ29RRRB"]
+[Date "2026.06.09"]
+[Round "2.6"]
+[White "Ernst, Sipke"]
+[Black "De Winter, Arthur"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2446"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.b3 d4 7.e3 c5 8.exd4 cxd4 9.d3 Nc6 10.Na3 e5 11.Nc2 Nd7 12.Nfe1 a5 13.Rb1 Nc5 14.Ba3 Ne6 15.Bxe7 Qxe7 16.Qe2 Qc7 17.Na3 Bd7 18.Nb5 Qb6 19.Nd6 f6 20.f4 exf4 21.gxf4 Kh8 22.a3 Ncd8 23.Ne4 Nf7 24.b4 Qc7 25.Qf2 axb4 26.axb4 Bc6 27.b5 Bxe4 28.Bxe4 Nd6 29.Bd5 Nc5 30.f5 Rfe8 31.b6 Qc8 32.Ng2 Nxd3 33.Qxd4 Ne5 34.Nh4 Ra4 35.Rbe1 h6 36.Ng6+ Kh7 37.Nxe5 Rxe5 38.Rxe5 fxe5 39.Qxe5 Nxc4 40.Qe6 Qf8 41.f6 gxf6 42.Bxc4 Qc5+ 43.Kh1 Qxc4 44.Qe7+ Kh8 45.Qxf6+ Kh7 46.Qe7+ Kg6 47.Rf6+ Kh5 48.Qe5+ 1-0

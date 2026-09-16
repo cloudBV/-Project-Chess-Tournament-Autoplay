@@ -1,0 +1,14 @@
+[Event "Round 8: Perez Travieso, Saul - Lad Mandar Pradip"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-8/aWvwmo2y/oDoJqKnn"]
+[Date "2026.07.09"]
+[Round "8.1"]
+[White "Perez Travieso, Saul"]
+[Black "Lad Mandar Pradip"]
+[Result "0-1"]
+[WhiteElo "2103"]
+[BlackElo "2391"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.h3 Nbd7 9.Qe2 Rc8 10.f4 Rxc3 11.bxc3 Nxe4 12.Bf2 d5 13.Nd2 Qc7 14.Nxe4 dxe4 15.Qd2 exf4 16.Bd4 Ne5 17.Rb1 Bd6 18.a4 O-O 19.Be2 f3 20.gxf3 exf3 21.Bd3 Re8 22.Kd1 Nxd3 23.cxd3 Qc6 24.Rg1 g6 25.h4 Bf5 26.Ra1 Qd5 27.Rb1 Re2 28.Qc1 Bxd3 29.Rb2 Ba3 30.Qh6 Qb3+ 0-1

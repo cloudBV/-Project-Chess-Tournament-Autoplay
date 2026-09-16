@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-5/gwYuF2XU/i848Nv8w"]
+[Date "2026.07.23"]
+[Round "5.10"]
+[White "Hansen, Soren Bech"]
+[Black "Jogstad, Martin"]
+[Result "0-1"]
+[WhiteElo "2284"]
+[BlackElo "2349"]
+[ECO "C07"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.dxc5 Bxc5 6.Ngf3 Nf6 7.Bd3 Nc6 8.O-O e5 9.Bc4 Qd6 10.Ng5 O-O 11.Nge4 Nxe4 12.Nxe4 Qxd1 13.Rxd1 Be7 14.c3 Bf5 15.Ng3 Bg6 16.Be3 Rfd8 17.Bd5 Kf8 18.f3 f6 19.Ne4 Bf7 20.Bxf7 Kxf7 21.Kf1 f5 22.Nc5 b6 23.Nb3 Ke6 24.Ke2 Rab8 25.Rxd8 Bxd8 26.Rd1 Bc7 27.h3 h5 28.Rd2 Bd8 29.a4 Be7 30.Kd3 h4 31.Ke2 g5 32.c4 Nb4 33.a5 Rc8 34.axb6 axb6 35.Bxb6 Rxc4 36.Bd8 Bxd8 37.Rxd8 Rc2+ 38.Rd2 Rc8 39.Na5 Nd5 40.b3 Rc3 41.Rb2 Nf4+ 42.Kd2 Rd3+ 43.Kc2 e4 44.fxe4 fxe4 45.b4 Rg3 46.Rb1 Rxg2+ 47.Kc3 Rg3+ 48.Kd4 e3 49.Nb7 e2 50.Nc5+ Kf5 51.b5 Rf3 52.b6 Rf1 53.Rb5 Kg6 54.b7 e1=Q 55.b8=Q Qd2+ 56.Kc4 Rc1+ 57.Kb3 Qc3+ 58.Ka2 Ra1# 0-1

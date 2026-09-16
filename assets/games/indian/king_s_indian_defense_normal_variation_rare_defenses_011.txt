@@ -1,0 +1,15 @@
+[Event "Round 9: Vaidyanathan, Kannan - Aswath, S"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-9/fUa9bQJG/2GTYHTcx"]
+[Date "2026.07.08"]
+[Round "9.4"]
+[White "Vaidyanathan, Kannan"]
+[Black "Aswath, S"]
+[Result "0-1"]
+[WhiteElo "2364"]
+[BlackElo "2517"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 Nh5 8.g3 f5 9.exf5 gxf5 10.Nh4 Nf6 11.Bd3 e4 12.Be2 Nfd7 13.Ng2 Na6 14.Nf4 Ne5 15.Be3 Nc5 16.O-O Ng6 17.Qd2 Nxf4 18.gxf4 a5 19.Kh2 Kh8 20.Rg1 Bf6 21.Rg3 Bd7 22.Rag1 Qe7 23.Nd1 Be8 24.Bd4 Bg6 25.Ne3 Bxd4 26.Qxd4+ Qf6 27.Qxf6+ Rxf6 28.h4 Re8 29.h5 Bf7 30.Rg5 Nd3 31.Kg3 h6 32.Rxf5 Rxf5 33.Nxf5 Rg8+ 34.Kh2 Rxg1 35.Kxg1 Nxf4 36.Bg4 Bxh5 37.Bxh5 Nxh5 38.Nxh6 Kg7 39.Nf5+ Kf6 40.Nd4 Nf4 41.Nb5 Ke5 42.Kf1 Nd3 43.b3 Nc1 44.Nc3 a4 45.bxa4 Kd4 46.Nb5+ Kxc4 47.Nxc7 Nxa2 48.Nb5 Kxd5 49.Ke2 Kc5 50.f3 Nc1+ 51.Ke3 exf3 52.Kxf3 Nd3 53.Ke3 Nb2 54.Nc3 d5 55.Kd2 d4 56.Ne4+ Kd5 57.Nf6+ Ke6 58.Ng4 Kd5 59.Nf6+ Ke6 60.Ng4 Nc4+ 61.Kd3 Ne5+ 62.Kxd4 Nxg4 63.Kc5 Kd7 64.Kb6 Kc8 65.a5 Ne5 66.a6 Nd7+ 67.Kb5 b6 68.Kc6 Kb8 69.Kb5 Ka7 0-1

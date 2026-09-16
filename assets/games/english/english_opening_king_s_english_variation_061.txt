@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.23"]
+[Round "6.21"]
+[White "Pavan Karthikeya Varma Gunturi"]
+[Black "Krivenko, Dion"]
+[Result "0-1"]
+[WhiteElo "2223"]
+[BlackElo "2311"]
+[ECO "A20"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Nf6 4.Nc3 Bc5 5.a3 a5 6.e3 O-O 7.Nge2 d6 8.O-O Re8 9.d4 Bb6 10.d5 Ne7 11.e4 Nd7 12.Kh1 f5 13.Bg5 Nc5 14.f4 exf4 15.exf5 Bxf5 16.Nxf4 Qd7 17.b4 axb4 18.axb4 Rxa1 19.Qxa1 Nd3 20.c5 dxc5 21.d6 Nxf4 22.Rxf4 Ng6 23.Rf1 h6 24.Bxh6 Bh3 25.Bd5+ Be6 26.Bg2 Bh3 27.Nd5 Bxg2+ 28.Kxg2 Ne5 29.Bxg7 Kxg7 30.Qc1 Qg4 31.Nf6 Qe2+ 32.Kh1 Rh8 33.h4 Nf3 34.Ng4 cxd6 35.Rf2 Qe1+ 36.Qxe1 Nxe1 37.Re2 Nd3 38.Re7+ Kg6 39.Rxb7 Bd8 40.Rd7 Nxb4 41.Rxd6+ Kf7 42.Ne5+ Ke7 43.Rd1 Ke6 44.Ng6 Rg8 45.h5 Bg5 46.Re1+ Kd6 47.Ne5 Kd5 48.Nf7 Bf6 49.h6 Rxg3 50.Kh2 Rg4 51.Kh3 Re4 52.Rd1+ Ke6 53.Nd8+ Kf5 54.Nb7 Rh4+ 55.Kg3 Rg4+ 56.Kf3 Rd4 57.Rh1 c4 58.h7 Bh8 59.Rh5+ Kg6 60.Rc5 Kxh7 61.Na5 Rd3+ 62.Ke2 c3 63.Rc4 Rd2+ 64.Ke3 Nc2+ 65.Kf3 Na1 66.Rc7+ Bg7 67.Nc4 Rd3+ 68.Ke2 Rh3 69.Ne3 Rh2+ 70.Kd1 Rd2+ 71.Ke1 Nc2+ 72.Nxc2 Rxc2 73.Kd1 Rf2 74.Kc1 Kg6 75.Rc5 Bf6 76.Kd1 Kf7 77.Rc6 Ke7 78.Ke1 Rd2 79.Rc4 Kd6 80.Rc8 Bh4+ 81.Kf1 c2 82.Rc4 Rd1+ 83.Ke2 c1=Q 84.Rd4+ Rxd4 0-1

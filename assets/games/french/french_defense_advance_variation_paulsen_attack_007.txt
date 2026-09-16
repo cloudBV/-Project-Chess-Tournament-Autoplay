@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-5/YD1S9x30/VzrUCGKx"]
+[Date "2026.07.04"]
+[Round "5.2"]
+[White "Dhruva Thota"]
+[Black "Ermitsch, Magnus"]
+[Result "1-0"]
+[WhiteElo "2397"]
+[BlackElo "2411"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Be2 cxd4 7.cxd4 Nh6 8.Bxh6 Qxb2 9.Nbd2 gxh6 10.O-O Bd7 11.Nb3 Rc8 12.Ne1 Nb4 13.Bh5 b6 14.Qf3 Be7 15.Qxf7+ Kd8 16.Nf3 Rc2 17.Qg7 Rf8 18.Qxh6 Nd3 19.Nbd2 Nf4 20.Rad1 Ne2+ 21.Kh1 Nxd4 22.Nxd4 Qxd4 23.Nf3 Qb2 24.Nd4 Rcxf2 25.Rg1 Rg8 26.Bf3 Rg6 27.Qxh7 Rg5 28.Qh6 Rd2 29.Nxe6+ Bxe6 30.Rxd2 Qxd2 31.Qxe6 Bc5 32.Rd1 Rxg2 33.Qxd5+ 1-0

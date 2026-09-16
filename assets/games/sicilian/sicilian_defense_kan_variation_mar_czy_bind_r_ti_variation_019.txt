@@ -1,0 +1,15 @@
+[Event "Round 6: Xusanov, Islombek - Zuo, Junyu"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-6/d5vasjZG/VMeNWkWP"]
+[Date "2026.07.21"]
+[Round "6.25"]
+[White "Xusanov, Islombek"]
+[Black "Zuo, Junyu"]
+[Result "1/2-1/2"]
+[WhiteElo "2132"]
+[BlackElo "2062"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Qd3 d5 8.exd5 exd5 9.Be2 O-O 10.O-O Re8 11.Nxd5 Nxd5 12.cxd5 Qxd5 13.Bf3 Qd6 14.a3 Bc5 15.Be3 Nd7 16.Qc3 Ne5 17.Rfd1 Bxd4 18.Bxd4 Nxf3+ 19.Qxf3 Qg6 20.Re1 Bf5 21.Bc3 Be4 22.Qg3 Qxg3 23.hxg3 Bf5 24.f3 1/2-1/2

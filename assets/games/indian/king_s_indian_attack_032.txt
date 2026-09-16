@@ -1,0 +1,14 @@
+[Event "Round 2: Ristic, Luka - Postny, Evgeny"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/cwfj4yNm"]
+[Date "2026.07.05"]
+[Round "2.4"]
+[White "Ristic, Luka"]
+[Black "Postny, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2528"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.b3 Bf5 5.Nh4 Be4 6.f3 Bg6 7.Nc3 e6 8.e4 Bh5 9.Qd3 a6 10.Bb2 Nf6 11.Ng2 dxe4 12.fxe4 c5 13.dxc5 Bxc5 14.Nf4 Qxd3 15.Bxd3 Bd4 16.Nxh5 Nxh5 17.O-O-O O-O-O 18.Be2 Nf6 19.Rxd4 Rxd4 20.Nd5 Rxd5 21.exd5 Nbxd5 22.Rf1 Rd8 23.g4 Rd7 24.a3 Ne8 25.g5 Ne3 26.Rf3 Nf5 27.Bd3 Ned6 28.Rh3 h6 29.Bxg7 hxg5 30.Bf6 g4 31.Rh8+ Kc7 32.Rg8 Ne3 33.Be5 Kc6 34.Bf4 Nd5 35.Bg3 f5 36.Rg6 Nc7 37.c4 Rf7 38.Bf4 Kd7 39.Kd2 Nce8 40.Be5 Ke7 41.c5 Nb5 42.Bc4 Nf6 43.a4 Na7 44.Bd6+ Kd7 45.Be5 1/2-1/2

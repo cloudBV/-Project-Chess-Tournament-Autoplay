@@ -1,0 +1,14 @@
+[Event "Round 4: Rami,Talab - Davies, Nigel R"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-4/RqcM0dmr/3zSGRs3D"]
+[Date "2026.07.02"]
+[Round "4.1"]
+[White "Rami,Talab"]
+[Black "Davies, Nigel R"]
+[Result "1/2-1/2"]
+[WhiteElo "2286"]
+[BlackElo "2276"]
+[ECO "B54"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations, Ginsberg Gambit"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bc4 e6 6.Bd3 Nc6 7.Nxc6 bxc6 8.c4 d5 9.Qe2 Be7 10.O-O O-O 11.Nd2 a5 12.b3 a4 13.Bb2 Bb7 14.Nf3 dxe4 15.Bxe4 axb3 16.axb3 Qb6 17.Bc2 c5 18.Ne5 Rxa1 19.Rxa1 1/2-1/2

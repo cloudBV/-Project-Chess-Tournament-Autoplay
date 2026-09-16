@@ -1,0 +1,15 @@
+[Event "Round 1: Lisenkov, Svyatoslav - Mohammadian sechani, Arshia"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/b2uKpb7C"]
+[Date "2026.07.24"]
+[Round "1.5"]
+[White "Lisenkov, Svyatoslav"]
+[Black "Mohammadian sechani, Arshia"]
+[Result "1/2-1/2"]
+[WhiteElo "2336"]
+[BlackElo "2390"]
+[ECO "C05"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 Qb6 8.h4 Be7 9.a3 a5 10.b3 Na7 11.Bd3 Qc6 12.Qc2 h6 13.a4 b5 14.dxc5 Nxc5 15.Nd4 Qb6 16.axb5 Bd7 17.Ngf3 Nxb5 18.Bxb5 Bxb5 19.Nxb5 Qxb5 20.Nd4 Qd7 21.f5 Ne4 22.fxe6 fxe6 23.O-O Rf8 24.Be3 Rf7 25.c4 Rc8 26.Rxa5 Rxf1+ 27.Kxf1 Qc7 28.Ra6 Qxe5 29.Rxe6 Qh2 30.Nf5 Rc7 31.Rxe4 dxe4 32.Qxe4 g6 33.Nxe7 Rxe7 34.Qxg6+ Rf7+ 35.Ke2 Qe5 36.Kd3 h5 37.b4 Qf5+ 38.Qxf5 Rxf5 39.b5 Kd7 40.c5 Rf1 41.Ke4 Rb1 42.b6 Kc6 43.Kf5 Rb4 44.Kg5 Rg4+ 45.Kxh5 Rxg2 46.Kh6 Rg3 47.Bf4 Rg4 48.Bg5 Rc4 49.Be7 Re4 50.Bf6 Rc4 51.Be7 Re4 52.Bg5 Rc4 53.h5 Rxc5 54.Kg6 Rc2 55.h6 Rh2 56.Bd8 Rg2+ 57.Bg5 Rh2 58.Be3 Rg2+ 59.Kf5 Rh2 60.Kg4 Rxh6 61.Bxh6 Kxb6 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 9: Bougas, Georgios - Papaioannou, Dimitrios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-9/rEHaWiAY/yGNZZViG"]
+[Date "2026.07.17"]
+[Round "9.4"]
+[White "Bougas, Georgios"]
+[Black "Papaioannou, Dimitrios"]
+[Result "1-0"]
+[WhiteElo "2021"]
+[BlackElo "2348"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.d4 cxd4 6.Qxd4 f6 7.O-O d6 8.Nc3 Nh6 9.h3 Nf7 10.Be3 Bg7 11.Rad1 O-O 12.Qc4 Bd7 13.Nd4 Rb8 14.Nxc6 Bxc6 15.Qxc6 Rxb2 16.Nd5 e6 17.Nf4 Qe7 18.Rb1 Rbb8 19.Qc4 Rbe8 20.Qa6 f5 21.exf5 gxf5 22.Rb7 Qh4 23.Qe2 a5 24.Ra7 Be5 25.g3 Qf6 26.Nh5 Qg6 27.Rb1 h6 28.Rbb7 Rc8 29.c4 Nd8 30.Rh7 Qxh7 31.Rxh7 Kxh7 32.Bb6 Nc6 33.Kg2 Rb8 34.c5 Rfe8 35.Qb5 Nb4 36.Qd7+ Kg6 37.Bc7 Ra8 38.Bxd6 Bxd6 39.Qg7+ Kxh5 40.g4+ 1-0

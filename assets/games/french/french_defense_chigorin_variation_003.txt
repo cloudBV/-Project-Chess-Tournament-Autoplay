@@ -1,0 +1,14 @@
+[Event "Round 3: Kanakaris, Georgios - Kazakos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-3/32VSghrN/B7TK5XQ9"]
+[Date "2026.07.06"]
+[Round "3.14"]
+[White "Kanakaris, Georgios"]
+[Black "Kazakos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2372"]
+[BlackElo "2149"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Chigorin Variation"]
+
+1.e4 e6 2.Qe2 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.c3 e5 8.d3 O-O 9.a3 d5 10.b4 cxb4 11.axb4 d4 12.b5 Na5 13.Qb2 b6 14.cxd4 exd4 15.Bd2 a6 16.Na3 axb5 17.Nxb5 Ba6 18.Rfc1 Rc8 19.Bh3 Rc6 20.Bf4 Rc3 21.Bc7 Rxc7 22.Nxc7 Bxd3 23.Qxb6 Nc4 24.Qb3 Ne5 25.Nxe5 Bxe5 26.Ra8 Qxa8 27.Nxa8 Bxe4 28.Re1 Bd5 29.Qb4 Bf6 30.Nc7 Bf3 31.Bg2 Bxg2 32.Kxg2 Nf5 33.Re8 Rxe8 34.Nxe8 Be7 35.Qb8 Bf8 36.g4 Nh4+ 37.Kg3 g5 38.Nf6+ Kg7 39.Qe5 Kg6 40.Ne8 h5 41.Qf6+ Kh7 42.Qxf7+ Kh6 43.Qxh5# 1-0

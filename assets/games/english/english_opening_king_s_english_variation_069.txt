@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.38"]
+[White "Balinski, Damian"]
+[Black "Winter, Ondrej"]
+[Result "1-0"]
+[WhiteElo "2139"]
+[BlackElo "2360"]
+[ECO "A20"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 Bc5 4.e3 d6 5.Nc3 a6 6.Nge2 Ba7 7.d4 h5 8.h4 Nf6 9.d5 Ne7 10.Qd3 O-O 11.O-O Bd7 12.b4 Ng4 13.Ne4 Bf5 14.N2c3 Ng6 15.f3 Nf6 16.Kh2 Nxe4 17.Nxe4 f6 18.Bd2 Ne7 19.Bh3 Bxh3 20.Kxh3 Qd7+ 21.Kg2 Rac8 22.Be1 Rfd8 23.Bf2 c6 24.Rac1 Bb8 25.dxc6 Rxc6 26.Rfd1 Qc7 27.c5 d5 28.a4 Qc8 29.b5 axb5 30.axb5 Re6 31.Qb3 Kf7 32.Nd6+ Bxd6 33.cxd6 Nc6 34.Rxd5 Qd7 35.bxc6 bxc6 36.Rd2 e4 37.f4 Kg6 38.Rxc6 Ree8 39.Rc7 Qg4 40.Qd1 1-0

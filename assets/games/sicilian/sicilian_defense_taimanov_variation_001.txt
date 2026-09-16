@@ -1,0 +1,14 @@
+[Event "Round 5: Cederstam, Carl - Akesson, Ralf"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastar-elit/round-5/LqCjh8tw/cYiFxjKj"]
+[Date "2026.07.01"]
+[Round "5.5"]
+[White "Cederstam, Carl"]
+[Black "Akesson, Ralf"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2317"]
+[ECO "B46"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6 9.Bf4 Be7 10.Qf3 O-O 11.Rad1 e5 12.Bxe5 Bg4 13.Qg3 Bxd1 14.Rxd1 g6 15.exd5 cxd5 16.Bc4 dxc4 17.Rxd8 Raxd8 18.Qf3 Rfe8 19.g3 Nd7 20.Bc7 Rc8 21.Nd5 Bf8 22.Qg4 Re6 23.Qxc4 Rd6 24.b4 Rxd5 25.Qxd5 Rxc7 26.a3 a5 27.Qxa5 Rxc2 28.Qd8 Ne5 29.b5 Kg7 30.Qd5 f6 31.Qb3 Rd2 32.Qc3 Rd3 33.Qc7+ Rd7 34.b6 Bxa3 35.Qc8 Bd6 36.f4 Rf7 37.fxe5 Bxe5 38.b7 Rf8 39.Qd7+ Rf7 40.Qc8 Rf8 41.Kf2 h5 42.Qe6 Rf7 43.Qd5 Rf8 44.Ke3 Bb8 45.Kd4 h4 46.gxh4 Bxh2 47.Qg2 Be5+ 48.Kd5 Kh6 49.Ke6 Kh5 50.Ke7 Rh8 51.Qf3+ Kh6 52.Kf7 Rh7+ 53.Ke6 Rh8 54.Qg4 Rb8 55.Qe4 Rh8 56.Qc2 Kg7 57.Qc8 Rxh4 58.b8=Q Bxb8 59.Qb7+ Kh6 60.Qxb8 Kg5 61.Qg3+ Rg4 62.Qe3+ Rf4 63.Kf7 Kf5 64.Qc5+ Kg4 65.Kxg6 Kf3 66.Kf7 Kg4 67.Ke6 Kf3 68.Qg1 Ke4 69.Qg3 Rf3 70.Qe1+ Kd4 71.Qd1+ Ke4 72.Qe2+ 1-0

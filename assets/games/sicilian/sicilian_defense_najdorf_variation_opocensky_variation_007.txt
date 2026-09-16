@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/DKZPUAAh"]
+[Date "2026.07.05"]
+[Round "9.26"]
+[White "Gbiorczyk, Mikolaj"]
+[Black "Pfaltz, Maximilian"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2032"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.O-O O-O 10.Qd3 Nbd7 11.Nd5 Rc8 12.c4 Bxd5 13.cxd5 Ne8 14.Bg4 g6 15.Rfc1 Rxc1+ 16.Rxc1 Ng7 17.Bh6 Nc5 18.Nxc5 dxc5 19.Qc3 Bd6 20.f4 Re8 21.g3 f6 22.Bf3 Qe7 23.Kh1 Rc8 24.Rf1 Ne8 25.Bg4 Rd8 26.Be6+ Kh8 27.f5 Nc7 28.Qf3 g5 29.h4 g4 30.Qxg4 Nxe6 31.fxe6 Rg8 32.Qh5 Rxg3 33.Qf7 Rg6 34.Rg1 f5 35.Qxe7 Bxe7 36.Bg5 Bxg5 37.hxg5 f4 38.e7 Rg8 39.d6 1-0

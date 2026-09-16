@@ -1,0 +1,15 @@
+[Event "Round 7: Primbetov, Kazbek - Yilmaz, Baver"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/mhHkUMHf"]
+[Date "2026.07.03"]
+[Round "7.24"]
+[White "Primbetov, Kazbek"]
+[Black "Yilmaz, Baver"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2320"]
+[ECO "A22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 Bb4 4.Bg2 O-O 5.e4 Bxc3 6.dxc3 d6 7.Qe2 Nbd7 8.Nf3 Nc5 9.Nh4 a5 10.b3 Qe7 11.O-O h6 12.Bd2 Bg4 13.f3 Be6 14.b4 Ncd7 15.Nf5 Bxf5 16.exf5 Rfe8 17.Rfe1 c6 18.g4 d5 19.h4 Nh7 20.Qf2 axb4 21.cxb4 dxc4 22.f4 f6 23.a4 Qd6 24.a5 exf4 25.Qxf4 Ne5 26.Bc3 Rad8 27.Bxe5 fxe5 28.Qxc4+ Kh8 29.Re2 Qf6 30.b5 cxb5 31.Qxb5 Qxh4 32.Bxb7 Qxg4+ 33.Kh1 e4 34.Rg1 Qf3+ 35.Kh2 Nf6 36.Rg3 Qf4 37.Kg2 Nh5 38.Rge3 Qg5+ 39.Kh2 Nf4 40.a6 Qh4+ 41.Kg1 Rd1+ 42.Re1 Rxe1+ 43.Rxe1 Ra8 44.Re3 0-1

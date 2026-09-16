@@ -1,0 +1,14 @@
+[Event "Round 4: Kalogridis, Antonios - Aswath, S"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-4/dyKZYB3z/tlWw5G2S"]
+[Date "2026.07.16"]
+[Round "4.4"]
+[White "Kalogridis, Antonios"]
+[Black "Aswath, S"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2517"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O h6 8.d5 a5 9.Be3 Ng4 10.Bd2 Na6 11.Ne1 Nf6 12.Be3 Nc5 13.f3 Nh5 14.Nd3 b6 15.Qd2 Kh7 16.Nb5 Bd7 17.Kh1 f5 18.exf5 gxf5 19.Nxc5 bxc5 20.a4 Rf7 21.Bd3 Kh8 22.Rae1 e4 23.fxe4 Be5 24.g4 f4 25.gxh5 fxe3 26.Qxe3 Rg7 27.Re2 Rg5 28.Rg2 Rxh5 29.Be2 Rh3 30.Qf2 Rh4 31.Nxc7 Bh3 32.Nxa8 Bxg2+ 33.Qxg2 Rxh2+ 34.Qxh2 Bxh2 35.Kxh2 Qxa8 36.b3 Qe8 37.Bf3 Qe5+ 38.Kg2 Kg7 39.Bd1 Qxe4+ 40.Rf3 h5 41.Kf2 Qd4+ 42.Ke2 h4 43.Bc2 Qe5+ 44.Kf1 Qh5 45.Bd1 Qh6 46.Rh3 Qc1 47.Ke1 Qf4 48.Be2 Kg6 49.Rf3 Qe4 50.Kf2 Qd4+ 51.Ke1 Kg5 52.Bf1 Kg4 53.Rd3 Qg1 54.Ke2 Kf4 55.Rh3 Qg4+ 56.Kf2 Qg5 57.Re3 Qg6 58.Rh3 Ke5 59.Ke1 Qc2 60.Rd3 Qb1+ 61.Kf2 Ke4 62.Rh3 Qb2+ 63.Ke1 Qf6 64.Ke2 Qg5 65.Ke1 Qg4 66.Kf2 Qf5+ 67.Kg1 Kd4 68.Bg2 Qf4 69.Kh1 Qf2 70.Kh2 Qe1 71.Rf3 Qe5+ 72.Kh1 Qe2 73.Rh3 Ke5 74.Rf3 Qd2 75.Kh2 Qd1 76.Bh1 h3 77.Rxh3 Kf4 78.Rf3+ Kg4 79.Rg3+ Kf4 80.Rf3+ Ke5 81.Bg2 Kd4 82.Rh3 Ke5 1/2-1/2

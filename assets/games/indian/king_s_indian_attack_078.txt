@@ -1,0 +1,14 @@
+[Event "Round 3: Bagri, Jaspaul - Schmuki, Roman"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-3/GKNtLENx/xNZ8ZGoB"]
+[Date "2026.07.13"]
+[Round "3.3"]
+[White "Bagri, Jaspaul"]
+[Black "Schmuki, Roman"]
+[Result "1-0"]
+[WhiteElo "2023"]
+[BlackElo "2032"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Bf5 3.Bg2 Nf6 4.c4 e6 5.Qb3 Nbd7 6.Qxb7 Bc5 7.O-O Rb8 8.Qa6 Rb6 9.Qa4 Rb4 10.Qd1 dxc4 11.Nc3 h6 12.b3 cxb3 13.axb3 Qb8 14.Ba3 e5 15.Na4 Bd6 16.Bxb4 Qxb4 17.d3 O-O 18.Nd2 Rb8 19.Qc2 Be6 20.Rfb1 Qg4 21.Nc4 Nd5 22.Bxd5 Bxd5 23.Ne3 Qe6 24.Nxd5 Qxd5 25.Qc4 Qa8 26.b4 e4 27.d4 e3 28.f3 Nf6 29.Nc3 Re8 30.Ra5 Qc8 31.Kg2 h5 32.Nd5 Ng4 33.fxg4 Qxg4 34.Rf1 h4 35.Nxe3 h3+ 36.Kg1 Qg6 37.Nf5 Re6 38.Nxd6 cxd6 39.Raf5 d5 40.Rxd5 Re3 41.Qc8+ 1-0

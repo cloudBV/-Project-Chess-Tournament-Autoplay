@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "9.1"]
+[White "Pawlicz, Filip"]
+[Black "Golis, Wiktor"]
+[Result "0-1"]
+[WhiteElo "2068"]
+[BlackElo "2322"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.g3 d5 2.Nf3 Nc6 3.d4 Bf5 4.a3 e6 5.Bg2 Be7 6.O-O Nf6 7.Re1 h6 8.c4 O-O 9.Nc3 Ne4 10.cxd5 exd5 11.Nd2 Nxd4 12.Ndxe4 dxe4 13.Nxe4 Re8 14.Be3 c5 15.b4 b6 16.Rc1 Rc8 17.Bxd4 Qxd4 18.bxc5 bxc5 19.Nc3 Qxd1 20.Rexd1 c4 21.e4 Bg4 22.f3 Be6 23.a4 Ba3 24.Rb1 Red8 25.Bf1 Rxd1 26.Rxd1 Bb2 27.Ne2 c3 28.Nc1 c2 29.Re1 Rd8 30.Be2 Bc3 31.Rf1 Bh3 32.Bd3 Bxf1 33.Kxf1 Bb2 0-1

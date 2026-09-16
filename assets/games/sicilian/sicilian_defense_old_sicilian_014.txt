@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "1.6"]
+[White "Juhanak, Daniel"]
+[Black "Stary, Simon"]
+[Result "1-0"]
+[WhiteElo "2210"]
+[BlackElo "2171"]
+[ECO "B30"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 Be7 5.a3 d6 6.d3 Be6 7.Nd5 Nf6 8.Bd2 O-O 9.b4 Qd7 10.O-O h6 11.Rb1 b6 12.c3 Bd8 13.Re1 Rc8 14.Qb3 Nh7 15.Be3 Ng5 16.Nxg5 Bxg5 17.Bxg5 hxg5 18.Ne3 Rfe8 19.Bd5 Bxd5 20.Nxd5 Ne7 21.Ne3 Ng6 22.g3 Qe6 23.b5 Qxb3 24.Rxb3 Ne7 25.a4 f6 26.Ra1 Red8 27.c4 Kf7 28.a5 Rd7 29.Rba3 Rcc7 30.Kg2 Ke6 31.g4 Rb7 32.Rh1 Ng6 33.Nd5 Nf4+ 34.Kf3 g6 35.axb6 axb6 36.Ra8 Nxd5 37.exd5+ Kf7 38.h4 Ra7 39.Rxa7 Rxa7 40.hxg5 Ra3 41.Ke3 fxg5 42.Rh7+ Kf6 43.Rd7 Ra1 44.Rxd6+ Kf7 45.Rxb6 Re1+ 46.Kf3 Rd1 47.Ke2 Rg1 48.Rc6 1-0

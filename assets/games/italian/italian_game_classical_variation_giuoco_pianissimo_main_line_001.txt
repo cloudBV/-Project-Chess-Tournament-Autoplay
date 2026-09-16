@@ -1,0 +1,15 @@
+[Event "Round 7: Metin, Enis - Yigit, Ahmet Yasir"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-7/f1Zv0vIF/EoXfTqu3"]
+[Date "2026.07.03"]
+[Round "7.45"]
+[White "Metin, Enis"]
+[Black "Yigit, Ahmet Yasir"]
+[Result "1/2-1/2"]
+[WhiteElo "2184"]
+[BlackElo "2009"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.Re1 a6 7.c3 Ba7 8.Bb3 O-O 9.h3 Ne7 10.Nbd2 Ng6 11.Nf1 c6 12.Ng3 Re8 13.d4 h6 14.Be3 Qc7 15.Qd2 Kh7 16.Rad1 Be6 17.Bc2 Rad8 18.Qc1 a5 19.Nf5 Ng8 20.g4 f6 21.h4 Nh8 22.g5 g6 23.dxe5 Bxe3 24.Qxe3 dxe5 25.Rxd8 Rxd8 26.gxf6 Nf7 27.Ng7 Bg4 28.Ng5+ hxg5 29.hxg5 Nxf6 30.gxf6 Qd6 31.Qg3 Qxf6 32.Qxg4 1/2-1/2

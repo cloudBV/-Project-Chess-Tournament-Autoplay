@@ -1,0 +1,15 @@
+[Event "Round 4: Soleymani, Diba - Akbari, Rosha"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-4/t0goMACL/PNFNQmvy"]
+[Date "2026.07.13"]
+[Round "4.4"]
+[White "Soleymani, Diba"]
+[Black "Akbari, Rosha"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2107"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.Nc3 Bb4 6.Bd2 O-O 7.a3 Bxc3 8.bxc3 d5 9.exd5 Nxd5 10.O-O Bg4 11.h3 Bh5 12.Rb1 Nb6 13.Bb5 Qf6 14.Bxc6 bxc6 15.g4 Bg6 16.Ne1 e4 17.f4 Rfe8 18.Ng2 exd3 19.f5 dxc2 20.Qxc2 Bh7 21.Be3 Qd6 22.c4 Qxa3 23.Ra1 Qe7 24.Qc3 f6 25.Ra5 Qf7 26.Rf4 Kh8 27.Rd4 Bg8 28.Ra6 c5 29.Rf4 Nxc4 30.Bxc5 Nb6 31.Rd4 Nd7 32.Ba3 c5 33.Rdd6 c4 34.Nf4 Ne5 35.Re6 Qb7 36.Red6 Nf3+ 37.Kf2 Ng5 38.Kg1 Ne4 39.Qd4 Nxd6 40.Rxd6 Qf3 41.Bb4 Re4 42.Ng6+ Kh7 43.Qf2 Qxh3 0-1

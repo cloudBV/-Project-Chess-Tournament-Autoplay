@@ -1,0 +1,14 @@
+[Event "Round 7: Carlstrom, Niklas - Kallen, Jonas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/NbK7nAcs"]
+[Date "2026.07.02"]
+[Round "7.10"]
+[White "Carlstrom, Niklas"]
+[Black "Kallen, Jonas"]
+[Result "1-0"]
+[WhiteElo "2112"]
+[BlackElo "2086"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Bg5 h6 6.Bh4 g5 7.Bg3 d6 8.c3 Bb6 9.Nbd2 Be6 10.Bxe6 fxe6 11.Nc4 Ne7 12.Qb3 Nd7 13.d4 g4 14.Nxb6 Nxb6 15.Nh4 exd4 16.Qxe6 dxc3 17.Qf6 Rg8 18.Qxc3 Qd7 19.O-O O-O-O 20.Rfc1 Nc6 21.b4 Rde8 22.b5 Nd8 23.a4 Na8 24.Nf5 Nf7 25.Qc4 Rg6 26.a5 Ng5 27.a6 Nb6 28.axb7+ Kxb7 29.Qa2 Rxe4 30.Qxa7+ Kc8 31.Ra6 Rge6 32.Ne3 Kd8 33.Rxb6 cxb6 34.Qb8+ Ke7 35.Rc7 Rb4 36.Nd5+ Kf7 37.Rxd7+ Kg6 38.Qg8+ Kf5 39.Ne3+ 1-0

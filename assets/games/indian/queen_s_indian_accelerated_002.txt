@@ -1,0 +1,15 @@
+[Event "Round 1: Song, Julien - Bortnyk, Olexandr"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-1/iQ1mbuia/wpyBlEaH"]
+[Date "2026.07.03"]
+[Round "1.5"]
+[White "Song, Julien"]
+[Black "Bortnyk, Olexandr"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2608"]
+[ECO "A50"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Qc2 d6 5.e4 e5 6.d5 a5 7.Nf3 Na6 8.Be2 g6 9.O-O Bc8 10.h3 Bg7 11.a4 O-O 12.Ra3 Nc5 13.Re1 Nh5 14.Bf1 f5 15.exf5 gxf5 16.Nb5 f4 17.Nh2 Bf5 18.Qd1 Nf6 19.Be2 Bg6 20.Ng4 Nfe4 21.Nh2 Rf7 22.Bh5 Qh4 0-1

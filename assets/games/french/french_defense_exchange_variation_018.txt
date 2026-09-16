@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o12/round-6-game-2/87XOj7RU/govLHCaY"]
+[Date "2026.07.06"]
+[Round "12.1"]
+[White "Dmytruk, Artem"]
+[Black "Nakonechnyi, Oleksii"]
+[Result "0-1"]
+[WhiteElo "2037"]
+[BlackElo "2400"]
+[ECO "C01"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.h3 c5 6.c3 Nc6 7.Nf3 Be7 8.O-O O-O 9.Be3 Qb6 10.Qd2 Ne4 11.Bxe4 dxe4 12.Ne1 Rd8 13.dxc5 Bxc5 14.Bxc5 Qxc5 15.Qc2 Bf5 16.Qe2 Qe5 17.Nc2 Bg6 18.Ne3 f5 19.Nd2 f4 20.Ng4 Qf5 21.Rae1 h5 22.Nh2 Re8 23.Nc4 Rad8 24.Qc2 Qe6 25.Qa4 a6 26.Na5 Nxa5 27.Qxa5 Rd5 28.Qa4 Qd7 29.Qb3 Kh7 30.Qc4 b5 31.Qb3 Rd2 32.Rd1 Rd8 33.Rxd2 Qxd2 34.Qa3 Qd6 35.Qb3 Bf5 36.Re1 Qg6 37.Kh1 Rd2 38.Rf1 Be6 39.Qb4 Bc4 40.Rg1 Rxf2 41.b3 Be6 42.Qd4 Re2 43.Qe5 Qf5 44.Qd4 Bd5 45.c4 bxc4 46.bxc4 Bc6 47.Qd6 Qf6 48.Qd1 f3 49.c5 Rxg2 50.Rxg2 fxg2+ 51.Kxg2 e3+ 52.Nf3 h4 53.Qd3+ Qg6+ 54.Qxg6+ Kxg6 55.a4 Kf5 56.a5 Kf4 57.Kf1 Kxf3 0-1

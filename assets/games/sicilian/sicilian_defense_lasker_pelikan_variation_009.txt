@@ -1,0 +1,14 @@
+[Event "Round 8: Zlatkov, Anton - Orian, Noga"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/EeZHV2HM"]
+[Date "2026.07.10"]
+[Round "8.19"]
+[White "Zlatkov, Anton"]
+[Black "Orian, Noga"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2278"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.Be2 O-O 11.Bd2 Bf5 12.O-O Nd7 13.a5 a6 14.Na3 Rc8 15.Nc4 Be4 16.Ne3 Bg6 17.c4 f5 18.f3 Bg5 19.Rc1 b6 20.Kh1 bxa5 21.Ra1 Qb6 22.c5 Rxc5 23.Nc4 Qd8 24.Bxa5 Qb8 25.Qa4 Be8 26.Qa3 Rxd5 27.Bb4 Nc5 28.Nxd6 Rxd6 29.Bxc5 Rd2 30.Bxf8 Rxe2 31.Bd6 Qxb2 32.Qxb2 Rxb2 33.Bxe5 Re2 34.Rfe1 Rxe1+ 35.Rxe1 Bb5 36.f4 Be7 37.Bxg7 Bh4 38.g3 Kxg7 39.gxh4 Kg6 40.Re5 Bc6+ 41.Kg1 Be4 42.Kf2 Kh5 43.Kg3 h6 44.Ra5 Bd3 45.Rd5 Bc2 46.Rd6 a5 47.Rc6 Bd3 48.Rc3 Be4 49.Ra3 Bc6 50.Rxa5 Be4 51.Re5 Bb1 52.Re6 Bc2 53.Rf6 Be4 54.h3 Bb1 55.Kf2 Be4 56.Ke3 Bg2 57.Rxf5+ Kxh4 58.Rf6 h5 59.f5 Kxh3 60.Kf4 h4 61.Rh6 1-0

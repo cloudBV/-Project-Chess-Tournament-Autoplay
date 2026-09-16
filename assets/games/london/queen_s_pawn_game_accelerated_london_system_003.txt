@@ -1,0 +1,14 @@
+[Event "Round 9: Tscharotschkin, Michael - Meier, Thomas, Dr."]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-9/1CEaBO5U/IoKSgh9s"]
+[Date "2026.07.04"]
+[Round "9.3"]
+[White "Tscharotschkin, Michael"]
+[Black "Meier, Thomas, Dr."]
+[Result "1-0"]
+[WhiteElo "2208"]
+[BlackElo "2174"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.c3 Qb6 5.Qb3 c4 6.Qc2 g6 7.Nd2 Bf5 8.Qc1 Nbd7 9.Ne2 Bd3 10.Ng3 Bxf1 11.Ngxf1 Nh5 12.Ng3 Nxf4 13.exf4 Qe6+ 14.Ne2 Bh6 15.Nf3 O-O 16.Qe3 Qd6 17.O-O b5 18.Ne5 a5 19.Qh3 1-0

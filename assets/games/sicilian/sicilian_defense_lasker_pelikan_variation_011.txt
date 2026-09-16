@@ -1,0 +1,14 @@
+[Event "Round 9: Kalezic, Blazo - Djurovic, Peko"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-9/x56FPJGB/LoubMCs5"]
+[Date "2026.07.11"]
+[Round "9.19"]
+[White "Kalezic, Blazo"]
+[Black "Djurovic, Peko"]
+[Result "1/2-1/2"]
+[WhiteElo "2400"]
+[BlackElo "2224"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Ne7 9.c4 Ng6 10.Qa4 Bd7 11.Qb4 Qb8 12.h4 h5 13.g3 Be7 14.Bg5 a6 15.Bxe7 Kxe7 16.Nc3 Qc7 17.Be2 a5 18.Qb3 Kf8 19.Ne4 Bf5 20.f3 a4 21.Qa3 Bxe4 22.fxe4 Qa5+ 23.Kf1 Qc5 24.Qxc5 dxc5 25.Kf2 Ne7 26.b4 b6 27.bxc5 bxc5 28.Rhb1 Nc8 29.Bd3 Nd6 30.Rb6 Ke7 31.Rab1 Rhc8 32.a3 g6 33.Re1 Rab8 34.Reb1 Ra8 35.Re1 Rab8 36.Reb1 Ra8 1/2-1/2

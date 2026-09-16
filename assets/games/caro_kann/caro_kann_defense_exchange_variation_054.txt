@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-7/vX7FfpiI/gjBRqGRG"]
+[Date "2026.07.17"]
+[Round "7.16"]
+[White "Grieve, Harry"]
+[Black "Barria, Jose"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2353"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 e6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.Nf3 Nge7 9.O-O f6 10.c4 dxc4 11.Bxc4 Nd5 12.Nc3 O-O 13.Re1 Nxc3 14.bxc3 Bd7 15.Nh4 Rae8 16.Qh5 Qf4 17.Re3 Qg5 18.Qxg5 fxg5 19.Nf3 Rf5 20.Rae1 Ref8 21.h3 h5 22.R1e2 Ne7 23.Rxe6 1-0

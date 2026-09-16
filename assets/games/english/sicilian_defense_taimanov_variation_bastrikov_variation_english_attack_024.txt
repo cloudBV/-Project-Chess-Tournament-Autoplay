@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-7/LJHpmuNb/UbfEf5mj"]
+[Date "2026.07.12"]
+[Round "7.13"]
+[White "Kolesnikovs, Ivans"]
+[Black "Adamovics, Aleksejs"]
+[Result "1/2-1/2"]
+[WhiteElo "2055"]
+[BlackElo "2183"]
+[ECO "B48"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.O-O-O Be7 9.f3 b5 10.Nxc6 dxc6 11.g4 e5 12.h4 O-O 13.Qf2 Rd8 14.Rxd8+ Bxd8 15.Kb1 Be6 16.Ne2 a5 17.Ng3 a4 18.g5 Ne8 19.h5 b4 20.Bh3 Bxh3 21.Rxh3 b3 22.Nf5 bxa2+ 23.Ka1 Nd6 24.g6 fxg6 25.hxg6 hxg6 26.Qh2 a3 27.b3 Kf7 28.Nxg7 Bf6 29.Nf5 Nxf5 30.exf5 e4+ 31.Kxa2 Qxh2 32.fxg6+ Kxg6 33.Rxh2 exf3 34.Rf2 Re8 35.Rxf3 Bb2 36.Bc5 Re2 37.Rf2 Rxf2 38.Bxf2 Kf5 39.Bc5 Ke6 40.Bxa3 Bc3 41.Bb2 Be1 42.Ka3 Kd6 43.b4 Kc7 44.Bd4 Kb7 45.Ka4 Ka6 46.Kb3 Kb5 47.Bc5 Bd2 48.c4+ Ka6 49.Kc2 Be1 50.Kd3 Kb7 51.Ke2 Bc3 52.Kd3 Be1 53.Ke4 1/2-1/2

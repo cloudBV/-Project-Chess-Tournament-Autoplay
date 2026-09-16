@@ -1,0 +1,15 @@
+[Event "Round 5: Espinoza Solano, Jose Nahum - Jimenez Garcia, Emmanuel"]
+[Site "https://lichess.org/broadcast/bitiachess-torneo-aniversario/round-5/iXKfkmxs/0jBSNa8e"]
+[Date "2026.07.18"]
+[Round "5.1"]
+[White "Espinoza Solano, Jose Nahum"]
+[Black "Jimenez Garcia, Emmanuel"]
+[Result "1-0"]
+[WhiteElo "2230"]
+[BlackElo "2380"]
+[ECO "B67"]
+[TimeControl "45+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Be7 10.h4 Nxd4 11.Qxd4 Qa5 12.Kb1 Rc8 13.g4 O-O 14.Qd2 Kh8 15.Bd3 Ng8 16.Bxe7 Nxe7 17.g5 e5 18.h5 Be6 19.g6 h6 20.gxf7 Rxf7 21.Rhg1 d5 22.Nxd5 Qxd2 23.Rxd2 Nc6 24.Rg6 Nd4 25.Rf2 Bxd5 26.exd5 Rxf3 27.Rxf3 Nxf3 28.Re6 Rd8 29.c4 e4 30.Bxe4 Nd2+ 31.Kc2 Nxc4 32.Kc3 Nd6 33.Bg6 Kg8 34.Kd4 Kf8 35.Kc5 Nf7 36.d6 Rc8+ 37.Kd5 Rc1 38.Bxf7 Rd1+ 39.Kc5 Rc1+ 40.Kb6 Kxf7 41.Re7+ Kf6 42.Kxb7 Rc2 43.Rc7 Rxb2+ 44.Kc8 Rxa2 45.d7 Rd2 46.d8=Q+ Rxd8+ 47.Kxd8 1-0

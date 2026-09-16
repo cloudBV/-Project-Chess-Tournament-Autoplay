@@ -1,0 +1,14 @@
+[Event "Round 11: Soto, Cristian Camilo - Tobar B, Jorge Esteban"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-11/3AgRxUoN/KbMh4P7D"]
+[Date "2026.07.11"]
+[Round "11.9"]
+[White "Soto, Cristian Camilo"]
+[Black "Tobar B, Jorge Esteban"]
+[Result "*"]
+[WhiteElo "2227"]
+[BlackElo "2057"]
+[ECO "A10"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+
+1.c4 f5 2.Nc3 Nf6 3.g3 d6 4.Bg2 g6 5.d4 Bg7 6.Nf3 O-O 7.O-O e6 8.b3 Qe7 9.Bb2 Nc6 10.d5 Nd8 11.dxe6 Nxe6 12.e3 Nc5 13.Ng5 h6 14.Nd5 Nxd5 15.Qxd5+ Kh8 16.Bxg7+ Qxg7 17.Nf3 Be6 18.Qd4 Rae8 19.Rad1 g5 20.Qxg7+ Kxg7 21.Nd4 Bg8 22.Nb5 Re7 23.Nc3 Rfe8 24.Rd4 b6 25.Rfd1 Nd7 26.Nb5 Ne5 27.R4d2 a5 28.Nd4 Kf6 29.Nb5 Bf7 30.Nc3 Bg6 31.Nd5+ Kf7 32.Nxe7 Rxe7 33.h3 Kf6 34.f4 Nd7 35.Kf2 Nc5 36.h4 Bh5 37.Rc1 g4 38.Rc3 Bf7 39.a3 Na6 40.Rb2 Be8 41.b4 a4 42.Bb7 Nb8 43.c5 c6 44.Bc8 Rc7 45.Bxf5 Kxf5 46.cxd6 Rd7 47.Rd2 Bf7 48.Rd4 Bd5 49.b5 Ke6 50.bxc6 Bxc6 51.Rcd3 Na6 52.e4 Nc5 53.Re3 Rxd6 54.Rxd6+ Kxd6 55.e5+ Ke6 56.Kg1 Kf5 57.Kh2 Ne6 58.Rd3 b5 59.Rd6 Be4 60.Kg1 Bc2 61.Kf2 Nc5 62.Ke3 Ne4 63.Rxh6 Bb1 64.Rb6 Bc2 65.h5 Bb3 66.h6 Bg8 67.Rb8 Bh7 68.Rb7 Kg6 *

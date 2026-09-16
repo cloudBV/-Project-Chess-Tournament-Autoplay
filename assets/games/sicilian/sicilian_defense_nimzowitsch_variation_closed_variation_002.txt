@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "8.6"]
+[White "Sahakyan, Hamlet"]
+[Black "Rey Martinez, Jaime"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2279"]
+[ECO "B29"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Closed Variation"]
+
+1.e4 c5 2.Nf3 Nf6 3.Nc3 d5 4.exd5 Nxd5 5.Bc4 Nxc3 6.bxc3 g6 7.d4 Bg7 8.O-O O-O 9.Re1 Nc6 10.Be3 Na5 11.Be2 Be6 12.Qc1 Rc8 13.Bh6 Bf5 14.Bxg7 Kxg7 15.Qf4 Qd6 16.Qxd6 exd6 17.Bd3 Bxd3 18.cxd3 cxd4 19.c4 Nc6 20.Rab1 b6 21.Nd2 Rfd8 22.Rb5 Ne5 23.Rb3 Nd7 24.Ne4 Nc5 25.Ra3 Nxe4 26.Rxe4 d5 27.Rxd4 dxc4 28.Rxd8 Rxd8 29.Kf1 cxd3 30.Ke1 Rd7 31.Kd2 Kf6 32.Rc3 Ke6 33.Rc6+ Ke7 34.h3 h5 35.a3 Kd8 36.Rf6 Kc7 37.g4 hxg4 38.hxg4 Kb7 39.f4 Ka6 40.f5 gxf5 41.Rxf5 b5 42.Rf4 Kb6 43.Rf6+ Kc5 44.Rf5+ Kc4 45.Rf4+ Rd4 46.Rxf7 Rxg4 47.Rc7+ Kb3 48.Rc3+ Kb2 49.Rxd3 Ra4 50.Rd5 a6 51.Kd1 Kxa3 52.Kc2 Rc4+ 53.Kd3 Rc6 54.Kd2 Ka4 55.Rd4+ b4 56.Rh4 a5 57.Rh3 b3 58.Rh1 b2 59.Rb1 Kb3 60.Kd3 a4 61.Rh1 Rc1 62.Rh8 b1=Q+ 63.Kd4 Rc4+ 64.Kd5 Qd3+ 0-1

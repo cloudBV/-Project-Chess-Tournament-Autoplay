@@ -1,0 +1,14 @@
+[Event "Round 6: Skembris, Spyridon - Megalios, Konstantinos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/V2Fl3crr"]
+[Date "2026.07.10"]
+[Round "6.72"]
+[White "Skembris, Spyridon"]
+[Black "Megalios, Konstantinos"]
+[Result "1-0"]
+[WhiteElo "2270"]
+[BlackElo "2385"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.d4 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d6 6.Nc3 Qe7 7.dxe5 dxe5 8.Ne4 Na6 9.Nd6+ Kf8 10.Nxc8 Rxc8 11.Rd1 Nf6 12.Bh3 Re8 13.Nf3 h6 14.O-O g6 15.a3 Kg7 16.b4 e4 17.Nd4 Nc7 18.Qc3 h5 19.Nxc6 bxc6 20.Rd7 Qe5 21.Qxe5 Rxe5 22.Rxc7 h4 23.Rxc6 e3 24.f4 Re4 25.g4 Rd4 26.Rc7 Ne4 27.Rf3 Nf2 28.Rxe3 Rxf4 29.Kg2 g5 30.Rf3 Rxf3 31.exf3 Nd3 32.Kg1 Rd8 33.Bf1 Ne5 34.Kf2 Rd2+ 35.Be2 Ra2 36.Rxa7 Nxc4 37.b5 Nd6 38.Ke3 Kf6 39.a4 Ke5 40.b6 Ra3+ 41.Kf2 Ra2 42.a5 Rb2 43.Rc7 f5 44.a6 fxg4 45.a7 1-0

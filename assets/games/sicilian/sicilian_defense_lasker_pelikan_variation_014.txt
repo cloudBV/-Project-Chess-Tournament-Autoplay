@@ -1,0 +1,14 @@
+[Event "Blitz D18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "5.2"]
+[White "Seemann, Pola"]
+[Black "Matskevich, Varvara"]
+[Result "0-1"]
+[WhiteElo "2028"]
+[BlackElo "2022"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 a6 10.Na3 Be7 11.Be2 O-O 12.O-O f5 13.f4 e4 14.Nc4 Nd7 15.Be3 b6 16.a5 b5 17.Nb6 Nxb6 18.Bxb6 Qe8 19.b3 Bf6 20.Rc1 Bc3 21.Bd4 Bxa5 22.c4 Bd7 23.Ra1 Bb4 24.Ra2 a5 25.Qa1 Rf7 26.cxb5 Bxb5 27.Rc1 Bxe2 28.Rxe2 Qb5 29.Rec2 Raf8 30.Rc7 Qxd5 31.Bxg7 Bc5+ 32.R7xc5 dxc5 33.Bxf8 Rxf8 34.Qxa5 Rc8 35.b4 Qd4+ 36.Kh1 Qe3 37.Qa2+ c4 38.Rf1 Qb3 39.Qd2 c3 40.Qd7 Qc4 41.Rg1 c2 42.Rc1 e3 43.Qxf5 e2 44.Qg5+ Kf8 45.Qf6+ Ke8 46.Qe5+ Kd7 47.b5 Re8 48.Qf5+ Re6 49.Qxh7+ Kd6 50.Re1 c1=Q 51.Qh4 Qxe1+ 52.Qxe1 Qd4 0-1

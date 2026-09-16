@@ -1,0 +1,15 @@
+[Event "VI Open Internacional Vila del Vendrell - Memorial Josep Maria Pellicer"]
+[Site "El Vendrell, Tarragona, Spain"]
+[Date "2026.04.27"]
+[Round "3.1"]
+[White "Plat, Vojtech"]
+[Black "Moreno Martin, Daniel"]
+[Result "1-0"]
+[WhiteElo "2546"]
+[BlackElo "2196"]
+[ECO "C00"]
+[TimeControl "900+5"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 c5 4.exd5 exd5 5.Nf3 c4 6.Be2 Nf6 7.b3 cxb3 8.axb3 Nc6 9.O-O Bd6 10.c4 O-O 11.Bg5 h6 12.Bh4 Bf5 13.Nc3 dxc4 14.bxc4 g5 15.Bg3 Bxg3 16.fxg3 Bg4 17.d5 Bxf3 18.Bxf3 Ne5 19.Qd4 Nfd7 20.c5 Qf6 21.Kh1 Nxf3 22.Qxf6 Nxf6 23.Rxf3 Nd7 24.Ne4 f5 25.Nd6 Nxc5 26.Nxf5 Kh7 27.g4 a5 28.h3 a4 29.d6 Rf7 30.Re3 b6 31.Kh2 h5 32.Rb1 hxg4 33.hxg4 a3 34.Rh3+ Kg8 35.Nh6+ Kf8 36.Nxf7 Kxf7 37.Rf3+ Ke6 38.Ra1 a2 39.Rf2 Kxd6 40.Rd2+ Ke6 41.Raxa2 Rh8+ 42.Kg1 Rh4 43.Rab2 Nd7 44.Rb4 Rh7 45.Re4+ Kf6 46.Rd6+ 1-0

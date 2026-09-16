@@ -1,0 +1,15 @@
+[Event "Round 6: Verkholantcev, Andrei - Domingo Nunez, Ruben"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-6/bVyM4zuT/IPAOZZ7v"]
+[Date "2026.07.09"]
+[Round "6.7"]
+[White "Verkholantcev, Andrei"]
+[Black "Domingo Nunez, Ruben"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2405"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.c3 a5 6.Be2 Nd7 7.Nbd2 a4 8.Nf1 h6 9.Ng3 Bh7 10.O-O Ne7 11.Be3 Nc8 12.Bd3 Bxd3 13.Qxd3 Qb6 14.b4 Qa6 15.Qc2 Ncb6 16.Ne1 Nc4 17.Bc1 O-O-O 18.f4 f5 19.exf6 gxf6 20.Nf3 Bd6 21.Re1 Rde8 22.Qg6 Qb6 23.Nd2 Qd8 24.Nxc4 dxc4 25.Ne4 Bc7 26.Be3 f5 27.Nc5 Nf6 28.Bf2 Rhg8 29.Qf7 Rgf8 30.Qg6 Qd5 31.Bg3 b6 32.Rad1 h5 33.Nxa4 Ne4 34.Qxh5 Qb5 35.Nb2 Nxc3 36.Rc1 Qxb4 37.Qf3 Qxb2 38.Rxc3 b5 39.a3 Ba5 40.Qxc6+ Kb8 41.Re5 Bxc3 42.Rxb5+ Qxb5 43.Qxb5+ Ka8 44.Qc6+ Kb8 45.Qxc4 Rc8 46.Qb3+ Ka8 47.Bf2 Rc6 48.Qa4+ Kb7 49.d5 1-0

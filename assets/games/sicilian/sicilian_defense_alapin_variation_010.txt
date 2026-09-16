@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "2.6"]
+[White "Babula, Matej"]
+[Black "Svacina, Tobias"]
+[Result "1/2-1/2"]
+[WhiteElo "2119"]
+[BlackElo "2225"]
+[ECO "B22"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Bc4 Nb6 5.Bb3 c4 6.Bc2 g6 7.Nf3 Bg7 8.O-O Nc6 9.Qe2 O-O 10.b3 cxb3 11.axb3 d6 12.exd6 Qxd6 13.d4 Re8 14.b4 a6 15.Rd1 Be6 16.Nbd2 Rac8 17.Ne4 Qc7 18.Nc5 Bc4 19.Bd3 Bxd3 20.Nxd3 e5 21.dxe5 Nxe5 22.Ndxe5 Bxe5 23.Nxe5 Rxe5 24.Qf3 Rf5 25.Qg3 Qxg3 26.hxg3 Nd5 27.g4 Re5 28.Ra5 Nxc3 29.Rxe5 Nxd1 30.Bh6 Nc3 31.Re7 b6 32.Ra7 Nd5 33.Rxa6 Rb8 34.Bd2 Kf8 35.f3 Ke7 36.Kf2 Ke6 37.Ke2 h5 38.gxh5 gxh5 39.Ra1 Rg8 40.Kf2 Kd6 41.Rh1 Rh8 42.Rh4 Ra8 43.Rxh5 Ra2 44.Rh6+ Ke5 45.Ke2 Nf4+ 46.Ke3 Ra3+ 47.Kf2 Ne6 48.Rh5+ Kd4 49.Be1 Kc4 50.Rf5 Ra2+ 51.Kg3 Re2 52.Bf2 b5 53.Bc5 Nxc5 54.Rxc5+ Kxb4 55.Rc7 Ka3 56.Rxf7 b4 57.Ra7+ Kb2 58.f4 b3 59.Kf3 Re8 60.Rb7 Kc2 61.g4 b2 62.f5 b1=Q 63.Rxb1 Kd3 1/2-1/2

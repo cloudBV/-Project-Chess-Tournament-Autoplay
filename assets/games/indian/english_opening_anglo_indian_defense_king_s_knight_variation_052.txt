@@ -1,0 +1,14 @@
+[Event "Round 5: Kukushkin, Ivan - Kwiatkowski, Jakub"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/7NmczNv2"]
+[Date "2026.07.17"]
+[Round "5.21"]
+[White "Kukushkin, Ivan"]
+[Black "Kwiatkowski, Jakub"]
+[Result "0-1"]
+[WhiteElo "2257"]
+[BlackElo "2107"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 c5 5.cxd5 exd5 6.d4 Nc6 7.g3 cxd4 8.Nbd2 Bc5 9.Rc1 Qe7 10.Bg2 O-O 11.O-O Bf5 12.Nh4 Be4 13.Ndf3 Rfe8 14.Re1 Bb4 15.Rf1 Bc5 16.Qd2 Bb4 17.Qf4 Nh5 18.Qg4 Nf6 19.Qf4 Ba3 20.Bxa3 Qxa3 21.Nd2 Bxg2 22.Kxg2 Rxe2 23.Nf5 Ne7 24.Rc2 Nxf5 25.Qxf5 Rae8 26.Qd3 Qb4 27.Kg1 g6 28.a3 Qb6 29.Rfc1 Kg7 30.Nf3 Rxc2 31.Rxc2 Re4 32.Kg2 Nd7 33.Qd2 Qxb3 34.Rc7 Qa4 35.Ng5 Re7 36.Qf4 Qxa3 37.Qxd4+ Nf6 38.Rc8 Qd6 39.h4 h6 40.Ra8 b6 41.Nf3 Qc6 42.Rd8 Qc4 43.Qa1 Re2 44.h5 Qa2 45.Qd4 Qb2 46.Qxb2 Rxb2 47.hxg6 fxg6 48.Ne5 Ne4 49.Rd7+ Kf6 50.Ng4+ Kg5 51.Ne3 Rxf2+ 52.Kh3 Nf6 53.Rxa7 d4 54.Ng2 d3 55.Ra3 d2 56.Rd3 Rf1 57.Ne3 Rf3 58.Rxd2 Rxe3 59.Rb2 Nd5 60.Rb5 Re5 61.Rb3 Kf6 62.Kh4 Ke6 63.g4 Re3 64.Rb1 g5+ 65.Kh5 Kf6 66.Rh1 Nf4+ 67.Kxh6 Rh3+ 0-1

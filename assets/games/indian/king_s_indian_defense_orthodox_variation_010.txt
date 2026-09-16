@@ -1,0 +1,15 @@
+[Event "Round 8: Gelfand, Boris - Sindarov, Javokhir"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz-final/round-8/Dwhj9iqY/iGY8ChFQ"]
+[Date "2026.06.30"]
+[Round "8.1"]
+[White "Gelfand, Boris"]
+[Black "Sindarov, Javokhir"]
+[Result "0-1"]
+[WhiteElo "2592"]
+[BlackElo "2680"]
+[ECO "E91"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.d4 d6 6.Be2 c5 7.d5 e6 8.O-O exd5 9.exd5 Bg4 10.h3 Bxf3 11.Bxf3 Nbd7 12.Qc2 Re8 13.Bg5 h6 14.Bd2 a6 15.a4 Qc7 16.Rae1 Ne5 17.Be2 Re7 18.f4 Ned7 19.Bf3 Rae8 20.Rxe7 Rxe7 21.Re1 Rxe1+ 22.Bxe1 Qd8 23.Qe2 Ne8 24.Bd2 Kf8 25.g3 Qb6 26.Be1 Qb3 27.a5 Qb4 28.Nd1 Qb3 29.Nc3 b6 30.Be4 bxa5 31.Bd3 a4 32.Qc2 Qb4 33.Kf1 Nb6 34.Nd1 Qb3 35.Qxb3 axb3 36.Bc3 Na4 37.Bxg7+ Kxg7 38.Ke1 g5 39.Kd2 gxf4 40.gxf4 Kf6 41.Be2 Ng7 42.Bg4 h5 43.Be2 h4 44.Bg4 Nf5 45.Kd3 Nd4 46.Bd7 Nb6 47.Bg4 a5 48.Nc3 Ke7 49.Bd1 a4 50.Nb1 Nf5 51.Na3 Ng3 52.Nb5 Nf5 53.Nc3 Nd4 54.Bg4 Kd8 55.Bd1 Kc7 56.Bh5 f6 57.Bg4 Kb8 58.Bd1 f5 59.Nb1 Ka7 60.Na3 0-1

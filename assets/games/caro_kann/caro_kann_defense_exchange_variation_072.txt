@@ -1,0 +1,15 @@
+[Event "Round 4: Zhalmakhanov, Ramazan - Chigaev, Maksim"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-4/GoURWTUm/GyB9ljez"]
+[Date "2026.07.24"]
+[Round "4.6"]
+[White "Zhalmakhanov, Ramazan"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[WhiteElo "2478"]
+[BlackElo "2648"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.Nf3 d5 3.exd5 cxd5 4.d4 Nc6 5.c3 g6 6.Bf4 Bh6 7.Bxh6 Nxh6 8.Be2 Nf5 9.O-O Kf8 10.Na3 Kg7 11.Nc2 h5 12.Re1 Bd7 13.b3 Rc8 14.c4 e6 15.Ne3 Nxe3 16.fxe3 Qa5 17.a3 dxc4 18.bxc4 Rhe8 19.Qb3 e5 20.Qxb7 Rc7 21.Qb2 Rb8 22.Qc1 exd4 23.exd4 Bg4 24.Rd1 Rd7 25.d5 Bxf3 26.Bxf3 Qc5+ 27.Kh1 Ne5 28.Qc3 f6 29.Rac1 Rc8 30.Be2 Rd6 31.Qb4 Nd7 32.Qxc5 Nxc5 33.Kg1 f5 34.h4 Kf6 35.Bf3 Rb8 36.Rb1 Rc8 37.Kf2 Ke5 38.Rb2 Nd7 39.Re2+ Kf6 40.Rc2 Ke5 41.Re2+ Kf6 42.Rde1 Nc5 43.Kg3 Ra6 44.Re3 Rb8 45.Rc3 Rab6 46.Kf4 Rb3 47.Ree3 R3b6 48.Re2 Rb3 49.Rec2 R3b6 50.Rd2 Rd6 51.Re3 Rc8 52.Rb2 Na4 53.Rb4 Nc5 54.Bd1 Nd7 55.Ba4 Nc5 56.Bc6 Ne6+ 57.dxe6 Rdxc6 58.e7 Re8 59.Ra4 a5 60.Re5 Rxe7 61.Rxe7 Kxe7 62.Rxa5 Rxc4+ 63.Kg3 1/2-1/2

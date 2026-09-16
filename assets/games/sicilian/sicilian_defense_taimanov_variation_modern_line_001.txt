@@ -1,0 +1,15 @@
+[Event "Round 8: Ivanchuk, Vasyl - Caruana, Fabiano"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-8/fKPSQ5CP/iamQ5Z1T"]
+[Date "2026.07.04"]
+[Round "8.4"]
+[White "Ivanchuk, Vasyl"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteElo "2593"]
+[BlackElo "2773"]
+[ECO "B44"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Modern Line"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6 11.Be3 Bb7 12.Qb3 Nd7 13.Rfd1 Rb8 14.Rac1 Re8 15.Qc2 Nce5 16.f3 Ng6 17.Qd2 Ba8 18.Nc2 h5 19.b4 h4 20.h3 Qc7 21.Nd4 Nf6 22.b5 a5 23.Nc6 Bxc6 24.bxc6 Qxc6 25.Nb5 Red8 26.Bg5 Nh5 27.Bxe7 Nxe7 28.Qg5 Qc5+ 29.Qxc5 dxc5 30.Kf2 Nf4 31.Bf1 Nc6 32.Nc3 g5 33.Ke3 Kg7 34.Na4 Nd4 35.Rb1 Rd6 36.Rd2 Rbd8 37.Rdb2 Nc6 38.Rxb6 Rd2 39.Rxc6 Nxg2+ 0-1

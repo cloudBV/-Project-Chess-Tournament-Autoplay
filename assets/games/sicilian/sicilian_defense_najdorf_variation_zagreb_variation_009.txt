@@ -1,0 +1,15 @@
+[Event "Round 4: Khazhatuly, Alikhan - Tenguundalai Ganbat"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-4/P2eNT3v3/naEcGx6M"]
+[Date "2026.07.19"]
+[Round "4.14"]
+[White "Khazhatuly, Alikhan"]
+[Black "Tenguundalai Ganbat"]
+[Result "1/2-1/2"]
+[WhiteElo "2148"]
+[BlackElo "2276"]
+[ECO "B91"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Zagreb Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg5 Nbd7 9.a4 Qc7 10.h4 h6 11.Be3 b6 12.Bg2 Bb7 13.Bf3 Rc8 14.O-O Qb8 15.Qd3 O-O 16.Nd2 Qc7 17.Rad1 Rfd8 18.Rfe1 Nc5 19.Bxc5 dxc5 20.Qe2 c4 21.Ndb1 Bc5 22.Rxd8+ Rxd8 23.Rd1 Rd4 24.Kg2 Qd7 25.Nd2 b5 26.axb5 axb5 27.Nf1 b4 28.Rxd4 exd4 29.Qxc4 bxc3 30.Qxc5 Nxe4 31.Qb4 d3 32.Ne3 dxc2 33.Nxc2 cxb2 34.Na3 Nd6 35.Qxb2 Bxf3+ 36.Kxf3 Qc6+ 37.Ke2 Qe4+ 38.Kf1 Nf5 39.Qb8+ Kh7 40.Qb1 Qf3 41.Kg1 g6 42.Nc2 Nxg3 43.fxg3 Qxg3+ 44.Kf1 Qxh4 45.Qb3 Qf4+ 46.Kg2 h5 47.Ne3 h4 48.Nf1 g5 49.Qd3+ Kg7 50.Qc3+ f6 51.Qa3 Kg6 52.Qa8 Qg4+ 53.Kf2 Qf5+ 54.Kg1 Qe6 55.Qf3 g4 56.Qf4 Qf5 57.Qc4 g3 58.Kg2 Kg5 59.Nxg3 hxg3 60.Kxg3 Qe5+ 61.Kf3 f5 62.Qg8+ Kh6 63.Qf8+ Kg6 64.Qg8+ Qg7 65.Qxg7+ Kxg7 1/2-1/2

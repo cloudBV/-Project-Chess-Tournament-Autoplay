@@ -1,0 +1,15 @@
+[Event "Round 7: Nyander, Joakim - Malmquist, Neo"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-7/qIT8xtMr/F2jbxYzJ"]
+[Date "2026.07.01"]
+[Round "7.5"]
+[White "Nyander, Joakim"]
+[Black "Malmquist, Neo"]
+[Result "1/2-1/2"]
+[WhiteElo "2175"]
+[BlackElo "2029"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 c5 3.b3 Nc6 4.Bb2 g6 5.g3 Bg7 6.Bg2 O-O 7.O-O d6 8.Nc3 e5 9.d3 h6 10.a3 Be6 11.b4 cxb4 12.axb4 Nxb4 13.Ba3 Nc6 14.Rb1 Qd7 15.Qb3 Rab8 16.Rfc1 Rfd8 17.Nd5 Kh7 18.e3 e4 19.Nd2 exd3 20.Qxd3 Ne5 21.Qb3 Bh3 22.Bh1 Be6 23.Bb2 Bxd5 24.cxd5 Rdc8 25.Rd1 b5 26.Bd4 Nc4 27.Nxc4 bxc4 28.Qxb8 Rxb8 29.Rxb8 Qc7 30.Rbb1 Nd7 31.Rbc1 Bxd4 32.Rxd4 Nb6 33.Bf3 a5 34.Be2 a4 35.Rc3 Qa7 36.Bxc4 Nxc4 37.Rcxc4 a3 38.Ra4 Qb6 39.Rxa3 Qb1+ 40.Kg2 Kg7 41.Raa4 h5 42.h4 Qb7 43.Rac4 Qe7 44.Re4 Qf6 45.Rcd4 g5 46.hxg5 Qxg5 47.Rf4 1/2-1/2

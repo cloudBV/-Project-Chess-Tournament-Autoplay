@@ -1,0 +1,14 @@
+[Event "Round 6: Vyval, Volodymyr - Hirneise, Jens"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/sRPntQQn"]
+[Date "2026.07.22"]
+[Round "7.7"]
+[White "Vyval, Volodymyr"]
+[Black "Hirneise, Jens"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2355"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kupreichik Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bd7 6.Bg5 e6 7.Qd3 a6 8.O-O-O h6 9.Bh4 g5 10.Bg3 e5 11.Nb3 Nc6 12.Be2 Rc8 13.Kb1 Be6 14.h4 Rg8 15.hxg5 hxg5 16.Qe3 Qe7 17.Nd5 Bxd5 18.exd5 Nb8 19.c4 Qc7 20.c5 Nbd7 21.cxd6 Bxd6 22.Bd3 Qb6 23.Qe2 Kd8 24.Rh6 Bf8 25.Rhh1 Bd6 26.Bf5 Rc7 27.f3 Qb4 28.Be1 Qa4 29.Rh6 Qf4 30.g4 e4 31.fxe4 Qe5 32.Rh3 Re8 33.Rd4 Nxd5 34.Qd1 N7f6 35.Rhd3 Ke7 36.Rxd5 Nxd5 37.Rxd5 Qh2 38.Bc3 f6 39.a3 Rxc3 40.bxc3 Bxa3 41.Rd2 Rd8 42.Rxh2 Rxd1+ 43.Kc2 Rg1 44.Rh7+ Kd6 45.Rxb7 Rg2+ 46.Nd2 Ke5 47.Kb3 Bc5 48.Nc4+ Kf4 49.Rc7 Bf2 50.Rc6 Rg3 51.Nb6 1-0

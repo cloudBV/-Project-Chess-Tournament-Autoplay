@@ -1,0 +1,14 @@
+[Event "Round 1: Deak-Sala, Emilia - Kovacevic, Blazimir"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-1/HpSVQtBg/tx0EWCKX"]
+[Date "2026.07.04"]
+[Round "1.32"]
+[White "Deak-Sala, Emilia"]
+[Black "Kovacevic, Blazimir"]
+[Result "0-1"]
+[WhiteElo "2125"]
+[BlackElo "2380"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 b6 3.Bg2 Bb7 4.O-O Nf6 5.d3 e6 6.Nbd2 Be7 7.e4 c5 8.Re1 Nc6 9.exd5 Nxd5 10.Nc4 O-O 11.a4 Qc7 12.a5 Rad8 13.axb6 axb6 14.Nfe5 Nxe5 15.Nxe5 Ra8 16.Rxa8 Bxa8 17.h4 Bd6 18.Qe2 Bxe5 19.Qxe5 Qxe5 20.Rxe5 Nb4 21.Re2 Bxg2 22.Kxg2 Ra8 23.Bf4 Ra2 24.Be5 Nc6 25.Bc3 h5 26.Re4 b5 27.Be5 f6 28.Bd6 Rxb2 29.c4 Kf7 30.Bxc5 b4 31.d4 b3 32.d5 Ne5 33.Bd4 Rd2 34.Bc3 b2 35.Re1 Nd3 36.dxe6+ Ke8 37.Bd4 Nxe1+ 0-1

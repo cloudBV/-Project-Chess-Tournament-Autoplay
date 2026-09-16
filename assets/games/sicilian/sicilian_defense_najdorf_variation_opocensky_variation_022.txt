@@ -1,0 +1,15 @@
+[Event "Round 1: Adams, Michael - Kovchan, Alexander"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-1/5xtgFQdm/zcADdLbt"]
+[Date "2026.07.16"]
+[Round "1.5"]
+[White "Adams, Michael"]
+[Black "Kovchan, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2622"]
+[BlackElo "2445"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Qd3 Be6 9.Bd2 O-O 10.O-O Nbd7 11.Nd5 Bxd5 12.exd5 Ne8 13.Na5 Rb8 14.b4 Bg5 15.c4 Bxd2 16.Qxd2 Nef6 17.Rac1 Qb6 18.Rfd1 Rfc8 19.a3 Ne4 20.Qe1 f5 21.Bd3 Ndf6 22.c5 dxc5 23.Nc4 Qd8 24.Bxe4 fxe4 25.d6 Rc6 26.Qd2 Qe8 27.Na5 Rcc8 28.bxc5 Qa4 29.Qb4 Qxb4 30.axb4 b6 31.c6 bxa5 32.bxa5 Kf8 33.c7 Rb3 1/2-1/2

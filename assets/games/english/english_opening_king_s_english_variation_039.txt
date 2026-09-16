@@ -1,0 +1,14 @@
+[Event "Round 3: Chernikov, Vladimir - Penades Ordaz, Victor"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-3/hwg0CPgt/DHmGFDsH"]
+[Date "2026.07.14"]
+[Round "3.4"]
+[White "Chernikov, Vladimir"]
+[Black "Penades Ordaz, Victor"]
+[Result "0-1"]
+[WhiteElo "2215"]
+[BlackElo "2078"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 Bc5 3.Bg2 Nc6 4.Nc3 f5 5.e3 Nf6 6.Nge2 e4 7.d3 Bb4 8.a3 exd3 9.Qxd3 Bxc3+ 10.Nxc3 Ne5 11.Qc2 d6 12.b3 O-O 13.Bb2 a6 14.O-O Qe8 15.c5 Qh5 16.Qd1 Qxd1 17.Rfxd1 dxc5 18.Nd5 Nxd5 19.Rxd5 Nf7 20.Rxc5 c6 21.b4 Be6 22.a4 Rfd8 23.Bd4 Nd6 24.Rac1 Bb3 25.a5 Be6 26.h3 Nb5 27.Ba1 Bd5 28.Bxd5+ Rxd5 29.Rxd5 cxd5 30.Be5 Kf7 31.g4 Ke6 32.f4 g5 33.Kf2 Rg8 34.Kf3 gxf4 35.Bxf4 d4 36.gxf5+ Kxf5 37.Rc5+ Ke6 38.exd4 Nxd4+ 39.Ke4 Nb5 40.Rh5 Rg7 41.Rh6+ Kd7 42.Be5 Rf7 43.h4 Na7 44.Rd6+ Kc8 45.h5 Nc6 46.Bc3 Kc7 47.Rd3 Kc8 48.h6 Ne7 49.Bd4 Rf1 50.Bb6 Re1+ 51.Kf4 Rf1+ 52.Ke5 Nc6+ 53.Ke6 Rh1 54.Be3 Rh3 55.Kf6 Rg3 56.Rc3 Kd7 57.Bd2 Rg6+ 58.Kf5 Ne7+ 59.Ke5 Re6+ 60.Kd4 Rd6+ 61.Kc5 Rxd2 62.Rg3 Rd6 63.Rh3 Rc6+ 64.Kd4 Nf5+ 0-1

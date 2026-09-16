@@ -1,0 +1,15 @@
+[Event "Round 2: Ton, Nu Quynh Duong - Satanovskaia, Evgeniia"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-2/pbxWlvpc/lXoPrVtQ"]
+[Date "2026.07.18"]
+[Round "2.3"]
+[White "Ton, Nu Quynh Duong"]
+[Black "Satanovskaia, Evgeniia"]
+[Result "1-0"]
+[WhiteElo "2009"]
+[BlackElo "2165"]
+[ECO "E48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Bd6 8.Ng3 Re8 9.O-O Bxg3 10.hxg3 Nc6 11.Re1 Nb4 12.Bb1 Bg4 13.f3 Be6 14.g4 Qd6 15.a3 Na6 16.g5 Nd7 17.f4 f5 18.b4 c6 19.Bd3 Nc7 20.Qc2 g6 21.Ne2 h5 22.Kf2 b5 23.Ng1 Nb6 24.Nf3 Nc4 25.Ne5 Kg7 26.Rh1 Nxe5 27.dxe5 Qd7 28.Bb2 Rec8 29.Bd4 a5 30.bxa5 Na6 31.Qe2 Qf7 32.Bb6 Rab8 33.Rhc1 Bd7 34.Qb2 Qe6 35.a4 c5 36.axb5 Nb4 37.Be2 Kh7 38.Rxc5 Rxc5 39.Bxc5 Na6 40.Bd6 Rb7 41.b6 Nb8 42.a6 1-0

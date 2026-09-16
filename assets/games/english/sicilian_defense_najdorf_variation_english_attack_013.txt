@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.06"]
+[Round "2.6"]
+[White "Blanchet, Mathieu"]
+[Black "Mattenberger, Matthias"]
+[Result "0-1"]
+[WhiteElo "2123"]
+[BlackElo "2347"]
+[ECO "B90"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Nc6 10.Bg5 Nd7 11.Qd2 Nd4 12.Bxe7 Nxf3+ 13.gxf3 Qxe7 14.Rfd1 b5 15.Bf1 Rb8 16.Kh1 Qh4 17.Nd5 f5 18.Bd3 Nc5 19.exf5 Nxd3 20.cxd3 Bb7 0-1

@@ -1,0 +1,14 @@
+[Event "Round 5: Svadlenka, Dominik - Roubal, Matyas"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-5/cQk1QlWD/80q64nQ1"]
+[Date "2026.07.01"]
+[Round "5.5"]
+[White "Svadlenka, Dominik"]
+[Black "Roubal, Matyas"]
+[Result "1-0"]
+[WhiteElo "2157"]
+[BlackElo "2109"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 c5 7.d5 e6 8.Be3 exd5 9.cxd5 Na6 10.Nd2 Nc7 11.a4 b6 12.O-O Re8 13.Re1 Rb8 14.Bg5 Qd7 15.h3 h5 16.Bb5 Nxb5 17.axb5 Nh7 18.Bf4 Be5 19.Bxe5 Rxe5 20.f4 Re8 21.Nc4 f6 22.e5 fxe5 23.fxe5 dxe5 24.Nxe5 Qd6 25.Nc6 Bf5 26.Nxb8 Rxb8 27.Ne4 Bxe4 28.Rxe4 Ng5 29.Re3 Rf8 30.Qd3 h4 31.Rae1 Rf7 32.Re5 Qf6 33.Re8+ Kh7 34.Rf1 Qxb2 35.Rxf7+ Nxf7 36.Re7 Qc1+ 37.Qf1 Qxf1+ 38.Kxf1 Kg7 39.Rxa7 Kf6 40.Rb7 Nd6 41.Rxb6 Ke5 42.Rxd6 Kxd6 43.b6 Kxd5 1-0

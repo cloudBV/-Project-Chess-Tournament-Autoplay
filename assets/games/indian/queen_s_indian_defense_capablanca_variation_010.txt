@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.15"]
+[Round "2.1"]
+[White "Barria Arbunic, Manuel"]
+[Black "Villanueva, Mario"]
+[Result "0-1"]
+[WhiteElo "2015"]
+[BlackElo "2466"]
+[ECO "E16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.d4 e6 2.c4 b6 3.Nf3 Bb7 4.g3 Nf6 5.Bg2 Bb4+ 6.Nbd2 O-O 7.O-O a5 8.Qc2 Bxd2 9.Qxd2 Be4 10.b3 d6 11.Rd1 Nbd7 12.Bb2 a4 13.Bf1 h6 14.Ne1 d5 15.f3 Bh7 16.Bg2 Qe7 17.Nd3 c6 18.Re1 Rfd8 19.e4 axb3 20.axb3 Rxa1 21.Bxa1 Qa3 22.Qc2 Ra8 23.Bb2 Qf8 24.Qc3 Rc8 25.e5 dxc4 26.bxc4 Ne8 27.Ba3 c5 28.d5 exd5 29.cxd5 Nc7 30.f4 Nb5 31.Qb3 Nxa3 32.Qxa3 c4 33.Qxf8+ Kxf8 34.Nb4 Nc5 35.Rc1 b5 36.d6 Nd3 37.Nxd3 Bxd3 38.Bf1 Bxf1 39.Kxf1 Ke8 40.Ke2 b4 41.Kd2 Kd7 42.Rb1 Rb8 43.Rc1 c3+ 44.Kc2 Ke6 45.Kb3 f6 46.Re1 fxe5 47.fxe5 g5 48.h4 g4 49.Re2 Rc8 50.Kc2 Rb8 51.Kb3 Rc8 52.Kc2 Rc4 53.Re1 Rd4 54.Re2 Rd5 55.Kb3 Rc5 56.Kc2 h5 57.Re1 Rc8 58.Re2 Rc4 59.Re1 Rc8 60.Re2 Rf8 61.Kb3 Rf3 62.Kxb4 Rxg3 63.Kc4 Rf3 64.Kc5 Rd3 65.Kc6 Rd2 66.Re3 c2 67.Rc3 g3 68.d7 g2 0-1

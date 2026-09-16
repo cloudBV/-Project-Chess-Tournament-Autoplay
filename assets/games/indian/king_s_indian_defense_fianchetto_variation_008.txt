@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-3/kmDO33LG/fKcA6Dab"]
+[Date "2026.07.11"]
+[Round "3.3"]
+[White "Kengis, Edvins"]
+[Black "Lavendelis, Egons"]
+[Result "1/2-1/2"]
+[WhiteElo "2329"]
+[BlackElo "2194"]
+[ECO "E60"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.g3 O-O 1/2-1/2

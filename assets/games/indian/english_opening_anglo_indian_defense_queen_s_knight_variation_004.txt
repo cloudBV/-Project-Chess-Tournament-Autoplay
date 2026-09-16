@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-7/iCL7Nk5B/nadqZvbd"]
+[Date "2026.07.06"]
+[Round "7.6"]
+[White "Rybackova, Lucie"]
+[Black "Holly, Andrej"]
+[Result "0-1"]
+[WhiteElo "2154"]
+[BlackElo "2192"]
+[ECO "A16"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.e4 d6 4.g3 g6 5.Bg2 Bg7 6.Nge2 O-O 7.O-O Nc6 8.d3 a6 9.h3 Ne8 10.Be3 Nc7 11.d4 cxd4 12.Nxd4 Rb8 13.Rc1 Ne6 14.Nxe6 Bxe6 15.b3 Qa5 16.Qd2 b5 17.Nd5 Qxd2 18.Bxd2 Bxd5 19.exd5 Ne5 20.cxb5 axb5 21.Rc7 Rfe8 22.Be4 f5 23.Bg2 Ra8 24.Bg5 Kf7 25.f4 Nd3 26.Rd1 Nc5 27.Rd2 b4 28.g4 Rac8 29.Ra7 Ra8 30.Rxa8 Rxa8 31.Re2 Bf6 32.Bh6 Nd3 33.Rc2 Bd4+ 34.Kh2 Bc3 35.Bg5 Ra5 36.gxf5 gxf5 37.Bf3 Bf6 38.Bxf6 Kxf6 39.Kg3 Ra8 40.Rc4 Rxa2 41.Rd4 Nc5 42.Rxb4 Rb2 43.Rb8 Rxb3 44.Rf8+ Kg6 45.Re8 Kf7 46.Ra8 Ne4+ 47.Kg2 Rb2+ 48.Kg1 Nf6 49.Ra4 Rd2 50.Ra5 Rd4 51.Kf2 Rxf4 52.Kg3 Rd4 53.Bg2 Nd7 54.Ra7 Ne5 55.Ra2 f4+ 56.Kf2 f3 0-1

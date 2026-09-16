@@ -1,0 +1,15 @@
+[Event "Round 3: Patton, Zachary - McKay, Roderick M"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-3/M8Ejnb0x/NACN8kTa"]
+[Date "2026.07.04"]
+[Round "3.4"]
+[White "Patton, Zachary"]
+[Black "McKay, Roderick M"]
+[Result "0-1"]
+[WhiteElo "2001"]
+[BlackElo "2149"]
+[ECO "B56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Venice Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+ Bd7 7.Bxd7+ Qxd7 8.Nf5 d5 9.Nxd5 Nxe4 10.O-O Nc6 11.Nfe3 O-O-O 12.c4 f5 13.b4 Bxb4 14.Rb1 Bc5 15.Qa4 f4 16.Nd1 Nd4 17.Qa5 f3 18.g3 0-1

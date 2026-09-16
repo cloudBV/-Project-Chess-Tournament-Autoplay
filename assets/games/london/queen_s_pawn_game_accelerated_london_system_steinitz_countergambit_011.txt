@@ -1,0 +1,14 @@
+[Event "Round 7: Heinatz, Gundula, Dr. - Sedina, Elena"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-women/round-7/zloO6jXl/8gZZi80O"]
+[Date "2026.07.17"]
+[Round "7.3"]
+[White "Heinatz, Gundula, Dr."]
+[Black "Sedina, Elena"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2229"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Qb6 5.Qc1 Nf6 6.Be2 Bf5 7.Nf3 e6 8.O-O Rc8 9.Nbd2 h6 10.h3 Be7 11.dxc5 Bxc5 12.Nb3 Be7 13.Nbd4 Bh7 14.Rd1 O-O 15.Bd3 Bxd3 16.Rxd3 Ne4 17.Rd1 Rfd8 18.Qc2 Na5 19.Qe2 Nc4 20.Rab1 Bf6 21.Bh2 Qa6 22.a3 b5 23.Ne1 Qb6 24.Nd3 a5 25.Qg4 g6 26.h4 h5 27.Qh3 Bg7 28.Rbc1 Re8 29.Rc2 e5 30.Nf3 Nxf2 31.Rxf2 Nxe3 32.Re1 Ng4 33.Bxe5 Nxf2 34.Nxf2 Bxe5 35.Rxe5 Qd6 36.Nd3 Kg7 37.Qh2 f6 38.Rxe8 Qxh2+ 39.Kxh2 Rxe8 40.Nd4 Re4 41.g3 g5 42.hxg5 fxg5 43.Kg2 Kf6 44.Nf2 Re1 45.Nxb5 a4 46.Nc7 Re2 47.Nxd5+ Ke6 48.Nb6 Rxb2 49.Nxa4 Ra2 50.Nc5+ Kd5 51.Ne4 Rxa3 52.Kf3 Ke5 53.Nd1 Ra1 54.Ndf2 Ra3 55.Nd3+ Kf5 56.Ke3 h4 57.gxh4 gxh4 58.Ndf2 h3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 2: Kavutskiy, Kostya - Aravindh, Chithambaram VR."]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/T2qq5lKG"]
+[Date "2026.07.04"]
+[Round "2.20"]
+[White "Kavutskiy, Kostya"]
+[Black "Aravindh, Chithambaram VR."]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2569"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nc6 3.d4 Bf5 4.Bg2 e6 5.Nh4 Be4 6.f3 Bg6 7.c3 Bxb1 8.Rxb1 g5 9.Qb3 Rb8 10.Nf5 exf5 11.f4 g4 12.Bxd5 Qd7 13.Bg2 Nf6 14.O-O Bg7 15.d5 Ne7 16.c4 O-O 17.Be3 b5 18.Rfd1 bxc4 19.Qxc4 Nc8 20.Bd4 Nd6 21.Qd3 Rfe8 22.h3 h5 23.a3 gxh3 24.Bxh3 Ng4 25.Bxa7 Rxb2 26.Rxb2 Bxb2 27.Bd4 Bxd4+ 28.Qxd4 Rxe2 29.Rb1 Qe8 30.Bxg4 hxg4 31.Qf6 Qe3+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Kollias, Ioannis K. - Sulashvili, Malkhaz"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/H3qDlAft"]
+[Date "2026.07.22"]
+[Round "6.14"]
+[White "Kollias, Ioannis K."]
+[Black "Sulashvili, Malkhaz"]
+[Result "1/2-1/2"]
+[WhiteElo "2083"]
+[BlackElo "2381"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O Nxd4 9.Bxd4 e5 10.Be3 d6 11.Qg3 Be6 12.Bg5 Rc8 13.Bxf6 gxf6 14.Bd3 Qa5 15.a3 Bh6+ 16.Kb1 Rxc3 17.bxc3 Ke7 18.Be2 Rc8 19.c4 Rc6 20.Rd5 Bxd5 21.exd5 Rc5 22.Qb3 b5 23.cxb5 axb5 24.Qb4 Qc7 25.Bd3 Rxd5 26.Qh4 Bd2 27.Qxh7 Rd4 28.Bg6 Qc4 29.Rd1 Bc3 30.Rd3 b4 31.axb4 e4 32.Rxc3 Qxc3 33.Qxf7+ Kd8 34.Qxf6+ Kc7 35.Qe7+ Kb6 36.Qd8+ Kb7 37.Qd7+ Kb6 38.Qd8+ Kb7 39.Qd7+ Qc7 40.Qxc7+ Kxc7 41.c3 e3 42.fxe3 Rg4 43.Bf7 Rxg2 44.h4 Re2 45.h5 Rxe3 46.Kc2 Rf3 47.Bg6 Rh3 48.c4 Kc6 49.Kd2 d5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Chasin, Nico - Ivanchuk, Vasyl"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/gSeMl40s"]
+[Date "2026.07.04"]
+[Round "7.11"]
+[White "Chasin, Nico"]
+[Black "Ivanchuk, Vasyl"]
+[Result "0-1"]
+[WhiteElo "2513"]
+[BlackElo "2593"]
+[ECO "B90"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack, Anti-English"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5 9.Bg3 Bg7 10.Be2 h5 11.h4 Nc6 12.Nb3 gxh4 13.Bxh4 Be6 14.Qd2 Qb6 15.Nd5 Bxd5 16.exd5 Nce5 17.f4 Ng6 18.O-O-O Nxh4 19.Rxh4 Bf6 20.Rxh5 Rxh5 21.Bxg4 Rh2 22.a4 Qc7 23.Kb1 Qc4 24.a5 Kf8 25.Be2 Qa4 26.Bf3 Rc8 27.Re1 Rc4 28.f5 Rch4 29.Qc1 Qb4 30.g4 R4h3 31.Rf1 Qc4 32.Qd1 Rxc2 0-1

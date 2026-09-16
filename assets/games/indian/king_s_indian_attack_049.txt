@@ -1,0 +1,15 @@
+[Event "Round 8: Dunnington, Angus J - Christiansen, Johan-Sebastian"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-8/ARYw01q7/NVOkdiV7"]
+[Date "2026.03.25"]
+[Round "8.1"]
+[White "Dunnington, Angus J"]
+[Black "Christiansen, Johan-Sebastian"]
+[Result "0-1"]
+[WhiteElo "2192"]
+[BlackElo "2647"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.Bg2 e5 4.d3 Ngf6 5.O-O c6 6.c4 dxc4 7.dxc4 Be7 8.Nc3 O-O 9.Qc2 Qc7 10.Rb1 a5 11.a3 Nb6 12.Ne4 Nxe4 13.Qxe4 f6 14.b3 Rd8 15.Qc2 Be6 16.Nd2 Bf8 17.f4 exf4 18.gxf4 Qd7 19.Be4 h6 20.Bd3 Re8 21.Kh1 Bg4 22.Ne4 Rad8 23.Rg1 Kh8 24.Bb2 Be7 25.Qc3 Bf3+ 26.exf3 Qxd3 27.Rbd1 Qxd1 28.Rxd1 Rxd1+ 29.Kg2 a4 30.Qa5 Bd8 31.Qh5 Rf8 32.b4 Be7 33.Nf2 Rd2 34.Bc3 Rc2 35.Bd4 Nxc4 36.Kh3 Nd2 37.Qg6 Ra2 38.Ng4 Nxf3 39.Qe4 Nxd4 40.Qxe7 Rxa3+ 41.Kg2 Kg8 0-1

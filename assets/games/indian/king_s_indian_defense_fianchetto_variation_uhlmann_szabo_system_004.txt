@@ -1,0 +1,15 @@
+[Event "Round 5: Damya, Aydin - Aydin, Gulenay"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/A8ltUEl5"]
+[Date "2026.07.16"]
+[Round "5.35"]
+[White "Damya, Aydin"]
+[Black "Aydin, Gulenay"]
+[Result "1/2-1/2"]
+[WhiteElo "2105"]
+[BlackElo "2241"]
+[ECO "E62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bf5 5.g3 Bg7 6.Bg2 O-O 7.Nh4 Bc8 8.O-O e5 9.Nf3 Nc6 10.dxe5 dxe5 11.Bg5 Be6 12.Qa4 h6 13.Rad1 Qe7 14.Bxf6 Bxf6 15.Nd2 Nd8 16.Nde4 Bg7 17.Nd5 Bxd5 18.cxd5 a5 19.Qc4 Kh8 20.Rc1 f5 21.Nc3 e4 22.f3 exf3 23.Bxf3 Nf7 24.Nb5 Bxb2 25.Rc2 Be5 26.Rfc1 Rac8 27.Qa4 Ng5 28.Qa3 Qd7 29.Nxc7 Rfd8 30.Qe3 Bxc7 31.Rxc7 Rxc7 32.Qe5+ Qg7 33.Qxc7 Nxf3+ 34.exf3 Qxc7 35.Rxc7 Rxd5 36.Rxb7 Rd2 37.a4 Ra2 38.h4 Rxa4 39.Rb8+ Kg7 40.Rb7+ Kf6 41.Rb6+ Kf7 42.h5 gxh5 43.Rxh6 Ra2 44.Rxh5 Kg6 45.g4 fxg4 46.fxg4 a4 47.Ra5 a3 48.Kf1 Ra1+ 49.Kg2 a2 50.Kh2 Kf6 51.Kg2 Kg6 52.Kh2 1/2-1/2

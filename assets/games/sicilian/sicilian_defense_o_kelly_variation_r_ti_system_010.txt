@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-8/ryfHVTEF/sQZZ4VZJ"]
+[Date "2026.07.23"]
+[Round "8.2"]
+[White "Badia Berthelot, Luca"]
+[Black "Cortijo Tocino, David"]
+[Result "1-0"]
+[WhiteElo "2169"]
+[BlackElo "2006"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 Nc6 4.Bg2 e5 5.c3 d5 6.exd5 Qxd5 7.d3 Nf6 8.O-O Qd6 9.Re1 Be7 10.Na3 Be6 11.Qe2 Nd7 12.d4 cxd4 13.cxd4 exd4 14.Bf4 Qb4 15.Nc2 Qb6 16.Rad1 d3 17.Qxd3 Nc5 18.Qe3 O-O 19.b3 Qa5 20.Ncd4 Nxd4 21.Nxd4 Rad8 22.Be5 Rfe8 23.Rb1 Qb4 24.a3 Qb6 25.b4 Nd7 26.Nxe6 Qxe6 27.Ba1 Qxe3 28.Rxe3 Bf6 29.Rxe8+ Rxe8 30.Bxb7 Re2 31.Bxf6 Nxf6 32.Bxa6 Ra2 33.Rb3 h5 34.b5 Ne4 35.Bc8 Nd6 36.b6 h4 37.b7 Nxb7 38.Bxb7 h3 39.Be4 g6 40.Bb1 Rd2 41.Kf1 Rd1+ 42.Ke2 Rc1 43.a4 f5 44.a5 1-0

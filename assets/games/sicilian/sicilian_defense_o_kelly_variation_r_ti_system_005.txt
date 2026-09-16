@@ -1,0 +1,14 @@
+[Event "Round 4: Perez Travieso, Saul - Uran Bermudez, Oliver Kevin"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-4/dYZKVte1/wF1BcxBf"]
+[Date "2026.07.15"]
+[Round "4.6"]
+[White "Perez Travieso, Saul"]
+[Black "Uran Bermudez, Oliver Kevin"]
+[Result "1-0"]
+[WhiteElo "2103"]
+[BlackElo "2083"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 Nc6 4.Bg2 e5 5.O-O Nf6 6.Re1 g6 7.c3 Bg7 8.d4 d6 9.d5 Ne7 10.a4 b6 11.b4 O-O 12.Nbd2 cxb4 13.cxb4 Nfxd5 14.exd5 e4 15.Nxe4 Bxa1 16.Bf4 Bg7 17.Nxd6 Nf5 18.Nxf5 Bxf5 19.Nd4 Qd7 20.d6 Bg4 21.Qd2 Rae8 22.Rxe8 Qxe8 23.Nc6 Bd7 24.b5 axb5 25.axb5 Qe6 26.Bd5 Qf5 27.Be3 Qe6 1-0

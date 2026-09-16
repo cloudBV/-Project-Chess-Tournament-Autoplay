@@ -1,0 +1,14 @@
+[Event "Round 8: Saraci, Korab - Kovacevic, Blazimir"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-8/cnvicS6I/eBiC5mZ0"]
+[Date "2026.07.10"]
+[Round "8.26"]
+[White "Saraci, Korab"]
+[Black "Kovacevic, Blazimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2226"]
+[BlackElo "2380"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.Nc3 d5 3.d4 Bb4 4.exd5 exd5 5.Bd3 Nc6 6.Ne2 Nge7 7.O-O O-O 8.a3 Bxc3 9.bxc3 Bf5 10.c4 Na5 11.Bxf5 Nxf5 12.Qd3 g6 13.c5 Qd7 14.Rb1 b6 15.Ng3 Ng7 16.Re1 Rfe8 17.Bh6 Nc4 18.Qf3 Re6 19.h4 Rae8 20.Rxe6 Rxe6 21.h5 Ne8 22.Nf1 Nf6 23.hxg6 hxg6 24.Nd2 Nxd2 25.Bxd2 Ne4 26.Qd3 Qe7 27.Be3 Qh4 28.c4 Nf6 29.cxd5 Nxd5 30.cxb6 axb6 31.a4 g5 32.Bd2 Rf6 33.g3 Qg4 34.Re1 Nf4 35.Bxf4 gxf4 36.Re4 Qf5 37.Re8+ 1/2-1/2

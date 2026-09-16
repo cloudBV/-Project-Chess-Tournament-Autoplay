@@ -1,0 +1,14 @@
+[Event "Round 7: Han, Yichen - Kacprzak, Karol"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-7/fKkT6UxU/cbLwLSfv"]
+[Date "2026.07.09"]
+[Round "7.13"]
+[White "Han, Yichen"]
+[Black "Kacprzak, Karol"]
+[Result "0-1"]
+[WhiteElo "2437"]
+[BlackElo "2345"]
+[ECO "C52"]
+[Variant "Standard"]
+[Opening "Italian Game: Evans Gambit, Pierce Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.Qb3 Qe7 8.O-O Nf6 9.Ba3 d6 10.cxd4 O-O 11.e5 Nd7 12.Nc3 Nb6 13.Nd5 Nxd5 14.Bxd5 Bb6 15.Qd3 Bg4 16.Rae1 Qd8 17.Be4 h6 18.d5 Bxf3 19.dxc6 Bxe4 20.Qxe4 bxc6 21.Qxc6 Rc8 22.exd6 cxd6 23.Qxd6 Qxd6 24.Bxd6 Rfd8 25.Bg3 Rc2 26.a4 Ra2 27.Re7 Rdd2 28.a5 Rxa5 29.h3 Rad5 30.Rb7 Rd7 31.Rb8+ Kh7 32.Kh2 Rd1 33.Rxd1 Rxd1 34.Rb7 Kg6 35.Bb8 Ra1 36.f3 h5 37.h4 Ra4 38.Kh3 Bf2 39.g3 a5 40.Rb5 Be3 41.Bd6 Ra2 42.Re5 Bg1 43.g4 hxg4+ 44.fxg4 Rh2+ 45.Kg3 Rd2 46.Rg5+ Kh7 47.Bf8 Kg8 48.Ba3 Rd3+ 49.Kg2 Rxa3 50.Kxg1 f6 51.Rg6 Kf7 52.h5 Re3 53.Kf2 Re5 0-1

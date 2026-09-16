@@ -1,0 +1,14 @@
+[Event "Round 11: Cifuentes, John Jairo - Ospina Castro, Santiago"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-11/1k0zGiFk/LiSNjp4B"]
+[Date "2026.07.12"]
+[Round "11.8"]
+[White "Cifuentes, John Jairo"]
+[Black "Ospina Castro, Santiago"]
+[Result "1-0"]
+[WhiteElo "2166"]
+[BlackElo "2030"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Bxf6 Nxf6 8.Bd3 c5 9.Nxf6+ gxf6 10.Bb5+ Bd7 11.Bxd7+ Qxd7 12.O-O cxd4 13.Nxd4 Bc5 14.Nb3 Qxd1 15.Re1 Qxa1 16.Rxa1 Bb6 1-0

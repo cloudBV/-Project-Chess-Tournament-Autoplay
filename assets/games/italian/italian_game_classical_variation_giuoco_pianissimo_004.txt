@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-5/b6FdDsCd/bXKU1Uiv"]
+[Date "2026.07.01"]
+[Round "5.11"]
+[White "Rojas Salas, Steven"]
+[Black "Lavigne Lopez, Raul Leonardo"]
+[Result "1-0"]
+[WhiteElo "2419"]
+[BlackElo "2173"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Bg5 h6 7.Bh4 a6 8.Nbd2 Ba7 9.O-O Na5 10.Bd5 c6 11.Bxf7+ Kxf7 12.b4 Bb6 13.d4 Re8 14.bxa5 Bxa5 15.Nc4 exd4 16.Bxf6 Kxf6 17.Qxd4+ Kg6 18.Nxd6 Bxc3 19.Qd3 Bxa1 20.e5+ Kh5 21.h3 Bxh3 22.gxh3 Qd7 23.Rxa1 Rf8 24.Nd4 Rf4 25.N4f5 Rd8 26.e6 Qc7 27.e7 1-0

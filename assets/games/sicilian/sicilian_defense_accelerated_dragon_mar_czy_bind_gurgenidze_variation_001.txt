@@ -1,0 +1,15 @@
+[Event "Round 5: Malm Lindberg, Henrik - Israelsson, Lukas"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-5/pUKTxaHu/yxsm8Ps0"]
+[Date "2026.07.01"]
+[Round "5.4"]
+[White "Malm Lindberg, Henrik"]
+[Black "Israelsson, Lukas"]
+[Result "0-1"]
+[WhiteElo "2141"]
+[BlackElo "2049"]
+[ECO "B36"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Bg5 Bg7 9.Qd2 O-O 10.Be2 Be6 11.Rc1 Qa5 12.f3 Rfc8 13.b3 a6 14.Na4 Qd8 15.O-O Nd7 16.Be3 b5 17.cxb5 axb5 18.Bxb5 Rcb8 19.Bc6 Ra6 20.Rc2 Ne5 21.Bd5 Rc8 22.Bxe6 fxe6 23.Rfc1 Rxc2 24.Rxc2 Rc6 25.Rxc6 Nxc6 26.Nb6 Qc7 27.a4 Ne5 28.a5 Nc6 29.Qc2 Qb7 30.Qc4 Kf7 31.b4 Ne5 32.Qb5 Qc7 33.a6 Qc2 34.a7 Qd1+ 35.Qf1 Qb3 36.a8=Q Qxe3+ 37.Kh1 Nd3 38.Qa2 Qxb6 39.g3 Nxb4 40.Qb3 Qc5 41.Qfc4 Qf2 42.Qxe6+ Ke8 43.Qd1 Nc2 44.Qg8+ Kd7 45.Qxg7 Ne3 46.Qg1 0-1

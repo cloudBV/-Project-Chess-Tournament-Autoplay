@@ -1,0 +1,14 @@
+[Event "Round 9: Cave, Iwan - Wells, Peter K"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-9/sXIIwQlY/QiX5R2gS"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Cave, Iwan"]
+[Black "Wells, Peter K"]
+[Result "1/2-1/2"]
+[WhiteElo "2097"]
+[BlackElo "2318"]
+[ECO "B84"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.a4 Nc6 8.Be3 Be7 9.Nb3 b6 10.O-O Bb7 11.f4 O-O 12.Qe1 Rc8 13.Qf2 Nd7 14.Rad1 Qc7 15.f5 Bf6 16.Qg3 Be5 17.Qh3 Bxc3 18.bxc3 e5 19.f6 Nxf6 20.Rxf6 gxf6 21.Bh6 Kh8 22.Bg4 Rg8 23.Bf5 Rg6 24.Bxg6 fxg6 25.Qe6 Qe7 26.Rxd6 Qxe6 27.Rxe6 f5 28.exf5 gxf5 29.Nd2 Rg8 30.Nc4 Rxg2+ 31.Kf1 Rg6 32.Re8+ Rg8 33.Rxg8+ Kxg8 34.Nd6 Na5 35.Be3 Bc6 36.Bxb6 Nb7 37.Nxb7 Bxb7 38.Bc7 e4 39.Ke2 Kf7 40.a5 Ke6 41.c4 Bc6 42.Ke3 Ba4 1/2-1/2

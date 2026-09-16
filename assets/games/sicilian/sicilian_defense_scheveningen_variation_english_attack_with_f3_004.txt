@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-6/7YALUtB3/pahCdb4b"]
+[Date "2026.07.12"]
+[Round "6.6"]
+[White "Tolmacevs, Romans"]
+[Black "Vingris,Mikelis"]
+[Result "0-1"]
+[WhiteElo "2208"]
+[BlackElo "2320"]
+[ECO "B90"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 Be7 8.Qd2 b5 9.O-O-O Bb7 10.Kb1 Nbd7 11.h4 Rc8 12.h5 Nb6 13.Bd3 Nc4 14.Bxc4 Rxc4 15.g4 h6 16.Rdg1 Nd7 17.Nce2 Bg5 18.Nb3 Bxe3 19.Qxe3 Ne5 20.Nd2 Rc5 21.f4 Nc4 22.Nxc4 Rxc4 23.Ng3 Qc7 24.Rh2 d5 25.exd5 Bxd5 26.Rf1 O-O 27.g5 Rc8 28.Rff2 hxg5 29.fxg5 Rg4 30.Nf1 Re4 31.Qc1 Qe5 32.Rd2 Re1 33.Rd1 Rxf1 34.Rxf1 Qxh2 35.g6 fxg6 36.hxg6 Be4 0-1

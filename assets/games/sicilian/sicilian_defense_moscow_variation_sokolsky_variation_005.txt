@@ -1,0 +1,15 @@
+[Event "Round 8: Amilal Munkhdalai - Pingin, Artem"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/cRsHr25o"]
+[Date "2026.07.03"]
+[Round "8.1"]
+[White "Amilal Munkhdalai"]
+[Black "Pingin, Artem"]
+[Result "1/2-1/2"]
+[WhiteElo "2456"]
+[BlackElo "2477"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Bg7 9.f3 Qc7 10.Qe2 O-O 11.Be3 Nc6 12.Nc2 a6 13.O-O Ne5 14.b3 e6 15.Bd2 Rfe8 16.Rac1 Rac8 17.Kh1 Nc6 18.Ne3 Qb8 19.Rfd1 Nd7 20.Nc2 Rcd8 21.Be1 Bh6 22.Rb1 Bg7 23.Qd2 Nf6 24.Bg3 Nh5 25.Bh4 Nf6 26.a4 Rd7 27.Bg3 Nh5 28.Bf2 Qd8 29.Nd4 Be5 30.Nde2 Qf6 31.Be3 Qh4 32.f4 Bg7 33.b4 Nf6 34.g3 Qh5 35.Kg2 d5 36.cxd5 exd5 37.e5 Ne4 38.Nxe4 dxe4 39.Qxd7 Qf3+ 40.Kh3 Qh5+ 41.Kg2 Qf3+ 42.Kh3 Qh5+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "4.14"]
+[White "Yelisieiev, Yevhenii"]
+[Black "Alexikov, Alexander"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2110"]
+[ECO "A46"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.b3 Nc6 7.Bb2 e5 8.dxe5 Ng4 9.c4 Ngxe5 10.Nc3 Re8 11.Qd2 Rb8 12.Nd5 Nxf3+ 13.exf3 Be6 14.Bxg7 Kxg7 15.Qc3+ f6 16.f4 Rf8 17.Rfe1 Qd7 18.Nxc7 Bxc4 19.Qxc4 Qxc7 20.Re6 Rbe8 21.Rae1 Rxe6 22.Rxe6 Qd7 23.Qd5 Rd8 24.f5 Qf7 25.fxg6 hxg6 26.Rxd6 Qxd5 27.Rxd5 Rxd5 28.Bxd5 Nb4 29.Bxb7 Nxa2 30.Kg2 f5 31.Kf3 Nc1 32.Bd5 Nd3 33.Ke3 Ne5 34.h4 Kf6 35.Kd4 Nd7 36.f4 Ke7 37.b4 Nf6 38.Bf3 Kd6 39.Kc4 a6 40.Kd4 Nh5 41.Be2 Nxg3 42.Bxa6 Nh5 43.Ke3 Nf6 44.Bc4 Nd7 45.Kd4 Nf8 46.b5 Nd7 47.Bd5 Ke7 48.Bc6 Nf6 49.b6 Kd6 50.b7 Kc7 51.Ke5 Nh5 52.Bf3 Ng3 53.Kf6 1-0

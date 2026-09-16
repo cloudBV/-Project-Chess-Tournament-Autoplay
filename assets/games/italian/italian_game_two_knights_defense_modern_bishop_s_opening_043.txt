@@ -1,0 +1,15 @@
+[Event "Round 4: Babrikowski, Peter, Dr. - Migl, Dieter"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-4/22FzUfmv/PS61J3jg"]
+[Date "2026.07.04"]
+[Round "4.1"]
+[White "Babrikowski, Peter, Dr."]
+[Black "Migl, Dieter"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2157"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.Nc3 d6 6.h3 g6 7.Be3 Bg7 8.Qd2 Na5 9.Bb3 Nxb3 10.axb3 c5 11.Nh2 1/2-1/2

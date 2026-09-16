@@ -1,0 +1,14 @@
+[Event "Round 4: Sathvik Adiga - Vaz, Ethan"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-4/dyKZYB3z/rAL4yWIf"]
+[Date "2026.07.16"]
+[Round "4.2"]
+[White "Sathvik Adiga"]
+[Black "Vaz, Ethan"]
+[Result "1/2-1/2"]
+[WhiteElo "2408"]
+[BlackElo "2529"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8 9.a4 Be7 10.b4 Nd7 11.a5 a6 12.Na3 O-O 13.Nc4 f5 14.Be2 e4 15.Bf4 g5 16.Bxd6 Bxd6 17.Nxd6 Qf6 18.Nc4 Qc3+ 19.Nd2 Nf6 20.O-O f4 21.Nc4 f3 22.gxf3 exf3 23.Bd3 Ng4 24.h3 Qf6 25.hxg4 Qh6 26.Qe1 Qh3 27.Bxh7+ Kxh7 28.Qe7+ Kg8 29.Qxg5+ Kh7 30.Qe7+ Kg8 31.Qg5+ Kh7 32.Qe7+ Kg8 1/2-1/2

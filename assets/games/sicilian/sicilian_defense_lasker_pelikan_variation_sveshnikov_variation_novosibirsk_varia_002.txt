@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-5/gwYuF2XU/77NlSzAk"]
+[Date "2026.07.23"]
+[Round "5.20"]
+[White "Hoiberg, Nina"]
+[Black "Jorgensen, Brian"]
+[Result "1-0"]
+[WhiteElo "2090"]
+[BlackElo "2227"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 Bg7 11.c3 O-O 12.Nc2 f5 13.exf5 Bxf5 14.Nce3 Be6 15.Bd3 f5 16.O-O Ne7 17.Nxe7+ Qxe7 18.Nxf5 Bxf5 19.Bxf5 Kh8 20.Qh5 Bf6 21.Rad1 Ra7 22.Be4 Qd8 23.Rd3 Rg7 24.Rh3 Qe7 25.Rd1 Rd8 26.Rdd3 Bg5 27.Qd1 Qe6 28.Rd5 Be7 29.Qh5 Qg8 30.Rg3 Bg5 31.h3 Bc1 32.Rxg7 Qxg7 33.Qe2 Qh6 34.b3 Bg5 35.c4 b4 36.Qd3 Be7 37.Qd2 Qh4 38.Bc2 Rf8 39.Ra5 Bg5 40.Qe2 Qd4 41.Rd5 Qb6 42.c5 Qa7 43.Qh5 Bf4 44.g3 Rg8 45.Kh2 Qg7 46.Qxh7+ Qxh7 47.Bxh7 Kxh7 48.gxf4 dxc5 49.fxe5 Rc8 50.f4 Kg6 51.Kg3 Kf5 52.Rd6 Ke4 53.Rg6 a5 54.h4 c4 55.bxc4 a4 56.Rb6 Rxc4 57.e6 Kf5 58.e7 Re4 59.Rxb4 Re3+ 60.Kf2 Rxe7 61.Rxa4 Rh7 62.Kf3 Rxh4 63.Ra5+ Ke6 64.Ke4 Rh1 65.Ra6+ Kf7 66.a4 Rc1 67.Rd6 Ke7 68.Rd4 Ke6 69.f5+ Ke7 70.Kd5 Kf6 71.Rf4 Ra1 72.Kc5 Ke5 73.Rd4 Kxf5 74.Kb5 Ke5 75.Rd2 Ke6 76.a5 Ke7 77.Kb6 Rb1+ 78.Ka7 Ra1 79.a6 Ra3 80.Rb2 1-0

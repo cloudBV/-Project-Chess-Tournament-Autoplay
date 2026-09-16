@@ -1,0 +1,14 @@
+[Event "Round 2.1: Keetman, Maaike - Kazarian, Anna-Maja"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-21/k73ffgP6/vk8fTLjc"]
+[Date "2026.07.06"]
+[Round "5.3"]
+[White "Keetman, Maaike"]
+[Black "Kazarian, Anna-Maja"]
+[Result "0-1"]
+[WhiteElo "2155"]
+[BlackElo "2310"]
+[ECO "C07"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd7 7.O-O Nc6 8.Nb3 a6 9.Nbxd4 Nxd4 10.Nxd4 Qc7 11.Qe2 Bd6 12.h3 Ne7 13.Re1 O-O 14.Bd3 e5 15.Nf3 f6 16.Bc4+ Kh8 17.a4 Bd7 18.Bd2 Bc6 19.Nh4 g5 20.Nf3 Bxf3 21.gxf3 Nf5 22.c3 Nh4 23.Bd5 Qd7 24.Qf1 Bb8 25.c4 e4 26.Bb4 Qc7 0-1

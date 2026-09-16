@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.08"]
+[Round "1.4"]
+[White "Saar, Patrik"]
+[Black "Berczes, David"]
+[Result "1/2-1/2"]
+[WhiteElo "2069"]
+[BlackElo "2355"]
+[ECO "C00"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Schlechter Variation"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bf3 Be7 6.Nc3 O-O 7.Be3 c5 8.Nge2 Qa5 9.O-O Nc6 10.dxc5 Ne5 11.Nd4 Nc4 12.Nb3 1/2-1/2

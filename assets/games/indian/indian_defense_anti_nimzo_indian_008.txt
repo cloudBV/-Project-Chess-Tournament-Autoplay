@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.20"]
+[White "Radhakrishnan, Sharath"]
+[Black "Girsh, Daniel"]
+[Result "0-1"]
+[WhiteElo "2234"]
+[BlackElo "2326"]
+[ECO "E10"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 h6 4.Nc3 Bb4 5.Qc2 c5 6.dxc5 Na6 7.Be3 Nxc5 8.a3 Bxc3+ 9.Qxc3 b6 10.g3 Ba6 11.Bg2 Rc8 12.Nd2 d5 13.O-O O-O 14.b3 Qe7 15.Rac1 e5 16.Bxc5 Rxc5 17.b4 Rc7 18.Qb3 Rfc8 19.Bh3 dxc4 20.Qa4 Rd8 21.Qxa6 Rxd2 22.Rxc4 Rxc4 23.Qxc4 g6 24.Rc1 Qd6 25.Qc6 Qxc6 26.Rxc6 Ne4 27.f3 Ng5 28.Bf1 Ra2 29.Rc3 Ne6 30.e3 Ng5 31.e4 Ne6 32.Bc4 Ra1+ 33.Kg2 Nd4 34.Bd5 Nb5 35.Rc8+ Kg7 36.Rd8 Nc3 37.Rd7 Nxd5 38.Rxd5 Ra2+ 39.Kh3 Rxa3 40.Rxe5 Rxf3 41.Re7 Re3 42.b5 Kf6 43.Rxa7 Rb3 44.Rb7 Rxb5 45.Kg4 h5+ 46.Kf4 g5+ 47.Ke3 Rb2 48.h4 g4 49.e5+ Kxe5 50.Rxf7 Rb3+ 51.Ke2 Rb5 52.Kd3 Rb3+ 53.Ke2 Rxg3 54.Rh7 Rb3 55.Rxh5+ Kf4 56.Rh6 Kg3 57.h5 Rb2+ 58.Ke3 Rb5 59.Rh8 Re5+ 60.Kd4 Re6 61.Kd5 Re7 62.Kd6 Ra7 63.h6 Kh3 64.Rg8 Rh7 0-1

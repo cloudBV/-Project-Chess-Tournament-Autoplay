@@ -1,0 +1,14 @@
+[Event "Round 1: Mohamed Anees M - Krishay Jain"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-1/9hUY5sN7/nErBmhUy"]
+[Date "2026.07.13"]
+[Round "1.19"]
+[White "Mohamed Anees M"]
+[Black "Krishay Jain"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2146"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.Nf3 c5 5.Be2 Bd6 6.dxc5 Bxf4 7.exf4 Qa5+ 8.c3 Qxc5 9.O-O a5 10.a4 Na6 11.Na3 O-O 12.Nb5 Bd7 13.Ne5 Rfc8 14.Bd3 Be8 15.Re1 Nc7 16.Nd4 b5 17.axb5 Nxb5 18.Bxb5 Bxb5 19.f5 exf5 20.Nxf5 Re8 21.Qf3 Ne4 22.Rxe4 dxe4 23.Nh6+ gxh6 24.Qxf7+ Kh8 25.Qf6+ Kg8 26.Ng4 1-0

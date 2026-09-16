@@ -1,0 +1,15 @@
+[Event "Round 9: Buyuk, Eymen Eren - Khayrullin, Denis"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/cXtcTV4y"]
+[Date "2026.07.05"]
+[Round "9.25"]
+[White "Buyuk, Eymen Eren"]
+[Black "Khayrullin, Denis"]
+[Result "1-0"]
+[WhiteElo "2170"]
+[BlackElo "2345"]
+[ECO "A30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.b3 Nf6 4.Bb2 d6 5.g3 g6 6.Bg2 Bg7 7.O-O Bd7 8.Nc3 O-O 9.e3 a6 10.d4 Rb8 11.dxc5 dxc5 12.Na4 b6 13.Ne5 Qc7 14.Nxd7 Nxd7 15.Nc3 e6 16.Qf3 Nde5 17.Qe2 Rfd8 18.Rad1 f5 19.f4 Ng4 20.h3 Nf6 21.Qf3 Ne7 22.Qe2 e5 23.fxe5 Nh5 24.Nd5 Nxd5 25.Bxd5+ Kh8 26.Qh2 Qe7 27.e6 Qg5 28.Rf3 b5 29.Re1 bxc4 30.Bxc4 Rb6 31.Bxg7+ Kxg7 32.g4 Kh6 33.Qg2 Ng7 34.Ref1 fxg4 35.hxg4 Nxe6 36.Qh2+ Kg7 37.Rf7+ 1-0

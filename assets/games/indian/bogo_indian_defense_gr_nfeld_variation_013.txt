@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.7"]
+[White "Butkiewicz, Jan"]
+[Black "Brzezina, Piotr"]
+[Result "1/2-1/2"]
+[WhiteElo "2197"]
+[BlackElo "2273"]
+[ECO "E11"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Bxd2 Qe7 7.Bg5 d6 8.e3 e5 9.Qc2 Bg4 10.Be2 Nbd7 11.Nxe5 dxe5 12.Bxg4 exd4 13.Bxd7 Qxd7 14.Bxf6 gxf6 15.Rd1 Qg4 16.O-O dxe3 17.fxe3 Rad8 18.h3 Qg5 19.Rf4 Rxd1+ 20.Qxd1 Qe5 21.Qf3 Re8 22.Kh2 Qxe3 23.Qg4+ Kf8 24.Rxf6 Qe5+ 25.Rf4 Re6 26.Qg3 Ke7 27.b4 Rf6 28.Rxf6 Kxf6 29.h4 b6 30.Kh3 Qxg3+ 31.Kxg3 Ke5 32.Kg4 c5 33.bxc5 bxc5 34.Kh5 Kd4 35.Kh6 Kxc4 36.Kxh7 Kb3 37.h5 c4 38.h6 c3 39.Kg8 c2 40.h7 c1=Q 41.h8=Q Qc8+ 42.Kh7 Qf5+ 43.Kg8 Qg6+ 44.Kf8 Qxg2 45.Qd4 Qb7 46.Qd1+ Ka2 47.Qe2+ Kxa3 48.Qd3+ Qb3 49.Qa6+ Qa4 50.Qd3+ Kb4 51.Qd4+ Kb5 52.Qd7+ Kb4 53.Qd4+ Kb3 54.Qd1+ Ka3 55.Qa1+ Kb4 56.Qd4+ 1/2-1/2

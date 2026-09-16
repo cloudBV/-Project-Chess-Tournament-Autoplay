@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.18"]
+[Round "6.2"]
+[White "Bahamondes Ortiz, Benjamin"]
+[Black "Villanueva, Mario"]
+[Result "1/2-1/2"]
+[WhiteElo "2181"]
+[BlackElo "2466"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 c6 7.Bc3 Nbd7 8.Nbd2 a5 9.b3 b5 10.c5 b4 11.Bb2 Ba6 12.O-O O-O 13.Ne1 e5 14.dxe5 Ng4 15.Nd3 Bxd3 16.exd3 Ngxe5 17.Bxe5 Nxe5 18.d4 Ng6 19.Nf3 Bf6 20.Re1 Re8 21.Bh3 h6 22.Qd2 Nf8 23.Rxe8 Qxe8 24.Re1 Qd8 25.Ne5 1/2-1/2

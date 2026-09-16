@@ -1,0 +1,15 @@
+[Event "Round 6: Dushyant Sharma - Bora, Safal"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-6/0Ah4tBQa/gDMWxQzm"]
+[Date "2026.07.18"]
+[Round "6.6"]
+[White "Dushyant Sharma"]
+[Black "Bora, Safal"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2496"]
+[ECO "C01"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 c5 5.c3 cxd4 6.cxd4 Nc6 7.Nf3 Bg4 8.O-O Be7 9.h3 Bxf3 10.Qxf3 Nxd4 11.Qg3 Bf6 12.Nc3 Ne7 13.Bg5 Bxg5 14.Qxg5 Ne6 15.Bb5+ Kf8 16.Qh4 h5 17.Rad1 Rh6 18.Rfe1 Qd6 19.Bc4 Nf5 20.Rxe6 Qxe6 0-1

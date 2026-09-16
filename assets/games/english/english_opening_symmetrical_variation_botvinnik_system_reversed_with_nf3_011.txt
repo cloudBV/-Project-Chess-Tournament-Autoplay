@@ -1,0 +1,15 @@
+[Event "XIº USCIAMO DALLO STALLO"]
+[Site "Falconara Marittima (AN), Italy"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Dobboletta, Alex"]
+[Black "Zincani, Riccardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2143"]
+[BlackElo "2041"]
+[ECO "A37"]
+[TimeControl "90' + 30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 e5 4.c4 g6 5.Nc3 Bg7 6.O-O Nge7 7.Ne1 d6 8.Nc2 Be6 9.Ne3 O-O 10.d3 Rb8 11.Ned5 a6 12.a4 h6 13.f4 f5 14.Be3 Bd7 15.Rb1 a5 16.Kh1 Kh7 17.b3 Nxd5 18.Nxd5 b6 19.Qd2 Ne7 20.Bg1 Bc6 21.fxe5 Bxd5 22.cxd5 dxe5 23.e4 Nc8 24.Be3 Nd6 25.Rf2 Rb7 26.Rbf1 Rbf7 27.Qe2 Qd7 28.Bd2 Qe7 29.Bh3 fxe4 30.Rxf7 Rxf7 31.Rxf7 Qxf7 32.dxe4 Qf6 33.Kg2 h5 34.Qf3 Qf5 35.Qf4 Qxf4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Virtanen, Teemu - Madaminov, Mukhiddin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-7/2q8QHmt1/Z1XDarJX"]
+[Date "2026.07.03"]
+[Round "7.25"]
+[White "Virtanen, Teemu"]
+[Black "Madaminov, Mukhiddin"]
+[Result "1-0"]
+[WhiteElo "2224"]
+[BlackElo "2501"]
+[ECO "A13"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nc3 d5 3.e3 Nf6 4.b3 c5 5.cxd5 exd5 6.Nf3 d4 7.Na4 dxe3 8.fxe3 Bd7 9.Ba3 b6 10.Be2 Bd6 11.O-O O-O 12.Rc1 Qe7 13.Qe1 Nc6 14.Qh4 Ne5 15.Bb2 Rae8 16.Nc3 Bc6 17.Nxe5 Bxe5 18.Bc4 Qd7 19.Rcd1 Nd5 20.Bxd5 Bxd5 21.d4 cxd4 22.Nxd5 Qxd5 23.Ba3 d3 24.Bxf8 Rxf8 25.Qc4 Qxc4 26.bxc4 Rd8 27.Rf2 Bc3 28.Kf1 g6 29.Rf3 Bb4 30.Rf4 d2 31.Ke2 Kg7 32.Rd4 Re8 33.Rd7 Bc5 34.Kxd2 Bxe3+ 35.Kd3 Bg5 36.Rf1 Bf6 37.Rxa7 Rd8+ 38.Kc2 Rd4 1-0

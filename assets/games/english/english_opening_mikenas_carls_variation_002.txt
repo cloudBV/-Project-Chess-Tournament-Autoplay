@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.03"]
+[Round "1.2"]
+[White "Jaque Gutierrez, Matias"]
+[Black "Vasquez Toledo, Cristian"]
+[Result "1-0"]
+[WhiteElo "2223"]
+[BlackElo "2271"]
+[ECO "A18"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 e5 4.Nf3 Nc6 5.Be2 Bc5 6.Nxe5 Nxe5 7.d4 Bb4 8.dxe5 Nxe4 9.Qd4 Nxc3 10.bxc3 Be7 11.Qg4 g6 12.Bh6 Rg8 13.Rd1 c6 14.Rd6 Qa5 15.Qd4 Qb6 16.c5 Qb1+ 17.Bd1 b6 18.O-O bxc5 19.Qd2 Qf5 20.Re1 Rb8 21.h3 g5 22.Bg4 Qf4 23.Qc2 Rg6 24.g3 Qc4 25.Be2 Rxd6 26.Qxh7 Rxh6 27.Qg8+ Bf8 28.Bxc4 d5 29.exd6+ Be6 30.Bxe6 Rxe6 31.Rxe6+ fxe6 32.Qxe6+ Kd8 33.d7 Kc7 34.Qe5+ Bd6 35.Qxg5 Kxd7 36.h4 Re8 37.h5 Be5 38.c4 Bd4 39.Qf5+ Ke7 40.Kg2 Rf8 41.Qe4+ Kd6 42.f4 Rb8 43.Qg6+ Kd7 44.Qf7+ Kd6 45.Qxa7 1-0

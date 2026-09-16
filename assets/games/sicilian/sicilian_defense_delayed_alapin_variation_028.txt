@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.24"]
+[Round "2.4"]
+[White "Zhu, Jiner"]
+[Black "Lu, Shanglei"]
+[Result "1/2-1/2"]
+[WhiteElo "2415"]
+[BlackElo "2705"]
+[ECO "B22"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 Qxd5 5.d4 Nf6 6.Na3 Nc6 7.Be3 cxd4 8.Nb5 Qd7 9.Nbxd4 Be7 10.Qa4 Nxd4 11.Qxd7+ Nxd7 12.Bxd4 Bf6 13.Be2 Ke7 14.O-O b6 15.Rfd1 Bb7 16.a4 Bxd4 17.Nxd4 Nc5 18.a5 Rhc8 19.a6 Bd5 20.c4 Be4 21.b4 Nd7 22.f3 Bg6 23.Nb5 Ne5 24.f4 Nxc4 25.Bf3 Ne3 26.Bxa8 Rxa8 27.Rd2 Nd5 28.Rc1 Nxb4 29.Rc7+ Kf6 30.Rxa7 Rxa7 31.Nxa7 Nxa6 32.Nc8 b5 33.Rb2 Bd3 34.Kf2 Nc7 35.Ke3 Bc4 36.g3 e5 37.Nd6 exf4+ 38.Kxf4 Ke6 39.Nxc4 bxc4 40.Ke3 Ke5 41.Rb7 Nd5+ 42.Ke2 Ke6 43.Kd2 h5 44.Ra7 g6 45.h3 f6 46.Ke2 Ke5 47.Ra5 Ke4 48.Rc5 Kd4 49.Rc6 g5 50.g4 h4 51.Kd2 c3+ 52.Ke2 Nf4+ 53.Kd1 Nxh3 54.Rxf6 Ke3 55.Rf5 Nf2+ 56.Kc2 Ne4 57.Rf8 Ke2 58.Rf7 Ke3 59.Rf8 h3 60.Rh8 Nf2 61.Kxc3 Kf3 62.Kd2 Kg3 63.Ke2 h2 64.Rxh2 Kxh2 65.Kxf2 Kh3 66.Kf3 Kh4 67.Kf2 1/2-1/2

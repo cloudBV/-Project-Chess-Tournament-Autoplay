@@ -1,0 +1,14 @@
+[Event "Round 2: Zwirs, Nico - Lont, Addy"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/gEimwJuk"]
+[Date "2026.07.22"]
+[Round "2.8"]
+[White "Zwirs, Nico"]
+[Black "Lont, Addy"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2250"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 g6 7.Bd3 Be6 8.O-O Rc8 9.N5c3 Bg7 10.Nd5 Nge7 11.Nbc3 O-O 12.Bg5 h6 13.Be3 Nd4 14.Qd2 Kh7 15.Nxe7 Qxe7 16.Nd5 Bxd5 17.cxd5 a6 18.Bxd4 exd4 19.f4 Kh8 20.Rf3 Rc5 21.Raf1 f5 22.Re1 Qf7 23.Rf2 fxe4 24.Bxe4 g5 25.g3 Qh5 26.Bb1 Rc7 27.Qd3 Bf6 28.fxg5 hxg5 29.Ref1 Kg7 30.Qa3 Be7 31.Bf5 Qh6 32.Qb4 Qf6 33.Be6 Qe5 34.Re1 Rc1 35.Rxc1 Rxf2 36.Kxf2 Qe3+ 37.Kg2 Qxc1 38.Qxd4+ Bf6 39.Qa4 b5 40.Qxa6 Qc2+ 41.Kh3 Qh7+ 42.Kg2 1/2-1/2

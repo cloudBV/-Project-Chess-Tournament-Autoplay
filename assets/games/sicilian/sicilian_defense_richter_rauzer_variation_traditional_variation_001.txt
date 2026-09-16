@@ -1,0 +1,15 @@
+[Event "Famalicao Open"]
+[Site "https://lichess.org/broadcast/xiii-torneio-internacional-cidade-de-famalicao/round-6/fFEcS5Ce/7sUn0Ueg"]
+[Date "2026.07.23"]
+[Round "6.3"]
+[White "Piccoli, Lucas Fonseca"]
+[Black "Ribeiro, Gustavo"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2217"]
+[ECO "B63"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Traditional Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 h6 8.Bxf6 gxf6 9.O-O-O a6 10.Nxc6 bxc6 11.Bc4 Be7 12.Rhe1 Kf8 13.f4 Rb8 14.Bb3 h5 15.Kb1 Qb6 16.f5 e5 17.Re3 a5 18.Rh3 Ba6 19.g4 h4 20.g5 fxg5 21.f6 Bxf6 22.Qxd6+ Kg7 23.Rf3 Rh6 24.Qd7 Rb7 25.Qf5 Rc7 26.Na4 Qb4 27.a3 Qe7 28.Rc3 Bc8 29.Qf2 g4 30.Qb6 Bg5 31.Qxa5 Bf4 32.Nb6 g3 33.Nd5 Rd7 34.hxg3 cxd5 35.gxf4 Bb7 36.Ba4 Ra6 37.Qb5 Rdd6 38.Rg1+ Rg6 39.Rxg6+ Rxg6 40.exd5 exf4 41.Ka2 Rf6 42.Qb3 Ba6 43.Bc6 Be2 44.d6 Rxd6 45.Bf3 Bxf3 46.Rxf3 Qe4 47.Rh3 Qe1 48.Qf3 Qe6+ 49.b3 Qf5 50.Qc3+ Qf6 51.Qe1 f3 52.Qf2 Rd1 53.c3 Qxc3 54.Rg3+ Kf8 0-1

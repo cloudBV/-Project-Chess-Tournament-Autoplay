@@ -1,0 +1,15 @@
+[Event "Round 9: Mahmoudi, Mohammad Pouria - Jiang, Liu"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b14/round-9/jS8D4US3/A8Ai5atb"]
+[Date "2026.07.24"]
+[Round "9.11"]
+[White "Mahmoudi, Mohammad Pouria"]
+[Black "Jiang, Liu"]
+[Result "1/2-1/2"]
+[WhiteElo "2144"]
+[BlackElo "2323"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted, Main Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O 9.O-O cxd5 10.Bg5 c6 11.Na4 h6 12.Bh4 Be6 13.c3 Be7 14.Re1 a5 15.Qc2 Qc7 16.Bf5 Bxf5 17.Qxf5 Ne4 18.Bxe7 Qxe7 19.Rad1 Rfe8 20.h3 Qa7 21.Qf4 Re6 22.Qe3 Qe7 23.Qd4 Rg6 24.Qe3 Qh4 25.c4 Ng5 26.Kh2 Re6 27.Qg3 Qxc4 28.Nb6 Rxe1 29.Nxc4 Rxd1 30.Nd6 Rf8 1/2-1/2

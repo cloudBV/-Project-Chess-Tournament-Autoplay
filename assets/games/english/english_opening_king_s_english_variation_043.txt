@@ -1,0 +1,15 @@
+[Event "Round 5: Herdem, Talha - Odeev, Handszar"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/eidwQkvZ"]
+[Date "2026.07.16"]
+[Round "5.40"]
+[White "Herdem, Talha"]
+[Black "Odeev, Handszar"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2219"]
+[ECO "A20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.e3 Nf6 3.Nc3 b6 4.Nf3 e4 5.Ng5 Bb7 6.f3 exf3 7.Nxf3 g6 8.Be2 Bg7 9.Qc2 O-O 10.b3 c5 11.Bb2 Nc6 12.a3 d5 13.cxd5 Nxd5 14.O-O Nf6 15.Rac1 Qe7 16.Ba1 Rad8 17.Rb1 Nd4 18.exd4 cxd4 19.Bc4 dxc3 20.Bxc3 b5 21.Bb4 Qc7 22.Bxf8 Kxf8 23.Bd3 Qd6 24.Be2 Ng4 25.g3 h5 26.b4 Bd4+ 27.Kg2 h4 28.Bd3 Nxh2 29.Be4 Qxg3+ 30.Kh1 Nxf1 31.Rxf1 Qh3+ 32.Nh2 Be5 33.Rxf7+ Kxf7 34.Qb3+ Qxb3 0-1

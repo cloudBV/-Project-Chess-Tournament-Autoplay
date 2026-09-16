@@ -1,0 +1,14 @@
+[Event "Round 5: Vlachos, Anatole - Suder, Jakub"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-5/ZIadChVF/1cNIIRSe"]
+[Date "2026.07.21"]
+[Round "5.4"]
+[White "Vlachos, Anatole"]
+[Black "Suder, Jakub"]
+[Result "1/2-1/2"]
+[WhiteElo "2493"]
+[BlackElo "2384"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Nc3 Bf6 9.Ba3 Qa5 10.Bb2 Nxc3 11.Bxc3 Bxc3 12.dxc3 Qxc3 13.Rc1 Qa5 14.Qd2 Qxd2 15.Nxd2 Na6 16.Ne4 Rb8 17.Nxc5 b6 18.Nxa6 Bxa6 19.Rc7 Rfc8 20.Rfc1 Rxc7 21.Rxc7 Bxe2 22.Rxa7 g5 23.f4 gxf4 24.gxf4 Rc8 25.Ra8 Rxa8 26.Bxa8 Kf8 27.Kf2 Ba6 28.Be4 h6 29.b4 Ke7 30.a4 Kd6 31.Kg3 e5 32.Kg4 Be2+ 33.Bf3 f5+ 34.Kg3 Bd3 35.Bb7 Kc7 36.Bd5 Kd6 37.Bb3 Be2 38.Kf2 Ba6 39.Ke3 Bf1 40.Bc2 Ke6 41.Bd1 Ba6 42.Bf3 Kd6 43.Bh5 Bc4 44.Bg6 Ke6 45.Bh7 Ba6 46.Bg8+ Kd6 47.Bb3 Bf1 48.Bc2 Ke6 49.a5 bxa5 50.bxa5 Ba6 51.Bd1 Kd6 52.Bc2 Ke6 53.Kf3 Bb5 54.Kg3 Be2 55.Kf2 Ba6 56.Kf3 Bb5 57.Bd1 Ba6 58.Kg3 Kf6 59.Bb3 Bb5 60.Bd5 Ba6 61.Kf3 Bb5 62.Ke3 Ba6 63.Bb3 Bb5 64.Bd1 Ba6 65.Be2 Bc8 66.Kf3 Bb7+ 67.Kg3 Bc8 68.Bd3 Bb7 69.fxe5+ Kxe5 70.Kh4 Bf3 71.a6 f4 72.a7 Kd4 73.Be2 Ba8 74.Kh5 f3 75.Bf1 Kc5 76.Kxh6 Kb6 77.Kg5 Kxa7 78.h4 Kb6 79.h5 Kc5 80.Kf4 Kd4 81.h6 Be4 82.h7 Bxh7 83.Kxf3 Ke5 1/2-1/2

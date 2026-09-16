@@ -1,0 +1,15 @@
+[Event "Round 5: Akhilbay, Imangali - Volkov, Maksim"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-5/ZNuoIZMc/Mh8LgwaO"]
+[Date "2026.07.15"]
+[Round "5.1"]
+[White "Akhilbay, Imangali"]
+[Black "Volkov, Maksim"]
+[Result "1/2-1/2"]
+[WhiteElo "2357"]
+[BlackElo "2437"]
+[ECO "A28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Qe7 6.Nd5 Nxd5 7.cxd5 Nd8 8.Qc6 1/2-1/2

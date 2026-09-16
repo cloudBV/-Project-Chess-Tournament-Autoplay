@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.6"]
+[White "Nilsson, Martin"]
+[Black "Andriasian, Zaven"]
+[Result "0-1"]
+[WhiteElo "2091"]
+[BlackElo "2538"]
+[ECO "A25"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Bb4 4.Nd5 Nf6 5.Bg2 O-O 6.a3 Bd6 7.Nc3 Re8 8.d3 Nd4 9.e3 Ne6 10.Nge2 c6 11.O-O Bc7 12.d4 Qe7 13.d5 Nf8 14.b4 e4 15.c5 d6 16.Bb2 Bg4 17.dxc6 bxc6 18.Qc2 dxc5 19.Rfc1 N8d7 20.h3 Bf3 21.Na4 Nd5 22.Nxc5 Nxc5 23.bxc5 Qg5 24.Bd4 Re6 25.Bf1 Rg6 26.Rcb1 h5 27.Rb7 h4 28.Rxc7 hxg3 29.Nxg3 Nxc7 30.Bg2 Qh4 31.Be5 Ne6 32.Qc4 Ng5 33.Rb1 Bxg2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 9: Barbosa, Oliver - Paragua, Mark"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/PmGMrnYB"]
+[Date "2026.07.19"]
+[Round "9.5"]
+[White "Barbosa, Oliver"]
+[Black "Paragua, Mark"]
+[Result "1-0"]
+[WhiteElo "2367"]
+[BlackElo "2403"]
+[ECO "E81"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Sämisch Gambit"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.d5 e6 8.Nge2 exd5 9.cxd5 a6 10.a4 Nbd7 11.Ng3 h5 12.Be2 h4 13.Nf1 Nh7 14.Nd2 f5 15.exf5 gxf5 16.f4 Re8 17.Bf2 Ndf8 18.O-O Ng6 19.Bh5 Nhf8 20.Nf3 Bf6 21.Qd2 Bd7 22.Ng5 Qa5 23.g3 hxg3 24.Bxg3 Re7 25.Kh1 Qb4 26.Qc2 Rg7 27.Rae1 Bxc3 28.bxc3 Qxa4 29.Qd2 Qa5 30.h4 Ne7 31.Rg1 b5 32.Bf2 Neg6 33.Ne6 Bxe6 34.dxe6 Qd8 35.Qd5 Ne7 36.Rxg7+ Kxg7 37.Rg1+ Kh7 38.Qg2 Nxe6 39.Bf7 1-0

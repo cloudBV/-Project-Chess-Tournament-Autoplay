@@ -1,0 +1,14 @@
+[Event "Round 7: Fogo Esquivel, Levi Kalani Alexander - Safarli, Eltaj"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-7/msCPWDUL/aMCYswVV"]
+[Date "2026.07.19"]
+[Round "7.8"]
+[White "Fogo Esquivel, Levi Kalani Alexander"]
+[Black "Safarli, Eltaj"]
+[Result "0-1"]
+[WhiteElo "2219"]
+[BlackElo "2619"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Bc5 6.Nb3 Bb6 7.Bd3 Nge7 8.Qe2 O-O 9.Be3 d5 10.Bxb6 axb6 11.exd5 exd5 12.O-O d4 13.Ne4 Bf5 14.Rfd1 Re8 15.Qf3 Qd7 16.Qg3 Bg6 17.Qd6 Qc8 18.Qg3 Rd8 19.a3 Nf5 20.Qf4 h6 21.Re1 Nfe7 22.Nd6 Qd7 23.Nc4 Nd5 24.Qg3 Bxd3 25.Qxd3 Qg4 26.Qg3 Qf5 27.Qd3 Qxd3 28.cxd3 f6 29.Red1 b5 30.Ncd2 Nf4 31.Nf3 b4 32.g3 Ne6 33.axb4 Rxa1 34.Rxa1 Nxb4 35.Rd1 g5 36.Kf1 Kf7 37.Ke2 g4 38.Nh4 Rd5 39.f4 Nc6 40.Nd2 Rb5 41.Nc4 Rb3 42.Rd2 h5 43.Nd6+ Ke7 44.Ne4 Ng7 45.Rc2 Rb5 46.Nd2 Ne6 47.Ne4 Nb4 48.Rc4 Na6 49.Rc2 Nb4 50.Rc4 Nd5 51.Nf5+ Kd7 52.Nxd4 Rxb2+ 53.Nd2 b5 54.Rc2 Nxd4+ 0-1

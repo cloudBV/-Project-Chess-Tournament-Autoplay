@@ -1,0 +1,14 @@
+[Event "Round 10: Tureshbayev, Anuar - Bajraktari, Perparim"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-10/fuSt1AT1/ra89NW2P"]
+[Date "2026.07.19"]
+[Round "10.12"]
+[White "Tureshbayev, Anuar"]
+[Black "Bajraktari, Perparim"]
+[Result "1-0"]
+[WhiteElo "2328"]
+[BlackElo "2045"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Open"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d6 5.c4 g6 6.Nc3 Bg7 7.Be3 Nf6 8.Be2 O-O 9.O-O a6 10.Rc1 Bd7 11.Qd2 Rc8 12.f3 Ne5 13.b3 Re8 14.Nd5 Nxd5 15.exd5 Rf8 16.h3 f5 17.f4 Nf7 18.Ne6 Bxe6 19.dxe6 Nh6 20.Bf3 Rb8 21.c5 dxc5 22.Qxd8 Rfxd8 23.Bxc5 Bf6 24.Rfd1 b5 25.Rxd8+ Rxd8 26.Bb7 Rd2 27.Bxa6 Rd5 28.b4 g5 29.Bxb5 gxf4 30.Bc4 Rd2 31.a4 f3 32.gxf3 f4 33.a5 Nf5 34.Bf2 Bd4 35.Bxd4 Nxd4 36.Rf1 Rb2 37.b5 Nxb5 38.Bxb5 Rxb5 39.Ra1 Rb7 40.a6 Ra7 41.Ra4 Kg7 42.Kf2 1-0

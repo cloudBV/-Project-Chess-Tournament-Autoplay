@@ -1,0 +1,15 @@
+[Event "Round 2: Hariharan, Shambavi - Golding, Alex"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-2/jTVnpKXw/f5oQFJPG"]
+[Date "2026.07.23"]
+[Round "2.3"]
+[White "Hariharan, Shambavi"]
+[Black "Golding, Alex"]
+[Result "0-1"]
+[WhiteElo "2032"]
+[BlackElo "2381"]
+[ECO "E20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d6 5.a3 Bxc3+ 6.bxc3 e5 7.e3 Nc6 8.Bd3 O-O 9.Ne2 b6 10.O-O Ba6 11.Ng3 Na5 12.Qe2 c5 13.d5 Nb3 14.Rb1 Nxc1 15.Rbxc1 Re8 16.e4 Nd7 17.Nf5 Nf8 18.f4 Ng6 19.fxe5 Rxe5 20.Qg4 Bc8 21.Rf2 Bxf5 22.exf5 Nf8 23.f6 g6 24.Qf4 Nd7 25.Rcf1 Qf8 26.g4 Rae8 27.h4 Re3 28.Rf3 Rxf3 29.Rxf3 Ne5 30.Re3 Kh8 31.g5 h5 32.gxh6 Kh7 33.h5 Qxh6 34.hxg6+ fxg6 35.Qxh6+ Kxh6 36.Rh3+ Kg5 37.Rg3+ Kxf6 38.Be2 Rh8 39.Kf2 Rh4 40.Re3 g5 41.Kg3 Rh1 42.Bf3 Ra1 43.Re2 Rxa3 44.Rh2 Rxc3 45.Rh6+ Kg7 0-1

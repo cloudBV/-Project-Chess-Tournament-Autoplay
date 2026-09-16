@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "4.4"]
+[White "Sowinski, Pawel"]
+[Black "Butkiewicz, Jan"]
+[Result "1-0"]
+[WhiteElo "2432"]
+[BlackElo "2197"]
+[ECO "C07"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nf6 6.exd5 Qxd5 7.Nb5 Na6 8.Nc3 Qd8 9.a3 Be7 10.Qf3 Bd7 11.Qxb7 Nc5 12.Qf3 O-O 13.Be2 Qc7 14.Nc4 Bc6 15.Qh3 Nd5 16.O-O Bf6 17.Nxd5 exd5 18.Ne3 Rfe8 19.Ng4 Be7 20.Be3 f5 21.Nh6+ gxh6 22.Qxf5 Qd7 23.Qh5 Ne4 24.Rad1 Qe6 25.Bg4 Qg6 26.Qh3 Ng5 27.Bxg5 Qxg5 28.f4 Qh4 29.Be6+ Kh8 30.Qc3+ Qf6 31.Qxc6 Qxe6 32.Qxe6 Bc5+ 33.Kh1 Rxe6 34.Rxd5 Bb6 35.c4 Rc8 36.b3 Re3 37.Rb1 Re2 38.g3 Re3 39.a4 Rc5 40.Rxc5 Bxc5 41.b4 Bd4 42.Rd1 Bc3 43.Rd8+ Kg7 44.b5 Bb4 45.Rc8 Re2 46.c5 Kf6 47.c6 Kf5 48.h3 Rc2 49.c7 Bd6 50.a5 Ke4 51.Re8+ 1-0

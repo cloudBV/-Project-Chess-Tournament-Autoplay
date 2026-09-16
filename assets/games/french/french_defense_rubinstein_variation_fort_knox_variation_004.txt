@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL A"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "7.4"]
+[White "Vasquez Toledo, Cristian"]
+[Black "Navarro Guerrero, Simon"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2093"]
+[ECO "C10"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.c4 Ngf6 8.Nc3 Bxf3 9.Qxf3 c6 10.O-O Be7 11.Re1 O-O 12.Bc2 Re8 13.Bf4 Nf8 14.Rad1 Qb6 15.Bc1 Qb4 16.b3 Rad8 17.a3 Qa5 18.b4 Qh5 19.Qxh5 Nxh5 20.Be4 Nf6 21.Bf3 Rd7 22.Be3 a5 23.Rb1 Rc8 24.Na4 Rcd8 25.Nb6 Rc7 26.bxa5 Ng6 27.Red1 Nh4 28.Be2 Nf5 29.Rb3 Nxe3 30.fxe3 g6 31.Bf3 c5 32.d5 exd5 33.Nxd5 Nxd5 34.Bxd5 Ra8 35.Rb5 Bg5 36.Rd3 Re8 37.e4 Ree7 38.Rdb3 Kf8 39.Bxb7 f5 40.a6 fxe4 41.a7 1-0

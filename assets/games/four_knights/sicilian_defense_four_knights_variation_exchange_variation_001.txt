@@ -1,0 +1,15 @@
+[Event "Round 6: Horobetz, Graham - Kavutskiy, Kostya"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-6/HFjlTKml/Xy0xFT0H"]
+[Date "2026.07.03"]
+[Round "6.19"]
+[White "Horobetz, Graham"]
+[Black "Kavutskiy, Kostya"]
+[Result "0-1"]
+[WhiteElo "2221"]
+[BlackElo "2414"]
+[ECO "B45"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Bb7 9.Be2 c5 10.O-O Qc7 11.Nd6+ Bxd6 12.exd6 Qc6 13.f3 e5 14.Rf2 O-O 15.Bf1 c4 16.b3 Ba6 17.Ba3 Ne3 18.Qd2 Nxf1 19.Rfxf1 c3 20.Qe3 Bxf1 21.Rxf1 Rfe8 22.Rd1 a5 23.Bc5 Rac8 24.Bb6 Re6 25.Bc7 f5 26.Rd3 f4 27.Qe4 Qc5+ 28.Kf1 Qa3 29.Rxc3 Qxa2 30.Rc5 Qa1+ 31.Kf2 Rce8 32.Rxa5 Qh1 33.Ra8 Qxh2 34.Qd5 Kf8 35.b4 Qh4+ 36.Kf1 Qh1+ 37.Kf2 Qc1 38.Rxe8+ Rxe8 39.Qe4 Qd2+ 40.Kg1 Qd1+ 41.Kh2 Re6 42.Qf5+ Kg8 43.Qxe6+ dxe6 44.b5 Qxc2 45.b6 Qc6 0-1

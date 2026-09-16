@@ -1,0 +1,15 @@
+[Event "Round 3: Bogdanov, Egor - Otero Marino, Alain"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/EQcpmneB"]
+[Date "2026.07.06"]
+[Round "3.6"]
+[White "Bogdanov, Egor"]
+[Black "Otero Marino, Alain"]
+[Result "1-0"]
+[WhiteElo "2493"]
+[BlackElo "2352"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.Be3 Nd7 11.O-O-O Nf8 12.Kb1 Be6 13.c4 Rc8 14.a3 b5 15.c5 Bb8 16.Nc3 a6 17.Be4 Qa5 18.d5 cxd5 19.Nxd5 Nd7 20.c6 Ne5 21.Bb6 Qa4 22.b3 Qxa3 23.Bc5 Bxd5 24.Bxa3 Bxe4 25.Qxe4 Nc4 26.Qxe8+ 1-0

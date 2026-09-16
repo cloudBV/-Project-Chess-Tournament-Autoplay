@@ -1,0 +1,14 @@
+[Event "Round 6: Alexakis, Dimitris - Liu, Bei"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/mtS399Zx"]
+[Date "2026.07.18"]
+[Round "6.3"]
+[White "Alexakis, Dimitris"]
+[Black "Liu, Bei"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2175"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 d5 8.exd5 Nxd5 9.Nde2 Nxc3 10.Qxd8+ Kxd8 11.Nxc3 Bd7 12.h4 Bc6 13.Rh3 Be7 14.Bf4 Nd7 15.O-O-O Ke8 16.g5 Rc8 17.h5 h6 18.g6 fxg6 19.Bd3 gxh5 20.Bg6+ Kf8 21.Rxh5 Nf6 22.Re5 Be8 23.Bxe8 Rxe8 24.Rxe6 Bc5 25.Rxe8+ Kxe8 26.f3 h5 27.Kd2 h4 28.Rh1 Rh5 29.Be3 Bd6 30.Ke2 Kf7 31.f4 Ng4 32.Bd2 Be7 33.Kf3 Nh6 34.Be1 g6 35.Ne4 Nf5 36.Bc3 Nh6 37.Nf2 g5 38.fxg5 Bxg5 39.Ng4 Be7 40.Ne5+ Ke8 41.Ng6 Bd8 42.Re1+ Kd7 43.Nf4 Rf5 44.Rd1+ Kc8 45.Ke4 Rf7 46.Rd5 Ng4 47.Rc5+ Kd7 48.Rd5+ Kc8 49.Rc5+ Kd7 50.Rd5+ 1/2-1/2

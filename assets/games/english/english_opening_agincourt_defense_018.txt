@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "3.5"]
+[White "Fossheim, Yngve"]
+[Black "Melaa, Sondre"]
+[Result "1-0"]
+[WhiteElo "2230"]
+[BlackElo "2326"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.e3 Nf6 4.Nc3 Be7 5.Qc2 O-O 6.d4 b6 7.b3 Bb7 8.Bd3 dxc4 9.Bxc4 c5 10.dxc5 Bxc5 11.O-O Bxf3 12.gxf3 Nc6 13.Bb2 Qe7 14.Ne4 Ba3 15.Nxf6+ gxf6 16.Bxa3 Qxa3 17.Bd3 Rac8 18.Bxh7+ Kg7 19.Kh1 f5 20.Bxf5 exf5 21.Qxf5 Ne7 22.Rg1+ Ng6 23.Qe5+ Kh7 24.Qh5+ Kg7 25.Qe5+ Kh7 26.Qh5+ Kg7 27.f4 Qc5 28.f5 Qc6+ 29.Rg2 Rh8 30.Qg5 Qc3 31.Rag1 Rc5 32.Qe7 1-0

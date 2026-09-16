@@ -1,0 +1,14 @@
+[Event "Round 5: Wiratunga, Jenith - Ang, Alphaeus Wei Ern"]
+[Site "https://lichess.org/broadcast/peter-stuart-memorial-open-2026/round-5/upVUq4Tw/lu2CW1yC"]
+[Date "2026.02.18"]
+[Round "5.1"]
+[White "Wiratunga, Jenith"]
+[Black "Ang, Alphaeus Wei Ern"]
+[Result "0-1"]
+[WhiteElo "2031"]
+[BlackElo "2363"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+
+1.c4 Nf6 2.Nc3 g6 3.Nf3 Bg7 4.g3 O-O 5.d4 d6 6.Bg2 c6 7.O-O Bf5 8.Nh4 Be6 9.b3 d5 10.cxd5 Nxd5 11.Bb2 Nxc3 12.Bxc3 Qd7 13.Qd2 Bh3 14.Nf3 Bxg2 15.Kxg2 Na6 16.Rfd1 Rfd8 17.e4 f5 18.Qe2 fxe4 19.Qxe4 Qd5 20.Re1 Qxe4 21.Rxe4 Bf6 22.g4 Rd5 23.h4 h6 24.Rae1 Nc7 25.Bd2 g5 26.hxg5 hxg5 27.Rh1 Kf7 28.Rh7+ Kg6 29.Rh5 Nb5 30.Ne5+ Kg7 31.Bxg5 Rxd4 32.Bh6+ Kg8 33.Rxd4 Nxd4 34.Nf3 Rd8 35.Nxd4 Rxd4 36.Kf3 Rd1 37.Be3 b6 38.g5 Bg7 39.Rh4 c5 40.Ra4 a5 41.Ke2 Rd5 42.Re4 Kf7 43.f4 e6 44.Bf2 Rd6 45.Re3 Kg6 46.Rd3 Rd5 47.Rxd5 exd5 48.Kd3 Kf5 49.Be3 a4 50.bxa4 c4+ 51.Ke2 d4 52.Bc1 Ke4 53.Bd2 c3 54.Bc1 d3+ 55.Kd1 Bd4 56.g6 Kf5 57.g7 Bxg7 58.Be3 Bf8 59.Bc1 Bb4 0-1

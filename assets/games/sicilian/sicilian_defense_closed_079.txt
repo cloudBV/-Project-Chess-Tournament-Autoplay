@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.11"]
+[White "Kogan, Arthur"]
+[Black "Volkov, Dmitriy"]
+[Result "1-0"]
+[WhiteElo "2477"]
+[BlackElo "2177"]
+[ECO "B25"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e6 7.Nf3 Nge7 8.h4 h5 9.Ng5 Nd4 10.Ne2 e5 11.c3 Nxe2 12.Qxe2 f6 13.Nh3 Bg4 14.Qc2 Qd7 15.Be3 Rc8 16.Qd2 d5 17.exd5 Nxd5 18.fxe5 O-O 19.Nf2 Nxe3 20.Qxe3 Bf5 21.exf6 Rxf6 22.O-O Rb6 23.Rab1 Kh7 24.Be4 Bh6 25.Qe2 Qe6 26.Rbe1 Bh3 27.Bg2 Qxe2 28.Rxe2 Be6 29.Bh3 Rcc6 30.Bxe6 Rxe6 31.Ne4 Kg7 32.Kg2 Re7 33.b3 Rc6 34.Ref2 Kg8 35.Rf6 Rxf6 36.Rxf6 Kg7 37.Rd6 b6 38.a4 Rc7 39.Kf3 Bc1 40.Ke2 Bh6 41.a5 bxa5 42.Ra6 Kf7 43.Nd6+ Kf8 44.Rxa5 Bg7 45.Ne4 Be5 46.d4 1-0

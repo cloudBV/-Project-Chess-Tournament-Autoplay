@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.27"]
+[White "Blanco Diez, David"]
+[Black "Pallares Jover, Adrian"]
+[Result "0-1"]
+[WhiteElo "2325"]
+[BlackElo "2146"]
+[ECO "A50"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Slav Indian"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.cxd5 cxd5 5.Bf4 Nc6 6.e3 Ne4 7.Nge2 g5 8.Bg3 Nxg3 9.Nxg3 a6 10.Qf3 Be6 11.Bd3 h5 12.Qd1 h4 13.Nf5 Bc8 14.e4 dxe4 15.Bxe4 e6 16.Bxc6+ bxc6 17.Ne3 Bg7 18.Qf3 O-O 19.O-O Rb8 20.Qxc6 Bb7 21.Qc4 Qxd4 22.Rfd1 Qxc4 23.Nxc4 Rfd8 24.Rxd8+ Rxd8 25.Rd1 Rb8 26.Rd3 Kf8 27.b3 Ke7 28.f3 f5 29.Kf2 Rc8 30.Na4 Bc6 31.Nc3 Rc7 32.Ke2 Bf6 33.g4 Rd7 34.Rxd7+ Kxd7 35.Nd1 Bd4 36.Nde3 fxg4 37.Nxg4 Ke7 38.h3 Bd5 39.Nce3 Bb7 40.Nf2 Kf6 41.Ne4+ Kg6 42.Kd3 Bb6 43.Nc4 Bc7 44.a4 Bd5 45.b4 Bc6 46.a5 Kf5 47.Ke3 Bf4+ 48.Kd4 Bh2 49.Kc5 Bxe4 50.fxe4+ Kxe4 51.Kb6 g4 52.hxg4 Bg1+ 53.Kxa6 h3 54.Nd2+ Kd3 55.Nf1 Ke2 56.Ng3+ Kf3 57.Nh1 e5 58.g5 e4 59.g6 Bd4 60.b5 e3 61.Ng3 e2 62.Nxe2 Kxe2 63.b6 h2 64.b7 h1=Q 65.b8=Q Qc6+ 66.Qb6 Bxb6 67.axb6 Qa8+ 68.Kb5 Qb7 69.g7 Qxg7 70.Ka6 Qa1+ 0-1

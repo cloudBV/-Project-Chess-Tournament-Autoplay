@@ -1,0 +1,15 @@
+[Event "Round 3: Espinoza Solano, Jose Nahum - Colindres, Daniel"]
+[Site "https://lichess.org/broadcast/bitiachess-torneo-aniversario/round-3/DfvDKvlV/oGuRLpNw"]
+[Date "2026.07.18"]
+[Round "3.2"]
+[White "Espinoza Solano, Jose Nahum"]
+[Black "Colindres, Daniel"]
+[Result "1-0"]
+[WhiteElo "2230"]
+[BlackElo "2015"]
+[ECO "C10"]
+[TimeControl "45+30"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6 8.Ng3 Bxf3 9.Qxf3 c6 10.Re1 Be7 11.Bg5 Qa5 12.Bf4 Qd5 13.Ne4 Qxd4 14.Rad1 Qb6 15.Nd6+ Bxd6 16.Bxd6 O-O-O 17.b4 c5 18.Be7 Rde8 19.bxc5 Qa5 20.Rb1 Nd5 21.Bd6 f6 22.Bb5 Ne5 23.Bxe5 fxe5 24.Bxe8 Rxe8 25.c4 e4 26.Qxe4 Nb4 27.Qxh7 Qxc5 28.Qxg7 b6 29.Rbd1 Re7 30.Qg8+ Kb7 31.Rxe6 Rc7 32.Re8 Qf5 33.Qe6 1-0

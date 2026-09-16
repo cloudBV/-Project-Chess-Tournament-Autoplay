@@ -1,0 +1,14 @@
+[Event "Round 9: Cano Alcaraz, Juan Jose - Gallego, Julian Andres"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-9/L7TSgSRN/tlOXmTh2"]
+[Date "2026.07.11"]
+[Round "9.5"]
+[White "Cano Alcaraz, Juan Jose"]
+[Black "Gallego, Julian Andres"]
+[Result "1-0"]
+[WhiteElo "2062"]
+[BlackElo "2250"]
+[ECO "A38"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Duchamp Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O Nc6 7.d3 e5 8.a3 d6 9.Rb1 a5 10.Bg5 h6 11.Bxf6 Bxf6 12.Nd5 Bg7 13.b4 axb4 14.axb4 cxb4 15.Nxb4 Nxb4 16.Rxb4 d5 17.cxd5 Qxd5 18.Nd2 Qd6 19.Qb1 Ra1 20.Qxa1 Qxb4 21.Ne4 f5 22.Rb1 Qe7 23.Nc3 e4 24.dxe4 fxe4 25.Bxe4 Qf6 26.Qa2+ Be6 27.Qxe6+ Qxe6 28.Bd5 Qxd5 29.Nxd5 Rf7 30.Kg2 Rd7 31.e4 Kf7 32.f4 Bd4 33.Kf3 Ke8 34.Rb4 Bg7 35.Rb6 Kf7 36.g4 Bd4 37.Rb4 Bc5 38.Rb5 Bd4 39.e5 Bg1 40.h3 b6 41.Ke4 Ra7 42.f5 Ra4+ 43.Rb4 gxf5+ 44.gxf5 Ra3 45.e6+ Kg7 46.f6+ Kg6 47.Rc4 Rxh3 48.Nf4+ Kxf6 49.Nxh3 Bc5 50.Nf4 h5 51.Nd3 Bg1 52.Rc6 h4 53.Nf4 Bc5 54.Nd5+ Kg7 55.e7 Kf7 56.Rc8 Bxe7 57.Rc7 h3 58.Rxe7+ Kg6 59.Nf4+ Kf6 60.Rh7 1-0

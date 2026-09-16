@@ -1,0 +1,15 @@
+[Event "15 CHESS BOSS - CHESS TOUR MAGISTRAL B"]
+[Site "Torre Entel, Amunategui #20. Santiago, Chile"]
+[Date "2026.07.05"]
+[Round "5.1"]
+[White "Rosales Schulz, Robin"]
+[Black "Guerra Mansilla, Jorge Maximilian"]
+[Result "1/2-1/2"]
+[WhiteElo "2097"]
+[BlackElo "2149"]
+[ECO "A36"]
+[TimeControl "Standard: 60 minutes with 30 seconds increment from move 1"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.e4 a6 6.Nge2 Rb8 7.a4 e6 8.O-O Nge7 9.d3 O-O 10.Be3 Nd4 11.Rb1 Nec6 12.f4 d6 13.g4 f5 14.exf5 exf5 15.g5 Re8 16.Bf2 Be6 17.Re1 Bf7 18.Nxd4 Nxd4 19.Nd5 b5 20.axb5 axb5 21.b4 Bxd5 22.Bxd5+ Kh8 23.Bxd4 Bxd4+ 24.Kg2 Qd7 25.Qd2 Rxe1 26.Qxe1 Re8 27.Qd2 Be3 28.Qb2+ Bd4 29.Qd2 Be3 30.Qb2+ Bd4 1/2-1/2

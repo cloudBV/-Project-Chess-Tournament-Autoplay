@@ -1,0 +1,15 @@
+[Event "2026. gada Latvijas sieviešu čempionāts"]
+[Site "Rīga, Aspāzijas bulvāris 32- 302, Latvia"]
+[Date "2026.07.09"]
+[Round "2.1"]
+[White "Golsta, Madara"]
+[Black "Rogule, Laura"]
+[Result "0-1"]
+[WhiteElo "2047"]
+[BlackElo "2262"]
+[ECO "B90"]
+[TimeControl "90 minūtes katrai dalībniecei + 30 sekundes par katru izdarīto gājienu"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be6 8.O-O Nbd7 9.f4 Qc7 10.b3 exf4 11.Rxf4 Qc5+ 12.Kh1 Ng4 13.Qg1 Rc8 14.Bb2 Qxg1+ 15.Kxg1 Be7 16.Nd4 Nge5 17.Nf5 Bf8 18.Rd1 g6 19.Be2 Rc6 20.Nd4 Rc7 21.Rff1 Bh6 22.Nxe6 fxe6 23.Rxd6 Ke7 24.Rdd1 Rhc8 25.Bc4 b5 26.Ba3+ Ke8 27.Rd6 Rc6 28.Bxb5 Rxd6 29.Bxd6 axb5 30.Nxb5 Rxc2 31.Bc7 Ke7 32.a4 Ng4 33.Bd6+ Kd8 34.a5 Be3+ 35.Kh1 Nf2+ 36.Kg1 Nxe4+ 37.Kh1 Nd2 38.Rd1 Ne4 39.Rf1 Rc6 40.Bb4 Nf2+ 0-1

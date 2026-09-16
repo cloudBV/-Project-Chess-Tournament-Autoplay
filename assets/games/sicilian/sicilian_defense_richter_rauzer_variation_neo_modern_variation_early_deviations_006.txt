@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-9/9GLG8yoU/zsMVCEE6"]
+[Date "2026.07.12"]
+[Round "9.12"]
+[White "Olshevskis, Aleksejs Jans"]
+[Black "Rogule, Laura"]
+[Result "1-0"]
+[WhiteElo "2042"]
+[BlackElo "2274"]
+[ECO "B66"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.Bg5 e6 7.Qd2 a6 8.f3 Bd7 9.O-O-O b5 10.Nxc6 Bxc6 11.Kb1 Qb6 12.h4 Be7 13.h5 h6 14.Be3 Qc7 15.g4 Rc8 16.Rg1 b4 17.Ne2 e5 18.Ng3 Bd7 19.g5 hxg5 20.Bxg5 a5 21.Bd3 a4 22.Nf5 Bxf5 23.exf5 b3 24.Bb5+ Kf8 25.Bxa4 bxa2+ 26.Ka1 Rxh5 27.Bb3 Qc6 28.Qe2 Rh3 29.f4 e4 1-0

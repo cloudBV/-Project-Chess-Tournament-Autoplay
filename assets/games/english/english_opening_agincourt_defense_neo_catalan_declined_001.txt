@@ -1,0 +1,15 @@
+[Event "Round 4: Ilinca, Felix-Antonio - Tezcan, Alper"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/ph8WtWyo"]
+[Date "2026.07.01"]
+[Round "4.4"]
+[White "Ilinca, Felix-Antonio"]
+[Black "Tezcan, Alper"]
+[Result "1-0"]
+[WhiteElo "2495"]
+[BlackElo "2285"]
+[ECO "A14"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.d3 c5 7.Ne5 Qc7 8.f4 Rd8 9.Nc3 a6 10.Qe1 d4 11.Nd1 Nbd7 12.Nf3 Rb8 13.e4 dxe3 14.Nxe3 b6 15.b3 Bb7 16.Bb2 Rbc8 17.Rd1 Bd6 18.Qf2 Re8 19.f5 e5 20.Nd2 Rcd8 21.Bf3 Nb8 22.Ne4 Bxe4 23.dxe4 Nc6 24.g4 h6 25.h4 Nh7 26.Nd5 Qb8 27.g5 hxg5 28.hxg5 Nxg5 29.Qh4 f6 30.Bc1 Be7 31.Bh5 Nd4 32.Kg2 Qd6 33.Bg6 1-0

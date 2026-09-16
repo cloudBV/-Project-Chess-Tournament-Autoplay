@@ -1,0 +1,15 @@
+[Event "Round 2: Dirikolu, Deniz - Topuz, Mirac Melih"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/RlOVupry"]
+[Date "2026.07.14"]
+[Round "2.32"]
+[White "Dirikolu, Deniz"]
+[Black "Topuz, Mirac Melih"]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2082"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.g4 b5 8.Nxc6 dxc6 9.Qf3 e5 10.a4 b4 11.Nb1 Nf6 12.h3 Be6 13.Nd2 Be7 14.Bc4 Bxc4 15.Nxc4 Nd7 16.O-O-O O-O 17.Rd2 Nc5 18.b3 Rad8 19.Rhd1 f6 20.Qe2 Rxd2 21.Nxd2 Qd6 22.f3 Rd8 23.Nc4 Qxd1+ 24.Qxd1 Rxd1+ 25.Kxd1 Nb7 26.Bb6 Kf7 27.Ke2 Ke6 28.Na5 Nxa5 29.Bxa5 Kd7 30.h4 c5 31.Kd3 Kd6 32.h5 g6 33.Kc4 Kc6 34.hxg6 hxg6 35.g5 fxg5 36.c3 bxc3 37.Bxc3 Bd6 38.Bd2 Be7 39.Be3 a5 40.Bc1 g4 41.fxg4 Bd8 42.Bd2 Bb6 43.Be3 Ba7 44.Bf2 Bb6 45.Bh4 Bc7 46.Bf6 Bd6 47.Bd8 Bf8 48.Bxa5 Bh6 49.Bc3 Bf4 50.a5 Bg3 51.a6 Kb6 52.a7 Kxa7 53.Kxc5 Ka6 54.Kd5 Kb5 55.Bxe5 1-0

@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.39"]
+[White "Avinash Ramesh"]
+[Black "Jedlicka, Ales"]
+[Result "1-0"]
+[WhiteElo "2353"]
+[BlackElo "2136"]
+[ECO "A07"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.O-O Bg4 5.c4 Nbd7 6.d3 e6 7.h3 Bxf3 8.Bxf3 Be7 9.Bg2 O-O 10.Qc2 a5 11.Nd2 a4 12.Nf3 Qb6 13.Bf4 Rfd8 14.Rac1 dxc4 15.Qxc4 Qa6 16.Qc2 a3 17.b3 Nd5 18.Bd2 Bb4 19.e4 Bxd2 20.Qxd2 N5f6 21.Qe3 Qb6 22.d4 Re8 23.Rfe1 Rad8 24.Qc3 h6 25.Kh1 Ra8 26.Nd2 Red8 27.Nc4 Qa7 28.Rcd1 Nb6 29.f4 Nxc4 30.bxc4 Qa5 31.Qe3 Qb4 32.e5 Ne8 33.Bf1 Rd7 34.f5 Rad8 35.fxe6 fxe6 36.Re2 Qxc4 37.Red2 Qb4 38.Qe4 Qa5 39.Qg6 Nc7 40.Bd3 Rf7 41.Qh7+ Kf8 42.Bg6 Qd5+ 43.Kh2 Ne8 44.Bxf7 Kxf7 45.Rf2+ Ke7 46.Qd3 Qa5 47.Qb3 Qa6 48.Qf3 1-0

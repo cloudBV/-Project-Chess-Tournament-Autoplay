@@ -1,0 +1,15 @@
+[Event "26 Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.08"]
+[Round "6.2"]
+[White "Masague Artero, Guerau"]
+[Black "Anguera Staina, Maxim"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2282"]
+[ECO "A48"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 d5 4.b4 Bg7 5.e3 O-O 6.c4 b6 7.Bb2 c5 8.dxc5 bxc5 9.bxc5 dxc4 10.Bxc4 Nbd7 11.Nb3 Qc7 12.Rc1 Bb7 13.c6 Bxc6 14.Nfd4 Qe5 15.Bxf7+ Rxf7 16.Rxc6 Qe4 17.f3 Qxe3+ 18.Qe2 Nd5 19.Bc1 Qxe2+ 20.Kxe2 a5 21.a4 Rb8 22.Rd1 N7b6 23.Bd2 Nxa4 24.Bxa5 Nf4+ 25.Kf1 e5 26.Bc7 Rb7 27.Bxe5 Bxe5 28.g3 Nh5 29.Rc8+ Rf8 30.Rdc1 Rxc8 31.Rxc8+ Kf7 32.Nc6 Bd6 33.Nd8+ Ke7 34.Nxb7 Be5 35.f4 Bf6 36.Rc7+ 1-0

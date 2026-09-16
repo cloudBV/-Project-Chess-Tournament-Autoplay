@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.05.19"]
+[Round "6.1"]
+[White "Biro, Beata"]
+[Black "Papp, Petra"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2290"]
+[ECO "B10"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Qa4+ Bd7 6.Qb3 e6 7.Nc3 exd5 8.Nf3 Bd6 9.Be2 O-O 10.O-O Re8 11.d4 Bc6 12.Bg5 Nbd7 13.Rfe1 Qa5 14.Bd2 Qd8 15.Bd3 Qb6 16.Qc2 Rac8 17.Rxe8+ Rxe8 18.Re1 Rxe1+ 19.Bxe1 Qd8 20.Qe2 Qe8 21.Qxe8+ Nxe8 22.Nd2 Nc7 23.f3 Bf4 24.Kf2 Kf8 25.g3 Bd6 26.Nf1 Ne6 27.Ne2 Nc7 28.Nc3 Ne6 29.Ne2 Nc7 30.Nc3 Ne6 31.Ne2 Nc7 32.Nc3 1/2-1/2

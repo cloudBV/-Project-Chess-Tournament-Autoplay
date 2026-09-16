@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "3.11"]
+[White "Klim, Filip"]
+[Black "Zareba, Piotr"]
+[Result "0-1"]
+[WhiteElo "2014"]
+[BlackElo "2228"]
+[ECO "B61"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 Rc8 8.O-O-O Nxd4 9.Qxd4 Qa5 10.f4 h6 11.Bh4 g5 12.Bg3 Bg7 13.e5 Nh5 14.Kb1 Nxf4 15.Bxf4 gxf4 16.Bc4 Bxe5 17.Qd3 Qc5 18.b3 a6 19.Ne4 Qa3 20.c3 b5 21.Bd5 e6 22.Bb7 Rb8 23.Nxd6+ Qxd6 24.Qe4 Qc7 25.Bxa6 Qxc3 0-1

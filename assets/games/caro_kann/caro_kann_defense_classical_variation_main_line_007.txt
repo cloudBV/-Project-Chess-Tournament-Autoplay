@@ -1,0 +1,14 @@
+[Event "Round 9: Arjun Kalyan - Aronyak Ghosh"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-9/Py4tbrrf/QzqfA8FH"]
+[Date "2026.07.19"]
+[Round "9.2"]
+[White "Arjun Kalyan"]
+[Black "Aronyak Ghosh"]
+[Result "1/2-1/2"]
+[WhiteElo "2451"]
+[BlackElo "2488"]
+[ECO "B18"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 e6 8.Ne5 Bh7 9.Bf4 Nf6 10.Bc4 Nd5 11.Bd2 Nd7 12.Nxd7 Qxd7 13.Bb3 a5 14.a4 Nf6 15.Bf4 Bd6 16.Be5 Bxe5 17.dxe5 Qxd1+ 18.Rxd1 Nd7 19.f4 Ke7 20.Ke2 Nc5 21.Rd2 Rhd8 22.Rhd1 Rxd2+ 23.Rxd2 b5 24.axb5 cxb5 25.Ba2 Bg6 26.Ke3 Na4 27.c3 Rd8 28.Ne2 Rxd2 29.Kxd2 Nxb2 30.Nd4 b4 31.cxb4 axb4 32.Nc6+ Kd7 33.Nxb4 Na4 1/2-1/2

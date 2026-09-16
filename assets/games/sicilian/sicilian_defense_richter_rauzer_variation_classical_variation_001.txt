@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/5kA5D2jT"]
+[Date "2026.07.01"]
+[Round "5.22"]
+[White "Klim, Filip"]
+[Black "Siennicki, Ludwik"]
+[Result "1-0"]
+[WhiteElo "2202"]
+[BlackElo "2007"]
+[ECO "B63"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O a6 9.Nxc6 bxc6 10.Bxf6 gxf6 11.Bc4 h5 12.Rhe1 Qb6 13.Bb3 e5 14.f4 Be6 15.f5 Bxb3 16.cxb3 O-O-O 17.Kb1 Kb7 18.Re3 h4 19.Rd3 Rhg8 20.Na4 Qb5 21.Qf2 Rg5 22.Qxh4 Rxg2 23.Qh5 Rf8 24.h4 Rgg8 25.Qf3 Rg7 26.a3 Rfg8 27.Ka2 Rg4 28.Rh1 R4g7 29.h5 Kb8 30.Nc3 Qb6 31.Nd1 Bf8 32.Ne3 Rg3 33.Qe2 Bh6 34.Nc4 Qb5 35.Rhd1 Rxd3 36.Qxd3 Rd8 37.Qc3 d5 38.Na5 Rc8 39.b4 d4 40.Qb3 c5 41.Qxf7 cxb4 42.Qxf6 Bf8 43.Nb3 bxa3 44.Rb1 Bb4 45.Qe6 Qa4 46.Qxe5+ Rc7 47.Nc5 Bxc5 48.bxa3+ Kc8 49.Qe6+ Rd7 50.Qe8+ Kc7 51.Qb8+ Kc6 52.Qa8+ Kc7 53.Rb7+ Kd6 54.Qb8+ Kc6 55.Qc8+ 1-0

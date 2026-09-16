@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.01"]
+[Round "1.3"]
+[White "Karthik Venkataraman"]
+[Black "Yin, Evan"]
+[Result "1-0"]
+[WhiteElo "2566"]
+[BlackElo "2098"]
+[ECO "A13"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6 7.Qc2 c5 8.a4 b6 9.d3 Bb7 10.Nc3 Be7 11.h3 O-O 12.O-O Rc8 13.e4 Nb8 14.Qe2 Nc6 15.Be3 Nd4 16.Bxd4 cxd4 17.Nb1 Qd7 18.Nbd2 Rfd8 19.Nc4 Rxc4 20.Ne5 Qc7 21.Nxc4 Bb4 22.Rfc1 Rc8 23.Qd1 Bc6 24.Nd2 Qb7 25.Nf3 Bc5 26.a5 Rd8 27.axb6 Bxb6 28.Ne5 Bb5 29.Nc4 Bc7 30.Qc2 Bb8 31.Na5 Qd7 32.Nc6 Re8 33.Nxb8 Rxb8 34.Ra3 h5 35.Qc5 h4 36.g4 Rd8 37.Qg5 Rc8 38.Rc5 Nh7 39.Qc1 Rb8 40.e5 Nf8 41.f4 Ng6 42.Be4 Qd8 43.f5 Nf8 44.f6 gxf6 45.Qh6 f5 46.gxf5 exf5 47.Bxf5 Rb6 48.Qf4 Bd7 49.Rc2 Bxf5 50.Qxf5 Qd5 51.Rg2+ Ng6 52.Ra1 Re6 53.Re1 Kf8 54.Rge2 Qc6 55.Kh2 Qd5 56.Re4 Ne7 57.Qh7 Rg6 58.Qh8+ Rg8 59.Qh6+ Rg7 60.Qd6 Qa8 61.Rg1 1-0

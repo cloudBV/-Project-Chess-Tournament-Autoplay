@@ -1,0 +1,14 @@
+[Event "Round 5: Poetsch, Hagen - Khachatryan, Taron"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-5/s84Vb8Fz/oOMUgZpe"]
+[Date "2026.07.22"]
+[Round "5.7"]
+[White "Poetsch, Hagen"]
+[Black "Khachatryan, Taron"]
+[Result "1-0"]
+[WhiteElo "2444"]
+[BlackElo "2307"]
+[ECO "B97"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Poisoned Pawn Accepted"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.f5 Nc6 11.fxe6 Bxe6 12.Rxb7 Nxd4 13.Qxd4 Be7 14.Bd3 h6 15.Bh4 Rc8 16.Nd5 Bxd5 17.exd5 Qc1+ 18.Kf2 Qxh1 19.Bxf6 Bxf6 20.Qe4+ Be5 21.Qf5 Bd4+ 22.Kf3 Qd1+ 23.Kg3 Be5+ 24.Kh3 Qxd3+ 25.cxd3 O-O 26.Rxf7 Rfd8 27.Ra7 Rf8 28.Qg6 a5 29.Rxa5 Rf6 30.Qg4 Rcf8 31.g3 h5 32.Qe4 Bc3 33.Ra3 Bd2 34.Ra7 h4 35.Qg4 Bh6 36.Kxh4 Rf2 37.Qe6+ Kh7 38.h3 R2f6 39.Qe4+ Kg8 40.Re7 1-0

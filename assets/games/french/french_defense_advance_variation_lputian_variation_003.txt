@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.9"]
+[White "Warchol, Kamil"]
+[Black "Panda, Barnabas"]
+[Result "1-0"]
+[WhiteElo "2297"]
+[BlackElo "2060"]
+[ECO "C02"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Lputian Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Nh6 7.Bd3 cxd4 8.O-O Bd7 9.b4 Rc8 10.Ra2 Nf5 11.Rc2 Be7 12.Bxf5 exf5 13.cxd4 O-O 14.Nc3 Be6 15.Qd3 h6 16.Na4 Qd8 17.Bd2 b6 18.Rfc1 Qd7 19.Nc3 f4 20.Qb5 g5 21.Rb2 Rfd8 22.Qf1 Bg4 23.Ne2 Qf5 24.Rc3 Qe4 25.Rbc2 Nb8 26.Rxc8 Rxc8 27.Rxc8+ Bxc8 28.Nc3 Qc2 29.Nxd5 Bd8 30.Qc1 Qxc1+ 31.Bxc1 Bb7 32.Nc3 Bxf3 33.gxf3 Nc6 34.Ne2 f6 35.e6 Kf8 36.Bb2 Bc7 37.Kf1 Ne7 38.Nc3 a6 39.Ke2 h5 40.Kd3 Bd6 41.Ne4 Nf5 42.Nxf6 Ke7 43.d5 h4 44.Ke4 Nh6 45.h3 a5 46.bxa5 bxa5 47.Nd7 Ke8 48.a4 Bb4 49.Bg7 Ng8 50.Nf6+ Nxf6+ 51.Bxf6 1-0

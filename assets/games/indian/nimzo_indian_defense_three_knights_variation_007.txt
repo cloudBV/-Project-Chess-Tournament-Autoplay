@@ -1,0 +1,14 @@
+[Event "Round 7: Cano Alcaraz, Juan Jose - Gallego, Julian Andres"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-7/ySNrTTRJ/wIO4D3Om"]
+[Date "2026.07.12"]
+[Round "7.8"]
+[White "Cano Alcaraz, Juan Jose"]
+[Black "Gallego, Julian Andres"]
+[Result "0-1"]
+[WhiteElo "2234"]
+[BlackElo "2199"]
+[ECO "E21"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 O-O 5.g3 d5 6.Bg2 dxc4 7.O-O Nc6 8.a3 Be7 9.e4 Rb8 10.Be3 b5 11.Qe2 a5 12.a4 bxa4 13.Rxa4 Nb4 14.Ne5 Ba6 15.Rd1 Nd3 16.Nc6 Qd7 17.Nxb8 Rxb8 18.Rd2 Nc1 19.Qe1 Nd3 20.Qa1 Bb4 21.Rd1 Ng4 22.Bf1 Nxe3 23.fxe3 h5 24.Bxd3 cxd3 25.Rxb4 Rxb4 26.Qxa5 Rb6 27.Na4 Rc6 28.Nc5 Qc8 29.b4 Rb6 30.Nxd3 Bxd3 31.Rxd3 Qb7 32.d5 Rxb4 33.dxe6 Rb1+ 34.Kf2 Qb2+ 35.Rd2 Qf6+ 36.Qf5 fxe6 37.Qxf6 gxf6 38.Rd8+ Kf7 39.Rd7+ Kg6 40.Rxc7 Rb2+ 41.Kf3 Rxh2 42.Rc6 e5 43.Rc8 h4 44.gxh4 Rh3+ 45.Ke2 Rxh4 46.Rg8+ Kf7 47.Ra8 Rxe4 48.Kf3 Rb4 49.Ra6 Kg6 50.Ra8 Rb3 51.Ke4 Rb4+ 52.Kf3 Kf5 53.Ra5 Rb3 54.Rc5 Kg6 55.Ke4 Kg5 56.Kf3 Ra3 57.Rb5 Ra6 58.Rc5 Kf5 59.Rb5 Ke6 60.Rb8 Ra3 61.Rb6+ Kf5 62.Rb5 Rc3 63.Ra5 Rd3 64.Rb5 Ke6 65.Rb6+ Rd6 66.Rb5 f5 67.Rb3 Kf6 68.Rb8 Rd3 69.Rf8+ Kg5 70.Rg8+ Kf6 71.Rf8+ Kg6 72.Ke2 Ra3 73.Rg8+ Kf7 74.Rb8 Ra2+ 75.Kf3 Ra3 76.Ke2 e4 77.Rb6 Ra2+ 78.Ke1 Rc2 79.Kf1 Rd2 80.Ke1 Rd5 81.Kf2 Rd3 82.Ra6 Ke7 83.Rb6 Rd6 84.Rb5 Kf6 85.Kg3 Rd1 86.Kf2 Rd2+ 87.Ke1 Rh2 88.Kf1 Kg5 89.Kg1 Re2 90.Rb3 Kg4 91.Kf1 Kf3 92.Rb5 Rf2+ 93.Ke1 Kg3 94.Ra5 Rf3 95.Ke2 Kg4 96.Ra8 Rh3 97.Rg8+ Kh4 98.Rh8+ Kg3 99.Rg8+ Kh2 100.Rg5 Rf3 101.Kd2 Kh3 102.Ke2 Kh4 103.Rg8 Kh5 104.Kd2 Kh6 105.Ke2 Kh7 106.Rg5 Kh6 107.Rg8 Kh5 108.Kd2 Rh3 109.Ke2 Rh2+ 110.Ke1 Ra2 111.Kf1 Ra6 112.Kf2 Rg6 113.Rf8 Kg4 114.Rf7 Kg5 115.Rf8 Ra6 116.Rg8+ Kf6 117.Rb8 Ra2+ 118.Ke1 Rh2 119.Rg8 Kf7 120.Rg5 Ke6 121.Rg8 Kd5 122.Rc8 Ra2 123.Kf1 Ra5 124.Kf2 Rc5 125.Rd8+ Kc4 126.Kg3 Rd5 127.Ra8 Rd2 128.Ra5 Kd3 129.Ra3+ Kc4 130.Ra5 Re2 131.Rxf5 Kd3 132.Ra5 Rxe3+ 133.Kf2 Re2+ 134.Kf1 Rc2 135.Ra3+ Kd2 136.Kf2 Rb2 137.Re3 Rb4 138.Re2+ Kd3 139.Re3+ Kd4 140.Rh3 Rb2+ 141.Ke1 Rg2 142.Ra3 Ke5 143.Kf1 Rd2 144.Ke1 Rc2 145.Kd1 Rb2 146.Ke1 Kf4 147.Rc3 Rg2 148.Ra3 Rg1+ 149.Kf2 Rb1 150.Ke2 Rb2+ 151.Ke1 Rc2 152.Kd1 Rf2 153.Ke1 Rf3 154.Rxf3+ Kxf3 155.Kf1 e3 0-1

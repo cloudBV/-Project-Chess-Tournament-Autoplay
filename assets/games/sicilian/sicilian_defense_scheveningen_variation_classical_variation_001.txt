@@ -1,0 +1,15 @@
+[Event "Round 5: Mayank Chakraborty - Ibadov, Dashgyn"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-5/Rl1PaniQ/8cCqVjRS"]
+[Date "2026.06.28"]
+[Round "5.1"]
+[White "Mayank Chakraborty"]
+[Black "Ibadov, Dashgyn"]
+[Result "1-0"]
+[WhiteElo "2494"]
+[BlackElo "2337"]
+[ECO "B84"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.f4 Be7 8.Be3 Nc6 9.O-O O-O 10.f5 Nxd4 11.Qxd4 b5 12.fxe6 Bxe6 13.a4 bxa4 14.Rxa4 a5 15.Qd2 Rb8 16.b3 Qc7 17.Nb5 Qc6 18.Nd4 Qxe4 19.Nf5 Qb7 20.Nxe7+ Qxe7 21.Bg5 Qa7+ 22.Kh1 Ne8 23.Rxa5 Qd7 24.Bd3 d5 25.Bf4 Rc8 26.Be5 f6 27.Qf4 Rf7 28.Bd4 Nd6 29.Ra7 Qd8 30.Ra6 Rd7 31.Qh4 h6 32.Bxf6 gxf6 33.Rxf6 Rg7 34.Qf4 Bh3 35.gxh3 Ne4 36.Rg6 Rc7 37.Qf5 Nc5 38.Rad6 Qa8 39.Rxg7+ Rxg7 40.Qxd5+ Qxd5+ 41.Rxd5 Rc7 42.Bc4 Kg7 43.Kg2 Ne6 44.Kg3 Ng5 45.Re5 Kf6 46.Re3 1-0

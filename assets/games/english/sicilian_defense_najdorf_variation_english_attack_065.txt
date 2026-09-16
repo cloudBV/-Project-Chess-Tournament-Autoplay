@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.19"]
+[White "Kovalskyi, Roman"]
+[Black "Cerveny, Martin"]
+[Result "1-0"]
+[WhiteElo "2060"]
+[BlackElo "2402"]
+[ECO "B90"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7 9.Qd2 Rc8 10.g4 h6 11.O-O-O b5 12.Kb1 Qc7 13.h3 Be7 14.Bd3 Nb6 15.f4 Nfd7 16.Rhe1 exf4 17.Bxf4 Ne5 18.Nd5 Bxd5 19.exd5 Nbc4 20.Bxc4 bxc4 21.Nd4 Bf6 22.Nc6 O-O 23.Bxe5 Bxe5 24.c3 Bf6 25.Qf4 Rfe8 26.Qxc4 Qb6 27.Re2 Kh8 28.Rde1 Rxe2 29.Rxe2 a5 30.a4 Qg1+ 31.Ka2 Qd1 32.Re4 g6 33.Re3 Kg7 34.Rd3 Qf1 35.Qe4 Re8 36.Qf3 Qc1 37.Rd1 Qg5 38.Rf1 Re3 39.Qf4 Qxf4 40.Rxf4 Rxh3 41.Nxa5 h5 42.gxh5 Rxh5 43.Nc4 Rxd5 44.a5 Rc5 45.b4 Rc8 46.a6 Bd8 47.Rxf7+ Kg8 48.a7 g5 49.Nxd6 Ra8 50.Rb7 g4 51.Nf5 1-0

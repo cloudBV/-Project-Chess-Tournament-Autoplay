@@ -1,0 +1,15 @@
+[Event "WR Women's Chess Tour 2026 - Dom. Rep. Blitz session Punta Cana"]
+[Site "Punta Cana, Dominican Republic"]
+[Date "2026.06.30"]
+[Round "1.2"]
+[White "Lujan, Carolina"]
+[Black "Lee, Alice"]
+[Result "0-1"]
+[WhiteElo "2224"]
+[BlackElo "2389"]
+[ECO "B30"]
+[TimeControl "3 minutos para la partida con incrementos de 2 segundos desde el primer movimiento."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.d3 Nf6 4.g3 d5 5.Nbd2 g6 6.Bg2 Bg7 7.O-O O-O 8.Re1 dxe4 9.dxe4 Qc7 10.c3 Rd8 11.Qe2 Ng4 12.Nf1 Nge5 13.Nxe5 Nxe5 14.Bf4 Qb6 15.Rad1 Bg4 16.f3 Be6 17.b3 c4+ 18.Be3 Qa5 19.Rxd8+ Rxd8 20.b4 Qa3 21.Rd1 Nd3 22.Qc2 Bxc3 23.Qe2 Bxb4 24.f4 Rd6 25.f5 gxf5 26.exf5 Bxf5 27.g4 Bg6 28.Ng3 Re6 29.Kh1 Bc5 30.Nf5 Bxf5 31.gxf5 Rxe3 32.Qg4+ Kh8 33.Rf1 Re1 34.Qg3 Nf2+ 35.Kg1 Ne4+ 0-1

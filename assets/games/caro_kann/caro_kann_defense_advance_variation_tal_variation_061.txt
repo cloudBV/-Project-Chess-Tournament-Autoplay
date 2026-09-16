@@ -1,0 +1,14 @@
+[Event "Round 9: Rappazzo, Johannes - Kunz, Andre"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/lHPNhZ5Y"]
+[Date "2026.07.22"]
+[Round "9.21"]
+[White "Rappazzo, Johannes"]
+[Black "Kunz, Andre"]
+[Result "0-1"]
+[WhiteElo "2268"]
+[BlackElo "2116"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.b4 Qa6 8.Qd1 e6 9.c3 Ne7 10.Ne2 Nf5 11.Ng3 Nxg3 12.fxg3 Nd7 13.a4 f6 14.Qc2 O-O-O 15.b5 cxb5 16.O-O Kb8 17.Be3 b4 18.Qb2 Qd3 19.Rf3 Qc4 20.Bf2 Rc8 21.Kh2 fxe5 22.cxb4 Bxb4 23.a5 Rhf8 24.Ra4 Rxf3 25.gxf3 Bc3 26.Qa3 Qc6 27.a6 b5 28.Nxc3 bxa4 29.Nxa4 Qxa6 30.dxe5 Rc4 31.Qb3+ Qb7 32.Qa2 Kc8 33.Kg2 Qb5 34.Nb2 Rc2 35.Qxa7 Qxb2 36.Qa6+ Kd8 0-1

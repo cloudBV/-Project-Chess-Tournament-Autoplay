@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.8"]
+[White "Christodoulaki, Antonia"]
+[Black "Petkov, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2122"]
+[BlackElo "2414"]
+[ECO "C55"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.a3 O-O 7.O-O Nd7 8.Nd5 Nb6 9.Nxe7+ Qxe7 10.Bg5 Qe8 11.Ba2 Be6 12.Bxe6 Qxe6 13.Nh4 d5 14.Nf5 Kh8 15.Qh5 Qg6 16.Qxg6 hxg6 17.Ne7 Nxe7 18.Bxe7 Rfe8 19.Bh4 dxe4 20.dxe4 f6 21.Rfd1 Rad8 22.b3 Rd4 23.f3 Red8 24.Rxd4 Rxd4 25.Be1 Nd7 26.Kf2 Nc5 27.Ke2 Ne6 28.Bd2 b5 29.g3 Rd6 30.Be3 Rc6 31.Kd3 a5 32.c4 bxc4+ 33.bxc4 f5 34.exf5 gxf5 35.Rb1 Rd6+ 36.Ke2 f4 37.Bf2 Rc6 38.c5 Kg8 39.Rb5 Ra6 40.Kd3 Ng5 41.Ke2 Kf7 42.h4 Nh3 43.Be1 a4 44.g4 g5 45.h5 Re6 46.Rb4 Rc6 47.Rc4 e4 48.fxe4 f3+ 49.Kxf3 Rf6+ 50.Kg3 Nf4 51.Bd2 Ne6 52.Rc3 Nd4 53.Rd3 Ne2+ 54.Kg2 Rf4 55.Rf3 Rxf3 56.Kxf3 Nd4+ 57.Ke3 Nc2+ 58.Kd3 Nxa3 59.Bxg5 Nb5 60.Kc4 c6 61.Bd2 Nc7 62.Kb4 Na6+ 63.Kc4 Nc7 64.Bc3 Ne6 65.Bd2 a3 66.Bc3 a2 67.Bb2 Ng5 68.e5 Ne4 69.Kb3 Nxc5+ 70.Kxa2 Nd3 71.Kb3 Nf2 72.e6+ 1-0

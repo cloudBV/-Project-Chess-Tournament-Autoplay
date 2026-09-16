@@ -1,0 +1,15 @@
+[Event "Round 8: Ozkan, Kaan - Cakir, Ege"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-8/1eruNwrY/4mg4Fudh"]
+[Date "2026.07.18"]
+[Round "8.38"]
+[White "Ozkan, Kaan"]
+[Black "Cakir, Ege"]
+[Result "1-0"]
+[WhiteElo "2049"]
+[BlackElo "2057"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5 9.exd5 exd5 10.Bd3 Qe7+ 11.Ne2 O-O 12.O-O Ne4 13.Nf4 Nf6 14.Re1 Qc7 15.Nh5 Nxh5 16.Qxh5 f5 17.b4 Qf7 18.Qxf7+ Kxf7 19.Bb2 g6 20.b5 Nd8 21.a4 Re8 22.a5 Rxe1+ 23.Rxe1 Be6 24.Bd4 Bd7 25.f3 Ne6 26.Bf2 Nf4 27.Bf1 Be6 28.Rc1 Ke7 29.Bc5+ Kf7 30.Be3 Nh5 31.c4 Nf6 32.c5 Bd7 33.Bd4 Rc8 34.Rb1 Ne8 35.b6 axb6 36.cxb6 Nd6 37.Be5 Ke6 38.Bf4 Bc6 39.Kf2 Ra8 40.Bd2 d4 41.Re1+ Kd7 42.Bb4 Re8 43.Rd1 Nb5 44.Bc5 Ra8 45.Bb4 Re8 46.Bc4 Ra8 47.Kg3 Re8 48.Kf4 Kc8 49.Kg5 Rd8 50.Be7 Re8 51.Kf6 Bd7 52.Bf7 Bc6 53.Bxe8 Bxe8 54.Bc5 Nc3 55.Rxd4 Bc6 56.Be7 Nd5+ 57.Ke6 1-0

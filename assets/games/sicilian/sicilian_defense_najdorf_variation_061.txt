@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "4.7"]
+[White "Frank, Adam"]
+[Black "Svacina, Tobias"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2225"]
+[ECO "B96"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 8.Bh4 Qb6 9.a3 Be7 10.Bf2 Qc7 11.Qf3 Nbd7 12.O-O-O b5 13.Bd3 Bb7 14.Kb1 Nc5 15.g4 Nxd3 16.cxd3 Qd7 17.g5 Ng8 18.g6 f5 19.Qh3 Bf6 20.Rhe1 Bxd4 21.Bxd4 O-O-O 22.exf5 exf5 23.Bb6 Rf8 24.Rc1 Kb8 25.Ne4 Bc6 26.Nxd6 1-0

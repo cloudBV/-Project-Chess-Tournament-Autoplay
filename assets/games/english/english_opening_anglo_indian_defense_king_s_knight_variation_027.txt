@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "14.4"]
+[White "Terkiewicz, Bruno"]
+[Black "Cnejev, Vladimir-Alexandru"]
+[Result "0-1"]
+[WhiteElo "2221"]
+[BlackElo "2381"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 Be7 5.e3 O-O 6.Nc3 dxc4 7.bxc4 c5 8.Be2 Nc6 9.O-O b6 10.Rc1 Bb7 11.Qc2 Qd7 12.Rfd1 Rfd8 13.Qb1 a6 14.Na4 Qc7 15.Ng5 g6 16.Bxf6 Bxf6 17.Ne4 Be7 18.Qxb6 Qxb6 19.Nxb6 Rab8 20.Na4 Nb4 21.Nexc5 Nxa2 22.Ra1 Nb4 23.d4 Bc6 24.Kf1 a5 25.Bf3 Be8 26.Nd3 Nc2 27.Ra2 Nb4 28.Nxb4 axb4 29.Nb2 b3 30.Ra7 Bf6 31.Rda1 e5 32.Bd5 exd4 33.Rb1 dxe3 34.fxe3 Kg7 35.Ke2 Rd7 36.Ra6 Re7 37.Nd1 Bd7 38.Nf2 Bf5 39.e4 Bd4 40.Kf3 Bxf2 41.exf5 Bd4 42.Ra3 b2 43.Rd3 Bf6 44.fxg6 hxg6 45.c5 Ra7 46.Rdd1 Ra1 47.c6 Rc8 48.Ke4 Kf8 49.Kd3 Be5 50.Kc4 Ke7 51.Kc5 f6 52.Kb6 Rb8+ 53.Kc5 Bd6+ 54.Kd4 Rba8 55.Re1+ Kf8 56.c7 Rc8 57.Rxa1 0-1

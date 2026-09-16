@@ -1,0 +1,15 @@
+[Event "Round 4: Citak, Selim - Kara, Goktan Can"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/szrkqjmQ"]
+[Date "2026.07.01"]
+[Round "4.27"]
+[White "Citak, Selim"]
+[Black "Kara, Goktan Can"]
+[Result "1-0"]
+[WhiteElo "2310"]
+[BlackElo "2015"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Nf6 5.Nc3 Bg7 6.e5 Ng4 7.Bxc6 dxc6 8.Re1 Nh6 9.Ne4 b6 10.Nf6+ exf6 11.exf6+ Kf8 12.fxg7+ Kxg7 13.Ne5 f6 14.Nc4 Bg4 15.f3 Qd4+ 16.Ne3 Bd7 17.d3 Rhe8 18.c3 Qd6 19.Nc4 Qd5 20.Bf4 Rxe1+ 21.Qxe1 Re8 22.Ne3 Qe6 23.Bxh6+ Kxh6 24.Ng4+ Kg7 25.Qxe6 Rxe6 26.Kf1 Kf7 27.Nf2 Re8 28.Ne4 Rd8 29.a3 Bf5 30.Ke2 c4 31.dxc4 Re8 32.Kd3 Rd8+ 33.Ke3 Bxe4 34.fxe4 c5 35.b4 Rc8 36.Rc1 Ke6 37.a4 Rb8 38.Rb1 Kd6 39.Rd1+ Ke6 40.Rd5 Rc8 41.Kd3 h5 42.h4 Rc7 43.g3 Rc8 44.b5 Ke7 45.e5 fxe5 46.Ke4 Ke6 47.Rxe5+ Kf6 48.Rd5 Re8+ 49.Kf4 Rf8 50.a5 Ke6+ 51.Ke4 Rf1 52.a6 Rc1 53.Rd3 Re1+ 54.Kf4 Ke7 55.Kg5 Re6 56.Rf3 Ke8 57.Kh6 Kd8 58.Rf7 g5+ 59.Kxg5 Re3 60.Rxa7 1-0

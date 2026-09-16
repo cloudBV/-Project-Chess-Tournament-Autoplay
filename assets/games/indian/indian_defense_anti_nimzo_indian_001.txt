@@ -1,0 +1,15 @@
+[Event "Round 5: Ibrahimli, Murad - Sjugirov, Sanan"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-5/Rl1PaniQ/ABzXWaM2"]
+[Date "2026.07.01"]
+[Round "5.3"]
+[White "Ibrahimli, Murad"]
+[Black "Sjugirov, Sanan"]
+[Result "0-1"]
+[WhiteElo "2465"]
+[BlackElo "2544"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bd6 5.Bg2 O-O 6.O-O Nbd7 7.Qc2 c6 8.Nbd2 Re8 9.Rd1 Qe7 10.b3 e5 11.cxd5 cxd5 12.e4 dxe4 13.Nxe4 Nxe4 14.Qxe4 Nf6 15.Qh4 e4 16.Re1 Bb4 17.Bd2 Bf5 18.Qg5 Bg6 19.Qb5 Bxd2 20.Nxd2 Rad8 21.Qa4 a6 22.Rad1 h6 23.h3 Kh7 24.Nf1 Nd5 25.Rd2 Qd6 26.Ne3 Nxe3 27.Rxe3 f5 28.Qa5 Rd7 29.Rd1 Red8 30.Re2 Qf6 31.Red2 Bh5 32.Re1 Rd5 33.Qb4 b6 34.g4 Rxd4 35.Rxd4 Rxd4 36.Qc3 fxg4 37.Qg3 Bg6 38.hxg4 Rd3 39.Qc7 Rd2 40.Qg3 Rd3 41.Qc7 Rc3 42.g5 Qxf2+ 43.Kxf2 Rxc7 44.Bxe4 h5 45.Kg3 Bxe4 46.Rxe4 Kg6 47.Kh4 Rc2 48.Re6+ Kf5 49.Re7 Kg6 50.Re6+ Kf5 51.Re7 Rh2+ 52.Kg3 Rxa2 53.Rxg7 Rb2 54.Kh4 Rh2+ 55.Kg3 Rh1 56.Rg8 b5 57.Rg7 h4+ 58.Kg2 Rd1 59.Kh3 Rd4 60.Rg8 Rb4 61.Rg7 a5 62.Rg8 Rd4 63.Rb8 Rb4 64.Rg8 Rxb3+ 65.Kxh4 Rb1 66.Rf8+ Ke4 67.Ra8 a4 68.g6 Rg1 69.Kh5 Kd4 70.Kh6 Kc3 71.g7 Kb3 72.g8=Q+ Rxg8 73.Rxg8 a3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 7: Robledo Sanchez, Carlos - Almagro Llamas, Pablo"]
+[Site "https://lichess.org/broadcast/vi-open-internacional-ca-monteolivete/round-7/85lx2JeI/Qmrn7KRY"]
+[Date "2026.07.09"]
+[Round "7.1"]
+[White "Robledo Sanchez, Carlos"]
+[Black "Almagro Llamas, Pablo"]
+[Result "1/2-1/2"]
+[WhiteElo "2125"]
+[BlackElo "2431"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Offer"]
+
+1.e4 c6 2.Nf3 d5 3.d3 g6 4.e5 Na6 5.d4 h5 6.Be2 Nh6 7.c3 Nc7 8.h3 Bf5 9.Nbd2 Qd7 10.Nb3 b6 11.Be3 Bg7 12.a4 a5 13.Rc1 Rc8 14.Nbd2 Be6 15.Ng5 Nf5 16.Bf4 f6 17.exf6 exf6 18.Bxc7 fxg5 19.Bxb6 Rb8 20.Bxa5 O-O 21.Bb4 Rxb4 22.cxb4 Nh4 23.Rg1 Bxd4 24.Nf3 Ba7 25.Rc5 Rf4 26.Nxh4 Rxb4 27.Qc2 Bxc5 28.Qxg6+ Kf8 29.Qf6+ Kg8 30.Qg6+ Kf8 31.Qf6+ Kg8 32.Qg6+ 1/2-1/2

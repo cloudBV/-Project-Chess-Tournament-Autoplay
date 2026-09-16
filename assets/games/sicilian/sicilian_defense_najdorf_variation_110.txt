@@ -1,0 +1,14 @@
+[Event "Round 8: Fernandes Barbosa Dos Santos, Gabriel - Rappazzo, Johannes"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-8/lrP5Tquh/S4nWUL8E"]
+[Date "2026.07.19"]
+[Round "8.15"]
+[White "Fernandes Barbosa Dos Santos, Gabriel"]
+[Black "Rappazzo, Johannes"]
+[Result "0-1"]
+[WhiteElo "2167"]
+[BlackElo "2032"]
+[ECO "B94"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 h6 8.Bh4 g6 9.f4 e5 10.fxe5 dxe5 11.O-O-O Qc7 12.Nb3 b5 13.Rxd7 Nxd7 14.Nd5 Qb8 15.Na5 Bb7 16.Nxb7 Qxb7 17.Qf3 Bg7 18.Be7 Rc8 19.Bd3 Qc6 20.Rf1 Qe6 21.h4 h5 22.Kb1 f6 23.Qg3 Kf7 24.Bb4 Rhe8 25.Be2 Nb6 26.Qf3 Nxd5 27.exd5 Qg4 28.Qxg4 hxg4 29.Bxg4 f5 30.Be2 Red8 31.g4 f4 32.Bf3 Bf8 33.Bc3 Bd6 34.Re1 Re8 35.Be4 Re7 36.h5 gxh5 37.gxh5 Rh8 38.Rg1 Ke8 39.Rh1 Kd7 40.Kc1 Rf7 41.Kd1 Ke7 42.Ke2 Kf6 43.Be1 Rg7 44.Bh4+ Kf7 45.Bg6+ Rxg6 46.hxg6+ Kxg6 47.Kf3 Kf5 48.Kg2 e4 49.Be1 f3+ 50.Kg1 Bc5+ 0-1

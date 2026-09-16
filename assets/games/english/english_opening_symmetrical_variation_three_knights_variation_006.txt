@@ -1,0 +1,15 @@
+[Event "Round 6: Berdayes Ason, Dylan Isidro - Shourya Paul"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-6/SDE6E1pr/ZmOZ6lVD"]
+[Date "2026.07.09"]
+[Round "6.7"]
+[White "Berdayes Ason, Dylan Isidro"]
+[Black "Shourya Paul"]
+[Result "1-0"]
+[WhiteElo "2477"]
+[BlackElo "2056"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 g6 4.e4 d6 5.d4 cxd4 6.Nxd4 Bg7 7.Be2 O-O 8.Be3 a6 9.O-O Nc6 10.Nc2 Rb8 11.f3 Bd7 12.Qd2 Ne5 13.Na3 b6 14.Rac1 Re8 15.h3 Bc6 16.Rfd1 Ned7 17.Nd5 Bb7 18.b4 Rc8 19.Nc2 Nxd5 20.exd5 Nf6 21.Nd4 e5 22.dxe6 fxe6 23.Bh6 Bxh6 24.Qxh6 e5 25.Nb3 Qe7 26.Qe3 d5 27.Qxb6 d4 28.Re1 Red8 29.Nc5 Bc6 30.Bf1 a5 31.Nd3 e4 32.fxe4 Bxe4 33.Qxa5 Qf7 34.Qg5 Re8 35.a4 Kg7 36.Nc5 Bf5 37.Qd2 Red8 38.Bd3 Kg8 39.Bxf5 gxf5 40.Qg5+ Kh8 41.Qxf5 1-0

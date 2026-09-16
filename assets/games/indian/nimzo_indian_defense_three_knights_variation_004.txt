@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "MORONI, Luca Jr"]
+[Black "ROHITH KRISHNA S"]
+[Result "1/2-1/2"]
+[WhiteElo "2551"]
+[BlackElo "2489"]
+[ECO "E21"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Bg5 h6 6.Bh4 c5 7.Rc1 cxd4 8.Nxd4 Be7 9.e3 a6 10.Be2 d6 11.O-O b6 12.Bf3 Ra7 13.b4 Nfd7 14.Bg3 Ne5 15.Be2 Rc7 16.Na4 Nbd7 17.b5 Bb7 18.f4 Ng6 19.Bf3 Bxf3 20.Qxf3 axb5 21.Nxb5 Rc8 22.Rfd1 Ra8 23.Nac3 Qb8 24.Qc6 Qc8 25.Qxc8 Rfxc8 26.Nxd6 Rc6 27.Nxf7 Ndf8 28.f5 Kxf7 29.fxg6+ Nxg6 30.Rf1+ Kg8 31.Nb5 Bc5 32.Nd4 Bxd4 33.exd4 Rxa2 34.d5 exd5 35.cxd5 Rxc1 36.Rxc1 Rd2 37.d6 h5 38.h3 h4 39.Bh2 Kf7 40.Rc7+ Kf6 41.Rc6 Ne5 42.Rxb6 Nd7 43.Rb5 g5 44.Kf1 Rc2 45.Rd5 Ra2 46.Bg1 Ra1+ 47.Kf2 Rb1 48.Bh2 Kg6 49.Rd2 Kf5 50.Re2 Rd1 51.Re7 Nf6 52.Be5 Ne4+ 53.Ke2 Rd5 54.d7 Nc5 55.g4+ hxg3 56.Bxg3 Nxd7 1/2-1/2

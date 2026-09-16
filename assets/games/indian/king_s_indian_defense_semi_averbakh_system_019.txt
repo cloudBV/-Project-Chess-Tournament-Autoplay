@@ -1,0 +1,15 @@
+[Event "Round 2: Singh, Siddharth - Lizano Quiros, Matias Haziel"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-2/Zrs9zMY7/XUKD1BJL"]
+[Date "2026.07.14"]
+[Round "2.9"]
+[White "Singh, Siddharth"]
+[Black "Lizano Quiros, Matias Haziel"]
+[Result "1-0"]
+[WhiteElo "2361"]
+[BlackElo "2113"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 Nc6 7.d5 Ne5 8.f4 Neg4 9.Bd2 Nh6 10.Nf3 e6 11.dxe6 fxe6 12.Ng5 e5 13.O-O exf4 14.Bxf4 Kh8 15.c5 Nfg4 16.Qd2 dxc5 17.Qxd8 Rxd8 18.Bxc7 Rd2 19.Rad1 Bd4+ 20.Kh1 Rxd1 21.Nxd1 Bd7 22.h3 Ne5 23.Nc3 Kg7 24.Nb5 Bxb5 25.Ne6+ Kg8 26.Bxb5 Nhf7 27.b4 b6 28.Rd1 Rc8 29.Ba6 Re8 30.Nxd4 cxd4 31.Rxd4 Re7 32.Bd8 Nxd8 33.Rxd8+ Kg7 34.Bb5 a6 35.Ba4 b5 36.Bb3 Nc6 37.Rd6 Nxb4 38.a3 Rxe4 39.axb4 Rxb4 40.Be6 a5 41.Ra6 a4 42.Kh2 Kf6 43.Bd7+ Ke7 44.Bc6 Rb3 45.Ra5 h5 46.Bxb5 a3 47.Ra7+ Kf6 48.Be8 Kg5 49.Ra5+ Kf4 50.Bxg6 h4 51.Rf5+ 1-0

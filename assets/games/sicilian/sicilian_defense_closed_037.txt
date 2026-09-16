@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.09"]
+[Round "7.10"]
+[White "Ingvaldsen, Jonas A."]
+[Black "Moen, Ole Christian"]
+[Result "0-1"]
+[WhiteElo "2115"]
+[BlackElo "2168"]
+[ECO "B26"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 d6 2.Nc3 g6 3.g3 Bg7 4.Bg2 c5 5.d3 Nc6 6.Be3 e5 7.Nge2 h5 8.h3 Nd4 9.Nd5 Nf6 10.Bg5 Ne6 11.Bxf6 Bxf6 12.Nxf6+ Qxf6 13.Nc3 h4 14.Qd2 Qg5 15.Nd5 Qxd2+ 16.Kxd2 Bd7 17.c3 Kf8 18.a4 Kg7 19.Ne3 Rad8 20.a5 Ng5 21.f4 Nh7 22.fxe5 dxe5 23.g4 Ng5 24.Nc4 Bb5 25.Nxe5 Rhe8 26.c4 Ba6 27.Nf3 Nxe4+ 28.Kc2 Nf2 29.Rhe1 Nxd3 30.Rxe8 Nb4+ 31.Kb3 Rxe8 32.Re1 Rxe1 33.Nxe1 g5 34.Be4 f6 35.Nf3 b6 36.axb6 axb6 37.Kc3 Bc8 38.b3 Bd7 39.Kd2 Kf7 40.Ke3 Ke7 41.Nd2 Kd6 42.Nf3 Nc6 43.Bd5 Ne5 44.Nd2 Ng6 45.Ne4+ Ke5 46.Nf2 Nf4 47.Be4 Bc8 48.Bc6 Be6 49.Be4 Bd7 50.Bb7 f5 51.Bf3 Nxh3 52.Nxh3 fxg4 53.Nxg5 Kf5 54.Nf7 gxf3 55.Kxf3 Bc6+ 56.Kf2 Ke6 57.Nd8+ Kd7 58.Nf7 Be4 59.Ke3 Bc2 60.b4 h3 61.Ne5+ Kd6 62.Nf3 cxb4 63.Kd4 Bd1 64.Nh2 Be2 65.Ke4 0-1

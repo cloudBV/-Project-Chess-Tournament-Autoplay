@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.16"]
+[Round "12.5"]
+[White "GinkgoHCE 5.71"]
+[Black "RenegadeHCE 1.3.1"]
+[Result "1-0"]
+[WhiteElo "3344"]
+[BlackElo "3310"]
+[ECO "B56"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.g3 e6 7.Bg2 Qc7 8.Ndb5 Qd8 9.Bf4 e5 10.Bg5 a6 11.Bxf6 gxf6 12.Na3 Be6 13.Nd5 h5 14.c3 h4 15.Nc4 Bh6 16.a4 Rc8 17.Ncb6 Rb8 18.Qd3 Kf8 19.O-O Kg7 20.b4 Ne7 21.Nxe7 Qxe7 22.a5 Qe8 23.c4 Rg8 24.Rfd1 hxg3 25.fxg3 Kh8 26.Ra3 Qc6 27.Qf1 Rg6 28.Nd5 Re8 29.Kh1 Kg7 30.h4 Kh8 31.Kh2 Bf8 32.Rf3 Be7 33.Bh3 Kg7 34.Bf5 Rh6 35.Qe2 Bd8 36.Ne3 Rg8 37.Rf2 Be7 38.b5 Qc5 39.bxa6 bxa6 40.Rb1 Kh8 41.Rb7 Bd8 42.Qf3 Qa3 43.Rb8 Qc1 44.Ng4 Bxf5 45.Nxh6 Qxh6 46.Qxf5 Bxa5 47.Rb3 Bd8 48.Rb7 Kg7 49.Ra2 Qe3 50.Rd7 Bb6 51.Rxd6 Qg1+ 52.Kh3 Kf8 53.Qf3 f5 54.Rd7 f4 55.gxf4 f5 56.fxe5 Qg4+ 57.Qxg4 fxg4+ 58.Kg2 Rg7 59.Rxg7 Kxg7 60.Rxa6 Bd4 61.Kg3 Bxe5+ 62.Kxg4 Kf7 63.Kf5 Bc3 64.h5 Ke8 65.h6 Bh8 66.Rd6 Ke7 67.c5 Bc3 68.e5 Kf8 69.c6 Bb4 70.c7 Ke7 71.c8=Q Bxd6 72.e6 Ba3 73.Qd7+ Kf8 74.Qf7# 1-0

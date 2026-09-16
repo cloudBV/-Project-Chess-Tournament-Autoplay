@@ -1,0 +1,14 @@
+[Event "Round 8: Stricker, Florian - Ehmann, Thilo"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-8/XL5HPCd1/7IJV65FJ"]
+[Date "2026.07.24"]
+[Round "8.10"]
+[White "Stricker, Florian"]
+[Black "Ehmann, Thilo"]
+[Result "1/2-1/2"]
+[WhiteElo "2231"]
+[BlackElo "2353"]
+[ECO "B21"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 g6 5.Nf3 Bg7 6.Nc3 Nf6 7.Be2 O-O 8.O-O d6 9.Nd5 Nd7 10.c3 Nc5 11.Qc2 e6 12.Ne3 f5 13.exf5 gxf5 14.Rd1 d5 15.b4 Ne4 16.Bb2 Qf6 17.Rac1 Nxb4 18.Qb3 Nc6 19.Ba1 Rd8 20.Nd4 Qh6 21.Bf3 Ng5 22.Be2 Be5 23.h3 Qg7 24.Nf3 Nxh3+ 25.Kf1 Nf4 26.Nxe5 Nxe2 27.Kxe2 Qxe5 28.g3 Qg7 29.f4 Qg6 30.Kf2 b6 31.Rg1 h5 32.Rh1 Bb7 33.Qd1 Kf7 34.Qxh5 Qxh5 35.Rxh5 Rh8 36.Rch1 Rxh5 37.Rxh5 Kg6 38.Rg5+ Kf7 39.Rh5 Kg6 40.Rg5+ Kf7 41.Rh5 Ba6 42.g4 fxg4 43.Nxg4 Bd3 44.c4 dxc4 45.Rg5 Ke7 46.Bb2 a5 47.Ke3 Kd6 48.Ba3+ Nb4 49.Ne5 Ra7 50.Kd4 Rh7 51.Nxc4+ Bxc4 52.Kxc4 Rh4 53.Kb5 Rh3 54.Bxb4+ axb4 55.Kxb4 Rh4 56.Kb5 Rxf4 57.Kxb6 e5 58.Kb5 e4 59.Kc4 1/2-1/2

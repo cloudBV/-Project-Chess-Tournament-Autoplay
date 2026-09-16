@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.08"]
+[Round "1.14"]
+[White "Baki, Bence"]
+[Black "Bokorovics, Bertalan"]
+[Result "0-1"]
+[WhiteElo "2032"]
+[BlackElo "2245"]
+[ECO "E47"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Qxd5 9.O-O Qd7 10.Qc2 Be7 11.Ne4 h6 12.Nc5 Qd8 13.a3 b6 14.Ne4 Bb7 15.Bf4 Nc6 16.Rfd1 Nd5 17.Bg3 Rc8 18.Qd2 Na5 19.Rac1 Qd7 20.Rxc8 Rxc8 21.b4 Nc4 22.Qa2 Nd6 23.Nd2 Nc3 24.Nxc3 Rxc3 25.Bxd6 Bxd6 26.Nc4 Qc6 27.Bf1 Bb8 28.Ne3 Qa4 29.Rd3 Rxd3 30.Bxd3 Bf4 31.Nc2 Qc6 32.Bf1 Qc3 33.Qc4 Bd2 34.Qxc3 Bxc3 35.f3 Bd5 36.Kf2 Bb3 37.Bd3 Kf8 38.Ke3 Ke7 39.b5 Kd6 40.g4 e5 41.dxe5+ Bxe5 42.f4 Bb2 43.Nd4 Bd5 44.g5 Bc1+ 45.Ke2 Bxf4 46.Nf5+ Ke5 47.gxh6 gxh6 48.h4 Bc1 49.Kd1 Bxa3 50.Nxh6 Be6 51.Kc2 Bf8 52.Ng8 f5 0-1

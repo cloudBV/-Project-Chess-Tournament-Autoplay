@@ -1,0 +1,15 @@
+[Event "Round 3: Moosavifar, Seyed Abolfazl - Kaldarova, Ayaulym"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-3/HhX462ng/S6bKMmxJ"]
+[Date "2026.07.23"]
+[Round "3.6"]
+[White "Moosavifar, Seyed Abolfazl"]
+[Black "Kaldarova, Ayaulym"]
+[Result "1-0"]
+[WhiteElo "2433"]
+[BlackElo "2029"]
+[ECO "C54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Modern Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6 9.Nc3 Bg4 10.h3 Bh5 11.Be3 O-O 12.Qc2 Nxc3 13.bxc3 f6 14.Bxc6 Bxf3 15.gxf3 bxc6 16.f4 Qe7 17.Rg1 c5 18.Ke2 Rac8 19.Rac1 Kh8 20.Rg4 fxe5 21.fxe5 cxd4 22.cxd4 Qe6 23.Rcg1 Rf7 24.Rh4 Qf5 25.Qxf5 Rxf5 26.Rc1 Kg8 27.Rc6 Re8 28.a4 h5 29.Kd3 Kf7 30.Rf4 Rxf4 31.Bxf4 Re6 32.Rc1 c6 33.Bd2 Bd8 34.a5 Ke8 35.Rb1 a6 36.Rb8 Kd7 37.Ra8 Bc7 38.Rxa6 Kc8 39.Ra8+ Kb7 40.Rg8 g6 41.Rg7 Kb8 42.a6 c5 43.a7+ 1-0

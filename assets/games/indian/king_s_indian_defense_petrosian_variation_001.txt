@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.12"]
+[Round "3.4"]
+[White "EtherealHCE 14.40"]
+[Black "Lynx 1.11.0-dev-edbae92a"]
+[Result "1/2-1/2"]
+[WhiteElo "3317"]
+[BlackElo "3332"]
+[ECO "E92"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Bg4 8.O-O Nbd7 9.h3 Bxf3 10.Bxf3 Kh8 11.Bg5 h6 12.Bh4 Rg8 13.Be2 Bf8 14.Qc2 h5 15.Bg5 Be7 16.Bc1 Nh7 17.b4 a5 18.bxa5 Rxa5 19.a4 Nc5 20.Ba3 b6 21.Bb4 Ra6 22.Ra3 Kg7 23.Nb5 Qd7 24.f4 Rf8 25.g3 h4 26.Bxc5 bxc5 27.fxe5 dxe5 28.Qb2 c6 29.Bg4 Qb7 30.dxc6 Rxc6 31.Rd1 Rd8 32.Rxd8 Bxd8 33.Qxe5+ Bf6 34.Qd5 Bb2 35.Bd7 Rb6 36.Qxb7 Rxb7 37.Rd3 Nf6 38.Bg4 Rb8 39.Bf3 Be5 40.a5 Ra8 41.Ra3 Ra6 42.gxh4 Ng8 43.Bg4 Ne7 44.Bd7 Bb2 45.Ra2 Be5 46.Kg2 Kh6 47.Be8 Ra8 48.Bxf7 Nc6 49.Bd5 Rxa5 50.Rxa5 Nxa5 51.Na3 Nb3 52.Nc2 Nc1 53.Ne3 Nd3 54.Ng4+ Kg7 55.Kf3 Bb8 56.Ke2 Ne5 57.Nxe5 Bxe5 58.Kf3 Kf6 59.Bc6 Bc7 60.Be8 Be5 61.Bd7 Ke7 62.Bc6 Bc7 63.Bd5 Kf6 64.Kg4 Be5 65.Bb7 Bc7 66.h5 gxh5+ 67.Kxh5 Ke6 68.Kg6 Bd8 69.Bd5+ Ke5 70.Kg7 Bg5 71.Kg8 Be7 72.Kg7 Bg5 73.Kf7 Bh4 74.Ke8 Kd6 75.Kf8 Ke5 76.Kg8 Be7 77.Bb7 Kd4 78.Kf7 Bh4 79.Bd5 Ke5 80.Kf8 Bf6 81.Bc6 Kd4 82.Bd5 Ke5 83.Ke8 Kd6 84.Ba8 Ke6 85.Bb7 Bg5 86.Bd5+ Kd6 87.Kf8 Ke5 88.Kg7 Bh4 89.Kh7 Bg5 90.Kg6 Bd8 91.Kh6 Bf6 92.Kh5 Kf4 93.Bc6 Bd8 94.Ba8 Bf6 95.Kg6 Ke5 96.Kf7 Bh4 97.Ke8 Kd6 98.Bb7 Bg5 99.Kf8 Ke5 100.Bc6 Kd4 101.Bd5 Ke5 102.Ke8 Kd6 103.Bb7 Ke6 104.Bc6 Bh4 105.Bd5+ Kd6 106.Bb7 Ke6 107.Bc6 Bg5 108.Bb7 Bh4 109.Kf8 Ke5 110.Bc6 Kd4 111.Bd5 Ke5 112.Kf7 1/2-1/2

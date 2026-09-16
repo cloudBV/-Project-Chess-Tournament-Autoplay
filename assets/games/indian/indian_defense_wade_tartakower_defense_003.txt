@@ -1,0 +1,15 @@
+[Event "Round 3: Horobetz, Graham - Sagar, Shah"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-3/CLvlcax5/QscyqOYh"]
+[Date "2026.07.04"]
+[Round "3.13"]
+[White "Horobetz, Graham"]
+[Black "Sagar, Shah"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2307"]
+[ECO "A46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.Nf3 d6 2.d4 Nf6 3.c4 g6 4.Nc3 Bf5 5.g3 c6 6.Bg2 Qc8 7.h3 Bg7 8.b3 Ne4 9.Bb2 Nxc3 10.Bxc3 Be4 11.Rc1 O-O 12.O-O Nd7 13.Re1 Qc7 14.Bf1 Bxf3 15.exf3 e6 16.f4 c5 17.Bg2 Rad8 18.Qd2 b6 19.Rcd1 a5 20.Qb2 cxd4 21.Bxd4 Bxd4 22.Rxd4 Nc5 23.Red1 Rd7 24.a3 a4 25.b4 Nb3 26.R4d3 Rfd8 27.Rc3 Rc8 28.Rdd3 Qd8 29.h4 Rdc7 30.Bf1 Qe7 31.h5 gxh5 32.Qe2 Qf6 33.Qxh5 d5 34.Qg4+ Qg6 35.Qh4 dxc4 36.Rd6 b5 37.g4 Kg7 38.Rg3 c3 39.f5 Qf6 40.g5 Qxf5 41.Bd3 c2 42.Bxf5 c1=Q+ 43.Kg2 exf5 44.Qh6+ Kg8 45.Rh3 Qf4 46.Qxh7+ Kf8 47.Qh8+ Ke7 48.Qf6+ 1-0

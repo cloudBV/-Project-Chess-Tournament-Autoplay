@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "9.3"]
+[White "Gibala, Adam"]
+[Black "Kiszkiel, Oskar"]
+[Result "1-0"]
+[WhiteElo "2360"]
+[BlackElo "2236"]
+[ECO "C10"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be3 Bd6 8.Bd3 b6 9.Qe2 Bb7 10.O-O-O Nd5 11.Kb1 Nxe3 12.fxe3 Qe7 13.e4 e5 14.d5 O-O 15.g4 a6 16.h4 b5 17.h5 c6 18.dxc6 Bxc6 19.g5 f5 20.Bc4+ bxc4 21.Qxc4+ Qf7 22.Qxc6 fxe4 23.Nd2 e3 24.Ne4 e2 25.Rde1 Bb4 26.g6 Qf3 27.Qc4+ Kh8 28.Qxb4 Rad8 29.a4 Qxh1 30.Rxh1 Rf1+ 31.Ka2 Rxh1 32.Qe7 Ra1+ 33.Kxa1 e1=Q+ 34.Ka2 Rg8 35.Ng5 Rb8 36.h6 1-0

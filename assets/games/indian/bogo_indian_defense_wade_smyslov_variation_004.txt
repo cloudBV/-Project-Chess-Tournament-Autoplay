@@ -1,0 +1,14 @@
+[Event "Round 6: Papadopoulos, Panayotis - Kolytas, Spiridon"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/Yf79czD4"]
+[Date "2026.07.10"]
+[Round "6.73"]
+[White "Papadopoulos, Panayotis"]
+[Black "Kolytas, Spiridon"]
+[Result "1-0"]
+[WhiteElo "2298"]
+[BlackElo "2115"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.g3 d5 6.Bg2 dxc4 7.a3 Be7 8.Qa4+ Bd7 9.Qxc4 b5 10.Qc2 Bc6 11.O-O O-O 12.Rd1 b4 13.Bf4 Bd6 14.Bg5 Be4 15.Qxe4 Nxe4 16.Bxd8 Rxd8 17.Ng5 Nxg5 18.Bxa8 f5 19.h4 Nf7 20.Bf3 g5 21.hxg5 Nxg5 22.Nd2 Bf8 23.Nc4 Nxf3+ 24.exf3 Nc6 25.axb4 axb4 26.Kg2 Nxd4 27.Ra7 c5 28.f4 b3 29.Rh1 Bg7 30.Rha1 Nc2 31.Ra8 Rxa8 32.Rxa8+ Kf7 33.Ra7+ Kg6 34.Rb7 Nb4 35.Nd2 Nd3 36.Rxb3 Nxb2 37.Rb6 Kf7 38.Rc6 Nd3 39.Nf3 h6 40.Rc7+ Kf8 41.Kf1 Bf6 42.Ke2 Nc1+ 43.Ke3 Nb3 44.Ne5 Bg7 45.Kd3 h5 46.Nd7+ Ke8 47.Nxc5 Nxc5+ 48.Rxc5 Kf7 49.Rc7+ Kg6 50.Re7 Kf6 51.Rb7 Kg6 52.Ke2 Bf6 53.Kf3 Bg7 54.Kg2 Bf6 55.Kh3 Bd8 56.Rb8 Bf6 57.Rb6 Kf7 58.Ra6 Bd8 59.Kg2 Bf6 60.Rb6 Bd8 61.Rb7+ Kg6 62.f3 Bf6 63.Rb1 Bd8 64.Rh1 Bb6 65.Kf1 Bd8 66.Ke2 Bb6 67.Kd3 Bf2 68.Rh3 Be1 69.Kd4 Kf6 70.Ke3 Kg6 71.Ke2 Ba5 72.Rh2 Bc7 73.Kd3 Bb6 74.Kc4 Ba5 75.Re2 Kf6 76.Kc5 Ke7 77.Kc6 Bc3 78.Kc5 Ba5 79.g4 hxg4 80.fxg4 fxg4 81.f5 e5 82.Kd5 Kf6 83.Ke4 Bc3 84.Rc2 Be1 85.Rc6+ Kf7 86.Rg6 g3 87.Kxe5 Bc3+ 88.Ke4 Be1 89.Kf4 Bf2 90.Ke5 Be1 91.Rf6+ Ke7 92.Rc6 Kd7 93.Rg6 Ke7 94.f6+ Kf8 95.Ke6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2.2: Roebers, Eline - Den Heijer, Rolinde"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-women/round-22/RomUl7IN/xywtT6AF"]
+[Date "2026.06.09"]
+[Round "6.1"]
+[White "Roebers, Eline"]
+[Black "Den Heijer, Rolinde"]
+[Result "1-0"]
+[WhiteElo "2389"]
+[BlackElo "2086"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 g6 5.Nf3 Bg7 6.Nbd2 cxd4 7.Bc4 Qc6 8.Qb3 Be6 9.Bxe6 Qxe6+ 10.Qxe6 fxe6 11.Nxd4 Bxd4 12.cxd4 Nf6 13.Nf3 Nd5 14.O-O Nc6 15.Re1 Kd7 16.Bh6 a5 17.Ng5 Nd8 18.Re5 Nf6 19.h3 Ra6 20.Rb5 Rg8 21.Rc1 Nd5 22.Nf3 Kd6 23.Bd2 b6 24.Ne5 Rf8 25.Rc8 Nc7 26.Rb3 Nd5 27.Rf3 Rh8 28.Bh6 Nf6 29.Bg7 Re8 30.Bxf6 exf6 31.Rxf6 Ra7 32.Nc4+ Ke7 33.Rf3 b5 34.Ne5 Kd6 35.Rfc3 Rb7 36.Ra8 a4 37.Rcc8 Ke7 38.f4 Rb6 39.Rc7+ Kf6 40.Rxd8 Rxd8 41.Rf7# 1-0

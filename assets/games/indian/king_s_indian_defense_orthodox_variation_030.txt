@@ -1,0 +1,14 @@
+[Event "Round 1: Flom, Gabriel - Botter, Simon"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-1/WR5FBHtR/Z0u1fUKX"]
+[Date "2026.07.21"]
+[Round "1.11"]
+[White "Flom, Gabriel"]
+[Black "Botter, Simon"]
+[Result "1-0"]
+[WhiteElo "2430"]
+[BlackElo "2170"]
+[ECO "E95"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nbd7 7.O-O e5 8.Re1 Re8 9.Bf1 exd4 10.Nxd4 Nc5 11.f3 c6 12.Kh1 a6 13.Be3 Qd7 14.b4 Ne6 15.Na4 Qd8 16.Nb6 Rb8 17.Rc1 Nd7 18.Nxe6 Rxe6 19.Nxc8 Rxc8 20.c5 a5 21.Bc4 Re8 22.cxd6 b5 23.Bd3 axb4 24.f4 Qa5 25.Re2 c5 26.e5 f6 27.Qb3+ c4 28.Bxc4+ bxc4 29.Rxc4 Rxc4 30.Qxc4+ Kh8 31.e6 Qf5 32.exd7 Qxd7 33.Bc5 Bf8 34.Rxe8 Qxe8 35.Qxb4 Qe2 36.h3 Qf1+ 37.Kh2 Bh6 38.Be3 1-0

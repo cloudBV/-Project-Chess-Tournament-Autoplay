@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.18"]
+[Round "8.2"]
+[White "Elgersma, Onno"]
+[Black "Schoorl, Rob"]
+[Result "0-1"]
+[WhiteElo "2356"]
+[BlackElo "2284"]
+[ECO "B70"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Fianchetto Variation"]
+
+1.Nf3 g6 2.e4 c5 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g3 Nc6 7.Nxc6 bxc6 8.e5 dxe5 9.Qxd8+ Kxd8 10.Bg2 Kc7 11.O-O Rb8 12.Be3 a5 13.b3 Nd7 14.Rad1 f5 15.Na4 e6 16.Bd2 Bb4 17.c3 Be7 18.c4 Bb4 19.Bc1 Re8 20.a3 Bf8 21.Bd2 Ra8 22.Bc3 e4 23.f3 exf3 24.Rxf3 e5 25.g4 Nc5 26.Rh3 h6 27.Nxc5 Bxc5+ 28.Kf1 Bf8 29.gxf5 Bxf5 30.Re3 e4 31.b4 axb4 32.axb4 h5 33.Be1 Bd6 34.b5 Bxh2 35.Bf2 Bf4 36.b6+ Kb7 37.Rc3 e3 38.Bxe3 Rxe3 39.Rxe3 Bxe3 40.Rd6 Ra1+ 41.Ke2 Ra2+ 42.Kxe3 Rxg2 43.c5 Rc2 44.Kd4 Rd2+ 0-1

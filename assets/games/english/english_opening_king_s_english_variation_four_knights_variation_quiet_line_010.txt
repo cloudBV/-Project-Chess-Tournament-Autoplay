@@ -1,0 +1,15 @@
+[Event "Round 6: Tahmasebi, Hamidreza - Hakemi, Arman"]
+[Site "https://lichess.org/broadcast/iranian-chess-championship-1405/round-6/9x6VQVn8/XL6nR56n"]
+[Date "2026.07.14"]
+[Round "6.2"]
+[White "Tahmasebi, Hamidreza"]
+[Black "Hakemi, Arman"]
+[Result "1-0"]
+[WhiteElo "2375"]
+[BlackElo "2428"]
+[ECO "A28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+
+1.c4 e5 2.Nc3 Bb4 3.Qc2 Nf6 4.Nf3 Nc6 5.e3 Bxc3 6.Qxc3 Qe7 7.d4 exd4 8.Nxd4 Nxd4 9.Qxd4 O-O 10.Bd3 d5 11.c5 Nd7 12.b4 Ne5 13.Bb2 Nxd3+ 14.Qxd3 c6 15.O-O Qg5 16.f3 Bf5 17.Qd4 f6 18.Kf2 Bg6 19.h4 Qf5 20.Rad1 Rfe8 21.g4 Qe5 22.Rh1 a5 23.Qd2 Qe7 24.h5 Bf7 25.h6 axb4 26.Bd4 b6 27.Rc1 Ra5 28.Qxb4 Rxa2+ 29.Kg3 Qc7+ 30.f4 b5 31.hxg7 Ra4 32.Qd2 h5 33.gxh5 Qd7 34.Bxf6 Qf5 35.Bd4 Bxh5 36.Rh4 Re6 37.Kh2 Rg6 38.Qc2 Qf7 39.Rxh5 Rxg7 40.Rh4 Qe7 41.Rh3 Rxd4 42.exd4 Qf6 43.Qf2 1-0

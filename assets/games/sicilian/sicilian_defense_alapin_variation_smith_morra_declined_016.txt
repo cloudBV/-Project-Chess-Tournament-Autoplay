@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "8.4"]
+[White "Moczulski, Michal"]
+[Black "Butkiewicz, Jan"]
+[Result "0-1"]
+[WhiteElo "2004"]
+[BlackElo "2129"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 Nc6 6.cxd4 d6 7.Bc4 Nb6 8.Bb5 dxe5 9.Nxe5 Bd7 10.Nxd7 Qxd7 11.Nc3 e6 12.O-O Be7 13.Qg4 O-O 14.Rd1 Nd5 15.Bh6 Bf6 16.Ne4 Qe7 17.Bxc6 bxc6 18.Rac1 Rac8 19.b3 Kh8 20.Nxf6 Qxf6 21.Be3 Rfd8 22.Qg3 Qf5 23.Rc5 Qe4 24.Rdc1 Nb4 25.Rg5 Rg8 26.h4 Nxa2 27.Rcc5 Nb4 28.h5 Nd3 29.Rc3 Nb4 30.Re5 Qb1+ 31.Kh2 Nd5 32.Rc5 Qxb3 33.Qh3 Nxe3 34.fxe3 Qb2 35.h6 gxh6 36.Rh5 Rg6 37.Rxh6 Rxh6 38.Qxh6 Rg8 39.Qf6+ Rg7 40.Rg5 Qb8+ 41.Kh3 Qf8 42.Rg3 a5 43.Qe5 a4 44.Qa5 Rxg3+ 45.Kxg3 Qd6+ 46.Kf2 a3 47.Qa8+ Kg7 48.Ke2 Qb4 49.Qd8 Qb5+ 50.Kf3 a2 51.Qa8 Qf5+ 52.Ke2 Qc2+ 53.Kf3 Qd1+ 0-1

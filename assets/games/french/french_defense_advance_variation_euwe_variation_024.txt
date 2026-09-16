@@ -1,0 +1,14 @@
+[Event "Round 2: Gontsul, Artem - Saminskij, Jan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-2/801De05L/6Fi4Rf7a"]
+[Date "2026.07.12"]
+[Round "2.7"]
+[White "Gontsul, Artem"]
+[Black "Saminskij, Jan"]
+[Result "0-1"]
+[WhiteElo "2164"]
+[BlackElo "2301"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.cxd4 Nf5 9.Nc2 Be7 10.O-O O-O 11.Bd3 f6 12.Bxf5 exf5 13.Re1 Be8 14.Bf4 g5 15.exf6 Bxf6 16.Be5 Be7 17.h3 f4 18.Nh2 Bg6 19.Rc1 h5 20.Qd2 Qb6 21.b3 Rac8 22.Re2 Nb4 23.Ne1 Rxc1 24.Qxc1 Qb5 25.Qd1 Nc6 26.Nhf3 a5 27.Bd6 Bxd6 28.Re6 Bf7 29.Rxd6 Qb4 30.Rd7 Be6 31.Nd3 Qc3 32.Rxb7 g4 33.Nfe5 Nxd4 34.hxg4 f3 35.gxf3 hxg4 36.fxg4 Qc8 37.Rb6 Qd8 38.Qd2 0-1

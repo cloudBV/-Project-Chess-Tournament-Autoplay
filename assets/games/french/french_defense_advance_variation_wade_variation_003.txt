@@ -1,0 +1,14 @@
+[Event "Round 5: Mogollon Tobar, Nicolle Julieth - Salcedo Paez, Jackeline"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-femenino/round-5/yNzNqJrn/v79R1rHq"]
+[Date "2026.07.11"]
+[Round "5.2"]
+[White "Mogollon Tobar, Nicolle Julieth"]
+[Black "Salcedo Paez, Jackeline"]
+[Result "1-0"]
+[WhiteElo "2033"]
+[BlackElo "2038"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Wade Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 Qb6 6.Na3 cxd4 7.cxd4 Bb4+ 8.Bd2 Ne7 9.Bd3 Bxd2+ 10.Qxd2 a6 11.Rb1 h6 12.O-O Nbc6 13.Nc2 O-O 14.b4 Na7 15.Ne3 Rac8 16.Ng4 Nf5 17.Bxf5 exf5 18.Ne3 Be6 19.Qd3 g6 20.h3 Rc7 21.g4 fxg4 22.hxg4 Rfc8 23.Kg2 Rc3 24.Qd2 R3c7 25.Rh1 Nb5 26.Rxh6 Nc3 27.Rbh1 Kf8 28.Ng5 Ne4 29.Nxe4 dxe4 30.d5 Bd7 31.d6 Rc3 32.Rh8+ Kg7 33.R1h7# 1-0

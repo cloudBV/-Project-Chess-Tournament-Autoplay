@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-5/b6FdDsCd/hs93r5LP"]
+[Date "2026.07.01"]
+[Round "5.3"]
+[White "Fier, Alexandr"]
+[Black "Acosta, Pablo Ismael"]
+[Result "1-0"]
+[WhiteElo "2557"]
+[BlackElo "2446"]
+[ECO "B43"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+
+1.e4 c5 2.Nf3 a6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Ne7 6.g4 Nbc6 7.Nb3 d5 8.Be3 h5 9.exd5 exd5 10.gxh5 Be6 11.Bg2 Qd6 12.Qe2 Qe5 13.O-O-O Qxh5 14.Bf3 Qe5 15.Nc5 O-O-O 16.Nxe6 fxe6 17.Bb6 Re8 18.Rde1 Qxe2 19.Rxe2 Ng6 20.Nxd5 Bd6 21.Nc3 Bf4+ 22.Kb1 Nge5 23.Bg2 Bxh2 24.Be3 Ref8 25.Bc5 Rd8 26.a3 Bf4 27.Bxc6 Nxc6 28.Rxh8 Rxh8 29.Rxe6 Be5 30.Nd5 Rh5 31.c4 Kd7 32.Rg6 Ke8 33.Rg1 Kf7 34.Rd1 Na5 35.f4 Bf6 36.Bb4 Nxc4 37.b3 a5 38.bxc4 axb4 39.axb4 Rh2 40.c5 Rf2 41.Nxf6 Kxf6 42.Rd4 Ke6 43.b5 g5 44.fxg5 Rf5 45.Rd6+ Kf7 46.Rf6+ Rxf6 47.gxf6 Kxf6 48.c6 Kf5 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.09"]
+[Round "10.2"]
+[White "Obukhava, Anastasiya"]
+[Black "Kawka, Milena"]
+[Result "0-1"]
+[WhiteElo "2063"]
+[BlackElo "2032"]
+[ECO "A20"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Drill Variation"]
+
+1.c4 e5 2.g3 h5 3.Nf3 e4 4.Nh4 Nf6 5.Nc3 d6 6.d3 exd3 7.Qxd3 Nc6 8.Bg2 Be6 9.b3 Qd7 10.Bb2 O-O-O 11.Nf3 Ne5 12.Nxe5 dxe5 13.Qxd7+ Nxd7 14.O-O-O Bc5 15.e3 h4 16.Ne4 Be7 17.f4 Bg4 18.Rd2 h3 19.Bf1 Bf3 20.Nf2 Bxh1 21.Nxh1 exf4 22.exf4 Nf6 23.Nf2 Bc5 24.Rxd8+ Kxd8 25.Bxf6+ gxf6 26.Nxh3 Re8 27.Kd2 Bb4+ 28.Kd3 Re1 29.Bg2 Rd1+ 30.Ke4 Rd2 31.Kf3 Bc5 32.g4 Rxa2 33.Kg3 Rb2 34.Bd5 Rxb3+ 35.Kg2 Ke7 36.f5 c6 37.Bf3 Rb2+ 38.Kg3 Bd6+ 39.Kh4 Rxh2 40.Be4 a5 0-1

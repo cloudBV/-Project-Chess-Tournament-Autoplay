@@ -1,0 +1,15 @@
+[Event "Round 4: Roshantab, Sadra - Yildiz, Talat"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/75c7YeiE"]
+[Date "2026.07.15"]
+[Round "4.13"]
+[White "Roshantab, Sadra"]
+[Black "Yildiz, Talat"]
+[Result "1/2-1/2"]
+[WhiteElo "2040"]
+[BlackElo "2268"]
+[ECO "B60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd3 Rc8 8.O-O-O Nxd4 9.Qxd4 Qa5 10.Bxf6 gxf6 11.Kb1 Qc5 12.Qd2 h5 13.Nd5 Bh6 14.f4 Be6 15.Be2 Bxd5 16.exd5 Bxf4 17.Qd3 Be5 18.Qf5 Kd8 19.c3 Qb6 20.Kc2 Qa5 21.Qd3 Kc7 22.Qb5 Qxb5 23.Bxb5 Rcg8 24.Rd2 h4 25.Bd3 Rg4 26.Re1 a5 27.Rf2 Kd8 28.Bf5 Rc4 29.Rh1 b5 30.Kd3 a4 31.Rc2 Rf4 32.Be4 Rg8 33.Bf3 e6 34.Rhc1 h3 35.b3 a3 36.c4 hxg2 37.Bxg2 Rd4+ 38.Ke3 Rh4 39.Kf2 Rxh2 40.Kf1 b4 41.Rd1 Ke7 42.Rcd2 Bc3 43.Re2 e5 44.c5 dxc5 45.d6+ Kd8 46.Bc6 Rh4 47.Rd3 Rgg4 48.Rg2 Rxg2 49.Kxg2 Rd4 50.Rxd4 cxd4 51.Be4 Kd7 52.Kf3 Kxd6 53.Bh7 d3 54.Bxd3 Ke6 55.Kg4 Kd5 56.Kf3 Kd4 57.Be4 Bd2 58.Bf5 Bh6 59.Be4 Kc3 60.Ke2 Bg5 61.Bf5 Bh6 62.Be4 Bf8 63.Bf5 Bc5 64.Be4 Kd4 65.Kf3 f5 66.Bxf5 Kc3 67.Ke2 Bf2 68.Be4 Kb2 69.Kd1 Be3 70.Bf5 Bh6 71.Be4 Kc3 72.Ke2 Bg5 73.Bf5 Bd8 74.Be4 Bb6 75.Bf5 Kd4 76.Kf3 Kd5 77.Be4+ Ke6 78.Kg4 Bd8 79.Bf5+ Kd5 80.Kf3 Bb6 81.Be4+ Kd4 82.Bf5 Kc3 83.Ke2 Ba7 84.Be4 Bc5 85.Bf5 Bg1 86.Be4 Ba7 87.Bf5 f6 88.Be4 Bb6 89.Bf5 e4 90.Bxe4 Kd4 91.Bd3 Ke5 92.Kf3 f5 93.Bb1 f4 94.Bg6 Be3 95.Ke2 Kd4 96.Bf5 Bc1 97.Bg6 Kc3 98.Be4 Be3 99.Bf3 Kb2 100.Kd1 Bd4 101.Be4 Bg7 102.Bf3 Kc3 103.Ke2 Kd4 104.Bh5 Bh6 105.Bg6 Bg5 106.Bf5 Kc3 107.Be4 Be7 108.Bf3 Bf8 109.Bh5 Bg7 110.Bf3 Kc2 111.Be4+ Kc1 112.Bf3 Bh6 113.Bh5 Bg5 114.Bf3 Bf6 115.Bh5 Kb2 116.Kd1 Be5 117.Bf3 Bd4 118.Bh5 Bf2 119.Bf3 Be1 120.Bh5 Kb1 121.Bf3 Kxa2 122.Kc2 Ka1 123.Bh5 Bd2 124.Bf3 Ka2 125.Bh5 Bc1 126.Bf3 1/2-1/2

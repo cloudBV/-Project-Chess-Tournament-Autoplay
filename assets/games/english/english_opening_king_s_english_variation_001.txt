@@ -1,0 +1,15 @@
+[Event "Round 5: Khalafvand, Dorsa Sadat - Dirikolu, Deniz"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/SAzlkXDL"]
+[Date "2026.07.02"]
+[Round "5.16"]
+[White "Khalafvand, Dorsa Sadat"]
+[Black "Dirikolu, Deniz"]
+[Result "0-1"]
+[WhiteElo "2072"]
+[BlackElo "2373"]
+[ECO "A21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Ng1 Nf6 6.Nh3 c6 7.d5 Nbd7 8.Bf4 Ne5 9.Qd4 Nfd7 10.dxc6 bxc6 11.c5 Qf6 12.Bxe5 dxe5 13.Qd2 Nxc5 14.f3 f4 15.e3 Bxh3 16.gxh3 Rd8 17.Qf2 Rd3 18.exf4 Rxf3 19.Qd2 Nd3+ 20.Kd1 exf4 21.Be2 Re3 22.Rf1 Bc5 23.Rb1 f3 24.Kc2 O-O 25.a3 Rd8 26.Bxd3 Rdxd3 27.Qxe3 Rxe3 28.Rbd1 h6 29.Rd7 Rxc3+ 0-1

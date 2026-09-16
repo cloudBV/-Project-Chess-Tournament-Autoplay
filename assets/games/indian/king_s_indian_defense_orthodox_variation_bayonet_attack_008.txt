@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "7.15"]
+[White "Lalic, Bogdan"]
+[Black "Grebeniuk, Semen"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2227"]
+[ECO "E97"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4 Nh5 10.c5 Nf4 11.a4 f5 12.Bc4 fxe4 13.Nxe4 Bg4 14.Ra3 Nf5 15.h3 Bh5 16.Kh2 Bxf3 17.Rxf3 Nd4 18.Rc3 Rf5 19.g3 Qe7 20.gxf4 exf4 21.f3 Rh5 22.Rg1 Qh4 23.Qf1 Be5 24.Rg4 Qe7 25.Rd3 Nf5 26.Kg1 Rf8 27.Bxf4 Bxf4 28.Rxf4 Qe5 29.Rg4 Qb2 30.cxd6 cxd6 31.Ng3 Nxg3 32.Rxg3 Qxb4 33.Rb3 Qc5+ 34.Kg2 b6 35.Rg4 Re5 36.Qf2 Qa5 37.Bd3 Rfe8 38.Rbb4 Re3 39.Rbe4 R8xe4 40.Bxe4 Qc3 41.h4 Re1 42.Kh3 Rh1+ 43.Kg2 Rd1 44.Kh3 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Uphoff, Lennart - Dahl, Christoph"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-8/XL5HPCd1/vMLy9ymg"]
+[Date "2026.07.24"]
+[Round "8.5"]
+[White "Uphoff, Lennart"]
+[Black "Dahl, Christoph"]
+[Result "0-1"]
+[WhiteElo "2288"]
+[BlackElo "2393"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Bg4 8.d5 a5 9.Be3 Na6 10.Ne1 Bd7 11.Nd3 b6 12.f3 Nc5 13.b3 Nh5 14.Re1 Nxd3 15.Bxd3 f5 16.a3 f4 17.Bf2 Bf6 18.b4 Bh4 19.Bxh4 Qxh4 20.Qd2 g5 21.Qf2 Ng3 22.Ne2 Nxe2+ 23.Bxe2 Qh5 24.c5 bxc5 25.bxc5 g4 26.Rab1 Rf6 27.c6 g3 28.hxg3 Rh6 29.Kf1 fxg3 30.Qe3 Bh3 31.Qg1 Rf8 32.Rb3 Qg5 33.gxh3 Rxh3 34.Bd1 Qd2 35.Be2 Qh6 0-1

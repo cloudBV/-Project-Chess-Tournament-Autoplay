@@ -1,0 +1,15 @@
+[Event "Round 4: Tanenbaum, Zachary - Neiksans, Arturs"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-4/p37tSfIq/4OvKwbJE"]
+[Date "2026.07.03"]
+[Round "4.24"]
+[White "Tanenbaum, Zachary"]
+[Black "Neiksans, Arturs"]
+[Result "1/2-1/2"]
+[WhiteElo "2147"]
+[BlackElo "2522"]
+[ECO "B47"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g4 a6 7.Be3 b5 8.Nxc6 Qxc6 9.Qd2 Nf6 10.f3 d6 11.g5 Nd7 12.O-O-O Bb7 13.Kb1 Rc8 14.h4 Be7 15.h5 Ne5 16.f4 Nc4 17.Bxc4 Qxc4 18.Rh2 Bxe4 19.Bd4 Bf5 20.h6 Qc6 21.hxg7 Rg8 22.a3 a5 23.Na2 b4 24.axb4 axb4 25.Nxb4 Qa4 26.Qe1 Kd7 27.Bc3 Ra8 28.Kc1 Rgb8 29.Rd4 Rc8 30.Kd2 Rab8 31.b3 Qb5 32.Qe2 Qb6 33.Qa6 Rg8 34.Qa4+ Qb5 35.Qxb5+ Rxb5 36.Nd3 Rxg7 37.Ra4 Rg8 38.Ra7+ Ke8 39.Ra8+ Bd8 40.Bf6 Kd7 41.Rh1 Be4 42.Ra7+ Rb7 43.Rxb7+ Bxb7 44.Rxh7 Bxf6 45.gxf6 Ke8 46.Rg7 Rh8 47.Nf2 Bf3 48.Ke3 Bh5 49.b4 Bg6 50.Ne4 Bxe4 51.Kxe4 Rh6 52.b5 Rxf6 53.b6 Kd7 54.Rg3 Kc6 55.Rb3 Kb7 56.Rb5 Rh6 57.c4 Rh1 58.f5 Re1+ 59.Kd3 e5 60.Rd5 Kc6 61.Rb5 Kb7 62.Rd5 Kc6 63.Rb5 Kb7 64.Rd5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 3: Iglesias Ojeda, Fernando - Bobadilla Viera, Jorge Samuel"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-3/kHH1KL3O/17d59u4X"]
+[Date "2026.07.06"]
+[Round "3.10"]
+[White "Iglesias Ojeda, Fernando"]
+[Black "Bobadilla Viera, Jorge Samuel"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2287"]
+[ECO "B22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+
+1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5 5.Nf3 Nc6 6.Bc4 Nb6 7.Bb3 d5 8.exd6 Qxd6 9.O-O Bf5 10.cxd4 e6 11.Nc3 Be7 12.d5 exd5 13.Nxd5 Nxd5 14.Qxd5 Qxd5 15.Bxd5 Nb4 16.Bb3 O-O 17.Bd2 Nd3 18.Bc3 Rac8 19.Rad1 Rfd8 20.h3 h5 21.Rd2 Nc5 22.Rxd8+ Rxd8 23.Re1 Bf8 24.Re5 g6 25.Nd4 Bd6 26.Re1 Bd3 27.Bd1 Ne4 28.Bf3 Nxc3 29.bxc3 Rc8 30.Bxb7 Rxc3 31.Bd5 Kg7 32.g3 Ba6 33.Rd1 Bc5 34.Kg2 Kf6 35.h4 Bb6 36.Kg1 Bd3 37.Nb3 Bc2 38.Rc1 Bxb3 39.Rxc3 Bxd5 40.a3 Ke5 41.Kf1 Kd4 42.Rc8 Bc4+ 43.Ke1 Kc3 44.f3 Kb3 45.g4 Be6 0-1

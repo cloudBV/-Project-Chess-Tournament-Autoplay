@@ -1,0 +1,15 @@
+[Event "Round 8: Karaokcu, Erkin - Zor, Alber Kadir"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/IY0z950l"]
+[Date "2026.07.04"]
+[Round "8.41"]
+[White "Karaokcu, Erkin"]
+[Black "Zor, Alber Kadir"]
+[Result "1-0"]
+[WhiteElo "2277"]
+[BlackElo "2093"]
+[ECO "A40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.a3 Bb7 4.Nc3 Nf6 5.Qc2 c5 6.dxc5 bxc5 7.Bg5 d5 8.cxd5 exd5 9.e3 Be7 10.Nf3 O-O 11.Rd1 Nbd7 12.Be2 h6 13.Bh4 Nb6 14.O-O Rc8 15.Bg3 Nh5 16.Be5 f6 17.Qf5 Qe8 18.Bd3 g6 19.Qxg6+ Qxg6 20.Bxg6 fxe5 21.Bxh5 d4 22.exd4 cxd4 23.Nb1 Bf6 24.Rfe1 Rc2 25.b3 e4 26.Bg6 Rxf2 27.Kxf2 exf3 28.Be4 Bd5 29.Nd2 d3 30.Nxf3 Bd4+ 31.Kg3 d2 32.Rxd2 Bc3 33.Bxd5+ 1-0

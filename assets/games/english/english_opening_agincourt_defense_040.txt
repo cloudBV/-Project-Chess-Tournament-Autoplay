@@ -1,0 +1,15 @@
+[Event "Round 5: Novik, Maxim - Yue, Tariq"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-5/fqiT2mw0/Tu7SiFA8"]
+[Date "2026.07.02"]
+[Round "5.1"]
+[White "Novik, Maxim"]
+[Black "Yue, Tariq"]
+[Result "1/2-1/2"]
+[WhiteElo "2362"]
+[BlackElo "2141"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 d4 4.Bg2 c5 5.e3 Nc6 6.exd4 cxd4 7.O-O Bd6 8.d3 Nf6 9.Bg5 h6 10.Bxf6 Qxf6 11.Nbd2 Qd8 12.a3 a5 13.Qa4 Bd7 14.Ne4 Be7 15.c5 e5 16.Nd6+ Bxd6 17.cxd6 O-O 18.Qb5 Qf6 19.Rfe1 Rfe8 20.Nd2 Qxd6 21.Qxb7 Reb8 22.Nc4 Qe7 23.Qc7 Ra7 24.Qd6 Qxd6 25.Nxd6 Rxb2 26.Rac1 Ra6 27.Bd5 Nd8 28.Nc4 Rb5 29.Rxe5 Kf8 30.Be4 Ne6 31.Rxb5 Bxb5 32.Ne5 f6 33.Rb1 Nc7 34.Ng6+ Kf7 35.Nf4 Rd6 36.Rc1 Ne6 37.Bd5 Bd7 38.Rc5 Ke7 39.Rxa5 Nxf4 40.gxf4 Rb6 41.Kg2 Kd6 42.Be4 Rb3 43.Ra6+ Ke7 44.f5 Rb5 45.Ra7 Kd6 46.Ra6+ Ke7 47.Ra7 Kd6 48.Kf3 Bxf5 49.Rxg7 Ra5 50.Rg8 Ke6 51.Re8+ Kf7 52.Rd8 Bxe4+ 53.Kxe4 Rxa3 54.Rxd4 Ra1 55.Kf3 Re1 56.h4 h5 57.Re4 Rd1 58.d4 Kg6 59.Ke2 Kf5 60.f3 Ra1 61.Kf2 Rd1 62.Kg3 Rd2 63.Rf4+ Kg6 64.Re4 Kf5 1/2-1/2

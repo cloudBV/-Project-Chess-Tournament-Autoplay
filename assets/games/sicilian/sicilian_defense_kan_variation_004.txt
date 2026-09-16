@@ -1,0 +1,15 @@
+[Event "Round 6: Nitish Belurkar - Fedorov, Alexei"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-6/shLPKZ2L/oizpFXf5"]
+[Date "2026.07.05"]
+[Round "6.2"]
+[White "Nitish Belurkar"]
+[Black "Fedorov, Alexei"]
+[Result "0-1"]
+[WhiteElo "2466"]
+[BlackElo "2399"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Nc3 Qc7 7.O-O Bc5 8.Kh1 b5 9.f4 b4 10.Na4 Ba7 11.e5 Ne4 12.Bf3 Bb7 13.Be3 f5 14.a3 Nc6 15.Bxe4 fxe4 16.Qd2 Nxd4 17.Bxd4 e3 18.Qxb4 Qc6 19.Rg1 a5 20.Qc3 Qxa4 21.Bxa7 Rxa7 22.Qxe3 Ra8 23.Qc5 Rc8 24.Qd6 Qxc2 0-1

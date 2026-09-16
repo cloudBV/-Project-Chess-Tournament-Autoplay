@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/Pu6XZpbt"]
+[Date "2026.07.03"]
+[Round "7.25"]
+[White "Kucewicz, Piotr"]
+[Black "Lisowski, Krzysztof"]
+[Result "1-0"]
+[WhiteElo "2044"]
+[BlackElo "2058"]
+[ECO "E49"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Ba2 b6 11.O-O Ba6 12.Re1 Nc6 13.Bb2 Rfd8 14.Rc1 Na5 15.Ng3 Rac8 16.e4 e5 17.d5 Bc4 18.Bb1 Bb3 19.Qe2 c4 20.Nf5 Nb7 21.Qe3 Ne8 22.Qg3 f6 23.h4 Nbd6 24.Ne3 b5 25.Qg4 Qd7 26.Qe2 a5 27.g3 Nb7 28.Kh2 Ned6 29.f4 Nc5 30.fxe5 fxe5 31.Ng2 Na4 32.Rf1 b4 33.axb4 axb4 34.cxb4 c3 35.Ba1 Nb5 36.Bd3 Nd4 37.Qh5 Qe7 38.Ne3 Re8 39.Ba6 Rc7 40.d6 g6 41.dxe7 gxh5 42.Nd5 Bxd5 43.exd5 Rcxe7 44.Bxc3 Nxc3 45.Rxc3 e4 46.Rd1 e3 47.Rxd4 e2 48.Bxe2 Rxe2+ 49.Kh3 Ra8 50.d6 Raa2 51.g4 Rh2+ 52.Kg3 Rhg2+ 53.Kf3 Rxg4 54.Rcd3 Ra8 55.Rxg4+ hxg4+ 56.Kxg4 Kf7 57.d7 Rd8 58.Kh5 1-0

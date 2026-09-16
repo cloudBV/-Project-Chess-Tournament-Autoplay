@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "4.9"]
+[White "Elmi, Saad Abobaker"]
+[Black "Ostensen, Nicolai Maxime"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2407"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.Nc3 d6 6.a3 g6 7.O-O Bg7 8.Be3 O-O 9.h3 Be6 10.Bxe6 fxe6 11.Ne2 Qe8 12.Ng3 g5 13.Nh2 Qg6 14.Ng4 Nh7 15.Nh2 Nf6 16.Ng4 Nd7 17.Nh2 Rf7 18.b4 Ne7 19.c3 Kh7 20.Qg4 Bh8 21.a4 a5 22.Rfb1 b6 23.Bd2 Nc6 24.Be3 Rf4 25.Qd1 Rf7 26.Ra2 Nf6 27.Ng4 Nd7 28.Nh2 d5 29.bxa5 Rxa5 30.Rb5 Bg7 31.Bd2 Nc5 32.Be3 Nxa4 33.Rxa5 Nxc3 34.Qc2 Nxa5 35.Qxc3 d4 36.Bxd4 exd4 37.Qc2 c5 38.Rb2 Rb7 39.Qb1 Qe8 40.Rxb6 Qc6 41.Rxb7 Nxb7 42.Nf3 Nd6 1/2-1/2

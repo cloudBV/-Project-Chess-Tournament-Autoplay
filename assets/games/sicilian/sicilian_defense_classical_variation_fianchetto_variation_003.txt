@@ -1,0 +1,14 @@
+[Event "Round 6: Palaiologou, Apostolos - Kalogridis, Themistoklis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/1dqDTTUN"]
+[Date "2026.07.10"]
+[Round "6.78"]
+[White "Palaiologou, Apostolos"]
+[Black "Kalogridis, Themistoklis"]
+[Result "1-0"]
+[WhiteElo "2133"]
+[BlackElo "2293"]
+[ECO "B56"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 Nf6 6.g3 g6 7.Bg2 Nxd4 8.Qxd4 Bg7 9.O-O O-O 10.Qb4 a5 11.Qb3 Be6 12.Nd5 Nxd5 13.exd5 Bf5 14.a4 Qc7 15.c3 Rfb8 16.Re1 b5 17.axb5 Bd3 18.Bg5 Bf8 19.Qa3 h6 20.Be3 Rxb5 21.b4 Bg7 22.Bd4 Bc4 23.Bxg7 Kxg7 24.Red1 Rab8 25.Rd4 Kh7 26.h4 h5 27.Qc1 Kg8 28.bxa5 Ra8 29.Rxc4 Qxc4 30.Bf1 Qb3 31.Bxb5 Qxb5 32.c4 Qa6 33.c5 dxc5 34.Qxc5 Kf8 35.Qd4 Kg8 36.Qc5 Qe2 37.a6 Qb2 38.Ra3 Qb1+ 39.Kh2 Qe1 40.a7 Kh7 41.Rf3 Kg7 42.d6 Qd1 43.Qc3+ e5 44.Qxe5+ Kg8 45.Ra3 Qc2 46.Qf6 Qc6 47.Rc3 Qa4 48.Rc7 Rf8 49.d7 1-0

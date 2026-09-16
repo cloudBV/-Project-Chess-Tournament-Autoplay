@@ -1,0 +1,14 @@
+[Event "Round 7: Wichmann, Cliff - Kaiser, Dieter"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-7/Y1lqTquY/Bi5Katdc"]
+[Date "2026.07.07"]
+[Round "7.1"]
+[White "Wichmann, Cliff"]
+[Black "Kaiser, Dieter"]
+[Result "1/2-1/2"]
+[WhiteElo "2251"]
+[BlackElo "2166"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.a3 bxa3 7.Rxa3 d5 8.e3 O-O 9.Nc3 Nc6 10.Bd3 Nb4 11.O-O b6 12.Ne5 a5 13.Be2 dxc4 14.Bxc4 Bb7 15.Qe2 Rc8 16.Rd1 Nbd5 17.Bd3 Nxc3 18.bxc3 Nd7 19.Nxd7 Qxd7 20.Rb1 Qc6 21.f3 Ba8 22.Qb2 Rb8 23.Rb3 e5 24.Be4 Qh6 25.Bxa8 Qxe3+ 26.Qf2 Qxf2+ 27.Kxf2 Rxa8 28.dxe5 Rac8 29.Rxb6 Rxc3 30.R1b5 a4 31.Ra6 a3 32.Rba5 Re8 33.Rxa3 Rxa3 34.Rxa3 g5 35.Ra5 Kg7 36.Ke3 f6 37.Ke4 Kg6 38.g3 fxe5 39.Rxe5 Rf8 40.Re6+ Kg7 41.Ra6 Rf7 42.h4 gxh4 43.gxh4 Rb7 44.h5 Rb1 45.h6+ Kf7 46.Kf5 Rb5+ 47.Kg4 Rc5 48.f4 Rc1 49.Kg5 Rc5+ 50.f5 Re5 51.Ra8 Re8 52.Ra7+ Re7 53.Ra4 Re1 54.Rg4 Rh1 55.Rg2 Rf1 56.Re2 Rg1+ 57.Kf4 Rf1+ 58.Ke5 Rh1 59.Ra2 Rxh6 60.Ra7+ Kf8 61.Rb7 Ra6 62.Rxh7 Rb6 63.Kf4 Ra6 64.Kg5 Rb6 65.Rh8+ Kg7 66.Re8 Kf7 67.Ra8 Rc6 68.Ra5 Rb6 69.f6 Rb1 70.Ra7+ Kf8 71.Ra4 Rg1+ 72.Rg4 Rxg4+ 73.Kxg4 Kf7 74.Kf5 Kf8 75.Ke6 Ke8 76.f7+ Kf8 77.Kf6 1/2-1/2

@@ -1,0 +1,177 @@
+[gd_scene format=3 uid="uid://bevlm65akej2u"]
+
+[ext_resource type="Script" uid="uid://dlbt2fd2jnvxf" path="res://scripts/ui.gd" id="1_nt7q6"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_bx8n8"]
+bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5iqjx"]
+bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5h11f"]
+bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jx8tp"]
+bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tbgi4"]
+bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tefeu"]
+bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0wfyh"]
+bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jyhfs"]
+bg_color = Color(0.3019608, 0.52156866, 0.53333336, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_sugp2"]
+bg_color = Color(0.45882353, 0.5882353, 0.34117648, 1)
+
+[node name="UI" type="CanvasLayer" unique_id=692594121]
+script = ExtResource("1_nt7q6")
+
+[node name="NextGameButton" type="Button" parent="." unique_id=1814487275]
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -100.0
+grow_horizontal = 2
+grow_vertical = 0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 72
+theme_override_styles/normal = SubResource("StyleBoxFlat_bx8n8")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_5iqjx")
+text = "Next Game"
+autowrap_mode = 2
+
+[node name="RestartButton" type="Button" parent="." unique_id=1473878092]
+offset_top = 2200.0
+offset_right = 1080.0
+offset_bottom = 2300.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 72
+theme_override_styles/normal = SubResource("StyleBoxFlat_5h11f")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_jx8tp")
+text = "Restart Game"
+autowrap_mode = 2
+
+[node name="AutoAdvanceToggle" type="CheckButton" parent="." unique_id=2036431732]
+custom_maximum_size = Vector2(400, 100)
+offset_top = 100.0
+offset_right = 300.0
+offset_bottom = 200.0
+theme_override_font_sizes/font_size = 36
+theme_override_styles/normal = SubResource("StyleBoxFlat_tbgi4")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_tefeu")
+text = "Auto Advance : Off "
+alignment = 1
+autowrap_mode = 2
+
+[node name="GameInfoLabel" type="Label" parent="." unique_id=540167658]
+custom_maximum_size = Vector2(1080, 450)
+offset_top = 1800.0
+offset_right = 1080.0
+offset_bottom = 2000.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_0wfyh")
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 1
+uppercase = true
+
+[node name="MoveCounterLabel" type="Label" parent="." unique_id=1153189807]
+custom_maximum_size = Vector2(1080, 450)
+offset_left = 800.0
+offset_top = 100.0
+offset_right = 1080.0
+offset_bottom = 200.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_jyhfs")
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 1
+uppercase = true
+
+[node name="CategoryLabel" type="Label" parent="." unique_id=1462205889]
+custom_maximum_size = Vector2(1080, 450)
+offset_left = 300.0
+offset_top = 100.0
+offset_right = 800.0
+offset_bottom = 200.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_sugp2")
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 1
+uppercase = true
+
+[node name="SettingsButton" type="Button" parent="." unique_id=1481602651]
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -280.0
+offset_bottom = 100.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 32
+text = "Select Categories"
+
+[node name="SettingsMenu" type="Control" parent="." unique_id=416207433]
+visible = false
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -300.0
+offset_top = -300.0
+offset_right = 300.0
+offset_bottom = 300.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 1
+
+[node name="Background" type="ColorRect" parent="SettingsMenu" unique_id=703615361]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0.21568628, 0.21568628, 0.35686275, 0.4862745)
+
+[node name="ScrollContainer" type="ScrollContainer" parent="SettingsMenu" unique_id=747491663]
+custom_maximum_size = Vector2(400, 400)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -200.0
+offset_top = -200.0
+offset_right = 200.0
+offset_bottom = 200.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CategoryList" type="VBoxContainer" parent="SettingsMenu/ScrollContainer" unique_id=1651149877]
+layout_mode = 2
+
+[node name="CloseButton" type="Button" parent="SettingsMenu" unique_id=1941063979]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -100.0
+offset_bottom = 100.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 36
+text = "X"

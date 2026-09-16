@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "11.5"]
+[White "Bednarek, Jan"]
+[Black "Serafin, Franciszek"]
+[Result "1/2-1/2"]
+[WhiteElo "2092"]
+[BlackElo "2126"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 a6 7.N5c3 g6 8.Be3 Bg7 9.Be2 Nge7 10.O-O O-O 11.Na3 Be6 12.Nc2 Rc8 13.Nd5 f5 14.exf5 Nxf5 15.Qd2 Ncd4 16.Nxd4 Nxd4 17.Bxd4 exd4 18.Rac1 Bxd5 19.cxd5 Qb6 20.b3 Rxc1 21.Qxc1 Qa5 22.a4 Qc3 23.Qd1 Re8 24.Bc4 Bf6 25.g3 Qb4 26.Qg4 Re7 27.Qc8+ Kg7 28.Qb8 d3 29.Bxd3 Qxb3 30.Bxa6 Qxa4 31.Bd3 Qb3 32.Bb1 Qxd5 33.Qa8 Qc6 34.Ba2 Re8 35.Qa5 Qc5 36.Qa4 Rf8 37.Qd7+ Kh8 38.Qxb7 Bd4 39.Kg2 Qc2 40.Bd5 Rxf2+ 41.Rxf2 Qxf2+ 42.Kh3 Qf1+ 43.Bg2 Qf5+ 44.g4 Qd3+ 45.Qf3 Qxf3+ 46.Bxf3 Kg7 47.g5 Be3 48.Kg4 h5+ 49.gxh6+ Kxh6 50.h4 Kg7 51.Be4 Kf6 52.h5 gxh5+ 53.Kxh5 Ke5 54.Ba8 d5 55.Bxd5 Bh6 56.Kxh6 Kxd5 1/2-1/2

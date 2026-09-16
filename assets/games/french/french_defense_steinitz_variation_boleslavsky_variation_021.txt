@@ -1,0 +1,14 @@
+[Event "Round 5: Kouskoutis, Georgios-Alexandros - Spyropoulos, Nikolaos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/LPZdDIU2"]
+[Date "2026.07.08"]
+[Round "5.13"]
+[White "Kouskoutis, Georgios-Alexandros"]
+[Black "Spyropoulos, Nikolaos"]
+[Result "1-0"]
+[WhiteElo "2270"]
+[BlackElo "2379"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 Be7 9.Be2 b5 10.dxc5 Bxc5 11.Bxc5 Nxc5 12.Nd4 Bb7 13.Nxc6 Bxc6 14.Bf3 Qb6 15.Ne2 b4 16.f5 exf5 17.Nd4 Bd7 18.Bxd5 Rd8 19.O-O-O O-O 20.Qf4 Ne6 21.Bxe6 fxe6 22.g4 fxg4 23.Qxg4 Bc8 24.Rhg1 Qc7 25.Rd3 Rf2 26.c3 Qf7 27.Nf5 Rxd3 28.Nh6+ Kf8 29.Nxf7 Rxf7 30.Qxb4+ Kg8 31.Rd1 Rxd1+ 32.Kxd1 Rd7+ 33.Ke1 Bb7 34.Qg4 Re7 35.c4 g6 36.b4 Kf7 37.a4 Ke8 38.Qd4 1-0

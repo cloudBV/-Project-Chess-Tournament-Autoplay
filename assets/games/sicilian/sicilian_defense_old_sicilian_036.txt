@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.23"]
+[White "Vrana, Jan"]
+[Black "Horak, Martin"]
+[Result "1/2-1/2"]
+[WhiteElo "2266"]
+[BlackElo "2091"]
+[ECO "B30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 e5 4.Bc4 Nf6 5.Ng5 d5 6.exd5 Nxd5 7.Qf3 Qxg5 8.Bxd5 Qf6 9.d3 Qxf3 10.Bxf3 Bf5 11.Be4 Be6 12.Na3 f5 13.Bxc6+ bxc6 14.f3 O-O-O 15.Ke2 Be7 16.Be3 g5 17.h3 h5 18.b3 g4 19.hxg4 hxg4 20.Nc4 f4 21.Bf2 Bxc4 22.bxc4 g3 23.Rxh8 Rxh8 24.Bg1 Rh1 25.Rd1 Kd7 26.d4 Ke6 27.dxe5 Rh5 28.Re1 Rxe5+ 29.Kd3 1/2-1/2

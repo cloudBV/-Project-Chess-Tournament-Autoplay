@@ -1,0 +1,15 @@
+[Event "Round 4: Odeev, Handszar - Szpar, Milosz"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/tbUBAK1a"]
+[Date "2026.07.01"]
+[Round "4.14"]
+[White "Odeev, Handszar"]
+[Black "Szpar, Milosz"]
+[Result "0-1"]
+[WhiteElo "2219"]
+[BlackElo "2518"]
+[ECO "C15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Qf3 Nc6 6.Bb5 Ne7 7.a3 Ba5 8.Ne2 O-O 9.O-O Be6 10.Na4 Nf5 11.Bxc6 bxc6 12.Bf4 Re8 13.Qd3 Nd6 14.Ng3 Qh4 15.Bd2 Bb6 16.Nc5 Nc4 17.Bc3 Ne5 18.Qd2 Nc4 19.Qd3 Rad8 20.Rfe1 Bc8 21.b3 Rxe1+ 22.Bxe1 Ne5 23.Qc3 Ng6 24.Bd2 f5 25.f3 f4 26.Nf1 Qg5 27.Be1 Re8 28.Qd2 Bxc5 29.dxc5 Ba6 30.Bf2 Re2 31.Qc3 Nh4 32.g3 d4 33.Bxd4 Rg2+ 34.Kh1 Bxf1 35.Rxf1 Rxh2+ 0-1

@@ -1,0 +1,14 @@
+[Event "Round 2: Tapp, James - Davies, Nigel R"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-2/xXJCJT52/MkJD8tzv"]
+[Date "2026.07.07"]
+[Round "2.5"]
+[White "Tapp, James"]
+[Black "Davies, Nigel R"]
+[Result "0-1"]
+[WhiteElo "2048"]
+[BlackElo "2276"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 d6 4.Nc3 Bf5 5.Nh4 Bd7 6.e4 e5 7.Nf3 exd4 8.Nxd4 Bg7 9.Be2 O-O 10.Be3 Re8 11.f3 Nc6 12.Qd2 a6 13.O-O Nh5 14.Nxc6 bxc6 15.Rac1 Qe7 16.Bd3 f5 17.Bg5 Bf6 18.Bxf6 Qxf6 19.exf5 Qd4+ 20.Rf2 Nf4 21.Rd1 Nxd3 22.Qxd3 Re1+ 0-1

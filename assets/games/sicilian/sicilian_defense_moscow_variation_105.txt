@@ -1,0 +1,14 @@
+[Event "Round 4: Dinanath, Hrdya - De Jong, Lode"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-4/foOkbJHh/OVQwi0cm"]
+[Date "2026.07.24"]
+[Round "4.24"]
+[White "Dinanath, Hrdya"]
+[Black "De Jong, Lode"]
+[Result "0-1"]
+[WhiteElo "2192"]
+[BlackElo "2102"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Nxd4 a6 6.Bd3 Ngf6 7.O-O g6 8.Re1 Bg7 9.Bf1 Nc5 10.Nc3 b5 11.Nc6 Qd7 12.Nb4 Bb7 13.Nbd5 Ncxe4 14.Nxe4 Nxd5 15.c4 bxc4 16.Bxc4 e6 17.Bh6 O-O 18.Bxg7 Kxg7 19.Bxd5 Bxd5 20.Qd4+ f6 21.Nc3 Bc6 22.Rad1 d5 23.f4 Rfe8 24.Kh1 Qa7 25.Qb4 Rab8 26.Qd6 Qd7 27.Qa3 Qb7 28.Qc5 Qb6 29.Qd6 Rbd8 30.Qa3 a5 31.b3 Qb4 32.Qc1 Rc8 33.Qe3 Bb7 34.Ne2 e5 35.fxe5 fxe5 36.Rc1 d4 37.Qg5 h6 38.Qg3 Rxc1 39.Rxc1 Re7 40.Rc7 Kh7 41.Rc1 Qd2 42.Re1 Rf7 0-1

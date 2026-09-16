@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "17.5"]
+[White "Firouzja, Alireza"]
+[Black "Gukesh D"]
+[Result "1-0"]
+[WhiteElo "2796"]
+[BlackElo "2655"]
+[ECO "A08"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.c4 Bg7 6.Qa4+ Nc6 7.Ne5 Qd6 8.cxd5 Nxd5 9.Nc4 Qd8 10.Nc3 e6 11.Ne3 Nxe3 12.Bxc6+ bxc6 13.dxe3 O-O 14.Qxc6 Qb6 15.Qa4 Ba6 16.Qc2 Rab8 17.e4 Rfd8 18.Re1 Qb4 19.Bg5 Rd7 20.Rad1 Rd4 21.Be3 Rc4 22.Rd7 Bd4 23.Bh6 Qb6 24.Qd2 Bc8 25.Re7 Ba6 26.Qf4 f5 27.Rxe6 Qb7 28.Qd6 Bxc3 29.Re7 Rd4 30.Qe6+ 1-0

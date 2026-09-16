@@ -1,0 +1,15 @@
+[Event "Round 5: Xikmatkhonova, Mokhinur - Agamuradova, Mahri"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g16/round-5/b72aGYHQ/6CbCYRZI"]
+[Date "2026.07.19"]
+[Round "5.18"]
+[White "Xikmatkhonova, Mokhinur"]
+[Black "Agamuradova, Mahri"]
+[Result "1-0"]
+[WhiteElo "2059"]
+[BlackElo "2132"]
+[ECO "B17"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bd3 Ngf6 6.Ng3 g6 7.Nf3 Bg7 8.O-O O-O 9.h3 Qc7 10.Re1 Re8 11.c4 b6 12.Be3 Bb7 13.Qd2 Rad8 14.Bf4 Qc8 15.Rad1 e6 16.Be4 e5 17.Be3 Nxe4 18.Nxe4 Nc5 19.Bg5 Nxe4 20.Rxe4 Rd7 21.Qe1 f5 22.Re2 e4 23.Ne5 Rd6 24.c5 Rd5 25.Nc4 Re6 26.cxb6 Bxd4 27.Be3 c5 28.bxa7 Qa8 29.Qa5 Ba6 30.Nb6 Rxb6 31.Qxb6 Bxe2 32.Rxd4 cxd4 33.Qe6+ Kg7 34.Qe7+ Kh8 35.Bh6 1-0

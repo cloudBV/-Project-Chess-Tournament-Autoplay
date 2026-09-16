@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.16"]
+[Round "6.2"]
+[White "Kazarjan, Gachatur"]
+[Black "Schoorl, Rob"]
+[Result "0-1"]
+[WhiteElo "2299"]
+[BlackElo "2284"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be2 Bg7 9.Be3 O-O 10.Qd3 a6 11.O-O Bd7 12.h3 b5 13.cxb5 axb5 14.Nxb5 Bxb5 15.Qxb5 Rb8 16.Qd3 Rxb2 17.Bd4 Rb4 18.Bc3 Ra4 19.Bd1 Rxe4 20.Bb3 Rf4 21.Rab1 Nh5 22.a4 Bxc3 23.Qxc3 Rf5 24.Bc4 Nf4 25.Rb7 Qc8 26.Qb4 Qc6 27.f3 Rg5 28.g4 Rc5 29.Bb3 e5 30.Rb6 Qc7 31.Rb7 Qd8 32.Qe1 h5 33.Kh2 hxg4 34.fxg4 Qc8 35.Qe4 d5 36.Qb4 Rc2+ 37.Kg3 Rg2+ 38.Kh4 Kg7 39.Rxf4 Rh8+ 40.Kg5 Rh5# 0-1

@@ -1,0 +1,15 @@
+[Event "Round 8: Samimi, Armin - Sanikidze, Tornike"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-8/9nAkS9lJ/mG2BwlMt"]
+[Date "2026.07.19"]
+[Round "8.8"]
+[White "Samimi, Armin"]
+[Black "Sanikidze, Tornike"]
+[Result "0-1"]
+[WhiteElo "2157"]
+[BlackElo "2432"]
+[ECO "B41"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+
+1.e4 c5 2.Nf3 a6 3.c4 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 Qc7 7.a3 Nc6 8.Be3 Bd6 9.Rc1 Bf4 10.Bxf4 Qxf4 11.g3 Qc7 12.Nxc6 dxc6 13.c5 e5 14.Qa4 O-O 15.Bg2 Rd8 16.Rd1 Bg4 17.f3 Rxd1+ 18.Qxd1 Be6 19.Qe2 Qa5 20.Qe3 Nd7 21.Kf2 Qxc5 22.Rd1 Kf8 23.f4 Qxe3+ 24.Kxe3 Ke7 25.b4 Nb6 26.Bf1 Bc4 27.a4 Bxf1 28.Rxf1 Rd8 29.fxe5 Nc4+ 30.Kf4 Rd2 31.b5 Rxh2 32.bxc6 bxc6 33.Rb1 Rf2+ 34.Kg4 Nxe5+ 35.Kh3 h5 36.Rb7+ Kf6 37.Rb6 Ng4 38.Rxc6+ Kg5 0-1

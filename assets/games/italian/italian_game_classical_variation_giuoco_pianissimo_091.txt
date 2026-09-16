@@ -1,0 +1,14 @@
+[Event "Round 5: Subhayan Kundu - Hutois, Mickael"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-5/wxfOYRLM/FDW1tu6L"]
+[Date "2026.07.21"]
+[Round "5.5"]
+[White "Subhayan Kundu"]
+[Black "Hutois, Mickael"]
+[Result "1-0"]
+[WhiteElo "2341"]
+[BlackElo "2174"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 O-O 7.h3 a5 8.Re1 Be6 9.Bb5 Ba7 10.Nbd2 Ne7 11.d4 c6 12.Bd3 Ng6 13.Nf1 Nh5 14.Bc2 Nhf4 15.Ng3 Qf6 16.Nh5 Qe7 17.Bxf4 Nxf4 18.Nxf4 exf4 19.e5 dxe5 20.Nxe5 Qg5 21.Qf3 Rad8 22.Bb3 Bf5 23.Re2 Bb8 24.Rae1 Bd6 25.Nc4 Bc7 26.Ne5 Bd6 27.Nc4 Bc7 28.Re7 Rd7 29.Rxd7 Bxd7 30.Ne5 Qf5 31.Nxf7 1-0

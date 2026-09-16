@@ -1,0 +1,14 @@
+[Event "Round 6: Papasimakopoulos, Alexandros - Avanesyan, Aleksandr"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-6/1END00RS/eqRedJeR"]
+[Date "2026.07.22"]
+[Round "6.16"]
+[White "Papasimakopoulos, Alexandros"]
+[Black "Avanesyan, Aleksandr"]
+[Result "0-1"]
+[WhiteElo "2353"]
+[BlackElo "2239"]
+[ECO "A11"]
+[Variant "Standard"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+
+1.c4 c6 2.Qa4 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.Nc3 Nxc3 6.bxc3 Bf5 7.e4 Bg6 8.Ne5 Nd7 9.Nxg6 hxg6 10.d4 Qc7 11.f4 e6 12.Be3 Be7 13.Be2 Bh4+ 14.g3 Bxg3+ 15.Kd2 Bxf4 16.e5 Bxe3+ 17.Kxe3 Nb6 18.Qa3 Qd8 19.Rag1 Rh3+ 20.Rg3 Qh4 21.Rxh3 Qxh3+ 22.Kf2 Qh4+ 23.Kg2 Nd5 24.Qc1 O-O-O 25.Qd2 Rh8 26.Bf3 Nf4+ 27.Kf1 g5 28.c4 Qh3+ 29.Kf2 Qf5 30.Qe3 0-1

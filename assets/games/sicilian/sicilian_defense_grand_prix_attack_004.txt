@@ -1,0 +1,14 @@
+[Event "Round 5: Maltsevskaya, Aleksandra - De La Riva Aguado, Oscar"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/bPMnmejP"]
+[Date "2026.07.07"]
+[Round "5.13"]
+[White "Maltsevskaya, Aleksandra"]
+[Black "De La Riva Aguado, Oscar"]
+[Result "0-1"]
+[WhiteElo "2360"]
+[BlackElo "2431"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.a4 a6 6.Be2 d6 7.O-O e6 8.d3 Nge7 9.Be3 Nd4 10.Qd2 O-O 11.Rae1 Nec6 12.Bd1 Qb6 13.e5 Qxb2 14.Ne4 Nxf3+ 15.Bxf3 Nd4 16.Nxd6 Qxc2 17.a5 Nxf3+ 18.Rxf3 Qxd2 19.Bxd2 Bd7 20.Be3 f6 21.Bxc5 fxe5 22.fxe5 Rxf3 23.gxf3 Bc6 24.Kg2 Rf8 25.Ne4 Rf5 26.d4 g5 27.Kg3 h6 28.Re3 Rf4 29.h3 Kh7 30.Nf2 h5 31.Nd3 Bh6 32.Nb4 Bb5 33.Re4 Kg6 34.d5 Kf5 35.dxe6 Rxe4 36.fxe4+ Kxe6 37.Bd4 Bg7 38.h4 gxh4+ 39.Kxh4 Bxe5 40.Bb6 Be2 41.Nd5 Bf3 42.Kg5 Bxe4 43.Nf4+ Kd6 44.Nxh5 Kc6 45.Nf6 Bc2 46.Ne8 Bd3 47.Kh5 Kd7 0-1

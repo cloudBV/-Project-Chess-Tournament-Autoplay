@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.05"]
+[Round "2.3"]
+[White "Papp, Petra"]
+[Black "Kiss, Inez"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2078"]
+[ECO "C10"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Capablanca Line"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Ne5 Nd7 8.Nf3 Nf6 9.Be3 Bd6 10.Bd3 O-O 11.Qe2 a6 12.O-O-O b5 13.Kb1 Bb7 14.Bg5 b4 15.Ne5 Be7 16.h4 Bd5 17.Rh3 c6 18.Rg3 Kh8 19.h5 Nd7 20.Bf4 Nxe5 21.Bxe5 Bf6 22.Qg4 Rg8 23.Rh1 a5 24.Qf4 Bxe5 25.dxe5 f5 26.Rg5 b3 27.axb3 Bxb3 28.Rxf5 Bd5 29.Rf7 a4 30.Qb4 a3 31.h6 a2+ 32.Ka1 c5 33.hxg7+ Rxg7 34.Rxh7+ Rxh7 35.Rxh7+ Kg8 36.Qg4+ Qg5 37.Qxg5+ Kf8 38.Qf6+ Kg8 39.Rh8# 1-0

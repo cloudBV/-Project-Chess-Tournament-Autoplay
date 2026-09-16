@@ -1,0 +1,15 @@
+[Event "Round 4: Kusa, Jakub - Hlavina, Matous"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-4/UntR3qss/DCeVNhd2"]
+[Date "2026.07.18"]
+[Round "4.2"]
+[White "Kusa, Jakub"]
+[Black "Hlavina, Matous"]
+[Result "1/2-1/2"]
+[WhiteElo "2414"]
+[BlackElo "2211"]
+[ECO "E16"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Capablanca Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Qe7 7.O-O Bxd2 8.Qxd2 O-O 9.Nc3 d6 10.Qc2 Nbd7 11.Rad1 Rfe8 12.Rfe1 a6 13.e4 e5 14.d5 a5 15.a3 Bc8 16.b4 Nf8 17.Nd2 Bd7 18.Nb3 c5 19.dxc6 Bxc6 20.Nd5 Bxd5 21.exd5 Qa7 22.Nd2 Rec8 23.Qb3 N8d7 24.Bf1 axb4 25.axb4 Qa2 26.Re3 Qxb3 27.Rxb3 Ra2 28.Nb1 Ra1 29.Ra3 Ra8 30.Rxa8+ Rxa8 31.Nc3 Kf8 32.Nb5 Ke7 33.f4 Ra2 1/2-1/2

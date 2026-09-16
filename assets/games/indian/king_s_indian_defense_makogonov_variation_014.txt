@@ -1,0 +1,14 @@
+[Event "Round 9: Ling, Chenxuan - Shukhman, Anna"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/cutIPuPu"]
+[Date "2026.07.22"]
+[Round "9.9"]
+[White "Ling, Chenxuan"]
+[Black "Shukhman, Anna"]
+[Result "0-1"]
+[WhiteElo "2166"]
+[BlackElo "2443"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 c5 7.d5 e6 8.Bd3 exd5 9.exd5 Nbd7 10.f4 Qe8+ 11.Nge2 Nh5 12.O-O Qe3+ 13.Kh1 Ne5 14.fxe5 Qxg5 15.exd6 Be5 16.Ne4 Qd8 17.Qd2 b6 18.Rad1 f5 19.Ng5 Qxd6 20.Nf3 Bg7 21.Rfe1 Bd7 22.Nc3 a6 23.a3 h6 24.Rb1 g5 25.Ne2 Rae8 26.b4 Rxe2 27.Rxe2 g4 28.bxc5 Ng3+ 29.Kg1 Nxe2+ 30.Qxe2 Qxc5+ 31.Kh1 gxf3 32.Qxf3 Re8 33.Qh5 Qf2 0-1

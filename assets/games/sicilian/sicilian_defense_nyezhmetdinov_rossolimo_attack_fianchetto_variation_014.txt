@@ -1,0 +1,15 @@
+[Event "Round 9: Falkevall, Axel - Bukharkov, Stepan"]
+[Site "https://lichess.org/broadcast/v-magistral-internacional-ciudad-de-sant-joan-de-alacant/round-9/q4NEXGnG/3JXQmOAR"]
+[Date "2026.07.03"]
+[Round "9.2"]
+[White "Falkevall, Axel"]
+[Black "Bukharkov, Stepan"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2189"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Nf6 6.Re1 O-O 7.d4 d5 8.e5 Ne4 9.Be3 Qb6 10.Qe2 cxd4 11.cxd4 f6 12.exf6 exf6 13.Nc3 Nxc3 14.bxc3 Be6 15.Rab1 Bf7 16.h4 Qc7 17.Qd2 a6 18.Bd3 b5 19.h5 Rfc8 20.hxg6 hxg6 21.Nh4 Ne7 22.Bh6 Ra7 23.Rbc1 Qd7 24.Bxg7 Kxg7 25.Qf4 Rg8 26.Re3 Qc7 27.Qg4 Kf8 28.Rce1 Qd8 29.Rg3 Qd7 30.Qf4 f5 31.Nf3 Nc6 32.Qh6+ Rg7 33.Ng5 Bg8 34.Nh3 Bf7 35.Nf4 Qd6 36.Nh5 1-0

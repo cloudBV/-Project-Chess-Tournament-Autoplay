@@ -1,0 +1,15 @@
+[Event "Round 9: Sydoryka, Vladyslav - Crevatin, Leo"]
+[Site "https://lichess.org/broadcast/v-magistral-internacional-ciudad-de-sant-joan-de-alacant/round-9/q4NEXGnG/X73SPtcN"]
+[Date "2026.06.25"]
+[Round "9.1"]
+[White "Sydoryka, Vladyslav"]
+[Black "Crevatin, Leo"]
+[Result "0-1"]
+[WhiteElo "2402"]
+[BlackElo "2242"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.Nf3 d5 2.c4 e6 3.g3 dxc4 4.Bg2 a6 5.a4 Nc6 6.Na3 Bxa3 7.Rxa3 e5 8.Nxe5 Nxe5 9.Re3 Ne7 10.Rxe5 Rb8 11.b3 Qd6 12.Re3 cxb3 13.Qxb3 Be6 14.Qc3 Nd5 15.Qxg7 Nxe3 16.fxe3 Rf8 17.O-O Kd7 18.d3 Rbe8 19.Bxb7 c6 20.Qc3 Rg8 21.Rf4 Bd5 22.e4 Be6 23.e5 Qc7 24.Qd4+ Bd5 25.e4 Qxb7 26.exd5 cxd5 27.Rxf7+ Re7 28.e6+ Ke8 29.Rxe7+ Kxe7 30.Ba3+ Kxe6 31.Qe3+ Kf7 32.Qf4+ Ke6 33.Qe3+ Kf7 34.Bc5 Qb1+ 35.Kg2 Qb2+ 36.Kh3 Qf6 37.Kg2 Re8 38.Qd2 d4 39.Qa2+ Kg6 40.Qd5 Re2+ 41.Kh3 Qf5+ 42.Qxf5+ Kxf5 43.Bxd4 Ra2 44.g4+ Kf4 45.Bf6 Rxa4 46.Kh4 Ra5 47.g5 Rd5 48.Kh5 Rxd3 49.h4 Rh3 50.Bd8 Kf5 51.Bb6 Rc3 52.Ba5 Rc6 53.Be1 Re6 54.Ba5 Re4 55.Bd8 Rg4 56.Ba5 Rc4 57.Bd8 Ra4 58.Bc7 Ke6 59.Bg3 Kf7 60.Kh6 Kg8 61.Be1 Re4 0-1

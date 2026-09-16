@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "9.3"]
+[White "Niezhentsev, Kyrylo"]
+[Black "Perucki, Maciej"]
+[Result "1-0"]
+[WhiteElo "2244"]
+[BlackElo "2043"]
+[ECO "B75"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 a6 8.Qd2 Nbd7 9.O-O-O b5 10.g4 Bb7 11.a3 Nb6 12.h4 Rc8 13.h5 Rg8 14.Qf2 Nc4 15.Bxc4 Rxc4 16.e5 Nd5 17.Nxd5 Bxd5 18.Nxb5 axb5 19.Rxd5 b4 20.exd6 Qd7 21.Rhd1 bxa3 22.Ra5 axb2+ 23.Kb1 Rc8 24.Ra7 Qxd6 25.Rxd6 exd6 26.Bd4 1-0

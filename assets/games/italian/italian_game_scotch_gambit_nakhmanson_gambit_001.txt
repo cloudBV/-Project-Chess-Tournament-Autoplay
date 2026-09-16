@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-7-game-2/vC5C5q1t/PWLWH1qn"]
+[Date "2026.07.09"]
+[Round "14.6"]
+[White "Hyron, Artem"]
+[Black "Radzimski, Antoni"]
+[Result "0-1"]
+[WhiteElo "2036"]
+[BlackElo "2213"]
+[ECO "C56"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.O-O Nxe4 6.Nc3 Nxc3 7.bxc3 d5 8.Bb5 Be7 9.cxd4 O-O 10.Re1 Nb8 11.Bf4 c6 12.Bd3 Bf6 13.h4 Bg4 14.Qd2 Bxf3 15.gxf3 Bxh4 16.Kh2 Bf6 17.Rh1 g6 18.Bh6 Re8 19.Rag1 Nd7 20.Kg2 Bxd4 21.Kf1 Qf6 22.Rh3 Bc3 23.Qg5 Re1+ 24.Kg2 Rxg1+ 25.Kxg1 Qxg5+ 26.Bxg5 Bf6 27.f4 Bxg5 28.fxg5 Re8 29.f4 Nc5 30.Bf1 Re4 31.Rf3 Ne6 32.f5 Rg4+ 33.Kf2 Nxg5 34.Re3 Ne4+ 35.Kf3 Rg3+ 36.Kf4 Rxe3 37.Kxe3 Kg7 38.fxg6 fxg6 39.c4 Nf6 40.c5 Nd7 41.Kd4 Kf6 42.Bh3 Ke7 43.a4 b6 44.cxb6 axb6 45.Ke3 Kd6 46.Kf4 Nc5 0-1

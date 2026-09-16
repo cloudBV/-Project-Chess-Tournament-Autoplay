@@ -1,0 +1,14 @@
+[Event "Round 8: Dauth, Benjamin - Ganguly, Surya Shekhar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-8/tD7JpzaF/ei1iPJJz"]
+[Date "2026.07.21"]
+[Round "8.13"]
+[White "Dauth, Benjamin"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[WhiteElo "2247"]
+[BlackElo "2578"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Ne2 e5 7.dxe5 Nxe5 8.Bf4 Bd6 9.O-O O-O 10.Bxe5 Bxe5 11.Nd2 Bc7 12.h3 Qd6 13.Ng3 Bd7 14.Re1 Rfe8 15.Ndf1 Rxe1 16.Qxe1 Re8 17.Qd2 Qe5 18.Rd1 Bb6 19.Be2 h5 20.Bf3 Bb5 21.Qc2 g6 22.a4 h4 23.Nh1 Bxf1 24.Rxf1 Ne4 25.Bxe4 dxe4 26.Qe2 e3 27.Qd3 Rd8 0-1

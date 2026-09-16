@@ -1,0 +1,14 @@
+[Event "Round 8: Zhauynbay Aldiyar - Pingin, Artem"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/aiHYNss6"]
+[Date "2026.07.21"]
+[Round "8.17"]
+[White "Zhauynbay Aldiyar"]
+[Black "Pingin, Artem"]
+[Result "0-1"]
+[WhiteElo "2318"]
+[BlackElo "2477"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 e6 6.Na3 Qd8 7.Nc2 Nbd7 8.Bd3 b6 9.Qe2 Bb7 10.Bf4 Be7 11.O-O-O O-O 12.dxc5 bxc5 13.Ne5 Nd5 14.Bg3 Nxe5 15.Bxe5 Bd6 16.Rhe1 Bxe5 17.Qxe5 Qa5 18.c4 Ne7 19.Re3 Rfd8 20.g4 Ng6 21.Qh5 e5 22.Rde1 e4 23.b4 Qxa2 24.Bf1 cxb4 25.Qb5 Rab8 26.Rd1 Rxd1+ 27.Kxd1 Qb1+ 0-1

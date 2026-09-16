@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/HGCkKa8J"]
+[Date "2026.07.04"]
+[Round "8.12"]
+[White "Perez Gormaz, Matias"]
+[Black "Poeta, Caio Medeiros"]
+[Result "1-0"]
+[WhiteElo "2388"]
+[BlackElo "2160"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.a4 g6 7.a5 a6 8.Qb3 Qe7 9.O-O Bg7 10.Re1 O-O 11.Nbd2 Nd7 12.Nf1 Nc5 13.Qc2 Be6 14.Ne3 Bxc4 15.dxc4 Qd7 16.b4 Ne6 17.Rd1 Qe8 18.Ba3 Ne7 19.Qb3 Kh8 20.Rab1 f5 21.c5 Nc8 22.Qc2 f4 23.Nc4 Qc6 24.Qe2 g5 25.cxd6 cxd6 26.h3 Nc7 27.Rd2 Nb5 28.Bb2 Rf7 29.Rbd1 Bf8 30.Ncxe5 dxe5 31.Nxe5 Qe6 32.Nxf7+ Qxf7 33.c4+ 1-0

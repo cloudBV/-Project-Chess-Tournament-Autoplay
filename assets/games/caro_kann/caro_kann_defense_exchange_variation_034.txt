@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.10"]
+[Round "8.8"]
+[White "Amundsen, Ask"]
+[Black "Schouten, Mathias Lind"]
+[Result "0-1"]
+[WhiteElo "2237"]
+[BlackElo "2294"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Ne2 Bg4 7.O-O e6 8.Qe1 Bd6 9.f3 Bh5 10.Qh4 Nf6 11.Bg5 Bg6 12.Bxg6 fxg6 13.Nf4 Kf7 14.Re1 Rae8 15.Nd3 e5 16.dxe5 Nxe5 17.Nxe5+ Rxe5 18.Rxe5 Bxe5 19.Nd2 h6 20.Be3 Re8 21.Bd4 Bf4 22.Nb3 Re2 23.Nc5 Qe7 24.Nd3 g5 25.Qh3 Be3+ 26.Kf1 Bxd4 27.cxd4 Qe3 28.Rd1 Rc2 29.Ne5+ Ke7 30.Ng6+ Kd8 0-1

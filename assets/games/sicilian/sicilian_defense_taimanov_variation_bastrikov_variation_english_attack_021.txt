@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/LFclUjWY"]
+[Date "2026.07.11"]
+[Round "2.5"]
+[White "Olshevskis, Aleksejs Jans"]
+[Black "Valdats, Reinis"]
+[Result "1-0"]
+[WhiteElo "2042"]
+[BlackElo "2342"]
+[ECO "B48"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.g4 b5 8.Nxc6 Qxc6 9.Qd2 Bb7 10.O-O-O Nf6 11.f3 b4 12.Ne2 d5 13.g5 Nd7 14.Nd4 Qa4 15.Kb1 Bc5 16.Nb3 Bxe3 17.Qxe3 O-O 18.h4 dxe4 19.fxe4 Qc6 20.Bd3 a5 21.h5 a4 22.Nd4 Qc5 23.g6 e5 24.h6 fxg6 25.hxg7 exd4 26.Qh6 Nf6 27.gxf8=Q+ Rxf8 28.Rdf1 Qc7 29.Rhg1 Qg7 30.Qh4 a3 31.Bc4+ Kh8 32.e5 Nd7 33.Rxf8+ Nxf8 34.Qd8 h5 35.Rf1 1-0

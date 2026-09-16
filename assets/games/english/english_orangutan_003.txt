@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-5/gwYuF2XU/8e3ieqvX"]
+[Date "2026.07.23"]
+[Round "5.12"]
+[White "Pandey Srishti"]
+[Black "Veiergang, Oscar"]
+[Result "0-1"]
+[WhiteElo "2220"]
+[BlackElo "2234"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Orangutan"]
+
+1.Nf3 Nf6 2.c4 g6 3.b4 Bg7 4.Bb2 O-O 5.g3 b6 6.Bg2 Bb7 7.O-O c5 8.b5 d6 9.d3 Nbd7 10.Nbd2 Qc7 11.a4 a6 12.Qc2 e6 13.e4 Ne5 14.h3 Nh5 15.Bc3 a5 16.Kh2 f5 17.Ng5 Qe7 18.f4 h6 19.Nxe6 Qxe6 20.exf5 Ng4+ 21.hxg4 Qe2 22.Rg1 Bxc3 23.Rae1 Qxd2 24.Qxd2 Bxd2 25.Bxb7 Bxe1 26.Bxa8 Bxg3+ 27.Rxg3 Nxg3 28.Bd5+ Kg7 29.f6+ Kxf6 30.Kxg3 g5 31.f5 Rh8 32.Bf3 Ke5 33.Be4 Kf6 34.Bf3 Rh7 35.Kf2 Ke5 36.Ke3 Rh8 37.Be2 h5 0-1

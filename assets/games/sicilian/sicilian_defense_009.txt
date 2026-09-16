@@ -1,0 +1,15 @@
+[Event "Round 6: Karim, Ismael - Napone, Emerson"]
+[Site "https://lichess.org/broadcast/9th-oman-club-chess-championship-2026/round-6/YMWC2QzM/tXCpyUf3"]
+[Date "2026.07.06"]
+[Round "6.2"]
+[White "Karim, Ismael"]
+[Black "Napone, Emerson"]
+[Result "1-0"]
+[WhiteElo "2338"]
+[BlackElo "2001"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.h3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.Nc3 e5 7.Be3 Qe7 8.Qd2 Nf6 9.Bh6 Bxh6 10.Qxh6 Qf8 11.Qe3 Nd7 12.Nge2 Qe7 13.O-O O-O 14.a4 a5 15.b3 b6 16.Nb1 Ba6 17.Nd2 f6 18.f4 exf4 19.Rxf4 Qe5 20.Raf1 Qb2 21.Rc1 b5 22.Nf3 c4 23.dxc4 bxa4 24.bxa4 Bxc4 25.Nc3 Bf7 26.Rb1 Qa3 27.Nh2 Be6 28.Rbf1 Kg7 29.Ng4 Qb4 30.e5 Qc5 31.exf6+ Kh8 32.Qxc5 Nxc5 33.Ne5 Rac8 34.Ne4 Nxa4 35.Ng5 Nc5 36.Rh4 Bg8 37.Nxg6# 1-0

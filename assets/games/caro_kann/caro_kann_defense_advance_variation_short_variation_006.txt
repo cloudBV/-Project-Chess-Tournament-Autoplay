@@ -1,0 +1,15 @@
+[Event "Round 8: Karimova, Guldona - Khalafvand, Dorsa Sadat"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/qaTb1n1K"]
+[Date "2026.07.04"]
+[Round "8.39"]
+[White "Karimova, Guldona"]
+[Black "Khalafvand, Dorsa Sadat"]
+[Result "1-0"]
+[WhiteElo "2244"]
+[BlackElo "2072"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.c3 Nc6 7.O-O cxd4 8.Nxd4 Bxb1 9.Nxc6 bxc6 10.Rxb1 Bc5 11.b4 Bb6 12.Kh1 Ne7 13.Bd3 Qd7 14.Qg4 g6 15.Bg5 Ng8 16.c4 Bd8 17.Be3 h5 18.Qf3 Ne7 19.b5 O-O 20.Bh6 Re8 21.bxc6 Nxc6 22.cxd5 exd5 23.Bb5 Qe6 24.Rbd1 Nxe5 25.Qc3 Re7 26.f4 Kh7 27.Bf8 d4 28.Qd2 Ng4 29.Qxd4 Nf6 30.Bxe7 Qxe7 31.Qe5 Qb7 32.Be2 Qb6 33.Rd6 Qb4 34.Rxf6 Bxf6 35.Qxf6 Qd2 36.Qxf7+ Kh6 37.f5 1-0

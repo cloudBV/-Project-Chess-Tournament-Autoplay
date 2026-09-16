@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.13"]
+[Round "3.7"]
+[White "Krylov, Philippe"]
+[Black "Van Delft, Merijn"]
+[Result "1/2-1/2"]
+[WhiteElo "2140"]
+[BlackElo "2358"]
+[ECO "E81"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Bobotsov-Korchnoi-Petrosian Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Nge2 a6 7.Bg5 b5 8.cxb5 axb5 9.Nxb5 c6 10.Nbc3 Qa5 11.Qd2 c5 12.d5 Ba6 13.Nd1 Qb6 14.Nec3 Bxf1 15.Kxf1 Nbd7 16.Bh6 Rfb8 17.Bxg7 Kxg7 18.Qe2 Qb4 19.g3 Ne5 20.f4 Nc4 21.Kg2 Nb6 22.Re1 Na4 23.Nxa4 Qxa4 1/2-1/2

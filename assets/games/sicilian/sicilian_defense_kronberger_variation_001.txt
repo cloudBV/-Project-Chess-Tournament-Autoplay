@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "4.2"]
+[White "Fernandez, Daniel Howard"]
+[Black "Lu, Maximillian"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2458"]
+[ECO "B20"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kronberger Variation"]
+
+1.e4 c5 2.Na3 Nc6 3.Bb5 Nd4 4.Ba4 Nf6 5.e5 Nd5 6.c3 Nc6 7.Nf3 e6 8.O-O Be7 9.Bb3 O-O 10.Nc2 Nb6 11.Ne3 d6 12.exd6 Qxd6 13.a4 Rd8 14.Re1 Qc7 15.Bc2 Nd5 16.Nxd5 Rxd5 17.Be4 Rd8 18.Qc2 g6 19.h4 Bd7 20.h5 Be8 21.hxg6 hxg6 22.d3 Rac8 23.g3 Bf6 24.Bg5 Qe7 25.Bxf6 Qxf6 26.a5 Rc7 27.Qd2 Ne7 28.Nh2 Qg7 29.Qg5 f6 30.Qe3 e5 31.f4 exf4 32.Qxf4 Rcd7 33.Re2 g5 34.Qf2 Bh5 35.Re3 Rf8 36.Rae1 f5 37.Bg2 f4 38.Re5 fxg3 39.Qxg3 Nf5 40.Qh3 Nh4 41.Rxc5 Re7 42.Be4 Kh8 43.Qg3 Qh6 44.Rf1 Rxf1+ 45.Nxf1 Be2 46.Qxg5 Qxg5+ 1-0

@@ -1,0 +1,15 @@
+[Event "Round 1: Amburgy, Ryan - So, Wesley"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-1/edyv1CkS/3ZbJuKXX"]
+[Date "2026.07.04"]
+[Round "1.4"]
+[White "Amburgy, Ryan"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteElo "2092"]
+[BlackElo "2772"]
+[ECO "E92"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6 9.Bh4 g5 10.Bg3 Nc6 11.d5 Ne7 12.Nxg5 Nxf2 13.Bxf2 fxg5 14.Bh5 Ng6 15.Bxg6 hxg6 16.O-O g4 17.Qd2 Bd7 18.c5 Qe7 19.cxd6 cxd6 20.Be3 b5 21.Ne2 Bf6 22.Rac1 Rac8 23.Bxa7 Rxc1 24.Qxc1 Bf5 25.exf5 Qxa7+ 26.Kh1 gxf5 27.Rxf5 Qxa2 28.Nc3 Qa7 29.Qf1 Bg7 30.Rxf8+ Bxf8 31.Nxb5 Qa2 32.Nc7 Qxb2 33.Ne6 Be7 34.g3 Qc2 35.Qb5 Kf7 36.Kg1 e4 37.Nf4 e3 38.Qe2 Qxe2 39.Nxe2 Kf6 40.Nf4 Kf5 41.Kf1 Bg5 42.Ne6 Bh6 43.Ke2 Ke4 44.Nc7 Bg7 45.Ne6 Bd4 46.Nf4 Be5 47.Ng2 Bd4 48.Nf4 Bc5 49.h3 gxh3 50.Nxh3 Kxd5 51.Kd3 Ke5 52.Nf4 d5 53.Ne2 d4 54.g4 Ba7 55.Ng3 Kf4 56.Nf5 Kxg4 57.Nd6 Kf3 58.Ne4 Bb6 59.Ng5+ Kf2 60.Ne4+ Ke1 61.Ng3 Bc7 62.Nf5 Be5 63.Nh4 e2 64.Nf3+ Kd1 65.Ke4 e1=Q+ 66.Nxe1 Kxe1 67.Kxe5 0-1

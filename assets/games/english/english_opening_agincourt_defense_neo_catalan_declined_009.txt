@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "14.4"]
+[White "Firouzja, Alireza"]
+[Black "Praggnanandhaa R"]
+[Result "1-0"]
+[WhiteElo "2796"]
+[BlackElo "2707"]
+[ECO "A14"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 c6 7.Nc3 a5 8.Qd3 b6 9.Rd1 Ba6 10.b3 b5 11.cxb5 cxb5 12.Nxb5 Nc6 13.a4 Ne4 14.Ne5 Nb4 15.Qb1 Bxb5 16.Bxe4 Bxe2 17.Bxh7+ Kh8 18.Re1 Ba6 19.Bd2 Qb6 20.Re3 Qxd4 21.Bc3 Qa7 22.g4 Bh4 23.Nf3 Bf6 24.Bxf6 gxf6 25.Qb2 Qe7 26.Nd4 Rg8 27.Bxg8 Rxg8 28.Nf5 Rxg4+ 29.Kh1 Nd3 30.Rh3+ 1-0

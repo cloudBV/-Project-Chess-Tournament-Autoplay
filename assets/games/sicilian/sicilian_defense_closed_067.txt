@@ -1,0 +1,14 @@
+[Event "Round 5: Rappazzo, Johannes - Malli, Suvirr"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/oys1hImc"]
+[Date "2026.07.17"]
+[Round "5.20"]
+[White "Rappazzo, Johannes"]
+[Black "Malli, Suvirr"]
+[Result "0-1"]
+[WhiteElo "2268"]
+[BlackElo "2120"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.Bc4 Nc6 6.d3 e6 7.Bb3 Nge7 8.Be3 Nd4 9.Bxd4 cxd4 10.Ne2 Qa5+ 11.Qd2 Qc5 12.c3 dxc3 13.bxc3 O-O 14.d4 Qc6 15.Ng3 Qa6 16.Ne2 Qc6 17.Bc2 b6 18.Bd3 b5 19.Rb1 a6 20.O-O Qc7 21.Rbc1 Bd7 22.Ng3 Rac8 23.e5 Nf5 24.Ne4 Bc6 25.Nf6+ Bxf6 26.exf6 h5 27.Qe1 Qd8 28.Bxf5 exf5 29.Qh4 Re8 30.Rce1 Be4 31.Nd2 d5 32.Nb3 Rxc3 33.Nc5 Rc2 34.Rf2 Rxf2 35.Kxf2 Qa5 36.Re2 Qc3 37.Nb3 Re6 38.Re3 Qc2+ 39.Re2 Qc4 40.Qg5 a5 41.Qh6 Rxf6 42.Qg5 Kg7 43.Rd2 Qb4 44.Ke1 Qc3 45.Nc5 Qe3+ 46.Kd1 Qg1+ 47.Ke2 Bxg2 0-1

@@ -1,0 +1,15 @@
+[Event "Round 4: Raahul V S - Oz, Ege"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-4/yYvhjAfy/MXBNKuNP"]
+[Date "2026.07.01"]
+[Round "4.7"]
+[White "Raahul V S"]
+[Black "Oz, Ege"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2120"]
+[ECO "A34"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 d6 5.d3 h6 6.e3 Bf5 7.h3 e5 8.Nge2 a6 9.O-O Be7 10.f4 Qd7 11.g4 Bh7 12.f5 g5 13.Ng3 Rb8 14.b3 Bf8 15.Bb2 Bg7 16.Nd5 Qd8 17.Nxf6+ Bxf6 18.Nh5 O-O 19.Qd2 Re8 20.Bd5 Nb4 21.Be4 Bh8 22.Qg2 f6 23.d4 Qc7 24.Rfd1 Kf8 25.Rd2 Nc6 26.dxc5 dxc5 27.Bxc6 bxc6 28.Rad1 Rbd8 29.Ba3 Rxd2 30.Bxc5+ 1-0

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/C7zq0Dc2"]
+[Date "2026.07.07"]
+[Round "8.3"]
+[White "Haba, Petr"]
+[Black "Kukushkin, Ivan"]
+[Result "1-0"]
+[WhiteElo "2389"]
+[BlackElo "2257"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d5 7.e5 Ne4 8.Bd3 Nxd2 9.Bxd2 dxc4 10.Bxc4 c5 11.dxc5 Bxc5 12.O-O Nd7 13.Bd3 h6 14.Qe2 Re8 15.Rac1 Bf8 16.Rfd1 Nb6 17.Ba5 Bd7 18.Qe4 g6 19.Qxb7 Qb8 20.Qxb8 Raxb8 21.Bxb6 Rxb6 22.b4 Ba4 23.Bc2 Bxc2 24.Rxc2 Ra8 25.h4 a5 26.bxa5 Rba6 27.Rd7 R6a7 28.Rxa7 Rxa7 29.a4 Rxa5 30.Ra2 g5 31.hxg5 hxg5 32.g4 Kg7 33.Kf1 f6 34.exf6+ Kxf6 35.Ke2 Ke7 36.Kd3 Kd6 37.Kc4 Rc5+ 38.Kb3 Rd5 39.Rd2 Rxd2 40.Nxd2 Kd5 41.Kc3 Bc5 42.f3 Ke5 43.Ne4 Be3 44.Kd3 Kf4 45.Nxg5 e5 46.Ke2 e4 47.Nh3+ Kg3 48.Kxe3 1-0

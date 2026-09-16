@@ -1,0 +1,15 @@
+[Event "Round 4: Dgebuadze, Alexandre - Maes, Tibo"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/whXyz3xr"]
+[Date "2026.07.19"]
+[Round "4.11"]
+[White "Dgebuadze, Alexandre"]
+[Black "Maes, Tibo"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2054"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Be7 5.O-O O-O 6.Re1 d6 7.c3 Na5 8.Bb5 a6 9.Ba4 b5 10.Bc2 c5 11.Nbd2 Nc6 12.Nf1 Re8 13.h3 h6 14.d4 cxd4 15.cxd4 Qc7 16.Be3 Bf8 17.Rc1 Qb7 18.Ng3 Bd7 19.Qd2 exd4 20.Nxd4 d5 21.exd5 Nxd5 22.Qd3 g6 23.Bb3 Nxd4 24.Qxd4 Nxe3 25.Rxe3 Rxe3 26.fxe3 Qa7 27.Qf4 Bc5 28.Qxf7+ Kh8 29.Kh1 Bxe3 30.Qf6+ Kh7 31.Qe7+ Kh8 32.Qe5+ Kh7 33.Rc7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 2: Fischer, Daniel - Collin, Moritz Valentin"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-2/ESzZiklc/XWejYnc5"]
+[Date "2026.07.12"]
+[Round "2.5"]
+[White "Fischer, Daniel"]
+[Black "Collin, Moritz Valentin"]
+[Result "0-1"]
+[WhiteElo "2366"]
+[BlackElo "2342"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O c5 7.c4 Nbc6 8.dxc5 d4 9.Qb3 Qc7 10.Na3 a6 11.Qa4 Rd8 12.b4 Ng6 13.Bd1 Rd7 14.Bb2 d3 15.Re1 h5 16.Nb1 Be7 17.Nbd2 Nf4 18.Ne4 Ne2+ 19.Bxe2 Bxe4 20.Bd1 Bg6 21.Bc3 h4 22.h3 O-O 23.Qb3 Rfd8 24.Qb2 Bf5 25.Qd2 Ra8 26.Ba4 Qd8 27.a3 Kh7 28.Rad1 g5 29.Qe3 Qg8 30.Bd2 Qg6 31.Nxg5+ Kh8 32.Kh1 Rg8 33.f4 f6 34.exf6 Bxf6 35.Qf2 Qh5 36.Qf3 Qxf3 37.Nxf3 Rdg7 38.Bxc6 bxc6 39.Ng5 Bb2 40.Rb1 Bd4 41.Nxe6 Rxg2 42.Nxd4 R2g3 43.Nf3 Rxf3 44.Bc3+ Kh7 45.Re7+ Kh6 46.Rb2 d2 47.Rxd2 Rxc3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Liu,Tianyi (Jack) - Tapp, James"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-6/57HKUSKh/Q8UvNk9L"]
+[Date "2026.07.10"]
+[Round "6.7"]
+[White "Liu,Tianyi (Jack)"]
+[Black "Tapp, James"]
+[Result "1-0"]
+[WhiteElo "2120"]
+[BlackElo "2048"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Qh5 Bxc5 6.Bd3 Nc6 7.Nf3 Nb4 8.O-O Nxd3 9.cxd3 Ne7 10.b4 Bxb4 11.Qg4 d4 12.Qxg7 Rg8 13.Qxh7 Qd5 14.a3 Ba5 15.Bd2 Bc7 16.Bg5 Bd7 17.Nbd2 Bxe5 18.Rfe1 Rh8 19.Rxe5 Qxe5 20.Qxf7+ Kxf7 21.Nxe5+ Ke8 22.Bxe7 Kxe7 23.Ng6+ Kd6 24.Nxh8 Rxh8 25.Rc1 Bc6 26.f4 b5 27.Nb3 Rb8 28.Nxd4 Bd5 29.Kf2 a5 30.g4 b4 31.axb4 axb4 32.Rc2 b3 33.Rb2 Kc5 34.Ke3 Kb4 35.Rxb3+ 1-0

@@ -1,0 +1,14 @@
+[Event "Round 5: Lu, Maximillian - Odegov, Artem"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-5/9Q1lRTRH/nylwihSX"]
+[Date "2026.07.17"]
+[Round "5.24"]
+[White "Lu, Maximillian"]
+[Black "Odegov, Artem"]
+[Result "1-0"]
+[WhiteElo "2458"]
+[BlackElo "2244"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.d3 Bb4+ 3.Nd2 c5 4.Nf3 Nc6 5.g3 Nge7 6.Bg2 O-O 7.O-O Ba5 8.a3 h6 9.Rb1 d6 10.Ne1 Be6 11.Nc2 Bxd2 12.Bxd2 d5 13.cxd5 Nxd5 14.b4 cxb4 15.Nxb4 Ndxb4 16.Bxb4 Nxb4 17.Rxb4 Bd5 18.Bxd5 Qxd5 19.Qb3 Qxb3 20.Rxb3 b6 21.Rc1 f6 22.Rbc3 Rf7 23.Kg2 Rd7 24.Rc7 Rad8 25.f4 exf4 26.gxf4 f5 27.h4 a5 28.Kf3 Kf7 29.R1c6 Rxc7 30.Rxc7+ Kg8 31.Rc6 Rb8 32.a4 b5 33.axb5 Rxb5 34.Ra6 h5 35.Ra7 Rd5 36.Ke3 Kh7 37.d4 Rb5 38.Kd3 Rb3+ 39.Kc4 Rh3 40.Rxa5 Rxh4 41.e3 Kg6 42.d5 Kf6 43.d6 Ke6 44.Rd5 Kd7 45.Kc5 g6 46.Re5 Rh1 47.Re7+ Kd8 48.Rg7 Re1 49.Kd4 Rg1 50.Ke5 Re1 51.Rxg6 Rxe3+ 52.Kxf5 Kd7 53.Kg5 Rh3 54.f5 Rf3 55.Rf6 Rh3 56.Rh6 Rf3 57.Rf6 Rh3 58.Rh6 Rf3 59.Rxh5 Kxd6 60.Kf6 Kd7 61.Kf7 Ra3 62.Rh1 Kd6 63.f6 Ke5 64.Rh5+ Kd6 65.Rh2 Ra7+ 66.Kg6 Ra1 67.Rd2+ Ke6 68.Re2+ Kd6 69.Kg7 Rg1+ 70.Kf8 Kd7 71.f7 Kd8 72.Rd2+ Kc7 73.Rd4 Rg2 74.Ke7 Re2+ 75.Kf6 Rf2+ 76.Kg6 Rf1 77.Rd5 1-0

@@ -1,0 +1,15 @@
+[Event "Round 5: Myers, Dominique - Belenkaya, Dina"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-5/kzSSFnA1/piRbjznf"]
+[Date "2026.07.04"]
+[Round "5.17"]
+[White "Myers, Dominique"]
+[Black "Belenkaya, Dina"]
+[Result "0-1"]
+[WhiteElo "2050"]
+[BlackElo "2120"]
+[ECO "B12"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 h6 7.Be3 Be7 8.Qd2 Bb4 9.O-O-O Ne7 10.f4 Be4 11.Rg1 h5 12.h3 hxg4 13.hxg4 Rh2 14.a3 Ba5 15.b4 Bb6 16.Nxe4 dxe4 17.c4 a5 18.Kb2 axb4 19.axb4 Na6 20.Kb3 Ng6 21.Qc2 Nxb4 22.Qxe4 Ba5 23.d5 cxd5 24.cxd5 Nxd5 25.f5 Nge7 26.fxe6 fxe6 27.Bc5 Qc7 28.Rc1 Qd7 29.Nd4 Bd2 30.Bb5 Nc6 31.Ra1 Nxd4+ 32.Kc4 Qxb5+ 33.Kxd4 Qb2+ 34.Kd3 Rh3+ 35.Ke2 Nc3+ 36.Kf2 Nxe4+ 37.Kg2 Rxa1 0-1

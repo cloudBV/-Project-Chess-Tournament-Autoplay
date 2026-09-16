@@ -1,0 +1,15 @@
+[Event "Round 6: Citak, Selim - Zor, Alber Kadir"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/4cVGGted"]
+[Date "2026.07.02"]
+[Round "6.25"]
+[White "Citak, Selim"]
+[Black "Zor, Alber Kadir"]
+[Result "1-0"]
+[WhiteElo "2310"]
+[BlackElo "2093"]
+[ECO "E90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bg7 5.e4 Bg4 6.Be2 Bxf3 7.Bxf3 e5 8.d5 h5 9.h4 Nbd7 10.g3 a5 11.O-O Bh6 12.Bxh6 Rxh6 13.a3 Kf8 14.b4 Kg7 15.Qd2 Nh7 16.Bg2 Qe7 17.Rac1 Rg8 18.Bh3 g5 19.Nd1 Kf8 20.Ne3 Rhg6 21.Nf5 Qf6 22.Kh2 gxh4 23.gxh4 Rg4 24.Bxg4 Rxg4 25.f3 Rxh4+ 26.Nxh4 Qxh4+ 27.Kg2 Qf6 28.Rh1 h4 29.Kf2 Ng5 30.Qe3 Qh6 31.Rcg1 f6 32.c5 h3 33.c6 bxc6 34.dxc6 Nb6 35.bxa5 Nc4 36.Qc3 h2 37.Rxg5 fxg5 38.Qxc4 g4 39.Qc1 Qh4+ 40.Ke2 g3 41.a6 g2 42.a7 Ke7 43.a8=Q Qg3 44.Rxh2 g1=N+ 45.Qxg1 1-0

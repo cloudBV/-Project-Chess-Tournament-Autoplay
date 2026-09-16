@@ -1,0 +1,14 @@
+[Event "Round 4: Harish, Neeraj - Stevens, Christian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/9UHiR0Jy"]
+[Date "2026.07.16"]
+[Round "4.23"]
+[White "Harish, Neeraj"]
+[Black "Stevens, Christian"]
+[Result "1-0"]
+[WhiteElo "2201"]
+[BlackElo "2014"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.a3 Qc7 8.g4 b5 9.g5 Nfd7 10.f4 Bb7 11.Qd2 Nb6 12.O-O-O N8d7 13.Kb1 Rc8 14.Bd3 Nc4 15.Bxc4 Qxc4 16.f5 e5 17.Nb3 b4 18.axb4 Qxb4 19.Qd3 Rxc3 20.bxc3 Qxe4 21.Rhe1 Be7 22.Bc1 Qxd3 23.Rxd3 d5 24.h4 f6 25.Nd4 Nc5 26.Rde3 Kf7 27.h5 Rb8 28.g6+ Kg8 29.gxh7+ Kxh7 30.h6 Bc8+ 31.Ka2 Ne4 32.Ne6 Bxe6 33.fxe6 g5 34.c4 Bb4 35.cxd5 Nd6 36.Ba3 a5 37.Rb1 Rb5 38.c3 Bxa3 39.Rxb5 Nxb5 40.c4 Bc5 41.cxb5 1-0

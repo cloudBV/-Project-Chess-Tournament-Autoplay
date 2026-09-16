@@ -1,0 +1,14 @@
+[Event "Round 6: Eberle, Triona - Wagenschuetz, Evelyn"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-women/round-6/NyU0zehL/kt1xJNpj"]
+[Date "2026.07.22"]
+[Round "7.1"]
+[White "Eberle, Triona"]
+[Black "Wagenschuetz, Evelyn"]
+[Result "1-0"]
+[WhiteElo "2058"]
+[BlackElo "2040"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.f3 Be6 9.Qd2 h5 10.O-O-O Nbd7 11.Kb1 Rc8 12.Qf2 b5 13.h3 h4 14.Bg5 Rxc3 15.bxc3 Nxe4 16.fxe4 Bxg5 17.Rxd6 Qc7 18.Rxa6 O-O 19.Bxb5 Qxc3 20.Qe1 Qc7 21.Qa5 Qxa5 22.Rxa5 Nb6 23.Rd1 Rc8 24.Ba6 Rb8 25.Be2 Bc4 26.Bxc4 Nxc4 27.Rc5 Ne3 28.Rg1 Bf4 29.a4 Rb4 30.a5 Ra4 31.Kb2 Nc4+ 32.Kc3 Na3 33.Ra1 f6 34.a6 Be3 35.Ra5 Bd4+ 36.Kd3 Rxa5 37.Nxa5 Nb5 38.Rb1 Na7 39.c3 Bf2 40.Kc4 f5 41.Kd5 fxe4 42.Kxe4 Kh7 43.Kxe5 Kg6 44.Kd5 Kg5 45.Rb2 Bg1 46.Nc6 Nc8 47.Nd4 1-0

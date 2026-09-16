@@ -1,0 +1,14 @@
+[Event "Round 5: Kavciyan, Yega - Tirard, Hugo"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-5/wxfOYRLM/VUi88qmA"]
+[Date "2026.07.21"]
+[Round "5.8"]
+[White "Kavciyan, Yega"]
+[Black "Tirard, Hugo"]
+[Result "1-0"]
+[WhiteElo "2098"]
+[BlackElo "2396"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Ne7 6.b3 f6 7.Nh4 d5 8.e5 Qa5+ 9.Kf1 f5 10.c4 Bd7 11.Nf3 h6 12.h4 O-O-O 13.Bd2 Qc7 14.Qe1 Re8 15.Nc3 g5 16.hxg5 Ng6 17.gxh6 f4 18.h7 Re7 19.Ng5 Rg7 20.g3 Qxe5 21.Qxe5 Nxe5 22.gxf4 Nxd3 23.Ke2 Nb4 24.Rac1 Be7 25.a3 Na6 26.Rh6 Nc7 27.Nce4 dxe4 28.Bc3 e5 29.Bxe5 Bg4+ 30.Ke3 Ne8 31.Bxg7 Nxg7 32.Nf7 Nf5+ 33.Kxe4 Nxh6 34.Nxh8 Bf6 35.Rh1 Bf5+ 36.Kf3 Bxh8 37.Rxh6 Kd7 38.Kg3 a5 39.Kh4 Bc2 40.Kg5 Bxb3 41.Rg6 Bxc4 42.Rg8 Bd4 43.Kg6 Bd3+ 44.f5 Kd6 45.Rd8+ Ke5 46.h8=Q+ 1-0

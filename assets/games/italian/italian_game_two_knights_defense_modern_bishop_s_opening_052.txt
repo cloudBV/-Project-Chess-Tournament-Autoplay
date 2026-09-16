@@ -1,0 +1,14 @@
+[Event "Round 3.Tiebreaks: Warmerdam, Max - Vrolijk, Liam"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-3tiebreaks/w29UMkYE/ssVE0C8T"]
+[Date "2026.07.09"]
+[Round "15.1"]
+[White "Warmerdam, Max"]
+[Black "Vrolijk, Liam"]
+[Result "0-1"]
+[WhiteElo "2533"]
+[BlackElo "2519"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Bb3 d6 7.c3 Na5 8.Bc2 c5 9.h3 Nc6 10.Re1 Re8 11.d4 cxd4 12.cxd4 exd4 13.Nxd4 d5 14.Nxc6 bxc6 15.exd5 Nxd5 16.Nd2 Be6 17.Bb3 Nf4 18.Bxe6 Nxe6 19.Nc4 Bf6 20.Be3 Qd5 21.Rc1 h6 22.b3 Red8 23.Qg4 h5 24.Qg3 c5 25.Bf4 Nxf4 26.Qxf4 Bg5 27.Qg3 Bxc1 28.Rxc1 Rac8 29.Qh4 g6 30.Rc3 Qd4 31.Qg3 h4 32.Qe3 Re8 33.Qc1 Re2 34.Rf3 Rxa2 35.Qg5 Re8 36.Kh2 Rxf2 0-1

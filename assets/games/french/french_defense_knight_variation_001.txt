@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "Karvatskyi, Oleksii"]
+[Black "Shevchenko, Yaroslav"]
+[Result "1-0"]
+[WhiteElo "2412"]
+[BlackElo "2285"]
+[ECO "C00"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Knight Variation"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.c3 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.d4 Bb5 8.a4 Bd7 9.O-O cxd4 10.Nxd4 Ne7 11.Nd2 Nc6 12.N2f3 Be7 13.Re1 O-O 14.g3 Rc8 15.h4 Nxd4 16.Nxd4 Rc4 17.h5 h6 18.a5 Rc5 19.Nb3 Rc4 20.Nd4 f5 21.exf6 Rxf6 22.Bf4 Qf8 23.Qd2 Bc5 24.b3 Rxd4 25.cxd4 Bb4 26.Qe3 Bxe1 27.Rxe1 Rf5 28.Rc1 e5 29.Bxe5 Rf3 30.Qe2 Rxb3 31.Rc7 Qf5 32.g4 Qe6 33.Kg2 Rb4 34.Qf3 a6 35.Qf4 Rb3 36.f3 Rb1 37.Qd2 Rb3 38.Qc2 Rb5 39.Qg6 Qxg6 40.hxg6 Be8 41.Rxg7+ Kf8 42.f4 Rb2+ 43.Kg3 Rb3+ 44.Kh4 Bb5 45.Rf7+ Ke8 46.Rxb7 Bc4 47.Rxb3 Bxb3 48.f5 1-0

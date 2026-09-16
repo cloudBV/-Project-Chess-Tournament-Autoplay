@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "7.18"]
+[White "Venkatesh, Narayan"]
+[Black "Baron, Tal"]
+[Result "1/2-1/2"]
+[WhiteElo "2270"]
+[BlackElo "2410"]
+[ECO "A15"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.c4 Nf6 2.Nf3 c5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc6 6.d4 cxd4 7.Nxd4 Ndb4 8.Nxc6 Qxd1+ 9.Kxd1 Nxc6 10.Bxc6+ bxc6 11.Be3 e5 12.f3 Bb4 13.a3 Ba5 14.Nd2 Be6 15.Rc1 Bxd2 16.Kxd2 Kd7 17.Rc5 Rhb8 18.Kc1 Rb5 19.Rd1+ Kc7 20.Rd3 a5 21.Rdc3 Rxc5 22.Bxc5 a4 23.Rd3 Ra5 24.Bd6+ Kc8 25.e4 h5 26.f4 exf4 27.gxf4 g6 28.Kd2 f5 29.e5 Rd5 30.Rxd5 Bxd5 31.Bc5 h4 32.h3 Bg2 33.Bf2 Bxh3 34.Bxh4 Kd7 35.Kc3 c5 36.Bf2 Bg4 37.Bxc5 Bd1 38.b4 axb3 39.Kb2 Ke6 40.Bd4 Kd5 41.Bc3 Bc2 42.a4 g5 43.Bd2 gxf4 44.Bxf4 Bd1 45.a5 Kc6 46.e6 Kb5 47.e7 Bh5 48.Kxb3 1/2-1/2

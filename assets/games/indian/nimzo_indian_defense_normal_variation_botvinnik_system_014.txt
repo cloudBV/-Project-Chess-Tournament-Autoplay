@@ -1,0 +1,14 @@
+[Event "Round 7: Pavlidou, Ekaterini - Markantonaki, Haritomeni"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-7/jjrkSkvx/7e8RhAw9"]
+[Date "2026.07.10"]
+[Round "7.5"]
+[White "Pavlidou, Ekaterini"]
+[Black "Markantonaki, Haritomeni"]
+[Result "1-0"]
+[WhiteElo "2144"]
+[BlackElo "2127"]
+[ECO "E49"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Bd3 e5 11.O-O Nc6 12.Ng3 Be6 13.f4 exd4 14.cxd4 cxd4 15.e4 Na5 16.e5 Bb3 17.Qe2 Rfe8 18.Bb2 Rad8 19.Nf5 Bc4 20.Rac1 b5 21.Nxg7 Qb6 22.Nxe8 Rxe8 23.Rf3 Nd5 24.Rg3+ Kf8 25.Qe4 Nc3 26.Bxc3 dxc3+ 27.Qe3 Nb3 28.Rxc3 Nd2 29.Qxb6 axb6 30.Bxh7 Ke7 31.Rg8 Rxg8 32.Bxg8 Ke6 33.Rc1 Kf5 34.g3 Ke4 35.Kf2 Kd4 36.Rd1 Kc3 37.Ke3 Nf1+ 38.Rxf1 Bxf1 39.h4 Bh3 40.h5 Bf5 41.h6 Kb2 42.h7 Bxh7 43.Bxh7 Kxa3 44.Bg8 1-0

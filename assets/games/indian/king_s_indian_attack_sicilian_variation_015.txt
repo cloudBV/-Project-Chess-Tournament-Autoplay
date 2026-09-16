@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "8.1"]
+[White "Lie, Kjetil A."]
+[Black "Urkedal, Frode Olav Olsen"]
+[Result "1/2-1/2"]
+[WhiteElo "2459"]
+[BlackElo "2567"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d4 cxd4 6.Nxd4 Bg7 7.Nb3 O-O 8.Nc3 e6 9.e4 Nc6 10.exd5 exd5 11.Bg5 h6 12.Be3 Re8 13.Qd2 Ng4 14.Bc5 d4 15.Ne4 Re6 16.Rad1 d3 17.Qxd3 Qxd3 18.cxd3 Nf6 19.Nd6 Re2 20.Ba3 Bf8 21.Rfe1 Rxe1+ 22.Rxe1 Rb8 23.Ne8 Nh7 24.Bxf8 Kxf8 25.Nd6 Nf6 26.Kf1 Nb4 27.d4 Be6 28.Nc5 Bxa2 29.Ncxb7 Bd5 30.Bxd5 Nfxd5 31.Ra1 Nc6 32.Na5 Ncb4 33.Nac4 a6 34.Ne5 Ra8 35.Ndxf7 Kg7 36.Nd6 Rd8 37.Nb7 Rf8 38.Nc5 Rb8 39.Nc4 Nc7 40.Re1 Nc6 41.Ne6+ Nxe6 42.Rxe6 Nxd4 43.Rxa6 Nf3 44.Rb6 Nxh2+ 45.Kg2 Rxb6 46.Nxb6 Ng4 47.Nd5 Kf7 48.b4 Ne5 49.f4 Nc4 50.Kf3 Ke6 51.Nc3 h5 52.b5 Kd6 53.Ne4+ Kd5 54.Nf6+ Ke6 55.Nh7 Kf5 56.Ng5 Nb6 57.Nf7 Ke6 58.Nd8+ Kf5 59.Nc6 g5 60.Nd4+ Kf6 61.Ke4 Na4 62.Kd3 gxf4 63.gxf4 h4 64.Ke3 Nc3 65.Kf3 Nd5 66.Kg4 h3 67.Kg3 Ke7 68.Nb3 Nxf4 69.b6 Kd7 70.Nc5+ Kc6 71.b7 Kc7 72.Ne6+ Nxe6 73.b8=Q+ Kxb8 74.Kxh3 1/2-1/2

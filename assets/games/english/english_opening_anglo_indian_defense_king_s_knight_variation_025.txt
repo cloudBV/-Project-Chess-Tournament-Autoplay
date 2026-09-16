@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "10.1"]
+[White "Mulawa, Cyprian"]
+[Black "Cnejev, Vladimir-Alexandru"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2381"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 Be7 5.b3 O-O 6.Bb2 dxc4 7.Bxc4 a6 8.a4 c5 9.O-O Nc6 10.d4 cxd4 11.exd4 Na5 12.Ne5 Qb6 13.Qc2 Rd8 14.Rfd1 Bd7 15.d5 exd5 16.Nxd5 Nxd5 17.Nxd7 Rxd7 18.Rxd5 Rxd5 19.Bxd5 Rd8 20.Rd1 Bf6 21.Bxf6 Qxf6 22.Qc7 Nc6 23.Bxf7+ Kf8 24.Rxd8+ Nxd8 25.Bc4 Qa1+ 26.Bf1 Ne6 27.Qxb7 Nd4 28.Qb8+ Ke7 29.Qe5+ Kf7 30.Qe4 Qd1 31.b4 h6 32.h4 Kg8 33.g3 Nf3+ 34.Kg2 Ne1+ 35.Kh3 Qd7+ 36.Qg4 Qe7 37.Bc4+ Kh8 38.Qc8+ Kh7 39.Qf5+ Kh8 40.Qe6 Qxe6+ 41.Bxe6 Nd3 42.b5 axb5 43.axb5 Nxf2+ 44.Kg2 Ne4 45.b6 Nc5 46.Bd5 g5 47.hxg5 hxg5 48.Kf3 Kg7 49.Ke3 Kf6 50.Kd4 Nd7 51.b7 Ke7 52.Bc6 Nb8 53.Bf3 Kd6 54.Ke4 Ke6 55.Bg4+ Kf6 56.Kd5 Na6 57.Kc6 Ke5 58.Kb6 Nb8 59.Kc7 Na6+ 60.Kc8 1-0

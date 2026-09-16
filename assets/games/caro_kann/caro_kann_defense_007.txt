@@ -1,0 +1,15 @@
+[Event "Round 6: Radovanovic, Nikola - Postnikov, Artem"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-6/343OmIpb/JJ6jWope"]
+[Date "2026.07.08"]
+[Round "6.6"]
+[White "Radovanovic, Nikola"]
+[Black "Postnikov, Artem"]
+[Result "1-0"]
+[WhiteElo "2433"]
+[BlackElo "2324"]
+[ECO "B10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.Nf3 d5 3.e5 Bf5 4.Nh4 Bd7 5.d4 c5 6.dxc5 e6 7.Nf3 Bxc5 8.Bd3 Nc6 9.O-O Nge7 10.c3 Ng6 11.Re1 Bb6 12.Na3 O-O 13.Nb5 f6 14.exf6 Qxf6 15.Bg5 Bxf2+ 16.Kh1 1-0

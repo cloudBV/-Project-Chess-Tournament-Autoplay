@@ -1,0 +1,14 @@
+[Event "Round 4: Fomkin, Dmitry - Djukic, Nikola"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/zBZjiNcC"]
+[Date "2026.07.06"]
+[Round "4.9"]
+[White "Fomkin, Dmitry"]
+[Black "Djukic, Nikola"]
+[Result "1/2-1/2"]
+[WhiteElo "2358"]
+[BlackElo "2470"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 a5 11.O-O a4 12.Bd4 Bd7 13.Rad1 Bc6 14.Qe3 Nd7 15.Bxg7 Kxg7 16.Nd5 Bxd5 17.exd5 Qb6 18.Qc3+ Kg8 19.Rfe1 Rae8 20.Bf1 Nc5 21.Re3 f5 22.Rde1 Ne4 23.Qc2 Qd4 24.Kh1 e5 25.dxe6 Rxe6 26.Kg1 Rfe8 27.Rd1 Qc5 28.Red3 Qb6 29.g3 Rc8 30.Bg2 Qc5 31.Rd4 b5 32.b3 axb3 33.axb3 Qc6 34.Bxe4 fxe4 35.Qd2 bxc4 36.Rxc4 Qe8 37.Qd5 Rxc4 38.bxc4 Qf7 39.Ra1 Re8 40.Qxd6 Qxc4 41.Ra7 e3 42.fxe3 Qc1+ 43.Kg2 1/2-1/2

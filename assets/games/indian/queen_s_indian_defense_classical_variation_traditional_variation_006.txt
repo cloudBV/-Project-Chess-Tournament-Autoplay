@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.8"]
+[White "Jasiulewicz, Dawid"]
+[Black "Bochniak, Franciszek"]
+[Result "0-1"]
+[WhiteElo "2085"]
+[BlackElo "2163"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 b6 3.Nf3 Bb7 4.g3 e6 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 Nxc3 9.Bxc3 d6 10.d5 e5 11.e4 Nd7 12.b4 a5 13.a3 axb4 14.axb4 Ba6 15.Qe2 Qb8 16.Bh3 Nf6 17.b5 Bc8 18.Bxc8 Qxc8 19.Nd2 g6 20.Rxa8 Qxa8 21.Ra1 Qc8 22.Ra7 Nh5 23.Nf3 f5 24.Kg2 f4 25.h3 fxg3 26.fxg3 Bd8 27.Bd2 Qd7 28.Bh6 Re8 29.Qe3 Qf7 30.Ra1 Bf6 31.Rf1 Qe7 32.Bg5 Ra8 33.Rf2 Ra4 34.Bxf6 Nxf6 35.Nd2 Kg7 36.Qg5 Nxd5 37.Qxe7+ Nxe7 38.Rf3 Ra2 39.Rd3 Ng8 40.c5 bxc5 41.b6 cxb6 42.Kf3 b5 43.Rxd6 c4 44.Nb1 Rb2 45.Nd2 c3 46.Nf1 c2 47.Rc6 Rb1 48.Rxc2 Rxf1+ 49.Ke2 Rb1 0-1

@@ -1,0 +1,15 @@
+[Event "Round 9: Safranek, William - Yudasin, Leonid"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-c/round-9/IqZlTsD4/HEyMPf2j"]
+[Date "2026.07.12"]
+[Round "9.5"]
+[White "Safranek, William"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2252"]
+[BlackElo "2255"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 d6 4.d4 Nf6 5.Nc3 cxd4 6.Qxd4 Nc6 7.Qe3 Qa5 8.Bb2 Be7 9.O-O-O a6 10.Kb1 Ng4 11.Qe1 b5 12.Nd4 Nxd4 13.Rxd4 Bb7 14.f3 Nf6 15.Rd1 Rc8 16.h4 Qc7 17.Bd3 Nd7 18.Ne2 Bf6 19.Qg3 Bxb2 20.Kxb2 O-O 21.h5 h6 22.Rh4 Ne5 23.f4 Nxd3+ 24.Qxd3 f5 25.exf5 exf5 26.Nd4 Be4 27.Qd2 Qe7 28.Rh3 Qf6 29.Rc1 Rc5 30.Rg3 Rd5 31.Rd1 Qh4 32.Qc3 Rf7 33.Ne6 Qxg3 34.Qxg3 Rxd1 35.Qc3 Rg1 36.Qc8+ Kh7 37.Qe8 Rf6 38.Ng5+ hxg5 39.fxg5 Rxg2 40.gxf6 gxf6 41.Ka3 Bxc2 42.Qa8 Be4 43.Qxa6 Kh6 44.Qxd6 Kxh5 45.Qxf6 b4+ 46.Kxb4 Rxa2 47.Kc3 Kg4 48.b4 Ra1 1/2-1/2

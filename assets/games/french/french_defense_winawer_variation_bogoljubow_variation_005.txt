@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.6"]
+[White "Tabuenca Mendataurigoitia, Daniel"]
+[Black "Jasiulewicz, Dawid"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2225"]
+[ECO "C17"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Ne7 6.a3 Bxc3 7.Bxc3 b6 8.h4 Nbc6 9.h5 cxd4 10.Bxd4 Nxd4 11.Qxd4 O-O 12.Nf3 f6 13.exf6 gxf6 14.O-O-O e5 15.Qd2 Bf5 16.Nh4 Qd7 17.Nxf5 Qxf5 18.f3 Rac8 19.Bd3 Qe6 20.Kb1 d4 21.g4 Qf7 22.g5 f5 23.Rde1 Rc5 24.g6 Qf6 25.Reg1 f4 26.gxh7+ Kh8 27.Qg2 Rcc8 28.Qg4 Rcd8 29.h6 Rf7 30.Rh5 Rff8 31.Qg7+ 1-0

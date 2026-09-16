@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.06.30"]
+[Round "2.1"]
+[White "Gnojek, Petr"]
+[Black "Bokhnak, Tymofii"]
+[Result "1-0"]
+[WhiteElo "2402"]
+[BlackElo "2147"]
+[ECO "A14"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Keres Defense"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 Nc6 4.Bg2 e6 5.Nf3 d5 6.cxd5 Nxd5 7.O-O Be7 8.d4 O-O 9.e4 Nxc3 10.bxc3 Bf6 11.Be3 Qa5 12.Qb3 Rd8 13.Rfd1 Bd7 14.Rab1 Rac8 15.e5 Be7 16.Bg5 b6 17.Qb2 h6 18.Bxe7 Nxe7 19.Nd2 Ba4 20.Rdc1 cxd4 21.cxd4 Nf5 22.Rxc8 Rxc8 23.Be4 Qc3 24.Qxc3 Rxc3 25.d5 Bc2 26.Rc1 Nd4 27.d6 Kf8 28.Re1 Bxe4 29.Rxe4 Rd3 30.Nc4 b5 31.Na5 f5 32.exf6 gxf6 33.Nb7 f5 34.Re3 Rxe3 35.fxe3 Nf3+ 36.Kf2 Ne5 37.e4 Ke8 38.exf5 exf5 39.Ke3 Kd7 40.Kd4 Ng4 41.h3 Nf2 42.Ke5 Ne4 43.g4 fxg4 44.hxg4 Ng5 45.Kd5 b4 46.Nc5+ Kd8 47.Kc6 Nf7 48.Nb7+ Ke8 49.d7+ Ke7 50.Kc7 a6 51.Nd6 Nd8 52.Nf5+ 1-0

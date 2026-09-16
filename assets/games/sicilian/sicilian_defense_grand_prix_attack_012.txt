@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/2rWEp94V"]
+[Date "2026.07.22"]
+[Round "4.15"]
+[White "Aditya Kunal Patil"]
+[Black "Slavensky, Asbjorn Vesterkar"]
+[Result "0-1"]
+[WhiteElo "2105"]
+[BlackElo "2193"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bc4 e6 6.e5 d6 7.exd6 Qxd6 8.Ne4 Qe7 9.d3 Nh6 10.Bb5 Bd7 11.c3 O-O 12.O-O a6 13.Ba4 b5 14.Bb3 Rfc8 15.Ne5 Be8 16.Qf3 f6 17.Nxc6 Bxc6 18.Qe2 Bd5 19.Re1 c4 20.Bc2 Nf7 21.d4 Re8 22.Ng3 f5 23.Bd2 Nd6 24.Qf2 h5 25.Re3 Kf7 26.Rae1 h4 27.Nf1 Ne4 28.Bxe4 Bxe4 29.Bc1 Bf6 30.Nd2 Bd5 31.Rh3 Rh8 32.Nf3 Bxf3 33.Qxf3 Rad8 34.Qe2 Qd6 35.Re3 Rhe8 36.Qf3 Qd5 37.Kf2 b4 38.Qxd5 Rxd5 39.Ke2 a5 40.Kd1 a4 41.a3 bxa3 42.bxa3 Rd6 43.R1e2 Rb8 44.Rb2 Rb3 45.Ra2 Rdb6 46.Kc2 R6b5 47.Re2 Be7 48.Re3 Bd6 49.Rh3 Be7 50.Re3 Bf6 51.Re2 Rb8 52.Ra1 Rd8 53.Bb2 Be7 54.Bc1 Bd6 55.h3 Be7 56.Ra2 Bf6 57.Ra1 Rg8 58.Bb2 g5 59.fxg5 Rxg5 60.Rae1 Rg3 61.Rf1 Be7 62.d5 Bxa3 63.dxe6+ Ke7 64.Ba1 Rg5 65.Rf4 Rb6 66.Rxc4 Rxe6 67.Rd2 Re4 68.Rxe4+ fxe4 69.Re2 Re5 70.c4 Re6 71.Bc3 Bc5 72.Be1 Kd7 73.Bxh4 e3 74.Be1 Kc6 75.g4 Bd4 76.g5 Kc5 77.Kd3 Rd6 78.Ra2 a3 79.h4 Bb2+ 80.Kc2 Kxc4 81.Ba5 e2 82.h5 Rd5 83.Be1 Rxg5 84.Kd2 Kb3 0-1

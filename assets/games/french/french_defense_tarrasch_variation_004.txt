@@ -1,0 +1,14 @@
+[Event "Round 4: Deveci, Huseyin Said - Mohamed Anees M"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-4/6iY9DC5k/wCgWCiRl"]
+[Date "2026.07.06"]
+[Round "4.12"]
+[White "Deveci, Huseyin Said"]
+[Black "Mohamed Anees M"]
+[Result "0-1"]
+[WhiteElo "2250"]
+[BlackElo "2415"]
+[ECO "C03"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 h6 4.Ngf3 Nf6 5.Bd3 c5 6.exd5 exd5 7.O-O c4 8.Re1+ Be7 9.Bf1 O-O 10.c3 Nc6 11.b3 cxb3 12.axb3 Bf5 13.b4 a6 14.Nb3 Qc7 15.Nc5 Bd6 16.h3 Ne4 17.Qb3 Rad8 18.Ra2 Kh8 19.Rae2 Rfe8 20.g4 Bh7 21.Bg2 Re7 22.Be3 Rde8 23.Nd2 Nxf2 24.Rxf2 Rxe3 25.Rxe3 Rxe3 26.Qxd5 Nd8 27.Nce4 Be7 28.Qe5 Qxe5 29.dxe5 Bg6 30.Rf1 Rd3 31.Kf2 Nc6 32.Ke2 Rd5 33.Nc4 Nxe5 34.Nf2 Rb5 35.Na5 b6 36.Nb3 Nc4 37.Nd3 Bf6 38.Nd4 Rg5 39.Nf3 Rd5 40.Nf4 Rd6 41.Nxg6+ fxg6 42.Ra1 b5 43.Nd4 Bxd4 44.cxd4 Rxd4 45.Rxa6 Rd2+ 46.Kf3 g5 47.Ra8+ Kh7 48.Rb8 Nd6 49.Bf1 Rd5 50.Rd8 Rd4 51.Be2 g6 52.Rb8 Rxb4 53.Rb6 Rb3+ 54.Kf2 Ne4+ 55.Kg2 b4 56.Rb7+ Kh8 57.Bc4 Rb2+ 58.Kg1 Nd6 59.Rb8+ Kg7 60.Bd5 Kf6 61.Rb6 Ke5 62.Bg8 h5 63.Kf1 h4 64.Ke1 Ne4 65.Rxg6 Kf4 66.Kd1 b3 67.Rb6 Rd2+ 68.Ke1 b2 69.Rb4 Rh2 70.Ba2 b1=Q+ 71.Bxb1 Rh1+ 72.Ke2 Rxb1 73.Rxb1 Nc3+ 0-1

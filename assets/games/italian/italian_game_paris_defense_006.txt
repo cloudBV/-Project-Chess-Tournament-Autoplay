@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "6.3"]
+[White "Warchol, Kamil"]
+[Black "Tabuenca Mendataurigoitia, Daniel"]
+[Result "1-0"]
+[WhiteElo "2297"]
+[BlackElo "2368"]
+[ECO "C50"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.c3 f5 5.d3 Qf6 6.Qb3 Nge7 7.Bg5 Qg6 8.Nbd2 h6 9.Bxe7 Bxe7 10.exf5 Qxf5 11.O-O-O g5 12.h3 Kd8 13.Bd5 Bd7 14.Nc4 Kc8 15.Rhe1 a5 16.d4 a4 17.Qb5 e4 18.Rxe4 Bd8 19.Ne3 Qg6 20.Re1 Na5 21.Qb4 c6 22.Nc4 Nxc4 23.Bxc4 a3 24.Be6 axb2+ 25.Kxb2 Bxe6 26.Rxe6 Qd3 27.Re8 Rxe8 28.Rxe8 Kc7 29.Qb3 b5 30.Re3 Qf1 31.Qc2 Kb6 32.Ne1 g4 33.Qe2 Qh1 34.Qxg4 Bg5 35.Re6 Rf8 36.Qe2 Qh2 37.f3 Qf4 38.Nd3 Qf7 39.Rxd6 Re8 40.Qc2 Ra8 41.Rxc6+ Kb7 42.Nb4 Rxa2+ 43.Nxa2 Kxc6 44.Nb4+ Kd6 45.Qe2 Qf4 46.Nd3 Qf5 47.Qe5+ Qxe5 48.Nxe5 Kd5 49.Kc2 b4 50.cxb4 Kxd4 51.Nf7 Be3 52.b5 Kc5 53.Kd3 Bc1 54.Ke4 Kxb5 55.g4 Kc6 56.f4 Kd7 57.Nxh6 Bd2 58.g5 Bc1 59.Ng4 Bd2 60.h4 Bc1 61.h5 Ke7 62.h6 Kf7 63.Kf5 Bb2 64.Ne5+ Kg8 65.Kg6 Kh8 66.Nf7+ Kg8 67.h7+ Kf8 68.h8=Q+ Bxh8 69.Nxh8 Kg8 70.Nf7 Kf8 71.f5 Kg8 72.f6 Kf8 73.Ne5 Kg8 74.Nd7 Kh8 75.Kh6 Kg8 76.g6 Kh8 77.Kh5 Kg8 78.f7+ Kg7 79.f8=Q# 1-0

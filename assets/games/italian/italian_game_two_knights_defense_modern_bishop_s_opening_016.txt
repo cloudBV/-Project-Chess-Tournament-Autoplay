@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.06.28"]
+[Round "1.1"]
+[White "Unneland, Mathias"]
+[Black "Melaa, Sondre"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2326"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.a4 a5 6.c3 Bc5 7.O-O d6 8.d4 Ba7 9.dxe5 Nxe5 10.Nxe5 dxe5 11.Qxd8+ Kxd8 12.Nd2 Ke7 13.Re1 Be6 14.Bxe6 Kxe6 15.Nc4 Rhd8 16.Kf1 Bc5 17.f3 b6 18.Ke2 Rd7 19.Bd2 Ne8 20.Rad1 c6 21.Be3 Rxd1 22.Rxd1 Bxe3 23.Kxe3 b5 24.axb5 cxb5 25.Nb6 Ra7 26.Rd8 Nc7 27.Nd5 Rb7 28.g3 Nxd5+ 29.exd5+ Ke7 30.Ra8 Kd6 31.Ke4 f5+ 32.Kxf5 Kxd5 33.Rxa5 Kc4 34.Kxe5 Kb3 35.Ra6 Kxb2 36.Rc6 Re7+ 37.Kf4 Rf7+ 38.Kg4 Rf6 39.Rc5 Rg6+ 40.Kh4 Rg5 41.Rc6 Kc2 42.f4 Rf5 43.Kg4 Rf7 44.Rb6 Kxc3 45.Rxb5 Kd4 46.Re5 Ra7 47.h4 Ra3 48.Re7 h5+ 49.Kh3 g6 50.Re6 Kd5 51.Rxg6 Ke4 52.Rb6 Kf3 53.Rb1 Kf2 54.Rb2+ Kf3 55.f5 Ra5 56.Rb3+ Ke4 57.f6 Rf5 58.Rb4+ Ke5 59.f7 Ke6 60.Rb5 1-0

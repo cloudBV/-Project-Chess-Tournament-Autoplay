@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "11.5"]
+[White "Sowinski, Pawel"]
+[Black "Lehocz, Jozsef Jr."]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2100"]
+[ECO "B50"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 g6 5.O-O Bg7 6.Nbd2 O-O 7.c3 Nc6 8.Bb3 b5 9.d4 cxd4 10.cxd4 d5 11.e5 Ne4 12.Re1 Nxd2 13.Bxd2 Bf5 14.Be3 Na5 15.Rc1 Nc4 16.Qe2 Rc8 17.h3 a5 18.Bc2 Bxc2 19.Rxc2 Qd7 20.Rec1 Nxe3 21.Qxe3 Rxc2 22.Rxc2 Rc8 23.Qc1 Rxc2 24.Qxc2 e6 25.Kf1 Bf8 26.Ke2 h6 27.h4 Be7 28.g3 Kg7 29.Ne1 h5 30.Nd3 Qb7 31.Ke3 b4 32.b3 Qb5 33.Qc7 Kf8 34.f3 a4 35.Qc8+ Kg7 36.Qa8 axb3 37.axb3 Qb6 38.Qa1 Qc7 39.Qc1 Qa7 40.Qc2 Qa1 41.Nf2 Qe1+ 42.Kd3 Qf1+ 43.Qe2 Qb1+ 44.Qc2 Qf1+ 45.Qe2 Qb1+ 46.Qc2 Qf1+ 1/2-1/2

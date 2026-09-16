@@ -1,0 +1,14 @@
+[Event "Round 4: Li Chen, Helena Joana - Perez Garcia, Jimena"]
+[Site "https://lichess.org/broadcast/campeonato-de-canarias-absoluto-y-femenino-2026/round-4/rj7tTBdy/1chx9MHP"]
+[Date "2026.07.17"]
+[Round "4.2"]
+[White "Li Chen, Helena Joana"]
+[Black "Perez Garcia, Jimena"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2000"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.Nd2 e6 8.a4 Nh6 9.Nf3 Nf5 10.b3 Be7 11.O-O O-O 12.c4 Rd8 13.c5 b6 14.b4 Qxb4 15.Ba3 Qa5 16.Rfc1 Rc8 17.g3 Qa6 18.Qxa6 Nxa6 19.cxb6 axb6 20.Bxe7 Nxe7 21.a5 bxa5 22.Rxa5 Nc7 23.Rca1 Rxa5 24.Rxa5 Ra8 25.Rxa8+ Nxa8 26.Nb3 Nc7 27.Nc5 f6 28.Kf1 Kf7 29.Nd3 Nb5 30.Nb4 Nxd4 31.Nxd4 c5 32.exf6 Kxf6 33.Ndc2 cxb4 34.Nxb4 Kf5 35.Ke2 e5 36.Nd3 Nc6 37.f3 Nd4+ 38.Kf2 Nxf3 39.Nb4 Ke4 40.Na6 Nd4 41.Nc7 Nf5 42.Ne6 Kd3 43.Nc5+ Kd2 44.Nb3+ Kc2 45.Nc5 d4 46.Kf3 d3 47.Ne4 d2 48.Nf2 d1=Q+ 49.Nxd1 Kxd1 50.Ke4 Nxg3+ 51.Kxe5 Ke2 52.Kf4 Kf2 53.Kg5 Kf3 54.Kg6 Kg4 55.Kxg7 Kxh4 56.Kf6 Kg4 57.Ke5 h4 58.Kd4 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Balabayeva, Xeniya - Baenziger, Fabian"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-6/kgWWBJae/6Xwzb3CO"]
+[Date "2026.07.18"]
+[Round "6.5"]
+[White "Balabayeva, Xeniya"]
+[Black "Baenziger, Fabian"]
+[Result "1/2-1/2"]
+[WhiteElo "2302"]
+[BlackElo "2435"]
+[ECO "E49"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5 9.Ne2 Qc7 10.Ba2 b6 11.O-O Rd8 12.Re1 Nc6 13.Ng3 Ba6 14.Rb1 Rac8 15.Rb2 cxd4 16.cxd4 Ne5 17.Rd2 Nd3 18.Rxd3 Qxc1 19.Qxc1 Rxc1 20.Rxc1 Bxd3 21.f3 Kf8 22.Kf2 Ba6 23.Ne2 Rc8 24.Rc2 Rc7 25.Rxc7 Bc8 1/2-1/2

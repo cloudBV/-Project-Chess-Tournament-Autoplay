@@ -1,0 +1,15 @@
+[Event "Round 6: Babrikowski, Peter, Dr. - Broemel, Richard"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-65/round-6/rzZuj9bq/ipWKnnFz"]
+[Date "2026.07.11"]
+[Round "6.2"]
+[White "Babrikowski, Peter, Dr."]
+[Black "Broemel, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo "2156"]
+[BlackElo "2093"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Gurgenidze System"]
+
+1.e4 c6 2.d4 g6 3.Nc3 d5 1/2-1/2

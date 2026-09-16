@@ -1,0 +1,15 @@
+[Event "Round 5: Rakhmatullaev, Almas - Iskandarov, Misratdin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/JsfnoF2r"]
+[Date "2026.07.16"]
+[Round "5.1"]
+[White "Rakhmatullaev, Almas"]
+[Black "Iskandarov, Misratdin"]
+[Result "1-0"]
+[WhiteElo "2389"]
+[BlackElo "2520"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.c3 a6 6.Bxc6 dxc6 7.d4 exd4 8.cxd4 Bg4 9.dxc5 Bxc5 10.Qc2 Qe7 11.Nbd2 Nf6 12.e5 Nd7 13.Re1 h6 14.h3 Bxf3 15.Nxf3 O-O-O 16.a3 Bb6 17.b4 Nf8 18.b5 axb5 19.a4 b4 20.a5 Ba7 21.a6 Ne6 22.Be3 Bxe3 23.Rxe3 Kb8 24.axb7 Qxb7 25.Nd2 Rd5 26.Nc4 Rhd8 27.Nd6 R8xd6 28.exd6 Rxd6 29.Re5 c5 30.Qc4 Rd4 31.Qb3 Rd6 32.Qg3 Qc7 33.Re2 Rb6 34.Rxe6 fxe6 35.Ra8+ Kb7 36.Ra7+ Kxa7 37.Qxc7+ Ka6 38.Qxc5 b3 39.Qa3+ Kb7 40.Qb2 Ka6 41.Kf1 Rb5 42.Ke2 Ka5 43.Kd3 Kb4 44.Qd4+ Ka5 45.Kc3 1-0

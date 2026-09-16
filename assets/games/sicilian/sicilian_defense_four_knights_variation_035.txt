@@ -1,0 +1,15 @@
+[Event "Round 6: Prokhorov, Aleksey - Wang, Yinuo(LN)"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-6/nTpH1yCB/tfFI1Zjk"]
+[Date "2026.07.21"]
+[Round "6.12"]
+[White "Prokhorov, Aleksey"]
+[Black "Wang, Yinuo(LN)"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2136"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Qd3 d5 7.exd5 Nb4 8.Qg3 Bc5 9.Bb5+ Kf8 10.a3 Nbxd5 11.Nde2 a6 12.Bd3 b5 13.Nxd5 Qxd5 14.Nc3 Qc6 15.Be2 Bb7 16.Bf3 Qb6 17.O-O Bd6 18.Bf4 Bxf4 19.Qxf4 Bxf3 20.Qxf3 Ke7 21.Qg3 h5 22.Rad1 h4 23.Qf4 h3 24.Rfe1 Qc6 25.Qb4+ Ke8 26.Ne4 Nxe4 27.Qxe4 Qxe4 28.Rxe4 1/2-1/2

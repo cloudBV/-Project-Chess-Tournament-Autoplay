@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.5"]
+[White "Gandrud, Vegar Koi"]
+[Black "Ingebretsen, Jens E"]
+[Result "1/2-1/2"]
+[WhiteElo "2283"]
+[BlackElo "2433"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Dzindzi-Indian Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 a6 4.Nc3 d5 5.g3 dxc4 6.Bg2 b5 7.Ne5 Nd5 8.a4 Bb7 9.Bxd5 Bxd5 10.e4 Bb7 11.axb5 axb5 12.Rxa8 Bxa8 13.O-O Bd6 14.Nxb5 Bxe4 15.Qg4 Bg6 16.Bg5 Qc8 17.Nxc4 Qd7 18.Nbxd6+ cxd6 19.Bf4 O-O 20.Bxd6 Rc8 21.Bc5 Qd8 22.Ne5 Bf5 23.Qf3 Qd5 24.Qxd5 exd5 25.g4 Bc2 26.Rc1 Ba4 27.Ra1 Be8 28.Ra8 f6 29.Bd6 fxe5 30.Bxe5 Bd7 31.Rxb8 Rxb8 32.Bxb8 Bxg4 33.Kg2 Kf7 34.Kg3 Bd1 35.Kf4 Ke6 36.Be5 g6 37.Kg5 Kf7 38.Kh6 Kg8 39.b4 Be2 40.h4 Bb5 41.Bd6 Be2 42.Bc7 Bb5 43.f4 Be2 44.f5 gxf5 45.Kg5 Kf7 46.Kxf5 Ke7 47.Ke5 Bc4 48.b5 Bxb5 1/2-1/2

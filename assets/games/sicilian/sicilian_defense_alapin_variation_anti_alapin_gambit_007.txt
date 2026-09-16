@@ -1,0 +1,14 @@
+[Event "Round 8: Kuhn, Gerhard - Daverkausen, Bernd"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-8/1J1DUZFK/OSDlsSWm"]
+[Date "2026.07.24"]
+[Round "8.13"]
+[White "Kuhn, Gerhard"]
+[Black "Daverkausen, Bernd"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2108"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation, Anti-Alapin Gambit"]
+
+1.e4 c5 2.c3 d5 3.exd5 Nf6 4.Nf3 Nxd5 5.d4 cxd4 6.cxd4 g6 7.Nc3 Bg7 8.Qb3 Nxc3 9.bxc3 O-O 10.Be2 Nc6 11.O-O Qc7 12.Bg5 e5 13.d5 Na5 14.Qb4 f6 15.Be3 Rd8 16.Rfd1 Bf8 17.Qh4 Be7 18.Rac1 b6 19.c4 Nb7 20.Qg3 Nd6 21.Nd2 Nf5 22.Qf3 Nh4 23.Qg3 Nf5 24.Qf3 Nxe3 25.fxe3 f5 26.Nb3 Bd6 27.g3 Bd7 28.Qf2 a5 29.Kh1 a4 30.Nd2 Bc5 31.Nf1 Rf8 32.Qg2 Qd6 33.Rb1 Rf7 34.Bd3 Raf8 35.Rd2 Qf6 36.Re2 Qg5 37.Ree1 Qh6 38.Rb2 Qg7 39.Rbe2 f4 40.exf4 exf4 41.gxf4 Rxf4 42.Re6 Qd4 43.Bb1 Bxe6 44.dxe6 Rf2 45.e7 Rxg2 0-1

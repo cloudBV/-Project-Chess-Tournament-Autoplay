@@ -1,0 +1,15 @@
+[Event "Round 4: Perez Marimon, Jorge De Jesus - Lopez Varela, Pablo"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-4/XeH1t84y/Cqz3oMys"]
+[Date "2026.07.15"]
+[Round "4.2"]
+[White "Perez Marimon, Jorge De Jesus"]
+[Black "Lopez Varela, Pablo"]
+[Result "0-1"]
+[WhiteElo "2406"]
+[BlackElo "2357"]
+[ECO "B23"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.f4 d5 6.Nf3 Nf6 7.e5 Nh5 8.d4 cxd4 9.Nxd4 e6 10.O-O c5 11.Ndb5 Ng7 12.f5 Nxf5 13.g4 a6 14.gxf5 gxf5 15.Qh5 axb5 16.Nxb5 Qb6 17.c4 Bb7 18.Bg5 Rg8 19.Rxf5 exf5 20.e6 Rg6 21.Re1 h6 22.Kf1 hxg5 23.Qh7 Rxe6 24.Nc7+ Qxc7 25.Rxe6+ Be7 26.Qg8+ Kd7 27.Qxf7 Qf4+ 28.Kg1 Qc1+ 29.Kf2 Qxb2+ 30.Re2 Qd4+ 31.Ke1 Qg1+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 5: Makoveev, Ilya - Poormosavi, Seyed Kian"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-5/UyYhtUBJ/e1XR7tsQ"]
+[Date "2026.07.14"]
+[Round "5.1"]
+[White "Makoveev, Ilya"]
+[Black "Poormosavi, Seyed Kian"]
+[Result "1/2-1/2"]
+[WhiteElo "2337"]
+[BlackElo "2373"]
+[ECO "E28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 b6 7.Bd3 Bb7 8.f3 c5 9.e4 Nc6 10.Nh3 Ne8 1/2-1/2

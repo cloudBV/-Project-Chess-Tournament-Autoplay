@@ -1,0 +1,14 @@
+[Event "Round 5: Bergman, Nils - Mashhadi, Peyman"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-5/JTTwQAOc/cmNjJZ8q"]
+[Date "2026.07.01"]
+[Round "5.7"]
+[White "Bergman, Nils"]
+[Black "Mashhadi, Peyman"]
+[Result "1/2-1/2"]
+[WhiteElo "2137"]
+[BlackElo "2180"]
+[ECO "B99"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7 9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Bxg5+ 14.Kb1 Ne5 15.Qh5 Qd8 16.Nxe6 Bxe6 17.fxe6 g6 18.exf7+ Kxf7 19.Qe2 Kg7 20.Bh3 Re8 21.Nd5 Bh6 22.Bg2 Bg5 23.Bh3 Bh6 24.Bg2 Bg5 25.Bh3 Kh8 26.Rdf1 Ra7 27.Nf4 Bh6 28.Bg2 Qh4 29.Nd5 Rb7 30.Rf6 Bg7 31.Rf4 Qd8 32.h4 Nc4 33.c3 h6 34.Rff1 a5 35.Rd1 Ne5 36.h5 Qg5 37.hxg6 Nc4 38.Bh3 Qxg6 39.Rhe1 Rf7 40.Qc2 Qg3 41.Bf5 Rxf5 42.Rg1 Qf2 43.exf5 Qxc2+ 44.Kxc2 Re2+ 45.Kc1 h5 46.Rg6 Kh7 47.Rh1 Bh6+ 48.Kd1 Rd2+ 49.Ke1 Rxd5 50.Rxh5 Re5+ 51.Kf2 Rxf5+ 52.Rxf5 Kxg6 53.Rxb5 a4 54.Rb4 d5 55.Rxa4 Nxb2 56.Rd4 Bg7 57.Rxd5 Bxc3 58.Ke3 Kf6 59.Rc5 Ke6 60.Rxc3 Nd1+ 61.Kd2 Nxc3 62.Kxc3 Kd6 63.Kc4 Ke5 1/2-1/2

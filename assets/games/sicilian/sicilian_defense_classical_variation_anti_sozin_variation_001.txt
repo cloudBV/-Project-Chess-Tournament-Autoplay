@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-5/f7oINmye/zSUuH7Ls"]
+[Date "2026.07.01"]
+[Round "5.24"]
+[White "Gbiorczyk, Mikolaj"]
+[Black "Lisowski, Krzysztof"]
+[Result "0-1"]
+[WhiteElo "2170"]
+[BlackElo "2058"]
+[ECO "B57"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.Bf4 Ne5 9.Be2 a6 10.g4 h6 11.Bg3 Be7 12.f4 Nc6 13.Qd2 Qc7 14.O-O-O b5 15.g5 Nd7 16.h4 Nb6 17.Bxb5 axb5 18.Nxb5 Qb8 19.Qc3 O-O 20.gxh6 Bf6 21.e5 dxe5 22.hxg7 Bxg7 23.fxe5 Ne7 24.Nd6 Rxa2 25.Rhg1 Na4 26.Qd4 Nxb2 27.Rdf1 Ba6 28.Kb1 Ra4 29.Qxb2 Bxf1 30.Rxf1 Nd5 31.h5 Qb4 32.Be1 Qg4 33.Bd2 Qxh5 34.Rg1 Rfa8 35.Nb5 Kh8 36.Qc1 Qxe5 37.c3 Qe4+ 38.Qc2 Ra1+ 39.Nxa1 Rxa1+ 0-1

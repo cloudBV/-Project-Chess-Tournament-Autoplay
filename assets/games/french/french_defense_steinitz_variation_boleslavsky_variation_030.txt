@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.26"]
+[White "Pallares Jover, Adrian"]
+[Black "Navarro Martinez, Victor"]
+[Result "0-1"]
+[WhiteElo "2146"]
+[BlackElo "2271"]
+[ECO "C11"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Rb8 8.Be2 cxd4 9.Nxd4 Bc5 10.Qd2 a6 11.a3 Nxd4 12.Bxd4 b5 13.b4 Bxd4 14.Qxd4 Qb6 15.Qf2 Bb7 16.Bd3 Qxf2+ 17.Kxf2 Ke7 18.Rhe1 Rhd8 19.Ne2 d4 20.Nxd4 Nb6 21.Nb3 Na4 22.Re3 h5 23.Na5 Rd4 24.g3 Ba8 25.Nb3 Rdd8 26.Be2 Rbc8 27.Rc1 Bd5 28.Ke1 g6 29.Bf3 Bxf3 30.Rxf3 Rc7 31.Rd3 Rdc8 32.Kd2 Nb2 33.Rf3 Rd7+ 34.Ke2 Na4 35.Rd3 Rdc7 36.Nd4 Rc4 37.Ke3 Nc3 38.Kd2 Ne4+ 39.Ke3 Nc3 40.Kd2 R8c7 41.Re1 Na4 42.Rb1 Nc3 43.Rb3 Nd5 44.c3 h4 45.Ne2 Rc8 46.Rb1 hxg3 47.hxg3 Rh8 48.Re1 Rh2 49.Rc1 Re4 50.Re1 g5 51.Rd4 Rxd4+ 52.cxd4 gxf4 53.gxf4 Nxf4 54.Ke3 Ng2+ 0-1

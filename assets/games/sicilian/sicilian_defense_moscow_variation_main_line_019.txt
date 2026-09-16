@@ -1,0 +1,14 @@
+[Event "Round 5: Kotrotsos, Vasilios - Kotronias, Vasilios"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/uK67Rg8t"]
+[Date "2026.07.08"]
+[Round "5.22"]
+[White "Kotrotsos, Vasilios"]
+[Black "Kotronias, Vasilios"]
+[Result "1/2-1/2"]
+[WhiteElo "2313"]
+[BlackElo "2374"]
+[ECO "B52"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.Re1 e6 7.d4 cxd4 8.Nxd4 Nf6 9.c4 Be7 10.Nc3 O-O 11.b3 Rfc8 12.Bb2 Qd8 13.Rc1 a6 14.a4 Nd7 15.Nxc6 Rxc6 16.Ne2 Bg5 17.Rc2 Nc5 18.Nd4 Rcc8 19.Nf3 Bh6 20.Rc3 Qa5 21.Nd4 Bf4 22.Rf3 Be5 23.Bc3 Qc7 24.Rh3 Qe7 25.a5 Rab8 26.Qd2 b6 27.f4 Bxd4+ 28.Qxd4 f6 29.e5 dxe5 30.fxe5 f5 31.Qd6 Qe8 32.axb6 Ne4 33.Qb4 Qc6 34.Bd4 Rd8 35.Rd3 Rxb6 36.Qxb6 Qxb6 37.Bxb6 Rxd3 38.b4 Rc3 39.c5 Rc4 40.Rd1 f4 41.h4 h5 42.Rf1 Nc3 43.Ra1 Nd5 44.Rxa6 Rxb4 45.Bd8 Rb8 46.Bg5 Kf7 47.Kf2 Rb3 48.Ra4 Rc3 49.Bxf4 Rxc5 50.g3 Kg6 51.Ra7 Rc7 52.Ra8 Kf5 53.Re8 Re7 54.Rh8 Kg4 55.Bg5 Rb7 56.Re8 Rb2+ 57.Ke1 Kf5 58.Rg8 g6 59.Kf1 Rc2 60.Rg7 Rc4 61.Kf2 Rc2+ 62.Kf3 Rc3+ 63.Kf2 Rb3 64.Rg8 Kxe5 65.Rxg6 Kf5 66.Rh6 Rb2+ 67.Ke1 Rb1+ 68.Kf2 Rb2+ 69.Ke1 Rb1+ 1/2-1/2

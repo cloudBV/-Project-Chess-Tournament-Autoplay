@@ -1,0 +1,14 @@
+[Event "Round 5: Shyam, Sundar M. - Han, Yichen"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/Q1Gi9XIT"]
+[Date "2026.07.07"]
+[Round "5.3"]
+[White "Shyam, Sundar M."]
+[Black "Han, Yichen"]
+[Result "1/2-1/2"]
+[WhiteElo "2478"]
+[BlackElo "2437"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Keres Variation"]
+
+1.e4 c5 2.Ne2 Nf6 3.Nbc3 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.Nc3 Qd8 7.Qh5 e6 8.b3 Nc6 9.Bb2 g6 10.Qg4 Bg7 11.O-O-O O-O 12.h4 h5 13.Qg5 b6 14.g4 Bb7 15.Bg2 Bf6 16.Qf4 Be5 17.Qe3 Bd4 18.Qg3 hxg4 19.Qxg4 Qf6 20.h5 Qf5 21.Qxf5 gxf5 22.Nb5 Bxb2+ 23.Kxb2 Na5 24.Bxb7 Nxb7 25.d4 a6 26.Nc3 cxd4 27.Rxd4 Rac8 28.Rd7 Na5 29.Ra7 Ra8 30.Rc7 Rac8 31.Ra7 Ra8 32.Rc7 Rac8 33.Ra7 1/2-1/2

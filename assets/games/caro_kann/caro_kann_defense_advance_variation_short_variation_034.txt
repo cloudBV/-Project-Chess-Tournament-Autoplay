@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-9/YQmBQu1P/M4hpsN9q"]
+[Date "2026.07.19"]
+[Round "9.6"]
+[White "Volokitin, Andrei"]
+[Black "Pipiras, Filipa Fortuna"]
+[Result "1-0"]
+[WhiteElo "2617"]
+[BlackElo "2323"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 Ng6 7.O-O f6 8.exf6 Qxf6 9.Bg5 Qf7 10.Nh4 Nxh4 11.Bxh4 Bd6 12.Bg3 Bxg3 13.fxg3 Qe7 14.Bh5+ g6 15.Be2 Nd7 16.g4 Bxb1 17.Rxb1 O-O-O 18.Qd2 g5 19.Qe3 Rde8 20.Bd3 Qg7 21.b4 e5 22.dxe5 Nxe5 23.b5 Kb8 24.bxc6 Nxc6 25.Qc5 Qc7 26.Ba6 b6 27.Qxd5 Ne5 28.Rb4 Rd8 29.Qe4 h5 30.gxh5 Rxh5 31.Rd4 Rdh8 32.h3 g4 33.Rfd1 R5h7 34.Rd8+ Rxd8 35.Rxd8+ Qxd8 36.Qxh7 Qd1+ 37.Kh2 Qd5 38.c4 Qc6 39.Qh8+ 1-0

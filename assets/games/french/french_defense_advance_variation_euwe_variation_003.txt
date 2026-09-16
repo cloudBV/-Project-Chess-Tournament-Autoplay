@@ -1,0 +1,15 @@
+[Event "Round 8: Ozen, Metehan - Tarlabasi, Emirhan"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/9jq0iE1J"]
+[Date "2026.07.04"]
+[Round "8.27"]
+[White "Ozen, Metehan"]
+[Black "Tarlabasi, Emirhan"]
+[Result "1-0"]
+[WhiteElo "2152"]
+[BlackElo "2328"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Rc8 7.O-O h6 8.Re1 a6 9.a3 cxd4 10.cxd4 Nge7 11.b4 Nf5 12.Bb2 b5 13.Bd3 Qb6 14.Bxf5 exf5 15.Nc3 Be6 16.Qb3 Rd8 17.Rac1 Be7 18.Rc2 O-O 19.Rec1 Na7 20.Ne2 Rc8 21.Nf4 Rfd8 22.Rc5 Qb7 23.h4 Bxc5 24.dxc5 Nc6 25.Nd4 Nxd4 26.Bxd4 Rc6 27.Rc3 g6 28.Rg3 Qe7 29.Qe3 Kh7 30.Qd2 Rd7 31.Ne2 h5 32.Qf4 Qf8 33.Rg5 Qh6 34.Ng3 Rd8 35.Be3 Kg8 36.Nxh5 Kf8 37.Nf6 Ke7 38.Qd4 Qh8 39.Rg3 Bc8 40.Bg5 Kf8 41.h5 f4 42.Qxf4 Bf5 43.hxg6 fxg6 44.Ng4 Rd7 45.Bf6 Qg8 46.Ne3 Be4 47.f3 Bb1 48.Qd4 Rh7 49.Qd1 Ba2 1-0

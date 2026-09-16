@@ -1,0 +1,14 @@
+[Event "Round 5: Thaler, Anton - Adzic, Slobodan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-5/fHlcLKvU/MWIrakMA"]
+[Date "2026.06.03"]
+[Round "5.1"]
+[White "Thaler, Anton"]
+[Black "Adzic, Slobodan"]
+[Result "1/2-1/2"]
+[WhiteElo "2100"]
+[BlackElo "2051"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Alekhine Variation"]
+
+1.d4 Nf6 2.c4 g6 3.f3 c5 4.d5 d6 5.e4 e6 6.a4 Bg7 7.Ne2 exd5 8.cxd5 O-O 9.Nec3 Re8 10.Be2 Na6 11.O-O h5 12.Bg5 Re5 13.Bf4 Nd7 14.Na3 g5 15.Bg3 h4 16.Bf2 Re8 17.Nc4 Ne5 18.Ne3 Nb4 19.Re1 Ng6 20.g3 a6 21.Qd2 Qf6 22.Nc4 Qe7 23.Rac1 Bd7 24.Be3 Bf6 25.Nb6 Rad8 26.Nxd7 Rxd7 27.Kg2 Kg7 28.f4 gxf4 29.gxf4 Rg8 30.h3 Kf8 31.Kh2 Bd4 32.Bg4 Bxe3 33.Qxe3 Rd8 34.b3 b5 35.axb5 axb5 36.Nxb5 Rb8 37.Nc3 Qf6 38.Rf1 Qd4 39.Nd1 Nd3 40.Qxd4 cxd4 41.Rb1 Ndxf4 42.Kh1 Nd3 43.b4 Nc5 44.b5 Ne5 45.Bf5 Ke8 1/2-1/2

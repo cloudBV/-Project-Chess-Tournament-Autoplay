@@ -1,0 +1,15 @@
+[Event "预选赛淘汰赛"]
+[Site "CHENGDU, China"]
+[Date "2026.07.18"]
+[Round "9.1"]
+[White "Xue, Haowen"]
+[Black "Kong, Xiangrui"]
+[Result "1-0"]
+[WhiteElo "2422"]
+[BlackElo "2469"]
+[ECO "E10"]
+[TimeControl "3m+2s"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.cxd5 exd5 5.Nc3 c6 6.Bf4 Bd6 7.e3 Bxf4 8.exf4 Bg4 9.Qe2+ Kf8 10.O-O-O Nbd7 11.h3 Bxf3 12.Qxf3 b5 13.Bd3 b4 14.Ne2 Qb6 15.Kb1 g6 16.g4 Re8 17.Ng3 c5 18.g5 c4 19.Bc2 Ne4 20.Bxe4 dxe4 21.Nxe4 c3 22.Rhe1 Kg7 23.f5 Rhf8 24.f6+ Kg8 25.Re3 Qc6 26.bxc3 Nb6 27.Nc5 Nd5 28.c4 Rxe3 29.cxd5 Qxc5 30.fxe3 Qc4 31.Rc1 Qd3+ 32.Kb2 Qa3+ 33.Kb1 Qd3+ 34.Ka1 b3 35.Qf2 Rb8 36.d6 Qf5 37.Qb2 Qxg5 38.d7 Rd8 39.Rc8 Qxf6 40.Qxb3 Qf1+ 41.Kb2 Qe2+ 42.Kc1 Qe1+ 43.Kc2 Qe2+ 44.Kb1 Qe1+ 45.Kb2 Qe2+ 46.Ka3 Qa6+ 47.Qa4 Qd6+ 48.Kb2 Qf6 49.Rxd8+ Qxd8 50.Qc6 Kg7 51.Kc2 Qe7 52.Qd5 Qd8 53.Qe5+ Kf8 54.Qd6+ Kg7 55.Kd3 h5 56.Qe5+ Kf8 57.Qd6+ Kg7 58.h4 Kg8 59.Ke2 Kg7 60.Qe5+ Kf8 61.Qd6+ Kg7 62.d5 f6 63.Qe6 g5 64.hxg5 fxg5 65.Qe8 Qc7 66.Qe7+ Kg6 67.Qe8+ Kg7 68.Kd3 Qd6 69.d8=Q Qa3+ 70.Kd4 Qb4+ 71.Ke5 Qc3+ 72.Kd6 Qb4+ 73.Kc6 Qc4+ 74.Kb7 1-0

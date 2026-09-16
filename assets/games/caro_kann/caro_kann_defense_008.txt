@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "3.3"]
+[White "Bochniak, Franciszek"]
+[Black "Tabuenca Mendataurigoitia, Daniel"]
+[Result "1/2-1/2"]
+[WhiteElo "2163"]
+[BlackElo "2355"]
+[ECO "B10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense"]
+
+1.e4 c6 2.g3 d5 3.Bg2 dxe4 4.Bxe4 Nf6 5.Bg2 g6 6.d4 Bg7 7.Ne2 O-O 8.O-O Nbd7 9.c4 e5 10.d5 Nb6 11.dxc6 Qc7 12.c5 Nc4 13.Qa4 Na5 14.cxb7 Bxb7 15.Bd2 Bxg2 16.Kxg2 Nb7 17.c6 Nc5 18.Qb5 Nfe4 19.Be3 Rab8 20.Qc4 Qxc6 21.Kg1 Qe6 22.Qxe6 Nxe6 23.Nbc3 Nxc3 24.Nxc3 Rxb2 25.Bxa7 Ra8 26.Be3 Nd4 27.Rab1 Rc2 28.Nd5 Rcxa2 29.Rb7 h5 30.Rfb1 Ra1 31.Kg2 Rxb1 32.Rxb1 Rd8 33.Nc3 Nf5 34.Bb6 Rb8 35.Nd5 Bf8 36.Nf6+ Kg7 37.Nd7 Rb7 38.Nxe5 Be7 39.Nc4 Bf6 40.Rd1 Re7 41.Ne3 Nxe3+ 42.Bxe3 h4 43.Rd6 hxg3 44.hxg3 Rb7 45.Bd4 Bxd4 46.Rxd4 g5 47.g4 Kg6 48.Kg3 Rb3+ 49.f3 f6 50.Rd8 1/2-1/2

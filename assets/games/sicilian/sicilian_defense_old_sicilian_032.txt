@@ -1,0 +1,14 @@
+[Event "Round 4: Govoreanu, Matei - Burri, Quentin"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-4/phLVbaKj/81uhSihe"]
+[Date "2026.07.20"]
+[Round "4.7"]
+[White "Govoreanu, Matei"]
+[Black "Burri, Quentin"]
+[Result "0-1"]
+[WhiteElo "2139"]
+[BlackElo "2387"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Old Sicilian"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 e6 4.O-O Qc7 5.d4 cxd4 6.Nxd4 Nf6 7.Nb5 Qb8 8.N5c3 a6 9.a4 Be7 10.Nd2 Qc7 11.Nf3 O-O 12.Qe2 Ng4 13.h3 Nd4 0-1

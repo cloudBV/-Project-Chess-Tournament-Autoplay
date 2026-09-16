@@ -1,0 +1,15 @@
+[Event "Round 8: Le Phan Hoang Quan - Tulegen, Ramazan"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b12/round-8/8S4aZkCU/k3JCCdVj"]
+[Date "2026.07.16"]
+[Round "8.23"]
+[White "Le Phan Hoang Quan"]
+[Black "Tulegen, Ramazan"]
+[Result "1-0"]
+[WhiteElo "2110"]
+[BlackElo "2162"]
+[ECO "E10"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Bd6 6.Bg2 O-O 7.O-O Nc6 8.cxd5 exd5 9.Nc3 h6 10.Nb5 Ne7 11.Nxd6 Qxd6 12.Qb3 Re8 13.Bf4 Qd8 14.Rac1 c6 15.Ne5 Qb6 16.Qc3 Bf5 17.f3 Ng6 18.Be3 Nf8 19.Bf2 Bh7 20.Rfe1 Rad8 21.b4 Ne6 22.a4 a6 23.h4 Qa7 24.e3 Rc8 25.Bh3 Qb8 26.g4 g5 27.hxg5 Nxg5 28.Bg2 Qd6 29.Qc5 Qe6 30.Qb6 Nd7 31.Qxb7 Nxe5 32.dxe5 h5 33.Bh4 Qh6 34.Qd7 Rcd8 35.Qxc6 Re6 36.Qc7 Rde8 37.f4 Nh3+ 38.Kh2 hxg4 39.Kg3 d4 40.Rc4 dxe3 41.Rxe3 Qh5 42.Qd7 Bf5 43.Rc7 Rf8 44.Bd5 Rh6 45.Qe7 Bg6 46.Rc6 Qf5 47.Bg5 Nxg5 48.Qxg5 Rh3+ 49.Kf2 Qxg5 50.fxg5 Kg7 51.Rxh3 gxh3 52.Rxa6 h2 53.Ra8 Bc2 54.Rxf8 Kxf8 55.a5 Bb3 56.Bg2 Bc4 57.Kg3 Ke7 58.Kxh2 Ke6 59.Bb7 Kxe5 60.a6 1-0

@@ -1,0 +1,14 @@
+[Event "Round 7: Dziewonski, Dariusz - Mozharov, Mikhail"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-7/pB3W0zEA/Fa713rV2"]
+[Date "2026.07.23"]
+[Round "7.11"]
+[White "Dziewonski, Dariusz"]
+[Black "Mozharov, Mikhail"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2527"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nc6 6.a3 Bxc3+ 7.bxc3 Nge7 8.Nf3 Bg4 9.h3 Bh5 10.Be3 Na5 11.Qe2 f6 12.g4 Bf7 13.Nd2 Qd6 14.c4 dxc4 15.Be4 Bd5 16.f3 O-O-O 17.c3 h5 18.Qg2 g6 19.Qh2 Qc6 20.Qf4 hxg4 21.fxg4 Nb3 22.Nxb3 cxb3 0-1

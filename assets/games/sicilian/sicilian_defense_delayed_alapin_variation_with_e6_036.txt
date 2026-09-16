@@ -1,0 +1,14 @@
+[Event "Round 9: Cherniaev, Alexander - Yasaswi Krishna Bommi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/xwunJEeF"]
+[Date "2026.07.22"]
+[Round "9.12"]
+[White "Cherniaev, Alexander"]
+[Black "Yasaswi Krishna Bommi"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2085"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.Bc4 d6 6.d4 cxd4 7.cxd4 Be7 8.O-O O-O 9.Re1 b6 10.Bxd5 exd5 11.Nc3 Be6 12.b3 Nc6 13.Ba3 dxe5 14.Bxe7 Qxe7 15.dxe5 Rfd8 16.Nd4 Nxd4 17.Qxd4 Rac8 18.Rad1 h6 19.Rd2 Rc6 20.h3 a6 21.Re3 Qc5 22.Qh4 Rdc8 23.Ne2 Kf8 24.Qf4 Qe7 25.Rg3 Rc2 26.Nd4 Rxd2 27.Qxd2 Qc7 28.Qb4+ Kg8 29.Re3 Qc5 30.Qd2 Qc1+ 31.Qxc1 Rxc1+ 32.Kh2 Kf8 33.f4 g6 34.Rd3 h5 35.Kg3 Ke7 36.Rd2 Kd7 37.Kh4 Rf1 38.Kg5 Rg1 39.Kf6 Rf1 40.Nxe6 fxe6 41.Kxg6 Rxf4 42.Kxh5 Rf5+ 43.Kg6 Rxe5 44.h4 Ke7 45.g4 Re4 46.Kg5 Kf7 47.Rc2 Re5+ 48.Kf4 Re4+ 49.Kf3 Re1 50.Rc6 d4 51.Rc2 e5 1/2-1/2

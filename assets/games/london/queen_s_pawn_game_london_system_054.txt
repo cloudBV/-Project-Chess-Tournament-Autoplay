@@ -1,0 +1,15 @@
+[Event "Round 7: Harutyunyan, Axel - Anciaux, Adrien"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-7/YWV9UBfZ/tWkhZpej"]
+[Date "2026.07.21"]
+[Round "7.17"]
+[White "Harutyunyan, Axel"]
+[Black "Anciaux, Adrien"]
+[Result "0-1"]
+[WhiteElo "2005"]
+[BlackElo "2202"]
+[ECO "D02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 c5 5.c3 Nc6 6.Nbd2 Nh5 7.Bg3 Be7 8.Bd3 Nxg3 9.hxg3 h6 10.Qe2 Qb6 11.Rb1 cxd4 12.exd4 Bd7 13.O-O O-O 14.Rfe1 Rfe8 15.Nf1 Bd6 16.Bc2 Qd8 17.Ne3 Rc8 18.Ng4 b5 19.Qd3 f5 20.Nge5 Nxe5 21.Nxe5 Bxe5 22.Rxe5 Qg5 23.Bb3 g6 24.a3 h5 25.Rbe1 Kg7 26.Qe3 Qf6 27.Ra1 Qf8 28.Qd3 a6 29.Ree1 Qd6 30.Qe3 Kf6 31.Qe5+ Qxe5 32.Rxe5 Rb8 33.Re3 Rec8 34.Bd1 a5 35.Bf3 Rb6 36.Kf1 g5 37.Ke1 g4 38.Bd1 Rh8 39.Kd2 h4 40.gxh4 Rxh4 41.Be2 Rh2 42.Rg1 Rb8 43.Ke1 Rc8 44.g3 b4 45.axb4 axb4 46.Bf1 Ra8 47.Rd3 Ra2 48.Rd2 Ba4 0-1

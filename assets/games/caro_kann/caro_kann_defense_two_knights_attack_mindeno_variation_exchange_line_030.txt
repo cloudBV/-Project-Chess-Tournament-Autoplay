@@ -1,0 +1,14 @@
+[Event "Round 7: Kuegel, Tobias - Braun, Georg, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-7/sQvMNB1T/j4T6dyp0"]
+[Date "2026.07.23"]
+[Round "7.5"]
+[White "Kuegel, Tobias"]
+[Black "Braun, Georg, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2361"]
+[BlackElo "2374"]
+[ECO "B11"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4 Nf6 7.a3 dxe4 8.Qe3 Nbd7 9.Nxe4 Nxe4 10.Qxe4 Nf6 11.Qd3 Qb6 12.Be2 Rd8 13.c3 Be7 14.Qg3 O-O 15.Bh6 Ne8 16.Bc1 Nd6 17.O-O Qb3 18.Bd1 Qd5 19.Re1 Nf5 20.Qf3 Bf6 21.Bf4 Nh4 22.Qe4 Rfe8 23.Bc2 g6 24.Re2 a6 25.Rae1 Kg7 26.Bg3 Nf5 27.Bf4 Nh4 28.Bg3 Nf5 29.Bf4 1/2-1/2

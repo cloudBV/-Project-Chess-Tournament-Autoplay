@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-5/YD1S9x30/0bldZYTN"]
+[Date "2026.07.01"]
+[Round "5.1"]
+[White "Pap, Misa"]
+[Black "Korobov, Anton"]
+[Result "1/2-1/2"]
+[WhiteElo "2438"]
+[BlackElo "2621"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Greco Gambit, Traditional Line"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Bd2 Bxd2+ 8.Nbxd2 d5 9.exd5 Nxd5 10.Qb3 Na5 11.Qa4+ Nc6 12.Qb3 Na5 1/2-1/2

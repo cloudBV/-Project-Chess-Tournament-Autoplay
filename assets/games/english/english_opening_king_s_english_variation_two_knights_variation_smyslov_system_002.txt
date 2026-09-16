@@ -1,0 +1,15 @@
+[Event "Round 5: Fernandez Borrego, Pablo - Singh, Siddharth"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-5/VJW5TtEy/Exs3e7FH"]
+[Date "2026.06.29"]
+[Round "5.1"]
+[White "Fernandez Borrego, Pablo"]
+[Black "Singh, Siddharth"]
+[Result "0-1"]
+[WhiteElo "2359"]
+[BlackElo "2361"]
+[ECO "A22"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Two Knights Variation, Smyslov System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.Nf3 Bxc3 6.dxc3 d6 7.O-O Re8 8.Qc2 a5 9.Rd1 Nbd7 10.Nd2 Nc5 11.Nf1 e4 12.b4 Ne6 13.Bxe4 Nxe4 14.Qxe4 Bd7 15.Qxb7 Rb8 16.Qd5 axb4 17.cxb4 Rxb4 18.Be3 Qc8 19.Rac1 Qa6 20.Rd2 Bc6 21.Qd3 Ra4 22.c5 Bb5 23.Qf5 dxc5 24.Bxc5 Rxa2 25.Rxa2 Qxa2 26.Ne3 Qxe2 27.Qc2 Qh5 28.Qf5 Qe2 29.Qc2 Qxc2 30.Rxc2 Bc6 31.h4 Rb8 32.f4 Be4 33.Rc4 Rb1+ 34.Kf2 Rb2+ 35.Kg1 f5 36.Ba3 Re2 37.Bc1 c6 38.h5 h6 39.g4 Nxf4 40.Nxf5 Re1+ 41.Kh2 Rh1+ 42.Kg3 Ne2+ 43.Kf2 Bd5 44.Ne7+ Kh7 45.Nxd5 cxd5 46.Rc5 Rxc1 47.Rxd5 Nf4 48.Rd8 Rc3 49.Rf8 Nh3+ 50.Kg2 Ng5 51.Kh2 Rf3 52.Ra8 Ne6 53.Kg2 Rf8 54.Ra7 Kg8 55.Kg3 Ng5 56.Kh4 Re8 57.Rb7 Kf8 58.Kg3 Re7 59.Rb8+ Kf7 60.Kf4 Kf6 61.Rf8+ Rf7 62.Ra8 Ne6+ 63.Kg3 Rc7 64.Ra3 Ng5 65.Ra6+ Ke5 66.Ra5+ Kd4 67.Kh4 Ne4 68.Kh3 Ke3 69.Rf5 Rc5 70.Rf7 Rg5 71.Kh4 Nf6 0-1

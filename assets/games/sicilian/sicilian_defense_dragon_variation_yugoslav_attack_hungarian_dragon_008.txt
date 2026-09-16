@@ -1,0 +1,15 @@
+[Event "Round 1: Bilych, Oleksii - Hoffman, Luc"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-1/MAzV5jxu/v1FZkLyz"]
+[Date "2026.07.15"]
+[Round "1.8"]
+[White "Bilych, Oleksii"]
+[Black "Hoffman, Luc"]
+[Result "1-0"]
+[WhiteElo "2453"]
+[BlackElo "2182"]
+[ECO "B75"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Nc6 7.f3 h5 8.h3 Bd7 9.Bc4 Bg7 10.Bb3 Na5 11.f4 Nxb3 12.axb3 Bc6 13.Qd3 Nd7 14.O-O O-O 15.f5 Nc5 16.Qc4 Nxe4 17.Nxc6 bxc6 18.Qxe4 d5 19.Qh4 d4 20.Rad1 1-0

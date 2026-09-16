@@ -1,0 +1,15 @@
+[Event "Round 4: Prabu, Dananjey - Nilsson, Patrik 1978"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-4/1NYPKUcj/rAsn77jZ"]
+[Date "2026.07.01"]
+[Round "4.2"]
+[White "Prabu, Dananjey"]
+[Black "Nilsson, Patrik 1978"]
+[Result "1-0"]
+[WhiteElo "2129"]
+[BlackElo "2155"]
+[ECO "C02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Bd3 Bd7 6.Nf3 cxd4 7.O-O dxc3 8.Nxc3 a6 9.Re1 Nge7 10.h4 g6 11.Bg5 Qb6 12.Na4 Qa7 13.Be3 d4 14.Bg5 Bg7 15.Rc1 O-O 16.Nc5 Bc8 17.Qd2 Nd5 18.Bh6 b6 19.Ne4 Bd7 20.Nf6+ Kh8 21.Bxg7+ Kxg7 22.Ng4 Rac8 23.Qh6+ Kh8 24.Ng5 1-0

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-8/vBnUA3JK/IStAaeo6"]
+[Date "2026.07.07"]
+[Round "8.13"]
+[White "Chval, Zdenek"]
+[Black "Chval, Zdenek"]
+[Result "1/2-1/2"]
+[WhiteElo "2092"]
+[BlackElo "2068"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 1/2-1/2

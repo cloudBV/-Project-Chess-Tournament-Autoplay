@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.10"]
+[Round "9.1"]
+[White "Rosol, Philip"]
+[Black "Cieslak, Patryk"]
+[Result "1-0"]
+[WhiteElo "2194"]
+[BlackElo "2487"]
+[ECO "E75"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Averbakh Variation, Main Line"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 e6 8.Nf3 exd5 9.exd5 h6 10.Bd2 Bf5 11.Nh4 Bd7 12.h3 Nxd5 13.Nxd5 Qxh4 14.Nc7 Nc6 15.Nxa8 Rxa8 16.O-O Be5 17.Bg4 Be8 18.f4 Bxb2 19.Rb1 Bd4+ 20.Kh1 Rb8 21.f5 Ne5 22.fxg6 Nxg4 23.Qxg4 Qxg4 24.hxg4 fxg6 25.Bxh6 Bf7 26.Rfe1 Be5 27.Rbc1 Kh7 28.Bd2 g5 29.Bc3 Bf4 30.Rb1 Kg6 31.Re7 b6 32.Rxa7 Bxc4 33.g3 Bd5+ 34.Kh2 Be5 35.Bxe5 dxe5 36.Re1 Rh8+ 37.Kg1 Rh1+ 38.Kf2 Rh2+ 39.Ke3 Rg2 40.Rd1 Rxg3+ 41.Kf2 Rxg4 42.Rxd5 Kf5 43.Rd6 Rb4 44.a3 Rb3 45.a4 g4 46.Rb7 Ra3 47.Rbxb6 Ra2+ 48.Kg3 Ra3+ 49.Kg2 Ra2+ 50.Kg3 Ra3+ 51.Kf2 Rxa4 52.Rbc6 Ra2+ 53.Kg3 Ra3+ 54.Kg2 Ra2+ 55.Kg3 Ra3+ 56.Kf2 Ra2+ 57.Ke3 Ra3+ 58.Rd3 Rxd3+ 59.Kxd3 Kf4 60.Ke2 g3 61.Kf1 Kf3 62.Rxc5 g2+ 63.Kg1 e4 64.Rf5+ Ke2 65.Kxg2 e3 66.Re5 Kd2 67.Kf3 e2 68.Rxe2+ 1-0

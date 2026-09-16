@@ -1,0 +1,15 @@
+[Event "Round 7: Serrano Batova, Vicent - Silva Cerda, Mark Valentin"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-7/6iWvj5Ml/QqiZ3hyo"]
+[Date "2026.06.21"]
+[Round "7.1"]
+[White "Serrano Batova, Vicent"]
+[Black "Silva Cerda, Mark Valentin"]
+[Result "1-0"]
+[WhiteElo "2242"]
+[BlackElo "2166"]
+[ECO "A13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.b3 Bd6 5.Bb2 O-O 6.Nc3 Re8 7.d4 b6 8.Bd3 Bb7 9.O-O Nbd7 10.Rc1 a6 11.cxd5 exd5 12.Ne2 Ne4 13.Nf4 Ndf6 14.Ne5 c5 15.f3 Ng5 16.h4 Ne6 17.Nxe6 Rxe6 18.f4 h5 19.Qf3 a5 20.Bf5 Re7 21.g4 hxg4 22.Nxg4 Nxg4 23.Qxg4 c4 24.Rf3 Bc8 25.Rg3 g6 26.Bxc8 Qxc8 27.Qg5 Qc7 28.Qxd5 Rd8 29.Rxc4 Bxf4 30.Rxc7 Rxd5 31.Rc8+ Kg7 32.exf4 Re1+ 33.Kf2 Rh1 34.Kg2 Rxh4 35.Kf3 Rh2 36.Rg2 Rh3+ 37.Ke4 Rhh5 38.Rg5 Rd7 39.d5+ f6 40.Rxh5 gxh5 41.Rc6 b5 42.d6 Kg6 43.Bc1 h4 44.f5+ Kh5 45.Kf3 h3 46.Bf4 h2 47.Bxh2 Kg5 48.Ke4 Rd8 49.Bf4+ Kg4 50.Rc7 a4 51.Rg7+ Kh5 52.Kf3 Rh8 53.Rg1 1-0

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.06"]
+[Round "3.7"]
+[White "Mungunzul, Bat-Erdene"]
+[Black "Shukhman, Anna"]
+[Result "1/2-1/2"]
+[WhiteElo "2329"]
+[BlackElo "2443"]
+[ECO "E34"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.Nf3 dxc4 6.Bg5 b5 7.a4 c6 8.Bxf6 gxf6 9.g3 Bb7 10.Bg2 Nd7 11.O-O Qb6 12.Rfb1 a5 13.Nd2 Be7 14.e3 Rc8 15.axb5 cxb5 16.Bxb7 Qxb7 17.Rxa5 b4 18.Nb5 Nb6 19.Rba1 O-O 20.Ne4 Ra8 21.Nbd6 Qc6 22.Qd1 f5 23.Qh5 fxe4 24.Rg5+ Bxg5 25.Qxg5+ Kh8 26.Qf6+ Kg8 27.Qg5+ Kh8 28.Qf6+ Kg8 29.Qg5+ 1/2-1/2

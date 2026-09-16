@@ -1,0 +1,14 @@
+[Event "Round 6: Schaefer, Martin, Dr. - Schober, Ralf"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-6/Nf3qcMuI/aQG59ZDe"]
+[Date "2026.07.01"]
+[Round "6.9"]
+[White "Schaefer, Martin, Dr."]
+[Black "Schober, Ralf"]
+[Result "1/2-1/2"]
+[WhiteElo "2009"]
+[BlackElo "2069"]
+[ECO "C00"]
+[Variant "Standard"]
+[Opening "French Defense: Normal Variation"]
+
+1.d4 e6 2.e4 b6 3.Bd3 Bb7 4.Nf3 g6 5.Bg5 Qc8 6.h4 h6 7.Bf4 Bg7 8.c3 d6 9.Qc2 Ne7 10.Nbd2 Nd7 11.h5 e5 12.Be3 g5 13.O-O-O a5 14.Kb1 Ba6 15.c4 g4 16.dxe5 gxf3 1/2-1/2

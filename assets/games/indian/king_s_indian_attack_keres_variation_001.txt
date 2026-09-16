@@ -1,0 +1,15 @@
+[Event "new tournament description"]
+[Site "https://lichess.org/broadcast/campeonato-espana-selecciones-autonomicas-sub-14-y-sub-16-u16/ronda-4/R4lqW8C9/dsBo7LSQ"]
+[Date "2026.07.02"]
+[Round "4.5"]
+[White "Fiorito, Francisco"]
+[Black "Prieto Rol, Esther"]
+[Result "1-0"]
+[WhiteElo "2452"]
+[BlackElo "2082"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.O-O Nd7 5.h3 Bh5 6.d3 e6 7.e4 Bd6 8.Re1 Ne7 9.Nbd2 O-O 10.d4 c5 11.exd5 Nxd5 12.Ne4 Be7 13.dxc5 Nxc5 14.Nxc5 Bxc5 15.Re5 Bxf3 16.Qxf3 Qb6 17.Re2 Rad8 18.a3 Rd7 19.c4 Ne7 20.b4 Bd4 21.Rb1 Rc8 22.Qb3 Qc7 23.c5 Nd5 24.Bd2 b6 25.Rbe1 h6 26.cxb6 Qxb6 27.Bxd5 Rxd5 28.Be3 Rc3 29.Qxc3 Bxc3 30.Bxb6 Bxe1 31.Bxa7 Rd1 32.Kg2 Ra1 33.Bd4 Rd1 34.Bc5 Bc3 35.Ra2 Rb1 36.Kf3 f5 37.Ke2 Rb3 38.Kd1 Be5 39.a4 g5 40.a5 f4 41.a6 Bb8 42.gxf4 gxf4 43.Rd2 Kf7 44.Rd8 Ra3 45.Rxb8 Rxa6 46.Rf8+ Kg6 47.Rxf4 1-0

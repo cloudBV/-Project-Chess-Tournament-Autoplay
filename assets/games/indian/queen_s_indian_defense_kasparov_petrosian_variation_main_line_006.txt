@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.23"]
+[White "Lalic, Bogdan"]
+[Black "Mimkes, Antal"]
+[Result "1-0"]
+[WhiteElo "2362"]
+[BlackElo "2039"]
+[ECO "E12"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Main Line"]
+
+1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.Nc3 e6 5.a3 d5 6.Qc2 Be7 7.cxd5 Nxd5 8.Nxd5 exd5 9.g3 O-O 10.Bg2 Nd7 11.O-O c5 12.Rd1 Nf6 13.Ne5 Re8 14.dxc5 Bxc5 15.Nd3 Bf8 16.Bg5 Rc8 17.Qd2 h6 18.Bxf6 Qxf6 19.Nf4 Rcd8 20.e3 g5 21.Nxd5 Bxd5 22.Bxd5 Kg7 23.Qe2 Bd6 24.Rac1 Re7 25.e4 a5 26.Rc6 Qe5 27.Rxb6 f5 28.Qh5 fxe4 29.Bxe4 Qf6 30.Qf3 Qe5 31.Rd5 Qe6 32.Qc3+ Kf7 33.Rf5+ 1-0

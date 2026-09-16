@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "8.3"]
+[White "Hovakimyan, Vache"]
+[Black "Warchol, Kamil"]
+[Result "1-0"]
+[WhiteElo "2327"]
+[BlackElo "2297"]
+[ECO "E28"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Ne2 c5 8.Ng3 Nc6 9.Ra2 b6 10.e4 h6 11.h4 Ne8 12.Nh5 e5 13.d5 Ne7 14.g4 Kh7 15.g5 Ng8 16.Bd3 Qd7 17.f3 g6 18.Ng3 h5 19.Rg2 a6 20.f4 Ne7 21.f5 Kg8 22.f6 Rb8 23.fxe7 Qxe7 24.a4 Bd7 25.Rf2 Ng7 26.O-O Rb7 27.Rf6 Bg4 28.Be2 Bh3 29.R1f2 Ne8 30.Bxh5 gxh5 31.Qxh5 Ng7 32.Qh6 b5 33.g6 Qe8 34.Qh7# 1-0

@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.16"]
+[Round "2.4"]
+[White "Can, Isik"]
+[Black "Grebnev, Aleksey"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2618"]
+[ECO "B23"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Carlsen Variation"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 g6 6.b3 e5 7.Bc4 Be6 8.Bxe6 fxe6 9.Nf3 Be7 10.O-O Nf6 11.a4 O-O 12.Ba3 d5 13.exd5 Bxa3 14.dxc6 Qxd2 15.Nxd2 Bb2 16.cxb7 Rab8 17.Nce4 Nxe4 18.Nxe4 Bxa1 19.Rxa1 Rxb7 20.f3 Rb4 21.a5 Rc8 22.Ra2 Kf8 23.Rb2 Ke7 24.c3 Rxe4 25.fxe4 Rxc3 26.b4 a6 27.b5 axb5 28.Rxb5 Ra3 29.Kf2 Kd6 30.h4 h5 31.Rb6+ Kc5 32.Rxe6 Kd4 33.a6 Kxe4 34.Rxg6 Kf4 35.g3+ Ke4 36.Kg2 Kd4 37.g4 Ra2+ 38.Kf1 Ra1+ 39.Kg2 Ra2+ 40.Kf1 Ra1+ 41.Ke2 Ra2+ 42.Kd1 hxg4 43.h5 Kd3 44.Rd6+ Ke3 45.h6 g3 46.h7 g2 47.Rg6 Rxa6 48.h8=Q g1=R+ 49.Rxg1 Ra1+ 50.Kc2 Rxg1 51.Qxe5+ Kf3 52.Qf5+ Kg2 53.Qg4+ Kf2 54.Qf4+ Ke2 55.Qe4+ Kf2 56.Kd2 Rg3 57.Qf4+ Kg2 58.Ke2 Kh1 59.Qh6+ Kg1 60.Qh4 Kg2 61.Qe4+ Kg1 62.Qd4+ Kg2 63.Qh4 Ra3 64.Qe4+ Kh3 65.Qe6+ Kg2 66.Qd5+ Kh3 67.Kf2 Kg4 68.Qc4+ Kh3 69.Qe6+ Kh2 70.Qh6+ Rh3 71.Qf4+ 1-0

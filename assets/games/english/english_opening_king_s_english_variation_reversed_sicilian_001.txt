@@ -1,0 +1,15 @@
+[Event "Round 9: Odell Johansson, Leo - Neretljak, Nedzad"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-9/YdJ04lmV/xtUaDQY4"]
+[Date "2026.07.01"]
+[Round "9.1"]
+[White "Odell Johansson, Leo"]
+[Black "Neretljak, Nedzad"]
+[Result "1-0"]
+[WhiteElo "2053"]
+[BlackElo "2068"]
+[ECO "A21"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+
+1.c4 e5 2.Nc3 c6 3.Nf3 Bd6 4.d4 Qe7 5.dxe5 Bxe5 6.Nxe5 Qxe5 7.g3 Nf6 8.Bg2 O-O 9.O-O Qe8 10.Bg5 Qe6 11.Qd4 Ne8 12.Rad1 d6 13.b3 Nd7 14.Ne4 h6 15.Bf4 a5 16.a4 Ndf6 17.Nxd6 Nxd6 18.Bxd6 Rd8 19.e4 Ne8 20.e5 Qg4 21.Qb6 Nxd6 22.Qxd8+ 1-0

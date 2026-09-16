@@ -1,0 +1,14 @@
+[Event "Round 10: Bluebaum, Matthias - Erdogmus, Yagiz Kaan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-10/3KUMTm2L/TX8H9Qts"]
+[Date "2026.07.19"]
+[Round "10.2"]
+[White "Bluebaum, Matthias"]
+[Black "Erdogmus, Yagiz Kaan"]
+[Result "0-1"]
+[WhiteElo "2634"]
+[BlackElo "2546"]
+[ECO "A40"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.a3 Bb7 4.Nc3 Nf6 5.Bf4 g6 6.Qc2 Bg7 7.e4 O-O 8.Nf3 d6 9.Be3 c5 10.d5 exd5 11.cxd5 a6 12.a4 Re8 13.h3 Nbd7 14.Nd2 Qe7 15.Be2 b5 16.axb5 axb5 17.Rxa8 Rxa8 18.Bxb5 Ra1+ 19.Nd1 Nb6 20.O-O Nbxd5 21.exd5 Nxd5 22.Nc4 Nc7 23.Ba4 Ba6 24.Re1 d5 25.Nb6 d4 26.Bd2 Ne6 27.Bb3 d3 28.Nd5 Qb7 29.Qc4 Bxc4 30.Bxc4 Bxb2 31.g3 Bd4 32.Rf1 Ra4 33.N1e3 Rxc4 34.Nxc4 Qxd5 35.Ne3 Qf3 36.Ng2 Qxg3 37.Be3 Qxh3 38.Bxd4 Nxd4 39.Ne1 d2 40.f3 Qg3+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 6: Dirikolu, Deniz - Shubin, Kirill"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-6/DhWApaGr/KL5LBhEo"]
+[Date "2026.07.02"]
+[Round "6.4"]
+[White "Dirikolu, Deniz"]
+[Black "Shubin, Kirill"]
+[Result "0-1"]
+[WhiteElo "2373"]
+[BlackElo "2490"]
+[ECO "B66"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O Be7 10.Bxf6 gxf6 11.Bc4 Qa5 12.f4 h5 13.f5 Rb8 14.Bb3 Qe5 15.Kb1 a5 16.Qf2 Rb7 17.Qg3 Qxg3 18.hxg3 exf5 19.Ba4 Bd7 20.exf5 d5 21.Ne2 Bd6 22.b3 Kf8 23.Nd4 Rc7 24.g4 h4 25.Rh3 Rg8 26.Rxh4 Bg3 27.Rh7 Rxg4 28.Rh8+ Ke7 29.Rh7 Be5 30.Ne6 Rc8 31.Re1 Rcg8 0-1

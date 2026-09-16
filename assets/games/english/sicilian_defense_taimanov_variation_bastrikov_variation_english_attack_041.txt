@@ -1,0 +1,15 @@
+[Event "Round 5: Saranya Devi Narahari - Nguyen Binh Vy"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-5/UNIsdUGM/nldJLkWr"]
+[Date "2026.07.16"]
+[Round "5.1"]
+[White "Saranya Devi Narahari"]
+[Black "Nguyen Binh Vy"]
+[Result "0-1"]
+[WhiteElo "2097"]
+[BlackElo "2129"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.Qe2 d6 9.O-O Be7 10.h3 O-O 11.Kh1 b5 12.Nxc6 Qxc6 13.a3 Bb7 14.Rae1 Rac8 15.f4 Nd7 16.Bd4 e5 17.Nd5 Bd8 18.fxe5 dxe5 19.Bc3 Qe6 20.Ne3 g6 21.Bb4 Be7 22.Bxe7 Qxe7 23.Qf2 Rc7 24.Ng4 h5 25.Nh2 Rc6 26.Qe3 Kg7 27.Rf2 Qc5 28.Qg3 Rf6 29.Rxf6 Nxf6 30.Nf3 Re8 31.Nh4 Bc8 32.Rf1 Qc6 33.Nf3 Qd6 34.Ng5 Re7 35.Qh4 Ng8 36.Qf2 Be6 37.Qe2 Rc7 38.Nxe6+ Qxe6 39.b3 Qd6 40.a4 bxa4 41.bxa4 a5 42.Rb1 Nf6 43.Rb5 h4 44.Qf2 Nh5 45.Qxh4 Nf4 46.Qg3 Rc5 47.Rxc5 Qxc5 48.Qe1 Qb6 49.Kh2 Qc5 50.Qd2 Kh7 51.Bb5 Kg7 52.Bf1 Ne6 53.c3 Qc6 54.Qc2 Nc5 55.Bb5 Qf6 56.g3 Qf3 57.Be2 Qxe4 58.Qxe4 Nxe4 59.c4 Nc5 60.Bd1 f5 61.h4 Kf6 62.Kg2 g5 63.hxg5+ Kxg5 64.Kf3 Kf6 65.Ke3 Ke6 66.Bc2 Nd7 67.Bb1 Nc5 68.Bc2 e4 69.Kf4 Kf6 70.g4 Ne6+ 71.Ke3 fxg4 72.Kxe4 g3 73.Ke3 Ng5 74.c5 g2 75.Kf2 Nf3 76.Kxg2 Ne1+ 77.Kg3 Nxc2 78.Kf4 Ke6 79.Ke4 Kd7 80.Kd5 Nb4+ 81.Kc4 Kc6 82.Kb3 Kxc5 83.Kc3 Nd5+ 84.Kb3 Kd4 85.Kb2 Kc4 86.Ka3 Nb6 87.Kb2 Nxa4+ 88.Ka3 Nc5 89.Ka2 Kb4 90.Kb2 a4 91.Ka2 a3 92.Ka1 Kb3 93.Kb1 Ne6 94.Ka1 Nd4 95.Kb1 a2+ 96.Kc1 a1=Q+ 97.Kd2 Qc3+ 98.Kd1 Qc2+ 99.Ke1 Qe2# 0-1

@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.09"]
+[Round "8.3"]
+[White "ROHITH KRISHNA S"]
+[Black "Sonis, Francesco"]
+[Result "0-1"]
+[WhiteElo "2489"]
+[BlackElo "2540"]
+[ECO "A17"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, Nimzo-English"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 4.Qc2 c5 5.a3 Bxc3 6.Qxc3 b6 7.b4 d6 8.g3 Bb7 9.Bg2 O-O 10.O-O Nbd7 11.d3 Rc8 12.Bb2 d5 13.Qb3 Rc7 14.Rfc1 d4 15.bxc5 bxc5 16.e4 dxe3 17.fxe3 Ng4 18.Re1 Bxf3 19.Bxf3 Nde5 20.Bxg4 Nxg4 21.Qc2 Qg5 22.Rab1 Rd7 23.Qe2 h5 24.Ba1 h4 25.gxh4 Qxh4 26.Rf1 f5 27.d4 Rf6 28.Rf4 Rg6 29.Kh1 Rh6 30.d5 Qg3 31.Rxg4 fxg4 32.e4 Rf7 33.Rg1 Rf2 34.Rxg3 Rxe2 35.Be5 Rexh2+ 36.Kg1 Rh1+ 37.Kf2 R6h2+ 38.Ke3 Re1+ 39.Kd3 Rh3 40.dxe6 Rg1 41.Rxh3 gxh3 42.Ke3 Rg2 43.Kf3 Ra2 44.e7 Kf7 0-1

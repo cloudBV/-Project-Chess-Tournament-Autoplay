@@ -1,0 +1,15 @@
+[Event "Round 6: Jordan, William - Scott, Ronald"]
+[Site "https://lichess.org/broadcast/2026-zina-koodrin-memorial-checkmate-weekend-open/round-6/WvDVG3Mt/f6LhSHbJ"]
+[Date "2026.07.08"]
+[Round "6.1"]
+[White "Jordan, William"]
+[Black "Scott, Ronald"]
+[Result "1/2-1/2"]
+[WhiteElo "2063"]
+[BlackElo "2214"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Qa5 5.g3 d6 6.Bg2 Nf6 7.e5 dxe5 8.Nxe5 Nxe5 9.Bxe5 Be7 10.O-O O-O 11.Qe2 Nd7 12.Bb2 Rb8 13.a4 Bf6 14.Bxf6 Nxf6 15.Na3 Bd7 16.Nc4 Qc7 17.Ne5 Rfd8 18.Rfe1 Be8 19.h4 Nd5 20.Rac1 Ne7 21.Rcd1 Nc6 1/2-1/2

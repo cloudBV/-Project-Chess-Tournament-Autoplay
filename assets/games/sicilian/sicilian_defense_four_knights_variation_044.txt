@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-9/BACu8Amk/3KZjKHRf"]
+[Date "2026.07.24"]
+[Round "9.4"]
+[White "Tallada Serret, Gerard"]
+[Black "Galvez Ruiz, Antonio"]
+[Result "1/2-1/2"]
+[WhiteElo "2337"]
+[BlackElo "2085"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d6 7.Be3 Be7 8.Be2 Bd7 9.O-O Nxd4 10.Qxd4 O-O 11.f4 Bc6 12.Bf3 e5 13.Qd2 exf4 14.Bxf4 Nd7 15.Rad1 Ne5 16.Be2 Rc8 17.Qd4 Qa5 18.b4 Qb6 19.Qxb6 axb6 20.b5 Be8 21.Nd5 Bd8 22.Ne3 Bc7 23.Nf5 Rd8 24.Kh1 f6 25.Ne7+ Kh8 26.Nd5 Bb8 27.Nxf6 Bg6 28.Nd5 Bxe4 29.c4 h6 30.Kg1 Bc2 31.Rc1 Bg6 32.Be3 Nd7 33.Bd4 Be4 34.Bf3 Bxf3 35.gxf3 Kh7 36.Kg2 Rde8 37.Rfe1 Ne5 38.Bxb6 Rc8 39.Rc3 Nxc4 40.Bd4 Ne5 41.f4 Ng6 42.f5 Nh4+ 43.Kh1 Nxf5 44.Bf2 1/2-1/2

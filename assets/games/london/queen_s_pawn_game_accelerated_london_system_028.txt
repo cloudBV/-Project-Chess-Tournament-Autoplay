@@ -1,0 +1,14 @@
+[Event "Round 2: Roettinger, Eugen - Christian Hess"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-2/yi2iwZcH/RFVTNFFW"]
+[Date "2026.07.18"]
+[Round "2.12"]
+[White "Roettinger, Eugen"]
+[Black "Christian Hess"]
+[Result "0-1"]
+[WhiteElo "2003"]
+[BlackElo "2205"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.Nc3 a6 5.dxc5 e6 6.b4 b6 7.Rb1 bxc5 8.bxc5 Nc6 9.Bd3 Bxc5 10.Nf3 Bb4 11.Rb3 Qe7 12.Ne5 Qc5 13.Qc1 0-1

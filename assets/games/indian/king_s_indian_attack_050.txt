@@ -1,0 +1,14 @@
+[Event "Round 4: Malikentzos, Sotirios - Hartofylakas, Spyros"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-4/rmZWu6wF/m6wG7u1c"]
+[Date "2026.07.07"]
+[Round "4.32"]
+[White "Malikentzos, Sotirios"]
+[Black "Hartofylakas, Spyros"]
+[Result "1-0"]
+[WhiteElo "2437"]
+[BlackElo "2218"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Nc3 Bf5 5.Nh4 Bg4 6.h3 Bh5 7.Ng2 Nf6 8.Nf4 Bg6 9.Nxg6 hxg6 10.Qd3 e6 11.Bg2 c6 12.e4 Bb4 13.e5 Nfd7 14.O-O Be7 15.Ne2 Qc7 16.a4 a5 17.b3 c5 18.Nc3 c4 19.Nb5 Qc6 20.Qe2 Nb8 21.Bd2 Qd7 22.h4 Nc6 23.Bf3 f5 24.exf6 gxf6 25.Rfe1 Kf7 26.Bf4 Rac8 27.Bg2 Bb4 28.Red1 Rce8 29.Qf3 Kg7 30.Bh3 cxb3 31.cxb3 Nc8 32.Rac1 Qf7 33.Bg2 Re7 34.Qg4 Rd7 35.Bh3 f5 36.Qe2 Nd6 37.Rxc6 bxc6 38.Nxd6 Rxd6 39.Be5+ Kh7 40.Rc1 Rc8 41.Bxd6 Bxd6 42.Qa6 Qc7 43.Kh2 Kg7 44.Bf1 f4 45.Rc3 fxg3+ 46.fxg3 Rf8 47.Bg2 Qe7 48.Kh1 c5 49.dxc5 Bxc5 50.Qxa5 Bd6 51.Qb6 Be5 52.Re3 Qf6 53.Rf3 Qe7 54.Rxf8 Kxf8 55.Qe3 Qd6 56.Qh6+ Kf7 57.Qh7+ Bg7 58.Kh2 Qe5 59.a5 d4 60.a6 Qa5 61.Be4 Qxa6 62.Qxg6+ Kf8 63.Bd3 Qa2+ 64.Bc2 Qa6 65.Qe4 Qd6 66.Kh3 Qe5 67.Qxe5 Bxe5 68.g4 Ke7 69.g5 Kd6 70.h5 Bh8 71.Kg4 Kc5 72.h6 1-0

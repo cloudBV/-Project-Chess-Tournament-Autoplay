@@ -1,0 +1,15 @@
+[Event "Round 6: Mondrzycki, Bartlomiej - Straka, Vojtech"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-6/GEcXoMmj/kFay2smx"]
+[Date "2026.07.19"]
+[Round "6.18"]
+[White "Mondrzycki, Bartlomiej"]
+[Black "Straka, Vojtech"]
+[Result "1-0"]
+[WhiteElo "2177"]
+[BlackElo "2399"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 c6 5.O-O Nf6 6.c3 h5 7.Bf4 Bf5 8.Qb3 Qb6 9.Nbd2 Nbd7 10.c4 Qxb3 11.axb3 Ne4 12.cxd5 cxd5 13.Rfc1 O-O 14.Rc7 b6 15.Raxa7 Rxa7 16.Rxa7 Ndf6 17.h3 Rc8 18.Rxe7 Rc2 19.Rb7 g5 20.Rb8+ Bf8 21.Nxe4 dxe4 22.Nxg5 Rxe2 23.Bf1 Re1 24.Kg2 Nd7 25.Rd8 Kg7 26.Bb5 Nf6 27.Be5 Be7 28.Re8 Bb4 29.Rb8 e3 30.fxe3 Rxe3 31.Rxb6 Be7 32.Rb7 Kf8 33.Rb8+ Kg7 34.Rb7 Kf8 35.Bxf6 Bxf6 36.Rxf7+ 1-0

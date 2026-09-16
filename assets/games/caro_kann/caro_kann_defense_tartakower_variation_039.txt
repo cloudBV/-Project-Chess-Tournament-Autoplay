@@ -1,0 +1,15 @@
+[Event "Round 4: Akkaya, Atakan - Maruflu, Enes Yusuf"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/5CVv2xwL"]
+[Date "2026.07.15"]
+[Round "4.28"]
+[White "Akkaya, Atakan"]
+[Black "Maruflu, Enes Yusuf"]
+[Result "0-1"]
+[WhiteElo "2042"]
+[BlackElo "2204"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.Nf4 Nd7 12.Qd1 Nf8 13.Qh5 Qc7 14.g3 Qd7 15.a4 hxg3 16.fxg3 Qg4 17.Qxg4 Bxg4 18.Bd2 c5 19.Bb5 Red8 20.Be3 cxd4 21.Bxd4 Be5 22.Be3 a6 23.Bc4 Rac8 24.Bb3 Rd7 25.a5 Rcd8 26.Bb6 Bc7 27.Bd4 Ne6 28.Nxe6 Bxe6 29.Bc2 Rd5 30.Be4 Rxa5 31.Rxa5 Bxa5 32.Bxb7 Rb8 33.Bxa6 Rxb2 34.Bd3 Rd2 35.Bf5 Bc7 36.Be4 Be5 37.Bxe5 fxe5 38.Rf2 Rd1+ 39.Rf1 Rd2 40.Rf2 Rd8 41.Kg2 g6 42.Rc2 Kg7 43.Bf3 Bf5 44.Re2 f6 45.c4 Bd3 46.Rd2 Bf1+ 0-1

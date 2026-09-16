@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.15"]
+[Round "9.9"]
+[White "ice4 6.1.1"]
+[Black "Sirius 3bedea6e"]
+[Result "1/2-1/2"]
+[WhiteElo "3156"]
+[BlackElo "3452"]
+[ECO "E64"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Pterodactyl Variation"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.c4 c5 5.d4 Qa5+ 6.Bd2 Qb6 7.Nc3 cxd4 8.Na4 Qc6 9.O-O O-O 10.Rc1 d6 11.Nxd4 Qd7 12.b3 Nc6 13.Nxc6 bxc6 14.e4 Qc7 15.Bc3 Ne8 16.Qd2 Bxc3 17.Qxc3 Ng7 18.c5 dxc5 19.f4 Rd8 20.Nxc5 a5 21.Rf2 Qa7 22.Bf1 Ne6 23.Na4 Qd4 24.Qe1 Ba6 25.Bxa6 Rxa6 26.Kg2 Rd6 27.f5 Ng7 28.Nb2 gxf5 29.Nc4 Rd7 30.exf5 Qd5+ 31.Kg1 f6 32.g4 Qd4 33.h3 a4 34.b4 h5 35.Kh1 Rd5 36.Qe2 Kf7 37.g5 Qd3 38.g6+ Ke8 39.Qxd3 Rxd3 40.Kg2 a3 41.Rf4 Kf8 42.Rc2 Ra8 43.Na5 Rd5 44.Rcf2 c5 45.Nc4 Rb8 46.bxc5 Rxc5 47.Nxa3 Rbc8 48.Kh2 Ne8 49.Nb1 Rc2 50.a4 R8c4 51.Rxc4 Rxf2+ 52.Kg3 Rxf5 53.Rc8 Rg5+ 54.Kf2 Rxg6 55.Rc5 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "5.19"]
+[White "Sulyok, Eszter"]
+[Black "Bodnar, Zoltan"]
+[Result "1-0"]
+[WhiteElo "2058"]
+[BlackElo "2153"]
+[ECO "E12"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation"]
+
+1.c4 b6 2.Nc3 Bb7 3.d4 e6 4.a3 Nf6 5.Nf3 Ne4 6.Nxe4 Bxe4 7.d5 Bxf3 8.exf3 e5 9.f4 d6 10.Bd3 Nd7 11.Qe2 Qe7 12.O-O Nc5 13.Bc2 exf4 14.Qg4 h5 15.Qh3 Qe5 16.Bd2 Be7 17.Rfe1 Qxb2 18.Rac1 Qf6 19.Re2 Kf8 20.Rce1 Qb2 21.Bc3 Qa2 22.Bd1 Qxc4 23.Rxe7 Ne6 24.Rxf7+ Kxf7 25.Qxe6+ 1-0

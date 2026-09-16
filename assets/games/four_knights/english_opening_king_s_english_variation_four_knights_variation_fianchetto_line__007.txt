@@ -1,0 +1,15 @@
+[Event "Round 7: Garcia Martin, Marta - Petriashvili, Nikoloz"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-7/wtefqve1/HgvCUx6q"]
+[Date "2026.07.10"]
+[Round "7.6"]
+[White "Garcia Martin, Marta"]
+[Black "Petriashvili, Nikoloz"]
+[Result "0-1"]
+[WhiteElo "2334"]
+[BlackElo "2510"]
+[ECO "A29"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with .. d6, a6"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 a6 4.d3 Nc6 5.Nf3 Bc5 6.Nc3 d6 7.e3 O-O 8.O-O Ba7 9.b3 Bd7 10.Bb2 Qc8 11.Rc1 Bg4 12.a3 Qf5 13.Nd5 Ne8 14.Nh4 Qd7 15.Qd2 Nd8 16.d4 f6 17.f4 c6 18.Nb4 exd4 19.exd4 f5 20.Nd3 Nf6 21.Nf2 d5 22.Nxg4 fxg4 23.c5 Nf7 24.Qd3 Rae8 25.Rce1 Rxe1 26.Rxe1 Re8 27.Re3 g6 28.Qe2 Rxe3 29.Qxe3 Bb8 30.Bf1 Nh6 31.Bd3 Nf5 32.Nxf5 gxf5 33.b4 Kf7 34.a4 h5 35.Qe2 Bc7 36.b5 axb5 37.axb5 cxb5 38.Bxb5 Qe6 39.Qxe6+ Kxe6 40.h3 Ba5 41.Kg2 Be1 42.Bc1 Ne4 43.Be8 Nxg3 44.Bd2 Bxd2 45.Kxg3 h4+ 46.Kg2 Bxf4 47.Bh5 g3 48.Kf3 Bc1 49.Be8 Bb2 50.c6 bxc6 51.Bxc6 Bxd4 52.Bb5 Ke5 53.Bd3 f4 54.Bf1 Be3 55.Bg2 Kd4 56.Kg4 Kc4 57.Kxh4 d4 58.Bf1+ d3 59.Kg4 Kc3 0-1

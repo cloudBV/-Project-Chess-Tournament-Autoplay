@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.20"]
+[Round "3.13"]
+[White "Bettalli, Francesco"]
+[Black "Vaidyanathan, Adithya"]
+[Result "1-0"]
+[WhiteElo "2396"]
+[BlackElo "2261"]
+[ECO "B56"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.h4 a6 7.h5 h6 8.Nxc6 bxc6 9.e5 dxe5 10.Qxd8+ Kxd8 11.Na4 Kc7 12.Bd2 a5 13.Bc3 Nd7 14.Rh3 e6 15.Rg3 Rg8 16.Bd3 Bb7 17.O-O-O Be7 18.Kb1 Bh4 19.Re3 Bf6 20.b3 Nb6 21.Nxb6 Kxb6 22.Be4 Rgd8 23.Red3 Rxd3 24.Rxd3 Rd8 25.Rxd8 Bxd8 26.Bxe5 f5 27.Bf3 Bf6 28.Bxf6 gxf6 29.g3 Kc5 30.c3 Ba6 31.Kc2 Bf1 32.a3 e5 33.Kd2 Bh3 34.b4+ axb4 35.cxb4+ Kb5 36.Kc3 c5 37.Be2+ Kb6 38.a4 cxb4+ 39.Kxb4 Bg2 40.a5+ Kc6 41.Bb5+ Kd6 42.Bd3 Bf3 43.Kb5 e4 44.Bc4 f4 45.gxf4 Bxh5 46.Kb6 Bf3 47.a6 h5 48.a7 e3 49.fxe3 h4 50.Bf1 Ba8 51.Bh3 Be4 52.Bc8 1-0

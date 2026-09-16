@@ -1,0 +1,14 @@
+[Event "Round 1: Arnaudov, G. Petar - Bryant, Harry"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-1/HpSVQtBg/RHaAPGMx"]
+[Date "2026.07.04"]
+[Round "1.27"]
+[White "Arnaudov, G. Petar"]
+[Black "Bryant, Harry"]
+[Result "1-0"]
+[WhiteElo "2399"]
+[BlackElo "2149"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.c4 c6 5.O-O b5 6.b3 bxc4 7.bxc4 Ba6 8.d3 dxc4 9.d4 Nbd7 10.Qa4 Bb5 11.Qc2 Bd6 12.e4 e5 13.Rd1 Qc7 14.Na3 O-O 15.Nxc4 Bxc4 16.Qxc4 Rad8 17.Bb2 Rfe8 18.Rac1 Nb6 19.Qxc6 Qxc6 20.Rxc6 Nxe4 21.Re1 exd4 22.Nxd4 Nf6 23.Rxe8+ Nxe8 24.Nb5 Bb8 25.Bd4 Nd6 26.Nxa7 Bxa7 27.Bxb6 Bxb6 28.Rxb6 Kf8 29.Ra6 Nc4 30.Ra8 Rxa8 31.Bxa8 Ke7 32.Bd5 Nb6 33.Bb3 f5 34.f4 h6 35.Kf2 Kd6 36.Ke3 g5 37.Kd4 gxf4 38.gxf4 Nd7 39.Bc2 Nf6 40.a4 Nd5 41.Bxf5 Nxf4 42.a5 Nd5 43.Be4 Nc7 44.Kc4 h5 45.h4 Ne6 46.Bf3 Nd8 47.a6 Ne6 48.a7 Nc7 49.Bxh5 Nd5 50.Bf3 1-0

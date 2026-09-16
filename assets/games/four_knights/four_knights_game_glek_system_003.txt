@@ -1,0 +1,15 @@
+[Event "Round 7: Nakamura, Hikaru - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/ZJpwSS00"]
+[Date "2026.07.04"]
+[Round "7.4"]
+[White "Nakamura, Hikaru"]
+[Black "Suleymanli, Aydin"]
+[Result "1-0"]
+[WhiteElo "2838"]
+[BlackElo "2559"]
+[ECO "C47"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Glek System"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 Bc5 5.Bg2 d6 6.d3 a5 7.O-O a4 8.h3 h6 9.Nb5 O-O 10.a3 Re8 11.c4 Bd7 12.Be3 Qc8 13.Kh2 Bxe3 14.fxe3 Ne7 15.Nc3 Ng6 16.Qc2 Nh7 17.Rf2 Ng5 18.Ng1 Rf8 19.Raf1 Qd8 20.d4 Ne6 21.Nge2 c5 22.d5 Ng5 23.Ng1 Nh7 24.Nf3 Qb6 25.Nd2 Ng5 26.h4 Nh7 27.Bh3 Bxh3 28.Kxh3 Qc7 29.Qd1 Ne7 30.Qg4 Ra6 31.Nb5 Qd8 32.Nb1 f5 33.exf5 Nf6 34.Qf3 h5 35.e4 Ng4 36.Re2 g6 37.Qd3 Qd7 38.Kg2 Raa8 39.N1c3 Rf6 40.Nd1 Raf8 41.Nf2 gxf5 42.Nxg4 hxg4 43.exf5 Nxf5 44.Ref2 Qh7 45.Qe2 Qh5 46.Nc3 Nd4 47.Qd2 Nf3 48.Qe3 Rg6 49.Ne4 Rf7 50.Nc3 Kg7 51.Ne4 Qf5 52.Nd2 Rgf6 53.Nxf3 gxf3+ 54.Rxf3 Qc2+ 55.R1f2 Rxf3 56.Qg5+ Qg6 57.Qxg6+ Kxg6 58.Rxf3 Rxf3 59.Kxf3 Kh5 60.Kf2 Kg4 61.Kg2 Kh5 62.Kh3 Kh6 63.g4 Kg6 64.Kg3 Kf6 65.h5 Kg5 66.Kh3 Kh6 67.Kh4 Kg7 68.g5 Kh7 69.h6 Kg6 70.Kg4 b6 71.Kh4 Kf7 72.Kh5 Kg8 73.g6 Kh8 74.Kg5 1-0

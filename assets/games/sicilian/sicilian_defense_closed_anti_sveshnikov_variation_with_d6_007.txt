@@ -1,0 +1,14 @@
+[Event "Round 7: Genzling, Alain - Daulyte-Cornette, Deimante"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-7/ICihhEMf/eI91GD7Z"]
+[Date "2026.07.16"]
+[Round "7.3"]
+[White "Genzling, Alain"]
+[Black "Daulyte-Cornette, Deimante"]
+[Result "1/2-1/2"]
+[WhiteElo "2352"]
+[BlackElo "2394"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, with d6"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 Be7 5.d3 d6 6.Nd2 Nf6 7.Nf1 Bg4 8.f3 Be6 9.Ne3 O-O 10.O-O Nd7 11.Ncd5 Nb6 12.Nxb6 axb6 13.Nd5 Na5 14.c3 Nxc4 15.dxc4 f5 1/2-1/2

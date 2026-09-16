@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "5.5"]
+[White "Cnejev, Vladimir-Alexandru"]
+[Black "Vashchenko, Illia"]
+[Result "1-0"]
+[WhiteElo "2327"]
+[BlackElo "2016"]
+[ECO "B30"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.a4 Nf6 6.Re1 O-O 7.c3 Re8 8.h3 Bf8 9.d3 h6 10.Nbd2 Qc7 11.Nf1 a6 12.Bc4 d6 13.Bd2 Be6 14.Bxe6 fxe6 15.b4 cxb4 16.cxb4 d5 17.Qb3 b5 18.Ng3 d4 19.axb5 axb5 20.Rxa8 Rxa8 21.Qxe6+ Kh7 22.Rc1 Ra6 23.Qf5+ Kg8 24.Qe6+ Kh7 25.Qf5+ Kg8 26.Bxh6 Qd7 27.Bd2 Qxf5 28.Nxf5 Nxb4 29.Nxe5 Na2 30.Rc8 Re6 31.Ng6 Nh7 32.Nxf8 Nxf8 33.Nxd4 Rd6 34.Nxb5 Rxd3 35.Rc2 Rb3 36.Rxa2 Rxb5 37.Be3 Ng6 38.Kf1 Ne5 39.Ke2 Kh7 40.Rc2 Kg6 41.f4 Nf7 42.Rc6+ Kh7 43.Kf3 Rb3 44.e5 Nh6 45.g4 g5 46.f5 Nf7 47.Rc7 Kg8 48.e6 Nd6 49.f6 Rb8 50.Rg7+ Kh8 51.Rd7 Nc4 52.Bd4 Rb3+ 53.Ke4 Nd2+ 54.Kf5 Nf3 55.Rd8+ Kh7 56.Rd7+ Kh8 57.Kg6 Rb8 58.Rh7+ Kg8 59.f7+ Kf8 60.Bc5# 1-0

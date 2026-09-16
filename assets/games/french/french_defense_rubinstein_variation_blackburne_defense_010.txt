@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "https://lichess.org/broadcast/25th-european-youth-rapid-blitz-chess-championship-blitz-o14/round-8-game-2/mZo2y8ia/5gAtpazX"]
+[Date "2026.07.09"]
+[Round "16.4"]
+[White "Korszanski, Stanislaw"]
+[Black "Achinovich, Oleg"]
+[Result "1/2-1/2"]
+[WhiteElo "2267"]
+[BlackElo "2077"]
+[ECO "C10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 Nxe4 7.Bxe4 Nf6 8.Bd3 Be7 9.Qe2 c5 10.dxc5 Bxc5 11.Bd2 Bd7 12.O-O-O Qc7 13.Kb1 O-O-O 14.Ne5 Bc6 15.Nxc6 Qxc6 16.f3 Kb8 17.Bc3 a6 18.Be5+ Ka8 19.Rhe1 Qb6 20.Bc4 Bd4 21.Bb3 Bf2 22.Rf1 Bd4 23.Bg3 Nd5 24.Rfe1 Bf6 25.a3 Qc5 26.Bf2 Qa5 27.Bxd5 Rxd5 28.Rxd5 Qxd5 29.Rd1 Qc6 30.Bd4 Bxd4 31.Rxd4 Rc8 32.Qd2 Rc7 33.Rd8+ Ka7 34.Qf2+ b6 35.Qd2 e5 36.Rd5 f6 37.Rd6 Qc5 38.h3 Qg1+ 39.Ka2 Qc5 40.Rd7 Qc4+ 41.b3 Qc6 42.Rd6 Qxc2+ 43.Qxc2 Rxc2+ 44.Kb1 Rxg2 45.b4 Kb7 46.a4 Kc7 47.Re6 h5 48.a5 bxa5 49.bxa5 Rg3 50.Rxa6 Rxf3 51.Ra7+ Kd6 52.Rxg7 Rxh3 53.Kb2 Rh2+ 54.Kb3 Rh3+ 55.Kb2 Rh2+ 56.Kb3 Rh1 57.Kb2 Rh4 58.Kb3 Rh3+ 59.Kb2 Rh2+ 1/2-1/2

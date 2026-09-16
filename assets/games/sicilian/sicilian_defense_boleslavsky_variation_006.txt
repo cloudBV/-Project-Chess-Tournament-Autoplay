@@ -1,0 +1,15 @@
+[Event "Round 4: Annaberdiyev, Meylis - Salci, Aytug Celal"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/oJKue5nj"]
+[Date "2026.07.15"]
+[Round "4.21"]
+[White "Annaberdiyev, Meylis"]
+[Black "Salci, Aytug Celal"]
+[Result "1-0"]
+[WhiteElo "2427"]
+[BlackElo "2141"]
+[ECO "B58"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 e5 7.Nf3 Be7 8.Bg5 Be6 9.Bxf6 Bxf6 10.O-O O-O 11.Nd5 Bxd5 12.Qxd5 Qb6 13.Qb3 Nd4 14.Nxd4 Qxd4 15.Bf3 b5 16.Rfd1 Qb6 17.Rd5 Rab8 18.Rad1 Be7 19.Bg4 g6 20.g3 Kg7 21.Qd3 a6 22.h4 f5 23.exf5 Rf7 24.h5 Rbf8 25.hxg6 hxg6 26.Kg2 gxf5 27.Rh1 Qc6 28.Qd2 Rf6 29.Bf3 e4 30.Qg5+ Kf7 31.Bh5+ Ke6 32.Rhd1 Qxd5 33.Rxd5 Kxd5 34.Qg7 Bd8 35.Qb7+ Ke5 36.f4+ exf3+ 37.Bxf3 Rg6 38.Qxa6 Bh4 39.Qxb5+ Kf6 40.g4 Kg7 41.g5 Rxg5+ 42.Kf1 Rf7 43.Qe8 Rg3 44.Bd5 Re7 45.Qg8+ Kf6 46.Qf8+ Ke5 47.Qh8+ Bf6 48.Qh2 Kf4 49.a4 Kg4 50.Qd2 Bh4 51.Qd1+ Kg5 52.Qd2+ Rge3 53.Bf3 Kf4 54.Bh5 d5 55.a5 Be1 56.Qxd5 R7e5 57.Qd6 Bxa5 58.b4 Bxb4 59.Qxb4+ Kg3 60.Qd2 Kh4 61.Bd1 R5e4 62.Kf2 f4 63.Bf3 Re7 64.Qd5 R3e5 65.Qg8 1-0

@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/uL20wKzY"]
+[Date "2026.07.04"]
+[Round "8.2"]
+[White "Krysztofiak, Marcin"]
+[Black "Pultinevicius, Paulius"]
+[Result "1-0"]
+[WhiteElo "2391"]
+[BlackElo "2565"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 cxd4 5.exd4 b6 6.c3 Be7 7.h3 O-O 8.Nbd2 d6 9.Bd3 Ba6 10.Bxa6 Nxa6 11.O-O Nc7 12.a4 Ncd5 13.Bh2 a6 14.Qb3 Qd7 15.c4 Nc7 16.Qxb6 Rfb8 17.Qa5 Rxb2 18.Rfb1 Rxb1+ 19.Rxb1 Nfe8 20.Rb7 Qc8 21.Qb6 a5 22.Qc6 Ra6 23.Rb6 Rxb6 24.Qxb6 Qa8 25.Nb3 Qe4 26.Bg3 h5 27.c5 e5 28.cxd6 Bxd6 29.Bxe5 Bxe5 30.dxe5 Qxa4 31.Nxa5 g5 32.Nc6 Ne6 33.Ncd4 N8g7 34.Nxe6 Nxe6 35.Qe3 g4 36.Ng5 Nf4 37.hxg4 hxg4 38.Kh2 Kg7 39.Ne4 Ne6 40.Qe2 Qd4 41.Qxg4+ Kf8 42.Qf5 Qd5 43.Nd6 Nd4 1-0

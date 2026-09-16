@@ -1,0 +1,15 @@
+[Event "Round 9: Hamidov, Allahverdi - Manafov, Vugar"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-9/R1P9v0O5/E6MuoLDF"]
+[Date "2026.07.04"]
+[Round "9.5"]
+[White "Hamidov, Allahverdi"]
+[Black "Manafov, Vugar"]
+[Result "0-1"]
+[WhiteElo "2306"]
+[BlackElo "2448"]
+[ECO "E28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Ne2 Nc6 8.Ng3 b6 9.e4 Ne8 10.Be2 Ba6 11.O-O Na5 12.f4 cxd4 13.cxd4 Bxc4 14.Bxc4 Nxc4 15.f5 f6 16.Rb1 Qe7 17.Rb3 Rc8 18.Nh5 Ncd6 19.Re3 exf5 20.exf5 Qf7 21.Rh3 Qd5 22.Ng3 Rf7 23.Rh4 Re7 24.h3 Rc3 25.Qg4 Rc2 26.Nh5 Re4 27.Nf4 Qc4 28.Qh5 h6 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.7"]
+[White "Rozanski, Mateusz"]
+[Black "Karvatskyi, Oleksii"]
+[Result "*"]
+[WhiteElo "2213"]
+[BlackElo "2276"]
+[ECO "A22"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Carls-Bremen System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Be7 4.Bg2 O-O 5.e3 c6 6.Nge2 d5 7.cxd5 cxd5 8.d4 e4 9.O-O Nc6 10.f4 exf3 11.Bxf3 Bb4 12.Nf4 Bxc3 13.bxc3 Re8 14.Qb3 Na5 15.Qc2 Nc4 16.Qd3 Be6 17.Rb1 b6 18.Bg2 Rc8 19.Nxe6 Rxe6 20.Bh3 Re4 21.Bf5 Rc7 22.Bc8 Qxc8 23.Rf4 h5 24.Bd2 h4 25.Kg2 h3+ 26.Kg1 Qe6 27.Rbf1 a5 28.Bc1 a4 29.Rxe4 Nxe4 30.Qe2 Nxc3 31.Qc2 Qe4 32.Qxe4 Nxe4 33.Rf5 Nf6 34.Kf1 b5 35.Ke2 b4 36.Kd3 Nd6 37.Rf2 Ng4 38.Rb2 Nc4 39.Re2 f5 40.Bd2 b3 41.axb3 axb3 42.Bc1 Nd6 *

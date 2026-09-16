@@ -1,0 +1,14 @@
+[Event "Round 1: Iafelice, Vincenzo - Kozak, Adam"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/7Q0rHz5X"]
+[Date "2026.07.13"]
+[Round "1.6"]
+[White "Iafelice, Vincenzo"]
+[Black "Kozak, Adam"]
+[Result "0-1"]
+[WhiteElo "2086"]
+[BlackElo "2531"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O a5 7.Re1 Ba7 8.Nbd2 O-O 9.Nf1 Be6 10.Bb5 Ne7 11.Ng3 c6 12.Ba4 Ng6 13.Be3 Bxe3 14.Rxe3 h5 15.h3 h4 16.Nf5 Bxf5 17.exf5 Nf4 18.Bc2 Re8 19.Qd2 N6d5 20.Re4 Qf6 21.Kh2 Qxf5 22.Nxh4 Qg5 23.g3 Nxh3 24.Qxg5 Nxg5 25.Rg4 Ne6 26.Nf5 Rad8 27.Kg2 Nf6 28.Rh4 g6 29.Ne3 d5 30.Re1 Kg7 31.f3 Rh8 32.Rxh8 Rxh8 33.Nf1 Nd7 34.Nd2 Kf6 35.Nb3 Ra8 36.Nd2 Ra6 37.Kf2 Rb6 38.Rb1 Ke7 39.Bd1 Ra6 40.Be2 Ra8 41.Rh1 b5 42.Rh4 Ndc5 43.Rh1 Na4 44.Rb1 b4 45.c4 Rh8 46.Nf1 Kd6 47.Bd1 Nac5 48.Be2 Nd4 49.Rd1 f5 50.Rd2 f4 51.Bd1 g5 52.Kg2 Nf5 53.cxd5 cxd5 54.Be2 Ne6 0-1

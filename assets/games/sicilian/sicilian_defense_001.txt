@@ -1,0 +1,14 @@
+[Event "Round 8: Kapfer, Thomas - Roos, Jean-Luc"]
+[Site "https://lichess.org/broadcast/11-open-baden-wurttembergische-senior-championchip/round-8/cM3nWZDC/yzTNCtbf"]
+[Date "2026.06.22"]
+[Round "8.1"]
+[White "Kapfer, Thomas"]
+[Black "Roos, Jean-Luc"]
+[Result "0-1"]
+[WhiteElo "2169"]
+[BlackElo "2211"]
+[ECO "B20"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.d3 e6 3.Be2 Nc6 4.f4 d5 5.Nf3 Bd6 6.e5 Bc7 7.Be3 d4 8.Bf2 Nge7 9.c4 O-O 10.O-O Ng6 11.g3 f6 12.exf6 Qxf6 13.Nbd2 e5 14.Ne4 Qe7 15.fxe5 Ngxe5 16.Nxe5 Nxe5 17.g4 b6 18.Bg3 Bb7 19.Bf3 Nxf3+ 20.Rxf3 Bxe4 21.Rxf8+ Rxf8 22.Qe2 Bxg3 23.hxg3 Rf3 24.dxe4 Rxg3+ 25.Kf2 Qh4 26.Rh1 Rh3+ 0-1

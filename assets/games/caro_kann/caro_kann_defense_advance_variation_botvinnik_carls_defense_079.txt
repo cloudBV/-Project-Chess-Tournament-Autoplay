@@ -1,0 +1,14 @@
+[Event "Round 10: Udelnov, Valentin - Al Ibrahim, Abdulrahman"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/nh7HEim2"]
+[Date "2026.07.23"]
+[Round "10.26"]
+[White "Udelnov, Valentin"]
+[Black "Al Ibrahim, Abdulrahman"]
+[Result "1-0"]
+[WhiteElo "2269"]
+[BlackElo "2016"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.Qg4 Ne7 7.Nf3 O-O 8.Bd3 f5 9.exf6 Rxf6 10.Qh5 h6 11.O-O Bd6 12.Bd2 Nbc6 13.Bc3 e5 14.Nxe5 d4 15.Nxc6 Nxc6 16.Bb4 Nxb4 17.axb4 Bxb4 18.Na3 Be6 19.Nb5 a6 20.Ra4 a5 21.Rd1 Qd7 22.Qe5 Raf8 23.f3 b6 24.Kh1 Bc5 25.b3 Re8 26.Nc7 Bd6 27.Qxd6 Qxd6 28.Nxe8 Qe5 29.Nxf6+ gxf6 30.Rxd4 Kg7 31.Re4 Qd6 32.Be2 Qc6 33.c4 Bf5 34.Re7+ Kg6 35.Rd5 Bc2 36.f4 f5 37.Red7 1-0

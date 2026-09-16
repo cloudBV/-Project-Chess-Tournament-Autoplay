@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.05"]
+[Round "2.6"]
+[White "Reinertsen, Edvard"]
+[Black "Bjorkan, Olav"]
+[Result "1/2-1/2"]
+[WhiteElo "2003"]
+[BlackElo "2131"]
+[ECO "C16"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Nce2 c5 7.c3 Ba6 8.Nf3 Qd7 9.h4 h5 10.Qf4 Nc6 11.g3 Nge7 12.Bh3 Bxe2 13.Kxe2 cxd4 14.cxd4 Ng6 15.Qd2 Rc8 16.Kf1 Be7 17.Kg2 a5 18.Qd1 b5 19.Bg5 Qa7 20.Qd3 Bxg5 21.hxg5 Qd7 22.Rac1 O-O 23.a3 Nce7 24.Nd2 Rxc1 25.Rxc1 Rc8 26.Rxc8+ Nxc8 27.Nb3 a4 28.Nc5 Qe8 29.f4 Nb6 30.f5 exf5 31.Bxf5 Ne7 32.Bh3 Nc4 33.e6 fxe6 34.Bxe6+ Kh8 35.Bd7 Qf7 36.Be6 Qg6 37.Qxg6 Nxg6 38.Kf3 Ne7 39.Nd3 g6 40.Kf4 Kg7 41.Nb4 Nxb2 42.Nxd5 Nxd5+ 43.Bxd5 b4 44.Ke3 b3 45.Kd2 Kf8 46.Be6 Ke7 47.Bd5 Kf8 48.Be6 Ke7 1/2-1/2

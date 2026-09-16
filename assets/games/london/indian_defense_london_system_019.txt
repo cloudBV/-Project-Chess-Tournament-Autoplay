@@ -1,0 +1,14 @@
+[Event "Round 8: Moncada Correa, Sara - Argote Heredia, Valentina"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-femenino/round-8/lD54FJ8b/3xvzX9zA"]
+[Date "2026.07.12"]
+[Round "8.2"]
+[White "Moncada Correa, Sara"]
+[Black "Argote Heredia, Valentina"]
+[Result "1-0"]
+[WhiteElo "2077"]
+[BlackElo "2216"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 cxd4 5.exd4 d6 6.Nbd2 Nc6 7.c3 Be7 8.h3 O-O 9.Be2 b6 10.O-O Bb7 11.Re1 Rc8 12.Bh2 Qc7 13.Bd3 Rfe8 14.Ne4 Nxe4 15.Bxe4 Nb8 16.Bd3 Nd7 17.Qe2 Bf6 18.Be4 e5 19.dxe5 dxe5 20.Rad1 Re7 21.Nd2 Nc5 22.Bxb7 Qxb7 23.Ne4 Nxe4 24.Qxe4 Qa6 25.a3 Qb5 26.Rd2 Rce8 27.Qf5 Re6 28.Rde2 g6 29.Qc2 Bg7 30.Bg3 f5 31.f3 Bf6 32.Bf2 Qc4 33.b3 Qc6 34.c4 Rd8 35.b4 Rde8 36.c5 bxc5 37.Qxc5 Qd7 38.Qc4 Kg7 39.Rc2 R8e7 40.Bc5 Rf7 41.Bf2 e4 42.fxe4 fxe4 43.Rce2 Rd6 44.Qxe4 Rd3 45.Re3 Rd2 46.Rf3 Re7 47.Qf4 Rxe1+ 48.Bxe1 Rd6 49.Bc3 Qe7 50.Bxf6+ Rxf6 51.Qxf6+ Qxf6 52.Rxf6 Kxf6 53.Kf2 Ke5 54.Ke3 h6 55.a4 Kd5 56.Kd3 a6 57.b5 axb5 58.axb5 Kc5 59.Ke4 Kxb5 60.Ke5 Kc4 61.Kf6 g5 62.Kg6 1-0

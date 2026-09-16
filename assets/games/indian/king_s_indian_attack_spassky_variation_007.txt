@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "27.3"]
+[White "Firouzja, Alireza"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[WhiteElo "2796"]
+[BlackElo "2820"]
+[ECO "A05"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.b3 e6 5.c4 b4 6.O-O Be7 7.a3 a5 8.axb4 axb4 9.Rxa8 Bxa8 10.Bb2 O-O 11.d4 d6 12.Nbd2 Nbd7 13.Qc2 c5 14.Ra1 Bb7 15.dxc5 Nxc5 16.Ng5 h6 17.Bxb7 hxg5 18.Bg2 Nfd7 19.Nf3 Bf6 20.Nd4 Qb6 21.Nc6 Re8 22.Ra5 Bxb2 23.Qxb2 Qc7 24.Rb5 Nf6 25.Nxb4 g4 26.Nd3 Qa7 27.b4 Nce4 28.Ra5 Qb6 29.c5 dxc5 30.Nxc5 Rb8 31.Qe5 Nxc5 32.bxc5 Qb1+ 33.Bf1 Rc8 34.Qd4 Qe4 35.e3 Qc2 36.Bd3 Qd1+ 37.Bf1 Qc2 38.Bd3 Qd1+ 39.Bf1 Qc2 40.Bd3 1/2-1/2

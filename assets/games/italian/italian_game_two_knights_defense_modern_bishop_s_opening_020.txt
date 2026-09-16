@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/Paxj6mSQ"]
+[Date "2026.07.04"]
+[Round "8.14"]
+[White "Bueno, Alfeu Junior Varela"]
+[Black "Perdomo, Leandro"]
+[Result "0-1"]
+[WhiteElo "2207"]
+[BlackElo "2349"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.Nc3 d6 6.a3 g6 7.h3 Bg7 8.O-O O-O 9.Nd5 Nxd5 10.Bxd5 Kh7 11.b4 Ne7 12.Bb3 c6 13.Bb2 Be6 14.Ba2 Bxa2 15.Rxa2 f5 16.Re1 Qd7 17.c4 fxe4 18.dxe4 Qe6 19.Nd2 c5 20.b5 a6 21.Ra1 axb5 22.cxb5 c4 23.Qe2 Rfc8 24.Rec1 Ra4 25.Nb1 d5 26.Nc3 Raa8 27.exd5 Nxd5 28.Qe4 Nf4 29.Rc2 Qf5 30.Bc1 Ne6 31.Be3 Nd4 32.Rca2 Rc7 33.a4 Rd8 34.b6 Rc6 35.a5 Qxe4 36.Nxe4 c3 37.Kf1 Bf8 38.Rc1 Rdc8 39.Bxd4 exd4 40.Ke2 Ra8 41.Rcc2 Bb4 42.Ra4 Rxb6 43.Rca2 Rb5 44.a6 Rxa6 45.Rxa6 bxa6 46.Rxa6 c2 47.Ra7+ Kg8 48.Rd7 Re5 0-1

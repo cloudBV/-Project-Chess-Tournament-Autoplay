@@ -1,0 +1,14 @@
+[Event "Round 6: Negele, Michael, Dr. - Biller, Helmut, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/YdSruxM8"]
+[Date "2026.07.22"]
+[Round "6.18"]
+[White "Negele, Michael, Dr."]
+[Black "Biller, Helmut, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2124"]
+[BlackElo "2025"]
+[ECO "C56"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bd7 8.Bxc6 bxc6 9.O-O Bc5 10.f3 Ng5 11.Be3 Bb6 12.c3 O-O 13.Qd2 Ne6 14.Qf2 f6 15.exf6 Qxf6 16.Nxe6 Qxe6 17.Bxb6 cxb6 18.Re1 Qf6 19.Nd2 Rae8 20.a4 c5 21.a5 Bb5 22.axb6 Qd8 1/2-1/2

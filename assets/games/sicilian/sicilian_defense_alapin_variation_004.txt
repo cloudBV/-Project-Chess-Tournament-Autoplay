@@ -1,0 +1,14 @@
+[Event "Round 7: Tornberg, Carlos - Ask, Josef"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/eZXbkBBZ"]
+[Date "2026.07.02"]
+[Round "7.12"]
+[White "Tornberg, Carlos"]
+[Black "Ask, Josef"]
+[Result "1-0"]
+[WhiteElo "2159"]
+[BlackElo "2021"]
+[ECO "B22"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Alapin Variation"]
+
+1.e4 c5 2.c3 e5 3.Nf3 Nc6 4.Bc4 Nf6 5.Ng5 d5 6.exd5 b5 7.Bxb5 Qxd5 8.O-O Rb8 9.Na3 Rxb5 10.Nxb5 Qd7 11.d4 cxd4 12.cxd4 exd4 13.Bf4 Be7 14.Nc7+ Kf8 15.Qb3 Nd8 16.Rac1 Qf5 17.Bd2 a5 18.Rfe1 Ng4 19.Rxe7 Qxf2+ 20.Kh1 g6 21.Re8+ Kg7 22.Ne4 Qf5 23.Ng3 Qf2 24.Re2 Qf6 25.Ne8+ Rxe8 26.Rxe8 Bb7 27.Re2 Qh4 28.Nf1 Ba6 29.Qg3 Qh5 30.Re4 Nf6 31.Rh4 Qd5 32.Bh6+ Kg8 33.Qg5 Qd6 34.Qf4 Qe6 35.Qxd4 Nc6 36.Qc5 Ne7 37.Rd4 Kh8 38.Rd6 1-0

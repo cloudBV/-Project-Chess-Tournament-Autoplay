@@ -1,0 +1,14 @@
+[Event "Round 9: Sorensen, Hampus - Pantzar, Milton"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sverigemastarklassen/round-9/RKaF763a/27qZrV0I"]
+[Date "2026.07.04"]
+[Round "9.5"]
+[White "Sorensen, Hampus"]
+[Black "Pantzar, Milton"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2444"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Na4 O-O 7.Nxc5 dxc5 8.a4 Qd6 9.Be3 b6 10.h3 Be6 11.Nd2 Bxc4 12.Nxc4 Qe6 13.b3 Ne8 14.Qg4 f5 15.exf5 Rxf5 16.Qe2 Nd6 17.f3 Nxc4 18.bxc4 a5 19.O-O Re8 20.Rfe1 Qd7 21.Kh1 Rff8 22.Bg1 Nd4 23.Qd2 Rf6 24.Bh2 Rfe6 25.Re4 h6 26.Rg4 Kh7 27.Re4 Kg8 28.Rg4 Kh7 29.Re4 Kg8 1/2-1/2

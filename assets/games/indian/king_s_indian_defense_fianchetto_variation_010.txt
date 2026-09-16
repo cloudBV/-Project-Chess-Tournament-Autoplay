@@ -1,0 +1,14 @@
+[Event "Round 1: Le, Quang Liem - Erdogmus, Yagiz Kaan"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-1/3F34hXUo/6nbUi6y8"]
+[Date "2026.07.19"]
+[Round "1.2"]
+[White "Le, Quang Liem"]
+[Black "Erdogmus, Yagiz Kaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2546"]
+[ECO "E60"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 b6 5.Bg2 Bb7 6.d5 Na6 7.Nc3 Nc5 8.O-O O-O 9.Re1 e6 10.e4 d6 11.Qc2 Re8 12.Be3 a5 13.Rad1 e5 14.a3 Ng4 15.Bg5 f6 16.Bc1 a4 17.h3 Nh6 18.Be3 Qd7 19.Nb5 Nf7 20.Nd2 Ba6 21.Bf1 f5 22.exf5 gxf5 23.Nf3 Bf6 24.Kh2 Kh8 25.Nd2 Rg8 26.f4 Rg7 27.Be2 Rag8 28.Rg1 Bc8 29.Rg2 Qe7 30.Rdg1 exf4 31.Bxf4 Ne5 32.Rf1 Bg5 33.Qc3 Bf6 34.Qe3 Re8 35.Nd4 Ng4+ 36.hxg4 Qxe3 37.Bxe3 Rxe3 38.Nxf5 Bxf5 39.Rxf5 Bxb2 40.Nf3 Ne4 41.Bd1 Bxa3 42.Bxa4 Rxg4 43.Bd7 Rg6 44.Be6 Rf6 45.Nh4 Bc5 46.Ra2 Ra3 47.Re2 Nxg3 48.Rxf6 Nxe2 49.Nf5 Ra8 50.Rf7 Nd4 51.Rxc7 Nf3+ 52.Kg3 Ne5 53.Nh6 Rf8 54.Nf7+ Nxf7 55.Rxf7 Rg8+ 56.Kf3 Ra8 57.Bf5 Kg8 58.Rxh7 Rf8 59.Rh5 Kg7 60.Kg4 Be3 61.Rh3 Bh6 62.Rb3 Rf7 63.Rxb6 Rf6 64.Rb7+ Kf8 65.Be6 Be3 66.Kh5 Rh6+ 67.Kg4 Rf6 68.Rc7 Rf4+ 69.Kg3 Rf6 70.Rc6 Ke7 71.Kg2 Rf4 72.Rc7+ Kf8 73.Kg3 Rf6 74.Kg4 Rf4+ 75.Kh5 Rf6 76.Rd7 Bf4 77.Kg4 Ke8 78.Rb7 Be3 79.Rb3 Bd2 80.Bf5 Rh6 81.Rb2 Bc3 82.Rb6 Bd4 83.Ra6 Bc5 84.Kg5 Be3+ 85.Kg4 Rf6 86.Ra7 1/2-1/2

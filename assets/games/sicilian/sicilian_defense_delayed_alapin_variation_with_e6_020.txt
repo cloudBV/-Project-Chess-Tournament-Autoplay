@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-6/ibkEWrNw/GyJ8nDiv"]
+[Date "2026.07.14"]
+[Round "6.3"]
+[White "Kalisky, Vladimir"]
+[Black "Hasala, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo "2179"]
+[BlackElo "2029"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 Nc6 7.Nc3 d6 8.Nxd5 exd5 9.Bd3 Be7 10.O-O O-O 11.Re1 Bg4 12.Bf4 dxe5 13.dxe5 Rc8 14.h3 Bh5 15.Bf5 Ra8 16.a3 Bxf3 17.Qxf3 g6 18.Bd3 Bg5 19.Rad1 Bxf4 20.Qxf4 Qc7 21.Bb1 f6 22.Rxd5 Nxe5 23.Rc1 Nf3+ 24.Qxf3 Qxc1+ 25.Rd1 Qxb2 26.Be4 Rad8 27.Rb1 Qe5 28.Rxb7 Rfe8 29.Qb3+ Qe6 30.Bc2 Qxb3 31.Bxb3+ Kh8 32.Rxa7 Ra8 33.Rxa8 Rxa8 34.a4 Kg7 35.g3 Kf8 36.h4 Ke7 37.Kg2 Kd6 38.Bc2 Ke5 39.h5 f5 40.hxg6 hxg6 41.f4+ Kd4 42.Bb3 Kc5 43.Bf7 Kd6 44.Bxg6 Ke6 45.g4 fxg4 46.Kg3 Rxa4 47.Kxg4 1/2-1/2

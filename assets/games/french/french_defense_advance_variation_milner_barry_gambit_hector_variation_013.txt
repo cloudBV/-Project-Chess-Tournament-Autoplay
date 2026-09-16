@@ -1,0 +1,14 @@
+[Event "Round 7: Vihaan Dumir - Nguyen Thi Mai Hung"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-7/XL83IlpS/bvgsyEC0"]
+[Date "2026.07.20"]
+[Round "7.13"]
+[White "Vihaan Dumir"]
+[Black "Nguyen Thi Mai Hung"]
+[Result "1-0"]
+[WhiteElo "2132"]
+[BlackElo "2260"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit, Hector Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.O-O Bd7 8.Re1 Nge7 9.h4 Nf5 10.Bxf5 exf5 11.cxd4 Be7 12.Nc3 Be6 13.h5 O-O 14.Ne2 Rfc8 15.Nf4 Rc7 16.Re2 Rac8 17.Be3 Na5 18.Bd2 Nc4 19.Bc3 a5 20.Qb3 Qa6 21.a4 Rc6 22.Rc2 g5 23.hxg6 hxg6 24.Be1 Nxe5 25.Rxc6 Nxf3+ 26.Qxf3 bxc6 27.Qe3 c5 28.Bc3 c4 29.Nxd5 Bxd5 30.Qxe7 Qc6 31.Re1 Qxa4 32.f3 Ra8 33.Kf2 Qc2+ 34.Re2 Qb3 35.Re5 Qb7 36.Qd6 Bc6 37.Re7 Qa6 38.Qf6 Bd5 39.Re8+ Rxe8 40.Qxa6 1-0

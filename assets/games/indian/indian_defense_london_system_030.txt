@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-1/MSVcfeDQ/zQLnz8MQ"]
+[Date "2026.07.17"]
+[Round "1.1"]
+[White "Thorsbro, Peter"]
+[Black "Laurusas, Tomas"]
+[Result "0-1"]
+[WhiteElo "2169"]
+[BlackElo "2511"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 Nc6 5.c3 Nh5 6.Bg5 Qb6 7.Qc1 h6 8.Bh4 g5 9.Bg3 Nxg3 10.hxg3 Bg7 11.Nbd2 d5 12.Bd3 Bd7 13.O-O O-O-O 14.a4 g4 15.Nh2 h5 16.a5 Qc7 17.dxc5 h4 18.gxh4 Rxh4 19.g3 Rh3 20.Kg2 Ne5 21.Be2 Bc6 22.Nxg4 Rdh8 23.Rg1 d4+ 24.e4 d3 25.Nxe5 Rh2+ 26.Kf3 Qxe5 27.Qe1 Qf6+ 28.Ke3 Bh6+ 29.Kxd3 Rd8+ 30.Kc4 Bxd2 31.Qb1 Qxf2 32.Bd3 Qe3 33.a6 Rxd3 34.axb7+ Kb8 0-1

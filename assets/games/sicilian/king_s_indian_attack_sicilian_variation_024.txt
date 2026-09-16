@@ -1,0 +1,14 @@
+[Event "exe: Slovakia chess open # Piešťany 2026"]
+[Site "https://lichess.org/broadcast/exe-slovakia-chess-open-piestany-2026/round-7/djRlwqVj/2kxacnTu"]
+[Date "2026.07.15"]
+[Round "7.7"]
+[White "Janousek, Petr"]
+[Black "Koska, Jiri"]
+[Result "1-0"]
+[WhiteElo "2106"]
+[BlackElo "2035"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.e4 e6 2.d3 d5 3.Nf3 c5 4.g3 Nc6 5.Bg2 Nf6 6.Nbd2 Be7 7.O-O O-O 8.Re1 a6 9.e5 Ne8 10.h4 f6 11.exf6 Bxf6 12.c4 Nc7 13.a3 b5 14.Qc2 Qd6 15.Nb3 bxc4 16.dxc4 d4 17.Qd3 Rb8 18.Nbd2 a5 19.Ne4 Qe7 20.Neg5 g6 21.h5 Qg7 22.Ne4 Be7 23.h6 Qf7 24.Bf4 Rb7 25.Nd6 Bxd6 26.Bxd6 Rd8 27.Ng5 Qd7 28.Bxc7 Qxc7 29.Nxe6 Bxe6 30.Rxe6 Rb6 31.Rae1 Rf8 32.Bd5 Kh8 33.Qe4 Nd8 34.Rxb6 1-0

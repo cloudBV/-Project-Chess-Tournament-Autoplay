@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.13"]
+[Round "10.27"]
+[White "Romero Pallares, Daniel"]
+[Black "Martin Gonzalez, Angel"]
+[Result "1/2-1/2"]
+[WhiteElo "2270"]
+[BlackElo "2150"]
+[ECO "A46"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Indian Defense: London System"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 Nc6 5.Nc3 a6 6.d5 exd5 7.Nxd5 Nxd5 8.Qxd5 Nb4 9.Qd2 d5 10.c3 Nc6 11.Rd1 Be6 12.Ng5 Bd6 13.Be2 Bxf4 14.exf4 Qf6 15.Nxe6 fxe6 16.O-O O-O 17.Bg4 Rae8 18.Rfe1 Kh8 19.Re2 d4 20.Rde1 e5 21.Bd7 Re7 22.Bxc6 Qxc6 23.Rxe5 Rd7 24.cxd4 Rxd4 25.Qe3 h6 26.g3 Rfd8 27.h4 Rd1 28.f5 R8d3 29.Qf4 Rd4 30.Qe3 R4d3 31.Re8+ Kh7 32.Qe6 Rxe1+ 33.Qxe1 Qf3 34.Rh8+ Kxh8 1/2-1/2

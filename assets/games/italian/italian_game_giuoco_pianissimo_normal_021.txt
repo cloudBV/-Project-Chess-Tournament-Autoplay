@@ -1,0 +1,15 @@
+[Event "XIII Open de Lebu 2026"]
+[Site "Lebu, Chile"]
+[Date "2026.07.18"]
+[Round "5.2"]
+[White "Diaz Villagran, Robert"]
+[Black "Vasquez Toledo, Cristian"]
+[Result "1/2-1/2"]
+[WhiteElo "2239"]
+[BlackElo "2271"]
+[ECO "C50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nbd2 O-O 6.h3 d5 7.exd5 Nxd5 8.Ne4 Be7 9.O-O h6 10.Re1 Nb6 11.Bb3 Re8 12.c3 Bf8 13.Nh2 Be6 14.Qf3 Bxb3 15.axb3 Re6 16.Ng4 Nd7 17.b4 a5 18.b5 Ne7 19.Ng3 Ng6 20.d4 c6 21.bxc6 bxc6 22.Nf5 Qe8 23.Be3 e4 24.Qd1 Ne7 25.Nxe7+ Bxe7 26.Bf4 Bd6 1/2-1/2

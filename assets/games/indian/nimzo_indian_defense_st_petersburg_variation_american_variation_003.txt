@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.07"]
+[Round "6.3"]
+[White "Iniyan, Pa"]
+[Black "Mosesov, Danyil"]
+[Result "1-0"]
+[WhiteElo "2581"]
+[BlackElo "2459"]
+[ECO "E44"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.f3 Nxc3 7.Nxc3 c5 8.d5 Ba6 9.e4 exd5 10.cxd5 Bxf1 11.Kxf1 O-O 12.Ne2 d6 13.Ng3 c4 14.Qc2 Nd7 15.Qxc4 Bc5 16.Qc3 a5 17.Nf5 Ne5 18.f4 Bb4 19.Qg3 Ng6 20.h4 Qe8 21.Qd3 h5 22.a3 Bc5 23.Bd2 Ne7 24.Ng3 f5 25.Re1 fxe4 26.Nxe4 Qg6 27.Rh3 Nf5 28.Ng5 a4 29.Re6 Rf6 30.Bc3 Rxe6 31.dxe6 Re8 32.Qe4 d5 33.Qxd5 Nd4 34.Bxd4 Qb1+ 35.Ke2 Qc2+ 36.Ke1 Qc1+ 37.Ke2 Qc2+ 38.Ke3 Qc1+ 39.Ke4 Qc2+ 40.Ke5 Be7 41.Qe4 Qc7+ 42.Kf5 Rf8+ 43.Nf7 Qc4 44.Re3 Kh7 45.Ke5+ g6 46.Qb7 Bf6+ 47.Kxf6 Qxd4+ 48.Ke7 Kg7 49.Re5 Qxb2 50.Qc7 Qxa3+ 51.Qd6 Qc3 52.f5 Qc8 53.f6+ Kg8 54.Nd8 a3 55.Rg5 Qc2 56.f7+ 1-0

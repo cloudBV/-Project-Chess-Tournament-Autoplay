@@ -1,0 +1,14 @@
+[Event "Landsturneringen 2026"]
+[Site "Normoria, Kristiansund"]
+[Date "2026.07.11"]
+[Round "9.3"]
+[White "Breivik, Lars"]
+[Black "Lund, Terje"]
+[Result "1-0"]
+[WhiteElo "2157"]
+[BlackElo "2016"]
+[ECO "A37"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Botvinnik System Reversed, with Nf3"]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.Nf3 e5 6.O-O Nge7 7.Ne1 d6 8.Nc2 Be6 9.Ne3 O-O 10.Ned5 Qd7 11.Qa4 Rfd8 12.a3 Nd4 13.Qxd7 Rxd7 14.b4 Bxd5 15.cxd5 cxb4 16.axb4 a6 17.Rb1 Rc8 18.e3 Nb5 19.Nxb5 axb5 20.e4 f5 21.f3 Bh6 22.Rd1 Rdc7 23.Bf1 Ra8 24.Bxb5 Ra2 25.Bd3 fxe4 26.fxe4 Nc8 27.Rb3 Nb6 28.Bb1 Ra8 29.Bb2 Nc4 30.Bc3 Rf8 31.Bd3 Rf3 32.Be2 Rf8 33.b5 b6 34.Rb4 Rfc8 35.Bxc4 Rxc4 36.Rxc4 Rxc4 37.Re1 Ra4 38.Kf1 Kf7 39.d3 Ke7 40.Ra1 Rxa1+ 41.Bxa1 Be3 42.Bc3 h5 43.Ke2 Bh6 44.Be1 Kd7 45.Kf3 Kc7 46.g4 hxg4+ 47.Kxg4 Be3 48.Bh4 Bh6 49.Bg5 Bg7 50.h4 Bf8 51.Bf6 Bh6 52.h5 gxh5+ 53.Kxh5 Be3 54.Kg4 Bd2 55.Bg5 Be1 56.Be3 Bb4 57.Kf5 Ba3 58.Ke6 Bb4 59.d4 exd4 60.Bxd4 Bc5 61.Bf6 Bb4 62.e5 dxe5 63.Bxe5+ 1-0

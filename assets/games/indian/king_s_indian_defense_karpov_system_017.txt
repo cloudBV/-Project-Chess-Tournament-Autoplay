@@ -1,0 +1,15 @@
+[Event "XXVI Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.11"]
+[Round "9.1"]
+[White "Gines Esteo, Pedro Antonio"]
+[Black "Pares Vives, Natalia"]
+[Result "1-0"]
+[WhiteElo "2470"]
+[BlackElo "2201"]
+[ECO "E71"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 a5 8.g4 Na6 9.Nge2 Nc5 10.Ng3 c6 11.Be2 cxd5 12.cxd5 a4 13.g5 Ne8 14.h4 Bd7 15.Kf1 b5 16.Bxb5 Bxb5+ 17.Nxb5 Qb6 18.Qe2 f5 19.gxf6 Nxf6 20.Rc1 Bh6 21.Bxh6 Nfxe4 22.Nxe4 Nxe4 23.Bxf8 Rxf8 24.Ke1 1-0

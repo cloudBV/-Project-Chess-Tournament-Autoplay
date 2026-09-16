@@ -1,0 +1,14 @@
+[Event "Round 8: Gloeckler, Christian - Balabayeva, Xeniya"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-8/6GvLkLx7/sVyTXA1v"]
+[Date "2026.07.12"]
+[Round "8.7"]
+[White "Gloeckler, Christian"]
+[Black "Balabayeva, Xeniya"]
+[Result "1-0"]
+[WhiteElo "2332"]
+[BlackElo "2291"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Nc3 d6 7.a4 a5 8.h3 h6 9.Re1 Be6 10.Nd5 Qd7 11.c3 Bd8 12.Qb3 Rb8 13.Be3 Kh7 14.Kh2 Nh5 15.Rac1 g6 16.d4 Re8 17.Qc2 exd4 18.cxd4 Bxd5 19.exd5 Nb4 20.Qd2 g5 21.Bb5 c6 22.dxc6 bxc6 23.Be2 Ng7 24.h4 g4 25.Ng1 Bxh4 26.g3 Bf6 27.Bxh6 Qf5 28.Be3 Ne6 29.Rxc6 Qh5+ 30.Kg2 Qd5+ 31.Kh2 Qxc6 32.Bxg4 Bg7 33.Rc1 Qd5 34.Ne2 Rbc8 35.Nc3 Qb3 36.d5 Nc5 37.Bf5+ Kg8 38.Bh6 Ne4 39.Nxe4 Bxh6 40.Qxh6 1-0

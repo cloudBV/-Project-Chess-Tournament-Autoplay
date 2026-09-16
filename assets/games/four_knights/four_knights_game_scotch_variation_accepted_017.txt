@@ -1,0 +1,15 @@
+[Event "Round 1: Tezcan, Alper - Munkhgal, Gombosuren"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/FJyMtbrF"]
+[Date "2026.07.24"]
+[Round "1.8"]
+[White "Tezcan, Alper"]
+[Black "Munkhgal, Gombosuren"]
+[Result "0-1"]
+[WhiteElo "2285"]
+[BlackElo "2351"]
+[ECO "C47"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bc5 6.Be3 Bb6 7.Qd2 Ng4 8.Nf5 Nxe3 9.Nxe3 O-O 10.O-O-O d6 11.f4 Re8 12.g3 Ba5 13.Bg2 Be6 14.Kb1 b5 15.Qd3 Rb8 16.Ncd5 Qc8 17.h4 Bb6 18.h5 h6 19.Nf5 Bxd5 20.Qxd5 Ne7 21.Nxe7+ Rxe7 22.Bh3 Qb7 23.Qxb7 Rxb7 24.Bf5 Rb8 25.b4 a5 26.a3 Kf8 27.Rhf1 Ree8 28.g4 Ke7 29.e5 axb4 30.axb4 Red8 31.exd6+ Rxd6 32.Rfe1+ Kf6 33.Rxd6+ cxd6 34.Rd1 Ke7 35.Rd5 Be3 36.Bd3 Bxf4 37.Bxb5 g6 38.hxg6 fxg6 39.c3 Be5 40.Kc2 h5 41.gxh5 gxh5 42.Bc6 Kd8 43.Rd1 Kc7 44.b5 h4 45.Kb3 Rg8 46.Rh1 Rg4 47.Bd5 Kb6 48.c4 Rg3+ 49.Kc2 h3 50.Kd2 Ra3 51.Ke2 h2 52.Rb1 Rg3 53.Rf1 Kc5 54.Rf7 Rh3 55.Rf1 Rb3 56.Kf2 Rg3 57.Rh1 Rg1 58.Ke2 Rg7 59.Kd3 Rg3+ 60.Ke2 Rb3 61.Rf1 Bd4 62.Rf7 Rh3 63.Rc7+ Kb4 64.Bh1 Bc5 65.Rc8 Rb3 66.Bd5 Rh3 67.Bh1 Kc3 68.Re8 Kxc4 69.Rb8 Rb3 70.Rh8 Kxb5 71.Bd5 Re3+ 72.Kf1 Rd3 73.Be4 Rd4 74.Bf3 Rf4 75.Ke2 Rb4 76.Rh5 Rb2+ 77.Ke1 Kb4 78.Rh4+ Kc3 79.Rh3 Kd4 80.Be2 Rb1+ 81.Bd1 Bb4+ 82.Ke2 d5 83.Rh4+ Ke5 84.Rh7 Bc3 85.Rh5+ Kf4 86.Rh6 Ra1 87.Rh3 d4 88.Rh4+ Kg3 89.Rh6 d3+ 90.Ke3 Rxd1 91.Rg6+ Kh3 92.Rh6+ Kg2 93.Rg6+ Kf1 94.Rh6 Bd2+ 95.Kd4 0-1

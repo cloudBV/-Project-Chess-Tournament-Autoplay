@@ -1,0 +1,14 @@
+[Event "Round 7: Lesny, Florian - Herrmann, Arthur"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/RV0fncFt"]
+[Date "2026.07.23"]
+[Round "6.12"]
+[White "Lesny, Florian"]
+[Black "Herrmann, Arthur"]
+[Result "1/2-1/2"]
+[WhiteElo "2272"]
+[BlackElo "2208"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 Ba7 8.Re1 O-O 9.h3 h6 10.Nbd2 Be6 11.Bxe6 fxe6 12.b4 Qe8 13.Nf1 Nh5 14.Be3 Bxe3 15.Rxe3 Nf4 16.Ng3 Qf7 17.Qb3 Qf6 18.Ra2 Kh7 19.b5 axb5 20.axb5 Na5 21.Qb1 b6 22.Ne2 Nxe2+ 23.Rexe2 Qg6 24.Nd2 Rfd8 25.Nb3 Nxb3 26.Qxb3 Qe8 27.Red2 Kg8 28.d4 Kf7 29.Qc4 Rxa2 30.Rxa2 Qd7 31.Ra7 Rc8 32.dxe5 dxe5 33.Qe2 g6 34.Kh2 Kg7 35.Qc4 Kf6 36.Ra2 Qd6 37.Qe2 Rd8 38.Qe3 Kg7 39.Ra4 Qd3 40.Ra7 Qd6 41.h4 Rd7 42.Ra4 Qd1 43.Rc4 Qb3 44.Rb4 Qd1 45.Rc4 Qb3 46.Rb4 Qd1 47.Qg3 Kf6 48.f4 Qd6 49.Rd4 Qe7 50.fxe5+ Kg7 51.Qf4 Kh7 52.Kh3 Qe8 53.Rxd7+ Qxd7 54.c4 h5 55.Kh2 Kg7 56.Qf6+ Kh7 57.Qf8 Qd2 58.Qf7+ Kh6 59.Qf6 Kh7 60.Qxe6 Qf4+ 61.Kh3 Qe3+ 62.Kh2 Qf4+ 63.Kh3 Qe3+ 64.g3 Qf3 65.Qd7+ Kg8 66.Qd8+ Kh7 67.Qd7+ Kg8 68.Qd8+ 1/2-1/2

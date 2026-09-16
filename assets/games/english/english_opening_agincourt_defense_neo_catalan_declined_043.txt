@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "13.8"]
+[White "Ugorek, Kacper"]
+[Black "Panda, Barnabas"]
+[Result "1/2-1/2"]
+[WhiteElo "2229"]
+[BlackElo "2046"]
+[ECO "A14"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Nc6 9.d4 cxd4 10.Nxd4 Nxd4 11.Bxd4 Bd7 12.Nc3 Bc6 13.Nxd5 Bxd5 14.e4 Bc6 15.Bb2 Bf6 16.e5 Bxg2 17.Kxg2 Be7 18.Qf3 Qb6 19.Rfd1 Rfd8 20.h4 Rac8 21.Rxd8+ Rxd8 22.Rd1 Rxd1 23.Qxd1 g6 24.Qf3 Qa6 25.a4 Qb6 26.Qd3 Bc5 27.f3 Bg1 28.Qc2 Kg7 29.Ba3 Bd4 30.f4 Qa5 31.Be7 Qe1 32.Bf6+ Kh6 33.Bg5+ Kh5 34.Kf3 Qe3+ 35.Kg2 Qg1+ 36.Kf3 1/2-1/2

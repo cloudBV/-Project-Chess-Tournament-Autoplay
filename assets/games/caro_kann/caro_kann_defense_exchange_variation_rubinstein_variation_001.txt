@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.05"]
+[Round "8.16"]
+[White "Shetty, Anshul"]
+[Black "Lohia, Sohum"]
+[Result "0-1"]
+[WhiteElo "2244"]
+[BlackElo "2404"]
+[ECO "B13"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+
+1.d4 d5 2.Bf4 c5 3.e3 cxd4 4.exd4 Nc6 5.c3 Nf6 6.Bd3 g6 7.h3 Bf5 8.Bxf5 gxf5 9.Qb3 Qd7 10.Nf3 Rg8 11.g3 e6 12.Nbd2 Ne4 13.Nxe4 fxe4 14.Ne5 Nxe5 15.Bxe5 Bd6 16.Bxd6 Qxd6 17.Qb5+ Kf8 18.Qe2 Rg6 19.O-O-O Rf6 20.Qd2 Kg7 21.Qg5+ Rg6 22.Qe3 Rg8 23.Rdf1 Kh8 24.g4 f5 25.f3 f4 26.Qe2 e3 27.h4 R6g7 28.g5 a6 29.Rhg1 h5 30.Qd3 Rg6 31.Rd1 Qc6 32.b4 Qb5 33.Kb2 Qxd3 34.Rxd3 Rc8 35.a4 b6 36.Rdd1 Kh7 37.Kb3 Rg7 38.Rc1 Rc4 39.Rc2 Kg6 40.Rgg2 Kf5 41.Rge2 Rd7 42.Rg2 Rc8 43.Kb2 b5 44.a5 Kg6 45.Rg1 Rdc7 46.Rgg2 Rc4 47.Kb3 Re8 48.Rce2 e5 49.dxe5 Rxe5 50.Rg1 d4 51.cxd4 Rxd4 52.Rc1 Re6 53.Rc8 Red6 54.Rec2 Rd3+ 55.R8c3 Rxc3+ 56.Kxc3 Rd1 57.Rh2 Rf1 58.Kd3 Rxf3 59.Rc2 Rf1 60.Rc6+ Kf5 61.Rxa6 Rd1+ 62.Ke2 Rd2+ 63.Ke1 f3 64.Rf6+ Kg4 65.g6 f2+ 66.Kf1 Kg3 0-1

@@ -1,0 +1,15 @@
+[Event "Round 4: Pham Tran Gia Phuc - Volkov, Maksim"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b18/round-4/gdamaPvY/CkYaF6RI"]
+[Date "2026.07.16"]
+[Round "4.15"]
+[White "Pham Tran Gia Phuc"]
+[Black "Volkov, Maksim"]
+[Result "1/2-1/2"]
+[WhiteElo "2241"]
+[BlackElo "2369"]
+[ECO "C56"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.Be3 O-O 9.Nxc6 bxc6 10.Bxc5 Nxc5 11.Bxc6 Rb8 12.Qxd5 Qe7 13.O-O Rxb2 14.Qd4 Rxc2 15.Nc3 Ne6 16.Qd3 Rb2 17.Nd5 Qc5 18.Rac1 Qd4 19.Qf5 Kh8 20.Ne7 Qf4 21.Qxf4 Nxf4 22.Rb1 Rb6 23.Rxb6 axb6 24.Nxc8 Rxc8 25.Rd1 Ng6 26.Bb7 Rb8 27.Rd7 c5 28.Rxf7 Nxe5 29.Rc7 g6 30.f4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "8.2"]
+[White "Ochedzan, Filip"]
+[Black "Pankiv, Maksym"]
+[Result "0-1"]
+[WhiteElo "2122"]
+[BlackElo "2410"]
+[ECO "B93"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Qc7 9.Bd3 Be7 10.O-O O-O 11.Kh1 Nc5 12.Qe1 Rd8 13.Nh4 Nxd3 14.cxd3 d5 15.fxe5 Qxe5 16.Nf3 Qh5 17.Bg5 dxe4 18.Nxe4 Be6 19.Bxf6 gxf6 20.Qc3 Qh6 21.d4 Rac8 22.Qe1 Kh8 23.Rd1 Rc2 24.Rf2 Rxf2 25.Qxf2 Qf4 26.Re1 Bb4 27.Re3 Bd5 28.Nc3 Bxf3 29.Ne2 Bxg2+ 30.Kxg2 Qxf2+ 31.Kxf2 Kg7 32.Rg3+ Kf8 33.Ke3 Rd5 34.Kd3 Rh5 35.h3 Bd6 36.Rf3 Ke7 37.Nc3 f5 38.Nd5+ Ke6 39.Ne3 Rg5 40.Nc4 Bc7 41.Re3+ Kd7 42.Ne5+ Bxe5 43.Rxe5 Kd6 44.Kc4 f6 45.Re3 b5+ 46.axb5 axb5+ 47.Kd3 f4 48.Re8 Rg3+ 49.Kd2 Rxh3 50.Rb8 Rh2+ 51.Kc3 Kd5 52.Rxb5+ Ke4 53.d5 f3 54.Rb4+ Ke3 55.d6 f2 56.d7 f1=Q 57.d8=Q Qc1+ 58.Kb3 Rxb2+ 59.Ka4 Qc6+ 60.Ka5 Ra2+ 0-1

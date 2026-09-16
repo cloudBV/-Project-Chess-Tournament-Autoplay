@@ -1,0 +1,15 @@
+[Event "Round 2: Paichadze, Luka - Askanazyan, Gor"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/ApctV7T1"]
+[Date "2026.07.14"]
+[Round "2.4"]
+[White "Paichadze, Luka"]
+[Black "Askanazyan, Gor"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2102"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nf6 5.Bc4 Nc6 6.Qe3 g6 7.O-O Bg7 8.h3 O-O 9.Rd1 Nd7 10.Nc3 Nc5 11.Nd5 e6 12.Nf4 Qc7 13.Nd3 Nxd3 14.Qxd3 Na5 15.Bb3 Nxb3 16.axb3 d5 17.e5 Bd7 18.Bf4 Rfc8 19.c3 a5 20.Qe3 a4 21.bxa4 Bxa4 22.Rd4 Be8 23.Rxa8 Rxa8 24.Bh6 Bh8 25.Bg5 Ra1+ 26.Kh2 f5 27.Rb4 Ra4 28.Rxa4 Bxa4 29.Qa7 Bd7 30.Qa8+ Qc8 31.Qa3 Bg7 32.Bf6 Bf8 33.Be7 Bg7 34.Qa5 Kf7 35.Ba3 h6 36.Qb4 g5 37.Qe7+ Kg6 38.Kg1 d4 39.cxd4 Bc6 40.Qc5 Qa8 41.Qe7 Bd5 42.h4 Qc8 43.b3 Bxf3 44.gxf3 Qc6 45.hxg5 hxg5 46.f4 gxf4 47.Bd6 Qd5 48.b4 f3 49.Qe8+ Kh6 50.Bf8 Bxf8 51.Qxf8+ Kh7 52.Qe7+ Kh8 53.Qh4+ Kg8 54.Kh2 Kf7 55.Kg3 b6 56.b5 Ke8 57.Qh5+ Kd8 58.Qg5+ Kd7 59.Qg7+ Ke8 60.Qh8+ Ke7 61.Qg7+ Ke8 62.Qf6 Kd7 63.Qf7+ Kd8 64.Qf8+ Kd7 65.Qb4 Ke8 66.Qc3 Kd8 67.Kf4 Qe4+ 68.Kg5 f4 69.Qc6 Qxd4 70.Kf6 Qxf2 71.Qd6+ Kc8 72.Qxe6+ Kb8 73.Qd6+ Kb7 74.Qd7+ Kb8 75.e6 Qh4+ 76.Kf5 f2 77.Qd6+ Kb7 78.Qc6+ Ka7 79.Qc7+ Ka8 80.Qc8+ Ka7 81.Qa6+ Kb8 82.Qxb6+ Ka8 83.Qc6+ Kb8 84.Qd6+ Kb7 85.Qa6+ Kb8 86.b6 Qh3+ 87.Ke5 Qh8+ 88.Ke4 Qh1+ 89.Kf5 Qh3+ 90.Ke5 Qh8+ 91.Kd5 Qh1+ 92.Kd6 Qb7 93.Qb5 f1=Q 94.Qxf1 Qxb6+ 95.Kd5 Qb3+ 96.Ke5 Qc3+ 97.Kf5 Qc5+ 98.Kg4 Kc8 99.Qxf4 Kd8 100.Qf6+ Qe7 101.Kf5 1-0

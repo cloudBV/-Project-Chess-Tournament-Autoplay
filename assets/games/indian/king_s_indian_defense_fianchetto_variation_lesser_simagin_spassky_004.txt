@@ -1,0 +1,14 @@
+[Event "Round 7: Maurizzi, MarcAndria - Lamaze, Simon"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-7/6mD5vt3A/TiGkUOyt"]
+[Date "2026.07.24"]
+[Round "7.9"]
+[White "Maurizzi, MarcAndria"]
+[Black "Lamaze, Simon"]
+[Result "1/2-1/2"]
+[WhiteElo "2628"]
+[BlackElo "2476"]
+[ECO "E62"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)"]
+
+1.c4 Nf6 2.Nf3 g6 3.d4 Bg7 4.g3 d6 5.Bg2 O-O 6.O-O Nc6 7.Nc3 Bf5 8.Bg5 a6 9.Rc1 Rb8 10.Qd2 b5 11.cxb5 axb5 12.Bxf6 exf6 13.Nd5 Be4 14.Ne1 Bxd5 15.Bxd5 Ne7 16.Bf3 f5 17.d5 Ra8 18.a3 Nc8 19.Nd3 Nb6 20.Qb4 Nc4 21.Rc2 Ne5 22.Nxe5 dxe5 23.e3 e4 24.Be2 Be5 25.Bxb5 h5 26.h4 Rb8 27.a4 Qxd5 28.Qc5 Rfd8 29.Qxd5 Rxd5 30.b4 Rdxb5 31.axb5 Bd6 32.Rb1 Rb7 33.b6 Rxb6 34.Rcb2 Rb5 35.Kf1 Kg7 36.Ke2 Kf6 37.Kd2 Ke6 38.Rb3 Kd5 39.Rc3 1/2-1/2

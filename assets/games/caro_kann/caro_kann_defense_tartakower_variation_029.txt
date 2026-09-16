@@ -1,0 +1,14 @@
+[Event "Round 10: Florez Salazar, Luis Angel - Cano Alcaraz, Juan Jose"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-10/EGR1f4HB/rhonXhQP"]
+[Date "2026.07.11"]
+[Round "10.4"]
+[White "Florez Salazar, Luis Angel"]
+[Black "Cano Alcaraz, Juan Jose"]
+[Result "1-0"]
+[WhiteElo "2180"]
+[BlackElo "2062"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O h4 11.h3 Nd7 12.Be3 Nf8 13.Rfd1 Bd7 14.c4 Rc8 15.Qd2 Ng6 16.Nf4 Nxf4 17.Bxf4 Qc7 18.Bxd6 Qxd6 19.Qa5 g5 20.Qxa7 Kg7 21.Qc5 Qf4 22.Bf1 Bf5 23.Re1 g4 24.hxg4 Bxg4 25.d5 Qg5 26.Re3 cxd5 27.Qxd5 Rxe3 28.Qxg5+ fxg5 29.fxe3 Rd8 30.b4 f5 31.c5 Rd2 32.Rc1 h3 33.gxh3 Bf3 34.b5 Bd5 35.c6 bxc6 36.bxc6 f4 37.exf4 gxf4 38.c7 f3 39.c8=Q 1-0

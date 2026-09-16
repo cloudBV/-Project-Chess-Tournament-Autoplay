@@ -1,0 +1,14 @@
+[Event "Round 5: Malek, Daniel - Herrmann, Arthur"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-5/s84Vb8Fz/9YSdswhM"]
+[Date "2026.07.22"]
+[Round "5.12"]
+[White "Malek, Daniel"]
+[Black "Herrmann, Arthur"]
+[Result "1-0"]
+[WhiteElo "2312"]
+[BlackElo "2208"]
+[ECO "A35"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.e3 e5 5.d4 cxd4 6.exd4 e4 7.Ne5 Bd6 8.Nxc6 dxc6 9.Bg5 O-O 10.Be2 Bf5 11.Qd2 Re8 12.O-O h6 13.Bf4 Qc7 14.Bxd6 Qxd6 15.h3 Rad8 16.Rad1 Bg6 17.Rfe1 Nh5 18.c5 Qc7 19.b4 f5 20.d5 Qe5 21.d6 Nf4 22.Bf1 Bh5 23.Rc1 b6 24.b5 bxc5 25.d7 Rf8 26.bxc6 Rf6 27.g3 Ng6 28.f4 Qc7 29.Nd5 Qxc6 30.Nxf6+ gxf6 31.Qe3 Qxd7 32.Rxc5 Ne7 33.Rec1 Qd4 34.Qxd4 Rxd4 35.Rc7 Kf8 36.Rxa7 e3 37.Re1 Nd5 38.Ra3 Be8 39.Rd3 Rxd3 40.Bxd3 Nb4 41.Rxe3 Nxa2 42.Bxf5 Nb4 43.Be4 Bd7 44.Kg2 Kf7 45.g4 1-0

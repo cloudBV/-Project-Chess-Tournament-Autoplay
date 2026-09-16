@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "1.15"]
+[White "Stary, Simon"]
+[Black "Simacek, Pavel"]
+[Result "0-1"]
+[WhiteElo "2004"]
+[BlackElo "2363"]
+[ECO "C50"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Italian Game: Paris Defense"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 d6 4.O-O Na5 5.Be2 c5 6.Nc3 f5 7.Bb5+ Nc6 8.d3 Nf6 9.Bg5 Be7 10.Bc4 f4 11.Nd2 Ng4 12.Bxe7 Nxe7 13.Bb5+ Kf8 14.a4 g5 15.a5 Be6 16.a6 b6 17.Bc4 Qd7 18.Bxe6 Qxe6 19.Nc4 Rd8 20.Nb5 Nc8 21.Nc7 Qd7 22.Nd5 Kg7 23.h3 Nf6 24.Nxf6 Kxf6 25.Qh5 Qf7 26.Qxf7+ Kxf7 27.c3 Ne7 28.Rfd1 Nc6 29.f3 h5 30.Kf2 g4 31.h4 Rhg8 32.Rg1 Ke6 33.Rad1 Rd7 34.Na3 Nb8 35.Nb5 Nxa6 36.Ra1 Nc7 37.Nxa7 d5 38.Ke2 Rdg7 39.exd5+ Nxd5 40.Nb5 gxf3+ 41.Kxf3 Rg3+ 42.Kf2 Rxd3 43.Rad1 Rxd1 44.Rxd1 Rxg2+ 0-1

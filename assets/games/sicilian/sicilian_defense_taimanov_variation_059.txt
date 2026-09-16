@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.6"]
+[White "Hansch, Karsten"]
+[Black "Vogel, Roven"]
+[Result "0-1"]
+[WhiteElo "2193"]
+[BlackElo "2499"]
+[ECO "B46"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Nf6 7.a3 Be7 8.f4 d6 9.Qf3 Bd7 10.O-O-O Nxd4 11.Bxd4 Bc6 12.Bd3 Qa5 13.Qf2 Qc7 14.Qg3 g6 15.e5 dxe5 16.Bxe5 Qa5 17.Be2 b5 18.f5 b4 19.axb4 Qa1+ 20.Kd2 Qxb2 21.Rb1 Qxc3+ 22.Bxc3 Ne4+ 23.Kc1 Nxg3 24.hxg3 O-O 25.fxe6 fxe6 26.Ra1 Bb5 27.Bxb5 axb5 28.Rxa8 Rxa8 29.Re1 Kf7 30.g4 Rc8 31.Kd2 Rc4 32.Rh1 h6 33.Kd3 Rxg4 0-1

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.07"]
+[Round "2.5"]
+[White "Bednarski, Jan"]
+[Black "Balint, Peter"]
+[Result "0-1"]
+[WhiteElo "2031"]
+[BlackElo "2308"]
+[ECO "A49"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.Nf3 Nf6 2.d4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.Re1 c6 7.c4 dxc4 8.Ne5 Ng4 9.Nxg4 Bxg4 10.h3 Be6 11.e3 Qd7 12.Kh2 a5 13.a4 Na6 14.Nd2 c5 15.d5 Bxd5 16.Nxc4 e6 17.Nb6 Qc6 18.Nxd5 exd5 19.Bxd5 Qb6 20.Qf3 Nb4 21.Rb1 Nxd5 22.Qxd5 Rfd8 23.Qh1 c4 24.Qf1 c3 25.Qe2 Rac8 26.h4 h5 27.b4 c2 28.Rb3 Qe6 29.Rd3 Rxd3 30.Qxd3 axb4 31.Qb5 Qc6 32.Qd3 Qc3 33.Qe2 b3 34.Bd2 Qc4 0-1

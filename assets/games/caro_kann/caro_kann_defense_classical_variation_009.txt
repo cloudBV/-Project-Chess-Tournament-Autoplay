@@ -1,0 +1,14 @@
+[Event "Amsterdam Chess Festival 2026 - Groep A"]
+[Site "Montessori Lyceum Oostpoort, Amsterdam, Netherlands"]
+[Date "2026.07.16"]
+[Round "6.13"]
+[White "Brienen, Jacob"]
+[Black "Krylov, Philippe"]
+[Result "1-0"]
+[WhiteElo "2090"]
+[BlackElo "2140"]
+[ECO "B19"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bf4 e6 9.Bd3 Bxd3 10.Qxd3 Qa5+ 11.c3 Ngf6 12.O-O Be7 13.a4 Nh5 14.Be5 Nxg3 15.fxg3 Nxe5 16.Nxe5 O-O 17.Rf4 Rad8 18.Qe4 Bd6 19.Nc4 Qd5 20.Nxd6 Qxd6 21.Raf1 Qd5 22.Qe3 Rd7 23.Rg4 Qh5 24.Re4 Qa5 25.Kh2 Qa6 26.Rf2 Qc4 27.d5 Qxd5 28.Rd4 Qc5 29.b4 Qe7 30.Rxd7 Qxd7 31.Rd2 Qc7 32.Qxa7 f5 33.Qd4 e5 34.Qd6 Qxd6 35.Rxd6 e4 36.Kg1 Rf6 37.Rxf6 gxf6 38.h5 Kf7 39.Kf2 Ke6 40.c4 Kd6 41.Ke3 Ke6 42.Kf4 Kd6 43.a5 Ke6 44.g4 fxg4 45.Kxe4 g3 46.Kf4 f5 47.b5 Kd6 48.b6 1-0

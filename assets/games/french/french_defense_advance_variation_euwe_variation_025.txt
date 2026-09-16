@@ -1,0 +1,15 @@
+[Event "Round 1: Gungor, Cihan Akif - Gece, Ugur"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-1/ShlZvIGP/IWVlL6Yh"]
+[Date "2026.07.13"]
+[Round "1.40"]
+[White "Gungor, Cihan Akif"]
+[Black "Gece, Ugur"]
+[Result "1-0"]
+[WhiteElo "2062"]
+[BlackElo "2022"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Na3 f6 7.Nc2 fxe5 8.Nxe5 Nxe5 9.dxe5 Qc7 10.f4 O-O-O 11.Bd3 c4 12.Be2 Ba4 13.Bg4 Qb6 14.b3 cxb3 15.axb3 Bxb3 16.Be3 d4 17.Bxd4 Bc5 18.Qb1 Nh6 19.Bf3 Bd5 20.Qxb6 axb6 21.Bxd5 exd5 22.Ne3 Rhf8 23.Bxc5 bxc5 24.Nxd5 b5 25.Ra5 Kb7 26.c4 bxc4 27.Rxc5 Rc8 28.Rxc8 Rxc8 29.Ke2 Nf5 30.g4 Nd4+ 31.Ke3 Nb3 32.Nc3 Kc6 33.Rd1 Kc5 34.e6 Kb4 35.Nd5+ Ka3 36.e7 Re8 37.f5 c3 38.g5 c2 39.Rf1 Na5 40.f6 gxf6 41.gxf6 Nc4+ 42.Kd4 Nd2 43.Rh1 Nf3+ 44.Ke4 Ng5+ 45.Kf5 Rg8 46.h4 Nf3 47.f7 Rg1 48.Rxg1 Nxg1 49.f8=Q c1=Q 50.e8=Q+ Kb3 51.Qb4+ 1-0

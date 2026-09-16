@@ -1,0 +1,14 @@
+[Event "Round 8: Colonetti, Fabio - Contin, Daniel"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-8/P7hb5l6K/DEYrYvw4"]
+[Date "2026.07.11"]
+[Round "8.7"]
+[White "Colonetti, Fabio"]
+[Black "Contin, Daniel"]
+[Result "1-0"]
+[WhiteElo "2128"]
+[BlackElo "2212"]
+[ECO "E18"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 Bf6 9.Re1 c5 10.d5 Bxc3 11.Bxc3 Nxc3 12.bxc3 Qf6 13.Qd3 exd5 14.cxd5 d6 15.a4 Nd7 16.e4 Rfe8 17.a5 g5 18.Qb5 Rad8 19.axb6 axb6 20.Re3 g4 21.Nh4 Ne5 22.Ra7 Bc8 23.Bf1 Bd7 24.Qxb6 Rb8 25.Rb7 Ra8 26.Qb2 Ba4 27.Be2 h5 28.c4 Ra7 29.Rb8 Kh7 30.Kg2 Ra8 31.Rxa8 Rxa8 32.Ra3 Qd8 33.Qa1 Qa5 34.Qc1 Qb4 35.Nf5 1-0

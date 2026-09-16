@@ -1,0 +1,15 @@
+[Event "Round 7: Kargoll, Boris, Dr. - Oppitz, Peter"]
+[Site "https://lichess.org/broadcast/34-off-senioren-lem-sachsen-anhalt-50/round-7/fVAdT3cK/DNDuXJFM"]
+[Date "2026.07.04"]
+[Round "7.1"]
+[White "Kargoll, Boris, Dr."]
+[Black "Oppitz, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2213"]
+[BlackElo "2057"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.h3 d5 6.cxd5 Nxd5 7.e4 Nxc3 8.bxc3 c5 9.Be2 Nc6 10.Be3 cxd4 11.cxd4 Qa5+ 12.Bd2 Qa3 13.d5 Ne5 14.Nxe5 Bxe5 15.O-O b6 16.Rc1 Bxh3 17.Rc4 Bd7 18.Bb4 Qxa2 19.Bxe7 Rfc8 20.Rxc8+ Rxc8 21.Bg4 Re8 22.d6 Qa4 23.Qxa4 Bxa4 24.Rc1 Bxd6 25.Bxd6 Rxe4 26.Bf3 Re6 27.Bf4 Kg7 28.Bd5 Re7 29.Rc7 Rxc7 30.Bxc7 Bc2 31.Bb8 a6 32.Bc7 b5 33.Ba5 g5 34.Bb7 Kg6 35.Bxa6 Bd3 36.g3 h5 37.Bb7 Bc4 38.Bd2 Bd3 39.Bc6 Kf6 40.Kg2 Be2 41.Bf3 Bxf3+ 42.Kxf3 Kf5 43.g4+ hxg4+ 44.Kg3 Kg6 45.Kxg4 f5+ 46.Kf3 Kh5 47.Bb4 Kh4 48.Be7 Kh5 49.Ke3 Kg4 50.Bc5 Kh4 51.Kd4 Kg4 52.Ke3 Kh4 53.Bb4 Kg4 54.Be1 Kh5 55.Ba5 Kg4 56.Bd2 Kh4 57.Bb4 1/2-1/2

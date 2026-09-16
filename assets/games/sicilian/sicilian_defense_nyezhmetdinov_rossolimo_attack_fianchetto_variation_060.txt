@@ -1,0 +1,15 @@
+[Event "49th Ikaros International Chess Tournament 2026"]
+[Site "Ag. Kyrikos, Ikaria Islad, Greece"]
+[Date "2026.07.15"]
+[Round "6.3"]
+[White "Hunt, Harriet V"]
+[Black "Sidiropoulos, Vasilis"]
+[Result "1/2-1/2"]
+[WhiteElo "2299"]
+[BlackElo "2079"]
+[ECO "B31"]
+[TimeControl "90 min + 30 sec per move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 dxc6 7.a4 Qe7 8.Na3 Nh6 9.d3 f6 10.Nc4 Nf7 11.h3 O-O 12.b3 Be6 13.Bb2 Bxc4 14.bxc4 Nd8 15.Ra3 Ne6 16.Rb3 Rfe8 17.Qb1 Rab8 18.Bc3 Qd7 19.Bd2 Nd4 20.Nxd4 cxd4 21.a5 f5 22.Qd1 f4 23.Qg4 Qf7 24.Reb1 h5 25.Qf3 g5 26.g4 h4 27.Qd1 Bf8 28.Qc1 Red8 29.Qb2 Rd7 30.Qa2 Bc5 31.Qa4 Qe6 32.Kg2 Qd6 33.Kf3 Kf7 34.Bb4 Bxb4 35.Rxb4 Qc5 36.R1b3 Ke7 37.Qa3 Qd6 38.Qb2 Qc7 39.Ke2 Ke6 40.Qa2 c5 41.Rb5 Qc6 42.Kf3 Ke7 43.Qb2 Ke6 44.Qa3 Rc7 45.Qb2 Rd7 46.Ke2 Rc7 47.f3 Rd7 48.c3 dxc3 49.Qxc3 Rd4 50.Qb2 Rd7 51.Qa3 Rc7 52.Qb2 Rd7 53.Kd2 Rc7 54.Ke1 Rd7 55.Ke2 1/2-1/2

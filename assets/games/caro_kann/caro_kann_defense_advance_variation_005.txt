@@ -1,0 +1,14 @@
+[Event "Round 1: Androutsopoulos-Agiotatos, Vasil - Vlachos, Anatole"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-1/twbXu9kG/Kzs8c2XU"]
+[Date "2026.07.10"]
+[Round "1.22"]
+[White "Androutsopoulos-Agiotatos, Vasil"]
+[Black "Vlachos, Anatole"]
+[Result "0-1"]
+[WhiteElo "2098"]
+[BlackElo "2493"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 h6 7.Be2 Ne7 8.O-O g5 9.Ne1 Qc7 10.Nd3 Ng6 11.a4 a6 12.Re1 Be7 13.Bd2 O-O 14.Bg4 Be4 15.Bf3 f5 16.exf6 Nxf6 17.Ndc5 Bxc5 18.Nxc5 Qf7 19.Bb4 Nh4 20.Bxe4 dxe4 21.Qd2 Qg6 22.Nxb7 Qf5 23.h3 Nf3+ 24.gxf3 Qxh3 25.Qe3 Nd5 0-1

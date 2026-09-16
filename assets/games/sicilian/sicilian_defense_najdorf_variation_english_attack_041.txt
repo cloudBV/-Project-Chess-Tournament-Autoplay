@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.16"]
+[Round "3.3"]
+[White "Kong, Xiangrui"]
+[Black "Muradli, Mahammad"]
+[Result "0-1"]
+[WhiteElo "2538"]
+[BlackElo "2642"]
+[ECO "B90"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.h3 Nbd7 9.g4 Rc8 10.Qd2 b5 11.O-O-O h5 12.g5 b4 13.Nd5 Nxd5 14.exd5 Bf5 15.Bd3 Bxd3 16.Qxd3 Be7 17.Kb1 a5 18.Rhg1 g6 19.f4 a4 20.Nd2 exf4 21.Bd4 Ne5 22.Bxe5 dxe5 23.Ne4 Bd6 24.Qa6 Ke7 25.Rge1 a3 26.bxa3 bxa3 27.Rd3 Qc7 28.Rb3 Rhd8 29.c4 Qxc4 30.Rb7+ Kf8 31.Qxc4 Rxc4 32.Nxd6 Rxd6 33.Rb8+ Ke7 34.Rxe5+ Kd7 35.Rb3 f6 36.gxf6 Rxf6 37.Rxa3 Rb6+ 38.Rb3 Rxb3+ 39.axb3 f3 40.Re1 Rh4 41.Kc2 Rxh3 42.Re6 g5 43.Kd3 0-1

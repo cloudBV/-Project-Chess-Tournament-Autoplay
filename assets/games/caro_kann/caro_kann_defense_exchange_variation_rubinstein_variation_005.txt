@@ -1,0 +1,15 @@
+[Event "Round 5: Soliz Gabarrete, Luis Fernando - Arauz Espinoza, Douglas Ariel"]
+[Site "https://lichess.org/broadcast/bitiachess-torneo-aniversario/round-5/iXKfkmxs/bYpZ8DT2"]
+[Date "2026.07.18"]
+[Round "5.2"]
+[White "Soliz Gabarrete, Luis Fernando"]
+[Black "Arauz Espinoza, Douglas Ariel"]
+[Result "0-1"]
+[WhiteElo "2031"]
+[BlackElo "2041"]
+[ECO "B13"]
+[TimeControl "45+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6 5.c3 Nc6 6.Bf4 Bg4 7.Qb3 Qd7 8.Nd2 e6 9.Ngf3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rae1 Bxf3 13.Nxf3 Qc7 14.Qc2 Rfc8 15.Qe2 Rab8 16.Ne5 Ne7 17.f4 Nf5 18.Rf3 Nd6 19.Rh3 g6 20.Qf2 Qd8 21.Qh4 Nh5 22.Qg4 f5 23.Qf3 Nf6 24.g4 Rc7 25.g5 Nfe4 26.Rh6 Nxg5 27.Qg2 Ngf7 28.Rh3 Nxe5 29.Rxe5 Qf6 30.Rhe3 Ne4 31.Bxe4 fxe4 32.Qg4 Rc6 33.Kg2 Rf8 34.Kg3 b5 35.a3 a5 36.h4 Kh8 37.Re2 Qe7 38.h5 gxh5 39.Rxh5 Rg8 40.Rg5 Rxg5 41.fxg5 Rc8 42.Rh2 Rf8 43.Rf2 Rg8 44.Kf4 Rf8+ 45.Ke3 Rxf2 46.Kxf2 Qf7+ 47.Ke1 Qf5 48.Qh4 Kg8 49.Qh6 e3 50.Qh4 Qf3 51.Qh2 Qe4 52.Qd6 Qf5 53.Qd8+ Kg7 54.Qc7+ Kg6 0-1

@@ -1,0 +1,14 @@
+[Event "Round 1: Ragavan, Samarth Rajesh - Acs, Peter"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-1/OCik5EKw/8pxNKiHn"]
+[Date "2026.07.13"]
+[Round "1.2"]
+[White "Ragavan, Samarth Rajesh"]
+[Black "Acs, Peter"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2561"]
+[ECO "E68"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.O-O e5 8.e4 exd4 9.Nxd4 Re8 10.Re1 a6 11.h3 Rb8 12.f4 Nc5 13.b4 Ne6 14.Be3 Nh5 15.Kh2 c5 16.bxc5 Nxc5 17.Qc2 Bd7 18.Rad1 Qc8 19.Nde2 Bf8 20.g4 Ng7 21.Bxc5 Qxc5 22.Nd5 Red8 23.Nf6+ Kh8 24.Nxd7 Rxd7 25.Rd5 Qc7 26.Qd3 Rdd8 27.Rd1 Ne6 28.f5 Nc5 29.Qc3+ Kg8 30.Nf4 Bh6 31.Qg3 Bg7 32.g5 Re8 33.f6 Bf8 34.R5d4 Qa5 35.Nd5 Qxa2 36.Ne7+ Bxe7 37.fxe7 Ne6 38.Rxd6 Qxc4 39.Rd7 b5 40.Qa3 b4 41.Qa5 Qc8 42.e5 b3 43.Bb7 Qc2+ 44.R1d2 Qf5 45.Rd8 Qf4+ 46.Kh1 b2 47.Rxe8+ Rxe8 48.Rxb2 Qc1+ 0-1

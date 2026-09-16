@@ -1,0 +1,15 @@
+[Event "Round 9: Tanenbaum, Zachary - Pan, Zachary"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-9/6OZ7lV9w/e7yOjtVf"]
+[Date "2026.07.19"]
+[Round "9.15"]
+[White "Tanenbaum, Zachary"]
+[Black "Pan, Zachary"]
+[Result "1/2-1/2"]
+[WhiteElo "2310"]
+[BlackElo "2122"]
+[ECO "B62"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3 Be7 8.O-O-O O-O 9.f4 Qb6 10.Nxc6 bxc6 11.e5 dxe5 12.fxe5 Rd8 13.Qf3 Rxd1+ 14.Nxd1 Nd5 15.h4 Ba6 16.Kb1 h6 17.Bxa6 Qxa6 18.Qg4 Kf8 19.Bd2 Rd8 20.Qe4 Kg8 21.Nf2 Nb6 22.Bc1 Qc4 23.Qxc4 Nxc4 24.Nd3 Rd5 25.Re1 Rd4 26.g3 Nb6 27.b3 Rg4 28.Bf4 Nd5 29.h5 Nxf4 30.gxf4 Ba3 31.b4 Rg2 32.Rd1 Kh7 33.Rf1 Rd2 34.Rg1 Kg8 35.Rh1 Kh7 36.Rg1 Kg8 37.Rh1 g6 38.hxg6 fxg6 39.Nb2 Rf2 40.Nd3 Rd2 41.Nb2 Bxb2 42.Kxb2 h5 43.Rf1 Rg2 44.a4 h4 45.b5 cxb5 46.axb5 h3 47.Rf3 h2 48.Rh3 Rf2 49.Rh4 Rxf4 50.Rxh2 Re4 51.Rd2 1/2-1/2

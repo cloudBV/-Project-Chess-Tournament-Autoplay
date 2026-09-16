@@ -1,0 +1,15 @@
+[Event "Round 2: Novotny, Michal - Mosny, Kamil"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-2/UtHvF8d0/s3E76CWr"]
+[Date "2026.07.17"]
+[Round "2.35"]
+[White "Novotny, Michal"]
+[Black "Mosny, Kamil"]
+[Result "1-0"]
+[WhiteElo "2203"]
+[BlackElo "2050"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.a4 Be6 7.N1c3 a6 8.Na3 Nf6 9.Bg5 h6 10.Bxf6 Qxf6 11.Nd5 Qd8 12.Bc4 Be7 13.O-O O-O 14.c3 Kh8 15.Nc2 Bg5 16.Nce3 Bxe3 17.Nxe3 Rc8 18.Qd3 Rc7 19.Rfd1 Rd7 20.Bd5 Ne7 21.Ra3 Bxd5 22.Nxd5 f5 23.Rb3 fxe4 24.Qxe4 Nxd5 25.Qxd5 Qe7 26.Rb4 Rc8 27.Rc4 Rxc4 28.Qxc4 Qd8 29.Qd5 Qf6 30.Rd2 Qf4 31.c4 Rc7 32.b3 Rc6 33.g3 Qf5 34.Rd3 Kh7 35.Kg2 Qg6 36.Rf3 Rc5 37.Qxb7 a5 38.Qa8 d5 39.Rf8 Qe4+ 40.Kh3 Rc7 41.Qe8 Qg2+ 1-0

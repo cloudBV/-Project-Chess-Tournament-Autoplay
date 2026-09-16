@@ -1,0 +1,15 @@
+[Event "Round 5: Zerey, Demhat - Oz, Ege"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/WGL5vLvo"]
+[Date "2026.07.02"]
+[Round "5.18"]
+[White "Zerey, Demhat"]
+[Black "Oz, Ege"]
+[Result "1-0"]
+[WhiteElo "2338"]
+[BlackElo "2120"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.e3 O-O 6.Bd3 Bxd2+ 7.Qxd2 d6 8.Nc3 e5 9.Bc2 Re8 10.O-O-O a6 11.h3 b5 12.dxe5 dxe5 13.Nd5 Nxd5 14.Qxd5 c6 15.Qxe5 Qxe5 16.Nxe5 f6 17.Nf3 bxc4 18.Rd6 Ra7 19.Rhd1 Rd7 20.Ba4 Red8 21.Rxd7 Rxd7 22.Nd2 Kf7 23.Nxc4 Rxd1+ 24.Bxd1 Be6 25.Na5 Ke7 26.Be2 Kd6 27.Kc2 Kc5 28.a3 Kb6 29.Nc4+ Bxc4 30.Bxc4 a5 31.Bg8 h6 32.Kd3 Nd7 33.Ke4 Kc7 34.Kf5 Nf8 35.b3 Kd6 36.h4 Ke7 37.h5 Nd7 38.Bc4 Nb6 39.a4 Nc8 40.f4 Nd6+ 41.Kg6 Kf8 42.Bd3 Nc8 43.Kf5 Kf7 44.Bc4+ Ke7 45.e4 Nd6+ 46.Kg6 Kf8 47.e5 fxe5 48.fxe5 Nc8 49.Kf5 Ke7 50.Be6 Nb6 51.g4 Na8 52.Bc4 Nb6 53.Kg6 Kf8 54.Be6 Na8 55.Bd7 c5 56.e6 Nb6 57.Bb5 Nd5 58.Kf5 Ke7 59.Ke5 Ne3 60.Be2 Nc2 61.Kd5 Nd4 62.Bc4 Nxe6 63.Kc6 Nd4+ 64.Kxc5 Kf6 65.Kxd4 1-0

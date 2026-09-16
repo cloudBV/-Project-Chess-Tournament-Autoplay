@@ -1,0 +1,15 @@
+[Event "Round 5: Uzdemir, Ali Poyraz - Akkaya, Atakan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/4tg3pci0"]
+[Date "2026.07.16"]
+[Round "5.34"]
+[White "Uzdemir, Ali Poyraz"]
+[Black "Akkaya, Atakan"]
+[Result "1-0"]
+[WhiteElo "2265"]
+[BlackElo "2042"]
+[ECO "B44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.g3 Qc7 6.Nb5 Qb8 7.Bf4 e5 8.Be3 Nf6 9.Bg2 Be7 10.O-O d6 11.a4 Ng4 12.Bc1 f5 13.exf5 Bxf5 14.Bg5 a6 15.Bxe7 Kxe7 16.N5c3 Nf6 17.Nd5+ Nxd5 18.Bxd5 Qe8 19.f4 Kd7 20.Na3 exf4 21.Nc4 Kc7 22.Qd2 Qd8 23.Bxc6 Kxc6 24.Rxf4 Be6 25.Qc3 Qc7 26.Ne5+ 1-0

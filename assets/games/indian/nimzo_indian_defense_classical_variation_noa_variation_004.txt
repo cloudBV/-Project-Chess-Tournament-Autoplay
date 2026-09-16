@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-7/hniOKucp/R5dW6En5"]
+[Date "2026.07.03"]
+[Round "7.34"]
+[White "Prazmowski, Bartosz"]
+[Black "Czernecki, Andrzej"]
+[Result "1-0"]
+[WhiteElo "2012"]
+[BlackElo "2023"]
+[ECO "E35"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 O-O 7.e3 Re8 8.Bd3 h6 9.Bh4 c5 10.Ne2 Nc6 11.O-O cxd4 12.Nxd4 Nxd4 13.exd4 Be6 14.Bb5 Rf8 15.Qd3 Bd6 16.f4 g5 17.fxg5 Ng4 18.Bg3 Bxg3 19.Qxg3 Qxg5 20.Rae1 Kg7 21.h3 Nf6 22.Qf3 Rg8 23.Rf2 Rad8 24.Bd3 Nh7 25.Rxe6 Qc1+ 26.Kh2 1-0

@@ -1,0 +1,14 @@
+[Event "Round 5: Finek, Vaclav - Yip, Carissa"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-rapid/round-5/MEj24yRV/h6jP5wQ2"]
+[Date "2026.07.12"]
+[Round "5.1"]
+[White "Finek, Vaclav"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[WhiteElo "2454"]
+[BlackElo "2333"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Qxd2 Nc6 7.Nc3 d5 8.cxd5 exd5 9.Bg2 Bf5 10.O-O O-O 11.Qf4 Be4 12.Rfd1 Rad8 13.Ne5 Bxg2 14.Nxc6 bxc6 15.Kxg2 c5 16.e3 cxd4 17.exd4 Ne4 18.Rac1 Nxc3 19.Rxc3 Rd7 20.Rdc1 Rc8 21.Rc6 h6 22.h4 Qe4+ 23.Qxe4 dxe4 24.R1c4 Rcd8 25.Rxc7 Rxc7 26.Rxc7 Rxd4 27.Rxa7 Rd2 28.Rb7 e3 29.Kf3 exf2 30.Kg2 g5 31.hxg5 hxg5 32.a4 Rd4 33.a5 Rd5 34.a6 Ra5 35.a7 Kg7 36.Kxf2 Kg6 37.b4 Ra2+ 38.Ke3 f5 39.b5 Kh5 40.b6 Kg4 41.Rb8 Ra3+ 42.Kd4 Ra4+ 43.Ke5 Ra5+ 1-0

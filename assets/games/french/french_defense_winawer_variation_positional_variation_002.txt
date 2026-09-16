@@ -1,0 +1,14 @@
+[Event "Round 6: Roselli, Juan Pablo - Vaz Lacuesta, Leonardo"]
+[Site "https://lichess.org/broadcast/campeonato-uruguayo-2026-rapidas/round-6/czMJ3rUn/AbKNBW7Z"]
+[Date "2026.07.18"]
+[Round "6.7"]
+[White "Roselli, Juan Pablo"]
+[Black "Vaz Lacuesta, Leonardo"]
+[Result "0-1"]
+[WhiteElo "2060"]
+[BlackElo "2173"]
+[ECO "C19"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Positional Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Qc7 8.a4 Qa5 9.Bd2 Nbc6 10.Bd3 Bd7 11.O-O Qc7 12.Re1 Nf5 13.Bxf5 exf5 14.c4 Be6 15.cxd5 Bxd5 16.dxc5 O-O 17.Bf4 Be6 18.Qe2 Ne7 19.Be3 Rfd8 20.c3 Nd5 21.Bd4 Rac8 22.Nd2 b6 23.cxb6 axb6 24.Rec1 Qc6 25.Qf3 Qc7 26.Nf1 Ra8 27.Ng3 Ne7 28.Qe3 Rdb8 29.Rcb1 Qd7 30.Nh5 Rxa4 31.Rxa4 Qxa4 32.h3 b5 33.Bc5 Ng6 34.Bb4 Qc2 35.Re1 Qb3 36.Qa7 Rd8 37.Kh2 Qd5 38.Qe3 Qc6 39.Ra1 Bd5 40.f3 Re8 41.Re1 Rxe5 42.Qd2 Qc7 43.Kh1 Rxe1+ 44.Qxe1 Qd7 45.Qe3 Be6 46.Qb6 h6 47.Qb8+ Kh7 48.Qg3 Qd1+ 49.Kh2 Qd2 50.Bf8 0-1

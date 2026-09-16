@@ -1,0 +1,15 @@
+[Event "Round 4: Yerzhanuly Yernur - Siddhanth Poonja"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b14/round-4/URg2AnCG/BbsgO6F5"]
+[Date "2026.07.16"]
+[Round "4.10"]
+[White "Yerzhanuly Yernur"]
+[Black "Siddhanth Poonja"]
+[Result "1-0"]
+[WhiteElo "2082"]
+[BlackElo "2251"]
+[ECO "E10"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Nbd2 O-O 6.Bg2 c6 7.Qc2 Nbd7 8.O-O b6 9.e4 Ba6 10.e5 Ne8 11.Qa4 Bxd2 12.Qxa6 Nc7 13.Qa4 Bxc1 14.Raxc1 c5 15.Rfd1 cxd4 16.Rxd4 Qe7 17.Qc2 h6 18.Qe2 Rac8 19.Rcd1 Nc5 20.Nd2 Rfd8 21.cxd5 exd5 22.f4 N5e6 23.Rd3 Nc5 24.Rd4 N5e6 25.Rd3 Nc5 26.Rd4 N5e6 27.Rd3 Qc5+ 28.Qf2 Qb4 29.Nb3 Nc5 30.Nxc5 Qxc5 31.Qxc5 bxc5 32.Bxd5 Kf8 33.Bc4 Rxd3 34.Rxd3 Ke7 35.Ra3 a6 36.Ra5 Rd8 37.Rxc5 Ne6 38.Rd5 Rc8 39.b3 Nc5 40.Kf2 a5 41.Ke3 a4 42.f5 axb3 43.axb3 Nd7 44.Rb5 Rc7 45.Kd4 f6 46.e6 Ne5 47.Bd5 Rc1 48.Rb7+ Kd6 49.e7 Rc8 50.b4 Re8 51.b5 g6 52.fxg6 Nxg6 53.Bf7 Rxe7 54.Rb6+ Kc7 55.Rc6+ Kb7 56.Bxg6 Re5 57.Rc5 Re2 58.Be4+ Kb6 59.Rc6+ 1-0

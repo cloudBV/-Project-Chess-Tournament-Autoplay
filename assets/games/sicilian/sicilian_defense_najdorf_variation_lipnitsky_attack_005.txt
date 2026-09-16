@@ -1,0 +1,14 @@
+[Event "Round 5: Ivanovic, Bozidar - Tsirilman, Guy"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-5/4Yvn9DXr/NlFRT2vQ"]
+[Date "2026.07.07"]
+[Round "5.28"]
+[White "Ivanovic, Bozidar"]
+[Black "Tsirilman, Guy"]
+[Result "0-1"]
+[WhiteElo "2321"]
+[BlackElo "2213"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O b5 8.Bd3 Bb7 9.a3 Nbd7 10.Kh1 Rc8 11.Qe2 Be7 12.Be3 h5 13.h3 h4 14.Kg1 Nc5 15.Bd2 g6 16.b4 Nxd3 17.cxd3 Nh5 18.Qg4 Bf6 19.Nde2 d5 20.Rad1 d4 21.Na2 Rc2 22.Nac1 e5 23.f4 Bc8 24.Qf3 Be6 25.fxe5 Bxe5 26.Bf4 f6 27.Rd2 Rxd2 28.Bxd2 g5 29.Rd1 Qc8 30.Be1 g4 31.hxg4 Bxg4 32.Qf1 h3 33.g3 h2+ 0-1

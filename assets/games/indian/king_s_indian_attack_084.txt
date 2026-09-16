@@ -1,0 +1,14 @@
+[Event "Round 5: Shahil Dey - Batsiashvili, Nino"]
+[Site "https://lichess.org/broadcast/festival-des-400-coups-2026-open-des-boulets/round-5/RnKmo0FX/BUqVu1zE"]
+[Date "2026.07.05"]
+[Round "5.1"]
+[White "Shahil Dey"]
+[Black "Batsiashvili, Nino"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2469"]
+[ECO "A07"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 e6 3.Bg2 b6 4.c4 Bb7 5.b3 a5 6.Nc3 d4 7.Nb5 e5 8.O-O c6 9.Na3 e4 10.Ne1 h5 11.d3 h4 12.dxe4 hxg3 13.hxg3 Bxa3 14.Bxa3 c5 15.Qd2 Nf6 16.Qg5 Nbd7 17.Nd3 Qe7 18.f3 O-O-O 19.e5 Nd5 20.Qxe7 Nxe7 21.Bc1 Ng6 22.f4 Rh5 23.Bd2 Rdh8 24.Bxb7+ Kxb7 1-0

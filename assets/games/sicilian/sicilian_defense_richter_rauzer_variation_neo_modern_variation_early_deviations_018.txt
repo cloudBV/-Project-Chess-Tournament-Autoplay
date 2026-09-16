@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.24"]
+[Round "7.5"]
+[White "Ladron De Guevara Pinto, Paolo"]
+[Black "Pichot, Alan"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2562"]
+[ECO "B66"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O Be7 10.Bxf6 gxf6 11.Bc4 O-O 12.Qh6 Kh8 13.Rd3 Rg8 14.Rh3 Rg7 15.f4 Rb8 16.Bd3 Qa5 17.e5 f5 18.Ne4 dxe5 19.Rg3 1-0

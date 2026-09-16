@@ -1,0 +1,14 @@
+[Event "Kandidat"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.06"]
+[Round "4.5"]
+[White "Moen, Andreas G.R."]
+[Black "Stanford, Sheila Barth"]
+[Result "1/2-1/2"]
+[WhiteElo "2279"]
+[BlackElo "2149"]
+[ECO "A45"]
+[Variant "Standard"]
+[Opening "Indian Defense"]
+
+1.d4 Nf6 2.c3 b6 3.Nf3 Bb7 4.Bf4 e6 5.e3 Be7 6.h3 d5 7.Nbd2 O-O 8.Bd3 c5 9.O-O Nc6 10.Re1 Rc8 11.Qe2 Re8 12.Rad1 g6 13.a3 a5 14.Bg3 Nd7 15.e4 cxd4 16.cxd4 dxe4 17.Nxe4 Nf6 18.Bb5 Nd5 19.Ne5 f5 20.Nc5 Bxc5 21.dxc5 bxc5 22.Qc4 Nxe5 23.Rxe5 Bc6 24.Bxc6 Rxc6 25.Rdxd5 exd5 26.Rxd5 Qb6 27.Rd7+ Ree6 28.Be5 Kf8 29.Qd5 Re7 30.Rd8+ Re8 31.Bd6+ Rxd6 32.Rxd6 Qxb2 33.Qxc5 Kg7 34.Rd7+ Kf6 35.Rd6+ Kg7 36.Qc7+ Kh6 37.Rd7 Re1+ 38.Kh2 Qe5+ 39.Qxe5 Rxe5 40.Ra7 g5 41.Kg3 Rc5 42.a4 Kg6 43.Ra6+ Kg7 44.h4 gxh4+ 45.Kxh4 h6 46.Kh5 Rc2 47.Rg6+ Kf7 48.f4 Rf2 49.Rxh6 1/2-1/2

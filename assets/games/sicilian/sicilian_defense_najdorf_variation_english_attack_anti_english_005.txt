@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.10"]
+[Round "7.8"]
+[White "Stary, Simon"]
+[Black "Frank, Adam"]
+[Result "1/2-1/2"]
+[WhiteElo "2171"]
+[BlackElo "2358"]
+[ECO "B90"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack, Anti-English"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.Be3 Ng4 9.Bc1 1/2-1/2

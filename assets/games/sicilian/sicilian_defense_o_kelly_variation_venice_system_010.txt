@@ -1,0 +1,14 @@
+[Event "Round 1: Collin, Moritz Valentin - Gaehwiler, Gabriel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-open/round-1/VL8Eatva/F7kFUYgH"]
+[Date "2026.07.11"]
+[Round "1.2"]
+[White "Collin, Moritz Valentin"]
+[Black "Gaehwiler, Gabriel"]
+[Result "0-1"]
+[WhiteElo "2342"]
+[BlackElo "2384"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Be3 Nd7 7.Be2 Ngf6 8.O-O Be7 9.c4 Qc6 10.Nc3 cxd4 11.Nxd4 Qc7 12.a3 b6 13.Rc1 Bb7 14.b4 O-O 15.c5 bxc5 16.bxc5 Nxc5 17.Na4 Qe5 18.Nf3 Bxf3 19.Bxf3 Rad8 20.Qc2 Nd3 21.Rb1 Bd6 22.g3 Qf5 23.Bb7 Bxa3 24.Rb3 Be7 25.Bb6 Rd7 26.Bxa6 Ne5 27.Qxf5 exf5 28.Re1 Ne4 29.f3 Nd2 30.Rxe5 Nxb3 31.Kg2 g6 32.Re3 Na1 33.Kh3 Bf6 34.f4 Kg7 35.Be2 Re7 36.Rxe7 Bxe7 37.Nc3 Nb3 38.Bd1 Bc5 39.Bc7 Nd4 40.Nd5 f6 41.g4 fxg4+ 42.Bxg4 Ra8 43.Bd7 Ra3+ 44.Kg2 Nc2 45.f5 Rd3 0-1

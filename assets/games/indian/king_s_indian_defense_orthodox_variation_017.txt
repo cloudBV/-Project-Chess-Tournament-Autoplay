@@ -1,0 +1,15 @@
+[Event "XXVI Open Internacional d'Escacs de Torredembarra"]
+[Site "Torredembarra, Spain"]
+[Date "2026.07.10"]
+[Round "8.2"]
+[White "Bergaretxe Gavalda, Unai"]
+[Black "Anguera Staina, Maxim"]
+[Result "1-0"]
+[WhiteElo "2180"]
+[BlackElo "2282"]
+[ECO "E91"]
+[TimeControl "90m/game + 30s/move"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Bg4 7.Be3 Nfd7 8.O-O Bxf3 9.Bxf3 Nc6 10.g3 e5 11.d5 Nd4 12.Bg2 c5 13.dxc6 bxc6 14.Bxd4 exd4 15.Ne2 Qb6 16.Rb1 a5 17.Nf4 Ne5 18.b3 a4 19.Nd3 Nxd3 20.Qxd3 axb3 21.axb3 Ra3 22.f4 Rb8 23.Rf3 Qb4 24.h4 Ra2 25.Qf1 Rc2 26.e5 Ra8 27.f5 Raa2 28.e6 Rxg2+ 29.Qxg2 Rxg2+ 30.Kxg2 gxf5 31.e7 Qb8 32.Re1 Be5 33.c5 f6 34.cxd6 Kf7 35.Rxe5 fxe5 36.Rxf5+ Kg7 37.d7 Qxb3 38.d8=Q Qc2+ 39.Rf2 Qe4+ 40.Kh2 1-0

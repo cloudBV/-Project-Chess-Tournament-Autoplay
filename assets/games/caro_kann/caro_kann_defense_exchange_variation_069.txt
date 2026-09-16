@@ -1,0 +1,15 @@
+[Event "Round 4: Kothari, Jai - Lee, Yuk Hei"]
+[Site "https://lichess.org/broadcast/sussex-university-masters/round-4/96mqn1sv/BpvXRVLH"]
+[Date "2026.07.23"]
+[Round "4.27"]
+[White "Kothari, Jai"]
+[Black "Lee, Yuk Hei"]
+[Result "1-0"]
+[WhiteElo "2160"]
+[BlackElo "2010"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 e5 6.dxe5 Nxe5 7.Nf3 Nxd3+ 8.Qxd3 Bd6 9.O-O Ne7 10.Nd4 O-O 11.Nd2 Bg4 12.N2f3 h6 13.Rd1 Qd7 14.Be3 a6 15.Re1 Rad8 16.Rad1 f5 17.Bc1 Rf6 18.Rd2 Ng6 19.Rde2 Bf4 20.Bd2 Bxd2 21.Qxd2 f4 22.Ne5 Nxe5 23.Rxe5 f3 24.g3 Rf7 25.Qe3 g5 26.Qd3 Bh5 27.Re6 Rdf8 28.h3 Rg7 29.g4 Qf7 30.Re7 Bg6 31.Rxf7 Bxd3 32.Rxg7+ Kxg7 33.Ne6+ Kf7 34.Nxf8 Kxf8 35.Re5 Be4 36.c4 Bb1 37.cxd5 Bg6 38.d6 Be8 39.Re7 Bc6 40.Kf1 Bb5+ 41.Ke1 Bc6 42.Rh7 Ke8 43.Kd2 b6 44.Ke3 Kd8 45.Kd4 a5 46.Ke5 Bb5 47.Rb7 Bc4 48.b3 Bf1 49.Ke6 Kc8 50.d7+ 1-0

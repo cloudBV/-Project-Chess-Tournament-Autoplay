@@ -1,0 +1,15 @@
+[Event "Round 6: Pham Tran Gia Phuc - Tran Ngoc Minh Duy"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-6/xvzVryfj/rAAyEVFU"]
+[Date "2026.07.21"]
+[Round "6.4"]
+[White "Pham Tran Gia Phuc"]
+[Black "Tran Ngoc Minh Duy"]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2283"]
+[ECO "E48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Ne2 dxc4 7.Bxc4 e5 8.a3 Bd6 9.dxe5 Bxe5 10.Qxd8 Rxd8 11.e4 Nc6 12.f3 b6 13.Bg5 h6 14.Bxf6 Bxf6 15.Bd5 Bd7 16.f4 Rab8 17.O-O-O g5 18.g3 Ne7 19.e5 Bg7 20.Bc4 Bg4 21.Rdf1 Bh3 22.Rf2 Nf5 23.Ng1 Bg4 24.fxg5 Bxe5 25.h3 Bxg3 26.hxg4 Bxf2 27.gxf5 hxg5 28.Nd5 Rxd5 29.Bxd5 Rd8 30.Bf3 Rd3 31.Bh5 g4 32.Ne2 g3 33.Rh4 Kg7 34.Rg4+ Kf6 35.Rg8 Re3 36.Kd2 c6 37.Nf4 Re5 38.Nd3 Rxf5 39.Be2 Rd5 40.Bf3 Rd6 41.Rg4 c5 42.Kc2 Rd4 43.Rg8 Rh4 44.Kd1 Rh2 45.Nf4 Ke5 46.Ne2 Rh6 47.Ba8 Rh2 48.b3 Rh3 49.Kc2 f5 50.a4 Kf6 51.Kb1 Ke5 52.Kc2 Kf6 53.Rf8+ Ke5 54.Bb7 Rh7 55.Bc8 Rh5 56.Rg8 Rh2 57.Kd3 g2 58.Bb7 Rh3+ 59.Kc4 a6 60.Re8+ Kd6 61.Bxg2 b5+ 62.axb5 axb5+ 63.Kxb5 Rxb3+ 64.Kc4 Rb4+ 65.Kd3 f4 66.Nc3 Be3 67.Ne4+ Kd7 68.Re5 Rb3+ 69.Ke2 c4 70.Bh3+ Kc7 71.Re7+ Kc6 72.Re8 Bd4 73.Bg4 Re3+ 74.Kf1 Kd5 75.Bh5 Be5 76.Ng5 c3 77.Rc8 1/2-1/2

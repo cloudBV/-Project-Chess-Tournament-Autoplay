@@ -1,0 +1,14 @@
+[Event "Round 4: Cardona Duque, Juan Esteban - Castro Lombana, Juan Pablo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-4/Q9fLbdxj/xUNol5rZ"]
+[Date "2026.07.12"]
+[Round "4.8"]
+[White "Cardona Duque, Juan Esteban"]
+[Black "Castro Lombana, Juan Pablo"]
+[Result "0-1"]
+[WhiteElo "2074"]
+[BlackElo "2275"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 e5 7.Ndb5 d6 8.Nd5 Nxd5 9.exd5 Nb8 10.Be2 Be7 11.O-O O-O 12.c4 Nd7 13.Be3 a6 14.Nc3 f5 15.f3 Nf6 16.b4 b6 17.Qd2 Bd7 18.f4 e4 19.Bd4 Qc7 20.Qe3 Rab8 21.Rfc1 Ne8 22.Qf2 Bf6 23.Be3 a5 24.Rab1 axb4 25.Rxb4 Qa7 26.Nb1 Nc7 27.Bxb6 Rxb6 28.Rxb6 e3 29.Qxe3 Re8 30.Qf2 Rxe2 31.Qxe2 Qxb6+ 32.Kh1 Na6 33.Nd2 Nc5 34.Rb1 Qa7 35.Nb3 Ne4 36.g3 Nc3 37.Qc2 Nxb1 38.Qxb1 Qf2 39.Qd3 Be8 40.c5 Bh5 41.Nd2 Bd4 0-1

@@ -1,0 +1,15 @@
+[Event "Round 4: Savran, Bora - Uzdemir, Ali Poyraz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-4/JjkybKrs/GjwPWHEV"]
+[Date "2026.07.15"]
+[Round "4.33"]
+[White "Savran, Bora"]
+[Black "Uzdemir, Ali Poyraz"]
+[Result "1/2-1/2"]
+[WhiteElo "2080"]
+[BlackElo "2265"]
+[ECO "B54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Prins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 d5 7.Bg5 d4 8.c3 Nc6 9.Bb5 h6 10.Bxf6 Qxf6 11.cxd4 Bb4+ 12.Nc3 O-O 13.Bxc6 bxc6 14.dxe5 Qxe5 15.Qd4 Qe7 16.O-O Rd8 17.Qe3 Be6 18.Kh1 a5 19.Na4 Bc4 20.Rfd1 Bb5 21.Nc3 Bc4 22.Nd4 Qa7 23.Nf5 Qxe3 24.Nxe3 Be6 25.Nc2 Bc5 26.b3 Kf8 27.g4 f6 28.Kg2 Ke7 29.Ne2 Rxd1 30.Rxd1 a4 31.b4 Bd6 32.Ned4 Bd7 33.Nf5+ Bxf5 34.gxf5 Rb8 35.Nd4 Rb6 36.Rc1 Bxb4 37.Rxc6 Rb7 38.Ra6 Bc5 39.Ne6 Rb2+ 40.Kf1 Be3 41.Rxa4 Rxh2 42.Ra3 Bb6 43.Rb3 Ba5 44.a3 Kd6 45.Rb5 Bc3 46.Rd5+ Ke7 47.Nc5 Rd2 48.a4 Bb4 49.Nd3 Bc3 50.Nf4 Ra2 51.Rd3 Ba5 52.Ng6+ Ke8 53.Rd4 h5 54.f4 Ra3 55.Ke2 Ra2+ 56.Kf3 Ra3+ 57.Kg2 Ra2+ 58.Kf1 Ra1+ 59.Ke2 Ra2+ 60.Kd3 Ra3+ 61.Kc2 Rc3+ 62.Kb2 Rc5 63.Rd3 Rc4 64.Rh3 Rxe4 65.Rxh5 Rxa4 66.Rh8+ Kd7 67.Rg8 Bd2 1/2-1/2

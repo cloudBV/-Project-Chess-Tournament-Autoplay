@@ -1,0 +1,14 @@
+[Event "Round 6: Prabu, Dananjey - Lavendelis, Egons"]
+[Site "https://lichess.org/broadcast/stockholm-summer-nights-open/round-6/e9ef0vgC/Q9M0s9jB"]
+[Date "2026.07.22"]
+[Round "6.8"]
+[White "Prabu, Dananjey"]
+[Black "Lavendelis, Egons"]
+[Result "1-0"]
+[WhiteElo "2129"]
+[BlackElo "2278"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Qc7 6.h3 b6 7.a4 Bg7 8.O-O e5 9.Be3 f5 10.exf5 gxf5 11.Re1 Ne7 12.Na3 O-O 13.Nc4 Be6 14.Ncxe5 Bxe5 15.Bh6 Bxb2 16.Bxf8 Bxa1 17.Bxe7 Qxe7 18.Qxa1 Re8 19.Re3 Qg7 20.Qe1 Qf6 21.Ng5 Qxg5 22.Rg3 Qxg3 23.fxg3 Bd7 24.Qc3 Kf7 25.Kf2 Ke6 26.Qc4+ Kd6 27.Qa6 Re7 28.Qxa7 b5 29.Qb8+ Kd5 30.a5 c4 31.dxc4+ bxc4 32.a6 c5 33.Qd8 Ke6 34.Qb6+ Kd5 35.a7 Bc6 36.Qxc6+ Kxc6 37.a8=Q+ Kd6 38.Qd8+ Ke6 39.Qb6+ Kd5 40.Qf6 Re5 41.c3 Ke4 42.g4 Kf4 43.Qf7 h6 44.g3+ Ke4 45.Qxc4# 1-0

@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "18.11"]
+[White "Masnyak, Yuriy"]
+[Black "Hychkevych, Vitaliy"]
+[Result "0-1"]
+[WhiteElo "2025"]
+[BlackElo "2076"]
+[ECO "B43"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 b5 6.a3 Bb7 7.g3 Nc6 8.Nde2 Nf6 9.Bg2 Be7 10.h3 d6 11.O-O O-O 12.f4 Qc7 13.g4 h6 14.Ng3 Rfd8 15.g5 hxg5 16.fxg5 Nd7 17.g6 fxg6 18.Qg4 Nf8 19.h4 Ne5 20.Qh3 Bf6 21.h5 Qc5+ 22.Kh1 Rd7 23.hxg6 Nexg6 24.Nh5 Bg5 25.Bxg5 Qxg5 26.Rf3 Nh4 27.Rxf8+ Rxf8 28.Qxe6+ Rdf7 29.Nf4 Qxf4 30.Rf1 Qg3 31.Rg1 Bc8 0-1

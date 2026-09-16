@@ -1,0 +1,14 @@
+[Event "Round 8: Georgiadis, Anastasios - Krawczyk, Wojciech"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-8/JY4vi7xh/jlAbixSB"]
+[Date "2026.07.24"]
+[Round "8.17"]
+[White "Georgiadis, Anastasios"]
+[Black "Krawczyk, Wojciech"]
+[Result "1/2-1/2"]
+[WhiteElo "2339"]
+[BlackElo "2169"]
+[ECO "A55"]
+[Variant "Standard"]
+[Opening "Old Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.e4 c6 6.Be2 Qc7 7.O-O Be7 8.Qc2 O-O 9.h3 Re8 10.Be3 Nf8 11.Rfd1 Ng6 12.b4 Bd7 13.dxe5 dxe5 14.c5 Bf8 15.Bc4 Be6 16.Bxe6 Rxe6 17.a3 h6 18.Rd3 Ree8 19.Rad1 Rad8 20.Rxd8 Rxd8 21.Nd2 Be7 22.Nc4 Rxd1+ 23.Qxd1 Nd7 24.a4 Kf8 25.Qb3 Kg8 26.Ne2 a5 27.Nc1 Ngf8 28.Nd3 axb4 29.Qxb4 Ne6 30.Na5 Nd8 31.Nb3 Ne6 32.Qc3 Qb8 33.Qa5 Bd8 34.Qd2 Qa7 35.a5 Qa6 36.Nb4 Qc4 37.Qxd7 Qxb4 38.Qe8+ Nf8 39.Qxd8 Qxb3 40.Kh2 Qb5 41.g4 f6 42.Kg3 Qf1 43.f3 Qc4 44.Qc8 Qd3 45.Kf2 Qb3 46.h4 Qf7 47.g5 hxg5 48.hxg5 Qd7 49.Qa8 Kf7 50.gxf6 gxf6 51.Qa7 Kg7 52.a6 bxa6 53.Qxa6 Ne6 54.Qa2 Kg6 55.Qb3 Ng7 56.Qb1 Qh3 57.Qb8 Qh2+ 58.Kf1 Qh1+ 59.Kf2 Qa1 60.Qc8 Qa2+ 61.Kf1 Qe6 62.Qh8 Qd7 63.Qh6+ Kf7 64.Qh7 Qd1+ 65.Kf2 Qc2+ 66.Kf1 Qd1+ 1/2-1/2

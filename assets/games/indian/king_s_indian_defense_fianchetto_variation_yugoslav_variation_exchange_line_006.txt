@@ -1,0 +1,14 @@
+[Event "Round 7: Baenziger, Fabian - Shukhman, Anna"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-7/XL83IlpS/39UvTy1y"]
+[Date "2026.07.20"]
+[Round "7.5"]
+[White "Baenziger, Fabian"]
+[Black "Shukhman, Anna"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2443"]
+[ECO "E65"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Exchange Line"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 c5 7.O-O Nc6 8.dxc5 dxc5 9.Bf4 Nh5 10.Be3 b6 11.Qc1 Bb7 12.Rd1 Qe8 13.Bh6 Rd8 14.Rxd8 Qxd8 15.Qe3 Nd4 16.Rd1 Bxh6 17.Qxh6 Bxf3 18.Bxf3 Nf6 19.Kg2 Qc8 20.Qe3 Re8 21.Nb5 Nxb5 22.cxb5 Rd8 23.Rxd8+ Qxd8 24.h3 Qd6 25.Qa3 Qc7 26.Bc6 a5 27.Qd3 Qd6 28.Qe3 e5 29.f4 e4 30.Qc3 Qd1 31.Qxf6 Qxe2+ 32.Kg1 Qe3+ 33.Kg2 Qf3+ 34.Kh2 Qf2+ 35.Kh1 Qxg3 36.Be8 Qxh3+ 37.Kg1 Qe3+ 38.Kg2 Qd2+ 39.Kg3 Qd3+ 40.Kh4 Qd5 41.Qe5 Qd8+ 42.Kh3 Qd3+ 43.Kh4 Qd8+ 44.Kh3 Qd3+ 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 7: Bora, Safal - Molner, Mackenzie"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-7/bCaGsiCi/pzL68FYi"]
+[Date "2026.07.18"]
+[Round "7.3"]
+[White "Bora, Safal"]
+[Black "Molner, Mackenzie"]
+[Result "1-0"]
+[WhiteElo "2496"]
+[BlackElo "2458"]
+[ECO "A50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Queen's Indian Accelerated"]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Qc2 d5 5.cxd5 Nxd5 6.Nf3 e6 7.e4 Nxc3 8.bxc3 Be7 9.Bb5+ c6 10.Bd3 c5 11.O-O cxd4 12.cxd4 O-O 13.Bb2 Nd7 14.Rad1 Rc8 15.Qe2 Qc7 16.d5 exd5 17.exd5 Bf6 18.d6 Qc5 19.Bxf6 Nxf6 20.Ne5 Rcd8 21.d7 Bd5 22.Bf5 g6 23.Bh3 Ne4 24.Rc1 Qd4 25.Nf3 Qg7 26.Rfd1 Ba8 27.Nd4 Nc5 28.Nb3 f5 29.Nxc5 bxc5 30.Qe6+ Qf7 31.Qd6 c4 32.g3 Qf6 33.Rxc4 Bf3 34.Rdd4 Qxd6 35.Rxd6 Kf7 36.Bg2 Ke7 37.Rcd4 Bxg2 38.Kxg2 Rf6 39.Rxf6 Kxf6 40.Kf3 Ke5 41.Rd3 g5 42.h4 gxh4 43.gxh4 h5 44.a4 a5 45.Rd1 1-0

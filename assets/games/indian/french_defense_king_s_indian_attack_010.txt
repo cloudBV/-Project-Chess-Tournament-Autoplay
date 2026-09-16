@@ -1,0 +1,15 @@
+[Event "Round 3: Xie, Jiaxiang - Pham Tran Gia Phuc"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-3/5cIjnv1B/jKBjUTUv"]
+[Date "2026.07.18"]
+[Round "3.1"]
+[White "Xie, Jiaxiang"]
+[Black "Pham Tran Gia Phuc"]
+[Result "0-1"]
+[WhiteElo "2355"]
+[BlackElo "2452"]
+[ECO "C00"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: King's Indian Attack"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nc6 4.g3 dxe4 5.dxe4 Nf6 6.Bg2 Bc5 7.Ngf3 e5 8.O-O O-O 9.Qe2 a5 10.Nc4 Qe7 11.Ne3 Nd4 12.Qe1 Nxf3+ 13.Bxf3 b6 14.Qe2 Qe6 15.c4 Bb7 16.Nd5 Nxd5 17.exd5 Qd6 18.Bg2 Rae8 19.Be3 f5 20.Bxc5 Qxc5 21.Qe3 e4 22.b3 g6 23.Rfd1 Qxe3 24.fxe3 Rd8 25.Rac1 Kf7 26.Kf2 Kf6 27.h4 Ke5 28.Bf1 h6 29.Be2 Rd6 30.Rb1 Ra8 31.a3 Rdd8 32.Rh1 Rh8 33.Rbc1 g5 34.Bh5 Raf8 35.b4 axb4 36.axb4 Ra8 37.Rc2 Rhf8 38.hxg5 hxg5 39.Be2 Rh8 40.Rcc1 f4 41.gxf4+ gxf4 42.exf4+ Kxf4 43.Rcg1 e3+ 44.Ke1 Rxh1 45.Rxh1 Ra1+ 46.Bd1 Ke4 47.Rh5 Bc8 48.c5 Bg4 0-1

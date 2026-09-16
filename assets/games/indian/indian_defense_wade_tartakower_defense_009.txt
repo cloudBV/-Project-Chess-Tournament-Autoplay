@@ -1,0 +1,14 @@
+[Event "Mester"]
+[Site "Kristiansund, Norway"]
+[Date "2026.07.11"]
+[Round "9.11"]
+[White "Digernes, Magnus"]
+[Black "Skaslien, Ingrid"]
+[Result "1/2-1/2"]
+[WhiteElo "2023"]
+[BlackElo "2015"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+
+1.d4 Nf6 2.Nf3 d6 3.g3 c6 4.Bg2 Nbd7 5.O-O e5 6.dxe5 dxe5 7.b3 Qc7 8.Bb2 Bc5 9.Nbd2 O-O 10.a3 a5 11.Nc4 e4 12.Nd4 b5 13.Ne3 Rd8 14.Ndf5 Ba6 15.Qc1 Bf8 16.Nxg7 Bxg7 17.Nf5 Ne8 18.Nxg7 Nxg7 19.Qh6 Ne5 20.Qf6 Re8 21.Bxe4 Qe7 22.Qf4 Rac8 23.g4 f6 24.Qh6 Ne6 25.Bf5 Qg7 26.Qxg7+ Kxg7 27.f4 Nd7 28.Rad1 Rc7 29.Rd6 Nef8 30.Rfd1 Bc8 31.g5 Rxe2 32.gxf6+ Kg8 33.R1d3 Kf7 34.Rg3 Ng6 35.Bg4 Rxc2 36.Be6+ Kf8 37.Bc3 Rxc3 38.Rxc3 Nxf4 39.Rcxc6 Rxc6 40.Rxc6 Nxe6 41.Rxe6 Bb7 42.Re7 Bc6 43.Rxh7 Nxf6 44.Ra7 Ne4 45.Rxa5 Nd2 46.Ra6 Be8 47.b4 1/2-1/2

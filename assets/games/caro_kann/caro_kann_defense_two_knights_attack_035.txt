@@ -1,0 +1,14 @@
+[Event "Round 4: Heimrath, Reiner - Piotraschke, Jens, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-4/BibKTVzv/bGkvrGFF"]
+[Date "2026.07.20"]
+[Round "4.11"]
+[White "Heimrath, Reiner"]
+[Black "Piotraschke, Jens, Dr."]
+[Result "1-0"]
+[WhiteElo "2134"]
+[BlackElo "2042"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Qe2 b5 9.Bb3 Qc7 10.a4 b4 11.a5 e6 12.Ne5 Bd6 13.f4 O-O 14.O-O a6 15.d3 Rb8 16.Nc4 Nd5 17.Qf2 Bb7 18.Bd2 Be7 19.f5 exf5 20.Qxf5 Bc8 21.Qh5 Be6 22.Rae1 Rb5 23.Qe2 Bh4 24.Ra1 Bf6 25.Kh1 Rd8 26.Be1 Nf4 27.Bg3 Nxe2 28.Bxc7 Rd7 29.Bb6 Rh5 30.Rf2 Nd4 31.Ba4 Nb5 32.Re2 h6 33.Rae1 Rdd5 34.Bb3 Nd4 35.Bxd4 Rxd4 36.Nd2 Bxb3 37.Nxb3 Rdd5 38.Re8+ Kh7 39.R1e4 Bxb2 40.Rxb4 Rhe5 41.Rxe5 Rxe5 42.Kg1 Bc3 43.Rc4 Bxa5 44.Rxc6 Bb4 45.Rxa6 Re2 46.Rc6 1-0

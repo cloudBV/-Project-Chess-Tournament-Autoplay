@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.30"]
+[White "Woods, Yannick"]
+[Black "Lakuntza Plazaola, Asier"]
+[Result "1/2-1/2"]
+[WhiteElo "2128"]
+[BlackElo "2279"]
+[ECO "B33"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Rb8 13.a4 bxa4 14.Ncb4 Nxb4 15.cxb4 O-O 16.Rxa4 f5 17.exf5 Bxf5 18.Bxa6 Kh8 19.O-O Be6 20.Bc4 Bxd5 21.Qxd5 Qb6 22.b3 g6 23.Ra6 Qxb4 24.Rxd6 Rbe8 25.Re6 Rxe6 26.Qxe6 Qc5 27.Qd5 Be7 28.g3 Qxd5 29.Bxd5 Bc5 30.Kg2 Kg7 31.Bf3 Bd4 32.Re1 Rc8 33.Be4 Rc7 34.b4 Ra7 35.Re2 Ra3 36.b5 Rb3 37.Bc6 g5 38.Rd2 h5 39.Be8 h4 40.Kh3 Rf3 41.Kg4 Rxf2 42.Rxf2 Bxf2 43.Kxg5 hxg3 44.hxg3 Bxg3 45.Kf5 Kf8 46.b6 Kxe8 47.b7 e4 48.b8=Q+ Bxb8 49.Kxe4 1/2-1/2

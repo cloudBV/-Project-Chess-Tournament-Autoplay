@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.12"]
+[White "Prymula, Roman"]
+[Black "Cvek, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2176"]
+[BlackElo "2449"]
+[ECO "A46"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c3 b6 4.Bg5 Bb7 5.Nbd2 h6 6.Bh4 Be7 7.e3 d5 8.Ne5 Nfd7 9.Bxe7 Qxe7 10.f4 Nxe5 11.fxe5 Nd7 12.Bb5 c6 13.Bd3 O-O 14.O-O f6 15.exf6 Rxf6 16.e4 e5 17.Qe2 exd4 18.cxd4 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Rapid Boys 10"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "7.1"]
+[White "Savchuk, Oleksandr"]
+[Black "Badescu, Matei-Andrei"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2118"]
+[ECO "C03"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 e5 4.dxe5 dxe4 5.Nxe4 Qxd1+ 6.Kxd1 Nc6 7.Bf4 Bg4+ 8.f3 O-O-O+ 9.Bd3 Bh5 10.a3 Nge7 11.g4 Bg6 12.Kc1 Nd5 13.Bg3 h5 14.h3 Nd4 15.g5 h4 16.Bh2 Be7 17.Kb1 Bxe4 18.Bxe4 Bxg5 19.Ka2 Nf4 20.Re1 Kb8 21.c3 Nde6 22.Bf5 Rd2 23.Bxe6 Nd3 24.Bxf7 Nxe1 25.f4 Be7 26.Bc4 Rh6 27.e6 b5 28.Bxb5 Rxe6 29.Bc4 Rb6 30.Ne2 Rdxb2+ 31.Ka1 Rb1+ 32.Ka2 R6b2# 0-1

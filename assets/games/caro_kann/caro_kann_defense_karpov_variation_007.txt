@@ -1,0 +1,14 @@
+[Event "Round 6: Bodmer, Marcel - Rueetschi, Urs"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-6/29dQsO5d/uS1qtA6q"]
+[Date "2026.07.16"]
+[Round "6.3"]
+[White "Bodmer, Marcel"]
+[Black "Rueetschi, Urs"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2268"]
+[ECO "B17"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Qe2 Ndf6 6.Nf3 Nxe4 7.Qxe4 Nf6 8.Qf4 e6 9.Bd3 Bd6 10.Qg5 O-O 11.Bd2 b6 12.O-O-O Bb7 13.Qh4 Re8 14.Ne5 Be7 15.Bg5 h6 16.Bxh6 gxh6 17.Qxh6 Bf8 18.Qh3 Bg7 19.Rhe1 Nd7 20.Kb1 Nxe5 21.dxe5 Qg5 22.Re4 c5 23.Re3 Bxe5 24.Rde1 Bf4 25.Qh7+ Kf8 26.Rh3 Qxg2 27.Rh4 Qg5 28.Bb5 Red8 29.h3 Be4 30.Qh5 Bg6 31.Qxg5 Bxg5 32.Rg4 Bf6 33.f4 Rd2 0-1

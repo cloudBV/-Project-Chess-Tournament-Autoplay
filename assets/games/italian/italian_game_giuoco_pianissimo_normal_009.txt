@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.05"]
+[Round "2.5"]
+[White "Fernandez, Daniel Howard"]
+[Black "Llari, Marc"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2305"]
+[ECO "C50"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.a3 d6 6.Nc3 a6 7.Be3 O-O 8.Nd5 Bxe3 9.fxe3 Nxd5 10.Bxd5 Be6 11.O-O Bxd5 12.exd5 Ne7 13.c4 c6 14.Qb3 cxd5 15.cxd5 b5 16.e4 Qb6+ 17.Kh1 a5 18.a4 Rab8 19.axb5 Qxb5 20.Qxb5 Rxb5 21.Nd2 Rxb2 22.Nc4 Rb3 23.Rfd1 Nc8 24.Nxa5 Rc3 25.Rac1 Rxc1 26.Rxc1 Nb6 27.Nb7 Rc8 28.Rb1 Rc3 29.Nxd6 Nd7 30.h3 h5 31.Rb7 Nc5 32.Rb8+ Kh7 33.Rc8 Kg6 34.Nb7 Nxe4 35.Rc7 Rc5 36.Rxc5 Nc3 1-0

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-3/jrpV8ikM/yNSk8g3n"]
+[Date "2026.07.14"]
+[Round "3.18"]
+[White "Farias, David Nuno M E"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[WhiteElo "2348"]
+[BlackElo "2414"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.c4 Nf6 5.Nc3 Nc6 6.d4 cxd4 7.Nxd4 g6 8.h3 Bg7 9.Be3 O-O 10.O-O a6 11.Bxc6 bxc6 12.c5 Qb8 13.Nb3 Be6 14.Qc2 d5 15.Bd4 dxe4 16.Nxe4 Qf4 17.Nxf6+ exf6 18.Qc3 Rfd8 19.Rad1 Bd5 20.Na5 Rd7 21.Be3 Qc7 22.b3 Rad8 23.Nc4 f5 24.Qc1 Bxc4 25.Rxd7 Rxd7 26.Qxc4 a5 27.Re1 Bf8 28.Bg5 Rd5 29.Be3 h5 30.a3 Kh7 31.b4 axb4 32.axb4 Qd7 33.g3 Bg7 34.h4 Re5 35.Qb3 Re4 36.Rd1 Qb7 37.Rb1 Qc7 38.Qd3 Re8 39.Qd6 Qc8 40.Rd1 Re6 41.Qd7 Qb8 42.Rd6 Qxb4 43.Rxe6 fxe6 44.Qxc6 e5 45.Qc7 Qg4 46.Bg5 Qd1+ 47.Kg2 Qd5+ 48.Kh2 Qd4 49.Be3 Qg4 50.Qd7 Qf3 51.c6 f4 52.gxf4 exf4 53.Bd4 1-0

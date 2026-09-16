@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.12"]
+[Round "7.22"]
+[White "Odor, Istvan"]
+[Black "Saar, Patrik"]
+[Result "0-1"]
+[WhiteElo "2024"]
+[BlackElo "2069"]
+[ECO "B12"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e5 4.dxe5 Bc5 5.Nc3 Qb6 6.Na4 Bf2+ 7.Ke2 Qd4 8.Qxd4 Bxd4 9.f4 dxe4 10.Be3 Bxe3 11.Kxe3 Ne7 12.c4 Bf5 13.Nc5 Nd7 14.Nxb7 O-O 15.Nd6 f6 16.h3 fxe5 17.g4 exf4+ 18.Kxf4 Bg6+ 19.Ke3 Rad8 20.b4 Rf6 21.Rd1 Nb6 22.c5 Nbd5+ 23.Kd4 Nxb4 24.Bc4+ Kh8 25.Ne2 Nc8 26.g5 Rf5 27.Kc3 Nxd6 28.Rxd6 Rb8 29.Nd4 Rxg5 30.Nxc6 Rg3+ 31.Kd4 Nc2+ 32.Ke5 Rg5+ 33.Ke6 Re8+ 34.Ne7 Rxc5 35.Kd7 Rb8 36.Nxg6+ hxg6 37.Bb3 Rb7+ 38.Ke6 e3 39.Rd8+ Kh7 40.Kd6 Rbc7 41.h4 Rc8 42.Rxc8 Rxc8 43.Rh2 Nd4 44.Kd5 e2 45.Kxd4 0-1

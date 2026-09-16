@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-2/CWGtkOG7/Qaf5iGzn"]
+[Date "2026.07.01"]
+[Round "2.4"]
+[White "Motyl, Tomasz"]
+[Black "Haba, Petr"]
+[Result "0-1"]
+[WhiteElo "2024"]
+[BlackElo "2389"]
+[ECO "B13"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.h3 g6 7.Nf3 Bf5 8.Be2 h6 9.O-O g5 10.Re1 e6 11.b4 Nf6 12.Qa4 Nd7 13.Be3 Bg7 14.Nbd2 O-O 15.Rac1 Nb6 16.Qb3 a5 17.a4 axb4 18.cxb4 Qd6 19.a5 Nd7 20.Bb5 Rfc8 21.Rc3 Na7 22.Bxd7 Qxd7 23.Rec1 Rxc3 24.Rxc3 Nb5 25.Rc5 Bf8 26.Ne5 Qe8 27.Rc1 Rc8 28.Ndf3 Rxc1+ 29.Bxc1 f6 30.Ng4 Kg7 31.Bd2 Qc6 32.Qe3 Qc2 33.Ngh2 Bd6 34.Nf1 Qb1 35.Ne1 Bf4 36.Qe2 Nxd4 37.Qh5 Bg6 0-1

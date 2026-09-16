@@ -1,0 +1,15 @@
+[Event "Quantbox Chennai Grandmasters 2026"]
+[Site "The Westin Chennai Velachery, India"]
+[Date "2026.07.19"]
+[Round "4.2"]
+[White "Andreikin, Dmitry"]
+[Black "Nihal Sarin"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2717"]
+[ECO "E71"]
+[TimeControl "90minutes+30secs increment from move no.1"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 Nc6 7.d5 Ne5 8.f4 Ned7 9.Bd3 e6 10.Nf3 exd5 11.cxd5 Re8 12.O-O c6 13.dxc6 bxc6 14.Qd2 Bb7 15.Rad1 c5 16.Ng5 Qe7 17.Bc4 d5 18.Nxd5 Bxd5 19.Bxd5 Nxd5 20.Qxd5 Nf6 21.Qxc5 Nxe4 22.Qxe7 Rxe7 23.Rfe1 Nxg5 24.fxg5 Bxb2 25.Bf2 Be5 26.g3 Rae8 27.Kg2 a6 28.Rd5 Re6 29.Re3 f6 30.gxf6 Bxf6 31.Rxe6 Rxe6 32.Kf3 Kf7 33.Rd7+ Re7 34.Rd6 Re6 35.Rd7+ Re7 36.Rd6 Re6 37.Rd7+ 1/2-1/2

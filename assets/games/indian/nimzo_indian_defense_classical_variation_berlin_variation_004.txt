@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "6.8"]
+[White "Lakuntza Plazaola, Asier"]
+[Black "Hagner, Bennet"]
+[Result "0-1"]
+[WhiteElo "2279"]
+[BlackElo "2451"]
+[ECO "E38"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Bxc5 6.Nf3 b6 7.Bg5 Bb7 8.e3 Be7 9.h3 d6 10.Be2 Nbd7 11.O-O a6 12.Rfd1 Qc7 13.Rac1 h6 14.Bh4 Rc8 15.Bg3 O-O 16.Qd2 Ne5 17.Nxe5 dxe5 18.a3 Rfd8 19.Qc2 a5 20.Nb5 Qc5 21.b4 axb4 22.axb4 Rxd1+ 23.Bxd1 Qxb4 24.Bxe5 Ba6 25.Nc7 Bb7 26.Nb5 Nd7 27.Bg3 Qc5 28.Be2 Ne5 29.Bf1 h5 30.Qb3 h4 31.Bh2 Nc6 32.Qa2 Rd8 33.Nc3 Qa5 34.Qb3 Rd7 35.Rb1 Nb4 36.Rb2 Bc6 37.Nb5 Bc5 38.Be5 Qa1 39.Bd4 Qa8 40.Bc3 Nd3 41.Rd2 Be4 42.Qd1 Qd8 43.Qa1 Bf8 44.Qd1 Bg6 45.Bxd3 Rxd3 46.Bd4 Rxd2 47.Qxd2 e5 48.Bc3 Qxd2 49.Bxd2 Bd3 50.Na7 Bxc4 51.Nc6 Bd6 52.f4 exf4 53.exf4 Bc5+ 54.Kh2 f6 55.Be1 Bb5 56.Nb4 Kf7 57.g3 hxg3+ 58.Kxg3 Ke6 59.Kf3 Kf5 60.Bd2 Be8 61.Na6 Bd6 62.Nb4 Bh5+ 63.Kg3 Ke4 64.Nc6 g5 0-1

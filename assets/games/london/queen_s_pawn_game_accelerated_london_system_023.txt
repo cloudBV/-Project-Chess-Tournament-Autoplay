@@ -1,0 +1,14 @@
+[Event "Round 11: Herrera, Juan Sebastian - Ruiz Aguilar, Pablo Alexander"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-11/1k0zGiFk/E4Dg9w1q"]
+[Date "2026.07.12"]
+[Round "11.5"]
+[White "Herrera, Juan Sebastian"]
+[Black "Ruiz Aguilar, Pablo Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2202"]
+[ECO "D00"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.c3 Nc6 5.Nd2 Bf5 6.Ngf3 e6 7.Be2 Be7 8.h3 h6 9.O-O O-O 10.dxc5 Bxc5 11.b4 Bd6 12.Bxd6 Qxd6 13.a3 Rad8 14.Qb3 Qb8 15.a4 Ne4 16.a5 Nxd2 17.Nxd2 Ne5 18.a6 b6 19.Rfd1 Rc8 20.f4 Nd7 21.Nf3 Nf6 22.Nd4 Be4 23.b5 Rc5 24.Nc6 Qc7 25.Rd4 Rc8 26.Rad1 Ne8 27.Qb4 Nd6 28.g4 Kh8 29.c4 Kg8 1/2-1/2

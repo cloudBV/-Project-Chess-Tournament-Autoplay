@@ -1,0 +1,15 @@
+[Event "Round 3: Magen, Ofek - Golan, Ori"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-3/nUTnwfb6/ek4flc43"]
+[Date "2026.07.15"]
+[Round "3.9"]
+[White "Magen, Ofek"]
+[Black "Golan, Ori"]
+[Result "1-0"]
+[WhiteElo "2115"]
+[BlackElo "2107"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 Re8 6.a3 Bf8 7.g3 d5 8.c5 e5 9.Bg2 exd4 10.exd4 c6 11.O-O Bf5 12.h3 Ne4 13.g4 Bg6 14.Nxe4 Bxe4 15.f3 Bg6 16.Ng3 Be7 17.f4 Bh4 18.f5 Bxg3 19.fxg6 fxg6 20.Qf3 Qc7 21.Bd2 Nd7 22.g5 Nf8 23.Kh1 Ne6 24.Qg4 Qb8 25.Rf3 Bc7 26.h4 Qc8 27.Bh3 Qd8 28.Raf1 Nf8 29.h5 Re4 30.Rxf8+ Qxf8 31.Rxf8+ Rxf8 32.Qd7 Bg3 33.h6 1-0

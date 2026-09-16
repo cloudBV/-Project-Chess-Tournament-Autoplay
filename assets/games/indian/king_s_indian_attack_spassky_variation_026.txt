@@ -1,0 +1,14 @@
+[Event "Round 5: Habibi, Ali - Tureshbayev, Anuar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/ZpP5t3ds"]
+[Date "2026.07.19"]
+[Round "5.11"]
+[White "Habibi, Ali"]
+[Black "Tureshbayev, Anuar"]
+[Result "1-0"]
+[WhiteElo "2116"]
+[BlackElo "2328"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.d3 c5 6.e4 d6 7.Nfd2 Nc6 8.f4 Be7 9.Nc3 a6 10.a3 d5 11.f5 exf5 12.Nxd5 fxe4 13.dxe4 O-O 14.c4 Nd4 15.b3 Nxd5 16.exd5 Bf6 17.Rb1 Bc8 18.Ne4 Be5 19.Be3 Bf5 20.Kh1 Bg6 21.Rc1 bxc4 22.bxc4 Qa5 23.Qd2 Qxa3 24.Ra1 Qb3 25.Rac1 Bxe4 26.Bxe4 Rab8 27.Bf4 Bxf4 28.Qxf4 Qb2 29.Rb1 Qe2 30.Rxb8 Qxf1+ 31.Qxf1 Rxb8 32.Kg2 a5 33.Qa1 Ra8 34.Qa3 f5 35.Bf3 a4 36.Qxc5 Nc2 37.d6 Re8 38.Bd5+ Kh8 39.d7 Ne3+ 40.Qxe3 Rd8 41.Qe8+ 1-0

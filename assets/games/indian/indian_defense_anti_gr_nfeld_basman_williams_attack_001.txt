@@ -1,0 +1,15 @@
+[Event "Round 5: Bukharkov, Stepan - Segarra Victorio, Israel"]
+[Site "https://lichess.org/broadcast/v-magistral-internacional-ciudad-de-sant-joan-de-alacant/round-5/DYPobDqN/xc9axQVj"]
+[Date "2026.07.01"]
+[Round "5.2"]
+[White "Bukharkov, Stepan"]
+[Black "Segarra Victorio, Israel"]
+[Result "1-0"]
+[WhiteElo "2189"]
+[BlackElo "2164"]
+[ECO "E60"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Grünfeld, Basman-Williams Attack"]
+
+1.d4 Nf6 2.c4 g6 3.h4 h5 4.Nc3 d5 5.Bg5 Ne4 6.cxd5 Nxc3 7.bxc3 Qxd5 8.e3 Bg7 9.Nf3 Qa5 10.Qb3 Be6 11.Bc4 Bxc4 12.Qxc4 Nd7 13.O-O Rc8 14.Rab1 Nb6 15.Qd3 Qxa2 16.Qe4 O-O 17.Qxb7 Qe6 18.Qxa7 Nc4 19.Qc5 Nd6 20.Qc6 Rfe8 21.Bf4 Qg4 22.c4 Nf5 23.Rb7 Nxd4 24.Nxd4 Bxd4 25.Rxc7 Bf6 26.f3 Qf5 27.Bg3 Red8 28.e4 Rxc7 29.Qxc7 Qc8 30.Qxc8 Bd4+ 31.Bf2 Bxf2+ 32.Kxf2 Rxc8 33.Rc1 e5 34.g4 hxg4 35.fxg4 Kf8 36.c5 Rc6 37.Ke3 Ke7 38.Rc2 Rf6 39.c6 Kd8 40.c7+ Kc8 41.Rf2 Rc6 42.Rxf7 Rc3+ 43.Kd2 Rg3 44.h5 gxh5 45.gxh5 Rh3 46.Rh7 Kb7 47.h6 Kc8 48.Ke2 Kb7 49.Kf2 Kc8 50.Kg2 Rh4 51.Kg3 Rh1 52.Kg4 Kb7 53.Kf5 Rh5+ 54.Kg6 Rh1 55.Rg7 Rg1+ 56.Kf6 Rf1+ 57.Ke6 Rh1 58.c8=Q+ Kxc8 59.h7 Rh6+ 60.Kd5 1-0

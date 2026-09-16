@@ -1,0 +1,15 @@
+[Event "Round 4: Banerjee, Supratit - Willow, Jonah B"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-4/6QpH3zvI/HOVK9Plm"]
+[Date "2026.07.17"]
+[Round "4.5"]
+[White "Banerjee, Supratit"]
+[Black "Willow, Jonah B"]
+[Result "0-1"]
+[WhiteElo "2347"]
+[BlackElo "2450"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 e6 7.b3 g6 8.Bb2 Bg7 9.c4 O-O 10.d4 cxd4 11.Nxd4 d5 12.cxd5 exd5 13.e5 Ne4 14.e6 Qb6 15.Nf5 gxf5 16.Bxg7 Kxg7 17.exd7 Rad8 18.Nd2 Rxd7 19.Nf3 Qf6 20.Rac1 d4 21.Qd3 Rfd8 22.Rfe1 Rd5 23.b4 Qa6 24.Qb3 d3 25.Nd2 Nxd2 26.Qb2+ Qf6 27.Qxd2 f4 28.Re4 Rd4 29.Ree1 R8d5 30.Rc7 Re5 31.Rcc1 Rd6 32.h3 Rxe1+ 33.Rxe1 Qd4 34.Rd1 h6 35.Kh2 b6 36.a3 a6 37.Kh1 Re6 38.Kh2 Rd6 39.Kh1 b5 40.Kh2 Kg8 41.Kh1 Re6 42.Kh2 Re2 43.Qxd3 Qxf2 44.Qd8+ Kg7 45.Qd4+ Qxd4 46.Rxd4 f3 47.Rg4+ Kf8 48.Rf4 fxg2 49.Rh4 Kg7 50.Rg4+ Kf6 51.Rh4 Kg5 52.Rg4+ Kf5 53.Rh4 Kg5 54.Rg4+ Kh5 55.Rf4 Kg6 56.Rg4+ Kh5 57.Rf4 Re3 58.Rxf7 Rxh3+ 59.Kxg2 Rxa3 60.Rf4 Kg5 61.Rd4 h5 62.Kf2 h4 63.Kg2 h3+ 64.Kh2 Kf5 65.Rh4 Ke5 66.Rg4 Kd5 67.Rh4 Re3 68.Rg4 Re4 69.Rg6 Rh4 70.Rxa6 Kc4 71.Ra1 Kxb4 72.Rb1+ Kc5 73.Kg3 Rh8 74.Rc1+ Kb6 75.Kh2 b4 76.Re1 Kb5 77.Re3 Ka4 0-1

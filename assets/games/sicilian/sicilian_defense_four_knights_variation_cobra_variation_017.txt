@@ -1,0 +1,15 @@
+[Event "Round 2: Filgueiras, Nathan Felipe - Ojas Kulkarni"]
+[Site "https://lichess.org/broadcast/50e-open-internacional-descacs-vila-de-sitges/round-2/cGYpNscz/9vlPazcU"]
+[Date "2026.07.23"]
+[Round "2.8"]
+[White "Filgueiras, Nathan Felipe"]
+[Black "Ojas Kulkarni"]
+[Result "1-0"]
+[WhiteElo "2419"]
+[BlackElo "2248"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 Bc5 7.Bf4 O-O 8.Bc7 Qe7 9.Bd6 Bxd6 10.Qxd6 Qd8 11.O-O-O a6 12.Nd4 Ne7 13.h4 b5 14.h5 Ne8 15.Qh2 h6 16.g4 Bb7 17.f3 Qb8 18.Qxb8 Rxb8 19.Nb3 d6 20.Rg1 f6 21.a3 Nc6 22.f4 Kf7 23.Bh3 Rh8 24.Rd2 Ke7 25.Bf1 Kf7 26.Be2 Rd8 27.a4 b4 28.Nd1 Nc7 29.Ne3 Ne7 30.Bf3 Bc6 31.Na5 Rd7 32.Rgd1 Rhd8 33.Nec4 Ne8 34.Nxc6 Nxc6 35.e5 d5 36.exf6 gxf6 37.Nb6 Rb7 38.Nxd5 exd5 39.Bxd5+ Rxd5 40.Rxd5 Ke6 41.R5d3 Rc7 42.b3 Ke7 43.Kb2 Ng7 44.Re1+ Kf7 45.Rd6 Ne8 46.Rd5 Ng7 47.Re4 Ne6 48.Rd6 Nc5 49.Rc4 Ke7 50.Rd5 Ne6 51.Rd3 Ned8 52.c3 bxc3+ 53.Rdxc3 a5 54.Rc5 Kd6 55.Rf5 Ke7 56.g5 fxg5 57.fxg5 hxg5 58.Rxg5 Ne6 59.Rg6 Rc8 60.h6 Kf7 61.Rg4 Kf6 62.h7 1-0

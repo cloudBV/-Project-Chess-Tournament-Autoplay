@@ -1,0 +1,14 @@
+[Event "Round 5: Haimovich, Tal - Yasaswi Krishna Bommi"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/6PckrjUs"]
+[Date "2026.07.17"]
+[Round "5.13"]
+[White "Haimovich, Tal"]
+[Black "Yasaswi Krishna Bommi"]
+[Result "0-1"]
+[WhiteElo "2310"]
+[BlackElo "2085"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense, Closed Line"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nbd7 8.d5 Nc5 9.Qc2 a5 10.Ne1 Ne8 11.Nd3 b6 12.Be3 f5 13.f3 f4 14.Bf2 h5 15.a3 Nxd3 16.Qxd3 g5 17.b4 g4 18.Rfc1 Qg5 19.Qd2 Bh6 20.Be1 Rf7 21.c5 bxc5 22.bxc5 Rg7 23.Nb5 Qg6 24.cxd6 cxd6 25.Ra2 gxf3 26.Bxf3 Bg4 27.Qd3 Bg5 28.Kf1 Bd8 29.Bf2 Bxf3 30.Qxf3 Nf6 31.Re2 Ng4 32.Bg1 Bb6 33.Rc6 Bc5 34.Rc2 Ne3+ 35.Bxe3 fxe3 36.R2xc5 Rf8 37.Qxf8+ Kxf8 38.Rc8+ Ke7 39.R5c7+ Kf6 40.Rf8+ Kg5 41.Rxg7 Qxg7 42.Rf3 Qb7 43.a4 Qb6 44.Ke2 Qc5 45.Rxe3 Qc4+ 46.Kf2 Qxa4 47.Nxd6 Qc2+ 48.Kf3 a4 49.h4+ Kf6 50.Nf5 Qc1 51.Rd3 Qf4+ 52.Ke2 Qxe4+ 53.Ne3 Ke7 54.g3 Kd8 55.Ra3 Qb4 56.Nc2 Qc4+ 57.Kd2 e4 58.Kc1 Kd7 59.Kb2 Qb5+ 60.Ka1 Qxd5 61.Rxa4 Qb3 62.Ra7+ Kc8 63.Ra2 e3 64.Rb2 Qc3 65.Ka2 e2 66.Kb1 e1=Q+ 67.Nxe1 Qxe1+ 68.Ka2 Qxg3 69.Rb4 Kd7 70.Kb2 Ke6 71.Kc2 Kf5 72.Rc4 Qe3 73.Ra4 Qe2+ 74.Kc3 Qe1+ 75.Kc2 Qg3 76.Rc4 Qe3 77.Ra4 Qc5+ 78.Kd2 Qb5 79.Rd4 Ke5 80.Kc3 Qa5+ 81.Rb4 Kf5 82.Kb3 Qxb4+ 83.Kxb4 Kg4 84.Kc4 Kxh4 85.Kd3 Kg3 0-1

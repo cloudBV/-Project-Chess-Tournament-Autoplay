@@ -1,0 +1,14 @@
+[Event "Round 4: Klings, Peter - Angelovski, Emanuel"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-4/haUh3hFS/dWU3cmYk"]
+[Date "2026.07.14"]
+[Round "4.5"]
+[White "Klings, Peter"]
+[Black "Angelovski, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2057"]
+[BlackElo "2181"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 c5 6.Nbd2 Nc6 7.e4 O-O 8.Re1 b5 9.e5 Nd7 10.Nf1 Bb7 11.h4 b4 12.Bf4 a5 13.Ne3 Nd4 14.c3 Nxf3+ 15.Bxf3 a4 16.c4 Nb6 17.Qe2 f6 18.exf6 Bxf6 19.Ng4 Bxh4 20.Qxe6+ Kh8 21.Ne5 Qf6 22.Ng4 Qd8 23.Ne5 Qf6 24.Ng4 Qd8 25.Ne5 Qf6 26.Ng4 Qd8 1/2-1/2

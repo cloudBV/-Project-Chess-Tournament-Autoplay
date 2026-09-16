@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-6/7dL2aEPn/oi53TQav"]
+[Date "2026.07.02"]
+[Round "6.1"]
+[White "Proudian, Armen"]
+[Black "Fier, Alexandr"]
+[Result "0-1"]
+[WhiteElo "2401"]
+[BlackElo "2557"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 h5 8.Nxc6 Qxc6 9.Bd3 b5 10.O-O Bb7 11.Rfe1 Nf6 12.a3 Ng4 13.Bf4 Bc5 14.Bg3 Rh6 15.Nd5 d6 16.c4 bxc4 17.Bxc4 Kf8 18.b4 Ba7 19.Rac1 exd5 20.Bxd5 Qd7 21.e5 h4 22.Bf4 Bxf2+ 23.Kh1 Bxd5 24.Qxd5 Re8 25.Re2 Rg6 26.h3 Bg3 27.Bxg3 hxg3 28.hxg4 Qxg4 29.Rec2 Qh4+ 30.Kg1 Qh2+ 31.Kf1 Rf6+ 32.Ke2 Rxe5+ 0-1

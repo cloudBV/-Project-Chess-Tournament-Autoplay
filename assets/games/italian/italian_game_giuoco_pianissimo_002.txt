@@ -1,0 +1,14 @@
+[Event "Round 5: Gkavardinas, Antonios - Theodoridis, Charalampos"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/Ktm5rt24"]
+[Date "2026.07.08"]
+[Round "5.9"]
+[White "Gkavardinas, Antonios"]
+[Black "Theodoridis, Charalampos"]
+[Result "1-0"]
+[WhiteElo "2304"]
+[BlackElo "2132"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.Nc3 Na5 6.Na4 Nxc4 7.dxc4 Bg4 8.Nxc5 dxc5 9.Qd5 Qxd5 10.cxd5 Bxf3 11.gxf3 f5 12.Rg1 Kf7 13.Rg5 Ne7 14.h4 h6 15.Rg1 Nc8 16.Bd2 Nd6 17.Bc3 g6 18.f4 Nxe4 19.fxe5 Nxc3 20.bxc3 g5 21.O-O-O Rag8 22.Rh1 gxh4 23.Rxh4 Rg4 24.Rdh1 Kg6 25.Kd2 Rxh4 26.Rxh4 Kg5 27.Ra4 h5 28.Ke2 h4 29.Kf1 Rd8 30.c4 c6 31.e6 cxd5 32.cxd5 h3 33.c4 Kf6 34.Ra3 b5 35.Rxh3 bxc4 36.Rh6+ Ke7 37.Rh7+ Kd6 38.Ke2 a5 39.Kd2 a4 40.Kc3 Ke5 41.Rd7 Re8 42.e7 f4 43.d6 Ke6 44.Rd8 Kf7 45.f3 1-0

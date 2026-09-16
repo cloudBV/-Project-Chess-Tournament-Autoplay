@@ -1,0 +1,15 @@
+[Event "Round 7: Ljung, Harald - Nilsson, Anders 1976"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-7/qIT8xtMr/thPALPdD"]
+[Date "2026.07.01"]
+[Round "7.2"]
+[White "Ljung, Harald"]
+[Black "Nilsson, Anders 1976"]
+[Result "1/2-1/2"]
+[WhiteElo "2121"]
+[BlackElo "2163"]
+[ECO "A46"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 c5 5.O-O Nc6 6.b3 cxd4 7.Nxd4 Bc5 8.Bb2 O-O 9.c4 dxc4 10.Nxc6 bxc6 11.Qxd8 Rxd8 12.Bxc6 Rb8 13.Be5 Rb6 14.Bc7 Rxc6 15.Bxd8 Bd4 16.Na3 Bxa1 17.Rxa1 c3 18.Bxf6 gxf6 19.Rc1 Ba6 20.Rc2 Rd6 21.Rxc3 Bxe2 22.Kg2 Ra6 23.b4 f5 24.f3 Rd6 25.Rc2 Bd1 26.Rf2 Ra6 27.Nc4 Rc6 28.Ne3 Ba4 29.Rd2 Rc1 30.Kf2 a6 31.h3 Kg7 1/2-1/2

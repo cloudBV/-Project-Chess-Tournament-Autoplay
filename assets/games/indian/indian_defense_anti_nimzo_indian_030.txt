@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "10.8"]
+[White "Rekuc, Patryk"]
+[Black "Nagly, Wojciech"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2034"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.e3 Be7 5.b3 c5 6.cxd5 exd5 7.Bb5+ Bd7 8.Bxd7+ Qxd7 9.O-O Nc6 10.Bb2 Ne4 11.Nbd2 Bf6 12.Qc2 Nxd2 13.Qxd2 cxd4 14.Nxd4 Ne5 15.Rac1 O-O 16.h3 a5 17.Rfd1 a4 18.Ne2 axb3 19.axb3 Qb5 20.Nd4 Qb6 21.Ra1 Nd7 22.b4 Ne5 23.Rxa8 Rxa8 24.Ra1 Rc8 25.Rc1 Ra8 26.Ra1 Rc8 27.Rc1 Nc4 28.Qc3 Ra8 29.Qb3 h6 30.Bc3 Ra3 31.Qb1 Qa6 32.Be1 Bxd4 33.exd4 Qe6 34.Qc2 b5 35.f3 Qe3+ 36.Bf2 Qb3 37.Qf5 Qxb4 38.Re1 Ra8 39.Qxd5 Rc8 40.Qd7 Rf8 41.d5 Qd2 42.Qxb5 Nd6 43.Qc5 Nf5 44.Rc1 Rd8 45.Qc7 Qxd5 46.Re1 Rf8 47.Qc2 Nd6 48.Rd1 Qe6 49.Qc6 Nf5 50.Qb7 Re8 51.Re1 Qc8 52.Qb1 Rxe1+ 53.Qxe1 Nd6 54.Qd2 Ne8 55.Bd4 Qd7 56.Qe3 Nd6 57.Bc3 Nf5 58.Qe5 f6 59.Qb8+ Kh7 60.Qb1 Kg8 61.Qc2 Qa7+ 62.Kh2 Qc7+ 63.Kh1 Ng3+ 64.Kg1 Qc5+ 65.Kh2 Nf1+ 66.Kh1 Ng3+ 67.Kh2 Nh5 68.Qb3+ Kh8 69.Qb8+ Kh7 70.Be1 Qe5+ 71.Qxe5 fxe5 72.Bc3 Kg6 73.Bxe5 Kf7 74.g4 Nf6 75.Bxf6 Kxf6 76.f4 h5 77.Kg3 hxg4 78.hxg4 Kg6 79.Kf3 Kf6 80.Ke4 g6 81.Kd5 Kg7 82.Ke6 Kh7 83.Kf7 Kh6 84.g5+ Kh5 85.Kf6 1-0

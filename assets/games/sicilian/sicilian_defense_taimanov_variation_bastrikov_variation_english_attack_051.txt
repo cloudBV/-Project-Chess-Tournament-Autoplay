@@ -1,0 +1,14 @@
+[Event "Round 7: Steger, Lukas Daniel - Hampel, Felix"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-7/6rGF8RoD/MPImZyBk"]
+[Date "2026.07.23"]
+[Round "6.10"]
+[White "Steger, Lukas Daniel"]
+[Black "Hampel, Felix"]
+[Result "1/2-1/2"]
+[WhiteElo "2196"]
+[BlackElo "2349"]
+[ECO "B48"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.a3 b5 8.Nxc6 Qxc6 9.h4 Nf6 10.h5 Nxe4 11.Nxe4 Qxe4 12.Be2 Rb8 13.Qd2 b4 14.axb4 Bxb4 15.c3 Be7 16.O-O Bb7 17.Bf3 Qc4 18.Bf4 d6 19.Bxd6 Bxd6 20.Qxd6 Rd8 21.Qg3 Bxf3 22.Qxf3 O-O 23.h6 gxh6 24.Ra5 f6 25.Qe3 e5 26.Qxh6 Qe2 27.Rc5 Rd7 28.Rc6 Rdf7 29.Qe3 Qxe3 30.fxe3 a5 31.Ra6 Rb8 32.Rfxf6 Rxf6 33.Rxf6 Rxb2 34.Ra6 Re2 35.Rxa5 Rxe3 36.Kf2 Rxc3 37.Rxe5 Rc2+ 38.Re2 Rxe2+ 39.Kxe2 Kg7 40.Kf3 Kg6 41.g4 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Ioannidis, Evgenios - Demchenko, Anton"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/xruBzNkd"]
+[Date "2026.07.21"]
+[Round "8.2"]
+[White "Ioannidis, Evgenios"]
+[Black "Demchenko, Anton"]
+[Result "1-0"]
+[WhiteElo "2473"]
+[BlackElo "2588"]
+[ECO "E69"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Main Line"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.O-O e5 8.e4 c6 9.h3 a5 10.Re1 Re8 11.Qc2 exd4 12.Nxd4 Nb6 13.b3 a4 14.Bf4 axb3 15.axb3 Rxa1 16.Rxa1 Nh5 17.Be3 Nd7 18.Nde2 Nc5 19.b4 Nd7 20.Rd1 Qc7 21.Na4 Bf8 22.g4 Ng7 23.Ng3 Qd8 24.Qd2 Qe7 25.Bf4 Ne5 26.Nb6 f6 27.Nxc8 Rxc8 28.Qc3 c5 29.b5 Qf7 30.Rc1 Ra8 31.Qb3 h5 32.gxh5 g5 33.Bxe5 fxe5 34.Bf3 Ne6 35.Nf5 Qf6 36.Bg4 Kh8 37.Qc3 Nd4 38.Ra1 Qd8 39.Ra3 Rxa3 40.Qxa3 d5 41.exd5 e4 42.Qe3 Nxf5 43.Bxf5 Qf6 44.Qxe4 b6 45.Qe6 Kg7 46.Kg2 Be7 47.Qxf6+ Kxf6 48.Be6 Bd6 49.Kf3 Bf8 50.Ke4 Bd6 51.Bg4 Bf8 52.h6 1-0

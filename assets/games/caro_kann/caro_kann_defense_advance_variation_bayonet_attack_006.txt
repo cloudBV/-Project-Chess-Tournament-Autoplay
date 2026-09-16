@@ -1,0 +1,15 @@
+[Event "Round 2: Safarov, Deniel - Pantsulaia, Levan"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-2/WPfPRf0X/sJwDNbbG"]
+[Date "2026.07.14"]
+[Round "2.1"]
+[White "Safarov, Deniel"]
+[Black "Pantsulaia, Levan"]
+[Result "1/2-1/2"]
+[WhiteElo "2296"]
+[BlackElo "2493"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4 Bd7 5.Be3 h5 6.gxh5 Nh6 7.Nc3 c5 8.dxc5 e6 9.Bd3 Nc6 10.Nf3 Ng4 11.Qe2 Nxe3 12.Qxe3 Qa5 13.O-O-O Qxc5 14.Qf4 Qb4 15.Qg5 Be7 16.Qxg7 O-O-O 17.Ne2 Rhg8 18.Qh7 Rh8 19.Qg7 Rhg8 20.Qh7 Rh8 21.Qg7 1/2-1/2

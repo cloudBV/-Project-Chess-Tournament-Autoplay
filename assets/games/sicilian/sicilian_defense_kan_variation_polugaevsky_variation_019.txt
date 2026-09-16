@@ -1,0 +1,15 @@
+[Event "Round 2: Yilmaz, Kerem Tuna - Okur, Batin"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-2/gvcjqIE5/E2s1OlA6"]
+[Date "2026.07.14"]
+[Round "2.37"]
+[White "Yilmaz, Kerem Tuna"]
+[Black "Okur, Batin"]
+[Result "0-1"]
+[WhiteElo "2061"]
+[BlackElo "2046"]
+[ECO "B42"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Be3 Qc7 7.Qg4 g6 8.O-O e5 9.Qg3 d6 10.Nf5 Bxf5 11.exf5 Ne7 12.Bg5 gxf5 13.Bxe7 Qxe7 14.Bxf5 Nc6 15.c3 Kd8 16.b4 Ba7 17.a4 Qf6 18.Be4 Kc7 19.b5 Ne7 20.c4 axb5 21.Nc3 bxa4 22.Rab1 Rhb8 23.Rfd1 Bd4 24.Nb5+ Kd8 25.Nxd4 exd4 26.Bxb7 Ra7 27.Be4 Rxb1 28.Rxb1 Qe5 29.Qd3 Qc5 30.Rb5 Qc7 31.Qxd4 a3 32.Rb1 a2 33.Re1 Qc5 34.Qh8+ Kd7 35.Bd3 Qe5 36.Qxe5 dxe5 37.Ra1 Nc6 38.c5 Nb4 39.Bb5+ Kc7 40.Bc4 Kc6 41.g4 Kxc5 42.Bb3 f6 43.Kg2 Kd4 44.Rd1+ Ke4 45.f3+ Kf4 46.Ra1 Ra3 47.Bg8 Nc2 48.Rxa2 Rxa2 49.Bxa2 Ne1+ 50.Kf2 Nxf3 51.h3 e4 52.Bd5 e3+ 53.Ke2 Ng1+ 0-1

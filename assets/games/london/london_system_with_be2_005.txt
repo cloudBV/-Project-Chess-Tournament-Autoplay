@@ -1,0 +1,15 @@
+[Event "Round 8: Afek, Itay - Golan, Ori"]
+[Site "https://lichess.org/broadcast/israeli-youth-championships-2026/round-8/B6ALUMmx/iminWfwP"]
+[Date "2026.07.20"]
+[Round "8.12"]
+[White "Afek, Itay"]
+[Black "Golan, Ori"]
+[Result "1-0"]
+[WhiteElo "2171"]
+[BlackElo "2107"]
+[ECO "A48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "London System, with Be2"]
+
+1.d4 Nf6 2.Bf4 g6 3.e3 Bg7 4.Nf3 O-O 5.Be2 d6 6.h3 Nc6 7.a4 Nd7 8.a5 e5 9.Bg3 f5 10.Nc3 e4 11.Ng1 Kh8 12.h4 Ne7 13.Nh3 h5 14.Nf4 Nf6 15.a6 bxa6 16.Bxa6 Bxa6 17.Rxa6 Bh6 18.Qa1 Bxf4 19.Bxf4 Qb8 20.Bh6 Rg8 21.Qa2 Qb7 22.Ra5 Nc6 23.Rb5 Qc8 24.O-O Qd7 25.Ra1 Rgb8 26.Bg5 Nh7 27.Rxb8+ Rxb8 28.Nd5 Nxg5 29.hxg5 Rb7 30.Nf6 Qg7 31.Qa4 Ne7 32.Qe8+ Ng8 33.Ra6 h4 34.b3 c5 35.Rxd6 Re7 36.Qa8 Rf7 37.Rd8 1-0

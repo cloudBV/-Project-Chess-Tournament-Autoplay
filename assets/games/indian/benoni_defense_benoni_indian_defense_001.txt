@@ -1,0 +1,14 @@
+[Event "Round 2: Munoz Galvez, Jhon Edison - Univio Sanchez, German"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-2/T2G4VuYH/PkvtVcno"]
+[Date "2026.07.11"]
+[Round "2.8"]
+[White "Munoz Galvez, Jhon Edison"]
+[Black "Univio Sanchez, German"]
+[Result "1/2-1/2"]
+[WhiteElo "2280"]
+[BlackElo "2003"]
+[ECO "A43"]
+[Variant "Standard"]
+[Opening "Benoni Defense: Benoni-Indian Defense"]
+
+1.d4 c5 2.d5 Nf6 3.Nc3 a6 4.a4 g6 5.e4 d6 6.Nf3 Bg4 7.Be2 Bxf3 8.Bxf3 Bg7 9.O-O O-O 10.Bf4 Nfd7 11.Qd2 Re8 12.a5 Nf8 13.Na4 Nbd7 14.c3 b5 15.axb6 Nxb6 16.Nxb6 Qxb6 17.Be2 Reb8 18.Ra2 a5 19.Rfa1 Nd7 20.Qc2 h5 21.Bc1 Ne5 22.f4 Nd7 23.Kf1 Nf6 24.h3 Qb7 25.Bc4 Qc7 26.Qe2 Nd7 27.Bb5 Nf6 28.Bc6 Ra7 29.Kg1 h4 30.Kh2 Nh5 31.Qg4 Bf6 32.Ra4 Qb6 33.R1a3 Ng3 34.Qf3 c4 35.Rxc4 1/2-1/2

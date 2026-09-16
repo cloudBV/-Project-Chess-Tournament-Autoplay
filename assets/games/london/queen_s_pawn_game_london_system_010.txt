@@ -1,0 +1,15 @@
+[Event "Round 4: Woodward, Andy - Gelfand, Boris"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-4/p37tSfIq/cNjG0ImF"]
+[Date "2026.07.03"]
+[Round "4.3"]
+[White "Woodward, Andy"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2521"]
+[BlackElo "2623"]
+[ECO "D02"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: London System"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 c5 4.e3 Nc6 5.Nbd2 Nh5 6.dxc5 Nxf4 7.exf4 g6 8.Nb3 Bh6 9.g3 O-O 10.Bg2 Bg7 11.c3 a5 12.O-O a4 13.Nbd4 Ra5 14.Re1 Bg4 15.Qc2 Bxf3 16.Nxf3 e6 17.Rad1 Qa8 18.a3 Rxc5 19.Qd2 Qa7 20.h4 Rd8 21.h5 d4 22.hxg6 hxg6 23.cxd4 Nxd4 24.Nxd4 Rxd4 25.Qe2 Rc8 26.Bf3 Qb6 27.Rxd4 Bxd4 28.Rd1 Bxb2 29.Rb1 Rc1+ 30.Rxc1 Bxc1 31.Qc2 Bxa3 32.Qxa4 Bf8 33.Qe4 Bc5 34.Qxb7 Bxf2+ 35.Kg2 1/2-1/2

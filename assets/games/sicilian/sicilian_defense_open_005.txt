@@ -1,0 +1,15 @@
+[Event "Round 2: Herman Gamazo, Isaac - Sosa, Tomas"]
+[Site "https://lichess.org/broadcast/v-magistral-blitz-open-internacional-descacs-de-barbera-del-valles/round-2/vCnRIZce/Vd7IJUs1"]
+[Date "2026.07.10"]
+[Round "2.1"]
+[White "Herman Gamazo, Isaac"]
+[Black "Sosa, Tomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2094"]
+[BlackElo "2563"]
+[ECO "B33"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Open"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 h5 6.f3 e5 7.Ndb5 d6 8.Nd5 Nxd5 9.exd5 Ne7 10.c4 Nf5 11.Bd3 a6 12.Nc3 Qh4+ 13.Ke2 Nd4+ 14.Kf1 f5 15.Qe1 Qxe1+ 16.Kxe1 f4 17.g3 Nxf3+ 18.Kf2 Nd4 19.gxf4 Be7 20.Bg6+ Kd8 21.fxe5 dxe5 22.Ne4 Bg4 23.Rf1 Be2 24.Rg1 Rf8+ 25.Ke3 Rf3+ 26.Kd2 Bxc4 27.d6 Bh4 28.Nc5 b6 29.Be4 Rf2+ 30.Kc3 Re2 31.Bxa8 Rc2+ 32.Kb4 bxc5+ 33.Ka5 Ne6 34.Be3 Rxb2 35.Rac1 Rxa2+ 36.Kb6 Rb2+ 37.Ka7 Bb5 38.Bxc5 Kd7 39.Bb6 Ba4 40.Bb7 Kxd6 41.Rgf1 Bb5 42.Rfd1+ Nd4 43.Bxd4 exd4 44.Rxd4+ Ke5 45.Rxh4 g6 46.Re4+ Kf6 47.Bc6 Bd3 48.Rd4 Bf5 49.Be4 Rxh2 50.Rc6+ Kg5 51.Rc5 Rf2 52.Kxa6 h4 53.Bxf5 Rxf5 54.Rc3 Kh5 55.Kb6 g5 56.Kc6 g4 57.Kd6 g3 58.Ke6 Rf1 59.Rcc4 Re1+ 60.Kf5 Rf1+ 61.Ke5 Rh1 62.Kf5 g2 63.Rd8 Rf1+ 64.Ke5 h3 65.Rh8+ Kg6 66.Rcc8 Re1+ 67.Kf4 Rf1+ 68.Ke5 Rf7 69.Rc1 Rh7 70.Rg8+ Rg7 71.Rh8 Rh7 72.Rg8+ Kh5 73.Rg3 Kh4 74.Rcc3 Re7+ 75.Kf4 Rf7+ 76.Ke5 Re7+ 1/2-1/2

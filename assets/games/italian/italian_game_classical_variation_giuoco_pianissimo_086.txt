@@ -1,0 +1,14 @@
+[Event "Round 5: Lesny, Florian - Eichstaedt, Mirko"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-5/s84Vb8Fz/QaZgiyGQ"]
+[Date "2026.07.07"]
+[Round "5.1"]
+[White "Lesny, Florian"]
+[Black "Eichstaedt, Mirko"]
+[Result "1/2-1/2"]
+[WhiteElo "2272"]
+[BlackElo "2229"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a6 7.Bb3 Ba7 8.Nbd2 O-O 9.h3 h6 10.Re1 Re8 11.Nf1 Be6 12.Bc2 d5 13.exd5 Bxd5 14.Ng3 Qd7 15.Be3 Bxe3 16.Rxe3 Rad8 17.Qe2 Bxf3 18.Qxf3 Nd5 19.Ree1 Re6 20.Qg4 Qe7 21.Nf5 Qg5 22.Qxg5 hxg5 23.g3 g6 24.Ne3 Nxe3 25.fxe3 Kg7 26.Rad1 Red6 27.d4 f5 28.Bb3 Na5 29.Bc2 Nc6 30.Bb3 Na5 31.Bc2 1/2-1/2

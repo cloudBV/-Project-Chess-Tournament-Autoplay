@@ -1,0 +1,15 @@
+[Event "Round 1: Adewumi, Tanitoluwa - Lohia, Sohum"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-1/6tvMnTPk/qO6i6CEX"]
+[Date "2026.07.07"]
+[Round "1.3"]
+[White "Adewumi, Tanitoluwa"]
+[Black "Lohia, Sohum"]
+[Result "1/2-1/2"]
+[WhiteElo "2467"]
+[BlackElo "2404"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.a4 Bc5 6.Nbd2 a5 7.c3 d6 8.O-O Ba7 9.Bb5 O-O 10.h3 Ne7 11.d4 Ng6 12.Re1 c6 13.Bf1 Re8 14.Qc2 Qc7 15.Nc4 Be6 16.Bd2 Rad8 17.Rad1 Nxe4 18.Rxe4 d5 19.Rxe5 dxc4 20.Rxe6 Rxe6 21.Bxc4 Rf6 22.Re1 c5 23.d5 Bb8 24.Kf1 Nf4 25.Qe4 Qd7 26.b3 Bc7 27.Bxf4 Bxf4 28.Qe7 Qxe7 29.Rxe7 Rb8 30.Bb5 Kf8 31.Re4 Rd8 32.c4 Bd6 33.Ke2 g6 34.g3 Rf5 35.Ke3 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 4: Poghosyan, Alen - Ikonnikov, Vyacheslav"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-4/phLVbaKj/6mXfoO74"]
+[Date "2026.07.17"]
+[Round "4.1"]
+[White "Poghosyan, Alen"]
+[Black "Ikonnikov, Vyacheslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2317"]
+[BlackElo "2461"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nf5 d6 7.Nc3 g6 8.Ne3 Nf6 9.Bd3 Bg7 10.O-O O-O 11.a3 Be6 12.b4 Nd7 13.Bb2 Rc8 14.Nf5 Nxb4 15.axb4 gxf5 16.exf5 Bxc4 17.Bxc4 Rxc4 18.Qxd6 Nb6 19.Qd1 Rd4 20.Qc2 Nc4 21.Rad1 Nxb2 22.Qxb2 e4 23.Qe2 Re8 24.Rfe1 Kf8 25.Na4 e3 26.fxe3 Rxe3 27.Qc2 Kg8 28.Rf1 Qe8 29.Nc5 Re2 30.Qb3 b6 31.Nxa6 Rxd1 32.Qxd1 Qe3+ 33.Kh1 Bd4 34.Qc1 Rf2 35.Re1 Qxc1 36.Rxc1 Rxf5 37.Rd1 Be5 38.g3 Rf2 39.Nb8 Rb2 40.Nd7 Bc3 41.Nxb6 Bxb4 42.Nd5 Bd2 43.Kg2 Bg5+ 44.Kh3 h5 45.Nf4 Bxf4 46.gxf4 Kg7 47.Rd5 Rb3+ 48.Kh4 Rf3 49.Kg5 h4 50.Kg4 Rf2 51.h3 Kg6 52.Rg5+ Kf6 53.Rf5+ Kg6 54.Rg5+ 1/2-1/2

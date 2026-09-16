@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.21"]
+[Round "4.4"]
+[White "Engel, Bruno"]
+[Black "Fiorito, Francisco"]
+[Result "1-0"]
+[WhiteElo "2216"]
+[BlackElo "2452"]
+[ECO "B30"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.c3 Nge7 5.d4 cxd4 6.cxd4 d5 7.e5 Nf5 8.Nc3 Bd7 9.O-O h6 10.Ba4 Rc8 11.Ne2 Nh4 12.Nxh4 Qxh4 13.Nf4 g6 14.Be3 Qd8 15.Rc1 Rg8 16.a3 a6 17.Nd3 b6 18.Rc3 Ne7 19.Bxd7+ Qxd7 20.Rxc8+ Qxc8 21.Qb3 Qb7 22.Nc5 Qa7 23.Qa4+ b5 24.Qxa6 Qxa6 25.Nxa6 Kd7 26.Nc5+ Kc7 27.Na6+ Kb6 28.Nb4 Nf5 29.Nd3 h5 30.Rc1 Be7 31.Kf1 Ra8 32.Rc3 Kb7 33.Ke2 Ra4 34.b4 Ra8 35.g3 g5 36.h3 Kb6 37.g4 hxg4 38.hxg4 Nxe3 39.fxe3 Rh8 40.Rc1 Kb7 41.Rf1 Rh7 42.Rf3 Kc6 43.Nf2 Kd7 44.Kf1 Rg7 45.Nd1 Rh7 46.Kg2 Rg7 47.Rf1 Rh7 48.Nc3 Kc6 49.Ne2 Kd7 50.Rf2 Rg7 51.Nc3 Kc6 52.Kf1 Rh7 53.Ke2 Bd8 54.Kd3 Bb6 55.Rc2 Bd8 56.Nxd5+ Kd7 57.Rc7+ Ke8 58.Nf6+ Bxf6 59.exf6 Rh4 60.Re7+ Kf8 61.a4 bxa4 62.b5 Rh1 63.b6 Rb1 64.b7 a3 65.Rc7 1-0

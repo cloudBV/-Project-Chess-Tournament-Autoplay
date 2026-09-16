@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/4qLBgucR"]
+[Date "2026.07.04"]
+[Round "8.1"]
+[White "Zalega, Maciej"]
+[Black "Kazakouski, Valery"]
+[Result "1/2-1/2"]
+[WhiteElo "2217"]
+[BlackElo "2594"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Be7 9.Qd2 h5 10.O-O-O Nbd7 11.Nd5 Bxd5 12.exd5 Qc7 13.Kb1 Nb6 14.Bf2 Nbxd5 15.Bd3 Nf4 16.Bf5 g6 17.g3 Ne6 18.Bxe6 fxe6 19.Rhe1 O-O 20.h4 Rac8 21.c3 Kh7 22.Qe2 Rf7 23.Nd2 b5 24.Be3 Nd5 25.Bg5 Bxg5 26.hxg5 Kg7 27.Rc1 Nb6 28.Ne4 Nd7 29.g4 h4 30.Rh1 d5 31.Nf6 Nxf6 32.gxf6+ Kxf6 33.Rxh4 Ke7 34.Qe3 Kd7 35.Qg5 Rg8 36.Re1 Rgg7 37.Rxe5 b4 38.Re3 Qf4 39.Qxf4 Rxf4 40.cxb4 Rxb4 41.Rh8 Rb6 42.Ra8 Kd6 43.Ra3 Rh7 44.R3xa6 Rh1+ 45.Kc2 Rh2+ 46.Kc3 Rxb2 47.Rxb6+ Rxb6 48.a4 Ke5 49.a5 d4+ 50.Kc2 Rc6+ 51.Kb2 Kf4 52.a6 Ke3 53.a7 Rb6+ 54.Kc1 Ra6 55.Re8 Ra1+ 56.Kb2 Rxa7 57.Rxe6+ Kd2 58.Rxg6 Rb7+ 59.Ka2 d3 60.Re6 Kc2 61.Rc6+ Kd1 62.Re6 d2 63.g5 Kc2 64.Rc6+ Kd3 65.Rd6+ Ke2 66.Re6+ Kxf3 67.Rd6 Ke2 68.Re6+ Kd3 69.Rd6+ Kc2 70.Rc6+ Kd1 71.Re6 Rb4 72.g6 Rg4 73.Kb2 Rg2 74.Rd6 Re2 75.g7 Ke1 76.Kc3 Re3+ 77.Kc2 Re2 78.Kc3 Rg2 79.Rxd2 Rxg7 1/2-1/2

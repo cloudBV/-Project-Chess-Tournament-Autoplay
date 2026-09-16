@@ -1,0 +1,14 @@
+[Event "Round 3: Nevednichy, Vladislav - Giannoulakis, Lampros"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-3/rISTgQjK/1DvFke2I"]
+[Date "2026.07.19"]
+[Round "3.6"]
+[White "Nevednichy, Vladislav"]
+[Black "Giannoulakis, Lampros"]
+[Result "0-1"]
+[WhiteElo "2441"]
+[BlackElo "2262"]
+[ECO "C54"]
+[Variant "Standard"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O h6 6.c3 d6 7.Re1 a6 8.a4 Ba7 9.b4 O-O 10.Nbd2 Ne7 11.Nf1 Ng6 12.Ng3 c6 13.h3 d5 14.Bb3 Re8 15.a5 Be6 16.Be3 Bxe3 17.Rxe3 Qc7 18.d4 dxe4 19.Nxe4 Nd5 20.Bxd5 cxd5 21.Nc5 e4 22.Nd2 f5 23.Re1 Rad8 24.b5 Bc8 25.bxa6 bxa6 26.Nf1 Rd6 27.Qc1 Nh4 28.f4 g5 29.Kh1 Rg6 30.Ne3 Rd8 31.fxg5 Rxg5 32.Ra2 f4 33.Nxd5 Rdxd5 34.Nxe4 Rg6 35.Rf2 Rf5 36.c4 Qg7 37.Qb2 Rf8 38.d5 Qxb2 39.Rxb2 f3 40.g3 Ng2 41.Rc1 Bf5 42.Nf2 Rxg3 43.Kh2 Rg7 44.Rg1 Rff7 45.Rb3 Nh4 46.Rg3 Bc2 47.Rc3 Ba4 48.c5 Rxg3 49.Kxg3 Nf5+ 50.Kf4 Ne7+ 51.Ke5 Kf8 52.Ke6 Rf6+ 0-1

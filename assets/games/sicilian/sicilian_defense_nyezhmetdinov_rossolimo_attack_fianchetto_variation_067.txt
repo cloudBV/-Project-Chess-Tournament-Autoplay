@@ -1,0 +1,15 @@
+[Event "Round 7: kiladze, Luka - Kviriashvili, Andria"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-7/YvfATwku/MPFjOTRR"]
+[Date "2026.07.18"]
+[Round "7.7"]
+[White "kiladze, Luka"]
+[Black "Kviriashvili, Andria"]
+[Result "1-0"]
+[WhiteElo "2373"]
+[BlackElo "2305"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 d5 6.Qa4 dxe4 7.Bxc6+ bxc6 8.Qxc6+ Bd7 9.Qxe4 Nf6 10.Qe2 Qc7 11.d4 cxd4 12.cxd4 Nd5 13.Ne5 O-O 14.Bd2 Be6 15.Nc3 Rac8 16.Rfc1 Nxc3 17.Bxc3 Qb7 18.Re1 Bd5 19.f3 Rfd8 20.Qe3 Qb5 21.a4 Qb6 22.a5 Qa6 23.Rac1 Qb5 24.Qf4 Bb3 25.Ng4 Rd7 26.Nh6+ Bxh6 27.Qxh6 Bd5 28.Qd2 a6 29.Re3 Rc6 30.Rce1 Re6 31.Bb4 Qc4 32.Bc5 Rxe3 33.Qxe3 Be6 34.b4 h5 35.h4 Qa2 36.Qg5 Qc4 37.Kh2 Qc3 38.Rxe6 fxe6 39.Qxg6+ Kf8 40.Qxe6 Rc7 41.Qxa6 Qd2 42.Qf6+ Ke8 43.Qg5 1-0

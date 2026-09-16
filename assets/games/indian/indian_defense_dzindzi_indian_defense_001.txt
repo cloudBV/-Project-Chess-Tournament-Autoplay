@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "2.3"]
+[White "Radhakrishnan, Sharath"]
+[Black "Karthik Venkataraman"]
+[Result "1-0"]
+[WhiteElo "2234"]
+[BlackElo "2566"]
+[ECO "E10"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Indian Defense: Dzindzi-Indian Defense"]
+
+1.d4 e6 2.c4 Nf6 3.Nf3 a6 4.Nc3 Bb4 5.Qc2 c5 6.dxc5 Bxc5 7.Bf4 Nc6 8.e3 Nh5 9.Rd1 Nxf4 10.exf4 b6 11.g3 Bb7 12.Bg2 Nd4 13.Qd3 Ra7 14.O-O Nxf3+ 15.Bxf3 f5 16.Bxb7 Rxb7 17.Rfe1 Be7 18.c5 bxc5 19.Qxa6 Qb8 20.a4 Ra7 21.Qc4 Qb6 22.Nb5 Rb7 23.b4 O-O 24.Rxd7 Rxd7 25.Rxe6 Rd1+ 26.Re1+ Kh8 27.Rxd1 cxb4 28.Rd7 Bc5 29.a5 Bxf2+ 30.Kg2 Qc5 31.Qxc5 Bxc5 32.Rc7 Be3 33.Kf3 Bg1 34.Rc1 Rb8 35.a6 Bb6 36.a7 Bxa7 37.Nxa7 b3 38.Rb1 Rb6 39.Nc8 Rc6 40.Ne7 Rc3+ 41.Ke2 Rc2+ 42.Kd3 g6 43.Rxb3 Rxh2 44.Nd5 Rg2 45.Rb7 Rxg3+ 46.Kd4 g5 47.Nf6 Rh3 48.fxg5 f4 49.Ke5 f3 50.Ke6 1-0

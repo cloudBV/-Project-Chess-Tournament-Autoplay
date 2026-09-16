@@ -1,0 +1,15 @@
+[Event "Round 9: Dhulipalla Bala Chandra Prasad - Torun, Kagan"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-9/u0t4v5Pa/mFLIJzv9"]
+[Date "2026.07.19"]
+[Round "9.14"]
+[White "Dhulipalla Bala Chandra Prasad"]
+[Black "Torun, Kagan"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "2117"]
+[ECO "B28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+
+1.e4 c5 2.Nf3 a6 3.g3 d6 4.Bg2 e5 5.O-O Nf6 6.c3 Nc6 7.d4 cxd4 8.cxd4 Bg4 9.d5 Nd4 10.Be3 Nxf3+ 11.Bxf3 Qd7 12.Nd2 Bxf3 13.Qxf3 Be7 14.Nc4 Qg4 15.Qxg4 Nxg4 16.Bb6 Nf6 17.f3 Kd7 18.Rfc1 Rhc8 19.Rc3 Ne8 20.Rac1 Bd8 21.Rb3 Nc7 22.Bxc7 Bxc7 23.Rxb7 Kd8 24.Ne3 Ba5 25.Rc6 Rxc6 26.dxc6 Rc8 27.b4 Bc7 28.Nd5 1-0

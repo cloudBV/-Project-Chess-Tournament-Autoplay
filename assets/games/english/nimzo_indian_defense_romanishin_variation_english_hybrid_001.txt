@@ -1,0 +1,14 @@
+[Event "Round 3: Flom, Gabriel - De Jong, Migchiel"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/3mv7gQ4l"]
+[Date "2026.07.23"]
+[Round "3.9"]
+[White "Flom, Gabriel"]
+[Black "De Jong, Migchiel"]
+[Result "1-0"]
+[WhiteElo "2430"]
+[BlackElo "2252"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Romanishin Variation, English Hybrid"]
+
+1.d4 e6 2.c4 Bb4+ 3.Nc3 c5 4.Nf3 cxd4 5.Nxd4 Nf6 6.g3 O-O 7.Bg2 d5 8.cxd5 Nxd5 9.Qb3 Qa5 10.Bd2 Nc6 11.Nxc6 bxc6 12.O-O Bxc3 13.bxc3 Ba6 14.Rfd1 Qc5 15.e4 Bc4 16.Qc2 Nf6 17.Be3 Qa5 18.Rd4 Qa6 19.e5 Nd5 20.Be4 f5 21.exf6 Nxf6 22.Bg2 c5 23.Rh4 Rac8 24.Bg5 Bd3 25.Ra4 Qd6 26.Qd1 c4 27.Rxa7 Nd5 28.Qd2 Rce8 29.Re1 e5 30.Ra5 e4 31.Be3 Qe6 32.Bd4 h6 33.Ra7 Rf7 34.Rxf7 Qxf7 35.a4 Ra8 36.Bxe4 Bxe4 37.Rxe4 Rxa4 38.Qe2 Ra1+ 39.Kg2 Kh7 40.Rg4 Nf6 41.Bxf6 Qxf6 42.Rxc4 1-0

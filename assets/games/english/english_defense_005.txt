@@ -1,0 +1,15 @@
+[Event "Round 2: Majumder Shrayan - Aloma Vidal, Robert"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-2/5lLQ3rww/l3oN37lm"]
+[Date "2026.07.05"]
+[Round "2.5"]
+[White "Majumder Shrayan"]
+[Black "Aloma Vidal, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2122"]
+[BlackElo "2343"]
+[ECO "A40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Defense"]
+
+1.d4 e6 2.c4 b6 3.g3 Bb7 4.Nf3 Bb4+ 5.Bd2 Bxf3 6.exf3 Bxd2+ 7.Qxd2 Nf6 8.d5 O-O 9.Nc3 exd5 10.cxd5 Re8+ 11.Be2 c6 12.dxc6 Nxc6 13.O-O d5 14.Bb5 Ne5 15.Qd1 Re6 16.f4 Nc6 17.Rc1 Ne7 18.Ne2 Nf5 19.Bd3 Ne4 20.Bxe4 dxe4 21.Qxd8+ Rxd8 22.Rfd1 Ree8 23.Nc3 Nd4 24.Kf1 f5 25.Ne2 Nf3 26.h3 h6 27.Ng1 Nd4 28.Rc7 Ne6 29.Rcd7 Rxd7 30.Rxd7 Rc8 31.Ne2 Rc2 32.Re7 Nc5 33.Nd4 Rc1+ 34.Ke2 g6 35.Rxa7 Nd3 36.Rb7 1/2-1/2

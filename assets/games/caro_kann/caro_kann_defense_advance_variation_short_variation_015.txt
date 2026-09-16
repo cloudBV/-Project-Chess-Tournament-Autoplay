@@ -1,0 +1,15 @@
+[Event "Round 5: Lad Mandar Pradip - Ohler, Julius"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-5/CqrHv7fa/J2KHaZ23"]
+[Date "2026.07.08"]
+[Round "5.13"]
+[White "Lad Mandar Pradip"]
+[Black "Ohler, Julius"]
+[Result "1/2-1/2"]
+[WhiteElo "2391"]
+[BlackElo "2279"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O a5 7.Nc3 a4 8.Bd2 a3 9.b3 Bb4 10.Nb5 Be7 11.Nd6+ Bxd6 12.exd6 Ndf6 13.Bb4 Ne4 14.Qc1 Nxd6 15.Bxa3 Ne7 16.Bb4 O-O 17.a4 Re8 18.Re1 Ng6 19.h3 e5 20.dxe5 Ne4 21.Qe3 f6 22.exf6 Nxf6 23.Qd2 Ne4 24.Qd4 Nf4 25.Bf1 Bg6 26.Rad1 Qc7 27.Bd2 Rf8 28.Bxf4 Rxf4 29.Ne5 Raf8 30.f3 Ng5 31.Qd2 Bh5 32.Qe3 Ne4 33.Ng4 Bxg4 34.hxg4 Ng5 35.Qe5 Qb6+ 36.Qe3 Qc7 37.Rd4 Nxf3+ 38.gxf3 Rxd4 39.Qe6+ Qf7 40.Qxf7+ Kxf7 41.Bd3 g6 42.Kf2 Rf4 43.Re3 Kg7 44.Be2 R8f7 45.Kg3 Kf8 46.a5 R4f6 47.a6 bxa6 48.Bxa6 Re7 49.Rd3 Ra7 50.Bc8 Ke7 51.g5 Rf8 52.Bg4 Kd6 53.c4 Kc5 54.cxd5 cxd5 55.Be6 Rd8 56.Kf4 d4 57.Ke5 Ra6 58.Bf7 Rd7 59.b4+ Kxb4 60.Rxd4+ Rxd4 61.Kxd4 Rd6+ 62.Ke5 Kc5 63.Bg8 Rd7 64.Ke6 Rc7 65.f4 Kd4 66.f5 gxf5 67.Kxf5 Rg7 68.Bxh7 Rxh7 69.g6 Rg7 1/2-1/2

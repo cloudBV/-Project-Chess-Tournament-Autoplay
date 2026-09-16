@@ -1,0 +1,14 @@
+[Event "Round 1: Bodmer, Marcel - Adzic, Slobodan"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-seniors/round-1/c2xJGOXA/zIHx8NmF"]
+[Date "2026.06.03"]
+[Round "1.1"]
+[White "Bodmer, Marcel"]
+[Black "Adzic, Slobodan"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2051"]
+[ECO "A43"]
+[Variant "Standard"]
+[Opening "Indian Defense: Pseudo-Benko"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 Qb6 5.Nc3 a6 6.e4 h6 7.Bf4 b4 8.Na4 Qa5 9.c3 Nxe4 10.Nd2 Nxd2 11.Bxd2 d6 12.a3 bxa3 13.Rxa3 Nd7 14.c4 Qc7 15.Be2 Rb8 16.O-O Nf6 17.Bd3 e5 18.f4 Be7 19.fxe5 dxe5 20.Qe1 O-O 21.Ba5 Qd6 22.Bc3 Nd7 23.Bf5 Bf6 24.Be4 g6 25.Bd2 Bg7 26.Rg3 f5 27.Bb1 e4 28.Qc1 h5 29.Bh6 Ne5 30.Bf4 Bd7 31.Bc2 Rb4 32.Qd1 Rxc4 33.Nc3 Rd4 34.Qa1 Qb6 35.Be3 Ng4 36.Rxg4 hxg4 37.Ba4 Bxa4 38.Nxa4 Qb3 39.Nc3 Ra8 40.Qa5 Qb4 41.Qc7 Qxb2 42.Qc6 Rf8 43.Qxc5 Rd3 44.Nd1 Qb3 45.Qc1 Qxd5 46.Nf2 Rc3 47.Qb1 0-1

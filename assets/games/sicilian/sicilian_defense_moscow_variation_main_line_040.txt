@@ -1,0 +1,15 @@
+[Event "Round 8: Grana Castanal, Andres - Perez Marimon, Jorge De Jesus"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-8/dn7ydIAm/z2DwF9eG"]
+[Date "2026.07.18"]
+[Round "8.5"]
+[White "Grana Castanal, Andres"]
+[Black "Perez Marimon, Jorge De Jesus"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2406"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nf6 6.Qe2 Nc6 7.c3 e6 8.d4 cxd4 9.cxd4 d5 10.e5 Ne4 11.Nbd2 Nxd2 12.Bxd2 Bb4 13.Bf4 O-O 14.h4 Rfc8 15.h5 h6 16.g4 Qd8 17.Rad1 Kh8 18.Kg2 Be7 19.Rh1 Qg8 20.Rh3 Qh7 21.Rg3 Nb4 22.a3 Rc2 23.Qb5 Nc6 24.Re1 Rb8 25.Re3 Rc4 26.Re1 Qc2 27.Rc1 Qe4 28.Rxc4 dxc4 29.Be3 Bh4 30.Qxc4 Bxg3 31.Kxg3 Rc8 32.Nd2 Qh1 33.Nf3 Qd1 34.Qc5 Qb3 35.g5 Rd8 36.gxh6 gxh6 37.Kh3 Qd3 38.Nh4 Rg8 39.Qd6 Qf1+ 0-1

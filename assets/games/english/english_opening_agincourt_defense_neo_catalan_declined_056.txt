@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.11"]
+[Round "8.11"]
+[White "Zoler, Dan"]
+[Black "Lorente Melcon, Maximo"]
+[Result "1-0"]
+[WhiteElo "2487"]
+[BlackElo "2255"]
+[ECO "A14"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.b3 a5 7.d4 c6 8.Nbd2 Nbd7 9.Qc2 b6 10.e4 Ba6 11.e5 Ne8 12.Re1 Rc8 13.h4 Nc7 14.Bb2 c5 15.Rad1 h6 16.a4 Qe8 17.Qb1 cxd4 18.Nxd4 Nc5 19.Nf1 Nxa4 20.bxa4 Bxc4 21.Bc3 Bc5 22.Qa1 Na6 23.Ne3 Bb4 24.Rc1 Rc5 25.Nxc4 Rxc4 26.Bxb4 Rxb4 27.Nc6 Rb3 28.Bf1 Nc5 29.Bb5 Qa8 30.Red1 f6 31.Qa2 Rf3 32.Nd4 fxe5 33.Nxf3 Rxf3 34.Qb2 Qb8 35.Rc3 Rf8 36.Re3 e4 37.Kg2 Rd8 38.f3 Rf8 39.Rf1 Qd6 40.fxe4 Rxf1 41.Kxf1 Nxe4 42.Kg2 Kh8 43.Qc2 Qe7 44.Qc8+ Kh7 45.Bd3 Qb4 46.Bxe4+ dxe4 47.Qc2 1-0

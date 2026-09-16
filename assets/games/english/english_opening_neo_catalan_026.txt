@@ -1,0 +1,14 @@
+[Event "Round 5: Bu, Xiangzhi - Elmi, Saad Abobaker"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-5/VoXEKW1c/ZyCgx0fc"]
+[Date "2026.07.19"]
+[Round "5.1"]
+[White "Bu, Xiangzhi"]
+[Black "Elmi, Saad Abobaker"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2409"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Neo-Catalan"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 d4 5.d3 c5 6.e4 Nc6 7.e5 Nd7 8.Qe2 b6 9.O-O Bb7 10.h4 h6 11.Re1 Be7 12.h5 Qc7 13.a3 a6 14.Bf4 g5 15.hxg6 fxg6 16.g4 g5 17.Bg3 h5 18.gxh5 O-O-O 19.Nh2 Rdf8 20.Nd2 Rf4 21.b4 cxb4 22.axb4 Bxb4 23.Reb1 Bxd2 24.Qxd2 Ncxe5 25.Bxb7+ Qxb7 26.Bxf4 gxf4 27.Qxf4 Rg8+ 28.Kf1 Nxd3 29.Qf3 N3e5 30.Qxb7+ Kxb7 31.Rd1 d3 32.Re1 Rf8 33.Rad1 a5 34.Re4 Kc7 35.f4 Nc6 36.Rxe6 Rxf4+ 37.Kg2 Rxc4 38.h6 Rh4 39.Nf3 Rg4+ 40.Kf2 Rg8 41.h7 Rh8 42.Rh6 Nce5 43.Nxe5 Nxe5 44.Rg1 Nf7 45.Rg7 1-0

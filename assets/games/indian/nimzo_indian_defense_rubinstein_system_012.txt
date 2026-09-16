@@ -1,0 +1,14 @@
+[Event "Round 7: Ruether, Rudolf - Schlais, Harald"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-7/ssrsMeYG/iA7Nk0FC"]
+[Date "2026.07.23"]
+[Round "7.10"]
+[White "Ruether, Rudolf"]
+[Black "Schlais, Harald"]
+[Result "1/2-1/2"]
+[WhiteElo "2050"]
+[BlackElo "2238"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Bxc3+ 5.bxc3 Qe7 6.Nf3 d6 7.Be2 O-O 8.O-O c5 9.Qc2 e5 10.Bd2 Nc6 11.a4 b6 12.Be1 Na5 13.Nd2 Ba6 14.Bd3 h6 15.d5 e4 16.Nxe4 Nxe4 17.Bxe4 Bxc4 18.Bd3 Bxd5 19.c4 Bc6 20.Bc3 Nb7 21.e4 Nd8 22.f3 Ne6 23.Rf2 Nf4 24.Bf1 Rfd8 25.a5 Ng6 26.axb6 axb6 27.Rb1 Ra6 28.Qd1 Qc7 29.Rfb2 Ne7 30.Qc2 Nc8 31.Qf2 Ra3 32.Rc2 f6 33.Qg3 Qf7 34.Qf4 Bd7 35.Qc1 Ra6 36.Bd3 Re8 37.Rd2 Be6 38.Bb2 Ra4 39.Rc2 Re7 40.Qf1 Rea7 41.Rbc1 Ra2 42.Qe2 Ne7 43.Rd2 R2a4 44.f4 Nc8 45.e5 f5 46.exd6 Nxd6 47.Qe5 Nxc4 48.Bxc4 Bxc4 49.Qb8+ Kh7 50.Qxb6 Be6 51.Qxc5 Rxf4 52.Rd6 Re4 53.Rf1 Ra2 54.Rd2 Qb7 55.Qc3 Bc4 56.Rc1 Qb6+ 57.Kh1 Qg6 58.Rd7 Bf7 59.Rd2 Ra7 60.Rg1 Rae7 61.Qf3 Be8 62.Rf2 Bd7 63.Qd3 Bc6 64.Rf3 Rg4 65.Rg3 Rxg3 66.Qxg3 Qxg3 67.hxg3 Re2 68.Ba3 g5 69.Bd6 Kg6 70.Kh2 Kh5 71.Bf8 Kg4 72.Bxh6 Re7 73.Rc1 Bb7 74.Rb1 Be4 75.Rb6 Rd7 76.Rb2 Rd6 77.Bf8 Rf6 78.Bg7 Rf7 79.Be5 1/2-1/2

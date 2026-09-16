@@ -1,0 +1,15 @@
+[Event "Round 4: Botez, Alexandra - Rensch, Daniel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-creator-invitational/round-4/dvs5F4aE/2KrW1Vx4"]
+[Date "2026.07.05"]
+[Round "4.3"]
+[White "Botez, Alexandra"]
+[Black "Rensch, Daniel"]
+[Result "0-1"]
+[WhiteElo "2066"]
+[BlackElo "2401"]
+[ECO "E32"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d5 6.e5 Ne4 7.Bd3 c5 8.Ne2 Nc6 9.a3 Bxc3+ 10.bxc3 f5 11.O-O b6 12.f3 Ng5 13.cxd5 exd5 14.a4 c4 15.Bxc4 dxc4 16.Nf4 Ne6 17.d5 Nxf4 18.Bxf4 Qxd5 19.Rad1 Qc5+ 20.Kh1 Be6 21.Rd6 Rfe8 22.Re1 Rad8 23.Qd2 Kf7 24.Bg3 h6 25.f4 Rxd6 26.exd6 Qd5 27.Qe2 Bd7 28.Qh5+ Kf8 0-1

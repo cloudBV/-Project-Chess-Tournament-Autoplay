@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-3/jrpV8ikM/e3krP6qe"]
+[Date "2026.07.14"]
+[Round "3.12"]
+[White "Alsina Leal, Daniel"]
+[Black "Sarabando, Rodrigo Andias"]
+[Result "1-0"]
+[WhiteElo "2488"]
+[BlackElo "2101"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.e3 Nbd7 5.Bb2 Bd6 6.Nc3 c6 7.Qc2 Qe7 8.h3 dxc4 9.bxc4 e5 10.d3 a5 11.Be2 h6 12.Rb1 O-O 13.O-O Re8 14.Rfd1 Bc7 15.Qc1 Bd6 16.Bf1 a4 17.Nd2 a3 18.Ba1 Nf8 19.Nce4 Nxe4 20.Nxe4 Bb8 21.Bc3 f5 22.Bb4 Qd8 23.Nc3 f4 24.Ne4 Ne6 25.Rb3 Ng5 26.exf4 exf4 27.Nxg5 Qxg5 28.d4 Bf5 29.d5 Be4 30.d6 c5 31.Bxa3 Ra6 32.d7 Rd8 33.Re1 Bxg2 34.Bxg2 Rg6 35.Rg3 fxg3 36.Re8+ Kh7 37.Qxg5 1-0

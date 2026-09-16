@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.10"]
+[Round "7.5"]
+[White "Gelas, Christophe"]
+[Black "Reyan Md."]
+[Result "1-0"]
+[WhiteElo "2321"]
+[BlackElo "2161"]
+[ECO "E81"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Sämisch Gambit Accepted"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.dxc5 dxc5 8.Qxd8 Rxd8 9.Bxc5 Nc6 10.Nge2 Nd7 11.Bf2 Nde5 12.Nf4 Bh6 13.Nfd5 e6 14.Nc7 Bd2+ 15.Ke2 Bxc3 16.bxc3 Rb8 17.Rd1 Rxd1 18.Kxd1 b6 19.Kc1 Nd7 20.Be2 Kf8 21.Rd1 Ke7 22.Bh4+ f6 23.Bg3 e5 24.f4 exf4 25.Bxf4 Nce5 26.Nd5+ Kf7 27.Rf1 Kg7 28.Bg3 Bb7 29.Nxf6 Rf8 30.Nxd7 Rxf1+ 31.Bxf1 Nxd7 32.Bd3 Kf6 33.Kd2 Ne5 34.Bc2 Nxc4+ 35.Kd3 Ne5+ 36.Kd4 Nc6+ 37.Ke3 Ne5 38.Bb3 Nd7 39.Bd5 Bc8 40.Kd4 h6 41.Bd6 Kg7 42.Be6 Kf6 43.Bh3 Kf7 44.e5 Ke8 45.g3 Bb7 46.Bf1 Nf8 47.Bc4 g5 48.e6 Ng6 49.Bb5+ Kd8 50.Bd3 Ne7 51.Ke5 Bc6 52.Be4 Be8 53.Kf6 Nc8 54.Bf8 1-0

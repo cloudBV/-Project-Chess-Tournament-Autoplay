@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.05"]
+[Round "2.2"]
+[White "Nomin-Erdene, Davaademberel"]
+[Black "Toth, Lili"]
+[Result "1-0"]
+[WhiteElo "2320"]
+[BlackElo "2118"]
+[ECO "B90"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be7 8.Be3 b5 9.a4 bxa4 10.Rxa4 O-O 11.Nd5 Nbd7 12.Na5 Nxd5 13.Qxd5 Nb6 14.Bxb6 Qxb6 15.Qxa8 Bd7 16.Nc4 Qd4 17.c3 Qc5 18.Qb7 Bh4 19.Qxd7 Qxf2+ 20.Kd1 Qe1+ 21.Kc2 Qxe4+ 22.Bd3 Qxg2+ 23.Nd2 1-0

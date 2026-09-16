@@ -1,0 +1,14 @@
+[Event "Round 6: Wolter, Kai, Dr. - Lindam, Ingo"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-6/3ymlbMxl/6BYjKsEl"]
+[Date "2026.07.22"]
+[Round "6.5"]
+[White "Wolter, Kai, Dr."]
+[Black "Lindam, Ingo"]
+[Result "1-0"]
+[WhiteElo "2209"]
+[BlackElo "2079"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.f4 b5 10.a3 Bb7 11.Bf3 Nbd7 12.Kh1 Rc8 13.Qe1 Re8 14.Be3 Rc4 15.Nd2 Rxc3 16.bxc3 Qc7 17.c4 bxc4 18.c3 d5 19.exd5 exf4 20.Bd4 Bd6 21.Qh4 Bxd5 22.Bxd5 Nxd5 23.Bxg7 Ne3 24.Bd4 Ne5 25.Ne4 Re6 26.Rxf4 Ng6 27.Nf6+ Kf8 28.Qh6+ Ke7 29.Rf3 Bf4 30.Ng8+ Ke8 31.Qxh7 Nf5 32.Nf6+ Rxf6 33.Bxf6 Qd6 1-0

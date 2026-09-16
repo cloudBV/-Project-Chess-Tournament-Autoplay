@@ -1,0 +1,14 @@
+[Event "Round 3: Amonatov, Farrukh - Tureshbayev, Anuar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-rapid-rap/round-3/ouxGQVoQ/DVgr1p4e"]
+[Date "2026.07.02"]
+[Round "3.1"]
+[White "Amonatov, Farrukh"]
+[Black "Tureshbayev, Anuar"]
+[Result "1-0"]
+[WhiteElo "2593"]
+[BlackElo "2246"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c4 b4 13.Nc2 Rb8 14.g3 O-O 15.Bg2 Be6 16.O-O g6 17.Qd3 Bg7 18.Rad1 a5 19.b3 a4 20.f4 exf4 21.gxf4 Qa5 22.Nde3 axb3 23.axb3 Qa2 24.e5 Na5 25.Nd4 dxe5 26.Ra1 Qb2 27.Nxe6 fxe6 28.Rxa5 exf4 29.Ng4 Rbd8 30.Qe4 Rd2 31.Kh1 h5 32.Qxe6+ Kh8 33.Qxg6 hxg4 34.Rh5+ Kg8 35.Be4 1-0

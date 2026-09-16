@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "15.3"]
+[White "Raczek, Krzysztof"]
+[Black "Jasiulewicz, Dawid"]
+[Result "1/2-1/2"]
+[WhiteElo "2458"]
+[BlackElo "2085"]
+[ECO "A07"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.g3 d5 2.Nf3 Nd7 3.d4 Nb6 4.a4 a5 5.Bg2 Bf5 6.b3 e6 7.O-O h6 8.Nbd2 Nf6 9.c4 c6 10.e3 Be7 11.Ba3 O-O 12.Bxe7 Qxe7 13.Qc1 Nbd7 14.Qb2 Rfe8 15.Rfc1 Qb4 16.c5 b6 17.cxb6 Qxb6 18.Qa3 Rec8 19.Rc3 c5 20.Rac1 Qb4 21.Qa1 Rc7 22.dxc5 Rxc5 23.Nd4 Rac8 24.Rxc5 Rxc5 25.Rxc5 Nxc5 26.Qc1 Bg6 27.Nc6 Nxb3 28.Nxb3 Qxb3 29.Ne7+ Kh7 30.Nxg6 Kxg6 31.h3 Qxa4 32.Qb1+ Ne4 33.f3 Qb4 34.Qxb4 axb4 35.fxe4 b3 36.exd5 f5 37.Bf1 e5 38.Bd3 e4 39.Bc4 b2 40.Ba2 Kf6 41.Kf2 Ke5 42.Ke2 g5 43.Kd2 h5 44.h4 gxh4 45.gxh4 b1=Q 46.Bxb1 Kxd5 47.Ba2+ Ke5 48.Bf7 f4 49.Bxh5 fxe3+ 50.Kxe3 Kf6 51.Kxe4 1/2-1/2

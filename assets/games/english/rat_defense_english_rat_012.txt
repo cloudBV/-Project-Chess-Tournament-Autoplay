@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.22"]
+[Round "3.14"]
+[White "Sevcikova, Lucia"]
+[Black "Jansa, Vlastimil"]
+[Result "0-1"]
+[WhiteElo "2130"]
+[BlackElo "2387"]
+[ECO "A41"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Rat Defense: English Rat"]
+
+1.d4 d6 2.c4 e5 3.g3 exd4 4.Qxd4 Nc6 5.Qd1 Nf6 6.Bg2 Be6 7.Bd5 g6 8.Nc3 Bg7 9.Nf3 O-O 10.O-O Qd7 11.Bxe6 fxe6 12.a3 Rae8 13.Qc2 Ng4 14.h3 Nge5 15.Nxe5 Nxe5 16.b3 d5 17.f4 Nc6 18.Bb2 dxc4 19.Rad1 Qe7 20.bxc4 Qc5+ 21.Kh2 Qxc4 22.Rd7 Re7 23.Rfd1 Rxd7 24.Rxd7 Rf7 25.Rd2 Nd4 26.Qe4 Rd7 27.Kg2 Qb3 28.e3 Nf5 29.Rxd7 Qxb2+ 30.Kf3 Qb3 31.Ne2 Nd6 32.Qb4 Qd5+ 33.e4 Qd3+ 34.Kf2 Nxe4+ 35.Ke1 Qxd7 36.Qxe4 c6 37.Qa4 a6 38.Qb3 b5 39.Qe3 Bf8 40.g4 Qd5 41.Ng3 Bc5 42.Qe2 Bxa3 43.Ne4 Be7 44.g5 a5 45.h4 a4 46.h5 gxh5 47.Ng3 a3 48.Qxh5 a2 49.Qe8+ Bf8 50.Qa8 Qg2 51.Nh5 a1=Q+ 0-1

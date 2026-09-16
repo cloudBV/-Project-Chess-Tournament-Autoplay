@@ -1,0 +1,15 @@
+[Event "Round 5: Barreiro Rebolo, Luis - Luque Saiz, Andres"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-5/kmsEEmHH/a8IvH6ZR"]
+[Date "2026.07.16"]
+[Round "5.5"]
+[White "Barreiro Rebolo, Luis"]
+[Black "Luque Saiz, Andres"]
+[Result "0-1"]
+[WhiteElo "2156"]
+[BlackElo "2371"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Bxd2+ 6.Qxd2 b6 7.Qf4 Bb7 8.e3 Ne4 9.h4 f5 10.b3 d6 11.Ng5 Qe7 12.Bb2 Nd7 13.Nxe4 fxe4 14.Qg3 Rf6 15.Be2 Raf8 16.h5 R8f7 17.Bg4 Qf8 18.d5 e5 19.Bxd7 Rxd7 20.Ke2 Rdf7 21.Raf1 b5 22.Rh4 bxc4 23.bxc4 Qe8 24.Rxe4 Qa4 25.Kd3 Qb3+ 26.Bc3 Bxd5 27.cxd5 Qxd5+ 28.Rd4 exd4 29.Bxd4 Qb5+ 0-1

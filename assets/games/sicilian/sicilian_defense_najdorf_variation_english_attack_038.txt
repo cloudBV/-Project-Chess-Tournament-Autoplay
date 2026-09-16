@@ -1,0 +1,14 @@
+[Event "Round 4: Al Ibrahim, Abdulrahman - Liu, Bei"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/ZWE3Sbbt"]
+[Date "2026.07.16"]
+[Round "4.19"]
+[White "Al Ibrahim, Abdulrahman"]
+[Black "Liu, Bei"]
+[Result "0-1"]
+[WhiteElo "2016"]
+[BlackElo "2175"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.O-O Nc6 10.Re1 Be6 11.Bf1 b5 12.a4 b4 13.Nd5 Nxe4 14.Bb6 Qb8 15.a5 Nf6 16.Nc7 Qb7 17.Nxa8 Rxa8 18.Ng5 Bd7 19.Nf3 Be6 20.Nd2 d5 21.c3 Nd7 22.Be3 Bd8 23.f4 bxc3 24.bxc3 d4 25.cxd4 exd4 26.Bf2 Bxa5 27.Bd3 Nc5 28.Bf1 Bc3 29.Rb1 Qc7 30.g3 Rd8 31.Qc2 g6 32.Rbd1 Nb4 33.Qb1 Bf5 34.Qc1 Ncd3 35.Qa3 Nxe1 0-1

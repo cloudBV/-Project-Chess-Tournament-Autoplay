@@ -1,0 +1,14 @@
+[Event "Round 2: Bucher, Dominic - Marinkovic, Zoran"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-2/Fqq497j0/f9iNLyli"]
+[Date "2026.07.19"]
+[Round "2.48"]
+[White "Bucher, Dominic"]
+[Black "Marinkovic, Zoran"]
+[Result "0-1"]
+[WhiteElo "2078"]
+[BlackElo "2037"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Nxd4 7.Qxd4 h6 8.Bh4 g5 9.Bg3 Bg7 10.Bc4 Be6 11.Bxe6 fxe6 12.Qa4+ Qd7 13.Qxd7+ Kxd7 14.O-O-O Nh5 15.Na4 Kc6 16.f3 b5 17.Nc3 Bxc3 18.bxc3 Nf4 19.Rd2 Rac8 20.Bf2 a6 21.g3 Ng6 22.Rhd1 Ne5 23.Bd4 Nxf3 24.Bxh8 Nxd2 25.Bg7 Nxe4 26.Re1 d5 27.Bxh6 Kd7 28.Bg7 Nxc3 29.Bxc3 Rxc3 30.Re5 g4 31.Kd2 Rc4 32.Rh5 Kd6 33.Rh8 Ke5 34.Re8 Kf6 35.Rf8+ Kg7 36.Rd8 Ra4 37.Rd7 Kf6 38.Rd8 Rxa2 39.Rg8 Ra4 40.Kc3 Rc4+ 41.Kb3 e5 42.Ra8 Ra4 43.Rf8+ Ke6 44.Rg8 Kd6 45.Rg5 e6 46.Kc3 Rc4+ 47.Kb3 Re4 48.Rg8 a5 49.Rd8+ Kc5 50.Rc8+ Kd4 51.Rb8 Re3+ 52.Kb2 Kc4 53.Rc8+ Kb4 54.Rc6 a4 55.c3+ Ka5 56.Rxe6 Re2+ 57.Ka3 Rc2 58.Rc6 d4 59.c4 Rxc4 60.Re6 b4+ 61.Kb2 Rc5 62.Rg6 Kb5 63.Rxg4 Kc4 64.Re4 a3+ 65.Kb1 Kd3 66.Re1 b3 67.h4 Rc2 68.h5 a2+ 69.Ka1 Kd2 70.Rg1 Rc1+ 71.Rxc1 Kxc1 72.h6 b2+ 73.Kxa2 b1=Q+ 74.Ka3 Qb6 75.h7 Qh6 0-1

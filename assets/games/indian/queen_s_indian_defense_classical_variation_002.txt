@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/iE26mE2P"]
+[Date "2026.07.09"]
+[Round "-"]
+[White "Mkrtchyan, Mariam"]
+[Black "Narva, Mai"]
+[Result "0-1"]
+[WhiteElo "2199"]
+[BlackElo "2342"]
+[ECO "E17"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Queen's Indian Defense: Classical Variation"]
+
+1.Nf3 Nf6 2.g3 e6 3.c4 b6 4.Bg2 Bb7 5.O-O Be7 6.d4 d5 7.cxd5 exd5 8.Nc3 O-O 9.Ne5 Na6 10.Qa4 c5 11.Nc6 Qe8 12.Nxe7+ Qxe7 13.Bg5 Rfd8 14.Rfd1 h6 15.Bxf6 Qxf6 16.dxc5 Nxc5 17.Qd4 Qe7 18.Nxd5 Qxe2 19.Re1 Qh5 20.g4 Rxd5 21.Bxd5 Qxd5 22.Qxd5 Bxd5 23.Rad1 Bxa2 24.b4 Ne6 25.Kg2 a5 26.bxa5 bxa5 27.Kg3 Bb3 28.Ra1 a4 29.Re3 Nd4 30.f4 Nc2 0-1

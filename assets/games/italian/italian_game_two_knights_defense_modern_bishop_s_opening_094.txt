@@ -1,0 +1,15 @@
+[Event "Round 7: Tanenbaum, Zachary - Lyutsinger, Iren"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-7/bCaGsiCi/u2TPfq8T"]
+[Date "2026.07.18"]
+[Round "7.12"]
+[White "Tanenbaum, Zachary"]
+[Black "Lyutsinger, Iren"]
+[Result "1/2-1/2"]
+[WhiteElo "2310"]
+[BlackElo "2258"]
+[ECO "C55"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5 9.c3 Nc6 10.Na3 h6 11.Bd2 a6 12.h3 Be6 13.Bxe6 fxe6 14.Qb3 Qd7 15.Nc4 Bd8 16.a5 Nh5 17.Qd1 Nf4 18.g3 Ng6 19.Kg2 Bc7 20.b4 d5 21.Nb2 Rf7 22.Nh2 Raf8 23.f3 cxb4 24.cxb4 Bd6 25.Qb1 Nd4 26.Qd1 Qb5 27.Rf1 Bxb4 28.Rb1 Bxd2 29.Qxd2 Rc7 30.Nc4 Qe8 31.Ne3 Qd7 32.Rb6 Rfc8 33.Rf2 Rc6 34.Qb2 Rxb6 35.Qxb6 Rc6 36.Qb4 h5 37.h4 Ne7 38.Rb2 Rc7 39.Qd2 Kf7 40.Nd1 Qa4 41.Nf2 Qa1 42.Rb6 Rc1 43.Rxb7 Rg1+ 44.Kh3 Rb1 45.Rc7 Nb5 46.Rb7 Nd4 47.Rxb1 Qxb1 48.Qg5 g6 49.Qxe5 Ne2 50.exd5 Ng1+ 51.Kg2 Nxd5 52.Ne4 Nxf3 53.Nd6+ Ke7 54.Nxf3 Qxd3 55.Nc8+ Kd8 56.Qd6+ Kxc8 57.Qxe6+ Kc7 58.Qf7+ Kd6 59.Qf8+ Kc7 60.Qf7+ Kc8 61.Qe8+ Kc7 1/2-1/2

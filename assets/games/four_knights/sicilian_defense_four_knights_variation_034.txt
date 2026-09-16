@@ -1,0 +1,14 @@
+[Event "Round 7: Gloeckler, Christian - Savitha Shri B"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-7/XL83IlpS/MSM5JoCd"]
+[Date "2026.07.02"]
+[Round "7.1"]
+[White "Gloeckler, Christian"]
+[Black "Savitha Shri B"]
+[Result "1-0"]
+[WhiteElo "2506"]
+[BlackElo "2368"]
+[ECO "B45"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 Bb4 7.O-O Bxc3 8.bxc3 Nxe4 9.Nxc6 dxc6 10.Bd3 Nf6 11.Ba3 Qa5 12.Qc1 h6 13.Rb1 Qc7 14.Qe3 b6 15.c4 c5 16.Bb2 Bb7 17.Be5 Qc6 18.Qg3 Ne4 19.Qxg7 O-O-O 20.f3 Nd2 21.Qxf7 Rhg8 22.Rbd1 Rdf8 23.Qxf8+ Rxf8 24.Rxd2 Qa4 25.Re2 b5 26.Bd6 Re8 27.Bg3 bxc4 28.Bg6 Re7 29.Bd6 Rg7 30.Rxe6 Bd5 31.Rf6 Rxg6 32.Rxg6 Qxc2 33.Rg7 Qd3 34.Bxc5 c3 35.Re1 Qb5 36.Be3 c2 37.Rxa7 Qd3 38.Kf2 Qc4 39.Rc1 Kb8 40.Ra5 Qd3 41.Rxd5 Qxd5 42.Rxc2 h5 43.Rd2 Qc4 44.h3 Qh4+ 45.Kf1 Qc4+ 46.Kg1 Kb7 47.g4 Qc3 48.Kf2 h4 49.Ke2 Qc4+ 50.Rd3 Qxa2+ 51.Bd2 Qe6+ 52.Re3 Qa6+ 53.Ke1 Qd6 54.f4 Qd5 55.f5 Qh1+ 56.Ke2 Qg2+ 57.Kd1 Qf1+ 58.Be1 Kb6 59.Kd2 Qg2+ 60.Kd3 Qf1+ 61.Kc3 Kc5 62.Bxh4 Qc1+ 63.Kd3 Kd5 64.Be1 Qc4+ 65.Kd2 Qf1 66.Bh4 Qg2+ 67.Ke1 Qc2 68.Bf2 Qc4 69.Bg3 Kd4 70.Kf2 Qc2+ 71.Re2 Qc6 72.Kg1 Kd3 73.Re1 Qf3 74.Bf2 Kd2 75.Re3 Qf4 76.Kg2 Kd1 77.Re1+ Kc2 78.Re2+ Kd1 79.Bg3 Qd4 80.Rf2 Qf6 81.h4 1-0

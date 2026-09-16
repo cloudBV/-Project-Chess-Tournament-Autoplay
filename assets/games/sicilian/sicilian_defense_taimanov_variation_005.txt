@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-6/7dL2aEPn/wpGd3ms4"]
+[Date "2026.07.02"]
+[Round "6.10"]
+[White "Piccoli, Lucas Fonseca"]
+[Black "Alonso, Salvador"]
+[Result "1/2-1/2"]
+[WhiteElo "2290"]
+[BlackElo "2442"]
+[ECO "B45"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.g4 h6 7.h4 Be7 8.Be3 a6 9.Qd2 Nf6 10.Rg1 Nxd4 11.Qxd4 e5 12.Qd1 Be6 13.g5 hxg5 14.hxg5 Nh5 15.Nd5 Rc8 16.c3 g6 17.Qa4+ Kf8 18.Bb6 Qe8 19.Qxe8+ Kxe8 20.O-O-O Bxd5 21.Rxd5 Nf4 22.Rd1 Rc6 23.Be3 Rh4 24.Kc2 Rc8 25.b3 Ne6 26.Bc4 Kd7 27.Bd5 Kc7 28.Rg3 Rf8 29.a4 Nf4 30.Bc4 Rh5 31.Rdg1 Rh2 32.Rg4 Ne6 33.b4 Rfh8 34.Kb3 R2h4 35.Be2 Rxg4 36.Rxg4 Rh5 37.Rg3 Rh4 38.Rf3 Rh7 39.Bc4 1/2-1/2

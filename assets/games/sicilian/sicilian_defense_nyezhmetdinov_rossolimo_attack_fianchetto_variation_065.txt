@@ -1,0 +1,14 @@
+[Event "Round 5: Cherniaev, Alexander - Alexakis, Dimitris"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-5/QIAesFw1/lTmUYlvA"]
+[Date "2026.07.17"]
+[Round "5.6"]
+[White "Cherniaev, Alexander"]
+[Black "Alexakis, Dimitris"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2525"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Nc3 Bg7 5.d3 Nd4 6.Bc4 a6 7.Nxd4 cxd4 8.Ne2 b5 9.Bd5 Rb8 10.Bf4 d6 11.Qd2 e5 12.Bg5 Ne7 13.Bb3 h6 14.Bxe7 Qxe7 15.O-O O-O 16.c3 dxc3 17.Nxc3 Kh7 18.Nd5 Qd8 19.Rac1 h5 20.Rce1 Bh6 21.Qd1 Bg4 22.f3 Be6 23.Kh1 a5 24.a3 h4 25.d4 a4 26.Ba2 b4 27.axb4 Bxd5 28.Bxd5 Rxb4 29.dxe5 dxe5 30.Re2 Qb6 31.Qc2 Be3 32.Ra1 Bd4 33.Qd1 Rc8 34.Qe1 Rxb2 35.Qxh4+ Kg7 36.Ree1 Bf2 37.Qg4 Bxe1 38.Qxc8 Qf2 0-1

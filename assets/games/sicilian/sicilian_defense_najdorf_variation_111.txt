@@ -1,0 +1,14 @@
+[Event "Round 6: Zhauynbay Aldiyar - Sathvik Adiga"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-6/QotTpT3V/dNVS92q5"]
+[Date "2026.07.19"]
+[Round "6.18"]
+[White "Zhauynbay Aldiyar"]
+[Black "Sathvik Adiga"]
+[Result "0-1"]
+[WhiteElo "2318"]
+[BlackElo "2408"]
+[ECO "B96"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 8.Bh4 Qb6 9.a3 Be7 10.Bf2 Qc7 11.Qf3 Nbd7 12.O-O-O b5 13.g4 Bb7 14.Kb1 Rb8 15.g5 hxg5 16.fxg5 Ne5 17.Qg2 Nh5 18.g6 Bc8 19.gxf7+ Kxf7 20.Be2 Nf4 21.Qg3 g5 22.h4 Nxe2 23.Ncxe2 gxh4 24.Qf4+ Ke8 25.Rdg1 Rf8 26.Qh2 Qb7 27.Bxh4 Qxe4 28.Bxe7 Kxe7 29.Qh6 Nf7 30.Qg7 Bd7 31.Rh7 Qe5 32.Qxe5 dxe5 33.Nf3 Rh8 34.Rxf7+ Kxf7 35.Nxe5+ Ke8 36.Rd1 Rb7 37.Rd6 Bc8 38.Nd4 Rh1+ 39.Ka2 Re1 40.Nd3 Re3 41.Rxa6 Ke7 42.Ra8 Bd7 43.Nc5 Rc7 44.Nxd7 Kxd7 45.c3 Rb7 46.Ra5 Re5 47.a4 Rd5 48.Rxb5 Rbxb5 49.Nxb5 e5 50.Kb3 Rd2 51.Na3 e4 52.Nc4 Re2 53.a5 e3 54.Ne5+ Kc7 55.Nc4 Kb7 56.Nd6+ Ka6 57.Nf5 Rxb2+ 0-1

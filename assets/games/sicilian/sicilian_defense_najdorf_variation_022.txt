@@ -1,0 +1,15 @@
+[Event "Round 8: Khubukshanov, Erdem - Yeganegi, Barad"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-8/vS6StQiv/1QvLd5Jr"]
+[Date "2026.07.04"]
+[Round "8.6"]
+[White "Khubukshanov, Erdem"]
+[Black "Yeganegi, Barad"]
+[Result "0-1"]
+[WhiteElo "2523"]
+[BlackElo "2376"]
+[ECO "B94"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Be3 Nc5 8.f3 e5 9.Nb3 Nxb3 10.axb3 Be6 11.Bc4 Rc8 12.Qe2 Be7 13.O-O Qc7 14.Bxe6 fxe6 15.f4 O-O 16.fxe5 dxe5 17.Bg5 h6 18.Bxf6 Bxf6 19.Qg4 Qc6 20.Kh1 Bg5 21.Ne2 Qxc2 22.Qxe6+ Kh7 23.Qg4 Qxb2 24.h4 Bxh4 25.Rab1 Qd2 26.Rf5 Bf6 27.Ng3 Rc1+ 28.Rxc1 Qxc1+ 29.Kh2 Qc8 30.Qf3 Be7 31.Qf2 Rxf5 32.Nxf5 Bg5 33.Nd6 Qd7 34.Nc4 Qg4 35.Nd6 Qh5+ 0-1

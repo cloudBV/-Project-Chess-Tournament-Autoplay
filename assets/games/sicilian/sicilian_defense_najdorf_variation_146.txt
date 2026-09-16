@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.19"]
+[White "Jarmula, Lukasz"]
+[Black "Stary, Simon"]
+[Result "1-0"]
+[WhiteElo "2412"]
+[BlackElo "2171"]
+[ECO "B90"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O 9.Ng3 Be6 10.Nd5 Nxd5 11.exd5 Bc8 12.f4 Nd7 13.Kh1 g6 14.f5 Nf6 15.Bh6 Re8 16.Qf3 g5 17.Bxg5 e4 18.Nxe4 Nxe4 19.Bxe7 Qxe7 20.Rae1 Qf6 21.Rxe4 Bd7 22.Rb4 b5 23.Qh5 h6 24.Qh4 1-0

@@ -1,0 +1,15 @@
+[Event "Round 4: Kleymenova, Valeria - Saranya Devi Narahari"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-g18/round-4/cFLuvjuJ/fovrxJ8r"]
+[Date "2026.07.16"]
+[Round "4.1"]
+[White "Kleymenova, Valeria"]
+[Black "Saranya Devi Narahari"]
+[Result "1/2-1/2"]
+[WhiteElo "2262"]
+[BlackElo "2097"]
+[ECO "A08"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nf6 4.O-O g6 5.d4 cxd4 6.Nxd4 Bg7 7.c4 O-O 8.Na3 Nc6 9.cxd5 Nxd5 10.Nxc6 bxc6 11.Qa4 Qb6 12.e4 Nb4 13.Be3 c5 14.Rfd1 Ba6 15.Qb3 Rad8 16.Nc4 Qe6 17.Rxd8 Rxd8 18.Rd1 Rxd1+ 19.Qxd1 Bd4 20.Bxd4 cxd4 21.b3 Bxc4 22.Qxd4 Bxb3 23.Qxb4 Bxa2 24.Qb8+ Kg7 25.Qxa7 Qb3 26.Qd4+ f6 27.e5 Qb1+ 28.Bf1 Be6 29.exf6+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Round 8: Fodor, Tamas Jr. - Bailet, Pierre"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-8/lNTkMvHK/akMB1200"]
+[Date "2026.07.17"]
+[Round "8.2"]
+[White "Fodor, Tamas Jr."]
+[Black "Bailet, Pierre"]
+[Result "1/2-1/2"]
+[WhiteElo "2494"]
+[BlackElo "2410"]
+[ECO "E40"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Rubinstein System"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Kf8 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "X-ти Мемориал БОГОМИЛ АНДОНОВ * 4-5 юли * гр. Кюстендил * НФ : 4350 евро"]
+[Site "гр. Кюстендил, МЛАДЕЖКИ ЦЕНТЪР, ул. \"Марин Дринов\" 18, Bulgaria"]
+[Date "2026.07.04"]
+[Round "6.3"]
+[White "Genov, Petar"]
+[Black "Dyulgerov, Dimitar"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2000"]
+[ECO "B40"]
+[TimeControl "15 minutes + 10 seconds"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 Nf6 5.Bg2 d5 6.Nbd2 Be7 7.O-O O-O 8.e5 Nd7 9.Re1 Qc7 10.Qe2 Rb8 11.Nf1 b5 12.h4 Ba6 13.Bf4 Rfc8 14.N1h2 c4 15.d4 c3 16.b3 Qb6 17.Red1 b4 18.Qe3 Bf8 19.Bh3 Ne7 20.g4 Qb5 21.Re1 Ra8 22.h5 Nb8 23.Ng5 h6 24.Ngf3 Nbc6 25.g5 hxg5 26.Nxg5 Qb6 27.Nhf3 Nf5 28.Bxf5 exf5 29.e6 f6 30.Nf7 Re8 31.Rad1 Nd8 32.Nxd8 Raxd8 33.Nh4 Bc8 34.Qg3 Rxe6 35.Bc7 Bd6 36.Bxb6 Bxg3 37.Bxd8 Bxh4 38.Rxe6 Bxe6 39.Ba5 f4 40.Bxb4 1-0

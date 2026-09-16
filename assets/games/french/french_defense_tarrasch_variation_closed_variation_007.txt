@@ -1,0 +1,15 @@
+[Event "Blitz Boys 10"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "17.2"]
+[White "Savchuk, Oleksandr"]
+[Black "Netrebka, Myron"]
+[Result "0-1"]
+[WhiteElo "2182"]
+[BlackElo "2043"]
+[ECO "C05"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.c3 c5 6.Bd3 Nc6 7.Ne2 Rb8 8.O-O b5 9.Nf3 Be7 10.Be3 b4 11.Rc1 c4 12.Bb1 bxc3 13.bxc3 Qa5 14.Ng3 Nb6 15.Nh5 g6 16.Nf6+ Bxf6 17.exf6 Na4 18.Qe1 Ba6 19.Bf4 Rd8 20.Ng5 Bc8 21.Qe3 h6 22.Nf3 g5 23.Bg3 Nb6 24.Rfe1 Nd7 25.h4 g4 26.Ne5 Ndxe5 27.dxe5 Qb6 28.Qf4 d4 29.Qxg4 d3 30.Qg7 Rf8 31.Rcd1 Kd7 32.Qxh6 Kc7 33.Qf4 Ba6 34.Kh2 Rh8 35.a4 Na5 36.Ba2 Qb2 37.Bb1 Qxc3 38.Qe4 Bb7 39.Qf4 Qd4 40.Qd2 Nb3 41.Qb4 Rdg8 42.Bxd3 cxd3 43.Qxb3 Rxh4+ 44.Kg1 Rgh8 45.Rc1+ Kb8 46.Bxh4 Qxh4 47.f3 0-1

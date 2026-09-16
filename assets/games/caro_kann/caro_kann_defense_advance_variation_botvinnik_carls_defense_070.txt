@@ -1,0 +1,14 @@
+[Event "Round 3: Heinke, Jasper - Uphoff, Lennart"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-3/EFWoXZQM/eDHYVNOS"]
+[Date "2026.07.20"]
+[Round "3.14"]
+[White "Heinke, Jasper"]
+[Black "Uphoff, Lennart"]
+[Result "0-1"]
+[WhiteElo "2064"]
+[BlackElo "2288"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Be3 Nh6 6.c3 Nf5 7.Bd4 Bd7 8.Nf3 Nc6 9.Bd3 Nfxd4 10.cxd4 b6 11.cxb6 Qxb6 12.O-O Nxd4 13.Nxd4 Qxd4 14.Nc3 Qxe5 15.Re1 Qd6 16.Rc1 a6 17.b4 Be7 18.b5 a5 19.Qh5 h6 20.Rcd1 Rc8 21.Ne2 O-O 22.Nd4 Bf6 23.Nf3 Rc5 24.a4 Qf4 25.Ne5 d4 26.Ng6 Qd6 27.Qg4 Rg5 28.Qf4 e5 0-1

@@ -1,0 +1,14 @@
+[Event "Round 3: Amonatov, Farrukh - Fernandes Barbosa Dos Santos, Gabriel"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-3/T68Yzjat/B7QsObeU"]
+[Date "2026.07.19"]
+[Round "3.3"]
+[White "Amonatov, Farrukh"]
+[Black "Fernandes Barbosa Dos Santos, Gabriel"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2167"]
+[ECO "B77"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.h4 Rc8 11.Bb3 h5 12.O-O-O Nxd4 13.Bxd4 b5 14.g4 a5 15.gxh5 Nxh5 16.Bxg7 Kxg7 17.a3 b4 18.axb4 axb4 19.Nd5 Qa5 20.Qxb4 Qa1+ 21.Kd2 Qxb2 22.Ke3 e6 23.Rb1 Qe5 24.f4 Nxf4 25.Nxf4 Rc3+ 26.Nd3 Qg3+ 27.Kd2 Rfc8 28.Qxc3+ 1-0

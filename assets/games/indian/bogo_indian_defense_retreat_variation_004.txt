@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.15"]
+[White "Rostomyan, Mikayel"]
+[Black "Amaya, Brayan Angel"]
+[Result "1-0"]
+[WhiteElo "2293"]
+[BlackElo "2021"]
+[ECO "E11"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 Ne4 8.O-O f5 9.Bf4 c6 10.Ne1 Bf6 11.Bxb8 Rxb8 12.e3 Nd6 13.Nd2 Kh8 14.Nd3 Qe7 15.b3 Bd7 16.Nf3 Nf7 17.Nfe5 g6 18.Qc3 Nxe5 19.dxe5 Bg7 20.f4 Rfd8 21.Rfd1 Be8 22.c5 b6 23.Rac1 Bf8 24.Qd4 Rb7 25.Rd2 Rdb8 26.Rdc2 Kg8 27.Bf3 bxc5 28.Nxc5 Rb5 29.Be2 Rb4 30.Qd2 R4b6 31.Qa5 Rd8 32.Rd1 Rdb8 33.Qc3 Kf7 34.Rdc1 Kg8 35.Kf2 Kf7 36.Qd2 Rd8 37.a3 Qc7 38.b4 Qb8 39.Nb3 Rc8 40.h3 Qb7 41.Na5 Qe7 42.Rc3 Qd8 43.Nb3 Be7 44.Nd4 Qd7 45.Nb3 Qd8 46.Kg1 Rc7 47.Kh2 Qc8 48.Qc2 Qb8 49.g4 Kg8 50.Nc5 Bxc5 51.Rxc5 Qd8 52.g5 Re7 53.Qc3 Kg7 54.h4 h5 55.Qd4 Qb8 56.Kg2 Kf7 57.Kf2 Kg7 58.Ke1 Kf7 59.Kd2 Qa8 60.R1c3 Qb8 61.Ra5 Qb7 62.Kc1 Qb8 63.Kb2 Qb7 64.Rac5 Qb8 65.Rb3 Reb7 66.Kc3 Re7 67.Kd2 Reb7 68.Rbc3 Re7 69.Ke1 Qb7 70.Qd1 Qb8 71.Kf2 Qb7 72.Qc1 Qa8 73.Qc2 Rb8 74.Ba6 Rb6 75.Be2 Rb8 76.Qc1 Rb6 77.Bd1 Qd8 78.Qd2 Qa8 79.Ba4 Ra6 80.Qc2 Qd8 81.Bxc6 Bxc6 82.Rxc6 Rxc6 83.Rxc6 d4 84.Rd6 dxe3+ 85.Kxe3 Qb8 86.Qc6 a5 87.b5 Qa7+ 88.b6 Qa6 89.Rd7 Qf1 90.Rxe7+ Kxe7 91.Qd6+ Kf7 92.Qd7+ Kf8 93.Qd8+ Kg7 94.Qf6+ Kh7 95.Qf7+ Kh8 96.Qf8+ Kh7 97.Qh6+ Kg8 98.Qxg6+ Kh8 99.Qxh5+ Kg8 100.Qg6+ Kh8 101.Qh6+ Kg8 102.Qxe6+ Kh8 103.Kd4 Qf2+ 104.Kd5 a4 105.Kc6 Kh7 106.Qxf5+ Kh8 107.Kb7 Qg2+ 108.Ka7 Qd5 109.Qc8+ 1-0

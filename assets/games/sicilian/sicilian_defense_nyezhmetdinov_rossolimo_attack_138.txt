@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.20"]
+[White "Bouska, Jiri"]
+[Black "Horak, Martin"]
+[Result "1/2-1/2"]
+[WhiteElo "2298"]
+[BlackElo "2091"]
+[ECO "B30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 Bg4 6.h3 Bh5 7.g4 Bg6 8.Nbd2 Qc7 9.b3 e5 10.Bb2 Nd7 11.Nc4 f6 12.Qe2 Be7 13.Ne3 Nf8 14.Nf5 Ne6 15.O-O-O O-O-O 16.Kb1 Rhe8 17.Qe3 Bf8 18.Ne1 a5 19.Ng2 a4 20.Rhf1 Qa5 21.f4 Nd4 22.fxe5 fxe5 23.Qe1 Qa6 24.Nfh4 b5 25.Nxg6 hxg6 26.Rf7 c4 27.dxc4 bxc4 28.Qf1 Qb5 29.Ne3 axb3 30.cxb3 cxb3 31.axb3 Nxb3 32.Rxd8+ Rxd8 33.Qxb5 cxb5 34.Bxe5 Bd6 35.Bxg7 Nd2+ 36.Kc2 Nxe4 37.Nd5 Bc5 38.Rc7+ Kb8 39.Be5 Bd6 40.Bxd6 Rxd6 41.Re7 Rxd5 42.Rxe4 g5 43.Re7 Kc8 44.Kc3 Kd8 45.Rg7 Ke8 46.Kb4 Kf8 47.Rb7 Rd3 48.Rh7 Kg8 49.Rh5 Rd5 50.h4 Rd4+ 51.Kxb5 Rxg4 52.Rxg5+ Rxg5+ 53.hxg5 Kg7 54.g6 Kxg6 1/2-1/2

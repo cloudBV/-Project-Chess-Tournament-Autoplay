@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.10"]
+[Round "7.11"]
+[White "Di Benedetto, Edoardo"]
+[Black "Suarez Alvarez, Miguel"]
+[Result "1-0"]
+[WhiteElo "2470"]
+[BlackElo "2180"]
+[ECO "A15"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 b6 4.g3 Bb7 5.Bg2 c5 6.O-O Be7 7.Bb2 O-O 8.Nc3 d6 9.d4 Nbd7 10.d5 exd5 11.Ne1 Rb8 12.cxd5 a6 13.Nc2 b5 14.Ne3 Re8 15.a4 Qb6 16.a5 Qc7 17.Qd2 Bf8 18.Nf5 Bc8 19.Nd1 Ne5 20.Nh4 g6 21.f4 Ned7 22.Nf2 b4 23.Rfc1 Rb5 24.e4 Bg7 25.Re1 Nh5 26.Bxg7 Nxg7 27.Ng4 Rxa5 28.Rxa5 Qxa5 29.e5 Qd8 30.Nh6+ Kf8 31.Nf3 f6 32.e6 Nb6 33.f5 Bb7 34.fxg6 hxg6 35.Nh4 Nxe6 36.dxe6 Bxg2 37.e7+ Rxe7 38.Nxg6+ Kg7 39.Nxe7 Bh3 40.Nhf5+ 1-0

@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.05.19"]
+[Round "2.1"]
+[White "Biro, Beata"]
+[Black "Kiraly, Lilla Virag"]
+[Result "1/2-1/2"]
+[WhiteElo "2084"]
+[BlackElo "2080"]
+[ECO "A45"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "Indian Defense: Tartakower Attack"]
+
+1.d4 Nf6 2.g3 g6 3.Bg2 Bg7 4.e4 d6 5.Ne2 O-O 6.O-O Nbd7 7.Nbc3 a5 8.h3 e5 9.Be3 exd4 10.Nxd4 Re8 11.Ndb5 Ne5 12.b3 Bd7 13.Rb1 Bc6 14.Nd4 Bd7 15.f4 Nc6 16.Qd2 Re7 17.Rbe1 Qe8 18.Bf2 a4 19.g4 Nxd4 20.Bxd4 Bc6 21.Qd3 axb3 22.cxb3 Ra5 23.a4 Ra8 24.Kh2 Nd7 25.Bxg7 Kxg7 26.b4 b6 27.b5 Bb7 28.Qg3 Nc5 29.e5 Bxg2 30.Qxg2 dxe5 31.Nd5 Rd7 32.fxe5 Qd8 33.Rd1 Rxa4 34.e6 Nxe6 35.Qb2+ Kh6 36.Qe5 Ra2+ 37.Kg1 Qg5 38.Qe4 Qh4 39.Qe3+ Ng5 40.Rd3 Kg7 41.Qe5+ Kh6 42.Nf6 Rd8 43.Re3 Rda8 44.Rd3 Ne6 45.Rdf3 Qg5 46.Qe4 Qc5+ 47.Kh1 Ng5 48.Qf4 R8a4 49.Qe3 Qxe3 50.Rxe3 Rc2 51.h4 Ne6 52.Rg3 Kg7 53.h5 Rf4 54.Rxf4 Nxf4 55.Ne8+ Kf8 56.Nf6 Rc1+ 57.Kh2 Rc2+ 58.Kh1 h6 59.g5 hxg5 60.h6 Rc4 61.Re3 Ne6 62.Ra3 Rh4+ 63.Kg2 Nf4+ 64.Kf2 Nh5 65.Ra8+ Ke7 66.Nd5+ Kd6 67.h7 Ng7 68.h8=Q Rxh8 69.Rxh8 Kxd5 70.Rh7 Ne6 71.Rxf7 Ke5 72.Kg3 Kd5 73.Rf6 Nd4 74.Rxg6 Nxb5 75.Rxg5+ Kc4 76.Kf2 Nd4 77.Ke3 c5 78.Rg6 b5 79.Kd2 b4 80.Kc1 Ne2+ 81.Kb2 Nd4 82.Rh6 Kd3 83.Rh3+ Kd2 84.Rh2+ Kd3 85.Rh3+ Kc4 86.Rh8 Nc6 87.Rh5 Na5 88.Rh4+ Kb5 89.Rh5 Nc4+ 90.Kc2 Ne3+ 91.Kb3 Nd1 92.Kc2 Nf2 93.Kb3 Ne4 94.Rf5 Nd6 95.Rh5 Nb7 96.Rg5 Na5+ 97.Kc2 Kc4 98.Rg4+ Kd5 99.Rg5+ Kd4 100.Rg4+ Ke3 101.Rg5 Kd4 102.Rg4+ Kd5 103.Rg5+ Kc6 104.Rg6+ Kb5 105.Rg5 Nc6 106.Rh5 Kc4 107.Kb2 Nd4 108.Rh8 Kd5 109.Rh5+ Kd6 110.Rh6+ Ne6 111.Kb3 Kd5 112.Rh5+ Kd4 113.Rh4+ Kd5 114.Rh5+ Kd4 115.Rh4+ Kd5 116.Rh5+ 1/2-1/2

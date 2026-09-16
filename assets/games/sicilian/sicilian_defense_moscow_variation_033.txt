@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "7.2"]
+[White "Bouska, Jiri"]
+[Black "Balint, Peter"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2377"]
+[ECO "B51"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 Nf6 5.O-O cxd4 6.Nxd4 e6 7.Re1 a6 8.Bf1 Be7 9.c4 O-O 10.Nc3 Qc7 11.Qd3 Ne5 12.Qe2 b6 13.h3 Bb7 14.f4 Ned7 15.e5 dxe5 16.fxe5 Bc5 17.Qe3 Qxe5 18.Qxe5 Nxe5 19.Be3 Rfd8 20.Nxe6 Bxe3+ 21.Rxe3 fxe6 22.Rxe5 Rd2 23.Rxe6 Rxb2 24.Na4 Rc2 25.Rxb6 Be4 26.Nc5 Rd8 27.Rxf6 gxf6 28.Nxe4 f5 29.Nc5 a5 30.a4 f4 31.Ne6 Rb8 32.Nxf4 Rb4 33.Nd5 Rbb2 34.Re1 Ra2 35.Re8+ Kf7 36.Re7+ Kf8 37.Rc7 Rxa4 38.c5 Ra1 39.c6 Rcc1 40.Ne3 Re1 41.Kf2 Rec1 42.Rc8+ Ke7 43.Ba6 Ra2+ 44.Kf3 Rc3 45.Ke4 Ra4+ 46.Nc4 Raxc4+ 47.Bxc4 Rxc4+ 48.Kd5 Rc2 49.Rc7+ Kd8 50.Rd7+ Kc8 51.Rxh7 Rxg2 52.Rh8+ Kc7 53.Rh7+ Kc8 54.h4 a4 55.Ra7 Rg4 56.h5 Rh4 57.Kd6 Rd4+ 58.Kc5 Rh4 59.h6 Rh1 60.h7 Rh5+ 61.Kb6 1-0

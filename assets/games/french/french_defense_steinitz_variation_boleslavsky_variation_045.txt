@@ -1,0 +1,14 @@
+[Event "Round 3: Mendonca, Leon Luke - Velten, Paul"]
+[Site "https://lichess.org/broadcast/dole-open-aix-en-provence-2026/round-3/tYbazjLj/7zDASZ6l"]
+[Date "2026.07.20"]
+[Round "3.3"]
+[White "Mendonca, Leon Luke"]
+[Black "Velten, Paul"]
+[Result "1-0"]
+[WhiteElo "2616"]
+[BlackElo "2490"]
+[ECO "C11"]
+[Variant "Standard"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.h4 Be7 10.h5 cxd4 11.Nxd4 Nxd4 12.Bxd4 b4 13.Na4 Bb7 14.Qe3 Bc6 15.Nb6 Nxb6 16.Bxb6 Qd7 17.Bd4 O-O 18.O-O-O Bb5 19.g4 Rfc8 20.Rh2 Rab8 21.Bh3 b3 22.axb3 a5 23.f5 a4 24.f6 Bb4 25.c3 axb3 26.Kd2 Ra8 27.Ke1 Bf8 28.g5 Ra2 29.g6 Rca8 30.Qg3 fxg6 31.hxg6 h6 32.Rhd2 Ra1 33.Qg4 Rxd1+ 34.Rxd1 Ra6 35.Kf2 Qc7 36.f7+ Kh8 37.Kg3 Qd8 38.Bf1 Qd7 39.Bxb5 Qxb5 40.Kf2 Ra2 41.Rd2 Ra1 42.Qe2 Qb7 43.Rd1 Rxd1 44.Qxd1 Qb5 45.Ke3 Qa4 46.Qf1 Qa2 47.Qc1 Qa6 48.Kd2 Qa4 49.Qf1 Qa2 50.c4 Qa4 51.Qf3 Qxc4 52.Qd3 Bb4+ 53.Ke2 Qc1 54.Qc3 Qc2+ 55.Qxc2 bxc2 56.Be3 h5 57.Kd3 h4 58.Kxc2 h3 59.Bf4 Be7 60.Kd3 Bc5 61.Ke2 Bb4 62.Kf3 1-0

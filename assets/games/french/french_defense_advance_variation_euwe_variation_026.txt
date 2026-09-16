@@ -1,0 +1,14 @@
+[Event "Round 4: Beerdsen, Thomas - Stojanovic, Mihajlo"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-4/haUh3hFS/I4dzFOF7"]
+[Date "2026.06.03"]
+[Round "4.1"]
+[White "Beerdsen, Thomas"]
+[Black "Stojanovic, Mihajlo"]
+[Result "0-1"]
+[WhiteElo "2504"]
+[BlackElo "2401"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.a3 Nge7 7.b4 cxd4 8.cxd4 b5 9.Nc3 a6 10.Bd3 Nc8 11.O-O Be7 12.Be3 Nb6 13.Nd2 Rc8 14.Rc1 Nc4 15.Nxc4 bxc4 16.Bc2 Na7 17.f4 Nb5 18.Nxb5 axb5 19.f5 exf5 20.Bxf5 Bxf5 21.Rxf5 O-O 22.Qg4 Rc6 23.Rcf1 Qd7 24.Qf3 Qe6 25.Qg3 c3 26.Bc1 c2 27.Qd3 Rc4 28.R1f2 Qc6 29.Rh5 h6 30.Rh3 Rc8 31.Kf1 Qb6 32.Qf5 Qxd4 33.Qxf7+ Kh8 34.Rf6 Qd1+ 35.Kf2 Qxc1 36.Qxe7 Qd2+ 37.Kf3 Rc3+ 38.Kg4 Qg5# 0-1

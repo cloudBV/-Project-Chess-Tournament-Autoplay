@@ -1,0 +1,15 @@
+[Event "La Plagne 6th Edition July 2026 - Master tournament"]
+[Site "La Plagne, France"]
+[Date "2026.07.05"]
+[Round "2.4"]
+[White "GEMELLI, Romain"]
+[Black "Sonis, Francesco"]
+[Result "0-1"]
+[WhiteElo "2281"]
+[BlackElo "2540"]
+[ECO "A13"]
+[TimeControl "90 + 30 per move"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.Nf3 c5 5.O-O Nc6 6.e3 Nf6 7.exd4 cxd4 8.d3 h6 9.Re1 Bd6 10.Na3 O-O 11.Nc2 a5 12.a3 e5 13.Rb1 a4 14.Bd2 Re8 15.Nb4 Bd7 16.b3 axb3 17.Qxb3 Na5 18.Qa2 Bf5 19.c5 Bc7 20.Rbc1 Nc6 21.Qb3 Qd7 22.Re2 e4 23.dxe4 Nxe4 24.Qb2 d3 25.Re3 Nxd2 26.Qxd2 Rxa3 27.Rxe8+ Qxe8 28.Nxc6 bxc6 29.Qb2 Qa8 30.Qd4 Ra4 31.Qe3 Ra1 32.Bf1 Rxc1 33.Qxc1 Qd8 34.Qe3 Ba5 35.Nd4 d2 36.Be2 Bc2 37.Nxc2 d1=Q+ 38.Bxd1 Qxd1+ 39.Kg2 Qxc2 40.Qe8+ Kh7 41.Qxc6 f5 0-1

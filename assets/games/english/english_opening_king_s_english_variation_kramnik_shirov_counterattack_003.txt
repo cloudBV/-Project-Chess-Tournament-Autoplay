@@ -1,0 +1,15 @@
+[Event "Round 7: Cordova, Emilio - Liu, Eric"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/round-7/2q8QHmt1/4KRHpgnn"]
+[Date "2026.07.03"]
+[Round "7.21"]
+[White "Cordova, Emilio"]
+[Black "Liu, Eric"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2442"]
+[ECO "A21"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.e3 Bxc3 4.bxc3 d6 5.Qc2 Ne7 6.d4 O-O 7.Nf3 Nbc6 8.Ba3 f5 9.c5 e4 10.cxd6 cxd6 11.Nd2 d5 12.c4 Be6 13.cxd5 Bxd5 14.Bc4 Rf6 15.Qb3 Qd7 16.Rb1 Rb8 17.O-O Qe6 18.Rfc1 f4 19.Bxe7 Nxe7 20.Bxd5 Nxd5 21.Rc5 Rf5 22.exf4 b6 23.Re1 Rd8 24.Rxe4 Qf7 25.Rc2 Rxf4 26.Rxf4 Qxf4 27.Nf3 Qe4 28.Rc1 h6 29.Re1 Qf4 30.g3 Qf5 31.Re5 Qf7 32.h4 Nf6 33.Re7 Qxb3 34.axb3 Rc8 35.Rxa7 Rc3 36.Ne5 Rxb3 37.g4 g5 38.h5 Rb1+ 39.Kg2 Rd1 40.Ra8+ Kg7 41.Rd8 b5 42.Kf3 b4 43.Ke2 Rg1 44.Rb8 Nxg4 45.Rxb4 Nf6 46.Rb7+ Kg8 47.Nf7 Nxh5 48.Nxh6+ Kf8 49.Kf3 Nf4 50.Ke4 Ke8 51.Nf7 Re1+ 52.Kf5 Ne6 53.Kf6 Nf4 54.Kxg5 Nd5 55.Nd6+ Kd8 56.Kf5 Ne7+ 57.Kf4 Nd5+ 58.Kf3 Re6 59.Nf5 Kc8 60.Rb5 Nf6 61.d5 Re5 62.Kf4 Re4+ 63.Kg5 Ne8 64.Ra5 Kc7 65.Ra7+ Kd8 66.f4 Nc7 67.d6 Ne6+ 68.Kf6 Nxf4 69.Ne7 Re6+ 70.Kf5 Rxd6 71.Kxf4 Re6 72.Nd5 Re1 73.Kf5 Kc8 74.Nf6 Kb8 75.Rh7 Kc8 76.Ne4 Rd1 77.Ke6 Kb8 78.Nd6 Re1+ 79.Kd7 Rc1 80.Ke6 Re1+ 81.Kd5 Rd1+ 82.Kc5 Rc1+ 83.Kb6 Rb1+ 84.Nb5 Kc8 85.Kc5 Rc1+ 86.Kd5 Rd1+ 87.Nd4 Kd8 88.Ke5 Kc8 89.Kd5 Kd8 90.Ra7 Ke8 91.Ke5 Re1+ 92.Kf6 Kd8 93.Ne6+ Kc8 94.Ke7 Rd1 1-0

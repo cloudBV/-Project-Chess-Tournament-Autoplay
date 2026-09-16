@@ -1,0 +1,15 @@
+[Event "Round 4: Hernandez Placeres, Ronald - Rodriguez Rivera, Pedro"]
+[Site "https://lichess.org/broadcast/iii-torneo-internacional-jose-celso-barbosa-grupo-a/round-4/lB64ecBd/ZW6q4txJ"]
+[Date "2026.07.24"]
+[Round "4.3"]
+[White "Hernandez Placeres, Ronald"]
+[Black "Rodriguez Rivera, Pedro"]
+[Result "0-1"]
+[WhiteElo "2058"]
+[BlackElo "2144"]
+[ECO "C03"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 h6 4.Bd3 Nf6 5.e5 Nfd7 6.c3 c5 7.f4 Nc6 8.Ne2 Qb6 9.Nf3 cxd4 10.cxd4 Bb4+ 11.Kf1 Be7 12.a3 a5 13.b3 Nf8 14.g4 Bd7 15.Bb2 Na7 16.Nc3 Ng6 17.f5 Nf4 18.Bc2 h5 19.gxh5 Nxh5 20.Kf2 Nb5 21.Nxb5 Qxb5 22.fxe6 Bxe6 23.Bc1 Qd7 24.Qd3 g6 25.a4 Bf5 26.Qe2 Rc8 27.Bd3 Bxd3 28.Qxd3 Qh3 29.Rg1 Kf8 30.Bd2 Bb4 31.Rac1 Kg7 32.Rxc8 Rxc8 33.Rc1 Rxc1 34.Bxc1 Be7 35.Bd2 b6 36.Ke2 Bb4 37.Bxb4 Nf4+ 0-1

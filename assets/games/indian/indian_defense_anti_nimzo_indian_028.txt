@@ -1,0 +1,14 @@
+[Event "Round 3: Castro Lombana, Juan Pablo - Dominguez, Ramiro"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-3/0mvRyt4P/hFLaUU89"]
+[Date "2026.07.11"]
+[Round "3.6"]
+[White "Castro Lombana, Juan Pablo"]
+[Black "Dominguez, Ramiro"]
+[Result "1/2-1/2"]
+[WhiteElo "2275"]
+[BlackElo "2135"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 b6 5.Bg2 Bb7 6.O-O Nbd7 7.cxd5 Nxd5 8.e4 N5f6 9.e5 Nd5 10.Nc3 c5 11.Ne4 Be7 12.Bg5 O-O 13.dxc5 Bxg5 14.Nfxg5 bxc5 15.Qh5 h6 16.Nxf7 Rxf7 17.Nd6 Qe7 18.Nxb7 Rf5 19.Qxf5 exf5 20.Bxd5+ Kh7 21.Nxc5 Rb8 22.Nxd7 Qxd7 23.Rad1 Qe7 24.Rfe1 Rxb2 25.e6 Qc5 26.Rf1 Re2 27.Bb3 Qe5 28.Rd7 h5 29.e7 Qf6 30.Rxa7 h4 31.Ra4 hxg3 32.hxg3 Qxe7 33.Rf4 g6 34.Rd1 Kh6 35.Kg2 Qb7+ 36.Bd5 Qb6 37.Bc4 Rb2 38.Bd5 Qc5 39.a4 Kg5 40.Rdd4 Kf6 41.Ba8 Rc2 42.Bb7 g5 43.Rd5 gxf4 44.Rxc5 Rxc5 45.gxf4 Rc4 46.a5 1/2-1/2

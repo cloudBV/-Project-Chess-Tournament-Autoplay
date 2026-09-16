@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-2/nmLaqPdy/o1u4XB1p"]
+[Date "2026.07.09"]
+[Round "2.1"]
+[White "Zajakins, Artjoms"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2060"]
+[BlackElo "2616"]
+[ECO "E11"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.g3 b6 6.Bg2 Bb7 7.O-O Bxd2 8.Qxd2 cxd4 9.Nxd4 Bxg2 10.Kxg2 d5 11.cxd5 Qxd5+ 12.Nf3 Nc6 13.Rc1 Rc8 14.Qxd5 Nxd5 15.Ne5 Nde7 16.Nxc6 Nxc6 17.Nc3 Ke7 18.Rd1 Rhd8 19.Rac1 Ne5 20.Rxd8 Kxd8 21.Rd1+ Ke7 22.Nb1 Nc4 23.b3 Nd6 24.f3 b5 25.Kf2 Rc2 26.Rd2 Rc1 27.Na3 Ra1 28.Rc2 a5 29.e4 b4 30.Nc4 Nxc4 31.bxc4 Kd6 32.c5+ Kc6 33.Ke3 Rd1 34.f4 Rd7 35.g4 a4 36.Rc1 Kb5 37.c6 Rc7 38.Kd4 Rxc6 39.Rxc6 Kxc6 40.Kc4 b3 41.axb3 a3 42.Kc3 Kb5 43.h4 g6 44.g5 Ka5 45.e5 Kb5 46.b4 Ka4 47.b5 Kxb5 48.Kb3 Kc5 49.Kxa3 Kd5 50.Kb4 Ke4 51.Kc5 Kxf4 52.Kd6 Kf5 53.Ke7 Kxe5 54.Kxf7 Kf5 55.Kg7 e5 56.Kxh7 e4 57.h5 e3 58.hxg6 e2 59.g7 e1=Q 60.g8=Q Qh4+ 61.Kg7 Qxg5+ 62.Kf8 Ke5 1/2-1/2

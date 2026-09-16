@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/rJe6jZMo"]
+[Date "2026.07.08"]
+[Round "-"]
+[White "Padmini, Rout"]
+[Black "Bodnaruk, Anastasia"]
+[Result "0-1"]
+[WhiteElo "2206"]
+[BlackElo "2251"]
+[ECO "B92"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Qd3 Be6 10.Nd5 Bxd5 11.exd5 a5 12.a4 Nbd7 13.Be3 Qc7 14.c3 e4 15.Qb5 Nc5 16.Nxc5 dxc5 17.c4 Bd6 18.g3 Nd7 19.f4 exf3 20.Rxf3 Rae8 21.Qb3 f5 22.Raf1 g6 23.Qc3 Rf7 24.Bd1 Be5 25.Qc2 Nf6 26.b3 Ng4 27.Kh1 Bxg3 28.Bxc5 Qxc5 29.Rxg3 Ne3 30.Qf2 f4 31.Rf3 Qd6 32.Rg1 b6 33.Bc2 Qe5 34.Bb1 Rf6 35.h4 Kh8 36.Rh3 Ref8 37.Qf3 Nf5 38.Bxf5 Rxf5 39.Rd1 R5f6 40.h5 g5 41.h6 Qf5 42.Rh5 Rg6 43.Rg1 Re8 44.Qg2 Re5 45.Qf3 Re3 46.Qf1 f3 47.d6 Re8 48.d7 Rd8 49.Qa1+ Kg8 50.Qc1 f2 51.Rf1 Qf3+ 52.Kh2 Qxh5+ 0-1

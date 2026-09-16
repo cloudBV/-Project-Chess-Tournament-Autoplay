@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.23"]
+[Round "26.9"]
+[White "HeimdallHCE 1.6.0-beta-3f9c44"]
+[Black "RenegadeHCE 1.3.1"]
+[Result "1-0"]
+[WhiteElo "3246"]
+[BlackElo "3310"]
+[ECO "E87"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c5 8.Bd3 Nh5 9.Nge2 f5 10.exf5 Bxf5 11.O-O Nd7 12.Bc2 Ndf6 13.Bg5 Qc8 14.a4 Bxc2 15.Qxc2 Rf7 16.h3 Qf8 17.Rae1 Nd7 18.Bd2 Nhf6 19.g4 Ne8 20.Ne4 Bf6 21.f4 Bh4 22.Rd1 Nc7 23.Ng5 Bxg5 24.fxg5 Qe7 25.Rxf7 Qxf7 26.Rf1 Qe7 27.Ng3 Rf8 28.Ne4 Rxf1+ 29.Kxf1 Nb8 30.Kg2 Ne8 31.a5 Qc7 32.h4 b5 33.axb6 axb6 34.Qa4 Qd7 35.Qxd7 Nxd7 36.Kf3 Kf7 37.h5 Ke7 38.h6 Nc7 39.Ke3 Na6 40.Kd3 Nc7 41.Kc2 Ne8 42.Kb3 Nc7 43.Ka3 Ne8 44.Ka4 Kd8 45.Be1 Kc7 46.Kb5 Kb7 47.Bf2 Kc7 48.b4 Kc8 49.bxc5 bxc5 50.Kc6 Nb8+ 51.Kb6 Nd7+ 52.Ka7 Kc7 53.Be1 Kc8 54.Ba5 Nf8 55.Bc3 Kc7 56.Ba5+ Kc8 57.Kb6 Nd7+ 58.Kb5 Kb7 59.Bd8 Kc8 60.Be7 Kc7 61.Ka6 Nb6 62.Bd8+ Kxd8 63.Kxb6 Kd7 64.Nc3 Kc8 65.Kc6 Kd8 66.Ne4 Ke7 67.Nf6 Nxf6 68.gxf6+ Kxf6 69.Kxd6 e4 70.Kc6 e3 71.d6 e2 72.d7 Ke7 73.Kc7 Kf7 74.d8=Q e1=Q 75.Qd5+ Ke7 76.Qxc5+ Ke6 77.Qd5+ Ke7 78.g5 Qg3+ 79.Kc6 Qb3 80.Qd7+ Kf8 81.Qg7+ Ke8 82.Qg8+ Ke7 83.Qxh7+ Kf8 84.Qg7+ Ke8 85.Qd7+ Kf8 86.Qc8+ Kf7 87.Qb7+ Qxb7+ 88.Kxb7 Ke6 89.h7 Ke5 90.h8=Q+ Ke4 91.c5 Ke3 92.c6 Ke2 93.Qd4 Kf3 94.c7 Ke2 95.c8=Q Kf1 96.Qe3 Kg2 97.Qch3# 1-0

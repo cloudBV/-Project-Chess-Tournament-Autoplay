@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "7.9"]
+[White "Zieba, Hubert"]
+[Black "Terkiewicz, Bruno"]
+[Result "1-0"]
+[WhiteElo "2198"]
+[BlackElo "2267"]
+[ECO "E60"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.Nc3 c6 7.e4 Bg4 8.h3 Bxf3 9.Bxf3 Nfd7 10.Be3 a6 11.h4 b5 12.b3 e5 13.d5 c5 14.h5 f5 15.hxg6 hxg6 16.Bh6 Bxh6 17.Rxh6 Qg5 18.Qd2 Qxd2+ 19.Kxd2 b4 20.Nd1 Kg7 21.Rh4 Nf6 22.exf5 a5 23.a4 bxa3 24.fxg6 Nbd7 25.Rxa3 Nb6 26.Nc3 e4 27.Bxe4 a4 28.Bc2 Nfd7 29.Rf4 axb3 30.Rxa8 Rxf4 31.gxf4 Nxa8 32.Bxb3 Kxg6 33.Ne4 Nab6 34.Nxd6 Nf6 35.Kd3 Ng4 36.Ne4 Kf5 37.f3 Nh2 38.Ke3 Nd7 39.Bc2 Nb6 40.Nxc5+ Kf6 41.Ne4+ Kf7 42.Nd2 Ke7 43.Kf2 Kd6 44.Kg2 Kc5 45.Kxh2 Kd4 46.Be4 Nd7 47.Kg3 Kc3 48.Bf5 Nb6 49.d6 Kxd2 50.d7 1-0

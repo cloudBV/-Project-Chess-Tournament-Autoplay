@@ -1,0 +1,15 @@
+[Event "Round 8: Fedorov, Alexei - Advik Amit Agrawal"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-8/MepvA1QL/FdfOMqqg"]
+[Date "2026.06.30"]
+[Round "8.1"]
+[White "Fedorov, Alexei"]
+[Black "Advik Amit Agrawal"]
+[Result "1/2-1/2"]
+[WhiteElo "2399"]
+[BlackElo "2318"]
+[ECO "B33"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 O-O 13.g3 Be6 14.Bg2 Bxd5 15.cxd5 Nd4 16.Nxd4 exd4 17.Qd3 Rc8 18.O-O Qc7 19.Rfd1 Qc2 20.Qxa6 d3 21.Qxd3 Bxb2 22.Rab1 Qxd3 23.Rxd3 Bc3 24.Rc1 Ra8 25.Rc2 Ra3 26.Re3 Rfa8 27.Ree2 Kf8 28.h4 Ke7 29.Kh2 Kf8 30.Kg1 Ke7 31.Kh2 1/2-1/2

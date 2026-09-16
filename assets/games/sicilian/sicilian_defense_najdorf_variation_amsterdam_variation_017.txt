@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "5.3"]
+[White "Pasztor, Balazs"]
+[Black "Khechumyan, Gagik"]
+[Result "1-0"]
+[WhiteElo "2404"]
+[BlackElo "2187"]
+[ECO "B93"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 g6 7.e5 dxe5 8.fxe5 Ng4 9.e6 f5 10.h3 Bg7 11.hxg4 Bxd4 12.gxf5 Bxc3+ 13.bxc3 Qxd1+ 14.Kxd1 gxf5 15.Rh6 O-O 16.Bf4 Kg7 17.Bd3 Rf6 18.Rh5 Bxe6 19.Be5 Kg6 20.g4 Rf8 21.Bf4 Nc6 22.Ke2 Rad8 23.Rh6+ Kf7 24.gxf5 Bxf5 25.Bxf5 Ke8 26.Bc7 Rxf5 27.Bxd8 Kxd8 28.Rxh7 Kc7 29.Rh4 Rg5 30.Rf1 Kd6 31.Kd2 Rg3 32.Rf5 Rg1 33.Re4 Rg3 34.Re3 Rg1 35.Rf4 Kc5 36.Re6 Kd5 37.Rh6 Kc5 38.Re4 Rf1 39.Re1 Rf3 40.Rb1 b5 41.Rg1 Kd5 42.Rg7 Kc5 43.Rgg6 Kd5 1-0

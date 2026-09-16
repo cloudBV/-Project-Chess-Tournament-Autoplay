@@ -1,0 +1,15 @@
+[Event "Round 9: Kueh, Audrey - Greet, Andrew N"]
+[Site "https://lichess.org/broadcast/scottish-international-open-2026-championship/round-9/ySsvfQW3/B2xuGYnr"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Kueh, Audrey"]
+[Black "Greet, Andrew N"]
+[Result "0-1"]
+[WhiteElo "2106"]
+[BlackElo "2413"]
+[ECO "C07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 cxd4 5.Nxd4 Nf6 6.exd5 Nxd5 7.N2f3 Bb4+ 8.Bd2 O-O 9.Bxb4 Nxb4 10.c3 Nd5 11.Bc4 a6 12.O-O b5 13.Bd3 Bb7 14.Re1 Nd7 15.Qc2 h6 16.Rad1 Rc8 17.Qd2 Qf6 18.Be4 Rfd8 19.Qe2 Nc5 20.Bb1 Nf4 21.Qc2 g6 22.Re3 Na4 23.Rde1 Nxg2 24.Kxg2 Rxd4 25.cxd4 Rxc2 26.Bxc2 Nxb2 27.Be4 Bxe4 28.Rxe4 Nd3 29.Rd1 Qf5 30.Re3 Qg4+ 31.Kf1 Nf4 32.Rc3 b4 33.Rb3 a5 34.a4 Qg2+ 35.Ke1 g5 36.Rc1 g4 37.Nd2 Qh1+ 38.Nf1 Qe4+ 39.Re3 Qxd4 40.Rd1 Ng2+ 41.Ke2 Qc4+ 42.Red3 Nf4+ 0-1

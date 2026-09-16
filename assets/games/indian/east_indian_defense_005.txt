@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.04"]
+[Round "6.12"]
+[White "Padhya Saumil"]
+[Black "Karthik Venkataraman"]
+[Result "0-1"]
+[WhiteElo "2293"]
+[BlackElo "2566"]
+[ECO "A48"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 d5 4.b3 Bg7 5.Bb2 O-O 6.e3 a5 7.c4 c6 8.Be2 Na6 9.O-O Bf5 10.a3 Ne4 11.Nxe4 Bxe4 12.Bd3 Nc5 13.Bxe4 dxe4 14.Ne1 a4 15.b4 Nb3 16.Rb1 b5 17.f3 Bh6 18.Qe2 e5 19.Rd1 exd4 20.Bxd4 Qe7 21.f4 Nxd4 22.Rxd4 Bg7 23.Rd1 Qe6 24.Nc2 Rad8 25.Nd4 Qxc4 26.Qxc4 bxc4 27.Nxc6 Rd3 28.Rc1 Rxa3 29.Rxc4 Rxe3 30.b5 a3 31.Ra4 Rb3 32.f5 Bb2 33.Nd4 Bxd4+ 34.Rxd4 Ra8 35.fxg6 hxg6 36.Rxe4 a2 37.Ree1 Rxb5 38.Ra1 Rb2 39.h3 Rab8 40.h4 R8b4 41.h5 gxh5 42.Rac1 Rb1 0-1

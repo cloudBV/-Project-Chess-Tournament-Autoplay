@@ -1,0 +1,14 @@
+[Event "Round 4: Papaioannou, Dimitrios - Boutikos, Eleftherios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-4/3TwtfqO8/vTYK0q18"]
+[Date "2026.06.29"]
+[Round "4.1"]
+[White "Papaioannou, Dimitrios"]
+[Black "Boutikos, Eleftherios"]
+[Result "1-0"]
+[WhiteElo "2348"]
+[BlackElo "2189"]
+[ECO "E29"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, Capablanca Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 c5 7.Bd3 Nc6 8.Ne2 b6 9.e4 Ne8 10.O-O Ba6 11.f4 f5 12.Ng3 g6 13.Be3 Nf6 14.dxc5 Ng4 15.Qe2 Qh4 16.h3 Nxe3 17.Qxe3 bxc5 18.Kh2 Qe7 19.Rae1 Qg7 20.exf5 gxf5 21.Qxc5 Qxc3 22.Qd6 Qd4 23.Rxe6 dxe6 24.Qxe6+ Kh8 25.Qxc6 Qb6 26.Qa4 Bc8 27.Qc2 Qf6 28.Re1 Bd7 29.Nh5 Qd4 30.Rd1 Rab8 31.Bf1 Qb2 32.Qxb2+ Rxb2 33.Rxd7 a6 34.Bd3 Rg8 35.Ng3 Rb3 36.a4 Rg7 37.Rd5 1-0

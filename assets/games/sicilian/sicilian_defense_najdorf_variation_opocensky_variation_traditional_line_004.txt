@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.07.01"]
+[Round "20.5"]
+[White "Gukesh D"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2730"]
+[ECO "B92"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Re1 Be6 10.Bf1 Nbd7 11.a4 Qc7 12.h3 h6 13.Qf3 Rfc8 14.a5 Qc6 15.Rd1 Nf8 16.Rd2 b5 17.axb6 Qxb6 18.Rd1 Ng6 19.Be3 Qb7 20.Na5 Qb4 21.Bd3 Bd8 22.Nb3 Qb7 23.Qe2 a5 24.Nb5 Ne8 25.c4 a4 26.Nd2 Bb6 27.Qf3 Bxe3 28.Qxe3 Rc6 29.Ra3 Rca6 30.Bf1 Ne7 31.Nb1 Nc6 32.N1c3 Nd4 33.Rd2 Nb3 34.Rd1 Nd4 35.Bd3 Nc7 36.Rda1 Nb3 37.Rd1 Nd4 38.f4 f6 39.Rd2 Nb3 40.Rf2 Nc5 41.Bf1 Qb6 42.fxe5 fxe5 43.Ra1 Ne8 44.Rd1 Nb3 45.Qg3 Rc8 46.Kh2 Qd8 47.Rd3 Nc5 48.Rdf3 Qe7 49.Qg6 Nd7 50.c5 Nxc5 51.Nd5 Bxd5 52.exd5 e4 53.Rf7 Qe5+ 54.Kh1 Nd7 55.Rxd7 e3 56.Qf7+ Kh7 57.Bd3+ 1-0

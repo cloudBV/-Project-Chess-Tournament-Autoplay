@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "6.2"]
+[White "Vykouk, Jan"]
+[Black "Rasik, Vitezslav"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "2381"]
+[ECO "B40"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Pin Variation, Koch Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Nd5 7.Bd2 Bxc3 8.bxc3 O-O 9.c4 Ne7 10.Bd3 Nbc6 11.Nf3 Ng6 12.Qe2 d6 13.Bxg6 fxg6 14.Rd1 Rf5 15.Bc3 d5 16.O-O Qe7 17.Qd3 dxc4 18.Qxc4 Bd7 19.Rd6 Raf8 20.Rfd1 Bc8 21.R1d3 g5 22.h3 Rf4 23.Qc5 Qf7 24.Nxg5 Qg6 25.Rg3 Qxc2 26.Nxe6 Bxe6 27.Rxe6 Qxf2+ 28.Qxf2 Rxf2 29.Rd6 R8f7 30.e6 Rf1+ 31.Kh2 Re7 32.Rd7 Rxd7 33.exd7 g6 34.Rd3 Rf8 35.Be5 Ra8 1-0

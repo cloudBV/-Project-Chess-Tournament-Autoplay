@@ -1,0 +1,15 @@
+[Event "Round 6: Avsar, Gediz - Lisenkov, Svyatoslav"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-6/oAPnuQgO/Y857J3qt"]
+[Date "2026.07.23"]
+[Round "6.4"]
+[White "Avsar, Gediz"]
+[Black "Lisenkov, Svyatoslav"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2336"]
+[ECO "B51"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O g6 6.Re1 Bg7 7.c3 O-O 8.d4 e5 9.Bg5 h6 10.Bh4 a6 11.Bc2 b5 12.dxe5 Nxe5 13.Nxe5 dxe5 14.Qxd8 Rxd8 15.f3 Be6 16.Bf2 c4 17.b4 cxb3 18.axb3 Rdc8 19.b4 Ne8 20.Bd3 Nd6 21.Bc5 Nb7 22.Be3 Bd7 23.Bf1 Bf8 24.Rd1 Be8 25.Kf2 a5 26.bxa5 Nxa5 27.Rd5 Bc6 28.Rd1 Nc4 29.Rxa8 Rxa8 30.Bxc4 bxc4 31.Nd2 Ra2 32.Kg3 f5 33.f4 Rc2 34.Nxc4 exf4+ 35.Kxf4 Bxe4 36.Rd8 Kf7 37.Bd4 Be7 38.Rb8 Bg5+ 39.Ke5 Bf6+ 40.Kf4 Bxd4 41.Nd6+ Ke6 1/2-1/2

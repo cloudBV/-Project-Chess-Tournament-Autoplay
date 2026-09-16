@@ -1,0 +1,14 @@
+[Event "Round 11: Herrera, Juan Sebastian - Herrera Jimenez, Mateo"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-absoluto/round-11/3AgRxUoN/1mUSFn34"]
+[Date "2026.07.11"]
+[Round "11.12"]
+[White "Herrera, Juan Sebastian"]
+[Black "Herrera Jimenez, Mateo"]
+[Result "0-1"]
+[WhiteElo "2209"]
+[BlackElo "2025"]
+[ECO "E71"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Nf3 e5 7.d5 a5 8.Be3 Na6 9.a3 Nc5 10.Nd2 a4 11.Bxc5 dxc5 12.Nxa4 b6 13.Nc3 Ne8 14.Bd3 Nd6 15.Nf3 f5 16.Qd2 fxe4 17.Nxe4 Rxf3 18.gxf3 Qh4 19.Qg5 Qxg5 20.Nxg5 e4 21.fxe4 Bxb2 22.Ra2 Bc3+ 23.Ke2 Bd7 24.f4 Re8 25.e5 Bxe5 26.fxe5 Rxe5+ 27.Kf3 Rxg5 28.Rg2 Rh5 29.h4 Bf5 30.Bxf5 Rxf5+ 31.Ke2 Nxc4 32.h5 g5 33.Kd3 Nd6 34.h6 Rxd5+ 35.Kc2 Kf7 36.Re1 Nf5 37.Rf2 Kf6 38.Re8 g4 39.Rf8+ Kg5 40.Rg8+ Kxh6 41.Rxg4 Ne3+ 42.Kc3 Nxg4 43.Rf7 Ne5 44.Rxc7 Rd3+ 45.Kb2 Nc4+ 46.Kc2 Rxa3 47.Rc6+ Kg5 0-1

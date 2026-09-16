@@ -1,0 +1,14 @@
+[Event "Rapid C14"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "6.3"]
+[White "Diachek, Andrii"]
+[Black "Kiszkiel, Oskar"]
+[Result "1/2-1/2"]
+[WhiteElo "2181"]
+[BlackElo "2236"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c5 6.d4 cxd4 7.Nxd4 Nc6 8.Nc3 d6 9.Nc2 Be6 10.b3 Rc8 11.Bb2 a6 12.Qd2 Qa5 13.Rfd1 Rfd8 14.Ne3 b5 15.Ncd5 Qxd2 16.Rxd2 bxc4 17.Bxf6 Bxf6 18.Nxf6+ exf6 19.bxc4 Na5 20.Bd5 Kf8 21.Rb1 Nxc4 22.Nxc4 1/2-1/2

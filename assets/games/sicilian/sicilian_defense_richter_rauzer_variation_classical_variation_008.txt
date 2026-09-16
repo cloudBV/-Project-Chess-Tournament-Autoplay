@@ -1,0 +1,14 @@
+[Event "Round 3: Schneider, Heiko - Van Osch, Mees"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-3/D8R6Y7Fc/qJydQeGh"]
+[Date "2026.07.23"]
+[Round "3.16"]
+[White "Schneider, Heiko"]
+[Black "Van Osch, Mees"]
+[Result "0-1"]
+[WhiteElo "2152"]
+[BlackElo "2326"]
+[ECO "B63"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Classical Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O a6 9.Kb1 Nxd4 10.Qxd4 h6 11.Bxf6 Bxf6 12.Qxd6 Qxd6 13.Rxd6 Ke7 14.Rd3 Bd7 15.f4 g5 16.e5 Bg7 17.g3 Bc6 18.Rg1 h5 19.Bg2 Bxg2 20.Rxg2 Rad8 21.h4 gxf4 22.gxf4 Bh6 23.Rf2 Rhg8 24.Rxd8 Kxd8 25.a4 Rg4 26.f5 Bf4 27.fxe6 fxe6 28.Re2 Rxh4 29.Ne4 Rh1+ 30.Ka2 h4 31.Nc5 Ke7 32.Re4 Rf1 33.Rb4 h3 34.Rxb7+ Ke8 35.Nd3 Bg3 36.Rb8+ Kf7 0-1

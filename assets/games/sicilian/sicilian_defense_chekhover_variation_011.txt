@@ -1,0 +1,15 @@
+[Event "Round 3: Miller, Rachel - Titus, Andrew"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-im-b/round-3/eaiDWXsy/s3kxEHdv"]
+[Date "2026.07.02"]
+[Round "3.1"]
+[White "Miller, Rachel"]
+[Black "Titus, Andrew"]
+[Result "1/2-1/2"]
+[WhiteElo "2010"]
+[BlackElo "2239"]
+[ECO "B53"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nf6 5.Nc3 a6 6.e5 Nc6 7.Qa4 dxe5 8.Nxe5 Bd7 9.Nxd7 Nxd7 10.Bg5 Nc5 11.Qc4 Qd4 12.Be3 Qxc4 13.Bxc4 e6 14.O-O-O Be7 15.Be2 O-O 16.f4 Rac8 17.Bf3 Rc7 18.a3 Rfc8 19.Kb1 Nd7 20.Na4 Nf8 21.Bb6 Rd7 22.Rxd7 Nxd7 23.Bf2 b5 24.Nb6 Nxb6 25.Bxb6 Rb8 26.Bf2 Na5 27.Rd1 Rd8 28.Rxd8+ Bxd8 29.b3 Kf8 30.Ka2 Ke7 31.b4 Nc4 32.Bb7 a5 33.Bc6 Kd6 34.Bxb5 Kd5 35.Ba6 Bc7 36.Bb7+ Kd6 37.Kb3 Nd2+ 38.Ka4 Kd7 39.g3 axb4 40.axb4 h5 41.b5 Nc4 42.Kb4 Bb6 43.Bxb6 Nxb6 44.c4 Kc7 45.Bf3 h4 46.c5 Nd7 47.b6+ Nxb6 48.cxb6+ Kxb6 49.Kc4 Kc7 50.Kd4 Kd6 51.Ke4 g6 52.Bd1 f6 53.Kf3 f5 54.Bb3 Ke7 55.g4 fxg4+ 56.Kxg4 Kf6 57.Kxh4 Kf5 58.Bxe6+ Kxe6 59.Kg5 Kf7 60.Kh6 Kf6 61.h4 Kf7 62.h5 gxh5 63.Kxh5 Kf6 64.Kg4 Kg6 65.f5+ Kf6 66.Kf4 Kf7 67.Ke5 Ke7 68.f6+ Kf7 69.Kf5 Kf8 70.Ke6 Ke8 71.Kf5 Kf8 72.Kg6 Kg8 73.Kg5 Kf7 74.Kf5 Kf8 75.Ke5 Kf7 76.Kf5 Kf8 77.Ke6 Ke8 78.f7+ Kf8 79.Kf6 1/2-1/2

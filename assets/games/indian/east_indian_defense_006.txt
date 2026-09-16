@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "17.1"]
+[White "Praggnanandhaa R"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2707"]
+[BlackElo "2730"]
+[ECO "A48"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "East Indian Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nbd2 d5 4.c4 Bg7 5.cxd5 Nxd5 6.e4 Nb6 7.Nb3 a5 8.Be3 O-O 9.h3 Nc6 10.Be2 f5 11.e5 f4 12.Bc1 Nd5 13.Nc5 b6 14.Ne4 Bf5 15.Bd3 Ndb4 16.Bb1 Qd5 17.Nc3 Qc4 18.a3 Bxb1 19.axb4 Bf5 20.b5 Nb4 21.Ra4 Rad8 22.Bd2 Bc2 23.Rxb4 Qd3 24.Qe2 axb4 25.Qxd3 Bxd3 26.Ne2 Ra8 27.Nc1 Ra1 28.Kd1 Bxb5 29.Bxb4 c5 30.dxc5 Rc8 31.Re1 bxc5 32.Bc3 Rd8+ 33.Kc2 c4 34.b4 cxb3+ 35.Kb2 Ra7 36.Re4 Bc6 37.Rxf4 Bh6 38.Rb4 Bxc1+ 39.Kxc1 Bxf3 40.gxf3 Kf7 41.Rb6 Rc8 42.e6+ Ke8 43.Kb2 Ra2+ 44.Kxb3 Rxf2 45.Bb4 Rxf3+ 46.Ka4 Re3 47.Kb5 Ra8 48.Bc5 Re5 49.Rc6 g5 50.Kb6 Kf8 51.Kb7 Rd8 52.Kc7 Rd3 53.Bb4 Rxh3 54.Rb6 Rhe3 55.Kd7 Rd3+ 56.Kc7 g4 57.Rb8+ Kg7 58.Rb6 g3 59.Bxe7 g2 0-1

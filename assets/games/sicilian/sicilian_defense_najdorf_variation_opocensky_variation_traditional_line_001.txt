@@ -1,0 +1,15 @@
+[Event "Round 7: Guliev, Logman - Sjugirov, Sanan"]
+[Site "https://lichess.org/broadcast/lankaran-open-2026-group-a/round-7/xdqcR2NI/L2sWkIdb"]
+[Date "2026.07.02"]
+[Round "7.2"]
+[White "Guliev, Logman"]
+[Black "Sjugirov, Sanan"]
+[Result "0-1"]
+[WhiteElo "2215"]
+[BlackElo "2544"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O 9.Be3 Be6 10.a4 Nbd7 11.Qd2 Rc8 12.Rfd1 Qc7 13.Qe1 Rfd8 14.Qf1 Nb6 15.Bg5 Nbd7 16.a5 Qc6 17.Bf3 h6 18.Be3 Nh7 19.g3 Bg5 20.Bxg5 Nxg5 21.Bg2 Nh7 22.Nc1 Nhf6 23.Nd3 Qc7 24.Nb4 Qb8 25.Qe2 Rc5 26.Nd3 Rc4 27.Rd2 Qc7 28.f4 Rc6 29.Kh1 Bc4 30.Qd1 Bxd3 31.cxd3 Re8 32.d4 Rc4 33.Bf3 Nf8 34.fxe5 dxe5 35.d5 N8d7 36.Ra4 Rc5 37.Qb3 Rxa5 38.d6 Qc5 39.Rxa5 Qxa5 40.Qxb7 Rb8 41.Qc6 Qa1+ 42.Nd1 g6 43.Kg2 h5 44.Qc3 Qa4 45.Nf2 Kg7 46.h3 Rb6 47.g4 hxg4 48.hxg4 Rc6 49.Qe3 Qb4 50.g5 Nh7 51.Bg4 Rxd6 52.Rd5 Rxd5 53.exd5 Nhf8 54.Qa7 Qb5 55.Qa8 Nb6 56.Qb8 Qxd5+ 57.Bf3 Qd4 58.Qb7 Ne6 59.Ne4 Nf4+ 60.Kh1 Qe3 61.Bg2 Ne2 62.Kh2 Qf4+ 63.Kh1 Qh4+ 0-1

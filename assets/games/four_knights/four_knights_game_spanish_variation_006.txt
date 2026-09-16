@@ -1,0 +1,14 @@
+[Event "Round 5: Montalto, Davide - Bonassi, Tommaso"]
+[Site "https://lichess.org/broadcast/semifinale-cia-2026-e-campionati-italiani-di-categoria/round-5/XlfTK1mi/1rrW9eNR"]
+[Date "2026.07.09"]
+[Round "5.11"]
+[White "Montalto, Davide"]
+[Black "Bonassi, Tommaso"]
+[Result "1/2-1/2"]
+[WhiteElo "2013"]
+[BlackElo "2071"]
+[ECO "C48"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 exd4 6.Nxd4 Bd7 7.Bxc6 bxc6 8.Qf3 c5 9.Nf5 Bxf5 10.exf5 Be7 11.Qc6+ Nd7 12.Nd5 Rc8 13.O-O O-O 14.Qb7 Nb6 15.Nxe7+ Qxe7 16.Bd2 Qe5 17.Qf3 Qd5 1/2-1/2

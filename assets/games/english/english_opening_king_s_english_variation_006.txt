@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/OoDANKVc"]
+[Date "2026.07.04"]
+[Round "8.6"]
+[White "Fiszer, Bartosz"]
+[Black "Rekuc, Patryk"]
+[Result "1-0"]
+[WhiteElo "2344"]
+[BlackElo "2216"]
+[ECO "A21"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.h4 c5 5.d3 Nf6 6.h5 Nc6 7.Bg5 Be7 8.g3 Be6 9.Bg2 a6 10.Bxf6 Bxf6 11.Nd2 Qd7 12.Nd5 Bd8 13.e3 O-O 14.Qe2 Rb8 15.Nb1 Kh8 16.Nbc3 Ba5 17.a4 Rbe8 18.Kf1 Qf7 19.Kg1 Bd7 20.Rh4 Nd8 21.Kh1 Ne6 22.Rg1 Bd8 23.Rh2 f4 24.gxf4 exf4 25.Be4 f3 26.Qf1 Ng5 27.Bg6 Qe6 28.Bxe8 Qxe8 29.Nf4 Kg8 30.b3 Rf5 31.Ncd5 Qe5 32.Qa1 Rf7 33.Qc3 Qe8 34.h6 g6 35.Nh5 Qf8 36.Nhf6+ Rxf6 37.Rxg5 Bc6 38.Rg3 Rf7 39.Rhh3 Bxd5 40.cxd5 Bf6 41.d4 Bh8 42.Qd3 cxd4 43.exd4 Qc8 44.Rxf3 Qc1+ 45.Kg2 Qg5+ 46.Kh2 Rxf3 47.Qxf3 Bxd4 48.Qe4 Be5+ 49.Kh1 Qc1+ 50.Kg2 Qg5+ 51.Kf3 b5 52.Qg4 Qd2 53.Kg2 Qxd5+ 54.Rf3 Qa8 55.Qe6+ Kh8 56.Qe7 1-0

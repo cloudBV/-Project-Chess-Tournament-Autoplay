@@ -1,0 +1,15 @@
+[Event "Round 7: Kiszkiel, Oskar - Svanda, Ondrej"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/8kmyZvkp"]
+[Date "2026.07.19"]
+[Round "7.21"]
+[White "Kiszkiel, Oskar"]
+[Black "Svanda, Ondrej"]
+[Result "1/2-1/2"]
+[WhiteElo "2232"]
+[BlackElo "2375"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Keres Variation"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.O-O Nd7 1/2-1/2

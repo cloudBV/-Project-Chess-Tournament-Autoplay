@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "4.6"]
+[White "Rekuc, Patryk"]
+[Black "Sawicki, Dorian"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2059"]
+[ECO "B40"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 a6 5.g3 b5 6.Bg2 Bb7 7.O-O Qc7 8.Re1 d6 9.d4 cxd4 10.Nxd4 Nf6 11.Nd2 Be7 12.c4 Nxd4 13.Bxd4 O-O 14.Rc1 Qd7 15.Qe2 Rac8 16.Rc2 Bc6 17.Rec1 Qb7 18.f3 Nd7 19.Bf1 Bf6 20.Qf2 Ne5 21.h3 h6 22.f4 Nd7 23.Bg2 e5 24.Be3 exf4 25.Bxf4 Ne5 26.Qf1 Rfe8 27.Bxh6 bxc4 28.bxc4 Qa7+ 29.Kh2 Qd4 30.Nb3 Qd3 31.Bf4 Qxf1 32.Rxf1 Ba8 33.Bxe5 Bxe5 34.Rd1 Re6 35.Rd3 Kf8 36.h4 Ke7 37.Re3 Rh6 38.Kg1 Rg6 39.Kf2 Rf6+ 40.Kg1 Rg6 41.Kf2 Rf6+ 42.Bf3 Rg6 43.g4 Rh6 44.h5 Rf6 45.Ree2 Rf4 46.Kg2 g6 47.hxg6 fxg6 48.Nc1 Rf7 49.Nd3 Bd4 50.Rc1 Rh8 51.Rf1 Rfh7 52.Kg3 Rh3+ 53.Kf4 Rf8+ 54.Kg5 Bf6+ 55.Kxg6 Bd4 56.Bg2 Rxf1 57.Bxh3 Rf3 58.Nb4 Rxh3 59.Nxa6 Rg3 60.Kf5 Be5 61.Nc7 Bc6 62.g5 Bd7+ 1-0

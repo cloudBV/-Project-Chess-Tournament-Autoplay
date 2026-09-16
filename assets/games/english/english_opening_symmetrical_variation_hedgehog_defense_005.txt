@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "8.13"]
+[White "Cvek, Robert"]
+[Black "Jurek, Josef"]
+[Result "1-0"]
+[WhiteElo "2449"]
+[BlackElo "2168"]
+[ECO "A30"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Hedgehog Defense"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Nf3 b6 5.Bg2 Bb7 6.O-O Be7 7.b3 a6 8.Bb2 O-O 9.e3 d6 10.d4 cxd4 11.Nxd4 Bxg2 12.Kxg2 Ra7 13.f4 Qc8 14.Qf3 Rc7 15.Rac1 Re8 16.Rfd1 Nbd7 17.g4 Nf8 18.Kh1 Ng6 19.g5 Nd7 20.Nde2 Bf8 21.Kg1 Qb8 22.Ne4 d5 23.cxd5 exd5 24.N4g3 Rxc1 25.Rxc1 Nc5 26.Bd4 Ne4 27.Nxe4 dxe4 28.Qg4 Qd6 29.h4 Ne7 30.h5 b5 31.Kf2 Nc6 32.g6 Nb4 33.gxf7+ Kxf7 34.Qf5+ Kg8 35.Rc8 Rxc8 36.Qxc8 Nd3+ 37.Kg3 Qa3 38.Qe6+ Kh8 39.h6 1-0

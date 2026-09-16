@@ -1,0 +1,14 @@
+[Event "Round 7: Dingertz, Erik - Sundin, Emanuel"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-7/prqT9Yer/aiouJCK1"]
+[Date "2026.07.02"]
+[Round "7.7"]
+[White "Dingertz, Erik"]
+[Black "Sundin, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2211"]
+[BlackElo "2157"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.g3 d5 6.Bg2 O-O 7.a3 Bxd2+ 8.Nfxd2 Nc6 9.cxd5 exd5 10.e3 Ne7 11.O-O c6 12.Nc3 Bg4 13.Bf3 Bh3 14.Re1 Nf5 15.b4 Nd6 16.b5 Re8 17.bxc6 bxc6 18.Na4 Nfe4 19.Rc1 Qf6 20.Nxe4 Nxe4 21.Nc5 Ng5 22.Bg2 Qf5 23.f4 Bxg2 24.Kxg2 Qh3+ 25.Kg1 Ne6 26.Nd3 Nd8 27.Ne5 Re6 28.Qg4 Qxg4 29.Nxg4 f6 30.Rb1 Kf7 31.Nf2 Re7 32.Nd3 Nb7 33.Rb6 Rc8 34.Ra6 c5 35.dxc5 1/2-1/2

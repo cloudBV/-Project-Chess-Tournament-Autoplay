@@ -1,0 +1,15 @@
+[Event "Magyar Noi Bajnokság 2026"]
+[Site "Budapest, Hungary"]
+[Date "2026.07.12"]
+[Round "9.2"]
+[White "Kiraly, Lilla Virag"]
+[Black "Kiss, Inez"]
+[Result "1-0"]
+[WhiteElo "2080"]
+[BlackElo "2078"]
+[ECO "C10"]
+[TimeControl "90min/40moves+30min+30sec/move"]
+[Variant "Standard"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Be3 Bd6 8.Bd3 O-O 9.Qe2 b6 10.O-O-O Bb7 11.Kb1 Nd5 12.Bd2 Nf4 13.Bxf4 Bxf4 14.h4 Qe7 15.Ng5 g6 16.Qg4 Qf6 17.Ne4 Bxe4 18.Bxe4 Rad8 19.h5 Qg5 20.Qf3 c5 21.hxg6 fxg6 22.Qh3 Rf7 23.Qxe6 Rd6 24.Qb3 b5 25.dxc5 Qxc5 26.Rxd6 Bxd6 27.Bd5 Qxf2 28.Bxf7+ Qxf7 29.Qxf7+ Kxf7 30.Rxh7+ Kf6 31.Rxa7 1-0

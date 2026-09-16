@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "9.20"]
+[White "Pogorelskiy, Boris"]
+[Black "Bouska, Jiri"]
+[Result "0-1"]
+[WhiteElo "2002"]
+[BlackElo "2298"]
+[ECO "B67"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.Kb1 Nxd4 10.Qxd4 Be7 11.h4 Qc7 12.f3 b5 13.g4 h5 14.Bxf6 Bxf6 15.Qxd6 Qxd6 16.Rxd6 hxg4 17.fxg4 Rxh4 18.Rxh4 Bxh4 19.Bg2 Bg3 20.Rd3 Be5 21.Ne2 Ke7 22.Nd4 Bxd4 23.Rxd4 e5 24.Rd5 f6 25.g5 Bc6 26.gxf6+ gxf6 27.Rd2 Rg8 28.a3 f5 29.Re2 Rg4 30.Kc1 Kf6 31.b4 Kg5 32.Kd2 Rg3 33.c3 Kg4 34.Bh1 f4 35.Rf2 Rg1 36.Bf3+ Kg3 37.Ke2 Be8 0-1

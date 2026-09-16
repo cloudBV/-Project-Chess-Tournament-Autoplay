@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-7/N0mFXvpc/rGzMkK72"]
+[Date "2026.07.03"]
+[Round "7.9"]
+[White "Alonso, Salvador"]
+[Black "Da Silva Borges, Rodrigo"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2229"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Nc6 8.Bc4 Be6 9.Bb3 Na5 10.Bg5 Nxb3 11.axb3 Be7 12.Bxf6 Bxf6 13.O-O O-O 14.Qe2 Rc8 15.Rfd1 Qc7 16.Ne1 Bg5 17.Nd5 Qd8 18.c4 f5 19.exf5 Bxf5 20.Nc2 Kh8 21.Nce3 Bg6 22.Rd2 Qe8 23.Nc3 Rd8 24.Rad1 Qe6 25.Rd5 Be7 26.Nf1 Qf5 27.R1d2 Rc8 28.Ng3 Qe6 29.Nge4 Rc6 30.h3 h6 31.Qd1 b5 32.cxb5 axb5 33.Rxb5 Rfc8 34.Qe2 Bf8 35.Rbd5 Rb8 36.Rb5 Rcb6 37.Rxb6 Rxb6 38.Qc4 Bf7 39.Nd5 Rb8 40.Nec3 Qf5 41.b4 Rc8 42.Qg4 g6 43.Ne3 Qxg4 44.hxg4 Kg7 45.Ne4 Rb8 46.Nxd6 Rxb4 47.Nxf7 Kxf7 48.Rc2 Rb5 49.Rc7+ Ke6 50.Rc6+ Kf7 51.Nc4 h5 52.gxh5 gxh5 53.Kh2 Rd5 54.Kg3 Bc5 55.Kf3 Bd4 56.Ke4 Rd8 57.f4 Rb8 58.fxe5 Bxb2 59.Kf5 Bd4 60.Rc7+ Kg8 61.e6 Rf8+ 62.Ke4 Bf6 63.Nd6 Rd8 64.Kf5 Bh4 65.Rd7 Rf8+ 66.Kg6 Rf2 67.Kxh5 Bf6 68.Kg6 Bh4 69.Rg7+ Kf8 70.Rf7+ Rxf7 71.exf7 Be7 72.Ne8 Ba3 73.Nf6 Ke7 74.Nh7 1-0

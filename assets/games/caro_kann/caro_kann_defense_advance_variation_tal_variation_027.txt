@@ -1,0 +1,15 @@
+[Event "Round 8: Valle Luis, Leo - Licznerski, Lukasz"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-8/M7b2uBBM/yQQ9uqPa"]
+[Date "2026.07.11"]
+[Round "8.3"]
+[White "Valle Luis, Leo"]
+[Black "Licznerski, Lukasz"]
+[Result "1-0"]
+[WhiteElo "2372"]
+[BlackElo "2511"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 Qa5+ 7.Nd2 e6 8.Nf3 Nh6 9.O-O Nf5 10.Nb3 Qa6 11.Qd1 Be7 12.a4 Nd7 13.g3 Rc8 14.Re1 g6 15.Kg2 Kf8 16.Bg5 Bxg5 17.Nxg5 Kg7 18.Nh3 c5 19.c3 Qb6 20.Re2 cxd4 21.Nxd4 Nxd4 22.cxd4 Rc4 23.Rd2 Rhc8 24.Ra3 Rc1 25.Qf3 Qb4 26.Qf4 Qe7 27.Rf3 R1c7 28.Ng5 Nf8 29.g4 Nh7 30.gxh5 Nxg5 31.h6+ Kxh6 32.Rh3 Kg7 33.hxg5 Rh8 34.Rxh8 Kxh8 35.Rd3 1-0

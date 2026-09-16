@@ -1,0 +1,15 @@
+[Event "Round 8: Arman, Deniz - Bodemar, Jonathan"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-sm-blixten/round-8/GO3zCEkj/agpPzdC1"]
+[Date "2026.07.01"]
+[Round "8.4"]
+[White "Arman, Deniz"]
+[Black "Bodemar, Jonathan"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2124"]
+[ECO "C02"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 Nf5 7.Nc2 Be7 8.Bd3 c4 9.Bxf5 exf5 10.h4 O-O 11.h5 h6 12.b3 b5 13.g3 a5 14.bxc4 bxc4 15.Ba3 Bxa3 16.Nxa3 f4 17.gxf4 Bg4 18.Nc2 f6 19.Ne3 Bxf3 20.Qxf3 fxe5 21.dxe5 Nxe5 22.Qxd5+ Qxd5 23.Nxd5 Nd3+ 24.Kf1 Rad8 25.Ne7+ Kh7 26.Ng6 Rf5 27.Rh4 Rdd5 28.Rb1 Rxh5 29.Nf8+ Kg8 30.Rxh5 Rxh5 31.Rb8 Rh1+ 32.Kg2 Ra1 33.f5 Kf7 34.Kg3 Rxa2 35.f3 Kf6 36.Rb5 a4 37.Nh7+ Kf7 38.Rb8 a3 39.Rf8+ Ke7 40.Rg8 Kf7 41.Rf8+ Ke7 42.Rg8 Ra1 43.Rxg7+ Ke8 44.Ra7 a2 45.Kg2 Nf4+ 46.Kh2 Re1 47.Nf6+ Kf8 48.Rxa2 Re2+ 49.Rxe2 Nxe2 50.Ne4 Kf7 51.Kh3 Kg7 52.Kg4 Kh7 53.f6 Kg6 54.f4 h5+ 55.Kf3 Nxc3 56.f5+ Kxf5 57.f7 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Hernandez Fonseca, Maria Paula - Mogollon Tobar, Nicolle Julieth"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-blitz-femenino/round-6/r50Ya3Wa/V3QeEqfC"]
+[Date "2026.07.11"]
+[Round "6.3"]
+[White "Hernandez Fonseca, Maria Paula"]
+[Black "Mogollon Tobar, Nicolle Julieth"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2033"]
+[ECO "B32"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 g6 7.N1c3 a6 8.Na3 Nf6 9.Bg5 Bg7 10.Nc2 O-O 11.Be2 h6 12.Bxf6 Bxf6 13.O-O Bg7 14.Nd5 Be6 15.Nce3 f5 16.exf5 gxf5 17.f4 Nd4 18.b3 Rc8 19.Rc1 b5 20.Bd3 e4 21.Be2 Rb8 22.cxb5 axb5 23.Nc7 Bf7 24.a4 0-1

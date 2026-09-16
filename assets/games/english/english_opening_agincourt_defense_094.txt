@@ -1,0 +1,14 @@
+[Event "Round 6: Hampel, Felix - Eichstaedt, Mirko"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/DVgdnLEf"]
+[Date "2026.07.22"]
+[Round "7.1"]
+[White "Hampel, Felix"]
+[Black "Eichstaedt, Mirko"]
+[Result "1/2-1/2"]
+[WhiteElo "2349"]
+[BlackElo "2229"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 Nf6 3.Nc3 d5 4.e3 c6 5.b3 Nbd7 6.Bb2 Bd6 7.Be2 a6 8.d4 Ne4 9.O-O f5 10.Bd3 O-O 11.Ne2 Qf6 12.Nf4 g5 13.Nh5 Qh6 14.Ne5 Nef6 15.Nxf6+ Qxf6 16.Qh5 Nxe5 17.dxe5 Bxe5 18.Bxe5 Qxe5 19.Qxg5+ Qg7 20.Qxg7+ Kxg7 21.f4 c5 22.Rfd1 Bd7 23.cxd5 exd5 24.Bc4 dxc4 25.Rxd7+ Rf7 26.Rxf7+ Kxf7 27.bxc4 b5 28.Rc1 b4 29.Rd1 a5 30.Kf2 a4 31.Kf3 Ke7 32.Ke2 a3 33.Re1 Rd8 34.h3 h5 35.g3 Kf7 36.Rg1 Rd6 37.Rc1 Rd8 38.Rh1 Rg8 39.Rg1 Rd8 40.Rg2 Rd6 41.Rh2 Ra6 42.Rh1 1/2-1/2

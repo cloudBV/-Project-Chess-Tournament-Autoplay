@@ -1,0 +1,15 @@
+[Event "Round 6: Yilmaz, Kerem Tuna - Salci, Aytug Celal"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-6/2hBn7oBR/aJ1nE56G"]
+[Date "2026.07.16"]
+[Round "6.31"]
+[White "Yilmaz, Kerem Tuna"]
+[Black "Salci, Aytug Celal"]
+[Result "0-1"]
+[WhiteElo "2061"]
+[BlackElo "2141"]
+[ECO "B20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense"]
+
+1.e4 c5 2.d3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Be2 d6 6.O-O e6 7.c3 Nge7 8.Be3 O-O 9.a4 b6 10.Nh4 d5 11.Qe1 d4 12.Bd2 f5 13.Qg3 Ba6 14.e5 dxc3 15.bxc3 c4 16.dxc4 Na5 17.Nf3 Nxc4 18.Bc1 Nc6 19.Na3 Qd5 20.Rd1 Qc5+ 21.Qf2 Qxf2+ 22.Kxf2 N6a5 23.Nxc4 Bxc4 24.Ba3 Rfc8 25.Bb4 Bd5 26.Ba6 Rc7 27.Bxa5 bxa5 28.c4 Bxf3 29.Kxf3 Rb8 30.Rab1 Rb4 31.Rd8+ Kf7 32.Rbd1 Rb3+ 33.Ke2 Rb2+ 34.Kf1 g5 35.fxg5 Bxe5 36.h4 Kg6 37.Re8 Rb6 38.Bb5 a6 39.c5 Rxc5 40.Be2 Bg3 41.Rd7 Rc1+ 42.Bd1 f4 43.Ke2 Kf5 44.Kd2 Rc5 45.Rf8+ Ke5 46.Bf3 Bf2 47.h5 Rb2+ 48.Kd1 Be3 49.Ke1 Bf2+ 50.Kf1 Bd4 51.Ke1 Rc1+ 52.Bd1 Rbb1 53.Rxd4 Kxd4 54.Rd8+ Ke5 55.g6 hxg6 56.h6 Rc7 57.Rh8 Rd7 58.h7 Rdxd1+ 59.Ke2 Rh1 0-1

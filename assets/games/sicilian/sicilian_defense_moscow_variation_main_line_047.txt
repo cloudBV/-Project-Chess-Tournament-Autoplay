@@ -1,0 +1,15 @@
+[Event "CZECH OPEN 2026 - G1 - PARDUBICKY KRAJ OPEN"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.23"]
+[Round "5.3"]
+[White "Rasik, Vitezslav"]
+[Black "Vogel, Roven"]
+[Result "1-0"]
+[WhiteElo "2381"]
+[BlackElo "2495"]
+[ECO "B52"]
+[TimeControl "20 min. + 10 s./move"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 a6 7.h3 Rc8 8.b3 g6 9.Bb2 Bg7 10.c4 O-O 11.d4 cxd4 12.Nxd4 Qb6 13.Rd1 Nh5 14.Qe3 Rxc4 15.bxc4 Qxb2 16.Nc3 Bxd4 17.Qxd4 Nf4 18.Kf1 e5 19.Qd2 Qb4 20.Rac1 Nc5 21.Nd5 Qxd2 22.Rxd2 Nxe4 23.Rdd1 Ne6 24.Ne7+ Kg7 25.f3 N4c5 26.Rxd6 Re8 27.Nd5 Nd4 28.Nf6 Rc8 29.Ne4 Nf5 30.Rb6 Nxe4 31.fxe4 Ng3+ 32.Ke1 Rc7 33.c5 Nxe4 34.c6 bxc6 35.Rcxc6 Rd7 36.Rxa6 h5 37.a4 Rd3 38.a5 Ra3 39.Ra8 Ng3 40.a6 e4 41.Kf2 h4 42.Re8 Ra2+ 43.Ke3 Kh6 44.Kf4 Ra5 45.Re7 Ra2 46.a7 e3 47.Rc8 Ra4+ 48.Kf3 Nf5 49.Rxf7 Nd6 50.Rh8+ Kg5 51.Rd7 Nc4 52.Rd5+ 1-0

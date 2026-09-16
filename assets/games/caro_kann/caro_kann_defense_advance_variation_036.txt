@@ -1,0 +1,14 @@
+[Event "Round 3: Gopal G.N. - Schnell, Simon"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/vwt1Actl"]
+[Date "2026.07.15"]
+[Round "3.9"]
+[White "Gopal G.N."]
+[Black "Schnell, Simon"]
+[Result "1-0"]
+[WhiteElo "2529"]
+[BlackElo "2211"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 a6 6.Be3 Nd7 7.Nf3 Rc8 8.Be2 c5 9.c3 cxd4 10.Nfxd4 Bg6 11.f4 Ne7 12.Bg4 Nc6 13.O-O Nxd4 14.Nxd4 Bc5 15.Kh1 O-O 16.Bxe6 Bxd4 17.Bxd7 Bxe3 18.Bxc8 Qxc8 19.Qf3 Bd3 20.Rfd1 Bc2 21.Qxe3 Bxd1 22.Rxd1 Qc4 23.a3 h6 24.h3 Re8 25.Rd4 Qf1+ 26.Kh2 Rd8 27.c4 Rc8 28.e6 1-0

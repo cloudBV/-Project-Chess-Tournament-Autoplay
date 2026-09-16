@@ -1,0 +1,14 @@
+[Event "Round 9: Stein, Michael - Rudlof, Adam"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-9/VqxXFC7K/e6B0bw3o"]
+[Date "2026.07.05"]
+[Round "9.9"]
+[White "Stein, Michael"]
+[Black "Rudlof, Adam"]
+[Result "0-1"]
+[WhiteElo "2010"]
+[BlackElo "2051"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be6 8.Ng5 b5 9.a4 b4 10.Nd5 Bxd5 11.exd5 h6 12.Nf3 Ng4 13.Qd3 Nxe3 14.Qxe3 Be7 15.a5 Nd7 16.Bc4 O-O 17.Qd2 Qc7 18.Qxb4 Rfb8 19.Qc3 Bf6 20.Bb3 Qxc3+ 21.bxc3 Nc5 22.Ra3 Nxb3 23.cxb3 e4 24.Nd4 Bxd4 25.cxd4 Rb4 26.Ke2 Rxd4 27.Rd1 Rxd1 28.Kxd1 Rb8 29.Ke2 f5 30.Ke3 Rb4 31.Ra2 Kf7 32.Rc2 Kf6 33.Rc6 Ke5 34.Rxa6 Rxb3+ 35.Ke2 Rb2+ 36.Ke1 Ra2 37.Ra8 f4 38.a6 Kd4 39.Kd1 Rxf2 40.Rf8 Kd3 41.Ke1 Ra2 42.Rb8 Rxa6 43.Rb3+ Kc4 44.Rb7 g5 45.Rh7 Kxd5 46.Rxh6 Kd4 47.Rg6 Ke3 48.Kd1 Ra1+ 49.Kc2 Ra2+ 50.Kd1 Rxg2 51.h4 f3 0-1

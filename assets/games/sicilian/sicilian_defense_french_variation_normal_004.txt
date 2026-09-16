@@ -1,0 +1,15 @@
+[Event "Round 9: Pagan, Jonathan - Kavutskiy, Kostya"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-9/YgDk4NTF/pxnIp3Sr"]
+[Date "2026.07.04"]
+[Round "9.21"]
+[White "Pagan, Jonathan"]
+[Black "Kavutskiy, Kostya"]
+[Result "0-1"]
+[WhiteElo "2094"]
+[BlackElo "2278"]
+[ECO "B40"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O d5 8.e5 Nd7 9.Re1 Be7 10.Qg4 g6 11.Bh6 Bf8 12.Bxf8 Kxf8 13.c4 a5 14.cxd5 cxd5 15.Nc3 Ba6 16.Bxa6 Rxa6 17.Rad1 h5 18.Qe2 Rb6 19.Rd3 Kg7 20.Red1 Nc5 21.Rf3 Qe7 22.b3 Rc8 23.Qe3 Rb4 24.Rd4 Rxd4 25.Qxd4 Ne4 26.h3 Qc5 27.Qxc5 Nxc5 28.Rg3 0-1

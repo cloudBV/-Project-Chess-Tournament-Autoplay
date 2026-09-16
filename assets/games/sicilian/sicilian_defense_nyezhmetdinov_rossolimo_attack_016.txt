@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.03"]
+[Round "4.6"]
+[White "Zhou, Jianchao"]
+[Black "Baghdasaryan, Vahe"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2257"]
+[ECO "B30"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.Nf3 c5 2.e4 Nc6 3.Bb5 e5 4.O-O Bd6 5.c3 a6 6.Ba4 b5 7.Bb3 c4 8.Bc2 Nge7 9.d3 cxd3 10.Qxd3 Bc5 11.b4 Ba7 12.a4 bxa4 13.Nbd2 f5 14.Bxa4 O-O 15.Bb3+ Kh8 16.Ng5 Ng6 17.Ndf3 fxe4 18.Qxe4 Bb7 19.Nxh7 Rxf3 20.Qxf3 Qh4 21.Ng5 Rf8 22.Nf7+ Kh7 23.g3 1-0

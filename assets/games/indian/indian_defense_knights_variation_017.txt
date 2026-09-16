@@ -1,0 +1,14 @@
+[Event "Round 1: Limbach, Torsten - Dubiel, Jacek"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-1/C94apq0F/sPSaR6K6"]
+[Date "2026.07.17"]
+[Round "1.1"]
+[White "Limbach, Torsten"]
+[Black "Dubiel, Jacek"]
+[Result "0-1"]
+[WhiteElo "2013"]
+[BlackElo "2344"]
+[ECO "A46"]
+[Variant "Standard"]
+[Opening "Indian Defense: Knights Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.a4 b4 5.c4 Bb7 6.Bg2 Na6 7.Nbd2 c5 8.e3 Be7 9.O-O O-O 10.b3 Rc8 11.Bb2 Rc7 12.Ne5 Qa8 13.Bxb7 Qxb7 14.Qf3 Qxf3 15.Nexf3 d5 16.Rac1 Rfc8 17.Rfd1 Ne8 18.cxd5 exd5 19.Ne5 f6 20.Nef3 c4 21.Ba1 c3 22.Nf1 Nb8 23.Rc2 Nc6 24.Ne1 Na5 25.Rb1 Bd6 26.Nd3 f5 27.h4 Nf6 28.f3 h6 29.Kg2 Re8 30.Kf2 g5 31.hxg5 hxg5 32.Kg2 g4 33.f4 Ne4 34.Nf2 Nf6 35.Nd3 Kf7 36.Nf2 Ke6 37.Kg1 Rd8 38.Kg2 Rdc8 39.Kg1 Rb8 40.Kg2 Rh8 41.Kg1 Rch7 42.Kg2 Ne4 43.Nxe4 dxe4 44.Re2 Rh1 45.Rc2 R8h2+ 46.Nxh2 Rxb1 47.Bxc3 bxc3 48.Rxc3 Rxb3 49.Rxb3 Nxb3 50.Nf1 Kd5 51.Kf2 Kc4 52.Ke2 a5 53.Nd2+ Nxd2 0-1

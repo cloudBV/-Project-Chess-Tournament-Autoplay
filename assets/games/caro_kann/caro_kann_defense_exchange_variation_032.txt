@@ -1,0 +1,15 @@
+[Event "Round 6: Bhat Sannidhi Ramakrishna - Alsina Leal, Daniel"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-6/SDE6E1pr/fUpcuWs8"]
+[Date "2026.07.09"]
+[Round "6.2"]
+[White "Bhat Sannidhi Ramakrishna"]
+[Black "Alsina Leal, Daniel"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2488"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.d4 d5 2.Bf4 c5 3.e3 cxd4 4.exd4 Nc6 5.c3 f6 6.Nf3 g5 7.Be3 Bf5 8.h3 h5 9.c4 e6 10.Nc3 Bb4 11.a3 Bxc3+ 12.bxc3 Nge7 13.Be2 Bg6 14.h4 Nf5 15.Bd3 g4 16.Nd2 Nxh4 17.Rxh4 Bxd3 18.Qxg4 hxg4 19.Rxh8+ Ke7 20.Rxd8 Rxd8 21.cxd5 Rxd5 22.Nb3 Rb5 23.Nc5 Bf5 24.a4 Rb2 25.Bc1 Rc2 26.Nxb7 Rxc3 27.Ba3+ Kf7 28.Nd6+ Kg6 29.Bc5 Rc2 30.Ra3 e5 31.Nb5 a6 32.Nc7 exd4 33.Nxa6 Bc8 34.Bxd4 Nxd4 35.Nb4 Rc4 0-1

@@ -1,0 +1,15 @@
+[Event "Round 4: Gormally, Daniel W - Jacobson, Brandon"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-4/01eidbFQ/1EtZZil4"]
+[Date "2026.07.16"]
+[Round "4.2"]
+[White "Gormally, Daniel W"]
+[Black "Jacobson, Brandon"]
+[Result "0-1"]
+[WhiteElo "2397"]
+[BlackElo "2601"]
+[ECO "E92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5 8.Bg5 h6 9.Bh4 Na6 10.Nd2 Qe8 11.O-O Bd7 12.b3 Nh7 13.f3 Bf6 14.Bf2 Qe7 15.a3 h5 16.Rb1 Rfb8 17.b4 axb4 18.axb4 c5 19.dxc6 bxc6 20.b5 Nc5 21.bxc6 Bxc6 22.Nd5 Qd8 23.Nxf6+ Qxf6 24.Qc2 Ng5 25.Rxb8+ Rxb8 26.Rb1 Rc8 27.Rb6 Nge6 28.Qa2 Kg7 29.Nb3 Ra8 30.Qd2 Nxb3 31.Rxb3 Ra1+ 32.Bf1 Nf4 33.Be3 Ba4 34.Rc3 Rd1 35.Qf2 Qg5 36.Bxf4 Qxf4 37.Qe3 Qf6 38.Rc1 Rxc1 39.Qxc1 Qd8 40.Qe3 Qa5 41.Kf2 Bd7 42.g3 Be6 43.Be2 Qa1 44.f4 Qh1 45.h4 Qh2+ 46.Ke1 exf4 47.Qxf4 Qg1+ 48.Kd2 Qd4+ 49.Ke1 Kh7 50.Bf1 Kg8 51.Be2 Kg7 52.Bf1 Bg4 53.e5 Qc3+ 54.Kf2 dxe5 55.Qe3 Qb2+ 56.Ke1 Be6 57.c5 Bd5 58.Be2 Bc6 59.g4 hxg4 60.h5 f5 61.Qg5 Qb4+ 62.Kd1 Ba4+ 63.Kc1 Qc3+ 64.Kb1 Bc2+ 65.Ka2 Qb3+ 66.Ka1 Qa3# 0-1

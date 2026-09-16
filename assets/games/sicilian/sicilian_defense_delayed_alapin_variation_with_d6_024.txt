@@ -1,0 +1,15 @@
+[Event "Round 4: Sosef, Noah - Kitze, Alexander"]
+[Site "https://lichess.org/broadcast/ghent-open-2026/round-4/IsBdqNJn/xidRUZ8X"]
+[Date "2026.07.19"]
+[Round "4.15"]
+[White "Sosef, Noah"]
+[Black "Kitze, Alexander"]
+[Result "0-1"]
+[WhiteElo "2053"]
+[BlackElo "2269"]
+[ECO "B50"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.h3 Nc6 5.Bd3 g6 6.Bc2 Bg7 7.d4 cxd4 8.cxd4 O-O 9.O-O a6 10.a4 Bd7 11.Nc3 Rc8 12.Be3 Na5 13.Nd2 e5 14.d5 Nh5 15.Ne2 b5 16.axb5 Bxb5 17.Ba4 Nc4 18.Nxc4 Rxc4 19.Bxb5 axb5 20.f3 Qc8 21.b3 Rc2 22.Qd3 Nf4 23.Nxf4 Rc3 24.Qd2 exf4 25.Bxf4 Qc5+ 26.Kh1 Rxb3 27.Rfc1 Rc3 28.Bh6 b4 29.Bxg7 Kxg7 30.Rxc3 bxc3 31.Qc2 Rc8 32.Rb1 Qd4 33.Rd1 Qc4 34.Rc1 Qd4 35.Rd1 Qe3 36.Rd3 Qxd3 37.Qxd3 c2 0-1

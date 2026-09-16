@@ -1,0 +1,14 @@
+[Event "Round 3: Ikonnikov, Vyacheslav - Nottola, Adrien"]
+[Site "https://lichess.org/broadcast/40e-open-international-davoine/round-3/kqVNSbC7/9QWJoM59"]
+[Date "2026.07.17"]
+[Round "3.1"]
+[White "Ikonnikov, Vyacheslav"]
+[Black "Nottola, Adrien"]
+[Result "1-0"]
+[WhiteElo "2461"]
+[BlackElo "2302"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Kazakh Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 Na6 7.Be3 e5 8.d5 Ng4 9.Bg5 f6 10.Bh4 h5 11.h3 Nh6 12.Nd2 Nc5 13.b4 Nd7 14.Nb3 g5 15.Bg3 h4 16.Bh2 f5 17.Qd2 Nf6 18.Qxg5 Nxe4 19.Qxd8 Rxd8 20.Nxe4 fxe4 21.Nd2 a5 22.b5 Bf5 23.O-O Bf6 24.Bg4 Nxg4 25.hxg4 Bxg4 26.Nxe4 Be7 27.Rae1 c6 28.f4 cxd5 29.cxd5 exf4 30.Nf2 Bd7 31.Rxe7 Bxb5 32.Rc1 Rac8 33.Bxf4 Rxc1+ 34.Bxc1 Re8 35.Rxe8+ Bxe8 36.Bd2 Bb5 37.Bxa5 Bc4 38.a3 Bxd5 39.Bd8 Kf7 40.Bxh4 Ke6 41.Kf1 Kf5 42.Be7 Bc4+ 43.Ke1 d5 44.Kd2 Bf1 45.g3 Ke5 46.Bc5 d4 47.Bb6 Kd5 48.a4 Kc4 49.Ne4 Bg2 50.Nd6+ Kd5 51.Nb5 1-0

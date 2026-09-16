@@ -1,0 +1,14 @@
+[Event "Round 8: Nurman, Alua - Smirnov, Mark"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-8/xISEm2EV/HolWy0pr"]
+[Date "2026.07.07"]
+[Round "8.4"]
+[White "Nurman, Alua"]
+[Black "Smirnov, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2422"]
+[ECO "B36"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be3 Bg7 9.Be2 O-O 10.Qd3 a5 11.O-O a4 12.Rad1 Qa5 13.Bd4 Re8 14.Kh1 Bd7 15.f4 Bc6 16.e5 dxe5 17.fxe5 Nd7 18.e6 fxe6 19.Bg4 e5 20.Bxd7 Bxd7 21.Bb6 Qxb6 22.Qxd7 Qxb2 23.Nxa4 Qb4 24.Qe6+ Kh8 25.Nb6 Rxa2 26.Nd7 Qb2 27.Rg1 Qc3 28.c5 Rf2 29.Rde1 Qd4 30.Nxe5 Bxe5 31.Rxe5 Kg7 32.Rd5 Qf6 33.Qd7 Qc6 34.Re1 Kf7 35.Qh3 h5 36.Rde5 e6 37.Kg1 Rf5 38.Qe3 Qd7 39.Re4 Qd5 40.Rc1 Rd8 41.h3 Rd7 42.Kh1 Rc7 43.Re1 Qxc5 44.Qh6 Qf8 45.Qe3 Re7 46.Rxe6 Rxe6 47.Qxe6+ Kg7 48.Qd7+ Rf7 49.Qd4+ Kh7 50.Kg1 b5 51.Rb1 Rb7 52.Rxb5 Rxb5 1/2-1/2

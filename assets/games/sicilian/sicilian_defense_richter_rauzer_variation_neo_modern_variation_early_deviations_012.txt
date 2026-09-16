@@ -1,0 +1,14 @@
+[Event "Round 2: Labruyere, Roger - Nemegeer, Arne"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/Vhkvua5g"]
+[Date "2026.07.22"]
+[Round "2.18"]
+[White "Labruyere, Roger"]
+[Black "Nemegeer, Arne"]
+[Result "0-1"]
+[WhiteElo "2202"]
+[BlackElo "2292"]
+[ECO "B66"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O Be7 10.Bxf6 gxf6 11.Bc4 Bb7 12.Bb3 Qc7 13.Rhe1 O-O-O 14.Qe3 Qa5 15.Kb1 Kb8 16.f4 d5 17.a3 h5 18.f5 Bd6 19.fxe6 fxe6 20.Na2 Be5 21.Nc1 c5 22.c3 Qb6 23.Bc2 dxe4 24.b4 Rxd1 25.Rxd1 Qc6 26.bxc5 Qb5+ 27.Bb3 Rc8 28.Ka2 Qxc5 29.Qxc5 Rxc5 30.Ne2 Bxh2 31.Rd8+ Kc7 32.Rf8 Rf5 33.Bxe6 Rf2 34.Bc4 Be5 35.Kb3 Rxg2 36.Nd4 h4 37.Rh8 Rg3 38.Kb4 h3 39.a4 Rg1 40.Rxh3 Rb1+ 41.Ka5 f5 42.Ne6+ Kb8 43.Bxa6 Bd5 0-1

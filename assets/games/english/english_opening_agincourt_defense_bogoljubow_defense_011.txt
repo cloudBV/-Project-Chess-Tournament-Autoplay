@@ -1,0 +1,14 @@
+[Event "Blitz C16"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "13.3"]
+[White "Lecki, Leonard"]
+[Black "Rosol, Philip"]
+[Result "1-0"]
+[WhiteElo "2103"]
+[BlackElo "2194"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Bogoljubow Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Bd6 5.O-O O-O 6.d4 Nc6 7.b3 dxc4 8.bxc4 e5 9.Bb2 exd4 10.Nxd4 Nxd4 11.Qxd4 Be7 12.Qf4 c6 13.Nc3 Be6 14.Ne4 Nxe4 15.Qxe4 Bf6 16.Rfd1 Qe7 17.Rab1 Bxb2 18.Rxb2 Rad8 19.Rdb1 Rd7 20.h4 Rfd8 21.h5 h6 22.Qf4 Rd1+ 23.Rxd1 Rxd1+ 24.Kh2 Rd8 25.Be4 Qc5 26.Rxb7 Qxh5+ 27.Qh4 Qxh4+ 28.gxh4 Bxc4 29.Rxa7 Bd5 30.Bd3 g6 31.Kg3 Kg7 32.a4 c5 33.Rc7 Be6 34.a5 Rd4 35.a6 c4 36.a7 cxd3 37.a8=Q d2 38.Qa5 d1=Q 39.Qe5+ Kh7 40.Qxe6 Qg1+ 41.Kf3 Qh1+ 42.Ke3 Qh3+ 43.Qxh3 1-0

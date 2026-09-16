@@ -1,0 +1,15 @@
+[Event "X Caioba STD"]
+[Site "https://lichess.org/broadcast/x-torneio-internacional-de-xadrez-sesc-caioba-standard/round-8/xBHIdESI/JmlEaRxh"]
+[Date "2026.07.04"]
+[Round "8.15"]
+[White "Silva, Kaua Marques"]
+[Black "Terao, Juliana Sayumi"]
+[Result "1-0"]
+[WhiteElo "2324"]
+[BlackElo "2170"]
+[ECO "A15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 Bd6 5.b3 O-O 6.Bb2 b6 7.cxd5 exd5 8.Nb5 Be7 9.Be5 Ne8 10.Rc1 c5 11.Bxb8 Rxb8 12.Nxa7 Bb7 13.Nb5 Nd6 14.Nxd6 Bxd6 15.Bb5 Ra8 16.a4 d4 17.O-O Qf6 18.Re1 dxe3 19.fxe3 Rad8 20.Qe2 Bb8 21.e4 Qh6 22.Rcd1 Kh8 23.Qf2 Bf4 24.Re2 Bd6 25.Qh4 Qg6 26.Rf1 f6 27.d3 Bc7 28.Re3 Qf7 29.Bc4 Qe8 30.Kh1 g5 31.Qf2 Qh5 32.h3 Rde8 33.Nh2 Bf4 34.Rf3 Bc8 35.a5 f5 36.Rxf4 gxf4 37.Qb2+ 1-0

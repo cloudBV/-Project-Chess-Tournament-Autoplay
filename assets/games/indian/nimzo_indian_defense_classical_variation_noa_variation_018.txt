@@ -1,0 +1,14 @@
+[Event "Round 9: Balabayeva, Xeniya - Cao, Qingfeng"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-9/uExqQ2ZV/weKhbQPT"]
+[Date "2026.07.22"]
+[Round "9.6"]
+[White "Balabayeva, Xeniya"]
+[Black "Cao, Qingfeng"]
+[Result "0-1"]
+[WhiteElo "2302"]
+[BlackElo "2365"]
+[ECO "E36"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 O-O 7.Nf3 Nbd7 8.Bg5 b6 9.e3 Ba6 10.cxd5 Bxf1 11.Kxf1 exd5 12.Qc6 Re8 13.Rc1 Qc8 14.a4 Re6 15.Qb5 c6 16.Qd3 c5 17.b3 Rc6 18.Ne5 Nxe5 19.dxe5 c4 20.bxc4 Ne4 21.Bf4 Rxc4 22.Rxc4 Qxc4 23.Qxc4 dxc4 24.Ke2 Nc3+ 25.Kd2 Nxa4 26.Ra1 b5 27.e4 Nc5 28.Kc3 a5 29.Be3 Nb3 30.Rd1 a4 31.Kb2 b4 32.Bb6 c3+ 33.Kc2 Nd2 34.Bc5 b3+ 0-1

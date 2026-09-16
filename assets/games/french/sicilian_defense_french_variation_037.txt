@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "8.4"]
+[White "Krawczyk, Flawian"]
+[Black "Grot, Blazej"]
+[Result "1/2-1/2"]
+[WhiteElo "2226"]
+[BlackElo "2362"]
+[ECO "B40"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Qe2 e5 6.O-O Be7 7.d3 d6 8.h3 h6 9.a4 O-O 10.c4 Be6 11.Nc3 a6 12.Kh2 Rb8 13.Nd5 b5 14.axb5 axb5 15.cxb5 Bxd5 16.bxc6 1/2-1/2

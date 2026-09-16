@@ -1,0 +1,15 @@
+[Event "Round 2: So, Wesley - Zierk, Steven"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-2/V1ZzGP08/GUtOlaFp"]
+[Date "2026.07.04"]
+[Round "2.3"]
+[White "So, Wesley"]
+[Black "Zierk, Steven"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2488"]
+[ECO "E10"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.cxd5 exd5 5.Nc3 c6 6.Qc2 g6 7.h3 Bg7 8.Bf4 O-O 9.e3 Bf5 10.Qb3 Qb6 11.g4 Qxb3 12.axb3 Be6 13.b4 Nbd7 14.Ng5 a6 15.Bg3 Rfe8 16.Bd3 Bf8 17.Na2 Ne4 18.Nxe6 Rxe6 19.Bf4 Nb6 20.Ke2 Nc8 21.h4 Ncd6 22.Nc3 Rae8 23.Na4 f5 24.f3 Nf6 25.Nc5 Rxe3+ 26.Bxe3 f4 27.Rae1 fxe3 28.f4 Nxg4 29.h5 Nf5 30.Kf3 Nf2 31.Bxf5 Nxh1 32.hxg6 Nf2 33.gxh7+ Kh8 34.Rxe3 Rxe3+ 35.Kxe3 Bxc5 36.dxc5 Nd1+ 37.Kd4 Nxb2 38.Bc8 a5 39.Bxb7 axb4 40.Bxc6 Nc4 1-0

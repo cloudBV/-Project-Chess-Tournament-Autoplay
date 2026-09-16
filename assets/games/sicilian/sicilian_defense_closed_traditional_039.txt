@@ -1,0 +1,14 @@
+[Event "Round 6: Schwarz, Frank - Daemering, Katrin"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-50/round-6/3ymlbMxl/3yKNfl8T"]
+[Date "2026.07.22"]
+[Round "6.17"]
+[White "Schwarz, Frank"]
+[Black "Daemering, Katrin"]
+[Result "1-0"]
+[WhiteElo "2264"]
+[BlackElo "2022"]
+[ECO "B23"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 a6 5.Bd3 g6 6.Nxd4 cxd4 7.Ne2 Bg7 8.c3 dxc3 9.dxc3 d6 10.Be3 Nf6 11.f3 O-O 12.O-O Bd7 13.Qd2 Rc8 14.Rfd1 Qc7 15.c4 Rfd8 16.Rac1 Bc6 17.Nc3 Qb8 18.a4 e6 19.Bb6 Re8 20.Bf1 Nd7 21.Be3 Bf8 22.h3 Nc5 23.Qc2 b6 24.b4 Nd7 25.Kh1 Ba8 26.Qb3 Nf6 27.Bd4 Nh5 28.Bf2 Red8 29.Rb1 Bg7 30.Rdc1 Rc7 31.a5 bxa5 32.bxa5 Qc8 33.Na4 Re8 34.Nb6 Qd8 35.Rd1 Bc6 36.c5 d5 37.exd5 exd5 38.Nxd5 Rd7 39.Nb4 Ba8 40.c6 Rxd1 41.Rxd1 Qxa5 42.Rd7 Rf8 43.c7 Qf5 44.Rd8 Bb7 45.Nd5 Bxd5 46.Qxd5 Qb1 47.Qd3 1-0

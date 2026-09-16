@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-7/iCL7Nk5B/9D12vYpd"]
+[Date "2026.07.06"]
+[Round "7.14"]
+[White "Kopriva, Martin"]
+[Black "Motyl, Tomasz"]
+[Result "0-1"]
+[WhiteElo "2181"]
+[BlackElo "2024"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 4.Nc3 Bb4 5.Bf4 Ne7 6.e5 c5 7.a3 cxd4 8.axb4 dxc3 9.bxc3 Qc7 10.Qd2 Nd7 11.Ne2 Nxe5 12.Nd4 Bd7 13.Be2 O-O 14.Bg3 f6 15.O-O Rfc8 16.Ra3 Nc4 17.Bxc4 Qxc4 18.Rfa1 e5 19.Ne2 Bb5 20.Nc1 Qf1# 0-1

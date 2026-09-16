@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.05.19"]
+[Round "1.1"]
+[White "Aczel, Gergely"]
+[Black "Petervari, Szabolcs"]
+[Result "1-0"]
+[WhiteElo "2429"]
+[BlackElo "2092"]
+[ECO "E46"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 d5 6.a3 Bxc3+ 7.Nxc3 b6 8.cxd5 exd5 9.b4 c5 10.bxc5 bxc5 11.dxc5 Qa5 12.Bb2 Nc6 13.Bb5 Rb8 14.O-O Ne7 15.Qe2 Ne4 16.a4 a6 17.Nxe4 axb5 18.Be5 dxe4 19.Bxb8 bxa4 20.Bd6 Re8 21.Qc2 Bd7 22.Bxe7 Rxe7 23.c6 1-0

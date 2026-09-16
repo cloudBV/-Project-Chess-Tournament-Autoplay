@@ -1,0 +1,14 @@
+[Event "Round 4: Lu, Miaoyi - Gopal G.N."]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-4/lwep2YQl/LriRCqxP"]
+[Date "2026.07.16"]
+[Round "4.5"]
+[White "Lu, Miaoyi"]
+[Black "Gopal G.N."]
+[Result "0-1"]
+[WhiteElo "2392"]
+[BlackElo "2529"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e5 7.Nf3 Be7 8.Bg5 Be6 9.Bxf6 Bxf6 10.Nd5 Nd7 11.Bc4 Rc8 12.Qe2 Nb6 13.Nxf6+ Qxf6 14.Bxe6 Qxe6 15.O-O O-O 16.Rfd1 Rc6 17.c3 Nd7 18.Nd2 Nc5 19.Nf1 h6 20.f3 f5 21.b4 Nd7 22.exf5 Rxf5 23.Ne3 Rf7 24.Nd5 Nf6 25.c4 Rc8 26.Nb6 Re8 27.Qd2 e4 28.Re1 Qf5 29.Ra3 a5 30.Rae3 axb4 31.Qxb4 Rfe7 32.Kh1 exf3 33.Rxe7 Rxe7 34.gxf3 Qxf3+ 35.Kg1 Ng4 36.Qd2 Rxe1+ 37.Qxe1 Ne3 0-1

@@ -1,0 +1,15 @@
+[Event "2026. gada Latvijas sieviešu čempionāts"]
+[Site "Rīga, Aspāzijas bulvāris 32- 302, Latvia"]
+[Date "2026.07.17"]
+[Round "7.1"]
+[White "Golsta, Madara"]
+[Black "Kuznecova, Marija"]
+[Result "1/2-1/2"]
+[WhiteElo "2047"]
+[BlackElo "2248"]
+[ECO "B90"]
+[TimeControl "90 minūtes katrai dalībniecei + 30 sekundes par katru izdarīto gājienu"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 g6 7.f3 Qb6 8.Nb3 Bg7 9.Qe2 Qc7 10.Bg5 Nbd7 11.O-O-O b5 12.a3 Bb7 13.g4 Nb6 14.Na5 Na4 15.Nxa4 Qxa5 16.Bd2 b4 17.b3 Qc7 18.axb4 Bc6 19.Bxa6 O-O 20.b5 Rxa6 21.bxa6 Bxa4 22.bxa4 Rb8 23.Qd3 Nd7 24.Rdf1 Ne5 25.Qa3 Rb2 26.Bc3 Nc4 27.Qxb2 Nxb2 28.Bxb2 Qa5 29.Bxg7 Kxg7 30.h4 Qxa6 31.Kd2 Qxa4 32.h5 Qd4+ 33.Ke2 Qc4+ 34.Kd2 Qd4+ 35.Ke2 1/2-1/2

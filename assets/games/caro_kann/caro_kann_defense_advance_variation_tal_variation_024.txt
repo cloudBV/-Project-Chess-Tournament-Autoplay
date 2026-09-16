@@ -1,0 +1,15 @@
+[Event "Round 7: Larkin, Vladyslav - Otero Marino, Alain"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-7/wtefqve1/7fe00h9Z"]
+[Date "2026.07.10"]
+[Round "7.7"]
+[White "Larkin, Vladyslav"]
+[Black "Otero Marino, Alain"]
+[Result "1/2-1/2"]
+[WhiteElo "2506"]
+[BlackElo "2352"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.cxd3 e6 7.Nf3 Ne7 8.Nc3 Nf5 9.Bg5 Be7 10.Ne2 Nd7 11.Ng3 Bxg5 12.hxg5 g6 13.Kf1 Qb6 14.Nxf5 exf5 15.Qe1 Nf8 16.b4 Ne6 17.a4 1/2-1/2

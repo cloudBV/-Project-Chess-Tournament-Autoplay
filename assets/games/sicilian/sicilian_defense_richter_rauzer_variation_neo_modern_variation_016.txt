@@ -1,0 +1,14 @@
+[Event "Round 3: Savitha Shri B - Acs, Peter"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-3/nlrLoj4W/wu5hzXQi"]
+[Date "2026.07.15"]
+[Round "3.2"]
+[White "Savitha Shri B"]
+[Black "Acs, Peter"]
+[Result "0-1"]
+[WhiteElo "2368"]
+[BlackElo "2561"]
+[ECO "B67"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 a6 8.O-O-O e6 9.Kb1 h6 10.Be3 b5 11.Nxc6 Bxc6 12.f3 Qc7 13.Ne2 Be7 14.Nd4 Bb7 15.g4 Nd7 16.g5 hxg5 17.Bxg5 Ne5 18.Rg1 g6 19.f4 Bxg5 20.Rxg5 Nc4 21.Bxc4 bxc4 22.f5 gxf5 23.Rg7 c3 24.Qe3 Bxe4 25.Nxe6 Qe7 26.Nd4 Rc8 27.Rdg1 cxb2 28.Qb3 Qf6 29.Qb6 Kd7 30.R1g6 Qxg6 31.Rxg6 fxg6 32.Qb3 Rhe8 33.Qf7+ Re7 34.Qxg6 Rb8 35.Nb3 a5 36.Qg1 Re5 37.Qg7+ Kc6 38.Qa7 Rb7 39.Qa6+ Kd7 40.Kxb2 f4 41.Ka3 f3 42.Qf1 Bc6 43.Qh3+ Kc7 44.Qh7+ Bd7 45.Qf7 Rf5 46.Qc4+ Kb8 47.Nd4 Rc5 48.Qg8+ Ka7 49.Qg1 Ka8 50.Qe3 Rc4 51.Nb3 Bc6 52.Qd3 Ra4+ 53.Kb2 Rb6 54.Qxd6 Ka7 55.Qc5 Bb7 56.h4 Rf4 57.Kc3 f2 58.Nd2 f1=Q 59.Nxf1 Rxf1 60.Qxa5+ Ba6 61.Qc5 Rf6 62.Kd2 Rd6+ 63.Kc1 Kb7 64.Qe5 Bc4 65.Qe4+ Bd5 66.Qe7+ Kc8 67.Qf8+ Kc7 68.Qe7+ Rd7 69.Qe5+ Kb7 70.Qf5 Rdd6 71.Qh7+ Kc6 72.Qa7 Rb7 73.Qa4+ Kc7 74.Qa3 Rbb6 75.h5 Kb8 76.Qa4 Kb7 77.Qa3 Bc4 78.Qf3+ Ka7 79.Qa3+ Kb8 80.Qa4 Rbc6 81.Kb2 Bf7 82.Kc1 Ra6 83.Qb4+ Rab6 84.Qa5 Kb7 85.c3 Rd5 86.Qa3 Bxh5 87.Qe7+ Ka6 88.Qf8 Rbd6 89.Qa8+ Kb6 90.Qb8+ Kc5 91.Qb4+ Kc6 92.Qa4+ Kb6 93.Qb4+ Kc7 94.Qf4 Bg6 95.Qc4+ Kb7 96.Qb4+ Rb6 97.Qe7+ Kc8 98.Qf8+ Kc7 99.Qe7+ Rd7 0-1

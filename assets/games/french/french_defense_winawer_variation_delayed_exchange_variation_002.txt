@@ -1,0 +1,14 @@
+[Event "Round 7: Slovak, Kilian - Sprenar, Petr"]
+[Site "https://lichess.org/broadcast/open-klatovy-2026-open-a/round-7/7NEQFjwq/hVy0aatw"]
+[Date "2026.07.03"]
+[Round "7.3"]
+[White "Slovak, Kilian"]
+[Black "Sprenar, Petr"]
+[Result "1/2-1/2"]
+[WhiteElo "2307"]
+[BlackElo "2360"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nc6 6.Nf3 Bg4 7.O-O Nge7 8.h3 Bh5 9.a3 Bxc3 10.bxc3 Qd7 11.a4 O-O-O 12.a5 a6 13.Re1 Rde8 14.Bf4 Ng6 15.Rxe8+ Rxe8 16.Bg3 f5 17.Ne5 Bxd1 18.Nxd7 Re1+ 19.Kh2 f4 20.Nc5 fxg3+ 21.Kxg3 Nge7 22.f3 g6 23.Kf2 Rh1 24.Rc1 Nf5 25.Nb3 Bxc2 26.Rxc2 Rb1 27.Nc5 Nd6 28.g4 Rd1 29.h4 Nxa5 30.h5 gxh5 31.g5 b6 32.Bxa6+ Kd8 33.Be2 Rh1 34.Ne6+ Kd7 35.Nf4 Nac4 36.Bd3 Nf7 37.Nxd5 Rh2+ 38.Kg3 Rxc2 39.Bxc2 Nxg5 40.f4 Nf7 41.Bxh7 c6 42.Nf6+ Ke6 43.Nxh5 Ncd6 44.Bd3 c5 45.dxc5 bxc5 46.Kf3 Nh6 47.Ng3 Kd5 48.Nf1 c4 49.Ne3+ Kc5 50.Bg6 Nb5 51.Nd1 Nd6 52.Nf2 Kd5 53.Ne4 Nhf5 54.Bxf5 Nxf5 55.Nd2 Nd6 56.Kg4 Nb5 57.f5 Nxc3 58.Nxc4 Ne4 59.Kf4 Nf6 60.Nb6+ Kd6 61.Kg5 Ke7 62.Kg6 Ne4 63.Kg7 Kd6 64.Kg6 Ke7 65.Kg7 Kd6 66.Nc4+ Kd5 67.Ne3+ Ke5 68.Kg6 Kd6 69.Ng4 Ke7 70.Kg7 Nd6 71.f6+ Ke6 72.Kg6 Nf7 73.Nf2 Ne5+ 74.Kg7 Nf7 75.Ne4 Ne5 76.Nc5+ Kd5 77.Na6 Kd6 78.Nb4 Kd7 79.Nd5 Ke6 80.Nf4+ Kd7 81.Ng6 Nc6 82.Kg8 Nd8 83.Nf4 Kd6 84.Ng6 Ke6 85.Kg7 Kd7 86.Ne5+ Kc7 87.Nc4 Kd7 88.Ne5+ Kc7 89.Ng6 Kd7 90.Nh4 Ke6 91.Nf3 Kf5 92.Nd4+ Ke5 93.Nb5 Ne6+ 94.Kf7 Nf8 95.Ke7 Ng6+ 96.Kf7 Nf8 97.Nd4 Nh7 98.Nf3+ 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Rapid C16"]
+[Site "Rzeszow"]
+[Date "2026.07.12"]
+[Round "8.2"]
+[White "Smolinski, Wojciech"]
+[Black "Niezhentsev, Kyrylo"]
+[Result "0-1"]
+[WhiteElo "2057"]
+[BlackElo "2255"]
+[ECO "B28"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Yerevan System"]
+
+1.e4 c5 2.Nf3 a6 3.Nc3 e6 4.g3 Nc6 5.Bg2 Nf6 6.O-O d6 7.d4 cxd4 8.Nxd4 Nxd4 9.Qxd4 e5 10.Qd3 Be7 11.h3 Be6 12.Rd1 h6 13.Be3 O-O 14.a4 Rc8 15.Kh2 Rc6 16.Nd5 Bxd5 17.exd5 Rc8 18.a5 Qd7 19.b3 Ne8 20.c4 f5 21.f4 e4 22.Qd2 Nf6 23.Bf1 Qe8 24.Rab1 Qh5 25.Kg1 Nd7 26.b4 g5 27.Qe2 Qg6 28.Kh2 gxf4 29.gxf4 Kh7 30.Qg2 Qf7 31.b5 Rg8 32.Qf2 Nc5 33.bxa6 bxa6 34.Bxc5 Rxc5 35.Rb7 Rg7 36.Rdb1 Qg6 37.R1b3 Rxa5 38.Rg3 Ra2 39.Rxg6 Rxf2+ 40.Kg3 Bh4+ 41.Kxh4 Kxg6 42.Rxg7+ Kxg7 43.c5 Rxf1 0-1

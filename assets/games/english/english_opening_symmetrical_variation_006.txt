@@ -1,0 +1,15 @@
+[Event "Super Rapid & Blitz Croatia"]
+[Site "Zagreb, Croatia"]
+[Date "2026.06.29"]
+[Round "15.1"]
+[White "Keymer, Vincent"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteElo "2621"]
+[BlackElo "2730"]
+[ECO "A30"]
+[TimeControl "5+2"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.d4 cxd4 6.Nxd4 O-O 7.Nc3 Qc7 8.Qa4 Nc6 9.Ndb5 Qd8 10.Nd5 d6 11.O-O Bd7 12.Nbc7 Nxd5 13.Nxd5 Rc8 14.Be3 e6 15.Nc3 Na5 16.Qb4 Nxc4 17.Bxa7 d5 18.Rac1 Qa5 19.Qxa5 Nxa5 20.Rfe1 Ra8 21.Bc5 Rfc8 22.Bb4 Rc4 23.Bd6 Rac8 24.e3 R4c6 25.Bb4 Nc4 26.Nxd5 exd5 27.Bxd5 Nxb2 28.Bxc6 Bxc6 29.Rb1 Nd3 30.Red1 Nxb4 31.Rxb4 Ra8 32.h4 h5 33.g4 hxg4 34.Rxg4 Bf3 0-1

@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-7/vX7FfpiI/HJat90f0"]
+[Date "2026.07.17"]
+[Round "7.10"]
+[White "Martins, Bruno Andre Leite"]
+[Black "Cordeiro, Joao Carlos"]
+[Result "1-0"]
+[WhiteElo "2409"]
+[BlackElo "2099"]
+[ECO "B15"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 Re8+ 9.Ne2 h5 10.O-O Qc7 11.h3 Be6 12.Bd2 Nd7 13.Rae1 b5 14.b3 Nf8 15.f4 a5 16.c4 bxc4 17.bxc4 Bb4 18.f5 Bxd2 19.Qxd2 Bc8 20.Nf4 Rxe1 21.Rxe1 Qd6 22.Qf2 h4 23.c5 Qd8 24.Nh5 Nh7 25.Qxh4 Bxf5 26.Bxf5 g6 27.Qg4 Kh8 28.Ng3 gxf5 29.Nxf5 Qf8 30.Re7 Ng5 31.h4 Nh7 32.Qh5 Rb8 33.Kh2 Rb2 34.Qg4 Rb8 35.Qe4 Rd8 36.Nd6 1-0

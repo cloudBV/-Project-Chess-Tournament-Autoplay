@@ -1,0 +1,14 @@
+[Event "Round 2: Loetscher, Roland - Hofstetter, Noah"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-2/801De05L/jNUMC7kT"]
+[Date "2026.07.12"]
+[Round "2.8"]
+[White "Loetscher, Roland"]
+[Black "Hofstetter, Noah"]
+[Result "1-0"]
+[WhiteElo "2340"]
+[BlackElo "2002"]
+[ECO "A14"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.b3 c5 7.cxd5 exd5 8.d4 Nc6 9.Nc3 Bg4 10.Bb2 Re8 11.dxc5 Bxc5 12.Rc1 Bb6 13.Na4 Qe7 14.e3 Bc7 15.h3 Bf5 16.Nc5 Bd6 17.Nxb7 Qxb7 18.Bxf6 gxf6 19.Qxd5 Be4 20.Qxd6 Ne5 21.Rc7 Re6 22.Qxe6 Qxc7 23.Qxf6 Ng6 24.Nd4 Bxg2 25.Nf5 Kf8 26.Kxg2 Qc2 27.Nd6 Qc7 28.Rc1 Qd7 29.e4 1-0

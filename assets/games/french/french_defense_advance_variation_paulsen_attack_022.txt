@@ -1,0 +1,14 @@
+[Event "Round 8: Radovanovic, Mihajlo - Priyanka Nutakki"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/YHe8tXK0"]
+[Date "2026.07.21"]
+[Round "8.12"]
+[White "Radovanovic, Mihajlo"]
+[Black "Priyanka Nutakki"]
+[Result "1-0"]
+[WhiteElo "2382"]
+[BlackElo "2255"]
+[ECO "C02"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nge7 6.Na3 Nf5 7.Nc2 Qa5 8.dxc5 Qc7 9.Ncd4 Bxc5 10.Nxf5 exf5 11.Qxd5 Qb6 12.Qd2 O-O 13.Bc4 Re8 14.Qe2 Be6 15.Bxe6 Rxe6 16.O-O Nxe5 17.Nxe5 Bd6 18.Bf4 Bxe5 19.Bxe5 f6 20.Rad1 Rxe5 21.Qc4+ Kh8 22.Rd7 Qxb2 23.Rfd1 h6 24.h4 Rg8 25.h5 f4 26.Qf7 Qe2 27.Rd8 Ree8 28.R8d2 Qe7 29.Rd7 Qe2 30.Qg6 Re7 31.R7d2 Qe5 32.c4 Qe4 33.Rd4 Qe2 34.R1d2 Qe1+ 35.Kh2 Qe5 36.f3 Qg5 37.Kh3 Re5 38.Rd5 Qxg6 39.hxg6 Re1 40.Rd8 Ree8 41.Rxe8 Rxe8 42.Rd7 Rb8 43.Kg4 Kg8 44.c5 Kf8 45.Rf7+ Ke8 46.Rxg7 Kf8 47.Rc7 1-0

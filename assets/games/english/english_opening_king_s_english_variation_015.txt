@@ -1,0 +1,15 @@
+[Event "Round 5: Pingin, Artem - Sargsyan, Sargis Vach."]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-5/k2Lp2qWf/DyvrXKyf"]
+[Date "2026.07.07"]
+[Round "5.2"]
+[White "Pingin, Artem"]
+[Black "Sargsyan, Sargis Vach."]
+[Result "1-0"]
+[WhiteElo "2477"]
+[BlackElo "2417"]
+[ECO "A20"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.d3 Nf6 3.Nf3 Nc6 4.a3 d5 5.cxd5 Nxd5 6.e4 Nf6 7.Qc2 Bg4 8.Nbd2 a5 9.h3 Bh5 10.g4 Bg6 11.Nc4 Nd7 12.Be3 Qf6 13.Ncd2 Bd6 14.h4 h5 15.Bg5 Qe6 16.gxh5 Bxh5 17.Bh3 Bg4 18.Bxg4 Qxg4 19.Be3 Qe6 20.O-O-O O-O-O 21.Kb1 f5 22.Ng5 Qf6 23.exf5 Qxf5 24.Nde4 Be7 25.d4 Kb8 26.d5 Nd4 27.Bxd4 exd4 28.Ne6 Qxd5 29.Nxd8 Rxd8 30.Rhg1 Bxh4 31.Rxg7 c5 32.Rh7 Bf6 33.Rxd7 Qxd7 34.Nxf6 Qc6 35.Ne4 c4 36.f3 Qd5 37.Qh2+ Ka7 38.Qc7 Rf8 39.Nc5 Rf5 40.Qxa5+ Kb8 41.Re1 1-0

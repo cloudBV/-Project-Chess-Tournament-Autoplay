@@ -1,0 +1,15 @@
+[Event "Round 5: Baghirov, Mahammad - Hamidov, Allahverdi"]
+[Site "https://lichess.org/broadcast/shamakhi-open-2026-rapid/round-5/9anZS1bQ/90LokZkg"]
+[Date "2026.07.18"]
+[Round "5.3"]
+[White "Baghirov, Mahammad"]
+[Black "Hamidov, Allahverdi"]
+[Result "1-0"]
+[WhiteElo "2169"]
+[BlackElo "2223"]
+[ECO "D00"]
+[TimeControl "10+30"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 Nf6 3.e3 e6 4.Nf3 c5 5.Nc3 cxd4 6.exd4 a6 7.Bd3 Nc6 8.a3 Bd6 9.Bxd6 Qxd6 10.O-O O-O 11.Re1 b5 12.Ne2 Ne4 13.a4 Rb8 14.axb5 axb5 15.Nd2 f5 16.f3 Nf6 17.Nb3 e5 18.dxe5 Nxe5 19.Ned4 Nc4 20.Bxf5 Nxb2 21.Qe2 Bxf5 22.Nxf5 Qb6+ 23.Kh1 Rfe8 24.Qd2 h6 25.Ne7+ Kf7 26.Nxd5 Rxe1+ 27.Rxe1 Qd6 28.Nxf6 Qxd2 29.Nxd2 gxf6 30.Rc1 1-0

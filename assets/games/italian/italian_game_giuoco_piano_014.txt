@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.19"]
+[Round "2.4"]
+[White "Jin, Ruijun"]
+[Black "Sosa, Tomas"]
+[Result "1/2-1/2"]
+[WhiteElo "2236"]
+[BlackElo "2546"]
+[ECO "C50"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Piano"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 a6 6.c3 Ba7 7.Re1 O-O 8.h3 d6 9.Nbd2 Na5 10.Bb3 Nxb3 11.axb3 Nh5 12.d4 exd4 13.Nxd4 Nf4 14.Nf1 Qf6 15.Ng3 Re8 16.Be3 Bd7 17.Qd2 Ne6 18.b4 g6 19.Nxe6 Bxe3 20.Rxe3 Rxe6 21.Qd4 Qh4 22.Nf1 Rae8 23.Rae1 Bc6 24.Nd2 Qf4 25.Rf3 Qg5 26.Rg3 Qe7 27.Rge3 h5 28.Kh2 h4 29.Kg1 Qg5 30.Nf3 Qf4 31.Nd2 R8e7 32.Rf3 Qg5 33.Rfe3 b6 34.Nf3 Qf4 35.e5 dxe5 36.Nxe5 Qxd4 37.cxd4 Bd5 38.Rc1 g5 39.Rec3 f6 40.Ng4 c6 41.Ne3 Kf7 42.Ra1 Re4 43.Rxa6 Rxd4 44.Rxb6 Rd2 45.Nxd5 Re1+ 46.Kh2 cxd5 47.Rf3 Re6 48.Rxe6 Kxe6 49.Rb3 Rxf2 50.b5 Kd7 51.b6 Kc8 52.Kg1 Rf4 53.Rb5 d4 54.Rd5 f5 55.g3 hxg3 56.Kg2 Kb7 57.Rd6 g4 58.h4 Rf3 59.Rxd4 Kxb6 60.b4 Kc6 61.h5 Rf2+ 62.Kxg3 Rf3+ 63.Kh4 Rf1 64.h6 Rh1+ 65.Kg5 g3 66.Kxf5 Rf1+ 67.Kg6 g2 68.Rg4 g1=Q 69.Rxg1 Rxg1+ 70.Kf7 Rf1+ 71.Kg7 Kd7 72.h7 Rg1+ 73.Kf7 Rh1 74.Kg7 Kc6 75.h8=R Rxh8 76.Kxh8 Kb5 77.Kg7 Kxb4 1/2-1/2

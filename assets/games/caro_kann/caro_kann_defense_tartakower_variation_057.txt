@@ -1,0 +1,14 @@
+[Event "Round 8: Yip, Carissa - Kosteniuk, Alexandra"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-genchall-blitz/round-8/k9nWvT8n/uE0Jfrla"]
+[Date "2026.07.19"]
+[Round "8.2"]
+[White "Yip, Carissa"]
+[Black "Kosteniuk, Alexandra"]
+[Result "1-0"]
+[WhiteElo "2369"]
+[BlackElo "2392"]
+[ECO "B15"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8 9.Qc2 h5 10.Be3 Nd7 11.O-O-O b5 12.d5 c5 13.Bxb5 a6 14.Bd3 Ne5 15.Kb1 c4 16.Be4 g6 17.Bd4 Nd3 18.f3 Rb8 19.Rxd3 cxd3 20.Bxd3 f5 21.c4 Bf8 22.Rd1 Qa5 23.Bc3 Qb6 24.Nd4 Bd7 25.Nb3 Ba4 26.Qd2 Bxb3 27.axb3 Qxb3 28.Rc1 Kh7 29.Qf2 Bg7 30.Qc2 Bxc3 31.Qxc3 Qb7 32.d6 Rec8 33.Qd4 Rc5 34.Rc2 Qb4 35.d7 Rd8 36.Re2 Rc7 37.Re8 f6 38.Rxd8 Qe1+ 39.Kc2 1-0

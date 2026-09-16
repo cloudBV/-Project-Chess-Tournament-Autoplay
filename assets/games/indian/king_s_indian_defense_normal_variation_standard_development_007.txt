@@ -1,0 +1,15 @@
+[Event "Round 3: Nissinen, Niilo Man - Samuel Stephen Noble S"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-3/R83bcJKF/wZLI5vM6"]
+[Date "2026.07.15"]
+[Round "3.8"]
+[White "Nissinen, Niilo Man"]
+[Black "Samuel Stephen Noble S"]
+[Result "1-0"]
+[WhiteElo "2331"]
+[BlackElo "2011"]
+[ECO "E73"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.h4 h5 7.Bg5 Nc6 8.Nf3 Bg4 9.d5 Nb8 10.Nd4 Bxe2 11.Qxe2 c5 12.Nc2 Nbd7 13.O-O a6 14.g3 Rb8 15.a4 Ng4 16.f3 Nge5 17.Bd2 e6 18.Ne3 exd5 19.cxd5 Nf6 20.a5 Qd7 21.f4 Neg4 22.Nc4 Rbe8 23.Qd3 Qc7 24.Rae1 Nd7 25.e5 dxe5 26.f5 e4 27.Nxe4 Bd4+ 28.Kg2 b5 29.axb6 Qb7 30.Ned6 Qxd5+ 31.Qf3 Qxf3+ 32.Rxf3 Rxe1 33.Bxe1 Nde5 34.Ra3 gxf5 35.Bc3 Rd8 36.Rxa6 f4 37.gxf4 Ng6 38.b7 Nxf4+ 39.Kf3 Nd3 40.Ra8 1-0

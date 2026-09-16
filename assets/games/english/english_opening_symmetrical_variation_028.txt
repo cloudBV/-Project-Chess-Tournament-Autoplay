@@ -1,0 +1,15 @@
+[Event "Round 1: Pantsulaia, Levan - Samimi, Armin"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-1/KKuuTOnc/PP73z9YH"]
+[Date "2026.07.14"]
+[Round "1.1"]
+[White "Pantsulaia, Levan"]
+[Black "Samimi, Armin"]
+[Result "1-0"]
+[WhiteElo "2493"]
+[BlackElo "2157"]
+[ECO "A30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 g6 4.e3 Nf6 5.d4 cxd4 6.exd4 d5 7.cxd5 Nxd5 8.Qb3 e6 9.Bb5 Bg7 10.O-O O-O 11.Bxc6 bxc6 12.Na4 Qd6 13.a3 Ne7 14.Bd2 Qd5 15.Qxd5 cxd5 16.Nc5 Nf5 17.Bc3 a5 18.a4 Nd6 19.Ne5 Bxe5 20.dxe5 Nb7 21.Nb3 Bd7 22.Rfc1 Rfc8 23.Be1 Rxc1 24.Rxc1 Bxa4 25.Nd4 Be8 26.Rc7 Rb8 27.f4 a4 28.Kf2 Nd8 29.Ke3 Kf8 30.Bh4 Nb7 31.Be7+ Kg8 32.Bb4 Nd8 33.Bc3 h5 34.h3 Kg7 35.g4 hxg4 36.hxg4 Kg8 37.Kf3 Kf8 38.Kg3 g5 39.fxg5 Kg7 40.Kh4 Kg6 41.Ne2 Nc6 42.Nf4+ Kg7 43.g6 d4 44.gxf7 Bxf7 45.Nxe6+ Kg8 46.Nxd4 Nxe5 47.Nf5 Nf3+ 48.Kg3 Ng5 49.Nh6+ Kf8 50.Nxf7 Nxf7 51.Ra7 Nd6 52.Rxa4 Kf7 53.Rf4+ Ke6 54.g5 Nf7 55.g6 Nd6 56.Kg4 Kd5 1-0

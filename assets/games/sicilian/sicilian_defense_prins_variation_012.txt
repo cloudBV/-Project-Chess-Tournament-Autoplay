@@ -1,0 +1,15 @@
+[Event "Round 9: Tulendinov, Dinmukhammed - Dinh Nho Kiet"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b16/round-9/nAmhapDR/bp3KZ8Oo"]
+[Date "2026.07.24"]
+[Round "9.12"]
+[White "Tulendinov, Dinmukhammed"]
+[Black "Dinh Nho Kiet"]
+[Result "0-1"]
+[WhiteElo "2273"]
+[BlackElo "2330"]
+[ECO "B54"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Prins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 Nc6 7.c4 Be6 8.Be3 a5 9.Nc3 Be7 10.Be2 O-O 11.O-O a4 12.Nd2 Nd4 13.Bxd4 exd4 14.Nxa4 Nh5 15.f4 Nxf4 16.Rxf4 Bg5 17.Rf1 Qa5 18.Nf3 Be3+ 19.Kh1 Qxa4 20.Qxa4 Ra7 21.Qa6 Rxa6 22.b3 Ra3 23.Rfd1 Bg4 24.Ng1 Bxg1 25.Bxg4 Be3 26.Bd7 Rfa8 27.Ba4 f6 28.g3 Kf7 29.Kg2 Ke6 30.Kf3 Ke5 31.h4 h5 32.Rdb1 Bd2 33.Rd1 Bc3 34.Rac1 Rxa2 35.Bd7 Bd2 36.Rb1 Rc2 37.g4 Rc3+ 38.Kg2 Bf4 39.Ra1 Rxa1 40.Rxa1 hxg4 41.Bf5 Rc2+ 42.Kf1 Be3 43.Bxg4 d3 44.Ra5+ Kf4 45.Bh5 Kg3 0-1

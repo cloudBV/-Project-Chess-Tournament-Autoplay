@@ -1,0 +1,14 @@
+[Event "Round 7: Ristic, Luka - Postny, Evgeny"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-7/3Kmor2SN/tveHpuDT"]
+[Date "2026.07.20"]
+[Round "7.15"]
+[White "Ristic, Luka"]
+[Black "Postny, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2312"]
+[BlackElo "2528"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Spassky Variation"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O e6 5.b3 Be7 6.c4 b4 7.a3 a5 8.axb4 axb4 9.Rxa8 Bxa8 10.d4 O-O 11.Bb2 Na6 12.Qd3 Be4 13.Qe3 Bb7 14.Nbd2 c5 15.Ra1 h6 16.Ne5 Bxg2 17.Kxg2 Qc8 18.Qf3 cxd4 19.Bxd4 Nc5 20.Ng4 Nxg4 21.Qxg4 Qc6+ 22.Qf3 Qc7 23.Ne4 d6 24.Qg4 e5 25.Bxc5 dxc5 26.Rd1 f5 27.Qg6 Qc8 28.Nd6 Qa8+ 29.Rd5 Rf6 30.Qe8+ Qxe8 31.Nxe8 Rc6 32.Rd7 Bf8 33.Nc7 Rd6 34.Rxd6 Bxd6 35.Nd5 e4 36.f3 1/2-1/2

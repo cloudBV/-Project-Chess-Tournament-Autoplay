@@ -1,0 +1,14 @@
+[Event "Round 9: Demchenko, Anton - Damljanovic, Branko"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/p6VpEjgv"]
+[Date "2026.07.22"]
+[Round "9.9"]
+[White "Demchenko, Anton"]
+[Black "Damljanovic, Branko"]
+[Result "1-0"]
+[WhiteElo "2588"]
+[BlackElo "2362"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 e6 5.O-O Nc6 6.Nbd2 Be7 7.a4 O-O 8.Re1 a6 9.c3 Rb8 10.Bb3 b5 11.axb5 axb5 12.d4 c4 13.Bc2 e5 14.Nf1 Bg4 15.d5 Na5 16.h3 Bxf3 17.Qxf3 Ra8 18.Ng3 g6 19.Bh6 Re8 20.Ra3 Nb7 21.Nf5 Rxa3 22.Nxe7+ Qxe7 23.bxa3 Ra8 24.Rb1 Ne8 25.Rxb5 Rxa3 26.Rb4 Nc5 27.Rb8 Nd7 28.Rc8 f6 29.Rxc4 Nc5 30.Kh2 Kf7 31.Qg4 Ra2 32.Qd1 Qa7 33.Be3 Ke7 34.Qb1 Nc7 35.Qd1 Ne8 36.Bb1 Ra5 37.Rb4 h5 38.Qd2 Kf7 39.Qb2 Nc7 40.Rb8 N7a6 41.Rc8 Qb7 42.Qxb7+ Nxb7 43.Bd3 Nac5 44.Rc7+ Ke8 45.Be2 Ra3 46.Rg7 Rxc3 47.Rxg6 Nxe4 48.Bxh5 Nbc5 49.Bxc5 1-0

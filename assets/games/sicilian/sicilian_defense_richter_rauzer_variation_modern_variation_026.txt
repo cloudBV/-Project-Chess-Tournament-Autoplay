@@ -1,0 +1,14 @@
+[Event "Round 10: Lu, Miaoyi - Matsumura, Cocoro"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/HP1Lywpq"]
+[Date "2026.07.23"]
+[Round "10.9"]
+[White "Lu, Miaoyi"]
+[Black "Matsumura, Cocoro"]
+[Result "1-0"]
+[WhiteElo "2392"]
+[BlackElo "2225"]
+[ECO "B60"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Nxc6 Bxc6 8.Qe2 Qa5 9.Bd2 Qc7 10.O-O-O h6 11.Nb5 Qd7 12.e5 Ne4 13.Be3 a6 14.e6 fxe6 15.Qh5+ Kd8 16.Bb6+ Kc8 17.Nc7 Rb8 18.Bc4 Nf6 19.Qf7 d5 20.Nxe6 Qd6 21.Nxf8 e5 22.Ng6 Be8 23.Qxg7 Rh7 24.Qf8 Qxb6 25.Ne7+ Rxe7 26.Qxe7 Qc6 27.Qxe5 Qxc4 28.Qxf6 Qxa2 29.b3 Bc6 30.Rhe1 1-0

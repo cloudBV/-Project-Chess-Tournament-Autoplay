@@ -1,0 +1,15 @@
+[Event "Greek Chess Cup F4"]
+[Site "Patras, Greece"]
+[Date "2026.07.03"]
+[Round "2.3"]
+[White "Megalios, Konstantinos"]
+[Black "Kalogeris, Ioannis"]
+[Result "1/2-1/2"]
+[WhiteElo "2385"]
+[BlackElo "2449"]
+[ECO "A14"]
+[TimeControl "90 minutes for 40 moves + 30 minutes + 30sec increment from first move"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.b3 a5 7.d4 a4 8.Ba3 Ne4 9.Qc2 Bxa3 10.Nxa3 axb3 11.axb3 Nc6 12.Qb2 Bd7 13.Nb5 Rxa1 14.Rxa1 Ne7 15.Nc3 Nxc3 16.Qxc3 dxc4 17.bxc4 Bc6 18.Qd3 Bxf3 19.Bxf3 b6 20.Ra7 Qd6 21.Qa3 c5 22.dxc5 bxc5 23.Qa5 Nc6 24.Bxc6 Qxc6 25.Rc7 Qe4 26.Qxc5 Rd8 27.Qd6 Rb8 28.Qb6 Qb1+ 29.Qxb1 Rxb1+ 30.Kg2 g5 31.Kf3 Kg7 32.Ke3 h5 33.Kd2 Kf6 34.Rd7 Rb2+ 35.Kd3 Rb1 36.Kc2 Re1 37.Rd2 h4 38.c5 Ra1 39.Kb3 Ke7 40.gxh4 gxh4 41.Rd4 Rb1+ 42.Kc4 Rb2 43.Kd3 Rb3+ 44.Kc4 Rb2 45.Rxh4 Rxe2 46.Rf4 e5 47.Rf3 e4 48.Re3 Rc2+ 49.Kd5 f5 50.f4 Rxh2 51.Rc3 Rd2+ 52.Ke5 Rd3 53.Rc2 e3 54.Kxf5 Rd2 55.Rc3 Rd5+ 56.Kg6 e2 57.Re3+ Kf8 58.Rxe2 Rxc5 59.f5 Rc6+ 60.f6 Rc1 61.Kf5 1/2-1/2

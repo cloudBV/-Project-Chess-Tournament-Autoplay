@@ -1,0 +1,15 @@
+[Event "Round 4: Yao, Lan - Barreiro Rebolo, Luis"]
+[Site "https://lichess.org/broadcast/open-internacional-de-xadrez-fuxan-os-ventos/round-4/XeH1t84y/o0VntWRg"]
+[Date "2026.07.15"]
+[Round "4.6"]
+[White "Yao, Lan"]
+[Black "Barreiro Rebolo, Luis"]
+[Result "1/2-1/2"]
+[WhiteElo "2308"]
+[BlackElo "2156"]
+[ECO "B27"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.e5 Bg4 7.Bb5+ Nd7 8.O-O a6 9.Bd3 e6 10.Bf4 Ne7 11.Nbd2 O-O 12.h3 Bxf3 13.Nxf3 Nc6 14.Bc2 b5 15.Qd2 Qb6 16.h4 Rfc8 17.h5 a5 18.Rad1 a4 19.Bg5 b4 20.Bb1 b3 21.a3 Na5 22.Qf4 Rc2 23.Be7 h6 24.Bxc2 bxc2 25.Rc1 Qxb2 26.Qd2 Nb3 27.Qxc2 Qxc2 28.Rxc2 Nb6 29.hxg6 fxg6 30.Rc6 Nc4 31.Bb4 Bf8 32.Bxf8 Kxf8 33.Rxe6 Nxa3 34.Rb6 Nc4 35.Rb7 Nca5 36.Rb4 Nc6 37.Rb6 Nca5 38.Rb4 Nc6 39.Rb6 Nca5 40.Rb4 Nc6 1/2-1/2

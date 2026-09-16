@@ -1,0 +1,14 @@
+[Event "Round 6: Hernandez Jimenez, Xavi - Barrientos, Sergio E"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-6/oUzx1lwq/yt25qJoi"]
+[Date "2026.07.11"]
+[Round "6.1"]
+[White "Hernandez Jimenez, Xavi"]
+[Black "Barrientos, Sergio E"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2414"]
+[ECO "B43"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 b5 6.f3 Bb7 7.Be3 Nc6 8.Qd2 Nxd4 9.Bxd4 Ne7 10.Bc5 Rc8 11.Bd6 Qb6 12.O-O-O Ng6 13.Bxf8 Nxf8 14.Kb1 Rc7 15.h4 h5 16.Bd3 Ng6 17.Ne2 Qc5 18.f4 Ne7 19.Ng3 g6 20.e5 Nf5 21.Ne4 Bxe4 22.Bxe4 Ne3 23.Rde1 Nc4 24.Qc1 b4 25.Rh3 a5 26.Bd3 Nb6 27.Qe3 Qxe3 28.Rhxe3 Ke7 29.Re4 Rb8 30.Rd4 Rc5 31.Be4 f5 32.exf6+ Kxf6 33.Rd6 Ke7 34.Rd3 Rg8 35.Rg3 Kf6 36.Bd3 Nd5 37.Re5 Rc7 38.Reg5 Ke7 39.Bxg6 Nxf4 40.Bxh5 Rh8 41.Bf3 Rxh4 42.b3 Rh1+ 43.Kb2 Rf1 44.Be4 Re1 45.Bd3 Nxd3+ 46.Rxd3 Re2 47.Rxa5 Rexc2+ 0-1

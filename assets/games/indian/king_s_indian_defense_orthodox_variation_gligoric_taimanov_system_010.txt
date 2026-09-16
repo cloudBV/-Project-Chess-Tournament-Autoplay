@@ -1,0 +1,15 @@
+[Event "Round 8: Chyndygyr, Tamerlan - Kalyani Sirin"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/etEqaM3O"]
+[Date "2026.07.10"]
+[Round "8.15"]
+[White "Chyndygyr, Tamerlan"]
+[Black "Kalyani Sirin"]
+[Result "1-0"]
+[WhiteElo "2244"]
+[BlackElo "2150"]
+[ECO "E92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.Be3 Qe8 8.dxe5 Ng4 9.Bd2 Nxe5 10.O-O Nbc6 11.Nd5 Qd8 12.Bc3 Be6 13.Rc1 Nxf3+ 14.Bxf3 Ne5 15.Be2 f5 16.exf5 Bxf5 17.Qd2 Rf7 18.Ne3 Be6 19.f4 Nc6 20.Bxg7 Kxg7 21.Bg4 Qf6 22.Bxe6 Qxe6 23.Nd5 Qe4 24.Kh1 Raf8 25.b3 Qd4 26.Qe2 Kg8 27.Rcd1 Qg7 28.Qe3 a5 29.a3 Qb2 30.a4 Qg7 31.Qd2 b6 32.Kg1 Nb8 33.g4 Nd7 34.Nxc7 Nc5 35.Nb5 Nxb3 36.Qxd6 Rf6 37.Qe5 Nc5 38.Rde1 Qd7 39.h3 Nd3 40.Qe7 Qc6 41.Nd4 Qxc4 42.Re4 Rxf4 43.Qxf8+ Kxf8 44.Ne6+ Ke7 45.Rfxf4 Qc1+ 46.Rf1 Qd2 47.Nf4+ Kd7 48.Rd4+ Kc6 49.Rxd3 Qc2 50.Rd4 Qc3 51.Rfd1 Qg3+ 52.Ng2 Qxh3 53.Rc1+ Kb7 54.Rd7+ Kb8 55.Re1 Kc8 56.Ra7 Kd8 57.Rf1 Ke8 58.Rff7 Qxg4 59.Rxh7 Qd4+ 60.Kh2 Qe5+ 61.Kh3 Qf5+ 62.Kh4 Qe4+ 63.Kg5 Qxg2+ 64.Kh6 Qh2+ 65.Kg7 Qe5+ 66.Kg8 Qd5+ 67.Rhf7 g5 68.Ra8+ Qxa8 69.Rf8+ Kd7 70.Rxa8 Kc6 71.Rc8+ Kb7 72.Rc4 b5 73.Rc5 1-0

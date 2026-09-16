@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "18.1"]
+[White "Warchol, Kamil"]
+[Black "Dubnevych, Maksym"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2464"]
+[ECO "C55"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Be6 8.Bxe6 fxe6 9.a5 a6 10.c3 h6 11.Nbd2 Qe8 12.Qb3 Nd8 13.d4 Nd7 14.dxe5 dxe5 15.Nc4 Bf6 16.Be3 Rb8 17.Rad1 Nc6 18.Rd2 Rf7 19.Qa4 Nf8 20.b4 Ng6 21.b5 Nce7 22.Rb1 Rf8 23.Qb3 axb5 24.Qxb5 Qf7 25.Ncxe5 Nxe5 26.Nxe5 Bxe5 27.Qxe5 Ng6 28.Qg3 e5 29.Rbd1 Rfe8 30.Rd7 Qe6 31.Rxc7 Rbd8 32.Rb1 Qd6 33.h3 Qxc7 34.Qxg6 Rf8 35.Qg4 Rd6 36.Qe2 Rg6 37.Qb5 Kh7 38.Qxb7 Qxa5 39.Qb4 Qd8 40.Qc4 Qf6 41.Rb6 Qe7 42.Rxg6 Kxg6 43.Kh2 Qf6 44.Qd5 Kh7 45.c4 Rc8 46.c5 Rc6 47.Qc4 Qg6 48.Qd5 Qf6 49.Kg1 Ra6 50.Kh2 1/2-1/2

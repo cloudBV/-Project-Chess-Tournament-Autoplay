@@ -1,0 +1,14 @@
+[Event "Round 7: Schulze, Lara - Peglau, Charis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-women/round-7/yWNAX1Kk/tFQrsvvy"]
+[Date "2026.07.23"]
+[Round "7.3"]
+[White "Schulze, Lara"]
+[Black "Peglau, Charis"]
+[Result "1-0"]
+[WhiteElo "2326"]
+[BlackElo "2169"]
+[ECO "C17"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Bxc3 6.Bxc3 Ne7 7.dxc5 Qc7 8.Qg4 Qxc5 9.Nf3 Nbc6 10.O-O-O Nf5 11.Bd3 g6 12.Rhf1 Bd7 13.Qf4 Qe7 14.g4 Nh4 15.Nxh4 Qxh4 16.Bb5 Qe7 17.Qe3 b6 18.Bxc6 Bxc6 19.a3 O-O-O 20.Bb4 Qd7 21.Rd4 Bb5 22.Rfd1 h5 23.g5 Kb7 24.Rf4 Rc8 25.Qf3 Rh7 26.Bd6 Ka8 27.b3 Qb7 28.Kb2 Rd8 29.Rf6 Rc8 30.Rd4 Qc6 31.Rd2 Qb7 32.a4 Be8 33.Rd3 Rh8 34.Rf4 Rh7 35.Qd1 Rh8 36.Rdf3 Rh7 37.Qd4 Rg7 38.h3 Rh7 39.h4 Rg7 40.Qd2 Qa6 41.Ba3 Qb7 42.Rd4 Rg8 43.Rdf4 Rh8 44.a5 b5 45.Bd6 Rh7 46.Qb4 Bc6 47.Qd4 Be8 48.Rc3 Rxc3 49.Qxc3 Bc6 50.Qc5 a6 51.Be7 Qc7 52.Bf6 Kb7 53.b4 Bd7 54.Qf8 Qc8 55.Qe7 Ka8 56.Rd4 Bc6 57.Rd3 Qd7 58.Qf8+ Qe8 59.Qc5 Bb7 60.Rc3 Qb8 61.Qb6 Qa7 62.Rc7 Qxb6 63.axb6 d4 64.Kc1 Be4 65.Kd2 Kb8 66.f3 Bf5 67.Rd7 Kc8 68.Rxd4 Kb7 69.Rd6 Bh3 70.Kc3 Bg2 71.Kd4 Bxf3 72.Kc5 Be4 73.Rd7+ Kb8 74.b7 Ka7 75.b8=Q+ Kxb8 76.Kb6 1-0

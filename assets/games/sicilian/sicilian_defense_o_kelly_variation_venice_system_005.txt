@@ -1,0 +1,15 @@
+[Event "Round 7: Aravindh, Chithambaram VR. - Aarav Dengla"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-7/dntEFj4R/9mYvKZQ4"]
+[Date "2026.07.04"]
+[Round "7.10"]
+[White "Aravindh, Chithambaram VR."]
+[Black "Aarav Dengla"]
+[Result "1-0"]
+[WhiteElo "2569"]
+[BlackElo "2303"]
+[ECO "B28"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Be2 cxd4 7.cxd4 Nf6 8.Nc3 Qd6 9.Bg5 Be7 10.O-O O-O 11.Bd3 h6 12.Be3 b5 13.Ne4 Qd5 14.Nxf6+ Bxf6 15.Nd2 Bb7 16.Be4 Qd7 17.Qf3 Nc6 18.Nb3 Be7 19.Rac1 Rac8 20.d5 Ne5 21.Qf4 Nc4 22.dxe6 fxe6 23.Qg4 Nxe3 24.fxe3 Rxc1 25.Rxc1 Bg5 26.Re1 Qf7 27.Bf3 Bxf3 28.gxf3 Qxf3 29.Qxf3 Rxf3 30.e4 Rd3 31.Kg2 Bf4 32.Re2 g5 33.Nc5 Rd6 34.e5 Rd5 35.Nxa6 Rxe5 36.Rc2 Kf7 37.Nc5 Rd5 38.b3 b4 39.Na6 Rd4 40.Nc5 h5 41.h3 Kf6 42.Kf3 Kf5 43.Re2 e5 44.Kg2 e4 45.Na4 Rd3 46.Nc5 Rg3+ 47.Kf1 Rxh3 48.Rxe4 Rc3 49.Rc4 Rxc4 50.bxc4 h4 51.Nd3 h3 52.c5 Bc7 53.Nxb4 g4 54.Nd5 g3 55.Nxc7 Kg4 56.Ne6 Kf3 57.Ng5+ 1-0

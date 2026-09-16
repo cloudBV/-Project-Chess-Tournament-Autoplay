@@ -1,0 +1,14 @@
+[Event "Round 2: Persson, Andreas - Badacsonyi, Stanley"]
+[Site "https://lichess.org/broadcast/south-wales-international-2026/round-2/xXJCJT52/mvX9QFMK"]
+[Date "2026.07.07"]
+[Round "2.3"]
+[White "Persson, Andreas"]
+[Black "Badacsonyi, Stanley"]
+[Result "0-1"]
+[WhiteElo "2082"]
+[BlackElo "2312"]
+[ECO "A49"]
+[Variant "Standard"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.b3 b5 7.c4 bxc4 8.bxc4 Bb7 9.Nbd2 Nbd7 10.Rb1 Rb8 11.Qc2 Re8 12.e4 e5 13.d5 Qc8 14.Ba3 Bf8 15.Rfc1 c5 16.Ne1 Bh6 17.Nd3 Nb6 18.f4 exf4 19.gxf4 Qg4 20.Rf1 Nh5 21.Qd1 Qxd1 22.Rbxd1 f5 23.e5 dxe5 24.Nxc5 Nxf4 25.Nxb7 Rxb7 26.Rxf4 Bxf4 27.c5 Be3+ 28.Kf1 Bxd2 29.d6 e4 30.c6 e3 31.Ke2 Rf7 32.Rb1 Na4 33.d7 Nc3+ 34.Kd3 Rd8 35.Rb7 Ne4 36.Bf3 Nf6 37.Ke2 Rfxd7 38.cxd7 Rxd7 39.Rb8+ Kf7 40.Bc6 Rc7 41.Ba4 Ne4 42.Bb3+ Kf6 43.h4 Nc3+ 0-1

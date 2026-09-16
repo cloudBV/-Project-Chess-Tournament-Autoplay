@@ -1,0 +1,14 @@
+[Event "Round 6: Vavulin, Maxim - Besou, Hussain"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-6/JgS3DPSb/DPxa57gC"]
+[Date "2026.07.22"]
+[Round "7.4"]
+[White "Vavulin, Maxim"]
+[Black "Besou, Hussain"]
+[Result "1/2-1/2"]
+[WhiteElo "2537"]
+[BlackElo "2413"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Be3 e5 7.Nb3 Be6 8.f4 exf4 9.Bxf4 Nc6 10.Qe2 Be7 11.h3 Nd7 12.O-O-O Nce5 13.Kb1 O-O 14.g4 Rc8 15.Qe3 b5 16.Nd4 Qc7 17.Rh2 Rfe8 18.Nf5 Bf8 19.Qg3 Nc5 20.Bc1 b4 21.Nd5 Bxd5 22.exd5 Qb7 23.h4 a5 24.h5 a4 25.Qf4 g6 26.Nd4 Bg7 27.g5 b3 28.hxg6 bxa2+ 29.Kxa2 Nxg6 30.Qf3 Bxd4 31.Rxd4 Nb3 32.Rd1 Nxc1+ 33.Rxc1 Rb8 34.c4 Qb3+ 35.Qxb3 axb3+ 36.Kb1 Re5 37.Rg2 Rbe8 38.Rg3 Re3 39.Rxe3 Rxe3 40.Rd1 Kf8 41.c5 dxc5 42.d6 Ke8 43.Kc1 Ne5 44.Kd2 Re4 45.Bb5+ Kd8 46.Kc3 Re3+ 47.Kd2 Re4 48.Kc3 Re3+ 49.Kd2 1/2-1/2

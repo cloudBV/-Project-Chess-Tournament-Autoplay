@@ -1,0 +1,15 @@
+[Event "Round 5: Dargali, Hakan - Dirikolu, Deniz"]
+[Site "https://lichess.org/broadcast/2-uluslararas-pamukkale-ack-satranc-turnuvas-category-a/round-5/gptHRTF9/V4ZVKchO"]
+[Date "2026.07.16"]
+[Round "5.12"]
+[White "Dargali, Hakan"]
+[Black "Dirikolu, Deniz"]
+[Result "0-1"]
+[WhiteElo "2101"]
+[BlackElo "2373"]
+[ECO "B70"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 d6 4.Nxd4 Nf6 5.Nc3 g6 6.Bc4 Bg7 7.Qe2 Nc6 8.Nb3 O-O 9.h3 Ne5 10.Bd3 a6 11.f4 Nxd3+ 12.cxd3 b5 13.Be3 b4 14.Nd1 a5 15.O-O Ba6 16.Nf2 a4 17.Nd4 Qd7 18.g4 e5 19.Nf3 exf4 20.Bxf4 Rab8 21.Qd2 Rfe8 22.Rac1 h5 23.Bg5 Nxg4 24.hxg4 hxg4 25.Ne1 g3 26.Nh1 Qh3 27.Rf3 Rxe4 28.Qg2 Bd4+ 29.Kf1 Qe6 30.Nxg3 Rg4 31.Nc2 Be5 32.Bd2 Bb7 33.Re1 Bxf3 34.Qxf3 Rxg3 35.Qxg3 Bxg3 36.Rxe6 fxe6 37.Bxb4 Rc8 38.Bc3 Be5 39.d4 Bf4 40.Ke2 g5 41.Kd3 d5 42.b3 axb3 43.axb3 g4 44.Ne1 Bd6 45.Ng2 Rb8 46.Kc2 Bb4 47.Bb2 Rf8 0-1

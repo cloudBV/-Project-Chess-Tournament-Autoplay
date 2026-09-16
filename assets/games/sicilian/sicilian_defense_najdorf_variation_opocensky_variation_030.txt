@@ -1,0 +1,14 @@
+[Event "Round 4: Braun, Georg, Dr. - Engel, Luis"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-masters-men/round-4/qA33743b/hpUg7OQF"]
+[Date "2026.07.20"]
+[Round "4.3"]
+[White "Braun, Georg, Dr."]
+[Black "Engel, Luis"]
+[Result "0-1"]
+[WhiteElo "2374"]
+[BlackElo "2588"]
+[ECO "B92"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6 9.f4 exf4 10.Bxf4 Nc6 11.Qd2 d5 12.O-O-O dxe4 13.Qe3 Qc8 14.Nc5 O-O 15.Bd6 Bf5 16.Rhf1 Bg6 17.h4 Rd8 18.Bxe7 Rxd1+ 19.Rxd1 Nxe7 20.N5xe4 Nxe4 21.Nxe4 Qe6 22.Bf3 Qxa2 23.Qb6 Nc6 24.Nc3 Qa1+ 25.Kd2 Qa5 26.Qxb7 Rd8+ 27.Kc1 Nd4 28.Bd5 Nb5 29.Nb1 Nd6 30.Qe7 Rc8 31.Bb3 Nf5 32.Qg5 Kh8 33.Qf4 h5 34.Nc3 Qa1+ 35.Nb1 Qa5 36.Nc3 Nh6 37.Rd5 Qb6 38.Qd4 Qb8 39.Qe5 Nf5 40.Qxb8 Rxb8 41.Ra5 Nxh4 42.Bd5 Rb6 43.g3 Nf5 44.Bxf7 Nxg3 45.Nd5 Bxf7 46.Nxb6 h4 47.Kd2 h3 48.Ke3 h2 49.Ra1 h1=Q 50.Rxh1+ Nxh1 51.c4 Kg8 52.c5 Be8 53.Nd5 Kf7 54.b4 Ng3 55.Kf4 Nh5+ 56.Ke5 Nf6 57.Nc7 Bb5 58.c6 Ke7 59.Ne6 Ng4+ 60.Ke4 0-1

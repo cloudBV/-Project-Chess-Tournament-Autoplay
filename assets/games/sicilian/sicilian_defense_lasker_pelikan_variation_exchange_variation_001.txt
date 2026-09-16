@@ -1,0 +1,14 @@
+[Event "Round 2: Skomial, Mateusz - Bailet, Pierre"]
+[Site "https://lichess.org/broadcast/xxxiv-heart-of-finland-open/round-2/VxANujWG/DZh20Ses"]
+[Date "2026.07.14"]
+[Round "2.8"]
+[White "Skomial, Mateusz"]
+[Black "Bailet, Pierre"]
+[Result "1/2-1/2"]
+[WhiteElo "2118"]
+[BlackElo "2410"]
+[ECO "B33"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nxc6 bxc6 7.Bd3 Be7 8.O-O O-O 9.h3 d5 10.Qe1 Qc7 11.Bg5 Be6 12.Kh1 h6 13.Bh4 Rfe8 14.exd5 Bxd5 15.Nxd5 cxd5 16.c3 Nh5 17.Bxe7 Rxe7 18.Qd2 Nf4 19.Rfe1 Rd8 20.Rad1 Ne6 21.Bc2 d4 22.Qd3 g6 23.Bb3 dxc3 24.Qxc3 Rxd1 25.Rxd1 Qxc3 26.bxc3 Nc5 27.Rd8+ Kg7 28.Rc8 Nxb3 29.axb3 1/2-1/2

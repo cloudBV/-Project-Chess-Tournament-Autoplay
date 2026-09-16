@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-9/68UWho8C/Z4LBSs4X"]
+[Date "2026.07.05"]
+[Round "9.12"]
+[White "Rekuc, Patryk"]
+[Black "Kusiak, Mateusz"]
+[Result "0-1"]
+[WhiteElo "2216"]
+[BlackElo "2063"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.b3 a6 5.Be2 Bd6 6.Bb2 O-O 7.O-O b6 8.cxd5 exd5 9.Qc2 Bb7 10.Nd4 Re8 11.Nf5 Bf8 12.Ng3 c5 13.d4 Nbd7 14.dxc5 Nxc5 15.b4 Nce4 16.Qb3 Rc8 17.Rd1 Qc7 18.Bd4 Re6 19.a3 Rc6 20.Ra2 Bd6 21.Nf1 Be5 22.Qb2 Bxd4 23.Qxd4 h6 24.Bd3 Rd8 25.Re2 Ng5 26.Qb2 Nd7 27.f4 Ne6 28.Ng3 Nf6 29.a4 Rc8 30.Nf5 d4 31.Nxd4 Nxd4 32.Qxd4 Rd8 33.b5 axb5 34.axb5 Rxd4 35.bxc6 Rxd3 36.Rxd3 Qxc6 37.Nd2 Qc1+ 38.Kf2 Ba6 39.Rd8+ Kh7 40.Re1 Ng4+ 0-1

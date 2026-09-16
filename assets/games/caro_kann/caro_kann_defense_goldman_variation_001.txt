@@ -1,0 +1,14 @@
+[Event "Round 2: Erdogmus, Yagiz Kaan - Suleymanli, Aydin"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-triathlon-masters-blitz/round-2/tCsJ341x/Z1BnExjC"]
+[Date "2026.07.19"]
+[Round "2.2"]
+[White "Erdogmus, Yagiz Kaan"]
+[Black "Suleymanli, Aydin"]
+[Result "1/2-1/2"]
+[WhiteElo "2546"]
+[BlackElo "2559"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Goldman Variation"]
+
+1.e4 c6 2.Nc3 d5 3.Qf3 dxe4 4.Nxe4 Nd7 5.d4 Ndf6 6.c3 Bg4 7.Qf4 e6 8.Bd3 Bh5 9.Qh4 Be7 10.Ng3 Qd5 11.Nxh5 Nxh5 12.Qh3 Bd6 13.Ne2 Nhf6 14.Nf4 Qa5 15.O-O Qc7 16.g3 O-O-O 17.a4 Ne7 18.a5 a6 19.Re1 Kb8 20.Bf1 h5 21.Nd3 h4 22.Qg2 hxg3 23.hxg3 Nf5 24.Ne5 Rh7 25.Nc4 Rdh8 26.Nxd6 Nxd6 27.Qf3 Rh5 28.Bg2 Rf5 29.Qe2 Rfh5 30.Bf4 Nd5 31.Be5 f6 32.Bxd6 Qxd6 33.Qxe6 Qc7 34.Qg4 Ka7 35.c4 f5 36.Qf3 Nf6 37.d5 f4 38.dxc6 fxg3 39.Qxg3 Qxg3 40.fxg3 bxc6 41.Bxc6 Rc5 42.Bg2 Rxc4 43.Re7+ Kb8 44.Rxg7 Rg8 45.Rxg8+ Nxg8 46.Bd5 Rg4 47.Kf2 Nf6 48.Bf3 Rb4 49.Ra2 Kc7 50.Be2 Rb3 51.Bxa6 Ne4+ 52.Ke2 Rxg3 53.Bc4 Kb8 54.Bd5 Nc5 55.Kd2 Rd3+ 56.Kc2 Rxd5 57.Kc3 Na6 58.b4 Rh5 59.Rb2 Nc7 60.b5 Rxb5 61.Rxb5+ Nxb5+ 62.Kb4 Nc7 63.a6 Nxa6+ 1/2-1/2

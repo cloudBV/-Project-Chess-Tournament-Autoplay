@@ -1,0 +1,14 @@
+[Event "Blitz C18"]
+[Site "Rzeszow"]
+[Date "2026.07.13"]
+[Round "7.6"]
+[White "Musial, Igor"]
+[Black "Jasiulewicz, Dawid"]
+[Result "0-1"]
+[WhiteElo "2175"]
+[BlackElo "2085"]
+[ECO "C15"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Delayed Exchange Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 c6 6.Nf3 Ne7 7.a3 Bd6 8.O-O Bf5 9.Ne2 O-O 10.Bg5 Bxd3 11.Qxd3 Qc7 12.Ng3 Ng6 13.Rfe1 Nd7 14.Nf5 Rfe8 15.Re2 h6 16.Bd2 Nf6 17.Rae1 Rxe2 18.Rxe2 Ne4 19.Ng3 Bxg3 20.hxg3 a5 21.Be1 a4 22.Nd2 Nd6 23.f3 Qb6 24.Qc3 Nb5 25.Qc5 Qxc5 26.dxc5 Nd4 27.Kf1 Nxe2 28.Kxe2 Re8+ 29.Kd1 Ne5 30.g4 g6 31.Bg3 Nd7 32.Bd6 Re6 33.b4 axb3 34.cxb3 Re3 35.a4 Rc3 36.b4 Ra3 37.Kc2 Rxa4 38.Kc3 Ra1 39.Nb3 Rg1 40.g3 Rf1 41.Nd4 Kg7 42.b5 cxb5 43.Kb4 Rb1+ 44.Ka5 b4 45.Ka4 h5 46.gxh5 gxh5 47.Nb3 Rf1 48.Nd4 Rb1 49.Nb3 f5 50.Kxb4 Kf6 51.Kc3 Rf1 52.Nd2 Rc1+ 53.Kd4 b6 54.Kxd5 Nxc5 55.Bf4 Nd3 56.Ne4+ fxe4 57.Bxc1 Nxc1 58.fxe4 Nd3 59.Kc4 Ne5+ 60.Kb5 Nd7 61.Kc6 Ke5 0-1

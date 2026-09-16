@@ -1,0 +1,15 @@
+[Event "Round 1: Avsar, Gediz - Darvishi, Mohammad Hossein"]
+[Site "https://lichess.org/broadcast/fuby-akademi-chess-tournaments-4-series/round-1/WPc6QuTA/Yc9OB2iJ"]
+[Date "2026.07.24"]
+[Round "1.2"]
+[White "Avsar, Gediz"]
+[Black "Darvishi, Mohammad Hossein"]
+[Result "1/2-1/2"]
+[WhiteElo "2376"]
+[BlackElo "2300"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 Nc6 4.Bb2 Nge7 5.g3 d5 6.exd5 exd5 7.Bg2 d4 8.O-O g6 9.c3 Bg7 10.cxd4 O-O 11.Nc3 Nxd4 12.Nxd4 Bxd4 13.Qc1 Bd7 14.Bxb7 Bc6 15.Bxc6 Nxc6 16.Ne2 Bxb2 17.Qxb2 Re8 18.d4 cxd4 19.Rad1 Qf6 20.Nc1 h5 21.Nd3 Qf3 22.Qc1 Re2 23.a3 Rc8 24.b4 Ree8 25.Qf4 Qxf4 26.Nxf4 Ne5 27.Kg2 Red8 28.Rfe1 Nc4 29.Rc1 Nxa3 30.Rxc8 Rxc8 1/2-1/2

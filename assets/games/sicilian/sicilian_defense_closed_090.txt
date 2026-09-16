@@ -1,0 +1,14 @@
+[Event "Round 6: Rosen, Willy - Koehler, Gerhard, Dr."]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/uS0fbWmG"]
+[Date "2026.07.22"]
+[Round "6.13"]
+[White "Rosen, Willy"]
+[Black "Koehler, Gerhard, Dr."]
+[Result "1/2-1/2"]
+[WhiteElo "2045"]
+[BlackElo "2179"]
+[ECO "B25"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.f4 d6 6.d3 e6 7.Nf3 Nge7 8.O-O O-O 9.h3 Rb8 10.a4 a6 11.g4 f5 12.Qe1 d5 13.gxf5 exf5 14.exd5 Nxd5 15.Ne5 Ndb4 16.Nxc6 bxc6 17.Qd1 Nd5 18.Nxd5 cxd5 19.Rb1 d4 20.Bd2 Bb7 21.Bxb7 Rxb7 22.Qf3 Qd7 23.Rfe1 Rbb8 24.b3 Rfe8 25.Kg2 Bf6 26.Rxe8+ Rxe8 27.Re1 Rxe1 28.Bxe1 Kf7 29.Bf2 Ke6 30.Qe2+ Kd6 31.Be1 Qe6 32.Qxe6+ Kxe6 33.Bd2 h6 34.Kf3 g5 35.Bc1 Kf7 36.Bd2 Kg6 37.Be1 Kh5 38.Bg3 g4+ 39.hxg4+ fxg4+ 40.Ke4 Kg6 41.f5+ Kf7 42.Bd6 Be7 43.Be5 h5 44.Kf4 Bf6 1/2-1/2

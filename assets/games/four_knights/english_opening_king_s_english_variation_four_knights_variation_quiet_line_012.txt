@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-6/TDdeBJvE/zMVcWmt7"]
+[Date "2026.07.17"]
+[Round "6.14"]
+[White "Spraggett, Kevin"]
+[Black "Petriashvili, Nikoloz"]
+[Result "0-1"]
+[WhiteElo "2414"]
+[BlackElo "2510"]
+[ECO "A28"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Quiet Line"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Be7 5.a3 d5 6.cxd5 Nxd5 7.Qc2 O-O 8.Be2 Be6 9.O-O f5 10.d3 Qe8 11.Bd2 Rd8 12.b4 a6 13.Nxd5 Bxd5 14.Bc3 Qg6 15.Qb2 Bd6 16.b5 axb5 17.Qxb5 Ne7 18.Qb2 e4 19.dxe4 fxe4 20.Nh4 Qh6 21.g3 Rf7 22.a4 Rdf8 23.Rad1 c6 24.Ng2 Ng6 25.Bb4 Bxb4 26.Qxb4 Qh3 27.Qd4 Rf5 28.Rb1 R8f7 29.a5 Ne5 30.Nf4 Rxf4 31.Qxe5 R4f6 32.a6 bxa6 33.Rb8+ Rf8 34.Rxf8+ Rxf8 35.Bxa6 Qg4 36.Qd4 h5 37.Bc4 Qf5 38.Bxd5+ cxd5 39.h3 Kh7 40.Kh2 Rf6 41.h4 Kh6 42.Kg2 g5 43.hxg5+ Kxg5 44.Qb6 0-1

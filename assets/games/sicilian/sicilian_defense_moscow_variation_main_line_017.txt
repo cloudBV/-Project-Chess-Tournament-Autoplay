@@ -1,0 +1,15 @@
+[Event "Round 9: De Silva, L M S T - Gupta, Abhijeet"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-9/fUa9bQJG/Bkoxos0k"]
+[Date "2026.06.30"]
+[Round "9.1"]
+[White "De Silva, L M S T"]
+[Black "Gupta, Abhijeet"]
+[Result "0-1"]
+[WhiteElo "2393"]
+[BlackElo "2529"]
+[ECO "B52"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 e6 7.b3 Be7 8.Bb2 O-O 9.c4 a6 10.d4 cxd4 11.Nxd4 Qa5 12.Nc3 Rfe8 13.Rac1 Bf8 14.a3 Rac8 15.Rc2 g6 16.Rd1 Bg7 17.Nf3 Qb6 18.b4 Qc6 19.c5 dxc5 20.b5 axb5 21.Nxb5 Rcd8 22.Nd6 Rf8 23.e5 Nd5 24.Nd4 Qa4 25.Rc4 Qa6 26.N4b5 N7b6 27.Rxc5 Na4 28.Rc4 Nxb2 29.Qxb2 Rxd6 30.Nxd6 Qxd6 31.exd6 Bxb2 32.Rb1 b5 33.Rc2 Bxa3 34.d7 Nf6 35.Rc7 Bd6 36.Rc6 Be7 37.Rc8 Nxd7 38.Rxf8+ Kxf8 39.Rxb5 Bd6 40.g3 h5 41.Kg2 Ke7 42.Rb7 e5 43.Rb1 Ke6 44.Rb2 Bc5 45.Rc2 Bd4 46.Ra2 Nc5 47.f3 f5 48.Ra8 e4 49.fxe4 fxe4 50.Re8+ Kd5 51.Kf1 Kc4 52.Ke2 Na4 53.Rg8 Nc3+ 54.Ke1 Kd3 55.Rxg6 e3 56.Rd6 Ne4 57.Rd5 Nd2 58.Rf5 Nc4 0-1

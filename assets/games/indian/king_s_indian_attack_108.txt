@@ -1,0 +1,15 @@
+[Event "Round 8: Banerjee, Supratit - Fava, Lorenzo"]
+[Site "https://lichess.org/broadcast/wood-green-invitational-2026/round-8/94vdhkRC/qAgUIHeV"]
+[Date "2026.07.20"]
+[Round "8.3"]
+[White "Banerjee, Supratit"]
+[Black "Fava, Lorenzo"]
+[Result "1/2-1/2"]
+[WhiteElo "2347"]
+[BlackElo "2343"]
+[ECO "A07"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nd7 3.d4 Nb6 4.Bg2 Bf5 5.a4 a5 6.O-O h6 7.Re1 Nf6 8.b3 e6 9.Ba3 Bxa3 10.Nxa3 O-O 11.c4 c6 12.Nd2 Nbd7 13.e3 Qe7 14.h3 Rfd8 15.Nc2 Bg6 16.Rc1 Rac8 17.Qe2 e5 18.Nf3 e4 19.Nd2 Nf8 20.Rf1 Ne6 21.f4 exf3 22.Nxf3 Be4 23.Ne5 Bxg2 24.Qxg2 Ng5 25.Rf5 c5 26.Rcf1 Nge4 27.R5f4 cxd4 28.exd4 dxc4 29.Nxc4 Ng5 30.N2e3 Qe6 31.Kh2 Rc7 32.Nf5 Nd5 33.Rg4 Nf6 34.Rh4 Ngh7 35.Rhf4 Qd5 36.Qxd5 Rxd5 37.Re1 Kf8 38.Nfe3 Rd8 39.Rd1 Nd5 40.Nxd5 Rxd5 41.Re1 Nf6 42.g4 b5 43.axb5 Rxb5 44.Rf3 a4 45.bxa4 Rb4 46.Ne5 Rxa4 47.d5 Rd4 48.Rb3 Rc8 49.Rb7 Re8 50.Rxf7+ Kg8 51.Rb7 Rxd5 52.Nf3 Rxe1 53.Nxe1 Rd2+ 54.Kg3 Ne4+ 55.Kf4 Ng5 56.h4 Ne6+ 57.Ke3 Ra2 58.Re7 Ra3+ 59.Ke4 Nf8 60.Rb7 Ra4+ 61.Kf3 Ng6 62.Rb8+ Kh7 63.Rb5 Ra3+ 64.Kf2 Nxh4 65.Rb6 Rc3 66.Rd6 Ra3 67.Rb6 Ng6 68.Nf3 Rc3 69.Rd6 Rb3 70.Rd4 Ra3 71.Re4 Ra7 72.Kg3 Ne7 73.Re5 Ng8 74.Re4 Nf6 75.Rd4 Ra5 76.Kg2 Ra6 77.Kg3 g5 78.Rc4 Re6 79.Kf2 Kg6 80.Rd4 h5 81.gxh5+ Kxh5 82.Nxg5 Kxg5 83.Kf3 Ra6 84.Rd3 Kf5 85.Rb3 Ng4 86.Rb5+ Ne5+ 87.Ke3 Ra4 88.Rb7 Re4+ 89.Kd2 Rd4+ 90.Ke3 Rd3+ 91.Ke2 Ra3 92.Rb5 Ke4 93.Rb4+ Kd5 94.Rh4 Nc6 95.Rh8 Nd4+ 96.Kd2 Nf3+ 97.Kc2 Ke4 98.Rh7 Nd4+ 99.Kd2 Rd3+ 100.Ke1 Rc3 101.Rh8 Rc2 102.Re8+ Kd3 103.Rd8 Ra2 104.Kf1 Ke3 105.Re8+ Kf4 106.Rf8+ Nf5 107.Ke1 Ke3 108.Re8+ Kd3 109.Rd8+ 1/2-1/2

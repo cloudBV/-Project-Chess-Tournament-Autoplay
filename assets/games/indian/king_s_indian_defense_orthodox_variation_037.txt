@@ -1,0 +1,14 @@
+[Event "Round 6: Stahr, Ralf-Peter - Evers, Udo"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-handicapped-players/round-6/wHHYkBoO/QgXEXesI"]
+[Date "2026.07.24"]
+[Round "6.4"]
+[White "Stahr, Ralf-Peter"]
+[Black "Evers, Udo"]
+[Result "1-0"]
+[WhiteElo "2018"]
+[BlackElo "2169"]
+[ECO "E91"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Nf3 O-O 6.Be2 Bg4 7.O-O c6 8.Be3 h6 9.h3 Bxf3 10.Bxf3 Nbd7 11.Be2 e5 12.Qd2 Kh7 13.f4 Qe7 14.fxe5 dxe5 15.d5 Rfd8 16.d6 Qf8 17.c5 Ne8 18.b4 f6 19.h4 h5 20.g4 hxg4 21.Bxg4 Bh6 22.h5 Bxe3+ 23.Qxe3 g5 24.h6 Qg8 25.Bf5+ Kh8 26.Rad1 Nf8 27.d7 Nc7 28.Rd6 Qf7 29.Qh3 a5 30.a3 axb4 31.axb4 Ra3 32.Rf3 Rb3 33.Bg4 Rxc3 34.Rxc3 Nb5 35.Rcd3 Nxd6 36.Rxd6 Nh7 37.Bh5 Qc4 38.Bg6 Qc1+ 39.Kg2 Qc2+ 40.Kf1 1-0

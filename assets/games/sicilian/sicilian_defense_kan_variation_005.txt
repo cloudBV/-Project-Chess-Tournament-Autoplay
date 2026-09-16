@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.09"]
+[Round "1.7"]
+[White "Pressler, Tobias"]
+[Black "Babula, Matej"]
+[Result "1/2-1/2"]
+[WhiteElo "2182"]
+[BlackElo "2119"]
+[ECO "B41"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.g3 d5 6.Bg2 dxe4 7.O-O e5 8.Nb3 Qxd1 9.Rxd1 f5 10.Nc3 Nf6 11.g4 fxg4 12.Nxe4 Nxe4 13.Bxe4 Nc6 14.Be3 Bd7 15.Nc5 Bxc5 16.Bxc5 O-O-O 17.Bb6 Rde8 18.Rd6 Re6 19.Rad1 Rxd6 20.Rxd6 g6 21.Rf6 Re8 22.Bd5 Nd4 23.Rf7 h5 24.c3 Ne2+ 25.Kf1 Nf4 26.Be4 Re6 27.Be3 Bc6 28.Bxc6 Rxc6 29.Bxf4 exf4 30.Rxf4 Rd6 31.Ke2 Re6+ 32.Kd3 Rd6+ 33.Ke3 Re6+ 34.Re4 Rf6 35.Re7 Rf3+ 36.Ke2 Rh3 37.Rg7 Rxh2 38.Rxg6 Rh1 39.Rg5 Rb1 40.b4 Rb2+ 41.Ke3 Rxa2 42.Rxh5 Rc2 43.Rc5+ Kd7 44.Rc4 Rc1 45.Kd2 Rf1 46.Rf4 Rg1 47.Kd3 g3 48.fxg3 Rxg3+ 49.Kd4 Rg5 50.Rf6 Kc7 51.c4 Rh5 52.Rf7+ Kc6 53.Rf4 Rg5 54.Rf6+ Kc7 55.Kc3 Rg3+ 56.Kd4 Rg5 57.Rf3 Rh5 58.Kc3 Rh1 59.c5 Rh4 60.Rf6 Rg4 61.Kb3 Rg1 62.Rf7+ Kc6 63.Rf6+ Kc7 64.Rf4 Rb1+ 65.Kc4 Rc1+ 66.Kd5 Rd1+ 67.Kc4 1/2-1/2

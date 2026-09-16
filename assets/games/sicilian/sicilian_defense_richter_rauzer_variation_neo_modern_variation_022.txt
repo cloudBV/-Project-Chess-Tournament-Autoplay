@@ -1,0 +1,15 @@
+[Event "Round 7: Ponizil, Cyril - Haring, Filip"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-7/YKlwtV9r/coXiAS3P"]
+[Date "2026.07.19"]
+[Round "7.9"]
+[White "Ponizil, Cyril"]
+[Black "Haring, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2452"]
+[BlackElo "2446"]
+[ECO "B67"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f3 Be7 10.h4 Nxd4 11.Qxd4 Qc7 12.Kb1 h6 13.Be3 h5 14.Bg5 b5 15.Qd2 b4 16.Ne2 a5 17.Rc1 Qb7 18.c4 a4 19.Nd4 O-O 20.Bd3 Rfe8 21.Rhd1 Rac8 22.Bf1 Bc6 23.Qe1 Qb6 24.Be3 Qb7 25.Bg5 Qb6 26.Be3 Qb7 27.Bd2 b3 28.a3 Nd7 29.Bc3 Ne5 30.Ka1 Bf6 31.g3 Bd7 32.Bb4 d5 33.f4 Nxc4 34.Bxc4 Rxc4 35.Rxc4 dxc4 36.e5 Bd8 37.Qe2 g6 38.Bc3 Bb6 39.g4 hxg4 40.Qxg4 Bc6 41.f5 Bxd4 42.Qxd4 Bf3 43.Rg1 Qd5 44.Qxd5 Bxd5 45.fxg6 1/2-1/2

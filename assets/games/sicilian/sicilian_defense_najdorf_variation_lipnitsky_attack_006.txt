@@ -1,0 +1,15 @@
+[Event "Round 1: Prraneeth Vuppala - George, Kevin"]
+[Site "https://lichess.org/broadcast/2026-marshall-summer-six-day-gmim-invitational-gm-a/round-1/6tvMnTPk/keFOUIpH"]
+[Date "2026.07.07"]
+[Round "1.4"]
+[White "Prraneeth Vuppala"]
+[Black "George, Kevin"]
+[Result "1-0"]
+[WhiteElo "2502"]
+[BlackElo "2347"]
+[ECO "B90"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O b5 8.Bd3 Be7 9.a4 b4 10.Na2 e5 11.Ne2 d5 12.Ng3 O-O 13.Bg5 Bg4 14.Qe1 Nc6 15.Bxf6 Bxf6 16.exd5 Qxd5 17.Nxb4 Nxb4 18.Qxb4 Qd7 19.f4 Be6 20.Qe4 Qd4+ 21.Qxd4 exd4 22.Ne4 Be7 23.f5 Bd5 24.f6 Bd8 25.fxg7 Kxg7 26.Nd6 Rb8 27.b3 a5 28.Rae1 Be6 29.Re4 Bg5 30.Nf5+ Bxf5 31.Rxf5 Bd2 32.Kf1 Rbd8 33.Ke2 Bc3 34.Rg4+ Kh8 35.Be4 Rd6 36.Kd3 Re6 37.Rf3 Rh6 38.h3 Rd6 39.Rgf4 Rd7 40.Rh4 f6 41.Rh6 Rdf7 42.g4 Kg8 43.Rf5 Re7 44.Rhxf6 Rfe8 45.Bd5+ Kg7 46.Rf7+ Rxf7 47.Rxf7+ Kg6 48.Rf3 Re1 49.h4 Rd1+ 50.Kc4 Re1 51.Bc6 Re2 52.Bd7 Rh2 53.Bf5+ Kh6 54.h5 Kg5 55.Rf1 h6 56.b4 axb4 57.Kb3 Rh3 58.a5 Re3 59.a6 Re5 60.Bc8 Kh4 61.Ka4 b3 62.Kxb3 Rb5+ 63.Kc4 Rb2 64.Kd3 Ra2 65.Rf6 Ra3 66.Rxh6 Bb2+ 67.Ke4 Ra4 68.Rc6 1-0

@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "3.10"]
+[White "Englert, Luca"]
+[Black "Szarvas, Nora"]
+[Result "1-0"]
+[WhiteElo "2291"]
+[BlackElo "2026"]
+[ECO "B51"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.Ba4 Nf6 5.O-O g6 6.Re1 Bg7 7.c3 a6 8.d4 b5 9.Bb3 c4 10.Bc2 O-O 11.Nbd2 Qc7 12.Nf1 Bb7 13.Ng3 e5 14.d5 Nb6 15.h4 Bc8 16.h5 Ng4 17.Nh2 Nxh2 18.Kxh2 Qe7 19.Rh1 Nd7 20.Kg1 Nf6 21.h6 Bh8 22.a4 Bd7 23.Bg5 Qe8 24.Qf3 Bg4 25.Qe3 Qb8 26.Rh4 Bc8 27.Qf3 Nd7 28.Nf5 f6 29.Ne7+ Kf7 30.Nc6 Qb6 31.Be3 Nc5 32.axb5 Bd7 33.Rxa6 Rxa6 34.bxa6 Bxc6 35.dxc6 Qxc6 36.Qe2 Nxa6 37.b3 Rb8 38.Qxc4+ Qxc4 39.bxc4 Rb2 40.Ba4 Ra2 41.Bc6 Rc2 42.Bd5+ Ke7 43.Bg8 Rxc3 44.Bxh7 g5 45.Rh1 Rxc4 46.Kh2 Rc8 47.Ra1 Nc5 48.Ra7+ Kf8 49.Bf5 Rd8 50.Kh3 Re8 51.Bg6 Rd8 52.Rf7+ Kg8 53.h7# 1-0

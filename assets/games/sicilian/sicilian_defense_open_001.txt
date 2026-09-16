@@ -1,0 +1,15 @@
+[Event "Round 2: Zhauynbay Aldiyar - Mammadov, Mustafa"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-2/XMymqsde/lJjUj9Wa"]
+[Date "2026.07.04"]
+[Round "2.6"]
+[White "Zhauynbay Aldiyar"]
+[Black "Mammadov, Mustafa"]
+[Result "1/2-1/2"]
+[WhiteElo "2318"]
+[BlackElo "2037"]
+[ECO "B32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Open"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d6 5.c4 Nf6 6.Nc3 g6 7.Be2 Bg7 8.Be3 O-O 9.O-O Bd7 10.h3 Nxd4 11.Bxd4 Bc6 12.Qc2 a5 13.Rad1 Nd7 14.Bxg7 Kxg7 15.Bg4 Nc5 16.e5 f5 17.Be2 f4 18.Nd5 dxe5 19.Nxf4 Qc7 20.Nd5 Bxd5 21.Rxd5 Rad8 22.Qc3 Rxd5 23.cxd5 Rf6 24.Bf3 Rf4 25.Rd1 b6 26.g3 Rb4 27.b3 Qd6 28.Re1 Rd4 29.Bg2 Qf6 30.Re2 e4 31.Qc2 Qe5 32.Kh2 Qxd5 33.Qc3 e5 34.g4 Qf7 35.Kg1 Qf4 36.Qc2 Rd3 37.Rxe4 Nxe4 38.Qxd3 Qxf2+ 39.Kh2 Qf4+ 40.Kg1 Nc5 41.Qb5 Qd4+ 42.Kh2 Nd3 43.g5 Ne1 44.Qf1 Nxg2 45.Qf6+ Kg8 46.Qe6+ Kg7 47.Qf6+ Kg8 48.Qe6+ Kg7 1/2-1/2

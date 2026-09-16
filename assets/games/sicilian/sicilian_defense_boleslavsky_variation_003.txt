@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.08"]
+[Round "1.18"]
+[White "Jokai, Bence"]
+[Black "Gyorfi, Adam"]
+[Result "0-1"]
+[WhiteElo "2003"]
+[BlackElo "2219"]
+[ECO "B58"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nf3 h6 8.Bc4 Bg4 9.Be3 Be7 10.h3 Bh5 11.O-O Qd7 12.Re1 g5 13.Be2 Bg6 14.Nd2 Rg8 15.Bg4 Nxg4 16.hxg4 Rh8 17.f3 h5 18.gxh5 Rxh5 19.g4 Rh7 20.Kg2 O-O-O 21.Rh1 Rdh8 22.Rxh7 Rxh7 23.Nd5 Bd8 24.Nc4 Kb8 25.Qd2 Bxe4 26.Kg3 Bxf3 27.Kxf3 Rh3+ 28.Ke4 Qxg4+ 29.Nf4 f5+ 30.Kd5 gxf4 31.Bxa7+ Nxa7 32.Nxd6 Qf3+ 33.Ke6 Rh6+ 34.Kxf5 Qh5+ 35.Ke4 Qg6+ 36.Nf5 Qc6+ 37.Qd5 Qxc2+ 38.Qd3 Qxd3+ 39.Kxd3 Rh2 40.b4 Nc6 41.b5 Nd4 42.Nxd4 exd4 43.Rf1 Rxa2 44.Rxf4 Bb6 45.Rf6 Ka7 46.Kc4 Rc2+ 0-1

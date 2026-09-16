@@ -1,0 +1,15 @@
+[Event "Round 3: Rami,Talab - Steiners, Emils"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-3/jQ7LxZjT/7QBDaqhQ"]
+[Date "2026.07.23"]
+[Round "3.3"]
+[White "Rami,Talab"]
+[Black "Steiners, Emils"]
+[Result "1-0"]
+[WhiteElo "2359"]
+[BlackElo "2169"]
+[ECO "B31"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 Qc7 6.c3 e5 7.Na3 Nge7 8.Nc2 a6 9.Bf1 O-O 10.Ne3 d6 11.Bc4 Be6 12.Bxe6 fxe6 13.Ng5 Qd7 14.Qg4 Rf6 15.Nd5 Nxd5 16.exd5 Nd8 17.d4 cxd4 18.cxd4 h5 19.Qh3 Rf5 20.dxe6 Nxe6 21.Qb3 d5 22.Nxe6 Qxe6 23.dxe5 Rxe5 24.Bd2 Re8 25.h3 Qd7 26.Rxe5 Rxe5 27.Rd1 Kh7 28.Be3 Rf5 29.Bd4 Bf8 30.Re1 b5 31.Qe3 Rf7 32.Qg5 Bg7 33.Bxg7 Kxg7 34.Qe5+ Kh7 35.Qb8 Re7 36.Rd1 d4 37.Qf4 d3 38.Qd2 Qd5 39.Kh2 Rd7 40.b3 a5 41.Qxa5 d2 42.Qc3 h4 43.Qe3 g5 44.Qe2 Kh6 45.Qf3 Qxf3 46.gxf3 Kg6 47.Kg2 Kf5 48.Kf1 Kf4 49.Ke2 Re7+ 50.Kxd2 Kxf3 51.Rg1 Re2+ 52.Kc3 Rxf2 53.Rxg5 Rh2 54.Rxb5 Rxh3 55.Kb4 Kg2 56.Rh5 Kg3 57.a4 Rh2 58.a5 Ra2 59.Kb5 h3 60.b4 h2 61.Kb6 Ra1 62.a6 h1=Q 1-0

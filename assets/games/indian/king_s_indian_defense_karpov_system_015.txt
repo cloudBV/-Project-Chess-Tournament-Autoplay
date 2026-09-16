@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "16.11"]
+[White "Panda, Barnabas"]
+[Black "Ratajczak, Hubert"]
+[Result "0-1"]
+[WhiteElo "2046"]
+[BlackElo "2111"]
+[ECO "E71"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Karpov System"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.h3 d6 6.Be3 c5 7.Nf3 Qa5 8.Qd2 cxd4 9.Nxd4 Nc6 10.Be2 Be6 11.O-O Nxd4 12.Bxd4 Nxe4 13.Nxe4 Qxd2 14.Nxd2 Bxd4 15.Bf3 Rab8 16.Rab1 Rfe8 17.b3 Bf5 18.Ne4 Bd7 19.Rbd1 Be5 20.Rfe1 Bc6 21.c5 dxc5 22.Nxc5 Bxf3 23.gxf3 Bd6 24.Ne4 Bb4 25.Re3 f5 26.Ng5 Red8 27.Red3 Rxd3 28.Rxd3 Bd6 29.a4 Rc8 30.Ne6 Kf7 31.Nd4 a6 32.Kf1 Rc1+ 33.Ke2 Rh1 34.Nc2 Rh2 35.Ne3 Rxh3 36.Nc4 Bc5 37.Rd5 Bb4 38.Rd7 b5 39.Nb6 bxa4 40.bxa4 Bc5 41.Nc4 Rh2 42.Ne3 h5 43.Rc7 Bd4 44.Rc4 Be5 45.Rc6 Bg3 46.Nf1 Rxf2+ 47.Ke1 Rc2+ 0-1

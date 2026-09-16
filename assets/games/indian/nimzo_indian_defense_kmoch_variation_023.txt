@@ -1,0 +1,14 @@
+[Event "9 round swiss"]
+[Site "https://lichess.org/broadcast/bro-x-cxu-international-2026/round-4/qMVgFMZc/5iEazMYF"]
+[Date "2026.07.22"]
+[Round "4.7"]
+[White "Surender, Anil"]
+[Black "Strom-Engdahl, Alexander"]
+[Result "0-1"]
+[WhiteElo "2067"]
+[BlackElo "2308"]
+[ECO "E20"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 O-O 7.cxd5 exd5 8.e3 c5 9.Bd3 Nc6 10.Ne2 Re8 11.O-O b6 12.g4 h6 13.Ng3 a5 14.Rf2 Qd6 15.Rg2 c4 16.Bb1 b5 17.h4 g6 18.e4 dxe4 19.Nxe4 Nxe4 20.fxe4 Bb7 21.Qd2 b4 22.Qxh6 bxc3 23.d5 Nd4 24.Be3 Qe5 25.Bf4 Qg7 26.Qxg7+ Kxg7 27.Be3 Nb3 28.Raa2 Bxd5 29.exd5 Rxe3 30.Rae2 Rxe2 31.Rxe2 Nd4 32.Rf2 Rb8 33.Be4 f5 34.gxf5 gxf5 35.Bc2 Nxc2 36.Rxc2 Rb1+ 0-1

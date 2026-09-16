@@ -1,0 +1,15 @@
+[Event "42 Open Internacional d'Escacs d'Andorra 2026"]
+[Site "Escaldes-Engordany"]
+[Date "2026.07.22"]
+[Round "5.25"]
+[White "Casadio, Niccolo`"]
+[Black "Koridze, Lile"]
+[Result "0-1"]
+[WhiteElo "2336"]
+[BlackElo "2109"]
+[ECO "A45"]
+[TimeControl "90min + 30s +30min move 40"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.dxc5 Nc6 5.Bb5 Qa5+ 6.Nc3 Bd7 7.Ne2 Qb4 8.a3 Qxc5 9.b4 Qb6 10.Nxd5 Nxd5 11.Qxd5 O-O-O 12.Bd3 Be6 13.Qb5 Qxb5 14.Bxb5 g6 15.Bxc6 bxc6 16.Be5 f6 17.Bd4 Kb7 18.f3 Bc4 19.Kf2 e5 20.Bc3 Bh6 21.Rhd1 Rhe8 22.Ng3 Bd5 23.Rab1 f5 24.Nf1 g5 25.b5 g4 26.Ba5 Rb8 27.c4 Bxc4 28.Rd6 Bf8 29.Rxc6 Bxb5 30.Rf6 Ka8 31.Rxf5 gxf3 32.gxf3 Bd3 33.Rxb8+ Kxb8 34.Rf7 Bxa3 35.Nd2 Bg6 36.Rd7 Bc5 37.Rd5 Be7 38.Ke2 Bf6 39.Rb5+ Ka8 40.e4 Rc8 41.Bb4 Be8 42.Ra5 Rb8 43.Bd6 Bb5+ 44.Kf2 Rb7 45.f4 exf4 46.e5 Bd8 47.Ra3 Bb6+ 48.Kf3 Bc6+ 49.Ne4 Be3 50.Rc3 Bd7 51.Nf6 Be6 52.Ne8 Bd5+ 53.Kg4 Be6+ 54.Kh4 Rb3 55.Rxb3 Bxb3 56.e6 f3 57.e7 Bf7 58.Nc7+ Kb7 59.Ne6 Kc6 60.Bg3 f2 61.Bxf2 Bxf2+ 62.Kg5 Kd7 63.Kf6 Bxe6 0-1

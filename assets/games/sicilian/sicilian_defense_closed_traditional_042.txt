@@ -1,0 +1,15 @@
+[Event "Round 9: Kothari, Jai - Steiners, Emils"]
+[Site "https://lichess.org/broadcast/sussex-university-masters-blitz-1/round-9/EM0NzUd0/nm9vYCoz"]
+[Date "2026.07.23"]
+[Round "9.7"]
+[White "Kothari, Jai"]
+[Black "Steiners, Emils"]
+[Result "1-0"]
+[WhiteElo "2043"]
+[BlackElo "2169"]
+[ECO "B23"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.f4 Bg7 6.Nf3 e6 7.O-O Ne7 8.d3 O-O 9.Be3 b6 10.Qe1 Qc7 11.Rd1 Rd8 12.Qh4 f5 13.g4 fxg4 14.Qxg4 Bd4 15.Bxd4 cxd4 16.Ne2 e5 17.Qh4 exf4 18.Ng5 h5 19.Rxf4 Bd7 20.Rdf1 Rf8 21.Rxf8+ Rxf8 22.Rxf8+ Kxf8 23.Nh7+ Ke8 24.Qf6 Bg4 25.Qf8+ Kd7 26.Nf6+ Ke6 27.Nxd4+ Ke5 28.c3 c5 29.Qh8 Kf4 30.Qh6+ g5 31.Qf8 Ke3 32.Nxg4+ Kxd3 33.Qf3+ Kc4 34.Qe2# 1-0

@@ -1,0 +1,14 @@
+[Event "Round 6: Pavlidis, Antonios - Kelires, Andreas"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-6/PSF7YHWM/arZ0PRTX"]
+[Date "2026.07.10"]
+[Round "6.11"]
+[White "Pavlidis, Antonios"]
+[Black "Kelires, Andreas"]
+[Result "1/2-1/2"]
+[WhiteElo "2573"]
+[BlackElo "2533"]
+[ECO "B51"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Moscow Variation"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.c4 e5 8.Qd3 b5 9.Nc3 bxc4 10.Qxc4 Be6 11.Qc6+ Bd7 12.Qc4 Be6 13.Qc6+ Bd7 14.Qc4 Be6 1/2-1/2

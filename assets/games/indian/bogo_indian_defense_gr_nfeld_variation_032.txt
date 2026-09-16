@@ -1,0 +1,14 @@
+[Event "Round 4: Georgiadis, Anastasios - Vlachos, Anatole"]
+[Site "https://lichess.org/broadcast/19th-paleochora-international-tournament-2026/round-4/nGd9thue/Sp20B9kB"]
+[Date "2026.07.20"]
+[Round "4.7"]
+[White "Georgiadis, Anastasios"]
+[Black "Vlachos, Anatole"]
+[Result "0-1"]
+[WhiteElo "2339"]
+[BlackElo "2493"]
+[ECO "E11"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.e4 d6 7.Be2 Nfd7 8.b4 e5 9.d5 a5 10.Bb2 axb4 11.axb4 Rxa1 12.Qxa1 c5 13.dxc6 Nxc6 14.Bc3 Qc7 15.Nf1 Nf6 16.Qb1 Bg4 17.Ne3 Bxf3 18.Bxf3 Nd4 19.Qd3 Nxf3+ 20.gxf3 Rc8 21.b5 Nh5 22.Nd5 Nf4 23.Nxf4 exf4 24.Kd2 Qc5 25.Qd4 Qxd4+ 26.Bxd4 Rxc4 27.Kd3 Rb4 28.Rg1 f6 29.b6 Bd8 30.Kc3 Ra4 31.Kd3 Kf7 32.Rc1 Ra6 33.Rb1 Ke6 34.Rb5 Kd7 35.Rf5 Bxb6 36.Bxb6 Rxb6 37.Rxf4 Rb5 38.h4 h5 39.Kc4 Rc5+ 40.Kd4 0-1

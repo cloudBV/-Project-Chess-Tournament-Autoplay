@@ -1,0 +1,15 @@
+[Event "Round 4: Abdsattar, Alisher - Fang, Brandon Jun Qiao"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-rapid-b14/round-4/URg2AnCG/TgMLZwvV"]
+[Date "2026.07.16"]
+[Round "4.14"]
+[White "Abdsattar, Alisher"]
+[Black "Fang, Brandon Jun Qiao"]
+[Result "1-0"]
+[WhiteElo "2218"]
+[BlackElo "2056"]
+[ECO "B47"]
+[TimeControl "15+5"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Qd3 a6 7.Nxc6 dxc6 8.Qg3 Qxg3 9.hxg3 e5 10.Na4 Be6 11.Bc4 Bxc4 12.Nb6 Rd8 13.Nxc4 f6 14.Be3 b5 15.Nd2 Bd6 16.a4 Ne7 17.Ke2 O-O 18.Rhd1 f5 19.Bg5 h6 20.Bxe7 Bxe7 21.exf5 Rxf5 22.axb5 axb5 23.Ra6 c5 24.Ne4 Rd4 25.f3 b4 26.Rda1 c4 27.Rc6 Rf8 28.Ra7 Bd8 29.Rb7 c3 30.bxc3 bxc3 31.Rxc3 Ba5 32.Rc5 Bb4 33.Rcc7 Rf5 34.c3 1-0

@@ -1,0 +1,15 @@
+[Event "Round 6: Ivanchuk, Vasyl - Sevian, Samuel"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/oZBS9RJd"]
+[Date "2026.07.04"]
+[Round "6.5"]
+[White "Ivanchuk, Vasyl"]
+[Black "Sevian, Samuel"]
+[Result "0-1"]
+[WhiteElo "2593"]
+[BlackElo "2677"]
+[ECO "A15"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 Bd6 5.g3 O-O 6.Bg2 b6 7.O-O Bb7 8.Nc3 a6 9.e3 dxc4 10.bxc4 c5 11.Qe2 Nc6 12.Rfd1 Rc8 13.Rac1 Na5 14.d3 Re8 15.Rb1 h6 16.Ba1 Rb8 17.Nd2 Bxg2 18.Kxg2 Qd7 19.Nce4 Nxe4 20.Nxe4 Bf8 21.Bc3 Nc6 22.Qg4 Kh7 23.Qh5 e5 24.g4 Kg8 25.Qf5 Re6 26.h4 b5 27.h5 Be7 28.a3 Qd8 29.Qf3 Rb7 30.Ng3 b4 31.axb4 cxb4 32.Bb2 Rd7 33.Qe4 a5 34.Ra1 Nb8 35.Nf5 Na6 36.Qf3 Bf6 37.d4 exd4 38.exd4 Re8 39.Re1 Rxe1 40.Rxe1 a4 41.Qc6 a3 42.Bxa3 Nb8 43.Qe4 bxa3 44.Qe8+ Kh7 45.Qe4 a2 46.Qc2 Ra7 47.Ra1 Kg8 48.Rxa2 Rxa2 49.Qxa2 Bxd4 50.Qa8 Bf6 51.c5 Nd7 52.Qd5 Ne5 53.Nd6 Qd7 54.Qa8+ Bd8 55.f3 Nc6 56.Qa4 Qc7 57.Qe4 Be7 58.Nf5 Bxc5 59.Qe8+ Bf8 60.Ne3 Qe5 61.Qxe5 Nxe5 62.f4 Bc5 63.Nd5 Nxg4 0-1

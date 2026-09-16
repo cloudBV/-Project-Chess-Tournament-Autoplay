@@ -1,0 +1,15 @@
+[Event "(Rapid) Trenera Aivara Stašāna 5. piemiņas kauss 11.-12.07.2026. Ātrais šahs"]
+[Site "https://lichess.org/broadcast/trenera-aivara-stasana-5-pieminas-kauss-atrais-sahs/round-5/wUsb6suP/YMcwpOM8"]
+[Date "2026.07.11"]
+[Round "5.5"]
+[White "Krilovs, Nikolajs"]
+[Black "Paikens, Reinis"]
+[Result "0-1"]
+[WhiteElo "2179"]
+[BlackElo "2370"]
+[ECO "E11"]
+[TimeControl "20+5"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Vitolins Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.Ne5 O-O 7.e3 d6 8.Nd3 Nc6 9.Be2 a5 10.f4 e5 11.d5 e4 12.Nf2 Ne7 13.g4 Qb6 14.Qd2 Ng6 15.g5 Nd7 16.O-O Nxf4 17.exf4 e3 18.Qc2 exf2+ 19.Rxf2 Re8 20.Bd3 Nf8 21.Nd2 Re3 22.Bf1 Ng6 23.c5 Qxc5 24.Qxc5 dxc5 25.Rc1 Bg4 26.Rxc5 Nh4 27.d6 g6 28.Re5 Re8 29.Nc4 Re1 30.Rxe8+ Rxe8 31.Bg2 Re1+ 32.Rf1 Nxg2 33.Ne5 Rxf1+ 34.Kxf1 Bh3 35.Kf2 Nxf4 36.Kg3 f6 37.d7 Bxd7 38.Nxd7 fxg5 39.Nc5 b6 40.Nd7 Nd5 41.Kf3 Kf7 42.Ke4 Nf6+ 43.Kd4 0-1

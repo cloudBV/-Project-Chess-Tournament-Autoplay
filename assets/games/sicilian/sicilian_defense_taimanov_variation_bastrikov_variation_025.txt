@@ -1,0 +1,15 @@
+[Event "RISING STAR INTERNATIONAL CHESS TOURNAMENT LIAOCHENG DONGCHANGFU CUP 2026.JULY.15-21"]
+[Site "LIAOCHENG DONGCHANGFU, China"]
+[Date "2026.07.18"]
+[Round "4.4"]
+[White "Nogerbek, Kazybek"]
+[Black "Zhang, Di"]
+[Result "1-0"]
+[WhiteElo "2494"]
+[BlackElo "2427"]
+[ECO "B47"]
+[TimeControl "60+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.Nxc6 bxc6 8.Qd3 Nf6 9.Qg3 Qxg3 10.hxg3 d5 11.g4 Nxe4 12.Nxe4 dxe4 13.Be3 e5 14.g5 Be7 15.Rh4 Bf5 16.g3 h6 17.Rh2 Kd7 18.O-O-O+ Kc7 19.Rdh1 Bg6 20.gxh6 gxh6 21.Rxh6 Rxh6 22.Rxh6 a5 23.Bh5 Bxh5 24.Rxh5 Kd6 25.a4 Ke6 26.g4 f6 27.Rh6 Kd7 28.Rg6 Rh8 29.Kd2 Rh1 30.Bb6 Ke6 31.Rg8 Ra1 32.Rc8 Rxa4 33.Rxc6+ Kd5 34.Rc7 Bd6 35.Ra7 Ke6 36.Ra6 Kd7 37.c3 Ra1 38.Rxa5 Rg1 39.Ra7+ Ke6 40.Ra6 Kd7 41.Ke2 Rxg4 42.c4 Bb4 43.Ra4 Be7 44.b4 e3 45.b5 exf2 46.Bxf2 f5 47.Ra7+ Ke6 48.Ra6+ Kd7 49.c5 Rb4 50.c6+ Ke6 51.b6 Bd6 52.Bc5 Rb2+ 53.Kd1 Bxc5 54.c7 Kd7 55.Ra8 1-0

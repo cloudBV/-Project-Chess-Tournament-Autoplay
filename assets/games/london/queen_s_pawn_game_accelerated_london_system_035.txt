@@ -1,0 +1,15 @@
+[Event "CzechOpen 2026_A"]
+[Site "Pardubice, Czech Republic"]
+[Date "2026.07.24"]
+[Round "1.17"]
+[White "Mohamed Anees M"]
+[Black "Nagly, Wojciech"]
+[Result "1/2-1/2"]
+[WhiteElo "2415"]
+[BlackElo "2175"]
+[ECO "D00"]
+[TimeControl "90 min / 40 moves + 30 min + 30 s/move"]
+[Variant "Standard"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1.d4 d5 2.Bf4 e6 3.e3 Bd6 4.Bg3 Nd7 5.Nf3 Qe7 6.c3 Ngf6 7.Nbd2 e5 8.dxe5 Nxe5 9.Qc2 O-O 10.Be2 Re8 11.Nh4 g6 12.O-O c6 13.Rfe1 Qc7 14.c4 Nxc4 15.Nxc4 Bxg3 16.hxg3 dxc4 17.Bxc4 Be6 18.Bd3 Rad8 19.Nf3 Qa5 20.a3 Ng4 21.b4 Qc7 22.Qc3 Bc8 23.Bc2 Ne5 24.Nd4 Ng4 25.Bd1 Qe5 26.Bxg4 Bxg4 27.Rac1 Be6 28.a4 Rd5 29.Qc2 Red8 30.a5 a6 31.Qb1 R5d7 32.Rc5 Qf6 33.Qe4 Bd5 34.Qf4 Qe7 35.g4 Bxg2 36.g5 Rxd4 37.exd4 Qxe1+ 38.Kxg2 Qxb4 39.Re5 Qf8 40.Qe3 Qd6 41.Qf4 Kg7 42.Qf3 Rd7 43.Kf1 c5 44.Qh3 h5 45.gxh6+ Kh7 46.dxc5 Qxe5 47.Qxd7 Qxc5 48.Qxf7+ Kxh6 49.Qxb7 Qxa5 50.Qc8 Qb5+ 51.Kg2 Qd5+ 52.f3 a5 53.Qf8+ Kh5 54.Qh8+ Kg5 55.Qf8 Qd2+ 56.Kg3 Qe1+ 57.Kg2 Qb4 58.Qd8+ Kf5 59.Qd5+ Kf4 60.Qf7+ Kg5 61.Kg3 Kh6 62.Qe8 Kg7 63.Qd7+ Kf6 64.Qd8+ Kg7 65.Qc7+ Kh6 66.Qc1+ Kh5 67.Qh1+ Kg5 68.Qc1+ Kf6 69.Qc6+ Ke7 70.Qc7+ Ke6 71.Qc8+ Kd6 72.Qd8+ Kc6 73.Qe8+ Kc7 74.Qf7+ Kc6 75.Qe8+ Kc5 76.Qxg6 Qe1+ 77.Kg2 Qd2+ 78.Kh3 a4 79.Qf5+ Kb4 80.Qe4+ Kb3 81.Qe6+ Kb2 82.Qb6+ Ka1 83.Qc5 Qd7+ 84.Kh4 Qh7+ 85.Kg5 Qg7+ 86.Kh5 Qf7+ 87.Kg5 Qb3 88.Qc1+ Ka2 89.f4 Qg3+ 90.Kh6 Qh2+ 91.Kg6 Qg2+ 92.Kh6 Qh3+ 93.Kg5 Qg3+ 94.Kh5 Qd3 95.Kg5 a3 96.f5 Kb3 97.f6 Qg3+ 98.Kh6 Qh4+ 99.Kg7 Qg4+ 100.Kh6 Qh3+ 101.Kg6 Qd3+ 102.Kg7 a2 103.f7 Qd4+ 104.Kg8 a1=Q 105.Qxa1 Qxa1 1/2-1/2

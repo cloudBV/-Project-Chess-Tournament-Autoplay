@@ -1,0 +1,15 @@
+[Event "Round 5: Gormally, Daniel W - Asis Gargatagli, Hipolito"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-5/YB9wEmpg/ZW6rRpDP"]
+[Date "2026.07.17"]
+[Round "5.5"]
+[White "Gormally, Daniel W"]
+[Black "Asis Gargatagli, Hipolito"]
+[Result "0-1"]
+[WhiteElo "2397"]
+[BlackElo "2463"]
+[ECO "B92"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be6 8.O-O Nbd7 9.a4 Be7 10.Be3 O-O 11.a5 Rc8 12.Qd2 Re8 13.Rfd1 h6 14.f3 Nf8 15.Nc1 Ng6 16.Bb6 Qd7 17.Nd3 d5 18.exd5 Bf5 19.Nf2 Bb4 20.g4 Nf4 21.gxf5 Rxc3 22.bxc3 Bxc3 23.Qe3 Bxa1 24.c4 Qxf5 25.Rxa1 Qg6+ 26.Ng4 h5 27.Kh1 hxg4 28.Rg1 Nh3 29.Rc1 g3 30.Bf1 Nf2+ 0-1

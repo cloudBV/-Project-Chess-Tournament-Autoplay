@@ -1,0 +1,15 @@
+[Event "Round 9: Tabatadze, Erekle - Paichadze, Luka"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-9/FKixVmya/1ygWFZla"]
+[Date "2026.07.20"]
+[Round "9.4"]
+[White "Tabatadze, Erekle"]
+[Black "Paichadze, Luka"]
+[Result "1/2-1/2"]
+[WhiteElo "2305"]
+[BlackElo "2465"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Bxd2+ 6.Qxd2 Nc6 7.Nc3 d5 8.Bg2 O-O 9.O-O dxc4 10.e4 Rd8 11.e5 Nd5 12.Ne4 b6 13.Rfc1 Ba6 14.b3 Na5 15.Bf1 f5 16.exf6 Nxf6 17.Nc5 bxc5 18.Qxa5 Bb7 19.Bg2 cxb3 20.Rxc5 bxa2 21.Rxc7 Rd7 22.Rcc1 Rf8 23.Rxa2 Ng4 24.Qh5 Nf6 25.Qe5 Ng4 26.Qh5 Nf6 27.Qe5 Ng4 28.Qh5 1/2-1/2

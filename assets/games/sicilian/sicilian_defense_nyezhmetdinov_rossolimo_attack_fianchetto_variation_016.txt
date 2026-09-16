@@ -1,0 +1,15 @@
+[Event "Round 9: Cruz, Filemon - Serrano Batova, Vicent"]
+[Site "https://lichess.org/broadcast/llinars-international-chess-open-2026-tancat-im/round-9/EPfgx8Ax/GGmhiziL"]
+[Date "2026.07.03"]
+[Round "9.2"]
+[White "Cruz, Filemon"]
+[Black "Serrano Batova, Vicent"]
+[Result "1/2-1/2"]
+[WhiteElo "2282"]
+[BlackElo "2242"]
+[ECO "B31"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 Nf6 6.d3 O-O 7.Bxc6 dxc6 8.a4 a5 9.Na3 Ne8 10.h3 b6 11.Nc4 Nd6 12.Nxd6 exd6 13.Bg5 f6 14.Bf4 d5 15.e5 g5 16.exf6 Bxf6 17.Be5 g4 18.Nh2 gxh3 19.d4 hxg2 20.Ra3 Ra7 21.Qh5 Raf7 22.Rg3+ Kh8 23.Rf3 Kg8 24.Ng4 Bxg4 25.Qxg4+ Bg7 26.dxc5 bxc5 27.Rxf7 Rxf7 28.Bxg7 Rxg7 29.Qe6+ Rf7 30.Qg4+ Rg7 31.Qe6+ Rf7 32.Qg4+ Kf8 33.Re6 Qd7 34.Qh3 d4 35.Qh6+ Kg8 36.Rxc6 Qf5 37.Re6 1/2-1/2

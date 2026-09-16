@@ -1,0 +1,15 @@
+[Event "Round 3: Ibanez Aullana, Ramon - Niedbala, Bartlomiej"]
+[Site "https://lichess.org/broadcast/vii-open-internacional-valencia-cuna-del-ajedrez/round-3/IW1zD1BO/YaZxyHv5"]
+[Date "2026.07.06"]
+[Round "3.12"]
+[White "Ibanez Aullana, Ramon"]
+[Black "Niedbala, Bartlomiej"]
+[Result "1/2-1/2"]
+[WhiteElo "2204"]
+[BlackElo "2388"]
+[ECO "E46"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 d5 6.Nf3 b6 7.cxd5 exd5 8.Bd3 c5 9.Ne5 Ba6 10.Bxa6 Nxa6 11.O-O Nb8 12.a3 Bxc3 13.Bxc3 Ne4 1/2-1/2

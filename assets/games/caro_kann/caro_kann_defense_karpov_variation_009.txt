@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.21"]
+[Round "23.5"]
+[White "SerendipityHCE 0e3fd4a0"]
+[Black "Sirius 3bedea6e"]
+[Result "0-1"]
+[WhiteElo "3066"]
+[BlackElo "3452"]
+[ECO "B17"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ndf6 6.Ng3 Nd5 7.Nf3 Bg4 8.c3 Ngf6 9.h3 Bxf3 10.Qxf3 g6 11.Bd2 Bg7 12.Bb3 a5 13.a4 Qb6 14.c4 Nb4 15.O-O-O O-O 16.Rhe1 Rad8 17.c5 Qc7 18.Bf4 Qd7 19.Be5 Nfd5 20.Kb1 Kh8 21.Bxg7+ Kxg7 22.Ne4 Qc7 23.g3 Rb8 24.h4 h5 25.Qe2 Qc8 26.Ng5 b6 27.cxb6 Rxb6 28.Rd2 Qf5+ 29.Ka1 Rb7 30.Qc4 Qg4 31.Bd1 Qd7 32.Re5 Rb6 33.b3 e6 34.Kb2 Rfb8 35.Ree2 Qb7 36.Kc1 Nf6 37.Qc5 Nbd5 38.Bc2 Kg8 39.Qa3 Rc8 40.Kb2 Rb4 41.Rd3 c5 42.dxc5 Rxc5 43.Qa1 Rcc4 44.Qe1 Rxa4 45.Nf3 Rab4 46.Nd2 Rc8 47.f3 Qc7 48.Nb1 a4 49.Na3 Qb6 50.Qf2 Qa6 51.Nb1 Nd7 52.Nc3 Rxb3+ 53.Bxb3 Qxd3 54.Nxa4 Rb8 55.Kc1 Rxb3 56.Rc2 Ra3 57.Ra2 Nb4 58.Rxa3 Qxa3+ 59.Qb2 Nd3+ 60.Kc2 Nxb2 61.Nxb2 Nc5 62.f4 Qb3+ 63.Kc1 Qc3+ 64.Kb1 Nb3 65.Nc4 Qxc4 66.f5 Nd4 67.Ka1 Qb3 68.fxe6 Nc2# 0-1

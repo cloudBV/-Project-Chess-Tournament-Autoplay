@@ -1,0 +1,14 @@
+[Event "Round 9: Zerey, Demhat - Pranav Anand"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-9/DAAVHAd2/KmX3FmNR"]
+[Date "2026.07.22"]
+[Round "9.8"]
+[White "Zerey, Demhat"]
+[Black "Pranav Anand"]
+[Result "0-1"]
+[WhiteElo "2338"]
+[BlackElo "2588"]
+[ECO "E10"]
+[Variant "Standard"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 O-O 7.Qc2 Bd6 8.O-O c6 9.Nc3 dxc4 10.e4 Be7 11.e5 Nd5 12.Ne4 b5 13.b3 Nb4 14.Qb1 Ba6 15.a3 Nd3 16.Qc2 h6 17.Be3 Nd7 18.Nfd2 c5 19.Nxc5 N7xc5 20.Bxa8 Nxb3 21.Nxb3 Qxa8 22.Nxa5 Qf3 23.Qd1 Qe4 24.Qd2 f6 25.f3 Qd5 26.exf6 Rxf6 27.Qe2 e5 28.dxe5 Qxe5 29.f4 Qe6 30.Qf3 Bd8 31.f5 Qe5 32.Nc6 Rxc6 33.Qxc6 Qxe3+ 34.Kg2 Qb6 35.Qxb6 Bxb6 36.Kf3 Bd4 37.Ra2 Bb7+ 38.Ke2 Be4 39.g4 Kf7 40.h4 Nb2 41.Rc1 c3 42.Raa1 Kf6 0-1

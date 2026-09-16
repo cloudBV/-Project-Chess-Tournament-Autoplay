@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszów"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Lecki, Leonard"]
+[Black "Sowinski, Pawel"]
+[Result "1/2-1/2"]
+[WhiteElo "2277"]
+[BlackElo "2432"]
+[ECO "A13"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[Opening "English Opening: Agincourt Defense"]
+
+1.c4 e6 2.g3 d5 3.Bg2 d4 4.Nf3 Nc6 5.O-O Nf6 6.d3 Bc5 7.Nbd2 O-O 8.Nb3 Be7 9.e3 dxe3 10.Bxe3 Ng4 11.Bc5 Bxc5 12.Nxc5 b6 13.Ne4 Bb7 14.d4 Ne7 15.Qe2 Nf5 16.Rad1 Nf6 17.Nxf6+ Qxf6 18.Ne5 Bxg2 19.Kxg2 Rad8 20.Qe4 Rd6 21.Rd3 h5 22.h4 g6 23.Rfd1 Kg7 24.b3 Rfd8 25.Nc6 Ra8 26.Ne5 Re8 27.Qb7 Red8 28.Nc6 R8d7 29.Ne5 Rd8 30.Nc6 R8d7 31.Ne5 Re7 32.Nc6 Red7 33.Ne5 Qd8 1/2-1/2

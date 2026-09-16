@@ -1,0 +1,14 @@
+[Event "Round 7: Kleist, Axel - Ljungros, Lo"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-7/L1655JcU/l3wnHjk9"]
+[Date "2026.07.02"]
+[Round "7.2"]
+[White "Kleist, Axel"]
+[Black "Ljungros, Lo"]
+[Result "0-1"]
+[WhiteElo "2167"]
+[BlackElo "2138"]
+[ECO "C16"]
+[Variant "Standard"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.a3 Bf8 6.b4 c5 7.Nf3 cxb4 8.Nb5 a6 9.axb4 Bxb4+ 10.c3 Be7 11.Bd3 f5 12.O-O Bd7 13.Re1 Kf8 14.Ba3 Bxb5 15.Bxb5 Bxa3 16.Rxa3 g5 17.Qd2 g4 18.Ng5 Qe7 19.c4 h6 20.cxd5 exd5 21.Rc1 Qxa3 22.Rc8+ Kg7 23.Bd3 Qe7 24.Rc7 Nd7 25.Bxf5 Qxg5 26.Rxd7+ Ne7 27.Qxg5+ hxg5 28.Rxe7+ Kf8 29.Rb7 Rh6 30.e6 a5 31.Rxb6 Rf6 32.Bxg4 a4 33.Rb7 a3 34.e7+ Kg8 35.Ra7 Rxa7 36.e8=Q+ Kg7 37.Qe1 a2 38.Qa1 Rc6 39.f3 Rc1+ 40.Qxc1 a1=Q 41.Qxa1 Rxa1+ 42.Kf2 Ra2+ 43.Ke3 Kf6 44.Bh3 Ke7 45.Kd3 Kd6 46.Kc3 Ra3+ 47.Kd2 Ra2+ 48.Kc3 Kc6 49.Kb3 Rf2 50.Kc3 Re2 51.Kd3 Ra2 52.Ke3 Ra3+ 53.Kd2 Kb5 54.g3 Kc4 55.Be6 Rxf3 56.h4 Rxg3 57.h5 Kxd4 58.h6 Rg2+ 59.Ke1 Rh2 0-1

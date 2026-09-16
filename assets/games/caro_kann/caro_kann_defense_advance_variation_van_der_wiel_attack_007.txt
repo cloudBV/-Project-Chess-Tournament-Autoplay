@@ -1,0 +1,15 @@
+[Event "Round 5: Siva Kumar, Nirish Kumar - Arca, Christian Gian Karlo"]
+[Site "https://lichess.org/broadcast/28th-asian-youth-chess-championships-2026-classical-b18/round-5/ZNuoIZMc/pUWyBmqA"]
+[Date "2026.07.19"]
+[Round "5.8"]
+[White "Siva Kumar, Nirish Kumar"]
+[Black "Arca, Christian Gian Karlo"]
+[Result "0-1"]
+[WhiteElo "2220"]
+[BlackElo "2385"]
+[ECO "B12"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Van der Wiel Attack"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 h5 7.Nf4 Bh7 8.Nxh5 c5 9.h4 cxd4 10.Nb5 Nc6 11.Nxd4 Nxe5 12.Bb5+ Nd7 13.Bg5 Ne7 14.O-O a6 15.Ba4 Qc7 16.Bxe7 Kxe7 17.Qd2 Nc5 18.Qg5+ f6 19.Qe3 Be4 20.Bb3 g6 21.Nf4 Rxh4 22.f3 Bh6 23.Nde2 Rh8 24.Kf2 e5 25.fxe4 Bxf4 26.Nxf4 exf4 27.Qd4 Rh2+ 28.Ke1 Qa5+ 29.Kd1 R8h3 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Hess, Christian - Brueggemann, Joachim"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-seniors-65/round-6/qTBv2NzZ/DvvRvgTN"]
+[Date "2026.07.22"]
+[Round "6.2"]
+[White "Hess, Christian"]
+[Black "Brueggemann, Joachim"]
+[Result "1/2-1/2"]
+[WhiteElo "2205"]
+[BlackElo "2244"]
+[ECO "A13"]
+[Variant "Standard"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 a6 4.Bg2 b5 5.b3 Bb7 6.O-O Be7 7.Bb2 d6 8.d3 Nbd7 9.e4 O-O 10.Qe2 Rb8 11.Nbd2 c5 12.Rae1 Re8 13.e5 dxe5 14.Nxe5 Nxe5 15.Bxe5 Bxg2 16.Kxg2 Rb7 17.Ne4 Rd7 18.Bxf6 gxf6 19.Qg4+ Kh8 20.Qh5 f5 21.Nd2 Bf6 22.Nf3 Qe7 23.Ne5 Bxe5 24.Rxe5 Rxd3 25.Rfe1 Red8 1/2-1/2

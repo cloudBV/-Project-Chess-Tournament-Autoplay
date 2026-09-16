@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.09"]
+[Round "2.10"]
+[White "Bokorovics, Bertalan"]
+[Black "Papai, Mate"]
+[Result "0-1"]
+[WhiteElo "2245"]
+[BlackElo "2112"]
+[ECO "B47"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g4 a6 7.Be3 h6 8.Rg1 b5 9.Nxc6 Qxc6 10.Qd2 b4 11.Ne2 Qd6 12.Qxd6 Bxd6 13.f4 Bb7 14.O-O-O Bc7 15.e5 Ne7 16.c4 g5 17.Bg2 Bxg2 18.Rxg2 gxf4 19.Nxf4 Bxe5 20.Nd3 Nc6 21.Bc5 a5 22.Re2 Bc7 23.Rf1 Rd8 24.Ref2 Rh7 25.Nf4 Bxf4+ 26.Rxf4 Ne5 27.Kd2 Rc8 28.Bd4 Nxc4+ 29.Kd3 d5 30.Rf6 Ke7 31.b3 Nd6 32.Be3 Rc3+ 33.Ke2 Ne4 34.R6f3 Rc2+ 35.Kd3 Rxa2 36.Rc1 Rb2 37.Rc7+ Kd6 38.Rcxf7 Rxf7 39.Rxf7 Rxb3+ 40.Ke2 Rb2+ 41.Kd3 Nc5+ 0-1

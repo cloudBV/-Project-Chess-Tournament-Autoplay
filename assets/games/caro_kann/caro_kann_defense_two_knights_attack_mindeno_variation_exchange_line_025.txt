@@ -1,0 +1,15 @@
+[Event "Round 1: Talgatov, Nazar - Sivuk, Vitaly"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-1/k8pZDtK5/XdqJ3wA8"]
+[Date "2026.07.21"]
+[Round "1.19"]
+[White "Talgatov, Nazar"]
+[Black "Sivuk, Vitaly"]
+[Result "0-1"]
+[WhiteElo "2365"]
+[BlackElo "2499"]
+[ECO "B11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.Be2 Nd7 7.d4 dxe4 8.Nxe4 Ngf6 9.O-O Nxe4 10.Qxe4 Nf6 11.Qd3 Be7 12.a4 a5 13.Bf3 O-O 14.Bd2 Qb6 15.Rad1 Rfd8 16.Bc3 Nd5 17.Rfe1 Bf6 18.Qe4 Rd7 19.Rd3 Rad8 20.Red1 Nxc3 21.bxc3 Qb2 22.Qe2 Qa2 23.Be4 Qxa4 24.h4 Qb5 25.h5 h6 26.Qg4 a4 27.Rg3 a3 28.Bd3 Qb2 29.Qe4 a2 30.Qe1 b5 31.Be4 c5 32.d5 b4 33.cxb4 a1=Q 34.bxc5 Rxd5 0-1

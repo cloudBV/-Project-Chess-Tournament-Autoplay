@@ -1,0 +1,15 @@
+[Event "Round 5: Plotkin, Mark - Lu, Lucas"]
+[Site "https://lichess.org/broadcast/14th-new-york-international-super-swiss/round-5/Y7Gtnbzm/5w7HBsdF"]
+[Date "2026.07.17"]
+[Round "5.13"]
+[White "Plotkin, Mark"]
+[Black "Lu, Lucas"]
+[Result "1-0"]
+[WhiteElo "2358"]
+[BlackElo "2024"]
+[ECO "E48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Classical Defense"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Re8 8.O-O Nbd7 9.f3 c5 10.a3 Ba5 11.b4 cxb4 12.axb4 Bxb4 13.e4 dxe4 14.fxe4 Bxc3 15.Nxc3 Nc5 16.Bb5 Bg4 17.Qe1 Qxd4+ 18.Be3 Qe5 19.Bxe8 Rxe8 20.h3 Bd7 21.Rxa7 Ncxe4 22.Nxe4 Qxe4 23.Bf2 Qg6 24.Qb1 Qd3 25.Qc2 Qxc2 26.Rd1 Qb1 27.Rxb1 Bc6 28.Rb2 Ne4 29.Bb6 h5 30.Ra1 Kh7 31.Ra5 Kg6 32.Be3 Rd8 33.Kh2 Rd3 34.Bf4 f6 35.Ra8 Rd1 36.Rh8 Rf1 37.Be3 Re1 38.Bb6 Rd1 39.Ba5 Rd5 40.Bb4 Kf7 41.Ra2 Rd4 42.Be1 Kg6 43.Re2 Rd3 44.Ra8 Kf5 45.Ra1 Kg6 46.Rb1 Kg5 47.Rb4 f5 48.Rb1 h4 49.Ra2 Re3 50.Ba5 Rd3 51.Rf1 Ng3 52.Re1 Ne4 53.Bb4 Kf6 54.Rf1 Ng3 55.Rc1 Ne4 56.Ra7 g5 57.Be1 Re3 58.Ra2 Ke5 59.Rd1 Rb3 60.Ba5 Ke6 61.Bd8 Re3 62.Bb6 Rb3 63.Bd4 Rb5 64.Ba1 Rb3 65.Ra5 Re3 66.Re5+ Kf7 67.Rxf5+ Kg6 68.Rf8 Re2 69.Rdf1 Bd5 70.Rd8 Rd2 71.Rd7 b5 72.Rdf7 1-0

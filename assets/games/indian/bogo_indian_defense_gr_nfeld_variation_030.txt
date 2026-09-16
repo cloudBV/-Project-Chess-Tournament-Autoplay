@@ -1,0 +1,15 @@
+[Event "Round 8: Endeladze, Ramaz - Arabidze, Meri"]
+[Site "https://lichess.org/broadcast/19th-poti-international-chess-festival-nana-aleksandria-cup-2026/round-8/9nAkS9lJ/h2lBVJvM"]
+[Date "2026.07.19"]
+[Round "8.10"]
+[White "Endeladze, Ramaz"]
+[Black "Arabidze, Meri"]
+[Result "1/2-1/2"]
+[WhiteElo "2138"]
+[BlackElo "2409"]
+[ECO "E11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Nbd2 O-O 5.e3 d5 6.Bd3 b6 7.O-O Bb7 8.cxd5 exd5 9.Ne5 Bd6 10.b3 c5 11.Bb2 Nc6 12.Nxc6 Bxc6 13.Rc1 Bb7 14.h3 Rc8 15.Nf3 Ne4 16.Qe2 Qe7 17.Rfd1 Rfd8 18.dxc5 bxc5 19.Ba6 Bxa6 20.Qxa6 Qe6 21.Qe2 Bb8 22.Nd2 Nf6 23.Qf3 Be5 24.Bxe5 Qxe5 25.Rc2 Rc6 26.Rdc1 Rdc8 27.Qe2 Qb8 28.Qd3 h6 29.g3 Qb4 30.Qc3 Qb7 31.Qd3 R6c7 32.Re1 Qb4 33.Qc3 a5 34.Rec1 Kf8 35.a4 Qb6 36.Qd3 Kg8 37.e4 dxe4 38.Nxe4 Nxe4 39.Qxe4 Qxb3 40.Rc4 Qb6 41.Rb1 Qa7 42.Rb5 Rb8 43.Rxb8+ Qxb8 44.Qe1 Qb6 45.Qe8+ Kh7 46.Qb5 Qa7 47.h4 Rc8 48.Qb1+ Kg8 49.Qb5 Qc7 50.Kh2 g6 51.Kg1 Qd8 52.Rxc5 Rxc5 53.Qxc5 Qd1+ 54.Kg2 Qxa4 55.Qc8+ Kh7 56.Qc7 Qa2 57.Qe5 h5 58.Qg5 a4 59.g4 Qe2 60.gxh5 Qxh5 61.Qg3 Qd5+ 62.Kh2 Qf5 63.Kg2 Qa5 64.Qa3 Qd5+ 65.f3 Qb3 66.Qc5 a3 67.h5 Qb2+ 68.Kg3 a2 69.hxg6+ Kxg6 70.f4 a1=Q 71.Qg5+ Kh7 72.Qh4+ Kg8 73.Qd8+ 1/2-1/2

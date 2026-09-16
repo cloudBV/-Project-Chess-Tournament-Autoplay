@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.09"]
+[Round "16.9"]
+[White "Hovakimyan, Vache"]
+[Black "Krasniewski, Maciej"]
+[Result "1-0"]
+[WhiteElo "2185"]
+[BlackElo "2321"]
+[ECO "E24"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 d5 6.cxd5 exd5 7.e3 O-O 8.Bd3 Re8 9.Ne2 c5 10.O-O Nc6 11.Ng3 Ne4 12.Qc2 f5 13.dxc5 Nxg3 14.hxg3 g6 15.c4 Be6 16.Bb2 Kf7 17.Qc3 Rg8 18.Rfd1 Qg5 19.cxd5 Bxd5 20.Bc4 Bxc4 21.Qxc4+ Ke7 22.Rd6 Kf8 23.Rf6+ Ke7 24.Rxf5 1-0

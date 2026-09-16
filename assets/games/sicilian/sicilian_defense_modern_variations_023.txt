@@ -1,0 +1,14 @@
+[Event "Round 2: Hernandez Jimenez, Xavi - Velasquez, Andres Felipe"]
+[Site "https://lichess.org/broadcast/colombia-campeonato-nacional-de-mayores-rapido-absoluto/round-2/yxyTbyuD/S40a8gTg"]
+[Date "2026.07.11"]
+[Round "2.6"]
+[White "Hernandez Jimenez, Xavi"]
+[Black "Velasquez, Andres Felipe"]
+[Result "1-0"]
+[WhiteElo "2290"]
+[BlackElo "2018"]
+[ECO "B50"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 g6 4.Bc4 Nc6 5.d4 cxd4 6.Nxd4 Bg7 7.Nxc6 bxc6 8.O-O Nf6 9.Re1 O-O 10.Bb3 Qa5 11.Bf4 Nd7 12.Qd2 Re8 13.Rad1 Ba6 14.Bh6 Ne5 15.Bxg7 Kxg7 16.Qe3 Qb6 17.Qf4 Rf8 18.h3 Nc4 19.Bxc4 Bxc4 20.e5 d5 21.b3 Ba6 22.Na4 Qc7 23.Nc5 Bc8 24.h4 h5 25.c4 dxc4 26.Qxc4 Bf5 27.e6 fxe6 28.Rd7 Qa5 29.b4 Qa3 30.Rxe7+ Rf7 31.Rxf7+ Kxf7 32.Nxe6 Ke8 1-0

@@ -1,0 +1,14 @@
+[Event "FIDE OPEN QCC"]
+[Site "https://lichess.org/broadcast/fide-open-ceske-budejovice/round-5/2jIIDLpk/DgEncTf7"]
+[Date "2026.07.04"]
+[Round "5.2"]
+[White "Velicka, Petr"]
+[Black "Prokofiev, Valentyn"]
+[Result "1/2-1/2"]
+[WhiteElo "2350"]
+[BlackElo "2421"]
+[ECO "C50"]
+[Variant "Standard"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a5 7.Re1 Ba7 8.Nbd2 O-O 9.Nf1 Ne7 10.Ng3 Ng6 11.Bb3 c6 12.h3 d5 13.Bg5 h6 14.Bxf6 Qxf6 15.exd5 a4 16.Bxa4 cxd5 17.Bb3 Qd6 18.Nf1 Kh8 19.d4 e4 20.Ne5 Nf4 21.Qd2 g5 22.g3 Nxh3+ 23.Kg2 Kg7 24.Ne3 f6 25.N5g4 f5 26.Kxh3 fxg4+ 27.Kg2 Be6 28.Bd1 Rf3 29.Rh1 Raf8 30.Bxf3 Rxf3 31.Rh2 Bb8 32.Rah1 Rf6 33.Qe2 Qd7 1/2-1/2

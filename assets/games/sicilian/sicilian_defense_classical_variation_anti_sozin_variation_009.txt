@@ -1,0 +1,14 @@
+[Event "Round 1: Tschernatsch, Johannes - Engel, Robert"]
+[Site "https://lichess.org/broadcast/german-amateur-chess-championship-2026-dsam-group-a/round-1/lADJmcFi/KFaVZbQw"]
+[Date "2026.07.23"]
+[Round "1.1"]
+[White "Tschernatsch, Johannes"]
+[Black "Engel, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2313"]
+[BlackElo "2158"]
+[ECO "B57"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Classical Variation, Anti-Sozin Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 7.Nxc6 bxc6 8.O-O e6 9.Kh1 Be7 10.f4 d5 11.Bd3 dxe4 12.Nxe4 Ba6 13.Qe2 Bxd3 14.cxd3 O-O 15.b3 Qb5 16.Bb2 Rfd8 17.Nxf6+ Bxf6 18.Bxf6 gxf6 19.Rf3 Qf5 20.Rc1 Rd4 21.Rc4 Rad8 22.g4 Qd5 23.Rxd4 Qxd4 24.Kg2 Rd5 25.h3 a5 26.f5 e5 27.Re3 Rc5 28.Re4 Qc3 29.Rc4 Rxc4 30.bxc4 a4 31.Qe4 Kg7 32.Kf3 Qa1 33.Qe2 a3 34.Qd2 Qh1+ 35.Qg2 Qc1 36.Qe2 Qb2 37.Qf2 Qc1 38.Ke4 1/2-1/2

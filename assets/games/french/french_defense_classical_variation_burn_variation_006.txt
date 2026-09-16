@@ -1,0 +1,15 @@
+[Event "Round 9: Borgaonkar Akshay - Nitish Belurkar"]
+[Site "https://lichess.org/broadcast/pune-international-grandmaster-round-robin-tournament/round-9/fUa9bQJG/uIcFOlVA"]
+[Date "2026.07.08"]
+[Round "9.2"]
+[White "Borgaonkar Akshay"]
+[Black "Nitish Belurkar"]
+[Result "1-0"]
+[WhiteElo "2389"]
+[BlackElo "2466"]
+[ECO "C11"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Classical Variation, Burn Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Nf3 h6 7.Bxf6 Nxf6 8.Bd3 Nxe4 9.Bxe4 c5 10.Qe2 Qa5+ 11.c3 Be7 12.O-O-O Qxa2 13.Qb5+ Bd7 14.Qxb7 O-O 15.Qxd7 Rfb8 16.Rd2 cxd4 17.Qxe7 dxc3 18.bxc3 Qa1+ 19.Kc2 Qxh1 20.Rd1 Qxg2 21.Qxf7+ Kh8 22.Nd2 Qg4 23.Qf3 1-0

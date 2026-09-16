@@ -1,0 +1,15 @@
+[Event "Round 3: Montes Molina, Ivan - Fernandez Borrego, Pablo"]
+[Site "https://lichess.org/broadcast/xlviii-open-internacional-escacs-barbera-del-valles-2026/round-3/kHH1KL3O/y22oMZKO"]
+[Date "2026.07.06"]
+[Round "3.2"]
+[White "Montes Molina, Ivan"]
+[Black "Fernandez Borrego, Pablo"]
+[Result "0-1"]
+[WhiteElo "2285"]
+[BlackElo "2359"]
+[ECO "B21"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd3 a6 5.Nc3 b5 6.Nf3 e6 7.a3 Qc7 8.Be2 Nf6 9.O-O Bb7 10.g3 Be7 11.Bf4 d6 12.Rfe1 O-O 13.Bf1 Ne5 14.Nxe5 dxe5 15.Bd2 Rfd8 16.Qe2 Rac8 17.f3 Bc5+ 18.Kh1 Nd7 19.a4 b4 20.Nd1 Nb8 21.Rc1 Qd7 22.Bg5 Rf8 23.Nf2 Qxa4 24.Nd3 Bd6 25.b3 Qe8 26.Nb2 Nc6 27.Nc4 Bc5 28.Be3 Qe7 29.Red1 Bd4 30.Bxd4 Nxd4 31.Qe3 f6 32.Bg2 Rfd8 33.Qf2 Qc5 34.Ra1 Nxb3 35.Qxc5 Rxd1+ 36.Rxd1 Nxc5 37.Rb1 Nxe4 38.Rxb4 Bd5 39.Ne3 Nd2 40.f4 Bxg2+ 41.Kxg2 exf4 42.gxf4 f5 43.c4 Kf7 44.h4 Rc6 45.Kf2 Kf6 46.Ke2 Ne4 47.Kf3 g6 48.Rb2 h6 49.Rh2 Rc8 50.Ra2 a5 51.Rc2 g5 52.hxg5+ hxg5 53.Ng4+ Kg7 54.Ne5 Kf6 55.c5 a4 56.c6 gxf4 57.Kxf4 Ke7 58.c7 Nf6 59.Ng6+ Kd6 60.Ra2 Nd5+ 61.Kg5 Nc3 62.Ra3 Rxc7 63.Nh8 Kd5 64.Ng6 Ne4+ 65.Kf4 Nc5 66.Ne5 Rb7 67.Nf3 Rb4+ 68.Kg3 Rb3 0-1

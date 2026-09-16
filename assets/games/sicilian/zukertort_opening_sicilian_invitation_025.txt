@@ -1,0 +1,15 @@
+[Event "CE Sub14.26"]
+[Site "https://lichess.org/broadcast/campeonato-de-espana-sub-8-a-sub-16-2026-u14/round-6/u1B0IeJU/MfNBzk5f"]
+[Date "2026.07.22"]
+[Round "6.1"]
+[White "Gonzalez Lopez, Lucas 2013"]
+[Black "Torres Rebolledo, Alvaro"]
+[Result "0-1"]
+[WhiteElo "2183"]
+[BlackElo "2333"]
+[ECO "A04"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 Nf6 4.O-O e5 5.d3 d5 6.Nbd2 Be7 7.e4 O-O 8.Qe2 d4 9.Nc4 Qc7 10.a4 Ne8 11.Ne1 Be6 12.f4 f6 13.f5 Bf7 14.Bd2 b6 15.g4 a6 16.b3 Rb8 17.a5 b5 18.Nb6 Bd8 19.h4 Qd6 20.g5 Ne7 21.Qg4 Bxb6 22.axb6 Rxb6 23.Rf3 Kh8 24.Rg3 c4 25.bxc4 bxc4 26.dxc4 Qb8 27.Nd3 Rg8 28.Qd1 g6 29.c5 Rb5 30.gxf6 gxf5 31.Qe1 f4 32.Rg5 Nc6 33.Rxa6 Rb1 34.Bc1 Qb7 35.Rxc6 Qxc6 36.Nxe5 Qe6 37.Nf3 Nxf6 38.Nxd4 Qc4 39.c3 Qd3 40.e5 Ng4 41.e6 Bxe6 42.Nxe6 Rxg5 43.hxg5 Qc2 44.Be4 Qh2+ 45.Kf1 Ne3+ 46.Bxe3 Rxe1+ 47.Kxe1 fxe3 48.c6 Qf2+ 0-1

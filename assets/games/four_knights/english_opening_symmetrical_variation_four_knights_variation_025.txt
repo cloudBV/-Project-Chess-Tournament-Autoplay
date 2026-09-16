@@ -1,0 +1,15 @@
+[Event "XIV Torneo Internacional Cidade de Pontevedra"]
+[Site "Pabellón Universotario de Pontevedra, Spain"]
+[Date "2026.07.24"]
+[Round "1.5"]
+[White "Muthaiah AL"]
+[Black "Moreto Quintana, Alex"]
+[Result "1-0"]
+[WhiteElo "2442"]
+[BlackElo "2131"]
+[ECO "A35"]
+[TimeControl "90 minutos + 30 segundos"]
+[Variant "Standard"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.e3 g6 5.d4 cxd4 6.exd4 d5 7.cxd5 Nxd5 8.Bc4 Nb6 9.Bb3 Bg7 10.d5 Na5 11.O-O O-O 12.h3 Nxb3 13.axb3 Bxc3 14.bxc3 Qxd5 15.c4 Qxd1 16.Rxd1 Bf5 17.Nd4 Rfd8 18.Ba3 Kf8 19.Bc5 Bd7 20.Rd2 Rdc8 21.Bb4 Ke8 22.Nf3 Bc6 23.Re1 Rc7 24.Ne5 Kf8 25.Ng4 f5 26.Ne5 Re8 27.Ba5 Rcc8 28.b4 Nxc4 29.Nxc4 Be4 30.Ne5 b6 31.f3 Ba8 32.Rd7 bxa5 33.bxa5 Red8 34.Rxa7 Rd2 35.Nd7+ Kg7 36.Rxe7+ Kh6 37.h4 Bxf3 38.Rxh7+ Kxh7 39.Nf6+ 1-0

@@ -1,0 +1,14 @@
+[Event "Rapid D18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "5.2"]
+[White "Sprzeczka, Emilia"]
+[Black "Kawka, Milena"]
+[Result "1/2-1/2"]
+[WhiteElo "2061"]
+[BlackElo "2039"]
+[ECO "B12"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Be2 cxd4 6.cxd4 Qb6 7.Nc3 Qxd4 8.Nxd5 Qxd1+ 9.Bxd1 Kd8 10.Nf3 e6 11.Bg5+ Nge7 12.Nxe7 Bxe7 13.Bxe7+ Kxe7 14.Ba4 Bd7 15.Bc2 1/2-1/2

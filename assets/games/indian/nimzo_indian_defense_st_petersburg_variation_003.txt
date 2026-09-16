@@ -1,0 +1,14 @@
+[Event "GM Clarion Congress Hotel ČB"]
+[Site "https://lichess.org/broadcast/gm-clarion-congress-hotel-cb/round-5/YD1S9x30/VhVPP6b9"]
+[Date "2026.07.04"]
+[Round "5.3"]
+[White "Ajay Santhosh Parvathareddy"]
+[Black "Haring, Filip"]
+[Result "1/2-1/2"]
+[WhiteElo "2476"]
+[BlackElo "2446"]
+[ECO "E43"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O c5 8.a3 Bxc3 9.bxc3 Ne4 10.Nd2 Nxd2 11.Bxd2 f5 12.f3 1/2-1/2

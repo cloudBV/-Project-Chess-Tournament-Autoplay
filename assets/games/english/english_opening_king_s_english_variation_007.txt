@@ -1,0 +1,14 @@
+[Event "Najdorf Memorial"]
+[Site "https://lichess.org/broadcast/warsaw-chess-festival-2026-najdorf-memorial/round-8/izJ7po2A/hQNZRqw7"]
+[Date "2026.07.04"]
+[Round "8.12"]
+[White "Futyma, Dawid"]
+[Black "Tytynnik, Artem"]
+[Result "1-0"]
+[WhiteElo "2099"]
+[BlackElo "2225"]
+[ECO "A20"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation"]
+
+1.c4 e5 2.g3 c6 3.Bg2 d5 4.cxd5 cxd5 5.d4 e4 6.Nc3 Bb4 7.Nh3 Nc6 8.O-O Nge7 9.a3 Ba5 10.b4 Bb6 11.e3 O-O 12.f3 Bxh3 13.Bxh3 exf3 14.Qxf3 Qd6 15.Kh1 Rae8 16.Bd2 f5 17.Rf2 Nb8 18.Bg2 Rd8 19.a4 a6 20.a5 Bc7 21.b5 Rd7 22.b6 Bd8 23.Na4 Qc6 24.Rff1 Qc8 25.Nc5 Rd6 26.Bb4 Rh6 27.Rfc1 Nbc6 28.Nxa6 Qe6 29.Nc5 Qc8 30.Nd3 Qd7 31.Bxe7 Nxe7 32.Nf4 Rd6 33.Rc5 g5 34.Nxd5 Ng6 35.Nc3 f4 36.Qxb7 Qe8 37.exf4 gxf4 38.Qe4 Be7 39.b7 Rd8 40.Qe6+ Kh8 41.Bc6 Bxc5 42.Bxe8 Rdxe8 43.Qxe8 Rxe8 44.dxc5 f3 45.a6 Kg7 46.a7 f2 47.Rf1 1-0

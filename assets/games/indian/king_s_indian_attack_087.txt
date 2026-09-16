@@ -1,0 +1,14 @@
+[Event "Round 5: Heerd, Thomas - Curien, Nicolas"]
+[Site "https://lichess.org/broadcast/swiss-individual-championships-2026-masters/round-5/f92UCR5v/9BO4UXLZ"]
+[Date "2026.07.15"]
+[Round "5.6"]
+[White "Heerd, Thomas"]
+[Black "Curien, Nicolas"]
+[Result "1/2-1/2"]
+[WhiteElo "2070"]
+[BlackElo "2133"]
+[ECO "A05"]
+[Variant "Standard"]
+[Opening "King's Indian Attack"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 Bf5 4.O-O e6 5.d3 Nc6 6.Nh4 Bg4 7.h3 Bh5 8.g4 Nd7 9.Nf3 Bg6 10.h4 h5 11.g5 Bd6 12.Nc3 Nde5 13.Nxe5 Nxe5 14.e4 dxe4 15.Nxe4 Ng4 16.Qe2 c6 17.f3 Bxe4 18.dxe4 Ne5 19.f4 Qb6+ 20.Be3 Bc5 21.Bxc5 Qxc5+ 22.Qf2 Qxf2+ 23.Kxf2 Ng6 24.Kg3 Rd8 25.Rad1 e5 26.fxe5 Nxe5 27.Bh3 Ke7 28.b3 1/2-1/2

@@ -1,0 +1,14 @@
+[Event "Rapid C18"]
+[Site "Rzeszow"]
+[Date "2026.07.11"]
+[Round "4.2"]
+[White "Mulawa, Cyprian"]
+[Black "Sawicki, Dorian"]
+[Result "1/2-1/2"]
+[WhiteElo "2245"]
+[BlackElo "2278"]
+[ECO "A15"]
+[Variant "Standard"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 Be7 4.Bb2 b6 5.g3 Bb7 6.Bg2 O-O 7.O-O d6 8.Nc3 Nbd7 9.e3 c5 10.Qe2 a6 11.Rfd1 Qc7 12.Rac1 Rac8 13.d4 Ne4 14.d5 Nxc3 15.Bxc3 exd5 16.cxd5 Bf6 17.Be1 Rce8 18.a4 g6 19.h4 Bg7 20.Nd2 Nf6 21.Nc4 Bc8 22.b4 Bg4 23.f3 Bc8 24.bxc5 bxc5 25.e4 Nh5 26.f4 Bd4+ 27.Kh1 Qe7 28.Qf3 Bd7 29.g4 Nf6 30.e5 dxe5 31.fxe5 Nxg4 32.Rxd4 cxd4 33.e6 fxe6 34.Qxg4 e5 35.Qd1 Rc8 36.Nb6 Rxc1 37.Qxc1 Bg4 38.Qc4 Qf7 39.Bg3 Bf3 40.d6 d3 41.Bxf3 Qxc4 42.Nxc4 Rxf3 43.Kg2 d2 44.Nxd2 Rd3 45.Ne4 Kf7 46.Bxe5 Rd5 47.Bc3 h6 48.Kf3 Ke6 49.a5 g5 50.h5 Rd3+ 51.Ke2 Rd5 52.Ke3 g4 53.Kf4 Rxh5 54.Bb4 Rd5 55.Nc5+ Kxd6 56.Nxa6+ Kc6 57.Bc3 Rxa5 58.Nb8+ Kb7 59.Bxa5 1/2-1/2

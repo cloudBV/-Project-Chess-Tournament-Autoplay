@@ -1,0 +1,15 @@
+[Event "Tiebreaks: Aravindh, Chithambaram VR. - Sindarov, Javokhir"]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-rapid/tiebreaks/pGzTHrMj/mJSfdm76"]
+[Date "2026.07.04"]
+[Round "8.1"]
+[White "Aravindh, Chithambaram VR."]
+[Black "Sindarov, Javokhir"]
+[Result "0-1"]
+[WhiteElo "2584"]
+[BlackElo "2718"]
+[ECO "C48"]
+[TimeControl "10+5"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2 Bd6 6.d3 c6 7.Be3 Nxe2 8.Qxe2 Bc7 9.d4 d6 10.dxe5 dxe5 11.Bc5 Bg4 12.Rd1 Nd7 13.h3 Bh5 14.g4 Bg6 15.Bd6 Bxd6 16.Rxd6 Qe7 17.Rd2 O-O-O 18.Qe3 Kb8 19.O-O Nc5 20.Rfd1 Rxd2 21.Rxd2 f6 22.Nh4 Ne6 23.Ne2 Rd8 24.Nf5 Qb4 25.Rxd8+ Nxd8 26.b3 Ne6 27.Neg3 Bxf5 28.exf5 Nf4 29.Kh2 Qa5 30.a4 Qd5 31.Ne4 Kc7 32.Kg3 Qd1 33.Kh2 Qf1 34.Qf3 Qc1 35.c3 Qc2 36.b4 Qxa4 37.g5 fxg5 38.Nxg5 Qa2 39.Nxh7 Qc2 40.Ng5 Qxf5 41.Ne4 b6 42.h4 Qh5 43.Qg3 Qg6 44.Qxg6 Nxg6 45.Kg3 a5 46.bxa5 bxa5 47.Kg4 a4 48.Nc5 a3 49.Kf5 Kd6 50.Ne4+ Kd5 51.Nd2 Nxh4+ 52.Kg4 Ng2 53.Kf3 a2 54.c4+ Ke6 55.Nb3 Ne1+ 56.Ke4 Nc2 0-1

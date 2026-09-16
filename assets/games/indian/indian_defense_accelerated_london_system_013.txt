@@ -1,0 +1,15 @@
+[Event "Round 6: Hambleton, Aman - Aravindh, Chithambaram VR."]
+[Site "https://lichess.org/broadcast/2026-naroditsky-memorial-rapid-blitz-blitz/round-6/1Fb4ke05/mY2Xjk6H"]
+[Date "2026.07.04"]
+[Round "6.7"]
+[White "Hambleton, Aman"]
+[Black "Aravindh, Chithambaram VR."]
+[Result "1/2-1/2"]
+[WhiteElo "2511"]
+[BlackElo "2569"]
+[ECO "A45"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "Indian Defense: Accelerated London System"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 b6 4.h3 Bb7 5.Nf3 Be7 6.Nbd2 O-O 7.Bd3 c5 8.c3 d5 9.O-O Nc6 10.Qe2 h6 11.Rad1 Bd6 12.Rfe1 Bxf4 13.exf4 Re8 14.a3 a6 15.g3 cxd4 16.Nxd4 Qc7 17.N2f3 Nxd4 18.Nxd4 Ne4 19.Kh2 b5 20.Bb1 e5 21.fxe5 Qxe5 22.Qf3 Re7 23.Re3 Rae8 24.Rde1 g6 25.Kg1 Kg7 26.h4 Qd6 27.Qg2 Nd2 28.Bd3 Rxe3 29.Rxe3 Rxe3 30.fxe3 Ne4 31.Bxe4 dxe4 32.Qf2 Qd5 33.Qf4 Qc4 34.Qf1 Qd5 35.Qf4 Qc5 36.g4 Qc4 37.Qe5+ Kg8 38.Qe8+ Kg7 39.Qe5+ Kh7 40.Qf6 Bd5 41.h5 Qa2 42.hxg6+ fxg6 43.Qe7+ Kg8 44.Qe8+ Kg7 45.Qe7+ Bf7 46.b3 Qa1+ 47.Kf2 Kg8 48.Qd8+ Kg7 49.Qe7 Kg8 50.Qd8+ Kg7 51.Qe7 Kg8 52.Qd8+ 1/2-1/2

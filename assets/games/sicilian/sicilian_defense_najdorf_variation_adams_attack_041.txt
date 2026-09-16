@@ -1,0 +1,14 @@
+[Event "Round 4: Benjamin Wagner - Besou, Hussain"]
+[Site "https://lichess.org/broadcast/german-chess-championship-2026-candidates-men/round-4/6BwjHXBD/HGWIJJzo"]
+[Date "2026.07.21"]
+[Round "4.2"]
+[White "Benjamin Wagner"]
+[Black "Besou, Hussain"]
+[Result "1/2-1/2"]
+[WhiteElo "2285"]
+[BlackElo "2413"]
+[ECO "B90"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nf3 h6 8.Bc4 Be7 9.Be3 Be6 10.Bb3 b5 11.Nh4 O-O 12.Qf3 b4 13.Na4 Nbd7 14.O-O-O Nh7 15.Nf5 Ng5 16.Nxe7+ Qxe7 17.Bxg5 Qxg5+ 18.Kb1 Qe7 19.Qd3 Nf6 20.f3 Rfd8 21.Nb6 Ra7 22.Bxe6 Qxe6 23.Qc4 Qxc4 24.Nxc4 Rad7 25.Rd2 Kf8 26.Rhd1 Ke7 27.a3 bxa3 28.b3 Ke6 29.Nb6 Rb7 30.Na4 Rc7 31.c4 Rc6 32.Ka2 Rb8 33.Kxa3 Ne8 34.Rd3 Nc7 35.Nc3 Kd7 36.f4 f6 37.fxe5 fxe5 38.Rf1 Ne6 39.Nd5 Ke8 40.Rdf3 Rb7 41.h4 Rc8 42.g4 Rcb8 43.Ka2 Rc8 1/2-1/2

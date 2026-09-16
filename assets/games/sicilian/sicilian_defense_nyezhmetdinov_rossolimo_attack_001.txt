@@ -1,0 +1,14 @@
+[Event "Round 2: Chigaev, Maksim - Kovalenko, Igor"]
+[Site "https://lichess.org/broadcast/kazchess-masters-almaty-2026/round-2/QEAjiHnp/WmYZmMha"]
+[Date "2026.07.01"]
+[Round "2.3"]
+[White "Chigaev, Maksim"]
+[Black "Kovalenko, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2648"]
+[BlackElo "2672"]
+[ECO "B30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Ba4 Nge7 5.h4 a6 6.c3 b5 7.Bc2 Bb7 8.d3 d5 9.Qe2 h6 10.Bf4 Nc8 11.Nbd2 Nb6 12.a4 Be7 13.h5 d4 14.O-O dxc3 15.bxc3 O-O 16.axb5 axb5 17.Rxa8 Bxa8 18.d4 cxd4 19.cxd4 Nxd4 20.Nxd4 Qxd4 21.Qxb5 Nd5 22.Nf3 Qb4 23.Qxb4 Nxb4 24.Bb1 Rd8 25.Rc1 Bc6 26.Be3 Bb5 27.g3 Be2 28.Kg2 Nd3 29.Rc3 Bf6 30.Rb3 Ba1 1/2-1/2

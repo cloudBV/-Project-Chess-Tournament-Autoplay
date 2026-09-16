@@ -1,0 +1,15 @@
+[Event "Round 2: Blanc, Leonard - Ghoreishi Amiri, Seyed Kian"]
+[Site "https://lichess.org/broadcast/festival-de-clichy-2026/round-2/30PkMRge/9nGr4fu9"]
+[Date "2026.06.29"]
+[Round "2.1"]
+[White "Blanc, Leonard"]
+[Black "Ghoreishi Amiri, Seyed Kian"]
+[Result "1-0"]
+[WhiteElo "2032"]
+[BlackElo "2444"]
+[ECO "B54"]
+[TimeControl "12+3"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Prins Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 a5 7.a4 d5 8.Bg5 d4 9.c3 Nc6 10.cxd4 Bb4+ 11.Bd2 Nxe4 12.Bxb4 Qh4+ 13.g3 Nxg3 14.hxg3 Qxh1 15.Bc5 b6 16.Ba3 Ba6 17.N1d2 Qg1 18.Qc2 Qxg3+ 19.Kd1 Nd8 20.Qc7 Qg5 21.Ne4 Rc8 22.Nd6+ Kf8 23.Nxc8+ Ke8 24.Nd6+ Kf8 25.Ne4+ 1-0

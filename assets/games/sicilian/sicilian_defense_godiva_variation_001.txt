@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.5"]
+[White "Liang, Jason"]
+[Black "Kaplan, Avi Harrison"]
+[Result "1-0"]
+[WhiteElo "2462"]
+[BlackElo "2251"]
+[ECO "B32"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Godiva Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 g6 6.Be3 Qb4+ 7.Nc3 Bg7 8.Qd2 Bxc3 9.bxc3 Qa4 10.f3 d6 11.Nd4 Nxd4 12.cxd4 b6 13.c4 Ba6 14.Rb1 Rc8 15.Rb4 Qa3 16.Rb3 Qa4 17.Qc3 Rxc4 18.Bxc4 Qxc4 19.Qxc4 Bxc4 20.Ra3 a6 21.d5 f5 22.Bxb6 Kf7 23.Rc3 Bxa2 24.Rc8 Kg7 25.Kd2 fxe4 26.fxe4 Nf6 27.Rxh8 Kxh8 28.Bd4 Bc4 29.Rc1 Bb5 30.Rc7 Kg8 31.Rxe7 Ne8 32.Ke3 h6 33.g4 Ba4 34.e5 Kf8 35.Rb7 Kg8 36.Bc3 Bb5 37.Kd4 Be2 38.Re7 Kf8 39.exd6 Bxg4 40.Ke5 h5 41.Bd2 1-0

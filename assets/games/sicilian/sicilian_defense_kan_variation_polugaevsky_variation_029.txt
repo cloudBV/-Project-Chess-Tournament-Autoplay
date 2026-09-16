@@ -1,0 +1,14 @@
+[Event "Round 10: Savitha Shri B - Dong, Hongfu"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-masters-mto/round-10/qHiGkstR/sRRFMAAx"]
+[Date "2026.07.23"]
+[Round "10.7"]
+[White "Savitha Shri B"]
+[Black "Dong, Hongfu"]
+[Result "1-0"]
+[WhiteElo "2368"]
+[BlackElo "2353"]
+[ECO "B42"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Kan Variation, Polugaevsky Variation"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Bf4 Nc6 8.Bd6 Bb8 9.Bxb8 Rxb8 10.Qg4 Qf6 11.Nc3 Nge7 12.f4 e5 13.O-O d6 14.Qg3 Qg6 15.Qh4 Qg4 16.Qxg4 Bxg4 17.f5 f6 18.Bc4 b5 19.Be6 Nd8 20.Bd5 Rc8 21.Rf2 b4 22.Na4 Nxd5 23.exd5 Rb8 24.a3 O-O 25.axb4 Rxb4 26.Nc3 Rb6 27.Na5 Rb4 28.b3 Rf4 29.Rxf4 exf4 30.Nc6 Re8 31.Rxa6 Nb7 32.Nd4 Nc5 33.Rxd6 Re3 34.Rd8+ Kf7 35.Ncb5 g6 36.Nd6+ Kg7 37.h3 Re1+ 38.Kf2 Rd1 39.Ne6+ Nxe6 40.dxe6 Rd2+ 41.Kg1 Rd1+ 42.Kh2 Bh5 43.e7 1-0

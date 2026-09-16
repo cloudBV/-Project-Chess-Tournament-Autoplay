@@ -1,0 +1,15 @@
+[Event "1� Divis�o"]
+[Site "https://lichess.org/broadcast/portuguese-1st-division-championship-2026/round-6/TDdeBJvE/lktNjPN3"]
+[Date "2026.07.17"]
+[Round "6.7"]
+[White "Albornoz Cabrera, Carlos Daniel"]
+[Black "Sismeiro, Miguel"]
+[Result "1-0"]
+[WhiteElo "2592"]
+[BlackElo "2341"]
+[ECO "B48"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O Ne5 9.Qg3 b5 10.f4 Neg4 11.Bg1 h5 12.e5 b4 13.Na4 Nd5 14.h3 Nh6 15.f5 Bb7 16.Bd3 Be7 17.Kb1 h4 18.Qe1 Nf4 19.Be4 Nxg2 20.Qe2 Nf4 21.Qf3 Bxe4 22.Qxe4 Nd5 23.Bf2 Rc8 24.Ka1 Qa5 25.b3 Nc3 26.Nxc3 bxc3 27.Be3 Qb4 28.Qd3 Rc5 29.Nc6 Qb7 30.Nxe7 Rxe5 31.Bd4 1-0

@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/AM6pJd2e"]
+[Date "2026.07.08"]
+[Round "-"]
+[White "Pujari, Rucha"]
+[Black "Narva, Mai"]
+[Result "1/2-1/2"]
+[WhiteElo "2104"]
+[BlackElo "2342"]
+[ECO "E11"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 d5 6.Bg2 Bxd2+ 7.Qxd2 O-O 8.O-O Rd8 9.Nc3 dxc4 10.e4 e5 11.Nxe5 Qxe5 12.dxe5 Rxd2 13.exf6 Be6 14.Rad1 Rxd1 15.Rxd1 Nc6 16.fxg7 Kxg7 17.f4 Bg4 18.Rd2 Rd8 19.Rxd8 Nxd8 20.f5 f6 21.Bf1 Nf7 22.Bxc4 Nd6 23.Be6 Bf3 24.Kf2 Bxe4 25.Nxe4 Nxe4+ 26.Ke3 Nd6 27.g4 Kf8 28.h4 h6 29.Kf4 Ke7 30.g5 hxg5+ 31.hxg5 fxg5+ 32.Kxg5 Ne4+ 33.Kf4 Nc5 34.Bc4 Kf6 35.b4 Nd7 36.Bd5 c6 37.Be6 Ne5 38.Ke4 b6 39.Bc8 Nf7 40.Kf4 Nd6 41.Be6 Nb5 42.Bd7 Nd6 43.Bxc6 Nxf5 44.Bd7 Nd6 45.Bc6 a5 46.bxa5 bxa5 47.Ke3 Ke5 48.Kd3 Nf5 49.Kc4 Kd6 50.Ba4 Ne3+ 51.Kb5 Nd5 52.Kxa5 Nc3 53.a3 Nb1 54.Kb4 Nxa3 55.Kxa3 1/2-1/2

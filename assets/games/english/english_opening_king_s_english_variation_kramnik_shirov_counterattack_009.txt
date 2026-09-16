@@ -1,0 +1,15 @@
+[Event "30e Festival International Jean-Claude Loubatière"]
+[Site "Hôtel de ville de Montpellier, France"]
+[Date "2026.07.09"]
+[Round "6.4"]
+[White "Lalic, Bogdan"]
+[Black "Degraeve, Remy"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2463"]
+[ECO "A21"]
+[TimeControl "1h30 + 30s per move / 40 + 30min"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.a3 Bc5 5.Nf3 d6 6.d4 exd4 7.Nxd4 c6 8.Nc3 Nf6 9.e3 O-O 10.Be2 Re8 11.O-O Nbd7 12.b3 Ne5 13.Bb2 Qe7 14.h3 Ng6 15.Re1 Ne4 16.Nxe4 Qxe4 17.Bd3 Qh4 18.Nf3 Qh5 19.Bc3 Bb6 20.b4 Bc7 21.b5 Bd7 22.Rb1 c5 23.Nd2 Qg5 24.f4 Qe7 25.Be4 Rab8 26.Qf3 b6 27.Bd5 Qh4 28.Ne4 Ne7 29.Rbd1 Bf5 30.Ng5 Bg6 31.Be4 Nf5 32.Bc6 Re7 33.Qf2 Qxf2+ 34.Kxf2 h6 35.Nf3 d5 36.Bxd5 Nd6 37.Be5 Ne4+ 38.Bxe4 Bxe4 39.Bxc7 Rxc7 40.Rd6 Re7 41.Ne5 Rbb7 42.Red1 Bc2 43.R1d2 Bb3 44.Rd7 f6 45.Rxe7 Rxe7 46.Rd8+ Kh7 47.Nd7 g5 48.Nxb6 gxf4 49.Rd7 fxe3+ 50.Ke1 Rg7 51.Rxg7+ Kxg7 52.Nd7 1-0

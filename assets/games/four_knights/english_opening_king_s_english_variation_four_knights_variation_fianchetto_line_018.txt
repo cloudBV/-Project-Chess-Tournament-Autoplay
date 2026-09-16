@@ -1,0 +1,14 @@
+[Event "Round 2: Bus, Tom - Rohith Krishna S"]
+[Site "https://lichess.org/broadcast/dutch-open-2026-dutch-open/round-2/mfrbie5e/TTUakdAu"]
+[Date "2026.07.22"]
+[Round "2.15"]
+[White "Bus, Tom"]
+[Black "Rohith Krishna S"]
+[Result "0-1"]
+[WhiteElo "2056"]
+[BlackElo "2489"]
+[ECO "A29"]
+[Variant "Standard"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.b3 Be6 8.Bb2 f6 9.Nc3 Qd7 10.Qc1 O-O-O 11.Ne4 Bh3 12.Bxh3 Qxh3 13.a4 a5 14.Rd1 Nd4 15.Nxd4 exd4 16.Qc2 Rd5 17.Rac1 c6 18.Qd3 Rh5 19.Qf3 Qxh2+ 20.Kf1 Qh3+ 21.Qg2 Qd7 22.e3 dxe3 23.dxe3 Rd5 24.Bd4 Ba3 25.Rb1 Bb4 26.Rdc1 Kc7 27.Kg1 h5 28.Bxf6 gxf6 29.Nxf6 Qe6 30.Nxd5+ Nxd5 31.Rc4 Nc3 32.Rb2 Nxa4 33.Rbc2 Nb6 34.Qe4 Qxe4 35.Rxe4 Nd7 36.f4 Nf6 37.Re6 Ng4 38.Rc4 Rd8 39.Rd4 Rxd4 40.exd4 Bc3 41.Re7+ Kb6 42.Rd7 Nf6 43.Rd6 Ne4 44.Rh6 Bxd4+ 45.Kg2 Nf6 46.Rh8 Kc5 0-1

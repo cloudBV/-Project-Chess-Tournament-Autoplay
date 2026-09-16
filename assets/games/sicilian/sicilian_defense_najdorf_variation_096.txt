@@ -1,0 +1,15 @@
+[Event "Round 3: Bujak, Michal - Vitak, Jiri"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-3/Wrjl6evm/7v4GUUv9"]
+[Date "2026.07.17"]
+[Round "3.10"]
+[White "Bujak, Michal"]
+[Black "Vitak, Jiri"]
+[Result "0-1"]
+[WhiteElo "2131"]
+[BlackElo "2373"]
+[ECO "B96"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Bxf6 gxf6 9.Be2 Nc6 10.Qd2 Bd7 11.O-O-O h5 12.g3 O-O-O 13.Bf3 h4 14.Kb1 hxg3 15.hxg3 Be7 16.Bh5 Rh7 17.Nf3 Kb8 18.a3 Na5 19.Qd3 Rg7 20.Nd4 Nc4 21.Nf5 exf5 22.Nd5 Qc5 23.Nxe7 fxe4 24.Qxe4 Ne3 25.Bf3 d5 26.Nxd5 Nxd1 27.Rxd1 Bc6 28.b4 Rxd5 29.Rxd5 Qxd5 30.Qxd5 Bxd5 31.Bxd5 Rxg3 32.f5 Rxa3 33.Bxf7 a5 34.bxa5 Rxa5 35.Bg6 Kc7 36.Kb2 Kd6 37.Kb3 Ke5 38.Kb4 b6 39.c3 Kf4 40.Bh7 Ke3 41.Bg6 Rc5 0-1

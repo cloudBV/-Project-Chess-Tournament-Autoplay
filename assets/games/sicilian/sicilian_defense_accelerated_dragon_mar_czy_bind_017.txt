@@ -1,0 +1,15 @@
+[Event "XLV Open Villa de Benasque"]
+[Site "Benasque, Spain"]
+[Date "2026.07.07"]
+[Round "3.4"]
+[White "Garrigue, Julian"]
+[Black "Samant Aditya S"]
+[Result "0-1"]
+[WhiteElo "2275"]
+[BlackElo "2516"]
+[ECO "B36"]
+[TimeControl "90 min + 30 sec"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd3 a6 11.O-O Bd7 12.Bd4 b5 13.cxb5 axb5 14.Nxb5 Bxb5 15.Qxb5 Nxe4 16.Bxg7 Kxg7 17.Bf3 Rb8 18.Qa4 Nf6 19.b4 d5 20.Rfd1 Qd6 21.b5 e5 22.Rab1 Rfd8 23.g3 e4 24.Bg2 d4 25.Rb4 Ra8 26.Rdxd4 Qc5 27.Qd1 Rxa2 28.Rbc4 Qxc4 29.Rxd8 Qc3 30.Bf1 Ra1 31.Qd6 g5 32.Qd2 Qc5 33.Qb2 Re1 34.Qd2 Rb1 35.Kg2 Qf5 36.Be2 g4 37.Qf4 Qxf4 38.gxf4 h5 39.Rd6 h4 40.Rd1 Rb2 41.Re1 Kg6 42.h3 Nd5 43.f5+ Kxf5 44.hxg4+ Kf4 45.Bc4 Nf6 46.Re2 Rb1 47.Bxf7 h3+ 48.Kh2 Nxg4+ 49.Kxh3 Kf3 0-1

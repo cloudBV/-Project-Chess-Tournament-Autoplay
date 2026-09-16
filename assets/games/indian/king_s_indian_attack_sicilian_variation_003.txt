@@ -1,0 +1,14 @@
+[Event "Round 7: Ral Lustig, Melvin - Frank, Anton"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-junior-sm/round-7/L1655JcU/DLgd71ka"]
+[Date "2026.07.02"]
+[Round "7.3"]
+[White "Ral Lustig, Melvin"]
+[Black "Frank, Anton"]
+[Result "1-0"]
+[WhiteElo "2235"]
+[BlackElo "2213"]
+[ECO "A08"]
+[Variant "Standard"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 g6 4.O-O Bg7 5.d3 Nf6 6.Nc3 d4 7.Nb5 Nc6 8.a4 O-O 9.Bg5 h6 10.Bxf6 Bxf6 11.Nd2 e6 12.Qc1 Kg7 13.c3 a6 14.Na3 Bd7 15.Nb3 dxc3 16.bxc3 b6 17.a5 Rb8 18.axb6 Qxb6 19.Nd2 Qc7 20.Nac4 Na7 21.Rxa6 Nb5 22.Ne4 Be7 23.e3 Rfc8 24.Nb2 f5 25.Nd2 Bf6 26.Nd1 Nd6 27.Qa3 Nb5 28.Qa2 Rb6 29.c4 Rxa6 30.Qxa6 Nd6 31.Qa3 Qb6 32.Nc3 Qb4 33.Qa7 Rd8 34.Ncb1 Nc8 35.Qa6 Qb6 36.Qa3 Bc6 37.Bxc6 Qxc6 38.Rd1 Nb6 39.Nb3 Nxc4 40.Qxc5 Qxc5 41.Nxc5 Kf7 42.Rc1 Nb6 43.Nd2 Rc8 44.d4 e5 45.Ndb3 exd4 46.exd4 g5 47.Kf1 Nd5 48.Rc4 h5 49.Ra4 h4 50.Kg2 hxg3 51.hxg3 Ne7 52.Ra5 Nc6 53.Ra4 Nxd4 54.Nb7 Rb8 55.Nd6+ Ke6 56.Nxd4+ Kxd6 57.Ra6+ Kd5 58.Rxf6 Kxd4 59.Rxf5 Rg8 60.Kf3 g4+ 61.Kf4 Kd3 62.Rg5 Rf8+ 63.Kxg4 Rxf2 64.Rf5 Rh2 65.Kf4 Rf2+ 66.Kg5 Rg2 67.g4 Ke4 68.Rf1 Rg3 69.Kh5 Ke5 70.g5 Ke6 71.Kh6 Ke7 72.g6 Rh3+ 73.Kg7 Rg3 74.Kh7 Rh3+ 75.Kg8 Rg3 76.g7 Rg4 77.Re1+ Kd7 78.Rh1 Ke7 79.Kh7 Kf7 80.g8=Q+ 1-0

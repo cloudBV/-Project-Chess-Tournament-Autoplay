@@ -1,0 +1,15 @@
+[Event "Round 6: Gimenez Menchon, Cesar - Zia, Tahsin Tajwar"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-6/343OmIpb/2gdzlBKz"]
+[Date "2026.07.08"]
+[Round "6.14"]
+[White "Gimenez Menchon, Cesar"]
+[Black "Zia, Tahsin Tajwar"]
+[Result "1/2-1/2"]
+[WhiteElo "2159"]
+[BlackElo "2318"]
+[ECO "B13"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.Ne5 a6 6.c3 Nxe5 7.dxe5 Bf5 8.Bd3 Qc7 9.Qa4+ Bd7 10.Qf4 e6 11.Nd2 Ne7 12.Nf3 Nc6 13.O-O f6 14.exf6 Qxf4 15.Bxf4 gxf6 16.Rfe1 e5 17.Bc2 O-O-O 18.Be3 Bd6 19.Bb6 Rde8 20.Rad1 Ne7 21.Nd2 Bc6 22.Ne4 dxe4 23.Rxd6 Nd5 24.Bc5 f5 25.f3 exf3 26.Bxf5+ Kc7 27.Be4 Nf4 28.Bxc6 bxc6 29.gxf3 Rhg8+ 30.Kh1 Rg2 31.Rf6 Reg8 32.Rxe5 Rxb2 33.Re7+ Kb8 34.Re1 Nd3 35.Rg1 Rxg1+ 36.Bxg1 Rxa2 37.Rxc6 Ra1 38.h4 Nf4 39.Kh2 Ra2+ 40.Kh1 Ra1 41.Kh2 Ra2+ 42.Kh1 Ra1 43.Kh2 Ra2+ 1/2-1/2

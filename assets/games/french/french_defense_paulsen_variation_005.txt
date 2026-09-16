@@ -1,0 +1,15 @@
+[Event "TCEC Season 30 - HCE Competition 1"]
+[Site "tcec-chess.com"]
+[Date "2026.07.10"]
+[Round "13.1"]
+[White "Stash 37.24"]
+[Black "EtherealHCE 14.40"]
+[Result "1/2-1/2"]
+[WhiteElo "3244"]
+[BlackElo "3317"]
+[ECO "C10"]
+[TimeControl "1800+3"]
+[Variant "Standard"]
+[Opening "French Defense: Paulsen Variation"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Be7 4.Bd3 b6 5.Qf3 dxe4 6.Nxe4 Bb7 7.Nd6+ Bxd6 8.Qxb7 Nd7 9.Nf3 Qc8 10.Qc6 Ne7 11.Qe4 Nf6 12.Qe2 O-O 13.O-O c5 14.dxc5 Qxc5 15.g3 Rfd8 16.Bd2 Qh5 17.Kg2 Rab8 18.a3 h6 19.Rfe1 b5 20.b4 Bc7 21.a4 a6 22.axb5 axb5 23.Ra7 Bd6 24.Ra5 Nc6 25.Ra6 Ne7 26.Ra5 Nc6 27.Ra6 Ne7 28.h3 Qd5 29.Rea1 Qb7 30.R6a5 Qc8 31.c3 Ned5 32.R1a3 Nc7 33.Bxb5 Bxg3 34.Ba6 Nxa6 35.fxg3 Nc7 36.c4 Nce8 37.b5 Nd6 38.Ne5 Qb7+ 39.Kh2 Qe4 40.Qxe4 Nfxe4 41.Bb4 f6 42.Nc6 Nxc4 43.Nxd8 Nxa3 44.Nc6 Rxb5 45.Rxa3 Rb6 46.Ne7+ Kh7 47.Ra4 Rb7 48.Nc6 h5 49.Kg2 Ng5 50.Nd4 e5 51.Nf5 Kg6 52.Ne7+ Kh7 53.Nf5 Kg6 54.Ne3 Ne6 55.Bc3 Rc7 56.Be1 Rc1 57.Bd2 Rc7 58.Nc4 Rc6 59.Kf3 Nd4+ 60.Ke4 Rc8 61.Be3 Ne2 62.Kf3 Nc3 63.Nb6 Nxa4 64.Nxc8 Kf7 65.Nd6+ Ke6 66.Ne4 g5 67.Nc5+ Nxc5 68.Bxc5 f5 69.h4 gxh4 70.gxh4 Kd5 71.Bb4 Kd4 72.Bd6 Kd5 73.Bc7 Ke6 74.Ba5 Kd5 75.Bc3 Ke6 76.Bb4 Kf6 77.Bf8 Kg6 78.Ba3 Kf7 79.Bd6 Ke6 80.Bb4 Kf6 81.Bc3 Ke6 82.Ba5 Ke7 83.Bc7 Ke6 84.Ke3 Kd5 85.Bb6 Kd6 86.Kf3 Ke6 87.Ke3 Kf6 88.Bc7 Ke6 89.Ba5 Kf7 90.Bb4 Ke6 91.Bc5 Kf6 92.Bd6 Ke6 93.Bb4 Kf6 94.Kf3 Kf7 95.Be1 Kg6 96.Bd2 Kg7 97.Bc1 Kf7 98.Bd2 Ke7 99.Bh6 Kd7 100.Bg5 Kc6 101.Bd2 Kd6 102.Ke3 Kd7 103.Be1 Ke6 104.Bb4 Kf7 105.Kd3 Ke6 106.Ba3 Kf6 107.Bc5 Ke6 108.Bf2 Kf7 109.Ba7 Ke6 110.Bc5 Kf7 111.Ba3 Ke6 112.Bb4 Kd5 113.Ke2 Ke4 114.Bd2 f4 115.Be1 Kf5 116.Kd3 1/2-1/2

@@ -1,0 +1,15 @@
+[Event "Round 5: Yeganegi, Barad - Karayayla, Doruk"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-5/uwQRFCNB/huJqJBoy"]
+[Date "2026.07.02"]
+[Round "5.15"]
+[White "Yeganegi, Barad"]
+[Black "Karayayla, Doruk"]
+[Result "1-0"]
+[WhiteElo "2376"]
+[BlackElo "2012"]
+[ECO "C02"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Be2 Bd7 7.O-O Nh6 8.dxc5 Bxc5 9.Bxh6 gxh6 10.b4 Bf8 11.Bd3 Bg7 12.Re1 Qc7 13.Qe2 O-O 14.Nbd2 f6 15.exf6 Bxf6 16.b5 Ne7 17.Rac1 Ng6 18.g3 Rae8 19.c4 Qa5 20.Bxg6 hxg6 21.Qd3 Kg7 22.Ne5 Bxe5 23.Rxe5 Rf7 24.Qd4 Kg8 25.cxd5 exd5 26.Rxd5 Bxb5 27.Ne4 Qb6 28.Nd6 Bc6 29.Nxf7 Qxd4 30.Nxh6+ Kh7 31.Rxd4 Kxh6 32.Rd2 Bf3 33.h4 Re5 34.Kf1 a5 35.Rc3 Rf5 36.Rd4 Bc6 37.g4 Rb5 38.a3 Rb2 39.Re3 Rb1+ 40.Ke2 Rb2+ 41.Ke1 Rb1+ 42.Kd2 Rb2+ 43.Kc1 Rxf2 44.Re7 1-0

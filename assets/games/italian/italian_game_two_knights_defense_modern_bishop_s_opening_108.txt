@@ -1,0 +1,14 @@
+[Event "Round 8: Pashikyan, Rudolf - Radovanovic, Nikola"]
+[Site "https://lichess.org/broadcast/serbia-open-2026-masters/round-8/6wYjP924/2C1pjNoQ"]
+[Date "2026.07.21"]
+[Round "8.19"]
+[White "Pashikyan, Rudolf"]
+[Black "Radovanovic, Nikola"]
+[Result "1/2-1/2"]
+[WhiteElo "2308"]
+[BlackElo "2433"]
+[ECO "C55"]
+[Variant "Standard"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.a4 Bc5 6.O-O d6 7.c3 a5 8.Nbd2 O-O 9.Re1 Ba7 10.Nf1 Be6 11.Bb3 Re8 12.Ne3 d5 13.exd5 Nxd5 14.Nc4 Qf6 15.Be3 Nxe3 16.Nxe3 Rad8 17.Bxe6 Rxe6 18.Qc2 Qf4 19.Nc4 f5 20.d4 e4 21.Qd2 Qg4 22.h3 Qh5 23.Qf4 Bb8 24.Nfe5 Nxe5 25.dxe5 c6 26.f3 b5 27.axb5 cxb5 28.Nd6 exf3 29.Qxf3 Qxf3 30.gxf3 Bxd6 31.exd6 Rxe1+ 32.Rxe1 Rxd6 33.Ra1 Rd2 34.b3 b4 35.cxb4 axb4 36.Ra5 f4 37.Rf5 Rd3 38.Rxf4 Rxb3 39.Kg2 Kh7 40.h4 Kg6 41.Kg3 Rb1 42.Kg4 h5+ 43.Kg3 b3 44.Rb4 Kf5 45.Rb5+ Ke6 46.Kf4 b2 47.Rb6+ Kf7 48.Rb7+ Kg6 49.Rb6+ Kh7 50.Kf5 g6+ 51.Kf6 Rf1 52.Rxb2 Rxf3+ 53.Ke5 Re3+ 54.Kf6 Re4 55.Rh2 Kh6 56.Rh1 Ra4 57.Rh2 Ra5 58.Rh1 Rf5+ 59.Ke6 Kg7 60.Rh2 Rf3 61.Ke5 Re3+ 62.Kf4 Ra3 63.Ke5 Ra4 64.Rh1 Kf7 65.Rf1+ Ke7 66.Rf4 Ra5+ 67.Ke4 Ke6 68.Kf3 Ra3+ 69.Kg2 Ke5 70.Rb4 Ra5 71.Kg3 Ra3+ 72.Kg2 Rd3 73.Rb5+ Rd5 74.Rxd5+ Kxd5 75.Kf3 Ke5 76.Ke3 Kf5 77.Kf3 g5 78.hxg5 Ke5 1/2-1/2

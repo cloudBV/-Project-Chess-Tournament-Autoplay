@@ -1,0 +1,15 @@
+[Event "Round 9: Maruflu, Enes Yusuf - Oner, Yigit Efe"]
+[Site "https://lichess.org/broadcast/12th-cesme-international-open-chess-tournament/round-9/A8sisy1y/bjTzAxyk"]
+[Date "2026.07.05"]
+[Round "9.33"]
+[White "Maruflu, Enes Yusuf"]
+[Black "Oner, Yigit Efe"]
+[Result "0-1"]
+[WhiteElo "2204"]
+[BlackElo "2047"]
+[ECO "B40"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+
+1.e4 c5 2.Nf3 e6 3.b3 d6 4.Bb2 Nf6 5.Bb5+ Bd7 6.Bxd7+ Nbxd7 7.Qe2 Be7 8.O-O O-O 9.c4 e5 10.Nc3 Re8 11.d3 Nf8 12.Nd5 Nxd5 13.cxd5 Qd7 14.a4 Ng6 15.Bc1 f5 16.exf5 Qxf5 17.Qe4 Qf7 18.Rb1 b6 19.Ne1 Bf6 20.Nc2 Rad8 21.Ne3 Nf4 22.Bb2 Rf8 23.g3 Ng6 24.h4 Bxh4 25.gxh4 Nf4 26.Ng2 Qh5 27.Rbe1 Nh3+ 28.Kh2 Ng5 29.Qc4 Nf3+ 30.Kg3 Nxe1 31.Rxe1 Rf3+ 32.Kh2 Rxf2 33.Bc1 Rdf8 34.Be3 Rb2 35.Bc1 Rxg2+ 36.Kxg2 Qf3+ 0-1

@@ -1,0 +1,15 @@
+[Event "Round 2: Yadegar, Radin - Predke, Alexandr"]
+[Site "https://lichess.org/broadcast/oskemen-open-2026-masters/round-2/SjXuQ4IK/9QKabiYS"]
+[Date "2026.07.22"]
+[Round "2.2"]
+[White "Yadegar, Radin"]
+[Black "Predke, Alexandr"]
+[Result "1/2-1/2"]
+[WhiteElo "2464"]
+[BlackElo "2603"]
+[ECO "E44"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, American Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ne4 6.Bd2 Nxd2 7.Qxd2 d5 8.a3 Be7 9.cxd5 exd5 10.g3 c6 11.Bg2 Nd7 12.O-O Nf6 13.b4 a6 14.e4 dxe4 15.Nxe4 Nd5 16.N4c3 O-O 17.Nxd5 cxd5 18.Qa2 Bb7 19.Nf4 a5 20.b5 Bd6 21.Bxd5 Bxd5 22.Nxd5 Bxa3 23.Nxb6 Qxb6 24.Qxa3 Qxb5 25.Qc5 Qa6 26.d5 Rfc8 27.Qa3 Rd8 28.Rfd1 Qd6 29.Qa4 Rdc8 30.Qa3 Rc5 31.Rac1 Rxc1 32.Qxc1 h5 33.Qc6 Rd8 34.Qb5 Qb4 35.Qxb4 axb4 36.d6 Kf8 37.d7 Ke7 38.Rd4 Rb8 39.d8=Q+ Rxd8 40.Rxb4 g6 1/2-1/2

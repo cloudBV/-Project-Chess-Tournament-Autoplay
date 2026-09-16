@@ -1,0 +1,14 @@
+[Event "Round 2.2: Vrolijk, Liam - Ernst, Sipke"]
+[Site "https://lichess.org/broadcast/dutch-championship-2026-open/round-22/3TtQko9W/WNOSSeFS"]
+[Date "2026.07.06"]
+[Round "6.3"]
+[White "Vrolijk, Liam"]
+[Black "Ernst, Sipke"]
+[Result "1/2-1/2"]
+[WhiteElo "2519"]
+[BlackElo "2540"]
+[ECO "C49"]
+[Variant "Standard"]
+[Opening "Four Knights Game: Spanish Variation, Nimzowitsch Variation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6 dxc6 7.Nxe5 Bxc3 8.dxc3 Qxd1 9.Rxd1 Nxe4 10.Bf4 Nd6 11.Nd3 Re8 12.f3 Bf5 13.Re1 Rad8 14.Kf2 f6 15.h4 Kf7 16.Rxe8 Nxe8 17.Rd1 Kf8 18.Rd2 b6 19.g4 Bc8 20.c4 c5 21.b3 Rd7 22.Nc1 Rxd2+ 23.Bxd2 Ke7 24.Bf4 Be6 25.Ke3 Bf7 26.h5 g6 27.hxg6 Bxg6 28.Nd3 h5 29.gxh5 Bxh5 30.Bh2 Bg6 31.Bf4 Bh5 32.Bh2 Bg6 33.Bf4 Bh5 34.Ke4 1/2-1/2

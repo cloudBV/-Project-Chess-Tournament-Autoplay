@@ -1,0 +1,14 @@
+[Event "Round 2: Ivanovic, Marko - Djukic, Nikola"]
+[Site "https://lichess.org/broadcast/montenegro-open-mediterranean-championship-2026-open-a/round-2/S17Q9VpY/gvcUjJ9p"]
+[Date "2026.07.05"]
+[Round "2.9"]
+[White "Ivanovic, Marko"]
+[Black "Djukic, Nikola"]
+[Result "1/2-1/2"]
+[WhiteElo "2291"]
+[BlackElo "2470"]
+[ECO "E94"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Na6 8.Be3 Qe7 9.dxe5 dxe5 10.Nd5 Qd8 11.Qc2 Ng4 12.Rfd1 Nxe3 13.Nxe3 Qe7 14.c5 Qxc5 15.Rac1 Qxc2 16.Rxc2 Be6 17.Bxa6 bxa6 18.Rxc7 Rfc8 19.Rxc8+ Rxc8 20.b3 Bh6 21.Nxe5 Bxe3 22.fxe3 Rc2 23.Nd3 Rxa2 24.Nc5 Rb2 25.Nxe6 fxe6 26.Rd6 1/2-1/2

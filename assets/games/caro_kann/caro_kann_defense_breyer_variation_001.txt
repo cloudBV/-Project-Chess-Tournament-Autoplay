@@ -1,0 +1,14 @@
+[Event "Round 5: Ivenholt, Niklas - Joensson, Oscar"]
+[Site "https://lichess.org/broadcast/schack-sm-2026-mastarklassen/round-5/JTTwQAOc/0EDjdgu7"]
+[Date "2026.07.01"]
+[Round "5.23"]
+[White "Ivenholt, Niklas"]
+[Black "Joensson, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo "2043"]
+[BlackElo "2114"]
+[ECO "B10"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bd6 5.d4 exd4 6.Bd3 Ne7 7.Nxd4 dxe4 8.Nxe4 Bb4+ 9.c3 Qxd4 10.O-O Qd8 11.cxb4 O-O 12.Bg5 Qc7 13.Qh5 Ng6 14.f4 f5 15.Bc4+ Kh8 16.Nd2 Nd7 17.Rf3 Nf6 18.Bxf6 Rxf6 19.Rh3 h6 20.Rf1 Be6 21.Bxe6 Nxf4 22.Rxf4 Qxf4 23.Qe2 Rxe6 24.Qxe6 Qxd2 25.Qxf5 Qxb2 26.a3 Re8 27.Rf3 Qc1+ 28.Rf1 Qxa3 1/2-1/2

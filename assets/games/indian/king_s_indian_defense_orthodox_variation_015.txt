@@ -1,0 +1,15 @@
+[Event "rzeszow"]
+[Site "Rzeszow"]
+[Date "2026.07.06"]
+[Round "8.1"]
+[White "Lyakh, Vasiliy"]
+[Black "Raczek, Krzysztof"]
+[Result "0-1"]
+[WhiteElo "2334"]
+[BlackElo "2458"]
+[ECO "E91"]
+[TimeControl "3+2"]
+[Variant "Standard"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d6 5.e4 O-O 6.Be2 Re8 7.h3 Nc6 8.d5 Nb4 9.O-O e6 10.a3 Na6 11.Re1 Nc5 12.Bf1 a5 13.Bg5 h6 14.Bf4 e5 15.Bd2 a4 16.Qc2 Bd7 17.Be3 Nb3 18.Rad1 b6 19.Nd2 Nc5 20.Be2 Qc8 21.Nf1 Nb3 22.Ng3 h5 23.Bf1 Kh7 24.Bg5 Ng8 25.Bd3 Bh6 26.Bxh6 Nxh6 27.Qe2 Qd8 28.Bc2 Nc5 29.Qe3 Qh4 30.Rf1 Qf4 31.Rd2 Qxe3 32.fxe3 Kg7 33.Rdf2 Rf8 34.Kh2 Ng8 35.Kg1 Ne7 36.Bb1 Nc8 37.Bc2 Na7 38.Re2 b5 39.cxb5 Nxb5 40.Ref2 Nxc3 41.bxc3 Rab8 42.Ne2 Rb2 43.Nc1 Bb5 44.Re1 Bc4 45.Bd1 Rb1 46.Bc2 Ra1 47.g4 hxg4 48.hxg4 Rxa3 49.Kg2 Rxc3 50.Bb1 a3 51.Na2 Bxa2 52.Bxa2 Rb8 53.Kf3 Rb2 54.Rxb2 axb2 55.Rb1 Rc2 56.g5 Rd2 57.Bc4 Na4 0-1

@@ -1,0 +1,15 @@
+[Event "Junior Super Tournament 3 - Final playoff"]
+[Site "EA Business Hotel Jihlava, Czech Republic"]
+[Date "2026.07.12"]
+[Round "12.4"]
+[White "Jun, Rudolf"]
+[Black "Mica, Marek"]
+[Result "1/2-1/2"]
+[WhiteElo "2303"]
+[BlackElo "2284"]
+[ECO "B10"]
+[TimeControl "25 min + 10 sec."]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Endgame Variation"]
+
+1.e4 c6 2.Nf3 d5 3.d3 dxe4 4.dxe4 Qxd1+ 5.Kxd1 Bg4 6.Nc3 Nd7 7.Bf4 e5 8.Be3 Bc5 9.h3 Bxf3+ 10.gxf3 Bxe3 11.fxe3 Ngf6 1/2-1/2

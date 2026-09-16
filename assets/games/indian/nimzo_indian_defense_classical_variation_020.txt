@@ -1,0 +1,15 @@
+[Event "Round 5: Madajczak, Piotr - Chylewski, Patryk"]
+[Site "https://lichess.org/broadcast/czech-open-2026-e/round-5/2kJ6JdtP/Cy26tTp3"]
+[Date "2026.07.18"]
+[Round "5.30"]
+[White "Madajczak, Piotr"]
+[Black "Chylewski, Patryk"]
+[Result "1/2-1/2"]
+[WhiteElo "2139"]
+[BlackElo "2303"]
+[ECO "E32"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Nf3 Nbd7 6.g3 Bxc3+ 7.Qxc3 b6 8.Bg2 Bb7 9.b4 c5 10.dxc5 bxc5 11.b5 d5 12.cxd5 Bxd5 13.O-O a6 14.bxa6 Rxa6 15.Be3 O-O 16.Rfc1 Qa8 17.Qc2 Rc8 18.Ne1 Ra3 19.Bxd5 Nxd5 20.Bd2 N5b6 21.Rcb1 Qd5 22.Rb3 Ra6 23.Rd3 Qe4 24.Be3 Nd5 25.Qc1 N7b6 26.Nf3 c4 27.Ra3 Rxa3 28.Qxa3 Nxe3 29.Qxe3 Qxe3 30.fxe3 Ra8 31.Kf2 Kf8 32.e4 Ke7 33.Rb1 Nd7 34.Rb4 c3 35.Rc4 Ra3 36.Nd4 Nb6 37.Rc7+ Ke8 38.Nb5 Rxa2 39.Nd6+ Kd8 40.Rxc3 f6 41.Rb3 Nd7 42.Rb7 Rd2 43.Nc4 Rd4 44.Nb6 Nxb6 45.Rxb6 Rxe4 46.Kf3 f5 47.Rb7 Rg4 48.h3 Rg6 49.Kf4 h6 50.g4 fxg4 51.hxg4 Ke8 52.e4 Rf6+ 53.Ke5 Kf8 54.Ra7 Rg6 55.Kf4 Rf6+ 56.Ke5 Rg6 57.Kf4 e5+ 58.Kxe5 Rxg4 59.Kf5 Rg1 60.e5 h5 61.e6 Rf1+ 62.Kg5 Rh1 63.Kg6 h4 64.Rf7+ Ke8 65.Kxg7 h3 66.Kh8 h2 67.Rh7 Kf8 68.Rf7+ Ke8 69.Rh7 Kf8 1/2-1/2

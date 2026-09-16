@@ -1,0 +1,15 @@
+[Event "Round 8: Sharnarthi Shlok - Stevanic, David"]
+[Site "https://lichess.org/broadcast/19-international-tournament-paracin-2026-open-a/round-8/dVsyXoYf/AEZQZW8X"]
+[Date "2026.07.10"]
+[Round "8.18"]
+[White "Sharnarthi Shlok"]
+[Black "Stevanic, David"]
+[Result "0-1"]
+[WhiteElo "2134"]
+[BlackElo "2326"]
+[ECO "C56"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Italian Game: Scotch Gambit, Anderssen Attack"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qd8 9.Nxe4 Be7 10.Bg5 O-O 11.Bxe7 Qxe7 12.Nxd4 Bd7 13.Nb3 Rae8 14.Nf6+ Qxf6 15.Qxd7 Rxe1+ 16.Rxe1 Qxb2 17.Qxc7 Qc3 18.Re3 Qxc2 19.Re1 Qc3 20.Rc1 Re8 21.h3 Qb4 22.Nc5 Qd2 23.Nb3 Qb4 24.Nc5 g6 25.Nxb7 Nd4 26.Nd6 Rf8 27.Qe7 Qd2 28.Re1 Nc6 29.Nc4 Qxa2 30.Qc5 Nd8 31.Nd6 Qd2 32.Re7 Ne6 33.Qe5 a5 34.g3 Qd1+ 35.Kg2 Ng5 36.Qxg5 Qxd6 37.Ra7 Qc6+ 38.Kg1 Rb8 39.Kh2 Qb6 40.Qe3 Qxe3 41.fxe3 Rb2+ 42.Kg1 Ra2 43.g4 h6 44.e4 a4 45.Ra8+ Kg7 46.e5 a3 47.h4 h5 48.g5 Re2 49.Rxa3 Re4 50.Rh3 Rxe5 51.Kf2 Re4 52.Rh1 Rg4 53.Kf3 Kf8 54.Rh2 Ke7 55.Rh1 Ke6 56.Ke3 Ke5 57.Kf3 Kf5 58.Ra1 Rxh4 59.Ra5+ Ke6 60.Ra6+ Ke7 61.Ra7+ Kf8 62.Ra8+ Kg7 63.Ra5 Rb4 64.Kg3 Rb7 65.Ra6 Rb5 66.Kh4 Rf5 67.Ra8 Rf4+ 68.Kh3 Rg4 69.Ra5 Kf8 70.Re5 f6 71.Re6 Rxg5 72.Rxf6+ Kg7 73.Ra6 Rb5 74.Ra4 Kh6 75.Kh4 g5+ 76.Kh3 Rb3+ 77.Kh2 h4 78.Ra5 Kh5 79.Kg2 h3+ 80.Kh2 Kh4 81.Ra8 Rb2+ 82.Kh1 g4 83.Ra3 Rd2 84.Rb3 g3 85.Rb4+ Kg5 86.Rb5+ Kf4 87.Rb4+ Kf3 88.Rb1 Ke2 89.Rg1 Rd1 0-1

@@ -1,0 +1,14 @@
+[Event "Round 6: Bougas, Georgios - Boutikos, Eleftherios"]
+[Site "https://lichess.org/broadcast/greek-youth-u20-individual-championships-2026-open/round-6/xbD8EBx0/8WQlBOW4"]
+[Date "2026.07.15"]
+[Round "6.3"]
+[White "Bougas, Georgios"]
+[Black "Boutikos, Eleftherios"]
+[Result "1/2-1/2"]
+[WhiteElo "2021"]
+[BlackElo "2189"]
+[ECO "B31"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 b6 7.O-O Nf6 8.Nc3 O-O 9.Be3 e5 10.Qd2 Qd6 11.Bh6 Nh5 12.Ne2 f6 13.a3 g5 14.Bxg7 Nxg7 15.Ng3 a5 16.Rab1 a4 17.Qe3 Be6 18.Rfd1 Rad8 19.c3 g4 20.hxg4 Bxg4 21.Rd2 Ne6 22.Nh2 f5 23.Nxg4 fxg4 24.Nf5 Qc7 25.g3 Kh8 26.Qh6 Qf7 27.Kg2 Qf6 28.Qxf6+ Rxf6 29.Ne3 Rg6 30.Nc4 Ng5 31.Nxe5 Re6 32.f4 gxf3+ 33.Nxf3 Nf7 34.Rh1 Rg8 35.Rf2 Nd6 36.Nd2 b5 37.Rh5 c4 38.e5 Ne8 39.dxc4 Ng7 40.Rg5 h6 41.Rg4 Rxe5 42.cxb5 cxb5 43.Nf3 Rf5 44.Nd4 Rxf2+ 45.Kxf2 Rb8 46.Rg6 Kh7 47.Rc6 Rf8+ 48.Kg2 Nh5 49.Rc7+ Kg6 50.Nxb5 Re8 51.Rc6+ Nf6 52.Nd4 Rb8 53.Ra6 Rxb2+ 54.Kf3 Rd2 55.Ne2 Rd3+ 56.Kf2 Kf5 57.Ra5+ Rd5 58.Rxa4 Ng4+ 59.Ke1 Ne3 60.Ra8 Rd1+ 61.Kf2 Ng4+ 62.Kg2 Rd2 63.Kf3 Rd3+ 64.Kg2 Rd2 65.Re8 Ra2 66.Kh3 h5 67.Nd4+ Kg6 68.Nf3 Rxa3 69.Ne5+ 1/2-1/2

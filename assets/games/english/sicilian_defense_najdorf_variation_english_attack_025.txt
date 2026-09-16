@@ -1,0 +1,15 @@
+[Event "2nd Arpad-hazi Jolan Open"]
+[Site "Esztergom, Hungary"]
+[Date "2026.07.11"]
+[Round "6.5"]
+[White "Borocz, Lorinc"]
+[Black "Englert, Luca"]
+[Result "1-0"]
+[WhiteElo "2167"]
+[BlackElo "2291"]
+[ECO "B90"]
+[TimeControl "90 minutes with 30 second increment from move 1"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O 9.h3 Be6 10.Bb3 Nc6 11.Qe2 b5 12.O-O-O Rc8 13.Kb1 Qc7 14.g4 b4 15.Nd5 Bxd5 16.exd5 Na5 17.g5 Ne4 18.h4 f5 19.gxf6 Bxf6 20.Ng5 Bxg5 21.hxg5 g6 22.Rh4 Nc5 23.Rdh1 Rf7 24.Rxb4 Qd7 25.Qg4 Qf5 26.Qxf5 gxf5 27.Rbh4 Rg7 28.g6 Rxg6 29.Rxh7 Rg1+ 30.Rxg1+ Kxh7 31.Bd2 Naxb3 32.axb3 Ne4 33.Be1 Kh6 34.c4 f4 35.Kc2 Ng5 36.Bb4 Rd8 37.Ra1 Nf7 38.Rxa6 Kg5 39.Ra7 Kf6 40.Bc3 Rh8 41.Kd3 Rh2 42.b4 Ng5 43.c5 Kf5 44.c6 e4+ 45.Kc4 e3 46.fxe3 f3 47.c7 f2 48.c8=Q+ Kg6 49.Rg7+ Kh5 50.Qf5 1-0

@@ -1,0 +1,14 @@
+[Event "Round 5: Kiryttopoulos, Ioannis - Anagnostopoulos, Panagiotis"]
+[Site "https://lichess.org/broadcast/53rd-greek-team-championship-2026/round-5/22BFA2p2/tQZh0mMo"]
+[Date "2026.07.08"]
+[Round "5.29"]
+[White "Kiryttopoulos, Ioannis"]
+[Black "Anagnostopoulos, Panagiotis"]
+[Result "1-0"]
+[WhiteElo "2123"]
+[BlackElo "2058"]
+[ECO "C05"]
+[Variant "Standard"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.c4 dxc4 6.Nxc4 Be7 7.Nf3 O-O 8.Bd3 c5 9.Qc2 h6 10.Qe2 Nc6 11.h4 Nb4 12.Bb1 cxd4 13.Nxd4 Nc5 14.Be3 f5 15.exf6 Bxf6 16.a3 Nd5 17.Nc6 bxc6 18.Bxc5 Be7 19.Bd4 e5 20.Bxe5 Bc5 21.O-O Qxh4 22.Nd6 Nf4 23.Qc2 Nd3 24.g3 Rxf2 25.Rxf2 Qh3 26.Ba2+ Be6 27.Bxe6+ Qxe6 28.Qxd3 Qxe5 29.Qc4+ Qd5 30.Kf1 Bxd6 31.Qxd5+ cxd5 32.Kg2 Rb8 33.Rd1 Rb3 34.Rxd5 Rxg3+ 35.Kf1 Be7 36.Re5 Bf6 37.Re4 h5 38.Ra4 h4 39.Rxa7 Rb3 40.Ra8+ Kh7 41.Ra4 h3 42.Raf4 Be5 43.R4f3 h2 44.Rxh2+ 1-0

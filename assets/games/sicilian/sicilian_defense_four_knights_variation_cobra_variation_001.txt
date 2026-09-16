@@ -1,0 +1,15 @@
+[Event "54th World Open - 2026"]
+[Site "Washington DC, United States"]
+[Date "2026.07.02"]
+[Round "3.19"]
+[White "Wang, Ted"]
+[Black "Deviprasath, Sharvesh"]
+[Result "1/2-1/2"]
+[WhiteElo "2195"]
+[BlackElo "2422"]
+[ECO "B45"]
+[TimeControl "G/90; SD/30; d30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bc5 6.Ndb5 Nf6 7.Nd6+ Ke7 8.Bf4 e5 9.Nf5+ Kf8 10.Bg5 Bb4 11.Bxf6 Qxf6 12.Ne3 Bxc3+ 13.bxc3 g6 14.Bc4 Kg7 15.O-O d6 16.Qd3 Rd8 17.Nd5 Qg5 18.Bb3 Rb8 19.f4 exf4 20.Nxf4 b6 21.Rf2 Rb7 22.Raf1 Ne5 23.Qd4 Kg8 24.Nd3 Be6 25.Nf4 Bc8 26.Nd3 Be6 27.Nf4 Bc8 28.a4 Ng4 29.Rf3 Ne5 30.R3f2 Ng4 31.Rf3 Ne5 32.Rg3 Qh6 33.Nd3 Qg7 34.Nf4 Qh6 35.Nd3 Qg7 36.Nf4 Qh6 1/2-1/2

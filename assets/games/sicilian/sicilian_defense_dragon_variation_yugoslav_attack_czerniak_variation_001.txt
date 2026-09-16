@@ -1,0 +1,14 @@
+[Event "Round 11: Rappazzo, Johannes - Tureshbayev, Anuar"]
+[Site "https://lichess.org/broadcast/59th-biel-international-chess-festival-2026-open-blitz-btz/round-11/GLXxoqwc/emcORf3w"]
+[Date "2026.07.19"]
+[Round "11.9"]
+[White "Rappazzo, Johannes"]
+[Black "Tureshbayev, Anuar"]
+[Result "1-0"]
+[WhiteElo "2032"]
+[BlackElo "2328"]
+[ECO "B77"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Nxd4 10.Bxd4 Be6 11.Bb3 Qa5 12.O-O-O Bxb3 13.cxb3 b5 14.Kb1 b4 15.Nd5 Nxd5 16.Bxg7 Kxg7 17.exd5 Rac8 18.h4 h5 19.g4 Rh8 20.Rhg1 hxg4 21.Rxg4 Rh5 22.Qd4+ Kh7 23.Rg5 Rh6 24.h5 Qc5 25.hxg6+ fxg6 26.Qe4 e5 27.dxe6 Qxg5 28.Qb7+ Kh8 29.Qxc8+ Kh7 30.Qd7+ Kh8 31.Rc1 Qf5+ 32.Ka1 Qc5 33.Qe8+ Kg7 34.Qe7+ Kg8 35.Qf7+ Kh8 36.Qf8+ Kh7 37.Qxh6+ Kxh6 38.Rxc5 1-0

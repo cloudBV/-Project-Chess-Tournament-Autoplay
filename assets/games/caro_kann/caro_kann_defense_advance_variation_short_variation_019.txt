@@ -1,0 +1,15 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/Gqv3QNrf"]
+[Date "2026.07.09"]
+[Round "-"]
+[White "Narva, Mai"]
+[Black "Mkrtchyan, Mariam"]
+[Result "1/2-1/2"]
+[WhiteElo "2342"]
+[BlackElo "2199"]
+[ECO "B12"]
+[TimeControl "180+2"]
+[Variant "Standard"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Ne7 7.Nbd2 Bg6 8.Nb3 Nf5 9.a4 h5 10.a5 a6 11.c4 Be7 12.h3 h4 13.Nh2 f6 14.exf6 gxf6 15.cxd5 cxd5 16.Bd3 Bd6 17.Ng4 Kf7 18.Bxf5 Bxf5 19.Nh6+ Kg6 20.Nxf5 exf5 21.Qf3 Nb8 22.Bf4 Nc6 23.Rfe1 Qc7 24.Bd2 Qf7 25.Qd3 Rae8 26.Rad1 Re4 27.f3 Ree8 28.Nc1 Bg3 29.Rxe8 Rxe8 30.Ne2 Qc7 31.Be1 Bxe1 32.Rxe1 Re7 33.Rc1 Qd6 34.Qd2 Kg7 35.Nf4 Qb4 36.Qxb4 Nxb4 37.Rc5 Re1+ 38.Kf2 Rb1 39.Nxd5 Rxb2+ 40.Kg1 Nxd5 41.Rxd5 Kg6 42.Rd8 Kg5 43.d5 Kf4 44.d6 Rd2 45.Kf1 Kg3 46.Ke1 Rd5 47.d7 Kh2 48.Ke2 f4 49.Kf2 Rd2+ 50.Ke1 Rd5 51.Ke2 Rd6 52.Ke1 Rd5 53.Ke2 Rd6 54.Ke1 Rd5 1/2-1/2

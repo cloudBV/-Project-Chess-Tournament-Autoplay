@@ -1,0 +1,15 @@
+[Event "Round 7: Villa Tornero, Alex - Herman Gamazo, Isaac"]
+[Site "https://lichess.org/broadcast/xxvi-obert-internacional-sant-marti-2026/round-7/YFC1RWfd/LdBZkVW5"]
+[Date "2026.07.19"]
+[Round "7.5"]
+[White "Villa Tornero, Alex"]
+[Black "Herman Gamazo, Isaac"]
+[Result "1-0"]
+[WhiteElo "2448"]
+[BlackElo "2264"]
+[ECO "B30"]
+[TimeControl "90+30"]
+[Variant "Standard"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Bxc6 dxc6 5.d3 Qc7 6.h3 e5 7.Nc3 Be7 8.a4 Nd7 9.Nd2 Nf8 10.Nc4 Be6 11.b3 f6 12.Be3 Bf7 13.Qd2 Ne6 14.a5 O-O 15.Ne2 b5 16.Nb2 Rfd8 17.O-O Qd7 18.Kh1 Nd4 19.f4 Nxe2 20.Qxe2 exf4 21.Bxf4 Qd4 22.Rab1 Re8 23.Nd1 Qd8 24.Ra1 c4 25.bxc4 bxc4 26.Ne3 cxd3 27.cxd3 Be6 28.Rfc1 Bd6 29.Bxd6 Qxd6 30.Rc3 Rab8 31.Rac1 Bd7 32.Qf2 Qd4 33.Qg3 Rb5 34.Nc4 Reb8 35.Nd2 R8b7 36.a6 Rb8 37.Nf3 Qb6 38.Qd6 Be8 39.Nh4 c5 40.Qe7 Qxa6 41.Nf5 Qb7 42.Qd6 Qd7 43.Qg3 Bg6 44.Rxc5 Rb1 45.Kh2 R1b7 46.Rc7 Qd8 47.Nxg7 Rxc7 48.Rxc7 Rb3 49.Ne6 Qe8 50.Nf4 a5 51.h4 Qe5 52.Rc8+ Kf7 53.h5 Qg5 54.hxg6+ hxg6 55.Rc7+ Kg8 56.Rc8+ Kf7 57.Rf8+ Ke7 58.Nd5+ Kxf8 59.Qd6+ Kg7 60.Qe7+ Kh6 61.Qf8+ Kh5 62.Nxf6+ 1-0
