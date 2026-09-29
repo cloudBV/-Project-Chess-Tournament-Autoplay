@@ -12,6 +12,7 @@ config_version=5
 
 config/name="Chess Tournament Autoplayer (Learn By Opening)"
 run/main_scene="uid://b6ymqlnef2ii6"
+config/quit_on_go_back=false
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="uid://c60n2a0m6g66a"
 
@@ -19,8 +20,8 @@ config/icon="uid://c60n2a0m6g66a"
 
 window/size/viewport_width=1080
 window/size/viewport_height=2400
-window/size/window_width_override=270
-window/size/window_height_override=600
+window/size/window_width_override=405
+window/size/window_height_override=900
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 window/handheld/orientation=1

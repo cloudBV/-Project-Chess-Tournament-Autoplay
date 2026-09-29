@@ -2,8 +2,10 @@
 
 [ext_resource type="Script" uid="uid://dnlmqijjjghtg" path="res://scripts/main.gd" id="1_0wfyh"]
 [ext_resource type="PackedScene" uid="uid://cggcr4ephbtmj" path="res://scenes/chess_board.tscn" id="1_o5qli"]
-[ext_resource type="Texture2D" uid="uid://cue4pbgsel04u" path="res://king_tile.svg" id="2_jyhfs"]
+[ext_resource type="Texture2D" uid="uid://caw1wk7dnoaxj" path="res://king_tile.svg" id="2_jyhfs"]
 [ext_resource type="PackedScene" uid="uid://bevlm65akej2u" path="res://scenes/ui.tscn" id="3_sugp2"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5h11f"]
 
 [node name="Main" type="Node" unique_id=1136327299]
 script = ExtResource("1_0wfyh")
@@ -22,3 +24,15 @@ stretch_mode = 1
 [node name="MoveTimer" type="Timer" parent="." unique_id=1637198635]
 
 [node name="UI" parent="." unique_id=692594121 instance=ExtResource("3_sugp2")]
+
+[node name="MoveNotationLabel" type="Label" parent="." unique_id=1429630028]
+custom_maximum_size = Vector2(1080, 300)
+offset_top = 300.0
+offset_right = 1080.0
+offset_bottom = 500.0
+theme_override_font_sizes/font_size = 42
+theme_override_styles/normal = SubResource("StyleBoxFlat_5h11f")
+text = "MOVE NOTATION HERE, EACH MOVE CAN BE CLICKED TO GO TO THAT MOVE AND ALL THAT STUFF"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3

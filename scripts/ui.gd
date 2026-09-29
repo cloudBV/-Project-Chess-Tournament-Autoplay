@@ -1,5 +1,7 @@
 extends CanvasLayer
 
+var last_back_ms : int = 0
+
 signal next_game_pressed
 signal restart_pressed
 signal auto_advance_toggled(is_on : bool)
@@ -25,8 +27,23 @@ signal time_control_toggled(time_control : String, is_on : bool)
 
 @onready var credit_button = $CreditButton
 
+@onready var select_all_button = $Menu/SelectAllButton
+@onready var clear_all_button = $Menu/ClearAllButton
+
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
+	
+	select_all_button.pressed.connect(func():
+		for checkbox in category_list.get_children():
+			if not checkbox.button_pressed:
+				checkbox.button_pressed = true
+		)
+	
+	clear_all_button.pressed.connect(func():
+		var checkboxes = category_list.get_children()
+		for i in range(checkboxes.size()):
+			checkboxes[i].button_pressed = (i == 0)
+		)
 	
 	credit_button.pressed.connect(func(): OS.shell_open('https://cloudbv.itch.io'))
 	
@@ -105,3 +122,14 @@ func set_auto_advance_label(is_on : bool):
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	pass
+
+func _notification(what: int) -> void:
+	if what == NOTIFICATION_WM_GO_BACK_REQUEST:
+		var now = Time.get_ticks_msec()
+		if now - last_back_ms < 400:
+			return
+		last_back_ms = now
+		if menu.visible:
+			menu.visible = false
+		else:
+			get_tree().quit()
